@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discovercircuits.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101225830id_/http%3A//www.discovercircuits.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovercircuits.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531032308id_/http%3A//discovercircuits.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for www.discovercircuits.com (updated 04/04/09)
 
@@ -14,15 +14,15 @@ We recognize that privacy of your personal information is important. Here is inf
 
 **Cookies and Tracking Information**
 
-> This Site may use cookies for any of a variety of reasons, including but not limited to improving quality, better understanding how users interact with us and for session management purposes. For example,  Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+> This Site may use cookies for any of a variety of reasons, including but not limited to improving quality, better understanding how users interact with us and for session management purposes. For example, Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
 > 
-> If for some reason you would rather not take advantage of the benefits made possible with cookies, most browsers allow you to reject cookies or to choose which cookies to accept.  Also,  Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+> If for some reason you would rather not take advantage of the benefits made possible with cookies, most browsers allow you to reject cookies or to choose which cookies to accept.  Also, Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-**Third-Party Websites**
+** Third-Party Websites**
 
 > This Site may contain links to third-party sites not owned or operated by us. We are not responsible for the privacy practices or the content of such websites operated by third parties. Once you have left the website, we suggest you check the applicable privacy policy of the third-party website to determine how they will handle any information they collect from you. 
 > 
-> The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web.
+> The [ DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web.
 
 We also use third party advertisements on www.discovercircuits.com to support our site.  Some of these companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
