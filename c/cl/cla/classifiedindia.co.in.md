@@ -1,25 +1,11 @@
-> *The following text is extracted and transformed from the classifiedindia.co.in privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231165930id_/http%3A//www.classifiedindia.co.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedindia.co.in privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531020206id_/http%3A//www.classifiedindia.co.in/privacy.php) for the most accurate reproduction.*
 
 # Free India classifieds, Free classifieds in India, Classifieds India,India classifieds, All India classifieds - India - Classified india
 
 adsense ads 
 
+  
 | 
-
-Images (2)  
-  
----  
-  
-[ ](http://www.classifiedindia.co.in/-1/images/62e82d0089900117c1c6e2403052d00d/48.html)
-
-**Immigration,Jobs Assistance ,Study Abroad,Training**  
-Posted by **orminida**
-
-**[View all Images](http://www.classifiedindia.co.in/-1/images/)**   
-**[Post Image](http://www.classifiedindia.co.in/?view=postimg&cityid=-1&lang=en)**  
-  
-  
-
 
 | 
 
