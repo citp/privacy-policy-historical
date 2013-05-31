@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the speedtest.net.in privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109015406id_/http%3A//speedtest.net.in/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedtest.net.in privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531232353id_/http%3A//speedtest.net.in/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - speedtest.net.in
 
+[](http://speedtest.net.in/privacy_policy)
+
 The privacy of our visitors to speedtest.net.in is important to us.
 
-At voiptest.org we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit ping-test.net, and how we safeguard your information. We never sell your personal information to third parties.
+At speedtest.net.in we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit speedtest.net.in, and how we safeguard your information. We never sell your personal information to third parties.
 
 Log Files
 
