@@ -1,1014 +1,399 @@
-<!--The following is the downloaded HTML source of the jobs-boeing.com privacy policy that was archived on 2012-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121115074538id_/http%3A//www.boeing.com/companyoffices/aboutus/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jobs-boeing.com privacy policy that was archived on 2013-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531135715id_/http%3A//www.boeing.com/boeing/companyoffices/aboutus/privacy.page) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<!-- This file is NOT XML, Manual update needed. -->
-<title>Boeing: General Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="title" content="Boeing: General Privacy Policy ">
-<meta name="pageid" content="p10169">
-<meta name="description" content="Thank you for reviewing the Privacy Policy for Boeing.com, your web portal into The Boeing Company. Boeing is sensitive to the issue of confidentiality in online dealings and is committed to protecting individual privacy. This Privacy Policy is intended to inform users about the general approach Boeing uses in collecting, using and disseminating user information via Boeing.com.     ">
-<meta name="keywords" content="Legal Notice, Privacy Statement, Boeing, WHQ, World Headquarters">
-<meta name="group" content="WHQ">
-<meta name="non_program" content="General">
-<meta name="category" content="Communications">
-<meta name="creation-date" content="2001-10-17">
-<meta name="revision-date" content="2005-11-28">
-<meta name="validuntil" content="2016-12-31">
-<meta name="type" content="generic">
-<meta name="robots" content="all">
-<style type="text/css" media="screen">
-@import url(../../css/boeing_global_styles.css);
-</style>
-
-<link rel="stylesheet" type="text/css" media="print" href="http://www.boeing.com/css/2010/print.css">
-
-<script type="text/javascript" src="http://www.boeing.com/js/eluminate.js"></script>
-<script src="http://admin.brightcove.com/js/APIModules_all.js"> </script>
-<script type="text/javascript">
-cmSetupOther({"cm_UseCookie":false}); 
-cmSetClientID("90378194",true,"data.coremetrics.com","boeing.com"); 
-</script>
-<script type="text/javascript">
-var bcExp;
-var modVP;
-var modExp;
-var modCon;
-var _mediaComplete = true;
-var _mediaBegin = false;
-var _tabFlag = false;
- 
-// called when template loads, this function stores a reference to the player and modules.
-// Then event listeners will be added for when the template is ready and when a user 
-// clicks on a video.
-function onTemplateLoaded(experienceID) {
-    bcExp = brightcove.getExperience(experienceID);
-     
-    modVP = bcExp.getModule(APIModules.VIDEO_PLAYER);
-	modCon = bcExp.getModule(APIModules.CONTENT);
-	modExp = bcExp.getModule(APIModules.EXPERIENCE);
-  
-    modVP.addEventListener(BCMediaEvent.BEGIN, onMediaBegin);
-	modVP.addEventListener(BCMediaEvent.PLAY, onMediaPlay);
-	modVP.addEventListener(BCMediaEvent.PROGRESS, onMediaProgress);
-	modVP.addEventListener(BCMediaEvent.STOP, onMediaStop);
-	modVP.addEventListener(BCMediaEvent.CHANGE, onMediaChange);
-	modVP.addEventListener(BCMediaEvent.COMPLETE, onMediaComplete);
-
-// get references to the TabBar
-  tabBar = modExp.getElementByID("playlistTabs");
-//  set an event listener for TabBar changes
-  tabBar.addEventListener("propertyChange", onTabChange);
-
-}
-
-function onMediaBegin(evt) {
-	if(!_mediaBegin)
-	{				
-		_mediaBegin = true;
-		_mediaComplete = false;
-				
-		vidPosition = 0;
-	
-		currentVideo = modVP.getCurrentVideo();
-		vidID = currentVideo.id;
-		mediaDTO = modCon.getMedia(currentVideo.id);
-		vidLength = Math.round(mediaDTO.length/1000);
-		vidName = mediaDTO.displayName;
-		vidPlaylist = mediaDTO.lineupId;	
-		if (vidPlaylist !=0) {
-			MediaCollectionDTO = modCon.getMediaCollection(vidPlaylist);
-			vidPlaylistName = MediaCollectionDTO.displayName;
-		}
-		else
-			vidPlaylistName = 'NO PLAYLIST';
-		vidPlayerName = modExp.getPlayerName();
-		experienceId = modExp.getExperienceID(); //playerId
-		referrerURL = window.location.href;
-	
-		vidName = vidName.substr(0, 50);
-	
-		vidAction = "0";
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Boeing: privacy</title><!--fixed-layout--><!--ls:begin[stylesheet]--><link href="/iwov-resources/fixed-layout/boeing-single-column-fixed.css" type="text/css" rel="stylesheet"><!--ls:end[stylesheet]--><!--ls:begin[meta-keywords]--><meta name="keywords" content="Boeing, Corporate, General, Communications,Legal Notice, Privacy Statement, Boeing, WHQ, World Headquarters"><!--ls:end[meta-keywords]--><!--ls:begin[meta-description]--><meta name="description" content="Thank you for reviewing the Privacy Policy for Boeing.com, your web portal into The Boeing Company. Boeing is sensitive to the issue of confidentiality in online dealings and is committed to protecting individual privacy. This Privacy Policy is intended to inform users about the general approach Boeing uses in collecting, using and disseminating user information via Boeing.com."><!--ls:end[meta-description]--><!--ls:begin[meta-vpath]--><meta name="vpath" content=""><!--ls:end[meta-vpath]--><!--ls:begin[meta-page-locale-name]--><meta name="page-locale-name" content=""><!--ls:end[meta-page-locale-name]--><!--ls:begin[stylesheet]--><link type="text/css" href="/iwov-resources/css/SpryMenuBarHorizontal.css" rel="stylesheet"><!--ls:end[stylesheet]--><!--ls:begin[stylesheet]--><link type="text/css" href="/iwov-resources/css/jquery_slideshow/jquery_slideshow_styles.css" rel="stylesheet"><!--ls:end[stylesheet]--><!--ls:begin[stylesheet]--><link type="text/css" href="/iwov-resources/js/js_rotate/css/rotator_220.css" rel="stylesheet"><!--ls:end[stylesheet]--><!--ls:begin[stylesheet]--><link type="text/css" href="/iwov-resources/css/layout/boeing-layout-styles.css" rel="stylesheet"><!--ls:end[stylesheet]--><!--ls:begin[stylesheet]--><link type="text/css" href="/iwov-resources/css/boeing_global_styles.css" rel="stylesheet"><!--ls:end[stylesheet]--><!--ls:begin[script]--><script src="https://ips-invite.iperceptions.com/webValidator.aspx?sdfc=44ac590b-109615-629832ab-2ba5-6a89-c3ed-9270a0e350a3&amp;lID=1&amp;loc=STUDY&amp;cD=90&amp;rF=False&amp;iType=1&amp;domainname=0" id="IPerceptionsJS" type="text/javascript" async="" defer=""></script><script type="text/javascript" src="/iwov-resources/js/jquery.min.js"></script><!--ls:end[script]--><!--ls:begin[script]--><script type="text/javascript" src="/iwov-resources/js/custom.js"></script><!--ls:end[script]--><!--ls:begin[script]--><script type="text/javascript" src="/iwov-resources/js/header_stock.js"></script><!--ls:end[script]--><!--ls:begin[script]--><script type="text/javascript" src="/iwov-resources/js/nudge.js"></script><!--ls:end[script]--><!--ls:begin[script]--><script type="text/javascript" src="/iwov-resources/js/cufon-yui.js"></script><!--ls:end[script]--><!--ls:begin[script]--><script type="text/javascript" src="/iwov-resources/js/Helvetica_300-Helvetica_700-Helvetica_italic_300-Helvetica_italic_700.font.js"></script><!--ls:end[script]--><!--ls:begin[script]--><script type="text/javascript" src="/iwov-resources/js/SpryMenuBar.js"></script><!--ls:end[script]--><!--ls:begin[script]--><script type="text/javascript" src="/iwov-resources/js/logon_slide.js"></script><!--ls:end[script]--><!--ls:begin[script]--><script type="text/javascript" src="/iwov-resources/js/includes.js"></script><!--ls:end[script]--><!--ls:begin[script]--><script type="text/javascript" src="/iwov-resources/js/email.js"></script><!--ls:end[script]--><!--ls:begin[script]--><script type="text/javascript" src="/iwov-resources/js/js_rotate/js/jquery-1.6.2.min.js"></script><!--ls:end[script]--><!--ls:begin[script]--><script type="text/javascript" src="/iwov-resources/js/js_rotate/js/jquery.easing.1.3.min.js"></script><!--ls:end[script]--><!--ls:begin[script]--><script type="text/javascript" src="/iwov-resources/js/js_rotate/js/jquery.wt-rotator.js"></script><!--ls:end[script]--><!--ls:begin[script]--><script type="text/javascript" src="/iwov-resources/js/jquery_slideshow.js"></script><!--ls:end[script]--><!--ls:begin[head-injection]--><meta name="title" content="privacy"><meta name="group" content="Corporate"><meta name="nonprogram" content="General"><meta name="category" content="Communications"><meta name="subcategory" content=""><meta name="reporting_segment" content="www_About Us Other"><meta name="creation-date" content="2012-12-12 14:50:00"><meta name="revision-date" content="2012-12-12 14:50:00"><meta name="validuntil" content="2014-03-12 14:50:00"><meta name="robots" content="all"><meta name="pageid" content="companyoffices/aboutus/privacy.html">
 			
-			attributes =  ""
-						+ vidID
-						+ "-_-" + experienceId
-						+ "-_-" + vidPlayerName
-						+ "-_-" + vidPlaylist 
-						+ "-_-" + vidPlaylistName
-						+ "-_-" + referrerURL
-						+ "-_-"
-						+ "-_-"   
-						+ "-_-" 
-						+ "-_-" 
-						+ "-_-" 
-						+ "-_-" 
-						+ "-_-" + vidAction  
-						+ "-_-" + vidPosition
-						+ "-_-" + vidLength 
-						
-						;
-		
-		cmCreateElementTag(vidName,"BOEING VIDEO",attributes);
-	}
-}
+			<script type="text/javascript" src="/iwov-resources/js/eluminate.js"></script>
+			<script src="http://admin.brightcove.com/js/APIModules_all.js"> </script>
+			<script type="text/javascript" src="/iwov-resources/js/coremetrics_client.js"></script>
+			<script type="text/javascript" src="/iwov-resources/js/coremetrics_brightcove.js"></script>
+			<script type="text/javascript">
+				 var pageid = document.getElementsByName('pageid')[0].getAttribute('content');
+				 if (pageid == null || pageid == '')
+					pageid = window.location.pathname;
+				 var reporting_segment = document.getElementsByName('reporting_segment')[0].getAttribute('content');
+				 if (reporting_segment != null && reporting_segment != ''){
+				    //alert ("cmCreatePageviewTag: called with: pageid=" + pageid + " and reporting_segment=" + reporting_segment);  
+			     	cmCreatePageviewTag(pageid,reporting_segment);
+				 }
+			</script>
+			<!-- this is to prevent MS smart tagging in IE6, XP, Office 03 -->
 
-function onMediaPlay(evt) {
-	  if(!_mediaBegin)
-	  {
-		  onMediaBegin(evt);
-	  }
-	  else
-	  {
-		  //unpause
-		vidPosition = Math.round(modVP.getVideoPosition());
-	
-		currentVideo = modVP.getCurrentVideo();
-		vidID = currentVideo.id;
-		mediaDTO = modCon.getMedia(currentVideo.id);
-		vidLength = Math.round(mediaDTO.length/1000);
-		vidName = mediaDTO.displayName;
-		vidPlaylist = mediaDTO.lineupId;	
-		if (vidPlaylist !=0) {
-			MediaCollectionDTO = modCon.getMediaCollection(vidPlaylist);
-			vidPlaylistName = MediaCollectionDTO.displayName;
-		}
-		else
-			vidPlaylistName = 'NO PLAYLIST';
-		vidPlayerName = modExp.getPlayerName();
-		experienceId = modExp.getExperienceID(); //playerId
-		referrerURL = window.location.href;
-	
-		vidName = vidName.substr(0, 50);
-	
-		vidAction = "2";
-	
-		attributes =  ""
-						+ vidID
-						+ "-_-" + experienceId
-						+ "-_-" + vidPlayerName
-						+ "-_-" + vidPlaylist 
-						+ "-_-" + vidPlaylistName
-						+ "-_-" + referrerURL
-						+ "-_-"
-						+ "-_-"   
-						+ "-_-" 
-						+ "-_-" 
-						+ "-_-" 
-						+ "-_-" 
-						+ "-_-" + vidAction  
-						+ "-_-" + vidPosition
-						+ "-_-" + vidLength 
-						
-						;
-		
-		cmCreateElementTag(vidName,"BOEING VIDEO",attributes);
-	 }
-}
+			<meta name="MSSmartTagsPreventParsing" content="true">
 
-function onMediaProgress(evt) {
-			if((evt.duration - evt.position < 10) && !_mediaComplete)
-			{
-				onMediaComplete(evt);
-			}
-}
+			<!-- this is to prevent MS smart tagging in IE6, XP, Office 03 -->
 
-function onMediaStop(evt) {
-
-	if(!_mediaComplete)
-	{
-		//pause
-		vidPosition = Math.round(modVP.getVideoPosition());
-	
-		currentVideo = modVP.getCurrentVideo();
-		vidID = currentVideo.id;
-		mediaDTO = modCon.getMedia(currentVideo.id);
-		vidLength = Math.round(mediaDTO.length/1000);
-		vidName = mediaDTO.displayName;
-		vidPlaylist = mediaDTO.lineupId;	
-		if (vidPlaylist !=0) {
-			MediaCollectionDTO = modCon.getMediaCollection(vidPlaylist);
-			vidPlaylistName = MediaCollectionDTO.displayName;
-		}
-		else
-			vidPlaylistName = 'NO PLAYLIST';
-		vidPlayerName = modExp.getPlayerName();
-		experienceId = modExp.getExperienceID(); //playerId
-		referrerURL = window.location.href;
-	
-		vidName = vidName.substr(0, 50);
-	
-		vidAction = "1";
-	
-			attributes =  ""
-						+ vidID
-						+ "-_-" + experienceId
-						+ "-_-" + vidPlayerName
-						+ "-_-" + vidPlaylist 
-						+ "-_-" + vidPlaylistName
-						+ "-_-" + referrerURL
-						+ "-_-"
-						+ "-_-"   
-						+ "-_-" 
-						+ "-_-" 
-						+ "-_-" 
-						+ "-_-" 
-						+ "-_-" + vidAction  
-						+ "-_-" + vidPosition
-						+ "-_-" + vidLength 
-						
-						;
-		
-		cmCreateElementTag(vidName,"BOEING VIDEO",attributes);
-	}
-}
-
-
-
-function onMediaChange(evt) {
-}
-
-function onMediaComplete(evt) {
-
-	if(!_mediaComplete)
-	{
-		_mediaBegin = false;
-		_mediaComplete = true;
-
-		currentVideo = modVP.getCurrentVideo();
-		vidID = currentVideo.id;
-		mediaDTO = modCon.getMedia(currentVideo.id);
-		vidLength = Math.round(mediaDTO.length/1000);
-		vidName = mediaDTO.displayName;
-		vidPlaylist = mediaDTO.lineupId;	
-		if (vidPlaylist !=0) {
-			MediaCollectionDTO = modCon.getMediaCollection(vidPlaylist);
-			vidPlaylistName = MediaCollectionDTO.displayName;
-		}
-		else
-			vidPlaylistName = 'NO PLAYLIST';
-		vidPlayerName = modExp.getPlayerName();
-		experienceId = modExp.getExperienceID(); //playerId
-		referrerURL = window.location.href;
-	
-		vidName = vidName.substr(0, 50);
-	
-		vidAction = "3";
-	
-			attributes =  ""
-						+ vidID
-						+ "-_-" + experienceId
-						+ "-_-" + vidPlayerName
-						+ "-_-" + vidPlaylist 
-						+ "-_-" + vidPlaylistName
-						+ "-_-" + referrerURL
-						+ "-_-"
-						+ "-_-"   
-						+ "-_-" 
-						+ "-_-" 
-						+ "-_-" 
-						+ "-_-" 
-						+ "-_-" + vidAction  
-						+ "-_-" + vidLength
-						+ "-_-" + vidLength 
-						
-						;
-		
-		cmCreateElementTag(vidName,"BOEING VIDEO",attributes);
-	
-	}
-}
-
-// event listener for TabBar changes
-function onTabChange(event) {
-	modExp.debug("EVENT: TabBar Property Change");
-
-	// make sure it's the selectedItem that changed
-	if (event.property == "selectedItem" && _tabFlag == true) {
-		// get a reference to the playlist object for the currently selected tab
-	  	newPlaylist = tabBar.getSelectedData();  
-		
-		// get playlist id and name
-	  	newPlaylistId = newPlaylist.id;
-		MediaCollectionDTO = modCon.getMediaCollection(newPlaylistId);
-		newPlaylistName = MediaCollectionDTO.displayName;
-
-		modExp.debug("PLAYLIST ID: " + newPlaylistId);
-		modExp.debug("PLAYLIST NAME: " + newPlaylistName);
-
-	  	cmCreateManualLinkClickTag('Video Player Tab - ' + newPlaylistName);
-	}
-
-		_tabFlag = true;
-	  	
-}
-
-</script> 
-<!--- Modified EAG 11.02.12  load Prod --->
-<script language="JavaScript" src="http://www.boeing.com/js/jquery.min.js" type="text/javascript"></script>
-<script type="text/javascript">
-$.getScript("http://www.boeing.com/js/iploadp.js");
-</script>
-
-</head>
-<body onload="window.defaultStatus='The Boeing Company'">
-<!--[if gte IE 8]>
-
-<meta http-equiv="X-UA-Compatible" content="IE=8" />
-
-<![endif]-->
- <!-- Favorites icon -->
-        <link rel="shortcut icon" href="http://www.boeing.com/favicon.ico">
-
-<script language="JavaScript" src="http://www.boeing.com/js/jquery.min.js" type="text/javascript"></script>
-
-<script language="JavaScript" src="http://www.boeing.com/js/nudge.js" type="text/javascript"></script>
-
-<script language="JavaScript" type="text/javascript" src="http://www.boeing.com/js/custom.js"></script>
-
-<script language="JavaScript" type="text/javascript" src="http://www.boeing.com/js/header_stock.js"></script>
-
-<script type="text/javascript" src="http://www.boeing.com/js/cufon-yui.js"></script>
-
-<script type="text/javascript" src="http://www.boeing.com/js/Helvetica_300-Helvetica_700-Helvetica_italic_300-Helvetica_italic_700.font.js"></script>
-<script type="text/javascript">Cufon.replace('h1, h2, #pageName, .Slide');</script>
-
-<script src="http://www.boeing.com/SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
-
-<link href="http://www.boeing.com/SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" media="screen">
-
-<!-- begin Boeing page code -->
-
-<script language="JavaScript" type="text/javascript">
-
-
-
-
-
-
-
+			<meta http-equiv="pragma" content="no-cache">
+			<meta http-equiv="cache-control" content="no-cache">
+			<meta http-equiv="Expires" content="-1">
+			
+					
+		<!--ls:end[head-injection]--><!--ls:begin[script]--><!--ls:end[script]--></head><body><!--ls:begin[body]--><div class="ls-canvas" id="ls-canvas"><div class="ls-row" id="c1-row-1"><div class="ls-fxr" id="ls-gen83419006-ls-fxr"><div class="ls-area" id="ls-row-1-area-1"><div class="ls-area-body" id="ls-gen83419007-ls-area-body"><div class="ls-cmp-wrap ls-1st" id="w1355081735639"><!--ls:begin[component-1355081735639]--><div class="iw_component my-class-header" id="1355081735639"><span id="header_include"></span><script type="text/javascript" language="JavaScript">
 $(document).ready(function(){
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	$("#login").click(function(){
-
-
-
-
-
-
-
-	 slidelogin(); });
-
-
-
-
-
-
-
-	 
-
-
-
-
-
-
-
-	$("#logout").click(function(){
-
-
-
-
-
-
-
-	 slidelogin(); });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-function slidelogin()
-
-
-
-
-
-
-
-{
-
-
-
-
-
-
-
-if ($.browser.msie) {
-
-
-
-
-
-
-
-$('#content2').slideToggle("slow");
-
-
-
-
-
-
-
- }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		$("#panel").slideToggle("fast");
-
-
-
-
-
-
-
-		$(this).toggleClass("active"); return false;
-
-
-
-
-
-
-
-} });
-
-
-
-
-
-
-
+                        $.ajax({ 
+                                type : "GET", 
+                                url: '/assets/includes/utility/header.html',
+                                success: function(data) { 
+                                        $('#header_include').html(data);
+
+                                }, 
+                                error : function() { 
+                                        alert("Sorry, The requested property could not be found."); 
+                                },
+                                complete: function() {
+                                  HeaderApp.init()
+                                } 
+ 
+                        });
+                        
+});
 </script>
+</div><!--ls:end[component-1355081735639]--></div><div class="ls-cmp-wrap" id="w1355081735640"><!--ls:begin[component-1355081735640]--><div class="iw_component my-class-header" id="1355081735640"><script type="text/javascript"><!--
 
-<div id="emer_number">
+(function (w, d, s, l) { 
+    function go() {
+        var js,                              
+        fjs = d.getElementsByTagName(s)[0],  
+        id = "IPerceptionsJS",
+        a = "async",
+        b = "defer";                              
 
-  <p><a href="http://www.boeing.com/empinfo/emergency.html">Boeing Employee Information
+        if(d.getElementById(id)) { return; }  
+        js = d.createElement(s); 
+        js.src = w.location.protocol + "//ips-invite.iperceptions.com/webValidator.aspx?sdfc=44ac590b-109615-629832ab-2ba5-6a89-c3ed-9270a0e350a3&lID=1&loc=STUDY&cD=90&rF=False&iType=1&domainname=0";
+        js.id = id; 
+        js.type = "text/javascript"; 
+        js[a] = a;
+        js[b] = b;
+        fjs.parentNode.insertBefore(js, fjs);  
+    }
 
-    
+    var c = d.cookie;
+    if(!(/(^|;)\s*IPE(_S_)?109615=/.test(c))) {   
+        if (w.addEventListener) {
+            w.addEventListener(l, go, false);
+        } else if (w.attachEvent) {
+            w.attachEvent("on" + l, go); 
+        }
+    }
+}) 
+(window, document, 'script', 'load');
 
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    Hotline at 1-800-899-6431</a></p>
-
+--></script><div id="globalNav">
+<div id="globalLink">
+<ul class="glink MenuBarHorizontal" id="MenuBar1">
+<li>
+<a class="glink_b_space MenuBarItemSubmenu" href="/boeing/companyoffices/aboutus/index.page?" target="">About Us</a>
+<ul>
+<li>
+<a href="/boeing/companyoffices/aboutus/brief.page" target="">General Information</a>
+</li>
+<li>
+<a href="/boeing/companyoffices/aboutus/execprofiles/index.page?" target="">Executive Biographies</a>
+</li>
+<li>
+<a href="/boeing/companyoffices/aboutus/advertising/index.page" target="">Advertising and Branding</a>
+</li>
+<li>
+<a href="/boeing/aboutus/international/index.page?" target="">Boeing International</a>
+</li>
+<li>
+<a href="/boeing/aboutus/culture/index.page?" target="">Culture</a>
+</li>
+<li>
+<a href="/boeing/aboutus/diversity/index.page?" target="">Diversity</a>
+</li>
+<li>
+<a href="/boeing/companyoffices/aboutus/community/education.page?" target="">Education</a>
+</li>
+<li>
+<a href="/boeing/aboutus/environment/index.page?" target="">Environment</a>
+</li>
+<li>
+<a href="/boeing/companyoffices/aboutus/community/index.page?" target="">Corporate Citizenship</a>
+</li>
+<li>
+<a href="/boeing/aboutus/govt_ops/index.page?" target="">Government Operations</a>
+</li>
+<li>
+<a href="/boeing/aboutus/safety_health.page?" target="">Safety and Health at Work</a>
+</li>
+<li>
+<a href="/boeing/history/index.page?" target="">History</a>
+</li>
+<li>
+<a href="/boeing/companyoffices/aboutus/readinglist.page" target="">Research Assistance</a>
+</li>
+<li>
+<a href="/boeing/companyoffices/aboutus/tours/index.page?" target="">Tours</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="glink_b_space MenuBarItemSubmenu" href="/boeing/product_list.page" target="">Products</a>
+<ul>
+<li>
+<a href="/boeing/product_list.page?" target="">All Products</a>
+</li>
+<li>
+<a href="/boeing/commercial/products.page" target="">Commercial Airplanes</a>
+</li>
+<li>
+<a href="/boeing/bds/a_to_z.page" target="">Defense, Space &amp; Security</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="glink_b_space MenuBarItemSubmenu" href="/boeing/biz_unit.page?" target="">Businesses/Services</a>
+<ul>
+<li>
+<a class="MenuBarItemSubmenu" href="/boeing/commercial/index.page?" target="">Commercial Airplanes</a>
+<ul>
+<li>
+<a href="/boeing/commercial/overview/index.page?" target="">About Commercial Airplanes</a>
+</li>
+<li>
+<a href="/boeing/commercial/products.page?" target="">About Our Products</a>
+</li>
+<li>
+<a href="/boeing/commercial/aviationservices/index.page?" target="">The Boeing Edge</a>
+</li>
+<li>
+<a href="/boeing/commercial/startup/index.page?" target="">StartupBoeing</a>
+</li>
+<li>
+<a href="/boeing/commercial/other_services.page?" target="">Other Services</a>
+</li>
+<li>
+<a href="/boeing/commercial/industry_info.page?" target="">About Our Market</a>
+</li>
+<li>
+<a href="/boeing/commercial/news.page?" target="">News &amp; Images</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="MenuBarItemSubmenu" href="/boeing/bds/index.page?" target="">Defense, Space and Security</a>
+<ul>
+<li>
+<a href="/boeing/bds/overview.page" target="">About Us</a>
+</li>
+<li>
+<a href="/boeing/bds/a_to_z.page?" target="">BDS Products A - Z</a>
+</li>
+<li>
+<a href="/boeing/bds/news/index.page?" target="">BDS News</a>
+</li>
+<li>
+<a href="/boeing/bds/military_aircraft/index.page?" target="">Military Aircraft</a>
+</li>
+<li>
+<a href="/boeing/bds/support_services/index.page?" target="">Support &amp; Services</a>
+</li>
+<li>
+<a href="/boeing/bds/satellites_space/index.page?" target="">Satellites &amp; Space</a>
+</li>
+<li>
+<a href="/boeing/bds/c4isr_cyber/index.page?" target="">C4ISR &amp; Cyber</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/boeing/bcc/index.page?" target="">Boeing Capital Corporation</a>
+</li>
+<li>
+<a href="/boeing/ssg/index.page?" target="">Shared Services Group</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="glink_b_space MenuBarItemSubmenu" href="http://boeing.mediaroom.com/" target="">Media</a>
+<ul>
+<li>
+<a href="http://boeing.mediaroom.com/index.php?s=43" target="">News Releases/Statements</a>
+</li>
+<li>
+<a href="http://boeing.mediaroom.com/index.php?s=58" target="">E-mail Subscriptions/RSS Feeds</a>
+</li>
+<li>
+<a href="http://boeing.mediaroom.com/index.php?s=13" target="">Image Gallery</a>
+</li>
+<li>
+<a href="/boeing/news/feature/index.page?" target="">News Features</a>
+</li>
+<li>
+<a href="/boeing/news/speeches/index.page" target="">Speeches</a>
+</li>
+<li>
+<a href="/news/frontiers/index.html" target="">Frontiers Online</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="glink_b_space MenuBarItemSubmenu" href="/boeing/companyoffices/financial/index.page?" target="">Investors</a>
+<ul>
+<li>
+<a href="http://investor.shareholder.com/ba/stock.cfm" target="">Stock Information</a>
+</li>
+<li>
+<a href="/boeing/companyoffices/financial/share.page?" target="">Shareholder Services</a>
+</li>
+<li>
+<a href="/boeing/companyoffices/financial/material_edelivery.page?" target="">Electronic Delivery of Shareholder Materials</a>
+</li>
+<li>
+<a href="http://phx.corporate-ir.net/phoenix.zhtml?c=85482&amp;p=irol-calendar" target="">Event Calendar</a>
+</li>
+<li>
+<a href="/boeing/companyoffices/financial/quarterly.page" target="">Financial Information</a>
+</li>
+<li>
+<a href="/boeing/companyoffices/financial/news/index.page?" target="">Financial News</a>
+</li>
+<li>
+<a href="/boeing/companyoffices/financial/freq_info.page?" target="">Frequently Requested Info</a>
+</li>
+<li>
+<a href="/boeing/corp_gov/index.page" target="">Corporate Governance</a>
+</li>
+<li>
+<a href="/boeing/companyoffices/aboutus/execprofiles/index.page" target="">Executive Biographies</a>
+</li>
+<li>
+<a href="http://phx.corporate-ir.net/phoenix.zhtml?c=85482&amp;p=irol-infoReq" target="">Contact Us</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="glink_b_space MenuBarItemSubmenu" href="/boeing/careers/index.page?" target="">Careers</a>
+<ul>
+<li>
+<a href="/boeing/careers/jobsEvents.page?" target="">Jobs &amp; Events</a>
+</li>
+<li>
+<a href="/boeing/careers/whatWeDo/index.page?" target="">What We Do</a>
+</li>
+<li>
+<a href="/boeing/careers/culture/index.page?" target="">Culture &amp; Values</a>
+</li>
+<li>
+<a href="/boeing/careers/locations/index.page?" target="">Locations</a>
+</li>
+<li>
+<a href="/boeing/careers/benefits/index.page?" target="">Benefits</a>
+</li>
+<li>
+<a href="/boeing/careers/collegecareers/index.page?" target="">Interns &amp; Graduates</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="glink_b_space MenuBarItemSubmenu" href="/boeing/worldwide.page?" target="">Global</a>
+<ul>
+<li>
+<a href="http://www.boeing.com.au/" target="">Australia</a>
+</li>
+<li>
+<a href="http://www.boeing.com.br" target="">Brazil</a>
+</li>
+<li>
+<a href="http://www.boeing.cn/" target="">中國</a>
+</li>
+<li>
+<a href="http://www.boeing.ca/" target="">Canada</a>
+</li>
+<li>
+<a href="http://www.boeing.fr/" target="">France</a>
+</li>
+<li>
+<a href="http://www.boeing.de/" target="">Deutschland</a>
+</li>
+<li>
+<a href="http://www.boeing.co.in/" target="">India</a>
+</li>
+<li>
+<a href="http://www.boeing.co.il/" target="">עברית</a>
+</li>
+<li>
+<a href="http://www.boeingitaly.it/" target="">Italia</a>
+</li>
+<li>
+<a href="http://www.boeing.jp/" target="">日本</a>
+</li>
+<li>
+<a href="http://www.boeing.co.kr/" target="">한국</a>
+</li>
+<li>
+<a href="http://www.boeing-me.com/" target="">بوينغ في الشرق الأوسط</a>
+</li>
+<li>
+<a href="http://www.boeing.ru/" target="">Россия</a>
+</li>
+<li>
+<a href="http://www.boeing.es/" target="">España</a>
+</li>
+<li>
+<a href="http://www.boeing.co.uk/" target="">UK</a>
+</li>
+</ul>
+</li>
+</ul>
 </div>
-
-<div class="skipLinks">skip to: <a href="#content" tabindex="1">page content</a> | <a href="#footer" tabindex="4">footer(site
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  information)</a> </div>
-
-<div id="print_logo"> <img src="http://www.boeing.com/images/print_logo.jpg" alt="Boeing logo" width="186" height="81" border="0"> </div>
-
-<h3 class="hide"> This site will look much better in a browser that supports <a href="http://www.boeing.com/utilities/upgrade/" title="Download a browser that complies with Web standards.">web standards</a>,
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  but it is accessible to any browser or Internet device. </h3>
-
-<div id="masthead">
-
-  <!-- Modified EAG 11.05.2009: code above in support of logon pulldowm menu-->
-
-  <!---EAG code below to support logon pull down menu  --->
-
-  <div id="panel">
-
-    <div id="content2"> <a name="content2"> </a> Secure Logon<br>
-
-      <ul>
-
-        <li> <a href="https://accessto.boeing.com">Portal Logon: AccessTo Gateway</a> </li>
-
-        <li> <a href="https://bpn.boeing.com/">Portal Logon: Boeing Partners Network</a> </li>
-
-        <li> <a href="https://www.myboeingfleet.com/">Portal Logon: MyBoeingFleet</a> </li>
-
-        <li> <a href="https://suppliers.boeing.com/">Portal Logon: Supplier Portal</a> </li>
-
-        <li> <a href="http://www.boeing.com/special/bpn/start.htm">Help - Secure Logon</a> </li>
-
-        <li> <a href="http://www.boeing.com/companyoffices/aboutus/ethics/hotline.html">Boeing Ethics Line</a> </li>
-
-        <li> <a href="http://www.boeing.com/express">MyBoeing Express/TotalAccess</a> </li>
-
-      </ul>
-
-      <div class="logout" id="logout">CLOSE</div>
-
-      <div class="clear"> </div>
-
-    </div>
-
-    <!---  <p class="slide"><a href="#" class="btn-slide">LOGIN</a></p> --->
-
-  </div>
-
-  <!--- EAG code above to support logon pull down menu --->
-
-  <div id="boeing_brand"><a href="http://www.boeing.com/" title="Welcome to The Boeing Company website. Click this logo to return to the home page."><img src="/images/spacer.gif" width="320" height="58" border="0"></a></div>
-
-  <div id="utility"><a href="http://www.boeing.com/merchandise.html">Merchandise</a> | 
-
-  <a href="http://www.boeing.com/corp_gov/">Corporate Governance</a> | 
-
-  <a href="http://www.boeing.com/companyoffices/empinfo/">Employee/Retiree</a>/<a href="http://www.boeing.com/empinfo/emergency.html">Emergency Information</a> | 
-
-  <a href="http://www.boeing.com/companyoffices/aboutus/ethics/">Ethics</a> | 
-
-  <a href="http://www.boeingsuppliers.com/">Suppliers</a></div>
-
-  <div id="login"><a href="#">Login</a></div>
-
-  <div id="searchspacer">
-
-    <form action="http://search-www.boeing.com/search" method="get" name="gsearch">
-
-      <input type="text" name="q" size="31" maxlength="50" onfocus="this.value='';" value="Search" class="formTextboxText">
-
-      <input type="hidden" name="site" value="www_boeing">
-
-      <input type="hidden" name="client" value="www_boeing">
-
-      <input type="hidden" name="proxystylesheet" value="www_boeing">
-
-      <input type="hidden" name="output" value="xml_no_dtd">
-
-      <input class="searchbutton" type="image" name="btnG" src="http://www.boeing.com/images/searchbutton_sm.gif" alt="Search" height="17" width="17" align="top" border="0" title="Search">
-
-    </form>
-
-  </div>
-
-  <div id="stockinfo"><span class="stockinfo"><a href="http://investor.shareholder.com/ba/stock.cfm"> <span id="stock_quote">&nbsp;</span></a></span></div>
-
-  <div id="globalNav">
-
-    <div id="globalLink">
-
-      <ul id="MenuBar1" class="glink MenuBarHorizontal">
-
-        <li><a class="glink_b_space MenuBarItemSubmenu" href="http://www.boeing.com/companyoffices/aboutus/">About Us</a>
-
-          <ul>
-
-            <li><a href="http://www.boeing.com/companyoffices/aboutus/brief.html">General Information</a></li>
-
-            <li><a href="http://www.boeing.com/companyoffices/aboutus/execprofiles/index.html">Executive
-
-              Biographies</a></li>
-
-            <li><a href="http://www.boeing.com/companyoffices/aboutus/advertising/index.html">Advertising
-
-              and Branding</a></li>
-
-            <li><a href="http://www.boeing.com/aboutus/international/index.html">Boeing International</a></li>
-
-            <li><a href="http://www.boeing.com/aboutus/culture/index.html">Culture</a></li>
-
-            <li><a href="http://www.boeing.com/aboutus/diversity/index.html">Diversity</a></li>
-
-            <li><a href="http://www.boeing.com/companyoffices/aboutus/community/education.html">Education</a></li>
-
-            <li><a href="http://www.boeing.com/aboutus/environment/index.htm">Environment</a></li>
-
-            <li><a href="http://www.boeing.com/companyoffices/aboutus/community/index.html">Corporate Citizenship</a></li>
-
-            <li><a href="http://www.boeing.com/aboutus/govt_ops/index.html">Government Operations</a></li>
-
-            <li><a href="http://www.boeing.com/aboutus/safety_health.html">Safety and Health at Work</a></li>
-
-            <li><a href="http://www.boeing.com/history/index.html">History</a></li>
-
-            <li><a href="http://www.boeing.com/companyoffices/aboutus/readinglist.html">Research Assistance</a></li>
-
-            <li><a href="http://www.boeing.com/companyoffices/aboutus/tours/index.html">Tours</a></li>
-
-          </ul>
-
-        </li>
-
-        <li><a class="glink_b_space MenuBarItemSubmenu" href="http://www.boeing.com/product_list.html">Products</a>
-
-          <ul>
-
-            <li><a href="http://www.boeing.com/product_list.html">All Products</a></li>
-
-            <li><a href="http://www.boeing.com/commercial/products.html">Commercial Airplanes</a></li>
-
-            <li><a href="http://www.boeing.com/bds/a_to_z.html">Defense, Space &amp; Security</a></li>
-
-          </ul>
-
-        </li>
-
-        <li><a class="glink_b_space MenuBarItemSubmenu" href="http://www.boeing.com/biz_unit.html">Businesses/Services</a>
-
-          <ul>
-
-            <li><a href="http://www.boeing.com/commercial/" class="MenuBarItemSubmenu">Commercial Airplanes</a>
-
-              <ul>
-
-                <li><a href="http://www.boeing.com/commercial/overview/index.html">About Commercial Airplanes</a></li>
-
-                <li><a href="http://www.boeing.com/commercial/products.html">About Our Products</a></li>
-
-                <li><a href="http://www.boeing.com/commercial/aviationservices/index.html">The Boeing Edge</a></li>
-
-                <li><a href="http://www.boeing.com/commercial/startup/">StartupBoeing</a></li>
-
-                <li><a href="http://www.boeing.com/commercial/other_services.html">Other Services</a></li>
-
-                <li><a href="http://www.boeing.com/commercial/industry_info.html">About Our Market</a></li>
-
-                <li><a href="http://www.boeing.com/commercial/news.html">News &amp; Images</a></li>
-
-              </ul>
-
-            </li>
-
-            <li><a href="http://www.boeing.com/bds/" class="MenuBarItemSubmenu">Defense, Space &amp; Security</a>
-
-              <ul>
-
-                <li><a href="http://www.boeing.com/bds/overview.html">About Us</a></li>
-
-                <li><a href="http://www.boeing.com/bds/a_to_z.html">BDS Products A - Z</a></li>
-
-                <li><a href="http://www.boeing.com/bds/capabilities.html">BDS Capabilities</a></li>
-
-                <li><a href="http://www.boeing.com/bds/news/index.html">BDS News</a></li>
-
-                <li><a href="http://www.boeing.com/bds/gallery/index.html">BDS Image Gallery</a></li>
-
-                <li><a href="http://www.boeing.com/bds/military_aircraft/index.html">Boeing Military Aircraft</a></li>
-
-                <li><a href="http://www.boeing.com/bds/support/index.html">Global Services &amp; Support</a></li>
-
-                <li><a href="http://www.boeing.com/bds/network_space/index.html">Network and Space Systems</a></li>
-
-                <li><a href="http://www.boeing.com/bds/phantom_works/index.html">Phantom Works</a></li>
-
-              </ul>
-
-            </li>
-
-            <li><a href="http://www.boeing.com/bcc/">Boeing Capital Corporation</a></li>
-
-            <li><a href="http://www.boeing.com/ssg/">Shared Services Group</a></li>
-
-          </ul>
-
-        </li>
-
-        <li><a class="glink_b_space MenuBarItemSubmenu" href="http://boeing.mediaroom.com/">Media</a>
-
-          <ul>
-
-            <li><a href="http://boeing.mediaroom.com/">Releases/Statements</a></li>
-
-            <li><a href="http://boeing.mediaroom.com/index.php?s=58">Email/RSS</a> </li>
-
-            <li><a href="http://www.boeing.com/news/feature/index.html">News
-
-              Features</a></li>
-
-              <li><a href="/videos/video.html">Videos</a></li>
-
-            <li><a href="http://boeing.mediaroom.com/index.php?s=13&amp;depth=2">Image
-
-              Gallery</a></li>
-
-            <li><a href="http://www.boeing.com/news/speeches/index.html">Speeches</a></li>
-
-            <li><a href="http://www.boeing.com/companyoffices/aboutus/execprofiles/index.html">Executive
-
-              Biographies</a></li>
-
-            <li><a href="http://www.boeing.com/news/frontiers/index.html">Frontiers
-
-              Online</a></li>
-
-          </ul>
-
-        </li>
-
-        <li><a class="glink_b_space MenuBarItemSubmenu" href="http://www.boeing.com/companyoffices/financial/">Investors</a>
-
-          <ul>
-
-            <li><a href="http://investor.shareholder.com/ba/stock.cfm">Stock
-
-              Information</a></li>
-
-            <li><a href="http://www.boeing.com/companyoffices/financial/share.html">Shareholder
-
-              Services</a></li>
-
-            <li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=85482&amp;p=irol-calendar">Event
-
-              Calendar</a></li>
-
-            <li><a href="http://www.boeing.com/companyoffices/financial/quarterly.htm">Financial
-
-              Information</a></li>
-
-            <li><a href="http://www.boeing.com/companyoffices/financial/news/index.html">Financial
-
-              News</a></li>
-
-            <li><a href="http://www.boeing.com/companyoffices/financial/freq_info.html">Frequently
-
-              Requested Info</a> </li>
-
-            <li><a href="http://www.boeing.com/companyoffices/financial/">Corporate
-
-              Governance</a></li>
-
-            <li><a href="http://www.boeing.com/companyoffices/financial/execprofiles.html">Executive
-
-              Biographies</a></li>
-
-            <li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=85482&amp;p=irol-infoReq">Contact
-
-              Us</a></li>
-
-          </ul>
-
-        </li>
-
-        <li><a href="http://www.boeing.com/careers/" class="glink_b_space MenuBarItemSubmenu">Careers</a>
-
-          <ul>
-
-            <!--<li><a href="https://jobs.boeing.com/JobSeeker/JobSearch">Job Search &amp; Apply</a></li>-->
-
-            <li><a href="/careers/jobsEvents.html">Jobs  &amp; Events</a></li>
-
-            <li><a href="/careers/whatWeDo/">What We Do</a></li>
-
-            <li><a href="/careers/culture/">Culture &amp; Values</a></li>
-
-            <li><a href="/careers/locations/">Locations</a></li>
-
-            <li><a href="/careers/benefits/">Benefits</a></li>
-
-            <li><a href="/careers/collegecareers/">Interns &amp; Graduates</a> </li>
-
-          </ul>
-
-        </li>
-
-        <li><a class="glink_b_space MenuBarItemSubmenu" href="http://www.boeing.com/worldwide.html">Global</a>
-
-          <ul>
-
-            <li><a href="http://www.boeing.com.au/">Australia</a></li>
-            <li><a href="http://www.boeing.com.br/">Brazil</a></li>
-
-            <li lang="zh"><a href="http://www.boeingchina.com/">中國</a></li>
-
-            <li><a href="http://www.boeing.ca/">Canada</a></li>
-
-            <li><a href="http://www.boeing.fr/">France</a></li>
-
-            <li lang="de"><a href="http://www.boeing.de/">Deutschland</a></li>
-
-            <li><a href="http://www.boeing.co.in/">India</a></li>
-
-            <li lang="il"><a href="http://www.boeing.co.il/">עברית</a></li>
-
-            <li lang="it"><a href="http://www.boeing.com/global/italy/">Italia</a></li>
-
-            <li lang="ja"><a href="http://www.boeing.jp/">日本</a></li>
-
-            <li lang="ko"><a href="http://www.boeing.co.kr/">한국</a></li>
-
-            <li lang="ar"><a href="http://www.boeing-me.com">بوينغ في الشرق الأوسط </a></li>
-
-            <li lang="ru"><a href="http://www.boeing.ru/">Россия</a></li>
-
-            <li><a href="http://www.boeing.es/">España</a></li>
-
-            <li><a href="http://www.boeing.co.uk">UK</a></li>
-
-          </ul>
-
-        </li>
-
-      </ul>
-
-    </div>
-
-    <!--end globalLinks-->
-
-  </div>
-
-</div>
-
-<!-- end globalNav -->
-
-<script type="text/javascript">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div><script type="text/javascript">
 <!--
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"/SpryAssets/SpryMenuBarDownHover.gif", imgRight:"/SpryAssets/SpryMenuBarRightHover.gif"});
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"/assets/images/SpryAssets/SpryMenuBarDownHover.gif", imgRight:"/SpryAssets/SpryMenuBarRightHover.gif"});
+--></script>
+</div><!--ls:end[component-1355081735640]--></div></div></div><div class="ls-row-clr"></div></div></div><div class="ls-row" id="c1-row-2"><div class="ls-fxr" id="ls-gen83419008-ls-fxr"><div class="ls-area" id="ls-row-2-area-1"><div class="ls-area-body" id="ls-gen83419009-ls-area-body"><div class="ls-cmp-wrap ls-1st" id="w1355081735710"><!--ls:begin[component-1355081735710]--><div class="iw_component" id="1355081735710"><div id="breadCrumb"></div>
+</div><!--ls:end[component-1355081735710]--></div><div class="ls-cmp-wrap" id="w1355081735641"><!--ls:begin[component-1355081735641]--><div class="iw_component" id="1355081735641"><span><div id="NoNavcontent"><a name="content"> </a>
+<h1 class="helvetica45">Boeing.com - General Privacy Policy</h1>
+<p>Thank you for reviewing the Privacy Policy for Boeing.com, your web portal into The Boeing Company ("Boeing"). Boeing is sensitive to the issue of confidentiality in online dealings and is committed to protecting individual privacy. This Privacy Policy is intended to inform users about the general approach Boeing uses in collecting, using and disseminating user information via Boeing.com.</p>
+<p><strong>What data do we collect automatically and why?</strong> When you visit Boeing.com and you have not otherwise identified yourself (e.g., via registration with a Boeing Site), our web server automatically recognizes your domain name, but not your e-mail address. We collect the domain name and monitor general site use and traffic patterns to improve our web site and the products and services we offer. Boeing uses web server logs to collect data for metric purposes. Examples of the types of data collected on the logs are IP addresses, referral pages, date and time of Site access, and Site visited. We may use collected data to customize the content and/or layout of our pages for each individual visitor.</p>
+<p><strong>Do we use Cookies or Tracers?</strong> Cookies are small data files placed on your hard drive by a website server when you visit. Boeing.com may use cookies for tracking purposes or to make the Site easier to use. Cookies are currently the only way to effectively identify a unique anonymous visitor and understand how they navigate our web site. An anonymous visitor to our site remains anonymous in all cases. We do not attempt to identify visitors if they do not voluntarily submit personal information to us. With most internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Cookies offer enhanced functionality to the user, but whether you allow a cookie to be placed on your computer is up to you!</p>
+<p>In some instances, we use tracking scripts or "tracers" that recognize a unique identifier from a cookie placed on your hard drive by another website. These are used by Boeing solely to gauge the success of our own advertising. For instance, we may use a tracer to determine whether you visit our employment pages after visiting a resume or career site where Boeing placed a banner ad. We do not use tracers to gather information on your use of the internet unrelated to Boeing. Please note that Boeing does not use tracers to identify your personal information, and you remain anonymous unless and until you choose to register.</p>
+<p><strong>Do we collect personal information?</strong> In some cases, Boeing requests personally identifiable information from you in order to satisfy the underlying transaction or purpose of your accessing the Site. Examples of personally identifiable information include names, e-mail addresses, mailing addresses, and the like. Please note that we do not consider aggregated information, from which personally identifiable information has been removed, to be private.</p>
+<p><strong>What happens if I register?</strong> Registration is allowed or required on certain Boeing Sites. Please refer to the agreements and policies applicable to the Boeing Site for which you provide registration information in order to assure that you understand the applicable privacy practices. Boeing may collect registration data in order to monitor compliance with the terms of use governing the Site and to set up access permissions to certain Boeing Sites.</p>
+<p><strong>What security is provided?</strong> We do not treat your general interaction with Boeing.com (e.g., submission of suggestions) as confidential. However, certain Boeing Sites do conduct transactions for which heightened security is appropriate. For instance, certain Boeing Sites encrypt your personal information (e.g., for transmission of credit card data), so that only appropriate personnel are able to decode your information. Note that most internet browsers also offer security alerts that permit you to determine whether your transmissions are protected. Please refer to the agreements and policies applicable to the Boeing Site for which you provide personal information in order to assure that you understand applicable security practices.</p>
+<p><strong>When would we disclose your information?</strong> We do not rent, sell, or trade any personally identifiable information about you (e.g., e-mail addresses) to third parties. Certain Boeing Sites may disclose information to third parties assisting us in processing a transaction requested by you (e.g., credit card service providers). In order to cooperate with legitimate governmental requests, subpoenas, or court orders, to protect Boeing and/or Boeing's systems and customers, or to ensure the integrity and operation of Boeing and/or Boeing's business and systems, Boeing and/or Boeing may access and disclose any information it considers necessary or appropriate under the circumstances.</p>
+<p><strong>What about children's privacy?</strong> Boeing asks children under 13 not to transmit any information to the Site. Boeing welcomes the parent or guardian of a child under the age of 13 to use the Site and provide any information, service, or product gained from the Site to their child. The Kids page found on Boeing.com does not gather identifiable personal information and is operated as a static Site for informational purposes only.</p>
+<p><strong>What if data is transmitted internationally?</strong> If you are one of our international guests, we realize that you may want to know whether your personal information will be transferred out of your country of origin. Please be aware that when you register or request a transaction on a Boeing Site, your personal data may be transferred to computers in the United States in order to process your request.</p>
+<p><strong>Does this apply to all of the Boeing Sites?</strong> Through Boeing.com, you may link to many networked web pages and websites operated by Boeing and its subsidiaries and affiliates (together, the "Boeing Sites"). Not all of them have adopted this policy. Individual Boeing Sites may adopt different privacy policies that fit transactions taking place on that Boeing Site. If a Boeing Site has its own privacy policy, the provisions of that policy will control if it conflicts with this general policy. Also, some Boeing Sites are intended to facilitate interaction with other businesses, and may not adopt a privacy policy for individuals. Users of those Sites should check with their employer regarding the employer's arrangements with Boeing and applicable privacy practices.</p>
+<p><strong>What about external links?</strong> For the convenience of our Site visitors, Boeing may provide links to third party web sites that are external to Boeing. These web sites are not operated or controlled by Boeing, and Boeing is not responsible for the privacy practices or the content of such external web sites.</p>
+<p><strong>How do we keep current?</strong> From time to time, Boeing may revise this Privacy Policy at its discretion. We note the date of the policy below, so you know when it was last updated. Boeing advises you to check back periodically to review the Privacy Policy because users of the Site will be prospectively bound by the then-current version of this Privacy Policy.</p>
+</div></span>
+</div><!--ls:end[component-1355081735641]--></div></div></div><div class="ls-row-clr"></div></div></div><div class="ls-row" id="c1-row-3"><div class="ls-fxr" id="ls-gen83419010-ls-fxr"><div class="ls-col" id="nest-col-3-1"><div class="ls-col-body" id="ls-gen83419011-ls-col-body"><div class="ls-row" id="c1_my_nest_row__1"><div class="ls-fxr" id="ls-gen83419012-ls-fxr"><div class="ls-area" id="ls-row-3-col-1-row-1-area-1"><div class="ls-area-body" id="ls-gen83419013-ls-area-body"></div></div><div class="ls-row-clr"></div></div></div></div></div><div class="ls-col" id="nest-col-3-2"><div class="ls-col-body" id="ls-gen83419014-ls-col-body"><div class="ls-row" id="c1_my_nest_row__2"><div class="ls-fxr" id="ls-gen83419015-ls-fxr"><div class="ls-area" id="ls-row-3-col-2-row-1-area-1"><div class="ls-area-body" id="ls-gen83419016-ls-area-body"></div></div><div class="ls-row-clr"></div></div></div></div></div><div class="ls-col" id="nest-col-3-3"><div class="ls-col-body" id="ls-gen83419017-ls-col-body"><div class="ls-row" id="c1_my_nest_row__3"><div class="ls-fxr" id="ls-gen83419018-ls-fxr"><div class="ls-area" id="ls-row-3-col-3-row-1-area-1"><div class="ls-area-body" id="ls-gen83419019-ls-area-body"></div></div><div class="ls-row-clr"></div></div></div></div></div><div class="ls-col" id="nest-col-3-4"><div class="ls-col-body" id="ls-gen83419020-ls-col-body"><div class="ls-row" id="c1_my_nest_row__4"><div class="ls-fxr" id="ls-gen83419021-ls-fxr"><div class="ls-area" id="ls-row-3-col-4-row-1-area-1"><div class="ls-area-body" id="ls-gen83419022-ls-area-body"></div></div><div class="ls-row-clr"></div></div></div></div></div><div class="ls-row-clr"></div></div></div><div class="ls-row" id="c1-row-4"><div class="ls-fxr" id="ls-gen83419023-ls-fxr"><div class="ls-area" id="footer"><div class="ls-area-body" id="ls-gen83419024-ls-area-body"><div class="ls-cmp-wrap ls-1st" id="w1355081735642"><!--ls:begin[component-1355081735642]--><div class="iw_component" id="1355081735642"><span id="footer_include"></span><script type="text/javascript" language="JavaScript">
+$(document).ready(function(){
+                        $.ajax({ 
+                                type : "GET", 
+                                url: '/assets/includes/utility/quick_links.html',
+                                success: function(data) { 
+                                        //alert( data ); // shows whole dom 
+                                        $("#footer_include").html(data);
+                                }, 
+                                error : function() { 
+                                        alert("Sorry, The requested property could not be found."); 
+                                } 
+                        }); 
+});
 </script>
-
-
-<div id="pagecellhome">
-  <div id="breadCrumb"> <a href="/" class="breadcrumb">Boeing Home</a> / General Privacy Policy </div>
-  <div id="NoNavcontent"> <a name="content"> </a>
-    <h1 class="helvetica45">Boeing.com - General Privacy Policy</h1>
-    <p>Thank you for reviewing the Privacy Policy for Boeing.com, your web portal into The Boeing Company ("Boeing"). Boeing is sensitive to the issue of confidentiality in online dealings and is committed to protecting individual privacy. This Privacy Policy is intended to inform users about the general approach Boeing uses in collecting, using and disseminating user information via Boeing.com.</p>
-    <p> <strong>What data do we collect automatically and why?</strong> When you visit Boeing.com and you have not otherwise identified yourself (e.g., via registration with a Boeing Site), our web server automatically recognizes your domain name, but not your e-mail address. We collect the domain name and monitor general site use and traffic patterns to improve our web site and the products and services we offer. Boeing uses web server logs to collect data for metric purposes. Examples of the types of data collected on the logs are IP addresses, referral pages, date and time of Site access, and Site visited. We may use collected data to customize the content and/or layout of our pages for each individual visitor.</p>
-    <p> <strong>Do we use Cookies or Tracers?</strong> Cookies are small data files placed on your hard drive by a website server when you visit. Boeing.com may use cookies for tracking purposes or to make the Site easier to use. Cookies are currently the only way to effectively identify a unique anonymous visitor and understand how they navigate our web site. An anonymous visitor to our site remains anonymous in all cases. We do not attempt to identify visitors if they do not voluntarily submit personal information to us. With most internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Cookies offer enhanced functionality to the user, but whether you allow a cookie to be placed on your computer is up to you! </p>
-    <p>In some instances, we use tracking scripts or "tracers" that recognize a unique identifier from a cookie placed on your hard drive by another website. These are used by Boeing solely to gauge the success of our own advertising. For instance, we may use a tracer to determine whether you visit our employment pages after visiting a resume or career site where Boeing placed a banner ad. We do not use tracers to gather information on your use of the internet unrelated to Boeing. Please note that Boeing does not use tracers to identify your personal information, and you remain anonymous unless and until you choose to register. </p>
-    <p> <strong>Do we collect personal information?</strong> In some cases, Boeing requests personally identifiable information from you in order to satisfy the underlying transaction or purpose of your accessing the Site. Examples of personally identifiable information include names, e-mail addresses, mailing addresses, and the like. Please note that we do not consider aggregated information, from which personally identifiable information has been removed, to be private.</p>
-    <p> <strong>What happens if I register?</strong> Registration is allowed or required on certain Boeing Sites. Please refer to the agreements and policies applicable to the Boeing Site for which you provide registration information in order to assure that you understand the applicable privacy practices. Boeing may collect registration data in order to monitor compliance with the terms of use governing the Site and to set up access permissions to certain Boeing Sites.</p>
-    <p> <strong>What security is provided?</strong> We do not treat your general interaction with Boeing.com (e.g., submission of suggestions) as confidential. However, certain Boeing Sites do conduct transactions for which heightened security is appropriate. For instance, certain Boeing Sites encrypt your personal information (e.g., for transmission of credit card data), so that only appropriate personnel are able to decode your information. Note that most internet browsers also offer security alerts that permit you to determine whether your transmissions are protected. Please refer to the agreements and policies applicable to the Boeing Site for which you provide personal information in order to assure that you understand applicable security practices.</p>
-    <p> <strong>When would we disclose your information?</strong> We do not rent, sell, or trade any personally identifiable information about you (e.g., e-mail addresses) to third parties. Certain Boeing Sites may disclose information to third parties assisting us in processing a transaction requested by you (e.g., credit card service providers). In order to cooperate with legitimate governmental requests, subpoenas, or court orders, to protect Boeing and/or Boeing's systems and customers, or to ensure the integrity and operation of Boeing and/or Boeing's business and systems, Boeing and/or Boeing may access and disclose any information it considers necessary or appropriate under the circumstances.</p>
-    <p> <strong>What about children's privacy?</strong> Boeing asks children under 13 not to transmit any information to the Site. Boeing welcomes the parent or guardian of a child under the age of 13 to use the Site and provide any information, service, or product gained from the Site to their child. The Kids page found on Boeing.com does not gather identifiable personal information and is operated as a static Site for informational purposes only.</p>
-    <p> <strong>What if data is transmitted internationally?</strong> If you are one of our international guests, we realize that you may want to know whether your personal information will be transferred out of your country of origin. Please be aware that when you register or request a transaction on a Boeing Site, your personal data may be transferred to computers in the United States in order to process your request.</p>
-    <p> <strong>Does this apply to all of the Boeing Sites?</strong> Through Boeing.com, you may link to many networked web pages and websites operated by Boeing and its subsidiaries and affiliates (together, the "Boeing Sites"). Not all of them have adopted this policy. Individual Boeing Sites may adopt different privacy policies that fit transactions taking place on that Boeing Site. If a Boeing Site has its own privacy policy, the provisions of that policy will control if it conflicts with this general policy. Also, some Boeing Sites are intended to facilitate interaction with other businesses, and may not adopt a privacy policy for individuals. Users of those Sites should check with their employer regarding the employer's arrangements with Boeing and applicable privacy practices.</p>
-    <p> <strong>What about external links?</strong> For the convenience of our Site visitors, Boeing may provide links to third party web sites that are external to Boeing. These web sites are not operated or controlled by Boeing, and Boeing is not responsible for the privacy practices or the content of such external web sites.</p>
-    <p> <strong>How do we keep current?</strong> From time to time, Boeing may revise this Privacy Policy at its discretion. We note the date of the policy below, so you know when it was last updated. Boeing advises you to check back periodically to review the Privacy Policy because users of the Site will be prospectively bound by the then-current version of this Privacy Policy.</p>
-    <div class="clear"> </div>
-  </div>
-    <div id="footer">
-  <div class="clear"></div>
-  <!-- end mod_4 -->
-  <!--Quick Links-->
-  <div class="bottom_links">
-
-    <p> <a href="http://www.boeing.com/aboutus/international/">Boeing International</a> | <a href="/aboutus/diversity/">Diversity</a> | <a href="/companyoffices/aboutus/community/">Corporate Citizenship</a> | <a href="http://www.boeing.com/aboutus/environment/">Environment</a> | <a href="/aboutus/govt_ops/">Government Operations</a> | <a href="/videos/video.html">Videos</a> | <a href="/multimedia/index.html">Images</a></p>
-
-  </div>
-  <!--end Quick Links-->
-  <div class="clear"></div>
-  <!--Footer-->
-  <div class="footer_home">
-    <p> Copyright © 1995 - <script type="text/javascript">
-var d = new Date()
-document.write(d.getFullYear())
-</script>2020 Boeing. All Rights Reserved.    <a href="/companyoffices/aboutus/site_terms.html">Site Terms</a> | <a href="/companyoffices/aboutus/privacy.html">Privacy Policy</a> | <a href="/contactus.html">Contact Us</a> | <a href="/faqs.html">FAQ</a> </p>
-  </div>
-<script type="text/javascript"> Cufon.now(); </script>
-  <!-- End Footer-->
- <div class=" clearfix"></div>
-</div> 
-
-</div>
-
-	<script type="text/javascript"> 
-         cmCreatePageviewTag("Privacy Page","www.boeing.com");
-    </script>
-
-</body></html>
+</div><!--ls:end[component-1355081735642]--></div><div class="ls-cmp-wrap" id="w1355081735655"><!--ls:begin[component-1355081735655]--><div class="iw_component" id="1355081735655"><span id="utility_footer_include"></span><script type="text/javascript" language="JavaScript">
+var d = new Date();
+var year = d.getFullYear();
+$(document).ready(function(){
+                        $.ajax({ 
+                                type : "GET", 
+                                url: '/assets/includes/utility/footer_home.html',
+                                success: function(data) {
+                                        $("#utility_footer_include").html(data);
+                                }, 
+                                error : function() { 
+                                        alert("Sorry, The requested property could not be found."); 
+                                },
+                                complete: function() {
+					var d = new Date();
+					var year = d.getFullYear();
+					$("#footer_date").html(year);
+				} 
+                        }); 
+});
+</script>
+</div><!--ls:end[component-1355081735655]--></div></div></div><div class="ls-row-clr"></div></div></div></div><!--ls:end[body]--></body></html>
