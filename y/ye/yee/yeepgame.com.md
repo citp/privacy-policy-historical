@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yeepgame.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024015220id_/http%3A//www.yeepgame.com/support/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeepgame.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531182559id_/http%3A//www.yeepgame.com/support/Privacy_Policy) for the most accurate reproduction.*
 
-# SUPPORT | Yeepgame.com-Harness the Power of Yeep!
+# Privacy Policy-Yeepgame.com-Play free online game; build your own kingdom in Yeepgame!
 
 Yeepgame absolutely respects and ensures the privacy of your information on the internet and your own personal privacy. To better help you understand how we collect, use, and protect the information you give to us, please read the following Privacy Policy.
 
