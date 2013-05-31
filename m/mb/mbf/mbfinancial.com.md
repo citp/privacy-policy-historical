@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mbfinancial.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018083114id_/http%3A//www.mbfinancial.com/%7E/media/139b2725cb7c4810a0c49fb2f247efed/privacy%2520notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbfinancial.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531141722id_/http%3A//www.mbfinancial.com/%7E/media/139b2725cb7c4810a0c49fb2f247efed/privacy%2520notice.pdf) for the most accurate reproduction.*
 
 # WHAT DOES MB FINANCIAL BANK, N.A. DO WITH YOUR PERSONAL INFORMATION?
 
-                                                                                                            Rev. 09/2010
+                                                                                                            Rev. 03/2013
 FACTS                WHAT DOES MB FINANCIAL BANK, N.A.
                      DO WITH YOUR PERSONAL INFORMATION?
 Why?                 Financial companies choose how they share your personal information. Federal law gives
@@ -72,9 +72,8 @@ with someone else?
 Definitions
 Affiliates                      Companies related by common ownership or control. They can be financial and
                                 nonfinancial companies.
-                                    Our affiliates include financial service providers, such as our affiliated securities
-                                    broker-dealer (Vision Investments, Inc.) or our affiliated registered investment
-                                    advisor (Cedar Hill Associates, Inc.).
+                                    Our affiliates include financial service providers, such as our affiliated
+                                    registered investment advisor (Cedar Hill Associates, Inc.).
 Nonaffiliates                   Companies not related by common ownership or control. They can be financial
                                 and nonfinancial companies.
                                     MB Financial Bank, N.A. does not share with nonaffiliates so they can market
