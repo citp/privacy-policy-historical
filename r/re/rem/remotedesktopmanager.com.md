@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remotedesktopmanager.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227033813id_/http%3A//remotedesktopmanager.com/remotedesktopmanager/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remotedesktopmanager.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531222916id_/http%3A//remotedesktopmanager.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Remote Desktop Manager
 
