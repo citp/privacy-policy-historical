@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postermywall.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201024055id_/http%3A//www.postermywall.com/index.php/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postermywall.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531211406id_/http%3A//www.postermywall.com/index.php/info/privacypolicy) for the most accurate reproduction.*
 
 # PosterMyWall | Privacy Policy
 
@@ -105,3 +105,34 @@ Contact Us, and sending an email relating to Parental Notification. Alternativel
 Most of your account information can be changed in the 250 Mils‚ section of the 250 Mils Website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us . After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information. 
 
 The current version of the 250 Mils Privacy Policy was adopted effective as of 05/18/2010. 
+
+##### PosterMyWall Blog
+
+[ ](http://www.postermywall.com/index.php/posterbuilder/copy/1e7c3270fca9a3e6ff41267cb602a5ea)
+
+###### Publicize your School Clubs with a poster!
+
+Use our school poster templates to quickly make your club poster. (Apr 15)
+
+[ ](http://www.postermywall.com/index.php/posterbuilder/copy/d31ec115e5f11da69c25ece33e6fbeea)
+
+###### New Basketball Sports Team Poster Templates are here!
+
+Create your team poster in minutes by customizing an easy to use template. High quality prints and affordable downloads! (Apr 8)
+
+##### Giveaways & Discounts
+
+Connect with us to get updates and special promotion offers!
+
+##### We'd love to hear from you!
+
+Send us your questions or comments.
+
+We need your permission to connect your Facebook profile with PosterMyWall. It will allow you to login to PosterMyWall using your Facebook account.
+
+If you have any questions about our sign up process, please [contact us](http://www.postermywall.com/index.php/info/contactus).
+
+  
+
+
+### Please click the _Login using Facebook_ button to try again.
