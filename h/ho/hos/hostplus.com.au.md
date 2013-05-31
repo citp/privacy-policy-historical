@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hostplus.com.au privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627012348id_/http%3A//www.hostplus.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostplus.com.au privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531210823id_/http%3A//hostplus.com.au/info/privacy-policy) for the most accurate reproduction.*
 
-# HOSTPLUS - Our Privacy Policy
+# HOSTPLUS
 
 ## At HOST **PLUS**  we understand that protecting your privacy is important.
 
-The Privacy Act 1988 (Commonwealth) as amended regulations, through a set of principles known as the National Privacy Principles, describe the how we use, disclose and store information collected from you.
+The Privacy Act 1988 (Commonwealth) as amended regulations, through a set of principles known as the National Privacy Principles, describe the how we use, disclose and store information collected from you1.
 
 This webpage explains our policies and practices with respect to our management of your personal information.
 
@@ -32,6 +32,8 @@ We will always seek your express consent before collecting this kind of sensitiv
 
 For example, we are required to ask for your [TFN](https://web.archive.org/super/get-your-super-sorted/provide-your-tfn) when you become a member of HOST **PLUS**. If you choose not to give us your TFN you may be subjected to additional tax on your contributions, not being able to make [personal contribution](https://web.archive.org/super/add-extra-to-your-super) and will not qualify for the [government co-contributions](https://web.archive.org/super/add-extra-to-your-super/co-contributions) if eligible.
 
+Where you provide your TFN to us upon our request, please note that from 1 July 2012, we are able to utilise your TFN as a primary identifier. Your TFN will be used to identify any multiple accounts you may have within the superannuation fund and consolidating these into just one account. It may also be utilised to assist in locating “lost” superannuation money that may have been collected by the ATO see note below.
+
 ### How do we use the information that we collect from you?
 
 We collect personal information from you so that we are able to:
@@ -48,10 +50,13 @@ We collect personal information from you so that we are able to:
   * process contributions, transfer monies or pay benefits,
   
 
-  * report the investment performance of your account to you, and
+  * report the investment performance of your account to you,
   
 
-  * keep you up to date on other products and services available to you as a HOST **PLUS**  member.
+  * keep you up to date on other products and services available to you as a HOST **PLUS**  member, and
+
+
+  * in the case of your TFN, access the Australian Taxation Office (ATO) SuperMatch system to inform you about your superannuation interests, assist you to manage your superannuation interests as reported to the ATO and reunite you with lost super or monies held on your behalf by the ATO.
 
 
 
@@ -77,7 +82,7 @@ You may request access to the personal information we hold about you. We reserve
 
 There may be circumstances where we are unable to give you access to the information that you have requested. If this is the case we will let you know and explain the reasons. You have a right to ask us to correct any information we hold about you if you believe it is not accurate, complete or up to date. If we do not agree with the corrections you have supplied, we are not required to alter the information.
 
-If you have a concern about this, or anything else about the privacy of your information, you may lodge a complaint with us: In writing to -  **Privacy Officer,**  HOST **PLUS** **, Locked Bag3, Carlton South Vic 3053**. If our Privacy Officer is unable to resolve your complaint, you may lodge a complaint with the Privacy Commissioner by contacting the Hotline on  **1300 363 992** , or visit their website on [www.privacy.gov.au](http://www.privacy.gov.au/)
+If you have a concern about this, or anything else about the privacy of your information, you may lodge a complaint with us: In writing to -  **Privacy Officer,**  HOST **PLUS** **, Locked Bag3, Carlton South Vic 3053**. If our Privacy Officer is unable to resolve your complaint, you may lodge a complaint with the Privacy Commissioner by contacting the Hotline on  **1300 363 992** , or visit their website on [www.oaic.gov.au/index.html](http://www.oaic.gov.au/index.html)
 
 [More information about providing us with feedback](https://web.archive.org/contact/feedback)
 
@@ -119,17 +124,15 @@ We have stringent security systems, practices and procedures in place to safegua
 
 ### Visiting our website and internet access
 
-When you visit this website, details may be recorded about your visit, such as the time and date, your server address, type of browser, domain name, pages visited, documents downloaded and length of visit. This information is used anonymously for statistical purposes and cannot identify you. We use this information to determine the effectiveness of our site and to assess ideas that could make the site more useful to you.
+When you visit this website, details may be recorded about your visit, such as the time and date, your server address, type of browser, domain name, pages visited, documents downloaded and length of visit. This information is used for statistical purposes. We use this information to determine the effectiveness of our site and to assess ideas that could make the site more useful to you.
 
 If you send us an email, or log in to your account, we will collect personal information from you including your name, address, telephone numbers and e-mail address. We can only collect personal information via our website with your consent, as you must log in or click on a 'submit' button provided on each web page before any information is recorded.
 
 ### Cookies
 
-We only use cookies when you log in to your SuperSite, SuperFileManager or Pension Online account by entering your Membership number or Employer number and PIN. Once you enter these secure areas we use temporary session cookies. If your browser is configured to reject all cookies, you will be unable to use these applications. A "cookie" is a small text file placed on a computer by a web server.
+We may use “cookies” to help us tailor our website. A cookie is a small data file that contains information about your visit to our website. This information is provided by your computer during your first visit to our website. Our server records this information in a text file and stores this file on your hard drive. When you visit our website again, our server looks for the cookie and may structure itself based on the information contained in the cookie. A cookie only identifies your computer when you visit our web site; it does not identify you. 
 
-A cookie allows information to be retrieved from the computer by a web page server. These cookies may be permanently stored on a computer or are temporary session cookies. They are used for a variety of purposes, including security and personalisation of services. They are frequently used on websites and you can choose if and how a cookie will be accepted by configuring your preferences and options in your browser.
-
-[FInd out more about how we use cookies on this website.](https://web.archive.org/contact/about-this-site)
+We use cookies for a variety of purposes, including security and personalisation of services such as tailored advertising you see from HOST **PLUS** on third party websites.  This last use of cookies is known in the industry as 3rd party ad trackers.  If you wish to opt-out from 3rd party ad-tracking you can register special cookies on your computer that our ad server will acknowledge and bypass.  For further information please visit [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). 
 
 ### Logging on to your account
 
@@ -137,7 +140,7 @@ When you log in to your account, we will verify your identity by your Membership
 
 All secure applications hold current VeriSign Secure Server Certificates. Risks of using the Internet You should note that there are inherent security risks in transmitting information via the Internet. You should assess these potential risks when deciding whether to use our online services.
 
-If you do not wish to transmit information via our website, there are other ways in which you can provide this information to us. 
+If you do not wish to transmit information via our website, there are other ways in which you can provide this information to us. [Contact us for more information.](https://web.archive.org/web/20130531210823id_/http://hostplus.com.au/info/privacy-policy/17c0a29d-60e0-4be2-9d99-fc2e02b4ea88)
 
 ### More information about us
 
@@ -147,3 +150,7 @@ HOST **PLUS**  is a regulated superannuation fund. It complies with the Superan
 ****
 
 For more information on our privacy or to obtain a copy of our Privacy Policy, contact us on  **1300  **HOST **PLUS**  ( **1300 467 875** ).
+
+* * *
+
+1 It is important to know that the [_Privacy Amendment (Enhancing Privacy Protection) Act 2012_](http://www.comlaw.gov.au/Details/C2012A00197) (Reform Act) [passed through the Australian Parliament on 29 November 2012](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4813) and received royal assent on 12 December 2012. While these changes will not commence until March 2014, you can expect the HOSTPLUS Privacy Policy to change over the next few months leading up to implementation.
