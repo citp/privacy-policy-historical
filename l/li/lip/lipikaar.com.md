@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lipikaar.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127093859id_/http%3A//www.lipikaar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipikaar.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601005552id_/http%3A//www.lipikaar.com/privacy-policy) for the most accurate reproduction.*
 
 # Lipikaar - Privacy Policy
 
@@ -133,5 +133,5 @@ INDIA
 ` [info@lipikaar.com](mailto:info@lipikaar.com?subject=Lipikaar)
 
 All logos and trademarks are the property of their respective owners.  
-© 2007-2012 Lipikaar  
+© 2007-2013 Lipikaar  
 [Terms of Use](https://web.archive.org/terms-of-use)| [Privacy Policy](https://web.archive.org/privacy-policy)
