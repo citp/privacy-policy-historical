@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcsx2.net privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214050902id_/http%3A//pcsx2.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcsx2.net privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601015447id_/http%3A//pcsx2.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
