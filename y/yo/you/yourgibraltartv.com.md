@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourgibraltartv.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121225159id_/http%3A//www.yourgibraltartv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourgibraltartv.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531072510id_/http%3A//yourgibraltartv.com/privacy) for the most accurate reproduction.*
 
 # YGTV Privacy Policy
 
