@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116184506id_/http%3A//www.ebags.com/help/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601003116id_/http%3A//www.ebags.com/help/privacypolicy) for the most accurate reproduction.*
 
-# Luggage, Handbags, Backpacks, Suitcases, Purses, Briefcases, Wallets & More - eBags
+# 
 
 ### Our Privacy Pledge
 
@@ -15,7 +15,7 @@ Our goal is to provide you with a safe and enjoyable shopping experience. When w
 We automatically track certain information based upon your behavior on our site. We use this information to analyze our users' behavior, interests, and demographics to better understand and serve our shoppers. This information may include the URL that you just came from, which URL you next go to, what browser you are using and your IP address.
 
 **What about Cookies?**  
-"Cookies" are small pieces of information that a web site will store on your computer's hard drive. eBags will use cookies to identify you during your session, make our services easier to use and to store items in your shopping cart between visits. Cookies are never used to store sensitive customer information such as names, addresses, credit card numbers or passwords. Acceptance of cookies is not a requirement to browse our site, however, our shopping cart does require the acceptance of cookies to work properly. Most browsers automatically accept cookies, but you can configure your browser to prevent that. If you would like to place an order on our site but object to or otherwise are unable to use cookies, please feel free to place your order via our toll free number: 800-820-6126 .
+"Cookies" are small pieces of information that a web site will store on your computer's hard drive. eBags will use cookies to identify you during your session, make our services easier to use and to store items in your shopping cart between visits. Cookies are never used to store sensitive customer information such as names, addresses, credit card numbers or passwords. Acceptance of cookies is not a requirement to browse our site, however, our shopping cart does require the acceptance of cookies to work properly. Most browsers automatically accept cookies, but you can configure your browser to prevent that. If you would like to place an order on our site but object to or otherwise are unable to use cookies, please feel free to place your order via our toll free number: 1-800-820-6126.
 
 **Personally Identifiable Information**  
 This is information that you provide to us that is specific to you. We collect information such as your name, phone number, billing information, shipping information and other personal information as indicated on the forms throughout our site. You provide such information when you make a purchase, enter a contest or sweepstakes, fill out a survey or form, provide ratings or testimonials feedback, give or redeem a gift certificate, etc. Where possible, we indicate which fields are required and which fields are optional. You can always choose not to provide information, but you may not be able to use a particular service or feature by omitting the information.
