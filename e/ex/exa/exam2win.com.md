@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the exam2win.com privacy policy that was archived on 2012-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120101211235id_/http%3A//exam2win.com/web/policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exam2win.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601003617id_/http%3A//exam2win.com/web/policy.jsp) for the most accurate reproduction.*
 
-# tnpsc model test for vao
-
-**PRIVACY**
+# POLICY
 
 **What information do we collect?**
 
