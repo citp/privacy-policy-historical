@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowbackoffice.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117210031id_/http%3A//nowbackoffice.com/index%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowbackoffice.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531055416id_/http%3A//nowbackoffice.com/index%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # NOW Communications - Privacy Statement
 
@@ -6,7 +6,7 @@
 
 Your privacy is very important to us, and we will treat your data with care and respect. We know that you care how information and data about you is collected, used and shared. This Privacy Statement describes our privacy policy and details how we collect, use, and/or disseminate the information you provide. We reserve the right change this Statement at any time and urge you to review our Statment regulary to familiarize yourself with any changes.
 
-**By visiting our website, using our online products/services, and/or by voluntarily submitting information to us via online forms, advertisement responses, and/or electronic mail, you are accepting the practices described in this Privacy Statement.**
+**By visiting our website, using our online products/services, downloading/installing and/or using our application on a mobile phone, and/or by voluntarily submitting information to us via online forms, advertisement responses, mobile applications, and/or electronic mail, you are accepting the practices described in this Privacy Statement.**
 
 ### Who We Are
 
@@ -156,7 +156,7 @@ We purchase third party marketing data and add it to our existing user database 
 
 ### Correcting/Updating/Deleting/Deactivating Personal Information
 
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users. personally identifiable information. This can usually be done at the in the member backoffice.
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), if a user no longer wishes to use our service, or otherwises wishes to review the user's personally identifiable information, a user may review, correct, update, or delete/deactivate the user's personally identifiable information by logging in to the user's account, or for additional assistance, by contacting support at support@nowbackoffice.com
 
 ### Notification of Changes
 
@@ -170,3 +170,6 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 support@nowbackoffice.com  
 www.nowbackoffice.com
+
+  
+**This policy is effective January 14, 2013**
