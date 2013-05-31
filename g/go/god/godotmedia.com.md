@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the godotmedia.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212075702id_/http%3A//www.godotmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godotmedia.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601014430id_/http%3A//www.godotmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](https://web.archive.org/ "Home")
-
-_Awesome Content for Awesome Businesses_
 
 This privacy policy sets out how Godot Entertainment & Media Pvt Ltd uses and protects any information that you give us when you use this website.
 
@@ -37,6 +33,9 @@ We use traffic log cookies to identify which pages are being used. This helps us
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+Remarketing  
+Our ads are shown on the internet by third party vendors, including Google. These vendors may use cookies to serve relevant ads based on a user’s visits to our website. You may however opt out of Google’s use of cookies. Please visit the [Google advertising opt-out page](http://www.google.com/privacy_ads.html) for more information. Please note that your personally identifiable information is not used for any of these cookies.
 
 Links to other websites
 
