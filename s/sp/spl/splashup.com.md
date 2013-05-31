@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splashup.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003012921id_/http%3A//www.splashup.com/pp.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashup.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601000744id_/http%3A//www.splashup.com/pp.aspx) for the most accurate reproduction.*
 
 # Splashup
 
