@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatnonprofits.org privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119040848id_/http%3A//greatnonprofits.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatnonprofits.org privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531103216id_/http%3A//greatnonprofits.org/privacy) for the most accurate reproduction.*
 
 # GreatNonprofits: Find non-profits and charities to review, donate, or volunteer.
 
@@ -28,8 +28,7 @@ Please be aware that, to the extent required to provide our services, we share y
 
 We may use our email lists for sending out our newsletter and other GreatNonprofits outbound communications, such as product enhancements, tool upgrades, or membership news.
 
-Additionally, for volunteers with a personal account who have accessed GreatNonprofits through www.greatnonprofits.org or a Partner's Web site:
-
+Additionally, for volunteers with a personal account who have accessed GreatNonprofits through www.greatnonprofits.org or a Partner's Web site:  
 If you indicate to us that you are interested in creating a personalized account, the information we gather from you will be used to permit you to: access the account, customize outbound email services, review your referral history and/or post a resume that can be sent as an attachment to inquiries you make using the GreatNonprofits service.
 
 ### For Nonprofit Organizations
@@ -84,6 +83,6 @@ You should visit this page periodically to review any changes to the Privacy Pol
 
 ### How To Contact Us
 
-We appreciate your questions or comments about this privacy statement, the practices of this site, or your dealings with GreatNonprofits. Please send email to support@greatnonprofits.org or you can send snail mail to 695 Arkansas St., San Francisco, CA 94107.
+We appreciate your questions or comments about this privacy statement, the practices of this site, or your dealings with GreatNonprofits. Please send email to support@greatnonprofits.org or you can send snail mail to 330 Twin Dolphin Drive, Redwood City, CA 94065.
 
 Effective Date: March 30, 2007
