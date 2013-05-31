@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cardkingdom.com privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231105927id_/http%3A//www.cardkingdom.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cardkingdom.com privacy policy that was archived on 2013-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531044846id_/http%3A//www.cardkingdom.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="https://www.w3.org/1999/xhtml"><head>
 
@@ -20,13 +20,19 @@ Magic The Gathering, magic cards, singles, card lists, deck ideas. -->
 <link rel="stylesheet" type="text/css" href="http://www.cardkingdom.com/shared/media/css/cart.css" media="screen, print">
 <link rel="stylesheet" type="text/css" href="http://www.cardkingdom.com/media/css/cardkingdom.css" media="screen, print">
 
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
 <link rel="stylesheet" type="text/css" href="http://www.cardkingdom.com/media/packages/fancybox/css/ckgallery.css" media="screen, print">
 <link rel="stylesheet" type="text/css" href="http://www.cardkingdom.com/media/packages/fancybox/css/fancybox.css" media="screen, print">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<!-- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script> -->
 <script type="text/javascript" src="http://www.cardkingdom.com/media/packages/fancybox/js/center.js"></script>
 <script type="text/javascript" src="http://www.cardkingdom.com/media/packages/fancybox/js/gallery.js"></script>
 <script type="text/javascript" src="http://www.cardkingdom.com/media/packages/fancybox/js/fancybox.js"></script>
 
+<!-- Autocomplete -->
+<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.0/themes/base/jquery-ui.css" media="screen, print">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+<script src="/media/packages/autocomplete/js/magic3.js"></script>
 
 <!--
 <link rel="stylesheet" type="text/css" href="/shared/media/js/ext-3.2.1/resources/css/ext-all.css" />
@@ -198,20 +204,38 @@ Magic The Gathering, magic cards, singles, card lists, deck ideas. -->
     <a href="http://www.cardkingdom.com/customer_login">Log In &nbsp; | &nbsp; Sign Up</a></p>
 
 <div style="text-align:center; border-top:1px solid #000; border-bottom:1px solid #000; background-color:#eee; padding:5px;">
-
     <form action="/catalog/view">
     <input type="hidden" name="search" value="basic">
     <table style="margin:0 auto;">
         <tbody><tr>
-            <td><b>Search:</b> </td>
-            <td id="autocomplete"><input type="text" name="filter[name]" size="40" value=""></td>
+            <!--<td><b>Search:</b> </td>-->
+            <td id="autocomplete">
+            <div class="ui-widget">
+            <label for="tags"><b>Search: </b></label>
+            <input type="text" id="tags" name="filter[name]" size="40" value="">            </div>
+            </td>
             <td><input type="submit" value="Go"></td>
             <td><span style="font: 7pt/1.0 arial;"><a href="/search/mtg">(advanced search)</a></span></td>
         </tr>
     </tbody></table>
     </form>
 </div>
+
+<!--
+<div style='text-align:center; border-top:1px solid #000; border-bottom:1px solid #000; background-color:#eee; padding:5px;'>
+    <form action=/catalog/view>
+    <input type=hidden name=search value=basic>
+    <table style='margin:0 auto;'>
+        <tr>
+            <td><b>Search:</b> </td>
+            <td id=autocomplete><input type="text" name="filter[name]" size="40" value=""  /></td>
+            <td><input type=submit value=Go></td>
+            <td><span style='font: 7pt/1.0 arial;'><a href=/search/mtg>(advanced search)</a></span></td>
+        </tr>
+    </table>
+    </form>
 </div>
+--></div>
 
 <div class="colmask holygrail">
     <div class="colmid">
@@ -258,11 +282,16 @@ Magic The Gathering, magic cards, singles, card lists, deck ideas. -->
 <div id="footer"><br>
 
 <div style="text-align:center;">
-    Copyright © 1999-2012 Card Kingdom, Inc.<br><br>
+    Copyright © 1999-2013 Card Kingdom, Inc.<br><br>
     <a href="http://www.cardkingdom.com/">Card Kingdom Home</a> | <a href="http://www.cardkingdom.com/static/privacy">Privacy Policy</a> | <a href="http://www.cardkingdom.com/static/support">Contact Us</a>    <br><br>
     <img src="http://www.cardkingdom.com/media/images/web/wizmark.gif"></div></div>
 
 
+
+<script type="text/javascript">
+    $("#tags").focus();
+    $("#tags").select();
+</script>
 
 
 
