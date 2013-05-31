@@ -1,19 +1,91 @@
-> *The following text is extracted and transformed from the atkinsglobal.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014061306id_/http%3A//www.atkinsglobal.com/site-services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atkinsglobal.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531230128id_/http%3A//www.atkinsglobal.com/site-services/privacy) for the most accurate reproduction.*
 
 # Privacy – Atkins
 
 ## Privacy
 
-We are committed to protecting your privacy. Before providing us with any of your details, please read the following important information which concerns the protection of your personal data.
+Atkins is committed to protecting your privacy. Before providing us with any of your details, please read the following important information which concerns the protection of your personal data.
 
-We will hold and process any personal information which you provide via the site or by submitting emails and/or online forms for our own internal business purposes, including lawful purposes relating to recruitment where information is sent by you via the recruitment part of the Site. We do not pass on or sell online personal information to third parties. We may however share information within our organisation and in some cases it will be necessary to pass information to our pension or share administrators. This may include our employees, agents, contractors and sub-contractors. Please note that by sending your personal information to us you are explicitly consenting to the processing and transfer of such information in this way.
+This policy together with any other documents referred to in it sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
-In addition to the information you submit to us via the Site, we may collect information about visits to the Site. We collect information on the page browser access. This is used within the Atkins Group to improve the design and layout of our sites. We gather information on the relative popularity of each page, the average number of pages accessed by visitors, the number of emails sent or files downloaded, and the average time spent on the site. None of this information is linked back to you as an individual.
+For the purposes of the Data Protection Act 1998 (the “Act”), the data controller is Atkins Limited of Woodcote Grove, Ashley Road, Epsom, Surrey KT18 5BW, England.
 
-In collecting information about visits to the Site, we may use "cookies" to identify visitors to the Site and to build up a demographic profile. A cookie is a small piece of text which attaches to your hard drive (but does not access your hard drive) and from which it can store and sometimes track information on how you make use of a web site. Most browsers will automatically accept a cookie but it is possible to set your browser to notify you prior to it being sent and at which point you can accept or reject it.
+Our nominated representative for the purposes of the Act is the Company Secretary. 
 
-We may provide hyperlinks from the Site to websites of third parties. Please note that this privacy statement applies only to the contents of the Site and not to those web sites to which we may provide a link.
+_INFORMATION WE MAY COLLECT FROM YOU, AND USE WE MAY MAKE OF IT_
 
-We are willing, on written request from you, to provide details of any personal information which you have provided us with (this may be at a small charge) and/or to cease to make use of your personal information for the purposes described above. We may require proof of identity from you prior to disclosing such information. This is in order to safeguard the security of your information. You should send any request using the link below.
+We will hold and process any personal information which you provide via the site or by submitting emails and/or online forms, for our own internal business purposes, including lawful purposes relating to recruitment where information is sent by you via the recruitment part of the site.
 
-If any information with which you have provided us becomes inaccurate or out of date, or if you have any queries about this privacy statement, [please contact us via this website](http://www.atkinsglobal.com/site-services/contact-us).
+In addition to the information you submit to us via the site, we may collect information about visits to the site. We collect information on the page browser access. This is used within the Atkins Group to improve the design and layout of our sites. We gather information on the relative popularity of each page, the average number of pages accessed by visitors, the number of emails sent or files downloaded, and the average time spent on the site. None of this information is linked back to you as an individual.
+
+**Cookies**
+
+When you visit our website, we use cookies, which are small pieces of information that allow us to maintain your connection to our website. These cookies do not collect or store any personally identifiable information. You can refuse the use of cookies.
+
+**Google Analytics**
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies (text files placed on your computer) to help the website operators analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+
+**Name** | **Details** | **Nature of the Cookies** | **Cookie Type** | **Reason to Use/  
+What function they perform**  
+---|---|---|---|---  
+__utma | tracks each user's amount of visits, and the time of the first, the previous, and the current visit (presumably partly for double checking). | Third Party | permanent | In case Google Analytics is used  
+__utmb | are used to track how long you stay on a site - when a visit starts and approximately ends | Third Party | permanent  
+__utmc | are used to track how long you stay on a site - when a visit starts and approximately ends 
+
+This expires quickly
+
+| Third Party | permanent  
+__utmz | tracks where a visitor came from (search engine, search keyword, link) | Third Party | permanent  
+SERVERID | ID of the Server which served the request | First Party | Session | Managed by Microsoft technology used by IP3  
+ASP.NET_SessionId | ID of the Session which is currently used | First Party | Session | Managed by Microsoft technology used by IP3  
+atkins-global-live#ip3_device | Sitecore Device | First Party | Session | To track devices, for e.g., Desktop or Mobile  
+atkins-global-live#lang | Stores Language For the Website | First Party | Session | To track the language when navigating through the website  
+  
+**Definitions:**
+
+  * “First Party” Cookie – A cookie placed by this Website 
+  * “Third Party” Cookie – A cookie placed by another domain (e.g. not this Website) 
+  * “Permanent” Cookie - The cookie information is permanently stored on your device 
+  * “Session” Cookie – The cookie information is temporarily stored in your web browser’s memory 
+  * “Strictly Necessary” Cookies – These cookies are required so the website can function. No consent is required. 
+
+
+
+We don’t seek to collect your personal information and, where we do, we strive to anonymise your personal information where appropriate.
+
+WHERE WE STORE YOUR PERSONAL DATA 
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+DISCLOSURE OF YOUR INFORMATION
+
+We do not pass on or sell online personal information to third parties. We may however share information within our organisation and in some cases it will be necessary to pass information to our pension or share administrators. This may include our employees, agents, contractors and sub-contractors. Please note that by sending your personal information to us you are consenting to the processing and transfer of such information in this way.
+
+ACCESS TO INFORMATION
+
+The Act gives you the right to access information held about you. We will on written request from you, provide details of any personal information which you have provided us with (this may be at a small charge) and/or to cease to make use of your personal information for the purposes described above. 
+
+We may require proof of identity from you prior to disclosing such information. This is in order to safeguard the security of your information. You should send any request using the Contact link below.
+
+CHANGES TO OUR PRIVACY POLICY
+
+Any changes we may make to our privacy policy in the future will be posted on this page. 
+
+CONTACT
+
+If any information you have provided to us becomes inaccurate or out of date, or if you have any queries about this privacy statement, [please contact us via this website](http://www.atkinsglobal.com/site-services/contact-us).
+
+THIRD PARTY WEB SITES
+
+We may provide hyperlinks from the site to websites of third parties. Please note that this privacy statement applies only to the contents of the site and not to those websites to which we may provide a link.
+
+How to refuse the use of cookies
+
+You may refuse the use of cookies by selecting the appropriate settings in your browser. However, if you do this you may lose some useful functionality such as personalisation and “keep me signed in” and “remember me” features.
+
+[How to disable cookies in your browser](http://www.investis.com/info/disabling-cookies.html "Opens in a new window")
