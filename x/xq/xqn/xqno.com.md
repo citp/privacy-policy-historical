@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xqno.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122083831id_/http%3A//xqno.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xqno.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531225254id_/http%3A//xqno.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# XQno Short URL
+# XQno url shortener
 
 Privacy Policy for xqno.com  
 The privacy of our visitors to xqno.com is important to us.
