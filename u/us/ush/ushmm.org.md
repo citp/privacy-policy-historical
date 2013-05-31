@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ushmm.org privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207171134id_/http%3A//www.ushmm.org/priv_acc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ushmm.org privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531214232id_/http%3A//www.ushmm.org/priv_acc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,7 +51,7 @@ By providing personal information on our site, you are giving consent to the Mus
   * Provide you the requested service
   * Allow you to select or change user preferences
   * Confirm your contribution
-  * Send you tax-deductible receipts
+  * Send you receipts for tax-deductible gifts
   * Personalize the content you see based on the activities and choices you have made
 
 
