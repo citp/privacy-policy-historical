@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classimap.net privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130013237id_/http%3A//www.classimap.net/read/privacy_en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classimap.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531150114id_/http%3A//www.classimap.net/read/privacy_en) for the most accurate reproduction.*
 
 # Classimap.net - Page Site · Classimap.net
 
@@ -66,7 +66,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.ClassMap.co.uk/terms](https://web.archive.org/web/20121130013237id_/http%3A//www.classimap.net/read/www.ClassMap.co.uk/read/condizioni_en)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [terms and conditions](https://web.archive.org/read/condizioni_en)
 
  **Your Consent**
 
@@ -78,12 +78,5 @@ If we decide to change our privacy policy, we will send an email notifying you o
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-Metrorail Studio Srl   
-via Lorenzo di Credi 20   
-Florence 50134   
-Italy   
-info@classimap.co.uk 
-
-This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zen desk](http://www.rhinosupport.com/zendesk.htm) and save!
+If there are any questions regarding this privacy policy you may contact us using the information below.   
+info@classimap.net 
