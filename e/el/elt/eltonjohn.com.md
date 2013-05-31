@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eltonjohn.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129170108id_/http%3A//www.eltonjohn.com/info/ej_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eltonjohn.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601005759id_/http%3A//www.eltonjohn.com/info/ej_privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - EltonJohn.com
 
@@ -8,11 +8,11 @@ Please review this Privacy Policy periodically. We may update it from time to ti
 
 If you feel that this site is not following its stated information policy, you may contact us (at the addresses or phone number below). "Personal Information" means any information about an identifiable individual but does not include the name, title or business address or telephone number of an employee of an organization.
 
-### Information We Collect
+#### Information We Collect
 
 For each visitor to this website our web server automatically recognizes non-individual data only, but not Personal Information (where possible). We use this information to notify users on updates and optimize the Site for you and to diagnose problems with EltonJohn.com. We collect information volunteered by the consumer, such as survey information, site registrations, and/or orders placed with EltonJohn.com.
 
-### How We Use This Information
+#### How We Use This Information
 
 We collect the minimum amount of Personal Information necessary to provide our services. The information we collect is used to:
 
@@ -25,29 +25,29 @@ We collect the minimum amount of Personal Information necessary to provide our s
 
 We do not sell, rent, or lease our site customer information to third parties. In order to provide our services, we occasionally share information to our business partners to help make decisions about the content made available to our customers. We use trusted, third-party companies to assist us in fulfilling orders and processing credit card payments. These companies are only given the necessary amount of Personal Information needed to complete the transaction and payment information is destroyed upon completion of the order. Any transfer of information is subject to the limitations of this privacy statement.
 
-### Consent
+#### Consent
 
 Personal Information will only be collected, used or disclosed with a site customer's consent, except where required or permitted by law. Consent can be express or implied. It will never be a requirement to obtain a service or product except where necessary to be able to supply that product or service. Site customers can withdraw their consent at any time, subject to legal or contractual restrictions. If you would like to withdraw your consent please [contact us](mailto:help@EltonJohn.com "Contact Us").
 
-### Cookies
+#### Cookies
 
 EltonJohn.com uses cookies to help personalize your online experience, by, among other things, saving your passwords and preferences for you. These cookies are restricted for use only on EltonJohn.com, and do not transfer any Personal Information to any other party. If you choose to disable your cookies setting or refuse to accept a cookie, some parts of EltonJohn.com will not function properly or may be considerably slower.
 
-### External Sites
+#### External Sites
 
 Neither EltonJohn.com nor its partners are responsible for the privacy practices or the content of external websites. When we include links to other internet sites, on this site and in our newsletters and other communications, we do so solely as a convenience to our visitors.
 
-### Security
+#### Security
 
 We work to secure your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-### Control of Your Information
+#### Control of Your Information
 
 EltonJohn.com offers choices to our customers for the collection, use and sharing of Personal Information. If you do not wish to receive email for mailing lists from us you can unsubscribe to the list by using the link at the bottom of every mailing.
 
 Upon request we provide site visitors with access to unique identifier information (e.g. customer number), transaction information (e.g. dates on which customers made purchases, amounts and types of purchases), communications that have been directed to our site (e.g. emails, customer inquiries), and contact information (e.g. name, address, phone number). Site visitors can access this information through the various account settings features on the website or by writing to us at the email address or the mailing address below. We keep all Personal Information about our visitors up-to-date and encourage our visitors to update us on any changes to their Personal Information by emailing or writing to us. 
 
-### Privacy Principles for EltonJohn.com
+#### Privacy Principles for EltonJohn.com
 
 In addition to anything stated in this Privacy Policy, we abide by the following ten principles:
 
@@ -58,7 +58,7 @@ IDENTIFYING PURPOSE
 CONSENT
     The knowledge and consent of the individual are required for the collection, use or disclosure of Personal Information. 
 LIMITING COLLECTION
-    We will limit the collection of PERSONAL INFORMATION to what is necessary for the purposes identified. 
+    We will limit the collection of personal information to what is necessary for the purposes identified. 
 LIMITING USE, DISCLOSURE AND RETENTION
     Personal Information will only be used or disclosed for purposes we set out. Except with the consent of the individual or as may be required by law. Personal Information will be retained only as long as necessary for the fulfillment of the purposes for which it was collected. 
 ACCURACY
