@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the hboasia.com privacy policy that was archived on 2012-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121118142643id_/http%3A//www.hboasia.com/terms/Privacy-Policy-18) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hboasia.com privacy policy that was archived on 2013-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531053758id_/http%3A//hboasia.com/terms/Privacy-Policy-18) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="http://hboasia.com/system/application/views/im/favicon.ico">
 <title>Welcome to HBO Asia</title>
 
 
-<base href="http://www.hboasia.com/system/application/views/"><link rel="stylesheet" type="text/css" href="website/inc/layout_all.css"><link rel="stylesheet" type="text/css" href="website/inc/english/layout.css"><link rel="stylesheet" type="text/css" href="website/inc/english/main.css"><link rel="stylesheet" type="text/css" href="website/inc/english/thickbox.css"><link rel="stylesheet" type="text/css" href="website/inc/english/select2css.css"><link rel="stylesheet" type="text/css" href="website/inc/english/jquery.ui.all.css"><link rel="stylesheet" type="text/css" href="website/inc/english/hbo.css"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="website/inc/jquery-1.3.2.js"></script><script language="javascript" src="website/inc/jquery.corner.js"></script><script language="javascript" src="website/inc/thickbox.js"></script><script language="javascript" src="website/inc/english/main.js"></script><script language="javascript" src="website/inc/jquery.ui.core.min.js"></script><script language="javascript" src="website/inc/jquery.ui.datepicker.min.js"></script><script language="javascript" src="includes/playerlitepro/js/swfobject.js"></script>
+<base href="http://hboasia.com/system/application/views/"><link rel="stylesheet" type="text/css" href="website/inc/layout_all.css"><link rel="stylesheet" type="text/css" href="website/inc/english/layout.css"><link rel="stylesheet" type="text/css" href="website/inc/english/main.css"><link rel="stylesheet" type="text/css" href="website/inc/english/thickbox.css"><link rel="stylesheet" type="text/css" href="website/inc/english/select2css.css"><link rel="stylesheet" type="text/css" href="website/inc/english/jquery.ui.all.css"><link rel="stylesheet" type="text/css" href="website/inc/english/hbo.css"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="website/inc/jquery-1.3.2.js"></script><script language="javascript" src="website/inc/jquery.corner.js"></script><script language="javascript" src="website/inc/thickbox.js"></script><script language="javascript" src="website/inc/english/main.js"></script><script language="javascript" src="website/inc/jquery.ui.core.min.js"></script><script language="javascript" src="website/inc/jquery.ui.datepicker.min.js"></script><script language="javascript" src="includes/playerlitepro/js/swfobject.js"></script>
 <script type="text/javascript">
 
 
@@ -23,7 +24,7 @@
   })();
 </script>
 
-<base href="http://www.hboasia.com/system/application/views/"><script language="javascript" src="admin/validate_form.js"></script><style>
+<base href="http://hboasia.com/system/application/views/"><script language="javascript" src="admin/validate_form.js"></script><style>
 .error_field{
 	background-color: #FFCCCC;
 }
@@ -45,9 +46,13 @@
 	//var loading_spinner_rectangle = '<div align="center"><img src="im/loading_spinner_rectangle.gif"/></div>';
 	//var loading_spinner_rectangle = '<div align="center"><img src="im/ajax_loader.gif"/></div>';
 	var loading_spinner_rectangle = '<div align="center"><img src="im/ajax_loader_2.gif"/></div>';
-	var site_url = "http://www.hboasia.com/";
+	var site_url = "http://hboasia.com/";
 </script>
-
+<!--<script language="JavaScript" type="text/JavaScript">
+function hideDiv(){
+	document.getElementById("flashContent").style.display = "none";
+}
+</script>-->
 <script>
 $(function() {
 	//$( ".datepicker" ).datepicker({ dateFormat: 'D, d M' });
@@ -90,7 +95,7 @@ function change_country(id,name,language_id){
 	if(id != '') {
 		$.ajax({
 			type: "POST",
-			url: "http://www.hboasia.com/homepage/set_default_country",
+			url: "http://hboasia.com/homepage/set_default_country",
 			data: "id="+escape(id)+"&name="+name+"&language_id="+escape(language_id),
 			beforeSend: function() {
 
@@ -109,9 +114,9 @@ function change_country(id,name,language_id){
 					if(index >0){
 						url = current_url.substring(0,index);
 					}
-					top.location.href = "http://www.hboasia.com/index.php/home";
+					top.location.href = "http://hboasia.com/index.php/home";
 				}else if(is_south == 'is_south'){
-					var base = "http://www.hboasia.com/";
+					var base = "http://hboasia.com/";
 					var current_url = window.location.href;
 					var tail = current_url.substring(base.length,current_url.length);
 					//top.location.href = 'http://www.hbosouthasia.com/'+tail;
@@ -140,7 +145,7 @@ function change_channel(id,name,language_id,C_ID,C_name){
 	if(C_ID != '') {
 		$.ajax({
 			type: "POST",
-			url: "http://www.hboasia.com/homepage/set_default_channel",
+			url: "http://hboasia.com/homepage/set_default_channel",
 			data: "id="+escape(id)+"&name="+name+"&language_id="+escape(language_id)+"&channel_id="+escape(C_ID),
 			beforeSend: function() {
 
@@ -173,6 +178,13 @@ $(document).ready(function(){
 	var strCookie=document.cookie;
 	//alert(strCookie);
 	//getRightBannerData();
+	
+	$('#questions').mouseover(function(){
+		$('.show_films').fadeIn();
+	});
+	$('#questions').mouseout(function(){
+		$('.show_films').fadeOut();
+	});
 });
 
 /**
@@ -181,7 +193,7 @@ $(document).ready(function(){
  */
 function getTopBannerData(){
 
-	var url = "http://www.hboasia.com/webbanner/ajaxGetTopBanner";
+	var url = "http://hboasia.com/webbanner/ajaxGetTopBanner";
 
 	$.post(
 		url,
@@ -198,7 +210,7 @@ function getTopBannerData(){
  */
 function getRightBannerData(position){
 
-	var url = "http://www.hboasia.com/webbanner/ajaxGetRightBanner";
+	var url = "http://hboasia.com/webbanner/ajaxGetRightBanner";
 
 	$.post(
 		url,
@@ -214,8 +226,8 @@ function getRightBannerData(position){
  */
 function bannerClickthrusAdd(Banner_ID){
 	 //Comment by Kangning on Valentine's Day 2012
-	var User_IP = "174.129.237.157";
-	var url = "http://www.hboasia.com/webbanner/ajaxBannerClickthtus";
+	var User_IP = "207.241.237.105";
+	var url = "http://hboasia.com/webbanner/ajaxBannerClickthtus";
 	$.post(
 		url,
 		{
@@ -229,7 +241,7 @@ function bannerClickthrusAdd(Banner_ID){
 	);
 	return false;
 	/*
-	var horse="http://www.hboasia.com/webbanner/top_banner_flash_page?TB_iframe=true&height=500&width=1024";
+	var horse="http://hboasia.com/webbanner/top_banner_flash_page?TB_iframe=true&height=500&width=1024";
 	tb_show('',horse,'');
 	//$('#TB_overlay').css('background','none');
 	$('#TB_title, #TB_overlay').remove();
@@ -356,7 +368,7 @@ function banner_overlay(URL){
 </head>
 
 
-<body class="body_bg" style="background-image:url(&quot;http://www.hboasia.com/uploads/channels/background/2012-11-01-07-43-45_hbo_new_look.jpg&quot;)">
+<body class="body_bg" style="background-image:url(&quot;http://hboasia.com/uploads/channels/background/2012-11-01-07-43-45_hbo_new_look.jpg&quot;)">
 	<!-- start shadow div -->
 	<div id="main">
     	<!-- start main content -->
@@ -370,7 +382,7 @@ function banner_overlay(URL){
 	                <a id="flv_wrapper"><!-- http://www.hboasia.com/action-nation -->
 
 						<object width="987" height="370" align="middle" id="sp_curriculum_banner" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
-				            <param value="http://www.hboasia.com/system/application/views/website/inc/luck_banners_flash/ActionNation_987x370.swf" name="movie">
+				            <param value="http://hboasia.com/system/application/views/website/inc/luck_banners_flash/ActionNation_987x370.swf" name="movie">
 				            <param value="high" name="quality">
 				            <param value="true" name="play">
 				            <param value="true" name="loop">
@@ -384,8 +396,8 @@ function banner_overlay(URL){
 				            <param value="" name="salign">
 				            <param value="sameDomain" name="allowScriptAccess">
 				            <!--[if !IE]>-->
-				            <object width="987" height="370" data="http://www.hboasia.com/system/application/views/website/inc/luck_banners_flash/ActionNation_987x370.swf" type="application/x-shockwave-flash">
-				                <param value="http://www.hboasia.com/system/application/views/website/inc/luck_banners_flash/ActionNation_987x370.swf" name="movie">
+				            <object width="987" height="370" data="http://hboasia.com/system/application/views/website/inc/luck_banners_flash/ActionNation_987x370.swf" type="application/x-shockwave-flash">
+				                <param value="http://hboasia.com/system/application/views/website/inc/luck_banners_flash/ActionNation_987x370.swf" name="movie">
 				                <param value="high" name="quality">
 				                <param value="true" name="play">
 				                <param value="true" name="loop">
@@ -411,13 +423,13 @@ function banner_overlay(URL){
                 	<img src="im/box_left.gif">
                 </div>
 
-                												<input type="hidden" id="now_url" value="http://www.hboasia.com/index.php/home">
+                												<input type="hidden" id="now_url" value="http://hboasia.com/index.php/home">
 				<input type="hidden" id="max_url" value="http://www.cinemaxasia.com/home">
 				<input type="hidden" id="asia_url" value="http://www.hboasia.com/">
 
                 <div class="box_middle float_l">
 					<!-- shaorui | 2011-03-14 | #438 -->
-					<form name="movie_search_form" id="movie_search_form" action="http://www.hboasia.com/webmovie/searchMovie" method="post">
+					<form name="movie_search_form" id="movie_search_form" action="http://hboasia.com/webmovie/searchMovie" method="post">
                 	<span class="search_bg">
                         <input type="text" name="search_name" id="top_search" value="SEARCH" onblur="fnCheckSearch(this.id)" class="search_txt">
 						<input type="hidden" name="Search_Submit" value="Search_Submit">
@@ -455,54 +467,168 @@ function banner_overlay(URL){
 
 																								<td valign="top">
                                 <ul>
-                               			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(6,'',3);return false;">Bangladesh</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(10,'',3);return false;">Brunei</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(14,'',3);return false;">Cambodia</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(1,'',3);return false;">China</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(11,'',3);return false;">Hong Kong</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(13,'',3);return false;">India</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(12,'',3);return false;">Indonesia</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(19,'',3);return false;">Macau</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(20,'',3);return false;">Malaysia</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(17,'',3);return false;">Maldives</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(18,'',3);return false;">Mongolia</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            						                            						                            		</ul></td>
-													<td valign="top">
-				                            		<ul>
-				                            						                            		<li><a href="#" onclick="change_country(21,'',3);return false;">Nepal</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(24,'',3);return false;">Pakistan</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(25,'',3);return false;">Palau</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(22,'',3);return false;">Papua New Guinea</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(23,'',3);return false;">Philippines</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(4,'',3);return false;">Singapore</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(15,'',3);return false;">South Korea</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(16,'',3);return false;">Sri Lanka</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(8,'',3);return false;">Taiwan</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(5,'',3);return false;">Thailand</a></li>
-				                            						                            		
-			                            				                            			                            				                            					                            						                            						                            						                            		<li><a href="#" onclick="change_country(9,'',3);return false;">Vietnam</a></li>
-				                            						                            		
-			                            				                            			                            		                            		                                	<!--<li><a href="#">Mongolia</a></li>
+                               											
+									
+										                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(6,'',3);return false;">Bangladesh</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(10,'',3);return false;">Brunei</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(14,'',3);return false;">Cambodia</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(1,'',3);return false;">China</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(11,'',3);return false;">Hong Kong</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(13,'',3);return false;">India</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(12,'',3);return false;">Indonesia</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(19,'',3);return false;">Macau</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(20,'',3);return false;">Malaysia</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(17,'',3);return false;">Maldives</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(18,'',3);return false;">Mongolia</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            														
+													
+																												</ul></td>
+														<td valign="top">
+														<ul>
+																																													<li>
+																	<a href="#" onclick="change_country(21,'',3);return false;">Nepal</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(24,'',3);return false;">Pakistan</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(25,'',3);return false;">Palau</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(22,'',3);return false;">Papua New Guinea</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(23,'',3);return false;">Philippines</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(4,'',3);return false;">Singapore</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(15,'',3);return false;">South Korea</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(16,'',3);return false;">Sri Lanka</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(8,'',3);return false;">Taiwan</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(5,'',3);return false;">Thailand</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            				                            					                            														
+													
+																																																											<li>
+																	<a href="#" onclick="change_country(9,'',3);return false;">Vietnam</a>
+																</li>
+																																											
+				                            		
+			                            				                            			                            		                            											
+									
+                                	<!--<li><a href="#">Mongolia</a></li>
                                     <li><a href="#">Nepal</a></li>
                                     <li><a href="#">Palau</a></li>
                                     <li><a href="#">Papua New Guinea</a></li>
@@ -525,16 +651,10 @@ function banner_overlay(URL){
                             <div class="top_line">
                             	<ul>
                             			                            				                            				                            			
-			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(22,'台灣（中文）',3);return false;">台灣（中文）</a></li>
-				                            						                            		<li><a href="#" onclick="change_country(22,'香港（中文）',3);return false;">香港（中文）</a></li>
-				                            					                            					                            		<li><a href="#" onclick="change_country(22,'中国（中文）',3);return false;">中国（中文）</a></li>
-			                            					                            		<li><a href="#" onclick="change_country(22,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
-			                            		-->
-		                            			                            				                            				                            			
-			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(19,'台灣（中文）',3);return false;">台灣（中文）</a></li>
-				                            						                            		<li><a href="#" onclick="change_country(19,'香港（中文）',3);return false;">香港（中文）</a></li>
-				                            					                            					                            		<li><a href="#" onclick="change_country(19,'中国（中文）',3);return false;">中国（中文）</a></li>
-			                            					                            		<li><a href="#" onclick="change_country(19,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
+			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(16,'台灣（中文）',3);return false;">台灣（中文）</a></li>
+				                            						                            		<li><a href="#" onclick="change_country(16,'香港（中文）',3);return false;">香港（中文）</a></li>
+				                            					                            					                            		<li><a href="#" onclick="change_country(16,'中国（中文）',3);return false;">中国（中文）</a></li>
+			                            					                            		<li><a href="#" onclick="change_country(16,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
 		                            			                            				                            				                            			
 			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(14,'台灣（中文）',3);return false;">台灣（中文）</a></li>
@@ -543,16 +663,16 @@ function banner_overlay(URL){
 			                            					                            		<li><a href="#" onclick="change_country(14,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
 		                            			                            				                            				                            			
-			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(8,'台灣（中文）',3);return false;">台灣（中文）</a></li>
-				                            						                            		<li><a href="#" onclick="change_country(8,'香港（中文）',3);return false;">香港（中文）</a></li>
-				                            					                            					                            		<li><a href="#" onclick="change_country(8,'中国（中文）',3);return false;">中国（中文）</a></li>
-			                            					                            		<li><a href="#" onclick="change_country(8,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
+			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(13,'台灣（中文）',3);return false;">台灣（中文）</a></li>
+				                            						                            		<li><a href="#" onclick="change_country(13,'香港（中文）',3);return false;">香港（中文）</a></li>
+				                            					                            					                            		<li><a href="#" onclick="change_country(13,'中国（中文）',3);return false;">中国（中文）</a></li>
+			                            					                            		<li><a href="#" onclick="change_country(13,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
 		                            			                            				                            				                            			
-			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(20,'台灣（中文）',3);return false;">台灣（中文）</a></li>
-				                            						                            		<li><a href="#" onclick="change_country(20,'香港（中文）',3);return false;">香港（中文）</a></li>
-				                            					                            					                            		<li><a href="#" onclick="change_country(20,'中国（中文）',3);return false;">中国（中文）</a></li>
-			                            					                            		<li><a href="#" onclick="change_country(20,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
+			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(24,'台灣（中文）',3);return false;">台灣（中文）</a></li>
+				                            						                            		<li><a href="#" onclick="change_country(24,'香港（中文）',3);return false;">香港（中文）</a></li>
+				                            					                            					                            		<li><a href="#" onclick="change_country(24,'中国（中文）',3);return false;">中国（中文）</a></li>
+			                            					                            		<li><a href="#" onclick="change_country(24,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
 		                            			                            				                            				                            			
 			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(15,'台灣（中文）',3);return false;">台灣（中文）</a></li>
@@ -561,28 +681,34 @@ function banner_overlay(URL){
 			                            					                            		<li><a href="#" onclick="change_country(15,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
 		                            			                            				                            				                            			
-			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(4,'台灣（中文）',3);return false;">台灣（中文）</a></li>
-				                            						                            		<li><a href="#" onclick="change_country(4,'香港（中文）',3);return false;">香港（中文）</a></li>
-				                            					                            					                            		<li><a href="#" onclick="change_country(4,'中国（中文）',3);return false;">中国（中文）</a></li>
-			                            					                            		<li><a href="#" onclick="change_country(4,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
-			                            		-->
-		                            			                            				                            				                            			
 			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(17,'台灣（中文）',3);return false;">台灣（中文）</a></li>
 				                            						                            		<li><a href="#" onclick="change_country(17,'香港（中文）',3);return false;">香港（中文）</a></li>
 				                            					                            					                            		<li><a href="#" onclick="change_country(17,'中国（中文）',3);return false;">中国（中文）</a></li>
 			                            					                            		<li><a href="#" onclick="change_country(17,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
 		                            			                            				                            				                            			
-			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(5,'台灣（中文）',3);return false;">台灣（中文）</a></li>
-				                            						                            		<li><a href="#" onclick="change_country(5,'香港（中文）',3);return false;">香港（中文）</a></li>
-				                            					                            					                            		<li><a href="#" onclick="change_country(5,'中国（中文）',3);return false;">中国（中文）</a></li>
-			                            					                            		<li><a href="#" onclick="change_country(5,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
+			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(12,'台灣（中文）',3);return false;">台灣（中文）</a></li>
+				                            						                            		<li><a href="#" onclick="change_country(12,'香港（中文）',3);return false;">香港（中文）</a></li>
+				                            					                            					                            		<li><a href="#" onclick="change_country(12,'中国（中文）',3);return false;">中国（中文）</a></li>
+			                            					                            		<li><a href="#" onclick="change_country(12,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
 		                            			                            				                            				                            			
-			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(21,'台灣（中文）',3);return false;">台灣（中文）</a></li>
-				                            						                            		<li><a href="#" onclick="change_country(21,'香港（中文）',3);return false;">香港（中文）</a></li>
-				                            					                            					                            		<li><a href="#" onclick="change_country(21,'中国（中文）',3);return false;">中国（中文）</a></li>
-			                            					                            		<li><a href="#" onclick="change_country(21,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
+			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(11,'台灣（中文）',3);return false;">台灣（中文）</a></li>
+				                            						                            		<li><a href="#" onclick="change_country(11,'香港（中文）',3);return false;">香港（中文）</a></li>
+				                            					                            					                            		<li><a href="#" onclick="change_country(11,'中国（中文）',3);return false;">中国（中文）</a></li>
+			                            					                            		<li><a href="#" onclick="change_country(11,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
+			                            		-->
+		                            			                            				                            				                            			
+			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(4,'台灣（中文）',3);return false;">台灣（中文）</a></li>
+				                            						                            		<li><a href="#" onclick="change_country(4,'香港（中文）',3);return false;">香港（中文）</a></li>
+				                            					                            					                            		<li><a href="#" onclick="change_country(4,'中国（中文）',3);return false;">中国（中文）</a></li>
+			                            					                            		<li><a href="#" onclick="change_country(4,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
+			                            		-->
+		                            			                            				                            				                            			
+			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(8,'台灣（中文）',3);return false;">台灣（中文）</a></li>
+				                            						                            		<li><a href="#" onclick="change_country(8,'香港（中文）',3);return false;">香港（中文）</a></li>
+				                            					                            					                            		<li><a href="#" onclick="change_country(8,'中国（中文）',3);return false;">中国（中文）</a></li>
+			                            					                            		<li><a href="#" onclick="change_country(8,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
 		                            			                            				                            				                            			
 			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(18,'台灣（中文）',3);return false;">台灣（中文）</a></li>
@@ -591,16 +717,10 @@ function banner_overlay(URL){
 			                            					                            		<li><a href="#" onclick="change_country(18,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
 		                            			                            				                            				                            			
-			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(9,'台灣（中文）',3);return false;">台灣（中文）</a></li>
-				                            						                            		<li><a href="#" onclick="change_country(9,'香港（中文）',3);return false;">香港（中文）</a></li>
-				                            					                            					                            		<li><a href="#" onclick="change_country(9,'中国（中文）',3);return false;">中国（中文）</a></li>
-			                            					                            		<li><a href="#" onclick="change_country(9,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
-			                            		-->
-		                            			                            				                            				                            			
-			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(23,'台灣（中文）',3);return false;">台灣（中文）</a></li>
-				                            						                            		<li><a href="#" onclick="change_country(23,'香港（中文）',3);return false;">香港（中文）</a></li>
-				                            					                            					                            		<li><a href="#" onclick="change_country(23,'中国（中文）',3);return false;">中国（中文）</a></li>
-			                            					                            		<li><a href="#" onclick="change_country(23,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
+			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(21,'台灣（中文）',3);return false;">台灣（中文）</a></li>
+				                            						                            		<li><a href="#" onclick="change_country(21,'香港（中文）',3);return false;">香港（中文）</a></li>
+				                            					                            					                            		<li><a href="#" onclick="change_country(21,'中国（中文）',3);return false;">中国（中文）</a></li>
+			                            					                            		<li><a href="#" onclick="change_country(21,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
 		                            			                            				                            				                            			
 			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(1,'台灣（中文）',3);return false;">台灣（中文）</a></li>
@@ -615,16 +735,10 @@ function banner_overlay(URL){
 			                            					                            		<li><a href="#" onclick="change_country(10,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
 		                            			                            				                            				                            			
-			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(16,'台灣（中文）',3);return false;">台灣（中文）</a></li>
-				                            						                            		<li><a href="#" onclick="change_country(16,'香港（中文）',3);return false;">香港（中文）</a></li>
-				                            					                            					                            		<li><a href="#" onclick="change_country(16,'中国（中文）',3);return false;">中国（中文）</a></li>
-			                            					                            		<li><a href="#" onclick="change_country(16,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
-			                            		-->
-		                            			                            				                            				                            			
-			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(24,'台灣（中文）',3);return false;">台灣（中文）</a></li>
-				                            						                            		<li><a href="#" onclick="change_country(24,'香港（中文）',3);return false;">香港（中文）</a></li>
-				                            					                            					                            		<li><a href="#" onclick="change_country(24,'中国（中文）',3);return false;">中国（中文）</a></li>
-			                            					                            		<li><a href="#" onclick="change_country(24,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
+			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(20,'台灣（中文）',3);return false;">台灣（中文）</a></li>
+				                            						                            		<li><a href="#" onclick="change_country(20,'香港（中文）',3);return false;">香港（中文）</a></li>
+				                            					                            					                            		<li><a href="#" onclick="change_country(20,'中国（中文）',3);return false;">中国（中文）</a></li>
+			                            					                            		<li><a href="#" onclick="change_country(20,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
 		                            			                            				                            				                            			
 			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(25,'台灣（中文）',3);return false;">台灣（中文）</a></li>
@@ -633,16 +747,34 @@ function banner_overlay(URL){
 			                            					                            		<li><a href="#" onclick="change_country(25,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
 		                            			                            				                            				                            			
-			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(11,'台灣（中文）',3);return false;">台灣（中文）</a></li>
-				                            						                            		<li><a href="#" onclick="change_country(11,'香港（中文）',3);return false;">香港（中文）</a></li>
-				                            					                            					                            		<li><a href="#" onclick="change_country(11,'中国（中文）',3);return false;">中国（中文）</a></li>
-			                            					                            		<li><a href="#" onclick="change_country(11,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
+			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(5,'台灣（中文）',3);return false;">台灣（中文）</a></li>
+				                            						                            		<li><a href="#" onclick="change_country(5,'香港（中文）',3);return false;">香港（中文）</a></li>
+				                            					                            					                            		<li><a href="#" onclick="change_country(5,'中国（中文）',3);return false;">中国（中文）</a></li>
+			                            					                            		<li><a href="#" onclick="change_country(5,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
 		                            			                            				                            				                            			
-			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(12,'台灣（中文）',3);return false;">台灣（中文）</a></li>
-				                            						                            		<li><a href="#" onclick="change_country(12,'香港（中文）',3);return false;">香港（中文）</a></li>
-				                            					                            					                            		<li><a href="#" onclick="change_country(12,'中国（中文）',3);return false;">中国（中文）</a></li>
-			                            					                            		<li><a href="#" onclick="change_country(12,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
+			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(23,'台灣（中文）',3);return false;">台灣（中文）</a></li>
+				                            						                            		<li><a href="#" onclick="change_country(23,'香港（中文）',3);return false;">香港（中文）</a></li>
+				                            					                            					                            		<li><a href="#" onclick="change_country(23,'中国（中文）',3);return false;">中国（中文）</a></li>
+			                            					                            		<li><a href="#" onclick="change_country(23,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
+			                            		-->
+		                            			                            				                            				                            			
+			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(9,'台灣（中文）',3);return false;">台灣（中文）</a></li>
+				                            						                            		<li><a href="#" onclick="change_country(9,'香港（中文）',3);return false;">香港（中文）</a></li>
+				                            					                            					                            		<li><a href="#" onclick="change_country(9,'中国（中文）',3);return false;">中国（中文）</a></li>
+			                            					                            		<li><a href="#" onclick="change_country(9,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
+			                            		-->
+		                            			                            				                            				                            			
+			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(19,'台灣（中文）',3);return false;">台灣（中文）</a></li>
+				                            						                            		<li><a href="#" onclick="change_country(19,'香港（中文）',3);return false;">香港（中文）</a></li>
+				                            					                            					                            		<li><a href="#" onclick="change_country(19,'中国（中文）',3);return false;">中国（中文）</a></li>
+			                            					                            		<li><a href="#" onclick="change_country(19,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
+			                            		-->
+		                            			                            				                            				                            			
+			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(22,'台灣（中文）',3);return false;">台灣（中文）</a></li>
+				                            						                            		<li><a href="#" onclick="change_country(22,'香港（中文）',3);return false;">香港（中文）</a></li>
+				                            					                            					                            		<li><a href="#" onclick="change_country(22,'中国（中文）',3);return false;">中国（中文）</a></li>
+			                            					                            		<li><a href="#" onclick="change_country(22,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
 		                            			                            				                            				                            			
 			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(6,'台灣（中文）',3);return false;">台灣（中文）</a></li>
@@ -650,35 +782,42 @@ function banner_overlay(URL){
 				                            					                            					                            		<li><a href="#" onclick="change_country(6,'中国（中文）',3);return false;">中国（中文）</a></li>
 			                            					                            		<li><a href="#" onclick="change_country(6,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
-		                            			                            				                            				                            			
-			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(13,'台灣（中文）',3);return false;">台灣（中文）</a></li>
-				                            						                            		<li><a href="#" onclick="change_country(13,'香港（中文）',3);return false;">香港（中文）</a></li>
-				                            					                            					                            		<li><a href="#" onclick="change_country(13,'中国（中文）',3);return false;">中国（中文）</a></li>
-			                            					                            		<li><a href="#" onclick="change_country(13,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
-			                            		-->
-		                            			                            				                            				                            					                            				<li><a href="#" onclick="change_country(29,'香港 (中文）',9);return false;">香港 (中文）</a></li>
-		                            			
+		                            			                            				                            				                            																
+																																										<li>
+																<a href="#" onclick="change_country(29,'香港 (中文）',9);return false;">香港 (中文）</a>
+															</li>
+																												
+															                            			
 			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(29,'台灣（中文）',9);return false;">台灣（中文）</a></li>
 				                            						                            		<li><a href="#" onclick="change_country(29,'香港（中文）',9);return false;">香港（中文）</a></li>
 				                            					                            					                            		<li><a href="#" onclick="change_country(29,'中国（中文）',9);return false;">中国（中文）</a></li>
 			                            					                            		<li><a href="#" onclick="change_country(29,'(Bahasa Indonesia)',9);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
-		                            			                            				                            				                            					                            				<li><a href="#" onclick="change_country(27,'台湾 (中文）',7);return false;">台湾 (中文）</a></li>
-		                            			
+		                            			                            				                            				                            																
+																											<li>
+															<a href="#" onclick="change_country(27,'台湾 (中文）',7);return false;">台湾 (中文）</a>
+														</li>
+															                            			
 			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(27,'台灣（中文）',7);return false;">台灣（中文）</a></li>
 				                            						                            		<li><a href="#" onclick="change_country(27,'香港（中文）',7);return false;">香港（中文）</a></li>
 				                            					                            					                            		<li><a href="#" onclick="change_country(27,'中国（中文）',7);return false;">中国（中文）</a></li>
 			                            					                            		<li><a href="#" onclick="change_country(27,'(Bahasa Indonesia)',7);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
-		                            			                            				                            				                            					                            				<li><a href="#" onclick="change_country(28,'Indonesia (Bahasa Indonesia)',8);return false;">Indonesia (Bahasa Indonesia)</a></li>
-		                            			
+		                            			                            				                            				                            																
+																											<li>
+															<a href="#" onclick="change_country(28,'Indonesia (Bahasa Indonesia)',8);return false;">Indonesia (Bahasa Indonesia)</a>
+														</li>
+															                            			
 			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(28,'台灣（中文）',8);return false;">台灣（中文）</a></li>
 				                            						                            		<li><a href="#" onclick="change_country(28,'香港（中文）',8);return false;">香港（中文）</a></li>
 				                            					                            					                            		<li><a href="#" onclick="change_country(28,'中国（中文）',8);return false;">中国（中文）</a></li>
 			                            					                            		<li><a href="#" onclick="change_country(28,'(Bahasa Indonesia)',8);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
-		                            			                            				                            				                            					                            				<li><a href="#" onclick="change_country(26,'中国 (中文)',6);return false;">中国 (中文)</a></li>
-		                            			
+		                            			                            				                            				                            																
+																											<li>
+															<a href="#" onclick="change_country(26,'中国 (中文)',6);return false;">中国 (中文)</a>
+														</li>
+															                            			
 			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(26,'台灣（中文）',6);return false;">台灣（中文）</a></li>
 				                            						                            		<li><a href="#" onclick="change_country(26,'香港（中文）',6);return false;">香港（中文）</a></li>
 				                            					                            					                            		<li><a href="#" onclick="change_country(26,'中国（中文）',6);return false;">中国（中文）</a></li>
@@ -706,16 +845,15 @@ function banner_overlay(URL){
 
                 <div class="clear_b"></div>
             </div>
-            <!-- start top top banner, search and coutry -->
-
-            <!--change by liuyuan | 2011-1-13 | #411-->
+            <!-- start top top banner, search and coutry -->			
+										            <!--change by liuyuan | 2011-1-13 | #411-->
                         <!-- start channel navigation -->
             <div id="channel_naiv" class="clear_b">
                 <!-- start left current logo -->
                 <div id="logo_show">
                 	<div class="logo_top"></div>
                 	<div class="lolo_position">
-                		                		                    	<a style="display:block;" href="http://www.hboasia.com/home"><div class="current_logo"></div></a><!-- show current logo -->
+                		                		                    	<a style="display:block;" href="http://hboasia.com/home"><div class="current_logo"></div></a><!-- show current logo -->
                     	                    </div>
                 </div>
                 <!-- end left current logo -->
@@ -727,31 +865,77 @@ function banner_overlay(URL){
                             <ul>
 
                                                                                                                                                                                                                                             
-                                                                                                
-                                                    <li><a href="http://www.hboasia.com/index.php/signature" class="singapore"></a></li>
+                                                												
+                                                                                                    <li><a href="http://www.hboasia.com/index.php/signature" class="singapore"></a></li>
                                                 
-                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                
+                                                												
+                                                												
+																								
+                                                												
+                                                												
+                                                                                                                                                                                
+                                                												
+                                                
                                                                                                     <li><a href="http://www.hboasia.com/index.php/family" class="family"></a></li>
-                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                
-                                                                                                                                                    <li><a href="http://www.hboasia.com/index.php/hits" class="hits"></a></li>
-                                                                                                                                                                                                                                                                                                                                
-                                                                                                
-                                                                                                                                                                                                    <li><a href="http://www.hboasia.com/index.php/ondemandsg" class="demand"></a></li>
-                                                                                                                                                                                                                                                                                
-                                                                                                
-                                                                                                                                                                                                                                                    <li><a href="#" onclick="change_channel('4','Singapore','3','18');return false;" class="cinemax"></a></li>
-                                                                                                                                                                                                                                
-                                                                                                
-                                                                                                                                                                                                                                                                                                    <li><a href="http://www.screenredasia.com/" class="rred"></a></li>
+                                                												
+                                                												
+																								
+                                                												
+                                                												
+                                                                                                                                                                                
+                                                												
+                                                
+                                                												
+                                                                                                    <li><a href="http://www.hboasia.com/index.php/hits" class="hits"></a></li>
+                                                												
+																								
+                                                												
+                                                												
+                                                                                                                                                                                
+                                                												
+                                                
+                                                												
+                                                												
+												                                                    <li>
+																													<a href="http://www.hboasia.com/index.php/go" class="go"></a>
+																											</li>
+                                                												
+                                                												
+                                                												
+                                                                                                                                                                                
+                                                												
+                                                
+                                                												
+                                                												
+																								
+                                                                                                    <li><a href="http://www.hboasia.com/index.php/ondemandsg" class="demand"></a></li>
+                                                												
+                                                												
+                                                                                                                                                                                
+                                                												
+                                                
+                                                												
+                                                												
+																								
+                                                												
+                                                                                                    <li><a href="#" onclick="change_channel('4','Singapore','3','18');return false;" class="cinemax"></a></li>
+                                                												
+                                                                                                                                                                                
+                                                												
+                                                
+                                                												
+                                                												
+																								
+                                                												
+                                                												
+                                                                                                    <li><a href="http://www.screenredasia.com/" class="rred"></a></li>
                                                                                                                                                                                                                                         <!--<li><a href="#" class="singapore"></a></li>
                                 <li><a href="#" class="family"></a></li>
                             <li><a href="#" class="hits"></a></li>
                             <li><a href="#" class="demand"></a></li>
                             <li><a href="#" class="cinemax"></a></li>
                             <li><a href="#" class="rred"></a></li>-->
-                                                                                                                                <li class="li_blank" style="width:192px;"></li>
+                                                                                                                                <li class="li_blank" style="width:92px;"></li>
                                 <li class="li_last"></li>
                             </ul>
                             <div class="channel_lt"></div>
@@ -759,35 +943,33 @@ function banner_overlay(URL){
                     <!-- end channel -->
 
                     <!-- start navigation -->
-                    <div class="navigation">
-                    	<ul>
-                        	<li><a href="http://www.hboasia.com/home" class="top_home "></a></li>
-							<!-- change by yinting 2012-11-01 for ticket 25 -->
-							<!-- change by cheebeng 2012-11-12 for ticket 25 -->
-                        															<!-- end change -->
-                        	
-                                                        <li><a href="http://www.hboasia.com/home_hd" class="top_inhd "></a></li>
-                            
-							<!-- comment by yinting 2012-11-01 for ticket 24 -->
-							<!-- change by cheebeng 2012-11-12 for ticket 24 -->
-																												<!-- end comment -->
-
-							                            <li><a href="http://www.hboasia.com/about" class="top_about "></a>
-                            </li>
-
-							<!-- ondemand | shaorui | 2010-12-21 -->
-							                            <li><a href="http://www.hboasia.com/weboriginal" class="top_original "></a></li>
-							
-                            <li><a href="http://www.hboasia.com/webmovies" class=" top_movie  "></a></li>
-
-							<!-- ondemand | shaorui | 2010-12-21 -->
-							                            <li><a href="http://www.hboasia.com/webschedule" class="top_schedule "></a></li>
-							
-                            <li><a href="http://www.hboasia.com/webnewsletter" class="top_newsletter "></a></li>
-                            <li><a href="http://www.hboasia.com/subscribe" class="top_subscribe "></a></li>
-                        </ul>
-                    </div>
-                    <!-- end navigation -->
+											<div class="navigation">
+							<ul>
+								<li><a href="http://hboasia.com/home" class="top_home "></a></li>
+								<!-- change by yinting 2012-11-01 for ticket 25 -->
+																								<!-- end change -->
+									
+																<li><a href="http://hboasia.com/home_hd" class="top_inhd "></a></li>
+									
+								<!-- comment by yinting 2012-11-01 for ticket 24 -->
+																<!-- end comment -->
+	
+																<li><a href="http://hboasia.com/about" class="top_about "></a>
+								</li>
+	
+								<!-- ondemand | shaorui | 2010-12-21 -->
+																<li><a href="http://hboasia.com/weboriginal" class="top_original "></a></li>
+									
+								<li><a href="http://hboasia.com/webmovies" class=" top_movie  "></a></li>
+	
+								<!-- ondemand | shaorui | 2010-12-21 -->
+																<li><a href="http://hboasia.com/webschedule" class="top_schedule "></a></li>
+									
+								<li><a href="http://hboasia.com/webnewsletter" class="top_newsletter "></a></li>
+								<li><a href="http://hboasia.com/subscribe" class="top_subscribe "></a></li>
+							</ul>
+						</div>
+					                    <!-- end navigation -->
                 </div>
                 <!-- end top navigation and channel -->
             </div>
@@ -878,7 +1060,7 @@ $(document).ready(function(){
  *
  */
 function getScheduleTonightData(position){
-	var url = "http://www.hboasia.com/webschedule/ajaxScheduleTonightPublic";
+	var url = "http://hboasia.com/webschedule/ajaxScheduleTonightPublic";
 
 	$("#scheduleTonightPublicDiv").html(loading_spinner_rectangle);
 
@@ -899,7 +1081,7 @@ function post_choice(id) {
 
 	$.ajax({
 		type: 'post',
-		url: 'http://www.hboasia.com/misc_page/add_count_choice',
+		url: 'http://hboasia.com/misc_page/add_count_choice',
 		dataType: 'html',
 		data: 'value='+value+'&&polling_id='+id,
 		success: function(data) {
@@ -918,7 +1100,7 @@ function post_choice(id) {
  */
 function getPopularMovieListingRightData(){
 	//2011-3-11 | by liu yuan | new module watch out for southasia
-			var url = "http://www.hboasia.com/webmovie/ajaxGetMostPopularRight";
+			var url = "http://hboasia.com/webmovie/ajaxGetMostPopularRight";
 	
 	$("#popular_movie_right_div").html(loading_spinner_rectangle);
 
@@ -989,23 +1171,24 @@ function getPopularMovieListingRightData(){
                 	<div class="site_one">
                     	<ul>
                         	<li class="top_li">
-	                        							   		ABOUT
+							<!-- change by yinting 2013-03-15 for ticket 67 change session website-->
+	                        															   		ABOUT
 						   		                        	</li>
 
-                        	                         	 	                        	 	                        	 	<li><a href="http://www.hboasia.com/about/hbo-asia-10">
+                        	                         	 	                        	 	                        	 	<li><a href="http://hboasia.com/about/hbo-asia-10">
 																																	HBO Asia																																																																																																																		</a>
 								</li>
-                        		<li><a href="http://www.hboasia.com/about/channel">
+                        		<li><a href="http://hboasia.com/about/channel">
 									   											   		Channels
 									   				                           		</a>
 								</li>
-                        	 																                        	 	                        	 										<li><a href="http://www.hboasia.com/about/studios-21">
+                        	 																                        	 	                        	 										<li><a href="http://hboasia.com/about/studios-21">
 																																	Studios																																																																																																																		</a>
 									</li>
-																							                        	 	                        	 										<li><a href="http://www.hboasia.com/about/milestones-12">
+																							                        	 	                        	 										<li><a href="http://hboasia.com/about/milestones-12">
 																																	Milestones																																																																																																																		</a>
 									</li>
-																							                        	 	                        	 										<li><a href="http://www.hboasia.com/about/territories-14">
+																							                        	 	                        	 										<li><a href="http://hboasia.com/about/territories-14">
 																																	Territories																																																																																																																		</a>
 									</li>
 																							
@@ -1019,12 +1202,12 @@ function getPopularMovieListingRightData(){
                         							   		CONTACT
 						   		                        	</li>
 
-							                        	                        													<li><a href="http://www.hboasia.com/contact/Contact-Us-15">
+							                        	                        													<li><a href="http://hboasia.com/contact/Contact-Us-15">
 																															Contact Us																																																																																																														</a></li>
-																							                        												<li><a href="http://www.hboasia.com/contact/career">
+																							                        												<li><a href="http://hboasia.com/contact/career">
 									                           			                           				Jobs at HBO Asia                           			                           		                           			                           		                           			                           		                           			                           		                           			                           		                           			</a>
 							</li>
-									<li><a href="http://www.hboasia.com/contact/FAQs-16">
+									<li><a href="http://hboasia.com/contact/FAQs-16">
 																												FAQs																																																																																																			</a></li>
 																							                        </ul>
                     </div>
@@ -1034,16 +1217,16 @@ function getPopularMovieListingRightData(){
                         	<li class="top_li">
                         							   		TERMS/POLICY
 						   		                        	</li>
-                        										<li><a href="http://www.hboasia.com/terms/Privacy-Policy-18">
+                        										<li><a href="http://hboasia.com/terms/Privacy-Policy-18">
 																												Privacy Policy																																																																																																			</a></li>
-																<li><a href="http://www.hboasia.com/terms/Terms-of-Use-17">
+																<li><a href="http://hboasia.com/terms/Terms-of-Use-17">
 																												Terms of Use																																																																																																			</a></li>
 							                        </ul>
                     </div>
 
                     <!-- start search -->
                     <div class="float_l">
-                    	<form name="movie_search_form" id="movie_search_form" action="http://www.hboasia.com/webmovie/search" method="post">
+                    	<form name="movie_search_form" id="movie_search_form" action="http://hboasia.com/webmovie/search" method="post">
 							<span class="search_bg">
 								<input type="text" name="search_name" id="bottom_search" value="SEARCH" onblur="fnCheckSearch(this.id)" class="search_txt">
 								<input type="hidden" name="Search_Submit" value="Search_Submit">
@@ -1056,7 +1239,7 @@ function getPopularMovieListingRightData(){
                         	                        	<!--english language-->
                         	<img src="website/im/english/link_f.png"><a href="http://www.facebook.com/hboasia" target="_blank">Visit us on Facebook</a>
                             <br>
-                            <img src="website/im/english/link_t.png"><a href="http://twitter.com/hboasia" target="_blank">Tweet with us on Twitter</a>
+                            <img src="website/im/english/link_t.png"><a target="_blank">Tweet with us on Twitter</a>
 
                                                     </div>
                         <!--end outside site links-->
@@ -1067,7 +1250,11 @@ function getPopularMovieListingRightData(){
                     <div class="clear_b"></div>
                 </div>
                 <!-- end bottom sites -->
-
+									<div style="position:relative;">
+						<div class="show_films" style="display:none;"><div class="show_films_inner">IT HAS COME TO OUR ATTENTION THAT INDIVIDUALS ARE USING THE NAME "HBO FILMS ASIA" IN A MISLEADING WAY, WITHOUT OUR CONSENT. PLEASE BE ADVISED THAT ANY ENTITY USING THAT NAME IS NOT CONNECTED IN ANY WAY WITH HBO, HBO ASIA, HBO FILMS, HOME BOX OFFICE OR ANY OTHER HBO COMPANY. ANY BUSINESS TRANSACTED WITH "HBO FILMS ASIA" OR ANY INDIVIDUALS RELATED THERETO IS NOT ON OUR BEHALF. PLEASE CONTACT YOUR LOCAL AUTHORITIES IF YOU BELIEVE SOMETHING INAPPROPRIATE HAS OCCURRED.</div></div>
+						<a id="questions" href="javascript:void(0);">Questions on "HBO Films Asia"</a>
+					</div>
+								
                 <!-- start footer -->
                 <div id="footer">
                 	<div class="float_l">
@@ -1075,8 +1262,8 @@ function getPopularMovieListingRightData(){
                     </div>
                     <div class="footer_copy float_l" style="margin-top:0;">
                                         	This website is intended for viewing solely in the following
-                    																																												                    	<a href="http://www.hboasia.com/about/territories-14">territories</a>
-                    						                    	. © 2012 HBO Asia. All Rights Reserved.<br>
+                    																																												                    	<a href="http://hboasia.com/about/territories-14">territories</a>
+                    						                    	. © 2013 HBO Asia. All Rights Reserved.<br>
                         Home Box Office®, HBO® and Cinemax® are registered trademarks of Home Box Office, Inc.<br>
                         HBO Signature, HBO Family and HBO Hits are service marks of Home Box Office, Inc.
                                         </div>
@@ -1107,7 +1294,7 @@ function getPopularMovieListingRightData(){
 <script type="text/javascript" language="javascript">
 
 var alen = $("a.add_base").length;
-var basepath = "http://www.hboasia.com/index.php/";
+var basepath = "http://hboasia.com/index.php/";
 for (var i = 0; i<alen; i++ ){
 	var path = $("a.add_base").eq(i).attr("href");
 	path = path.substr(7,path.length-1);
