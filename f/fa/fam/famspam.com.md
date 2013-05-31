@@ -1,100 +1,96 @@
-> *The following text is extracted and transformed from the famspam.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225102936id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famspam.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531131714id_/http%3A//futuratty.com/privacy.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+**Futuratty is committed to safeguarding the privacy of our users while providing the highest possible quality of service.**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+ ****
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+### Futuratty privacy policy
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+By visiting the Futuratty website and sharing information with us you agree to be bound by this privacy policy, so please read it. 
 
-**Information Collection and Use**
+### 1 General
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Futuratty is committed to safeguarding the privacy of users of our website. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We will only use the information that we collect about you lawfully in accordance with the Data Protection Act 1998 and any other applicable regulations currently in force. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We will only pass your details to those companies who process data for us on your behalf, to ensure that we can fulfil all our obligations to you. We ensure that these companies agree to very high standards of privacy and we are very fussy about choosing only those companies that can offer the high levels of data security which we require. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We will never pass your data details (email, address, or telephone, cookie details etc.) to any third parties for marketing purposes. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+If you have any requests concerning your personal information or any queries about these practices, please contact us. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+### 2 Security
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We are committed to ensuring your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
-**Security**
+### 3 Information collected
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We collect the following information: 
 
-**Updating Your Information**
+  * All transactions referred to our advertisers are done so anonymously. We do not gather any personal identifying details on you
+  * Where you visit this website, we may from time to collect information automatically about your visit. This information includes your IP address, domain name and browser used. The information obtained in this way is used collectively and anonymously (i.e. your browsing patterns) will be used to track visitor behaviour to provide us with statistics, to improve accessibility and to assist us in marketing our products and services.
+  * Where you purchase a or make an order through the Futuratty online shop, we will collect your order details including but WILL NOT collect your payment details or any other identifying details.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+### 4 Use of personal information
 
-      iii.      You may call us at: (480) 505-8800
+We process personal information collected via our websites for the purposes of: 
 
-       iv.      You may fax us at: (480) 505-8844
+  * Providing a high quality service. 
+  * Conducting market research surveys. 
+  * Running competitions. 
+  * Providing you with information about products and services we offer (including updates and changes to services). 
+  * Building up marketing profiles, aiding strategic development and auditing usage of the site. 
+  * Providing you with information about our campaigns or for potentially contacting you for appearing in campaigns related media (with your consent). 
+  * Dealing with and responding to any queries you contact us about. 
 
-**Sending Emails**
+### 5 Contacting you
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We or one of the third parties that processes data on our behalf may contact you in relation to an order you have placed if we need to discuss your order further. You may be contacted by post, telephone or email in relation to an order for a product or service. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+As a result of ordering from us your name and address may be added to our mailing list and our consumer email newsletter. Futuratty also offers a range of services designed to keep you up to date on consumer issues and we'd like to contact you about these from time to time, as well as sending you our special promotions. 
 
-**Compliance with Laws and Law Enforcement**
+Generally we will contact you by email only if you opt-in to our marketing. However, you can unsubscribe to such communications at any time. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+### 6 Use of cookies
 
-**Third Party Service Providers**
+A cookie is a piece of text which is stored by your browser on your computer's hard drive. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+A cookie helps us analyse web traffic or lets us know when you visit a particular site. We use the software of a third party company on our website to collect the data from a cookie on our behalf. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+We use cookies when you access the Futuratty website to track patterns of behaviour of visitors to our site, to let us know when your browser is logged onto our website, to build up marketing profiles and understand browsing patterns or if you visit one of our advertisers via our online shop, because it enables us to track the buying process by allowing use of a shopping basket. 
 
-**Supplementation of Information**
+These cookies do not contain or store information relating to your financial/credit card details. The information that is collected by the cookie will be used solely for tracking patterns of visitor behaviour to provide us with statistics and to identify groups of users to assist us in marketing our products and services. 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Most web browsers automatically accept cookies, though you can set most browsers to prevent this collection or access. If you do not wish to use cookies while accessing our websites, you can change the settings on your web browser to disable or delete cookies. Further information about cookies, including how to delete them, is available for Internet Explorer users, Firefox users and Safari users or alternatively visit allaboutcookies.org for more detailed advice on how to disable and enable cookies. If you disable your browser’s ability to set cookies, you may be unable to access some areas of the Futuratty website. 
 
-**Contests/Surveys**
+Cookies are sometimes used by our shopping partners, who are non Futuratty companies, when you access their websites. You should be asked by the third party company when you access their website whether you agree to their use of cookies and your data for commercial purposes according to their privacy policy. 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Futuratty use of cookies is fully compliant with all United Kingdom and EU data protection and data privacy regulations. 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+### 7 Third party opt-in policy
 
-**Tell-A-Friend**
+We do not make your data available to third party organisations for their marketing purposes. 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+### 8 Third party websites
 
-**What Happens to my Personal Information if I Opt Out?**
+Where in the course of using our website you are directed to a third party website, Futuratty shall not be responsible for that third party's compliance with data protection legislation. Please ensure you review the privacy policy and terms and conditions on any third party website prior to inputting any personal data via their website. 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+### 9 Information security over the internet
 
-**Transfer of Data Abroad**
+Transmission of data over the internet is not guaranteed to be completely secure. Third parties may be able to intercept or access your transmissions and/or private communications unlawfully. Futuratty makes every effort to ensure the integrity of your personal information which you provide to us but we cannot ensure or warrant the security of any information you transmit to us. 
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+### 10 Changes to this privacy policy
 
-**Changes in Our Practices**
+Any changes we may make to our Privacy Policy in the future will be posted on this page and, where necessary, notified to you by other appropriate means. 
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+### 11 Contacting us
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+If you have any requests concerning your personal information or any queries about this Privacy Policy, please contact us. 
 
-**Contacting Our Site**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+****
