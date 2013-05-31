@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lafitness.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114231700id_/http%3A//www.lafitness.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lafitness.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531213117id_/http%3A//www.lafitness.com/Pages/privacyPolicy.aspx) for the most accurate reproduction.*
 
-# L.A. Fitness | Privacy Policy
+# LA Fitness | Privacy Policy
 
 Fitness International, LLC (the "Company") is committed to providing users of its Services with an understanding of how the Company gathers and uses information, as well as the precautions taken by the Company to protect information concerning its Users. This Privacy Policy is incorporated into and is a part of the Terms and Conditions of Use; it describes the Company's policies and procedures for the collection and use of personal information provided by the User as well as non-personally identifiable information. 
 
