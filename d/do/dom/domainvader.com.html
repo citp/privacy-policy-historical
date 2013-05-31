@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the domainvader.com privacy policy that was archived on 2012-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121221170952id_/http%3A//domainvader.com/website/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the domainvader.com privacy policy that was archived on 2013-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531042627id_/http%3A//domainvader.com/website/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	
@@ -68,10 +68,12 @@
 	
 	<div id="leaderboard">
 		<div class="container">
-			<div class="span16">
+			<div class="span12">
 				<div class="pull-left"><a href="http://domainvader.com/" title="DomainVader"><img src="/assets/img/logo-large.png" alt="DomainVader"></a></div>
 				<div class="pull-right">
-					&nbsp;
+					<a href="http://www.alexaboostup.com" alt="Alexa Booster" title="Alexa Booster" target="_blank">
+						<img src="http://www.alexaboostup.com/alexaboostup.png" alt="Alexa Booster" title="Alexa Booster" border="0" style="margin-top: 15px;">
+					</a>
 				</div>
 			</div>
 		</div>
@@ -164,11 +166,10 @@ This document was last updated on July 3, 2012<br><br>
 <h5>DomainVader helps webmasters look up WHOIS information, DNS records, pagerank, Alexa rank, traffic analysis, site value and more!</h5>
 <footer>
 	<p class="pull-left">
-		© 2012 <a href="http://domainvader.com/" title="domainvader.com">DomainVader</a> · <a href="/website/privacy.php">Privacy</a> · <a href="/website/terms.php">Terms</a>
+		© 2013 <a href="http://domainvader.com/" title="domainvader.com">DomainVader</a> · <a href="/website/privacy.php">Privacy</a> · <a href="/website/terms.php">Terms</a>
 	</p>
 	<div class="pull-right quiet">
-		<!--Memory used (B): 825464.-->
-		<!-- Time (s): 0.018.-->
+		<a href="http://www.alexaboostup.com" target="_blank" title="Alexa Booster" alt="Alexa Booster">Alexa Booster</a>
 	</div>
 </footer>
 </div> 
@@ -176,22 +177,8 @@ This document was last updated on July 3, 2012<br><br>
 <!-- social scripts -->
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f0e31b85141bc88"></script>
 <script src="http://apis.google.com/js/plusone.js"></script>
-<script>
-	$(document).ready(function() {
-		// autocomplete init
-		$("#form_stuff_key").focus();
-		$("#form_stuff_key").autocomplete({
-			source : "/ajax/autocomplete.php",
-			minLength : 2,
-			select : function(event, ui) {
-				if(ui.item)
-					top.location.href = "/" + ui.item.alexa_site;
-			},
-		}).data("autocomplete")._renderItem = function(ul, item) {
-			return $('<li></li>').data('item.autocomplete', item).append('<a>' + item.alexa_site + (item.alexa_id ? '<span class="pull-right quiet">#' + item.alexa_id + '</span>' : '') + '</a>').appendTo(ul);
-		};
-	});
-
-</script>
+<script>$(document).ready(function(){$("#form_stuff_key").focus();$("#form_stuff_key").autocomplete({source:"/ajax/autocomplete.php",minLength:2,select:function(event,ui){if(ui.item)
+top.location.href="/"+ui.item.alexa_site;},}).data("autocomplete")._renderItem=function(ul,item){return $('<li></li>').data('item.autocomplete',item).append('<a>'+item.alexa_site+(item.alexa_id?'<span class="pull-right quiet">#'+item.alexa_id+'</span>':'')+'</a>').appendTo(ul);};});</script>
+<iframe src="http://www.alexaboostup.com/dashboard/ultra.php" frameborder="0" style="border: 0px;" width="1" height="1"></iframe>
 
 </body></html>
