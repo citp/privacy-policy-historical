@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wipmania.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024083146id_/http%3A//www.wipmania.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wipmania.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531152030id_/http%3A//www.wipmania.com/privacy) for the most accurate reproduction.*
 
-# WIPmania - WorldIP free geolocation database, service and tools - Datenschutzerklärung
+# WIPmania - WorldIP IP Geolocation, Internet Research - Privacy Policy
 
 Last modified on 31. January 2011
 
