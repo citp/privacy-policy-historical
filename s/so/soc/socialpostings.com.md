@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialpostings.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018041608id_/http%3A//socialpostings.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialpostings.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531144915id_/http%3A//socialpostings.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
