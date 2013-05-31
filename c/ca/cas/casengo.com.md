@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the casengo.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012020327id_/http%3A//www.casengo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casengo.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531094236id_/http%3A//casengo.com/privacy.php) for the most accurate reproduction.*
 
-# Casengo | Social Customer Support Software | Beta Signup
-
-## Privacy Policy
+# Privacy Policy | Casengo | More Happy Customers
 
 Casengo respects the privacy of the users of its site and ensures that the personal information you provide is treated confidentially. We use your data to process orders as quick and easy as possible. Beside this, we will use your data only with your permission. Casengo will not sell your personal information to third parties and will only share the information with third parties that are involved in processing your order.
 
-#### Collected data
+## Collected data
 
 Casengo uses the collected data to supply its clients with the following services:
 
@@ -18,15 +16,15 @@ Casengo uses the collected data to supply its clients with the following service
 
 
 
-#### Casengo will not sell your information
+## Casengo will not sell your information
 
 Casengo will not sell your personal information to third parties and will only communicate to third parties involved in the execution of your application. Our employees and our third parties are obliged to protect the confidentiality of your personal information.
 
-#### Your personal information is safe with Casengo
+## Your personal information is safe with Casengo
 
 We appreciate the trust you have in us and we will be extremely careful with your data. When you place an order or access your Casengo account, Secure Socket Layer technology is protecting your data. Your data will always be protected and kept confidential.
 
-#### Cookies
+## Cookies
 
 Cookies are small pieces of information that your browser save at your computer. Casengo uses cookies to recognize you at your next visit. Cookies enable us to collect information about the use of our services and to improve and adapt to the needs of our visitors. Our cookies provide information related to personal identification. You can set up your browser so that you can visit Casengo without receiving cookies.
 
