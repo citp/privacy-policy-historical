@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521164246id_/http%3A//www.racgp.org.au/Content/NavigationMenu/Statements/Privacystatement/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531080052id_/http%3A//www.racgp.org.au/usage/privacy) for the most accurate reproduction.*
 
-# RACGP | Privacy Statement
+# RACGP - Privacy statement
+
+## Privacy statement
 
 This statement sets out the College's policies relating to the collection and use of personal information. Personal information is information about you which identifies you.
 
@@ -34,7 +36,7 @@ If any Member does not want their contact details passed on to third parties for
 
 ## "Spam" (Promotional Mail)
 
-We will send you "spam" (advertising information) unless you have indicated that you do not wish to receive such information by clicking the box provided in your acceptance of RACGP’s terms of use. If you are receiving promotional information about the College and do not wish to receive this information any longer, you may remove your name from our list either by emailing us at [web.admin@racgp.org.au](mailto:web.admin@racgp.org.au) and asking to be removed from our mailing list. Please allow 10 working days for this request to be processed.
+We will send you "spam" (advertising information) unless you have indicated that you do not wish to receive such information by clicking the box provided in your acceptance of RACGP’s terms of use. If you are receiving promotional information about the College and do not wish to receive this information any longer, you may remove your name from our list either by emailing us at [web.admin@racgp.org.au](mailto:web.admin@racgp.org.au) and asking to be removed from our mailing list. Please allow 10 working days for this request to be processed.
 
 ## Storage and security of your personal information
 
@@ -57,7 +59,3 @@ From time to time, our policies will be reviewed and may be revised. The College
 ## Further information on privacy
 
 For more information about privacy issues in Australia and protecting your privacy, visit the web site of the Australian Federal Privacy Commissioner.
-
-## Find a GP/Find a Practice
-
-The website will provide the public a Find a GP/Practice directory, provided sufficient GP’s authorize their details to be used in the directory. Information retrieved by Find a GP/Find a Practice will be limited to the practice address, phone, fax and website URL and practice email address. Find a Practice may also allow the user to search/locate a practice based on the suburb, language spoken and area of interest. Find a GP may allow a user to search/locate a GP based on state and suburb.
