@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campsystems.com privacy policy that was archived on 2012-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120116235353id_/http%3A//www.campsystems.com/CAMPPrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campsystems.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531133808id_/http%3A//campsystems.com/CAMPPrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # CAMP Systems Privacy Policy
 
@@ -13,19 +13,18 @@ website. TRUSTe's mission, as an independent third party, is to accelerate onlin
 and organizations globally through its leading privacy trustmark and innovative trust solutions.
 CAMP Systems complies with the US-EU Safe Harbor framework and the US-Swiss Safe Harbor
 framework as set forth by the US Department of Commerce regarding the collection, use, and retention
-of data from the European Union and Switzerland respectively. Information regarding the both the EU
-and Swiss Safe Harbor Frameworks can be found at: http://export.gov/safeharbor
+of data from the European Union and Switzerland respectively. Information regarding both the EU and
+Swiss Safe Harbor Frameworks can be found at: http://export.gov/safeharbor
 If you have questions or concerns regarding this Policy, you should first contact
 support@campsystems.com. If contacting us does not resolve your complaint, you may raise your
-complaint with TRUSTe by Internet at http://www.truste.org/consumers/watchdog_complaint.php, by
-mail at WatchDog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA, USA 94105, by
-phone at 415-520-3400, or by fax at 415-520-3420. If you are mailing TRUSTe to lodge a complaint, you
-must include the following information: the name of company, the alleged privacy violation, your
-contact information, and whether you would like the particulars of your complaint shared with the
-company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see
-http://www.truste.org/consumers/watchdog_complaint.php or request this information from TRUSTe
-at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in
-English.
+complaint with TRUSTe by Internet at http://watchdog.truste.com/pvr.php?page=complaint, by mail at
+WatchDog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA, USA 94105, by phone at
+415-520-3400, or by fax at 415-520-3420. If you are mailing TRUSTe to lodge a complaint, you must
+include the following information: the name of company, the alleged privacy violation, your contact
+information, and whether you would like the particulars of your complaint shared with the company.
+For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see
+http://watchdog.truste.com/pvr.php?page=complaint or request this information from TRUSTe at any
+of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
 If you have questions or complaints regarding our privacy policy or practices, please contact us at
 support@campsystems.com. If you are not satisfied with our response you can contact TRUSTe
 http://watchdog.truste.com/pvr.php?page=complaint.
@@ -39,7 +38,7 @@ use of your personal information and how you can access and update this informat
 5. Additional Info
 6. Contact Info
 1. Collection and Use of Personal Information
-                                          CAMP Systems International
+                                           CAMP Systems International
                  Long Island MacArthur Airport 999 Marconi Avenue Ronkonkoma, NY 117790 7299
                      T: 631 588 3200 1 877 411 2267 F:631 588 3294 www.campsystems.com
 
@@ -80,7 +79,7 @@ when you close your browser. A persistent cookie remains on your hard drive for 
 time. You can remove persistent cookies by following directions provided in your Internet browser’s
 “help” file.
 3rd Party Cookie
-                                          CAMP Systems International
+                                           CAMP Systems International
                  Long Island MacArthur Airport 999 Marconi Avenue Ronkonkoma, NY 117790 7299
                      T: 631 588 3200 1 877 411 2267 F:631 588 3294 www.campsystems.com
 
@@ -123,12 +122,12 @@ New York (Headquarters)
 LI MacArthur Airport
 999 Marconi Avenue
 Ronkonkoma NY 11779-7299
-                                           CAMP Systems International
+                                            CAMP Systems International
                   Long Island MacArthur Airport 999 Marconi Avenue Ronkonkoma, NY 117790 7299
                       T: 631 588 3200 1 877 411 2267 F:631 588 3294 www.campsystems.com
 
 
 Email: support@campsystems.com
-                                        CAMP Systems International
+                                         CAMP Systems International
                Long Island MacArthur Airport 999 Marconi Avenue Ronkonkoma, NY 117790 7299
                    T: 631 588 3200 1 877 411 2267 F:631 588 3294 www.campsystems.com
