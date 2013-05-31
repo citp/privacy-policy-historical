@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codeboxr.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919192855id_/http%3A//codeboxr.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeboxr.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531223038id_/http%3A//codeboxr.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement | Codeboxr Web Services
+# Privacy Statement | Codeboxr
 
 Codeboxr is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Codeboxr.com Web site and governs data collection and usage. By using the Codeboxr website or it’s demo or family sites, you consent to the data practices described in this statement.
 
