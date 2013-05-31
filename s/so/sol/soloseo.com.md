@@ -1,48 +1,20 @@
-> *The following text is extracted and transformed from the soloseo.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203733id_/http%3A//www.soloseo.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soloseo.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531185705id_/http%3A//www.soloseo.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | SoloSEO
+# DIY SEO Tools, SEO Reports, Managed SEO
 
-## Privacy Policy Statement
+When accessing our Website, SoloSEO will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
-We collect contact information of those who contact us via e-mail, through contact forms, or registrations. We collect aggregate information on what pages and tools consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). This collected information is used to improve the content of our web site and quality of service, and is not shared, sold, or rented to other organizations for commercial purposes, except to provide products or services when we have your permission or under the following circumstances:
+If you visit our site to read or download information on our pages, we collect and store only the following information about you:
 
-  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law. 
-  * We transfer information about you if SoloSEO is acquired by or merged with another company. In this event, SoloSEO will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-
-
-
-#### Information Gathering and Use
-
-  * When you register for a free trial or sign up for an account we ask for information such as your name, email, phone, billing address, and credit card information. Free trial accounts do not require a credit card. 
-  * SoloSEO uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research. 
+1\. The name of the domain from which you access the Internet  
+2\. The date and time you access our site  
+3\. The Internet address of the website you used to link directly to our site.  
 
 
+If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message.
 
-#### Cookies
+The information collected is for statistical purposes. SoloSEO may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
 
-  * Cookies contain small amounts of data, typically an anonymous unique identifier, that is sent to your browser from a web site server and stored on your computer's hard drive. 
-  * Cookies are required to use the SoloSEO Service. 
-  * You may be required to log-in after a certain period of time has elapsed to protect you against others accidentally accessing your account contents. 
+For site security purposes and to ensure that this service remains available to all users, SoloSEO uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-
-
-#### Data Storage
-
-  * You retain all rights to your data. SoloSEO owns the data storage, databases and all rights to the SoloSEO Service. 
-  * We will never sell or share client data to any third-party. 
-  * Your websites, projects, and related data, URLs, and other information is kept strictly confidential. 
-  * We respect your privacy and the privacy of any websites you manage for your clients. 
-
-
-
-#### Disclosure
-
-SoloSEO may disclose personally identifiable information only under special circumstances such as to comply with subpoenas or when your actions violate the Terms of Service.
-
-#### Changes to Privacy Policy
-
-SoloSEO may periodically update this policy. We will notify paying customers of significant changes by sending a notice to the account email address or by placing a prominent notice on our site. 
-
-#### Questions
-
-Any questions about this Privacy Policy should be addressed by email to support at soloseo dot com.
+SoloSEO will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
