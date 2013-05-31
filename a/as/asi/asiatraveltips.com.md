@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiatraveltips.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125082538id_/http%3A//www.asiatraveltips.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiatraveltips.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531062135id_/http%3A//www.asiatraveltips.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - ASIA Travel Tips.com
 
