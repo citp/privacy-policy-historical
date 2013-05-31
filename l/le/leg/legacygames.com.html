@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the legacygames.com privacy policy that was archived on 2012-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920122358id_/http%3A//legacygames.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the legacygames.com privacy policy that was archived on 2013-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531205305id_/http%3A//legacygames.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# game: http://ogp.me/ns/game#">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,13 +11,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" {xhtml}="">
     <link rel="shortcut icon" type="image/x-icon" href="http://images2.legacygames.com/favicon.ico">
     <link rel="icon" type="image/x-icon" href="http://images2.legacygames.com/favicon.ico">
+    <link rel="stylesheet" type="text/css" media="screen" href="/style/style.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/js/prettyPhoto/css/prettyPhoto-popup.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/style/jquery-ui.css">
     <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=306850349402356"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.7.1.js"></script>
 <script type="text/javascript" src="/js/jplaceholder.js"></script>
 <script type="text/javascript" src="/js/prettyPhoto/js/jquery.prettyPhoto.js"></script>
 <script type="text/javascript" src="/js/jquery.form.js"></script>
 <script type="text/javascript" src="/js/utility.js"></script>
-    <link rel="stylesheet" type="text/css" media="screen" href="/style/style.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/js/prettyPhoto/css/prettyPhoto-popup.css">
+<script type="text/javascript" src="/js/jquery-ui.js"></script>
     <title>
       Privacy Policy / Legacy Games    </title> 
         <script type="text/javascript">
@@ -118,6 +120,19 @@
         jQuery("a[rel^='popup']").prettyPhoto({markup:signin, default_width: 240, default_height: 383, animation_speed: 'slow'});
         jQuery("a[rel^='popup2']").prettyPhoto({markup:register, default_width: 769, default_height: 300, animation_speed: 'slow'});
         jQuery("a[rel^='prettyPhoto']").prettyPhoto({default_width: 800, default_height: 600, allow_resize:false, animation_speed: 'slow'});
+		
+		var llb=''; 
+		$( "#keyword" ).autocomplete({
+			source: "/home/superSearch",
+			select: function(event,ui){
+			llb = ui.item.value;
+			$('#keyword').val(ui.item.value);
+			$('#keyword_search').attr('action', ui.item.labels);
+			$("#keyword_search").submit();
+
+			},close: function(){$('#keyword').val(llb);}
+		});
+		
     });
     
     function ajax_error(text) {
@@ -132,6 +147,8 @@
                   <script type="text/javascript">
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-318702-3']);
+		_gaq.push(['_setDomainName', 'legacygames.com']);
+		_gaq.push(['_setAllowLinker', true]);
 		_gaq.push(['_trackPageview']);
 		(function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -139,6 +156,8 @@
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
 		</script></head>
+	<!-- Clickable backround area-->
+	<!--<a href="http://www.legacygames.com/download-games/237/PC/Atlantis%3A+Pearls+of+the+Deep+for+PC" target="_blank" id="clickable"></a>-->
 <!--[if IE 7]> <link rel="stylesheet" type="text/css" href="/style/ie7.css"> <![endif]-->
 <!--[if gt IE 8]>
     <style type="text/css">
@@ -159,11 +178,25 @@
     }(document, 'script', 'facebook-jssdk'));</script>
 
 <div class="wrapper-all">
-    <div class="top-header">
-    <a href="/" alt="Legacy Games" title="Legacy Games"><img src="/images/img_logo.png" class="logo" alt="Legacy Games" title="Legacy Games"></a>
+	<div class="top-header">
+	<a href="/" alt="Legacy Games" title="Legacy Games"><img src="/images/img_logo.png" class="logo" alt="Legacy Games" title="Legacy Games"></a>
 <div class="searchwrapper">
+<script>
+$(document).ready(function() {
+  $('.search input[type="submit"]').hide();
+ 
+  $('#keyword_search').keyup(function(key) {
+    if (this.value.length >= 3 || this.value == '') {
+      $('#jobs').load(
+        $(this).parents('form').attr('action'),
+        { query: this.value + '*' },
+      );
+    }
+  });
+});
+</script>
       <form id="keyword_search" name="keyword_search" action="/genrePlatform?" method="get">
-        <input type="text" name="keyword" id="keyword" class="searchbox" value="" size="30" maxlength="50" placeholder="Search Games">
+        <input type="text" name="keyword" id="keyword" class="searchbox ui-autocomplete-input" value="" size="30" maxlength="50" placeholder="Search Games" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
         <input type="hidden" name="list_mode" id="list_mode" value="search">
         <input type="image" src="/images/ic_search.png" value="" class="searchbox_submit" alt="Search" title="Search">
       </form>
@@ -179,11 +212,11 @@
         <div class="sns">
             <a href="https://www.facebook.com/pages/Legacy-Games/147583481923241" alt="Facebook" title="Facebook" target="_blank">Facebook</a>
             <a href="https://twitter.com/legacy_games" alt="twitter" title="twitter" class="twitter" target="_blank">twitter</a>
-            <a href="https://plus.google.com/u/0/117577811820367119347/posts" alt="Google+" title="Google+" class="google" target="_blank">Google+</a>
-            <a href="http://legacyinteractive.tumblr.com/" alt="Tumblr" title="Tumblr" class="tumblr" target="_blank">Tumblr</a>
+            <a href="https://plus.google.com/117577811820367119347/" alt="Google+" title="Google+" class="google" target="_blank" rel="publisher">Google+</a>
+            <!--<a href="http://legacyinteractive.tumblr.com/" alt="Tumblr" title="Tumblr" class="tumblr" target="_blank">Tumblr</a>-->
             <a href="http://www.youtube.com/user/legacygames" alt="YouTube" title="YouTube" class="youtube" target="_blank">YouTube</a>
         </div>					
-        <a href="https://www.trialpay.com/cart/?pp=XH1zHHp&amp;c=8d839f2" class="viewcart" alt="view cart" title="View Cart">View Cart</a>
+        <a href="http://sites.fastspring.com/legacygames/order/contents" class="viewcart" alt="view cart" title="View Cart">View Cart</a>
         <div class="clear"></div>
     </div>				
 </div>
@@ -543,7 +576,7 @@ $().ready(function(){
 <option value="246">Zimbabwe</option>
 </select>            <div class="checbox-content">
                 <input type="checkbox" name="news_letter" id="news_letter" class="checkbox" checked="checked">
-                <label class="label-checkbox">Yes, sign me up for the weekly Legacy Games Newsletter, so I can learn about new games, special deals, and freebies.<br>
+                <label class="label-checkbox">Yes, sign me up for the weekly Legacy Games Newsletter, so I can learn about new games, special deals, and get Fever Frenzy for FREE.<br>
                 </label>
             <div class="clear"></div>
             </div>
@@ -553,20 +586,28 @@ $().ready(function(){
     <div class="right right-popup">
         <h2>Member Benefits</h2>
         <p>
-            Sign up for a FREE Legacy Games account and enjoy these benefits!
+            Sign up for a FREE Legacy Games account and enjoy these member-only benefits!
         </p>
-        <ul>
-            <li>Download and play 60-minute demos of almost every game.</li>
+            <p>•&nbsp;No commitments, no credit card needed.</p>
+            <p>•&nbsp;Download and play free 60-minute demos of over 150 games.</p>
+            <p>•&nbsp;Free bonus content through Legacy PLUS for select <a href="http://www.legacygames.com/genrePlatform?list_mode=pcgenremenu&amp;genre_id=61" style="color:#0000CC"><b>Legacy Original</b></a> titles.</p>
+            <p>•&nbsp;License keys and "wish lists" are always viewable on your account page.</p>
+            <p>•&nbsp;Share your comments when you sign in with Facebook.</p>
+            <p>•&nbsp;Follow the Legacy producers as they blog about new games in development.</p>            
+        <!--<ul>
+            <li>No commitments, no credit card needed.</li>
+            <li>Download and play free 60-minute demos of over 150 games.</li>
+            <li>Free bonus content through Legacy PLUS for select <a href="http://www.legacygames.com/genrePlatform?list_mode=pcgenremenu&genre_id=61" style="color:#0000CC"><b>Legacy Original</b></a> titles.</li>
             <li>License keys and "wish lists" are always viewable on your member account page.</li>
             <li>Share your status, likes, wants and comments when you sign in with Facebook.</li>
-            <li>Follow the great Legacy producers as they blog about hot new games in development.</li>
-        </ul>
+            <li>Follow the great Legacy producers as they blog about hot new games in development.</li>            
+        </ul>-->
     </div>
 </div>
-<div class="clear"></div>    <div class="header-navigation-menu"><!-- navigation menu -->
+<div class="clear"></div>	<div class="header-navigation-menu"><!-- navigation menu -->
         <ul class="menu-nav">
                 <li class="header-menu-games drop-down"><a href="/PC" class="link-games" alt="" title="">PC GAMES</a>
-	<ul class="container-dropdown" style="width: 420px;">
+	<ul class="container-dropdown" style="width: 630px;">
 		<li class="dropdown-genres"><h4>GENRES</h4>
 							<ul>
 																					<li><a alt="Legacy Originals" title="Legacy Originals" href="/genrePlatform?list_mode=pcgenremenu&amp;genre_id=61">Legacy Originals</a></li>
@@ -576,33 +617,32 @@ $().ready(function(){
 																							<li><a alt="Match 3" title="Match 3" href="/genrePlatform?list_mode=pcgenremenu&amp;genre_id=5">Match 3</a></li>
 																							<li><a alt="Simulation" title="Simulation" href="/genrePlatform?list_mode=pcgenremenu&amp;genre_id=6">Simulation</a></li>
 																							<li><a alt="Hollywood Hits" title="Hollywood Hits" href="/genrePlatform?list_mode=pcgenremenu&amp;genre_id=14">Hollywood Hits</a></li>
+																							<li><a alt="Strategy" title="Strategy" href="/genrePlatform?list_mode=pcgenremenu&amp;genre_id=13">Strategy</a></li>
 																									</ul>
 						<img src="/images/img_dropdown_divider.png" alt="vertical line" title="vertical line" class="divider1">
 						<ul class="dropdown-genre2">
-																								<li><a alt="Strategy" title="Strategy" href="/genrePlatform?list_mode=pcgenremenu&amp;genre_id=13">Strategy</a></li>
-																							<li><a alt="Family" title="Family" href="/genrePlatform?list_mode=pcgenremenu&amp;genre_id=16">Family</a></li>
+																								<li><a alt="Family" title="Family" href="/genrePlatform?list_mode=pcgenremenu&amp;genre_id=16">Family</a></li>
 																							<li><a alt="Adventure" title="Adventure" href="/genrePlatform?list_mode=pcgenremenu&amp;genre_id=15">Adventure</a></li>
 																							<li><a alt="Medical" title="Medical" href="/genrePlatform?list_mode=pcgenremenu&amp;genre_id=64">Medical</a></li>
 																							<li><a alt="Enthusiast" title="Enthusiast" href="/genrePlatform?list_mode=pcgenremenu&amp;genre_id=18">Enthusiast</a></li>
 																							<li><a alt="Casino" title="Casino" href="/genrePlatform?list_mode=pcgenremenu&amp;genre_id=63">Casino</a></li>
+																							<li><a alt="Action" title="Action" href="/genrePlatform?list_mode=pcgenremenu&amp;genre_id=70">Action</a></li>
 																							<li><a alt="RealLife Games®" title="RealLife Games®" href="/genrePlatform?list_mode=pcgenremenu&amp;genre_id=72">RealLife Games®</a></li>
-																									</ul>
-						<img src="/images/img_dropdown_divider.png" alt="vertical line" title="vertical line" class="divider1">
-						<ul class="dropdown-genre3">
-																						</ul>
+																					</ul>
 					</li>
 	</ul>	
 </li>                <li class="header-menu-macgames drop-down"><a href="/MAC" class="link-macgames" alt="" title="">MAC GAMES</a>
 	</li>					
                 <li class="header-menu-ios"><a href="/iOS" alt="Iphone-Ipad" title="Iphone-Ipad" class="ios">Iphone-Ipad</a></li>
 <li class="header-menu-android"><a href="/Android" alt="Android" title="Android" class="android">Android</a></li>
-<li class="header-menu-facebook"><a href="/Facebook" alt="Facebook" title="Facebook" class="facebook">Facebook</a></li>
+<!--<li class="header-menu-facebook"><a href="/Facebook" alt="Facebook" title="Facebook" class="facebook">Facebook</a></li>-->
+<li class="header-menu-facebook"><a href="/static/whatsNew" alt="What's New" title="What's New" class="facebook">What's New</a></li>
                 <li class="header-menu-help"><a href="/help/" alt="Help" title="Help" class="help">Help</a></li>
-                <li class="header-menu-promos"><a href="/promo" alt="Promos" title="Promos" class="promos">Promos</a></li>
+                <li class="header-menu-promos"><a href="/promos" alt="Promos" title="Promos" class="promos">Promos</a></li>
         </ul>
 </div><!--end navigation menu-->
-    </div>
-    <div class="header-wrap-207"><!-- header wrap -->
+	</div>
+	<div class="header-wrap-207"><!-- header wrap -->
         <div class="header-content">
                 <img src="/images/img_banner_privacy.png" alt="about" title="about">
         </div>
@@ -651,16 +691,16 @@ $().ready(function(){
                 <span class="information_about_you_small">We send to all of our users our exclusive Legacy Games Newsletter, which alerts you to new games available on our site. Users can sign up for the newsletter from our home page by providing their e-mail address. This information will not be shared with third parties. Information on how to unsubscribe is included in every newsletter. From time to time, we will also send you invitations to enhance your Legacy Games subscription, offers for new products and services from Legacy Games, special "Members Only" premiums, or special offers from our affiliates and sponsors. These communications are sent to you directly by Legacy Games. We do not share your personally identifiable information with any third parties in connection with the Newsletter.</span>
         </div>
 </div>
-    <div class="footer-wrap">
-    <div class="footer-content">		
-        <ul class="footer-first-line">
+	<div class="footer-wrap">
+    <div class="footer-content">
+				        <ul class="footer-first-line">
             <li>&nbsp;<a title="Home" href="/">Home</a></li>&nbsp;&nbsp;|
                         <li>&nbsp;<a href="/PC" alt="PC" title="PC">PC</a></li>&nbsp;&nbsp;|
 <li>&nbsp;<a href="/MAC" alt="Mac" title="Mac">Mac</a></li>&nbsp;&nbsp;|
 <li>&nbsp;<a href="/iOS" alt="iOS" title="iOS">iOS</a></li>&nbsp;&nbsp;|
 <li>&nbsp;<a href="/Android" alt="Android" title="Android">Android</a></li>&nbsp;&nbsp;|
 <li>&nbsp;<a href="/Facebook" alt="Facebook" title="Facebook">Facebook</a></li>&nbsp;&nbsp;|
-                        <li>&nbsp;<a title="Help" href="/help/">Help</a></li>&nbsp;&nbsp;|
+<div class="fb-recommendations-bar" data-trigger="onvisible" data-read-time="30" data-action="like" data-side="right"></div>                        <li>&nbsp;<a title="Help" href="/help/">Help</a></li>&nbsp;&nbsp;|
             <li><a href="javascript:AddToFavorites(1);" title="Add to Favorites">Add to Favorites</a></li>&nbsp;&nbsp;|
             <li>&nbsp;<a title="Sitemap" href="/sitemap/">Sitemap</a></li>&nbsp;&nbsp;|
             <li>&nbsp;<a title="Privacy Policy" href="/privacy/">Privacy Policy</a></li>&nbsp;&nbsp;|
@@ -669,17 +709,15 @@ $().ready(function(){
             <li>&nbsp;<a title="Blog" href="/blog/">Blog</a></li>&nbsp;&nbsp;|
             <li>&nbsp;<a title="Twitter" target="_blank" href="https://twitter.com/legacy_games">Twitter</a></li>&nbsp;&nbsp;|
             <li>&nbsp;<a title="Press" href="/press/">Press</a></li>&nbsp;&nbsp;|
-            <li>&nbsp;<a title="Promo" href="/promo">Promo</a></li>&nbsp;&nbsp;|
+            <li>&nbsp;<a title="Promo" href="/promos">Promo</a></li>&nbsp;&nbsp;|
             <li>&nbsp;<a title="About" href="/about/">About</a></li>&nbsp;&nbsp;|
             <li>&nbsp;<a title="Contact Us" href="/contact">Contact Us</a>&nbsp;</li>
         </ul>
-			
         <p>© 2012 Legacy Interactive. All Rights Reserved.</p>		
-		
     </div>
 </div>
-<div class="clear"></div>    <div class="clear"></div>
+<div class="clear"></div>	<div class="clear"></div>
 </div> <!-- end wrapper all-->
 
 
-</body></html>
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="z-index: 1; display: none;"></ul></body></html>
