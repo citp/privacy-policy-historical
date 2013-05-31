@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the webnetclick.com privacy policy that was archived on 2012-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120817122903id_/http%3A//www.webnetclick.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webnetclick.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531215957id_/http%3A//www.webnetclick.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+| 
 
 ##  WebNetClick.com Privacy Policy
 
@@ -33,3 +35,5 @@ If a user's personally identifiable information or listing circumstances changes
 ###  Contact Information
 
 If users have any questions or suggestions regarding our privacy statement including privacy, information use, collection, or security, please contact us at: Email: support at webnetclick dot com. Thank you for submitting your sites with Webnetclick.com Web Directory webnetclick Team
+
+| 
