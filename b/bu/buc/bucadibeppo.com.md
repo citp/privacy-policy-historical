@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bucadibeppo.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130061623id_/http%3A//www.bucadibeppo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bucadibeppo.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601225339id_/http%3A//www.bucadibeppo.com/privacy-policy) for the most accurate reproduction.*
 
 # Buca di Beppo Privacy Policy - Buca di Beppo Italian Restaurant
 
