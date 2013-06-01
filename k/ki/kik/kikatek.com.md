@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kikatek.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130075412id_/http%3A//www.kikatek.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kikatek.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601093715id_/http%3A//www.kikatek.com/privacy.php) for the most accurate reproduction.*
 
-# Kikatek.com: Privacy Policy and Statements
+# Kikatek.com: Privacy and Cookies Policy
 
 * * *
 
@@ -33,7 +33,7 @@ To further secure your account, we employ a non-recoverable encryption technolog
 ### How long do we keep your information?
 
   
-Your information is stored indefinitely as long as your account with Kikatek is active. In the case that you wish to close your account, you may request your information to be removed from our database. Please contact us via our e-Ticket Support System if this applies to you. Certain sensitive data such as credit card details are **never** stored in our database. They are treated as transient data, and their transmissions are always protected through the Secure Sockets Layer (SSL) encryption technology.
+Your information is stored indefinitely as long as your account with Kikatek is active. In the case that you wish to close your account, you may request your information to be removed from our database. Please [contact us](http://www.kikatek.com/contact_us.php) if this applies to you. Certain sensitive data such as credit card details are **never** stored in our database. They are treated as transient data, and their transmissions are always protected through the Secure Sockets Layer (SSL) encryption technology.
 
 ### Maintaining the information we hold for you
 
@@ -50,7 +50,7 @@ We at Kikatek take the security of your information seriously, that is why we ha
 ### Secured server communications
 
   
-All sensitive data transmission to and from our secure server is protected by whats known as the Secure Sockets Layer (SSL) 128 bit encryption which is the strongest commercial encryption available. In the unlikely case the information is intercepted, it will remain unusable as the data remains encrypted and scrambled. With this security, you can transmit your credit card details to us without risk of interception. In fact, SSL security makes shopping over the Internet much safer than shopping by telephone. As an additional security measure, no record of sensitive data, such as credit card number, is ever stored in our database. Hence, no unauthorised person can ever retrieve your card details from our secured website.
+All sensitive data transmission to and from our secure server is protected by whats known as the Secure Sockets Layer (SSL) 256 bit encryption which is the strongest commercial encryption available. In the unlikely case the information is intercepted, it will remain unusable as the data remains encrypted and scrambled. With this security, you can transmit your credit card details to us without risk of interception. In fact, SSL security makes shopping over the Internet much safer than shopping by telephone. As an additional security measure, no record of sensitive data, such as credit card number, is ever stored in our database. Hence, no unauthorised person can ever retrieve your card details from our secured website.
 
 ### What you can do to reinforce security of your information
 
@@ -64,10 +64,13 @@ All sensitive data transmission to and from our secure server is protected by wh
 ### Cookies
 
   
-Cookies are small pieces of information that websites transfer to your computer hard drive for record keeping purposes when using a website. Kikatek website employs session cookies which delete themselves automatically when you leave a website and go to another one or shut down your browser. For more detailed information about cookies, including how to change your browser settings and find and delete cookies physically from your computer, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/).
+Cookies are small pieces of information that websites transfer to your computer hard drive for record keeping purposes when using a website. Kikatek website employs session cookies which delete themselves automatically when you leave a website and go to another one or shut down your browser. Persistent cookies are used when logging in with "Remember Me" option enabled to simplify the login process for repeated visits. We also use some non-essential cookies to generate _anonymous_ vistor statistics to improve and enhance the functionalities of the website.
+
+For more detailed information about cookies, including how to change your browser settings and find and delete cookies physically from your computer, you may wish to visit [www.youronlinechoices.com](http://www.youronlinechoices.com/).
 
 ### Links to external sites
 
+  
 This website includes links to external sites, such as news sources, manufactuer's product page and support page. We make every effort to provide links to high quality, reputable sites but we're not responsible for their privacy practices or, site content, or the services they offer. 
 
 * * *
