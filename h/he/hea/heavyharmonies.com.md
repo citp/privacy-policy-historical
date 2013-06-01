@@ -1,18 +1,15 @@
-> *The following text is extracted and transformed from the heavyharmonies.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509123228id_/http%3A//heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavyharmonies.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601031323id_/http%3A//heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.*
 
 # Heavy Harmonies - Privacy Statement
 
 THE Hard Rock and AOR Reference on the Internet!
 
-Bands: 5877     CDS: 13620     Songs: 158156
-
-  
-
+Bands: 6206     CDS: 14680     Songs: 172318
 
 [ ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&&no_note=0&hosted_button_id=9258665)    [ ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&&no_note=0&hosted_button_id=9258601)    [ ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&&no_note=0&hosted_button_id=9257845)    [ ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&&no_note=0&hosted_button_id=9258002)    [ ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&&no_note=0&hosted_button_id=9258128)     
 Your ongoing support of Heavy Harmonies is appreciated! 
 
-_Last updated October 7, 2005_
+_Last updated January 12, 2013_
 
 The success of Heavy Harmonies depends upon our ability to maintain the trust of our users. Below is information regarding our commitment to protect the privacy of users. 
 
