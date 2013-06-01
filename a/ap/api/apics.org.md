@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apics.org privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110132134id_/http%3A//www.apics.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apics.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601131543id_/http%3A//www.apics.org/privacy-policy) for the most accurate reproduction.*
 
 # APICS - APICS Online Privacy Policy
 
@@ -6,9 +6,9 @@ APICS respects the privacy of visitors to its website and has developed the foll
 
 Personal, identifying information is not collected from visitors to our site unless this information has been voluntarily provided. All sensitive information sent to APICS is kept confidential. However, please be advised that the APICS website will query visitors browsers for certain information, such as
 
-  * the domain you are accessing our site from. 
-  * the type of PC operating system you use. 
-  * the type of browser you use. 
+  * the domain you are accessing our site from.
+  * the type of PC operating system you use.
+  * the type of browser you use.
 
 
 
