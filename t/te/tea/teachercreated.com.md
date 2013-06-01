@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachercreated.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531100903id_/http%3A//www.teachercreated.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachercreated.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601222702id_/http%3A//www.teachercreated.com/company/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Security | Teacher Created Resources
 
