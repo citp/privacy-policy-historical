@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the geekbuying.com privacy policy that was archived on 2012-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121117001357id_/http%3A//geekbuying.com/help/about/privacy_notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the geekbuying.com privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601071204id_/http%3A//www.geekbuying.com/help/about/privacy_notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	
@@ -11,18 +11,31 @@
 <link rel="stylesheet" href="http://content1.geekbuying.com/css/main.css">
 
 <link rel="stylesheet" href="http://content1.geekbuying.com/css/main.css">
+<link rel="stylesheet" href="http://content1.geekbuying.com/css/geekSearch.css">
 <link rel="icon" href="http://content1.geekbuying.com/images/7_26_favicon.ico" mce_href="http://content1.geekbuying.com/images/7_26_favicon.ico" type="image/x-icon">
 <style>
+
+
+<style type="text/css">
   #longbanner
   {	 
-width:960px;float:left;overflow:hidden;margin-top:4px;overflow:hidden;margin-left:8px;margin-right:8px;
+position:relative;
+width:960px;float:left;margin-top:4px;margin-left:8px;margin-right:8px;
 border:1px solid #c2c2c2;-webkit-border-bottom-left-radius:6px;-webkit-border-bottom-right-radius:6px;box-shadow:2px 3px 4px #999;-webkit-box-shadow:2px 3px 4px #999;
 	-webkit-border-top-right-radius:6px;	-webkit-border-top-left-radius:6px;-moz-border-radius-bottomleft:6px;-moz-border-radius-bottomright:6px;
 -moz-box-shadow:2px 3px 4px #999;-moz-border-radius-topright:6px;width:960px;display:none;height:100px; }
- #searchPopuDiv{position:absolute;width:244px;border:1px solid #666;left: 119px;top: 30px;z-index:1112;background:#fff;display:none}
+ #searchPopuDiv{position:absolute;width:244px;border:1px solid #666;left: 109px;top: 30px;z-index:1112;background:#fff;display:none}
  #searchPopuDiv ul{ margin:0px;list-style:none;padding:0px; }	    
  #searchPopuDiv ul li{float:left;position:relative;width:244px; font-size:13px; font-family:arial;height:26px;line-height:26px;}
  #searchPopuDiv ul li a { text-decoration:none; color:#000; height:26px; width:234px;display:block;padding-left:10px;cursor:pointer}
+#rss{position:absolute;vertical-align:middle;left: 783px;top: 114px;z-index:1000}
+
+#rss a{text-decoration:none;color:#666;font-size:12px;font-family:arial;}
+#rss a:hover{color:#3CF;}
+.goog-te-gadget-simple{filter:alpha(opacity=100); /* IE */ -moz-opacity:1.0; /* Moz + FF */
+
+opacity: 1.0;border-left:0px solid #d5d5d5;border-top:0px solid #9b9b9b;border-bottom:0px solid #e8e8e8;border-right:0px solid #d5d5d5;font-size:10pt;display:inline-block;padding-top:1px;padding-bottom:2px;cursor:pointer;zoom:1;*display:inline}
+.top .topnav .rub{ background-position:-3px -120px;padding-left: 20px;}
 </style>
 <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="http://content1.geekbuying.com/js/jquery-1.7.1.min.js">
 </script>
@@ -45,6 +58,13 @@ $("#longbanner").css("display","block")
      var bannerTime;
     var ThisIndex=0;
 	var bannerIntTime;
+var bannerLen=$("#bannerImages a").length;
+$("#bannerIndex").empty();
+for(var k=0;k<bannerLen;k++)
+{
+$("#bannerIndex").append("<img src='http://content1.geekbuying.com/images/point1.png'/>")
+}
+$("#bannerIndex img").eq(0).attr("src","http://content1.geekbuying.com/images/point.png")
 bannerInterval=function(){
 			$("#bannerIndex img").attr("src","http://content1.geekbuying.com/images/point1.png")
 			$("#bannerIndex img").eq(ThisIndex).attr("src","http://content1.geekbuying.com/images/point.png")
@@ -71,7 +91,7 @@ bannerInterval=function(){
 		bannerIntTime=setInterval(bit=function(){
 	  ThisIndex++;
 	  
-	  if(ThisIndex>=4)
+	  if(ThisIndex>=bannerLen)
 	  {
 		  ThisIndex=0
 	  }
@@ -251,36 +271,25 @@ var key3 = evt.keyCode?evt.keyCode:evt.which;
                <div id="freeshipping"> 
               
                
-               <a href="/main/signin" style="width:100px;text-align:right">Login</a> <div style="float:left;height:48px;line-height:40px;margin-left:6px">|</div> 
-               <a href="/main/signup" style="margin-left:6px;">Join Free </a>   
-               <div style="float:left;height:48px;line-height:40px;margin-left:6px">|</div>              
-            
            <a href="/main" style="margin-left:6px;">My Account</a>
                    <div style="float:left;height:48px;line-height:40px;margin-left:6px">|</div>   
-                <a href="/trackorder" style="margin-left:6px">Order Tracking</a>
-                          
-               
-               
-               
-               
-               
-                        
+                <a href="/trackorder" style="margin-left:6px">Order Tracking</a><div style="float:left;height:48px;line-height:40px;margin-left:6px;margin-right:-8px">|</div> 
+                 <a href="/rss/list">Rss</a>                     
                </div>
                
                <div class="top">
                <ul class="left">  		
                
                 <li class="toplist">
-                  <a href="/help" class="topnav slide"><span class="slideright"></span>English</a>
-                    <ul style="display: none;" class="subnav tophelp">
-                        <li><a href="http://translate.google.com/translate?hl=de&amp;sl=en&amp;tl=de&amp;u=http%3a%2f%2fwww.geekbuying.com%2fhelp%2fabout%2fprivacy_notice" target="_top" rel="nofollow">Deutsch</a></li>
-                        <li><a href="http://translate.google.com/translate?hl=fr&amp;sl=en&amp;tl=fr&amp;u=http%3a%2f%2fwww.geekbuying.com%2fhelp%2fabout%2fprivacy_notice" target="_top" rel="nofollow">Français</a></li>    
-                        <li><a href="http://translate.google.com/translate?hl=nl&amp;sl=en&amp;tl=nl&amp;u=http%3a%2f%2fwww.geekbuying.com%2fhelp%2fabout%2fprivacy_notice" target="_top" rel="nofollow">Nederlands</a></li>
-                        <li><a href="http://translate.google.com/translate?hl=ru&amp;sl=en&amp;tl=ru&amp;u=http%3a%2f%2fwww.geekbuying.com%2fhelp%2fabout%2fprivacy_notice" target="_top" rel="nofollow">Pyccko</a></li>
-                        <li><a href="http://translate.google.com/translate?hl=es&amp;sl=en&amp;tl=es&amp;u=http%3a%2f%2fwww.geekbuying.com%2fhelp%2fabout%2fprivacy_notice" target="_top" rel="nofollow">Español</a></li>
-                        <li><a href="http://translate.google.com/translate?hl=it&amp;sl=en&amp;tl=it&amp;u=http%3a%2f%2fwww.geekbuying.com%2fhelp%2fabout%2fprivacy_notice" target="_top" rel="nofollow">Italiano</a></li>
-                        <li><a href="http://translate.google.com/translate?hl=pt&amp;sl=en&amp;tl=pt&amp;u=http%3a%2f%2fwww.geekbuying.com%2fhelp%2fabout%2fprivacy_notice" target="_top" rel="nofollow">Portuguese</a></li>
-	                    </ul>
+                  
+                <div id="google_translate_element"></div><script type="text/javascript">
+                                                             function googleTranslateElementInit() {
+                                                                 new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE }, 'google_translate_element');
+                                                             }
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+                 
 		          </li>
                  <li class="toplist">
 		    <a href="javascript:void(0);" class="topnav slide"><span class="slideright"></span>
@@ -290,8 +299,13 @@ var key3 = evt.keyCode?evt.keyCode:evt.which;
                         <li><a href="/index/changecurrency?currency=GBP" class="gbp">British Pound</a></li>
                         <li><a href="/index/changecurrency?currency=EUR" class="eur">Euro</a></li>
                         <li><a href="/index/changecurrency?currency=AUD" class="aud">Australian Dollar</a></li>
-                        <li><a href="/index/changecurrency?currency=CAD" class="cad">Canadian Dollar</a></li>	
+                        <li><a href="/index/changecurrency?currency=CAD" class="cad">Canadian Dollar</a></li>
+                        	
+                        	
+                        <!--<li><a href="/index/changecurrency?currency=RUB" class="rub">Russian Ruble</a></li>-->	
+                        
 	            </ul>
+
 			</li>
               <li class="toplist" style="float:right">
                   <a href="javascript:;" class="topnav slide"><span class="slideright"></span><span class="livechat">Live Chat</span></a>
@@ -300,7 +314,7 @@ var key3 = evt.keyCode?evt.keyCode:evt.which;
                         <li class="request">
                             <p class="blod">If you already made a purchase</p>
                             Contact Customer Service for order status and other after-sales issues.<br>
-                            <a class="blod" href="/help/about/address">Submit a Request</a>
+                            <a class="blod" href="http://www.geekbuying.com/help/about/address">Submit a Request</a>
                         </li>
                         <li class="chat">
                             <p class="blod">If you are considering a purchase
@@ -317,16 +331,19 @@ var key3 = evt.keyCode?evt.keyCode:evt.which;
 		        </ul>
                </div>
                <div id="shippingcar"> <a href="/shoppingcart"><img src="http://content1.geekbuying.com/images/shoppingcar.jpg" border="0"> <span> <span style="color:#c4755a;font-size:16px;padding-left:4px;padding-right:2px">0</span>  items in your cart now</span></a> </div>
-               <div id="logoDiv"><a href="/"><img src="http://content1.geekbuying.com/images/logo.png"></a></div>
+               <div id="logoDiv"><a href="http://www.geekbuying.com"><img src="http://content1.geekbuying.com/images/logo.png"></a></div>
 </div>
            <div id="topMenuDiv">
              <div id="homemeneu">
-                <ul>
+                <ul style="width:960px;float:left;">
                       <li><a href="/newarrival">NEW ARRIVALS </a></li>
                       <li><a href="/bestselling">BEST SELLING</a></li>
                       <li><a href="/giftideas">GIFT IDEAS</a></li>
-                      <li><a href="/featured-products">FEATURED</a></li>
-                 <li style="margin-right:0px;"><a href="/under-2-dollars">UNDER $2</a></li>
+                      <li><a href="http://tvbox.geekbuying.com/">TV BOX<img src="http://content1.geekbuying.com/images/menunew.png"></a></li> 
+                      
+                       <li><a href="http://smartphone.geekbuying.com/">Smart Phone<img src="http://content1.geekbuying.com/images/menunew.png"></a></li>
+                      <li style="margin-right:0px;"><a href="/under-2-dollars">UNDER $2</a></li>
+                
                   </ul>
                  
               </div>
@@ -676,6 +693,14 @@ var key3 = evt.keyCode?evt.keyCode:evt.which;
                   <div id="phoneList" style="color:#fff;font-weight:blod;margin-left:14px;float:left">
                     <a href="/Search/Advancedsearch" style="color:#eeeeee;text-decoration:underline">Advanced Search</a>
                  </div>
+                 <div class="keywords">
+                 	<a href="http://www.geekbuying.com/Search/?keyword=TV+Box">TV Box</a><a>|</a>
+                    <a href="http://www.geekbuying.com/Search/?keyword=mtk6589">MTK6589 Quad Core</a><a>|</a>
+                    <a href="http://www.geekbuying.com/category/Watches-465/">Watch</a><a>|</a>
+                    <a href="http://www.geekbuying.com/Search?keyword=android+4.2&amp;c=&amp;display=grid">Android 4.2</a><a>|</a>
+                    <a href="http://www.geekbuying.com/category/SmartPhones-315/">Smartphone</a><a>|</a>
+                    <a href="http://www.geekbuying.com/Search?keyword=dvr&amp;c=&amp;display=grid">Car DVR</a>
+                 </div>
               </div>
               </form>
            </div>
@@ -689,8 +714,13 @@ var key3 = evt.keyCode?evt.keyCode:evt.which;
    </ul>
 </div>
    <div style="display:none">
+
+  
+
 <div id="longbanner">
-  <a href="http://www.geekbuying.com/item/CUBOT-A8809-Smart-Phone-4-7-Inch-IPS-QHD-Screen-MTK6577-Dual-core-Android-4-0-GPS-3G-WIFI-8-0MP-Camera-311908.html?utm_source=inside-promo&amp;utm_medium=inside-top-banner&amp;utm_campaign=A8809"><img src="http://content1.geekbuying.com/longbanner/A8809.jpg"></a>
+ 
+  <a href="http://www.geekbuying.com/item/ZOPO-C2-5-0-Inch-MTK6589-Quad-Core-Smart-Phone-1080P-IPS-Screen-1GB-RAM-4GB-ROM-Aliyun-OS-with-3G-GPS-Black-315185.html?utm_source=inpromo&amp;utm_medium=inside-top-banner&amp;utm_campaign=ZOPOC2-0426"><img src="http://content1.geekbuying.com/longbanner/g-b-long-zopo-c2.jpg"></a>
+
   </div>
 </div>
 <!--[if lt IE 9]><script src=" http://content1.geekbuying.com/media/js/html5shim.js"></script><![endif]-->
@@ -775,6 +805,22 @@ function OpenSsl()
    window.open ('https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=www.GeekBuyIng.com&lang=en','newwindow','height=500,width=600,top=0,left=0,toolbar=no,menubar=no,scrollbars=no, resizable=no,location=no, status=no') 
  
 }
+ </script>
+
+ <script type="text/javascript">
+     $.ajax({
+         url: "/Main/GetModel/",
+         cache: false,
+         success: function (data) {
+             if (data[0] == "no") {
+                 $("#freeshipping a:first").before('<a href="/main/signin" style="width:100px;text-align:right">Login</a> <div style="float:left;height:48px;line-height:40px;margin-left:6px">|</div><a href="/main/signup" style="margin-left:6px;">Join Free </a><div style="float:left;height:48px;line-height:40px;margin-left:6px">|</div>')
+             }
+             else if (data[0] == "yes") { 
+             $("#freeshipping a:first").before('<a href="/account" style="margin-left:6px;text-align:right;width:130px">Hello,'+data[1]+'</a><div style="float:left;height:48px;line-height:40px;margin-left:6px">|</div><a href="/main/signout">Sign out</a><div style="float:left;height:48px;line-height:40px;margin-left:6px">|</div> ')    
+             }
+         }
+     })
+    
  </script>
  
 <script src="https://chatserver.comm100.com/js/LiveChat.js?siteId=147262&amp;planId=265&amp;partnerId=-1" type="text/javascript"></script>
@@ -865,6 +911,7 @@ function OpenSsl()
             <div class="ullititle" style="font-size:12px"><a href="http://www.geekbuying.com/help/payment_and_shipping/">Payment &amp; Shipping</a></div>
               <ul style="padding-bottom:10px">
                             <li><a href="http://www.geekbuying.com/help/payment_and_shipping/methods">Payment Methods</a></li>
+                            <li><a href="http://www.geekbuying.com/help/payment_and_shipping/HowtopaywithQIWI">How to pay with QIWI?</a></li>
                             <li><a href="http://www.geekbuying.com/help/payment_and_shipping/shipping_guide">Shipping Guide</a></li>
                             <li><a href="http://www.geekbuying.com/help/payment_and_shipping/taxes_customs_and_duties">Taxes, Customs &amp; Duties</a></li> 
             </ul>
@@ -973,13 +1020,15 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
              <li><a href="/help/about/geekbuying" rel="nofollow">About us</a></li>
     <li><a href="/help/about/guarantee" rel="nofollow">Our Guarantee</a></li>
     <li><a href="/help/about/privacy_notice" rel="nofollow">Privacy Notice</a></li>
+<li><a href="http://m.geekbuying.com/" rel="nofollow">Mobile Site</a></li>
            </ul>
             </div>
             <div class="bottomListMenu">
                <ul>
               <li><a href="/help/payment_and_shipping/shipping_guide" rel="nofollow">Shipping Methods</a></li>
-    <li><a href="/help/payment_and_shipping/methods" rel="nofollow">How to Pay</a></li>
- <li><a href="/DropShopping/make_money_with_geekbuying_by_drop_shipping">Drop Shopping</a></li>
+              <li><a href="/help/payment_and_shipping/methods" rel="nofollow">How to Pay</a></li>
+              <li><a href="/DropShopping/make_money_with_geekbuying_by_drop_shipping">Drop Shopping</a></li>
+              <li><a href="/help/other_business/wholesale">Wholesale</a></li>
            </ul>
             </div>
             <div id="emaillAddress">
@@ -996,7 +1045,7 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
             </div>
             <div id="shareTo">
                <a href="http://www.twitter.com/geekbuying" rel="nofollow"><img src="http://content1.geekbuying.com/images/twitter.png" border="0" align="absmiddle"> Follow us on Twitter</a>
-               <a href="http://www.facebook.com/geekbuying" rel="nofollow"><img src="http://content1.geekbuying.com/images/facebook.png" border="0" align="absmiddle"> Like us on Facebook</a>
+               <a href="http://www.facebook.com/Geekbuyingfans" rel="nofollow"><img src="http://content1.geekbuying.com/images/facebook.png" border="0" align="absmiddle"> Like us on Facebook</a>
                <a href="http://www.youtube.com/geekbuying" rel="nofollow"><img src="http://content1.geekbuying.com/images/youtube.png" border="0" align="absmiddle"> Watch us on Youtube</a>
                <a href="http://blog.geekbuying.com"><img src="http://content1.geekbuying.com/images/blog.png" border="0" align="absmiddle"> Read us on our Blog</a>
             </div>
@@ -1007,6 +1056,7 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
         
   <div id="copyRightIcon">
              
+             <img src="http://content1.geekbuying.com/images/qiwi70.png">
              <img src="http://content1.geekbuying.com/images/paypal.png">
              
              <img src="http://content1.geekbuying.com/images/ems.png">
@@ -1014,7 +1064,7 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
              <img src="http://content1.geekbuying.com/images/UPS.png">
      </div>
      <div id="copyRightDes">
-     Copyright © 2009-2012 <a href="http://www.GeekBuyIng.com">GeekBuyIng.com</a>. All rights reserved. </div>
+     Copyright © 2009-2013 <a href="http://www.GeekBuyIng.com">GeekBuyIng.com</a>. All rights reserved. Visit us by Mobile Devices at: <a href="http://m.geekbuying.com/">m.geekbuying.com</a> </div>
   </div>
 
 
