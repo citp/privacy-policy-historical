@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lemonstandapp.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115094337id_/http%3A//lemonstand.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lemonstandapp.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601215740id_/http%3A//lemonstand.com/privacy-policy) for the most accurate reproduction.*
 
 # LemonStand - Privacy Policy
 
@@ -26,4 +26,4 @@ As a member of our Web site you may occasionally receive an email newsletter inf
 
 #### Commitment
 
-We are committed to privacy and support industry initiatives to preserve individual privacy rights on the Internet. Questions about this can be directed to us though our [Contact](https://web.archive.org/contact/) page.
+We are committed to privacy and support industry initiatives to preserve individual privacy rights on the Internet. Questions about this can be directed to us though our [Contact](https://web.archive.org/contact/) page.
