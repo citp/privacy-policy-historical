@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the tripwire.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129140526id_/http%3A//www.tripwire.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripwire.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601051201id_/http%3A//www.tripwire.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  * [Home](https://web.archive.org/ "Home")
+  * [Legal](https://web.archive.org/legal/ "Legal")
+  * [Privacy Policy](https://web.archive.org/legal/privacy/ "Privacy Policy")
+
+
 
 ### Does my privacy matter to Tripwire?
 
