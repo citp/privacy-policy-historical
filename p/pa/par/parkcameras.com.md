@@ -1,70 +1,50 @@
-> *The following text is extracted and transformed from the parkcameras.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125013923id_/http%3A//www.parkcameras.com/editorial/3/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkcameras.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601183918id_/http%3A//parkcameras.com/editorial/3/Privacy-Statement.html) for the most accurate reproduction.*
 
 # Privacy Policy - Park Cameras Online
 
-## Cameras
+Canon Compact CamerasFuji Compact CamerasNikon Compact CamerasOlympus Compact CamerasPanasonic Compact CamerasPentax Compact CamerasRicoh Compact CamerasSamsung Compact CamerasSony Compact CamerasSigma Compact CamerasCanon EOS DSLRsNikon DSLRsOlympus DSLRsPentax DSLRsSigma DSLRsSony DSLRsCanon CSCsFuji CSCsNikon CSCsOlympus CSCsPanasonic CSCsPentax CSCsSamsung CSCsSony CSCsPentax CamerasBuyer's Guide - Compact CamerasBuyer's Guide - Digital SLRsBuyer's Guide - Compact System CamerasBuyer's Guide - Medium Format
 
-Canon Compact CamerasCasio Compact CamerasFuji Compact CamerasLeica Compact CamerasNikon Compact CamerasOlympus Compact CamerasPanasonic Compact CamerasPentax Compact CamerasRicoh Compact CamerasSamsung Compact CamerasSony Compact CamerasSigma Compact CamerasCanon EOS DSLRsNikon DSLRsOlympus DSLRsPentax DSLRsSigma DSLRsSony DSLRsCanon CSCsFuji CSCsNikon CSCsOlympus CSCsPanasonic CSCsPentax CSCsSamsung CSCsSony CSCsPentax CamerasMamiya CamerasBuyer's Guide - Compact CamerasBuyer's Guide - Digital SLRsBuyer's Guide - Compact System CamerasBuyer's Guide - Medium Format
-
-## Lenses
-
-CanonFujiLeicaMamiyaNikonOlympusPanasonicPentaxSamsungSigmaSonyTamronTokinaZeissCanon Fit SLR LensesFour Thirds Fit SLR LensesNikon Fit SLR LensesPentax/ Samsung Fit SLR LensesLeica LensesSigma Fit SLR LensesSony/ Minolta Fit SLR LensesCanon EF-M MountFuji X MountNikon 1 MountSamsung NX FitSony E-Mount (Sony NEX)Micro Four Thirds FitMamiya LensesPentax LensesSLR Lens AccessoriesSLR lens casesSLR lens hoods/ lens caps
+CanonFujiNikonOlympusPanasonicPentaxSamsungSamyangSigmaSonyTamronTokinaZeissCanon Fit SLR LensesFour Thirds Fit SLR LensesNikon Fit SLR LensesPentax/ Samsung Fit SLR LensesM Mount LensesSigma Fit SLR LensesSony/ Minolta Fit SLR LensesCanon EF-M MountFuji X MountNikon 1 MountSamsung NX FitSony E-Mount (Sony NEX)Micro Four Thirds FitPentax LensesSLR Lens AccessoriesSLR lens casesSLR lens hoods/ lens caps
 
 ## [Filters](http://www.parkcameras.com/g/26/Filters.html)
 
 Buyer's Guide - Lenses
 
-## Bags & Tripods
-
-BackpacksBag AccessoriesCompact Photo CasesHard CasesLaptop CasesToploadersRolling BagsShoulder & Gadget BagsStrapsAluminiumCarbon and BasaltTable TopVideo
-
-## [Heads](http://www.parkcameras.com/g//Heads.html)
+BackpacksBag AccessoriesCompact Photo CasesHard CasesLaptop CasesToploadersRolling BagsShoulder & Gadget BagsStrapsAluminium TripodsCarbon TripodsTable Top TripodsVideo TripodsTripod HeadsVideo Heads
 
 ## [Other](http://www.parkcameras.com/g/16/Other.html)
 
 Buyer's Guide - BagsBuyer's Guide - Tripods
 
-## Memory
-
-Compact FlashMemory StickMobile Phone Memory CardsSecure DigitalxD Picture CardUSB Card Readers & Adaptors
+Compact Flash Memory CardsMemory StickMicro SD Memory CardsSecure Digital Memory CardsUSB Card Readers & Adaptors
 
 ## [Hard Drives and Storage](http://www.parkcameras.com/g/27/Hard-Drives-and-Storage.html)
 
-Buyer's Guide - Memory
+Hard Drives & EnclosuresBuyer's Guide - Memory
 
-## Print, Scan & Edit
-
-A2 & Large Format PrintersA3/ A3+ PrintersA4 PrintersA4 MultifunctionalsCompact Photo PrintersLaser Printers
+A2 & Large Format PrintersA3/A3+ PrintersA4 PrintersA4 MultifunctionalsCompact Photo PrintersLaser Printers
 
 ## [Scanners](http://www.parkcameras.com/g/13/Scanners.html)
 
-## [Ink](http://www.parkcameras.com/g/12/Ink.html)
-
-## [Printer Paper](http://www.parkcameras.com/g/12/Printer-Paper.html)
+Canon InkEpson InkHP InkA2 Printer PaperA3 / A3+ Printer PaperA4 Printer PaperCompact Printer PaperPrinter Paper Rolls
 
 ## [Computers](http://www.parkcameras.com/g/19/Computers.html)
 
-Audio SoftwareDesktop SuitesGraphic DesignOffice SoftwareOperating SystemsPhoto & Video EditingPhoto RecoveryFilm Scanners AccessoriesPrinter AccessoriesBuyer's Guide - Printers/ Scanners
+Desktop SuitesOffice SoftwarePhoto & Video EditingPhoto RecoveryFilm Scanners AccessoriesPrinter AccessoriesBuyer's Guide - Printers/ Scanners
 
-## Sound & Vision
-
-19-32in TelevisionsDVD PlayersBlu-ray PlayersCablesDigital ProjectorsHome CinemaMedia CentresStandsWall BracketsStandard Definition CamcordersHigh Definition CamcordersProfessional Camcorders
+BlackmagicCanonGoProPanasonicSamsungSonyCamcordersProfessional Camcorders
 
 ## [Camcorder Accessories](http://www.parkcameras.com/g/3/Camcorder-Accessories.html)
 
-Buyer's Guide - TVsBuyer's Guide - Camcorders
+Buyer's Guide - Camcorders
 
-## Binoculars & Scopes
-
-Burris BinocularsCanon BinocularsCelestron BinocularsEschenbach BinocularsKenko BinocularsKowa BinocularsLeica BinocularsNikon BinocularsOlympus BinocularsPentax BinocularsSony BinocularsSteiner BinocularsSwarovski BinocularsSwift BinocularsVortex BinocularsZeiss BinocularsHamaKenkoKowaLeicaNikonSwarovskiZeiss
+Canon BinocularsCelestron BinocularsKenko BinocularsNikon BinocularsOlympus BinocularsPentax BinocularsSony BinocularsSteiner BinocularsSwarovski BinocularsZeiss BinocularsHamaKenkoNikonSwarovskiZeiss
 
 ## [Optics](http://www.parkcameras.com/g/39/Optics.html)
 
 Scope AccessoriesSpotting Scope CasesSpotting Scope EyepiecesBinocular AccessoriesBuyer's Guide - Binos/ Scopes
 
-## Flashguns & Lighting
-
-CanonLeicaNikonOlympusPanasonicPentaxRicohSamsungSigmaSonyNon Dedicated
+CanonNikonOlympusPanasonicPentaxRicohSamsungSigmaSonyNon Dedicated
 
 ## [Flashgun Accessories](http://www.parkcameras.com/g/32/Flashgun-Accessories.html)
 
@@ -72,13 +52,11 @@ CanonLeicaNikonOlympusPanasonicPentaxRicohSamsungSigmaSonyNon Dedicated
 
 Buyer's Guide - Flashguns/ Lighting
 
-## Accessories
-
 Rechargeable BatteriesVertical GripsCamera Cleaning AccessoriesClothingConversion Lenses & AdaptorsDigital Angle FindersDigital Picture FramesExtended WarrantiesFocus ScreensGPS DevicesLCD AccessoriesMains Adaptors & ChargersPhoto Frames & AlbumsRemotesStools & SeatsDVDs/Books/MagazinesOther DSC Accessories
 
 ## [Underwater Photography](http://www.parkcameras.com/g/25/Underwater-Photography.html)
 
-Photo PrintingPhoto GiftsPassport PhotosSensor CleaningGift VouchersUsed SalesCorporate Sales
+Used SalesPhoto PrintingPhoto GiftsPassport PhotosSensor CleaningGift VouchersCorporate Sales
 
 Bespoke 1-2-1 TrainingCamera CoursesCorporate TrainingOther TrainingPost Production CoursesStudio CoursesWedding CoursesEvents
 
