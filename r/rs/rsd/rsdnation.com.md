@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsdnation.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126030848id_/http%3A//www.rsdnation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsdnation.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601104756id_/http%3A//www.rsdnation.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RSD Nation
 
@@ -69,3 +69,6 @@ We do not sell, rent, or trade your personal information to others under any cir
 If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect and how we use it. We may use information such as e-mail addresses to alert our customers of special promotions that we may be running or to inform you of any news. To update your current preferences for receiving email marketing from us or marketing partners, you may click the "unsubscribe" link at the bottom of any e-mail you receive from a Real Social Dynamics company or email [admin@realsocialdynamics.com](mailto:admin@realsocialdynamics.com).
 
 We will make every reasonable effort to respect your contact wishes. Please be aware that information does flow from a variety of channels that may sometimes cause your opt-out wishes to be delayed. In the event you feel you are contacted and should not have been, please contact us [admin@realsocialdynamics.com](mailto:admin@realsocialdynamics.com).
+
+  
+
