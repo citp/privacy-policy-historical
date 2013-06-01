@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehosting.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003021411id_/http%3A//www.freehosting.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehosting.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601042117id_/http%3A//www.freehosting.com/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy - Free Hosting
 
