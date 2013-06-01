@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebuyer.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214131020id_/http%3A//www.ebuyer.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuyer.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601034429id_/http%3A//www.ebuyer.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Ebuyer.com
 
@@ -6,7 +6,7 @@
 
 Ebuyer (UK) Ltd ("Ebuyer", "us", "we") takes the protection of your online privacy seriously and this Privacy Policy sets out how we use and protect any personal information we obtain from dealings which arise from you using this website. Ebuyer is not responsible for the privacy practices of any websites which may be linked from the Ebuyer website, so please check these separately.
 
-We may change this Privacy Policy from time to time by updating this page so please check our Privacy Policy for any changes when you revisit our website.
+We may change this Privacy Policy from time to time by updating this page so please check our Privacy Policy for any changes when you revisit our website. By using the Ebuyer.com website you are consenting to the use of cookies outlined in this privacy policy.
 
 ### What personal information do we collect?
 
@@ -90,6 +90,8 @@ To learn about how change the cookie settings for your browser please see our 'M
 To make full use of the online shopping and personalised features on Ebuyer your computer, tablet or mobile phone will need to accept cookies, as we can only provide you with certain personalised features of this website by using them.
 
 Our cookies don't store sensitive information such as your name, address or payment details: they simply hold the 'key' that, once you're signed in, is associated with this information. However, if you'd prefer to restrict, block or delete cookies from Ebuyer, or any other website, you can use your browser to do this. Each browser is different, so check the 'Help' menu of your particular browser (or your mobile phone's handset manual) to learn how to change your cookie preferences.
+
+By using the Ebuyer.com website you are consenting to the use of cookies outlined in this privacy policy.
 
 Here's a list of the main cookies we use, and what we use them for. You'll find information about 3rd party cookies on the next tab.
 
