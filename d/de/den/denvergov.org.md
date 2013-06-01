@@ -1,31 +1,52 @@
-> *The following text is extracted and transformed from the denvergov.org privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120013349id_/http%3A//www.denvergov.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denvergov.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601172431id_/http%3A//www.denvergov.org/privacy) for the most accurate reproduction.*
 
-# DenverGov Privacy Policy
+# City and County of Denver Website Privacy and Security Policy
 
-The City and County of Denver is committed to protecting user privacy online. We believe that greater protection of personal privacy on the Web will not only protect users, but also increase user confidence and ultimately their participation in online activities. At www.denvergov.org, we intend to give you as much control as possible over your personal information. The purpose of our policy is to inform you about the types of information we gather when you visit our sites, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. The following is the privacy policy for this site (all pages starting with www.denvergov.org). 
+**1.1   ** **Basic information collected for website measurement (e.g. cookies)**
 
-If you send us an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that E-mails us this information, we will only use the personally identifiable information to respond to your request and analyze trends. We may redirect your message to another government agency or person who is in a better position to answer your question. 
+When a computer is used to access information on DenverGov.org, the following basic information is automatically received and stored by our web servers:
 
-We collect some information that is used for analysis and statistical purposes that help us manage the DenverGov site. 
+  * Your  computer’s Internet protocol address (IP address), which establishes your computer location on the internet and allows other computers, such as those hosting DenverGov.org, to send it content and other information;
+  * The date, time, and duration of a website visit;
+  * If a computer accesses a page on DenverGov.org through a link from an external page not hosted on our site, the URL of that referring page;
+  * Your basic computer information, such as the type and version of web browser, operating system, screen resolution, and connection speed;
+  * The specific pages accessed during a visit on DenverGov.org and the amount of data (measured in number of bytes) transmitted during the visit.
 
-1) **Information that we collect for statistical purposes**  
-We automatically collect electronically generated information about your visit to our site, such as the date, type of browser used, and technical Internet protocol data. We collect this information about each user session from our user logs, and refer to it for statistical purposes. 
 
-2) **Information that you provide us when using our interactive forms and functions**  
-Whether requested or volunteered, any information you submit to the City and County of Denver may be subject to release under the Colorado Open Records Act (CORA). To learn more about CORA, visit <http://www.colorado.gov/dpa/doit/archives/open/10openrec.htm>. This information may include such things as name, address, telephone number, and other personal and business data. 
 
-3) **Opting-out**  
-At any time while assessing our site(s), any user while online may "opt-out" of further E-mail contact from us (while still allowing access to our sites). For further information about opting-out, contact us at the E-mail address, postal address, or telephone number below, under Site Comments. 
+**_1.1.1  City and County of Denver website measurement and analytics_**
 
-4) **Control of personal information**  
-At any time, while assessing our site(s), any user while online may decline participation in any activity that asks for information (i.e. survey or E-mail). Your choice not to participate will in no way affect your ability to use any other feature on our site(s). In online applications that ask for personal information, you also are provided the option of canceling or "clearing all fields" of information and terminating the application. You also may request that E-mail messages you send to agencies represented on DenverGov be deleted from E-mail archives once the communication or transaction is completed. You also are provided an automatic way to "unsubscribe" to any newsletters, notices, schedules, etc., sent to you automatically by E-mail in our Free Subscriptions section. 
+The City and County of Denver uses web measurement technologies to analyze data automatically collected during site visits. We analyze this information in order to provide and optimal user experience on DenverGov.org and to understand how the public is using our website. This is currently done through a third-party analytics provider, Google Analytics, by tracking persistent cookies and session cookies.
 
-5) **Use of cookies**  
-We do not use "persistent" cookies to collect permanent information. (Note: A cookie file contains unique information a Web site can use to track such things as passwords, lists of pages you've visited, and the date when you last looked at a specific page, or to identify your session at a particular Web site. A cookie is often used in commercial sites to identify the items selected for a specific shopping cart application.) 
+Our third-party analytics provider does not receive any personal identifying information to track the browsing of individual users. We do view aggregated analyses prepared by our third-party analytics provider,but these analyses do not include any personally identifiable information.  Please review our third-party analytics provider’s [privacy policy ](http://www.google.com/intl/en/analytics/privacyoverview.html)for additional information about what is collected.
 
-We do use "non-persistent" cookies in applications (like the online job application) that keep track of a user and make it possible for you to complete a form or use a function, but this cookie disappears when you finish filling out an application, or searching a database. 
+  * Session cookies are used for technical reasons to facilitate efficient navigation through the site, for login sessions to remain persistent throughout a visit, and for generating aggregated statistics about how the website is used.
+  * Persistent cookies are used to recognize a computer that has previously visited DenverGov.org, which can improve a user’s experience by maintaining settings, preferences, and storing data so pages load faster. DenverGov.org currently uses the following persistent cookies:  When a visitor views a page, DenverGov.org sets three persistent cookies to measure website metrics such as popular pages and how often people visit the website. These cookies do not collect personal identifying information. We disclose only in aggregate form our statistical analyses or demographics of users to third parties. 
 
-6) **Disclosure to third parties**  
-As a governmental agency, we are governed by open records laws. Any information that we receive through use of our site is subject to the same provisions as information provided on paper. Otherwise, we do not share personal identifying information with any third party without your permission. We disclose only in aggregate form our statistical analyses or demographics of users to third parties. In some instances, we may operate shared Web sites with other organizations. Our privacy policy will apply to these Web sites, and we require those organizations to adhere to our privacy policy, and will not share personal information with any third party without your permission. 
 
-This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless we are legally required to do so in connection with law enforcement investigations or other legal proceedings. 
+
+**_1.2  Third-party website measurement_**
+
+Certain pages on DenverGov.org may include web content from third-parties, such as embedded video, social media feeds, and other externally hosted services. You should consult the privacy policies of these third parties for further information.   
+
+**_1.2.1 How you can control website measurement and customization technologies_**
+
+Visitors can control aspects of website measurement and data collection technologies by choosing to disable “cookies.” 
+
+You can choose not to accept cookies from any website, including DenverGov.org, by changing the settings of your browser. You can also delete cookies stored in your browser at any time.  Visitors who choose to disable these settings will still continue to have access to comparable information on our site.
+
+At any time, while interacting with our site(s) you may decline participation in any activity that asks for information (e.g. surveys, web-based apps, or email notifications). Your choice not to participate will not affect your ability to use other features on DenverGov.org.
+
+**_1.2.2 Personal information voluntarily provided about yourself (e.g. via online web forms, etc.)_**
+
+Personal information submitted voluntarily to us through online web forms, email subscriptions and messages, or through interactive web-based applications will be used to respond to your message and to help us respond to your requests.  The information you submit will remain private; however, as a governmental agency, we are governed by the [Colorado Open Records Act](http://www.sos.state.co.us/pubs/info_center/cora.html). Any information that we receive through use of our site is subject to the same provisions as information provided on paper. We do not sell, rent, exchange, or otherwise disclose information we collect to outside organizations or persons outside the City and County of Denver.
+
+This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless we are legally required to do so in connection with law enforcement investigations or other legal proceedings.
+
+In some instances, we may host content on a third-party website such as Facebook or Twitter. Your activity on those third-party sites is governed by the security and privacy policies of the third party sites.  
+
+**_1.2.3 User Accounts on DenverGov.org_**
+
+Certain web-based applications or features on DenverGov.org may require users to create an account in order to access full functionality or restricted areas of the site. Account creation requires users to provide a valid email address and a first and last name. We use this information to communicate with you and to identify content you create or request with the account. Session cookies are required with users accounts in order to maintain a user's login while interacting with the site.
+
+As a governmental agency, we are governed by the [Colorado Open Records Act](http://www.sos.state.co.us/pubs/info_center/cora.html). Any information that we receive through use of our site is subject to the same provisions as information provided on paper. We do not disclose, sell, rent, or exchange your information or the email address you use to create your account to individuals or organizations outside the City and County of Denver. Some of the information provided to set up a user account such as your zip code, as well as user-generated content (e.g. compilations of public comments posted to the site with the account) may be treated as public information. 
