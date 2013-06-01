@@ -1,117 +1,74 @@
-> *The following text is extracted and transformed from the netdeals.com privacy policy that was archived on 2011-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110329192715id_/http%3A//about.aol.com/aolnetwork/aol_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netdeals.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601090453id_/http%3A//www.patch.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - About AOL
+# Privacy Policy - Patch
 
-[](http://www.truste.org/ivalidate.php?url=www.aol.com&sealid=101)
+Patch Media Corporation ("Patch", "we" or "our"), a wholly-owned subsidiary of AOL Inc., has created this consumer privacy policy statement in order to demonstrate our firm commitment to your privacy. The following discloses our practices regarding information collection and use solely for the web site located at www.patch.com (the "Service"). By using or accessing the Service, you signify your agreement to be bound by our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SERVICE. 
 
-Thank you for registering your Screen Name to obtain enhanced access to the network of Web sites and services offered by AOL Inc. ("AOL"). The AOL Network improves your online experience by offering you access to a variety of features, offerings and content. By registering your Screen Name, you gain access to the AOL Network, which consists of [AOL Enhanced Websites and Services](http://about.aol.com/aolnetwork/aol_enhanced) such as AIM Mail, and other content and offerings from the AOL Network's [affiliated providers](http://about.aol.com/aolnetwork/affiliates) (collectively the "AOL Network" or "Network").
+##  Personal Information and Aggregate Information 
 
-When you register with and use the AOL Network, you provide the AOL Network with personally identifiable information (your "AOL Network information"). This Policy explains the information practices that apply to your AOL Network information, as well as the choices you can make about the ways this information is used by the AOL Network.
+In order to register for the Service, or in connection with other uses of the Service, you may be asked to voluntarily provide us with certain personally identifiable information, such as your name and email address ("Personal Information"). We do not collect Personal Information from you unless you voluntarily provide it to us. 
 
-Registering to use your Screen Name with the AOL Network is optional. This Privacy Policy applies only to information AOL collects about you as a user of the AOL Network. This policy does not apply to information about you collected by the AOL Network's affiliated providers, or third party Web sites and offerings linked to or otherwise accessible from the AOL Network. The information collected or received by the AOL Network's affiliated providers and these third parties is subject to their own privacy policies.
+In addition, we may also collect non-personally identifiable information, such as demographic information, IP address, web pages viewed, referral/exiting pages, browser type, purchasing history, interaction with advertising and other data, and may aggregate any information collected in a manner which does not identify any individual ("Aggregate Information"). 
 
-### Collection of your AOL Network Information
+###  Personal Information You May Voluntarily Provide to Advertisers 
 
-Your AOL Network information consists of personally identifiable information collected or received about you when you interact with the AOL Network's Web sites, services and offerings as a registered user. Depending on how you use the Network, your AOL Network information may include
-
-  * registration-related information (such as name, home or work addresses, e-mail addresses, telephone and fax numbers, birth date or gender);
-  * information about your visits to AOL Network Web sites and pages, and your responses to the offerings and advertisements presented on these Web sites and pages;
-  * information about the searches you perform through the AOL Network and how you use the results of those searches;
-  * information about the AOL Network services or offerings that you use, and how frequently you use them;
-  * information about how long you have used services from AOL, Inc. prior to registering with the Network;
-  * transaction-related information (such as credit card or other preferred means of payment, billing or shipping information, or a history of products purchased through the AOL Network);
-  * customer service information about you as a AOL Network user or subscriber; or
-  * other information specifically related to your use of a particular AOL Network service or offering.
+  * Email addresses submitted through ads on the Patch site will be shared with the advertiser so that they may contact you directly. 
+  * By providing your email address in this advertisement, you may receive promotional emails from the advertiser. 
 
 
 
-Your AOL Network information may be supplemented with additional information from other companies.
+##  Information Usage 
 
-Your AOL Network information may also include certain technical information gathered or received when you use the AOL Network. Some of the technical information that may be collected or received includes: the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows XP or Mac OS), CPU type (e.g. Pentium), your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access); Internet protocol address; information about the version of service from AOL Inc. that you used prior to registering with the Network; other information about your geographic location; and the domain name of your Internet service provider.
+We may use Personal Information to send you newsletters, to process transactions that you have requested, to provide services that you have requested and for other reasons that are disclosed to you prior to such usage. We may permit our contractors to have access to your Personal Information, but only if they are using your Personal Information as described in this policy. 
 
-Your AOL Network information may be collected and stored in the United States. Additionally, the AOL Network will use the Screen Name Service, or similar technologies, to authenticate you on the AOL Network and enable you to take advantage of Network offerings. You can learn more about other benefits of the Screen Name Service, including its ability to facilitate your use of Web sites outside the AOL Network, by visiting [Screen Name Service](http://my.screenname.aol.com/).
+We may use Aggregate Information and/or Personal Information to deliver advertising to you that is customized to your individual behavior or demographic. We may use and share Aggregate Information in many other ways, provided that it will not be disclosed in connection with your Personal Information unless otherwise disclosed in this policy. 
 
-### How Your AOL Network information is Used
+We will never sell your Personal Information to any third party not affiliated with Patch without your consent except in connection with the sale or merger of Patch or the division responsible for such services. 
 
-Your AOL Network information is used
+Please note that we reserve the right to access and/or disclose Personal Information and non-personal information we gather as required by law or to the extent necessary for us to investigate suspected fraud, harassment or other violations of any law, rule or regulation, or the Service rules or policies. 
 
-  * to operate and improve the Web sites, services and offerings available through the AOL Network;
-  * to personalize the content and advertisements provided to you;
-  * to fulfill your requests for products, programs, and services;
-  * to communicate with you and respond to your inquiries;
-  * to conduct research about your use of the AOL Network; and
-  * to help offer you other products, programs, or services that may be of interest.
+Aggregate Information may be shared with any number of parties, provided that such information shall not specifically identify any individuals. 
 
+##  Cookies, Web Beacons, and Similar Technologies 
 
+"Cookies" are pieces of information that may be placed on your computer by a web site for the purpose of facilitating and enhancing your communication and interaction with that web site. Many web sites use cookies for these purposes. We may use cookies (and similar items such as clear gifs, web beacons, tags, etc...) to customize your visit to the Service and for other purposes to make your visit more convenient or to enable us to enhance our service. Cookies and similar items are not used by us to automatically retrieve personal information from your computer without your knowledge. Many websites, including Patch, may also use Flash cookies that operate similarly to browser cookies. 
 
-Your AOL Network information may be shared with the Network's affiliated providers. You have [choices](http://marketingpreferences.aol.com/) about how your AOL Network information is used, and whether affiliated providers receive personally identifiable information about you as an AOL Network user. Affiliated providers that receive your AOL Network information may use this information according to their applicable privacy policies.
+When you use our Service, our business partners and advertisers (including AOL Advertising) may set cookies and similar items on your computer to help deliver more relevant content and advertisements throughout their networks. These companies may use non-personally identifiable information during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit <http://www.networkadvertising.org/managing/opt_out.asp> . 
 
-Your AOL Network information will not be shared with third parties unless it is necessary to fulfill a transaction you have requested, in other circumstances in which you have consented to the sharing of your AOL Network information, or except as described in this Privacy Policy. The AOL Network may use your AOL Network information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers receive aggregate data about groups of AOL Network users, but do not receive information that personally identifies you.
+You can control browser cookies through your browser's settings. You can control Flash cookies via the Macromedia Flash application on your computer, or by going to the Adobe Flash Player website, which allows you to view, modify, and delete Flash cookies. Please note that if you reject all browser or Flash cookies you may not be able to take advantage of many Patch Services. 
 
-If you use AOL Network communications tools to disclose information about yourself publicly (for example, in chat rooms or online message boards made available by the AOL Network), other online users may obtain access to any information you provide. The contents of your online communications, as well as other information about you as an AOL Network user, may be accessed and disclosed in response to legal process (for example, a court order, search warrant or subpoena); in other circumstances in which AOL believes the AOL Network is being used in the commission of a crime; when we have a good faith belief that there is an emergency that poses a threat to the safety of you or another person; or when necessary either to protect the rights or property of AOL, the AOL Network or its affiliated providers, or for us to render the service you have requested.
+##  Security 
 
-The AOL Network may use agents and contractors in order to help operate the Network. If such agents and contractors have access to personally identifiable information, they are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for the AOL Network.
+The security of your Personal Information is very important to us. We attempt to provide for the secure transmission of your information from your computer to our servers by utilizing encryption software. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and Patch or information stored on the Service or our servers, will be free from unauthorized access by third parties such as hackers and your use of the Service demonstrates your assumption of this risk. We have put in place reasonable physical, electronic, and managerial procedures to safeguard the information we collect. Only those employees who need access to your information in order to perform their duties are authorized to have access to your Personal Information. For more information on protecting your privacy, please visit [www.ftc.gov/privacy](http://www.ftc.gov/privacy) . 
 
-In the event that ownership of the AOL Network was to change as a result of a merger, acquisition or transfer to another company, your AOL Network information may be transferred. If such a transfer results in a material change in the use of your AOL Network information, the AOL Network will provide notice about the choices you have to decline to permit such a transfer.
+You should be aware that personally identifiable information which you voluntarily include and transmit online in a posting, comment, public profile or other public forum may be viewed and used by others. We are unable to control such uses of your personally identifiable information, and by using such services you assume the risk that the personally identifiable information provided by you may be viewed and used by third parties. 
 
-### Your Choices About Your AOL Network Information
+##  Protection for Children 
 
-The AOL Network provides you with access to your registration and any billing or shipping information; the ability to edit this information at the [My Account ](http://about.aol.com/aolnetwork/my_account)area; and the ability to deactivate your registration with the AOL Network. Additionally, some AOL Network services (AOL Search, for example) may offer you the ability to control what information is collected or used when you use these services.
+We have no intention of collecting personal information from children under the age of 13. When we become aware that personal information from a child under 13 has been collected without such child’s parent or guardian’s consent, we will use all reasonable efforts to delete such information from our database. 
 
-You can [make choices ](http://marketingpreferences.aol.com/)about how your AOL Network information may be used by the AOL Network to provide marketing offers to you. In order to do so, please visit the [My Account](http://about.aol.com/aolnetwork/my_account) area and review your AOL Network marketing preferences. These preferences do not apply to communications that are directly related to your registration with the AOL Network, or the fulfillment of a specific transaction you have requested (for example, a service advisory from the AOL Network, or an acknowledgment of a purchase order).
+##  Other Web Sites 
 
-You may also choose whether the AOL Network's affiliated providers receive personally identifiable AOL Network information. This choice does not apply to the sharing of AOL Network information necessary to provide you the basic functionality of the Network (for example, recognizing you as an authenticated user on affiliated providers' Web sites or services). Additionally, the AOL Network may share personally identifiable AOL Network information with one or more of its affiliated providers when that information is necessary to carry out a specific transaction or request you make for an offering from the Network or its affiliated providers, or as otherwise specified at the time you take advantage of that particular Network offering.
+As a convenience to you, we may provide links to third-party web sites from within the Service. These may include local government web sites, local merchant web sites, message boards, news web sites and other web sites not controlled by Patch. Patch is not responsible for the privacy practices or content of these third-party sites. When you link away from our Service, you do so at your own risk and should read the policies of such other web sites. 
 
-Because the choices you make in connection with your AOL Network information may not take effect immediately, it is possible you may receive a communication during the period in which your request is being processed.
+##  Communications with Patch 
 
-### Cookies and Web Beacons
+By providing your email address to Patch, you expressly consent to receive emails from us. We may use email to communicate with you, to send information that you have requested or to send information about other products or services developed or provided by us, provided that, we will not give your email address to another party to promote their products or services directly to you. 
 
-The AOL Network may use [cookies, web beacons, or similar technologies ](http://about.aol.com/aolnetwork/beacons)in combination with your AOL Network information to enhance and personalize your experience on the AOL Network, including to operate and improve offerings through the AOL Network; to help authenticate you when you use the AOL Network; to remember your preferences and registration information; to enable a shopping cart; to present and help measure and research the effectiveness of AOL Network offerings, advertisements, and e-mail communications (by determining which Network e-mails you open and act upon); and to customize the content and advertisements provided to you through the AOL Network.
+Any communication or material you transmit to us by email or otherwise, including any data, questions, comments, suggestions, or the like is, and will be treated as, non-confidential and nonproprietary. Except to the extent expressly covered by this policy, anything you transmit or post may be used by us for any purpose, including but not limited to, reproduction, disclosure, transmission, publication, broadcast and posting. Furthermore, you expressly agree that we are free to use any ideas, concepts, know-how, or techniques contained in any communication you send to us without compensation and for any purpose whatsoever, including but not limited to, developing, manufacturing and marketing products and services using such information. 
 
-The AOL Network and its advertisers may also use ad network providers and other service providers, including AOL subsidiaries such as Advertising.com and TACODA, to help present customized content and advertisements on the AOL Network and other Web sites. These providers use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of their content and advertisements, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. The AOL Network may share certain non-personally identifiable information about you as a Network user (such as user age and zip code) with certain ad network and service providers, including Advertising.com and TACODA, to help them deliver more relevant content and advertisements through their networks. The use of cookies, web beacons, or similar technologies by Advertising.com, TACODA, and other content and ad network providers is subject to their own privacy policies, not the AOL Network's. [Click here ](http://about.aol.com/aolnetwork/beacons)to learn more about third party content and ad network providers and the choices you have about these technologies.
+##  Changes to Policy; Opt-Out Process 
 
-### Information for AOL and CompuServe Subscribers
+We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. However, if at any time in the future we plan to use Personal Information in a way that differs from this policy, we will post such changes here and provide you the opportunity to opt-out of such differing uses. Your continued use of the Service following the posting of any changes to this policy means you accept such changes. 
 
-Certain AOL Network offerings may be made available to subscribers of the AOL and CompuServe online services, without requiring these subscribers to register with the AOL Network.
+To unsubscribe or opt out of any service, you should edit your user profile. You may also send unsubscribe or opt-out requests to us at unsubscribe@patch.com and we will process your request within a reasonable time after receipt. We are not responsible for removing your personal information from the lists of any third party who has previously been provided your information in accordance with this policy, such as a business partner. 
 
-### Personal Financial Information
+##  Terms of Use 
 
-The following notice explains the AOL Network's practices with respect to the use of personal financial information, such as AOL Network portfolios ("AOL Network financial features"). By using AOL Network financial features, you agree to receive future notices required under the Gramm-Leach-Bliley Act through the continuous posting of this Privacy Policy online.
+Use of the Service, and this Privacy Policy, is subject to our [Terms of Use](http://www.patch.com/terms). 
 
-To use the portfolio feature on the AOL Network, for example, you specify the types of stocks and funds you wish to monitor, the names of the particular stocks of interest to you, and their purchase price ("portfolio information"). To give you updated information when you use these features, AOL Network servers automatically collect and store the portfolio information that you provide. Similarly, if you use a Wallet service to facilitate transactions on third party sites, you provide the AOL Network with information including your name, credit card, and shipping addresses ("wallet information").
+**Contact:** For questions or concerns relating to privacy, we can be contacted at: [privacy@patch.com](mailto:privacy@patch.com). 
 
-The AOL Network does not disclose portfolio or wallet information to unaffiliated third parties other than in the limited circumstances permitted by law (for example, in response to legal process), or when you ask us to disclose the information (for example, when you request that the Network share wallet information in order to facilitate a purchase on a third party web site). Nor does the AOL Network share information about the specific types of stocks and funds in your portfolio with the Network's affiliated providers. Any sharing of portfolio or wallet information with the Network's affiliated providers is also subject to your [choices](http://marketingpreferences.aol.com/).This policy does not apply, however, to financial information that you provide to an affiliated provider or a third party in connection with your use of their sites or offerings.
+**United States of America:** Our Service is maintained in the United States of America. By using the Service, you freely and specifically give us your consent to export your Personal Information to the USA and to store and use it in the USA as specified in this policy. 
 
-If you click through a banner advertisement on the portfolio or wallet features, and identify yourself to the advertiser (for example, by placing an order), the advertiser may be able to tell that you use that feature. No portfolio or wallet information is shared with the advertiser unless you request it.
-
-Only employees and contractors who need to know this information in order to provide this service to you are authorized to access portfolio or wallet information.
-
-### Our Commitment to Security
-
-The AOL Network has established safeguards to help prevent unauthorized access to or misuse of your AOL Network information, but cannot guarantee that your personally identifiable information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or the policies of the Network and its affiliated providers). To protect your privacy and security, the AOL Network uses passwords to help verify your identity before granting access or making corrections to any of your AOL Network information.
-
-### Special Note for Parents
-
-The AOL Network is intended for a general audience, and children under the age of thirteen are not permitted to register with the AOL Network. If any of the AOL Network's affiliated providers offers a site directed toward children, or knowingly collects information from children, that affiliated provider is required to provide you information about its practices for the handling of children's online data through its privacy policy.
-
-### How to Contact Us
-
-If you have any questions or concerns about the AOL Network's Privacy Policy or its implementation, you may contact us at this email address:
-
-privacyquestions@aol.com
-
-### Changes to this Privacy Policy and Additional Information
-
-The AOL Network may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to the AOL Network's information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from the AOL Network, as well as for special features and services not described in this Policy that may be introduced in the future.
-
-Your California Privacy Rights: California privacy law allows California residents to obtain specific disclosures about a business's privacy practices if it shares information with other companies for direct marketing purposes. To make a request to the AOL Network under California's privacy law, please send an e-mail to: CAPrivacyInfoAN@aol.com.
-
-European Union Residents: AOL adheres to the EU-US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce's Safe Harbor Program](http://www.export.gov/safeharbor/). Click [here](http://about.aol.com/aolnetwork/safe_harbor) for more details.
-
-### TRUSTe
-
-The AOL Network is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact us at **PrivacyQuestions@aol.com**. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
-Last Updated 07-13-2009
+**Effective Date:** July 10, 2012 
