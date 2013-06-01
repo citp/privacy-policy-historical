@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the companieshouse.gov.uk privacy policy that was archived on 2012-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121101024920id_/http%3A//www.companieshouse.gov.uk/legal/termsAndConditions.shtml%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the companieshouse.gov.uk privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601052348id_/http%3A//companieshouse.gov.uk/legal/termsAndConditions.shtml%23privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 <title>Terms and Conditions</title>
@@ -16,7 +16,7 @@
 <meta name="date-source-created" content="">
 <meta name="date-source-modified" content="">
 <meta name="date-html-created" content="">
-<meta name="date-html-modified" content="11/09/2012">
+<meta name="date-html-modified" content="01/05/2013">
 <meta name="status" content="">
  
 <meta name="accessibility" scheme="WCAG10" content="Double-A">
@@ -93,6 +93,18 @@ a span.shareEmail {
 <link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
 
 
+
+<!--[if lt IE 9 ]>
+<style type="text/css">
+.anythingSlider-default .anythingControls ul {
+	margin-top: 0 !important;
+}
+.anythingSlider-default .anythingControls ul a {
+	margin-bottom: 9px !important;
+}
+</style>
+<![endif]-->
+
 <!--[if lt IE 8]>
 <style type="text/css">
 #sub-panel a {
@@ -117,6 +129,15 @@ a span.shareEmail {
 	top:30px;
 	left:3px;
 }
+
+.landingPage a {
+	padding-right: 45px;
+    width:243px;
+}
+ul.contactNav {
+    display:block;
+	clear:both;
+}
 </style>
 <![endif]-->
 
@@ -138,24 +159,20 @@ a span.shareEmail {
 	padding:2px 10px 2px 10px;
 }
 .searchButton2012:hover, .searchButton2012:focus  {
-
 }
 </style>
 <![endif]-->
 
 
 <!-- End of inc/css2012.html -->
-<style type="text/css">
-.GBBoxes {padding:5px;}
-</style>
 </head>
 
 <body>
 <!-- Start of /inc/header2012.html -->
-
+<a name="top" id="top"></a>
 <div class="container_16">
 
-  <div class="grid_3">
+  <div class="grid_3" role="banner">
   <a href="/index.shtml"><img src="/images/main_logo.jpg" alt="Companies House - back to home page" id="headerLogo"></a></div>
   <h1 class="hidden">Companies House</h1>
   <!-- end .grid_3 -->
@@ -182,14 +199,14 @@ a span.shareEmail {
          <!-- Start of search -->       
       	<div id="search">
        
-        <form action="/htsearch.cgi" method="get" class="formsearch">
+        <form action="/htsearch.cgi" method="get" class="formsearch" role="search">
 		<input type="hidden" name="config" value="htdig">
 		<input type="hidden" name="restrict" value="">
 		<input type="hidden" name="exclude" value=""> 
         <label class="hide" for="words">Search</label>
      	<input name="words" type="text" value="" id="words" class="ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
         
-        <input type="submit" name="Submit" value="Search" class="searchButton2012">
+        <input type="submit" name="Submit" value="Search" class="searchButton2012 ">
         </form>
         </div><!--End of end of div id="search"-->
       	<!-- End of search -->
@@ -201,18 +218,18 @@ a span.shareEmail {
 <!--start of tabbed navigation section-->
 
   <div class="grid_16">
-      	<ul id="navigation" class="engNav">
-            <li><a href="/index.shtml" title="Home">Home</a></li>
-        	<li><a href="/toolsToHelp/fileInformation.shtml" title="File Information">File Information</a></li>
-            <li><a href="/toolsToHelp/findCompanyInfo.shtml" title="Find Information">Find Information</a></li>
-            <li><a href="/infoAndGuide/companyRegistration.shtml" title="Start A Company">Start a Company</a></li>
-            <li><a href="/infoAndGuide/windingUpCompany.shtml" title="Close A Company">Close a Company</a></li>
-	        <li><a href="/forms/introduction.shtml" title="Forms">Forms</a></li>
-            <li><a href="/about/guidance.shtml" title="Guidance">Guidance</a></li>
-            <li><a href="/about/functionsHistory.shtml" title="About Us">About Us</a></li>
-            <li><a href="/toolsToHelp/ourServices.shtml" title="Our Services">Our Services</a></li>
-            <li><a href="/contact/index.shtml" title="Contact Us">Contact Us</a></li>
-            <li><a href="/infoAndGuide/faq/topFAQs.shtml" title="Frequently Asked Questions">FAQs</a></li>
+      	<ul id="navigation" class="engNav" role="navigation">
+            <li id="homeTab"><a href="/index.shtml" title="Home">Home</a></li>
+        	<li id="fileTab"><a href="/toolsToHelp/fileInformation.shtml" title="File Information">File Information</a></li>
+            <li id="findTab"><a href="/toolsToHelp/findCompanyInfo.shtml" title="Find Information">Find Information</a></li>
+            <li id="startTab"><a href="/infoAndGuide/companyRegistration.shtml" title="Start A Company">Start a Company</a></li>
+            <li id="closeTab"><a href="/infoAndGuide/windingUpCompany.shtml" title="Close A Company">Close a Company</a></li>
+	        <li id="formsTab"><a href="/forms/introduction.shtml" title="Forms">Forms</a></li>
+            <li id="guidanceTab"><a href="/about/guidance.shtml" title="Guidance">Guidance</a></li>
+            <li id="aboutTab"><a href="/about/functionsHistory.shtml" title="About Us">About Us</a></li>
+            <li id="servicesTab"><a href="/toolsToHelp/ourServices.shtml" title="Our Services">Our Services</a></li>
+            <li id="contactTab"><a href="/contact/index.shtml" title="Contact Us">Contact Us</a></li>
+            <li id="faqTab"><a href="/infoAndGuide/faq/topFAQs.shtml" title="Frequently Asked Questions">FAQs</a></li>
  
         </ul><!--End of end of ul id="navigation"-->
   </div> <!-- end .grid_16 -->
@@ -247,36 +264,37 @@ a span.shareEmail {
 <td colspan="2" align="left" valign="top" class="bluemidtext">
 <!-- Content-Start title="Terms and Conditions" -->
 <h2>Terms and Conditions</h2>
-  <ul>
-	<li><a href="#disclaimer">Disclaimer</a></li>
-	<li><a href="#privacy">Privacy and Cookies Statement</a></li>
-	<li><a href="#acceptable">Acceptable Use Statement</a> </li>
-	<li><a href="#HMRC">Information collected on behalf of HMRC</a> </li>
-  	<li><a href="#personal">Personal information</a> </li>
-	<li><a href="mobile-app.shtml">Companies House Mobile Application</a> </li>
-</ul>
 
-<p class="GBBoxes"><strong><a name="disclaimer"></a>Disclaimer</strong></p>
+<a class="accordion-expand-all hidden" href="#">Show all</a>
+
+<div id="accordion">
+
+<h3>Disclaimer</h3>
+<div class="content">
  <p>The information available on this site is not intended to be comprehensive, and many details which may be relevant to particular circumstances have been omitted. Accordingly it should not be regarded as being a complete source of company law and information, and readers are advised to seek independent professional advice before acting on anything contained herein. Companies House cannot take any responsibility for the consequences of errors or omissions. </p>
  <p>        <strong>Notes for Users of Company Search or Disqualified Directors Search </strong></p>
  <p>      The information available here is an extract from the Register of Companies / Register of Disqualified Directors which are updated on a regular basis. This may mean that occasional inaccuracies occur which we correct as soon as they are drawn to our attention. If you spot something which you think might be wrong, let us know so we can, if necessary, correct the database. </p>
  <p>        <strong><a name="compInfo"></a>Company Information Supplied by Companies House </strong></p>
  <p>Companies House is a registry of company information. We carry out basic checks to make sure that documents have been fully completed and signed, but we do not have the statutory power or capability to verify the accuracy of the information that companies send to us. We accept all information that companies deliver to us in good faith and place it on the public record. The fact that the information has been placed on the public record should not be taken to indicate that Companies House has verified or validated it in any way. </p>
- <p>When Companies House examines accounts it only make basic checks on them, for example to ensure that the appropriate documents are there, that they are for the correct financial year and that they have been signed. If, subsequently, we receive a complaint that the accounts do not comply with the Companies Acts in some way we have a duty to draw this to the company’s attention and, if appropriate, to ask for a set of revised accounts which do comply with the requirements. </p>
+ <p>When Companies House examines accounts it only makes basic checks on them, for example to ensure that the appropriate documents are there, that they are for the correct financial year and that they have been signed. If, subsequently, we receive a complaint that the accounts do not comply with the Companies Acts in some way we have a duty to draw this to the company’s attention and, if appropriate, to ask for a set of revised accounts which do comply with the requirements. </p>
  <p><strong>Links to external websites </strong></p>
  <p>   It is our policy to obtain permission to link to other websites. We are not responsible for the content or reliability of the linked websites. Listing should not be taken as endorsement of any kind. We cannot guarantee that these links will work all of the time and we have no control over the availability of linked pages.</p>
- 
-<a href="#" title="back to top" class="backToTop">back to top</a>
+ </div><!--End of div class="content"-->  
 
-<p class="GBBoxes"><strong><a name="privacy"></a>Privacy and Cookies</strong></p>
 
+<h3>Privacy and Cookies</h3>
+<div class="content">
 <p><a href="cookies.shtml">Our cookie policy</a></p>
+</div><!--End of div class="content"-->  
 
-<p class="GBBoxes"><a name="HRMC"></a><strong>Information collected on behalf of HMRC</strong> </p>
+
+<h3>Information collected on behalf of HMRC</h3>
+<div class="content">
 <p>  Companies House through the Joint Registration Service will act as agents for HMRC and provide an optional service whereby when a person registers a new company, a facility will be offered so that person can also register the company for Corporation Tax.&nbsp; Once incorporation at Companies House has been accepted the Corporation Tax information will be sent to HMRC and will not be retained by Companies House.</p>
+</div><!--End of div class="content"-->  
 
-
-<p class="GBBoxes"><a name="personal"></a><strong>Personal information</strong></p>
+<h3>Personal information</h3>
+<div class="content">
  <p>The Companies House Executive Agency website does not store or capture personal information, but merely logs the user's IP address (Internet Protocol: standard allowing data to be transmitted between two devices) which is automatically recognised by the web server. </p>
  <p>   If you register to receive updates, or order or purchase materials, your information will be held on a secure server and the data will not be shared with any organisations outside Government. It will be used only to provide you with any electronic products you have ordered, email updates on the topics you have requested, or postal information if you request that service. If you respond online to a consultation exercise your data will only be used to facilitate the analysis of responses. </p>
  
@@ -285,24 +303,27 @@ a span.shareEmail {
 
  <p>Companies House Executive Agency may use information it holds to prevent and detect fraud. We may also share such information, for the same purpose, with other organisations that handle public funds. </p>
  <p> If you have any queries please contact the Companies House Contact Centre on +44 (0)303 1234 500 or email <a href="mailto:enquiries@companies-house.gov.uk">enquiries@companies-house.gov.uk</a> </p>
-<a href="#" title="back to top" class="backToTop">back to top</a>
+</div><!--End of div class="content"-->
 
- <p class="GBBoxes"><strong><a name="acceptable"></a>Acceptable use of Companies House Searchable Databases</strong></p>
+<h3>Acceptable use of Companies House Searchable Databases</h3>
+<div class="content">
 <p>The Companies House searchable databases are designed to meet the needs of a wide range of users wishing to interrogate our information on-line. </p>
 <p> Due to limitations of equipment and bandwidth, they are not intended to be a source for bulk downloads. </p>
 <p> Individuals, companies, IP addresses or blocks of IP addresses who deny or degrade service to other users by generating unusually high numbers of daily database accesses, whether generated manually or in an automated fashion, may be denied access to these services without notice.</p>
+</div><!--End of div class="content"-->  
 
-
-<p class="GBBoxes"><strong><a name="mobile"></a>Companies House Mobile Application</strong></p>
-
+<h3>Companies House Mobile Application</h3>
+<div class="content">
 <p><a href="mobile-app.shtml">Companies House Mobile Application</a></p>
-        	<a href="#" title="back to top" class="backToTop">back to top</a>
+</div><!--End of div class="content"-->  
 
+</div><!--End of div id="accordion"--> 
   <!-- Content-End -->
   
 </td>
 </tr>
-</tbody></table><!-- START /inc/footer2012.html -->
+</tbody></table>
+<!-- START /inc/footer2012.html -->
 
 <div class="container_16">
 
@@ -312,16 +333,15 @@ a span.shareEmail {
    	<div class="grid_4">
     <ul>
     	<li><a href="/infoAndGuide/glossary.shtml">Glossary</a></li>
-    	<!--<li><a href="/sitemap.shtml">Site Map</a></li>-->
+    	<li><a href="/about/statisticsAndSurveys.shtml">Statistics</a></li>
     	<li><a href="/pressDesk/introduction.shtml">Press Desk</a></li>
-       	<li><a href="/infoAndGuide/index.shtml">Help</a></li>
     </ul>
   </div> <!-- end .grid_4 -->
     <div class="grid_4">
     <ul>
         <li><a href="/legal/termsAndConditions.shtml#privacy">Privacy and Cookies</a></li>
         <li><a href="/legal/termsAndConditions.shtml#disclaimer">Disclaimer</a></li>
-        <li><a href="/legal/crown.shtml">Crown Copyright © 2012</a></li>    	
+        <li><a href="/legal/crown.shtml" role="contentinfo">Crown Copyright © 2013</a></li>    	
         <li><a href="/legal/termsAndConditions.shtml">Terms and Conditions</a></li> 
     </ul>
   </div>  <!-- end .grid_4 -->
@@ -333,6 +353,7 @@ a span.shareEmail {
     	<li><a href="http://webarchive.nationalarchives.gov.uk/*/http://www.companieshouse.gov.uk">Companies House Web Archive</a></li>
 		<li><a href="/freedomInformation/freedomInfo.shtml">Information Rights</a></li>
 		<li><a href="/links/introduction.shtml">Links</a></li>
+        <li><a href="/infoAndGuide/index.shtml">Help</a></li>
 	</ul>
   </div>  <!-- end .grid_4 -->
   
@@ -343,10 +364,9 @@ a span.shareEmail {
 	    <li><a href="/rss/latestnews.xml" class="footerRSS" title="Subscribe to the Companies House News RSS feed">Subscribe to the Companies House News RSS feed</a></li>	
         <li><a href="http://www.youtube.com/TheCompaniesHouse" class="footerYouTube" title="Companies House YouTube Channel">Companies House YouTube Channel</a></li>	
         <li><a href="http://www.twitter.com/CompaniesHouse" class="footerTwitter" title="Companies House on Twitter">Companies House on Twitter</a></li>
-		<li><a href="http://www.linkedin.com/company/companies-house/products?trk=tabs_biz_product" class="footerLinkedIn" title="Companies House on LinkedIn">Companies House on LinkedIn</a></li>	
+		<li><a href="http://www.linkedin.com/company/companies-house/products?trk=tabs_biz_product" class="footerLinkedIn" title="Companies House on LinkedIn">Companies House on LinkedIn</a></li>
 		<li><a href="http://www.facebook.com/CompaniesHouse" class="footerFacebook" title="Companies House Facebook Page">Companies House Facebook Page</a></li>
-	<!--	<li><a href="#"class="footerGooglePlus" title="Companies House Google Plus"></a></li>-->
-        </ul>
+   	</ul>
 	</div><!-- end div class="footerSocialIcons" -->
   	</div>  <!-- end .grid_4 -->
   
@@ -357,7 +377,8 @@ a span.shareEmail {
         <li><a href="/promo/cics/" class="cics">Community Interest Companies</a></li>
         <li><a href="/about/ifts.shtml" class="ifts">Information Fair Trader Scheme</a></li>
         <li><a href="/promo/bis/" class="bis">UK Department for Business, Innovation and Skills</a></li>
-        <li><a href="/promo/start/" class="start">StartUp Britain</a></li>				
+        <li><a href="/promo/start/" class="start">StartUp Britain</a></li>	
+        <li><a href="/promo/govuk/" class="govuk">GOV.UK</a></li>					
         
 	</ul>  
     </div><!-- end div class="promoIcons" -->
@@ -414,12 +435,61 @@ a span.shareEmail {
             $('.cn_content').css('position', 'absolute');
         });
         </script>
+        
+        
+        
+        <script type="text/javascript">  // back to top link
+//plugin
+jQuery.fn.topLink = function(settings) {
+  settings = jQuery.extend({
+    min: 1,
+    fadeSpeed: 200
+  }, settings);
+  return this.each(function() {
+    //listen for scroll
+    var el = $(this);
+    el.hide(); //in case the user forgot
+    $(window).scroll(function() {
+      if($(window).scrollTop() >= settings.min)
+      {
+        el.fadeIn(settings.fadeSpeed);
+      }
+      else
+      {
+        el.fadeOut(settings.fadeSpeed);
+      }
+    });
+  });
+};
+
+//usage w/ smoothscroll
+$(document).ready(function() {  // back to top link
+  //set the link
+  $('#top-link').topLink({
+    min: 400,
+    fadeSpeed: 500
+  });
+//smoothscroll
+      $('#top-link').click(function(e) {
+        e.preventDefault();
+        $('body,html').animate({scrollTop:0},800);
+      });
+});
+</script>
+        
+        
+
+
+
+<a href="#top" id="top-link" style="display: none;">Back to top</a>
     
 
 
 <!--End of Javascript/jQuery-->
 <!-- END /inc/footer2012.html -->
 
+<script src="/js/jquery.collapse.js" type="text/javascript"></script>
+<script src="/js/jquery.collapse.CH.js" type="text/javascript"></script>
 <!-- Start Piwik Tracking Code -->
 <script type="text/javascript">
 var pkBaseURL = (("https:" == document.location.protocol) ? "https://stats.companieshouse.gov.uk/piwik/" : "http://stats.companieshouse.gov.uk/piwik/");
@@ -430,7 +500,7 @@ try {
     piwikTracker.trackPageView();
     piwikTracker.enableLinkTracking();
 } catch( err ) {}
-</script><noscript><p><img src="http://stats.companieshouse.gov.uk/piwik/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+</script><noscript><p><img src="http://stats.companieshouse.gov.uk/piwik/piwik.php?idsite=1" style="border:0" alt=""></p></noscript>
 <!-- End Piwik Tracking Code -->
 <!-- START /inc/cookieInfo.html -->
 
