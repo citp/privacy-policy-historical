@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seolinkrobot.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215003918id_/http%3A//seolinkrobot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seolinkrobot.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601185208id_/http%3A//seolinkrobot.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | What Happening in Online Marketing - Reviews
 
