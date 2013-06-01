@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204081448id_/http%3A//www.fxsound.com/company/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601052529id_/http%3A//www.fxsound.com/company/legal/privacy.php) for the most accurate reproduction.*
 
 # FXsound.com Privacy Statement
 
