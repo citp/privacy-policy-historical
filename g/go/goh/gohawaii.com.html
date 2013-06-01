@@ -1,19 +1,23 @@
-<!--The following is the downloaded HTML source of the gohawaii.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230013006id_/http%3A//www.gohawaii.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gohawaii.com privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601114206id_/http%3A//www.gohawaii.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Privacy Policy | GoHawaii.com</title>
 <meta name="description" content="This Privacy Policy explains what personal information we collect, what we do with it, what we don't do with it, and how we keep it safe.">
 <meta name="keywords" content="HVCB, Privacy Policy">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="">
-<meta content="http://gohawaii.com/privacy-policy" property="og:url">
 <meta property="og:title" content="Privacy Policy">
+<meta property="og:type" content="article">
+<meta content="http://www.gohawaii.com/privacy-policy" property="og:url">
+<meta property="og:image" content="http://www.gohawaii.com/images/public/hvcb/opengraph/hawaii.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="215">
+<meta property="og:image:height" content="215">
 <meta property="og:description" content="This Privacy Policy explains what personal information we collect, what we do with it, what we don't do with it, and how we keep it safe.">
-<meta content="article" property="og:type">
-<meta property="og:image" content="http://gohawaii.com/images/public/hvcb/TIO_Hawaii-Brushstroke Logo_rgb.jpg">
-<meta content="Hawaii's Official Tourism Site" property="og:site_name">
+<meta property="og:site_name" content="Hawaii's Official Tourism Site">
+<link rel="image_src" href="http://www.gohawaii.com/images/public/hvcb/opengraph/hawaii.png">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script><script type="text/javascript" src="./template_resources/js/hvcb/jquery-ui.min.js"></script><script type="text/javascript" src="./template_resources/js/modernizr-2.5.3.min.js"></script><script type="text/javascript" src="./template_resources/js/hvcb/application.js"></script><script type="text/javascript">
         jQuery.noConflict();
@@ -231,7 +235,7 @@
     </script><script type="text/javascript">
     
       // Utilities
-    
+      
       function startsWith(a, b) {
         return a.indexOf(b) === 0;
       };
@@ -255,22 +259,16 @@
         return true;
       };
       
-      function either(arr) {
-        for (var i=0, l=arr.length ; i < l ; i++) {
-          if (arr[i]) { return true; }
-        }
-        return false;
-      };
-      
       // Setup
-    
+      
       var referrer = document.referrer;
       var currentlocation = window.location.toString();
-      var mobileUrl = 'http://m.gohawaii.com';
+      var mobileUrl = 'http://m.gohawaii.com' + window.location.pathname;
       var locale = SiteVars.currentLocale;
       var userAgent = navigator.userAgent.toLowerCase();
       var userAgentMatch = userAgent.match(/(iPhone|iPod|blackberry|android|htc|lg|midp|mmp|nokia|opera mini|palm|pocket|psp|sgh|symbian|treo mini|Playstation Portable|SonyEricsson|Samsung|MobileExplorer|PalmSource|Benq|Windows Phone|Windows Mobile|IEMobile|Windows CE|Nintendo Wii)/i);
       
+      /* Exceptions */
       var rejectedUrlTests = [
         startsWith(referrer, 'http://admin.gohawaii.com'),
         startsWith(referrer, 'http://www.gohawaii.com'),
@@ -278,13 +276,11 @@
         startsWith(referrer, 'http://media.gohawaii.com'),
         startsWith(referrer, 'http://media-admin.gohawaii.com'),
         startsWith(currentlocation, 'http://media.gohawaii.com'),
-        startsWith(currentlocation, 'http://media-admin.gohawaii.com'),
-        startsWith(currentlocation, 'http://admin.gohawaii.com/statewide/special-alert1'),
-        startsWith(currentlocation, 'http://www.gohawaii.com/statewide/special-alert1')
+        startsWith(currentlocation, 'http://media-admin.gohawaii.com')
       ];
       
       var tabletTests = [
-        userAgent.match(/iPad/i), // iPad
+        userAgent.match(/ipad/i), // iPad
         userAgent.match(/android/i) && !userAgent.match(/mobile/i) // Android Tablet (See http://googlewebmastercentral.blogspot.ca/2011/03/mo-better-to-also-detect-mobile-user.html)
       ];
       
@@ -293,47 +289,19 @@
       ];
       
       var isMobile = userAgentMatch && none(tabletTests);
-      var isTablet = tabletTests;
       
       var itShouldRedirect = isMobile && all(acceptedLocaleTests) && none(rejectedUrlTests);
-
+      
       // Redirection
       
-      // Add Island slug to url 
-      if (SiteVars.islandId != 'statewide') {
-        var mobileUrl = mobileUrl + '/' + SiteVars.islandId;
-      }
-      
-      // Check for special-offers page
-      var isSpecialOffer = endsWith(currentlocation, '/special-offers'); 
-      var isGolfPage = endsWith(currentlocation, '/statewide/discover/essential-hawaii/golf'); 
-      var isFarmPage = endsWith(currentlocation, '/statewide/guidebook/farm-to-table'); 
-      
-      if (isSpecialOffer) {
-        var mobileUrl = mobileUrl + '/special-offers'; 
-        } else if (SiteVars.islandId != 'statewide') { 
-        // Otherwise continue to mobile island page. for example: /kauai/about
-        var mobileUrl = mobileUrl + '/about';
-      }  
+      console.log(mobileUrl);
       
       if (itShouldRedirect) {
         window.location = mobileUrl;
       }
-      
-      // Exception case, redirect this golf page on tablet
-      if (isGolfPage && all(acceptedLocaleTests) && (isMobile||either(tabletTests))) {
-        var mobileUrl = mobileUrl + '/statewide/discover/essential-hawaii/golf';
-        window.location = mobileUrl;
-      }  
-      
-      // Exception case, redirect farm to table pages
-      if (isFarmPage && all(acceptedLocaleTests) && (isMobile)) {
-        var mobileUrl = mobileUrl + '/statewide/guidebook/farm-to-table';
-        window.location = mobileUrl;
-      }  
     </script><script type="text/javascript" src="./template_resources/js/BrowserDetect.js"></script><script type="text/javascript" src="./template_resources/js/analytics-scripts.js"></script><script type="text/javascript">
           var GMapKey = '';
-        </script><script type="text/javascript" src="./template_resources/js/map-scripts.js"></script><script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=" type="text/javascript"></script><script type="text/javascript" src="./template_resources/js/module.js"></script><script type="text/javascript" src="./template_resources/js/search.js"></script><script type="text/javascript" src="./template_resources/js/ajax-history.js"></script><script type="text/javascript" src="./template_resources/js/myhawaii.js"></script><script type="text/javascript" src="./template_resources/js/Cookie.js"></script><script type="text/javascript" src="./template_resources/js/whereyouvebeen.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script><script type="text/javascript" src="./template_resources/js/print.js"></script><script type="text/javascript" src="./template_resources/js/gigyashare.js"></script><script type="text/javascript" language="javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js"></script><script language="JavaScript" type="text/javascript" src="./template_resources/js/lightbox.js"></script><script language="JavaScript" type="text/javascript" src="./template_resources/js/carousel2.js"></script><script language="JavaScript" type="text/javascript" src="./template_resources/js/carousel.js"></script><script language="javascript" src="./template_resources/js/feeds/events.js"></script>
+        </script><script type="text/javascript" src="./template_resources/js/map-scripts.js"></script><script type="text/javascript" src="./template_resources/js/module.js"></script><script type="text/javascript" src="./template_resources/js/search.js"></script><script type="text/javascript" src="./template_resources/js/ajax-history.js"></script><script type="text/javascript" src="./template_resources/js/myhawaii.js"></script><script type="text/javascript" src="./template_resources/js/Cookie.js"></script><script type="text/javascript" src="./template_resources/js/whereyouvebeen.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script><script type="text/javascript" src="./template_resources/js/print.js"></script><script type="text/javascript" src="./template_resources/js/gigyashare.js"></script><script type="text/javascript" language="javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js"></script><script language="JavaScript" type="text/javascript" src="./template_resources/js/lightbox.js"></script><script language="JavaScript" type="text/javascript" src="./template_resources/js/carousel2.js"></script><script language="JavaScript" type="text/javascript" src="./template_resources/js/carousel.js"></script><script language="javascript" src="./template_resources/js/feeds/events.js"></script>
 <!--[if lte IE 7]>
              <link rel="stylesheet" type="text/css" href="./template_resources/css/hvcb/alliefix.css" />   
           <![endif]-->
@@ -616,53 +584,70 @@
 </div>
 <h1>Privacy Policy</h1>
 <img width="530" height="3" class="dblSeperator" alt="Double Lines" src="/template_images/hvcb/double-lines-530px.gif"><div class="callout-section"></div>
+<p>The Hawaii Tourism Authority ("HTA") knows that you value your privacy. That is why we want to make certain that you understand our policies and practices regarding your personal information. This Privacy Policy explains&nbsp;the type of&nbsp;personal information we collect, what we do with it, what we don't do with it, and how we keep it safe. By visiting this website, you are accepting the practices described in this Privacy Policy.</p>
 <p>
-<span>The Hawaii Visitors &amp; Convention Bureau ("HVCB") knows that you value your privacy. That's why we want to make certain that you understand our policies and practices regarding your personal information. This Privacy Policy explains what personal information we collect, what we do with it, what we don't do with it, and how we keep it safe. By visiting this website, you are accepting the practices described in this Privacy Policy.</span>
+<strong class=""><span>I. Who Does This Privacy Policy Apply To?</span></strong> <span>
+<br>This Privacy Policy applies to the conduct of HTA, and those independent contractors who operate portions of this website on HTA's behalf, insofar as their conduct relates to this website. When we use the terms "website" or "this website", we mean those webpages and website described and defined in the Terms and Conditions of Use.<br>&nbsp;<br>This Privacy Policy does not apply to the practices of companies that HTA does not own or control, or to people that HTA does not employ or manage. Third party websites that you connect to through this website are not under HTA's control and are subject to their own privacy policies rather than this Privacy Policy. For more information about linking to third party websites through this website, please see the Terms and Conditions of Use.</span>
 </p>
 <p>
-<strong class=""><span>I. Who Does This Privacy Policy Apply To?</span></strong><span>This Privacy Policy applies to the conduct of HVCB, and those independent contractors who operate portions of this website on HVCB's behalf, as their conduct relates to this website. When we use the terms website or this website, we mean those webpages and website described and defined in the Terms and Conditions of Use.</span><span>&nbsp;</span><span>This Privacy Policy does not apply to the practices of companies that HVCB does not own or control, or to people that HVCB does not employ or manage. Third party websites that you connect to through this website are not under HVCB's control and are subject to their own privacy policies rather than this Privacy Policy. For more information about linking to third party websites through this website, please see the Terms and Conditions of Use.</span><span>&nbsp;</span>
+<strong class=""><span>II. What Information Does HTA Collect?<br>
+</span></strong><span>In order to serve you better, it is necessary for HTA to collect certain information. The type of information that HTA collects depends on what you do when you visit our website.</span><span>&nbsp;</span>
 </p>
 <p>
-<strong class=""><span>II. What Information Does HVCB Collect?</span></strong><span>In order to serve you better, it is necessary for HVCB to collect certain information. The type of information that HVCB collects depends on what you do when you visit our website.</span><span>&nbsp;</span>
+<strong class=""><span>A. Information That You Provide to Us<br>
+</span></strong><span>In order for us to create your personalised "My Hawaii" website and/or to send you a holiday planner in response to your "Info Request", you will need to provide us with some personal information about yourself. The information that we collect includes: (1) your name; (2) your postal address; (3) your telephone number; (4) your e-mail address; (5) how you heard about our website; (6) how many times you have visited Hawaii; (7) when you plan to visit Hawaii next; (8) your reason for visiting Hawaii; (9) the islands you plan to visit; (10) the activities that interest you; (11) your age; (12) who will be travelling with you; (13) whether you have made reservations for your trip to Hawaii; and (14) whether you would like to receive destination updates and information about Hawaii via e-mail.</span>
 </p>
 <p>
-<strong class=""><span>A. Information That You Provide to Us</span></strong><span>In order for us to create your personalized "My Hawaii" website and/or to send you a vacation planner in response to your "Info Request", you will need to provide us with some personal information about yourself. The information that we collect includes: (1) your name; (2) your postal address; (3) your telephone number; (4) your e-mail address; (5) how you heard about our website; (6) how many times you have visited Hawaii; (7) when you plan to visit Hawaii next; (8) your reason for visiting Hawaii; (9) the islands you plan to visit; (10) the activities that interest you; (11) your age; (12) who will be traveling with you; (13) whether you have made reservations for your trip to Hawaii; and (14) whether you would like to receive destination updates and information about Hawaii via e-mail.</span><span>&nbsp;</span>
+<strong class=""><span>B. Information That We Collect Automatically<br>
+</span></strong><span>We also collect certain types of information automatically whenever you access and use our website. Some of this information is stored in cookies (see the next section for a discussion of cookies). Examples of the information we collect automatically include: (1) the Internet protocol (IP) address of the computer you are using; (2) the browser software you are using; (3) your operating system; (4) the date and time you access our website; and (5) the Internet address of the website from which you linked directly to our website.</span><span>&nbsp;</span>
 </p>
 <p>
-<strong class=""><span>B. Information That We Collect Automatically</span></strong><span>We also collect certain types of information automatically whenever you access and use our website. Some of this information is stored in cookies (see the next section for a discussion of cookies). Examples of the information we collect automatically include: (1) the Internet protocol (IP) address of the computer you are using; (2) the browser software you are using; (3) your operating system; (4) the date and time you access our website; and (5) the Internet address of the website from which you linked directly to our website.</span><span>&nbsp;</span>
+<strong class=""><span>C. Cookies<br>
+</span></strong><span>Cookies are pieces of information that we transfer to your computer's hard drive through your Web browser for record-keeping purposes. We use cookies to store some information that enables us to improve your experience at our website in a number of ways. Cookies also help us to learn about how and when people use our website so that we can determine which parts of our website are popular and which need to be modified to be more useful. Although cookies do identify a website user's computer, cookies alone cannot personally identify a user.<br>&nbsp;<br>Your Web browser only allows us to access the cookies we have already sent to your computer, not the cookies that other websites have sent. We do not and cannot use cookies to retrieve any information from your computer that we did not put there in the first place.<br>&nbsp;<br>You can adjust your Web browser to refuse all new cookies, to notify you whenever you are about to receive a new cookie, or to disable cookies completely. Most web browsers also offer users the ability to control the placement and duration of cookies.<br>Search for "cookies" under the web browser's Help menu for more information on cookie management features available. Please note, however, that many parts of our website will not function properly if you do not allow cookies.</span>
 </p>
 <p>
-<strong class=""><span>C. Cookies</span></strong><span>Cookies are pieces of information that we transfer to your computer's hard drive through your Web browser for record-keeping purposes. We use cookies to store some information that enables us to improve your experience at our website in a number of ways. Cookies also help us to learn about how and when people use our website so that we can determine which parts of our website are popular and which need to be modified to be more useful. Although cookies do identify a website user's computer, cookies alone cannot personally identify a user.</span><span>&nbsp;</span><span>Your Web browser only allows us to access the cookies we have already sent to your computer, not the cookies that other websites have sent. We do not and cannot use cookies to retrieve any information from your computer that we did not put there in the first place.</span><span>&nbsp;</span><span>You can adjust your Web browser to refuse all new cookies, to notify you whenever you are about to receive a new cookie, or to disable cookies completely. Most web browsers also offer users the ability to control the placement and duration of cookies.</span><span>Search for "cookies" under the web browser's Help menu for more information on cookie management features available. Please note, however, that many parts of our website will not function properly if you do not allow cookies.</span><span>&nbsp;</span>
+<strong class=""><span>D. Action Tags</span></strong> <span>
+<br>Action tags, which are also known as Web beacons or pixel tags, are small invisible images that are placed in certain areas of our website. When an action tag is triggered by someone using our website, that information is logged in an external vendor system and is linked to that user’s anonymous cookie ID. We use action tags to gather information about our website and to improve our website so that it can better meet your needs.</span><span>&nbsp;</span>
 </p>
 <p>
-<strong class=""><span>D. Action Tags</span></strong><span>Action tags, which are also known as Web beacons or pixel tags, are small invisible images that are placed in certain areas of our website. When an action tag is triggered by someone using our website, that information is logged in an external vendor system and is linked to that user’s anonymous cookie ID. We use action tags to gather information about our website and to improve our website so that it can better meet your needs.</span><span>&nbsp;</span>
+<strong class=""><span>E. Collection of Information by Third Parties</span></strong> <span>
+<br>We work with third parties to serve advertisements about HTA and the State of Hawai‘i across the web. These third parties may use tracking technologies to collect anonymous data about users who view or interact with advertisements or our website. We do not provide any personal information about users to these third parties. However, when you interact with, view, or click on an advertisement or visit our website, the third party might collect non-personally identifiable information about you, such as an anonymous cookie ID, the specific advertisement that you clicked on, and the time and place of delivery.<br>&nbsp;<br>Third parties may use tracking technologies, such as cookies and action tags, when serving advertisements. These common technologies are used for auditing, research and reporting purposes. Third party cookies and action tags are subject to the privacy policy of the company placing them. For information about opting out of third party cookies, you may visit the Network Advertising Initiative at www.networkadvertising.org.<br>&nbsp;<br>You can adjust your Web browser to refuse all new cookies, to notify you whenever you are about to receive a new cookie, or to disable cookies completely. Most web browsers also offer users the ability to control the placement and duration of third party cookies. Search for "cookies" under the web browser's Help menu for more information on cookie management features available.</span><span>&nbsp;</span>
 </p>
 <p>
-<strong class=""><span>E. Collection of Information by Third Parties</span></strong><span>We work with third parties to serve advertisements about HVCB and the State of Hawai‘i across the web. These third parties may use tracking technologies to collect anonymous data about users who view or interact with advertisements or our website. We do not provide any personal information about users to these third parties. However, when you interact with, view, or click on an advertisement or visit our website, the third party might collect non-personally identifiable information about you, such as an anonymous cookie ID, the specific advertisement that you clicked on, and the time and place of delivery.</span><span>&nbsp;</span><span>Third parties may use tracking technologies, such as cookies and action tags, when serving advertisements. These common technologies are used for auditing, research, and reporting purposes. Third party cookies and action tags are subject to the privacy policy of the company placing them. For information about opting out of third party cookies, you may visit the Network Advertising Initiative at www.networkadvertising.org.</span><span>&nbsp;</span><span>You can adjust your Web browser to refuse all new cookies, to notify you whenever you are about to receive a new cookie, or to disable cookies completely. Most web browsers also offer users the ability to control the placement and duration of third party cookies. Search for "cookies" under the web browser's Help menu for more information on cookie management features available.</span><span>&nbsp;</span>
+<strong class=""><span>F. Collection of Personal Information from Children<br>
+</span></strong><span>HTA believes that it is extremely important to protect children's personal information. As such, HTA does not collect any personal information that can be identified with anyone under the age of 16. In fact, as discussed in our Terms and Conditions of Use, no one under the age of 16 is allowed to use any features of this website that result in our actively collecting personal information, such as the personalised "My Hawaii" website feature.<br>
+<br>
+<strong class="">III. What Does HTA Do with the Information It Collects?</strong>
+<br> The primary reason why we collect information from you is to provide you with the services that you request and to enhance your experience at our website. Services such as the personalised "My Hawaii" website and the free mailing of the Islands of Aloha holiday planner would be impossible without the personal information that you provide to us. We also use the information we collect to make sure that our website provides you with the resources you need and the level of quality you expect. For example, information about the sections of the website that people visit most frequently and least frequently helps us to decide which features website users find useful and which features need some changes.<br>&nbsp;<br>In addition to our internal use of the information we collect, your personal information is used to help make sure that you receive all the information you need to make your stay in Hawaii as pleasant as possible. One way we do this is by using your e-mail address to send you periodic updates about Hawaii. We also sometimes share your name and postal address with companies that we believe you might be interested in hearing from. These companies might contact you directly to let you know about special deals and unique opportunities that could make your holiday in Hawaii more enjoyable.<br>&nbsp;<br>While we believe that the more information you have about Hawaii the more likely you are to enjoy your visit, we also understand that you value your privacy. If you would prefer that HTA not e-mail you any periodic updates about Hawaii and/or not share any personally identifiable information about you with any third party, all you need to do is tell us. Just telephone us at 808.973.2255 and let us know about your preference.<br>&nbsp;<br>Please be advised, however, that we reserve the right to disclose any personal information about you without your prior consent if we have a good faith belief that such disclosure is necessary to: (1) conform to legal requirements or comply with valid legal process, such as a search warrant, subpoena, or court order; (2) protect our rights or property; (3) enforce the provisions of the Terms and Conditions of Use; or (4) prevent harm to you or others.<br>&nbsp;<br>HTA sometimes shares with third parties certain nonpersonal, summary information about the people who use our website. This information is not personally identifiable in any way and consists of facts such as the average numbers of visitors to our website per day and the most popular sections of our website.<br>Also, as discussed in more detail above, information resulting from action tags being triggered is logged in an external vendor system and is linked to that user’s anonymous cookie ID. None of this information is personally identifiable information.<br>
+</span>
 </p>
 <p>
-<strong class=""><span>F. Collection of Personal Information from Children</span></strong><span>HVCB believes that it is extremely important to protect children's personal information. As such, HVCB does not collect any personal information that can be identified with anyone under the age of 16. In fact, as discussed in our Terms and Conditions of Use, no one under the age of 16 is allowed to use any features of this website that result in our actively collecting personal information, such as the personalized "My Hawaii" website feature.</span><span>&nbsp;</span><span>III. What Does HVCB Do with the Information It Collects?</span><span>The primary reason why we collect information from you is to provide you with the services that you request and to enhance your experience at our website. Services such as the personalized "My Hawaii" website and the free mailing of the Islands of Aloha vacation planner would be impossible without the personal information that you provide to us. We also use the information we collect to make sure that our website provides you with the resources you need and the level of quality you expect. For example, information about the sections of the website that people visit most frequently and least frequently helps us to decide which features website users find useful and which features need some changes.</span><span>&nbsp;</span><span>In addition to our internal use of the information we collect, your personal information is used to help make sure that you receive all the information you need to make your stay in Hawaii as pleasant as possible. One way we do this is by using your e-mail address to send you periodic updates about Hawaii. We also sometimes share your name and postal address with companies that we believe you might be interested in hearing from. These companies might contact you directly to let you know about special deals and unique opportunities that could make your vacation in Hawaii more enjoyable.</span><span>&nbsp;</span><span>While we believe that the more information you have about Hawaii the more likely you are to enjoy your visit, we also understand that you value your privacy. If you would prefer that HVCB not e-mail you any periodic updates about Hawaii and/or not share any personally identifiable information about you with any third party, all you need to do is tell us. Just e-mail us at info@hvcb.org or telephone us at 808.923.1811 and let us know about your preference.</span><span>&nbsp;</span><span>Please be advised, however, that we reserve the right to disclose any personal information about you without your prior consent if we have a good faith belief that such disclosure is necessary to: (1) conform to legal requirements or comply with valid legal process, such as a search warrant, subpoena, or court order; (2) protect our rights or property; (3) enforce the provisions of the Terms and Conditions of Use; or (4) prevent harm to you or others.</span><span>&nbsp;</span><span>HVCB sometimes shares with third parties certain nonpersonal, summary information about the people who use our website. This information is not personally identifiable in any way and consists of facts such as the average numbers of visitors to our website per day and the most popular sections of our website.</span><span><span>&nbsp;</span>Also, as discussed in more detail above, information resulting from action tags being triggered is logged in an external vendor system and is linked to that user’s anonymous cookie ID. None of this information is personally identifiable information.</span><span>&nbsp;</span>
+<strong class=""><span>IV. What Kind of Security Does HVCB Use to Protect Your Privacy?</span></strong> <span>
+<br>We know that when you provide us with any type of information, you're trusting us to keep it safe from unauthorised intrusion. We take all reasonable steps, through the use of updated security software and protocols, to ensure that your personal information is safe.</span>
 </p>
 <p>
-<strong class=""><span>IV. What Kind of Security Does HVCB Use to Protect Your Privacy?</span></strong><span>We know that when you provide us with any type of information, you're trusting us to keep it safe from unauthorized intrusion. We take all reasonable steps, through the use of updated security software and protocols, to ensure that your personal information is safe.</span><span>&nbsp;</span>
+<strong class=""><span>V. What Do You Need to Do to Protect Your Personal Information?<br>
+</span></strong><span>You have several options when deciding how you can best protect your personal information. One option is simply not to volunteer any personal information. This approach would prevent you from taking advantage of several of our website's most useful features, such as the personalised "My Hawaii" website.<br>&nbsp;<br>Another option is to configure your Web browser to refuse all new cookies, to notify you whenever you are about to receive a new cookie, or to disable cookies completely. However, many parts of our website will not function properly if you do not allow cookies.<br>&nbsp;<br>The Federal Trade Commission's website also offers useful information about how to protect your personal information while on the Internet.</span><span>&nbsp;</span>
 </p>
 <p>
-<strong class=""><span>V. What Do You Need to Do to Protect Your Personal Information?</span></strong><span>You have several options when deciding how you can best protect your personal information. One option is simply not to volunteer any personal information. This approach would prevent you from taking advantage of several of our website's most useful features, such as the personalized "My Hawaii" website.</span><span>&nbsp;</span><span>Another option is to configure your Web browser to refuse all new cookies, to notify you whenever you are about to receive a new cookie, or to disable cookies completely. However many parts of our website will not function properly if you do not allow cookies.</span><span>&nbsp;</span><span>The Federal Trade Commission's website also offers useful information about how to protect your personal information while on the Internet.</span><span>&nbsp;</span>
+<strong class=""><span>VI. How Can You Find Out What Personal Information Is on Record?</span></strong> <span>
+<br>
+</span>We believe that it's important for you to be able to find out what personal information you have provided to us through our website. If you have completed an on-line Personal Information Form, you can contact us by telephone at 808.973.2255 and ask us what information we have on record about you. If you haven't completed an on-line Personal Information Form, then we don't have any personally identifiable information about you.</p>
+<p>
+<strong class=""><span>VII. How Can You Correct the Personal Information on Record with Us?</span></strong> <span>
+<br>We know that you want the information we have on record about you to be as complete and accurate as possible. We feel the same way, since maintaining accurate information is essential to our efforts to give you the best possible experience when you visit our website. That's why we encourage you to correct any information that might be outdated or otherwise invalid. It's easy to make changes. Simply contact us at info@hvcb.org or by telephone at 808.973.2255.</span><span>&nbsp;</span>
 </p>
 <p>
-<strong class=""><span>VI. How Can You Find Out What Personal Information Is on Record?</span></strong><span>We believe that it's important for you to be able to find out what personal information you have provided to us through our website. If you have completed an on-line Personal Information Form, you can contact us by telephone at 808.923.1811 and ask us what information we have on record about you. If you haven't completed an on-line Personal Information Form, then we don't have any personally identifiable information about you.</span><span>&nbsp;</span>
+<strong class=""><span>VIII. How Can You Get Additional Information About HTA's Privacy Policy?<br>
+</span></strong><span>For additional information about our Privacy Policy, please contact us at info@hvcb.org, by telephone at 808.973.2255 or by postal mail at 1801 Kalakaua Avenue, 1st Floor Honolulu, Hawaii, USA 96815.</span>
 </p>
 <p>
-<strong class=""><span>VII. How Can You Correct the Personal Information on Record with Us?</span></strong><span>We know that you want the information we have on record about you to be as complete and accurate as possible. We feel the same way, since maintaining accurate information is essential to our efforts to give you the best possible experience when you visit our website. That's why we encourage you to correct any information that might be outdated or otherwise invalid. It's easy to make changes. Simply contact us by telephone at 808.923.1811.</span><span>&nbsp;</span>
+<strong class=""><span>IX. What Can You Do About Violations of This Privacy Policy?<br>
+</span></strong><span>If at any time you believe HTA has not adhered to the principles set forth in this Privacy Policy, please notify us and we will make all commercially reasonable efforts to promptly correct the problem. We can be contacted at info@hvcb.org, by telephone at 808.923.1811, and by postal mail at 1801 Kalakaua Avenue, 1st Floor Honolulu, Hawaii, USA 96815.</span><span>&nbsp;</span>
 </p>
 <p>
-<strong class=""><span>VIII. How Can You Get Additional Information About HVCB's Privacy Policy?</span></strong><span>For additional information about our Privacy Policy, please e-mail us your question or request at info@hvcb.org. You can also contact us by telephone at 808.923.1811 or by postal mail at 2270 Kalakaua Avenue, #801, Honolulu, Hawaii, USA 96815.</span><span>&nbsp;</span>
-</p>
-<p>
-<strong class=""><span>IX. What Can You Do About Violations of This Privacy Policy?</span></strong><span>If at any time you believe HVCB has not adhered to the principles set forth in this Privacy Policy, please notify us and we will make all commercially reasonable efforts to promptly correct the problem. We can be contacted by e-mail at info@hvcb.org, by telephone at 808.923.1811, and by postal mail at 2270 Kalakaua Avenue, #801, Honolulu, Hawaii, USA 96815.</span><span>&nbsp;</span>
-</p>
-<p>
-<strong class=""><span>X. Amendments to HVCB's Privacy Policy</span></strong><span>From time to time, it may be necessary for HVCB to amend this Privacy Policy. You are responsible for regularly reviewing this Privacy Policy so that you will be aware of any changes. However, if we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on our website. Please note that your continued use of this website means that you accept the amendments to this Privacy Policy.</span><span>&nbsp;</span>
+<strong class=""><span>X. Amendments to HVCB's Privacy Policy<br>
+</span></strong><span>From time to time, it may be necessary for HTA to amend this Privacy Policy. You are responsible for regularly reviewing this Privacy Policy so that you will be aware of any changes. However, if we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on our website. Please note that your continued use of this website means that you accept the amendments to this Privacy Policy.</span>
 </p>
 </div>
 <!-- == CMS MainContent (END) == -->
@@ -693,7 +678,7 @@
 <form action="./directory/search" method="get" class="vacationdirectory">
 <h4>Find Things To Do</h4>
 <fieldset class="intro">
-<input type="hidden" id="randomGen" name="randomGen" value="random_201212290302.51"><input type="hidden" id="searchType" name="searchType" value="member"><input type="hidden" id="searchDisplayType" name="searchDisplayType" value="activities"><input type="hidden" id="ActSubCategory" name="SubCategory" value=""><input type="hidden" id="categoryRestriction" name="categoryRestriction" value=""><input type="hidden" id="ActMIslandId" name="mIslandId" class="mIslandId" value="(&quot;kauai&quot; OR &quot;oahu&quot; OR &quot;lanai&quot; OR &quot;molokai&quot; OR &quot;maui&quot; OR &quot;big-island&quot;)"><input type="hidden" id="ActislandId" name="islandId" class="islandId" value="statewide"><input type="hidden" id="act-seller-split" name="SellerSplit" value=""><input type="hidden" name="omniTypes" class="omniTypes" value="">
+<input type="hidden" id="randomGen" name="randomGen" value="random_201305310303.04"><input type="hidden" id="searchType" name="searchType" value="member"><input type="hidden" id="searchDisplayType" name="searchDisplayType" value="activities"><input type="hidden" id="ActSubCategory" name="SubCategory" value=""><input type="hidden" id="categoryRestriction" name="categoryRestriction" value=""><input type="hidden" id="ActMIslandId" name="mIslandId" class="mIslandId" value="(&quot;kauai&quot; OR &quot;oahu&quot; OR &quot;lanai&quot; OR &quot;molokai&quot; OR &quot;maui&quot; OR &quot;big-island&quot;)"><input type="hidden" id="ActislandId" name="islandId" class="islandId" value="statewide"><input type="hidden" id="act-seller-split" name="SellerSplit" value=""><input type="hidden" name="omniTypes" class="omniTypes" value="">
 <div class="field">
 <div class="dropdown">
 <strong class="all">All Islands</strong>
@@ -725,50 +710,50 @@
 </div>
 <div class="field" id="activity-category">
 <div class="dropdown" id="activity-category-all">
-<strong class="all">All Categories  (1663)
+<strong class="all">All Categories  (1689)
           </strong>
 <ul class="dropdown-list">
 <li>
-<a href="#" class="">All Categories (1663)</a>
+<a href="#" class="">All Categories (1689)</a>
 </li>
 <li>
-<a href="#" class="Activities">Activities (433)</a>
+<a href="#" class="Activities">Activities (441)</a>
 </li>
 <li>
-<a href="#" class="Dining">Dining (264)</a>
+<a href="#" class="Dining">Dining (269)</a>
 </li>
 <li>
-<a href="#" class="Golf">Golf (39)</a>
+<a href="#" class="Golf">Golf (38)</a>
 </li>
 <li>
-<a href="#" class="Services">Services (180)</a>
+<a href="#" class="Services">Services (181)</a>
 </li>
 <li>
-<a href="#" class="Shopping">Shopping (110)</a>
+<a href="#" class="Shopping">Shopping (108)</a>
 </li>
 <li>
 <a href="#" class="Transportation">Transportation (37)</a>
 </li>
 <li>
-<a href="#" class="TravelProfessionals">Travel Professionals (79)</a>
+<a href="#" class="TravelProfessionals">Travel Professionals (77)</a>
 </li>
 <li>
-<a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (113)</a>
+<a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (121)</a>
 </li>
 </ul>
 </div>
 <div class="dropdown" id="activity-category-lanai">
-<strong class="all">All Categories  (34)
+<strong class="all">All Categories  (36)
           </strong>
 <ul class="dropdown-list">
 <li>
-<a href="#" class="">All Categories (34)</a>
+<a href="#" class="">All Categories (36)</a>
 </li>
 <li>
-<a href="#" class="Activities">Activities (10)</a>
+<a href="#" class="Activities">Activities (9)</a>
 </li>
 <li>
-<a href="#" class="Dining">Dining (9)</a>
+<a href="#" class="Dining">Dining (12)</a>
 </li>
 <li>
 <a href="#" class="Golf">Golf (2)</a>
@@ -783,25 +768,25 @@
 <a href="#" class="Transportation">Transportation (4)</a>
 </li>
 <li>
-<a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (2)</a>
+<a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (3)</a>
 </li>
 </ul>
 </div>
 <div class="dropdown" id="activity-category-molokai">
-<strong class="all">All Categories  (36)
+<strong class="all">All Categories  (40)
           </strong>
 <ul class="dropdown-list">
 <li>
-<a href="#" class="">All Categories (36)</a>
+<a href="#" class="">All Categories (40)</a>
 </li>
 <li>
-<a href="#" class="Activities">Activities (8)</a>
+<a href="#" class="Activities">Activities (10)</a>
 </li>
 <li>
 <a href="#" class="Dining">Dining (2)</a>
 </li>
 <li>
-<a href="#" class="Services">Services (2)</a>
+<a href="#" class="Services">Services (3)</a>
 </li>
 <li>
 <a href="#" class="Shopping">Shopping (3)</a>
@@ -815,14 +800,14 @@
 </ul>
 </div>
 <div class="dropdown" id="activity-category-maui">
-<strong class="all">All Categories  (461)
+<strong class="all">All Categories  (460)
           </strong>
 <ul class="dropdown-list">
 <li>
-<a href="#" class="">All Categories (461)</a>
+<a href="#" class="">All Categories (460)</a>
 </li>
 <li>
-<a href="#" class="Activities">Activities (115)</a>
+<a href="#" class="Activities">Activities (114)</a>
 </li>
 <li>
 <a href="#" class="Dining">Dining (79)</a>
@@ -831,106 +816,7 @@
 <a href="#" class="Golf">Golf (14)</a>
 </li>
 <li>
-<a href="#" class="Services">Services (35)</a>
-</li>
-<li>
-<a href="#" class="Shopping">Shopping (18)</a>
-</li>
-<li>
-<a href="#" class="Transportation">Transportation (13)</a>
-</li>
-<li>
-<a href="#" class="TravelProfessionals">Travel Professionals (21)</a>
-</li>
-<li>
-<a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (41)</a>
-</li>
-</ul>
-</div>
-<div class="dropdown" id="activity-category-big-island">
-<strong class="all">All Categories  (360)
-          </strong>
-<ul class="dropdown-list">
-<li>
-<a href="#" class="">All Categories (360)</a>
-</li>
-<li>
-<a href="#" class="Activities">Activities (112)</a>
-</li>
-<li>
-<a href="#" class="Dining">Dining (47)</a>
-</li>
-<li>
-<a href="#" class="Golf">Golf (9)</a>
-</li>
-<li>
-<a href="#" class="Services">Services (31)</a>
-</li>
-<li>
-<a href="#" class="Shopping">Shopping (27)</a>
-</li>
-<li>
-<a href="#" class="Transportation">Transportation (11)</a>
-</li>
-<li>
-<a href="#" class="TravelProfessionals">Travel Professionals (10)</a>
-</li>
-<li>
-<a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (13)</a>
-</li>
-</ul>
-</div>
-<div class="dropdown" id="activity-category-oahu">
-<strong class="all">All Categories  (607)
-          </strong>
-<ul class="dropdown-list">
-<li>
-<a href="#" class="">All Categories (607)</a>
-</li>
-<li>
-<a href="#" class="Activities">Activities (144)</a>
-</li>
-<li>
-<a href="#" class="Dining">Dining (99)</a>
-</li>
-<li>
-<a href="#" class="Golf">Golf (10)</a>
-</li>
-<li>
-<a href="#" class="Services">Services (117)</a>
-</li>
-<li>
-<a href="#" class="Shopping">Shopping (49)</a>
-</li>
-<li>
-<a href="#" class="Transportation">Transportation (22)</a>
-</li>
-<li>
-<a href="#" class="TravelProfessionals">Travel Professionals (60)</a>
-</li>
-<li>
-<a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (38)</a>
-</li>
-</ul>
-</div>
-<div class="dropdown" id="activity-category-kauai">
-<strong class="all">All Categories  (306)
-          </strong>
-<ul class="dropdown-list">
-<li>
-<a href="#" class="">All Categories (306)</a>
-</li>
-<li>
-<a href="#" class="Activities">Activities (77)</a>
-</li>
-<li>
-<a href="#" class="Dining">Dining (28)</a>
-</li>
-<li>
-<a href="#" class="Golf">Golf (8)</a>
-</li>
-<li>
-<a href="#" class="Services">Services (33)</a>
+<a href="#" class="Services">Services (36)</a>
 </li>
 <li>
 <a href="#" class="Shopping">Shopping (17)</a>
@@ -939,10 +825,109 @@
 <a href="#" class="Transportation">Transportation (13)</a>
 </li>
 <li>
+<a href="#" class="TravelProfessionals">Travel Professionals (20)</a>
+</li>
+<li>
+<a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (42)</a>
+</li>
+</ul>
+</div>
+<div class="dropdown" id="activity-category-big-island">
+<strong class="all">All Categories  (366)
+          </strong>
+<ul class="dropdown-list">
+<li>
+<a href="#" class="">All Categories (366)</a>
+</li>
+<li>
+<a href="#" class="Activities">Activities (114)</a>
+</li>
+<li>
+<a href="#" class="Dining">Dining (47)</a>
+</li>
+<li>
+<a href="#" class="Golf">Golf (8)</a>
+</li>
+<li>
+<a href="#" class="Services">Services (30)</a>
+</li>
+<li>
+<a href="#" class="Shopping">Shopping (24)</a>
+</li>
+<li>
+<a href="#" class="Transportation">Transportation (11)</a>
+</li>
+<li>
 <a href="#" class="TravelProfessionals">Travel Professionals (11)</a>
 </li>
 <li>
-<a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (25)</a>
+<a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (15)</a>
+</li>
+</ul>
+</div>
+<div class="dropdown" id="activity-category-oahu">
+<strong class="all">All Categories  (623)
+          </strong>
+<ul class="dropdown-list">
+<li>
+<a href="#" class="">All Categories (623)</a>
+</li>
+<li>
+<a href="#" class="Activities">Activities (147)</a>
+</li>
+<li>
+<a href="#" class="Dining">Dining (101)</a>
+</li>
+<li>
+<a href="#" class="Golf">Golf (10)</a>
+</li>
+<li>
+<a href="#" class="Services">Services (116)</a>
+</li>
+<li>
+<a href="#" class="Shopping">Shopping (51)</a>
+</li>
+<li>
+<a href="#" class="Transportation">Transportation (22)</a>
+</li>
+<li>
+<a href="#" class="TravelProfessionals">Travel Professionals (63)</a>
+</li>
+<li>
+<a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (42)</a>
+</li>
+</ul>
+</div>
+<div class="dropdown" id="activity-category-kauai">
+<strong class="all">All Categories  (312)
+          </strong>
+<ul class="dropdown-list">
+<li>
+<a href="#" class="">All Categories (312)</a>
+</li>
+<li>
+<a href="#" class="Activities">Activities (78)</a>
+</li>
+<li>
+<a href="#" class="Dining">Dining (32)</a>
+</li>
+<li>
+<a href="#" class="Golf">Golf (8)</a>
+</li>
+<li>
+<a href="#" class="Services">Services (34)</a>
+</li>
+<li>
+<a href="#" class="Shopping">Shopping (16)</a>
+</li>
+<li>
+<a href="#" class="Transportation">Transportation (13)</a>
+</li>
+<li>
+<a href="#" class="TravelProfessionals">Travel Professionals (11)</a>
+</li>
+<li>
+<a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (28)</a>
 </li>
 </ul>
 </div>
@@ -964,52 +949,56 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (433)</li>
+<input type="checkbox" name="SubCat" value="">All Types (441)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (34)</li>
+<input type="checkbox" name="SubCat" value="Activities" class="">Activities (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (55)</li>
+<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (35)</li>
 <li>
-<input type="checkbox" name="SubCat" value="CultureandtheArts" class="">Culture, History and the Arts (46)</li>
+<input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (52)</li>
 <li>
-<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (13)</li>
+<input type="checkbox" name="SubCat" value="CultureandtheArts" class="">Culture, History and the Arts (47)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (92)</li>
+<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (14)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (24)</li>
+<input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (97)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Nightlife" class="">Nightlife (32)</li>
+<input type="checkbox" name="SubCat" value="LuauDinnerShows" class=""> (10)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Plantations,FarmsandGardens" class="">Plantations, Farms and Gardens (27)</li>
+<input type="checkbox" name="SubCat" value="Luaus" class="">Luau &amp; Dinner Shows (10)</li>
+<li>
+<input type="checkbox" name="SubCat" value="Nightlife" class="">Nightlife (33)</li>
+<li>
+<input type="checkbox" name="SubCat" value="Plantations,FarmsandGardens" class="">Plantations, Farms and Gardens (29)</li>
 <li>
 <input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (28)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (114)</li>
+<input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (115)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WellnessRejuvenation" class="">Wellness &amp; Rejuvenation (31)</li>
+<input type="checkbox" name="SubCat" value="WellnessRejuvenation" class="">Wellness &amp; Rejuvenation (30)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-all-Dining">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (264)</li>
+<input type="checkbox" name="SubCat" value="">All Types (269)</li>
 <li>
-<input type="checkbox" name="SubCat" value="American" class="">American (80)</li>
+<input type="checkbox" name="SubCat" value="American" class="">American (77)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Bakeries" class="">Bakeries (3)</li>
 <li>
-<input type="checkbox" name="SubCat" value="BarsLounges" class="">Bars &amp; Lounges (14)</li>
+<input type="checkbox" name="SubCat" value="BarsLounges" class="">Bars &amp; Lounges (16)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Caribbean" class="">Caribbean (1)</li>
+<input type="checkbox" name="SubCat" value="Caribbean" class="">Caribbean (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Chinese" class="">Chinese (1)</li>
+<input type="checkbox" name="SubCat" value="Chinese" class="">Chinese (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Continental" class="">Continental (22)</li>
+<input type="checkbox" name="SubCat" value="Continental" class="">Continental (23)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Desserts" class="">Desserts (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="DinnerShow/Cruise" class="">Dinner Show/Cruise (9)</li>
+<input type="checkbox" name="SubCat" value="DinnerShow/Cruise" class="">Dinner Cruise (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (2)</li>
 <li>
@@ -1017,84 +1006,86 @@
 <li>
 <input type="checkbox" name="SubCat" value="Hawaiian" class="">Hawaiian (5)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HawaiiRegional" class="">Hawaii Regional (49)</li>
+<input type="checkbox" name="SubCat" value="HawaiiRegional" class="">Hawaii Regional (48)</li>
 <li>
 <input type="checkbox" name="SubCat" value="HealthyOptions" class="">Healthy Options (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Italian" class="">Italian (9)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Japanese" class="">Japanese (16)</li>
+<input type="checkbox" name="SubCat" value="Japanese" class="">Japanese (17)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (7)</li>
+<input type="checkbox" name="SubCat" value="LuauDinnerShows" class=""> (16)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Mediterranean" class=""> (1)</li>
+<input type="checkbox" name="SubCat" value="Luaus" class="">Luau &amp; Dinner Shows (1)</li>
+<li>
+<input type="checkbox" name="SubCat" value="Mediterranean" class="">Mediterranean (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Mexican" class="">Mexican (3)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PacificRim" class="">Pacific Rim (9)</li>
+<input type="checkbox" name="SubCat" value="PacificRim" class="">Pacific Rim (8)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Pizza" class="">Pizza (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Seafood" class="">Seafood (18)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Steak" class="">Steak (10)</li>
+<input type="checkbox" name="SubCat" value="Steak" class="">Steak (11)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-all-Golf">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (39)</li>
+<input type="checkbox" name="SubCat" value="">All Types (38)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="GolfCourses" class="">Golf Courses (29)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ProductsandServices" class="">Products and Services (9)</li>
+<input type="checkbox" name="SubCat" value="ProductsandServices" class="">Products and Services (8)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-all-Services">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (180)</li>
+<input type="checkbox" name="SubCat" value="">All Types (181)</li>
 <li>
 <input type="checkbox" name="SubCat" value="BusinessandFinancialServices" class="">Business and Financial Services (88)</li>
 <li>
 <input type="checkbox" name="SubCat" value="ChildrenandFamilies" class="">Children and Families (3)</li>
 <li>
-<input type="checkbox" name="SubCat" value="EducationalProgramsandInstitutions" class="">Educational Programs and Institutions (8)</li>
+<input type="checkbox" name="SubCat" value="EducationalProgramsandInstitutions" class="">Educational Programs and Institutions (7)</li>
 <li>
 <input type="checkbox" name="SubCat" value="MedicalServicesandFacilities" class="">Medical Services and Facilities (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Meetings/ConventionServices" class="">Meetings/Convention Services (27)</li>
+<input type="checkbox" name="SubCat" value="Meetings/ConventionServices" class="">Meetings/Convention Services (26)</li>
 <li>
 <input type="checkbox" name="SubCat" value="PhotographersVideographers" class="">Photographers &amp; Videographers (4)</li>
 <li>
 <input type="checkbox" name="SubCat" value="RealEstate" class="">Real Estate (16)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VisitorInformationandGuides" class="">Visitor Information and Guides (34)</li>
+<input type="checkbox" name="SubCat" value="VisitorInformationandGuides" class="">Visitor Information and Guides (37)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-all-Shopping">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (110)</li>
+<input type="checkbox" name="SubCat" value="">All Types (108)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DutyFree" class="">Duty Free (5)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HawaiianProductsandApparel" class="">Hawaiian Products and Apparel (61)</li>
+<input type="checkbox" name="SubCat" value="HawaiianProductsandApparel" class="">Hawaiian Products and Apparel (60)</li>
 <li>
-<input type="checkbox" name="SubCat" value="OnlineShopping" class="">Online Shopping (12)</li>
+<input type="checkbox" name="SubCat" value="OnlineShopping" class="">Online Shopping (10)</li>
 <li>
 <input type="checkbox" name="SubCat" value="RetailStores" class="">Retail Stores (25)</li>
 <li>
 <input type="checkbox" name="SubCat" value="ShoppingCenters,MallsandOutlets" class="">Shopping Centers, Malls and Outlets (18)</li>
 <li>
-<input type="checkbox" name="SubCat" value="SpecialtyShopsBoutiques" class="">Specialty Shops &amp; Boutiques (11)</li>
+<input type="checkbox" name="SubCat" value="SpecialtyShopsBoutiques" class="">Specialty Shops &amp; Boutiques (10)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-all-Transportation">
@@ -1118,36 +1109,34 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (79)</li>
+<input type="checkbox" name="SubCat" value="">All Types (77)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="TravelAgents" class="">Travel Agents (38)</li>
+<input type="checkbox" name="SubCat" value="TravelAgents" class="">Travel Agents (32)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VacationPackagesandTours" class="">Vacation Packages and Tours (42)</li>
+<input type="checkbox" name="SubCat" value="VacationPackagesandTours" class="">Vacation Packages and Tours (46)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-all-WeddingsHoneymoons">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (113)</li>
+<input type="checkbox" name="SubCat" value="">All Types (121)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Caterers,FacilitiesandVenues" class="">Caterers, Facilities and Venues (12)</li>
+<input type="checkbox" name="SubCat" value="Caterers,FacilitiesandVenues" class="">Caterers, Facilities and Venues (14)</li>
 <li>
-<input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (6)</li>
+<input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (7)</li>
 <li>
 <input type="checkbox" name="SubCat" value="FloristsandFormalWear" class="">Florists and Formal Wear (3)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (40)</li>
+<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (41)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Officiants" class="">Officiants (1)</li>
-<li>
-<input type="checkbox" name="SubCat" value="PhotographersandVideographers" class="">Photographers and Videographers (6)</li>
+<input type="checkbox" name="SubCat" value="PhotographersandVideographers" class="">Photographers and Videographers (10)</li>
 <li>
 <input type="checkbox" name="SubCat" value="TransportationandLimousines" class="">Transportation and Limousines (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WeddingServiceProviders" class="">Wedding Service Providers (52)</li>
+<input type="checkbox" name="SubCat" value="WeddingServiceProviders" class="">Wedding Service Providers (53)</li>
 <li>
 <input type="checkbox" name="SubCat" value="WeddingServicesProviders" class=""> (1)</li>
 </ul>
@@ -1166,15 +1155,13 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (10)</li>
+<input type="checkbox" name="SubCat" value="">All Types (9)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="CultureandtheArts" class="">Culture, History and the Arts (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (2)</li>
-<li>
-<input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (3)</li>
 <li>
@@ -1185,13 +1172,17 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (9)</li>
+<input type="checkbox" name="SubCat" value="">All Types (12)</li>
 <li>
 <input type="checkbox" name="SubCat" value="American" class="">American (6)</li>
 <li>
-<input type="checkbox" name="SubCat" value="BarsLounges" class="">Bars &amp; Lounges (3)</li>
+<input type="checkbox" name="SubCat" value="BarsLounges" class="">Bars &amp; Lounges (4)</li>
+<li>
+<input type="checkbox" name="SubCat" value="Caribbean" class="">Caribbean (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Italian" class="">Italian (1)</li>
+<li>
+<input type="checkbox" name="SubCat" value="Japanese" class="">Japanese (1)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-lanai-Golf">
@@ -1244,7 +1235,9 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (2)</li>
+<input type="checkbox" name="SubCat" value="">All Types (3)</li>
+<li>
+<input type="checkbox" name="SubCat" value="Caterers,FacilitiesandVenues" class="">Caterers, Facilities and Venues (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (2)</li>
 </ul>
@@ -1263,9 +1256,9 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (8)</li>
+<input type="checkbox" name="SubCat" value="">All Types (10)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (3)</li>
+<input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (5)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Plantations,FarmsandGardens" class="">Plantations, Farms and Gardens (2)</li>
 <li>
@@ -1289,11 +1282,13 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (2)</li>
+<input type="checkbox" name="SubCat" value="">All Types (3)</li>
 <li>
 <input type="checkbox" name="SubCat" value="BusinessandFinancialServices" class="">Business and Financial Services (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="RealEstate" class="">Real Estate (1)</li>
+<li>
+<input type="checkbox" name="SubCat" value="VisitorInformationandGuides" class="">Visitor Information and Guides (1)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-molokai-Shopping">
@@ -1341,27 +1336,29 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (115)</li>
+<input type="checkbox" name="SubCat" value="">All Types (114)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (19)</li>
+<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (18)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (16)</li>
+<input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (15)</li>
 <li>
 <input type="checkbox" name="SubCat" value="CultureandtheArts" class="">Culture, History and the Arts (7)</li>
 <li>
-<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (4)</li>
+<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (5)</li>
 <li>
 <input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (23)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (8)</li>
+<input type="checkbox" name="SubCat" value="LuauDinnerShows" class=""> (2)</li>
+<li>
+<input type="checkbox" name="SubCat" value="Luaus" class="">Luau &amp; Dinner Shows (4)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Nightlife" class="">Nightlife (7)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Plantations,FarmsandGardens" class="">Plantations, Farms and Gardens (9)</li>
+<input type="checkbox" name="SubCat" value="Plantations,FarmsandGardens" class="">Plantations, Farms and Gardens (11)</li>
 <li>
-<input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (6)</li>
+<input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (5)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (33)</li>
+<input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (34)</li>
 <li>
 <input type="checkbox" name="SubCat" value="WellnessRejuvenation" class="">Wellness &amp; Rejuvenation (10)</li>
 </ul>
@@ -1378,8 +1375,6 @@
 <li>
 <input type="checkbox" name="SubCat" value="Continental" class="">Continental (7)</li>
 <li>
-<input type="checkbox" name="SubCat" value="DinnerShow/Cruise" class="">Dinner Show/Cruise (2)</li>
-<li>
 <input type="checkbox" name="SubCat" value="Hawaiian" class="">Hawaiian (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="HawaiiRegional" class="">Hawaii Regional (14)</li>
@@ -1388,13 +1383,13 @@
 <li>
 <input type="checkbox" name="SubCat" value="Japanese" class="">Japanese (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (2)</li>
+<input type="checkbox" name="SubCat" value="LuauDinnerShows" class=""> (5)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Mediterranean" class=""> (1)</li>
+<input type="checkbox" name="SubCat" value="Mediterranean" class="">Mediterranean (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Mexican" class="">Mexican (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PacificRim" class="">Pacific Rim (3)</li>
+<input type="checkbox" name="SubCat" value="PacificRim" class="">Pacific Rim (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Seafood" class="">Seafood (6)</li>
 <li>
@@ -1418,9 +1413,9 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (35)</li>
+<input type="checkbox" name="SubCat" value="">All Types (36)</li>
 <li>
-<input type="checkbox" name="SubCat" value="BusinessandFinancialServices" class="">Business and Financial Services (14)</li>
+<input type="checkbox" name="SubCat" value="BusinessandFinancialServices" class="">Business and Financial Services (13)</li>
 <li>
 <input type="checkbox" name="SubCat" value="ChildrenandFamilies" class="">Children and Families (1)</li>
 <li>
@@ -1430,22 +1425,22 @@
 <li>
 <input type="checkbox" name="SubCat" value="RealEstate" class="">Real Estate (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VisitorInformationandGuides" class="">Visitor Information and Guides (6)</li>
+<input type="checkbox" name="SubCat" value="VisitorInformationandGuides" class="">Visitor Information and Guides (8)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-maui-Shopping">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (18)</li>
+<input type="checkbox" name="SubCat" value="">All Types (17)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DutyFree" class="">Duty Free (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HawaiianProductsandApparel" class="">Hawaiian Products and Apparel (10)</li>
+<input type="checkbox" name="SubCat" value="HawaiianProductsandApparel" class="">Hawaiian Products and Apparel (8)</li>
 <li>
-<input type="checkbox" name="SubCat" value="OnlineShopping" class="">Online Shopping (5)</li>
+<input type="checkbox" name="SubCat" value="OnlineShopping" class="">Online Shopping (4)</li>
 <li>
 <input type="checkbox" name="SubCat" value="RetailStores" class="">Retail Stores (5)</li>
 <li>
@@ -1473,24 +1468,24 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (21)</li>
+<input type="checkbox" name="SubCat" value="">All Types (20)</li>
 <li>
-<input type="checkbox" name="SubCat" value="TravelAgents" class="">Travel Agents (10)</li>
+<input type="checkbox" name="SubCat" value="TravelAgents" class="">Travel Agents (8)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VacationPackagesandTours" class="">Vacation Packages and Tours (13)</li>
+<input type="checkbox" name="SubCat" value="VacationPackagesandTours" class="">Vacation Packages and Tours (14)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-maui-WeddingsHoneymoons">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (41)</li>
+<input type="checkbox" name="SubCat" value="">All Types (42)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Caterers,FacilitiesandVenues" class="">Caterers, Facilities and Venues (7)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (11)</li>
+<input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Officiants" class="">Officiants (1)</li>
+<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (11)</li>
 <li>
 <input type="checkbox" name="SubCat" value="PhotographersandVideographers" class="">Photographers and Videographers (4)</li>
 <li>
@@ -1511,19 +1506,21 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (112)</li>
+<input type="checkbox" name="SubCat" value="">All Types (114)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (5)</li>
+<input type="checkbox" name="SubCat" value="Activities" class="">Activities (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (14)</li>
+<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (6)</li>
 <li>
-<input type="checkbox" name="SubCat" value="CultureandtheArts" class="">Culture, History and the Arts (8)</li>
+<input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (13)</li>
+<li>
+<input type="checkbox" name="SubCat" value="CultureandtheArts" class="">Culture, History and the Arts (9)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (30)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (5)</li>
+<input type="checkbox" name="SubCat" value="Luaus" class="">Luau &amp; Dinner Shows (3)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Nightlife" class="">Nightlife (9)</li>
 <li>
@@ -1531,7 +1528,7 @@
 <li>
 <input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (7)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (29)</li>
+<input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (30)</li>
 <li>
 <input type="checkbox" name="SubCat" value="WellnessRejuvenation" class="">Wellness &amp; Rejuvenation (5)</li>
 </ul>
@@ -1542,17 +1539,21 @@
 <li class="all">
 <input type="checkbox" name="SubCat" value="">All Types (47)</li>
 <li>
-<input type="checkbox" name="SubCat" value="American" class="">American (15)</li>
+<input type="checkbox" name="SubCat" value="American" class="">American (13)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Bakeries" class="">Bakeries (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="BarsLounges" class="">Bars &amp; Lounges (2)</li>
+<input type="checkbox" name="SubCat" value="BarsLounges" class="">Bars &amp; Lounges (3)</li>
+<li>
+<input type="checkbox" name="SubCat" value="Caribbean" class="">Caribbean (1)</li>
+<li>
+<input type="checkbox" name="SubCat" value="Chinese" class="">Chinese (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Continental" class="">Continental (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Hawaiian" class="">Hawaiian (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HawaiiRegional" class="">Hawaii Regional (12)</li>
+<input type="checkbox" name="SubCat" value="HawaiiRegional" class="">Hawaii Regional (11)</li>
 <li>
 <input type="checkbox" name="SubCat" value="HealthyOptions" class="">Healthy Options (1)</li>
 <li>
@@ -1560,7 +1561,7 @@
 <li>
 <input type="checkbox" name="SubCat" value="Japanese" class="">Japanese (3)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (2)</li>
+<input type="checkbox" name="SubCat" value="LuauDinnerShows" class=""> (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="PacificRim" class="">Pacific Rim (2)</li>
 <li>
@@ -1573,24 +1574,24 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (9)</li>
+<input type="checkbox" name="SubCat" value="">All Types (8)</li>
 <li>
 <input type="checkbox" name="SubCat" value="GolfCourses" class="">Golf Courses (7)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ProductsandServices" class="">Products and Services (2)</li>
+<input type="checkbox" name="SubCat" value="ProductsandServices" class="">Products and Services (1)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-big-island-Services">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (31)</li>
+<input type="checkbox" name="SubCat" value="">All Types (30)</li>
 <li>
 <input type="checkbox" name="SubCat" value="BusinessandFinancialServices" class="">Business and Financial Services (10)</li>
 <li>
 <input type="checkbox" name="SubCat" value="ChildrenandFamilies" class="">Children and Families (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="EducationalProgramsandInstitutions" class="">Educational Programs and Institutions (2)</li>
+<input type="checkbox" name="SubCat" value="EducationalProgramsandInstitutions" class="">Educational Programs and Institutions (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="MedicalServicesandFacilities" class="">Medical Services and Facilities (1)</li>
 <li>
@@ -1607,15 +1608,15 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (27)</li>
+<input type="checkbox" name="SubCat" value="">All Types (24)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HawaiianProductsandApparel" class="">Hawaiian Products and Apparel (15)</li>
+<input type="checkbox" name="SubCat" value="HawaiianProductsandApparel" class="">Hawaiian Products and Apparel (13)</li>
 <li>
-<input type="checkbox" name="SubCat" value="OnlineShopping" class="">Online Shopping (6)</li>
+<input type="checkbox" name="SubCat" value="OnlineShopping" class="">Online Shopping (4)</li>
 <li>
 <input type="checkbox" name="SubCat" value="RetailStores" class="">Retail Stores (7)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ShoppingCenters,MallsandOutlets" class="">Shopping Centers, Malls and Outlets (5)</li>
+<input type="checkbox" name="SubCat" value="ShoppingCenters,MallsandOutlets" class="">Shopping Centers, Malls and Outlets (4)</li>
 <li>
 <input type="checkbox" name="SubCat" value="SpecialtyShopsBoutiques" class="">Specialty Shops &amp; Boutiques (1)</li>
 </ul>
@@ -1637,24 +1638,24 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (10)</li>
+<input type="checkbox" name="SubCat" value="">All Types (11)</li>
 <li>
-<input type="checkbox" name="SubCat" value="TravelAgents" class="">Travel Agents (4)</li>
+<input type="checkbox" name="SubCat" value="TravelAgents" class="">Travel Agents (3)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VacationPackagesandTours" class="">Vacation Packages and Tours (8)</li>
+<input type="checkbox" name="SubCat" value="VacationPackagesandTours" class="">Vacation Packages and Tours (10)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-big-island-WeddingsHoneymoons">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (13)</li>
+<input type="checkbox" name="SubCat" value="">All Types (15)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Caterers,FacilitiesandVenues" class="">Caterers, Facilities and Venues (1)</li>
+<input type="checkbox" name="SubCat" value="Caterers,FacilitiesandVenues" class="">Caterers, Facilities and Venues (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (7)</li>
+<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (8)</li>
 <li>
 <input type="checkbox" name="SubCat" value="PhotographersandVideographers" class="">Photographers and Videographers (1)</li>
 <li>
@@ -1675,25 +1676,27 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (144)</li>
+<input type="checkbox" name="SubCat" value="">All Types (147)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (18)</li>
+<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (20)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (29)</li>
+<input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (28)</li>
 <li>
 <input type="checkbox" name="SubCat" value="CultureandtheArts" class="">Culture, History and the Arts (23)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (6)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (27)</li>
+<input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (28)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (9)</li>
+<input type="checkbox" name="SubCat" value="LuauDinnerShows" class=""> (5)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Nightlife" class="">Nightlife (13)</li>
+<input type="checkbox" name="SubCat" value="Luaus" class="">Luau &amp; Dinner Shows (4)</li>
+<li>
+<input type="checkbox" name="SubCat" value="Nightlife" class="">Nightlife (14)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Plantations,FarmsandGardens" class="">Plantations, Farms and Gardens (3)</li>
 <li>
-<input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (7)</li>
+<input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (8)</li>
 <li>
 <input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (38)</li>
 <li>
@@ -1704,21 +1707,21 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (99)</li>
+<input type="checkbox" name="SubCat" value="">All Types (101)</li>
 <li>
-<input type="checkbox" name="SubCat" value="American" class="">American (25)</li>
+<input type="checkbox" name="SubCat" value="American" class="">American (24)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Bakeries" class="">Bakeries (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="BarsLounges" class="">Bars &amp; Lounges (2)</li>
+<input type="checkbox" name="SubCat" value="BarsLounges" class="">Bars &amp; Lounges (3)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Caribbean" class="">Caribbean (1)</li>
+<input type="checkbox" name="SubCat" value="Caribbean" class="">Caribbean (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Chinese" class="">Chinese (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Continental" class="">Continental (11)</li>
 <li>
-<input type="checkbox" name="SubCat" value="DinnerShow/Cruise" class="">Dinner Show/Cruise (7)</li>
+<input type="checkbox" name="SubCat" value="DinnerShow/Cruise" class="">Dinner Cruise (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (1)</li>
 <li>
@@ -1730,7 +1733,9 @@
 <li>
 <input type="checkbox" name="SubCat" value="Japanese" class="">Japanese (10)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (2)</li>
+<input type="checkbox" name="SubCat" value="LuauDinnerShows" class=""> (6)</li>
+<li>
+<input type="checkbox" name="SubCat" value="Luaus" class="">Luau &amp; Dinner Shows (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Mexican" class="">Mexican (2)</li>
 <li>
@@ -1738,7 +1743,7 @@
 <li>
 <input type="checkbox" name="SubCat" value="Seafood" class="">Seafood (5)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Steak" class="">Steak (5)</li>
+<input type="checkbox" name="SubCat" value="Steak" class="">Steak (6)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-oahu-Golf">
@@ -1756,34 +1761,34 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (117)</li>
+<input type="checkbox" name="SubCat" value="">All Types (116)</li>
 <li>
-<input type="checkbox" name="SubCat" value="BusinessandFinancialServices" class="">Business and Financial Services (65)</li>
+<input type="checkbox" name="SubCat" value="BusinessandFinancialServices" class="">Business and Financial Services (66)</li>
 <li>
 <input type="checkbox" name="SubCat" value="ChildrenandFamilies" class="">Children and Families (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="EducationalProgramsandInstitutions" class="">Educational Programs and Institutions (6)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Meetings/ConventionServices" class="">Meetings/Convention Services (20)</li>
+<input type="checkbox" name="SubCat" value="Meetings/ConventionServices" class="">Meetings/Convention Services (19)</li>
 <li>
 <input type="checkbox" name="SubCat" value="RealEstate" class="">Real Estate (4)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VisitorInformationandGuides" class="">Visitor Information and Guides (21)</li>
+<input type="checkbox" name="SubCat" value="VisitorInformationandGuides" class="">Visitor Information and Guides (20)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-oahu-Shopping">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (49)</li>
+<input type="checkbox" name="SubCat" value="">All Types (51)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DutyFree" class="">Duty Free (4)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HawaiianProductsandApparel" class="">Hawaiian Products and Apparel (28)</li>
+<input type="checkbox" name="SubCat" value="HawaiianProductsandApparel" class="">Hawaiian Products and Apparel (29)</li>
 <li>
-<input type="checkbox" name="SubCat" value="OnlineShopping" class="">Online Shopping (4)</li>
+<input type="checkbox" name="SubCat" value="OnlineShopping" class="">Online Shopping (3)</li>
 <li>
 <input type="checkbox" name="SubCat" value="RetailStores" class="">Retail Stores (10)</li>
 <li>
@@ -1811,22 +1816,22 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (60)</li>
+<input type="checkbox" name="SubCat" value="">All Types (63)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="TravelAgents" class="">Travel Agents (28)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VacationPackagesandTours" class="">Vacation Packages and Tours (33)</li>
+<input type="checkbox" name="SubCat" value="VacationPackagesandTours" class="">Vacation Packages and Tours (36)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-oahu-WeddingsHoneymoons">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (38)</li>
+<input type="checkbox" name="SubCat" value="">All Types (42)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Caterers,FacilitiesandVenues" class="">Caterers, Facilities and Venues (4)</li>
+<input type="checkbox" name="SubCat" value="Caterers,FacilitiesandVenues" class="">Caterers, Facilities and Venues (6)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (3)</li>
 <li>
@@ -1834,7 +1839,9 @@
 <li>
 <input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (12)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WeddingServiceProviders" class="">Wedding Service Providers (18)</li>
+<input type="checkbox" name="SubCat" value="PhotographersandVideographers" class="">Photographers and Videographers (2)</li>
+<li>
+<input type="checkbox" name="SubCat" value="WeddingServiceProviders" class="">Wedding Service Providers (19)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-kauai-all">
@@ -1851,9 +1858,9 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (77)</li>
+<input type="checkbox" name="SubCat" value="">All Types (78)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (10)</li>
+<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (9)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (10)</li>
 <li>
@@ -1861,32 +1868,36 @@
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (4)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (20)</li>
+<input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (22)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (7)</li>
+<input type="checkbox" name="SubCat" value="LuauDinnerShows" class=""> (5)</li>
+<li>
+<input type="checkbox" name="SubCat" value="Luaus" class="">Luau &amp; Dinner Shows (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Nightlife" class="">Nightlife (3)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Plantations,FarmsandGardens" class="">Plantations, Farms and Gardens (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (13)</li>
+<input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (12)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (20)</li>
+<input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (19)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WellnessRejuvenation" class="">Wellness &amp; Rejuvenation (7)</li>
+<input type="checkbox" name="SubCat" value="WellnessRejuvenation" class="">Wellness &amp; Rejuvenation (6)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-kauai-Dining">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (28)</li>
+<input type="checkbox" name="SubCat" value="">All Types (32)</li>
 <li>
 <input type="checkbox" name="SubCat" value="American" class="">American (4)</li>
 <li>
 <input type="checkbox" name="SubCat" value="BarsLounges" class="">Bars &amp; Lounges (3)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Continental" class="">Continental (3)</li>
+<input type="checkbox" name="SubCat" value="Caribbean" class="">Caribbean (1)</li>
+<li>
+<input type="checkbox" name="SubCat" value="Continental" class="">Continental (4)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Desserts" class="">Desserts (1)</li>
 <li>
@@ -1902,7 +1913,7 @@
 <li>
 <input type="checkbox" name="SubCat" value="Japanese" class="">Japanese (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (1)</li>
+<input type="checkbox" name="SubCat" value="LuauDinnerShows" class=""> (3)</li>
 <li>
 <input type="checkbox" name="SubCat" value="PacificRim" class="">Pacific Rim (1)</li>
 <li>
@@ -1926,7 +1937,7 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (33)</li>
+<input type="checkbox" name="SubCat" value="">All Types (34)</li>
 <li>
 <input type="checkbox" name="SubCat" value="BusinessandFinancialServices" class="">Business and Financial Services (16)</li>
 <li>
@@ -1936,24 +1947,22 @@
 <li>
 <input type="checkbox" name="SubCat" value="RealEstate" class="">Real Estate (4)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VisitorInformationandGuides" class="">Visitor Information and Guides (7)</li>
+<input type="checkbox" name="SubCat" value="VisitorInformationandGuides" class="">Visitor Information and Guides (8)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-kauai-Shopping">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (17)</li>
+<input type="checkbox" name="SubCat" value="">All Types (16)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HawaiianProductsandApparel" class="">Hawaiian Products and Apparel (11)</li>
+<input type="checkbox" name="SubCat" value="HawaiianProductsandApparel" class="">Hawaiian Products and Apparel (10)</li>
 <li>
-<input type="checkbox" name="SubCat" value="OnlineShopping" class="">Online Shopping (3)</li>
+<input type="checkbox" name="SubCat" value="OnlineShopping" class="">Online Shopping (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="RetailStores" class="">Retail Stores (4)</li>
+<input type="checkbox" name="SubCat" value="RetailStores" class="">Retail Stores (3)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ShoppingCenters,MallsandOutlets" class="">Shopping Centers, Malls and Outlets (3)</li>
-<li>
-<input type="checkbox" name="SubCat" value="SpecialtyShopsBoutiques" class="">Specialty Shops &amp; Boutiques (1)</li>
+<input type="checkbox" name="SubCat" value="ShoppingCenters,MallsandOutlets" class="">Shopping Centers, Malls and Outlets (4)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-kauai-Transportation">
@@ -1986,9 +1995,9 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (25)</li>
+<input type="checkbox" name="SubCat" value="">All Types (28)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Caterers,FacilitiesandVenues" class="">Caterers, Facilities and Venues (2)</li>
+<input type="checkbox" name="SubCat" value="Caterers,FacilitiesandVenues" class="">Caterers, Facilities and Venues (3)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (2)</li>
 <li>
@@ -1996,7 +2005,7 @@
 <li>
 <input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (8)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PhotographersandVideographers" class="">Photographers and Videographers (1)</li>
+<input type="checkbox" name="SubCat" value="PhotographersandVideographers" class="">Photographers and Videographers (3)</li>
 <li>
 <input type="checkbox" name="SubCat" value="TransportationandLimousines" class="">Transportation and Limousines (1)</li>
 <li>
@@ -2015,7 +2024,7 @@
 <form action="./directory/search" method="get" class="vacationdirectory">
 <h4>Find A Place To Stay</h4>
 <fieldset class="intro">
-<input type="hidden" id="randomGen" name="randomGen" value="random_201212290302.51"><input type="hidden" id="searchType" name="searchType" value="member"><input type="hidden" id="searchDisplayType" name="searchDisplayType" value="accommodations"><input type="hidden" id="LodgCategory" name="Category" value="Accommodations"><input type="hidden" id="LodgSubCategory" name="SubCategory" value=""><input type="hidden" id="categoryRestriction" name="categoryRestriction" value=""><input type="hidden" id="LodgMIslandId" name="mIslandId" class="mIslandId" value="(&quot;kauai&quot; OR &quot;oahu&quot; OR &quot;lanai&quot; OR &quot;molokai&quot; OR &quot;maui&quot; OR &quot;big-island&quot;)"><input type="hidden" id="LodgislandId" name="islandId" class="islandId" value="statewide"><input type="hidden" id="act-seller-split" name="SellerSplit" value=""><input type="hidden" name="omniTypes" class="omniTypes" value="">
+<input type="hidden" id="randomGen" name="randomGen" value="random_201305310303.04"><input type="hidden" id="searchType" name="searchType" value="member"><input type="hidden" id="searchDisplayType" name="searchDisplayType" value="accommodations"><input type="hidden" id="LodgCategory" name="Category" value="Accommodations"><input type="hidden" id="LodgSubCategory" name="SubCategory" value=""><input type="hidden" id="categoryRestriction" name="categoryRestriction" value=""><input type="hidden" id="LodgMIslandId" name="mIslandId" class="mIslandId" value="(&quot;kauai&quot; OR &quot;oahu&quot; OR &quot;lanai&quot; OR &quot;molokai&quot; OR &quot;maui&quot; OR &quot;big-island&quot;)"><input type="hidden" id="LodgislandId" name="islandId" class="islandId" value="statewide"><input type="hidden" id="act-seller-split" name="SellerSplit" value=""><input type="hidden" name="omniTypes" class="omniTypes" value="">
 <div class="field">
 <div class="dropdown">
 <strong class="all">All Islands</strong>
@@ -2051,31 +2060,31 @@
 <div class="field" id="lodging-types-all">
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (488)</li>
+<input type="checkbox" name="SubCat" value="">All Types (503)</li>
 <li>
-<input type="checkbox" name="SubCat" value="BedBreakfasts/Inn" class="">Bed &amp; Breakfasts/Inn (73)</li>
+<input type="checkbox" name="SubCat" value="BedBreakfasts/Inn" class="">Bed &amp; Breakfasts/Inn (78)</li>
 <li>
 <input type="checkbox" name="SubCat" value="CampingRVs" class="">Camping &amp; RVs (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Condominiums" class="">Condominiums (153)</li>
+<input type="checkbox" name="SubCat" value="Condominiums" class="">Condominiums (152)</li>
 <li>
-<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (6)</li>
+<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (10)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Hostels" class="">Hostels (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (129)</li>
+<input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (131)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (79)</li>
+<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (81)</li>
 <li>
 <input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (86)</li>
 <li>
 <input type="checkbox" name="SubCat" value="ReservationsBookingServices" class="">Reservations &amp; Booking Services (86)</li>
 <li>
-<input type="checkbox" name="SubCat" value="RetreatsandCamps" class="">Retreats and Camps (2)</li>
+<input type="checkbox" name="SubCat" value="RetreatsandCamps" class="">Retreats and Camps (3)</li>
 <li>
 <input type="checkbox" name="SubCat" value="VacationOwnerships" class="">Vacation Ownerships (13)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VacationRentals" class="">Vacation Rentals (75)</li>
+<input type="checkbox" name="SubCat" value="VacationRentals" class="">Vacation Rentals (82)</li>
 </ul>
 </div>
 <div class="field" id="lodging-types-lanai">
@@ -2091,15 +2100,17 @@
 <div class="field" id="lodging-types-molokai">
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (18)</li>
+<input type="checkbox" name="SubCat" value="">All Types (19)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Condominiums" class="">Condominiums (11)</li>
 <li>
 <input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (2)</li>
+<input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (3)</li>
 <li>
 <input type="checkbox" name="SubCat" value="ReservationsBookingServices" class="">Reservations &amp; Booking Services (2)</li>
+<li>
+<input type="checkbox" name="SubCat" value="RetreatsandCamps" class="">Retreats and Camps (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="VacationOwnerships" class="">Vacation Ownerships (1)</li>
 <li>
@@ -2111,33 +2122,33 @@
 <li class="all">
 <input type="checkbox" name="SubCat" value="">All Types (156)</li>
 <li>
-<input type="checkbox" name="SubCat" value="BedBreakfasts/Inn" class="">Bed &amp; Breakfasts/Inn (19)</li>
+<input type="checkbox" name="SubCat" value="BedBreakfasts/Inn" class="">Bed &amp; Breakfasts/Inn (20)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Condominiums" class="">Condominiums (71)</li>
 <li>
-<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (4)</li>
+<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (5)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (33)</li>
+<input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (32)</li>
 <li>
 <input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (22)</li>
 <li>
 <input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (21)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ReservationsBookingServices" class="">Reservations &amp; Booking Services (32)</li>
+<input type="checkbox" name="SubCat" value="ReservationsBookingServices" class="">Reservations &amp; Booking Services (30)</li>
 <li>
 <input type="checkbox" name="SubCat" value="RetreatsandCamps" class="">Retreats and Camps (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="VacationOwnerships" class="">Vacation Ownerships (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VacationRentals" class="">Vacation Rentals (31)</li>
+<input type="checkbox" name="SubCat" value="VacationRentals" class="">Vacation Rentals (32)</li>
 </ul>
 </div>
 <div class="field" id="lodging-types-big-island">
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (117)</li>
+<input type="checkbox" name="SubCat" value="">All Types (123)</li>
 <li>
-<input type="checkbox" name="SubCat" value="BedBreakfasts/Inn" class="">Bed &amp; Breakfasts/Inn (37)</li>
+<input type="checkbox" name="SubCat" value="BedBreakfasts/Inn" class="">Bed &amp; Breakfasts/Inn (41)</li>
 <li>
 <input type="checkbox" name="SubCat" value="CampingRVs" class="">Camping &amp; RVs (2)</li>
 <li>
@@ -2149,39 +2160,39 @@
 <li>
 <input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (26)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (14)</li>
+<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (15)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (22)</li>
+<input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (20)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ReservationsBookingServices" class="">Reservations &amp; Booking Services (13)</li>
+<input type="checkbox" name="SubCat" value="ReservationsBookingServices" class="">Reservations &amp; Booking Services (14)</li>
 <li>
 <input type="checkbox" name="SubCat" value="RetreatsandCamps" class="">Retreats and Camps (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="VacationOwnerships" class="">Vacation Ownerships (3)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VacationRentals" class="">Vacation Rentals (20)</li>
+<input type="checkbox" name="SubCat" value="VacationRentals" class="">Vacation Rentals (24)</li>
 </ul>
 </div>
 <div class="field" id="lodging-types-oahu">
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (101)</li>
+<input type="checkbox" name="SubCat" value="">All Types (106)</li>
 <li>
 <input type="checkbox" name="SubCat" value="BedBreakfasts/Inn" class="">Bed &amp; Breakfasts/Inn (7)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Condominiums" class="">Condominiums (17)</li>
 <li>
-<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (1)</li>
+<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Hostels" class="">Hostels (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (53)</li>
+<input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (56)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (29)</li>
+<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (30)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (13)</li>
+<input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (14)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ReservationsBookingServices" class="">Reservations &amp; Booking Services (25)</li>
+<input type="checkbox" name="SubCat" value="ReservationsBookingServices" class="">Reservations &amp; Booking Services (26)</li>
 <li>
 <input type="checkbox" name="SubCat" value="VacationOwnerships" class="">Vacation Ownerships (4)</li>
 <li>
@@ -2191,11 +2202,13 @@
 <div class="field" id="lodging-types-kauai">
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (116)</li>
+<input type="checkbox" name="SubCat" value="">All Types (119)</li>
 <li>
 <input type="checkbox" name="SubCat" value="BedBreakfasts/Inn" class="">Bed &amp; Breakfasts/Inn (12)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Condominiums" class="">Condominiums (44)</li>
+<input type="checkbox" name="SubCat" value="Condominiums" class="">Condominiums (43)</li>
+<li>
+<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (22)</li>
 <li>
@@ -2207,7 +2220,7 @@
 <li>
 <input type="checkbox" name="SubCat" value="VacationOwnerships" class="">Vacation Ownerships (5)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VacationRentals" class="">Vacation Rentals (16)</li>
+<input type="checkbox" name="SubCat" value="VacationRentals" class="">Vacation Rentals (18)</li>
 </ul>
 </div>
 <div class="submit">
@@ -2330,7 +2343,7 @@
 <span class="dwidget-top"></span>
 <h3>Media Gallery</h3>
 <div class="dwidget-content">
-<div class="gallerywrapper-N63833" id="N63833">
+<div class="gallerywrapper-N63956" id="N63956">
 <img src="./template_images/loading.gif"></div>
 </div>
 <span class="dwidget-bottom"></span>
@@ -2341,7 +2354,7 @@
       
       GalleryLoaderSettings.Settings.push(
         {
-          id:   'N63833',
+          id:   'N63956',
           path: '/xml_content/public/hvcb/common/statewide/privacy-policy/default-gallery.xml',
           pfx:  '/gallery/carousel/tagsearch',
           url:  '/gallery/ajaxpage',
@@ -2386,7 +2399,7 @@
 
 
 <div id="copyright">
-<a href="http://www.hawaiitourismauthority.org" target="_blank">© 2012 </a>
+<a href="http://www.hawaiitourismauthority.org" target="_blank">© 2013 </a>
 <p>
 <a href="http://www.hawaiitourismauthority.org" target="_blank">Hawaii Tourism Authority</a>
 </p>
