@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the comicbookplus.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129031653id_/http%3A//comicbookplus.com%3Fcbplus%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbookplus.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601114839id_/http%3A//comicbookplus.com%3Fcbplus%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Comic Book Plus
+
+You are WELCOME to enjoy our site & read ALL our books online. But to download & join our forum please [create a FREE account](https://web.archive.org/forum/?action=register) or [login](https://web.archive.org/forum/?action=login)
 
 ## Links To Other Web Sites
 
