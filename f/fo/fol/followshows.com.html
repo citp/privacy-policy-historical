@@ -1,70 +1,24 @@
-<!--The following is the downloaded HTML source of the followshows.com privacy policy that was archived on 2012-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121105044942id_/http%3A//followshows.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the followshows.com privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601075100id_/http%3A//followshows.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
-<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="/js/ping-033012.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script><link rel="shortcut icon" href="/favicon.ico">
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="/js/ping-033012.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><link rel="shortcut icon" href="/favicon.ico">
 <link rel="icon" href="/favicon.gif" type="image/gif">
-<link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="/css/fsh-100312.css" rel="stylesheet" type="text/css">
+<link href="/css/bootstrap-2.3.0.min.css" rel="stylesheet">
+<link rel="stylesheet" href="/css/font-awesome.3.0.1.min.css">
+<link href="/css/fsh-041113-2.css" rel="stylesheet" type="text/css">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta property="fb:admins" content="617302501">
 <meta property="fb:app_id" content="287824544623545">
 <meta property="og:site_name" content="followshows">
-<script type="text/javascript" src="https://www.google.com/jsapi"></script>
-<script language="Javascript" type="text/javascript">
-google.load("jquery", "1.7.1");
-google.load("jqueryui", "1.8.17");
-</script>
+<script src="/js/jquery-1.9.1.min.js"></script>
+<script src="/js/jquery-ui-1.10.0.custom.min.js"></script>
 <script type="text/javascript">
 $(function() {
-    $("#search").autocomplete({
-        source: "/ajax/header/search",
-        minLength: 3,
-        select: function( event, ui ) {
-        	if (ui.item.type == 'show') {
-            	window.location = "/show/" + ui.item.id;
-        	} else if (ui.item.type == 'user') {
-        		window.location = "/user/" + ui.item.id;
-        	}
-        },
-        open: function(){
-            $(this).autocomplete('widget').css('z-index', 100);
-            return false;
-        }
-    }).data( "autocomplete" )._renderItem = function( ul, item ) {
-    	if (item.type == 'show') {
-    		if ($(ul).children('li.show-result').length == 0) {
-    			$('<li></li>')
-    			.addClass('show-section')
-    			.append('<div>Shows</div>')
-    			.appendTo(ul);
-    		}
-    		
-    		return $('<li></li>')
-    		.addClass('show-result')
-    		.data("item.autocomplete", item)
-    		.append('<a><img width="30" height="42" border="0" src="' + item.image + '"/>' + item.label + '</a>')
-    		.appendTo(ul);
-    	} else if (item.type == 'user') {
-    		if ($(ul).children('li.user-result').length == 0) {
-    			$('<li></li>')
-    			.addClass('user-section')
-    			.append('<div>People</div>')
-    			.appendTo(ul);
-    		}
-    		return $("<li></li>")
-    		.addClass('user-result')
-    		.data("item.autocomplete", item)
-    		.append('<a><img src="' + item.image + '" width="30" height="30" border="0" />' + item.label + '</a>')
-    		.appendTo(ul);
-    	} else {
-    		return $('<li>No result.<br><span style="font-size: 11px;">Email us at <a style="display:inline;padding:0;" href="mailto:contact@followshows.com">contact@followshows.com</a> if<br> you don&#39;t see your favorite show.</span></li>')
-    					.addClass('ui-menu-item no-result').appendTo(ul);
-    	}
-	};
+  initSearch()
 });
 </script>
-<script src="/js/fsh-091412.js"></script>
+<script src="/js/fsh-041713.js"></script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-1144297-5']);
@@ -75,7 +29,19 @@ $(function() {
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
+</script>
+<script type="text/javascript">
+    (function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement("script");
+    b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+
+    '//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';d=c.getElementsByTagName("script")[0];
+    d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){
+    var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(
+    Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?g=a[f]=[]:
+    f="mixpanel";g.people=g.people||[];h=['disable','track','track_pageview','track_links',
+    'track_forms','register','register_once','unregister','identify','alias','name_tag','set_config',
+    'people.set','people.set_once','people.increment','people.track_charge','people.append'];
+    for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.2;})(document,window.mixpanel||[]);
+    mixpanel.init("7cac4d18cc86be2ffd2f17991bae02d0");
 </script>
 <script type="text/javascript">
   (function() {
@@ -110,14 +76,17 @@ window.fbAsyncInit = function() {
 	  fjs.parentNode.insertBefore(js, fjs);
 	}(document, 'script', 'facebook-jssdk'));
 </script>
-<div class="navbar">
+<div class="navbar navbar-inverse">
 <div class="navbar-inner">
 <div class="container">
 <ul class="nav pull-left">
 <li>
-<div id="logo"><h2><a href="/">Watch TV shows online - Get air dates, summaries and reviews</a></h2></div>
+<div id="logo"><h2><a href="/"><span class="follow">follow</span>shows</a></h2></div>
 </li>
-<li><a href="/popular" title="Popular Shows">Popular Shows</a></li>
+</ul>
+<ul class="nav pull-left">
+<li><a href="/popular">Popular</a></li>
+<li><a href="/new-tv-shows">New</a></li>
 </ul>
 <ul class="nav pull-right">
 <li>
@@ -128,7 +97,7 @@ window.fbAsyncInit = function() {
 </div>
 </li>
 <li id="login"><a data-toggle="modal" href="#loginModal">Login</a></li>
-<li><a href="/signup">Signup</a></li>
+<li><a href="/signup">Sign Up</a></li>
 </ul>
 </div>
 </div>
@@ -173,20 +142,16 @@ This document was last updated on March 06, 2012<br><br>
 </div>
 <div id="footer">
 <div id="infos_container" class="clearfix">
-<div class="infos popular">
-<h5>Follow us</h5>
-<ul>
-<li><fb:like href="http://www.facebook.com/followshows" send="false" layout="button_count" show_faces="false"></fb:like></li>
-<li><a href="https://twitter.com/followshows" class="twitter-follow-button" data-show-count="false">Follow @followshows</a></li>
-</ul>
-</div>
 <div class="infos useful">
 <h5>Links</h5>
 <ul>
-<li><a href="mailto:contact@followshows.com" title="Contact">Contact us</a></li>
+<li><a href="/about">About</a>
+</li><li><a href="mailto:contact@followshows.com" title="Contact">Contact us</a></li>
 <li><a href="/shows">All shows</a>
+</li><li><a href="/new-tv-shows">New TV Shows</a>
 </li><li><a href="/terms">Terms of Service</a></li>
 <li><a href="/privacy">Privacy Policy</a></li>
+<li><a href="/dmca">DMCA Policy</a></li>
 </ul>
 </div>
 <div class="infos data">
@@ -209,7 +174,7 @@ This document was last updated on March 06, 2012<br><br>
 <a class="facebook-login-button" href="/facebook/authenticate">Login with Facebook</a>
 </div>
 <div class="email-login">
-<form name="login" action="&lt;c:url value='j_spring_security_check'/&gt;" method="POST">
+<form name="login" action="j_spring_security_check;jsessionid=EFDA63FCB6607A9914E0AC77C47690BE.node1" method="POST">
 <div class="login-row">
 <label for="j_username">Email</label>
 <input type="text" name="j_username" placeholder="Email">
@@ -239,9 +204,9 @@ This document was last updated on March 06, 2012<br><br>
 </div>
 </div>
 </div>
-<script src="/js/bootstrap.min.js"></script>
+<script src="/js/bootstrap-2.3.0.min.js"></script>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","f54a1e7c5b",812608,"ZAMGN0NRChVUUUMMWl1JLjBhHzMjdx9+K3McEA0GRkNLFkdbQQRWSkgOEEE=",0,107,new Date().getTime()])</script>
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","f54a1e7c5b","2144098","ZAMGN0NRChVUUUMMWl1JNxNDWQoBdl1ZEUdcCggGQx8sCVhXdApbRxQLD11VFklFQF4TVFAf",0,2,new Date().getTime(),"","","","",""]);</script>
 
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
