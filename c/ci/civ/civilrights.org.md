@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the civilrights.org privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127043042id_/http%3A//www.civilrights.org/about/civilrights/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilrights.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601040048id_/http%3A//www.civilrights.org/about/civilrights/privacy) for the most accurate reproduction.*
 
-# Privacy and Security Policy - The Leadership Conference on Civil and Human Rights
+# Privacy and Security Policy
 
 **1.  Policy**
 
