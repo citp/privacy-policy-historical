@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grouponnz.co.nz privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228092844id_/http%3A//www.grouponnz.co.nz/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grouponnz.co.nz privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601030012id_/http%3A//www.grouponnz.co.nz/data_privacy) for the most accurate reproduction.*
 
 # Up to 70% discount on restaurants, spas, wellness, fitness - grouponnz.co.nz
 
@@ -7,7 +7,7 @@
 **We protect your personal information and data**
 
 **1\. Protecting You**  
-The Grouponnz by Groupon New Zealand website www.grouponnz.co.nz is owned and operated by Groupon New Zealand Limited (t/a Groupon New Zealand) of Suite 402, Level 4, 8 Commerce Street, Auckland 1010, New Zealand. Groupon New Zealand Limited ("Groupon New Zealand", "we," "us," "our") is committed to protecting your privacy. We will only use the information that we collect about you lawfully.
+The Grouponnz by Groupon New Zealand website www.grouponnz.co.nz is owned and operated by Groupon New Zealand Limited (t/a Groupon New Zealand) of 191 Queen Street, Auckland 1010, New Zealand. Groupon New Zealand Limited ("Groupon New Zealand", "we," "us," "our") is committed to protecting your privacy. We will only use the information that we collect about you lawfully.
 
 Please note that use of the Website by you is subject to this privacy policy (the "Policy") and the Website’s [terms and conditions](http://www.grouponnz.co.nz/terms_and_conditions) of use ("Terms and Conditions"). Where this Policy uses a word starting with a capital letter, that term will be defined in the Terms and Conditions or elsewhere in this Policy.
 
@@ -45,7 +45,7 @@ Also, in the course of serving advertisements to this Website if any), third-par
 **5\. Emails**  
 Please note that we may email you for the following purposes:
 
-  * as part of the Service. For example, we send (or may send) emails to you in some of the following example circumstances: 
+  * as part of the Service. For example, we send (or may send) emails to you in some of the following example circumstances:
   * after Registration, notifying you of your account details;
   * as reminder emails about the services we offer (particularly if you have not used them yet or not used them for a while);
   * to send you information or Vouchers which you have asked for;
@@ -58,7 +58,7 @@ Please note that we may email you for the following purposes:
 **However, in terms of any marketing or promotional emails we may send, we will always give you the chance to opt-out (or unsubscribe) from them in the future.**
 
 **6\. Security and retention**  
-The PII which we hold will be held securely within our systems in accordance with our internal security policy and the law. 
+The PII which we hold will be held securely within our systems in accordance with our internal security policy and the law.
 
 Regarding information transmitted between the Website and and/or users, while we take reasonable precautions to safeguard this information, we may be unable to prevent unauthorised access to such information by third parties or inadvertent disclosure of such information during transit. Users acknowledge this risk when communicating with the Website.
 
