@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128041345id_/http%3A//www.swift.com/about_swift/legal/swift_contracts/info/privacy_statement.page%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601050409id_/http%3A//www.swift.com/about_swift/legal/privacy_statement_june_2012) for the most accurate reproduction.*
 
-# SWIFT - Privacy statement
+# Privacy Statement
 
 ### Introduction
 
@@ -9,10 +9,9 @@ At SWIFT, we are committed to protect and respect your personal data.
 This Statement explains how we use personal data collected from you on our websites. Our websites include: 
 
   * [swift.com](http://www.swift.com/)
-  * <http://www.swiftcommunity.net/> (with its own [Terms of Use](https://www.swiftcommunity.net/termsofuse.cfm) confirming this Statement)
   * our Sibos website, available at [sibos.com](http://www.sibos.com/)
-  * <http://www.3skey.com/>, and
-  * other URLs that redirect to [swift.com](http://www.swift.com/).
+  * <http://www.3skey.com/> , and 
+  * other URLs that redirect to [swift.com](http://www.swift.com/). 
 
 
 
@@ -24,9 +23,9 @@ We may modify this Statement from time to time. Please check it periodically for
 
 This Statement only applies to the processing of personal data collected by us on our websites. Our other data processing activities are covered by other SWIFT policies. They are: 
 
-  * The [SWIFT Personal Data Protection Policy](http://www.swift.com/about_swift/legal/compliance/data_protection_policies/index.page?): it explains how we process our customer contact details (when collected on our websites - this part is common to this Statement - or on paper) and personal data that our customers encapsulate in SWIFT messages or files (“message data”). Where relevant for the purposes of this Statement, we will explicitly refer to that Policy. 
-  * The [SWIFT Safe Harbor Policy](http://www.swift.com/about_swift/legal/compliance/data_protection_policies/swift_safe_harbor_policy.page?): it explains how we mirror message data in our US Operating Centre. It is not relevant for the purposes of this Statement. 
-  * The [SWIFT Data Retrieval Policy](http://www.swift.com/about_swift/legal/compliance/data_protection_policies/index.page?): it explains how we retrieve, use, and disclose message and traffic data. It is not relevant for the purposes of this Statement. 
+  * The [SWIFT Personal Data Protection Policy](http://www.swift.com/about_swift/legal/data_protection_policies): it explains how we process our customer contact details (when collected on our websites - this part is common to this Statement - or on paper) and personal data that our customers encapsulate in SWIFT messages or files (“message data”). Where relevant for the purposes of this Statement, we will explicitly refer to that Policy. 
+  * The [SWIFT Safe Harbor Policy](http://www.swift.com/about_swift/legal/swift_safe_harbor_policy): it explains how we mirror message data in our US Operating Centre. It is not relevant for the purposes of this Statement. 
+  * The [SWIFT Data Retrieval Policy](http://www.swift.com/about_swift/legal/data_protection_policies): it explains how we retrieve, use, and disclose message and traffic data. It is not relevant for the purposes of this Statement. 
 
 
 
@@ -34,16 +33,16 @@ This Statement only applies to the processing of personal data collected by us o
 
 We process personal data collected on our websites for the following purposes (together “SWIFT Purposes”): 
 
-  * SWIFT governance
-  * The provision of SWIFT services and products
-  * Recruitment
-  * Organisation of Sibos and other events
-  * Newsletters and other customer communications
-  * The operation of our websites (IP addresses, cookies, web acceleration)
+  * SWIFT governance 
+  * The provision of SWIFT services and products 
+  * Recruitment 
+  * Organisation of Sibos and other events 
+  * Newsletters and other customer communications 
+  * The operation of our websites (IP addresses, cookies, web acceleration) 
 
 
 
-More information on the use of your personal data (as a SWIFT customer) for SWIFT governance and for the provision of SWIFT services and products is available in the [SWIFT Personal Data Protection Policy](http://www.swift.com/about_swift/legal/compliance/data_protection_policies/index.page?). 
+More information on the use of your personal data (as a SWIFT customer) for SWIFT governance and for the provision of SWIFT services and products is available in the SWIFT Personal Data Protection Policy. 
 
 More information about the use of your data for the other purposes is given below. 
 
@@ -77,9 +76,9 @@ In each mailing, we remind you about your right to opt-out of our newsletters, c
 
 You may opt-out or unsubscribe from the above mailings at any time by sending an e-mail to: 
 
-  * [leave-supportnews@list.swift.com](mailto:leave-supportnews@list.swift.com) for all our SWIFTSupport newsletters
-  * [swift.survey@swift.com](mailto:swift.survey@swift.com) for all our customer consultations and satisfaction surveys
-  * the unsubscribe e-mail address specific for each regional training newsletter (for example [leave-north-america_training@info.swift.com](mailto:leave-north-america_training@info.swift.com) for the North American newsletter), or to [training.newsletter@swift.com](mailto:training.newsletter@swift.com) in case of difficulties to retrieve the regional unsubscribe e-mail address.
+  * [leave-supportnews@list.swift.com](mailto:leave-supportnews@list.swift.com) for all our SWIFTSupport newsletters 
+  * [swift.survey@swift.com](mailto:swift.survey@swift.com) for all our customer consultations and satisfaction surveys 
+  * the unsubscribe e-mail address specific for each regional training newsletter (for example [leave-north-america_training@info.swift.com](mailto:leave-north-america_training@info.swift.com) for the North American newsletter), or to [training.newsletter@swift.com](mailto:training.newsletter@swift.com) in case of difficulties to retrieve the regional unsubscribe e-mail address. 
 
 
 
@@ -87,11 +86,11 @@ Some of these newsletters and communications are sent to you on our behalf by su
 
 ### Operation of our Websites
 
- **IP Addresses**
+### IP Addresses 
 
 When you browse our websites, you do so anonymously. For our internal purposes, we may use IP addresses (the Internet address of your computer) stored in web logs to generate aggregate statistics on surf behaviour, such as traffic patterns and time spent on a page. 
 
-**Cookies**
+### Cookies
 
 Cookies are small pieces of information that are stored by your browser on your computer's hard drive or in your browser memory. We use cookies for authentication purposes (for example to access the secure area of [http://www.swift.com](http://www.swift.com/) ), to track user sessions (for example login information on both the secure and public areas of <http://www.swift.com/> ), to repopulate fields (for example to access the Sibos Exhibitor Guide), or to track online acceptance (for example to track acceptance of the disclaimer of our translation service over the last 24 hours) or language preference. 
 
@@ -99,13 +98,13 @@ The third-party add-ons that we use to collect statistics of our sites’ resour
 
 The information stored with cookies may include your name, first name, registration number on <http://www.swift.com/> , language preference, login ID, and IP addresses. 
 
-**Web Acceleration Services**
+### Web Acceleration Services 
 
 For purposes of accelerating the consultation of our websites, we use the services of a supplier specialised in web acceleration services. This requires caching the content of our websites on a substantial number of servers worldwide. 
 
 This supplier only processes data on our instructions, provides sufficient guarantees in respect of technical and organisational data security measures, and has committed to notify us in case of a security breach compromising your personal data (see also ‘Sharing Data’ section below). 
 
-**Tracking of URL activation**
+### Tracking of URL activation 
 
 Upon registration to certain services (such as SWIFT Index), we will send you by e-mail a dedicated URL where you can download the relevant materials. For purposes of measuring and following-up on the use of the service, we will track the identity of persons who activated such URL as well as the moment of download. 
 
@@ -125,12 +124,12 @@ For example, you may have to inform that other person about parts of this Statem
 
 With regard to personal data collected on our websites, you may use the e-mail addresses provided in this Statement to: 
 
-  * exercise your access and correction rights
-  * object to the processing for direct marketing purposes
+  * exercise your access and correction rights 
+  * object to the processing for direct marketing purposes 
 
 
 
-We will handle all requests with care and diligence, and take corrective actions in accordance with the Belgian Act. 
+We will handle all requests with care and diligence, and take corrective actions in accordance with the Belgian Act.
 
 ### Privacy Officer
 
@@ -138,8 +137,8 @@ The SWIFT Privacy Officer carries out internal supervision in connection with ou
 
 You may exercise your rights and address any questions to the Privacy Officer: 
 
-  * by letter to S.W.I.F.T. SCRL, attention of Privacy Officer, Avenue Adèle 1, 1310 La Hulpe, Belgium
-  * by e-mail to [privacy.officer@swift.com](mailto:privacy.officer@swift.com).
+  * by letter to S.W.I.F.T. SCRL, attention of Privacy Officer, Avenue Adèle 1, 1310 La Hulpe, Belgium 
+  * by e-mail to [privacy.officer@swift.com](mailto:privacy.officer@swift.com). 
 
 
 
@@ -147,7 +146,7 @@ You may exercise your rights and address any questions to the Privacy Officer:
 
 We will not allow third parties to use your personal data for their own purposes without your consent. 
 
-When required for the SWIFT Purposes, we may share your data with other offices in the SWIFT group (see the [SWIFT Offices](http://www.swift.com/about_swift/company_information/swift_offices.page?) page), carefully selected suppliers, or other selected third parties (typically SWIFT partners or sub-contractors). 
+When required for the SWIFT Purposes, we may share your data with other offices in the SWIFT group (see the [SWIFT Offices](http://www.swift.com/about_swift/company_information/offices) page), carefully selected suppliers, or other selected third parties (typically SWIFT partners or sub-contractors). 
 
 Before sharing your data, we require such third parties to only process your personal data on our instructions and to provide sufficient guarantees in respect of the technical and organisational security measures protecting the data processing activities. 
 
@@ -155,7 +154,7 @@ Such SWIFT offices or third parties may be located in or outside the European Ec
 
 In the latter case, we ensure the lawfulness of such transfers by: 
 
-  * agreeing with other SWIFT offices on the standard contractual clauses approved by the European Commission Decision 2004/915/EC of 27 December 2004
+  * agreeing with other SWIFT offices on the standard contractual clauses approved by the European Commission Decision 2004/915/EC of 27 December 2004 
   * agreeing with third parties on the most appropriate statutory, contractual, or self-regulatory basis (for example Safe Harbor adherence) to allow such transfers.
 
 
