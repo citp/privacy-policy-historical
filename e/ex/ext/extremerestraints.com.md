@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremerestraints.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015063410id_/http%3A//www.extremerestraints.com/information/policies/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremerestraints.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601075350id_/http%3A//www.extremerestraints.com/information/policies/privacy-statement.html) for the most accurate reproduction.*
 
 # privacy statement | Bondage Gear - Sex Toys - Fucking Machines
 
@@ -50,7 +50,7 @@ Categories
 
 [Miscellaneous](http://www.extremerestraints.com/miscellaneous_51/)
 
-[Books and Media](http://www.extremerestraints.com/books-and-media_23/)
+[Fetish & Erotic Books](http://www.extremerestraints.com/fetish-and-erotic-books_23/)
 
 [Lubes & Creams](http://www.extremerestraints.com/lubes-and-creams_49/)
 
