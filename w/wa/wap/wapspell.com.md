@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wapspell.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227113816id_/http%3A//wapspell.com/terms.php%3Ftnz%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapspell.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601125653id_/http%3A//wapspell.com/terms.php%3Ftnz%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ We respond to subpoenas, court orders, or legal process, or to establish or exer
 We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of wapSPELL's terms of use, or as otherwise required by law.   
 We transfer information about you if wapSPELL is acquired by or merged with another company. In this event, wapSPELL will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
-wapSPELL displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria庸or example, women ages 18-24 from a particular geographic area.   
+wapSPELL displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria�for example, women ages 18-24 from a particular geographic area.   
 wapSPELL does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. wapSPELL advertisers include major advertisement networks and other direct advertising companies.
 
 We may also use your email address for communication which will be provided to us by your consent.
