@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mouseflow.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201144133id_/http%3A//mouseflow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouseflow.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601101545id_/http%3A//mouseflow.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Mouse tracking and heat maps with Mouseflow
+# Privacy Policy | Mouse tracking and heat maps with Mouseflow
 
 * At Mouseflow we recognize that your privacy is important. We value your trust and confidence and are firmly committed to protecting the privacy of our clients and visitors to our website. Mouseflow is equally committed to protecting the privacy of the information that it gathers.
 
@@ -145,3 +145,11 @@ We may change this Privacy Policy from time to time. When Mouseflow makes change
 ### B.6. Contacting us about Privacy
 
 If you have any questions about our privacy statement, the information we have collected from you online, the practices of this website, or your dealings with this website, please contact us by using our [contact form](https://web.archive.org/support/).
+
+## C. MISCELLANEOUS PROVISIONS
+
+### A.1. Safe Harbor
+
+Mouseflow complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Mouseflow has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+
+For more information, view our [Safe Harbor Policy](http://mouseflow.com/safe-harbor/) or [learn about the Safe Harbor program](http://www.export.gov/safeharbor/).
