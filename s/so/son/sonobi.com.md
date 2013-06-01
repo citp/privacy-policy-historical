@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonobi.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129205454id_/http%3A//sonobi.com/page.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonobi.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601100127id_/http%3A//sonobi.com/page.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Sonobi Media ™
 
