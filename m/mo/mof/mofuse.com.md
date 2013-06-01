@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mofuse.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108153129id_/http%3A//mofuse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofuse.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601184112id_/http%3A//mofuse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MoFuse
+# Privacy Policy - MoFuse | MoFuse
+
+## Privacy Policy
 
 **What information do we collect?**
 
@@ -36,7 +38,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **California Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act.  We therefore will not distribute your personal information to outside parties without your consent.
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
 **Children’s Online Privacy Protection Act Compliance**
 
@@ -64,14 +66,12 @@ This policy was last modified on November 21, 2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-www.mofuse.com
+[www.mofuse.com](https://web.archive.org/web/20130601184112id_/http%3A//mofuse.com/www.mofuse.com)
 
 MoFuse, Inc
 
 2348 Post Rd Suite 202
 
-Warwick, RI 02886
+Warwick, RI 02886 , USA
 
-USA
-
-support@mofuse.com
+[support@mofuse.com](mailto:support@mofuse.com)
