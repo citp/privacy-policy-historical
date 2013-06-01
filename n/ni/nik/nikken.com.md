@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nikken.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119110349id_/http%3A//www.nikken.com/policy-and-procedure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikken.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601182754id_/http%3A//nikken.com/esuite/corp/policy-and-procedure) for the most accurate reproduction.*
 
-# Nikken Product Technologies
+# Nikken - The Official Site of Nikken Products
 
 Nikken Inc. knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Nikken Inc.
 
