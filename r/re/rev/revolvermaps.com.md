@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revolvermaps.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116183429id_/http%3A//www.revolvermaps.com/%3Ftarget%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolvermaps.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602005607id_/http%3A//revolvermaps.com/%3Ftarget%3Dprivacy) for the most accurate reproduction.*
 
-# Revolver Maps - Free 3D Visitor Maps
+# Privacy Policy | RevolverMaps - Free 3D Visitor Maps
 
 ## Karma Implementor
 
@@ -11,7 +11,7 @@ This privacy policy has been created by Karma Implementor in order to demonstrat
   1. **General:**  
 No data is shared with third parties. 
   2. **Information collection (website):**  
-The information under (1) apply only to the use of the website. Please find privacy information about the web service under (2). 
+The information under (2) apply only to the use of the website. Please find privacy information about the web service under (3). 
 
 If someone requests a file from revolvermaps.com (usually by visiting www.revolvermaps.com with a web browser) no more information is collected than is typically expected to be collected by a website (IP address, referer, browser information, OS information). This logged information will be used by Karma Implementor for debugging purposes, internal statistics, quality assurance but will not be published except of being hacked and/or stolen.
 
