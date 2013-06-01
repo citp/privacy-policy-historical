@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onestopgate.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221041621id_/http%3A//onestopgate.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopgate.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601051419id_/http%3A//onestopgate.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,15 +30,5 @@ By e-mail: info [ at ] vyom.co.in
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
 
-| 
-
 |   
----  
-  
-  
-|   
----  
-|  **Exciting Offers**  
-  
----  
-[](http://partners.komli.com/z/11113/CD10092/)
+---|---
