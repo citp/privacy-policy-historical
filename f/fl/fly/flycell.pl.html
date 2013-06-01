@@ -1,0 +1,1483 @@
+<!--The following is the downloaded HTML source of the flycell.pl privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601193922id_/http%3A//flycell.pl/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+                    <!-- ny0119.lan.usny.acotel.com. -->
+            <title>Privacy Policy - Flycell</title>
+            <meta name="keywords" content="Ringtones, Cellphone Wallpapers, Free ringtones,Ring tones, Free ring tones, Free wallpapers, Hip hop, Ringtone, Polyphonic ringtones, Cellphone, Cell phone wallpaper,Real tones, Mobile games, Cell phone ring tones, Ringers, Cell phone ringtones, Cellular ringtones, Free ringtone, Ringtones for cell phones, Cell phone wallpapers,Ringtones download, Ring tone, Phone ringtones, Cell phone games, Free mobile ringtones, Downloadable ringtones, Free ring tone, Cell wallpaper, Cellphone ringtones, Mobile ringtones,69999" "="">
+            <meta name="description" content="Privacy Policy">
+			<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8;">
+            <meta http-equiv="Content-Language" content="">
+                        
+            <meta name="ROBOTS" content="NOINDEX">            
+            <meta name="ROBOTS" content="NOFOLLOW">            
+            <meta name="ROBOTS" content="NOODP">            
+                        <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+                
+        
+        <link rel="Shortcut Icon" href="http://images-cdn.flycell.com/template/shared/images/favicon.ico" type="image/x-icon">
+        
+        
+        <!-- Global CSS File -->
+        <link href="http://images-cdn.flycell.com/template/shared/css/global.css?v=2012_06_19" type="text/css" rel="stylesheet">
+        <!-- Global CSS File -->
+        		        <!--[if IE]>
+        <link href="http://images-cdn.flycell.com/template/shared/css/global_ie.css" type="text/css" rel="stylesheet" />
+		<![endif]-->
+        <!--
+        <link href="http://images-cdn.flycell.com/template/shared/css/community/form.css" type="text/css" rel="stylesheet" />
+        -->
+       
+       
+        <link href="http://images-cdn.flycell.com/template/shared/css/taf-site-wide/taf.css" type="text/css" rel="stylesheet">
+       
+         <link href="http://images-cdn.flycell.com/template/us/css/css-redesign-community.css?v=2012_07_16" rel="stylesheet" type="text/css">
+
+                 <script src="http://images-cdn.flycell.com/template/shared/js/global.js" type="text/javascript"></script>
+		<script src="http://images-cdn.flycell.com/template/shared/js/DD_belatedPNG_0.0.8a-min.js" type="text/javascript"></script>
+		
+				        <script src="http://images-cdn.flycell.com/template/shared/js/prototype.js" type="text/javascript"></script>
+         <script src="http://images-cdn.flycell.com/template/shared/js/scriptaculous.js" type="text/javascript"></script>
+                <script src="http://images-cdn.flycell.com/template/shared/js/swfobject.js" type="text/javascript"></script>
+        <script src="http://images-cdn.flycell.com/template/shared/js/content-viewer.js?2006042401" type="text/javascript"></script>
+        <script type="text/javascript" src="http://images-cdn.flycell.com/template/shared/js/previewPopup.js"></script>
+        <script type="text/javascript" src="http://images-cdn.flycell.com/template/shared/js/catalogPagination.js"></script>
+        
+        				
+
+		
+    </head>
+    
+    
+    <body onload="">
+    
+<script type="text/javascript">
+function toggleBlock(block, inline)
+{
+    var div = document.getElementById(block);
+    var type = (inline) ? "inline" : "block";
+    div.style.display = (div.style.display == type) ? "none" : type;
+}
+function requireLogin(returnUrl) {
+    loginRequired = true;
+    returnRedirect = returnUrl;
+}
+loginRequired = false;
+returnRedirect = false;
+function overlay() {
+    el = document.getElementById("overlay");
+
+    if (document.location.href.indexOf('popupLogin=true') == -1){
+        // expand the div height to cover the whole screen
+        // 100% height with css in firefox doesn't span all the way
+        // to the bottom of the page when you need to scroll
+        if (document.height == undefined){
+            // ie
+            el.style.height = document.body.offsetHeight + 'px';
+        } else {
+            el.style.height = document.height + 'px';
+        }
+    }
+
+    // move the form div to wherever is related to the display area
+    var el_f = document.getElementById("login_form");
+    if (window.pageYOffset == undefined){
+        // ie
+        el_f.style.marginTop = (200 + document.documentElement.scrollTop) + 'px';
+    } else {
+        el_f.style.marginTop = (200 + window.pageYOffset) + 'px';
+    }
+
+    el.style.visibility = (el.style.visibility == "visible") ? "hidden" : "visible";
+
+    if (el.style.visibility == 'visible')
+    {
+        if ($('minAge'))
+        {
+            $('minAge').style.display = 'none';
+        }
+
+        if ($('maxAge'))
+        {
+            $('maxAge').style.display = 'none';
+        }
+    }
+    else
+    {
+        if ($('minAge'))
+        {
+            $('minAge').style.display = '';
+        }
+
+        if ($('maxAge'))
+        {
+            $('maxAge').style.display = '';
+        }
+
+        $('errors').innerHTML = '';
+        loginRequired = false;
+    }
+
+    if (loginRequired)
+    {
+        $('requiredLoginText').style.display = '';
+        $('normalLoginText').style.display = 'none';
+    }
+    else
+    {
+        $('requiredLoginText').style.display = 'none';
+        $('normalLoginText').style.display = '';
+    }
+
+    if (returnRedirect)
+    {
+    	$('register-link').href = "/offer/?ref=901";
+    }
+
+    if ($('login').style.visibility == 'visible'){
+        $('login').focus();
+    }
+
+    if (document.getElementById('captcha_form').style.visibility == 'visible')
+    {
+        document.getElementById('login_form').style.display = 'block';
+        document.getElementById('captcha_form').style.visibility = 'hidden';
+    }
+
+    makeCaptcha();
+}
+function popUp(URL) {
+    day = new Date();
+    id = day.getTime();
+    eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=450,height=800,left = 615,top = 125');");
+}
+</script>
+
+
+<script type="text/javascript">
+var resetPhoneType;
+var resetPassShowAlert;
+var captchaSwapLogin;
+var cur_ts;
+
+function disableFormSubmissionOnEnterKey(evt){
+  var k=evt.keyCode||evt.which;
+  return k!=13;
+}
+
+function isValidEmail(str) {
+  return (str.indexOf(".") > 2) && (str.indexOf("@") > 0);
+}
+
+function getCaptcha(swapLogin) {
+    captchaSwapLogin = swapLogin;
+    
+    document.getElementById('login_captcha').value = document.getElementById('login').value;
+    document.getElementById('login_form').style.display = 'none';
+    document.getElementById('captcha_form').style.visibility = 'visible';
+
+    if (document.getElementById('overlay').style.visibility != 'visible')
+    {
+        document.getElementById('overlay').style.visibility = 'visible';
+    }
+
+//    makeCaptcha();
+}
+
+function makeCaptcha() {
+    cur_ts = getTs();
+
+    //var captcha_container = document.getElementById('captcha_container');
+    //var c_img;
+    var c_img = document.getElementById('captcha_img');
+    c_img.setAttribute('src', '/script/captcha/CaptchaSecurityImages.php?c=' + cur_ts);
+    
+    //var newCapImg = new Image();
+    //newCapImg.src = '/script/captcha/CaptchaSecurityImages.php?c=' + cur_ts;
+    //c_img.src = newCapImg.src;
+    
+    /*if (captcha_container.hasChildNodes())
+    {
+        var old_img = document.getElementById('captcha_img');
+        old_img.id = 'captcha_img_old';
+    }
+    
+    c_img = document.createElement('img');
+    c_img.id = 'captcha_img';
+    c_img.setAttribute('height', 40);
+    c_img.setAttribute('width', 120);
+    
+    if (old_img)
+    {
+        captcha_container.replaceChild(c_img, old_img);
+    }
+    else
+    {
+        captcha_container.appendChild(c_img);
+    }
+    c_img.setAttribute('src', '/script/captcha/CaptchaSecurityImages.php?c=' + cur_ts);*/
+}
+
+function resetPassword(login, showAlertBox, captchaText)
+{
+  loginOrig = $('login').value;
+
+  if (isNaN(loginOrig) || (loginOrig == "") || (loginOrig == "undefined")) {
+	  loginOrig = login;
+  }
+  
+  if($('phoneReturn1') && $('phoneReturn2') && $('phoneReturn3')){
+      $('login').value = $('phoneReturn1').value + $('phoneReturn2').value + $('phoneReturn3').value;
+      login = $('login').value;
+  }else if($('phoneReturn1') && $('phoneReturn2')){
+      $('login').value = $('phoneReturn1').value + $('phoneReturn2').value;
+      login = $('login').value;
+  }else if($('phoneReturn1')){
+  	$('login').value = $('phoneReturn1').value;
+  	login = $('login').value;
+  }
+
+  if (isNaN(login) || (login == "") || (login == "undefined")) {
+	  login = loginOrig;
+  }
+  
+  resetPhoneType = "";
+  
+  if (isValidEmail(login)){
+      resetPhoneType = 'email';
+  }
+  else if(!isNaN(login) && login.match(/^[2-9][0-9]{9}$/g) ){
+      resetPhoneType = 'phone';
+  }
+  //alert("resetPassword login:" + login + " showAlertBox:" + showAlertBox + " resetPhoneType:" + resetPhoneType);
+
+	if (resetPhoneType == ""){
+		alert('Please enter a valid email address or mobile #.');
+		return false;
+	}
+
+  if(showAlertBox){
+    resetPassShowAlert = true;
+  }
+  else{
+    resetPassShowAlert = false;
+    $('resetPasswordStatus').innerHTML = 'Sending request...';
+  }
+
+  var url = '/script/ajax/reset-password/reset.php';
+  var params = 'login=' + login + '&captchaText=' + captchaText;
+  var myAjax = new Ajax.Request(
+          url,
+          {
+              method: 'post',
+              parameters: params,
+              onComplete: showResetPasswordResponse
+          }
+      );
+}
+
+
+function showResetPasswordResponse(originalRequest)
+{
+  cur_ts = getTs();
+
+  //alert("showResetPasswordResponse originalRequest:" + originalRequest.responseText);
+  if(resetPhoneType == 'phone'){
+    var errorText = 'A new password has been sent to your phone via text message.';
+  }
+  if(resetPhoneType == 'email'){
+    var errorText = 'Your password has been sent to your email address.';
+  }
+
+  var resultVars = {0: 'There was a problem with our server. Please try again at a later time.',
+  1: errorText,
+  2: 'We are unable to identify a web account. Please use the New Users form to sign up for an account.',
+  3: 'There is no account for the phone number you entered. Please sign up as a New User.',
+  4: 'Sorry, the text you entered does not match the security image. Please try again.',
+  5: '',
+  6: ''};
+
+
+  //show either confirmation, or server problem error.
+  if(resetPassShowAlert)
+  {
+    if (originalRequest.responseText==4)
+    {
+      makeCaptcha();
+    }
+    else if (originalRequest.responseText==1) {
+        if (captchaSwapLogin)
+        {
+            document.getElementById('login_form').style.display = 'block';
+            document.getElementById('captcha_form').style.visibility = 'hidden';
+        }
+    }
+
+    alert(resultVars[Number(originalRequest.responseText)]);
+
+    // The next request should define its own resetPassShowAlert.
+    resetPassShowAlert = false;
+  }
+  else
+  {
+    $('resetPasswordStatus').innerHTML = resultVars[originalRequest.responseText];
+  }
+}
+
+function getTs()
+{
+    var ts = new Date();
+    return ts.getTime();
+}
+</script>
+
+<!-- overlay for login/forgot password -->
+<div id="overlay">
+  <div id="login_form">
+    <form name="login_form" method="post" action="/login">
+    <input type="hidden" name="redirectURL" value="">
+    <div class="existing_member">
+      <!-- login -->
+      <div id="login_toggle" style="display: block;">
+      	<div><a class="close right" href="javascript:void(0);" onclick="overlay()"></a></div>
+        <h2 class="form_color large">Log In</h2>
+
+        <p class="bold" id="requiredLoginText" style="display: none;">You must be logged in to do that. Log in below or <a href="/offer/?ref=901">Register</a>.</p>
+        <p class="bold large" id="normalLoginText">Welcome back to Flycell! Please log in below or <a href="/offer/?ref=901">click to register</a>.</p>
+
+        <div id="errors">
+                </div>
+
+        <div>
+          <label for="login" class="form_color bold large">E-mail Address or Phone No.</label>
+                      <input tabindex="1" class="input_text" name="login" id="login" value="" type="text">
+                  </div>
+		<br>
+        <div>
+          <label for="password">
+          <span class="form_color bold large">Password
+            (<a href="javascript:void(0);" onclick="resetPassword(document.getElementById('login').value, true);">Forget Your Password?</a>)
+          </span>
+          </label>
+          <input tabindex="2" class="input_text" name="password" id="password" type="password"><br>
+          <span class="bold small"> <a href="/privacy-policy">see our Privacy Policy</a></span>
+        </div>
+
+        <div>
+        <br>
+          <label class=" form_color bold large"><input tabindex="3" type="checkbox" name="rememberme" value="1"> Remember Me</label>
+        </div>
+        <br>
+        <div class="button_holder">
+                  <a id="register-link" href="/offer/?ref=901">
+                  	 <img src="http://images-cdn.flycell.com/template/us/images/register.gif" alt="Register">
+          </a>
+          <button type="submit" class="login_button"><img src="http://images-cdn.flycell.com/template/us/images/login.gif" alt="Log In"></button>
+        </div>
+        
+      </div>
+      <!-- end of login -->
+
+    </div>
+    </form>
+  </div>
+
+  <div id="captcha_form" style="margin-top: 200px; visibility: hidden;">
+    <form name="captcha_form" method="post" action="" onsubmit="resetPassword(document.getElementById('login_captcha').value, true, document.getElementById('captcha_text').value); return false;">
+    <input type="hidden" name="redirectURL" value="">
+    <div class="existing_member">
+      <!-- login -->
+      <div id="login_toggle" style="display: block;">
+       <div><a class="close right" href="javascript:void(0);" onclick="overlay()"></a></div>
+        <h2 class="form_color large">Log In</h2>
+
+        <p id="requiredLoginText" style="display: none;">You must be logged in to do that. Log in below or <a href="/offer/?ref=901">Register</a>.</p>
+        <p id="normalLoginText">Welcome back to Flycell! Please log in below or <a href="/offer/?ref=901">click to register</a>.</p>
+
+        <div id="captcha_errors">
+                </div>
+
+        <div id="form_field">
+          <label for="login" class="bold large" style="">E-mail Address or Phone No.</label>
+          <input tabindex="1" class="input_text" name="login" id="login_captcha" value="" type="text">
+        </div>
+
+        <div id="form_field">
+          <label for="captcha_text" class="bold large">
+            Please type in the code that is displayed on the image.
+          </label>
+
+          <p style="padding-bottom:8px" id="captcha_container"><img id="captcha_img" src="http://images-cdn.flycell.com/template/shared/pixel.gif" width="120" height="40" alt="Captcha"></p>
+
+          <input tabindex="2" class="input_text" name="captcha_text" id="captcha_text" type="text">
+        </div>
+
+        <div class="button_holder">
+          <button type="submit" class="login_button"><img src="http://images-cdn.flycell.com/template/us/images/login.gif" alt="Log In"></button>
+        </div>
+
+      </div>
+      <!-- end of login -->
+    </div>
+    </form>   
+  </div>
+</div>
+    <!-- product detail preload -->
+
+<script type="text/javascript">
+
+
+var maxCharsSw = 150;
+var maxEmailsSw = 5;
+var defaultMessage = '';
+
+
+function showTafSw(pubType, pubId, artistName)
+{ 
+    // populate the message box with default message
+	defaultMessage = 'I found this sweet #product# on Flycell.com.';
+
+    // change fields back in case they were changed
+    $('tafTitleSw').innerHTML    = 'Tell A Friend';
+    $('tafFromNameSw').value     = 'Your name here';
+    $('tafFromEmailSw').value    = 'Your valid email here';
+    $('tafToEmailsSw').value     = 'Your friends\' email here';
+    
+    // reset the message incase there are multiple TAF's on the page
+    $('tafMessageSw').value = '';
+    
+    $('taf-productType').value   = pubType;
+    $('taf-publicationId').value = pubId;
+    $('taf-artistName').value    = artistName;
+    
+    // change onclick event of the submit button
+    $('clickableSendSwButton').onclick = submitTafSw;
+
+    makeVisibleTafSw();    
+}
+
+function showTafArtist(artistName)
+{
+  // populate the message box with default message
+  var defaultMessage = '';
+  $('tafMessageSw').value = defaultMessage;
+
+  // change title to spread the word
+  $('tafTitleSw').innerHTML = '';
+
+  $('taf-artistName').value    = artistName;
+  
+  // change onclick event of the submit button
+  $('clickableSendSwButton').onclick = submitTafArtist;
+  
+  makeVisibleTafSw();
+}
+
+function makeVisibleTafSw()
+{
+    Element.hide('unclickableSendingSw');
+    Element.show('clickableSendSw');
+
+    var el = document.getElementById("overlay_taf_sw");
+    var el_c = document.getElementById("overlay_taf_sw_conf");
+
+    // expand the div height to cover the whole screen
+    // 100% height with css in firefox doesn't span all the way
+    // to the bottom of the page when you need to scroll
+    if (document.height == undefined){
+        // ie
+	   el.style.height = document.body.offsetHeight;
+	   el_c.style.height = document.body.offsetHeight;
+    } else {
+       el.style.height = document.height + 'px';
+	   el_c.style.height = document.height + 'px';
+    }
+
+    // move the form div to wherever is related to the display area
+    var el_f = document.getElementById("taf_sw_form");
+    var el_f_c = document.getElementById("taf_sw_conf_form");
+    if (window.pageYOffset == undefined){
+        // ie
+        el_f.style.marginTop = (120 + document.documentElement.scrollTop) + 'px';
+        el_f_c.style.marginTop = (120 + document.documentElement.scrollTop) + 'px';
+    } else {
+        el_f.style.marginTop = (120 + window.pageYOffset) + 'px';
+        el_f_c.style.marginTop = (120 + window.pageYOffset) + 'px';
+    }
+
+	// count the text
+	textCounterSw();
+
+    el.style.visibility = (el.style.visibility == "visible") ? "hidden" : "visible";    
+}
+
+function textCounterSw()
+{
+    //remaining chars
+    $('remLenSw').innerHTML = maxCharsSw-$('tafMessageSw').value.length;
+}
+
+function submitTafSw()
+{
+    if (!validateTafSw()){
+        return;
+    }
+
+    var url = '/script/ajax/tell-a-friend/send-taf.php';
+    var params = 'fromName=' + encodeURIComponent($('tafFromNameSw').value) +
+                 '&fromEmail=' + encodeURIComponent($('tafFromEmailSw').value) +
+                 '&to=' + encodeURIComponent($('tafToEmailsSw').value) +
+                 '&msg=' + encodeURIComponent($('tafMessageSw').value) +
+                 '&publicationId=' + $('taf-publicationId').value
+                 ;
+
+    var myAjax = new Ajax.Request(
+            url, 
+            {
+                method: 'post', 
+                parameters: params, 
+                onComplete: showTAFResponseSw
+            }
+        );
+}
+
+function submitTafArtist()
+{
+    if (!validateTafSw()) {
+        return;
+    }
+    
+    var url = '/script/ajax/tell-a-friend/send-taf.php';
+    var params = 'fromName=' + encodeURIComponent($('tafFromNameSw').value) +
+                 '&fromEmail=' + encodeURIComponent($('tafFromEmailSw').value) +
+                 '&to=' + encodeURIComponent($('tafToEmailsSw').value) +
+                 '&msg=' + encodeURIComponent($('tafMessageSw').value) +
+                 '&artistName=' + encodeURIComponent($('taf-artistName').value)
+                 ;
+                 
+    var myAjax = new Ajax.Request(
+            url, 
+            {
+                method: 'post', 
+                parameters: params, 
+                onComplete: showTAFArtistResponse
+            }
+        );    
+}
+
+function validateTafSw()
+{
+    Element.hide('clickableSendSw');
+    Element.show('unclickableSendingSw');
+    
+    textCounterSw();
+
+    //run validation on the fields first.
+    if ($('tafFromNameSw').value == '') {
+        alert('Invalid From Name');
+	    Element.hide('unclickableSendingSw');
+	    Element.show('clickableSendSw');
+        return 0;
+    }
+
+    //validate from email 
+    if (!isEmailValid($('tafFromEmailSw').value)) {
+        alert('Invalid From Email');
+	    Element.hide('unclickableSendingSw');
+	    Element.show('clickableSendSw');
+        return 0;
+    }
+    
+    if ($('tafMessageSw').value == '') {
+        $('tafMessageSw').value = defaultMessage.replace('#product#', $('taf-productType').value);
+    }
+
+    //validate message
+    if ($('remLenSw').innerHTML < 0) {
+        alert('Flycell knows you have lots to tell your friends, but let\'s keep it below 150 characters!');
+	    Element.hide('unclickableSendingSw');
+	    Element.show('clickableSendSw');
+        return 0;
+    }
+
+    //validate to emails
+    //if more than one, validate each
+    if ($('tafToEmailsSw').value.indexOf(',')!=-1) {
+       emails = $('tafToEmailsSw').value.split(',')
+	   if (emails.length > maxEmailsSw){
+	       alert('Whoops, you have too many friends. 5 email addresses is the limit! ');
+	       Element.hide('unclickableSendingSw');
+	       Element.show('clickableSendSw');
+		   return 0;
+	   }
+       for (i=0; i < emails.length; i++) {
+         eml = emails[i].replace(' ','')
+         if (!isEmailValid(eml)) {
+           alert('One of the email addresses you want to send this to is not valid. Please verify and try again.');
+	       Element.hide('unclickableSendingSw');
+	       Element.show('clickableSendSw');
+           return 0;
+         }
+       }
+    } else if (!isEmailValid($('tafToEmailsSw').value)) {
+       alert('The email address you want to send to is not valid. Please verify and try again.');
+       Element.hide('unclickableSendingSw');
+       Element.show('clickableSendSw');
+       return 0;;
+    }
+
+    return 1;
+}
+
+function showTAFResponseSw(originalRequest)
+{
+    if (originalRequest.responseText==1){
+        $('tafConfTitleSw').innerHTML = 'Tell A Friend';
+        $('tafConfirmationEmailsSw').innerHTML = $('tafToEmailsSw').value.replace(",", "<br/>");
+        if ($('taf-conf-productType')){
+            $('taf-conf-productType').innerHTML  = $('taf-productType').value;
+        }
+        
+        $('tafFromNameSw').value = '';
+        $('tafFromEmailSw').value = '';
+        $('tafToEmailsSw').value = '';
+        $('tafMessageSw').value = '';
+        $('taf-publicationId').value = '';
+
+        makeVisibleTafSw();
+        document.getElementById("overlay_taf_sw_conf").style.visibility = 'visible';
+    } else {
+        catchTafMailerErrors(originalRequest);
+    }
+}
+
+function showTAFArtistResponse(originalRequest)
+{
+    if (originalRequest.responseText==1){
+        $('tafConfTitleSw').innerHTML = '';
+        $('tafConfirmationEmailsSw').innerHTML = $('tafToEmailsSw').value.replace(",", "<br/>");
+        if ($('taf-conf-productType')){
+            $('taf-conf-productType').innerHTML  = '';
+        }
+        
+        $('tafFromNameSw').value = '';
+        $('tafFromEmailSw').value = '';
+        $('tafToEmailsSw').value = '';
+        $('tafMessageSw').value = '';
+        $('taf-publicationId').value = '';
+        
+        makeVisibleTafSw();
+        document.getElementById("overlay_taf_sw_conf").style.visibility = 'visible';        
+    } else {
+        catchTafMailerErrors(originalRequest);
+    }
+}
+
+function catchTafMailerErrors(originalRequest)
+{
+    if (originalRequest.responseText.indexOf('CONFIG_TAF_MAILER_OVER_NUM_EMAILS_LIMIT') != -1){
+        alert('You\'ve hit the limit. Only 4 alerts can be sent out hourly.');
+        Element.hide('unclickableSendingSw');
+	    Element.show('clickableSendSw');
+    } else if (originalRequest.responseText.indexOf('CONFIG_TAF_MAILER_SAME_RECIPIENT') != -1) {
+        alert('Hey, you\'ve already sent this to your friend today! Try again tomorrow.');
+	    Element.hide('unclickableSendingSw');
+	    Element.show('clickableSendSw');
+    } else if (originalRequest.responseText.indexOf('CONFIG_TAF_MAILER_MAX_RECIPIENTS') != -1) {
+	    alert('');
+	    Element.hide('unclickableSendingSw');
+	    Element.show('clickableSendSw');
+    } else if (originalRequest.responseText.indexOf('CONFIG_TAF_MAILER_MAX_CHARACTERS') != -1) {
+	    alert('Flycell knows you have lots to tell your friends, but let\'s keep it below 150 characters!');
+	    Element.hide('unclickableSendingSw');
+	    Element.show('clickableSendSw');
+    } else {
+    	// all these errors should have been caught
+		// but we are here - so we have to handle it
+	    alert('Cannot send emails with the provided information. Please verify and try again.');
+	    Element.hide('unclickableSendingSw');
+	    Element.show('clickableSendSw');
+    }
+}
+
+function hideTafConfirmationSw()
+{
+    document.getElementById("overlay_taf_sw_conf").style.visibility = 'hidden';
+}
+
+function showTerms() {
+  if (document.getElementById("termsPop").style.display == 'none') {
+    document.getElementById("termsPop").style.display = 'block';
+    document.getElementById("privacyPop").style.display = 'none';
+    document.getElementById("termsLinkPop").style.fontWeight = 'bold';
+    document.getElementById("privacyLinkPop").style.fontWeight = 'normal';
+  } else {
+    document.getElementById("termsPop").style.display = 'none';
+    document.getElementById("termsLinkPop").style.fontWeight = 'normal';
+  }
+}
+function showPrivacy() {
+  if (document.getElementById("privacyPop").style.display == 'none') {
+    document.getElementById("termsPop").style.display = 'none';
+    document.getElementById("privacyPop").style.display = 'block';
+    document.getElementById("termsLinkPop").style.fontWeight = 'normal';
+    document.getElementById("privacyLinkPop").style.fontWeight = 'bold';
+  } else {
+    document.getElementById("privacyPop").style.display = 'none';
+    document.getElementById("privacyLinkPop").style.fontWeight = 'normal';
+  }
+}
+
+function clearTextSw(el)
+{
+  if (el.was_changed == undefined) {
+      el.value = '';
+      //el.was_changed = 1;
+  }
+}
+
+</script>
+    <!-- taf included -->
+<div id="overlay_taf_sw">
+    <div id="taf_sw_form">
+    	<div class="existing_member">
+    	<div><a class="close right" href="javascript:void(0);" onclick="makeVisibleTafSw()"></a></div>
+            <div>
+                <h1 style="color:white;" id="tafTitleSw">Tell A Friend</h1>
+                  
+            </div>
+            <div>
+                <div id="form_field">
+                    <span>
+                        <label>Your Name:</label>
+                        <input id="tafFromNameSw" class="input_text" type="input" name="fromName" value="Your name here" onfocus="clearTextSw(this)">
+                      
+                        <label>Your Email:</label>
+                        <input id="tafFromEmailSw" class="input_text" type="input" name="fromEmail" value="Your valid email here" onfocus="clearTextSw(this)">
+                       
+                        <label>To:</label>
+                        <input id="tafToEmailsSw" class="input_text" type="input" name="toEmails" value="Your friends' email here" onfocus="clearTextSw(this)"><br>
+                        <span style="font-size:10px; margin-left: 3px;">(separate emails with commas)</span>
+                        <label>Message:</label>
+                         <textarea id="tafMessageSw" class="input_text" name="tafMessageSw" value="" cols="30" rows="5" onkeypress="textCounterSw()" wrap="" maxlength="150"></textarea>
+                       
+						<div style="font-size: 10px; margin-left: 3px;"><span id="remLenSw">#charCount#</span> characters left</div>
+                        <script type="text/javascript">if ($('remLenSw')) $('remLenSw').innerHTML=maxCharsSw;</script>
+			            <input type="hidden" name="productType" id="taf-productType" value="">
+			            <input type="hidden" name="publicationId" id="taf-publicationId" value="">
+                        <input type="hidden" name="artistName" id="taf-artistName" value="">
+                    </span>
+        
+                    <div>
+                        <div align="center" id="clickableSendSw">
+                            <img src="http://images-cdn.flycell.com/template/us/images/send_button.gif" id="clickableSendSwButton" onclick="submitTafSw()" style="cursor:pointer;" alt="Send">
+                        </div>
+                        <div align="center" id="unclickableSendingSw" style="display:none;">
+                            <img src="http://images-cdn.flycell.com/template/us/images/sending_button.gif" alt="Sending">
+                        </div>  
+                  <div align="center"><a id="termsLinkPop" onclick="showTerms();" href="javascript:void(0)">Terms and Conditions</a> | <a id="privacyLinkPop" onclick="showPrivacy();" href="javascript:void(0)">Privacy Policy</a>
+				   <br>
+				   <br>
+                   <div id="termsPop" style="text-align: left; display: none; width: 320px; font-size: 9px; line-height: 11px; margin-left: 5px;">
+                       By using Flycell's Tell a Friend service you are giving Flycell permission to e-mail an invitation on your behalf to another party to view a product on our Web site. Doing this infers willful presumption on your part that said party will not oppose receiving such a message. Spamming will not be tolerated. Spamming includes, but is not limited to, providing e-mail addresses from mailing lists and public forums, and submitting the same e-mail address repeatedly. Finally, Flycell offers no premiums or discounts for submitting a pre-set quantity of e-mail addresses. Please practice responsible use.
+                   </div>
+                   <div id="privacyPop" style="text-align: left; display: none; width: 320px; font-size: 9px; line-height: 11px; margin-left: 5px;">
+                       Flycell processes names and e-mail addresses only for the purposes of Tell a Friend. Neither your name nor your friend's name and e-mail address is stored or used for any other purpose. Flycell strictly adheres to the U.S. safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement. Should you have any questions or concerns regarding the use of personal information with Tell a Friend, please contact customer support.
+                   </div>
+	                   	                   		<br>
+	                   		<div><img src="http://images-cdn.flycell.com/template/us/images/truste_seal_web_taf.gif" alt="TrustE Logo"></div>
+	                                     </div> 
+                    </div>
+                     
+                </div>
+          	</div>
+      	</div>        	
+    </div>
+</div>    <!-- taf conf included -->
+<div id="overlay_taf_sw_conf">
+    <div id="taf_sw_conf_form">
+        <div class="existing_member">
+            <div>
+                <h1 style="color:white;" id="tafConfTitleSw">Tell A Friend</h1>
+            </div>
+            <div style="font-size:12px;">
+			    <br>
+<p style="color: #FFFFFF;"></p><h2 style="color: #FFFFFF;">Success!</h2> We've sent an email to: <span id="tafConfirmationEmailsSw" style="color: #378AB4;"></span> with your personalized message and a link to the <span id="taf-conf-productType"></span> you wanted them to check out.<p></p>
+<br>
+<br>
+<p style="color: #FFFFFF;">Keep spreading the word by using Flycell's 'Tell A friend' service everyday. Tell your friends, family or even your enemies when you discover those perfect ringtones, wallpapers and games!</p>
+<br>
+<p style="color: #FFFFFF;">Thank you for using 'Tell A Friend'.</p>
+<br>
+                <p align="center">
+                    <input type="image" src="http://images-cdn.flycell.com/template/us/images/close_button.gif" onclick="hideTafConfirmationSw()" value="Close">
+                </p>
+            </div>
+        </div>    
+       <!-- <div><a class="close" href="javascript:void(0);" onclick='hideTafConfirmationSw()'>Close</a></div> -->
+    </div>
+</div>
+
+<div id="wrap">
+   <div id="hd">
+        <div id="logo"><a href="/"><img src="http://images-cdn.flycell.com/template/shared/images/community/clear.gif" width="200" height="60" alt="Privacy_Policy " title="Privacy_Policy "></a></div>
+
+        <div id="userLinks">
+        
+                                     <br>
+                                            
+ 
+<div class="login_top"><a href="/offer/?ref=901">Register</a> | <a onclick="overlay();" style="cursor:pointer">Login</a></div>
+
+
+                                       
+                         </div>
+
+</div><!-- div hd ends here -->
+                                        
+
+
+<!--[if lte IE 6]> 
+<script type="text/javascript">
+sfHover = function() {
+	var sfEls = document.getElementById("nav").getElementsByTagName("LI");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+</script>
+
+<![endif]--> 
+
+
+	<div id="menu">
+	<ul id="nav">
+		<li class="nav_ringtones"><a href="/realtones-polyphonic-ringtones">Ringtones</a>
+			<ul class="subnav_ringtones">
+				<li class="sub_open"></li>
+				<li class="sub_cat"><a href="/realtones-polyphonic-ringtones" class="sub_link">Ringtones Home</a></li>
+				<li class="sub_cat"><a href="#" class="sub_link">Genres</a><div class="subArrow">&gt;</div>					
+					<ul>
+						<li>
+							<div class="subList">
+								<div class="subNavContent small">
+								<h2 class="medium">
+								<a href="/realtones-polyphonic-ringtones/rap-and-hip-hop" class="menuSeeAllGenres">RAP / HIP-HOP</a>
+								</h2>
+								<a href="/realtones-polyphonic-ringtones/rap-and-hip-hop">Staff Picks</a>
+								<a href="/realtones-polyphonic-ringtones/rap-and-hip-hop/east-coast">East Coast</a>
+								<a href="/realtones-polyphonic-ringtones/rap-and-hip-hop/dirty-south">Dirty South</a>
+								<a href="/realtones-polyphonic-ringtones/rap-and-hip-hop/west-coast">West Coast</a>
+								<a href="/realtones-polyphonic-ringtones/rap-and-hip-hop/underground">Underground</a>
+								<a href="/realtones-polyphonic-ringtones/rap-and-hip-hop/death-row">Death Row</a>
+								<br>
+								<a href="/realtones-polyphonic-ringtones/rap-and-hip-hop" class="menuSeeAll">See all Rap/Hip Hop</a>
+								</div>
+								
+								<div class="subNavContent small">
+								<h2 class="medium">
+								<a href="/realtones-polyphonic-ringtones/r-and-b" class="menuSeeAllGenres">R &amp; B</a>
+								</h2>
+								<a href="/realtones-polyphonic-ringtones/r-and-b">Staff Picks</a>
+								<a href="/realtones-polyphonic-ringtones/r-and-b/r-and-b">R &amp; B</a>
+								<a href="/realtones-polyphonic-ringtones/r-and-b/classics">Classic</a>
+								<a href="/realtones-polyphonic-ringtones/r-and-b/soul">Soul</a>
+								<br>
+								<br>
+								<br>
+								<a href="/realtones-polyphonic-ringtones/r-and-b" class="menuSeeAll">See all R &amp; B</a>
+								</div>
+								
+								<div class="subNavContent small">
+								<h2 class="medium">
+								<a href="/realtones-polyphonic-ringtones/pop" class="menuSeeAllGenres">POP</a>
+								</h2>
+								<a href="/realtones-polyphonic-ringtones/pop">Staff Picks</a>
+
+								<a href="/realtones-polyphonic-ringtones/pop/80s">80's</a>
+								<a href="/realtones-polyphonic-ringtones/pop/dance">Dance</a>
+								<a href="/realtones-polyphonic-ringtones/pop/love-songs">Love Songs</a>
+								<a href="/realtones-polyphonic-ringtones/pop/top-40">Top 40</a>
+								<br>
+								<br>
+								<a href="/realtones-polyphonic-ringtones/pop" class="menuSeeAll">See all Pop</a>
+								</div>
+								
+								<div class="subNavContent small">
+								<h2 class="medium">
+								<a href="/realtones-polyphonic-ringtones/rock" class="menuSeeAllGenres">ROCK</a>
+								</h2>
+								<a href="/realtones-polyphonic-ringtones/rock">Staff Picks</a>
+
+								<a href="/realtones-polyphonic-ringtones/rock/classic-rock">Classic Rock</a>
+								<a href="/realtones-polyphonic-ringtones/rock/alternative">Alternative</a>
+								<a href="/realtones-polyphonic-ringtones/rock/indie">Indie</a>
+								<a href="/realtones-polyphonic-ringtones/rock/hard-rock">Hard Rock</a>
+								<br>
+								<br>
+								<a href="/realtones-polyphonic-ringtones/rock" class="menuSeeAll">See all Rock</a>
+								</div>	
+								
+								<div class="subNavContent last small">
+								<h2 class="medium">
+								<a href="/realtones-polyphonic-ringtones/country" class="menuSeeAllGenres">COUNTRY</a>
+								</h2>
+								<a href="/realtones-polyphonic-ringtones/country">Staff Picks</a>
+	
+								<a href="/realtones-polyphonic-ringtones/country/modern">Modern</a>
+								<a href="/realtones-polyphonic-ringtones/country/classics">Classics</a>
+								<a href="/realtones-polyphonic-ringtones/country/folk">Folk</a>
+								<a href="/realtones-polyphonic-ringtones/country/contemporary">Contemporary</a>
+								<br>
+								<br>
+								<a href="/realtones-polyphonic-ringtones/country" class="menuSeeAll">See all Country</a>
+								
+
+								<div id="allGenres"><div class="tab1 tab1_selected"><div class="tab2 tab2_selected"><a href="/realtones-polyphonic-ringtones" class="menuSeeAllGenres">SEE ALL GENRES &gt;&gt;</a></div></div></div>
+								
+									
+							</div><!-- end sublist holder -->
+						</div></li>
+						</ul>
+					</li>
+				<li class="sub_cat"><a href="/artist-browse" class="sub_link">Browse By Artist</a></li>
+				<li class="sub_cat"><a href="/lyrics-artist-browse" class="sub_link">Browse Lyrics By Artist</a></li>
+				<li class="sub_cat"><a href="/idjmobile" class="sub_link">IDJMobile</a></li>
+				<li class="sub_cat"><a href="/iphoneholidayapp" class="sub_link">iPhone Apps</a></li>
+	      <li class="sub_close"></li>
+			</ul>
+		</li>
+
+		<li class="nav_graphic"><a href="/mobile-cell-phone-wallpapers">Graphics</a>
+			<ul class="subnav_graphics">				
+				<li>					
+							<div class="subList">
+								<div class="subNavContent small">
+								<h2 class="medium">
+								<a href="/mobile-cell-phone-wallpapers" class="menuSeeAllGenres">WALLPAPERS</a>
+								</h2>
+								<a href="/mobile-cell-phone-wallpapers/cartoons-and-stuff">Cartoons</a>
+								<a href="/mobile-cell-phone-wallpapers/holidays">Holidays</a>
+								<a href="/mobile-cell-phone-wallpapers/hot-girls">Hot Girls</a>
+								<a href="/mobile-cell-phone-wallpapers/hot-guys">Hot Guys</a>
+								<a href="/mobile-cell-phone-wallpapers/animals">Nature/Animals</a>
+								<a href=""></a>
+								<br>
+								<a href="/mobile-cell-phone-wallpapers" class="menuSeeAll">See all Wallpapers</a>
+								</div>
+								
+								<div class="subNavContent small">
+								<h2 class="medium">
+								<a href="/mobile-phone-animations" class="menuSeeAllGenres">ANIMATIONS</a>
+								</h2>
+								<a href="/mobile-phone-animations/cartoons">Cartoons</a>
+								<a href="/mobile-phone-animations/female-pinups">Female Pinups</a>
+								<a href="/mobile-phone-animations/holidays">Holidays</a>
+								<a href="/mobile-phone-animations/sports">Sports</a>
+								<br>
+								<br>
+								<a href="/mobile-phone-animations" class="menuSeeAll">See all Animations</a>
+								</div>
+								
+								<div class="subNavContent last small">
+								<h2 class="medium">
+								<a href="/mobile-phone-themes" class="menuSeeAllGenres">THEMES</a>
+								</h2>
+								<a href="/mobile-phone-themes/astrology">Astrology</a>
+								<a href="/mobile-phone-themes/comics">Comics</a>
+								<a href="/mobile-phone-themes/cute">Cute</a>
+								<a href="/mobile-phone-themes/models">Models</a>
+								<a href="/mobile-phone-themes/sports">Sports</a>
+								<br>
+								<a href="/mobile-phone-themes" class="menuSeeAll">See all Themes</a>
+								</div>
+											
+							</div><!-- end sublist holder -->
+				</li>
+			</ul>
+		</li>
+
+		<li class="nav_play"><a href="/mobile-phone-games">Play</a>
+			<ul class="subnav_play">
+				<li class="sub_open"></li>
+
+				<li class="sub_cat"><a href="/mobile-phone-games" class="sub_link">Mobile Games</a><span class="subArrow">&gt;</span>
+					<ul class="subnav_games">	
+						<li>
+								<div class="subNavContent last small">
+								<h2 class="medium">
+								<a href="/mobile-phone-games" class="menuSeeAllGenres">Mobile Games</a>
+								</h2>
+								<a href="/mobile-phone-games/action">Action</a>
+								<a href="/mobile-phone-games/adventures">Arcade</a>
+								<a href="/mobile-phone-games/casino">Casino</a>
+								<a href="/mobile-phone-games/puzzle">Puzzle</a>
+								<a href="/mobile-phone-games/sports">Sports</a>
+								<br>
+								<a href="/mobile-phone-games" class="menuSeeAll">See all Games</a>
+								</div>
+
+						</li>
+					</ul>				
+				</li>
+													
+					<li class="sub_cat"><a href="/mobile-phone-applications" class="sub_link">Applications</a></li>
+					<li class="sub_cat"><a href="/android-mobile-phone-games" class="sub_link">Android Games</a></li>
+					<li class="sub_cat"><a href="/android-mobile-phone-applications" class="sub_link">Android Applications</a></li>
+					<li class="sub_cat"><a href="/offer/?ref=233" class="sub_link">Skillderby</a></li>
+					
+			<li class="sub_close"></li>
+			</ul>
+		</li>
+
+		<li class="nav_text"><a href="/text-alerts">Text</a>
+			<ul class="subnav_text">
+				<li class="sub_open"></li>
+				<li class="sub_cat"><a href="/text-alerts" class="sub_link">Text Alerts</a>
+				</li>
+												<li class="sub_close"></li>
+			</ul>
+		</li>
+
+		<li class="nav_community"><a href="/my-settings/settings">Account</a>
+			<ul class="subnav_community">
+				<li class="sub_open"></li>
+				<li class="sub_cat"><a href="/my-settings/my-locker" class="sub_link">My Locker</a></li>
+				<li class="sub_cat"><a href="/my-settings/settings" class="sub_link">Account</a></li>
+				<li class="sub_close"></li>
+			</ul>
+		</li>
+	</ul>
+	<div id="menu_sub">
+		<ul>
+		        <li class="sub_upload"><a href="/goto-spanish" class="sub_uploadlink">En Español</a></li>
+	        	<li class="sub_extra"><a href="/learn-more" class="sub_extralink">Help | Call Us <span class="error">1-800-580-0017</span></a></li>
+		</ul>
+	</div>
+	</div>
+
+	
+                        
+<div id="bd">
+		<div class="col_680 left">	
+			<!-- box -->
+             <div id="" class="box privacy_policy">
+
+                 <!-- *** START: Header *** -->
+                 <div class="box_hd">
+                     <h2 id="">Privacy Policy</h2>
+                     <span id=""></span></div>
+                 <!-- *** END: Header *** -->
+
+
+                 <!-- *** START: Main *** -->
+                 <div id="" class="box_main">
+                    
+                    			<div class="right" style="padding-left: 11px;">
+					
+					<a href="http://www.truste.org/ivalidate.php?url=www.flycell.com&amp;sealid=101"><img src="http://images-cdn.flycell.com/template/us/images/truste_seal_ctv.gif"></a>
+					
+			</div>
+
+				<p class="small">
+			We at FLYCELL, INC. ("Flycell") know how much you value your privacy, so we make sure that your privacy is protected any time you are using our Services. Flycell (www.flycell.com) operates this on the World Wide Web. You do need to give us some personal information so we are able to process your orders and requests. However, we want you to know what information we need, why we need it, and how we make sure that your information is protected. We want you to be able to enjoy your Flycell experience safely and privately.
+			</p>
+								
+			<h2>Your Flycell account</h2>
+			<p class="small">
+			When you sign up with Flycell, you establish a password-protected personal account for ordering goods and services and participating in online social networks. Flycell is a PAY Site, i.e., the goods and services offered by Flycell are not free. Flycell also operates a social networking Site free of charge (collectively, the Services). 
+			</p>
+			
+			<p class="small">
+			Please note that information you provide in an optional public profile can be viewed by anyone, and can potentially be used to contact you or send you unsolicited messages. You should not post personally identifiable information in public areas of our Site, and this policy does not cover information posted in such areas. 
+			</p>
+			
+			<h2>Information we need from you</h2>
+			<p class="small">
+			In order to establish your private Flycell account and/or place an order with Flycell, we need some personal information from you. This information may include contact information (such as name, email, cell phone number and address) and certain billing information, like a new cell phone number or change of carrier.
+			</p>
+			<p class="small">
+			We may occasionally request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (such as name and mailing address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of the Flycell Service.
+			</p>
+			<p class="small">
+			As you navigate within the Flycell Sites, we automatically track and collect information about your computer, PDA, telephone or other equipment that you use to access the sites. This information includes IP address, device specifications, domain server, browser specifications, mobile identification number and telecommunications identifying information. As you use our Services, we may collect information about your traveling to and use of channels and other features on Flycell Sites, and also which third party websites, WAP sites, and other sites you visit.
+			</p>
+			<p class="small">
+			In some cases, when you purchase third party goods or services through a Flycell Site, or use promotional materials, you may be asked to provide personal information to a third party provider of the goods or services. That information is subject to the privacy policy of the provider, and this privacy policy does not apply to the collection or treatment of such information via the Flycell Site.
+			</p>
+			
+			<h2>Emails and SMS Messages</h2>
+			<p class="small">
+			By registering for a Flycell account, you agree that we may send you the following types of email communications: welcome emails, our weekly newsletter, account status updates and promotional content and solicitations. You can also opt-out of specific types of email communications through your account settings by clicking on the unsubscribe link located in the footer. Upon clicking this link, you will be redirected to the unsubscribe page (http://www.flycell.com/learn-more/unsubscribe) where you can submit your email and click the unsubscribe link. Our Services feature the distribution of content to your cellular phone, and by registering for a Flycell account, you agree to receive SMS messages to your phone, including messages regarding Services you request, account status updates, and occasional SMS newsletters. You will also have the opportunity to opt-in via registration and receive surveys and promotional content by our affiliates. You may opt out of our SMS newsletter by sending an email or by responding to the SMS newsletter indicating that you would like to unsubscribe.
+			</p>
+			<p class="small">
+			Our Site may provide you with the opportunity to refer your friends, family members or relatives to the Flycell Services. For this feature of our Site to work, we need to collect your friends and families' email addresses. The email addresses we collect in this context are not used for any other purpose other than to send a one-time referral. Should you choose to use our referral service to tell a friend using our Tell-A-Friend feature about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Flycell stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at http://www.flycell.com/support to request that we remove this information from our database.
+			</p>
+			
+			<h2>Use of Your Personally Identifiable Information</h2>
+			<p class="small">
+			Flycell operates sites on behalf of some of its customers (for example, other businesses that contract with us to operate mobile storefronts or other services for them). When we operate Sites on behalf of such customers, we may disclose your information (including personally identifiable information) to them when you provide it to us as part of registering for those sites or "opting in" for promotions, programs or offerings from those customers. Our customers will use and disclose the information we provide them pursuant to their own policies regarding such information. Flycell also maintains channels and other features on Flycell's own Sites in cooperation with third parties (e.g., to feature the work of certain musicians or other artists, or record labels/publishers), and we may disclose your email address, telephone number or mobile identification number, and other personally identifiable information to such third parties when you provide it to us as part of subscribing to such channels or features. Flycell's customers and other third parties that we cooperate with will use and disclose the information we provide them pursuant to their own policies regarding such information. We recommend that you review those policies before providing us with personal information in connection with sites, promotions, programs or offerings from such third parties, and before subscribing to channels or features we operate in cooperation with third parties. In addition, traffic data and personal data may be used by Flycell for editorial and feedback purposes, for marketing and promotional purposes, for statistical analysis of users' behavior, for product development, for site improvement, and to inform advertisers of how many visitors have seen or clicked on their advertisements or viewed their promotions. In these cases, data is maintained and reviewed on an aggregate (i.e., group) basis. We may share this information with our customers and other parties, but when we do so it does not include personally identifying information. In addition, we use traffic and personal data to customize and tailor your experience on Flycell Sites, such as to help us display content that we think you may be interested in.
+			</p>
+			
+			<h2>Changing your information</h2>
+			<p class="small">
+			To update your personal information, simply sign in to the Site and go to My Account from your personal home page. You may also contact our Support team by writing <a href="help@flycell.com">help@flycell.com</a>. You can make changes to your account information at any time. 
+			</p>
+			
+			<h2>Data Retention</h2>
+			<p class="small">
+			We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <a href="mailto:help@flycell.com">help@flycell.com</a>.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+			</p>
+			
+			<h2>Protecting your information</h2>
+			<p class="small">
+			Flycell uses industry best practices to protect your information and your privacy. When any personal information is requested on the site we use SSL to present secure pages to protect that it.
+			</p>
+			<p class="small">
+			You can tell if you are using a secure server by looking at the bottom of your browser window. In Netscape Navigator or Internet Explorer, you will see a lock icon. When the symbol is unbroken or the padlock appears to be in its closed state, the page is encrypted and therefore secure. If you wish to take advantage of the latest encryption standards, be sure you have the latest version of the browser you're using. You can download the latest version from the Netscape or Microsoft Web sites. Beta versions of browsers are not recommended.
+			</p>
+			
+			<h2>E-mail notification of new Flycell features and special offers</h2>
+			<p class="small">
+			We will notify you about new features and services on Flycell ONLY if you request to receive this information when you register as a new user. You may subscribe or unsubscribe to this notification service through your account profile on the Flycell website. You can click the unsubscribe link which will redirect you to a settings page, where a notification will provide you of the un-subscription result.
+			</p>
+			<p class="small">
+			We may send you Site and Service announcement updates with important information about the Service. Members are not able to un-subscribe from service announcements. You may de-activate your account if you do not wish to receive these emails.
+			</p>
+			<p class="small">
+			Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account by clicking the unsubscribe link located in the account profile section of the Flycell website. Upon confirmation that you would like to unsubscribe, you will be redirected to a settings page, where a notification will provide you of the un-subscription result.
+			</p>
+			
+			<h2>Sharing your information with third parties</h2>
+			<p class="small">
+			We wil not share, sell, rent or trade your PII with third parties for promotional purposes.
+			</p>
+			
+			<p class="small">
+			The personal information that you provide is an important part of our business. We are not in the business of selling this information to others. This information will only be shared with our direct partners and agents as required.
+			</p>
+			
+			<h2>Cookies</h2>
+			<p class="small">
+			Cookies are pieces of information that your browser receives from Web sites and stores on your computer's hard drive. Information in cookies includes preferences you select while visiting a particular Web site. For example, by storing cookies on your hard drive, you�ll return to a specific Web site with the same settings you used on a previous visit. 
+			</p>
+			<p class="small">
+			We do require cookies in order to manage and protect your Flycell session, and if you choose, to store your e-mail address (so you don't have to type it in every time you log in). If you have cookies turned off, you will not be able to access the Flycell Service. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
+			</p>
+			
+			<p class="small">
+			In addition, 3rd-Party tracking cookies may be used to gather analytical data as it relates to website usage and content downloads. The use of cookies by our partners, affiliates, tracking utility company,  or service providers is not covered by our privacy statement.  We do not have access or control over these cookies.  Our partners, affiliates, tracking utility company and service providers  use session ID cookies to make it easier for you to navigate our site or in order for you to use the shopping cart. 
+			</p>
+			
+			
+			<h2>Web beacons</h2>
+			<p class="small">
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+			</p>
+			
+			<h2>Log files</h2>
+			<p class="small">
+			Our servers store IP addresses for all connections to the Service. This data is analyzed in the aggregate and is not linked to your personal account.
+			</p>
+			
+			<h2>Third Party Advertising</h2>
+			<p class="small">
+			Ads that appear on this Site may be delivered to users by a number of advertising partners that may change from time to time. Information about users' visits to this Site, such as the number of times they have viewed an ad (but not user name, address, or other personally identifiable information), may be used to serve ads to users on this Site.
+			</p>
+			
+			<h2>Disclosure to Third Parties</h2>
+			<p class="small">
+			Flycell may, without further notice to you, disclose your traffic data and personal data to third parties when we believe such disclosure is appropriate to: protect the rights, property or safety of Flycell, the Flycell Sites, our users or others; enforce our terms and conditions of usage; provide the Services you directly request from us through the Flycell Sites; comply with law, a court order or other legal process; in the course of responding to any claim by a third party that you are using services provided through the Flycell sites in connection with an infringing, illegal, harmful or improper activity or that data you provided to a Flycell Site infringes rights of the third party; in response to request for identification in connection with a claim of copyright or trademark infringement by you; and to facilitate the maintenance or hosting of Flycell Sites by an affiliate or service provider engaged to do so, subject to that party's agreement to comply with this Privacy Policy. 
+			</p>
+			
+			<h2>Notification of changes</h2>
+			<p class="small">
+			If our privacy policy changes, those changes will be posted to this privacy statement, and other places we deem appropriate so our users are aware of the policy and applicable changes. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will e-mail our users announcing the new privacy policy.
+			</p>
+			
+			<h2>Your Acceptance of this Policy</h2>
+			<p class="small">
+			By visiting our Site, you signify your consent to the terms of this Privacy Policy. We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time. Please check our Site for updates. Any dispute as to these terms shall be governed by the laws of the State of New York law and subject to the courts of New York.
+			</p>
+			
+			<h2>Changes to this Privacy Policy</h2>
+			<p class="small">
+			As we update and expand our Services and Sites, we reserve the right to modify this privacy policy at any time. Any changes to the policy will be posted at http://www.flycell.com. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. By continuing to use the site after changes to this policy, you agree to those changes.
+			</p>
+			
+			<h2>Linked Sites</h2>
+			<p class="small">
+			Flycell Sites contain links to third party-operated websites, including third party-operated sites where you may obtain information about or purchase certain products or services. These third parties may collect personal information from you in connection with your use of such Sites and products and services promoted or available on them. We are not responsible for the content or privacy practices of any such Sites. You should review any third party privacy policy or terms that govern your use of such sites or applications.
+			</p>
+			
+			<h2>Lost or Stolen Information</h2>
+			<p class="small">
+			You must notify Flycell promptly if any user name or password that you use on our Sites is lost, stolen or used without permission. Upon notice, we will cancel that user name or password and update our records accordingly.
+			</p>
+			
+			<h2>Children</h2>
+			<p class="small">
+			When a child who indicates that his or her age is under 13 attempts to register for any area or feature of a Flycell site that requires a user account or password, we will disable the ability for that child to create an account. You must be 13 or older to use our Sites. By registering for a Flycell account or providing information on other parts of the Flycell you represent that you are 13 years of age or older. If you are between 13 and 17, you agree that you received parental permission both to complete the registration process and to download content to your cell phone. We will not knowingly collect personal information of children under 13 years of age, and if we learn that we have inadvertently collected such information, we will promptly delete it.
+			</p>
+			
+			<h2>TRUSTe Disclosure</h2>
+			<p class="small">
+			Flycell, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html " class="u">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.flycell.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:support@flycell.com">support@flycell.com</a> or <a href="mailto:help@flycell.com">help@flycell.com</a>.  If you are not satisfied with our response you can contact TRUSTe <a href="http://watchdog.truste.com/pvr.php?page=complaint" class="u">here</a>.
+			</p>
+
+			<p class="small">
+			Acotel Interactive, Inc. d/b/a Flycell, Inc. complies with the U.S. - EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Acotel Interactive, Inc. d/b/a Flycell, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Acotel Interactive, Inc. d/b/a Flycell, Inc.'s certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank" class="u">http://www.export.gov/safeharbor/</a>.
+			</p>
+			
+			<h2>Ownership</h2>
+			<p class="small">
+			Flycell, Inc. owns and operates Flycell and the Sites and is the sole owner of the information collected on our Sites.
+			</p>
+			
+			<h2>Contact Information</h2>
+			<p class="small">
+			Flycell, Inc.<br> 
+			80 Pine St. 29th Floor<br>
+			New York, NY 10005 
+			<br>
+			<a href="mailto:support@flycell.com">support@flycell.com</a>
+			<br>
+			<a href="mailto:help@flycell.com">help@flycell.com</a>
+			</p>
+			
+			<h2>Last Updated May 16, 2012</h2>
+			
+			<p class="small">
+			Copyright 2012 © Flycell, Inc.
+			</p>
+	
+                 </div>
+                 <!-- *** END: Main *** -->
+
+
+                 <!-- *** START: Footer *** -->
+                 <div id="" class="box_ft">
+                     
+                 </div>
+                 <!-- *** END: Footer *** -->
+
+             </div>
+             <!-- end box -->
+		</div> <!-- end col_680 -->
+								
+		<div class="col_300 right">
+			<!-- box -->
+             <div id="" class="box question_support">
+
+                 <!-- *** START: Header *** -->
+                 <div class="box_hd">
+                     <h2 id="">Questions?</h2>
+                     <span id=""></span></div>
+                 <!-- *** END: Header *** -->
+
+
+                 <!-- *** START: Main *** -->
+                 <div id="" class="box_main">
+                    
+                    If you have a question that is not answered here, please use the <a class="bold" href="/support">Contact Support</a> page.
+<br><br>
+                 </div>
+                 <!-- *** END: Main *** -->
+
+
+                 <!-- *** START: Footer *** -->
+                 <div id="" class="box_ft">
+                     
+                 </div>
+                 <!-- *** END: Footer *** -->
+
+             </div>
+             <!-- end box -->
+		</div> <!-- end col_300 -->
+
+		
+</div> <!-- end bd --> 
+				       
+
+<br>
+
+<div id="ft">
+ <div id="footer_top">
+  
+
+
+        
+    
+
+    <a href="/" class="footLink xmall">Download Ringtones</a>&nbsp;|&nbsp;
+    <a href="/realtones-polyphonic-ringtones" class="footLink xmall">MP3 Ringtones</a>&nbsp;|&nbsp;
+    <a href="/realtones-polyphonic-ringtones" class="footLink xmall">MP3 and Music Ringtones</a>&nbsp;|&nbsp;
+    <a href="/mobile-cell-phone-wallpapers" class="footLink xmall">Cell Phone Wallpapers</a>&nbsp;|&nbsp;
+    <a href="/mobile-phone-games" class="footLink xmall">Mobile Games</a>&nbsp;|&nbsp;
+    <a href="/mobile-phone-applications" class="footLink xmall">Cellular Applications</a>
+        <br> 
+
+    <a href="/text-alerts" class="footLink xmall">Text Alerts</a>&nbsp;|&nbsp;
+    
+            <a href="/my-settings/free-sms-home" class="footLink xmall" rel="nofollow">Send Text</a>&nbsp;|&nbsp;
+
+
+    	<a href="/my-settings/my-locker" class="footLink xmall" rel="nofollow">My Locker</a>&nbsp;|&nbsp;
+    	<a href="/my-settings/settings" class="footLink xmall" rel="nofollow">Account</a>&nbsp;|&nbsp;
+
+
+     <a href="/learn-more/knowledge-base?fullFaq=true" class="footLink xmall" rel="nofollow">Frequently Asked Questions</a>
+	<br>	
+    <a href="/support" class="footLink xmall" rel="nofollow">Contact Support</a>&nbsp;|&nbsp;
+    <a href="/learn-more/unsubscribe" class="footLink xmall" rel="nofollow">Unsubscribe</a>&nbsp;|&nbsp;
+    <a href="/terms-of-use" class="footLink xmall" rel="nofollow">Terms of Use</a>&nbsp;|&nbsp;
+    <a href="http://tracking.bucksense.com/aff_c?offer_id=72&amp;aff_id=1&amp;aff_sub=site&amp;source=flycell" class="footLink xmall" rel="nofollow" m="" target="_blank">Affiliates</a>&nbsp;|&nbsp;
+    <a href="/privacy-policy" class="footLink xmall" rel="nofollow">Privacy Policy</a>&nbsp;|&nbsp;
+    <a href="/copyright" class="footLink xmall" rel="nofollow">Copyright</a>&nbsp;|&nbsp;
+    <a href="http://www.mobilityblogs.net/flycell" onclick="window.open(this.href); return false;" class="footLink xmall">Flycell Blog</a>&nbsp;|&nbsp;
+    <a href="/corporate" class="footLink xmall" rel="nofollow" target="_blank">About Flycell</a>
+
+
+ </div>
+
+ <div id="footer_bottom">
+ </div>
+
+<br>
+	        <div style="clear:both;text-align:center;margin-bottom:10px;">
+        			        	<img src="http://images-cdn.flycell.com/template/us/images/carrier_logos_dark_no_sprint.gif" width="616" height="34" alt="Flycell services are available for Verizon Wireless, AT&amp;T, T-Mobile, Alltel and Cellular One users">
+        	        	
+        </div>
+							<div align="center" class="copyright">
+
+
+Flycell International Sites:
+<a href="http://www.flycell.com.ar" class="copyright" style="text-decoration:none; margin-left: 10px;" title="Flycell Argentina">Argentina</a>
+<a href="http://www.flycell.com.br" class="copyright" style="text-decoration:none; margin-left: 10px;" title="Flycell Brazil">Brazil</a>
+<a href="http://www.flycell.ca" class="copyright" style="text-decoration:none; margin-left: 10px;" title="Flycell Canada">Canada</a>
+<a href="http://www.flycell.it" class="copyright" style="text-decoration:none; margin-left: 10px;" title="Flycell Italy">Italy</a>
+<a href="http://www.flycell.com.mx" class="copyright" style="text-decoration:none; margin-left: 10px;" title="Flycell Mexico">Mexico</a>
+<a href="http://www.flycell.es" class="copyright" style="text-decoration:none; margin-left: 10px;" title="Flycell Spain">Spain</a>
+<a href="http://www.flycell.com.tr" class="copyright" style="text-decoration:none; margin-left: 10px;" title="Flycell Turkey">Turkey</a>
+<br>
+<br>
+<a href="/privacy-policy"><img src="/template/us/images/truste_logo.gif" alt="TrustE"></a> &nbsp; <a href="/privacy-policy"><img src="/template/us-es/images/truste_logo.gif" alt="TrustE Logo"></a>
+<br>
+<br>
+Flycell US: (<a href="http://www.flycell.com/goto-english">English</a> | <a href="http://www.flycell.com/goto-spanish">Español</a>)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+ <div class="copyright">
+  Artist names used for identification purposes only.
+  <br>
+  <a href="/corporate/" class="footLink" target="_blank" rel="nofollow">© 2008 Flycell Inc. All Rights Reserved</a>
+  </div>
+    
+
+
+
+  <br>
+  <br>
+  <br>
+ </div>
+</div><!-- div ft ends here -->
+
+
+
+
+
+
+  
+
+    
+        
+
+				        
+        
+
+ 
+
+<!-- Google Analytics Code NEW PROFILE  -->
+<!-- <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-170226-7";
+urchinTracker();
+</script>-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-170226-7");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- END Google Analytics Code NEW PROFILE  -->
+
+
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-170226-1";
+_ucid="ref";
+urchinTracker();
+</script>
+
+ <!-- Google Code for Default Conversion Page -->
+<script language="JavaScript" type="text/javascript">
+<!--
+var google_conversion_type = 'landing';
+var google_conversion_id = 1068681128;
+var google_conversion_language = "en_US";
+var google_conversion_format = "1";
+var google_conversion_color = "666666";
+//-->
+</script>
+<script language="JavaScript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<img height=1 width=1 border=0 src="http://www.googleadservices.com/pagead/conversion/1068681128/extclk?script=0">
+</noscript>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-012Kq1nHYGWi6"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<a href="http://www.quantcast.com/p-012Kq1nHYGWi6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-012Kq1nHYGWi6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+<!-- ny0119.lan.usny.acotel.com. -->
+
+
+    </body></html>
