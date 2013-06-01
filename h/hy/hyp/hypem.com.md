@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hypem.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105131749id_/http%3A//hypem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypem.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601144445id_/http%3A//hypem.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / The Hype Machine
 
-## PRIVACY POLICY Translate: [](http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&langpair=en%7Cfr&hl=en&ie=UTF8 "Translate into French") [](http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&langpair=en%7Cde&hl=en&ie=UTF8 "Translate into German") [](http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&langpair=en%7Ces&hl=en&ie=UTF8 "Translate into Spanish") [](http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&langpair=en%7Cit&hl=en&ie=UTF8 "Translate into Italian") [](http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&langpair=en%7Cpt&hl=en&ie=UTF8 "Translate into Portugese")
+## PRIVACY POLICY
 
 The Hype Machine Inc. ("Hype Machine") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Hype Machine website located at http://hypem.com (the "Site"), you are accepting the practices outlined in this Privacy Policy.
 
