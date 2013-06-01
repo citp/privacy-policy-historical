@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 20somethingfinance.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215150737id_/http%3A//20somethingfinance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20somethingfinance.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601112524id_/http%3A//20somethingfinance.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
