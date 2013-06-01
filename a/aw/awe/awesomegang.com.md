@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomegang.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114230609id_/http%3A//awesomegang.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomegang.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601121542id_/http%3A//awesomegang.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Awesome Gang
 
@@ -24,4 +24,4 @@ Google, as a third party vendor, uses cookies to serve ads on your site.
 Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-We may serve up ads to affiliate networks that pay us a small commission when someone buys something from that link.
+We may serve up ads to affiliate networks that pay us a small commission when someone buys something from that link. 
