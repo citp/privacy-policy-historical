@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptenlinks.com privacy policy that was archived on 2012-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120128091324id_/http%3A//www.toptenlinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenlinks.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601080918id_/http%3A//top10links.com/privacy) for the most accurate reproduction.*
 
 # Top10Links - best web sites in over 1000 categories! Find the top web sites fast!
 
@@ -21,7 +21,7 @@ A) We offer a free email [newsletter](https://web.archive.org/newsletter/) to th
 
 \- email address
 
-B) We offer free web based [email](https://web.archive.org/tools/email/) accounts to those who voluntarily provide:
+B) We offer free web based [email](https://web.archive.org/email/) accounts to those who voluntarily provide:
 
 \- user name  
 \- password  
@@ -41,7 +41,7 @@ D) We offer the ability to leave comments on sites in our directory to those who
 \- email address  
 \- comments 
 
-E) We offer a traffic partnership [program](https://web.archive.org/partners/traffic/) to those who voluntarily provide:
+E) We offer a traffic partnership program to those who voluntarily provide:
 
 \- user name and password  
 \- email address  
@@ -54,7 +54,7 @@ F) We offer a [feedback form](https://web.archive.org/contact-us/) to those who 
 \- email address  
 \- feedback 
 
-G) We offer a [help form](https://web.archive.org/contact-us/help.php) to those who voluntarily provide:
+G) We offer a [help form](https://web.archive.org/contact-us/) to those who voluntarily provide:
 
 \- name  
 \- email address  
@@ -62,7 +62,7 @@ G) We offer a [help form](https://web.archive.org/contact-us/help.php) to those 
 \- ICQ or AOL IM address  
 \- description of problem 
 
-H) We offer a [survey form](https://web.archive.org/contact-us/survey.htm) to those who voluntarily provide:
+H) We offer on ocassion a survey to those who voluntarily provide:
 
 \- name  
 \- email address  
@@ -107,7 +107,7 @@ We record IP addresses, browser types, browser versions, paged visited and site 
 
 A) If you subscribe to our [newsletter](https://web.archive.org/newsletter/), we will use the email address you provided to send you our newsletter from time-to-time.
 
-B) If you sign up for our free web based [email](https://web.archive.org/tools/email/) accounts we will use the following information,
+B) If you sign up for our free web based [email](https://web.archive.org/email/) accounts we will use the following information,
 
 \- user name  
 \- password  
@@ -133,7 +133,7 @@ D) If you leave comments on sites in our directory, we will use the following in
 
 to publicly display your name, email address and your comments regarding the site you commented on.
 
-E) If you participate in our traffic partnership [program](https://web.archive.org/partners/traffic/), we will use the following information,
+E) If you participate in our traffic partnership program, we will use the following information,
 
 \- user name and password  
 \- email address  
@@ -150,7 +150,7 @@ F) If you provide feedback using our [feedback form](https://web.archive.org/con
 
 to read your feedback and email you a reply.
 
-G) If you request help using our [help form](https://web.archive.org/contact-us/help.php), we will use the following information,
+G) If you request help using our [help form](https://web.archive.org/contact-us/), we will use the following information,
 
 \- name  
 \- email address  
@@ -160,7 +160,7 @@ G) If you request help using our [help form](https://web.archive.org/contact-us/
 
 to troubleshoot the problem you are requesting help on and to reply to your request of help by email or an instant message address.
 
-H) If you participate in our [survey](https://web.archive.org/contact-us/survey.htm) we will use the following information,
+H) If you participate in one of our surveys we will use the following information,
 
 \- name  
 \- email address  
@@ -230,25 +230,25 @@ Top10Links contains links to other web sites on the Internet. Please be aware th
   
 **Security of User Information:**  
   
-Top10Links takes every precaution to protect our users� information. When users submit sensitive information via the website, your information is protected both online and off-line.
+Top10Links takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line.
 
 If and when we or one of the payment processing companies we use asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL.
 
-While on a secure page, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just �surfing�. To learn more about SSL, click [here](http://www.ssl.com/).
+While on a secure page, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just ‘surfing’. To learn more about SSL, click [here](http://www.ssl.com/).
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users� information, not just the sensitive information mentioned above, is restricted in our offices.
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices.
 
-Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must reenter their password to regain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers� information is protected. 
+Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must reenter their password to regain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. 
 
-Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. If you have any questions about the security of your personal information at our website, please [contact us](https://web.archive.org/contact-us/help.php).   
+Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. If you have any questions about the security of your personal information at our website, please [contact us](https://web.archive.org/contact-us/).   
   
 **Supplemental Information:**  
   
 In order for this website to properly fulfill its obligation to our customers, it may be necessary for us to supplement the information we receive with information from 3rd party sources.
 
-For example, to determine if our customers qualify for credit terms, we may use their name and social security number to request a credit report. Once we determine a user�s creditworthiness, this document is destroyed.
+For example, to determine if our customers qualify for credit terms, we may use their name and social security number to request a credit report. Once we determine a user’s creditworthiness, this document is destroyed.
 
-Or in order for Top10Links to enhance its ability to tailor the site to an individual�s preference, we may combine information about the purchasing habits of users with similar information from our partners to create a personalized user profile. When a user makes a purchase from one of our partners, they collect and share that purchase information with us so we can tailor the site to our users� preferences.   
+Or in order for Top10Links to enhance its ability to tailor the site to an individual’s preference, we may combine information about the purchasing habits of users with similar information from our partners to create a personalized user profile. When a user makes a purchase from one of our partners, they collect and share that purchase information with us so we can tailor the site to our users’ preferences.   
   
 **Advertisments:**  
   
@@ -268,9 +268,9 @@ If you do not wish to receive these emails you can immediately stop them by noti
 
 Instructions for how to do this are usually provided on pages relevant to the web site service you wish to stop using. For example to unsubscribe from our newsletter simply enter your email address in the form at the following URL:
 
-[http://www.top10links.com/newsletter/](https://web.archive.org/newsletter/)
+[http://top10links.com/newsletter/](https://web.archive.org/newsletter/)
 
-If removal instructions are not in the area you wish to be removed from, simply [email us](https://web.archive.org/contact-us/help.php) the following information:
+If removal instructions are not in the area you wish to be removed from, simply [email us](https://web.archive.org/contact-us/) the following information:
 
 \- your email address  
 \- the service you wish to be removed from  
