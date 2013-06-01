@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gumgum.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920000417id_/http%3A//gumgum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumgum.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601184209id_/http%3A//gumgum.com/privacy-policy) for the most accurate reproduction.*
 
-# GumGum - World's Largest In-Image Advertising Platform | Privacy
+# GumGum - The Premium In-Image Advertising Platform | Privacy
 
 ## Privacy Policy
 
