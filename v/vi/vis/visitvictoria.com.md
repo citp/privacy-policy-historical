@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the visitvictoria.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201130516id_/http%3A//www.visitvictoria.com/Tourism-Victoria/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitvictoria.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601095102id_/http%3A//www.visitvictoria.com/Tourism-Victoria/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Melbourne, Victoria, Australia
 
 This online Privacy and Website Notice applies to this site, which is operated by Tourism Victoria (ABN 18 381 772 530) under the domain name 'www.visitvictoria.com', and other Tourism Victoria Internet sites. It explains how Tourism Victoria collects, uses and manages the information of visitors to its Internet sites. Tourism Victoria views the privacy of your personal information as an important issue, and is committed to protecting your privacy when you access and interact with the Tourism Victoria site. As such, this site supports and endorses the principles of the Victorian Information Privacy Act 2000.
 
-Visitor logs are used on this site for statistical purposes only, and no attempt will be made to identify you or your browsing activity. This information will only be used to update and improve the site.
+Visitor logs are used on this site for statistical purposes only, and no attempt will be made to identify you or your browsing activity. This information will only be used to update and improve the site...
 
 Email addresses will only be used to respond to specific user queries, and will not be kept or used for any purpose other than stated. Email addresses will not be added to a mailing list unless consent is given, nor disclosed to any other party without your knowledge or consent.
 
@@ -19,7 +19,7 @@ You can configure your browser to notify you when you receive a cookie, providin
 
 When you visit the site, Tourism Victoria's Internet Service Provider (ISP) makes a record of your visits and logs the following information for statistical purposes - your server address, your top-level domain name, the date and time of your visit to the site, the pages accessed and documents downloaded, the previous site visited and the type of browser used.
 
-This statement is to be read in conjunction with the rights claimed by the Privacy Act 1998 at [www.privacy.gov.au](http://www.privacy.gov.au/).
+This statement is to be read in conjunction with the rights claimed by the Privacy Act 1998 at [www.privacy.gov.au](http://www.privacy.gov.au/)
 
 **Personal information  
 **Any personal information collected through this website will only be made available to Government personnel or approved contracted parties whose duties require them to use this information. Any personal information collected through this website will also be disclosed if required by law.
