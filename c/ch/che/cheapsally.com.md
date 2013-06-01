@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapsally.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226045657id_/http%3A//www.cheapsally.com/contact-us/%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapsally.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601094405id_/http%3A//www.cheapsally.com/contact-us/%23privacy-policy) for the most accurate reproduction.*
 
 # Contact Us
 
@@ -81,3 +81,7 @@ We currently use “cookies” on our site. Our cookies tag each visitor’s bro
 **Contact Us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or the information you have submitted, please contact us at contact@cheapsally.com
+
+**Chango**
+
+We are currently working with Chango Inc collecting anonymous, non-personally identifiable information in order to display relevant advertisements. Information might include your IP address, browser, recent search history and activity on the websites of our partners. If you do register with their website they will collect personally identifiable information. Please contact us for more information or if you have any questions.
