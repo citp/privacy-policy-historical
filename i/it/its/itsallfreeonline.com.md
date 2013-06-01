@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsallfreeonline.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119050918id_/http%3A//itsallfreeonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsallfreeonline.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601103539id_/http%3A//itsallfreeonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Its All Free Online - Free Samples
 
@@ -37,4 +37,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Rating: 6.0/ **10** (2 votes cast)
+Rating: 7.3/ **10** (3 votes cast)
+
+Privacy Policy, 7.3 out of 10 based on 3 ratings 
