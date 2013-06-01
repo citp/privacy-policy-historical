@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the igenius.org privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219051430id_/http%3A//www.igenius.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igenius.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601051547id_/http%3A//www.igenius.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Igenius Privacy Policy
+# igenius Discovering Child's Talent | Online Contests for Kids | Parenting Advice | Scholarship Program, igenius by Max Life Insurance, igenius for allrounder children
+
+##  Privacy Policy
 
 The Privacy Policy governs the use of this website [www.igenius.org](http://www.igenius.org/) of Max Life Insurance Co. Ltd.
 
