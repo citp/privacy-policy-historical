@@ -1,27 +1,51 @@
-> *The following text is extracted and transformed from the degreesmart.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506074937id_/http%3A//www.degreesmart.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreesmart.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601031029id_/http%3A//degreesmart.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Degree Smart
 
-| 
+Privacy Policy Statement
 
-**PRIVACY POLICY **
+This is the web site of **DegreeSmart.com, LLC**.  
+Our postal address is  
+**315 Meigs Road, Ste A  
+Santa Barbara, CA 93109**
 
-At the DegreeSmart web site, operated by DegreeSmart, we care about your privacy. This policy details what information we collect and how we use it.
+We can be reached via e-mail at: **andrew (at) degreesmart.com**  
+or you can reach us by telephone at 8054562746
 
-**Surfing Data**  
-When you browse through our site, we collect information on the efficiency and working of our Web site. This information includes the number of times a web page is accessed, the browser used, and paths taken when moving through the Web site, and search terms entered by users. We keep this information for an indefinite time to improve the operation of our site.   
-We may use third-party advertising companies to serve ads on our site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. 
+For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
-**Contact Information**  
-We also collect personal contact information if you enter it when requesting information from a school. This contact information is stored on our servers to provide schools with inquiry management features. It is also passed onto the schools you identify (sometimes through a vendor that is under contract to the school), so that they may contact you with more information. Personally identifiable Contact Information is not sold to third parties except as explicitly required to fulfill your information request. Contact Information is aggregated to create reports on overall education industry trends, which may be sold to third parties. 
+We collect aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, name and address, telephone number.
 
-**Cookies**  
-DegreeSmart uses cookies (small files on your computer), to provide us with usage statistics about our web site, and to understand where visitors find out about our web site. No data is stored in the cookie that identifies you personally. 
+The information we collect is used for internal review and is then discarded, used to improve the content of our Web page.
 
-**Schools Contacting You**  
-Different schools have different methods of following up with student information requests. Some will send you brochures in the mail, others will reply via email or try to contact you by telephone. By using our service to request information from schools, you are giving permission to schools (or their partners or vendors) to contact you using the method of their choice, to fulfill your information request, notwithstanding your possible listing in the National Do-Not-Call Registry. 
+With respect to cookies: We do not set any cookies.
 
-**DegreeSmart**  
-Finally, DegreeSmart reserves the right to contact you in the future to help improve our operations or to introduce new services, such as surveys to ensure that schools have followed up with your information requests in a timely manner. 
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address.
 
-We invite you to contact us if you have questions about our privacy policy. You may contact us by mail at the following address:
+From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, writing to us at the above address.
+
+From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, writing to us at the above address.
+
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, writing to us at the above address. you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by calling us at the number provided above, writing to us at the above address.
+
+Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations
+
+Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, writing to us at the above address.
+
+Persons who supply us with their telephone numbers on-line may receive telephone contact from other reputable companies. You can, however, have your name put on our do-not-share list by , sending us e-mail at the above address, writing to us at the above address.  
+Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
+
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.  
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address, writing to us at the above address.
+
+Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them .  
+Consumers can access this information by e-mail us at the above address, writing to us at the above address.
+
+Consumers can have this information corrected by sending us e-mail at the above address, writing to us at the above address.
+
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of   
+information that we have collected from you at our site.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
