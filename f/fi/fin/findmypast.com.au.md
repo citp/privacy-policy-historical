@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmypast.com.au privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102214240id_/http%3A//www.findmypast.com.au/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmypast.com.au privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601023503id_/http%3A//www.findmypast.com.au/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | findmypast.com.au
 
