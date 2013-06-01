@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxhouston.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120140242id_/http%3A//www.myfoxhouston.com/story/19534280/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxhouston.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601111538id_/http%3A//www.myfoxhouston.com/story/19534280/privacy-policy) for the most accurate reproduction.*
 
 # Fox Television Stations Privacy Policy - Houston weather, traffic, news | FOX 26 | MyFoxHouston
 
