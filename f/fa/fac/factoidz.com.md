@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the factoidz.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920010048id_/http%3A//knoji.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factoidz.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601095922id_/http%3A//knoji.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy — Knoji
 
-Find coupons, reviews & forums for thousands of companies
+Get the inside scoop on your favorite shopping websites
 
 SEARCH
+
+**Popular stores:** [eHarmony](http://eharmony.knoji.com/), [Starbucks](http://starbucks.knoji.com/), [Hostgator](http://hostgator.knoji.com/), [Kohl's](http://kohls.knoji.com/), [REI](http://rei.knoji.com/), [Bath & Body Works](http://bathbodyworks.knoji.com/), [Sephora](http://sephoracom.knoji.com/), [Express](http://express.knoji.com/), [Chegg](http://chegg.knoji.com/), [Victoria's Secret](http://victorias-secret.knoji.com/), [Brookstone](http://brookstone.knoji.com/), [Viator](http://viator.knoji.com/)
 
 At Knoji we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Knoji Inc. or its subsidiaries or affiliated companies (collectively, Knoji’s “services”). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice.
 
@@ -90,8 +92,6 @@ Please note that this Privacy Policy may change from time to time. We will not r
 Ask a Question on Knoji 
 
 x
-
-Get answers from experts on Knoji. For the best response, be clear in your wording, include all necessary details and avoid spelling and punctuation errors. 
 
 Your Question:
 
@@ -244,6 +244,87 @@ Must earn +50,000 votes
 +5,000 article recommendations AND +25,000 answer votes
 
 Increased earnings rate. Greater number of votes.
+
+Knoji Q&A Ambassador Program Guidelines
+
+x
+
+Asking questions
+
+Your primary job as an Ambassador is to kick off thoughtful discussion threads around products, services. Your discussions can be on any topic in Knoji's category system. Here are some examples of the types of discussions you'll be starting: 
+
+**Requests for recommendations for any type of product or service** , examples: 
+
+**Advice to solve a specific problem** , examples: 
+
+Answering questions
+
+  * People on Knoji ask questions seeking recommendations for products and services. We encourage our community members to answer questions whenever you can make a useful recommendation towards any request.
+  * When pointing to specific products, **please link to specific product pages** on [Amazon.com](http://www.amazon.com/) or [Walmart.com](http://www.walmart.com/)
+  * **UPDATE:** Ambassadors earn bonuses for answering questions, however - _only answers which include products links_ (as described above) will earn bonuses.
+  * You should **include screenshots** of the products you recommend (Ambassadors: you earn increased rewards when doing this)
+  * Try to recommend products that you've had personal experience with. If not, it is acceptable to recommend products or options based on thorough research you do online.
+
+
+
+Get started by adding to the discussion now!
+
+Q&A Ambassador Rewards Schedule
+
+x
+
+Ambassador Level
+
+Minimum Answer Votes to Qualify
+
+Reward for Asking Questions
+
+Reward for Answering Questions
+
+1
+
++10
+
+$0.50
+
+$0.50 - $1.00
+
+2
+
++200
+
+$0.75
+
+$0.75 - $1.25
+
+3
+
++1,000
+
+$1.00
+
+$1.00 - $1.50
+
+Consumer Q&A Guidelines
+
+x
+
+Answering questions
+
+  * People on Knoji ask questions seeking recommendations for products and services. We encourage our community members to answer questions whenever you can make a useful recommendation towards any request.
+  * When pointing to specific products, please link to specific product pages on [Amazon.com](http://www.amazon.com/) or [Walmart.com](http://www.walmart.com/) (Ambassadors: You earn increased rewards when doing this)
+  * You should **include screenshots** of the products you recommend (Ambassadors: you earn increased rewards when doing this)
+  * Try to recommend products that you've had personal experience with. If not, it is acceptable to recommend products or options based on thorough research you do online.
+
+
+
+Asking questions
+
+On Knoji, you can ask any question about any consumer or shopping-related topic. Many questions involve **requests for recommendations for any type of product or service** , examples: 
+
+Some questions ask for **advice in solving a specific problem** , examples: 
+
+Get started by adding to the discussion now!
 
 What's a working, unique coupon?
 
