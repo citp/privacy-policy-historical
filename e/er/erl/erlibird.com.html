@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the erlibird.com privacy policy that was archived on 2012-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229045425id_/http%3A//www.erlibird.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the erlibird.com privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601192431id_/http%3A//erlibird.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -11,16 +11,15 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"> 
 
-    <link href="/includes/css/mainstyle-launch2.css" rel="stylesheet" type="text/css">
+    <link href="/includes/css/mainstyle-v2D.css" rel="stylesheet" type="text/css">
     <link type="text/css" href="/libraries/jquery-ui/jquery-ui-1.8.21.custom.css" rel="Stylesheet">
 
-    <link href="//fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
-    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">    
     <link href="/libraries/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <link rel="shortcut icon" href="/images/favicon.png"> 
 
-    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=390233561016483"></script><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.2.js"></script><script type="text/javascript" id="janrainAuthWidget" src="https://rpxnow.com/js/lib/erli-bird/engage.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+    <script id="facebook-jssdk" src="http://connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=390233561016483"></script><script type="text/javascript" id="janrainAuthWidget" src="https://rpxnow.com/js/lib/erli-bird/engage.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
     </script>
 
     
@@ -75,8 +74,7 @@
         if (typeof window.janrain !== 'object') window.janrain = {};
         if (typeof window.janrain.settings !== 'object') window.janrain.settings = {};
         
-        janrain.settings.tokenUrl = 'https://erlibird.com/userauth.php';  
-/*        janrain.settings.tokenUrl = 'http://local.erlibird.com/userauth.php';    */
+        janrain.settings.tokenUrl = 'https://erlibird.com/userauth.php';   
 
         function isReady() { janrain.ready = true; };
         if (document.addEventListener) {
@@ -101,10 +99,6 @@
     </script>
 
 
-<!-- start Mixpanel --><script type="text/javascript">(function(c,a){var b,d,h,e;b=c.createElement("script");b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+'//api.mixpanel.com/site_media/js/api/mixpanel.2.js';d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?g=
-a[f]=[]:f="mixpanel";g.people=g.people||[];h="disable track track_pageview track_links track_forms register register_once unregister identify name_tag set_config people.set people.increment".split(" ");for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.1;window.mixpanel=a})(document,window.mixpanel||[]);
-mixpanel.init("3914e02dffb8904c2259efc6a525513b");</script><!-- end Mixpanel -->
-
 	</head>
     
     <body>
@@ -114,25 +108,60 @@ mixpanel.init("3914e02dffb8904c2259efc6a525513b");</script><!-- end Mixpanel -->
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=390233561016483";
+  js.src = "http://connect.facebook.net/en_US/all.js#xfbml=1&appId=390233561016483";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-    <header class="clear">
+<div id="viewport">
+    <div id="mobilePostBox">
+        <ul class="clear" id="mPostButtons">
+            <li><a class="grayButtonSmall" href="#">Cancel</a></li>
+            <li id="mPostTop">Post Message</li>
+            <li><a class="greenButtonSmall" href="#">Post</a></li>
+        </ul>
+        <form name="mFeedbackForm" id="mFeedbackForm" autocomplete="off">
+            <textarea id="mobileFeedback" name="mobileFeedback"></textarea>
+        </form>
+    </div>
+    <div id="mobileMenu">
+        <div id="mobileButtons" class="clear">
+        <a class="greenButtonSmall" href="https://erlibird.com/login?login=0">Sign Up</a>
+        <a class="grayButtonSmall" href="https://erlibird.com/login?login=1&amp;retURL=%2Fprivacy">Log In</a>
+    </div>
+    <ul>
+            
+        <li id="m0"><a href="http://erlibird.com">Discover</a></li>
+        <li id="m1"><a href="/donation">Site Donation</a></li>
+        <li id="m2"><a href="/leaders">Leaderboard</a></li>
+        <li id="m3"><a href="http://word.erlibird.com">Blog</a></li>
+    </ul>
+</div>
+<div id="page"> 
+    <header>
+        
         <div class="pagewrap">
+            <div id="menuIcon">
+                <img src="/images/menu-icon.png">
+            </div>
 
             <div id="logo">
-                <a href="http://www.erlibird.com"><img src="/images/black-logo.png"></a>
+                <a href="http://erlibird.com"><img src="/images/logo-lower.png"></a>
             </div>
-            <span id="sitefor">
-            The site for early adopters
-            </span>
-            <ul>
-                <li><a href="https://erlibird.com/login?login=1&amp;retURL=%2Fprivacy">Login</a></li>
-                <li id="leaderboardMenu"><a href="/leaders">Leaderboard</a></li>
-                <li><a href="https://erlibird.com/login?login=0">Join Today!</a></li>
+            <div id="logoMobile">
+                <a href="http://erlibird.com"><img src="/images/mobile-logo.png"></a>
+            </div>
+            <ul id="leftMenu" class="menuList">
+                <li><a href="/leaders">leaderboard</a></li>
+                <li><a href="http://erlibird.com">discover</a></li>            
             </ul>
-        </div>            
+            <ul id="rightMenu" class="menuList loginMenu">
+                <li><a href="https://erlibird.com/login?login=1&amp;retURL=%2Fprivacy">Log In</a></li>
+                <li id="signup"><a href="https://erlibird.com/login?login=0">Sign Up</a></li>
+            </ul>
+        </div>
+
+        <div style="clear:both">
+        </div>
     </header>
 
     <div id="mainPage">
@@ -194,75 +223,87 @@ mixpanel.init("3914e02dffb8904c2259efc6a525513b");</script><!-- end Mixpanel -->
 </div>
 
 	       
-        </div> <!-- mainPage -->
-    </div> <!-- pagewrap -->
+            </div> <!-- mainPage -->
+        </div> <!-- pagewrap -->
 
-    <footer>
+        <footer>
 
-        <div id="cloudBottom">
-            <div class="pagewrap">&nbsp;
-            </div>
-        </div>
+            <div id="cloudBottom" class="clear">
+                <div class="pagewrap">
 
-        <div class="pagewrap clear" id="footerBottom">
 
-            <div id="footerAbout">
-                <div class="footerHead">About Erli Bird</div>
-                Discover innovative new technology and help shape today's best tech startups. Complete objectives, climb the leaderboard, and become an insider to unlock additional features and exclusivity.
-            </div>
+                </div> <!-- pagewrap -->
+            </div> <!-- cloudbottom -->
 
-            <div id="footerMenuSocial" class="footerMenu">
-                <div class="footerHead">
-                    Stay in Touch
+            <div class="pagewrap clear" id="footerBottom">
+
+                <div id="footerAbout">
+                    <div class="footerHead">About Erli Bird</div>
+                    Erli Bird is the site for early adopters. Discover and play a role in tomorrow's most promising tech startups. Get early access, exclusive promotions, and lend your ideas, feedback, and advice to create the next great tech company.
                 </div>
-                <ul>
-                    <li><div class="fb-like" data-href="http://www.facebook.com/ErliBird" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div></li>
-                    <li>
-                        <div>
-                            <a href="https://twitter.com/erlibirdapp" class="twitter-follow-button" data-show-count="false">Follow @erlibirdapp</a>
-                        </div>
-                    </li>
-                    <li><a href="https://plus.google.com/100866512074155550722" rel="publisher">Find us on Google+</a></li>
-                    <li><a href="http://word.erlibird.com">Erli Bird Blog</a></li>
-                </ul>
-            </div>
 
-            <div id="footerMenuMenu" class="footerMenu">
-                <div class="footerHead">
-                Menu
+                <div id="footerMenuSocial" class="footerMenu">
+                    <div class="footerHead">
+                        Stay in Touch
+                    </div>
+                    <ul>
+                        <li><div class="fb-like" data-href="http://www.facebook.com/ErliBird" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div></li>
+                        <li>
+                            <div>
+                                <a href="https://twitter.com/erlibirdapp" class="twitter-follow-button" data-show-count="false">Follow @erlibirdapp</a>
+                            </div>
+                        </li>
+                        <li><a href="https://plus.google.com/100866512074155550722" rel="publisher">Find us on Google+</a></li>
+                        <li><a href="http://word.erlibird.com">Erli Bird Blog</a></li>
+                    </ul>
                 </div>
-                <ul>
-                    <li><a href="mailto: team@erlibird.com">Contact Us</a></li>
-                    <li><a href="/Erli-Bird-About.zip">Press Kit</a></li>
-                    <li><a href="/startups">Submit Your Startup</a></li>
-                    <li><a href="/partners">Have a blog? Join as Partner</a></li>
-                </ul>
+
+                <div id="footerMenuMenu" class="footerMenu">
+                    <div class="footerHead">
+                    Menu
+                    </div>
+                    <ul>
+                        <li><a href="mailto: team@erlibird.com">Contact Us</a></li>
+                        <li><a href="/ErliPress.zip">Press Kit</a></li>
+                        <li><a href="/startups">Submit Your Startup</a></li>
+                    </ul>
+                </div>
+
+                <div id="termsSection">
+                    <a href="/terms">Terms of Usage</a><a href="/privacy">Privacy Policy</a>
+                </div>
+
+                <div id="footTree">
+                    <img src="/images/foot-tree.png">
+                </div>
+
+            </div>
+          
+            <div id="grassBottom">&nbsp;
             </div>
 
-            <div id="termsSection">
-                <a href="/terms">Terms of Usage</a><a href="/privacy">Privacy Policy</a>
-            </div>
+        </footer>
 
-            <div id="footTree">
-                <img src="/images/foot-tree.png">
-            </div>
+        <div id="badgePopup" data-url="/badges?id=
+Notice: Undefined index: ErliUserID in /var/www/html/includes/php/headfoot.php on line 631
 
+Call Stack:
+    0.0072     341764   1. {main}() /var/www/html/privacy.php:0
+    0.0102     354316   2. doFooter() /var/www/html/privacy.php:108
+
+">
+            <div class="clear" style="position: relative;">
+                <div id="badgePopList">
+                </div>
+                <div id="badgePopDesc">
+                    <p>Badge Desc</p>
+                </div>
+                <div class="dialogClose"></div>
+            </div>
         </div>
-      
-    </footer>
 
-    <div id="badgePopup">
-        <div style="position: relative;">
-            <h5>New Badge</h5>
-            <div id="badgeDesc">
-                <h6>Badge Name</h6>
-                <p>Badge Desc</p>
-            </div>
-            <div id="badges">
-            </div>
-            <div class="dialogClose"></div>
-        </div>
-    </div>
+    </div> <!-- page -->
+</div> <!-- viewPort -->
 
 
 
