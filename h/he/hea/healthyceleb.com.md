@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyceleb.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226120302id_/http%3A//healthyceleb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyceleb.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601193726id_/http%3A//healthyceleb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Healthy Celeb
 
@@ -19,6 +19,8 @@ When visiting [http://healthyceleb.com](http://healthyceleb.com/ "Healthy Celeb"
 
 **Links to third party Websites**  
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. The non-proprietary components used in here are subject to the licensing agreements of their respective copyright holders and are binding for the user.
+
+You may also want to read our [Terms of Use](http://healthyceleb.com/terms-of-use/ "Terms of Use") before continuing to website home page.
 
 ### **Contact Information**
 
