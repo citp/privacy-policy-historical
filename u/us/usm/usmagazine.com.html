@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the usmagazine.com privacy policy that was archived on 2012-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121102062706id_/http%3A//www.usmagazine.com/services/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usmagazine.com privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601141931id_/http%3A//www.usmagazine.com/services/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class=" js "><head>
 	<script type="text/javascript" async="" src="https://platform.stumbleupon.com/1/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/54104786.js"></script>
@@ -10,7 +10,10 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta property="og:site_name" content="usmagazine.com">
 <meta property="og:url" content="http://www.usmagazine.com/services/privacypolicy">
-<meta name="msvalidate.01" content="FBBD25F8F19DBCFECB72740C7846BD9B"><meta property="fb:app_id" content="389280101117708"><meta content="Us Weekly's Privacy Policy - UsMagazine.com" name="description"><meta content="Us Weekly Privacy Policy Celebrity News Hot Celebrity Photos Celebrity News" name="keywords"><title>Us Weekly’s Privacy Policy - UsMagazine.com</title>
+<meta name="twitter:site" content="@usweekly">
+<link href="https://plus.google.com/104559096150461190771" rel="publisher">
+
+<meta name="msvalidate.01" content="FBBD25F8F19DBCFECB72740C7846BD9B"><meta property="fb:app_id" content="178963233025"><meta content="Us Weekly's Privacy Policy - UsMagazine.com" name="description"><meta content="Us Weekly Privacy Policy Celebrity News Hot Celebrity Photos Celebrity News" name="keywords"><title>Us Weekly’s Privacy Policy - UsMagazine.com</title>
 <meta http-equiv="X-UA-Compatible" content="requiresActiveX=true">
 
 
@@ -25,9 +28,11 @@ var sponsored_ad = false; //dart ad pushdown
 </script><!-- begin quantcast tag 2 -->
 <script type="text/javascript">
 quantSegs="";
+qArray = [];
 function qc_results(result) {
 	for(var i=0;i<result.segments.length;i++){
 		quantSegs += "qcseg=" + result.segments[i].id + ";"; //customizable per ad server (doubleclick)
+		qArray[i] = result.segments[i].id;
 	}
 }
 </script>
@@ -40,6 +45,7 @@ function qc_results(result) {
 <!--[if lt IE 7]>
   <link rel="stylesheet" href="/css/ie6.css" type="text/css" media="screen, projection" />  
 <![endif]-->
+
 
 <link rel="alternate" type="application/rss+xml" title="Latest News Feed" href="http://www.usmagazine.com/celebrity_news/rss">
 <link rel="alternate" type="application/rss+xml" title="Hot Pics Feed" href="http://www.usmagazine.com/hotpics/rss">
@@ -54,8 +60,9 @@ function qc_results(result) {
 <script type="text/javascript" src="/js/fe/modules/hotpics.js"></script>
 <script type="text/javascript" src="/js/fe/modules/top5.js"></script>
 <link rel="stylesheet" type="text/css" media="screen" href="/css/fe/usweekly.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/fe/modules.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/fe/modules.css?v=1">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/fe/legacy.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/etr/css/etr_credit.css">
 <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 <body class="services-index ">
 	<div id="fb-root"></div>
@@ -111,7 +118,7 @@ function qc_results(result) {
 </script>	<div>&nbsp;</div>	<div id="page-header">
     	<div id="header-content" class="clearfix">
             <a style="display: none; float: right" target="_blank" id="omg-header-badge" href="http://omg.yahoo.com"></a>
-            
+
 <h3 class="us-logo">
     <a href="/" title="US Weekly"><span class="altText">US Weekly</span></a>
 </h3>
@@ -137,13 +144,15 @@ function qc_results(result) {
 			</div>
 		</form>
 	</div><!-- .form-holder -->
+   
 	<div class="subscription-tout" data-track-tags="a" data-category="MagSubs">
-          
-     <a data-action="SubscribeButton" data-label="window.location" href="/sub-circ-spot-a" target="_blank"><img src="/images/subscription_banners/btn_subscribe_137.png" alt="subscribe" id="subimg"></a>
-     <div id="custom_sub_links">
-     <a data-action="Gift" data-label="window.location" href="/gift-circ-spot-a" target="_blank" id="twoforone">Give a Gift</a> 
-     </div>
-     	</div><!-- .subscription-tout -->
+               <div class="sublinkimg" style="cursor:pointer">  
+     <a data-action="SubscribeButton" data-label="window.location" href="/sub-circ-spot-a" target="_blank" id="head_sub_link" class="head_circ_link"></a>         
+     
+     <a data-action="Gift" data-label="window.location" href="/gift-circ-spot-a" target="_blank" id="head_gift_link" class="head_circ_link"><span class="altText">Give a Gift</span></a> 
+     </div> 
+     
+          	</div><!-- .subscription-tout -->
 </div><!-- .search-box -->
 
 
@@ -151,32 +160,43 @@ function qc_results(result) {
     </div><!-- .page-header -->
     <div id="page-content-bottom">
     	<div id="page-content">
-    		 <div id="trending">  </div>
+		    			 <div id="trending">  </div>
 <div class="subnav-holder clearfix">
 	<ul class="social-links clearfix" data-track-tags="a">
 		<li class="facebook">
 			<fb:like send="false" href="http://www.facebook.com/UsWeekly" show_faces="false" layout="button_count" width="90" font="arial"></fb:like>
 		</li>
 		<li class="twitter">
-            <a href="https://twitter.com/UsWeekly" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-lang="en" data-width="61px" data-align="right" style="visibility:hidden">Follow</a>
+			<a class="tw-btn ir" href="http://twitter.com/usweekly" target="_blank">Tw</a>
+		</li>
+		<li class="pinterest">
+			<a class="pin-btn ir" href="http://pinterest.com/usweekly/" target="_blank">Us Weekly</a>
+		</li>
+		<li class="gplus">
+			<a class="gplus-btn ir" href="https://plus.google.com/104559096150461190771" target="_blank">G+</a>
 		</li>
 		<li class="newsletter">
-			<a data-category="Newsletter" data-action="TopButton" data-label="window.location" href="/services/newsletter/signup"><span class="altText">Newsletter</span></a>
+			<a data-category="Newsletter" data-action="TopButton" data-label="window.location" href="/services/newsletter/signup" target="_blank"><span class="altText">Newsletter</span></a>
 		</li>
 	</ul>
+	
 	<div class="subnav">
 		<h4><span class="altText">Trending</span></h4>
 		<ul class="clearfix" data-track-tags="a" data-category="Nav" data-action="Subnav" data-label="window.location">
 																			<li>
-							<a href="/entertainment/vip-scene">VIP Scene</a>
+							<a href="/celebrity-body/hot-bodies">Bikini Bodies</a>
 						</li>
 																			<li class="separator">|</li>
 												<li>
-							<a href="/celebrity-news/pictures/celebs-2012-halloween-costumes-20122810/25774">Halloween</a>
+							<a href="/celebrity-style/style-crush">Summer Style</a>
 						</li>
 																			<li class="separator">|</li>
 												<li>
-							<a href="/celebrity-body/love-lives">Love Lives</a>
+							<a href="/entertainment/pictures/keeping-up-with-the-kardashians-best-moments-2009312/30769">Kardashians</a>
+						</li>
+																			<li class="separator">|</li>
+												<li>
+							<a href="/celebrity-moms/news/ivanka-trumps-tips-for-busy-working-moms-time-and-consistency-matter-2013175">Celeb Moms</a>
 						</li>
 																			<li class="separator">|</li>
 												<li>
@@ -184,33 +204,32 @@ function qc_results(result) {
 						</li>
 											</ul>
 	</div>
-	<div id="gallery-subnav" class="clearfix">
-        <a href="/sub-text-link-g" target="_blank" id="gallery-sub-img">Get 4 Free Issues!</a>
-    	</div>
-</div><!-- .subnav-holder -->						<div class="wide-ad-wrapper">  
-				        
+</div><!-- .subnav-holder -->
+								<div class="main-content-wrapper"> <!-- to target background images extending behind the wide ad wrapper on microsites -->
+				<div class="wide-ad-wrapper">  
+					        
 
-									
-	<div class="dart_ad ad-container dartsz_728x90">
-<!-- begin ad 728x90-tile3--> <script language="JavaScript" type="text/javascript">
+											
+	<div data-cb-ad-id="ad-3" class="dart_ad ad-container dartsz_728x90">
+		
+<!-- begin ad 728x90-tile1--> <script language="JavaScript" type="text/javascript">
   // <![CDATA[
     if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
-	 if (typeof dart_tile_ord=='undefined' || dart_tile_ord == 0) {
-		 dart_tile_ord = 1;		 
-	 }
+	dart_tile_ord = 1 || dart_tile_ord++;
+	 
 	 // added quantcast segment variable quantSegs
-	//alert(quantSegs);
 	document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.channels/services;tile=' + dart_tile_ord + ';dcopt=ist;sz=728x90;' + quantSegs + 'ord=' + ord + '?" type="text/javascript"><\/script>');
 	dart_tile_ord++;
   // ]]>
-  </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.channels/services;tile=1;dcopt=ist;sz=728x90;ord=1051800496005104.1?" type="text/javascript"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/usweek.channels/services;tile=3;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/usweek.channels/services;tile=3;sz=728x90;ord=123456789?" width="" height="" border="0" alt=""></a></noscript>
+  </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.channels/services;tile=1;dcopt=ist;sz=728x90;ord=3725159727973097.5?" type="text/javascript"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/usweek.channels/services;tile=1;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/usweek.channels/services;tile=1;sz=728x90;ord=123456789?" width="" height="" border="0" alt=""></a></noscript>
+
 			<p><span class="altText">ADVERTISEMENT</span></p>	</div>
 
 
-							</div>
-						
-    		<!-- Begin Page Area -->
+									</div>
+								
+	    		<!-- Begin Page Area -->
 <div class="page clearfix" id="services_template">
   <!-- Begin Content Area -->
   <div class="content">
@@ -231,50 +250,54 @@ margin: 10px 0;
 font-family: "Times New Roman", Georgia, serif;	
 }
 </style>
-<strong>Effective Date: May 17, 2012</strong>
+
+<em>Effective Date</em>: May 8, 2013 
 <ul>
-<li>To understand how we use third party analytic tracking technologies and how you can opt out, click <a href="#third-party-technologies">here</a></li>
+<li>To understand how we use third party analytic tracking technologies and how you can opt out, click <a href="#third-party">here</a></li>
 <li>To opt-out of direct mail promotions, click <a href="#mail-promotions">here</a></li>
 <li>To opt-out of email promotions, click <a href="#email-promotions">here</a></li>
 <li>To understand how advertisers use tracking technologies and how you can opt out, click <a href="#third-party-advertising">here</a></li>
 <li>To understand tracking used when you access our Us Applications through an iPad or iPhone, click <a href="#html5">here</a></li>
+<li>Your California Privacy Rights: Note to California Users, click <a href="#california-policy">here</a></li>
 </ul>
 
-<h3>Introduction</h3>
+<h3><u>Introduction</u></h3>
 
-<p>The website usmagazine.com is owned and operated by Us Weekly LLC and its affiliates (collectively, "<strong>we</strong>," "<strong>our</strong>" or "<strong>us</strong>").  This privacy policy ("<strong>Privacy Policy</strong>") explains our information collection practices at usmagazine.com, other websites owned by us and our other interactive properties, including but not limited to our mobile websites and applications (each, an "<strong>Us Application</strong>") and through offline means.  It explains the types of information we collect regarding users of the Us Application and subscribers to our magazine and how we may use that information so you can make an informed decision about whether to view the content and/or use our services ("<strong>Services</strong>").  Thus this Privacy Policy applies to information we collect via (1) the Us Application (however accessed and/or used, whether via personal computers, mobile devices or otherwise); (2) email or electronic newsletters; (3) offline means such as telephone and traditional mail; and (4) any other means or applications in which you connect with us. </p>
+<p>The website usmagazine.com is owned and operated by Us Weekly LLC and its affiliates (collectively, “<strong>we,</strong>” “<strong>our</strong>” or “<strong>us</strong>”).  This privacy policy (“<strong>Privacy Policy</strong>”) explains our information collection practices at usmagazine.com, other websites owned by us and our other interactive properties, including but not limited to our mobile websites and applications (each, an “<strong>Us Application</strong>”) and through offline means.  It explains the types of information we collect regarding users of the Us Application and subscribers to our magazine and how we may use that information so you can make an informed decision about whether to view the content and/or use our services ("<strong>Services</strong>").  Thus this Privacy Policy applies to information we collect via (1) the Us Application (however accessed and/or used, whether via personal computers, mobile devices or otherwise); (2) email or electronic newsletters; (3) offline means such as telephone and traditional mail; and (4) any other means or applications in which you connect with us.</p>
 
 <p>This Privacy Policy is incorporated into and subject to the Us Application's <a href="terms">Terms of Use</a>. Each time that you access or use the Us Application you signify that you have read, understand, and agree to be bound by the <a href="terms">Terms of Use</a>, and this Privacy Policy. If you do not agree to the <a href="terms">Terms of Use</a> and this Privacy Policy, you must discontinue using our Services.</p>
 
 <h3>1.	Information That Is Collected</h3>
 
-<p>When you provide us with information in connection with a particular activity, product or service or provide your contact information, including your email address or telephone number in connection with that activity, product or service, you expressly consent to our communicating with you about our products or services using the information you provided to us.  You also attest that you have the legal authority over any telephone number you provide to us and can provide us with the authorization to contact you.  This means we may contact you, in person or by recorded message, by e-mail, telephone and/or mobile telephone number (including use of automated dialing equipment), text (SMS) message, or any other means of communication that your wireless or other telecommunications device may be capable of receiving.</p>
+<p>When you provide us with contact or other information in connection with a particular activity, product or service, including your email address or telephone number, you expressly consent to our communicating with you about our products or services using the information you provided to us.  You also attest that you have the legal authority over any telephone number you provide to us and can provide us with the authorization to contact you.  This means we may contact you, in person or by recorded message, by e-mail, telephone and/or mobile telephone number (including use of automated dialing equipment), text (SMS) message, or any other means of communication that your wireless or other telecommunications device may be capable of receiving.</p>
 
 <h4>(a)	Information You Provide To Us</h4>
 
-<p><em><strong>Personal Information</strong></em>.  We may ask you to provide us with certain categories of information such as personal information, which is information that could reasonably be used to identify you personally, such as your name, gender, e-mail address, date of birth, physical address (or elements thereof such as zip code and state) ("<strong>Personal Information</strong>").  We may collect this information through various forms and in various places on the Us Application, including magazine subscription forms, account registration forms, contact us forms or when you otherwise interact with us.</p> 
+<p><em><strong>Personal Information</strong></em>.  We may ask you to provide us with certain categories of information, including information that could reasonably be used to identify you personally, such as your name, gender, e-mail address, date of birth, physical address (or elements thereof such as zip code and state).  We may collect this information through various forms and in various places on the Us Application, including magazine subscription forms, account registration forms, contact us forms or when you otherwise interact with us.</p> 
 
 <p><em><strong>Billing and Credit Card Information</strong></em>.  To enable payment for subscriptions, we collect and store billing and credit card information.  This information will only be shared with third parties who perform tasks required to complete the purchase transaction.  Examples of this include fulfilling orders and processing credit cards.</p>
 
-<p><em><strong>Facebook</strong></em>.  You may be given the option to link your Facebook account so that you can comment on the Us Application or take advantage of other features of the Us Application. When you comment on the Us Application using your Facebook username and password and clicking "allow" on the Facebook permission authorization screen, you give us permission to capture, store, use and display your Facebook user ID, your basic Facebook profile information and any other information from your Facebook profile that you specifically allow us to access. The authentication of your Facebook login credentials are conducted through Facebook.</p>
+<p><em><strong>Social Networking Services</strong></em>.  You may be given the option to link your account on third party social networking service so that you can comment on the Us Application or take advantage of other features of the Us Application. In that case, the authentication of your login credentials are conducted through that third party service provider.  If you choose to share information from the Us Application through any social networking service provider, you should review the privacy policy of that social networking provider.  You should make sure that you are comfortable with the information your third party social networking services may make available to us by visiting those services’ privacy policies and/or modifying your privacy settings directly with those services.  We reserve the right to use, transfer, assign, sell, share and provide access to all information that we receive through third party social networking services in the same ways described in this Privacy Policy.</p>
 
 <h4>(b)	Information Collected As You Access and Use the Us Application</h4>
 
-<p>In addition to any Personal Information or other information that you choose to submit to us, we and our third-party service providers may use a variety of technologies that automatically (or passively) collect certain information whenever you visit or interact with the Us Application ("<strong>Usage Information</strong>").  This Usage Information may include the browser that you are using, the URL that referred you to our Us Application, all of the areas within our Us Application that you visit, and the time of day, among other information.  We may use Usage Information for a variety of purposes, including to enhance or otherwise improve the Us Application.  In addition, we collect your IP address or other unique identifier ("<strong>Device Identifier</strong>") for your computer or other device used to access the Us Application (any, a "<strong>Device</strong>") and may combine your Device Identifier with information from third party sources to identify your Device's location by state and region ("<strong>Region Location</strong>") or more specific information about your geographic location for certain Us Applications ("<strong>Geolocation</strong>"), as more clearly spelled out in this policy.  A Device Identifier is a number that is automatically assigned to your Device used to access the Us Application, and our computers identify your Device by its Device Identifier.  Usage Information may be non-identifying or may be associated with you.  Whenever we associate Usage Information or a Device Identifier with your Personal Information, we will treat it as Personal Information.</p>
+<p>In addition to any Personal Information or other information that you choose to submit to us, we and our third-party service providers and advertisers on the Us Application may use a variety of technologies that automatically (or passively) collect certain information whenever you visit or interact with the Us Application (“<strong>Usage Information</strong>”).  This Usage Information may include the browser that you are using, the URL that referred you to our Us Application, all of the areas within our Us Application that you visit, and the time of day, among other information.   We may use Usage Information for a variety of purposes, including to improve the Us Application.  In addition, we collect your IP address or other unique identifier (“<strong>Device Identifier</strong>”) for your computer or other device used to access the Us Application (any, a “<strong>Device</strong>”).  A Device Identifier is a number that is automatically assigned to your Device used to access the Us Application, and our computers identify your Device by its Device Identifier.  If you accessed content through an email account, a third party provider may make a “hash” of your email address, which is a bit of text that uniquely identifies the email address but is designed to prevent reverse engineering so that the email address is not revealed (“<strong>Hash</strong>”). Information gathered from your use of the Us Application may be combined with information from third party sources to identify your location by state and region (“<strong>Region Location</strong>”) or more specific information about your geographic location for certain Us Applications ("<strong>Geolocation</strong>"), as more clearly spelled out in this policy.  Usage Information may be non-identifying or may be associated with you.</p>
 
-<p>A few of the tracking technologies that may be used to collect Usage Information include, without limitation, the following:</p>
+<p>A few of the tracking technologies (“<strong>Tracking Technologies</strong>”) that may be used to collect Usage Information include, without limitation, the following:</p>
 
-<p><em><strong>Cookies</strong></em>.  A cookie is a data file placed on a Device when it is used to visit the Us Application.  We use cookies to collect information for record keeping purposes, to make it easier to navigate the Us Application.  Cookies are stored on users' hard drives.  We use both "session ID cookies" and "persistent cookies."  Session ID cookies are used to store information while a user is logged into the Us Application and expire when the user closes his/her browser.  Persistent cookies are used to make tasks like logging into the Us Application easier for returning users by remembering a user's login information.  Persistent cookies stay on a user's hard drive from one session to the next.  "Flash cookies," known as local shared objects, are data files placed on a Device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Device to personalize your visit.  Our third-party service providers also may use Flash cookies to collect and store information.  Flash cookies are different from standard browser cookies because of the amount of, type of, and how data is stored. Cookies may be used for many purposes, including, without limitation, remembering you and your preferences and tracking your visits to our web pages.  You can choose to have your computer warn you each time a persistent or session cookie is being sent, or you can choose to turn off such cookies through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies.  However, cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, please click <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html" target="_blank">www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html</a>.  If you choose to disable cookies on your Device, some features of the Us Application may not function properly.</p>
+<p><em><strong>Cookies</strong></em>.  A cookie is a data file placed on a Device when it is used to visit the Us Application.  We use cookies to collect information for record keeping purposes, to make it easier to navigate the Us Application.  Cookies are stored on users’ hard drives.  We use both “session ID cookies” and “persistent cookies.”  Session ID cookies are used to store information while a user is logged into the Us Application and expire when the user closes his/her browser.  Persistent cookies are used to make tasks like logging into the Us Application easier for returning users by remembering a user’s login information.  Persistent cookies stay on a user’s hard drive from one session to the next.  “Flash cookies,” known as local shared objects, are data files placed on a Device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Device to personalize your visit.  Our third-party service providers also may use Flash cookies to collect and store information.  Flash cookies are different from standard browser cookies because of the amount of, type of, and how data is stored. Cookies may be used for many purposes, including, without limitation, remembering you and your preferences and tracking your visits to our web pages.  You can choose to have your computer warn you each time a persistent or session cookie is being sent, or you can choose to turn off such cookies through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies.  However, cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, please click <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html" target="_blank">www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html</a>.  If you choose to disable cookies on your Device, some features of the Us Application may not function properly.</p>
 
-<p><em><strong>Web Beacons</strong></em>.  Small graphic images or other web programming code called web beacons (also known as "1x1 GIFs" or "clear GIFs") may be included in our web pages and messages.  Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon.  Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Us Application, to monitor how users navigate the Us Application, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed.</p>
+<p><em><strong>Web Beacons</strong></em>.  Small graphic images or other web programming code called web beacons (also known as “1x1 GIFs” or “clear GIFs”) may be included in our web pages and messages.  Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon.  Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Us Application, to monitor how users navigate the Us Application, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed.</p>
 
 <p><em><strong>Embedded Scripts</strong></em>.  An embedded script is programming code that is designed to collect information about your interactions with the Us Application, such as the links you click on.  The code is temporarily downloaded onto your Device from our web server or a third party service provider, is active only while you are connected to the Us Application, and is deactivated or deleted thereafter.</p>
 
-<p id="html5"><em><strong>HTML5</strong></em>. We use HTML5 in the Us Weekly mobile website and certain mobile applications for the iphone or ipad (and any other Apple iOS device). HTML5 has browser web storage that does not rely on traditional browser cookies.  Like Flash cookies, HTML5 cookies are not stored in a browser "cookies" file and, like Flash cookies, can be used to track users across websites.  To our knowledge there is currently no known way for a user of a mobile device to remove HTML5 tracking and storage.</p>
+<p id="html5"><em><strong>HTML5</strong></em>. We use HTML5 in the Us Weekly mobile website and certain mobile applications for the iphone or ipad (and any other Apple iOS device). HTML5 has browser web storage that does not rely on traditional browser cookies.  Like Flash cookies, HTML5 cookies are not stored in a browser “cookies” file and, like Flash cookies, can be used to track users across websites.  To our knowledge there is currently no known way for a user of a mobile device to remove HTML5 tracking and storage.</p>
 
-<p><em><strong>Geolocation Us Applications</strong></em>. For certain of the mobile Us Applications that have search functionality, we may, and may enable a third party such as an advertiser to, ask you if you wish us to collect your geolocation in order provide you with information about goods and services within your geographic location. If you agree to have your geolocation collected, we and the third party, if applicable, will maintain information about your geolocation to facilitate your searching.  In addition, when you have geolocation software running on your mobile phone, computer or other Device, we may collect that information as controlled by your privacy settings on those Devices. </p>
+<p><em><strong>Geolocation Us Applications</strong></em>. For certain of the mobile Us Applications that have search functionality, we may, and may enable a third party such as an advertiser to, ask you if you wish us to collect your geolocation in order provide you with information about goods and services within your geographic location. If you agree to have your geolocation collected, we and the third party, if applicable, will maintain information about your geolocation to facilitate your searching.  In addition, when you have geolocation software running on your mobile phone, computer or other Device, we may collect that information as controlled by your privacy settings on those Devices.</p>
+
+<p id="third-party">We also use third parties' analytics and other tools to better understand who is using the Us Application and how, to provide certain functionalities on the Us Application and to improve the effectiveness of the Us Application and its content. Those third party companies may use Tracking Technologies to collect and store anonymous information such as time of visit, pages visited, time spent on each page of the Us Application, Device Identifiers, Region Location, type of operating system used and other web sites you may have visited. They may combine usage information they collect from your interaction with the Us Application with personal information they collect from other sources.  We use this information and may share it with our advertising partners. We do not have access to, nor control over, third parties' use of cookies or other tracking technologies. You should consult the respective privacy policies of these third parties to see your options for opting out of their use of such devices.  If you would like more information regarding which third party companies we use to provide these services who may be serving cookies or other tracking tools on our site, please click <a href="/celebrity-news/page/third-party-technologies">here</a>.
     
-<h4>(c)	Information You Provide About a Third Party</h4>
+</p><h4>(c)	Information You Provide About a Third Party</h4>
 
 <p>If you send someone else a communication from the Us Application, such as sending an invitation to a friend, the information you provide (names, e-mail addresses, etc.) is used to facilitate the communication and is not used for any other marketing purpose unless we obtain consent from that person or we explicitly say otherwise.  If that person becomes a subscriber to our magazine or newsletter, his/her information will be treated in the same manner as all other subscribers.  Please be aware that when you use any send-to-a-friend functionality on our Us Application, your e-mail address may be included in the communication sent to your friend.</p>
 
@@ -284,38 +307,37 @@ font-family: "Times New Roman", Georgia, serif;
 
 <h3>2.	How We Use and Share the Information Collected</h3>
 
-<p><strong>(a)	Use of Information by Us</strong>.  We may use the information that we collect about you: (1) to provide you with information or services or to process transactions that you have requested or agreed to receive; (2) to provide you with information regarding new features, products or services; (3) to improve our Services and to customize your experience on the Us Application; (4) to contact you with regard to your use of the Us Application and, in our discretion, changes to the Us Application and/or the Us Application's policies; and (5) for purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Policy. </p>
+<p><strong>Use of Information by Us</strong>.  We may use the information that we collect about you: (1) to provide you with information or services or to process transactions that you have requested or agreed to receive; (2) to provide you with information regarding new features, products or services; (3) to improve our Services and to customize your experience on the Us Application; (4) to contact you with regard to your use of the Us Application and, in our discretion, changes to the Us Application and/or the Us Application’s policies; and (5) for purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Policy.</p>
 
-<p><strong>(b)	Transactional Communications</strong>.  We may send you notices from time to time relating to your account, your subscriptions and other products and services you have requested or in which you are currently enrolled.  These may include order confirmations, renewal notices, invoices or customer service notifications. We may also send you service-related announcements when it is necessary to do so; for instance, if our service is temporarily suspended for maintenance, or the delivery of a product is delayed or there is some service issue with something you may have ordered.  If you are a print subscriber to our magazine and do not wish to receive email bills, renewal notices and other communications regarding your magazine subscription by email, you can click <a href="https://secure.customersvc.com/servlet/Show?WESPAGE=am/home.jsp&amp;MSRSMAG=US" target="_blank">here</a> and select this option on the Us Application's customer service page. Please note that even if you opt out of receiving subscriber communications by email, we may continue to send you subscriber communications by direct mail.</p>  
+<p><strong>(a)	Transactional Communications</strong>.  We may send you notices from time to time relating to your account, your subscriptions and other products and services you have requested or in which you are currently enrolled.  These may include order confirmations, renewal notices, invoices or customer service notifications. We may also send you service-related announcements when it is necessary to do so; for instance, if our service is temporarily suspended for maintenance, or the delivery of a product is delayed or there is some service issue with something you may have ordered.  If you are a print subscriber to our magazine and do not wish to receive email bills, renewal notices and other communications regarding your magazine subscription by email, you can click <a href="https://secure.customersvc.com/wes/servlet/Show?WESPAGE=am/Services/us_retention_email.jsp&amp;MSRSMAG=US" target="_blank">here</a> and select this option on the Us Application’s customer service page. Please note that even if you opt out of receiving subscriber communications by email, we may continue to send you subscriber communications by direct mail.</p>
 
-<p><strong>(c)	Email Newsletters</strong>.   We may send you our email newsletter(s).  If you wish to unsubscribe from our email newsletter(s), simply follow the unsubscribe instructions at the bottom of the email newsletter or click <a href="http://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=2068052157&amp;n=4" target="_blank">here</a> to manage your newsletter preferences.</p> 
+<p><strong>(b)	Email Newsletters</strong>.   We may send you our email newsletter(s).  If you wish to unsubscribe from our email newsletter(s), simply follow the unsubscribe instructions at the bottom of the email newsletter or click <a href="http://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=2068052157&amp;n=4" target="_blank">here</a> to manage your newsletter preferences.</p>
 
-<p id="email-promotions"><strong>(d)	Email Marketing Offers</strong>.  We may send you promotional emails regarding special offers about our products and services or on behalf of third party marketing partners who we think can offer services and products of interest to you. We may also share your name and email address and certain other information, such as when you first subscribed, with reputable companies that provide marketing offers through email.  If you do not want us to send you emails regarding special promotions or offers or share your Personal Information with other companies so that they can send you email offers, simply follow the unsubscribe instructions that are located at the bottom of those emails or you can click <a href="http://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=2068052157&amp;n=4" target="_blank">here</a> to manage your email marketing preferences.  Please note that even if you opt out of receiving promotional e-mails, we may continue to send you electronic service notifications that are related to your account(s) and other products and services you have requested or in which you are currently enrolled. </p> 
+<p id="email-promotions"><strong>(c)	Email Marketing Offers</strong>.  We may send you promotional emails regarding special offers about our products and services or on behalf of third party marketing partners who we think can offer services and products of interest to you. We may also share your name and email address and certain other information, such as when you first subscribed, with reputable companies that provide marketing offers through email.  If you do not want us to send you emails regarding special promotions or offers or share your Personal Information with other companies so that they can send you email offers, simply follow the unsubscribe instructions that are located at the bottom of those emails or you can click <a href="http://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=2068052157&amp;n=4" target="_blank">here</a> to manage your email marketing preferences.  Please note that even if you opt out of receiving promotional e-mails, we may continue to send you electronic service notifications that are related to your account(s) and other products and services you have requested or in which you are currently enrolled.</p> 
 
-<p id="mail-promotions"><strong>(e)	Direct Mail Marketing Offers</strong>.  If you subscribed to our print magazine either by mail, online or other method, we may send you offers through direct mail that we feel might be of interest to you and/or share your name and mailing address and certain other information, such as when you first subscribed, with reputable companies that provide marketing offers through direct mail. If you do not want us to send you any offers from third parties through direct mail or share your Personal Information with other companies so that they can send you direct mail offers about their products and services, please write to us at the street address set forth at the end of this document or click <a href="mailto:privacy@usmagazine.com">here</a>.   Please include your account number, name and mailing address in the body of your email or letter, and please include "Direct Mail Opt-Out" in the subject line.  Please note that even if you opt out of receiving promotional direct mail offers, we may continue to send you service notifications by direct mail that are related to your account(s) and other products and services you have requested or in which you are currently enrolled.</p>  
+<p id="mail-promotions"><strong>(d)	Direct Mail Marketing Offers</strong>.  If you subscribed to our print magazine either by mail, online or other method, we may send you offers through direct mail that we feel might be of interest to you and/or share your name and mailing address and certain other information, such as when you first subscribed, with reputable companies that provide marketing offers through direct mail. If you do not want us to send you any offers from third parties through direct mail or share your Personal Information with other companies so that they can send you direct mail offers about their products and services, please write to us at the street address set forth at the end of this document or click <a href="https://secure.customersvc.com/wes/servlet/Show?WESPAGE=am/Services/wes_email.jsp&amp;MSRSMAG=US" target="_blank">here</a>.     Please note that even if you opt out of receiving promotional direct mail offers, we may continue to send you service notifications by direct mail that are related to your account(s) and other products and services you have requested or in which you are currently enrolled.</p>
 
-<p><strong>(f)	Reader Surveys</strong>.  We may collect Personal Information from you in connection with voluntary surveys about your readership of our publication, your household/personal characteristics and your purchase behavior.  The information you provide in response to optional survey questions will only be shared in the aggregate with advertisers and partners unless we notify you otherwise at the time of collection. You may always elect not to receive any surveys from us by following the unsubscribe instructions located at the bottom of any survey.</p>
+<p><strong>(e)	Reader Surveys</strong>.  We may collect Personal Information from you in connection with voluntary surveys about your readership of our publication, your household/personal characteristics and your purchase behavior.  The information you provide in response to optional survey questions will only be shared in the aggregate with advertisers and partners unless we notify you otherwise at the time of collection. You may always elect not to receive any surveys from us by following the unsubscribe instructions located at the bottom of any survey.</p>
 
-<p><strong>(g)	Third Parties Providing Us Applications on Our Behalf</strong>.  We may use third party vendors to perform certain services on behalf of the Us Application, such as hosting the Us Application, designing and/or operating the Us Application's features, managing our email lists, fulfilling magazine subscriptions, processing payments, and performing other administrative services.  We may provide these vendors with access to user information, including Personal Information, to carry out the services they are performing for you or for us.</p>  
+<p><strong>(f)	Third Parties Providing Services on Our Behalf</strong>.  We may use third party vendors to perform certain services on behalf of the Us Application, such as hosting the Us Application, designing and/or operating the Us Application’s features, managing our email lists, fulfilling magazine subscriptions, processing payments, and performing other administrative services.  We may provide these vendors with access to user information, including Personal Information, to carry out the services they are performing for you or for us.</p>
 
-<p id="third-party-technologies"><strong>(h)	Third Party Technologies</strong>.  We use third parties' tools to better understand who is using the Us Application and how, to provide certain functionalities on the Us Application, to improve the effectiveness of the Us Application and its content, and to help us serve more targeted advertising to you.   Those third party companies may use cookies, pixel tags or other technologies to collect and store anonymous information such as time of visit, pages visited, time spent on each page of the Us Application, Device Identifiers, Region Location, type of operating system used and other web sites you may have visited.  We do not have access to, nor control over, third parties' use of cookies or other tracking technologies. You should consult the respective privacy policies of these third parties to see your options for opting out of their use of such devices.  If you would like more information regarding which third party companies we use to provide these services who may be serving cookies or other tracking tools on our site or want to know more about your choices about not having this anonymous collected or used by these companies, please click <a href="http://www.usmagazine.com/celebrity-news/page/third-party-technologies">here</a>.  </p>
+<p id="third-party-advertising"><strong>(g)	Third Party Advertising</strong>. We use advertising service providers and other third parties to provide advertisements on Us Applications and to help us and our advertisers serve advertisements for goods and services of interest to you.  These third parties use technology to send, directly to your Device, the advertisements and links that appear on the Us Application. They automatically receive your Device Identifier when this happens. These companies and the advertisers themselves may use information about your visits on other web sites and the Us Application in order to serve more targeted advertising to you on the Us Application and on third party websites and applications. They may also use Tracking Technologies to measure the effectiveness of their advertisements and to personalize the advertising content.  If you accessed content through an email address, they may use a Hash of your email address to serve more targeted advertising to you.  They may also supplement the information that they gather with information that they receive from other sources, such as demographic and lifestyle information.  This Privacy Policy does not apply to, and we cannot control the activities of third parties.  Some of the advertising service providers may be members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. If you opt-out of receiving targeted ads in this manner, you will continue to receive advertising messages after you opt-out, but they will not be customized to you based on your use of the Us Application and/or third party websites. If you would like more information regarding which third party companies we use to provide these services who may be serving cookies or other tracking tools on our site, please click <a href="/celebrity-news/page/third-party-technologies">here</a>. If you would like more information about advertisers' use of tracking technologies and about your option not to accept these cookies, you can go to <a href="http://www.networkadvertising.org" target="_blank">www.networkadvertising.org</a>.  If you would like to learn more about how interest-based information is collected, whether the companies we use are part of an industry network regarding behavioral advertising and to know your choices about not having information used in this manner you can go to <a href="http://www.aboutads.info" target="_blank">www.aboutads.info</a>.</p>
 
-<p id="third-party-advertising"><strong>(i)	Third Party Advertising</strong>.  We also use third-party ad servers and ad networks to serve advertisements when you visit the Us Application. These companies and the advertisers themselves may use information about your visits on other web sites and the Us Application in order to provide advertisements about goods and services of interest to you. In the course of serving advertisements to the Us Application, these third-party ad servers or ad networks use technology to send, directly to your Device, the advertisements and links that appear on the Us Application. They automatically receive your Device Identifier when this happens. They may also use tracking technologies to measure the effectiveness of their advertisements and to personalize the advertising content.  This Privacy Policy does not apply to, and we cannot control the activities of, such advertisers, ad servers or ad networks.  You should consult the respective privacy policies of any advertisers on the Us Application to see your options for opting out of their use of such devices. In addition, some of the ad servers and ad networks may be members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies.  If you opt-out of receiving targeted ads on the Us Application from ad servers and ad networks, you will continue to receive advertising and promotional messages after you opt-out, but they will not be customized or personalized to you based on your use of the Us Application and/or third party websites.  If you would like more information about advertisers' use of tracking technologies and about your option not to accept these cookies, you can go to <a href="http://www.networkadvertising.org" target="_blank">www.networkadvertising.org</a>.  If you would like to learn more about how interest-based information is collected, whether the companies we use are part of an industry network regarding behavioral advertising and to know your choices about not having information used in this manner you can go to <a href="http://www.aboutads.info" target="_blank">www.aboutads.info</a>.</p>
+<p><strong>(h)	Co-branded Areas</strong>.  Certain areas of the Us Application may be provided to you in association with third parties, such as retailers, sponsors or advertisers (“<strong>Co-Branded Areas</strong>”), and may request that you disclose Personal Information.  Such Co-Branded Areas will identify the third party.  If you elect to register for or purchase products and/or services at Co-Branded Areas, you may be providing your information to both us and the third party. Your personal information will be subject to this Privacy Policy as well as the privacy policy and practices of such third party.  We are not responsible for the privacy policy or practices of such third party.  You should consult the respective privacy policies of those third parties to learn more about their privacy practices.</p>
 
-<p><strong>(j)	Co-branded Areas</strong>.  Certain areas of the Us Application may be provided to you in association with third parties, such as retailers, sponsors or advertisers ("<strong>Co-Branded Areas</strong>"), and may request that you disclose Personal Information.  Such Co-Branded Areas will identify the third party.  If you elect to register for or purchase products and/or services at Co-Branded Areas, you may be providing your information to both us and the third party. Your personal information will be subject to this Privacy Policy as well as the privacy policy and practices of such third party.  We are not responsible for the privacy policy or practices of such third party.  You should consult the respective privacy policies of those third parties to learn more about their privacy practices.</p>
+<p><strong>(i)	Sweepstakes, Contests and Promotions</strong>. We may offer sweepstakes, contests, and other promotions (any, a “Promotion”) that may require registration.  By participating in a Promotion, you are agreeing to official rules that govern that Promotion.  If you choose to enter a Promotion, Personal Information may be used and disclosed as set forth in this Privacy Policy, as well as in connection with the administration of such Promotion and as required by law or permitted by the Promotion’s official rules.</p>
 
-<p><strong>(k)	Sweepstakes, Contests and Promotions</strong>. We may offer sweepstakes, contests, and other promotions (any, a "<strong>Promotion</strong>") that may require registration.  By participating in a Promotion, you are agreeing to official rules that govern that Promotion.  If you choose to enter a Promotion, Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion and as required by law or permitted by the Promotion's official rules.</p>
+<p><strong>(j)	Administrative and Legal Reasons</strong>.  We may access, use, preserve, transfer and disclose your information (including Personal Information), including disclosure to third parties: (i) to satisfy any applicable law, regulation, subpoenas, governmental requests or legal process if in our good faith opinion such is required or permitted by law; (ii) to protect and/or defend the Us Application’s Terms of Use or other policies applicable to the our Services, including investigation of potential violations thereof; (iii) to protect the safety, rights, property or security of the Us Application or any third party; and/or (iv) to detect, prevent or otherwise address fraud, security or technical issues.  Further, we may use Device Identifiers and other information to identify users, and may do so in cooperation with third parties such as copyright owners, internet service providers, wireless service providers and/or law enforcement agencies, including disclosing such information to third parties, all in our discretion.  Such disclosures may be carried out without notice to you.</p>
 
-<p><strong>(l)	Administrative and Legal Reasons</strong>.  We may access, use, preserve, transfer and disclose your information (including Personal Information), including disclosure to third parties: (i) to satisfy any applicable law, regulation, subpoenas, governmental requests or legal process if in our good faith opinion such is required or permitted by law; (ii) to protect and/or defend the Us Application's Terms of Use or other policies applicable to the our Services, including investigation of potential violations thereof; (iii) to protect the safety, rights, property or security of the Us Application or any third party; and/or (iv) to detect, prevent or otherwise address fraud, security or technical issues.  Further, we may use Device Identifiers and other information to identify users, and may do so in cooperation with third parties such as copyright owners, internet service providers, wireless service providers and/or law enforcement agencies, including disclosing such information to third parties, all in our discretion.  Such disclosures may be carried out without notice to you.
-(m)	Sale or Transfer of Business or Assets.  We may share your information, including your Personal Information and Usage Information with our parent, subsidiaries and affiliates for internal business purposes.  In addition, in the event that we, or any of our businesses, are sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, Personal Information may be one of the assets sold or merged in connection with that transaction.  Information about our visitors and registered users may also need to be disclosed in connection with a commercial transaction where we or any one of our businesses are seeking financing, investment, support or funding.  In such transactions, use of such information will be subject to the rights and obligations as described in this Privacy Policy. </p>   
+<p><strong>(k)	Sale or Transfer of Business or Assets</strong>.  We may share your information, including your Personal Information and Usage Information with our parent, subsidiaries and affiliates for internal business purposes.  In addition, in the event that we, or any of our businesses, are sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, Personal Information may be one of the assets sold or merged in connection with that transaction.  Information about our visitors and registered users may also need to be disclosed in connection with a commercial transaction where we or any one of our businesses are seeking financing, investment, support or funding.  In such transactions, use of such information will be subject to the rights and obligations as described in this Privacy Policy.</p>
 
 <h3>3.	Information You Disclose Publicly</h3>
 
-<p>The Us Application may permit you to submit photographs, user profiles, writings, music, video, questions, comments or other content, which may include Personal Information (collectively, "<strong>User Content</strong>").  We or others may reproduce, publish, distribute or otherwise use User Content in any media or format (currently existing or hereafter developed).  Others may have access to this User Content and may have the ability to share it with third parties.  Please think carefully before deciding what information you share, including Personal Information, in connection with your User Content.  Please note that we do not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure.  This Privacy Policy does not apply to any information that you disclose publicly, share with others or otherwise upload onto the Us Application.  We are not responsible for the accuracy, use or misuse of any content or information that you disclose or receive through the Us Application.  For the full terms and conditions regarding User Content you submit to the Us Application, please review our <a href="terms">Terms of Use</a> </p> 
+<p>The Us Application may permit you to submit photographs, user profiles, writings, music, video, questions, comments or other content, which may include Personal Information (collectively, “User Content”).  We or others may reproduce, publish, distribute or otherwise use User Content in any media or format (currently existing or hereafter developed).  Others may have access to this User Content and may have the ability to share it with third parties.  Please think carefully before deciding what information you share, including Personal Information, in connection with your User Content.  Please note that we do not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure.  This Privacy Policy does not apply to any information that you disclose publicly, share with others or otherwise upload onto the Us Application.  We are not responsible for the accuracy, use or misuse of any content or information that you disclose or receive through the Us Application.  For the full terms and conditions regarding User Content you submit to the Us Application, please review our <a href="terms">Terms of Use</a>. </p> 
 
 <h3>4.	Third Party Content and Links To Third Party Sites</h3>
 
-<p>The Us Application may contain content that is supplied by a third party, and those third parties may collect Us Application usage information and your Device Identifier when web pages from the Us Application are served to your browser.  In addition, when you are on the Us Application you may be directed to other web sites that are operated and controlled by third parties that we do not control.  We are not responsible for the privacy practices employed by any of these third parties or third party web sites.  For example, if you "click" on a banner advertisement, the "click" may take you off the Us Application onto a different web site.  These other web sites may send their own cookies to you, independently collect data or solicit Personal Information and may or may not have their own published privacy policies.  We encourage you to note when you leave our Us Application and to read the privacy statements of all third party web sites before submitting any Personal Information to those sites.</p>
+<p>The Us Application may contain content that is supplied by a third party, and those third parties may collect Us Application usage information and your Device Identifier when web pages from the Us Application are served to your browser.  In addition, when you are on the Us Application you may be directed to other web sites that are operated and controlled by third parties that we do not control.  We are not responsible for the privacy practices employed by any of these third parties or third party web sites.  For example, if you “click” on a banner advertisement, the “click” may take you off the Us Application onto a different web site.  These other web sites may send their own cookies to you, independently collect data or solicit Personal Information and may or may not have their own published privacy policies.  We encourage you to note when you leave our Us Application and to read the privacy statements of all third party web sites before submitting any Personal Information to those sites.</p>
 
 <h3>5.	Consent to Transfer Information To The United States</h3>
 
@@ -323,37 +345,37 @@ font-family: "Times New Roman", Georgia, serif;
 
 <h3>6.	Children's Privacy</h3>
 
-<p>The Us Application is for general audiences and is not intended for use by children.  We do not knowingly collect any Personal Information from children younger than the age of thirteen (13), and we will delete any Personal Information collected that we later determine to be from a user younger than the age of thirteen (13).  If you believe a child under the age of thirteen (13) has disclosed Personal Information to us, please write to us at the street address provided in the "Contact Us" section set forth at the end of this Privacy Policy.</p>
+<p>The Us Application is for general audiences and is not intended for use by children.  We do not knowingly collect any Personal Information from children younger than the age of thirteen (13), and we will delete any Personal Information collected that we later determine to be from a user younger than the age of thirteen (13).  If you believe a child under the age of thirteen (13) has disclosed Personal Information to us, please write to us at the street address provided in the “Contact Us” section set forth at the end of this Privacy Policy.</p>
 
 <h3>7.	Security</h3>
 
-<p>We have incorporated safeguards to help prevent the loss, misuse and alteration of information under our control.  However, no data transmission over the Internet, wireless transmission or electronic storage of information can be guaranteed to be 100% secure.  Please note that we cannot ensure the security of any information you transmit to us, and your use of the Us Application indicates that you are willing to assume this risk.</p> 
+<p>We have incorporated safeguards to help prevent the loss, misuse and alteration of information under our control.  However, no data transmission over the Internet, wireless transmission or electronic storage of information can be guaranteed to be 100% secure and we cannot anticipate all potential misuse of data over the Internet.  Please note that we cannot ensure the security of any information you transmit to us, and your use of the Us Application indicates that you are willing to assume this risk.</p> 
 
 <h3>8.	Changes to the Privacy Policy</h3>
 
-<p>We reserve the right to change this Privacy Policy at any time without notice to you.  Any changes will be effective immediately upon the posting of the revised Privacy Policy. </p> 
+<p>We reserve the right to change this Privacy Policy at any time without notice to you.  Any changes will be effective immediately upon the posting of the revised Privacy Policy.  </p> 
 
 <h3 id="california-policy">9.	Your California Privacy Rights: A Notice to California Users <span class="paren">(California Civil Code Section 1798.83)</span></h3>
 
-<p>California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. </p>
+<p>California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place.</p>
 
-<p><strong>Opting out of Direct Mail Marketing</strong>:  If you do not want us to send you any offers from third parties through direct mail or share your Personal Information with other companies so that they can send you direct mail offers about their products and services, please write to us at the street address set forth at the end of this document or click <a href="mailto:privacy@usmagazine.com">here</a>.   Please include your account number, name and mailing address in the body of your email or letter, and please include "Direct Mail Opt-Out" in the subject line. </p>
+<p><strong>Opting out of Direct Mail Marketing</strong>:  If you do not want us to send you any offers from third parties through direct mail or share your Personal Information with other companies so that they can send you direct mail offers about their products and services, please write to us at the street address set forth at the end of this document or click <a href="https://secure.customersvc.com/wes/servlet/Show?WESPAGE=am/Services/wes_email.jsp&amp;MSRSMAG=US" target="_blank">here</a>.   If you write to us, please include your account number, name and mailing address in the body of your letter, and please include “Direct Mail Opt-Out” in the subject line.</p>
 
 <p><strong>Opting out of Email Marketing</strong>:  If you do not want us to send you emails regarding special promotions or offers or share your Personal Information with other companies so that they can send you emails about their products and services, simply follow the unsubscribe instructions that are located at the bottom of those emails or you can click <a href="http://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=2068052157&amp;n=4" target="_blank">here</a> to manage your newsletter and email marketing preferences. </p>
  
-<p>California customers may request further information about our approach to this law by writing to us at the address provided in the "Contact Us" section located at the end of this document or by email by clicking <a href="mailto:privacy@usmagazine.com">here</a> and requesting further information.</p>
+<p>California customers may request further information about our approach to this law by writing to us at the address provided in the “Contact Us” section located at the end of this document.</p>
 
 <p><strong>10.	Disputes; No Rights of Third Parties</strong>.  If you choose to access the Us Application, subscribe to our magazine or use any of our Services, any dispute over privacy is subject to our Terms of Use, including limitations on damages, resolution of disputes, and application of the laws of the United States, and the State of New York.  This Privacy Policy does not create rights enforceable by third parties.</p>
 
-<p><strong>11.	How Do I Contact You about My Magazine Subscription?</strong> If you have a question or issue relating to your Us Weekly magazine subscription, such as wanting to change your mailing address, cancel a subscription or report a missing issue, please click <a href="https://secure.customersvc.com/servlet/Show?WESPAGE=am/home.jsp&amp;MSRSMAG=US" target="_blank">here</a> to go to the Us Application's customer service page.</p>
+<p><strong>11.	How Do I Contact You about My Magazine Subscription?</strong> If you have a question or issue relating to your Us Weekly magazine subscription, such as wanting to change your mailing address, cancel a subscription or report a missing issue, please click <a href="https://secure.customersvc.com/wes/servlet/Show?WESPAGE=am/Services/wes_email.jsp&amp;MSRSMAG=US" target="_blank">here</a> to go to the Us Application’s customer service page.</p>
 
-<p><strong>12.	Contact Us: Privacy Policy Coordinator</strong>. If you have any questions or concerns about any aspect of this policy, please contact our privacy policy coordinator at the address set forth below or you can click <a href="mailto:privacy@usmagazine.com">here</a> and email us your question or concern.</p>
+<p><strong>12.	Contact Us: Privacy Policy Coordinator</strong>. If you have any questions or concerns about any aspect of this policy, please contact our privacy policy coordinator at the address set forth below.</p>
+
 <p class="addr">Privacy Coordinator<br>
 Us Weekly<br>
 1290 Avenue of the Americas<br>
 New York, NY 10104
-</p>
-          </div>
+</p>          </div>
                 </div>
         <!-- end services wrapper -->
         
@@ -370,20 +392,21 @@ New York, NY 10104
           <p>Advertisement</p>
           <!--- zone_ad1 -->
   
-	<div class="dart_ad ad-container dartsz_336x280">
-<!-- begin ad 336x280-tile5--> <script language="JavaScript" type="text/javascript">
+
+	<div data-cb-ad-id="ad-1" class="dart_ad ad-container dartsz_336x280">
+		
+<!-- begin ad 336x280-tile4--> <script language="JavaScript" type="text/javascript">
   // <![CDATA[
     if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
-	 if (typeof dart_tile_ord=='undefined' || dart_tile_ord == 0) {
-		 dart_tile_ord = 1;		 
-	 }
+	dart_tile_ord = 4 || dart_tile_ord++;
+	 
 	 // added quantcast segment variable quantSegs
-	//alert(quantSegs);
 	document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.channels/services;tile=' + dart_tile_ord + ';dcopt=;sz=336x280;' + quantSegs + 'ord=' + ord + '?" type="text/javascript"><\/script>');
 	dart_tile_ord++;
   // ]]>
-  </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.channels/services;tile=2;dcopt=;sz=336x280;ord=1051800496005104.1?" type="text/javascript"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/usweek.channels/services;tile=5;sz=336x280;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/usweek.channels/services;tile=5;sz=336x280;ord=123456789?" width="" height="" border="0" alt=""></a></noscript>
+  </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.channels/services;tile=4;dcopt=;sz=336x280;ord=3725159727973097.5?" type="text/javascript"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/usweek.channels/services;tile=4;sz=336x280;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/usweek.channels/services;tile=4;sz=336x280;ord=123456789?" width="" height="" border="0" alt=""></a></noscript>
+
 			<p>ADVERTISEMENT</p>	</div>
 
 
@@ -396,10 +419,10 @@ New York, NY 10104
 	<div class="bottom">
 		<div class="top">
 			<div id="hot-pics-content" class="clearfix" data-track-tags="a" data-category="Article" data-action="HotPics">
-				<a href="/hot-pics/cma-cutie-2012111" class="featured">
-					<img width="286px" alt="CMA Cutie" src="http://www.usmagazine.com/uploads/assets/photo_galleries/hot_pics_galleries/10064-cma-cutie/1351821711_taylor-swift-453.jpg">					<span class="caption">
+				<a href="/hot-pics/a-wheel-good-time-2013315" class="featured">
+					<img width="286px" alt="A &quot;Wheel&quot; Good Time" src="http://www.usmagazine.com/uploads/assets/photo_galleries/hot_pics_galleries/12073-a-wheel-good-time/1370029436_heather-graham-hp.jpg">					<span class="caption" style="">
 						<h3><span class="altText">Hot Pics!</span></h3>
-						<h4 style="margin-top:31.5px;">CMA Cutie&nbsp;<span class="link-arrow">»</span></h4>
+						<h4 style="margin-top:5px;">A "Wheel" Good Time&nbsp;<span class="link-arrow">»</span></h4>
 					</span>
 				</a>
 			</div><!-- #hot-pics-content -->
@@ -412,11 +435,11 @@ New York, NY 10104
 			<ol id="top-stories-content" class="clearfix">
 				<h3>Top Stories</h3>
 																		<li id="story-1">
-						<div class="info" style="margin-top:7.5px;">
+						<div class="info" style="margin-top:0px;">
 							<span class="label"></span>
 							<h4>
-								<a href="/celebrity-body/news/topless-lady-gaga-flaunts-weight-loss-in-cannabis-queen-halloween-costume-2012111">
-									Topless Lady Gaga Flaunts Weight Loss in "Cannabis Queen" Costume<span class="link-arrow">&nbsp;»</span>
+								<a href="/entertainment/news/kim-kardashian-learns-babys-gender-on-keeping-up-with-the-kardashians-2013315">
+									Sneak Peek! Kim Kardashian Finds Out the Gender of Her Baby<span class="link-arrow">&nbsp;»</span>
 								</a>
 							</h4>
 						</div>
@@ -424,11 +447,11 @@ New York, NY 10104
 						<div class="clearfix"></div>
 					</li>
 																			<li class="even" id="story-2">
-						<div class="info" style="margin-top:7.5px;">
+						<div class="info" style="margin-top:0px;">
 							<span class="label"></span>
 							<h4>
-								<a href="/celebrity-moms/news/picture-jake-owens-wife-lacey-buchanan-flaunts-baby-bump-at-2012-cma-awards--2012111">
-									PICTURE: Jake Owen's Wife Lacey Buchanan Flaunts Baby Bump at CMA Awards<span class="link-arrow">&nbsp;»</span>
+								<a href="/celebrity-beauty/news/portia-de-rossis-new-look-on-arrested-development-did-she-get-plastic-surgery-2013305">
+									Did Portia de Rossi Get Plastic Surgery?<span class="link-arrow">&nbsp;»</span>
 								</a>
 							</h4>
 						</div>
@@ -436,11 +459,11 @@ New York, NY 10104
 						<div class="clearfix"></div>
 					</li>
 																			<li id="story-3">
-						<div class="info" style="margin-top:16px;">
+						<div class="info" style="margin-top:0px;">
 							<span class="label"></span>
 							<h4>
-								<a href="/entertainment/news/khloe-kardashian-yes-there-was-nip-action-on-x-factor-2012111">
-									Khloe Kardashian: Yes, There Was "Nip Action" on X Factor<span class="link-arrow">&nbsp;»</span>
+								<a href="/entertainment/news/two-and-a-half-men-adding-a-lady-to-replace-angus-t-jones-2013305">
+									Two and a Half Men Adding a Lady to Replace Angus T. Jones<span class="link-arrow">&nbsp;»</span>
 								</a>
 							</h4>
 						</div>
@@ -448,11 +471,11 @@ New York, NY 10104
 						<div class="clearfix"></div>
 					</li>
 																			<li class="even" id="story-4">
-						<div class="info" style="margin-top:16px;">
+						<div class="info" style="margin-top:0px;">
 							<span class="label"></span>
 							<h4>
-								<a href="/celebrity-news/news/best-celebrity-halloween-costumes-of-2012-2012111">
-									Best Celebrity Halloween Costumes of 2012<span class="link-arrow">&nbsp;»</span>
+								<a href="/celebrity-style/news/kim-kardashian-wears-tight-kardashian-kollection-dress-flip-flops-2013315">
+									Kim Kardashian Wears Tight Kardashian Kollection Dress, Flip Flops<span class="link-arrow">&nbsp;»</span>
 								</a>
 							</h4>
 						</div>
@@ -460,11 +483,11 @@ New York, NY 10104
 						<div class="clearfix"></div>
 					</li>
 																			<li id="story-5">
-						<div class="info" style="margin-top:7.5px;">
+						<div class="info" style="margin-top:0px;">
 							<span class="label"></span>
 							<h4>
-								<a href="/celebrity-moms/news/picture-aww-sandra-bullock-louis-dress-as-toy-storys-jessie-buzz-lightyear-2012111">
-									PIC: Sandra Bullock, Louis Dress as Toy Story's Jessie, Buzz Lightyear<span class="link-arrow">&nbsp;»</span>
+								<a href="/celebrity-body/news/kendall-jenner-rocks-floral-bikini-lands-swimsuit-modeling-job-2013315">
+									Kendall Jenner Rocks Floral Bikini in New Modeling Picture<span class="link-arrow">&nbsp;»</span>
 								</a>
 							</h4>
 						</div>
@@ -486,7 +509,7 @@ New York, NY 10104
           <!--- zone_ad2 -->
   
 
-<div id="sweeps_add336x125">
+<div data-cb-ad-id="ad-2" id="sweeps_add336x125">
     <p><a href="mailto:hotstuff@usmagazine.com"><img title="336x140tell_us" src="/images/touts/336x140tell_us.jpg" alt="336x140tell_us" width="336" height="140"></a></p>
 <p>&nbsp;</p> 
 </div>  
@@ -496,10 +519,10 @@ New York, NY 10104
         <div class="side_block">
           <!--- zone_ad3 -->
   <div class="us_exclusive_box">
-    <div class="left"><a href="https://www.usweeklysubscriptions.com/storefront/us-4freeMarch/link/1005752.html"><img src="http://www.usmagazine.com/uploads/assets/gallery_upsell/1351699302_u926-hp.jpg"></a></div>
+    <div class="left"><a href="https://www.usweeklysubscriptions.com/storefront/us-4freeMarch/link/1005752.html"><img src="http://www.usmagazine.com/uploads/assets/gallery_upsell/1369844450_u956cover-hp.jpeg"></a></div>
     <div class="right_text"><!--<img src="/images/heading_us_exclusive_free_issues2.gif" />-->
       <span id="sub_tempter"><span>subscribe to Us Weekly</span></span>
-      <h3><a href="https://www.usweeklysubscriptions.com/storefront/us-4freeMarch/link/1005752.html" class="bold" title="Defending Our Men">Defending Our Men</a></h3>
+      <h3><a href="https://www.usweeklysubscriptions.com/storefront/us-4freeMarch/link/1005752.html" class="bold" title="It's Over!">It's Over!</a></h3>
       <ul class="sub_links">
   <li><a href="/sub-text-link-d">Subscribe</a><span class="gray"> »</span></li>
   <li><a href="/gift-text-link-d">Gift Subscriptions</a><span class="gray"> »</span></li>
@@ -517,50 +540,56 @@ New York, NY 10104
     </div>
   </div>
 </div>
-    		<div id="main-content-bottom">
-    			<div class="sponsored-links"><!-- quigo home -->
-	<script type="text/javascript">adsonar_placementId=1524813;adsonar_pid=1256767;adsonar_ps=0;adsonar_zw=932;adsonar_zh=98;adsonar_jv='ads.adsonar.com';</script><script language="JavaScript" src="http://js.adsonar.com/js/adsonar.js"></script>
-</div>                <div id="inside-us" class="module-container" data-track-tags="a" data-category="Recirc" data-action="InsideUs">
+	    		<div id="main-content-bottom">
+	    				                <div id="inside-us" class="module-container" data-track-tags="a" data-category="Recirc" data-action="InsideUs">
 	<h3>Inside Us Weekly</h3>
 	<ul>
 					<li class="style">
 				<span class="channel">Style</span>
-				<a href="/celebrity-style/news/2012-cma-awards-what-the-stars-wore-2012111"><img width="148" class="thumbnail" alt="2012 CMA Awards: What the Stars Wore!" src="http://www.usmagazine.com/uploads/assets/articles/57331-2012-cma-awards-what-the-stars-wore/promo/148x88/1351819041_cmas-dresses-300.jpg"></a>				<a class="type" href="/celebrity-style/news/2012-cma-awards-what-the-stars-wore-2012111">2012 CMA Awards: What the Stars Wore!</a>                			</li>
+				<a href="/celebrity-style/news/kim-kardashian-wears-tight-kardashian-kollection-dress-flip-flops-2013315"><img width="148" class="thumbnail" alt="Kim Kardashian Wears Tight Kardashian Kollection Dress, Flip Flops" src="http://www.usmagazine.com/uploads/assets/articles/63348-kim-kardashian-wears-tight-kardashian-kollection-dress-flip-flops/promo/148x88/1370012829_kim-kardashian-178.jpg"></a>				<a class="type" href="/celebrity-style/news/kim-kardashian-wears-tight-kardashian-kollection-dress-flip-flops-2013315">Kim Kardashian Wears Tight Kardashian Kollect</a>                    <!-- sponsor logo -->
+    <div>
+       <a href="http://ad.doubleclick.net/clk;272120181;97730626;d;pc=[TPAS_ID]" target="_blank"><img title="nordstrom_footer_148x60_02" src="/images/touts/nordstrom_footer_148x60_02.png" alt="nordstrom_footer_148x60_02" width="148" height="60"></a>             
+    </div>
+    <!-- end sponsor logo -->
+			</li>
 					
 					<li class="beauty">
 				<span class="channel">Beauty</span>
-				<a href="/celebrity-beauty/news/jenna-dewan-tatum-whats-in-my-bag-2012111"><img width="148" class="thumbnail" alt="Jenna Dewan-Tatum: What's in My Bag?" src="http://www.usmagazine.com/uploads/assets/articles/57322-jenna-dewan-tatum-whats-in-my-bag/promo/148x88/1351801111_jenna-dewan-tatum-300.jpg"></a>				<a class="type" href="/celebrity-body/news/jenna-dewan-tatum-whats-in-my-bag-2012111">Jenna Dewan-Tatum: What's in My Bag?</a>				
-                            </li>
+				<a href="/celebrity-beauty/news/mark-ruffalo-on-wifes-new-hair-color-now-the-curtains-match-the-carpet-2013285"><img width="148" class="thumbnail" alt="Mark Ruffalo on Wife's New Hair Color: &quot;Now the Curtains Match the Carpet!&quot;" src="http://www.usmagazine.com/uploads/assets/articles/63228-mark-ruffalo-on-wifes-new-hair-color-now-the-curtains-match-the-carpet/promo/148x88/1369759588_sunrise-coigney-mark-ruffalo-178.jpg"></a>				<a class="type" href="/celebrity-body/news/mark-ruffalo-on-wifes-new-hair-color-now-the-curtains-match-the-carpet-2013285">Mark Ruffalo on Wife Dying Hair: "Now the Cur</a>				
+                    <!-- sponsor logo -->
+    <div>
+       <a href="http://ad.doubleclick.net/clk;271747212;97244678;t" target="_blank"><img title="sonicare_footer_148x60" src="/images/touts/sonicare_footer_148x60.png" alt="sonicare_footer_148x60" width="148" height="60"></a>             
+    </div>
+    <!-- end sponsor logo -->
+            </li>
 					
 					<li class="moms">
 				<span class="channel">Moms</span>
-				<a href="/celebrity-moms/news/picture-jake-owens-wife-lacey-buchanan-flaunts-baby-bump-at-2012-cma-awards--2012111"><img width="148" class="thumbnail" alt="PICTURE: Jake Owen's Wife Lacey Buchanan Flaunts Baby Bump at 2012 CMA Awards" src="http://www.usmagazine.com/uploads/assets/articles/57330-picture-jake-owens-wife-lacey-buchanan-flaunts-baby-bump-at-2012-cma-awards-/promo/148x88/1351814528_jake-owen-lacey-buchanan-178.jpg"></a>				<a class="type" href="/celebrity-moms/news/picture-jake-owens-wife-lacey-buchanan-flaunts-baby-bump-at-2012-cma-awards--2012111">PICTURE: Jake Owen's Wife Lacey Buchanan Flau</a>                 			</li>
+				<a href="/celebrity-moms/news/james-van-der-beek-is-manly-sexy-sensitive-says-his-wife-kimberly-2013315"><img width="148" class="thumbnail" alt="James Van Der Beek Is &quot;Manly,&quot; &quot;Sexy,&quot; &quot;Sensitive,&quot; Says His Wife Kimberly" src="http://www.usmagazine.com/uploads/assets/articles/63357-james-van-der-beek-is-manly-sexy-sensitive-says-his-wife-kimberly/promo/148x88/1370024735_james-van-der-beek-178.jpg"></a>				<a class="type" href="/celebrity-moms/news/james-van-der-beek-is-manly-sexy-sensitive-says-his-wife-kimberly-2013315">James Van Der Beek Is "Manly," "Sexy," "Sensi</a>                     <!-- sponsor logo -->
+    <div>
+       <a href="http://ad.doubleclick.net/clk;270390951;96035805;l;pc=[TPAS_ID]" target="_blank"><img title="subaru_footer_148x60" src="/images/touts/subaru_footer_148x60.jpg" alt="subaru_footer_148x60" width="148" height="60"></a>
+&nbsp;
+&nbsp;             
+    </div>
+    <!-- end sponsor logo -->
+			</li>
 				
 					<li class="body">
 				<span class="channel">Body</span>
-				<a href="/celebrity-body/news/topless-lady-gaga-flaunts-weight-loss-in-cannabis-queen-halloween-costume-2012111"><img width="148" class="thumbnail" alt="Topless Lady Gaga Flaunts Weight Loss in &quot;Cannabis Queen&quot; Halloween Costume" src="http://www.usmagazine.com/uploads/assets/articles/57315-topless-lady-gaga-flaunts-weight-loss-in-cannabis-queen-halloween-costume/promo/148x88/1351794808_lady-gaga-178.jpg"></a>				<a class="type" href="/celebrity-body/news/topless-lady-gaga-flaunts-weight-loss-in-cannabis-queen-halloween-costume-2012111">Topless Lady Gaga Flaunts Weight Loss in "Can</a>                    <!-- sponsor logo -->
-    <div>
-       &nbsp;             
-    </div>
-    <!-- end sponsor logo -->
-            </li>
+				<a href="/celebrity-body/news/kendall-jenner-rocks-floral-bikini-lands-swimsuit-modeling-job-2013315"><img width="148" class="thumbnail" alt="Kendall Jenner Rocks Floral Bikini, Lands Swimsuit Modeling Job" src="http://www.usmagazine.com/uploads/assets/articles/63364-kendall-jenner-rocks-floral-bikini-lands-swimsuit-modeling-job/promo/148x88/1370033850_kendall-jenner-300.jpg"></a>				<a class="type" href="/celebrity-body/news/kendall-jenner-rocks-floral-bikini-lands-swimsuit-modeling-job-2013315">Kendall Jenner Rocks Floral Bikini in New Mod</a>                            </li>
 					
 					<li class="last entertainment">
 				<span class="channel">Entertainment</span>
-				<a href="/entertainment/news/ashlee-simpson-reveals-lingerie-curses-in-bat-for-a-heart-music-video-2012111"><img width="148" class="thumbnail" alt="Ashlee Simpson Reveals Lingerie, Curses in &quot;Bat for a Heart&quot; Music Video" src="http://www.usmagazine.com/uploads/assets/articles/57311-ashlee-simpson-reveals-lingerie-curses-in-bat-for-a-heart-music-video/promo/148x88/1351790516_ashlee-simpson-300.jpg"></a>				<a class="type" href="/entertainment/news/ashlee-simpson-reveals-lingerie-curses-in-bat-for-a-heart-music-video-2012111">Ashlee Simpson Reveals Lingerie, Curses in "B</a>                    <!-- sponsor logo -->
-    <div>
-       <a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&amp;c=20&amp;mc=click&amp;pli=5687032&amp;PluID=0&amp;ord=%n" target="_blank"><img title="cw_footer_148x60" src="/images/touts/cw_footer_148x60.png" alt="cw_footer_148x60" width="148" height="60"></a>             
-    </div>
-    <!-- end sponsor logo -->
-            </li>
+				<a href="/entertainment/news/dylan-sprouse-explains-why-he-left-disney-channel-2013305"><img width="148" class="thumbnail" alt="Dylan Sprouse Explains Why He Left Disney Channel" src="http://www.usmagazine.com/uploads/assets/articles/63335-dylan-sprouse-explains-why-he-left-disney-channel/promo/148x88/1369947792_108523835_dylan-sprouse-300.jpg"></a>				<a class="type" href="/entertainment/news/dylan-sprouse-explains-why-he-left-disney-channel-2013305">Former Child Star Dylan Sprouse: Why I Parted</a>                            </li>
 		
 		
 	</ul>
 	<div id="sticker">
-		<a href="http://www.usmagazine.com/celebrity-body/pictures/justin-and-jessica-through-the-years-2011113/13396"><img src="http://www.usmagazine.com/uploads/assets/inside_us/1351015749_insiderusweekly_foo-1a803c4.png"></a>
+		<a href="http://www.usmagazine.com/celebrity-moms/news/ivanka-trumps-tips-for-busy-working-moms-time-and-consistency-matter-2013175"><img src="http://www.usmagazine.com/uploads/assets/inside_us/1369835603_momsvideo_footer_149x285.png"></a>
 	</div>
 </div><!-- #inside-us -->
-    		</div><!-- #main-content-bottom -->
+	    		</div><!-- #main-content-bottom -->
+	    	</div>
         </div><!-- .page-content -->
          
     </div><!-- .page-content-bottom -->
@@ -569,7 +598,25 @@ New York, NY 10104
     	<div id="footer-inner">
 			<div class="wide-ad-wrapper" data-track-tags="a" data-category="MagSubs" data-action="RecircBox">  
 			                
-			        <div><a data-label="window.location" href="https://www.usweeklysubscriptions.com/storefront/us-4freeMarch/link/1005749.html" target="_blank"><img src="/images/subscription_banners/us_light_970X125.jpg"></a></div>			</div>
+			        
+	<div data-cb-ad-id="ad-4" class="dart_ad ad-container dartsz_970x125">
+		
+<!-- begin ad 970x125-tile4--> <script language="JavaScript" type="text/javascript">
+  // <![CDATA[
+    if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
+	dart_tile_ord = 4 || dart_tile_ord++;
+	 
+	 // added quantcast segment variable quantSegs
+	document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.channels/services;tile=' + dart_tile_ord + ';dcopt=;sz=970x125;' + quantSegs + 'ord=' + ord + '?" type="text/javascript"><\/script>');
+	dart_tile_ord++;
+  // ]]>
+  </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.channels/services;tile=4;dcopt=;sz=970x125;ord=3725159727973097.5?" type="text/javascript"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/usweek.channels/services;tile=4;sz=970x125;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/usweek.channels/services;tile=4;sz=970x125;ord=123456789?" width="" height="" border="0" alt=""></a></noscript>
+
+			<p><span class="altText">ADVERTISEMENT</span></p>	</div>
+
+
+			</div>
 	    	<div id="footer-content" data-track-tags="a" data-category="Nav" data-action="Footer">
 	        	<div class="footer-links clearfix">
 	            	<div class="category magazine clearfix">
@@ -607,7 +654,8 @@ New York, NY 10104
 	                        <li><a data-action="FooterGift" data-label="window.location" href="/gift-text-link-a" target="_blank" title="Give A Gift">Give A Gift</a></li>
 	                        <li><a href="/services/faq" title="FAQs">FAQs</a></li>
 	                        <li><a href="https://secure.customersvc.com/servlet/Show?WESPAGE=am/home.jsp&amp;MSRSMAG=US" title="Customer Service">Customer Service</a></li>
-	                    </ul>
+	                	<li><a href="http://www.usmagazine.com/digital-access" title="Digital Access" target="_blank">Digital Access</a></li>    
+			</ul>
 	                </div><!-- .category -->
 	                <div class="category follow-us clearfix">
 	                	<ul>
@@ -616,14 +664,14 @@ New York, NY 10104
 	                        <li class="twitter"><a href="http://twitter.com/#!/usweekly" target="_blank" title="Twitter">Twitter</a></li>
 	                        <li class="rss"><a href="/services/rss" title="Rss Feed">RSS Feed</a></li>
 	                        <li class="newsletter"><a data-label="window.location" data-category="Newsletter" data-action="Footer" href="/services/newsletter/signup" title="Newsletter">Newsletter</a></li>
-	                        <li class="iphone"><a href="http://m.usmag.com" title="iPhone App">iPhone App</a></li>
+	                        <li class="iphone"><a href="/digital-access#iphone_app" title="iPhone App" target="_blank">iPhone App</a></li>
 	                    </ul>
 	                </div><!-- .category -->
 	            </div><!-- .footer-links -->
 	            <div class="bottom-bar">
                    
 	            	<div class="copyright">
-	                	© Copyright 2012 Us Weekly
+	                	© Copyright 2013 Us Weekly
                         
 	                </div><!--. copyright -->
                     
@@ -634,8 +682,13 @@ New York, NY 10104
 	                    <li class="rs"><a href="http://www.rollingstone.com/" target="_blank" title="Rolling Stone"><span class="altText">Rolling Stone</span></a></li>
 	                    <li class="jsw"><a href="http://www.jannswenner.com/" target="_blank" title="Jann S. Wenner"><span class="altText">Jann S. Wenner</span></a></li>  
 	                </ul>
-                    
-                    <div style="clear: right; float: right" class="omg-footer clearfix" id="omg-footer"><a target="_blank" href="http://omg.yahoo.com"><img src="/images/microsites/yahoo-omg/footer_omgonus.png"></a></div>
+	                
+	                <!-- ETR credit -->
+	                                    <div id="etr-credit">
+						<iframe src="/etr/index.php" scrolling="no" frameborder="0"></iframe>
+					</div>
+
+                    <div style="clear: right; float: right" class="omg-footer clearfix" id="omg-footer"><img src="/images/microsites/yahoo-omg/footer_omgonus2.png"></div>
                     
 	            </div><!-- .bottom-bar -->	
                 
@@ -644,6 +697,9 @@ New York, NY 10104
 		</div><!-- #footer-inner -->
         
     </div><!-- .footer -->
+    
+    <!-- incase of takeover -->
+    <div id="skirt"></div>
     
     
 <script src="/js/fe/gaTracking.js" type="text/javascript"></script>
@@ -682,7 +738,7 @@ var _gaq = _gaq || [];
     <script src="http://platform.twitter.com/widgets.js"></script>
     
         <script type="text/javascript">
-        var click_cap = '<img width="0" height="0" src="/capture/services/privacypolicy/click.htm?t=1351837624" />';
+        var click_cap = '<img width="0" height="0" src="/capture/services/privacypolicy/click.htm?t=1370096054" />';
     var rand = Math.floor(Math.random()*101);
     if ((rand % 100) == 1 ) {
       document.write(click_cap);
@@ -701,7 +757,7 @@ BF_BB_DATA = null;
     BF_BB_SRC="http://buzzbox.buzzfeed.com/wd/BuzzBox?sid=" + sid + c + b + '&it=1&cb=' + plstart.getTime();
     setTimeout(function() { document.getElementById('BF_BUZZBOX').appendChild(BF_BB_SCRIPT); BF_BB_SCRIPT.src=BF_BB_SRC; },1);
 })();
-</script><div id="BF_BUZZBOX" style="height: 0px; width: 0px;position:absolute;"><script type="text/javascript" src="http://buzzbox.buzzfeed.com/wd/BuzzBox?sid=78JOC7&amp;it=1&amp;cb=1580364866268"></script></div>
+</script><div id="BF_BUZZBOX" style="height: 0px; width: 0px;position:absolute;"><script type="text/javascript" src="http://buzzbox.buzzfeed.com/wd/BuzzBox?sid=78JOC7&amp;it=1&amp;cb=1580364866031"></script></div>
 <!-- / Buzz Feed BuzzBox code ends -->
 
 <script type="text/javascript">
@@ -746,6 +802,18 @@ qacct:"p-41yObSuSE7DTI"
 </noscript>
 <!-- End Quantcast tag -->
 
+<!-- Start Compete script -->
+<!-- Compete CrossPoint Tag for usmagazine.com -->
+<script type="text/javascript">
+__compete_code = 'e674bb0f74743679358fe6c82360a54e';
+/* Set control variables below this line. */ 
+</script>
+<script type="text/javascript" src="//c.compete.com/bootstrap/s/e674bb0f74743679358fe6c82360a54e/usmagazine-com/bootstrap.js"></script>
+<noscript>
+    <img width="1" height="1" src="https://ssl-usmagazine-com-e674bb.c-col.com"/>;
+</noscript>
+<!-- End Compete Script -->
+
 <!-- safecount script -->
 <script src="http://content.dl-rms.com/rms/mother/25643/nodetag.js"></script>
 <!-- general site-wide iCompass script -->
@@ -781,7 +849,7 @@ var _sf_async_config={uid:30231,domain:"usmagazine.com"};
     e.setAttribute('type', 'text/javascript');
     e.setAttribute('src',
        (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
-       "js/chartbeat.js");
+       "js/chartbeat_pub.js");
     document.body.appendChild(e);
   }
   var oldonload = window.onload;
@@ -816,15 +884,17 @@ var _sf_async_config={uid:30231,domain:"usmagazine.com"};
 
 
 <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
-
+<script type="text/javascript" src="/js/fe/sub_button.js"></script>
 <script type="text/javascript">
   (function() {
     var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;
     li.src = 'https://platform.stumbleupon.com/1/widgets.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s);
   })();
-</script>	
-        <iframe src="http://pixel.fetchback.com/serve/fb/pdj?cat=&amp;name=landing&amp;sid=4677" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
-
+</script>
 	
-<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+        <iframe src="http://pixel.fetchback.com/serve/fb/pdj?cat=&amp;name=landing&amp;sid=4677" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
+    
+    
+	
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat_pub.js"></script></body></html>
