@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ad.net privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122230428id_/http%3A//ad.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad.net privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601045756id_/http%3A//www.ad.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Ad.net
 
