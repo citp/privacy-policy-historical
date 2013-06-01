@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ellioskids.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513091307id_/http%3A//www.ellios.com/McCainPrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellioskids.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601141312id_/http%3A//ellios.com/McCainPrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Ellio's
 
 **PRIVACY STATEMENT FOR MCCAIN FOODS USA, INC. WEB SITES**
 
-**Last Updated January 2008**                                    [General Legal Notices](https://web.archive.org/web/20110513091307id_/http%3A//www.ellios.com/McCainLegalStatement.aspx)
+**Last Updated January 2008**                                    [General Legal Notices](https://web.archive.org/web/20130601141312id_/http%3A//ellios.com/McCainLegalStatement.aspx)
 
 Our sites are owned and operated by, or on behalf of, McCain Foods Limited ("McCain"). We recognize that many visitors to our sites are concerned about the personally identifiable information they provide to us ("Personally Identifiable Information") and how we treat that information, so we have developed a Privacy Statement to address those concerns. This Privacy Statement is for McCain U.S.-based websites’ collection and use practices. 
 
