@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dimensionsdance.ie privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127054145id_/http%3A//dimensionsdance.ie/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimensionsdance.ie privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601034938id_/http%3A//dimensionsdance.ie/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice : Dimensions Dance, Dimensions Dance. one stop shop, catering for every dimension of dance & more.
+# Privacy Notice : Dimensions Dance, Dimensions Dance. one stop dance wear shop, catering for every dimension of dance & more.
 
 **Your privacy is very important to Dimensions Dance.**
 
