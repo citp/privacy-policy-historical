@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the badadownload.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010162849id_/http%3A//badahub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badadownload.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601215416id_/http%3A//tizenhub.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy » Badahub.com
-
-  
-
+# Privacy Policy - Tizenhub.com
 
 **What information do we collect?**
 
