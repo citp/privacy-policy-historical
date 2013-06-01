@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacifichost.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223094910id_/http%3A//www.pacifichost.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacifichost.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601223721id_/http%3A//www.pacifichost.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy Information by PacificHost
 
@@ -112,4 +112,34 @@ Elk Grove, CA  95758 
 
 United States
 
-|  | 
+|  |  | [](https://web.archive.org/web/20130601223721id_/http%3A//www.pacifichost.com/uptime-guarantee.shtml)  
+---  
+[](https://web.archive.org/web/20130601223721id_/http%3A//www.pacifichost.com/moneyback-guarantee.shtml)  
+[](https://web.archive.org/web/20130601223721id_/http%3A//www.pacifichost.com/support-guarantee.shtml)  
+|   
+---  
+Guaranteed Hosting  
+\- Certified by Review Sites  
+\- Uptime Reports  
+\- Quality Checked  
+\- [Learn More](https://web.archive.org/web/20130601223721id_/http%3A//www.pacifichost.com/hosting-awards.shtml)
+
+We carry the seal of approval from multiple review and hosting related websites to assure the quality of our hosting.  
+  
+|   
+---  
+Get AIM Support  
+\- Support over AIM  
+\- Instant Answers  
+\- Help to common Issues  
+\- IM: _**pacifichsupport**_
+
+Complimentary to all of our hosting plans is basic question/answer support over AIM.  
+  
+Give us your Feedback  
+\- View Customer Reviews  
+\- Submit your own Review  
+\- Customer Approved  
+\- Learn more 
+
+We strive to achieve excellence in customer service and offer a link to view what other customers think of PacificHost.
