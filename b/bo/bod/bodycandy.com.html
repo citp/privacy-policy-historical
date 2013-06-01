@@ -1,12 +1,11 @@
-<!--The following is the downloaded HTML source of the bodycandy.com privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014165923id_/http%3A//www.bodycandy.com/cgi-bin/category/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bodycandy.com privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601204959id_/http%3A//www.bodycandy.com/cgi-bin/category/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
 	<title>Body Candy Body Jewelry</title>	
 
-		<script> 
-var bn_listUrls  = ["http://www.bodycandy.com/cgi-bin/category.cgi?item=18897","http://www.bodycandy.com/cgi-bin/category.cgi?item=24426","http://www.bodycandy.com/cgi-bin/category.cgi?item=HC-4322","http://www.bodycandy.com/cgi-bin/category.cgi?item=40142","http://www.bodycandy.com/cgi-bin/category.cgi?item=HC-4310"];  </script>
+		
 		<meta name="description" content="Body Candy Body Jewelry">
 		<meta name="keywords" content="Body Candy Body Jewelry">			
 	
@@ -25,8 +24,9 @@ var bn_listUrls  = ["http://www.bodycandy.com/cgi-bin/category.cgi?item=18897","
 <![endif]-->
 
 
-<script type="text/javascript" src="/mas_assets/js/jquery-latest.js"></script>
-<!--<script type="text/javascript" src="/mas_assets/js/jquery.1.4.2.pack.js"></script>-->
+<!--<script type="text/javascript" src="/mas_assets/js/jquery-latest.js"></script>-->
+
+<script src="/mas_assets/js/jquery.min.js"></script>	
 <script type="text/javascript" src="/mas_assets/js/jquery.jcarousellite.js"></script>
 <script type="text/javascript" src="/mas_assets/js/jquery.mousewheel.min.js"></script>
 <script>
@@ -76,8 +76,10 @@ pageTracker._trackPageview();
 
 
 <!-- autocomplete -->
-<script type="text/javascript" src="https://BodyCandy-ac.celebros-analytics.com/AutoComplete/CelebrosAutoCompleteV2.js"></script>  
+<script type="text/javascript" src=" https://BodyCandV8-ac.celebros.com/AutoComplete/Scripts/CelebrosAutoCompleteV2.js"></script>
 <link type="text/css" rel="stylesheet" href="/styles/autocomplete.css">
+
+
 <script type="text/javascript">function InsertElementAfterEnd(a,o){document.body.appendChild(o);}</script>
 
 
@@ -96,22 +98,21 @@ pageTracker._trackPageview();
 
 		<div id="bannercontent">
 
-<a href="http://www.bodycandy.com/cgi-bin/category/body_jewelry" class="ad_rotator"><img src="/mas_assets/adrotator/39.jpg" border="0"></a>
-	
-<p>
 
+
+<a href="http://www.bodycandy.com/cgi-bin/category/bodyjewelry"><img src="/mas_assets/geo_zones/header_banner/US/CA.jpg" border="0"></a> <p>
 <script>
 var cookieName="BODYCANDYID";
-var cookieValue = "www2.bodycandy.com";
+var cookieValue = "www1.bodycandy.com";
  document.cookie = cookieName+"="+escape(cookieValue);
 </script>
- <span style="color:#B1002A;font-size: 14px;font-weight:bold;">You Get Free Shipping!</span>
+ <span style="font-size: 14px;font-weight:bold;">You're <font color="#B1002A">$ 19.99</font> Away From Free Shipping!</span>
 </p>
 
 
 		</div>
 		<div id="headercontent">
-			<div id="cartcontent"><a href="https://www.bodycandy.com/cgi-bin/Make-a-Store.cgi">My Cart</a> (5) $  25.95 <a href="https://www.bodycandy.com/cgi-bin/Make-a-Store.cgi?Purchase=yes" class="cartbutton">Checkout</a></div>
+			<div id="cartcontent"><a href="https://www.bodycandy.com/cgi-bin/Make-a-Store.cgi">My Cart</a> (0) $   0.00 <a href="https://www.bodycandy.com/cgi-bin/Make-a-Store.cgi?Purchase=yes" class="cartbutton">Checkout</a></div>
 			<div style="clear:both;"></div>
 
 			<div style="margin: 0 60px 5px 0">
@@ -178,21 +179,31 @@ document.write("<a href=\"http://www.bodycandy.com/cgi-bin/category/exclusive\" 
 				<input type="text" id="txtQuery" name="query" onclick="if (!this.clearCounter) {this.value=''} this.clearCounter++;" autocomplete="off" value="SEARCH">
 				<input type="submit" value="»" style="vertical-align: top;">
 
-<script language="javascript">   
-	CelebrosAutoComplete("BodyCandy","txtQuery",onSelect);
-	function onSelect(aParameter)
-	{ 
-		if ((aParameter["SelectedURL"]!="")&&
-			(aParameter["IsAutoComplete"]))
-		{
-			window.location = aParameter["SelectedURL"];
-		}
-		else
-		{ 
-			window.location = "http://www.bodycandy.com/cgi-bin/search.pl?query=" + escape(aParameter["SelectedQuery"]);
-		}
-	}
+
+
+<script language="javascript">  
+        CelebrosAutoComplete("BodyCandV8", "txtQuery", onSelect, "BodyCandV8-ac.celebros.com", "BodyCandV8-ac.celebros.com");
+      function onSelect(aParameter)
+      {
+            if ((aParameter["SelectedURL"]!="")&&(aParameter["IsAutoComplete"]))
+            {    
+                 
+            window.location = aParameter["SelectedURL"] + "?cmp=cel&trigger=ac";
+            }
+            else
+            {
+                var targetLocation = "/Search.aspx?ss=" + encodeURI(aParameter["SelectedQuery"]) + "&s=1";
+                  if (aParameter["IsAutoComplete"].toString().toLowerCase() == "true")
+                            targetLocation += "&Trigger=ac";
+                  //window.location = targetLocation;
+		window.location = "http://www.bodycandy.com/cgi-bin/search.pl?query=" + escape(aParameter["SelectedQuery"]);
+            }
+      }
 </script>
+ 
+
+
+
 			</form>
 <!-- Client search form ends -->
 	</nav>
@@ -223,7 +234,6 @@ document.write("<a href=\"http://www.bodycandy.com/cgi-bin/category/exclusive\" 
 		<h3>Body Jewelry</h3>
 
 		<ul class="leftnav">
-<li><a class="hassubcats" href="http://www.bodycandy.com/cgi-bin/category/body_jewelry_h1/Holiday-Body-Jewelry.html" title="Holiday Body Jewelry">Holiday Body Jewelry</a></li> 
 <li><a class="hassubcats" href="http://www.bodycandy.com/cgi-bin/category/newarrivals/NEW-Arrivals.html" title="NEW Arrivals">NEW Arrivals</a></li> 
 <li><a class="hassubcats" href="http://www.bodycandy.com/cgi-bin/category/bananna/Belly-Button-Navel-Rings.html" title="Belly Button Navel Rings">Belly Button Navel Rings</a></li> 
 <li><a class="hassubcats" href="http://www.bodycandy.com/cgi-bin/category/noserings/Nose-Rings.html" title="Nose Rings">Nose Rings</a></li> 
@@ -261,6 +271,7 @@ document.write("<a href=\"http://www.bodycandy.com/cgi-bin/category/exclusive\" 
 <li><a class="hassubcats" href="http://www.bodycandy.com/cgi-bin/category/clearance/CLEARANCE.html" title="CLEARANCE">CLEARANCE</a></li> 
 <li><a class="hassubcats" href="http://www.bodycandy.com/cgi-bin/category/piercingtools/Gift-Boxes---Aftercare.html" title="Gift Boxes - Aftercare">Gift Boxes - Aftercare</a></li> 
 <li><a class="hassubcats" href="http://www.bodycandy.com/cgi-bin/category/fakebodyjewelry/Fake---Non-Pierce-Jewelry.html" title="Fake / Non Pierce Jewelry">Fake / Non Pierce Jewelry</a></li> 
+<li><a class="hassubcats" href="http://www.bodycandy.com/cgi-bin/category/body_jewelry_h1/Holiday-Body-Jewelry.html" title="Holiday Body Jewelry">Holiday Body Jewelry</a></li> 
 <li><a class="hassubcats" href="http://www.bodycandy.com/cgi-bin/category/giftcertificate/Gift-Certificates.html" title="Gift Certificates">Gift Certificates</a></li> 
 
 		</ul><!-- end of nav tree -->
@@ -288,35 +299,12 @@ document.write("<a href=\"http://www.bodycandy.com/cgi-bin/category/exclusive\" 
 
 
 
-	<ul id="sidebox">
-        <li class="title">Recently Viewed</li>
-		<li><ul>
-        
-		        <li><a href="http://www.bodycandy.com/cgi-bin/item/40307"><img src="/mas_assets/thumb/40307.jpg" alt="[ Pink Gem Dual Feather Dreamcatcher Belly Ring]" border="0"></a><br>
-			    <a href="http://www.bodycandy.com/cgi-bin/item/40307"> Pink Gem Dual Feather Dreamcatcher Belly Ring</a></li>
-        
-		        <li><a href="http://www.bodycandy.com/cgi-bin/item/14856"><img src="/mas_assets/thumb/14856.jpg" alt="[ Crystalline Gem MICRO Nose Ring Twister]" border="0"></a><br>
-			    <a href="http://www.bodycandy.com/cgi-bin/item/14856"> Crystalline Gem MICRO Nose Ring Twister</a></li>
-        
-		        <li><a href="http://www.bodycandy.com/cgi-bin/item/24426"><img src="/mas_assets/thumb/24426.jpg" alt="[ 20 Gauge Stainless Steel Nose Hoop - 5/16&quot;]" border="0"></a><br>
-			    <a href="http://www.bodycandy.com/cgi-bin/item/24426"> 20 Gauge Stainless Steel Nose Hoop - 5/16"</a></li>
-        
-		        <li><a href="http://www.bodycandy.com/cgi-bin/item/HC-4310"><img src="/mas_assets/thumb/HC-4310.jpg" alt="[ Nautical Anchor Belly Ring]" border="0"></a><br>
-			    <a href="http://www.bodycandy.com/cgi-bin/item/HC-4310"> Nautical Anchor Belly Ring</a></li>
-        
-		        <li><a href="http://www.bodycandy.com/cgi-bin/item/CU-E-5063"><img src="/mas_assets/thumb/CU-E-5063.jpg" alt="[ Black Acrylic Heart Mustache Stud Earrings]" border="0"></a><br>
-			    <a href="http://www.bodycandy.com/cgi-bin/item/CU-E-5063"> Black Acrylic Heart Mustache Stud Earrings</a></li>
-        
-		</ul></li>
-	</ul>
-        
 
 		</nav>
 
 
 	<div style="text-align:center;">
 
-	<script src="https://seal.verisign.com/getseal?host_name=www.bodycandy.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES"></script><br>
 <a href="http://itunes.apple.com/us/app/body-candy-app/id440470005?mt=8&amp;ls=1" target="_blank"><img src="/mas_assets/app-store.png" border="0"></a><br>
 	<img src="/mas_assets/images/creditcard.png"><br>
 	<p style="font-size: 10px;margin: 10px 0;">
@@ -397,6 +385,7 @@ document.write("<a href=\"http://www.bodycandy.com/cgi-bin/category/exclusive\" 
 			<img src="/mas_assets/images/facebook.png" alt="Facebook"> <a href="http://www.facebook.com/pages/Body-Candy-Body-Jewelry/35846514768" target="_blank">Join us in Facebook</a><br>
 			<img src="/mas_assets/images/twitter.png" alt="Twitter"> <a href="http://twitter.com/bodycandy" target="_blank">Follow us on Twitter</a><br>
 			<img src="/mas_assets/images/pinterest.png" alt="Pinterest"> <a href="http://pinterest.com/bodycandyloves" target="_blank">Follow us on Pinterest</a><br>
+			<img src="/mas_assets/images/googleplus.png" alt="Google+"> <a href="https://www.google.com/+bodycandy" target="_blank">Follow us on Google+</a><br>
 			<img src="/mas_assets/images/tumblr.png" width="16px" height="16px" alt="Tumblr"> <a href="http://bodycandybodyjewelry.tumblr.com/" target="_blank">Follow us on Tumblr</a><br>
 			<img src="/mas_assets/images/feed.png" alt="RSS"> <a href="http://www.bodycandy.com/newproducts.rss.xml" target="_blank">New Products</a> <br>
 			<img src="/mas_assets/images/feed.png" alt="RSS"> <a href="http://www.bodycandy.com/blog/feed/" target="_blank">Body Candy News</a>
@@ -406,7 +395,6 @@ document.write("<a href=\"http://www.bodycandy.com/cgi-bin/category/exclusive\" 
 		<h4>Categories</h4>
 		<ul>
 
-        <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/body_jewelry_h1/Holiday-Body-Jewelry.html">Holiday Body Jewelry</a></li>
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/newarrivals/NEW-Arrivals.html">NEW Arrivals</a></li>
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/bananna/Belly-Button-Navel-Rings.html">Belly Button Navel Rings</a></li>
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/noserings/Nose-Rings.html">Nose Rings</a></li>
@@ -417,8 +405,8 @@ document.write("<a href=\"http://www.bodycandy.com/cgi-bin/category/exclusive\" 
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/earring/Earrings.html">Earrings</a></li>
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/expanders/Plugs.html">Plugs</a></li>
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/bioplast/Bioplast.html">Bioplast</a></li>
-        <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/bonuspacks/Bonus-Packs.html">Bonus Packs</a></li></ul><ul>
-        <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/solid14ktgold/14-kt-Gold-Body-Jewelry.html">14 kt Gold Body Jewelry</a></li>
+        <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/bonuspacks/Bonus-Packs.html">Bonus Packs</a></li>
+        <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/solid14ktgold/14-kt-Gold-Body-Jewelry.html">14 kt Gold Body Jewelry</a></li></ul><ul>
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/bareybar/Eyebrow-Rings.html">Eyebrow Rings</a></li>
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/spiraltwister/Rings---Circular---BCR's.html">Rings / Circular / BCR's</a></li>
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/bellychain/Belly-Chains.html">Belly Chains</a></li>
@@ -429,8 +417,8 @@ document.write("<a href=\"http://www.bodycandy.com/cgi-bin/category/exclusive\" 
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/retainers/Retainers.html">Retainers</a></li>
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/beltbuckle/Belt-Buckles.html">Belt Buckles</a></li>
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/toe-rings/Toe-Rings.html">Toe Rings</a></li>
-        <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/so6ati/Titanium-Body-Jewelry.html">Titanium Body Jewelry</a></li></ul><ul>
-        <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/necklace/Necklaces-&amp;-Pendants.html">Necklaces &amp; Pendants</a></li>
+        <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/so6ati/Titanium-Body-Jewelry.html">Titanium Body Jewelry</a></li>
+        <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/necklace/Necklaces-&amp;-Pendants.html">Necklaces &amp; Pendants</a></li></ul><ul>
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/addoncharms/Replacement-Balls-Parts.html">Replacement Balls Parts</a></li>
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/tattoo/Temporary-Tattoos.html">Temporary Tattoos</a></li>
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/apparelbc/Apparel.html">Apparel</a></li>
@@ -441,9 +429,10 @@ document.write("<a href=\"http://www.bodycandy.com/cgi-bin/category/exclusive\" 
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/inpi/316L-Basic-Collection.html">316L Basic Collection</a></li>
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/intimatepierce/Intimate-Piercings.html">Intimate Piercings</a></li>
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/keychains/Key-Chains.html">Key Chains</a></li>
-        <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/clearance/CLEARANCE.html">CLEARANCE</a></li></ul><ul>
-        <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/piercingtools/Gift-Boxes---Aftercare.html">Gift Boxes - Aftercare</a></li>
+        <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/clearance/CLEARANCE.html">CLEARANCE</a></li>
+        <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/piercingtools/Gift-Boxes---Aftercare.html">Gift Boxes - Aftercare</a></li></ul><ul>
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/fakebodyjewelry/Fake---Non-Pierce-Jewelry.html">Fake / Non Pierce Jewelry</a></li>
+        <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/body_jewelry_h1/Holiday-Body-Jewelry.html">Holiday Body Jewelry</a></li>
         <li style="width: 160px;"><a href="http://www.bodycandy.com/cgi-bin/category/giftcertificate/Gift-Certificates.html">Gift Certificates</a></li>
 </ul>		
 		</nav>
