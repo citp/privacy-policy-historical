@@ -1,27 +1,42 @@
-<!--The following is the downloaded HTML source of the acep.org privacy policy that was archived on 2012-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229140845id_/http%3A//www.acep.org/content.aspx%3Fid%3D30296) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acep.org privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601151518id_/http%3A//www.acep.org/content.aspx%3Fid%3D30296) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><meta charset="utf-8">
 <title>
 	Privacy Policy and Copyright Notice
-</title><link rel="stylesheet" type="text/css" href="/WorkArea/FrameworkUI/css/ektron.stylesheet.ashx?id=-1759591071+-335896034+-34413402+2025099577+-622695420+-1228755533"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=-1028352248+1948574407+-1388997516+2009761168+27274999+1979897163+-422906301+-1818005853+-1008700845+561009152+1762586108+1881432062+1080084488+-1562465382"></script><link id="favIcon" rel="shortcut icon" href="/images/favicon.ico">
+</title><link rel="stylesheet" type="text/css" href="/WorkArea/FrameworkUI/css/ektron.stylesheet.ashx?id=-1759591071+-335896034+-34413402+2025099577+-622695420+-1228755533"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=-1028352248+1948574407+-1388997516+2009761168+27274999+1979897163+-422906301+-1818005853+-1008700845+561009152+1762586108+1881432062+1080084488+-1562465382"></script><link id="favIcon" rel="shortcut icon" href="/images/favicon.ico"><meta content="width=device-width, maximum-scale=0.98" name="viewport"><meta content="width=1024;height=768" name="msapplication-window">
+
+
     <!-- Insert Stylesheet Links 
     ================================================================  -->
     <link rel="stylesheet" type="text/css" href="/core/css/screen.css"><link rel="stylesheet" type="text/css" href="/core/css/contentEntry.css"><link rel="stylesheet" type="text/css" href="/core/menus/slaveMenu/slave.css"><link rel="stylesheet" type="text/css" href="/core/menus/hMenu/hmenu-megamenu.css"><link rel="stylesheet" type="text/css" href="/core/css/jquery.fancybox-1.3.1.css"><link rel="stylesheet" type="text/css" href="/core/css/print.css" media="print">
 
-    <!-- CSS/JS Hacks 
-    ================================================================  -->
-        <!--[if lte IE 6]>
-            <link rel="stylesheet" type="text/css" href="/core/css/ie6.css" />
-        <![endif]-->      
+ <!--[if !lte IE 8]-->
+	<link href="/core/css/acep-responsive-0.css" media="only screen and (min-width: 0px)" type="text/css" rel="stylesheet"><link href="/core/css/acep-responsive-480.css" media="only screen and (min-width: 480px)" type="text/css" rel="stylesheet"><link href="/core/css/acep-responsive-768.css" media="only screen and (min-width: 768px)" type="text/css" rel="stylesheet"><link href="/core/css/acep-responsive-972.css" media="only screen and (min-width: 972px)" type="text/css" rel="stylesheet">
+<!--[endif]-->
+	
+<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="/core/css/acep-responsive-ie.css" />
+<![endif]-->
+
+
+
+
             
     <!-- Insert Javascript Links 
     ================================================================  -->
-  	
-    <script src="/core/js/jquery-1.4.1.min.js" type="text/javascript"></script>
+  	<script src="/core/js/jquery-1.7.1.min.js" type="text/javascript"></script>
+    
         <script src="/core/js/jquery.newsticker.js" type="text/javascript"></script>
+		<script src="/core/js/responsive-tables.js" type="text/javascript"></script>
         <script src="/core/js/jquery.cycle.js" type="text/javascript"></script>
+		<script src="/core/js/plugins.js" type="text/javascript"></script>
         <script src="/core/js/wsol.js" type="text/javascript"></script>
+		
+		<script src="/SA/royalslider/jquery.royalslider.min.js" type="text/javascript"></script>
+		<script src="/SA/royalslider/jquery.easing-1.3.js" type="text/javascript"></script>
+		
+		
    
    <!--Share This Link-->
    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
@@ -39,7 +54,7 @@
  
     <!-- Email This Pop-Up -->
     <script type="text/javascript">
-        $(document).ready(function() {
+        $(document).ready(function () {
             $(".emailThisPage").fancybox({
                 'width': 450,
                 'height': 420,
@@ -51,7 +66,20 @@
                 'scrolling': 'none',
                 'href': '/emailThisPage.aspx?url=' + window.location.href
             });
-			$(".popUpPage").fancybox({
+
+            $(".oo_feedback_float, .reportissue").fancybox({
+                'width': 460,
+                'height': 501,
+                'autoScale': true,
+                'transitionIn': 'none',
+                'transitionOut': 'none',
+                'type': 'iframe',
+                'autoDimensions': false,
+                'scrolling': 'none',
+                'href': '/SendFeedback.aspx?url=' + window.location.href
+            });
+
+            $(".popUpPage").fancybox({
                 'width': 450,
                 'height': 420,
                 'autoScale': false,
@@ -62,90 +90,234 @@
                 'scrolling': 'none',
                 'href': window.location.href
             });
-			
-			 $("div.toolbar ul li:nth-child(2)").click(function() {
-					$(".pleasewaitimage").css("display", "block");
-			});
+
+            $("div.toolbar ul li:nth-child(2)").click(function () {
+                $(".pleasewaitimage").css("display", "block");
+            });
         });
         </script>
+   
+   
+	<!-- Responsive -->
+	
+		<script type="text/javascript">
+		
+		
+		
+		
+		jQuery(document).ready(function($){
+			
+			
+			
+			// Menu Functions *************************
+			
+			
+			$('#horizontalNav').prepend('<div id="menu-icon" class="mobile-only">Menu</div>');
+			$('.menus').prepend('<div id="close-menu" class="mobile-only">Close Menu</div>');
+			
+			$("#menu-icon").click(function() {
+				$(".menus").slideToggle('slow');
+				$(this).toggleClass("active");
+				$(".menus").toggleClass("open");
+				
+				if ($('.toolbar ul').hasClass("open")) {
+					$('.toolbar ul').slideUp('normal', function() {
+						$('.toolbar ul').toggleClass("open");
+						$("#myAcep-icon").toggleClass("active");
+						
+					});
+					
+				} else {
+					$("#menu-fade").fadeToggle('slow');
+				}
+				
+			});
+			$( ".menus .menuItem" ).each(function() {
+				if($(this).find('.subNav').length > 0) {
+					$(this).prepend('<div class="menu-expand mobile-only"></div>');		
+				}
+			});
+			$( "#menu .menus" ).each(function() {
+
+				if($(this).find('li').hasClass("active")) {
+					$(this).find("li.active .menu-expand").toggleClass("open");		
+				}
+			});
+			$(".menu-expand").click(function() {
+				$(this).parents(".menuItem").find(".subNav").slideToggle('slow');
+				$(this).toggleClass("active");
+				$(this).toggleClass("open");
+				
+			});
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			// myACEP Function *************************
+			
+			$('.toolbar').prepend('<div id="myAcep-icon" class="mobile-only">myACEP</div>');
+			$('.toolbar ul').prepend('<div id="close-myacep" class="mobile-only">Close Menu</div>');
+			
+			$("#myAcep-icon").click(function() {
+				$(".toolbar ul").slideToggle('slow');
+				$(this).toggleClass("active");
+				$(".toolbar ul").toggleClass("open");
+				
+				if ($('.menus').hasClass("open")) {
+					$('.menus').slideUp('normal', function() {
+						$('.menus').toggleClass("open");
+						$("#menu-icon").toggleClass("active");
+						
+					});
+					
+				} else {
+					$("#menu-fade").fadeToggle('slow');
+				}
+				
+			});
+			
+			
+			
+			
+			
+			// close Menu Function *************************
+			
+			$("#close-menu").click(function() {
+				$(".toolbar ul").slideUp('slow');
+				$(".menus").slideUp('slow');
+				$("#myAcep-icon").removeClass("active");
+				$("#menu-icon").removeClass("active");
+				$(".toolbar ul").removeClass('open');
+				$(".menus").removeClass('open');
+				
+				$("#menu-fade").fadeToggle('slow');
+				
+				
+			});
+			
+			$("#menu-fade").click(function() {
+				$(".toolbar ul").slideUp('slow');
+				$(".menus").slideUp('slow');
+				$("#myAcep-icon").removeClass("active");
+				$("#menu-icon").removeClass("active");
+				$(".toolbar ul").removeClass('open');
+				$(".menus").removeClass('open');
+				$("#search-icon").removeClass("active");
+				$(".utilities").removeClass("open");
+				$(".utilities span.search").toggle('fast');
+				
+				$("#menu-fade").fadeOut('slow');
+				$("#searchField").blur();
+				
+			});
+			
+			
+			
+			
+			// Close myACEP Function *************************
+			
+			$("#close-myacep").click(function() {
+				$(".toolbar ul").slideUp('slow');
+				$(".menus").slideUp('slow');
+				$("#myAcep-icon").removeClass("active");
+				$("#menu-icon").removeClass("active");
+				$(".toolbar ul").removeClass('open');
+				$(".menus").removeClass('open');
+				
+				$("#menu-fade").fadeToggle('slow');
+				
+			});
+			
+			
+			
+			
+			// Search Function *************************
+			
+			$('.utilities').prepend('<div id="search-icon" class="mobile-only"></div>');
+			$("#search-icon").click(function() {
+				$(".utilities span.search").toggle('fast');
+				$(this).toggleClass("active");
+				$(".utilities").toggleClass("open");
+				
+				if ($('.menus').hasClass("open") || $('.toolbar ul').hasClass("open")) {
+					$('.menus').slideUp('normal', function() {
+						$(".toolbar ul").slideUp('slow');
+						$(".menus").slideUp('slow');
+						$("#myAcep-icon").removeClass("active");
+						$("#menu-icon").removeClass("active");
+						$(".toolbar ul").removeClass('open');
+						$(".menus").removeClass('open');
+					});
+					
+				} else {
+					$("#menu-fade").fadeToggle('slow');
+				}
+				
+				if ($('.utilities').hasClass("open")) {
+					$("#searchField").focus();
+				}else{
+					$("#searchField").blur();
+				}
+			});
+			
+		});
+		
+		
+		function checkSize(){
+			if ($(window).width() > 768) {
+				fixMenu();
+			}
+		}
+
+		function fixMenu(){
+			$(".menu-expand").removeClass("active open");
+			$('ul.subNav[style*=block]').removeAttr('style');
+			
+		}
+
+		checkSize();
+
+		$(window).resize(function() {
+			checkSize();
+		});
+		
+		
+		
+		
+		
+		
+		</script>
    
 	
     <!-- Editable Region =
     		We should leave a content placeholder, in case any specific code needs to be included on a template specific.
     ================================================================  -->
   
-        
-<script type="text/javascript">
-  $(document).ready(function () {
-  //Hide the Join Now section Menu Link if the Join now btn is not visible//
- if($("#ctl00_pageContent_ctl00_hlJoinSection").length == 0 )
- {
-  $("#horizontalNav ul.menu11 li a:contains('Join Now')").parents("li").css("display","none");
- }
- else
- {
- //IMPLIES THIS IS A SECTION PAGE//
- //ALL THE LINKS ON THE SECTION PAGES SHOULD GO TO SECTION APPLICATION IF NOT A MEMBER OF THE SECTION//
-
-
-
-var allowed_hrefs = ["/_Careers-in-EM-Section/2012-Careers-Section-Longevity-and-Tenure-Awards/"];
- $("#horizontalNav a, #contentWrapper a:not([href^='mailto:'])").click(function(e){
- if(!$(this).hasClass('public') && $.inArray($(this).attr('href'),allowed_hrefs) == -1)
- {
-e.preventDefault();
-window.location.href = 'http://webapps.acep.org/membership/sectionapplication.aspx' + '?returnurl=' + document.URL + '&msg=fromsection';
-//do ajax form
-}
-}); 
-
- 
- }
-});
-
-
-function slideSwitch() {
-    var $active = $('#slideshow div.active');
-    if ( $active.length == 0 ) $active = $('#slideshow div:last');
-    var $next =  $active.next().length ? $active.next()
-        : $('#slideshow div:first');
-	$active.addClass('last-active');
-    $next.css({opacity: 0.0})
-        .addClass('active')
-        .animate({opacity: 1.0}, 1000, function() {
-            $active.removeClass('active last-active');
-        });
-}
-$(function() {
-    setInterval( "slideSwitch()", 5000 );
-});
-
-
-
-
-  </script>
-<link href="App_Themes/default/default.css" type="text/css" rel="stylesheet"></head>
+        <link href="App_Themes/default/default.css" type="text/css" rel="stylesheet"></head>
 
 
 <body class="hasJS">
+<div id="menu-fade" class="mobile-only" style="display: none;"></div>
 <form method="post" action="/content.aspx?id=30296" id="form1">
 <div class="aspNetHidden">
 <input type="hidden" name="EktronClientManager" id="EktronClientManager" value="-1759591071,-1028352248,1948574407,-1388997516,2009761168,27274999,1979897163,-422906301,-1818005853,-1008700845,-335896034,-34413402,2025099577,-622695420,-1228755533,561009152,1762586108,1881432062,1080084488,-1562465382">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTc0OTQyODIzMA9kFgJmD2QWBAIBD2QWAmYPZBYCZg8WAh4EVGV4dAUjUHJpdmFjeSBQb2xpY3kgYW5kIENvcHlyaWdodCBOb3RpY2VkAgMQZGQWBgIDDxYCHwAFC3RocmVlQ29sdW1uZAIGD2QWAgIBDw8WAh4LTmF2aWdhdGVVcmwFbGh0dHA6Ly93ZWJhcHBzLmFjZXAub3JnL01hc3RlclNpZ25Jbi9TaWduSW4uYXNweD9yZWRpcj1odHRwJTNhJTJmJTJmd3d3LmFjZXAub3JnJTJmY29udGVudC5hc3B4JTNmaWQlM2QzMDI5NmRkAgwPZBYGAgEPZBYCZg9kFgJmDxYCHgdWaXNpYmxlZxYCAgEPDxYCHghJbWFnZVVybAUxL3VwbG9hZGVkSW1hZ2VzL0FDRVAvX0hvbWVwYWdlL0Fib3V0VXNIZWFkZXIyLmpwZ2RkAgMPDxYCHwJnZGQCEQ8PFgIfAmdkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUSY3RsMDAkSW1hZ2VCdXR0b24xZNuDTmOUotwp18wQ0c/GVaOczIwkKYYU0AJ6GHQdtVQ=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MjQ0NjM2NzUPZBYCZg9kFgQCAQ9kFgJmD2QWAmYPFgIeBFRleHQFI1ByaXZhY3kgUG9saWN5IGFuZCBDb3B5cmlnaHQgTm90aWNlZAIDEGRkFgYCBw8WAh8ABQt0aHJlZUNvbHVtbmQCCw9kFgICAQ8PFgIeC05hdmlnYXRlVXJsBWxodHRwOi8vd2ViYXBwcy5hY2VwLm9yZy9NYXN0ZXJTaWduSW4vU2lnbkluLmFzcHg/cmVkaXI9aHR0cCUzYSUyZiUyZnd3dy5hY2VwLm9yZyUyZmNvbnRlbnQuYXNweCUzZmlkJTNkMzAyOTZkZAIVD2QWAgIBD2QWBmYPZBYCZg9kFgJmDxYCHgdWaXNpYmxlZxYCAgEPDxYCHghJbWFnZVVybAUxL3VwbG9hZGVkSW1hZ2VzL0FDRVAvX0hvbWVwYWdlL0Fib3V0VXNIZWFkZXIyLmpwZ2RkAgIPDxYCHwJnZGQCEA8PFgIfAmdkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUSY3RsMDAkSW1hZ2VCdXR0b24xNqmRYVWGGdnIx1y11/G/GSTSfsINAXCAdlbDl9xxmhc=">
 </div>
 
 
 <script src="/js/AutoScrollPage.js" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=r6FQahIUo8_wShZIWsdqhoRrfop0BspgGyGS734W_itS7NE3vjmGMjxHWbHsm6zXtyqtcqHYyZa03SG9PjLdb1cJ8RNL3dJyiDt4MFj3I5HRXnDOVKKufFnHiY4ZxDhfmdbPFB-X_CfQ0kwu-Gf2bi17muM9aSuWUggmsYgWlkJBlQcN3eU9ii_mJidjQ2we0&amp;t=ffffffff940d030f" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
-//]]>
-</script>
-
+<script src="/ScriptResource.axd?d=MCaNsVOt3dodOcK1t8opCfHPf_ycBBgiQTInJ7qIuLyN5xf3BAggLYK8vbtyRtXm2ovlWtZFBOoJ-6MhtVDiCWk6bvnUGtVLbrshPLywFwILoR1uBR7kUA7Qm0vI_kvnyubojnUawZgBuHRa78HCLIerbGzfY9ViXzvtWueK2341&amp;t=ffffffff940d030f" type="text/javascript"></script>
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKJgYHYAQLssvLQA9rX2p6M8TlpSmxN6wPYXt9qH6M1GpyTaXZNo4W938Nz">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKt+ZPrDQLssvLQA+bdVMjoxnwj6CV+A8/FJoKU8D1dFjtlhYzi1k4n5UM7">
 </div>
 
     
@@ -159,23 +331,39 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
     <div id="masthead">
     	<div class="inner clearfix">
         	<h1><a id="logo" href="/">ACEP</a></h1>
-          	<div class="toolbar">
-            	<ul>
-            	     <li><a href="https://webapps.acep.org/MemberApp/AcepMemberApp.aspx" target="_self">Join ACEP</a></li><li><a href="https://webapps.acep.org/Membership/myacep.aspx" target="_self">My ACEP</a></li><li><a href="http://webapps.acep.org/membership/myacep.aspx?tab=account" target="_self">Account Settings</a></li>
+          	<div class="toolbar"><div id="myAcep-icon" class="mobile-only">myACEP</div>
+            	<ul class="no-mobile"><div id="close-myacep" class="mobile-only">Close Menu</div>
+            	     
+
+						<li class="last">
+							
+							Welcome Guest, <a id="hlLogin" href="http://webapps.acep.org/MasterSignIn/SignIn.aspx?redir=http%3a%2f%2fwww.acep.org%2fcontent.aspx%3fid%3d30296">Login</a>
+						 </li>
+                       <li><a target="_self" href="https://webapps.acep.org/MemberApp/AcepMemberApp.aspx">Join ACEP</a></li>
+                       <li><a target="_self" href="https://webapps.acep.org/Membership/myacep.aspx">My ACEP</a></li>
+                       <li><a target="_self" href="http://webapps.acep.org/membership/myacep.aspx?tab=account">Account Settings</a></li>
+					   <li class="mobile-only"><a target="_self" href="/contactus">Contact Us</a></li>
+                       <li class="mobile-only"><a target="_self" href="/aboutus">About Us</a></li>
+
                       
-                    <li class="last">
-                        
-                        
-                            Welcome Guest, 
-                            <a id="hlLogin" href="http://webapps.acep.org/MasterSignIn/SignIn.aspx?redir=http%3a%2f%2fwww.acep.org%2fcontent.aspx%3fid%3d30296">Login</a>
-                     </li>
+                    
                 </ul>
             </div>
-           <div class="utilities">
+           <div id="utilities-bar" class="utilities"><div id="search-icon" class="mobile-only"></div>
       
-                <ul><li><a href="/Default.aspx" target="_self">Home</a></li><li><a href="/newsmedia/" target="_self">News Media</a></li><li><a href="/contactus" target="_self">Contact Us</a></li><li><a href="/aboutus" target="_self">About Us</a></li></ul>
+                
+
+
+                      <ul class="no-mobile">
+                      <li><a target="_self" href="/Default.aspx">Home</a></li>
+                      <li><a target="_self" href="http://newsroom.acep.org/">News Media</a></li>
+                      <li><a target="_self" href="/contactus">Contact Us</a></li>
+                      <li><a target="_self" href="/aboutus">About Us</a></li>
+                      </ul>
+
+
                                            
-                      <span class="search">
+                      <span class="search no-mobile">
                         <div id="Panel1" style="display:inline;">
 	
                             <input name="searchField" id="searchField" type="text">
@@ -185,16 +373,16 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                       </span>
             	
             </div>
-            <div id="horizontalNav">
-                 <ul class="menu11" id="menu"><li><a class="ekflexmenu_link drop" href="/clinical-practice">Clinical &amp; Practice Management<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><div class="dropdown_4columns"><div class="col_4"></div><ul><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=30060">Clinical Policies</a></h3></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=32334">Policy Statements</a></h3></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=49991">Resources</a></h3></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=30194" class="drop">EMS &amp; Disaster Preparedness<!--[if gte IE 7]><!--></a></h3><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=30212">EMS Week</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=40400">Disaster Preparedness Grant Projects</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=21544">EMS Resources</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=43238">Find a Physician Group</a></h3></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=50096">Residency Programs</a></h3></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=49839" class="drop">Journals and Publications<!--[if gte IE 7]><!--></a></h3><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=30190">ACEP News</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=26906">Annals of EM</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=49840">Medical News Feeds</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li><div class="col_1"><h3><a href="http://www.urgentmatters.org/">Urgent Matters</a></h3></div></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li><a class="ekflexmenu_link drop" href="/education/">Continuing Education<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><div class="dropdown_4columns"><div class="col_4"></div><ul><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22434">Online Education</a></h3></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=84368" class="drop">Maintenance of Certification<!--[if gte IE 7]><!--></a></h3><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=84369">Professional Standing</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=34528">Lifelong Learning and Self-Assessment</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=84356">Assessment of Cognitive Expertise</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=84370">Assessment of Practice Performance</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=84371">Other Specialty Board MOC Requirements</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22442" class="drop">CME Publications<!--[if gte IE 7]><!--></a></h3><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=85100">Critical Decisions in EM</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=50097">Apply for ACEP / AMA Credit</a></h3></div></li><li><div class="col_1"><h3><a href="http://webapps.acep.org/membership/printcme.aspx">CME Tracker</a></h3></div></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li class="menu_right"><a class="ekflexmenu_link drop" href="/profdev">Professional Development<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><div class="dropdown_4columns align_right"><div class="col_4"></div><ul><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=30200">Financial Planning</a></h3></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=80765">Faculty Development</a></h3></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22520">Research and EM Foundation</a></h3></div></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li class="menu_right"><a class="ekflexmenu_link drop" href="/meetings-events/">Meetings &amp; Events<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><div class="dropdown_4columns align_right"><div class="col_4"></div><ul><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=50098" class="drop">Educational Meetings<!--[if gte IE 7]><!--></a></h3><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22382">Teaching Fellowship</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22386">Emergency Medicine Basic Research Skills (EMBRS) Workshop</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=33318">Research Forum</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22402">Emergency Department Directors Academy</a></li><li><a href="/pem">Advanced Pediatric Emergency Medicine Assembly</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=35190" class="drop">Leadership Events<!--[if gte IE 7]><!--></a></h3><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/LACHome.aspx?MeetingId=LAC">Leadership and Advocacy Conference</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li><div class="col_1"><h3><a href="/sa/" class="drop">Scientific Assembly<!--[if gte IE 7]><!--></a></h3><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22394">Future Scientific Assembly Dates</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=30212">EMS Week</a></h3></div></li><li><div class="col_1"><h3><a href="http://webapps.acep.org/MasterCalendar/MasterCalendar.aspx">Master Calendar</a></h3></div></li><li><div class="col_1"><h3><a href="/content.aspx?id=22306">Mailing List Rental</a></h3></div></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li class="menu_right"><a class="ekflexmenu_link drop" href="/advocacy">Advocacy<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><div class="dropdown_4columns align_right"><div class="col_4"></div><ul><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=21358" class="drop">Become an Advocate<!--[if gte IE 7]><!--></a></h3><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=47563">Advocate to Congress</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=54241">Advocate to the News Media</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=30192" class="drop">Contact Congress<!--[if gte IE 7]><!--></a></h3><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="">Contact Congress</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=21632" class="drop">Federal Issues<!--[if gte IE 7]><!--></a></h3><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=35294">Regulatory Issues</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=88574">Quality Issues</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=21866" class="drop">State Issues and Resources<!--[if gte IE 7]><!--></a></h3><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a target="
-                                    _blank
-                                  " href="">Contact Your State Legislators</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=50093">Issue-Specific State Advocacy Resources</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=21864">Services to Support Chapter Advocacy Programs</a></li><li><a href="">State Scan</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li><div class="col_1"><h3><a href="http://www.acep.org/nempac" class="drop">NEMPAC<!--[if gte IE 7]><!--></a></h3><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=21862">Contribute</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=81062">2012 Elections</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=78419">Give a Shift</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li class="menu_right"><a class="ekflexmenu_link drop" href="/membership/">Membership<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><div class="dropdown_4columns align_right"><div class="col_4"></div><ul><li><div class="col_1"><h3><a href="https://webapps.acep.org/MemberApp/AcepMemberApp.aspx">Join ACEP</a></h3></div></li><li><div class="col_1"><h3><a href="https://webapps.acep.org/Membership/MemberDues.aspx">Renew Your Membership</a></h3></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=81218" class="drop">Why Join ACEP<!--[if gte IE 7]><!--></a></h3><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=81499">Benefits of Membership</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22846" class="drop">Chapters<!--[if gte IE 7]><!--></a></h3><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22860">Chapter Grants</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=40730">Chapter Services</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22914">Fundamentals of Chapter Management</a></li><li><a href="/content.aspx?id=34896">Leadership Development</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=24766" class="drop">Sections<!--[if gte IE 7]><!--></a></h3><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=88993">Section Manual</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=24756">Sections Policies</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=24764">Forming a New Section</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=24760">Section FAQs</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=83557">Section Subscriptions for Non-Members</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li><div class="col_1"><h3><a href="https://webapps.acep.org/Membership/MemberDirectory.aspx">ACEP Member Directory</a></h3></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=23306">Groups</a></h3></div></li><li><div class="col_1"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=81214" class="drop">Membership Dues &amp; Eligibility<!--[if gte IE 7]><!--></a></h3><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=81215">Membership Pays for Itself</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=81498">Payment Options</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></div></li><li class="menu_right"><a class="ekflexmenu_link drop" href="/bookstore">Bookstore</a></li></ul>
+            <div id="horizontalNav"><div id="menu-icon" class="mobile-only">Menu</div>
+                 <ul class="menus"><div id="close-menu" class="mobile-only">Close Menu</div><li class="menuItem" id="menu1"><div class="menu-expand mobile-only"></div><a id="link-clinicalpracticemanagement" class="mainNav" href="/clinical-practice">Clinical &amp; Practice Management<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="subNav"><li><a id="link-clinicalpolicies" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=30060">Clinical Policies</a></li><li><a id="link-policystatements" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=32334">Policy Statements</a></li><li><a id="link-resources" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=49991">Resources</a></li><li><a id="link-emsdisasterpreparedness" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=30194" class="drop">EMS &amp; Disaster Preparedness<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a id="link-emsweek" href="/emsweek/">EMS Week</a></li><li><a id="link-disasterpreparednessgrantprojects" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=40400">Disaster Preparedness Grant Projects</a></li><li><a id="link-emsresources" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=21544">EMS Resources</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a id="link-journalsandpublications" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=49839" class="drop">Journals and Publications<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a id="link-acepnews" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=30190">ACEP News</a></li><li><a id="link-annalsofem" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=26906">Annals of EM</a></li><li><a id="link-medicalnewsfeeds" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=49840">Medical News Feeds</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a id="link-findaphysiciangroup" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=43238">Find a Physician Group</a></li><li><a id="link-residencyprograms" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=50096">Residency Programs</a></li><li><a id="link-urgentmatters" href="http://www.urgentmatters.org/">Urgent Matters</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="menuItem" id="menu2"><div class="menu-expand mobile-only"></div><a id="link-continuingeducation" class="mainNav" href="/education/">Continuing Education<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="subNav"><li><a id="link-maintenanceofcertification" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=84368" class="drop">Maintenance of Certification<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a id="link-professionalstanding" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=84369">Professional Standing</a></li><li><a id="link-lifelonglearningandselfassessment" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=34528">Lifelong Learning and Self-Assessment</a></li><li><a id="link-assessmentofcognitiveexpertise" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=84356">Assessment of Cognitive Expertise</a></li><li><a id="link-assessmentofpracticeperformance" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=84370">Assessment of Practice Performance</a></li><li><a id="link-otherspecialtyboardmocrequirements" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=84371">Other Specialty Board MOC Requirements</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a id="link-cmeproducts" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22434" class="drop">CME Products<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a id="link-criticaldecisionsinemergencymedicine" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=85100">Critical Decisions in Emergency Medicine</a></li><li><a id="link-focuson" href="/focuson/">Focus On</a></li><li><a id="link-peerviii" href="http://webapps.acep.org/peerviii/default.aspx">PEER VIII</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a id="link-acepecme" href="/ACEPeCME/" class="drop">ACEP eCME<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a id="link-coursecatalog" href="http://ecme.acep.org/diweb/catalog">Course Catalog</a></li><li><a id="link-myecme" href="http://ecme.acep.org/diweb/dashboard">My eCME</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a id="link-virtualacep" href="http://virtual.acep.org/common/default.aspx">Virtual ACEP</a></li><li><a id="link-cmetracker" href="http://webapps.acep.org/cmetracker/default.aspx">CME Tracker</a></li><li><a id="link-applyforacepamacredit" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=50097">Apply for ACEP / AMA Credit</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="menuItem" id="menu3"><div class="menu-expand mobile-only"></div><a id="link-professionaldevelopment" class="mainNav" href="/profdev">Professional Development<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="subNav"><li><a id="link-financialplanning" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=30200">Financial Planning</a></li><li><a id="link-facultydevelopment" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=80765">Faculty Development</a></li><li><a id="link-researchandemfoundation" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22520">Research and EM Foundation</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="menuItem" id="menu4"><div class="menu-expand mobile-only"></div><a id="link-meetingsevents" class="mainNav" href="/meetings-events/">Meetings &amp; Events<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="subNav"><li><a id="link-educationalmeetings" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=50098" class="drop">Educational Meetings<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a id="link-teachingfellowship" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22382">Teaching Fellowship</a></li><li><a id="link-emergencymedicinebasicresearchskillsembrsworkshop" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22386">Emergency Medicine Basic Research Skills (EMBRS) Workshop</a></li><li><a id="link-researchforum" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=33318">Research Forum</a></li><li><a id="link-emergencydepartmentdirectorsacademy" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22402">Emergency Department Directors Academy</a></li><li><a id="link-advancedpediatricemergencymedicineassembly" href="/pem">Advanced Pediatric Emergency Medicine Assembly</a></li><li><a id="link-reimbursementcoding" href="/rc/">Reimbursement &amp; Coding</a></li><li><a id="link-simulationbasedimmersivemedicalsimtrainingcourse" href="/sim/">Simulation-based Immersive Medical (SIM) Training Course</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a id="link-scientificassembly" href="/sa/" class="drop">Scientific Assembly<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a id="link-acep" href="/sa/">ACEP13</a></li><li><a id="link-futurescientificassemblydates" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22394">Future Scientific Assembly Dates</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a id="link-leadershipevents" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=35190" class="drop">Leadership Events<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a id="link-leadershipandadvocacyconference" href="/lac/">Leadership and Advocacy Conference</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a id="link-emsweek" href="/emsweek/">EMS Week</a></li><li><a id="link-mastercalendar" href="http://webapps.acep.org/MasterCalendar/MasterCalendar.aspx">Master Calendar</a></li><li><a id="link-mailinglistrental" href="/content.aspx?id=22306">Mailing List Rental</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="menuItem" id="menu5"><div class="menu-expand mobile-only"></div><a id="link-advocacy" class="mainNav" href="/advocacy">Advocacy<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="subNav"><li><a id="link-stateissuesandresources" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=21866" class="drop">State Issues and Resources<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a id="link-contactyourstatelegislators" target="
+                                        _blank
+                                      " href="http://www.capwiz.com/acep/dbq/officials/?lvl=L">Contact Your State Legislators</a></li><li><a id="link-issuespecificstateadvocacyresources" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=50093">Issue-Specific State Advocacy Resources</a></li><li><a id="link-servicestosupportchapteradvocacyprograms" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=21864">Services to Support Chapter Advocacy Programs</a></li><li><a id="link-statescan" href="/StateScan/">State Scan</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a id="link-federalissues" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=21632" class="drop">Federal Issues<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a id="link-regulatoryissues" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=35294">Regulatory Issues</a></li><li><a id="link-qualityissues" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=88574">Quality Issues</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a id="link-becomeanadvocate" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=21358" class="drop">Become an Advocate<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a id="link-advocatetocongress" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=47563">Advocate to Congress</a></li><li><a id="link-acepspokespersonsnetwork" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=34212">ACEP Spokespersons' Network</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a id="link-contactcongress" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=30192" class="drop">Contact Congress<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a id="link-contactcongress" href="http://capwiz.com/acep/home/">Contact Congress</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a id="link-nempac" href="http://www.acep.org/nempac">NEMPAC</a></li><li><a id="link-emactionfund" href="/EMActionFund/">EM Action Fund®</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="menuItem" id="menu6"><div class="menu-expand mobile-only"></div><a id="link-membership" class="mainNav" href="/membership/">Membership<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="subNav"><li><a id="link-joinacep" href="https://webapps.acep.org/MemberApp/AcepMemberApp.aspx">Join ACEP</a></li><li><a id="link-renewyourmembership" href="https://webapps.acep.org/Membership/MemberDues.aspx">Renew Your Membership</a></li><li><a id="link-acepmemberdirectory" href="https://webapps.acep.org/Membership/MemberDirectory.aspx">ACEP Member Directory</a></li><li><a id="link-sections" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=24766" class="drop">Sections<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a id="link-sectionmanual" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=88993">Section Manual</a></li><li><a id="link-sectionspolicies" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=24756">Sections Policies</a></li><li><a id="link-forminganewsection" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=24764">Forming a New Section</a></li><li><a id="link-sectionfaqs" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=24760">Section FAQs</a></li><li><a id="link-sectionsubscriptionsfornonmembers" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=83557">Section Subscriptions for Non-Members</a></li><li><a id="link-newsectionpetitions" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=91606">New Section Petitions</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a id="link-chapters" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22846" class="drop">Chapters<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a id="link-chaptergrants" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22860">Chapter Grants</a></li><li><a id="link-chapterservices" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=40730">Chapter Services</a></li><li><a id="link-fundamentalsofchaptermanagement" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22914">Fundamentals of Chapter Management</a></li><li><a id="link-leadershipdevelopment" href="/content.aspx?id=34896">Leadership Development</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a id="link-membershipdueseligibility" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=81214" class="drop">Membership Dues &amp; Eligibility<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a id="link-membershippaysforitself" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=81215">Membership Pays for Itself</a></li><li><a id="link-paymentoptions" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=81498">Payment Options</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a id="link-whyjoinacep" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=81218" class="drop">Why Join ACEP<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a id="link-benefitsofmembership" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=81499">Benefits of Membership</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a id="link-fellowstatus" href="/fellow/">Fellow Status</a></li><li><a id="link-groups" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=23306">Groups</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="menuItem" id="menu7"><a id="link-bookstore" class="mainNav" href="/bookstore">Bookstore</a></li></ul>
             </div>
         </div>
     </div><!-- end masthead-->
     
 		
-    <div id="breadCrumbs">
+    <div id="breadCrumbs" class="no-mobile">
         <ul>
             <li id="folderBreadCrumbs"><a target="_self" href="/Content.aspx?id=22546" title="About Us">About Us</a>&nbsp;»&nbsp;<a target="_self" href="/Content.aspx?id=22592" title="Contact Us">Contact Us</a></li>
         </ul>
@@ -211,46 +399,31 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         		
 		<!-- /////////////////////////////////////////////////////////////////////////////////////// -->
 		
-
     
         <div id="sectionBranding">
             <div class="inner clearfix">
-                <img id="pageContent_ctl01_imgBanner" src="/uploadedImages/ACEP/_Homepage/AboutUsHeader2.jpg" style="height:160px;width:940px;">
+                <img id="pageContent_uxContentControl_ctl01_imgBanner" src="/uploadedImages/ACEP/_Homepage/AboutUsHeader2.jpg" style="height:160px;width:940px;">
             </div> 
         </div> 		
 		 
-    
-	<div id="contentWrapper" class="clearfix">
+<div id="contentWrapper" class="clearfix">
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
-            
-	    <div id="pageCap"></div>
-	     <div id="pageContent_leftPanel">
+    <div id="pageCap">
+    </div>
+    <div id="pageContent_uxContentControl_leftPanel">
 	
-    	<div id="sideContent1">
-                 <ul class="sideNav"><li class="sub"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22546" target="_self"><span>About ACEP</span></a></li><li class="sub"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22548" target="_self"><span>Awards</span></a></li><li class="sub"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=50041" target="_self"><span>Leadership</span></a></li><li class="sub"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=31016" target="_self"><span>Bylaws</span></a></li><li class="sub"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=30206" target="_self"><span>Financial Reports</span></a></li><li class="sub"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22620" target="_self"><span>Careers at ACEP</span></a></li></ul>
-           
+        <div id="sideContent1">
+            <ul class="sideNav"><li class="sub"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22546" target="_self"><span>About ACEP</span></a></li><li class="sub"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22548" target="_self"><span>Awards</span></a></li><li class="sub"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=50041" target="_self"><span>Leadership</span></a></li><li class="sub"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=31016" target="_self"><span>Bylaws</span></a></li><li class="sub"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=30206" target="_self"><span>Financial Reports</span></a></li><li class="sub"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=22620" target="_self"><span>Careers at ACEP</span></a></li></ul>
             
         </div>
-        
+    
 </div>
-        
-        <div id="mainContent">
-                <div>
+    <div id="mainContent">
+        <div>
 	<!-- Begin -  Site: ACEP.org Zone: New ACEP Site Top Banner --><script type="text/javascript"><!--
-var browName = navigator.appName;
-var SiteID = 1;
-var ZoneID = 16;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://apps.acep.org/banmanpro/a.aspx?ZoneID=' + ZoneID + '&Task=Get&IFR=False&Browser=NETSCAPE4&PageID=75055&SiteID=' + SiteID + '&Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://apps.acep.org/banmanpro/a.aspx?ZoneID=' + ZoneID + '&Task=Get&IFR=False&PageID=75055&SiteID=' + SiteID + '&Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}//--></script><script language="javascript" src="http://apps.acep.org/banmanpro/a.aspx?ZoneID=16&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=75055&amp;SiteID=1&amp;Random=1582538276678"></script><!-- End -  Site: ACEP.org Zone: New ACEP Site Top Banner -->
+var browName = navigator.appName;var SiteID = 1;var ZoneID = 16;var browDateTime = (new Date()).getTime();if (browName=='Netscape'){document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.acep.org/banmanpro/a.aspx?ZoneID=' + ZoneID + '&Task=Get&IFR=False&Browser=NETSCAPE4&PageID=75055&SiteID=' + SiteID + '&Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');}if (browName!='Netscape'){document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.acep.org/banmanpro/a.aspx?ZoneID=' + ZoneID + '&Task=Get&IFR=False&PageID=75055&SiteID=' + SiteID + '&Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');}//--></script><script language="javascript" src="http://www.acep.org/banmanpro/a.aspx?ZoneID=16&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=75055&amp;SiteID=1&amp;Random=1582538239448"></script><!-- End -  Site: ACEP.org Zone: New ACEP Site Top Banner -->
 </div><h1>Privacy Policy and Copyright Notice</h1>
-               <h3>ACEP Privacy Policy</h3>
+        <h3>ACEP Privacy Policy</h3>
 <blockquote style="MARGIN-RIGHT: 0px" dir="ltr"><p>ACEP respects the privacy of its members and other visitors to its Web site. To protect online privacy, ACEP has implemented the following policy.</p>
 <p><strong>What Information Does ACEP Collect?</strong>Most data ACEP collects are used only to help us better serve our members and other Web visitors. It is our general policy to collect and store only personal information that our members, customers and visitors knowingly provide. If our privacy policies change, a notice of the changes will be placed on the Web site.</p>
 <p>From General Users. ACEP does not collect any personal information from users browsing its Web site. Only aggregate data -- such as the number of hits per page -- are collected. Aggregate data are only used for internal and marketing purposes and do not provide any personally identifying information.</p>
@@ -273,7 +446,7 @@ document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://apps.acep
 <p>Although ACEP's website includes samples, articles, and links providing direct access to other Internet sites, ACEP has not participated in the development of such materials or other sites, and does not exert any editorial or other control, or guarantee the accuracy, completeness, efficacy, or timeliness, of such information.&nbsp; Information on this site does not constitute or imply endorsement, agreement, recommendation, or favoring by ACEP of such information.&nbsp; Use of any information posted on the ACEP's website or obtained from linked sites is voluntary, and reliance on it should only be undertaken after an independent review by qualified experts.&nbsp; ACEP is not responsible for, and expressly disclaims all liability for, damages of any kind arising out of use, reference to, reliance on, or performance of such information.</p>
 <p>&nbsp;</p>
 </blockquote>
-               <div id="pageContent_FormBlock1">
+        <div id="pageContent_uxContentControl_FormBlock1">
 	<input type="hidden" id="ApplicationAPI0" name="ApplicationAPI0" value="postback">
 <input type="hidden" name="EktFormId" value="0">
 <input type="hidden" name="EktFormTitle" value="">
@@ -303,7 +476,7 @@ if (strError=='' && 'function' == typeof design_validateHtmlForm) {
 }
 // --> 
 </script>
-<script id="pageContent_FormBlock1_pageContent_FormBlock1EktronScriptBlockovhmm" type="text/javascript"><!--//--><![CDATA[//><!--
+<script id="pageContent_uxContentControl_FormBlock1_pageContent_uxContentControl_FormBlock1EktronScriptBlockmuccb" type="text/javascript"><!--//--><![CDATA[//><!--
 	
 	Ektron.ready(function(event, eventName){
 Ektron.Controls.FormBlock.Utility.RedirectLink.init();
@@ -311,102 +484,129 @@ Ektron.Controls.FormBlock.Utility.RedirectLink.init();
 	
 	//--><!]]>
 	</script>
-</div>
-               
-                
-                
-
-                <!-- Error Panel goes here -->
-                
-
-            </div> 
-            
-             <div id="pageContent_rightColumn">
+</div>        
+        
+        
+        <!-- Error Panel goes here -->
+        
+    </div>
+    <div id="pageContent_uxContentControl_rightColumn">
 	
-             <div id="sideContent2">
-                <h2>Related Links</h2>
+        <div id="sideContent2">
+            <h2>Related Links</h2>
 <div class="pod accordion">
   <h3 style="cursor: pointer;">About ACEP<div class="toggleSprite">+/-</div></h3>
-  <div class="pod-outer more" style="height: 124px;">
-    <div class="pod-inner"><ul><li><a href="/About-Us/Bylaws-2012/">Bylaws 2012</a></li><li><a href="/About-Us/July-2012-Treasurer-s-Report/">July 2012 Treasurer's Report</a></li><li><a href="/About-Us/June-2012-Treasurer-s-Report/">June 2012 Treasurer's Report</a></li><li><a href="/AppSupport/">ACEP App Support</a></li></ul></div>
+  <div class="pod-outer more" style="height: 204px;">
+    <div class="pod-inner"><ul><li><a href="/AppSupport/">ACEP App Support</a></li><li><a href="/ACEP-Taxonomy-of-Subject-Matterews-/Board-of-Directors-Nominations-Due-by-Feb--15/">Board of Directors Nominations Due by Feb. 15</a></li><li><a href="/About-Us/Alexandria-Plan-Celebrates-50th-Anniversary/">Alexandria Plan Celebrates 50th Anniversary</a></li><li><a href="/aboutus/">About Us</a></li><li><a href="/Clinical---Practice-Management/ACEP-Board-Approves-Lean-2009-2010-Budget/">ACEP Board Approves Lean 2009-2010 Budget</a></li></ul></div>
   </div>
 </div>
 <div class="pod accordion">
   <h3 style="cursor: pointer;">Leadership<div class="toggleSprite">+/-</div></h3>
-  <div class="pod-outer more" style="height: 37px;">
-    <div class="pod-inner"><ul><li><a href="/About-Us/Council-Standing-Rules-Oct-2012/">Council Standing Rules Oct 2012</a></li></ul></div>
+  <div class="pod-outer more" style="height: 255px;">
+    <div class="pod-inner"><ul><li><a href="/leadershipnominations/">Board of Directors and Council Officer Nominations Due by Feb. 15</a></li><li><a href="/About-Us/William-Jaquis,-MD,-FACEP/">William Jaquis, MD, FACEP</a></li><li><a href="/About-Us/Vidor-E--Friedman,-MD,-FACEP/">Vidor E. Friedman, MD, FACEP</a></li><li><a href="/ACEP-Taxonomy-of-Subject-Matterews-/Board-of-Directors-Nominations-Due-by-Feb--15/">Board of Directors Nominations Due by Feb. 15</a></li><li><a href="/About-Us/ACEP-President-Shares-His-Vision-for-EM-s-Future-With-2011-Council/">ACEP President Shares His Vision for EM's Future With 2011 Council</a></li></ul></div>
   </div>
 </div><div>
 		<div>&nbsp;</div>
 <div align="center"><!-- Begin -  Site: ACEP.org Zone: New ACEP Site Top Right --><script type="text/javascript"><!--
-var browName = navigator.appName;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<scr' + 'ipt language="javascript" src="http://apps.acep.org/banmanpro/Enc.aspx?Enc=%2fkWDqomcwMg4Zw0HmHjgjwL1bxd4brDiX8k8Hx1yB%2bfHwEdEZZEsC8w9UUAfrroEQZ0HQgnXrXzWZpHrjhgh%2ff5yd2saGdRe' + '&Random=' + browDateTime  + '">'); document.write('</scr' + 'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<scr' + 'ipt language="javascript" src="http://apps.acep.org/banmanpro/Enc.aspx?Enc=%2fkWDqomcwMg4Zw0HmHjgjwL1bxd4brDiX8k8Hx1yB%2bfHwEdEZZEsC8w9UUAfrroEQZ0HQgnXrXzWZpHrjhgh%2ff5yd2saGdRe' + '&Random=' + browDateTime  + '">'); document.write('</scr' + 'ipt>');
-}
---></script><script language="javascript" src="http://apps.acep.org/banmanpro/Enc.aspx?Enc=%2fkWDqomcwMg4Zw0HmHjgjwL1bxd4brDiX8k8Hx1yB%2bfHwEdEZZEsC8w9UUAfrroEQZ0HQgnXrXzWZpHrjhgh%2ff5yd2saGdRe&amp;Random=1582538276684"></script><!-- End -  Site: ACEP.org Zone: New ACEP Site Top Right -->
-
-&nbsp;</div>
+var browName = navigator.appName;var browDateTime = (new Date()).getTime();if (browName=='Netscape'){document.write('<scr' + 'ipt language="javascript" src="http://www.acep.org/banmanpro/Enc.aspx?Enc=%2fkWDqomcwMg4Zw0HmHjgjwL1bxd4brDiX8k8Hx1yB%2bfHwEdEZZEsC8w9UUAfrroEQZ0HQgnXrXzWZpHrjhgh%2ff5yd2saGdRe' + '&Random=' + browDateTime  + '">'); document.write('</scr' + 'ipt>');}if (browName!='Netscape'){document.write('<scr' + 'ipt language="javascript" src="http://www.acep.org/banmanpro/Enc.aspx?Enc=%2fkWDqomcwMg4Zw0HmHjgjwL1bxd4brDiX8k8Hx1yB%2bfHwEdEZZEsC8w9UUAfrroEQZ0HQgnXrXzWZpHrjhgh%2ff5yd2saGdRe' + '&Random=' + browDateTime  + '">'); document.write('</scr' + 'ipt>');}//--></script><script language="javascript" src="http://www.acep.org/banmanpro/Enc.aspx?Enc=%2fkWDqomcwMg4Zw0HmHjgjwL1bxd4brDiX8k8Hx1yB%2bfHwEdEZZEsC8w9UUAfrroEQZ0HQgnXrXzWZpHrjhgh%2ff5yd2saGdRe&amp;Random=1582538239454"></script><!-- End -  Site: ACEP.org Zone: New ACEP Site Top Right --></div>
 <div>&nbsp;</div>
-<div align="center">
-<!-- Begin -  Site: ACEP.org Zone: New ACEP Right Bottom -->
-<script language="javascript" type="text/javascript">
-<!--
-var browName = navigator.appName;
-var SiteID = 1;
-var ZoneID = 18;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://apps.acep.org/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=85386&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://apps.acep.org/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=85386&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-// --> 
-</script><script language="javascript" src="http://apps.acep.org/banmanpro/a.aspx?ZoneID=18&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=85386&amp;SiteID=1&amp;Random=1582538276686"></script>
-<!-- End -  Site: ACEP.org Zone: New ACEP Right Bottom -->
-
-&nbsp;</div>
-	</div>  
-
-
-
-				
-            </div>   <!-- End sideContent2 --> 
-            
-</div>
-        
-        
-
-		 
-               
-         
-        
-
+<div align="center"><!-- Begin -  Site: ACEP.org Zone: New ACEP Right Bottom --><script type="text/javascript"><!--
+var browName = navigator.appName;var SiteID = 1;var ZoneID = 18;var browDateTime = (new Date()).getTime();if (browName=='Netscape'){document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.acep.org/banmanpro/a.aspx?ZoneID=' + ZoneID + '&Task=Get&IFR=False&Browser=NETSCAPE4&PageID=85386&SiteID=' + SiteID + '&Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');}if (browName!='Netscape'){document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.acep.org/banmanpro/a.aspx?ZoneID=' + ZoneID + '&Task=Get&IFR=False&PageID=85386&SiteID=' + SiteID + '&Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');}//--></script><script language="javascript" src="http://www.acep.org/banmanpro/a.aspx?ZoneID=18&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=85386&amp;SiteID=1&amp;Random=1582538239455"></script><!-- End -  Site: ACEP.org Zone: New ACEP Right Bottom --></div>
 	</div>
+            
+        </div>
+        <!-- End sideContent2 -->
+    
+</div>
+</div>
+
  
  
            <!--</div>--><!--end contentWrapper--> 
         
     	<div id="footer" class="clearfix">
-        <span>Copyright © 2012 American College of Emergency Physicians</span>
-       <ul><li><a href="http://www.facebook.com/ACEPFan" target="_blank">ACEP Facebook Page</a></li><li><a href="http://thecentralline.org/" target="_blank">The Central Line Blog</a></li><li><a href="http://assoc.healthecareers.com/acep/association-home/" target="_blank">EM Career Central</a></li><li><a href="/content.aspx?id=30296#terms" target="_self">Terms of Use</a></li><li><a href="/content.aspx?id=30296" target="_self">Privacy Policy</a></li><li><a href="/SiteMap.aspx" target="_self">SiteMap</a></li><li><a href="http://webapps.acep.org/Membership/reportwebsiteissue.aspx" target="_blank">Report Website Issue</a></li></ul>
+        <span>Copyright © 2013 American College of Emergency Physicians</span>
+       
+
+
+          <ul>
+          <li><a target="_blank" href="http://www.facebook.com/ACEPFan">ACEP Facebook Page</a></li>
+            <li><a target="_blank" href="http://thecentralline.org/">The Central Line Blog</a></li>  
+          <li><a target="_blank" href="http://assoc.healthecareers.com/acep/association-home/">EM Career Central</a></li>
+          <li><a target="_self" href="/content.aspx?id=30296#terms">Terms of Use</a></li>
+          <li><a target="_self" href="/content.aspx?id=30296">Privacy Policy</a></li>
+          <li><a target="_self" href="/SiteMap.aspx">SiteMap</a></li>
+           <!--	<li class='reportissue'><a href="#">Report Website Issue</a></li>  -->
+          </ul>
+
+
         </div>
     
    <div id="pleasewaitimage" class="pleasewaitimage"></div>
     
     
     </div>
+	
+	  <!-- FeedbackWidget start -->
+    <div class="oo_feedback_float no-mobile" style="right: 10px;">
+    <div class="olUp">Feedback</div>
+    <div class="olOver">
+    <span>
+    Click here to<br>send us feedback
+    </span>
+    </div>
+    <div class="oo_transparent"></div>
+    </div>
+      <!-- FeedbackWidget end -->
     
 </div>
 
+<!-- Start Google Code -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-8793266-2']);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_setCustomVar', 3,'Member', '0', 2]); 
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+/* Start Track Event binding Code */
+//// extracted from http://runtingsproper.blogspot.com/2009/12/how-to-automatically-track-events-with.html
+//// un-comment the below if you would like google analytics to track your pdf download links on the website.
+//$(document).ready(function () { 
+//    TrackEventsForClicks();
+//});
+//  
+//function TrackEventsForClicks() 
+//{ 
+//    TrackEventByFileExtension(".pdf"); 
+//    // add your file extension here
+//}   
+//  
+//function TrackEventByFileExtension(FileExtension) 
+//{ 
+//    $("a[href$='" + FileExtension + "']").click(function() { 
+//        var fileName = ExtractFileNameFromUrl($(this).attr("href")); 
+//        _gaq.push(['_trackEvent', 'click', fileName]);
+//    }); 
+//} 
+//  
+//function ExtractFileNameFromUrl(Url) 
+//{ 
+//    // Note this code assumes 
+//    //   - that the url doesnt contain a query string 
+//    //   - that a real url has been passed in 
+//    //   - that the url has a filename and isnt a folder 
+//    var SplitUrl = Url.split('/'); 
+//    var FileName = SplitUrl[SplitUrl.length-1]; 
+//    return FileName; 
+//}
+/* End Track Event Binding Code */
+</script>
+<!-- End Google Code -->
 <script src="/core/js/validators.js" type="text/javascript"></script></form>
 <!-- ////////GOOGLE ANALYTICS SCRIPT TO TRACK PDF OR ASSET DOWNLOADS//////// -->
 <script src="/js/gatag.js" type="text/javascript"></script>
@@ -416,7 +616,7 @@ document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://apps.acep
     _gaq.push(['_setAccount', 'UA-8793266-2']);
     _gaq.push(['_trackPageview']);
 
-    (function() {
+    (function () {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
@@ -426,16 +626,16 @@ document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://apps.acep
 
 
 	<!--Click Dimensions Tracking-->
-	<script type="text/javascript"> 
-  var cdJsHost = (("https:" == document.location.protocol) ? "https://" : "http://"); 
-  document.write(unescape("%3Cscript src='" + cdJsHost + "analytics.clickdimensions.com/ts.js' type='text/javascript'%3E%3C/script%3E")); 
+	<script type="text/javascript">
+	    var cdJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+	    document.write(unescape("%3Cscript src='" + cdJsHost + "analytics.clickdimensions.com/ts.js' type='text/javascript'%3E%3C/script%3E")); 
 </script><script src="https://analytics.clickdimensions.com/ts.js" type="text/javascript"></script> 
 
-<script type="text/javascript"> 
-  var cdAnalytics = new clickdimensions.Analytics('analytics.clickdimensions.com'); 
-  cdAnalytics.setAccountKey('awlqdAuo3nUKQAGcbxQ9OI'); 
-  cdAnalytics.setDomain('acep.org'); 
-  cdAnalytics.trackPage(); 
+<script type="text/javascript">
+    var cdAnalytics = new clickdimensions.Analytics('analytics.clickdimensions.com');
+    cdAnalytics.setAccountKey('awlqdAuo3nUKQAGcbxQ9OI');
+    cdAnalytics.setDomain('acep.org');
+    cdAnalytics.trackPage(); 
 </script> 
 	
 	<!--Click Dimensions Tracking-->
