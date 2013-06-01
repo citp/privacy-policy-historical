@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tactical-life.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305223944id_/http%3A//www.tactical-life.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tactical-life.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601221221id_/http%3A//www.tactical-life.com/privacy) for the most accurate reproduction.*
 
-# Tactical-Life.com » Page not found
+# Privacy Policy | Tactical Life
 
 ## Privacy Policy
 
@@ -41,9 +41,9 @@ You should be aware that personally identifiable information which you voluntari
 
 You can always choose whether or not to disclose personally identifiable information and that choice will not prevent you from using the Site. Please note, however, that you must provide some personally identifiable information in order to use certain services on the Site. In addition, you can always choose to opt-out of certain uses of your personally identifiable information at any time.
 
-If you do not want your personally identifiable information shared with third parties for their marketing purposes, then please email us at [moc.efil-lacitcat@ycavirp](mailto:privacy@tactical-life.com "Click here to send an email").
+If you do not want your personally identifiable information shared with third parties for their marketing purposes, then please email us at [privacy@tactical-life.com](mailto:privacy@tactical-life.com)
 
-If you do not want us to use your personally identifiable information for our own marketing purpose in connection with the Site, then please email us at [moc.efil-lacitcat@ycavirp](mailto:privacy@tactical-life.com "Click here to send an email").
+If you do not want us to use your personally identifiable information for our own marketing purpose in connection with the Site, then please email us at [privacy@tactical-life.com](mailto:privacy@tactical-life.com)
 
 However, we are not responsible for removing your personally identifiable information from the lists of any third party who has previously been provided your information in accordance with this policy.
 
@@ -57,7 +57,7 @@ This Site is neither directed to nor intended for children under 13. Harris Publ
 
 ### How are cookies used by Harris Publications?
 
-Harris Publications assigns a random number to each user for anonymously tracking traffic patterns. This random number is kept in a file on your computer called a “cookie.” Cookies allow Harris Publications to keep track of how often users are visiting specific areas of our Site - or simply how many times a user visits our Site each month. Third parties, such as our advertisers, may use cookies of their own in connection with this Site.
+Harris Publications assigns a random number to each user for anonymously tracking traffic patterns. This random number is kept in a file on your computer called a “cookie.” Cookies allow Harris Publications to keep track of how often users are visiting specific areas of our Site – or simply how many times a user visits our Site each month. Third parties, such as our advertisers, may use cookies of their own in connection with this Site.
 
 Harris Publications does not require users to accept cookies in order to enjoy the Site. You can set your browser to reject cookies, or to notify you when Harris Publications or any other company sends you a cookie. If you have questions about how to change your browser’s “cookie” settings, you should contact the software manufacturer. You should be aware, however, that many areas of Harris Publications will be significantly slower, or may not function at all, if cookies are disabled.
 
@@ -73,7 +73,7 @@ Use of this Site is governed by, and subject to, the Terms of Use. Your use, or 
 
 ### Who can I contact with questions regarding this policy or my personally identifiable information?
 
-Questions regarding this statement or the privacy policies or procedures of this Site should be directed to [inquiries@tactical-life.com](mailto:inquiries@tactical-life.com "Click here to send an email").
+Questions regarding this statement or the privacy policies or procedures of this Site should be directed to [comments@harris-pub.com](mailto:comments@harris-pub.com)
 
 ### Effective Date
 
