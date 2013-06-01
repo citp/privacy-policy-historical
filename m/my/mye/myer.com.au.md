@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myer.com.au privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010191604id_/http%3A//www.myer.com.au/myer-general_privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myer.com.au privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601213820id_/http%3A//www.myer.com.au/general/privacy-policy) for the most accurate reproduction.*
 
-# Myer | Privacy Policy
+# Myer - is my store - General - Privacy Policy
 
 At Myer, your privacy is paramount.
 
@@ -20,7 +20,7 @@ We collect information for a number of reasons including:
 
 
 **How we collect this information**  
-We collect information in a number of ways: 
+We collect information in a number of ways:
 
   * When you order goods or services, particularly when those products are delivered
   * If you use our Lay-By service
@@ -33,7 +33,7 @@ We collect information in a number of ways:
 
 
 **What we collect**  
-The personal information we collect is in most cases supplied by you when you place an order or provide feedback to us. 
+The personal information we collect is in most cases supplied by you when you place an order or provide feedback to us.
 
   * Name
   * Address
@@ -63,9 +63,9 @@ If you would like to access or update your personal information, write to our Cu
 A copy of the Myer Pty Ltd. Privacy Policy is available from the Myer website at www.myer.com.au or you can request a copy by calling our customer service centre on 1800 811 611.
 
 **Security**  
-From time to time and in line with customer expectations and legislative changes, our privacy policies and procedures will be reviewed and, if appropriate, updated. 
+From time to time and in line with customer expectations and legislative changes, our privacy policies and procedures will be reviewed and, if appropriate, updated.
 
 You can request a copy of the Privacy Policy by calling our Customer Service Department on 1800 811 611
 
 **MYER one Privacy Policy**  
-If you would like to view the Privacy Policy for the MYER one program, please visit <https://www.myerone.com.au/myerone/content/home/privacy_policies.html>
+If you would like to view the Privacy Policy for the MYER one program, please visit <http://myerone.com.au/MYER_one_privacy_notice.pdf>
