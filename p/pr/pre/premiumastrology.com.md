@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumastrology.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919083420id_/http%3A//www.premiumastrology.com/process/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumastrology.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601045429id_/http%3A//www.premiumastrology.com/process/info/privacy.php) for the most accurate reproduction.*
 
 # Premium Astrology - Privacy Policy
 
@@ -17,7 +17,7 @@ Thank you for visiting PremiumAstrology.com This notice explains our online info
 
 PremiumAstrology.com collects information in two categories:
 
-  * First Name, E-mail Address, Star Sign, Wish, Birthdate - provided by you for registration to receive your free Astrological Report. 
+  * Your First Name, E-mail Address, Star Sign, Wish, Birthdate, Gender, Marital Status, and Work Status may be used to personalize communication with you.
   
 
   * Name, Postal Address, Phone and Credit Card Information - provided by you when purchasing our Full Report. There is no obligation to provide this information or purchasing a Full Report.
@@ -28,7 +28,7 @@ We also may collect certain non-personally identifiable information (i.e. generi
 
 **How We Use and Disclose the Information.**
 
-We will use the personal information you provide online for the purpose(s) you have submitted. Your First Name, Email Address, Star Sign, Wish, and Birthdate will be used to construct your Free Astrological Report. In addition, we may send to you e-mails offering products or services which we think you may be interested in or to send you information related to your report or star sign. If you want us to stop using the personal information you provided in these ways, please contact us at [support@premiumastrology.com](mailto:support@premiumastrology.com) or click the unsubscribe link on the top of any communication from PremiumAstrology.com.
+We will use the personal information you provide online for the purpose(s) you have submitted. Your First Name, E-mail Address, Star Sign, Wish, Birthdate, Gender, Marital Status, and Work Status Status may be used to personalize communication with you. In addition, we may send to you e-mails offering products or services which we think you may be interested in or to send you information related to your report or star sign. If you want us to stop using the personal information you provided in these ways, please contact us at [support@premiumastrology.com](mailto:support@premiumastrology.com) or click the unsubscribe link on the top of any communication from PremiumAstrology.com.
 
 Again, If you enjoy your Free Report, you will have the option to purchase a more in-depth Astrological Report from Premium Astrology. There are a number of products and services that are sold here at Premium Astrology, but the first step is to get your Free Report and decide for yourself if the insights you receive are accurate to you and the way you wish to see your future unfold.
 
