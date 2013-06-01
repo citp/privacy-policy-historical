@@ -1,43 +1,146 @@
-> *The following text is extracted and transformed from the chipchick.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019134258id_/http%3A//www.chipchick.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chipchick.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601053930id_/http%3A//www.chipchick.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chip Chick
 
-What follows is the Privacy Statement for all ChipChick.com & ChipChicklets.com websites (a.k.a. blogs)..
+This Privacy Policy governs your use of this web site and any content made available from or through this web site located at ChipChick.com and ChipChicklets.com, including any subdomains thereof (the “Web Site”). The Web Site is made available by Chip Chick and Chip Chicklets (or “we” or “us”).
 
-Please read this statement regarding our blogs. If you have questions please ask us via our contact form.
+By visiting this Web Site or using the services offered on or through this Web Site, you agree to the terms of this Privacy Policy, as they may be amended from time to time. As we update and expand our Web Site and services, this Privacy Policy may change, so check back to this page from time to time.
 
-**Email Addresses**  
-You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share your email with any third party. We don’t currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our [contact form](http://www.chipchick.com/contact_us).
+This Privacy Policy does not apply to information that you may provide to us, or that we may obtain, other than through our Web Site, such as by phone, through postal mail and through other offline and print mediums. This Privacy Policy does not apply to information collected about you by anyone except us and only applies to the Web Site to which this policy is linked.
 
-**Ownership of Information**  
-ChipChick.com & ChipChicklets.com. is the sole owner of any information collected on our websites.  
-**  
-Comments/Message Boards**  
-ChipChick.com & ChipChicklets.com contain comment sections (a.k.a. message boards). We do not actively monitor these comments and the information on them is for entertainment purposes only. If we are alerted to something we deem inappropriate in any way, we may delete it at our discretion. We use email validation on most of our message boards in order to reduce “comment spam.” These email addresses will not be shared with any third party.
+**A. Purpose**
 
-**Cookies**  
-Currently we assign cookies to our readers in order to manage their preferences and ensure the site’s functionality. This data is not shared with any third party. Accessing our websites is not dependent on accepting cookies and all major browsers allow you to disable cookies if you wish.
+In order to make your visits to our Web Site and use of the services available on or through our Web Site as worthwhile as possible, we may ask you for Personal Information and we may collect certain information from your computer each time you visit us. “Personal Information” includes, for example, your name; home address; business address; e-mail address; telephone, wireless or fax number; short message service or text message address or other wireless device address; instant messaging address; credit card and other payment information; demographic information and other information that may identify you as an individual or allow online or offline contact with you as an individual. From time to time, other information, such as your age, gender, education and subscription information may also be requested. This Privacy Policy explains, in general, what Personal Information and other information is collected on our Web Site, how the information is used, and with whom we may share such information. California and Canadian residents have the right to know how their information may be shared with third parties who engage in direct marketing activities and this Privacy Policy explains our practices and how you can opt-out of having your information shared for such purposes. Please take a few minutes to read our Privacy Policy so that you understand how we treat your information.
 
-**Third Party Cookies**  
-ChipChick.com & ChipChicklets.com and its advertisers may also use ad network providers, such as Google Adsense, the Glam Network, etc, to help present advertisements on ChipChick.com & ChipChicklets.com. These ad network providers use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of their advertisements, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. ChipChick.com & ChipChicklets.com may share certain non-personally identifiable information about you as a ChipChick.com & ChipChicklets.com user (such as user age and zip code) with certain ad network providers, to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by these ad network providers is subject to their own privacy policies, not that of ChipChick.com & ChipChicklets.com.
+**B. What Information is Collected on this Web Site?**
 
-**Traffic Reports**  
-Our industry-standard traffic reporting records IP addresses, Internet service provider information, referrer strings, browser types and the date and time pages are loaded. We use this information in the aggregate only to provide traffic statistics to advertisers and to figure out which features and editorials are most popular.
+**1\. User-Provided Information**
 
-**Legal proceedings**  
-We will make every effort to preserve user privacy but ChipChick.com & ChipChicklets.com may need to disclose information when required by law.
+We may collect two types of personally identifying information from users: personal data (such as names and contact details) and aggregated data (such as information about traffic patterns on the Web Site, for example, how many users log onto the Web Site on a daily basis). We may collect personal information from users of our Web Site, for example, through such users’ activities, transactions and completion of online forms on our Web Site. Such information is collected, for example, when users register or subscribe for accounts or features on our Web Site, make online purchases, enter sweepstakes and contests, complete surveys, contribute to a chat room, bulletin board, list serve, blog, wiki or other open forum that we may make available on or through our Web Site, submit a comment or question to us using a “contact us” or similar feature on our Web Site, send us an e-mail, or in any other way submit personal information to us via our Web Site.
 
-**Business Transitions**  
-If ChipChick.com & ChipChicklets.com is acquired by or merges with another firm, the assets of our websites, including personal information, will likely be transferred to the new firm.
+You may be able to send information about our products and services to your friends and family members through our Web Site by clicking on an “E-mail to Friend” or similar button on our Web Site or in an e-mail that we have sent you. In some of these cases (unless you simply forward our e-mail on your own), you may provide the name and e-mail address of your friend or family member to us. Such information will be treated in accordance with this Privacy Policy and applicable law.
 
-**Links**  
-ChipChick.com & ChipChicklets.com websites frequently link to other websites. We are not responsible for the content or business practices of these websites. When you leave our websites we encourage you to read the destination site’s privacy policy. This privacy statement applies solely to information collected by ChipChick.com & ChipChicklets.com
+You may also be able to send an online card to a friend or family member, or send them a gift or gift certificate. If so, you may be required to provide us with your friend’s or family member’s Personal Information. Such information will be treated in accordance with this Privacy Policy and applicable law.
 
-**Notification of Changes**  
-When ChipChick.com & ChipChicklets.com makes changes to this privacy policy we will post those changes here.
+**2\. Web Site Usage Information**
+
+**(i) Cookies**
+
+We may use “cookies” to keep, and sometimes track, information about you. Cookies are small data files that are sent to your browser or related software from a Web server when you visit it and are stored on your computer’s hard drive for record keeping purposes. Cookies track where you travel on our Web Site and what you look at and purchase.  They may store the information in your shopping cart, and/or your username and password. A cookie may enable us to relate your use of our Web Site to other information about you, including your Personal Information. These purposes serve to improve and personalize your experience on our Web Site.
+
+You may occasionally get cookies from our advertisers, which is standard in the internet industry. We do not control these cookies, and these cookies are not subject to our privacy policies.
+
+Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Web Site or certain areas or features of the Web Site.
+
+**(ii) Clear GIFs**
+
+We may use “clear GIFs” (aka “Web beacons” or “pixel tags”) or similar technologies, in the Web Site and in our communications with you to enable us to know whether you have visited a web page or received a message. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a web page or in an e-mail or other type of message, which is retrieved from a remote site on the internet enabling the verification of an individual’s viewing or receipt of a web page or message. A clear GIF may enable us to relate your viewing or receipt of a web page or message to other information about you, including your Personal Information.
+
+**(iii) IP Address and Clickstream Data**
+
+Aggregated information, such as which pages users access or visit and information volunteered by users, such as survey information and/or Web Site registrations, is collected through various methods. For example, our server may automatically collect data about your server’s internet address when you visit us. This information, known as an Internet Protocol address, or IP Address, is a number that is automatically assigned to your computer by your internet service provider whenever you’re on the internet. When you request pages from our Web Site, our servers may log your IP Address and sometimes your domain name. Our server may also record the referring page that linked you to us (e.g., another web site or a search engine); the pages you visit on this Web Site; the web site you visit after this Web Site; the ads you see; the ads you click on; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Web Site or a referral site; and other web usage activity and data logged by our web servers. We use this information for internal system administration, to help diagnose problems with our server, and to administer our Web Site. Such information may also be used to gather broad demographic information, such as country of origin and internet service provider. We may also link this information with your Personal Information when we feel that it is necessary to enforce compliance with our rules and policies or Terms of Use or to protect our Web Site, customers or others.
+
+Any or all of these activities with regard to Web Site usage information may be performed on our behalf by our services providers.
+
+**C. How is the Personal Information Used?**
+
+We use both personal and aggregated information we collect for multiple purposes. The Personal Information may be used to improve the content of the Web Site, to customize the content and/or layout of the Web Site for each individual user, and to notify users about updates to the Web Site or promotional offers or opportunities that we believe will be of interest to you. We will use the Personal Information you provide to our Web Site, for example, to respond to your requests and to provide you with our product and service offerings. For example, we will process your orders, respond to your requests and inquiries and provide you with the services and features offered on or through our Web Site. We may also use your Personal Information to maintain our internal record keeping. We may also report information about your account to credit bureaus. Late payments, missed payments, or other defaults on your account may be reflected in your credit report. We may match information collected from you through different means or at different times, including both Personal Information and Web Site usage information, and use such information along with information obtained from other sources, including third parties. In addition, we may send you notices (for example, in the form of e-mails, mailings, and the like), and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you. You may opt-out of receiving such notices from us, at any time, by following the instructions in the [right](http://www.sfgate.com/pages/privacy/#optout) to opt out section below.
+
+We may analyze user behavior as a measure of interest in, and use of, our Web Site and e-mails, both on an individual basis and in the aggregate. We may also use information provided to us on an anonymous aggregated basis for purposes of analyzing traffic and usage patterns.
+
+In addition, we may use information you provide us through e-mails, Q & A, and in response to polls for editorial purposes, and may use your name and any stories you provide us in articles published online. Please be advised that any such submissions may be used by us for any lawful purpose. If you provide us with personal anecdotes, they may be attributed to you and we may include your user name and any personal information that you provide in an open forum on this Web Site, as provided in section D(i) below, to facilitate such attribution. We can edit, rewrite, use, and reuse the content, including your name, likeness, photograph, and biographical information you provide, in any way and any media whether now known or invented in the future, with or without attribution, as well as in trade media, and advertising and promotions. You agree that any content you send will comply with the Terms of Use.
+
+**D. Do we Share Personal Information and Web Site Usage Information with Others?**
+
+**(i) Public Forums**
+
+When you contribute to a public area or feature of our Web Site, such as a chat room, bulletin board, list serve, blog, wiki or other open forum that we may make available on or through our Web Site, the information that you submit will be made available to the general public and will not be considered “Personal Information” for purposes of this Privacy Policy. For this reason, we recommend that you do not submit any sensitive information, including your full name, home address, phone number, other information that would enable other users to locate you or your financial information on these areas of our Web Site. Instead, make up a username that does not disclose your personal identity.
+
+**  (ii) Co-sponsored Contests, Sweepstakes and Offerings**
+
+Some of our contests, sweepstakes and other offerings may be co-sponsored by another company. In those situations, the information we obtain from you in connection with such contest, sweepstakes or offering may be shared with our co-sponsor. In those situations, our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies. If you do not wish for the information we obtain from you to be shared with our co-sponsor, then do not enter such contest, sweepstake or other offering or otherwise provide to us any Personal Information in connection with such contest, sweepstake or other offering. We are not responsible for how our co-sponsors may use your information.
+
+**(iii) Service Providers**
+
+We may use third parties to help operate our Web Site and deliver our products and services, and may share your Personal Information with our affiliates, service providers and other third parties that provide products or services for or through this Web Site or for our business (such as Web Site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf). Unless otherwise stated, these companies do not have any right to use the Personal Information we provide to them beyond what is necessary for them to assist us. We may use third parties to provide services in connection with Submitted Materials, as that term is defined in the Terms of Use. In accordance with section D(i) above, information in forums, information submitted for sweepstakes or other offerings, and Submitted Materials (including submitted video and pictures), become publicly available and may be used by us for any lawful purpose. We may share personal information that is included with Submitted Materials with third parties, including, without limitation, vendors or other service providers, affiliates and partners.
+
+When you conduct e-commerce with one of the e-commerce affiliates or service providers to which the Web Site may be linked, certain personal information such as your e-mail and home address may be collected by the service provider’s server and made available to us. We do not, however, transfer credit card information you may provide to that service provider.
+
+**(iv) Aggregate Statistics**
+
+We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, our Web Site and e-mails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.
+
+**(v) Legally Compelled Disclosures**
+
+We may disclose Personal Information to government authorities, and to other third parties when compelled to do so by government authorities, at our discretion, or otherwise as required or permitted by law, including but not limited to in response to court orders and subpoenas. We also may disclose Personal Information when we have reason to believe that someone has committed, or will commit, unlawful acts or acts that endanger the health or safety of another; is causing injury to, or interference with, our rights or property, other users of the Web Site, or anyone else that could be harmed by such activities. In some situations, we may share your Personal Information, on a confidential basis, with third parties who perform a particular service on our behalf, such as sending e-mails.
+
+**(vi) Business Transfer**
+
+In the event that the Web Site, or substantially all of its assets, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, Personal Information may be one of the transferred assets.
+
+**(viii) Third Party Ad Servers**
+
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**E. Right to Opt-out**
+
+You have the right to “opt-out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Web Site, you may have the opportunity to elect to, or not to: (1) receive correspondence from us, or (2) have your Personal Information shared with other entities affiliated or unaffiliated with the Web Site for their marketing purposes. You may also make this request by sending an e-mail to info@chipchick.com and indicating that you opt not to receive any marketing correspondence from us or from affiliated and unaffiliated entities. In this e-mail, please indicate whether you would like to opt-out of (i) receiving any correspondence from us or from entities affiliated with us or unaffiliated third parties for their marketing purposes; or (ii) (selectively identify opt-out options, eg., receipt of promotional correspondence, e-newsletters or correspondence, sharing of Personal Information with entities affiliated with you for their marketing purposes, sharing of Personal Information with unaffiliated third parties for their marketing purposes, etc.)
+
+Please understand that if you opt-out of receiving correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. Also, a request to have us stop sharing your Personal Information with other entities for marketing purposes will apply as of the date that is ten (10) business days after our receipt of your request, and we will not be responsible for any communications that you may receive from entities that received your Personal Information prior to such request. In these cases, please contact that entity directly.
+
+**F. Security**
+
+**1\. General**
+
+No transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under the control of the Web Site to intercept or access transmissions or private communications unlawfully, including in the case of your contacting us by e-mail or a “contact us” or similar feature on our Web Site. Accordingly, though the Web Site may take reasonable steps to protect the security and integrity of all Personal Information provided to this Web Site, due to the inherent nature of the internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers. Any such transmission is done at your own risk.
+
+You may be able to create an account on our Web Site with a username and password. If so, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any access to or use of the Web Site by you or any person or entity using your password, whether or not such access or use has been authorized by or on behalf of you, and whether or not such person or entity is your employee or agent. You agree to (a) immediately notify the Web Site of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session. It is your sole responsibility to control the dissemination and use of your password, control access to and use of your account, and notify the Web Site when you desire to cancel your account on this Web Site. We will not be responsible or liable for any loss or damage arising from your failure to comply with this provision.
+
+We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
+
+In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail or by other means as required by law. You consent to our use of e-mail as a means of such notification.
+
+**2\. Phishing**
+
+With identity theft a continuing problem, it has become increasingly common for unauthorized individuals to send e-mail messages to consumers, purporting to represent a legitimate company such as a bank or on-line merchant, requesting that the consumer provide personal, often sensitive information. Sometimes, the domain name of the e-mail address from which the e-mail appears to have been sent, and the domain name of the web site requesting such information, appears to be the domain name of a legitimate, trusted company. In reality, such sensitive information may be collected by an unauthorized individual to be used for purposes of identity theft. This illegal activity has come to be known as “phishing.”
+
+If you receive an e-mail or other correspondence requesting that you provide any sensitive information (including your Web Site password or credit card information) via e-mail or to a web site that does not seem to be affiliated with our Web Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at info@chipchick.com
+
+**G.** **Children**
+
+The Web Site is not intended for use by children under the age of 13 or for children between the ages of 13 and 17, except in accordance with the Terms of Use. No one under age 13 is authorized to provide any Personal Information or use our public discussion areas, forums and chat rooms. The Web Site does not knowingly collect Personal Information from children under the age of 13.
+
+**H. Wireless Addresses**
+
+If the e-mail address you provide to us is a wireless e-mail address, you agree to receive messages at such address from the Web Site or entities affiliated with the Web Site (unless and until you have elected not to receive such messages by following the instructions in the [Right to Opt-out ](https://docs.google.com/a/chipchick.com/document/d/1zzcX2NXk4oDbSBqVLpPbA5Cl77ZSTtEbeQotUozcaxo/edit#bookmark=id.30j0zll)section above). You understand that your wireless carrier’s standard rates apply to these messages, and that you may change your mind at any time by following the instructions in the [Right to Opt-out ](https://docs.google.com/a/chipchick.com/document/d/1zzcX2NXk4oDbSBqVLpPbA5Cl77ZSTtEbeQotUozcaxo/edit#bookmark=id.30j0zll)section above. ** ** You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.
+
+**I. Third Party “Linked-To” Web Sites**
+
+When you are on our Web Site you may have the opportunity to visit, or link to, other web sites not operated by the Web Site, including other web sites operated by our affiliates, by service vendors, or by unaffiliated third parties. These web sites may collect personal information about you. The Web Site does not control web sites that are operated by these entities and is not responsible for the information practices of these web sites. This Privacy Policy does not address the information practices of those other web sites. The privacy policies of web sites operated by other affiliates of the Web Site are located on those web sites.
+
+**J. Miscellaneous**
+
+**(i) Consent to Processing**
+
+We control and operate the Web Site from our offices in the [COUNTRY OF HOSTING]. By providing Personal Information to this Web Site, you understand and consent to such collection, maintenance, processing and transfer of such information. We do not represent that materials on the Web Site are appropriate or available for use in other locations. Persons who choose to access the Web Site from other locations do so on their own initiative, and are responsible for compliance with local laws, if and to the extent local laws are applicable. All parties to this Privacy Policy waive their respective rights to a trial by jury.
+
+**(ii) Your Access Rights**
+
+You may review the Personal Information that is stored in your user account on this Web Site by visiting the ["Member Profile"] or equivalent area of your account on this Web Site or by e-mailing info@chipchick.com.
+
+**(iii) Changes to this Privacy Policy**
+
+The Web Site reserves the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of this Web Site by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to this Web Site. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of our Web Site or sending you an e-mail.
+
+**(iv) Contact Us**
+
+If you have any questions or comments regarding our privacy practices, you may contact us at info@chipchick.com.
+
+**Effective Date: September 1, 2012**
 
 **Contact Information**  
 If you have any questions regarding our privacy policy, please [contact us](http://www.chipchick.com/contact_us).
 
+  
   
 
