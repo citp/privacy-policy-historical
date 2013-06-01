@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unstoppableprofits.com privacy policy that was archived on 2012-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120411200030id_/http%3A//unstoppableprofits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unstoppableprofits.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601071831id_/http%3A//unstoppableprofits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Unstoppable Profits
 
@@ -69,13 +69,11 @@ Australia
 
 **CALIFORNIA PRIVACY RIGHTS**
 
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to support[at]unstoppableprofits.com or write us at the following address:
+If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please submit a ticket at [http://help.unstoppableprofits.com](http://help.unstoppableprofits.com/) or write us at the following address:
 
 Unstoppable Profits Pty Ltd  
-PO Box 295  
-Rosebery, NSW 1445  
+PO Box 237  
+Enmore, NSW 2042  
 Australia
 
-This privacy policy was last updated on 02-07-2012.
-
-Copyright © 2008-2012 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at www.UnstoppableProfits.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+This Earning Disclaimer was last updated on March 6th, 2013.
