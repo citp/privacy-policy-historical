@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ppa.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123213442id_/http%3A//www.ppa.com/about/ppa-privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppa.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601095335id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670) for the most accurate reproduction.*
 
-# PPA Privacy Policy | Professional Photographers of America
+# PPA Privacy Policy | PPA
 
 **PPA PRIVACY STATEMENT**  
 Last updated July 13, 2012
@@ -8,14 +8,14 @@ Last updated July 13, 2012
 Thank you for visiting PPA.com, the Web site of Professional Photographers of America (PPA). Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used at this PPA site.
 
 **The Information We Collect**   
-At PPA.com, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online blogs, forums, or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
+At PPA.com, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online blogs, forums, or communities. The types of personally identifiable information that may be collected at these pages include: name, address, email address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
 
 In certain areas of PPA.com, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.
 
 We also may collect certain non-personally identifiable information when you visit many of our Web pages such as the type of browser you are using (e.g., Firefox, Internet Explorer, Safari, Netscape), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS) and the domain name of your Internet service provider (e.g., AOL, AT&T, Earthlink).
 
 **PPA Membership Data**   
-PPA membership information, including address, phone number and e-mail, is directly available to the public via the Find-a-Photographer search engine on PPA.com, and is published in the annual PPA Membership Directory.
+PPA membership information, including address, phone number and email, is directly available to the public via the Find-a-Photographer search engine on PPA.com, and is published in the annual PPA Membership Directory.
 
 **How We Use the Information**  
 PPA may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs, or services that we believe may be of interest to you.
@@ -32,12 +32,12 @@ We may disclose personally identifiable information in response to legal process
 
 PPA may disclose personally identifiable information to companies whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses either at the point of submission of your personally identifiable information or prior to any such disclosure.
 
-We may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you have signed up to receive our e-mails and prefer not to receive marketing information from this site, follow the "unsubscribe" instructions provided on any marketing e-mail you receive from this site.
+We may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you have signed up to receive our emails and prefer not to receive marketing information from this site, follow the "unsubscribe" instructions provided on any marketing email you receive from this site.
 
 Finally, PPA will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
 **Cookies & Web Beacons**  
-To enhance your experience with PPA.com, many of our Web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering and creating a user profile on the site. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
+To enhance your experience with PPA.com, many of our Web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your email address or other personally identifiable information unless you choose to provide this information to us by, for example, registering and creating a user profile on the site. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
 We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our Web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.
 
@@ -54,13 +54,13 @@ We have put in place appropriate physical, electronic, and managerial procedures
 **How You Can Access or Correct Information**  
 Access to personally identifiable information that is collected from our sites may be accessible for a limited period of time from the point of collection. For example, if you created a password-protected account within our site, you can access that account to review the information you provided.
 
-You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for said service.
+You may also send an email or letter to the following email or street address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, email address and the password you use for said service.
 
 Professional Photographers of America   
 Marketing & Communications Department  
 229 Peachtree Street NE, Suite 2200   
 Atlanta, Georgia  30303  
-E-mail: [csc@ppa.com](mailto:csc@ppa.com)
+email: [csc@ppa.com](mailto:csc@ppa.com)
 
 **How to Contact Us**  
 If you have any questions or concerns about the online privacy statement for this site or its implementation you may contact us at [csc@ppa.com](mailto:csc@ppa.com).
