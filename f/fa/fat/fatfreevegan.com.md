@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the fatfreevegan.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183905id_/http%3A//www.fatfreevegan.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatfreevegan.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602015450id_/http%3A//www.fatfreevegan.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # FatfreeVegan.Com Privacy Policy
 
 > **Fatfree Vegan Recipes** and **FatFree Vegan Kitchen** are owned and operated by Susan Voisin.  Your privacy on the Internet is of the utmost importance to me, and I want to make your experience online satisfying and safe.
 > 
-> **Fatfree Vegan Recipes** makes available recipes submitted by site visitors as well as recipes in the archives of public email mailing lists and internet message boards.  Many recipes posted on [FatFreeVegan.com](http://fatfreevegan.com/) are original, but others are already freely available elsewhere on the internet; we make every attempt to assign authorship to recipes when it is known and to provide a link to the original recipe whenever possible.  If your recipe appears on FatFreeVegan.com without your permission, please contact the webmaster at ADMIN (at) FATFREEVEGAN (dot) COM and request that the recipe be removed. All reasonable efforts will be made to honor such requests.
-> 
-> Please remember that anything you disclose by posting to mailing lists or forums becomes publicly available and you should exercise caution when you participate. If you post to a mailing list or group such as YahooGroups, your email address is available to other members of the list, but it will not be published on this site unless you ask us to include it. 
+> **Fatfree Vegan Recipes** makes available recipes submitted by site members as well as recipes in the archives of the Fatfree_Vegan email list.  Members are asked to post only their own original recipes, and we make every attempt to assign authorship to recipes when it is known.  If your recipe appears on FatFreeVegan.com without your permission, please contact the webmaster at ADMIN (at) FATFREEVEGAN (dot) COM and request that the recipe be removed. All efforts will be made to honor such requests.
 > 
 > If you wish to retract information that you have posted directly to this site, please contact the webmaster at ADMIN (at) FATFREEVEGAN (dot) COM and request that the information you have posted be removed. All reasonable efforts will be made to honor such requests.
 > 
