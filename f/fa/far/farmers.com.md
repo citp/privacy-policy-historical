@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmers.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122050258id_/https%3A//www.farmers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmers.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601081721id_/http%3A//www.farmers.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Farmers Insurance
 
@@ -20,7 +20,8 @@ We collect certain information ("nonpublic personal information") about you and 
 
   * Information we receive from you on applications or other forms, such as your social security number, assets, income, and property information; 
   * Information about your transactions with us, our affiliates or others, such as your policy coverage, premiums, and payment history; 
-  * Information we receive from a consumer reporting agency or insurance support organization, such as motor vehicle records, credit report information and claims history; and 
+  * Information we receive from a consumer reporting agency or insurance support organization, such as motor vehicle records, credit report information and claims history; 
+  * Information from your visits to farmers.com or other websites we operate, use of our mobile sites and applications, use of our social media sites, and interactions with our online advertisements; and 
   * If you obtain a life, long-term care or disability product, information we receive from you, medical professionals who have provided care to you and insurance support organizations, regarding your health.
 
 
@@ -130,4 +131,4 @@ We also recommend you read the section called Legal Disclaimer. The Legal Discla
 
 Farmers makes no active effort to collect personal information from children and does not wish to receive any such information.
 
-Effective Date: October 25, 2011
+Effective Date: February 20, 2013
