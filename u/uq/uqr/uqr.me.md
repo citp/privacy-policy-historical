@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uqr.me privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216204140id_/http%3A//uqr.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uqr.me privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601050735id_/http%3A//uqr.me/privacy) for the most accurate reproduction.*
 
 # Privacy - uQRme - QR code generator and mobile landing page builder
 
