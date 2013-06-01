@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fidelity-media.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223062610id_/http%3A//fidelity-media.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidelity-media.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601223026id_/http%3A//fidelity-media.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Fidelity Media Advertising Network – Brand Safe Remnant Traffic Network
 
