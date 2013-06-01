@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xbox-experts.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108091407id_/http%3A//xbox-experts.com/index.php%3Fn%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xbox-experts.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601193357id_/http%3A//xbox-experts.com/index.php%3Fn%3Dprivacy) for the most accurate reproduction.*
 
 # Xbox-experts.com - Privacy Policy
 
