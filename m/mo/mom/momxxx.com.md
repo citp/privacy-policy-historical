@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momxxx.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111192244id_/http%3A//www.momxxx.com/tour/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momxxx.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601065230id_/http%3A//momxxx.com/tour/privacy.html) for the most accurate reproduction.*
 
 # MomXXX.Com
 
