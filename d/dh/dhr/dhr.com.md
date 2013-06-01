@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhr.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127055127id_/http%3A//www.dhr.com/customercare/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhr.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601104533id_/http%3A//www.dhr.com/customercare/privacy.php) for the most accurate reproduction.*
 
 # DHR.com - Customer Care : Privacy
 
@@ -25,7 +25,7 @@ This site requires that customers share personal and/or financial information in
 |   
 ---  
 | Telephone numbers may be used to contact customers in case of an urgent need relating to an existing reservation or request for services.  
-| E-mail addresses are stored and never shared. E-mail addresses are used to inform our customers of offers including newsletters which are most likely to be of interest to them. With respect to this use of personal information, if you don't want to receive any future promotions or updates from DHR.com please [click here](http://www.dhr.com/memberlogin.php "click here") and log in to update your account information.  
+| E-mail addresses are stored and never shared. E-mail addresses are used to inform our customers of offers including newsletters which are most likely to be of interest to them. With respect to this use of personal information, if you don't want to receive any future promotions or updates from DHR.com please [click here](https://web.archive.org/memberlogin.php "click here") and log in to update your account information.  
         
   
 ---  
