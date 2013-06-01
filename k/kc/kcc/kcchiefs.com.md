@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcchiefs.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230180503id_/http%3A//www.kcchiefs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcchiefs.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601173205id_/http%3A//www.kcchiefs.com/privacy-policy.html) for the most accurate reproduction.*
 
 # KCChiefs.com | Privacy and Security Statement
 
@@ -138,11 +138,3 @@ Kansas City, MO 64129
 Questions About This Privacy Policy
 
 If you have any questions about this privacy policy or the privacy practices of this Website, contact [questions@kcchiefs.com](mailto:questions@kcchiefs.com).
-
-Questions regarding this statement should be directed to:
-
-Lance Brown  
-Attn: Website Privacy Policy  
-Kansas City Chiefs  
-1 Arrowhead Drive  
-Kansas City, MO 64129
