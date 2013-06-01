@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clark.edu privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104153834id_/http%3A//www.clark.edu/about_clark/policies/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clark.edu privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601205513id_/http%3A//www.clark.edu/about_clark/policies/privacy_policy.php) for the most accurate reproduction.*
 
 # About Clark- Clark College Public Records Privacy Protection Policy
 
