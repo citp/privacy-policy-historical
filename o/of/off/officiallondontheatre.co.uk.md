@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the officiallondontheatre.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230191552id_/http%3A//www.officiallondontheatre.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officiallondontheatre.co.uk privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601053446id_/http%3A//www.officiallondontheatre.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Official London Theatre
 
-The Society of London Theatre is the trading name of West End Theatre Managers Limited, a company registered in England and Wales (company number: 527227) whose registered office is at 32 Rose Street, London, WC2E 9ET ("SOLT"). SOLT is committed to safeguarding the privacy of all visitors to www.officiallondontheatre.co.uk (the "Site").
+Society of London Theatre is a company registered in England and Wales (company number: 527227) whose registered office is at 32 Rose Street, London, WC2E 9ET ("SOLT"). SOLT is committed to safeguarding the privacy of all visitors to www.officiallondontheatre.co.uk (the "Site").
 
 This Privacy Policy (together with our Terms and Conditions) sets out the basis on which any personal data we collect from you or that you provide to us, will be processed by us. Please read the following Privacy Policy to understand how we use and protect the information that you provide to us.
 
 ### 1\. Contacting SOLT
 
-For the purpose of the Data Protection Act 1998 (the "Act"), the data controller in respect of any personal data that you submit to us on our Site is West End Theatre Managers Limited. If you want to know what information we hold about you or if you have any other queries in relation to this Privacy Policy, our contact details are as follows:
+For the purpose of the Data Protection Act 1998 (the "Act"), the data controller in respect of any personal data that you submit to us on our Site is Society of London Theatre. If you want to know what information we hold about you or if you have any other queries in relation to this Privacy Policy, our contact details are as follows:
 
 Postal Address:  
 32 Rose Street  
