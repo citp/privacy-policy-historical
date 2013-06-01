@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 12designer.com privacy policy that was archived on 2012-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121124215915id_/http%3A//www.12designer.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 12designer.com privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601045230id_/http%3A//www.12designer.com/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" slick-uniqueid="1"><head>
 <meta http-equiv="language" content="en">
@@ -29,71 +29,101 @@
 
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/mootools-core.js?1318335263"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_GB/all.js"></script><script type="text/javascript" src="/js/mootools-core.js?1318335263"></script>
 <script type="text/javascript" src="/js/mootools-more.js?1318335263"></script>
 <script type="text/javascript" src="/js/lib.js?1307631479"></script>
 <script type="text/javascript" src="/js/notimoo-v1.2.1.js?1345117885"></script>
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_GB/all.js"></script></head>
+</head>
 <body>
+    	    <div id="fb-root"></div>
+    <script type="text/javascript">
 
+    
+    
+      function addParameterToURL(url, parameter, value){
+          url += (url.split('?')[1] ? '&':'?') + parameter + '=' + value;
+          return url;
+      }
+    
+	  function facebookLogin(accessToken) {
+		  				
+				// do login
+				new Request.JSON({
+	  				url: '/en/user/loginFacebook/',
+	  				noCache: 'true',
+		  			onSuccess: function(responseText){
+		  	  			if(responseText.success) {
+							// reload current page - prevents POST reload
+							url = addParameterToURL(window.location.href, 'fb', 'true');
+							url = addParameterToURL(url, 'noCache', '1370062350');
+		  	  				window.location.href = url;
+		  	  			} else {
+			  	  			if(responseText.retry) {
+				  	  			// retry - reload current page
+								url = addParameterToURL(window.location.href, 'noCache', '1370062350');
+		  	  					window.location.href = url;
+			  	  			} else {
+								// redirect to facebook register page
+		  	  					window.location.href = 'http://www.12designer.com/en/register/?fb=true';
+			  	  			}
+		  	  			}
+				    }}).post({'time': '1370062350', 'accessToken': accessToken });
+		    	  }
+	      
+	  window.fbAsyncInit = function() {
+	    FB.init({appId: '185418101500442', channelUrl: "//www.12designer.com/channel.html", status: true, cookie: true, xfbml: true});
 
-<div style="margin: 0px; position: static; overflow: hidden; height: 29px;"><div id="recommend_box" style="background-color: rgb(0, 0, 0); display: block; margin: 0px; overflow: hidden;">
-	<div style="color: #FFFFFF;width:940px;margin: 0 auto;text-align: right;padding: 4px 0px 4px 0px;font-weight: bold;">
-	
-	
-		<div style="float:right;margin-left:15px;">
-			<a href="#" id="recommend_box_slideout"><img src="/images/_12d_b_close.png" alt="recommend close" style="cursor:pointer;background-color: #FFD136;padding:2px;"></a>
-		</div>
-		
-		<div style="float:right;margin-top:1px;">
-			<span>Recommend 12designer and get a 20 € Amazon voucher!</span>
-			<a href="/en/recommend/" style="color:#FFFFFF;margin-left:5px;">Recommend us</a>
-		</div>
-		
-		<div style="clear:right;"></div>
-	</div>
-</div></div>
+		FB.getLoginStatus(function(response) {
+			  if (response.status === 'connected') {
+				    // the user is logged in and connected to your
+				    // app, and response.authResponse supplies
+				    // the user’s ID, a valid access token, a signed
+				    // request, and the time the access token 
+				    // and signed request each expire
+		    		if($('fb-login')) {
+						// connected --> 12d login
+						//alert("getLoginStatus");
+						//var accessToken = response.authResponse.accessToken;
+						//facebookLogin(accessToken);
+		  			} else {
+		  				//alert("Successfully connected with facebook");
+		  	  			// connected to facebook and logged in
+		  	  					  			}
+			   } else {
+				    // the user is logged in to Facebook, but not connected to the app
+				    // OR the user isn't even logged in to Facebook.
+				  	if($('fb-login')) {
+  		  				$('fb-login').setStyle('display','block');
+  		  			}
+			   } 
 
-<script type="text/javascript">
-<!--
+		});
 
+  		// logout button
+  		if($('logoutLink')) {
+		    		}
+  		
+  		  			  		FB.Event.subscribe('auth.statusChange', function(response) {
+	  			//alert("statusChange");
+	  			if (response.authResponse) {
+	  										// connected --> 12d login
+						
+						var accessToken = response.authResponse.accessToken;
+						
+						facebookLogin(accessToken);
+						  			}
+	  		});	
+  		  		
+	  };
 
-window.addEvent('domready', function() {
-
-	var recommendSlide = new Fx.Slide('recommend_box', {duration:700}).hide();
-	$('recommend_box').setStyle('display', 'block');
-	
-
-	recommendSlide.slideIn();
-
-	$('recommend_box_slideout').addEvent('click', function(event){
-	    event.stop();
-	    recommendSlide.slideOut();
-	    removeRecommendTeaser();
-	  });
-	
-});
-
-function removeRecommendTeaser(){
-	var jsonRequest = new Request.JSON({
-		url: "/en/user/removeRecommendTeaser/", 
-		method: 'post',
-		onSuccess: function(){
-		}
-	}).send();
-}
-
-
-
-
-
-
-
-
-
-
-//-->
-</script>
+      (function(d){
+          var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0]; 
+          if (d.getElementById(id)) {return;}
+          js = d.createElement('script'); js.id = id; js.async = true;
+          js.src = "//connect.facebook.net/en_GB/all.js";
+          ref.parentNode.insertBefore(js, ref);
+        }(document));	  
+	</script>
 
 <div id="container">
 
@@ -101,8 +131,8 @@ function removeRecommendTeaser(){
   <div id="quicksummary">
   	
         
-	    <div id="fb-login" style="display: none; float: left;">
-		    		    	<div class="fb-login-button" data-scope="email" style="float: left; display: block;">Log in with facebook</div>
+	    <div id="fb-login" style="display: none; float: left;width:155px;">
+		    		    	<div class="fb-login-button" show-faces="false" scope="email" size="medium" style="float: left; display: block;">Log in with facebook</div>
 		    		    <div class="delimiter" style="float: left; display: block;margin-top: 3px;">|</div>
 	    </div>
 
@@ -116,7 +146,7 @@ function removeRecommendTeaser(){
         <div style="float: left; padding: 4px;">
 		<span class="delimiter">|</span> 
 		
-	    <a href="/en/how-it-works/">How it works</a>
+	    <a href="/en/how-it-works/" title="How 12designer works">How it works</a>
 	    
 	    		    <span class="delimiter">|</span> 
 						    <a onclick="displayElement('languageForm')" style="cursor:pointer;" rel="nofollow">Language</a>
@@ -133,6 +163,7 @@ function removeRecommendTeaser(){
 					</div>
 				</div>
 	    				</div>
+	
   </div>  
   <!-- linking logo (home) -->
   <a href="/en/" title="illustrations, designs, ideas, design house"><img src="/images/en/_12d_header.png" alt="create, design, contest" name="logo" border="0" height="68"></a>
@@ -146,11 +177,11 @@ function removeRecommendTeaser(){
       
       <div style="position: relative;height:44px;">
     <ul class="linklist">
-    	      	<li class="yellow"><a href="/en/project/new/">New project</a></li>
+    	      	<li class="yellow"><a title="New project" href="/en/project/new/">New project</a></li>
     
-      	<li><a href="/en/project/">131 Projects</a></li>
+      	<li><a title="124 Projects" href="/en/project/">124 Projects</a></li>
       
-      	<li><a href="/en/community/">24802 Creatives</a></li>
+      	<li><a title="28056 Creatives" href="/en/community/">28056 Creatives</a></li>
       
       
 
@@ -289,27 +320,26 @@ function removeRecommendTeaser(){
         
         		
 
-        <li><a href="/en/press.html" title="press design">Press</a></li>
-                <li><a href="/en/contact.html">Contact</a></li>
-        <li><a href="/en/contact/feedback/">Feedback to 12designer</a></li>
+        <li><a href="/en/press.html" title="Press">Press</a></li>
+                <li><a href="/en/contact.html" title="Contact">Contact</a></li>
+        <li><a href="/en/contact/feedback/" title="Feedback to 12designer">Feedback to 12designer</a></li>
        
-        <li><a href="/en/recommend/">Recommend 12designer</a></li>
-        </ul>
+               </ul>
 
       <!-- clear footer -->
       
 	      <ul class="secondlevelfoot">
-	      	<li><a href="/en/logo-design/">Logo design</a><span class="delimiter">|</span></li>
-	      	<li><a href="/en/flyer-design/">Flyer design</a><span class="delimiter">|</span></li>
-	      	<li><a href="/en/website-design/">Website design</a><span class="delimiter">|</span></li>
-	      		      	<li><a href="/en/corporate-design/">Corporate design</a><span class="delimiter">|</span></li>
-	      	<li><a href="/en/letter-paper/">Letter paper</a><span class="delimiter">|</span></li>
-	      	<li><a href="/en/stationery/">Stationery</a><span class="delimiter">|</span></li>
-	      		      	<li><a href="/en/banner-design/">Banner design</a><span class="delimiter">|</span></li>
-	      	<li><a href="/en/naming/">Naming</a></li>
+	      	<li><a href="/en/logo-design/" title="Logo design">Logo design</a><span class="delimiter">|</span></li>
+	      	<li><a href="/en/flyer-design/" title="Flyer design">Flyer design</a><span class="delimiter">|</span></li>
+	      	<li><a href="/en/website-design/" title="Website design">Website design</a><span class="delimiter">|</span></li>
+	      		      	<li><a href="/en/corporate-design/" title="Corporate design">Corporate design</a><span class="delimiter">|</span></li>
+	      	<li><a href="/en/letter-paper/" title="Letter paper">Letter paper</a><span class="delimiter">|</span></li>
+	      	<li><a href="/en/stationery/" title="Stationery">Stationery</a><span class="delimiter">|</span></li>
+	      		      	<li><a href="/en/banner-design/" title="Banner design">Banner design</a><span class="delimiter">|</span></li>
+	      	<li><a href="/en/naming/" title="Naming">Naming</a></li>
 	      </ul>
 	      <ul class="secondlevelfoot" style="margin: 10px 0px 0px 0px;">
-	        <li><a href="/en/imprint.html">Imprint</a><span class="delimiter">|</span></li>
+	        <li><a href="/en/imprint.html" title="">Imprint</a><span class="delimiter">|</span></li>
 	        <li><a href="/en/terms.html" title="">Terms and conditions</a><span class="delimiter">|</span></li>
 	        <li><a href="/en/privacy-policy/" title="">Privacy policy</a><span class="delimiter">|</span></li>
 	        <li><a href="/en/fees.html" title="">Fees</a><span class="delimiter">|</span></li>
@@ -351,95 +381,8 @@ function removeRecommendTeaser(){
 
 
 
-	    <div id="fb-root"></div>
-    <script type="text/javascript">
 
-    
-    
-      function addParameterToURL(url, parameter, value){
-          url += (url.split('?')[1] ? '&':'?') + parameter + '=' + value;
-          return url;
-      }
-    
-	  function facebookLogin(accessToken) {
-		  				
-				// do login
-				new Request.JSON({
-	  				url: '/en/user/loginFacebook/',
-	  				noCache: 'true',
-		  			onSuccess: function(responseText){
-		  	  			if(responseText.success) {
-							// reload current page - prevents POST reload
-							url = addParameterToURL(window.location.href, 'fb', 'true');
-							url = addParameterToURL(url, 'noCache', '1353794355');
-		  	  				window.location.href = url;
-		  	  			} else {
-			  	  			if(responseText.retry) {
-				  	  			// retry - reload current page
-								url = addParameterToURL(window.location.href, 'noCache', '1353794355');
-		  	  					window.location.href = url;
-			  	  			} else {
-								// redirect to facebook register page
-		  	  					window.location.href = '/en/register/?fb=true';
-			  	  			}
-		  	  			}
-				    }}).post({'time': '1353794355', 'accessToken': accessToken });
-		    	  }
-	      
-	  window.fbAsyncInit = function() {
-	    FB.init({appId: '185418101500442', status: true, cookie: true, xfbml: true, oauth: true});
-
-		FB.getLoginStatus(function(response) {
-			  if (response.status === 'connected') {
-				    // the user is logged in and connected to your
-				    // app, and response.authResponse supplies
-				    // the user’s ID, a valid access token, a signed
-				    // request, and the time the access token 
-				    // and signed request each expire
-		    		if($('fb-login')) {
-						// connected --> 12d login
-						//alert("getLoginStatus");
-						//var accessToken = response.authResponse.accessToken;
-						//facebookLogin(accessToken);
-		  			} else {
-		  				//alert("Successfully connected with facebook");
-		  	  			// connected to facebook and logged in
-		  	  					  			}
-			   } else {
-				    // the user is logged in to Facebook, but not connected to the app
-				    // OR the user isn't even logged in to Facebook.
-				  	if($('fb-login')) {
-  		  				$('fb-login').setStyle('display','block');
-  		  			}
-			   } 
-
-		});
-
-  		// logout button
-  		if($('logoutLink')) {
-		    		}
-  		
-  		  			  		FB.Event.subscribe('auth.statusChange', function(response) {
-	  			//alert("statusChange");
-	  			if (response.authResponse) {
-	  										// connected --> 12d login
-						
-						var accessToken = response.authResponse.accessToken;
-						
-						facebookLogin(accessToken);
-						  			}
-	  		});	
-  		  		
-	  };
-
-      (function(d){
-          var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-          js = d.createElement('script'); js.id = id; js.async = true;
-          js.src = "//connect.facebook.net/en_GB/all.js";
-          d.getElementsByTagName('head')[0].appendChild(js);
-        }(document));	  
-	</script>
-    <!-- r13534 -->
+    <!-- r13967 -->
 
     <!-- clear footer -->
     <div style="clear:both"></div>
