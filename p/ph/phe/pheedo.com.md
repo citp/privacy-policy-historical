@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pheedo.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201004727id_/http%3A//site.pheedo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pheedo.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601094124id_/http%3A//site.pheedo.com/privacy-policy) for the most accurate reproduction.*
 
 # — Privacy Policy
 
@@ -55,9 +55,3 @@ Our Site contains links to other websites. The fact that we link to a website is
 **Our Policy Towards Children**
 
 The Site is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at privacy at pheedo dot com. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
-
-### Questions and Suggestions
-
-If you have questions or suggestions, please [contact us online](http://site.pheedo.com/contact/ "Contact Pheedo") or mail to:
-
-Pheedo Customer Care – Privacy Policy Issues 492 Ninth Street, Suite 230 Oakland, CA 94607
