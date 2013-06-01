@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the freedom2surf.net privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225140200id_/http%3A//www.opal.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom2surf.net privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601152937id_/http%3A//www.talktalkbusiness.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Opal
+# Privacy Policy | TalkTalk Business
 
-**Opal is committed to preserving the privacy of all its customers and visitors to www.opal.co.uk Please read the following privacy policy to understand how we use and protect the information you provide to us.**
+**TalkTalk Business is committed to preserving the privacy of all its customers and visitors to[www.talktalkbusiness.co.uk](http://www.talktalkbusiness.co.uk/) Please read the following privacy policy to understand how we use and protect the information you provide to us.**
 
-Download our [Privacy Policy](https://web.archive.org/Documents/Legal/Privacy%20Policy.pdf) 
+Download our [Privacy Policy](https://web.archive.org/elqNow/elqRedir.htm?ref=http://www.talktalkbusiness.co.uk/Documents/Legal/Privacy%20Policy.pdf)
 
-##### About Opal
+##### About TalkTalk Business
 
-Opal is part of the TalkTalk Group, the UK’s third largest communications network operator. Opal provides business grade services to the UK market place across two direct sales channels with a wholesale division covering the reseller and dealer market places. Opal is a leading player in the development and delivery of next generation IP based converged voice and data services.
+TalkTalk Business is part of the TalkTalk Group, the UK’s third largest communications network operator. TalkTalk Business provides business grade services to the UK market place across two direct sales channels with a wholesale division covering the reseller and dealer market places. TalkTalk Business is a leading player in the development and delivery of next generation IP based converged voice and data services.
 
-This Privacy Policy covers all of the Opal Group of companies being Opal Telecom Limited (3849133) Opal Connect Limited (5727462) (both registered at Stanford House, Garrett Field, Birchwood, Warrington WA3 7BH); and Opal Business Solutions Limited (59909281) (registered at 11 Evesham Street, London W11 4AR).
+This Privacy Policy covers all of the TalkTalk Group of companies including TalkTalk Communications Limited (3849133) registered at Stanford House, Garrett Field, Birchwood, Warrington WA3 7BH.
 
 ##### By using this website you are consenting to this privacy policy
 
-When you register for information or place an order with Opal, we may need to collect certain information in order to provide the information you have requested or to process your order. What we need varies depending on the type of enquiry you make and/or what you have ordered, and the pages you are asked to complete will vary accordingly. This information is sent to us via an SSL encrypted server and will form part of a permanent record of your dealings with us.
+When you register for information or place an order with TalkTalk Business, we may need to collect certain information in order to provide the information you have requested or to process your order. What we need varies depending on the type of enquiry you make and/or what you have ordered, and the pages you are asked to complete will vary accordingly. This information is sent to us via an SSL encrypted server and will form part of a permanent record of your dealings with us.
 
 When you e-mail us, we may ask for certain information to be able to confirm your identity, check our records and answer your questions quickly and accurately. When you contact us, in any way, we may make a note of this contact if it is relevant to your permanent records. This allows us to provide a higher level of ongoing customer care.
 
@@ -22,7 +22,7 @@ We will keep your personal details given to us by you or others during your rela
 
 ##### This information may include:
 
-  * Details you give us via the Opal website, on application forms or by e-mail or during conversations with you on the telephone or face to face with one of your representatives.
+  * Details you give us via the TalkTalk Business website, on application forms or by e-mail or during conversations with you on the telephone or face to face with one of your representatives.
   * Details you give us so that we can provide you with goods and services.
   * Details we receive from another source, such as our suppliers, marketing organisations, and credit reference or fraud detection agencies.
 
@@ -45,7 +45,7 @@ We will keep your personal details given to us by you or others during your rela
 
 When assessing an application, we may use automated decision making systems.
 
-Where you have been introduced to Opal by an authorised dealer of Opal you agree that Opal and your dealer shall be entitled to view your account information from time to time for the purposes of maintaining your account and improving the services we provide to you.
+Where you have been introduced to TalkTalk Business by an authorised dealer of TalkTalk Business you agree that TalkTalk Business and your dealer shall be entitled to view your account information from time to time for the purposes of maintaining your account and improving the services we provide to you.
 
 If you do not become our customer or if your application is declined we will continue to hold information about you for such periods as we determine for the purpose of dealing with enquiries, complying with any legal obligation and for crime and fraud prevention and detection.
 
@@ -65,7 +65,9 @@ From time to time these other people and organisations may be outside the Europe
 
 ##### Use of Cookies
 
-This website uses cookies. Cookies collect information about your use of the website, including things like your connection speed, details of your operating system, the time and duration of your visit and your IP address. The information collected by cookies enables us to understand the use of our site, including the number of visitors we have, the pages viewed per session, time exposed to particular pages etc. This in turn helps us to provide you with a better experience, since we can evaluate the level of interest in the content of our website and tailor it accordingly. We will not attempt to personally identify you from your IP address unless required to as a matter of law or regulation or in order to protect our or our other customers' rights. Most browsers automatically accept cookies. You can set your browser options so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you refuse cookies.
+This website uses cookies. Cookies collect information about your use of the website, including things like your connection speed, details of your operating system, the time and duration of your visit and your IP address. The information collected by cookies enables us to understand the use of our site, including the number of visitors we have, the pages viewed per session, time exposed to particular pages etc. This in turn helps us to provide you with a better experience, since we can evaluate the level of interest in the content of our website and tailor it accordingly. We will not attempt to personally identify you from your IP address unless required to as a matter of law or regulation or in order to protect our or our other customers' rights.
+
+Most browsers automatically accept cookies. You can set your browser options so that you will not receive cookies and you can also delete existing cookies from your browser. If you'd like to learn how to manage these cookies and 'opt in' and 'out' of different types please see our Cookies Policy. However, you may find that some parts of the site will not function properly if you disable cookies.
 
 ##### Monitoring
 
@@ -111,7 +113,7 @@ Any decision made by us in relation to the services provided to you shall be fin
 
 If you feel we have breached your privacy, then please write to:
 
-Opal Telecom Limited  
+TalkTalk Business  
 PO Box 136  
 Birchwood  
 Warrington  
