@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squaw.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008095941id_/http%3A//www.squaw.com/privacy-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squaw.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601113340id_/http%3A//www.squaw.com/privacy-terms-conditions) for the most accurate reproduction.*
 
 # Privacy Policy | Squaw Valley
 
@@ -71,7 +71,7 @@ Squaw Valley does not seek to obtain nor does it wish to receive personally iden
 
 The Site is a U.S. site and is governed by U.S. law.  If you are located outside the United States and are accessing the Site, using the Services or providing personal information to Squaw Valley or submitting such information through the Site, please note that your personal information will be transferred, processed, and stored within the United States and may be shared in the United States, all in accordance with this Privacy Policy.  The data protection laws in the United States may be different from, and may not be as comprehensive as, those in your country. By using the Site or the Services, you are consenting to the transfer of your personal information to facilities located in the United States and the collection, use, storing and sharing of your personal information in accordance with United States laws.
 
-### **Contac Us**
+### **Contact Us**
 
 If you would like to update or correct your information, modify your communication preferences, or if you do not want to receive marketing communications from Squaw Valley in the future, you can contact us:
 
