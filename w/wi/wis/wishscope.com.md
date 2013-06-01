@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishscope.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226033845id_/http%3A//www.wishscope.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishscope.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602013504id_/http%3A//www.wishscope.com/privacy_policy) for the most accurate reproduction.*
 
 # WishScope
 
@@ -103,9 +103,9 @@ Please contact the following to make an inquiry concerning this company's Privac
 Supplementary provision  
 Enacted on November 11, 2011
 
-Zawatt Inc., PIC of the Personal Information Management  
-VOYAGE Share Office BOAT, Shibuya First Place 8F  
-8-16 Shinsencho, Shibuya, Tokyo 150-0045  
+Zawatt Inc.,  
+Meguro Westgate Bld 1-601  
+2-24-13 Kamiosaki, Shinagawa-ku, Tokyo 141−0021  
 
 
 [Here is the inquiry form.](http://zawatt.com/en/contact-us/)
