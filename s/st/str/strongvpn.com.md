@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the strongvpn.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130074932id_/http%3A//privacy-policy.truste.com/verified-policy/www.strongvpn.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongvpn.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601021834id_/http%3A//privacy-policy.truste.com/verified-policy/www.strongvpn.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.strongvpn.com
 
 Effective on December 30, 2010 
 
-This privacy statement describes how Reliablehosting.com / Strongvpn.com collects and uses the personal information you provide on our Web site: [www.strongvpn.com ](https://www.strongvpn.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Reliablehosting.com / Strongvpn.com collects and uses the personal information you provide on our Web site: [www.strongvpn.com ](http://www.strongvpn.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
