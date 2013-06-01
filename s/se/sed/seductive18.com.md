@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the seductive18.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227193310id_/http%3A//seductive18.com/%3Fref%3D%26%26page%3D_free_privacy%26itemcnt%3D%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seductive18.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601050457id_/http%3A//seductive18.com/%3Fref%3D%26%26page%3D_free_privacy%26itemcnt%3D%26) for the most accurate reproduction.*
 
-# Privacy policy
-
-Privacy Policy
+# Seductive18.com
 
 Replace or add your information in RED, where applicable:  
 Our Commitment To Privacy   
