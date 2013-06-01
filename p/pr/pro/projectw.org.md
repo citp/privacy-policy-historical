@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectw.org privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501075601id_/http%3A//www.sharingzone.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectw.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601222330id_/http%3A//www.sharingzone.net/privacy.php) for the most accurate reproduction.*
 
 # Sharingzone.net: Download your favorite games, software, movies, TV shows, music and more!
 
