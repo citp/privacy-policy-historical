@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222025346id_/http%3A//www.abcsignup.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601112824id_/http%3A//abcsignup.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy With Registration Software | ABC Signup
 
-“No more phone calls, and no more faxing in requests and manually entering them into a spreadsheet. Customers visit our website, click on the training links, fill in the information, pay for the training, receive confirmation e-mails with invoice receipts and receive our information about hotels and travel arrangements automatically.”   **Kevin, Miller Electric Welding Automation**
+"ABC Signup saved us more time than our previous software. It’s so easy to access the information and provide it to people who want it. I love that it’s so automated that we don’t have to worry about many steps. It does our thinking for us."  
+ **Jeff, Metropolitan Chicago Synod, Evangelical Lutheran Church in America**
 
 [](https://web.archive.org/customers.html)
 
