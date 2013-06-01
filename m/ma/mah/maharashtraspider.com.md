@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maharashtraspider.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002215659id_/http%3A//www.maharashtraspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maharashtraspider.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601210730id_/http%3A//www.maharashtraspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # MaharashtraSpider.com privacy policy
 
@@ -44,3 +44,10 @@ If you have any questions about this Privacy Policy or want to contact Webmaster
 Kochi. India**
 
 We would request you please provide us as much information as possible to resolve the issue. 
+
+  
+| 
+
+Talk to Webmaster Tony John  
+  
+---|---
