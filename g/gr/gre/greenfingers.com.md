@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215194628id_/http%3A//greenfingers.com/articledisplay.asp%3Fid%3D1287) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601202033id_/http%3A//greenfingers.com/articledisplay.asp%3Fid%3D1287) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,8 +7,10 @@
   
   
   
-|  |   
   
+  
+|  | 
+
 The following is for guidance only and does not affect the [Terms and Conditions](http://www.greenfingers.com/bottommenu.asp?subcategoryid=46). 
 
 Greenfingers.com is committed to protecting your privacy. We use the information we collect about you to administer your account, promote goods and services to you, and for market research purposes. We are committed to keeping your confidential information exactly that - confidential.
@@ -92,12 +94,12 @@ OUR DEAL OF THE WEEK
 ---  
 HURRY THESE DEALS DON’T LAST LONG!   
   
-[](https://web.archive.org/superstore/product.asp?dept_id=200710&pf_id=LS8429D "Christmas Tree Storage Bag") SAVE   
-36%  
+[](https://web.archive.org/superstore/product.asp?dept_id=200746&pf_id=LT0936D "Caldwell Deluxe Outdoor Fireplace") SAVE   
+57%  
   
 ---  
-| Usual Price 10.99 |  This Week Only  
-6.99  
+| Usual Price 299.99 |  This Week Only  
+129.99  
 ---|---  
   
   
