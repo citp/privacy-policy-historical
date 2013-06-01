@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the indiamart.com privacy policy that was archived on 2012-09-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120922173558id_/http%3A//www.indiamart.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indiamart.com privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601104348id_/http%3A//www.indiamart.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
@@ -10,9 +10,8 @@ document.location="mailto:support" + "@indiamart.com"; }
 <title>IndiaMART Privacy Policy</title>
 <link rel="canonical" href="http://www.indiamart.com/privacy-policy.html">
 <link href="gifs06/home-new.css" rel="STYLESHEET">
-<link href="help/dir-new.css" rel="STYLESHEET">
 <link href="/gifs06/header/header.css" rel="stylesheet" type="text/css">
-<script language="JAVASCRIPT" src="help/check.js"></script>
+<script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript">google_analytics_domain_name=".indiamart.com";</script>
 <script type="text/javascript">
 
@@ -27,6 +26,37 @@ document.location="mailto:support" + "@indiamart.com"; }
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+</script>
+
+<script type="text/javascript">
+$(window).load(function(){
+		    $.ajaxSetup({cache: false});
+		    $.get("http://utils.imimg.com/imjsv/js/imjsv.js", {}, function(data){}, 'script');
+    });
+	
+function auto_ready()
+{
+$(document).ready(function() {
+  $('#select').change(function(){
+    	  if($('#select').val() == "comp") {
+         sugg.changePlaceholder('Enter Product / Company Name to Search ...');
+      
+        }
+        else if($('#select').val() == "product") {
+		   sugg.changePlaceholder('Enter Product / Company Name to Search ...');
+	}
+	else if($('#select').val() == "tenders") {
+		     sugg.changePlaceholder('Enter keyword / company name to search preferred tenders ...');
+		}
+	else if($('#select').val() == "offer") {
+		   sugg.changePlaceholder('Enter Product / Service Offers to Search ...');
+		}
+	else if($('#select').val() == "leads") {
+		    sugg.changePlaceholder('Enter Product / Service Buy Leads to Search ...');
+		}
+ })
+     });
+}
 </script>
 </head>
 <body vlink="#0000FF" alink="#0000FF" link="#0000FF" bgcolor="#FFFFFF" topmargin="0" marginheight="0" marginwidth="0" leftmargin="0">
@@ -43,7 +73,7 @@ document.location="mailto:support" + "@indiamart.com"; }
 <li>• <a href="http://my.indiamart.com/cgi/my-listings.mp">List your Company Free</a></li>
 <li>• <a href="http://www.indiamart.com/free-website/">Create your Free Website</a></li>
 <li>• <a href="http://my.indiamart.com/eto-post-sell.html">Post Free Ads</a></li>
-<li>• <a href="http://my.indiamart.com/cgi/myproducts.mp?action=addEditItem">Display Free Products</a></li>
+<li>• <a href="http://my.indiamart.com/cgi/my-addnew-product.mp">Display Free Products</a></li>
 <li>• <a href="http://my.indiamart.com/cgi/eto-alerts-new.mp?modid=MY">Subscribe Trade Alerts</a></li>
 </ul></li> 
 <li><a href="http://www.indiamart.com/help/" class="q_p10  q_bl9">Help</a></li> 
@@ -63,18 +93,19 @@ document.location="mailto:support" + "@indiamart.com"; }
         <p><a href="http://trade.indiamart.com/buy.html">Buy Leads</a></p>
         <p><a href="http://tenders.indiamart.com/">Tenders</a></p>
         <p><a href="http://www.biztradeshows.com/">Trade Shows</a></p>
-		<p><a href="http://chinabazaar.indiamart.com/"><font class="cb">China Bazaar</font></a></p></div>
-        <form name="searchForm" action="" onsubmit="return CheckDataSearch(document.searchForm);" method="post">
-        <div class="q_srb1"> <input class="q_txb" name="ss" value="Enter Product / Company Name to Search ..." onfocus="srchb()" onblur="srchb()">
-        <select size="1" name="searchfor" class="q_slb" onchange="return searchCaption(document.searchForm);">
-        <option value="product" selected="selected">Products</option>
-        <option value="comp">Suppliers</option>
-        <option value="offer">Sell Offers</option>
-        <option value="leads">Buy Leads</option>
-        <option value="tenders">Tenders</option></select> 
+		</div>
+<form name="searchForm" action="" onsubmit="return CheckDataSearch(document.searchForm);" method="post">
+        <div class="q_srb1">
+<input class="q_txb" name="ss" id="search_string">
+<select size="1" name="searchfor" class="q_slb" id="select">
+<option value="product" selected="selected">Products</option>
+<option value="comp">Suppliers</option>
+<option value="offer">Sell Offers</option>
+<option value="leads">Buy Leads</option>
+<option value="tenders">Tenders</option></select>
 		<input type="hidden" name="search" value="">
-		<input type="SUBMIT" value="" class="q_btn"></div>
-        </form> </div>
+<input type="submit" value="" class="q_btn" id="btnSearch"></div>
+        </form></div>
 <p class="q_bt q_c3"><img src="/gifs/zero.gif" height="1" width="1" alt="Indiamart"></p>
 
     <div><br>
@@ -107,6 +138,8 @@ IndiaMART's primary goal in collecting personal or public information is to prov
 <br><br>
 In order to provide free services, IIL displays advertisements based upon the site usage statistics and visitor trends. IIL uses user's personal &amp; business information to serve targeted advertisements through its websites, newsletters and customized mailers. In addition to it, once the user's personal and business information is displayed on our network, the user may start receiving business enquiries through email, phone or normal mail, from various buyers and sellers that might or might not be of their interest. IIL does not exercise any control over its users for sending business enquiries to the listed members.
 <br><br>
+We record buying and browsing activities of our users including but not limited to their client's contact details and profiles and uses the same to provide value-added services to our users.
+<br><br>
 
 <b><font color="#004080">Sharing of Information</font></b><br>
 
@@ -117,7 +150,7 @@ IIL does not display user email addresses on marketplace to avoid extraction by 
 IIL may also disclose account information in special cases when IIL has reasons to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating IIL's Terms of Services or may be causing injury to or interference with (either intentionally or unintentionally) IIL's rights or property, other IIL network website users, or if IIL deems it necessary to maintain, service, and improve its products and services. Personal information collected may be transferred and shared in the event of a sale.<br><br>
 <b><font color="#004080">Distribution of Information</font></b><br>
 
-IIL may, from time to time, send its users emails regarding its products and services. IIL constantly tries and improves the marketplace tools for better efficiency, more relevancy, innovative business matchmaking and better personal preferences. IIL has many match making tools on the marketplace to be used by its users for making relevant business contacts with each other.&nbsp; IIL may allow direct mails using its own scripts (without disclosing the email address) with respect/pertaining to the products and services of third parties that it feels may be of interest to the user or if the user has shown interest in your company for business requirement by way of our paid buyers-sellers contact services. All users shall be able to control the information sharing through their administration panel available at <a href="http://my.indiamart.com/">http://my.indiamart.com/</a>. Only IIL, its registered members or its agents working under confidentiality agreements will send these direct mailers. Relevancy of the contacts made between users would depend upon the information sought &amp; given by various users.&nbsp;<br><br>
+IIL may, from time to time, send its users emails regarding its products and services. IIL constantly tries and improves the marketplace tools for better efficiency, more relevancy, innovative business matchmaking and better personal preferences. IIL has many match making tools on the marketplace to be used by its users for making relevant business contacts with each other.� IIL may allow direct mails using its own scripts (without disclosing the email address) with respect/pertaining to the products and services of third parties that it feels may be of interest to the user or if the user has shown interest in your company for business requirement by way of our paid buyers-sellers contact services. All users shall be able to control the information sharing through their administration panel available at <a href="http://my.indiamart.com/">http://my.indiamart.com/</a>. Only IIL, its registered members or its agents working under confidentiality agreements will send these direct mailers. Relevancy of the contacts made between users would depend upon the information sought &amp; given by various users.�<br><br>
 
 
 <b><font color="#004080">Updation of Information</font></b><br>
@@ -160,7 +193,24 @@ mediaserver_location = "BOTTOM1";
 mediaserver_useiframe = 1;
 mediaserver_newwin = 1;
 serve_ad();
-</script><br></div>		<!-- Footer starts here -->
+</script><br></div>
+<script src="http://utils.imimg.com/suggest/js/jq-ac-ui.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	function selecttext(event, ui){
+		this.value = ui.item.value;
+		if(event.keyCode == 13)
+		{
+			document.getElementById('btnSearch').click();
+		}
+		else if(event.handleObj.origType=="click")
+		{
+			document.getElementById('btnSearch').click();
+		}
+	}
+	var sugg = new Suggester({"element":"search_string", "onSelect":selecttext, "placeholder":"Enter Product / Company Name to Search ...", "classPlaceholder":"ui-placeholder-input"});
+	auto_ready();
+	</script>
+		<!-- Footer starts here -->
     <br><div align="LEFT"><a href="http://www.indiamart.com/"><img src="/gl-include/footer-gifs/im-footer-logo.gif" alt="IndiaMART" border="0"></a></div>
     <table width="100%" border="0" cellpadding="0" cellspacing="0">
       <tbody><tr>
@@ -184,7 +234,7 @@ serve_ad();
           of Use</a>&nbsp; | &nbsp;<a href="http://www.indiamart.com/privacy-policy.html">Privacy
           Policy</a>&nbsp; | &nbsp;<a href="http://www.indiamart.com/link-to-us.html">Link
           to Us</a><br>
-         © 1996-2012 <a href="http://www.indiamart.com/corporate/">IndiaMART
+         © 1996-2013 <a href="http://www.indiamart.com/corporate/">IndiaMART
           InterMESH Limited</a>. All rights reserved worldwide.</div></td>
       </tr>
     </tbody></table>
@@ -194,7 +244,8 @@ serve_ad();
       </tr>
     </tbody></table>
 
-<!--gl small footer ends--></div></div></center>
+<!--gl small footer ends-->
+</div></div></center>
     
     
   
