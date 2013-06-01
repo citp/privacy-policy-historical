@@ -1,366 +1,759 @@
-<!--The following is the downloaded HTML source of the sendgrid.org privacy policy that was archived on 2012-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919190028id_/http%3A//sendgrid.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sendgrid.org privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601140502id_/http%3A//sendgrid.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<meta charset="utf-8">
-<meta name="language" content="en">
 <title>Privacy Policy - Transactional Email and SMTP Service</title>
-<link rel="Shortcut Icon" href="http://sendgrid.com/wp-content/themes/sendgridNew/images/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="http://sendgrid.com/wp-content/themes/sendgridNew/style.css" type="text/css" media="screen">
-<link rel="alternate" type="application/rss+xml" title="SendGrid » Feed" href="http://sendgrid.com/feed">
-<link rel="alternate" type="application/rss+xml" title="SendGrid » Comments Feed" href="http://sendgrid.com/comments/feed">
-<link rel="alternate" type="application/rss+xml" title="SendGrid » Privacy Policy Comments Feed" href="http://sendgrid.com/privacy.html/feed">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://sendgrid.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://sendgrid.com/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="Email and Communications Policy" href="http://sendgrid.com/email_policy.html">
-<link rel="next" title="Terms of Service" href="http://sendgrid.com/tos.html">
+<meta content="Privacy policy for using SendGrid's SMTP service for transactional email." name="description">
+<link href="http://sendgrid.com/privacy.html" rel="canonical">
+<link href="http://assets3.sendgrid.com/mkt/assets/favicon-4614891be49ea6825bebbb3c0d10c895.png" rel="Shortcut Icon">
+<meta content="index,follow,noodp,noydir" name="robots">
+<meta content="xMQlGjTWuyEBp6yroJM_LsubWe2zAAj13GYwCVYT5GI" name="google-site-verification">
+<meta content="5f2136324014e1ff30d89ed232628ebf" name="appstores-site-verification">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="authenticity_token" name="csrf-param">
+<meta content="En9Sjk532M48cF4SrvMcITE0Szq61q7VnhP6n35m9Dc=" name="csrf-token">
+<link href="http://assets1.sendgrid.com/mkt/assets/application-0f6ecaf5d6712a38af9447f40fd2f962.css" media="all" rel="stylesheet" type="text/css">
+<link href="http://assets2.sendgrid.com/mkt/assets/misc-7b3dd6fc2a76dac6699aad6836f0775a.css" media="all" rel="stylesheet" type="text/css">
+<link href="http://assets2.sendgrid.com/mkt/assets/jquery-ui-1.8.6.custom-e782569bba0f0a6a38c2ef21c1a3c236.css" media="all" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+<link href="http://assets2.sendgrid.com/mkt/assets/iefix-3583675f14505f256f2d919694a01b93.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
 
-<!-- platinum seo pack 1.3.7 -->
-<meta name="robots" content="index,follow,noodp,noydir">
-<meta name="description" content="Privacy policy for using SendGrid’s SMTP service for transactional email.">
-<link rel="canonical" href="http://sendgrid.com/privacy.html">
-<!-- /platinum one seo pack -->
-<link rel="pingback" href="http://sendgrid.com/xmlrpc.php">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/72168671.js"></script>
-<!-- this is for chartbeat -->
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-<script type="text/javascript">document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https":"http") + "://munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
-<script type="text/javascript">mktoMunchkin("467-KXI-123");</script>
-<meta name="google-site-verification" content="xMQlGjTWuyEBp6yroJM_LsubWe2zAAj13GYwCVYT5GI">
-<meta name="appstores-site-verification" content="5f2136324014e1ff30d89ed232628ebf">
-<link rel="stylesheet" type="text/css" href="http://sendgrid.com/wp-content/themes/sendgridNew/css/master.css?v=20120829" media="screen">
-<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="stylesheet" type="text/css" href="https://s3.amazonaws.com/static.sendgrid.com/jqueryui/1.8.6/redmond/jquery-ui-1.8.6.custom.css">
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<style>
-  .price-overage {
-    font-size:12px;
-    color:#FFF;
-    text-transform:capitalize;
-  }
-
-  .sg-logged-in {
-    display: none;
-  }
-  .sg-logged-in-container .sg-logged-in {
-    display: block;
-    float:right;
-
-  }
-  .sg-logged-in-container .sg-logged-out {
-    display: none;
-  }
-</style>
-<!-- login detection -->
-<script type="text/javascript" charset="utf-8">
-  $(function() {
-    $.getJSON("https://sendgrid.com/user/checkLogin?callback=?", function(data) {
-      if (data && data.logged_in) {
-        var header = $('#main-header');
-        header.addClass('sg-logged-in-container');
-        $('#user_name_holder', header).html('<a href="http://sendgrid.com/account/overview">' + data.name + '</a>');
-        $('#road-show-wrapper').hide();
-      }
-    });
-  });
+<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/cc50b3c587310e49e9efffc768ca4baa602ec1af.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//d1ivexoxmp59q7.cloudfront.net/sendgrid/live.js"></script><script src="//cdn.optimizely.com/js/72168671.js" type="text/javascript"></script>
+<script>
+  var _kmq = _kmq || [];
+    var _kmk = _kmk || 'cc50b3c587310e49e9efffc768ca4baa602ec1af';
+    function _kms(u){
+      setTimeout(function(){
+        var d = document, f = d.getElementsByTagName('script')[0],
+          s = d.createElement('script');
+        s.type = 'text/javascript'; s.async = true; s.src = u;
+        f.parentNode.insertBefore(s, f);
+      }, 1);
+    }
+    _kms('//i.kissmetrics.com/i.js');
+    _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
 </script>
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body class="page page-id-88 page-template page-template-single-middle-php content-sidebar idwrapInside">
-<div class="wrap-main">
-  <div class="container">
-<div class="wrap-new"><header id="main-header"><!--HEADER-->
-  <div id="logo">
-    <a href="http://sendgrid.com" title="Home" alt="SendGrid logo"><img src="http://sendgrid.com/wp-content/themes/sendgridNew/images/sendgrid-logo.png?v=20120224"></a>
-  </div>
-  <div id="road-show-wrapper">
-    <div id="road-show-banner"><a href="http://go.sendgrid.com/road-show-2012.html"><img src="/wp-content/themes/sendgridNew/images/road-show-banner.png" alt="SendGrid Road Show 2012"></a></div>
-  </div>
-  <div class="user-name">
-    <div class="name-text sg-logged-in" id="usernav_welcome">
-      <img src="/wp-content/themes/sendgridNew/images/user-black.png" valign="middle"> Welcome, <span id="user_name_holder">friend!</span>
-    </div>
-  </div>
-  <div id="account-wrapper">
-    <nav class="top-menu-account-wrapper top-menu-account sg-logged-out">
-      <!--NAV#1:TOP MENU LOGGED OUT ELEMENTS-->
-      <ul>
-        <li><a href="#" title="Sign In" class="btn-vanilla small square-menu" data-controls-modal="my-modal" data-backdrop="true" data-keyboard="true" id="sign-in">Sign In</a></li>
-      </ul>
-    </nav>
-    <nav class="top-menu-account-wrapper-in top-menu-account-in  sg-logged-in">
-      <!--NAV#1:TOP MENU LOGGED IN ELEMENTS-->
-      <ul>
-        <li style="float:left;margin-left:0;"><a class="btn-vanilla small square-menu" title="My Account" href="/account/overview">My Account</a></li>
-        <li style="float:right;"><a class="btn-vanilla small square-menu" title="Sign Out" href="/logout">Sign Out</a></li>
-      </ul>
-    </nav>
-    <nav class="top-menu-support">
-      <ul>
-        <li><a class="btn-vanilla small square-menu" href="http://support.sendgrid.com" target="_blank" title="Contact Support">Support</a></li>
-      </ul>
-    </nav>
-  </div>
-  <!-- sales info -->
-  <div id="sales-block" style="display:none;width:210px;">
-    <a href="#" class="contact-sales-link">Contact Sales</a>
-    <span><strong>Call us</strong></span>
-    <span>+ 1 303.552.0653</span>
-  </div>
-</header>
-<nav id="main-nav"><!--NAV#2:MAIN NAVIGATION-->
-  <ul id="menu-sgnav" class="main-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page" id="pricing_top_nav"><a title="Get Started" href="http://sendgrid.com/pricing.html">Pricing</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page" id="features_top_nav"><a title="Features" href="http://sendgrid.com/features.html">Features</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page" id="customers_top_nav"><a title="Customers" href="http://sendgrid.com/customers.html">Customers</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page" id="partners_top_nav"><a title="Partners" href="http://sendgrid.com/partners.html">Partners</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom" id="developers_top_nav"><a title="Developers" href="http://sendgrid.com/developers/events.html">Developers</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page" id="resources_top_nav"><a href="http://sendgrid.com/resources.html">Resources</a></li>
-</ul>  <div class="demo-wrapper">
-    <a class="btn large get-a-demo contact-sales-link" href="javascript://" id="demo" name="yes">Contact Sales</a>
-  </div>
-</nav>
-</div>
-<div id="notification_ajax"></div>
-
-<!-- end .wrap --><!--end #header-->	<div id="content-sidebar-wrap">
-				<div id="content" class="hfeed">
-			
-<!-- BEGIN MAIN CONTENT --> 
-  <div id="mainContent">
-      <h1>Privacy Policy</h1>
-    <strong>Policy Version Date: August 2, 2011</strong><br><br>
-
-SendGrid, Inc. ("<strong>SendGrid</strong>," "<strong>Us</strong>," or "<strong>We</strong>") is committed to protecting the privacy of the users of the http://www.sendgrid.com web site (the "<strong>Site</strong>") and the services offered through the Site, including by way of example the email and other communications sent through those services (the "<strong>Services</strong>"). Additionally, SendGrid adheres to the Safe Harbor Principles as agreed to and set forth by the United States Department of Commerce and the European Union ("<strong>EU</strong>"). This privacy policy (the "<strong>Policy</strong>")) discloses SendGrid's information privacy practices for the Site and Services. This policy is intended to inform users of our Services and other visitors to the Site of the information collection and use practices of the Site and Services.<br><br>
-Please see the Notification of Changes section below for information regarding changes to this Policy. If you have questions or concerns regarding this Policy, you should contact SendGrid by e-mail at <a href="mailto:legal@sendgrid.com">legal@sendgrid.com</a>.<br><br>
-<h3>COLLECTION AND USE OF INFORMATION GENERALLY.</h3><br>
-SendGrid collects information directly from the users of our Site and Services. SendGrid also receives information regarding users from our customers and from other third parties. We will not sell, share, transfer, or use the information we collect from users or receive from our customers or other third parties regarding users other than as stated in this Policy.<br><br>
-
-In addition, we will not sell, share, transfer, or use the information we receive from our customers or from other third parties regarding users except in accordance with the directions of those customers and other third parties.<br><br>
-<h3>COLLECTION AND USE OF INFORMATION BY OUR CUSTOMERS AND OTHER THIRD PARTIES.</h3><br>
-Certain of the web sites of SendGrid's customers, advertisers or affiliates and other third-parties may be accessible through the Site or through email or other communications sent through the Services. You may be asked to provide personally identifiable information (or other information) to these customers or other third parties through these web sites or through the communications sent to you through the Services, including by way of example when you click on a link on the Site to one of these other web sites or on a link in an email or other communication sent through the Services. These customers and third parties maintain their own privacy and data collection policies and practices. This Policy covers only information collected through the Site and Services and does not extend to our customers or any third parties. SENDGRID IS NOT RESPONSIBLE FOR THE POLICIES OR PRACTICES OF OUR CUSTOMERS OR ANY THIRD PARTIES. YOU SHOULD REVIEW THE APPLICABLE PRIVACY POLICIES OF OUR CUSTOMERS AND ANY THIRD PARTIES BEFORE PROVIDING THEM WITH ANY PERSONALLY IDENTIFIABLE INFORMATION.<br><br>
-<h3>COLLECTION AND USE OF PERSONALLY IDENTIFIABLE INFORMATION BY SENDGRID.</h3><br>
-We only collect and use personally identifiable information regarding users of the Site or Services as described in this Policy. In addition, we do not process or use personally identifiable information that we collect or that is received from our customers or from other third parties in a way that is incompatible with the purposes for which it was collected or received or subsequently authorized by you. Except as noted in this Policy, personally identifiable information collected by SendGrid on the Site or through the Services is NOT shared with third parties without your consent.<br><br>
-
-We may automatically collect personally identifiable information from you when you access the Site or use or access the Services. We may also collect personally identifiable information from you through a number of voluntary sources on the Site or through the Services, including through emails or other communications sent through the Services. For example, these sources may include responses, registrations, surveys, reviews, comments, confirmations, emails, postings, messages, telephone calls, written correspondence or other electronic submissions and communications sent by you to the Site or through the Services. The personally identifiable information we may collect from you will include, by way of example:<br><br>
-<ul>
-	<li>Domain name and Internet Protocol (IP) address;</li>
-	<li>E-mail address;</li>
-	<li>Contact information (including, name, address, zip code, country, and phone number);</li>
-	<li>Gender;</li>
-	<li>Financial information, such as account or credit card numbers;</li>
-	<li>User-specific and aggregate information on areas of the Site accessed and the Services used;</li>
-	<li>Username and password information for the Site or Services; and</li>
-	<li>Other information you volunteer to the Site, through the Services or through other means of communication, such as responses, registrations, surveys, reviews, comments, confirmations, emails, postings, messages, telephone calls, written correspondence or other electronic submissions and communications sent by you to the Site or through the Services.</li>
-</ul>
-<br>
-YOU SHOULD NOT PROVIDE SENDGRID WITH ANY PERSONALLY IDENTIFIABLE INFORMATION (OR SUBMIT OR POST ANY PERSONALLY IDENTIFIABLE INFORMATION TO THE SITE OR IN RESPONSE TO ANY EMAIL OR OTHER COMMUNICATION) UNLESS YOU WOULD LIKE THAT INFORMATION TO BE USED IN ACCORDANCE WITH THIS POLICY.<br><br>
-
-If you register for the Site or Services through a third-party, the personally identifiable information you have provided in connection with your registration may be imported into your account on for the Services. The personally identifiable information we may collect from you will also include any information imported from any such third-party.<br><br>
-
-The personally identifiable information that SendGrid collects from users of the Site or Services (both registered and unregistered) may be used for a variety of purposes, including by way of example:<br><br>
-<ul>
-	<li>Providing the Services;</li>
-	<li>Customizing advertising or other content displayed on the Site or through the Services;</li>
-	<li>Customizing the layout of the Site or Services;</li>
-	<li>Notifying users of the Site or Services about updates to and activities on the Site or Services and about goods and services that we feel may be of interest to you;</li>
-	<li>Improving the content of the Site or Services;</li>
-	<li>Analyzing data and patterns regarding usage of the Site or Services;</li>
-	<li>Contacting users of the Site or Services for marketing purposes; and</li>
-	<li>Contacting users of the Site or Services for information verification purposes.</li>
-</ul>
-<br>
-We may also share certain personally identifiable information we collect through the Site or Services with third party companies so that they may offer products and services to users of our Site or Services that we believe will be of interest to those users. We may also share certain personally identifiable information with third party advertisement serving companies to better target the advertising and other content displayed on the Site or Services and provide pertinent offers we think may be of interest to our users. You may opt-out of disclosure of your information to third parties for direct marketing purposes. Please see the Choice and Opt-out section below. In addition, third party advertisers may receive certain personally identifiable information about you if you click on advertisements displayed on the Site or through the Services. Clicking on any advertisement displayed on the Site or through the Services will be considered your consent to "opt in" for this transfer.<br><br>
-<h3>USE OF PERSONAL INFORMATION RECEIVED FROM THE EU.</h3><br>
-<strong>When SendGrid is a data controller</strong>. SendGrid adheres to the Safe Harbor Principles as described in this Policy with respect to the personal data we collect from EU data subjects, which includes data used to establish accounts, process orders, process payments and otherwise provide the Services. We have certified our compliance with the Safe Harbor Principles to the United States Department of Commerce, and our certification can be found at&nbsp;<a title="Safeharbor" href="https://safeharbor.export.gov/list.aspx">safeharbor.export.gov</a>.<br><br>
-
-<strong>When SendGrid is a data processor</strong>. SendGrid's obligations with respect to personal data for which we are solely a data processor, such as personal data received from our customers or from other third parties that we use to generate and transmit email and other communications through the Services, are defined in our agreements with those customers and are not included in this Policy. In those circumstances, we receive personal data from the EU as an agent for the customer or other third party merely for processing and are not required to apply the Safe Harbor principles to that information. In those circumstances, our customers or those other third parties will remain responsible for personal data that they collect and for compliance with the applicable data protection laws.<br><br>
-<h3>COLLECTION AND USE OF NON-PERSONALLY IDENTIFIABLE INFORMATION BY SENDGRID.</h3><br>
-Where possible, our server automatically recognizes and collects certain non-personally identifiable information regarding visitors to the Site and users of the Services, including by way of example, IP address, browser type, and other information regarding the system and connection of each visitor or user. We also collect information about how visitors access and use the Site and Services, including by way of example what pages of the Site are viewed and what portions of services are used. When providing the Services, we collect information regarding the performance of the Services, which includes metrics related to the deliverability of emails and other electronic communications. This information allows us to improve the content of the Site and Services, facilitate research and analysis of the Site and Services, and develop and refine our Services. Sometimes, we utilize the services of a third party to help us understand this information better, although the information that is disclosed to these entities remains at all times in anonymous and non-personally identifiable form. We may also provide this information to our customers in anonymous and non-personally identifiable form.<br><br>
-<h3>CHILDREN.</h3><br>
-The Site and Services are not directed to children under 13 years of age. SendGrid does not knowingly solicit or collect personal information from children under 13 years of age.<br><br>
-<h3>SENSITIVE INFORMATION.</h3><br>
-SendGrid does not knowingly solicit or collect, and you should not provide, any information regarding your medical or health condition, race or ethnic origin, political opinions, religious or philosophical beliefs or other sensitive information.<br><br>
-<h3>DISCLOSURE AS REQUIRED BY LAW.</h3><br>
-Though we make every reasonable effort to preserve user privacy, we may need to disclose personally identifiable information of certain users of the Site or Services when we have a reasonable and good-faith belief that the disclosure is necessary to enforce the Terms of Use for the Site, comply with a judicial proceeding, court order or other legal process, or to otherwise enforce or protect SendGrid's rights under applicable law, including, without limitation, SendGrid's intellectual property rights. In this situation we will use reasonable efforts to provide notice of this disclosure to all affected users, to the extent reasonably possible under the circumstances.<br><br>
-<h3>ENHANCEMENT OF PERSONAL INFORMATION.</h3><br>
-We may combine and enhance the information we collect from our users with third party data and information to better target our advertising and provide pertinent offers in which we think our users would be interested. Certain summary demographics are also used in our research product offerings. Individual personally identifiable information we collect is never used in our research product offering and is never tied back to an individual user or resold for any purposes.<br><br>
-<h3>SERVICE ANNOUNCEMENTS AND CUSTOMER SERVICE.</h3><br>
-On occasion it is necessary to send out service related announcements. For instance, if the Site or any of the Services is temporarily suspended for maintenance we might send users an email. We also communicate with users to provide customer service in accordance with our Terms of Service. Generally, users may not opt-out of these communications without also deactivating their account and ceasing use of the Services. These communications are not promotional in nature.<br><br>
-<h3>SPECIAL OFFERS AND UPDATES.</h3><br>
-We may send new registrants of the Site or Services a welcoming email to verify password and username. Established members may occasionally also receive information on products, services and special deals, and periodic newsletters. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out section.<br><br>
-<h3>YOUR CALIFORNIA PRIVACY RIGHTS.</h3><br>
-California law provides that California residents have a right to request that businesses tell them how their personally identifiable information has been shared with third parties for those third parties' direct marketing purposes. However, there is an exception to this requirement for businesses that have adopted and disclosed, in their privacy policy, a policy of not disclosing a person's personally identifiable information to third parties for those third parties' direct marketing purposes if that person has exercised an option to opt-out of the disclosure of their personally identifiable information to third parties for such purposes.<br><br>
-
-SendGrid has adopted a policy of allowing you to opt-out of the disclosure of your personally identifiable information to third parties for their direct marketing purposes and thus falls within this exception. Instructions for opting out can be found in the section below entitled "Choice and Opt-Out."<br><br>
-<h3>CHOICE AND OPT-OUT.</h3><br>
-We provide you with a choice whether to receive certain emails and other communications through the Site and Services.<br><br>
-
-We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes. If you are a user of the Site or Services and you no longer wish to receive emails or other communications from us or have your email address or other contect information shared with third parties, you may opt-out of receiving email or other communications from us or having your email address or other contact information shared with third parties. Some communications (e.g. important account notifications and billing information) are considered transactional and are necessary for all SendGrid customers. Customers must cancel your SendGrid account to unsubscribe you from these communications.<br><br>
-
-In addition, if you would prefer that we not share your personally identifiable information with third parties for the third parties' direct marketing purposes, you may opt-out of having your personally identifiable information shared with third parties for the third parties' direct marketing purposes.<br><br>
-
-All opt-out requests can be made by emailing us at:&nbsp;<a href="mailto:legal@sendgrid.com">legal@sendgrid.com</a>. Please note that it may take up to 10 days to remove your contact information from our marketing communications lists, so you may receive correspondence from us for a short time after you make your request.<br><br>
-<h3>COOKIES AND WEB BEACONS.</h3><br>
-"Cookies" include commonly used pieces of information in the form of small files that are placed on an individual's computer hard drive to enable the individual to more easily communicate and interact with the Site and Services. We may use cookies on the site or in communications sent through the Services for various purposes, including by way of example:<br><br>
-<ul>
-	<li>Saving user preferences;</li>
-	<li>Customizing content of the Site for individual users;</li>
-	<li>Ensuring that users are not repeatedly sent the same banner ads;</li>
-	<li>Recording session information;</li>
-	<li>Saving certain information about users of the Site and others who visit the Site; and</li>
-	<li>Facilitating and enhancing interaction with the Site.</li>
-</ul>
-&nbsp;<br><br>
-
-SendGrid does not use cookies to retrieve information from a computer that is unrelated to SendGrid or the Site or Services.<br><br>
-
-A cookie does not collect or keep your name or other personally identifying information; however, we may link the information obtained through cookies to other personally identifiable information to give us a better understanding of your preferences, so that we can provide a more meaningful experience to you on our Site and through our Services.<br><br>
-
-"Web beacons" (also known as "single-pixel" or "clear" GIFs) include electronic images imbedded in the Site or in communications sent through the Services which are invisible to users. Web beacons collect information, such as identifiers, time and date of access, and descriptions of the pages or communications in which the web beacons are imbedded. The Site and communications sent through the Services may include web beacons. We may use the web beacons on the Site and in communications sent through the Services for various purposes, including by way of example to track users who have visited our Site, viewed advertisements on the Site or in communications sent through the Services, or otherwise accessed communications sent through the Services.<br><br>
-
-We may use an outside advertisement serving company to display advertisements on the Site or in communications sent through the Services. The advertisement serving company may place and collect cookies or web beacons when it displays an advertisement on the Site or through the Services. We do not have access to information that would confirm the use of cookies or web beacons by the advertisement serving company. We may also use a third party provider to analyze data and patterns regarding usage of the Site and the communications sent through Services. This third party provider may use cookies or web beacons to collect such information.<br><br>
-
-Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You may also be able to refuse certain web beacons by adjusting the settings on your browser or email software. Please refer to your browser or email software instructions or help screen to learn more about these functions.<br><br>
-<h3>ACCESS, REVIEW, AND UPDATE OF INFORMATION.</h3><br>
-SendGrid takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete and current. The users of the Site or Services should email us at&nbsp;<a href="mailto:legal@sendgrid.com">legal@sendgrid.com</a>&nbsp;to review, delete, deactivate, update or change any personal information that was previously provided to or collected by SendGrid.<br><br>
-<h3>CONSENT TO THE USE OF THIRD PARTY PROVIDERS.</h3><br>
-In addition to the specific third parties noted in this Policy, SendGrid may also contract with Agents to provide various services to SendGrid relating to the Site or Services on an outsourced basis rather than performing the services itself (as used here, "Agents" are persons on companies who act on behalf of or under the direction of SendGrid). For example, SendGrid may contract with a web site hosting provider to host all or a portion of the Site or Services for SendGrid.<br><br>
-
-SendGrid will not transfer information collected from EU data subjects to any of its Agents unless it first ascertains that the Agent subscribes to the Safe Harbor Principles or is subject to the EU Directive on Data Protection or another adequacy finding or enters into a written agreement with such Agent requiring that the Agent provide at least the same level of privacy protection as is required by the relevant Safe Harbor Principles.<br><br>
-
-By visiting the Site or using the Services, all visitors consent to SendGrid providing both personal and non-personal information received from those visitors to these Agents for the purpose of enabling the third party provider to provide these outsourced services to SendGrid. In addition, all visitors consent to the collection, maintenance, and processing of their personal and non-personal information by SendGrid and these Agents.<br><br>
-<h3>NOTIFICATION OF CHANGES.</h3><br>
-We will either notify users of any changes to this Policy. Notification will be made by way of an e-mail or by posting of the changes on the Site . Changes to this Policy will be effective 30 days following notice. Your continued use of the Site or Services after any change has become effective will constitute your acceptance of that change.<br><br>
-
-Unless we seek and receive consent from a user, we will use information we collect from users in accordance with the version of the Policy effective when the information was last collected. Users may contact us regarding any change to this Policy, including to prevent their information from being used pursuant to any change to this Policy, by emailing us at&nbsp;<a href="mailto:legal@sendgrid.com">legal@sendgrid.com</a>.<br><br>
-<h3>SECURITY.</h3><br>
-We will use at least industry standard security measures on the Site to protect the loss, misuse and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will take all reasonable steps to insure the safety of your personal information. For example, our policy is that only those individuals who need your personally identifiable information to perform a specific job are granted access to that personally identifiable information. Likewise, all employees and contractors are kept up-to-date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment.<br><br>
-<h3>VERIFICATION.</h3><br>
-SendGrid utilizes a self-assessment approach to ensure its compliance with this Policy. We regularly verify that this Policy is accurate, comprehensive, prominently displayed, completely implemented and in conformity with the Safe Harbor Principles and conduct our self-assessment on an annual basis. We appropriately train our employees and have internal procedures for conducting objective compliance reviews.<br><br>
-<h3>ENFORCEMENT.</h3><br>
-SendGrid encourages individuals covered by this Policy to raise any concerns about our processing of personally information by contacting SendGrid as set forth below. SendGrid will seek to resolve any concerns. If your inquiry has not been satisfactorily addressed and you are located in the EU, you may contact the Direct Marketing Association, elected for Dispute Resolution pursuant to our Safe Harbor self-certification, at Direct Marketing Association, Attn: Safe Harbor Line, 1615 L Street NW, Suite 1100, Washington, D.C. 20036 or<a title="Rackspace" href="mailto:safeharbor@the-dma.org">safeharbor@the-dma.org</a>.<br><br>
-<h3>CONTACT INFORMATION.</h3><br>
-All inquiries concerning this Policy and the Site or Services in general may be sent to&nbsp;<a href="mailto:legal@sendgrid.com">legal@sendgrid.com</a>.<br><br>
-<h3>TRANSFER OF INFORMATION.</h3><br>
-If SendGrid elects, in its reasonable discretion, to transfer ownership or control of the Site or Services to a third party, whether or not in the context of an acquisition, merger, or reorganization, you consent to the transfer of your personally identifiable information and non-personally identifiable information by SendGrid to that third party, provided that all use of your information by that third party remains subject to the terms of this Policy and any applicable requirements of the Safe Harbor Principles.<br><br>
-
-Thank you for visiting the Site and using the Services. 
- 
-<!-- END MAIN CONTENT -->
-</div>
-
-		</div><!-- end #content -->
-		<div id="sidebar" class="sidebar widget-area">
-<div id="nav_menu-3" class="widget widget_nav_menu"><div class="widget-wrap"><div class="menu-aboutnav-container"><ul id="menu-aboutnav" class="menu"><li id="menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-372"><a href="http://sendgrid.com/about.html">About SendGrid</a></li>
-<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="http://sendgrid.com/jobs.html">Job Openings</a></li>
-<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="http://sendgrid.com/press.html">Press</a></li>
-<li id="menu-item-83" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83"><a href="http://support.sendgrid.com/anonymous_requests/new">Contact</a></li>
-</ul></div></div></div>
-</div>	</div><!-- end #content-sidebar-wrap -->
-	</div><!-- end #inner --><section class="footer-links"><!--SECTION#5:FOOTER LINKS-->
-  <div class="container">
-    <nav id="nav-container">
-      <ul class="footer-links-nav"><h5>Sales</h5>			<div class="textwidget"><li><a title="Contact Sales" class="contact-sales-link" href="javascript://">Contact Sales</a></li>
-    <li><a title="Pricing" href="/pricing.html">Pricing</a></li>
-    <li><a title="Features" href="/features">Features</a></li>
-</div>
-		</ul>
-      <ul class="footer-links-nav"><h5>Support</h5>			<div class="textwidget"> <li><a title="Contact Support" href="http://support.sendgrid.com">Contact Support</a></li> 
-            <li><a title="Documentation" href="http://docs.sendgrid.com/documentation/ ">Documentation</a></li> 
-            <li><a title="Report Spam" href="http://sendgrid.com/contact/reportSpam">Report Spam</a></li> 
-</div>
-		</ul>
-      <ul class="footer-links-nav"><h5>Community</h5>			<div class="textwidget"><li><a title="Blog" href="http://blog.sendgrid.com">Blog</a></li> 
-            <li><a title="Twitter" href="http://twitter.com/sendgrid">Twitter</a></li> 
-            <li><a title="Forum" href="http://support.sendgrid.com/forums">Forum</a></li> 
-</div>
-		</ul>
-      <ul class="footer-links-nav"><h5>Company</h5>			<div class="textwidget"> <li><a title="About" href="/about.html">About</a></li> 
-           <li><a title="Our Team" href="/team.html">Our Team</a></li>
-            <li><a title="Jobs" href="/jobs.html">Jobs</a></li> 
-            <li><a title="Press" href="/press.html">Press</a></li> 
-            <li><a title="Contact Us" href="/contact.html">Contact Us</a></li> 
-</div>
-		</ul></nav>
-      <section><ul class="social-media"><h5>Connect With Us!</h5>			<div class="textwidget"> <a href="http://blog.sendgrid.com/feed/"><img alt="RSS" title="Feed" src="http://d2gramajkvysi4.cloudfront.net/images/social/rss.gif?r=1309887434"></a> 
-          <a href="http://twitter.com/SendGrid"><img alt="Twitter" title="Twitter" src="http://d2gramajkvysi4.cloudfront.net/images/social/twitter.gif?r=1309887433"></a> 
-          <a href="http://www.facebook.com/SendGrid"><img alt="Facebook" title="Facebook" src="http://cdn.sendgrid.com/images/social/facebook.gif?r=1309887433"></a> </div>
-		</ul></section>
-            &nbsp;
-        </div>
-  </section></div>
-
-<footer id="footer" role="contentinfo">
-  <div class="container">
-    <span class="copyright">© 2012 SendGrid</span>
-    <nav class="legal">			<div class="textwidget"><li><a title="Privacy Policy" href="/privacy.html">Privacy Policy</a></li>
-        <li><a title="Email Policy" href="/email_policy.html">Email Policy</a></li>
-        <li class="last"><a title="Terms of Service" href="/tos.html">Terms of Service</a></li>
-
-</div>
-		</nav>    <div class="back-to-top"><li><a href="#top">Top</a></li></div></div>
-  
-</footer>
-<!-- end #wrap -->
-<script type="text/javascript" src="http://cdn1.sendgrid.com/js/jquery.fadetransition.gz.js?r=1309888008"></script>
-<script type="text/javascript" src="https://s3.amazonaws.com/static.sendgrid.com/jqueryui/1.8.6/jquery-ui.min.js"></script>
-<script src="http://a.vimeocdn.com/js/froogaloop2.min.js"></script>
-<script type="text/javascript" src="http://sendgrid.com/wp-content/themes/sendgridNew/js/jquery.cookie.js"></script>
-<script type="text/javascript" src="http://sendgrid.com/wp-content/themes/sendgridNew/js/jquery.validate.js"></script>
-<script type="text/javascript" src="http://sendgrid.com/wp-content/themes/sendgridNew/js/bootstrap-modal.js"></script>
-<script type="text/javascript" src="http://sendgrid.com/wp-content/themes/sendgridNew/js/sendgird-unobtrusive.js?v=20120828"></script>
-<script type="text/javascript" src="http://sendgrid.com/wp-content/themes/sendgridNew/js/pricing.js?v=20120731"></script>
-<script type="text/javascript" src="http://sendgrid.com/wp-content/themes/sendgridNew/js/main.js?v=20120222"></script>
+<body>
 <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-12399264-1']);
-      _gaq.push(['_setDomainName', '.sendgrid.com']);
-      _gaq.push(['_trackPageview']);
+(function(c){var e=document.createElement("script");
+e.type='text/javascript';
+e.async=true; e.src='//d1ivexoxmp59q7.cloudfront.net/'+c+'/live.js';
+var n=document.getElementsByTagName('script')[0];
+n.parentNode.insertBefore(e,n);})('sendgrid');
+</script>
 
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    </script>
-    <script type="text/javascript">
-      var _sf_async_config={uid:14494,domain:"sendgrid.com"};
-      (function(){
-        function loadChartbeat() {
-          window._sf_endpt=(new Date()).getTime();
-          var e = document.createElement('script');
-          e.setAttribute('language', 'javascript');
-          e.setAttribute('type', 'text/javascript');
-          e.setAttribute('src',
-          (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
-            "static.chartbeat.com/js/chartbeat.js");
-          document.body.appendChild(e);
-        }
-        var oldonload = window.onload;
-        window.onload = (typeof window.onload != 'function') ?
-          loadChartbeat : function() { oldonload(); loadChartbeat(); };
-      })();
-    </script>
-    
-    <iframe src="http://pixel.fetchback.com/serve/fb/pdj?cat=&amp;name=landing&amp;sid=4445" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>    
-		<!-- Segment Pixel - SendGrid - Retargeting - DO NOT MODIFY -->
-		<script src="http://ib.adnxs.com/seg?add=261803&amp;t=1" type="text/javascript"></script>
-		<!-- End of Segment Pixel -->
+<div id="sitewide-container">
+<div id="header-service">
+<div id="header">
+<div id="header-top">
+<div class="container">
+<div class="row">
+<div class="span3" id="logo-wrapper">
+<a href="/" id="sendgrid-logo-home-link"><img alt="SendGrid" id="sendgrid-logo" src="http://assets4.sendgrid.com/mkt/assets/sendgrid_logo-8f6ec9845f58c180692f02f6cb6ec894.png"></a>
+</div>
+<div class="span9" id="top-links">
+<div id="authenticated-links">
+<div class="top-link">
+<span class="icon-user"></span>
+welcome,
+<span id="account-name-location"></span>
+</div>
+<div class="top-link">
+<a href="/logout">
+<span class="icon-minus-sign"></span>
+Logout
+</a>
+</div>
+</div>
+<div id="unauthenticated-links">
+<div class="top-link">
+<a data-signup="misc_privacy" href="/pricing" id="header-sign-up">
+<i class="icon-external-link"></i>
+Sign Up
+</a>
+</div>
+<div class="top-link">
+<a href="javascript://" id="sign-in">
+<i class="icon-user"></i>
+Sign In
+</a>
+</div>
+</div>
+<div class="top-link">
+<a href="http://support.sendgrid.com/" id="header-support-link">
+<i class="icon-comment"></i>
+Support
+</a>
+</div>
+<div class="top-link">
+<a class="contact-sales-link" data-demo="yes" data-mc="Direct" data-section="misc_privacy" href="javascript://" id="header-demo-link">
+<i class="icon-play"></i>
+Demo
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navbar" id="nav">
+<div class="container">
+<ul class="nav" id="nav-links">
+<li class="nav-link" id="contact-us">
+<a href="javascript://" class="contact-sales-link" data-gaid="null" data-mc="Direct" data-mcd="null" data-section="misc_privacy" id="nav-contact-sales">Contact Sales</a>
+</li>
+<li class="nav-link" id="nav-blog">
+<a href="http://blog.sendgrid.com" id="nav-blog">Blog</a>
+</li>
+<li class="nav-link" id="nav-partners">
+<a href="/partners" class="" id="nav-partners">Partners</a>
+</li>
+<li class="nav-link" id="nav-resources">
+<a href="/resources" class="" id="nav-resources">Resources</a>
+</li>
+<li class="nav-link" id="nav-developers">
+<a href="/developers" class="" id="nav-developers">Developers</a>
+</li>
+<li class="nav-link" id="nav-solutions">
+<a href="/solutions" class="" id="nav-solutions">Solutions</a>
+</li>
+<li class="nav-link" id="nav-pricing">
+<a href="/pricing" class="" id="nav-pricing">Pricing</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="subnavs">
+<div class="subnav" id="solutions-subnav">
+<div class="container">
+<div class="row">
+<ul>
+<li class="subnav-link">
+<a href="/solutions/enterprise" id="subnav-solutions-enterprise">
+<span class="icon-enterprise-2 sub"></span>
+Enterprise Email
+</a>
+</li>
+<li class="subnav-link">
+<a href="/solutions/transactional-email" id="subnav-solutions-transactional">
+<span class="icon-transactionalemail sub"></span>
+Transactional Email
+</a>
+</li>
+</ul>
 
-        <script type="”text/javascript”">
-      var __cho__ = {
-        pid: 10001,
-      }; (function() {
-        var c = document.createElement('script'); c.type = 'text/javascript'; c.async = true;
-        c.src = ('https:' == document.location.protocol ? 'https://z': 'http://p') + '.chango.com/static/o.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(c, s); })();
-    </script>
-    		
-		<!-- Segment Pixel ,Sendgrid - DO NOT MODIFY -->
-		<img src="http://ad.retargeter.com/seg?add=78586&amp;t=2" width="1" height="1">
-		<!-- End of Segment Pixel -->
+</div>
+</div>
+</div>
+<div class="subnav" id="developers-subnav">
+<div class="container">
+<div class="row">
+<ul>
+<li class="subnav-link">
+<a href="http://github.com/sendgrid" id="subnav-developers-github" target="_blank">
+<span class="icon-github sub"></span>
+GitHub
+</a>
+</li>
+<li class="subnav-link">
+<a href="/developers/developer-community" id="subnav-developers-dev-community">
+<span class="icon-devcommunity sub"></span>
+Dev Community Members
+</a>
+</li>
+<li class="subnav-link">
+<a href="/developers/app-gallery" id="subnav-developers-app-gallery">
+<span class="icon-appgallery sub"></span>
+App Gallery
+</a>
+</li>
+<li class="subnav-link">
+<a href="http://support.sendgrid.com" id="subnav-developers-support">
+<span class="icon-comments"></span>
+Knowledge Base
+</a>
+</li>
+<li class="subnav-link">
+<a href="/developers/events" id="subnav-developers-events">
+<span class="icon-calendar"></span>
+Event Calendar
+</a>
+</li>
+<li class="subnav-link">
+<a href="http://sendgrid.com/docs" id="subnav-developers-docs">
+<span class="icon-book"></span>
+Documentation
+</a>
+</li>
+</ul>
 
-        <script type="text/javascript">
+</div>
+</div>
+</div>
+<div class="subnav" id="resources-subnav">
+<div class="container">
+<div class="row">
+<ul>
+<li class="subnav-link">
+<a href="/resources/videos" id="subnav-resources-videos">
+<span class="icon-play-circle sub"></span>
+Videos
+</a>
+</li>
+<li class="subnav-link">
+<a href="/resources/webcasts" id="subnav-resources-webcasts">
+<span class="icon-webcast sub"></span>
+Webcasts
+</a>
+</li>
+<li class="subnav-link">
+<a href="/resources/best-practice-guides" id="subnav-resources-guides">
+<span class="icon-folder-open"></span>
+Best Practice Guides
+</a>
+</li>
+<li class="subnav-link">
+<a href="/resources/success_stories" id="subnav-resources-success-stories">
+<span class="icon-trophy"></span>
+Success Stories
+</a>
+</li>
+</ul>
+
+</div>
+</div>
+</div>
+<div class="subnav" id="partners-subnav">
+<div class="container">
+<div class="row">
+<ul>
+<li class="subnav-link">
+<a href="/partners#partner-type-accelerate" id="subnav-partners-accelerate">
+<span class="icon-accelerator"></span>
+Accelerate
+</a>
+</li>
+<li class="subnav-link">
+<a href="/partners#partner-type-affiliate" id="subnav-partners-affiliate">
+<span class="icon-affiliatepartner sub"></span>
+Affiliate
+</a>
+</li>
+<li class="subnav-link">
+<a href="/partners#partner-type-integration" id="subnav-partners-integration">
+<span class="icon-integrationpartner sub"></span>
+System Integrators
+</a>
+</li>
+<li class="subnav-link">
+<a href="/partners#partner-type-agency" id="subnav-partners-agency">
+<span class="icon-agencypartner sub"></span>
+Agency
+</a>
+</li>
+<li class="subnav-link">
+<a href="/partners#partner-type-marketing" id="subnav-partners-marketing">
+<span class="icon-marketingsolutionpartner sub"></span>
+Marketing Solutions
+</a>
+</li>
+<li class="subnav-link">
+<a href="/partners#partner-type-cloud" id="subnav-partners-cloud">
+<span class="icon-cloudpartner"></span>
+Cloud Platform
+</a>
+</li>
+</ul>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="hiring-banner">
+<a href="/careers"><img alt="We Are Hiring" src="http://assets4.sendgrid.com/mkt/assets/wearehiringbanner-fcc442fcc657550013c13af8c9998d5a.png"></a>
+</div>
+</div>
+<div class="modal hide fade" id="contact_form">
+<div class="modal-header">
+<button class="close" data-dismiss="modal" type="button">
+<span class="icon-remove"></span>
+</button>
+<h3>Contact Us - 888.985.SEND</h3>
+</div>
+<div class="modal-body"></div>
+<div class="modal-footer">
+<a href="#" class="btn" data-dismiss="modal" id="close-contact-sales">Close</a>
+<a href="#" class="btn btn-primary" id="submit-contact-sales">Send</a>
+</div>
+</div>
+<div class="modal hide fade" id="login-ajax">
+<div class="modal-header">
+<button class="close" data-dismiss="modal" type="button">
+<span class="icon-remove"></span>
+</button>
+<h3>User Authentication</h3>
+</div>
+<div class="modal-body"></div>
+<div class="modal-footer">
+<a href="#" class="btn" data-dismiss="modal" id="close-login">Close</a>
+<a href="#" class="btn btn-info" id="submit-login">Login  </a>
+</div>
+</div>
+
+<div id="content">
+<div class="container" id="legal-wrapper">
+<p>
+</p><h1 class="margin-top-small">
+Privacy
+</h1>
+<strong>
+Policy Version Date: August 2, 2011
+</strong>
+<p>
+</p><p>SendGrid, Inc. (<strong>“SendGrid,” “Us,” or “We”</strong>) is committed to protecting the privacy of the users of the http://www.sendgrid.com web site (the “<strong>Site</strong>”) and the services offered through the Site, including by way of example the email and other communications sent through those services (the “<strong>Services</strong>”). Additionally, SendGrid adheres to the Safe Harbor Principles as agreed to and set forth by the United States Department of Commerce and the European Union (“<strong>EU</strong>”). This privacy policy (the “<strong>Policy</strong>”)) discloses SendGrid’s information privacy practices for the Site and Services. This policy is intended to inform users of our Services and other visitors to the Site of the information collection and use practices of the Site and Services.</p>
+<p></p>
+<p>
+</p><p>Please see the Notification of Changes section below for information regarding changes to this Policy. If you have questions or concerns regarding this Policy, you should contact SendGrid by e-mail at <a href="mailto:legal@sendgrid.com" title="legal@sendgrid.com">legal@sendgrid.com</a>.</p>
+<p></p>
+<h3>
+COLLECTION AND USE OF INFORMATION GENERALLY.
+</h3>
+<p>
+SendGrid collects information directly from the users of our Site and Services. SendGrid also receives information regarding users from our customers and from other third parties. We will not sell, share, transfer, or use the information we collect from users or receive from our customers or other third parties regarding users other than as stated in this Policy
+</p>
+<p>
+In addition, we will not sell, share, transfer, or use the information we receive from our customers or from other third parties regarding users except in accordance with the directions of those customers and other third parties.
+</p>
+<h3>
+COLLECTION AND USE OF INFORMATION BY OUR CUSTOMERS AND OTHER THIRD PARTIES.
+</h3>
+<p>
+Certain of the web sites of SendGrid's customers, advertisers or affiliates and other third-parties may be accessible through the Site or through email or other communications sent through the Services. You may be asked to provide personally identifiable information (or other information) to these customers or other third parties through these web sites or through the communications sent to you through the Services, including by way of example when you click on a link on the Site to one of these other web sites or on a link in an email or other communication sent through the Services. These customers and third parties maintain their own privacy and data collection policies and practices. This Policy covers only information collected through the Site and Services and does not extend to our customers or any third parties. SENDGRID IS NOT RESPONSIBLE FOR THE POLICIES OR PRACTICES OF OUR CUSTOMERS OR ANY THIRD PARTIES. YOU SHOULD REVIEW THE APPLICABLE PRIVACY POLICIES OF OUR CUSTOMERS AND ANY THIRD PARTIES BEFORE PROVIDING THEM WITH ANY PERSONALLY IDENTIFIABLE INFORMATION.
+</p>
+<h3>
+COLLECTION AND USE OF PERSONALLY IDENTIFIABLE INFORMATION BY SENDGRID.
+</h3>
+<p>
+We only collect and use personally identifiable information regarding users of the Site or Services as described in this Policy. In addition, we do not process or use personally identifiable information that we collect or that is received from our customers or from other third parties in a way that is incompatible with the purposes for which it was collected or received or subsequently authorized by you. Except as noted in this Policy, personally identifiable information collected by SendGrid on the Site or through the Services is NOT shared with third parties without your consent.
+</p>
+<p>
+We may automatically collect personally identifiable information from you when you access the Site or use or access the Services. We may also collect personally identifiable information from you through a number of voluntary sources on the Site or through the Services, including through emails or other communications sent through the Services. For example, these sources may include responses, registrations, surveys, reviews, comments, confirmations, emails, postings, messages, telephone calls, written correspondence or other electronic submissions and communications sent by you to the Site or through the Services. The personally identifiable information we may collect from you will include, by way of example:
+</p>
+<ul>
+<li>
+Domain name and Internet Protocol (IP) address;
+</li>
+<li>
+E-mail address;
+</li>
+<li>
+Contact information (including, name, address, zip code, country, and phone number);
+</li>
+<li>
+Gender;
+</li>
+<li>
+Financial information, such as account or credit card numbers;
+</li>
+<li>
+User-specific and aggregate information on areas of the Site accessed and the Services used;
+</li>
+<li>
+Username and password information for the Site or Services; and
+</li>
+<li>
+Other information you volunteer to the Site, through the Services or through other means of communication, such as responses, registrations, surveys, reviews, comments, confirmations, emails, postings, messages, telephone calls, written correspondence or other electronic submissions and communications sent by you to the Site or through the Services.
+</li>
+</ul>
+<p>
+YOU SHOULD NOT PROVIDE SENDGRID WITH ANY PERSONALLY IDENTIFIABLE INFORMATION (OR SUBMIT OR POST ANY PERSONALLY IDENTIFIABLE INFORMATION TO THE SITE OR IN RESPONSE TO ANY EMAIL OR OTHER COMMUNICATION) UNLESS YOU WOULD LIKE THAT INFORMATION TO BE USED IN ACCORDANCE WITH THIS POLICY.
+</p>
+<p>
+If you register for the Site or Services through a third-party, the personally identifiable information you have provided in connection with your registration may be imported into your account on for the Services. The personally identifiable information we may collect from you will also include any information imported from any such third-party.
+</p>
+<p>
+The personally identifiable information that SendGrid collects from users of the Site or Services (both registered and unregistered) may be used for a variety of purposes, including by way of example:
+</p>
+<ul>
+<li>
+Providing the Services;
+</li>
+<li>
+Customizing advertising or other content displayed on the Site or through the Services;
+</li>
+<li>
+Customizing the layout of the Site or Services;
+</li>
+<li>
+Notifying users of the Site or Services about updates to and activities on the Site or Services and about goods and services that we feel may be of interest to you;
+</li>
+<li>
+Improving the content of the Site or Services;
+</li>
+<li>
+Analyzing data and patterns regarding usage of the Site or Services;
+</li>
+<li>
+Contacting users of the Site or Services for marketing purposes; and
+</li>
+<li>
+Contacting users of the Site or Services for information verification purposes.
+</li>
+</ul>
+<p>
+We may also share certain personally identifiable information we collect through the Site or Services with third party companies so that they may offer products and services to users of our Site or Services that we believe will be of interest to those users. We may also share certain personally identifiable information with third party advertisement serving companies to better target the advertising and other content displayed on the Site or Services and provide pertinent offers we think may be of interest to our users. You may opt-out of disclosure of your information to third parties for direct marketing purposes. Please see the Choice and Opt-out section below. In addition, third party advertisers may receive certain personally identifiable information about you if you click on advertisements displayed on the Site or through the Services. Clicking on any advertisement displayed on the Site or through the Services will be considered your consent to "opt in" for this transfer.
+</p>
+<h3>
+USE OF PERSONAL INFORMATION RECEIVED FROM THE EU.
+</h3>
+<p>
+</p><p><strong>When SendGrid is a data controller</strong>. SendGrid adheres to the Safe Harbor Principles as described in this Policy with respect to the personal data we collect from EU data subjects, which includes data used to establish accounts, process orders, process payments and otherwise provide the Services. We have certified our compliance with the Safe Harbor Principles to the United States Department of Commerce, and our certification can be found at <a href="http://safeharbor.export.gov" title="safeharbor.export.gov">safeharbor.export.gov</a>.</p>
+<p></p>
+<p>
+</p><p><strong>When SendGrid is a data processor</strong>. SendGrid’s obligations with respect to personal data for which we are solely a data processor, such as personal data received from our customers or from other third parties that we use to generate and transmit email and other communications through the Services, are defined in our agreements with those customers and are not included in this Policy. In those circumstances, we receive personal data from the EU as an agent for the customer or other third party merely for processing and are not required to apply the Safe Harbor principles to that information. In those circumstances, our customers or those other third parties will remain responsible for personal data that they collect and for compliance with the applicable data protection laws.</p>
+<p></p>
+<h3>
+COLLECTION AND USE OF NON-PERSONALLY IDENTIFIABLE INFORMATION BY SENDGRID.
+</h3>
+<p>
+Where possible, our server automatically recognizes and collects certain non-personally identifiable information regarding visitors to the Site and users of the Services, including by way of example, IP address, browser type, and other information regarding the system and connection of each visitor or user. We also collect information about how visitors access and use the Site and Services, including by way of example what pages of the Site are viewed and what portions of services are used. When providing the Services, we collect information regarding the performance of the Services, which includes metrics related to the deliverability of emails and other electronic communications. This information allows us to improve the content of the Site and Services, facilitate research and analysis of the Site and Services, and develop and refine our Services. Sometimes, we utilize the services of a third party to help us understand this information better, although the information that is disclosed to these entities remains at all times in anonymous and non-personally identifiable form. We may also provide this information to our customers in anonymous and non-personally identifiable form.
+</p>
+<h3>
+CHILDREN.
+</h3>
+<p>
+The Site and Services are not directed to children under 13 years of age. SendGrid does not knowingly solicit or collect personal information from children under 13 years of age.
+</p>
+<h3>
+SENSITIVE INFORMATION.
+</h3>
+<p>
+SendGrid does not knowingly solicit or collect, and you should not provide, any information regarding your medical or health condition, race or ethnic origin, political opinions, religious or philosophical beliefs or other sensitive information.
+</p>
+<h3>
+DISCLOSURE AS REQUIRED BY LAW.
+</h3>
+<p>
+Though we make every reasonable effort to preserve user privacy, we may need to disclose personally identifiable information of certain users of the Site or Services when we have a reasonable and good-faith belief that the disclosure is necessary to enforce the Terms of Use for the Site, comply with a judicial proceeding, court order or other legal process, or to otherwise enforce or protect SendGrid's rights under applicable law, including, without limitation, SendGrid's intellectual property rights. In this situation we will use reasonable efforts to provide notice of this disclosure to all affected users, to the extent reasonably possible under the circumstances.
+</p>
+<h3>
+ENHANCEMENT OF PERSONAL INFORMATION.
+</h3>
+<p>
+We may combine and enhance the information we collect from our users with third party data and information to better target our advertising and provide pertinent offers in which we think our users would be interested. Certain summary demographics are also used in our research product offerings. Individual personally identifiable information we collect is never used in our research product offering and is never tied back to an individual user or resold for any purposes.
+</p>
+<h3>
+SERVICE ANNOUNCEMENTS AND CUSTOMER SERVICE.
+</h3>
+<p>
+On occasion it is necessary to send out service related announcements. For instance, if the Site or any of the Services is temporarily suspended for maintenance we might send users an email. We also communicate with users to provide customer service in accordance with our Terms of Service. Generally, users may not opt-out of these communications without also deactivating their account and ceasing use of the Services. These communications are not promotional in nature.
+</p>
+<h3>
+SPECIAL OFFERS AND UPDATES.
+</h3>
+<p>
+We may send new registrants of the Site or Services a welcoming email to verify password and username. Established members may occasionally also receive information on products, services and special deals, and periodic newsletters. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out section.
+</p>
+<h3>
+YOUR CALIFORNIA PRIVACY RIGHTS.
+</h3>
+<p>
+California law provides that California residents have a right to request that businesses tell them how their personally identifiable information has been shared with third parties for those third parties' direct marketing purposes. However, there is an exception to this requirement for businesses that have adopted and disclosed, in their privacy policy, a policy of not disclosing a person's personally identifiable information to third parties for those third parties' direct marketing purposes if that person has exercised an option to opt-out of the disclosure of their personally identifiable information to third parties for such purposes.
+</p>
+<p>
+SendGrid has adopted a policy of allowing you to opt-out of the disclosure of your personally identifiable information to third parties for their direct marketing purposes and thus falls within this exception. Instructions for opting out can be found in the section below entitled "Choice and Opt-Out."
+</p>
+<h3>
+CHOICE AND OPT-OUT.
+</h3>
+<p>
+We provide you with a choice whether to receive certain emails and other communications through the Site and Services.
+</p>
+<p>
+We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes. If you are a user of the Site or Services and you no longer wish to receive emails or other communications from us or have your email address or other contect information shared with third parties, you may opt-out of receiving email or other communications from us or having your email address or other contact information shared with third parties. Some communications (e.g. important account notifications and billing information) are considered transactional and are necessary for all SendGrid customers. Customers must cancel your SendGrid account to unsubscribe you from these communications.
+</p>
+<p>
+In addition, if you would prefer that we not share your personally identifiable information with third parties for the third parties' direct marketing purposes, you may opt-out of having your personally identifiable information shared with third parties for the third parties' direct marketing purposes.
+</p>
+<p>
+</p><p>All opt-out requests can be made by emailing us at: <a href="mailto:legal@sendgrid.com" title="legal@sendgrid.com">legal@sendgrid.com</a>. Please note that it may take up to 10 days to remove your contact information from our marketing communications lists, so you may receive correspondence from us for a short time after you make your request.</p>
+<p></p>
+<h3>
+COOKIES AND WEB BEACONS.
+</h3>
+<p>
+"Cookies" include commonly used pieces of information in the form of small files that are placed on an individual's computer hard drive to enable the individual to more easily communicate and interact with the Site and Services. We may use cookies on the site or in communications sent through the Services for various purposes, including by way of example:
+</p>
+<ul>
+<li>
+Saving user preferences;
+</li>
+<li>
+Customizing content of the Site for individual users;
+</li>
+<li>
+Ensuring that users are not repeatedly sent the same banner ads;
+</li>
+<li>
+Recording session information;
+</li>
+<li>
+Saving certain information about users of the Site and others who visit the Site; and
+</li>
+<li>
+Facilitating and enhancing interaction with the Site.
+</li>
+</ul>
+<p>
+SendGrid does not use cookies to retrieve information from a computer that is unrelated to SendGrid or the Site or Services.
+</p>
+<p>
+A cookie does not collect or keep your name or other personally identifying information; however, we may link the information obtained through cookies to other personally identifiable information to give us a better understanding of your preferences, so that we can provide a more meaningful experience to you on our Site and through our Services.
+</p>
+<p>
+"Web beacons" (also known as "single-pixel" or "clear" GIFs) include electronic images imbedded in the Site or in communications sent through the Services which are invisible to users. Web beacons collect information, such as identifiers, time and date of access, and descriptions of the pages or communications in which the web beacons are imbedded. The Site and communications sent through the Services may include web beacons. We may use the web beacons on the Site and in communications sent through the Services for various purposes, including by way of example to track users who have visited our Site, viewed advertisements on the Site or in communications sent through the Services, or otherwise accessed communications sent through the Services.
+</p>
+<p>
+We may use an outside advertisement serving company to display advertisements on the Site or in communications sent through the Services. The advertisement serving company may place and collect cookies or web beacons when it displays an advertisement on the Site or through the Services. We do not have access to information that would confirm the use of cookies or web beacons by the advertisement serving company. We may also use a third party provider to analyze data and patterns regarding usage of the Site and the communications sent through Services. This third party provider may use cookies or web beacons to collect such information.
+</p>
+<p>
+Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You may also be able to refuse certain web beacons by adjusting the settings on your browser or email software. Please refer to your browser or email software instructions or help screen to learn more about these functions.
+</p>
+<h3>
+ACCESS, REVIEW, AND UPDATE OF INFORMATION.
+</h3>
+<p>
+</p><p>SendGrid takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete and current. The users of the Site or Services should email us at <a href="mailto:legal@sendgrid.com" title="legal@sendgrid.com">legal@sendgrid.com</a> to review, delete, deactivate, update or change any personal information that was previously provided to or collected by SendGrid.</p>
+<p></p>
+<h3>
+CONSENT TO THE USE OF THIRD PARTY PROVIDERS.
+</h3>
+<p>
+In addition to the specific third parties noted in this Policy, SendGrid may also contract with Agents to provide various services to SendGrid relating to the Site or Services on an outsourced basis rather than performing the services itself (as used here, "Agents" are persons on companies who act on behalf of or under the direction of SendGrid). For example, SendGrid may contract with a web site hosting provider to host all or a portion of the Site or Services for SendGrid.
+</p>
+<p>
+SendGrid will not transfer information collected from EU data subjects to any of its Agents unless it first ascertains that the Agent subscribes to the Safe Harbor Principles or is subject to the EU Directive on Data Protection or another adequacy finding or enters into a written agreement with such Agent requiring that the Agent provide at least the same level of privacy protection as is required by the relevant Safe Harbor Principles.
+</p>
+<p>
+By visiting the Site or using the Services, all visitors consent to SendGrid providing both personal and non-personal information received from those visitors to these Agents for the purpose of enabling the third party provider to provide these outsourced services to SendGrid. In addition, all visitors consent to the collection, maintenance, and processing of their personal and non-personal information by SendGrid and these Agents.
+</p>
+<h3>
+NOTIFICATION OF CHANGES.
+</h3>
+<p>
+We will either notify users of any changes to this Policy. Notification will be made by way of an e-mail or by posting of the changes on the Site . Changes to this Policy will be effective 30 days following notice. Your continued use of the Site or Services after any change has become effective will constitute your acceptance of that change.
+</p>
+<p>
+</p><p>Unless we seek and receive consent from a user, we will use information we collect from users in accordance with the version of the Policy effective when the information was last collected. Users may contact us regarding any change to this Policy, including to prevent their information from being used pursuant to any change to this Policy, by emailing us at <a href="mailto:legal@sendgrid.com" title="legal@sendgrid.com">legal@sendgrid.com</a>.</p>
+<p></p>
+<h3>
+SECURITY.
+</h3>
+<p>
+We will use at least industry standard security measures on the Site to protect the loss, misuse and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will take all reasonable steps to insure the safety of your personal information. For example, our policy is that only those individuals who need your personally identifiable information to perform a specific job are granted access to that personally identifiable information. Likewise, all employees and contractors are kept up-to-date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment.
+</p>
+<h3>
+VERIFICATION.
+</h3>
+<p>
+SendGrid utilizes a self-assessment approach to ensure its compliance with this Policy. We regularly verify that this Policy is accurate, comprehensive, prominently displayed, completely implemented and in conformity with the Safe Harbor Principles and conduct our self-assessment on an annual basis. We appropriately train our employees and have internal procedures for conducting objective compliance reviews.
+</p>
+<h3>
+ENFORCEMENT.
+</h3>
+<p>
+</p><p>SendGrid encourages individuals covered by this Policy to raise any concerns about our processing of personally information by contacting SendGrid as set forth below. SendGrid will seek to resolve any concerns. If your inquiry has not been satisfactorily addressed and you are located in the EU, you may contact the Direct Marketing Association, elected for Dispute Resolution pursuant to our Safe Harbor self-certification, at Direct Marketing Association, Attn: Safe Harbor Line, 1615 L Street NW, Suite 1100, Washington, D.C. 20036 <a href="http://orsafeharbor@the-dma.org" title="orsafeharbor@the-dma.org">orsafeharbor@the-dma.org</a>.</p>
+<p></p>
+<h3>
+CONTACT INFORMATION.
+</h3>
+<p>
+</p><p>All inquiries concerning this Policy and the Site or Services in general may be sent to <a href="http://legal@sendgrid.com" title="legal@sendgrid.com.">legal@sendgrid.com.</a>.</p>
+<p></p>
+<h3>
+TRANSFER OF INFORMATION.
+</h3>
+<p>
+If SendGrid elects, in its reasonable discretion, to transfer ownership or control of the Site or Services to a third party, whether or not in the context of an acquisition, merger, or reorganization, you consent to the transfer of your personally identifiable information and non-personally identifiable information by SendGrid to that third party, provided that all use of your information by that third party remains subject to the terms of this Policy and any applicable requirements of the Safe Harbor Principles.
+</p>
+<p>
+Thank you for visiting the Site and using the Services.
+</p>
+<p></p>
+</div>
+
+<div id="footer-service">
+<div id="footer">
+<div id="footer-top">
+<div class="container">
+<div class="row">
+<div class="span2">
+<ul>
+<li class="heading">
+Solutions
+</li>
+<li>
+<a href="/solutions/transactional-email" id="footer-transactional">Transactional Email</a>
+</li>
+<li>
+<a href="/solutions/enterprise" id="footer-enterprise">Enterprise Email</a>
+</li>
+</ul>
+</div>
+<div class="span2">
+<ul>
+<li class="heading">
+Sales
+</li>
+<li>
+<a href="javascript://" class="contact-sales-link" data-section="misc_privacy" id="footer-contact-sales">Contact Sales</a>
+</li>
+<li>
+<a href="/pricing" id="footer-pricing">Pricing</a>
+</li>
+<li>
+<a href="/solutions" id="footer-solutions">Solutions</a>
+</li>
+</ul>
+</div>
+<div class="span2">
+<ul>
+<li class="heading">
+Support
+</li>
+<li>
+<a href="http://support.sendgrid.com" id="footer-support">Contact Support</a>
+</li>
+<li>
+<a href="http://sendgrid.com/docs/" id="footer-docs">Documentation</a>
+</li>
+<li>
+<a href="/report_spam" id="footer-report-spam">Report Spam</a>
+</li>
+<li>
+<a href="http://community.sendgrid.com/sendgrid" id="footer-get-satisfaction">Get Satisfaction</a>
+</li>
+</ul>
+</div>
+<div class="span2">
+<ul>
+<li class="heading">
+Community
+</li>
+<li>
+<a href="http://blog.sendgrid.com" id="footer-blog">Blog</a>
+</li>
+<li>
+<a href="http://twitter.com/SendGrid" id="footer-twitter-left" target="_blank">Twitter</a>
+</li>
+<li>
+<a href="http://github.com/sendgrid" id="footer-github">GitHub</a>
+</li>
+<li>
+<a href="http://support.sendgrid.com/forums" id="footer-forum">Forum</a>
+</li>
+</ul>
+</div>
+<div class="span2">
+<ul>
+<li class="heading">
+Company
+</li>
+<li>
+<a href="/about" id="footer-about">About</a>
+</li>
+<li>
+<a href="/team" id="footer-team">Our Team</a>
+</li>
+<li>
+<a href="/careers" id="footer-careers">Careers</a>
+</li>
+<li>
+<a href="/contact" id="footer-contact-us">Contact Us</a>
+</li>
+<li>
+<a href="/press" id="footer-press">Press</a>
+</li>
+<li>
+<a href="http://labs.sendgrid.com/" id="footer-labs">SendGrid Labs</a>
+</li>
+</ul>
+</div>
+<div class="span2">
+<ul>
+<li class="heading">
+Follow Us
+</li>
+<li>
+<a href="http://twitter.com/sendgrid" id="footer-twitter" target="_blank">
+<i class="icon-twitter"></i>
+Twitter
+</a>
+</li>
+<li>
+<a href="http://us.linkedin.com/company/sendgrid" id="footer-linkedin" target="_blank">
+<i class="icon-linkedin"></i>
+LinkedIn
+</a>
+</li>
+<li>
+<a href="http://facebook.com/SendGrid" id="footer-facebook" target="_blank">
+<i class="icon-facebook"></i>
+Facebook
+</a>
+</li>
+<li>
+<a href="http://plus.google.com/114253033480473803566" id="footer-google-plus" target="_blank">
+<i class="icon-google-plus"></i>
+Google+
+</a>
+</li>
+<li>
+<a href="http://feeds.feedburner.com/sendgrid/CDXr" id="footer-rss" target="_blank">
+<i class="icon-rss"></i>
+Feed
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="footer-bottom">
+<div class="container">
+<div class="row">
+<div class="span12">
+<ul>
+<li>
+©
+2013
+SendGrid
+</li>
+<li>/</li>
+<li>
+<a href="/tos" id="footer-tos">Terms of Service</a>
+</li>
+<li>/</li>
+<li>
+<a href="/email_policy" id="footer-email-policy">Email Policy</a>
+</li>
+<li>/</li>
+<li>
+<a href="/privacy" id="footer-privacy-policy">Privacy Policy</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="pixels">
+<script src="http://ib.adnxs.com/seg?add=261803&amp;t=1" type="text/javascript"></script>
+		 <img src="http://ad.retargeter.com/seg?add=78586&amp;t=2" width="1" height="1"><script type="text/javascript">
       adroll_adv_id = "HWYX4RR7EJEBJIW3P4RQ6W";
       adroll_pix_id = "SYFMXPWDD5BYNDV7PHXGWZ";
       (function () {
@@ -378,5 +771,31 @@ Thank you for visiting the Site and using the Services.
       }());
     </script>
 
+<iframe src="/femr/turn_iframe" width="1" height="1" scrolling="no" frameborder="0"></iframe>
+<script type="text/javascript">document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https":"http") + "://munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
+    <script type="text/javascript">mktoMunchkin("467-KXI-123");</script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+_gaq.push(['a._setAccount', 'UA-12399264-1']);
+_gaq.push(['a._setDomainName', '.sendgrid.com']);
+_gaq.push(['a._setAllowLinker', true]);
+_gaq.push(['a._trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
 
-<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+</div>
+</div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="http://assets4.sendgrid.com/mkt/assets/application-acd194fe78bcee0c744af31a8815485d.js" type="text/javascript"></script>
+<script src="http://assets3.sendgrid.com/mkt/assets/misc-1b13569e9620782f423d4cd3ce931750.js" type="text/javascript"></script>
+
+
+
+</body></html>
