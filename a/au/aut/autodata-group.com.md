@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autodata-group.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111032816id_/http%3A//autodata-group.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autodata-group.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601163754id_/http%3A//autodata-group.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Autodata Group
 
