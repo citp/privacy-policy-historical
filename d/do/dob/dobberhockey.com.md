@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dobberhockey.com privacy policy that was archived on 2012-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120322102438id_/http%3A//www.dobberhockey.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D2970%253Aprivacy-policy%26catid%3D7%253Aexamples%26Itemid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dobberhockey.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601101256id_/http%3A//www.dobberhockey.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D2970%253Aprivacy-policy%26catid%3D7%253Aexamples%26Itemid%3D1) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ DobberHockey uses cookies to send information which might be useful to our marke
 
 DobberHockey reserves the right to modify our privacy policies. We suggest that you check this privacy statement from time to time to verify our position on privacy. That being said, the spirit of this statement will never change; we will always take the privacy issue seriously and will always do whatever is necessary to protect our visitors', clients', and affiliates' privacy.
 
-If you have any questions about this privacy statement, the practices of Dobber web sites, or your dealings with those Web sites, you can contact us by email at: [admin@dobberhockey.com](mailto:admin@dobberhockey.com) .
+If you have any questions about this privacy statement, the practices of Dobber web sites, or your dealings with those Web sites, you can contact us by email at: [admin@dobberhockey.com](mailto:admin@dobberhockey.com).
 
   
 
@@ -58,5 +58,5 @@ Comments
 You must be logged in to post a comment. Please register if you do not have an account yet.
 
   
-|  [< Prev](https://web.archive.org/index.php?option=com_content&view=article&id=2971%3Arefund-policy&catid=7%3Aexamples&Itemid=1) |    |  [Next >](https://web.archive.org/index.php?option=com_content&view=article&id=10%3Afaq1&catid=7%3Aexamples&Itemid=1)  
+|  [< Prev](http://hockey.dobbersports.com/index.php/home-mainmenu-1/7-examples/2971-refund-policy) |    |  [Next >](http://hockey.dobbersports.com/index.php/home-mainmenu-1/7-examples/10-faq1)  
 ---|---|---
