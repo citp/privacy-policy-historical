@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypebeast.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023143905id_/http%3A//hypebeast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypebeast.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601133321id_/http%3A//hypebeast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hypebeast
 
@@ -12,32 +12,73 @@ In addition to reviewing this Privacy Policy, please read our User Agreement. Yo
 
 This Privacy Policy may be modified from time to time so check back often. Continued access of our websites by you will constitute your acceptance of the changes or revisions to the Privacy Policy.
 
-**Information You Provide to Us**
+**1\. Introduction**
 
-The website generally collects personally identifying information with your specific knowledge and consent. This includes but is not limited to when you register for our forums, enter a sweepstakes and complete a survey. You can choose not to provide us with certain information, but you may not be able to take advantage of many of our special features such as posting on our forums. – Registration: In order to use select parts of our websites such as the forum, you must complete a registration form. As part of this registration forum, we require your email address and date of birth. Optional information such as your referrer or time zone may also be requested.
+Thank you for visiting Hypebeast. This Privacy Policy is written to better explain how we collect and use your information. This Privacy Policy is a binding contract and you must agree to it to the same extent as our Terms and Conditions in order to use our services.
 
-**Automatic Information**
+**2\. Information You Provide to Us**
 
-Our servers may automatically collect information about your computer when you visit our websites, including without limitation the website that referred you, your Internet Protocol (“IP”) and other usage and traffic information. 101 Media uses this statisticali nformation to analyze trends, gather demographic information and administer our websites so we may provide improved web experiences to our readers. The information is not in a manner that would identify you personally. We may provide statistical information, not personal information, to our partners about how our users, collectively use our websites. We share this information to our partners, so that they may further understand the usage of their areas and our websites, so that they too could provide you with a better web experience. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose.
+The website generally collects personally identifying information with your specific knowledge and consent. This includes but is not limited to when you register for our forums, enter a sweepstakes and complete a survey. You can choose not to provide us with certain information, but you may not be able to take advantage of many of our special features such as posting on our forums. - Registration: In order to use select parts of our websites such as the forum, you must complete a registration form. As part of this registration forum, we require your email address and date of birth. Optional information such as your referrer or time zone may also be requested.
 
-**Cookies**
+**3\. Personal Information We Collect When You Buy from Us**
 
-Cookies are messages given to a web browser by a web server that are placed in storage. Their purpose is to identify users and possibly prepare customized WebPages for them. We may use cookies to control the display of ads, to track usage patterns on our websites, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of our websites and are given the option to save your user name and password on your computer, we can provide this convenience to you by placing a cookie on your computer. Our cookies may contain personally identifiable information and such cookies may be shared with our affiliates and other companies.101 Media Lab does not collection personal information, and we do not combined information collected through cookies with other personal information to tell us who you are or what your screen name or email address is. Some of our advertisers may occasionally service you cookies as well. We do not have control over cookies placed by advertisers. If you don’t want any cookies, your web browser likely includes an option that allows you to not accept them. However, if you set your browser to refused cookies, some portions of the website may not function properly.
+In order for you to place an order with us, you must provide us your name, e-mail address, mailing address, date of birth, Paypal information and telephone number. We will not disclose any information that you provide to us except in accordance with the provisions of this Privacy Policy.
 
-**Sharing Information**
+**4\. Automatic Information**
 
-We neither rent nor sell your personal information to anyone. We share your personal information only with your consent or to the entities described below: – Agents We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending postal mail and email, removing repetitive information from customers’ lists, analyzing data, providing marketing assistant, and providing customer service. You hereby consent to our sharing of your personal information for the above purposes. – Business Transfers As our business changes and grow, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by 101 Media Lab are sold, assigned, transferred or acquired by another company, the information from and about our website users may be among the transferred assets
+Our servers may automatically collect information about your computer when you visit our websites, including without limitation the website that referred you, your Internet Protocol (“IP”) and other usage and traffic information. 101 Media uses this statistical information to analyze trends, gather demographic information and administer our websites so we may provide improved web experiences to our readers. The information is not in a manner that would identify you personally. We may provide statistical information, not personal information, to our partners about how our users, collectively use our websites. We share this information to our partners, so that they may further understand the usage of their areas and our websites, so that they too could provide you with a better web experience. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose.
 
-**Children and Parents**
+**5\. Use of Information**
 
-Our websites are not meant for children, especially those under 13. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn that we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.
+We may use your information: 
 
-**Conditions of Use**
+  * To enhance or improve user experience, the website, or service.
+  * To process transactions and sell, transfer, and exchange your information to a third party for their marketing purposes with no additional consent.
+  * To send e-mails about the site or respond to inquiries.
+  * To send e-mails about the website and other products, news, or updates for Hypebeast.com.
+  * To send e-mails about third parties’ products or services.
 
-If you decide to visit the 101 Media Lab websites, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damagers, arbitration of disputes and application of Hong Kong law.
 
-**Third Party Websites**
 
-101 Media Lab may permit you to link to other websites on the Internet, and other websites may contain links to the 101 Media Lab websites. These other websites are not under 101 Media Lab control. The privacy and security practices of websites linked to or from the 101 Media Lab websites are not covered by this Privacy Policy, and 101 Media Lab is not responsible for the privacy or security practices or the content of such websites.
+**6\. Cookies**
 
-If you have any questions or concerns regarding privacy at the 101 Media Lab websites, please send a detailed message to info -[at]- 101medialab.com. Your privacy is important to us and we will make every effort to resolve your concerns.
+In order to distinguish you from other users—especially other users on the same network as you — we need to use cookies to track your specific computer. Specifically, we use cookies to save your preferences, keep track of advertisements, and remember your shopping cart items. Additionally, our cookies may be accessible by third parties, or provided by third parties. For example, we use Google AdSense on our website, which uses the DoubleClick cookie to better target ads that you may find interesting or relevant. For these reasons we require that you keep cookies enabled when using our website.
+
+**7\. Third Party Websites**
+
+We may link to third party websites from our own website. We have no control over, and are not responsible for, these third party websites or their use of your personal information. We recommend that you review their privacy policies and other agreements governing your use of their website.
+
+**8\. Third Party Access to Your Information**
+
+We protect your information from being accessed by third parties. However, since we may employ outside maintenance personnel or use a third party to host our material, there are third party entities which may have custody or access to your information. Because of this, it is necessary that you permit us to give access to your information to third parties to the same extent that you authorize us to do so. For greater certainty, every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may hire, contract, or otherwise retain the services of for the purpose of operating, maintaining, repairing, or otherwise improving or preserving our website or its underlying files or systems. You agree not to hold us liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their actions, and that you must take legal action against them directly should they commit any tort or other actionable wrong against you. Additionally, we may store your information or share it with certain other third parties for reason that may or may not be related to maintenance, advertising, marketing, or other purposes related to our business. The following is a non-exhaustive list of other entities that we may store, share, or transfer your information with: 
+
+  * Google Analytics
+  * Parse.ly
+  * ComScore
+  * ChartBeat
+
+
+
+**9\. Marketing & Communication**
+
+When registering for a Hypebeast forum or Hypebeast Store account, you will be given the option to opt-in to updates through the Hypebeast newsletter and the Hypebeast Store 'new in' and promotional emails. If you would prefer to opt-out from these e-mail, you can do so at any time by using the unsubscribe link at the bottom of the e-mail.
+
+**10\. Law Enforcement**
+
+We may disclose your information to a third party where we believe, in good faith, that it is desirable to do so for the purposes of a civil action, criminal investigation, or other legal matter. In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either.
+
+**11\. Security of Information**
+
+We use SSL certificates to help secure our website. However, we make no representations as to the security or privacy of your information. It is in our interest to keep our website secure, but we recommend that you use anti-virus software, firewalls, and other precautions to protect yourself from security threats.
+
+**12\. California Online Privacy Protection Act**
+
+We are not located in California, but we do permit California residents to access our website and order from us. It is our intent to comply with the California Business and Professions Code §§ 22575-22519. If you are a California resident you may request certain information egarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the act. In summary, you must presume that we collect electronic information from all visitors. You may contact us at [info@hypebeast.com](mailto:info@hypebeast.com) with any questions.
+
+**13\. Amendments**
+
+We may amend this Privacy Policy from time to time, and the amended version will be posted on our website in place of the old version. We will also include the date that the currently displayed Privacy Policy took effect to help you determine whether there have been any changes since you last used our website. Like our Terms of Service, you must visit this page each time you come to our website and read and agree to it if the date it was last modified is more recent than the last time you agreed to the Privacy Policy. If you do not agree to the new Privacy Policy, you must immediately cease using our service.
+
+**14\. Contact**
+
+Any inquiries about your rights under this Privacy Policy, or any other matters regarding your privacy, can be directed to [info@hypebeast.com](mailto:info@hypebeast.com).
