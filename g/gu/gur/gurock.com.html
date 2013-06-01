@@ -1,16 +1,15 @@
-<!--The following is the downloaded HTML source of the gurock.com privacy policy that was archived on 2012-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121128051907id_/http%3A//www.gurock.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gurock.com privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601060616id_/http%3A//www.gurock.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>	
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Gurock Software's Privacy Policy</title>
-			<link rel="stylesheet" href="/styles/all.css?355" type="text/css">
+			<link rel="stylesheet" href="/styles/all.css?425" type="text/css">
 		<!--[if IE 6]>
 		<link rel="stylesheet" type="text/css" href="/styles/ie6.css" />
 		<![endif]-->
-				<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascript/all.js?355"></script>
+				<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascript/all.js?425"></script>
 				
-	
 </head>
 <body>
 
@@ -30,9 +29,13 @@
 </div>
 
 	<div id="sub-nav-container">
-	<div id="sub-nav">
+	<div id="sub-nav" style="position: relative">
+
+		<img src="/images/about/jobs/wearehiring.png" height="41" width="159" title="" style="position: absolute; top: -30px; left: 640px">
+
 		<ul>
 			<li><a href="/">About</a></li>
+			<li><a href="/about/jobs/">Jobs</a></li>
 			<li><a href="/about/contact/">Contact</a></li>
 		</ul>
 
@@ -176,7 +179,7 @@ beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.
 						<a href="/about/contact/">Contact Us</a>
 						<a href="/about/privacy/">Privacy Policy</a>
 						<a href="/about/terms/">Terms</a>
-					</div>					
+					</div>	
 				</div>
 			</div>
 		</div>
@@ -202,6 +205,30 @@ beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.
 </script>
 
 
+<script type="text/javascript">
+$(document).ready(function () {
+	var url = window.location.href;
+	var referrer = document.referrer.substring(0, 2000);
+
+	var cookie_name = 'gurock_trck';
+		var cookie_domain = 'gurock.com';
+		var time = Math.floor((new Date()).getTime() / 1000);
+
+	var cookie = $.cookie(cookie_name);
+	if (!cookie)
+	{
+		var content = {
+			'u': url,
+			'r': referrer,
+			't': time 
+		};
+
+		$.cookie.json = true;
+		$.cookie(cookie_name, content, { expires: 30, path: '/', domain: cookie_domain });
+	}
+});
+</script>
 
 
-</body></html>
+
+<div id="fancy_overlay"></div><div id="fancy_loading"><div></div></div><div id="fancy_outer"><div id="fancy_inner"><div id="fancy_close"></div><div id="fancy_bg"><div class="fancy_bg" id="fancy_bg_n"></div><div class="fancy_bg" id="fancy_bg_ne"></div><div class="fancy_bg" id="fancy_bg_e"></div><div class="fancy_bg" id="fancy_bg_se"></div><div class="fancy_bg" id="fancy_bg_s"></div><div class="fancy_bg" id="fancy_bg_sw"></div><div class="fancy_bg" id="fancy_bg_w"></div><div class="fancy_bg" id="fancy_bg_nw"></div></div><a href="javascript:;" id="fancy_left"><span class="fancy_ico" id="fancy_left_ico"></span></a><a href="javascript:;" id="fancy_right"><span class="fancy_ico" id="fancy_right_ico"></span></a><div id="fancy_content"></div></div></div><div id="fancy_title"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="fancy_title" id="fancy_title_left"></td><td class="fancy_title" id="fancy_title_main"><div></div></td><td class="fancy_title" id="fancy_title_right"></td></tr></tbody></table></div><div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all ui-helper-hidden-accessible"></div></body></html>
