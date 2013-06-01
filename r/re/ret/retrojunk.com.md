@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retrojunk.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230174440id_/http%3A//www.retrojunk.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrojunk.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601062155id_/http%3A//www.retrojunk.com/privacy) for the most accurate reproduction.*
 
 # Retro Junk Privacy Policy
 
