@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likecool.com privacy policy that was archived on 2012-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120824004153id_/http%3A//www.likecool.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likecool.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601084437id_/http%3A//www.likecool.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Likecool.com
 
