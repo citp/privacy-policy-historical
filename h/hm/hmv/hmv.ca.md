@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hmv.ca privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123080731id_/http%3A//hmv.ca/Info/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hmv.ca privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601173900id_/http%3A//www.hmv.ca/Info/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# hmv.ca: music, dvd, blu-ray, videogames, MP3 digital downloads
+# hmv.ca: music, dvd, blu-ray, MP3 digital downloads
 
 The security and integrity of your information is important to us. This Privacy Policy describes how HMV Canada Inc. (“we” or “HMV”) collects and uses your personal information.
 
