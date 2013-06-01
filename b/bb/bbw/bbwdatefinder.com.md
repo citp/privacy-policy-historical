@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbwdatefinder.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014113254id_/http%3A//bbwdatefinder.com//privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbwdatefinder.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601122929id_/http%3A//bbwdatefinder.com//privacy-policy) for the most accurate reproduction.*
 
 # BBW Datefinder.com - BBW Personals, BBW Singles, Big Men, Big Women, Large Women, FA Dating
 
