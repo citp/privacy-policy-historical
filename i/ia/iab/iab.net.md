@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the iab.net privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217074547id_/http%3A//www.iab.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iab.net privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601105029id_/http%3A//www.iab.net/privacy_policy) for the most accurate reproduction.*
 
 # IAB - Privacy Policy
-
-[](http://www.truste.org/ivalidate.php?url=www.iab.net&sealid=101)
 
 _This Privacy Policy was last modified and is effective as of Wednesday, August 20, 2008_
 
@@ -64,7 +62,7 @@ We also reserve the right to make your Personal Information available:
 
 OPTING OUT
 
-If you register on or with our Website, you are agreeing and consenting to receive information and updates about your use of our Website or our Services (e.g., IABConnect) for which you register. You may opt out of receiving any or all of these communications by sending an email to unsubscribe@iab.net, by following the unsubscribe procedures on our Website or by following the unsubscribe instructions we will include in each email we send you. If you do not receive acknowledgment of your request to opt out or you continue to receive these communications after a reasonable time for us to remove you from our mailing list, you should contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with our Website to resolve the concerns you may have in this regard.
+If you register on or with our Website, you are agreeing and consenting to receive information and updates about your use of our Website or our Services (e.g., IABConnect) for which you register. You may opt out of receiving any or all of these communications by sending an email to unsubscribe@iab.net, by following the unsubscribe procedures on our Website or by following the unsubscribe instructions we will include in each email we send you. 
 
 SECURITY
 
@@ -73,10 +71,6 @@ As you may appreciate, the Internet is a public network of networks and we canno
 YOUR RIGHTS REGARDING YOUR PERSONAL INFORMATION
 
 We will provide you with a mechanism to allow and enable you to correct or update the Personal Information in our current records that we have obtained from you. You can always review and change your Personal Information by contacting us by email at  privacy@iab.net or by telephone at 212.380.4728. Certain Personal Information may not be changed without authentication (e.g., birth date) and you may be asked to provide additional information to allow us to confirm your identity in order to change those. If you ask us to remove your Personal Information, we still reserve the right to retain as much of your Personal Information and for so long as necessary to comply with our legal, regulatory, internal audit and record-keeping requirements.
-
-TRUSTe PRIVACY PROGRAM
-
-The IAB is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy policy covers the Website www.iab.net and http://iabconnect.intronetworks.com (which we refer to herein as our "Website"). To demonstrate our commitment to our user’s privacy, we have agreed to disclose our Website information practices and have our privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact Patrick Dolan, at [patrick@iab.net](mailto:patrick@iab.net). If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/consumers/watchdog_complaint.php). TRUSTE will serve as a liaison with our Website to resolve your concerns. The TRUSTe program covers only information that is collected through our Website, and does not cover information that may be collected through software downloaded from our Website or other websites.
 
 YOUR CALIFORNIA PRIVACY RIGHTS
 
@@ -93,5 +87,3 @@ Attn: Your California Privacy Rights
 CONTACT US
 
 For questions or concerns relating to privacy, we can be contacted at: privacy@iab.net or 212.380.4728 or by mail, proper postage prepaid, at Interactive Advertising Bureau, Inc., 116 E. 27th Street, New York, New York, 10016, Attention: Privacy Administrator.
-
-TRUSTe can be contacted at [www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php).
