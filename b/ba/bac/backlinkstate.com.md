@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the backlinkstate.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213041234id_/http%3A//backlinkstate.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinkstate.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601205434id_/http%3A//backlinkstate.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Backlinkstate
+
+## Privacy Policy
 
 **Your Privacy**
 
@@ -28,4 +30,4 @@ We have included links on this site for your use and reference. We are not respo
 
 The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of www.BackLinkState.com then you may contact us at kitanoau@yahoo.com.au
 
-Last updated Thu, 03 Jun 2010 17:50
+Last updated Thu, 03 Jun 2010 18:00
