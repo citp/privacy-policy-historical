@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the isedb.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230204445id_/http%3A//isedb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isedb.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601045012id_/http%3A//isedb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ISEdb.COM
+# Privacy Policy - ISEdb.COM | ISEdb.COM
 
 In general, The Internet Search Engine Database(ISEDB.COM) does not collect, store, use or disclose personally identifying information The instances in which ISEDB does collect and use information are specifically described in this Privacy Policy.   
 ISEDB provides fun, easy to use services, including ISEDB directory (located at WWW.ISEDB.COM). This service may also be located on third party web sites and/or applications. ISEDB values its users and their concerns about privacy.   
