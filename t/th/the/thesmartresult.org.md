@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thesmartresult.org privacy policy that was archived on 2011-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110914160022id_/http%3A//shop.thesmartresult.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesmartresult.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601124723id_/http%3A//thesmartresult.org/privacy.php) for the most accurate reproduction.*
 
-# The Smart Result - hdtv tvs
+# The Smart Result -
+
+### The smart result >> Privacy Policy
 
 thesmartresult.org respects your privacy. Our purpose in collecting information from you is to help us provide you with better service, such as notifications about special offers and promotions. We will not wilfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement. Furthermore, we do not specifically target children under the age of 13, nor do we knowingly collect, without parental consent, individually identifiable information from such children.
 
