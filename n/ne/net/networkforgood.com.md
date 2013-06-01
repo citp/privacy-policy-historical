@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the networkforgood.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223043632id_/http%3A//www1.networkforgood.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkforgood.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601134737id_/http%3A//www1.networkforgood.org/privacy) for the most accurate reproduction.*
 
 # Our Privacy, Security & Disclosures Statement | Network for Good
 
-Since our inception in November 2001, the Network for Good giving system has processed nearly $700 million in donations to more than 60,000 charities thanks to the generosity of donors like you.  We understand your concerns about safety and security and want to assure you that we make every effort to safeguard your privacy when you make donations through our giving system.  Our mission is to help you support any charity, anywhere online - in a convenient and secure manner. 
+Since our inception in November 2001, the Network for Good giving system has processed more than $800 million in donations to more than 80,000 charities thanks to the generosity of donors like you.  We understand your concerns about safety and security and want to assure you that we make every effort to safeguard your privacy when you make donations through our giving system.  Our mission is to help you support any charity, anywhere online - in a convenient and secure manner. 
 
 The information below spells out our privacy and security practices.  If you have any questions about this statement, please do not hesitate to [contact us](http://www.networkforgood.org/about/contact.aspx).
 
