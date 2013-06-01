@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the chikka.com privacy policy that was archived on 2012-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120917184945id_/http%3A//www.chikka.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chikka.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601232245id_/http%3A//www.chikka.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy - Chikka
+# Privacy Policy - Chikka
 
-Chikka Philippines, Inc. and all its affiliates understand your concerns about how your information is used and shared, and we appreciate your trust that we will do so carefully and sensibly. 
+Chikka Philippines, Inc. and all its affiliates understand your concerns about how your information is used and shared, and we appreciate your trust that we will do so carefully and sensibly.
 
-This Privacy Policy covers this Chikka Web Site, and your use of the Chikka Text Messenger. This Privacy Policy does not include any other Web Site linked to or from the Web Site or the Chikka Text Messenger. By using the Chikka Web Site, and using Chikka Services including the Chikka Text Messenger, you agree to accept the terms set forth in this privacy policy. Chikka Philippines and all its affiliates may amend this privacy policy from time to time. If the privacy policy is revised, the revised privacy policy will be posted on this Web site, and you will have the opportunity to modify your information on file with Chikka. 
+This Privacy Policy covers this Chikka Web Site, and your use of the Chikka Text Messenger. This Privacy Policy does not include any other Web Site linked to or from the Web Site or the Chikka Text Messenger. By using the Chikka Web Site, and using Chikka Services including the Chikka Text Messenger, you agree to accept the terms set forth in this privacy policy. Chikka Philippines and all its affiliates may amend this privacy policy from time to time. If the privacy policy is revised, the revised privacy policy will be posted on this Web site, and you will have the opportunity to modify your information on file with Chikka.
 
-##  Information Collection 
+## Information Collection
 
-You agree that you will not allow unauthorized persons to use your account as identified by your mobile phone number. You agree to indemnify and hold Chikka Philippines, Inc and the Service, its partners, parents, subsidiaries, agents, affiliates and/or licensors, as applicable, harmless for any improper, unauthorized or illegal uses of your account. 
+You agree that you will not allow unauthorized persons to use your account as identified by your mobile phone number. You agree to indemnify and hold Chikka Philippines, Inc and the Service, its partners, parents, subsidiaries, agents, affiliates and/or licensors, as applicable, harmless for any improper, unauthorized or illegal uses of your account.
 
-In order to use the Chikka Text Messenger, some personally identifiable information is necessary, such as your name, mobile number, user name, password, birthday, sex and country, among others, as specified by the Chikka Web Site. In addition, Chikka and all its affiliates may collect non-personally identifiable usage data and other information on all users. 
+In order to use the Chikka Text Messenger, some personally identifiable information is necessary, such as your name, mobile number, user name, password, birthday, sex and country, among others, as specified by the Chikka Web Site. In addition, Chikka and all its affiliates may collect non-personally identifiable usage data and other information on all users.
 
-###  Customer Service 
+### Customer Service
 
-Chikka Philippines, Inc may provide you with access to some Services without the need for you to register, such as sign-up via SMS. In such a case, your identification will be based on means of identification that we deem fitting, such as your mobile telephone number. 
+Chikka Philippines, Inc may provide you with access to some Services without the need for you to register, such as sign-up via SMS. In such a case, your identification will be based on means of identification that we deem fitting, such as your mobile telephone number.
 
 When you contact our customer service, we request for personal information to ensure that we have the necessary information to assist you with your inquiries. We communicate with users via email on a regular basis to provide requested services and assistance on issues relating to their account. 
 
@@ -68,8 +68,8 @@ The Chikka Text Messenger contains banner and text advertising that are linked t
 
 ###  Your Acceptance of this Policy 
 
-By visiting the Web Site, or using the Chikka Text Messenger you signify your assent to the terms of this Privacy Policy. **USE OF THIS WEB SITE OR THE CHIKKA TEXT MESSENGER SIGNIFIES YOUR ACCEPTANCE OF THE CHIKKA TEXT MESSENGER END-USER LICENSE AGREEMENT AND THIS PRIVACY POLICY.** Each time you use the Chikka Web Site, or the Chikka Text Messenger you signify that you have read and agree to be bound by the End-User License Agreement and the Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use the Web Site or the Chikka Text Messenger. We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time. Your continued use of the Web Site or the Chikka Text Messenger following the posting of changes to these terms means you accept these changes. 
+By visiting the Web Site, or using the Chikka Text Messenger you signify your assent to the terms of this Privacy Policy. Use of this web site or the Chikka Text Messenger signifies your acceptance of the Chikka Text Messenger end-user license agreement and this privacy policy. Each time you use the Chikka Web Site, or the Chikka Text Messenger you signify that you have read and agree to be bound by the End-User License Agreement and the Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use the Web Site or the Chikka Text Messenger. We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time. Your continued use of the Web Site or the Chikka Text Messenger following the posting of changes to these terms means you accept these changes. 
 
-###  Contact Information 
+### Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please email us at [ mailus@chikka.com ](mailto:mailus@chikka.com) . 
+If users have any questions or suggestions regarding our privacy policy, please email us at [mailus@chikka.com](mailto:mailus@chikka.com).
