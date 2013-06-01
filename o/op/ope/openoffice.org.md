@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openoffice.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230040048id_/http%3A//www.openoffice.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openoffice.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601121313id_/http%3A//www.openoffice.org/privacy.html) for the most accurate reproduction.*
 
 # 
 
