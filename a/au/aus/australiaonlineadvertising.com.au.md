@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the australiaonlineadvertising.com.au privacy policy that was archived on 2011-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110227101534id_/http%3A//www.australiaonlineadvertising.com.au/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiaonlineadvertising.com.au privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601195129id_/http%3A//australiaonlineadvertising.com.au/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy , Online Ads, Australia
+# Privacy Policy Online Advertising
 
 | 
 
@@ -65,6 +65,3 @@ News is not responsible for the content or practices of Web sites operated by th
 Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet café. You as an individual are responsible for the security of and access to your own computer.
 
 Whenever you voluntarily disclose personal information over the Internet that this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information. Please be careful and responsible whenever you are using the Internet.
-
-|   
----|---|---
