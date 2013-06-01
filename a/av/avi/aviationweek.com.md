@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aviationweek.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017141837id_/http%3A//www.aviationweek.com/footerpages/PrivacyampCookieNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviationweek.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601032340id_/http%3A//www.aviationweek.com/footerpages/Privacyamp%3BCookieNotice.aspx) for the most accurate reproduction.*
 
 # Privacy & Cookie Notice
 
