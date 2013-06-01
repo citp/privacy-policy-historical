@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bossip.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130002207id_/http%3A//bossip.wordpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bossip.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602005418id_/http%3A//bossip.wordpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy/Your California Privacy Rights | Bossip
 
@@ -24,7 +24,7 @@ Questions and How to Contact Us
 
 **Scope; Third Party Sites.**   This Privacy Policy applies only to information we collect at and through the Sites, and certain Company affiliated sites accessible through our Site. Our Sites also contains links to third party sites that are not owned or controlled by Company. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every website that collects personal information.
 
-**Terms of Use.**   Please note that your use of our Site is also subject to our [Terms of Use](https://web.archive.org/Local%20Settings/Temporary%20Internet%20Files/OLK18F/Moguldom%20Website%20Terms%20of%20Use%20\(5\).doc).  
+**Terms of Use.**   Please note that your use of our Site is also subject to our [Terms of Use](http://bossip.com/terms-of-use/).  
   
 **2.                   ** **INFORMATION WE COLLECT AND WHY WE COLLECT IT**
 
