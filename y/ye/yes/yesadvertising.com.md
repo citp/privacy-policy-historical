@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the yesadvertising.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204203655id_/http%3A//www.yesadvertising.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesadvertising.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601064617id_/http%3A//www.yesadvertising.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Affiliate Marketing Programs - Cost per Action - Cost per Lead
-
-## Privacy Policy
+# Privacy Policy | yesad
 
 ## Personal Information
 
@@ -10,12 +8,9 @@ At YesUp, we are committed to protecting your privacy. Any information we collec
 
   * PayPal.com:  
 <http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside>
-  
-
   * 2checkout.com:  
 [http://www.2checkout.com](http://www.2checkout.com/)
 
-  
 
 
 ## Cookies
@@ -36,11 +31,8 @@ While we use cookies in other parts of our Web site, cookies received with the p
 
   * PayPal.com:  
 <http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside>
-  
-
   * 2checkout.com:  
 [http://www.2checkout.com](http://www.2checkout.com/)
-  
 
 
 
