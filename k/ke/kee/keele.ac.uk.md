@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keele.ac.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230012603id_/http%3A//www.keele.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keele.ac.uk privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601201608id_/http%3A//www.keele.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies - Keele University
 
@@ -84,6 +84,8 @@ Types of cookie that may be used during your visit to our other websites are:
   * First party cookies
 
 
+
+Keele University use the [Mouseflow](http://mouseflow.com/) service to improve our website and user experience. If you would not like Mouseflow to record anything from your browser please [disable Mouseflow](http://mouseflow.com/opt-out/).
 
 #### Social Media third party cookies
 
