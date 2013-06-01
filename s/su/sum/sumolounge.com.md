@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumolounge.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024021249id_/http%3A//www.sumolounge.com/privacy.php%3Fre%3Duk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumolounge.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601122045id_/http%3A//www.sumolounge.com/privacy.php%3Fre%3Dna) for the most accurate reproduction.*
 
 # Bean Bag Store | Sumo Lounge Privacy Policy
 
@@ -14,28 +14,28 @@ Sumolounge also makes protecting your privacy a top priority:
 
 Changed your mind about being on the mailing list? Let us know you'd like to be removed, your information will be deleted from our lists promptly.
 
-[](https://web.archive.org/press-2012.php?re=uk)
+A Trusted Brand
 
 Latest News
 
- **ON/OFF Magazine**  
- _11/1/2012_
+ **Makobi Scribe**  
+ _5/28/2013_
 
-Check out this review from Spains ON/OFF magazine [Continue reading →](https://web.archive.org/press/article.php?id=on-off-beanbag-review-11-1-12&re=uk)
-
-* * *
-
- **TecheBlog**  
- _10/16/2012_
-
-Have you always wanted an ultra comfortable soft lounger that offers two seating positions in one? If so, then look no further than the Sumo Switch. Available in four different colors, this product is priced very affordable at just $299 shipped. More information [Continue reading →](https://web.archive.org/press/article.php?id=techeblog-bean-bag-review-10-16-12&re=uk)
+I think that your home is a direct reflection of your personality. I mean, you are the one who chooses the colors, furniture, wall art and knick knacks. With those choices come little bits of your personality sprinkled through them. [Continue reading →](https://web.archive.org/press/article.php?id=makobi-scribe-beanbag-review-05-28-13&re=na)
 
 * * *
 
- **The Gadgeteer**  
- _9/30/2012_
+ **PSNation**  
+ _5/27/2013_
 
-The folks at Sumo Lounge are now offering most of their line of adult sized bean bag chairs in new cozy fabric covers that include Microsuede, Corduroy and Ultimate Fur. Curling up in an Ultimate Fur Sumo Bean Bag will make you feel like you’ve snuggled up with a big bear. [Continue reading →](https://web.archive.org/press/article.php?id=the-gadgeteer-beanbag-review-09-30-12&re=uk)
+So I was asked to a review a chair on PS Nation. To be more precise, I was asked to review abeanbag. My first reaction was, “How do I review something that is not a game?” But then I realized that it was a Sumo Beanbag, and I quickly understood the relationship. [Continue reading →](https://web.archive.org/press/article.php?id=psnation-beanbag-review-05-27-13&re=na)
+
+* * *
+
+ **CoolSmartPhone**  
+ _5/24/2013_
+
+I’m sitting outside right now. I’m sitting in the sunshine on a beanbag. It’s not something I do very often but I think I’ll start to make a habit of it. [Continue reading →](https://web.archive.org/press/article.php?id=coolsmartphone-bean-bag-review-05-24-13&re=na)
 
 * * *
 
@@ -44,4 +44,4 @@ Follow Us
 GREAT OFFERS VIA EMAIL  
 Enter your email to receive our Email Newsletter to get Exclusive Discounts & Updates on New Sumo Products
 
- [](http://twitter.com/#!/sumobeanbag) [](http://www.facebook.com/SumoLoungeGear) [](https://plus.google.com/u/0/111087845515693673963/posts)
+Share
