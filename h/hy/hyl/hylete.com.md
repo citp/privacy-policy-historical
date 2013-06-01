@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hylete.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231091045id_/http%3A//www.hylete.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hylete.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601143441id_/http%3A//www.hylete.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# HYLETE - Privacy Policy
 
 Your privacy is important to us. HYLETE, LLC maintains high standards for the protection of your privacy at our web sites. Here is what you can expect when you visit our site. First, by using, accessing, or viewing this website, you irrevocably agree to the terms and conditions of use placed on this website by HYLETE, LLC, including but not limited to this privacy policy. Our privacy policy may be changed or modified at any time, so it is your responsibility to review this policy each time you visit our website. 
 
