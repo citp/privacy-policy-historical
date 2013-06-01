@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nomorepanic.co.uk privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116182829id_/http%3A//www.nomorepanic.co.uk/articles/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomorepanic.co.uk privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601073712id_/http%3A//nomorepanic.co.uk/articles/privacy) for the most accurate reproduction.*
 
 # No More Panic - Privacy
-
-Last Modified 2011-09-22 18:55:01
 
 > At No More Panic we take the privacy of our members and supporters very seriously and we are committed to protecting your privacy online..
 
@@ -19,18 +17,22 @@ We collect two kinds of information about our users:
   1.  **non-personal information** such as IP address (the location of the computer on the internet), pages accessed and files downloaded. This helps us to determine how many individuals use our sites, how many people visit on a regular basis, which pages are most popular, and which pages are least popular. This information doesn't tell us anything about who you are or where you live, it simply allows us to monitor and improve our service. From time to time IP address information may be shared amongst site administrators.
   2.  **personal information** such as name, postal address, telephone number, e-mail address, date of birth (where appropriate), information about your interests and hobbies etc. We collect this information only in connection with specific activities, such as registration or membership requests, feedback, donations etc. The information is either needed to fulfil your request or to enable us to provide you with a more personalised service. You don't have to disclose any of this information to browse our sites. However, if you do choose to withhold requested information, we may not be able to provide you with certain services.
 
+
+
 ### How is the information used?
 
 Any personal data relating to you will be used and recorded by us in accordance with current data protection legislation and this Privacy Policy. We will use the information you provide to:
 
-      * fulfil your requests, for example applications for membership, donations, participation in campaigns and provision of information; 
-      * process donations, or other payments and verify financial transactions; 
-      * identify contributors;
-      * provide a personalised service to you when you visit our websites e.g. by customising the content and/or layout of our pages for each individual user;
-      * record any contact we have with you;
-      * prevent or detect fraud or abuses of our websites and enable third parties to carry out technical, logistical or other functions on our behalf;
-      * in aggregate (and therefore anonymously) to profile your use of the websites and carry out research on our users' demographics, interests and behaviour to help us gain a better understanding of how our users navigate and use the websites, and to enable us to improve our service to you; and
-      * provide you with information which we think may be of interest to you, as explained below.
+  * fulfil your requests, for example applications for membership, donations, participation in campaigns and provision of information; 
+  * process donations, or other payments and verify financial transactions; 
+  * identify contributors;
+  * provide a personalised service to you when you visit our websites e.g. by customising the content and/or layout of our pages for each individual user;
+  * record any contact we have with you;
+  * prevent or detect fraud or abuses of our websites and enable third parties to carry out technical, logistical or other functions on our behalf;
+  * in aggregate (and therefore anonymously) to profile your use of the websites and carry out research on our users' demographics, interests and behaviour to help us gain a better understanding of how our users navigate and use the websites, and to enable us to improve our service to you; and
+  * provide you with information which we think may be of interest to you, as explained below.
+
+
 
 If we contact you by email or text message, each time you receive a message you will also have the option to decline to receive further information from us in that manner.
 
@@ -54,7 +56,12 @@ In simple terms a cookie is a small piece of information sent from our website t
 
 Cookies are pieces of information that a website transfers to your hard drive to store and sometimes track information about you. Most web browsers automatically accept cookies, but if you prefer, you should be able to change your browser to prevent that. You should read the information that came with your browser software to see how you can set up your browser to notify you when you receive a cookie, this should then give you the opportunity to decide whether to accept it. However, you may not be able to take full advantage of a website if you do so. Cookies are specific to the server that created them and cannot be accessed by other servers, which means they cannot be used to track your movements around the web.
 
-Cookies can be used for a variety of purposes, such as providing personalised pages, but at present, we use them only to track people visiting our sites and the pages they view on the site.
+Cookies can be used for a variety of purposes, such as providing personalised pages, but at present, we use them only to
+
+  * Log you into the website
+  * Anonymously track people visiting our sites and the pages they view on the site.
+
+
 
 Further information about cookies can be found at the Interactive Advertising Bureau's website[www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org").
 
@@ -77,6 +84,3 @@ Any personal information submitted via our websites or by text is treated in acc
 If you would like to review or revise information you have previously provided to us online, you may do so by emailing [nomorepanic](mailto:nomorepanic@btinternet.com).
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you or if you have any questions relating to this Privacy Policy or how we use the personal information we have about you, please email [nomorepanic](mailto:nomorepanic@btinternet.com).
-
-
-
