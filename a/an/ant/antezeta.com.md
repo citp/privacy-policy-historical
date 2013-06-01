@@ -1,21 +1,15 @@
-> *The following text is extracted and transformed from the antezeta.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106235957id_/http%3A//antezeta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antezeta.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602002407id_/http%3A//antezeta.com/about/privacy) for the most accurate reproduction.*
 
-# » Antezeta - Data Privacy Statement
-
-#### [Sign up](http://antezeta.com/news-signup.html "Antezeta Newsletter Sign-up") now for our free newsletter!
-
-  * Keep up to date on news from Antezeta!
-
-
+# Data Privacy Policy
 
 This page explains our privacy policy and how we will use any information resulting from your visit to our website.
 
-  1. [Sites covered by this Privacy Statement](http://antezeta.com/privacy.html#p1 "Jump directly to the topic")
-  2. [What information do we collect?](http://antezeta.com/privacy.html#p2 "Jump directly to the topic")
-  3. [How we use your information](http://antezeta.com/privacy.html#p3 "Jump directly to the topic")
-  4. [Who we share your information with](http://antezeta.com/privacy.html#p4 "Jump directly to the topic")
-  5. [Inquires](http://antezeta.com/privacy.html#p5 "Jump directly to the topic")
-  6. [Changes to this Privacy Statement](http://antezeta.com/privacy.html#p6 "Jump directly to the topic")
+  1. [Sites covered by this Privacy Statement](http://antezeta.com/about/privacy#p1 "Jump directly to the topic")
+  2. [What information do we collect?](http://antezeta.com/about/privacy#p2 "Jump directly to the topic")
+  3. [How we use your information](http://antezeta.com/about/privacy#p3 "Jump directly to the topic")
+  4. [Who we share your information with](http://antezeta.com/about/privacy#p4 "Jump directly to the topic")
+  5. [Inquires](http://antezeta.com/about/privacy#p5 "Jump directly to the topic")
+  6. [Changes to this Privacy Statement](http://antezeta.com/about/privacy#p6 "Jump directly to the topic")
 
 
 
@@ -31,7 +25,7 @@ It does not cover external websites mentioned in links throughout this website w
 
 ### Non-personal information
 
-If you are a user who has not logged into our site, we only capture usage and service operation data that is not associated with a specific personal identity. We collect and analyze non-personal information to evaluate how visitors use Antezeta websites. This data includes your IP address, URL "page" request information, browser type, operating system and referring link, if any. We aggregate this data to compile site usage statistics as part of a site improvement program.
+If you are a user who has not logged into our site, we only capture usage and service operation data that is not associated with a specific personal identity. We collect and analyze non-personal information to evaluate how visitors use Antezeta websites. This data includes your IP address, URL “page” request information, browser type, operating system and referring link, if any. We aggregate this data to compile site usage statistics as part of a site improvement program.
 
 ### Reserved Client Area users
 
@@ -54,11 +48,11 @@ This site may use cookies to offer personalization for returning site visitors a
 
 #### Google Advertising & Cookies
 
-Some pages on this domain may carry Google advertising to offset the costs of maintaing the content. Please refer to Google's [help documentation](http://www.google.com/policies/privacy/ads/) on the subject for current information on their use of cookies in their advertising system.
+Some pages on this domain may carry Google advertising to offset the costs of maintaing the content. Please refer to Google’s [help documentation](http://www.google.com/policies/privacy/ads/) on the subject for current information on their use of cookies in their advertising system.
 
 ## How we use your information
 
-Non-personal data is aggregated for reporting about our website usability and effectiveness. It is used as part of a program to continually improve the quality of the site and its content in order to better server the site's users.
+Non-personal data is aggregated for reporting about our website usability and effectiveness. It is used as part of a program to continually improve the quality of the site and its content in order to better server the site’s users.
 
 Personal information given is used to service your requests.
 
@@ -75,9 +69,3 @@ If you have a question or complaint about this _Privacy Statement_ or about the 
 This policy may change from time to time. If it changes in any way, we will place the updated version here. Regularly reviewing this page when you visit our site ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
 Last updated: 2005-06-25.
-
-* * *
-
-* * *
-
-* * *
