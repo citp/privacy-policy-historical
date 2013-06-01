@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkshade.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003094056id_/http%3A//linkshade.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkshade.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602012450id_/http%3A//linkshade.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # LinkShade Directory - Privacy Policy
 
