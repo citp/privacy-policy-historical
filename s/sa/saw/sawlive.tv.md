@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sawlive.tv privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010155253id_/http%3A//www.sawlive.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sawlive.tv privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601182318id_/http%3A//sawlive.tv/privacy) for the most accurate reproduction.*
 
 # Stream&Watch
 
