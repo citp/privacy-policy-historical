@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malegislature.gov privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124215920id_/http%3A//malegislature.gov/Site/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malegislature.gov privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601192136id_/http%3A//malegislature.gov/Site/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
