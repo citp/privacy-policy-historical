@@ -1,71 +1,50 @@
-> *The following text is extracted and transformed from the newyork.com privacy policy that was archived on 2012-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120926063327id_/http%3A//newyork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyork.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601223535id_/http%3A//www.newyork.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - NewYork.com
 
-FOLLOW US:  
-[](http://facebook.com/NewYorkCom) [](http://twitter.com/newyorkcom) [](https://web.archive.org/) WHERE TO? 
+**NewYork.com Privacy Policy**
 
-New York City
+Privacy is of the utmost importance to NewYork.com. And as such we have drafted a privacy policy that clearly states what will and will not be done with all personal information. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its practices regarding personal information. 
 
-[SIGNUP FOR DEALS AND NEWSLETTER]()
+The following discloses our information gathering and dissemination practices. NewYork.com is strongly committed to protecting the privacy of its website users and current customers. The intent of this privacy policy is to detail the information NewYork.com may gather about individuals who visit its Web sites, how that information is used, and its disclosure practices. Please note that this policy applies only to NewYork.com’s websites and not to the Web sites of our partners, other companies, or organizations to which we provide links. 
 
-[Home](https://web.archive.org/) Privacy Policy
+We may collect information that can identify you (“personal information”), such as your name and email address, when you (or other users) provide it to us when using our website or in some other manner, or from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. 
 
-NewYork.com Internet Holdings Inc has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: NewYork.com.
+Your Personal Information - We do not collect personal information when you visit our site unless you complete an optional registration, submit a survey, make a purchase, or enter a contest. If you do register, submit a survey, make a purchase, or enter a contest, it is NewYork.com's, practice never to disclose any of your personal information to third parties. When providing personal information, we may ask for contact information such as name, postal address and email address. With your permission in providing your information to us, we will use this contact information to send newsletters, information about NewYork.com or other promotional materials. You always have the option of discontinuing future mailings. To do so, please contact the company directly by using the information found in the "Contact Us" section below, or simply follow the link provided in any mailing. 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to gather broad demographic information, such as country of origin.
+We use email links or Web forms throughout our site for customer comments and suggestions. We will make every effort to respond to your questions or comments in a prompt manner. Any information we collect from emails or Web forms is used for the purpose of responding to the questions or comments. We may also file your comments to improve the site and program, or review and discard the information. 
 
-Our site also may use unique identifiers to confirm data, such as your geographical location and we use such data in the aggregate to run internal analyses to improve upon your user experience.
+NewYork.com is fully committed to protecting your personal information. We do not by practice share, sell, or rent any information you provide to us to any unaffiliated third party. NewYork.com may disclose aggregate data and statistics in order to describe our site and services to prospective partners, co-branded partners, advertisers and other third parties, or other lawful purposes. We do not use your mailing address information for unsolicited marketing unless you have provided us with your information by registering or making a purchase, we either have your permission or believe in good faith that the law requires it. 
 
-Through surveys and newsletter registration, our site may request users to give us contact, demographic, and/or financial information (such as their name, locale, gender, age, income level and email address). The demographic information is used to enhance user experience so we can be more content specific. The contact information is used to notify users of new content, for surveys and newsletters, via email. Financial information that is collected is used primarily for in-house statistics, advertising, and marketing target information. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+Third Parties - NewYork.com has partnerships with third parties who may provide you with a variety of services if you have signed up for them. As a part of these partnerships, any information you provide directly to that third party in connection with these services is covered by the privacy practices of that third party. NewYork.com recommends you consult the privacy policies of our third party partners prior to providing any personal information to them. 
 
-We run contests on our site in which we ask visitors for contact information (such as their name and email address) and demographic information (such as their zip code, age, and/or income level). The user's contact information is used to contact the visitor when necessary, such as if they win a contest or to notify users of upcoming contests. There are three primary types of contests: (1.) We host solely and all information that is collected stays in-house. (2.) We may share address information with third party for shipping purposes. (3.) In some rare instances, a third party may host the contest and all information is then shared. In our contest registration, we give our users the opportunity to sign up for the NewYork.com newsletter. However, users may opt-out of receiving future mailings by selecting the "unsubscribe" link at the bottom of the newsletter. 
+Purchases - When you place an order on NewYork.com and any sites located on the domain with a co-branded domain, we will ask you for the following personal information: name, email address, mailing address, phone number, credit card number and its expiration date. This information is transmitted via a secure encrypted server using Secure Sockets Layer (SSL) technology, the approved industry standard (see Security section below). We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure. If necessary, we will use your personal information to contact you for account purposes and/or to present you with new offers and promotions. Please note that on all correspondence, with respect to sending you electronic communications with new offers and special discounts- you have the ability to unsubscribe from receiving additional emails from NewYork.com at anytime by clicking the “unsubscribe” link. 
 
-NewYork.com products and services are directed at an adult market, and therefore this site is intended for use by adults only. NewYork.com encourages parents to take an active role in their children's use of the Internet, and to inform them of the dangers of providing information about themselves over the Internet. Children of any age should always ask a parent for permission before sending personal information to anyone online. No information should be submitted to or posted on this Web site by users under 13 years of age without the consent of their parent or guardian. 
+Contests or Surveys - In the case of promotions or surveys, personal data will be collected. Such surveys or contests may ask you for personal information, which may include demographic details (e.g., ZIP code, age or income level). If necessary, we will use your personal information to contact you regarding your entry. This information is also collected for the purpose of verifying eligibility and in some case entrant preferences. In these cases information will be passed on only in anonymous aggregate form unless otherwise specifically stated. Whereas it is specifically stated that this information will be passed on there will be an option available to have personal information withheld and information will only be used for clearly defined purposes. 
 
-Users that NewYork.com knows to be under the age of 13 are hereby required to provide the e-mail address of their parent or guardian to the Administrator ( info@NewYork.com ) so that NewYork.com may alert the parent or guardian of their child's use of this Website. The parent or guardian must consent to NewYork.com's collection of their child's personal information. A known child user will be restricted from providing personal information until such consent is received. No information collected from users known to be under age 13 will be used for any marketing or promotional purposes outside NewYork.com, Inc. If NewYork.com collects personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (U.S.C. 6501 et seq.).
+Cookies, IP Addresses and Security - "Cookies" are used to distinguish and relate non-personal data to individuals. These are "small strings of text" that are stored in Browsers; Cookies are not programs that can damage your computer. These "cookies" are also used to help you set your preferences when visiting our sites, so once you have filled out preferences or other information you don't have to fill it out on your next visit. 
 
-This site contains links to other sites. NewYork.com is not responsible for the privacy practices or the content of such Web sites.
+If you wish to stop the Cookie functionality on your browser you may do so by following some simple procedures. If you are using Netscape Navigator visit <http://sitesearch.netscape.com/products/security/resources/faq/cookies.html> . If you are using Internet Explorer visit <http://register.microsoft.com/regwiz/include/cookies.htm>. 
 
-**PUBLIC FORUMS**
+We also use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you. 
 
-At times, this site may contain message boards, and/or news groups available to its users. We request users to give us contact information, such as name, email, address, occupation, and interests to be a registered bulletin board user. This information is optional and not necessary to post messages. This information may be used by the administrator to send the user email notices. However, users may opt-out of receiving future mailings; see the choice/opt-out section below. Please remember that any information that is disclosed in these areas becomes public information and users should exercise caution when deciding to disclose personal information.
+We use industry-standard SSL authentication to protect the confidentiality and privacy of online transactions conducted at our site. SSL authentication and encryption (scrambling) ensures that your online transaction and credit card information are safe from third-party interception. 
 
-**SECURITY**
+Notification of Changes - This policy will be revised over time as new features are added to the Web site. We will post changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If there is a change in the way we use your personal information, we will notify you via written or email notice of those changes and post the changes in our privacy statement a minimum of 30 days prior to the change taking effect. At the time you receive such a message, you will be able to opt-out of having your information used by contacting us via any of the methods listed above or below. 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use Secure Shell to access our servers remotely, and all server sessions are encrypted. We protect the secure areas of our site (including our databases and intranet) by using a Gauntlet firewall.
+Compliance - NewYork.com reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where practical, NewYork.com will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we also reserve the right to share aggregated "site usage" information with third parties. 
 
-**CHOICE/OPT-OUT**
+Contacting Us - In addition to accessing the Contact Us page, NewYork.com offers you the following options for contacting us should you have questions regarding any aspect of our service; removing your information from our database; opting out of future communications; correcting, updating or deleting personal information; or no longer 
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+receiving our service: 
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+Direct questions or concerns to: 
 
-        1.  Users can send email to [info@NewYork.com](mailto:info@newyork.com)   
-        2.  Users can send mail to the following postal address:   
-              **33 W19th Street, 4 th Floor, New York, NY 10011**  
-        3.  Users can call the following telephone numbers: (646) 619-1219
+[ PrivacyIssues@NewYork.com](mailto:privacyissues@newyork.com?Subject=Privacy%20Issues)
 
-**USE OF THIRD PARTY AD NETWORKS**
+NewYork.com   
+Address: 589 8th Avenue, 14th Floor   
+New York, NY 10018   
+Fax: (305) 907-5032 
 
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/).
-
-**CORRECT/UPDATE**
-
-This site gives users the following options for changing and modifying information previously provided. 
-
-        1.  Users can send email to [info@NewYork.com ](mailto:info@newyork.com)  
-        2.  Users can send mail to the following postal address:   
-              **33 W19th Street, 4 th Floor, New York, NY 10011**  
-        3.  Users can call the following telephone numbers: (646) 619-1219
-
-This policy may change from time to time so please check back periodically.
-
-**CONTACTING THE WEBSITE**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact: 
-
-**NewYork.com, Inc.**    
-33 W19th Street, 4th Floor   
-New York, NY 10011   
-or email us at [info@NewYork.com](mailto:info@newyork.com)
+Thank you for taking the time to review our privacy policy. Your privacy is very important to us we promise to protect it. 
