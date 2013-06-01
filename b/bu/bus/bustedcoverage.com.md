@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bustedcoverage.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226234910id_/http%3A//bustedcoverage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustedcoverage.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601145320id_/http%3A//bustedcoverage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BustedCoverage – Sports Gossip | Drunk Athletes | Hot Cheerleaders | Football News
+# Privacy Policy
 
 **Busted Coverage** knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
@@ -57,3 +57,5 @@ If you decide to visit the **Busted Coverage** website, your visit and any possi
 **Effective Date of this Privacy Policy**
 
 This Privacy Policy is effective as of Wednesday, May 11th, 2011 and last updated Wednesday, May 11th, 2011.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
