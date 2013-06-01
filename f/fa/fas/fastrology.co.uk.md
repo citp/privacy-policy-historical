@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastrology.co.uk privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121103420id_/http%3A//www.fastrology.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastrology.co.uk privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601020623id_/http%3A//www.fastrology.co.uk/privacy) for the most accurate reproduction.*
 
 # Astrology & Horoscopes, including Star Signs, Daily & Free Horoscopes
 
@@ -19,7 +19,7 @@ We use personal information collected via fastrology.co.uk to:
   * pass on to selected companies to provide you with other offers and promotions
   * help other companies profile and extend their databases
   * facilitate communication between yourself and others
-  * allow us to send you, via e-mail, telephone, SMS and post, special offers and promotions from Marketing Craze Ltd and Premium Genie.
+  * Allow us to send you, via e-mail, telephone, SMS and post, special offers and promotions from prize sponsors and promoters including but not limited to Marketing Craze Ltd and Premium Genie.
   * provide third party offers which may include premium rate SMS and telephone charges. Check terms for details and obtain permission from the bill payer before using these services.
 
 
