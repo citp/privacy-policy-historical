@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluelounge.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130005816id_/http%3A//www.bluelounge.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluelounge.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601050828id_/http%3A//www.bluelounge.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Bluelounge - Privacy Policy
 
@@ -40,10 +40,6 @@ We communicate with users on a regular basis to provide requested services and i
 ### Legal Disclaimer
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or a legal process served on our web site.
-
-### Third-Party Advertisers
-
-We do not share any data with third-party advertisers.
 
 ### Mailing Lists
 
