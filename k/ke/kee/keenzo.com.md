@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keenzo.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205215428id_/http%3A//www.keenzo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keenzo.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601113601id_/http%3A//www.keenzo.com/privacy.asp) for the most accurate reproduction.*
 
 # Keenzo - Legal Policies
 
@@ -6,32 +6,29 @@
 
 Mailing Address
 
-**  
-350 Jericho Turnpike  
-Suite 206  
-Jericho, NY 11753
+**
 
-(516) 280-3767 **  Phone**  
-(516) 706-1464 **  Fax**  
+**  Phone**  
+**  Fax**  
 **  
 Office Hours**  
 Monday - Friday 10am - 5pm EST
 
  **Sales**  
 Account information/ quotes / product information / pre-sales support  
-[Contact Sales](https://web.archive.org/web/20091205215428id_/http%3A//www.keenzo.com/contact.asp)
+[Contact Sales](https://web.archive.org/web/20130601113601id_/http%3A//www.keenzo.com/contact.asp)
 
 **Customer Service**  
 Order/RMA status  
-[ Contact Customer Service](https://web.archive.org/web/20091205215428id_/http%3A//www.keenzo.com/contact.asp)
+[ Contact Customer Service](https://web.archive.org/web/20130601113601id_/http%3A//www.keenzo.com/contact.asp)
 
 **Employment Opportunities  
 **Current career opportunities   
-[ Contact Personnel](https://web.archive.org/web/20091205215428id_/http%3A//www.keenzo.com/contact.asp)
+[ Contact Personnel](https://web.archive.org/web/20130601113601id_/http%3A//www.keenzo.com/contact.asp)
 
 **Web Site**  
 Compliments, problems, suggestions and questions   
-[ Contact Web Support](https://web.archive.org/web/20091205215428id_/http%3A//www.keenzo.com/contact.asp)
+[ Contact Web Support](https://web.archive.org/web/20130601113601id_/http%3A//www.keenzo.com/contact.asp)
 
 | 
 
@@ -48,19 +45,12 @@ Collected Information and Usage
 Keenzo also logs your IP address and browsing patterns while on our website.  This information is used to analyze visitor trends and demographics as well as detecting and preventing fraudulent activity. 
 
 **Security**  
-Keenzo takes precautions to ensure our customer data is secure both on and off line. When entering sensitive information on Keenzo.com,  that information is protected by SSL (Secure Socket Layer), the best encryption in the industry.   Keenzo employs encryption by VeriSign, the most advanced form of SSL available.  To learn more about Verisign, please visit their website at [http://www.VeriSign.com](http://www.verisign.com/).  
-
-Our servers are scanned regularly by [ControlScan.com](http://www.controlscan.com/) and [SecurityMetrics.com](http://www.securitymetrics.com/) to ensure a secure and safe shopping experience.
-
-[ ](https://www.securitymetrics.com/site_certificate.adp?s=209%2e196%2e155%2e148&i=292358)   [](http://www.controlscan.com/seal/verify2.php?subid=1682&id=17)   [](http://www.controlscan.com/seal/verify2.php?subid=1682&id=13) [](http://www.controlscan.com/seal/verify2.php?subid=1682&id=75)
-
+Keenzo takes precautions to ensure our customer data is secure both on and off line. When entering sensitive information on Keenzo.com,  that information is protected by SSL (Secure Socket Layer), the best encryption in the industry.   Keenzo employs encryption by VeriSign, the most advanced form of SSL available.  To learn more about Verisign, please visit their website at [http://www.VeriSign.com](http://www.verisign.com/).     
 The only data pertaining to your credit card that we keep on our servers will be the last four digits to be used as a reference for you and our processing staff.  All other credit card data is purged once we receive authorization on the card immediately after you enter your order.. 
 
 **Contacting Keenzo.com  
 **If you have any questions about the policies, practices, or dealings with this site, you can contact us at: 
 
-Keenzo, Inc.  
-350 Jericho Turnpike  
-Suite 206  
-Jericho, NY 11753  
+Keenzo, Inc.
+
 [info@Keenzo.com ](mailto:info@Keenzo.com)
