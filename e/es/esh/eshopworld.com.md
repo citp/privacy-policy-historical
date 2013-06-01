@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eshopworld.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028185245id_/http%3A//www.eshopworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eshopworld.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601162030id_/http%3A//eshopworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy | eShopWorld
 
