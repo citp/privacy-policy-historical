@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the wpwebhost.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202061635id_/http%3A//www.wpwebhost.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpwebhost.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602003818id_/http%3A//www.wpwebhost.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy|WPWebHost
 
 Effective on May 5, 2011  
 WPWebHost.com is committed to protecting your privacy. This privacy policy describes how wpwebhost.com collects and uses the personal information you provide on our website: WPWebHost.com. It also describes the choices available to you regarding wpwebhost.com’s use of your personal information and the steps you can take to access this information and to request that we correct or update it.
 
- **TRUSTe Privacy Seal**
+**TRUSTe Privacy Seal**
 
 [](http://privacy.truste.com/certified-privacy/Exabytes-Network-%28Singapore%29-Pte.-Ltd./validation?validationId=1a4ae14e-1c0b-4fdb-9ebb-982ce51a805d)
 
@@ -14,7 +14,7 @@ If you have questions or concerns regarding this policy, you should first contac
 
 ## Collection and Use of Personal Information
 
- **We collect the following personal information from you:**
+**We collect the following personal information from you:**
 
   * Contact Information such as name, email address, mailing address, phone number
   * Billing Information such as credit card number, and billing address
@@ -24,7 +24,7 @@ If you have questions or concerns regarding this policy, you should first contac
 
 
 
- **We also collect the following information from you:**
+**We also collect the following information from you:**
 
   * Demographic information such as household income, age, education, gender, interests, and zip code
 
@@ -32,7 +32,7 @@ If you have questions or concerns regarding this policy, you should first contac
 
 As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
- **We use this information to:**
+**We use this information to:**
 
   * Fulfill your order
   * Send you an order confirmation
@@ -47,7 +47,7 @@ As is true of most Web sites, we automatically gather information about your com
 
 
 
- **Choice/Opt-Out**
+**Choice/Opt-Out**
 
 You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [admin@wpwebhost.com](http://privacy.truste.com/privacy-policy/Exabytes-Network-%28Singapore%29-Pte.-Ltd./certified/admin@wpwebhost.com).
 
@@ -66,7 +66,7 @@ We may also disclose your personal information
 
 
 
- _PayPal_
+_PayPal_
 
 If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal’s privacy policy will apply to the information you provide on the PayPal Web site.
 
@@ -74,7 +74,7 @@ If you choose to use PayPal to finalize and pay for your order, you will provide
 
 We or a third party contracted by us may use technologies such as cookies, Web beacons, or scripts to gather information about how you and others interact with our Web site. For example, we will know how many users access a specific areas or features within our site and which links or ads they clicked on. We use this aggregated information to understand and optimize how our site is used, improve our marketing efforts, and provide content and features that are of interest to you.
 
- **Links to Other Web Sites**
+**Links to Other Web Sites**
 
 Our Site includes links to other Web sites whose privacy practices may differ from those of Exabytes Network (Singapore) Pte. Ltd.. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
@@ -88,11 +88,11 @@ We provide two means for you to make a purchase on our site. You can either use 
 
 ## Additional Policy Information
 
- **Correcting and Updating Your Personal Information**
+**Correcting and Updating Your Personal Information**
 
 To review and update your personal information to ensure it is accurate, contact us at [admin@wpwebhost.com](http://privacy.truste.com/privacy-policy/Exabytes-Network-%28Singapore%29-Pte.-Ltd./certified/admin@wpwebhost.com).
 
- **Notification of Privacy Statement Changes**
+**Notification of Privacy Statement Changes**
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
