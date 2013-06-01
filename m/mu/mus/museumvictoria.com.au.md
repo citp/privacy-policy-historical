@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120151111id_/http%3A//museumvictoria.com.au/footer-links/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601082925id_/http%3A//museumvictoria.com.au/footer-links/privacy) for the most accurate reproduction.*
 
 # Privacy: Museum Victoria
 
@@ -35,12 +35,12 @@ If you provide us with personal information about someone else, for example in a
 For online ticketing purposes, Museum Victoria collects and uses your personal information to operate its online ticketing system and deliver the services you have requested. For this purpose, Museum Victoria collects:
 
   * Your name for validation purposes for ticket queries
-  * Your e-mail address in order to e-mail you your ticket, and address any queries
+  * Your e-mail address in order to e-mail you your ticket, address any queries and potentially send you a pre-visit reminder email
   * Your phone number for a back up contact
   * Your post code and country details for understanding visitor demographics as part of the Museum visitor research program
   * It is your choice to provide street address details. If you provide these they may be used as an additional contact and/or additional validation for any ticket queries
   * If you select the 'receive news and updates from Museum Victoria' option you agree to receive regular e-mail updates from Museum Victoria. 
-  * If, however, in an MV website you elect to receive information on future events directly from other parties, then we will provide those parties with your contact details to enable those parties to contact you.- should this be removed to the more general statement per the green above?
+  * If, however, in an MV website you elect to receive information on future events directly from other parties, then we will provide those parties with your contact details to enable those parties to contact you.
 
 
 
