@@ -1,18 +1,7 @@
-> *The following text is extracted and transformed from the pigsback.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217052648id_/http%3A//www.pigsback.com/pages/3/49/279.aspx%3Fpbq%3D463%2C463%2CVOVTL) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pigsback.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601143054id_/http%3A//pigsback.com/pages/3/49/279.aspx%3Fpbq%3D463%2C463%2CVOVFL) for the most accurate reproduction.*
 
-# You get more back with Pigsback.com - Pigsback.com
+# Pigsback.com - Get on it! - Pigsback.com - Get on it!
 
-  
-|   
----  
-|  |  |    
----  
-|  | 
-
-  
-|   
----|---|---  
-  
 | 
 
 Safeguarding your privacy is our number one priority. 
@@ -72,36 +61,11 @@ If a user elects to use our referral service for informing a friend about our si
 ---  
   
 The Pigsback.com Programme and website are owned and operated by:   
-Empathy Marketing Ltd having registered offices at 3016 Lake Drive , City West Campus, Saggart, Co Dublin, Rep of Ireland. 
-
-There is more detailed information on the [Empathy Marketing website](http://www.empathymarketing.com/)  
+Empathy Marketing Ltd having registered offices at 3016 Lake Drive , City West Campus, Saggart, Co Dublin, Rep of Ireland.   
   
   
   
   
   
-|  | Contact Pigsback.com about the Privacy Policy  |   
----|---  
-  
-We welcome questions and comments about our Privacy Policy. If you want to contact us, email us at [memberservices@pigsback.com](mailto:memberservices@pigsback.com). Or send mail to:  
-  
-| Ireland Office |   | UK Office  
----|---|---  
-**Empathy Marketing Limited**  
-3016 Lake Drive,  
-Citywest Business Campus,  
-Saggart,  
-Dublin 24,  
-Republic of Ireland.
-
-Tel: +353 1243 1900 
-
-|   | **Empathy Marketing UK Ltd**  
-100 Dean Street,  
-London,  
-W1D 3TF,  
-United Kingdom.
-
-Tel: +44 207 287 2408  
-  
+   
  
