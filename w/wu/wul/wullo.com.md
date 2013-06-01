@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wullo.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201034754id_/http%3A//wullo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wullo.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601163711id_/http%3A//www.wullo.com/privacy.php) for the most accurate reproduction.*
 
 # Wullo | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Updated April 5, 2011 
 
-Wullo.com ("Wullo") takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact Wullo at 15143 Woodlawn Ave. Tustin, CA 92780 or via our [contact form](https://web.archive.org/web/20121201034754id_/http%3A//wullo.com/contact.php). 
+Wullo.com ("Wullo") takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact Wullo at 15143 Woodlawn Ave. Tustin, CA 92780 or via our [contact form](https://web.archive.org/web/20130601163711id_/http%3A//www.wullo.com/contact.php). 
 
 By using the Wullo website, or submitting information to us by other means, you are subjecting your information to the practices outlined in this Privacy Policy. This Privacy Policy covers Wullo's treatment of personal information that we collect when you are on Wullo's website and when you use Wullo's services. This policy does not apply to the practices of third parties that Wullo does not own or control, including websites that we may link to, or to individuals that Wullo does not employ or manage. 
 
@@ -34,7 +34,7 @@ Through our use of Facebook products and services, including but not limited to 
 
 #### Email Communications
 
-Wullo respects your email preferences and will never provide your email address to a third party without your permission, except as may be prescribed elsewhere in this Privacy Policy. If you provide us your email address, Wullo may email you job alerts, account notifications, news, offers, surveys, promotions, and other communications. If you do not want to receive particular types of email messages from Wullo, follow the unsubscribe instructions contained in the email message to notify us of our preferences, or click here. 
+Wullo respects your email preferences and will never provide your email address to a third party without your permission, except as may be prescribed elsewhere in this Privacy Policy. If you provide us your email address, Wullo may email you job alerts, account notifications, news, offers, surveys, promotions, and other communications. If you do not want to receive particular types of email messages from Wullo, follow the unsubscribe instructions contained in the email message to notify us of our preferences, or [click here](https://web.archive.org/web/20130601163711id_/http%3A//www.wullo.com/unsubscribe.php). 
 
 #### Children's Privacy
 
@@ -44,7 +44,7 @@ Wullo's site is not intended for and may not be used by children under the age o
 
 Wullo uses automated processes and third party aggregators to collect and present information that has been created by third parties, so we cannot verify the accuracy or legitimacy of all job postings displayed on our site. We strongly encourage you to exercise caution when providing information about yourself to others online, including when you apply for jobs found on Wullo. 
 
-Never provide your social security number, credit card information, bank account details, or unnecessary personal information to a potential employer. Never participate in a financial transaction of any sort with a potential employer. Always be cautions of opportunities that sound too good to be true or require you to act as a financial intermediary, particularly for an overseas person. 
+Never provide your social security number, credit card information, bank account details, or unnecessary personal information to a potential employer. Never participate in a financial transaction of any sort with a potential employer. Always be cautious of opportunities that sound too good to be true or require you to act as a financial intermediary, particularly for an overseas person. 
 
 #### Cookies
 
@@ -62,7 +62,7 @@ If there is a change of control in Wullo's business (whether by merger, sale, or
 
 If you decide to use Wullo's site or services, your use and any possible dispute over privacy is subject to this Privacy Policy. 
 
-If you have questions about this Privacy Policy, you can [contact us.](https://web.archive.org/web/20121201034754id_/http%3A//wullo.com/contact.php)
+If you have questions about this Privacy Policy, you can [contact us.](https://web.archive.org/web/20130601163711id_/http%3A//www.wullo.com/contact.php)
 
 #### Contact Information
 
