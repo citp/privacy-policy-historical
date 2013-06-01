@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flashportal.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231060036id_/http%3A//www.flashportal.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashportal.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602012012id_/http%3A//www.flashportal.com/policy.php) for the most accurate reproduction.*
 
-# Welcome to Flash Portal
+# Welcome to Flashportal
 
 **Privacy Policy**
 
