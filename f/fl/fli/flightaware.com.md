@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the flightaware.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010072753id_/http%3A//flightaware.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightaware.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601100252id_/http%3A//flightaware.com/about/privacy) for the most accurate reproduction.*
 
-# FlightAware ✈ Privacy Policy
+# Privacy Policy ✈ FlightAware
 
 | 
+
+## [About FlightAware](https://web.archive.org/about/) ✈ Privacy Policy
 
 Thank you for visiting FlightAware. FlightAware is committed to honoring the privacy of our members and visitors. 
 
@@ -26,7 +28,7 @@ We store all user information in secure databases protected via a variety of acc
 
 ### What information is made to other FlightAware users?
 
-When contributing to the FlightAware public discussion forums, photo system, or other community features, it is inherent in the form of communication that your unique user name is revealed to identify yourself. All other information in your profile is optional, but will be displayed if you have entered such information and not specifically asked that it is not displayed. 
+When contributing to the FlightAware public discussion forums, photo system, Squawks, or other community features, it is inherent in the form of communication that your unique user name is revealed to identify yourself. All other information in your profile is optional, but will be displayed if you have entered such information and not specifically asked that it is not displayed. 
 
 When interacting with other members or sending third parties a message, flight alert, notification, flight plan, or other details via FlightAware, your username, full name and email address may be distributed as part of the interaction. Similarly, if you accept (directly or implicitly) or reply to an interaction, the same information may be similarly distributed. 
 
@@ -46,4 +48,4 @@ Children under the age of thirteen years old may not register for FlightAware or
 
 ### Who can I contact if I have any questions regarding my privacy?
 
-Please contact us [contact us via e-mail](mailto:contact-privacy-1349854073@flightaware.com) with any questions or comments. For other contact, please refer to the [contact us](https://web.archive.org/about/contact/) page. 
+Please contact us [contact us](https://web.archive.org/about/contact) with any questions or comments. 
