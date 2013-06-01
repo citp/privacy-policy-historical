@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainden.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227143405id_/http%3A//brainden.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainden.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601041354id_/http%3A//brainden.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # BrainDen.com - Privacy Policy
 
