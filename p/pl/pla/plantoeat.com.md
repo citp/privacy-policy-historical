@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the plantoeat.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226155925id_/http%3A//www.plantoeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plantoeat.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601220303id_/http%3A//www.plantoeat.com/privacy) for the most accurate reproduction.*
 
 # Plan to Eat - Web Site Terms and Conditions of Use
+
+**Last updated:** 4/25/2013
 
 ## About the Plan to Eat Privacy Policy
 
@@ -122,4 +124,4 @@ California Civil Code Section 1798.83 permits customers who are California resid
 
 ### Contact Us
 
-If you have any questions or comments about this Privacy Policy, the privacy practices of this Web site, or your dealings with Plan to Eat, please contact us at support@plantoeat.com or use the following address: **Plan to Eat** , 202 East 4th Street, Loveland, Colorado, 80537. 
+If you have any questions or comments about this Privacy Policy, the privacy practices of this Web site, or your dealings with Plan to Eat, please contact us at support@plantoeat.com or use the following address: **Plan to Eat** , 411 N. Railroad Ave., Loveland, Colorado, 80537. 
