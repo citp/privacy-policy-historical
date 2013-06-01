@@ -1,15 +1,19 @@
-<!--The following is the downloaded HTML source of the tapad.com privacy policy that was archived on 2012-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121220062732id_/http%3A//www.tapad.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tapad.com privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601093223id_/http%3A//www.tapad.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" dir="ltr" lang="en-US"><!--<![endif]--><head>
+<!DOCTYPE html><html class="no-js" lang="en-US"><!--<![endif]--><head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width">
+<meta property="og:image" content="http://www.tapad.com/wp-content/uploads/2013/01/tapad-rb-square-500px.jpg">
 <title>Privacy | Tapad</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="image_src" href="http://www.tapad.com/wp-content/uploads/2013/01/tapad-rb-square-500px.jpg">
+
 <link rel="stylesheet" href="http://www.tapad.com/wp-content/themes/tapad/css/main.css">
 <link rel="stylesheet" href="http://www.tapad.com/wp-content/themes/tapad/css/bootstrap-responsive.min.css">
+
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.tapad.com/wp-content/themes/tapad/js/vendor/modernizr-2.6.1-respond-1.1.0.min.js"></script>
 <link rel="pingback" href="http://www.tapad.com/xmlrpc.php">
 <!--[if lt IE 9]>
@@ -17,32 +21,80 @@
 <![endif]-->
 <link rel="alternate" type="application/rss+xml" title="Tapad » Feed" href="http://www.tapad.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Tapad » Comments Feed" href="http://www.tapad.com/comments/feed/">
-<script type="text/javascript" src="http://www.tapad.com/wp-includes/js/comment-reply.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://www.tapad.com/wp-includes/js/comment-reply.min.js?ver=3.5.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.tapad.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.tapad.com/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="The First 35" href="http://www.tapad.com/about-tapad/team/">
+<link rel="prev" title="The First 40" href="http://www.tapad.com/about-tapad/team/">
 <link rel="next" title="In Print" href="http://www.tapad.com/in-print/">
-<meta name="generator" content="WordPress 3.4.2">
+<meta name="generator" content="WordPress 3.5.1">
 <link rel="canonical" href="http://www.tapad.com/privacy/">
 <style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #ffffff; }
 </style>
 
 	<script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-30562281-2']);
-        _gaq.push(['_trackPageview']);
 
-        (function() {
-            var ga = document.createElement('script');
-            ga.type = 'text/javascript';
-            ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(ga, s);
-        })();
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-30562281-2']);
+  _gaq.push(['_setDomainName', 'tapad.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+   <script src="//assets.tapad.com/tapestry/tapestry-0.4.0.js" type="text/javascript"></script>
+   <script>
+
+var TapestryPartnerId = "3";
+window._tapestry = window._tapestry || [];
+_tapestry.push({"initialize":TapestryPartnerId});
+_tapestry.push({"configure":{"host":"tapestry.tapad.com","port":"80"}});
+
+function readCookie(name) {
+  var nameEQ = name + "=";
+  var ca = document.cookie.split(';');
+  for(var i=0;i < ca.length;i++) {
+      var c = ca[i];
+      while (c.charAt(0)==' ') c = c.substring(1,c.length);
+      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+  }
+  return null;
+}
+
+function storeGa(gaCookie) {
+  var utma = gaCookie.split(".");
+  var clientId = utma[0] + "." + utma[1];
+  window._tapestry.push({
+    'did': clientId,
+    'set_data': {'utma':clientId},
+    'get_data': ['utma'],
+    'list_devices': null,
+    'callback': function(r) {
+        var deviceCount = r.devices.length;
+        var screenCount = 1;
+        if (r.data.utma) { screenCount = r.data.utma.length; } 
+
+        var screenLabel = screenCount == 1 ? "1 screen" : screenCount + " screens";
+        var graphLabel = deviceCount == 1 ? "1 device" : deviceCount + " devices";
+
+        _gaq.push(['_setCustomVar', 1, 'Screen count', screenLabel]); 
+        _gaq.push(['_setCustomVar', 2, 'Graph device count', graphLabel]); 
+        _gaq.push(['_trackEvent']);
+        console.log('This browser is associated with ' + (screenCount - 1) + ' other GA tracked devices. Total clique size is ' + deviceCount,r);
+      }
+  });
+}
+
+var gaCookie = readCookie("__utma");
+if (gaCookie) { storeGa(gaCookie); }
 
     </script>
+
 </head>
 
 <body class="page page-id-305 page-template page-template-sidebar-page-php custom-background two-column right-sidebar">
@@ -80,33 +132,36 @@ body.custom-background { background-color: #ffffff; }
             <div class="menu-primary-nav-container"><ul id="menu-primary-nav" class="menu"><li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="http://www.tapad.com/about-tapad/">Company</a>
 <ul class="sub-menu">
 	<li id="menu-item-230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="http://www.tapad.com/about-tapad/investors/">Investors</a></li>
-	<li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="http://www.tapad.com/about-tapad/team/">The First 35</a></li>
+	<li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="http://www.tapad.com/about-tapad/team/">The First 40</a></li>
+	<li id="menu-item-1067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1067"><a href="http://www.tapad.com/board/">Board</a></li>
 	<li id="menu-item-643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-643"><a href="http://www.tapad.com/contact-us/">Contact Us</a></li>
 </ul>
 </li>
 <li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="http://www.tapad.com/solutions/">Solutions</a>
 <ul class="sub-menu">
-	<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="http://www.tapad.com/solutions/retargeting/">Retargeting</a></li>
-	<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://www.tapad.com/solutions/location-based-targeting/">Location</a></li>
-	<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="http://www.tapad.com/solutions/cross-platform-audience-buying/">Audience</a></li>
+	<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="http://www.tapad.com/solutions/cross-platform-audience-buying/">Audience Targeting</a></li>
 	<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="http://www.tapad.com/solutions/cross-platform-analytics/">Analytics</a></li>
 </ul>
 </li>
 <li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="http://www.tapad.com/results/">Results</a></li>
 <li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://www.tapad.com/media-center/">Media Center</a>
 <ul class="sub-menu">
-	<li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="http://www.tapad.com/media-center/recent-news/">Recent News</a></li>
+	<li id="menu-item-750" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-750"><a href="http://www.tapad.com/category/news/">Recent News</a></li>
 	<li id="menu-item-440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440"><a href="http://www.tapad.com/media-center/image-library/">Image Library</a></li>
 </ul>
 </li>
+<li id="menu-item-758" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-758"><a href="http://www.tapad.com/category/blog/">Blog</a></li>
 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="http://www.tapad.com/careers/">Careers</a>
 <ul class="sub-menu">
 	<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="http://www.tapad.com/careers/jobs-listing/">Jobs Listing</a></li>
 </ul>
 </li>
-<li id="menu-item-312" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-305 current_page_item menu-item-312"><a href="http://www.tapad.com/privacy/">Privacy</a></li>
+<li id="menu-item-693" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-693"><a href="http://www.tapad.com/consumer-privacy/">Privacy</a>
+<ul class="sub-menu">
+	<li id="menu-item-692" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-305 current_page_item menu-item-692"><a href="http://www.tapad.com/privacy/">Legal Policy</a></li>
+</ul>
+</li>
 </ul></div>        </nav>
-
 		<div class="row">
 			<div class="span8 a-col" role="main">
 
@@ -262,36 +317,40 @@ The Digital Advertising Alliance Website, www.aboutads.info.</p>
 	        <div class="menu-primary-nav-container"><ul id="menu-primary-nav-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="http://www.tapad.com/about-tapad/">Company</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="http://www.tapad.com/about-tapad/investors/">Investors</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="http://www.tapad.com/about-tapad/team/">The First 35</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="http://www.tapad.com/about-tapad/team/">The First 40</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1067"><a href="http://www.tapad.com/board/">Board</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-643"><a href="http://www.tapad.com/contact-us/">Contact Us</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="http://www.tapad.com/solutions/">Solutions</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="http://www.tapad.com/solutions/retargeting/">Retargeting</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://www.tapad.com/solutions/location-based-targeting/">Location</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="http://www.tapad.com/solutions/cross-platform-audience-buying/">Audience</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="http://www.tapad.com/solutions/cross-platform-audience-buying/">Audience Targeting</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="http://www.tapad.com/solutions/cross-platform-analytics/">Analytics</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="http://www.tapad.com/results/">Results</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://www.tapad.com/media-center/">Media Center</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="http://www.tapad.com/media-center/recent-news/">Recent News</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-750"><a href="http://www.tapad.com/category/news/">Recent News</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440"><a href="http://www.tapad.com/media-center/image-library/">Image Library</a></li>
 </ul>
 </li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-758"><a href="http://www.tapad.com/category/blog/">Blog</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="http://www.tapad.com/careers/">Careers</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="http://www.tapad.com/careers/jobs-listing/">Jobs Listing</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-305 current_page_item menu-item-312"><a href="http://www.tapad.com/privacy/">Privacy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-693"><a href="http://www.tapad.com/consumer-privacy/">Privacy</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-305 current_page_item menu-item-692"><a href="http://www.tapad.com/privacy/">Legal Policy</a></li>
+</ul>
+</li>
 </ul></div>	    </footer>   <!-- footer.sitemap -->
 	    
 	    <!-- COPYRIGHT FOOTER -->
 	    <footer class="copyright">
-	        <span>© 2012 Tapad, INC.</span>
+	        <span>© 2013 Tapad, INC.</span>
 	        <span>All content of this site is property of Tapad, INC.</span>
 	        <nav>
 	            <a href="/privacy">Privacy</a> | 
