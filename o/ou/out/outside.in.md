@@ -1,93 +1,74 @@
-> *The following text is extracted and transformed from the outside.in privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224010305id_/http%3A//outside.in/privacy%3Futm_source%3Dhomepage%26utm_medium%3Dfooter%26utm_campaign%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outside.in privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601090453id_/http%3A//www.patch.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Outside.in | Hyperlocal news in 84,254 towns and neighborhoods
+# Privacy Policy - Patch
 
-## Privacy Policy
+Patch Media Corporation ("Patch", "we" or "our"), a wholly-owned subsidiary of AOL Inc., has created this consumer privacy policy statement in order to demonstrate our firm commitment to your privacy. The following discloses our practices regarding information collection and use solely for the web site located at www.patch.com (the "Service"). By using or accessing the Service, you signify your agreement to be bound by our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SERVICE. 
 
-Outside.in knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Outside.in website, you are accepting the practices outlined in this Privacy Policy.
+##  Personal Information and Aggregate Information 
 
-### What Does This Privacy Policy Cover?
+In order to register for the Service, or in connection with other uses of the Service, you may be asked to voluntarily provide us with certain personally identifiable information, such as your name and email address ("Personal Information"). We do not collect Personal Information from you unless you voluntarily provide it to us. 
 
-This Privacy Policy covers Outside.in's treatment of personal information that Outside.in gathers when you are on the Outside.in website and when you use Outside.in Service.
+In addition, we may also collect non-personally identifiable information, such as demographic information, IP address, web pages viewed, referral/exiting pages, browser type, purchasing history, interaction with advertising and other data, and may aggregate any information collected in a manner which does not identify any individual ("Aggregate Information"). 
 
-This policy does not apply to the practices of third parties that Outside.in does not own or control, or to individuals that Outside.in does not employ or manage.
+###  Personal Information You May Voluntarily Provide to Advertisers 
 
-### What Personal Information About Users Does Outside.in Collect?
+  * Email addresses submitted through ads on the Patch site will be shared with the advertiser so that they may contact you directly. 
+  * By providing your email address in this advertisement, you may receive promotional emails from the advertiser. 
 
-Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience. We only collect personal information that is relevant to the purpose of our website. We do not process this information in a way that is incompatible with the purpose for which it has been collected or subsequently authorized by you. We collect the following types of information from our users:
 
-#### 1\. Information You Provide to Us:
 
-We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
+##  Information Usage 
 
-#### 2\. Automatic Information:
+We may use Personal Information to send you newsletters, to process transactions that you have requested, to provide services that you have requested and for other reasons that are disclosed to you prior to such usage. We may permit our contractors to have access to your Personal Information, but only if they are using your Personal Information as described in this policy. 
 
-We receive and store certain types of information whenever you interact with us. Outside.in automatically receives and records certain "traffic data" on our server logs from your browser including your IP address, Outside.in cookie information, and the page you requested. Outside.in uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+We may use Aggregate Information and/or Personal Information to deliver advertising to you that is customized to your individual behavior or demographic. We may use and share Aggregate Information in many other ways, provided that it will not be disclosed in connection with your Personal Information unless otherwise disclosed in this policy. 
 
-### What About Cookies?
+We will never sell your Personal Information to any third party not affiliated with Patch without your consent except in connection with the sale or merger of Patch or the division responsible for such services. 
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Outside.in cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is.
+Please note that we reserve the right to access and/or disclose Personal Information and non-personal information we gather as required by law or to the extent necessary for us to investigate suspected fraud, harassment or other violations of any law, rule or regulation, or the Service rules or policies. 
 
-The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend, however, that you leave the cookies activated because cookies enable you to take advantage of some of Outside.in's most attractive features.
+Aggregate Information may be shared with any number of parties, provided that such information shall not specifically identify any individuals. 
 
-Some of our business partners and third party vendors use cookies on our website. Google is one such third party vendor.
+##  Cookies, Web Beacons, and Similar Technologies 
 
-Google, as a third party vendor, uses cookies to serve ads on your site.
+"Cookies" are pieces of information that may be placed on your computer by a web site for the purpose of facilitating and enhancing your communication and interaction with that web site. Many web sites use cookies for these purposes. We may use cookies (and similar items such as clear gifs, web beacons, tags, etc...) to customize your visit to the Service and for other purposes to make your visit more convenient or to enable us to enhance our service. Cookies and similar items are not used by us to automatically retrieve personal information from your computer without your knowledge. Many websites, including Patch, may also use Flash cookies that operate similarly to browser cookies. 
 
-Google's use of the DART cookie enables it to serve ads to users based on their visits to sites on the Internet include the Outside.in website.
+When you use our Service, our business partners and advertisers (including AOL Advertising) may set cookies and similar items on your computer to help deliver more relevant content and advertisements throughout their networks. These companies may use non-personally identifiable information during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit <http://www.networkadvertising.org/managing/opt_out.asp> . 
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+You can control browser cookies through your browser's settings. You can control Flash cookies via the Macromedia Flash application on your computer, or by going to the Adobe Flash Player website, which allows you to view, modify, and delete Flash cookies. Please note that if you reject all browser or Flash cookies you may not be able to take advantage of many Patch Services. 
 
-However, we have no access to or control over these cookies.
+##  Security 
 
-Learn more about [Google Advertising and Privacy](http://www.google.com/privacy/ads). 
+The security of your Personal Information is very important to us. We attempt to provide for the secure transmission of your information from your computer to our servers by utilizing encryption software. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and Patch or information stored on the Service or our servers, will be free from unauthorized access by third parties such as hackers and your use of the Service demonstrates your assumption of this risk. We have put in place reasonable physical, electronic, and managerial procedures to safeguard the information we collect. Only those employees who need access to your information in order to perform their duties are authorized to have access to your Personal Information. For more information on protecting your privacy, please visit [www.ftc.gov/privacy](http://www.ftc.gov/privacy) . 
 
-### Will Outside.in Share Any of the Information it Receives?
+You should be aware that personally identifiable information which you voluntarily include and transmit online in a posting, comment, public profile or other public forum may be viewed and used by others. We are unable to control such uses of your personally identifiable information, and by using such services you assume the risk that the personally identifiable information provided by you may be viewed and used by third parties. 
 
-Information about our users is an integral part of our business. We neither rent nor sell your personal information to anyone. We share your personal information only as described below.
+##  Protection for Children 
 
-##### Outside.in Personnel:
+We have no intention of collecting personal information from children under the age of 13. When we become aware that personal information from a child under 13 has been collected without such child’s parent or guardian’s consent, we will use all reasonable efforts to delete such information from our database. 
 
-Outside.in personnel (including, for the avoidance of doubt, consultants and/or contractors) may have access to user information while carrying out their duties in the normal course of Outside.in business.
+##  Other Web Sites 
 
-##### Business Transfers:
+As a convenience to you, we may provide links to third-party web sites from within the Service. These may include local government web sites, local merchant web sites, message boards, news web sites and other web sites not controlled by Patch. Patch is not responsible for the privacy practices or content of these third-party sites. When you link away from our Service, you do so at your own risk and should read the policies of such other web sites. 
 
-In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Outside.in, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
+##  Communications with Patch 
 
-##### Protection of Outside.in and Others:
+By providing your email address to Patch, you expressly consent to receive emails from us. We may use email to communicate with you, to send information that you have requested or to send information about other products or services developed or provided by us, provided that, we will not give your email address to another party to promote their products or services directly to you. 
 
-We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Outside.in, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+Any communication or material you transmit to us by email or otherwise, including any data, questions, comments, suggestions, or the like is, and will be treated as, non-confidential and nonproprietary. Except to the extent expressly covered by this policy, anything you transmit or post may be used by us for any purpose, including but not limited to, reproduction, disclosure, transmission, publication, broadcast and posting. Furthermore, you expressly agree that we are free to use any ideas, concepts, know-how, or techniques contained in any communication you send to us without compensation and for any purpose whatsoever, including but not limited to, developing, manufacturing and marketing products and services using such information. 
 
-##### With Your Consent:
+##  Changes to Policy; Opt-Out Process 
 
-Except as set forth above, you will be notified when your personal information may be shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to prevent the sharing of this information by opting out.
+We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. However, if at any time in the future we plan to use Personal Information in a way that differs from this policy, we will post such changes here and provide you the opportunity to opt-out of such differing uses. Your continued use of the Service following the posting of any changes to this policy means you accept such changes. 
 
-##### Is Information About Me Secure?
+To unsubscribe or opt out of any service, you should edit your user profile. You may also send unsubscribe or opt-out requests to us at unsubscribe@patch.com and we will process your request within a reasonable time after receipt. We are not responsible for removing your personal information from the lists of any third party who has previously been provided your information in accordance with this policy, such as a business partner. 
 
-Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices.
+##  Terms of Use 
 
-### What Choices Do I Have?
+Use of the Service, and this Privacy Policy, is subject to our [Terms of Use](http://www.patch.com/terms). 
 
-As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.
+**Contact:** For questions or concerns relating to privacy, we can be contacted at: [privacy@patch.com](mailto:privacy@patch.com). 
 
-### Can Children Use the Outside.in Web Site?
+**United States of America:** Our Service is maintained in the United States of America. By using the Service, you freely and specifically give us your consent to export your Personal Information to the USA and to store and use it in the USA as specified in this policy. 
 
-Yes, no registration is required to browse the Outside.in website. Outside.in does not knowingly collect information from children.
-
-### Changes to this Privacy Policy
-
-Outside.in may amend this Privacy Policy from time to time, at its sole discretion. If there are any significant changes to how we handle personal information, we will notify you by posting an announcement on the Outside.in website. Your continued use of Outside.in will constitute your acceptance of any changes or revisions made to the Privacy Policy.
-
-### Conditions of Use
-
-If you decide to visit the Outside.in website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
-
-No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
-
-### Effective Date of this Privacy Policy
-
-This Privacy Policy is effective as of February 9, 2011
-
-### Contact Information
-
-For questions or concerns relating to this privacy policy, email [contact@outside.in](mailto:contact@outside.in). 
+**Effective Date:** July 10, 2012 
