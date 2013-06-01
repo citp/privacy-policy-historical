@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the membersuite.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015180355id_/http%3A//www.membersuite.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membersuite.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601072430id_/http%3A//www.membersuite.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # MemberSuite - Privacy Policy
 
 This is a website of MemberSuite, Inc. 
 
-1025 Connecticut Ave, NW   
-Suite 1000  
-Washington, DC 20006  
-(202) 540-9123  
+47 Perimiter Center E   
+Suite 630  
+Atlanta, GA 30346  
+(678) 606-0310  
 E-mail: info@membersuite.com 
 
 MemberSuite takes privacy on the Internet very seriously. We are the leading provider of enterprise-class, on-demand software for member-based organizations and as such we are committed to the establishment and maintenance of policies and procedures that protect the privacy of personal information that may be collected from customers, prospective customers, partners and others who may visit our website. 
