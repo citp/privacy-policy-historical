@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotjobskenya.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106044221id_/http%3A//hotjobskenya.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotjobskenya.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601103314id_/http%3A//hotjobskenya.com/privacy) for the most accurate reproduction.*
 
-# Jobs in Kenya – Latest Jobs in Kenya, Recruitment, Employment Job Vacancies In Kenya - Privacy
+# HotJobsKenya - Privacy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
