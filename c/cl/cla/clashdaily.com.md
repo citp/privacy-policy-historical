@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clashdaily.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111170757id_/http%3A//clashdaily.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clashdaily.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602014456id_/http%3A//clashdaily.com/our-privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# Our Privacy Policy - Clash Daily :: Clash Daily
 
 At ClashDaily.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by ClashDaily.com and how it is used.
 
