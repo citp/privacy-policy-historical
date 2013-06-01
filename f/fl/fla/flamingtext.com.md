@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flamingtext.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185952id_/http%3A//flamingtext.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flamingtext.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601050156id_/http%3A//www.flamingtext.com/privacy.html) for the most accurate reproduction.*
 
 # Logo Design Tool. Free and Online.
 
@@ -56,7 +56,7 @@ A user may be required to first complete a registration form in order to use par
 
 ### Third Party Advertisers
 
-This site uses the services of BurstMedia, Google, CasaleMedia, ValueClick and other third parties to serve advertisements for promotions and other marketing messages when you visit our site. These companies may use information about your visits to this and other Web sites in order to target advertisements for goods and services that are of interest to you. If you would like more information about this practice, including your choices about not having this information used by these companies, please visit [Google](https://web.archive.org/cgi-bin/click.cgi?http://www.google.com/privacy_ads.html), [BurstMedia](https://web.archive.org/cgi-bin/click.cgi?http://www.burstmedia.com/consumer_optout.asp), [ValueClick](https://web.archive.org/cgi-bin/click.cgi?http://www.valueclickmedia.com/privacy.shtml), [Casale Media](https://web.archive.org/cgi-bin/click.cgi?http://casalemedia.com/privacy/). 
+This site uses the services of BurstMedia, Google, CasaleMedia, ValueClick and other third parties to serve advertisements for promotions and other marketing messages when you visit our site. These companies may use information about your visits to this and other Web sites in order to target advertisements for goods and services that are of interest to you. If you would like more information about this practice, including your choices about not having this information used by these companies, please visit [Google](https://web.archive.org/cgi-bin/click.cgi?http://www.google.com/policies/technologies/ads/), [BurstMedia](https://web.archive.org/cgi-bin/click.cgi?http://www.burstmedia.com/consumer_optout.asp), [ValueClick](https://web.archive.org/cgi-bin/click.cgi?http://www.valueclickmedia.com/about/privacy), [Casale Media](https://web.archive.org/cgi-bin/click.cgi?http://casalemedia.com/privacy/). [Exponential (Tribal Fusion)](https://web.archive.org/cgi-bin/click.cgi?http://www.exponential.com/about-us/privacy.html). 
 
 You can opt-out of most advertising at the [NAI Gateway](http://www.networkadvertising.org/managing/opt_out.asp). 
 
