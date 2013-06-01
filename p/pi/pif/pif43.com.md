@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pif43.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230200226id_/http%3A//pif43.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pif43.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601120829id_/http%3A//pif43.com/privacy.php) for the most accurate reproduction.*
 
 # PIF43
 
