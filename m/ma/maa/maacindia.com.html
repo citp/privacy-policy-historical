@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the maacindia.com privacy policy that was archived on 2012-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121031151217id_/http%3A//www.maacindia.com/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maacindia.com privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601062537id_/http%3A//www.maacindia.com/privacy-policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -32,8 +32,36 @@
 
 
 
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/js/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="/scripts/jquery-1.6.1.min.js" type="text/javascript"></script>
+	// hide #back-top first
+	$("#back-top").hide();
+	
+	// fade in #back-top
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > 100) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
+
+		// scroll body to 0px on click
+		$('#back-top a').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
+	});
+
+});
+</script>
+
+<!--<script src="/scripts/jquery-1.6.1.min.js" type="text/javascript"></script>-->
 
 
 <!-- Photo and Video Gallery Script [START]-->
@@ -187,7 +215,7 @@ return false;
 
 </script>
 <!-- Div Show and Hide Script [END]-->
-
+<script type="text/javascript" src="/scripts/right_click_disable.js"></script><!--right click disable end-->
 
 <!-- Page Specific Styling [START] -->
 <link rel="stylesheet" href="/css/inside-styles.css" type="text/css" media="screen">
@@ -225,17 +253,20 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
             
                 <li><a href="/index.aspx" title="MAAC Academy Home" class="home">Home</a></li>
                 <li><a href="/about-us.htm" title="About MAAC Academy" class="about">About Us</a>
-                	<ul>
+                	<!--<ul>
                     	<li><a href="/about-us/aptech.htm" title="About Aptech">About Aptech</a></li>
-                    </ul>
+                    </ul>-->
                 </li>
                 <li><a href="/animation-courses.htm" title="MAAC Courses" class="courses">Courses</a>
                     <ul>
                         <li><a href="/animation-courses/ad3d-edge.htm" title="AD3DEDGE Career course">AD3D<sup>EDGE</sup> Career course</a></li>
+						<li><a href="/vfx-courses/advfx.htm" title="ADVFX">ADVFX</a></li>
                         <li><a href="/animation-courses/d3d.htm" title="D3D: 3D Animation Film-making">D3D: 3D Animation Film-making</a></li>
 						<li><a href="/animation-courses/s3d.htm" title="S3D: 3D Stereoscopic Film-making">S3D: 3D Stereoscopic Film-making</a></li>
-                        <li><a href="/vfx-courses/vfx-plus.htm" title="VFX Plus Career course">VFX Plus Career course</a></li>
+						<li><a href="/vfx-courses/vfx-plus.htm" title="VFX Plus Career course">VFX Plus Career course</a></li>
                         <li><a href="/game-design-courses/dgdi.htm" title="DGDI">DGDI</a></li>
+						<li><a href="/animation-courses/dga.htm" title="DGA">DGA</a></li>
+						<li><a href="/animation-courses/dgwa.htm" title="DGWA">DGWA</a></li>
                         <li><a href="/digital-film-making-courses/dafm.htm" title="DAFM">DAFM</a></li>
                         <li><a href="/animation-courses/dgdrm.htm" title="DGDRM">DGDRM</a></li>
 						<li><a href="/vfx-courses/design-viz-pro.htm" title="Design Viz Pro">Design Viz Pro</a></li>
@@ -280,7 +311,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
                 <li><a href="/contact-us.aspx" title="Contact MAAC" class="contact">Contact Us</a>
                 	<ul>
                     	<li><a href="/student-enquiry-formnv1.aspx" title="Student Enquiry Form">Student Enquiry Form</a></li>
-						<li><a href="/contact-us/maac-centres.htm" title="MAAC centres">MAAC Centres</a></li>
+						<li><a href="/contact-us/maac-centers.aspx" title="MAAC centres">MAAC Centres</a></li>
                     </ul>
                 </li>
 				<li class="last"><a href="/blog" target="_blank" title="MAAC Blog">Blog</a></li>
@@ -381,7 +412,21 @@ randomtip();
 
 <div id="tips">
 <ul>
-	<li style="display: list-item;">
+	
+	<li>
+    	<h3>Student Speak</h3>
+        <span class="pic"><img src="/images/student-speak/mohith-sm.jpg" alt="Mohoith" title="Mohith"></span>
+		<span>Mohith</span>
+		<span><strong>Student</strong></span>
+		    	<div class="tipstext">
+        	<p>I am studying AD3D<sup>EDGE</sup> at MAAC. The management helps us by providing extra-curricular activities and events. My area of interest is cinematography and I have done a few short films at our campus. The experience that I got from making these films helped me while handling the camera during the cinematography of NodaBanniro. I am happy to be a student of MAAC and hoping to do more at MAAC.</p>
+        </div>
+		<!--<span><a href="#">View video testimonial</a></span>-->
+		<span><a href="/student-zone/students-speak.htm">More Testimonials</a></span>
+    </li>
+	
+	
+	<li>
     	<h3>Student Speak</h3>
         <span class="pic"><img src="/images/student-speak/chaitali-jhonsa-sm.jpg" alt="Chaitali Jhonsa" title="Chaitali Jhonsa"></span>
 		<span>Chaitali Jhonsa</span>
@@ -396,9 +441,9 @@ randomtip();
     
     
 
-	<li style="display: none;">
+	<li>
     	<h3>Student Speak</h3>
-        <span class="pic"><img src="/images/student-speak/amrapali-lokhande-sm.jpg" alt="Amrapali Lokhande" title"amrapali="" lokhande"=""></span>
+        <span class="pic"><img src="/images/student-speak/amrapali-lokhande-sm.jpg" alt="Student Testimonial" title"amrapali="" on="" how="" maac="" helped="" enhance="" her="" creative="" skills"=""></span>
 		<span>Amrapali Lokhande</span>
 		<span>Job: <strong>Trainee Compositor</strong></span>
 		<span>Placement: <strong>Prime Focus</strong></span>
@@ -411,7 +456,7 @@ randomtip();
 
 
 
-	<li style="display: none;">
+	<li>
     	<h3>Student Speak</h3>
         <span class="pic"><img src="/images/student-speak/gaurav-hingane-sm.jpg" alt="Gaurav Hingane" title="Gaurav Hingane"></span>
 		<span>Gaurav Hingane</span>
@@ -426,7 +471,7 @@ randomtip();
 
 
 
-	<li style="display: none;">
+	<li>
     	<h3>Student Speak</h3>
         <span class="pic"><img src="/images/student-speak/avinash-panchal-sm.jpg" alt="Avinash Panchal" titl="Avinash Panchal"></span>
 		<span>Avinash Panchal</span>
@@ -442,7 +487,7 @@ randomtip();
 
 
 
-	<li style="display: none;">
+	<li>
     	<h3>Student Speak</h3>
         <span class="pic"><img src="/images/student-speak/mansi-nirmal-sm.jpg" alt="Mansi Nirmal" titl="Mansi Nirmal"></span>
 		<span>Mansi Nirmal</span>
@@ -458,7 +503,7 @@ randomtip();
 
 
 
-	<li style="display: none;">
+	<li>
     	<h3>Student Speak</h3>
         <span class="pic"><img src="/images/student-speak/nishita-wassan-sm.jpg" alt="Nishita Wassan" title="Nishita Wassan"></span>
 		<span>Nishita Wassan</span>
@@ -473,7 +518,7 @@ randomtip();
 
 
 
-	<li style="display: none;">
+	<li>
     	<h3>Student Speak</h3>
         <span class="pic"><img src="/images/student-speak/kirti-rathod-sm.jpg" alt="Kirti Rathod" title="Kirti Rathod"></span>
 		<span>Kirti Rathod</span>
@@ -589,9 +634,9 @@ randomtip();
                             </ul>
                         </div>
                         
-          				<div>
+          				<div class="enquiry_form_bg">
                         	<!--<p><a href="/student-enquiry-formnv1.aspx" title="Student Enquiry Form">Student Enquiry Form</a></p>-->
-							<iframe src="http://maacindia.com/Enquiry/enquiry.aspx" frameborder="0" scrolling="no" height="470" width="320"></iframe>
+							    <iframe src="http://www.maacindia.com/Enquiry/enquiry.aspx?Psource=website&amp;Source=StudentEnquiry" frameborder="0" scrolling="no" height="364" width="210"></iframe>
                         </div>
                     <!-- Connect Boxes [ENDS]-->
 
@@ -631,10 +676,10 @@ randomtip();
 
 
 <!-- Main Footer [START] -->
-<div id="footer-master">
+<div id="footer-master">	
 	<div id="footer-leftcol"></div>
-    <div id="footer-rightcol">
-    	<div id="footer-links">
+    <div id="footer-rightcol">		
+    	<div id="footer-links" style="float:left;">
             <ul>
                 <li><a href="/events.htm" title="Events">Events</a></li>
                 <li><a href="mailto:digitalsolutions@aptech.ac.in" title="Feedback">Feedback</a></li>
@@ -650,6 +695,7 @@ randomtip();
                 <li><a href="/hot-n-happening.htm" title="MAAC News">MAAC News</a></li>
                 <li><a href="/contact-us.aspx" title="Locate Us">Locate Us</a></li>
 				<li><a href="/student-zone/faq.htm" title="FAQ">FAQ</a></li>
+				<li><a href="/about-us/aptech.htm" title="About Aptech">About Aptech</a></li>
             </ul>
             
             <ul style="border: none;">
@@ -659,6 +705,9 @@ randomtip();
                 <li><a href="/sitemap.htm" title="Sitemap">Sitemap</a></li>
             </ul>
         </div>
+		<div class="official_seal">
+			<img src="../images/MAAC_seal.png" alt="The Official Website" title="The Official Website">
+		</div>
         
         <div id="copyrigtbox">
           Note: All images &amp; videos used on this website have been created by MAAC students.
@@ -672,12 +721,85 @@ randomtip();
 
 
 
+		<p id="back-top" style="display: none;">
+		<a href="#top"><span>Back to Top</span></a>
+	</p>	
+		</div>
+		
+		<link rel="stylesheet" href="/css/footer-band.css" type="text/css" media="screen">
+<!-- Footer Band START-->
+<div style="clear:both; height:45px;"></div>
+<div class="footer">
+     <div class="footerinside">
+             <div class="toll_free_contact">     
+             <div class="vedana_12">Toll Free: <span class="toll_number">1-800-209-6222</span> <span class="call_time">(10am to 7pm Mon-Sat)</span></div>
+             <div class="miss-call">(If we miss your call, we'll call you back)</div>
+             </div>
+             <div class="sociallink">
+                   <ul>
+                   <li class="bglight_black leftp"><a target="_blank" href="http://www.facebook.com/maacindia" hidefocus="true" style="outline: medium none;"><img title="Facebook" alt="Facebook" src="/images/facebook_1.jpg"></a></li>
+                       <li class="bglight_black"><a target="_blank" href="https://plus.google.com/u/0/105667418287984248074/" hidefocus="true" style="outline: medium none;"><img title="Google Pluse" alt="google pluse" src="/images/gpluse_1.jpg"></a></li>
+                       <!--<li class="bglight_black"><a href=""><img src="/images/tweeter_1.png" alt="tweeter" title="tweeter"></a></li>-->
+                       <li class="bglight_black rightp"><a target="_blank" href="http://www.youtube.com/maacindia" hidefocus="true" style="outline: medium none;"><img title="Youtube" alt="Youtube" src="/images/youtube_1.jpg"></a></li>
+                       <li class="lightblue"><a href="/student-enquiry-formnv1.aspx" title="ENQUIRY">ENQUIRY</a></li>                   
+                       <li class="darkyellow">					   
+					   <!-- MAAC India live2support.com tracking codes starts -->
+<div id="l2s_trk" style="z-index: 99; visibility: hidden;"><a href="http://live2support.com" target="_blank" style="font-size:1px;">Live Help Software</a></div><script type="text/javascript"><!-- 
+var l2sontxt='LIVE CHAT';var l2sofftxt='LIVE CHAT'; var l2s_pht=escape(location.protocol); if(l2s_pht.indexOf("http")==-1) l2s_pht='http:'; var dept="409"; function l2s_load() { document.write('<scr'+'ipt type="text/javascr'+'ipt" src="'+unescape(l2s_pht)+'//sa.live2support.com/js/lsjs1.php?stid=22223&l2stxt=Y"  defer=true>'+'</scr'+'ipt>'); } l2s_load();  document.getElementById('l2s_trk').style.visibility='hidden'; //--></script><script type="text/javascript" src="https://sa.live2support.com/js/lsjs1.php?stid=22223&amp;l2stxt=Y" defer="true"></script>
+<!-- MAAC India live2support.com tracking codes closed -->
+</li>
+                       <li class="darkred"><a title="CONTACT US" href="/contact-us.aspx" hidefocus="true" style="outline: medium none;">CONTACT US</a></li>
+                      
+                   </ul>				   
+             </div>                
+     </div>
+</div>
+<!--Footer Band END -->
 
 
-        <!--Google Analytics Code [START]-->
+
+
+		
+		 <div id="dimmer" style="display:none"></div>
+		 <!--Unique ID Code [START]-->
+			 <script type="text/javascript">
+				jQuery(document).ready(function(){
+				String.prototype.hashCode = function(){
+				var hashmod = 0, i, charmod;
+				if (this.length == 0) return hashmod;
+				for (i = 0; i < this.length; i++) {
+				charmod = this.charCodeAt(i);
+				hashmod = ((hashmod<<5)-hashmod)+charmod;
+				hashmod = hashmod & hashmod; // Convert to 32bit integer
+				}
+				return hashmod;
+				};
+				var urls= {};
+				jQuery('a:not([id])[href]').each(function(index){
+				thisHref=jQuery(this).attr('href').replace(/[\?|#].*/gi,'');
+				urls[thisHref] =urls[thisHref] || [];
+				urls[thisHref].push(jQuery(this));
+				});
+				for(url in urls){count = 1;
+				for(sameUrlSet in urls[url])
+				{
+				_id=url.hashCode();
+				_id= _id<0?(0-_id):_id;
+				urls[url][sameUrlSet].attr("id","x_"+_id+"_"+count);
+				count++;
+				}
+				}
+				});
+			</script>	 
+		 <!--Unique ID Code [END]-->
+
+		 <!--Google Analytics Code [START]-->
         
         <script type="text/javascript">
          var _gaq = _gaq || [];
+		 var pluginUrl = 
+		 '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+		 _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
          _gaq.push(['_setAccount', 'UA-15390510-1']);
          _gaq.push(['_trackPageview']);
          (function() {
@@ -691,7 +813,5 @@ randomtip();
          })();
         </script>
         <!--Google Analytics Code [ENDS]-->
-
-			</div>
 	
 </body></html>
