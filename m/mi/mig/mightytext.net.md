@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightytext.net privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116225414id_/http%3A//mightytext.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightytext.net privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601075753id_/http%3A//www.mightytext.net/privacy) for the most accurate reproduction.*
 
 # MightyText Privacy Policy
 
@@ -6,7 +6,7 @@
 
 This Privacy Policy describes MightyText's policies and procedures on the collection, use and disclosure of your information. MightyText receives your information through our various web sites, SMS, APIs, and other services ("Services"). When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by MightyText in the United States or any other country where MightyText operates.
 
-If you have any questions or comments about this Privacy Policy, please contact us at info AT textyapp.com 
+If you have any questions or comments about this Privacy Policy, please contact us at info AT mightytext.net 
 
 ### Information Collection and Use
 
@@ -46,5 +46,5 @@ If you are a registered user of our Services, we provide you with tools to acces
 
 We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will be at [http://mightytext.net/privacy](https://web.archive.org/privacy). If we make a change to this policy that, in our sole discretion, is material, we will notify you via your MightyText client or to the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-_This Privacy Policy is effective February 25, 2011. Last updated: August 13, 2011.  
+_This Privacy Policy is effective February 25, 2011. Last updated: February 13th, 2013.  
 _
