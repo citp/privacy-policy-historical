@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the araboo.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016104948id_/http%3A//www.araboo.com/main/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the araboo.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602015518id_/http%3A//www.araboo.com/main/privacy.asp) for the most accurate reproduction.*
 
 # Araboo.com Privacy Policy
 
