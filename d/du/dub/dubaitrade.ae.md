@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dubaitrade.ae privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227214009id_/http%3A//www.dubaitrade.ae/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaitrade.ae privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602012812id_/http%3A//www.dubaitrade.ae/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+##  [ Privacy Policy](http://dubaitrade.ae/privacy-policy)
 
 Dubai Trade FZE and its affiliates (collectively referred to here as "Dubai Trade") are committed to protecting your privacy online. We appreciate that you do not want the personal information you provide to us distributed indiscriminately and here we explain how we collect information on or via the portal (www.dubaitrade.ae) (the "Portal"), what we do with that information and what controls you have in relation to it. This Privacy Policy forms part of the Terms and Conditions which govern all use of the Portal. 
 
