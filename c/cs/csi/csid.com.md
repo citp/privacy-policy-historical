@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csid.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129231950id_/http%3A//www.csid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csid.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601095153id_/http%3A//www.csid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CSID
 
@@ -49,7 +49,7 @@ If you are visiting our web site from outside the United States, your informatio
 
 The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (the “Safe Harbor Principles”) to enable U.S. companies, such as CSID, to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the E.U. to the United States.
 
-CSID complies with the U.S. – E.U. & U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union and Switzerland. Information regarding the U.S. – E.U. & U.S. – Swiss Safe Harbor Framework can be found at: <http://export.gov/safeharbor>.
+CSID complies with the U.S.–E.U. Safe Harbor framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland.  CSID has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view CSID’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 The privacy principles below are based on the Safe Harbor Principles to ensure that when dealing with CSID you can be assured of the same levels of data protection that you enjoy in the E.U.
 
@@ -97,11 +97,15 @@ We may use clear gifs in our HTML-based e-mails to let us know which e-mails hav
 
 Our web site may contain links to other web sites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information that you provide while visiting such sites and such sites are not governed by this Privacy Policy. You should exercise caution and look at the privacy statement applicable to the web site in question.
 
-  12. **AMENDMENTS**
+  12. **SOCIAL MEDIA WIDGETS**
+
+Our Web site: www.csid.com includes Social Media Features, such as the Facebook and Twitter buttons or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+  13. **AMENDMENTS**
 
 We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will update you by means of a notice on this Site prior to the changes taking effect. We encourage you to periodically review this page for the latest information on our privacy practices and this Privacy Policy.
 
-  13. **CONTACT**
+  14. **CONTACT**
 
 If you have questions, comments, and/or complaints regarding CSID’s Privacy Policy or how we collect, transmit, and process data please contact us by:
 
@@ -119,7 +123,7 @@ Attn: Legal Department
 Austin, TX 78735  
 
 
-Effective Date: July 11, 2011 
+Effective Date: May 8, 2013 
 
 
 
