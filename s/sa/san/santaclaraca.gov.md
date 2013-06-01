@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the santaclaraca.gov privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221093958id_/http%3A//santaclaraca.gov/index.aspx%3Fpage%3D1224) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santaclaraca.gov privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602012339id_/http%3A//santaclaraca.gov/index.aspx%3Fpage%3D1224) for the most accurate reproduction.*
 
 # City of Santa Clara : Privacy Policy
 
-Your privacy is important to us. We have updated our Privacy Policy and are in full compliance with the [California Online Privacy Act of 2003](http://www.cooley.com/57676) and [California Senate Bill 1386](http://info.sen.ca.gov/pub/01-02/bill/sen/sb_1351-1400/sb_1386_bill_20020926_chaptered.html).
+Privacy Policy 
+
+Your privacy is important to us. We have updated our Privacy Policy and are in full compliance with the [California Online Privacy Act of 2003](https://web.archive.org/web/20130602012339id_/http%3A//santaclaraca.gov/redirect.aspx?url=izh4xKSaO2uYCmCHp0qk7qzVN7tv3NW0uz%2foQtUdsn1xznLU8viK%2bKdj3vumHJVLSqTp7m7TGoR%2fxUZu1E42Q0RNwXoa2hVFH4Gvpa6lB4U%3d) and [California Senate Bill 1386](https://web.archive.org/web/20130602012339id_/http%3A//santaclaraca.gov/redirect.aspx?url=izh4xKSaO2uYCmCHp0qk7vheKbCFSj0U6AFm1diXyd81suev%2fCgPuXZLNCg%2fEODhmzOcvt1w%2f95WPWvE1wWmhE6p0iXLnyjGiJOGVVcoum%2bOEVXTsIvmEzIYS%2bc5A9%2fvaUQ3wHSg3eIdkUbagg%2f7IOGUgnKd65JbaVxOrgm5RcoD3CaU8s7Ab5TN1n2%2f0Cw7ikuFeeqDdZm8CgiGvWrh6AwGV7kd6egJwYADnMf4tnpL5cxE%2bNSXVkQmBen%2blkyv8n%2bRpOZUfzdCZFmSu%2bTuORckJ5mk92dIitSSNTZIviU%3d).
 
  Our Commitment to Your Privacy and Security  
 The City of Santa Clara (the City) has created this privacy statement in order to demonstrate the City's firm commitment to privacy and the security of your personal information. The following information explains our policy regarding any personal information you may supply to us when visiting the [santaclaraca.gov](http://santaclaraca.gov/) domain. 
