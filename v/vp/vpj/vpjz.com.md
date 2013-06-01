@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpjz.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011033131id_/http%3A//www.vpjz.com/%3Fpage_id%3D1614) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpjz.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601171339id_/http%3A//www.vpjz.com/%3Fpage_id%3D1614) for the most accurate reproduction.*
 
 # Auto info and auto news » Privacy Policy
 
