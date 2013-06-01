@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinetvplayer.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120140243id_/http%3A//www.onlinetvplayer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinetvplayer.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601082319id_/http%3A//www.onlinetvplayer.com/privacy) for the most accurate reproduction.*
 
 # OnlineTVPlayer.com Privacy Policy
 
