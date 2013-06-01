@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbta.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231014459id_/http%3A//www.mbta.com/customer_support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbta.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601062027id_/http%3A//mbta.com/customer_support/privacy_policy) for the most accurate reproduction.*
 
 # MBTA > Customer Support > Privacy Policy
 
@@ -24,6 +24,7 @@ As part of our commitment to providing our customers with quality service, we ha
     4.12. Email Address and Other Communications
     4.13. Surveys
     4.14. Employment Related Information
+    4.15. “Pedal and Park” Bike Cages
 5\. No Unrelated Third Party Is Given Access To Your Personally Identifiable Information
 6\. How To Obtain Access To Information You Have Provided, And How To Remove Your Information From Our Database
     6.1. Electronic Fare Media
@@ -72,7 +73,7 @@ Back to Top
 
 ### 4\. Your Choices Concerning Personally Identifiable Information
 
-You decide whether you wish to provide us with Personally Identifiable Information. You have the option to buy Electronic Fare Media and elect not to "link" your personal information in our system with the Electronic Fare Media you have purchased. You also decide whether you wish to participate in Website Services that rely on personal information. We have structured our Website so that you may visit us, review a range of information about transportation services including schedules and updates, all without revealing your identity or providing any Personally Identifiable Information. Please note, however, that in order to use certain services offered by the MBTA, such as the Managed Account services for Electronic Fare Media or the Buy Online program, you must register and provide us with Personally Identifiable Information. For example, if you do not wish to provide us with the Personally Identifiable Information needed to offer you Managed Account services, you will not be able to obtain Managed Account services, and will be unable to use account based features such as recurring autoloads, electronic payments, and loss protection. We collect Personally Identifiable Information through the following means, and use this information for the following purposes, depending on the level of service and/or program(s) you have selected:
+You decide whether you wish to provide us with Personally Identifiable Information. You have the option to buy Electronic Fare Media and elect not to "link" your personal information in our system with the Electronic Fare Media you have purchased. You also decide whether you wish to participate in Website Services that rely on personal information. We have structured our Website so that you may visit us, review a range of information about transportation services including schedules and updates, all without revealing your identity or providing any Personally Identifiable Information. Please note, however, that in order to use certain services offered by the MBTA, such as the Managed Account services for Electronic Fare Media, Bike Cage Access or the Buy Online program, you must register and provide us with Personally Identifiable Information. For example, if you do not wish to provide us with the Personally Identifiable Information needed to offer you Managed Account services, you will not be able to obtain Managed Account services, and will be unable to use account based features such as recurring autoloads, electronic payments, and loss protection. We collect Personally Identifiable Information through the following means, and use this information for the following purposes, depending on the level of service and/or program(s) you have selected:
 
 > ### 4.1. Order Forms
 > 
@@ -129,6 +130,14 @@ You decide whether you wish to provide us with Personally Identifiable Informati
 > ### 4.14. Employment Related Information
 > 
 > If you are interested in employment opportunities with the MBTA, you can apply online and submit your resume, past work experience, and other Personally Identifiable Information. This information will be used only by MBTA employees in charge of evaluating an applicant's qualifications for a position with the MBTA. In addition, we may use this information to contact you to discuss employment opportunities and to send you written or electronic communications regarding employment opportunities at the MBTA.
+> 
+> ### 4.15. “Pedal and Park” Bike Cages
+> 
+> The MBTA will ask for your personal information to register to use the Pedal and Park facilities for the purposes of safety, security and customer service. If you do not wish to provide the MBTA with this personal information you will not be able to access Pedal and Park facilities. Personal information collected will not be shared with any unrelated third parties and will be used explicitly for the purposes of Pedal and Park administration.
+> 
+> In certain circumstances, the MBTA may also share your personal information with the police and other law enforcement agencies for the purposes of the prevention or detection of crime. Information obtained by the police about non-compliance with the Pedal and Park terms and conditions or any applicable laws while you are using the facility may be disclosed to the MBTA and used by the MBTA to suspend or exclude you from using Pedal and Park facilities.
+> 
+> Registration of CharlieCards through Pedal and Park bike registration will not allow for loss protection of fares stored on the CharlieCard.
 
 Back to Top
 
