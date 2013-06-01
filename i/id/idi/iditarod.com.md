@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iditarod.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103220440id_/http%3A//iditarod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iditarod.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601234239id_/http%3A//iditarod.com/privacy) for the most accurate reproduction.*
 
-# Iditarod | Last Great Race on Earth®
+# Iditarod.com Website Privacy Policy – Iditarod
 
 The Iditarod Trail Committee, Inc. (“ITC”) is strongly committed to protecting the privacy of your personal information. The policies below are applicable to Iditarod.com website (“Website”) produced and maintained by ITC. We have established this security and privacy policy (“Privacy Policy”) to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
 
