@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the toughmudder.co.uk privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122172107id_/http%3A//toughmudder.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toughmudder.co.uk privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601192654id_/http%3A//toughmudder.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | Tough Mudder UK
 
-We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to Tough Mudder LLC’s and Tough Mudder Limited’s website: [ToughMudder.co.uk](http://toughmudder.co.uk/). For the purpose of the Data Protection Act 1998 (the Act) the data controllers are Tough Mudder LLC and Tough Mudder Limited.
+We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to Tough Mudder LLC’s and Tough Mudder® Limited’s website: [ToughMudder.co.uk](http://toughmudder.co.uk/). For the purpose of the Data Protection Act 1998 (the Act) the data controllers are Tough Mudder LLC and Tough Mudder Limited.
 
 ### 1\. Purpose.
 
@@ -18,7 +18,7 @@ We reserve the right to modify or amend the terms of our Privacy Policy from tim
 
 ### 3\. Contact.
 
-If you have any questions about this privacy policy, don’t see your concerns addressed here, or wish to make changes to any personal information we have collected, you should contact us by email at [contact@toughmudder.co.uk](mailto:contact@toughmudder.co.uk).
+If you have any questions about this privacy policy, don’t see your concerns addressed here, or wish to make changes to any personal information we have collected, Contact our Customer Support team [here](http://support.toughmudder.com/anonymous_requests/new).
 
 ### 4\. Information We May Collect.
 
