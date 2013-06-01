@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videotrafficacademy.com privacy policy that was archived on 2012-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120903142745id_/http%3A//videotrafficacademy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videotrafficacademy.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601175246id_/http%3A//videotrafficacademy.com/privacy) for the most accurate reproduction.*
 
 # Terms of Service | Video Traffic Academy | Video & Youtube Marketing
 
