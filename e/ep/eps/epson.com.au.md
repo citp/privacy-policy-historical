@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epson.com.au privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120140453id_/https%3A//www.epson.com.au/company/other/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epson.com.au privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601052523id_/http%3A//www.epson.com.au/company/other/privacy_policy.asp) for the most accurate reproduction.*
 
 # Epson Australia - Privacy Policy
 
