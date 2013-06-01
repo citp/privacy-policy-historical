@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fenopy.eu privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126020714id_/http%3A//fenopy.eu/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fenopy.eu privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601124707id_/http%3A//fenopy.se/info/privacy.html) for the most accurate reproduction.*
 
-# Fast and easy torrent downloads - Fenopy.eu
+# Fast and easy torrent downloads - Fenopy.SE
 
 #### Fenopy Privacy Policy
 
