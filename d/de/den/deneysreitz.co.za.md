@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deneysreitz.co.za privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120022433id_/http%3A//www.nortonrose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deneysreitz.co.za privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602011730id_/http%3A//www.nortonrose.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Norton Rose Group
+# Privacy policy | Norton Rose
 
 This privacy policy sets out how Norton Rose LLP, Norton Rose Australia, Norton Rose Canada LLP and Norton Rose South Africa (incorporated as Deneys Reitz Inc) and their affiliates **“Norton Rose Group** ” from time to time may use personal information that you provide to us, or we obtain through this website [nortonrose.com](http://www.nortonrose.com/), and other normal channels.
 
