@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the thesmartresult.org privacy policy that was archived on 2011-09-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110914160022id_/http%3A//shop.thesmartresult.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thesmartresult.org privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601124723id_/http%3A//thesmartresult.org/privacy.php) for the most accurate reproduction.-->
 
-<html><head>
-	<title>The Smart Result - hdtv tvs</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+	<title>The Smart Result - </title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
 	<link rel="stylesheet" type="text/css" href="css/ddsmoothmenu.css">
 	<link rel="stylesheet" type="text/css" href="css/ddsmoothmenu-v.css">
-	<link rel="stylesheet" type="text/css" href="css/tsr.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<style type="text/css">
 
 /*Credits: Dynamic Drive CSS Library */
@@ -80,26 +80,29 @@ bottom: 50px; This would mean the bottom of the pop-up is 50px far from the bott
 
 </style>
 
-	
+<style type="text/css">
+.AdNumber {background-color: silver; color: #ffffff; font-family: arial; font-size: 25pt; line-height: 15pt; padding-bottom:5px; font-weight: bold; width:10%; text-align: center;}
+.AdTitle {color: #0000ff; font-family: arial; font-size: 16px; line-height: 15pt; padding-bottom:5px; padding-left:20px; text-decoration: underline; width:100%;}
+.AdTitle a, .AdTitle a:visited, .AdTitle a:active {color: #0000ff; font-family: arial; font-size: 16px; line-height: 15pt; padding-bottom:5px; text-decoration: underline}
+.AdTitle a:hover{color: #0000ff; font-family: arial; font-size: 16px; line-height: 15pt; padding-bottom:5px; text-decoration: underline}
+.AdDescription {color: #333333; font-family: arial; font-size: 16px; padding-left:5px; text-decoration: none;} 
+.AdDescription {color: #333333; font-family: arial; font-size: 16px; padding-left:5px; text-decoration: none;} 
+.AdURL1 {padding-left:20px; padding-bottom:15px;}
+.AdURL1 a, .AdURL a:visited, .AdURL a:active, .AdURL a:hover {color: #006600;font-family: arial; font-size: 14px; text-decoration: none;}
+.AdURL2 {padding-left:5px; padding-bottom:15px;}
+.AdURL2 a, .AdURL a:visited, .AdURL a:active, .AdURL a:hover {color: #006600;font-family: arial; font-size: 14px; text-decoration: none;}
+input.rounded {	border: 1; width: 550px; height: 20px; padding: 3px 5px; font-size: 120%; background-color: white; color: #399; margin-left:50px;}
+input.rounded2 {	border: 1; width: 120px; height: 31px; padding: 0px 0px 0px 0px; background-color: #C9F7F1; color: #399; margin-left:20px;}
+</style>	
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-	<script type="text/javascript" src="js/ddsmoothmenu.js"></script>
+	
 <script type="text/javascript">
-$(document).ready(function() {
-	$(".expand_shopping").click( function() {
-		$(".expand_shopping").hide();
-		$(".prod_title").hide();
-		$(".prod_desc").hide();
-		$(".prod_price").hide();
-		$(".prod_desc_full").css('display','block');
-		}, function() {
-		$(".prod_desc_full").hide();
-		$(".prod_desc").css('display','block');
-		$(".prod_title").css('display','block');
-		$(".prod_price").css('display','block');
-		});	
-});
-
-
+ function returnDocument() {
+        var file_name = document.location.href;
+        var end = (file_name.indexOf("?") == -1) ? file_name.length : file_name.indexOf("?");
+        return file_name.substring(file_name.lastIndexOf("/")+1, end);
+    }
+	var filename=returnDocument();
 //***this goes on the global scope
 //get querystring as an array split on "&"
 var querystring = location.search.replace( '?', '' ).split( '&' );
@@ -125,8 +128,11 @@ if (queryObj[ "exp" ] == "1" ) {
 }
 
 </script>	
+<script type="text/javascript" src="js/general.js"></script>
+<script type="text/javascript" src="js/ddsmoothmenu.js"></script>
 	<script type="text/javascript">
-
+if(filename!="homepage.php" && filename!="")
+{
 ddsmoothmenu.init({
 	mainmenuid: "smoothmenu1", //menu DIV id
 	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
@@ -134,7 +140,7 @@ ddsmoothmenu.init({
 	//customtheme: ["#1c5a80", "#18374a"],
 	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
 })
-
+}
 //ddsmoothmenu.init({
 //	mainmenuid: "smoothmenu2", //Menu DIV id
 //	orientation: 'v', //Horizontal or vertical menu: Set to "h" or "v"
@@ -144,37 +150,29 @@ ddsmoothmenu.init({
 //})
 
 </script>
-
-	<style type="text/css">
-
-	</style>
 </head>
 <body>
-	<div class="main_container">
-		<div>
-			<img alt="The Smart Result Logo" src="images/logo.png">
+	<div class="container">
+	 <!--header-->
+    <div class="header">
+		<div class="logo"><a href="/"><img src="images/logo.png" alt="The Smart Result Logo" border="0"></a></div>
+		<div class="search_box">
+			 <form action="index.php" method="get">
+			    <input name="ts" type="hidden" value="1030AM_RON1">
+				<input name="adid" type="hidden" value="10788">
+				<table border="0" cellspacing="0" cellpadding="0">
+				  <tbody><tr>
+					<td><input name="keyword" type="text" value="Search for products" id="searchme" onblur="onBlur(this)" onfocus="onFocus(this)"></td>
+					<td class="search_btn"><input name="" type="submit" value=""></td>
+				  </tr>
+				</tbody></table>
+			</form>
 		</div>
-		<div class="search">
-			<span style="color: #1061AC; font-weight: bold;">Search for products</span><br>
-			     <form action="index.php" method="get">
-                <table cellpadding="0" cellspacing="0" border="0">
-                    <tbody><tr>
-                        <td valign="top" align="left">
-                        <input name="keyword" type="text" value="hdtv tvs" id="searchme" class="search_input">
-                        </td>
-                        <td class="search_go" valign="top" align="left">
-                        <input name="" type="image" value="d" src="images/go.png">
-                        </td>
-                    </tr>
-                </tbody></table>
-                </form>	
-		</div>		<div class="sponsored">
-			<div class="sponsored_header">
-				The smart result <span style="font-weight: bold; color:red;">&gt;&gt; </span><span style="font-weight: bold; color:black;">Privacy Policy</span>
-			</div>
-		</div>
-		<div class="content_container">
-			<br>
+		<div class="cleaner"></div>
+	</div>
+    <!--end_header-->
+	<div class="docs">
+			<h3>The smart result &gt;&gt; Privacy Policy</h3><br>
 			thesmartresult.org respects your privacy. Our purpose in collecting information from you is to help us provide you with better service, such as notifications about special offers and promotions. We will not wilfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement. Furthermore, we do not specifically target children under the age of 13, nor do we knowingly collect, without parental consent, individually identifiable information from such children.<br><br>
 			<b>What Information Do We Collect?</b><br>
 			From time to time we may request that an entity making application for an account with thesmartresult.org provide us with certain personal information (such as their name, email address, etc.) in connection with various services offered on our site. We do not collect any personal information except when an individual specifically and knowingly provides such information. When we request information, we explain how this information may be used and give you an opportunity to request that the information not be used for those purposes. We also give you an opportunity to opt out of future communications from us.<br><br>
@@ -188,15 +186,22 @@ ddsmoothmenu.init({
 			By using our site, you consent to the collection and use of your information as we have outlined in this privacy statement and to our Terms of Service. thesmartresult.org may decide to change this privacy statement from time to time. When we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.<br><br>
 			<b>Who Can I Ask If I Have Additional Questions?</b><br>
 			Feel free to contact us any time with any questions you may have regarding our privacy statement. Our email address is <a href="mailto:info@thesmartresult.org">info@thesmartresult.org</a>.
-		</div>
-		<div class="round_bottom"></div>	
-				<div class="round_top"></div>
-		<div class="content_container">
-			<div class="footer">
-				<a href="index.php">home</a> | <a href="terms.php">terms</a> | <a href="privacy.php">privacy</a> | <a href="contact.php">contact</a> | <a href="cookies.php">cookies policy</a> | <a href="about.php">about</a>
-			</div>
-		</div>
-		<div class="round_bottom"></div>		
+
+	</div>	
+		<!--footer-->
+    <div class="footer">
+		<ul>
+			<li><a href="homepage.php">home</a></li>
+			<li><a href="terms.php">terms</a></li>
+			<li><a href="privacy.php">privacy</a></li>
+			<li><a href="contact.php">contact</a></li>
+			<li><a href="cookies.php">cookies policy</a></li>
+			<li class="last"><a href="about.php">about</a></li>
+		</ul>
 	</div>
+    <!--end_footer-->
+</div>
+<!--end_container-->
+
 
 </body></html>
