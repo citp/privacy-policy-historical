@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227031053id_/http%3A//www.netapplications.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601083833id_/http%3A//www.netapplications.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Net Applications
 
@@ -99,3 +99,69 @@ This web site meets the guidelines of TRUSTe's Children's program, which means t
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can(contact) 
 
 [privacy@netapplications.com](mailto:privacy@netapplications.com)
+
+**
+
+## E-Privacy Directive by the European Union
+
+** As many of you are aware the EU has begun to enforce their e-Privacy Directive, also known as the "Cookie Law." Its purpose is to help users gain a better understanding into how websites use cookies to track their behavior. You can find out more about it at the ICO.In order to make sure our partners and clients are aware of the new directive and are compliant with it, we’ve updated our Privacy Policy to answer a few FAQs on the topic.It is important to note that we at Net Applications are not attorneys. Please do not construe this information to be legal advice. This is our best assessment of the directive based on the information we have.
+
+## When did the directive go into effect?
+
+May 26, 2012.
+
+ **
+
+## Why did the EU feel there was a need for a directive? Are cookies scary?
+
+** No, cookies are not scary. However, many people are unaware of what information they are sharing on the internet, and this appears to be what the EU is trying to address. We at Net Applications want to help educate people about how websites use cookies.
+
+ **
+
+## What is a directive – how does it compare to a law?
+
+** Directives are passed by the EU, and are binding to the EU member states. However, they do not apply to EU citizens unless the directive is passed into law by the EU member states.
+
+ **
+
+## Does it apply to my website if I’m not in the EU?
+
+** It is unclear if or how the EU will be able to enforce the directive against any website owner not residing in the EU.
+
+ **
+
+## What is a cookie?
+
+** A small text file that contains a unique ID tag, placed on the user’s computer by a website.
+
+ **
+
+## What's a cookie's purpose?
+
+** The main purpose of cookies is to identify users and possibly prepare customized web pages for them. They help you stay logged in to sites where you want this. They also can keep your shopping cart information while shopping online. Cookies do not contain viruses. They do not scan your computer for personal information.
+
+ **
+
+## Can I control my computer’s behavior with regards to cookies?
+
+** Yes. At any time you can clear your cookies. You can also choose to opt out of some or all cookies via your browser settings.
+
+ **
+
+## Does it affect Me?
+
+** It affects almost everyone who owns or visits any website. Almost all websites use cookies, and cookies are involved in all types of web activity including speeding up login pages and using Analytics programs to understand where visitors to your website have come from. The vast majority of cookies are beneficial to users, and are often used to help provide a more personalized experience for online users. Cookies are used by all sites across the web including Google, Facebook, YouTube and more to enhance the online experience. So, as a Net Applications Partner or Client, you need to be aware of the cookies that are on your own site and how those cookies affect your users.
+
+ **
+
+## How can I be sure I'm compliant, and what does "informed consent" mean?
+
+** The UK's Information Commissioner’s Office has provided guidance, clarifying the directive to allow websites to rely on "informed consent" to comply with it. This means that you should take steps to let your visitors know what types of cookies you use on your site. If visitors are aware of the cookies, and still continue to visit your website, then you have achieved "informed consent" and are in compliance with the directive according to the ICO.
+
+ **
+
+## What are the cookies used by Net Applications and how are they used?
+
+** Net Applications uses first-party cookies to count and analyze the traffic for our client websites. We do not access, store, or even know any personally identifiable information about the visitors to ours or our client websites. These are the cookies we use:  
+\- Name: VSID, Domain: loc1.hitsprocessor.com  
+\- Name: VSID, Domain: counter.hitslink.com
