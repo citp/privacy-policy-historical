@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the squishycash.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102091412id_/http%3A//squishycash.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squishycash.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602013636id_/http%3A//squishycash.com/privacy_policy.php) for the most accurate reproduction.*
 
 # SquishyCash - privacy_policy
 
-| 
+[](http://squishycash.com/banner/bannerClick.php?bid=59)  
+[Advertise Here](https://web.archive.org/banner/index.php)
 
 Privacy Policy
 
@@ -23,6 +24,3 @@ We will not sell, disclose or lease our member's personal information to any oth
 
 Changes to this Policy  
 Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, members will be informed of all changes via a message to their squishycash.com inbox.
-
-|   
----|---|---
