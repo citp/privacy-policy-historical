@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the college24by7.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625131339id_/http%3A//www.college24by7.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the college24by7.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601235414id_/http%3A//www.college24by7.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # online college management|admission, attendance, academics management, online classes, results & notifications
 
-Privacy Policy.. |  | 
+Privacy Policy..
 
       [College24by7.com](http://www.college24by7.com/ "College24by7") respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
 
   
 Assurance
 
-      [College24by7.com](http://www.college24by7.com/ "College24by7") assures you that we take reasonable precautions to protect your personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction. We also implement reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered.   
-  
+      [College24by7.com](http://www.college24by7.com/ "College24by7") assures you that we take reasonable precautions to protect your personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction. We also implement reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered. 
+
+|   
 ---|---  
   
             We take reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided and also we provide reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. We ensure accountability to individuals who believe that www.college24by7.com has not complied with these privacy principles.
