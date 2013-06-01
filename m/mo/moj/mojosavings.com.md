@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mojosavings.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226073112id_/http%3A//mojosavings.com/privacy-policy-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojosavings.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601081907id_/http%3A//mojosavings.com/privacy-policy-disclosure) for the most accurate reproduction.*
 
-# Privacy Policy & DisclosureMojosavings.com
+# Privacy Policy & Disclosure
 
 **Privacy Policy for www.mojosavings.com**
 
@@ -55,6 +55,10 @@ The owner(s) of this blog is not compensated to provide opinion on products, ser
 
 This blog does not contain any content which might present a conflict of interest.
 
+All prices contained in the posts are current at the time of the post. Mojo Savings is not responsible for typos on other sites, errors or omissions on other companies sites, or if the pirce changes after the post is posted.
+
 **Material Connection Disclosure**
 
 Unless otherwise expressly stated, you should assume that Mojo Savings has an affiliate relationship or other material connection to the providers of goods and services mentioned by, recommended, hyperlinked to, or otherwise referenced on Mojo Savings. In addition, you should assume that Mojo Savings may be compensated monetarily or non-monetarily when you visit, purchase goods or services from, or take any other action on a third-party website mentioned by, recommended, hyperlinked to, or otherwise referenced on Mojo Savings. You should always perform due diligence before buying any goods or services online or offline.
+
+[](http://mojosavings.com/privacy-policy-disclosure/)[](http://www.printfriendly.com/ "Printer Friendly and PDF")
