@@ -1,71 +1,59 @@
-> *The following text is extracted and transformed from the insidecostarica.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110126id_/http%3A//insidecostarica.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidecostarica.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601051736id_/http%3A//insidecostarica.com/privacy-policy) for the most accurate reproduction.*
 
-# Inside Costa Rica
+# Inside Costa Rica | Privacy Policy - Inside Costa Rica
 
-| 
+This User Agreement and Privacy Policy governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a “Service”) provided by Inside Costa Rica, its parent, subsidiaries and/or affiliates (“we,” “us,” or “our”) that links to this User Agreement and Privacy Policy, which is binding on all those who access, visit and/or use the Service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, “you” or “your”).
 
-** Privacy Policy ** ** PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE.**
+We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
 
-As used herein, the phrase "this Site" refers to insidecostarica.com and other sites on the World Wide Web which are owned and/or operated by Istarmedia.net (collectively "Istarmedia"). By using this Site, you indicate your acceptance of these Terms & Conditions. If you do not agree to these Terms & Conditions, you have no right or license to access this Site and you should not do so.
+**Log Files and Cookies**
 
-  
-  
-Istarmedia reserves the right, in its sole discretion, to change, modify or otherwise update this Policy at any time. Such changes, modifications, updates, or additions shall be effective immediately upon notice thereof, which may be given by means including, but not limited to, posting on this site, or by electronic or conventional mail, or by any other means by which you obtain notice thereof. Your use of this site after such notice shall be deemed to constitute your acceptance of such changes, modifications, updates, or additions.
+This website utilizes industry standard analytics packages which gathers limited information on visitors to our website automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends.
 
-Istarmedia understands and respects your desire for privacy. To that end, we would like you to know how we use the personal information you provide to us.
+Additionally, cookies may be used to provide easier and faster access to website features such as logins and/or repeat visits. Cookies are very small text files that are stored on personal computers for reference purposes. We do not link the information we store in cookies to any personally indentifiable information you have submitted while on our site.
 
-We collect personal information (such as your name, address, and credit card number) and non-personally-indentifiable information (such as information about daily Web site usage, your IP address or domain). Personal information is collected when you subscribe to the magazine, purchase a product from the site, register for the online newsletter, enter contests, or participate in other interactive online activities (e.g., surveys, chat rooms, games, or bulletin boards) through this site. As described below, we may use such information to fulfill magazine subscriptions, award prizes, track customer usage of the sites, or for promotional and marketing purposes.
+We use both session ID cookies and persistent cookies. A session cookie expires when your browser is closed, and a persistent cookie may stay on your hard drive for an extended period. Session cookies make it easier for you to navigate our site; persistent cookies can perform such activities as storing your password for forums or blogs so you do not have to sign in every time you visit those areas, and/or may be used to enable us to track and target the interests of our users so as to enhance the overall experience of using our site.
 
-Insidecostarica
+We have no access to or administration abilities over any cookies that are used by any advertisers on our site.
 
-.com has implemented appropriate safeguards to help prevent unauthorized access, maintain data security, and make proper use of the information that we collect. However, no transmission of data over the Internet is guaranteed to be completely secure. Thus, while we strive to protect your personal information, Maxim Online cannot absolutely guarantee the security of any information you provide to us.
+**Links to Other Websites**
 
-**POLICY FOR MINORS**
+This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
 
-Children should always ask parents for permission before providing any personal information online. No information should be submitted to or posted at this site by any Minor (a guest under 18 years of age) without the consent of a parent or guardian. Unless otherwise disclosed during collection, we do not provide any personally identifying information about Minors, regardless of its source, to any third party for any purpose whatsoever. No personally identifying information collected from Minors is used for any marketing or promotional purposes whatsoever. Minors are not allowed to participate in contests.
+**Registration and Use of Personal Information**
 
-**POLICY FOR ADULT GUESTS**
+Registration is not required in order to use or access this website. However, this site may make forums, comments, blogs, message boards or similar available to its users. You may be required to register for these features, particularly if you wish to leave comments or provide articles.
 
-Insidecostarica.com collects personal information from guests over 18 years of age in order to provide guests with a personalized online experience and to provide our advertisers a way to reach the right audience. Insidecostarica.com may share the personal and aggregate information we collect with our affiliates and other sites operated by and for Maxim Online. On a confidential basis, insidecostarica.com may also share personal information with our corporate affiliates or consultants or with third parties that perform a particular service on our behalf (such as fulfilling orders or for general site administration purposes). Insidecostarica.com shares aggregate information with third parties for advertising and promotional purposes. We may also disclose personal information in response to legal process, such as a request by law enforcement, a court order or subpoena, or to protect the integrity of our site if we believe that a user has committed unlawful or otherwise harmful acts.
+If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent.
 
-With the permission of guests 18 years or older, information submitted at the time of registration or submission may also be used for marketing and promotional purposes by us and may be shared with companies that have been pre-screened by us for these purposes.
+Please note that if you post comments or articles to any forum, blog or message board on this site, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels.
 
-If any individual submits content for publication (e.g., Beat This Caption or Reader Mail), we may publish his or her name and any other information submitted by that individual.
+We also provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address and name. These communications will include our regular newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by emailing us at postmaster@insidecostarica.com, by clicking on the “unsubscribe” link in any email we send to you or by replying to any email we send you.
 
-If users elect to use our “E-mail to a Friend” referral service for informing a friend about our site, we ask for the friend’s e-mail address. We will send an e-mail in response to your request inviting them to visit the site. We store this information solely for the purpose of sending the e-mail.
+Again, if you provide us with your email address and/or name for the purposes of receiving communications from us, this information will not be shared with any third-party organization except with your express consent.
 
-**PUBLIC FORUMS**
+**Access to Personally Identifiable Information**
 
-Whenever you voluntarily disclose personal information online in chat rooms, message boards, or similar posting areas, the information can be reviewed and collected by anyone. Therefore, do not post any information that you do not want to be made available to the general public. Maxim is not responsible for unsolicited communications that arise from your postings on this site.
+If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by emailing us at privacy@insidecostarica.com.
 
-**PURCHASE OF PRODUCTS FROM THIS SITE**
+**Security**
 
-If you purchase a product from this site, we will collect information from you, including your credit card and contact information, for use by the provider of the product. Unless otherwise stated, Maxim does not have any responsibility in connection with such purchases and all transactions and use of any customer information are the sole responsibility of the product provider. Be sure to review the product provider’s privacy policy and contact them directly if you have any questions. They may have privacy terms that differ from insidecostarica.com's Privacy Policy.
+We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore as is the case with any organization – we are not in a position to guarantee the absolute security of your information.
 
-**USE OF IP ADDRESSES**
+You may submit any questions you may have about our security procedures by emailing us at privacy@insidecostarica.com
 
-An IP address is a number that’s automatically assigned to your computer whenever you’re surfing the Web. Web servers automatically identify your computer by its IP address. When a guest requests pages from our site, our servers log the guest’s IP address. The IP addresses are collected for the purposes of system administration and to report aggregate information to our advertisers. We do not link IP addresses to anything personally identifiable. This means that a guest’s session will be logged, but the identity of the guest remains anonymous.
+**Legal Disclaimer**
 
-**USE OF COOKIES**
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.
 
-In cyberspace, cookies are pieces of information that a Web site transfers to an individual’s hard drive for record-keeping purposes.
+**Contact Details**
 
-Cookies make Web-surfing easier for you by saving your passwords, purchases, and preferences while you’re at a site. The use of cookies is an industry standard—you’ll find them at most major Web sites.
+If you have any questions or concerns regarding this privacy policy, or you wish to contact us by email or post, our contact information is as follows:
 
-By showing how and when guests use the site, cookies help us see which areas are popular and which are not and help in targeting ads based on guest interests. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies.
+privacy@insidecostarica.com
 
-A cookie lets the computers remember that you’ve registered, which allows us to speed up your future activities at our sites. Similarly, the stores hosted by us usually use a cookie to track which products you’ve chosen to purchase while shopping. Letting it do the record-keeping saves you the trouble of entering information over and over again. We never use cookies to retrieve information from your computer that was not originally sent in a cookie.
+ICR News / Inside Costa Rica  
+APTDO 712  
+Santa Ana, San Jose, COSTA RICA
 
-The ads appearing on insidecostarica.com are delivered to you by a third-party advertising network. In the course of delivering an ad to you, the advertising provider may collect certain non-personally identifiable information about your visits to this site through the use of cookies or similar technology.
-
-You may occasionally get cookies from our advertisers on this site as well. insidecostarica.com does not control these cookies, and they are not subject to insidecostarica.com’s Privacy Policy. Advertisers do not have access to insidecostarica.com’s cookies.
-
-The use of advertising cookies sent by third-party servers is standard in the Internet industry.
-
-Most browsers are initially set to accept cookies. If you’d prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the shopping, contest, and game areas, will not function properly if you do so.
-
-  
- 
-
-|   
----|---
+This privacy policy was last updated on January 17th, 2013
