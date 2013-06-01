@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the youwave.com privacy policy that was archived on 2012-08-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120817180135id_/http%3A//www.youwave.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the youwave.com privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601064816id_/http%3A//youwave.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -13,7 +13,7 @@
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript"></script>
 	
 	<style type="text/css" title="currentStyle" media="screen">
-		@import "y1.css";
+		@import "y4.css";
 	#explanation h3 strong {
 	color: #06C;
 }
@@ -49,64 +49,6 @@
         }
     </script>
     <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
-    <div id="rolling_new" style="position: relative; left: 794px; top: 300px; width: 210px; height: 34px;">
-        <div id="rolling_title">
-			<h1><span>Highlights</span></h1>
-            <h1><br></h1>
-		</div>
-     <span id="highlighter" style="clip: rect(0px, 180px, auto, 0px);">Groundbreaking solution for Android on Windows PC</span>    </div>
-
-<script type="text/javascript">
-var tickercontents=new Array()
-tickercontents[0]='Groundbreaking solution for Android on Windows PC'
-tickercontents[1]='Over 500,000 copies downloaded since launched in August 2010'
-tickercontents[2]='<a style="color:#666" href="http://www.androidcentral.com/youwave-android-your-windows-pc">Android Central</a>:\"YouWave makes it easy to accomplish on your Windows PC.\"'
-
-<!-- tickercontents[3]='<img src="images/followus.jpg" width="28" height="28">' -->
-
-var tickdelay=7000 
-var highlightspeed=10
-
-var currentmessage=0
-var clipwidth=100
-
-function changetickercontent(){
-crosstick.style.clip="rect(0px 0px auto 0px)"
-crosstick.innerHTML=tickercontents[currentmessage]
-highlightmsg()
-}
-
-function highlightmsg(){
-var msgwidth=crosstick.offsetWidth
-if (clipwidth<msgwidth){
-clipwidth+=highlightspeed
-crosstick.style.clip="rect(0px "+clipwidth+"px auto 0px)"
-beginclip=setTimeout("highlightmsg()",20)
-}
-else{
-clipwidth=0
-clearTimeout(beginclip)
-if (currentmessage==tickercontents.length-1) currentmessage=0
-else currentmessage++
-setTimeout("changetickercontent()",tickdelay)
-}
-}
-
-function start_ticking(){
-crosstick=document.getElementById? document.getElementById("highlighter") : document.all.highlighter
-crosstickParent=crosstick.parentNode? crosstick.parentNode : crosstick.parentElement
-if (parseInt(crosstick.offsetHeight)>0)
-crosstickParent.style.height=crosstick.offsetHeight+'px'
-else
-setTimeout("crosstickParent.style.height=crosstick.offsetHeight+'px'",100) //delay for Mozilla's sake
-changetickercontent()
-}
-
-if (document.all || document.getElementById)
-window.onload=start_ticking
-
-</script>
     
     <div id="social">
         <ul>
@@ -115,7 +57,7 @@ window.onload=start_ticking
                   <img src="images/followus.jpg" border="0">                  </a>          </li>
 
           <li>
-            <iframe src="http://www.facebook.com/widgets/like.php?href=http://www.youwave.com&amp;send=false&amp;layout=button_count&amp;width=120&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:78px; height:21px;" allowtransparency="true"></iframe>
+            <iframe src="http://www.facebook.com/widgets/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fyouwave&amp;send=false&amp;layout=button_count&amp;width=120&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:78px; height:21px;" allowtransparency="true"></iframe>
           </li>
           
           <li>
@@ -174,7 +116,13 @@ window.onload=start_ticking
                     <a class="menuTop" href="blog" target="_blank">Blog</a><span>&nbsp;|&nbsp;</span>
                     <a class="menuTop" href="contact.html">Contact Us</a>                </div> 
     </div> <!-- End of linkList -->
-</div>
+    
+  <div id="canvasDiv"><canvas width="300" height="70" id="canvas"></canvas></div>
+  <script type="text/javascript" src="android_eyes.js"></script>
+    <script type="text/javascript">
+    	 prepareCanvas(document.getElementById("canvasDiv"), 300, 70);
+    </script>
+</div> <!-- End of container -->
 
 <div id="extraDiv1"><span></span></div>
 
