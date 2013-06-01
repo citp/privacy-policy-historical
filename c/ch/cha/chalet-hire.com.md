@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chalet-hire.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109150045id_/http%3A//www.chalet-hire.com/pages/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalet-hire.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601142246id_/http%3A//www.chalet-hire.com/pages/index/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chalet-Hire.com
 
@@ -115,4 +115,4 @@ We will retain your personal data only as long as is necessary for the purposes 
 
 **How do I contact you?**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please email us at [info@chalet-hire.com](mailto:info@chalet-hire.com) or write to us at Chalet-Hire.com, 144 West Avenue, Wigston, Leicestershire, LE18 2FB.
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please email us at [info@chalet-hire.com](mailto:info@chalet-hire.com).
