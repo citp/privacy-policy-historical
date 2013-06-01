@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the speech-topics-help.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213130652id_/http%3A//www.speech-topics-help.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speech-topics-help.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601235706id_/http%3A//www.speech-topics-help.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Speech Topics Help
 
-We respect your privacy with this Privacy Policy Speech Topics Help emphasizes the importance of online protection, and is committed to complying with the Privacy Act 1988, and the European Union Privacy and Electronic Communications Regulations 2011 and 2012. This page explains to you what information is collected, how it is being used, and what options you have to access or change that collected information. In other words, this page tries to show a certain level of trustworthiness. 
+We respect your privacy with this Privacy Policy Speech Topics Help emphasizes the importance of online protection, and is committed to complying with the Privacy Act 1988, and the European Union Privacy and Electronic Communications Regulations 2011 and 2012. This page explains to you what information is collected, how it is being used, and what options you have to access or change that collected information. In other words, this page tries to show a certain level of trustworthiness. 
 
 **Cookie Policy**  
 This site works best if you accept cookies. We use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the Speech Topics Help website. However, if you would like to, you can change your cookie settings at any time. 
@@ -32,16 +32,16 @@ If you provide personal information, I will not use or disclose this information
 Ip will never ask for Credit Card details and request that you do not enter it on any of the forms. 
 
 **External Sites Privacy Policy**  
-This web site contains links to other web sites. I am not responsible for the privacy practices and for the content of of linked internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
+This web site contains links to other web sites. I am not responsible for the privacy practices and for the content of of linked internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information. 
 
- **Use of Cookies and Web Beacons**  
-A "cookie" is a small data text file that is placed in your browser and allows me to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and Speech Topics Help does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers.
+**Use of Cookies and Web Beacons**  
+A "cookie" is a small data text file that is placed in your browser and allows me to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and Speech Topics Help does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers. 
 
 We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables me to recall your specific information on subsequent visits. 
 
 You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site. 
 
-A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site.
+A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site. 
 
 We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site. 
 
@@ -50,13 +50,15 @@ Browsers can be set to accept or reject cookies or notify you when a cookie is b
 **The Google Advertising Cookie**  
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
-Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 To summarize it: Google may use interest based advertising where they recognize the types of webpages users visit across the Adsense network. This helps advertisers reach users on the basis of their interests. 
 
   * Google, as a third party vendor, uses cookies to serve ads on my site. 
   * Google's use of the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to my users based on your visit to my site and other sites on the Internet. 
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
 
 If you would like more information about this practice and to know your choices about not having this information [click here](http://www.google.com/privacy_ads.html). 
 
@@ -97,11 +99,20 @@ I always give my honest opinions, findings, beliefs, or experiences on the topic
 Speech Topics Help is: 
 
   * A participant in the Amazon Europe S.à r.l. Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk. 
+  
+
   * A participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. 
+  
+
   * A participant in the Amazon.com.ca, Inc. Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.ca. 
 
+
+
 **Information**  
-For further information and questions about this Privacy Policy you are welcome to use the Contact Form.    
-Recommend this! Tell what you think of my public speaking tips and speech ideas lists via FaceBook, the world's most popular social tool! Just recommend this resource to your friends or leave me a comment in this easy box below... **Share this page:  **| | | |   
----|---|---|---|---  
-| | | 
+For further information and questions about this Privacy Policy you are welcome to use the Contact Form. 
+
+Best Regards, 
+
+Jim A. Peterson, Staff Editor 
+
+Now Go Home, top left :-)
