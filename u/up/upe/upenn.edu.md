@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upenn.edu privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219101342id_/http%3A//www.upenn.edu/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upenn.edu privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601112652id_/http%3A//www.upenn.edu/about/privacy_policy.php) for the most accurate reproduction.*
 
 # Penn: Privacy Policy
 
@@ -39,7 +39,7 @@ We reserve the right to modify this privacy statement at any time and will post 
 
 ## Office of Audit, Compliance and Privacy
 
-Guidelines for creating [website privacy statements](http://www.upenn.edu/privacy/policies_publications.htm)
+Guidelines for creating [website privacy statements](http://www.upenn.edu/privacy/Brochures/Templatewebprvstate042508final.pdf) (PDF file). Contact Penn's [Privacy Office](http://www.upenn.edu/oacp/privacy/) at [privacy@upenn.edu](mailto:privacy@upenn.edu).
 
 ## Contact Us
 
