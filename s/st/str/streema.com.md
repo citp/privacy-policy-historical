@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streema.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119155935id_/http%3A//streema.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streema.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602011109id_/http%3A//streema.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Streema - Free Online Radio Stations
 
@@ -6,11 +6,11 @@ Radio station streams and logos are the copyright of each respective radio stati
 
 Streema respects your privacy. Our Policy applies to our web sites, including http://Streema.com. This Privacy Policy explains what information we collect through the Sites, how we use that information, and how your rights are respected by us. The Streema Site contains links to other web sites. This Privacy Policy does not apply to the practices of any other companies or individuals that Streema does not control, or any web sites that you link to from the Streema Site. You should use caution and review the privacy policies of any sites that you visit from ours to learn more about their information practices. Please take a few moments to read this agreement. By accessing the Streema Site, you agree to accept the terms and conditions of this Privacy Policy and are aware that our policies may change in the future as indicated below.
 
-## Streema.com Links
+#### Streema.com Links
 
 In various places on the Streema Site, we collect "Personally Identifiable Information," such as your name, and e-mail address and other information that can be used to contact you or identify you as an individual. For example, we collect this information when you register for your Streema account. From time to time in the future we may offer additional features, services, and promotional opportunities that would require you to submit Personally Identifiable Information to participate. We also collect "Anonymous Information" such as your IP address, the type of browser you use, the pages on our Sites that you have visited, and the advertisements that you have clicked on. Your Personally Identifiable Information is linked to your Anonymous Information. Like many Internet sites, we also use "cookies" to collect information. A cookie is a small data file that we transfer to your computer and that is stored on your hard drive. When you visit our Site(s) the cookie identifies your computer to us so that you do not have to re-register each time you visit. We may also use cookies to measure the traffic to our Sites and to measure the use of different services and features of the Sites.
 
-## Personal Use Only
+#### Personal Use Only
 
 Third party sites accessible through Streema Webpages may similarly place cookies on your computer subject only to their privacy policies. You should visit their sites to learn about their information practices. Advertisers or other companies do not have access to Streema's cookies.
 
