@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trackapartner.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919202122id_/http%3A//trackapartner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackapartner.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601140636id_/http%3A//www.trackapartner.com/privacy) for the most accurate reproduction.*
 
-# Trackapartner.com | Track Your Partner | Free Cell Phone Tracker Service | Real Time Mobile Phone Locator
+# Privacy | Trackapartner.com
 
 We at Trackapartner.com respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site.
 
@@ -28,7 +28,8 @@ Information stored or collected regarding you helps us improve and offer service
 3.2 | Contract Commitments: To meet any Commitment we make to you.  
 3.3 | Changes or Improvements made to the site can warrant use of your information, with regard to notification of such changes.  
 3.4 |  Any new customer can only be contacted by us or third parties if consent has been offered via our site. We only send communications you have consented to.  
-3.5 | None of the information collected about you will offer identifiable characteristics. Information shared to a third party is statistical only. We will not reveal who you are, only mathematical information about our visitors.  
+3.5 | None of the information collected about you will offer identifiable characteristics. Information shared to a third party is statistical only. We  
+will not reveal who you are, only mathematical information about our visitors.  
   
 **4\. Personal Data Storage**  
 Information we are provided will be stored on secure servers. Transaction data is encrypted for your safety.
@@ -42,10 +43,10 @@ Information we are provided will be stored on secure servers. Transaction data i
 5.2.3 | To prevent fraud and help in fraud protection in order to reduce credit risk, we may disclose information.  
   
 **6\. Third Party Links**  
-Third party links may be discovered on our site.  These third party links have their own privacy policy, which you agree to when you click on the link.  We are not responsible nor do we accept responsibility for third party links.  Our liability covers us only on our site, and thus we do not accept liability for third party links as we have no control over them. 
+Third party links may be discovered on our site. These third party links have their own privacy policy, which you agree to when you click on the link. We are not responsible nor do we accept responsibility for third party links. Our liability covers us only on our site, and thus we do not accept liability for third party links as we have no control over them. 
 
 **7\. Information Accessibility**   
-We cannot withhold data we collect about you, as per The Data Protection Act 1998. This act provides you with access to any information we may hold on you.  If you wish to have access about our data collection on you please pay our fee of €10.  The fee covers our costs for processing your request and getting the data to you.  Please use the contact details below to formulate your data access request.
+We cannot withhold data we collect about you, as per The Data Protection Act 1998. This act provides you with access to any information we may hold on you. If you wish to have access about our data collection on you please pay our fee of €10. The fee covers our costs for processing your request and getting the data to you. Please use the contact details below to formulate your data access request.
 
 **8\. Contacting Us**   
-Please feel free to [contact us](https://web.archive.org/web/20120919202122id_/http%3A//trackapartner.com/contact.html) with queries, requests, or comments you may have about our Privacy Policy.  We welcome any communication via the [Contact us page](https://web.archive.org/web/20120919202122id_/http%3A//trackapartner.com/contact.html). 
+Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via the Contact us page. 
