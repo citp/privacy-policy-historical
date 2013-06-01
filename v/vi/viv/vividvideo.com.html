@@ -1,96 +1,61 @@
-<!--The following is the downloaded HTML source of the vividvideo.com privacy policy that was archived on 2012-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121130012048id_/http%3A//www.vividvideo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vividvideo.com privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601161440id_/http%3A//vividvideo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title>Vivid Video</title>
-		<link href="/css/css.css" rel="stylesheet" type="text/css">
-		<link type="text/css" href="/css/ui-lightness/jquery-ui-1.7.2.custom.css" rel="stylesheet">
-		<link type="text/css" href="/css/jquery.autocomplete.css" rel="stylesheet">	
-		<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
-		<script type="text/javascript" src="/js/jquery-ui-1.7.2.custom.min.js"></script>
-		<script type="text/javascript" src="/js/jquery.autocomplete.pack.js"></script>
-		<script type="text/javascript" src="/js/swfobject.js"></script>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Vivid Video</title>
+			<link rel="stylesheet" type="text/css" media="screen" href="/css/css.css">
+			<link rel="stylesheet" type="text/css" media="screen" href="/css/ui-lightness/jquery-ui-1.9.2.custom.css">
+			<link rel="stylesheet" type="text/css" media="screen" href="/css/jquery.autocomplete.css">
+				<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+			<script type="text/javascript" src="/js/jquery-ui-1.9.2.custom.min.js"></script>
+			<script type="text/javascript" src="/js/jquery.autocomplete.pack.js"></script>
+			<script type="text/javascript" src="/js/swfobject.js"></script>
 		<script>
-			$(document).ready(function() {
-				$("[onLeftEmpty]").focus(function(){
-					if($(this).val()==$(this).attr("onLeftEmpty")) $(this).val("");
-				}).blur(function(){
-					if($(this).val()=="") $(this).val($(this).attr("onLeftEmpty"));
-				}).blur();
-				
-				if($("#postSearch").length>0)	$("#postSearch").autocomplete("/v/performerlist.php",{selectFirst:false,cacheLength:0,autoFill:false,scrollHeight:'100%'}).result(findValueCallback);
+		$(document).ready(function() {
+			$('[onLeftEmpty]').focus(function() {
+				if( $(this).val() == $(this).attr('onLeftEmpty') )
+					$(this).val('');
+			}).blur(function(){
+				if( $(this).val() == '' )
+					$(this).val( $(this).attr('onLeftEmpty') );
+			}).blur();
+			
+			if( $('#postSearch').length > 0 )
+				$('#postSearch').autocomplete('/v/performerlist.php', {
+					selectFirst		: false,
+					cacheLength		: 0,
+					autoFill		: false,
+					scrollHeight	: '100%'
+				}).result( findValueCallback );
 
-				$('#tabs,#rightTabs').tabs();
-			});
-			var plays = 0;
-			$.get(
-				"/iplog.php?get=1",
-				function(msg){
-					plays = parseInt( msg );
-				}
-			);
+			$('#tabs,#rightTabs').tabs();
+		});
 
-			function findValueCallback(event, data, formatted) {
-				if(document.form1.search.value!=document.form1.search.getAttribute("onLeftEmpty")){
-					if(data) window.location=data[1];
-					else window.location.href='/search/'+document.form1.search.value;
-				}
-				return false;
+		function findValueCallback( event, data, formatted ) {
+			if( document.form1.search.value != document.form1.search.getAttribute('onLeftEmpty') ){
+				if(data) window.location = data[1];
+				else window.location.href = '/search/' + document.form1.search.value;
 			}
-
-			function createXMLHttpRequest() {
-				try { return new ActiveXObject("Msxml2.XMLHTTP"); } catch (e) {}
-				try { return new ActiveXObject("Microsoft.XMLHTTP"); } catch (e) {}
-				try { return new XMLHttpRequest(); } catch (e) {}
-				alert("XMLHttpRequest Not Supported");
-				return null;
-			}
-
-			function stateChanged() {
-			}
-			function switcher(flv,divID) {
-				if(divID=="") divID="featuredFLV";
-				xmlHttp = createXMLHttpRequest();
-				if( xmlHttp == null ) {
-					alert ("Browser does not support HTTP Request");
-					return;
-				}
-				var url = "/iplog.php";
-				xmlHttp.onreadystatechange=stateChanged;
-				xmlHttp.open("GET",url,true);
-				xmlHttp.send(null);
-				plays++;
-
-				var attributes = {};
-				var params = {};
-				params.wmode = 'transparent';
-				params.quality = 'best';
-				var flashvars = {};
-				flashvars.clipURL = flv;
-				flashvars.joinImg = '/images/joinImage.jpg';
-				flashvars.signupURL = 'https://secure.vivid.com/signup/signup.php?step=2&nats=MjAwNTU0LjEuMS4xLjEuMC4wLjA';
-				if( plays <= 5 ) {
-					swfobject.embedSWF("/swf/player.swf", divID, "640", "380", "9.0.0", "/swf/expressInstall.swf", flashvars, params, attributes);
-				} else {
-					$('#'+divID).html("<a href='https://secure.vivid.com/signup/signup.php?step=2&nats=MjAwNTU0LjEuMS4xLjEuMC4wLjA'><img src='/images/joinImage.jpg'></a>");
-				}
-			}
-		</script>	<link href="/css/styles.css" rel="stylesheet" type="text/css">
-	</head>
-	<body>
-	<div id="bgLink"><a target="_blank" href="http://montanaexposed.com">&nbsp;</a></div>	<div class="maincontainer">
-		<!---->
-			<!-- top banner ad start -->
+			return false;
+		}
+	</script><link href="/css/styles.css" rel="stylesheet" type="text/css">
+</head>
+<body class="privacy">
+<div id="bgLink">
+	<a target="_blank" href="http://farrahsuperstar.vividceleb.com">&nbsp;</a>
+</div><div class="maincontainer">
+	<!---->
+		<!-- top banner ad start -->
 		<div class="topbannerbox">
 			<a href="http://secure.vivid.com/track/MjAwNTU0LjEuMS4xLjEuMC4wLjA" target="_blank"><img src="/images/ads/top_vivid.jpg"></a>
 		</div>
-	<!-- top banner ad end -->		<div class="searchbox" id="search_mod">
+	<!-- top banner ad end -->	<div class="searchbox" id="search_mod">
 	<form name="form1" onsubmit="$('#postSearch').search();return false;" method="post" action="/search">
 		<input name="search" type="text" class="searchfield ac_input" id="postSearch" onleftempty="Search Vivid Video" value="" autocomplete="off">
 		<input type="submit" value="" class="searchbutt" alt="go">
 	</form>
-</div><br clear="all">		
+</div><br clear="all">	
         <div class="logo-star">
         	<a href="/" title="Vivid Video home"><img src="/images/logo_vv_star.png" alt="HOME"></a>
         </div>
@@ -106,14 +71,12 @@
 				<a href="/" title="Vivid Video home"><img src="/images/btn_home.gif"></a>
 			</div>
 		</div>
-		<div class="maincontainer2">
-
-			<!---- ---->
-			<div class="sideshadows">
-							<div class="mainleftcolumn-text"> 
-									
-								<div class="mainbodyleft-box4">
-									<center>
+	<div class="maincontainer2">
+		<!---- ---->
+		<div class="sideshadows">
+			<div class="mainleftcolumn-text"> 
+				<div class="mainbodyleft-box4">
+					<center>
 <b>Privacy Statement for Vivid Entertainment, Inc.</b>
 </center>
 <br><br>
@@ -147,37 +110,31 @@ To Deactivate your membership:
 Call the following telephone number: 1-888-205-0489 <br>
 Visit <a href="/support/">Vivid Support</a> <br>
 Send an e-mail to: vivid@cs.billingservices.com</center>
-								</div>		
-							</div>		
-
+				</div>		
+			</div>		
 			<br clear="all">
-
-			</div>
-<!---- ---->
 		</div>
-
-	</div>
-	<div class="footer">
-		<h3>
-			<a href="http://hulkpornparody.tumblr.com" target="_blank">The Incredible Hulk Porn Parody</a> |
-			<a href="http://spidermanpornparody.tumblr.com" target="_blank">Spiderman Porn Parody</a> |
-			<a href="http://batmanpornparody.tumblr.com" target="_blank">Batman Porn Parody</a> |
-			<a href="http://starwarspornparody.tumblr.com" target="_blank">Star Wars Porn Parody</a> |
-			<a href="http://secure.kendraexposed.com/track/MjAwNTU0LjEuMzEuODIuMC4wLjAuMC4w" target="_blank">Kendra Exposed</a> |
-			<a href="http://karissashannonsuperstar.com" target="_blank">Karissa Shannon Superstar</a>
-		</h3>
-		We support the use of filtering software which prevents minors from accessing inappropriate material, for more information:<br>
-		<a rel="nofollow" href="http://webtrack.net" target="_blank">WebTrack</a>&nbsp;-&nbsp;
-		<a rel="nofollow" href="http://cyberpatrol.com" target="_blank">CyberPatrol</a>&nbsp;-&nbsp;
-		<a rel="nofollow" href="http://surfwatch.com" target="_blank">Surf Watch</a>&nbsp;-&nbsp;
-		<a rel="nofollow" href="http://solidoak.com/cysitter" target="_blank">CyberSitter</a>&nbsp;-&nbsp;
-		<a rel="nofollow" href="http://safesurf.com" target="_blank">Safe Surf</a>&nbsp;-&nbsp;
-		<a rel="nofollow" href="http://eff.org" target="_blank">EFF</a><br>
-		Copyright © <script type="text/javascript">document.write( new Date().getFullYear() );</script>2020 Vivid Entertainment. All Rights Reserved. Use of this Web site constitutes acceptance of Vivid's <a href="/terms/">Terms &amp; Condition</a> and <a href="/privacy/">Privacy Policy</a>.<br>
-		The terms "Vivid Girl" and "Vivid Girls" are registered trademarks of Vivid Entertainment, LLC.<br>
-		<a rel="nofollow" href="http://icra.org" target="_blank"><img src="/images/icra_logo.gif" border="0" height="12"></a>
-		<a href="/record-keep/">18 U.S.C. 2257 Record Keeping Requirements Compliance Statement</a>
-	</div>
+		<!---- ---->
+		<div class="footer">
+	<h3>
+		<a href="http://hulkpornparody.tumblr.com" target="_blank">The Incredible Hulk Porn Parody</a> |
+		<a href="http://spidermanpornparody.tumblr.com" target="_blank">Spiderman Porn Parody</a> |
+		<a href="http://batmanpornparody.tumblr.com" target="_blank">Batman Porn Parody</a> |
+		<a href="http://starwarspornparody.tumblr.com" target="_blank">Star Wars Porn Parody</a> |
+		<a href="http://secure.kendraexposed.com/track/MjAwNTU0LjEuMzEuODIuMC4wLjAuMC4w" target="_blank">Kendra Exposed</a> |
+		<a href="http://karissashannonsuperstar.com" target="_blank">Karissa Shannon Superstar</a>
+	</h3>
+	We support the use of filtering software which prevents minors from accessing inappropriate material, for more information:<br>
+	<a rel="nofollow" href="http://webtrack.net" target="_blank">WebTrack</a>&nbsp;-&nbsp;
+	<a rel="nofollow" href="http://cyberpatrol.com" target="_blank">CyberPatrol</a>&nbsp;-&nbsp;
+	<a rel="nofollow" href="http://surfwatch.com" target="_blank">Surf Watch</a>&nbsp;-&nbsp;
+	<a rel="nofollow" href="http://solidoak.com/cysitter" target="_blank">CyberSitter</a>&nbsp;-&nbsp;
+	<a rel="nofollow" href="http://safesurf.com" target="_blank">Safe Surf</a>&nbsp;-&nbsp;
+	<a rel="nofollow" href="http://eff.org" target="_blank">EFF</a><br>
+	Copyright © <script type="text/javascript">document.write( new Date().getFullYear() );</script>2020 Vivid Entertainment. All Rights Reserved. Use of this Web site constitutes acceptance of Vivid's <a href="/terms/">Terms &amp; Condition</a> and <a href="/privacy/">Privacy Policy</a>.<br>
+	The terms "Vivid Girl" and "Vivid Girls" are registered trademarks of Vivid Entertainment, LLC.<br>
+	<a href="/record-keep/">18 U.S.C. 2257 Record Keeping Requirements Compliance Statement</a>
+</div>
 
 <script type="text/javascript" src="http://ads.vs.com/_special/banners/im-frame.php?mp_code=a74hr&amp;service=girls&amp;target=_blank&amp;wait=1&amp;style=im-video-default2&amp;creative=312x300-all-0001&amp;width=320&amp;height=320&amp;sitekey=vivid"></script>
 <script type="text/javascript" src="/js/popad.min.js.php"></script>
@@ -190,4 +147,6 @@ Send an e-mail to: vivid@cs.billingservices.com</center>
 		pageTracker._trackPageview();
 	});
 </script>
+	</div>
+</div>
 </body></html>
