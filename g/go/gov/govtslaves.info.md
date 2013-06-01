@@ -1,53 +1,97 @@
-> *The following text is extracted and transformed from the govtslaves.info privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201020732id_/http%3A//govtslaves.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtslaves.info privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601150638id_/http%3A//govtslaves.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - :
 
-Govtslaves.info (“govtslaves”) is committed to protecting online user privacy because we care. In order to ensure your privacy, information govtslaves collects through the govtslaves.info web site at www.govtslaves.info (“Site”) is used only in the manner and for the purposes described in this govtslaves.info Privacy Policy (“Privacy Policy.”)
+**What information do we collect?**
 
-User Consent to Privacy Policy  
-Any person accessing, browsing, or otherwise using the Site, either manually or via an automated device or program, shall be considered a “User.” All Users are bound by the terms of this Privacy Policy. Users consent to the collection, use, and disclosure of personally identifiable User information (“Information”) pursuant to the terms of this Privacy Policy.  
-Information Collected from Users  
-Govtslaves collects the email address of Users that email a question or comment to govtslaves or submit a customer review.  
-Govtslaves does collects the billing and shipping addresses, including relevant e-mail of Users who purchase a product from govtslaves through the Site. This includes Users who register to become govtslaves members, or those Users who enter any govtslaves contests or other promotional features available on the Site.  
-Through the use of “cookies” (For more information regarding Cookies, see below), govtslaves may collect and store anonymous information relating to Users’ browsing patterns, including, for instance, the User’s browser version, site referral information, IP address, operating system, and other technical Site use information.
+We collect information from you when you subscribe to our newsletter or fill out a form. 
 
-Cookies  
-The Site uses a feature of Internet Web browsers called a Cookie, which is a file that a User’s Web browser places on a User’s computer’s hard drive, to assign an identification code to the computer and to collect anonymous browsing information. On this Site, cookies are used in conjunction with session variables to track a User’s shopping cart and expire as soon as an order is completed or if a shopping cart sits idle for a lengthy period without being checked-out.  
-Govtslaves does not use Cookies to retrieve Information about Users from a User’s computer unless the User knowingly and willingly provided such Information. For instance, govtslaves  cookies do not collect any Information and the cookies do not collect, store or contain any credit card information.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or Dishaw Media Group. You may, however, visit our site anonymously.
 
-You may set your Internet Web browser to notify you when you receive a cookie or to prevent cookies from being sent. If you prevent a cookie from being sent, you may limit the functionality govtslaves can provide you when you visit the Site, especially when purchasing an item on the Site.
+Google, as a third party vendor, uses cookies to serve ads on your site.  
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-Use of Information  
-Govtslaves uses the Information collected from its Users to:Respond to Users’ questions or comments;  
-Administer a User’s contest entry or entry in other promotional feature;Fulfill a User’s purchase request and notify Users of their order status;Provide Users with important functionality changes to the Site, new govtslaves.info services and special offers from govtslaves and reputable third parties that we think you will find valuable; and Mail a govtslaves catalog to you.
+**What do we use your information for?**
 
-Updating or Deleting User Information  
-Govtslaves offers Users who have provided Information to govts alavesn opportunity to review the Information provided to update or correct any errors. Users also can delete any Information provided to govtslaves or make choices about whether to receive special offers from govtslaves.  
-Disclosure of Information to Third Parties  
-Govtslaves may disclose information about our Users to others if we have a good faith belief that we are required to do so by law or legal process, to respond to claims, or to protect the rights, property or safety of govtslaves or others. Govtslaves may disclose Information to a third-party in the event that another company acquires govtslaves or part of its assets.  
-Option to Limit Sharing with Third Parties  
-Govtslaves understands that Users do not want spam or junk mail from wicker furniture companies or Viagra marketers. We only share your Information with reputable companies who provide products or services that we believe interest our customers.Users always can choose whether or not their Information is shared with other companies, and all Users can change their minds at any time. By sending us an email here
+Any of the information we collect from you may be used in one of the following ways: 
 
-Children
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-The govtslaves Site is not directed towards children under 13 years of age and govtslaves does not knowingly collect any information from children under 13 years of age through the Site.
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-Security  
-Govtslaves has security measures to protect against the loss, misuse, and alteration of the Information under our control, including credit card information that is submitted to govtslaves. When Users place orders or access their account information, the Site uses secure server software (SSL), which encrypts all information Users’ input before it is sent to us. In addition, we do not store User’s credit card numbers. We have taken steps to protect the Information we collect from you from unauthorized access.
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-Unfortunately, no system is perfect; therefore, govtslaves makes no representations or warranties with regard to the sufficiency of these security measures.  Govtslaves shall not be responsible for any actual or consequential damages that result from a lapse in compliance with this Privacy Policy because of a security breach or technical malfunction.  
-Sale or Acquisition  
-In the event that another company acquires govtslaves or all or part of its assets. We reserve the right to include Information among the assets transferred to the acquiring company.
+; To process transactions  
 
-Applicable Law/International Issues  
-Information that is submitted to this Site will be collected, processed, stored, disclosed and disposed of in accordance with applicable U.S. law. If you are a non-U.S. User, you acknowledge and agree that we may collect and use your Information, as discussed above, outside your resident jurisdiction.
 
-In addition, such Information may be stored on servers located outside your resident jurisdiction. U.S. law may not provide the degree of protection for Information that is available in other countries. By providing us with your Information, you acknowledge that you have read this Privacy Policy, understand it, agree to its terms and consent to the transfer of such Information outside your resident jurisdiction.
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-If you do not consent to the terms of this Policy, please do not use this Site, but if you have already provided us with Information, please contact us here and let us know how you would like us to handle such information.  
-Amendments to Privacy Policy  
-Govt slaves reserves the right to amend this Privacy Policy periodically. Any amendments made to this Privacy Policy will be considered effective ten (10) days after the amendments are posted on the Site. You should check the Site periodically to review the most recent Privacy Policy.
+; To send periodic emails  
 
-Contact Information
 
-If Users have any questions about our services or Privacy Policy, contact us [here](http://govtslaves.info/?page_id=3046)
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+
+Note: If at any time you would like to unsubscribe from receiving future emails, If at any time you would like to unsubscribe from receiving future emails please click the unsubscribe link and we will do so immediately .  
+
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**djtommycash@gmail.com**
+
+**djtommycash@gmail.com**
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Your Consent**
+
+By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+govtslaves.info  
+27 kimball ridge ct  
+Catonsville, Maryland 21228  
+USA  
+govtslaves.info@gmail.com
+
+[](http://www.rhinosupport.com/).
