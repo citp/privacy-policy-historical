@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gamebanana.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113015600id_/http%3A//gamebanana.com/wikis%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebanana.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601230911id_/http%3A//gamebanana.com/wikis%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # GAMEBANANA: Privacy Policy (Wikis > Rules)
+
+The privacy agreement between you and Machinefloor Inc. 
 
 The privacy policies contained herein (" **Policy** ") constitute a binding agreement between you and **Machinefloor Inc.** (" **Company** "). By accessing and/or using any of the content and functionality available through **GameBanana.com** and its related webpages (collectively the " **Website** "), you signify that you agree to be bound by this Policy. If you do not agree to be bound by this Policy, please do not use the Website.
 
