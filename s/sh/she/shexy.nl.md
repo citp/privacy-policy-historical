@@ -1,17 +1,29 @@
-> *The following text is extracted and transformed from the shexy.nl privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203030727id_/http%3A//www.shexy.nl/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shexy.nl privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602012432id_/http%3A//www.shexy.nl/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Shexy
 
-The privacy of our visitors to shexy.nl is important to us.
+Shexy.nl (the "Site") provides a content service to you (the "Service(s)"), subject to the following Privacy Policy, which may be updated from time to time without notice to you. Your use of the Service constitutes acceptance of this Privacy Policy and creates a binding legal agreement, so read them carefully. This Privacy Policy applies only to information that you provide to us through the Site, and when you access, download, purchase or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this Privacy Policy regularly for any changes. Any reference to us, our, we or similar words shall refer to this Site and its affiliates thereto.
 
-At shexy.nl, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit shexy.nl, and how we safeguard your information. We never sell your personal information to third parties.
+## The personal information we collect
 
-**Log Files**  
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+It is our policy to respect the privacy of the people who use the Services (each a "User," collectively the "Users"). As you use the Site, our servers automatically record information that the browser sends whenever it points to a Site or online service ("Log Data"). Log Data may include, but is not limited to, your computer's Internet Protocol address, browser type, the web page you were visiting before you came to one of the Site and information you search for on a Site.
 
-**Cookies and Web Beacons**  
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+## Logging and cookies
 
-We also use third party advertisements on shexy.nl to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use "persistent cookies" to save your username and login password for future logins to the Site. We use "session ID cookies" to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+We also use the services of a third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
+
+## Information sharing and disclosure
+
+_Aggregate Information and Non-Identifying Information._ We may share aggregated information that includes non-identifying information and Log Data with third parties for industry analysis, demographic profiling, and to deliver targeted advertising about other products and services.
+
+_Service Providers._ We may employ third party companies and individuals to facilitate the our services, to provide the services on our behalf, to perform services related to administration of the Site (including, without limitation, maintenance, hosting and database management services, web analytics and administration). These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+_Business Transfers._ We may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+
+## Links to other sites
+
+The Site contains links to other websites. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+
+_Last modified: 10 November 2012_
