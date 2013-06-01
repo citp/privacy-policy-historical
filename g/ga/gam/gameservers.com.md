@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameservers.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006074545id_/http%3A//www.gameservers.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameservers.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601072315id_/http%3A//www.gameservers.com/legal/privacy.php) for the most accurate reproduction.*
 
 # GameServers : Privacy Policy
 
