@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpf-comics.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124220036id_/http%3A//www.gpf-comics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpf-comics.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601111300id_/http%3A//www.gpf-comics.com/privacy.php) for the most accurate reproduction.*
 
 # GPF: Privacy Statement and Ad Info
 
@@ -32,6 +32,7 @@ There have been, in some cases, advertisers who have displayed ads on our site t
 
 Each advertiser usually maintains their own privacy policies and procedures. For your convenience, we've included links to their privacy pages here:
 
+  * [Ligit Networks, Inc., Privacy Policy](http://www.lijit.com/company/privacy-policy)
   * [ContextWeb Privacy & Security](http://www.contextweb.com/privacy_policy)
   * [Google Privacy Policy](http://www.google.com/privacy/privacy-policy.html)
   * [Project Wonderful Privacy Policy](http://www.projectwonderful.com/privacypolicy.php)
