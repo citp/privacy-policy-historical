@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the gemm.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130144506id_/http%3A//www.gemm.com/c/info.cgi%3Fdoc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemm.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601101334id_/http%3A//www.gemm.com/c/info.cgi%3Fdoc%3Dprivacy) for the most accurate reproduction.*
 
 # GEMM's Privacy Policy
+
+| [My Account](https://web.archive.org/c/info.cgi?&doc=MY_ACCOUNT)  
+---  
+[Searching GEMM](https://web.archive.org/c/info.cgi?&doc=SEARCH)  
+[Shopping Cart](https://web.archive.org/c/info.cgi?&doc=SHOPPING_CART)  
+[Placing An Order](https://web.archive.org/c/info.cgi?&doc=ORDERING)  
+[GEMM's Guarantee](https://web.archive.org/c/info.cgi?&doc=GUARANTEE)  
+**Privacy Policy**  
+| [Cookies](https://web.archive.org/c/info.cgi?&doc=COOKIES)  
+[GEMM's Refund Policy](https://web.archive.org/c/info.cgi?&doc=GEMM_REFUND_POLICY)  
+[Placing Feedback](https://web.archive.org/c/info.cgi?&doc=FEEDBACK)  
+[Buyer FAQs](https://web.archive.org/c/info.cgi?&doc=FAQ)  
+[Contact GEMM](https://web.archive.org/c/info.cgi?&doc=CONTACT)  
+  
+* * *
 
 * * *
 
@@ -22,7 +37,7 @@ When you place an order on GEMM, we need to know your name, e-mail address, mail
   
 **Will GEMM disclose the information it collects to outside parties?**
 
-GEMM does not sell, trade, or rent your personal information to others. ~~GEMM may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifiable information.~~ Update: GEMM does not allow any third party tracking whatsoever, even though it is accepted as commonplace on almost every other web site. We are commited to putting your privacy first.   
+GEMM does not sell, trade, or rent your personal information to others. GEMM may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifiable information. We are commited to putting your privacy first.   
 GEMM may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with the law, (ii) enforce or apply the terms of any of our user agreements, or (iii) protect the rights, property, or safety of GEMM, our users, or others.
 
   
