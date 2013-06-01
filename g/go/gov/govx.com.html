@@ -1,58 +1,148 @@
-<!--The following is the downloaded HTML source of the govx.com privacy policy that was archived on 2012-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121109071307id_/http%3A//www.govx.com/t/privacyinfo) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the govx.com privacy policy that was archived on 2013-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601132922id_/http%3A//govx.com/t/privacyinfo) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html class=" js csstransforms3d csstransitions"><head>
     
     <title>GovX - Military Discounts and Government Discounts. Privacy Policy</title>
     <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
     <meta name="description" content="The largest Military &amp; Government exclusive ecommerce site offering discounts up to 50% off current season goods from 100+ top lifestyle and tactical brands">
     <meta name="keywords" content="discount, military, government, fire, police, lifeguard, rescue">
     
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-        var nop_store_directory_root = "http://www.govx.com/";
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+        var nop_store_directory_root = "http://govx.com/";
     </script>
     
-    <link href="/Themes/GovX/Content/styles.css" rel="stylesheet" type="text/css">
+    <link href="/Themes/GovX/Content/styles.css?version=3" rel="stylesheet" type="text/css">
 <link href="/Themes/GovX/Content/jquery-ui.css" rel="stylesheet" type="text/css" media="screen">
+<link href="//fonts.googleapis.com/css?family=Droid+Sans:400,700|Cabin:400,600,700" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|Mate+SC|Rokkitt:400,700|Patua+One|Oswald|Open+Sans:400,700|Oleo+Script:400,700|Yellowtail|Niconne|Neucha|Handlee|Rancho" rel="stylesheet" type="text/css">
 <!--[if IE]>
-    <link href="/Themes/GovX/Content/ie.css" rel="stylesheet" type="text/css" />
+    <link href="/Themes/GovX/Content/ie.css?version=3" rel="stylesheet" type="text/css" />
 <![endif]-->
 <!--[if lt IE 8]>
-    <link href="/Themes/GovX/Content/ie7fix.css" rel="stylesheet" type="text/css" />
+    <link href="/Themes/GovX/Content/ie7fix.css?version=3" rel="stylesheet" type="text/css" />
 <![endif]-->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js" type="text/javascript"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.17/jquery-ui.min.js" type="text/javascript"></script>
+<!--[if lt IE 9]>
+    <link href="/Themes/GovX/Content/ie8fix.css?version=3" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if lt IE 9]>
+	<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<meta name="viewport" content="width=1024">
+<!-- Adding "maximum-scale=1" fixes the Mobile Safari auto-zoom bug: https://filamentgroup.com/examples/iosScaleBug/ -->
 
-<script src="/HeadScript"></script>
-<script src="/Scripts/public.js" type="text/javascript"></script>
+<script src="/Scripts/jquery-1.7.2.js" type="text/javascript"></script>
+<script src="/Scripts/jquery-ui.min.js" type="text/javascript"></script>
+
+<script src="/Scripts/GovX.js" type="text/javascript"></script>
 <script src="/Scripts/jquery.superfishmenu.js" type="text/javascript"></script>
 <script src="/Scripts/hoverIntent.js" type="text/javascript"></script>
-
-<script src="https://ajax.aspnetcdn.com/ajax/mvc/3.0/jquery.unobtrusive-ajax.js" type="text/javascript"></script>
-<script src="https://ajax.aspnetcdn.com/ajax/3.5/MicrosoftAjax.js" type="text/javascript"></script>
-<script src="https://ajax.aspnetcdn.com/ajax/mvc/3.0/MicrosoftMvcAjax.js" type="text/javascript"></script>
+<script src="/Scripts/jquery.unobtrusive-ajax.min.js" type="text/javascript"></script>
+<script src="/Scripts/MicrosoftAjax.js" type="text/javascript"></script>
+<script src="/Scripts/MicrosoftMvcAjax.js" type="text/javascript"></script>
 <script src="/Scripts/jquery.validate.min.js" type="text/javascript"></script>
-<script src="https://ajax.aspnetcdn.com/ajax/mvc/3.0/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
+
 <script src="/Scripts/jquery.maskedinput.js" type="text/javascript"></script>
-<script src="https://s7.addthis.com/js/250/addthis_widget.js" type="text/javascript"></script>
-<script src="/Scripts/gxbrand.js" type="text/javascript"></script>  
+  
 <script src="/BodyScript"></script>
 <script type="text/javascript">
     //Set focus on first element that failed validation
     window.onload = function () {
         setTimeout(resetFocus, 1000);
     };
-    function resetFocus() {
+    function resetFocus(ele, shipping) {
+        if (ele) {
+            $('#'+ ele).focus();
+            return;
+        }
+
         var inputs = document.getElementsByTagName('input');
+        var foundElement = false;
         for (var i = 0; i < inputs.length; i++) {
             if (inputs[i].className.indexOf('input-validation-error') > -1) {
                 inputs[i].focus();
+                foundElement = true;
                 break;
             }
+        }
+
+        if (!foundElement) {
+            //No validation error so we probably have a strike iron address verification error
+            //so put focus on city input
+            if (!shipping)
+                $('#BillingNewAddress_Address1').focus();
+            else
+                $('#ShippingNewAddress_Address1').focus();
         }
     }
 </script>
 
+<script src="/Scripts/waypoints.js" type="text/javascript"></script>
+<script src="/Scripts/jquery.carousel.js" type="text/javascript"></script>
+<script src="/Scripts/modernizr.custom.69142.js" type="text/javascript"></script>
+<script src="/Scripts/ReferAFriend.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(function () {
+        var nav_container = $("#nav-container");
+        var nav = $("nav");
+        nav_container.waypoint({
+            handler: function (event, direction) {
+                nav.toggleClass('sticky', direction == 'down');
+                if (direction == 'down')
+                    nav_container.css({ 'height': '40px' });
+                else
+                    nav_container.css({ 'height': '40px' });
+            }
+        });
+    });
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#tabs div').hide();
+        $('#tabs div:first').show();
+        $('#tabs ul li:first').addClass('active');
+        $('#tabs ul li a').click(function () {
+            $('#tabs ul li').removeClass('active');
+            $(this).parent().addClass('active');
+            var currentTab = $(this).attr('href');
+            $('#tabs div').hide();
+            $(currentTab).show();
+            return false;
+        });
+    });
+</script>
+
+<script type="text/javascript">
+    function toggle() {
+        var ele = document.getElementById("toggleText");
+        var text = document.getElementById("menu-item-search");
+        if (ele.style.display == "block") {
+            ele.style.display = "none";
+            text.innerHTML = "show";
+        } else {
+            ele.style.display = "block";
+            text.innerHTML = "hide";
+        }
+    }
+</script>
+
+<script type="text/javascript">
+    function toggle() {
+        var ele = document.getElementById("toggleText");
+        var text = document.getElementById("brands-btn-overlay");
+        if (ele.style.display == "block") {
+            ele.style.display = "none";
+            text.innerHTML = "show";
+        } else {
+            ele.style.display = "block";
+            text.innerHTML = "hide";
+        }
+    }
+</script>
+
+<script src="/Scripts/slides.min.jquery.js" type="text/javascript"></script>
 
     
     
@@ -70,166 +160,90 @@
     
     
     
-    
-    <!-- Google code for Analytics tracking -->  <script type="text/javascript">  var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-24154068-1']);  
- 
-_gaq.push(['_trackPageview']);    (function() {      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();  </script>
+        <link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="72x72" href="touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="114x114" href="touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="144x144" href="touch-icon-ipad-retina.png">
+    <!-- Google code for Analytics tracking -->  <script>   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');    ga('create', 'UA-24154068-2', 'govx.com');   ga('send', 'pageview');  </script><script type="text/javascript">  var _gaq = _gaq || [];  var pluginUrl =    '//www.google-analytics.com/plugins/ga/inpage_linkid.js';  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);  _gaq.push(['_setAccount', 'UA-24154068-1']);  _gaq.push(['_setCustomVar',5,'PurchHistory','1',1]);  _gaq.push(['_trackPageview']);    (function() {      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();  </script>
 
 </head>
 <body>
 
-
+<div id="fb-root"></div>
+    <script type="text/javascript">
+        var CustomerIsApproved = false;
+        var showContactImportTabs = false;
     
-    <div class="master-wrapper-page">
-        <div class="master-wrapper-content">
-            
-            <div class="header">
-    <div class="header-logo">
-        <a href="/" class="logo">&nbsp; </a>
-    </div>
-    <div class="header-links-wrapper">
-          
-<div class="header-links">
-    <ul>
-            <li>
-                <div class="header-register">         
-             <br>
-                    <div class="header-links-register header-links-login">
-                        <a href="/login?returnUrl=http%3A%2F%2Fwww.govx.com%2Ft%2Fprivacyinfo" class="ico-register">                          
-                          Login to GovX</a>    </div>
-
-                    <div class="header-links-register">                     
-                             <a href="/register" class="ico-login">Become a Member</a>
-                    </div> 
-					<div class="tell-friend">
-        				<ul class="tell-friend-content">
-            				<li class="tell-image">
-            					<a href="http://www.govx.com" title="Govx" class="addthis_button_email"> 
-            					
-                 					<img src="/Themes/govx/content/images/TellAFriend.png" alt="Email">
-            					</a>
-            					
-            				</li>
-                            
-        				</ul>
-						<div class="header-phone">Questions? 1.888.468-5511</div>
-    				</div>
-                </div>
-            </li>
-    </ul>
-</div>
-
-<div id="referAFriendResult">
-
-</div>
-<script type="text/javascript">
-
-    $('.referEmails').blur(function () {
-        addAnotherEmail();
-    });
-
-    function addAnotherEmail() {
-        var allFilled = true;
-        var emailEle = $('.referEmails');
-        emailEle.each(function () {
-            if ($(this).val() == '')
-                allFilled = false;
-        });
-
-        if (allFilled) {
-            var num = emailEle.length + 1;
-            $('#email1Span').clone()
-                .addClass('newEmailContainer')
-                .attr('id', 'email' + num + 'Span')
-                .find("input").val('')
-                .attr('id', 'email' + num)
-                .attr('name', 'email' + num)
-                .blur(function () { addAnotherEmail(); }).end()
-                .prependTo($('#Emails'))
-                .hide()
-                .fadeIn("slow");
-        }
-    }
-
-    function submitReferAFriend() {
-
-        $('.blackLbLoading').show();
-
-        var emailArr = new Array();
-
-        $('.referEmails').each(function () {
-            var eleId = $(this).attr('id');
-            if ($('#' + eleId + 'Span').css('display') != 'none' && $(this).val != '') {
-                emailArr.push($(this).val());
-            }
-        });
-
-        $.ajax({
-            type: 'POST',
-            url: '/ReferAFriendSubmitEmails',
-            data:
-            {
-                emailArr: emailArr,
-                message: $('#referAFriendMessage').val()
-            },
-            success: function (data) {
-                $('.blackLbLoading').hide();
-                $('#ReferAFriendTxt').html(data["Message"]);
-
-                if (data["Errors"]) {
-
-                    var goodEmails = data["GoodEmails"].split(',');
-                    var emailFields = $('#ReferAFriendEmailAndMessage input');
-
-                    for (var i = 0; i < goodEmails.length; i++) {
-                        emailFields.each(function (idx, ele) {
-                            if ($(this).val() == goodEmails[i]) {
-                                var eleId = $(this).attr('id');
-                                $('#' + eleId + 'Span').slideUp('slow');
-                            }
-                        });
-                    }
-                }
-                else {
-                    $('#refer-friend-textarea').hide();
-                    $('#ReferAFriendEmailAndMessage').hide();
-                    $('#referAFriendClose').show();
-                }
-
-            },
-            error: function () {
-                $('.blackLbLoading').hide();
-                $('#ReferAFriendTxt').html('There was an error connecting to the server. Please try again later.');
-            }
-        });
-    }
-
-    //Modal popup background ID. This is global scope and 
-    //This value should be unique so that it does not conflict with other IDs in the page.
-    var _ModalPopupBackgroundID = 'backgroundPopup_XYZ_2054354310418_Custom';
-
-    $(document).ready(function () {
-        $('.referAFriend').click(function () {
-            $('.blackLbLoading').hide();
-            ShowModalPopup('headerReferAFriend');
-        });
-        $('#refer-friend-close').click(function () {
-            closeReferAFriend();
-        });
-    });
-
-    function closeReferAFriend() {
-        HideModalPopup('headerReferAFriend');
-        $('#ReferAFriendEmailAndMessage').show();
-        $('#ReferAFriendTxt').html('Do you know a person in the Military, Law Enforcement, Fire Rescue, or First Responder that would enjoy the benefits of GovX?  Send them an invitation by including their email below.');
-        $('#referAFriendClose').hide();
-        $('#refer-friend-textarea').show();
-        $('#ReferAFriendEmailAndMessage input').attr('value', '');
-        $('#ReferAFriendEmailAndMessage div').show();
-        $('#ReferAFriendEmailAndMessage textarea').val('This is the default message your friend will see when he receives this refer a friend email.');
-        $('.newEmailContainer').remove();
         
-    }
+        CustomerIsApproved = true;
+        
+
+        
+        showContactImportTabs = true;
+        
+
+        var ReferAFriendSubmitEmailsUrl = '/ReferAFriendSubmitEmails';
+        var CurrentCustomerGuid = '30c5e67f77254a37b12966ec060c7821';
+        var CurrentCustomerEmail = '';
+        var LoginUrl = '/login';
+        </script>
+<div id="headerReferAFriend">
+        <a id="refer-friend-close" style="display: inline;"></a>
+        <div id="refer-friend-form">
+            <h2>Invite Friends and Earn $10</h2>
+            <p id="ReferAFriendTxt">Receive a $10 credit when your friend makes their first purchase.  Do you know a person in the Military (Active, Reserve, Retired or Former) or Government (Federal, State or Local) that would enjoy the benefits of GovX?  Send them an invitation below.</p>
+                <button style="display:none;" id="referAFriendClose" onclick="closeReferAFriend();" class="minimal">Close</button>
+            <div class="referTabs">
+                <ul class="tabNavigation">
+                    <li>
+                        <a id="EmailTab" href="#ReferAFriendEmailAndMessage" onclick="SwitchReferAFriend('EMAIL');">Email</a>
+                    </li>
+                    <li>
+                        <a id="GoogleTab" href="#GoogleImport" onclick="SwitchReferAFriend('GOOG');">Gmail</a>
+                    </li>
+                    <li>
+                        <a id="FacebookTab" href="#FacebookImport" onclick="SwitchReferAFriend('FACEBOOK');">Facebook</a>
+                    </li>
+                </ul>
+            </div>
+            <div id="ReferAFriendEmailAndMessage" class="referAFriendTabs">
+                <div id="Emails" style="overflow-y:auto;height:300px;">
+                <div id="email1Span"><label>Email</label><input id="email1" name="email1" class="referEmails" type="text"><br></div>
+                <div id="email2Span"><label>Email</label><input id="email2" name="email2" class="referEmails" type="text"><br></div>
+                <div id="email3Span"><label>Email</label><input id="email3" name="email3" class="referEmails" type="text"><br></div>
+                <div id="email4Span"><label>Email</label><input id="email4" name="email4" class="referEmails" type="text"><br></div>
+                <div id="email5Span"><label>Email</label><input id="email5" name="email5" class="referEmails" type="text"><br></div>
+                <div id="email6Span"><label>Email</label><input id="email6" name="email6" class="referEmails" type="text"><br></div>
+                <div id="email7Span"><label>Email</label><input id="email7" name="email7" class="referEmails" type="text"><br></div>
+                <div id="email8Span"><label>Email</label><input id="email8" name="email8" class="referEmails" type="text"><br></div>
+                    </div>
+					<p style="float:left;margin-left:85px;margin-top:0;margin-bottom:10px;font-size:12px;">Use the tab key to enter additional e-mail addresses</p>
+                <p id="refer-friend-textarea">
+                    
+                </p>
+                <div style="display:none;" class="blackLbLoading"></div>
+				<div id="refer-email-btn" style="float:left; margin-top:2px; margin-left:80px;">
+                <button onclick="submitReferAFriend();" class="minimal">Send Invitation</button>
+				</div>
+                <p id="msg"></p>
+                </div>
+            
+            <div id="GoogleImport" class="referAFriendTabs">
+                <button id="GoogImportBtn" onclick="window.open('/ImportGoogleContacts', 'googleImport', 'height=500,width=500');" class="minimal">Import Google Contacts</button>
+                <div id="contactsForm" style="display:none;overflow-y:auto;height:225px;color:#222;">
+
+                </div>
+            </div>
+            <div id="FacebookImport" class="referAFriendTabs">
+                <button onclick="shareOnFacebook();" class="minimal">Share on Facebook</button>
+                <br>
+                <span>Use this link to refer your friends - <input type="text" value="http://www.govx.com/referralSignup?referer=30c5e67f77254a37b12966ec060c7821" onclick="this.select()"></span>
+            </div>
+        </div>
+</div>
+<script src="https://connect.facebook.net/en_US/all.js" type="text/javascript"></script>
+<script type="text/javascript">
 
     function ShowModalPopup(modalPopupID) {
 
@@ -297,16 +311,73 @@ _gaq.push(['_trackPageview']);    (function() {      var ga = document.createEle
         //Remove modal background from DOM.
         $("#" + _ModalPopupBackgroundID).remove();
     }
-</script>
 
+</script>
+    
+    
+            
+            
+
+	<div class="header-top-navbar">
+		<div id="header-links">
+			<ul>
+			<li><a href="/">GovX.com</a></li>
+			<li><a href="/t/Tickets">Tickets</a></li>
+			<li><a href="/t/aboutus">About GovX</a></li>
+			<li><a href="/t/Press">Press</a></li>
+			
+            
+												
+			</ul>
+		</div>
+
+		<div id="social-media">
+			<ul>
+    				<li class="invite-item"><div class="referAFriend" style="cursor:pointer;" title="Govx">Invite Friends - Earn $10</div></li>
+				<a href="https://www.facebook.com/ShopGovX" target="_blank"><li class="social-fb"></li></a>
+				<a href="https://twitter.com/shopgovx" target="_blank"><li class="social-twitter"></li></a>
+			</ul>
+		</div>
+	</div>
+
+<div class="header">
+    <div class="header-logo-aff">
+        <a href="/" class="logo-aff"><img style="border-width: 0px;" alt="GovX Affiliate Logo" src="/content/images/thumbs/0037170.png" title="GovX Affiliate Logo"></a>
     </div>
-    <div class="header-nav-text header-text">
+	<div id="header-content-left">
+		<div id="header-text">The largest e-commerce destination <br>for military and government members</div>
+		<div class="clear">
+        </div>
+	</div>
+    <div class="header-links-wrapper">
+          
+<div class="header-links">
+    <ul>
+            <li>
+            Welcome 
+            </li>
+            <li><a href="/customer/info" class="ico-account">My account</a></li>
+            <li><a href="/logout" class="ico-logout">Log out</a></li>
+    </ul>
+</div>
+    <div class="header-links">
         <ul>
-            <li class="header-banner"></li>
-            <li class="header-banner-top" style="display: none;">Spectacular Savings on Premium Brands</li>
-            <li class="header-banner-bot" style="display: none;">Exclusively for our valued military &amp; government customers</li>
+            <li><a href="/cart" class="ico-cart">Shopping cart:</a>
+                <a href="/cart" id="shoppingCartItems">1 items</a></li>
+                <li><a href="/wishlist" class="ico-wishlist">Wishlist</a> <a href="/wishlist">
+                    (0)</a> </li>
+            
+            <li><a href="/cart" class="ico-checkout">Checkout</a>
+            </li>
         </ul>
     </div>
+    <div class="tell-friend-loggedin">
+		
+		<div class="header-phone">Questions? 1.888.468-5511</div>
+    </div>
+
+    </div>
+
     <div class="header-selectors-wrapper">
         <div class="header-taxDisplayTypeSelector">
             
@@ -322,24 +393,37 @@ _gaq.push(['_trackPageview']);    (function() {      var ga = document.createEle
     </div>
 </div>
 
-<div class="headermenu">
-    
-	<ul class="sf-menu">
+<nav>
+<div id="nav-container">
+  <div class="headermenu">
+    <div id="btn-brands"><a id="brands-btn-overlay" href="#"></a></div>
+    <div id="nav-wrapper">
+        
+	    <ul class="sf-menu">
         <li id="menu-item-new-arrivals"><a id="menu-link-new-arrivals" href="/c/304/new-arrivals">New Arrivals 
         </a>
         </li>
         <li id="menu-item-eyewear"><a id="menu-link-eyewear" href="/c/395/eyewear">Eyewear
         </a>
                 <ul>
-                        <li id="menu-item-men-sunglasses"><a id="menu-link-men-sunglasses" href="/c/383/men-sunglasses">Men Sunglasses
+                        <li id="menu-item-men-sunglasses"><a id="menu-link-men-sunglasses" href="/c/383/men-sunglasses">Men's Sunglasses
                         </a></li>
-                        <li id="menu-item-men-rx-frames"><a id="menu-link-men-rx-frames" href="/c/397/men-rx-frames">Men RX Frames
-                        </a></li>
-                        <li id="menu-item-women-sunglasses"><a id="menu-link-women-sunglasses" href="/c/384/women-sunglasses">Women Sunglasses
-                        </a></li>
-                        <li id="menu-item-women-rx-frames"><a id="menu-link-women-rx-frames" href="/c/398/women-rx-frames">Women RX Frames
+                        <li id="menu-item-women-sunglasses"><a id="menu-link-women-sunglasses" href="/c/384/women-sunglasses">Women's Sunglasses
                         </a></li>
                         <li id="menu-item-tactical-sunglasses"><a id="menu-link-tactical-sunglasses" href="/c/478/tactical-sunglasses">Tactical Sunglasses
+                        </a></li>
+                        <li id="menu-item-men-rx-frames"><a id="menu-link-men-rx-frames" href="/c/397/men-rx-frames">Men's RX Frames
+                        </a></li>
+                        <li id="menu-item-women-rx-frames"><a id="menu-link-women-rx-frames" href="/c/398/women-rx-frames">Women's RX Frames
+                        </a></li>
+                </ul>
+        </li>
+        <li id="menu-item-watches"><a id="menu-link-watches" href="/c/508/watches">Watches
+        </a>
+                <ul>
+                        <li id="menu-item-men-watches"><a id="menu-link-men-watches" href="/c/509/men-watches">Men's Watches
+                        </a></li>
+                        <li id="menu-item-women-watches"><a id="menu-link-women-watches" href="/c/510/women-watches">Women's Watches
                         </a></li>
                 </ul>
         </li>
@@ -348,17 +432,17 @@ _gaq.push(['_trackPageview']);    (function() {      var ga = document.createEle
                 <ul>
                         <li id="menu-item-accessories"><a id="menu-link-accessories" href="/c/245/accessories">Accessories
                         </a></li>
-                        <li id="menu-item-rx-optical"><a id="menu-link-rx-optical" href="/c/243/rx-optical">RX Optical
-                        </a></li>
                         <li id="menu-item-apparel"><a id="menu-link-apparel" href="/c/64/apparel">Apparel
-                        </a></li>
-                        <li id="menu-item-sandalsshoes"><a id="menu-link-sandalsshoes" href="/c/68/sandalsshoes">Sandals/Shoes
                         </a></li>
                         <li id="menu-item-bags-backpacks"><a id="menu-link-bags-backpacks" href="/c/184/bags-backpacks">Bags &amp; Backpacks
                         </a></li>
-                        <li id="menu-item-sunglasses"><a id="menu-link-sunglasses" href="/c/57/sunglasses">Sunglasses
-                        </a></li>
                         <li id="menu-item-fitness-outdoor"><a id="menu-link-fitness-outdoor" href="/c/258/fitness-outdoor">Fitness &amp; Outdoor
+                        </a></li>
+                        <li id="menu-item-rx-optical"><a id="menu-link-rx-optical" href="/c/243/rx-optical">RX Optical
+                        </a></li>
+                        <li id="menu-item-sandalsshoes"><a id="menu-link-sandalsshoes" href="/c/68/sandalsshoes">Sandals/Shoes
+                        </a></li>
+                        <li id="menu-item-sunglasses"><a id="menu-link-sunglasses" href="/c/57/sunglasses">Sunglasses
                         </a></li>
                         <li id="menu-item-watches"><a id="menu-link-watches" href="/c/484/watches">Watches
                         </a></li>
@@ -369,17 +453,17 @@ _gaq.push(['_trackPageview']);    (function() {      var ga = document.createEle
                 <ul>
                         <li id="menu-item-accessories"><a id="menu-link-accessories" href="/c/246/accessories">Accessories
                         </a></li>
-                        <li id="menu-item-fitness-outdoor"><a id="menu-link-fitness-outdoor" href="/c/249/fitness-outdoor">Fitness &amp; Outdoor 
-                        </a></li>
                         <li id="menu-item-apparel"><a id="menu-link-apparel" href="/c/96/apparel">Apparel
-                        </a></li>
-                        <li id="menu-item-rx-optical"><a id="menu-link-rx-optical" href="/c/244/rx-optical">RX Optical
                         </a></li>
                         <li id="menu-item-bags-luggage"><a id="menu-link-bags-luggage" href="/c/213/bags-luggage">Bags &amp; Luggage
                         </a></li>
-                        <li id="menu-item-sandalsshoes"><a id="menu-link-sandalsshoes" href="/c/84/sandalsshoes">Sandals/Shoes
-                        </a></li>
                         <li id="menu-item-jewelry"><a id="menu-link-jewelry" href="/c/366/jewelry">Jewelry
+                        </a></li>
+                        <li id="menu-item-fitness-outdoor"><a id="menu-link-fitness-outdoor" href="/c/249/fitness-outdoor">Fitness &amp; Outdoor 
+                        </a></li>
+                        <li id="menu-item-rx-optical"><a id="menu-link-rx-optical" href="/c/244/rx-optical">RX Optical
+                        </a></li>
+                        <li id="menu-item-sandalsshoes"><a id="menu-link-sandalsshoes" href="/c/84/sandalsshoes">Sandals/Shoes
                         </a></li>
                         <li id="menu-item-sunglasses"><a id="menu-link-sunglasses" href="/c/80/sunglasses">Sunglasses
                         </a></li>
@@ -390,9 +474,9 @@ _gaq.push(['_trackPageview']);    (function() {      var ga = document.createEle
                 <ul>
                         <li id="menu-item-apparel"><a id="menu-link-apparel" href="/c/394/apparel">Apparel
                         </a></li>
-                        <li id="menu-item-sandalsshoes"><a id="menu-link-sandalsshoes" href="/c/56/sandalsshoes">Sandals/Shoes
-                        </a></li>
                         <li id="menu-item-goggles"><a id="menu-link-goggles" href="/c/99/goggles">Goggles
+                        </a></li>
+                        <li id="menu-item-sandalsshoes"><a id="menu-link-sandalsshoes" href="/c/56/sandalsshoes">Sandals/Shoes
                         </a></li>
                         <li id="menu-item-sporting-goods"><a id="menu-link-sporting-goods" href="/c/216/sporting-goods">Sporting Goods
                         </a></li>
@@ -403,25 +487,27 @@ _gaq.push(['_trackPageview']);    (function() {      var ga = document.createEle
                 <ul>
                         <li id="menu-item-bike"><a id="menu-link-bike" href="/c/129/bike">Bike 
                         </a></li>
-                        <li id="menu-item-moto"><a id="menu-link-moto" href="/c/308/moto">Moto
-                        </a></li>
                         <li id="menu-item-dive"><a id="menu-link-dive" href="/c/144/dive">Dive 
-                        </a></li>
-                        <li id="menu-item-paddle"><a id="menu-link-paddle" href="/c/143/paddle">Paddle 
                         </a></li>
                         <li id="menu-item-fitness-training"><a id="menu-link-fitness-training" href="/c/175/fitness-training">Fitness &amp; Training
                         </a></li>
-                        <li id="menu-item-paintball"><a id="menu-link-paintball" href="/c/208/paintball">Paintball
-                        </a></li>
                         <li id="menu-item-golf"><a id="menu-link-golf" href="/c/196/golf">Golf
-                        </a></li>
-                        <li id="menu-item-skate"><a id="menu-link-skate" href="/c/107/skate">Skate
                         </a></li>
                         <li id="menu-item-hike"><a id="menu-link-hike" href="/c/272/hike">Hike
                         </a></li>
+                        <li id="menu-item-mma"><a id="menu-link-mma" href="/c/232/mma">MMA
+                        </a></li>
+                        <li id="menu-item-moto"><a id="menu-link-moto" href="/c/308/moto">Moto
+                        </a></li>
+                        <li id="menu-item-paddle"><a id="menu-link-paddle" href="/c/143/paddle">Paddle 
+                        </a></li>
+                        <li id="menu-item-paintball"><a id="menu-link-paintball" href="/c/208/paintball">Paintball
+                        </a></li>
+                        <li id="menu-item-skate"><a id="menu-link-skate" href="/c/107/skate">Skate
+                        </a></li>
                         <li id="menu-item-ski-board"><a id="menu-link-ski-board" href="/c/290/ski-board">Ski &amp; Board
                         </a></li>
-                        <li id="menu-item-mma"><a id="menu-link-mma" href="/c/232/mma">MMA
+                        <li id="menu-item-triathlon"><a id="menu-link-triathlon" href="/c/539/triathlon">Triathlon
                         </a></li>
                         <li id="menu-item-surf"><a id="menu-link-surf" href="/c/192/surf">Surf
                         </a></li>
@@ -432,27 +518,35 @@ _gaq.push(['_trackPageview']);    (function() {      var ga = document.createEle
                 <ul>
                         <li id="menu-item-backpacks"><a id="menu-link-backpacks" href="/c/151/backpacks">Backpacks
                         </a></li>
-                        <li id="menu-item-outerwear"><a id="menu-link-outerwear" href="/c/165/outerwear">Outerwear
+                        <li id="menu-item-fishing-gear"><a id="menu-link-fishing-gear" href="/c/503/fishing-gear">Fishing Gear
                         </a></li>
                         <li id="menu-item-food-supply"><a id="menu-link-food-supply" href="/c/501/food-supply">Food Supply
                         </a></li>
-                        <li id="menu-item-sleeping-bags"><a id="menu-link-sleeping-bags" href="/c/321/sleeping-bags">Sleeping Bags
+                        <li id="menu-item-gps"><a id="menu-link-gps" href="/c/505/gps">GPS
                         </a></li>
-                        <li id="menu-item-shooting-gear"><a id="menu-link-shooting-gear" href="/c/497/shooting-gear">Shooting Gear
-                        </a></li>
-                        <li id="menu-item-sleeping-pads"><a id="menu-link-sleeping-pads" href="/c/166/sleeping-pads">Sleeping Pads
-                        </a></li>
-                        <li id="menu-item-headlamps"><a id="menu-link-headlamps" href="/c/126/headlamps">Headlamps
-                        </a></li>
-                        <li id="menu-item-sunscreen"><a id="menu-link-sunscreen" href="/c/78/sunscreen">Sunscreen
+                        <li id="menu-item-headlamps"><a id="menu-link-headlamps" href="/c/126/headlamps">Lights
                         </a></li>
                         <li id="menu-item-knives"><a id="menu-link-knives" href="/c/230/knives">Knives
                         </a></li>
-                        <li id="menu-item-tie-downs"><a id="menu-link-tie-downs" href="/c/167/tie-downs">Tie Downs
-                        </a></li>
                         <li id="menu-item-nutrition"><a id="menu-link-nutrition" href="/c/171/nutrition">Nutrition
                         </a></li>
+                        <li id="menu-item-outerwear"><a id="menu-link-outerwear" href="/c/165/outerwear">Outerwear
+                        </a></li>
+                        <li id="menu-item-shooting-gear"><a id="menu-link-shooting-gear" href="/c/497/shooting-gear">Hunting &amp; Shooting
+                        </a></li>
+                        <li id="menu-item-sleeping-bags"><a id="menu-link-sleeping-bags" href="/c/321/sleeping-bags">Sleeping Bags
+                        </a></li>
+                        <li id="menu-item-sleeping-pads"><a id="menu-link-sleeping-pads" href="/c/166/sleeping-pads">Sleeping Pads
+                        </a></li>
+                        <li id="menu-item-solar-powered"><a id="menu-link-solar-powered" href="/c/542/solar-powered">Solar Powered
+                        </a></li>
+                        <li id="menu-item-sunscreen"><a id="menu-link-sunscreen" href="/c/78/sunscreen">Sunscreen
+                        </a></li>
+                        <li id="menu-item-tie-downs"><a id="menu-link-tie-downs" href="/c/167/tie-downs">Tie Downs
+                        </a></li>
                         <li id="menu-item-tents"><a id="menu-link-tents" href="/c/318/tents">Tents 
+                        </a></li>
+                        <li id="menu-item-shock-suspension-systems"><a id="menu-link-shock-suspension-systems" href="/c/575/shock-suspension-systems">Shock Suspension Systems
                         </a></li>
                 </ul>
         </li>
@@ -461,13 +555,11 @@ _gaq.push(['_trackPageview']);    (function() {      var ga = document.createEle
                 <ul>
                         <li id="menu-item-clocks"><a id="menu-link-clocks" href="/c/223/clocks">Clocks
                         </a></li>
-                        <li id="menu-item-gifts"><a id="menu-link-gifts" href="/c/168/gifts">Gifts
-                        </a></li>
                         <li id="menu-item-decor"><a id="menu-link-decor" href="/c/224/decor">Decor
                         </a></li>
-                        <li id="menu-item-holiday"><a id="menu-link-holiday" href="/c/459/holiday">Holiday
-                        </a></li>
                         <li id="menu-item-dinnerware"><a id="menu-link-dinnerware" href="/c/358/dinnerware">Dinnerware 
+                        </a></li>
+                        <li id="menu-item-gifts"><a id="menu-link-gifts" href="/c/168/gifts">Gifts
                         </a></li>
                         <li id="menu-item-mirrors"><a id="menu-link-mirrors" href="/c/226/mirrors">Mirrors
                         </a></li>
@@ -478,21 +570,29 @@ _gaq.push(['_trackPageview']);    (function() {      var ga = document.createEle
                 <ul>
                         <li id="menu-item-audio"><a id="menu-link-audio" href="/c/337/audio">Audio
                         </a></li>
-                        <li id="menu-item-ipad-cases"><a id="menu-link-ipad-cases" href="/c/228/ipad-cases">iPad Cases
+                        <li id="menu-item-cameras-accessories"><a id="menu-link-cameras-accessories" href="/c/160/cameras-accessories">Cameras &amp; Accessories
                         </a></li>
                         <li id="menu-item-digital-eyewear"><a id="menu-link-digital-eyewear" href="/c/158/digital-eyewear">Digital Eyewear
                         </a></li>
-                        <li id="menu-item-ipod-cases"><a id="menu-link-ipod-cases" href="/c/233/ipod-cases">Ipod Cases
-                        </a></li>
                         <li id="menu-item-games"><a id="menu-link-games" href="/c/349/games">Games
                         </a></li>
-                        <li id="menu-item-kindle"><a id="menu-link-kindle" href="/c/307/kindle">Kindle
+                        <li id="menu-item-galaxy-s3-accessories"><a id="menu-link-galaxy-s3-accessories" href="/c/555/galaxy-s3-accessories">Galaxy S3 Accessories
+                        </a></li>
+                        <li id="menu-item-gps"><a id="menu-link-gps" href="/c/504/gps">GPS
                         </a></li>
                         <li id="menu-item-health-monitors"><a id="menu-link-health-monitors" href="/c/379/health-monitors">Health Monitors
                         </a></li>
-                        <li id="menu-item-macbook-laptop-cases"><a id="menu-link-macbook-laptop-cases" href="/c/227/macbook-laptop-cases">Macbook &amp; Laptop Cases
+                        <li id="menu-item-iphone-cases"><a id="menu-link-iphone-cases" href="/c/211/iphone-cases">iPhone Accessories
                         </a></li>
-                        <li id="menu-item-iphone-cases"><a id="menu-link-iphone-cases" href="/c/211/iphone-cases">iPhone Cases
+                        <li id="menu-item-ipad-cases"><a id="menu-link-ipad-cases" href="/c/228/ipad-cases">iPad Accessories
+                        </a></li>
+                        <li id="menu-item-ipod-cases"><a id="menu-link-ipod-cases" href="/c/233/ipod-cases">iPod Accessories
+                        </a></li>
+                        <li id="menu-item-kindle"><a id="menu-link-kindle" href="/c/307/kindle">Kindle Accessories
+                        </a></li>
+                        <li id="menu-item-macbook-laptop-cases"><a id="menu-link-macbook-laptop-cases" href="/c/227/macbook-laptop-cases">Laptop Accessories
+                        </a></li>
+                        <li id="menu-item-charging-devices"><a id="menu-link-charging-devices" href="/c/536/charging-devices">Charging Devices
                         </a></li>
                 </ul>
         </li>
@@ -501,29 +601,29 @@ _gaq.push(['_trackPageview']);    (function() {      var ga = document.createEle
                 <ul>
                         <li id="menu-item-apparel"><a id="menu-link-apparel" href="/c/347/apparel">Apparel
                         </a></li>
-                        <li id="menu-item-headlamps"><a id="menu-link-headlamps" href="/c/128/headlamps">Headlamps
+                        <li id="menu-item-combatives"><a id="menu-link-combatives" href="/c/338/combatives">Armor and Carriers
                         </a></li>
-                        <li id="menu-item-bags"><a id="menu-link-bags" href="/c/142/bags">Bags
+                        <li id="menu-item-bags"><a id="menu-link-bags" href="/c/142/bags">Bags and Packs
                         </a></li>
-                        <li id="menu-item-knives"><a id="menu-link-knives" href="/c/231/knives">Knives
-                        </a></li>
-                        <li id="menu-item-combatives"><a id="menu-link-combatives" href="/c/338/combatives">Combatives
-                        </a></li>
-                        <li id="menu-item-boots"><a id="menu-link-boots" href="/c/346/boots">Shoes
+                        <li id="menu-item-first-aid-trauma-kits"><a id="menu-link-first-aid-trauma-kits" href="/c/568/first-aid-trauma-kits">First Aid Trauma Kits
                         </a></li>
                         <li id="menu-item-emergency-food-supply"><a id="menu-link-emergency-food-supply" href="/c/502/emergency-food-supply">Emergency Food Supply
                         </a></li>
-                        <li id="menu-item-sleeping-bags"><a id="menu-link-sleeping-bags" href="/c/319/sleeping-bags">Sleeping Bags
-                        </a></li>
                         <li id="menu-item-firearm-accessories"><a id="menu-link-firearm-accessories" href="/c/155/firearm-accessories">Firearm Accessories
-                        </a></li>
-                        <li id="menu-item-sunglasses"><a id="menu-link-sunglasses" href="/c/93/sunglasses">Sunglasses
                         </a></li>
                         <li id="menu-item-fitness"><a id="menu-link-fitness" href="/c/176/fitness">Fitness
                         </a></li>
-                        <li id="menu-item-tents"><a id="menu-link-tents" href="/c/323/tents">Tents
-                        </a></li>
                         <li id="menu-item-tactical-gloves"><a id="menu-link-tactical-gloves" href="/c/161/tactical-gloves">Gloves
+                        </a></li>
+                        <li id="menu-item-headlamps"><a id="menu-link-headlamps" href="/c/128/headlamps">Headlamps
+                        </a></li>
+                        <li id="menu-item-knives"><a id="menu-link-knives" href="/c/231/knives">Knives
+                        </a></li>
+                        <li id="menu-item-sleeping-bags"><a id="menu-link-sleeping-bags" href="/c/319/sleeping-bags">Sleeping Bags
+                        </a></li>
+                        <li id="menu-item-sunglasses"><a id="menu-link-sunglasses" href="/c/93/sunglasses">Sunglasses
+                        </a></li>
+                        <li id="menu-item-tents"><a id="menu-link-tents" href="/c/323/tents">Tents
                         </a></li>
                         <li id="menu-item-watches"><a id="menu-link-watches" href="/c/479/watches">Watches
                         </a></li>
@@ -532,34 +632,510 @@ _gaq.push(['_trackPageview']);    (function() {      var ga = document.createEle
     <li id="menu-brand" class="brand-menu" style="z-index: 3000; border-right: 0;"><a href="/manufacturer/all">Brands</a>
            
     </li>
-    
-</ul>
-</div>
-<div class="headerpromos">
-	<div id="hdr-social">
-		<a href="https://www.facebook.com/ShopGovX" target="_blank" class="hdr-facebook"></a><a href="https://twitter.com/#!/shopgovx" target="_blank" class="hdr-twitter"></a>
-	</div>
-    	<div id="hdr-banner1"><a href="/p/2040/medal-of-honor-warfighter-exclusive-military-edition-includes-limited-edition-features"><img src="/content/images/uploaded/hdr_banner1.jpg"></a></div>
-		<div id="hdr-banner2"><a href="/p/135/kaenon-hard-kore-sunglasses-polarized"><img src="/content/images/uploaded/hdr_banner2.jpg"></a></div>
 	
-	<style>
+    
+<div id="menu-item-search"><a href="#"></a></div>
+</ul>
+    </div>
+	<div class="headerpromos">
+        
+	    <style>
     .ui-widget-content
     {
         background: #F2F5F7 50% top repeat-x;
     }
 </style>
-<div id="searchbox">
-<form action="/search" method="get" onsubmit="return check_small_search_form()">        <ul>
+<div id="search-overlay" style="display:none;">
+<a class="close-search-modal">×</a>
+<div id="search-wrapper">
+<form action="/search" method="get" onsubmit="return check_small_search_form()">		<p>Search GovX</p>
+        <ul>
             <li>
                 <input type="text" class="searchboxtext" id="small-searchterms" value="" name="q">&nbsp; </li>
             <li>
-                <input type="submit" class="searchboxbutton" id="btn-small-search" value=" ">&nbsp; 
+                <input type="submit" class="searchboxbutton" id="btn-small-search" value="GO">&nbsp; 
             </li>
         </ul>
 </form></div>
+<script>
+$('#menu-item-search').click(function () {
+    $('#search-overlay').toggle();
+    $('#small-searchterms').focus();
+});
+
+$('.close-search-modal').click(function () {
+$('#search-overlay').toggle();
+});
+
+$(document).ready(function () {
+    
+    $('#small-searchterms').autocomplete({
+        source: function (req, add) {
+            //pass request to server
+            $.getJSON("/Catalog/AutoComplete", req, function (data) {
+                    //create array for response objects  
+                    var suggestions = [];
+                    $.each(data, function (i, val) {
+                        suggestions.push(val);
+                    });
+                    add(suggestions);
+                });
+            },
+            minLength: 3
+        });
+});
+</script>
+</div>
+ 
+		
+<div id="brands-overlay" style="display:none;">
+<div id="brand-wrapper" class="hfeed">
+
+    <h3>Shop By Brand</h3>
+<a class="brands-link" href="/manufacturer/all">View All Brands</a>
+    <div <div="" id="tabs">
+    <ul>
+        <li class="tab-item"><a href="#tab-1">A-D</a></li>
+            <li class="tab-item"><a href="#tab-2">E-H</a></li>
+            <li class="tab-item"><a href="#tab-3">I-L</a></li>
+            <li class="tab-item"><a href="#tab-4">M-P</a></li>
+            <li class="tab-item"><a href="#tab-5">Q-S</a></li>
+      <li class="tab-item"><a href="#tab-6">T-Z</a></li>
+    </ul>
+
+
+        <div id="tab-1">
+
+                <span class="brands-list-column">
+
+                        <p><a href="/m/136">110 Play Harder</a></p>
+                        <p><a href="/m/143">2XU</a></p>
+                        <p><a href="/m/175">Active Angelz</a></p>
+                        <p><a href="/m/43/alpinestars">Alpinestars</a></p>
+                        <p><a href="/m/149">Athletic Recon</a></p>
+                        <p><a href="/m/60/bas-rutten">Bas Rutten</a></p>
+
+                </span>
+                <span class="brands-list-column">
+
+                        <p><a href="/m/176">Benchmade</a></p>
+                        <p><a href="/m/183">BLUECOLT</a></p>
+                        <p><a href="/m/126">Boardworks</a></p>
+                        <p><a href="/m/144">Bobster</a></p>
+                        <p><a href="/m/55/bodymedia">BodyMedia</a></p>
+                        <p><a href="/m/101">Bulky Boy</a></p>
+
+                </span>
+                <span class="brands-list-column">
+
+                        <p><a href="/m/36/caliber">Caliber</a></p>
+                        <p><a href="/m/47/callaway">Callaway</a></p>
+                        <p><a href="/m/156">Carolina Herrera</a></p>
+                        <p><a href="/m/117">Celtek</a></p>
+                        <p><a href="/m/119">Columbia</a></p>
+                        <p><a href="/m/80/dafin">DaFiN</a></p>
+
+                </span>
+                <span class="brands-list-column">
+
+                        <p><a href="/m/53/dakine">Dakine</a></p>
+                        <p><a href="/m/24/darn-tough">Darn Tough</a></p>
+                        <p><a href="/m/137">DeSoto</a></p>
+                        <p><a href="/m/18/deuter">Deuter</a></p>
+                        <p><a href="/m/168">Doetsch Tech</a></p>
+                        <p><a href="/m/106">Dragon</a></p>
+
+                </span>
+
+        </div>
+        <div id="tab-2">
+
+                <span class="brands-list-column">
+
+                        <p><a href="/m/86/ea">EA</a></p>
+                        <p><a href="/m/153">Edge Tactical Eyewear</a></p>
+                        <p><a href="/m/108">Electric</a></p>
+                        <p><a href="/m/150/element-case">Element Case</a></p>
+                        <p><a href="/m/17/emu">Emu</a></p>
+                        <p><a href="/m/145">Fenix</a></p>
+
+                </span>
+                <span class="brands-list-column">
+
+                        <p><a href="/m/155">Fila Eyewear</a></p>
+                        <p><a href="/m/95">Filtrate</a></p>
+                        <p><a href="/m/46/firewire-surfboards">Firewire Surfboards</a></p>
+                        <p><a href="/m/133">Fisher Boards</a></p>
+                        <p><a href="/m/48/fmf">FMF</a></p>
+                        <p><a href="/m/26/fobus">Fobus</a></p>
+
+                </span>
+                <span class="brands-list-column">
+
+                        <p><a href="/m/105">Gargoyles</a></p>
+                        <p><a href="/m/174">Garmin</a></p>
+                        <p><a href="/m/104">Gatorz</a></p>
+                        <p><a href="/m/180">GEIGERRIG</a></p>
+                        <p><a href="/m/159">Givenchy</a></p>
+                        <p><a href="/m/147">Goal Zero</a></p>
+
+                </span>
+                <span class="brands-list-column">
+
+                        <p><a href="/m/29/grenade">Grenade</a></p>
+                        <p><a href="/m/19/gunnar">Gunnar</a></p>
+                        <p><a href="/m/112">HED</a></p>
+                        <p><a href="/m/179">Hinano</a></p>
+                        <p><a href="/m/94">Hobie Polarized</a></p>
+                        <p><a href="/m/33/honey-stinger">Honey Stinger</a></p>
+
+                </span>
+
+        </div>
+        <div id="tab-3">
+
+                <span class="brands-list-column">
+
+                        <p><a href="/m/57/incipio">Incipio</a></p>
+                        <p><a href="/m/98">iSkin</a></p>
+                        <p><a href="/m/135">Italian Gun Grease</a></p>
+                        <p><a href="/m/31/joolz-hayworth">Joolz Hayworth</a></p>
+                        <p><a href="/m/6/kaenon">Kaenon</a></p>
+                        <p><a href="/m/187">Katadyn</a></p>
+
+                </span>
+                <span class="brands-list-column">
+
+                        <p><a href="/m/130">Keiser</a></p>
+                        <p><a href="/m/164">KIALOA Paddles</a></p>
+                        <p><a href="/m/81/kicks">Kicks</a></p>
+                        <p><a href="/m/102">Klim</a></p>
+                        <p><a href="/m/25/klymit">Klymit</a></p>
+                        <p><a href="/m/15/lahui-kai">Lahui Kai</a></p>
+
+                </span>
+                <span class="brands-list-column">
+
+                        <p><a href="/m/158">Lanvin</a></p>
+                        <p><a href="/m/109">LifeProof</a></p>
+                        <p><a href="/m/23/line-of-fire">Line of Fire</a></p>
+                        <p><a href="/m/152">Linksoul</a></p>
+                        <p><a href="/m/162">Loewe</a></p>
+                        <p><a href="/m/13/london-bridge-trading">London Bridge Trading</a></p>
+
+                </span>
+                <span class="brands-list-column">
+
+                        <p><a href="/m/63/luminox">Luminox</a></p>
+
+                </span>
+
+        </div>
+        <div id="tab-4">
+
+                <span class="brands-list-column">
+
+                        <p><a href="/m/125">Magellan</a></p>
+                        <p><a href="/m/3/matuse">Matuse</a></p>
+                        <p><a href="/m/45/metal-mulisha">Metal Mulisha</a></p>
+                        <p><a href="/m/21/mission-first-tactical">Mission First Tactical</a></p>
+                        <p><a href="/m/154">Monster</a></p>
+                        <p><a href="/m/107">Moon</a></p>
+
+                </span>
+                <span class="brands-list-column">
+
+                        <p><a href="/m/151/mophie">mophie</a></p>
+                        <p><a href="/m/138">MuzzleShot</a></p>
+                        <p><a href="/m/52/my-saint-my-hero">My Saint My Hero</a></p>
+                        <p><a href="/m/186">Naish</a></p>
+                        <p><a href="/m/65/nemo-equipment">Nemo Equipment</a></p>
+                        <p><a href="/m/114">Nicole Miller</a></p>
+
+                </span>
+                <span class="brands-list-column">
+
+                        <p><a href="/m/69/nikon">Nikon</a></p>
+                        <p><a href="/m/127">Nixon</a></p>
+                        <p><a href="/m/71/odyssey">Odyssey</a></p>
+                        <p><a href="/m/163">Officer Survival Solutions</a></p>
+                        <p><a href="/m/141">Officina del Tempo</a></p>
+                        <p><a href="/m/139">Ogio</a></p>
+
+                </span>
+                <span class="brands-list-column">
+
+                        <p><a href="/m/5/olukai">Olukai</a></p>
+                        <p><a href="/m/116">Pelican</a></p>
+                        <p><a href="/m/93">Preppy Plates</a></p>
+                        <p><a href="/m/12/princeton-tec">Princeton Tec</a></p>
+                        <p><a href="/m/165">Próis</a></p>
+                        <p><a href="/m/134">PROPPER</a></p>
+
+                </span>
+
+        </div>
+        <div id="tab-5">
+
+                <span class="brands-list-column">
+
+                        <p><a href="/m/70/raen">Raen</a></p>
+                        <p><a href="/m/110">Reactor Watches</a></p>
+                        <p><a href="/m/129">Replay</a></p>
+                        <p><a href="/m/64/rhythm">Rhythm</a></p>
+                        <p><a href="/m/76/rudy-project">Rudy Project</a></p>
+                        <p><a href="/m/59/safetyweb-products">SafetyWeb Products</a></p>
+
+                </span>
+                <span class="brands-list-column">
+
+                        <p><a href="/m/50/sailor-jerry">Sailor Jerry</a></p>
+                        <p><a href="/m/8/sector-9">Sector 9</a></p>
+                        <p><a href="/m/120">Skins</a></p>
+                        <p><a href="/m/167">Skullcandy</a></p>
+                        <p><a href="/m/132">Smith Optics</a></p>
+                        <p><a href="/m/73/snugpak">Snugpak</a></p>
+
+                </span>
+                <span class="brands-list-column">
+
+                        <p><a href="/m/74/sog-knives">SOG Knives</a></p>
+                        <p><a href="/m/90/sonos">Sonos</a></p>
+                        <p><a href="/m/9/spy">Spy</a></p>
+                        <p><a href="/m/2/stance">Stance</a></p>
+                        <p><a href="/m/118">Stormr</a></p>
+                        <p><a href="/m/124">Survival Straps</a></p>
+
+                </span>
+
+        </div>
+        <div id="tab-6">
+
+                <span class="brands-list-column">
+
+                        <p><a href="/m/75/tactical-assault-gear">Tactical Assault Gear</a></p>
+                        <p><a href="/m/67/tavik">Tavik</a></p>
+                        <p><a href="/m/170">TaylorMade</a></p>
+                        <p><a href="/m/32/ted-shreds">Ted Shred's</a></p>
+                        <p><a href="/m/39/tiberius-arms">Tiberius Arms</a></p>
+                        <p><a href="/m/178">TITIN</a></p>
+
+                </span>
+                <span class="brands-list-column">
+
+                        <p><a href="/m/185">TORQUE</a></p>
+                        <p><a href="/m/37/tricosports">TricoSports</a></p>
+                        <p><a href="/m/40/trx">TRX</a></p>
+                        <p><a href="/m/56/twos-company">Two's Company</a></p>
+                        <p><a href="/m/97">Vertx</a></p>
+                        <p><a href="/m/61/vestal">Vestal</a></p>
+
+                </span>
+                <span class="brands-list-column">
+
+                        <p><a href="/m/7/vonzipper">VonZipper</a></p>
+                        <p><a href="/m/99">Vuarnet</a></p>
+                        <p><a href="/m/181">Waterfi</a></p>
+                        <p><a href="/m/14/watermans">Watermans</a></p>
+                        <p><a href="/m/111">We All Ride</a></p>
+                        <p><a href="/m/148">Wenger</a></p>
+
+                </span>
+                <span class="brands-list-column">
+
+                        <p><a href="/m/113">Wild Things - Smith &amp; Wesson</a></p>
+                        <p><a href="/m/115">Wise Company</a></p>
+                        <p><a href="/m/166">X-1</a></p>
+                        <p><a href="/m/35/xcel-wetsuits">Xcel Wetsuits</a></p>
+                        <p><a href="/m/103">Zamst</a></p>
+
+                </span>
+
+        </div>
+
+
+  </div>
+
+
+
+<div id="brand-logos">
+<h3>Browse Brands</h3>
+
+<div id="my-carousel">
+		<div class="mask"><ul style="margin-left: -5px; width: 10742px;">
+                    <li style=""><a href="/m/187"><img src="/content/images/thumbs/0040533.png"></a></li>
+                    <li><a href="/m/186"><img src="/content/images/thumbs/0040081.png"></a></li>
+                    <li><a href="/m/185"><img src="/content/images/thumbs/0039861.png"></a></li>
+                    <li><a href="/m/183"><img src="/content/images/thumbs/0040496.png"></a></li>
+                    <li><a href="/m/181"><img src="/content/images/thumbs/0039669.png"></a></li>
+                    <li><a href="/m/180"><img src="/content/images/thumbs/0039385.png"></a></li>
+                    <li><a href="/m/179"><img src="/content/images/thumbs/0038711.png"></a></li>
+                    <li><a href="/m/178"><img src="/content/images/thumbs/0037838.png"></a></li>
+                    <li><a href="/m/176"><img src="/content/images/thumbs/0039381.png"></a></li>
+                    <li><a href="/m/175"><img src="/content/images/thumbs/0038642.png"></a></li>
+                    <li><a href="/m/174"><img src="/content/images/thumbs/0036958.png"></a></li>
+                    <li><a href="/m/170"><img src="/content/images/thumbs/0036874.png"></a></li>
+                    <li><a href="/m/168"><img src="/content/images/thumbs/0036882.png"></a></li>
+                    <li><a href="/m/167"><img src="/content/images/thumbs/0036886.png"></a></li>
+                    <li><a href="/m/166"><img src="/content/images/thumbs/0036670.png"></a></li>
+                    <li><a href="/m/165"><img src="/content/images/thumbs/0036895.png"></a></li>
+                    <li><a href="/m/164"><img src="/content/images/thumbs/0037143.png"></a></li>
+                    <li><a href="/m/163"><img src="/content/images/thumbs/0036459.png"></a></li>
+                    <li><a href="/m/162"><img src="/content/images/thumbs/0036865.jpeg"></a></li>
+                    <li><a href="/m/159"><img src="/content/images/thumbs/0036823.jpeg"></a></li>
+                    <li><a href="/m/158"><img src="/content/images/thumbs/0036818.jpeg"></a></li>
+                    <li><a href="/m/156"><img src="/content/images/thumbs/0036857.jpeg"></a></li>
+                    <li><a href="/m/155"><img src="/content/images/thumbs/0036891.jpeg"></a></li>
+                    <li><a href="/m/154"><img src="/content/images/thumbs/0036118.png"></a></li>
+                    <li><a href="/m/153"><img src="/content/images/thumbs/0036224.png"></a></li>
+                    <li><a href="/m/152"><img src="/content/images/thumbs/0035475.png"></a></li>
+                    <li><a href="/m/151/mophie"><img src="/content/images/thumbs/0039216.jpeg"></a></li>
+                    <li><a href="/m/150/element-case"><img src="/content/images/thumbs/0035373.jpeg"></a></li>
+                    <li><a href="/m/149"><img src="/content/images/thumbs/0034693.png"></a></li>
+                    <li><a href="/m/148"><img src="/content/images/thumbs/0034702.jpeg"></a></li>
+                    <li><a href="/m/147"><img src="/content/images/thumbs/0034407.jpeg"></a></li>
+                    <li><a href="/m/145"><img src="/content/images/thumbs/0035111.jpeg"></a></li>
+                    <li><a href="/m/144"><img src="/content/images/thumbs/0034678.jpeg"></a></li>
+                    <li><a href="/m/143"><img src="/content/images/thumbs/0033434.jpeg"></a></li>
+                    <li><a href="/m/141"><img src="/content/images/thumbs/0034649.jpeg"></a></li>
+                    <li><a href="/m/139"><img src="/content/images/thumbs/0033764.jpeg"></a></li>
+                    <li><a href="/m/138"><img src="/content/images/thumbs/0032116.jpeg"></a></li>
+                    <li><a href="/m/137"><img src="/content/images/thumbs/0031981.jpeg"></a></li>
+                    <li><a href="/m/136"><img src="/content/images/thumbs/0031566.jpeg"></a></li>
+                    <li><a href="/m/135"><img src="/content/images/thumbs/0031292.jpeg"></a></li>
+                    <li><a href="/m/134"><img src="/content/images/thumbs/0031034.png"></a></li>
+                    <li><a href="/m/133"><img src="/content/images/thumbs/0031282.jpeg"></a></li>
+                    <li><a href="/m/132"><img src="/content/images/thumbs/0030928.png"></a></li>
+                    <li><a href="/m/130"><img src="/content/images/thumbs/0030877.jpeg"></a></li>
+                    <li><a href="/m/129"><img src="/content/images/thumbs/0030849.jpeg"></a></li>
+                    <li><a href="/m/127"><img src="/content/images/thumbs/0029318.png"></a></li>
+                    <li><a href="/m/126"><img src="/content/images/thumbs/0029361.jpeg"></a></li>
+                    <li><a href="/m/125"><img src="/content/images/thumbs/0029348.png"></a></li>
+                    <li><a href="/m/124"><img src="/content/images/thumbs/0030845.jpeg"></a></li>
+                    <li><a href="/m/120"><img src="/content/images/thumbs/0031030.png"></a></li>
+                    <li><a href="/m/119"><img src="/content/images/thumbs/0029129.png"></a></li>
+                    <li><a href="/m/118"><img src="/content/images/thumbs/0030921.jpeg"></a></li>
+                    <li><a href="/m/117"><img src="/content/images/thumbs/0030841.jpeg"></a></li>
+                    <li><a href="/m/116"><img src="/content/images/thumbs/0029365.png"></a></li>
+                    <li><a href="/m/115"><img src="/content/images/thumbs/0030851.jpeg"></a></li>
+                    <li><a href="/m/114"><img src="/content/images/thumbs/0029173.jpeg"></a></li>
+                    <li><a href="/m/113"><img src="/content/images/thumbs/0029152.png"></a></li>
+                    <li><a href="/m/112"><img src="/content/images/thumbs/0029190.png"></a></li>
+                    <li><a href="/m/111"><img src="/content/images/thumbs/0029213.png"></a></li>
+                    <li><a href="/m/110"><img src="/content/images/thumbs/0029208.jpeg"></a></li>
+                    <li><a href="/m/109"><img src="/content/images/thumbs/0029157.jpeg"></a></li>
+                    <li><a href="/m/108"><img src="/content/images/thumbs/0035518.png"></a></li>
+                    <li><a href="/m/107"><img src="/content/images/thumbs/0029167.jpeg"></a></li>
+                    <li><a href="/m/106"><img src="/content/images/thumbs/0029191.png"></a></li>
+                    <li><a href="/m/105"><img src="/content/images/thumbs/0029194.png"></a></li>
+                    <li><a href="/m/104"><img src="/content/images/thumbs/0036773.jpeg"></a></li>
+                    <li><a href="/m/103"><img src="/content/images/thumbs/0029134.png"></a></li>
+                    <li><a href="/m/101"><img src="/content/images/thumbs/0029141.png"></a></li>
+                    <li><a href="/m/99"><img src="/content/images/thumbs/0029160.png"></a></li>
+                    <li><a href="/m/98"><img src="/content/images/thumbs/0029144.png"></a></li>
+                    <li><a href="/m/97"><img src="/content/images/thumbs/0029175.png"></a></li>
+                    <li><a href="/m/95"><img src="/content/images/thumbs/0029193.png"></a></li>
+                    <li><a href="/m/94"><img src="/content/images/thumbs/0029196.png"></a></li>
+                    <li><a href="/m/93"><img src="/content/images/thumbs/0029205.png"></a></li>
+                    <li><a href="/m/90/sonos"><img src="/content/images/thumbs/0029201.jpeg"></a></li>
+                    <li><a href="/m/86/ea"><img src="/content/images/thumbs/0029130.png"></a></li>
+                    <li><a href="/m/81/kicks"><img src="/content/images/thumbs/0029151.png"></a></li>
+                    <li><a href="/m/80/dafin"><img src="/content/images/thumbs/0029125.png"></a></li>
+                    <li><a href="/m/76/rudy-project"><img src="/content/images/thumbs/0029200.jpeg"></a></li>
+                    <li><a href="/m/75/tactical-assault-gear"><img src="/content/images/thumbs/0029182.png"></a></li>
+                    <li><a href="/m/74/sog-knives"><img src="/content/images/thumbs/0035052.jpeg"></a></li>
+                    <li><a href="/m/73/snugpak"><img src="/content/images/thumbs/0029210.png"></a></li>
+                    <li><a href="/m/71/odyssey"><img src="/content/images/thumbs/0029203.jpeg"></a></li>
+                    <li><a href="/m/70/raen"><img src="/content/images/thumbs/0037785.png"></a></li>
+                    <li><a href="/m/69/nikon"><img src="/content/images/thumbs/0029174.jpeg"></a></li>
+                    <li><a href="/m/67/tavik"><img src="/content/images/thumbs/0029181.jpeg"></a></li>
+                    <li><a href="/m/65/nemo-equipment"><img src="/content/images/thumbs/0029169.jpeg"></a></li>
+                    <li><a href="/m/64/rhythm"><img src="/content/images/thumbs/0029207.png"></a></li>
+                    <li><a href="/m/63/luminox"><img src="/content/images/thumbs/0029163.png"></a></li>
+                    <li><a href="/m/61/vestal"><img src="/content/images/thumbs/0029170.png"></a></li>
+                    <li><a href="/m/60/bas-rutten"><img src="/content/images/thumbs/0029135.png"></a></li>
+                    <li><a href="/m/59/safetyweb-products"><img src="/content/images/thumbs/0029209.png"></a></li>
+                    <li><a href="/m/57/incipio"><img src="/content/images/thumbs/0029138.png"></a></li>
+                    <li><a href="/m/56/twos-company"><img src="/content/images/thumbs/0029225.jpeg"></a></li>
+                    <li><a href="/m/55/bodymedia"><img src="/content/images/thumbs/0029137.png"></a></li>
+                    <li><a href="/m/53/dakine"><img src="/content/images/thumbs/0029126.png"></a></li>
+                    <li><a href="/m/52/my-saint-my-hero"><img src="/content/images/thumbs/0029168.jpeg"></a></li>
+                    <li><a href="/m/50/sailor-jerry"><img src="/content/images/thumbs/0029211.png"></a></li>
+                    <li><a href="/m/48/fmf"><img src="/content/images/thumbs/0029143.png"></a></li>
+                    <li><a href="/m/47/callaway"><img src="/content/images/thumbs/0029145.png"></a></li>
+                    <li><a href="/m/46/firewire-surfboards"><img src="/content/images/thumbs/0029140.png"></a></li>
+                    <li><a href="/m/45/metal-mulisha"><img src="/content/images/thumbs/0029165.jpeg"></a></li>
+                    <li><a href="/m/43/alpinestars"><img src="/content/images/thumbs/0038993.png"></a></li>
+                    <li><a href="/m/40/trx"><img src="/content/images/thumbs/0037909.jpeg"></a></li>
+                    <li><a href="/m/39/tiberius-arms"><img src="/content/images/thumbs/0029179.jpeg"></a></li>
+                    <li><a href="/m/37/tricosports"><img src="/content/images/thumbs/0029178.jpeg"></a></li>
+                    <li><a href="/m/36/caliber"><img src="/content/images/thumbs/0029142.png"></a></li>
+                    <li><a href="/m/35/xcel-wetsuits"><img src="/content/images/thumbs/0029139.png"></a></li>
+                    <li><a href="/m/33/honey-stinger"><img src="/content/images/thumbs/0029153.png"></a></li>
+                    <li><a href="/m/32/ted-shreds"><img src="/content/images/thumbs/0029180.jpeg"></a></li>
+                    <li><a href="/m/31/joolz-hayworth"><img src="/content/images/thumbs/0029148.png"></a></li>
+                    <li><a href="/m/29/grenade"><img src="/content/images/thumbs/0032127.jpeg"></a></li>
+                    <li><a href="/m/26/fobus"><img src="/content/images/thumbs/0029146.png"></a></li>
+                    <li><a href="/m/25/klymit"><img src="/content/images/thumbs/0029154.png"></a></li>
+                    <li><a href="/m/24/darn-tough"><img src="/content/images/thumbs/0029127.png"></a></li>
+                    <li><a href="/m/23/line-of-fire"><img src="/content/images/thumbs/0037080.png"></a></li>
+                    <li><a href="/m/21/mission-first-tactical"><img src="/content/images/thumbs/0029166.jpeg"></a></li>
+                    <li><a href="/m/19/gunnar"><img src="/content/images/thumbs/0029150.png"></a></li>
+                    <li><a href="/m/18/deuter"><img src="/content/images/thumbs/0029128.png"></a></li>
+                    <li><a href="/m/17/emu"><img src="/content/images/thumbs/0029132.png"></a></li>
+                    <li><a href="/m/15/lahui-kai"><img src="/content/images/thumbs/0029156.jpeg"></a></li>
+                    <li><a href="/m/14/watermans"><img src="/content/images/thumbs/0029155.png"></a></li>
+                    <li><a href="/m/13/london-bridge-trading"><img src="/content/images/thumbs/0029159.png"></a></li>
+                    <li><a href="/m/12/princeton-tec"><img src="/content/images/thumbs/0029206.jpeg"></a></li>
+                    <li><a href="/m/9/spy"><img src="/content/images/thumbs/0029184.png"></a></li>
+                    <li><a href="/m/8/sector-9"><img src="/content/images/thumbs/0029188.jpeg"></a></li>
+                    <li><a href="/m/7/vonzipper"><img src="/content/images/thumbs/0029162.png"></a></li>
+                    <li><a href="/m/6/kaenon"><img src="/content/images/thumbs/0029198.png"></a></li>
+                    <li><a href="/m/5/olukai"><img src="/content/images/thumbs/0029204.png"></a></li>
+                    <li><a href="/m/3/matuse"><img src="/content/images/thumbs/0029164.png"></a></li>
+                    <li><a href="/m/2/stance"><img src="/content/images/thumbs/0035596.jpeg"></a></li>
+
+		
+		</ul></div>
+<ol class="pagination-links"><li class="current"><a href="#item-0">1</a></li><li><a href="#item-1">2</a></li><li><a href="#item-2">3</a></li><li><a href="#item-3">4</a></li><li><a href="#item-4">5</a></li><li><a href="#item-5">6</a></li><li><a href="#item-6">7</a></li><li><a href="#item-7">8</a></li><li><a href="#item-8">9</a></li><li><a href="#item-9">10</a></li><li><a href="#item-10">11</a></li><li><a href="#item-11">12</a></li></ol><a href="#" class="prev disabled"> &lt; </a><a href="#" class="next"> &gt; </a></div>
+
+<script type="text/javascript">
+    $('#my-carousel').carousel({
+        itemsPerPage: 11,
+        itemsPerTransition: 11,
+        speed: 500
+    });
+</script>
 
 </div>
-<div class="header-separator">&nbsp;</div>            
+
+
+</div>
+
+
+
+<a class="close-brands-modal">×</a>
+</div>
+
+
+<script>
+$('#brands-btn-overlay').click(function () {
+$('#brands-overlay').toggle();
+});
+</script>
+
+<script>
+$('.close-brands-modal').click(function () {
+$('#brands-overlay').toggle();
+});
+</script>
+    </div>
+  </div>
+</div>
+</nav>
+	<div class="master-wrapper-page">
+        <div class="master-wrapper-content">
+            
             <div class="master-wrapper-center-1">
     <div class="master-wrapper-cph-1">
     <div class="master-wrapper-cph-1-header"></div>
@@ -567,8 +1143,29 @@ _gaq.push(['_trackPageview']);    (function() {      var ga = document.createEle
         <div class="topicpage" id="phTopic">
     
     <div class="topicpage-body">
-        <h1 style="float: left; margin-top: -75px; margin-left: 40px; color: #fff; font-size: 1.6em;">Privacy Notice</h1>
-<p><span style="font-family: Arial;"><strong>Overview</strong><br><br><span style="text-decoration: underline;">Respecting and Protecting Your Privacy</span>. Your privacy is important to GovX, Inc. (hereinafter referred to as, “GovX”, "we", "us", or "our"). We want you to make sure you have a spectacular shopping experience on our GovX.com Web site (“Site”) and while only our Members can access pricing and actually purchase products, we know that anyone visiting our Site will want to be informed about how we treat any information we collect about you. To help us make the Site more personal and valuable to you and to allow us to determine the efficiency of our interface design and navigation, as well as determine which of the products and services we offer appeal to you most, we collect certain anonymous information.&nbsp; But, it is also necessary for us to collect certain personal information, and we respect and protect your right to privacy as set forth in our Privacy Policy. <br><br>To ensure transparency with respect to our systems, methods, and policies we not only identify for you the type of data and information we collect from visitors and how we use and disclose it, along with the important steps we take to protect your privacy, we also want to be sure you agree with this Privacy Policy.<br><strong><br>OUR COMMITMENT</strong><br>We respect and take steps to protect the privacy of our Site's users. We strive to take reasonable care of information we may receive from you.<br><br><strong>ACKNOWLEDGMENT AND ACCEPTANCE OF TERMS</strong><br>By accessing and continuing to use the Site, you acknowledge that you have read and understand our privacy statement and freely and expressly consent to the information collection, storage, disclosure and use practices described in our Privacy Policy statement.<br><strong><br>PARTICIPATING VENDOR-PARTNER POLICIES</strong><br>Web sites that may be linked to or from this Web site (including any services and offerings with links to or from this Web site), or Web sites otherwise affiliated with our sites, may have their own privacy statements. Our Vendor-Partners and others who participate in this site's services are encouraged to participate in industry privacy initiatives and to take a responsible attitude toward consumer privacy.&nbsp; We recommend that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.<br><br><strong>INFORMATION WE COLLECT AND HOW WE USE IT</strong><br>We collect certain information from and about our users in three ways (in addition to the usage tracking described below): directly from our Web Server logs, with “cookies,” and from users.<br><br>&nbsp;&nbsp; &nbsp;•&nbsp; <strong>Web Server Logs. </strong>When you visit our Web site, we may collect and track information to administer the site and analyze its usage. Examples of <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; information we may track include:<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;•&nbsp; Your Internet protocol (IP) address<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;•&nbsp; The kind of browser or computer you use<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;•&nbsp; Number of links you click within the site<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;•&nbsp; State or country from which you accessed the site<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;•&nbsp; Date and time of your visit<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;•&nbsp; Name of your Internet service provider<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;•&nbsp; Web page from which you linked to our site<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;•&nbsp; Pages you viewed on the site<br><br>&nbsp;&nbsp; &nbsp;•&nbsp; <strong>Use of Cookies.</strong>We may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; can only be read by a Web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; feature to save you time. For example, if you navigate within the Site and create a shopping cart, a cookie helps our Site recall the items placed in <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; your cart for subsequent visits. This simplifies the process of delivering relevant content and eases Site navigation by providing and saving your <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; preferences and login information as well as providing personalized functionality. We reserve the right to share aggregated site statistics with <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; partner companies, but do not allow other companies to place cookies on this Web site unless there is a temporary, overriding customer value. <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; our Site.<br>&nbsp;<br>&nbsp;&nbsp; &nbsp;•&nbsp; <strong>User's Personal Information.</strong>&nbsp; For the purposes of this Privacy Policy, "Personal Information" is any information that identifies you, would enable <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; someone to contact you, or that describes your relationship with us. This includes: name, address, e-mail, telephone number or facsimile number, <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; account number, credit card information, military and other government-issued identification cards and other relevant information we use to verify <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; your qualifications to become a Site member, conduct a transaction, deliver products and services, administer individual accounts, provide <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; customer support, communicate with you regarding promotions, updates, or special offers that we think may be of interest to you. While you are <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; not required to submit any information to our Site, if you do not provide the requested information, you will not be able to register and become a <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Member of the Site nor access or view product prices, conduct transactions and we may not be able to provide you with certain other services. We <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; will not disclose personally identifiable information that we collect from you to third parties (including our Vendor-Partners) without your permission, <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; except to the extent necessary to:<br><br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;•&nbsp; To fulfill your service/order requests <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;•&nbsp; Communicate with you<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;•&nbsp; To protect ourselves from liability<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;•&nbsp; To respond to legal process or comply with law, or<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;•&nbsp; Consummate a merger, acquisition, liquidation or other material corporate transaction affecting us or the Site.<br>&nbsp;<br>Please note that we reserve the right to investigate, ourselves or through appropriate third parties, complaints or violations of our Terms of Use or other policies or of applicable law, rule or regulation, and to take any action we deem appropriate, including but not limited to, reporting any suspected unlawful activity to law enforcement officials, regulators or other third parties and disclosing any information necessary or appropriate to such persons or entities relating to your profile(s), e-mail addresses, usage history, posted materials, IP addresses and traffic information.<br><br><strong>USAGE TRACKING</strong><br>We may employ certain technologies that allow us to count users who have visited certain pages of the Site. Some of these tracking technologies may be placed or used by third-party service providers to help determine the effectiveness of our advertising campaigns, design interface or quantify usage or Site traffic. We prohibit the use of technologies to surreptitiously collect or access your personal information.<br><br>We may track non-personal information about your visit, including the domain name and the name of the Web page from which you entered our Site, how much time you spent on each of our pages, and the IP address associated with your computer. We may, or we may engage the service of third parties to, also use certain technologies that allow us to count users who have visited certain pages. We use all of this information to improve the performance and operation of the Site. &nbsp;<br><br><strong>PUBLIC FORUMS</strong><br>Any information you submit on the Site as a review, testimonial or other posting or in a public forum (e.g. a blog, chat room, or social network) is not private and can be read, collected, or used by us and others, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances.&nbsp; Please see item 7 of the GovX Terms of Use.<br>&nbsp;<br><strong>SECURITY</strong><br>We take your security seriously and take reasonable steps to protect your information. However, no data transmissions over the Internet can be guaranteed to be 100% secure, consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. We take reasonable, appropriate steps to protect against unauthorized access to, and disclosure of, personal information. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. However, we cannot guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of any firewalls or secure server software we may employ. Our employees who handle confidential or proprietary information belonging to us or our customers and Site members must treat it accordingly and are instructed not disclose it to unauthorized third parties.<br><br><strong>CALIFORNIA RESIDENTS</strong><br>California law permits residents who have provided personal information to us to request information about disclosure of personal information to third parties for their direct marketing purposes. As detailed above, our policy is to not disclose personal information collected online or otherwise for any third party's direct marketing purposes without first obtaining the user's consent. As an additional measure, users may contact us at info@govx.com to request information about disclosure of personal information and that their account records be noted that they have specifically opted-out of such disclosures. <br><br><strong>YOUR INFORMATION AND PRFERENCES</strong><br>You may view, change and correct your personal information and account preferences, including choosing to opt-out of e-mails from us, at any time by accessing your account or contacting us at: Contact us.<br><br><strong>CHANGES TO THIS STATEMENT</strong><br>We reserve the right, from time-to-time and without advance notice (although we will provide a “Last Revised” date upon any revision), to update this Privacy Statement to ensure that we continue to serve the best interests of our Site users and Vendor-Partners. We encourage you to review this Statement periodically to stay informed about our information collection and use practices and how we are helping protect the personal information we collect. Your continued use of our service constitutes your agreement to this Privacy Statement and any updates. <br><br><strong>CONTACTING US</strong><br>If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at info@govx.com.<br><br>Last Revised: June 18, 2011<br>&nbsp; <br></span></p>
+        <!--<h1 style="float: left; margin-top: -75px; margin-left: 40px; color: #fff; font-size: 1.6em;">Privacy Notice</h1>-->
+<h1 style="margin-top: 10px;">Privacy Notice</h1>
+<p><span style="text-decoration: underline;">Respecting and Protecting Your Privacy</span>. Your privacy is important to GovX, Inc. (hereinafter referred to as, “GovX”, "we", "us", or "our"). We want you to make sure you have a spectacular shopping experience on our GovX.com Web site (“Site”) and while only our Members can access pricing and actually purchase products, we know that anyone visiting our Site will want to be informed about how we treat any information we collect about you. To help us make the Site more personal and valuable to you and to allow us to determine the efficiency of our interface design and navigation, as well as determine which of the products and services we offer appeal to you most, we collect certain anonymous information. But, it is also necessary for us to collect certain personal information, and we respect and protect your right to privacy as set forth in our Privacy Policy.</p>
+<p>To ensure transparency with respect to our systems, methods, and policies we not only identify for you the type of data and information we collect from visitors and how we use and disclose it, along with the important steps we take to protect your privacy, we also want to be sure you agree with this Privacy Policy.</p>
+<p><strong>OUR COMMITMENT</strong><br> We respect and take steps to protect the privacy of our Site's users. We strive to take reasonable care of information we may receive from you.</p>
+<p><strong>ACKNOWLEDGMENT AND ACCEPTANCE OF TERMS</strong><br> By accessing and continuing to use the Site, you acknowledge that you have read and understand our privacy statement and freely and expressly consent to the information collection, storage, disclosure and use practices described in our Privacy Policy statement.</p>
+<p><strong>PARTICIPATING VENDOR-PARTNER POLICIES</strong><br> Web sites that may be linked to or from this Web site (including any services and offerings with links to or from this Web site), or Web sites otherwise affiliated with our sites, may have their own privacy statements. Our Vendor-Partners and others who participate in this site's services are encouraged to participate in industry privacy initiatives and to take a responsible attitude toward consumer privacy. We recommend that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.</p>
+<p><strong>INFORMATION WE COLLECT AND HOW WE USE IT</strong><br> We collect certain information from and about our users in three ways (in addition to the usage tracking described below): directly from our Web Server logs, with “cookies,” and from users.</p>
+<p>• <strong>Web Server Logs</strong>. When you visit our Web site, we may collect and track information to administer the site and analyze its usage. Examples of information we may track include:<br> • Your Internet protocol (IP) address<br> • The kind of browser or computer you use<br> • Number of links you click within the site<br> • State or country from which you accessed the site<br> • Date and time of your visit<br> • Name of your Internet service provider<br> • Web page from which you linked to our site<br> • Pages you viewed on the site</p>
+<p>•<strong> Use of Cookies.</strong> We may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you navigate within the Site and create a shopping cart, a<br> cookie helps our Site recall the items placed in your cart for subsequent visits. This simplifies the process of delivering relevant content and eases Site navigation by providing and saving your preferences and login information as well as providing personalized functionality. We reserve the right to share aggregated site statistics with partner companies, but do not allow other companies to place cookies on this Web site unless there is a temporary, overriding customer value. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware<br> that this may disable some of the functionality on our Site.</p>
+<p>• <strong>User's Personal Information.</strong> For the purposes of this Privacy Policy, "Personal Information" is any information that identifies you, would enable someone to contact you, or that describes your relationship with us. This includes: name, address, e-mail, telephone number or facsimile number, account number, credit card information, military and other government-issued identification cards and other relevant information we use to verify your qualifications to become a Site member, conduct a transaction, deliver products and services, administer individual accounts, provide customer support, communicate with you regarding promotions, updates, or special offers that we think may be of interest to you. While you are not required to submit any information to our Site, if you do not provide the requested information, you will not be able to register and become a Member of the Site or access or view product prices, conduct transactions and we may not be able to provide you with certain other services. It is our policy is to not disclose personal information collected online or otherwise for any third party direct marketing purposes without first obtaining your consent. We will not disclose personally identifiable information that we collect from you (including documents You provide to GovX) to third parties (including our Vendor-Partners) without your permission, except to the extent necessary to:</p>
+<p>• Verify your current and/or retired status with the associated U.S. Military or Federal, state or local government agency, trade union, trade association directly or through a government employee identification service (collectively, “Verification Sources”). We may reaffirm or re-verify Your status with the Verification Sources as needed or required...</p>
+<p>• To fulfill your service/order requests<br> • Communicate with you<br> • To protect ourselves from liability<br> • To respond to legal process or comply with law, or<br> • Consummate a merger, acquisition, liquidation or other material corporate transaction affecting us or the Site.</p>
+<p>Please note that we reserve the right to investigate, ourselves or through appropriate third parties, complaints or violations of our Terms of Use or other policies or of applicable law, rule or regulation, and to take any action we deem appropriate, including but not limited to, reporting any suspected unlawful activity to law enforcement officials, regulators or other third parties and disclosing any information necessary or appropriate to such persons or entities relating to your profile(s), e-mail addresses, usage history, posted materials, IP addresses and traffic information.</p>
+<p><strong>USAGE TRACKING</strong><br> We may employ certain technologies that allow us to count users who have visited certain pages of the Site. Some of these tracking technologies may be placed or used by third-party service providers to help determine the effectiveness of our advertising campaigns, design interface or quantify usage or Site traffic. We prohibit the use of technologies to surreptitiously collect or access your personal information.</p>
+<p>We may track non-personal information about your visit, including the domain name and the name of the Web page from which you entered our Site, how much time you spent on each of our pages, and the IP address associated with your computer. We may, or we may engage the service of third parties to, also use certain technologies that allow us to count users who have visited certain pages. We use all of this information to improve the performance and operation of the Site.</p>
+<p><strong>PUBLIC FORUMS</strong><br> Any information you submit on the Site as a review, testimonial or other posting or in a public forum (e.g. a blog, chat room, or social network) is not private and can be read, collected, or used by us and others, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances. Please see paragraphs 5 and 7 of the GovX Terms of Use.</p>
+<p><strong>SECURITY</strong><br> We take your security seriously and take reasonable steps to protect your information. However, no data transmissions over the Internet can be guaranteed to be 100% secure, consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. We take reasonable, appropriate steps to protect against unauthorized access to, and disclosure of, personal information. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. However, we cannot guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of any firewalls or secure server software we may employ. Our employees who handle confidential or proprietary information belonging to us or our customers and Site members must treat it accordingly and are instructed not disclose it to unauthorized third parties. GovX is not responsible for the activities of third-party unauthorized users, hackers or other individuals who gain unauthorized access to the GovX site and information therein.</p>
+<p><strong>CALIFORNIA RESIDENTS</strong><br> California law permits residents who have provided personal information to us to request information about disclosure of personal information to third parties for their direct marketing purposes. As detailed above, our policy is to not disclose personal information collected online or otherwise for any third party's direct marketing purposes without first obtaining the user's consent. As an additional measure, users may contact us at <a href="mailto:info@govx.com">info@govx.com</a> to request information about disclosure of personal information and that their account records be noted that they have specifically opted-out of such disclosures.</p>
+<p><strong>YOUR INFORMATION AND PREFERENCES</strong><br> You may view, change and correct your personal information and account preferences, including choosing to opt-out of e-mails from us, at any time by accessing your account or contacting us at: Contact us.</p>
+<p><strong>CHANGES TO THIS STATEMENT</strong><br> We reserve the right, from time-to-time and without advance notice (although we will provide a “Last Revised” date upon any revision), to update this Privacy Statement to ensure that we continue to serve the best interests of our Site users and Vendor-Partners. We encourage you to review this Statement periodically to stay informed about our information collection and use practices and how we are helping protect the personal information we collect. Your continued use of our service constitutes your agreement to this Privacy Statement and any updates.</p>
+<p><strong>CONTACTING US</strong><br> If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at <a href="mailto:info@govx.com">info@govx.com</a>.</p>
+<p>Last Revised: April 30, 2013</p>
     </div>
 </div>
 
@@ -580,32 +1177,1747 @@ _gaq.push(['_trackPageview']);    (function() {      var ga = document.createEle
             <div class="clear">
             </div>
         </div>
-        <div class="footer">
+    </div>
+	<div class="footer">
     
-    <ul class="infomenu">
-        <li id="firstmenu"><a href="/t/aboutus">About GovX</a></li>
-        <li><a href="/contactus">Contact us</a> </li>
-        <li><a href="/t/ReturnPolicy">Shipping/Return Policy</a></li>
-        <li><a href="/t/FAQ">FAQ</a></li>
-        <li><a href="/t/privacyinfo">Privacy Notice</a></li>
-        <li><a href="/t/TermsOfService">Terms of Service</a></li>
-        <li><a class="infofacebook" id="infofacebook" href="https://www.facebook.com/shopgovx" target="_blank">&nbsp; </a></li>
-        <li><a class="infotwitter" id="infotwitter" href="https://twitter.com/shopgovx" target="_blank">&nbsp; </a></li>
-        <!--<li><a href="/blog">Blog</a></li>-->
-    </ul>
-    
+    <div id="footer-wrapper">
+        <div id="ftr-links">
+            <h2>GovX</h2>
+            <ul class="infomenu">
+                <li id="firstmenu"><a href="/t/aboutus">About GovX</a></li>
+                <li><a href="/contactus">Contact us</a> </li>
+                <li><a href="/t/Press">Press</a></li>
+                <li><a href="/t/Testimonials">Testimonials</a></li>
+                <li><a href="/t/Associations">Associations</a></li>
+                <li><a href="/t/ReturnPolicy">Shipping/Return Policy</a></li>
+                <li><a href="/t/FAQ">FAQ</a></li>
+                <li><a href="/t/privacyinfo">Privacy Notice</a></li>
+                <li><a href="/t/TermsOfService">Terms of Service</a></li>
+                
+            </ul>
+            <div id="social-media">
+                <ul>
+                    <a href="https://www.facebook.com/ShopGovX" target="_blank">
+                        <li class="social-fb"></li>
+                    </a>
+                    <a href="https://twitter.com/shopgovx" target="_blank">
+                        <li class="social-twitter"></li>
+                    </a>
+                    <a href="https://www.youtube.com/user/govxlifeafterwork" target="_blank">
+                        <li class="social-youtube"></li>
+                    </a>
+                </ul>
+            </div>
+        </div>
+        <div id="ftr-testimonials">
+            <h2 class="hdr-testimonials">What Others Are Saying About GovX...</h2>
+            <div id="quote-box">
+                <div class="home-page-testimonials">
+    <div id="slide-testimonial"><blockquote>
+            <div class="htmlcontent">
+        <div class="htmlcontent-body">
+            <div id="slides_testimonials">
+<div class="slides_container slide_testimonial"><!-- Added 5/15/2013 -->
+<div>
+<p>Awesome site! Thank you for everything you do!!!!</p>
+<p class="testimonial-attribution">C. Shepherd<br><span class="testimonial-text-dt">April 29, 2013</span></p>
+</div>
+<div>
+<p>A sincere and heartfelt thanks...Godspeed!</p>
+<p class="testimonial-attribution">T. Sanders<br><span class="testimonial-text-dt">April 28, 2013</span></p>
+</div>
+<div>
+<p>I love your site, really awesome great deals and products. Thank you.</p>
+<p class="testimonial-attribution">K. Wooden<br><span class="testimonial-text-dt">April 28, 2013</span></p>
+</div>
+<div>
+<p>GOVX is one of my first stops for serious outdoor/tactical gear. I love coming back and seeing more brands and products being added, the more I see, the more I keep coming back!</p>
+<p class="testimonial-attribution">A. Donoso<br><span class="testimonial-text-dt">April 28, 2013</span></p>
+</div>
+<div>
+<p>I've ordered glasses here before and you guys are awesome with shipping to an APO address. Only took about 5 days :)</p>
+<p class="testimonial-attribution">N. Marquez<br><span class="testimonial-text-dt">April 28, 2013</span></p>
+</div>
+<div>
+<p>Great website! Thanks for the $10 credit. I'd like to see more fishing accessories... lures, jigs, reels, poles...etc.</p>
+<p class="testimonial-attribution">C. Garth<br><span class="testimonial-text-dt">April 28, 2013</span></p>
+</div>
+<div>
+<p>Awesome price for service members!</p>
+<p class="testimonial-attribution">J. Romaniello<br><span class="testimonial-text-dt">April 28, 2013</span></p>
+</div>
+<div>
+<p>You are doing a fine job, thank you for respecting us and giving us vets the opportunity to order some neat stuff.</p>
+<p class="testimonial-attribution">R. Regan<br><span class="testimonial-text-dt">April 27, 2013</span></p>
+</div>
+<div>
+<p>GOV X is a great site and a delightful thank you to veterans and those that have served.</p>
+<p class="testimonial-attribution">J. Wesley<br><span class="testimonial-text-dt">April 26, 2013</span></p>
+</div>
+<div>
+<p>I really appreciated the hand written note I received when I ordered, keep up the good work.</p>
+<p class="testimonial-attribution">B. Labowitch<br><span class="testimonial-text-dt">April 26, 2013</span></p>
+</div>
+<div>
+<p>Nice site. I appreciate the great selection, incredible prices, and more than reasonable shipping cost!</p>
+<p class="testimonial-attribution">J. Neff<br><span class="testimonial-text-dt">April 24, 2013</span></p>
+</div>
+<div>
+<p>I love getting supplies and things from this site. The prices are great and the products are of the best quality. I have multiple different web sites that I watch for supplies and always come back to this site because of the price , quality and speed that it takes for me to get it. Thanks for a great business.</p>
+<p class="testimonial-attribution">J. Zingelman<br><span class="testimonial-text-dt">April 24, 2013</span></p>
+</div>
+<div>
+<p>I personally appreciate what you guys have done and the products you offer are great!</p>
+<p class="testimonial-attribution">M. Plescho<br><span class="testimonial-text-dt">April 24, 2013</span></p>
+</div>
+<div>
+<p>Thank you for providing this service - it is extremely valuable and lets us Veterans know how much we are appreciated.</p>
+<p class="testimonial-attribution">D. Zulla<br><span class="testimonial-text-dt">April 23, 2013</span></p>
+</div>
+<div>
+<p>I have ordered from you before and your company is ABSOLUTELY AMAZING!!!! I even got a hand written thank you letter from somebody there which I have NEVER gotten from any company. Thank you for what you do and continue to provide World Class Customer Service!!!</p>
+<p class="testimonial-attribution">J. Martinez<br><span class="testimonial-text-dt">April 23, 2013</span></p>
+</div>
+<div>
+<p>Awesome products. By far the best sunglasses around.</p>
+<p class="testimonial-attribution">B. Miller<br><span class="testimonial-text-dt">April 22, 2013</span></p>
+</div>
+<div>
+<p>Great military prices!</p>
+<p class="testimonial-attribution">N. Marquez<br><span class="testimonial-text-dt">April 22, 2013</span></p>
+</div>
+<div>
+<p>Great site guys and gals. I look forward to spending more money here. Keep those deals coming and better than Pro-motive!</p>
+<p class="testimonial-attribution">C. Sahagun<br><span class="testimonial-text-dt">April 22, 2013</span></p>
+</div>
+<div>
+<p>Easy Process.. Thank you for all the merchandise brought to one web site...</p>
+<p class="testimonial-attribution">R. Jones<br><span class="testimonial-text-dt">April 22, 2013</span></p>
+</div>
+<div>
+<p>Great Website for Military people. I recommended to all my shipmates.</p>
+<p class="testimonial-attribution">M. Lozada<br><span class="testimonial-text-dt">April 22, 2013</span></p>
+</div>
+<div>
+<p>Thank you for including military personnel. This equipment really helps me in my work.</p>
+<p class="testimonial-attribution">C. Large<br><span class="testimonial-text-dt">April 19, 2013</span></p>
+</div>
+<div>
+<p>Thanks for supporting us with great prices on stuff that helps us get the job done.</p>
+<p class="testimonial-attribution">D. Weaver<br><span class="testimonial-text-dt">April 19, 2013</span></p>
+</div>
+<div>
+<p>This is my second order with GovX. You guys are great. Good customer service and great prices. Thanks for being the best.</p>
+<p class="testimonial-attribution">P. Logan<br><span class="testimonial-text-dt">April 18, 2013</span></p>
+</div>
+<div>
+<p>I think your site is awesome. I will be doing business here many times in the future.</p>
+<p class="testimonial-attribution">A. Rutherford<br><span class="testimonial-text-dt">April 17, 2013</span></p>
+</div>
+<div>
+<p>You guys are doing a great job keep up the good work.</p>
+<p class="testimonial-attribution">D. McClean<br><span class="testimonial-text-dt">April 16, 2013</span></p>
+</div>
+<div>
+<p>Thanks guys!!!! You have saved me so much money!!!!</p>
+<p class="testimonial-attribution">A. Little<br><span class="testimonial-text-dt">April 16, 2013</span></p>
+</div>
+<div>
+<p>I just wanted to say thanks! I made this purchase on Friday in a super easy online transaction. The package arrived yesterday with a note from Melissa saying thank you! I was so impressed. I just wanted to let you guys know that the discounts you offer to first responder personnel is greatly appreciated as is your service.</p>
+<p class="testimonial-attribution">E. Vega<br><span class="testimonial-text-dt">April 16, 2013</span></p>
+</div>
+<div>
+<p>You guys provide excellent service. Thanks for the continued support and service of our military.</p>
+<p class="testimonial-attribution">T. Baku<br><span class="testimonial-text-dt">April 16, 2013</span></p>
+</div>
+<div>
+<p>I love the products your site offers, very high quality for a high demand life style.</p>
+<p class="testimonial-attribution">G. Gilbeau<br><span class="testimonial-text-dt">April 15, 2013</span></p>
+</div>
+<div>
+<p>SO FAR, SO GOOD. GREAT PRICE ON THE LIFEPROOF IPHONE 4 CASE AND HOLSTER. CALLED CUSTOMER SERVICE, PERSONABLE AND PROFESSIONAL. THANKS.</p>
+<p class="testimonial-attribution">L. Woods<br><span class="testimonial-text-dt">April 15, 2013</span></p>
+</div>
+<div>
+<p>Thank you for making it easy to navigate! I've been extremely happy with my purchases. Keep up the good work!</p>
+<p class="testimonial-attribution">S. Freeman<br><span class="testimonial-text-dt">April 13, 2013</span></p>
+</div>
+<div>
+<p>I was elated to find the hiking pack I was looking for on your website, and the welcomed bonus was it was cheaper than all other retailers!</p>
+<p class="testimonial-attribution">C. Barker<br><span class="testimonial-text-dt">April 13, 2013</span></p>
+</div>
+<div>
+<p>Thank you for the services you provide!!!</p>
+<p class="testimonial-attribution">E. Hiipakka<br><span class="testimonial-text-dt">April 13, 2013</span></p>
+</div>
+<div>
+<p>Great site for service members. Lower prices than anywhere else. Good product details and reviews. Thanks!</p>
+<p class="testimonial-attribution">D. Niles<br><span class="testimonial-text-dt">April 13, 2013</span></p>
+</div>
+<div>
+<p>I am glad I discovered this website. Just saved about 15 dollars.</p>
+<p class="testimonial-attribution">C. Adkins<br><span class="testimonial-text-dt">April 13, 2013</span></p>
+</div>
+<div>
+<p>Awesome prices! I was going to fork out around $200 MORE on this order before I remembered this site. Thanks guys!</p>
+<p class="testimonial-attribution">A. Sneed<br><span class="testimonial-text-dt">April 13, 2013</span></p>
+</div>
+<div>
+<p>Bulky boy shorts are nice and durable. They feel lightweight and comfortable.</p>
+<p class="testimonial-attribution">M. Silva<br><span class="testimonial-text-dt">April 12, 2013</span></p>
+</div>
+<div>
+<p>Great website! Thank you very much for offering this service.</p>
+<p class="testimonial-attribution">W. Shufeldt<br><span class="testimonial-text-dt">April 12, 2013</span></p>
+</div>
+<div>
+<p>I think your website and the discounts offered are amazing. You're definitely on the right track with great products and customer service. Thank you for providing support to the military and government personnel/employees.</p>
+<p class="testimonial-attribution">A. Ramos<br><span class="testimonial-text-dt">April 12, 2013</span></p>
+</div>
+<div>
+<p>I think it's great what you're doing. Having all of these military discounts on one site is great. Thanks.</p>
+<p class="testimonial-attribution">A. Hofschulte<br><span class="testimonial-text-dt">April 7, 2013</span></p>
+</div>
+<div>
+<p>THANKS SO MUCH FOR A GREAT WEBSITE! THE DEALS AND CUSTOMER SERVICE YOU PROVIDE ARE AWESOME! HAVE A GREAT DAY!</p>
+<p class="testimonial-attribution">C. Matthews<br><span class="testimonial-text-dt">April 7, 2013</span></p>
+</div>
+<div>
+<p>Thank you for your assistance and caring !!!!</p>
+<p class="testimonial-attribution">L. Surkin<br><span class="testimonial-text-dt">April 7, 2013</span></p>
+</div>
+<div>
+<p>Great prices. I appreciate the patriotism</p>
+<p class="testimonial-attribution">A. Cicuto<br><span class="testimonial-text-dt">April 6, 2013</span></p>
+</div>
+<div>
+<p>Thanks for this site! I look here first for EVERYTHING!</p>
+<p class="testimonial-attribution">R. Villarino<br><span class="testimonial-text-dt">April 5, 2013</span></p>
+</div>
+<div>
+<p>My first order arrived promptly and I was very pleased with the packaging and quality of the product. Will certainly order again in the near future. Thank You.</p>
+<p class="testimonial-attribution">V. Scola<br><span class="testimonial-text-dt">April 5, 2013</span></p>
+</div>
+<div>
+<p>I think that you guys have an amazing product lineup and excellent customer service. It's some of the best I've ever experienced.</p>
+<p class="testimonial-attribution">J. Ricks<br><span class="testimonial-text-dt">April 5, 2013</span></p>
+</div>
+<div>
+<p>Great products, very easy to navigate the website....Thanks will order more in the near future.</p>
+<p class="testimonial-attribution">W. Conklin<br><span class="testimonial-text-dt">April 5, 2013</span></p>
+</div>
+<div>
+<p>My husband and I always come here before buying ANYTHING! We love it here!</p>
+<p class="testimonial-attribution">C. Whitt<br><span class="testimonial-text-dt">April 4, 2013</span></p>
+</div>
+<div>
+<p>Thank you for your helpfulness and kindness. You have assembled a great group of quality products. I especially want to thank Jane for helping me on the telephone with my new account. You should be very proud of your website. You've done an outstanding job to help others.</p>
+<p class="testimonial-attribution">D. Howard<br><span class="testimonial-text-dt">April 4, 2013</span></p>
+</div>
+<div>
+<p>You guys are doing a great service for those who serve! thank you!</p>
+<p class="testimonial-attribution">Y. Peraza<br><span class="testimonial-text-dt">April 3, 2013</span></p>
+</div>
+<div>
+<p>These discounts are AMAZING.</p>
+<p class="testimonial-attribution">R. Lanford<br><span class="testimonial-text-dt">April 3, 2013</span></p>
+</div>
+<div>
+<p>I like the site. Prices were better than Amazon, even with the shipping added. Keep adding more brands and products. i've recommended site to several fellow firefighters. as this was my first order, i look forward to seeing how long shipping takes. everything went smoothly so far.</p>
+<p class="testimonial-attribution">T. Schmidt<br><span class="testimonial-text-dt">April 3, 2013</span></p>
+</div>
+<div>
+<p>You are doing everything right. The personalized note with my last order added a special touch. I'm telling lots of other officers about your great company. Thank you!</p>
+<p class="testimonial-attribution">C. Rice<br><span class="testimonial-text-dt">April 2, 2013</span></p>
+</div>
+<div>
+<p>Great products. Great site. Thanks</p>
+<p class="testimonial-attribution">M. Lyle<br><span class="testimonial-text-dt">April 1, 2013</span></p>
+</div>
+<div>
+<p>I think its really great that you help out those who need.</p>
+<p class="testimonial-attribution">J. Steele<br><span class="testimonial-text-dt">April 1, 2013</span></p>
+</div>
+<div>
+<p>The best prices anywhere!!!</p>
+<p class="testimonial-attribution">J. Lee<br><span class="testimonial-text-dt">March 31, 2013</span></p>
+</div>
+<div>
+<p>Your website is awesome. I really appreciate that even after leaving Active Duty there is still a site I can go to to get discounted brand name goods! Thanks for the support guys!</p>
+<p class="testimonial-attribution">J. Poblete<br><span class="testimonial-text-dt">March 30, 2013</span></p>
+</div>
+<div>
+<p>Your service is most appreciated! Please keep up the good work.</p>
+<p class="testimonial-attribution">T. Sanders<br><span class="testimonial-text-dt">March 30, 2013</span></p>
+</div>
+<div>
+<p>I think it's great. it gave me a chance to purchase my son-in-law , sunglasses without paying top retail. thank you so so so much.SUPPORT OUR TROOPS..... God Bless the USA......</p>
+<p class="testimonial-attribution">J. Davis<br><span class="testimonial-text-dt">March 29, 2013</span></p>
+</div>
+<div>
+<p>I have enjoyed every product, and more so, satisfied with the quality!</p>
+<p class="testimonial-attribution">M. Moreno<br><span class="testimonial-text-dt">March 29, 2013</span></p>
+</div>
+<div>
+<p>Great company with some really great products and offers.</p>
+<p class="testimonial-attribution">R. Ariatti<br><span class="testimonial-text-dt">March 29, 2013</span></p>
+</div>
+<div>
+<p>Thank you for setting this up for Law Enforcement and Military. Me and my partners all constantly check your site and appreciate it.</p>
+<p class="testimonial-attribution">H. Rodriguez<br><span class="testimonial-text-dt">March 29, 2013</span></p>
+</div>
+<div>
+<p>EVERYTHING LOOKS GREAT, AND THANKS FOR PROVIDING GREAT PRODUCTS TO CHOOSE FROM.</p>
+<p class="testimonial-attribution">C. Chop<br><span class="testimonial-text-dt">March 28, 2013</span></p>
+</div>
+<div>
+<p>Love how the prices are lower than other websites! I also like the fixed rate shipping on all products! You guys are AWESOME!! OORAH!!</p>
+<p class="testimonial-attribution">I. Kearl<br><span class="testimonial-text-dt">March 28, 2013</span></p>
+</div>
+<div>
+<p>I think your website is great. Thanks for offering these offers to our government and military.</p>
+<p class="testimonial-attribution">A. Smith<br><span class="testimonial-text-dt">March 26, 2013</span></p>
+</div>
+<div>
+<p>Thank ya'll so much for what you do. I am a Firefighter from Texas and live on a budget. The prices you offer for these items are unbeatable.</p>
+<p class="testimonial-attribution">C. Coleman<br><span class="testimonial-text-dt">March 26, 2013</span></p>
+</div>
+<div>
+<p>This is my first time buying from GovX. You had exactly what I was looking for and the price was cheaper than anywhere else I could find.</p>
+<p class="testimonial-attribution">M. Wlodarczak<br><span class="testimonial-text-dt">March 25, 2013</span></p>
+</div>
+<div>
+<p>You all have a great website with great products and great service! Thanks for you service to us.</p>
+<p class="testimonial-attribution">D. Cook<br><span class="testimonial-text-dt">March 24, 2013</span></p>
+</div>
+<div>
+<p>I just found this site today, and I am feeling quite blessed to find a site that gives discounts to military personnel. You guys rock!</p>
+<p class="testimonial-attribution">J. Lee<br><span class="testimonial-text-dt">March 24, 2013</span></p>
+</div>
+<div>
+<p>Awesome, love what you are doing for our soldiers. Much love and support! I will ALWAYS come here first for anything I need!</p>
+<p class="testimonial-attribution">D. Campbell<br><span class="testimonial-text-dt">March 22, 2013</span></p>
+</div>
+<div>
+<p>Loved the organization of the website. It is very user friendly and I will most definitely will be ordering through GovX again!</p>
+<p class="testimonial-attribution">T. Smith<br><span class="testimonial-text-dt">March 21, 2013</span></p>
+</div>
+<div>
+<p>Being in the military and having a family means that my budget is pretty tight and I often have to wait a long time for things that I really want but don't necessarily need. That being said, today I was able to order a pair of sunglasses and a pair of sandals that I have had bookmarked in my phone for quite sometime for a lot less than I was saving for. I want to thank your site so much for the opportunity to treat myself without breaking the bank. The site is doing great things and I love it. Thank you so much!</p>
+<p class="testimonial-attribution">J. Reyes<br><span class="testimonial-text-dt">March 20, 2013</span></p>
+</div>
+<div>
+<p>Great site, huge variety and growing larger everyday, prompt service, thank you!</p>
+<p class="testimonial-attribution">T. Turner<br><span class="testimonial-text-dt">March 20, 2013</span></p>
+</div>
+<div>
+<p>Thanks for supporting those who protect our Nation's citizens abroad and at home!</p>
+<p class="testimonial-attribution">H. McManus<br><span class="testimonial-text-dt">March 20, 2013</span></p>
+</div>
+<div>
+<p>You guys ROCK! Thanks for supporting the UNITED STATES ARMED FORCES! We appreciate the discount. Thank you!</p>
+<p class="testimonial-attribution">N. Hanson<br><span class="testimonial-text-dt">March 19, 2013</span></p>
+</div>
+<div>
+<p>You have got to be the best discount site I have been a part of in years. I used to be a Leo Adventures member and loved the real discounts. I have used others and find I always have to double check it's the lowest online price. Usually finding that I could buy it for free shipping cheaper or that it is cheaper online somewhere else still. Thank you for the hard work and the integrity of your inventory.</p>
+<p class="testimonial-attribution">A. Ronde<br><span class="testimonial-text-dt">March 19, 2013</span></p>
+</div>
+<!-- END Added 5/15/2013 --> <!-- Added 3/21/2013 -->
+<div>
+<p>I would like to say" thank you" for the chance to shop on your site. Your mission to give back to the military, and first responders through the price and quality of your products is a true statement to your appreciation and commitment to the work being done by these agencies. Again I say "thank you" and look forward to returning to your site, and recommending it to many of my friends.</p>
+<p class="testimonial-attribution">A. Lewis<br><span class="testimonial-text-dt">March 18, 2013</span></p>
+</div>
+<div>
+<p>Really appreciate this site, consolidating military discounts from multiple brands onto one site not only saves money, but time!</p>
+<p class="testimonial-attribution">D. Thomson<br><span class="testimonial-text-dt">March 17, 2013</span></p>
+</div>
+<div>
+<p>Love the website, it great what you are doing for the military personnel. Thank you!!!!!!!!!</p>
+<p class="testimonial-attribution">J. Ellis<br><span class="testimonial-text-dt">March 17, 2013</span></p>
+</div>
+<div>
+<p>Awesome website! Great thing for people who deserve it! Thanks!!!</p>
+<p class="testimonial-attribution">R. Jones<br><span class="testimonial-text-dt">March 17, 2013</span></p>
+</div>
+<div>
+<p>I love the selections and values that your company offers. Thank you for providing us what we need.</p>
+<p class="testimonial-attribution">K. VanBlokland<br><span class="testimonial-text-dt">March 17, 2013</span></p>
+</div>
+<div>
+<p>Awesome website appreciate what you are doing!</p>
+<p class="testimonial-attribution">M. Wolsey<br><span class="testimonial-text-dt">March 17, 2013</span></p>
+</div>
+<div>
+<p>Any time I "need" something, I always check GOVX first... AWESOME!!!</p>
+<p class="testimonial-attribution">J. Martin<br><span class="testimonial-text-dt">March 16, 2013</span></p>
+</div>
+<div>
+<p>You guys are awesome.</p>
+<p class="testimonial-attribution">A. Hernandez<br><span class="testimonial-text-dt">March 16, 2013</span></p>
+</div>
+<div>
+<p>I enjoy real tactical gear, you are doing a great job.</p>
+<p class="testimonial-attribution">B. Campell<br><span class="testimonial-text-dt">March 16, 2013</span></p>
+</div>
+<div>
+<p>Great site!! Called to confirm something on my order and spoke to a person right away!</p>
+<p class="testimonial-attribution">J. McGregor<br><span class="testimonial-text-dt">March 14, 2013</span></p>
+</div>
+<div>
+<p>I am so thankful for GovX providing such a wonderful opportunity for service members. I am preparing for my next deployment and your site will ease the financial burden as I stock up on essential gear. Thanks again!</p>
+<p class="testimonial-attribution">S. Carlton<br><span class="testimonial-text-dt">March 14, 2013</span></p>
+</div>
+<div>
+<p>Thanks for supporting Fire Rescue amongst many others! Great site with solid brands and good prices.</p>
+<p class="testimonial-attribution">D. Goff<br><span class="testimonial-text-dt">March 12, 2013</span></p>
+</div>
+<div>
+<p>Thank you, you guys are awesome, god bless you!!</p>
+<p class="testimonial-attribution">W. Prieto<br><span class="testimonial-text-dt">March 11, 2013</span></p>
+</div>
+<div>
+<p>Very happy with your entire process and your product selection. Thank you.</p>
+<p class="testimonial-attribution">C. Dusha<br><span class="testimonial-text-dt">March 9, 2013</span></p>
+</div>
+<div>
+<p>This is my second order through Govx.com and I will say that I am not only a loyal customer but am telling those who I work with or come in contact to go through website. Thoroughly impressed, thank you!</p>
+<p class="testimonial-attribution">J. Pirtle<br><span class="testimonial-text-dt">March 8, 2013</span></p>
+</div>
+<div>
+<p>Stoked with your constantly growing product selection. Also glad to see you don't add transaction fees like some other sites do. Thanks.</p>
+<p class="testimonial-attribution">D. Melden<br><span class="testimonial-text-dt">March 6, 2013</span></p>
+</div>
+<div>
+<p>I am very pleased to have found this website. It gives me the opportunity to purchase merchandise at a reasonable price. Thanks!</p>
+<p class="testimonial-attribution">K. Montalvo<br><span class="testimonial-text-dt">March 6, 2013</span></p>
+</div>
+<div>
+<p>As a law enforcement officer, I appreciate the products, prices and service provided by GovX!!!! I've told several of my fellow LEO's about GovX as well! Thanks!!!!!!!!</p>
+<p class="testimonial-attribution">A. Bell<br><span class="testimonial-text-dt">March 4, 2013</span></p>
+</div>
+<div>
+<p>I loved how quick the approval took place!</p>
+<p class="testimonial-attribution">J. Burns<br><span class="testimonial-text-dt">March 3, 2013</span></p>
+</div>
+<div>
+<p>Better than Amazon, I'm really impressed!</p>
+<p class="testimonial-attribution">K. Cook<br><span class="testimonial-text-dt">March 3, 2013</span></p>
+</div>
+<div>
+<p>Thanks for providing a great service to all of us!</p>
+<p class="testimonial-attribution">J. Nashef<br><span class="testimonial-text-dt">March 1, 2013</span></p>
+</div>
+<div>
+<p>The prices are great, but what's even better is the quality products offered at a price NO ONE else can beat! Thank you!</p>
+<p class="testimonial-attribution">J. Pirtle<br><span class="testimonial-text-dt">March 1, 2013</span></p>
+</div>
+<div>
+<p>Awesome job. As always, love doing business with you for your prices and fast shipping. Keep it up!</p>
+<p class="testimonial-attribution">T. Netherton<br><span class="testimonial-text-dt">February 27, 2013</span></p>
+</div>
+<div>
+<p>Thank you for saving me $40!</p>
+<p class="testimonial-attribution">N. Hutchens<br><span class="testimonial-text-dt">February 27, 2013</span></p>
+</div>
+<div>
+<p>You Guys ROCK!!! Thank you for helping us out with some killer deals. All the Best!!!</p>
+<p class="testimonial-attribution">A. Spear<br><span class="testimonial-text-dt">February 27, 2013</span></p>
+</div>
+<div>
+<p>This site is Outstanding!! Great products at awesome prices.</p>
+<p class="testimonial-attribution">R. Raible<br><span class="testimonial-text-dt">February 27, 2013</span></p>
+</div>
+<div>
+<p>Great Site! Thank you!</p>
+<p class="testimonial-attribution">G. Pierce<br><span class="testimonial-text-dt">February 27, 2013</span></p>
+</div>
+<div>
+<p>Keep up the great work! It is greatly appreciated.</p>
+<p class="testimonial-attribution">E. Nelson<br><span class="testimonial-text-dt">February 26, 2013</span></p>
+</div>
+<div>
+<p>Great price on a great watch.</p>
+<p class="testimonial-attribution">G. Galizio<br><span class="testimonial-text-dt">February 24, 2013</span></p>
+</div>
+<div>
+<p>You are doing it right.. its nice to find really great deals.</p>
+<p class="testimonial-attribution">S. Long<br><span class="testimonial-text-dt">February 24, 2013</span></p>
+</div>
+<div>
+<p>Thanks for the great pricing on Lifeproof products.</p>
+<p class="testimonial-attribution">A. Hartnell<br><span class="testimonial-text-dt">February 23, 2013</span></p>
+</div>
+<div>
+<p>Love your product line! I appreciate all you do!</p>
+<p class="testimonial-attribution">J. Dallas<br><span class="testimonial-text-dt">February 23, 2013</span></p>
+</div>
+<div>
+<p>Your guys ROCK. I have ordered 3 LifeProof cases for phones and 1 for an iPad II. Money well spent and thanks to your site, money saved, not to mention phones. I will be looking for other items soon, this is the first place I look when shopping, great prices.</p>
+<p class="testimonial-attribution">T. Weems<br><span class="testimonial-text-dt">February 23, 2013</span></p>
+</div>
+<div>
+<p>Love what you all have done, for those who and or have served! Police, military, EMS, or in my case the Fire Department. Thanks!</p>
+<p class="testimonial-attribution">M. Maberry<br><span class="testimonial-text-dt">February 22, 2013</span></p>
+</div>
+<div>
+<p>I am very pleased with the products and prices offered by your website! Keep up the good work! Thanks.</p>
+<p class="testimonial-attribution">M. Avery<br><span class="testimonial-text-dt">February 22, 2013</span></p>
+</div>
+<div>
+<p>Awesome site and great prices!</p>
+<p class="testimonial-attribution">K. Smith<br><span class="testimonial-text-dt">February 22, 2013</span></p>
+</div>
+<div>
+<p>Greatly appreciate this site.</p>
+<p class="testimonial-attribution">C. Heidenreich<br><span class="testimonial-text-dt">February 22, 2013</span></p>
+</div>
+<div>
+<p>Thanks for recognizing the men and women of our military!!</p>
+<p class="testimonial-attribution">E. Applegate<br><span class="testimonial-text-dt">February 21, 2013</span></p>
+</div>
+<div>
+<p>First time buyer! Good experience!</p>
+<p class="testimonial-attribution">D. Bathel<br><span class="testimonial-text-dt">February 20, 2013</span></p>
+</div>
+<div>
+<p>This is my first order but it will not be my last.</p>
+<p class="testimonial-attribution">T. Seigler<br><span class="testimonial-text-dt">February 20, 2013</span></p>
+</div>
+<div>
+<p>Thanks for the personal note in my previous order. It added a personal customer touch that's rare in today's fast paced online ordering. Have a blessed day.</p>
+<p class="testimonial-attribution">R. Corbin<br><span class="testimonial-text-dt">February 18, 2013</span></p>
+</div>
+<div>
+<p>AWESOME Site. I'm preparing for my Afghanistan tour and I couldn't be happier with the quality and prices. Thanks GOVX.</p>
+<p class="testimonial-attribution">F. Vargas<br><span class="testimonial-text-dt">February 17, 2013</span></p>
+</div>
+<div>
+<p>I'm enjoying watching your growth and appreciate the quality being presented.</p>
+<p class="testimonial-attribution">J. Dial<br><span class="testimonial-text-dt">February 16, 2013</span></p>
+</div>
+<div>
+<p>I like this site, 2nd time I have ordered from it! Good Stuff...thanks.</p>
+<p class="testimonial-attribution">D. Paulak<br><span class="testimonial-text-dt">February 14, 2013</span></p>
+</div>
+<div>
+<p>I shopped around for the items I purchased and GovX had the best prices by far! Thanks.</p>
+<p class="testimonial-attribution">D. Nelson<br><span class="testimonial-text-dt">February 13, 2013</span></p>
+</div>
+<div>
+<p>As always...GovX rocks!!!</p>
+<p class="testimonial-attribution">F. Kahl<br><span class="testimonial-text-dt">February 13, 2013</span></p>
+</div>
+<div>
+<p>Awesome Service As Usual.</p>
+<p class="testimonial-attribution">M. Kowalski<br><span class="testimonial-text-dt">February 10, 2013</span></p>
+</div>
+<div>
+<p>Good quality items at great prices!</p>
+<p class="testimonial-attribution">J. Laffins<br><span class="testimonial-text-dt">February 10, 2013</span></p>
+</div>
+<div>
+<p>This is a great site that we come to often for INCREDIBLE products. We have never been disappointed. Thanks.</p>
+<p class="testimonial-attribution">K. May<br><span class="testimonial-text-dt">February 9, 2013</span></p>
+</div>
+<div>
+<p>You guys/gals are friggin awesome!! Easy search, Easy find, Easy checkout. Thanks can't wait to get my Lifeproof iPhone case.</p>
+<p class="testimonial-attribution">M. Jackson Jr.<br><span class="testimonial-text-dt">February 8, 2013</span></p>
+</div>
+<div>
+<p>I think that you all are great. It is nice to see that some companies treat public safety professionals with respect. Keep up the great work.</p>
+<p class="testimonial-attribution">D. Heavin<br><span class="testimonial-text-dt">February 8, 2013</span></p>
+</div>
+<div>
+<p>You are doing a great job, we appreciate you giving the veterans a special deal on great products, thanks........</p>
+<p class="testimonial-attribution">P. Morales<br><span class="testimonial-text-dt">February 6, 2013</span></p>
+</div>
+<div>
+<p>Great products!!</p>
+<p class="testimonial-attribution">G. Mendoza<br><span class="testimonial-text-dt">February 6, 2013</span></p>
+</div>
+<div>
+<p>Excellent! You continue adding outstanding products. It keeps me coming back.</p>
+<p class="testimonial-attribution">D. Waggoner<br><span class="testimonial-text-dt">February 3, 2013</span></p>
+</div>
+<div>
+<p>Thank you for your support.</p>
+<p class="testimonial-attribution">C. Rascon<br><span class="testimonial-text-dt">February 2, 2013</span></p>
+</div>
+<div>
+<p>The discounts you provide are fantastic and the site loads fast and is easy to navigate. Keep up the good work.</p>
+<p class="testimonial-attribution">C. Folk<br><span class="testimonial-text-dt">February 1, 2013</span></p>
+</div>
+<div>
+<p>I think you guys are great and I also think this is a great site!</p>
+<p class="testimonial-attribution">C. Rich<br><span class="testimonial-text-dt">January 31, 2013</span></p>
+</div>
+<div>
+<p>Pretty cool!!!</p>
+<p class="testimonial-attribution">J. Jill<br><span class="testimonial-text-dt">January 30, 2013</span></p>
+</div>
+<div>
+<p>Love the website, keep it up!</p>
+<p class="testimonial-attribution">M. Straniak<br><span class="testimonial-text-dt">January 26, 2013</span></p>
+</div>
+<div>
+<p>You guys rock! Thanks for all that you do for Fire / Police / Military. I really appreciate it!</p>
+<p class="testimonial-attribution">L. Ballmer<br><span class="testimonial-text-dt">January 24, 2013</span></p>
+</div>
+<div>
+<p>I think your mission statement is outstanding. Thank you for doing what you do.</p>
+<p class="testimonial-attribution">D. Licardo<br><span class="testimonial-text-dt">January 23, 2013</span></p>
+</div>
+<div>
+<p>GovX is Excellent!!!</p>
+<p class="testimonial-attribution">E. Mapp<br><span class="testimonial-text-dt">January 22, 2013</span></p>
+</div>
+<div>
+<p>You guys are great! I'm am so glad that so many different company’s have came together in support of our troops. Thank you.</p>
+<p class="testimonial-attribution">J. Gray<br><span class="testimonial-text-dt">January 22, 2013</span></p>
+</div>
+<div>
+<p>Marc and crew thanks again for your continued support of Public Safety.</p>
+<p class="testimonial-attribution">R. Breeden<br><span class="testimonial-text-dt">January 21, 2013</span></p>
+</div>
+<div>
+<p>As always great.</p>
+<p class="testimonial-attribution">W. Murphy<br><span class="testimonial-text-dt">January 21, 2013</span></p>
+</div>
+<div>
+<p>GovX has become my go to for accessories, clothing (personal/tactical), and gear. As a law enforcement officer, I appreciate the brand quality and the unbeatable prices offered. Shopping, ordering and navigating the site is a breeze. I continue to be impressed with GovX!!!</p>
+<p class="testimonial-attribution">A. Ball<br><span class="testimonial-text-dt">January 21, 2013</span></p>
+</div>
+<div>
+<p>Very attractive price...</p>
+<p class="testimonial-attribution">N. Lukens<br><span class="testimonial-text-dt">January 20, 2013</span></p>
+</div>
+<div>
+<p>This is a birthday gift. Awesome site!</p>
+<p class="testimonial-attribution">K. Stone<br><span class="testimonial-text-dt">January 20, 2013</span></p>
+</div>
+<div>
+<p>Your touch of sincerely personal customer service and consolidation of discounted quality products/brands are greatly appreciated... I hope this site sticks around my entire career.</p>
+<p class="testimonial-attribution">M. McGuire<br><span class="testimonial-text-dt">January 20, 2013</span></p>
+</div>
+<!-- END Added 3/21/2013 -->
+<div>
+<p>Good prices, thank you for getting us, the men and women who protect this great country, great prices on things we use everyday. We are not the richest people in the country so every bit helps. Thank you!</p>
+<p class="testimonial-attribution">F. Haiko<br><span class="testimonial-text-dt">January 18, 2013</span></p>
+</div>
+<div>
+<p>I love this website. It has so far been easy to navigate and the products I see are very good. Thank you for your direct support of our soldiers and sailors, and our veterans! Keep up the good work.</p>
+<p class="testimonial-attribution">L. Kacho<br><span class="testimonial-text-dt">January 18, 2013</span></p>
+</div>
+<div>
+<p>Thank you for all you do! Great site and prices!!!!!</p>
+<p class="testimonial-attribution">T. Wells<br><span class="testimonial-text-dt">January 17, 2013</span></p>
+</div>
+<div>
+<p>Top notch products at great prices that can't be beat. Thanks for your service to the community.</p>
+<p class="testimonial-attribution">L.Lombard<br><span class="testimonial-text-dt">January 17, 2013</span></p>
+</div>
+<div>
+<p>Great progress since you guys started! I've suggested some brands and have seem some added! Thanks.</p>
+<p class="testimonial-attribution">E. Nguyen<br><span class="testimonial-text-dt">January 16, 2013</span></p>
+</div>
+<div>
+<p>Great site, great customer service, product selection is unbeatable at prices not found elsewhere.</p>
+<p class="testimonial-attribution">L. Lombard<br><span class="testimonial-text-dt">January 16, 2013</span></p>
+</div>
+<div>
+<p>You guys rock! More NIXON selections please!</p>
+<p class="testimonial-attribution">F. Arroyave<br><span class="testimonial-text-dt">January 16, 2013</span></p>
+</div>
+<div>
+<p>Awesome prices on the vast majority of items. Loving how your inventory is continuously expanding.</p>
+<p class="testimonial-attribution">Z. Canfield<br><span class="testimonial-text-dt">January 15, 2013</span></p>
+</div>
+<div>
+<p>I love the site and the merchandise, and helping out our country's veterans! Thank you!</p>
+<p class="testimonial-attribution">B. Merrell<br><span class="testimonial-text-dt">January 14, 2013</span></p>
+</div>
+<div>
+<p>Great selection at amazing prices. Keep up the good work!</p>
+<p class="testimonial-attribution">F. Avellana<br><span class="testimonial-text-dt">January 14, 2013</span></p>
+</div>
+<div>
+<p>Awesome price for a great pair of sunglasses!</p>
+<p class="testimonial-attribution">A Farenbach<br><span class="testimonial-text-dt">January 13, 2013</span></p>
+</div>
+<div>
+<p>I think you folks are doing a great job.</p>
+<p class="testimonial-attribution">J. Manfra<br><span class="testimonial-text-dt">January 12, 2013</span></p>
+</div>
+<div>
+<p>Thank you for bringing some of these product prices back to earth!</p>
+<p class="testimonial-attribution">K. Kleisath<br><span class="testimonial-text-dt">January 12, 2013</span></p>
+</div>
+<div>
+<p>Really like the site. Thank you for having a site which allows us to buy equipment for work at a cost savings. It really helps out during these tough financial times.</p>
+<p class="testimonial-attribution">S. Davis<br><span class="testimonial-text-dt">January 12, 2013</span></p>
+</div>
+<div>
+<p>Thank you for serving all of us in the military!</p>
+<p class="testimonial-attribution">B. Newman<br><span class="testimonial-text-dt">January 11, 2013</span></p>
+</div>
+<div>
+<p>I love what you guys are doing and will look to your website first for any of my athletic equipment.</p>
+<p class="testimonial-attribution">J. Harris<br><span class="testimonial-text-dt">January 11, 2013</span></p>
+</div>
+<div>
+<p>I think you guys are doing great. I am very impressed that an employee of ya'll was so helpful and easy to contact. She should be recognized for her hard work and customer service. She kept in contact with me and made sure I was satisfied with my order.</p>
+<p class="testimonial-attribution">J. Hermes<br><span class="testimonial-text-dt">January 11, 2013</span></p>
+</div>
+<div>
+<p>We just joined,,, so far we are delighted ! Thank -you so much for caring for our MEN</p>
+<p class="testimonial-attribution">P. Peterie<br><span class="testimonial-text-dt">January 11, 2013</span></p>
+</div>
+<div>
+<p>LOVE THE SITE. GREAT PRODUCTS</p>
+<p class="testimonial-attribution">B. Whitney<br><span class="testimonial-text-dt">January 10, 2013</span></p>
+</div>
+<div>
+<p>Great Service!</p>
+<p class="testimonial-attribution">D. Pace<br><span class="testimonial-text-dt">January 8, 2013</span></p>
+</div>
+<div>
+<p>Great prices!</p>
+<p class="testimonial-attribution">E. Gaffrey<br><span class="testimonial-text-dt">January 8, 2013</span></p>
+</div>
+<div>
+<p>Your mission is honorable, your products are extensive and your prices are right. Thanks for supporting the Sheepdogs. 1SG Airborne</p>
+<p class="testimonial-attribution">S. McWilliams<br><span class="testimonial-text-dt">January 7, 2013</span></p>
+</div>
+<div>
+<p>Great stuff!</p>
+<p class="testimonial-attribution">D. Waggoner<br><span class="testimonial-text-dt">January 5, 2013</span></p>
+</div>
+<div>
+<p>Thank you for offering a great website full of useful things geared toward police and military!!</p>
+<p class="testimonial-attribution">J. Kramer<br><span class="testimonial-text-dt">January 4, 2013</span></p>
+</div>
+<div>
+<p>You guys are awesome!! So happy i found this amazing site run by true patriots!!</p>
+<p class="testimonial-attribution">J. Guerrero<br><span class="testimonial-text-dt">January 4, 2013</span></p>
+</div>
+<div>
+<p>Great products at great prices. I'm preparing to deploy in a couple of weeks and need some added supplies. Thanks for getting everything a USAF Officer needs to deploy in one place. GOVX you are awesome!</p>
+<p class="testimonial-attribution">A Beaty<br><span class="testimonial-text-dt">January 3, 2013</span></p>
+</div>
+<div>
+<p>Thank you for the exceptional customer service! Allison is wonderful to work with!</p>
+<p class="testimonial-attribution">D. Zulla<br><span class="testimonial-text-dt">January 3, 2013</span></p>
+</div>
+<div>
+<p>Awesome what you all are doing here. Great brands and Great prices for those that serve. Thanks Again...</p>
+<p class="testimonial-attribution">R. Kerby<br><span class="testimonial-text-dt">January 3, 2013</span></p>
+</div>
+<div>
+<p>Great site... Easy to navigate and has "almost" everything.</p>
+<p class="testimonial-attribution">J. Martin<br><span class="testimonial-text-dt">January 1, 2013</span></p>
+</div>
+<div>
+<p>I appreciate the large variety of advanced gear and accessories for civilians and military. This site is updated to the latest technology available to the public. Thanks</p>
+<p class="testimonial-attribution">M. Banarski<br><span class="testimonial-text-dt">January 1, 2013</span></p>
+</div>
+<div>
+<p>I love the site. So glad that it was recommended to me.</p>
+<p class="testimonial-attribution">D. Clark<br><span class="testimonial-text-dt">January 1, 2013</span></p>
+</div>
+<div>
+<p>Appreciate this service and the products. Told a young man in a store about this service yesterday and he commented, " that is awesome that someone recognizes your service to our country and does this!" Thanks again.</p>
+<p class="testimonial-attribution">R. McCook<br><span class="testimonial-text-dt">January 1, 2013</span></p>
+</div>
+<div>
+<p>Really like what you are doing, please keep it up. We all really appreciate it.</p>
+<p class="testimonial-attribution">A Hobuss<br><span class="testimonial-text-dt">December 28, 2012</span></p>
+</div>
+<div>
+<p>Your site really is a great one for us in the police world, really great prices and super easy checkout!! thanks NYPD</p>
+<p class="testimonial-attribution">J. Moran<br><span class="testimonial-text-dt">December 28, 2012</span></p>
+</div>
+<div>
+<p>GREAT STUFF!</p>
+<p class="testimonial-attribution">C. Brown<br><span class="testimonial-text-dt">December 25, 2012</span></p>
+</div>
+<div>
+<p>You guys are great!! Thank you!</p>
+<p class="testimonial-attribution">A Simonelli<br><span class="testimonial-text-dt">December 23, 2012</span></p>
+</div>
+<div>
+<p>This is a great service. Thanks for all your hard work bringing in new products.</p>
+<p class="testimonial-attribution">J. Hatfield<br><span class="testimonial-text-dt">December 22, 2012</span></p>
+</div>
+<div>
+<p>Love you guys!</p>
+<p class="testimonial-attribution">J. Zamora<br><span class="testimonial-text-dt">December 22, 2012</span></p>
+</div>
+<div>
+<p>I'm stoked about you guys! Thanks for hooking us up!</p>
+<p class="testimonial-attribution">S. Guevara<br><span class="testimonial-text-dt">December 20, 2012</span></p>
+</div>
+<div>
+<p>So far so good, keep up the good work!</p>
+<p class="testimonial-attribution">J. Kempf<br><span class="testimonial-text-dt">December 19, 2012</span></p>
+</div>
+<div>
+<p>Awesome prices. Thank you and your brands for their support.</p>
+<p class="testimonial-attribution">E. Kugel<br><span class="testimonial-text-dt">December 18, 2012</span></p>
+</div>
+<div>
+<p>Prices are great. Web site is easy to use. Need to offer Body Boards to go with the Surf Fins. Thanks</p>
+<p class="testimonial-attribution">J. Biegler<br><span class="testimonial-text-dt">December 18, 2012</span></p>
+</div>
+<div>
+<p>I love what this site is about, thanks for giving back GovX !</p>
+<p class="testimonial-attribution">C. Long<br><span class="testimonial-text-dt">December 18, 2012</span></p>
+</div>
+<div>
+<p>You guys rock!</p>
+<p class="testimonial-attribution">J. Hernandez<br><span class="testimonial-text-dt">December 17, 2012</span></p>
+</div>
+<div>
+<p>Love you guys!</p>
+<p class="testimonial-attribution">K. Krummel<br><span class="testimonial-text-dt">December 17, 2012</span></p>
+</div>
+<div>
+<p>Amazing Service, I thank you guys for looking out for us.</p>
+<p class="testimonial-attribution">J. Hernandez<br><span class="testimonial-text-dt">December 16, 2012</span></p>
+</div>
+<div>
+<p>You have a great web site.</p>
+<p class="testimonial-attribution">L. Huff<br><span class="testimonial-text-dt">December 16, 2012</span></p>
+</div>
+<div>
+<p>Erhmegehrd I love this site and your rapid processing! Awesome selection! The discounts are actually enough to be worthy of being called discounts as opposed to some sites that save you like 4 or 5 dollars then charge 15 for shipping each item. Thank you for taking care of us!</p>
+<p class="testimonial-attribution">W. Murdoch<br><span class="testimonial-text-dt">December 16, 2012</span></p>
+</div>
+<div>
+<p>GOVX is the best! Thank you for giving back!</p>
+<p class="testimonial-attribution">A Kimball<br><span class="testimonial-text-dt">December 15, 2012</span></p>
+</div>
+<div>
+<p>Awesome products! Amazing prices!</p>
+<p class="testimonial-attribution">J. Shake<br><span class="testimonial-text-dt">December 15, 2012</span></p>
+</div>
+<div>
+<p>Great site! Thank you for your support!</p>
+<p class="testimonial-attribution">A Osborn<br><span class="testimonial-text-dt">December 15, 2012</span></p>
+</div>
+<div>
+<p>You guys continue to be pro-active in providing the best products available at very competitive prices.</p>
+<p class="testimonial-attribution">R. Ayala<br><span class="testimonial-text-dt">December 15, 2012</span></p>
+</div>
+<div>
+<p>Good deals on the Reactor watches. Keep up the good work and expand those partners.</p>
+<p class="testimonial-attribution">R. Hewitt<br><span class="testimonial-text-dt">December 14, 2012</span></p>
+</div>
+<div>
+<p>Love your site and your products. I have purchsed many items from you whille I was in the Military (USMC). Thank you for supporting the Military and Keep up the great work.</p>
+<p class="testimonial-attribution">W. Vangorder<br><span class="testimonial-text-dt">December 14, 2012</span></p>
+</div>
+<div>
+<p>AWESOME PRODUCTS AND GREAT PRICES. THANK YOU FOR SERVING THOSE WHO SERVED!</p>
+<p class="testimonial-attribution">P. Thompson<br><span class="testimonial-text-dt">December 13, 2012</span></p>
+</div>
+<div>
+<p>Jules was very helpful and informative. I really appreciated her assistance!</p>
+<p class="testimonial-attribution">M. Ryan<br><span class="testimonial-text-dt">December 13, 2012</span></p>
+</div>
+<div>
+<p>I shopped around the internet and local stores and compared the price for the same watch. You guys beat everyone hands down. Your site is easy to navigate and put together well. Nice work!</p>
+<p class="testimonial-attribution">G. Shaw<br><span class="testimonial-text-dt">December 13, 2012</span></p>
+</div>
+<div>
+<p>You guys are great keep it up!!!!!!!!!!</p>
+<p class="testimonial-attribution">T. Nordbak<br><span class="testimonial-text-dt">December 12, 2012</span></p>
+</div>
+<div>
+<p>Doing every thing great. Thank You for what you are doing.</p>
+<p class="testimonial-attribution">S. Poe<br><span class="testimonial-text-dt">December 12, 2012</span></p>
+</div>
+<div>
+<p>Really love this website and your products, lots of great things on the website. Thanks for the discounts.</p>
+<p class="testimonial-attribution">E. Bojorquez<br><span class="testimonial-text-dt">December 12, 2012</span></p>
+</div>
+<div>
+<p>You do an outstanding job. I hope you add more companies. Thank you !</p>
+<p class="testimonial-attribution">J. Greenhalgh<br><span class="testimonial-text-dt">December 12, 2012</span></p>
+</div>
+<div>
+<p>Great website! Great job!!!</p>
+<p class="testimonial-attribution">C. Shepard<br><span class="testimonial-text-dt">December 12, 2012</span></p>
+</div>
+<div>
+<p>This site it awesome, with my wife and I both in law enforcment this is a great place for us to shop and save. Thank you!</p>
+<p class="testimonial-attribution">J. Dyal<br><span class="testimonial-text-dt">December 12, 2012</span></p>
+</div>
+<div>
+<p>Excellent Quality, Amazing Customer Service &amp; Awesome Prices = Happy Loyal Customer!! :)</p>
+<p class="testimonial-attribution">D. Fiellin<br><span class="testimonial-text-dt">December 12, 2012</span></p>
+</div>
+<div>
+<p>This is my first order. I really appreciate what your company does. Thanks!</p>
+<p class="testimonial-attribution">S. Sprague<br><span class="testimonial-text-dt">December 11, 2012</span></p>
+</div>
+<div>
+<p>I think it is great what you are doing for those of use who serve and protect the front lines in our different ways each and every day. Thank you!!</p>
+<p class="testimonial-attribution">C. Jett<br><span class="testimonial-text-dt">December 11, 2012</span></p>
+</div>
+<div>
+<p>Great website!</p>
+<p class="testimonial-attribution">R. Kuster<br><span class="testimonial-text-dt">December 11, 2012</span></p>
+</div>
+<div>
+<p>I think the web site is professional and easy to use. Love the items and price.</p>
+<p class="testimonial-attribution">R. Kincaid<br><span class="testimonial-text-dt">December 11, 2012</span></p>
+</div>
+<div>
+<p>Awesome stuff! Keep adding more.</p>
+<p class="testimonial-attribution">J. Castellanos<br><span class="testimonial-text-dt">December 10, 2012</span></p>
+</div>
+<div>
+<p>I've been browsing the site for some time. I finally made my first purchase. There's more items I'm interested in, so I look forward to my next purchase. Thanks</p>
+<p class="testimonial-attribution">R. Crisalli<br><span class="testimonial-text-dt">December 10, 2012</span></p>
+</div>
+<div>
+<p>I really love GovX and their steep discounts; it makes Christmas shopping a little easier. Thank you.</p>
+<p class="testimonial-attribution">M. Moulder<br><span class="testimonial-text-dt">December 10, 2012</span></p>
+</div>
+<div>
+<p>I appreciate the service that your company offers. This is my first order so far but the way its looking I’ll be back to buy some more. Thank you for appreciation of all the men and women that serve this country every day.</p>
+<p class="testimonial-attribution">Z. Gilley<br><span class="testimonial-text-dt">December 9, 2012</span></p>
+</div>
+<div>
+<p>Love this site, I always check it before I order anything to see if I can get a better deal</p>
+<p class="testimonial-attribution">B. Beck<br><span class="testimonial-text-dt">December 9, 2012</span></p>
+</div>
+<div>
+<p>Have enjoyed and will keep on ordering</p>
+<p class="testimonial-attribution">O. Moreno<br><span class="testimonial-text-dt">December 9, 2012</span></p>
+</div>
+<div>
+<p>Outstanding!!!! Kudos to all of you and great work assisting with "Warfighter"</p>
+<p class="testimonial-attribution">J. Kegley<br><span class="testimonial-text-dt">December 9, 2012</span></p>
+</div>
+<div>
+<p>Love your site!</p>
+<p class="testimonial-attribution">M. Whitaker<br><span class="testimonial-text-dt">December 9, 2012</span></p>
+</div>
+<div>
+<p>Thank you for taking the time to set up an arrangement such as this. Appreciate such a unique opportunity to save our hard earned money and still be able to obtain high quality products at an affordable price!</p>
+<p class="testimonial-attribution">J. Thorpe<br><span class="testimonial-text-dt">December 7, 2012</span></p>
+</div>
+<div>
+<p>Great prices.</p>
+<p class="testimonial-attribution">M. Margulis<br><span class="testimonial-text-dt">December 7, 2012</span></p>
+</div>
+<div>
+<p>Great site!</p>
+<p class="testimonial-attribution">J. Jones<br><span class="testimonial-text-dt">December 7, 2012</span></p>
+</div>
+<div>
+<p>Great Products!</p>
+<p class="testimonial-attribution">V. Lee<br><span class="testimonial-text-dt">December 6, 2012</span></p>
+</div>
+<div>
+<p>So many brands on one site... Love it.</p>
+<p class="testimonial-attribution">J. Martin<br><span class="testimonial-text-dt">December 6, 2012</span></p>
+</div>
+<div>
+<p>Great deal!</p>
+<p class="testimonial-attribution">M. Strother<br><span class="testimonial-text-dt">December 6, 2012</span></p>
+</div>
+<div>
+<p>Solid site thanks for the hook up</p>
+<p class="testimonial-attribution">M. Ballew<br><span class="testimonial-text-dt">December 4, 2012</span></p>
+</div>
+<div>
+<p>Thanks for not forgetting our nations Veterans.</p>
+<p class="testimonial-attribution">C. Davis<br><span class="testimonial-text-dt">December 3, 2012</span></p>
+</div>
+<div>
+<p>The thing that amazed me with my first order was a great handwritten note &amp; a business card from the person that helped ship my order, saying "Thank You." to me not only for being a customer but, for all my hard work. Taking the time to write a note and ship that and personalize my order made me happy. This will be my third order from you guys. Thank You GovX! For great prices and for your fantastic customer service!!</p>
+<p class="testimonial-attribution">A Califf<br><span class="testimonial-text-dt">December 3, 2012</span></p>
+</div>
+<div>
+<p>I like the new web layout. The products on this site are really awesome too!</p>
+<p class="testimonial-attribution">J. Ybarra<br><span class="testimonial-text-dt">December 3, 2012</span></p>
+</div>
+<div>
+<p>When I first put an item in my shopping cart, the item was available. A few days later when I was ready to but it, the item showed out of stock in my cart. I contacted the company and Allison stated to me the item would be in stock shortly and she would follow up with an e-mail reminder. She did and I just made the purchase. Thanks Allison! Keep up the good work.</p>
+<p class="testimonial-attribution">P. Kaim<br><span class="testimonial-text-dt">November 30, 2012</span></p>
+</div>
+<div>
+<p>Thank you GovX. Great price for an awesome watch. This is my third item purchased.</p>
+<p class="testimonial-attribution">J. Gisburne<br><span class="testimonial-text-dt">November 28, 2012</span></p>
+</div>
+<div>
+<p>I’m impressed. Keep up the good work! God bless America!</p>
+<p class="testimonial-attribution">R. Vehe<br><span class="testimonial-text-dt">November 28, 2012</span></p>
+</div>
+<div>
+<p>You guys are awesome! Would love to see more brands as you grow, thanks for everything!</p>
+<p class="testimonial-attribution">C. Guarino<br><span class="testimonial-text-dt">November 28, 2012</span></p>
+</div>
+<div>
+<p>Love this site!</p>
+<p class="testimonial-attribution">S. Lehr<br><span class="testimonial-text-dt">November 28, 2012</span></p>
+</div>
+<div>
+<p>The discounts are worth their weight in gold! I hope you add more brands to the website as time goes on.</p>
+<p class="testimonial-attribution">S. Rodriguez<br><span class="testimonial-text-dt">November 26, 2012</span></p>
+</div>
+<div>
+<p>I loved the variety of sunglasses offered. As a stay-at-home mother with my spouse in the Army I am grateful for the deep discount. Thank you.</p>
+<p class="testimonial-attribution">D. Wambles<br><span class="testimonial-text-dt">November 24, 2012</span></p>
+</div>
+<div>
+<p>Great site keep up the great work. I am loving the new additions your adding everyday.</p>
+<p class="testimonial-attribution">R. Breeden<br><span class="testimonial-text-dt">November 24, 2012</span></p>
+</div>
+<div>
+<p>Thanks for all you do. You have great products!</p>
+<p class="testimonial-attribution">J. Fuentes<br><span class="testimonial-text-dt">November 24, 2012</span></p>
+</div>
+<div>
+<p>Thanks For Giving Back!</p>
+<p class="testimonial-attribution">A Hall<br><span class="testimonial-text-dt">November 24, 2012</span></p>
+</div>
+<div>
+<p>This is my second order. Great service. Will be back again and again.</p>
+<p class="testimonial-attribution">F. Sanchez<br><span class="testimonial-text-dt">November 24, 2012</span></p>
+</div>
+<div>
+<p>ALWAYS QUALITY!</p>
+<p class="testimonial-attribution">W. Bernitt<br><span class="testimonial-text-dt">November 24, 2012</span></p>
+</div>
+<div>
+<p>I think you guys are really moving up in the world, I am so pleased that you cary Nixon watches now. One of the best most durable brands out there. Thanks you so much.</p>
+<p class="testimonial-attribution">C. Orsburn<br><span class="testimonial-text-dt">November 24, 2012</span></p>
+</div>
+<div>
+<p>Great site!</p>
+<p class="testimonial-attribution">H. Galindo<br><span class="testimonial-text-dt">November 23, 2012</span></p>
+</div>
+<div>
+<p>Great job. Keep it up!</p>
+<p class="testimonial-attribution">J. Gilmer<br><span class="testimonial-text-dt">November 23, 2012</span></p>
+</div>
+<div>
+<p>This Veteran greatly appreciates you folks and this site. It means a lot. Thanks</p>
+<p class="testimonial-attribution">D. Collins<br><span class="testimonial-text-dt">November 23, 2012</span></p>
+</div>
+<div>
+<p>Thank you so much for your support and variety. Excellent site with great vendors</p>
+<p class="testimonial-attribution">T. Oliver<br><span class="testimonial-text-dt">November 22, 2012</span></p>
+</div>
+<div>
+<p>Thanks for saving us dudes money! This helmet will keep me safe while riding for wounded and fallen special operations soldiers!</p>
+<p class="testimonial-attribution">M. Barnes<br><span class="testimonial-text-dt">November 22, 2012</span></p>
+</div>
+<div>
+<p>Great program...thanks!</p>
+<p class="testimonial-attribution">J. Dyal<br><span class="testimonial-text-dt">November 21, 2012</span></p>
+</div>
+<div>
+<p>I only recently heard about the site. I think it's really cool what you guys are doing, it helps us all out too!</p>
+<p class="testimonial-attribution">J. Brown 20, 2012<br><span class="testimonial-text-dt">November 20, 2012</span></p>
+</div>
+<div>
+<p>Thank you GOVX!!!!!!!</p>
+<p class="testimonial-attribution">B. Rodriguez<br><span class="testimonial-text-dt">November 19, 2012</span></p>
+</div>
+<div>
+<p>Great website!! Great prices! I saved almost $100 buying a watch from you guys versus Hammer Schlemmer.</p>
+<p class="testimonial-attribution">W. Fitzhugh<br><span class="testimonial-text-dt">November 19, 2012</span></p>
+</div>
+<div>
+<p>Great Web site. Lots of neat stuff</p>
+<p class="testimonial-attribution">P. Mason<br><span class="testimonial-text-dt">November 18, 2012</span></p>
+</div>
+<div>
+<p>This is awesome! I am at Patrick AFB. I love the authentic feel of the MoH series and I cant wait to get my hands on this one!! Thanks!</p>
+<p class="testimonial-attribution">G. Gonzalez Marrero<br><span class="testimonial-text-dt">November 16, 2012</span></p>
+</div>
+<div>
+<p>Thank you for the support!</p>
+<p class="testimonial-attribution">J. Gomez<br><span class="testimonial-text-dt">November 12, 2012</span></p>
+</div>
+<div>
+<p>I could not find a review page, but I wanted to say thank you for the FREE MOHW code for my XBOX. I think its awesome that you guys are giving this out and I am very pleased. I will be shopping from your site from now on. Thanks GOVX!</p>
+<p class="testimonial-attribution">J. Miles<br><span class="testimonial-text-dt">November 12, 2012</span></p>
+</div>
+<div>
+<p>Thank you. This will stand out from all the civilians since this site is dedicated to all armed forces</p>
+<p class="testimonial-attribution">A Altamirano<br><span class="testimonial-text-dt">November 12, 2012</span></p>
+</div>
+<div>
+<p>Its a great site and some of these products I am definitely interested in.</p>
+<p class="testimonial-attribution">T. Johnson<br><span class="testimonial-text-dt">November 12, 2012</span></p>
+</div>
+<div>
+<p>semper fi, love the items on this site.</p>
+<p class="testimonial-attribution">C. Sanchez<br><span class="testimonial-text-dt">November 12, 2012</span></p>
+</div>
+<div>
+<p>Easy to navigate...fast service</p>
+<p class="testimonial-attribution">R. Correa<br><span class="testimonial-text-dt">November 12, 2012</span></p>
+</div>
+<div>
+<p>Didn't even know about this site until I bought Medal of Honor....will be coming back for Xmas ideas. Thanks guys.</p>
+<p class="testimonial-attribution">D. Lardner<br><span class="testimonial-text-dt">November 12, 2012</span></p>
+</div>
+<div>
+<p>Awesome! Thank you</p>
+<p class="testimonial-attribution">C. Stoia<br><span class="testimonial-text-dt">November 12, 2012</span></p>
+</div>
+<div>
+<p>Great Site!</p>
+<p class="testimonial-attribution">E. Carrera-Rodriguez<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>Thank You for your service and thanking us for our service. God Bless, God Bless America and Long live the Constitution!</p>
+<p class="testimonial-attribution">J. Rampone<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>This is a very nice thing to do!</p>
+<p class="testimonial-attribution">J. Scully<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>Thank you very much! GOD BLESS YOU!</p>
+<p class="testimonial-attribution">R. Diaz Cardenas<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>I think this is a great site. Please keep up the good work of offering great products at great prices. Thanks &amp; God bless.</p>
+<p class="testimonial-attribution">K. Whitt<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>I think this is a great site. Please keep up the good work of offering great products at great prices. Thanks &amp; God bless.</p>
+<p class="testimonial-attribution">J. Manfra<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>First order from you guys, but really look forward to doing more business. You offer some of the best brands out there. Our community loves the support from retailers like this. Thanks for what you do.</p>
+<p class="testimonial-attribution">I Clark<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>Really wanted to say thank you to GovxX for doing their veterans day weekend MoH unlock for free. Really nice to see a company actually care about, and show, their respect for the military when it seems like so many really don't.</p>
+<p class="testimonial-attribution">E. Lipinski II<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>Thank you for giving us a free military code for MOH warfighter. I can't wait to try this out. I appreciate what you guys do for us military personnel, Again thank u</p>
+<p class="testimonial-attribution">J. Hackathorn<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>Good to Go</p>
+<p class="testimonial-attribution">B. Griffin<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>Excellent site. I will be back for more once my credit cards get paid up. Great prices!</p>
+<p class="testimonial-attribution">W. Quartuccio<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>Outstanding Semper Fi</p>
+<p class="testimonial-attribution">N. Gilbow<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>You guys rock! Thanks!!!!</p>
+<p class="testimonial-attribution">R. Donnelly<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>This is awesome and thank you.</p>
+<p class="testimonial-attribution">N. Martinez<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>First time shopper. So far I love the site easy to navigate and check out.</p>
+<p class="testimonial-attribution">R. Taets II<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>Vey cool for veterans... Thanks...</p>
+<p class="testimonial-attribution">K. Dzekciorius<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>I greatly appreciate your mission. As a veteran that works in veterans services, non-profit, I see every day the scars, visible and invisible, that are forever with our vets. Little things like this "recognition", and at your expense is a well received way to show your company appreciation. Additionally I note your affiliation with non-profits and applaud the great work they do. Kudos from an old Warhorse of the 11th ACR and 1st CAV</p>
+<p class="testimonial-attribution">A Sands<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>I greatly appreciate your mission. As a veteran that works in veterans services, non-profit, I see every day the scars, visible and invisible, that are forever with our vets. Little things like this "recognition", and at your expense is a well received way to show your company appreciation. Additionally I note your affiliation with non-profits and applaud the great work they do. Kudos from an old Warhorse of the 11th ACR and 1st CAV</p>
+<p class="testimonial-attribution">R. Greene II<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>Thank you from a Iraq Vet!</p>
+<p class="testimonial-attribution">A Holbrook<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>God bless you.</p>
+<p class="testimonial-attribution">S. Hartman<br><span class="testimonial-text-dt">November 11, 2012</span></p>
+</div>
+<div>
+<p>Awesome website!!!</p>
+<p class="testimonial-attribution">C. Francis<br><span class="testimonial-text-dt">November 10, 2012</span></p>
+</div>
+<div>
+<p>I think what your doing is great. I’m Nam vet, U S Navy. We didn’t get the time of day when we returned. Thanks for remembering.</p>
+<p class="testimonial-attribution">D. Cales<br><span class="testimonial-text-dt">November 10, 2012</span></p>
+</div>
+<div>
+<p>Great site</p>
+<p class="testimonial-attribution">S. King<br><span class="testimonial-text-dt">November 10, 2012</span></p>
+</div>
+<div>
+<p>Thank You for your service and thanking us for our service. God Bless, God Bless America and Long live the Constitution!</p>
+<p class="testimonial-attribution">A. Santiago<br><span class="testimonial-text-dt">August 4, 2012</span></p>
+</div>
+<div>
+<p>This is the BEST website around for our troops and others alike! Keep up the good work, will definitely be a life long customer and I have already spread the word to all of my military friends! Thank you for YOUR service to us.</p>
+<p class="testimonial-attribution">A. Santiago <br><span class="testimonial-text-dt">August 4, 2012</span></p>
+</div>
+<div>
+<p>Thanks for what you guys are doing to help out LEO's as well as the military.</p>
+<p class="testimonial-attribution">R. Jones<br><span class="testimonial-text-dt">August 4, 2012</span></p>
+</div>
+<div>
+<p>Wish more games would put out military only editions and features. Glad you guys grabbed this up, thanks for your support.</p>
+<p class="testimonial-attribution">B. Tracey <br><span class="testimonial-text-dt">August 3, 2012</span></p>
+</div>
+<div>
+<p>I am new to GovX, and as far as I can tell so far, you guys are pretty awesome. Your website is laid out pretty well and you've got an awesome selection of items.</p>
+<p class="testimonial-attribution">N. Gies <br><span class="testimonial-text-dt">August 3, 2012</span></p>
+</div>
+<div>
+<p>Thank you so much for these offers!!! I have referred you to many of our friends! Every little bit helps!</p>
+<p class="testimonial-attribution">M. Ingallina <br><span class="testimonial-text-dt">August 1, 2012</span></p>
+</div>
+<div>
+<p>Thank you for supporting the Fire Service!</p>
+<p class="testimonial-attribution">E. Nelson<br><span class="testimonial-text-dt">July 30, 2012</span></p>
+</div>
+<div>
+<p>Glad I checked out the site! Prices are really good so I'll keep checking back to see if the merchandise changes and/or new companies are added. My husband has a wish list started so Christmas shopping will be easy this year. Thank you!!</p>
+<p class="testimonial-attribution">W. Smith<br><span class="testimonial-text-dt">July 25, 2012</span></p>
+</div>
+<div>
+<p>Thanks for providing Military personnel and Federal employees the opportunity to purchase your products at a discounted price.</p>
+<p class="testimonial-attribution">R. Ozuna <br><span class="testimonial-text-dt">July 21, 2012</span></p>
+</div>
+<div>
+<p>I think you guys are great and I am so grateful that there are still companies like yours that support those of us who do our best to secure our country. Thank you.</p>
+<p class="testimonial-attribution">M. Lopez <br><span class="testimonial-text-dt">July 21, 2012</span></p>
+</div>
+<div>
+<p>I love your site.. 35 years in the Air Force. You guys are 'GOOD TO GO" keep up the good work...</p>
+<p class="testimonial-attribution">J. Singer<br><span class="testimonial-text-dt">July 19, 2012</span></p>
+</div>
+<div>
+<p>Thanks for you support of the Military and Law Enforcement!</p>
+<p class="testimonial-attribution">M. Savage<br><span class="testimonial-text-dt">July 18, 2012</span></p>
+</div>
+<div>
+<p>Love your website. Fully expect to shop frequently with you. Great prices on your gear. Thanks.</p>
+<p class="testimonial-attribution">J. Schermer<br><span class="testimonial-text-dt">July 13, 2012</span></p>
+</div>
+<div>
+<p>I called customer service with a shipping related question; my call was answered immediately and personally. Very helpful!</p>
+<p class="testimonial-attribution">J. Whorley<br><span class="testimonial-text-dt">July 10, 2012</span></p>
+</div>
+<div>
+<p>Ordering process was very simple, and so far I am happy with the service this site provides. Keep up the good work.</p>
+<p class="testimonial-attribution">C. Pero<br><span class="testimonial-text-dt">July 5, 2012</span></p>
+</div>
+<div>
+<p>I'm happy I was lead into this website. It's really nice to order thing at a discounted rate and get special stuff for all government employees.</p>
+<p class="testimonial-attribution">A. Marquez <br><span class="testimonial-text-dt">June 20, 2012</span></p>
+</div>
+<div>
+<p>The website was really easy to navigate even on my iPhone. :). I loved the product selection. I expected it to be limited in styles and selection. I was wrong. Every brand and style I wanted were available and the discounted prices are awesome. The only problem was limiting my purchase. :) Thanks.</p>
+<p class="testimonial-attribution">S. SIlvey<br><span class="testimonial-text-dt">June 18, 2012</span></p>
+</div>
+<div>
+<p>This military edition of Medal of Honor is perhaps one of the coolest programs I've seen a company use for a video game of this kind. I've been playing these sorts of things for a while, but this deal had me pre-ordering the game in minutes of catching the news of the deal online. THANK YOU FOR BEING AWESOME.</p>
+<p class="testimonial-attribution">M. Smothermon<br><span class="testimonial-text-dt">June 15, 2012</span></p>
+</div>
+<div>
+<p>Just saw the ad on FB, and had no idea of this site. Great idea. Thanks!</p>
+<p class="testimonial-attribution">A. Harrison <br><span class="testimonial-text-dt">June 14, 2012</span></p>
+</div>
+<div>
+<p>Just received my order, everything is great. Thank you for offering this program. I will be a regular here.</p>
+<p class="testimonial-attribution">J. Carmona<br><span class="testimonial-text-dt">June 13, 2012</span></p>
+</div>
+<div>
+<p>I am also a member of Standard Issue. However, your site gives more options including off duty idems. Which is great. Thanks!</p>
+<p class="testimonial-attribution">W. Monastero<br><span class="testimonial-text-dt">June 10, 2012</span></p>
+</div>
+<div>
+<p>Thank you for your continued support for Military and Public Service!!</p>
+<p class="testimonial-attribution">E. Testerman<br><span class="testimonial-text-dt">June 5, 2012</span></p>
+</div>
+<div>
+<p>I really love this website! First time user and being a firefighter this site really takes care of you!! Thank you for helping us people in the public service system!!</p>
+<p class="testimonial-attribution">J. Sandoval /&gt;<span class="testimonial-text-dt">May 31, 2012</span></p>
+</div>
+<div>
+<p>User friendly, I love it!</p>
+<p class="testimonial-attribution">K. Baca<br><span class="testimonial-text-dt">May 30, 2012</span></p>
+</div>
+<div>
+<p>The website looks great. It's constantly updated and it's easy to navigate. I've only had one dealing with customer service in regards to a question (this was a few months back) and the response was quick, friendly, and most of all informative. I am looking forward to receiving the product and am ready to spread the word to my fellow co-workers (Houston PD Homicide) as well as to my brother-in-law (US Army, deployed to Afghanistan). Keep up the good work.</p>
+<p class="testimonial-attribution">J. French<br><span class="testimonial-text-dt">May 28, 2012</span></p>
+</div>
+<div>
+<p>When I called for some assistance, Shannon was great! She answered all my questions and made my order possible. Thank you!</p>
+<p class="testimonial-attribution">D. Jones<br><span class="testimonial-text-dt">May 17, 2012</span></p>
+</div>
+<div>
+<p>I can't thank you guys enough for supplying quality products at discounted prices for government employees. I've worked as a law enforecement officer for 10+ years now, and I'm currently serving as a Sergeant at the Wabash County Sheriff's Department in Indiana. At the rural, local level, money earned can be tight sometimes and although most of us openly acknowledge that money isn't the reason we serve in this capacity . . . it's very nice to have those funds stretch a little further on quality products! Thanks for the time, dedication, sacrifice and hard work you put into this site and the service you offer!</p>
+<p class="testimonial-attribution">T. Guenin<br><span class="testimonial-text-dt">May 11, 2012</span></p>
+</div>
+<div>
+<p>You guys are great. Just the fact that you have things people need and want for really cheap is a lot of help, thank you</p>
+<p class="testimonial-attribution">M. Salas<br><span class="testimonial-text-dt">May 9, 2012</span></p>
+</div>
+<div>
+<p>Quality stuff! I have given your web site to multiple firefighters! Thanks.</p>
+<p class="testimonial-attribution">T. Meneses<br><span class="testimonial-text-dt">April 26, 2012</span></p>
+</div>
+<div>
+<p>Keep adding products and brands! Consider doing daily deals via email alert like Whiskey Militia. The GovX deal is nice like the one I snagged today on Von Zippers but if you guys worked with your vendors and put up a daily "holy shit that's a crazy good price kind of deal" you would draw an allegiance of daily web visitors I know it. I don't know if hits are your benchmark for website success at this point in your businesses venture but if company Reps attend Police and Fire events such as the Northern California Continuing Challenge or San Diego's Fire House World I'm sure you would continue to attract new users.</p>
+<p class="testimonial-attribution">D. Rowe<br><span class="testimonial-text-dt">April 20, 2012</span></p>
+</div>
+<div>
+<p>Awesome products and great web site. Everything is easy to search and the prices are the best.</p>
+<p class="testimonial-attribution">R. Espinoza<br><span class="testimonial-text-dt">April 17, 2012</span></p>
+</div>
+<div>
+<p>I think the website is awesome. the products look great and they are great names so i am sure they are great. it means alot that someone would do this for people that serve their country.</p>
+<p class="testimonial-attribution">J. Fergot<br><span class="testimonial-text-dt">April 12, 2012</span></p>
+</div>
+<div>
+<p>Just want to thank you for making this website available for firefighters.. it is much appreciated.</p>
+<p class="testimonial-attribution">C. Harmount<br><span class="testimonial-text-dt">April 11, 2012</span></p>
+</div>
+<div>
+<p>I highly recommend expanding your customer access base to include DoD Contractors who are issued Common Access Cards (CAC). Your web site is outstanding and so are the values! Keep up the superb work! Thanks and Semper Fi.</p>
+<p class="testimonial-attribution">D. Wargo<br><span class="testimonial-text-dt">April 3, 2012</span></p>
+</div>
+<div>
+<p>Your prices are amazing!</p>
+<p class="testimonial-attribution">D. Balstad<br><span class="testimonial-text-dt">March 29, 2012</span></p>
+</div>
+<div>
+<p>So far, so good.</p>
+<p class="testimonial-attribution">G. Moriarty<br><span class="testimonial-text-dt">March 29, 2012</span></p>
+</div>
+<div>
+<p>I just received information about this program through my lifetime AFA membership. This program looks GREAT! THANK YOU!</p>
+<p class="testimonial-attribution">T. Dunn<br><span class="testimonial-text-dt">March 28, 2012</span></p>
+</div>
+<div>
+<p>Really great web site with a lot of great products. A very hefty discount for military veterans is a huge plus in my book. Thanks again!</p>
+<p class="testimonial-attribution">D. Wargo<br><span class="testimonial-text-dt">March 27, 2012</span></p>
+</div>
+<div>
+<p>AWESOME WEBSITE, THANK YOU FOR SHARING THESE DISCOUNTS.</p>
+<p class="testimonial-attribution">R. Thornton<br><span class="testimonial-text-dt">March 26, 2012</span></p>
+</div>
+<div>
+<p>You guys are awesome, thanks!</p>
+<p class="testimonial-attribution">S. Swan<br><span class="testimonial-text-dt">March 23, 2012</span></p>
+</div>
+<div>
+<p>Keep up the great work guys...</p>
+<p class="testimonial-attribution">G. Chan<br><span class="testimonial-text-dt">March 22, 2012</span></p>
+</div>
+<div>
+<p>Thank you for what you do!</p>
+<p class="testimonial-attribution">J. Williams<br><span class="testimonial-text-dt">March 22, 2012</span></p>
+</div>
+<div>
+<p>Thanks for coming up with a business that truly does appreciate the value of our country's service men and women!</p>
+<p class="testimonial-attribution">J. Riedl<br><span class="testimonial-text-dt">March 21, 2012</span></p>
+</div>
+<div>
+<p>I think this is an amazing site, keep getting great companies.</p>
+<p class="testimonial-attribution">J. Lister<br><span class="testimonial-text-dt">March 17, 2012</span></p>
+</div>
+<div>
+<p>Thank you so much!</p>
+<p class="testimonial-attribution">A. Raher<br><span class="testimonial-text-dt">March 16, 2012</span></p>
+</div>
+<div>
+<p>Great site, I like the difference in items. Quality stuff for good prices! Thanks for putting this biz together.</p>
+<p class="testimonial-attribution">D. Cutting<br><span class="testimonial-text-dt">March 16, 2012</span></p>
+</div>
+<div>
+<p>I can’t thank you enough and your company for going the extra mile to support US troops around the world. I appreciate you for providing me this valuable information which I will share with my co-workers and tell them they can’t go wrong with wearing VZ sunglasses and being part of GovX!</p>
+<p class="testimonial-attribution">M. Compean<br><span class="testimonial-text-dt">March 13, 2012</span></p>
+</div>
+<div>
+<p>Great Products! Thanks!</p>
+<p class="testimonial-attribution">J. Schaefer<br><span class="testimonial-text-dt">March 13, 2012</span></p>
+</div>
+<div>
+<p>I am impressed with the quality and prices of the products offered on GovX, as well as with the level of commitment to the customers evidenced by Marc Van Buskirk personally contacting me after I left a feedback at the end of placing my order. Things like that can set a business apart and assure its success.</p>
+<p class="testimonial-attribution">A. Russian<br><span class="testimonial-text-dt">March 13, 2012</span></p>
+</div>
+<div>
+<p>Looks great!</p>
+<p class="testimonial-attribution">S. Reyes<br><span class="testimonial-text-dt">March 12, 2012</span></p>
+</div>
+<div>
+<p>The items on your site are top notch and it just feels good to know that people and companies out there are showing their support for what we do.</p>
+<p class="testimonial-attribution">C. Vasquez<br><span class="testimonial-text-dt">March 12, 2012</span></p>
+</div>
+<div>
+<p>Great segment on KUSI this morning!</p>
+<p class="testimonial-attribution">P. Aldrich<br><span class="testimonial-text-dt">March 11, 2012</span></p>
+</div>
+<div>
+<p>Just want to say thank you. This is a great web site.</p>
+<p class="testimonial-attribution">M. McGarry<br><span class="testimonial-text-dt">March 9, 2012</span></p>
+</div>
+<div>
+<p>Love the web site! Great navigation and product view!!</p>
+<p class="testimonial-attribution">M. Moreno<br><span class="testimonial-text-dt">March 6, 2012</span></p>
+</div>
+<div>
+<p>Good prices, nice products.</p>
+<p class="testimonial-attribution">J. Bishop<br><span class="testimonial-text-dt">March 6, 2012</span></p>
+</div>
+<div>
+<p>LOVE the Sandals! I think the site looks great and is very easy to navigate. Keep it up!</p>
+<p class="testimonial-attribution">P. Aldrich<br><span class="testimonial-text-dt">March 5, 2012</span></p>
+</div>
+<div>
+<p>Alec helped me get my account set tup and was great! I am very excited about all the items you offer and plan to always check here first before I do any shopping! Keep up the great work :)</p>
+<p class="testimonial-attribution">M. Welch<br><span class="testimonial-text-dt">March 3, 2012</span></p>
+</div>
+<div>
+<p>Awesome!</p>
+<p class="testimonial-attribution">S. Kuch<br><span class="testimonial-text-dt">March 2, 2012</span></p>
+</div>
+<div>
+<p>Great website! Thanks!!</p>
+<p class="testimonial-attribution">D. Shellenberger<br><span class="testimonial-text-dt">February 29, 2012</span></p>
+</div>
+<div>
+<p>I think GovX is a great idea and I think the products are of awesome quality. Thanks.</p>
+<p class="testimonial-attribution">A. Borasi<br><span class="testimonial-text-dt">February 28, 2012</span></p>
+</div>
+<div>
+<p>Great service. I love it! It's quick, easy, and readily available to order anytime! Thank you GOVX.com!!!!</p>
+<p class="testimonial-attribution">T. Davis<br><span class="testimonial-text-dt">February 28, 2012</span></p>
+</div>
+<div>
+<p>Awesome. Quicksilver and like brands would be a great addition.</p>
+<p class="testimonial-attribution">J. Saylor<br><span class="testimonial-text-dt">Februray 23, 2012</span></p>
+</div>
+<div>
+<p>Awesome! Thank you!</p>
+<p class="testimonial-attribution">D. Lamb<br><span class="testimonial-text-dt">February 21, 2012</span></p>
+</div>
+<div>
+<p>F****** AWESOME!!</p>
+<p class="testimonial-attribution">J. Marchack<br><span class="testimonial-text-dt">February 14, 2012 </span></p>
+</div>
+<div>
+<p>Thank you for being there for us! With frozen salaries and inflation rapidly rising, it’s tough to make ends meet. I will continue to patronize your company &amp; cannot wait to tell my fellow police officers how great you guys are. YOU ROCK!!</p>
+<p class="testimonial-attribution">T. Conti<br><span class="testimonial-text-dt">February 14, 2012 </span></p>
+</div>
+<div>
+<p>Wow- nice stuff cant wait to get it!</p>
+<p class="testimonial-attribution">J. Montes<br><span class="testimonial-text-dt">February 10, 2012 </span></p>
+</div>
+<div>
+<p>This is the first time that I have ordered from your site. I do like the variety so I will keep you posted as I explore more.</p>
+<p class="testimonial-attribution">J. Youngsma<br><span class="testimonial-text-dt">February 5, 2012 </span></p>
+</div>
+<div>
+<p>Big, big fan of your site, I like to shop in the mornings so I really can't began my day without looking it over! Thanks, be safe.</p>
+<p class="testimonial-attribution">K. Steill<br><span class="testimonial-text-dt">February 3, 2012 </span></p>
+</div>
+<div>
+<p>Thank you for providing this service to us, it is much appreciated.</p>
+<p class="testimonial-attribution">K. Meineke<br><span class="testimonial-text-dt">January 26, 2012 </span></p>
+</div>
+<div>
+<p>Thanks for your great service. I'll be looking forward to getting my new shades!</p>
+<p class="testimonial-attribution">S. Bennett<br><span class="testimonial-text-dt">January 26, 2012 </span></p>
+</div>
+<div>
+<p>Great Prices, Thanks!</p>
+<p class="testimonial-attribution">H. Galaz<br><span class="testimonial-text-dt">January 13, 2012 </span></p>
+</div>
+<div>
+<p>Thanks!</p>
+<p class="testimonial-attribution">N. Fatima<br><span class="testimonial-text-dt">January 9, 2012 </span></p>
+</div>
+<div>
+<p>Awesome site, thank you for hooking us up as always..</p>
+<p class="testimonial-attribution">J. Hakola<br><span class="testimonial-text-dt">January 5, 2012 </span></p>
+</div>
+<div>
+<p>This is my third time ordering from you guys! love it all! Thanks for the support and I love everything you guys do.</p>
+<p class="testimonial-attribution">J. Maginot<br><span class="testimonial-text-dt">January 1, 2012 </span></p>
+</div>
+<div>
+<p>Always an easy ordering process. Thanks again.</p>
+<p class="testimonial-attribution">S. Conboy<br><span class="testimonial-text-dt">December 31, 2011 </span></p>
+</div>
+<div>
+<p>Thanks for this site, I know the guys I work with really appreciate it. I personally think you guys are doing an awesome job!!</p>
+<p class="testimonial-attribution">B. Smith<br><span class="testimonial-text-dt">December 27, 2011 </span></p>
+</div>
+<div>
+<p>Great customer service!</p>
+<p class="testimonial-attribution">J. Mount<br><span class="testimonial-text-dt">December 21, 2011 </span></p>
+</div>
+<div>
+<p>Love the deals always happy to order from GovX.</p>
+<p class="testimonial-attribution">D. Beale<br><span class="testimonial-text-dt">December 21, 2011 </span></p>
+</div>
+<div>
+<p>Thank you so much for providing this service. Quality products, great selection, easy shopping and check-out at unbeatable prices.</p>
+<p class="testimonial-attribution">G. Molina<br><span class="testimonial-text-dt">December 20, 2011 </span></p>
+</div>
+<div>
+<p>Thank you!</p>
+<p class="testimonial-attribution">R. Switzer<br><span class="testimonial-text-dt">December 18, 2011 </span></p>
+</div>
+<div>
+<p>Great site. Keep it up. Thanks</p>
+<p class="testimonial-attribution">J. Lowe<br><span class="testimonial-text-dt">December 18, 2011 </span></p>
+</div>
+<div>
+<p>Love it so far, great deals. More brands!! Fitness gear?</p>
+<p class="testimonial-attribution">S. Bowers<br><span class="testimonial-text-dt">December 17, 2011 </span></p>
+</div>
+<div>
+<p>You are an incredible company. My friends and I in law enforcement appreciate your special pricing.</p>
+<p class="testimonial-attribution">D. Chavez<br><span class="testimonial-text-dt">December 16, 2011 </span></p>
+</div>
+<div>
+<p>So far, i've been more than pleased with all my buys..........and you or govx has surpassed my expectations on my purchases...................my new sun glass's are so beautiful!............</p>
+<p class="testimonial-attribution">M. Norris<br><span class="testimonial-text-dt">December 16, 2011 </span></p>
+</div>
+<div>
+<p>Great deal! Everything is right... Thanks</p>
+<p class="testimonial-attribution">D. Baker<br><span class="testimonial-text-dt">December 15, 2011 </span></p>
+</div>
+<div>
+<p>Excellent Lineup.</p>
+<p class="testimonial-attribution">G. Amith<br><span class="testimonial-text-dt">December 15, 2011 </span></p>
+</div>
+<div>
+<p>Super easy to use!! Thank You</p>
+<p class="testimonial-attribution">M. Newlin <span class="testimonial-text-dt">December 15, 2011 </span></p>
+</div>
+<div>
+<p>Love it!</p>
+<p class="testimonial-attribution">J. Lowe <span class="testimonial-text-dt">December 15, 2011 </span></p>
+</div>
+<div>
+<p>STOKED!!</p>
+<p class="testimonial-attribution">D. Behrens <span class="testimonial-text-dt">December 13, 2011 </span></p>
+</div>
+<div>
+<p>Your products look great it's a good start. Most fire/police hunt &amp; fish and have kids.</p>
+<p class="testimonial-attribution">M. Gardea <span class="testimonial-text-dt">December 14, 2011 </span></p>
+</div>
+<div>
+<p>Good Deal, Thanks!</p>
+<p class="testimonial-attribution">S. Bixler<br><span class="testimonial-text-dt">December 12, 2011 </span></p>
+</div>
+<div>
+<p>I'd love to see you carry some more brands. Ex.: Danner Boots, Benchmade Knives, Streamlight Flashlights, Maxpedition, Casio Gshock watches, Brunton gear, etc...</p>
+<p class="testimonial-attribution">C. Boekel<br><span class="testimonial-text-dt">December 12, 2011 </span></p>
+</div>
+<div>
+<p>You are doing very nicely. Please increase the number of companies you participate with.</p>
+<p class="testimonial-attribution">A.Bzik<br><span class="testimonial-text-dt">December 9, 2011 </span></p>
+</div>
+<div>
+<p>Fast and Painless Ordering Process!</p>
+<p class="testimonial-attribution">S. Conboy<br><span class="testimonial-text-dt">December 9, 2011 </span></p>
+</div>
+<div>
+<p>All of the staff who helped me were awesome! So glad I stumbled on to this site. Was able to successfully order a gift for my husband (secret service) as a surprise!</p>
+<p class="testimonial-attribution">Karen<br><span class="testimonial-text-dt">December 8, 2011 </span></p>
+</div>
+<div>
+<p>I LIKE THE SPEEDY SERVICE. VERY NICE!!!</p>
+<p class="testimonial-attribution">D. Alexander<br><span class="testimonial-text-dt">December 8, 2011 </span></p>
+</div>
+<div>
+<p>This is my second order, the first came in a quick and timely manner</p>
+<p class="testimonial-attribution">T. Turner<br><span class="testimonial-text-dt">December 7, 2011 </span></p>
+</div>
+<div>
+<p>Gee, that was so much fun Monday buying stuff, I had to do it again!</p>
+<p class="testimonial-attribution">C. Booth<br>December 1, 2011</p>
+</div>
+<div>
+<p>Great site. Easy to look at the different items. Thanks for the great deals</p>
+<p class="testimonial-attribution">N. Novosel<br><span class="testimonial-text-dt">December 1, 2011 </span></p>
+</div>
+<div>
+<p>Thank you for the prices for the sun glasses, I never thought I would get a pair of SPY's at this price, I really appreciate it.</p>
+<p class="testimonial-attribution">K. Cruz<br><span class="testimonial-text-dt">November 30, 2011 </span></p>
+</div>
+<div>
+<p>Love the website and the deals. I hope all goes well with the shipping. Keep up the great work. Thanks!!</p>
+<p class="testimonial-attribution">M. Gugel <br><span class="testimonial-text-dt">November 30, 2011 </span></p>
+</div>
+<div>
+<p>I think it is a great website and I am glad I got referred to this page, I use to pay hundreds of dollars for my favorite spy glasses and now i'm glad I can get a great deal for them, thank you so much</p>
+<p class="testimonial-attribution">F. Martinez <br><span class="testimonial-text-dt">November 30, 2011 </span></p>
+</div>
+<div>
+<p>One of the best web sites ever.</p>
+<p class="testimonial-attribution">M. Pacheco <br><span class="testimonial-text-dt">November 29, 2011 </span></p>
+</div>
+<div>
+<p>Oh wow, another wonderful product from GOVX. I can hardly wait to order something else tomorrow!!!</p>
+<p class="testimonial-attribution">C. Booth <br><span class="testimonial-text-dt">November 29, 2011 </span></p>
+</div>
+<div>
+<p>Great prices!!!</p>
+<p class="testimonial-attribution">R. Hanson <br><span class="testimonial-text-dt">November 28, 2011 </span></p>
+</div>
+<div>
+<p>Thank you VERY Much!!!</p>
+<p class="testimonial-attribution">A. Spear <br><span class="testimonial-text-dt">November 26, 2011 </span></p>
+</div>
+<div>
+<p>Thank you for offering great products. I look forward to more good brands in the future. Thank you.</p>
+<p class="testimonial-attribution">C. Yakura <br><span class="testimonial-text-dt">November 26, 2011 </span></p>
+</div>
+<div>
+<p>“Great site, great deals. Thank you!!!”</p>
+<p class="testimonial-attribution">M. Green <br><span class="testimonial-text-dt">November 21,2011 </span></p>
+</div>
+<div>
+<p>“I purchased a pair of flip flops and I love them. Best quality and most comfortable ever!”</p>
+<p class="testimonial-attribution">M. Heinonen <br><span class="testimonial-text-dt">November 19, 2011 </span></p>
+</div>
+<div>
+<p>“Thanks for the great deal. I will use you again in the future!”</p>
+<p class="testimonial-attribution">L. Mersereau <br><span class="testimonial-text-dt">November 17, 2011 </span></p>
+</div>
+<div>
+<p>“Shopping experience was awesome, customer service was even better.”</p>
+<p class="testimonial-attribution">M. Lay <br><span class="testimonial-text-dt">November 14, 2011 </span></p>
+</div>
+<div>
+<p>“Your customer service is outstanding. I worked with your customer service associate and she went over and above to help me find the googles I wanted and put up with my endless questions. Thank you for your site and services, I will recommend you to my fellow SAR and Firefighters!”</p>
+<p class="testimonial-attribution">D. Wehling <br><span class="testimonial-text-dt">November 10, 2011 </span></p>
+</div>
+<div>
+<p>“Your products look wonderful -- I love the description of each one. I can't wait to receive my sunglasses!”</p>
+<p class="testimonial-attribution">J. Brainard <br><span class="testimonial-text-dt">October 10, 2011 </span></p>
+</div>
+<div>
+<p>“Everything is perfect. Being a veteran and a law enforcement agent, I am very grateful for your program. Thank you”</p>
+<p>J. Chamorro <br><span class="testimonial-text-dt">October 8, 2011 </span></p>
+</div>
+<div>
+<p>“1st time ordering, thanks for your website.“</p>
+<p class="testimonial-attribution">M. Breuker <br><span class="testimonial-text-dt">October 5, 2011 </span></p>
+</div>
+<div>
+<p>“Thanks”</p>
+<p class="testimonial-attribution">C. Stanley <br><span class="testimonial-text-dt">October 3, 2011 </span></p>
+</div>
+<div>
+<p>“Great website! I like the fact that you only offer good quality products. Quality over quantity! Keep up the good work.”</p>
+<p class="testimonial-attribution">R. Snider <br><span class="testimonial-text-dt">October 3, 2011 </span></p>
+</div>
+<div>
+<p>“Great Service and response time! You guys rock! Board shorts in the future?? RVCA would join I’m sure”</p>
+<p class="testimonial-attribution">J. Judd <br><span class="testimonial-text-dt">October 1, 2011 </span></p>
+</div>
+<div>
+<p>“I think that this is an awesome site and I love that you guys are helping out the men and women of Fire, EMS, and Law enforcement. <br><br>Thanks again to all the brands on this site and GOVX!”</p>
+<p class="testimonial-attribution">R. Smith <br><span class="testimonial-text-dt">September 22, 2011 </span></p>
+</div>
+<div>
+<p>“The glasses are fantastic quality and all the people at the fire station truly appreciate all that you do for us with the discount you provide. Thanks”</p>
+<p class="testimonial-attribution">J. Gallegos <br><span class="testimonial-text-dt">September 20, 2011 </span></p>
+</div>
+<div>
+<p>“This site really is fantastic, I am a huge fan of what you do!”</p>
+<p class="testimonial-attribution">J. Maginot <br><span class="testimonial-text-dt">September 21, 2011 </span></p>
+</div>
+<div>
+<p>“The only thing I would like to see is more brands. I think what you do is awesome!”</p>
+<p class="testimonial-attribution">N. Gunty <br><span class="testimonial-text-dt">September 8, 2011 </span></p>
+</div>
+<div>
+<p>“As a fighter pilot, our community has worn though many styles and brands of sunglasses over the years, both on duty and off. Through GOVX I obtained a pair of Kaenon sunglasses. They are without a doubt one of the best I have ever worn! The optics are world class and they feel as if they were custom made for me. The fact that GOVX can provide these high end Kaenon's at the price they do is truly amazing! Thanks for what you do GOVX!”</p>
+<p class="testimonial-attribution">T.J. Mackie <br>"T-Mac" <br><span class="testimonial-text-dt">August 19, 2011 </span></p>
+</div>
+</div>
+</div>
+        </div>
+    </div>
+
+        
+    </blockquote></div>
 </div>
 
+            </div>
+            <script type="text/javascript">
+                function start() {
+                    $('#slides_heros').slides({
+                        effect: 'fade',
+                        play: 4000,
+                        pause: 5000,
+                        slideSpeed: 1500,
+                        hoverPause: true,
+                        generatePagination: true,
+                        pagination: true
+                    });
+                    $('#slides_testimonials').slides({
+                        effect: 'fade',
+                        play: 5000,
+                        pause: 10000,
+                        slideSpeed: 1250,
+                        hoverPause: true,
+                        generatePagination: false,
+                        pagination: false
+                    });
+                }
+                $(function () {
+                    start();
+                });
+            </script>
+            <script defer="" src="/Scripts/jquery.flexslider.js"></script>
+            <script type="text/javascript">
+                $(window).load(function () {
+                    $('.flexslider').flexslider({
+                        animation: "slide",
+                        start: function (slider) {
+                            $('body').removeClass('loading');
+                        }
+                    });
+                });
+            </script>
+        </div>
+        <div id="ftr-giveback">
+            <h2>GovX Gives Back</h2>
+            <p>We are proud to give back to those who sacrifice so much to protect and serve.</p>
+            <p>Support our community partners by shopping at GovX.com.</p>
+            <img src="/content/images/uploaded/giveback.png">
+            
+        </div>
+        
     </div>
-<script type="text/javascript">
-    //$(function () {
-    //    $('#defaultCountdown').countdown({ until: new Date(2012, 10 - 1, 23) });
-    //});
-</script>
+</div>
 
         
     
     
+    <img style="display:none" src="//api.nanigans.com/event.php?app_id=21802&amp;type=visit&amp;name=landing">
 
 
 </body></html>
