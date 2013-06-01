@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehoroscopesastrology.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103023246id_/http%3A//www.freehoroscopesastrology.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehoroscopesastrology.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601125309id_/http%3A//www.freehoroscopesastrology.com/privacy.aspx) for the most accurate reproduction.*
 
 # Free Horoscopes Astrology Privacy Policy
 
@@ -55,5 +55,3 @@ Your Responsibility
 You are responsible for the security of your account numbers and/or passwords. Make sure you keep them in a safe place and do not share them with others.
 
 Always remember to log out after your session ends, to ensure that others cannot access your private personal information. You should take this precaution even if you are not using a public computer, such as at a library or internet café, but even when using your private computer in your home.
-
-[ ](mailto:freehoroscopesastrology@millenniummultimedia.net)
