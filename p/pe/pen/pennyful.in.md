@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the pennyful.in privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225113922id_/http%3A//www.pennyful.in/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennyful.in privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602001303id_/http%3A//www.pennyful.in/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy Pennyful.in , Coupon Codes , Cashback Offers
+# Privacy Policy - Pennyful.in
 
-[ ](http://www.pennyful.com/)Privacy & Policy
-
-This privacy statement describes how Eze Get Online Technologies LLP collects and uses the personal information you provide on our Web site: [ www.pennyful.in](http://www.pennyful.in/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  
+This privacy statement describes how Pennyful Online Pvt Ltd collects and uses the personal information you provide on our Web site: [ www.pennyful.in](http://www.pennyful.in/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  
 If you have questions or concerns regarding this policy, you should contact us at [customercare@pennyful.in](mailto:customercare@pennyful.in). 
 
 **Why we collect personal information**
@@ -60,7 +58,7 @@ We may also disclose your personal information
 
   * as required by law such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if Eze Get Online Technologies LLP is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * if Pennyful Online Pvt Ltd is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
   * to any other third party with your prior consent to do so. 
 
 
@@ -77,7 +75,7 @@ We use a third party to gather information about how you and others use our Web 
 
 Links to Other Web Sites
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Eze Get Online Technologies LLP. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+Our Site includes links to other Web sites whose privacy practices may differ from those of Pennyful Online Pvt Ltd. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
 
 **Security**
 
@@ -105,13 +103,14 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-Eze Get Online Technologies LLP
+Pennyful Online Pvt Ltd.
 
-#45, 39th Cross, 8th Block, 
+Yadalam Heritage,# 54, 3rd Floor, 
 
-Jayanagar, Bangalore  560082 
+Vani Vilas Road, Basavanagudi, 
+
+Bangalore –560004. 
 
 Karnataka, India
 
-Phone: +91 80 65835328   
-+91 8884123440 
+Phone: +91 80 26673088 
