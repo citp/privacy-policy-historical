@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the photovisi.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122043150id_/http%3A//www.photovisi.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photovisi.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601025806id_/http%3A//www.photovisi.com/index/privacy) for the most accurate reproduction.*
 
 # Photovisi - Photo Collage Maker
 
+All collages you make are private by default and not visible to anyone else except yourself. Only when you have an account and check the 'Publish to gallery' option when saving your collage, we may publish your collage in our gallery.
+
+For users who might be concerned about losing ownership rights on the photos or other content uploaded to our site: You retain all rights on content uploaded or submitted to us. The output of our collage tool (the collage image) is the sole property of Photovisi. (see Section 6 on 'Intellectual Property Information').
+
 ## What information do we collect?
 
-Nyana ("Photovisi", "we," "us," "our") collects information from you when you register on our site or place an order.
+Photovisi B.V. ("Photovisi", "we," "us," "our") collects information from you when you register on our site or place an order.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or credit card information. You may, however, visit our site anonymously.
 
