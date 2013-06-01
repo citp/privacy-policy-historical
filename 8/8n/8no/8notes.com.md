@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8notes.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227035853id_/http%3A//8notes.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8notes.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601235427id_/http%3A//www.8notes.com/help/privacy.asp) for the most accurate reproduction.*
 
 # 8notes.com Privacy Policy
 
@@ -42,12 +42,3 @@ By using our web site, you consent to the collection and use of this information
 8notes.com welcomes your questions and comments about privacy. Please send e-mail to [admin@8notes.com](mailto:admin@8notes.com). 
 
 Top of Page
-
-|    
-  
-  
-   [Composition Competitions](http://www.compositiontoday.com/)  
-   [UK Writers' Community](http://www.writewords.org.uk/)  
-   [Ram Upgrades](http://www.codetoad.com/store/ram-memory/)  
-   [CodeToad](http://www.codetoad.com/)   
-
