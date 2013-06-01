@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianbeauties.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204090643id_/http%3A//www.asianbeauties.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianbeauties.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601061020id_/http%3A//www.asianbeauties.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -90,8 +90,6 @@ Children under eighteen years of age are prohibited from using Our Websites. We 
 AsianBeauties.com may periodically send you email messages describing updates, new features, or promotional offers related to this Web site. You can choose to stop receiving this email at any time.
 
 To unsubscribe follow the instructions at <http://unsubscribe.asianbeauties.com/> or email us at [unsubscribe@AsianBeauties.com](mailto:unsubscribe@asianbeauties.com). You can also follow the 'unsubscribe' instructions and link provided with each email or as we otherwise provide.
-
-Also you can send mail to the following postal address letting us know which promotional e-mails you wish to opt-out of:
 
 ## III. Access
 
