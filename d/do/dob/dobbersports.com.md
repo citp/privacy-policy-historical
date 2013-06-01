@@ -1,100 +1,62 @@
-> *The following text is extracted and transformed from the dobbersports.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dobbersports.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601101256id_/http%3A//www.dobberhockey.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D2970%253Aprivacy-policy%26catid%3D7%253Aexamples%26Itemid%3D1) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+**Privacy Policy**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
-
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
-
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
-
-**Information Collection and Use**
-
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
-
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
-
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
-
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
-
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
-
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
-
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+DobberHockey has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for all ‘Dobber’ Web sites (DobberHockey.com and DobberBaseball.com).
 
 **Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. We take the security issue very seriously and will always do our best to protect our visitors. However, no security mechanism is perfect and all visitors must understand that there are always risks that the personal information you send to DobberHockey may be intercepted by others through no fault of our own. DobberHockey is not responsible for such security breaches so long as it is not due to negligence on our part.
 
-**Updating Your Information**
+**What information does our web site collect from you?**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Under some circumstances, DobberHockey requires that you submit your name, mailing address, and certain other personal information when filling out our registration form. However, any time that DobberHockey wishes to collect such information, you will be warned in advance. DobberHockey will always allow you to view the information that we have on file about you. You will also be able to make changes (eg. Address changes) to your profile whenever you like. Please e-mail [admin@dobberhockey.com](mailto:admin@dobberhockey.com) for any such requests.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**Why does our site need this information?**
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Collecting this data allows us to quickly and easily contact you. For example, we may need to notify you of technical issues, or if you win a prize using one of our sites. If you like, we can also keep you informed of new products and services being offered by DobberHockey, but we will always give you the choice of whether you wish to receive this type of information or not via an ‘opt out’. You can opt out by removing your email address from “Your Details”, or by emailing [admin@dobberhockey.com](mailto:admin@dobberhockey.com)
 
-      iii.      You may call us at: (480) 505-8800
+DobberHockey would like to make it clear that none of our advertisers, clients, or partners have access to your personal data. In addition, DobberHockey will never disclose your personal data to any outside party without your knowledge and consent except under the most exceptional circumstances such as: police authorities force us to by law/warrant; it is required for DobberHockey to protect ourselves against actions taken against us which threaten our rights and/or property, or those of our visitors, clients, partners, advertisers, or retailers.
 
-       iv.      You may fax us at: (480) 505-8844
+Our sites provides users the opportunity to opt-out of receiving promotional/marketing information from us by sending email to [admin@dobberhockey.com](mailto:admin@dobberhockey.com) or by removing your email address from the “Your Details” section of the site.
 
-**Sending Emails**
+**External Links**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Dobber Web sites contain links to other sites. Clicking on any of these links will take you away from our site. DobberHockey is not responsible for the privacy practices or the content of such Web sites. Any personal information that you submit to these sites are subject only to the privacy policies that they offer. DobberHockey is not responsible for privacy breakdowns which occur on other sites.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+**Public Forums**
 
-**Compliance with Laws and Law Enforcement**
+DobberHockey.com and DobberBaseball.com each contain a forum/message board. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose any personal information. DobberHockey is not responsible for privacy breakdowns which occur on public forums.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**Children**
 
-**Third Party Service Providers**
+Currently, all Dobber Web sites are available to any and all visitors, and we do not exclude anyone from using our sites based on their age (which we usually don't know anyway). However, if we notice that a minor has sent us any private information through one of our sites, we would try, if possible, to inform the minor's parents by e-mail that their child had done so.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+**Cookies**
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+A cookie is information that a Web site puts on your hard disk so that it can remember something about you at a later time. For example, if you are visiting a site that offers you the choice of French or English text, cookies can be used to remember your choice for the next time that you visit the site. Our advertising agent uses cookies to keep a record of the ad banners that have been ‘served' to you so that you will not see the same ads over and over.
 
-**Supplementation of Information**
+The use of cookies has become standard practice in the world of Internet browsing. Browsers often come already setup to accept them. Cookies are harmless. You can view the cookies that have been stored on your hard disk (although the content stored in each cookie may not make much sense to you). The location of the cookies depends on the browser. Internet Explorer stores each cookie as a separate file under a Windows subdirectory. Netscape stores all cookies in a single cookies.txt file. You always have control over the cookies in your computer. You can delete them, or change your preferences to not allow the use of cookies in your computer at all. This will limit the options available to you on certain sites, and will exclude you from using certain sites that require cookies to operate properly.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+DobberHockey uses cookies to send information which might be useful to our marketing service, and to deliver content specific to your interests, for example, it is by using cookies that DobberHockey saves your user name, which means that you don't need to re-enter it each time you visit our site and want to post in the forum.
 
-**Contests/Surveys**
+**Reservation of Rights**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+DobberHockey reserves the right to modify our privacy policies. We suggest that you check this privacy statement from time to time to verify our position on privacy. That being said, the spirit of this statement will never change; we will always take the privacy issue seriously and will always do whatever is necessary to protect our visitors', clients', and affiliates' privacy.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+If you have any questions about this privacy statement, the practices of Dobber web sites, or your dealings with those Web sites, you can contact us by email at: [admin@dobberhockey.com](mailto:admin@dobberhockey.com).
 
-**Tell-A-Friend**
+  
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-**What Happens to my Personal Information if I Opt Out?**
+Write comment
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Comments 
 
-**Transfer of Data Abroad**
+You must be logged in to post a comment. Please register if you do not have an account yet.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+  
+|  [< Prev](http://hockey.dobbersports.com/index.php/home-mainmenu-1/7-examples/2971-refund-policy) |    |  [Next >](http://hockey.dobbersports.com/index.php/home-mainmenu-1/7-examples/10-faq1)  
+---|---|---
