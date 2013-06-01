@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the thanks4follow.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014081912id_/http%3A//thanks4follow.com/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thanks4follow.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602002215id_/http%3A//thanks4follow.com/en/policy) for the most accurate reproduction.*
 
-# Thanks4Follow : The Twitter tool for new followers welcome message (twelcome)
-
-## Thanks4follow Privacy Policy
-
-This privacy policy sets out how Thanks4follow uses and protects any information that you give Thanks4follow when you use this website. Thanks4follow ensure that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Thanks4follow may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
-
-This policy is effective from 04 April 2011.
+# Thanks4Follow : Thanks4follow Privacy Policy
 
 We collect the following information:
 
