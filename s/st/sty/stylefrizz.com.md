@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stylefrizz.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920042300id_/http%3A//stylefrizz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylefrizz.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601231020id_/http%3A//stylefrizz.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — StyleFrizz
+# Privacy Policy - StyleFrizz
 
 Thank you for visiting _Stylefrizz_. The information we collect here (your personally identifiable information – name, e-mail address) enable us to provide you with the type of service you require (comments or subscriptions) and communicate with you (newsletters or contact).
 
