@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the austrian.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231094157id_/http%3A//www.austrian.com/Info/LegalRegulations/DataProtection.aspx%3Fsc_lang%3Den%26cc%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austrian.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601020148id_/http%3A//www.austrian.com/Info/LegalRegulations/DataProtection.aspx%3Fsc_lang%3Den%26cc%3DUS) for the most accurate reproduction.*
 
 # Privacy Policy
+
+##  Protecting your data takes top priority with us 
 
 **Protecting your data is important to us** Booking a ticket online? Applying for a job with us? Ordering our newsletter or checking in for your next flight online? 
 
@@ -86,4 +88,4 @@ We make use of the Adobe Online Marketing Suite powered by Omniture to store web
 **  
 Upon request we will inform you whether or not your personal data have been stored with us, respectively what kind of data those are. Should the information stored be false despite our efforts to maintain accuracy and currentness of data, we will correct the data upon your request. 
 
-You have the right to information on and the correction or deletion of stored personal data under the provisions of the Austrian Data Protection Act (in particular §§ 26 – 28 DSG 2000) at any time.
+You have the right to information on and the correction or deletion of stored personal data under the provisions of the Austrian Data Protection Act (in particular §§ 26 – 28 DSG 2000) at any time. 
