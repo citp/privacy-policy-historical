@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebuxer.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128182602id_/http%3A//ebuxer.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuxer.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601093456id_/http%3A//ebuxer.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
 
 # eBuxer.com : Privacy
 
