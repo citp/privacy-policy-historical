@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plaingreenloans.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225125947id_/http%3A//www.plaingreenloans.com/faq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plaingreenloans.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601234649id_/http%3A//www.plaingreenloans.com/faq/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Plain Green Loans
 
@@ -198,13 +198,6 @@ Federal law gives you the right to limit only
 
 •         Sharing for nonaffiliates to market to you  
   
-**What happens when I limit sharing  
-for an account I hold jointly with someone else?**
-
-| 
-
-Your choices will apply to everyone on your account.  
-  
 |  |   
   
 **Definitions**  
@@ -233,4 +226,10 @@ Financial and nonfinancial companies not related by common ownership or control.
 
 A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
 
-•           _Our joint marketing partners include financial institutions, credit card companies, partners that promote our products,   pre-paid debit card providers and other lending companies._
+•           _Our joint marketing partners include financial institutions, credit card companies, partners that promote our products,   pre-paid debit card providers and other lending companies._  
+  
+**Other Important Information**  
+  
+---  
+  
+As part of our credit underwriting and information collection process, we will consider bank account information provided by you and we may detect additional bank accounts under your ownership. We also may collect and consider information about you from non-credit reporting agency data providers, including, for example, information about your location and the location of your mobile devices, and publicly available information about you.
