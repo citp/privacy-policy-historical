@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxdps.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031032849id_/http%3A//www.maxdps.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxdps.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602090604id_/http%3A//www.maxdps.com/privacy.php) for the most accurate reproduction.*
 
 # MaxDPS.com - News
 
@@ -15,7 +15,6 @@ The information we collect is used for internal review and is then discarded, us
 With respect to cookies: We use cookies to store visitors preferences.
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-http://www.game-advertising-online.com/?section=doc&action=terms  
 http://www.neverblueads.com/signup/terms.html  
 https://www.clickbank.com/privacy.html 
 
