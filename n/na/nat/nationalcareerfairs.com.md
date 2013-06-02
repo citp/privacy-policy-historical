@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationalcareerfairs.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920004904id_/http%3A//nationalcareerfairs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalcareerfairs.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602041013id_/http%3A//www.nationalcareerfairs.com/privacy_policy) for the most accurate reproduction.*
 
-# National Career Fairs
+# National Career Fairs Privacy Policy
 
 This is the web site of **National Career Fairs**.
 
