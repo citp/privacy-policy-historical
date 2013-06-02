@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the justnaturalskincare.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231210726id_/http%3A//www.justnaturalskincare.com/customer/privacy_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justnaturalskincare.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602140531id_/http%3A//justnaturalskincare.com/customer/privacy_security.html) for the most accurate reproduction.*
 
 # Privacy & Security - Ordering - Payments - Returns - Shipping - JustNaturalSkinCare.com
 
-[](https://web.archive.org/web/20121231210726id_/http%3A//www.justnaturalskincare.com/index.html)
+[](https://web.archive.org/web/20130602140531id_/http%3A//justnaturalskincare.com/index.html)
 
-[](https://web.archive.org/web/20121231210726id_/http%3A//www.justnaturalskincare.com/customer/verisign-information.html)
+[](https://web.archive.org/web/20130602140531id_/http%3A//justnaturalskincare.com/customer/verisign-information.html)
 
 Just Natural **  Organic Care  
 **
@@ -41,7 +41,7 @@ If you have a question we are here to help.
 
 Leave us a detailed email message by clicking here 
 
-[**COMMENTS / QUESTIONS**](https://web.archive.org/web/20121231210726id_/http%3A//www.justnaturalskincare.com/questions-comments.html) We'll respond as soon as possible to help you with your concerns. **All JustNatural products are proudly made in the USA  
+[**COMMENTS / QUESTIONS**](https://web.archive.org/web/20130602140531id_/http%3A//justnaturalskincare.com/questions-comments.html) We'll respond as soon as possible to help you with your concerns. **All JustNatural products are proudly made in the USA  
 **
 
 **How we use your Information?  
@@ -82,6 +82,12 @@ sockets layer encryption technology.
 
 _How we use your information  
 _
+
+We do not sell, rent, or otherwise provide personally identifiable information to third parties.
+
+By placing an order, you agree that we may send you service or promotional communications through email   
+and notices. Generally we send out a special offer once every 3 months or so. The frequency is subject to   
+change. Please email or call us if you do not wish to receive promotional offers or newsletters.
 
 We  collect  your e-mail address when you place an order, if you enter a contest or if you volunteer to join our   
 Newsletter.  This address is used primarily to communicate with you about your order.  We also periodically   
