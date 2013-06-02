@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectstormblueprint.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027170604id_/http%3A//perfectstormblueprint.com/%3Fpage_id%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectstormblueprint.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602075517id_/http%3A//perfectstormblueprint.com/%3Fpage_id%3D11) for the most accurate reproduction.*
 
 # Privacy Policy |
 
