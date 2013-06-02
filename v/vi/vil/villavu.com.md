@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the villavu.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227103534id_/http%3A//villavu.com/index.php%3Fpageid%3Dpstatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villavu.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602055441id_/http%3A//villavu.com/forum/content.php%3Fr%3D5-Privacy) for the most accurate reproduction.*
 
-# SRL Forums / Villavu - Privacy Statement
+# SRL | Forums - Privacy Policy
 
 **_What information do we collect?_**
 
@@ -11,7 +11,8 @@ We collect information from you when you register on our site. When registering 
   * Email Address
   * Date of birth
 
-  
+
+
 Any information that is provided in addition to the aforementioned will be completely optional and up to the user. 
 
 We also log the IP address of all users that register and log into our forum as a security measure. We will not publicly display these addresses and only staff members are able to view them. We may also collect anonymous data such as what browser is used, which threads are viewed, etc.
@@ -24,9 +25,9 @@ Any of the information we collect from you may be used in one of the following w
 
   * To enforce our terms and conditions, and prevent or detect hacking activities, security breaches or safety risks in connection with our websites  
 
-  * To process transactions
+  * To process transactions 
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
   * Register a user account on our forums  
 
@@ -36,12 +37,13 @@ Any of the information we collect from you may be used in one of the following w
 
   * To disclose information to the extent required by law, court order, as requested by other government, regulatory or law enforcement authority, to protect or assist in protecting our users, systems or the public, or to otherwise enforce legal rights as determined in our sole and absolute discretion  
 
-  * To send periodic emails
+  * To send periodic emails 
 
-> The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
 
-  
+
+
 **_How do we protect your information?_**
 
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
@@ -94,4 +96,4 @@ If for data protection purposes you are concerned that the personally identifiab
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 [http://www.villavu.com](http://www.villavu.com/)  
-admins@villavu.com 
+[admins@villavu.com](mailto:admins@villavu.com)
