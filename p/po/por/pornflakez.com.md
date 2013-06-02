@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornflakez.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222174619id_/http%3A//arrangementfinders.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornflakez.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602103241id_/http%3A//arrangementfinders.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Arrangement Finders
 
@@ -101,4 +101,5 @@ Arrangement Finders Inc.
 
 (DBA Arrangement Finders)   
 20 Eglinton Ave West, Suite 1200  
-Toronto, ON Canada M4R 1K8 
+Toronto, ON Canada M4R 1K8   
+1-877-840-7976 
