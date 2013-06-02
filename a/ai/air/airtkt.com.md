@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtkt.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230211331id_/http%3A//www.airtkt.com/privacy-policy-AirTkt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtkt.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602161844id_/http%3A//www.airtkt.com/privacy-policy-AirTkt) for the most accurate reproduction.*
 
 # Privacy Policy, Flights, Airline Tickets, Cheap Flights, Last Minute Flights - AirTkt
 
@@ -143,7 +143,7 @@ If you have questions or concerns about our privacy policy (or your travel progr
 **Office Hours:**  
 8.00 AM to 6.00 PM Monday to Friday (Pacific Time)  
 9.00 AM to 1.00 PM Saturday (Pacific Time)  
-Customer support 24x7 
+Customer support 24/7 
 
 [](https://web.archive.org/privacy-policy-AirTkt#top)
 
