@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the football411.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226141709id_/http%3A//www.football411.com/story/0%2C22162%2C14841_3796751%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football411.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602221233id_/http%3A//www.football411.com/story/0%2C22162%2C14841_3796751%2C00.html) for the most accurate reproduction.*
 
 # Football365.co.za - Privacy Policy
 
