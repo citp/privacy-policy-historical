@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embedr.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231172728id_/http%3A//embedr.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embedr.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602100417id_/http%3A//embedr.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Embedr, Create Custom Video Playlists
 
@@ -22,4 +22,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [support@embedr.com](mailto:support@embedr.com). 
+Should you have other questions or concerns about these privacy policies, please [contact us](http://embedr.com/contact).
