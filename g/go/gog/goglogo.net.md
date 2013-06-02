@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goglogo.net privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615005343id_/http%3A//goglogo.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goglogo.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602165735id_/http%3A//goglogo.net/privacy) for the most accurate reproduction.*
 
 # Privacy | Goglogo
 
