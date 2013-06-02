@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosperent.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110153604id_/http%3A//prosperent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosperent.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602194817id_/http%3A//prosperent.com/privacy) for the most accurate reproduction.*
 
 # Prosperent - Privacy Policy
 
@@ -18,7 +18,7 @@ Our mission is to build users' trust and confidence in the Internet by promoting
 
 
 
-If you have questions or concerns regarding this policy, you should contact Prosperent by email to privacy@prosperent.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact Prosperent by mail at 31 E Platte Ave, Suite 200 Colorado Springs, CO 80903\. If you are not a member of Prosperent (an advertiser or affiliate who has registered with Prosperent to do business with Prosperent) please see our [Prosperent Privacy Policy for Performance Ads](https://web.archive.org/privacy/performanceads).
+If you have questions or concerns regarding this policy, you should contact Prosperent by email to privacy@prosperent.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact Prosperent by mail at 3200 Brighton Blvd, Suite 112 Denver, CO 80216\. If you are not a member of Prosperent (an advertiser or affiliate who has registered with Prosperent to do business with Prosperent) please see our [Prosperent Privacy Policy for Performance Ads](https://web.archive.org/privacy/performanceads).
 
 Information collection and use
 
@@ -61,6 +61,6 @@ Contacting Prosperent
 If you have any questions about this privacy policy, the practices of this website, or your dealings with this website, please email us at privacy@prosperent.com or you may send correspondence to the following address:
 
 Prosperent, Inc  
-31 E Platte Ave, Suite 200  
-Colorado Springs, CO  
-80903
+3200 Brighton Blvd, Suite 112  
+Denver, CO  
+80216
