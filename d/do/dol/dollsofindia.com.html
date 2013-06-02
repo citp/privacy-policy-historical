@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dollsofindia.com privacy policy that was archived on 2012-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121201130804id_/http%3A//www.dollsofindia.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dollsofindia.com privacy policy that was archived on 2013-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602173944id_/http%3A//www.dollsofindia.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope="" itemtype="http://schema.org/Product"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
@@ -21,10 +21,12 @@
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
 	
 	<link rel="image_src" href="http://www.dollsofindia.com/images/products/sari/baluchari-sari-EE04_l.jpg">
-	<link rel="stylesheet" type="text/css" href="/includes/css/styles.css?0013">
+	<link rel="stylesheet" type="text/css" href="/includes/css/styles.css?0032">
+	<link rel="stylesheet" type="text/css" href="/includes/css/zocial.css">
 	
 	
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
+		loggedin=false;
 		activeMaincategory='';
 		activeSubcategory='';
 		activeSearchfor='';
@@ -36,12 +38,18 @@
 	<script type="text/javascript" src="/includes/js/jquery.form.js"></script>
 	<script type="text/javascript" src="/includes/js/jquery.validate.min.js"></script>
 	
-	<script type="text/javascript" src="/includes/js/common.js?0005"></script>
+	<script type="text/javascript" src="/includes/js/common.js?0012"></script>
 	<script type="text/javascript" src="/includes/js/events.js"></script>
 	
-	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=dollsofindia"></script>
+	<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=dollsofindia"></script>
 
 	<script type="text/javascript">
+		var addthis_config = {
+			services_exclude: "email,print,favorities",
+			data_ga_property: "UA-1304679-1",
+			data_ga_social: true
+		};
+		
 		(function() {
 			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
 			po.src = 'https://apis.google.com/js/plusone.js';
@@ -54,10 +62,34 @@
 	_gaq.push(['_trackPageview']);
 	
 </script>
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#appId=140864872593265&amp;xfbml=1"></script></head>
+</head>
 
 <body>
 	<div id="fb-root"></div>
+	<script>
+	  // Additional JS functions here
+	  window.fbAsyncInit = function() {
+		FB.init({
+		  appId      : '129767630371974', // App ID
+		  channelUrl : '//www.dollsofindia.com/channel.html', // Channel File
+		  status     : true,
+		  cookie     : true,
+		  xfbml      : true
+		});
+
+		// Additional init code here
+
+	  };
+
+	  // Load the SDK Asynchronously
+	  (function(d){
+		 var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+		 if (d.getElementById(id)) {return;}
+		 js = d.createElement('script'); js.id = id; js.async = true;
+		 js.src = "//connect.facebook.net/en_US/all.js";
+		 ref.parentNode.insertBefore(js, ref);
+	   }(document));
+	</script>
 	<div id="ajaxLoader">
 		<img src="/images/ajax-loader.gif" alt="Please wait..." title="Please wait..." style="width: 42px; height: 42px; border: none;">		<br>
 		Please wait...
@@ -76,7 +108,7 @@
 			<div id="headerSearch">
 				<form action="/search.php" method="get" id="searchForm">
 					<div id="headerSearchForm">
-						<input type="text" name="q" id="searchForm_q" value="" title="Enter Search Term" autocomplete="off" style="color: rgb(202, 202, 202);">
+						<input type="text" name="q" id="searchForm_q" value="" title="Enter Search Term" placeholder="Search for" autocomplete="off" style="color: rgb(202, 202, 202);">
 						<select name="maincategory" id="searchForm_searchcats" title="Choose Product Category">
 							<option value="" selected="">All Products</option>
 							<option value="paintings">Paintings</option>
@@ -103,13 +135,177 @@
 		<div class="headerBoxes" style="float: right">
 			<div id="headerAccountLinks">
 				<span class="rightborder"><a href="/account/new/" title="Sign up" class="common_signuplink">Sign up</a></span>
-				<span><a href="/account/loginshow/" title="Sign in" id="common_signinlink">Sign in</a></span>
+				<span><a href="/account/loginshow/" title="Sign in" class="common_signinlink">Sign in</a></span>
 			</div>
 			<div id="headerCart" class="sprite headerboxes"><a href="/cart/" title="Shopping Cart">Shopping Cart (0)</a></div>
 			<div id="headerFavorites" class="sprite headerboxes"><a href="/favorites/" title="Favorites">Favorites (0)</a></div>
 		</div>
 	</div>
-	
+	<div id="pageBody">
+		<div class="breadcrumb"><a href="/">Home</a></div>
+		<div class="lineclear" style="height: 5px;"></div>
+		<div class="pageColumnLeft pageColumnMain_2">
+<div class="headerSocial">
+						<div class="headerSocialItems">
+							<div class="social">
+								<div style="float: left">
+									<div style="float: left; margin-top: 8px; margin-right: 15px;">
+										<fb:like href="http://www.dollsofindia.com/privacy/" send="true" layout="button_count" show_faces="true" font="trebuchet ms" action="like"></fb:like>
+									</div>
+									<div style="float: left; margin-top: 8px; margin-right: 40px;">
+										<a data-pin-config="beside" href="//pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.dollsofindia.com%2Fprivacy%2F&amp;media=http%3A%2F%2Fwww.dollsofindia.com%2Fimages%2Fproducts%2Fsari%2Fbaluchari-sari-EE04_l.jpg&amp;description=Find+affordable+Indian+art+items+like+Hindu+brass+statues%2C+wooden+sculptures+and+masks.+Our+Indian+paintings+feature+Hindu+and+Buddhist+paintings+in+various+styles+like+Batik%2C+Miniature%2C+Madhubani%2C+Kalamkari.+We+also+showcase+reprints+of+paintings+on+paper+and+other+paper+reprints+and+posters.+We+feature+Saris%2C+Salwaar+Kameez%2C+matching+Costume+Jewelry%2C+Bindis%2C+Bags+and+Belts.+Also+available+are+books+on+Hindu+religion%2C+pocket+Gita%2C+Indian+comics+and+philosophy+books." data-pin-do="buttonPin"><img border="0" src="//assets.pinterest.com/images/pidgets/pin_it_button.png"></a>
+									</div>
+									<div style="float: left; margin-top: 6px;">
+										<g:plusone size="standard" annotation="bubble" href="http://www.dollsofindia.com/privacy/"></g:plusone>
+									</div>
+								</div>
+								<div class="addthis_toolbox addthis_default_style addthis_20x20_style" style="float: left; margin-top: 8px">
+									<a class="addthis_button_email"></a>
+									<a class="addthis_button_favorites"></a>
+									<a class="addthis_button_print"></a>
+									<a class="addthis_counter addthis_pill_style"></a>
+								</div>
+
+							<div class="lineclear"></div>
+							</div>
+						</div>
+						<div class="lineclear"></div>
+					</div>
+		<!-- CONTENTSTART -->	<h1 class="pageTitle">Privacy Policy</h1>
+	<div class="textContent">
+		<p>DollsOfIndia is committed to respecting and protecting your personal privacy. Our Privacy Policy and your control over the information you provide us is outlined below.</p>
+		<h3>INFORMATION COLLECTED FROM YOU OR YOUR COMPUTER</h3>
+		<ul>
+			<li>You can visit our site and use many of our services without having to tell us who you are or reveal any personally identifiable information to us. It is only when you buy items from our site,  make specific queries from us or leave reviews for items or articles on our website, through our website or through direct emails to any e-mail address, ending with @dollsofindia.com, that you will be asked to provide us with personally identifiable information.</li>
+			<li>Whenever you visit DollsOfIndia, our web server logs automatically receive and record anonymous information from your web browser including your IP Address, Referring page, the DollsOfIndia page(s) you request, and any search terms you query in our site.</li>
+			<li>DollsOfIndia uses this anonymous information to customize your experience on our site, maintain computer-specific shopping carts and to improve our services. We ordinarily do not attempt to link this information to a specific person, with certain important exceptions.</li>
+			<li>By providing us with personally identifiable information, you agree to receive communication from our end, which may or may not be limited to the resolution of a query posed by you. Please take a look at the <b>INFORMATION REMOVAL OR UPDATION</b> section below for asking us to remove you from our mailing/services database.</li>
+			<li>DollsOfIndia uses personally identifiable information for three main purposes: to fulfill your orders for our products, to tell you about special offers and new products and services, and to send you articles of cultural interest. Regular sending of emails, (in the form of newsletters) will be limited to users who have signed up as members or have placed an order with us.</li>
+		</ul>
+		<h3>INFORMATION REMOVAL OR UPDATION</h3>
+		<ul>
+			<li>Users, whose email/contact information are with us, may choose not to receive any future mailings/services from us by visiting <a href="http://dollsofindia.us5.list-manage1.com/unsubscribe?u=2a5a9fedb007a2718c4a7b4d0&amp;id=0905869123">this link</a> or by writing to <a href="mailto:unsubscribe@dollsofindia.com"><b>unsubscribe@dollsofindia.com</b></a>. You may also contact us at our address or phone number provided below. By writing in to us you can:
+				<ul>
+					<li>Request us to remove any personally identifiable information with us. This also implies that there cannot be any form of checking from our side to any future subscriptions to our services/mailings to contact addresses (physical or email) which points to you.</li>
+					<li>Request us to block any future mailings to your contact addresses (physical or email).</li>
+				</ul>
+			</li>
+			<li>Users, whose email/contact information are with us, may choose to update their contact information with us by writing to <a href="mailto:info@dollsofindia.com"><b>info@dollsofindia.com</b></a>. You may also contact us at our address or phone number provided below.</li>
+		</ul>
+		<h3>PRIVACY OF INFORMATION</h3>
+		<ul>
+			<li>DollsOfIndia will not share personally identifiable information with other companies or individuals unless:
+				<ul>
+					<li>We have your express permission to share the information</li>
+					<li>We need to share your information with any of our partner companies/individuals in order to provide a product or service that you have requested. Unless we tell you otherwise, these partners do not have the right to use your personal information we share with them beyond what is necessary to deliver your requested product or service.</li>
+					<li>We comply with subpoenas or court orders</li>
+				</ul>
+			</li>
+			<li>Except as we've just explained above, DollsOfIndia will not sell or disclose your personally identifiable information to anyone.</li>
+		</ul>
+		<h3>INFORMATION SECURITY</h3>
+		<ul>
+			<li>DollsOfIndia has security measures in place to protect the loss, misuse and alteration of the information under our control.</li>
+			<li>DollsOfIndia and its partner electronic payment gateway collects all financial information required for Billing in a 256 bit <b>SSL Secure Environment</b>.</li>
+		</ul>
+		<h3>PRIVACY POLICY MODIFICATIONS</h3>
+		<ul>
+			<li>DollsOfIndia may modify its privacy policy from time to time. The responsibility of updating your knowledge about the same rests with you and the same can be done by visiting this page at regular intervals.</li>
+		</ul>
+		<h3>DOLLSOFINDIA CONTACT INFORMATION REGARDING CONCERNS</h3>
+		<ul>
+			<li>To request for unsubscription OR removal from our customer database: <a href="mailto:unsubscribe@dollsofindia.com"><b>unsubscribe@dollsofindia.com</b></a></li>
+			<li>To request for modification or updation of customer information: <a href="mailto:info@dollsofindia.com"><b>info@dollsofindia.com</b></a></li>
+			<li>To request for clarifications on our privacy policy: <a href="mailto:info@dollsofindia.com"><b>info@dollsofindia.com</b></a></li>
+			<li>You may write to our physical address with any of the requests above. Write to:<br>
+<b>Madhuri Guin<br>
+        P3B-085, Princeton Estate<br>
+        DLF City Phase V<br>
+        Gurgaon<br>
+        Haryana 122 009<br>
+INDIA</b></li>
+			<li>You may contact us on our phone number : <b>+91-9810045075</b>.</li>
+		</ul>
+	</div>
+		<!-- CONTENTEND --></div><!-- pageColumn finishes -->
+		<div class="pageColumnRight">
+			<div class="socialFollowIcons">
+				<div class="title">Follow us</div>
+				<a class="zocial facebook icon" style="font-size: 16px" href="http://www.facebook.com/dollsofindia"></a>
+				<a class="zocial googleplus icon" style="font-size: 16px" href="http://plus.google.com/104265303374041104334"></a>
+				<a class="zocial pinterest icon" style="font-size: 16px" href="http://pinterest.com/dollsofindia"></a>
+				<a class="zocial twitter icon" style="font-size: 16px" href="http://www.twitter.com/dollsofindia"></a>
+				<div class="lineclear"></div>
+			</div>
+			<div class="socialFollow">
+				<a href="/account/new" title="Sign up for 10% or more discounts" class="common_signuplink"><img src="/images/memberdiscount.png" alt="Sign up now to enjoy 10% or more permanent discounts" title="Sign up now to enjoy 10% or more permanent discounts" style="width: 190px; height: 211px; border: none;"></a>			</div>
+			<div class="socialFollow">
+				<img src="/images/freeshipping_worldwide_small.png" alt="Free shipping to all destinations worldwide" title="Free shipping to all destinations worldwide" style="width: 190px; height: 147px; border: none;">			</div>
+			<div class="box box-1">
+				<div class="title"><a href="/testimonials/" title="Testimonials">Testimonials</a></div>
+				<div class="smallTestimonial">
+					Impressive collections!					<div class="author">- Rita Sharma</div>
+				</div>
+				<div class="smallTestimonial">
+					I received my jewelry today, and i love it!  Thank you so much I look forward to my next purchase!					<div class="author">- Sara Brinkley</div>
+				</div>
+				<div class="smallTestimonial">
+					I have just received my order. It is wonderful and very well packaged.					<div class="author">- Michelle A. Greenberg</div>
+				</div>
+				<div class="smallTestimonial">
+					Your hand painted Kurtas are beautiful. I would like to see more examples of this item when they...					<div class="author">- Randall Gibson</div>
+				</div>
+				<div class="smallTestimonial">
+					I received this morning my so beautiful mangalsutra and I want to thank you a lot. It is GORGEOUS,...					<div class="author">- SOPHIE DUCROT</div>
+				</div>
+				<div class="moreitems"><a href="/testimonials/" title="Read more testimonials">Read more »</a></div>
+			</div>
+		</div>
+	</div><!-- pageBody finishes -->
+	<div class="lineclear" style="height: 10px"></div>
+	<div class="footerWrapper">
+		<div class="footer">
+			<div class="footerLinks">
+				<ul class="siteLinks">
+					<li><a href="/privacy/" title="Privacy Policy">Privacy</a></li>
+					<li><a href="/terms/" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+					<li><a href="/shipping/" title="Shipping Policy">Shipping</a></li>
+					<li><a href="/returns/" title="Returns Policy">Returns</a></li>
+<!--					<li><a href="/rss/" title="RSS Feed">RSS</a></li> -->
+<!--					<li><a href="/sitemap/" title="Sitemap">Sitemap</a></li> -->
+					<li class="right"><a href="/links/" title="Partner Links">Links</a></li>
+				</ul>
+				<div class="lineclear" style="height: 10px"></div>
+				<div class="footerAddress">
+					Dolls of India, P3B-085, Princeton Estate, DLF Phase 5<br>
+					Gurgaon 122 009, Haryana, INDIA<br>
+				Tel: +919810045075
+				</div>
+			</div>
+			<div class="footerLogos">
+				<table border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td align="left" valign="top"><a href="#" onclick="javascript:window.open('https://www.paypal.com/us/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="https://www.paypal.com/en_US/i/bnr/horizontal_solution_PPeCheck.gif" border="0" alt="PayPal Logo"></a></td>
+<!--						<td align="right" valign="top"><div class="two-co-logo sprite"></div></td>-->
+						<td style="padding-top: 15px;"><span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=kK7N3cyBlMnZnFyOBcTh7rQsUZipE84QmWHgWqKNre3MFNURsOZg"></script></span></td>
+					</tr>
+				</tbody></table>
+			</div>
+			<div class="lineclear" style="height: 10px"></div>
+			<div class="lineclear" style="height: 10px"></div>
+			<div class="footerPageAggregation">
+				<div class="title"><a href="/aggregate.php" title="All aggregated content pages">Random content</a>:</div>
+				<div class="content">
+<a href="/read/gift-items.htm" title="Gift Items">Gift Items</a>&nbsp;|&nbsp;<a href="/read/ayyappa.htm" title="Ayyappa">Ayyappa</a>&nbsp;|&nbsp;<a href="/read/religion-poster.htm" title="Religion Poster">Religion Poster</a>&nbsp;|&nbsp;<a href="/read/yantra.htm" title="Yantra">Yantra</a>&nbsp;|&nbsp;<a href="/read/cloth-doll.htm" title="Cloth Doll">Cloth Doll</a>&nbsp;|&nbsp;<a href="/read/indian-costume-doll.htm" title="Indian Costume Doll">Indian Costume Doll</a>&nbsp;|&nbsp;<a href="/read/indian-ivory-sculptures.htm" title="Indian Ivory Sculptures">Indian Ivory Sculptures</a>&nbsp;|&nbsp;<a href="/read/hindu-books.htm" title="Hindu Books">Hindu Books</a>&nbsp;|&nbsp;<a href="/read/jagannath.htm" title="Jagannath">Jagannath</a>&nbsp;|&nbsp;<a href="/read/nataraja-sculptures.htm" title="Nataraja Sculptures">Nataraja Sculptures</a>				</div>
+			</div>
+			<div class="lineclear" style="height: 10px"></div>
+			<div class="footerCopyright">
+				Copyright © 2013 Dolls of India<br>
+				Site designed and maintained by <a href="http://www.unlimitedfx.com" target="_blank">UnlimitedFX Web Technologies</a>
+			</div>
+			<div class="lineclear" style="height: 10px"></div>
+		</div>
+	</div>
 	<div id="siteLinks">
 		<div id="siteLinksArea">
 <ul id="siteNavigator">
@@ -177,26 +373,27 @@
 		<div class="sprite subNavigatorPointer"></div>
 		<div class="subSiteNavigator" style="opacity: 0;">
 			<ul style="width: 120px">
-				<li><a href="/textiles/jackets-and-sweaters/">Jackets</a></li>
+				<li><a href="/textiles/chunnis/">Chunnis</a></li>
 				<li><a href="/textiles/kids-apparel/">Kids</a></li>
 				<li><a href="/textiles/ladies-tops/">Ladies Tops</a></li>
-				<li><a href="/textiles/mens-kurtas/">Mens Kurtas</a></li>
-				<li><a href="/textiles/religious-apparel/">Religious</a></li>
 				<li><a href="/textiles/salwar-kameez/">Salwar Kameez</a></li>
-				<li><a href="/textiles/saris/">Saris</a></li>
-				<li><a href="/textiles/shawls-and-stoles/">Shawls</a></li>
+				<li><a href="/textiles/sarees/">Sarees</a></li>
+				<li><a href="/textiles/scarves/">Scarves</a></li>
+				<li><a href="/textiles/shawls/">Shawls</a></li>
 				<li><a href="/textiles/skirts/">Skirts</a></li>
+				<li><a href="/textiles/stoles/">Stoles</a></li>
 			</ul>
 			<ul style="width: 120px">
 				<li><a href="/textiles/bedspreads/">Bedspreads</a></li>
 				<li><a href="/textiles/caps/">Caps</a></li>
-				<li><a href="/textiles/chunnis/">Chunnis</a></li>
 				<li><a href="/textiles/cushion-covers/">Cushion Covers</a></li>
+				<li><a href="/textiles/jackets-and-sweaters/">Jackets</a></li>
 				<li><a href="/textiles/kaftans/">Kaftans</a></li>
 				<li><a href="/textiles/lungis-and-sarongs/">Lungis</a></li>
 				<li><a href="/textiles/mens-casuals/">Mens Casuals</a></li>
+				<li><a href="/textiles/mens-kurtas/">Mens Kurtas</a></li>
 				<li><a href="/textiles/muslim-chadar/">Muslim Chadar</a></li>
-				<li><a href="/textiles/scarves/">Scarves</a></li>
+				<li><a href="/textiles/religious-apparel/">Religious</a></li>
 			</ul>
 		</div>
 	</li>
@@ -208,6 +405,7 @@
 				<li><a href="/jewelry/bracelets/">Bracelets</a></li>
 				<li><a href="/jewelry/bridal-jewelry/">Bridal Jewelry</a></li>
 				<li><a href="/jewelry/earrings/">Earrings</a></li>
+				<li><a href="/jewelry/hair-accessories/">Hair Accessories</a></li>
 				<li><a href="/jewelry/mang-tika/">Mang Tika</a></li>
 				<li><a href="/jewelry/necklaces/">Necklaces</a></li>
 				<li><a href="/jewelry/religious/">Religious Jewelry</a></li>
@@ -234,11 +432,11 @@
 				<li><a href="/fashion-items/belts/">Belts</a></li>
 				<li><a href="/fashion-items/bindis/">Bindis</a></li>
 				<li><a href="/fashion-items/footwear/">Footwear</a></li>
-				<li><a href="/fashion-items/hair-accessories/">Hair Accessories</a></li>
 				<li><a href="/fashion-items/hair-buns/">Hair Buns</a></li>
 				<li><a href="/fashion-items/key-rings/">Key Rings</a></li>
 				<li><a href="/fashion-items/mehendi/">Mehendi</a></li>
 				<li><a href="/fashion-items/nail-art/">Nail Art</a></li>
+				<li><a href="/fashion-items/parandi/">Parandi</a></li>
 				<li><a href="/fashion-items/tattoos/">Tattoos</a></li>
 			</ul>
 		</div>
@@ -308,6 +506,7 @@
 				<li><a href="/books/philosophy/">Philosophy</a></li>
 				<li><a href="/books/pocket-books/">Pocket Books</a></li>
 				<li><a href="/books/puja-books/">Puja</a></li>
+				<li><a href="/books/sikh/">Sikhism</a></li>
 				<li><a href="/books/travel/">Travel</a></li>
 				<li><a href="/books/world-religion/">World Religion</a></li>
 			</ul>
@@ -316,386 +515,54 @@
 </ul>
 		</div>
 	</div>
-	<div id="pageBody">
-		<div class="breadcrumb"><a href="/">Home</a></div>
-		<div class="lineclear" style="height: 5px;"></div>
-		<div class="pageColumnLeft pageColumnMain_2">
-		<!-- CONTENTSTART -->	<h1 class="pageTitle">Privacy Policy</h1>
-	<div class="textContent">
-		<p>DollsOfIndia is committed to respecting and protecting your personal privacy. Our Privacy Policy and your control over the information you provide us is outlined below.</p>
-		<h3>INFORMATION COLLECTED FROM YOU OR YOUR COMPUTER</h3>
-		<ul>
-			<li>You can visit our site and use many of our services without having to tell us who you are or reveal any personally identifiable information to us. It is only when you buy items from our site,  make specific queries from us or leave reviews for items or articles on our website, through our website or through direct emails to any e-mail address, ending with @dollsofindia.com, that you will be asked to provide us with personally identifiable information.</li>
-			<li>Whenever you visit DollsOfIndia, our web server logs automatically receive and record anonymous information from your web browser including your IP Address, Referring page, the DollsOfIndia page(s) you request, and any search terms you query in our site.</li>
-			<li>DollsOfIndia uses this anonymous information to customize your experience on our site, maintain computer-specific shopping carts and to improve our services. We ordinarily do not attempt to link this information to a specific person, with certain important exceptions.</li>
-			<li>By providing us with personally identifiable information, you agree to receive communication from our end, which may or may not be limited to the resolution of a query posed by you. Please take a look at the <b>INFORMATION REMOVAL OR UPDATION</b> section below for asking us to remove you from our mailing/services database.</li>
-			<li>DollsOfIndia uses personally identifiable information for three main purposes: to fulfill your orders for our products, to tell you about special offers and new products and services, and to send you articles of cultural interest. Regular sending of emails, (in the form of newsletters) will be limited to users who have signed up as members or have placed an order with us.</li>
-		</ul>
-		<h3>INFORMATION REMOVAL OR UPDATION</h3>
-		<ul>
-			<li>Users, whose email/contact information are with us, may choose not to receive any future mailings/services from us by visiting <a href="http://dollsofindia.us5.list-manage1.com/unsubscribe?u=2a5a9fedb007a2718c4a7b4d0&amp;id=0905869123">this link</a> or by writing to <a href="mailto:unsubscribe@dollsofindia.com"><b>unsubscribe@dollsofindia.com</b></a>. You may also contact us at our address or phone number provided below. By writing in to us you can:
-				<ul>
-					<li>Request us to remove any personally identifiable information with us. This also implies that there cannot be any form of checking from our side to any future subscriptions to our services/mailings to contact addresses (physical or email) which points to you.</li>
-					<li>Request us to block any future mailings to your contact addresses (physical or email).</li>
-				</ul>
-			</li>
-			<li>Users, whose email/contact information are with us, may choose to update their contact information with us by writing to <a href="mailto:info@dollsofindia.com"><b>info@dollsofindia.com</b></a>. You may also contact us at our address or phone number provided below.</li>
-		</ul>
-		<h3>PRIVACY OF INFORMATION</h3>
-		<ul>
-			<li>DollsOfIndia will not share personally identifiable information with other companies or individuals unless:
-				<ul>
-					<li>We have your express permission to share the information</li>
-					<li>We need to share your information with any of our partner companies/individuals in order to provide a product or service that you have requested. Unless we tell you otherwise, these partners do not have the right to use your personal information we share with them beyond what is necessary to deliver your requested product or service.</li>
-					<li>We comply with subpoenas or court orders</li>
-				</ul>
-			</li>
-			<li>Except as we've just explained above, DollsOfIndia will not sell or disclose your personally identifiable information to anyone.</li>
-		</ul>
-		<h3>INFORMATION SECURITY</h3>
-		<ul>
-			<li>DollsOfIndia has security measures in place to protect the loss, misuse and alteration of the information under our control.</li>
-			<li>DollsOfIndia and its partner electronic payment gateway collects all financial information required for Billing in a 256 bit <b>SSL Secure Environment</b>.</li>
-		</ul>
-		<h3>PRIVACY POLICY MODIFICATIONS</h3>
-		<ul>
-			<li>DollsOfIndia may modify its privacy policy from time to time. The responsibility of updating your knowledge about the same rests with you and the same can be done by visiting this page at regular intervals.</li>
-		</ul>
-		<h3>DOLLSOFINDIA CONTACT INFORMATION REGARDING CONCERNS</h3>
-		<ul>
-			<li>To request for unsubscription OR removal from our customer database: <a href="mailto:unsubscribe@dollsofindia.com"><b>unsubscribe@dollsofindia.com</b></a></li>
-			<li>To request for modification or updation of customer information: <a href="mailto:info@dollsofindia.com"><b>info@dollsofindia.com</b></a></li>
-			<li>To request for clarifications on our privacy policy: <a href="mailto:info@dollsofindia.com"><b>info@dollsofindia.com</b></a></li>
-			<li>You may write to our physical address with any of the requests above. Write to:<br>
-<b>Madhuri Guin<br>
-        P3B-085, Princeton Estate<br>
-        DLF City Phase V<br>
-        Gurgaon<br>
-        Haryana 122 009<br>
-INDIA</b></li>
-			<li>You may contact us on our phone number : <b>+91-9810045075</b>.</li>
-		</ul>
-	</div>
-		<!-- CONTENTEND --></div><!-- pageColumn finishes -->
-		<div class="pageColumnRight">
-
-					<div class="social">
-						<div class="socialPlugin">
-							<fb:like href="http://www.dollsofindia.com/privacy/" send="true" layout="button_count" show_faces="true" font="trebuchet ms" action="recommend"></fb:like>
-						</div>
-						<div class="socialPlugin">
-							<div class="socialFirstLine">
-								<g:plusone size="standard" annotation="bubble" href="http://www.dollsofindia.com/privacy/"></g:plusone><a href="http://pinterest.com/pin/create/button/?url=&amp;media=http%3A%2F%2Fwww.dollsofindia.com%2Fimages%2Fproducts%2Fsari%2Fbaluchari-sari-EE04_l.jpg&amp;description=Find+affordable+Indian+art+items+like+Hindu+brass+statues%2C+wooden+sculptures+and+masks.+Our+Indian+paintings+feature+Hindu+and+Buddhist+paintings+in+various+styles+like+Batik%2C+Miniature%2C+Madhubani%2C+Kalamkari.+We+also+showcase+reprints+of+paintings+on+paper+and+other+paper+reprints+and+posters.+We+feature+Saris%2C+Salwaar+Kameez%2C+matching+Costume+Jewelry%2C+Bindis%2C+Bags+and+Belts.+Also+available+are+books+on+Hindu+religion%2C+pocket+Gita%2C+Indian+comics+and+philosophy+books." class="pin-it-button" count-layout="none"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It"></a>
-							</div>
-							<div class="addthis_toolbox addthis_default_style addthis_32x32_style socialFirstLine second">
-								<a class="addthis_button_email"></a>
-			<!--						<a class="addthis_button_print"></a>-->
-								<a class="addthis_button_favorites"></a>
-								<a class="addthis_button_twitter"></a>
-								<a class="addthis_button_digg"></a>
-								<a class="addthis_button_compact"></a>
-							</div>
-						</div>
-						<div class="lineclear"></div>
-					</div>
-<img src="/images/banners/wintersalebanner-small-2012.gif" alt="Winter Sale - Upto 25% off" title="Winter Sale - Upto 25% off" style="width: 190px; height: 253px; border: none;">			<div class="socialFollow">
-				<a href="/account/new" title="Sign up for 10% or more discounts" class="common_signuplink"><img src="/images/memberdiscount.png" alt="Sign up now to enjoy 10% or more permanent discounts" title="Sign up now to enjoy 10% or more permanent discounts" style="width: 190px; height: 211px; border: none;"></a>			</div>
-			<div class="box box-0">
-				<div class="title"><a href="/testimonials/" title="Testimonials">Testimonials</a></div>
-				<div class="smallTestimonial">
-					Your package arrived yesterday, thank you. The sari is gorgeous (especially the pallu), and the...					<div class="author">- Sarah Tilevitz</div>
-				</div>
-				<div class="smallTestimonial">
-					I received this order today, and am very pleased with both items, as I have been with everything I...					<div class="author">- Alex Watts</div>
-				</div>
-				<div class="smallTestimonial">
-					I received the sari today, earlier than I expected! It's really gorgeous, the orange is so...					<div class="author">- El�onore Le Bouleng�</div>
-				</div>
-				<div class="smallTestimonial">
-					I loved the necklaces!					<div class="author">- Archonto Souvalioti-Diggle</div>
-				</div>
-				<div class="smallTestimonial">
-					I received the package of two sarees and two caps yesterday. They are nice as expected from Dolls...					<div class="author">- Dr.Kalimullah</div>
-				</div>
-				<div class="moreitems"><a href="/testimonials/" title="Read more testimonials">Read more »</a></div>
-			</div>
-			<div class="socialFollow">
-				<a href="http://www.facebook.com/dollsofindia" title="Follow us on Facebook" target="_blank"><img src="/images/find_us_on_facebook.gif" alt="Follow us on Facebook" title="Follow us on Facebook" style="width: 95px; height: 29px; border: none;"></a><a href="http://www.twitter.com/dollsofindia" title="Follow us on Facebook" target="_blank"><img src="/images/twitter_follow_us.gif" alt="Follow us on Twitter" title="Follow us on Twitter" style="width: 95px; height: 29px; border: none;"></a>			</div>
-		</div>
-	</div><!-- pageBody finishes -->
-	<div class="lineclear" style="height: 10px"></div>
-	<div class="footerWrapper">
-		<div class="footer">
-			<div class="footerLinks">
-				<ul class="siteLinks">
-					<li><a href="/privacy/" title="Privacy Policy">Privacy</a></li>
-					<li><a href="/terms/" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
-					<li><a href="/shipping/" title="Shipping Policy">Shipping</a></li>
-					<li><a href="/returns/" title="Returns Policy">Returns</a></li>
-<!--					<li><a href="/rss/" title="RSS Feed">RSS</a></li> -->
-<!--					<li><a href="/sitemap/" title="Sitemap">Sitemap</a></li> -->
-					<li class="right"><a href="/links/" title="Partner Links">Links</a></li>
-				</ul>
-				<div class="lineclear" style="height: 10px"></div>
-				<div class="footerAddress">
-					Dolls of India, P3B-085, Princeton Estate, DLF Phase 5<br>
-					Gurgaon 122 009, Haryana, INDIA<br>
-				Tel: +919810045075
-				</div>
-			</div>
-			<div class="footerLogos">
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-						<td align="left" valign="top"><a href="#" onclick="javascript:window.open('https://www.paypal.com/us/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="https://www.paypal.com/en_US/i/bnr/horizontal_solution_PPeCheck.gif" border="0" alt="PayPal Logo"></a></td>
-						<td align="right" valign="top"><div class="two-co-logo sprite"></div></td>
-						<td style="padding-top: 15px;"><span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=kK7N3cyBlMnZnFyOBcTh7rQsUZipE84QmWHgWqKNre3MFNURsOZg"></script></span></td>
-					</tr>
-				</tbody></table>
-			</div>
-			<div class="lineclear" style="height: 10px"></div>
-<ul id="footerCatLinks">
-	<li id="sitenav_paintings"><a href="/paintings/">Paintings</a>
-		
-		
-			<ul>
-				<li><a href="/paintings/batik/">Batik</a></li>
-				<li><a href="/paintings/buddhist/">Buddhist</a></li>
-				<li><a href="/paintings/contemporary/">Contemporary</a></li>
-				<li><a href="/paintings/folk-art/">Folk Art</a></li>
-				<li><a href="/paintings/miniature/">Miniature</a></li>
-				<li><a href="/paintings/velvet/">Paintings on Velvet</a></li>
-				<li><a href="/paintings/sequin-decorated/">Sequin Paintings</a></li>
-			</ul>
-		
-	</li>
-	<li id="sitenav_posters"><a href="/posters/">Posters</a>
-		
-		
-			<ul>
-				<li><a href="/posters/buddhist/">Buddhist</a></li>
-				<li><a href="/posters/hindu/">Hindu</a></li>
-				<li><a href="/posters/hindu-stickers/">Hindu God Stickers</a></li>
-				<li><a href="/posters/miniature-painting-prints/">Miniature Painting Prints</a></li>
-				<li><a href="/posters/raja-ravi-varma-prints/">Raja Ravi Varma Prints</a></li>
-				<li><a href="/posters/sikh/">Sikh</a></li>
-				<li><a href="/posters/temple-mural-prints/">Temple Mural Prints</a></li>
-				<li><a href="/posters/world-religion/">World Religion</a></li>
-			</ul>
-			<ul>
-				<li><a href="/posters/abstract/">Abstract</a></li>
-				<li><a href="/posters/funny/">Funny</a></li>
-				<li><a href="/posters/inspirational/">Inspirational</a></li>
-				<li><a href="/posters/nature/">Nature</a></li>
-				<li><a href="/posters/people/">People</a></li>
-				<li><a href="/posters/travel/">Travel</a></li>
-				<li><a href="/posters/pictures-with-stands/">With Stands</a></li>
-			</ul>
-		
-	</li>
-	<li id="sitenav_sculptures"><a href="/sculptures/">Sculptures</a>
-		
-		
-			<ul>
-				<li><a href="/sculptures/brass/">Brass</a></li>
-				<li><a href="/sculptures/other-metal/">Other Metal</a></li>
-				<li><a href="/sculptures/resin-statues/">Resin</a></li>
-				<li><a href="/sculptures/shiva-linga/">Shiva Linga</a></li>
-				<li><a href="/sculptures/stone/">Stone</a></li>
-				<li><a href="/sculptures/terracotta/">Terracotta</a></li>
-				<li><a href="/sculptures/wood/">Wood</a></li>
-			</ul>
-			<ul>
-				<li><a href="/sculptures/buddhist/">Buddhist</a></li>
-				<li><a href="/sculptures/christian/">Christian</a></li>
-				<li><a href="/sculptures/masks/">Masks</a></li>
-				<li><a href="/sculptures/papier-mache/">Papier Mache</a></li>
-				<li><a href="/sculptures/shola-pith/">Shola Pith</a></li>
-				<li><a href="/sculptures/religious-symbols/">Symbols</a></li>
-			</ul>
-		
-	</li>
-	<li id="sitenav_textiles"><a href="/textiles/">Textiles</a>
-		
-		
-			<ul>
-				<li><a href="/textiles/jackets-and-sweaters/">Jackets</a></li>
-				<li><a href="/textiles/kids-apparel/">Kids</a></li>
-				<li><a href="/textiles/ladies-tops/">Ladies Tops</a></li>
-				<li><a href="/textiles/mens-kurtas/">Mens Kurtas</a></li>
-				<li><a href="/textiles/religious-apparel/">Religious</a></li>
-				<li><a href="/textiles/salwar-kameez/">Salwar Kameez</a></li>
-				<li><a href="/textiles/saris/">Saris</a></li>
-				<li><a href="/textiles/shawls-and-stoles/">Shawls</a></li>
-				<li><a href="/textiles/skirts/">Skirts</a></li>
-			</ul>
-			<ul>
-				<li><a href="/textiles/bedspreads/">Bedspreads</a></li>
-				<li><a href="/textiles/caps/">Caps</a></li>
-				<li><a href="/textiles/chunnis/">Chunnis</a></li>
-				<li><a href="/textiles/cushion-covers/">Cushion Covers</a></li>
-				<li><a href="/textiles/kaftans/">Kaftans</a></li>
-				<li><a href="/textiles/lungis-and-sarongs/">Lungis</a></li>
-				<li><a href="/textiles/mens-casuals/">Mens Casuals</a></li>
-				<li><a href="/textiles/muslim-chadar/">Muslim Chadar</a></li>
-				<li><a href="/textiles/scarves/">Scarves</a></li>
-			</ul>
-		
-	</li>
-	<li id="sitenav_jewelry"><a href="/jewelry/">Jewelry</a>
-		
-		
-			<ul>
-				<li><a href="/jewelry/bangles/">Bangles</a></li>
-				<li><a href="/jewelry/bracelets/">Bracelets</a></li>
-				<li><a href="/jewelry/bridal-jewelry/">Bridal Jewelry</a></li>
-				<li><a href="/jewelry/earrings/">Earrings</a></li>
-				<li><a href="/jewelry/mang-tika/">Mang Tika</a></li>
-				<li><a href="/jewelry/necklaces/">Necklaces</a></li>
-				<li><a href="/jewelry/religious/">Religious Jewelry</a></li>
-				<li><a href="/jewelry/rings/">Rings</a></li>
-			</ul>
-			<ul>
-				<li><a href="/jewelry/anklets/">Anklets</a></li>
-				<li><a href="/jewelry/armlets/">Armlets</a></li>
-				<li><a href="/jewelry/brooches/">Brooches</a></li>
-				<li><a href="/jewelry/jewelry-boxes/">Jewelry Boxes</a></li>
-				<li><a href="/jewelry/nose-rings/">Nose Rings</a></li>
-				<li><a href="/jewelry/pendants/">Pendants</a></li>
-				<li><a href="/jewelry/ring-bracelets/">Ring Bracelets</a></li>
-				<li><a href="/jewelry/toe-rings/">Toe Rings</a></li>
-				<li><a href="/jewelry/waist-jewelry/">Waist Jewelry</a></li>
-			</ul>
-		
-	</li>
-	<li id="sitenav_fashion-items"><a href="/fashion-items/">Fashion Items</a>
-		
-		
-			<ul>
-				<li><a href="/fashion-items/bags/">Bags</a></li>
-				<li><a href="/fashion-items/belts/">Belts</a></li>
-				<li><a href="/fashion-items/bindis/">Bindis</a></li>
-				<li><a href="/fashion-items/footwear/">Footwear</a></li>
-				<li><a href="/fashion-items/hair-accessories/">Hair Accessories</a></li>
-				<li><a href="/fashion-items/hair-buns/">Hair Buns</a></li>
-				<li><a href="/fashion-items/key-rings/">Key Rings</a></li>
-				<li><a href="/fashion-items/mehendi/">Mehendi</a></li>
-				<li><a href="/fashion-items/nail-art/">Nail Art</a></li>
-				<li><a href="/fashion-items/tattoos/">Tattoos</a></li>
-			</ul>
-		
-	</li>
-	<li id="sitenav_unique-crafts"><a href="/unique-crafts/">Unique Crafts</a>
-		
-		
-			<ul>
-				<li><a href="/unique-crafts/cloth-applique/">Applique</a></li>
-				<li><a href="/unique-crafts/candles/">Candles</a></li>
-				<li><a href="/unique-crafts/costume-dolls/">Costume Dolls</a></li>
-				<li><a href="/unique-crafts/cute-miniature-dolls/">Cute Dolls</a></li>
-				<li><a href="/unique-crafts/cute-toys/">Cute Toys</a></li>
-				<li><a href="/unique-crafts/cloth-embroidery/">Embroidery</a></li>
-				<li><a href="/unique-crafts/key-racks/">Key Racks</a></li>
-				<li><a href="/unique-crafts/lamp-shades/">Lamp Shades</a></li>
-				<li><a href="/unique-crafts/cloth-patchwork/">Patchwork</a></li>
-			</ul>
-			<ul>
-				<li><a href="/unique-crafts/candle-stands/">Candle Stands</a></li>
-				<li><a href="/unique-crafts/coasters/">Coasters</a></li>
-				<li><a href="/unique-crafts/decorative-magnets/">Decorative Magnets</a></li>
-				<li><a href="/unique-crafts/fans/">Fans</a></li>
-				<li><a href="/unique-crafts/festive-decorations/">Festive Decorations</a></li>
-				<li><a href="/unique-crafts/pen-stands/">Pen Stands</a></li>
-				<li><a href="/unique-crafts/shell-craft/">Shell</a></li>
-				<li><a href="/unique-crafts/table-mats/">Table Mats</a></li>
-			</ul>
-		
-	</li>
-	<li id="sitenav_puja-items"><a href="/puja-items/">Puja Items</a>
-		
-		
-			<ul>
-				<li><a href="/puja-items/bells/">Bells</a></li>
-				<li><a href="/puja-items/door-torans/">Door Torans</a></li>
-				<li><a href="/puja-items/garlands/">Garlands</a></li>
-				<li><a href="/puja-items/incense-burners/">Incense Burners</a></li>
-				<li><a href="/puja-items/incense-sticks/">Incense Sticks</a></li>
-				<li><a href="/puja-items/puja-lamps/">Puja Lamps</a></li>
-				<li><a href="/puja-items/puja-thalis/">Puja Thalis</a></li>
-				<li><a href="/puja-items/puja-vessels/">Puja Vessels</a></li>
-				<li><a href="/puja-items/ritual-seats/">Ritual Seats</a></li>
-			</ul>
-			<ul>
-				<li><a href="/puja-items/charan-and-paduka/">Charan and Paduka</a></li>
-				<li><a href="/puja-items/deity-shringar/">Deity Shringar</a></li>
-				<li><a href="/puja-items/japamala/">Japamala</a></li>
-				<li><a href="/puja-items/kumkum-containers/">Kumkum Containers</a></li>
-				<li><a href="/puja-items/other-puja-items/">Others</a></li>
-				<li><a href="/puja-items/rangoli/">Rangoli</a></li>
-				<li><a href="/puja-items/ritual-mats/">Ritual Mats</a></li>
-				<li><a href="/puja-items/ritual-powders/">Ritual Powders</a></li>
-			</ul>
-		
-	</li>
-	<li class="noSeparator" id="sitenav_books"><a href="/books/">Books</a>
-		
-		
-			<ul>
-				<li><a href="/books/book-accessories/">Book Accessories</a></li>
-				<li><a href="/books/health/">Health</a></li>
-				<li><a href="/books/hindu-scriptures/">Hindu Scriptures</a></li>
-				<li><a href="/books/india/">India</a></li>
-				<li><a href="/books/kids-books/">Kids</a></li>
-				<li><a href="/books/personalities/">Personalities</a></li>
-				<li><a href="/books/philosophy/">Philosophy</a></li>
-				<li><a href="/books/pocket-books/">Pocket Books</a></li>
-				<li><a href="/books/puja-books/">Puja</a></li>
-				<li><a href="/books/travel/">Travel</a></li>
-				<li><a href="/books/world-religion/">World Religion</a></li>
-			</ul>
-		
-	</li>
-</ul>
-			<div class="lineclear" style="height: 10px"></div>
-			<div class="footerPageAggregation">
-				<div class="title"><a href="/aggregate.php" title="All aggregated content pages">Random content</a>:</div>
-				<div class="content">
-<a href="/read/metal-necklace.htm" title="Metal Necklace">Metal Necklace</a>&nbsp;|&nbsp;<a href="/read/black-goddess.htm" title="Black Goddess">Black Goddess</a>&nbsp;|&nbsp;<a href="/read/papier-mache-mask.htm" title="Papier-Mache Mask from India">Papier-Mache Mask from India</a>&nbsp;|&nbsp;<a href="/read/hindu-pictures.htm" title="Hindu Pictures">Hindu Pictures</a>&nbsp;|&nbsp;<a href="/read/paper-dolls.htm" title="Paper Dolls">Paper Dolls</a>&nbsp;|&nbsp;<a href="/read/divine-mother.htm" title="Divine Mother">Divine Mother</a>&nbsp;|&nbsp;<a href="/read/chenrezig.htm" title="Chenrezig">Chenrezig</a>&nbsp;|&nbsp;<a href="/read/vishnu-sculptures.htm" title="Vishnu Sculptures">Vishnu Sculptures</a>&nbsp;|&nbsp;<a href="/read/musician-ganesha-statue.htm" title="Musician Ganesha Statue">Musician Ganesha Statue</a>&nbsp;|&nbsp;<a href="/read/trishuls.htm" title="Trishuls">Trishuls</a>				</div>
-			</div>
-			<div class="lineclear" style="height: 10px"></div>
-			<div class="footerCopyright">
-				Copyright © 2012 Dolls of India<br>
-				Site designed and maintained by <a href="http://www.unlimitedfx.com" target="_blank">UnlimitedFX Web Technologies</a>
-			</div>
-			<div class="lineclear" style="height: 10px"></div>
-		</div>
-	</div>
-	<div id="loginBox" class="boxBG" style="">
-		
+	
+	<div id="loginBox" class="zoom_overlay signin accountedit"><a class="close"></a>
+		<div class="signinSocial" style="padding-top: 30px;">
+			
+<a class="zocial facebook sociallogin" href="#">Sign in with Facebook</a>
+<br><br><a class="zocial googleplus sociallogin" href="#">Sign in with Google+</a>		</div>
+		<div class="signinSeperator sprite"></div>
+		<div class="signinInternal">
+			
 
 		<form id="login_form" name="login_form" method="post">
 			<input type="hidden" name="currentpage" id="login_currentpage" value="http://www.dollsofindia.com/privacy/">
-			<input type="text" name="login_username" id="login_username" value="Username" title="Username" class="empty">
+			<h3>Sign In</h3>
+			<label for="login_username">Username</label><input type="text" name="login_username" id="login_username" title="Username">
 			<div class="lineclear"></div>
-			<input type="password" name="login_password" id="login_password" title="Password" class="sprite">
+			<label for="login_password">Password</label><input type="password" name="login_password" id="login_password" title="Password">
 			<div class="lineclear"></div>
 			<div class="rememberme">
 				<input type="checkbox" name="rememberme" id="login_rememberme" title="Remember me" value="1"><label for="login_rememberme">Remember me</label>
 			</div>
 			<div class="lineclear"></div>
-			<input type="image" name="submit" id="login_submit" src="/images/spacer.png" alt="Login" title="Click to Login" border="0" class="sprite"><div id="login_cancel" class="boxClose loginBoxLink">Cancel</div>			<a href="/account/forgotpassword/" id="passwordforgot_forgot" class="loginBoxLink">Forgot password?</a>
+			<input type="image" name="submit" id="login_submit" src="/images/spacer.png" alt="Login" title="Click to Login" border="0" class="sprite">
+			<div class="passwordforgot">
+				<a href="/account/forgotpassword/" id="passwordforgot_forgot">Forgot password?</a>
+			</div>
 		</form>
-				
+					
 
 		<form id="passwordforgot_form" name="passwordforgot_form" method="post">
 
 			<input type="hidden" name="currentpage" id="passwordforgot_currentpage" value="http://www.dollsofindia.com/privacy/">
-			<div class="passwordforgotTitle">Retrieve Password</div>
-			<input type="text" name="passwordforgot_username" id="passwordforgot_username" value="Username or Email" title="Username or Email" class="empty">
+			<h3>Retrieve Password</h3>
+			<label for="passwordforgot_username" style="width: 105px;">Username or Email</label><input type="text" name="passwordforgot_username" id="passwordforgot_username" title="Username or Email" class="empty">
 			<div class="lineclear"></div>
-			<input type="image" name="submit" id="passwordforgot_submit" src="/images/spacer.png" alt="Retrieve Password" title="Click to Retrieve Password" border="0" class="sprite"><div id="passwordforgot_cancel" class="loginBoxLink">Cancel</div>		</form>
-			</div>
+			<input type="image" name="submit" id="passwordforgot_submit" src="/images/spacer.png" alt="Retrieve Password" title="Click to Retrieve Password" border="0" class="sprite"><div id="passwordforgot_cancel">Cancel</div>		</form>
+				</div>
+		<div class="lincelear"></div>
+	</div>
 	<div id="signupBox" class="zoom_overlay accountcreate accountedit"><a class="close"></a>
-		
+		<div class="signinSocial">
+			<h3>Sign in for instant 10% discount</h3>
+			<div class="profileBenefits">Sign in with Facebook or Google and earn a minimum of 10% member discount on all purchases. Get regular email updates on site discounts, discount coupons, product additions and cultural articles.</div>
+			
+<a class="zocial facebook sociallogin" href="#">Sign in with Facebook</a>
+<br><br><a class="zocial googleplus sociallogin" href="#">Sign in with Google+</a>		</div>
+		<div class="signinSeperator sprite" style="margin-top: 40px"></div>
+		<div class="signinInternal">
+			
 		<form id="signup_form" name="signup_form" method="post" novalidate="novalidate">
 			<input type="hidden" name="signup_currentpage" id="signup_currentpage" value="http://www.dollsofindia.com/privacy/">
 			<input type="hidden" name="signup_ipad" id="signup_ipad" value="204.236.235.245">
@@ -744,7 +611,9 @@ INDIA</b></li>
 			</div>
 			<div class="lineclear" style="height: 10px;"></div>
 		</form>
-			</div>
+				</div>
+		<div class="lincelear"></div>
+	</div>
 	<div id="profileBox" class="zoom_overlay accountedit">
 		
 		<form id="profile_form" name="profile_form" method="post" novalidate="novalidate">
@@ -838,24 +707,12 @@ INDIA</b></li>
 			<div class="lineclear" style="height: 10px;"></div>
 		</form>
 			</div>
-	<img style="display:none;" id="mc_tracking_pixel" src="http://gooo.al/tracking_image.gif">
-	
-<script>
-	(function(d){
-		var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-		js = d.createElement('script'); js.id = id; js.async = true;
-		js.src = "//connect.facebook.net/en_US/all.js#appId=140864872593265&xfbml=1";
-		d.getElementsByTagName('head')[0].appendChild(js);
-	}(document));
-</script>
-
 <script type="text/javascript">  (function() {
 		var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
 		ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
 </script>
-
 <script type="text/javascript">
 $(function() {
 	ht1=$(".pageColumnLeft").height()+30;
@@ -867,7 +724,7 @@ $(function() {
 });
 </script>
 <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+<script src="https://apis.google.com/js/client.js?onload=handleClientLoad"></script>
 
 
-
-<div id="AutocompleteContainter_bf9b9" style="position: absolute; z-index: 9999; top: 66px; left: 455.016px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_bf9b9" style="display: none; width: 257px; max-height: 400px;"></div></div></div></body></html>
+<div id="AutocompleteContainter_c2e10" style="position: absolute; z-index: 9999; top: 66px; left: 455.016px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_c2e10" style="display: none; width: 257px; max-height: 400px;"></div></div></div></body></html>
