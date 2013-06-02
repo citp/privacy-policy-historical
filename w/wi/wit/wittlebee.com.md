@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wittlebee.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103215524id_/http%3A//wittlebee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wittlebee.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602111444id_/http%3A//wittlebee.com/privacy) for the most accurate reproduction.*
 
-# Wittlebee | Privacy Policy
+# Privacy Policy | Wittlebee
+
+[Sign Up Free](https://web.archive.org/subscriptions/build/cart.json?td=956450&frequency=wittlebee_monthly&l=%2F&site=3&select_clothes=six)
 
 ## Privacy Policy
 
@@ -61,4 +63,4 @@ For any questions or comments on our privacy policy please [contact us](http://w
 
 [Wittlebee Reviews](http://wittlebeereviews.com/)
 
-[Sign Up Free](https://wittlebee.com/subscriptions/build/cart.json?td=702744&frequency=wittlebee_monthly&site=3&select_clothes=six)
+[Sign Up Free](https://web.archive.org/subscriptions/build/cart.json?td=956450&frequency=wittlebee_monthly&l=%2F&site=3&select_clothes=six)
