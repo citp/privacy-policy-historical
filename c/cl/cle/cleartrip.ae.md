@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleartrip.ae privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101052439id_/http%3A//www.cleartrip.ae/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleartrip.ae privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602044446id_/http%3A//www.cleartrip.ae/privacy/index.shtml) for the most accurate reproduction.*
 
 # Cleartrip Privacy Policy
 
@@ -10,4 +10,4 @@ If you provide unique identifying information, such as name, address and other i
 
 Any personally identifiable information you submit while booking with Cleartrip will ONLY be disclosed to travel suppliers who are linked to your bookings. We will not disclose, sell, share or in any way reveal your information to any other third party.
 
-We want you to feel confident about using Cleartrip.com to plan and purchase your travel, so we are committed to protecting the information we collect. While no Web site can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. To prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we will employ reasonable and current Internet security methods and technologies. 
+We want you to feel confident about using Cleartrip.ae to plan and purchase your travel, so we are committed to protecting the information we collect. While no Web site can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. To prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we will employ reasonable and current Internet security methods and technologies. 
