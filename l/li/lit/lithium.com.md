@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lithium.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224141148id_/http%3A//lithium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lithium.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602153522id_/http%3A//lithium.com/privacy) for the most accurate reproduction.*
 
 # Lithium Technologies Social CRM and Community Solutions - Privacy Policy - Lithium
 
@@ -8,7 +8,7 @@ Lithium provides social customer solutions for its clients. This Privacy Stateme
 
 Lithium does not send unsolicited emails or sell any personally identifying information users may have submitted to us though our website. In addition, for lead generation or marketing purposes, we may ask individuals interested in obtaining more information about Lithium products to voluntarily submit their contact information to us. Lithium has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability, and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@lithium.com. If you are not satisfied with our response, you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-This site complies with U.S.-E.U. Safe Harbor and U.S.-Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from the European Union member countries and Switzerland. Lithium Technologies has certified that it adheres to the Safe Harbor Privacy Principals of notice, choice, onward tranafer, security, data integrity, acess, and enforcement. 
+This site complies with U.S.-E.U. Safe Harbor and U.S.-Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from the European Union member countries and Switzerland. Lithium Technologies has certified that it adheres to the Safe Harbor Privacy Principals of notice, choice, onward transfer, security, data integrity, acess, and enforcement. 
 
 For more information about the Safe Harbor program, and to view Lithium Technologies’ certificate, please visit the [U.S. Department of Commerce web site](http://www.export.gov/safeharbor)
 
@@ -87,6 +87,6 @@ We will retain your contact information for as long as your account is active or
 If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please email us at [privacy@lithium.com](mailto:privacy@lithium.com) or write us at the following address:
 
 Lithium Technologies  
-6121 Hollis Street #4  
-Emeryville, CA 94608  
+225 Bush St., 15th Floor  
+San Francisco, CA 94104  
 USA 
