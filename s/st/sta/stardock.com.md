@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214121455id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602122633id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
 
 # Stardock Corporation - Privacy
 
@@ -11,7 +11,7 @@ We use your IP address to help diagnose problems with our server and to administ
 
 Stardock Activation
 
-Beginning in 2005, some Stardock products require activation over the Internet to use their enhanced versions. Depending on if your order was directly through Stardock or through a third-party, we may ask for your first name, last name, email address, and the serial number/activation code for the product you have purchased. 
+Some Stardock products require activation over the Internet to use their enhanced versions. Depending on if your order was directly through Stardock or through a third-party, we may ask for your first name, last name, email address, and the serial number/activation code for the product you have purchased. 
 
 Your IP address and number of activation attempts will also be logged. There are reasonable limits on how often you can activate a given product to help deter piracy, but for most users, this limit will not be reached. If you have difficulties, please contact support@stardock.com. This information will not be used by third parties, but may be used by Stardock to contact you about updates or other Stardock-related news. 
 
