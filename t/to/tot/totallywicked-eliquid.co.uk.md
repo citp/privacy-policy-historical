@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totallywicked-eliquid.co.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231195931id_/http%3A//www.totallywicked-eliquid.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallywicked-eliquid.co.uk privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603002806id_/http%3A//www.totallywicked-eliquid.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy / Totally Wicked
+# Privacy Policy for Totally Wicked E Cig Store
 
 ## Privacy policy of [www.totallywicked-eliquid.co.uk](http://www.totallywicked-eliquid.co.uk/)
 
@@ -20,7 +20,7 @@ In addition to the personal information that you may provide us, this Si
 
 ## Security
 
-Please note that while there are always risks associated with providing personal data, whether in person, by phone or over the Internet, and no system of technology is completely safe, “tamper” or “hacker-proof”, Pillbox38 (UK) Ltd has endeavoured to take appropriate measures to prevent and minimize risks of unauthorized access to, improper use and the inaccuracy of your personal information. For example, we use encryption technology when collecting or transferring sensitive data such as credit card information.
+Please note that while there are always risks associated with providing personal data, whether in person, by phone or over the Internet, and no system of technology is completely safe, “tamper” or “hacker-proof”, Pillbox38 (UK) Ltd has endeavoured to take appropriate measures to prevent and minimize risks of unauthorized access to, improper use and the inaccuracy of your personal information. For example, we use encryption technology when collecting or transferring sensitive data such as credit card information. **We do not store any card data.**
 
 ## Accuracy of collected data
 
