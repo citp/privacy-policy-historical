@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailypost.com.ng privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209055803id_/http%3A//dailypost.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailypost.com.ng privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602183658id_/http%3A//dailypost.com.ng/privacy-policy) for the most accurate reproduction.*
 
-# Privacy-Policy - Nigeria DailyPost
+# Privacy-Policy - DailyPost Nigeria - DailyPost Nigeria
 
 DailyPost may collect information from our users at several different points on the site. DailyPost is the sole owner of the information collected on dailypost.com.ng
 
