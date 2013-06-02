@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slackernetwork.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215133745id_/http%3A//www.slackernetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slackernetwork.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602214221id_/http%3A//slackernetwork.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | SlackerNetwork - Slacker is a collection of the best of what the internet has to offer, showcasing funny videos, funny movies, classic TV ads, virals, silly pictures, viral marketing, digital marketing, viral seeding & deployment, interactive media, lifestyle.
 
@@ -16,6 +16,12 @@ To a computer your email address is just a set of numbers. Unless you tell us wh
 
 Many people use cookies. Cookies are small files of information which are stored on your computer. Web sites you visit ask your computer to store this information and retrieve it from your computer so that they can keep track of things like other web sites you visit. We will use them to store your password so that you don't have to keep filling in a registration form every time you want to log in. We may use them to study things such as places on our web site where you visit and which bits of our site you like best. We may also use them to make sure that any advertisements on our site aren't always the same when you visit each time and that you see advertising which you might like more than others. If you click on an advertisement to go through to the advertiser's site, they may also use cookies and unfortunately we don't have any control over what they use their cookies for. If you don't want to receive cookies there are things you can do on your computer to stop them being used but you may find that some bits of our website don't function properly or are slower. You might also have to keep entering registration information each time. It also means we would find it difficult to give you any other information which you might be particularly interested in because we would not be able to recognize that it was you visiting our site. 
 
+**3rd Party Advertising**
+
+ **
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
 **How we look after your information**
 
 We make sure that all the information we hold on you is as safe as possible. You should be responsible when giving out your information on the internet. Make sure that you are careful when you visit our site in a public place like an internet cafe. We can only be responsible for your information when it is received on our computers not whilst it is in any intermediate environment. 
@@ -23,3 +29,5 @@ We make sure that all the information we hold on you is as safe as possible. You
 **When do we give information you provide us to other people?**
 
 We never give your information to anyone outside of our company.
+
+**
