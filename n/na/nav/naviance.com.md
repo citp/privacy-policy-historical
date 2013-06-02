@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naviance.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224135810id_/http%3A//www.naviance.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naviance.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602230553id_/http%3A//naviance.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | About | College and Career Readiness Solutions - Naviance
 
