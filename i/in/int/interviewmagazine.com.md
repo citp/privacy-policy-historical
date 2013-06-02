@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interviewmagazine.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603074032id_/http%3A//www.interviewmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interviewmagazine.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602041140id_/http%3A//www.interviewmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Interview Magazine
 
