@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenhousemegastore.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022000053id_/http%3A//www.greenhousemegastore.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenhousemegastore.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602075244id_/http%3A//www.greenhousemegastore.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement | Greenhouse Megastore
 
