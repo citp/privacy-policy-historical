@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the saasit.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125215618id_/http%3A//www.frontrange.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saasit.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602153221id_/http%3A//www.frontrange.com/privacy-policy) for the most accurate reproduction.*
 
-# 
-
- 
+# Privacy Policy | FrontRange
 
 ## Commitment to privacy
 
@@ -18,7 +16,7 @@ The privacy of your data subjects is important to us. We are providing this poli
 
 We are a global organization that has developed data practices designed to appropriately protect the data of your data subjects. This privacy policy (“Policy”) describes how FrontRange Solutions Inc. and its subsidiaries (collectively “FrontRange”) collects, protects, uses, and discloses personal data that it receives.
 
-This Policy applies to the FrontRange on-premise, hosted, and SaaS services. This Policy also applies to FrontRange websites (“Sites”) [www.frontrange.com](http://www.frontrange.com/) and [www.saasit.com](http://www.saasit.com/) and other FrontRange-powered sites. SaaSIT is the online on-demand Solutions as a Service (“SaaS2”) version of FrontRange’s IT service-management and asset-management software applications. These solutions are offered on a subscription basis and delivered online through the SaaSIT.com site on equipment, infrastructure, and in data centers provided by FrontRange or our subcontracted infrastructure-hosting service providers.
+This Policy applies to the FrontRange on-premise, hosted, and SaaS services. This Policy also applies to FrontRange websites (“Sites”) [www.frontrange.com](http://www.frontrange.com/) and [www.saasit.com](http://www.saasit.com/) and other FrontRange-powered sites. SaaSIT is the online on-demand Solutions as a Service (“SaaS2”) version of FrontRange’s IT service management and client management software applications. These solutions are offered on a subscription basis and delivered online through the SaaSIT.com site on equipment, infrastructure, and in data centers provided by FrontRange or our subcontracted infrastructure-hosting service providers.
 
   
 
@@ -29,8 +27,8 @@ FrontRange has been awarded the TRUSTe seal signifying their privacy policy and 
 
 FrontRange recognizes that the European Union and the United States have established a Safe Harbor Agreement pursuant to Directive 95/46/EC restricting the transfer and handling of personally identifiable information about individuals from the European Economic Area (EEA) to the United States. FrontRange has elected to adhere to the Safe Harbor Privacy Principles –- detailed below -- with respect to the collection, use, and disclosure of data from the EEA. From an EU perspective, we operate as a data processor, while you function as data controller. For more information about Safe Harbor Principles or to access our certification statement, please review the U.S. Department of Commerce's Web site at <http://export.gov/safeharbor/>.
 
-**We self-certify compliance with**  
-  
+**[We self-certify compliance with](https://safeharbor.export.gov/list.aspx)**  
+[](http://export.gov/safeharbor/)  
 [www.export.gov/safeharbor](http://www.export.gov/safeharbor)
 
 If you have questions or concerns regarding this Policy, you should first contact [privacy@frontrange.com](mailto:privacy@frontrange.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://www.truste.org/consumers/watchdog_complaint.php>, by mail at WatchDog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420. If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.org/consumers/watchdog_complaint.php> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
@@ -59,7 +57,7 @@ We also collect information about the computers that visit our sites, including:
     * _Cookies and tracking technologies._ A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this Site. We do not link the information we store in cookies to any personally identifiable information you submit while on our sites. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our sites. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
     * _Web beacons_. Third parties also employ Web beacons on our site. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. Web beacons are embedded invisibly on webpages and are about the size of the period at the end of this sentence. We use a third-party tracking service which uses cookies and web beacons to track non-personally identifiable information about visitors to our sites in the aggregate to capture usage and volume statistics and to manage content.
   * **Business account information.** This is the business-contact information such as name, title, postal address, e-mail address, and phone number that we collect about people we serve or work with, including actual and prospective customers, alliance and channel partners, contractors, vendors and other parties interested in FrontRange or its products and services. Customers of FrontRange will automatically be included our Customer Support Portal portion of our Site, which may only be accessed via a personal login and password. When you access the portal as a customer, you will have the opportunity to review, correct, and update certain of your account information. Within the Customer Support Portal, a customer will find the terms of use for the Portal. We use this information to support your account, respond to your inquiries, perform accounting functions, provide you with information about us, our products, and services, and to otherwise maintain our business relationship with you.
-  * **Customer proprietary database information.** This information is owned by the customer and entrusted to us to provide our services. FrontRange respects the privacy of all customer proprietary database information and views it as the customer’s property. This is information that you as a customer provide to us or direct us to collect your data subjects. We do not control what customer database information we may receive and host, nor what steps you as data controller have taken to ensure that the data is reliable for its intended use, accurate, complete, and current. FrontRange will use customer database information in order to fulfill our obligations under our SaaSIT subscription services agreement with the customer and to identify other FrontRange products which may benefit the customer. For instance, we may be engaged by the customer to help upload its data, to assist with configuration, or to provide support services. We will not use this customer data for marketing purposes. If you provide any personal data about your clients to FrontRange, you are responsible for providing any notices and obtaining any consents necessary for FrontRange to access and use that data.
+  * **Customer proprietary database information.** This information is owned by the customer and entrusted to us to provide our services. FrontRange respects the privacy of all customer proprietary database information and views it as the customer’s property. This is information that you as a customer provide to us or direct us to collect your data subjects. We do not control what customer database information we may receive and host, nor what steps you as data controller have taken to ensure that the data is reliable for its intended use, accurate, complete, and current. FrontRange will use customer database information in order to fulfill our obligations under our SaaS subscription services agreement with the customer and to identify other FrontRange products which may benefit the customer. For instance, we may be engaged by the customer to help upload its data, to assist with configuration, or to provide support services. We will not use this customer data for marketing purposes. If you provide any personal data about your clients to FrontRange, you are responsible for providing any notices and obtaining any consents necessary for FrontRange to access and use that data.
   * **Applicant and employee information.** This is the typical information that is collected during employment relationships. For applicants, this includes your name, home address, personal telephone number, resume, and other information that you voluntarily provide when you submit an online job application. This information may be shared with our recruiting advisors as well as other third parties such as background-screening organizations involved in the assessment of your job application.
 
 
@@ -70,9 +68,8 @@ In addition to the data uses described above, FrontRange may use personal inform
   * _To provide services to you_. These may include professional consulting, educational, maintenance and support services for which you have inquired or contracted.For instance, our as part of support services, our technical staff may require periodic access to services data to troubleshoot or monitor your system. We may provide technical support and related product information via the FrontRange Customer Support Portal. Our consulting services team may require access to your systems to implement our software solutions.; Any temporary copies of data accessed, used or created as a necessary part of this services are only maintained for time periods relevant to those purposes As part of these services, we may be required to remotely access your systems or an individual computer in order to troubleshoot a support issue or have direct physical access as part of an onsite engagement. We may also provide you product updates and notices.
   * _To provide informational services_. We may use personal data while providing online forums such as user groups and bulletin boards. We may also do so while delivering live or online events such as training seminars or conferences, including third-party events sponsored by FrontRange.
   * _To meet legal requirements_. FrontRange may be required to provide personal data to comply with legally mandated reporting, disclosure, or other legal process requirements. 
-  * _To market our products and services_.  We may inform you about our products, services or events and otherwise perform marketing activities.
+  * _To market our products and services_. We may inform you about our products, services or events and otherwise perform marketing activities.
 
-  
 
 
 ## CHOICE PRINCIPLE
@@ -87,8 +84,8 @@ This is a United States Website and is subject to laws of the United States and 
 
           Privacy Officer  
           FrontRange Solutions Inc.  
-          5675 Gibraltar Drive  
-          Pleasanton, CA 94588  
+          490 N. McCarthy Blvd.  
+          Milpitas, CA 93035  
 
 
   
@@ -96,7 +93,7 @@ This is a United States Website and is subject to laws of the United States and 
 
 ## DATA ACCESS PRINCIPLE
 
-Our SaaSIT system enables the customer to have full control over their personal information, whether to correct, update or delete personally identifiable information that they have collected and uploaded. If you receive a data-access request from a data subject about whom we host data and you would like our assistance in responding to that request, please contact privacy@FrontRange.com.
+Our SaaS system enables the customer to have full control over their personal information, whether to correct, update or delete personally identifiable information that they have collected and uploaded. If you receive a data-access request from a data subject about whom we host data and you would like our assistance in responding to that request, please contact privacy@FrontRange.com.
 
 If your personally identifiable information, such as your email address, changes, or if you no longer desire our service, e-mail our Customer Care department at [customer.support@frontrange.com](mailto:customer.support@frontrange.com).
 
@@ -165,11 +162,23 @@ We also maintain a readily available and affordable independent-recourse mechani
 We reserve the right to modify this Policy at any time. When we make only minor modifications, we may do so without notifying you. It is your responsibility to keep current the contact information we have on file for that designated representative. When we make material modifications affecting data practices where we operate as the data controller, we will post the new Policy on this Site under the “Privacy” link and notify you at the e-mail address specified in your account or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. The effective date at the top of this Policy will allow you to quickly know when the last changes were made.
 
 **How you can contact us**  
-If you have questions or concerns regarding this Statement, you should contact us by email privacy@frontrange.com. You can also write to us at:
+If you have questions or concerns regarding this Statement, you should contact us by email at privacy@frontrange.com. You can also write to us at:
 
           Privacy Officer  
           FrontRange Solutions Inc.  
-          5675 Gibraltar Drive  
-          Pleasanton, CA 94588
+          490 N. McCarthy Blvd.  
+          Milpitas, CA 93035
 
- 
+“While other solutions were clunky and not as streamlined, HEAT Cloud was a more mature product that integrated seamlessly into other applications.” 
+
+VP of Information Systems
+
+“FrontRange ITSM is the enterprise-class system we needed to pave the way for ITIL efficiency at the Laboratory.” 
+
+“HEAT Cloud Service Management is part of our integrated solution that empowers our team with the tools and knowledge to deliver world-class service.” 
+
+Senior Director of Software Development
+
+“FrontRange Cloud is the most flexible, advanced and complete cloud ITSM solution available, enabling us to deliver world-class service to our clients, while increasing our operational efficiency managing our market-leading, cloud-based contact center software platform.” 
+
+Vice President of Development
