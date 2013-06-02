@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awea.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231022132id_/http%3A//www.awea.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awea.org privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602232747id_/http%3A//www.awea.org/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
