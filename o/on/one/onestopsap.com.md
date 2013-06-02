@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onestopsap.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126051941id_/http%3A//onestopsap.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopsap.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602185605id_/http%3A//onestopsap.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
