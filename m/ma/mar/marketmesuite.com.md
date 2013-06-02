@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the marketmesuite.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201223336id_/http%3A//marketmesuite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketmesuite.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602191238id_/http%3A//marketmesuite.com/privacy) for the most accurate reproduction.*
 
 # MarketMeSuite - Privacy Policy
 
-Pie Dog Media, LTD (“MarketMeSuite, "ScheduleDroid," "BlogMe") takes your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the MarketMeSuite website located at www.MarketMeSuite.com and any linked pages, features, content, or application services offered from time to time by MarketMeSuite in connection therewith (the “Site”) and using MarketMeSuite services (the “Services”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
+Pie Dog Media, LTD (“MarketMeSuite, "ScheduleDroid," "BlogMe") takes your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the MarketMeSuite website located at MarketMeSuite.com and any linked pages, features, content, or application services offered from time to time by MarketMeSuite in connection therewith (the “Site”) and using MarketMeSuite services (the “Services”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
 _WE DO NOT store financial details (credit card or any other payment information.)_
 
