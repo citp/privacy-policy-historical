@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the bloglines.co.za privacy policy that was archived on 2012-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120729142125id_/http%3A//bloglines.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloglines.co.za privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602040918id_/http%3A//bloglines.co.za/privacy-policy) for the most accurate reproduction.*
 
-# BlogLines Africa » Privacy Policy
+# Privacy Policy | BlogLines Africa
 
-  
 We take your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
 ## Routine Information Collection
@@ -21,7 +20,4 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to [admin@bloglines.co.za](mailto:admin@bloglines.co.za "Click to Email Us") for further clarification.  
-
-
-[BlogLines Africa Making Free Blogging Easy Since 2008](http://bloglines.co.za/ "Blogging is Easy at BlogLines Africa")
+Concerns or questions about this privacy policy can be directed to [support@bloglines.co.za](mailto:support@bloglines.co.za "Click to Email Us") for further clarification.
