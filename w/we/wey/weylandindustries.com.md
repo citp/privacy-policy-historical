@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weylandindustries.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223101032id_/http%3A//foxus.rsys1.net/servlet/website/ResponseForm%3FMQNlE1zwkpOHJRwhspJR) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weylandindustries.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602024901id_/http%3A//foxus.rsys1.net/servlet/website/ResponseForm%3FMQNlE1zwkpOHJRwhspJR) for the most accurate reproduction.*
 
 # 20th Century Fox
 
@@ -89,7 +89,7 @@ Top
 
 Fox FE uses commercially reasonable administrative, technical, personnel and physical measures to safeguard user information in its possession against loss, theft and unauthorized use, disclosure or modification.
 
-#### 6\. USER CONTROL AND ACCOUNT CANCELATION 
+#### 6\. USER CONTROL AND ACCOUNT CANCELATION
 
 Top
 
@@ -106,13 +106,13 @@ Email: [feedbackus@fox.com](mailto:%20feedbackus@fox.com)
 Mail:  
 Privacy Officer  
 P.O. Box 900  
-Beverly Hills, CA 90212 
+Beverly Hills, CA 90212
 
 #### 8\. ADDITIONAL PROVISIONS FOR CHILDREN'S PRIVACY
 
 Top
 
-We at Fox FE understand that the Internet presents an opportunity for us to reach the public in new and exciting ways with information about our programming, fun games, exciting sweepstakes and contests, email, chat rooms, bulletin boards and other forms of interactivity. Fox FE also recognizes the privacy concerns of parents (including other legal guardians), and the importance of protecting the privacy of the information collected from children at the Fox FE Services. Parents of children under 13 who visit the Fox FE Services can be confident that any personal information that may be provided to the Fox FE Services will be collected and maintained in accordance with the Children's Online Privacy Protection Act ("COPPA"). Fox FE encourages children to check with their parents before using the Fox FE Services and encourages parents to supervise their children's activities online and to participate with their children's online activities whenever possible. 
+We at Fox FE understand that the Internet presents an opportunity for us to reach the public in new and exciting ways with information about our programming, fun games, exciting sweepstakes and contests, email, chat rooms, bulletin boards and other forms of interactivity. Fox FE also recognizes the privacy concerns of parents (including other legal guardians), and the importance of protecting the privacy of the information collected from children at the Fox FE Services. Parents of children under 13 who visit the Fox FE Services can be confident that any personal information that may be provided to the Fox FE Services will be collected and maintained in accordance with the Children's Online Privacy Protection Act ("COPPA"). Fox FE encourages children to check with their parents before using the Fox FE Services and encourages parents to supervise their children's activities online and to participate with their children's online activities whenever possible.
 
 **Collection and Use of Personal Information from Children Under 13.**
 
@@ -146,103 +146,3 @@ If you would like to review the personal information in our records submitted by
 
   
 
-
-## TERMS AND CONDITIONS
-
-### Effective: May 7, 2007
-
-### _TERMS & CONDITIONS:_
-
-Please read these terms of use carefully before using this site. If you do not agree with any of the below Terms of Use, please do not use this site. This site is governed by a Privacy Policy which can be found herein. Some sections of the site may have additional privacy practices which are described in detail at those specific locations. Fox reviews its Privacy Policies periodically and reserves the right to make revisions at any time. Fox encourages parents and children to review the Privacy Policies often for changes. Participant's continued use of the site after a change has been to the policies of the site implies Participant's assent to those changes.
-
-COPYRIGHTS, TRADEMARKS, & RESTRICTIONS TM and © 2011 TWENTIETH CENTURY FOX FILM CORPORATION, AND RELATED ENTITIES ("FOX"). ALL RIGHTS RESERVED. ALL MATERIALS CONTAINED IN THIS SITE, INCLUDING, BUT NOT LIMITED TO, IMAGES, ILLUSTRATIONS, AUDIO CLIPS, AND VIDEO CLIPS INCLUDING BUT NOT LIMITED TO TRAILERS, TV SPOTS AND ANY AND ALL AUDIO VISUAL MATERIALS (COLLECTIVELY "THE MATERIAL") ARE PROTECTED BY COPYRIGHT AND TRADEMARK AND SHALL NOT BE USED FOR ANY PURPOSE WHATSOEVER OTHER THAN PRIVATE, NON-COMMERCIAL VIEWING PURPOSES. REPRODUCTION, DUPLICATION, DISTRIBUTION, DERIVATIVE WORKS, POSTING, AND OTHER UNAUTHORIZED COPYING OR USE OF THE MATERIAL CONTAINED HEREIN IS EXPRESSLY PROHIBITED.
-
-Fox grants Participant a non-exclusive, non-assignable, and non-transferable license to use and display, for personal and noncommercial use only, one copy of any material that Participant may download from this site, including, but not limited to, any files, codes, audio, or images incorporated in or generated by the software (collectively "Downloaded Material") provided, however, that Participant maintains all copyright and other notices contained in such Downloaded Material. Participant acknowledges and agrees not to sublicense, assign, or otherwise transfer this license or the Downloaded Material. Participant also agrees not to alter, disassemble, decompile, reverse engineer, or otherwise modify the Downloaded Material. If Participant wishes to license any Fox Material, including but not limited to, Material contained in this site, please contact the Fox Clip Licensing Department at (310) 369-3605.
-
-### _COPYRIGHT INFRINGEMENT:_
-
-If you believe that any material contained in this Site infringes your copyright, you should notify FOX of your copyright infringement claim in accordance with the following procedure. FOX will process notices of alleged infringement which it receives and will take appropriate action as required by the Digital Millennium Copyright Act (DMCA) and other applicable intellectual property laws. The DMCA requires that notifications of claimed copyright infringement should be sent to this Site's Designated Agent who is:
-
-Copyright Agent  
-Email: FOX.DMCA@fox.com  
-Subject Line: FBC Site DMCA  
-Telephone: (310) 369-7069  
-Fax: (310) 969-5660  
-Address: 10201 W. Pico Boulevard  
-Los Angeles, CA 90035 
-
-To be effective, the notification must be in writing and contain the following information (DMCA, 17 U.S.C. §512(c)(3)):
-
-  1. Physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
-  2. Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
-  3. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material;
-  4. Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted;
-  5. A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law;
-  6. A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
-
-
-
-### _USER'S AGREEMENT AND RULES OF CONDUCT FOR FOX SITE:_
-
-Use and participation in Fox's Internet site is contingent upon Participant's acceptance of the following terms and rules. By using this web site, Participant accepts these terms. For purposes of this agreement, "Participant" refers to you. "Fox" refers to Twentieth Century Fox, its parent, subsidiary and affiliated companies.
-
-1\. _RULES OF CONDUCT:_
-
-(a) Participant shall not post or transmit through Fox any defamatory, threatening, obscene, harmful, pornographic or other material which would violate or infringe in any way upon the rights of others, or which would give rise to criminal or civil liability and/or violate federal or local law or regulation.
-
-(b) Participant shall not upload, post or otherwise make available on the Fox site any material protected by copyright, trademark or other proprietary right without the express permission of the owner of such copyright, trademark or other proprietary right.
-
-2\. _SUBMISSIONS POLICY:_
-
-Notwithstanding the above, Participant hereby waives any and all rights to any stories, ideas, drawings, opinions, and any other creative "materials" posted to the Fox site. Participant authorizes Fox to utilize, in any manner it sees fit and for eternity, the materials posted on the site, which shall become the property of Fox. Participant releases Fox from any and all claims or liability (now known or hereafter arising) in connection therewith, and agrees to indemnify Fox in connection therewith pursuant to the terms of Paragraph 3 below. Participant agrees and acknowledges that participation in the Fox site shall not give rise to any confidential, fiduciary, implied-in-fact, implied-in-law, contractual, or other special relationship between Fox and Participant (other than the contractual relationship between Fox and Participant entered into by virtue of Participant's agreement to these Rules of Conduct.)
-
-3\. _RIGHTS OF FOX / DISCLAIMER OF LIABILITY:_
-
-(a) Fox is a distributor only (and not a publisher) of Fox Chat Room and Bulletin Board content which is supplied by Participant with occasional responses from Fox. Fox shall not be responsible for policing, monitoring, or editing such content, exercises no more editorial control over such content than would a public library, bookstore, newsstand, or other distributor of content, and accordingly, shall not be responsible for exercising editorial control over such content. Notwithstanding the foregoing, Fox shall have the right, but not the obligation, to monitor such content in order to respond to or comment upon communications by Participants and in order to determine compliance with the foregoing Rules of Conduct. Fox shall have the right and sole discretion to edit, to refuse to post or to remove any content whatsoever which it finds to be in violation of the provisions hereof or which it finds in its sole discretion to be otherwise objectionable for any reason.
-
-The opinions expressed in the chat rooms and bulletin boards are not necessarily (and in some cases not at all) those of Fox. Fox is not responsible for any materials provided by users which are deemed harmful or offensive to others. Fox is not responsible in any way for any injury, loss or damage which occurs as a result of an opinion expressed or information provided in these sections of the site.
-
-(b) Fox makes no warranties, express or implied, as to the content in the Fox site or the accuracy or reliability of any information or statements contained therein. All statements, advice and opinions made by Participants in Fox Chat Rooms and Bulletin Boards are those of such Participants only, and Fox neither endorses nor shall be held responsible for the reliability or accuracy of same.
-
-(c) Fox is not responsible for the content or practices of third party Web sites that may be linked to a Fox site. This site may also be linked to Web sites operated by companies affiliated with Fox. Visitors to those sites should refer to each site's separate privacy policies and practices.
-
-4\. _PARTICIPANT'S INDEMNIFICATION / OBLIGATIONS:_
-
-Participant agrees to defend, indemnify and hold harmless Fox, its parent, subsidiary and affiliated companies and their respective directors, officers, employees and agents from and against all claims, losses, costs and expenses (including attorneys fees) arising out of Participant's use of Fox sites, or arising out of any violation of these Rules of Conduct by Participant including, without limitation, any communication by Participant which is claimed to be defamatory, obscene or otherwise unlawful, which is claimed to violate the copyright, trademark, proprietary or other rights of third parties, or which constitutes a submission of materials.
-
-5\. _TERMINATION:_
-
-Fox shall have the right to immediately terminate any Participant's use of the Fox site if Fox determines in its sole discretion that Participant has violated the Rules of Conduct set forth herein or otherwise breached this agreement, or has engaged in conduct which Fox determines in its sole discretion to be unacceptable.
-
-6\. _MISCELLANEOUS:_
-
-This Agreement constitutes the entire agreement of the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous written or oral agreements between the parties with respect to the subject matter hereof. This Agreement shall be construed in accordance with the laws of the State of California, and parties consent to the jurisdiction of the courts in the Central District of California, County of Los Angeles, without regard to its conflict of laws rules.
-
-The Fox site contains neither expressed no implied warranties for use. Fox does not warrant that the site will be without viruses or defects, and Fox is not responsible for any repair or maintenance visitor's system may require as a result of using the Fox site.
-
-This site is operated by Fox from its headquarters in Los Angeles, California. Participants attempting to access this site from other locations do so of their own volition and shall comply with any applicable local laws governing interactive sites.
-
-© 2011 Twentieth Century Fox. All Rights Reserved.
-
-  
-
-
-## WIRELESS SERVICES TERMS AND CONDITIONS
-
-Twentieth Century Fox Film Corporation ("Fox") provides short message service updates, mobile alerts, ringtone, wallpaper and multimedia delivery, sweepstakes entry capability, contest voting capability, and other services to wireless devices (collectively, the "Service"). Please read these terms and conditions prior to using the Service. By using the Service, you agree to be legally bound by these terms and conditions and our Privacy Policy and Terms and Conditions. If you do not agree with these terms, please do not use the Service. Please note that to process your requests for this Service, standard text rates apply and you may be charged a fee to send and receive messages based on the terms of your wireless service. Check with your wireless service provider if you have questions about your service plan. Fox can, without notice, change or discontinue the services, begin charging fees or increase its current fees for the Service or make any other modifications to these special terms at any time by giving you notice prior to the time in which the charges or other changes would go into effect. If you choose to use the Service after that point, you are accepting such changes. If you disagree with the changes, your only remedy is to discontinue using the Service.
-
-**Privacy**
-
-Fox respects your privacy. We will only use information you provide to the Service to transmit your text message or as otherwise described in this document. Nonetheless, we reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect our rights or property. When you complete forms online or otherwise provide us information in connection with the Service, you agree to provide accurate, complete, and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If we, in our sole discretion, believe that any such information is untrue, inaccurate, or incomplete, we may refuse you access to the Service and pursue any appropriate legal remedies. Please review our Privacy Policy and Terms and Conditions for further information.
-
-**Opt-Out**
-
-You can cancel your receipt of wireless messages and this service by texting the word STOP to 75555.
-
-**Disclaimer of Warranties for the Services**
-
-Since the Services are delivered to you via your wireless service provider's network, Fox cannot warrant or promise that the Services and corresponding software will work with all wireless products or be available at all locations and at all times. In the event of product, software, coverage or other service changes made by your wireless carrier, Fox cannot warrant or promise that the Services will continue to work or work properly. Therefore, Fox offers the services on an "AS IS" basis only. Fox cannot promise or warrant the accuracy or availability of the services and software, or that the services will be free of errors or interruptions. To the fullest extent of the law, Fox makes no representations of warranties, expressed or implied, including any implied warranty of merchantability, fitness for a particular purpose, or warranty of accuracy concerning the services and their software. Fox is not responsible for any lost, late, incomplete, damaged, or misdirected text messages; failures or malfunctions of phones and wireless devices (including wireless phones/handsets), phone lines or telephone systems, cellular equipment towers, wireless services or other communications malfunctions; unavailable or interrupted networks or servers; miscommunications, failed computer hardware or software or other technical failures; garbled, lost, misrouted or scrambled transmissions; any error, omission, interruption, defect or delay in any transmission or communication; traffic congestion; or for any other technical problem.
-
-**Limitation of Liability**
-
-YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY CLAIM OR DISPUTE WITH FOX REGARDING THE SERVICES IS TO STOP USING THE SERVICES. IN NO EVENT SHALL FOX BE LIABLE FOR INCIDENTAL, INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE OF THE SERVICES AND SOFTWARE OR THE INABILITY TO USE THE SERVICES OR OUT OF ANY BREACH OF ANY REPRESENTATION OR WARRANTY, AND IN NO EVENT SHALL FOX'S TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES AND CAUSES OF ACTION (WHETHER IN CONTRACT, TORT OR OTHERWISE) EXCEED THE AMOUNT PAID BY YOU FOR ACCESSING THE SERVICES IN QUESTION.
