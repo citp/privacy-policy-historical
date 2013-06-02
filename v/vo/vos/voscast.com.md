@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voscast.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105110243id_/http%3A//www.voscast.com/terms/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voscast.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602085213id_/http%3A//www.voscast.com/terms/%23privacy) for the most accurate reproduction.*
 
 # VosCast - SHOUTcast Hosting
 
@@ -15,9 +15,13 @@ By registering, purchasing hosting, or using the site, you are agreeing to the f
 
 **d.** When ordering a SHOUTcast server from VosCast, you are only renting the SHOUTcast server. All services remain the property of VosCast. 
 
-**2\. Maximum Bitrate**
+**2\. Usage**
 
  **a.** You may only use up to the maximum bitrate that your purchased with your server when broadcasting. If you attempt to use a higher bitrate, you will automatically be disconnected from our server. 
+
+**b.** Servers may only be used for the services they were intended and you may not install or use unauthorized third party programs. Unauthorized usage, such as attempting to access or interfere with other clients data, will result in suspension of your services. 
+
+**c.** Your usage must not interfere with the services we provide to other customers. 
 
 **3\. Licensing and Other Legal Obligations**
 
@@ -35,7 +39,11 @@ By registering, purchasing hosting, or using the site, you are agreeing to the f
 
 **c.** VosCast.com is not liable to store any statistical data regarding servers, such as listener information. 
 
-**5\. Unlimited Services**
+**5\. Service Availability**
+
+ **a.** We make reasonable efforts to ensure services are available 24 hours a day, 7 days a week for as long as you have paid for them. Sometimes, however, for a number of reasons, services may be unavailable to you. You recognize and acknowledge that on occasion, an event will occur causing services will be unavailable. We make no representation or warranty that our services will be uninterrupted. 
+
+**6\. Unlimited Services**
 
  **a.** In the best interest of our subscribers, VosCast does not put an limit on the amount of listeners that may connect to the server, nor the amount of bandwidth a server may use. 
 
@@ -43,7 +51,7 @@ By registering, purchasing hosting, or using the site, you are agreeing to the f
 
 **c.** The unlimited service offered on our site is intended for personal sites, home businesses, and small businesses. Our service is not intended for large enterprises, or other stations better suited to a dedicated server. 
 
-**6\. Auto DJ Service**
+**7\. Auto DJ Service**
 
  **a.** "Auto DJ" is included as a free service with your VosCast account, that enables you to stream music from our servers to your SHOUTcast server. When renting a SHOUTcast server from VosCast, you are not paying for the Auto DJ service. For this reason, we offer no guarantees regarding the quality of this service. 
 
@@ -51,19 +59,23 @@ By registering, purchasing hosting, or using the site, you are agreeing to the f
 
  **c.** We reserve the right to discontinue our free "Auto DJ" service at any time. 
 
-**7\. Refunds**
+**8\. Refunds**
 
  **a.** Refunds will only be issued at our sole discretion. Problems can typically be resolved by contacting customer support. 
 
 **b.** Any chargebacks or reversed transactions made on your payments will result in your account being immediately terminated. 
 
-**8\. Our Site**
+**9\. Our Site**
 
  **a.** We cannot assure that the site is completely free from exploits. If a user is caught exploiting any area of VosCast.com, their account will be permanently terminated. 
 
 **b.** We reserve the right to modify any of the information on the site at any given time. 
 
-**These terms of service were last modified on July 14, 2011.**
+**10\. Other**
+
+ **a.** You may review our privacy policy at the following link: <http://voscast.com/terms/#privacy>
+
+**These terms of service were last modified on April 12, 2013.**
 
 **VosCast Privacy Policy**  
 We may be contacted at the following link: [http://voscast.com/support/](https://web.archive.org/support/)
