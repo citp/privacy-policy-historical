@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mostbeautifulman.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920030836id_/http%3A//www.mostbeautifulman.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mostbeautifulman.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602043945id_/http%3A//www.mostbeautifulman.com/privacy.shtml) for the most accurate reproduction.*
 
 # Mostbeautifulman.com -- The World's #1 Male Celebrity Site
 
@@ -29,6 +29,6 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 | 
 
 Celebrity photos courtesy of Getty Images, WireImage, Tetu Magazine, Icon Magazine, Attitude Magazine, DNA Magazine, Paparazo, Terra's The Boy,   
-AP, Reuters, IMDB, CP, WENN, Universal Pictures, Columbia Pictures, Lion's Gate Films, New Line Cinema, Twentieth Century Fox, USA Films 
+AP, Reuters, IMDB, CP, Universal Pictures, Columbia Pictures, Lion's Gate Films, New Line Cinema, Twentieth Century Fox, USA Films 
 
-© 2000-2011 MostBeautifulMan.com -- [About Us](http://www.mostbeautifulman.com/jury.shtml) \- [Email Us](https://web.archive.org/email/) \- [Advertise on this site](https://web.archive.org/email/) \- [Privacy Policy ](http://www.mostbeautifulman.com/privacy.shtml)
+© 2000-2013 MostBeautifulMan.com -- [About Us](http://www.mostbeautifulman.com/jury.shtml) \- [Email Us](https://web.archive.org/email/) \- [Advertise on this site](https://web.archive.org/email/) \- [Privacy Policy ](http://www.mostbeautifulman.com/privacy.shtml)
