@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dashingtimes.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224121403id_/http%3A//www.dashingtimes.com/%3Fpage_id%3D456) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dashingtimes.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602032947id_/http%3A//www.dashingtimes.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -10,7 +10,7 @@ We use this information to deliver our web pages to you upon request, to tailor 
 
 The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access. However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. We use third-party advertising companies to serve ads when you visit our Web site.
 
-These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (http://www.advertising.com/Privacy.html) Any questions or clarifications with respect to this Policy can be sent to Dashingtimes at :
+These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: ) Any questions or clarifications with respect to this Policy can be sent to Dashingtimes at :
 
 Dashingtimes Internet Limited (Privacy Policy)  
 I-3,3A,5A,UG-4 Azadpur Comml. Complex.  
