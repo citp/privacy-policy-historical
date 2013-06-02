@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solocheck.ie privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920013113id_/http%3A//www.solocheck.ie/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solocheck.ie privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602104113id_/http%3A//www.solocheck.ie/privacy.jsp) for the most accurate reproduction.*
 
 # Data Protection and Privacy - Irish Company Info - SoloCheck
 
@@ -17,3 +17,31 @@ Under Section 4 of the Data Protection Acts 1988 and 2003 you have a right to ge
 ## Company Data Right of Access
 
 Information supplied to CRO pursuant to the Companies Acts and the Registration of Business Names Act do not come within the Data Protection Acts 1998-2003, being "personal data consisting of information that the person keeping the data is required by law to make available to the public". Such data therefore falls outside the Terms of this Privacy Statement. Examples of information which does not fall under the Right of Access would be, Directors Appointment, or change in particulars of Details, and or the Registration of a Business or Company Name.
+
+## Cookie Policy  
+
+
+SoloCheck.ie respects the privacy of all visitors to our website. This text outlines our policy around our use of cookies. Our Cookie Policy may be updated from time to time to reflect any changes in technology or legislation which may affect the way in which cookies are used by us and how you as a user, can manage them. 
+
+#### What is a cookie
+
+Cookies are small pieces of data given to your browser by a website, which may be stored as text files in the cookie directory of your computer. Cookies are not programs and cannot collect information from your computer. A cookie can be used for authentication, storing site preferences, shopping cart contents, the identifier for a server-based session... 
+
+To protect your privacy your browser only returns a cookie to the website that sent you the cookie and does not send it to any other website. A website cannot access your cookie directory or information on your computer, instead relevant cookies are included by your browser within each request you make to the website. 
+
+You do not have to accept cookies and you can change the settings within your browser to accept all cookies, reject all cookies, reject cookies from certain websites, notify you if a site is requesting to set a cookie, and set various other options. 
+
+Switching off cookies will still allow you to view the logged out sections on our site, however, it will prevent you from logging in. It will also stop us remembering your login name. 
+
+#### Cookies used on SoloCheck.ie
+
+  
+Type| Expiration| Description  
+---|---|---  
+Session/Login Cookies| End of browser session| In order for our server to recognise a logged in user, a session cookie must be used. When a user first enters SoloCheck.ie, they are assigned a cookie which is then used to identify them throughout their session. The information passed does not contain or relate to any personal information.  
+Username Cookie| 31 days from last login| Many users prefer not to have to remember their username on a website, therefore by default we store the latest username in a cookie for successful logins.   
+Analytics Cookies| Maximum 2 years from set/update| These cookies are used to collect information about how visitors use our site, which we use to help improve it. The cookies collect information in an **anonymous** form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. We use one of the most frequently used suppliers for this.  
+Cookie cookie| 60 days from set/update| We provide an option to "Hide this message" about cookies, which itself requires a cookie. This cookie is only written to your computer if you click the "Hide this message" link.  
+  
+  
+To learn more about managing cookies view your web browser help or visit [aboutcookies.org](http://www.aboutcookies.org/Default.aspx?page=1)
