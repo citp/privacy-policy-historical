@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crust.com.au privacy policy that was archived on 2012-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120326095532id_/http%3A//crust.com.au/aboutus/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crust.com.au privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602193958id_/https%3A//www.crust.com.au/aboutus/privacy-policy) for the most accurate reproduction.*
 
 # Crust Gourmet Pizzas
 
