@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the made-from-india.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116193525id_/http%3A//www.made-from-india.com/Contents/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the made-from-india.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602030121id_/http%3A//www.made-from-india.com/Contents/Privacy) for the most accurate reproduction.*
 
 # www.made-from-india.com
 
