@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eteachergroup.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202150600id_/http%3A//eteachergroup.com/eteacher-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eteachergroup.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602233204id_/http%3A//eteachergroup.com/eteacher-privacy-policy) for the most accurate reproduction.*
 
-# eTeacher Privacy Policy | eTeacher Online Language Academy
+# eTeacher Privacy Policy | Learn a foreign language
 
 This document contains information regarding our privacy policy and practice and is brought to you so you feel comfortable using our website and services. It is presented for your benefit and describes how we collect and use information. Please take a minute to read the following statement in order to make sure you agree with our practices. By using eTeacher.com and / or its web properties, you permit the usage of your Personal Information (as such term is defined below) as outlined below in our Privacy Policy and in the Terms of Use.
 
