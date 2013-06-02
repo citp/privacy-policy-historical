@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the littlebree.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223042623id_/http%3A//littlebree.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlebree.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602043140id_/http%3A//www.littlebree.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy_nethole
+# Privacy
 
-Privacy Policy for Pacific Park Solutions Ltd  
+Privacy Policy for TR Financial Resources Inc   
 
 
 Adults Only Service   
