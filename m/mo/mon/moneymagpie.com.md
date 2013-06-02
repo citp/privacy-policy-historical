@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymagpie.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118052446id_/http%3A//www.moneymagpie.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymagpie.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602141309id_/http%3A//www.moneymagpie.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement & Cookies | Moneymagpie - Free tips on Debt, Shopping, Credit Cards and more!
 
