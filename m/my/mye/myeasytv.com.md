@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myeasytv.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219123810id_/http%3A//www.myeasytv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myeasytv.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602123241id_/http%3A//www.myeasytv.com/privacy-policy) for the most accurate reproduction.*
 
 # MyEasyTV.com : Privacy Policy
 
