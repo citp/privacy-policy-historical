@@ -1,413 +1,1472 @@
-<!--The following is the downloaded HTML source of the proxibid.com privacy policy that was archived on 2008-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080603032239id_/http%3A//www.proxibid.com/asp/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the proxibid.com privacy policy that was archived on 2013-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602060550id_/https%3A//www.proxibid.com/asp/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<title>Proxibid: Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=Edge"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/jscript/jquery-min.js?_v=20130601020737"></script><script type="text/javascript" src="/jscript/jquery-ui-1.8.14.custom.min.js?_v=20130601020737"></script><script type="text/javascript" src="/jscript/jquery.tooltip.pack.js?_v=20130601020737"></script><script type="text/javascript" src="/jscript/LazyLoad.js?_v=20130601020737"></script><script type="text/javascript" src="/jscript/session.js?_v=20130601020737"></script><script type="text/javascript" src="/jscript/commonUi.js?_v=20130601020737"></script><script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-291821-1']);_gaq.push(['_setDomainName', '.proxibid.com']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script><title>Leader in Online Timed &amp; Live Webcast Auctions | Proxibid Auctions</title>
+<script type="text/javascript">
+	jQuery.noConflict();
+			
+	jQuery(document).ready(function () {
+		var $ = jQuery;
+		jQuery('.proxibiddate').val('');
+		jQuery('.proxibiddate').datepicker({
+			onClose: function (dateText, inst) {
+				if (dateText != '') {
+					jQuery('#selectedDate').val(dateText);
+					jQuery('#auc-date-search').submit();
+				}
+			}
+		});
 
+		jQuery(".auc-cal-global").click(function () {
+			jQuery(this).prev('.proxibiddate').datepicker("show");
+			return false;
+		});
 
+		jQuery('.proxibidtooltip').proxibidtooltip({ delay: 0 });
 
-<meta name="description" content="Proxibid live internet auction broadcasting, live Internet auctions, The largest auction community on the Internet, auction marketing and promotion, live Internet bidding."><meta name="abstract" content="Realtime online auction services for auctioneers and bidders located anywhere"><meta name="keywords" content="antiques, art, auction, auctioneers, auctions, bidding, collectibles, collector cars, construction equipment, equine, estate sales, farm equipment, heavy equipment, industrial auctions, internet auctions, live auction, live auctions, live Internet bidding, online auctions, real estate"><meta http-equiv="Content-Language" content="EN"><meta name="author" content="Kinetic Software, Inc., Enhance Design, Inc."><meta name="distribution" content="Global"><meta name="copyright" content="Proxibid 2004"><meta name="robots" content="FOLLOW,INDEX"><meta name="Revisit-After" content="1 Day">
+/* white label only */
+		// separate category fly out from browse fly out.
 
+		jQuery(document.getElementById('wlCategoryContainer')).mouseleave(function () {
+			categoryMouseOut();
+		});
 
-<link rel="stylesheet" href="/css/Global.css" type="text/css">
-<link rel="shortcut icon" href="/favicon.ico">
-<script language="JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
+		jQuery(document.getElementById('wlCategoryContainer')).mouseenter(function () {
+			cancelCategoryMouseOut();
+		});
 
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
+		jQuery(document.getElementById('whiteLabelViewAuctions')).mouseleave(function () {
+			if (showCategoryMenu.hoverDelay) {
+				clearTimeout(showCategoryMenu.hoverDelay);
+			}
+			categoryMouseOut();
+		});
 
-function MM_findObj(n, d) { //v4.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && document.getElementById) x=document.getElementById(n); return x;
-}
+		jQuery(jQuery('#whiteLabelViewAuctions')).mouseenter(function () {
+			showCategoryMenu.hoverDelay = setTimeout(function () {
+				showCategoryMenu(true);
+			}, 200);
 
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
+			cancelCategoryMouseOut();
+		});
+		
+	});
+	
+	(function ($) {
+		jQuery.fn.proxibidtooltip = function (options) {
 
-//-->
+			var settings = {
+				track: false,
+				delay: 750,
+				top: 5,
+			    left: 5
+			};
+
+			return this.each(function () {
+
+				if ( options ) { 
+					$.extend( settings, options );
+				}
+				var nowrap = ""
+				if($(this).hasClass("tooltipnowrap")) {
+				    nowrap = 'nowrap = "nowrap"'
+				}
+				var tooltipBegin = "<table class=\"proxibid-tooltip-hover\">"
+					+ "<tr><td class=\"proxibid-tooltip-crnrblk\"><img src=\"/images/hover-bg-topL.png\" /></td>"
+					+ "<td class=\"proxibid-tooltip-crnrblk proxibid-tooltip-topbg\"></td>"
+					+ "<td class=\"proxibid-tooltip-crnrblk\"><img src=\"/images/hover-bg-topR.png\" /></td>"
+					+ "</tr><tr><td class=\"proxibid-tooltip-crnrblk proxibid-tooltip-lftbg\"></td><td class=\"proxibid-tooltip-txt\"" + nowrap + ">";
+				var tooltipEnd = "</td><td class=\"proxibid-tooltip-crnrblk proxibid-tooltip-rgtbg\"></td>"
+					+ "</tr><tr><td class=\"proxibid-tooltip-crnrblk\"><img src=\"/images/hover-bg-btmL.png\" /></td>"
+					+ "<td class=\"proxibid-tooltip-crnrblk proxibid-tooltip-btmbg\"></td>"
+					+ "<td class=\"proxibid-tooltip-crnrblk\"><img src=\"/images/hover-bg-btmR.png\" /></td>"
+					+ "</tr></table>";
+				
+				
+				//Preload images if using tooltips
+				if(jQuery('#preloadToolTipTopLeft').length == 0){
+					jQuery('body').append('<div id="preloadToolTipTopLeft" class="imgPreload"></div>'
+						+ '<div id="preloadToolTipTopRight" class="imgPreload"></div>'
+						+ '<div id="preloadToolTipTop" class="imgPreload"></div>'
+						+ '<div id="preloadToolTipLeft" class="imgPreload"></div>'
+						+ '<div id="preloadToolTipRight" class="imgPreload"></div>'
+						+ '<div id="preloadToolTipBottomLeft" class="imgPreload"></div>'
+						+ '<div id="preloadToolTipBottomRight" class="imgPreload"></div>'
+						+ '<div id="preloadToolTipBottom" class="imgPreload"></div>');
+				}
+
+				var text = $(this).attr('title');
+
+				jQuery(this).tooltip({
+					track: settings.track,
+					delay: settings.delay,
+					top: settings.top,
+					left: settings.left,
+					showURL: false,
+					fixPNG: true,
+					id: 'proxibid-tooltip',
+					bodyHandler: function () {
+						return tooltipBegin + text + tooltipEnd;
+					}
+				});
+
+			});
+
+		};
+	})(jQuery);
+
+	function cancelCategoryMouseOut() {
+		if (categoryMouseOut.t != "undefined") {
+			clearTimeout(categoryMouseOut.t);
+		}
+	}
+
+	function categoryMouseOut() {
+		if (categoryMouseOut.t != "undefined") {
+			clearTimeout(categoryMouseOut.t);
+		}
+
+		//Half second delay before closing the flyout
+		categoryMouseOut.t = setTimeout(function () {
+			hideCategoryMenu();
+		}, 200);
+	}
+
+	// Category fly out functions
+	function showCategoryMenu(throttle) {
+		var $ = jQuery;
+		//Longer fx interval for performance
+		//jQuery.fx.interval = 25;
+		cancelCategoryMouseOut();
+
+		$('#wlCategorySlider2').hide();
+		$('#wlCategorySlider').show();
+		$('#wlCategoryContainer').stop();
+		$('#wlCategoryContainer').animate({
+			top: "0px"
+		}, 200, 'linear', function () {
+			//Reset fx interval to default
+			//jQuery.fx.interval = fxInterval;
+		});
+
+		//Prevent clicking for a period of time so the user
+		// doesn't hover then immediately click it away
+		if (throttle) {
+			showCategoryMenu.throttle = true;
+			setTimeout(function () {
+				showCategoryMenu.throttle = false;
+			}, 300);
+		}
+	}
+			
+	function hideCategoryMenu() {
+		if (!jQuery('#wlCategorySlider').is(':hidden')) {
+			jQuery('#wlCategoryContainer').stop();
+			jQuery('#wlCategoryContainer').animate({
+				top: "-355px"
+			}, 200, 'linear', function () {
+				jQuery('#wlCategorySlider').hide();
+			});
+		}
+	}
 </script>
+<script type="text/javascript" src="https://ox-d.proxibid.com/w/1.0/jstag"></script>
+<script type="text/javascript">
+	var OX_50122ca5bc167 = OX();
+	OX_50122ca5bc167.addPage("13008");
+	OX_50122ca5bc167.fetchAds();
+</script>
+<link rel="home" href="/">
+<link rel="help" href="/asp/help.asp">
 
-<script language="javascript">
-<!--
-function DoOnLoad()
+<meta name="description" content="Bid confidently with Proxibid's online timed &amp; live webcast auctions. Purchase antiques, fine art, collectibles, cars, farm equipment &amp; more!"><meta name="abstract" content="Realtime online auction services for auctioneers and bidders located anywhere"><meta http-equiv="Content-Language" content="EN"><meta name="distribution" content="Global"><meta name="copyright" content="Proxibid 2004-2013"><meta name="google-site-verification" content="74oWOWb094buSf4zP9ciAehSBhIZMCwFsUoQWeB6UCg"><meta name="y_key" content="2ec2b4a543aaa2c2"><meta name="msvalidate.01" content="9CD06724A3CC6A8B78295146A5C7E8DC">
+<meta name="robots" content="follow,index">
+<meta name="keywords" content="antique fine art, fine art auction, live webcast auction, online auction, online live auction, online live auctions, online webcast auction, proxi bid, proxibid, proxibid auction, proxibid auctions, webcast auction, farm equipment auction"><link rel="stylesheet" href="/css/reset-base-font.css?version=20130601020737" type="text/css"> 
+<link rel="stylesheet" href="/CSS/global.css?version=20130601020737" type="text/css">
+<link rel="stylesheet" href="/css/proxibid.css?version=20130601020737" type="text/css">
+<link href="/css/jqueryui/proxibid-theme/jquery-ui-1.8.14.custom.css?version=20130601020737" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/favicon.ico" type="text/css">
+
+<!--[if IE 9]>
+	<style type="text/css">
+		#gliderAuctionData{
+			position:relative;
+			z-index: 1;
+		}
+	</style>
+<![endif]-->
+
+
+
+
+
+
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/Global-6.css?version=20130601020737" />
+
+
+<![endif]-->
+
+
+<!--[if IE 7]>
+<style  TYPE="text/css">
+div.search_thumbnail a {
+	width:90px;
+	height:90px;
+	max-width:91px;
+	max-height:91px;
+}
+.isIE{display:block;}
+.isnotIE{display:none;}
+
+INPUT#topNavSearchInput
 {
-//put script to run on the body load event here.
+    background-image: none;
+    position: relative;
 }
-//-->
-</script>
+a#topNavSearchGo
+{
+    position:relative;
+}
+div#inputBkgrnd
+{
+    background-image: url('/images/sprites/advanced_search.png');
+    background-repeat: no-repeat;
+    background-color: transparent;
+    background-position: bottom right;
+}
+div#inputBkgrnd
+{
+ 	background-position: -26px -90px;
+    position:absolute;
+    left:-223px;
+	padding: 3px;
+	margin:0px;
+    font-size:105%;
+    font-weight:600;
+	width:176px; /* ie fix */
+	height:17px;
+	max-width:176px;
+	max-height:17px;
+    color:#777;
+	border: none;
+    /*border:1px solid #CCC;*/
+}
 
-<script type="text/javascript" src="/JScript/DateToolLink.js"></script>
-<script type="text/javascript" src="/jscript/MicrosoftAjax.js"></script>
-<script type="text/javascript" src="/jscript/MicrosoftAjaxRuntime.js"></script>
-<script type="text/javascript" src="/jscript/MicrosoftAjaxWebForms.js"></script>
-<script type="text/javascript" src="/jscript/prototype.js"></script>
-<script type="text/javascript" src="/jscript/effects.js"></script>
-<script type="text/javascript" src="/jscript/slider.js"></script>
-<link rel="stylesheet" type="text/css" href="/CSS/shadow2.css">
-<link rel="stylesheet" href="/css/NewHome.css?v=7232007" type="text/css">
-<script language="javascript">
-<!--
+</style>
+<![endif]-->
 
-//needed by NewHome.js
-var AuctionInfo = new Array();
-AuctionInfo = "0|<a href='http://www.proxibid.com/asp/Catalog.asp?aid=12687'><img height='177' hspace='' width='522' border='0' alt='' src='/AnnouncementFiles/Image/J_Sugarman_June29.jpg' /></a>~!~0|<a href='http://www.proxibid.com/asp/AuctionsByCompany.asp?ahid=2507'><img height='177' alt='' width='525' border='0' src='/AnnouncementFiles/Image/BioArts_June19_Ver3.jpg' /></a>~!~0|<a href='http://www.proxibid.com/asp/Catalog.asp?aid=12329'><img height='177' hspace='' width='525' border='0' alt='' src='/AnnouncementFiles/Image/Ogrens_June8_2008_Ver2.jpg' /></a>~!~0|<a href='http://www.proxibid.com/asp/Catalog.asp?aid=12768'><img height='177' hspace='' width='525' border='0' alt='' src='/AnnouncementFiles/Image/AandW_Surplus_June8_2008.jpg' /></a>~!~".split("~!~")
-var BidderOK = 0
-var ArchiveCount = "2,232,910"
-var sAuctionHouseName = "Enter auction company name"
-var AHarray = new Array("$$ 1 For the Money Auctions  $$","123SoldSC","4 A Good Auction","A & W Surplus and Auctions","A&S AUCTION","A-1 Auction ","A-1 AUTO AUCTION","A-1-A Auction","A-Z Estate Realty","A.J Willner Auctions","AAA Auctions & Appraisal ","Aasness Auctioneers","Abal Auction Real Estate","Abamex Auction Co.","Abdalla Auctions International","Absolute Auction Co.","According To Hoyle, Inc.-Shells Realty","Accredited Auctioneer Services","Acerra & Proulx Real Estate Auctioneers Inc.","ACME Auctions Inc.","Action Auction Co","Acton & Associates Auctioneers","Acuity Management, LLC","Adam's Auctions","Advantage Auction & Realty, Inc.","Advertising Federation of the Roanoke Valley","Affiliated Auctioneers, LLC","Affiliated Auctions & Realty","Ahrens & Niemeier Auction  Service LLC","AJ Karas Auctioneers, LLC","AJAuctioneers & Appraisers, Ltd.","Albert Burney, Inc.","Albrecht Auction Service Inc","Alex Lyon and Son","Alex Lyon and Son Co.de Mexico, s.a. de c.v.","Alexander Auctions & Real Estate","Alfred A. Robinson Company","All Florida Realty and Auction Co","All In, All Done Estate Auctions, Inc.","All States Auctioneers Inc.","All Ways Auction Service","Allen Shaeer Wholesale Auction","Alley Auction, Inc.","Alliance Realty & Auction","Allyn Auction Company Inc.","Alternative Solutions Auction Company, LLC","American Auction & Equipment LLC","American Auction Co.","American Auction Services","American Auctions & Appraisals, Inc.","American Auctions LLC","American Glass Treasures, Inc.","American Heritage Auction & Real Estate Inc.","American Motorcyclist Association","AmeriSouth Auctions, Inc.","Amundsen Mickelson Auction Service","Anderson Auctions","Anderson Auctions Real Estate","Anderson House Auctioneers","Anthony Auctioneers","Antique Helper Auctions","Antique John's Auction","Antique Warehouse Auctions","Antiquelots","Antiques and Estate Auctioneers and Appraisers","Antiques and Uncle Junks","Apex Auction Inc.","Appraisal1One Auctions","AREMCOM CORPORATION","Aristocrat Auction Services LTD","ArkadiA Auction Company","Armitage Equipment","Armstrong Auction Service ","Arneson Auction Service","Arrow Auction Services, Inc","Arthur Trovei & Sons, Inc","Asset Auctions LLC","Asset Sales, Inc.","Asset Services Corporation","Assiter & Associates LLC","ATA Auctions","Atlanta Auction Company, Inc.","Atlantic Asset Management Group","Atlas Auctions","Atterberry Auction & Realty Co. LLC","Auctio Property Marketing Inc. / Liptay","Auction America Inc.","Auction Block, Inc","Auction Connection Inc.","Auction Consultants Inc.","Auction Exchange International","Auction Express","AUCTION EXPRESS","Auction House of West Salem","Auction It Now, LLC","AUCTION LIQUIDATION SERVICES","Auction Louisianne, Inc.","Auction Marketing Network, Ltd","Auction Marketplace - Ken & Bonnie Jackson, Inc.","Auction Masters","Auction One Las Vegas","Auction Orange","Auction Services Group","Auction Services International","Auction Services Ltd","Auction Solutions, inc","Auction Specialists, LLC","Auction Time Inc","AUCTION WORKS","Auctioneers by Carla Bonten Inc.","AuctionFirst Central Texas Inc","AuctionFirst North Carolina Inc","Auctions & Appraisals of Illiana, LLC","Auctions and Realty of America, Inc.","Auctions and Services Unlimited","Auctions By Maggie","Auctions by Mary","Auctions By Mesiano LLC","Auctions by Moldenhauer","Auctions by Simnitt Bros., Inc.","Auctions Imperial","Auctions Pluss","AuctionsHawaii.net","Aumann Auctions, Inc. / A Marknet Alliance Member","Austin Auction Gallery","Austin Auctions, LLC","Auto Liquidation Center","AWE Auctions & Appraisals, LLC","Awesome Auction Realty","Ayers Auction & Real Estate / MarkNet Alliance","B.I.G. ANTIQUES AND COLLECTABLES AUCTION HOUSE","Badger Corporation","Badger State Auction","Bailey Auction Company","Bailey's Honor Auction & Estate Service","Baird Auctions & Appraisals","Baker Auction","Baker Bonnigson Realty & Auctioneers, Inc","Bar None Auction","Barlow Auctions, Inc.","Barnes Auction Sales","Batterman's Auction LLC","Baxter Auction Co.","Bean and Bean Auction","Beatrice Auction House","Beckort Auctions, LLC","Beeline Auto Auction","Belcher McPherson Auction Company","Belhorn Auction Services, LLC","Belle City Auctions - Linda Payne","Beloit Auction & Realty, Inc","Ben Higgins Auctioneers","Bendis Companies Inc.","Bentley & Associates, LLC","Berman Auctioneers & Appraisers","Bertrand & Cole, Inc.","Besner Auction & Realty","Best Deal Auctions","Bexhill Realty Auction Group","Beyer Auction Service","BidItBob Auctions","BIDITUP","Big Bear Auction Company","BIG CHEESE INC","Big Sports 590","Bill Colson Auction & Realty Co., Inc.","Bill Downs Auction Service","Bill Forbes & Associates, Inc.","BILL KLASSEN AUCTIONS LTD","Bill Perkins Auction & Realty LLC","Bina Auction Service","BioArts International","Black Diamond Auctions","Blackford Real Estate and Auction TNFL#2751 ","Blair Auction & Appraisal LLC.","Blomquist Auction & Appraisal Service LLC","Blow Out Auction","Bo Carpenter Auction Inc","Bob Duncan and Associates","Bob Parks Auction Company","Bob Robeson & Associates","Bobby Lewis Auction & Real Estate, Inc.","Boge Auctioneers & Appraisers","Booker Auction Company","Borger Auction","Bounds Auctions & Valuations","Bowers and Merena Auctions","Brian Rowley's Auction Service ","Brian Wheeler Auction","Brittan Auctions","Brock Auction Co., Inc.","Brodie Corporation","Brooks Auction and Appraisal","Brown and Baker Auction Co.","Brown's Auction","Broyles Real Estate & Auction Co.","Bruce Schapansky Auctioneers","Bryan's Farm and Industrial Supply Ltd.","Bud Palmer Auction","Buddy Ray Auction and Appraisal Co.","BUE'S AUCTION AND ESTATE SERVICES","Bunach Auctioneering Company","Bunch Bros. Auction & Realty","Bunte Auction Services, Inc.","Burdine's Auction House","Burns and Sons Auctions","Burow's Auction Service Inc ","Burton Realty and Auction, Inc.","Butterfields Auctions","C & L Auctioneers","C. B. Kaye & Associates","Cadle Auctions","Cain Auctions","Cane & Gavel Auctions","Cannon Auction Service","Cape Fear Chapter of the American Red Cross","Capital City Auction","CAPITOL AUCTIONS LLC","Carlton & King Auction Service","Carolina Auction & Realty, Inc.","Carwile Auctions Inc ","Cash Now Realty & Auction","Cash Realty and Auction","Caspert Management Company, Inc.","Cassel & Associates Realtors-Auctioneers","Castner Auction & Appraisal Service, LLC","Catching Bros. Auctioneers, LLC","Cates Auction & Realty Co., Inc.","Centurion Service Group","Certified Auctioneer Institute","Charles County Auction Company","Charles W. Beck Enterprises","Chatterbox Auctions","Checkered Flag Auctions","Chicks Discount Saddlery","Chip Carpenter Real Estate & Auction Co.","Chip Winstead Real Estate & Auction","Chris Pracht Auctioneers & Realty and Auction, LLC.","Christopher Auctions, LLC","Christy's of Indiana","Chuck Bohn & Associates, inc.","Chuck Yarbro Auctioneers & Real Estate Services, LLC","Chuilli's Auction Service LLC","CIS Asset Solutions, Inc.","Claiborne Auctioneers, LLC","Clark Auction Services","Clark Sales, Inc.","Classic Carriages","Classic Consignment & Auction","CLC Auction Services","Cliff Shuler Auctioneers & Liquidators, Inc. AB#9/AU#14","CMA Auction Services","Coastal Auction Company Inc.","Coastal Auctions, Inc","Cobb Ranch Auctions","CoinFixation","Col. Steve Sitar & Co.","Colbert Auctions","Coldwell Banker Barnes  Auction Division","Coldwell Banker Glennon-Weber Auction Division","Coldwell Banker Upchurch Realty Auction Group","Cole & Co. Auction & Appraisal Service Inc.","Cole Auctions","Collar City Auctions Realty & Management","Collector Cars International","COMMERCIAL INDUSTRIAL AUCTIONEERS","ComTex Auctions","Connecticut Auction House","Continental Auction Group","Continental Realty Auctions","CONTINUUM BIDDER-SALE EVENTS","Coody Auction & Realty Services, LLC","Cookie Lockhart Auctioneer Company","Corbett Auctions and Appraisals","Corbett Bottles Real Estate Marketing LLC.","Cornerstone Auction Co.","Cornucopia Auction Service","Corporate Internet Auctions LLC","Cory Craig Auctioneer","Cottone Auctions & Appraisals","Count Your Assets","Countrywide Tractor and Auction","CR Menn Auctions","Crain-Davis Auctioneers LLC","Craney Brothers Auction Services","Crossville Auctions Inc ","Crye-Leike Auctions","Crye-Leike of Nashville Inc. TN FL # 1473","Cullen Johnson Equipment and Auction","Culpeper Auction Assoc., Inc.","Curran Miller Auction & Realty","Curt D Johnson Auction Company","Cyr Auction","Cystic Fibrosis Foundation","D & E Hill Auctions","D & J Auction Services","Daily Auctioneers","Dakil Auctioneers Inc.","Dakota Auctioneers","Dakota Properties","Danhauer Auction Group","Danny Blank","Darell Dunkle & Associates Auctioneers, Inc","Darrell Anstine Auction LLC","Daugherty Auction","Dave Rawn Equipment","David D'Amico Auctions & Appraisals","David R. Maltz & Co. Inc.","Davies Auctions","Dawson Ford Garbee Auction Company","Dealquickly Auctions","Dean George Auction Service","Deanco Auction Company","Deanco Auto Auction of Montgomery","Del Peterson & Associates","DeLaPorte Auction Service","Delta Auction & Real Estate Co. Inc","Demott Auction Comp. Inc  ","Dennis Polk and Associates","Desert Auctions USA ","Desert Mountain Land Holdings, LLC","Desert View Auto Auction","Deutsch Auction Company","Deutz Auction","Devazier Auctioneers","DeWitt Auction Company","Dickensheet and Associates","Dimmerling Realty & Auctioneers","Disher Auction Co LLC","Disposition Services","Disposition Solutions","Dixon Services","Dixon's Auctions Inc","Do Not Use","do not use","Does not use -- AJ Auctioneers & Appraisers, Ltd.","Don Petersen Auctioneers","Don Smock Auction Co., Inc.","Dotta Auction Co., Inc.","Double D Auctions","Double H Auction & Realty","Double P Auction","Dream Factory","DSI Auctions","Dudley's Auction","Duncan's Auction Company","Durham Auctions","Durham Realty and Auction Co, Inc.","Dyer's Auction Service","E. Barnette Auctions","E.D.G.E. Auctioneering Ltd.","Eagle Auction Service","Easter Seals Nebraska","eAuctionAdvantage","Edens Auctions, Inc.","Edinburg Auction Sales, Inc.","EF Brands Auction & Sales","Elite Auction Sales, Inc. ","Elite Auctions","Elite Auctions and Sales","Elite Pacific Properties","Elliot Paul & Company","Elmira Farm Service","Elysian Fields Auction","Engstrom Auctions","Erie Auction Company","Estate Auction Pro's","Estates in Auction","Ewald Enterprises, Inc.","EWPWTest","Exclusively Auctions, Inc.","Executive Auction Firm","EXIT REALTY BITTERROOT VALLEY, INC.","Express Auction","Exum Auction Company","Fahey Sales Auctioneers & Appraisers","Fairbanks Auction Company LLC","Fantasticantiques Inc","Farm & Ranch Realty, Inc.","Farmer's Auction Services","Farnsworth Auctions and Estate Sales","Ferrell Auction Company, Inc.","Filer Auction & Appraisals Inc.","First Capitol Auction Inc.","First Coast Auction & Realty, Inc","Fischer Auction Company","Fisher Auction Company","Fisher's Auction & Appraisal","Fladeboe Auctions","Fleming & Company, LLC Auctioneers","Flip Detroit","Florida Auction Services","Florida Auctioneers & Realty, LLC","Florida Realty & Auction, Inc.","Ford Brothers, Inc.","FORTNA AUCTIONEERS","Foster Auction & Appraisal Service","Fowler Auction","Fox Auction Company L.L.C.","Fox Valley Coin Auctions","Frank Beliveau Auctioneers","Franklynn Corporation","Fred W. Radde & Sons, Inc.","FREE Foundation","Freije & Freije Auctioneers","Frey and Sons, Inc.","Friday's Auction","FUNauctions","Furlo Auction Service","Furrow Auction Company","Gannon Real Estate & Consulting","Garnavillo Auction Company","GARNER & ASSOC. AUCTIONEERS, INC.","Garner Auctions","Garry Montague Auctioneers ","Gary Boyd Auction & Real Estate","Gary Juranek & Associates Auctioneers ","Gary Ryther Auctioneers, Inc.","Gatlin Auction","Gavel Auction and Realty","Gavin Pope Auction & Appraisal Co.","Gehling Auction, Inc.","Gemini Marine Management","Gene Carman Real Estate & Auction/Gallatin, TN","Gene Carman Real Estate and Auctions/Hartsville, TN","Gene Fry Auctions","Gene Patrick Auction & Realty, Co","Gerber Auction & Real Estate","Gerlach Companies, Inc.","Gillum Auction","Glassman * Smittendorf Auctions","Goad Auction Service","GoAntiques.com","Golden Gavel Auctions & Appraisals","Good Earth Realty and Auction Co. Inc.","Good Guy Garage","Gordon Brothers Commercial & Industrial","Gordon's Auction House","GovernmentAuction.com","Grady Auctions & Realty, Inc","Grafe Auction Co.","Graham Auction Service","GrandmaZee","Granger Thagard","Gravitt Auction Company","Great Expectations Auction Company, LLC","Great Lakes Auction Co., Inc.","Great Lakes Estate Buyers Corporation","Great Plains Realty-Auction Co.","Great Western Auction & Appraisal","Great Western Auctions, LLC","Green Bid Auctions, Inc.","Greenway's Real Estate & Auction, Inc","Greg Majors Auctions","Greg Martin Auctions","Grubaugh Auction Services","Grubstake Auction Company, Inc.","Gryphon Advisors","Gunslinger Auctions","Gwen C Bryant Auction Co","GWR Sunshine Autism Foundation","H. Barry Smith, Realtors and Auctioneers, LLC","Hahn Auctioneers, Inc.","Hahn Farms","Hall's Auction Company","Hamilton Auction Sales","Hammer Down Auction Services","Hammersmiths Auctioneers","Hands Auction Service Ltd","Hansen & Young Auctioneers, Inc.","Hanson Auctioneers LLC","Hanson Realty & Auction Company ","Harper Auction & Realty","Harris Auctioneers, Inc.","Harris Real Estate & Auction","Harrison Auctions Inc.","Hartford Springfield Auction Co-Op","Hash Auctions","Hawkins Auction Company","Haywood Realty & Auction Co","Heart G Auction & Realty","HeartLand Home & Auction Co.","Heartland Partners","Heglin Auctions ","Heinze-Trottier-Parkman Auction Service","Helberg and Nuss Auctions & Realty","Helbling Auctioneers","Heller Ford Sales","Hensler Fine Art, Inc.","Henslin Auctions, Inc.","Heritage Galleries & Auctioneers","Heritage Realty & Auction Co., Inc.","Hi-$ Auction","Hidden Gems Collector Car Auction","Higgenbotham Auctioneers International","Hill's Auctioneering Inc.","Hillcrest Jewelers","Hiller Wangen Auctioneers","Hilpipre Auction Company","Hines Auction Service, Inc","Hinson Auction & Real Estate Inc","Holt & Associates LLC","Holtmeyer Auctions","Holzman Auctioneers","HomeLand Auctions","Honnerlaw & Peelle Auctions, LLC","Hossner Brothers Auctioneers","House Auction Company, Inc.","Huisman Auctions","I Auction Real Estate","I-45 Sales","I.R.A.Y. Auction ","I80 Auto Auctions","Illustrated Properties Auctions","Imagine Real Estate Auctions","Innovative Auctions, Inc.","Insight Auctioneers & Sales","Intermountain Auto Auction","International Auctioneers, Inc.","International Classic Auctions","Interstate Public Auto Auction","Investment Recovery Services","Investor Realty & Auction Group","Iron Horse Auction Company, Inc.","Iron Traders Inc.","Isennock / Maryland Auction","ITL Auctioneering Inc","Ivan's Keyboard Collection","J and B Farms","J and J AUCTIONEERS","J Sugarman Auction Corp","J. Bruce Voyles, Auctioneers and Appraisers","J. J. Kane Auctioneers","J.G. Cochran Auctioneers & Assoc. LTC","Jack E. Hessley Auction Group","Jack Nitz & Associates","Jackson & Wickliff","Jackson Real Estate & Auction","Jacobs and Kemper Auction and Realty","JAFA Editions","James G Murphy, Inc","James T Drury & Company","Jani's Treasures and Antiques Auction Gallery - All Things Rare and Unique!","JC Webb Companies, LLC","Jeff Dobson & Associates, Inc.","Jeff Lange Real Estate","Jennings Auction Group","Jerry Stichter Auctioneer, Inc.","Jim Babson","Jim Stevens Realty & Auction Associates","Jim Wroda Auction Services","Jimmie Dean Coffey Auctions & Realty","JJManning Auctioneers","Joe R. Pyle Complete Auction and Realty Service","Joe Tadlock Auctioneer","Johannes Auction Service","John Dixon & Associates","John P. Tinsman Auction Co., Inc.","John Simpson Auction & Real Estate","John T. Henry Auction","Johnny King Auctioneers, Inc.","Johnny Swalls Auction, Inc","Johnny's Estate Auction Service","Johnson Auction Service","Jon Witvoet Auctioneer","Jones Swenson Auction Marketing","Joy Luke Fine Arts Brokers & Auctioneers","Judd's Auction Gallery, Inc","Junior League of Omaha","Karen Rose Auction Company","Kaufman Realty & Auctions A Marknet Alliance Member","Keenan Auction Company","Keenan Auction Company: Steamboat Grand Resort Hotel & Condominiums ","Keeney Auction Company","Keith Sharer Auction Services","Kelley Auctions, LLC","Ken Frecker Auctioneers, Inc","Ken Porter Auctions","Ken's Auction Service","Kennedy Wilson","Kerkhoff Enterprises LLC","Kersey Real Estate & Auction","Kevin Burchett Auction","Keyes Company, Auction Div","Kiko Auctioneers","Kims Korner Antiques","King Auction & Realty Co, Inc.","King's Dugout","Kinsey Auctioneers","Kissimmee Auction Co., Inc.","Kit Young Auctions","Kleiman Auctioneers","Kliewer's Auction Service","Kohler Industries, Inc.","Kopcinski Auction House","Kozma Auction Service, Inc.","Kramer & Kramer, Inc.","Kraupie's Real Estate & Auctioneers","Krause Auctioneering, dba Midwest Asset Recovery, llc","Kravetz Auctions","Kristi's Auction Service","KTTS Radio","Kuhlman Auction Service","Kull Auction & Real Estate Co., Inc.","Kurtz Auction & Realty Co.","L & L Equipment Sales LLC","L.W. Benton Company, Inc.","Lachance Group","LAF Auctions","Lakelands Auction Services,LLC","Lampi Auctioneers","Land Auction Services","Land Central","LandAuction.com","Lange Auction Realty, LLC","Langham Company Auctioneers","Larry Richie Auctioneer Inc.","Lawler Auction Company","Lawrence Realty Assoc.-Auction Marketing Division","Lawson & Co","Lee Valley Inc","Leland's","Lemons Auctioneers, LLP#7341","Lenhart Auction & Realty","Leonard Auction, Inc.","Lilly Auction & Gallery ","Linda Roberts","Linda Welsh Auction & Realty","Liptay Auctions","LISKA & ASSOCIATES INC/ AUCTIONEERS/REALTOR","Littlejohn Auctions,Inc.","Livingston Auction & Appraisal","Lloyd Meekins & Sons Auction Company","Lloyd Ralston Toys","Loecke Auction Service","Lowcountry Home Auctions, LLC","LPS Equipment & Acquisition Co., Inc.","LTC Inc.","Lucky Vehicles and Equipment ECT","Luper Auction Galleries, Inc.","Luxury Auction Group","Luxury Bottom Dollar","Luxury Fractional Getaways","Lynch Auction Co./Super Auctions","M & J Enterprising Group, Inc.","M.E. Putnam Auctioneers, Inc.","M.R. Clark","Maas Companies Inc","Machinery Auctioneers of Texas","MACI Auctioneers-A division of Motley's","Macon Brothers","Mainsail Realty & Development, LLC","Malone and Associates LLC","Mangold Auction Service","Manion's International Auction House, Inc.","Maring Auction Co. Inc","Mark A. Tompkins Auction & Appraisal Service","Mark Easter Auctioneering","Mark White Auctioneer","Marreel & Associates Auctioneers & Real Estate","Marsa Auctioneering","Marsha Wolak Auctions","Marshall Land Brokers & Auctioneers","Martella Auction Company","Martin & Martin Auctioneers","Martin Auction Co.","Martin Auction Services, LLC","Massey Real Estate","Masterbid, Inc.","Mastin Auctions","Matthew S. Hurley Auction Company","Matthews Auctions LLC","Max Spann Real Estate & Auction Co.","Maynards Industries Ltd","Mayo Auction & Realty","McAfee Auction","McCall Auctions & Real Estate","McCormack Auctions","McCrory Auctions","McDermott Auction Service","McDowell Auction Service","McGinnis Auction & Appraisal Service","McGrew Real Estate Auction Div","McKenzie's Associated Auctioneers","McLaughlin Auctioneers","McLemore Auction Company, LLC","Mcmillan Bros. Auction","McMurry Auctions llc","McWilliams Realty & Auction","Meares Auction Group","Mecum High Performance Auctions","Mel Foster Real Estate Auction Service","Mel Manasse & Son Auctioneers","Mel White, Auctioneer","melo's auction & retail","Mendenhall Auction Co., Inc.","Menke Hoyer Auction & Realty Co., Inc. ","Merritt Auctions","Metropolitan Auction Company","Meyer Auctioneer Service,Inc. ","Michael Wegener Implement, Inc","Mid Country Machinery, Inc.","Mid Delta Auctions","Mid South Auction & Real Estate","MidAmerica Auctions","Middendorf Bros","Midlands Auctions","MIDSOUTH MACHINERY AUCTIONS","Midwest Antiques & Collectibles","midwest auction galleries","Midwest Auctions, Inc.","Midwest Energy Auction, LLC","Midwest Real Estate and Auctions","Miedema Auctioneering","Mike Brandly, Auctioneer","Mike Graham Auctioneers","Mike Heimel Auction Service","Mike Peterson Auctioneers","Mikkelson Realty & Auctioneers","Miller Land & Livestock, Co. LLC","Minnesota State Auctioneer's Association ","MJ Recore Auctions","MLM Realty LLC","Monarch Auction & Appraisal","Montgomery Auction & Realty","Montrose Auction Inc","Mooreland Auction Services","Moravec Auction Co. LLC.","Morris Auctions","Motley's Auction and Realty Group","Motley's Real Estate Services","MotoeXotica LC","Motor Magic Classic Car Auctions","Mountain Man Auctions","MOUNTAIN STATE AUTO AUCTION","Muirhead Auction Co. Inc.","Munda Auctions","Murray Rankin Sales Ltd.","Museum of Nebraska Art","Music City Auction","N. T. Arrington-Auctioneer","Nashville West Auctioneers LLC","National Auction Group, Inc.","National Property Solutions","National Real Estate Auction Corporation","National Real Estate Auctioneers","National Retail Equipment Liquidators-Under Direction Of Abacus Advisors","National Road Auction Company","Nationwide Loan Workout & Default Management","NCMD Enterprises","Ned F. Gregg Realty, Inc.","Neil Agency Auctioneers","Nelson Auctions","Nelsons Professional Auction","Ness Bros. Real Estate & Auction Co. GMAC Real Estate","Nest Egg Auctions LLC","New England Toy And Train Exchange","Newell Realty & Auctions","NISS Foundation, Inc.","Nitke Sales, Inc.","Nordwald & Associates","Norm Green Realty & Auction","Norman Mitchel International","North America Auctioneers, Inc.","North American Auctioneers","North Pacific Auctioneers Ltd.","Northern Livestock Video Auctions","Nye County Public Auction","O'Connor Auction Service","Oak Crest Auctions","Oberman Auctions","Official Auctions, Inc.","Ogren's Auction Services, Inc.","Ohio Auctioneers Association","Ohio Real Estate Auctions","Omaha Auction Center","OmegaAuctions.com Inc.","Omli & Assoc ","Ophus Auction Service","Orr Auctioneers","Overmyer Auction Service","P.J. Morgan Real Estate","Pacific Auction Companies","Pacific Auction Exchange / Auction Express Inc.","Pacific Auction Exchange / Dove Capital Investments,Inc.","Pacific Auction Exchange Power House","Pacific Auction Exchange Roseville","Pacific Auction Exchange, /Auctions By Pennington","Pacific Auction Exchange, Butte County Auctions, Inc.","Pacific Auction Exchange, Real Property Auctions, Inc.","Pacific Auction Exchange, The Auction Group, Inc","Pacific Auction Exchange,Inc ","Pacific Auction Exchange/Auction Express Inc.","Pacific Auction Exchange/Desert Auction, Inc.","Pacific Auction Exchange/Ogren's Auction Inc.","Pacific Auction Exchange/SCM,Inc.","Page's Thieves Market, Inc","Paisley Auctions, Inc.","Palmetto Auction and Realty Inc.","Pamela Rose Auction Company, LLC","Parker-Braden Auction","Parrott Real Estate & Auction Co LLC","Patrick Nugent Auction Corp.","Paul McInnis, Inc.","Paul's Auction Service","PeachTree Auction & Antique Gallery","Pedersen & Pedersen Auctions, Inc.","Pennsylvania Auctioneers Association","Penny Candy","PerryAuctioneer.com","PESCO AUCTIONS","Petrowsky Auctioneers, Inc.","Pickens Auctions","Piedmont Estate Liquidators","Pifer's Auction & Realty","Pinnacle Auction and Estate Service","Pioneer Auction Gallery","Porter Auctions","Porterfield Auctioneers","Post & Moore Premier Auction Company","Powell Auction & Realty","Powers Auction & Equipment Sales LLC","Powers Auction Service ","PPK Asset Services, LLC","Premier Knife Auction","Premier Real Estate Auctions, Inc.","Price Real Estate & Auction Service","Prime Equipment & Auction Co.","Prime Time Auctions","Professional Appraisers & Liquidators Antique Auction LLC","Property Events llc","Proxibid Auction Training Account","Proxibid Surplus Inventory ","ProxiTest","Prudential Woodmont Auctions","Purcell Auction","Pytha Realty Corp","Quaker City Auctioneers Inc","R & B Gessell Realty & Auction Co.","R & J Horse Sales","R. Giles Moss Auction & Real Estate","R.A.D. ENTERPRISES LLC","R.J. Montgomery & Associates","R.L. Rasmus Auctioneers, Inc.","Radford Auto Auction","Raines Auctions, LLC","Ramay Auctions","Randy Kincaid Auction Company","Ransberger Auction","Rathbun Angus","Raymond Bott Realty & Auction","RAYS General Trd. & Cont. Co. W.L.L.","RD Tiller Auctioneers ","Re/Max Group Auctioneers","RE/Max Guntersville Auction Group","Ready Auction House","Reagan & Brown","Reagan-Watson Auctions LLC","Real Estate Appraisals & Consultants, LLC","Real Estate Center Auctions","Realty of Maine","Realty Options Auction Division","REALTY/PRO Real Estate Centers Inc","Red Barn Auctions","Reid's Auction Canada","Reindel Auction Service","Reinhardt Auction Service ","Reliable Equipment, LLC","Relocation Planners, L.L.C.","ReMax 100, Inc.","Remax Choice Properties","REMAX Legendary Homes","Remmen Auction Service","Remohs Auction Services","Restaurant Equipment Auction Specialists of America","Reynolds Auction Company","RHYNALDS AUCTION & REALTY, LLC.","Rich Penn Auctions","Richard Realty & Auction, Inc.","Ride Again Auctions, LLC","Rigby Auction Group","Rine Auctioneers","Ritchason Auctioneers, Inc.","Riverside Auction","RK's Auction Center","RM Auctions","RMEB Inc.  Whitley Auction","Robbie's Auction Service","Robert Glass Auction & The Hamilton Group","Robert Glass Auctions","Robert J. Brown Appraisal Services","Rockin' S Auction Services","Rocky Mountain Elk Foundation","Roebuck Auctions","Roebuck Auctions Florida","Rogallery.com","Rogers Realty & Auction Co. Inc","Roller & Associates, Inc.","Ron Kirby Auctions","Ron Rennick Auctions","Rose Auction Group, LLC","Rowell Auction Company/Todd Simmons","Rowell Auctions","Rowell Auctions, Inc. / Mark Manley","Rowell Auctions, Inc. / Myers Jackson","Rowell Auctions, Inc./Randy Adams","Roylston Auction Company ","Ruhter Auction and Realty, Inc.","S & S Auctioneers","SACHS 5TH AUCTION","Sarpy County Chamber of Commerce","Schiele Auction Service","Schow Auction Service","Schrader Real Estate & Auction Co. ","Schultz Auctioneers","Schur Success Auction Services","Science Museum of Minnesota","Scott Auctions","SCOTT AUCTIONS/Strosnider","Scott Perry & Co.","Scotty's Auction Service, Inc.","Selective Auctions LLC","SelEquity Real Estate Auction","Sellers Auction Service","Semple & Associates, Inc","Serendipity Palace","Sewell Auction","Shackleton's Real Estate & Auction Co.","Sharp's Grove City Auction Gallery, LLC","Sharpless Auctions","Shaylor Auctioneers","Sheldon Good & Company","Shergills Auction Co.","Sheridan & Associates","Sheridan and Sons Auction Service, LLC","Sheridan Realty & Auction","Shobe Auction and Realty","Shortt Auction & Realty Company","Show Your Auto LLC","Showtime Auction Services","Sigma Properties","Silver Collector Car Auctions","Silver Lining Estate Sales","Silver Oak Distributors, Inc.","SIMA Auctions","Simmons & Company Auctioneers, Inc.","Sims Realtors, Auctioneers","Sinclair & Associates ","Slotin Folk Art Auction","Smalley Real Estate","Smith & Co. Auction & Realty, Inc.","Smith Auction & Realty","Smith Auction Company","Smith Auction Management TX#10962","SMITH SALES","Smith Sales Co. Auctioneers","Smokies Investors Real Estate & Auction, LLC","Sohn & Associates, Ltd.","Solheim Auctions","Southeast Realty & Auction, LLC.","Southern Auction & R.E. Co.","Southern Auctions","Southtrade Asset Solutions, Inc","Southwest Auction Co., Inc.","Southwest Auction Team,Inc","Sparks Auction Co","Spates Auction Services","Specialty Auctions, Inc","Specialty Auto Auctions Inc.","Spencer Auction Co.","Spiffy Auctions","St Johns Truck Sales Auction","St. Louis Realty LLC","Stafford Auction & Realty, Inc.","Standley Auction & Realty","Starrs Auctions LLC","State-Wide Realty & Auction","Steeves & Co.","Steffes Auctioneers, Inc.","Stephen Passy & Associates, Inc.","Sterling Auction House","Stewart Auction Services","Stirling Sotheby's International Realty Auctions","Stock Auction Company","Stone Auctioneers & Appraisers","Stover's Auction","Strategic Auctions, Inc.","Stricker's Auction","Stuart B. Millner & Associates","Stuart Realty Group, Inc.","Sugar Valley Auction","Sugariver","Sullivan Auctioneers","Summit Auction and Realty LLC","Summit Auction Group","Sunflower Auction","Sunrise Equipment Auctions","Sunset Auction Co","Super Auctions","Superior Auction & Appraisal LLC","Superior Auctioneers of California","Superior Auctions LLC","Surplus Asset Management","Sutherland Auction.com","Sweeney Auction & Realty","Swenson Real Estate & Auction Service","Switzer Auction","Sykora Auction Service","Taggart Bros Auction & Real Estate","Tampa Machinery Auction","Tande Auction Services, Inc.","Tasabah & Associates, llc","Taylor and Martin","Taylor Auction & Realty, Inc.","TB Auctions, Inc.","Tennessee Real Estate Auctioneers","Terrecom L.L.C.","Terry Buck Turner Richardson Auctioneer LLC","Terry Howe & Associates, Inc","Terry Wilkey Auction Service","testing","The Auction Block","The Auction Co. & Real Estate Inc.","The Auction Company","The Auction Company & Associates, Inc.","The Auction Depot Inc","The Auction Gallery, LLC","The Auction Group LLC","The Auction House Inc.","The Auction Network, LLC","The Auction Team","The Dixie Agency of Memphis","The Gap Auction","The House in the Woods Auction Gallery inc.","The Myrtle Beach Auction","The Premier Auction Group","The Three Rivers Auction Company","The VanDeRee Auction Company, Inc.","The Zoll Real Estate & Auction Team","Theresa Taylor & Associates Auctioneering","Theriault's","Thomas Auction and Real Estate","Thomas H. Virzi AUCTIONEER","Thomas Hirchak Company","Thomas R Hunt Auctioneers","Thompson Carr & Associates","Thompson's All Around Auction Services Ltd.","Tim Narhi Auctioneer & Associates","Timbercreek Auction Co. / Pine Mountain Antique Mall","Timeless Treasures Auctions","Timothy E. Beathard & Associates","Tipsword Auction Services","Tito Norris Auctioneer","TNG Auction, Inc.","TNT Auction","TNT Auction Inc.","Tommy Wagner Auction Company","Tony Neill & Mark Kennedy","Tony Zito Real Estate LLC","Tranzon Asset Advisors","Tranzon Auction Properties","Tranzon Driggers","Tranzon Fox","Tranzon HAGEN","Tranzon Northwest","Tranzon Northwest Region","Tranzon Rogers","Tranzon VenueBid","Treasure Trove Auctions","Tri State Auction Systems","Tri-State Auction & Realty, LLC","Ty Tara Auctions ","United Country - 3D Auctions","United Country - Absolute Auctions & Realty","United Country - At The Y Auctions","United Country - Auction Services Plus","United Country - Beloit Auction & Realty Inc.","United Country - Bill Roye Realty & Auction","United Country - Birdsong Auction and Realty","United Country - Bonham Auction & Realty","United Country - Brad Wooley Auctioneers","United Country - Col Tom Wolfe Auctioneer/Broker, LLC","United Country - Entz Auction & Realty","United Country - Express Realty & Auction LLC","United Country - Gates Auction","United Country - Gerdts Auction & Realty Inc.","United Country - Hendren & Associates, Inc","United Country - Hudgins Auctions","United Country - Joe Williams and Associates Inc.","United Country - Kentucky West","United Country - Lippard Auctioneers, Inc.","United Country - Loess Hills Realty & Auction","United Country - Massart Auctioneers, Inc.","United Country - Meier Auctions & Realty, Inc.","United Country - Mike Bendele Co","United Country - Miller Realty & Auction","United Country - Musser Bros. Auctions & Real Estate","United Country - Oglesby and Company Auctioneers","United Country - Pagel","United Country - Peery & Associates Realtors & Auction Services","United Country - Pierce Auction Service and Real Estate, Inc. ","United Country - Post Auction Co.","United Country - Properties South Inc. Realty & Auction","United Country - Realty Done Right, LLC","United Country - Richardson Real Estate & Auction, Inc. Firm#2236","United Country - Riverbend USA LLC","United Country - Rogers Auctioneers, Inc.","United Country - Stallings Auction & Real Estate","United Country - Stone Realty & Auction Co. Inc.","United Country - The Redfield Group, Inc.","United Country - Theurer Auction/Realty LLC","United Country - United Auctioneers","United Country - Wallace Land Company","United Country - Willis Realty","United Country Auction Services","United Country Auction Services","United Country Bonnette Auction Group","United Land Investments","University of Washington","US Auction","USA Fleet Auctions","USALANDSALE, LLC","Valle Auto Auction","Valley Auction Company","Van Horn Auctions & Appraisal Group, LLC","Vande Kamp Auction Group LLC","VanDerBrink Auctions","Vandertook Auction Service","Vaughan Auction Group, LLC","VCPM AUCTIONS LLC","Vold Auctioneers & Realty","W.T. Martin Auctions","W.Yoder Auctions","Wadsworth Steele Auctions","Walneck's","Walnut Creek Auction Company","Ward Auction and Appraisals Inc.","Warmdickstrader","Warner Real Estate & Auction Company, Inc.","Watson Auction & Realty, LLC","Watson Auction Company","Wausau Sales Corporation","Wave Media Group","Wayne Pike Auction Company","Wears Auctioneering","Weaver Bros. Auctions Ltd.","Weaver Coin Auction","Webb & Associates","Weeks Auction Company","Wegener Realty & Auction","Weitbrecht Auctioneers, Inc.","Wellensiek Auction Co. LLC","Wells Auction Company","Wells Auctioneers","Welton Auction inc.","West Central Auction","West Coast Auction Co. L.L.C.","West of Boston","Wester Auction & Realty","Western Auction","Western Auction Company","Western Construction Auctions, Inc.","Western Sales Management Inc","Wham Auctions, Inc","Wheeler Auctions & Real Estate","Whipple Auction & Realty","White Star Auction Inc","WHITTINGTON AUCTION & APPRAISAL SERVICES","Wieman Land & Auction Co., Inc","Wiese Auction Service","Wiggins Auctioneers, LLC","Wigton Real Estate & Auction ","Wild West Auctions","William Bunch Auctions & Appraisals ","William Wilson Auction & Realty, Inc","Williams & Williams","Williams Auction & Appraisal Service","Williamson Brothers Realty & Auction Co., Inc.","Wilson Auction & Realty Co. Ltd.","Wings of Angels, Inc.","Winternitz, Inc.","Wisely Real Estate & Auctions","Witcher Auctions","Wm. F. Comly & Son, Inc.","Wolfe Industrial Auctions, Inc.","Woltz & Associates, Inc.","Wood Auction Company, LLC.","Woodruff Enterprises","Woody Auction","Worley Auctioneers & Appraisers, Inc.","Worstell Auction Company","Wymers Auction","YAP Auction","Yellow Iron Auctions, Inc.","Yellowstone Art Museum","Younger Auction Company","ZAKULA BEAL AUCTIONEERS","Zettlemoyer Auction Co., LLC.","Zielsdorf Auctions");
-var AHidarray = new Array("1772","1202","1865","2404","424","1726","1319","1590","2419","685","386","372","1282","2034","2067","1959","1368","856","2434","2014","905","164","1404","159","904","1008","2176","1923","2125","530","2061","1520","788","481","2188","806","1472","1707","1013","1187","2186","2503","472","2112","1565","1636","2017","1146","522","258","1320","2260","1124","1906","981","1303","1348","1077","1871","1577","2457","1858","2267","752","488","2193","1307","358","2028","2029","2445","2255","762","953","1502","2498","246","152","1942","1855","2042","659","169","1539","1822","1478","1374","2021","2252","1545","2495","1829","1093","2388","2493","1442","1483","1897","886","774","2490","2169","1344","1873","114","560","1395","2085","2203","1887","1527","1304","2216","1913","2261","338","2258","2312","1669","498","2269","514","1251","388","1693","2374","1136","2421","1747","2382","1606","2479","401","2425","1704","991","1752","1650","1269","1418","2097","2364","2337","470","1247","1492","2477","373","744","1890","720","782","303","160","1435","1341","2002","197","2086","2354","887","408","2428","1763","2235","2290","747","1556","387","776","1601","2507","2000","1110","921","263","1869","2205","1232","1343","2537","1931","1528","1314","517","1479","2233","1420","1783","345","1677","1326","1927","2334","1751","2175","2126","983","1960","1133","1889","846","2308","1574","1384","900","1226","1825","2476","1276","2463","1529","2285","1253","746","2515","1370","1423","479","1958","1112","1737","465","362","2446","1047","1598","1129","1265","1727","1548","1196","1875","827","1123","1853","2521","809","1340","1242","311","337","1315","2139","1988","392","180","1643","978","2512","1828","1744","1353","1762","1724","1917","1989","1403","1932","2294","1332","1293","1137","2362","354","2327","1831","1143","296","2432","1470","2472","851","915","985","1446","1188","2485","1393","120","653","2275","1886","121","1486","402","1429","380","312","2268","829","293","106","239","2437","826","1814","740","1620","1389","2416","1970","252","883","1739","2114","2316","1246","1984","1271","1799","674","1722","2055","405","1845","236","958","1325","1857","2133","988","2197","1641","848","1328","385","2057","1617","2026","2311","1936","624","211","1794","1876","1953","454","1660","459","1646","1477","779","1518","1125","2184","88","1069","2530","1505","476","2444","748","2484","2307","2410","2414","2358","1597","1259","2048","1872","1653","1345","2454","2172","1430","1509","1537","2461","1217","2053","2280","1273","1493","527","1714","2487","187","1735","2359","468","2300","650","2043","1130","1434","1157","1233","2492","1954","2246","2012","1375","1542","1440","1766","355","2315","1501","2550","2501","611","414","2470","356","2538","1316","361","282","2339","781","1964","725","974","138","1150","989","274","894","2422","542","1691","1544","1032","1195","1649","2087","1063","1721","2451","2381","1203","727","1716","612","2178","154","1573","1398","2341","1765","2015","176","888","2415","1874","1182","967","977","1118","874","2460","916","1290","2541","1551","1088","2277","2211","1740","1160","1349","1553","787","453","1567","1381","2078","741","344","2041","1748","2052","1832","565","1073","467","663","839","1784","2263","1154","398","1854","1957","1594","1204","1243","1176","613","891","971","1916","652","1920","1924","683","174","1661","310","1274","2295","556","1474","1750","1743","2118","770","1552","1586","332","1179","1402","1905","568","1940","1585","976","223","676","765","1847","1683","2540","705","1885","2452","2201","2282","2236","2397","1241","1664","464","929","148","1068","2241","1248","898","2071","1944","1789","2152","1852","1775","2004","1581","1757","2165","1554","780","2433","2174","1227","1034","769","1862","1357","2305","2227","1311","1052","2157","1422","931","2371","1168","1563","2096","871","842","1197","997","2423","734","819","1939","1820","1658","146","703","2250","794","2005","118","1903","1842","1532","625","1508","1782","420","1624","1481","2070","1642","1978","1654","2401","2486","602","2392","2054","2310","1255","2411","2424","1728","389","1411","2272","1676","1700","1656","666","2306","2120","979","1982","504","244","1308","1644","1861","1313","1193","972","1921","1694","1672","400","364","2372","1749","1289","1041","2375","2051","1330","2019","2368","2132","1634","554","550","1183","1971","491","1135","1186","984","1212","2229","1792","2181","1851","292","1850","1837","1703","1445","597","295","1915","2462","1630","732","1067","1759","1602","1362","2265","195","2117","835","108","1070","2508","1622","968","2480","1541","433","1610","2232","1612","792","432","240","902","1058","1838","1471","557","2502","1388","2525","1292","2320","2534","2123","982","460","2111","1647","1323","2417","1488","541","2489","1843","136","2049","1109","2365","1425","692","1245","701","1286","2075","497","1719","815","1690","2438","1064","251","352","2532","487","1729","2331","1882","1998","923","390","1337","2199","1498","1252","2345","1731","1219","1655","1159","1049","2030","1185","1864","383","1237","1559","2271","1057","1410","2284","2006","1427","803","1922","2072","2151","1031","577","1734","1937","1877","1911","1665","518","1111","1538","2046","2082","969","1171","349","778","1702","993","1793","2128","1668","2143","2059","2146","1619","1888","1815","1177","1713","1001","1679","1796","1808","455","119","1901","735","2435","569","1983","456","1570","704","1175","1791","1482","200","933","957","1535","2182","2500","802","816","1436","882","1262","2455","2276","1732","1685","1062","903","621","2224","1387","87","1048","2243","2076","1841","2548","558","857","325","1985","2447","864","203","1785","2279","852","2173","1718","1025","2497","1020","800","549","2348","2218","1635","2522","2171","1680","1426","1961","2478","2244","2035","2549","330","2545","1413","115","660","1849","717","1549","2247","406","2137","1464","1103","1611","2391","185","249","1522","2088","213","96","1659","1902","447","1826","1974","287","606","1277","1028","490","299","1364","1511","1639","1896","1755","755","1414","1925","449","1512","1324","1417","764","538","2160","1367","357","2520","2036","1487","1628","594","1371","1711","2124","2473","1407","2514","1994","1235","1629","629","763","1206","1614","496","1823","536","768","2020","1967","2471","2403","2047","2449","2314","1441","1383","2131","775","614","1899","2212","1821","1623","235","814","664","2400","1547","363","2009","2142","1909","1181","2213","333","1689","2519","1266","271","2494","523","2177","2467","1999","986","1696","1991","694","268","122","995","638","2079","173","278","2195","2038","1788","218","2429","2037","647","1392","1092","2302","233","2150","1604","1810","1688","2101","1163","2119","2539","1405","516","1122","1701","2393","1409","1625","1264","182","2069","94","2353","2442","2210","1356","1463","1200","1285","1912","327","2180","2491","2469","1506","2138","1777","649","896","2245","2453","1929","1682","731","1966","1489","2505","409","2309","2270","932","191","1400","965","1161","1521","2551","791","571","1997","1507","411","743","1158","1490","2298","1298","1225","1090","2518","2251","1046","1258","690","147","2386","821","277","619","1519","2215","1955","2155","245","1884","2297","954","2349","2529","1761","1993","2202","2010","1408","1933","2283","2483","773","2383","853","1678","2095","2443","1244","2093","2293","2513","2011","2363","1956","2464","2405","1943","1514","1833","2140","1006","880","2409","1908","2200","2013","1805","1881","1615","463","760","2376","1221","2068","1155","992","863","1530","2228","679","2256","1033","1359","2185","2023","1741","2338","917","1856","1448","895","1816","824","2523","926","461","716","1736","854","1297","2161","2418","1928","868","2153","2008","637","1401","2413","1687","509","1151","321","2291","623","1564","2266","2107","1926","1584","2385","1811","1609","1692","2281","1208","962","1220","300","843","1017","1550","2399","2350","858","645","1061","2499","2253","615","178","2299","1878","1663","215","2221","1725","1996","783","1026");
-var CategoryArray = new Array("Art, Antiques & Collectibles","Industrial & Commercial","Farm & Heavy Equipment","Property & Real Estate","Charity & Benefit Events","Collector Cars & Vehicles","Equine & Livestock","General & Estate Sales");
-var CategoryShortArray = new Array("Art & Collectibles","Industrial & Commercial","Heavy Equipment","Property & Real Estate","Charity & Benefit Events","Collector Vehicles","Equine & Livestock","General & Estate Sales");
-//
+<!--[if IE]>
+<style type="text/css">
+INPUT#topNavSearchInput
+{
+    padding-top:5px;
+}
+#topNavMenuBar
+{
+    margin-top:9px;
+}
+</style>
+<![endif]-->
 
+<style type="text/css">
+    <!--
+.slider_outer_top_with_inner_top_round{display:none;}
+.slider_outer_mid_with_inner_mid{display:none;}
+.slider_outer_bottom_with_inner_bottom_round{display:none;}
+.side_label_timed{display:none;}
+.side_label_webcast{display:none;}
+.side_label_current{display:none;}
+.side_label_webcast{display:none;}
+.side_label_archived{display:none;}
+#topNavHeaderImage{display:none;}
+#contentWrapper{display:none;}
+#footerFill{display:none;}
+#footerWrapper{display:none;}
+#auctionCounter{display:none;}
+/*#topNavEmbeddedImage{display:none;}*/
+    -->
+</style> 
 
-//-->
-</script>
-<script type="text/javascript" src="/jscript/NewHome.js"></script>
-<script type="text/javascript" src="/jscript/AuctionHouseSuggestion.js"></script>
 
 
 </head>
-<body bgcolor="#CCCCCC" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('/images/btn_bidders_on.gif','/images/btn_auctioneers_on.gif','/images/nav_home_on.gif','/images/nav_create_on.gif','/images/nav_about_on.gif','/images/nav_archives_on.gif','/images/nav_services_on.gif','/images/nav_contact_on.gif','/images/btn_search_on.gif','/images/btn_adv_on.gif','/images/btn_return_on.gif','/images/btn_logout_on.gif','/images/Jan.gif','/images/Jan_Over.gif','/images/Feb.gif','/images/Feb_Over.gif','/images/March.gif','/images/March_Over.gif','/images/April.gif','/images/April_Over.gif','/images/CalMay.gif','/images/CalMay_Over.gif','/images/June.gif','/images/June_Over.gif','/images/July.gif','/images/July_Over.gif','/images/August.gif','/images/August_Over.gif','/images/Sept.gif','/images/Sept_Over.gif','/images/Oct.gif','/images/Oct_Over.gif','/images/Nov.gif','/images/Nov_Over.gif','/images/Dec.gif','/images/Dec_Over.gif','/images/Cal_Nav_End.gif');DoOnLoad();StartSlider();"><a name="Top"></a><table width="750" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tbody><tr valign="top"> 
-    <td width="11" background="/images/bg_shadow_left.gif"><img src="/images/bg_shadow_left.gif" width="11" height="100"></td>
-    <td width="728"><table width="728" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr valign="top"> 
-          <td colspan="2"><img src="/images/bar.gif" width="728" height="4"></td>
-        </tr>
-        <tr valign="top"> 
-          <td><a href="http://www.proxibid.com/"><img src="/images/proxibid_logo.gif" width="142" height="60"></a></td>
-          <td style="BACKGROUND-COLOR:#ffffff;width:586px;">
-					<div style="float:right;border:solid 1px #40607F;width:374px;height:28px;margin:15px 20px 0 0;font-size:10px;font-family:Arial;display:inline;">
-					<form name="frmSearchSite" method="post" action="http://www.proxibid.com/asp/SearchAdvanced.asp" class="form">
-						<div style="float:left;margin:4px 0 0 0;display:inline;"><img width="50" height="20" src="/images/Search_text.gif"></div>
-						<div style="float:left;margin:1px 0 0 0;display:inline;"><input type="text" style="border:solid 1px #cccccc;width:276px;height:20px;" name="txtQuickSearch" value="search entire site" onfocus="if(this.value=='search entire site'){this.value='';}" onblur="if(this.value==''){this.value='search entire site';}"></div>
-						<div style="float:left;margin:2px 2px 0 2px;display:inline;cursor:pointer;" onclick="document.frmSearchSite.submit();" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('SerGoButton','','/images/Go_Button_Over.gif',1)" onmouseup="MM_swapImgRestore()" onmousedown="MM_swapImage('SerGoButton','','/images/Go_Button_Down.gif',1)"><img id="SerGoButton" width="40" height="24" src="/images/Go_Button.gif"></div>
-					</form>
-					</div>
-					<span name="TopBanner" id="SPAN2"></span>
-                </td>
-        </tr>
-        <tr valign="top"> 
-          <td colspan="2"><img src="/images/bar.gif" width="728" height="4"></td>
-        </tr>
-      </tbody></table>
-      <table width="728" border="0" cellspacing="0" cellpadding="0" background="/images/bg_topgrid.jpg">
-        <tbody><tr valign="top"><td width="45"><img src="/images/login.gif" width="45" height="33"></td>
-						<td width="82"><a href="https://www.proxibid.com/asp/LoginBidder.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('bidders1','','/images/btn_bidders_on.gif',1)"><img name="bidders1" border="0" src="/images/btn_bidders_off.gif" width="82" height="33" alt="Bidder Login"></a></td>
-						<td width="91"><a href="https://www.proxibid.com/asp/LoginAuctioneer.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('auctioneers1','','/images/btn_auctioneers_on.gif',1)"><img name="auctioneers1" border="0" src="/images/btn_auctioneers_off.gif" width="91" height="33" alt="Auctioneer Login"></a></td>
-						<td width="255" valign="bottom" style="FONT-SIZE:10px;PADDING-BOTTOM:7px;"></td><td width="255"><!--form name="frmSearchSite" method="post" action="http://www.proxibid.com/asp/SearchAdvanced.asp" class="form"--><table border="0" cellspacing="0" cellpadding="0" align="right">
-                <tbody><tr> 
-                  <td>&nbsp;
-                  <!--input type="text" name="txtQuickSearch" value="search entire site" class="searchboxtop" onfocus="if(this.value=='search entire site'){this.value='';}" onblur="if(this.value==''){this.value='search entire site';}"></td>
-                  <td><input type="image" name="imgSiteSearch" id="imgSiteSearch" src="/images/btn_search.gif" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('imgSiteSearch','','/images/btn_search_on.gif',1)" width="64" height="33" alt="Basic Auction Search"></td>
-                  <td><a href="javascript:document.frmSearchSite.submit();" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('imgAdvSearch','','/images/btn_adv_on.gif',1)"><img name="imgAdvSearch" id="imgAdvSearch" src="/images/btn_adv.gif" width="77" height="33" alt="Advanced Auction Search"></a-->
-                  </td>
-                </tr>
-              </tbody></table><!--/form--></td>
-        </tr>
-      </tbody></table>
-           <table width="728" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td width="105"><a href="http://www.proxibid.com/asp/Home.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imgNavHome','','/images/nav_home_on.gif',1)"><img name="imgNavHome" border="0" src="/images/nav_home_off.gif" width="105" height="20" alt="Proxibid Home"></a></td>
-          <td width="104"><a href="http://www.proxibid.com/asp/CreateAccountFork.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imgNavCreateAccount','','/images/nav_create_on.gif',1)"><img name="imgNavCreateAccount" border="0" src="/images/nav_create_off.gif" width="104" height="20" alt="Create a Bidder or Auctioneer Account"></a></td>
-          <td width="104"><a href="http://www.proxibid.com/asp/contact.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imgNavContact','','/images/nav_contact_on.gif',1)"><img name="imgNavContact" border="0" src="/images/nav_contact_off.gif" width="103" height="20" alt="Contact Proxibid"></a></td>
-          <td width="104"><a href="http://www.proxibid.com/asp/Help.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imgNavHelp','','/images/nav_help_on.gif',1)"><img name="imgNavHelp" border="0" src="/images/nav_help_off.gif" width="104" height="20" alt="Help"></a></td>
-          <td width="104"><a href="http://www.proxibid.com/asp/AuctionArchives.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imgNavArchives','','/images/nav_archives_on.gif',1)"><img name="imgNavArchives" border="0" src="/images/nav_archives_off.gif" width="104" height="20" alt="Auction Archives"></a></td>
-          <td width="104"><a href="http://www.proxibid.com/asp/Services.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imgNavServices','','/images/nav_services_on.gif',1)"><img name="imgNavServices" border="0" src="/images/nav_services_off.gif" width="104" height="20" alt="Services"></a></td>
-          <td width="104"><a href="http://www.proxibid.com/asp/AboutProxibid.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imgNavAbout','','/images/nav_about_on.gif',1)"><img name="imgNavAbout" border="0" src="/images/nav_about_off.gif" width="104" height="20" alt="About Proxibid"></a></td>
-        </tr>
-        <tr> 
-          <td colspan="7"><img src="/images/bar2.gif" width="728" height="4"></td>
-        </tr>
-      </tbody></table>
+	<body class=""><a name="Top"></a>
 
-      
-	<table width="728" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>
-	    <div style="display:none;" id="MainOpen" name="MainOpen">
-        <div id="nh_backl"></div>
-        <div style="float:left;">
-            <div id="nh_backt"></div>
-            <div id="nh_content">
-                <div id="nh_nav">
-                    <div id="nh_bigbuttons">
-                        <div id="nh_find" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('H3004','','/images/Find_Auctions_Over.gif',1)" onclick="PrintSearch()"><img name="H3004" src="/images/Find_Auctions.gif"></div>
-                        <div id="nh_getstarted" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('H3005','','/images/Get_Started_Over.gif',1)"><a href="getStarted.asp"><img name="H3005" src="/images/Get_Started.gif"></a></div>
-                    </div>
-                    <div id="nh_altbuttons">
-                        <div id="nh_customize" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('H3001','','/images/Customize_Exp_Over.gif',1)" onclick="DisplayCustom();"><img name="H3001" src="/images/Customize_Exp.gif"></div>
-                        <div id="nh_press" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('H3002','','/images/News_Press_Over.gif',1)"><a href="PressRelease.asp"><img name="H3002" src="/images/News_Press.gif"></a></div>
-                        <div id="nh_weeklynews" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('H3003','','/images/Wkly_Auc_Alrts_Over.gif',1)" onclick="DisplaySignup();"><img name="H3003" src="/images/Wkly_Auc_Alrts.gif"></div>
-                    </div>
-                </div>
-                <div id="nh_sliderborder">
-                    <div id="DisplayMain" name="DisplayMain"><div id="SliderMain" style="float:left;display:block;"><div class="scroller"><div class="content"><div class="section" id="3" style="float:left;height:177px;width:525px;background-color:#ffffff;display:inline;">    <div style="float:left;width:525px;height:177px;overflow:hidden;display:inline;">        <div id="AuctionData" style="float:left;font-size:12px;"><a href="http://www.proxibid.com/asp/AuctionsByCompany.asp?ahid=2507"><img height="177" alt="" width="525" border="0" src="/AnnouncementFiles/Image/BioArts_June19_Ver3.jpg"></a></div>    </div></div><div class="section" id="0" style="float:left;height:177px;width:525px;background-color:#ffffff;display:inline;">    <div style="float:left;width:525px;height:177px;overflow:hidden;display:inline;">        <div id="AuctionData" style="float:left;font-size:12px;"><a href="http://www.proxibid.com/asp/Catalog.asp?aid=12768"><img height="177" hspace="" width="525" border="0" alt="" src="/AnnouncementFiles/Image/AandW_Surplus_June8_2008.jpg"></a></div>    </div></div><div class="section" id="1" style="float:left;height:177px;width:525px;background-color:#ffffff;display:inline;">    <div style="float:left;width:525px;height:177px;overflow:hidden;display:inline;">        <div id="AuctionData" style="float:left;font-size:12px;"><a href="http://www.proxibid.com/asp/Catalog.asp?aid=12329"><img height="177" hspace="" width="525" border="0" alt="" src="/AnnouncementFiles/Image/Ogrens_June8_2008_Ver2.jpg"></a></div>    </div></div><div class="section" id="2" style="float:left;height:177px;width:525px;background-color:#ffffff;display:inline;">    <div style="float:left;width:525px;height:177px;overflow:hidden;display:inline;">        <div id="AuctionData" style="float:left;font-size:12px;"><a href="http://www.proxibid.com/asp/Catalog.asp?aid=12687"><img height="177" hspace="" width="522" border="0" alt="" src="/AnnouncementFiles/Image/J_Sugarman_June29.jpg"></a></div>    </div></div></div></div><div style="float:right;background-color:transparent;width:60px;margin:-18px 4px 0 0;position:relative;display:inline;">    <div style="float:right;font-size:12px;margin:0 2px 0 0;display:inline;">        <div id="PrevAuc" name="PrevAuc" onclick="PrevAuc();" style="cursor:pointer;float:left;" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&quot;LNav2&quot;,&quot;&quot;,&quot;/images/Left_Arrow_Over.gif&quot;,1)"><img name="LNav2" src="/images/Left_Arrow.gif"></div>        <div id="PausAuc" name="PausAuc" onclick="PausAuc(event)" style="cursor:pointer;float:left;display:block;" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&quot;Pause03&quot;,&quot;&quot;,&quot;/images/Pause_Over.gif&quot;,1)"><img name="Pause03" src="/images/Pause.gif"></div>        <div id="PlayAuc" name="PlayAuc" onclick="PlayAuc(event)" style="cursor:pointer;float:left;display:none;" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&quot;Play03&quot;,&quot;&quot;,&quot;/images/Pause_Over.gif&quot;,1)"><img name="Play03" src="/images/Pause_Over.gif"></div>        <div id="NextAuc" name="NextAuc" onclick="NextAuc();" style="cursor:pointer;float:left;" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&quot;RNav2&quot;,&quot;&quot;,&quot;/images/Right_Arrow_Over.gif&quot;,1)"><img name="RNav2" src="/images/Right_Arrow.gif"></div>    </div></div></div></div>
-                    <div id="DisplayII" name="DisplayII" style="display:none;"><div>
-    <div style="float:left;display:inline;width:160px;background-color:transparent;">
-        <div style="float:left;" id="PrevMonthButton" name="PrevMonthButton" onclick="PrevMonth()"><img id="CalNavL" name="CalNavL" src="/images/Cal_Left.gif" onmouseout="this.src = '/images/Cal_Left.gif'" onmouseover="this.src = '/images/Cal_Left_Over.gif'"></div>
-        <!--div style="float:left;width:79px;font-size:11px;font-weight:bold;color:#364f68;text-align:center;" id="dispMonth" name="dispMonth"></div-->
-        <div style="float:left;margin-left:2px;" id="CalMonthDisp" name="CalMonthDisp" onclick="GoToAuctionsByMonth();"><img src="/images/Dec.gif"></div>
-        <!--div style="float:left;width:40px;font-size:11px;font-weight:bold;color:#364f68;text-align:center;" id="dispYear" name="dispYear"></div-->
-        <input id="SelYear" name="SelYear" type="hidden" value="">
-        <input type="hidden" id="SelMonth" name="SelMonth" value="">
-        <div style="float:left;margin-left:2px;" id="NextMonthButton" name="NextMonthButton" onclick="NextMonth()"><img id="CalNavR" name="CalNavR" src="/images/Cal_Right.gif" onmouseout="this.src = '/images/Cal_Right.gif'" onmouseover="this.src = '/images/Cal_Right_Over.gif'"></div>
-        
-    </div>
-    <div style="float:left;width:149px;background-color:#c1cdd8;margin-top:2px;">
-        <div class="Cal-Days">S</div>
-        <div class="Cal-Days">M</div>
-        <div class="Cal-Days">T</div>
-        <div class="Cal-Days">W</div>
-        <div class="Cal-Days">T</div>
-        <div class="Cal-Days">F</div>
-        <div class="Cal-DaysEnd">S</div>
-    </div>
-    <div id="DaysMain" name="DaysMain" style="border-bottom:solid 1px #40607f;float:left;width:149px;font-size:12px;text-align:center;"></div>
-</div></div>
-                </div>
-            </div>
-            <div id="nh_backb"></div>
-        </div>
-        <div id="nh_backr"></div>
-        <div style="cursor:pointer;display:block;" onclick="MainHide()"><img name="homenavclose" src="/images/Close_Bar_Over.gif"></div>
-    </div>
-    <div id="MainClosed" name="MainClosed" style="display:block;" onclick="MainHide()"><img name="homenavopen" src="/images/Open_Bar_Over.gif"></div>
-    <div style="clear:both;"></div></td></tr>
-	</tbody></table>
-      
-
-
-<table width="728" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> 
-	<td background="/images/bg_pagetitle.gif"><img src="/images/title_privacy_policy.gif" width="243" height="39"></td>
-</tr>
-<tr>
-	<td><img src="/images/bar2.gif" width="728" height="4"></td>
-</tr>
-</tbody></table>
-<table width="728" border="0" cellspacing="0" cellpadding="5" bgcolor="#A3B8CC">
-  <tbody><tr>
-    <td valign="top"> 
-      <table border="0" cellspacing="2" cellpadding="10" align="center" width="716" class="border">
-        <tbody><tr valign="top"> 
-          <td class="border">
-<p class="text">Effective: July 1, 2002</p>
-            <p class="textbold">General Statement</p>
-            <p class="text">Your privacy is one of our highest priorities 
-              at Proxibid. We provide this Privacy Policy to help you make 
-              an informed choice about your personal information. We desire 
-              to be open and honest at all times with you about information 
-              collected from you, how that information is used, and your 
-              rights regarding that information.</p>
-            <p class="text">To make this Privacy Policy easy for you to 
-              find, we provide it on our welcome page and at every point 
-              where personally identifiable information may be requested. 
-              If you have any questions or comments about this privacy statement, 
-              please contact Proxibid’s privacy representative:</p>
-            <p class="text">Ken Maxwell<br>
-              11837 Miracle Hills Drive<br>
-              Suite 200<br>
-              Omaha, NE 68154<br>
-              402-505-7770<br>
-              402-505-7981 fax<br>
-              <a href="mailto:info@proxibid.com">info@proxibid.com</a></p>
-            <p class="text">This privacy statement applies to all information 
-              collected by or supplied to <a href="http://www.proxibid.com">http://www.proxibid.com</a>.</p>
-            <p class="textbold">OVERVIEW</p>
-            <p class="text">Proxibid’s purpose is to provide bidders 
-              an opportunity to participate in live auctions even when they 
-              cannot be physically present at the auction site. Proxibid 
-              webcasts the live auction and allows bidders to place bids 
-              in real time. Proxibid can also place automated bids on behalf 
-              of a bidder unable to personally monitor the auction webcast.<br>
-              Proxibid collects information from you to create your Bidder 
-              Profile. This Bidder Profile allows Proxibid to verify your 
-              identity and contact you regarding your auction activity.</p>
-            <p class="text">All auctions are operated by independent Auction 
-              Houses. Proxibid only facilitates your access to these Auction 
-              Houses when you are unable to attend in person. The Auction 
-              Houses have their own rules and requirements for participating 
-              in each auction. You may be required to submit information 
-              to the Auction House before participating in an auction. This 
-              information is governed by the Auction House’s privacy 
-              policy, not Proxibid’s privacy policy. Before you submit 
-              any information to an Auction House, you should review that 
-              Auction House’s privacy policy to understand how your 
-              information will be handled.</p>
-            <p class="text">Proxibid does not have any control over operation 
-              of the actual auctions. Proxibid only facilitates the web 
-              connection between the Auction site and you, the Bidder.</p>
-            <p class="textbold">INFORMATION COLLECTED BY PROXIBID</p>
-            <p class="text">Proxibid collects contact information to sign 
-              you up as a Bidder. That information is provided to the individual 
-              Auction Houses when you select to apply for participation 
-              in one of their auctions. Proxibid needs the following information 
-              for every Bidder using proxibid.com:</p>
-            <p class="text">Name:<br>
-              Address:<br>
-              E-mail:<br>
-              Home Phone Number<br>
-              Work Phone Number<br>
-              Affirmation that you are over the age of 21<br>
-              Credit Card Billing Address</p>
-            <p class="text">Proxibid does not collect any information about 
-              individual Bidders other than the information provided directly 
-              to us in connection with Bidder Profiles.</p>
-            <p class="text">We do gather aggregate information about site 
-              usage, such as the number of visitors, most visited pages, 
-              and length of visit. However, this information does not identify 
-              Bidders specifically by IP address, e-mail address or other 
-              user identifier. Rather, it tells us how our Bidders as a 
-              group are using the site. Thus, aggregate site usage data 
-              helps us expand and improve the Proxibid web site in order 
-              to make your experience with Proxibid the best possible.</p>
-            <p class="text">You may be required to submit additional information 
-              to participate in certain auctions. Each individual Auction 
-              House determines what information you will be required to 
-              submit to participate. This information is submitted through 
-              our website and stored in our database. The information is 
-              passed on to the Auction House requiring it. Any information 
-              received by the Auction House is governed by the Auction House’s 
-              privacy policy, not Proxibid’s privacy policy. We provide 
-              a direct link to each Auction House’s Privacy Policy 
-              from the Proxibid website. We suggest that you review the 
-              individual Auction House’s Privacy Policy before you 
-              submit any personally identifiable information.</p>
-            <p class="text">We do not sell, trade or rent any of your information. 
-              Other than the contact information we provide to the Auction 
-              Houses, we do not provide any of your information to a third 
-              party, unless you expressly give permission to do so. Thus, 
-              your personal information is only used to help you participate 
-              in live auctions.</p>
-            <p class="text">Please rest assured that Proxibid has taken 
-              adequate precautions to protect both the physical and electronic 
-              security of collected information and other data.</p>
-            <p class="textbold">COOKIES</p>
-            <p class="text">Proxibid, Inc. only collects information pertaining 
-              to session cookies and does not store any persistent cookies 
-              on your computer hard drive. A cookie is a small piece of 
-              information that is sent to your browser-- along with a Web 
-              page-- when you access a Web site.</p>
-            <p class="text">There are two kinds of cookies. A session cookie 
-              is a line of text that is stored temporarily in your computer's 
-              RAM. Because a session cookie is never written to a drive, 
-              it is destroyed as soon as you close your browser. A persistent 
-              cookie is a more permanent line of text that gets saved by 
-              your browser to a file on your hard drive. Depending on your 
-              browser settings, you may receive notification that a given 
-              site is requesting cookie information, possibly with an expiration 
-              date. Persistent cookies have an expiration date in the future. 
-              Session cookies have no date associated with them. Proxibid.com 
-              uses ABSOLUTELY NO persistent cookies. The site DOES however 
-              require the 'session cookie'. Accessing any and all of Proxibid's 
-              web pages will create a session cookie. And it is indeed required 
-              for any and all of the pages to work. But as stated above, 
-              it is only stored in memory for as long as you have your browser 
-              window open.</p>
-            <p class="textbold">SECURITY</p>
-            <p class="text">Proxibid takes industry standard security measures 
-              to protect your information. Proxibid has contracted with 
-              First Technology Solutions to provide security for Proxibid’s 
-              physical servers.</p>
-            <p class="text">We restrict access to your personal identification 
-              and contact information within the company to only those authorized 
-              employees who need to use that information for a specific 
-              job function.</p>
-            <p class="text">Though Proxibid takes the multiple electronic 
-              and physical security precautions described herein, we cannot 
-              be responsible if a third-party gains access to the database 
-              or your personal or credit card information by evading our 
-              security measures.</p>
-            <p class="textbold">CHANGING YOUR BIDDER PROFILE</p>
-            <p class="text">You may change, update or delete any of the 
-              information you have provided to Proxibid by calling Proxibid 
-              at (402) 505-7770 or emailing Proxibid at <a href="mailto:info@proxibid.com">info@proxibid.com</a>. 
-              We will take reasonable steps to verify your identity before 
-              granting access or making corrections. You can access your 
-              Bidder Profile through the login option on the Proxibid homepage. 
-              If you find an error in your Bidder Profile, please send an 
-              e-mail to <a href="mailto:techsupport@proxibid.com">techsupport@proxibid.com</a> 
-              notifying us of the error. Please include credible evidence 
-              of the error and the correct information for your Bidder Profile.</p>
-            <p class="textbold">ADDITIONAL INFORMATION</p>
-            <p class="text">Proxibid contains links to web sites of other 
-              companies. This policy does not apply to the privacy practices 
-              of those sites. We strongly suggest that you visit the privacy 
-              section of those web sites to learn about the collection and 
-              use of your personal information before you provide any information 
-              to those sites. Proxibid is not responsible for the use of 
-              personal information collected at other sites.</p>
-            <p class="text">Except as described in this Privacy Policy, 
-              Proxibid does not disclose any of your personal contact information 
-              to third parties except when it is required by law, or to 
-              protect Proxibid, our Users or others.</p>
-            <p class="textbold">POLICY AMENDMENTS</p>
-            <p class="text">From time to time, we may use Bidder information 
-              for new, unanticipated uses not previously disclosed in our 
-              privacy notice. If such a change in use would occur, Proxibid 
-              will post any changes to the privacy policy, allowing you 
-              to know the kind of information collected by Proxibid and 
-              how that information is used.</p>
-            <p class="text">If you are concerned about how your collected 
-              information is used, please refer to this page regularly. 
-              You may prevent your information from being used for any new 
-              purpose by opting-out at <a href="mailto:opt-out@proxibid.com">opt-out@proxibid.com</a>.</p>
-            <p class="text">Again, if you have questions about this privacy 
-              policy, please feel free to contact our Privacy Representative 
-              as identified at the top of this page.</p>
-            </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
- </td>
-    <td width="11" background="/images/bg_shadow_right.gif"><img src="/images/bg_shadow_right.gif" width="11" height="100"></td>
-	</tr>
-  <tr valign="top"> 
-    <td colspan="3"><img src="/images/bottom.gif" width="750" height="15"></td>
-  </tr>
-</tbody></table>
-<table width="750" border="0" cellspacing="0" cellpadding="5" align="center">
-  <tbody><tr>
-    <td><p class="footer" align="center"><a href="http://www.proxibid.com/asp/Home.asp">home</a> | <a href="http://www.proxibid.com/asp/CreateAccountFork.asp">create account</a> | <a href="http://www.proxibid.com/asp/contact.asp">contact</a> | <a href="http://www.proxibid.com/asp/Help.asp">help</a> | <a href="http://www.proxibid.com/asp/AboutProxibid.asp">about</a> | <a href="http://www.proxibid.com/asp/AuctionArchives.asp">archives</a> | <a href="http://www.proxibid.com/asp/Services.asp">services</a> | <a href="http://www.proxibid.com/asp/PressRelease.asp">press releases</a> | <a href="http://www.proxibid.com/asp/Testimonial.asp">testimonials</a></p></td>
-  </tr>
-  <tr>
-    <td><p class="footer" align="center">Live Internet auctions. Real Auctioneers. Real-time bidding.</p></td>
-  </tr>
-<tr><td style="HEIGHT:7px;"></td></tr>
-  <tr>
-    <td><p class="footer" align="center"><a href="/asp/SiteCredits.asp">Site Credits</a> | <a href="/asp/TermsAndConditions.asp">Terms and Conditions</a> | <a href="/asp/PrivacyPolicy.asp">Privacy Policy</a></p></td>
-  </tr>
-  <tr>
-    <td><p class="footer" align="center">© 2001 - 2008 Proxibid, Inc. All rights Reserved.</p></td>
-  </tr>
-  <tr>
-    <td align="center" style="font-size:9px;">
-		<a href="http://www.bbbonline.org/cks.asp?id=10412165153349762" target="_blank"><img src="/Images/ReliabilitySeal5.gif"></a>
-		<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.proxibid.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.proxibid.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
-		<br>(25)&nbsp;6/2/2008 10:21:55 PM
-	</td>
-  </tr>
-</tbody></table>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-291821-1";
-urchinTracker();
+try{
+if(window != top){
+		//alert("top.location=" + top.location.href + "\nlocation.href=" + location.href);
+		
+		//////////  DISABLED UNTIL IE P3P CAN BE IMPLEMENTED
+	//////location.replace( "http://www.proxibid.com/asp/UnifiedUserAgreement.asp") ;
+		////////////////////////
+	}
+}catch(e){
+		//alert(e);
+		//////////  DISABLED UNTIL IE P3P CAN BE IMPLEMENTED
+		//////location.replace( "http://www.proxibid.com/asp/UnifiedUserAgreement.asp") ;
+		////////////////////////
+
+}
+
+</script> 
+
+
+<div id="headerWide" class="navCatNone" style=""></div>
+<div id="outerContainer">
+	<div id="salesAlertModal"></div>
+	<div id="header" data="data" class="navCatNone" style="display:block;">
+	<script type="text/javascript">
+		var showSalesAlertPrompt = ''
+		var fxInterval = jQuery.fx.interval;var showingSearchCategories = false;function showSearchCategories() {try { document.getElementById('wlCategorySlider2').style.display = 'block';} catch(e) {}showingSearchCategories = true;};function searchCategory(cat) {jQuery("#catSearchCurrently").text(cat.toLowerCase());jQuery('#wlCategorySlider2').hide();showingSearchCategories = false;};function searchFocus() {if(searchBlur.searchText == document.getElementById('topNavSearchInput').value){document.getElementById('topNavSearchInput').value = '';}document.getElementById('topNavSearchInput').style.color = '#000';var searchInput = document.getElementById('topNavSearch');searchInput.className += ' searchFocus';searchInput = document.getElementById('topNavSearchLeft');searchInput.className += ' searchFocus';try { jQuery("#wlCategorySlider2").hide();showingSearchCategories = false;} catch(e) {}};function searchBlur() {if (!showingSearchCategories) {if (document.getElementById('topNavSearchInput').value == ''){document.getElementById('topNavSearchInput').value = searchBlur.searchText;}document.getElementById('topNavSearchInput').style.color = 'gray';var searchInput = document.getElementById('topNavSearch');searchInput.className = searchInput.className.replace(/\bsearchFocus\b/, '');document.getElementById('topNavSearchLeft').className = '';try { jQuery("#wlCategorySlider2").hide();showingSearchCategories = false;} catch(e) {}}};searchBlur.searchText = 'Search for items';jQuery(document).ready(function () {var $ = jQuery;$('#topNavSearchInput').keypress(function (event) {if (event.which == '13') {submitSearch();};});$('#topNavSearchSubmit1').click(function () {submitSearch();return false;});$('#topNavSearchSubmit2').click(function () {submitSearch();return false;});$('#topNavSearchSubmit3').click(function () {submitSearch();return false;});$('#wlCategoryContainer2').mouseleave(function() {showingSearchCategories = false;$('#wlCategorySlider2, #wlCategoryContainer2').removeClass("hover1");});$('#topNavSearchCategory, #ArrowIcon').mouseenter(function() {showSearchCategories();});$('#topNavSearchCategory').mouseleave(function() {$('#wlCategoryContainer2').removeClass("hover2");if (!$('#wlCategoryContainer2').hasClass('hover1')){hideSearchCat();};});});function submitSearch() {var searchTerm = document.getElementById('topNavSearchInput').value.replace(/&*<*>*#*/g, '').trim();var defaultSearchText = defaultSearchText;var search = '';var searchCategoryDefault = 'all categories';var refine = jQuery('#catSearchCurrently').text().replace(/\&/g, '%26').replace(/ /g, '+').replace(/,/g, '%2C');var categoryName = refine;var searchUrl =  '/asp/SearchAdvanced_i.asp';if(searchTerm != '' && searchTerm != defaultSearchText) {search += 'searchTerm=' + searchTerm;search += '&category=' + categoryName;if(refine == searchCategoryDefault.replace(/ /g, '+')) {refine = '';} else {refine =  'CategoryName|' + refine;}search = '?' + search + '#' + search + refine;search += '&searchid=&type=lot&search=' + encodeURIComponent(searchTerm) + '&sort=relevance&length=25&start=1&refine=' + refine;document.location = searchUrl + search;}}function hideSearchCat(){try { jQuery('#wlCategorySlider2').delay(500).css('display','none');} catch(e) {};};
+
+		function showSalesAlertModal() {
+		    jQuery("#salesAlertModal").dialog({
+			    autoOpen: false,
+			    height: 220,
+			    width: 370,
+			    modal: true,
+			    resizable: false,
+			    draggable: false,
+			    buttons: {
+				    "Okay": function () {
+					var salesAlertSignup = jQuery("#salesAlertSignup").is(':checked') ? 1 : 0;
+					jQuery.post("/asp/ajax/salesAlertResponse.asp", {
+					    salesAlertSignup: salesAlertSignup
+					}, function() {})
+					jQuery("#salesAlertModal").dialog("close");
+				    }
+			    },
+			    open: function () {
+				    jQuery(this).parents(".ui-dialog:first").find(".ui-dialog-titlebar-close").remove();
+			    }
+
+		    });
+		    jQuery("#salesAlertModal").html('<center>Proxibid is continually bringing new and exciting inventory to be sold in our marketplace, and we don&#39;t want you to miss out.</center> <br /> <input checked = "checked" type = "checkbox" name = "salesAlertSignup" id = "salesAlertSignup" value = "1"> <label for = "salesAlertSignup">Yes, I want to receive sale alerts based on my recent purchases.</label>');
+		    jQuery("#salesAlertModal").dialog("open");
+		    jQuery("html, body").animate({ scrollTop: 0 }, "slow");
+		}
+		jQuery(document).ready(function () {
+			var $ = jQuery;
+			if( showSalesAlertPrompt === '1') {
+			    showSalesAlertModal();
+			    
+			}
+			//Fix for when coming from embedded solution
+			if(window == top){
+				$('#headerWide').show();
+			}
+			
+			$('#browseButtonLink').click(function () {
+				//$('#topNavBrowseSlider').toggle();
+
+				//Slide out
+				if ($('#topNavBrowseSlider').is(':hidden')) {
+					showBrowseMenu();				
+				}
+				else {
+					if (showBrowseMenu.throttle == false) {
+						hideBrowseMenu();
+					}
+				}
+
+				return false;
+			});
+
+			$('#categoryButtonLink').click(function () {
+				//$('#topNavcategorySlider').toggle();
+
+				//Slide out
+				if ($('#topNavCategorySlider').is(':hidden')) {
+					showCategoryMenu();
+				}
+				else {
+					if (showCategoryMenu.throttle == false) {
+						hideCategoryMenu();
+					}
+				}
+
+				return false;
+			});
+
+			$('#headerNotice #bidderActivation').click(function () {
+				var el = $(this)[0];
+
+				$(el).html("Sending Activation Email");
+				$.getJSON('/asp/bidder/sendactivationemail.asp?bid=0', function (data) {
+					var success = 0;
+					var errMsg = "";
+					$.each(data, function (key, val) {
+						if (key == 'success') {
+							success = val;
+						}
+						else if (key == 'error') {
+							errMsg = val;
+						}
+					});
+					if (success == 1) {
+						$(el).replaceWith("Activation Email Sent");
+						$('#headerNotice #bidderActivation').click(function () {
+							return false;
+						});
+
+					}
+				});
+				return false;
+			});
+
+			$(document.getElementById('topNavBrowseContainer')).mouseleave(function () {
+				browseMouseOut();
+			});
+
+			$(document.getElementById('topNavBrowseContainer')).mouseenter(function () {
+				cancelBrowseMouseOut();
+			});
+
+			$(document.getElementById('browseButtonLink')).mouseleave(function () {
+				if(showBrowseMenu.hoverDelay) {
+					clearTimeout(showBrowseMenu.hoverDelay);
+				}
+				browseMouseOut();
+			});
+
+			$(document.getElementById('browseButtonLink')).mouseenter(function () {
+				showBrowseMenu.hoverDelay = setTimeout(function() {
+					showBrowseMenu(true);
+				}, 200);
+				
+				cancelBrowseMouseOut();
+			});
+
+			// separate category fly out from browse fly out.
+
+			$(document.getElementById('topNavCategoryContainer')).mouseleave(function () {
+				categoryMouseOut();
+			});
+
+			$(document.getElementById('topNavCategoryContainer')).mouseenter(function () {
+				cancelCategoryMouseOut();
+			});
+
+			$(document.getElementById('categoryButtonLink')).mouseleave(function () {
+				if (showCategoryMenu.hoverDelay) {
+					clearTimeout(showCategoryMenu.hoverDelay);
+				}
+				categoryMouseOut();
+			});
+
+			$(document.getElementById('categoryButtonLink')).mouseenter(function () {
+				showCategoryMenu.hoverDelay = setTimeout(function () {
+					showCategoryMenu(true);
+				}, 200);
+
+				cancelCategoryMouseOut();
+			});
+
+			$(document.getElementById('topNavCategoryBridge')).mouseleave(function () {
+				categoryMouseOut();
+			});
+
+			$(document.getElementById('topNavCategoryBridge')).mouseenter(function () {
+				cancelCategoryMouseOut();
+			});
+
+			// Browse fly out functions
+			function showBrowseMenu(throttle) {
+				//Longer fx interval for performance
+				//jQuery.fx.interval = 25;
+				cancelBrowseMouseOut();
+				
+				$('#topNavBrowseSlider').show();
+				$('#ddlAuctionType').blur();
+				$('#ddlCategory').blur();
+				$('.ddlAucType').blur();
+				$('.cat').blur();
+				
+
+				$('#topNavBrowseContainer').stop();
+				$('#topNavBrowseContainer').animate({
+					top: "0px"
+				}, 200, 'linear', function () {
+					//Reset fx interval to default
+					//jQuery.fx.interval = fxInterval;
+				});
+
+				//Prevent clicking for a period of time so the user
+				// doesn't hover then immediately click it away
+				if (throttle) {
+					showBrowseMenu.throttle = true;
+					setTimeout(function () {
+						showBrowseMenu.throttle = false;
+					}, 300);
+				}
+			}
+
+			function hideBrowseMenu() {
+				//Longer fx interval for performance
+				//jQuery.fx.interval = 25;
+
+
+				if (!$('#topNavBrowseSlider').is(':hidden')) {
+					$('#topNavBrowseContainer').stop();
+					$('#topNavBrowseContainer').animate({
+						top: "-275px"
+					}, 200, 'linear', function () {
+						//complete
+
+						$('#topNavBrowseSlider').hide();
+						//Reset fx interval to default
+						//jQuery.fx.interval = fxInterval;
+					});
+				}
+
+
+				//$('#topNavBrowseSlider').hide();
+			}
+
+			function cancelBrowseMouseOut() {
+				if (browseMouseOut.t != "undefined") {
+					clearTimeout(browseMouseOut.t);
+				}
+			}
+
+			function browseMouseOut() {
+				if (browseMouseOut.t != "undefined") {
+					clearTimeout(browseMouseOut.t);
+				}
+
+				//Half second delay before closing the flyout
+				browseMouseOut.t = setTimeout(function () {
+					hideBrowseMenu();
+				}, 200);
+			}
+
+			// Category fly out functions
+			function showCategoryMenu(throttle) {
+				//Longer fx interval for performance
+				//jQuery.fx.interval = 25;
+				cancelCategoryMouseOut();
+
+				$('#topNavCategorySlider').show();
+				$('#ddlAuctionType').blur();
+				$('#ddlCategory').blur();
+				$('.ddlAucType').blur();
+				$('.cat').blur();
+				
+
+				$('#topNavCategoryContainer').stop();
+				$('#topNavCategoryContainer').animate({
+					top: "0px"
+				}, 200, 'linear', function () {
+					//Reset fx interval to default
+					//jQuery.fx.interval = fxInterval;
+				});
+
+				//Prevent clicking for a period of time so the user
+				// doesn't hover then immediately click it away
+				if (throttle) {
+					showCategoryMenu.throttle = true;
+					setTimeout(function () {
+						showCategoryMenu.throttle = false;
+					}, 300);
+				}
+			}
+
+			function hideCategoryMenu() {
+				//Longer fx interval for performance
+				//jQuery.fx.interval = 25;
+
+
+				if (!$('#topNavCategorySlider').is(':hidden')) {
+					$('#topNavCategoryContainer').stop();
+					$('#topNavCategoryContainer').animate({
+						top: "-355px"
+					}, 200, 'linear', function () {
+						//complete
+
+						$('#topNavCategorySlider').hide();
+						//Reset fx interval to default
+						//jQuery.fx.interval = fxInterval;
+					});
+				}
+
+
+				//$('#topNavCategorySlider').hide();
+			}
+
+			function cancelCategoryMouseOut() {
+				if (categoryMouseOut.t != "undefined") {
+					clearTimeout(categoryMouseOut.t);
+				}
+			}
+
+			function categoryMouseOut() {
+				if (categoryMouseOut.t != "undefined") {
+					clearTimeout(categoryMouseOut.t);
+				}
+
+				//Half second delay before closing the flyout
+				categoryMouseOut.t = setTimeout(function () {
+					hideCategoryMenu();
+				}, 200);
+			}
+
+		});
+		
+		
+	</script>
+	<div id="headerLogoLink">
+		<a href="http://www.proxibid.com/">
+			<span class="All"></span>
+			<span class="AllText"></span>
+		</a>
+		
+		<span class="headerCategoryText"></span>
+	</div><div id="topNavUser"><a href="https://www.proxibid.com/asp/createbidder.asp" class="signUp"><span></span>SIGN UP</a>		
+		<a class="Login" href="https://www.proxibid.com/asp/LoginBidder.asp?d=/asp/PrivacyPolicy.asp?">LOG IN</a>
+		<span class="headerSeparator"></span>
+		<a class="Buying" href="https://www.proxibid.com/asp/GetStarted.asp">Buying</a>
+		<a class="Selling" href="http://www.proxibid.com/selling">Selling</a>
+		
+	<a class="headerHelp" href="http://www.proxibid.com/asp/Help.asp">Help</a>
+		
+	</div>
+	
+	
+	<div id="topNavBrowseSlider">
+		<div id="topNavBrowseContainer">
+			<div>
+				<div>
+					<a href="http://www.proxibid.com/asp/webcast-auctions-calendar.asp"><span class="today"></span>Today's Events</a><br>
+					<a href="http://www.proxibid.com/asp/all-webcast-auctions.asp?asvt=live"><span class="live"></span>Live Auctions</a><br>
+					<a href="http://www.proxibid.com/asp/all-webcast-auctions.asp?asvt=timed"><span class="timed"></span>Timed Events</a><br>
+					<a href="http://www.proxibid.com/asp/all-webcast-auctions.asp?asvt=instant"><span class="instant"></span>Instant Purchase</a><br>
+					<a href="http://www.proxibid.com/asp/all-webcast-auctions.asp?asvt=all"><span class="all"></span>All Events</a><br>
+					<a href="http://www.proxibid.com/asp/auction-companies.asp"><span class="companies"></span>Companies</a><br>
+					<a href="http://www.proxibid.com/asp/upcoming-webcast-auctions-map.asp"><span class="location"></span>Location</a><br>
+					<input type="hidden" class="proxibiddate" value="">
+					<a href="#" class="auc-cal-global"><span class="date"></span>Date</a><br>
+					<a href="http://www.proxibid.com/asp/featured-lots.asp"><span class="featured"></span>Featured Items</a><br>
+					<div class="topMenuDivider"></div>
+					<div class="topMenuOtherCompanies">Other Proxibid Companies</div>
+					<a href="http://tickets.proxibid.com/" target="_blank"><div class="topMenuOther topMenuTickets"></div></a>
+					<a href="http://www.proxibidclassifieds.com" target="_blank"><div class="topMenuOther topMenuClassifieds"></div></a>
+					<a href="http://auctionseverywhere.com/" target="_blank"><div class="topMenuOther topMenuAuctionsEverywhere"></div></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--Image preloading for fly-out menu-->
+	<div id="topNavPreload1" class="imgPreload"></div>
+	<div id="topNavPreload2" class="imgPreload"></div>
+	<div id="topNavPreload3" class="imgPreload"></div>
+	<div id="topNavPreload4" class="imgPreload"></div>
+	<!-- Category fly out -->
+	<div id="topNavCategorySlider">
+		<div id="topNavCategoryContainer">
+			<div>
+				<div class="categoryCategoryColumn" style="width:240px;"><a href="/asp/antique-auctions.asp" class="cat1"><span></span>Art, Antiques &amp; Collectibles</a><br><a href="/asp/charity-auctions.asp" class="cat5"><span></span>Benefit &amp; Charity</a><br><a href="/asp/coin-auctions.asp" class="cat9"><span></span>Coins &amp; Currency</a><br><a href="/asp/industrial-commercial-auctions.asp" class="cat2"><span></span>Commercial &amp; Industrial</a><br><a href="/asp/commercial-truck-auctions.asp" class="cat16"><span></span>Commercial Trucks</a><br><a href="/asp/computer-electronics-auctions.asp" class="cat13"><span></span>Computers &amp; Electronics</a><br><a href="/asp/equine-livestock-auctions.asp" class="cat7"><span></span>Equine &amp; Livestock</a><br><a href="/asp/estate-auctions.asp" class="cat8"><span></span>Estate &amp; Personal Property</a><br><a href="/asp/farm-machinery-auctions.asp" class="cat11"><span></span>Farm Machinery &amp; Implements</a><br><a href="/asp/fine-art-auctions.asp" class="cat12"><span></span>Fine Art &amp; Rare Memorabilia</a><br><a href="/asp/firearm-auctions.asp" class="cat10"><span></span>Firearms &amp; Military Artifacts</a><br><a href="/asp/construction-equipment-auctions.asp" class="cat3"><span></span>Heavy Construction Equipment</a><br><a href="/asp/jewelry-gemstones-watches-auctions.asp" class="cat14"><span></span>Jewelry, Gemstones &amp; Watches</a><br><a href="/asp/land-and-real-estate-auctions.asp" class="cat4"><span></span>Real Estate</a><br><a href="/asp/car-truck-boat-van-auctions.asp" class="cat6"><span></span>Vehicles, Collector Cars &amp; Marine</a><br>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="topNavSub">
+		<div id="topNavFindAuctionLinks">
+			<a id="homeButtonLink" href="http://www.proxibid.com/">Home</a>
+			<span class="headerNavSeparator"></span>
+			<a id="categoryButtonLink" href="">Categories<span id="CategoryButton"></span><span id="CategoryIcon"></span></a>
+			<span class="headerNavSeparator"></span>
+			<a id="browseButtonLink" href="">Browse By<span id="BrowseButton"></span><span id="BrowseIcon"></span></a>
+		</div>
+		<div id="topNavSearchLeft" style="float:left;"><span class="SearchIcon"></span></div><div class="wlCategoryFilter" id="topNavSearch"><a id="topNavSearchSubmit1" href=""></a><input type="text" id="topNavSearchInput" name="topNavSearchInput" class="wlCategoryFilter" onfocus="searchFocus()" onblur="searchBlur()" maxlength="99" value="" search="" for="" items"="" tabindex="0"><div id="topNavSearchCategory"><span>in </span><span id="catSearchCurrently">all categories</span><div id="wlCategorySlider2" class="CategorySearch" style="position:absolute;margin:28px 0 0 10px;"><div id="wlCategoryContainer2" class="CategorySearch"><div><div class="CategoryColumn CategorySearch"><a href="javascript:void(0);" onclick="javascript:searchCategory('all categories')">All Categories</a><br><a href="javascript:void(0);" id="cSearch1" onclick="javascript:searchCategory('Art, Antiques &amp; Collectibles')">Art, Antiques &amp; Collectibles</a><br><a href="javascript:void(0);" id="cSearch5" onclick="javascript:searchCategory('Benefit &amp; Charity')">Benefit &amp; Charity</a><br><a href="javascript:void(0);" id="cSearch9" onclick="javascript:searchCategory('Coins &amp; Currency')">Coins &amp; Currency</a><br><a href="javascript:void(0);" id="cSearch2" onclick="javascript:searchCategory('Commercial &amp; Industrial')">Commercial &amp; Industrial</a><br><a href="javascript:void(0);" id="cSearch16" onclick="javascript:searchCategory('Commercial Trucks')">Commercial Trucks</a><br><a href="javascript:void(0);" id="cSearch13" onclick="javascript:searchCategory('Computers &amp; Electronics')">Computers &amp; Electronics</a><br><a href="javascript:void(0);" id="cSearch7" onclick="javascript:searchCategory('Equine &amp; Livestock')">Equine &amp; Livestock</a><br><a href="javascript:void(0);" id="cSearch8" onclick="javascript:searchCategory('Estate &amp; Personal Property')">Estate &amp; Personal Property</a><br><a href="javascript:void(0);" id="cSearch11" onclick="javascript:searchCategory('Farm Machinery &amp; Implements')">Farm Machinery &amp; Implements</a><br><a href="javascript:void(0);" id="cSearch12" onclick="javascript:searchCategory('Fine Art &amp; Rare Memorabilia')">Fine Art &amp; Rare Memorabilia</a><br><a href="javascript:void(0);" id="cSearch10" onclick="javascript:searchCategory('Firearms &amp; Military Artifacts')">Firearms &amp; Military Artifacts</a><br><a href="javascript:void(0);" id="cSearch3" onclick="javascript:searchCategory('Heavy Construction Equipment')">Heavy Construction Equipment</a><br><a href="javascript:void(0);" id="cSearch14" onclick="javascript:searchCategory('Jewelry, Gemstones &amp; Watches')">Jewelry, Gemstones &amp; Watches</a><br><a href="javascript:void(0);" id="cSearch4" onclick="javascript:searchCategory('Real Estate')">Real Estate</a><br><a href="javascript:void(0);" id="cSearch6" onclick="javascript:searchCategory('Vehicles, Collector Cars &amp; Marine')">Vehicles, Collector Cars &amp; Marine</a><br></div></div></div></div></div><span id="ArrowIcon" onclick="showSearchCategories()"></span></div><div id="topNavSearchRight"><a id="topNavSearchSubmit3" href="javascript:void(0);"><span class="searchGoButton"></span>GO</a></div>
+	</div>
+	
+	<!--Image preloading for fly-out menu-->
+	<div id="topNavCategoryPreload1" class="imgCategoryPreload"></div>
+	<br>
+</div>
+<!--End of Header-->
+
+	<div id="contentWrapper">
+
+<form id="SessionInfo"><input id="SessionRedirectURL" type="hidden" value="%2Fasp%2FPrivacyPolicy%2Easp%3F"><div id="SessionWarning" style="display: none;"></div></form>
+
+<form id="auc-date-search" method="post" action="/asp/webcast-auctions-calendar.asp">
+<input type="hidden" name="selectedDate" id="selectedDate" value="">
+</form>
+<div class="slider_outer_top_with_inner_top_round"></div>
+<div class="slider_outer_mid_with_inner_mid">
+	<div class="sliderContentArea">
+		<h1 class="pageTitle">Privacy Policy</h1>
+	</div>
+</div>
+<div class="slider_outer_bottom_with_inner_bottom_round"></div>
+<div class="content_outer_top_with_inner_top_round"></div>
+
+<div class="content_outer_mid_with_inner_mid">
+	
+	<a href="#" onclick="window.opener=null; window.close(); return false;" class="button plain" style="margin-left: 30px;"><span></span>back</a>
+	
+	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td>
+			<table width="716" align="center" border="0" cellpadding="10" cellspacing="2">
+			<tbody><tr valign="top"> 
+				<td style="padding: 0 10px;">
+<style>
+
+<!--
+ /* Font Definitions */
+p strong span {
+color:#000;
+font-size:13pt;
+}
+ul li span, p{
+font-family: "Arial","Times New Roman","serif";
+    font-size: 11pt;
+color:#000;
+}
+h1 {
+color:black;
+margin-top:20px;
+font-size:30px;
+}
+ul {
+margin-left:40px;
+}
+a.privacyLink {
+text-decoration:underline;
+color:blue;
+font-size:11pt;
+font-family:Arial;
+}
+-->
+</style>
+<h1><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Proxibid Privacy Policy</span></h1>
+
+<p>&nbsp;</p>
+
+<p>At, Proxibid, your privacy is one of our highest priorities. We provide this
+Privacy Policy to help you make an informed choice about your personal
+information. We desire to be open and honest at all times about information
+collected from you, how that information is used, and your rights regarding
+that information. <span style="color:black">&nbsp;</span></p>
+
+<p><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:blue">NOTICE&nbsp;</span></strong></p>
+
+<p style="margin-left:22.5pt"><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:black">POLICY ACCEPTANCE</span></strong></p>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">This
+     privacy policy applies to all information collected by or supplied
+     to&nbsp;</span><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><a href="http://www.proxibid.com" class="privacyLink">www.proxibid.com</a><span style="color:
+     black">. &nbsp;By visiting&nbsp;</span><a href="http://www.proxibid.com" class="privacyLink">www.proxibid.com</a><span style="color:black">&nbsp;you are accepting the practices described in
+     this Privacy Policy.&nbsp;</span></span></li>
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">If you
+     choose to visit <a href="www.proxibid.com" class="privacyLink">www.proxibid.com</a>, your
+     visit and any dispute over privacy is subject to this Privacy Policy and
+     our Unified User Agreement, including limitations on damages and
+     application of the law of the State of Nebraska.</span></li>
+</ul>
+
+<p style="margin-left:22.5pt"><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">POLICY
+AMENDMENTS AND&nbsp;AMENDMENT NOTIFICATION&nbsp;</span></strong></p>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Please note
+     that we review our privacy practices periodically and such policies are
+     subject to change. Proxibid reserves the right to amend this Privacy
+     Policy at any time by posting revisions on the Proxibid Web site. Use of
+     information we gather now is subject to the Privacy Policy in effect at
+     the time of use. We ask that you periodically review this page to ensure
+     familiarity with the most current version of our Privacy Policy.&nbsp;</span></li>
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">In the
+     event of any material amendment to the Privacy Policy, you may be required
+     to affirmatively accept the amended Privacy Policy in order to continue to
+     use the Web site. This Privacy Policy is not intended to, and does not
+     create any contractual or other legal rights in or on behalf of any
+     party.&nbsp;</span></li>
+</ul>
+
+<p style="margin-left:22.5pt"><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">POLICY
+QUESTIONS</span></strong></p>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">If you have
+     questions or concerns about this Privacy Policy, please contact us at&nbsp;</span><a href="mailto:privacy@proxibid.com" class="privacyLink">privacy@proxibid.com</a><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">.&nbsp;</span></li>
+</ul>
+
+<p><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:blue">COLLECTION
+OF INFORMATION</span></strong></p>
+
+<p style="margin-left:22.5pt"><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">OVERVIEW&nbsp;</span></strong></p>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Proxibid
+     collects information from each user of the Proxibid Web site that creates
+     a bidder account with Proxibid (a “Buyer”).&nbsp;</span></li>
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Proxibid
+     also collects information from each auction company that creates a seller
+     account with Proxibid (“Seller”).&nbsp;</span></li>
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Proxibid's
+     purpose is to provide Buyers an opportunity to participate in live
+     auctions when they cannot be physically present at the auction site.
+     Proxibid broadcasts the live auction over the Internet and allows Buyers
+     to place bids in real time. Proxibid can also place automated bids on
+     behalf of a Buyer unable to personally monitor the auction broadcast.
+     Proxibid also provides timed online auctions services.&nbsp;</span></li>
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">All
+     auctions are operated by independent Sellers. Proxibid has no control over
+     operation of the actual auctions. Proxibid only maintains the Internet
+     interface between the Seller and Buyer. Each Buyer expressly authorizes
+     Proxibid to deliver the Buyer information to any Seller conducting an
+     auction in which the Buyer participates. See “Disclosure of Buyer
+     Information to Sellers” below. Sellers may or may not have their own
+     privacy policies.&nbsp;</span></li>
+</ul>
+
+<p style="margin-left:22.5pt"><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">INFORMATION
+COLLECTED BY PROXIBID</span></strong></p>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Proxibid
+     collects contact information to sign you up as a Buyer or Seller. Buyer
+     information is provided to the individual Sellers when a Buyer applies for
+     participation in one of their auctions.&nbsp;</span></li>
+</ul>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Proxibid
+     requires each&nbsp;<strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+     color:black">Buye</span></strong><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+     color:#003366">r&nbsp;</span></strong>who creates an account on
+     Proxibid.com to voluntarily submit the following “Primary Data”,
+     regardless of whether the Buyer participates in any auction:</span></li>
+ <ul type="circle">
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">First Name</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Last Name</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">E-mail
+      Address</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Date of
+      Birth</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Country</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Preferred
+      Language</span></li>
+ </ul>
+</ul>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Proxibid
+     requires each&nbsp;<strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Buyer&nbsp;</span></strong>to
+     create the following for security purposes:&nbsp;</span></li>
+ <ul type="circle">
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Username</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Password</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Security
+      Question</span></li>
+ </ul>
+</ul>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">When
+     a&nbsp;<strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Buyer&nbsp;</span></strong>participates
+     in an auction, Buyer may be asked to submit the following “Secondary Data”
+     before the Buyer is allowed to place a bid:&nbsp;</span></li>
+ <ul type="circle">
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Phone
+      Number</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Type of
+      Phone Line</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Billing
+      Information including Credit Card and CVV2</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Shipping
+      Address</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">State Tax
+      Identification Number (if requested by the Seller)</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Social
+      Security Number to verify Buyer's identity using AuctionGuard™ to
+      determine Buyer's eligibility to participate in certain auctions.
+      Proxibid stores only the last four digits of any Social Security number.</span></li>
+ </ul>
+</ul>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Proxibid
+     requires each&nbsp;<strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Seller&nbsp;</span></strong>who
+     creates an account on Proxibid.com to voluntarily submit the following
+     information:&nbsp;</span></li>
+ <ul type="circle">
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Auction
+      Company Name</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Contact
+      Name</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Address </span><span style="font-family:&quot;Arial Unicode MS&quot;,&quot;sans-serif&quot;">‒</span><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"> including City, State, Country,
+      Zip</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Phone
+      Number</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Fax Number</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">E-mail
+      Address</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Website
+      URL</span></li>
+ </ul>
+</ul>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Proxibid
+     requires each&nbsp;<strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Seller&nbsp;</span></strong>to
+     create the following for security purposes:&nbsp;</span></li>
+ <ul type="circle">
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Username</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Password</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Security
+      Question</span></li>
+ </ul>
+</ul>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">In
+     addition, Proxibid requires each&nbsp;<strong><span style="font-family:
+     &quot;Arial&quot;,&quot;sans-serif&quot;">Seller&nbsp;</span></strong>to submit a merchant
+     application with the following information:&nbsp;</span></li>
+ <ul type="circle">
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">For primary
+      contact person and individuals with access to account: Name, Title,
+      Phone, E-mail, Date of Birth, Last four digits of Social Security number,
+      Residential address</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Primary
+      Category of Items Selling</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Auctioneer
+      License Number and Name on License</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Auction
+      Association Affiliations</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Tax Id
+      Number</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Date
+      Business Commenced</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Type of
+      Business (sole proprietorship, partnership, corporation, non-profit,
+      other)</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Company
+      URL</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Estimated
+      Number of Monthly Transactions Online</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Average
+      Transaction Amount</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Bankruptcy
+      History</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Copy of
+      Formation Document (Certificate of Incorporation, etc.)</span></li>
+ </ul>
+</ul>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">In addition
+     to information provided directly to Proxibid in connection with Buyer
+     profiles and participating in auctions, Proxibid automatically collect and
+     analyze the following information for internal purposes only to allow our
+     software to function properly and to validate your bids:&nbsp;</span></li>
+ <ul type="circle">
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Computer
+      Networking Interfaces (includes Internal IP Address) (also used for
+      risk/fraud prevention purposes)</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">External
+      IP Address</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Host Name</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Username
+      Defined by the Operating System (usually not any real person's name)</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Java
+      Runtime; Java Vendor; Java Version</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">JVM Name;
+      JVM Version</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Operating
+      System</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Operating
+      System Architecture </span><span style="font-family:&quot;Arial Unicode MS&quot;,&quot;sans-serif&quot;">‒</span><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"> 32-bit or 64-bit</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Operating
+      System Version; Patch Level</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">User Home
+      Directory</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Browser
+      Type; Browser Version</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Operating
+      System Time Zone; Language; Country</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Details of
+      Available CPUs</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Number of
+      Processor Core</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Name of
+      Personal Computer</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Screen
+      Height (in pixels); Screen Width (in pixels).</span></li>
+ </ul>
+</ul>
+
+<p><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:blue">ACCESS TO
+YOUR PERSONAL INFORMATION</span></strong></p>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">Buyers
+     and Sellers may obtain access to their personal information to review,
+     update and correct using the Proxibid web site.</span></li>
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">Buyers
+     and Sellers may withdraw personal information by contacting Proxibid at
+     1-877-505-7770.</span></li>
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">Requests
+     to withdraw personal information could render the Buyer’s or Seller’s
+     account inactive.&nbsp;</span></li>
+</ul>
+
+<p><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:blue">COMMUNICATION
+OPT-IN / REMOVAL &nbsp;</span></strong></p>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Our Web
+     site gives you the opportunity to opt-in to receive communication from
+     Proxibid and our partners at the point where you create your account. If
+     you wish to remove your information from our database to stop receiving
+     communications or our service, you may send an E-mail
+     to:marketing@proxibid.com.&nbsp;</span></li>
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Please note
+     that Buyers who opt out may still receive communications from Sellers.
+     Opting out of Proxibid communications has no impact upon a Seller's use of
+     Buyer information. Buyers should contact a Seller directly to opt out of
+     communications from a Seller.</span></li>
+</ul>
+
+<p class="MsoNormal"><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:blue">USE OF INFORMATION</span></strong></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">EXCEPT
+     AS DISCLOSED IN THIS PRIVACY POLICY, WE DO NOT SELL, TRADE, RENT OR
+     OTHERWISE DISCLOSE ANY PERSONAL INFORMATION TO ANY THIRD-PARTIES, UNLESS
+     YOU EXPRESSLY GIVE US PERMISSION TO DO SO. HOWEVER, YOUR PERSONAL
+     INFORMATION MAY BE SHARED WITH AFFILIATES, AGENTS, OR CONTRACTORS OF
+     PROXIBID, AS NECESSARY, TO PROVIDE SERVICES TO YOU. &nbsp;</span></li>
+</ul>
+
+<ul type="disc">
+ <li class="MsoNormal"><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Your
+     personal information is used in the following ways:</span></strong></li>
+ <ul type="circle">
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">User IDs
+      and Passwords&nbsp;</span><span style="font-family:&quot;Arial Unicode MS&quot;,&quot;sans-serif&quot;">‒</span><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"> Provides you with access to
+      your profile and to protected content;</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Account
+      Information&nbsp;</span><span style="font-family:&quot;Arial Unicode MS&quot;,&quot;sans-serif&quot;">‒</span><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"> Provides us with information
+      about who you are and how to contact you, along with any preferences you
+      have provided, such as language, E-mail format and interests. Also,
+      provides us with data for internal auditing and reporting;</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">AuctionGuard™&nbsp;</span><span style="font-family:&quot;Arial Unicode MS&quot;,&quot;sans-serif&quot;">‒</span><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"> Provides us with information
+      needed to determine eligibility in specific auctions. AuctionGuard™ is
+      Proxibid's proprietary software that relies on FastData® and Financial
+      Transmission Network, Inc., as well as a Buyer's history within
+      Proxibid's platform, to determine a Buyer's eligibility “score.“ Sellers
+      may use this score to allow or to limit eligibility for certain auctions.
+      Accordingly, a Buyer's AuctionGuard™ score may be disclosed to a Seller
+      in connection with a Buyer's application to participate in the Seller's
+      auction;</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Customer
+      Feedback and Support&nbsp;</span><span style="font-family:&quot;Arial Unicode MS&quot;,&quot;sans-serif&quot;">‒</span><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"> Provides you with a mechanism
+      for requesting information from Proxibid. Also, provides you with a
+      mechanism to tell us how we can improve our services and site design;</span></li>
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">E-mail
+      Correspondence&nbsp;</span><span style="font-family:&quot;Arial Unicode MS&quot;,&quot;sans-serif&quot;">‒</span><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"> Provides us with an avenue to
+      raise and respond to issues and inquiries of all types. Also, provides us
+      a way to distribute information about Proxibid services and upcoming
+      auctions.</span></li>
+ </ul>
+ <li class="MsoNormal"><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Cookies</span></strong></li>
+ <ul type="circle">
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Our site
+      places a text file called a “cookie” in the browser files of your
+      computer. “Cookies” are pieces of information that a Web site transfers
+      to an individual's hard disk for record keeping purposes. Our site uses
+      cookies during your online session to deliver content specific to your
+      interests. Cookies allow us to avoid showing you the same ad or message
+      repeatedly and allow us to tailor our site to you. Our cookies enable us
+      to relate your use of our site to information that you have specifically
+      and knowingly provided to our site. Most Internet browsers enable you to
+      erase cookies from your computer hard drive, block all cookies or receive
+      a warning before a cookie is stored. Please refer to your browser
+      instructions or help screen to learn more about these functions.</span></li>
+ </ul>
+ <li class="MsoNormal"><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Public
+     Forums</span></strong></li>
+ <ul type="circle">
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Proxibid
+      may provide its users with chat rooms, forums, message boards and/or news
+      groups. Please remember that any information disclosed in these areas
+      becomes public information and you should exercise caution when deciding
+      to disclose your personal information. Please also note that Proxibid is
+      not responsible for any content posted in these areas. Although Proxibid
+      has the right to monitor all information disclosed in these areas, it is
+      under no obligation to do so.&nbsp;</span></li>
+ </ul>
+ <li class="MsoNormal"><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Children's
+     Privacy</span></strong></li>
+ <ul type="circle">
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Proxibid
+      understands the importance of protecting children's privacy in the
+      interactive, on-line world. Proxibid does not intentionally target or
+      solicit to children thirteen (13) or younger for purposes of collecting
+      personal information. The Proxibid Web site may link to certain Web sites
+      which may target or solicit to children thirteen (13) or younger and may
+      collect personal information. Those Web sites are not governed by this
+      Privacy Policy, but will (or should) have their own privacy policies that
+      more fully explain how they respect and protect the privacy of children
+      while providing them information, goods or services. Check out the&nbsp;</span><a href="http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm" class="privacyLink">
+      Federal Trade Commission's site</a><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;for more tips on
+      protecting children's privacy online.&nbsp;</span></li>
+ </ul>
+</ul>
+
+<p><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:blue">DISCLOSURE
+OF INFORMATION</span></strong></p>
+
+<p class="MsoNormal" style="margin-left:.25in"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:black">We will only disclose your information to a third party when (i)
+the disclosure is consistent with this Privacy Policy; (ii) you otherwise
+expressly authorizes the disclosure; or (iii) we are ordered to disclose the
+information in a judicial or administrative proceeding and have provided
+written notice to you of such order (see “DISCLOSURE REQUIRED BY LAW”
+below).&nbsp;</span></p>
+
+<p style="margin-left:22.5pt"><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">DISCLOSURE
+OF BUYER INFORMATION TO SELLERS</span></strong></p>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Each Buyer
+     expressly authorizes and directs Proxibid to deliver to the Seller any
+     information Buyer has provided to us which is requested by the Seller in
+     order for Buyer to participate in an auction.&nbsp;This may include any
+     and all information listed above under “Information Collected by
+     Proxibid.” Buyer also authorizes us to disclose Buyer's AuctionGuard™
+     “score” to any Seller which requests such information to determine Buyer's
+     eligibility to participate in an auction.&nbsp;</span></li>
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Buyer
+     acknowledges and agrees that Proxibid has no responsibility whatsoever
+     regarding the Seller's use of the information. Once we deliver Buyer's
+     information to a Seller, the information will be governed by the Seller's
+     privacy policy, if any. Proxibid has no control over and no obligation to
+     monitor the Seller's use of Buyer information. Before a Buyer participates
+     in any Seller's auction, Buyer should review that Seller's privacy policy,
+     if any, to understand how Buyer's information will be handled.</span></li>
+</ul>
+
+<p style="margin-left:22.5pt"><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">DISCLOSURE
+TO THIRD PARTIES</span></strong></p>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Your
+     information may be disclosed to unaffiliated third-parties in the
+     following situations:</span></li>
+ <ul type="circle">
+  <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">To vendors
+      and service providers engaged by Proxibid to perform services or
+      functions on behalf of Proxibid. Such third-parties shall be obligated to
+      use your personally identifiable information solely in connection with
+      providing such services;</span></li>
+  <ul type="square">
+   <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">To
+       enforce our Unified User Agreement or otherwise protect our rights;</span></li>
+   <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">To resolve
+       disputes between users;</span></li>
+   <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">We may
+       disclose bidding and price information, auction item descriptions, and
+       other auction data to third-parties</span></li>
+   <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">In
+       connection with a proposed or actual sale, merger, transfer, or exchange
+       of all or a portion of Proxibid. As Proxibid continues to mature, it is
+       possible that Proxibid or substantially all of its assets may be
+       acquired. In such a transaction, customer information will be one of the
+       transferred business assets&nbsp;</span></li>
+  </ul>
+ </ul>
+</ul>
+
+<p style="margin-left:22.5pt"><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">DISCLOSURE
+AS REQUIRED BY LAW</span></strong></p>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Unfortunately,
+     due to the existing regulatory environment, we cannot ensure that all of
+     your private communications and other personal information will never be
+     disclosed in ways not otherwise described in this Privacy Policy. By way
+     of example (without limiting the foregoing), we may be forced to disclose
+     information to the government under certain circumstances, or may
+     unlawfully intercept or access transmissions or private communications.
+     Further, we can (and you authorize us to) disclose any information about
+     you to law enforcement or other government officials as we, in our sole
+     discretion, believe necessary or appropriate. Therefore, although we use
+     industry standard practices to protect your privacy, we do not promise,
+     and you should not expect, that your personal information or private
+     communications will remain private.&nbsp;</span></li>
+</ul>
+
+<p><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:blue">EXTERNAL
+LINKS</span></strong></p>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Our site
+     may contain links to other internet Web sites. We encourage all of our
+     partners, contributors and third-parties to implement policies and
+     practices that respect the privacy of our users. However, Proxibid is not
+     responsible for the privacy practices or the content of such Web sites.
+     Our policy only addresses the use and disclosure of information we collect
+     from you. To the extent that you disclose your information to other
+     parties, whether they are linked from the Proxibid Web site, different
+     rules may apply to their use or disclosure of the personal information
+     disclosed to them. Because Proxibid does not control the privacy policies
+     of third-parties, you are subject to the privacy policies of that third
+     party. We strongly suggest that you visit the privacy policy of those Web
+     sites to learn about the collection and use of your personal information.</span></li>
+</ul>
+
+<p><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:blue">RETENTION
+AND DISPOSAL OF PERSONAL INFORMATION</span></strong></p>
+
+<p style="margin-left:.5in;text-indent:-.25in"><span style="font-family:Symbol;
+color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style="color:black">If Proxibid disposes of any personal
+information protected under this Privacy Policy, such disposal will be
+conducted in a secure manner in accordance with Proxibid’s data retention and
+disposal policy.</span></p>
+
+<p><strong><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:blue">SECURITY</span></strong></p>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Proxibid
+     has security measures in place to help protect against the loss, misuse,
+     or alteration of the information under our control. We restrict access to
+     your personal identification and contact information within the company to
+     only those authorized employees who need to use that information for a
+     specific job function.&nbsp;</span></li>
+</ul>
+
+<ul type="disc">
+ <li class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Though
+     Proxibid employs security measures designed to safeguard online
+     transactions and personal information, we cannot be responsible if a
+     third-party gains access to the database or your personal or credit card
+     information by evading our security measures. If you become aware of any
+     breach of data security or have any other questions regarding the security
+     of our site, please contact us at&nbsp;</span><a href="mailto:privacy@proxibid.com" class="privacyLink">privacy@proxibid.com</a><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">.&nbsp;</span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span style="color:black">© 2012</span>&nbsp;Proxibid, Inc. All rights
+reserved. Proxibid, the Proxibid logo, and AuctionGuard are trademarks of
+Proxibid, Inc.  FastData is a registered trademark of First Data Integrated Services
+Inc. All other brands, product names or trademarks referenced are the property
+of their respective owners.</p>
+
+<br><br>
+</td>
+			</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	</tbody></table>
+
+	<a href="#" onclick="window.opener=null; window.close(); return false;" class="button plain" style="margin-left: 30px;"><span></span>back</a>
+
+</div>
+
+<div class="content_outer_bottom_with_inner_bottom_round"></div>
+
+	<div style="clear:both"></div>
+
+
+
+
+</div>
+
+<div id="footerWrapper">
+	<div id="footer">
+		<div class="content">
+			<div class="left">
+				<h2>About Proxibid</h2>
+				<a href="/asp/AboutUs.asp">About Proxibid</a>
+				<a href="/asp/ServicesBidder.asp">Buyer Services</a>
+				<a href="/asp/ServicesAuctioneer.asp">Seller Services</a>
+				<a href="http://www.proxibidpremierservices.com/" target="_blank">Premier Services</a>
+				<a href="/asp/AboutUs.asp#about">News &amp; Announcements</a>
+				<a href="http://trust.proxibid.com/" target="_blank">Marketplace Promise</a>
+			</div>
+			<div class="mid">
+				<h2>Help Resources</h2>
+				<a href="/asp/help.asp">Help</a>
+				<a href="/asp/contact.asp" class="inline">Contact</a>
+				<span class="bar">&nbsp;|&nbsp;</span>
+				<a href="/asp/ContactSpanish.asp" class="inline">Español</a>
+				<a href="/asp/GetStarted.asp" title="Making the Most of your Proxibid Account">Get Started</a>
+				<a href="http://www.uship.com/landingpages/template2011/proxibid.aspx?r=1571418" title="" target="_blank">Shipping</a>
+				<a href="/asp/PrivacyPolicy.asp" target="_blank">Privacy Policy</a>
+				<a href="/asp/UnifiedUserAgreement.asp" target="_blank">Unified User Agreement</a>
+				<a href="/asp/AboutUs.asp#careers">Careers at Proxibid</a>
+			</div>
+			<div class="mid">
+				<h2>Proxibid Sites</h2>
+				<a href="http://trust.proxibid.com/" target="_blank">Trust</a>
+				<a href="http://fresh.proxibid.com/" target="_blank">Fresh</a>
+				<a href="http://tickets.proxibid.com/" target="_blank">Tickets</a><a href="http://www.proxibidclassifieds.com" target="_blank">Classifieds</a><a href="http://www.auctionpaymentnetwork.com" target="_blank">APN</a>
+				<a href="http://www.proxibid.com/marketingimages/masterblaster.html" target="_blank">Weekly Newsletter</a>
+				<a href="http://www.auctionseverywhere.com" target="_blank">Auctions Everywhere</a>
+			</div>
+			<div class="right">
+				<table cellpadding="0" cellspacing="0" border="0" style="margin-left:-2px;"><tbody><tr><td>
+				<div class="newsletter" style="position:relative;background:transparent url('/images/footer-newsletter-bgL.png') no-repeat 3px 0px;width:9px;height:193px;display:inline-block;padding:10px 0 0 0;margin:10px 0 0 0;"></div>
+				</td><td>
+				<div class="newsletter" style="position:relative;background:transparent url('/images/footer-newsletter-bg.png') repeat-x 0px 0px;width:256px;height:193px;display:inline-block;padding:10px 0 0 0;margin:10px 0 0 0;">
+					<div style="position:absolute;">
+						<span class="newsletterheader">Stay in the Know!</span>
+						<span class="newsletterdescription" id="newsletterdescription">Get our newsletters and special sale alerts to hear about the best of Proxibid!</span>
+						<div class="standOutText" id="newsletterMessageForSignup"></div>
+						<span class="newslettererror" id="newsletterEMError" style="display:none;"></span>
+						<form id="newsletterForm" action="" method="post" style="display:block;margin:0;" class="userInputNewsletter">
+							<div style="display:block;padding:0 0 10px 0;">
+								<span class="input" style="padding-right:1px;"><input type="text" id="newsletterFNText" name="FNText" class="small" maxlength="25" value="First Name" onfocus="NewsletterFieldClear(this.id);"></span>
+								<span class="input"><input type="text" id="newsletterLNText" name="LNText" class="small" maxlength="25" value="Last Name" onfocus="NewsletterFieldClear(this.id);"></span>
+							</div>
+							<div style="display:block;padding:0 0 10px 0;">
+								<span class="input"><input type="text" id="newsletterEMText" name="EMText" class="large" maxlength="50" value="Email Address" onfocus="NewsletterFieldClear(this.id);"></span>
+							</div>
+							<div style="display:block;">
+								<a id="newsLetterSignupButton" href="javascript:SignupSubmit('newsletter',5);" class="button small notify" style="vertical-align:middle;background-image: url('/images/sprites/buttons.png');color:#ffffff;width:145px;font-size:10px;background-color: transparent;" type="submit"><span style="background-image: url('/images/sprites/buttons.png');background-color: transparent;"></span>SIGN UP!</a>
+							</div>
+							<div style="position:absolute;top:0px;left:200px;top:138px;">
+								<a class="nevermind" href="javascript:toggleSignUpForNewsLetter('newsletter');">Cancel</a>
+							</div>
+						</form>
+					</div>
+				</div>
+				</td><td>
+				<div class="newsletter" style="position:relative;background:transparent url('/images/footer-newsletter-bgR.png') repeat-x -1px 0px;width:9px;height:193px;display:inline-block;padding:10px 0 0 0;margin:10px 0 0 0;"></div>
+				</td></tr></tbody></table>
+			</div>
+
+			<div style="position:relative;display:block;z-index:10;">
+				<h2 style="margin:35px 0 0 0;">Let's be friends!</h2>
+				<table><tbody><tr><td><div class="mid" style="padding:0 0 20px 0;">
+					<a href="http://www.facebook.com/?ref=logo#!/pages/Proxibid/132039806813354?ref=ts" target="_blank"><span class="icon facebookIcon"></span> Proxibid on Facebook</a>
+				</div></td><td><div class="mid" style="padding:0 0 20px 0;">
+					<a href="http://twitter.com/proxibid" target="_blank"><span class="icon twitterIcon"></span> Proxibid on Twitter</a>
+				</div></td><td><div class="mid" style="padding:0 0 20px 0;">
+					<a href="http://www.youtube.com/user/Proxibid" target="_blank"><span class="icon youtubeIcon"></span> Proxibid on YouTube</a>
+				</div></td><td><div class="right"><div id="auctioneerLoginWrapper"><a id="auctioneerlogin" href="https://www.proxibid.com/asp/LoginAuctioneer.asp" class="auctioneerlogin">Seller Login</a></div>
+						<a href="/asp/CreateAuctioneer1.asp" style="text-align:right;padding:0 0 0 0;">Apply to Sell on Proxibid</a></div></td>
+				</tr></tbody></table>
+			</div>
+			<div style="position:relative;display:block;background:transparent url('/images/footer-divider.png') no-repeat center center;width:956px;height:155px;margin-top:-65px;margin-bottom:10px;padding-top:0px;z-index:0;"></div>
+			<div style="display:none;margin-top:0px;" class="footer" id="copyrightNormal" align="center">
+				<div style="position:relative;background:transparent url('/images/footer-proxibid-logo.png') no-repeat center center;width:116px;height:49px;margin-top:85px;"></div>
+				<div style="text-align:center;margin-top:20px;color:#666;font-size:9pt;display:inline-block;font-family: Arial,Helvetica,sans-serif;">
+					Toll free: 877-505-7770 &nbsp;|&nbsp;<a style="text-align:center;margin-top:20px;color:#666;font-size:9pt;display:inline-block;line-height:150%;" href="mailto:info@proxibid.com">info@proxibid.com</a><br>
+					© 2001 - 2013 &nbsp;|&nbsp; 4411 South 96 Street,  Omaha, NE 68127 
+				</div>
+				<div id="footerSealDiv">
+					<iframe id="footerSealiFrame" src="/include/incFooterSeals.asp" allowtransparency="true" frameborder="0"></iframe> 					
+					<a id="proxiLinks" href="http://lots.proxibid.com" target="_blank">ProxiLinks</a>
+				</div>
+			</div>
+			<div style="display:none;margin-bottom:30px;" class="footer" id="timeStamp" align="center">
+				<div> (204.137) 6/2/2013 1:05:49 AM 
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+			<div style="display:none;margin-top:0px;padding-top:4px;font-family: Arial,Helvetica,sans-serif;" class="footer" id="copyrightEmbed" align="center">
+				<div>Powered by <a href="http://www.proxibid.com/" target="_blank">www.Proxibid.com</a>&nbsp;&nbsp;&nbsp;© 2001 - 2013 Proxibid, Inc.&nbsp;&nbsp;&nbsp;<a target="_blank" href="http://www.proxibid.com/asp/UnifiedUserAgreement.asp">Unified User Agreement</a> applies.</div></div>
+
+
+
+
+<script type="text/javascript" src="/jscript/all_v2.js?version=20130601020737"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery('#newsletterForm').keydown(function(e) {
+		if(e.keyCode == 13) { // enter key
+			SignupSubmit('newsletter',5);
+		}
+	});
+//embedded detection
+if(window == top || location.hostname.indexOf("clicktale.com") >= 0 || false){
+	$$(
+		'#header',
+		'.slider_outer_top_with_inner_top_round',
+		'.slider_outer_mid_with_inner_mid',
+		'.slider_outer_bottom_with_inner_bottom_round',
+		'#auctionCounter',
+		'#contentWrapper',
+		'.side_label_timed','.side_label_webcast','.side_label_current','.side_label_archived',
+		'#footerFill',
+		'#footerWrapper',
+		'#copyrightNormal', '#timeStamp', '#trustarea'
+	).each( function(e){ 
+		try{ Element.setStyle(e,{display:"block"}); 
+		}catch(ex){/*alert(ex);*/}
+	});
+	
+}else{
+	//is embedded
+
+	try{ Element.setStyle(e,{display:"none"}); 
+	}catch(ex){}	
+
+	$$(
+		'#topNavEmbeddedImage',	'#copyrightEmbed', '#timeStamp'
+,'#contentWrapper'
+		
+	).each( function(e){
+		try{ Element.setStyle(e,{display:"block"}); 
+		}catch(ex){/*alert(ex);*/}
+	});
+	
+	document.getElementById('header').style.display = 'none';
+
+}
+	//fade to .6 opacity any navagation button that is empty (any button (<div>) with no <a> in it matching the given class selector)
+	$$(['.smallNextButton','.nextButton']).each( function (e){ if(!Prototype.Browser.IE && e.empty()) Effect.Fade.delay(0.1, e, {to:0.4, duration: 0.6}); });
+	$$(['.smallPrevButton','.prevButton']).each( function (e){ if(!Prototype.Browser.IE && e.empty()) Effect.Fade.delay(0.1, e, {to:0.4, duration: 0.6}); });
+	$$(['*.catNav']).each( function (e){ if(!Prototype.Browser.IE && e.empty()) Effect.Fade.delay(0.1, e, {to:0.4, duration: 0.6}); });
+
+  //call the pages onload
+  if(typeof(DoOnLoad) != "undefined") {DoOnLoad();}
+  
+  //start ad glider
+  if (typeof GliderTag != "undefined") {
+	  if (GliderTag  > "") {
+		  if($("DisplayMain")){ 
+			StartGlider(); 
+			Element.toggleClassName("GliderTagImage", GliderTag);
+		  }
+	  }
+  }
+
+  //start counter
+  if(typeof(startAuctionCounter) != "undefined") {startAuctionCounter();}
+  
+  
+  //start counter
+  if(typeof(startHotLotsUpdater) != "undefined") {startHotLotsUpdater();}
+
+});
+
+
 </script>
-<a href="http://www.proxibid.com/z-test/Default.asp"><img src="/images/Transparent1x1.gif"></a>
+<div id="specificclick" style="display:inline-block;height:0px;width:0px;"></div><!-- cc,cd -->
+
+</div>
 
 </body></html>
