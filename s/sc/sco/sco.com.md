@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sco.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119044826id_/http%3A//sco.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sco.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602031246id_/http%3A//www.sco.com/company/privacy) for the most accurate reproduction.*
 
 # UnXis Inc. | Company | UnXis Privacy Policy
 
