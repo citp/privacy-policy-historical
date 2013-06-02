@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the solveyourproblem.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226173451id_/http%3A//www.solveyourproblem.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solveyourproblem.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602203521id_/http%3A//solveyourproblem.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SolveYourProblem.com
-
-Privacy Policy
 
 Thank you for visiting SolveYourProblem.com and for reviewing my Privacy Policy. This policy is on the collection of personal information:
 
@@ -28,13 +26,17 @@ I use third-party advertising companies (ie: Google) to serve ads when you visit
 
 **Google / DoubleClick DART cookie:**
 
-  * Google, as a third party vendor, uses cookies to serve ads on this site.
-  * Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to you based on your visit to my site and other sites on the Internet.
-  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+Google, as a third party vendor, uses cookies to serve ads on this site.
 
+Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to you based on your visit to my site and other sites on the Internet.
 
+You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-  
 This site is owned by Launch 3, LLC and is copyrighted and protected by various U.S. Laws. Violations are subject to criminal prosecution in federal court.
 
-For site security purposes and to ensure that this service remains available to all users, we employ software programs to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
+For site security purposes and to ensure that this service remains available to all users, we employ software programs to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+[Launch 3, LLC](http://www.launch3.com/) © 1998 - 2013 All Rights Reserved  
+**Disclaimer:** SolveYourProblem.com should not replace seeking professional advice for any problem,  but rather as an online resource  
+for gathering information. Launch 3, LLC cannot be held  responsible for any misrepresentation, incorrect information  
+provided or hyperlinks listed herein.  Should anyone have concerns as to specific content and accuracy, please [contact me](http://solveyourproblem.com/contact/) immediately.
