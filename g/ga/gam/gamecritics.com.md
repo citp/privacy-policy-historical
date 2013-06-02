@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamecritics.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220131743id_/http%3A//www.gamecritics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamecritics.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602125942id_/http%3A//gamecritics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GameCritics.com - Games. Culture. Criticism.
 
