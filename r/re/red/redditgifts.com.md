@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redditgifts.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122004426id_/http%3A//redditgifts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redditgifts.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603013721id_/http%3A//redditgifts.com/privacy) for the most accurate reproduction.*
 
 # redditgifts Privacy Policy
 
@@ -15,8 +15,6 @@ In addition to reviewing this Privacy Policy, please read our [Terms of Service]
  _How We Collect and Use Your Personally Identifiable Information:_ We only collect personally identifying information with your specific knowledge and consent, such as when you provide it to us during the signup process. Since the purpose of our Services is to provide an online "Secret-Santa"-style gift exchange ("Gift Exchange") along with our Marketplace, we will ask for personally identifiable information that is relevant to your participation in the Gift Exchange and your transactions in the Marketplace. We will use the information you give us only as described in this Privacy Policy. We will not ask you for any information not necessary to provide the gift-exchange service.
 
 _How We Use Your Email Address:_ We will use your email address to send you copies of your username and password, and to communicate updates on the statuses of any Gift Exchange in which you are participating, your Marketplace orders. We may also use it to send you any Service-related communications we think necessary.
-
-_We Delete Your Personally Identifiable Information after 30 Days:_ All personally identifiable information about you stored on redditgifts's servers will be deleted 30 days after the Event it was collected for occurs (e.g., after your participation in a Gift Exchange has ended).
 
 ￼￼￼￼￼￼ 
 
@@ -64,7 +62,7 @@ Because no data transmission over the Internet is completely secure, and no syst
 
 **Minors**
 
-Users under the age of 18 are not permitted to use any redditgifts Services.
+Users under the age of 14 are not permitted to use any redditgifts Services.
 
 **Changes to This Policy**
 
