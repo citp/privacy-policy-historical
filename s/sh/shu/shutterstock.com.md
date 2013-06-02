@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shutterstock.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201030141id_/http%3A//www.shutterstock.com/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterstock.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602051744id_/http%3A//www.shutterstock.com/privacy.mhtml) for the most accurate reproduction.*
 
-# Shutterstock: Privacy Statement for Shutterstock Images
+# Shutterstock: Rapporto Privacy per immagini Shutterstock
 
-[](http://www.truste.org/ivalidate.php?url=www.shutterstock.com&sealid=101)
+Per accomodarti meglio, stiamo lavorando su di una traduzione per questo documento in Italiano. Quando sarà pronta, la pubblicheremo qui. Per favore riferisciti alla versione in Inglese per i nostri contratti in caso avesi dubbi al riguardo dei tuoi diritti e/o obbligazioni. 
 
 **Privacy Statement for Shutterstock, Inc.**
 
