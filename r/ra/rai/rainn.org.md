@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainn.org privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126140022id_/http%3A//www.rainn.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainn.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603005017id_/http%3A//www.rainn.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RAINN | Rape, Abuse and Incest National Network
 
@@ -94,9 +94,9 @@ If you have any questions or suggestions about this privacy policy, please conta
 
 Privacy Coordinator  
 RAINN  
-2000 L St. NW  
-Suite 406  
-Washington, DC 20036
+1220 L St. NW  
+Suite 505  
+Washington, DC 20005
 
 Please only address questions about the privacy pledge to the above address. If you are concerned about a specific page, please email [info@rainn.org.](mailto:info@rainn.org)
 
