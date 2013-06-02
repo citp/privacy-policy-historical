@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madcatz.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920082120id_/https%3A//store.gameshark.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madcatz.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602045445id_/https%3A//store.gameshark.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Terms of Use - GameShark® Store
 
