@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118052303id_/http%3A//www.uua.org/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602044404id_/http%3A//uua.org/privacypolicy.shtml) for the most accurate reproduction.*
 
 # UUA: UUA Privacy and Data Security Policy
+
+## Breadcrumb Navigation
 
 **March 31, 2009**
 
@@ -118,7 +120,7 @@ This policy addresses the collection, use, and safeguarding of data about indivi
 
 For more information contact [data_services @ uua.org](mailto:data_services@uua.org).
 
-This work is made possible by the generosity of individual donors. Please consider [making a donation](http://giving.uua.org/page.aspx?pid=419) today.
+This work is made possible by the generosity of individual donors and congregations. Please consider [making a donation](http://giving.uua.org/page.aspx?pid=419) today.
 
 Last updated on Wednesday, September 26, 2012. 
 
