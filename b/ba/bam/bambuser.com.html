@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the bambuser.com privacy policy that was archived on 2012-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121213015504id_/http%3A//bambuser.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bambuser.com privacy policy that was archived on 2013-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602120453id_/http%3A//bambuser.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Privacy Policy | Bambuser</title>
 	<meta name="description" content="Live video streaming from your mobile phone or webcam">
 	<meta name="keywords" content="bambuser, mobile, live, streaming, broadcast, symbian, android, iphone, windows mobile">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 
 	<meta property="og:site_name" content="Bambuser">
 <meta property="fb:app_id" content="19126885616">
@@ -23,7 +24,6 @@
 <style type="text/css" media="all">@import "http://static.bambuser.com/modules/system/system.css";</style>
 <style type="text/css" media="all">@import "http://static.bambuser.com/modules/user/user.css";</style>
 <style type="text/css" media="all">@import "http://static.bambuser.com/modules/b/ui/bambuser_contact/bambuser_contact.css";</style>
-<style type="text/css" media="all">@import "http://static.bambuser.com/themes/b4/style.css";</style>
 <style type="text/css" media="all">@import "http://static.bambuser.com/themes/b4/layout-fixed.css";</style>
 <style type="text/css" media="all">@import "http://static.bambuser.com/themes/b4/html-elements.css";</style>
 <style type="text/css" media="all">@import "http://static.bambuser.com/themes/b4/b4.css";</style>
@@ -54,6 +54,7 @@
 <script type="text/javascript" src="http://static.bambuser.com/modules/b/ui/jquery_update/compat.js"></script>
 <script type="text/javascript" src="http://static.bambuser.com/modules/b/ui/bambuser_contact/bambuser_contact.js"></script>
 <script type="text/javascript" src="http://static.bambuser.com/misc/textarea.js"></script>
+<script type="text/javascript">B.conf.set({"static-url":"http:\/\/static.bambuser.com\/","api-url-xhr":"\/xhr-api\/index.php","site-url":"http:\/\/bambuser.com\/","api-url":"http:\/\/api.bambuser.com\/","comet-url":"http:\/\/misc00.bambuser.com:3333\/","fb_app_id":"19126885616"})</script>
 </head>
 
 <!--[if lt IE 7]><body class="lt-ie9 lt-ie8 lt-ie7 not-front not-logged-in node-type-page no-sidebars page-privacy section-privacy"><![endif]-->
@@ -62,8 +63,19 @@
 <!--[if gt IE 8]><!--><body class="modern-browser not-front not-logged-in node-type-page no-sidebars page-privacy section-privacy"><!--<![endif]-->
 
 	
+	<!--[if lt IE 9]>
+	<div id="ie-disclaimer">
+		<p>You seem to be using an outdated web browser. As a result, some pages on Bambuser may not work as expected.</p>
+		<p>
+			Please consider upgrading to a modern web browser such as
+			<a target="_blank" href="http://www.firefox.com">Mozilla Firefox</a> or
+			<a target="_blank" href="http://www.google.com/chrome">Google Chrome</a>.
+		</p>
+	</div>
+	<![endif]-->
+
 	<div id="page"><div id="page-inner">
-								<div id="header"><div id="header-inner" class="clear-block christmas-header">
+								<div id="header"><div id="header-inner" class="clear-block ">
 
 				<a href="/"><img id="logo" src="http://static.bambuser.com/themes/b4/images/b4/bambuser-logo.png" alt="Bambuser - show the world" title="Bambuser - show the world"></a>
 
@@ -229,7 +241,7 @@ Sweden</p>
 							</div>
 			
 		
-		<div class="b-js-vars" style="display: none; "><span id="fb_app_id" title="19126885616"></span></div>
+		
 <div id="bambuser-contact-wrapper"><a id="bambuser-contact-link" href="/contact"><img src="http://static.bambuser.com/modules/b/ui/bambuser_contact/feedback.png" width="25" height="100"></a><div id="bambuser-contact"><div id="bambuser-contact-close"> </div><form action="/privacy" accept-charset="UTF-8" method="post" id="contact-mail-page">
 <div>You can leave feedback to Bambuser Crew via this form.<div class="form-item">
  <label for="edit-name">Your name <span class="form-required" title="This field is required.">*</span></label>
@@ -261,21 +273,16 @@ Sweden</p>
  <label for="edit-bc-message2">Message 2 </label>
  <textarea cols="60" rows="5" name="bc_message2" id="edit-bc-message2" class="form-textarea resizable">sveninge says hi</textarea>
 </div>
-<input type="hidden" name="bc_ts" id="edit-bc-ts" value="1355363708">
+<input type="hidden" name="bc_ts" id="edit-bc-ts" value="1370174693">
 </fieldset>
 
 </div></form>
 </div><div id="bambuser-contact-border"> </div></div>
-<div class="b-js-vars" style="display: none; ">
-<span id="static-url" title="http://static.bambuser.com/"></span>
-<span id="site-url" title="http://bambuser.com/"></span>
-<span id="api-url" title="http://api.bambuser.com/"></span>
-<span id="comet-url" title="http://misc00.bambuser.com:3333/"></span></div>
 	</div></div> <!-- /#page-inner, /#page -->
 
 
 	<script type="text/javascript">
-			b_fb.init(function() {
+			B.fb.init(function() {
 			FB.getLoginStatus(function(response) {
 				if (response.status == "connected") {
 					FB.api("/me", function(response) {
@@ -308,12 +315,13 @@ Sweden</p>
 		<script type="text/javascript">
 	$(document).ready(function() {
 		// Premium promotion overlay is shown once every 30 days for visitors not logged in as Premium users.
-		if ( $.cookie('premium-promotion-overlay') == null && !$('body').hasClass('section-premium')) {
+		if ($.cookie('premium-promotion-overlay') == null && !$('body').hasClass('section-premium')) {
 			setTimeout(createPremiumOverlay, 1000);
-			$.cookie('premium-promotion-overlay', 'seen', { expires: 30*24*60, path: '/' });
 		}
 
 		function createPremiumOverlay() {
+			var $target = $("#menu-a > li.premium > a");
+			if (!$target.length) return;
 			var content = '<div id="premium-promotion-overlay">';
 			content += '<a href="/premium">';
 			content += '<img src="/themes/b4/images/b4/bambuser-premium-promotion.png" alt="Bambuser Premium" />';
@@ -327,7 +335,10 @@ Sweden</p>
 			params['width'] = 408;
 			params['vertical_offset'] = 10; // vertical offset in px
 			params['fade_in'] = true;
-			$("#menu-a > li.premium > a").b_overlay(content, params);
+			$target.b_overlay(content, params);
+
+			// Prevent the premium overlay from reappearing too soon
+			$.cookie('premium-promotion-overlay', 'seen', { expires: 30*24*60, path: '/' });
 		}
 	});
 	</script>
