@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohdela.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104034605id_/http%3A//ohdela.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohdela.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602160923id_/http%3A//ohdela.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
