@@ -1,51 +1,116 @@
-> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208145021id_/http%3A//www.theeuropean-magazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602230415id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
 
-# The Information we collect | The European Magazine - The Debate Magazine
+# Privacy Policy - The European
 
-## Privacy
+**What information do we collect?**
 
-* * *
+We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.
 
-Through theeuropean.de or theeuropean-magazine.com, you can subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. You are able to access much of our content and participate in many discussions without providing any personally identifiable information. Sometimes, however, we do need your personally identifiable information to provide you with the products and services that you request. The types of personally identifiable information that may be collected at these pages and elsewhere include, but are not limited to: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. Certain services like the recommendation feature might also require personally identifiable information for third parties. The types of personally identifiable information that may be collected include, but are not limited to: name, address, e-mail address, and telephone number.   
-For certain promotions, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the promotion's activities and offerings.  
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or The European Magazine Publishing Gm. You may, however, visit our site anonymously.
 
-**How We Use the Information**  
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs or services that we believe may be of interest to you.  
-We sometimes use this information to communicate with you, such as to notify you when your comments on one of our sites induce responses or when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.  
-We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them.  
-If you choose to submit content for publication (e.g., a "letter to our editors" or a “reader commentary”), we may publish your name, screen name, and other information you have provided to us.  
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.  
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our publications and websites and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.  
-We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.  
-Agents and contractors of The European Publishing GmbH who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for The European.   
-We may transfer your personally identifiable information among our staff for internal management and administrative purposes. Your personal data will be transferred internally where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. Transfers of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims.  
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data. 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-**Privacy Options**  
-If The European discloses personally identifiable information to companies not owned by The European who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. If you prefer not to receive online marketing information from companies not owned by The European, please contact us at info {at} theeuropean.de The European may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other The European site, please contact us at info {at} theeuropean.de The European sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
+**What do we use your information for?**
 
-**Collection of Information by Third-Party Sites and Sponsors**  
-Some of our sites contain links to other sites whose information practices may be different than ours. You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.  
-The European sites sometimes may offer contests, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, the personally identifiable information that you voluntarily submit may be provided to both the The European site and the third parties. The European has no control over the third parties' use of this information.  
-The European sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). For more information on the use of such third-parties, please contact us at info {at} theeuropean.de 
+Any of the information we collect from you may be used in one of the following ways:
 
-**Cookies**  
-To enhance your online experience we use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. We use cookies to understand Internet usage and to improve our content, offerings, and advertisements. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. Similarly, as part of an arrangement with our business partners (including, those who present or serve the advertisements that you see on our web pages) we may also access cookies placed by others and allow others to access certain cookies placed by us.  
-We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy. For more information regarding cookies, please contact us at info {at} theeuropean.de 
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-**Our Commitment to Security**  
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect. 
 
-**How You can Access or Correct Information**  
-To inquire about personally identifiable information that this or any other The European site has collected about you, or how to correct factual errors in such information, please contact us as info {at} theeuropean.de To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
 
-**Changes to this Notice**  
-This Notice may be changed by The European. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it. 
 
-**How to Contact Us**  
-If you have any questions or concerns about this Privacy Notice or its implementation please contact us via email at info {at} theeuropean.de or at the following address: The European Publishing GmbH Oranienburger Str. 84 D-10178 Berlin 
+  * To process transactions (your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested)
 
-phone: +49 30 6098 110 10 
 
-www.theeuropean.de www.theeuropean-magazine.com 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. This policy was last modified in February 2013
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+www.theeuropean-magazine.com  
+Oranienburger Straße 84  
+Berlin, Berlin 10178  
+Germany  
+info@theeuropean.de
+
+Most Read  / Most Commented
+
+  * Comment
+
+## [Germany's Energy Transition](https://web.archive.org/chris-nelder--2/6747-germanys-energy-transition)
+
+[](https://web.archive.org/chris-nelder--2/6747-germanys-energy-transition)
+
+Germany's energy transition is already a success story. If only the rest of the world paid attention. [read more](https://web.archive.org/chris-nelder--2/6747-germanys-energy-transition)
+
+  * Column
+
+## [Italian Racism](https://web.archive.org/stefano-casertano--3/6925-italian-racism)
+
+[](https://web.archive.org/stefano-casertano--3/6925-italian-racism)
+
+Italian soccer clubs have a racism problem. It's indicative of the sorry state of Italian civil society that almost nobody dares to speak openly about it. [read more](https://web.archive.org/stefano-casertano--3/6925-italian-racism)
+
+  * Comment
+
+## [Energy Transition and Climate Change](https://web.archive.org/john-rhys--2/6749-energy-transition-and-climate-change)
+
+[](https://web.archive.org/john-rhys--2/6749-energy-transition-and-climate-change)
+
+Germany's irrational fears about nuclear energy have led to a resurgence of coal as an energy source. The cost of short-sighted policies: Long-term climate change. [read more](https://web.archive.org/john-rhys--2/6749-energy-transition-and-climate-change)
+
+  * Comment
+
+## [The Effects of Austerity](https://web.archive.org/jonathan-wiltshire/6917-the-effects-of-austerity)
+
+[](https://web.archive.org/jonathan-wiltshire/6917-the-effects-of-austerity)
+
+In Greece, news of a return to economic growth is more or less meaningless to those thoroughly affected and thoroughly angered. Politicians should focus on repairing people's l... [read more](https://web.archive.org/jonathan-wiltshire/6917-the-effects-of-austerity)
+
+  * Comment
+
+## [The Future of Nuclear Energy](https://web.archive.org/mitsuru-obe--2/6748-the-future-of-nuclear-energy)
+
+[](https://web.archive.org/mitsuru-obe--2/6748-the-future-of-nuclear-energy)
+
+Fukushima produced very different reactions around the world. While Germany has abandoned nuclear power, Japan is slowing embracing it again. [read more](https://web.archive.org/mitsuru-obe--2/6748-the-future-of-nuclear-energy)
+
+  * Sponsored Column
+
+## [Desert Island Discs](https://web.archive.org/alexander-goerlach--2/6903-the-start-up-soundtrack)
+
+[](https://web.archive.org/alexander-goerlach--2/6903-the-start-up-soundtrack)
+
+The start-up experience, compressed into eight songs. [read more](https://web.archive.org/alexander-goerlach--2/6903-the-start-up-soundtrack)
+
+
+
