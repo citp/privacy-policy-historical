@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deskera.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920020223id_/http%3A//deskera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deskera.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602194152id_/http%3A//deskera.com/privacy-policy) for the most accurate reproduction.*
 
 # Deskera Apps | Privacy Policy | Privacy Protection | Demo Login
 
