@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsfilter.org privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109143834id_/http%3A//newsfilter.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsfilter.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603011537id_/http%3A//newsfilter.org/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Free porn, fucked up girls and over 10,000 disturbing porn videos
 
 Newsfilter is committed to user privacy in our products and services. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy.
 
@@ -15,7 +15,9 @@ Customer Feedback and Support. Provides a mechanism for requesting information f
 
 We will only use your personal information in the ways specified when it was collected. We will not subsequently change the way in which we use your personal information, unless you consent to the new usage.
 
-**Third Party Advertising** Third Party Cookies In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+ **Third Party Advertising**
+
+Third Party Cookies In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 Security measures. We protect the personal information you share with us.
 
@@ -45,5 +47,3 @@ Third Party Advertising
 These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here.
 
 Third Party Cookies. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
-
-NewsFilter.org has a huge collection of porn videos and thousands of **_fucked up_** real chicks filming themselves. Access our 10,000 **_free porn_** videos and enjoy the disturbing action.
