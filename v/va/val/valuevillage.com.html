@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the valuevillage.com privacy policy that was archived on 2012-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121128004639id_/http%3A//www.valuevillage.com/Privacy-Policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the valuevillage.com privacy policy that was archived on 2013-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602122210id_/http%3A//www.valuevillage.com/Privacy-Policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
 	
@@ -31,7 +31,7 @@
     
 </head>
 <body>
-    <form method="post" action="Privacy-Policy.aspx" id="form1">
+    <form method="post" action="/Privacy-Policy.aspx" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODk5OTg5MTY2ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUKY3RsMDAkRmluZGtIJ6aZaA7x8HejE6JtagTcj6reJP2qtlc80iftuUtm">
 
 <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLGw53/BAKBvYrEAQLZn7CMBGm9l9lONkDGwuFcJzwFG3bM0R131FjjDAhnrYVyn6GJ">
@@ -60,7 +60,7 @@
                                 <table width="695" cellpadding="0" cellspacing="0" border="0" align="right">
                                     <tbody><tr>
                                         <td height="39" width="306" valign="top" align="right" class="emailsignup">
-                                            <img src="/Content/images/card_tiny.jpg" width="46" height="33" align="top"><a href="/super-savers-club-card.aspx">Super
+                                            <img src="/Content/images/card_tiny.jpg" width="46" height="33" align="top"><a onclick="runIframeAd()" href="/super-savers-club-card.aspx">Super
                                                 Savers Club Card</a>
                                         </td>
                                         <td height="39" width="34" valign="top" align="right">
@@ -72,7 +72,7 @@
                                             
                                         </td>
                                         <td height="45" valign="top" width="160">
-                                            <input type="image" name="ctl00$Find" id="Find" src="/Content/images/nav_findstore1.jpg" style="float: right; padding: 7px 12px 0 0">
+                                            <input type="image" name="ctl00$Find" id="Find" class="find-store-button" src="/Content/images/nav_findstore1.jpg" style="float: right; padding: 7px 12px 0 0">
                                         </td>
                                     </tr>
                                 </tbody></table>
@@ -224,6 +224,11 @@
         <div style="clear: both">
         </div>
     </div>
+    <script type="text/javascript">
+        $(function () {
+            $("#Promo").hide();
+        });
+    </script>
 
             <div style="clear: both;">
             </div>
@@ -256,6 +261,65 @@
     
 
     </form>
+    <script type="text/javascript" language="JavaScript">
+        /*
+        <![CDATA[
+        */
+        (function () {
+            if (typeof ADGEAR == "undefined") {
+                var proto = "http:";
+                var host = "cdna.runadtag.com";
+                var bucket = "";
+                if (window.location.protocol == "https:") {
+                    proto = "https:";
+                    host = "a.runadtag.com";
+                    bucket = "";
+                }
+                ADGEAR_DONT_SAY_HELLO = true;
+                document.writeln('<scr' + 'ipt type="text/ja' + 'vascr' + 'ipt" s' + 'rc="' +
+        proto + '//' + host + '/' + bucket + '/adgear.js/current/adgear.js' +
+        '"></scr' + 'ipt>');
+            }
+        })();
+        /*
+        ]]>
+        */
+    </script><script type="text/javascript" src="https://a.runadtag.com//adgear.js/current/adgear.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $("#lnkDonating").click(function (e) {
+                e.preventDefault();
+                ADGEAR.tags.conversion.init();
+                ADGEAR.env.add_load_listener(function () {
+                    ADGEAR.tags.conversion.embed({
+                        "id": "137",
+                        "chip_key": "e5a365a0794a013056150024e87a30c2",
+                        "revenue": null /* change null to a number value if applicable */
+                    });
+                });
+                location.href = $(this).attr("href");
+            });
+            $(".find-store-button").click(function (e) {
+                ADGEAR.tags.conversion.init();
+                ADGEAR.env.add_load_listener(function () {
+                    ADGEAR.tags.conversion.embed({
+                        "id": "138",
+                        "chip_key": "ef0c6bf0794a013056160024e87a30c2",
+                        "revenue": null /* change null to a number value if applicable */
+                    });
+                });
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        function runIframeAd() {
+            var axel = Math.random() + "";
+            var a = axel * 10000000000000;
+            document.write('<iframe src="http://4095123.fls.doubleclick.net/activityi;src=4095123;type=count775;cat=clubc718;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+            return true;
+        }
+    </script>
 
 
 </body></html>
