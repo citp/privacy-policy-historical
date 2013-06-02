@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the more4you.ws privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220232329id_/http%3A//more4you.ws/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the more4you.ws privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602134333id_/http%3A//more4you.ws/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,3 +27,7 @@ We have included links on this site for your reference. We are not responsible f
 The content of this statement may be altered at any time.
 
 Have a question? Just contact me through [www.Reply2Frank.com](http://reply2frank.com/).
+
+  
+  
+
