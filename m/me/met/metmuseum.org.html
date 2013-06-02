@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the metmuseum.org privacy policy that was archived on 2012-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120906022004id_/http%3A//www.metmuseum.org/information/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the metmuseum.org privacy policy that was archived on 2013-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602092535id_/http%3A//www.metmuseum.org/information/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -63,17 +63,25 @@
  Contact 
  If 
  Digital 
- This "><link rel="shortcut icon" href="/content/img/presentation/icons/favicon.ico"><link href="/content/css/metcombined-ddf1fe8a-e4bf-4a09-8dab-79a8af7a4f58.css" rel="stylesheet" type="text/css"><link rel="alternate stylesheet" type="text/css" media="screen" href="/content/css/print_document.css" title="confirm"><link rel="stylesheet" type="text/css" media="print" href="/content/css/print.css" title="print">
+ This "><link rel="shortcut icon" href="/content/img/presentation/icons/favicon.ico"><link href="/content/css/metcombined-aedae1df-b349-4362-919d-e91945842cea.css" rel="stylesheet" type="text/css"><link rel="alternate stylesheet" type="text/css" media="screen" href="/content/css/print_document.css" title="confirm"><link rel="stylesheet" type="text/css" media="print" href="/content/css/print.css" title="print">
     <!-- <link href="/content/css/jquery.countdown.css" type="text/css" rel="stylesheet" /> -->
     <!-- <link href="/content/css/metmedia-form.css" rel="stylesheet" type="text/css" /> -->
     <!-- <link href="/content/css/metmedia.css" rel="stylesheet" type="text/css" /> -->
     <!--[if lte IE 7]>
 			<link href="/content/css/ie-lte7.css" type="text/css" rel="stylesheet" /><link href="/content/css/ie7print.css" type="text/css" rel="stylesheet" media="print" />
+            
 		<![endif]-->
+		<!-- Link to JS -->
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+    
+        <script type="text/javascript" src="/content/js/jquery.validate.js"></script>
+        <script type="text/javascript" src="/content/js/mma.js"></script>
+    
     <script type="text/javascript" src="/content/js/jquery.blockUI.js?v2.31"></script>
     <script type="text/javascript" src="/content/js/jquery.maskedinput-1.2.2.js"></script> 
     <script type="text/javascript" src="/content/js/jquery.feedback-1.2.0.js"></script>
+    <script type="text/javascript" src="/content/js/jquery.social.media.tabs.1.6.1.js"></script>
+    
     <script type="text/javascript">
 		/* <![CDATA[ */
 		$.fx.prototype.cur = function(){
@@ -83,7 +91,7 @@
 		}
 		/* ]]> */
 	</script>
-    <script src="/content/js/metcombined-0cf50c48-520f-4eee-97e2-e3e0865361e1.js" type="text/javascript"></script><link href="/content/css/js-enabled.css" type="text/css" rel="stylesheet" media="screen">
+    <script src="/content/js/metcombined-0a80f7f4-88e4-4d6e-993a-d70cdf4f8220.js" type="text/javascript"></script><link href="/content/css/js-enabled.css" type="text/css" rel="stylesheet" media="screen">
 
     <!--[if lte IE 8]>
         <link href="/content/css/ie-lte8.css" type="text/css" rel="stylesheet" />
@@ -117,6 +125,8 @@
                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
             })();
         </script>
+        
+
         <!-- tracks file downloads and links as Events
         reference: http://www.freshandnew.org/2011/07/fixing-document-download-and-link-tracking-with-the-google-analytics-asynchronous-tracking-code/
         -->
@@ -126,19 +136,20 @@
 
                 $('a').mouseup(function () {
                     href = $(this).attr('href');
-
-                    href_lower = href.toLowerCase();
-                    if (href_lower.substr(-3) == "pdf" || href_lower.substr(-3) == "xls" || href_lower.substr(-3) == "doc" || href_lower.substr(-4) == "ashx" ||
-  			   href_lower.substr(-3) == "mp3" || href_lower.substr(-3) == "mp4" || href_lower.substr(-3) == "flv" ||
-  			   href_lower.substr(-3) == "txt" || href_lower.substr(-3) == "csv" || href_lower.substr(-3) == "zip") {
-                        _gaq.push(['_trackEvent', 'Downloads', href_lower.substr(-3), href]);
-                    }
-                    if (href_lower.substr(0, 4) == "http") {
-                        var domain = document.domain.replace("www.", '');
-                        if (href_lower.indexOf(domain) == -1) {
-                            href = href.replace("http://", '');
-                            href = href.replace("https://", '');
-                            _gaq.push(['_trackEvent', 'Outbound Traffic', href]);
+                    if (href != null) {
+                        href_lower = href.toLowerCase();
+                        if (href_lower.substr(-3) == "pdf" || href_lower.substr(-3) == "xls" || href_lower.substr(-3) == "doc" || href_lower.substr(-4) == "ashx" ||
+  			            href_lower.substr(-3) == "mp3" || href_lower.substr(-3) == "mp4" || href_lower.substr(-3) == "flv" ||
+  			            href_lower.substr(-3) == "txt" || href_lower.substr(-3) == "csv" || href_lower.substr(-3) == "zip") {
+                            _gaq.push(['_trackEvent', 'Downloads', href_lower.substr(-3), href]);
+                        }
+                        if (href_lower.substr(0, 4) == "http") {
+                            var domain = document.domain.replace("www.", '');
+                            if (href_lower.indexOf(domain) == -1) {
+                                href = href.replace("http://", '');
+                                href = href.replace("https://", '');
+                                _gaq.push(['_trackEvent', 'Outbound Traffic', href]);
+                            }
                         }
                     }
                 });
@@ -148,35 +159,134 @@
 <body>
     <script type="text/javascript">        jQuery("body").addClass("js-enabled");</script>
     <div id="wrapper">
-		
         
         <div id="main-container">
             
+ <style type="text/css">
+  div#access-links{
+    margin-left: 60px;
+    float: right;
+  }
+  
+  p#access-tools{
+    margin-top: 15px;
+  }
+  
+  p#access-tools a {
+   position: absolute;
+   left: -10000em;
+   color: #D5D1C8;
+  }
+ 
+  p#access-tools a:focus {
+   position: static;
+   left: auto;
+  }
+  
+  p#access-tools a:hover {
+   position: static;
+   left: auto;
+   text-decoration: underline;
+  }
+ </style>
+
 <!--[if IE 7]>
-    <style type="text/css">
+     <style type="text/css">
+        div.ie7SearchFix{
+            margin-top:-30px !important;
+        }
+
         div.button{
             width: 75px !important;
             margin-top: 13px !important;
         }
         DIV#my-met .button-reg-mymet{
             margin-bottom: 0px !important;
-        }
-    </style>	
+        } 
+
+    div.email-button input
+    {
+        height: 2em !important;
+        font-size: 0.8em;
+        color: #ffffff;
+       /* background-color: transparent; */
+        text-transform: uppercase;
+        font-weight: bold;
+        /*padding: 0 5px;*/
+        padding-top: .2em;
+        float: left;
+        padding-bottom: 1.7em;
+        vertical-align: middle !important;
+    }
+
+    div.email-button:hover, div.search-button:hover
+    {
+        cursor: pointer;
+    }
+
+    input.emailBtnBGColor{ background-color: #186d9f !important; }
+    </style>
 <![endif]-->
 
-<!--[if IE]>
-<style type="text/css">
-    DIV.my-met-header-box DIV.form-container P INPUT[type=checkbox]
+<!--[if GTE IE 7]>
+     <style type="text/css">
+    div.email-button
     {
-        margin-left: -3px !important;
+        -webkit-border-top-right-radius: 5px;
+          -webkit-border-bottom-right-radius: 5px;
+          -moz-border-radius-topright: 5px;
+          -moz-border-radius-bottomright: 5px;
+          border-top-right-radius: 5px;
+          border-bottom-right-radius: 5px;
+      
+          overflow: hidden;
     }
-</style>
+
+    div.email-button-bg
+    {
+        background-color: #186d9f !important;
+            background-image: -webkit-gradient(
+            linear,
+            left bottom,
+            left top,
+            color-stop(0.29, #186d9f),
+            color-stop(0.6, #83b5d7)
+            );
+            background-image: -moz-linear-gradient(
+            center bottom,
+            #186d9f 29%,
+            #83b5d7 50%
+            );                                                                                         
+        
+          filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#83b5d7', endColorstr='#186d9f');
+    }
+
+    div.email-button input
+    {
+        height: 1.2em;
+        font-size: 0.8em;
+        color: #ffffff;
+        text-transform: uppercase;
+        font-weight: bold;
+        padding-top: .3em;
+        float: left;
+        padding-bottom: 1.6em;
+        vertical-align: middle !important;
+    }
+
+    div.email-button:hover, div.search-button:hover
+    {
+        cursor: pointer;
+    }
+
+    input.emailBtnBGColor{ background-color: transparent !important; }
+    </style>
 <![endif]-->
 
 <div id="header"> 
     <div id="my-met" class="my-met-mma">
         
-        <div class="logged-out cleared">
+        <div class="logged-out cleared"> 
             <div class="my-met-header-box intro">
                 <div class="header black">
 <h3 class="urbano-light">WHAT IS MY<span class="urbano-regular">MET</span>?</h3>
@@ -184,8 +294,6 @@
 &nbsp;&nbsp;&nbsp;
 <p style="text-align: center;"><a href="/mymet/sign-up"><img alt="" src="~/media/Images/mymet/videostill.ashx"></a></p>
 <p style="text-align: center;">Watch a video to find out.</p>
-<p style="text-align: center;">We're inviting you to share your favorite works of art using MyMet. <br>
-See&nbsp;<a href="/mymet/whats-your-met">What's Your Met?</a> for more information.</p>
 <div class="button button-reg-mymet"><a href="/mymet/sign-up">Register</a></div>
 <p>&nbsp;</p>
             </div>
@@ -196,7 +304,7 @@ See&nbsp;<a href="/mymet/whats-your-met">What's Your Met?</a> for more informati
                 </div>
                 <div class="content">
                     <div class="form-container">
-                        <form action="https://www.metmuseum.org/mymet/sign-up" method="post">
+                        <form action="https://metmuseum.org/mymet/sign-up" method="post">
                         <div class="column">
                             <label for="my-met-email">
                                 Email Address:</label>
@@ -208,9 +316,9 @@ See&nbsp;<a href="/mymet/whats-your-met">What's Your Met?</a> for more informati
                             <label for="my-met-password">
                                 Password:</label>
                             <input type="password" id="my-met-password" class="my-met-input" name="signinpwd">           
-                            <p><input type="checkbox" id="my-met-logged-on" name="stayloggedin" class="my-met-checkbox" value="1"><label for="my-met-logged-on" class="for-checkbox">Stay logged in</label><input name="__RequestVerificationToken" type="hidden" value="P1+UHsRlMgzrFlaX1vWwKGpBmuvOEcyu5hayKif+9Tcbpbm9PeMoZCwZl90npYjR05S0Pi2HQRV7o3aRukSa5AZ3MBp36hstpneaDn5ioCdxduBXE8bTvZGvetHC49PbuzpVIUiBjfPC11Rw8flfH4VhzDE="></p> 
+                            <p><input type="checkbox" id="my-met-logged-on" name="stayloggedin" class="my-met-checkbox" value="1"><label for="my-met-logged-on" class="for-checkbox">Stay logged in</label><input name="__RequestVerificationToken" type="hidden" value="N9l0Hc6ACWKzxJV/T7IOIYz9+tP6pEU/JK5z9XyR1r0gR7hfM359y30PkTQLJ9HjdH8DiOPQr2WiuVjP8a9JIN46hVVMOEJfhf0xfYpQM44G3lu0AXlhTW40VtpVugfiaH40oTCyDiM4/fageCodZj0rcIc="></p> 
                             </div>
-                            <div class="button grey align-right f1f1f0 ie7sucks">
+                            <div class="button grey align-right f1f1f0">
                              <div class="submit-container">
                                 <input type="submit" id="register-submit" name="mymetsignin" value="Sign In" class="submit" style="margin:0px; padding: 2px 7px 2px 6px;" onclick="_gaq.push(['_trackEvent', 'MyMet', 'Sign In']);">
                              </div>
@@ -232,9 +340,17 @@ See&nbsp;<a href="/mymet/whats-your-met">What's Your Met?</a> for more informati
                 <img id="logo-text" src="/content/img/presentation/icons/header-logo-text.gif" alt="The Metropolitan Museum of Art" height="17" width="362">
             </a>
 <span class="hide-content-mma"><img id="print-logo" src="/content/img/presentation/titles/print-header.gif" alt="The Metropolitan Museum of Art" height="44" width="416" class="hide-content"></span>
-        </div>
-        <form id="searchForm" method="get" action="/search-results">
-        <div id="search-form" class="form-container">
+        
+  <div id="access-links">
+  <p id="access-tools" class="access-pos">
+  <a href="#site-navigation" class="access-link">Go to Navigation</a>
+  <a href="#content-container" class="access-link">Go to Content</a>
+  <a href="#search-field" class="access-link">Go to Search</a>
+ </p>
+ </div></div> 
+        
+        <div id="search-form" class="form-container ie7SearchFix">
+            <form id="searchForm" method="get" action="/search-results">
             <label class="hide-content" for="search-field">
                 Search this web site</label>
             <div class="search-field">
@@ -247,11 +363,11 @@ See&nbsp;<a href="/mymet/whats-your-met">What's Your Met?</a> for more informati
                     <input type="image" id="search-submit" src="/content/img/presentation/buttons/search-button.gif" alt="submit search">
                 </div>
             </div>
+            </form>
         </div>
-        </form>
+        
         
         <ul id="primary-navigation" class="primary-navigation-mmaConfirm">
-            
         <li id="ctl03_ctl00_TopNav_ctrl0_navlink"><a href="/visit">
             Visit</a>
             
@@ -328,8 +444,11 @@ See&nbsp;<a href="/mymet/whats-your-met">What's Your Met?</a> for more informati
                     <li><a href="/collections/connections">
                         Connections</a></li>
                 
+                    <li><a href="/collections/82nd-and-fifth">
+                        82nd &amp; Fifth</a></li>
+                
                     <li><a href="/collections/toah">
-                        Timeline of Art History</a></li>
+                        Heilbrunn Timeline of Art History</a></li>
                 
                         </ul>
                     </div>
@@ -377,6 +496,9 @@ See&nbsp;<a href="/mymet/whats-your-met">What's Your Met?</a> for more informati
                     <li><a href="/learn/for-educators">
                         For Educators</a></li>
                 
+                    <li><a href="/learn/for-visitors-with-disabilities">
+                        For Visitors with Disabilities</a></li>
+                
                         </ul>
                     </div>
                 
@@ -390,6 +512,9 @@ See&nbsp;<a href="/mymet/whats-your-met">What's Your Met?</a> for more informati
                             
                     <li><a href="/research/libraries-and-study-centers">
                         Libraries and Study Centers</a></li>
+                
+                    <li><a href="/research/metpublications">
+                        MetPublications</a></li>
                 
                     <li><a href="/research/internships-and-fellowships">
                         Internships and Fellowships</a></li>
@@ -489,9 +614,7 @@ See&nbsp;<a href="/mymet/whats-your-met">What's Your Met?</a> for more informati
                     </div>
                 
         </li>
-    
-            <li class="last"><a href="http://store.metmuseum.org/?utm_source=mainmuseum&amp;utm_medium=metmuseum.org&amp;utm_content=shop&amp;utm_campaign=top+nav">Shop</a></li>
-        </ul>
+    <li class="last"><a href="http://store.metmuseum.org/?utm_source=mainmuseum&amp;utm_medium=metmuseum.org&amp;utm_content=shop&amp;utm_campaign=top+nav">Shop</a></li></ul>
     
 <div class="clear">
 </div>
@@ -499,18 +622,20 @@ See&nbsp;<a href="/mymet/whats-your-met">What's Your Met?</a> for more informati
         <div id="header-topbar">
             <div class="header-topbar-content">
                 <div class="form-container">
-                    <label class="hide-content" for="email-field">
+                    <label class="hide-content" for="">
                         Sign up for emails</label>
                     <div class="email-field">
                         <div class="email-field-bg">
                             <input type="text" value="Email address" id="email-field" name="email-field">
                         </div>
                     </div>
+
                     <div class="email-button">
-                        <div class="email-button-bg">
-                            <input type="submit" id="email-submit" name="email-submit" value="Sign up for emails" onclick="_gaq.push(['_trackEvent', 'MyMet', 'email lite']);_gaq.push(['_trackEvent', 'Home', 'Email']);">
+                        <div class="email-button-bg"> 
+                            <input type="submit" id="email-submit" name="email-submit" value="Sign up for emails" class="emailBtnBGColor" onclick="_gaq.push(['_trackEvent', 'MyMet', 'email lite']);_gaq.push(['_trackEvent', 'Home', 'Email']);">
                         </div>
                     </div>
+
                 </div>
             </div>
             <div class="header-topbar-content">
@@ -527,9 +652,9 @@ See&nbsp;<a href="/mymet/whats-your-met">What's Your Met?</a> for more informati
 <div id="breadcrumb">
 	<ul class="site-navigation">
     
-	<li><a href="/en">Home</a> &gt;</li>
+	<li><a href="/">Home</a> &gt;</li>
     
-	<li><a href="/en/information">Information</a> &gt;</li>
+	<li><a href="/information">Information</a> &gt;</li>
     
     <li class="last">Privacy Policy for Online and Electronic Use</li>
     </ul> 
@@ -583,9 +708,9 @@ See&nbsp;<a href="/mymet/whats-your-met">What's Your Met?</a> for more informati
 </div>
 <!-- end header -->
 
-            <form method="post" action="/Information/privacy-policy" id="form1">
+            <form method="post" action="/information/privacy-policy" id="form1">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTM3MzMxODI5D2QWBgIBD2QWAmYPZBYCAgEPZBYCZg9kFgJmDxQrAAIPFgQeC18hRGF0YUJvdW5kZx4LXyFJdGVtQ291bnQCCGRkFgJmD2QWEAIBD2QWAgIBD2QWBGYPFQIGL3Zpc2l0BVZpc2l0ZAIBDxQrAAIPFgQfAGcfAQIHZGQWAmYPZBYOAgEPZBYCZg8VAhovdmlzaXQvaG91cnMtYW5kLWFkbWlzc2lvbhNIb3VycyBhbmQgQWRtaXNzaW9uZAICD2QWAmYPFQIWL3Zpc2l0L3BsYW4teW91ci12aXNpdA9QbGFuIFlvdXIgVmlzaXRkAgMPZBYCZg8VAhEvdmlzaXQvbXVzZXVtLW1hcApNdXNldW0gTWFwZAIED2QWAmYPFQISL3Zpc2l0L2l0aW5lcmFyaWVzFVN1Z2dlc3RlZCBJdGluZXJhcmllc2QCBQ9kFgJmDxUCGi92aXNpdC92aXNpdC10aGUtY2xvaXN0ZXJzE1Zpc2l0IFRoZSBDbG9pc3RlcnNkAgYPZBYCZg8VAhQvdmlzaXQvYWNjZXNzaWJpbGl0eQ1BY2Nlc3NpYmlsaXR5ZAIHD2QWAmYPFQIOL3Zpc2l0L2NvbnRhY3QTQ29udGFjdCBJbmZvcm1hdGlvbmQCAg9kFgICAQ9kFgRmDxUCDC9leGhpYml0aW9ucwtFeGhpYml0aW9uc2QCAQ8UKwACDxYEHwBnHwECA2RkFgJmD2QWBgIBD2QWAmYPFQIgL2V4aGliaXRpb25zL2N1cnJlbnQtZXhoaWJpdGlvbnMTQ3VycmVudCBFeGhpYml0aW9uc2QCAg9kFgJmDxUCIS9leGhpYml0aW9ucy91cGNvbWluZy1leGhpYml0aW9ucxRVcGNvbWluZyBFeGhpYml0aW9uc2QCAw9kFgJmDxUCHS9leGhpYml0aW9ucy9wYXN0LWV4aGliaXRpb25zEFBhc3QgRXhoaWJpdGlvbnNkAgMPZBYCAgEPZBYEZg8VAgwvY29sbGVjdGlvbnMLQ29sbGVjdGlvbnNkAgEPFCsAAg8WBB8AZx8BAgdkZBYCZg9kFg4CAQ9kFgJmDxUCHi9jb2xsZWN0aW9ucy9icm93c2UtaGlnaGxpZ2h0cxFCcm93c2UgSGlnaGxpZ2h0c2QCAg9kFgJmDxUCHi9jb2xsZWN0aW9ucy9uZXctaW5zdGFsbGF0aW9ucxFOZXcgSW5zdGFsbGF0aW9uc2QCAw9kFgJmDxUCIC9jb2xsZWN0aW9ucy9yZWNlbnQtYWNxdWlzaXRpb25zE1JlY2VudCBBY3F1aXNpdGlvbnNkAgQPZBYCZg8VAhYvY29sbGVjdGlvbnMvZ2FsbGVyaWVzCUdhbGxlcmllc2QCBQ9kFgJmDxUCIy9jb2xsZWN0aW9ucy9zZWFyY2gtdGhlLWNvbGxlY3Rpb25zFlNlYXJjaCB0aGUgQ29sbGVjdGlvbnNkAgYPZBYCZg8VAhgvY29sbGVjdGlvbnMvY29ubmVjdGlvbnMLQ29ubmVjdGlvbnNkAgcPZBYCZg8VAhEvY29sbGVjdGlvbnMvdG9haBdUaW1lbGluZSBvZiBBcnQgSGlzdG9yeWQCBA9kFgICAQ9kFgRmDxUCBy9ldmVudHMGRXZlbnRzZAIBDxQrAAIPFgQfAGcfAQIDZGQWAmYPZBYGAgEPZBYCZg8VAhMvZXZlbnRzL2ZpbmQtZXZlbnRzC0ZpbmQgRXZlbnRzZAICD2QWAmYPFQIQL2V2ZW50cy9wcm9ncmFtcwhQcm9ncmFtc2QCAw9kFgJmDxUCGy9ldmVudHMvdHJhdmVsLXdpdGgtdGhlLW1ldBNUcmF2ZWwgd2l0aCB0aGUgTWV0ZAIFD2QWAgIBD2QWBGYPFQIGL2xlYXJuBUxlYXJuZAIBDxQrAAIPFgQfAGcfAQIFZGQWAmYPZBYKAgEPZBYCZg8VAg8vbGVhcm4vZm9yLWtpZHMIRm9yIEtpZHNkAgIPZBYCZg8VAhAvbGVhcm4vZm9yLXRlZW5zCUZvciBUZWVuc2QCAw9kFgJmDxUCES9sZWFybi9mb3ItYWR1bHRzCkZvciBBZHVsdHNkAgQPZBYCZg8VAhsvbGVhcm4vZm9yLWNvbGxlZ2Utc3R1ZGVudHMURm9yIENvbGxlZ2UgU3R1ZGVudHNkAgUPZBYCZg8VAhQvbGVhcm4vZm9yLWVkdWNhdG9ycw1Gb3IgRWR1Y2F0b3JzZAIGD2QWAgIBD2QWBGYPFQIJL3Jlc2VhcmNoCFJlc2VhcmNoZAIBDxQrAAIPFgQfAGcfAQIHZGQWAmYPZBYOAgEPZBYCZg8VAiUvcmVzZWFyY2gvbGlicmFyaWVzLWFuZC1zdHVkeS1jZW50ZXJzG0xpYnJhcmllcyBhbmQgU3R1ZHkgQ2VudGVyc2QCAg9kFgJmDxUCJS9yZXNlYXJjaC9pbnRlcm5zaGlwcy1hbmQtZmVsbG93c2hpcHMbSW50ZXJuc2hpcHMgYW5kIEZlbGxvd3NoaXBzZAIDD2QWAmYPFQIiL3Jlc2VhcmNoL2FyY2hhZW9sb2dpY2FsLWZpZWxkd29yaxhBcmNoYWVvbG9naWNhbCBGaWVsZHdvcmtkAgQPZBYCZg8VAi4vcmVzZWFyY2gvY29uc2VydmF0aW9uLWFuZC1zY2llbnRpZmljLXJlc2VhcmNoJENvbnNlcnZhdGlvbiBhbmQgU2NpZW50aWZpYyBSZXNlYXJjaGQCBQ9kFgJmDxUCHS9yZXNlYXJjaC9jdXJhdG9yaWFsLXJlc2VhcmNoE0N1cmF0b3JpYWwgUmVzZWFyY2hkAgYPZBYCZg8VAhkvcmVzZWFyY2gvaW1hZ2UtcmVzb3VyY2VzD0ltYWdlIFJlc291cmNlc2QCBw9kFgJmDxUCJS9yZXNlYXJjaC9wcm92ZW5hbmNlLXJlc2VhcmNoLXByb2plY3QbUHJvdmVuYW5jZSBSZXNlYXJjaCBQcm9qZWN0ZAIHD2QWAgIBD2QWBGYPFQIOL2dpdmUtYW5kLWpvaW4NR2l2ZSBhbmQgSm9pbmQCAQ8UKwACDxYEHwBnHwECB2RkFgJmD2QWDgIBD2QWAmYPFQIVL2dpdmUtYW5kLWpvaW4vZG9uYXRlBkRvbmF0ZWQCAg9kFgJmDxUCGS9naXZlLWFuZC1qb2luL21lbWJlcnNoaXAKTWVtYmVyc2hpcGQCAw9kFgJmDxUCHS9naXZlLWFuZC1qb2luL3BsYW5uZWQtZ2l2aW5nDlBsYW5uZWQgR2l2aW5nZAIED2QWAmYPFQIeL2dpdmUtYW5kLWpvaW4vYmVuZWZpdC1wYXJ0aWVzD0JlbmVmaXQgUGFydGllc2QCBQ9kFgJmDxUCIC9naXZlLWFuZC1qb2luL2NvcnBvcmF0ZS1zdXBwb3J0EUNvcnBvcmF0ZSBTdXBwb3J0ZAIGD2QWAmYPFQIoL2dpdmUtYW5kLWpvaW4vY3VyYXRvcmlhbC1mcmllbmRzLWdyb3VwcxlDdXJhdG9yaWFsIEZyaWVuZHMgR3JvdXBzZAIHD2QWAmYPFQIcL2dpdmUtYW5kLWpvaW4vZ2lmdC1pbi1ob25vchhHaWZ0cyBpbiBIb25vciBvciBNZW1vcnlkAggPZBYCAgEPZBYEZg8VAhEvYWJvdXQtdGhlLW11c2V1bRBBYm91dCB0aGUgTXVzZXVtZAIBDxQrAAIPFgQfAGcfAQILZGQWAmYPZBYWAgEPZBYCZg8VAiAvYWJvdXQtdGhlLW11c2V1bS9ub3ctYXQtdGhlLW1ldA5Ob3cgYXQgdGhlIE1ldGQCAg9kFgJmDxUCJi9hYm91dC10aGUtbXVzZXVtL21ldC1hcm91bmQtdGhlLXdvcmxkGFRoZSBNZXQgQXJvdW5kIHRoZSBXb3JsZGQCAw9kFgJmDxUCIy9hYm91dC10aGUtbXVzZXVtL21pc3Npb24tc3RhdGVtZW50GE11c2V1bSBNaXNzaW9uIFN0YXRlbWVudGQCBA9kFgJmDxUCJy9hYm91dC10aGUtbXVzZXVtL2hpc3Rvcnktb2YtdGhlLW11c2V1bRVIaXN0b3J5IG9mIHRoZSBNdXNldW1kAgUPZBYCZg8VAiQvYWJvdXQtdGhlLW11c2V1bS9tdXNldW0tZGVwYXJ0bWVudHMSTXVzZXVtIERlcGFydG1lbnRzZAIGD2QWAmYPFQIpL2Fib3V0LXRoZS1tdXNldW0vZW50ZXJ0YWluaW5nLWF0LXRoZS1tZXQXRW50ZXJ0YWluaW5nIGF0IHRoZSBNZXRkAgcPZBYCZg8VAjQvYWJvdXQtdGhlLW11c2V1bS9jYXJlZXItYW5kLXZvbHVudGVlci1vcHBvcnR1bml0aWVzIkNhcmVlciBhbmQgVm9sdW50ZWVyIE9wcG9ydHVuaXRpZXNkAggPZBYCZg8VAiAvYWJvdXQtdGhlLW11c2V1bS9hbm51YWwtcmVwb3J0cw5Bbm51YWwgUmVwb3J0c2QCCQ9kFgJmDxUCLy9hYm91dC10aGUtbXVzZXVtL2NvbGxlY3Rpb25zLW1hbmFnZW1lbnQtcG9saWN5HUNvbGxlY3Rpb25zIE1hbmFnZW1lbnQgUG9saWN5ZAIKD2QWAmYPFQIZL2Fib3V0LXRoZS1tdXNldW0vY29udGFjdBNDb250YWN0IEluZm9ybWF0aW9uZAILD2QWAmYPFQIcL2Fib3V0LXRoZS1tdXNldW0vcHJlc3Mtcm9vbQpQcmVzcyBSb29tZAICEGRkFgICAQ9kFgJmD2QWAmYPZBYCAgMPZBYCZg9kFgJmDxYCHgdWaXNpYmxlaGQCAw9kFgJmD2QWAgIBD2QWAgIBDw8WAh8CaGRkGAkFJ2N0bDAzJGN0bDAwJFRvcE5hdiRjdHJsNyRUb3BOYXZTdWJJdGVtcw8UKwAOZGRkZGRkZDwrAAsAAgtkZGRmAv////8PZAUnY3RsMDMkY3RsMDAkVG9wTmF2JGN0cmwxJFRvcE5hdlN1Ykl0ZW1zDxQrAA5kZGRkZGRkFCsAA2RkZAIDZGRkZgL/////D2QFJ2N0bDAzJGN0bDAwJFRvcE5hdiRjdHJsMyRUb3BOYXZTdWJJdGVtcw8UKwAOZGRkZGRkZBQrAANkZGQCA2RkZGYC/////w9kBSdjdGwwMyRjdGwwMCRUb3BOYXYkY3RybDYkVG9wTmF2U3ViSXRlbXMPFCsADmRkZGRkZGQ8KwAHAAIHZGRkZgL/////D2QFJ2N0bDAzJGN0bDAwJFRvcE5hdiRjdHJsNSRUb3BOYXZTdWJJdGVtcw8UKwAOZGRkZGRkZDwrAAcAAgdkZGRmAv////8PZAUnY3RsMDMkY3RsMDAkVG9wTmF2JGN0cmwwJFRvcE5hdlN1Ykl0ZW1zDxQrAA5kZGRkZGRkPCsABwACB2RkZGYC/////w9kBSdjdGwwMyRjdGwwMCRUb3BOYXYkY3RybDIkVG9wTmF2U3ViSXRlbXMPFCsADmRkZGRkZGQ8KwAHAAIHZGRkZgL/////D2QFEmN0bDAzJGN0bDAwJFRvcE5hdg8UKwAOZGRkZGRkZDwrAAgAAghkZGRmAv////8PZAUnY3RsMDMkY3RsMDAkVG9wTmF2JGN0cmw0JFRvcE5hdlN1Ykl0ZW1zDxQrAA5kZGRkZGRkPCsABQACBWRkZGYC/////w9klYzoUbpXukIRrX5Btpqc0Sx5klI=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIwOTYwNTYyNzcPZBYGAgEPZBYCZg9kFgICAQ9kFgJmD2QWAmYPFCsAAg8WBB4LXyFEYXRhQm91bmRnHgtfIUl0ZW1Db3VudAIIZGQWAmYPZBYQAgEPZBYCAgEPZBYEZg8VAgYvdmlzaXQFVmlzaXRkAgEPFCsAAg8WBB8AZx8BAgdkZBYCZg9kFg4CAQ9kFgJmDxUCGi92aXNpdC9ob3Vycy1hbmQtYWRtaXNzaW9uE0hvdXJzIGFuZCBBZG1pc3Npb25kAgIPZBYCZg8VAhYvdmlzaXQvcGxhbi15b3VyLXZpc2l0D1BsYW4gWW91ciBWaXNpdGQCAw9kFgJmDxUCES92aXNpdC9tdXNldW0tbWFwCk11c2V1bSBNYXBkAgQPZBYCZg8VAhIvdmlzaXQvaXRpbmVyYXJpZXMVU3VnZ2VzdGVkIEl0aW5lcmFyaWVzZAIFD2QWAmYPFQIaL3Zpc2l0L3Zpc2l0LXRoZS1jbG9pc3RlcnMTVmlzaXQgVGhlIENsb2lzdGVyc2QCBg9kFgJmDxUCFC92aXNpdC9hY2Nlc3NpYmlsaXR5DUFjY2Vzc2liaWxpdHlkAgcPZBYCZg8VAg4vdmlzaXQvY29udGFjdBNDb250YWN0IEluZm9ybWF0aW9uZAICD2QWAgIBD2QWBGYPFQIML2V4aGliaXRpb25zC0V4aGliaXRpb25zZAIBDxQrAAIPFgQfAGcfAQIDZGQWAmYPZBYGAgEPZBYCZg8VAiAvZXhoaWJpdGlvbnMvY3VycmVudC1leGhpYml0aW9ucxNDdXJyZW50IEV4aGliaXRpb25zZAICD2QWAmYPFQIhL2V4aGliaXRpb25zL3VwY29taW5nLWV4aGliaXRpb25zFFVwY29taW5nIEV4aGliaXRpb25zZAIDD2QWAmYPFQIdL2V4aGliaXRpb25zL3Bhc3QtZXhoaWJpdGlvbnMQUGFzdCBFeGhpYml0aW9uc2QCAw9kFgICAQ9kFgRmDxUCDC9jb2xsZWN0aW9ucwtDb2xsZWN0aW9uc2QCAQ8UKwACDxYEHwBnHwECCGRkFgJmD2QWEAIBD2QWAmYPFQIeL2NvbGxlY3Rpb25zL2Jyb3dzZS1oaWdobGlnaHRzEUJyb3dzZSBIaWdobGlnaHRzZAICD2QWAmYPFQIeL2NvbGxlY3Rpb25zL25ldy1pbnN0YWxsYXRpb25zEU5ldyBJbnN0YWxsYXRpb25zZAIDD2QWAmYPFQIgL2NvbGxlY3Rpb25zL3JlY2VudC1hY3F1aXNpdGlvbnMTUmVjZW50IEFjcXVpc2l0aW9uc2QCBA9kFgJmDxUCFi9jb2xsZWN0aW9ucy9nYWxsZXJpZXMJR2FsbGVyaWVzZAIFD2QWAmYPFQIjL2NvbGxlY3Rpb25zL3NlYXJjaC10aGUtY29sbGVjdGlvbnMWU2VhcmNoIHRoZSBDb2xsZWN0aW9uc2QCBg9kFgJmDxUCGC9jb2xsZWN0aW9ucy9jb25uZWN0aW9ucwtDb25uZWN0aW9uc2QCBw9kFgJmDxUCGy9jb2xsZWN0aW9ucy84Mm5kLWFuZC1maWZ0aAw4Mm5kICYgRmlmdGhkAggPZBYCZg8VAhEvY29sbGVjdGlvbnMvdG9haCFIZWlsYnJ1bm4gVGltZWxpbmUgb2YgQXJ0IEhpc3RvcnlkAgQPZBYCAgEPZBYEZg8VAgcvZXZlbnRzBkV2ZW50c2QCAQ8UKwACDxYEHwBnHwECA2RkFgJmD2QWBgIBD2QWAmYPFQITL2V2ZW50cy9maW5kLWV2ZW50cwtGaW5kIEV2ZW50c2QCAg9kFgJmDxUCEC9ldmVudHMvcHJvZ3JhbXMIUHJvZ3JhbXNkAgMPZBYCZg8VAhsvZXZlbnRzL3RyYXZlbC13aXRoLXRoZS1tZXQTVHJhdmVsIHdpdGggdGhlIE1ldGQCBQ9kFgICAQ9kFgRmDxUCBi9sZWFybgVMZWFybmQCAQ8UKwACDxYEHwBnHwECBmRkFgJmD2QWDAIBD2QWAmYPFQIPL2xlYXJuL2Zvci1raWRzCEZvciBLaWRzZAICD2QWAmYPFQIQL2xlYXJuL2Zvci10ZWVucwlGb3IgVGVlbnNkAgMPZBYCZg8VAhEvbGVhcm4vZm9yLWFkdWx0cwpGb3IgQWR1bHRzZAIED2QWAmYPFQIbL2xlYXJuL2Zvci1jb2xsZWdlLXN0dWRlbnRzFEZvciBDb2xsZWdlIFN0dWRlbnRzZAIFD2QWAmYPFQIUL2xlYXJuL2Zvci1lZHVjYXRvcnMNRm9yIEVkdWNhdG9yc2QCBg9kFgJmDxUCJS9sZWFybi9mb3ItdmlzaXRvcnMtd2l0aC1kaXNhYmlsaXRpZXMeRm9yIFZpc2l0b3JzIHdpdGggRGlzYWJpbGl0aWVzZAIGD2QWAgIBD2QWBGYPFQIJL3Jlc2VhcmNoCFJlc2VhcmNoZAIBDxQrAAIPFgQfAGcfAQIIZGQWAmYPZBYQAgEPZBYCZg8VAiUvcmVzZWFyY2gvbGlicmFyaWVzLWFuZC1zdHVkeS1jZW50ZXJzG0xpYnJhcmllcyBhbmQgU3R1ZHkgQ2VudGVyc2QCAg9kFgJmDxUCGS9yZXNlYXJjaC9tZXRwdWJsaWNhdGlvbnMPTWV0UHVibGljYXRpb25zZAIDD2QWAmYPFQIlL3Jlc2VhcmNoL2ludGVybnNoaXBzLWFuZC1mZWxsb3dzaGlwcxtJbnRlcm5zaGlwcyBhbmQgRmVsbG93c2hpcHNkAgQPZBYCZg8VAiIvcmVzZWFyY2gvYXJjaGFlb2xvZ2ljYWwtZmllbGR3b3JrGEFyY2hhZW9sb2dpY2FsIEZpZWxkd29ya2QCBQ9kFgJmDxUCLi9yZXNlYXJjaC9jb25zZXJ2YXRpb24tYW5kLXNjaWVudGlmaWMtcmVzZWFyY2gkQ29uc2VydmF0aW9uIGFuZCBTY2llbnRpZmljIFJlc2VhcmNoZAIGD2QWAmYPFQIdL3Jlc2VhcmNoL2N1cmF0b3JpYWwtcmVzZWFyY2gTQ3VyYXRvcmlhbCBSZXNlYXJjaGQCBw9kFgJmDxUCGS9yZXNlYXJjaC9pbWFnZS1yZXNvdXJjZXMPSW1hZ2UgUmVzb3VyY2VzZAIID2QWAmYPFQIlL3Jlc2VhcmNoL3Byb3ZlbmFuY2UtcmVzZWFyY2gtcHJvamVjdBtQcm92ZW5hbmNlIFJlc2VhcmNoIFByb2plY3RkAgcPZBYCAgEPZBYEZg8VAg4vZ2l2ZS1hbmQtam9pbg1HaXZlIGFuZCBKb2luZAIBDxQrAAIPFgQfAGcfAQIHZGQWAmYPZBYOAgEPZBYCZg8VAhUvZ2l2ZS1hbmQtam9pbi9kb25hdGUGRG9uYXRlZAICD2QWAmYPFQIZL2dpdmUtYW5kLWpvaW4vbWVtYmVyc2hpcApNZW1iZXJzaGlwZAIDD2QWAmYPFQIdL2dpdmUtYW5kLWpvaW4vcGxhbm5lZC1naXZpbmcOUGxhbm5lZCBHaXZpbmdkAgQPZBYCZg8VAh4vZ2l2ZS1hbmQtam9pbi9iZW5lZml0LXBhcnRpZXMPQmVuZWZpdCBQYXJ0aWVzZAIFD2QWAmYPFQIgL2dpdmUtYW5kLWpvaW4vY29ycG9yYXRlLXN1cHBvcnQRQ29ycG9yYXRlIFN1cHBvcnRkAgYPZBYCZg8VAigvZ2l2ZS1hbmQtam9pbi9jdXJhdG9yaWFsLWZyaWVuZHMtZ3JvdXBzGUN1cmF0b3JpYWwgRnJpZW5kcyBHcm91cHNkAgcPZBYCZg8VAhwvZ2l2ZS1hbmQtam9pbi9naWZ0LWluLWhvbm9yGEdpZnRzIGluIEhvbm9yIG9yIE1lbW9yeWQCCA9kFgICAQ9kFgRmDxUCES9hYm91dC10aGUtbXVzZXVtEEFib3V0IHRoZSBNdXNldW1kAgEPFCsAAg8WBB8AZx8BAgtkZBYCZg9kFhYCAQ9kFgJmDxUCIC9hYm91dC10aGUtbXVzZXVtL25vdy1hdC10aGUtbWV0Dk5vdyBhdCB0aGUgTWV0ZAICD2QWAmYPFQImL2Fib3V0LXRoZS1tdXNldW0vbWV0LWFyb3VuZC10aGUtd29ybGQYVGhlIE1ldCBBcm91bmQgdGhlIFdvcmxkZAIDD2QWAmYPFQIjL2Fib3V0LXRoZS1tdXNldW0vbWlzc2lvbi1zdGF0ZW1lbnQYTXVzZXVtIE1pc3Npb24gU3RhdGVtZW50ZAIED2QWAmYPFQInL2Fib3V0LXRoZS1tdXNldW0vaGlzdG9yeS1vZi10aGUtbXVzZXVtFUhpc3Rvcnkgb2YgdGhlIE11c2V1bWQCBQ9kFgJmDxUCJC9hYm91dC10aGUtbXVzZXVtL211c2V1bS1kZXBhcnRtZW50cxJNdXNldW0gRGVwYXJ0bWVudHNkAgYPZBYCZg8VAikvYWJvdXQtdGhlLW11c2V1bS9lbnRlcnRhaW5pbmctYXQtdGhlLW1ldBdFbnRlcnRhaW5pbmcgYXQgdGhlIE1ldGQCBw9kFgJmDxUCNC9hYm91dC10aGUtbXVzZXVtL2NhcmVlci1hbmQtdm9sdW50ZWVyLW9wcG9ydHVuaXRpZXMiQ2FyZWVyIGFuZCBWb2x1bnRlZXIgT3Bwb3J0dW5pdGllc2QCCA9kFgJmDxUCIC9hYm91dC10aGUtbXVzZXVtL2FubnVhbC1yZXBvcnRzDkFubnVhbCBSZXBvcnRzZAIJD2QWAmYPFQIvL2Fib3V0LXRoZS1tdXNldW0vY29sbGVjdGlvbnMtbWFuYWdlbWVudC1wb2xpY3kdQ29sbGVjdGlvbnMgTWFuYWdlbWVudCBQb2xpY3lkAgoPZBYCZg8VAhkvYWJvdXQtdGhlLW11c2V1bS9jb250YWN0E0NvbnRhY3QgSW5mb3JtYXRpb25kAgsPZBYCZg8VAhwvYWJvdXQtdGhlLW11c2V1bS9wcmVzcy1yb29tClByZXNzIFJvb21kAgIQZGQWAgIBD2QWAmYPZBYCZg9kFgICAw9kFgJmD2QWAmYPFgIeB1Zpc2libGVoZAIDD2QWAmYPZBYEZg9kFgJmDxYCHgRUZXh0BfMFPGxpPjxkaXYgY2xhc3M9ImljbyI+PGEgaHJlZj0iaHR0cHM6Ly93d3cubWV0bXVzZXVtLm9yZy9teW1ldC9lbWFpbC1saXRlIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Ii9+L21lZGlhL0ltYWdlcy9Db21tdW5pdHkvSWNvbnMvZW52LmFzaHgiLz48L2E+PC9kaXY+PC9saT48bGk+PGRpdiBjbGFzcz0iaWNvIj48YSBocmVmPSJodHRwOi8vd3d3LmZhY2Vib29rLmNvbS9tZXRtdXNldW0iIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0NvbW11bml0eS9JY29ucy9mYi5hc2h4Ii8+PC9hPjwvZGl2PjwvbGk+PGxpPjxkaXYgY2xhc3M9ImljbyI+PGEgaHJlZj0iaHR0cHM6Ly90d2l0dGVyLmNvbS9tZXRtdXNldW0iIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0NvbW11bml0eS9JY29ucy90dy5hc2h4Ii8+PC9hPjwvZGl2PjwvbGk+PGxpPjxkaXYgY2xhc3M9ImljbyI+PGEgaHJlZj0iaHR0cHM6Ly9waW50ZXJlc3QuY29tL21ldG11c2V1bS8iIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0NvbW11bml0eS9JY29ucy9waW4uYXNoeCIvPjwvYT48L2Rpdj48L2xpPjxsaT48ZGl2IGNsYXNzPSJpY28iPjxhIGhyZWY9Imh0dHA6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvbWV0bXVzZXVtIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Ii9+L21lZGlhL0ltYWdlcy9Db21tdW5pdHkvSWNvbnMvZmxpY2tyLmFzaHgiLz48L2E+PC9kaXY+PC9saT5kAgEPZBYCAgEPDxYCHwJoZGQYCQUnY3RsMDMkY3RsMDAkVG9wTmF2JGN0cmw3JFRvcE5hdlN1Ykl0ZW1zDxQrAA5kZGRkZGRkPCsACwACC2RkZGYC/////w9kBSdjdGwwMyRjdGwwMCRUb3BOYXYkY3RybDEkVG9wTmF2U3ViSXRlbXMPFCsADmRkZGRkZGQUKwADZGRkAgNkZGRmAv////8PZAUnY3RsMDMkY3RsMDAkVG9wTmF2JGN0cmwzJFRvcE5hdlN1Ykl0ZW1zDxQrAA5kZGRkZGRkFCsAA2RkZAIDZGRkZgL/////D2QFJ2N0bDAzJGN0bDAwJFRvcE5hdiRjdHJsNSRUb3BOYXZTdWJJdGVtcw8UKwAOZGRkZGRkZDwrAAgAAghkZGRmAv////8PZAUnY3RsMDMkY3RsMDAkVG9wTmF2JGN0cmw2JFRvcE5hdlN1Ykl0ZW1zDxQrAA5kZGRkZGRkPCsABwACB2RkZGYC/////w9kBSdjdGwwMyRjdGwwMCRUb3BOYXYkY3RybDAkVG9wTmF2U3ViSXRlbXMPFCsADmRkZGRkZGQ8KwAHAAIHZGRkZgL/////D2QFJ2N0bDAzJGN0bDAwJFRvcE5hdiRjdHJsMiRUb3BOYXZTdWJJdGVtcw8UKwAOZGRkZGRkZDwrAAgAAghkZGRmAv////8PZAUSY3RsMDMkY3RsMDAkVG9wTmF2DxQrAA5kZGRkZGRkPCsACAACCGRkZGYC/////w9kBSdjdGwwMyRjdGwwMCRUb3BOYXYkY3RybDQkVG9wTmF2U3ViSXRlbXMPFCsADmRkZGRkZGQ8KwAGAAIGZGRkZgL/////D2QVaLr8E3b4xsk9HMYzhUQc6qEF9Q==">
 </div>
 
             
@@ -603,7 +728,7 @@ See&nbsp;<a href="/mymet/whats-your-met">What's Your Met?</a> for more informati
                     </li>
                 
                     <li>
-                        <a href="/en/information/terms-and-conditions">Terms and Conditions</a>
+                        <a href="/en/information/terms-and-conditions">Terms and Conditions/Terms of Use</a>
                     
                     </li>
                 
@@ -733,8 +858,51 @@ Email: <a href="mailto:privacypolicy@metmuseum.org">privacypolicy@metmuseum.org<
 
 
             
-<script type="text/javascript">jQuery('#spnShowCart').hide()</script></form>
+<script>jQuery("ul#primary-navigation").css('margin-top', '11px');</script><script type="text/javascript">jQuery('#spnShowCart').hide()</script></form>
             
+<style type="text/css">
+        .main-holder-footer .social-networks{
+	    padding-left:15px;
+        float: right;
+        background-color: transparent;
+    }
+    .main-holder-footer .social-networks li{
+	    overflow:hidden;
+	    margin:0 0 12px;
+	    height:1%;
+	    vertical-align:top;
+    }
+    .main-holder-footer .social-networks .ico{
+	    float:left;
+	    margin:0px 15px 0 0;
+    }
+    .main-holder-footer .social-networks .ico img{
+	    display:block;
+    }   
+</style>
+<!--[if LTE IE 7]>
+<style type="text/css">
+    .main-holder-footer .social-networks{
+	    padding-left:15px;
+        float: right;
+        background-color: transparent;
+    }
+    .main-holder-footer .social-networks li{
+	    overflow:hidden;
+	    margin:0 0 12px;
+	    height:1%;
+	    vertical-align:top;
+    }
+    .main-holder-footer .social-networks .ico{
+	    float:left;
+	    margin:0px 15px 0 0;
+    }
+    .main-holder-footer .social-networks .ico img{
+	    display:block;
+    }
+</style>
+<![endif]-->
+
         <div id="footer" class="footer-mmaConfirm"> 
 			<div id="ctl04_footerBox" class="footer-box-container">
             
@@ -742,21 +910,21 @@ Email: <a href="mailto:privacypolicy@metmuseum.org">privacypolicy@metmuseum.org<
 					<div class="header">
 						<h2 class="small-header"><a href="/metmedia"><span>Met Media</span></a></h2>
 					</div>
-					<a href="/metmedia"><img src="~/media/Images/Footer/Promos/MetMedia.ashx?mw=239" alt="Met Media" height="190" width="100%"></a>
+					<a href="/metmedia"><img src="/~/media/Images/Footer/Promos/MetMedia.ashx?mw=239" alt="Met Media" height="190" width="100%"></a>
 				</div>
             
 				<div class="content-box">
 					<div class="header">
 						<h2 class="small-header"><a href="http://www.metmuseum.org/learn/for-kids?utm_source=footer&amp;utm_medium=website&amp;utm_campaign=metkids"><span>Met Kids</span></a></h2>
 					</div>
-					<a href="http://www.metmuseum.org/learn/for-kids?utm_source=footer&amp;utm_medium=website&amp;utm_campaign=metkids"><img src="~/media/Images/Footer/Promos/mykids.ashx?mw=239" alt="Met Kids" height="190" width="100%"></a>
+					<a href="http://www.metmuseum.org/learn/for-kids?utm_source=footer&amp;utm_medium=website&amp;utm_campaign=metkids"><img src="/~/media/Images/Footer/Promos/mykids.ashx?mw=239" alt="Met Kids" height="190" width="100%"></a>
 				</div>
             
 				<div class="content-box">
 					<div class="header">
-						<h2 class="small-header"><a href="http://store.metmuseum.org/?utm_source=mainmuseum&amp;utm_medium=metmuseum.org&amp;utm_term=082712&amp;utm_content=tibetan+pendant+necklace&amp;utm_campaign=footer+image"><span>Met Store</span></a></h2>
+						<h2 class="small-header"><a href="http://store.metmuseum.org/?utm_source=mainmuseum&amp;utm_medium=metmuseum.org&amp;utm_term=053113&amp;utm_content=17th+century+english+watch+fathers+day+promo&amp;utm_campaign=footer+image"><span>Met Store</span></a></h2>
 					</div>
-					<a href="http://store.metmuseum.org/?utm_source=mainmuseum&amp;utm_medium=metmuseum.org&amp;utm_term=082712&amp;utm_content=tibetan+pendant+necklace&amp;utm_campaign=footer+image"><img src="~/media/Images/Footer/Promos/metstore.ashx?mw=239" alt="Met Store" height="190" width="100%"></a>
+					<a href="http://store.metmuseum.org/?utm_source=mainmuseum&amp;utm_medium=metmuseum.org&amp;utm_term=053113&amp;utm_content=17th+century+english+watch+fathers+day+promo&amp;utm_campaign=footer+image"><img src="/~/media/Images/Footer/Promos/053113_mens.ashx?mw=239" alt="Met Store" height="190" width="100%"></a>
 				</div>
             
 			
@@ -771,35 +939,34 @@ Email: <a href="mailto:privacypolicy@metmuseum.org">privacypolicy@metmuseum.org<
                 
 					<li><a href="/information/privacy-policy">Privacy Policy</a></li>
                 
-					<li><a href="/information/acknowledgments">Acknowledgments</a></li>
+					<li><a href="/about-the-museum/contact">Contact Information</a></li>
                 
-					<li class="last"><a href="/about-the-museum/press-room">Press</a></li>
+					<li class="last"><a href="/about-the-museum/press-room?utm_source=footer&amp;amp;utm_medium=website&amp;amp;utm_campaign=press">Press</a></li>
                 
 				</ul>
-				<p class="copyright">
-					© 2000–2012 The Metropolitan Museum of Art. All rights reserved.
-                </p>
-			</div>
+				<p class="copyright copyright-footer">
+					© 2000–2013 The Metropolitan Museum of Art. All rights reserved.
+                </p>			
+                 <div class="main-holder-footer">             
+                    <ul class="social-networks">  
+                        <li><div class="ico"><a href="https://www.metmuseum.org/mymet/email-lite" target="_blank"><img src="/~/media/Images/Community/Icons/env.ashx"></a></div></li><li><div class="ico"><a href="http://www.facebook.com/metmuseum" target="_blank"><img src="/~/media/Images/Community/Icons/fb.ashx"></a></div></li><li><div class="ico"><a href="https://twitter.com/metmuseum" target="_blank"><img src="/~/media/Images/Community/Icons/tw.ashx"></a></div></li><li><div class="ico"><a href="https://pinterest.com/metmuseum/" target="_blank"><img src="/~/media/Images/Community/Icons/pin.ashx"></a></div></li><li><div class="ico"><a href="http://www.flickr.com/photos/metmuseum" target="_blank"><img src="/~/media/Images/Community/Icons/flickr.ashx"></a></div></li>
+				    </ul>
+                </div>
+            </div>
             </div>
 		</div>
 
+<!--[if lte IE 7]>
+<style type="text/css">
+div#meerkat-wrap {
+ margin-left:-974px !important;
+}
+</style>
+<![endif]-->
 <style type="text/css">
     .footer-mmaMeerkat
     {
        margin-bottom: 60px;
-    }
-    .dont-show
-    {
-        color: #000;
-        cursor: pointer;
-        display: block;
-        height: 18px;
-        position: absolute;
-        width: 105px;
-        left: 914px;
-        top: 100px;
-        z-index: 10;
-        font-size: .8em;
     }
     .close-meerkat
     {
@@ -827,6 +994,8 @@ Email: <a href="mailto:privacypolicy@metmuseum.org">privacypolicy@metmuseum.org<
        margin-left:0 !important;
     }
 </style>
+
+
     
 
 
