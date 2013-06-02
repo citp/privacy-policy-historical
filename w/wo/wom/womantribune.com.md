@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womantribune.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224190020id_/http%3A//womantribune.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womantribune.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602065017id_/http%3A//womantribune.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Woman Tribune
 
