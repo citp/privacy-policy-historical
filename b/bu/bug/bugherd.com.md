@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bugherd.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203093359id_/http%3A//www.bugherd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugherd.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603003948id_/http%3A//www.bugherd.com/privacy) for the most accurate reproduction.*
 
-# BugHerd | The world's simplest bug tracker
+# Effortless project management and collaboration | BugHerd
+
+## Privacy Policy
 
 When accessing our Website, BugHerd Pty Ltd and Angry Monkeys Pty Ltd will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
