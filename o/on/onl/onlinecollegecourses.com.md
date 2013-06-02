@@ -1,25 +1,45 @@
-> *The following text is extracted and transformed from the onlinecollegecourses.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117004650id_/http%3A//www.onlinecourses.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecollegecourses.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602071725id_/http%3A//www.onlinecollegecourses.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Online College Courses
+# Privacy Policy - OnlineCollegeCourses.com
 
-## Privacy Policy
+The following privacy statement details what personal information OnlineCollegeCourses.com collects and how it is used. It may update to reflect changes to our information practices, so we encourage you to periodically review this page for our most up-to-date privacy practices. 
 
-**Online Courses** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+#### Collection and Use of Personal Information
 
-## Routine Information Collection
+The following information may be asked of you as you use OnlineCollegeCourses.com:
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+  * Contact information (name, email address, mailing address, phone number)
+  * Demographic information (expected graduation year, education, gender, interests and zip code)
 
-## Cookies and Web Beacons
 
-Where necessary, Online Courses uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
+We may also gather publicly available information about your computer, such as your IP address, referring and exit pages, and browser type.
 
-## Controlling Your Privacy
+We then use this information to:
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+  * Determine and recommend online college degree programs based on your education and career goals
+  * Send you requested school information, newsletters, or marketing communications*
+  * Respond to any customer service requests, questions, or concerns
+  * Improve the information provided on our website to meet the needs of our users
+  * Conduct research and analysis
+  * Improve our marketing efforts
 
-## Contact Information
 
-Concerns or questions about this privacy policy can be directed to info (@) onlinecourses.org for further clarification.
+
+*If you no longer wish to receive marketing information from us, you can unsubscribe following the email instructions.
+
+#### Sharing of Personal Information
+
+We may disclose your personal information when required to do so by law when we believe that this disclosure is necessary to protect our rights, your safety, or the safety of others; to investigate fraud; or to comply with government requests in the event OnlineCollegeCourses.com is undergoing a merger, acquisition, or sale of its assets to a third-party, with your prior permission to do so.
+
+We also may share your personal information with companies that provide us with business services, such as customer service or email service delivery, as well as to third-party companies to use in the ways that are detailed in this privacy statement. We will not sell your personal information to any third-party companies to support their unrelated marketing purposes. 
+
+For users with numbers on any state and/or federal Do Not Call lists, it is important to also bear in mind that by submitting your personal information to OnlineCollegeCourses.com, you are making an inquiry, which grants us, our affiliated entities, and third-party marketing partners/vendors to contact you, even if the number you submitted is on any Do Not Call lists, as inquiries are an exception to Do Not Call requirements.
+
+#### Contact Us
+
+If you have questions or concerns regarding this privacy policy, please don’t hesitate to contact us at using our contact form.
+
+_Effective as of August 22, 2012_
+
+## Find the perfect course for you in just 3 easy steps
