@@ -1,67 +1,116 @@
-> *The following text is extracted and transformed from the informatica.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202152049id_/http%3A//www.informatica.com/us/privacy-policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informatica.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602232015id_/http%3A//www.informatica.com/us/privacy-policy/default.aspx) for the most accurate reproduction.*
 
 # Informatica Privacy Policy
 
-Informatica Corporation and its subsidiary companies worldwide (“Informatica”) are committed to respecting your privacy.  This statement applies with respect to (i) personal data we collect (i) from [http://www.informatica.com/](https://web.archive.org/us/index.aspx "Informatica ") and any other sites on the World Wide Web owned and/or operated by Informatica (“Informatica Websites”) (ii) at events hosted or attended by Informatica (iii) via direct marketing campaigns conducted by telephone or email or (iv) in the course of other similar marketing activities. This statement is part of the Terms of Use of our website and is subject to all of its terms. Below is information regarding the commitment of Informatica to protect the personal data of individuals.
+**Last Updated: May 31, 2013**
 
-The term “personal data” includes any information that enables you to be identified, such as your name, physical address, e-mail address and/or phone number.
+This Privacy Policy explains how Informatica Corporation and its subsidiary and affiliated companies worldwide (“ **Informatica** ”) collects, uses and shares your information.  This Privacy Policy applies to information we collect when you use our websites, mobile applications and other online products and services (collectively, the “ **Services** ”) or when you otherwise interact with us, including when you attend events hosted by Informatica and when you contact us for customer support.
 
- **1\. Nature of the Data Collected and Purpose of the Data Processing**  
-Collection – Websites - When you access the Informatica Websites, Informatica collects the IP address of the computer you are using to browse the site. If this address is a “static” or fixed IP address, Informatica could in certain circumstances theoretically be able to identify you, and therefore, this type of information could be considered personal data. However, Informatica only collects this type of information to compile usage statistics on an anonymous basis; Informatica does not collect IP address data to identify you.
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as by adding a statement to our website homepages or sending you an email notification). We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.
 
-Apart from your IP address, no personal data is transmitted when accessing Informatica Websites. Unless you submit personal data about yourself voluntarily by filling in a form or by sending us an e-mail, we will not maintain any other personal data as a result of your access and usage of the Informatica Websites.
+## Collection of Information
 
-If you have registered with Informatica by providing information through an online or paper form or over the phone, we use the information you submit by registering to contact you with customized marketing information by phone, post, on-line download or e-mail. You may request to cease receiving such information at any time following registration. You may request to be removed from our register by sending an email to [unsubscribe@informatica.com](mailto:unsubscribe@informatica.com) with the word “UNSUBSCRIBE” in the email subject line or by following the unsubscribe instructions at the bottom of the email. You may request to be removed from our postal mailing list by sending an e-mail message to [unsubscribe@informatica.com](mailto:unsubscribe@informatica.com) or by sending a letter to:
+### Information You Provide to Us
+
+We collect information you provide directly to us. For example, we collect information when you create an account, participate in any interactive features of the Services, fill out a form, participate in a contest or promotion, register for an event or an online course, make a purchase, apply for a job, request customer support or otherwise communicate with us.  The types of information we may collect include your name, email address, postal address, phone number, fax number, payment information, gender, information about your company and current position, employment history and any other information you choose to provide.
+
+### Information We Collect Automatically When You Use the Services
+
+When you access or use our Services, we automatically collect the following information about you:
+
+  * **Log Information:** We log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
+  * **Device Information:** We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers and mobile network information.
+  * **Location Information:** We may with your consent collect information about the location of your device each time you access or use one of our mobile applications. For more details, please see “Your Choices” below.
+  * **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. We may also collect information using web beacons (also known as “tracking pixels”). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies, and how to disable them, please see “Your Choices” below.
+
+
+
+### Information We Collect From Other Sources
+
+We may also obtain information from other sources and combine that with information we collect through our Services. For example, if you connect an Informatica account with your social media account, we may have access to certain information from the company that owns or operates the social media account in accordance with the authorization procedures determined by such social media company.
+
+### Use of Information
+
+We may use information about you for the following purposes:
+
+  * Provide, maintain and improve our Services;
+  * Provide and deliver the products and services you request, process transactions and send you related information, including confirmations and invoices;
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests and provide customer service;
+  * Communicate with you about products, services, offers, promotions, rewards, and events offered by Informatica and others, and provide news and information we think will be of interest to you;
+  * Monitor and analyze trends, usage and activities in connection with our Services;
+  * Personalize and improve the Services and provide advertisements, content or features that match user profiles or interests;
+  * Process and deliver contest entries and rewards;
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
+
+
+
+Carry out any other purpose for which the information was collected, and which is necessarily contemplated by the collection of such information or is otherwise explicitly mentioned in the process of collection.
+
+### Sharing Of Information
+
+We may share information about you as follows or as otherwise described in this Privacy Policy:
+
+  * In connection with a joint marketing campaign, seminar, Marketplace product offering or other product or service offered by Informatica in conjunction with a third party, we may share your information with any third parties participating in such offering and such parties may use this information for their direct marketing purposes.  Please see “Your Rights to Prevent Sharing” below for more information about this sharing.
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+  * In response to a request for information if we are required by, or believe disclosure is in accordance with, any applicable law, regulation or legal process;
+  * To protect the rights, property and safety of Informatica or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company; and
+  * With your consent or at your direction, including if we notify you through our Services that the information you provide will be shared in a particular manner and you provide such information.
+
+
+
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
+
+### Social Sharing Features
+
+The Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+
+### Analytics Services Provided by Others
+
+We may allow others to provide analytics services on our behalf.  These entities may use cookies, web beacons and other technologies to collect information about your use of the Services, including your IP address, web browser, pages viewed, time spent on pages and links clicked. This information may be used by Informatica to analyze and track data, determine the popularity of certain content and better understand your online activity.
+
+### U.S.-EU and U.S.-Swiss Safe Harbor Frameworks
+
+Informatica is a participant in the Safe Harbor program developed by the U.S. Department of Commerce with respect to the transfer of personal data about residents of the EU and Switzerland to the United States. We have certified that we adhere to the Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to personal data transferred from the EU and Switzerland to the U.S.  For more information about the Safe Harbor program and to view our certification, please visit the U.S. Department of Commerce’s [Safe Harbor website](http://safeharbor.export.gov/list.aspx "Safe Harbor website"). Any questions or concerns regarding the collection, use or sharing of your information should be directed to the contact information listed in the “Contact Us” section below. For complaints that cannot be resolved between Informatica and the complainant, Informatica has agreed to participate in the Safe Harbor dispute resolution procedures of the American Arbitration Association.
+
+### Security
+
+Informatica takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+
+## Your Choices
+
+### Access Rights
+
+If you are a resident of a country that provides you with the right to request a copy of the personal data Informatica holds about you and/or to correct any inaccuracies within such data, and Informatica is required by applicable laws to respond to such requests, then you may address such requests to the contact information provided in the “Contact Us” section below. Informatica will use reasonable efforts to supply, correct or delete information that we hold about you or to advise you if we are not required by applicable laws to comply with such requests.
+
+### Account Information
+
+If you have registered for an account via our Services, you may update, correct or delete your account information by logging into your online account.
+
+### Location Information
+
+Some of our mobile applications collect precise geolocation information from your mobile device. Prior to collecting such information, you will be asked to consent to the application’s collection of this information. If you initially consent to our collection of location information, you may be able to subsequently stop the collection of this information through your device operating system settings. You may also stop our collection of location information by following the standard uninstall process to remove our mobile applications from your device.
+
+### Cookies
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
+
+### Promotional Communications
+
+You may opt out of receiving promotional communications from Informatica by following the instructions provided in those communications or by sending an email to [unsubscribe@informatica.com](mailto:unsubscribe@informatica.com). If you email us to unsubscribe from our commercial email messages, please include the word “UNSUBSCRIBE” in the email subject line. Please note that if you opt out of receiving promotional communications, we may still send you transactional or relationship messages, such as those about your account or our ongoing business relations.
+
+### Your Rights to Prevent Sharing
+
+Residents of California and residents of certain international countries may request certain details, pursuant to applicable laws, about how their information is shared with third parties for direct marketing purposes. If you are a resident of one of these jurisdictions, and would like to make such a request, please contact us at [privacy@informatica.com](mailto:privacy@informatica.com).
+
+### Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at: 
 
 Informatica Corporation   
-Attn: Privacy    
-100 Cardinal Way   
-Redwood City, CA 94063   
-U.S.A.
-
-Informatica Websites may also require you to register to enjoy certain services provided through the site, such as on-line support or on-line education. The information provided in the context of registering for these services is collected to respond to your inquiry, process an order, to provide you with access to specific account information or to enable us to provide you the aforementioned on-line services securely through password protection.
-
-In addition, in order to better understand the needs of the visitors to the Informatica Websites and to adapt the Informatica Websites to these needs, we occasionally conduct on-line surveys. Participation in these surveys is optional. The data collected through these surveys is used for statistical analysis of visitor, Informatica product or product category assessments and for direct marketing purposes.
-
- **2\. Disclosure of Personal Data**  
-Unless we tell you otherwise, we do not sell or rent your personal data to any third parties. When involved in a joint marketing partnership, seminar or similar offering, Informatica may share information which you have submitted to us with the partner company. Your personal data may also be shared with third party contractors, suppliers and service providers that Informatica engages in its normal course of business subject to the applicable non-disclosure obligations.
-
- **3\. Use of “Cookies”**  
-Informatica Websites send “cookies” to your computer to better serve you with more tailored information when you return to the website. A cookie is a small element of data that can be sent by our web site to your browser and stored on your hard drive, not on Informatica's web site. Cookies do not collect information about visitors. Unless you input your Personal Data onto Informatica Websites you cannot be identified and you remain anonymous. You can set most browsers to tell you when you are sent a cookie and to refuse to receive it.
-
- **4\. Transfer of Your Data to Other Entities Belonging to the Group of Informatica Companies and to Third Parties**  
-Informatica may disclose your personal data to other entities belonging to the Informatica group of companies located outside the United States.  In addition, Informatica may disclose your personal data to other entities within the EU belonging to the Informatica group of companies and to third parties located in the EU to the extent that such disclosure is not incompatible with the purposes for which the personal data is collected as mentioned above. 
-
- **5\. Security of Your Data**  
-Informatica takes all commercially reasonable precautions to adequately prevent others from freely accessing the information you provide or that we compile. As you are no doubt aware, however, despite these precautions, zealous hackers may wrongfully gain access to this information. Although such unauthorized access is unlikely, we feel obligated to inform you of the risk and advise you that Informatica is not liable for any damages caused by such unauthorized access.
-
- **6\. Third Party Sites**  
-This policy only addresses our activities from our servers. Other sites (including those that we link to within an advertisement banner or otherwise, and third party sites or services which we cobrand) may have their own policies, which we do not control, and thus are not addressed by this policy.
-
- **7\. EU – US Safe Harbor**     
-Informatica adheres to the Safe Harbor Privacy Principles published by the U.S. Department of Commerce with respect to personal data of residents in the European Economic Area and Switzerland that are passed to the United States.
-
-Informatica is committed to the security of personal data and has implemented administrative, physical and technological safeguards designed to protect it from unauthorized access.
-
-Informatica will engage in periodic self-assessment to verify that it continues to be in compliance with this Privacy Policy.
-
- **8\. Your Right to Access, Correction, and Erasure**  
-You have the right to ask Informatica about the information we hold about you. In addition, you have the right to block, correct, amend or delete any information we hold about you. If you wish to know which information Informatica holds about you or if you wish to correct and update this information, please contact us at:
-
-Informatica Corporation   
-Attn: Privacy    
+Attn: Privacy   
 100 Cardinal Way   
 Redwood City, CA 94063 U.S.A.   
 Fax: 650-385-5500   
 [privacy@informatica.com](mailto:privacy@informatica.com)
-
-Informatica endeavors to honor your request within four weeks of receipt. If you want us to delete your personal data and unsubscribe yourself from any mailing list or e-mail list in the future, we will attend to your demand within four weeks of receiving your e-mail or letter.
-
-In addition, if you have registered on my.informatica.com, you may log onto such site and, using your password, update your personal profile. If you wish to opt out of future marketing communications, please follow the instructions at the bottom of the message received or email us at [privacy@informatica.com](mailto:privacy@informatica.com).
-
-Any questions or concerns regarding the use or disclosure of personal information should be directed to the Informatica Corporation Privacy office at the address listed above. Informatica will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal data in accordance with the principles contained in this Policy. For complaints that cannot be resolved between Informatica and the complainant, Informatica has agreed to participate in the dispute resolution procedures of the American Arbitration Association pursuant to the Safe Harbor Principles.
-
- **9\. Changes to the Privacy Policy**  
-This policy may be amended at any time, so please check back periodically. If you wish to be informed about any such change, please send an e-mail message [privacy@informatica.com](mailto:privacy@informatica.com)  with the subject line “PRIVACY POLICY UPDATES.”
-
-Privacy policy last updated: October 28, 2011
