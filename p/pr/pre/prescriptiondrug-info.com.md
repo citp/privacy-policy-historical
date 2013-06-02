@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prescriptiondrug-info.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223210009id_/http%3A//prescriptiondrug-info.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prescriptiondrug-info.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602034537id_/http%3A//prescriptiondrug-info.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - The People's Medicine Community
 
