@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the adjector.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919084931id_/http%3A//www.adjector.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjector.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602043037id_/http%3A//adjector.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# 
+# AD Jector - Home
 
 | 
 
-### ADjector™ Website Privacy Policy  
+### ADjector™ Website Privacy Policy
+
+  
   
 ---  
   
