@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the youseeu.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111100330id_/http%3A//www.youseeu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youseeu.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602162802id_/https%3A//www.youseeu.com/info/privacy) for the most accurate reproduction.*
 
-# YouSeeU Privacy Policy
+# 
 
-Privacy Policy 
+Privacy Policy
 
 ### Preamble
 
-Youseeu greatly respects its users’ privacy and takes it seriously. This Privacy Policy supplements the Youseeu [Terms of Use](https://web.archive.org/terms.php), and sets forth the terms and conditions relating to users’ privacy as defined below. Capitalized terms in this policy shall have the meaning attributed to them in the Youseeu [Terms of Use](https://web.archive.org/terms.php).
+Youseeu greatly respects its users’ privacy and takes it seriously. This Privacy Policy supplements the Youseeu [Terms of Use](https://web.archive.org/info/terms), and sets forth the terms and conditions relating to users’ privacy as defined below. Capitalized terms in this policy shall have the meaning attributed to them in the Youseeu [Terms of Use](https://web.archive.org/info/terms).
 
 ### What This Privacy Policy Covers
 
