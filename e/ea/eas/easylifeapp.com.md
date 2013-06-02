@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easylifeapp.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230190814id_/http%3A//easylifeapp.com%3Fid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easylifeapp.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602223345id_/http%3A//easylifeapp.com%3Fid%3D2) for the most accurate reproduction.*
 
 # EasyLife App
 
