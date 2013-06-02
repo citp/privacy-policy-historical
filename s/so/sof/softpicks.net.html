@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the softpicks.net privacy policy that was archived on 2012-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010174353id_/http%3A//www.softpicks.net/ppolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the softpicks.net privacy policy that was archived on 2013-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602070927id_/http%3A//www.softpicks.net/ppolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 			<title>Privacy Policy</title>	
@@ -10,7 +10,7 @@
 		<link href="/public/images/tab_widget.css" rel="stylesheet" type="text/css">
 	    
 	
-    
+    <link rel="stylesheet" type="text/css" href="http://s2.softpicks-static.net/autosuggest.css">
 	<link rel="stylesheet" type="text/css" href="http://s2.softpicks-static.net/softpick.css">
 	<link rel="stylesheet" type="text/css" href="/public/images/style.css">
 	<link rel="stylesheet" type="text/css" href="/public/images/forms.css">
@@ -19,14 +19,17 @@
 	
 	<link rel="shortcut icon" type="image/x-icon" href="/public/images/favicon.ico">
     <link rel="stylesheet" type="text/css" href="http://www.softpicks.net/components/fancybox/jquery.fancybox-1.3.4.css" media="screen">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/public/images/softpicks.js"></script>	
-
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+    <script type="text/javascript" src="/public/images/softpicks.js"></script>	
     
+	
+	<script type="text/javascript" src="/public/images/autosuggest.js"></script>
+    
+	
    
 
 
-	 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-     </script> 
+	 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script> 
 <script type="text/javascript">
 GS_googleAddAdSenseService("ca-pub-5953076415493506");
 GS_googleEnableAllServices();
@@ -96,7 +99,7 @@ socialNetIframe.src = "/social.htm";
 		<a href="http://www.softpicks.net/">
 			<img src="/public/images/english/logo.jpg" alt="Free software download">
 		</a>
-		</div>
+		</div><div style="position: relative;top: -47px;left: 527px;width: 58px;height: 58px;"><img src="/public/images/windows_logo.png"></div>
 </div>
 <div id="menubar">
 <div id="menu-search">
@@ -104,43 +107,32 @@ socialNetIframe.src = "/social.htm";
 	<div class="nav4txt_capleft"></div>
 	<div class="nav4txt_textholder">
 		<input type="hidden" name="p" value="1">
-		<input title="" class="nav4_Search" name="sstr" type="text">
+		<input title="" class="nav4_Search" id="search" name="sstr" type="text">
 	</div>
     <div class="nav4txt_capright"></div>
     &nbsp;
 	<input title="" value="Go" alt="" type="image" src="/public/images/but-go-search.gif" align="top">
 </form>
+<script type="text/javascript">
+var options = {
+	json: true,
+	callback: function (obj) { document.location = obj.id; }
+};
+var as = new AutoSuggest('search', options);
+</script>
 </div><div id="menu-links">
-
 	<ul id="globalnav">
-		
-		<li rel="1"><a href="http://www.softpicks.net/desktop.htm"><span></span><strong class="menu-icon-desktop">Desktop</strong></a></li>
-
-		
-		<li rel="2"><a href="http://www.softpicks.net/educat.htm"><span></span><strong class="menu-icon-educat">Education</strong></a></li>
-
-		
-		<li rel="3"><a href="http://www.softpicks.net/business.htm"><span></span><strong class="menu-icon-business">Business</strong></a></li>
-
-		
-		<li rel="4"><a href="http://www.softpicks.net/games.htm"><span></span><strong class="menu-icon-games">Games</strong></a></li>
-
-		
-		<li rel="5"><a href="http://www.softpicks.net/internet.htm"><span></span><strong class="menu-icon-internet">Internet</strong></a></li>
-
-		
-		<li rel="6"><a href="http://www.softpicks.net/multimed.htm"><span></span><strong class="menu-icon-multimed">Audio/Video</strong></a></li>
-
-		
-		<li rel="7"><a href="http://www.softpicks.net/develop.htm"><span></span><strong class="menu-icon-develop">Development</strong></a></li>
-
-		
-		<li rel="8"><a href="http://www.softpicks.net/utils.htm"><span></span><strong class="menu-icon-utils">Utilities</strong></a></li>
-
-	
-</ul>
-
+				<li rel="1"><a href="http://www.softpicks.net/desktop.htm"><span></span><div class="menu-icon-desktop">Desktop</div></a></li>
+				<li rel="2"><a href="http://www.softpicks.net/educat.htm"><span></span><div class="menu-icon-educat">Education</div></a></li>
+				<li rel="3"><a href="http://www.softpicks.net/business.htm"><span></span><div class="menu-icon-business">Business</div></a></li>
+				<li rel="4"><a href="http://www.softpicks.net/games.htm"><span></span><div class="menu-icon-games">Games</div></a></li>
+				<li rel="5"><a href="http://www.softpicks.net/internet.htm"><span></span><div class="menu-icon-internet">Internet</div></a></li>
+				<li rel="6"><a href="http://www.softpicks.net/multimed.htm"><span></span><div class="menu-icon-multimed">Audio/Video</div></a></li>
+				<li rel="7"><a href="http://www.softpicks.net/develop.htm"><span></span><div class="menu-icon-develop">Development</div></a></li>
+				<li rel="8"><a href="http://www.softpicks.net/utils.htm"><span></span><div class="menu-icon-utils">Utilities</div></a></li>
+	</ul>
 </div>
+
 
 </div>
 <div class="main-container">
@@ -263,126 +255,126 @@ socialNetIframe.src = "/social.htm";
 	<div class="body featured">
 	
 		<span class="item">
-			<div class="main_discount" id="36174">
-			<strong style="font-size: 12px;	"><a href="http://www.softpicks.net/software/Audio-Video/Converters-Optimizers/Reshade-Client-36174.htm">Reshade Client</a></strong>
+			<div class="main_discount" id="23182">
+			<strong style="font-size: 12px;	"><a href="http://www.softpicks.net/software/Audio-Video/Audio/Power-ID3-Editor-23182.htm">Power ID3 Editor</a></strong>
 			<div class="sale_icon">
     		<img src="/public/images/sale.png"></div>
 			<span class="img">
-					<a href="http://www.softpicks.net/software/Audio-Video/Converters-Optimizers/Reshade-Client-36174.htm">
-					<img width="160px" src="http://s1.softpicks-static.net/Reshade-Client.gif" alt="Reshade Client free  download">
+					<a href="http://www.softpicks.net/software/Audio-Video/Audio/Power-ID3-Editor-23182.htm">
+					<img width="160px" src="http://s1.softpicks-static.net/Power-ID3-Editor.jpg" alt="Power ID3 Editor free  download">
 				</a>
 			</span>	
-				<strong class="discount_value">Save 20%  
-			<s>199$</s> 159.20$</strong>
+				<strong class="discount_value">Save 30%  
+			<s>14.95$</s> 10.46$</strong>
 			<strong class="expires">
 			
 				
 			</strong>
 			<div class="trial">
-			<a href="http://hotdownloads.com/trialware/download/Download_reshade-install-3.exe?item=17130-1&amp;affiliate=20153" rel="nofollow"><img src="/public/images/download-trial.gif" align="absmiddle"> Download Free trial</a></div>
-			<a href="https://regnow.com/softsell/nph-softsell.cgi?item=17130-1&amp;ss_coupon=RESH-X47I-TWE&amp;ss_short_order=true&amp;affiliate=20153&amp;linkid=rightcol" target="__blank" rel="nofollow">
+			<a href="http://hotdownloads.com/trialware/download/Download_id3editor-track.exe?item=11952-9&amp;affiliate=20153" rel="nofollow"><img src="/public/images/download-trial.gif" align="absmiddle"> Download Free trial</a></div>
+			<a href="https://regnow.com/softsell/nph-softsell.cgi?item=11952-9&amp;ss_coupon=SILI-GI1B-CON&amp;ss_short_order=true&amp;affiliate=20153&amp;linkid=rightcol" target="__blank" rel="nofollow">
 			<div class="buy_discount">
-				<img src="/public/images/english/but-get-full-version.gif" alt="Download full version of Reshade Client">	
+				<img src="/public/images/english/but-get-full-version.gif" alt="Download full version of Power ID3 Editor">	
 			</div>
 			</a>
 	</div>	
 	</span>
 			<span class="item">
-			<div class="main_discount" id="28681">
-			<strong style="font-size: 12px;	"><a href="http://www.softpicks.net/software/Audio-Video/Image-Editors/CuteDraw-28681.htm">CuteDraw</a></strong>
+			<div class="main_discount" id="39797">
+			<strong style="font-size: 12px;	"><a href="http://www.softpicks.net/software/Games/Strategy/Expedition-Delta-39797.htm">Expedition Delta</a></strong>
 			<div class="sale_icon">
     		<img src="/public/images/sale.png"></div>
 			<span class="img">
-					<a href="http://www.softpicks.net/software/Audio-Video/Image-Editors/CuteDraw-28681.htm">
-					<img width="160px" src="http://s1.softpicks-static.net/CuteDraw.jpg" alt="CuteDraw free  download">
+					<a href="http://www.softpicks.net/software/Games/Strategy/Expedition-Delta-39797.htm">
+					<img width="160px" src="http://s1.softpicks-static.net/Expedition-Delta.jpg" alt="Expedition Delta free  download">
 				</a>
 			</span>	
-				<strong class="discount_value">Save 45%  
-			<s>999$</s> 549.45$</strong>
+				<strong class="discount_value">Save 25%  
+			<s>19.95$</s> 14.96$</strong>
 			<strong class="expires">
 			
 				
 			</strong>
 			<div class="trial">
-			<a href="http://hotdownloads.com/trialware/download/Download_PDFViewerSetup.exe?item=14621-1&amp;affiliate=20153" rel="nofollow"><img src="/public/images/download-trial.gif" align="absmiddle"> Download Free trial</a></div>
-			<a href="https://regnow.com/softsell/nph-softsell.cgi?item=14621-1&amp;ss_coupon=CUTE-KT5E&amp;ss_short_order=true&amp;affiliate=20153&amp;linkid=rightcol" target="__blank" rel="nofollow">
+			<a href="http://hotdownloads.com/trialware/download/Download_ed1Demo.exe?item=9236-6&amp;affiliate=20153" rel="nofollow"><img src="/public/images/download-trial.gif" align="absmiddle"> Download Free trial</a></div>
+			<a href="https://regnow.com/softsell/nph-softsell.cgi?item=9236-6&amp;ss_coupon=EDDD-QRP6&amp;ss_short_order=true&amp;affiliate=20153&amp;linkid=rightcol" target="__blank" rel="nofollow">
 			<div class="buy_discount">
-				<img src="/public/images/english/but-get-full-version.gif" alt="Download full version of CuteDraw">	
+				<img src="/public/images/english/but-get-full-version.gif" alt="Download full version of Expedition Delta">	
 			</div>
 			</a>
 	</div>	
 	</span>
 			<span class="item">
-			<div class="main_discount" id="68788">
-			<strong style="font-size: 12px;	"><a href="http://www.softpicks.net/software/Audio-Video/Screen-Capture/Total-Screen-Recorder-Gold-68788.htm">Total Screen Recorder Gold</a></strong>
+			<div class="main_discount" id="32065">
+			<strong style="font-size: 12px;	"><a href="http://www.softpicks.net/software/Utilities/File-Management/Shred-Agent-32065.htm">Shred Agent</a></strong>
 			<div class="sale_icon">
     		<img src="/public/images/sale.png"></div>
 			<span class="img">
-					<a href="http://www.softpicks.net/software/Audio-Video/Screen-Capture/Total-Screen-Recorder-Gold-68788.htm">
-					<img width="160px" src="http://s1.softpicks-static.net/Total-Screen-Recorder-Gold.jpg" alt="Total Screen Recorder Gold free  download">
+					<a href="http://www.softpicks.net/software/Utilities/File-Management/Shred-Agent-32065.htm">
+					<img width="160px" src="http://s1.softpicks-static.net/Shred-Agent.jpg" alt="Shred Agent free  download">
 				</a>
 			</span>	
-				<strong class="discount_value">Save 67%  
-			<s>29.95$</s> 9.88$</strong>
+				<strong class="discount_value">Save 75%  
+			<s>100$</s> 25.00$</strong>
 			<strong class="expires">
 			
 				
 			</strong>
 			<div class="trial">
-			<a href="http://hotdownloads.com/trialware/download/Download_tsr_gd_regnow.exe?item=17469-1&amp;affiliate=20153" rel="nofollow"><img src="/public/images/download-trial.gif" align="absmiddle"> Download Free trial</a></div>
-			<a href="https://regnow.com/softsell/nph-softsell.cgi?item=17469-1&amp;ss_coupon=TOTA-FB9N&amp;ss_short_order=true&amp;affiliate=20153&amp;linkid=rightcol" target="__blank" rel="nofollow">
+			<a href="http://hotdownloads.com/trialware/download/Download_shred_agent_trck.exe?item=4916-27&amp;affiliate=20153" rel="nofollow"><img src="/public/images/download-trial.gif" align="absmiddle"> Download Free trial</a></div>
+			<a href="https://regnow.com/softsell/nph-softsell.cgi?item=4916-279&amp;ss_coupon=AKSL-BVS6-CN&amp;ss_short_order=true&amp;affiliate=20153&amp;linkid=rightcol" target="__blank" rel="nofollow">
 			<div class="buy_discount">
-				<img src="/public/images/english/but-get-full-version.gif" alt="Download full version of Total Screen Recorder Gold">	
+				<img src="/public/images/english/but-get-full-version.gif" alt="Download full version of Shred Agent">	
 			</div>
 			</a>
 	</div>	
 	</span>
 			<span class="item">
-			<div class="main_discount" id="19149">
-			<strong style="font-size: 12px;	"><a href="http://www.softpicks.net/software/Internet/Miscellaneous/Feed-Editor-19149.htm">Feed Editor</a></strong>
+			<div class="main_discount" id="66528">
+			<strong style="font-size: 12px;	"><a href="http://www.softpicks.net/software/Audio-Video/Image-Editors/Image-Compressor-2008-Home-Edition-66528.htm">Image Compressor 2008 Home Edition</a></strong>
 			<div class="sale_icon">
     		<img src="/public/images/sale.png"></div>
 			<span class="img">
-					<a href="http://www.softpicks.net/software/Internet/Miscellaneous/Feed-Editor-19149.htm">
-					<img width="160px" src="http://s1.softpicks-static.net/Feed-Editor.jpg" alt="Feed Editor free  download">
+					<a href="http://www.softpicks.net/software/Audio-Video/Image-Editors/Image-Compressor-2008-Home-Edition-66528.htm">
+					<img width="160px" src="http://s1.softpicks-static.net/Image-Compressor-2008-Home-Edition.jpg" alt="Image Compressor 2008 Home Edition free  download">
 				</a>
 			</span>	
-				<strong class="discount_value">Save 20%  
-			<s>499$</s> 399.20$</strong>
+				<strong class="discount_value">Save 30%  
+			<s>29.99$</s> 20.99$</strong>
 			<strong class="expires">
 			
 				
 			</strong>
 			<div class="trial">
-			<a href="http://hotdownloads.com/trialware/download/Download_FeedEditorSetup.exe?item=13371-1&amp;affiliate=20153" rel="nofollow"><img src="/public/images/download-trial.gif" align="absmiddle"> Download Free trial</a></div>
-			<a href="https://regnow.com/softsell/nph-softsell.cgi?item=13371-10&amp;ss_coupon=EXTR-WQCY&amp;ss_short_order=true&amp;affiliate=20153&amp;linkid=rightcol" target="__blank" rel="nofollow">
+			<a href="http://hotdownloads.com/trialware/download/Download_IMC2008F_6805.exe?item=14865-3&amp;affiliate=20153" rel="nofollow"><img src="/public/images/download-trial.gif" align="absmiddle"> Download Free trial</a></div>
+			<a href="https://regnow.com/softsell/nph-softsell.cgi?item=14865-3&amp;ss_coupon=UPGD-PJSR&amp;ss_short_order=true&amp;affiliate=20153&amp;linkid=rightcol" target="__blank" rel="nofollow">
 			<div class="buy_discount">
-				<img src="/public/images/english/but-get-full-version.gif" alt="Download full version of Feed Editor">	
+				<img src="/public/images/english/but-get-full-version.gif" alt="Download full version of Image Compressor 2008 Home Edition">	
 			</div>
 			</a>
 	</div>	
 	</span>
 			<span class="item">
-			<div class="main_discount" id="65034">
-			<strong style="font-size: 12px;	"><a href="http://www.softpicks.net/software/Desktop/Desktop-Utilities/DupeRAZOR-65034.htm">DupeRAZOR</a></strong>
+			<div class="main_discount" id="46061">
+			<strong style="font-size: 12px;	"><a href="http://www.softpicks.net/software/Audio-Video/Audio-Encoders-Decoders/Bigasoft-iPhone-Ringtone-Maker-46061.htm">Bigasoft iPhone Ringtone Maker</a></strong>
 			<div class="sale_icon">
     		<img src="/public/images/sale.png"></div>
 			<span class="img">
-					<a href="http://www.softpicks.net/software/Desktop/Desktop-Utilities/DupeRAZOR-65034.htm">
-					<img width="160px" src="http://s1.softpicks-static.net/DupeRAZOR.jpg" alt="DupeRAZOR free  download">
+					<a href="http://www.softpicks.net/software/Audio-Video/Audio-Encoders-Decoders/Bigasoft-iPhone-Ringtone-Maker-46061.htm">
+					<img width="160px" src="http://s1.softpicks-static.net/Bigasoft-iPhone-Ringtone-Maker.jpg" alt="Bigasoft iPhone Ringtone Maker free  download">
 				</a>
 			</span>	
-				<strong class="discount_value">Save 40%  
-			<s>19.95$</s> 11.97$</strong>
+				<strong class="discount_value">Save 30%  
+			<s>14.95$</s> 10.46$</strong>
 			<strong class="expires">
 			
 				
 			</strong>
 			<div class="trial">
-			<a href="http://hotdownloads.com/trialware/download/Download_DupeRAZOR_331_Setup.exe?item=15956-3&amp;affiliate=20153" rel="nofollow"><img src="/public/images/download-trial.gif" align="absmiddle"> Download Free trial</a></div>
-			<a href="https://regnow.com/softsell/nph-softsell.cgi?item=15956-3&amp;ss_coupon=UTS-ELN9-FRTY&amp;ss_short_order=true&amp;affiliate=20153&amp;linkid=rightcol" target="__blank" rel="nofollow">
+			<a href="http://hotdownloads.com/trialware/download/Download_b-iphone-ringtone-maker.exe?item=21721-1&amp;affiliate=20153" rel="nofollow"><img src="/public/images/download-trial.gif" align="absmiddle"> Download Free trial</a></div>
+			<a href="https://regnow.com/softsell/nph-softsell.cgi?item=21721-1&amp;ss_coupon=BIGA-JO44&amp;ss_short_order=true&amp;affiliate=20153&amp;linkid=rightcol" target="__blank" rel="nofollow">
 			<div class="buy_discount">
-				<img src="/public/images/english/but-get-full-version.gif" alt="Download full version of DupeRAZOR">	
+				<img src="/public/images/english/but-get-full-version.gif" alt="Download full version of Bigasoft iPhone Ringtone Maker">	
 			</div>
 			</a>
 	</div>	
@@ -428,16 +420,16 @@ socialNetIframe.src = "/social.htm";
 		<span class="item">
 
 
-			<strong><a href="http://www.softpicks.net/software/Business/Databases-Tools/TextMaster-33417.htm" title="TextMaster  download">TextMaster</a></strong>
+			<strong><a href="http://www.softpicks.net/software/Development/XML-CSS-Tools/Legend-of-the-Void-87508.htm" title="Legend of the Void  download">Legend of the Void</a></strong>
 
 
 			<span class="img">
 
 
-				<a href="http://www.softpicks.net/software/Business/Databases-Tools/TextMaster-33417.htm" title="TextMaster">
+				<a href="http://www.softpicks.net/software/Development/XML-CSS-Tools/Legend-of-the-Void-87508.htm" title="Legend of the Void">
 
 
-					<img width="150px" src="http://s1.softpicks-static.net/TextMaster.jpg" alt="TextMaster  download">
+					<img width="150px" src="http://s1.softpicks-static.net/Legend-of-the-Void.jpg" alt="Legend of the Void  download">
 
 
 				</a>
@@ -446,7 +438,7 @@ socialNetIframe.src = "/social.htm";
 			</span>
 
 
-			<span class="text">Open, validate, dedup, split horizontally and vertically, remove columns, reformat, check individual...</span>
+			<span class="text">Play the first of the Legend of the Void series, mixing Diablo and Sonny gameplay together. Explore ...</span>
 
 
 		</span>
@@ -471,34 +463,34 @@ socialNetIframe.src = "/social.htm";
 		</style>
 	<div class="body interact-menu">		
 				<div class="wordpress_categories">
-			<a href="http://www.softpicks.net/blog/category/msn-messager-1.htm">
+			<a href="http://www.softpicks.net/blog/category/freebsd-1.htm">
 			
-			<img src="http://www.softpicks.net/public/images/blog/22/38.gif" align="absmiddle" height="22" alt="MSN Messager news and updates">
-			MSN Messager (57)</a>
+			<img src="http://www.softpicks.net/public/images/blog/22/25.gif" align="absmiddle" height="22" alt="FreeBSD news and updates">
+			FreeBSD (24)</a>
 		</div>
 				<div class="wordpress_categories">
-			<a href="http://www.softpicks.net/blog/category/trillian-1.htm">
+			<a href="http://www.softpicks.net/blog/category/tweaknow-1.htm">
 			
-			<img src="http://www.softpicks.net/public/images/blog/22/54.gif" align="absmiddle" height="22" alt="trillian news and updates">
-			trillian (44)</a>
+			<img src="http://www.softpicks.net/public/images/blog/22/55.gif" align="absmiddle" height="22" alt="TweakNow news and updates">
+			TweakNow (33)</a>
 		</div>
 				<div class="wordpress_categories">
-			<a href="http://www.softpicks.net/blog/category/k-lite-1.htm">
+			<a href="http://www.softpicks.net/blog/category/avast-1.htm">
 			
-			<img src="http://www.softpicks.net/public/images/blog/22/35.gif" align="absmiddle" height="22" alt="K-Lite news and updates">
-			K-Lite (134)</a>
+			<img src="http://www.softpicks.net/public/images/blog/22/16.gif" align="absmiddle" height="22" alt="avast! news and updates">
+			avast! (26)</a>
 		</div>
 				<div class="wordpress_categories">
-			<a href="http://www.softpicks.net/blog/category/agnitum-outpost-firewall-pro-1.htm">
+			<a href="http://www.softpicks.net/blog/category/ati-1.htm">
 			
-			<img src="http://www.softpicks.net/public/images/blog/22/9.gif" align="absmiddle" height="22" alt="Agnitum Outpost Firewall Pro news and updates">
-			Agnitum Outpost Firewall Pro (55)</a>
+			<img src="http://www.softpicks.net/public/images/blog/22/15.gif" align="absmiddle" height="22" alt="ATI news and updates">
+			ATI (17)</a>
 		</div>
 				<div class="wordpress_categories">
-			<a href="http://www.softpicks.net/blog/category/real-1.htm">
+			<a href="http://www.softpicks.net/blog/category/flashfxp-1.htm">
 			
-			<img src="http://www.softpicks.net/public/images/blog/22/48.gif" align="absmiddle" height="22" alt="Real news and updates">
-			Real (84)</a>
+			<img src="http://www.softpicks.net/public/images/blog/22/23.gif" align="absmiddle" height="22" alt="FlashFXP news and updates">
+			FlashFXP (61)</a>
 		</div>
 				
 	</div>
@@ -507,26 +499,26 @@ socialNetIframe.src = "/social.htm";
 <div class="heading" style="font-size: 8px">Most popular DLL files</div>		
 	<div class="body interact-menu">
 <div>
+		<a class="icon-dll" href="http://www.softpicks.net/dll/_2dcleanyuy2_for_25-dll-25282.html">
+		_2dcleanyuy2_for_25.dll</a>
 		<a class="icon-dll" href="http://www.softpicks.net/dll/msvcr100-dll-14493.html">
 		msvcr100.dll</a>
 		<a class="icon-dll" href="http://www.softpicks.net/dll/d3dx9_43-dll-13113.html">
 		d3dx9_43.dll</a>
-		<a class="icon-dll" href="http://www.softpicks.net/dll/msvcp100-dll-14484.html">
-		msvcp100.dll</a>
-		<a class="icon-dll" href="http://www.softpicks.net/dll/d3dcompiler_43-dll-17251.html">
-		d3dcompiler_43.dll</a>
-		<a class="icon-dll" href="http://www.softpicks.net/dll/xlive-dll-15779.html">
-		xlive.dll</a>
-		<a class="icon-dll" href="http://www.softpicks.net/dll/sqlite3-dll-20571.html">
-		sqlite3.dll</a>
 		<a class="icon-dll" href="http://www.softpicks.net/dll/steam_api-dll-15280.html">
 		steam_api.dll</a>
-		<a class="icon-dll" href="http://www.softpicks.net/dll/binkw32-dll-12835.html">
-		binkw32.dll</a>
-		<a class="icon-dll" href="http://www.softpicks.net/dll/fmodex-dll-13393.html">
-		fmodex.dll</a>
+		<a class="icon-dll" href="http://www.softpicks.net/dll/msvcp100-dll-14484.html">
+		msvcp100.dll</a>
+		<a class="icon-dll" href="http://www.softpicks.net/dll/sqlite3-dll-20571.html">
+		sqlite3.dll</a>
+		<a class="icon-dll" href="http://www.softpicks.net/dll/xlive-dll-15779.html">
+		xlive.dll</a>
 		<a class="icon-dll" href="http://www.softpicks.net/dll/x3daudio1_7-dll-21667.html">
 		x3daudio1_7.dll</a>
+		<a class="icon-dll" href="http://www.softpicks.net/dll/d3dx9_42-dll-13112.html">
+		d3dx9_42.dll</a>
+		<a class="icon-dll" href="http://www.softpicks.net/dll/d3dcompiler_43-dll-17251.html">
+		d3dcompiler_43.dll</a>
 </div>
 	</div>
 	<div class="bottom"></div>
@@ -535,16 +527,16 @@ socialNetIframe.src = "/social.htm";
       <div class="portlet">
 		<div class="heading"><a href="http://www.softpicks.net/editor-picks/list-downloads-1-1.htm">Editor picks</a></div>
 		<div class="body interact-menu">
-		<a class="icon-pick" href="http://www.softpicks.net/must-have/Thunderbird-8500.htm">Thunderbird</a>
-		<a class="icon-pick" href="http://www.softpicks.net/must-have/7-Zip-64-bit-28.htm">7-Zip 64-bit</a>
-		<a class="icon-pick" href="http://www.softpicks.net/must-have/DriveImage-XML-2075.htm">DriveImage XML</a>
-		<a class="icon-pick" href="http://www.softpicks.net/must-have/Flash-Player-IE--3196.htm">Flash Player (IE)</a>
-		<a class="icon-pick" href="http://www.softpicks.net/must-have/TeraCopy-8432.htm">TeraCopy</a>
-		<a class="icon-pick" href="http://www.softpicks.net/must-have/DC--1864.htm">DC++</a>
-		<a class="icon-pick" href="http://www.softpicks.net/must-have/SyncToy-32-bit-8374.htm">SyncToy 32-bit</a>
-		<a class="icon-pick" href="http://www.softpicks.net/must-have/CDex-1511.htm">CDex</a>
-		<a class="icon-pick" href="http://www.softpicks.net/must-have/SmartFTP-8030.htm">SmartFTP</a>
 		<a class="icon-pick" href="http://www.softpicks.net/must-have/Audiograbber-774.htm">Audiograbber</a>
+		<a class="icon-pick" href="http://www.softpicks.net/must-have/MySQL-5871.htm">MySQL</a>
+		<a class="icon-pick" href="http://www.softpicks.net/must-have/Logitech-SetPoint-5276.htm">Logitech SetPoint</a>
+		<a class="icon-pick" href="http://www.softpicks.net/must-have/The-Bat-Home-Edition-8445.htm">The Bat! Home Edition</a>
+		<a class="icon-pick" href="http://www.softpicks.net/must-have/AVG-Free-Edition-32-bit-1061.htm">AVG Free Edition 32-bit</a>
+		<a class="icon-pick" href="http://www.softpicks.net/must-have/Google-Toolbar-Firefox--4207.htm">Google Toolbar (Firefox)</a>
+		<a class="icon-pick" href="http://www.softpicks.net/must-have/DAEMON-Tools-1815.htm">DAEMON Tools</a>
+		<a class="icon-pick" href="http://www.softpicks.net/must-have/IcoFX-4364.htm">IcoFX</a>
+		<a class="icon-pick" href="http://www.softpicks.net/must-have/Dropbox-2083.htm">Dropbox</a>
+		<a class="icon-pick" href="http://www.softpicks.net/must-have/Samurize-7568.htm">Samurize</a>
 			</div>
 		<div class="bottom"></div>
            </div>				  
@@ -553,23 +545,23 @@ socialNetIframe.src = "/social.htm";
 		<div class="body interact-menu">
 	
    
-	<a class="icon-review" href="http://www.softpicks.net/software/Business/Office-Suites-Tools/Urdu-Editor-169784.htm">Urdu Editor</a>
+	<a class="icon-review" href="http://www.softpicks.net/software/Utilities/Disk-Utilities/Blancco-Pro-18722.htm">Blancco - Pro</a>
 
 	
    
-	<a class="icon-review" href="http://www.softpicks.net/software/Business/Project-Management/Divorce-Forms-Download-170227.htm">Divorce Forms  Download</a>
+	<a class="icon-review" href="http://www.softpicks.net/software/Audio-Video/MP3/FotoSlate-Photo-Print-Manager-18727.htm">FotoSlate Photo Print Manager</a>
 
 	
    
-	<a class="icon-review" href="http://www.softpicks.net/software/Business/Project-Management/LLC-Operating-Agreement-Download-170271.htm">LLC Operating Agreement Download</a>
+	<a class="icon-review" href="http://www.softpicks.net/software/Business/Finance/ENCORE-Clinic-Software-18745.htm">ENCORE Clinic Software</a>
 
 	
    
-	<a class="icon-review" href="http://www.softpicks.net/software/Business/Project-Management/Loan-Agreement-Download-170272.htm">Loan Agreement Download</a>
+	<a class="icon-review" href="http://www.softpicks.net/software/Business/Miscellaneous/Troy-Ounce-Conversion-Tool-18836.htm">Troy Ounce Conversion Tool</a>
 
 	
    
-	<a class="icon-review" href="http://www.softpicks.net/software/Business/Project-Management/Non-Compete-Agreement-Download-170282.htm">Non Compete Agreement Download</a>
+	<a class="icon-review" href="http://www.softpicks.net/software/Internet/Miscellaneous/BVRP-Connection-Manager-Pro-18837.htm">BVRP Connection Manager Pro</a>
 
 			</div>
 		<div class="bottom"></div>
@@ -604,13 +596,13 @@ socialNetIframe.src = "/social.htm";
 				<a class="bm" href="http://www.softpicks.net/contact.htm" rel="nofollow">Contacts</a>
 				<a class="bm" href="http://www.softpicks.net/today-downloads/software1.htm">Today top downloads</a>
 				
-									<a class="bm" href="http://www.softpicks.net/flash-games/index.html">Online games</a>
-													<a class="bm" href="http://www.softpicks.net/dll/index.html">Download DLL</a>
+				
+									<a class="bm" href="http://www.softpicks.net/dll/index.html">Download DLL</a>
 							
 			 <a class="bm" href="/sitemap/freeware.htm">Freeware Downloads</a>
 				<a class="bm" href="http://www.softpicks.net/searches.php">Popular searches</a><br>
 				<a class="bm" href="/sitemap/index.htm">Site map</a>
-				<a class="bm" href="http://www.softpicks.net/tuse.htm">Terms of use</a>
+				<a class="bm" href="http://www.softpicks.net/fonts/index.htm">TrueType Fonts</a>
 				<a class="bm" href="/ppolicy.htm" rel="nofollow">Privacy Policy</a>
 									<a class="bm" href="http://www.softpicks.net/drivers/">Driver downloads</a>
 													<a class="bm" href="http://www.softpicks.net/game-cheats/list.htm">Game cheats</a>
@@ -618,7 +610,7 @@ socialNetIframe.src = "/social.htm";
 													<a class="bm" href="http://www.softpicks.net/blog/">Software blog</a>
 				                	<a class="bm" href="http://www.softpicks.net/software-reviews/downloads1.htm">Top software reviews</a>
 				</div>
-			<span style="width:100%; PADDING-LEFT:25px;FONT-SIZE:90%;PADDING-BOTTOM:4px;COLOR:#c6c6c6;PADDING-TOP:4px; background-color:#5d678f; float: left;">Copyright © 2012 Software Pick Network. All rights reserved</span>					
+			<span style="width:100%; PADDING-LEFT:25px;FONT-SIZE:90%;PADDING-BOTTOM:4px;COLOR:#c6c6c6;PADDING-TOP:4px; background-color:#5d678f; float: left;">Copyright © 2013 Software Pick Network. All rights reserved</span>					
 
 	<div class="bottom-menu-bottom"></div>	
 
