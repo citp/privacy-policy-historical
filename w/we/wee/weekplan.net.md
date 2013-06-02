@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weekplan.net privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221105350id_/https%3A//weekplan.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weekplan.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602143754id_/http%3A//weekplan.net/privacy) for the most accurate reproduction.*
 
-# Privacy - WEEK PLAN
+# Privacy | WEEK PLAN
 
 This Privacy Policy governs the manner in which Wise Labs Pty Ltd collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://weekplan.net](http://weekplan.net/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Wise Labs Pty Ltd.
 
