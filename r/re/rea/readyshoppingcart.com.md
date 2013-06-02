@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the readyshoppingcart.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212180941id_/http%3A//readyshoppingcart.com/privacy-policy-and-refund-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyshoppingcart.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602040202id_/http%3A//readyshoppingcart.com/privacy-policy-and-refund-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Refund Policy | Ready! E-commerce Wordpress Plugin with Shopping Cart
+# Privacy Policy and Refund Policy | Ready! E-commerce WordPress Plugin with Shopping Cart
 
-**Warning** : Invalid argument supplied for foreach() in **/home/admin/domains/readyshoppingcart.com/public_html/wp-content/themes/ecommerce/single.php** on line **7**
-
- **Privacy Policy**
+**Privacy Policy**
 
 This policy covers how we use your personal information. We take your privacy seriously and will take all measures to protect your personal information.
 
