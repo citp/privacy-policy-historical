@@ -1,18 +1,19 @@
-<!--The following is the downloaded HTML source of the yesstyle.com privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014110208id_/http%3A//www.yesstyle.com/en/help/section.html/hsi.754) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yesstyle.com privacy policy that was archived on 2013-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602220338id_/http%3A//www.yesstyle.com/en/help/section.html/hsi.754) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
     <title>YESSTYLE: Customer Support - Privacy &amp; Security</title>
-    <meta content="Privacy &amp; Security,help, Customer Support, question, answer, support, customer help, yesstyle , yesstyle.com" name="keywords">
-    <meta content="Browse questions and answers at YesStyle’s Customer Support – Privacy &amp; Security section." name="description">
+    <meta name="keywords" content="Privacy &amp; Security,help, Customer Support, question, answer, support, customer help, yesstyle , yesstyle.com">
+    <meta name="description" content="Browse questions and answers at YesStyle’s Customer Support – Privacy &amp; Security section.">
     
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
     <link rel="shortcut icon" href="http://c.ysi.bz/Assets/res/imgs/favicon.ico">
     <link rel="canonical" href="/en/privacy-security/help/section.html/hsi.754">
     
 
-<link rel="stylesheet" type="text/css" href="http://c.ysi.bz/Assets/res/style/Style.css">
-<link rel="stylesheet" type="text/css" href="http://c.ysi.bz/Assets/res/style/Style_en.css">
+<link rel="stylesheet" href="http://c.ysi.bz/Assets/res/style/Style1.css" type="text/css">
+<link rel="stylesheet" href="http://c.ysi.bz/Assets/res/style/Style_en.css" type="text/css">
 
  
 <!--[if gte IE 5.5]>
@@ -30,29 +31,30 @@ div#floatcol{
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://j.ysi.bz/Assets/res/scripts/jquery.js" type="text/javascript"></script>
 <script src="http://j.ysi.bz/Assets/res/scripts/plugin.js" type="text/javascript"></script>
 
-  
-<script id="com-yesasia-yesstyle-web-wicket-panel-header-Header-0" type="text/javascript">
-$(document).ready(function(){
-    $("#bcribbon").hover(
-      function(){
-var e=$(this).next(".hidetips").html();         
-$(this).append("<span id='popcon'><div class='shadow'></div><div class='explanation' style='white-space:nowrap'><div id='speaker'></div>"+e+"</div></span>");
-$(this).poplocation({
-	container:"#popcon",
-  obj:".explanation",
-  shadow:".shadow",
-  speaker:"#speaker",
-  direction:1
-})
-      },
-      function(){
-        $("#popcon",this).remove().IEoverlap("hidden");
-      }
-    )
-  })
-</script>  
-<script type="text/javascript" src="../../../resources/org.apache.wicket.markup.html.WicketEventReference/wicket-event.js"></script>
+  <script type="text/javascript" src="../../../resources/org.apache.wicket.markup.html.WicketEventReference/wicket-event.js"></script>
 <script type="text/javascript" src="../../../resources/org.apache.wicket.ajax.WicketAjaxReference/wicket-ajax.js"></script>
+
+<script type="text/javascript" id="com-yesasia-yesstyle-web-wicket-panel-signinalert-SignInAlert-0">
+// TODO move to header.html
+function showSignInAlert(e){
+    // remove first each time
+    var pop=$("#popcon");
+    pop.click(function(event){event.stopImmediatePropagation()});
+    pop.remove();
+    
+    // construct the popup
+    var container=$(".signInAlertContainer").html();
+    $(e).before("<span id='popcon'><div class='shadow'></div><div class='explanation'><div id='speaker'></div>"+container+"</div></span>");
+    $(e).poplocation({
+        container:"#popcon",
+        obj:".explanation",
+        shadow:".shadow",
+        speaker:"#speaker",
+        direction:2
+    });    
+    return false;
+}
+</script>
 
 <script type="text/javascript">function isLocked() {  var COOKIE_LOCK = null;  if (document.cookie && document.cookie != '') {      var cookies = document.cookie.split(';');      var name = 'LOCK';      for (var i = 0; i < cookies.length; i++) {var cookie = jQuery.trim(cookies[i]);if (cookie.substring(0, name.length + 1) == (name + '=')) {    COOKIE_LOCK = decodeURIComponent(cookie.substring(name.length + 1));    break;}      }  }  return COOKIE_LOCK != null;}function keepAlive() {  if (isLocked()) {    setTimeout("keepAlive()", 330000);  } else {    setTimeout("doKeepAlive()", 1000 + Math.floor(Math.random()*4000));  }}function doKeepAlive() {  if (!isLocked()) {    $.ajax({      url: '/en/keep-alive.html',      async: false,      cache: false,      success: function(data) {        if (data == "1") {setTimeout("keepAlive()", 330000);        }      },      error: function() {      }    });  } else {    setTimeout("keepAlive()", 330000);  }}setTimeout("keepAlive()", 330000);</script>
 </head>
@@ -78,41 +80,37 @@ $(this).poplocation({
        
 	     
       
-        Welcome to YesStyle.com. <a href="https://www.yesstyle.com/en/secure/sign-in.html">Sign in</a> to receive your <a href="/en/elite-club.html">ELITE CLUB</a> discounts. Not a member? <a href="https://www.yesstyle.com/en/secure/sign-up.html">Register now</a>
+        Welcome to YesStyle.com. <a href="https://www.yesstyle.com/en/secure/sign-in.html">Sign in</a> to get your Elite Club discounts. Learn more about our <a href="/en/elite-club.html" class="badge">UPDATED Elite Club</a>. <a href="https://www.yesstyle.com/en/secure/sign-up.html">Join now!</a>
       
 	</span>
 	
 		<div id="switchLang">
-		  <a class="on" href="javascript:void(0)">English</a><a rel="nofollow" href="http://www.yesstyle.com/zh_TW/help/section.html/hsi.754">繁體中文</a><a rel="nofollow" href="http://www.yesstyle.com/zh_CN/help/section.html/hsi.754">简体中文</a>
+		  <a href="javascript:void(0)" class="on">English</a><a href="http://www.yesstyle.com/zh_TW/help/section.html/hsi.754" rel="nofollow">繁體中文</a><a href="http://www.yesstyle.com/zh_CN/help/section.html/hsi.754" rel="nofollow">简体中文</a>
 		
 		</div>
 	    
 	</div>
     <div id="bgTop">
       
-        
-        <a id="bcribbon" href="/en/list.html/bcc.11143_vn.35_bpt.46_bt.37_cf.7"><img alt="Pink it with YesStyle" src="http://c.ysi.bz/Assets/res/imgs/pink-ribbon.png"></a>  
-        <span class="hidetips"><b style="color:#DF6F94">Pink it with YesStyle</b><br>You shop, we donate!</span>
-      
     </div>
 	<div id="ysHeader">
   
-	  <a href="/en/home.html"><img id="ysLogo" alt="YesStyle.com - A new way of style" src="http://c.ysi.bz/Assets/res/imgs/logo_ys.gif"></a>
+	  <a href="/en/home.html"><img src="http://c.ysi.bz/Assets/res/imgs/logo_ys.gif" alt="YesStyle.com - A new way of style" id="ysLogo"></a>
 	  <div id="headerFunctions">
   		  <ul id="menuItems">
   		    <li><a href="/en/help/main.html">Customer Service</a></li>
-  		    <li><a rel="nofollow" href="https://www.yesstyle.com/en/secure/myaccount/summary.html">My Account</a></li>
-  		    <li><a rel="nofollow" href="/en/saved-items.html">Saved Items (<b id="wishListItemsCount">0</b>)</a></li>
-  		    <li><a class="shoppingBag" rel="nofollow" href="/en/shopping-bag.html">Shopping Bag (<b id="bastketItemsCount">0</b>)</a></li>
+  		    <li><a href="https://www.yesstyle.com/en/secure/myaccount/summary.html" rel="nofollow">My Account</a></li>
+  		    <li><a href="/en/saved-items.html" rel="nofollow">Saved Items (<b id="wishListItemsCount">0</b>)</a></li>
+  		    <li><a href="/en/shopping-bag.html" class="shoppingBag" rel="nofollow">Shopping Bag (<b id="bastketItemsCount">0</b>)</a></li>
   		  </ul>
 		  <div id="searchBlock">
-	      <a class="freeShipping" href="/en/help/section.html/hsi.732#1536"><span>FREE International Express Shipping</span></a>      
-	      <form name="search" action="/en/redirect-to-search.html" class="searchBox" method="post" onsubmit="return (this.q.value)?true:false;">
+	      <a href="/en/help/section.html/hsi.732#1536" class="freeShipping"><span>FREE International Express Shipping</span></a>      
+	      <form name="search" method="post" class="searchBox" action="/en/redirect-to-search.html" onsubmit="return (this.q.value)?true:false;">
 	        <select name="ss">
-		        <option selected="true" value="120">All Products</option><option value="127">Women</option><option value="177">YesStyle Exclusives</option><option value="126">Men</option><option value="122">Jewelry</option><option value="121">Beauty</option><option value="128">Shoes</option><option value="123">Bags</option><option value="124">Accessories</option>
+		        <option value="120" selected="true">All Products</option><option value="127">Women</option><option value="126">Men</option><option value="122">Jewelry</option><option value="121">Beauty</option><option value="128">Shoes</option><option value="123">Bags</option><option value="197">Accessories</option><option value="191">Lifestyle</option>
 		      
 	        </select> 
-	        <input name="q" value="" class="keyin" type="text" size="20"><input value="Search" class="button searchButton" type="submit">
+	        <input type="text" name="q" value="" size="20" class="keyin"><input type="submit" value="Search" class="button searchButton">
 	      </form>      
 		  </div>
 	  </div>
@@ -123,7 +121,7 @@ $(this).poplocation({
   <div id="header-nav">
     <span xmlns:wicket="http://wicket.apache.org">
 <ul id="navigationBar">
-  <li><a class="women" href="/en/women.html"><span>Women</span></a>
+  <li><a href="/en/women.html" class="women"><span>Women</span></a>
   
   <div class="dropdown">
     <div class="dropmenu">
@@ -139,7 +137,7 @@ $(this).poplocation({
    
         <ul>
         
-        <li><a href="http://www.yesstyle.com/en/list.html/bcc.11143_bpt.46_bt.37_oc.6">Weekly Deals<span class="iconnew2"><span>New</span></span></a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11143_bpt.46_bt.37_oc.1">Autumn New Arrivals</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11143_bpt.46_bt.37_oc.2">Ready to Ship</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11143_bpt.46_bt.37_oc.4">YesStyle Recommends</a></li><li><a href="http://www.yesstyle.com/en/style-tips.html">Style Tips: Ask Nikki!</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11143_bpt.46_bt.37_oc.5">Sale</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11143_pr.0%7E25_bpt.46_bt.37">Women's Fashion &lt; $25</a></li>      
+        <li><a href="http://www.yesstyle.com/en/list.html/bcc.11143_bpt.46_bt.37_oc.1">Summer New Arrivals</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11143_bpt.46_bt.37_oc.2">Ready to Ship</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11143_bpt.46_bt.37_bcs.1">Korean Fashion</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11143_bpt.46_bt.37_oc.4">YesStyle Recommends</a></li><li><a href="http://www.yesstyle.com/en/style-tips.html">Style Tips: Ask Nikki!</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11143_bpt.46_bt.37_oc.5">Sale</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11143_pr.0%7E25_bpt.46_bt.37">Women's Fashion &lt; $25</a></li>      
         </ul>
         
       </span><span class="special">
@@ -148,7 +146,7 @@ $(this).poplocation({
    
         <ul>
         
-        <li><a href="http://www.yesstyle.com/en/list.html/sb.136_bcc.12460_pn.1_vn.35_bpt.46">Purple Rhapsody</a></li><li><a href="http://www.yesstyle.com/en/list.html/sb.136_bcc.12461_pn.1_vn.35_bpt.46">Titanium Gray</a></li><li><a href="http://www.yesstyle.com/en/list.html/sb.136_bcc.12462_pn.1_vn.35_bpt.46">Rhubarb Red</a></li><li><a href="http://www.yesstyle.com/en/list.html/sb.136_pn.1_vn.35_bpt.46_bt.250_pgpid.1031398382">Autumn Eye Shadow</a></li>      
+        <li><a href="http://www.yesstyle.com/en/list.html/sb.136_bcc.12652_pn.1_vn.35_bpt.46">Your Sundae Best</a></li><li><a href="http://www.yesstyle.com/en/list.html/sb.136_bcc.12623_pn.1_vn.35_bpt.46_bt.37">From Rush to Happy Hour</a></li><li><a href="http://www.yesstyle.com/en/list.html/sb.163_bcc.12629_pn.1_vn.35_bpt.46_bt.37">The Androgynous Fix</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.12649_bpt.46_bt.37">Monochrome</a></li>      
         </ul>
         
       </span><span class="category catcol3">
@@ -157,7 +155,7 @@ $(this).poplocation({
    
         <ul>
         
-        <li><a href="/en/tees-t-shirts/list.html/bcc.11359_bpt.46">Tees / T-Shirts</a></li><li><a href="/en/casual-tops/list.html/bcc.11162_bpt.46">Casual Tops</a></li><li><a href="/en/blouses-shirts/list.html/bcc.11160_bpt.46">Blouses &amp; Shirts</a></li><li><a href="/en/dresses/list.html/bcc.11158_bpt.46">Dresses</a></li><li><a href="/en/knits/list.html/bcc.11161_bpt.46">Knits</a></li><li><a href="/en/denims-jeans/list.html/bcc.11166_bpt.46">Denims &amp; Jeans</a></li><li><a href="/en/pants/list.html/bcc.11169_bpt.46">Pants</a></li><li><a href="/en/skirts/list.html/bcc.11168_bpt.46">Skirts</a></li><li><a href="/en/shorts/list.html/bcc.11882_bpt.46">Shorts</a></li><li><a href="/en/playsuits-jumpsuits/list.html/bcc.11953_bpt.46">Playsuits &amp; Jumpsuits</a></li><li><a href="/en/yoga-fitness/list.html/bcc.11314_bpt.46">Yoga &amp; Fitness</a></li><li><a href="/en/sets/list.html/bcc.11159_bpt.46">Sets</a></li><li><a href="/en/swimwear/list.html/bcc.11275_bpt.46">Swimwear</a></li><li><a href="/en/hoodies/list.html/bcc.11916_bpt.46">Hoodies</a></li><li><a href="/en/sweatshirts-hoodies/list.html/bcc.11910_bpt.46">Sweatshirts &amp; Hoodies</a></li><li><a href="/en/jackets-blazers/list.html/bcc.11163_bpt.46">Jackets &amp; Blazers</a></li><li><a href="/en/outerwear/list.html/bcc.11164_bpt.46">Outerwear</a></li><li><a href="/en/belts/list.html/bcc.11262_bpt.46">Belts</a></li><li><a href="/en/hats-scarves/list.html/bcc.11263_bpt.46">Hats &amp; Scarves</a></li><li><a href="/en/leggings/list.html/bcc.12171_bpt.46">Leggings</a></li><li><a href="/en/hosiery/list.html/bcc.11374_bpt.46">Hosiery</a></li><li><a href="/en/innerwear/list.html/bcc.11295_bpt.46">Innerwear</a></li><li><a href="/en/plus-size-larger-sizes/list.html/bcc.11561_bpt.46">Plus-Size &amp; Larger Sizes</a></li>      
+        <li><a href="/en/tees-t-shirts/list.html/bcc.11359_bpt.46">Tees / T-Shirts</a></li><li><a href="/en/casual-tops/list.html/bcc.11162_bpt.46">Casual Tops</a></li><li><a href="/en/blouses-shirts/list.html/bcc.11160_bpt.46">Blouses &amp; Shirts</a></li><li><a href="/en/dresses/list.html/bcc.11158_bpt.46">Dresses</a></li><li><a href="/en/knits/list.html/bcc.11161_bpt.46">Knits</a></li><li><a href="/en/denims-jeans/list.html/bcc.11166_bpt.46">Denims &amp; Jeans</a></li><li><a href="/en/pants/list.html/bcc.11169_bpt.46">Pants</a></li><li><a href="/en/skirts/list.html/bcc.11168_bpt.46">Skirts</a></li><li><a href="/en/shorts/list.html/bcc.11882_bpt.46">Shorts</a></li><li><a href="/en/playsuits-jumpsuits/list.html/bcc.11953_bpt.46">Playsuits &amp; Jumpsuits</a></li><li><a href="/en/yoga-fitness/list.html/bcc.11314_bpt.46">Yoga &amp; Fitness</a></li><li><a href="/en/sets/list.html/bcc.11159_bpt.46">Sets</a></li><li><a href="/en/swimwear/list.html/bcc.11275_bpt.46">Swimwear</a></li><li><a href="/en/hoodies/list.html/bcc.11916_bpt.46">Hoodies</a></li><li><a href="/en/sweatshirts-hoodies/list.html/bcc.11910_bpt.46">Sweatshirts &amp; Hoodies</a></li><li><a href="/en/jackets-blazers/list.html/bcc.11163_bpt.46">Jackets &amp; Blazers</a></li><li><a href="/en/outerwear/list.html/bcc.11164_bpt.46">Outerwear</a></li><li><a href="/en/belts/list.html/bcc.11262_bpt.46">Belts</a></li><li><a href="/en/hats-scarves/list.html/bcc.11263_bpt.46">Hats &amp; Scarves</a></li><li><a href="/en/leggings/list.html/bcc.12171_bpt.46">Leggings</a></li><li><a href="/en/hosiery/list.html/bcc.11374_bpt.46">Hosiery</a></li><li><a href="/en/innerwear-shapewear/list.html/bcc.11295_bpt.46">Innerwear / Shapewear</a></li><li><a href="/en/plus-size-larger-sizes/list.html/bcc.11561_bpt.46">Plus-Size &amp; Larger Sizes</a></li><li><a href="/en/maternity/list.html/bcc.11585_bpt.46">Maternity</a></li>      
         </ul>
         
       </span>
@@ -172,7 +170,7 @@ $(this).poplocation({
   </div>
 
   </li>
-  <li><a class="men" href="/en/men.html"><span>Men</span></a>
+  <li><a href="/en/men.html" class="men"><span>Men</span></a>
   
   <div class="dropdown">
     <div class="dropmenu">
@@ -188,7 +186,7 @@ $(this).poplocation({
    
         <ul>
         
-        <li><a href="http://www.yesstyle.com/en/list.html/bcc.11276_bpt.46_bt.37_oc.6">Weekly Deals<span class="iconnew2"><span>New</span></span></a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11276_bpt.46_bt.37_oc.1">Autumn New Arrivals</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11276_bpt.46_bt.37_oc.2">Ready to Ship</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11276_bpt.46_bt.37_oc.4">YesStyle Recommends</a></li><li><a href="http://www.yesstyle.com/en/style-tips.html">Style Tips: Ask Nikki!</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11276_bpt.46_bt.37_oc.5">Sale</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11276_pr.0%7E30_bpt.46_bt.37">Men's Fashion &lt; $30</a></li>      
+        <li><a href="http://www.yesstyle.com/en/list.html/bcc.11276_bpt.46_bt.37_oc.1">Summer New Arrivals</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11276_bpt.46_bt.37_oc.2">Ready to Ship</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11276_bpt.46_bt.37_oc.4">YesStyle Recommends</a></li><li><a href="http://www.yesstyle.com/en/style-tips.html">Style Tips: Ask Nikki!</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11276_bpt.46_bt.37_oc.5">Sale</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11276_pr.0%7E30_bpt.46_bt.37">Men's Fashion &lt; $30</a></li>      
         </ul>
         
       </span><span class="special">
@@ -197,7 +195,7 @@ $(this).poplocation({
    
         <ul>
         
-        <li><a href="http://www.yesstyle.com/en/list.html/sb.136_pn.1_vn.35_bpt.46_bt.250_pgpid.1031398298">True Colors</a></li>      
+        <li><a href="http://www.yesstyle.com/en/list.html/sb.163_bcc.12629_pn.1_vn.35_bpt.46_bt.37">The Androgynous Fix</a></li>      
         </ul>
         
       </span><span class="category catcol3">
@@ -221,54 +219,15 @@ $(this).poplocation({
   </div>
 
   </li>
-  <li><a class="ysexclusives" href="/en/exclusives.html"><span>YesStyle Exclusives</span></a>
-  
-  <div class="dropdown">
-    <div class="dropmenu">
-    
-
-
-    
-      
-    
-      <span class="special ysexclusiveColWidth">
-    
-        <b class="title">For Women</b>
-   
-        <ul class="subcat width01">
-        
-        <li><a href="/en/list.html/bcc.12106_bpt.46_oc.1">New Arrivals</a></li><li><a href="/en/list.html/bcc.12106_bpt.46_oc.2">Ready to Ship</a></li><li><a href="/en/list.html/bcc.12106_bpt.46_oc.4">YesStyle Recommends</a></li><li><a href="/en/list.html/bcc.12106_bpt.46_oc.5">Sale</a></li>      
-        </ul><ul class="subcat width02">
-        
-        <li><a href="/en/yeswalker/list.html/bpt.299_bid.312725"><img src="http://c.ysi.bz/Assets/res/imgs/brandicon/yeswalker.gif"></a></li><li><a href="/en/59-seconds/list.html/bpt.299_bid.234274"><img src="http://c.ysi.bz/Assets/res/imgs/brandicon/59seconds.gif"></a></li><li><a href="/en/59th-street/list.html/bpt.299_bid.311743"><img src="http://c.ysi.bz/Assets/res/imgs/brandicon/59thstreet.gif"></a></li><li><a href="/en/ageha-shibuya/list.html/bpt.299_bid.311684"><img src="http://c.ysi.bz/Assets/res/imgs/brandicon/ageha.gif"></a></li><li><a href="/en/prischu-essentials/list.html/bpt.299_bid.311623"><img src="http://c.ysi.bz/Assets/res/imgs/brandicon/prischu_essentials.gif"></a></li><li><a href="/en/so-central/list.html/bpt.299_bid.312209"><img src="http://c.ysi.bz/Assets/res/imgs/brandicon/socentral.gif"></a></li>      
-        </ul>
-        
-      </span><span class="special ysexclusiveColWidth fixright">
-    
-        <b class="title">For Men</b>
-   
-        <ul class="subcat width01">
-        
-        <li><a href="/en/list.html/bcc.12107_bpt.46_oc.1">New Arrivals</a></li><li><a href="/en/list.html/bcc.12107_bpt.46_oc.2">Ready to Ship</a></li><li><a href="/en/list.html/bcc.12107_bpt.46_oc.4">YesStyle Recommends</a></li><li><a href="/en/list.html/bcc.12107_bpt.46_oc.5">Sale</a></li>      
-        </ul><ul class="subcat width02">
-        
-        <li><a href="/en/black-asuka-men/list.html/bcc.11276_bpt.299_bid.311885"><img src="http://c.ysi.bz/Assets/res/imgs/brandicon/blackasuka.gif"></a></li><li><a href="/en/nannom-men/list.html/bcc.11276_bpt.299_bid.310352"><img src="http://c.ysi.bz/Assets/res/imgs/brandicon/nannom.gif"></a></li><li><a href="/en/59-seconds-glasses-sunglasses/list.html/bcc.12074_bpt.299_bid.234274"><img src="http://c.ysi.bz/Assets/res/imgs/brandicon/59seconds.gif"></a></li>      
-        </ul>
-        
-      </span>
-      
-
-
-
-
-
-
-    </div>
-  </div>
- 
+  <!--
+  <li wicket:id="exclusiveNavigation"><a wicket:id="exclusiveLink" href="/page/ystemplatepage/browsepage/YesStyleExclusivesPage.html" class="ysexclusives"><span wicket:id="exclusiveText">YesStyle Exclusives</span></a>
+  <wicket:container wicket:id="panel.dropDown"><wicket:remove><![CDATA[<?php echo "]]>";
+    $dmSection="ysexclusives"; eval($DropDownMenu);
+  echo "<![CDATA[" ?>]]></wicket:remove></wicket:container> 
   </li>
+  -->
          
-  <li><a class="beauty" href="/en/beauty.html"><span>Beauty</span></a>
+  <li><a href="/en/beauty.html" class="beauty"><span>Beauty</span></a>
   
   <div class="dropdown">
     <div class="dropmenu">
@@ -284,7 +243,7 @@ $(this).poplocation({
    
         <ul>
         
-        <li><a href="http://www.yesstyle.com/en/list.html/bcc.11213_vn.35_bpt.46_bt.37_oc.6">Weekly Deals<span class="iconnew2"><span>New</span></span></a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11213_bpt.46_bt.37_oc.1">Autumn New Arrivals</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11213_bpt.46_bt.37_oc.2">Ready to Ship</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11213_bpt.46_bt.37_oc.4">YesStyle Recommends</a></li><li><a href="http://www.yesstyle.com/en/style-tips.html">Style Tips: Ask Nikki!</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11213_bpt.46_bt.37_oc.5">Sale</a></li>      
+        <li><a href="http://www.yesstyle.com/en/list.html/bcc.11213_bpt.46_bt.37_oc.1">Summer New Arrivals</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11213_bpt.46_bt.37_oc.2">Ready to Ship</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11213_bpt.46_bt.37_oc.4">YesStyle Recommends</a></li><li><a href="http://www.yesstyle.com/en/style-tips.html">Style Tips: Ask Nikki!</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11213_bpt.46_bt.37_oc.5">Sale</a></li>      
         </ul>
         
       </span><span class="special">
@@ -293,7 +252,7 @@ $(this).poplocation({
    
         <ul>
         
-        <li><a href="http://www.yesstyle.com/en/list.html/sb.136_pn.1_vn.35_bpt.46_bt.250_pgpid.1031743642">Moisturizing Sheet Masks &amp; Creams</a></li>      
+        <li><a href="http://www.yesstyle.com/en/list.html/bcc.11213_bpt.46_bcs.1">Korean Beauty Products</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11215_bpt.46_bt.37_bcs.2">Cosmetics from Japan</a></li>      
         </ul>
         
       </span><span class="category catcol2">
@@ -317,7 +276,7 @@ $(this).poplocation({
   </div>
 
   </li>
-  <li><a class="jewelry" href="/en/jewelry.html"><span>Jewelry</span></a>
+  <li><a href="/en/jewelry.html" class="jewelry"><span>Jewelry</span></a>
   
   <div class="dropdown">
     <div class="dropmenu">
@@ -333,7 +292,7 @@ $(this).poplocation({
    
         <ul>
         
-        <li><a href="http://www.yesstyle.com/en/list.html/bcc.10864_bpt.46_bt.37_oc.1">Autumn New Arrivals</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.10864_bpt.46_bt.37_oc.2">Ready to Ship</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.10864_bpt.46_bt.37_oc.4">YesStyle Recommends</a></li><li><a href="http://www.yesstyle.com/en/style-tips.html">Style Tips: Ask Nikki!</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.10864_bpt.46_bt.37_oc.5">Sale</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.10864_pr.0%7E100_bpt.46_bt.37">Jewelry &lt; $100</a></li>      
+        <li><a href="http://www.yesstyle.com/en/list.html/bcc.10864_bpt.46_bt.37_oc.1">Summer New Arrivals</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.10864_bpt.46_bt.37_oc.2">Ready to Ship</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.10864_bpt.46_bt.37_oc.4">YesStyle Recommends</a></li><li><a href="http://www.yesstyle.com/en/style-tips.html">Style Tips: Ask Nikki!</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.10864_bpt.46_bt.37_oc.5">Sale</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.10864_pr.0%7E100_bpt.46_bt.37">Jewelry &lt; $100</a></li>      
         </ul>
         
       </span><span class="category catcol2">
@@ -358,7 +317,7 @@ $(this).poplocation({
 
   </li>
   
-  <li><a class="shoes" href="/en/shoes.html"><span>Shoes</span></a>
+  <li><a href="/en/shoes.html" class="shoes"><span>Shoes</span></a>
   
   <div class="dropdown">
     <div class="dropmenu">
@@ -374,19 +333,19 @@ $(this).poplocation({
    
         <ul>
         
-        <li><a href="http://www.yesstyle.com/en/list.html/bcc.11527_vn.35_bpt.46_bt.37_oc.6">Weekly Deals<span class="iconnew2"><span>New</span></span></a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11527_bpt.46_bt.37_oc.1">Autumn New Arrivals</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11527_bpt.46_bt.37_oc.2">Ready to Ship</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11527_bpt.46_bt.37_oc.4">YesStyle Recommends</a></li><li><a href="http://www.yesstyle.com/en/style-tips.html">Style Tips: Ask Nikki!</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11527_bpt.46_bt.37_oc.5">Sale</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11529_pr.0%7E50_bpt.46_bt.37">Women's Shoes &lt; $50</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11537_pr.0%7E50_bpt.46_bt.37">Men's Shoes &lt; $50</a></li>      
+        <li><a href="http://www.yesstyle.com/en/list.html/bcc.11527_bpt.46_bt.37_oc.1">Summer New Arrivals</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11527_bpt.46_bt.37_oc.2">Ready to Ship</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11527_bpt.46_bt.37_oc.4">YesStyle Recommends</a></li><li><a href="http://www.yesstyle.com/en/style-tips.html">Style Tips: Ask Nikki!</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11527_bpt.46_bt.37_oc.5">Sale</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11529_pr.0%7E50_bpt.46_bt.37">Women's Shoes &lt; $50</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11537_pr.0%7E50_bpt.46_bt.37">Men's Shoes &lt; $50</a></li>      
         </ul>
         
-      </span><span class="category catcol2">
+      </span><span class="category catcol3">
     
         <b class="title">Categories</b>
    
         <ul class="subcat">
         
-        <li><a href="/en/womens-shoes/list.html/bcc.11529_bpt.46"><b>Women's Shoes</b></a></li><li><a href="/en/sandals/list.html/bcc.11533_bpt.46">Sandals</a></li><li><a href="/en/pumps/list.html/bcc.11532_bpt.46">Pumps</a></li><li><a href="/en/loafers-flats/list.html/bcc.11531_bpt.46">Loafers &amp; Flats</a></li><li><a href="/en/boots/list.html/bcc.11530_bpt.46">Boots</a></li><li><a href="/en/sneakers/list.html/bcc.11534_bpt.46">Sneakers</a></li><li><a href="/en/slip-ons/list.html/bcc.11955_bpt.46">Slip-Ons</a></li><li><a href="/en/wedges-clogs/list.html/bcc.11536_bpt.46">Wedges &amp; Clogs</a></li>      
+        <li><a href="/en/womens-shoes/list.html/bcc.11529_bpt.46"><b>Women's Shoes</b></a></li><li><a href="/en/boots/list.html/bcc.11530_bpt.46">Boots</a></li><li><a href="/en/flats/list.html/bcc.11531_bpt.46">Flats</a></li><li><a href="/en/pumps/list.html/bcc.11532_bpt.46">Pumps</a></li><li><a href="/en/oxfords-lace-ups/list.html/bcc.12561_bpt.46">Oxfords &amp; Lace-Ups</a></li><li><a href="/en/moccasins-loafers/list.html/bcc.12560_bpt.46">Moccasins &amp; Loafers</a></li><li><a href="/en/sandals/list.html/bcc.11533_bpt.46">Sandals</a></li><li><a href="/en/platforms/list.html/bcc.12562_bpt.46">Platforms</a></li><li><a href="/en/wedges-clogs/list.html/bcc.11536_bpt.46">Wedges &amp; Clogs</a></li><li><a href="/en/sneakers/list.html/bcc.11534_bpt.46">Sneakers</a></li><li><a href="/en/slip-ons/list.html/bcc.11955_bpt.46">Slip-Ons</a></li><li><a href="/en/flip-flops/list.html/bcc.12606_bpt.46">Flip-Flops</a></li><li><a href="/en/slippers/list.html/bcc.12607_bpt.46">Slippers</a></li><li><a href="/en/shoes-accessories/list.html/bcc.12390_bpt.46">Shoes Accessories</a></li>      
         </ul><ul class="subcat">
         
-        <li><a href="/en/mens-shoes/list.html/bcc.11537_bpt.46"><b>Men's Shoes</b></a></li><li><a href="/en/dress-shoes/list.html/bcc.11539_bpt.46">Dress Shoes</a></li><li><a href="/en/casual-shoes/list.html/bcc.12095_bpt.46">Casual Shoes</a></li><li><a href="/en/sandals/list.html/bcc.11540_bpt.46">Sandals</a></li><li><a href="/en/boots/list.html/bcc.11538_bpt.46">Boots</a></li><li><a href="/en/sneakers/list.html/bcc.11541_bpt.46">Sneakers</a></li><li><a href="/en/slip-ons/list.html/bcc.11956_bpt.46">Slip-Ons</a></li><li><a href="/en/others/list.html/bcc.11543_bpt.46">Others</a></li>      
+        <li><a href="/en/mens-shoes/list.html/bcc.11537_bpt.46"><b>Men's Shoes</b></a></li><li><a href="/en/dress-shoes/list.html/bcc.11539_bpt.46">Dress Shoes</a></li><li><a href="/en/casual-shoes/list.html/bcc.12095_bpt.46">Casual Shoes</a></li><li><a href="/en/sandals/list.html/bcc.11540_bpt.46">Sandals</a></li><li><a href="/en/boots/list.html/bcc.11538_bpt.46">Boots</a></li><li><a href="/en/sneakers/list.html/bcc.11541_bpt.46">Sneakers</a></li><li><a href="/en/slip-ons/list.html/bcc.11956_bpt.46">Slip-Ons</a></li><li><a href="/en/flip-flops/list.html/bcc.12609_bpt.46">Flip-Flops</a></li><li><a href="/en/slippers/list.html/bcc.12608_bpt.46">Slippers</a></li><li><a href="/en/others/list.html/bcc.11543_bpt.46">Others</a></li>      
         </ul>
         
       </span>
@@ -401,7 +360,7 @@ $(this).poplocation({
   </div>
 
   </li>
-  <li><a class="bags" href="/en/bags.html"><span>Bags</span></a>
+  <li><a href="/en/bags.html" class="bags"><span>Bags</span></a>
   
   <div class="dropdown">
     <div class="dropmenu">
@@ -417,7 +376,7 @@ $(this).poplocation({
    
         <ul>
         
-        <li><a href="http://www.yesstyle.com/en/list.html/bcc.11528_vn.35_bpt.46_bt.37_oc.6">Weekly Deals<span class="iconnew2"><span>New</span></span></a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11528_bpt.46_bt.37_oc.1">Autumn New Arrivals</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11528_bpt.46_bt.37_oc.2">Ready to Ship</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11528_bpt.46_bt.37_oc.4">YesStyle Recommends</a></li><li><a href="http://www.yesstyle.com/en/style-tips.html">Style Tips: Ask Nikki!</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11528_bpt.46_bt.37_oc.5">Sale</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11544_pr.0%7E50_bpt.46_bt.37">Women's Bags &lt; $50</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11553_pr.0%7E50_bpt.46_bt.37">Men's Bags &lt; $50</a></li>      
+        <li><a href="http://www.yesstyle.com/en/list.html/bcc.11528_bpt.46_bt.37_oc.1">Summer New Arrivals</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11528_bpt.46_bt.37_oc.2">Ready to Ship</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11528_bpt.46_bt.37_oc.4">YesStyle Recommends</a></li><li><a href="http://www.yesstyle.com/en/style-tips.html">Style Tips: Ask Nikki!</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11528_bpt.46_bt.37_oc.5">Sale</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11544_pr.0%7E50_bpt.46_bt.37">Women's Bags &lt; $50</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11553_pr.0%7E50_bpt.46_bt.37">Men's Bags &lt; $50</a></li>      
         </ul>
         
       </span><span class="special">
@@ -426,16 +385,16 @@ $(this).poplocation({
    
         <ul>
         
-        <li><a href="http://www.yesstyle.com/en/list.html/sb.136_pn.1_vn.35_bpt.46_bt.250_pgpid.1031743592">Animal Appeal</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.12438_bpt.46_bt.37">Designer Bags</a></li>      
+        <li><a href="http://www.yesstyle.com/en/list.html/bcc.11528_bpt.46_bcs.1">Bags from South Korea</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.12438_bpt.46_bt.37">Designer Bags</a></li>      
         </ul>
         
-      </span><span class="category catcol2">
+      </span><span class="category catcol3">
     
         <b class="title">Categories</b>
    
         <ul class="subcat">
         
-        <li><a href="/en/womens-bags/list.html/bcc.11544_bpt.46"><b>Women's Bags</b></a></li><li><a href="/en/backpacks/list.html/bcc.11944_bpt.46">Backpacks</a></li><li><a href="/en/satchels/list.html/bcc.11545_bpt.46">Satchels</a></li><li><a href="/en/totes/list.html/bcc.11546_bpt.46">Totes</a></li><li><a href="/en/hobo-shoulder-bags/list.html/bcc.11547_bpt.46">Hobo &amp; Shoulder Bags</a></li><li><a href="/en/messenger-bags/list.html/bcc.11548_bpt.46">Messenger Bags</a></li><li><a href="/en/clutches-handbag/list.html/bcc.11549_bpt.46">Clutches &amp; Handbag</a></li><li><a href="/en/wallets-coin-purses/list.html/bcc.11732_bpt.46">Wallets &amp; Coin Purses</a></li><li><a href="/en/carryalls/list.html/bcc.11550_bpt.46">Carryalls</a></li><li><a href="/en/business-bags/list.html/bcc.11551_bpt.46">Business Bags</a></li><li><a href="/en/others/list.html/bcc.11552_bpt.46">Others</a></li>      
+        <li><a href="/en/womens-bags/list.html/bcc.11544_bpt.46"><b>Women's Bags</b></a></li><li><a href="/en/backpacks/list.html/bcc.11944_bpt.46">Backpacks</a></li><li><a href="/en/satchels/list.html/bcc.11545_bpt.46">Satchels</a></li><li><a href="/en/totes/list.html/bcc.11546_bpt.46">Totes</a></li><li><a href="/en/hobo-shoulder-bags/list.html/bcc.11547_bpt.46">Hobo &amp; Shoulder Bags</a></li><li><a href="/en/messenger-bags/list.html/bcc.11548_bpt.46">Messenger Bags</a></li><li><a href="/en/clutches-handbag/list.html/bcc.11549_bpt.46">Clutches &amp; Handbag</a></li><li><a href="/en/wallets-coin-purses/list.html/bcc.11732_bpt.46">Wallets &amp; Coin Purses</a></li><li><a href="/en/carryalls/list.html/bcc.11550_bpt.46">Carryalls</a></li><li><a href="/en/business-bags/list.html/bcc.11551_bpt.46">Business Bags</a></li><li><a href="/en/luggage/list.html/bcc.12595_bpt.46">Luggage</a></li><li><a href="/en/pouches/list.html/bcc.11552_bpt.46">Pouches</a></li><li><a href="/en/designer-bags/list.html/bcc.12438_bpt.46">Designer Bags</a></li>      
         </ul><ul class="subcat">
         
         <li><a href="/en/mens-bags/list.html/bcc.11553_bpt.46"><b>Men's Bags</b></a></li><li><a href="/en/backpacks/list.html/bcc.11945_bpt.46">Backpacks</a></li><li><a href="/en/shoulder-bags/list.html/bcc.11554_bpt.46">Shoulder Bags</a></li><li><a href="/en/messenger-bags/list.html/bcc.11555_bpt.46">Messenger Bags</a></li><li><a href="/en/clutches/list.html/bcc.11556_bpt.46">Clutches</a></li><li><a href="/en/wallets-coin-purses/list.html/bcc.11733_bpt.46">Wallets &amp; Coin Purses</a></li><li><a href="/en/carryalls/list.html/bcc.11557_bpt.46">Carryalls</a></li><li><a href="/en/business-bags/list.html/bcc.11558_bpt.46">Business Bags</a></li><li><a href="/en/others/list.html/bcc.11559_bpt.46">Others</a></li>      
@@ -454,7 +413,7 @@ $(this).poplocation({
 
   </li>
   
-  <li><a class="accessories" href="/en/accessories.html"><span>Accessories</span></a>
+  <li><a href="/en/accessories.html" class="accessories"><span>Accessories</span></a>
   
   <div class="dropdown">
     <div class="dropmenu">
@@ -470,7 +429,7 @@ $(this).poplocation({
    
         <ul>
         
-        <li><a href="http://www.yesstyle.com/en/list.html/bcc.11118_bpt.46_bt.37_oc.1">Autumn New Arrivals</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11118_bpt.46_bt.37_oc.2">Ready to Ship</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11118_bpt.46_bt.37_oc.4">YesStyle Recommends</a></li><li><a href="http://www.yesstyle.com/en/style-tips.html">Style Tips: Ask Nikki!</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.11118_bpt.46_bt.37_oc.5">Sale</a></li>      
+        <li><a href="http://www.yesstyle.com/en/list.html/bcc.12501_bpt.46_bt.37_oc.1">Summer New Arrivals</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.12501_bpt.46_bt.37_oc.2">Ready to Ship</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.12501_bpt.46_bt.37_oc.4">YesStyle Recommends</a></li><li><a href="http://www.yesstyle.com/en/style-tips.html">Style Tips: Ask Nikki!</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.12501_bpt.46_bt.37_oc.5">Sale</a></li>      
         </ul>
         
       </span><span class="category catcol2">
@@ -479,7 +438,47 @@ $(this).poplocation({
    
         <ul>
         
-        <li><a href="/en/womens-accessories/list.html/bcc.12007_bpt.46">Women's Accessories</a></li><li><a href="/en/mens-accessories/list.html/bcc.11989_bpt.46">Men's Accessories</a></li><li><a href="/en/watches-timepieces/list.html/bcc.11322_bpt.46">Watches &amp; Timepieces</a></li><li><a href="/en/glasses-sunglasses/list.html/bcc.12074_bpt.46">Glasses &amp; Sunglasses</a></li><li><a href="/en/wigs-hair-pieces/list.html/bcc.12010_bpt.46">Wigs &amp; Hair Pieces</a></li><li><a href="/en/mobile-phone-accessories/list.html/bcc.11736_bpt.46">Mobile Phone Accessories</a></li><li><a href="/en/office-personal-organizers/list.html/bcc.11738_bpt.46">Office &amp; Personal Organizers</a></li><li><a href="/en/lifestyle-home/list.html/bcc.11171_bpt.46">Lifestyle &amp; Home</a></li>      
+        <li><a href="/en/womens-accessories/list.html/bcc.12502_bpt.46">Women's Accessories</a></li><li><a href="/en/mens-accessories/list.html/bcc.12503_bpt.46">Men's Accessories</a></li><li><a href="/en/watches-timepieces/list.html/bcc.12504_bpt.46">Watches &amp; Timepieces</a></li><li><a href="/en/glasses-sunglasses/list.html/bcc.12505_bpt.46">Glasses &amp; Sunglasses</a></li><li><a href="/en/wigs-hair-pieces/list.html/bcc.12506_bpt.46">Wigs &amp; Hair Pieces</a></li><li><a href="/en/hair-styling-tools/list.html/bcc.12507_bpt.46">Hair Styling Tools</a></li>      
+        </ul>
+        
+      </span>
+      
+
+
+
+
+
+
+    </div>
+  </div>
+
+  </li>
+  <li><a href="/en/lifestyle.html" class="lifestyle"><span>Lifestyle</span></a>
+  
+  <div class="dropdown">
+    <div class="dropmenu">
+    
+
+
+    
+      
+    
+      <span class="special">
+    
+        <b class="title">Quick Links</b>
+   
+        <ul>
+        
+        <li><a href="http://www.yesstyle.com/en/list.html/bcc.12471_bpt.46_bt.37_oc.1">Summer New Arrivals</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.12471_bpt.46_bt.37_oc.2">Ready to Ship</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.12471_bpt.46_bt.37_oc.4">YesStyle Recommends</a></li><li><a href="http://www.yesstyle.com/en/style-tips.html">Style Tips: Ask Nikki!</a></li><li><a href="http://www.yesstyle.com/en/list.html/bcc.12471_bpt.46_bt.37_oc.5">Sale</a></li>      
+        </ul>
+        
+      </span><span class="category catcol2">
+    
+        <b class="title">Categories</b>
+   
+        <ul>
+        
+        <li><a href="/en/mobile-tablet-computer-accessories/list.html/bcc.12472_bpt.46">Mobile / Tablet / Computer Accessories</a></li><li><a href="/en/stationery/list.html/bcc.12473_bpt.46">Stationery</a></li><li><a href="/en/personal-organizers/list.html/bcc.12474_bpt.46">Personal Organizers</a></li><li><a href="/en/home-essentials/list.html/bcc.12475_bpt.46">Home Essentials</a></li><li><a href="/en/gadget/list.html/bcc.12476_bpt.46">Gadget</a></li><li><a href="/en/travel/list.html/bcc.12477_bpt.46">Travel</a></li><li><a href="/en/pet-accessories/list.html/bcc.12622_bpt.46">Pet Accessories</a></li>      
         </ul>
         
       </span>
@@ -495,9 +494,9 @@ $(this).poplocation({
 
   </li>
   
-  <li><a class="specialoffers" href="/en/special-offers.html"><span>Special Offers</span></a></li>
-  <li><a class="sale" href="/en/sale.html"><span>Sale</span></a></li>
-  <li><a class="blog" href="http://www.yesstyle.com/blog/"><span>Blog</span></a></li>
+  <li><a href="/en/special-offers.html" class="specialoffers"><span>Special Offers</span></a></li>
+  <li><a href="/en/sale.html" class="sale"><span>Sale</span></a></li>
+  <li><a href="http://www.yesstyle.com/blog/" class="blog"><span>Blog</span></a></li>
 </ul> 
    
 <script type="text/javascript">
@@ -529,7 +528,8 @@ $(this).poplocation({
         <div class="socialnetwork">
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FYesStyle&amp;layout=standard&amp;show_faces=false&amp;width=600&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:600px; height:35px;" allowtransparency="true"></iframe>
         </div>
-        <a id="id4e9" onclick="var wcall=wicketAjaxGet('../../../?wicket:interface=:58:panel.header:panel.header.navigationbar:facebookBar:a.close::IBehaviorListener:0:3',null,null, function() {return Wicket.$('id4e9') != null;}.bind(this));return !wcall;" class="close" rel="nofollow" href="../../../?wicket:interface=:58:panel.header:panel.header.navigationbar:facebookBar:a.close::ILinkListener::"><img src="http://c.ysi.bz/Assets/res/imgs/icons/ic_close.gif"></a>
+        <a href="http://www.trustpilot.com/review/www.yesstyle.com" class="trustpilot" target="trustpilot" title="Read thousands of reviews about YesStyle at trustpilot.com"></a>
+        <a href="../../../?wicket:interface=:27:panel.header:panel.header.navigationbar:facebookBar:a.close::ILinkListener::" onclick="var wcall=wicketAjaxGet('../../../?wicket:interface=:27:panel.header:panel.header.navigationbar:facebookBar:a.close::IBehaviorListener:0:3',function() { }.bind(this),function() { }.bind(this), function() {return Wicket.$('id295') != null;}.bind(this));return !wcall;" class="close" id="id295" rel="nofollow"><img src="http://c.ysi.bz/Assets/res/imgs/icons/ic_close.gif"></a>
       </div>
     </div>
     <!-- End:Facebook Like bar -->
@@ -545,19 +545,28 @@ $(this).poplocation({
     <div class="disabledAlert" id="noCookie">
       <span class="alerticon">Please <a href="/en/help/section.html/hsi.727#1521">enable Cookies</a> in your browser to make a purchase as well as experience other custom features of our site.</span>
     </div>
+  
+<div class="signInAlertContainer" id="id296">
+  <a class="closeButton" onclick="$(this).parents('#popcon').remove().IEoverlap('hidden')"><span>Close</span></a>
+  <br>You must Sign In or Sign Up for a new account to access this feature.
+  <br>
+    <a href="https://www.yesstyle.com/en/secure/sign-in.html" class="mbutton"><span>Sign In</span></a>
+    <a href="https://www.yesstyle.com/en/secure/sign-up.html" class="mbutton"><span>Sign Up Now</span></a>
+</div>
+
 </div>
         <div id="content">
 
 				    <div class="browsepage clearRow">
     
   <div class="path">
-      <a class="home" href="/en/home.html"><span>Home</span></a>
+      <a href="/en/home.html" class="home"><span>Home</span></a>
       
         <span class="child"><span>»</span></span>
         <a href="/en/help/main.html">Customer Service</a>
       
       <span class="child"><span>»</span></span>
-      <a class="on" href="/en/privacy-security/help/section.html/hsi.754">Privacy &amp; Security</a>  
+      <a href="/en/privacy-security/help/section.html/hsi.754" class="on">Privacy &amp; Security</a>  
     
   </div>
 
@@ -586,6 +595,8 @@ $(this).poplocation({
 		
 	</li><li><a href="/en/women-size/help/section.html/hsi.795">Size Information</a>
 		
+	</li><li><a href="/en/product-review/help/section.html/hsi.1601">Product Review </a>
+		
 	</li><li><a href="/en/yesstyle-elite-club/help/section.html/hsi.867">YesStyle Elite Club</a>
 		
 	</li><li><a href="/en/the-yesstyle-store/help/section.html/hsi.927">The YesStyle Store</a>
@@ -594,7 +605,7 @@ $(this).poplocation({
 		
 	</li><li><a class="on" href="/en/privacy-security/help/section.html/hsi.754">Privacy &amp; Security</a>
 		<ul class="sub">
-			<li><a class="on" href="/en/privacy-security/help/section.html/hsi.754">Privacy &amp; Security</a></li>
+			<li><a href="/en/privacy-security/help/section.html/hsi.754" class="on">Privacy &amp; Security</a></li>
 	  
 		</ul>
 	</li><li><a href="/en/online-safety-and-security-tips/help/section.html/hsi.1365">Online Safety and Security Tips</a>
@@ -612,15 +623,16 @@ $(this).poplocation({
 </ul>
   
 	
-  <div id="socialWeb30x30">
+  <div id="socialWeb25x25">
       <h5>Bookmark &amp; Share</h5>
       <ul class="clearRow">
-  <li><a id="ic_facebook30x30" title="Facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/share.php?u=http://www.yesstyle.com/en/help/section.html/hsi.754"><span>Facebook</span></a></li>
-  <li><a id="ic_twitter30x30" title="Twitter" target="_blank" rel="nofollow" href="http://twitter.com/home?status=Currently browsing http://www.yesstyle.com/en/help/section.html/hsi.754"><span>Twitter</span></a></li>
-  <li><a id="ic_digg30x30" title="Digg" target="_blank" rel="nofollow" href="http://digg.com/submit?phase=2&amp;URL=http://www.yesstyle.com/en/help/section.html/hsi.754&amp;title=YESSTYLE: Customer Support - Privacy &amp; Security"><span>Digg</span></a></li>
-  <li><a id="ic_buzz30x30" title="Buzz" target="_blank" rel="nofollow" href="http://google.com/buzz/post?url=http://www.yesstyle.com/en/help/section.html/hsi.754"><span>Buzz</span></a></li>
-            
-  
+        <li><a rel="nofollow" target="_blank" href="http://www.facebook.com/share.php?u=http://www.yesstyle.com/en/help/section.html/hsi.754" id="ic_facebook" title="Facebook"><span>Facebook</span></a></li>
+        <li><a rel="nofollow" target="_blank" href="http://twitter.com/home?status=Currently browsing http://www.yesstyle.com/en/help/section.html/hsi.754" id="ic_twitter" title="Twitter"><span>Twitter</span></a></li>
+        
+        <li><a rel="nofollow" target="_blank" href="http://digg.com/submit?url=http://www.yesstyle.com/en/help/section.html/hsi.754&amp;title=YESSTYLE: Customer Support - Privacy &amp; Security" id="ic_digg" title="Digg"><span>Digg</span></a></li>
+        <li><a rel="nofollow" target="_blank" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.yesstyle.com%2Fen%2Fhelp%2Fsection.html%2Fhsi.754" id="ic_googleshare" title="Google+"><span>Google+</span></a></li>
+        
+        <li><a rel="nofollow" target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.yesstyle.com%2Fen%2Fhelp%2Fsection.html%2Fhsi.754" id="ic_stumbleupon" title="StumbleUpon"><span>StumbleUpon</span></a></li>
       </ul>   
   </div>
     
@@ -691,7 +703,11 @@ At YesStyle.com, we believe that the privacy of children is important.
 <br><br><b>English version prevails</b><br><br>
 If there is any inconsistency or ambiguity between the English version and the Chinese version of this privacy policy, the English version shall prevail.
 
-<br><br><b>Questions/suggestions</b><br><br>If you have any questions or suggestions, please contact us at <a href="mailto:privacy@yesstyle.com">privacy@YesStyle.com</a>, or by mail at the address below:<br><br>Privacy Director<br>YesStyle.com Ltd.,<br>9/F., Watson Centre,<br>16-22 Kung Yip Street,<br>Kwai Chung, N.T.<br>Hong Kong<br><br></div>
+<br><br><b>Questions/suggestions</b><br><br>If you have any questions or suggestions, please contact us at <a href="mailto:privacy@yesstyle.com">privacy@YesStyle.com</a>, or by mail at the address below:<br><br>Privacy Director<br>YesStyle.com Ltd.,<br>
+19/F., Wyler Centre Phase II,<br>
+192-200 Tai Lin Pai Road,<br>
+Kwai Chung, New Territories,<br>
+Hong Kong<br><br></div>
       
     
   </div>
@@ -699,9 +715,9 @@ If there is any inconsistency or ambiguity between the English version and the C
 
   <div id="helpsearch">
     <h4 class="title">Search Our Customer Service Section</h4>
-    <form id="id4ea" action="../../../?wicket:interface=:58:panel.mainContent:panel.mainContent.section:panel.searchForm:searchform::IFormSubmitListener::" method="post"><div style="display:none"><input type="hidden" name="id4ea_hf_0" id="id4ea_hf_0"></div>
-      <input name="search" value="" type="text" size="40">
-      <span class="mbutton"><input value="Search" type="submit"></span>
+    <form id="id297" method="post" action="../../../?wicket:interface=:27:panel.mainContent:panel.mainContent.section:panel.searchForm:searchform::IFormSubmitListener::"><div style="width:0px;height:0px;position:absolute;left:-100px;top:-100px;overflow:hidden"><input type="hidden" name="id297_hf_0" id="id297_hf_0"></div>
+      <input type="text" name="search" size="40" value="">
+      <span class="mbutton"><input type="submit" value="Search"></span>
       <span class="remark">Enter one or more keywords. (Example: PeopleStyle)</span>
     </form>
   </div>
@@ -723,16 +739,16 @@ If there is any inconsistency or ambiguity between the English version and the C
     
 	    <div id="exposure">
 	      
-	        <a href="http://www.yesstyle.com/en/list.html/bpt.299_bid.312095"><img alt="KANA" src="http://c.ysi.bz/Assets/res/imgs/bottom/kana_b02_2_1209_en.jpg"></a>
+	        <a href="http://www.yesstyle.com/en/list.html/bpt.299_bid.308704"><img src="http://c.ysi.bz/Assets/res/imgs/bottom/pufii_b01_1306_en.jpg" alt="Pufii"></a>
 		      
 		    
-	        <a href="http://www.yesstyle.com/en/list.html/bpt.299_bid.311795"><img alt="efashion" src="http://c.ysi.bz/Assets/res/imgs/bottom/efashion_b02_2_1210_en.jpg"></a>
+	        <a href="http://www.yesstyle.com/en/list.html/bpt.299_bid.313221"><img src="http://c.ysi.bz/Assets/res/imgs/bottom/petitetbelle_b02_1306_en.jpg" alt="Petit et Belle"></a>
 		      
 		    
 	    </div>
 	  
     <div id="currencyBar">
-      <form id="id4eb" action="../../../?wicket:interface=:58:panel.footer:form::IFormSubmitListener::" method="post"><div style="display:none"><input type="hidden" name="id4eb_hf_0" id="id4eb_hf_0"></div>
+      <form id="id298" method="post" action="../../../?wicket:interface=:27:panel.footer:form::IFormSubmitListener::"><div style="width:0px;height:0px;position:absolute;left:-100px;top:-100px;overflow:hidden"><input type="hidden" name="id298_hf_0" id="id298_hf_0"></div>
 	      <a name="reference"></a>
 	      Reference Currency
 	      <select name="currencys">
@@ -757,18 +773,20 @@ If there is any inconsistency or ambiguity between the English version and the C
 <option value="rc17">Thai Baht (THB)</option>
 <option value="rc18">Taiwan Dollar (NT$)</option>
 </select>
-	      <span class="sbutton"><input id="id4ec" name="updateDisplayCurrency" value="Update" class="button" type="submit"></span>
+	      <span class="sbutton"><input type="submit" value="Update" class="button" name="updateDisplayCurrency" id="id299"></span>
 	      
 	    </form>
     </div>
     <div id="siteItems">
       
+        <ul class="first">
+<li><a href="https://www.yesstyle.com/en/secure/myaccount/summary.html">My Account</a></li>
 
-<ul class="first">
-  <li><a href="https://www.yesstyle.com/en/secure/myaccount/summary.html">My Account</a></li><li><a href="/en/shopping-bag.html">Shopping Bag</a></li><li><a href="/en/saved-items.html">Saved Items</a></li>
+  <li><a href="/en/shopping-bag.html">Shopping Bag</a> / <a href="/en/saved-items.html">Saved Items</a></li>
+  <li onclick="try {var wcall=wicketAjaxGet('../../../?wicket:interface=:27:panel.footer:column1:customerReviewContainer:myReviewsContainer::IBehaviorListener:0:3',function() { }.bind(this),function() { }.bind(this), function() {return Wicket.$('id294') != null;}.bind(this));return false;}catch(e){return true};" id="id294"><a href="https://www.yesstyle.com/en/secure/sign-in.html/sibua.3" class="signInAlert" onclick="return false;">My Reviews</a></li>
 
-</ul>
-
+        </ul>
+      
       
 
 <ul>
@@ -809,28 +827,29 @@ If there is any inconsistency or ambiguity between the English version and the C
  
     <div id="footerRemark">
        
-        <a class="storebuttonimg" href="/en/yesstyle-store/index.html"><span>YesStyle Store Location and Opening Hours</span></a>
+        <a href="/en/yesstyle-store/index.html" class="storebuttonimg"><span>YesStyle Store Location and Opening Hours</span></a>
       
         <ul class="fansites">
 <li><a href="http://www.facebook.com/yesstyle" target="facebook" rel="nofollow">
   <span id="ic_facebookfan2"></span>
   <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FYesStyle&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe></a></li>
-<li><a href="http://www.twitter.com/yesstyle" target="twitter" rel="nofollow">
-  <span id="ic_twitterfan2"></span></a><a href="http://twitter.com/yesstyle" target="twitter">Follow us on <b>Twitter</b></a></li>
+<li><a href="http://www.twitter.com/yesstyle" target="twitter" rel="nofollow"><span id="ic_twitterfan2"></span></a></li>
 
 
 
-<li><a target="Yesstylist" href="http://www.yesstyle.com/blog/"><span id="ic_yesstylistfan2"></span>Read <b>The YesStylist</b></a></li>
+<li><a href="http://pinterest.com/yesstyle" target="Pinterest"><span id="ic_pinterest"></span></a></li>
+<li><a href="http://instagram.com/yesstyle" target="Instagram"><span id="ic_instagram"></span></a></li>
+<li><a href="http://www.youtube.com/yesstyle" target="Youtube"><span id="ic_youtube"></span></a></li>
         </ul>
         
       
       
-        <span class="starMark">^</span>Currency exchange rates were updated on 2012-10-08 (Updated weekly)<br>
+        <span class="starMark">^</span>Currency exchange rates were updated on 2013-05-27 (Updated weekly)<br>
         All transactions at YesStyle.com are handled in US Dollars<br>
         Prices in other currencies are shown for reference only. (<a href="/en/help/section.html/hsi.857#1530" class="remark">See FAQ for more details</a>)<br><br>
       
 
-Copyright © 2006-2012 YESSTYLE.COM LTD. All rights reserved.<br>
+Copyright © 2006-2013 YESSTYLE.COM LTD. All rights reserved.<br>
  
 <a href="/en/help/section.html/hsi.804">Terms of Use</a> | <a href="/en/help/section.html/hsi.754">YesStyle.com Privacy Policy</a>
     </div>
@@ -846,7 +865,7 @@ Copyright © 2006-2012 YESSTYLE.COM LTD. All rights reserved.<br>
   </div>
   
   
-<div title="We accept the following payment methods: VISA, Mastercard, American Express, JCB Card, PayPal, Bill me later, Alipay." class="paymenticons">
+<div class="paymenticons" title="We accept the following payment methods: VISA, Mastercard, American Express, JCB Card, PayPal, Bill me later, Alipay.">
   <ul>
     <li class="visaicon"></li><li class="mastericon"></li><li class="aeicon"></li><li class="jcbicon"></li><li class="paypalicon"></li><li class="bmlicon"></li><li class="alipayicon"></li>
     
@@ -857,7 +876,7 @@ Copyright © 2006-2012 YESSTYLE.COM LTD. All rights reserved.<br>
   
   <div id="promptmessage">
     <b class="alerticon">A loading error has occurred. Please kindly <a href="javascript:location.reload()">reload</a> the page and try again.</b>
-    <a title="Close" class="closebutton" onclick="$(this).parent().slideUp()" href="#"><span>Close</span></a>
+    <a href="#" class="closebutton" onclick="$(this).parent().slideUp()" title="Close"><span>Close</span></a>
   </div>
 
   
@@ -879,11 +898,11 @@ var google_conversion_label = "y3tsCNHn7AEQz6ri-wM";
 var google_conversion_value = 0;
 /* ]]> */
 </script>
-<script src="http://www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
 </script>
 <noscript>
 <div style="display:inline;">
-<img height="1" style="border-style:none;" alt="" width="1" src="http://www.googleadservices.com/pagead/conversion/1064867151/?label=y3tsCNHn7AEQz6ri-wM&amp;guid=ON&amp;script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1064867151/?label=y3tsCNHn7AEQz6ri-wM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
 
@@ -897,13 +916,18 @@ var google_custom_params = window.google_tag_params;
 var google_remarketing_only = true;
 /* ]]> */
 </script>
-<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 </script>
 <noscript>
 <div style="display:inline;">
-<img height="1" style="border-style:none;" alt="" width="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1064867151/?value=0&amp;label=CWzXCLndsgQQz6ri-wM&amp;guid=ON&amp;script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1064867151/?value=0&amp;label=CWzXCLndsgQQz6ri-wM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+
+    
+<!-- BEGIN JS TAG – AdExtent Dynamic Retargeting Segment -  DO NOT MODIFY -->
+<script src="http://dynads.adextent.com/ansn-creative/dynads/ServeS3.ashx/autotag.js" type="text/javascript"></script>
+<!-- END TAG -->
 
   
 </body></html>
