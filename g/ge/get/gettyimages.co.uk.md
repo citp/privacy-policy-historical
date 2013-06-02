@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gettyimages.co.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015115002id_/http%3A//www.gettyimages.co.uk/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettyimages.co.uk privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602213136id_/http%3A//www.gettyimages.co.uk/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Getty Images - Getty Images Privacy Policy
+# Getty Images Privacy Policy - Getty Images UK
 
 Last updated: May 2012
 
@@ -120,4 +120,4 @@ Contact Information
 
 You can contact Getty Images Sales by emailing [sales@gettyimages.co.uk](mailto:sales@gettyimages.co.uk%20%20%20%20%20%20%20%20%20%20?subject=Privacy%20Policy), or by phone at 0800 376 7977, or by post at Getty Images, Inc., Sales, 101 Bayham Street, London, NW1 0AG, United Kingdom. 
 
-© 1999-2012 Getty Images, Inc. All rights reserved. Privacy Policy.
+© 1999-2013 Getty Images, Inc. All rights reserved. Privacy Policy.
