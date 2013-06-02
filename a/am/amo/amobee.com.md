@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the amobee.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223094839id_/http%3A//www.amobee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amobee.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602083853id_/http%3A//amobee.com/privacy) for the most accurate reproduction.*
 
 # News - [a•mo•bee]
 
 | 
 
-[](https://privacy.truste.com/privacy-seal/Amobee,-Inc-/validation?rid=199a6fb3-8cd8-4ca4-8fa3-f1f64ed99fb1 "TRUSTe European Safe Harbor certification")
+[](http://privacy.truste.com/privacy-seal/Amobee,-Inc-/validation?rid=199a6fb3-8cd8-4ca4-8fa3-f1f64ed99fb1 "TRUSTe European Safe Harbor certification")
 
 [Amobee.com   
 Privacy Policy](https://web.archive.org/privacy/index.shtml)
@@ -109,6 +109,5 @@ Amobee, Inc.
 100 Marine Parkway, Suite 575  
 Redwood City, CA 94065  
 +1 (650) 802 8871  
-[Privacy policy form](https://web.archive.org/privacy/reg_privacy_amobeecom.shtml)  
   
 ---|---|---
