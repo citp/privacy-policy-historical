@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindmovies.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225231030id_/http%3A//www.mindmovies.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindmovies.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602121622id_/http%3A//www.mindmovies.com/footer/privacy.html) for the most accurate reproduction.*
 
 # Mind Movies
 
@@ -49,6 +49,8 @@ MindMovies allows other companies that are presenting advertisements on some of 
 MindMovies gives you the ability to edit your Mind Movies Account Information and preferences at any time.
 
 All newsletter (bulk) emailings contain an unsubscribe link which will allow you to manage which emails you receive.
+
+If at anytime you wish to contact us to update your account or email preferences you may do so through our support email address support@mindmovies.com or with the contact details in the 'Points of Contact' section below.
 
 **Security**
 
