@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dubaifaqs.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017040448id_/http%3A//www.dubaifaqs.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaifaqs.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602234306id_/http%3A//www.dubaifaqs.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Dubai FAQs Privacy Policy
 
 |   [Home](http://www.dubaifaqs.com/ "Dubai FAQs home") | [Dubai forum](http://www.desertspeak.com/ "Abu Dhabi, Dubai, UAE Q&A") | Print |  |  | 
 
-**Wednesday 17 October 2012 (UAE)   **  
+**Monday 03 June 2013 (UAE)   **  
   
 ---|---|---|---  
    
@@ -34,7 +34,7 @@ Most pages on DubaiFAQs.com display advertisements from the Google Adsense progr
   
 ##### Related pages
 
-  * [About Dubai FAQs](https://web.archive.org/web/20121017040448id_/http%3A//www.dubaifaqs.com/about-us.php)
+  * [About Dubai FAQs](https://web.archive.org/web/20130602234306id_/http%3A//www.dubaifaqs.com/about-us.php)
 
 
 
@@ -50,4 +50,4 @@ Most pages on DubaiFAQs.com display advertisements from the Google Adsense progr
 
 Abu Dhabi AUH ABD ADB, Ajman AJM, Al Ain AAN, Dubai DXB, Fujairah FUJ, Ras Al Khaimah RAK, Sharjah SHJ, Umm Al Quwain UAQ information guide
 
-Copyright © www.dubaifaqs.com 2012, Dubai, UAE - United Arab Emirates 
+Copyright © www.dubaifaqs.com 2013, Dubai, UAE - United Arab Emirates 
