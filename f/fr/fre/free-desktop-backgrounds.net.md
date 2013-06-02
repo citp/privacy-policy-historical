@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-desktop-backgrounds.net privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203085325id_/http%3A//www.free-desktop-backgrounds.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-desktop-backgrounds.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602054051id_/http%3A//www.free-desktop-backgrounds.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy policy for Free Desktop Backgrounds site.
 
@@ -13,7 +13,7 @@ Like many other Web sites, **_http://www.free-desktop-backgrounds.net (Free Desk
 **Cookies and Web Beacons**  
 **_http://www.free-desktop-backgrounds.net (Free Desktop Backgrounds)_** does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-"We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html)."*
+"We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to http://www.google.com/privacy_ads.html ."*
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.
 
@@ -21,7 +21,7 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
 What is the DoubleClick DART cookie?
 
-The [ DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx "DoubleClick DART cookie") is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web."*
+The DoubleClick DART cookie (http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web."*
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on **_http://www.free-desktop-backgrounds.net (Free Desktop Backgrounds)_** send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
@@ -33,4 +33,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 If you require any more information or have any questions about our privacy policy, please feel free to [ contact us](http://www.free-desktop-backgrounds.net/contact/contact.php "Contact us"). 
 
-* [ Text citation source](https://www.google.com/adsense/support/bin/answer.py?hl=en&answer=100557 "Text citation source.")
+* Text citation source (https://www.google.com/adsense/support/bin/answer.py?hl=en&answer=100557)
