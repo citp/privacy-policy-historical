@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysinglefriend.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020035611id_/http%3A//www.mysinglefriend.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysinglefriend.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602193317id_/http%3A//mysinglefriend.com/privacy) for the most accurate reproduction.*
 
 # Mysinglefriend Privacy Policy for Online Dating
 
@@ -37,4 +37,4 @@ If your personal details change, please log in to www.mysinglefriend.com and upd
 My Single Friend Ltd  
 4th Floor, 7 Swallow Place, London, W1B 2AG
 
-mysinglefriend® and [mysinglefriend logo](https://web.archive.org/online/logos) **[™](http://www.mysinglefriend.com/popups/copyright.php)**   are trade marks proprietary to My Single Friend Limited. All rights reserved.
+mysinglefriend® and [mysinglefriend logo](https://web.archive.org/online/logos) **™**   are trade marks proprietary to My Single Friend Limited. All rights reserved.
