@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the weforum.org privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106114834id_/http%3A//www.weforum.org/privacy-terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weforum.org privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602145033id_/http%3A//www.weforum.org/privacy-terms-use) for the most accurate reproduction.*
 
 # Privacy & Terms of Use | World Economic Forum - Privacy & Terms of Use
-
-**Privacy Statement**
 
 Thank you for visiting the World Economic Forum's website and reviewing our privacy policy. The purpose of this privacy policy is to inform you of what kinds of information we may gather about you when you visit our website and how we may use that information. This Privacy Statement discloses the privacy practices for http://www.weforum.org, www.weforum.org and https://community.weforum.org. 
 
