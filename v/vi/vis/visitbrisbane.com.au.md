@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitbrisbane.com.au privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119074505id_/http%3A//www.visitbrisbane.com.au/Travel/About-Brisbane/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitbrisbane.com.au privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602111808id_/http%3A//www.visitbrisbane.com.au/Travel/About-Brisbane/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
