@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hothardware.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922120718id_/http%3A//hothardware.com/privacyterms.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hothardware.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603014459id_/http%3A//hothardware.com/privacyterms.aspx) for the most accurate reproduction.*
 
 # Privacy, Terms and Conditions - HotHardware.com
 
@@ -31,12 +31,6 @@ Collecting the information described above enables us to tailor our content to o
 **Third Party Partners**  
 HotHardware.com has teamed up with reputable third party vendors in order to provide certain services to its online users. When leaving our website to view one of our partner websites, we encourage users to review the privacy statements of those websites as we cannot guarantee the privacy of users while visiting affiliate sites. HotHardware.com may use third-party companies to serve ads or analyze behavior patterns when you visit our Web site. These companies may place or provide ads (such as banner ads) on this Web site that might also place cookies. These companies may use non-personally identifiable information about your visit to our Web site in order to help us improve our user experience and/or provide advertisements about goods and services that may be of interest to you. In the course of providing these services or placing these ads, these third-party companies may place or recognize a unique "cookie" on your computer and each of these companies uses this cookie information according to their own privacy and security policies.   
 
-
-**Use of This Site**  
-As a reader or user of HotHardware.com, you are using the site as a privilege, not a right, free of charge. Therefore the owner and operators of this site may, at any time, at their discretion, disable/ban your user account or prevent your use of this site. 
-
-**Indemnity**  
-You will indemnify and hold harmless HotHardware.com, its parents, subsidiaries, affiliates, customers, vendors, officers and employees from any liability, damage or cost (including reasonable attorneys. fees and cost) from any claim or demand made by any third party or yourself, due to or arising out of your access to the Site, use of the Services, violation of the Terms of Use by you, or the infringement by you, or any third party using your account or HotHardware.com User ID, or of any intellectual property or other right of any person or entity. 
 
 **Acceptance of Terms**  
 By using the HotHardware.com website, you signify your acceptance of this website privacy policy. If you do not agree to this policy, please do not use this site. Your continued use of any HotHardware.com site following the posting of changes to these terms will indicate your acceptance of those changes.
