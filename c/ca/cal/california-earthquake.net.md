@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the california-earthquake.net privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116220042id_/http%3A//california-earthquake.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the california-earthquake.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602023743id_/http%3A//california-earthquake.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | California Earthquake
 
