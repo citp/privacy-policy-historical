@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameplaysurveys.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129185100id_/http%3A//www.gameplaysurveys.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameplaysurveys.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602145358id_/http%3A//www.gameplaysurveys.com/privacy_policy.php) for the most accurate reproduction.*
 
 # GamePlaySurveys.com
 
@@ -73,5 +73,9 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.
 
 **Additional information**
+
+Can I receive surveys on my mobile devices?
+
+In addition to websites, some GamePlaySurveys.com surveys and solutions are offered via mobile devices. You will be participate in such surveys only to the extent you expressly agree to participate through this platform. You acknowledge and agree that in such circumstances, mobile tracking functions will be enabled which track your mobile device via position locators such as a Global Positioning System ("GPS") for the purpose of providing you with customized and timely surveys or related services and initiatives which are tailored to query and/or measure your specific preferences and/or opinions and to provide the most meaningful and timely information to GamePlaySurveys.com clients and partners. If, after participating in these offerings, you can elect to opt out at any time.
 
 Questions regarding this statement should be directed to [support@surveyhelpcenter.com](mailto:support@surveyhelpcenter.com). 
