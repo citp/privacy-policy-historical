@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the qoo10.sg privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508171837id_/http%3A//www.gmarket.com.sg/gmkt.inc/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qoo10.sg privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602045031id_/http%3A//www.qoo10.sg/gmkt.inc/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Gmarket – shopping Fun and be Colorful
+# Qoo10-Singapore – Global Fashion & Trend leading Shopping Market
 
 Privacy Policy
 
-We, Giosis Gmarket International Pte. Ltd. and its affiliates (together "Giosis Gmarket" or the "Company"), take your personal information seriously and use or keep it confidential. In order to protect your private information, we have established this Privacy Policy (the "Policy") in accordance with best practices in the industry and applicable laws and regulations. This Policy describes how we handle your personal information for our services on the gmarket.com.sg website and its related sites, services and tools (the "Website").
+We, Giosis Pte. Ltd. and its affiliates (together "Giosis Group" or the "Company"), take your personal information seriously and use or keep it confidential. In order to protect your private information, we have established this Privacy Policy (the "Policy") in accordance with best practices in the industry and applicable laws and regulations. This Policy describes how we handle your personal information for our services on the Qoo10.sg website and its related sites, services and tools (the "Website").
 
 By accepting the Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Policy. This Policy is effective on April 1, 2011 for current users, and immediately upon acceptance by new users.
 
@@ -27,7 +27,7 @@ We may collect and store the following personal information:
 
 Marketing 
 
-We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalise our services, content and advertising. If you don't wish to receive marketing communications from us or participate in our ad-customisation programmes, simply indicate your preferences in My Gmarket or by following the directions provided with the communication or advertisement.
+We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalise our services, content and advertising. If you don't wish to receive marketing communications from us or participate in our ad-customisation programmes, simply indicate your preferences in My Qoo10 or by following the directions provided with the communication or advertisement.
 
 Use 
 
@@ -52,7 +52,7 @@ Share of Your Information
 We may share your personal information with:
 
   * \- Third-party service providers under contract who help with our business operations: We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links(including paid listings and links), processing credit card payments, investigating frauds and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * \- Third parties giving promotional offers: Sometimes we send offers to selected groups our users on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust communication preferences in My Gmarket.
+  * \- Third parties giving promotional offers: Sometimes we send offers to selected groups our users on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust communication preferences in My Qoo10.
   * \- Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service).
   * \- Law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation or alleged illegal activity. In such events, we will disclose information relevant to the investigation, such as name, city, postal code, telephone number, email address, User ID history, IP address, fraud complaints, and purchasing and listing history;
   * \- Brand Protection Program participants under confidentiality agreement, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, we will disclose name, street address, city, postal code,country, phone number, email address and company name; and
@@ -90,7 +90,7 @@ A few important things you should know about cookies are that:
 
 No Spam, Spyware or Spoofing
 
-We and our users do not tolerate spam. Make sure to set your communication preferences in My Gmarket so we communicate to you as you prefer. You are not licensed to add other users of this Website, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report Gmarket-related spam or spoof emails to Gmarket, please visit the Security & Resolution Center. You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools. We do not rent or sell these email addresses. 
+We and our users do not tolerate spam. Make sure to set your communication preferences in My Qoo10 so we communicate to you as you prefer. You are not licensed to add other users of this Website, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report Qoo10-related spam or spoof emails to Qoo10, please visit the Security & Resolution Center. You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools. We do not rent or sell these email addresses. 
 
 Account Protection
 
@@ -119,10 +119,10 @@ The Personal Information Manager is responsible for taking reasonable endeavours
 We appoint the following person as Personal Information Manager:
 
   * \- name: Kim, Jun Young
-  * \- e-mail: privacy@gmarket.com.sg 
+  * \- e-mail: privacy@Qoo10.sg 
 
 
 
 General
 
-We may amend this Policy at any time by posting the amended terms on this Website. All amended terms automatically take effect 14 days after they are initially posted. If your questions are not answered online, you may write to us at: Giosis Gmarket International Pte. Ltd. Attn: Personal Information Manager, 5 Tampines Central 1 #04-04 Tampines Plaza Singapore 529541 or using the Contact Us form.
+We may amend this Policy at any time by posting the amended terms on this Website. All amended terms automatically take effect 14 days after they are initially posted. If your questions are not answered online, you may write to us at: Giosis Pte. Ltd. Attn: Personal Information Manager, 5 Tampines Central 1 #04-04 Tampines Plaza Singapore 529541 or using the Contact Us form.
