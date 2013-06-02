@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualave.net privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215021851id_/http%3A//www.virtualave.net/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualave.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602195332id_/http%3A//www.virtualave.net/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # VirtualAvenue's Privacy Policy
 
@@ -80,4 +80,4 @@ Please note: VirtualAvenue reserves the right to send you email communications t
 
 
 
-This file was last modified December 10, 2012. [View comparison version.](https://web.archive.org/web/20121215021851id_/http%3A//www.virtualave.net/legal/legal_privacy.bml?showchanges=1)
+This file was last modified December 10, 2012. [View comparison version.](https://web.archive.org/web/20130602195332id_/http%3A//www.virtualave.net/legal/legal_privacy.bml?showchanges=1)
