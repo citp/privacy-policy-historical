@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the westwood.edu privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231212153id_/http%3A//www.westwood.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westwood.edu privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602094453id_/http%3A//www.westwood.edu/privacy-policy) for the most accurate reproduction.*
 
 # Westwood College Privacy Policy
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en//seal_m "Validate TRUSTe privacy certification")
-
 ### General
 
-Westwood College, Inc. (dba Alta Colleges) respects the privacy of every individual who visits our web sites, requests information, or responds to our promotions. To better protect your privacy we have provided this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on the Alta Colleges web sites, unless otherwise posted. To view a list of sites that are covered by this privacy policy please click on the TRUSTe link located at the top of this policy.
+Westwood College, Inc. (dba Alta Colleges) respects the privacy of every individual who visits our web sites, requests information, or responds to our promotions. To better protect your privacy we have provided this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on the Alta Colleges web sites, unless otherwise posted. Below is a list of sites that are covered by this privacy policy:
 
-Alta Colleges (Westwood) has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements ](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "TRUSTe's program requirements")including transparency, accountability, and choice regarding the collection and use of your personal information. For a list of sites covered by the TRUSTe program please click on the TRUSTe seal located at the top of this policy. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [information@westwood.edu](mailto:information@westwood.edu). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "TRUSTe contact"). This TRUSTe program covers only information collected through this Web site and does not cover information that may be collected within the application.
+redstone.edu, westwood.edu, westwoodcollegecalifornia.com, westwoodcollegecolorado.com, westwoodcollegeillinois.com, westwoodcollegegeorgia.com, westwoodcollegetexas.com, westwoodcollegevirginia.com, westwoodinteriordesign.com, westwoodgamedsign.com, westwoodbusinessdegree.com, westwoodcriminaljustice.com, onlinewestwoodcollege.com, westwooddegreeonline.com, westwoodcollegesuccess.com, acceleratebywestwood.com, westwoodcollege.mobi, go.westwood.edu
+
+If you have questions or complaints regarding our privacy policy or practices, please contact us at information@westwood.edu. This policy covers only information collected through this Web site and does not cover information that may be collected within the Online Admission Center.
 
 ### Information you provide to us
 
@@ -72,7 +72,7 @@ Our web sites use Google Analytics and Yahoo! Web Analytics to analyze web site 
 
 
 
-### Westwood100 Sites
+### Westwood College Success Sites
 
 The photos and information listed on these sites were provided by the students themselves along with granted permission to post the photos and the information on these sites. If you are one of these students and you choose to at any time have this information removed from these sites, please contact us at 1-877-691-5700.
 
@@ -101,4 +101,4 @@ Denver, CO 80237
 
 [information@westwood.edu](mailto:information@westwood.edu)
 
-Effective: 2/6/2012
+Effective: 4/1/2013
