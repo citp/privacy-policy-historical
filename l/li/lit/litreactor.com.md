@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the litreactor.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919192914id_/http%3A//litreactor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litreactor.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602151118id_/http%3A//litreactor.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | LitReactor
 
