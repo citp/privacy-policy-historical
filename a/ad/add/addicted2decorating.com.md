@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the addicted2decorating.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116062421id_/http%3A//www.addicted2decorating.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addicted2decorating.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602195944id_/http%3A//www.addicted2decorating.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **What information do we collect?**
 
 We collect information from you when you subscribe to our newsletter, fill out a form or leave a comment. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. Third party vendors, including Google, use cookies to serve ads based on a your prior browsing activity.  Google’s use of the DART cookie enables it and its partners to serve ads to our users based on their visit to our site and/or other sites on the Internet.  You may opt out of the use of the DART cookie by visiting Google’s [advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively, you can opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative [ opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).)
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **What do we use your information for?**
 
