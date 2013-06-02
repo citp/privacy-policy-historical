@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lyricshall.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109154819id_/http%3A//www.lyricshall.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricshall.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602084810id_/http%3A//www.lyricshall.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Lyricshall.com
+# Privacy Policy
 
 Introduction
 
