@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bestmediainfo.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106172944id_/http%3A//www.bestmediainfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestmediainfo.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602081035id_/http%3A//www.bestmediainfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Media Info, News and Analysis on Indian Advertising, Marketing and Media Industry.
 
-**[www.BestMediaInfo.com](http://www.bestmediainfo.com/) is maintained by:** **Best Media Info**
+**[www.BestMediaInfo.com](http://www.bestmediainfo.com/) is maintained by:** **BMI Publications Private Limited**
 
-A-27L, Sector-16, Noida  
-Uttar Pradesh, India – 201301 Ph.: +91 120 4359565.  
+9652/C-9, Vasant Kunj  
+New Delhi, India – 110070 Ph.: +91 11 41854550.  
 We can be reached by e-mail at [Info@BestMediaInfo.com.](mailto:Info@BestMediaInfo.com?subject=News%20Releases)
 
 BestMediaInfo has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.BestMediaInfo.com](http://www.bestmediainfo.com/).
