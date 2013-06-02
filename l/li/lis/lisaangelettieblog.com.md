@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lisaangelettieblog.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919070132id_/http%3A//wp.me/PfZux-5g) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lisaangelettieblog.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602050534id_/http%3A//wp.me/PfZux-5g) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ Our company commitment to children’s privacy. Protecting children’s privacy 
 
 YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILD ONLINE PRIVACY ACT (COPA) AND IS NOT MONITORED AS DOING SO.
 
-**Public[Forums](http://lisaangelettieblog.com/recommends/Warrior-Forum)**
+**Public Forums**
 
 Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
 
