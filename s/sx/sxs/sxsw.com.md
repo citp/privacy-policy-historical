@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sxsw.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221231815id_/http%3A//www.sxsw.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sxsw.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602201819id_/http%3A//sxsw.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SXSW 2013
 
