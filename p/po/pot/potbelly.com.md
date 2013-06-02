@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the potbelly.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217174051id_/http%3A//potbelly.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potbelly.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602194739id_/http%3A//potbelly.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Potbelly Sandwich Shop
 
