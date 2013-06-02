@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extole.com privacy policy that was archived on 2012-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120823085400id_/http%3A//extole.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extole.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602192818id_/http%3A//origin.extole.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Extole
 
