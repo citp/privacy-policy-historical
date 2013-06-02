@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the seacretdirect.com privacy policy that was archived on 2012-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617023509id_/http%3A//seacretdirect.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seacretdirect.com privacy policy that was archived on 2013-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602125602id_/https%3A//www.seacretdirect.com/privacy.aspx%3FnLanguageID%3D0%26cultureCode%3Den-US) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" class="js"><head id="ctl00_Head1" profile="http://gmpg.org/xfn/11"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
 	Seacret Direct : Privacy Policy
-</title><link rel="stylesheet" href="css/reset.css" type="text/css" media="screen"><link rel="stylesheet" href="css/style.css" type="text/css" media="screen"><link rel="stylesheet" href="css/bn-styles.css" type="text/css" media="screen"><link rel="stylesheet" href="css/sycamore.css" type="text/css" media="screen"><link rel="stylesheet" href="css/page_templates.css" type="text/css" media="screen"><link rel="stylesheet" href="css/shortcodes.css" type="text/css" media="screen">
+</title><link rel="stylesheet" href="css/reset.css" type="text/css" media="screen"><link rel="stylesheet" href="css/style.css" type="text/css" media="screen"><link rel="stylesheet" href="css/bn-styles.css" type="text/css" media="screen"><link rel="stylesheet" href="css/sycamore.css" type="text/css" media="screen"><link rel="stylesheet" href="css/page_templates.css" type="text/css" media="screen"><link rel="stylesheet" href="css/shortcodes.css" type="text/css" media="screen"><link rel="stylesheet" href="css/jquery-ui/jquery-ui-1.10.1.custom.min.css" type="text/css" media="screen"><link rel="stylesheet" href="js/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
+
 
 <!--[if IE]>
 	<link rel="stylesheet" type="text/css" href="css/iestyle.css" />
@@ -19,7 +20,11 @@
 </script> 
  
 <script type="text/javascript" src="js/l10n.js?ver=20101110"></script> 
-<script type="text/javascript" src="js/jquery.js?ver=1.6.1"></script> 
+<!--<script type='text/javascript' src='js/jquery.js?ver=1.6.1'></script>-->
+<script src="js/jquery-1.7.2.min.js"></script>
+<script src="js/jquery.extensions.js"></script>
+<script src="js/jquery-ui-1.10.1.custom.min.js"></script>
+	<!--<script>	    !window.jQuery && document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>-->
 <script type="text/javascript" src="js/et_shortcodes_frontend.js?ver=1.7"></script> 
 
 </head> 
@@ -32,20 +37,21 @@
 	<div id="top">
 		<div id="header"> 			
 			<!-- Start Logo --> 
-<a href="default.aspx">				<img id="logo" src="imagesnew/sea-logo.en-US.png" alt="Logo" border="0"></a>
-
+<a href="default.aspx?nLanguageID=0&amp;cultureCode=en-US">				<img id="logo" src="imagesnew/sea-logo.en-US.png" alt="Logo" border="0"></a>
 			
 			<div id="sea-gate">
-            
-            English | <a href="default.aspx?nclid=1">Spanish</a>
+			
+English | <a href="default.aspx?nLanguageID=0&amp;cultureCode=en-US&amp;nclid=1">Spanish</a> | <a href="default.aspx?nLanguageID=0&amp;cultureCode=en-US&amp;nclid=3">Korean</a>
 
-				<a href="loginform.aspx" class="login grey-button">Login</a>
-                
+				           <a href="loginform.aspx?nLanguageID=0&amp;cultureCode=en-US" class="login grey-button">Login</a>
+                     
               </div>
 
             <!-- Cart -->
 			<div id="sea-cart">
-				<a href="cart.aspx" class="cart grey-button">Cart (<span id="ctl00_lblCartTotal">0</span>)</a>
+                
+				<a href="cart.aspx?nLanguageID=0&amp;cultureCode=en-US" class="cart grey-button">Cart (<span id="ctl00_lblCartTotal">0</span>)</a>
+                
 			</div>
 		
 			<!-- Social Media -->
@@ -55,28 +61,27 @@
 				<a href="http://www.youtube.com/seacretdirect" target="_blank"><img src="imagesnew/sea-youtube.png" alt="Subscribe to Seacret Direct on YouTube"></a>
 			</div>
             <!-- Country Selection -->
-            <div style="padding-left: 620px; padding-top: 35px;">
+            <div style="padding-left: 620px; padding-top: 35px; padding-bottom:5px">
                 <table>
                     <tbody><tr>
-                        <td>
-                            <span id="ctl00_CountrySelectorLabel">Select your country...</span>
+                        <td align="center" valign="bottom">
+                            <span id="ctl00_CountrySelectorLabel" style="padding:3px;">Select your country...</span>
                         </td>
                         <td>
-                            <a id="SetCountry_US" style="cursor: pointer; padding: 5px" onmouseover="this.style.cursor='pointer';" href="/privacy.aspx?cultureCode=en-US" "="">
+                            <a id="SetCountry_US" style="cursor: pointer; padding: 5px" onmouseover="this.style.cursor='pointer';" href="default.aspx?nLanguageID=0&amp;cultureCode=en-US">
                                 <img src="imagesnew/flag/United_States_Flag_35px.png" alt="United States"></a>
                         </td>
-                        <!--<td>
-                            <a id="SetCountry_MX" style="cursor: pointer; padding: 5px" onmouseover="this.style.cursor='pointer';"
-                                href="/privacy.aspx?cultureCode=es-MX">
-                                <img src="imagesnew/flag/Mexician_Flag_35.png" alt="Mexico" />
+                        <td>
+                            <a id="SetCountry_MX" style="cursor: pointer; padding: 5px" onmouseover="this.style.cursor='pointer';" href="default.aspx?nLanguageID=0&amp;cultureCode=es-MX">
+                                <img src="imagesnew/flag/Mexician_Flag_35.png" alt="Mexico">
                             </a>
                         </td>
                         <td>
-                            <a id="SetCountry_AR" style="cursor: pointer; padding: 5px" onmouseover="this.style.cursor='pointer';"
-                                href="/privacy.aspx?cultureCode=es-AR">
-                                <img src="imagesnew/flag/Argentina_Flag_35px.png" alt="Argentina" />
+                            <a id="SetCountry_KR" style="cursor: pointer; padding: 5px" onmouseover="this.style.cursor='pointer';" href="default.aspx?nLanguageID=0&amp;cultureCode=ko-KR">
+                                <img src="imagesnew/flag/Korean_Flag_35.png" alt="Korea">
                             </a>
-                        </td>-->
+                        </td>
+                        
                     </tr>
                 </tbody></table>
             </div>
@@ -86,27 +91,35 @@
     <table id="topnav">
       <tbody>
         <tr> 
-          <td class="menu-label" id="menu-home"> <a href="default.aspx" class="sub-menu">HOME</a> 
+          <td class="menu-label" id="menu-home"> <a href="default.aspx?nLanguageID=0&amp;cultureCode=en-US" class="sub-menu">HOME</a> 
             <!---------------------Home----------------------------->
             <div class="relative OuterMenuContent"> 
               <div class="menu-content"> Return to the Homepage </div>
             </div></td>
-          <td class="menu-label"> <a href="aboutus.aspx" class="sub-nav">ABOUT</a> 
+                
+          <td class="menu-label" id="Td2"> <a href="videos.aspx?nLanguageID=0&amp;cultureCode=en-US" class="sub-menu">VIDEOS</a> 
+            <!---------------------Videos----------------------------->
+            <div class="relative OuterMenuContent"> 
+              <div class="menu-content"> View Video Gallery </div>
+            </div></td>
+            
+
+          <td class="menu-label"> <a href="aboutus.aspx?nLanguageID=0&amp;cultureCode=en-US" class="sub-nav">ABOUT</a> 
             <!---------------------About----------------------------->
             <div class="relative OuterMenuContent"> 
               <div class="menu-content"> 
                 <ul class="sub-menu">
-                  <li> <a href="aboutus.aspx?page=overview">Our Story</a> </li>
-                  <li> <a href="aboutus.aspx?page=thedeadsea">The Dead Sea</a> </li>
-                  <li> <a href="aboutus.aspx?page=mission-statement">Mission / Vision</a> </li>
-                  <li> <a href="aboutus.aspx?page=executive-team">Executive Team</a> </li>
-                  <li> <a href="aboutus.aspx?page=giving-back">Giving Back</a> </li>
+                  <li> <a href="aboutus.aspx?page=overview&amp;nLanguageID=0&amp;cultureCode=en-US">Our Story</a> </li>
+                  <li> <a href="aboutus.aspx?page=thedeadsea&amp;nLanguageID=0&amp;cultureCode=en-US">The Dead Sea</a> </li>
+                  <li> <a href="aboutus.aspx?page=mission-statement&amp;nLanguageID=0&amp;cultureCode=en-US">Mission / Vision</a> </li>
+                  <li> <a href="aboutus.aspx?page=executive-team&amp;nLanguageID=0&amp;cultureCode=en-US">Executive Team</a> </li>
+                  <li> <a href="aboutus.aspx?page=giving-back&amp;nLanguageID=0&amp;cultureCode=en-US">Giving Back</a> </li>
                 </ul>
                 <hr>
                Discover the Seacret behind our success, our founders, and our future!</div>
             </div></td>
 
-          <td class="menu-label" id="Td1"> <a href="leadership.aspx" class="sub-menu">Leadership</a> 
+          <td class="menu-label" id="Td1"> <a href="leadership.aspx?nLanguageID=0&amp;cultureCode=en-US" class="sub-menu">Leadership</a> 
             <!---------------------Leadership----------------------------->
             <div class="relative OuterMenuContent"> 
               <div class="menu-content">Meet Our Cabinet and Agency Agents</div>
@@ -114,138 +127,125 @@
 
 <!-- Currently only enabled for CA and US -->
          
-          <td class="menu-label" id="menu-products"> <a href="category.aspx?CatID=0" class="sub-nav">PRODUCTS</a> 
+          <td class="menu-label" id="menu-products"> <a href="category.aspx?CatID=0&amp;nLanguageID=0&amp;cultureCode=en-US" class="sub-nav">PRODUCTS</a> 
             <!---------------------Products----------------------------->
             <div style="position: relative;min-width: 150%;"> 
               <div class="menu-content"> 
-                <div class="one_third"> <strong><a href="category.aspx?CatID=9">Facial Care</a></strong> 
+                <div class="one_third"> <strong><a href="category.aspx?CatID=9&amp;nLanguageID=0&amp;cultureCode=en-US">Facial Care</a></strong> 
                   <hr>
                   <ul>
-                    <li class="cat-item cat-item-5"><a href="category.aspx?CatID=40" title="SEACRET Facial moisturizers and special care products from the Dead Sea">Moisturizers 
-                      &amp; Special Care</a> </li>
-                    <li class="cat-item cat-item-6"><a href="category.aspx?CatID=41" title="SEACRET Facial cleansers and exfoliators from the Dead Sea">Cleansers 
-                      &amp; Exfoliators</a> </li>
-                    <li class="cat-item cat-item-7"><a href="category.aspx?CatID=42" title="SEACRET Facial Mask products from the Dead Sea">Masks</a> 
+                    <li class="cat-item cat-item-5"><a href="category.aspx?CatID=40&amp;nLanguageID=0&amp;cultureCode=en-US" title="SEACRET Facial moisturizers and special care products from the Dead Sea">Moisturizers &amp; Special Care</a> </li>
+                    <li class="cat-item cat-item-6"><a href="category.aspx?CatID=41&amp;nLanguageID=0&amp;cultureCode=en-US" title="SEACRET Facial cleansers and exfoliators from the Dead Sea">Cleansers &amp; Exfoliators</a> </li>
+                    <li class="cat-item cat-item-7"><a href="category.aspx?CatID=42&amp;nLanguageID=0&amp;cultureCode=en-US" title="SEACRET Facial Mask products from the Dead Sea">Masks</a> 
                     </li>
-                    <li> <a href="product.aspx?ItemCode=10250000-99"> 
-                      <img width="225" height="300" src="imagesnew/M4-Mineral-Rich-Magnetic-Mud-Mask-225x300.jpg" class="attachment-medium wp-post-image" alt="M4 Mineral Rich Magnetic Mud Mask" title="M4 Mineral Rich Magnetic Mud Mask"> 
+                    <li> <a href="product.aspx?ItemCode=10250000-99&amp;nLanguageID=0&amp;cultureCode=en-US"> 
+                      <img width="225" height="300" src="imagesnew/M4-Mineral-Rich-Magnetic-Mud-Mask-225x300.jpg" class="attachment-medium wp-post-image" alt="M4 Mineral-Rich Magnetic Mud Mask" title="M4 Mineral-Rich Magnetic Mud Mask"> 
                       </a> </li>
-                    <li> <a href="category.aspx?CatID=9">View 
-                      All Products…</a> </li>
+                    <li> <a href="category.aspx?CatID=9&amp;nLanguageID=0&amp;cultureCode=en-US">View All Products…</a> </li>
                   </ul>
                 </div>
-                <div class="one_third"> <strong><a href="category.aspx?CatID=11">Skin Care</a></strong> 
+                <div class="one_third"> <strong><a href="category.aspx?CatID=11&amp;nLanguageID=0&amp;cultureCode=en-US">Skin Care</a></strong> 
                   <hr>
                   <ul>
-                    <li class="cat-item cat-item-9"><a href="category.aspx?CatID=43" title="SEACRET Skin care body moisturizer products from the Dead Sea">Body 
-                      Moisturizers</a> </li>
-                    <li class="cat-item cat-item-10"><a href="category.aspx?CatID=44" title="SEACRET Skin care hand and nail products from the Dead Sea">Hands 
-                      &amp; Nails</a> </li>
-                    <li class="cat-item cat-item-11"><a href="category.aspx?CatID=45" title="SEACRET skin care body cleansers and exfoliators from the Dead Sea">Body 
-                      Cleansers &amp; Exfoliators</a> </li>
-                    <li> <a href="product.aspx?ItemCode=SALTSCRUB"> 
+                    <li class="cat-item cat-item-9"><a href="category.aspx?CatID=43&amp;nLanguageID=0&amp;cultureCode=en-US" title="SEACRET Skin care body moisturizer products from the Dead Sea">Body Moisturizers</a> </li>
+                    <li class="cat-item cat-item-10"><a href="category.aspx?CatID=44&amp;nLanguageID=0&amp;cultureCode=en-US" title="SEACRET Skin care hand and nail products from the Dead Sea">Hands &amp; Nails</a> </li>
+                    <li class="cat-item cat-item-11"><a href="category.aspx?CatID=45&amp;nLanguageID=0&amp;cultureCode=en-US" title="SEACRET skin care body cleansers and exfoliators from the Dead Sea">Body Cleansers &amp; Exfoliators</a> </li>
+                    <li> <a href="product.aspx?ItemCode=SALTSCRUB&amp;nLanguageID=0&amp;cultureCode=en-US"> 
                       <img width="225" height="300" src="imagesnew/salt-scrub-225x300.jpg" class="attachment-medium wp-post-image" alt="salt-scrub" title="salt-scrub"> 
                       </a> </li>
-                    <li> <a href="category.aspx?CatID=11">View 
-                      All Products…</a> </li>
+                    <li> <a href="category.aspx?CatID=11&amp;nLanguageID=0&amp;cultureCode=en-US">View All Products…</a> </li>
                   </ul>
                 </div>
-                <div class="one_third last"> <strong><a href="category.aspx?CatID=10">Age Defying</a></strong> 
+             
+                <div class="one_third last"> <strong><a href="category.aspx?CatID=10&amp;nLanguageID=0&amp;cultureCode=en-US">Age Defying</a></strong> 
                   <hr>
                   <ul>
-                    <li class="cat-item cat-item-13"><a href="category.aspx?CatID=46" title="SEACRET Age-defying moisturizers and special care products from the Dead Sea">Moisturizers 
-                      &amp; Special Care</a> </li>
-                    <li class="cat-item cat-item-14"><a href="category.aspx?CatID=47" title="SEACRET Age-defying eye care products from the Dead Sea">Eye 
-                      Care</a> </li>
-                    <li class="cat-item cat-item-15"><a href="category.aspx?CatID=48" title="SEACRET Age-defying Masks products from the Dead Sea">Masks</a> 
+                    <li class="cat-item cat-item-13"><a href="category.aspx?CatID=46&amp;nLanguageID=0&amp;cultureCode=en-US" title="SEACRET Age-defying moisturizers and special care products from the Dead Sea">Moisturizers &amp; Special Care</a> </li>
+                    <li class="cat-item cat-item-14"><a href="category.aspx?CatID=47&amp;nLanguageID=0&amp;cultureCode=en-US" title="SEACRET Age-defying eye care products from the Dead Sea">Eye Care</a> </li>
+                    <li class="cat-item cat-item-15"><a href="category.aspx?CatID=48&amp;nLanguageID=0&amp;cultureCode=en-US" title="SEACRET Age-defying Masks products from the Dead Sea">Masks</a> 
                     </li>
-                    <li> <a href="product.aspx?ItemCode=11200400-00"> 
+                    <li> <a href="product.aspx?ItemCode=11200400-01&amp;nLanguageID=0&amp;cultureCode=en-US"> 
                       <img width="225" height="300" src="imagesnew/age-defying-facial-care-225x300.jpg" class="attachment-medium wp-post-image" alt="age-defying-facial-care" title="age-defying-facial-care"> 
                       </a> </li>
-                    <li> <a href="category.aspx?CatID=10">View 
-                      All Products…</a> </li>
+                    <li> <a href="category.aspx?CatID=10&amp;nLanguageID=0&amp;cultureCode=en-US">View All Products…</a> </li>
                   </ul>
                 </div>
-                <div class="one_third"> <strong><a href="category.aspx?CatID=49">For Men</a></strong> 
+                
+                <div class="one_third"> <strong><a href="category.aspx?CatID=49&amp;nLanguageID=0&amp;cultureCode=en-US">For Men</a></strong> 
                   <hr>
                   <ul>
-                    <li> <a href="product.aspx?ItemCode=13400000-00"> 
-                      Men's After-Shave Balm </a> </li>
-                    <li> <a href="product.aspx?ItemCode=10300300-00"> 
-                      Foot Cream </a> </li>
-                    <li> <a href="product.aspx?ItemCode=13400000-00"> 
-                      <img width="300" height="220" src="productimages/13400000-00_L.png" class="attachment-medium wp-post-image" alt="mens-after-shave" title="mens-after-shave"> 
+                    <li> <a href="product.aspx?ItemCode=13400000-00&amp;nLanguageID=0&amp;cultureCode=en-US">Men's After-Shave Balm</a> </li>
+                    <li> <a href="product.aspx?ItemCode=10300300-00&amp;nLanguageID=0&amp;cultureCode=en-US">Foot Cream</a> </li>
+                    <li> <a href="product.aspx?ItemCode=13400000-00&amp;nLanguageID=0&amp;cultureCode=en-US"> 
+                      <img width="300" height="220" src="imagesnew/13400000-00_L.png" class="attachment-medium wp-post-image" alt="Men's After-Shave Balm" title="Men's After-Shave Balm"> 
                       </a> </li>
-                    <li> <a href="category.aspx?CatID=49">View 
-                      All Products…</a> </li>
+                    <li> <a href="category.aspx?CatID=49&amp;nLanguageID=0&amp;cultureCode=en-US">View All Products…</a> </li>
                   </ul>
                 </div>
-                <div class="one_third"> <strong><a href="category.aspx?CatID=12">Recover</a></strong> 
+                <div class="one_third"> <strong><a href="category.aspx?CatID=12&amp;nLanguageID=0&amp;cultureCode=en-US">Recover</a></strong> 
                   <hr>
                   <ul>
-                    <li> <a href="product.aspx?ItemCode=12252000-99"> 
-                      Re-Cover Night Masque </a> </li>
-                    <li> <a href="product.aspx?ItemCode=12251000-99"> 
-                      Re-Cover Neck &amp; Décolleté Masque </a> </li>
-                    <li> <a href="product.aspx?ItemCode=12250000-99"> 
-                      Re-Cover Day Masque </a> </li>
-                    <li> <a href="product.aspx?ItemCode=12252000-99"> 
-                      <img width="167" height="300" src="imagesnew/recover-night-only-167x300.jpg" class="attachment-medium wp-post-image" alt="recover-night-only" title="recover-night-only"> 
+                    <li> <a href="product.aspx?ItemCode=12252000-99&amp;nLanguageID=0&amp;cultureCode=en-US">Re-Cover Night Masque</a> </li>
+                    <li> <a href="product.aspx?ItemCode=12251000-99&amp;nLanguageID=0&amp;cultureCode=en-US">Re-Cover Neck &amp; Décolleté Masque </a> </li>
+                    <li> <a href="product.aspx?ItemCode=12250000-99&amp;nLanguageID=0&amp;cultureCode=en-US">Re-Cover Day Masque</a> </li>
+                      
+                      <li> <a href="product.aspx?ItemCode=12252000-99&amp;nLanguageID=0&amp;cultureCode=en-US"> 
+                      <img width="167" height="300" src="imagesnew/recover-night-only-167x300.jpg" class="attachment-medium wp-post-image" alt="Re-Cover Night Masque" title="Re-Cover Night Masque"> 
                       </a> </li>
-                    <li> <a href="category.aspx?CatID=12">View 
-                      All Products…</a> </li>
+                    
+                    <li> <a href="category.aspx?CatID=12&amp;nLanguageID=0&amp;cultureCode=en-US">View All Products…</a> </li>
                   </ul>
                 </div>
-                <div class="one_third last"> <strong><a href="category.aspx?CatID=50">Gifts</a></strong> 
+                
+                <div class="one_third last"> <strong><a href="category.aspx?CatID=50&amp;nLanguageID=0&amp;cultureCode=en-US">Gifts</a></strong> 
                   <hr>
                   <ul>
-                    <li> <a href="product.aspx?ItemCode=10253000-99"> 
-                      Mineral Cleansing Set </a> </li>
-                    <li> <a href="product.aspx?ItemCode=10255000-99"> 
-                      Complete Facial Care </a> </li>
-                    <li> <a href="product.aspx?ItemCode=11252000-99"> 
-                      Age Defying Facial Care </a> </li>
-                    <li> <a href="product.aspx?ItemCode=10610900-99"> 
-                      Radiant Face Skin </a> </li>
-                    <li> <a href="product.aspx?ItemCode=NailCare"> 
+                    <li> <a href="product.aspx?ItemCode=10253000-99&amp;nLanguageID=0&amp;cultureCode=en-US">Mineral Cleansing Set</a> </li>
+                    <li> <a href="product.aspx?ItemCode=10255000-99&amp;nLanguageID=0&amp;cultureCode=en-US">Complete Facial Care Set</a> </li>
+                    <li> <a href="product.aspx?ItemCode=11252000-99&amp;nLanguageID=0&amp;cultureCode=en-US">Age-Defying Facial Care Set</a> </li>
+                    <li> <a href="product.aspx?ItemCode=10610900-99&amp;nLanguageID=0&amp;cultureCode=en-US">Radiant Face Skin</a> </li>
+                    <li> <a href="product.aspx?ItemCode=NailCare&amp;nLanguageID=0&amp;cultureCode=en-US"> 
                       <img width="225" height="300" src="imagesnew/nail-care-collection-225x300.jpg" class="attachment-medium wp-post-image" alt="nail-care-collection" title="nail-care-collection"> 
                       </a> </li>
-                    <li> <a href="category.aspx?CatID=50">View 
-                      All Products…</a> </li>
+                    <li> <a href="category.aspx?CatID=50&amp;nLanguageID=0&amp;cultureCode=en-US">View All Products…</a> </li>
                   </ul>
                 </div>
+                
               </div>
             </div>
           </td>
- 
-          <td class="menu-label" id="menu-science"> <a href="science.aspx">SCIENCE</a> 
+    
+          <td class="menu-label" id="menu-science"> <a href="science.aspx?nLanguageID=0&amp;cultureCode=en-US">SCIENCE</a> 
             <div style="position: relative;min-width: 150%;"> 
               <div class="menu-content"> 
                 <ul class="sub-menu">
-                  <li> <a href="science-recover.aspx?page=how-recover-works">How Recover Works</a> </li>
-                  <li> <a href="science-recover.aspx?page=a-revolutionary-approach">A Revolutionary Approach</a> </li>
-                  <li> <a href="science-recover.aspx?page=the-reservoir-effect">The Reservoir Effect</a> </li>
-                  <li> <a href="science-recover.aspx?page=the-proof-recover-at-work">The Proof - Recover At Work</a> </li>
+                  <li> <a href="science-recover.aspx?page=how-recover-works&amp;nLanguageID=0&amp;cultureCode=en-US">How Recover Works</a> </li>
+                  <li> <a href="science-recover.aspx?page=a-revolutionary-approach&amp;nLanguageID=0&amp;cultureCode=en-US">A Revolutionary Approach</a> </li>
+                  <li> <a href="science-recover.aspx?page=the-reservoir-effect&amp;nLanguageID=0&amp;cultureCode=en-US">The Reservoir Effect</a> </li>
+                  <li> <a href="science-recover.aspx?page=the-proof-recover-at-work&amp;nLanguageID=0&amp;cultureCode=en-US">The Proof - Recover At Work</a> </li>
                 </ul>
                 <hr>
                 Seacret's Re-cover line of face, neck, and décolleté Masques are based on patented technology and backed by clinically-proven results</div>
             </div></td>
-          <td class="menu-label"> <a href="businessopportunity.aspx" class="sub-nav">OPPORTUNITY</a> 
+            
+          <td class="menu-label"> <a href="businessopportunity.aspx?nLanguageID=0&amp;cultureCode=en-US" class="sub-nav">OPPORTUNITY</a> 
             <!---------------------Opportunity----------------------------->
             <div class="relative OuterMenuContent"> 
               <div class="menu-content"> 
                 <ul class="sub-menu">
-                  <li> <a href="businessopportunity.aspx?page=compdetails">Compensation Details</a> </li>
-                  <li> <a href="businessopportunity.aspx?page=overview">Opportunity Overview</a> </li>
-                  <li> <a href="businessopportunity.aspx?page=about-the-industry">About the Industry</a> </li>
-                  <li> <a href="skintype/default.aspx">Preferred Customer</a> 
+                  <li> <a href="businessopportunity.aspx?page=compdetails&amp;nLanguageID=0&amp;cultureCode=en-US">Compensation Details</a> </li>
+                  <li> <a href="businessopportunity.aspx?page=overview&amp;nLanguageID=0&amp;cultureCode=en-US">Opportunity Overview</a> </li>
+                  <li> <a href="businessopportunity.aspx?page=about-the-industry&amp;nLanguageID=0&amp;cultureCode=en-US">About the Industry</a> </li>
+                  
+                       <li> <a href="skintype/default.aspx?nLanguageID=0&amp;cultureCode=en-US">Preferred Customer</a> 
+                  
                   </li>
-                  <li> <a href="businessopportunity.aspx?page=join">Join Now</a> </li>
+                  <li> <a href="businessopportunity.aspx?page=join&amp;nLanguageID=0&amp;cultureCode=en-US">Join Now</a> </li>
                 </ul>
                 <hr>
                 Experience success and better living through the unique opportunity brought to you by Seacret Direct! </div>
             </div></td>
-          <td class="menu-label"> <a href="contactus.aspx" class="sub-nav">CONTACT</a> 
+          <td class="menu-label"> <a href="contactus.aspx?nLanguageID=0&amp;cultureCode=en-US" class="sub-nav">CONTACT</a> 
             <!---------------------Contact----------------------------->
             <div class="relative OuterMenuContent"> 
               <div class="menu-content"> Go here to send us a message and to see our contact information! </div>
@@ -294,9 +294,11 @@
             </tbody></table>
             <!--Start Content-->
             
-            <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
+            <form name="aspnetForm" method="post" action="/privacy.aspx?nLanguageID=0&amp;cultureCode=en-US" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNDk5OTk1NTAPZBYCZg9kFgYCAQ8PFgIeBFRleHQFATBkZAICDw8WAh8ABRZTZWxlY3QgeW91ciBjb3VudHJ5Li4uZGQCAw8PFgIfAAUOUHJpdmFjeSBQb2xpY3lkZGS21AizbUlUKMUGPtmqJpF5Dv2aGw==">
-            
+      
+     
+                  
             
 
 <div class="postcontent">
@@ -369,44 +371,46 @@
 <div id="footer-wrap"> 
 	<div id="footer"> 
 		<!-- Start div to center footer icons -->
-			<a class="sea-links" href="http://www.youtube.com/seacretdirect" target="_blank"><img src="imagesnew/sea-video.png" alt="Seacret Facts"><br>VIDEOS</a> 
-			<a class="sea-links" href="businessopportunity.aspx"><img src="imagesnew/sea-opp.png" alt="Seacret Opportunity"><br>SEACRET OPPORTUNITY</a> 		
-            <a class="sea-links" href="contactus.aspx"><img src="imagesnew/sea-contact.png" alt="Seacret Contact"><br>CONTACT US</a> 
-			<a class="sea-links" href="faqs.aspx"><img src="imagesnew/sea-faqs.png" alt="Seacret FAQs"><br>SEACRET FAQs</a> 
+			<a class="sea-links" href="videos.aspx?nLanguageID=0&amp;cultureCode=en-US" target="_blank"><img src="imagesnew/sea-video.png" alt="Seacret Facts"><br>VIDEOS</a> 
+			<a class="sea-links" href="businessopportunity.aspx?nLanguageID=0&amp;cultureCode=en-US"><img src="imagesnew/sea-opp.png" alt="Seacret Opportunity"><br>SEACRET OPPORTUNITY</a> 		
+            <a class="sea-links" href="contactus.aspx?nLanguageID=0&amp;cultureCode=en-US"><img src="imagesnew/sea-contact.png" alt="Seacret Contact"><br>CONTACT US</a> 
+			<a class="sea-links" href="faqs.aspx?nLanguageID=0&amp;cultureCode=en-US"><img src="imagesnew/sea-faqs.png" alt="Featured NextSeacret FAQs"><br>SEACRET FAQs</a> 
          
-			<a class="sea-links" href="category.aspx?CatID=0"><img src="imagesnew/sea-shop.png" alt="Shop Seacret"><br>SHOP SEACRET</a> 
+			<a class="sea-links" href="category.aspx?CatID=0&amp;nLanguageID=0&amp;cultureCode=en-US"><img src="imagesnew/sea-shop.png" alt="Seacret Shop"><br>SHOP SEACRET</a> 
             
-            <a class="sea-links" href="loginform.aspx"><img src="imagesnew/sea-gate.png" alt="Member Access"><br>MEMBER ACCESS</a> 
+                      <a class="sea-links" href="loginform.aspx?nLanguageID=0&amp;cultureCode=en-US"><img src="imagesnew/sea-gate.png" alt="Member Access"><br>MEMBER ACCESS</a> 
+                
 		<!-- End div to center footer icons -->
 		<div class="clearfix">&nbsp;</div>
 		<div class="menu-site-map-container">
 			<ul id="menu-site-map" class="menu">
 				<li id="menu-item-305" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-305">
-					<a href="default.aspx">HOME</a>
+					<a href="default.aspx?nLanguageID=0&amp;cultureCode=en-US">HOME</a>
 				</li> 
 				<li id="menu-item-304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-304">
-					<a href="aboutus.aspx">ABOUT</a>
+					<a href="aboutus.aspx?nLanguageID=0&amp;cultureCode=en-US">ABOUT</a>
 				</li> 
                 
 				<li id="menu-item-313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-313">
-					<a href="category.aspx?CatID=0">PRODUCTS</a>
+					<a href="category.aspx?CatID=0&amp;nLanguageID=0&amp;cultureCode=en-US">PRODUCTS</a>
 				</li> 
                 
 				<li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303">
-					<a href="businessopportunity.aspx">OPPORTUNITY</a>
+					<a href="businessopportunity.aspx?nLanguageID=0&amp;cultureCode=en-US">OPPORTUNITY</a>
 				</li> 
 	
                 <li id="menu-item-309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-309">
 					<!-- Start Join Now Footer Link -->
-					<a href="faqs.aspx">FAQs</a>
+					<a href="faqs.aspx?nLanguageID=0&amp;cultureCode=en-US">FAQs</a>
 					<!-- End Join Now Footer Link -->
 				</li> 
 				<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307">	
-					<a href="contactus.aspx">CONTACT</a>
+					<a href="contactus.aspx?nLanguageID=0&amp;cultureCode=en-US">CONTACT</a>
 				</li> 
+                
 			</ul>
 		</div>		
-		<p id="copyright">© 2011 <a href="#">Seacret Direct.</a> ALL RIGHTS RESERVED.  |  <a href="privacy.aspx">Privacy Policy</a></p> 
+		<p id="copyright">© 2013 <a href="#">Seacret Direct.</a> ALL RIGHTS RESERVED .  |  <a href="privacy.aspx?nLanguageID=0&amp;cultureCode=en-US">Privacy Policy</a> </p> 
 	</div> 
 </div> 
  
@@ -419,13 +423,20 @@
  
 jQuery(function(){
 	jQuery.noConflict();
-	
-	var isMac = navigator.userAgent.indexOf("Mac") != -1
+
+    var isMac = navigator.userAgent.indexOf("Mac") != -1;
      if(isMac)
      {
          jQuery("#main-top-content .one_third").attr('style','min-height: 240px;max-height: 240px;height: 240px;');
      }
 	
+	jQuery("#agent-lookup a").fancybox({
+	    'width': 800,
+	    'height': 370,
+	    'autoScale': false,
+	    'type': 'iframe'
+	});
+
 	jQuery("#txtNewsletterSubscribe").focus(function() {
 		jQuery(this).val('','');
 	});
@@ -510,8 +521,8 @@ jQuery(function(){
 });
 //]]>
 </script>
-<script type="text/javascript" src="js/fancybox/jquery.easing-1.3.pack.js?ver=1.3.4"></script> 
 <script type="text/javascript" src="js/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.3.4"></script> 
+<script type="text/javascript" src="js/fancybox/jquery.easing-1.3.pack.js?ver=1.3.4"></script> 
 <script type="text/javascript" src="js/et-ptemplates-frontend.js?ver=1.1"></script> 
 
 
