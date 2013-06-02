@@ -1,89 +1,225 @@
-> *The following text is extracted and transformed from the chick-fil-a.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226080238id_/http%3A//www.chick-fil-a.com/Legal/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chick-fil-a.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602132555id_/http%3A//www.chick-fil-a.com/Legal/Privacy) for the most accurate reproduction.*
 
 # Chick-fil-A: Privacy
 
-At Chick-fil-A, Inc. ("Chick-fil-A”, the "Company", “we” or “our”), we are sensitive to issues concerning your privacy, and we are committed to respecting the privacy rights of our customers, visitors, and other users of our website, www.Chick-fil-A.com (the "Site"). We believe that it is important that you understand how we collect, treat and use the personal information you decide to share on this Site. This Website Privacy Policy ("Privacy Policy") is intended to demonstrate our commitment to fair practices and the protection of privacy and is designed to help you make informed decisions about what information you share on this Site.
+This Privacy Policy (“Privacy Policy”) describes the information practices of Chick-fil-A, Inc. ("Chick-fil-A”) and, as applicable, its affiliates, subsidiaries and related entities such as CFA Properties, Inc. and CFA Servco, Inc. (“Affiliates”), (Chick-fil-A and its Affiliates are referred to herein, as the context may require, as “we”, “us”, or “our"). It covers the information that Chick-fil-A collects about you, how we use and share this information, and your choices regarding our collection and use. 
+
+If you have any questions or concerns regarding this Privacy Policy, please contact us via the Contact Information provided at the end of this Privacy Policy.
 
 ### The Chick-fil-A Franchise System
 
-Chick-fil-A owns and operates a franchise system that is a restaurant network made up of company-owned, franchised and licensed Chick-fil-A restaurants. Chick-fil-A franchised Operators own and operate their own individual franchised businesses. Chick-fil-A Licensees own and operate their own licensed businesses.
+The Chick-fil-A franchise system is a restaurant network made up of company-operated, franchised, and licensed Chick-fil-A restaurant businesses. Chick-fil-A franchisees (“Franchised Operators” or “Operators”) own and operate their own individual franchised businesses. Chick-fil-A licensees (“Licensees”) are granted a license to use Chick-fil-A’s trade name and marks in the sale of Chick-fil-A products at Chick-fil-A licensed locations. Franchised Operators and Licensees are independent third parties, and this Privacy Policy does not apply to the privacy practices of any Franchised Operator or Licensee. Please see the Franchised Operator and Licensee Websites section for more information regarding a Franchised Operator’s or Licensee’s website.
 
-If Chick-fil-A chooses to share any information it collects through this Site with any of its franchised Operators or Licensees, such franchised Operators or Licensees will be required to adhere to this Privacy Policy
+If Chick-fil-A chooses to share any of your information, including Personal Information, with any of its Franchised Operators or Licensees, they will be required to adhere to this Privacy Policy. 
 
-By viewing or posting any information to this Site, you are agreeing to our use of any information collected. In order for you to post messages, comments, or other information on this Site, we may collect certain personally identifiable information about you.
+### Information Covered by This Privacy Policy
 
-In addition to any information we collect from you, you may have the ability to post a message that may include personally identifiable information. You are responsible for all actions resulting from any information that you post on this Site. Messages, comments, and other information you post are accessible to the public. Accordingly, if you post comments, messages, or other information containing personally identifiable information on this Site, you may receive unsolicited messages from other parties in return. You assume complete responsibility and risk in your use of this Site. Questions or concerns regarding this Site should be directed to the Site administrator or webmaster identified at the end of this Privacy Policy.
+This Privacy Policy applies to information, including Personal Information, collected about you by Chick-fil-A and its third-party service providers. As used in this Privacy Policy, “Personal Information” means information that personally identifies you.
 
-### Types of Information Collected:   
-Traffic Data
+### Information Collected
 
-In addition to any information you post on this Site, this Site collects Traffic Data and Personal Information (described below). This Site automatically tracks and collects the following information when you visit this Site: your (i) IP address; (ii) domain server; (iii) type of computer; and (iv) type of web browser (collectively, "Traffic Data"). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes, for understanding how you interact with this Site, or for improving your experience on this Site. For example, we use this information for statistical purposes, such as measuring the average time spent on this Site and the pages viewed on this Site. We also use "cookies" (small pieces of information that are stored by your browser on your computer's hard drive) to help provide additional functionality to this Site and to help accurately measure usage of this Site. In all cases in which cookies are used, your Personal Information will not be collected unless you expressly agree to provide it. Most browsers are initially set to accept cookies. Further information about cookies can be found at <http://www.microsoft.com/info/cookies.htm>. We may share the Traffic Data we collect through this Site with third-parties, including, but not limited to, web service providers, third-party marketing companies, online ordering and credit card processors, Chick-fil-A and its subsidiaries and affiliates and Chick-fil-A® franchised Operators and Licensees.
+Chick-fil-A and its third-party service providers collect information about you from a variety of sources, including information you provide directly to us, and information we collect about you when you interact with us. For example, we and our third-party service providers collect information both directly and indirectly from you when you:
+
+  * access or use our websites located at [www.Chick-fil-A.com](http://www.chick-fil-a.com/), [www.shopChick-fil-A.com](http://www.shopchick-fil-a.com/), [www.eatmorchiken.com](http://www.eatmorchiken.com/), [www.Chick-fil-Aforbreakfast.com](http://www.chick-fil-aforbreakfast.com/), our mobile applications, and any other website or application where this Privacy Policy is posted (collectively, the "Sites"); 
+  * order and/or purchase any of our products or services;
+  * contact or communicate with us; 
+  * create an account with us;
+  * request information from us; 
+  * register for any event and/or participate in any event, contest, surveys, or other promotion that we may offer from time to time (collectively, “Promotions”); 
+  * begin or complete the application process for a franchise opportunity, or for employment by Chick-fil-A, Inc; 
+  * access or use Chick-fil-A pages or accounts on any third-party social media platforms such as Facebook, Twitter, or Foursquare (“Social Media Pages”); 
+  * sign-up for communications (e.g., Email Insiders, Text Insiders, or social media notifications) from us; 
+  * provide or submit comments, stories, suggestions, or other content or input to us; and/or
+  * otherwise interact with us and our Sites. 
+
+
+
+We may combine any of the information collected about you for the purposes described in this Privacy Policy.
 
 ### Personal Information
 
-In order for you to participate in certain activities or access certain services that we offer via this Site and/or to post information or comments on this Site, we may require you to provide certain information that identifies you (“Personal Information”). We collect Personal Information, including, but not limited to, names, addresses, telephone numbers, email addresses, social security number, date of birth, educational background, criminal background, employment background, status to work lawfully in the United States, financial information, and similar identifying information, only when you voluntarily submit this information.
+We and our third-party service providers collect Personal Information provided by you or on your behalf, which information may include your: 
 
-If you communicate with us via e-mail, post messages to this Site, or otherwise complete online forms, surveys, orders or contest entries, any such information provided may be collected as Personal Information. We may refer to your Personal Information to understand better your needs and how we can improve our products and services. We may also use your Personal Information to contact you. Finally, we may share your Personal Information with third-party web service providers, online ordering and credit card processors, our subsidiaries and affiliates and Chick-fil-A® franchised Operators and Licensees in order to fulfill any activity requests, product orders or service requests that you make via this Site. For example, any purchases made through this Site may require disclosure of your Personal Information, your credit card information and information about the name and address of the person(s) making and/or receiving the purchase. The credit card information may be subject to verification by the issuing credit card company or another company. Sales and shipping records will also be generated and maintained. Unless you give us permission at the time we collect such information, however, we will not use this information for any purpose except the fulfillment and record keeping of the transaction. We do not otherwise sell or transfer your Personal Information to any third party.
+  * name;
+  * address;
+  * telephone numbers (including mobile numbers);
+  * email addresses;
+  * date of birth and/or age; 
+  * demographic information; and/or
+  * financial information (e.g., credit and debit card numbers).
 
-We do not require you to provide Sensitive Personal Information to use this Site. “Sensitive Personal Information” includes information pertaining to racial origins, religious beliefs, and sexual orientation.
+
+
+We do not require you to provide any information related to your racial origin, religious beliefs, or sexual orientation.
+
+### Transaction Data
+
+We and our third-party service providers may also collect information, including Personal Information, relating to your purchases from Chick-fil-A and its Franchised Operators and Licensees, such as the authorization code of the transaction, payment method, the date and time of the transaction, items purchased, and the purchase price ("Transaction Data"). 
+
+### Information Collected Automatically
+
+We and our third-party service providers use Traffic Data, Cookies, Web Beacons, and other tracking technologies to automatically collect certain information from you. The following are examples of information we may collect with these technologies: 
+
+  * your IP address;
+  * browser type and operating system;
+  * pages you view within our Sites;
+  * websites you visited before coming to our Site;
+  * emails from us that you open and/or forward; and/or
+  * offers or links from us to which you connect.
+
+
+
+We use this information to personalize your online experience and for marketing purposes. 
+
+Traffic Data. Our Sites automatically track and collect your IP address, domain server, type of computer, and type of web browser (collectively, “Traffic Data”). Traffic Data does not typically include Personal Information, but rather is anonymous information that is helpful for our marketing purposes for improving your experience on our Sites.
+
+Cookies. We also use cookies, which are small text files that are stored on a user’s computer and allow websites to remember information about users (“Cookies”). We use Cookies to monitor how our Sites are used and to help personalize your online experience. Most browsers automatically accept Cookies. You have the choice to set your browser to accept or reject Cookies. Each browser is different, so check the "Help" menu of your browser to learn how to change your Cookie preferences. You can also learn more about Cookies at the following websites: 
+
+  * For Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.mspx>; 
+  * For Mozilla Firefox: <http://support.mozilla.com/en-US/kb/Options+window+-+Privacy+panel>;
+  * For Safari: <http://support.apple.com/kb/HT1677>; and/or 
+  * [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
+
+
+
+If you choose to decline Cookies, you may not be able to fully experience the interactive features of our Sites or service. 
+
+Web Beacons. Certain pages on our Sites and Social Media Pages may contain web beacons (also known as Internet tags, pixel tags, and clear GIFs), which are small bits of code embedded in pages or images on our Sites and Social Media Pages (“Web Beacons”). We may also include Web Beacons in e-mails we send to you to learn if messages have been opened, acted on, or forwarded. You can disable the ability of Web Beacons to capture such information. Please refer to the "Help" menu of your browser to learn more about Web Beacons and your ability to disable them.
+
+Other Technologies. We and our third-party service providers may also utilize other tracking technologies. For example, if permitted by applicable law, we may collect "referrers" and various environmental variables. A "referrer" is information the web browser passes along to our or our third-party service provider web servers, which refers to the URL from which you accessed our Site. Environmental variables may include, among other things, the domain from which you access the Internet, the time you accessed our Site or Social Media Page, the type of web browsers and operating system or platform used, the Internet address of the website you left to visit our Site or Social Media Page, the names of the web pages you visit, and the Internet address of the website you visit next. These environmental variables are collected by most websites, and can be used to optimize your online experience.
+
+We treat information automatically collected as non-personally identifying information. Such information may be combined with your Personal Information so that we can make our Sites and communications more personalized for you. To the extent that information automatically collected is combined with Personal Information, we treat the combined information as Personal Information for the purposes of this Privacy Policy. 
+
+### Mobile Applications
+
+In addition to the information described above, we and our third-party service providers may collect additional information when you utilize any of our mobile applications, including the type of mobile device you use, the temporary or persistent unique device identifiers (sometimes called UDID), the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use our mobile applications. 
+
+If you utilize any of the location-based services in our mobile applications, such as Find a Restaurant, we and our third-party service providers may collect, use, and share location data, including the real-time geographic location of your device. We use such information to provide and improve location-based products and services. You may opt-out from further allowing us to have access to your location data by adjusting the permissions in your mobile device. 
+
+### Information Use
+
+We use your information that we collect, including Personal Information, for a variety of business purposes, including:
+
+  * providing our products and services to you;
+  * processing payments;
+  * communicating with you regarding our restaurants, products, services, events, Promotions, and other offers;
+  * making our Sites and communications tailored to your interests;
+  * creating and managing your accounts with us (e.g., E-mail Insiders, Text Insiders, online registration for events, online ordering, mobile application ordering, etc.);
+  * administering our Promotions and other offers;
+  * tailoring our products, services, Sites, and advertisements to your interests;
+  * responding to your inquiries, comments, stories, or postings;
+  * improving and customizing our products, services, and Sites according to your individual interests;
+  * for internal operations such as enhancing our product and service offerings, marketing efforts, and to conduct research and analysis;
+  * developing new products, services, and Promotions;
+  * for marketing purposes;
+  * to enforce our Terms of Use; and/or
+  * to protect the security and integrity of our business and our Sites.
+
+
+
+### Information Sharing Disclosure
+
+We share and disclose your Personal Information under the following circumstances:
+
+  * with third parties that provide a variety of services on our behalf, including the development, maintenance, and support of our Sites and Social Media Pages, payment processing, online and mobile application ordering, the distribution of email and mobile messages, Promotions, and marketing research and analysis;
+  * within Chick-fil-A and with its Affiliates (as such terms are defined above in this Privacy Policy);
+  * with our Franchised Operators and Licensees in order to provide our products, services, and Promotions to you, and for marketing purposes;
+  * to comply with law, a court order, or other legal process, or in connection with a legal investigation;
+  * as may be necessary to protect the safety, property, or other rights of Chick-fil-A, its Affiliates, Franchised Operators and Licensees, and our and their respective employees, customers, visitors, users, or any other person or entity;
+  * to enforce any applicable terms and conditions and other agreements;
+  * in the event of a corporate transaction; 
+  * in aggregated or other non-personally identifiable form; and/or
+  * in accordance with your consent.
+
+
+
+We do not sell your Personal Information to third parties for their marketing purposes.
+
+### User Generated Content
+
+Our Sites and Social Media Pages may allow users to post messages and submit their own content (e.g., stories, comments, blogs, postings, etc.), which may include Personal Information. You are responsible for all actions resulting from any information, including Personal Information, which you post on our Sites or Social Media Pages. Please remember that any information you post becomes public information, is not subject to this Privacy Policy, and Chick-fil-A is not responsible for the results of such postings.
 
 ### Collection and Use of Personal Information of Prospective Chick-fil-A Franchised Operators
 
-We will only collect Personal Information when you voluntarily submit such information via this Site.
+If you complete an application for a franchise opportunity with Chick-fil-A, or express interest or otherwise request information about franchise opportunities, we collect Personal Information that you provide in connection with your request for information and/or to evaluate your application for a franchise restaurant business opportunity. We may also collect Personal Information about you from third parties to supplement, update, or verify your information, and/or to process your application for consideration as a Franchised Operator. Applicable law may require that you authorize a third party to share your Personal Information with us before we can acquire it. Failure to provide any requested information may negatively impact consideration of your application to become a Franchised Operator. By expressing interest in becoming and/or applying to become a Franchised Operator, you consent to our collection, use, and disclosure of your Personal Information in this manner. 
 
-If you complete an application for a franchise opportunity with Chick-fil-A on this Site, or express interest or otherwise request information about franchise opportunities, we will use your Personal Information to comply with your request for information or in connection with evaluating your application for a franchise restaurant business opportunity. By expressing interest in becoming and/or applying to become an Operator of a franchised Chick-fil-A Restaurant business, you consent to the collection, use, and disclosure of your Personal Information in order to assist you in applying to become a Chick-fil-A® franchised Operator, and to assist us in selecting Chick-fil-A Operator candidates. Personal Information collected from Operator applicants includes, but is not limited to, name, address, telephone numbers, social security number, email address, date of birth, educational background, criminal background and financial statement. Failure to provide any requested information, including, but not limited to, requested Personal Information, may negatively impact consideration of your application to become a Chick-fil-A® franchised Operator. In order to serve better the Chick-fil-A® franchised Operators, a Chick-fil-A Operator's Personal Information may be shared between Chick-fil-A and its subsidiaries and affiliates.
+### Collection and Use of Personal Information of Chick-fil-A, Inc. Employment Applicants
 
-### Collection and Use of Chick-fil-A, Inc. Employment Applicant Personal Information
+If you complete an application for employment with Chick-fil-A, Inc., or request information regarding such opportunities, we collect Personal Information that you provide in connection with your request for information and/or to evaluate your application for employment with Chick-fil-A, Inc. We may also collect Personal Information about you from third parties to supplement, update, or verify your information, and/or to process your application for consideration as a Chick-fil-A, Inc. employee. Applicable law may require that you authorize a third party to share your Personal Information with us before we can acquire it. Failure to provide any requested information may negatively impact consideration of your employment application. By applying to become an employee of Chick-fil-A, Inc. you consent to our collection, use, and disclosure of your Personal Information in this manner. 
 
-We will only collect Personal Information when you voluntarily submit such information to us at this Site.
+### Your Choices
 
-If, through this Site, you complete an application for employment with Chick-fil-A, Inc. for a corporate staff position, or request information regarding such opportunities, we will use your Personal Information to comply with your request for information or in connection with evaluating your application for an employment position on Chick-fil-A's corporate staff. By applying to become a Chick-fil-A staff member, you consent to the collection, use and disclosure of your Personal Information in this manner. Personal Information collected from an individual applicant includes, but is not limited to, name, address, telephone numbers, status to work lawfully in the United States, educational background, employment history and background, and other information pertinent to employment qualifications. Failure to provide any requested information, including but not limited to requested Personal Information, may negatively impact consideration of your application to become a Chick-fil-A employee on our corporate staff. The Personal Information included in your employment application may be shared by and among Chick-fil-A and its subsidiaries and affiliates.
+We provide you with the opportunity to update and/or delete certain information and to opt-out of having your Personal Information used or disclosed for certain purposes. For example, you may 
+
+  * correct, update, and delete your online account; 
+  * change your choices for subscriptions and certain communications (e.g., Email insider, Text insider, and other notifications);
+  * choose whether to receive Promotions and offers from us; 
+  * request that we do not share your Personal Information with third parties for their marketing purposes; and/or
+  * request access to your Personal Information. 
+
+
+
+You may exercise your choices by contacting us via the Contact Information provided at the end of this Privacy Policy, or following instructions provided in communications sent to you. 
+
+Because we plan our communications in advance, it may take several weeks for your request to become effective. If you continue to receive our communications after expressing an opt-out preference, please let us know so that we can investigate the situation.
+
+Please be aware that, if you do not allow us to collect and use your Personal Information, we may not be able to deliver certain products, services, and offerings to you.
 
 ### Children's Privacy
 
-This Site is not directed to persons under the age of 13. WE DO NOT KNOWINGLY REQUEST, SOLICIT OR COLLECT PERSONAL INFORMATION FROM ANY PERSON WE KNOW TO BE UNDER THE AGE OF 13. In the event that we receive actual knowledge that we have collected or received Personal Information from anyone under the age of 13, we will delete that information from our data base as soon as practicable. If a parent or guardian becomes aware that his or her child has provided personally identifiable information or otherwise made posts to this Site, the parent or guardian should contact us so that we can delete such information.
+We do not knowingly collect Personal Information online from children under the age of 13 without parental or guardian consent. Please contact us via the Contact Information provided below if you believe we may have collected such information without parental or guardian consent or other than in a manner authorized by law, and we will work to delete it. 
 
-If we collect Personal Information from children under the age of 13 with verifiable parental consent, we will ensure that:
+### Information Security
 
-  * Parents will be given a choice as to whether their child's Personal Information will be disclosed to any third parties prior to any such disclosure;
-  * Parents will have access to their child's Personal Information upon their request and the opportunity to remove or delete the child's Personal Information and opt-out of future collection or use of the child's Personal Information;
-  * We will not condition a child's participation in a contest, game or other activity on the child disclosing more Personal Information than is reasonably necessary to participate in that contest, game or other activity; and
-  * We will maintain the security, confidentiality and integrity of the Personal Information collected from a child.
+We seek to keep your Personal Information secure and implement reasonable technical, administrative, and physical safeguards to help us protect such information from unauthorized access, use, and disclosure. When we collect or transmit sensitive information such as a credit card number, we use industry standard methods to protect that information. We also request that our third-party service providers use commercially reasonable security measures to protect your information from unauthorized access or use. However, no method of electronically transmitting or storing data is ever completely secure, and therefore, we cannot guarantee that your information will never be accessed, used, or disclosed in a manner that is inconsistent with this Privacy Policy.
 
+### Links, Third-Party Websites, and Social Media Platforms
 
-
-### Confidentiality and Security of Personal Information
-
-We engage certain third parties to perform services and certain functions for this Site. For example, we may engage a third party to host and maintain this Site. As a part of the services provided by our third party vendors, we may share your personally identifiable information with these third parties. We use reasonable efforts to keep your Personal Information private and, except as otherwise provided in this Privacy Policy, we will not share it with third parties, unless such disclosure is necessary to (a) comply with a court order or other legal process; (b) protect your rights or our property; or (c) enforce the Terms and Conditions of Use of this Site. We will request that our third party service providers do the same. We use, and ask that our third party service providers use, security measures (such as secured servers) to protect your information from unauthorized access. Although we take measures to safeguard against unauthorized disclosures of Personal Information, we cannot assure you that personally identifiable information that we collect will only be disclosed in a manner that is consistent with this Privacy Policy.
-
-### Other Limits to Your Privacy
-
-This Site may contain links to other websites. We are not responsible for privacy practices, policies or the content of such websites. Please understand that any information that is disclosed in these areas may become public information. We have no control over the use of such information, and you should exercise caution when deciding to disclose your Personal Information. These websites may use their own cookies or solicit personally identifiable information from you. We encourage you to read and understand the privacy policies of any other websites that you visit.
+Our Sites and communications may contain links to other third-party websites, including, without limitation, the websites of Franchised Operators and Licensees, and social media platforms such as Facebook, Twitter, or Foursquare (“Linked Sites”). We are not responsible for the privacy practices, policies, or content of any Linked Sites, even if you link to them from our Sites or communications. This Privacy Policy does not apply to any Linked Sites. We have no control over the collection or use of information, including Personal Information, on any Linked Site. We encourage you to read and understand the privacy policies of any Linked Sites that you visit.
 
 ### Franchised Operator and Licensee Websites
 
-Subject to certain terms and conditions, we may offer a Chick-fil-A franchised Operator the right to create and maintain a designated website for his or her franchised Restaurant business that is linked to our Site. As a condition to allowing the Operator to establish a separate website linked to our Site, the Operator must agree to abide by our current Privacy Policy set forth on this Site in operating his or her website for the franchised Restaurant business. Chick-fil-A® franchised Operators are independent businessmen and women and, therefore, you should carefully review the privacy policy of each linked Operator site to determine the privacy policies of that site. Chick-fil-A disclaims any responsibility or liability for any Operator website linked to this Site, as well as for any Operator's online behavior and actual privacy practices in connection with such a site.
+Chick-fil-A Franchised Operators and Licensees are independent third parties and may own, operate, and maintain a website for his, her, or its franchised or licensed restaurant business. We do not:
 
-To the extent any Chick-fil-A franchised Operator or Licensee owns, maintains or operates a website that is not linked to this Site, you should review the privacy policy of such franchised Operator or Licensee website to determine the privacy policies applicable to such site. Chick-fil-A disclaims any responsibility or liability for any Operator website that is not linked to this Site, as well as for any Operator's online behavior and actual privacy practices in connection with such a site.
-
-Chick-fil-A does not: 
-
-  * exercise control over any Chick-fil-A franchised Operator's or Licensee's website;
-  * monitor, endorse or review the content of any Chick-fil-A franchised Operator's or Licensee's website (provided, however, we do monitor and review the content of franchised Operator websites that are linked to this Site for adherence to Chick-fil-A's minimum website standards including design and the display and presentation of Chick-fil-A's proprietary marks);
-  * guarantee the accuracy of information on any Chick-fil-A franchised Operator's or Licensee's website; or
-  * assume any responsibility for the content or policies of any Chick-fil-A franchised Operator's or Licensee's website, including any privacy policies, or the online behavior or actual practices of any Chick-fil-A franchised Operator or Licensee.
+  * exercise control over any Franchised Operator’s or Licensee’s website;
+  * monitor, endorse, or review the content of any Franchised Operator’s or Licensee’s website; or
+  * guarantee the accuracy of information on any Franchised Operator’s or Licensee’s website.
 
 
 
-Any access or use of any Chick-fil-A franchised Operator's or Licensee's website is subject to that site's terms and conditions/use and privacy policy and you assume complete responsibility and risk in your use of such website. Questions or concerns regarding any Chick-fil-A franchised Operator's or Licensee's website should be directed to the franchised Operator or Licensee, or to the franchised Operator's or Licensee's site administrator or webmaster.
+Therefore, you should carefully review the privacy policy of each Franchised Operator or Licensee website that you visit. Questions or concerns regarding any Franchised Operator’s or Licensee’s website should be directed to the Franchised Operator or Licensee, or to the Franchised Operator’s or Licensee’s site administrator or webmaster.
 
-### Effective Date and Changes
+We may, subject to certain terms and conditions, allow a Franchised Operator or Licensee to link to our Sites, provided that the Franchised Operator or Licensee agrees to abide by our current Privacy Policy in operating any such linked website. Chick-fil-A, however, is not responsible or liable for any Franchised Operator or Licensee website, even if it is linked to this Site, or for any Franchised Operator’s or Licensee’s online conduct and privacy practices. 
 
-This Privacy Policy is effective as of March 24, 2011. From time to time, it may be necessary to update or modify this Privacy Policy. Accordingly, we reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on this Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon its posting on this Site.
+### E-mail Security
 
-### Questions
+"Phishing" is a scam designed to steal your Personal Information. If you receive an e-mail that looks like it is from us asking you for your Personal Information which you suspect may be a scam, please notify us as provided in the Contact Information section included at the end of this Privacy Policy.
 
-If you have any questions about this Privacy Policy or our use of your personally identifiable information,   
-please contact us at 404-765-8000.
+### Visiting this Site from Outside of the United States
 
-© 2011 Chick-fil-A, Inc.
+If you are visiting our Sites or Social Media Pages from outside of the United States or otherwise contacting or visiting us from outside of the United States, please be aware that your Personal Information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By providing your information, you understand that it may be transferred to our facilities and to those third parties with whom we share it as described in this Privacy Policy.
+
+### Changes to the Privacy Policy
+
+We may revise this Privacy Policy from time to time effective upon posting the revised Privacy Policy, along with the date on which it was most recently updated, on our Sites. Please check our Privacy Policy periodically to see if it has been updated. If a change to this Privacy Policy materially affects the use or disclosure of your Personal Information, a notice will be posted at [www.chick-fil-a.com](http://www.chick-fil-a.com/) along with a link to the updated Privacy Policy. Your continued use of our Sites and/or provision of your information thereafter constitute your acceptance of such changes. Please contact us as described below if you would like information regarding any changes.
+
+### Contact Information
+
+If you have any questions about this Privacy Policy or our use of your Personal Information, please contact us in any of the ways set forth below. 
+
+Address:
+
+Chick-fil-A, Inc.  
+5200 Buffington Road  
+Atlanta, Georgia 30349-2998  
+Attn: Sherri Ellenberg
+
+Via the Web: [http://www.Chick-fil-A.com/Connect/Contact-Us-CARES](http://www.chick-fil-a.com/Connect/Contact-Us-CARES)
+
+Phone: 1-866-CFA-2040 or 1-866-232-2040
+
+### Last Updated
+
+Privacy Policy last updated on March 28, 2013
+
+Copyright © 2013 Chick-fil-A, Inc. All rights reserved
