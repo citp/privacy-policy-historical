@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesalepipeline.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011050949id_/http%3A//wholesalepipeline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesalepipeline.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602163820id_/http%3A//wholesalepipeline.com/privacy-policy) for the most accurate reproduction.*
 
 # Wholesale Pipeline | Drop Ship and Wholesale Directory
 
