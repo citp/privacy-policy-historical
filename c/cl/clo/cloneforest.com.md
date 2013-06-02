@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cloneforest.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010134806id_/http%3A//cloneforest.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloneforest.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602095355id_/http%3A//cloneforest.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Marketplace script, Themeforest clone - CloneForest
-
-Privacy Policy
 
 CloneForest values the privacy and security of the information that you share with us through www.cloneforest.com (the “Web Site”). It is important that you understand how we collect, use, and maintain your information. This Privacy Policy explains our online information practices, the choices you may make about how we collect and use your information at this Web Site, and the ways you may contact us.
 
