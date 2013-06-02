@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneworld.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115121415id_/http%3A//www.oneworld.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneworld.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602184629id_/http%3A//www.oneworld.com/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - oneworld
 
@@ -9,7 +9,7 @@ This Privacy Policy outlines the personal information we collect, how we use it,
 
 ## Who we are
 
-oneworld is an alliance of 12 International airlines, including American Airlines, British Airways, Cathay Pacific, Finnair, Iberia, JAL Japan Airlines, LAN, Qantas, Royal Jordanian and S7 Airlines.
+oneworld is an alliance of 11 International airlines, including airberlin, American Airlines, British Airways, Cathay Pacific, Finnair, Iberia, Japan Airlines, LAN, Malaysia Airlines, Qantas, Royal Jordanian and S7 Airlines.
 
 As an alliance, oneworld and its members share information, including personal details of our customers.
 
@@ -46,7 +46,7 @@ This information helps us improve the functionality and navigation of our sites 
 
 ## Links
 
-oneworld websites contain links to other sites. Please note that oneworld's Privacy Policy applies solely to information collected by oneworld.
+oneworld websites contain links to other sites. Please note that **one** world's Privacy Policy applies solely to information collected by oneworld.
 
 We are not responsible for the content or privacy practices of external sites, therefore we encourage you to read the privacy statements contained on each of these sites regarding the collection of your personal information. 
 
