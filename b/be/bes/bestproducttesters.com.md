@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestproducttesters.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227120648id_/http%3A//bestproducttesters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestproducttesters.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602221017id_/http%3A//bestproducttesters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Product Testers
 
@@ -8,7 +8,10 @@ Product Testers
 
 Privacy Policy
 
-This Privacy Policy discloses the privacy practices for the [www.producttesters.com](http://www.producttesters.com/) website (the “Website”). CPX Interactive LLC, the provider of the Website (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us.
+This Privacy Policy discloses the privacy practices for the [www.bestproducttesters.com](http://www.bestproducttesters.com/) website (the “Website”). Affiture, the provider of the Website (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us.
+
+Why am I receiving this Ad?  
+One of the websites that you frequently visit allows our advertisers to buy space on their properties. They do this to ensure people can continue to browse their site for free by allowing them to pay the fees associated with owning a website. If you would like to opt out of receiving advertisements like the one you are seeing, click here (<http://www.networkadvertising.org/consumer/opt_out.asp>)and opt out of all available Advertisers on the following page. Also send an email to [producttesters1@gmail.com](mailto:producttesters1@gmail.com) with the word REMOVE in the subject line and we will opt you out of all email marketing as soon as we can. 
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.
 
@@ -52,7 +55,7 @@ We also use Third Party Service Providers to track and analyze Non-Personally Id
 
 5\. Updating and Correcting Information
 
-We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by logging into your account, sending us an email at [producttesters1@gmail.com](mailto:producttesters1@gmail.com) or writing to us at 1600 Stewart Avenue Suite 401 Westbury, NY 11590. Please indicate your name, address and email address, and what information you would like to update when you contact us.
+We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by logging into your account, sending us an email at [producttesters1@gmail.com](mailto:producttesters1@gmail.com) or writing to us at P.O. BOX 1091 MIDTOWN STATION, NY, NY, 10018. Please indicate your name, address and email address, and what information you would like to update when you contact us.
 
 We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Website. In addition, in may be impossible for us to completely delete all of your information because we periodically backup information.
 
@@ -90,8 +93,8 @@ Notice of Privacy Rights to California Residents. California law requires that w
 
 11\. Contacting Us
 
-Corporate Address  
-1600 Stewart Avenue, Suite 401  
-Westbury, NY 11590  
+P.O. BOX 1091  
+MIDTOWN STATION  
+NY, NY, 10018  
 For Customers  
 Customer Service Inquiries | [producttesters1@gmail.com](mailto:producttesters1@gmail.com)
