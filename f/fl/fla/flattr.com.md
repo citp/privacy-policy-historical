@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the flattr.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014090728id_/https%3A//flattr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flattr.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602172509id_/https%3A//flattr.com/privacy) for the most accurate reproduction.*
 
-# Politique de confidentialité - Flattr.com
+# Privacy policy - Flattr.com
 
-  * [Conditions d'utilisation](https://web.archive.org/terms)
-  * [Politique de confidentialité](https://web.archive.org/privacy)
+  * [Terms of use](https://web.archive.org/terms)
+  * [Privacy policy](https://web.archive.org/privacy)
 
 
 
@@ -31,7 +31,7 @@ We only collect and process information that is relevant to the purpose of our F
 
 Registration: In order for you to use the Services you will provide us with information by filling in forms on the Flattr Site. This may include information provided at the time of registering to use the Flattr Site including your full name and e-mail address (“User Profile”), subscribing to the Service, posting material or requesting further services. We may also ask you for information when you report a problem with the Flattr Site.
 
-User Profile: To allow you to express yourself beyond just the information collected during registration, we may eventually enable you to provide additional information, such as a bio or favourite URLs. In addition, you may eventually be able to include photos of yourself in your profile. As indicated below, in the section titled “Sharing Your Information”, you can control how your information is displayed and used.
+User Profile: To allow you to express yourself beyond just the information collected during registration, we may eventually enable you to provide additional information, such as a bio or favorite URLs. In addition, you may eventually be able to include photos of yourself in your profile. As indicated below, in the section titled “Sharing Your Information”, you can control how your information is displayed and used.
 
 Your Use of the Service: Once you start using the Flattr Site, we collect information about your activity on Flattr-enabled sites via cookies in order to recognise you. We do this so you can avoid having to re-identify yourself manually when you visit the sites you have chosen to support. Once activated, the “Flattr Button” (defined in the Terms) also keeps count of your Flattr Button clicks in order to allocate your “Flattring Amounts” as “Flattring Proceeds” (each defined in the Terms). We may keep details of any such allocations and any disbursements of the Flattring Proceeds as well as the information about any Site Owner’s “Designated Account” (defined in the Terms) required for any such disbursements. We encode our cookies so that only we can interpret the information stored in them. You can decline our cookie if your browser permits but doing so will interfere with the use of the Service.
 
