@@ -1,0 +1,356 @@
+<!--The following is the downloaded HTML source of the jotwell.us privacy policy that was archived on 2013-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603013911id_/http%3A//jotwell.us/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Jotwell Web Directory &nbsp;- Privacy Policy  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/templates/Elevation/style/main.css">
+<link rel="stylesheet" type="text/css" href="/templates/Elevation/style/fileuploader.css">
+<meta name="keywords" content="Privacy Policy">
+<meta name="description" content="Privacy Policy">
+<meta name="author" content="Derek / JOTWELL">
+<meta name="copyright" content="Copyright (c) 2009 by JOTWELL. All rights reserved!">
+<meta name="generator" content="PHP Link Directory 4.2.2">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        var valid_obj = new Object();
+    </script>
+<!--[if IE 8]>
+<link rel="stylesheet" href="/templates/Elevation/style/ie8.css" type="text/css" media="all" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="/templates/Elevation/style/ie7.css" type="text/css" media="all" />
+<![endif]-->
+<!--[if IE 6]>
+<link rel="stylesheet" href="/templates/Elevation/style/ie6.css" type="text/css" media="all" />
+<![endif]-->
+<script type="text/javascript">
+         var valid_obj = new Object();
+     </script>
+</head>
+<body>
+<script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.jotwell.us/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = jQuery.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = jQuery.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = jQuery.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = jQuery.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = jQuery.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = jQuery.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.login_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if (jQuery("#login_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
+		};
+
+		jQuery("#login_form").validate(valid_obj.login_form);
+
+                var selects = jQuery("#login_form").find("select");
+                var crt;
+                jQuery.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
+                        jQuery("#"+crt).change(function() {
+                          jQuery(this).valid();
+                        });
+                    }
+                });
+	});
+</script>
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = jQuery.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = jQuery.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = jQuery.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = jQuery.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = jQuery.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = jQuery.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.search_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if (jQuery("#search_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {search: {"required":true}}, "messages": {}
+		};
+
+		jQuery("#search_form").validate(valid_obj.search_form);
+
+                var selects = jQuery("#search_form").find("select");
+                var crt;
+                jQuery.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
+                        jQuery("#"+crt).change(function() {
+                          jQuery(this).valid();
+                        });
+                    }
+                });
+	});
+</script>
+<div id="topwrapper">
+<div id="top">
+<form method="post" action="/login.php" onsubmit="ajaxFunction();">
+<table id="login" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td><label>Username:</label></td>
+<td><input type="text" name="user" value="" size="20" maxlength="25" class="text"></td>
+<td><label>Password:</label></td>	
+<td><input type="password" name="pass" value="" size="20" maxlength="25" class="text"></td>
+<td><input class="button" type="submit" name="login" value="Login"></td>
+<td class="sep"><div id="loginsplit"></div></td>
+<td><a href="/profile.php?mode=register" title="Register">Register</a></td>
+</tr>
+</tbody></table>
+<a class="lostpassword" href="/profile.php?mode=sendpassword" title="Recover your password">Lost password?</a>
+<img src="/templates/Elevation/images/lost.gif">
+<input type="hidden" name="formSubmitted" value="1">
+</form>
+</div>
+</div>
+<div id="headerwrapper">
+<div id="header">
+<a class="logo" href="/"><img src="/templates/Elevation/images/logo.gif" alt=""></a>
+<div id="searchmenu">
+<div class="left"></div>
+<div class="center">
+<div id="search">
+<form action="/index.php" method="get" style="float: left; margin: 0px; padding: 0px" id="search_form">
+<div id="inputleft"></div>
+<input onfocus="javascript: if (this.value=='Search') this.value='';" type="text" value="Search" name="search">
+<div id="inputright"></div>
+<button type="submit"></button>
+</form>
+<a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced<br>Search</a>
+</div><script type="text/javascript">
+
+var view1 = 0;
+var view2 = 0;
+
+</script><div id="menu"><ul><li><div class="split"></div></li><li><a href="" onclick="return false;" onmouseover="document.getElementById('bar1').style.display='block';" onmouseout="if(view1==0) document.getElementById('bar1').style.display='none';"><span class="dropdown">Submit</span></a><div id="bar1" style="display: none;" onmouseover="this.style.display='block'; view1++;" onmouseout="this.style.display='none';  view1--;"><a href="/submit.php">»&nbsp;&nbsp;Link</a><br><a href="/submit_article.php" style="border-top: 1px dotted #A4A4A4;">»&nbsp;&nbsp;Article</a></div></li><li><div class="split"></div></li><li><a href="" onclick="return false;" onmouseover="document.getElementById('bar2').style.display='block';" onmouseout="if(view2==0) document.getElementById('bar2').style.display='none';"><span class="dropdown">Latest</span></a><div id="bar2" style="display: none;" onmouseover="this.style.display='block'; view1++;" onmouseout="this.style.display='none';  view1--;"><a href="/latest-links.html">»&nbsp;&nbsp;Latest Links</a><a href="/latest-articles.html" style="border-top: 1px dotted #A4A4A4;">»&nbsp;&nbsp;Latest Articles</a></div></li><li><div class="split"></div></li><li><a href="/top-hits.html" title="Browse most popular links"><span>Top Hits</span></a></li></ul></div></div><div class="right"></div><a class="rss" href="/rss.php?c="></a></div></div></div><div id="contentwrapper"><div id="content"><div id="contentTop"></div><div class="clear"></div><div id="contentMiddle"><div id="sideleft">
+<ul id="sortable_left" style="list-style-type: none; float: left; padding: 0px; margin: 0;">
+<li id="121">
+<center><script type="text/javascript"><!--
+google_ad_client = "ca-pub-7978031335774277";
+/* JotwellMainPage_Left */
+google_ad_slot = "5034578651";
+google_ad_width = 200;
+google_ad_height = 200;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center>
+</li>
+</ul>
+<br>
+</div><div id="main"><ul id="main_container" style="list-style-type: none; padding: 0px; margin: 0;"><li></li></ul><div class="path"><a href="/" id="firstPath">Jotwell</a><span>Privacy Policy</span></div>
+<table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><strong><span style="font-size: medium;">Privacy Policy</span></strong><br><br><span style="font-size: medium;">This Privacy Policy governs the manner in which Jotwell collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="http://www.jotwell.us">http://www.jotwell.us</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by Jotwell.</span><br><br><span style="font-size: medium;"> <strong>Personal identification information</strong></span><br><br><span style="font-size: medium;"> We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</span><br><br><span style="font-size: medium;"> <strong>Non-personal identification information</strong></span><br><br><span style="font-size: medium;"> We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.</span><br><br><span style="font-size: medium;"> <strong>Web browser cookies</strong></span><br><br><span style="font-size: medium;"> Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.</span><br><br><span style="font-size: medium;"> <strong>How we use collected information</strong></span><br><br><span style="font-size: medium;"> Jotwell may collect and use Users personal information for the following purposes:</span><br>
+<ul>
+<li><span style="font-size: medium;"><em>- To improve customer service</em></span><br><span style="font-size: medium;"> Information you provide helps us respond to your customer service requests and support needs more efficiently.</span></li>
+<li><span style="font-size: medium;"><em>- To personalize user experience</em></span><br><span style="font-size: medium;"> We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.</span></li>
+<li><span style="font-size: medium;"><em>- To improve our Site</em></span><br><span style="font-size: medium;"> We may use feedback you provide to improve our products and services.</span></li>
+<li><span style="font-size: medium;"><em>- To process payments</em></span><br><span style="font-size: medium;"> We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.</span></li>
+</ul>
+<span style="font-size: medium;"><strong>How we protect your information</strong></span><br><br><span style="font-size: medium;"> We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.</span><br><br><span style="font-size: medium;"> <strong>Sharing your personal information</strong></span><br><br><span style="font-size: medium;"> We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.</span><br><br><span style="font-size: medium;"> <strong>Google Adsense</strong></span><br><br><span style="font-size: medium;"> Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a></span><br><br><span style="font-size: medium;"> <strong>Changes to this privacy policy</strong></span><br><br><span style="font-size: medium;"> Jotwell has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</span><br><br><span style="font-size: medium;"> <strong>Your acceptance of these terms</strong></span><br><br><span style="font-size: medium;"> By using this Site, you signify your acceptance of this policy and <a href="http://www.jotwell.us/terms.html">terms of service</a>. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</span><br><br><span style="font-size: medium;"> <strong>Contacting us</strong></span><br><br><span style="font-size: medium;"> If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:</span><br><span style="font-size: medium;"> <a href="http://www.jotwell.us/contact.php">http://www.jotwell.us/contact.php</a></span><br> <br><span style="font-size: medium;"> This document was last updated on March 28, 2013</span></td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div><li id="134"><center><script type="text/javascript"><!--
+google_ad_client = "ca-pub-7978031335774277";
+/* MediumRectangle */
+google_ad_slot = "7643831053";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center>
+</li></div><div id="sideright" style="width: 215px;">
+<ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
+<li id="129">
+<center><script type="text/javascript"><!--
+google_ad_client = "ca-pub-7978031335774277";
+/* Jotwell_WideSkyscraper */
+google_ad_slot = "1948721055";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center>
+</li>
+</ul>
+</div><div class="clear"></div></div></div></div><div id="footerwrapper"><div id="footer"><div id="footercontent"><center><div style="width: 460px; height: 25px; visibility: visible"><a href="about.html">About Us</a> | <a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms of Service</a> | <a href="contact.php">Contact</a></div></center>© 2013 <a href="http://www.phplinkdirectory.com" title="PHP Link Directory">PHP Link Directory</a></div></div></div><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37971881-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>&nbsp;<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37971881-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body></html>
