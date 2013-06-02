@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iheartpublix.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225104250id_/http%3A//www.iheartpublix.com/index.php/2010/05/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iheartpublix.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602225541id_/http%3A//www.iheartpublix.com/index.php/2010/05/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Uncategorized « I Heart Publix
 
@@ -63,3 +63,5 @@ If we decide to change our privacy policy, we will update the Privacy Policy mod
 This policy was last modified on 5/11/11
 
 http://www.iheartpublix.com/
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.iheartpublix.com%2Findex.php%2F2010%2F05%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
