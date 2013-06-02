@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the traveloregon.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106234619id_/http%3A//traveloregon.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveloregon.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603000236id_/http%3A//traveloregon.com/legal/%23privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Travel Oregon
+# Privacy Policy | Travel Oregon
 
 ## Privacy Policy & Terms of Use
 
