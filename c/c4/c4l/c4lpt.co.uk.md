@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c4lpt.co.uk privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201052451id_/http%3A//c4lpt.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c4lpt.co.uk privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603005738id_/http%3A//c4lpt.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Centre for Learning & Performance Technologies
 
