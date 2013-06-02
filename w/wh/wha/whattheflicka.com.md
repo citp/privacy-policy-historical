@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whattheflicka.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214032805id_/http%3A//whattheflicka.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whattheflicka.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602170330id_/http%3A//whattheflicka.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | What The Flicka?
 
