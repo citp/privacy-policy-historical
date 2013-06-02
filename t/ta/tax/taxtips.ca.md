@@ -1,38 +1,38 @@
-> *The following text is extracted and transformed from the taxtips.ca privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxtips.ca privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/privacy.htm) for the most accurate reproduction.*
 
 # TaxTips.ca - Personal Information Protection Policy
 
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/whatsnew.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/calculators.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/personal_income_tax.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/small_business_income_tax.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/salestaxes.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/freein30.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/financialplanning.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/RRSPs.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/realestate.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/stocksandbonds.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/seniors.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/disabilities.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/fedtax.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/abtax.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/bctax.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/mbtax.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/ontax.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/qctax.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/sktax.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/atlantic.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/territories.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/federalbudget.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/provbudgets.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/statistics.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/glossary.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/site_map.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/busdir.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/advertising.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/contact.htm)  
-[](https://web.archive.org/web/20120921132301id_/http%3A//taxtips.ca/links.htm)
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/whatsnew.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/calculators.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/personal_income_tax.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/small_business_income_tax.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/salestaxes.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/freein30.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/financialplanning.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/RRSPs.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/realestate.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/stocksandbonds.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/seniors.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/disabilities.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/fedtax.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/abtax.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/bctax.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/mbtax.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/ontax.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/qctax.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/sktax.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/atlantic.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/territories.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/federalbudget.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/provbudgets.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/statistics.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/glossary.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/site_map.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/busdir.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/advertising.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/contact.htm)  
+[](https://web.archive.org/web/20130602082911id_/http%3A//taxtips.ca/links.htm)
 
 | | 
 
@@ -66,54 +66,18 @@ This Personal Information Protection Policy, in compliance with PIPA, outlines t
 
 1.2 We will only collect client and web site visitor information that is necessary to fulfill the following purposes: 
 
-| | 
-
-To verify identity (clients only);  
-  
+| |  To verify identity (clients only);  
 ---|---  
-| 
-
-To identify client and web site visitor preferences;  
+|  To identify client and web site visitor preferences;  
+|  To open and manage an account;  
+|  To provide requested services;  
+|  To send out information about updates on our web site;  
+|  To ensure a high standard of service to our clients and web site visitors  
+|  To meet regulatory requirements;   
+|  To collect and process payments for services;  
   
-| 
+1.3 We use third-party advertising companies to serve ads when you visit our website.  These companies may use information ( ** _not_** including your name, address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Network Advertising Initiative](http://www.networkadvertising.org/) (NAI) website.  We use Google Adsense to serve ads on our site, which uses the DoubleClick DART cookie.  Please review the following information:
 
-To open and manage an account;  
-  
-| 
-
-To provide requested services;  
-  
-| 
-
-To send out information about updates on our web site;  
-  
-| 
-
-To ensure a high standard of service to our clients and web site visitors  
-  
-| 
-
-To meet regulatory requirements;   
-  
-| 
-
-To collect and process payments for services;  
-  
-1.3 We use third-party advertising companies to serve ads when you visit our website.  These companies may use information ( ** _not_** including your name, address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Network Advertising Initiative](http://www.networkadvertising.org/) (NAI) website.  We use Google Adsense to serve ads on our site.  Please review the following information regarding Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
-
-| 
-
-Google, as a third party vendor, uses cookies to serve ads on our site  
-  
----|---  
-| 
-
-Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the internet.  
-  
-| 
-
-Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/).  
-  
 #### Policy 2 - Consent
 
 2.1 We will obtain client or web site visitor consent to collect, use or disclose personal information (except where, as noted below, we are authorized to do so without consent). 
@@ -126,48 +90,19 @@ Users may opt out of the use of the DART cookie by visiting the [Google ad and c
 
 2.5 We may collect, use or disclose personal information without the clients' or web site visitors' knowledge or consent in the following limited circumstances: 
 
-| 
-
-When the collection, use or disclosure of personal information is permitted or required by law;  
-  
+|  When the collection, use or disclosure of personal information is permitted or required by law;  
 ---|---  
-| 
-
-In an emergency that threatens an individual's life, health, or personal security;  
-  
-| 
-
-When the personal information is available from a public source (e.g., a telephone directory);  
-  
-| 
-
-When we require legal advice from a lawyer;  
-  
-| 
-
-For the purposes of collecting a debt;  
-  
-| 
-
-To protect ourselves from fraud;  
-  
-| 
-
-To investigate an anticipated breach of an agreement or a contravention of law   
+|  In an emergency that threatens an individual's life, health, or personal security;  
+|  When the personal information is available from a public source (e.g., a telephone directory);  
+|  When we require legal advice from a lawyer;  
+|  For the purposes of collecting a debt;  
+|  To protect ourselves from fraud;  
+|  To investigate an anticipated breach of an agreement or a contravention of law   
   
 #### Policy 3 - Using and Disclosing Personal Information
 
 3.1 We will only use or disclose client or web site visitor personal information where necessary to fulfill the purposes identified at the time of collection or for a purpose reasonably related to those purposes such as:
 
-| 
-
-To conduct client or web site visitor surveys in order to enhance the provision of our services;  
-  
----|---  
-| 
-
-To contact our clients directly about products and services that may be of interest  
-  
 3.2 We will not use or disclose client or web site visitor personal information for any additional purpose unless we obtain consent to do so.
 
 3.3 We will not sell client or web site visitor lists or personal information to other parties. 
@@ -192,23 +127,6 @@ To contact our clients directly about products and services that may be of inter
 
 6.2 The following security measures will be followed to ensure that client or web site visitor personal information is appropriately protected:
 
-| 
-
-physically securing offices where personal information is held;  
-  
----|---  
-| 
-
-the use of user IDs, passwords, firewalls;  
-  
-| 
-
-restricting employee access to personal information as appropriate (i.e., only those that need to know will have access;  
-  
-| 
-
-contractually requiring any service providers to provide comparable security measures.  
-  
 6.3 We will use appropriate security measures when destroying client's or web site visitor's personal information such as shredding documents and deleting electronically stored information.
 
 6.4 We will continually review and update our security policies and controls as technology changes to ensure ongoing personal information security.
