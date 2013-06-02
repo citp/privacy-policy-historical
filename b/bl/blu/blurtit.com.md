@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the blurtit.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219030225id_/http%3A//www.blurtit.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blurtit.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602025759id_/http%3A//www.blurtit.com/privacy_policy) for the most accurate reproduction.*
 
-# Support - Privacy - Blurtit
+# Blurtit - Support
 
 ## Privacy Policy
 
-Welcome to Blurtit. Thanks for taking the time to read our Privacy Policy. By using the Blurtit website, you will be agreeing to this Privacy Policy, and so it is important that you read and digest the following information which explains how we use information about you. 
+Welcome to Blurtit. Thanks for taking the time to read our Privacy Policy. By using the Blurtit website, you will be agreeing to this Privacy Policy, and so it is important that you read and digest the following information which explains how we use information about you.
 
 ### We use cookies. It's nothing to worry about.
 
-Blurtit uses standard methods to record data about your visit, storing 'cookies' on your computer to keep track of your preferences and activity on Blurtit. These cookies are essential to the operation of Blurtit, and therefore we don't offer a facility to disable them. 
+Blurtit uses standard methods to record data about your visit, storing 'cookies' on your computer to keep track of your preferences and activity on Blurtit. These cookies are essential to the operation of Blurtit, and therefore we don't offer a facility to disable them.
 
 If you really don't want Blurtit to use cookies, you can block this facility using specific browser options. [Further Details About Controlling Cookies](https://web.archive.org/q151250.html)
 
-Blurtit links up with third-party social, analytics and advertising companies which may use cookies to collect information about other sites you have visited, in order to enhance your experience on Blurtit. We have no access to, or control over, these cookies. The companies that we directly link with are: 
+Blurtit links up with third-party social, analytics and advertising companies which may use cookies to collect information about other sites you have visited, in order to enhance your experience on Blurtit. We have no access to, or control over, these cookies. The companies that we directly link with are:
 
   * Google, Inc. [Privacy policy](http://www.google.com/policies/privacy/)
   * Kontera Technologies, Inc. [Privacy policy](http://www.kontera.com/about/privacy-policy)
@@ -24,7 +24,7 @@ Blurtit links up with third-party social, analytics and advertising companies wh
 
 
 
-A lot of advertising companies participate in self-regulatory programs for online behavioral advertising. To check which ones are tracking you, head over to [www.aboutads.info/choices](http://www.aboutads.info/choices/) or [networkadvertising.org/managing](http://www.networkadvertising.org/managing/opt_out.asp). You are also given the option to opt out of behavioral advertising from networks that you choose. 
+A lot of advertising companies participate in self-regulatory programs for online behavioral advertising. To check which ones are tracking you, head over to [www.aboutads.info/choices](http://www.aboutads.info/choices/) or [networkadvertising.org/managing](http://www.networkadvertising.org/managing/opt_out.asp). You are also given the option to opt out of behavioral advertising from networks that you choose.
 
 ### We store information that you give us, and also log data about your browsing activity.
 
@@ -48,12 +48,12 @@ Blurtit will use data to help improve the effectiveness of the website and user 
 
 ### We look after your information, and strive to correct any mistakes.
 
-All personal information collected by Blurtit is held in accordance with the Data Protection Act which aims to protect user details and private information, and to handle data responsibly. 
+All personal information collected by Blurtit is held in accordance with the Data Protection Act which aims to protect user details and private information, and to handle data responsibly.
 
-The Blurtit team routinely accesses stored data (personal and otherwise) for normal business activities. 
+The Blurtit team routinely accesses stored data (personal and otherwise) for normal business activities.
 
 For the protection of Blurtit and others, we may release personal information when we believe in good faith that it is necessary to comply with a law; to enforce or apply our terms of use and other policies; or to protect the rights, property, or safety of Blurtit, our employees, our members, or others.
 
-If you have submitted personal information which you would like removed from our databases, you should request this through our [contact page](https://web.archive.org/support/contact). We endeavor to respond to such requests within five working days. 
+If you have submitted personal information which you would like removed from our databases, you should request this through our [contact page](https://web.archive.org/support/contact).We endeavor to respond to such requests within five working days.
 
-If you notice a some erroneous information, or think that there is a mistake on Blurtit, use our [contact page](https://web.archive.org/support/contact) to let us know. We will usually reply within two working days. 
+If you notice a some erroneous information, or think that there is a mistake on Blurtit, use our [contact page](https://web.archive.org/support/contact) to let us know. We will usually reply within two working days.
