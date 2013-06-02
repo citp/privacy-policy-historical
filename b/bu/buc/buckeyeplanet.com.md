@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buckeyeplanet.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005063551id_/http%3A//www.buckeyeplanet.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buckeyeplanet.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602044530id_/http%3A//www.buckeyeplanet.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # BuckeyePlanet - Ohio State Fan Community - Privacy Policy
 
