@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrangler.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218015116id_/http%3A//www.wrangler.com/wps/wcm/connect/wrangler-en_us/customer_service/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrangler.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602222826id_/http%3A//www.wrangler.com/store/WRG_STORE_US/en_US/content/customer_service/privacy_policy.html) for the most accurate reproduction.*
 
 # Wrangler
 
@@ -27,7 +27,7 @@ If you provide Personal Information to us, including Personal Information about 
 **Aggregate and Automatically Collected Information:**  
 We collect and store certain other non-personally identifiable information automatically whenever you interact with this Web Site. For example, we may collect your Internet Protocol (IP) address, browser information and reference site domain name when you visit this Web Site.
 
- **Use of Cookies/Web Beacons:**  
+**Use of Cookies/Web Beacons:**  
 Like many other web sites, we may collect information regarding customer traffic patterns and site usage by using cookies, web beacons and related technologies. We use the information gathered from cookies, web beacons and related technologies to analyze and understand how the Web Site is used and to enhance your visits to the Web Site. For example, we may use cookies and related technologies to: (i) customize account pages for you, (ii) track user visits and account features, (iii) determine what features and pages are most frequently requested or visited, and (iv) save your password so you do not have to provide it each time you visit the Web Site. "Cookies" are small text files that a web site sends to a user's hard drive through the browser for data storage. Most browsers accept cookies automatically but allow you to disable them. By disabling or otherwise rejecting cookies, you may not be able to take full advantage of all offerings on this Web Site. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Web Site.
 
 We use third-party service providers to provide Internet data hosting and to help us measure and determine how visitors use our Web Site and the effectiveness of our Web Site and promotions in order to help us improve and optimize our Web Site and the products and services we offer. Those third parties may place web beacons or pixel tags on certain pages of our Web Site or use cookies in order to facilitate collection of information regarding your use of the Web Site each time you visit the Web Site. Third party cookies may also be used to display relevant advertising to you on websites you visit after you leave Wrangler.com.  You may opt out of receiving those advertisements by visiting this page and clicking the “Opt Out” button: <https://www.google.com/settings/ads/onweb/?hl=en#display_optout>.
@@ -112,15 +112,3 @@ The Wrangler® site is PCI DSS compliant. PCI DSS stands for Payment Card Indust
 
   
 
-
-### Your Information Is Safe and Secure
-
-We take all reasonable steps to protect our customers' personal information against loss, misuse and alteration. We use encryption technology whenever receiving and transferring your personal information on our site. Your credit card information will be encrypted from the moment you submit it.
-
-Wrangler.com has implemented Secure Sockets Layer technology, one of the most robust encryption platforms available. When you make a purchase online, either a solid key or a locked padlock icon will appear in the lower right of your browser window. This icon indicates that your transaction session is secured through Secure Sockets Layer (SSL), encrypted with a 128-bit key. If one of these icons does not appear, please contact Consumer Relations at 1-888-784-8571 to complete your purchase.
-
-A browser in secure mode will display a URL address beginning "https://" rather than the standard "http://". The "s" stands for "secure." 
-
-An automated scan of the Wrangler® site is completed by McAfee, ® Inc daily. This scan seeks to disclose security vulnerabilities and help us to block attacks, identify threats and prevent disruptions. McAfee is a leader in digital security, with the majority of the Fortune 2,000 using McAfee. McAfee proactively secures systems and networks from known and unknown threats and is installed on more than 125 million systems worldwide.
-
-The Wrangler® site is PCI DSS compliant. PCI DSS stands for Payment Card Industry Data Security Standard, and is a worldwide security standard assembled by the Payment Card Industry Security Standards Council (PCI SSC). The PCI security standards are technical and operational requirements that were created to help prevent credit card fraud, hacking and various other security vulnerabilities and threats. The standards apply to all organizations that store, process or transmit cardholder data with guidance for software developers and manufacturers of applications and devices used in those transactions.
