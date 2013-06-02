@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cloudinary.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126054036id_/http%3A//cloudinary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudinary.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603012932id_/http%3A//cloudinary.com/privacy) for the most accurate reproduction.*
 
 # Cloudinary - Privacy Policy
 
-Ndivi Ltd ("The Company") will not sell, rent, or give away any of your personal information without your consent. The Company may need to purge information from its system from time to time, and does not promise to keep any information beyond what is required by applicable law or regulation.
+Cloudinary Ltd ("The Company") will not sell, rent, or give away any of your personal information without your consent. The Company may need to purge information from its system from time to time, and does not promise to keep any information beyond what is required by applicable law or regulation.
 
 ### INFORMATION COLLECTION
 
@@ -13,6 +13,8 @@ The Company is the sole owner of the information collected on this site and thro
 cloudinary.com uses "cookies" in order to provide a better service to our users. Cookies are placed by your browser on your computer's hard drive to assign a unique identification for your computer. Cloudinary never stores information we consider personal or private in a cookie. This eliminates the chance of other sites reading our cookies and learning your personal or private information. Instead, we use cookies to help direct you to the appropriate part of our web site. For example, a cookie may indicate that you are a repeat visitor to our site. We will then use that information to present you with more informative pages customized to your preferences. Our goal is to use cookies in order to provide a personally customized and easy-to-use service.
 
 If you do not want Cloudinary or other websites to use cookies, you can disable them within your browser. Some portions of the Cloudinary website are still functional without cookies.
+
+Cloudinary uses Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, may show our ads on sites across the Internet. We, and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on our visitors past visits to our website.
 
 ### DATA AGGREGATION
 
@@ -34,4 +36,4 @@ It is possible that Cloudinary may be required by court order to provide informa
 
 We will always maintain the overriding principle that we will not sell, rent, or give away any personal information you share with us without your consent. We do not believe we will need to change that principle going forward. However, if we do need to change any other aspect of the policy, we will post changes on the website.
 
-Last updated: 1/2012
+Last updated: 5/2013
