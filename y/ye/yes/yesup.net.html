@@ -1,360 +1,612 @@
-<!--The following is the downloaded HTML source of the yesup.net privacy policy that was archived on 2012-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625075213id_/http%3A//www.yesup.net/about-us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yesup.net privacy policy that was archived on 2013-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602215824id_/http%3A//www.yesup.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" <head="" profile="http://gmpg.org/xfn/11"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="robots" content="follow, all">
-<title>Privacy Policy | YesUp Ecommerce Solutions Inc.</title>
-
-<link rel="stylesheet" href="http://www.yesup.net/wp-content/themes/yesupnet2/style.css" type="text/css" media="screen">
-<link rel="stylesheet" href="http://www.yesup.net/wp-content/themes/yesupnet2/scripts/nivo-slider.css" type="text/css" media="screen">
-<link rel="stylesheet" href="http://www.yesup.net/wp-content/themes/yesupnet2/slide_style.css" type="text/css" media="screen">
-<link rel="pingback" href="http://www.yesup.net/xmlrpc.php">
-
-<script type="text/javascript" src="http://www.yesup.net/wp-content/themes/yesupnet2/js/jquery.js"></script>
-<script type="text/javascript" src="http://www.yesup.net/wp-content/themes/yesupnet2/js/formverify.js"></script>
+<!DOCTYPE html><html dir="ltr" lang="en-US"><!--<![endif]--><head>
+<meta charset="UTF-8">
 <!--
-<script type="text/javascript" src="http://www.yesup.net/wp-content/themes/yesupnet2/js/livesupport.js"></script>
+<meta name="viewport" content="width=device-width" />
 -->
+<link rel="shortcut icon" href="/images/yesup.ico" type="image/x-icon">
 
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/jquery-ui.min.js" type="text/javascript"></script> 
+<title>Privacy Policy | YesUp Ecommerce Solutions Inc.</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<!--
+<link rel="stylesheet" type="text/css" media="all" href="http://www.yesup.com/wp-content/themes/yesup/style.css" />
+-->
+<link rel="pingback" href="http://www.yesup.com/xmlrpc.php">
+<!--[if lt IE 9]>
+<script src="http://www.yesup.com/wp-content/themes/yesup/js/html5.js" type="text/javascript"></script>
+<![endif]-->
 
 
+<link href="http://www.yesup.com/wp-content/themes/yesup/style_3.css" rel="stylesheet" type="text/css">
+<!--
+<script src="js/jquery-1.4.2.min.js"></script>
 
-<script>
-// start of controller function
-	$(function() {
-		$('#menu li a').click(
-		function (){	
-			$("#menu li").removeClass("selected");
-			$(this).parent().addClass("selected"); 	
-			}
-		);
-	});	
-				
-// end of controller function	
+-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 
-</script>  
-    
-<script>
-function equalHeight(group) {
-	var tallest = 0;
-	group.each(function() {
-		var thisHeight = $(this).height();
-		if(thisHeight > tallest) {
-			tallest = thisHeight;
-		}
-	});
-	group.height(tallest);
-}
 
-$(document).ready(function() {
-	equalHeight($(".block445"));	
-    equalHeight($(".all_solutions li"));
-});
+<link rel="Stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/themes/ui-darkness/jquery-ui.css" type="text/css">
 
-</script>   
 
-<script>
-$(function(){
-	 ul_width = 2000; 
-	$("#content div.slide_div ul.one_third_tag").css("width", ul_width);
-	$('.promotion_tag li a').click(
-		function (){
-		//	alert($(this).attr('class'));
-			$(".promotion_tag li ").removeClass("selected");
-			$(".one_third_tag").removeClass("selected");
-			$(this).parent().addClass("selected");
-			$(".slide_div").css("display","none");
-			$(".article").css("display","none");
-			$("#"+$(this).attr('class')+"_tag").show();
-			$("#"+$(this).attr('class')+"_tag").children(".one_third_tag").addClass("selected"); 
+<link rel="Stylesheet" href="http://www.yesup.com/wp-content/themes/yesup/css/ui.selectmenu.css" type="text/css">     
 
-                       //         $(".slide_mode").addClass("selected");
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
 
-			
-			$(".product_box").css("display","none");
-			$("."+$(this).attr('class')+"_tag").show();
-			
-			var count = $(".slide_div ul.selected").children().length;
-			var ul_width = 320 * count; 
-			$("#content div.slide_div ul.one_third_tag").css("width", ul_width);
-			 // alert(ul_width);
+<script src="http://www.yesup.com/wp-content/themes/yesup/js/jquery.validate.js" type="text/javascript"></script>
+<script type="text/javascript"> 
 
-			$( ".draggable" ).draggable(
-					{ axis: 'x' },
-					{ containment: 'parent' },
-					{ drag: function(event, ui)
-						 {	var	curleft = $(".draggable" ).position().left;
-							$('ul.one_third_tag').stop().animate(
-								{ 
-								left: -curleft*(ul_width-950)/529+'px'
-								}, 400);
-						 }
-			 		} 
-			 );
-		
-			$("#content div.slide_div ul.one_third_tag").css("left", "0");	
-                      check(); 
+$(document).ready(function(){
+	 
+                    $("#col_form").validate({
+						  rules: {
+							   email: {
+								  required: true,
+								    email:true,
+								},
+							  first_name: {
+								  required: true
+								},
+							  last_name: {
+								  required: true
+								},
+							 subject: {
+								  required: true
+								},							  
+							  msg: {
+								  required: true
+								}
+						  },
                        
-		}
-	);
-	
-	$( ".draggable" ).draggable(
-					{ axis: 'x' },
-					{ containment: 'parent' },
-					{ drag: function(event, ui)
-						 {	var	curleft = $(".draggable" ).position().left;
-							$('ul.one_third_tag').stop().animate(
-								{ 
-								left:  -curleft*(ul_width-960)/529+'px'
-								}, 400);
-						 }
-			 		} 
-			 );
-	
-
-});
-</script>  
-
-<link media="screen" rel="stylesheet" href="http://www.yesup.net/wp-content/themes/yesupnet2/colorbox.css">
-<script src="http://www.yesup.net/wp-content/themes/yesupnet2/js/jquery_002.js"></script>
-<script>
-		$(document).ready(function(){
-			
-			$(".ad_ex").colorbox({width:"900px", inline:true, href:"#ad_ex"});
-                        $(".mt_ex").colorbox({width:"900px", inline:true, href:"#mt_ex"});
-                        $(".as_ex").colorbox({width:"900px", inline:true, href:"#as_ex"});
-		});
+                  });
+				  	  		  	  			  
+ });
 </script>
-
-<link rel="alternate" type="application/rss+xml" title="YesUp Ecommerce Solutions Inc. » Feed" href="http://www.yesup.net/feed/">
-<link rel="alternate" type="application/rss+xml" title="YesUp Ecommerce Solutions Inc. » Comments Feed" href="http://www.yesup.net/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="YesUp Ecommerce Solutions Inc. » Privacy Policy Comments Feed" href="http://www.yesup.net/about-us/privacy-policy/feed/">
-<link rel="stylesheet" id="wp-pagenavi-css" href="http://www.yesup.net/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.yesup.net/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.yesup.net/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="YesUp Ecommerce Solutions Inc." href="http://www.yesup.net">
-<link rel="up" title="About Us" href="http://www.yesup.net/about-us/">
-<meta name="generator" content="WordPress 2.8.6">
-
-<!-- All in One SEO Pack 1.6.13.1 by Michael Torbert of Semper Fi Web Design[346,407] -->
-<link rel="canonical" href="http://www.yesup.net/about-us/privacy-policy/">
-<!-- /all in one seo pack -->
-	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-
-</head>
-
-
-<body>
-
-
-<!-- Start of Header -->
-
-<div id="header" style="position:relative; "> 
-
-	 <img src="/images/light.png" width="200" height="50" style="position:absolute; left:50%; margin-left:450px; ">
-     <img src="/images/light.png" width="200" height="50" style="position:absolute; right:50%; margin-right:125px;  z-index:99; ">
-     <img src="/images/light3.png" width="160" height="20" style="position:absolute; right:50%;top:11px;  margin-right:440px;  z-index:999; ">
-     
-     <a href="/" style="position:absolute; top:0; left:50%; margin-left:-470px; z-index:999;"><img src="/images/yesup_advertiser.png" width="310" height="48"></a>
-
-     <div class="top_header">
-    		<div class="w960">
-    		 <span style="padding-right:20px;">Call Us now: <span>+1.416.499.8009</span></span> <span style="padding-right:20px;">Office Hour: Monday - Friday, 9 am - 6 pm EST</span>
-            <!--
-             <a  class='iframe'  href="http://support.yesup.net/visitor/index.php?_m=livesupport&_a=startclientchat&sessionid=759sfumody3slungh8n7nunzb9312uoh&proactive=0&departmentid=2%2C5%2C6%2C7%2C11&randno=40&fullname=&email=">		
-       
-         [+ LiveSupport]
-     
-        </a>
-        -->
-             
-             
-    		</div>
-    
-	</div>
-  <div class="menu_box">	
-        	<div class="w960">
-            <!--
-            <div class="tel">
-                     Call Us now: <span>+1.877.508.9813</span>
-            </div>
-            
-            <a href="index.php"><img src="images/logo_w3.png"  width="280" style=" float:left; padding-top:2px;" /></a>
-            
-            -->
-              <ul class="menu2">
-                  <li class=" "><a href="http://www.yesup.net">HOME</a></li>
-                  <li class=""><a href="http://www.yesup.net/services/">SERVICE</a></li>
-                  <li class=""><a href="http://www.yesup.net/shop/">SHOP</a></li>
-				  <li class=""><a href="http://www.yesup.net/reseller/" class="contact">RESELLER</a></li> 
-                  <li class=""><a href="http://www.yesup.net/contact/" class="contact">CONTACT US</a></li>  
-             </ul>
-             
-           	</div> <!-- EO w960 -->  
-   		</div>
-        
-
-         
-        
-      	<div class="sub_menu_box">	
-        	<div class="w960">
-    		
-           	</div> <!-- EO w960 -->  
-   		</div>
-
-	
-
-
-
-	
-
-    
-<div class="container" style="display:none; ">
-
- 	<ul class="top_menu2">
-
-    	<li class="first">  
-        	<img src="http://www.yesup.net/wp-content/themes/yesupnet2/images/login_icon_s.png">
-        	<a href="https://account.yesup.com/dpt/login" id="signin_btn">Log In / Register </a>
-        </li>
-        <!--
-        <li>
-        	<form>
-                 <input type="text" value="search" class="search_text" />
-                 <input type="submit" value="go" class="search_btn" />
-            </form>
-    	</li>
-      -->
-    </ul>
-<a href="http://www.yesup.net" class="logo"><img src="http://www.yesup.net/wp-content/themes/yesupnet2/images/logo.png"></a>
-
-    	 <ul id="menu">
-<li class="first "><a href="http://www.yesup.net">Home<span>&nbsp;</span></a></li>
-<li class=""><a href="http://www.yesup.net/services/"><span>&nbsp;</span>Services</a></li>
-<li class=""><a href="http://www.yesup.net/shop/"><span>&nbsp;</span>Shop</a></li>
-<li class=""><a href="http://www.yesup.net/reseller/"><span>&nbsp;</span>Reseller</a></li>
-<li class=""><a href="http://www.yesup.net/contact/"><span>&nbsp;</span>Contact</a></li>
-          
-		  </ul>
-
-	</div>
-</div><div id="content">
-<div class="container" style="background:#fff; ">
- <ul class="promotion_tag">
- <li class="page_item page-item-535"><a href="http://www.yesup.net/about-us/corporate-vision/" title="Corporate Vision">Corporate Vision</a></li>
-<li class="page_item page-item-537"><a href="http://www.yesup.net/about-us/career-opportunities/" title="Career Opportunities">Career Opportunities</a></li>
-<li class="page_item page-item-539"><a href="http://www.yesup.net/about-us/media-kit/" title="Media Kit">Media Kit</a></li>
-<li class="page_item page-item-541 current_page_item"><a href="http://www.yesup.net/about-us/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
-  
-</ul>
-           
-        <div class="article"> 
-  
-<h2>Personal Information</h2>
-<p>At YesUp, we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitors’ will. We do not and will not share any personal information with any third parties unless by governmental order. Other information is collected by our Payment Services provider but we have no access to this information. You may direct further inquiries to the Payment Services provider here:</p>
-
-<h2>Cookies</h2>
-<p>Your browser offers so-called “cookies”, which – if you allow their use – store small amounts of data on your computer about your visit to any of our sites. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally.</p>
-<h2>We may use cookies to:</h2>
-<p>::Save your password so you don’t have to re-enter it each time you visit our sites.</p>
-
-<p>We do not use cookies to identify, monitor or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties. You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. For more information on how to modify your browser settings to block or filter cookies, see http://www.cookiecentral.com/faq/.</p>
-
-<p>However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.</p>
-<h2>Third Party Cookies At Our Sites</h2>
-<p>While we use cookies in other parts of our Web site, cookies received with the payment processes are placed by our Payment Services provider. We do not have access to these cookies or any information that they may contain; please contact the Payment Services provider for more information on these cookies.</p>
-<ul>
-	<li><p>PayPal.com:
-<a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside">http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside</a></p></li>
-</ul>
-<h2>Registration Forms</h2>
-<p>Our site’s registration form requires users to give us contact information (like their name, email, and postal address).</p>
-
-<p>Contact information from the registration forms is used to get in touch with the customer when necessary.</p>
-<h2>External Links</h2>
-<p>This site contains links to other sites. YesUp is not responsible for the privacy practices or the content of such Web sites.</p>
-<h2>Contacting the Web Site</h2>
-<p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: <a href="mailto:webmaster@yesup.net">webmaster@yesup.net</a></p></div> 
-	
-	   
-</div>                   
-</div>  
-<!-- Start of Footer -->
-<div id="footer">
-	 <div class="footer_bottom">
-          		 		
-          </div>
-          
-		<div class="inner_footer">
-    	<div class="w960">
-    
-
-			
-
-             
-                <ul><h5>[+] About Us</h5>
-                	<li><a href="http://www.yesup.net/about-us/corporate-vision/">Corporate Vision</a></li>
-                    <li><a href="http://www.yesup.net/about-us/career-opportunities/">Career Opportunities</a></li>
-                    <li><a href="http://www.yesup.net/about-us/media-kit/">Media Kit</a></li>
-                    <li><a href="http://www.yesup.net/about-us/privacy-policy/">Privacy Policy</a></li>
-                    <!--
-                   <li><a href="http://www.yesup.net/reseller/">Reseller</a></li>
-                    <li><a href="http://www.yesup.net/contact/">Contact</a></li>
-                    -->
-                 </ul>
-                 
-                 <ul><h5>[+] Services</h5>
-                	<li><a href="http://www.yesup.net/service/planning-development/">Planning &amp; Development</a></li>
-                    <li><a href="http://www.yesup.net/service/marketing-promotion/">Marketing &amp; Promotion</a></li>
-                    <li><a href="http://www.yesup.net/service/management-measurement/">Management &amp; Measurement</a></li>
-                 </ul>
-                 
-                 <ul><h5>[+] Features</h5>
-                	<li><a href="http://www.yesup.net/features/email-marketing/">Email Marketing</a></li>
-                    <li><a href="http://www.yesup.net/features/contextual-advertising/">Contextual advertising</a></li>
-                    <li><a href="http://www.yesup.net/features/search-engine-optimization/">Search Engine Optimization</a></li>
-                 </ul>
-                 
-                 <ul><h5>[+] Support</h5>
-                	<li><a href="http://support.yesup.net/">Support Center</a></li>
-                    <li><a onmouseout="window.status=''; return true;" onmouseover="window.status='Click Here for Live Support'; return true;" href="javascript:startChat_7gmfgbql('0');">Live Support</a></li>
-                 </ul>
-                 
-                 <ul class="last">
-                    <h5>YesUp Ecommerce Solutions</h5>
-                	<li style="padding-top:0; ">
-                      
-                    <p style="color:#aaa; ">YesUp develops and delivers complete multimedia solutions ranging from basic web site design and construction to advanced e-commerce packages and business window applications.</p>
-                   
-                    </li>
-                 </ul>
-
-		
-       </div>
-      </div>  
-        
-      <div style="clear:both;"></div>
-       <p style=" border-top:#333 solid 1px; padding-top:10px; background:#000;   text-align:center">Copyright © 2001 - 2012  YesUp Ecommerce Solutions INC.  . All rights reserved.</p>
-        
-</div>
-<!-- End of Footer -->
-
 
 <!-- Start View Tracking -->
 <script type="text/javascript">
 var yuBaseURL = (("https:" == document.location.protocol) ? "https://track.visitorpath.com/" : "http://track.visitorpath.com/");
-var yuSite = 10;var yuType = 'view';var yuEscape = window.encodeURIComponent || escape;
+var yuSite = 48;var yuType = 'view';var yuEscape = window.encodeURIComponent || escape;
 var yuUrl = yuEscape(document.location.href);
 document.write(unescape("%3Cscript src='" + yuBaseURL + "js/track.js' type='text/javascript'%3E%3C/script%3E"));
 document.write(unescape("%3Cscript src='" + yuBaseURL + "track.php?idsite="+yuSite+"&type="+yuType+"&url="+yuUrl+"&rand="+Math.random()+"' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://track.visitorpath.com/js/track.js" type="text/javascript"></script><script src="https://track.visitorpath.com/track.php?idsite=10&amp;type=view&amp;url=https://web.archive.org/web/20120625075213id_/http://www.yesup.net/about-us/privacy-policy/&amp;rand=0.25536443471480497" type="text/javascript"></script>
+</script><script src="https://track.visitorpath.com/js/track.js" type="text/javascript"></script><script src="https://track.visitorpath.com/track.php?idsite=48&amp;type=view&amp;url=https://web.archive.org/web/20130602215824id_/http://www.yesup.com/privacy-policy/&amp;rand=0.6720233874711763" type="text/javascript"></script>
 <!-- End View Tracking -->
 
 
+<link rel="stylesheet" type="text/css" href="http://www.yesup.com/wp-content/themes/yesup/css/style2.css">
+
+<script type="text/javascript" src="http://www.yesup.com/wp-content/themes/yesup/js/modernizr.custom.28468.js"></script>
+
+<script type="text/javascript" src="http://www.yesup.com/wp-content/themes/yesup/js/jquery.cslider.js"></script>
+<script type="text/javascript">
+	$(function() {
+	
+		$('#da-slider').cslider(
+		{
+			autoplay	: true
+		});
+		
+	});
+</script>	
+
+
+ 
+<script>
+
+$(document).ready(function(){
+  
+  $(".reseller_tag li  a").click(
+  		function(){
+			$(".reseller_tag li").removeClass("select");
+			$(this).parent().addClass("select");
+			$('[id^="tag"]').hide();
+  	        $("#"+$(this).attr('class')).show();
+		}
+  )
+    $(".reseller_tag2 li  a").click(
+  		function(){
+			$(".reseller_tag2 li").removeClass("select");
+			$(this).parent().addClass("select");
+			$('[id^="tag"]').hide();
+  	        $("#"+$(this).attr('class')).show();
+		}
+  )
+  
+   
+
+})
+</script>
+
+
+<link rel="alternate" type="application/rss+xml" title="YesUp Ecommerce Solutions Inc. » Feed" href="http://www.yesup.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="YesUp Ecommerce Solutions Inc. » Comments Feed" href="http://www.yesup.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="YesUp Ecommerce Solutions Inc. » Privacy Policy Comments Feed" href="http://www.yesup.com/privacy-policy/feed/">
+<link rel="stylesheet" id="ai1ec-general-css" href="http://www.yesup.com/wp-content/themes-ai1ec/vortex/style.css?ver=1.8.2-6" type="text/css" media="all">
+<link rel="stylesheet" id="ai1ec-event-css" href="http://www.yesup.com/wp-content/themes-ai1ec/vortex/css/event.css?ver=1.8.2-6" type="text/css" media="all">
+<link rel="stylesheet" id="wpsqt-main-css" href="http://www.yesup.com/wp-content/plugins/wp-survey-and-quiz-tool/css/main.css?ver=3.4.1" type="text/css" media="all">
+<link rel="stylesheet" id="page-list-style-css" href="http://www.yesup.com/wp-content/plugins/sitemap/css/page-list.css?ver=3.7" type="text/css" media="all">
+<script type="text/javascript" src="http://www.yesup.com/wp-includes/js/jquery/jquery.js?ver=1.7.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ai1ec_event = {"language":"en"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.yesup.com/wp-content/themes-ai1ec/vortex/js/event.min.js?ver=1.8.2-6"></script>
+<script type="text/javascript" src="http://www.yesup.com/wp-content/plugins/wp-survey-and-quiz-tool/js/site.js?ver=3.4.1"></script>
+<script type="text/javascript" src="http://www.yesup.com/wp-includes/js/comment-reply.js?ver=3.4.1"></script>
+<script type="text/javascript" src="http://www.yesup.com/wp-content/themes-ai1ec/vortex/js/general.min.js?ver=3.4.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.yesup.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.yesup.com/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="Why YesUp" href="http://www.yesup.com/carrers/">
+<link rel="next" title="Interview Process" href="http://www.yesup.com/carrers/interview-process/">
+<meta name="generator" content="WordPress 3.4.1">
+
+<!-- All in One SEO Pack 1.6.15 by Michael Torbert of Semper Fi Web Design[499,553] -->
+<link rel="canonical" href="http://www.yesup.com/privacy-policy/">
+<!-- /all in one seo pack -->
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f1f1f1; }
+</style>
+
+</head>
+
+<body>
+
+
+
+<div class="company_header">
+	<div class="w960">
+
+<script>
+
+function openwin(url) {
+      window.location.href=url;  
+}
+
+function JumpToUrl(obj){
+	var siteDomain = $(obj).val();
+	var siteUrl ='http://'+siteDomain;
+//	alert(siteUrl);
+	openwin(siteUrl);
+}
+</script>
+     <div style="color:#ccc;  width:330px; position:absolute;top:3px; right:0; ">
+     	<span style="font-size:12px; line-height:12px;">Contact us at 416-499-8009</span><br>
+     	<span style="font-size:12px; line-height:12px;">Live Support - Mon - Friday  9:00 AM – 6:00 PM (EST)</span>
+ 	  </div>
+      
+       <a href="/" style="float:left; margin-right:30px; display:inline-block; overflow:hidden;  ">
+    		 <img src="http://www.yesup.com/wp-content/themes/yesup/images/logo.png" width="176">
+        </a>
+      
+        <a href="javascript:;" id="menu_control" class="open_menu" open="open" style="float:left; ">Our Solutions<span></span></a>  
+        
+
+			 
+<style>
+.yesup_group_list { display:none; }
+.yesup_group_list li { opacity:0.8; filter:alpha(opacity=80);}
+.yesup_group_list li:hover { opacity:1; filter:alpha(opacity=100);}
+.yesup_group_list h3  { margin:0; color:#fff;  }
+.yesup_group_list p { margin:0; padding:0; font-size:12px; color:#fff;  }
+</style>  
+
+  
+<script>
+
+$("#menu_control").click(
+	function(){	
+//		alert("testing");
+// 		$(".company_header").css("height","350px");
+	var vv = $(this).attr("class");
+		// alert(vv);
+		if (vv == "open_menu" ){
+	
+			$(".yesup_group_list").fadeIn();
+			$(".company_header").animate({height:'420px'});	
+			$("#menu_control").removeClass("open_menu");
+			
+		} else {
+			$(".yesup_group_list").hide();
+			$(".company_header").animate({
+				height: '50px'
+			  });
+			  $("#menu_control").addClass("open_menu");
+		}
+	}
+)
+
+$(".close_menu").click(
+	function(){
+	// 	$(".close_menu").removeClass("close_menu");
+
+		$(".yesup_group_list").hide();
+		$(".company_header").animate({
+				height: '50px'
+			  });
+	}
+)
+$(".company_header").mouseleave(
+	function(){
+		$(".yesup_group_list").hide();
+//		$(".company_header").css("height","50px");
+		
+		$(".company_header").animate({
+			//	opacity: 0.25,
+				
+				height: '50px'
+			  });
+	}
+)
+</script>
+
+
+
+	<div class="groups_menu" style="clear:both; padding-top:20px;">
+    	
+    
+          			<div class="col_4">
+                    	<ul class="yesup_group_list">
+                    		<li>
+                            	<h3>Clicksor.com  </h3>
+                                <p>Contextual Targeting Advertisement Service</p>   
+                                <a href="http://www.clicksor.com/">Enter </a>
+                            </li>
+                            <li>
+                            	<h3>AdOnion.com</h3>
+                                <p>Transparent Advertising Marketplace</p>  
+                                <a href="http://www.adonion.com/">Enter </a>
+                            </li>
+                            <li>
+                            	<h3>YesAdvertising.com </h3>
+                                <p>CPA Advertising and Publishing Services</p>
+                                <a href="http://www.yesadvertising.com/">Enter </a>
+                            </li>
+                            <li>
+                            	<h3>InfinityAds.com </h3>
+                                <p>Pop-Under Internet Advertising Services</p>
+                                <a href="http://www.infinityads.com/">Enter </a>
+                            </li> 	
+                    	</ul>
+                  </div>
+                  
+                  <div class="col_4">
+                    	  <ul class="yesup_group_list">
+                    		<li>
+                            	<h3>XXXWebTraffic.com</h3>
+                                <p>Online Adult Advertising and Marketing </p> 
+                                <a href="http://xxxwebtraffic.com/">Enter </a>
+                            </li>
+                            <li>
+                            	<h3>XTargeting.com</h3>
+                                <p>Local Advertising Services</p>
+                                <a href="http://www.xtargeting.com/">Enter </a>
+                            </li>
+                            <li>
+                            	<h3>EmailServing.com </h3>
+                                <p>Email Marketing Service</p>
+                                <a href="http://www.emailserving.com/">Enter </a>
+                            </li>
+                            <li>
+                            	<h3>BannerCenter.net </h3>
+                                <p>Banner Design Service </p>
+                                <a href="http://bannercenter.net/">Enter </a>
+                            </li> 	
+                    	</ul>
+                     </div>
+                        
+                     <div class="col_4">   
+                    	  <ul class="yesup_group_list">
+                    		<li>
+                            	<h3>SeoToolsCentral.com</h3>
+                                <p>Free web-based SEO tools</p> 
+                                <a href="http://seotoolscentral.com/">Enter </a>
+                            </li>
+                            <li>
+                            	<h3>CallStats.com </h3>
+                                <p>Call Tracking and Analysis</p>
+                                <a href="">Enter </a>
+                            </li>
+                            <li>
+                            	<h3>YesUpSem.com </h3>
+                                <p>Free web-based seo tools</p>
+                                <a href="http://yesupsem.com/">Enter </a>
+                            </li>
+                            <li>
+                            	<h3>YesUpSeo.com </h3>
+                                <p>Free web-based SEO tools</p> 
+                                <a href="http://yesupseo.com/">Enter </a>
+                            </li> 	
+                    	</ul>
+         			</div>
+                    <div class="col_4">  
+              
+                    	  <ul class="yesup_group_list">
+                    		<li>
+                            	<h3>YesUpHost.com</h3>
+                                <p>Web Hosting Services</p> 
+                                <a href="http://www.yesuphost.com/">Enter </a>
+                            </li>
+                                                        <li>
+                            	<h3>YesUpNet.com </h3>
+                                <p>High Speed Internet</p>
+                                <a href="http://www.yesupnet.com/">Enter </a>
+                            </li>
+                            <li>
+                            	<h3>AnyEmails.com </h3>
+                                <p>Email Spam Filtering Service</p> 
+                                <a href="http://anyemails.com/">Enter </a>
+                            </li> 	
+                    	</ul>
+         			</div>
+            
+        </div>    
+            
+            
+        
+    </div>
+</div> 
+<div id="header">
+	<div class="w960">
+
+  
+        <div class="menu">
+       		<ul>
+            	<li class=""><a href="/">Home
+					<span>What we do</span>
+                    </a>
+                 </li> 
+                 
+                 <li class=""><a href="?page_id=27">Company<br>
+					<span>YesUp History</span>
+                    </a>
+                 </li> 
+                 <li class=""><a href="?page_id=17">Agents<br>
+					<span>Partners</span>
+                    </a>
+                 </li>
+                 <!--
+                 <li class=""><a href="?cat=7">Case Study<br />
+					<span>How we help you</span>
+                    </a>
+                 </li>
+                 -->  
+                 <li class=""><a href="/?cat=1">Blog<br>
+					<span>New Events</span>
+                    </a>
+                 </li>
+           
+                 <li class=""><a href="?page_id=31">Contact<br>
+					<span>Get in Touch</span>
+                    </a>
+                 </li>   
+                 
+                 
+                 
+                     
+                   	
+            		<li style="float:right; ">
+                    	<a href="https://account.yesup.com/"><img src="http://www.yesup.com/wp-content/themes/yesup/images/join_group.png" style="float:right; "></a>
+                    	
+                    </li>
+                	
+        	</ul>
+        </div>	
+			
+            <!--
+   	   <A href="index.php"><img style="float:left;padding-top:15px; " src="http://www.yesup.com/wp-content/themes/yesup/images/logo.png" width="215"  /></A>
+         -->
+    </div>
+</div>
+<!--
+<div class="innerShadow">
+</div> 
+-->
 
 
 
 
+<style>
+.da-slider  { background:none; height:240px;  }
+#banner {
+	background: rgb(255,255,255); /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNlMmUyZTIiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(226,226,226,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(100%,rgba(226,226,226,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(226,226,226,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(226,226,226,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(226,226,226,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(255,255,255,1) 0%,rgba(226,226,226,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e2e2e2',GradientType=0 ); /* IE6-8 */
+
+box-shadow:none; -moz-box-shadow:none;  -webkit-box-shadow:none;  -ms-box-shadow:none; 
+
+	}
+</style>
+
+
+
+
+
+
+		<div id="content">
+ 			 <div class="w960">
+
+				
+					
+
+
+
+<article id="post-254" class="post-254 page type-page status-publish hentry">
+   
+	<!-- div class="entry-content" -->
+    
+		<h2>Personal Information</h2>
+<p>At YesUp, we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitors’ will. We do not and will not share any personal information with any third parties unless by governmental order. Other information is collected by our Payment Services provider but we have no access to this information. You may direct further inquiries to the Payment Services provider here:</p>
+<h2>Cookies</h2>
+<p>Your browser offers so-called “cookies”, which – if you allow their use – store small amounts of data on your computer about your visit to any of our sites. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally.</p>
+<h2>We may use cookies to:</h2>
+<p>Save your password so you don’t have to re-enter it each time you visit our sites.</p>
+<p>We do not use cookies to identify, monitor or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties. You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. For more information on how to modify your browser settings to block or filter cookies, see http://www.cookiecentral.com/faq/.</p>
+<p>However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.</p>
+<h2>Third Party Cookies At Our Sites</h2>
+<p>While we use cookies in other parts of our Web site, cookies received with the payment processes are placed by our Payment Services provider. We do not have access to these cookies or any information that they may contain; please contact the Payment Services provider for more information on these cookies.</p>
+<ul>
+<li>PayPal.com:<br>
+<a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside">http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside</a></li>
+</ul>
+<h2>Registration Forms</h2>
+<p>Our site’s registration form requires users to give us contact information (like their name, email, and postal address).</p>
+<p>Contact information from the registration forms is used to get in touch with the customer when necessary.</p>
+<h2>External Links</h2>
+<p>This site contains links to other sites. YesUp is not responsible for the privacy practices or the content of such Web sites.</p>
+<h2>Contacting the Web Site</h2>
+<p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: <a href="mailto:webmaster@yesup.net">webmaster@yesup.net</a></p>
+			<!-- /div --><!-- .entry-content -->
+    
+    
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+</article><!-- #post-254 -->
+
+					
+				
+			   </div>
+         </div>       
+
+
+
+
+	<footer id="colophon" role="contentinfo" style="display:none; ">
+
+			
+
+			<div id="site-generator">
+								<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform" rel="generator">Proudly powered by WordPress</a>
+			</div>
+	</footer><!-- #colophon -->
+
+
+
+
+<div id="footer">
+
+	<div class="footer_top">	
+		
+		<div class="w960">
+
+            <div class="col_4">
+                <div class="inside_box">
+                
+                    <h5>Get in Touch</h5>
+                    <p>Telephone:+ 1 416-499-8009<br>
+                    Fax:+ 1 416-981-7209 <br>
+                   </p>
+                  
+                  
+                    <p>565 Gordon Baker Road <br>
+                    North York, ON M2H 2W2, Canada</p>
+                    
+                 <!-- 
+                    <h5>Sign Up For Newsletter</h5>
+                  -->
+                </div>
+            </div>
+       
+             <div class="col_4">
+                <div class="inside_box">
+                  
+                    <h5>Social Media</h5>
+                    <ul class="social_list">
+                        <li class="facebook"><a href="http://www.facebook.com/YesUpEcommerce">Like us on Facebook</a></li>
+                        <li class="twitter"><a href="https://twitter.com/yesupinc">Follow us on Twitter</a></li>
+                         <li class="google"><a href="https://plus.google.com/u/0/b/115597941470958195091/">Google+ Page</a></li>
+                           <li class="youtube"><a href="http://www.youtube.com/yesupecommerce/">Youtube Channel</a></li>
+                       
+                        <li class="linkedin"><a href="http://www.linkedin.com/company/clicksor.com-inc">Follow us on LinkedIn</a></li>
+                      
+                    </ul>    
+                  
+               </div>
+            </div>
+        
+            <div class="col_4">
+                <div class="inside_box">
+                    
+                    <h5>YesUp Links</h5>
+                    
+                    <ul class="social_list">
+                    	<li><a href="http://www.yesup.com/carrers/">Careers</a>  </li>
+                    	<li><a href="http://www.yesup.com/site-map/">Site Map</a>    </li>
+                    	<li><a href="http://www.yesup.com/privacy-policy/">Privacy Policy</a></li>
+                    
+                    </ul>
+                    
+                   
+                    
+                </div>
+       		 </div>
+        
+        <!-- 
+        <div class="col_4">
+        	<div class="inside_box">
+              	
+                <h5>For Our Clients</h5>
+                
+                <ul>
+                	<li>    Frequently Asked Questions</li>
+                    <li>    Service Updates</li>
+                    <li>    Community Forum</li>
+                    <li>    Help Desk</li>
+                    <li>    Our Services</li>
+                    <li>    Validate License</li>
+                </ul>
+                
+      		</div>
+        </div>
+        -->
+             <div class="col_4">
+                <div class="inside_box">
+                
+                    <h5>About YesUp</h5>
+               
+                    <p>YesUp develops and delivers complete digital media solutions ranging from online advertising to dedicated hosting solutions.</p>
+              		
+                      <ul class="social_list">
+                    	<li><a href="http://www.yesup.com/our-solutions/">Our Solutions</a>  </li>
+                  
+                    </ul>
+                    
+               </div>
+            </div>
+         </div>     
+	</div>
+    
+    <div class="footer_bottom">
+    	<div class="w960">
+			<img src="http://www.yesup.com/wp-content/themes/yesup/images/logo_w.png" style="float:right; padding:10px 20px 0 0">
+             	 
+            <p>
+              <!--  
+           <a href="http://www.yesup.com/carrers/">Careers</a>  <a href="http://www.yesup.com/site-map/">Site Map</a>    <a href="http://www.yesup.com/privacy-policy/">Privacy Policy</a>  
+            -->
+           
+            Copyright © 2002 - 2013 YesUp Ecommerce Solutions. All right reserved.
+            </p>
+         
+        </div>
+    </div>
+</div> 
+
+<!--
+
+<script type="text/javascript"> Cufon.now(); </script>
+
+-->
+
+<!-- Survey and Quizzes Powered by WP Survey And Quiz Tool 2.13.1 iain.cambridge at fubra.com -->
 
 </body></html>
