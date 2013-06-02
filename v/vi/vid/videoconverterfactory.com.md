@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the videoconverterfactory.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110080848id_/http%3A//videoconverterfactory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoconverterfactory.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602033851id_/http%3A//www.videoconverterfactory.com/privacy.html) for the most accurate reproduction.*
 
-# Video Converter Factory Corporation Privacy Policy
-
-## WonderFox Soft Privacy Policy
+# WonderFox Privacy Policy
 
 WonderFox Soft's Customer Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by WonderFox Soft anytime you interact with WonderFox Soft, such as when you visit our website, when you purchase WonderFox Soft products and services, or when you contact our sales or support associates. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at WonderFox Soft, and we go to great lengths to protect it.
 
