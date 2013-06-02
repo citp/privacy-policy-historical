@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classestoedu.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206050245id_/http%3A//classestoedu.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classestoedu.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603000517id_/http%3A//classestoedu.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # classetoedu
 
@@ -24,7 +24,7 @@ How Collected Information is Used
 
 The non-personally identifiable information that Classestoedu collects is used for marketing and sales efforts to better target advertisements and other content in an effort to create a more personally relevant experience. The information is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals.
 
-If you elect to provide Classestoedu with personally identifiable information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from Classestoedu and from our clients. In addition, that information may be combined with information collected from other sources to assist with targeting ads to your preferences and behaviors, and for other Classestoedu sales and marketing efforts.
+If you elect to provide Classestoedu with personally identifiable information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from Classestoedu and from our clients. In addition, that information may be combined with information collected from other sources to assist with targeting ads to your preferences and behaviors, and for other Classestoedu sales and marketing efforts. Some leads will be contacted via phone to better serve their requests.
 
 Sharing Information with Third Parties
 
