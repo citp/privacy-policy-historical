@@ -1,33 +1,19 @@
-> *The following text is extracted and transformed from the goalwin.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514192042id_/https%3A//goalwin.com/About/PrivacyPolicy/tabid/336/language/en-US/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goalwin.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602230745id_/http%3A//www.goalwin.com/Support/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# GoalWin > Support > Privacy Policy
 
-Privacy Policy
+## Privacy policy
 
-Goalwin is committed to maintaining the privacy and security of the Personal Information of all the visitors to this website. As a part of that commitment, we have implemented this Privacy Policy to reflect the current needs of our visitors to know what information about them we collect, why we collect it, and where it goes. We encourage you to read this Privacy Policy.
+Goalwin is committed to maintaining the privacy and security of personal information relating to all visitors of the website www.goalwin.com provides your personal data for access and registration. Our privacy policy meets the current needs of visitors who want to know what personal information we store, because we are doing so, and its actual use; in accordance with the provisions of the European Parliament on data protection (Directive CE 95/46/EC) and confidentiality of electronic communications (Directive CE/2002/58/EC), we will endeavor to keep your personal information secure at all times through the implementation of appropriate technical and organizational controls. Please take a moment to read the following policy to learn how to manage your personal information, such as the use of our services and then accept its terms.
 
-This document sets out the Goalwin policy for handling personal information. Goalwin is bound by, and committed to, the terms of the Privacy Act 1988 and the National Privacy Principles forming part of that Act.
+**The aim of the collection of personal information**  
+We collect and use personal information to meet legal and regulatory requirements, for historical and statistical purpose; for security and control; to provide our services, and to provide more services in the future. Occasionally, we may use your personal information to contact you via mail, email, telephone or mobile phone and to get you to know our products or events, activities, projects, plans, developments, businesses and special offers being promoted or incurred by the Company. Providing your information states that its use occurs in accordance with the privacy policy and does not constitute a violation of its rights as configured in the Data Protection Act (Chapter 440 of the Laws of Malta). We invite you to contact us at any time if you do not wish to receive promotional material or advertising.
 
-### What is Personal Information?
+**Disclosure of personal information to third parties**  
+The Company will not disclose customer information to third parties, except to technical employees of the companies who necessarily have legal access to provide services. However, the Company may be compelled by law or legal process to report personal information to the competent authorities, in particular to the Lotteries and Gaming Authority.
 
-Personal information is any information about you that identifies you or by which your identity can be reasonably determined.
+**Protection of personal information**  
+The Company protects the security of data that users send, using appropriate physical, electronic and management processes. It is used SSL encryption on the site for transmission of sensitive data and to communicate with our payment system. Please note that we cannot guarantee that all data transmitted over the Internet is completely secure. Therefore, we invite you to take every precaution to protect your personal information when you are on the Internet.
 
-### What kind of Personal Information do we collect and hold about you?
-
-Goalwin only collects personal information that is necessary for one or more of our functions or activities. The types of personal information which are collected from our clients includes name, address, payment card details, details of betting transactions and account transfers and any other information clients wish to provide.
-
-### How do we collect Personal Information from you?
-
-Personal Information may be submitted to our website. You will be asked to provide your Personal Information in this area for the purpose of registering with Goalwin and opening an account with us. A "session cookie" is used to enable you to leave and re-enter our website without re-entering your password. Our web server will record the pages you visit within our website. Where possible, we will give you the opportunity to decline to provide any personal information we request, but in some cases your use of this website may be restricted if you do not provide the requested information.
-
-### How will your Personal Information be used?
-
-Goalwin will process your Personal Information to administer your account, maintain our accounts and records, monitor website usage levels and the quality of the service we provide and to inform you, from time to time, about products and services that we consider may interest you. Goalwin will also retain such information and may analyse it if asked to do so in order to investigate any actual or suspected criminal activity or, in respect of any event featured on our website, any threat to the integrity of that event and/or breaches of the rules of that event as laid down by the relevant governing (including sporting) bodies. All rights in the manner of recording your Personal Information held by Goalwin (including copyright and database rights) are and shall remain its property.
-
-### To whom and where personal information may be disclosed?
-
-Goalwin may disclose your personal information in certain circumstances. Sometimes we are required or authorised by law to disclose your personal information. For example we may disclose your personal information to a court in response to a subpoena or to the Inland Revenue Department following a direction issued under taxation laws. We may also disclose your personal information where you have consented to us doing so. Your consent to the disclosure of your personal information may be given explicitly such as in writing or verbally or may be implied from your conduct such as when you discuss details of the relationship you have with us publicly with the media. Additionally, your Personal Information may be disclosed to any regulatory or sporting body in connection with policing the integrity or enforcing the rules of a sport or game and/or prevention and detection of crime and with whom Goalwin has agreements from time to time for the sharing of such data and where Goalwin considers that there are reasonable grounds to suspect that you may be involved in a breach of such rules or the law, have knowledge of a breach of such rules or the law or otherwise pose a threat to the integrity of the relevant sport or game. Those bodies may then use your Personal Information to investigate and act on any such breaches in accordance with their procedures.
-
-### Consent
-
-By providing your Personal Information and registering with us or logging on with us when you enter our website, you explicitly consent to Goalwin processing and disclosing your Personal Information for the purposes, and otherwise in the manner, set out on this page, or as otherwise provided in accordance with the [Terms and Conditions](https://web.archive.org/About/TermsandConditions/tabid/331/Default.aspx).
+**Access to personal information**  
+You have right of access to information we have about you. To review and update personal contact information, simply access our site with your username and password or through the page, My Account, where you can edit the information. If you prefer, you can contact the Customer Service using the details available on the site. Moreover, you have the right to correct any inaccurate information, and if necessary obtain the cancellation. We have the right to require a written request regarding the information we maintain.
