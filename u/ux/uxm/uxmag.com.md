@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uxmag.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202030943id_/http%3A//uxmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uxmag.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602041908id_/http%3A//uxmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UX Magazine
 
@@ -100,4 +100,4 @@ USA
 
 [info@uxmag.com](mailto:info@uxmag.com)
 
-_This policy was last modified on September 7, 2011._
+ _This policy was last modified on September 7, 2011._
