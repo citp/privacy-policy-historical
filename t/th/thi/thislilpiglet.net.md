@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thislilpiglet.net privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130010527id_/http%3A//thislilpiglet.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thislilpiglet.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602110349id_/http%3A//thislilpiglet.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - This Lil Piglet
 
