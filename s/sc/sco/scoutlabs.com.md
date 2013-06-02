@@ -1,112 +1,92 @@
-> *The following text is extracted and transformed from the scoutlabs.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120101354id_/http%3A//www.scoutlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutlabs.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602153522id_/http%3A//www.lithium.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Scout Labs
+# Lithium Technologies Social CRM and Community Solutions - Privacy Policy - Lithium
 
-### Scout Labs Privacy Policy 
+## about Lithium
 
-Effective January 1, 2008
+Lithium provides social customer solutions for its clients. This Privacy Statement describes how we collect and use your personally identifying information. It also describes the choices available to you regarding the use of your personally identifying information by Lithium and options available to you to access your information and request correction or deletion should you choose to do so.
 
-This policy describes the use of Personal Information by Scout Labs. Scout Labs respects the privacy of its users. This document explains how Scout Labs will use the information that you provide to us via the Scout Labs website (“Website”). Scout Labs may revise this privacy policy from time to time by posting revisions at www.scoutlabs.com/privacy or any other such URL that Scout Labs may provide.
+Lithium does not send unsolicited emails or sell any personally identifying information users may have submitted to us though our website. In addition, for lead generation or marketing purposes, we may ask individuals interested in obtaining more information about Lithium products to voluntarily submit their contact information to us. Lithium has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability, and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@lithium.com. If you are not satisfied with our response, you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-1\. Definitions
+This site complies with U.S.-E.U. Safe Harbor and U.S.-Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from the European Union member countries and Switzerland. Lithium Technologies has certified that it adheres to the Safe Harbor Privacy Principals of notice, choice, onward transfer, security, data integrity, acess, and enforcement. 
 
-“Cookies” are small text files and “pixel tags” are small graphic image files placed on your computer’s hard drive by Scout Labs service to identify your computer to our servers. Except as provided in Section 4 below, no personally identifiable information stored in Scout Labs cookies or pixel tags will be shared with outside companies for any purpose without your permission. You may disable Cookies or otherwise manage them through tools provide with your browser software.
+For more information about the Safe Harbor program, and to view Lithium Technologies’ certificate, please visit the [U.S. Department of Commerce web site](http://www.export.gov/safeharbor)
 
-“Member” means any individual who has registered with the Site. Members choose a Member ID and a password.
+## information collected or tracked by Lithium
 
-“Personal Information” means any information, recorded in any form, about an identified individual, or an individual whose identity may be inferred from the information. This includes, for example, name, e-mail and mailing address and telephone number, billing and account information, and other information incidental to providing Scout Labs Services.
+### information submitted to Lithium
 
-“Post” means any content, information, text, link or other data (collectively “Content”) posted by users on the Site. Any content posted by users will be accessible by other users of the same workspace.
+Lithium collects user-submitted information as a response to users wishing to be sent additional promotional information on Lithium products. Personally identifying information would include information such as name, phone number, company, title, and email address. 
 
-“Scout Labs Services” means the data and information processing provided by Scout Labs and available to Members from the Site.
+### information indirectly submitted by users to Lithium 
 
-“Session Data” means usage information, such as the type of Internet browser and operating system an individual uses, the domain name of the site from which the individual came, the date, time and duration of the visit, number of visits, average time spent on the site, pages viewed, domain name of the individual, and number of cookies accumulated.
+We also use cookies and collect some information passively such as the client browser type and IP address information. This information is gathered for all users to our website to track usage and provide a personalized experience. 
 
-“Site” means the www.scoutlabs.com site, spark.scoutlabs.com, commerce.scoutlabs.com, and the respective content and Services available from the site(s).
+## use of information obtained by Lithium
 
-“Workspace” means a collective area on the Site in which a group of members can post original content, flag third-party content, assign and execute tasks and have collective visibility to what other members of the same workspace have posted, flagged, assigned or executed. It is the responsibility of the members to maintain secure Workspaces according to the Member Account, Password and Security provisions in the Scout Labs Terms of Service available at www.scoutlabs.com/tos.
+### information users submit to Lithium
 
-2\. Consent
+Information gathered is solely used to respond to a user's request for additional information on Lithium products. We may also use a user's email address to send promotional or marketing materials such as updates on the Lithium product line, but this is only after that service is requested by the user.Information that users do not submit to us We use your IP address and browser-type information in the general administration of our website. 
 
-BY SUBMITTING PERSONAL INFORMATION TO US, AND/OR BY USING OUR SITE, YOU AGREE THAT WE MAY COLLECT, USE AND DISCLOSE SUCH PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY AND AS PERMITTED OR REQUIRED BY LAW.
+### sharing of the information this site gathers or tracks
 
-If you do not agree with these terms, do not provide any Personal Information to us. If you refuse or withdraw your consent, or if you choose not to provide us with any required Personal Information, we may not be able to provide you with Scout Labs Services that can be offered on our Site only if we have access to certain Personal Information.
+As a matter of policy we do not sell your personally identifying information. We may disclose your personally identifying information:
 
-From time to time, Scout Labs (or its wholly-owned subsidiaries’) support staff may log in to the Service under Your customer password in order to maintain or improve service, including to provide You with technical assistance. You hereby acknowledge and consent to such access.
+  * to any third party with your consent
+  * to companies that provide services to help us with business activities such as marketing or website analytics
+  * when required by law to comply with a subpoena or other similar legal processes
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or comply with a law enforcement request
+  * if Lithium becomes involved in a merger or acquisition, or any form of sale of some or all of its assets, we will provide notice when your personally identifying information becomes subject to a different privacy policy
 
-3\. What Personal Information we collect
 
-You can visit certain areas of our Site without revealing who you are or signing-in. When you visit our Site as a guest or Member, we collect Session Data through cookies and pixel tags.
 
-If you register with us as a Member, we collect Personal Information that is necessary to provide the Scout Labs Services offered on our Site. We require that you provide your name and e-mail address. You also need to choose a password, which will be required to gain access to portions of our Site reserved for Member use. To receive Scout Labs Services, you may have to provide payment or other necessary information. This includes, for example, billing information, and the name of your employer, if applicable.
+### links to external websites
 
-If you call or write to us, we collect contact information (name, phone number, mailing address or e-mail address) and other information relevant to assist you.
+This site may contain links to other websites not connected to Lithium. Please be aware that Lithium is not responsible for the privacy practices of other websites. We encourage users to be aware when they leave our site and to read the privacy statements of any website that collects personally identifying information. This privacy statement applies solely to information collected by this website. 
 
-4\. How we use the information we collect
+### special offers and updates
 
-We use Personal Information in order to provide and enhance the Scout Labs Services offered on our Site:
+We will occasionally send you information on products, services, special deals, and promotions. You can sign up for these emails from us on our website. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the "Choices and Opt-out Options" section below.
 
-* To issue invoices, administer accounts, collect and process payments;  
-* To provide tips or guidance on how to use our Site, inform you of new features on our Site, or provide other information that may be of interest to users;  
-* To personalize the service we provide to you and tailor your experience at our Site to your interests;  
-* To send you e-mails, e-newsletters, personalized offers via direct messaging or other communications about our services, if you have subscribed to receive this information or you have not advised us that you do not wish to receive such communications;  
-* To manage our Site, diagnose technical problems, improve content, and allocate the resources of our systems so that your experience with our Site is as efficient as possible;  
-* To evaluate credit standing and to match credit bureau or credit reporting agency information; to investigate, detect and protect Scout Labs and other third parties against error, negligence, breach of contract, fraud, theft and other illegal activities;  
-* To effect a corporate transaction, in connection with the sale, merger, spin-off, or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business;  
-* To audit compliance with our policies and contractual obligations;  
-* As permitted by, and to comply with, any legal or regulatory requirements or provisions; or  
-* For any other purpose to which you consent.
+## use of cookies
 
-We use Session Data, collected through Cookies and pixel tags, to better understand how our Site is navigated, how many visitors arrive at specific pages, the length and frequency of stays at our Site, the variety of searches of our Site’s database, the types of browsers and computer operating systems used by our visitors and the Internet Protocol addresses from which visitors connect to our Site. We also use this information to improve our Site content and ease of use, to personalize and improve your individual viewing experiences on our Site, and provide information that may be of interest to you.
+Lithium uses browser cookies to manage user sessions on our website. A cookie is a piece of data stored on the user's computer tied to information about the user. We do not use persistent cookies on this site. We do not link the information we store in cookies to any personally identifying information you submit while on our site.
 
-The Site may contain links to third party sites, who have their own privacy policies. Scout Labs is not responsible for such third party sites, and you should carefully review the privacy statements of any other site you visit, because those privacy statements will apply to your visit to that site, and may be very different from our policy.
+[download the Lithium 'use of cookies' datasheet](https://web.archive.org/pdfs/datasheets/Lithium_Cookies_Datasheet_052312.pdf)
 
-Aggregate information is information, recorded in any form, about more than one individual, where the identity of the individual is not known, and cannot be inferred from the information. Scout Labs may use aggregated information to describe our user base to current or potential partners investors and advertisers; after a survey, to understand and respond to market needs and preferences; or to make recommendations to other users of our Site. 
+### third party cookies
 
-5\. To whom we disclose Personal Information
+The use of cookies by third parties affiliated with Lithium such as our service providers is limited to providing visitors to our website a personalized experience.
 
-From time to time, we may disclose your Personal Information as follows:
+### web beacons
 
-* To protect our Site and our rights under our Terms of Service; to protect ourselves against liability or prevent fraudulent activity; or where it is necessary to permit us to pursue available remedies or limit any damages that we may sustain.  
-* To effect a corporate transaction, in connection with the sale, merger, spin-off, or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business.  
-* Where the information is public.  
-* To our insurers and to regulatory agencies.
+Our website pages may contain electronic images known as Web beacons. These are very small single-pixel GIF images used along with cookies to compile aggregated statistics to analyze site usage and may also be used in some of our emails to track the effectiveness of our customer communications and marketing campaigns.
 
-Furthermore, Scout Labs may disclose information without consent. Such circumstances may include:
+## changes in our privacy policy
 
-* If required to comply with a subpoena or warrant issued or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with the rules or court relating to the production of records.  
-* If we receive a formal request to disclose your Personal Information in connection with a legal action, we will attempt to contact you about it, if permitted by law, via the e-mail address you provided during registration, before we respond to that request.  
-* If we believe in good faith that a law, regulation, rule or guideline requires it.  
-* To a person who needs the information because of an emergency that threatens the life, health, or security of an identifiable person or group.  
-* Where it is necessary to collect monies owing to us.
+This Privacy notice may change from time to time, so please review it frequently for any updates or changes. If we make material changes to this policy we will place a prominent notice on our web site.
 
-6\. How we retain and store and protect Personal information
+### access to your personally identifying information (pii)
 
-We will retain your Personal Information in our databases in accordance with our document management, retention and destruction policy and applicable laws. This period may extend beyond the end of your relationship with us, but it will be only as long as it is necessary for us to have sufficient information to respond to any issues that may arise later.
+Users can update or correct their personally identifiable information or remove it from our contact list by emailing us at privacy@lithium.com. Users can expect a response to their access requests in thirty (30) days or less.
 
-Scout Labs employs physical, administrative and technical safeguards to help protect the confidentiality and integrity of Personal Information and to reduce the risk of loss, misuse, unauthorized access disclosure or modification of Personal Information. Scout Labs assumes no liability for the loss of any information that you transmit to us via the World Wide Web.
+### security of your personally identifying information
 
-7\. Opting-Out
+We follow generally accepted industry standards to protect the personally identifying information submitted to us, both during transmission and once we receive it. Please keep in mind, however, no method of transmission over the Internet, or any method of electronic storage is perfectly secure. If you have any questions about our security practices or security on our website, you can visit our security information page at [lithium.com/security](https://web.archive.org/security) or email us at [privacy@lithium.com](mailto:privacy@lithium.com)
 
-In our e-mails and other communications, as well as on the Site, we will include instructions on how to unsubscribe and inform us of preferences if you decide you do not want to receive any future marketing or promotional e-mails from us.
+### choices and opt-out options
 
-8\. Links
+Users have the opportunity to “opt-out” of having their personally identifying information used for certain purposes such as receiving promotional or other marketing material from us during the registration process for downloading a whitepaper or signing up for our webcasts.Additionally, users who no longer wish to receive our updates or newsletters may opt-out of receiving these communications by following the instructions contained in the mailer or by emailing us at marketing@lithium.com. Please include the term “OPT-OUT” in the subject line immediately followed by your email address.
 
-For your convenience, our Site provides links to other sites. When you click on one of these links, you are leaving our Site and entering another site. We are not responsible for such third party sites. You should carefully review the privacy statements of any other sites you visit, because those privacy statements will apply to your visit to such other sites.
+### data retention
 
-9\. Changes to the Privacy Policy
+We will retain your contact information for as long as your account is active or as needed to provide your services. If you wish to cancel your account or request that we no longer use your information to provide services, contact us at [marketing@lithium.com](mailto:marketing@lithium.com). Please include the term “OPT-OUT” in the subject line immediately followed by your email address. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Scout Labs may change or supplement this Privacy Policy from time to time. We may also undergo a change of ownership. Any changes to the Privacy Policy and changes of ownership will be posted on our Site. Privacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy to the Site, as well as to existing information held by us.
+### contacting us
 
-10\. Contact Information
+If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please email us at [privacy@lithium.com](mailto:privacy@lithium.com) or write us at the following address:
 
-If you have any questions about this policy or our use of Personal Information, you may contact us at:
-
-Scout Labs, Inc.  
-575 Market St., 12th Floor  
-San Francisco, CA 94105  
-privacy  Scoutlabs.com 
-
-Your California Privacy Rights
-
-Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes, and (2) the names and addresses of all such third parties. We will respond to such written requests within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.
+Lithium Technologies  
+225 Bush St., 15th Floor  
+San Francisco, CA 94104  
+USA 
