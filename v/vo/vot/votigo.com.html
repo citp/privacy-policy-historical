@@ -1,22 +1,22 @@
-<!--The following is the downloaded HTML source of the votigo.com privacy policy that was archived on 2012-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229120039id_/http%3A//www.votigo.com/corp/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the votigo.com privacy policy that was archived on 2013-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602162810id_/http%3A//www.votigo.com/corp/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Votigo social media solutions - Privacy Policy</title>
     <meta name="Description" content="Votigo custom Video contest promotions, viral video contests, video galleries, photo gallery, image gallery, contest rules, sweepstakes rules, photo contests, online promotions.">
   	<meta name="keywords" content="video contest, video contests, photo contest, photo contests, social networking, contest platform, image gallery, viral marketing, contests, online promotions">
- <!-- server name:www.votigo.com server ip: 192.168.1.246 -->
+ <!-- server name:www.votigo.com server ip: 192.168.1.181 -->
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-<link rel="stylesheet" href="/css/corp/styles.css?v=1356782439" type="text/css" media="screen">
-<script id="hs-analytics" src="//js.hubspot.com/analytics/1580451000000/180713.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/corp/jquery.min.js"></script>
+<link rel="stylesheet" href="/css/corp/styles.css?v=1370190490" type="text/css" media="screen">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/corp/jquery.min.js"></script>
 <script type="text/javascript" src="/js/corp/jquery-ui-1.8.7.custom.min.js"></script>
 <script type="text/javascript" src="/js/corp/jquery.slideto.min.js"></script>
 <link href="/colorbox/colorbox-min.css?v=11" media="screen" rel="stylesheet" type="text/css">
 <script src="/colorbox/jquery.colorbox-min.js" type="text/javascript"></script>
-<script type="text/javascript" src="/corp/js/jquery.roundabout.min.js?v=1356782439"></script>
+<script type="text/javascript" src="/corp/js/jquery.roundabout.min.js?v=1370190490"></script>
 <script type="text/javascript" src="/js/swfobject.js"></script>
 <script type="text/javascript" src="/jwplayer5_7/jwplayer.js"></script>
-<!--tour tabs --><script src="/js/corp/verticaltabs.pack.js?v=1356782439" type="text/javascript"></script>
+<!--tour tabs --><script src="/js/corp/verticaltabs.pack.js?v=1370190490" type="text/javascript"></script>
 <script>
 		$(document).ready(function(){
 				
@@ -37,6 +37,15 @@
 			});
 			$("#nohighlight5").click(function(){
 				$("#slidetodiv5").slideto({highlight: false});
+			});
+			$("#nohighlight6").click(function(){
+				$("#slidetodiv6").slideto({highlight: false});
+			});
+			$("#nohighlight7").click(function(){
+				$("#slidetodiv7").slideto({highlight: false});
+			});
+			$("#nohighlight8").click(function(){
+				$("#slidetodiv8").slideto({highlight: false});
 			});
 			$("#moveid").click(function(){
 				$("#moving").slideto({highlight: false});
@@ -67,75 +76,89 @@
     <div id="wrapper" class="terms">
         <header>
              <script type="text/javascript">
-$(document).ready(function () {
+    var timeout         = 500;
+    var closetimer		= 0;
+    var ddmenuitem      = 0;
+    
+    function nav_open()
+    {	nav_canceltimer();
+    	nav_close();
+    	ddmenuitem = $(this).find('ul').eq(0).css('visibility', 'visible')
+	}
+    function nav_close()
+    {	if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');}
+    
+    function nav_timer()
+    {	closetimer = window.setTimeout(nav_close, timeout);}
+    function nav_canceltimer()
+    {	if(closetimer)
+    	{	window.clearTimeout(closetimer);
+    		closetimer = null;}
+	}
+    $(document).ready(function(){
+        $('#nav  .nav-name').bind('mouseover', nav_open);
+    	$('#nav  .nav-name').bind('mouseout',  nav_timer);
+    }
+	);
 
-    $('#nav li').hover(
-        function () {
-            //show its submenu
-            $('ul', this).slideDown(100);
-
-        },
-        function () {
-            //hide its submenu
-            $('ul', this).slideUp(100);
-        }
-    );
-
-});
-    </script>
+    document.onclick = nav_close;
+</script>
     <div id="header">
     <div id="logo"><a href="/" title="Votigo®"><span><img src="/img/corp/votigo-header-icon.png" alt="Votigo Icon"></span></a></div>
     <div class="user-nav">
     	<div class="contact_info">
-            <div class="signup-login">
-                  <div class="header-login fl">
-                    <a href="/login">&nbsp;</a>
-                  </div>
-                  <div class="header-signup fl">
-                    <a href="/register">&nbsp;</a>
-                  </div>
-             </div>
-			 <span class="ph-no">call us at <b>1.800.519.1850</b></span>
+    		 <div class="ph-no fl"><a href="/contact.php">Contact us</a> or call 1.800.519.1850</div>
+			 <div class="contact-section fr">
+				<div class="contact-login fl"><a href="/login">Login</a></div>
+				<div class="contact-spacer fl">|</div>
+				<div class="contact-register fl"><a href="/register">Register</a></div>
+				<div class="clear"></div>
+			</div>
              <div class="clear"></div>
          </div>
          <div class="clear"></div>
 
          <ul id="nav" class="clearfix">
 	        <li class="nav-name"><span class="name_selected"><a href="#" class="selected">Products <img src="/img/corp/bg_dropdown_arrow.png?v=1" alt="Drop Down Arrow"></a></span>
-		        <ul>
-			        <li class="dropdown_item"><a href="/products/social-media-management-software.php">Social Marketing Suite</a></li> 
-			        <li class="dropdown_item"><a href="/products/social-promotions.php">Social Promotions</a></li>
-			        <li class="dropdown_item"><a href="/products/applications.php">Engagement Applications</a></li>
-			        <li class="dropdown_item"><a href="/products/social-contacts.php">Social Contacts</a></li>
-			        <li class="dropdown_item"><a href="/products/conversationmanager.php">Social Conversation Manager</a></li>
-			        <li class="dropdown_item"> <a href="/products/social-media-analytics.php">Analytics</a></li>
+		        <ul style="width:480px" class="subnav-styles">
+			        <li class="dropdown_item"><a class="sub-head" href="/products/social-media-management-software.php">Social Marketing Suite</a></li>
+			        <li class="dropdown_item"><a class="sub-head" href="/products/social-promotions-overview.php">Premium Social Promotions</a></li> 
+			        <li class="dropdown_item"><a class="navpad" href="/products/social-promotions.php">Promotions</a></li>
+			        <li class="dropdown_item"><a class="navpad" href="/Facebook_Contest_App.php">Facebook Promotions</a></li>
+			        <li class="dropdown_item"><a class="navpad" href="/products/applications.php">Applications</a></li>
+			        <li class="dropdown_item"><a class="navpad" href="/corp/promotions/twitter.php">Twitter / Vine Promotions</a></li>
+			        <li class="dropdown_item"><a class="navpad" href="/products/social-contacts.php">Contacts</a></li>
+			        <li class="dropdown_item"><a class="navpad" href="/products/microsite-promotion.php">Web Promotions</a></li>
+			        <li class="dropdown_item"><a class="navpad" href="/products/conversationmanager.php">Conversation Manager</a></li>
+			        <li class="dropdown_item"><a class="navpad" href="/products/mobile-contest.php">Mobile Promotions</a></li>
+			        <li class="dropdown_item"><a class="navpad" href="/products/social-media-analytics.php">Analytics</a></li>
+			        <li class="dropdown_item"><a class="navpad" href="/corp/promotions/youtube.php">YouTube Contests</a></li>
+			        <li class="dropdown_item"><a class="sub-head" href="/products/DIY-contest-app.php">Standard DIY Promotions</a></li>
+			        <li class="dropdown_item"><a class="navpad" href="/products/instagram-contest.php">Instagram Promotions</a></li>
+			        <li class="dropdown_item"><a class="sub-head" href="/solutions/developer.php">Developer API</a></li>
+			        <li class="dropdown_item"><a class="navpad" href="/products/pin-to-win-pinterest-contest.php">Pinterest Promotions</a></li>
+			        <li class="dropdown_item"><a class="sub-head" href="/solutions/enterprise.php">Enterprise Solutions</a></li>
+			        <li class="dropdown_item"><a class="sub-head" href="/products/services.php">Services</a></li>
+			        <li class="dropdown_item"><a class="sub-head" href="/products/advertising.php">Facebook Advertising</a></li>
+			        <li class="dropdown_item"><a class="sub-head" href="/products/advertising.php">&nbsp;</a></li>
 		        </ul>
 		        <div class="clear"></div>
 	        </li>
-	        <li class="nav-name"><span class="name_selected"><a href="#" class="selected">Solutions <img src="/img/corp/bg_dropdown_arrow.png?v=1" alt="Drop Down Arrow"></a></span>
-                <ul>
-                    <li class="dropdown_item"><a href="/solutions/brand.php">Brands</a></li>
-                    <li class="dropdown_item"><a href="/solutions/agency.php">Agencies</a></li>
-                    <li class="dropdown_item"><a href="/solutions/enterprise.php">Enterprises</a></li>
-                    <li class="dropdown_item"><a href="/solutions/developer.php">Developers</a></li>
-                    <li class="dropdown_item"> <a href="/solutions/partner.php">Partners</a></li>
-                </ul>
-                <div class="clear"></div>
-            </li>
-            <li class="nav-name no-arrow1"><a href="/solutions/pricing-and-plans.php" class="selected">Pricing &amp; Plans</a>
-            </li><li class="nav-name client_selected"><span class="name_selected"><a href="#" class="selected">Clients <img src="/img/corp/bg_dropdown_arrow.png?v=1" alt="Drop Down Arrow"></a></span>
-                <ul>
-                    <li class="dropdown_item"><a href="/clients.php">Overview</a></li>
+                         <li class="nav-name no-arrow1"><a href="/solutions/pricing-and-plans.php" class="selected">Pricing</a>
+                        </li><li class="nav-name client_selected"><span class="name_selected"><a href="#" class="selected">Customers<img style="margin-left:4px;" src="/img/corp/bg_dropdown_arrow.png?v=1" alt="Drop Down Arrow"></a></span>
+                <ul class="subnav-styles">
+                    <li class="dropdown_item" style="border-radius:5px 5px 0 0px;"><a href="/clients.php">Overview</a></li>
                     <li class="dropdown_item"><a href="/case-studies.php">Case Studies</a></li>
-                    <li class="dropdown_item"> <a href="/testimonials.php">Testimonials</a></li>
+                    <li class="dropdown_item" style="border-radius:0 0px 5px 5px;"> <a class="lastitem" href="/testimonials.php">Testimonials</a></li>
                 </ul>
                 <div class="clear"></div>
             </li>
             <li class="nav-name comp_selected"><span class="name_selected"><a href="#" class="selected">Company <img src="/img/corp/bg_dropdown_arrow.png?v=1" alt="Drop Down Arrow"></a></span>
-                <ul>
-                    <li class="dropdown_item"><a href="/about.php">About us</a></li>
+                <ul class="subnav-styles">
+                    <li class="dropdown_item" style="border-radius:5px 5px 0 0px;"><a href="/about.php">About us</a></li>
                     <li class="dropdown_item"><a href="/news.php">News</a></li>
                     <li class="dropdown_item"> <a href="/jobs.php">Jobs</a></li>
+                    <li class="dropdown_item" style="border-radius:0 0px 5px 5px;"><a class="lastitem" href="/solutions/partner.php">Partner Opportunities</a></li>
                 </ul>
                 <div class="clear"></div>
             </li>
@@ -149,8 +172,10 @@ $(document).ready(function () {
 		<div class="clear"></div>
     </div>
     <div class="clear"></div>
-</div><!-- #header end-->
-<div class="clear"></div>        </header>
+</div>
+<div class="clear"></div>
+  <!-- #header end-->  
+          </header>
         <div class="clear"></div>
         <div class="content">
             <section>
@@ -232,46 +257,53 @@ $(document).ready(function () {
     	<div class="fl footer-gap"><a href="/"><img src="/img/corp/votigo-footer-logo.png?v=1" alt="Votigo Icon"></a></div>
     	<div class="footer-sec footer-gap">
     		<ul>
-    			<li class="sec-title">PRODUCTS</li>
-    			<li><a href="/products/social-media-management-software.php">Social Marketing Suite</a></li>
-    			<li><a href="/products/social-promotions.php">Social Promotions</a></li>
-    			<li><a href="/products/applications.php">Engagement Applications</a></li>
-    			<li><a href="/products/social-contacts.php">Social Contacts</a></li>
-    			<li><a href="/products/conversationmanager.php">Social Conversation Manager</a></li>
+    			<li class="sec-title">products</li>
+    			<li class="sec-title"><a href="/products/social-media-management-software.php">Social Marketing Suite</a></li>
+    			<li><a href="/products/social-promotions.php">Promotions</a></li>
+    			<li><a href="/products/applications.php">Applications</a></li>
+    			<li><a href="/products/social-contacts.php">Contacts</a></li>
+    			<li><a href="/products/conversationmanager.php">Conversation Manager</a></li>
     			<li><a href="/products/social-media-analytics.php">Analytics</a></li>
-    			<li><a href="/corp/solutions/photo-video.php">Video Contest</a></li>
-    			<li><a href="/corp/promotions/photo-contest.php">Photo Contest</a></li>
-    		</ul>
-    	</div>
-    	<div class="footer-sec footer-gap">
-    		<ul>
-    			<li class="sec-title">FACEBOOK APPS</li>
-    			<li><a href="/corp/solutions/fbcontests.php">Facebook Contest</a></li>
-    			<li><a href="/corp/solutions/facebook-video-contest-application.php">Facebook Video Contest</a></li>
-    			<li><a href="/corp/solutions/facebook-photo-contest-application.php">Facebook Photo Contest</a></li>
-    			<li><a href="/corp/solutions/facebook-sweepstakes-application.php">Facebook Sweepstakes</a></li>
-    			<li><a href="/corp/solutions/facebook-applications.php">Facebook Application</a></li>
-    			<li><a href="/Facebook_Contest_App.php">Facebook Contest App </a></li>
-    			<li><a href="/Facebook_Video_Contest_App.php">Facebook Video Contest App</a></li>
-    			<li><a href="/Facebook_Photo_Contest_App.php">Facebook Photo Contest App</a></li>
-    			<li><a href="/Facebook_Sweepstakes_App.php">Facebook Sweepstakes App</a></li>
     		</ul>
     	</div>
 
     	<div class="footer-sec footer-gap">
     		<ul>
-    			<li class="sec-title">SOLUTIONS</li>
-    			<li><a href="/solutions/brand.php">Brands</a></li>
-    			<li><a href="/solutions/agency.php">Agencies</a></li>
-    			<li><a href="/solutions/enterprise.php">Enterprises</a></li>
-    			<li><a href="/solutions/developer.php">Developers</a></li>
-    			<li><a href="/solutions/partner.php">Partners</a></li>
-    			<li><a href="/solutions/pricing-and-plans.php">Pricing and Plans</a></li>
+    			<li class="sec-title"><a href="/products/social-promotions-overview.php">Premium Social Promotions</a></li>
+    			
+				<li><a href="/Facebook_Contest_App.php">Facebook Promotions</a></li>
+		        <li><a href="/corp/promotions/twitter.php">Twitter / Vine Promotions</a></li>
+		        <li><a href="/products/microsite-promotion.php">Web Promotions</a></li>
+		        <li><a href="/products/mobile-contest.php">Mobile Promotions</a></li>
+		        <li><a href="/corp/promotions/youtube.php">YouTube Contests</a></li>
+		        <li><a href="/products/instagram-contest.php">Instagram Promotions</a></li>
+		        <li><a href="/products/pin-to-win-pinterest-contest.php">Pinterest Promotions</a></li>
+		        
+		        <li class="sec-title"><a href="/products/services.php">Services</a></li> 
+		        <li class="sec-title"><a href="/products/DIY-contest-app.php">Standard DIY Promotions</a></li> 
+		        <li class="sec-title"><a href="/solutions/developer.php">Developer API</a></li>
+		        <li class="sec-title"><a href="/solutions/enterprise.php">Enterprise solutions</a></li>
+		        <li class="sec-title"><a href="/products/advertising.php">Facebook Advertising</a></li>
+		        <li class="sec-title"><a href="/solutions/pricing-and-plans.php">Pricing</a></li>
+    		</ul>
+    	</div>
+    	
+    	<div class="footer-sec footer-gap">
+    		<ul>
+    			<li class="sec-title">Promotion Apps</li>
+    			<li><a href="/corp/solutions/fbcontests.php">Facebook Contest</a></li>
+    			<li><a href="/corp/solutions/facebook-video-contest-application.php">Facebook Video Contest</a></li>
+    			<li><a href="/corp/solutions/facebook-photo-contest-application.php">Facebook Photo Contest</a></li>
+    			<li><a href="/corp/solutions/facebook-sweepstakes-application.php">Facebook Sweepstakes</a></li>
+    			<li><a href="/corp/solutions/facebook-applications.php">Facebook Application</a></li>
+    			<li><a href="/Facebook_Video_Contest_App.php">Facebook Video Contest App</a></li>
+    			<li><a href="/Facebook_Photo_Contest_App.php">Facebook Photo Contest App</a></li>
+    			<li><a href="/Facebook_Sweepstakes_App.php">Facebook Sweepstakes App</a></li>
     		</ul>
     	</div>
     	<div class="footer-sec footer-gap">
     		<ul>
-    			<li class="sec-title">CLIENTS</li>
+    			<li class="sec-title">customers</li>
     			<li><a href="/clients.php">Overview</a></li>
     			<li><a href="/case-studies.php">Case Studies</a></li>
     			<li><a href="/testimonials.php">Testimonials</a></li>
@@ -296,6 +328,9 @@ $(document).ready(function () {
     			<li><a href="http://social.votigo.com/">Blog</a></li>
     			<li><a href="/corp/solutions/tips.php">How to Run a Contest</a></li>
     			<li> <a href="/corp/solutions/whycontestswork.php">Why Contests Work </a></li>
+    			<li class="sec-title" style="margin-top:16px;">Business Solutions</li>
+    			<li><a href="/solutions/brand.php">Brands</a></li>
+    			<li><a href="/solutions/agency.php">Agencies</a></li>
     			
     		</ul>
     	</div>
@@ -324,9 +359,6 @@ $(document).ready(function () {
     	<div class="clear"></div>
     	<div style="display:none">
     		<img src="/img/corp/home-banner.gif" alt="Banner image">
-    		<img src="/img/corp/new-banner.jpg" alt="Banner image">
-    		<img src="/img/corp/cross-channel-banner.jpg?v=1" alt="Banner image">
-    		<img src="/img/corp/cross-banner.jpg?v=1" alt="Banner image">
     		<img src="/img/corp/app_banner.jpg" alt="Banner image">
     		<img src="/img/corp/brand_banner.jpg" alt="Banner image">
     		<img src="/img/corp/Agency_solution_banner-new1.jpg" alt="Banner image">
@@ -334,13 +366,8 @@ $(document).ready(function () {
     		<img src="/img/corp/sharpie-banner.jpg" alt="Banner image">
     		<img src="/img/corp/partner_solutionsbanner.jpg" alt="Banner image">
     		<img src="/img/corp/fb-app-banner.jpg" alt="Banner image">
-    		<img src="/img/corp/analytics-banner-new.jpg" alt="Banner image">
     		<img src="/img/corp/photocontest-banner.jpg?v=1" alt="Banner image">
     		<img src="/img/corp/youtube-video-banner.jpg?v=1" alt="Banner image">
-    		<img src="/img/corp/social-channels2.gif?v=3" alt="Banner image">
-    		<img src="/img/corp/social-channels1.gif?v=3" alt="Banner image">
-    		<img src="/img/corp/social-channels3.gif?v=3" alt="Banner image">
-    		<img src="/img/corp/twitter-banner.jpg" alt="Banner image">
     		<img alt="clients section" src="/img/corp/screenshot/promotion-sc1.gif">
     		<img alt="clients section" src="/img/corp/screenshot/promotion-sc2.gif?v=5">
     		<img alt="clients section" src="/img/corp/screenshot/promotion-sc3.gif?v=5">
@@ -355,31 +382,10 @@ $(document).ready(function () {
     		<img alt="clients section" src="/img/corp/screenshot/promotion-sc12.gif?v=3">
     		<img alt="clients section" src="/img/corp/screenshot/promotion-sc13.gif?v=2">
     		<img alt="clients section" src="/img/corp/screenshot/promotion-sc14.gif?v=2">
-    		<img alt="clients section" src="/img/corp/screenshot/promotion-sc15.gif">
-    		<img alt="clients section" src="/img/corp/screenshot/promotion-sc16.gif?v=2">
-    		<img alt="clients section" src="/img/corp/screenshot/promotion-sc17.gif?v=1">
-    		<img alt="clients section" src="/img/corp/screenshot/promotion-sc18.gif?v=1">
-    		<img alt="clients section" src="/img/corp/screenshot/promotion-sc19.gif?v=1">
-    		<img alt="clients section" src="/img/corp/screenshot/promotion-sc20.gif?v=1">
-    		<img alt="clients section" src="/img/corp/screenshot/promotion-sc21.gif?v=2">
-    		<img alt="clients section" src="/img/corp/screenshot/promotion-sc22.gif">
-    		<img alt="clients section" src="/img/corp/screenshot/promotion-sc23.gif?v=5">
-    		<img alt="clients section" src="/img/corp/screenshot/promotion-sc24.gif?v=3">
-    		<img alt="clients section" src="/img/corp/screenshot/promotion-sc25.gif?v=2">
-
     	</div>
     </div>
 
 </div>
-
-<!-- snap engage code starts -->
-<script type="text/javascript">
-   document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https://snapabug.appspot.com":"http://www.snapengage.com") + "/snapabug.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://snapabug.appspot.com/snapabug.js" type="text/javascript"></script>
-<script type="text/javascript">
-   SnapABug.addButton("55a8f8aa-b4ae-4896-a10d-579474e4da23","1","75%");
-</script>
-<!-- snap engage code ends -->
 
 <script type="text/javascript">
       function createCookie(name, value, days) {
@@ -428,16 +434,6 @@ $(document).ready(function () {
       }
       areCookiesEnabled();
 </script>
-<!-- Start of Async HubSpot Analytics Code -->
-    <script type="text/javascript">
-        (function(d,s,i,r) {
-            if (d.getElementById(i)){return;}
-            var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
-            n.id=i;n.src='//js.hubspot.com/analytics/'+(Math.ceil(new Date()/r)*r)+'/180713.js';
-            e.parentNode.insertBefore(n, e);
-        })(document,"script","hs-analytics",300000);
-    </script>
-<!-- End of Async HubSpot Analytics Code -->
 
 <script type="text/javascript">
 adroll_adv_id = "BRD4NLSLY5EFDJNJU4F477";
