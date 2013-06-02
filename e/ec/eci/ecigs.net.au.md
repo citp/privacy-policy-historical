@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecigs.net.au privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018165326id_/http%3A//ecigs.net.au/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6%26Itemid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecigs.net.au privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602163655id_/http%3A//ecigs.net.au/privacy-policy/information/privacy-policy) for the most accurate reproduction.*
 
-# Electronic Cigarettes Australia Pty Ltd (Ecigs) - Privacy Policy
+# Electronic Cigarettes Australia Pty Ltd - Aussie Blue® Ecigs - Southern Cross E-Liquids - Privacy Policy
 
 We understand that your privacy while using our Site is important, especially when conducting business or providing sensitive personal information. This Notice will govern our Privacy Policy for users of this Site, whether or not a transaction of any sort is conducted while visiting.
 
