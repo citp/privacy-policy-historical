@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assh.org privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602012907id_/http%3A//www.assh.org/pages/ASSHPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assh.org privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602154618id_/http%3A//www.assh.org/pages/ASSHPrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # American Society for Surgery of the Hand (ASSH) Privacy Policy
 
@@ -32,9 +32,10 @@ Using the ASSH website indicates your acceptance of our privacy policy. Your con
 
 Contact information:   
 ASSH  
-6300 North River Road, #600  
-Rosemont, IL 60018  
-Telephone: (847) 384-8300  
+822 W. Washington Boulevard  
+Chicago, IL 60607
+
+Telephone: (312) 880-1900  
 Fax : (847) 384-1435 
 
 |   |  |   |   
