@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tobook.com privacy policy that was archived on 2012-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225103115id_/http%3A//www.tobook.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tobook.com privacy policy that was archived on 2013-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602232930id_/http%3A//www.tobook.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><!--teta--><head>
   <title>toBook.com - Privacy policy</title>
@@ -42,12 +42,193 @@
 <div style="height: 2em; line-height: 2em">
   <div style="float:right; margin: 0px 5px">
 
-    <a class="blue" href="/CustomerArea.asp">
-    My Booking<!--Guest Login-->
-</a> &nbsp;|&nbsp; 
-<a class="blue" href="/Feedback.asp">
-    Feedback<!--Feedback-->
-</a> 
+    
+
+<script type="text/javascript">
+
+function ShowGuestLogin(strTitle){
+  $(function() {
+        $( "#GuestLogin" ).dialog({ title: strTitle, width: 340, resizable: false, position: { my: 'center', at: 'center', of: $('#myBookings')} });
+    });
+}
+
+function SignIn()
+{
+  var xmlHttp=GetXmlHttpObject();
+  if (xmlHttp == null)
+  {
+      alert ("Browser does not support HTTP Request");
+    return false;
+  }
+  var guestEmail = document.getElementById("LoginEmail").value;
+  var guestPassword = document.getElementById("LoginPassword").value;
+  
+  if (guestEmail == "" || guestPassword == ""){
+    alert("All fields must be filled in.");
+    return;
+  }
+  
+  xmlHttp = GetXmlHttpObject();
+  var url="http://www.tobook.com/ajaxSignInCustomer.asp";
+	url = url +"?sid=" + Math.random();
+  url = url + "&username=" + guestEmail;
+  url = url + "&pw=" + guestPassword;
+	
+  xmlHttp.onreadystatechange = function()
+  { 
+    if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+    {
+      var json_data = xmlHttp.responseText;
+      var result = eval("(" + json_data + ")" );
+      var customerID = Number(result.id);
+      var customerName = result.name;
+      if (customerID > 0)
+      {
+        location.reload();
+        return;
+      }
+      alert("login FAILED");
+    }
+  }
+  xmlHttp.open("GET",url,true);
+  xmlHttp.send(null);
+}
+
+function SignOut(customerID){
+  var xmlHttp=GetXmlHttpObject();
+  if (xmlHttp == null)
+  {
+      alert ("Browser does not support HTTP Request");
+    return false;
+  }
+    
+  xmlHttp = GetXmlHttpObject();
+  var url="http://www.tobook.com/ajaxSignOutCustomer.asp";
+  url = url +"?sid=" + Math.random();
+  url = url + "&id=" + customerID;
+  xmlHttp.onreadystatechange = function()
+  { 
+    if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+    {
+      location.reload();
+    }
+  }
+  xmlHttp.open("GET", url, true);
+  xmlHttp.send(null);
+}
+  
+function SignUp(){  
+  var xmlHttp=GetXmlHttpObject();
+  if (xmlHttp == null)
+  {
+      alert ("Browser does not support HTTP Request");
+    return false;
+  }
+  var guestEmail = document.getElementById("RegEmail").value;
+  var guestPassword = document.getElementById("RegPassword").value;
+  var guestPassword2 = document.getElementById("RegPassword2").value;
+  
+  if (guestEmail == "" || guestPassword == "" || guestPassword2 == ""){
+    alert("All fields must be filled in.");
+    return;
+  }
+  
+  if (guestPassword != guestPassword2){
+    alert("Password and re-typed Password don't match.");
+    return;
+  }
+  
+  xmlHttp = GetXmlHttpObject();
+  var url="http://www.tobook.com/ajaxSignUpCustomer.asp";
+  url = url +"?sid=" + Math.random();
+  url = url + "&username=" + guestEmail;
+  url = url + "&pw=" + guestPassword;
+  xmlHttp.onreadystatechange = function()
+  { 
+    if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+    {
+      var json_data = xmlHttp.responseText;
+      var result = eval("(" + json_data + ")" );
+      var customerID = Number(result.id);
+      if (customerID > 0)
+      {
+        location.reload();
+        return;
+      }
+      alert("sign-up FAILED");
+    }
+  }
+  xmlHttp.open("GET",url,true);
+  xmlHttp.send(null);
+}
+
+</script>
+
+<div id="GuestLogin" style="display:none">
+
+  <div id="tabs">
+  
+    <ul>
+      <li><a href="#tabs-1">Sign in</a></li>
+      <li><a href="#tabs-2">Sign up</a></li>
+    </ul>
+    <div id="tabs-1">
+      <table cellpadding="2px" cellspacing="2px" border="0px" width="100%">
+        <tbody><tr>
+          <td>E-mail address</td>
+          <td>
+            <input type="text" name="LoginEmail" id="LoginEmail">
+          </td>
+        </tr>
+        <tr>
+          <td>Password</td>
+          <td>
+            <input type="password" name="LoginPassword" id="LoginPassword">
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" align="right">
+            <input type="button" name="LoginSubmit" id="LoginSubmit" value="Sign in" onclick="SignIn();">
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" align="right">
+            <a class="dark" href="#">Forgot your password?</a>
+          </td>
+        </tr>
+      </tbody></table>
+    </div>
+    <div id="tabs-2">
+      <table cellpadding="2px" cellspacing="2px" border="0px" width="100%">
+        <tbody><tr>
+          <td>E-mail address</td>
+          <td>
+            <input type="text" name="RegEmail" id="RegEmail">
+          </td>
+        </tr>
+        <tr>
+          <td>Password</td>
+          <td>
+            <input type="password" name="RegPassword" id="RegPassword">
+          </td>
+        </tr>
+        <tr>
+          <td>Re-type password</td>
+          <td>
+            <input type="password" name="RegPassword2" id="RegPassword2">
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" align="right">
+            <input type="button" name="RegSubmit" id="RegSubmit" value="Sign up" onclick="SignUp();">
+          </td>
+        </tr>
+      </tbody></table>
+    </div>
+
+    
+  </div>  
+</div>
 
 
 
@@ -299,14 +480,21 @@
                     
                   </div>
                 </div>
-                <div id="bottomPane">
+																		
+								<div id="bottomPane">
+									
+                   
+								</div>
+								
+								<div id="bottomPane">
+									 	
                   
   
   <div class="footer white">
     <a class="white" href="/">Home<!--Home--></a>&nbsp;
     <a class="white" href="/help/help.asp?topic=homepage">Help<!--Help--></a>&nbsp;
     <a class="white" href="/about.asp">About us<!--About us--></a>&nbsp;    
-    <a class="white" href="/Products_Services/">Products &amp; Services<!--Products &amp; Services--></a>&nbsp;
+    <a class="white" href="/ORCA/">Products &amp; Services<!--Products--></a>&nbsp;
     <a class="white" href="/contactus.asp">Contact us<!--Contact us--></a>&nbsp;
     <a class="white" href="/privacy.asp">Privacy policy<!--Privacy policy--></a>&nbsp;
     <a class="white" href="/partner/partner.asp">Affiliate<!--Affiliate--></a>&nbsp;
@@ -317,9 +505,10 @@
     <a class="white" href="/Advantages.asp">Hotel Login<!--Hotel Login--></a> 
     <a class="white" href="http://mobile.tobook.com">Mobile<!--mobile--></a>
     <a class="white" href="/NewHotelList.asp">Recently added<!--Recently added--></a>
-	<a class="white" href="/Register1.asp">Register your property</a>&nbsp;&nbsp;©&nbsp;2012
-    
+	<a class="white" href="/Register1.asp">Register your property</a>&nbsp;&nbsp;©&nbsp;2013    
   </div>
+  <div class="footer white">This website uses cookies. <!--This website uses cookies.--> </div>
+  
                 </div>
               </div>
             </div>
