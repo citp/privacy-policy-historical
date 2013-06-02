@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstanaldate.com privacy policy that was archived on 2012-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120905200010id_/http%3A//firstanaldate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstanaldate.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602172140id_/http%3A//firstanaldate.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,4 +21,4 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 You can access all your personally identifiable information that we collect online and maintain by using your account information at Segpay's (365Billing, Epoch) website. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies, please send us an email at: webmaster@firstanaldate.com.
+Should you have other questions or concerns about these privacy policies, please send us an email at: webmaster@firstanaldate.com. [Free Teen Porn](http://www.pornflixer.com/categories/teen/)
