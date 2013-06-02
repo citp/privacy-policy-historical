@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the padstyle.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011030437id_/http%3A//padstyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the padstyle.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602021255id_/http%3A//padstyle.com/privacy-policy) for the most accurate reproduction.*
 
 # PadStyle | Interior Design Blog | Modern Furniture | Home Decor » Privacy Policy
 
