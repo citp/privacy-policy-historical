@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divvyhq.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016182058id_/http%3A//www.divvyhq.com/index.php/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divvyhq.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602040748id_/http%3A//www.divvyhq.com/index.php/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies - DivvyHQ - The Spreadsheet-Free Editorial Calendar Application
 
