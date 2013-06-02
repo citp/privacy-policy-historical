@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barnet.gov.uk privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105005155id_/http%3A//www.barnet.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnet.gov.uk privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602101326id_/http%3A//www.barnet.gov.uk/privacy) for the most accurate reproduction.*
 
-# Privacy - Privacy - London Borough of Barnet
+# Privacy - London Borough of Barnet
 
 Barnet Council is a registered Data Controller and will only process your personal information in accordance with the requirements of the Data Protection Act 1998 (the Act). This privacy statement applies to all personal data the council collects and processes whether by letter, email, face to face or online.
 
