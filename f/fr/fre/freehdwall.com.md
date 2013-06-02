@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the freehdwall.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230191251id_/http%3A//www.freehdwall.com/p/copyright-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehdwall.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602040852id_/http%3A//www.freehdwall.com/p/copyright-privacy-policy.html) for the most accurate reproduction.*
 
 # FreeHDWall.Com | Free HD Wallpapers for your Desktop: Copyright & Privacy Policy
 
 Copyright Policy   
 
-  For Users: Attention every visitor to this website !!!  
-  All wallpapers on this website are copyrighted by their respective authors.You can download anything from here for desktop purposes only. You do not have any permission to use any image commercially (in website backgrounds,wall backgrounds, printing for sale..like that). You must obtain the permission from the original copyright holder of that image for using them commercially.  
+  For Users: All wallpapers on this website are copyrighted by their respective authors.You can download anything from here for desktop purposes only. You do not have any permission to use any image commercially (in website backgrounds,wall backgrounds, printing for sale..like that). You must obtain the permission from the original copyright holder of that image for using them commercially.  
   For Copyright Holders: All the images on this site are collected from various resources available on internet through search engines like that and please consider the fact that we do not intentionally distributing your work. We always respect your work in creating those wonderful images. But due to the fact we are using a 3rd party script which doesn’t have feature to display credits & copyright information. Currently are working on it. We already requested our users to comply with our copyright policy.  
   If any of the wallpapers from this site is made by you, please send us a link to the original wallpaper and tell us if you want it removed or not. If not, please send your website address and we'll post a link on the details page for that wallpaper. This way everyone wins.   
   If you are still not satisfied with our copyright policy.  
