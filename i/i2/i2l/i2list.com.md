@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i2list.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122040714id_/http%3A//www.i2list.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i2list.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602022928id_/http%3A//www.i2list.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
 # i2List.com Free Classifieds Site
 
@@ -40,4 +40,6 @@ Changes to this Agreement.
 
 We reserve the right, at our sole discretion, to change, modify or otherwise alter these terms and conditions at any time. Such modifications shall become effective immediately upon the posting thereof. We ask that you review this agreement on a regular basis to keep yourself apprised of any changes. 
 
-Created by, **i2List Team**
+Created by, 
+
+**i2List Team**
