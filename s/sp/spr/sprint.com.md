@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sprint.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003190308id_/http%3A//www.sprint.com/legal/privacy.html%3FINTNAV%3DATG%3AFT%3APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprint.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602075740id_/http%3A//www.sprint.com/legal/privacy.html%3FINTNAV%3DATG%3AFT%3APrivacy) for the most accurate reproduction.*
 
 # Legal / Regulatory & Consumer Resources
-
-IMPORTANT NOTICE: Our privacy policy has been updated to reflect that Sprint will be introducing two new programs: 1) Mobile Advertising – to make the mobile ads you see on your device more relevant to you (You must opt in to this program) and 2) Reporting & Analytics – to create and share certain business and marketing reports (You may opt out of this program.). We will not share any information that identifies you personally under either of these new programs. For detailed information on these programs and to learn how to opt in or out, please visit sprint.com/privacy.
 
 This Privacy Policy ("Policy") describes how Sprint Nextel ("Sprint") will collect, access, use or disclose your personal information. It applies to all of our products, services, and web sites ("Services"). A few of our Services are covered by different privacy policies and in the event of a conflict between the two, the product or service specific policy governs. For example, we may have a separate policy or agreement for certain products, services or brands. Our collection, access, use, disclosure and safeguarding of your personal information is subject to U.S. law.
 
@@ -71,11 +69,18 @@ Protection of Sprint and Others. We may access, monitor, use or disclose your pe
 
 
 
+We may share information that is de-identified or in an aggregated form that does not directly identify you. We share de-identified or aggregate information for purposes such as to:
+
+  * Conduct market or traffic flow analysis and reporting or produce or facilitate production by others of business and marketing reports to share with third parties. For example, we may aggregate customer information across a particular region and create a report showing that 10,000 subscribers from a given city visited a sports stadium. If you do not wish for us to use your information to produce de-identified and aggregated data sets in the reports we share with third parties, you may opt out at any time. See [sprint.com/privacy](http://www.sprint.com/privacy) for details.
+  * With your opt-in consent only, customize or personalize advertising you see when using your wireless device to access the internet or mobile applications. We may use information about your mobile web browsing to deliver more relevant advertisements tailored to your interests, and we may share de-identified information with third parties so that they can tailor their advertising to your interests. To receive ads more relevant to your interests, you must opt in to this use and sharing of your information. See [sprint.com/privacy](http://www.sprint.com/privacy) for details on how to do so.
+
+
+
 Back to top
 
 ### NETWORK AND INFORMATION SECURITY
 
-We maintain a variety of physical, electronic, and procedural safeguards. These safeguards help protect your personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction. Be sure to use a strong password to access your information on Sprint.com and not one you use for other services. You can learn more about how you can protect your information by reviewing our [privacy FAQs](http://newsroom.sprint.com/article_display.cfm?article_id=1472).
+We maintain a variety of physical, electronic, and procedural safeguards. These safeguards help protect your personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction. Be sure to use a strong password to access your information on Sprint.com and not one you use for other services. You can learn more about how you can protect your information by reviewing our [privacy FAQs](http://newsroom.sprint.com/article_display.cfm?article_id=1545).
 
 Back to top
 
