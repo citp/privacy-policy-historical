@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lavasoft.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225235139id_/http%3A//www.lavasoft.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavasoft.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602140941id_/http%3A//www.lavasoft.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lavasoft
 
@@ -13,6 +13,7 @@ Lavasoft may request that You provide certain Personal Information in order to u
   * If You submit an on-line order for any Lavasoft software products or services through a Lavasoft online store or through a Lavasoft third party sales partner You will be asked to provide certain Personal Information in order to be able to complete the purchase, such as name, postal address, e-mail and credit card details. Please note in this respect that the Lavasoft on-line stores are operated by third party e-commerce service providers, that such e-commerce service providers will own any Personal Information that You provide in connection with the purchase of Lavasoft software products and/or services and that such e-commerce providers' privacy policies will apply for any Personal Information that You provide through the Lavasoft online stores.
   * If You request online support for any Lavasoft software products through the Lavasoft Sites, Lavasoft will ask You to register a user account and to provide information necessary in order for Lavasoft to provide appropriate support services, such as e-mail address, country of residence, license number, hardware and the type of problems that You are experiencing. Please note in this respect that certain support services offered via the Lavasoft Sites are not provided by Lavasoft, but by Lavasoft recommended support service providers.
   * If You wish to take part of certain Lavasoft or third party offers for products and/or services at the Lavasoft Sites, You may be asked to provide certain Personal Information such as name and e-mail address. Please note that, for certain offers from Lavasoft partners, You will be redirected to the Lavasoft partners' sites to take part in the offer, in which case the Lavasoft partners' will own any Personal Information provided by You in relation to such offer and the Lavasoft partners' privacy policies will apply for any Personal Information that You may provide.
+  * If you decide to enroll into the Lavasoft referral program, You will be asked to provide information such as the first & the last name as well as your email address. This information will be used for tracking and comunicating back to You the completion status of your referrals.
 
 
 
@@ -31,6 +32,7 @@ Lavasoft will use and process Your Personal Information solely for the following
   * If You have purchased Lavasoft software products, Lavasoft will use Your Personal Information to provide You with important user information relating to the specific Lavasoft software products that You hold a license for as well as to provide You with license specific information, including but not limited to notices on when the license is about to expire etc.
   * If You have registered an account at the Lavasoft Support Forum, Lavasoft will use the Personal Information provided through the user account in order to e.g. provide the relevant support services; contact You relating to administrative tasks relating to Your user account and send password reminders upon Your request.
   * If You accept an offer for Lavasoft or third party products or services on the Lavasoft Sites, the Personal Information provided by You to Lavasoft in relation to such offer (if any) will be used for the provision to You of such products or services.
+  * If you have enrolled into Lavasoft Referral Program, the information you provided (first & last name as well as email) will be used for tracking the status of your referrals and communicating it back to You. Your information is secure and confidential. No information will be shared with third parties.
 
 
 
