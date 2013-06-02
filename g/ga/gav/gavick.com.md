@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gavick.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606140324id_/http%3A//www.gavick.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gavick.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602032031id_/http%3A//www.gavick.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Professional Joomla 2.5 Templates, Joomla Themes, Joomla Design Shop, Modules and Free Extensions
+# Privacy Policy
 
 ### GavickPro takes your privacy seriously.  
 Please read the following to learn more about our privacy policy.
@@ -53,9 +53,11 @@ Please note that there may be situations where it is necessary for your personal
 
 Please do not hesitate to contact us at:
     GavickPro
-    ul. Czarny Potok 11/56
+    ul. Kraszewskiego 1
     33-380 Krynica Zdroj
     Poland
     Phone: (0048) 535 79 19 04, (0048) 18 30 70 703
     Fax: (0048) 18 521 37 52
     E-mail: [info@gavick.com](mailto:info@gavick.com)
+
+GavickPro website uses cookies. By continuing to use this website, you are giving consent to cookies being used. For more information visit our [Cookie policy.](http://www.gavick.com/cookies.html) [×](http://www.gavick.com/privacy-policy.html#close)
