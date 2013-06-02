@@ -1,100 +1,73 @@
-> *The following text is extracted and transformed from the pinyourincome.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinyourincome.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602221216id_/http%3A//pinyourincome.com/admin/privacy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# 
 
-**Go Daddy Respects Your Privacy**
+Futuristic Innovations Inc. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Futuristic Innovations Inc. (hereinafter “Company”) has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit COMPANY Web pages without telling us who you are or revealing any Personal Information about yourself.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+COMPANY strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, COMPANY intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an “adequate” level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.
 
-**Information Collection and Use**
+Cookies and Other Tracking Technologies
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Some of our Web pages utilize “cookies” and other tracking technologies. A “cookie” is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site as well as break the tracking to affiliate commissions.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; click-stream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+To protect your privacy, we have adopted the following principles:
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+    * Notice
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+    * Choice
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+    * Securit
 
-**Security**
+    * Access/Accuracy
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+    * Third party vendors, including Google, show your ads on sites on the internet.
 
-**Updating Your Information**
+    * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+    * Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page at http://www.google.com/privacy_ads.html  (Alternatively you can point users to opt out of a third party vendor's use of cookies by visiting the Network Advertising Initiative opt out page. at http://www.networkadvertising.org/managing/opt_out.asp )
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Notice
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Where COMPANY collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of COMPANY or those working on COMPANY behalf. COMPANY reserves the right to transfer Personal Information to 3rd party enties for the purpose of bringing you relavent offers.   
 
-      iii.      You may call us at: (480) 505-8800
+Choice
 
-       iv.      You may fax us at: (480) 505-8844
+You may choose whether or not to provide Personal Information to COMPANY. The notice we intend to provide where COMPANY collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of COMPANY Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you.
 
-**Sending Emails**
+If you chose to have a relationship with COMPANY, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Security
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Wherever your Personal Information may be held within COMPANY or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure.
 
-**Compliance with Laws and Law Enforcement**
+Access/Accuracy
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+To the extent that you do provide us with Personal Information, COMPANY wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting COMPANY should you need to update or correct that Information. 
 
-**Third Party Service Providers**
+Third Party Services
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Third parties provide certain services available on pushbuttonmoney.com on COMPANY behalf. COMPANY may provide information, including Personal Information, which COMPANY collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which COMPANY maintains its Web site and mailing lists. COMPANY will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on behalf of COMPANY.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Children’s Privacy
 
-**Supplementation of Information**
+pushbuttonmoney.com is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 18 years of age although we currently do not take steps to verify the user to that extent.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Commitment
 
-**Contests/Surveys**
+We are committed to privacy are actively involved in and support current industry initiatives to preserve individual privacy rights on the Internet. Protecting your privacy online is an evolving area, and COMPANY Web sites are constantly evolving to meet these demands.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+If you have any comments or questions regarding our Online Privacy Policy, please contact us at support@pinyourincome.com.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
 
-**Tell-A-Friend**
+Your Consent
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+By using this Web site, you consent to the terms of our Online Privacy Policy, Terms and Conditions of Use, and to COMPANY processing of Personal Information for the purposes given above as well as those explained where COMPANY collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
