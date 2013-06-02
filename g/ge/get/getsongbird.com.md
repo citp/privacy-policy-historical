@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getsongbird.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604020116id_/http%3A//getsongbird.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsongbird.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602162421id_/http%3A//www.getsongbird.com/about/privacy.php) for the most accurate reproduction.*
 
-# Songbird - Privacy Policy
+# Songbird
 
 ## Pioneers of the Inevitable, Inc.
 
@@ -10,7 +10,7 @@ Privacy Policy
 
 1\. Introduction. 
 
-We are committed to handling information in a secure and responsible manner so that users may confidently enjoy a personalized experience through our websites and services. This privacy policy applies to all websites and services operated by Pioneers of the Inevitable, Inc. (“POTI”), including http://getsongbird.com/, and any applications made available by POTI. This policy describes information that POTI receives, gathers, manages, analyzes, and transfers and how POTI uses that information to bring you its websites and services. If you have questions or concerns about how POTI uses information, you may contact us by mail at Pioneers of the Inevitable, Inc., Privacy, 2 Shaw Alley, 2nd Floor, San Francisco, CA 94105 or by email at privacy@songbirdnest.com 
+We are committed to handling information in a secure and responsible manner so that users may confidently enjoy a personalized experience through our websites and services. This privacy policy applies to all websites and services operated by Pioneers of the Inevitable, Inc. (“POTI”), including http://getsongbird.com/, and any applications made available by POTI. This policy describes information that POTI receives, gathers, manages, analyzes, and transfers and how POTI uses that information to bring you its websites and services. If you have questions or concerns about how POTI uses information, you may contact us by mail at Pioneers of the Inevitable, Inc., Privacy, PO BOX 322, San Francisco, CA 94114 or by email at privacy@songbirdnest.com 
 
 2\. Use of Information. 
 
