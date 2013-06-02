@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slipperyonion.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222145158id_/http%3A//slipperyonion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slipperyonion.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602044132id_/http%3A//slipperyonion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Slippery Onion
+# Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
