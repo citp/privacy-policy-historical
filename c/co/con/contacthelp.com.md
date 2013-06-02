@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contacthelp.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223213001id_/http%3A//www.contacthelp.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contacthelp.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602121924id_/http%3A//contacthelp.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
