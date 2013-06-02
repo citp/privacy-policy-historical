@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricespy.co.nz privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427035830id_/http%3A//pricespy.co.nz/info.php%3Ft%3Dabout_cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricespy.co.nz privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602093851id_/https%3A//pricespy.co.nz/info.php%3Ft%3Dabout_cookies) for the most accurate reproduction.*
 
 # Privacy policy - PriceSpy - Shopping Intelligence
 
@@ -6,11 +6,11 @@ The internet offers the chance to collect information about site users. This inf
 
 This Privacy Policy tells you what information we collect, what we do with it and your rights to view, correct or change it.
 
-[The Office of the Privacy Commissioner](http://www.privacy.org.nz/) provides further details of the New Zealand Privacy Act and how it protects personal information in New Zealand.
+[The Office of the Privacy Commissioner](http://www.privacy.org.nz/) provides further details of the New Zealand Privacy Act and how it protects personal information in New Zealand.
 
 The information we collect
 
-Pricespy Media Ltd operates the website [www.pricespy.co.nz](http://www.pricespy.co.nz/). As part of our operations we may gather certain types of information about the users of our website:
+Pricespy Media Ltd operates the website [www.pricespy.co.nz](http://www.pricespy.co.nz/). As part of our operations we may gather certain types of information about the users of our website:
 
   1. Personally Identifiable Information.  
 This is provided by you when you register for services that we may offer. Examples of these services could include email newsletters or events. Providing this information will always be optional for you. However, some services may not be available to you if you choose not to provide it.  
@@ -53,11 +53,11 @@ A cookie is a small text file that websites you visit may request to save on you
 
 
 
-At PriceSpy we use two types of cookies, persistent cookies and session cookies. Persistent cookies stay on your computer until either you manually delete them or they are deleted by the website. Session cookies delete themselves when you close your web browser. 
+At PriceSpy we use two types of cookies, persistent cookies and session cookies. Persistent cookies stay on your computer until either you manually delete them or they are deleted by the website. Session cookies delete themselves when you close your web browser. 
 
 If you do not want to receive cookies, you can refuse them by turning them off in your browser and/or deleting them from your hard drive. You will still be able to visit our website.
 
-We also use cookies to build market segments and target audiences based on user behaviour. The information is anonymous and used for targeted advertising. If you do not want such information to be saved, you can use the NAI Opt-out Tool to identify and replace advertising cookies. Visit the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp), NAI, website for more information and instructions. Opting out of a network does not mean you will no longer receive online advertising, but it does mean that the network from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns.
+We also use cookies to build market segments and target audiences based on user behaviour. The information is anonymous and used for targeted advertising. If you do not want such information to be saved, you can use the NAI Opt-out Tool to identify and replace advertising cookies. Visit the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp), NAI, website for more information and instructions. Opting out of a network does not mean you will no longer receive online advertising, but it does mean that the network from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns.
 
 What about our advertisers and business partners?
 
@@ -73,4 +73,4 @@ In order to reflect the fact that our business is growing constantly, we reserve
 
 Your right to access our information
 
-[The Privacy Act of 1993](http://www.legislation.govt.nz/act/public/1993/0028/latest/whole.html) gives you the right to access and correct your personal information. To do so, please contact us at PriceSpy by [email](mailto:support@pricespy.co.nz).
+[The Privacy Act of 1993](http://www.legislation.govt.nz/act/public/1993/0028/latest/whole.html) gives you the right to access and correct your personal information. To do so, please contact us at PriceSpy by [email](mailto:support@pricespy.co.nz). 
