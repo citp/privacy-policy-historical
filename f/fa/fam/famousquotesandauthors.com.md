@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousquotesandauthors.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225124645id_/http%3A//famousquotesandauthors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousquotesandauthors.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602130216id_/http%3A//famousquotesandauthors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -33,11 +33,9 @@ If you have any comments or questions on the above privacy statement, please fee
 
 *This Privacy Statement was last updated on January 16, 2010.
 
-|  | Quote of the Day  
----  
-Success is never found. Failure is never fatal. Courage is the only thing.   
-  
-Top 10 Authors  
+| 
+
+| Top 10 Authors  
 ---  
 [](https://web.archive.org/authors/oscar_wilde_quotes.html)  
 [](https://web.archive.org/authors/john_f__kennedy_quotes.html)  
