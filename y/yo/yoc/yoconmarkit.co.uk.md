@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the yoconmarkit.co.uk privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226012121id_/http%3A//yoconmarkit.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoconmarkit.co.uk privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602202808id_/http%3A//yoconmarkit.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+advertisement
+
+[](http://www.awin1.com/cread.php?s=204150&v=2873&q=105667&r=134326)
 
 Thank you for visiting our website. This privacy policy tells you how we use personal information collected at this website. Please read this privacy policy before using the website or submitting any personal information. By using the website, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to keep track of the policy changes and make sure that you understand how any personal information you provide will be used. 
 
@@ -27,3 +31,7 @@ Your personally identifiable information is kept secure. Only authorized employe
 If you have any questions, concerns, or comments about our privacy policy you may contact us using means provided on this website. 
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
+
+advertisement
+
+[](http://www.awin1.com/cread.php?s=36282&v=978&q=25308&r=134326)
