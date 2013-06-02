@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridajobs.org privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017145559id_/http%3A//www.floridajobs.org/about-us/who-we-are-and-what-we-do/department-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridajobs.org privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602161715id_/http%3A//www.floridajobs.org/about-us/who-we-are-and-what-we-do/department-privacy-statement) for the most accurate reproduction.*
 
 # Department Privacy Statement - FloridaJobs.org
 
