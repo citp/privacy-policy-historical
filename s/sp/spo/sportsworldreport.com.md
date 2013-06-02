@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsworldreport.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014062218id_/http%3A//www.sportsworldreport.com/aboutus/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsworldreport.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602220757id_/http%3A//www.sportsworldreport.com/aboutus/privacy_policy.htm) for the most accurate reproduction.*
 
 # Sports World Report
 
