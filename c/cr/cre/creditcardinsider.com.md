@@ -1,52 +1,46 @@
-> *The following text is extracted and transformed from the creditcardinsider.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307090950id_/http%3A//www.mortgagewar.com/mortgageprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcardinsider.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602032814id_/http%3A//www.creditcardinsider.com/about/privacy) for the most accurate reproduction.*
 
-# Mortgage War Privacy Statement
+# Privacy Policy - Credit Card Insider
 
-|   
-**Privacy Statement** Our Commitment To Privacy
+Credit Card Insider takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+**Routine Information Collection**
 
-The Information We Collect:
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
-When you inquire online the information you submit is sent directly to the company of your choosing and kept for statistical purposes. We do not resell your information.
+**Cookies and Web Beacons**
 
-The Way We Use Information:
+Where necessary, Credit Card Insider ** ** uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
-You can register with our website if you would like to be on our mailing list so as to receive updates on our new products and services. Information you submit on our website will not be used for this purpose unless you complete the appropriate registration form.
+**Controlling Your Privacy**
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
 
-Our Commitment To Data Security
+**Special Note About Google Advertising**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-
-Our Commitment To Children's Privacy:
-
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
-
-How You Can Correct Your Information
-
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
-
-How To Contact Us
-
-Should you have other questions or concerns about these privacy policies, please call us at (800) 949-2919 or send us an email at [email@zipsearch.com](mailto:email@zipsearch.com)
-
-|  |   
-[ | **[Need a Credit Card!](http://click.linksynergy.com/fs-bin/click?id=iaSpN0CFJOM&offerid=29496.10000172&subid=0&type=4)**  
----  
-Get Instant approval for all types of credit. High credit balances with the lowest rates.  
-](http://click.linksynergy.com/fs-bin/click?id=iaSpN0CFJOM&offerid=29496.10000172&subid=0&type=4)
-
-[ **[Free Insurance Quotes](http://www.insurancefinder.com/)**  
----  
-Get free quotes for Term Life Insurance, Health Insurance, Auto Insurance and more...  
-](http://www.insurancefinder.com/)
-
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.  
   
-[](http://service.bfast.com/bfast/click?bfmid=33292112&siteid=38652836&bfpage=consumer-rebranded)
+**Contact Information**
+
+Concerns or questions can be directed through our [contact form](https://web.archive.org/contact/) for further clarification.
+
+#### The Insider Blog
+
+## [Can You Use a Credit Card to Help Fund Your Retirement? ›](http://www.creditcardinsider.com/insider/can-you-use-a-credit-card-to-help-fund-your-retirement/)
+
+These days, credit cards are used for more than just the convenience of making purchases with plastic. They’re also used to earn rewards on purchases –from airline miles to points to cash-back. Many rewards cards also offer additional convenience perks ranging from concierge and travel booking services to extended warranty coverage on purchases.  Believe it…   
+[Continue Reading ›](http://www.creditcardinsider.com/insider/can-you-use-a-credit-card-to-help-fund-your-retirement/)
+
+#### More From The Insider
+
+### [Financial Tool Review: Credit Sesame ›](http://www.creditcardinsider.com/insider/financial-tool-review-credit-sesame-2/)
+
+Established in 2010, Credit Sesame is an online financial management tool founded to help members gain wealth through better decisions about loans and credit. The service, which provides a credit and debt analysis, as well as personalized savings advice, is free. Credit Sesame makes its money from advertising and commissions on referrals to products. Getting…   
+[Continue Reading ›](http://www.creditcardinsider.com/insider/financial-tool-review-credit-sesame-2/)
+
+### [Can Employers Pull My Credit Scores…or My Credit Reports? ›](http://www.creditcardinsider.com/insider/can-employers-pull-my-credit-scores-or-my-credit-reports/)
+
+The mass confusion surrounding the question of whether or not employers use credit scores in employment screening begins and ends with the way the terms “credit report” and “credit score” are repeatedly used interchangeably in the media, online and even within the consumer credit industry. So, step one…clarify the difference between the two items. Credit…   
+[Continue Reading ›](http://www.creditcardinsider.com/insider/can-employers-pull-my-credit-scores-or-my-credit-reports/)
