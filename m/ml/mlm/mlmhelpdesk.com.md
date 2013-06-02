@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mlmhelpdesk.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128131301id_/http%3A//mlmhelpdesk.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmhelpdesk.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602091711id_/http%3A//mlmhelpdesk.com/privacy-statement) for the most accurate reproduction.*
 
-# Mlm Company Review | MLM Help Desk
+# Privacy Statement | MLM Help Desk
 
 Privacy Policy  
 MLMHelpDesk.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website. 
