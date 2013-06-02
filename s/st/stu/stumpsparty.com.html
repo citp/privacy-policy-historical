@@ -1,124 +1,148 @@
-<!--The following is the downloaded HTML source of the stumpsparty.com privacy policy that was archived on 2012-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121109034531id_/http%3A//www.stumpsparty.com/servicepage.cfm%3Fpgp%3DSPSECURE) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stumpsparty.com privacy policy that was archived on 2013-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602161931id_/http%3A//www.stumpsparty.com/servicepage.cfm%3Fpgp%3DSPSECURE) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<title>Stumps Site Security</title> 
-		<meta property="fb:page_id" content="98483298902">
-		<meta name="description" content="Stumps Site Security">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		
+		<meta name="description" content="At Stumps Party, your security is our number one concern. We are pleased to tell you about the measures we have taken to ensure your security.">
 		<meta name="keywords" content="Stumps Site Security">
 		<meta name="robots" content="all">
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery/jquery-1.7.1.min.js"></script>
-		<script type="text/javascript" src="/scripts/jquery/jquery-ui-1.8.2.min.js"></script>
-		<script type="text/javascript" src="/scripts/stumpsstandard.js"></script>
+		
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" src="/scripts/jquery/jquery-1.8.3.min.js"></script>
+		<script type="text/javascript" src="/scripts/jquery/jquery-ui-1.9.2.custom.min.js"></script>
 		<script type="text/javascript" src="/scripts/addressValidation.js"></script>
-		<script type="text/javascript" src="/scripts/buyValidator.js"></script>
-		<script type="text/javascript" src="/scripts/flash_script_DO_NOT_DELETE.js"></script>
-		<script type="text/javascript" src="/scripts/jquery/jquery.expose-1.0.0.js"></script>
-		<script type="text/javascript" src="/scripts/jquery/jquery.overlay-1.0.1.js"></script>
-		<script type="text/javascript" src="/scripts/jquery/jquery.buyform.js?version=2"></script>
-		<script type="text/javascript" src="/scripts/jquery/jquery.cartform.js"></script>
-		<script type="text/javascript" src="/scripts/wishlist.js?refresh=3"></script>
+		<script type="text/javascript" src="/scripts/jquery/jquery.buyform2.js?version=1"></script>
+		<script type="text/javascript" src="/scripts/jquery/jquery.cartform2.js?d=011613"></script>
+		<script type="text/javascript" src="/scripts/jquery/jquery.cycle.all.min.js"></script>
+		<script type="text/javascript" src="/scripts/wishlist.js?d=011913"></script>
 		<script type="text/javascript" src="/scripts/igdRta.js"></script>
 		<script type="text/javascript" src="/scripts/$$.js"></script>
-		<script src="/scripts/jquery/jquery.ui.autocomplete.html.js" type="text/javascript"></script> 
+		<script type="text/javascript" src="/scripts/$$myAccount.js"></script>
+		<script type="text/javascript" src="/scripts/jquery/jquery.ui.autocomplete.html.js"></script> 
 
 		<script type="text/javascript">
-			$(function(){				
-				$("form[name*='frmBuy_']").buyform({expose:{color:'#460000', opacity: 0.5}});
-				$("#cartslider").cartform({sliderstyle:{width:'230px',backgroundColor: '#9a81be',border:'1px solid #9a81be'}});
-				// set up rollover
-				$("img.rollover").hover(function(){this.src = this.src.replace("_up","_over");},function(){this.src = this.src.replace("_over","_up");});
-				// set up the wishlist
-				wishlist = new Wishlist();
-				
-				$.ajaxSetup({cache:false})
-			});
-			
+		
 			// establish the _gaq here and fire _trackPageview onRequestEnd
 			var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-513142-15']);
 			
-			
-		jQuery(function(){
-			jQuery("#frmsearch input[name='searchCriteria']").autocomplete({
-		            source: function(req, add){
-		                jQuery.getJSON("http://www.StumpsParty.com/ajax/searchsuggest.cfm",
-							{'search':req.term},
-							function(data){
-								if(data){
-									var arr2 = jQuery.map( data.PGS, function( item ) {
-										if(item.rating){
-											var ratingPos = -36 * parseFloat(item.rating);
-											var ratingDiv = '<div class="autocomplete-rating"><div class="igo-rec-balloons" style="background: url(/graphics/stars_small.jpg) no-repeat; height: 18px; width: 83px; margin-right: 15px; background-position: 0 '+ ratingPos +'px; float: left;"></div></div>';
-										}
-										else{
-											var ratingDiv = '';
-										}
-										return {
-											label: '<img src="/images/cat_img/' + item.uid + '.jpg" class="autocomplete-thumb"><div class="autocomplete-title">' + item.title + '</div><div class="autocomplete-priceline"><div class="autocomplete-price">$' + item.price + ' ' + item.uom + '</div>' + ratingDiv + '<div class="autocomplete-clear"></div></div><div class="autocomplete-clear"></div>',
-											value: item.uid
-										}
-									})
-									
-									var arr = jQuery.map( data.KEYWORDS, function( item ) {
-									if(item.keyword)
-										return {
-											label: '<div class="search-autocomplete-keyword">'+item.keyword+'</div>',
-											value: item.keyword
-										}
-									else
-										return {
-											label: item,
-											value: item
-										}
-									})
-									if(arr2.length > 0){
-										arr2.unshift({label:'<div class="divider">Top '+ arr2.length +' Suggestions of '+data.COUNT+' Results</div>',value:'',type:''});
-									}
-									
-									if(arr.length > 0)
-										arr.unshift({label:'<div class="divider">Search Suggestions</div>',value:'',type:''});
 		
-									add(arr.concat(arr2));
-								}
-								else{
-									add(new Array());
-								}
-		            		})
-					},
-					html: true,
-					minLength: 2,
-					select: function( event, ui ) {
-						if(jQuery(ui.item.label).is(".search-autocomplete-keyword")){
-							this.form.action = 'http://www.StumpsParty.com/search.cfm';
-							this.value = ui.item.value;
-							this.form.submit();
-						}
-						else if(ui.item.value == '')
+			jQuery(function(){	
+				jQuery.ajaxSetup({cache:false})	
+						
+				jQuery("form[name*='frmBuy_']").buyform();
+				// set up rollover
+				jQuery("img.rollover").hover(function(){this.src = this.src.replace("_up","_over");},function(){this.src = this.src.replace("_over","_up");});
+				
+				// set up the wishlist
+				wishlist = new Wishlist();
+			
+				// search autocomplete 11/07/12 LG		
+				jQuery("#frmsearch input").autocomplete({
+	        	 source: function(req, add)
+				 {
+	                jQuery.getJSON("http://www.stumpsparty.com/ajax/searchsuggest.cfm",{'search':req.term},function(data)
+					{
+						if(data)
 						{
+							var arr2 = jQuery.map( data.PGS, function( item ) 
+							{
+								if(item.rating)
+								{
+									var ratingPos = -36 * parseFloat(item.rating);
+									var ratingDiv = '<div class="autocomplete-rating"><div class="igo-rec-balloons" style="background: url(/graphics/global/shindigz-ratings-balloons-small.png) no-repeat; height: 18px; width: 83px; margin-right: 15px; background-position: 0 '+ ratingPos +'px; float: left;"></div></div>';
+								}
+								else
+								{
+									var ratingDiv = '';
+								}
+								// stay on the right box make it a root-relative link
+								var itmlink = item.url.replace(/^http:\/\/[^\/]*/,'');
+								
+								return {
+									 label: '<img src="/images/cat_img/' + item.uid + '.jpg" class="autocomplete-thumb"><div class="autocomplete-title">' + item.title + '</div><div class="autocomplete-priceline"><div class="autocomplete-price">$' + item.price.toFixed(2) + ' ' + item.uom + '</div>' + ratingDiv + '<div class="autocomplete-clear"></div></div><div class="autocomplete-clear"></div>'
+									,value: itmlink
+								}
+							})
 							
+							var arr = jQuery.map( data.KEYWORDS, function( item ) 
+							{
+								if(item.keyword)
+									return {
+										 label: '<div class="search-autocomplete-keyword">'+item.keyword+'</div>'
+										,value: item.keyword
+									}
+								else
+									return {
+										 label: item
+										,value: item
+									}
+							})
+						
+							if(arr2.length > 0)
+							{
+								arr2.unshift({label:'<div class="divider">Top '+ arr2.length +' Suggestions of '+data.COUNT+' Results</div>',value:'',type:''});
+							}
+						
+							if(arr.length > 0)
+							{
+								arr.unshift({label:'<div class="divider">Search Suggestions</div>',value:'',type:''});
+							}
+							
+							add(arr.concat(arr2));
 						}
-						else{
-							this.form.action = 'http://www.StumpsParty.com/catalog.cfm?pgp='+ui.item.value;
-							this.form.method = 'post';
-							this.form.submit();
+						else
+						{
+							add(new Array());
 						}
-					},
-					open: function(){
-				        var widget = jQuery(this).autocomplete('widget');
-						jQuery(widget).css('z-index', 500);
-						jQuery(widget).find(".divider").each(function(){
-							var parent = jQuery(this).parent();
-							jQuery(parent).unbind();
-							jQuery(parent).addClass("divider");
-						});
-				        return false;
-				    }
+	            	})
+				 }
+				,html: true
+				,minLength: 2
+				,select: function( event, ui ) 
+				 {
+					if(jQuery(ui.item.label).is(".search-autocomplete-keyword"))
+					{					
+						this.form.action = 'http://www.stumpsparty.com/search.cfm';
+						this.value = ui.item.value;
+						this.form.submit();
+					}
+					
+					else if(ui.item.value == '')
+					{
+						
+					}
+					
+					else
+					{
+						window.location = ui.item.value;
+						return false;
+					}
+				 }
+				,open: function()
+				 {
+			        var widget = jQuery(this).autocomplete('widget');
+					jQuery(widget).css('z-index', 500);
+					
+					jQuery(widget).find(".divider").each(function()
+					{
+						var parent = jQuery(this).parent();
+						jQuery(parent).unbind();
+						jQuery(parent).addClass("divider");
+					});
+					
+			        return false;
+			     }
 		
 			}).focus(function(e){
 				jQuery(this).select();
 			});
-		});
+
+				
+				/////////////////////////////////////end of autocomplete
+			});
+		
 		</script>
 
 		
@@ -132,1038 +156,566 @@
 		<!-- Begin LP Custom Variables-->
 		<script type="text/javascript">
 		// Variables submission using lpAddVars
-			lpAddVars('page','CartTotal','0.00');
+			lpAddVars('page','CartTotal','0');
 		</script>
 		
+		<!--[if lt IE 9]>
+
+        <script src="/scripts/html5shiv/html5shiv.js"></script>
+
+        <![endif]-->
+
 		<link rel="stylesheet" type="text/css" href="//stumps.recs.igodigital.com/a/stylesheets/stumps.css">
-		<link rel="STYLESHEET" type="text/css" href="/graphics/site/overlay/overlay.css">
-		<link rel="STYLESHEET" type="text/css" href="/css/CSS.css?d=110812" media="all">
-		<link rel="stylesheet" type="text/css" href="/css/catalog.css?d=110812" media="all">
+		<link rel="stylesheet" type="text/css" href="/graphics/site/overlay/overlay.css">
 		
-		<link rel="stylesheet" type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1/themes/redmond/jquery-ui.css">
-		<link rel="STYLESHEET" type="text/css" href="/styles/jqui/stumpspartysns/jquery-ui-1.7.3.custom.css?version=1">	
+		
+		
+		<link rel="stylesheet" type="text/css" href="/css/jquery-ui/jquery-ui.css">
+		<link href="//fonts.googleapis.com/css?family=Oswald:400,700|Open+Sans:400,700,400italic" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" type="text/css" href="/css/stumpsparty/stumpsparty.css?d=021213" media="all">
+		<meta http-equiv="Content-Language" content="en">
+		
+		<!-- BEGIN: Google Trusted Stores -->
+		<script type="text/javascript">
+		  var gts = gts || [];
+		
+		  gts.push(["id", "212904"]); 
+		 
+		  (function() {
+			var scheme = (("https:" == document.location.protocol) ? "https://" : "http://");
+			var gts = document.createElement("script");
+			gts.type = "text/javascript";
+			gts.async = true;
+			gts.src = scheme + "www.googlecommerce.com/trustedstores/gtmp_compiled.js";
+			var s = document.getElementsByTagName("script")[0];
+			s.parentNode.insertBefore(gts, s);
+		  })();
+		</script>
+		<!-- END: Google Trusted Stores -->
 	<script type="text/javascript" charset="iso-8859-1" src="https://sales.liveperson.net/hcp/html/mTag.js?site=1613792"></script></head>
 	<!-- heartbeat 10.7.7.36 -->
 	<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0;">
 	
-	<div align="center">
-	
-<table cellpadding="0" cellspacing="0" border="0" align="center" width="1000">
-<tbody><tr><td colspan="2">
-	<!--header.cfm--><table border="0" cellpadding="0" cellspacing="0" height="0" align="center"><tbody><tr><td width="1000" height="130" colspan="1" rowspan="1" valign="top">
-<!--all--><div align="center"><table border="0" cellpadding="0" cellspacing="0" width="1000" height="130" align="center">
-<tbody><tr>
-<td width="1000" height="130" colspan="1" rowspan="1" valign="top">
-<div align="center">
-  <table width="1000" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-  <td width="320" height="90" rowspan="2"><a href="/index.cfm" title="StumpsParty.com - America's Homecoming Headquarters Since 1926!"><img src="/prom2011/header/Stumps-Logo1.jpg" width="320" height="85" alt="StumpsParty.com - America's Prom and Party Homecoming Headquarters Since 1926" title="StumpsParty.com - America's Prom and Party Homecoming Headquarters Since 1926" border="0"></a></td>
-  <td width="440" align="center" class="headerlinks"><a href="/index.cfm" rel="nofollow">Home</a> | <a href="/catalogs/2012-B/index.html" rel="nofollow" target="_blank">Online Catalog</a> | <a href="/quote.cfm" rel="nofollow">Get-a-Quote</a> | <a href="/servicepage.cfm?pgp=spindex" rel="nofollow">Customer Service</a></td>
-  <td width="240" rowspan="2" align="right" valign="top">
-  <table width="240" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-  <td width="1" bgcolor="#c2a9e6"></td>
-  <td width="238">
-  <table width="238" border="0" align="center" cellpadding="0" cellspacing="4">
-  <tbody><tr>
-  <td align="left" valign="middle" class="headerLinks"><a href="http://www.stumpsparty.com/servicepage.cfm?pgp=SPSHIP">Shipping Info</a><br>
-    <a href="https://secure.stumpsparty.com/order_status.cfm">Order Status</a><br>
-    <a href="http://www.stumpsparty.com/service.cfm?page=contact_return_exchange"> Returns &amp; Exchanges</a></td>
   
-  
-    </tr>
-    </tbody></table>
-    </td>
-    <td width="1" bgcolor="#c2a9e6"></td>
-    </tr>
-    <tr>
-      <td width="1" bgcolor="#c2a9e6"></td>
-      <td bgcolor="#c2a9e6"><table width="100%" border="0" cellspacing="4" cellpadding="0">
-          <tbody><tr>
-            <td align="left" class="cartslider"><img src="/prom2010/header/cart.png"> 0 items in your cart</td>
-          </tr>
-        </tbody></table></td>
-      <td width="1" bgcolor="#c2a9e6"></td>
-    </tr>
-    
-    
-    </tbody></table>
-    </td>
-    </tr>
-  
-  
-  <tr>
-    <td width="440"><table width="440" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="5"></td>
-          <td width="220" align="center" valign="middle"><table width="210" border="0" align="center" cellpadding="0" cellspacing="0" id="Table_01">
-              <tbody><tr height="10">
-                <td width="10" height="10" background="/prom2010/header/grey_box_01.jpg"></td>
-                <td height="10" background="/prom2010/header/grey_box_02.jpg"></td>
-                <td width="10" height="10" background="/prom2010/header/grey_box_03.jpg"></td>
-              </tr>
-              <tr>
-                <td width="10" background="/prom2010/header/grey_box_04.jpg"></td>
-                <td valign="middle" bgcolor="#ffffff" align="center"><table width="100%" cellspacing="1" cellpadding="1" border="0">
-                    <tbody><tr>
-                      <td align="center" class="text_box"><span class="FormHeadline">Get email savings &amp; news</span></td>
-                    </tr>
-                    <tr>
-                      <td align="center"><form style="margin-bottom:0px;" name="email" method="post" action="http://www.stumpsparty.com/service.cfm?page=newsletter">
-                          <input type="text" onfocus="if(this.value=='name@email.com')this.value=' ';" value="name@email.com" name="email" maxlength="50" size="16" class="FormText">
-                          <input type="submit" value="Sign Up" name="Submit" class="FormText">
-                        </form></td>
-                    </tr>
-                  </tbody></table></td>
-                <td width="10" background="/prom2010/header/grey_box_06.jpg"></td>
-              </tr>
-              <tr height="10">
-                <td width="10" height="10" background="/prom2010/header/grey_box_07.jpg"></td>
-                <td height="10" background="/prom2010/header/grey_box_08.jpg"></td>
-                <td width="10" height="10" background="/prom2010/header/grey_box_09.jpg"></td>
-              </tr>
-            </tbody></table></td>
-          <td width="5" align="center" valign="middle"></td>
-          <td align="center" valign="middle"><a rel="nofollow" title="Stumps Party Shop N' Share Wishlist" onclick="wishlist.list();"><img src="/prom2011/header/Wish-List-logo.png" alt="Stumps Party Shop N' Share Wishlist" title="Stumps Party Shop N' Share Wishlist" width="180" height="70" border="0" class="rollover"></a></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr align="center" valign="middle">
-    <td colspan="3"><table width="1000" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr height="2">
-          <td height="2" colspan="13" bgcolor="#9a3f94"></td>
-        </tr>
-        <tr height="2">
-          <td colspan="13" height="2"></td>
-        </tr>
-        <tr> 
-    <td width="100" height="20"><a href="/catalog.cfm?cat=47337" title="Prom Decorations" alt="Prom Decorations"><img src="/prom2011/header/prom-w_over.png" alt="Prom Decorations" title="Prom Decorations" width="100" height="20" border="0" class="rollover"></a></td>
+  <div id="mainbody">
+    <div id="header">
+      
 
-    <td width="227" height="20"><a href="/catalog.cfm?cat=47339" title="School Spirit Supplies" alt="School Spirit Supplies"><img src="/prom2011/header/school-spirit-w_over.png" alt="School Spirit Supplies" title="School Spirit Supplies" width="227" height="20" border="0" class="rollover"></a></td>
+  <div class="logo"><!--
+     Logo --><div class="logo-row1"><a href="http://www.stumpsparty.com"><img src="/css/stumpsparty/images/stumps-event-supplies.jpg" width="224" height="81" alt="StumpsParty.com - America's Prom and Party Favorite Since 1926!"></a></div><!--
+     --><div class="logo-row2-1"></div><div class="logo-row2"></div></div><!--
+     Header Buttons--><div class="header-buttons"><div class="header-buttons-row1"><!--
+  Get a Quote--><a href="http://www.stumpsparty.com/quote.cfm" title="Get a Quote"><img src="/css/stumpsparty/images/buttons/get-a-quote.gif" width="149" height="43" alt="Get a Quote"></a><!--
+     Customer Service --><a href="http://www.stumpsparty.com/faq" title="Customer Service"><img src="/css/stumpsparty/images/buttons/customer-service.gif" width="152" height="43" alt="Customer Service"></a><!--
+     Track My Order--><a href="https://secure.stumpsparty.com/order_status.cfm"><img src="/css/stumpsparty/images/buttons/track-my-order.gif" width="209" height="43" alt="Track My Order"></a><!--
+     Facebook--><a href="http://www.facebook.com/StumpsParty" title="Like Stumps on Facebook"><img src="/css/stumpsparty/images/buttons/header-facebook.gif" width="38" height="43" alt="Like Stumps on Facebook"></a><!--
+     Twitter--><a href="http://twitter.com/Stumpsparty" title="Follow Stumps on Twitter"><img src="/css/stumpsparty/images/buttons/header-twitter.gif" width="38" height="43" alt="Follow Stumps on Twitter"></a><!--
+     Pinterest--><a href="http://pinterest.com/stumpsparty/" title="Pin Stumps on Pinterest"><img src="/css/stumpsparty/images/buttons/header-pinterest.gif" width="38" height="43" alt="Pin Stumps on Pinterest"></a><!--
+     YouTube--><a href="http://www.youtube.com/user/StumpsProducts" title="Watch Stumps on YouTube"><img src="/css/stumpsparty/images/buttons/header-youtube.gif" width="38" height="43" alt="Watch Stumps on YouTube"></a><!--
+     RSS--><a href="http://stumpsprom.wordpress.com/feed" title="Subscribe to Stumps"><img src="/css/stumpsparty/images/buttons/header-rss.gif" width="31" height="43" alt="Subscribe to Stumps"></a><!--
+     End of Header Buttons--></div><div class="header-buttons-row2"><!--
+     --><div class="dynamic-promo"><!--
+         --><div id="SignInHeader">
+			  <ul>
+			  
+			    <li>Sign in
+			      <div class="sign-in-box">
+			        <fieldset id="fsMyAccount">
+			          <legend>Sign in to Stumps Party</legend>
+			          <span id="frmMyAccount"> 
+					  	<span>Email Address: <input tabindex="1" name="email" width="25" type="text"> </span> 
+						<span>Password: <input tabindex="2" name="password" width="25" type="password" onkeypress="$$.util.submitOnEnter(this,event,$$.myAccount.login)"> </span><br>
+						<span><a href="#" tabindex="3" onclick="$$.myAccount.login()"><img border="0" src="/css/stumpsparty/images/buttons/sign-in-small.gif" width="68" height="16"></a><br>
+					  		  <a title="Forget your password?" href="#" onclick="$$.myAccount.forgotPw()">Forget your password?</a>
+						</span> 
+					  </span>
+			        </fieldset>
+			      </div>
+			    </li>
+				
+			  
+			  </ul>
+			</div><!--
+         --><div><div id="lpchatbuttondiv"></div></div><!--
+         --><div><table><tbody><tr><td> <!--SPHPPROMO1(cached)--><!-- SAVE 50% on Custom Gold and Silver Glitter Frames PPCFEY - TESTED ON SITE 5/16/13 -->
+<div id="header-promo"><span class="content-header-dynamic-content-title-red">SAVE 50% Select Frames*</span>
+<span class="content-header-dynamic-content-description">Today, use <strong>PPCFEY</strong> at checkout</span>
+Save more! <a class="tooltip" href="/coupon.cfm#PPCFEY">Scan Our Coupon Page<span class="classic" style="z-index: 150;">*SAVE 50% on Custom Gold and Silver Glitter Frames (Items FRMGGOL and FRMGSIL only). Purchase 36 or more. Use promotion code PPCFEY during checkout. Discount does not apply to shipping charges, duty charges, or delivery surcharges and cannot be combined with any other offer or used on previous orders. Valid for select merchandise only. Offer expires on 6/3/13 at 11:59 PM ET.</span></a></div><!--/SPHPPROMO1--> </td></tr></tbody></table></div><!--
+       --></div></div><div class="header-buttons-row2-1"></div><!--
+     --></div>
+	  	 <!--SPHDRLINKS(cached)--><div class="header-nav-bar"><div class="header-nav-bar-left"></div><div id="header-top-nav"><!--
+ --><ul><li><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/47431" class="header-nav-bar-cat-link" title="School Dances &amp; Events">SCHOOL DANCES &amp; EVENTS</a><!--
+     --><ul>
+       <li><!--Popular Events Nav
+   --><div class="top-nav-menu-item-container"><!--
+   --><div class="top-nav-menu-item-container-columns"><!--
+   --><div class="top-nav-menu-item-container-column-left"><!--
+   	--><span class="top-nav-menu-item-title">Popular Events</span><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/prom-supplies/47337" class="top-nav-menu-item-link" title="Prom Supplies">Prom</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/homecoming-week-supplies/47338" class="top-nav-menu-item-link" title="Homecoming Supplies">Homecoming</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/2013-prom/70968" class="top-nav-menu-item-link" title="2013 Prom">2013 Prom</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/holiday-event-supplies/christmas-event-supplies/47648" class="top-nav-menu-item-link" title="Christmas Dance Supplies">Christmas Dance</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/holiday-event-supplies/valentines-day-event-supplies/48592" class="top-nav-menu-item-link" title="Valentine's Dance Supplies">Valentine's Dance</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/grand-march-theme/48120" class="top-nav-menu-item-link" title="Grand March Supplies">Grand March</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/graduation-supplies/47891" class="top-nav-menu-item-link" title="Graduation Supplies">Graduation</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/prom-supplies/after-prom-supplies/47890" class="top-nav-menu-item-link" title="After Prom Supplies">After Prom</a><!--
+   	--><a href="http://www.stumpsparty.com/productnotfound" class="top-nav-menu-item-link" title="Parade and Float Supplies">Parades</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/show-choir-supplies/47675" class="top-nav-menu-item-link" title="Show Choir Supplies">Show Choir</a><!--
+   --></div>
+   <div class="top-nav-menu-item-container-column-right"><!--
+   	--><span class="top-nav-menu-item-title">Popular Prom</span><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/prom-supplies/prom-theme-decorations/47717" class="top-nav-menu-item-link" title="Prom Themes">Prom Themes</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/prom-supplies/prom-decorations/49178" class="top-nav-menu-item-link" title="Prom Themes">Prom Decorations</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/prom-supplies/prom-tableware/47723" class="top-nav-menu-item-link" title="Prom Tableware">Prom Tableware</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/prom-supplies/prom-favors/47718" class="top-nav-menu-item-link" title="Prom Favors">Prom Favors</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/prom-supplies/prom-royalty/47716" class="top-nav-menu-item-link" title="Prom Royalty">Prom Royalty</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/prom-supplies/prom-invitations/47722" class="top-nav-menu-item-link" title="Prom Invitations">Prom Invitations</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/background-materials/47428" class="top-nav-menu-item-link" title="Prom Background Materials">Prom Background Materials</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/prom-supplies/prom-fabrics/47720" class="top-nav-menu-item-link" title="Prom Fabrics">Prom Fabrics</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/prom-supplies/prom-banners/47721" class="top-nav-menu-item-link" title="Prom Banners">Prom Banners</a><!--
+   	--><a href="http://www.stumpsparty.com/productnotfound" class="top-nav-menu-item-link" title="Parade and Float Supplies">Parade &amp; Float</a><!--
+   --></div><div class="clear"></div><!--
+   --></div><div class="clear"></div><!--
+   --><div class="top-nav-menu-item-container-banner"></div><!--
+   --><div class="top-nav-menu-item-container-shop-all"><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/47431" title="Shop all Popular Events">shop all popular events »</a></div><!--
+   --></div><!--End Popular Events Nav
+   --></li></ul></li><!--
+    --><li><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/47431" class="header-nav-bar-cat-link" title="Event Themes">EVENT THEMES</a><!--
+     --><ul>
+       <li><!--Event Themes Nav
+   --><div class="top-nav-menu-item-container"><!--
+   --><div class="top-nav-menu-item-container-columns"><!--
+   --><div class="top-nav-menu-item-container-column-left"><!--
+   	--><span class="top-nav-menu-item-title">Themes A-Z</span><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/80s-event-theme/54018" class="top-nav-menu-item-link" title="80's Event Theme">80's Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/asian-event-theme/47575" class="top-nav-menu-item-link" title="Asian Event Theme">Asian Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/black-tie-theme/49173" class="top-nav-menu-item-link" title="Black Tie Theme">Black Tie Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/breast-cancer-awareness-event-theme/54492" class="top-nav-menu-item-link" title="Breast Cancer Awareness">Breast Cancer Awareness Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/castle-event-theme/47578" class="top-nav-menu-item-link" title="Castle Event Theme">Castle Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/candy-event-theme/49659" class="top-nav-menu-item-link" title="Candy Event Theme">Candy Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/carnival-event-theme/52647" class="top-nav-menu-item-link" title="Carnival Event Theme">Carnival Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/casino-event-theme/47577" class="top-nav-menu-item-link" title="Casino Event Theme">Casino Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/hollywood-event-theme/47584" class="top-nav-menu-item-link" title="Hollywood Event Theme">Hollywood Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/paris-event-theme/47589" class="top-nav-menu-item-link" title="Paris Event Theme">Paris Event Theme</a><!--
+   --></div>
+   <div class="top-nav-menu-item-container-column-right"><!--
+   	--><span class="top-nav-menu-item-title">Most Popular</span><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/paris-event-theme/47589" class="top-nav-menu-item-link" title="Paris Event Theme">Paris Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/wizard-of-oz-event-theme/54479" class="top-nav-menu-item-link" title="Wizard of Oz Event Theme">Wizard of Oz Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/vampire-theme/49177" class="top-nav-menu-item-link" title="Vampire Event Theme">Vampire Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/hollywood-event-theme/47584" class="top-nav-menu-item-link" title="Hollywood Event Theme">Hollywood Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/mardi-gras-event-theme/47588" class="top-nav-menu-item-link" title="Mardi Gras Event Theme">Mardi Gras Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/india-event-theme/52650" class="top-nav-menu-item-link" title="India Event Theme">India Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/stars-event-theme/47592" class="top-nav-menu-item-link" title="Stars Event Theme">Stars Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/city-event-theme/47579" class="top-nav-menu-item-link" title="City Event Theme">City Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/80s-event-theme/54018" class="top-nav-menu-item-link" title="80's Event Theme">80's Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/underwater-event-theme/47594" class="top-nav-menu-item-link" title="Underwater Event Theme">Underwater Event Theme</a><!--
+   --></div><div class="clear"></div><!--
+   --></div><div class="clear"></div><!--
+   --><div class="top-nav-menu-item-container-banner"></div><!--
+   --><div class="top-nav-menu-item-container-shop-all"><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/47431" title="Shop All Themes">shop all themes »</a></div><!--
+   --></div><!--End Event Themes Nav
+   --></li>
+     </ul>
+   </li>
+    <li><a href="http://www.stumpsparty.com/" class="header-nav-bar-cat-link" title="Special Events">SPECIAL EVENTS</a><!--
+     --><ul>
+       <li><!--Event Nav
+   --><div class="top-nav-menu-item-container"><!--
+   --><div class="top-nav-menu-item-container-columns"><!--
+   --><div class="top-nav-menu-item-container-column-left"><!--
+   	--><span class="top-nav-menu-item-title">Popular Event</span><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/47431" class="top-nav-menu-item-link" title="Event Theme">Event Themes</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/banners/47421" class="top-nav-menu-item-link" title="Personalized Banners">Personalized Banners</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-fabrics/47451" class="top-nav-menu-item-link" title="Event Fabrics">Event Fabrics</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-tableware/47422" class="top-nav-menu-item-link" title="Event Tableware">Event Tableware</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-favors/47419" class="top-nav-menu-item-link" title="Favors">Favors</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-candy/52090" class="top-nav-menu-item-link" title="Event Candy">Event Candy</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-invitations/theme-invitations/47503" class="top-nav-menu-item-link" title="Invitations">Invitations</a><!--
+    --><a href="http://www.stumpsparty.com/event-supplies/charity-fundraising/47340" class="top-nav-menu-item-link" title="Charity Fundraising">Charity Fundraising</a><!--
+    --><a href="http://www.stumpsparty.com/event-supplies/graduation-supplies/47891" class="top-nav-menu-item-link" title="Graduation">Graduation</a><!--
+    --><a href="http://www.stumpsparty.com/event-supplies/wedding-and-bridal-shower/47344" class="top-nav-menu-item-link" title="Wedding">Wedding</a><!--
+   --></div>
+   <div class="top-nav-menu-item-container-column-right"><!--
+   	--><span class="top-nav-menu-item-title">Popular Decorations</span><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-decorations/reusable-decorations/47468" class="top-nav-menu-item-link" title="Reusable Decorations">Reusable Decorations</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-decorations/decorations-by-color/52617" class="top-nav-menu-item-link" title="Decorations by Color">Decorations by Color</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-decorations/decorative-arches/47520" class="top-nav-menu-item-link" title="Decorative Arches">Decorative Arches</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-decorations/decorative-columns/47511" class="top-nav-menu-item-link" title="Decorative Columns">Decorative Columns</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/balloons/47426" class="top-nav-menu-item-link" title="Balloons">Balloons</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-decorations/inflatable-decorations/52612" class="top-nav-menu-item-link" title="Inflatable Decorations">Inflatable Decorations</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-decorations/chandeliers/47509" class="top-nav-menu-item-link" title="Chandeliers">Chandeliers</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-fabrics/gossamer/47452" class="top-nav-menu-item-link" title="Gossamer">Gossamer</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/background-materials/47428" class="top-nav-menu-item-link" title="Background Material">Background Material</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-decorations/cardboard-standees/48685" class="top-nav-menu-item-link" title="Cardboard Standees">Cardboard Standees</a><!--
+   --></div><div class="clear"></div><!--
+   --></div><div class="clear"></div><!--
+   --><div class="top-nav-menu-item-container-banner"></div><!--
+   --><div class="top-nav-menu-item-container-shop-all"><a href="http://www.stumpsparty.com/" class="header-nav-bar-cat-link" title="Special Events">shop all event »</a></div><!--
+   --></div><!--End Event Nav
+   --></li>
+     </ul>
+   </li>
+   <li><a href="http://www.stumpsparty.com/event-supplies/holiday-event-supplies/47343" class="header-nav-bar-cat-link" title="Holidays">HOLIDAYS</a><!--
+     --><ul>
+       <li><!--Holidays Nav
+   --><div class="top-nav-menu-item-container"><!--
+   --><div class="top-nav-menu-item-container-columns"><!--
+   --><div class="top-nav-menu-item-container-column-left"><!--
+   	--><span class="top-nav-menu-item-title">Upcoming Holidays</span><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/fiesta-event-theme/47602" class="top-nav-menu-item-link" title="Fiesta Decorations">Fiesta Decorations</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/patriotic-event-theme/47603" class="top-nav-menu-item-link" title="4th of July / Patriotic Decorations">4th of July &amp; Patriotic</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/halloween-event-supplies/47836" class="top-nav-menu-item-link" title="Halloween Decorations">Halloween</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/holiday-event-supplies/christmas-event-supplies/47648" class="top-nav-menu-item-link" title="Christmas Decorations">Christmas</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/holiday-event-supplies/new-years-event-supplies/48590" class="top-nav-menu-item-link" title="New Year's Decorations">New Year's</a><!--
+    --><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/mardi-gras-event-theme/47588" class="top-nav-menu-item-link" title="Mardi Gras Decorations">Mardi Gras</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/holiday-event-supplies/valentines-day-event-supplies/48592" class="top-nav-menu-item-link" title="Valentine's Day Decorations">Valentine's Day</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/holiday-event-supplies/st-patricks-day-event-supplies/48591" class="top-nav-menu-item-link" title="St. Patrick's Day Decorations">St. Patrick's Day</a><!--
+   --></div>
+   <div class="top-nav-menu-item-container-column-right"><!--
+   	--><span class="top-nav-menu-item-title">Popular Mardi Gras</span><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/banners/mardi-gras-banners/50306" class="top-nav-menu-item-link" title="Mardi Gras Banners">Mardi Gras Banners</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/mardi-gras-event-theme/mardi-gras-favors/mardi-gras-beads/52874" class="top-nav-menu-item-link" title="Mardi Gras Beads">Mardi Gras Beads</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/mardi-gras-event-theme/mardi-gras-decorations/52831" class="top-nav-menu-item-link" title="Mardi Gras Decorations">Mardi Gras Decorations</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/mardi-gras-event-theme/mardi-gras-favors/52832" class="top-nav-menu-item-link" title="Mardi Gras Favors">Mardi Gras Favors</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/mardi-gras-event-theme/mardi-gras-favors/mardi-gras-masks/52873" class="top-nav-menu-item-link" title="Mardi Gras Masks">Mardi Gras Masks</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-decorations/decorative-props/mardi-gras-props/52589" class="top-nav-menu-item-link" title="Mardi Gras Props">Mardi Gras Props</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/mardi-gras-event-theme/mardi-gras-tableware/52835" class="top-nav-menu-item-link" title="Mardi Gras Tableware">Mardi Gras Tableware</a><!--
+   	--><a href="http://www.stumpsparty.com/productnotfound" class="top-nav-menu-item-link" title="Mardi Gras Booklets">Mardi Gras Booklets</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-invitations/theme-invitations/mardi-gras-event-invitations/51259" class="top-nav-menu-item-link" title="Mardi Gras Invitations">Mardi Gras Invitations</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-tableware/bottle-labels/mardi-gras-bottle-labels/51480" class="top-nav-menu-item-link" title="Mardi Gras Bottle Labels">Mardi Gras Bottle Labels</a><!--
+   --></div><div class="clear"></div><!--
+   --></div><div class="clear"></div><!--
+   --><div class="top-nav-menu-item-container-banner"></div><!--
+   --><div class="top-nav-menu-item-container-shop-all"><a href="http://www.stumpsparty.com/event-supplies/holiday-event-supplies/47343" class="header-nav-bar-cat-link" title="Holidays">shop all holidays »</a></div><!--
+   --></div><!--End Holidays Nav
+   --></li>
+     </ul>
+   </li>
+   <li><a href="http://www.stumpsparty.com/event-supplies/wedding-and-bridal-shower/47344" class="header-nav-bar-cat-link" title="Weddings">WEDDINGS</a><!--
+     --><ul>
+       <li><!--Weddings Nav
+   --><div class="top-nav-menu-item-container"><!--
+   --><div class="top-nav-menu-item-container-columns"><!--
+   --><div class="top-nav-menu-item-container-column-left"><!--
+   	--><span class="top-nav-menu-item-title">Popular Wedding</span><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/wedding-and-bridal-shower/bridal-shower/49029" class="top-nav-menu-item-link" title="Bridal Shower">Bridal Shower</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/47431" class="top-nav-menu-item-link" title="Themed Weddings">Themed Weddings</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/background-materials/47428" class="top-nav-menu-item-link" title="Wedding Background Materials">Wedding Background Materials</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/wedding-and-bridal-shower/wedding-banners/47657" class="top-nav-menu-item-link" title="Wedding Banners">Wedding Banners</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/wedding-and-bridal-shower/wedding-ceremony-items/47660" class="top-nav-menu-item-link" title="Wedding Ceremony Items">Wedding Ceremony Items</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-decorations/47418" class="top-nav-menu-item-link" title="Wedding Decorations">Wedding Decorations</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-fabrics/47451" class="top-nav-menu-item-link" title="Wedding Fabrics">Wedding Fabrics</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-favors/47419" class="top-nav-menu-item-link" title="Wedding Favors">Wedding Favors</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/wedding-and-bridal-shower/wedding-invitations/47673" class="top-nav-menu-item-link" title="Wedding Invitations">Wedding Invitations</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-royalty-items/tiaras/47433" class="top-nav-menu-item-link" title="Wedding Tiaras">Wedding Tiaras</a><!--
+   --></div>
+   <div class="top-nav-menu-item-container-column-right"><!--
+   	--><span class="top-nav-menu-item-title">Popular Wedding Themes</span><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/white-party-theme/50155" class="top-nav-menu-item-link" title="White Party Theme">White Party Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/enchanted-forest-event-theme/52649" class="top-nav-menu-item-link" title="Enchanted Forest Event Theme">Enchanted Forest Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/italian-event-theme/47595" class="top-nav-menu-item-link" title="Venice Event Theme">Venice Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/holiday-event-supplies/valentines-day-event-supplies/48592" class="top-nav-menu-item-link" title="Valentine's Day Theme">Valentine's Day Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/vampire-theme/49177" class="top-nav-menu-item-link" title="Vampire Theme">Vampire Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/starry-night-event-theme/54478" class="top-nav-menu-item-link" title="Starry Night Event Theme">Starry Night Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/luau-event-theme/47586" class="top-nav-menu-item-link" title="Luau Event Theme">Luau Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/city-event-theme/47579" class="top-nav-menu-item-link" title="City Event Theme">City Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/western-event-theme/47596" class="top-nav-menu-item-link" title="Western Event Theme">Western Event Theme</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-party-themes/castle-event-theme/47578" class="top-nav-menu-item-link" title="Castle Event Theme">Castle Event Theme</a><!--
+   --></div><div class="clear"></div><!--
+   --></div><div class="clear"></div><!--
+   --><div class="top-nav-menu-item-container-banner"></div><!--
+   --><div class="top-nav-menu-item-container-shop-all"><a href="http://www.stumpsparty.com/event-supplies/wedding-and-bridal-shower/47344" class="header-nav-bar-cat-link" title="Weddings">shop all wedding »</a></div><!--
+   --></div><!--End Weddings Nav
+   --></li>
+     </ul>
+   </li>
+   <li><a href="http://www.stumpsparty.com/event-supplies/school-spirit-supplies/47339" class="header-nav-bar-cat-link" title="Spirit">SPIRIT</a><!--
+     --><ul>
+       <li><!--Spirit Nav
+   --><div class="top-nav-menu-item-container"><!--
+   --><div class="top-nav-menu-item-container-columns"><!--
+   --><div class="top-nav-menu-item-container-column-left"><!--
+   	--><span class="top-nav-menu-item-title">Popular Spirit</span><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/banners/sports-banners/49292" class="top-nav-menu-item-link" title="Banners">Banners</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-decorations/spirit-decorations/53983" class="top-nav-menu-item-link" title="Spirit Decorations">Spirit Decorations</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/team-supplies/47432" class="top-nav-menu-item-link" title="Team Supplies">Team Supplies</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/team-supplies/poms/47620" class="top-nav-menu-item-link" title="Poms">Poms</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/team-supplies/noisemakers/47543" class="top-nav-menu-item-link" title="Noisemakers">Noisemakers</a><!--
+   	--><a href="http://www.stumpsparty.com/productnotfound" class="top-nav-menu-item-link" title="Parades &amp; Float Supplies">Parade</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/team-supplies/mascots/47666" class="top-nav-menu-item-link" title="Mascots">Mascots</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-decorations/school-yard-signs/53247" class="top-nav-menu-item-link" title="Yard Signs">Yard Signs</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/event-decorations/cardboard-standees/spirit-standees/52456" class="top-nav-menu-item-link" title="Standees">Standees</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/team-supplies/temporary-tattoos/47547" class="top-nav-menu-item-link" title="Tattoos">Tattoos</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/discount-party-supplies/discount-spirit-items/47668" class="top-nav-menu-item-link" title="Clearance">Clearance</a><!--
+   --></div>
+   <div class="top-nav-menu-item-container-column-right"><!--
+   	--><span class="top-nav-menu-item-title">Popular Sports</span><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/team-supplies/shop-by-sport/basketball-supplies/47626" class="top-nav-menu-item-link" title="Basketball">Basketball</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/team-supplies/shop-by-sport/football-supplies/47625" class="top-nav-menu-item-link" title="Football">Football</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/team-supplies/shop-by-sport/baseball-supplies/53628" class="top-nav-menu-item-link" title="Baseball">Baseball</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/team-supplies/shop-by-sport/soccer-supplies/47628" class="top-nav-menu-item-link" title="Soccer">Soccer</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/team-supplies/shop-by-sport/track-supplies/54048" class="top-nav-menu-item-link" title="Track &amp; Field">Track &amp; Field</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/team-supplies/shop-by-sport/gymnastics-supplies/54047" class="top-nav-menu-item-link" title="Gymnastics">Gymnastics</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/team-supplies/shop-by-sport/rugby-supplies/54046" class="top-nav-menu-item-link" title="Rugby">Rugby</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/team-supplies/shop-by-sport/swimming-supplies/54049" class="top-nav-menu-item-link" title="Swimming">Swimming</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/team-supplies/shop-by-sport/volleyball-supplies/47627" class="top-nav-menu-item-link" title="Volleyball">Volleyball</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/team-supplies/shop-by-sport/band-supplies/54050" class="top-nav-menu-item-link" title="Marching Band">Marching Band</a><!--
+   	--><a href="http://www.stumpsparty.com/event-supplies/team-supplies/shop-by-sport/choir-supplies/54072" class="top-nav-menu-item-link" title="Show Choir">Show Choir</a><!--
+   --></div><div class="clear"></div><!--
+   --></div><div class="clear"></div><!--
+   --><div class="top-nav-menu-item-container-banner"></div><!--
+   --><div class="top-nav-menu-item-container-shop-all"><a href="http://www.stumpsparty.com/event-supplies/school-spirit-supplies/47339" class="header-nav-bar-cat-link" title="Spirit">shop all spirit »</a></div><!--
+   --></div><!--End Spirit Nav
+   --></li>
+     </ul>
+   </li>
+ </ul></div><div class="header-nav-bar-right"></div><!--
+     --></div><!--
+     --><style>
+#header .secondary-nav div:first-child + div {
+        width: 92px;
+}
+#header .secondary-nav .secondary-nav-cell {
+        width: 90px;
+}
+</style><!--
+    --><div class="secondary-nav"><!--
+    --><div class="secondary-nav-left"></div><!--
+    --><div class="secondary-nav-cell"><a href="http://www.stumpsparty.com/event-supplies/event-favors/47419" title="Favors">Favors</a></div><!--
+    --><div class="secondary-nav-cell"><a href="http://www.stumpsparty.com/event-supplies/event-decorations/47418" title="Decorations">Decorations</a></div><!--
+    --><div class="secondary-nav-cell"><a href="http://www.stumpsparty.com/event-supplies/background-materials/47428" title="Backgrounds">Backgrounds</a></div><!--
+    --><div class="secondary-nav-cell"><a href="http://www.stumpsparty.com/event-supplies/event-fabrics/gossamer/47452" title="Gossamer">Gossamer</a></div><!--
+    --><div class="secondary-nav-cell"><a href="http://www.stumpsparty.com/event-supplies/event-royalty-items/47430" title="Royalty">Royalty</a></div><!--
+    --><div class="secondary-nav-cell"><a href="http://www.stumpsparty.com/event-supplies/event-tableware/47422" title="Tableware">Tableware</a></div><!--
+    --><div class="secondary-nav-cell"><a href="http://www.stumpsparty.com/event-supplies/event-invitations/47420" title="Invitations">Invitations</a></div><!--
+    --><div class="secondary-nav-cell"><a href="http://www.stumpsparty.com/event-supplies/banners/47421" title="Banners">Banners</a></div><!--
+    --><div class="secondary-nav-cell"><a href="http://www.stumpsparty.com/event-supplies/diy-event-supplies/73490" title="Do It Yourself">DIY</a></div><!--
+    --><div class="secondary-nav-right"></div><!--
+--></div><!--/SPHDRLINKS--> 
+     <div class="shopping-nav"><!--
+     --><div class="shopping-nav-left"></div><!--
+     --><div class="shopping-nav-middle" id="frmsearch" style="position:relative">
 
-    <td width="100" height="20"><a href="/catalog.cfm?cat=47343" title="Holiday Decorations" alt="Holiday Decorations"><img src="/prom2011/header/holiday-w_over.png" alt="Holiday Decorations" title="Holiday Decorations" width="100" height="20" border="0" class="rollover"></a></td>
+     
+	  
 
-    <td width="102" height="20"><a href="/catalog.cfm?cat=47345" title="Parade Supplies" alt="Parade Supplies"><img src="/prom2011/header/parades-w_over.png" alt="Parade Supplies" title="Parade Supplies" width="102" height="20" border="0" class="rollover"></a></td>
+<form method="get" action="http://www.stumpsparty.com/search.cfm"><input class="search-box-header ui-autocomplete-input" type="text" name="searchCriteria" value="Search for a Specific Product or Product Number" onclick="this.value='';this.style.color='#232323';this.style.fontStyle='normal';" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><!--
+ --><input class="search-button-header ui-autocomplete-input" type="image" src="/css/stumpsparty/images/buttons/search.gif" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span></form><!--
+ --><div class="shopping-bar-check-out-button"><a href="https://secure.stumpsparty.com/checkout.cfm">CHECK OUT <img src="/css/stumpsparty/images/buttons/checkout-arrow.gif" alt="Check Out"></a></div><!--
+ -->
 
-    <td width="141" height="20"><a href="/catalog.cfm?cat=47891" alt="Graduation Party Supplies" title="Graduation Party Supplies"><img src="/prom2011/header/grad-w_over.png" alt="Graduation Party Supplies" title="Graduation Party Supplies" width="141" height="20" border="0" class="rollover"></a></td>
+ 
+ 
+	<div class="shopping-cart-button-text">
+	<img src="/css/stumpsparty/images/buttons/cart-button.gif" width="31" height="31" alt="My Shopping Cart" title="Cart is empty">
+	<span></span>
+	</div>
 
-    <td width="209" height="20"><a href="/catalog.cfm?cat=47338" title="Homecoming Week Supplies" alt="Homecoming Week Supplies"><img src="/prom2011/header/homecoming-w_over.png" alt="Homecoming Week Supplies" title="Homecoming Week Supplies" border="0" class="rollover" width="209" height="20"></a></td>
 
-    <td width="121" height="20"><a href="/catalog.cfm?cat=47344" title="Wedding and Bridal Shower" alt="Wedding and Bridal Shower"><img src="/prom2011/header/wedding-w_over.png" alt="Wedding and Bridal Shower" title="Wedding and Bridal Shower" width="121" height="20" border="0" class="rollover"></a></td>
-  </tr>        
-  <tr height="2">
-          <td height="2" colspan="13" bgcolor="#9a3f94"></td>
-        </tr>
-      </tbody></table>
-  </td></tr>
-  </tbody></table>
-</div>
-</td>
-</tr>
-</tbody></table></div></td></tr></tbody></table>
-
-	</td>
-</tr>
-<tr>
-	<td width="240" height="0"></td>
-	<td width="760" valign="top" rowspan="2" align="left">
-	<!--promo.cfm--><table border="0" cellpadding="0" cellspacing="0" height="0" align="center"><tbody><tr><td width="760" height="50" colspan="1" rowspan="1" valign="middle">
-<!--all--><div align="center"><style type="text/css">
 <!--
-body {
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-}
-.metaText {
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:13px;
-	color: #502677;
-	margin:0px;
-}
-.metaText a:hover{
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:13px;
-	color: #502677;
-	margin:0px;
-	text-decoration:underline;
-}
-.metaText a b{
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:13px;
-	color: #502677;
-	margin:0px;
-	text-decoration:none;
-}
-.headerLinks {
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:10px;
-	color: #502677;
-	margin:0px;
-}
-.headerLinks a:hover{
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:10px;
-	color: #502677;
-	margin:0px;
-	text-decoration:underline;
-}
-.headerLinks a{
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:10px;
-	color: #502677;
-	margin:0px;
-	text-decoration:none;
-}
-.left_nav_header {
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:16px;
-	font-weight:bold;
-	color: #502677;
-	text-decoration:none;
-}
-.left_nav_header a{
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:16px;
-	font-weight:bold;
-	color: #502677;
-	text-decoration:none;
-}
-.left_nav_header a:hover{
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:16px;
-	font-weight:bold;
-	color: #502677;
-	text-decoration:underline;
-}
-
-
-.left_nav {
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:12px;
-	color: #502677;
-	text-decoration:none;
-}
-.left_nav a{
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:12px;
-	color: #502677;
-	text-decoration:none;
-}
-.left_nav a:hover{
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:12px;
-	color: #502677;
-	text-decoration:underline;
-}
-
-
-.FormHeadline {
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:12px;
-	font-weight:bold;
-	color: #502677;
-	text-decoration:none;
-}
-.FormText {
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:9px;
-	color: #502677
-}
-.footer_header{
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:12px;
-	font-weight:bold;
-	color: #502677;
-	text-decoration:none;
-}
-.footer{
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:10px;
-	color: #502677;
-	margin:0px;
-}
-.footer a{
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:10px;
-	color: #502677;
-	margin:0px;
-	text-decoration:none;
-}
-.footer a:hover{
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:10px;
-	color: #502677;
-	margin:0px;
-	text-decoration:underline;
-}
-td.greypod-tl {
-	background: url(http://www.stumpsparty.com/graphics/oo/productgroup/grey_box_01.jpg) no-repeat top;
-	width: 10px;
-	height: 9px;
-}
-
-td.greypod-tr {
-	background: url(http://www.stumpsparty.com/graphics/oo/productgroup/grey_box_03.jpg) no-repeat top right;
-	width: 10px;
-	height: 9px;
-}
-
-td.greypod-t {
-	background: url(http://www.stumpsparty.com/graphics/oo/productgroup/grey_box_02.jpg) repeat-x top;
-	height: 9px;
-}
-
-td.greypod-l {
-	background: url(http://www.stumpsparty.com/graphics/oo/productgroup/grey_box_04.jpg) 0 0 repeat-y;
-	width:10px;
-}
-
-td.greypod-r {
-	background: url(http://www.stumpsparty.com/graphics/oo/productgroup/grey_box_06.jpg) 100% 0 repeat-y;
-	width:10px;
-}
-
-td.greypod-bl {
-	background: url(http://www.stumpsparty.com/graphics/oo/productgroup/grey_box_07.jpg) no-repeat bottom;
-	width: 10px;
-	height: 10px;
-}
-
-td.greypod-br {
-	background: url(http://www.stumpsparty.com/graphics/oo/productgroup/grey_box_09.jpg) no-repeat bottom right;
-	width: 10px;
-	height: 10px;
-}
-
-td.greypod-b {
-	background: url(http://www.stumpsparty.com/graphics/oo/productgroup/grey_box_08.jpg) repeat-x bottom;
-	height: 10px;
-}
-
-.promo_big {
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:24px;
-	font-weight:bold;
-	color: #000000;
-	text-decoration:none;
-}
-.promo_big strong{
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:24px;
-	font-weight:bold;
-	color: #000000;
-	text-decoration:none;
-}
-.promo_small {
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:14px;
-	color: #222222;
-}
-.promo_small strong{
-	font-weight:bold;
-}
-.promo_small a{
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:14px;
-	color: #222222;
-	text-decoration:none;
-}
-.promo_small a:hover{
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:14px;
-	color: #222222;
-	text-decoration:underline;
-}
-
--->
-</style>
-<table width="743" height="49" cellspacing="0" cellpadding="0" border="0" background="/prom2011/header/bg5.png" align="center" style="background-position:bottom; background-repeat:no-repeat;">
-  <tbody>
-    <tr>
-      <td width="527" align="center" valign="middle"><a style="text-decoration: none;" href="http://www.stumpsparty.com/servicepage.cfm?pgp=SPOFFER"><span class="promo_big"><strong>Free Shipping</strong></span> <span class="promo_small">on orders $99+ using code <strong>HA673Q</strong>*</span> </a></td>
-        <td width="216" align="left" valign="middle"><table width="216" border="0" align="right" cellpadding="2" cellspacing="0">
-          <tbody>
-            <tr valign="middle" align="center">
-              <td><a onclick="wishlist.list();" title="Stumps Party Shop N' Share Wishlist" rel="nofollow"><img width="32" height="32" border="0" class="rollover" alt="Stumps Party Shop N' Share Wishlist" src="/prom2011/header/sns_up.png"></a></td>
-              <td><a title="Like Us on Facebook" href="http://www.facebook.com/StumpsParty" target="_blank" rel="nofollow"><img width="32" height="32" border="0" class="rollover" alt="Like Us on Facebook" src="/prom2011/header/Facebook_up.png"></a></td>
-              <td><a title="Follow Us on Twitter" href="http://twitter.com/Stumpsparty" target="_blank" rel="nofollow"><img width="32" height="32" border="0" class="rollover" alt="Follow Us on Twitter" src="/prom2011/header/Twitter_up.png"></a></td>
-              <td><a title="Watch Us on You Tube" href="http://www.youtube.com/user/StumpsProm" target="_blank" rel="nofollow"><img width="32" height="32" border="0" class="rollover" alt="Watch Us on You Tube" src="/prom2011/header/YouTube_up.png"></a></td>
-              <td><a title="+1 us on Google Plus" href="http://plus.google.com/u/0/113920644831581707232/posts" target="_blank" rel="nofollow"><img width="32" height="32" border="0" class="rollover" alt="+1 us on Google Plus" src="/prom2011/header/Google_up.png"></a></td>
-              <td><a title="Subscribe to our RSS feed" href="http://stumpsprom.wordpress.com/feed" target="_blank" rel="nofollow"><img width="32" height="32" border="0" class="rollover" alt="Subscribe to our RSS feed" src="/prom2011/header/RSS_up.png"></a></td>
-            </tr>
-          </tbody>
-      </table></td>
-    </tr>
-  </tbody>
-</table></div></td></tr></tbody></table>
-<h3 align="center">Stumps Site Security</h3>
-<blockquote>
-<p>At Stumps Party, your security is our number one concern. We are pleased to tell you about the measures we have taken to ensure your security. </p>
-<p>We have followed and surpassed all industry standards necessary for a secure site. We are a GeoTrust™ secure site. This means that all information sent to our site is encrypted and protected against disclosure to third parties. </p></blockquote>
-<div align="center">
-<script language="JavaScript" src="https://seal.networksolutions.com/siteseal/javascript/siteseal.js" type="text/javascript"></script>
-<script language="JavaScript" type="text/javascript"> SiteSeal("https://seal.networksolutions.com/images/basicrecblue.gif", "NETSP", "none");</script></div>
-<blockquote>
-<p>Our servers use SSL (Secure Sockets Layer). This is an advanced technology that <b>encrypts all of the information you send us</b> (this includes all of your personal information such as your name, address, credit card number, etc.) so that it cannot be read as the information as it travels over the Internet. </p>
-<p>SSL works with Microsoft Internet Explorer (v. 3.0 and higher), Netscape Navigator (v. 2.0 and higher) and America Online (v. 3.0 and higher). </p>
-<p>To ensure that you are accessing our secure server to place your order, look at the bottom of your browser. You should see a closed lock or unbroken key icon (depending on your browser). If you see either of these icons, then SSL is active. </p>
-<h4>Cookies</h4>
-<blockquote>
-<p>A "cookie" is a small text file that your browser keeps on your hard disk, and is very common on the Internet. They are a way for Stumps Party to remember who you are. They also allow us to "remember" what you put in your shopping bag as you browse through our product selection. However, you can still browse our products and use many of our site features without cookies. </p>
-<p>To place an order on Stumps Party, your browser does need to accept cookies. If you do not feel comfortable modifying your browser preference files, please feel free to e-mail us for assistance. </p>
+ --><div class="shopping-cart-button"></div><!--
+ --><div class="shopping-bar-button"><a href="#" onclick="wishlist.list();">MY WISHLIST</a></div><!--
+ --><div class="shopping-bar-button"><a href="https://secure.stumpsparty.com/order_status.cfm">MY ACCOUNT</a></div><!--
+ --></div><!--
+ --><div class="shopping-nav-right"></div><!--
+ --></div><!-- End Shopping navigation bar
+ -->
+    </div>
+    <div id="pagecontent">
+      <div id="page-wrapper">
+      <div id="service-page-container">
+	
+	
+	<h1>Stumps Site Security</h1>
+<p>At Stumps Party, your security is our number one concern. We are pleased to tell you about the measures we have taken to ensure your security.</p>
+<p>We have followed and surpassed all industry standards necessary for a secure site. We are a GeoTrust™ secure site. This means that all information sent to our site is encrypted and protected against disclosure to third parties.</p>
+<div align="center"> 
+	<script language="JavaScript" src="https://seal.networksolutions.com/siteseal/javascript/siteseal.js" type="text/javascript"></script> 
+	<script language="JavaScript" type="text/javascript"> SiteSeal("https://seal.networksolutions.com/images/basicrecblue.gif", "NETSP", "none");</script></div>
+<p>Our servers use SSL (Secure Sockets Layer). This is an advanced technology that <strong>encrypts all of the information you send us</strong> (this includes all of your personal information such as your name, address, credit card number, etc.) so that it cannot be read as the information as it travels over the Internet.</p>
+<p>SSL works with Microsoft Internet Explorer (v. 3.0 and higher), Netscape Navigator (v. 2.0 and higher) and America Online (v. 3.0 and higher).</p>
+<p>To ensure that you are accessing our secure server to place your order, look at the bottom of your browser. You should see a closed lock or unbroken key icon (depending on your browser). If you see either of these icons, then SSL is active.</p>
+<h2>Cookies</h2>
+<p>A "cookie" is a small text file that your browser keeps on your hard disk, and is very common on the Internet. They are a way for Stumps Party to remember who you are. They also allow us to "remember" what you put in your shopping bag as you browse through our product selection. However, you can still browse our products and use many of our site features without cookies.</p>
+<p>To place an order on Stumps Party, your browser does need to accept cookies. If you do not feel comfortable modifying your browser preference files, please feel free to e-mail us for assistance.</p>
 <p>To enable cookies in your browser.</p>
 <ul>
-<li>For Internet Explorer Users: Choose TOOLS, then INTERNET OPTIONS, then SECURITY, then CUSTOM LEVEL, then scroll down to the COOKIES area and choose ENABLE. 
-</li><li>For Netscape Users: Choose EDIT, then PREFERENCES, then ADVANCED, then see COOKIES area and choose ACCEPT COOKIES. </li></ul></blockquote>
-<h4>Fair Credit Billing Act</h4>
-<blockquote>
-<p>Under the Fair Credit Billing Act, your bank or credit card company cannot hold you responsible for more than $50 of any unauthorized or fraudulent charges on your credit card. In the event of any unauthorized use of your credit card, you are required to notify your credit card provider in accordance with the agreement you have with them. </p>
-<p>Please rest assured that shopping on Stumps Party is safe and secure! You'll find the experience fun, easy and quick. </p></blockquote></blockquote><a name="privacy"></a>
-<h3 align="center">Privacy Policy</h3>
-<blockquote>
-<blockquote>
+	<li>For Internet Explorer Users: Choose TOOLS, then INTERNET OPTIONS, then SECURITY, then CUSTOM LEVEL, then scroll down to the COOKIES area and choose ENABLE.</li>
+	<li>For Netscape Users: Choose EDIT, then PREFERENCES, then ADVANCED, then see COOKIES area and choose ACCEPT COOKIES.</li>
+</ul>
+<h2>Fair Credit Billing Act</h2>
+<p>Under the Fair Credit Billing Act, your bank or credit card company cannot hold you responsible for more than $50 of any unauthorized or fraudulent charges on your credit card. In the event of any unauthorized use of your credit card, you are required to notify your credit card provider in accordance with the agreement you have with them.</p>
+<p>Please rest assured that shopping on Stumps Party is safe and secure! You'll find the experience fun, easy and quick.</p>
+<a name="privacy"></a>
+<h2>Privacy Policy</h2>
 <p>Revised April 2005</p>
 <p>We want you to know that we respect your privacy and value you as a customer. To this end, we have initiated policies to ensure that your personal information is handled safely and responsibly.</p>
 <p>Please note:</p>
 <ul>
-<li>By visiting or using our website, you are accepting the policies described in this Privacy Policy. 
-</li><li>If, at any time, we alter our Privacy Policy, we will post a notice on our website. </li></ul></blockquote>
-<h4><strong>Customer Information</strong></h4>
-<blockquote>
+	<li>By visiting or using our website, you are accepting the policies described in this Privacy Policy.</li>
+	<li>If, at any time, we alter our Privacy Policy, we will post a notice on our website.</li>
+</ul>
+<h2>Customer Information</h2>
 <p>We receive and gather information (such as customer name, address, phone number, e-mail address, and, when necessary, credit card information) from customers for the following purposes:</p>
 <ul>
-<li>To process orders 
-</li><li>To improve customer shopping experiences 
-</li><li>To communicate about our products and services 
-</li><li>To fulfill catalog requests 
-</li><li>To send Order and Shipping Confirmation E-mails 
-</li><li>To contact customers about their order </li></ul></blockquote>
-<h4><strong>E-mails/Newsletters</strong></h4>
-<blockquote>
+	<li>To process orders</li>
+	<li>To improve customer shopping experiences</li>
+	<li>To communicate about our products and services</li>
+	<li>To fulfill catalog requests</li>
+	<li>To send Order and Shipping Confirmation E-mails</li>
+	<li>To contact customers about their order</li>
+</ul>
+<h2>E-mails/Newsletters</h2>
 <p>You may sign up to receive promotional e-mails and newsletters on our website to find out about current specials, offers, sales, and more. If at any time you wish to stop receiving these e-mails, you have the option to remove your name from our mailing list. At the bottom of each e-mail/newsletter, you can click on a link to unsubscribe and remove your name.</p>
-<p>Please note: we will NOT sell, rent or share your e-mail address or password with a third party. We understand that this information is private and will handle it in a responsible manner.</p></blockquote>
-<h4><strong>Mailing Information</strong></h4>
-<blockquote>
+<p>Please note: we will NOT sell, rent or share your e-mail address or password with a third party. We understand that this information is private and will handle it in a responsible manner.</p>
+<h2>Mailing Information</h2>
 <p>If you do not want to receive our catalog at any time, please let us know. Be sure to provide your exact name and address (as it appears on the catalog mailing label), or send us the actual mailing label from the catalog. Please allow 6-8 weeks for us to update our mailing lists.</p>
 <p>Mail your request to:</p>
-<blockquote>
-<p>Stumps Party<br>Attn: Customer Service<br>P.O. Box 305<br>South Whitley, IN 46787-0305</p>
-<p><em>E-mail your request to:</em><br><a href="mailto:csr@StumpsParty.com" rel="NoFollow">Customer Service</a></p>
-<p><em>Or call us at:</em><br>1-800-227-2789</p></blockquote>
-<p>We will occasionally share our customers’ mailing and other information with select companies that we feel might be of interest to you, but we will never share any personally identifiable information we collect from you without your consent. If you prefer that we do not share your name, simply mail or e-mail us your name and mailing address. Again, be sure to provide your exact name and address so that we may identify you correctly.</p>
-<p>We may employ other companies to provide similar marketing services on our behalf. With our approval, these third parties may also place “cookies” for analysis purposes. These third-party companies will have access to the information needed to perform their functions but cannot use that information for any other purpose. These third-party companies will only have access to non-personal information about your visit or transaction, such as the URLS which lead you to and around our site, pages visited, the product(s) purchased, and the amount spent; these companies will not have access to information that will allow them to personally identify you.</p>
+<p>Stumps Party<br>
+	Attn: Customer Service<br>
+	P.O. Box 305<br>
+	South Whitley, IN 46787-0305</p>
+<p><em>E-mail your request to:</em><br>
+	<a href="mailto:csr@StumpsParty.com" rel="NoFollow">Customer Service</a></p>
+<p><em>Or call us at:</em><br>
+	1-800-227-2789</p>
+<p>We will occasionally share our customers' mailing and other information with select companies that we feel might be of interest to you, but we will never share any personally identifiable information we collect from you without your consent. If you prefer that we do not share your name, simply mail or e-mail us your name and mailing address. Again, be sure to provide your exact name and address so that we may identify you correctly.</p>
+<p>We may employ other companies to provide similar marketing services on our behalf. With our approval, these third parties may also place "cookies" for analysis purposes. These third-party companies will have access to the information needed to perform their functions but cannot use that information for any other purpose. These third-party companies will only have access to non-personal information about your visit or transaction, such as the URLS which lead you to and around our site, pages visited, the product(s) purchased, and the amount spent; these companies will not have access to information that will allow them to personally identify you.</p>
 <p>To remove your name from mailing lists of other printed catalogs that belong to the Direct Marketing Association, write to:</p>
-<blockquote>
-<p>Mail Preference Department<br>Direct Marketing Association<br>P.O. Box 9008<br>Farmingdale, NY 11735-9008</p></blockquote></blockquote>
-<h3>Children's Online Privacy Protection</h3>
-<blockquote>
-<p>In compliance with the Children's Online Privacy Protection Act of 2000 (COPPA), we do not request any information from children under the age of 13. We require parental consent (via e-mail) on any information provided to us by children under the age of 13. We have provided links on our site to our Privacy Policy from all places where information can be gathered.</p></blockquote>
-<h3>Questions or Concerns</h3>
-<blockquote>
+<p>Mail Preference Department<br>
+	Direct Marketing Association<br>
+	P.O. Box 9008<br>
+	Farmingdale, NY 11735-9008</p>
+<h2>Children's Online Privacy Protection</h2>
+<p>In compliance with the Children's Online Privacy Protection Act of 2000 (COPPA), we do not request any information from children under the age of 13. We require parental consent (via e-mail) on any information provided to us by children under the age of 13. We have provided links on our site to our Privacy Policy from all places where information can be gathered.</p>
+<h2>Questions or Concerns</h2>
 <p>If you at any time have questions, concerns, or need assistance with our Privacy Policy, please feel free to e-mail us at <a href="mailto:csr@StumpsParty.com" rel="NoFollow">Customer Service</a>, call us toll free at 1-800-227-2789 or write to us at:</p>
-<blockquote>
-<p>Stumps Party<br>Attn: Customer Service<br>P.O. Box 305<br>South Whitley, IN 46787-0305</p></blockquote></blockquote></blockquote>
-<div></div> 
-	</td>
-</tr>
-<tr>
-	<td width="240" valign="top">
-		<!--leftnav.cfm--><table border="0" cellpadding="0" cellspacing="0" height="100%" align="center"><tbody><tr><td width="240" height="500" colspan="1" rowspan="1" valign="top">
-<!--all--><div align="left"><table cellspacing="0" cellpadding="0" border="0">
-  <tbody>
-    <tr>
-      <td width="240" align="center">
+<p>Stumps Party<br>
+	Attn: Customer Service<br>
+	P.O. Box 305<br>
+	South Whitley, IN 46787-0305</p>
 
-	<table id="pod1" width="210" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-		<td class="greypod-tl"></td>
-		<td class="greypod-t"></td>
-		<td class="greypod-tr"></td>
-	</tr>
-	<tr>
-		<td class="greypod-l"></td>
-		<td align="left" valign="top" class="greypod-m">
-	
-<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
-<td><span class="FormHeadline">Search</span></td>
-</tr>
-<tr>
-<td align="left">
+</div>
+        <div class="clear"></div>
+      </div>
+      <div class="clear"></div>
+    </div>
+  </div>
+  <div id="footer">
+    <!--SPFOOTER(cached)--><!--
+      --><div class="footer-row1"><div class="footer-row1-container"><!--
+          --><div class="footer-columns"><!--
+              --><h3>about us</h3><!--
+              --><a href="https://secure.stumpsparty.com/rewards.cfm" title="Earn Rewards">Earn Rewards</a><!--
+              --><a href="http://www.stumpsparty.com/servicepage.cfm?pgp=SPABOUT" title="History">History</a><!--
+              --><a href="http://www.stumpsparty.com/servicepage.cfm?pgp=spindex" title="Customer Service">Customer Service</a><!--
+              --><a href="http://www.stumpsparty.com/catalogs/2013-A/index.html" title="View Online Catalog">View Online Catalog</a><!--
+              --><a href="http://www.stumpsparty.com/servicepage.cfm?pgp=SPSECURE" title="Security &amp; Privacy">Security &amp; Privacy</a><!--
+              --><a href="http://www.stumpsparty.com/customercomments.cfm" title="Customer Comments">Customer Comments</a><!--
+              --><!--<a href="http://www.stumpsparty.com/Servicepage.cfm?pgp=PRSAFETY" title="Product Safety">Product Safety</a>--><!--
+              --><a href="http://www.stumpsparty.com/catalog.cfm" title="Site Map">Site Map</a><!--
+          --></div><!--
+          --><div class="footer-columns"><!--
+              --><h3>orders</h3><!--
+              --><a href="http://www.stumpsparty.com/servicepage.cfm?pgp=SPSHIP" title="Shipping">Shipping</a><!--
+          --><a href="https://secure.stumpsparty.com/service.cfm?page=contact_order_status" title="Check Order Status">Check Order Status</a><!--
+              --><a href="http://www.stumpsparty.com/faq" title="Info &amp; FAQs">Info &amp; FAQs</a><!--
+              --><a href="http://www.stumpsparty.com/servicepage.cfm?pgp=SPCANADA" title="Canadian Orders">Canadian Orders</a><!--
+              --><a href="http://www.stumpsparty.com/coupon.cfm" title="Stumps Coupons">Stumps Coupons</a><!--
+              --><a href="http://www.stumpsparty.com/servicepage.cfm?pgp=SPOFFER" title="Free Samples">Free Samples</a><!--
+              --><a href="#" onclick="wishlist.list();" title="Wish List">Wish List</a><!--
+              --></div><!--
+          --><div class="footer-columns"><!--
+              --><h3>information</h3><!--
+              --><a href="https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=2486491" title="Affiliate Program">Affiliate Program</a><!--
+              --><a href="http://www.shindigz.com/service.cfm?page=wholesale_signup" title="Wholesale">Wholesale</a><!--
+              --><a href="http://www.stumpsparty.com/servicepage.cfm?pgp=spcompare" title="Compare &amp; Save">Compare &amp; Save</a><!--
+              --><a href="http://www.stumpsparty.com/servicepage.cfm?pgp=SPOFFER" title="Low Price Guarantee">Low Price Guarantee</a><!--
+              --><a href="http://www.stumpsparty.com/dod.cfm" title="Deal of the Day">Deal of the Day</a><!--
+              --><a href="http://www.stumpsparty.com/servicepage.cfm?pgp=SPTOP10SONGS" title="Top 100 Prom Songs">Top 100 Prom Songs</a><!--
+              --><a href="http://stumpsprom.wordpress.com/" title="Prom Blog">Prom Blog</a><!--
+          --></div><!--
+          --><div class="footer-spacer"></div><!--
+          --><div class="footer-columns-right"><!--
+              --><h3>connect with us</h3><!--
+              --><div class="footer-social"><!--
+                  --><div class="subscribe"><!--
+                  --><a href="https://secure.stumpsparty.com/service.cfm?page=newsletter" title="Subscribe to Our Newsletter"><div><img src="/css/stumpsparty/images/buttons/email-link-footer.gif" width="25" height="25" alt="Subscribe to Our Newsletter"></div></a><!--
+                  --><a href="https://secure.stumpsparty.com/service.cfm?page=newsletter" title="Subscribe to Our Newsletter"><div>subscribe to<br>our newsletter</div></a><!--
+                  --></div><!--
+                  --><div class="footer-facebook"><!--
+                  --><a target="_blank" href="http://www.facebook.com/StumpsParty" title="Like Us on Facebook"><img src="/css/stumpsparty/images/buttons/facebook-footer.gif" width="25" height="25" alt="Like Us on Facebook"></a><!--
+                  --></div><!--
+                  --><div class="footer-twitter"><!--
+                  --><a target="_blank" href="http://twitter.com/Stumpsparty" title="Follow Us on Twitter"><img src="/css/stumpsparty/images/buttons/twitter-footer.gif" width="25" height="25" alt="Follow Us on Twitter"></a><!--
+                  --></div><!--
+                  --><div class="footer-pinterest"><!--
+                  --><a target="_blank" href="http://pinterest.com/stumpsparty/" title="Pin Us on Pinterest"><img src="/css/stumpsparty/images/buttons/pinterest-footer.gif" width="25" height="25" alt="Pin Us on Pinterest"></a><!--
+                  --></div><!--
+                  --><div class="footer-youtube"><!--
+                  --><a target="_blank" href="http://www.youtube.com/user/StumpsProducts" title="Watch Us on Youtube"><img src="/css/stumpsparty/images/buttons/youtube-footer.gif" width="25" height="25" alt="Watch Us on Youtube"></a><!--
+                  --></div><!--
+                  --><div class="footer-rss"><!--
+                  --><a target="_blank" href="http://stumpsprom.wordpress.com/feed" title="Subcribe to Our RSS"><img src="/css/stumpsparty/images/buttons/rss-footer.gif" width="25" height="25" alt="Subcribe to Our RSS"></a><!--
+                  --></div><!--
+              --></div><!--
+              --><div class="footer-contact-info"><!--
+                  --><div class="footer-phone">Phone: 1.800.348.5084</div><div class="footer-phone">Se habla Espanol 9<sup>a</sup>-6p EST</div><!--
+              --></div><!--
+              --><div class="footer-contact-info"><!--
+                  --><div class="footer-phone">Email: <a href="mailto:csr@stumpsparty.com" title="contact Stumps Party">csr@stumpsparty.com</a></div><!--
+              --></div><!--
+          --></div><!--
+      --></div><!--
+ --></div><div class="footer-row2">
+<div id="footer-row2-container">
+  <div id="bbb-link"><a href="https://www.bbb.org/online/consumer/cks.aspx?ID=104111112205148606" rel="nofollow" target="_blank"><img src="/images/dynamicContent/SPFOOTER/bbb.jpg" border="0"></a></div>
+  <div id="footer-flags">
+    <div>
+      <div id="footer-us-flag">
+        <div><img src="/images/dynamicContent/SPFOOTER/us-flag.gif" alt="US Flag"></div>
+        <div>American Owned Family Operated Since 1926</div>
+      </div>
+      <div id="footer-can-flag" onclick="top.location.href='http://www.stumpsparty.com/servicepage.cfm?pgp=SPCANADA'">
+        <div><img src="/images/dynamicContent/SPFOOTER/canada-flag.gif" alt="Canadian Flag"></div>
+        <div>Canadian Orders are Welcome</div>
+      </div>
+    </div>
+    <div id="copyright">Copyright © 2013 Stump Printing, Inc. All rights reserved</div>
+  </div><div id="mcAfee-code">
+<!-- START MCAFEESECURE CODE --> 
+  <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.stumpsparty.com"><img width="94" height="54" border="0" src="//images.mcafeesecure.com/meter/www.stumpsparty.com/13.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a> 
+  <!-- END MCAFEESECURE CODE --></div></div><!--
+--></div><!--/SPFOOTER--> 
+  </div>
 
-<form action="http://www.StumpsParty.com/search.cfm" style="margin-bottom:0px;" id="frmsearch" method="post">
-<input id="searchType" name="searchType" value="google" type="hidden">
-<input name="searchCriteria" value="search keyword" onfocus="if(this.value=='search keyword')this.value=' ';" size="22" maxlength="50" class="FormText ui-autocomplete-input" type="text" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
-<input class="FormText" name="searchButton" value="Find" type="submit">
-</form>
-</td>
-</tr>
-<tr>
-<td><span class="FormHeadline">Quick Buy</span></td>
-</tr>
-<tr>
-<td align="left">
-<form action="http://www.StumpsParty.com/quickorder.cfm" method="post" style="margin-bottom:0px;">
-<input name="oom" value="qoPostSelection" type="hidden">
-<input name="item_1" size="22" maxlength="12" value="enter item #" onfocus="if(this.value=='enter item #')this.value=' ';" class="FormText" type="text"> <input class="FormText" name="Submit" value="Order" type="submit">
-</form>
-</td></tr></tbody></table>
- 
-	</td>
-		<td class="greypod-r"></td>
-	</tr>	
-	<tr>
-		<td class="greypod-bl"></td>
-		<td class="greypod-b"></td>
-		<td class="greypod-br"></td>
-	</tr>
-</tbody></table>
-	
-</td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240" height="1" bgcolor="#52347c"></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td height="100" width="240"><a title="Stumps Rewards Program" href="/rewards.cfm"><img width="250" height="100" border="0" alt="Stumps Rewards Program" src="/prom2011/leftnav/Rewards-link5.jpg"></a></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240" height="1" bgcolor="#52347c"></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240"><span class="left_nav_header"><a title="Event Theme" href="/catalog.cfm?cat=47431">Event Theme</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a href="/catalog.cfm?cat=47589" title="Paris">Paris</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a href="/catalog.cfm?cat=47592" title="Stars">Stars</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a href="/catalog.cfm?cat=47584" title="Hollywood">Hollywood</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a href="/catalog.cfm?cat=47594" title="Underwater">Underwater</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a href="/catalog.cfm?cat=47588" title="Mardi Gras">Mardi Gras</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a href="/catalog.cfm?cat=47578" title="Castle">Castle</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a href="/catalog.cfm?cat=47577" title="Casino">Casino</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a href="/catalog.cfm?cat=47579" title="City">City</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a href="/catalog.cfm?cat=49659" title="Candy">Candy</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a href="/catalog.cfm?cat=52649" title="Enchanted Forest">Enchanted Forest</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a href="/catalog.cfm?cat=47582" title="Fifties">Fifties</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a href="/catalog.cfm?cat=47586" title="Luau / Tropical">Luau / Tropical</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a href="/catalog.cfm?cat=54479" title="Wizard of Oz">Wizard of Oz</a></span><br>
-        <font size="2"><span class="left_nav">&nbsp;&nbsp;&nbsp;&nbsp;<strong><a href="/catalog.cfm?cat=47431">Shop All...</a></strong></span></font></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240" height="1" bgcolor="#52347c"></td>
-    </tr>
-    <tr>
-      <td width="240"><span class="left_nav_header"><a title="Background Material" href="/catalog.cfm?cat=47428">Background Material</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Gossamer" href="/catalog.cfm?cat=47452">Gossamer</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Murals" href="/catalog.cfm?cat=47448">Murals</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Fabrics" href="/catalog.cfm?cat=47451">Fabrics</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Flat Paper" href="/catalog.cfm?cat=47444">Flat Paper</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Poly Vinyl Rolls" href="/catalog.cfm?cat=47443">Poly Vinyl Rolls</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Seamless Paper" href="/catalog.cfm?cat=47447">Seamless Paper</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Decorating Curtains" href="/catalog.cfm?cat=47472">Decorating Curtains</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Background Illustrations" href="/catalog.cfm?cat=48807">Background Illustrations</a></span><br>
-        <font size="2"><span class="left_nav">&nbsp;&nbsp;&nbsp;&nbsp;<strong><a href="/catalog.cfm?cat=47428">Shop All...</a></strong></span></font></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240" height="1" bgcolor="#52347c"></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240"><span class="left_nav_header"><a title="Personalized Banners" href="/catalog.cfm?cat=47421">Personalized Banners</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Create-A Banner" href="/catalog.cfm?cat=48787">Create-A Banner</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Event Theme Banners" href="/catalog.cfm?cat=47478">Theme Banners</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Photo Banners" href="/catalog.cfm?cat=47476">Photo Banners</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Stock Vinyl Banners" href="/catalog.cfm?cat=47480">Stock Vinyl Banners</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Banner Accessories" href="/catalog.cfm?cat=47479">Banner Accessories</a></span><br>
-        <font size="2"><span class="left_nav">&nbsp;&nbsp;&nbsp;&nbsp;<strong><a href="/catalog.cfm?cat=47421">Shop All...</a></strong></span></font></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240" height="1" bgcolor="#52347c"></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240"><span class="left_nav_header"><a title="Event Fabrics" href="/catalog.cfm?cat=47451">Event Fabrics</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Iridescent Chiffon Fabric" href="/catalog.cfm?cat=47457">Iridescent Chiffon</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Glimmering Mesh" href="/catalog.cfm?cat=47458">Glimmering Mesh</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Gossamer" href="/catalog.cfm?cat=47452">Gossamer</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Shimmera" href="/catalog.cfm?cat=47453">Shimmera</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Taffeta" href="/catalog.cfm?cat=47454">Taffeta</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Tulle" href="/catalog.cfm?cat=47456">Tulle</a></span><br>
-        <font size="2"><span class="left_nav">&nbsp;&nbsp;&nbsp;&nbsp;<strong><a href="/catalog.cfm?cat=47451">Shop All...</a></strong></span></font></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240" height="1" bgcolor="#52347c"></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240"><span class="left_nav_header"><a title="Event Tableware" href="/catalog.cfm?cat=47422"> Event Tableware</a></span></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240" height="1" bgcolor="#52347c"></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240"><span class="left_nav_header"><a title="Favors" href="/catalog.cfm?cat=47419">Favors</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Favor Sale" href="/catalog.cfm?cat=54810"><strong>Favor Sale</strong></a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Candle Favors" href="/catalog.cfm?cat=47484">Candle Favors</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Glassware Favors" href="/catalog.cfm?cat=47486">Glassware Favors</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a href="/catalog.cfm?cat=53018" title="Swag Bags">Swag Bags</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Candy Jars" href="/catalog.cfm?cat=50294">Candy Jars</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Photo Frames" href="/catalog.cfm?cat=47492">Photo Frames</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Key Tags" href="/catalog.cfm?cat=47487">Key Tags</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Mint Tins" href="/catalog.cfm?cat=49296">Mint Tins</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Candy Bars" href="/catalog.cfm?cat=47494">Candy Bars</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Lollipops" href="/catalog.cfm?cat=52773">Lollipops</a></span><br>
-        <font size="2"><span class="left_nav">&nbsp;&nbsp;&nbsp;&nbsp;<strong><a href="/catalog.cfm?cat=47419">Shop All...</a></strong></span></font></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240" height="1" bgcolor="#52347c"></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240"><span class="left_nav_header"><a title="Event Candy" href="/catalog.cfm?cat=52090">Event Candy</a></span></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240" height="1" bgcolor="#52347c"></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240"><span class="left_nav_header"><a title="Gossamer" href="/catalog.cfm?cat=47452">Gossamer</a></span></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240" height="1" bgcolor="#52347c"></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240"><span class="left_nav_header"><a title="Invitations" href="/catalog.cfm?cat=47420">Invitations</a></span></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240" height="1" bgcolor="#52347c"></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240"><span class="left_nav_header"><a title="Party Decorations" href="/catalog.cfm?cat=47418">Party Decorations</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Reusable Decorations" href="/catalog.cfm?cat=47468">Reusable Decorations</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Decorations by Color" href="/catalog.cfm?cat=52617">Decorations by Color</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Decorative Arches" href="/catalog.cfm?cat=47520">Decorative Arches</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Decorative Columns" href="/catalog.cfm?cat=47511">Decorative Columns</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Balloons" href="/catalog.cfm?cat=47426">Balloons</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Inflatable Decorations" href="/catalog.cfm?cat=52612">Inflatable Decorations</a></span><br>
-        <span class="left_nav">&nbsp;&nbsp;<a title="Chandeliers" href="/catalog.cfm?cat=47509">Chandeliers</a></span><br>
-        <font size="2"><span class="left_nav">&nbsp;&nbsp;&nbsp;&nbsp;<strong><a href="/catalog.cfm?cat=47418">Shop All...</a></strong></span></font></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240" height="1" bgcolor="#52347c"></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240"><span class="left_nav_header"><a title="Sashes" href="/catalog.cfm?cat=49918">Sashes</a></span></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240" height="1" bgcolor="#52347c"></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240"><span class="left_nav_header"><a title="Tiaras" href="/catalog.cfm?cat=48401">Tiaras</a></span></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240" height="1" bgcolor="#52347c"></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240"><span class="left_nav_header"><a href="/catalog.cfm?cat=47664"><font color="red">Clearance</font></a></span></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240" height="1" bgcolor="#52347c"></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr align="left">
-      <td width="240" align="center"><a title="Compare and Save" href="/servicepage.cfm?pgp=spcompare"><img width="230" height="90" border="0" class="rollover" alt="Compare and Save" src="/prom2011/leftnav/Compare-and-Save.png"></a></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr align="left">
-      <td width="240" align="center"><a href="/servicepage.cfm?pgp=SPOFFER" title="Free Samples"><img src="/prom2011/leftnav/Free-samples-2012_up.jpg" alt="Free Samples" title="Free Samples" width="187" height="46" border="0" class="rollover"></a></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <!-- <tr align="center">
-      <td class="left_nav"><a title="Proms Across America 2011" href="http://contest.stumpsparty.com/index.cfm"><img width="213" height="92" border="0" class="rollover" alt="Proms Across America 2011" src="/prom2011/leftnav/paac_up1.png"></a></td>
-    </tr> -->
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240" height="1" bgcolor="#52347c"></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240"><!--Start PAAC Navigation--> 
-        <!--Begin Proms Across America--> 
-        <!--      
-        <table align="center" id="Table_01" width="240" border="0" cellpadding="0" cellspacing="0">
-          <tr>
-            <td><a href="/promsacross2012/promStories.cfm" title="Proms Across America - Prom Stories"><img title="Proms Across America - Prom Stories" alt="Proms Across America - Prom Stories" width="230" height="115" src="/prom2011/leftnav/PromStories-HP-link-small.jpg" border="0"></a> <a href="/promsacross2012/askToProm.cfm" title="Proms Across America - Ask to Prom"><img title="Ask to Prom" alt="Proms Across America - Ask to Prom" width="230" height="115" src="/prom2011/leftnav/AskToProm-HP-link-small.jpg" border="0"></a></td>
-          </tr>
-        </table>--> 
-        
-        <!--End Start PAAC Navigation--></td>
-    </tr>
-  </tbody>
-</table></div></td></tr></tbody></table>
-
-	</td>
-</tr>
-<tr>
-	<td colspan="2">
-	<!--footer.cfm--><table border="0" cellpadding="0" cellspacing="0" height="0" align="center"><tbody><tr><td width="1000" height="280" colspan="1" rowspan="1" valign="top">
-<!--all--><div align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-  	<td height="7"></td>
-  </tr>
-  <tr>
-    <td>
-    
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="10"></td>
-    <td>
-
-<table id="Table_01" width="100%" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td background="/prom2010/footer/grey_box_01.jpg" width="10" height="10"></td>
-		<td background="/prom2010/footer/grey_box_02.jpg"></td>
-		<td background="/prom2010/footer/grey_box_03.jpg" width="10" height="10"></td>
-	</tr>
-	<tr>
-		<td background="/prom2010/footer/grey_box_04.jpg"></td>
-		<td bgcolor="#ffffff" align="left" valign="top">
-        <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td align="center" valign="top">
-<table border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td align="left">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td colspan="2"><span class="footer_header">Contact Us »</span></td>
-  </tr>
-  <tr>
-    <td><span class="footer">Email: </span></td>
-    <td><span class="footer"><a href="/service.cfm?page=contact_other" rel="nofollow">csr@stumpsparty.com</a></span></td>
-  </tr>
- 
-
-
-</tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-</td>
-
-	<td bgcolor="#52347c" width="1"></td>
-    <td align="center" valign="top">
-<table border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td align="left">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><span class="footer_header">About Us »</span></td>
-  </tr>
-  <tr>
-    <td><span class="footer">» <a href="/servicepage.cfm?pgp=SPABOUT" rel="nofollow">History</a></span></td>
-  </tr>
-  <tr>
-    <td><span class="footer">» <a href="/servicepage.cfm?pgp=spindex" rel="nofollow">Customer Service</a></span></td>
-  </tr>
- <tr>
-    <td colspan="2"><span class="footer">» <a href="/service.cfm?page=catalog_request" rel="nofollow">Catalog</a></span></td>
-  </tr>
-  <tr>
-    <td><span class="footer">» <a href="/servicepage.cfm?pgp=SPSECURE" rel="nofollow">Security &amp; Privacy</a></span></td>
-  </tr>
-<tr>
-    <td><span class="footer">» <a href="/customercomments.cfm" rel="nofollow">Customer Comments</a></span></td>
-  </tr>
-  <tr>
-    <td><span class="footer">» <a href="/Servicepage.cfm?pgp=PRSAFETY" rel="nofollow">Product Safety</a></span></td>
-  </tr>
-  <tr>
-    <td><span class="footer">» <a href="/catalog.cfm" rel="nofollow">Site Map</a></span></td>
-  </tr>
-</tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-</td>
-	<td bgcolor="#52347c" width="1"></td>
-    <td align="center" valign="top">
-<table border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td align="left">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td colspan="2"><span class="footer_header">Orders »</span></td>
-  </tr>
-  <tr>
-    <td colspan="2"><span class="footer">» <a href="/service.cfm?page=contact_order_status" rel="nofollow">Check Order Status</a></span></td>
-  </tr>
-  <tr>
-    <td colspan="2"><span class="footer">» <a href="/servicepage.cfm?pgp=SPFAQS" rel="nofollow">Info &amp; FAQs</a></span></td>
-  </tr>
-  <tr>
-    <td valign="middle"><span class="footer">» <a href="/servicepage.cfm?pgp=SPCANADA" rel="nofollow">Canadian Orders</a>&nbsp;</span></td>
-    <td valign="middle"><a href="/servicepage.cfm?pgp=SPCANADA" rel="nofollow"><img src="/prom2010/footer/canadasmall.jpg" width="19" height="9" border="0"></a>
-  </td></tr>
-  <tr>
-    <td colspan="2"><span class="footer">» <a href="/servicepage.cfm?pgp=SPOFFER" rel="nofollow">Special Offers</a></span></td>
-  </tr> 
-  <tr>
-    <td colspan="2"><span class="footer">» <a href="/servicepage.cfm?pgp=SPOFFER" rel="nofollow">Free Samples</a></span></td>
-  </tr>
-   <tr>
-    <td colspan="2"><span class="footer">» <a title="Stumps Party Shop N' Share Wishlist" target="_top" rel="nofollow" onclick="wishlist.list();">Wish List</a></span></td>
-  </tr>
-<tr>
-    <td colspan="2"><span class="footer">» <a href="/servicepage.cfm?pgp=SPSHIP" rel="nofollow">Shipping</a></span></td>
-  </tr>
-</tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-</td>
-	<td bgcolor="#52347c" width="1"></td>
-    <td align="center" valign="top">
-<table border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td align="left">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><span class="footer_header">Info »</span></td>
-  </tr>
-  <tr>
-    <td><span class="footer">» <a href="https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=2486491" rel="nofollow">Affiliate Program</a></span></td>
-  </tr>
-  <tr>
-    <td><span class="footer">» <a href="http://www.shindigz.com/service.cfm?page=wholesale_signup" rel="nofollow">Wholesale</a></span></td>
-  </tr>
-  <tr>
-    <td><span class="footer">» <a href="/servicepage.cfm?pgp=spcompare" rel="nofollow">Compare &amp; Save</a></span></td>
-  </tr>
-  <tr>
-    <td><span class="footer">» <a href="/servicepage.cfm?pgp=SPOFFER" rel="nofollow">Lowest Price Guarantee</a></span></td>
-  </tr>
-  <tr>
-    <td><span class="footer">» <a href="/dod.cfm" rel="nofollow">Deal of the Day</a></span></td>
-  </tr>
-<tr>
-    <td><span class="footer">» <a href="http://www.stumpsparty.com/servicepage.cfm?pgp=SPTOP10SONGS">Top 100 Prom Songs</a></span></td>
-  </tr>
-<tr>
-<td><span class="footer">» <a target="_blank" href="http://stumpsprom.wordpress.com/" rel="nofollow">Prom Blog</a></span></td>
-</tr>
-</tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-</td>
-	<td bgcolor="#52347c" width="1"></td>
-    <td align="center" valign="top">
-<table border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td align="left">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><span class="footer_header">Newsletter + Savings</span></td>
-  </tr>
-  <tr>
-    <td><span class="footer">Sign up for special offers!</span></td>
-  </tr>
-  <tr>
-    <td align="center"><form action="http://www.stumpsparty.com/service.cfm?page=newsletter" method="post"><input type="submit" style="color:#52347c; font-size:10px;" value="&nbsp;&nbsp; SUBSCRIBE &nbsp;&nbsp;"></form></td>
-  </tr>
-  
-  <tr><td align="center"><br>
-  <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FStumpsParty&amp;layout=button_count&amp;show_faces=true&amp;width=85&amp;action=like&amp;font=verdana&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:21px;" allowtransparency="true"></iframe></td></tr>
-  
-</tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-
-        </td>
-		<td background="/prom2010/footer/grey_box_06.jpg"></td>
-	</tr>
-	<tr>
-		<td background="/prom2010/footer/grey_box_07.jpg" width="10" height="10"></td>
-		<td background="/prom2010/footer/grey_box_08.jpg"></td>
-		<td background="/prom2010/footer/grey_box_09.jpg" width="10" height="10"></td>
-	</tr>
-</tbody></table>
-
-    </td>
-    <td width="10"></td>
-  </tr>
-</tbody></table>
-    
-    </td>
-  </tr>
-  <tr>
-  	<td height="7"></td>
-  </tr>
-  <tr>
-    <td>
-    
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-  
-  
-   <td width="82" rowspan="2"><a target="_blank" alt="Online Catalog" title="Online Catalog" href="/catalogs/2012-B/index.html"><img width="82" height="100" alt="" src="/prom2011/footer/Stumps-07-2012.jpg" border="0"></a></td>
-              <td><a target="_blank" alt="Online Catalog" title="Online Catalog" href="/catalogs/2012-B/index.html"><img width="151" height="43" border="0" class="rollover" alt="Online Catalog" title="Online Catalog" src="/prom2011/leftnav/Online-Catalog-Button-2012_up.png"></a>
-              <br><a alt="Online Catalog" title="Free Catalog" href="/service.cfm?page=catalog_request"><img width="151" height="43" border="0" class="rollover" alt="Free Catalog" title="Free Catalog" src="/prom2011/leftnav/Free-Catalog-Button-2012_up.png"></a></td>
-   
-    <td width="7%" align="center" valign="top"><a title="Stumps Party Shop N' Share Wishlist" target="_top" rel="nofollow" onclick="wishlist.list();"><img src="/prom2011/header/offer-bar-wishlist-star_up.png" border="0" title="Stumps Wish List" alt="Stumps Wish List"><br>
-    </a></td>
-    <td width="7%" align="center" valign="top"><a href="http://www.facebook.com/StumpsParty" style="text-decoration:none" target="_blank" rel="nofollow" title="Like Stumps Prom and Party on Facebook"><img src="/prom2011/footer/facebook-icon.jpg" border="0" title="Like Stumps Prom and Party on Facebook" alt="Like Stumps Prom and Party on Facebook"><br>
-    </a></td>
-    <td width="7%" align="center" valign="top"><a href="http://twitter.com/Stumpsparty" style="text-decoration:none" target="_blank" rel="nofollow" title="Follow Stumps Prom and Party on Twitter"><img src="/prom2011/footer/twitter-icon.jpg" border="0" alt="Follow Stumps Prom and Party on Twitter" title="Follow Stumps Prom and Party on Twitter"><br>
-    </a></td>
-    
-    
-    
-    
-    
-    <td width="7%" align="center" valign="top"><a href="http://www.youtube.com/user/StumpsProm" style="text-decoration:none" target="_blank" rel="nofollow" title="Watch Stumps Prom and Party on YouTube"><img src="/prom2011/footer/youtube-icon.jpg" alt="Watch Stumps Prom and Party on YouTube" title="Watch Stumps Prom and Party on YouTube" border="0"><br>
-    </a></td>
-    <td width="7%" align="center" valign="top"><a href="http://stumpsprom.wordpress.com/feed" style="text-decoration:none" target="_blank" rel="nofollow" title="Read Stumps Prom and Party RSS"><img src="/prom2011/footer/rss-icon.jpg" title="Read Stumps Prom and Party RSS" alt="Read Stumps Prom and Party RSS" border="0"><br>
-    </a></td>
-    <td width="12.5%" align="center" valign="top"><img src="/prom2011/footer/american-flag.jpg" border="0"><br>
-      <span class="top_nav" style="color:#000000">American Owned<br>
-    Family Operated<br>
-    Since 1926</span></td>
-<td width="9%" align="center" valign="top"><a href="/servicepage.cfm?pgp=SPCANADA" rel="nofollow"><img src="/prom2011/footer/canada.jpg" border="0" alt="Canadian Orders" title="Canadian Orders"></a><br><span class="top_nav" style="color:#000000">Canadian Orders<br>Are Welcome</span></td>
-
-    <td width="12.5%" align="center" valign="top"><a title="Deal of the Day" href="/dod.cfm"><img width="180" height="70" border="0" class="rollover" title="Deal of the Day" alt="Deal of the Day" src="/prom2011/header/Deal-of-the-Day-2012_up.png"></a></td>
-    <td width="12.5%" align="center" valign="top"><a href="https://www.bbb.org/online/consumer/cks.aspx?ID=104111112205148606" rel="nofollow" target="_blank"><img src="/prom2010/footer/bbb.jpg" border="0"></a><br><br>
-	<!-- START MCAFEESECURE CODE -->
-		<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.stumpsparty.com"><img width="94" height="54" border="0" src="//images.mcafeesecure.com/meter/www.stumpsparty.com/13.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
-	<!-- END MCAFEESECURE CODE --></td>
-    <td width="1%" align="center" valign="top">
-        
-    </td>    
-  </tr>
-</tbody></table>
-    
-    </td>
-  </tr>
-  <tr>
-  	<td height="7"></td>
-  </tr>
-  <tr>
-    <td>
-    
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td align="center"><span class="footer" style="color:#000000">Copyright © 2012 Stump Printing, Inc. All rights reserved.</span></td>
-  </tr>
-
-</tbody></table>
-    
-    </td>
-  </tr>
-</tbody></table></div></td></tr></tbody></table>
-
-	</td>
-</tr>
-</tbody></table>
-
-	</div>
 	
 	
+	
+	<script type="text/javascript">
+	_gaq.push(['_trackPageview']);
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+	</script>
+	
+	
+	
+		<div id="igdRTA">
+		<script type="text/javascript">
+			//iGoDigital RTA Initialization
+			if(_iGoDigital){
+				
+				_iGoDigital.rtaRetailer = 'Stumps';
+				_iGoDigital.rtaCart = '';
+				_iGoDigital.rtaCartAmounts = '';
+				_iGoDigital.rtaCartQuantities = '';
+				_iGoDigital.addLoadEvent(function(){ _iGoDigital.callRTA() });
+			}
+		</script>
+		</div>
 	
 	<script type="text/javascript">
 		lpAddVars('page','ErrorName','No Errors');
@@ -1173,29 +725,4 @@ td.greypod-b {
 	
 	
 	
-	
-
-<script type="text/javascript">
-_gaq.push(['_trackPageview']);
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
-</script>
-
-
-
-	<div id="igdRTA">
-	<script type="text/javascript">
-		//iGoDigital RTA Initialization
-		if(_iGoDigital){
-			
-			_iGoDigital.rtaRetailer = 'Stumps';
-			_iGoDigital.rtaCart = '';
-			_iGoDigital.rtaCartAmounts = '';
-			_iGoDigital.rtaCartQuantities = '';
-			_iGoDigital.addLoadEvent(function(){ _iGoDigital.callRTA() });
-		}
-	</script>
-	</div>
-<div class="anoverlay" id="theoverlay" overlay="&quot;https://web.archive.org/web/20100522122156im_/http://www.stumpsparty.com/graphics/site/overlay/whitesmall.png&quot;" style="display: none; background-image: none;"><div class="close"></div><div class="overlaycontent"></div></div><img src="https://web.archive.org/web/20100522122156im_/http://www.stumpsparty.com/graphics/site/overlay/whitesmall.png" style="border: 0px; position: absolute; width: 460px; display: none;"><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-wishlistcanvas" style="display: none; z-index: 1000; outline: 0px; position: relative;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" unselectable="on"><span class="ui-dialog-title" id="ui-dialog-title-wishlistcanvas" unselectable="on">Wishlist</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on"><span class="ui-icon ui-icon-closethick" unselectable="on">close</span></a></div><div id="wishlistcanvas" class="ui-dialog-content ui-widget-content"></div><div class="ui-resizable-handle ui-resizable-n" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-e" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-s" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-w" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" unselectable="on" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" unselectable="on" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" unselectable="on" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" unselectable="on" style="z-index: 1004;"></div></div><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul><div><img src="//web.archive.org/web/20110306042045/http://collect.igodigital.com/collect/recordWithImage?u=https%3A//web.archive.org/web/20121109034531id_/http%253A//www.stumpsparty.com/servicepage.cfm%253Fpgp%253DSPSECURE&amp;r=&amp;t=Stumps%20Site%20Security&amp;c=&amp;w=&amp;p=&amp;s=&amp;f=&amp;a=&amp;e=&amp;l=&amp;m=&amp;o=&amp;x=&amp;b=&amp;z=&amp;q=&amp;j=&amp;k=&amp;d="></div></body></html>
+	<div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-id-1" style="display: none; outline: 0px; z-index: 1000; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-1" class="ui-dialog-title">Wishlist</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="wishlistcanvas" class="ui-dialog-content ui-widget-content"></div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1000;"></div></div><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-2" tabindex="0" style="z-index: 1; display: none;"></ul><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-3" tabindex="0" style="z-index: 1; display: none;"></ul><div><img src="//web.archive.org/web/20110306042045/http://collect.igodigital.com/collect/recordWithImage?u=https%3A//web.archive.org/web/20130602161931id_/http%253A//www.stumpsparty.com/servicepage.cfm%253Fpgp%253DSPSECURE&amp;r=&amp;t=Stumps%20Site%20Security&amp;c=&amp;w=&amp;p=&amp;s=&amp;f=&amp;a=&amp;e=&amp;l=&amp;m=&amp;o=&amp;x=&amp;b=&amp;z=&amp;q=&amp;j=&amp;k=&amp;d="></div></body></html>
