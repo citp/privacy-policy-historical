@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the americanstandard-us.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230200819id_/http%3A//www.americanstandard-us.com/legal.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanstandard-us.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602033730id_/http%3A//www.americanstandard-us.com/legal.aspx) for the most accurate reproduction.*
 
-# American Standard - Legal
+# American Standard
 
 ### American Standard Brands Privacy Policy
 
@@ -68,7 +68,7 @@ American Standard may also collect anonymous information concerning website user
 
 American Standard uses one or more companies to place advertisements for our products and services and those of third parties on our Site and third-party sites. Cookies and other technologies such as Web beacons or tags are used to measure the effectiveness of our ads and to determine the display of content and advertising to you based on your interests both on our site, as well as on third-party sites where you may visit. To support this interest based advertising solution, we, and companies who we have contracted with, may use anonymous information about your visits to our and other Web sites. The information collected and used by this process is always anonymous, and does not enable any third-party to identify you individually. 
 
-Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered through these solutions, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by clicking [ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). 
+Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered through these solutions, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by clicking <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 Few, if any, of American Standard's websites are directed toward children. Nevertheless, American Standard is committed to complying with applicable laws and requirements, such as the United States' Children's Online Privacy Protection Act ("COPPA"). American Standard website users have the option to request that American Standard not use information previously provided, correct information previously provided, or remove information previously provided to American Standard. Those that would like to correct or suppress information they have provided to American Standard should forward such inquiries to: 
 
