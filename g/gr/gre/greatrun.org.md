@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greatrun.org privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227141733id_/http%3A//greatrun.org/Terms/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatrun.org privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602220615id_/http%3A//www.greatrun.org/Terms/Privacy.aspx) for the most accurate reproduction.*
 
-# Great Run Privacy and Cookie Policy
+# Privacy | Bupa Great Run
 
 ###  1\. INTRODUCTION
 
