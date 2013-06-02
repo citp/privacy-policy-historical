@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fox13now.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203194354id_/http%3A//fox13now.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox13now.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602152231id_/http%3A//fox13now.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FOX13Now.com – Salt Lake City, Utah News & Weather from KSTU Television FOX 13
+# Privacy Policy | FOX13Now.com
 
 **PRIVACY POLICY**
 
