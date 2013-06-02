@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the playstudios.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110202906id_/http%3A//playstudios.com/playstudios-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playstudios.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602205138id_/http%3A//playstudios.com/playstudios-privacy-policy) for the most accurate reproduction.*
 
 # Qurious, Inc. and <strong>PLAY</strong>STUDIOS Privacy Policy | myVEGAS
-
-YOU ARE PARTICIPATING IN A BETA TRIAL OF THE VIVA MYVEGAS SERVICE. ANY ITEMS THAT YOU ACQUIRE THROUGH OR DURING THE BETA TRIAL MAY BE LOST AT THE END OF THE BETA TRIAL. WE WILL RETAIN, HOWEVER, ANY INFORMATION, INCLUDING PERSONAL INFORMATION, THAT WE COLLECT FROM YOU DURING THE BETA TRIAL. 
 
 Qurious, Inc. and/or **PLAY** STUDIOS, Inc. ("Qurious", " **PLAY** STUDIOS","we" "us" or "our") values your privacy and is committed to protecting your personal information. In this Privacy Policy ("Privacy Policy"), we describe the information collection, use, and disclosure practices of our Service and our Application, and the services offered on each (collectively, "Services"). By using any of our Services or visiting our Service or Application, you consent to the collection, storage, use and disclosure of your personal information as described in this Privacy Policy, which is incorporated by reference into the Qurious and **PLAY** STUDIOS Terms of Service. 
 
