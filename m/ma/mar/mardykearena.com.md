@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mardykearena.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105071517id_/http%3A//www.mardykearena.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mardykearena.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602081101id_/http%3A//www.mardykearena.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Mardyke Arena Health & Leisure Centre Cork :: Privacy Policy
 
@@ -36,3 +36,6 @@ We will not disclose your Personal Data to third parties unless you have consent
 ## 5\. Sale of Business
 
 We reserve the right to transfer information (including your Personal Data) to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of our company provided that the third party agrees to adhere to the terms of the Website Privacy Policy and provided that the third party only uses your Personal Data for the purposes that you provided it to us. You will be notified in the event of any such transfer and you will be afforded an opportunity to opt-out.
+
+  
+
