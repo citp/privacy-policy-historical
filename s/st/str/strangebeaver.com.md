@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the strangebeaver.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202023132id_/http%3A//www.strangebeaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strangebeaver.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602044338id_/http%3A//www.strangebeaver.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Strange Beaver
-
-Posted on May 30th, 2012 
+# Privacy Policy
 
 StrangeBeaver.com and it’s affiliates will, under no circumstances, share your personal information with any other entity. Personal information including, but not limited to, e-mail address, postal mailing address and phone numbers, are only for the purpose of communicating with StrangeBeaver.com staff and you. Some companies try to sell mailing lists to make extra cash and since that’s a total dick thing to do we won’t share your information. 
 
