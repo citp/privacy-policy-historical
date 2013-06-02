@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luceosolutions.com privacy policy that was archived on 2012-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120818113823id_/http%3A//www.luceosolutions.com/page.php%3Fpname%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luceosolutions.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602191311id_/http%3A//www.luceosolutions.com/index.php%3Fpname%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Luceo Solutions | Recruitment Software | Applicant Tracking System
 
