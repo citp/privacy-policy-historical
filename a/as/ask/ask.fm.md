@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ask.fm privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214123325id_/http%3A//ask.fm/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask.fm privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602092142id_/http%3A//ask.fm/about/privacy) for the most accurate reproduction.*
 
 # Ask.fm
 
@@ -6,11 +6,11 @@ By using the ask.fm service you agree to be bound by the following Privacy Polic
 
 Summary
 
-Ask.fm respects each individual’s right to personal privacy. This Privacy Policy is designed to assist you in understanding how ask.fm will collect, use and safeguard any personal information you provide. We will collect and use information only in the ways disclosed in this statement. This policy will be continuously assessed against new technologies, business practices and our users’ needs, so please refer back to it periodically. You will always find the latest version posted here. 
+Ask.fm respects each individual's right to personal privacy. This Privacy Policy is designed to assist you in understanding how ask.fm will collect, use and safeguard any personal information you provide. We will collect and use information only in the ways disclosed in this statement. This policy will be continuously assessed against new technologies, business practices and our users' needs, so please refer back to it periodically. You will always find the latest version posted here. 
 
 Security
 
-Ask.fm has implemented processes intended to protect user information and maintain security of data. Each account holder is assigned a unique user name and password, which is required to access their account. It is your responsibility to protect the security of this login information. We have attempted to protect ask.fm’s servers by locating them in areas with security procedures, use of firewalls and implementing other generally available security technologies. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of data, but no guarantee can be made that you information and data will be secure from intrusions and unauthorized release to 3rd parties. 
+Ask.fm has implemented processes intended to protect user information and maintain security of data. Each account holder is assigned a unique user name and password, which is required to access their account. It is your responsibility to protect the security of this login information. We have attempted to protect ask.fm's servers by locating them in areas with security procedures, use of firewalls and implementing other generally available security technologies. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of data, but no guarantee can be made that you information and data will be secure from intrusions and unauthorized release to 3rd parties. 
 
 Account information
 
@@ -26,7 +26,7 @@ However, any information collected by ask.fm may be shared if it is necessary to
 
 Cookies
 
-A "cookie" is a small text file containing a unique identifier that our web server sends to a user’s browser, and may be stored on a user’s hard drive. Cookies are required to use ask.fm service. If you have your browser set to reject cookies, your use of the ask.fm service is likely to be interrupted. The cookies we use are not permanent. 
+A "cookie" is a small text file containing a unique identifier that our web server sends to a user's browser, and may be stored on a user's hard drive. Cookies are required to use ask.fm service. If you have your browser set to reject cookies, your use of the ask.fm service is likely to be interrupted. The cookies we use are not permanent. 
 
 Behavioral advertising
 
@@ -34,8 +34,16 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 Third-party websites
 
-Ask.fm is not responsible for the practices employed by websites linked to or from the ask.fm website, nor the information or content contained therein. When you use a link from the ask.fm website/service to another website, our Privacy Policy is no longer in effect. Browsing and interaction on any other website, including websites which have a link to the ask.fm website, is subject to that website’s own rules and policies. 
+Ask.fm is not responsible for the practices employed by websites linked to or from the ask.fm website, nor the information or content contained therein. When you use a link from the ask.fm website/service to another website, our Privacy Policy is no longer in effect. Browsing and interaction on any other website, including websites which have a link to the ask.fm website, is subject to that website's own rules and policies. 
 
 Your replies are publicly viewable data
 
 Your replies to questions submitted via ask.fm will be published to other websites. You are responsible for what gets published. Whatever you enter into the ask.fm reply box will be published and could be publicly viewable immediately upon your clicking the submit button. 
+
+Changes
+
+Ask.fm reserves the right to modify this privacy policy at any time, so please review it frequently. 
+
+Terms of service
+
+Your use of the ask.fm service is governed by our [Terms of service](https://web.archive.org/about/tos). 
