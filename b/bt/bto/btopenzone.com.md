@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btopenzone.com privacy policy that was archived on 2012-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120928033311id_/http%3A//btwifi.co.uk/terms-and-conditions/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btopenzone.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602161226id_/http%3A//btwifi.co.uk/terms-and-conditions/privacy-policy.jsp) for the most accurate reproduction.*
 
 # BT Websites Privacy & Security Policy | BT Wi-fi
 
@@ -19,9 +19,10 @@ We have developed this policy because we want you to feel confident about the pr
   * 13 How do we protect your personal information?
   * 14 How do you find out about changes to our privacy policy? 
   * 15 Does BT's privacy policy protect me when I use BT's websites? 
-  * 16 When do we use cookies? 
-  * 17 How do you disable cookies? 
-  * 18 Are third party sites covered by this policy? 
+  * 16 What are cookies? 
+  * 17 Your consent to use cookies 
+  * 18 How do you disable cookies?
+  * 19 Are third party sites covered by this policy? 
 
 
 
@@ -146,7 +147,7 @@ If you want specific information i.e.:-
 
 
 
-then you must contact [Customer Services](https://web.archive.org/web/20120928033311id_/http%3A//btwifi.co.uk/contact/index.jsp "Customer Services").
+then you must contact [Customer Services](https://web.archive.org/web/20130602161226id_/http%3A//btwifi.co.uk/contact/index.jsp "Customer Services").
 
 If you are asking for a full subject access request then put your request in writing, enclosing a cheque for £10 made payable to BT plc and send to British Telecommunications PLC, PP M3042 DSAR, Colindale House, The Hyde, Colindale, London NW9 6LB.
 
@@ -225,26 +226,29 @@ If you do either of these, your personal details will be deleted from our websit
 
 Back to top
 
-### 16 When do we use cookies?
+### 16 What are cookies?
 
-A "cookie" is a text file which is allocated by our server to your personal computer (PC) when you visit our website. If you want to know more about cookies please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org") which explains how cookies work and how you can manage their use. We use "cookies" to collect information from visitors to our websites and registered customers.  
-Our servers use two different types of cookies. The first type is known as a "session-based" cookie and is allocated to your PC only for the duration of your visit to our website. It helps you to move around the website faster. This cookie automatically expires when you close down your browser.  
-The second type of cookie known as a "persistent" cookie is allocated to your PC only if you agree by selecting the "Remember me" function. This cookie, if chosen, will remain on your PC for a period of time.  
-This cookie allows us to: 
+A "cookie" is a text file containing small amounts of information which a server downloads to your personal computer (PC) or mobile when you visit a website. The server then sends a cookie back to the originating website each time you subsequently visit it, or if you visit another website which recognises that cookie. 
 
-  * welcome you as an individual when you log on to our website 
-  * limit how often you see particular advertisements or announcements on our website 
-  * track where you have come from if you have come to our website from another website 
-  * track how many times you visit a page or advertisement
+There are different types of cookies which are used to do different things, such as letting you navigate between different pages on a website efficiently, remembering preferences you have given a website, and improving your overall experience. Others are used to provide you with advertising which is more tailored to your interests, or to measure the number of site visits and the most popular pages users visit.
 
+Some cookies are allocated to your PC only for the duration of your visit to a website, and these are called session based cookies. These automatically expire when you close down your browser.
 
+Another type of cookie known as a "persistent". These cookies would remain on your PC for a period of time.
 
-We do not store information regarding your telephone number, account or payment details in the cookie, and this information cannot be accessed using it.   
-Please note that as the cookie is based on your PC, we will not find it if you visit our websites using a different PC to the one you registered on. 
+If you want to know more about cookies please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/) which explains how cookies work and how you can manage their use. 
 
 Back to top
 
-### 17 How do you disable cookies?
+### 17 Your consent to use cookies
+
+Cookies are essential for helping us deliver a high quality online experience for our customers. By using our website, you consent to us using cookies in accordance with this Privacy Policy. If you would prefer us not to use cookies then you can disable the cookies using the instructions set out below or opt not to use our website.
+
+However, disabling your cookies may prevent us from delivering some or all of our online services to you. 
+
+Back to top
+
+### 18 How do you disable cookies?
 
 All types of cookies can be removed from your PC but there may be some deterioration in the service you receive (for example, you may receive many pop up boxes containing the same advertisements or you may not be able to access a page you earlier personalised).  
 Your browser lets you choose whether to accept, not to accept or to be warned before accepting cookies. These settings can be found in the advanced preferences  
@@ -256,7 +260,7 @@ For removing the "Remember me" cookie, just deselect the box when you sign in.
 
 Back to top
 
-### 18 Are third party sites covered by this policy?
+### 19 Are third party sites covered by this policy?
 
 Third party Internet sites that you can link to from BT´s websites are not covered by our privacy policy, so we urge you to be careful when you enter any personal information online. BT accepts no responsibility or liability for these sites.  
 Other companies which advertise or offer their products or services on our website may also allocate cookies to your PC. The types of cookies they use and how they use the information generated by them will be governed by their own privacy policies and not ours. 
