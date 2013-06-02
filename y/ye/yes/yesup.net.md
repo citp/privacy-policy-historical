@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesup.net privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625075213id_/http%3A//www.yesup.net/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesup.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602215824id_/http%3A//www.yesup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YesUp Ecommerce Solutions Inc.
 
@@ -12,7 +12,7 @@ Your browser offers so-called “cookies”, which – if you allow their use �
 
 ## We may use cookies to:
 
-::Save your password so you don’t have to re-enter it each time you visit our sites.
+Save your password so you don’t have to re-enter it each time you visit our sites.
 
 We do not use cookies to identify, monitor or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties. You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. For more information on how to modify your browser settings to block or filter cookies, see http://www.cookiecentral.com/faq/.
 
@@ -22,8 +22,8 @@ However, note that if you reject some or all cookies, your experience at our sit
 
 While we use cookies in other parts of our Web site, cookies received with the payment processes are placed by our Payment Services provider. We do not have access to these cookies or any information that they may contain; please contact the Payment Services provider for more information on these cookies.
 
-  * PayPal.com: <http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside>
-
+  * PayPal.com:  
+<http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside>
 
 
 
