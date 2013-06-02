@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnfinancialeducation.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028192921id_/http%3A//learnfinancialeducation.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnfinancialeducation.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602075045id_/http%3A//learnfinancialeducation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ A cookie is a piece of data stored on the user’s computer tied to information 
 This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our visitors and users to be aware when they leave our site and to read the privacy statements of each and every website that collects personal information. This privacy statement applies solely to information collected by this site.
 
 **Advertisers**  
-We use advertisement companies to display ads on our site. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. I work with the following ad companies: Google Adsense and Infolinks. Please check their websites for respective privacy policies.
+We use advertisement companies to display ads on our site. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. I work with the following ad companies: Google Adsense. Please check their websites for respective privacy policies.
 
 **Contact Information**  
 If users have any questions or suggestions regarding my privacy policy, please contact me by sending email to: _**gil@learnfinancialeducation.com**_.   Thanks!  
