@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the girlscouts.org privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122204703id_/http%3A//www.girlscouts.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlscouts.org privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602181452id_/http%3A//girlscouts.org/privacy.asp) for the most accurate reproduction.*
 
-# Girl Scouts of the USA: Privacy Policy
+# Girl Scouts: Privacy Policy
 
 Privacy Policy
 
