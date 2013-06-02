@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the designspark.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920034221id_/http%3A//www.designspark.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designspark.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602173254id_/http%3A//designspark.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DesignSpark
+# Privacy Policy » DesignSpark
+
+
+
 
 **We are committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated when you use or register with DesignSpark.**
 
@@ -101,9 +104,10 @@ NN17 9RS.
 
 or by telephone to 01536 201234
 
-RS Components Ltd is notified under the Data Protection Act 1998. ** **
+**   
+** RS Components Ltd is notified under the Data Protection Act 1998. ** **
 
 **Electrocomponents Group plc**    
 Electrocomponents plc is the publicly quoted parent company which owns RS Components. For full details of the Electrocomponents Group of companies, please click on the blue link. When we refer to "we" "our" or "us" we mean Electrocomponents plc and each of its group companies.
 
- 
+[Like this](https://web.archive.org/likes/add/4442)
