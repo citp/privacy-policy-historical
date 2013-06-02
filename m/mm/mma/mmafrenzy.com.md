@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mmafrenzy.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120232954id_/http%3A//www.mmafrenzy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmafrenzy.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603002324id_/http%3A//www.mmafrenzy.com/privacy-policy) for the most accurate reproduction.*
 
-# MMAFrenzy.com Privacy Policy - MMAFrenzy.com
+# MMAFrenzy.com Privacy Policy - MMAFrenzy.com | RM Sports
 
 **MMAFrenzy.com Privacy Policy** [Last updated May 20, 2011]
 
