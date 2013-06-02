@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shrinkonce.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014123554id_/https%3A//shrinkonce.com/index.php%3Fmenu%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shrinkonce.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602220328id_/https%3A//shrinkonce.com/index.php%3Fmenu%3Dprivacy) for the most accurate reproduction.*
 
-# Shrink Once - Privacy
+# ShrinkOnce.com - Privacy
 
 **What information do we collect?**
 
