@@ -1,157 +1,113 @@
-> *The following text is extracted and transformed from the dickssportinggoods.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106235000id_/http%3A//www.dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26ab%3DFooter_Know_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickssportinggoods.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602183952id_/http%3A//www.dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26ab%3DFooter_Know_PrivacyPolicy) for the most accurate reproduction.*
 
-# Dick's Sporting Goods
+# Dick’s Sporting Goods – Official Site – Every Season Starts at Dick’s
 
-Below are the respective privacy policies for the store area and the SportSpace Community area of the Dick's Sporting Goods Web site. Please note that different privacy policies apply with respect to each of these areas of this Web site. To view the privacy policy for information collected through the store area of this Web site, click here. To view the privacy policy for information collected through the SportSpace Community area of this Web site, click here.
+**PRIVACY POLICY**  
+Updated As of January 16, 2013
 
-**_PRIVACY POLICY FOR THE STORE AREA_**
+_**Introduction**_
 
-_Updated January 2009_
+DICK'S Sporting Goods, Inc. and its [_**Family of Businesses**_](http://www.dickssportinggoods.com/shop/index.jsp?categoryId=18379836&ab=PrivacyPolicy_FamilyOfBusinesses) (collectively, " _DICK'S_ ") provide this privacy policy (this " _Policy_ ") to inform you of: (1) the types of information we collect; (2) your choices surrounding such information; and (3) how we collect, use, share, update and protect such information. This Policy applies to customer information obtained in connection with DICK'S operations at or through our websites, our mobile sites, our social media presence, our mobile applications, and our stores. For purposes of this Policy, our websites, our mobile sites, our social media presence and our mobile applications are referred to collectively as, our " _Websites_." Emails, social media, online marketing campaigns and online internet-based advertising are collectively referred to as, our " _Internet Marketing Channels_."
 
-Dick's Sporting Goods, Inc. ("DSG") has created this privacy policy to inform you of the information gathering and dissemination practices for the store area of this Web site (the "Web Store"). DSG wants to demonstrate our commitment to your privacy, by notifying you of:
+DICK'S is committed to maintaining your privacy, providing you with information and choices, and permitting you opportunities to correct inaccuracies. If, after reading this Policy, you have questions, comments or concerns, please use the "Contact Customer Service" link below.
 
-  1. What personally identifiable information of yours is collected through the Web Store;
-  2. The organization collecting the information;
-  3. How the information is used;
-  4. With whom the information may be shared;
-  5. What choices are available to you regarding collection, use and distribution of the information;
-  6. The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under DSG's control; and
-  7. How you can correct any inaccuracies in the information.
+_**Information We Collect**_
 
+With the goal and intention of providing you products and services, and of improving your overall experience, we receive, collect and store information in a variety of ways, including when you visit our Websites or provide information to us. We may also collect information when you: (1) open an account with us; (2) utilize our services; (3) apply for a credit card; (4) make a purchase; (5) apply for a license ( _e.g._ , hunting, fishing, etc.) or conduct a similar transaction; (6) contact us via any customer service method; (7) submit any user-generated content (via our Websites or otherwise); (8) participate in customer research, surveys, sweepstakes or promotions; or (9) otherwise communicate information to us.
 
+Some of the information we collect is considered " _Personal Information_." Personal Information includes your name, mailing address, e-mail address, driver's license number, social security number, credit/debit card information (and related payment information) and/or telephone number. We also may collect other information such as permit number(s), credit application information and demographic/lifestyle information (including date of birth, personal interests and product/buying preferences).
 
-If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email at [customersupport@dickssportinggoods.com](mailto:customersupport@dickssportinggoods.com%20?%20subject=Privacy%20Policy%20Questions) or by phone at 1.877.846.9997.
+The collection of certain types of Personal Information may be necessary and/or required for governmental compliance ( _e.g._ , hunting, fishing or firearms licensing or purchasing).
 
-**Visiting the Web Store**
+Additionally, we may receive, collect and or store Personal Information and other information you provide on behalf of third parties, or third parties provide behalf of you, relating to gift recipients, online registrations, in-store pick-up or registries. We may also receive, collect and store Personal Information and other customer information from sources assisting us with updating, improving and/or analyzing our record or detecting fraud or theft. Additionally, we may receive, collect and store information from various consumer reporting agencies and related service providers.
 
-Your IP address, browser and reference site domain name are logged every time you visit the Web Store. This data is used strictly for the analysis of load information and maximizing the efficiency of our servers. Except as provided in this privacy policy, we will not share this data with anyone in any way.
+We may also receive, collect and store " _Automated Information_ " through Cookies (as defined below), Web Beacons (as defined below) and other related automated means. " _Cookies_ " are small text files sent to your device as you visit our Websites or utilize our Internet Marketing Channels and saved on your device via your browser or hard drive. We then use Information Technologies (as defined below) to recognize you and your preferences as you return to our Websites or utilize our Internet Marketing Channels. " _Web Beacons_ " (also known as pixel tags) are a form of tracking technology placed within our Websites and our Internet Marketing Channels to monitor and track your visits to certain pages within our Websites, and your interaction with (and the effectiveness of) our Internet Marketing Channels.
 
-**Using Cookies**
+Automated Information we collect via Cookies, Web Beacons and other related methods (collectively, " _Information Technologies_ ") includes information such as internet protocol address(es), operating system(s) and browser specifics of your device, device characteristics, geographic information, user id(s), and specifics regarding your interactions with ( _i.e._ , the path your device takes through) our Websites and our Internet Marketing Channels.
 
-"Cookies" are files stored on your computer's hard drive by your browser. These cookies help us identify our account holders and optimize their shopping experience. They do not include any data that will identify you personally. They will, however, allow you to use some specialized features of the Web Store. Cookies also allow us to hold selections in your shopping cart when you leave the Web Store without checking out. Most browsers accept cookies automatically, but allow you to disable them if you wish.
+Automated Information enables the tailoring of advertisements and offers specifically for you. In addition to such tailoring, we are interested in Automated Information to ensure that our mobile and/or online presence operates properly and efficiently for you and for your individual customer experience, to evaluate the use and benefit of such presence, and to support our Websites and our Internet Marketing Channels.
 
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here.](http://www.networkadvertising.org/optout_nonppii.asp)
+_**Your Choices**_
 
-**Ordering from the Web Store**
+We use, collect and disclose your information consistent with this Policy, as updated from time to time, and you consent to such use, collection and disclosure by your use of our: (1) Websites; (2) Internet Marketing Channels; (3) marketing campaigns; and (4) marketing programs ( _e.g._ , loyalty programs).
 
-When you order from the Web Store, we need your name, email address, shipping address, phone number and credit card number/expiration date. We use this data to process your order, ship it and send you order and shipping confirmations via email. Except as provided in this privacy policy, we will not sell, rent, or disclose this data to any third party without your consent. (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a customer.)
+You may unsubscribe to future e-mail communications by clicking on the unsubscribe link in our e-mail communications. In addition, you may use the methods set forth in the "Contact Customer Service" link below to opt-out or update certain preferences. Regardless of your decision to opt-out of future e-mail communications, we may still contact you regarding transactions and for transactional purposes ( _e.g._ , recalls, product information and service/reminder notices).
 
-From time to time, we may use the purchases you make to customize our product recommendations. We also track customer traffic patterns and site usage. Traffic and usage data is used only to improve our site's design and provide our customers with a fulfilling shopping experience.
+Based upon your browsing history with us and with other online sites, we may personalize your experience via our Websites and via our Internet Marketing Channels. However, you have choices relating to how your device interacts with our Websites and our Internet Marketing Channels. You can choose to access our Websites without accepting Information Technologies to your  
+device(s), and you can opt-out or modify certain elements of our Websites ( _e.g._ , location services) and our Internet Marketing Channels (that are tailored specifically to you and served to you based upon your browsing history). If you choose to so restrict, you may access our Websites, but you will NOT be able to take full advantage of certain Website features. Please note, even if you opt-out of certain online, internet-based advertising, you may still see or receive DICK'S advertisements on our Websites and other sites, but such advertisements will not be based upon your browsing history.
 
-**Opening a Web Store account**
+Additionally, we belong to various advertising networks that utilize your browsing history across various and participating sites to serve you DICK'S advertisements on such sites. We do not permit such networks to provide your browsing history (including your shopping behavior) on any of our Websites to any other site. To learn more about your options relating to this matter, including how to opt-out of this category of advertising, please [_**click here**_](http://www.aboutads.info/).
 
-We require your name, billing address, shipping address, email address and telephone number to open an account for you. We may also ask some additional optional questions to help us better serve you. Except as provided in this privacy policy, this account data is never shared with anyone in any way without your consent. (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a customer.) You can correct account data by clicking on "Manage My Account" within the Help Desk area of the Web Store.
+_**How We Use**_
 
-We may contact you about sales, special discount offers and new site features. If at any time you decide you do not want to receive email updates, you can unsubscribe from any promotional email we send you, send an email to [customersupport@dickssportinggoods.com](mailto:customersupport@dickssportinggoods.com) or call us toll-free at 1.877.846.9997 and inform us that you want to unsubscribe from our email list.
+We do not sell, rent or trade your Personal Information to third parties. We use your information in numerous ways, including:
 
-**Customer Service**
+  1. Fulfilling, delivering and communicating regarding your orders for products and/or services;
+  2. Maintaining our loyalty programs, including the ScoreCard and the Advantage Club;
+  3. Processing credit card applications and payments;
+  4. Administering surveys, sweepstakes, contests or promotions;
+  5. Registering and servicing your account(s);
+  6. Providing customer service;
+  7. Conducting research and analysis;
+  8. Alerting you to product, service and promotional information, including product recalls;
+  9. Helping us to improve, customize and advance our products and services, Websites, Internet Marketing Channels, mailing or marketing campaigns; and
+  10. Protecting the security and integrity of our stores, Websites, Internet Marketing Channels and overall business practices.
 
-In addition to being able to call our customer service department, you may also email us at [customersupport@dickssportinggoods.com](mailto:customersupport@dickssportinggoods.com%20?%20subject=Privacy%20Policy%20Questions). When you email us, your emails are stored within our system so that we may refer to previous emails from you as needed so that we may properly address your questions and concerns. Except as provided in this privacy policy, the information you provide to our customer service department is not shared with anyone without your consent.
 
-**Entering contests/sweepstakes**
 
-Whenever we run a contest or sweepstakes relating to the Web Store, it will be accompanied with the rules of the contest/sweepstakes. We will also detail how the information gathered from you for entry into the contest/sweepstakes will be used. Additionally, we will post if this information will be shared with anyone in addition to those persons and entities provided for in this privacy policy, such as a third party sponsoring or managing the contest/sweepstakes.
+In doing so, we:
 
-We may also contact you with promotional offers if you have entered one of our contests or sweepstakes. If you choose not to receive this free service when you enter a contest or sweepstakes, it will not affect your chances of winning. You can also opt out of this free service by unclicking the "I would like to receive emails about special promotions" box associated with each contest or sweepstakes, replying to any email or notifying us that you want to unsubscribe to our free email services via email [customersupport@dickssportinggoods.com](mailto:customersupport@dickssportinggoods.com%20?%20subject=Privacy%20Policy%20Questions) or telephone 1.877.846.9997.
+  1. May combine certain Personal Information, customer information and Automated Information collected online and offline, including information collected from third parties;
+  2. May transfer or disclose such information within our [_**Family of Businesses**_](http://www.dickssportinggoods.com/shop/index.jsp?categoryId=18379836&ab=PrivacyPolicy_FamilyOfBusinesses), including affiliates and subsidiaries; and
+  3. Will retain such information as needed to provide you products/services, comply with our legal obligations, resolve disputes, and enforce our agreements as we deem reasonably necessary.
 
-**Customer Feedback Form**
 
-You can use this form to give us any input which we will use to improve the Web Store. The only required data is your name and email address. The remainder of the data is optional. We only use this data to make improvements on the Web Store. Except as provided in this privacy policy, this data is not shared with anyone in any way.
 
-**Our Third Party Relationships**
+_**How We Share**_
 
-We have established several relationships with third parties vendors to best serve our customers.
+We may share information:
 
-    
+  1. With third party businesses and service providers that assist with our business operations, such as shipping vendors, billing vendors, payment card processors, marketing and research vendors and various companies that work with us to improve or provide our products and services and our data integrity. We do require that such providers keep your Personal Information safe, secure and private, and we require that they not use or disclose your Personal Information for any purpose other than providing the applicable services to us, to you or on our behalf;
+  2. As we deem necessary, in the event (or partial event) of a corporate sale (asset or stock), merger, reorganization, change in corporate control, acquisition, insolvency, bankruptcy or similar event;
+  3. Specifically, certain Personal Information, in connection with various co-branded, warranty, delivery/assembly and/or financial products or services, including our private label credit card(s);
+  4. To comply with applicable law or reasonable request based upon governmental regulation, court order, subpoena or similar related action; and
+  5. As we deem necessary to protect the rights, property or safety of DICK'S, our customers, our associates or others, and to prevent harm or loss or in connection with an investigation or suspected or actual unlawful activity.
 
-  1. **Web Store Operation:** GSI Commerce Solutions, Inc. ("GSI") operates the Web Store pursuant to agreements with DSG. Pursuant to such agreements, GSI is authorized to use personal information collected through the Web Store in connection with the services they are engaged to perform. 
-  2. **Affiliates:** From time to time we may establish an affiliate program. An affiliate program allows other Web sites to earn money by linking customers to the Web Store from their sites. These affiliates can only access data about the number of transactions and their resulting earnings. They cannot access our customers' personal data. If you choose to apply to any of our affiliate programs, we use the data you give us strictly for conducting business with you. We have entered into certain agreements with certain third parties for the purpose of helping to administer the affiliate programs. Such third parties may have access to certain of your information if you are an affiliate of the Web Store but is restricted to only use such information in connection with its administration of the affiliate programs. 
-  3. **Order Fulfillment and Customer Service:** GSI and certain other vendors of ours may provide customer order fulfillment and shipping services, as well as customer service, on our behalf. These vendors have access only to information needed to accurately fulfill and ship orders which are processed through such vendors, and to provide customer service. These vendors have agreed to not use any personally identifiable information of customers for any other purpose. 
-  4. **Credit Card Processing:** We use Chase Merchant Services L.L.C. to process credit card orders. We supply them with data for credit card authorization and fraud detection only and they are restricted from using the data for any other purposes. 
-  5. **Marketing and Promotions:** From time to time, we may engage GSI or certain other third parties to assist in the dissemination of marketing and promotional offers (i.e. e-mails) to those customers who have agreed to receive such offers. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose. 
-  6. **Additional Third Party Relationships:** From time to time, DSG may engage other third parties to assist in providing marketing, order processing, fulfillment and shipping services, as well as customer service. In addition, GSI or DSG may engage third parties to provide services such as fraud protection and credit risk reduction, product customization, data analysis and data cleansing. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services. Also, you permit us to share your personal information in response to a court order, subpoena, government investigation, or as otherwise required by law. And, we may transfer your personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event.
 
 
+_**How We Update**_
 
-Additionally, we may share non-personal, non-individual statistical information with our marketing partners, advertisers or other third parties for research purposes. That is, we will not tell our marketing partners that you purchased a specific product, but we may tell them how many customers purchased that product.
+For certain types of information, we may offer you a variety of ways to access or update such information:
 
-**Security Policy**
+  1. If you have a DICK'S account, log-in to such account via one of our Websites. After securely entering your account, you can easily update your name, e-mail address, password, loyalty card information, billing/shipping address, etc. by entering or revising the information as reflected therein, or you may close your account(s) and request that we no longer use your information to provide you services or products; and
+  2. Additionally, utilize the "Contact Customer Service" link at the bottom of any of our Websites. This link will provide you the opportunity to contact DICK'S via phone, e-mail or U.S. postal mail. Please provide your current and complete contact information with these requests.
 
-We use Secure Socket Layer (SSL) encryption technology to protect your personal information. The only time you are required to sign on the Web Store is when you are making a purchase. On the Checkout page, you will be asked to access your existing account or create a new one. Existing account holders are prompted for their ID (your email address) and password. This password is for your protection. If you don't have your password, there is a link that reads "Lost your password?" Click on this for instructions on how to get your password. 
 
-**Changes to Privacy Policy**
 
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on the Web Store notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+Please note:
 
-**Questions about our Policies**
+  1. We may refuse requests that are unreasonably repetitive, require disproportionate technical efforts, risk the privacy of others or are extremely impractical;
+  2. After closing your account(s), or updating or revising any information within your account(s) or any Information Technologies associated with your device(s), we may not delete residual copies from our servers and may not remove information from our back-up system(s); and
+  3. Closing or updating information relating to one DICK'S account ( _e.g._ , a DICK'S online shopping account) does not guarantee the closing or updating of a separate and different DICK'S account ( _e.g._ , a Golf Galaxy shopping account or a DICK'S loyalty card account). If you desire to close or update multiple DICK'S accounts, please log-in to each specific account to do so, or please contact the correct and applicable Customer Service department associated with each such account.
 
-If you have any questions regarding your privacy or any of our policies, please contact our Customer Service Department by email at [customersupport@dickssportinggoods.com](mailto:customersupport@dickssportinggoods.com%20?%20subject=Privacy%20Policy%20Questions) or by phone at 1.877.846.9997.
 
-**_PRIVACY POLICY FOR THE SPORTSPACE COMMUNITY AREA_**
 
-_Effective January 2009_
+In our efforts to provide accurate and complete information, we do utilize third party entities to assist us with updating and maintaining current contact information ( _e.g._ , National Change of Address or NCOA).
 
-**PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THE SPORTSPACE COMMUNITY AREA OF THIS WEB SITE.**
+_**How We Protect**_
 
-The SportSpace Community area of this Web site (the "SportSpace Community Web Site") is provided by Dick's Sporting Goods, Inc. ("DSG"). By using the SportSpace Community Web Site, you (or "User") are agreeing to comply with and be bound by the following privacy policy terms and conditions (the "Privacy Policy"). If you do not wish to accept these terms, you should not review information or obtain services from the SportSpace Community Web Site. DSG has created this privacy policy to inform you of the information gathering and dissemination practices for the SportSpace Community Web Site. DSG hereby notifies you of the following:
+Regardless of whether you are shopping or utilizing our services online, via a mobile device or in our stores, we make securing your information a priority, take reasonable measures to protect the confidentiality of your information and appropriately limit third party access to such information.
 
-  1. What personally identifiable information is collected through the SportSpace Community Web Site; 
-  2. The organization collecting the information; 
-  3. How the information is used; 
-  4. With whom the information may be shared; 
-  5. What choices are available regarding collection, use and distribution of the information; 
-  6. The kind of security procedures that are in place to protect against the loss, misuse or alteration of information; and 
-  7. How you can correct any inaccuracies in the information. 
+We use a variety of security measures to protect your online transactions with us. Our Websites utilize encryption technology, including Secure Sockets Layer, to protect your information that we transport across the internet. Your personal online and mobile account(s) with us are protected via password protection and accessed online via such password. We comply with industry standards relating to safeguards for handling and securing customer payment information provided during payment card transactions.
 
+Additionally, we use a variety of security measures to protect your information that we maintain at our facilities. Such information is subject to physical, administrative and technical controls.
 
+Our Websites are "general audience" websites and not geared toward children. In order to protect the privacy of children, our Websites do not knowingly collect Personal Information from children under the age of 13 without express parental consent. If you are a parent or guardian and think we have unauthorized information about your child who is under the age of 13, please use the "Contact Customer Service" link below.
 
-**Visiting the SportSpace Community Web Site**
+_**Miscellaneous**_
 
-Your IP address, browser and reference site domain name are logged every time you visit the SportSpace Community Web Site. This data is used strictly for the analysis of load information and maximizing the efficiency of our servers. Except as provided in this privacy policy, we will not share this data with anyone in any way.
+_Third Party Links_. Our Websites and our Internet Marketing Channels may link to other sites, many of which have their own privacy policies that we do not control. Be sure to review these privacy policies when visiting such sites. We are not responsible for such third parties' sites.
 
-**Using Cookies**
+_Privacy Policy Updates_. As we grow, develop and change, we may, from time to time, need to update and revise this Policy. Please periodically check this Policy for any updates or revisions.
 
-"Cookies" are files stored on your computer's hard drive by your browser. These cookies help us identify our account holders and optimize their SportSpace Community Web Site experience. They do not include any data that will identify you personally. They will, however, allow you to use some specialized features of the SportSpace Community Web Site. Most browsers accept cookies automatically, but allow you to disable them if you wish.
-
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
-
-**Opening a SportSpace Community account**
-
-To obtain a User account for the SportSpace Community Web Site, you will be asked to provide certain personally identifiable information such as your name, email address, mailing address, time zone, date of birth, phone number, etc. DSG reserves the right to sell this information to third parties, in its sole discretion (including, without limitation, in the context of any merger, acquisition or reorganization). From time to time, DSG will establish different categories of Users (for example, Organizers, Coaches, Teams, etc.) and the functionality of the SportSpace Community Web Site will vary for the different classifications of the Users, as determined by DSG. Some Users may be provided with account information and passwords for accessing various pages on the SportSpace Community Web Site. In such cases, you are responsible for maintaining the confidentiality of your account information and password and for restricting access to such information and to your computer. You agree to accept responsibility for all activities that occur under your account or password, even if such password or account is shared among more than one User, as in the case of Team accounts. We require personal information to open an account for you. Except as provided in this Privacy Policy, this account data is never shared with anyone in any way without your consent. (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a User.) 
-
-**Marketing and Promotions**
-
-DSG may contact Users about promotional offers in its land-based stores. In addition, DSG may or may not need to merge or share the personally identifiable information stored in its databases with a third party affiliate due to a merger or acquisition. See "Changes to Privacy Policy" below for more information.
-
-From time to time, DSG may engage certain third parties to assist in providing marketing and promotional offers to our Users. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services including but not limited to in-store events, activities, sponsorships, promotions and programs. Additionally, we may share non-personal, non-individual statistical information with our marketing partners, advertisers or other third parties for research purposes. We have established several relationships with third parties vendors to best serve our customers. 
-
-In addition, from time to time DSG may establish an affiliate program. An affiliate program allows other Web sites to earn money by linking customers to the SportSpace Community Web Site from their sites. We have entered into certain agreements with certain third parties for the purpose of helping to administer the affiliate programs. Such third parties may have access to certain of your information but is restricted to only use such information in connection with its administration of the affiliate programs.
-
-Also, you permit us to share your personal information in response to a court order, subpoena, government investigation, or as otherwise required by law. And, we may transfer your personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event.
-
-**Security Policy**
-
-We use Secure Socket Layer (SSL) encryption technology to protect your personal information. 
-
-**Collection and Use of Children's Personal Information**
-
-Many DSG sites and services are intended for general audiences and do not knowingly collect and personal information from children. When the SportSpace Community Web Site does collect age information, and Users identify themselves as under the age of 13, the site will either block such users from providing general information, or will seek to obtain consent from parents for the collection, use and sharing of their children's personal information. We will not knowingly ask children under the age of 13 to provide more information than is reasonably necessary to provide our services.
-
-**Changes to Privacy Policy**
-
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on the SportSpace Community Web Site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
-
-**Questions about our Policies**
-
-If you have any questions regarding your privacy or any of our policies, please contact DSG by email at [sportspace@dcsg.com](mailto:sportspace@dcsg.com) or [sportspacehelp@dcsg.com](mailto:sportspacehelp@dcsg.com).
-
-**_MOBILE ALERTS (TEXT MESSAGES) PRIVACY POLICY_**
-
-You may decide to have promotional text messages sent directly to your mobile device. This program is completely voluntary, and messages will be sent to you only if you have opted in to receive them. Message and data rates may apply. If you have errantly received a marketing text message without opting in to the program, or if you wish to opt out of receiving text messages, you can cancel the program by either:
-
-  * replying "STOP" to 34257; or
-  * contacting Customer Service by email at [customer.service@dcsg.com](mailto:customer.service@dcsg.com) or by phone at 1.877.846.9997. 
-
-
-
-You will need to provide your mobile phone number in order to be removed from the program. It may take up to 10 days to process your stop request. You may receive additional text messages from DICK'S Sporting Goods during this time. DICK'S Sporting Goods respects your privacy and your mobile number will only be used in this text message program by DICK'S Sporting Goods and its third party marketing partners administering this program on DICK'S Sporting Goods' behalf as set forth above.
+[_**California Privacy Policy**_](http://www.dickssportinggoods.com/shop/index.jsp?categoryId=12720030&ab=PrivacyPolicy_California).
