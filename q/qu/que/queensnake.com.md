@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the queensnake.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919225531id_/http%3A//queensnake.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queensnake.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602210653id_/http%3A//queensnake.com/privacy) for the most accurate reproduction.*
 
 # Queensnake.com - Privacy
 
@@ -21,7 +21,7 @@ Queensnake.com collects information from Users who access the various parts of o
 
 ### Registration
 
-Members are asked to provide certain personal information when they sign up for our website including name, address, telephone number, billing information (such as a credit card number). The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information is collected by our credit card processors/billing companies, and is not shared with third parties, unless specifically stated otherwise or in special circumstances. You may read the privacy policies on their websites at www.ccbill.com, www.verotel.com.
+Members are asked to provide certain personal information when they sign up for our website including name, address, telephone number, billing information (such as a credit card number). The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information is collected by our credit card processors/billing companies, and is not shared with third parties, unless specifically stated otherwise or in special circumstances. You may read the privacy policies on their websites at www.IPSP.com.
 
 ### Email Inquiries
 
