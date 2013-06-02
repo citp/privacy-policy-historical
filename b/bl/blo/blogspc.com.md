@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogspc.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003012723id_/http%3A//blogspc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogspc.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602042218id_/http%3A//blogspc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Blogs PC - Windows Tutorial, Personal Computer, Apple and Android Apps
+# Privacy Policy | Blogs PC Tech Magazine - Windows Tutorial, Personal Computer, Apple and Android Apps
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
