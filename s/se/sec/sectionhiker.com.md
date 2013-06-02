@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sectionhiker.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002231219id_/http%3A//sectionhiker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sectionhiker.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602093726id_/http%3A//sectionhiker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Section Hiker
 
@@ -37,17 +37,10 @@ We may from time to time cooperate with law enforcement inquiries, as well as ot
 
 Other than for the specific purposes set forth in this Privacy Policy, we will not disclose your Personally Identifiable Information to any third parties unless we obtain your prior consent or are legally compelled to do so. In addition, we will not contact you without your permission except as specified above or in connection with the registration process.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+We work with third-party advertising companies. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you want to opt out of interest-based advertising, the Network Advertising Initiative offers this online tool <http://www.networkadvertising.org/choices/> to opt out of its member’s interest-based collection programs.
 
 When you visit the SectionHiker.com web site, we or a third-party advertiser may store or recognize some information on your computer in the form of a “cookie” to better match your interests and preferences. With most Internet browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.
 
-The SectionHiker.com web site contain links to sites operated by our business partners and other third parties. Once you leave the SectionHiker.com web site, you may or may not see a new URL in the location bar. Please review the linked site’s privacy policies, and if you do not agree to be bound by the terms of the policies governing that site, terminate your visit to that site. We are not responsible for the privacy policies and practices of the sites operated by our business partners or other third parties.
+The SectionHiker.com web site contain links to sites operated by our business partners and other third parties, including [local directories](http://sectionhiker.com/nsphere/). Once you leave the SectionHiker.com web site, you may or may not see a new URL in the location bar. Please review the linked site’s privacy policies, and if you do not agree to be bound by the terms of the policies governing that site, terminate your visit to that site. We are not responsible for the privacy policies and practices of the sites operated by our business partners or other third parties.
 
-[](http://www.printfriendly.com/print/v2?url=http://sectionhiker.com/privacy-policy/)
-
-#### Tags
-
-  * children without supervision on the appalachian trail
-  * sectionhiker email
-
-
+[](http://www.printfriendly.com/print?url=http://sectionhiker.com/privacy-policy/)
