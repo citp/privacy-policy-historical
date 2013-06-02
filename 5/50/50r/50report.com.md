@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 50report.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201150625id_/http%3A//www.50report.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50report.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602225234id_/http%3A//50report.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 50report
+# privacy policy
 
-50report does all it can to ensure that the privacy of all its users are well protected,  this Privacy Policy explains how we use the information we collect about you and procedures we have in place to safeguard your privacy.
+**50report Media Concept**   is [committed](http://www.infonigeria.net/iran-rejects-nigeria-spying-allegation/) to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you and procedures we have in place to safeguard your privacy.
 
-In this Privacy Policy references to we, us and our, are to Comforter and Trinity Company Limited. References to the Site are to 50report.com
+In this Privacy Policy references to we, [us](http://www.infonigeria.net/obama-formally-orders-budget-cuts/) and our, are to **50report Media Concept**. References to the Site are to www.50report.com
 
 Certain expressions used in this Privacy Policy (such as User Content) have definitions which are set out in the Terms and Conditions for use of this Site.
 
@@ -57,6 +57,8 @@ Any personal information we collect from the Site we use for some or all of the 
 
 5.2 Owing to the global nature of the internet, the information you provide may be transferred to companies outside the European Economic Area (EEA) that do not have similar protections in place to those which apply in the EEA regarding your data and its use as set out in this Policy. However, we have taken steps outlined in this Policy to protect the security of your information and will keep any transfers outside the EEA to a necessary minimum. By submitting your information you consent to these transfer.
 
-**6\. Updating**
+**6\. Updating/Modification**
 
 6.1 We reserve the right to change this Privacy Policy without notice. The new Privacy Policy will be posted upon the Site and your continued use of the Site will be considered acceptance of it. You are advised to check this Privacy Policy regularly.
+
+6.2 This Privacy Policy is subject to the Terms and Conditions for use of this Site which are situated elsewhere on the Site.
