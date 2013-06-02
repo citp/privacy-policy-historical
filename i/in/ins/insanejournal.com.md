@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insanejournal.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218111441id_/http%3A//www.insanejournal.com/legal/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insanejournal.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602072851id_/http%3A//www.insanejournal.com/legal/privacy.bml) for the most accurate reproduction.*
 
 # Privacy Policy
 
