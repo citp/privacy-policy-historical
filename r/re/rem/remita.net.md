@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remita.net privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125041359id_/http%3A//www.remita.net/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remita.net privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603014133id_/http%3A//remita.net/support/privacy.php) for the most accurate reproduction.*
 
 # Remita :: Funds & Schedules Remittance
 
