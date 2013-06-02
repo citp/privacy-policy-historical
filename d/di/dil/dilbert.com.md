@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dilbert.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230104543id_/http%3A//www.dilbert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dilbert.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602185929id_/http%3A//dilbert.com/privacy) for the most accurate reproduction.*
 
 # The official Dilbert website privacy policy.
 
