@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the vfsglobal.com privacy policy that was archived on 2012-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122032328id_/http%3A//vfsglobal.com/disclaimer/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vfsglobal.com privacy policy that was archived on 2013-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602024419id_/http%3A//vfsglobal.com/disclaimer/privacy_policy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>VFS Global</title>
 <link rel="stylesheet" type="text/css" href="../css/style.css">
+<link rel="stylesheet" type="text/css" href="../css/responsive.css">
 <link rel="shortcut icon" type="image/x-icon" href="../images/common/vfs.ico">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="../js/ddaccordion.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="../js/ddaccordion.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript">
 
@@ -16,9 +18,9 @@ ddaccordion.init({
 	revealtype: "mouseover", //Reveal content when user clicks or onmouseover the header? Valid value: "click", or "mouseover"
 	mouseoverdelay: 200, //if revealtype="mouseover", set delay in milliseconds before header expands onMouseover
 	collapseprev: true, //Collapse previous content (so only one open at any time)? true/false 
-	defaultexpanded: [], //index of content(s) open by default [index1, index2, etc]. [] denotes no content.
+	defaultexpanded: [0], //index of content(s) open by default [index1, index2, etc]. [] denotes no content.
 	onemustopen: false, //Specify whether at least one header should be open always (so never all headers closed)
-	animatedefault: false, //Should contents open by default be animated into view?
+	animatedefault: true, //Should contents open by default be animated into view?
 	persiststate: false, //persist state of opened contents within browser session?
 	toggleclass: ["unselected", "selected"], //Two CSS classes to be applied to the header when it's collapsed and expanded, respectively ["class1", "class2"]
 	togglehtml: ["none", "", ""], //Additional HTML added to the header when it's collapsed and expanded, respectively  ["position", "html1", "html2"] (see docs)
@@ -35,42 +37,63 @@ ddaccordion.init({
 .menucontents{display: none}
 a.hiddenajaxlink{display: none}
 </style>
-<script type="text/javascript"> 
-function menu(whatState)
-{ //alert (whatState);
-	 document.getElementById("langu").style.display=whatState;
-}
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/easySlider1.7.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){	
+		$("#slider").easySlider({
+			auto: true, 
+			continuous: true
+		});
+	});	
 </script>
+<script type="text/javascript"> 
+	function menu(whatState)
+	{ //alert (whatState);
+		 document.getElementById("langu").style.display=whatState;
+	}
+</script>
+<script language="javascript" type="text/javascript">
+	function senddata()
+	{
+		window.location = "search/search.asp?text=" + document.getElementById('search').value;	
+	}	
+</script>
+<script src="../js/responsive.js" type="application/javascript"></script>
 </head>
-<body>
+<body class="innerpage">
 <div class="bg_map">
   <div class="wrapper">
+    <div class="device_logo clearfix">
+      <div class="logo_vfs"> <a href="../index.asp"><img src="../images/common/vfs-global-logo.png" alt="VFS Global, Partnering Governments. Providing Solutions." title="VFS Global"></a> </div>
+      <div class="vfs_tag">Partnering Governments. Providing Solutions.</div>
+    </div>
     <div class="left_content">
-       <iframe style=" height:220px; width:260px; border:none; " allowtransparency="true" frameborder="0" scrolling="no" src="../counter-ipo.html"></iframe>
-      <div class="global_nav"> <img src="../images/common/img_gn_line.gif" alt="">
-        <div><a href="../index.asp" title="">Home</a></div>
-        <img src="../images/common/img_gn_line.gif" alt="">
-        <div><a href="../about_us/company_profile.asp" title="">About Us</a></div>
-        <img src="../images/common/img_gn_line.gif" alt="">
-        <div><a href="../services_solutions/services_solutions.asp" title="">Services &amp; Solutions</a></div>
-        <img src="../images/common/img_gn_line.gif" alt="">
-        <div><a href="../customisation_innovation/customisation.asp" title="">Customisation &amp; Innovation</a></div>
-        <img src="../images/common/img_gn_line.gif" alt="">
-        <div><a href="../our_expertise/security_practices.asp" title="">Our Expertise</a></div>
-        <img src="../images/common/img_gn_line.gif" alt="">
-        <div><a href="../news_events/news_coverage.asp" title="">News &amp; Events</a></div>
-        <img src="../images/common/img_gn_line.gif" alt="">
-         <div><a href="../careers/our_hr_Philosophy.asp" title="">Careers</a></div>
-        <img src="../images/common/img_gn_line.gif" alt="">
-        <div><a href="../contact_us/overview.asp" title="">Contact Us</a></div>
-        <img src="../images/common/img_gn_line.gif" alt=""> </div>
-       
+      <iframe style=" height:220px; width:260px; border:none; " allowtransparency="true" frameborder="0" scrolling="no" src="../counter-ipo.html" marginwidth="0px"></iframe>
+      <div class="global_nav"> <a class="close_nav">Close</a> <span class="nav_label">Main Menu</span><a class="open_nav">Navigation</a>
+        <div class="nav_block">
+          <div><a href="../index.asp" title="">Home</a></div>
+          <div><a href="../about_us/company_profile.asp" title="">About Us</a></div>
+         
+          <div><a href="../services_solutions/services_solutions.asp" title="">Services &amp; Solutions</a></div>
+          
+          <div><a href="../customisation_innovation/customisation.asp" title="">Customisation &amp; Innovation</a></div>
+           
+         
+          <div><a href="../our_expertise/security_practices.asp" title="">Our Expertise</a></div>
+         <div><a href="../news_events/news_coverage.asp" title="">News &amp; Events</a></div>
+         
+           <div><a href="../careers/our_hr_Philosophy.asp" title="">Careers</a></div>
+         
+          <div><a href="../contact_us/overview.asp" title="">Contact Us</a></div>
+        </div>
+      </div>      
+      <div class="clear"></div>
+      
+ 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
    <!--Search Start Here-->
-   <!--<div class="search_bar">
-      	<div class="input"><input name="Search" type="text" id="Search" value="Search" /></div>
-        <div class="go"><a href="../Search/search.asp"><img src="../images/common/btn_go.gif" /></a></div>
-</div>-->  
+ 
       <div class="clear"></div>
       <br>
       <!--Search End Here-->
@@ -81,10 +104,10 @@ function menu(whatState)
         <div class="go"><a href="javascript:;" onmouseover="menu('block');" onmouseout="menu('none');"><img src="../images/common/btn_drop_arrow.gif" alt=""></a></div>
         <div id="langu" onmouseover="menu('block');" onmouseout="menu('none');">
           <div class="languages">
-            <ul>
-              <li><a href="http://www.vfsglobal.com/chinese/index.asp" target="_blank"><img src="../images/common/img_flag_china.gif" alt=""><span>中国</span></a></li>
-              <li><a href="http://www.vfsglobal.com/french/index.asp" target="_blank"><img src="../images/common/img_flag_france.gif" alt=""><span>Français</span></a></li>
-              <li><a href="http://www.vfsglobal.com/german/index.asp" target="_blank"><img src="../images/common/img_flag_germany.gif" alt=""><span>Deutsch</span></a></li>
+            <ul>  
+			  <li><a href="http://www.vfsglobal.com/chinese/index.asp" target="_blank"><img src="../images/common/img_flag_china.gif" alt=""><span>中国</span></a></li>            
+              
+              <li><a href="http://www.vfsglobal.com/french/index.asp" target="_blank"><img src="../images/common/img_flag_france.gif" alt=""><span>Français</span></a></li><li><a href="http://www.vfsglobal.com/german/index.asp" target="_blank"><img src="../images/common/img_flag_germany.gif" alt=""><span>Deutsch</span></a></li>
               <li><a href="http://www.vfsglobal.com/italian/index.asp" target="_blank"><img src="../images/common/img_flag_itly.gif" alt=""><span>Italiano</span></a></li>
               <li><a href="http://www.vfsglobal.com/russian/index.asp" target="_blank"><img src="../images/common/img_flag_rusia.gif" alt=""><span>русский</span></a></li>
               <li><a href="http://www.vfsglobal.com/spanish/index.asp" target="_blank"><img src="../images/common/img_flag_spain.gif" alt=""><span>español</span></a></li>
@@ -98,41 +121,62 @@ function menu(whatState)
 <!--Drop down start Here-->
 
 
+<div class="need_information"> <strong>Need information on visas?</strong>
+  <div class="visiting_country">
+    <select name="ddlFirstOptionSet" id="ddlFirstOptionSet" class="textbox">
+    <option value="Visiting Country">Visiting Country</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Belgium">Belgium</option><option value="Bulgaria">Bulgaria</option><option value="Canada">Canada</option><option value="China">China</option><option value="Croatia">Croatia</option><option value="Czech Republic">Czech Republic</option><option value="Denmark">Denmark</option><option value="Estonia">Estonia</option><option value="Finland">Finland</option><option value="France">France</option><option value="Germany">Germany</option><option value="Greece">Greece</option><option value="Hungary">Hungary</option><option value="Iceland">Iceland</option><option value="India">India</option><option value="Ireland">Ireland</option><option value="Italy">Italy</option><option value="Japan">Japan</option><option value="Latvia">Latvia</option><option value="Lithuania">Lithuania</option><option value="Luxembourg">Luxembourg</option><option value="Malaysia">Malaysia</option><option value="Malta">Malta</option><option value="Netherlands">Netherlands</option><option value="New Zealand">New Zealand</option><option value="Norway">Norway</option><option value="Poland">Poland</option><option value="Portugal">Portugal</option><option value="Republic of Korea">Republic of Korea</option><option value="Russia">Russia</option><option value="Singapore">Singapore</option><option value="Slovenia">Slovenia</option><option value="South Africa">South Africa</option><option value="Spain">Spain</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Thailand">Thailand</option><option value="Turkey">Turkey</option><option value="UAE">UAE</option><option value="UK">UK</option><option value="USA">USA</option></select>
+  </div>
+  <div class="residing_country">
+    <select name="ddlSecondOptionSet" id="ddlSecondOptionSet" class="textbox">
+      <option value="Resident Country">Resident Country</option>
+    </select>
+  </div>
+  <div class="spacer5"></div>
+  <input type="hidden" name="hidCheck" id="hidCheck">
+  <img src="../images/common/btn_go2.gif" alt="" style="cursor:pointer;" border="0" onclick="gobutton();"> </div>
+
+<!--Drop down End Here-->
+
+ <div class="clear"></div>
+      <div class="50million" style="padding:20px 30px;"><img src="../images/common/50-million-white.png" width="125" height="100"></div>
 <script type="text/javascript">
 
      var ddlFirstOptionSet = null;
     var ddlSecondOptionSet = null;
 
     
-    var firstOptions = new Array("Visiting Country", "Australia", "Austria", "Belgium", "Bulgaria", "Canada", "China", "Cyprus", "Czech Republic", "Denmark", "Finland", "France", "Germany", "Greece", "Hungary", "Iceland", "India", "Ireland", "Italy", "Japan", "Latvia", "Malaysia", "Malta", "Netherlands", "New Zealand", "Norway", "Poland", "Portugal","Republic of Korea", "Russia", "Singapore", "Slovenia", "South Africa", "Spain", "Sweden", "Switzerland", "Thailand", "UAE", "UK", "USA");
+    var firstOptions = new Array("Visiting Country", "Australia", "Austria", "Belgium", "Bulgaria", "Canada", "China", "Croatia", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Iceland", "India", "Ireland", "Italy", "Japan", "Latvia", "Lithuania",  "Luxembourg", "Malaysia", "Malta", "Netherlands", "New Zealand", "Norway", "Poland", "Portugal","Republic of Korea", "Russia", "Singapore", "Slovenia", "South Africa", "Spain", "Sweden", "Switzerland", "Thailand", "Turkey", "UAE", "UK", "USA");
 	
 
-	var Australiaoption = new Array("Resident Country", "Bahrain", "Bangladesh", "China", "Ethiopia", "Ghana", "India", "Indonesia", "Kenya", "Kuwait", "Malaysia", "Nepal", "Nigeria", "Oman", "Qatar", "Saudi Arabia", "South Africa", "Sri Lanka","Thailand", "UAE", "Zimbabwe");
-	var Austriaoption = new Array("Resident Country", "Australia", "China", "India", "Russia", "Saudi Arabia", "South Africa", "Sri Lanka", "Turkey", "UAE", "UK", "Ukraine")
-		var Belgiumoption = new Array("Resident Country", "China", "Ghana", "India", "Morocco", "Nigeria", "Russia", "Thailand", "UK", "Ukraine")
-		var Bulgariaoption = new Array("Resident Country", "Bahrain", "Kazakhstan", "Oman", "Qatar", "Russia", "Saudi Arabia", "Turkey", "UAE", "Ukraine")
-		var Canadaoption = new Array("Resident Country", "Bangladesh", "China", "India", "Indonesia", "Kenya", "Mongolia", "Nepal", "Nigeria", "Uganda")
+	var Australiaoption = new Array("Resident Country", "Bahrain", "Bangladesh", "China", "Ethiopia", "Ghana", "India", "Indonesia", "Kenya", "Kuwait", "Malaysia", "Mongolia", "Nepal", "Nigeria", "Oman", "Pakistan", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Sri Lanka","Thailand", "UAE", "Zimbabwe");
+	var Austriaoption = new Array("Resident Country", "Australia", "China", "India", "Kuwait", "Russia", "Saudi Arabia", "South Africa", "Sri Lanka", "Turkey", "UAE", "UK", "Ukraine")
+		var Belgiumoption = new Array("Resident Country", "China", "India", "Morocco", "Nigeria", "Russia", "Thailand", "Turkey", "UK", "Ukraine")
+		var Bulgariaoption = new Array("Resident Country", "Bahrain", "Kazakhstan", "Kuwait", "Oman", "Qatar", "Russia", "Saudi Arabia", "Turkey", "UAE", "Ukraine")
+		var Canadaoption = new Array("Resident Country", "Albania", "Algeria", "Bangladesh", "China", "Colombia", "Ecuador", "Egypt", "France", "Germany", "India", "Indonesia", "Jordan", "Kenya", "Lebanon", "Malaysia", "Mongolia", "Nepal", "Nigeria", "Pakistan", "Saudi Arabia", "Sri Lanka", "Thailand", "Tunisia", "Turkey", "UAE", "Uganda", "UK")
 		var Chinaoption = new Array("Resident Country", "India")
-		var Cyprusoption = new Array("Resident Country", "Iran")
+		var Croatiaoption = new Array("Resident Country", "Russia")
 		var CzechRepublicoption = new Array("Resident Country", "Russia")
-		var Denmarkoption = new Array("Resident Country", "China", "Ghana", "India", "Indonesia", "Nepal", "Pakistan", "Russia", "South Africa", "Syria", "Thailand", "Turkey", "Ukraine", "UK")
+		var Denmarkoption = new Array("Resident Country", "Bahrain", "China", "Ghana", "India", "Indonesia", "Lebanon", "Nepal", "Pakistan", "Russia", "South Africa", "Syria", "Thailand", "Turkey", "Ukraine", "UK")
+		var Estoniaoption = new Array("Resident Country", "Russia")
 		var Finlandoption = new Array("Resident Country", "Russia", "Ukraine")
 		var Franceoption = new Array("Resident Country", "UAE (Abu Dhabi)", "India", "Kazakhstan", "Nigeria", "Russia", "Saudi Arabia", "Sri Lanka", "Turkey", "Ukraine", "UAE (Dubai)")
-		var Germanyoption = new Array("Resident Country", "Australia", "China", "Ghana", "India", "Saudi Arabia", "Sri Lanka", "UAE (Abu Dhabi)", "UAE (Dubai)", "UK", "Ukraine")
-		var Greeceoption = new Array("Resident Country", "China", "India", "Kazakhstan", "Kuwait", "Nepal", "Russia", "Srilanka", "Turkey", "UK")
+		var Germanyoption = new Array("Resident Country", "Australia", "India", "Russia", "Saudi Arabia", "Sri Lanka", "UAE (Abu Dhabi)", "UAE (Dubai)", "UK", "Ukraine")
+		var Greeceoption = new Array("Resident Country", "China", "Egypt", "India", "Jordan", "Kazakhstan", "Kuwait", "Lebanon", "Nepal", "Russia", "Srilanka", "Turkey", "UAE", "UK")
 		var Hungaryoption = new Array("Resident Country", "India", "UK", "UAE")
 		var Icelandoption = new Array("Resident Country", "China", "Ghana", "India", "Indonesia", "Russia", "South Africa", "Syria", "Thailand", "Turkey", "Ukraine", "UK")
-		var Indiaoption = new Array("Resident Country", "Australia", "Belgium", "Canada", "China", "Colombia", "France", "Iran", "Malaysia", "Netherlands", "Saudi Arabia (Riyadh)", "Singapore", "Sri Lanka", "Switzerland", "Thailand", "UAE (Attestation Services)", "UK", "USA", "Yemen")
-		var Irelandoption = new Array("Resident Country", "Ghana", "India", "Nigeria")
-		var Italyoption = new Array("Resident Country", "Bangladesh", "Cameroon", "China", "Ecuador", "Ghana", "India", "Indonesia", "Iran", "Jordan", "Kenya", "Mongolia", "Nigeria", "Sri Lanka", "Thailand", "UAE (Abu Dhabi)", "UAE (Dubai)", "UK")		
+		var Indiaoption = new Array("Resident Country", "Australia", "Belgium", "Colombia", "France", "Iran", "Jordan", "Malaysia", "Saudi Arabia (Riyadh)", "Singapore", "Sri Lanka", "Switzerland", "Thailand", "UK", "Yemen")
+		var Irelandoption = new Array("Resident Country", "Ghana", "India", "Nigeria", "Turkey")
+		var Italyoption = new Array("Resident Country", "Bangladesh", "Cameroon", "China", "Colombia", "Ecuador", "Ghana", "India", "Indonesia", "Jordan", "Kenya", "Mongolia", "Nigeria", "Sri Lanka", "Thailand", "UAE (Abu Dhabi)", "UAE (Dubai)", "UK", "Vietnam")		
 		var Japanoption = new Array("Resident Country", "India", "Thailand")
 		var RepublicofKoreaoption = new Array("Resident Country", "India")
 		var Latviaoption = new Array("Resident Country", "Australia")
+		var Lithuaniaoption = new Array("Resident Country", "Russia", "Ukraine")
+		var Luxembourgoption = new Array("Resident Country", "Turkey")
 		var Malaysiaoption = new Array("Resident Country", "India")
-		var Maltaoption = new Array("Resident Country", "China", "India", "Russia", "Saudi Arabia & GCC Residents", "Turkey")
+		var Maltaoption = new Array("Resident Country", "China", "Dubai", "India", "Libya", "Russia", "Saudi Arabia & GCC Residents", "Turkey")
 		var Netherlandsoption = new Array("Resident Country", "India", "Russia", "Thailand", "Ukraine", "UK")
-		var NewZealandoption = new Array("Resident Country", "China", "Japan", "Republic of Korea", "Taiwan")
-		var Norwayoption = new Array("Resident Country",  "China", "Russia", "Sri Lanka", "Thailand" , "Ukraine")
+		var NewZealandoption = new Array("Resident Country", "China", "Indonesia", "Japan", "Republic of Korea", "Singapore", "Taiwan")
+		var Norwayoption = new Array("Resident Country",  "China", "Indonesia", "Kenya", "Russia", "Sri Lanka", "Thailand" , "UK", "Ukraine")
 		var Polandoption = new Array("Resident Country", "Russia", "Turkey" , "Ukraine")
 		var Portugaloption = new Array("Resident Country", "India")
 		var Russiaoption = new Array("Resident Country", "Finland", "Republic of Korea", "UK")
@@ -140,13 +184,14 @@ function menu(whatState)
 		var Sloveniaoption = new Array("Resident Country", "India")
 		var SouthAfricaoption = new Array("Resident Country", "Angola", "India", "China", "Democratic Republic of Congo", "Nigeria")
 
-		var Spainoption = new Array("Resident Country", "Algeria", "Bolivia", "Bangladesh", "Chile", "China", "Colombia", "Dominican Republic", "Ecuador", "Egypt", "Equatorial Guinea", "Ghana","India", "Indonesia", "Ireland", "Iran", "Jordan", "Kuwait", "Kazakhstan", "Lebanon", "Libya", "Mauritania", "Mexico", "Morocco", "Nigeria", "Pakistan", "Peru", "Philippines", "Qatar", "Russia", "Saudi Arabia", "South Africa", "Senegal", "Thailand", "Tunisia", "Turkey", "UAE", "Ukraine", "UK", "US", "Venezuela")
+		var Spainoption = new Array("Resident Country", "Algeria", "Belarus", "Bolivia", "Bangladesh", "Chile", "China", "Colombia", "Dominican Republic", "Ecuador", "Egypt", "Equatorial Guinea", "Ghana","India", "Indonesia", "Ireland", "Jordan", "Kenya", "Kuwait", "Kazakhstan", "Lebanon", "Libya", "Mauritania", "Mexico", "Morocco", "Nigeria", "Oman", "Pakistan", "Peru", "Philippines", "Qatar", "Republic of Cote D’ivoire", "Russia", "Saudi Arabia", "South Africa", "Senegal", "Thailand", "Tunisia", "Turkey", "UAE", "Ukraine", "UK", "US", "Venezuela", "Vietnam")
 		var Swedenoption = new Array("Resident Country", "China", "Colombia", "India", "Kenya", "Morocco", "South Africa", "Thailand", "Turkey (Ankara)", "Turkey (Istanbul)", "Russia", "Ukraine", "UK");		
 		var Switzerlandoption = new Array("Resident Country", "India", "Russia", "Ukraine", "UAE", "UK")
 		var Thailandoption = new Array("Resident Country", "Bangladesh", "India")
-		var USAoption = new Array("Resident Country", "Australia","Bulgaria","Costa Rica","El Salvador","Fiji","Ghana","Georgia","Guatemala","Honduras","India","Indonesia","Japan","Kazakhstan","Liberia","Lithuania","Malaysia","Mongolia","Moldova","New Zealand","Nicaragua","Nigeria","Panama","Philippines","Poland","Romania","Russia","Sierra Leone","Singapore","South Korea","The Gambia","Ukraine")	
-		var UAEoption = new Array("Resident Country", "China", "India", "Indonesia", "Iran", "Jordan", "Lebanon", "Mauritius", "Russia", "South Africa", "Sri Lanka")
-	    var UKoption = new Array("Resident Country", "Bahrain", "Bangladesh", "China", "Ethiopia", "Ghana", "India", "Indonesia", "Japan", "Kazakhstan", "Kenya", "Kuwait", "Malawi", "Malaysia", "Mozambique", "Namibia", "Nepal", "Nigeria", "Oman", "Pakistan", "Philippines", "Qatar", "Republic of Korea", "Russia", "Saudi Arabia", "Singapore", "South Africa", "Sri Lanka", "Syria", "Thailand", "Uganda", "Ukraine", "UAE", "Zimbabwe")
+		var Turkeyoption = new Array("Resident Country", "India")
+		var USAoption = new Array("Resident Country", "Australia","Bulgaria","Costa Rica","El Salvador","Fiji","Ghana","Georgia","Guatemala","Honduras","India","Indonesia","Japan","Kazakhstan","Liberia","Lithuania","Malaysia","Mongolia","Moldova","New Zealand","Nicaragua","Nigeria","Panama","Philippines","Poland","Romania","Russia","Sierra Leone","Singapore","South Korea","The Gambia","Ukraine")		
+		var UAEoption = new Array("Resident Country", "Algeria", "China", "India", "Indonesia", "Iran", "Jordan", "Lebanon", "Mauritius", "Russia", "South Africa", "Sri Lanka", "Turkey", "UAE")
+	    var UKoption = new Array("Resident Country", "Bahrain", "Bangladesh", "China", "Ethiopia", "Ghana", "India", "Indonesia", "Japan", "Kazakhstan", "Kenya", "Kuwait", "Malawi", "Malaysia", "Mozambique", "Namibia", "Nepal", "Nigeria", "Oman", "Pakistan", "Philippines", "Qatar", "Republic of Korea", "Russia", "Saudi Arabia", "Singapore", "South Africa", "Sri Lanka", "Thailand", "Uganda", "Ukraine", "UAE", "Vietnam", "Zimbabwe")
 
 
     window.onload = function() {
@@ -224,6 +269,9 @@ function menu(whatState)
 			case 'China':
                 bindDropDown(ddlSecondOptionSet, Chinaoption);
                 break;
+			case 'Croatia':
+				bindDropDown(ddlSecondOptionSet, Croatiaoption);
+				break;
 
 			case 'Cyprus':
                 bindDropDown(ddlSecondOptionSet, Cyprusoption);
@@ -238,6 +286,10 @@ function menu(whatState)
                 bindDropDown(ddlSecondOptionSet, Denmarkoption);
                 break;
 
+			case 'Estonia':
+                bindDropDown(ddlSecondOptionSet, Estoniaoption);
+                break;
+				
             case 'Finland':
                 bindDropDown(ddlSecondOptionSet, Finlandoption);
                 break;
@@ -289,6 +341,14 @@ function menu(whatState)
 			case 'Latvia':
                 bindDropDown(ddlSecondOptionSet, Latviaoption);
                 break;	
+				
+			case 'Lithuania':
+                bindDropDown(ddlSecondOptionSet, Lithuaniaoption);
+                break;
+				
+			case 'Luxembourg':
+                bindDropDown(ddlSecondOptionSet, Luxembourgoption);
+                break;
 								
             case 'Malaysia':
                 bindDropDown(ddlSecondOptionSet, Malaysiaoption);
@@ -353,6 +413,10 @@ function menu(whatState)
             case 'Thailand':
                 bindDropDown(ddlSecondOptionSet, Thailandoption);
                 break;
+				
+			case 'Turkey':
+                bindDropDown(ddlSecondOptionSet, Turkeyoption);
+                break;
 								
             case 'UAE':
                 bindDropDown(ddlSecondOptionSet, UAEoption);
@@ -401,6 +465,10 @@ function menu(whatState)
          
             if (Applycountry == 'Bahrain') {
                 window.open('http://www.vfs-au-gcc.com/', '_blank')
+            }
+			
+			if (Applycountry == 'Pakistan') {
+                window.open('http://www.australiavisa-pakistan.com/', '_blank')
             }
 			
             else if (Applycountry == 'Bangladesh') {
@@ -459,6 +527,10 @@ function menu(whatState)
                 window.open('http://www.vfs-au-gcc.com/', '_blank')   
 			}	
 			
+			else if (Applycountry == 'Singapore') {
+                window.open('http://www.vfsglobal.com/australia/singapore/', '_blank')   
+			}	
+			
 			else if (Applycountry == 'South Africa') {
                 window.open('http://www.vfs-au.co.za/', '_blank')
             
@@ -479,6 +551,10 @@ function menu(whatState)
                 window.open('http://www.vfsglobal.com/australia/zimbabwe/', '_blank')
             
             }
+			else if (Applycountry == 'Mongolia') {
+                window.open('http://www.vfsglobal.com/australia/mongolia/', '_blank')
+            
+            }
 
         }
  else if (Fromcountry == 'Austria') {
@@ -491,6 +567,10 @@ function menu(whatState)
 					
 			if (Applycountry == 'India') {
                 window.open('http://www.vfs-austria.co.in/', '_blank')   
+			}	
+			
+			if (Applycountry == 'Kuwait') {
+                window.open('http://www.vfsglobal.com/Austria/Kuwait/', '_blank')   
 			}	
 			
 			if (Applycountry == 'China') {
@@ -564,6 +644,9 @@ function menu(whatState)
 			else if (Applycountry == 'Thailand') {
                 window.open('http://www.vfsglobal.com/belgium/thailand/', '_blank')            
             }
+			else if (Applycountry == 'Turkey') {
+                window.open('http://www.vfsglobal.com/belgium/turkey/', '_blank')            
+            }
 						
 			else if (Applycountry == 'Ukraine') {
                 window.open('http://www.belgiumvac-ua.com/', '_blank')
@@ -588,6 +671,10 @@ function menu(whatState)
 			
 			else if (Applycountry == 'Kazakhstan') {
                 window.open('http://www.bulgariavisa-kazakhstan.com/', '_blank')   
+			}			
+										
+			 else if (Applycountry == 'Kuwait') {
+                window.open('http://www.vfsglobal.com/bulgaria/kuwait/', '_blank')   
 			}			
 										
 			 else if (Applycountry == 'Oman') {
@@ -634,9 +721,47 @@ function menu(whatState)
 			if (Applycountry == 'Bangladesh') {
                 window.open('http://www.vfs-canada.com.bd/', '_blank')   
 			}		
-										
+			else if (Applycountry == 'Algeria') {
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')  
+				          
+           	}
+			else if (Applycountry == 'Albania') {
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')  
+				          
+           	}							
 			 else if (Applycountry == 'China') {
                 window.open('http://www.vfs-canada.com.cn/', '_blank')   
+			}
+					
+			else if (Applycountry == 'Colombia') {
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')   
+			}		
+						
+			else if (Applycountry == 'France') {
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')   
+			}		
+						
+			else if (Applycountry == 'Germany') {
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')   
+			}		
+						
+			else if (Applycountry == 'Sri Lanka') {
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')   
+			}
+			
+			else if (Applycountry == 'Ecuador') {
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')   
+			}
+			else if (Applycountry == 'Egypt') {
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')   
+			}		
+			
+			else if (Applycountry == 'UAE') {
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')   
+			}		
+						
+			else if (Applycountry == 'UK') {
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')   
 			}		
 						
 			else if (Applycountry == 'India') {
@@ -648,7 +773,7 @@ function menu(whatState)
 			}			
 			
 			else if (Applycountry == 'Kenya') {
-                window.open('http://ca.vfsglobal.co.ke/', '_blank')
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')
             
             }
 			else if (Applycountry == 'Mongolia') {
@@ -660,11 +785,43 @@ function menu(whatState)
 				           
            	}	
 			else if (Applycountry == 'Nigeria') {
-                window.open('http://www.vfsglobal.com/canada/nigeria/', '_blank')  
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')  
 				
 			}	
 			else if (Applycountry == 'Uganda') {
                 window.open('http://ca.vfsglobal.co.ke/', '_blank')  
+				          
+           	}
+			else if (Applycountry == 'Tunisia') {
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')
+				          
+           	}
+			else if (Applycountry == 'Jordan') {
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')
+				          
+           	}
+			else if (Applycountry == 'Lebanon') {
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')
+				          
+           	}
+			else if (Applycountry == 'Malaysia') {
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')
+				          
+           	}
+			else if (Applycountry == 'Pakistan') {
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')
+				          
+           	}
+			else if (Applycountry == 'Saudi Arabia') {
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')
+				          
+           	}
+			else if (Applycountry == 'Thailand') {
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')
+				          
+           	}
+			else if (Applycountry == 'Turkey') {
+                window.open('http://www.vfsglobal.ca/Canada/', '_blank')
 				          
            	}	
         }
@@ -675,23 +832,35 @@ function menu(whatState)
  
         							
 			if (Applycountry == 'India') {
-                window.open('http://www.visaforchina.in/visaen/visaView.html?method=index', '_blank')   
+                window.open('http://www.visaforchina.org/', '_blank')   
 			
            	}	
         }
 <!--China End-->
 
-
-<!--Cyprus Start-->
- else if (Fromcountry == 'Cyprus') {
+<!--Croatia Start-->
+ else if (Fromcountry == 'Croatia') {
  
         							
-			 if (Applycountry == 'Iran') {
-                window.open('http://www.vfsglobal.com/cyprus/iran/', '_blank')   
+			if (Applycountry == 'Russia') {
+                window.open('http://www.vfsglobal.com/Croatia/russia/', '_blank')   
 			
            	}	
         }
-<!--Cyprus End-->
+<!--Croatia End-->
+
+<!--Estonia Start-->
+ else if (Fromcountry == 'Estonia') {
+ 
+        							
+			if (Applycountry == 'Russia') {
+                window.open('http://www.vfsglobal.com/estonia/stpetersburg/', '_blank')   
+			
+           	}	
+        }
+<!--Estonia End-->
+
+
 
 <!--Czech Republic Start-->
  else if (Fromcountry == 'Czech Republic') {
@@ -710,6 +879,13 @@ function menu(whatState)
         							
 			if (Applycountry == 'China') {
                 window.open('http://www.denmarkvac.cn/', '_blank')   
+			}
+			if (Applycountry == 'Bahrain') {
+                window.open('http://www.vfsglobal.com/denmark/bahrain/', '_blank')   
+			}
+			
+			if (Applycountry == 'Lebanon') {
+                window.open('http://www.vfsglobal.com/Denmark/Lebanon/', '_blank')   
 			}		
 										
 			 else if (Applycountry == 'Ghana') {
@@ -787,7 +963,7 @@ function menu(whatState)
           if (Applycountry == 'UAE (Abu Dhabi)') {
                 window.open('http://www.vfsglobal.com/France/abudhabi/', '_blank')   
 			}	
-        							
+
 			 else if (Applycountry == 'India') {
                 window.open('http://www.vfs-france.co.in/', '_blank')   
 			}								
@@ -827,17 +1003,12 @@ function menu(whatState)
 			
 			if (Applycountry == 'Australia') {
                 window.open('http://www.vfsglobal.com/austria/australia/', '_blank')   
-			}
-				
-			 else if (Applycountry == 'China') {
-                window.open('http://www.germanvac-cn.com/', '_blank')   
-			}		
-										
-			 else if (Applycountry == 'Ghana') {
-                window.open('http://www.vfs-germany.com.gh/', '_blank')   
 			}								
 			 else if (Applycountry == 'India') {
                 window.open('http://www.vfs-germany.co.in/', '_blank')   
+			}
+			else if (Applycountry == 'Russia') {
+                window.open('http://www.vfsglobal.com/germany/russia/', '_blank')   
 			}								
 			  else if (Applycountry == 'Saudi Arabia') {
                 window.open('http://de.vfsglobal.sa.com/', '_blank')   
@@ -870,7 +1041,15 @@ function menu(whatState)
         							
 			if (Applycountry == 'China') {
                 window.open('http://gr.vfsglobal.cn/', '_blank')   
-			}		
+			}	
+			
+			if (Applycountry == 'Egypt') {
+                window.open('http://www.vfsglobal.com/greece/egypt/', '_blank')   
+			}
+			
+			if (Applycountry == 'UAE') {
+                window.open('http://www.vfsglobal.com/Greece/uae/index.html', '_blank')   
+			}	
 										
 			 else if (Applycountry == 'India') {
                 window.open('http://www.vfs-gr-in.com/', '_blank')   
@@ -881,8 +1060,11 @@ function menu(whatState)
 			 else if (Applycountry == 'Kuwait') {
                 window.open('http://www.vfsglobal.com/greece/kuwait/', '_blank')   
 			}
+			else if (Applycountry == 'Lebanon') {
+                window.open('http://www.vfsglobal.com/greece/lebanon/', '_blank')   
+			}
 			else if (Applycountry == 'Nepal') {
-                window.open('http://www.vfs-gr-in.com/index.aspx', '_blank')   
+                window.open('http://www.vfs-gr-in.com/', '_blank')   
 			}								
 			  else if (Applycountry == 'Russia') {
                 window.open('http://www.greecevac-ru.com/', '_blank')   
@@ -896,6 +1078,9 @@ function menu(whatState)
 			}	
 			else if (Applycountry == 'UK') {
                 window.open('http://www.vfsglobal.com/greece/unitedkingdom/', '_blank')   
+			}
+			else if (Applycountry == 'Jordan') {
+                window.open('http://www.vfsglobal.com/greece/jordan/', '_blank')   
 			}
 										
 		}
@@ -995,10 +1180,6 @@ else  if (Fromcountry == 'India') {
                 window.open('http://in.vfsglobal.be/', '_blank')   
 			
 			}						
-			 else if (Applycountry == 'Canada') {
-                window.open('http://in.vfsglobal.ca/', '_blank')   
-			
-			}								
 			 else if (Applycountry == 'China') {
                 window.open('http://www.vfs-india.com.cn/', '_blank')   
 			
@@ -1015,6 +1196,10 @@ else  if (Fromcountry == 'India') {
 			 else if (Applycountry == 'Iran') {
                 window.open('http://www.vfsglobal.com/india/iran/', '_blank')   
 			
+			}
+			else if (Applycountry == 'Jordan') {
+                window.open('http://www.vfsglobal.com/India/Jordan/', '_blank')   
+			
 			}								
 			 								
 			 else if (Applycountry == 'Malaysia') {
@@ -1026,7 +1211,7 @@ else  if (Fromcountry == 'India') {
 			
 			}	             
 			else if (Applycountry == 'Saudi Arabia (Riyadh)') {
-                window.open('http://in.vfsglobal.sa.com/index.aspx', '_blank')   
+                window.open('http://in.vfsglobal.sa.com/index.html', '_blank')   
 			
 			}			
 			else if (Applycountry == 'Saudi Arabia (Jeddah)') {
@@ -1051,10 +1236,6 @@ else  if (Fromcountry == 'India') {
 			}	
 			else if (Applycountry == 'Thailand') {
                 window.open('http://www.ivac-th.com/', '_blank')   
-			
-			}				
-			else if (Applycountry == 'UAE (Attestation Services)') {
-                window.open('http://eoi.vfsglobal.ae/', '_blank')   
 			
 			}			
 			else if (Applycountry == 'UK') {
@@ -1089,6 +1270,10 @@ else  if (Fromcountry == 'India') {
 			 else if (Applycountry == 'Nigeria') {
                 window.open('http://www.vfsglobal-ie-ng.com/', '_blank')   
 			
+			}
+			else if (Applycountry == 'Turkey') {
+                window.open('http://www.vfsglobal.com/ireland/turkey/', '_blank')   
+			
 			}									
 		}
 <!--Ireland End-->
@@ -1097,7 +1282,11 @@ else  if (Fromcountry == 'India') {
 <!--Italy Start-->
  else if (Fromcountry == 'Italy') {
  
-        	if (Applycountry == 'UAE (Abu Dhabi)') {
+        	if (Applycountry == 'Colombia') {
+                window.open('http://www.vfsglobal.com/italy/colombia/', '_blank')   
+			}	
+						
+			if (Applycountry == 'UAE (Abu Dhabi)') {
                 window.open('http://www.vfsglobal.com/italy/abudhabi/', '_blank')   
 			}	
 									
@@ -1121,10 +1310,7 @@ else  if (Fromcountry == 'India') {
                 window.open('http://www.vfs-italy.co.in/', '_blank')   
 			
 			}	 
-			else if (Applycountry == 'Iran') {
-                window.open('http://www.vfsglobal.com/italy/iran/index.html', '_blank')   
 			
-			} 
 			else if (Applycountry == 'Jordan') {
                 window.open('http://www.vfsglobal.com/italy/jordan/', '_blank')   
 			
@@ -1163,7 +1349,11 @@ else  if (Fromcountry == 'India') {
 			
 			}	
 			else if (Applycountry == 'Ecuador') {
-                window.open('http://www.vfsglobal.com/italy/ecuador/', '_blank')   
+                window.open('http://www.vfsglobal.com/italy/ecuador/', '_blank')
+				
+			}	
+			else if (Applycountry == 'Vietnam') {
+                window.open('http://www.vfsglobal.com/italy/vietnam/index.html', '_blank')   
 			
 			}										
 		}
@@ -1204,6 +1394,29 @@ else  if (Fromcountry == 'India') {
 		}
 <!--Latvia End-->
 
+<!--Lithuania  Start-->
+ else if (Fromcountry == 'Lithuania') {
+ 
+        							
+			if (Applycountry == 'Russia') {
+                window.open('http://www.vfsglobal.com/Lithuania/Russia/', '_blank')   
+			}
+			if (Applycountry == 'Ukraine') {
+                window.open('http://www.vfsglobal.com/lithuania/ukraine/', '_blank')   
+			}
+				
+		}
+<!--Lithuania  End-->
+
+<!--Luxembourg  Start-->
+ else if (Fromcountry == 'Luxembourg') {
+ 
+        							
+			if (Applycountry == 'Turkey') {
+                window.open('http://www.vfsglobal.com/luxembourg/turkey/', '_blank')   
+			}	
+		}
+<!--Luxembourg  End-->
 
 <!--Malaysia Start-->
  else if (Fromcountry == 'Malaysia') {
@@ -1223,6 +1436,9 @@ else  if (Fromcountry == 'India') {
         							
 			if (Applycountry == 'China') {
                 window.open('http://mt.vfsglobal.cn/', '_blank')   
+			}
+			else if (Applycountry == 'Dubai') {
+                window.open('http://www.vfsglobal.com/Malta/GCC/', '_blank')   
 			}							
 			else if (Applycountry == 'India') {
                 window.open('http://mt.vfsglobal.co.in/', '_blank')   
@@ -1231,12 +1447,15 @@ else  if (Fromcountry == 'India') {
                 window.open('http://www.maltavac-ru.com/', '_blank')   
 			}							
 			else if (Applycountry == 'Saudi Arabia & GCC Residents') {
-                window.open('http://mt.vfsglobal.sa.com/', '_blank')   
+                window.open('http://www.vfsglobal.com/Malta/GCC/', '_blank')   
 			}							
 									
 			else if (Applycountry == 'Turkey') {
                 window.open('http://www.maltavac-tr.com/', '_blank')   
 			}	
+			else if (Applycountry == 'Libya') {
+                window.open('http://www.vfsglobal.com/Malta/Libya/', '_blank')   
+			}
 		}
 <!--Malaysia End-->
 
@@ -1279,6 +1498,12 @@ else if (Fromcountry == 'New Zealand') {
 			}
 			else if (Applycountry == 'Japan') {
                 window.open('http://www.vfsglobal.com/newzealand/Japan/', '_blank')   
+			}
+			else if (Applycountry == 'Singapore') {
+                window.open('http://www.vfsglobal.com/newzealand/singapore/', '_blank')   
+			}
+			else if (Applycountry == 'Indonesia') {
+                window.open('http://www.vfsglobal.com/NewZealand/Indonesia/index.html', '_blank')   
 			}							
 		}
 <!--New Zealand End-->
@@ -1304,7 +1529,16 @@ else if (Fromcountry == 'Norway') {
 			}	
 			else if (Applycountry == 'China') {
                 window.open('http://www.norwayvisa-china.com/', '_blank')   
-			}						
+			}
+			else if (Applycountry == 'Indonesia') {
+                window.open('http://www.vfsglobal.com/Norway/Indonesia/index.html', '_blank')   
+			}
+			else if (Applycountry == 'UK') {
+                window.open('http://www.vfsglobal.com/norway/unitedkingdom/', '_blank')   
+			}
+			else if (Applycountry == 'Kenya') {
+                window.open('http://www.vfsglobal.com/Norway/Kenya/index.html', '_blank')   
+			}							
 		}
 <!--Norway End-->
 
@@ -1320,7 +1554,6 @@ else if (Fromcountry == 'Norway') {
 			if (Applycountry == 'Ukraine') {
                 window.open('http://www.polandvisa-ukraine.com/', '_blank')   
 			}
-			
 			if (Applycountry == 'Russia') {
                 window.open('http://www.vfsglobal.com/poland/kaliningrad/', '_blank')   
 			}
@@ -1355,6 +1588,7 @@ else if (Fromcountry == 'Norway') {
 			else if (Applycountry == 'UK') {
                 window.open('http://ru.vfsglobal.co.uk/', '_blank')   
 			}
+
 		}
 <!--Russia End-->
 
@@ -1402,7 +1636,6 @@ else if (Fromcountry == 'Norway') {
 			else if (Applycountry == 'Democratic Republic of Congo') {
                 window.open('http://www.vfsglobal.com/Southafrica/DRC/', '_blank')   
 			}
-			
 			else if (Applycountry == 'Nigeria') {
                 window.open('http://www.vfsglobal.com/southafrica/nigeria/', '_blank')   
 			}
@@ -1414,26 +1647,34 @@ else if (Fromcountry == 'Norway') {
  else if (Fromcountry == 'Spain') {
  
         							
+			if (Applycountry == 'Vietnam') {
+                window.open('http://www.vfsglobal.com/spain/vietnam/', '_blank')   
+			}	
+			
 			if (Applycountry == 'Algeria') {
                 window.open('http://www.vfsglobal.com/spain/algeria/', '_blank')   
-			}					
+			}
+			
+			if (Applycountry == 'Belarus') {
+                window.open('http://www.spainvisa-belarus.com/', '_blank')   
+			}								
 		
 			else if (Applycountry == 'Bangladesh') {
                 window.open('http://www.vfsglobal.com/spain/bangladesh/', '_blank')   
 			}
 			else if (Applycountry == 'Bolivia') {
-                window.open('http://www.vfsglobal.com/spain/bolivia/', '_blank')   
+                window.open('http://www.vfsglobal.com/spain/latinamerica/index.html', '_blank')   
 			}
 			else if (Applycountry == 'Colombia') {
-                window.open('http://www.vfsglobal.com/spain/colombia/', '_blank')   
+                window.open('http://www.vfsglobal.com/spain/latinamerica/index.html', '_blank')   
 			}
 			
 			else if (Applycountry == 'Dominican Republic') {
-                window.open('http://www.vfsglobal.com/spain/dominicanrepublic/', '_blank')   
+                window.open('http://www.vfsglobal.com/spain/latinamerica/index.html', '_blank')   
 			}
 			
 			else if (Applycountry == 'Ecuador') {
-                window.open('http://www.vfsglobal.com/spain/ecuador/', '_blank')   
+                window.open('http://www.vfsglobal.com/spain/latinamerica/index.html', '_blank')   
 			}
 			
 			else if (Applycountry == 'Egypt') {
@@ -1453,9 +1694,7 @@ else if (Fromcountry == 'Norway') {
 			else if (Applycountry == 'Ireland') {
                 window.open('http://www.vfsglobal.com/spain/ireland/index.html', '_blank') 
 			}
-			else if (Applycountry == 'Iran') {
-                window.open('http://www.vfsglobal.com/spain/iran/index.html', '_blank')  
-			}
+			
 			else if (Applycountry == 'Jordan') {
                 window.open('http://www.vfsglobal.com/spain/jordan/index.html', '_blank')   
 			}
@@ -1479,12 +1718,15 @@ else if (Fromcountry == 'Norway') {
 			else if (Applycountry == 'Nigeria') {
                 window.open('http://www.vfsglobal.com/spain/nigeria/', '_blank')  
 			}
+			else if (Applycountry == 'Oman') {
+                window.open('http://www.vfsglobal.com/Spain/Oman/', '_blank')  
+			}
 			else if (Applycountry == 'Pakistan') {
                 window.open('http://www.vfsglobal.com/spain/pakistan/index.html', '_blank')   
 			}
 			
 			else if (Applycountry == 'Peru') {
-                window.open('http://www.vfsglobal.com/spain/peru/', '_blank')   
+                window.open('http://www.vfsglobal.com/spain/latinamerica/index.html', '_blank')   
 			}
 			
 			else if (Applycountry == 'Philippines') {
@@ -1492,6 +1734,9 @@ else if (Fromcountry == 'Norway') {
 			}
 			else if (Applycountry == 'Qatar') {
                 window.open('http://www.vfsglobal.com/Spain/qatar/', '_blank')
+			}
+			else if (Applycountry == 'Republic of Cote D’ivoire') {
+                window.open('http://www.vfsglobal.com/Spain/Republic_Of_CoteDivoire/', '_blank')   
 			}
 			else if (Applycountry == 'Russia') {
                 window.open('http://www.spainvac-ru.com/', '_blank')   
@@ -1540,15 +1785,19 @@ else if (Fromcountry == 'Norway') {
 			
 			}
 			else if (Applycountry == 'Mexico') {
-                window.open('http://www.vfsglobal.com/spain/mexico/index.html', '_blank')   
+                window.open('http://www.vfsglobal.com/spain/latinamerica/index.html', '_blank')   
 			
 			}
 			else if (Applycountry == 'Chile') {
-                window.open('http://www.vfsglobal.com/spain/chile/', '_blank')   
+                window.open('http://www.vfsglobal.com/spain/latinamerica/index.html', '_blank')   
 			
 			}
 			else if (Applycountry == 'Venezuela') {
-                window.open('http://www.vfsglobal.com/spain/venezuela/index.html', '_blank')   
+                window.open('http://www.vfsglobal.com/spain/latinamerica/index.html', '_blank')   
+			
+			}
+			else if (Applycountry == 'Kenya') {
+                window.open('http://www.vfsglobal.com/Spain/Kenya/index.html', '_blank')   
 			
 			}
 		}
@@ -1636,6 +1885,16 @@ else if (Fromcountry == 'Norway') {
 			}
 		}
 <!--Thailand End-->
+
+<!--Turkey Start-->
+ else if (Fromcountry == 'Turkey') {
+        							
+			if (Applycountry == 'India') {
+                window.open('http://www.vfsglobal.com/turkey/india/', '_blank')   
+			}					
+		
+		}
+<!--Turkey End-->
 
 
 <!--USA Start-->
@@ -1752,6 +2011,7 @@ else if (Fromcountry == 'Norway') {
 <!--USA End-->
 
 
+
 <!--UAE Start-->
  else if (Fromcountry == 'UAE') {
 
@@ -1798,6 +2058,22 @@ else if (Fromcountry == 'Norway') {
                 window.open('http://www.dubaivisa.net/srilanka/', '_blank')
 
             }
+			else if (Applycountry == 'Turkey') {
+
+                window.open('http://dubaivisa.net/turkey/index.html', '_blank')
+
+            }
+			else if (Applycountry == 'Algeria') {
+
+                window.open('http://www.dubaivisa.net/algeria/index.html', '_blank')
+
+            }
+			else if (Applycountry == 'UAE') {
+
+                window.open('http://www.dubaivisa.net/uae/index.html', '_blank')
+
+            }
+			
         }
 <!--UAE End-->
 
@@ -1913,10 +2189,6 @@ else if (Fromcountry == 'Norway') {
                 window.open('http://www.vfs-uk-lk.com/', '_blank')
            }  
 		   
-			else if (Applycountry == 'Syria') {
-                window.open('http://www.vfsglobal-uk-sy.com/', '_blank')
-           }  
-		   
 			else if (Applycountry == 'Thailand') {
                 window.open('http://www.vfs-uk-th.com/', '_blank')
            }  
@@ -1931,9 +2203,12 @@ else if (Fromcountry == 'Norway') {
 		   	   
 			else if (Applycountry == 'UAE') {
                 window.open('http://www.vfs-uk-ae.com/', '_blank')
-           }	
-		   	   
-			else if (Applycountry == 'Zimbabwe') {
+           }
+		    else if (Applycountry == 'Vietnam') {
+                window.open('http://www.vfsglobal.com/UK/Vietnam/', '_blank')
+           }
+		   
+		    else if (Applycountry == 'Zimbabwe') {
                 window.open('http://www.vfs-uk-za.com/Zimbabwe/', '_blank')
            }
 		   
@@ -1944,37 +2219,18 @@ else if (Fromcountry == 'Norway') {
 </script>
 
 
-<div class="need_information"> <strong>Need information on visas?</strong>
-  <div class="visiting_country">
-    <select name="ddlFirstOptionSet" id="ddlFirstOptionSet" class="textbox">
-    <option value="Visiting Country">Visiting Country</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Belgium">Belgium</option><option value="Bulgaria">Bulgaria</option><option value="Canada">Canada</option><option value="China">China</option><option value="Cyprus">Cyprus</option><option value="Czech Republic">Czech Republic</option><option value="Denmark">Denmark</option><option value="Finland">Finland</option><option value="France">France</option><option value="Germany">Germany</option><option value="Greece">Greece</option><option value="Hungary">Hungary</option><option value="Iceland">Iceland</option><option value="India">India</option><option value="Ireland">Ireland</option><option value="Italy">Italy</option><option value="Japan">Japan</option><option value="Latvia">Latvia</option><option value="Malaysia">Malaysia</option><option value="Malta">Malta</option><option value="Netherlands">Netherlands</option><option value="New Zealand">New Zealand</option><option value="Norway">Norway</option><option value="Poland">Poland</option><option value="Portugal">Portugal</option><option value="Republic of Korea">Republic of Korea</option><option value="Russia">Russia</option><option value="Singapore">Singapore</option><option value="Slovenia">Slovenia</option><option value="South Africa">South Africa</option><option value="Spain">Spain</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Thailand">Thailand</option><option value="UAE">UAE</option><option value="UK">UK</option><option value="USA">USA</option></select>
-  </div>
-  <div class="residing_country">
-    <select name="ddlSecondOptionSet" id="ddlSecondOptionSet" class="textbox">
-      <option value="Resident Country">Resident Country</option>
-    </select>
-  </div>
-  <div class="spacer5"></div>
-  <input type="hidden" name="hidCheck" id="hidCheck">
-  <img src="../images/common/btn_go2.gif" alt="" style="cursor:pointer;" border="0" onclick="gobutton();"> </div>
-
-<!--Drop down End Here-->
-
-  <div class="clear"></div>
-      <div class="50million" style="padding:20px 30px;"><img src="../images/common/50-million-white.png" width="125" height="100"></div>
-
 
     </div>
-    <div class="right_content">
-      <div class="logo_vfs"><a href="../index.asp"><img src="../images/common/vfs-global-logo.png"></a></div>
-<div class="vfs_tag">Partnering Governments. Providing Solutions.</div>
-
-      <div class="clear"></div>      <div class="gallery">
-        <div class="page_heading">
-          <div>Privacy Policy</div>
+    <div class="right_content">      
+      <div class="logo_vfs"><a href="../index.asp"><img src="../images/common/vfs-global-logo.png" alt="VFS Global, Partnering Governments. Providing Solutions." title="VFS Global"></a></div>
+      <div class="vfs_tag">Partnering Governments. Providing Solutions.</div>
+      <div class="clear"></div>
+      <div class="gallery clearfix">
+        <div class="page_heading">Privacy Policy</div>
+        <div class="page_descriptions">
+          <!--VFS Global is a global outsourcing and technology services specialist for diplomatic missions and governments worldwide.-->
         </div>
-        <div class="page_descriptions"></div>
-        <div class="human_pic"><img src="../images/Disclaimer/header.png"></div>
+        <div class="human_pic clearfix"><img src="../images/Disclaimer/header.png" alt="VFS Global" title="VFS Global"></div>
       </div>
       <div class="spacer15"></div>
       <div class="breadcrumb">
@@ -2046,59 +2302,66 @@ If at any time you believe that VFS Global has not adhered to the Privacy Policy
           <p></p>
         </div>
         <div class="right">
-  <div class="right_heading" style="background:url(../images/common/bg_customers_speak.gif) no-repeat;"><strong>Testimonials</strong></div>
-  <div class="blurb_content" style="border-bottom:1px #E5E5E5 solid;">
-    <div class="read_more"><a href="../about_us/testimonials.asp"><img src="../images/common/btn_read_more.gif" alt=""></a></div>
-    <p><strong>Asif Ahmad</strong> <br>
-      HM Ambassador, British Embassy, Bangkok, Thailand</p>
-    <p><strong>Kingsley Magee</strong> <br>
-      Regional Operations Manager, UKBA, Manila, Philippines</p>
-  </div>
-  <div class="spacer10"></div>
-  <div class="right_heading" style="background:url(../images/common/bg_latest_news.gif) no-repeat;"><strong>Latest News</strong></div>
-  <div class="blurb_content" style="border-bottom:1px #E5E5E5 solid;">
-    <div class="read_more"><a href="../news_events/news_coverage.asp"><img src="../images/common/btn_read_more.gif" alt=""></a></div>
-     <p><strong>China opens Visa Application Service Center in Kolkata</strong> <br>
-      Travelbizmonitor.com, November 2012</p>    
-    <p><strong>Slovenia appoints VFS Global to manage visa application services in 6 Indian cities</strong> <br>
-      Travelbizmonitor.com, October 2012</p>
-   
-  </div>
-  <div style="padding:10px;"><img src="../images/common/isologo.png" width="198" height="93"></div>
-</div>
-
+          <div class="blurb testimonials">
+            <div class="blurb_heading"><strong>Testimonials</strong></div>
+            <div class="blurb_content">
+              <p><strong>Asif Ahmad</strong> <br>
+                HM Ambassador, British Embassy, Bangkok, Thailand</p>
+              <br>
+              <p><strong>Kingsley Magee</strong> <br>
+                Regional Operations Manager, UKBA, Manila, Philippines</p>
+              <p>&nbsp;</p>
+              <div class="read_more"><a href="../about_us/testimonials.asp"><img src="../images/common/btn_read_more.gif" alt=""></a></div>
+            </div>
+          </div>
+          <div class="spacer15"></div>
+          <div class="blurb latest_news">
+            <div class="blurb_heading"><strong>Latest News</strong></div>
+            <div class="blurb_content">
+               <p><strong>VFS Global wins Dubai Quality Appreciation Award</strong> <br>
+                Travel Biz Monitor, May 2013</p>
+              <p>&nbsp;</p><p><strong>Zubin Karkaria appointed on Executive Board of Kuoni Group</strong> <br>
+                Indiainfoline.com, March 2013</p>
+              <p>&nbsp;</p>
+             
+              <div class="read_more"><a href="../news_events/news_coverage.asp"><img src="../images/common/btn_read_more.gif" alt=""></a></div>
+            </div>
+          </div>
+          <div class="isologo clearfix"><img src="../images/common/isologo.png" width="198" height="93"></div>
+        </div>
+        
         <div class="clear"></div>
       </div>
     </div>
-    <blockquote>&nbsp;</blockquote><div class="watermark"></div>
+    <div class="clear"></div>
+    <div class="spacer10"></div>
+    <div class="watermark"></div>
     <div class="clear"></div>
   </div>
+  
   <div class="footer">
-    <div class="footer_content">
-    <span>© 2012 VFS Global Group. All Rights Reserved.</span>
-    <ul>
- 		<!--<li><a href="../disclaimer/trademarks.asp">Trademarks</a></li>-->
+    <div class="footer_content"> <span>© 2013 VFS Global Group. All Rights Reserved.</span>
+      <ul>
         <li><a href="../disclaimer/privacy_policy.asp">Privacy Policy </a></li>
         <li><a href="../disclaimer/terms_of_use.asp">Terms of Use </a></li>
-        <li><a href="../disclaimer/legal_policy.asp">Legal Policy </a></li>
+        <li><a href="../disclaimer/legal_policy.asp">Legal Policy</a></li>
         <li style="border:none;"><a href="../sitemap/sitemap.asp">Sitemap</a></li>
       </ul>
     </div>
   </div>
 </div>
-<script type="text/javascript">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-18850016-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  ga('create', 'UA-40516346-1', 'vfsglobal.com');
+  ga('send', 'pageview');
 
 </script>
+
+
 
 
 </body></html>
