@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the italyexpoonline.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231082928id_/http%3A//italyexpoonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italyexpoonline.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602183343id_/http%3A//italyexpoonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
