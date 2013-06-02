@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worddictionary.com.au privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103105336id_/http%3A//www.worddictionary.com.au/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worddictionary.com.au privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602124433id_/http%3A//worddictionary.com.au/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - WordDictionary.com.au
+# Privacy Policy - Worddictionary.com.au
 
-WordDictionary.com.au (hereafter referred to as "WordDictionary") respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy is only applicable to the site - http://www.WordDictionary.com.au (the "Site"), and not any other websites that are accessible from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. We are not responsible for the privacy practices of such websites.
+Worddictionary.com.au (hereafter referred to as "WordDictionary") respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy is only applicable to the site - http://www.Worddictionary.com.au (the "Site"), and not any other websites that are accessible from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. We are not responsible for the privacy practices of such websites.
 
 ### INFORMATION AUTOMATICALLY COLLECTED BY THE SITE
 
