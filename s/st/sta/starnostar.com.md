@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the starnostar.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116060100id_/http%3A//www.starnostar.com/Legal-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starnostar.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602135323id_/http%3A//www.starnostar.com/Legal-Privacy-Policy) for the most accurate reproduction.*
 
-# Star No Star | Who Is Celebrity | Legal | Privacy Policy | Disclaimer
+# StarNoStar | StarNoStar Legal | StarNoStar Privacy Policy | StarNoStar Disclaimer
 
-Date: 11-16-2012
+Date: 06-02-2013
 
 ## Privacy Policy, Terms & Conditions :
 
@@ -12,7 +12,7 @@ Welcome to Star No Star Privacy Policy, Terms and Conditions. Please take a mome
 
 This privacy policy explains how we collect and use your personal information under the [Privacy Act of 1974, 5 U.S.C. § 552a](http://www.justice.gov/opcl/privstat.htm).
 
-By using [www.starnostar.com](http://www.starnostar.com/) you consent Star No Star to the collection, and use of your personal information in accordance to this policy. We are committed to protecting personal and private data collected on [www.starnostar.com](http://www.starnostar.com/). We collect anonymous information such as your IP address, browser type you are using, the pages you have visited, and all links and advertisements you have clicked on. We use "cookies" to collect information. A cookie is a data file that we send "transfer" to your computer and this file is then stored on your computer "hard drive". The cookie identifies your computer to [www.starnostar.com](http://www.starnostar.com/) so that you do not have to re-login each time you visit the website. 
+By using [www.starnostar.com](http://www.starnostar.com/) you consent Star No Star to the collection, and use of your personal information in accordance to this policy. We are committed to protecting personal and private data collected on [www.starnostar.com](http://www.starnostar.com/). We collect anonymous information such as your IP address, browser type you are using, the pages you have visited, and all links and advertisements you have clicked on. We use "cookies" to collect information. A cookie is a data file that we send "transfer" to your computer and this file is then stored on your computer "hard drive". The cookie identifies your computer to [www.starnostar.com](http://www.starnostar.com/) so that you do not have to re-login each time you visit the website.
 
 ### Terms & Conditions
 
@@ -28,17 +28,17 @@ We keep track of the top 10 most popular people on the planet which are voted by
 
 Submissions:
 
-Visitors or registered members may submit their own profile with all fields completed. Before submitted a new profile to star no star. After submitting a new profile, the profile will go into Pending Status ( not live on star no star ). After careful review from our staff, the new profile submitted will be live ( posted ) on star no star. If the profile submitted is not approved, our staff may or may not send an email responding why it was refused ( not approved ). This applies to registered members only. Non registered members will receive no reply in anyway. 
+Visitors or registered members may submit their own profile with all fields completed. Before submitted a new profile to star no star. After submitting a new profile, the profile will go into Pending Status ( not live on star no star ). After careful review from our staff, the new profile submitted will be live ( posted ) on star no star. If the profile submitted is not approved, our staff may or may not send an email responding why it was refused ( not approved ). This applies to registered members only. Non registered members will receive no reply in anyway.
 
 Voting:
 
-Registered and non registered members ( visitors ) may view and vote on any profile they wish. This vote is not limited to just one vote. You may vote on any profile as many times as you wish. After each vote, we randomly select another profile from our database for you to view and vote on. You may alter ( change ) the profiles which are displayed to you automatically by changing the settings. 
+Registered and non registered members ( visitors ) may view and vote on any profile they wish. This vote is not limited to just one vote. You may vote on any profile as many times as you wish. After each vote, we randomly select another profile from our database for you to view and vote on. You may alter ( change ) the profiles which are displayed to you automatically by changing the settings.
 
 Non registered members "visitors"
 
-visiting [www.starnostar.com](http://www.starnostar.com/) consent on collecting your votes and storing this information into our database in order to give all our visitors real time statistics around the world in real time. No other personal information about you is collected. 
+visiting [www.starnostar.com](http://www.starnostar.com/) consent on collecting your votes and storing this information into our database in order to give all our visitors real time statistics around the world in real time. No other personal information about you is collected.
 
-Registered members using [www.starnostar.com](http://www.starnostar.com/) consent on collecting your votes and storing this information into our database in order to give our visitors real time statistics around the world in real time. Other Member information such as, "username, real name, email, or combination of those, etc" will not be disclosed unless authorized to do so by law. 
+Registered members using [www.starnostar.com](http://www.starnostar.com/) consent on collecting your votes and storing this information into our database in order to give our visitors real time statistics around the world in real time. Other Member information such as, "username, real name, email, or combination of those, etc" will not be disclosed unless authorized to do so by law.
 
 We collect your personal information in order to:
 
@@ -53,9 +53,9 @@ We collect your personal information in order to:
 
 ### Online Submissions
 
-Visitors "registered and non registered members" may submit new profiles at anytime. When submitting a new profile we review every submission in order to eliminate any fake or inappropriate images, text or any other materials in the submission. Any unlawful information will be submitted to the proper law authorities in order to protect our users and visitors. By using our submission form you knowledge that the information provided is correct to your knowledge. Images uploaded to [www.starnostar.com](http://www.starnostar.com/) using our submission form is credited to its rightful owners. 
+Visitors "registered and non registered members" may submit new profiles at anytime. When submitting a new profile we review every submission in order to eliminate any fake or inappropriate images, text or any other materials in the submission. Any unlawful information will be submitted to the proper law authorities in order to protect our users and visitors. By using our submission form you knowledge that the information provided is correct to your knowledge. Images uploaded to [www.starnostar.com](http://www.starnostar.com/) using our submission form is credited to its rightful owners.
 
-*Registered or non-registered members submitting a new profile agree to the following terms.   
+*Registered or non-registered members submitting a new profile agree to the following terms.  
 ** Uploaded content ( Images and/or Text ) is to your knowledge as accurate as possible.  
 ** Images uploaded to [www.starnostar.com](http://www.starnostar.com/)
 
@@ -67,11 +67,11 @@ Visitors "registered and non registered members" may submit new profiles at anyt
 
 ** You are fully responsible for any content ( Images and/or Text ) you upload to [www.starnostar.com](http://www.starnostar.com/)
 
-Visitors and Members uploading images to star no star are the rightful owners of the images and or have permission, courtesy to use these images. Rightful owners of images posted on [www.starnostar.com](http://www.starnostar.com/) retain the right to request any or all images to be removed from our servers. 
+Visitors and Members uploading images to star no star are the rightful owners of the images and or have permission, courtesy to use these images. Rightful owners of images posted on [www.starnostar.com](http://www.starnostar.com/) retain the right to request any or all images to be removed from our servers.
 
 ### How to become a Star no Star member
 
-Visitors my register and become members of star no star. You must provide a real email in order for you to activate your account after registering with Star no Star. Please keep all login and password information safe to assure maximum security of your profile. You are responsible for your any information uploaded and posted under your account. 
+Visitors my register and become members of star no star. You must provide a real email in order for you to activate your account after registering with Star no Star. Please keep all login and password information safe to assure maximum security of your profile. You are responsible for your any information uploaded and posted under your account.
 
 Membership Cancellation:
 
@@ -83,11 +83,11 @@ Images of people on [www.starnostar.com](http://www.starnostar.com/) fall under 
 
 ### DMCA Notice
 
-**Definition of "Private":** Belonging to or for the use of one particular person or group of people only.
+ **Definition of "Private":** Belonging to or for the use of one particular person or group of people only.
 
-**Definition of "Public":** Of or concerning the people as a whole.
+ **Definition of "Public":** Of or concerning the people as a whole.
 
-**Our search results simply reflect what's already out there on the web publicly accessible.**
+ **Our search results simply reflect what's already out there on the web publicly accessible.**
 
 StarNoStar is an advanced search engine. We are not the primary source of information. We do not own the Internet, and we do not control the content of unrelated sites that appear in our search results. Our search results simply reflect what's already out there on the web publicly accessible.
 
@@ -97,17 +97,17 @@ Procedures for making claims.
 
 ### Before doing so, please carefully read:
 
-  * **Internet Freedom and Nondiscrimination Act of 2006 (H.R.5417, 109th Congress)**
-  * **2008 (H.R.5994, 110th Congress)**
-  * **Digital Millennium Copyright Act (DMCA) 17 U.S.C. § 512(f) - Limitations on liability relating to material online**
-  * **Freedom of the press**
-  * **The Universal Declaration of Human Rights**
+  *  **Internet Freedom and Nondiscrimination Act of 2006 (H.R.5417, 109th Congress)**
+  *  **2008 (H.R.5994, 110th Congress)**
+  *  **Digital Millennium Copyright Act (DMCA) 17 U.S.C. § 512(f) - Limitations on liability relating to material online**
+  *  **Freedom of the press**
+  *  **The Universal Declaration of Human Rights**
 
 
 
 Freedom of the press in the United States is protected by the First Amendment to the United States Constitution.
 
-**The Universal Declaration of Human Rights states:**
+ **The Universal Declaration of Human Rights states:**
 
 "Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference, and impart information and ideas through any media regardless of frontiers"
 
@@ -124,7 +124,7 @@ Please provide StarNoStar legal group specified information below if you believe
 
 
 
-**512(f) acknowledgment under 17 U.S.C. § 512(f), you may be liable for any damages, including costs and attorneys' fees, if you knowingly materially misrepresented reported material.**
+ **512(f) acknowledgment under 17 U.S.C. § 512(f), you may be liable for any damages, including costs and attorneys' fees, if you knowingly materially misrepresented reported material.**
 
 ### Liability
 
