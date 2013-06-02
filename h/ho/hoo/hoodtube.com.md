@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoodtube.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118140335id_/http%3A//hoodtube.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoodtube.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602212855id_/http%3A//hoodtube.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,3 +50,5 @@ Where we have given you (or where you have chosen a password) which enables you 
 **YOUR RIGHTS**
 
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to hoodtube@gmail.com
+
+google-site-verification: google3740ea2c91a24fa9.html
