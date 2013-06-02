@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sensorly.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102220619id_/http%3A//www.sensorly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sensorly.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602055207id_/http%3A//sensorly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Sensorly
 
