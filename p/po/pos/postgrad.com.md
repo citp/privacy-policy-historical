@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postgrad.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201122413id_/http%3A//www.postgradsolutions.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postgrad.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602211105id_/http%3A//www.postgradsolutions.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Postgrad Solutions
 
