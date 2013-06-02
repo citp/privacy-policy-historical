@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrityplasticsurgery24.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015081940id_/http%3A//www.celebrityplasticsurgery24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrityplasticsurgery24.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602120028id_/http%3A//www.celebrityplasticsurgery24.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - www.celebrityplasticsurgery24.com
 
@@ -36,24 +36,8 @@ On this site, we host advertisements as part of Google’s adwords program. This
 
 The content of this statement may be altered at any time.
 
-Be Sociable, Share!
+  * [Share on Facebook.](http://www.facebook.com/sharer.php?u=http://www.celebrityplasticsurgery24.com/privacy-policy/&locale=en_US&t=Privacy%20Policy)
+  *   * [Share on Google+](https://plus.google.com/share?url=http://www.celebrityplasticsurgery24.com/privacy-policy/)
+  * [Pin It!](http://pinterest.com/pin/create/button/?url=http://www.celebrityplasticsurgery24.com/privacy-policy/&media=&description=Privacy%20Policy)
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.celebrityplasticsurgery24.com%2Fprivacy-policy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.celebrityplasticsurgery24.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.celebrityplasticsurgery24.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.celebrityplasticsurgery24.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.celebrityplasticsurgery24.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Our%20Commitment%20To%20Your%20Privacy%0D%0A%0D%0AYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.celebrityplasticsurgery24.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.celebrityplasticsurgery24.com%2Fprivacy-policy%2F&srcTitle=Celebrity+Plastic+Surgery+24+What+the+stars+don%26%23039%3Bt+want+you+to+know... "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.celebrityplasticsurgery24.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Celebrity+Plastic+Surgery+24+What+the+stars+don%26%23039%3Bt+want+you+to+know...&summary=Our%20Commitment%20To%20Your%20Privacy%0D%0A%0D%0AYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.celebrityplasticsurgery24.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
-  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.celebrityplasticsurgery24.com%2Fprivacy-policy%2F&title=Privacy%20Policy&bodytext=Our%20Commitment%20To%20Your%20Privacy%0D%0A%0D%0AYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To "Digg")
-  * [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http%3A%2F%2Fwww.celebrityplasticsurgery24.com%2Fprivacy-policy%2F&title=Privacy%20Policy&annotation=Our%20Commitment%20To%20Your%20Privacy%0D%0A%0D%0AYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To "Google Bookmarks")
-  * [](http://news.ycombinator.com/submitlink?u=http%3A%2F%2Fwww.celebrityplasticsurgery24.com%2Fprivacy-policy%2F&t=Privacy%20Policy "HackerNews")
-  * [](http://reporter.es.msn.com/?fn=contribute&Title=Privacy%20Policy&URL=http%3A%2F%2Fwww.celebrityplasticsurgery24.com%2Fprivacy-policy%2F&cat_id=6&tag_id=31&Remark=Our%20Commitment%20To%20Your%20Privacy%0D%0A%0D%0AYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To "MSNReporter")
-  * [](http://www.myspace.com/Modules/PostTo/Pages/?u=http%3A%2F%2Fwww.celebrityplasticsurgery24.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Myspace")
-  * [](http://posterous.com/share?linkto=http%3A%2F%2Fwww.celebrityplasticsurgery24.com%2Fprivacy-policy%2F&title=Privacy%20Policy&selection=Our%20Commitment%20To%20Your%20Privacy%0D%0A%0D%0AYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To "Posterous")
-  * [](http://reddit.com/submit?url=http%3A%2F%2Fwww.celebrityplasticsurgery24.com%2Fprivacy-policy%2F&title=Privacy%20Policy "Reddit")
-  * [](http://www.tumblr.com/share?v=3&u=http%3A%2F%2Fwww.celebrityplasticsurgery24.com%2Fprivacy-policy%2F&t=Privacy%20Policy&s=Our%20Commitment%20To%20Your%20Privacy%0D%0A%0D%0AYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To "Tumblr")
-  * [](http://sphinn.com/index.php?c=post&m=submit&link=http%3A%2F%2Fwww.celebrityplasticsurgery24.com%2Fprivacy-policy%2F "Sphinn")
-  * 
 
