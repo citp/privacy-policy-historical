@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prometheanplanet.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202152416id_/http%3A//www.prometheanplanet.com/en-us/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prometheanplanet.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602022925id_/http%3A//www.prometheanplanet.com/en-us/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Promethean Planet
 
@@ -36,6 +36,8 @@ d) To recognise you when you return to Our Site.
 3.3 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of Our Site. Unless you have adjusted your browser setting so that it will refuse cookies, Our system will issue cookies when you log on to Our Site.
 
 3.4 Please note that Our advertisers may also use cookies, over which We have no control.
+
+3.5 For more detail about the information we collect and how we use cookies, please read our [Cookies Policy](https://web.archive.org/en-us/support/cookies-policy/).
 
 ### 4\. WHERE WE STORE YOUR PERSONAL DATA
 
