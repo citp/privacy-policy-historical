@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the claremont.org privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227164408id_/http%3A//www.claremont.org/about/pageID.2737/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the claremont.org privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602192615id_/http%3A//www.claremont.org/about/pageID.2737/default.asp) for the most accurate reproduction.*
 
 # The Claremont Institute - Privacy Statement
 
