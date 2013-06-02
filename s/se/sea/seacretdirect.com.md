@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seacretdirect.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617023509id_/http%3A//seacretdirect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seacretdirect.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602125602id_/https%3A//www.seacretdirect.com/privacy.aspx%3FnLanguageID%3D0%26cultureCode%3Den-US) for the most accurate reproduction.*
 
 # Seacret Direct : Privacy Policy
 
