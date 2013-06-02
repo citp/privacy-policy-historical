@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the verabear.net privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130213407id_/http%3A//verabear.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verabear.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602022555id_/http%3A//verabear.net/privacy) for the most accurate reproduction.*
 
 # where the moon shines » Privacy
-
-## Privacy
 
 **Verabear.net’s Privacy Policy**
 
