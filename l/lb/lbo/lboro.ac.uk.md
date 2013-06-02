@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lboro.ac.uk privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201230937id_/http%3A//www.lboro.ac.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lboro.ac.uk privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602152019id_/http%3A//www.lboro.ac.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy | General information | Loughborough University
 
@@ -28,7 +28,7 @@ Loughborough University is committed to the security of our users' personal info
 
 ### Cookies
 
-See our [Cookies page](https://web.archive.org/web/20121201230937id_/http%3A//www.lboro.ac.uk/cookies.html) for more information about our cookie use and how you can restrict or block cookies.
+See our [Cookies page](https://web.archive.org/web/20130602152019id_/http%3A//www.lboro.ac.uk/cookies.html) for more information about our cookie use and how you can restrict or block cookies.
 
 ### Capturing of Personal Information outside the European Economic Area
 
