@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sanmecrusher.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201103427id_/http%3A//www.sanmecrusher.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanmecrusher.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602021018id_/http%3A//www.sanmecrusher.com/info/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy_Sanme
+# Privacy-policy_SANME
 
 Sanme(Shanghai Sanme Mining Machinery Co.,Ltd) takes very seriously the privacy of the Site users and the security of your personal information. It is Sanme's aim that you, if your personal information is processed by Sanme, at all times shall feel confident that your privacy is respected and that due care is taken regarding your personal information.
 
@@ -22,6 +22,6 @@ Sanme does not assume any responsibility for the privacy practices or the conten
 Sanme may at any time revise the terms of this Privacy Policy by updating it.
 
 If you have any questions regarding Sanme's processing of your personal information, you are welcome to contact us.  
-Tel: +86-21-58202968   58206909  
+Tel: +86-21-57121166  
 Fax: +86-21-58200089  
 E-mail: service@sanmecrusher.com 
