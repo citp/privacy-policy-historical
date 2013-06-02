@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the diabetes.co.uk privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028032450id_/http%3A//www.diabetes.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetes.co.uk privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602162106id_/http%3A//www.diabetes.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
 At Diabetes.co.uk, we are committed to protecting your privacy and developing technology that gives you the most powerful, safe, online experience that you can get anywhere.
 
-This policy, alongside the Diabetes.co.uk [Terms and Conditions](https://web.archive.org/web/20121028032450id_/http%3A//www.diabetes.co.uk/disclaimer.html), sets out the basis on which any personal data we collect from you, or is provided to us by yourself, is processed. Please the following carefully to understand how your data is used and how it is treated.
+This policy, alongside the Diabetes.co.uk [Terms and Conditions](https://web.archive.org/web/20130602162106id_/http%3A//www.diabetes.co.uk/disclaimer.html), sets out the basis on which any personal data we collect from you, or is provided to us by yourself, is processed. Please the following carefully to understand how your data is used and how it is treated.
 
 You can also jump to see how cookies are used.
 
@@ -98,7 +98,7 @@ By using this site, you agree with the terms of this Privacy Policy. Whenever yo
 ## Information disclosure
 
   * We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
-  * We may disclose your personal information to third parties: (a) in the event that we sell any business or assets, in which case we may disclose your personal data to the prospective buyer of such business or assets or if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or (b) in order to enforce or apply our [Terms](https://web.archive.org/web/20121028032450id_/http%3A//www.diabetes.co.uk/disclaimer.html) and other agreements. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+  * We may disclose your personal information to third parties: (a) in the event that we sell any business or assets, in which case we may disclose your personal data to the prospective buyer of such business or assets or if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or (b) in order to enforce or apply our [Terms](https://web.archive.org/web/20130602162106id_/http%3A//www.diabetes.co.uk/disclaimer.html) and other agreements. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
 
 
