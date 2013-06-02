@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endoftheamericandream.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124034845id_/http%3A//endoftheamericandream.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endoftheamericandream.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602022333id_/http%3A//endoftheamericandream.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
@@ -6,13 +6,15 @@
 
 Site Terms
 
-> Pictures and information on this blog are for commenting purposes only. We use images and information found on the web and consider to be in the public domain. We claim no ownership of them. We make no representations as to accuracy, completeness, currentness, suitability, or validity of any information on this site and will not be liable for any errors, omissions, or delays in this information or any losses, injuries, or damages arising from its display or use. If there is an image you don't want displayed on this site, please contact us using the contact form linked to at the top of the page and it will be deleted immediately.
+> Pictures and information on this blog are for commenting purposes only. We use images and information found on the web and consider to be in the public domain. We claim no ownership of them. We make no representations as to accuracy, completeness, currentness, suitability, or validity of any information on this site and will not be liable for any errors, omissions, or delays in this information or any losses, injuries, or damages arising from its display or use. If there is an image you don’t want displayed on this site, please contact us using the contact form linked to at the top of the page and it will be deleted immediately.
 
 I. LINKS TO OTHER SITES
 
 This website has relationships with other companies that we allow to place ads and links on our pages. As a result of your visit to this website, ad server companies may collect information such as your domain type, your IP address, and clickstream information.
 
 Please note that when you click on one of these links, you are moving from this website to another website. We encourage you to read the site terms and privacy statements of these linked sites as their site terms and privacy policies may differ from ours.
+
+The American Dream Blog is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
 II. ORDERS
 
@@ -30,7 +32,7 @@ Under no circumstances does this website request or collect sensitive personally
 
 B. Non-Personally Identifiable Information
 
-When a consumer responds to or views an Internet advertisement served by this website (such as through third-party websites or email solicitation) or visits an advertiser’s web site, we send a cookie and/or gif file ("Cookies") to assign an anonymous, unique identifier to the end user’s Internet browser. Cookies are small data files commonly used on the Internet to help optimize and personalize the Internet end user experience and identify repeat visitors to websites. This website uses Cookies to obtain information about the preferences of consumers and the services they select; and also to optimize and personalize the Internet user’s experience. If the Internet user re-visits the advertiser’s site directly, This website is able to continue to track the user’s activities. Like most standard website servers, we use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, and date/time stamp. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content. This information, however, is not linked to any personally identifiable information. We also may use Internet browsing and online purchase data associated with an anonymous identifier to develop a predictive statistical user profile of the end user’s needs and interests. This website does not use Cookies or log files to collect end users’ names, physical addresses, email addresses, phone numbers, credit card numbers, social security numbers, or any other information which can be used to identify a specific person. This website has relationships with other companies that we allow to place ads and links on our web pages. Please note that when you click on one of these links, you are moving to another website. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+When a consumer responds to or views an Internet advertisement served by this website (such as through third-party websites or email solicitation) or visits an advertiser’s web site, we send a cookie and/or gif file (“Cookies”) to assign an anonymous, unique identifier to the end user’s Internet browser. Cookies are small data files commonly used on the Internet to help optimize and personalize the Internet end user experience and identify repeat visitors to websites. This website uses Cookies to obtain information about the preferences of consumers and the services they select; and also to optimize and personalize the Internet user’s experience. If the Internet user re-visits the advertiser’s site directly, This website is able to continue to track the user’s activities. Like most standard website servers, we use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, and date/time stamp. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content. This information, however, is not linked to any personally identifiable information. We also may use Internet browsing and online purchase data associated with an anonymous identifier to develop a predictive statistical user profile of the end user’s needs and interests. This website does not use Cookies or log files to collect end users’ names, physical addresses, email addresses, phone numbers, credit card numbers, social security numbers, or any other information which can be used to identify a specific person. This website has relationships with other companies that we allow to place ads and links on our web pages. Please note that when you click on one of these links, you are moving to another website. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
 Some of these other companies may use marketing technology that allows advertisers to add non-personally-identifying demographic information, such as age, gender, area code, or ZIP code, to the non-identifiable profile data. Thus, there is no direct connection between an end user’s online choices and his or her personal identity. In some cases, this website receives and records partial email addresses of Internet users, only in circumstances where the user voluntarily provided its identity and contact information through the advertiser’s site or third-party marketer’s site. This partial email address does not enable this website to personally identify an Internet rser nor is it shared, sold, rented, or given away.
 
@@ -42,7 +44,7 @@ III. CONSUMER CHOICE AND ACCESS
 
 A. Opting Out.
 
-Some Cookies have an “opt-out” option. This process does not remove this website's Cookie from your system; it simply replaces it with an opt-out Cookie that does not contain any unique identifiers. If this site provides such a process it is detailed below. Some of this website’s Cookies do not have an “opt-out” option, yet you still have the option of blocking the use of Cookies by changing a setting in your Internet browser. Please see your browser supplier’s Web site for details on how to do this. This site does not maintain a process for an individual consumer to opt-out of this website’s Cookies.
+Some Cookies have an “opt-out” option. This process does not remove this website’s Cookie from your system; it simply replaces it with an opt-out Cookie that does not contain any unique identifiers. If this site provides such a process it is detailed below. Some of this website’s Cookies do not have an “opt-out” option, yet you still have the option of blocking the use of Cookies by changing a setting in your Internet browser. Please see your browser supplier’s Web site for details on how to do this. This site does not maintain a process for an individual consumer to opt-out of this website’s Cookies.
 
 B. Accessing Consumer Information.
 
@@ -64,7 +66,7 @@ VII. DATA PROCESSING/SAFE HARBOR
 
 The European Union maintains strict privacy laws. These rules differ significantly from US laws. To reconcile these differences, the US and the EU have created a Safe Harbor that defines mutually acceptable privacy operations. This website adheres to the Safe Harbor principals.
 
-For more information see [www.export.gov/safeharbor](http://www.export.gov/safeharbor "www.export.gov/safeharbor").
+For more information see [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
 VIII. LIMITATION OF LIABILITY, THIRD PARTY INFORMATION & LANGUAGE
 
@@ -73,3 +75,20 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to this website with regard to: (a) the purposes for which such third party’s personal data has been collected; (b) the intended recipients or categories of recipients of the third party’s personal data; (c) which of the third party’s data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express will of the parties that this agreement and all related documents have been drawn up in English.
 
 Updated 1/29/2009
+
+[](http://www.amazon.com/gp/product/1484871308/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1484871308&linkCode=as2&tag=theeconomiccollapse-20)
+
+Be Sociable, Share!
+
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fendoftheamericandream.com%2Fwebsite-privacy-policy&t=Website%20Privacy%20Policy "Facebook")
+  * [](http://twitter.com/intent/tweet?text=Website%20Privacy%20Policy%20-%20http%3A%2F%2Fendoftheamericandream.com%2Fwebsite-privacy-policy%20 "Twitter")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Website%20Privacy%20Policy&body=http%3A%2F%2Fendoftheamericandream.com%2Fwebsite-privacy-policy&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fendoftheamericandream.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fendoftheamericandream.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy&notes=Site%20Terms%20and%20Privacy%20Policy%0D%0A%C2%A0%0D%0ASite%20Terms%0D%0APictures%20and%20information%20on%20this%20blog%20are%20for%20commenting%20purposes%20only.%20We%20use%20images%20and%20information%20found%20on%20the%20web%20and%20consider%20to%20be%20in%20the%20public%20domain.%20We%20claim%20no%20ownership%20of%20them.%20We%20make%20no%20r "Delicious")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fendoftheamericandream.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy&source=The+American+Dream+Waking+People+Up+And+Getting+Them+To+Realize+That+The+American+Dream+Is+Quickly+Becoming+The+American+Nightmare&summary=Site%20Terms%20and%20Privacy%20Policy%0D%0A%C2%A0%0D%0ASite%20Terms%0D%0APictures%20and%20information%20on%20this%20blog%20are%20for%20commenting%20purposes%20only.%20We%20use%20images%20and%20information%20found%20on%20the%20web%20and%20consider%20to%20be%20in%20the%20public%20domain.%20We%20claim%20no%20ownership%20of%20them.%20We%20make%20no%20r "LinkedIn")
+  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fendoftheamericandream.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy&bodytext=Site%20Terms%20and%20Privacy%20Policy%0D%0A%C2%A0%0D%0ASite%20Terms%0D%0APictures%20and%20information%20on%20this%20blog%20are%20for%20commenting%20purposes%20only.%20We%20use%20images%20and%20information%20found%20on%20the%20web%20and%20consider%20to%20be%20in%20the%20public%20domain.%20We%20claim%20no%20ownership%20of%20them.%20We%20make%20no%20r "Digg")
+  * [](http://posterous.com/share?linkto=http%3A%2F%2Fendoftheamericandream.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy&selection=Site%20Terms%20and%20Privacy%20Policy%0D%0A%C2%A0%0D%0ASite%20Terms%0D%0APictures%20and%20information%20on%20this%20blog%20are%20for%20commenting%20purposes%20only.%20We%20use%20images%20and%20information%20found%20on%20the%20web%20and%20consider%20to%20be%20in%20the%20public%20domain.%20We%20claim%20no%20ownership%20of%20them.%20We%20make%20no%20r "Posterous")
+  * [](http://reddit.com/submit?url=http%3A%2F%2Fendoftheamericandream.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy "Reddit")
+  * [](http://www.tumblr.com/share?v=3&u=http%3A%2F%2Fendoftheamericandream.com%2Fwebsite-privacy-policy&t=Website%20Privacy%20Policy&s=Site%20Terms%20and%20Privacy%20Policy%0D%0A%C2%A0%0D%0ASite%20Terms%0D%0APictures%20and%20information%20on%20this%20blog%20are%20for%20commenting%20purposes%20only.%20We%20use%20images%20and%20information%20found%20on%20the%20web%20and%20consider%20to%20be%20in%20the%20public%20domain.%20We%20claim%20no%20ownership%20of%20them.%20We%20make%20no%20r "Tumblr")
+  * 
+
