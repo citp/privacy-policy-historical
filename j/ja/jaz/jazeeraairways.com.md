@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jazeeraairways.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118053624id_/http%3A//www.jazeeraairways.com/privacypolicy.aspx%3FLang%3DEn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jazeeraairways.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602145520id_/http%3A//jazeeraairways.com/privacypolicy.aspx%3FLang%3DEn) for the most accurate reproduction.*
 
 # Privacy Policy - Jazeera Airways
 
@@ -27,7 +27,7 @@ Jazeera Airways may need to pass your data to selected third parties in order to
 
 **Note:**
 
-Though we are pleased to inform our customers of the offers and other deals, we leave you the choice of privacy; if you would like to have your personal data which we have retained for marketing purposes removed from our database, please visit the [unsubscribe](https://web.archive.org/web/20121118053624id_/http%3A//www.jazeeraairways.com/FreedomMail.aspx) page. 
+Though we are pleased to inform our customers of the offers and other deals, we leave you the choice of privacy; if you would like to have your personal data which we have retained for marketing purposes removed from our database, please visit the [unsubscribe](https://web.archive.org/web/20130602145520id_/http%3A//jazeeraairways.com/FreedomMail.aspx) page. 
 
 **Information Security:**
 
