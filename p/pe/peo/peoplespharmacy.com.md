@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peoplespharmacy.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010062651id_/https%3A//store.peoplespharmacy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplespharmacy.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602131649id_/https%3A//store.peoplespharmacy.com/privacy-policy) for the most accurate reproduction.*
 
-# Buy Privacy Policy from The People's Pharmacy
+# Privacy Policy from The People's Pharmacy
 
 **Privacy Notice Table Of Contents:**   
 
