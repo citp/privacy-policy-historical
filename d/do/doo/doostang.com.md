@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the doostang.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021130443id_/http%3A//www.doostang.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doostang.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602101910id_/http%3A//www.doostang.com/info/privacy_policy) for the most accurate reproduction.*
 
 # Find top finance and consulting jobs on Doostang
 
 ## Privacy on Doostang
 
-This privacy policy was last modified on May 2, 2011.
+This privacy policy was last modified on December 17, 2012.
 
 We built Doostang because we wanted to share jobs among friends. Your comfort and security are our top priority. As such, we are committed to offering a complete set of security options that we hope will make your experience the best possible. We want to provide you with the privacy tools necessary to control how and with whom you share your information.
 
@@ -14,7 +14,6 @@ If you have questions or ideas, please send them to [privacy@doostang.com](mailt
 
   * Personal Information.
   * Use of Personal Information.
-  * Sharing Information with Third Parties.
   * Links to other websites.
   * Security Measures.
   * User Agreement.
@@ -41,15 +40,9 @@ If you have questions or ideas, please send them to [privacy@doostang.com](mailt
     * You may upload your contacts from Gmail, Yahoo, Hotmail, AOL, Outlook, LinkedIn, and Mac accounts by logging in through Doostang. We will never store or keep your login information. We will never sell, rent, or give access to your contact lists. We will only access your contact lists with your explicit consent.
   * Collecting and Sharing Job Information 
     * We may use demographic information about a job posting, including location, hiring firm, and other information, for statistical and development purposes.
-    * We will never share information that you post on the website with any third party without your explicit consent. It is a Terms and Conditions violation for a member to copy any piece of Job Information from Doostang. Any member found doing so is immediately terminated. All correspondence between you and prospective candidates done through the website is strictly confidential.
+    * In order to provide you with a better job search experience, we may provide information about you to pre-approved third party websites. You can opt-out of third party services by emailing us at [contact@doostang.com](mailto:contact@doostang.com) or directly with the third-party. 
   * After registration, Doostang may contact you via email with periodic notifications about network updates, messages, and new features and services.
   * We may transfer personal information of our users to a third party as part of the acquisition of Doostang or its assets. In any such transfer of information, your user information would remain subject to this Privacy Policy.
-
-
-
-## Sharing Information with Third Parties.
-
-  * We suggest that you share certain personal information with third parties for special contests and promotions, (we will never share personal information for these purposes without your explicit consent). Whether you choose to do this is, and will remain, your choice.
 
 
 
