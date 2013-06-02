@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investortrader.co.uk privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008022523id_/http%3A//www.investortrader.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investortrader.co.uk privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602221017id_/http%3A//www.investortrader.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Investor Trader
 
@@ -15,3 +15,5 @@ All content appearing on this site remains the property of InvestorTrader.
 No content may be reproduced without the express permission of InvestorTrader.
 
 For any questions regarding this site please contact the owner at _paul at investortrader dot co uk_.
+
+_Looking for investment advice? I'm afraid this ain't it. Please see our disclaimer on the footer of each page._
