@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bgs.ac.uk privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210150158id_/http%3A//www.bgs.ac.uk/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgs.ac.uk privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602062935id_/https%3A//www.bgs.ac.uk/help/privacy.html) for the most accurate reproduction.*
 
 # BGS Privacy Policy
 
@@ -9,7 +9,7 @@ The British Geological Survey is committed to protecting your privacy online. We
 Any information obtained via this web site, or any other website controlled by the British Geological Survey, will be held by the:
 
 British Geological Survey  
-Kingsley Dunham Centre  
+Environmental Science Centre  
 Keyworth  
 Nottingham  
 NG12 5GG  
