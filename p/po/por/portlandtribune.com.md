@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the portlandtribune.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120005204id_/http%3A//portlandtribune.com/component/content/article/113-internal-information/contact-us/111170-pamplin-media-group-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandtribune.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602113952id_/http%3A//portlandtribune.com/component/content/article/113-internal-information/contact-us/111170-pamplin-media-group-privacy-policy) for the most accurate reproduction.*
 
-# Portland Tribune and Community Newspapers - Portland Tribune and Community Newspapers
+# Pamplin Media Group
 
 ###### Effective Date: August 10, 2006
 
