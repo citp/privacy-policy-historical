@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvduck.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215070714id_/http%3A//www.tvduck.com/read-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvduck.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602125813id_/http%3A//www.tvduck.com/read-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,4 +27,4 @@ TVDuck employs procedural and technological measures, consistent with the demand
 **Policy Changes**  
 TVDuck reserves the right to change this Privacy Policy, and will post any revisions on the Site. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of this Site will be subject to the then-current Privacy Policy.  This Privacy Policy was last revised April 19, 2012.
 
-If you have questions or comments regarding this Privacy Policy, please email us at [ privacy@TVDuck.com](https://web.archive.org/web/20121215070714id_/http%3A//www.tvduck.com/privacy@TVDuck.com). 
+If you have questions or comments regarding this Privacy Policy, please email us at [ privacy@TVDuck.com](https://web.archive.org/web/20130602125813id_/http%3A//www.tvduck.com/privacy@TVDuck.com). 
