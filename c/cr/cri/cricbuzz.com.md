@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cricbuzz.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226021646id_/http%3A//www.cricbuzz.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricbuzz.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602175417id_/http%3A//www.cricbuzz.com/info/privacy) for the most accurate reproduction.*
 
-# Cricbuzz - Page Site
+# 
 
 This Policy sets forth the terms that apply to any information we collect from you and any information that you share through your use of Cricbuzz website www.cricbuzz.com or m.cricbuzz.com or Cricbuzz Cricket Scores and News application, mobile software accessible from a mobile device ("Cricbuzz App") collectively referred to as "Cricbuzz Site"
 
