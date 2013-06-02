@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vfs.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503214836id_/http%3A//www.vfs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vfs.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602050122id_/http%3A//vfs.com/privacy) for the most accurate reproduction.*
 
 # Vancouver Film School: Production, Animation, Game Design, Acting and more
 
-[](https://web.archive.org/) [Home](https://web.archive.org/) | Privacy
+[](https://web.archive.org/) [Home](http://vfs.com/) | Privacy
 
 Our website has been developed so that you can visit Vancouver Film School on the web without identifying yourself or revealing any personal information. Any personal information voluntarily provided to Vancouver Film School through its websites is collected, used, and disclosed in accordance with the Freedom of Information and Protection of Privacy Act or other applicable legislation. This page summarizes the privacy policy and practices of Vancouver Film School websites.
 
@@ -14,7 +14,7 @@ Information collected automatically in this manner is used for purposes such as 
 
   2. ### Information collected directly from you
 
-All personal information held or collected by Vancouver Film School is protected under the federal [Privacy Act](http://laws.justice.gc.ca/eng/P-21). This means that at any point of collection you will be asked for consent to collect your information, and you will be informed of the purpose for which it is being collected and how to exercise your right of access to that information.
+All personal information held or collected by Vancouver Film School is protected under the federal [Privacy Act](http://laws.justice.gc.ca/eng/P-21). This means that at any point of collection you will be asked for consent to collect your information, and you will be informed of the purpose for which it is being collected and how to exercise your right of access to that information. We may record and store any telephone calls you have with our Admissions staff for record keeping, training, and quality control purposes.
 
   3. ### What safeguards are in place?
 
@@ -58,6 +58,6 @@ Email: [jhughes@vfs.com](mailto:jhughes@vfs.com)
 
 
 
-For further information please download Vancouver Film School's '[Personal Information Privacy Policy for Students](https://web.archive.org/web/20120503214836id_/http%3A//www.vfs.com/downloads/global/VFS_privacy_policy.pdf)' document.
+For further information please download Vancouver Film School's '[Personal Information Privacy Policy for Students](https://web.archive.org/downloads/global/VFS_privacy_policy.pdf)' document.
 
-[Download VFS Privacy Policy.](https://web.archive.org/web/20120503214836id_/http%3A//www.vfs.com/downloads/global/VFS_privacy_policy.pdf)
+[Download VFS Privacy Policy.](https://web.archive.org/downloads/global/VFS_privacy_policy.pdf)
