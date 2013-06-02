@@ -1,57 +1,92 @@
-> *The following text is extracted and transformed from the oilprice.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130152703id_/http%3A//oilprice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oilprice.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602215550id_/http%3A//oilprice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-OilPrice.com respects and values the privacy of our visitors and members. This privacy policy covers how OilPrice.com treats personal information collected and received.
+Advanced Media Solutions T/as http://oilprice.com the "Data controller" takes your privacy very seriously. We ask that you read this privacy policy carefully as it contains important information about what to expect when the Data Controller collects personal information about you and how the Data Controller will use your personal data.
 
-## What This Privacy Policy Covers
+This policy applies to information we collect about:
 
-This policy covers personal information including personally identifiable information about you like your name or email address. This Privacy Statement does not apply to the use of your Personal Information by third parties that OilPrice.com does not own or control, or to individuals that OilPrice.com does not control or manage. Note also that children under 13 are not permitted to use OilPrice.com. Therefore, OilPrice.com's privacy policy does not account for children's use of the site.
-
-## Links to Other Sites
-
-OilPrice.com contains links to media and other websites that are not owned or controlled by OilPrice.com. We are not responsible for the privacy policies of such other sites.
-
-## Information Collection and Use
-
-OilPrice.com owns a copy of the the personal information of visitors and members collected at OilPrice.com. Members whose data is collected also own a copy of the information about themselves and their own activities with OilPrice.com. OilPrice.com's ownership does not mean that it will share or sell your personal information to anyone without your authorization or consent. OilPrice.com will not share or sell this information with the exception of those terms disclosed in this Privacy Statement.
-
-OilPrice.com will aggregate information about users of the site. "Aggregated Information" means information where personally identifying information is removed, and lots of visitors and members data is aggregated together to become statistical information for OilPrice.com about how the site is used. Aggregated information that is not personally identifying for users is solely owned by OilPrice.com and is used to improve our services. Statistical information may be shared with other parties.
-
- **We do not store credit card information. Nor do we share any customer details with any third parties.**  
-
-
-## Surveys or Contests
-
-OilPrice.com may provide you the opportunity to participate in contests or surveys on our site. If you decide to participate, we will request certain Personal Information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice about whether or not to disclose your information. The requested information may include contact information (such as name and shipping address) and demographic information (such as zip code).
-
-This information will only be used internally to determine eligibility, notify contest winners, and to measure the success of our efforts. Publicly held contest winners will be labeled on the OilPrice.com site in public ways through their user ID's or handles.
-
-## General Information
-
-OilPrice.com automatically collects and records information from your browser, including your IP address, cookie, and the page you request. IP Addresses are disclosed by your browser as you view a web page.
-
-## Third Party Advertisers
-
-Advertisements appearing on OilPrice.com may be delivered by a third party. For information about advertisers on OilPrice.com, please visit their websites through links provided at the advertisements on OilPrice.com.
-
-## Information Sharing and Disclosure
-
-OilPrice.com allows many activities for member that will result in revealing of some information about your activities to others, including visitors and members. When you "write" something in OilPrice.com, your OilPrice.com ID handle or alias that you are posting under will be visible to other users. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. OilPrice.com is not responsible for the messages you post or receive.
-
-  * Generally, OilPrice.com will not share your personal information with other people or nonaffiliated companies without your consent except to provide products or services you've requested and in the following circumstances:
-  * OilPrice.com may be required to disclose personally identifiable information under special circumstances, such as to comply with subpoenas, warrants, court orders or legal process or to establish or exercise our legal rights or defend against legal claims.
-  * It may be necessary to share information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person, violations of OilPrice.com's terms of use, or as otherwise permitted or required by law.We will transfer information about you if OilPrice.com is acquired by or merged with another company. In this event, OilPrice.com will notify you by email or by putting a prominent notice on the OilPrice.com web site before information about you is transferred and becomes subject to a different privacy policy.
+  * visitors to our website;
+  * people who do business with us/register for our service.
 
 
 
-## Choice/Opt-out
+### 1\. The information we collect about you
 
-At any time, you can change your OilPrice.com account information. To delete your account [send us an email](https://web.archive.org/web/20121130152703id_/http%3A//oilprice.com/contact). If you request deletion through email, OilPrice.com will delete your information within 30 days. However, please note that some personal information may need to be maintained if it is for billing or required by law. Some employees will have access to our personal information, but this will be limited to those whose jobs are dependent on such information.
+When you do business with us/register for our service we may collect the following personal information from you:
 
-## Changes in this Privacy Policy
+  * name;
+  * postal address, email address, telephone number.
+  * Credit/debit card details
 
-This Privacy Statement is a living document. OilPrice.com may update this policy at any time for any reason. If we significantly change how we handle personal information, we will notify the primary email address specified in your OilPrice.com account.
 
-If you have questions or suggestions please use you the feedback form or you can [contact us](https://web.archive.org/web/20121130152703id_/contact).  
 
+### 2\. How we will use the information about you
+
+We gather this information to allow us to process your registration, and to help provide our content and services. The relevant information is then used by us, our agents and sub-contractors to communicate with you on any matter relating to the conduct of your subscription and the provision of our website and subscription service.
+
+We may also use aggregate information and statistics for the purposes of monitoring website usage in order to help us to develop our website and our services. We may also provide such aggregate information to third parties. These statistics will not include information that can be used to identify you.
+
+From time to time we may provide your information to our customer service agencies for research and analysis purposes so that we can monitor and improve the goods or services we provide. We or our agents and sub-contractors may contact you by post, email or telephone to ask you for your feedback and comments on our services.
+
+### 3\. Marketing
+
+We may also wish to provide you with information about special features of our website or any other service or products we think may be of interest to you. If you would rather not receive this information, please send a blank email message to [admin@oilprice.com](mailto:admin@oilprice.com). If you agree to us providing you with marketing information, you can always opt out at a later date.
+
+We may also want to provide you with related information from third parties we think may be of interest to you. If you would rather not receive this information, please send an email to [admin@oilprice.com](mailto:admin@oilprice.com). If you agree to us providing you with third party marketing information, you can always opt out at a later date.
+
+We may also provide your information to carefully selected third parties whose products or services we believe may be of interest to you. If you do not wish us to disclose your information in this way, please send an email to [admin@oilprice.com](mailto:admin@oilprice.com).
+
+### 4\. Our use of cookies and other information-gathering technologies
+
+Cookies are text files placed on your computer to collect standard Internet log information and visitor behaviour information. The information is used to track visitor use of the website and to compile statistical reports on website activity. For further information about cookies visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/). You can set your browser not to accept cookies and the above websites tell you how to remove cookies from your browser. However, in a few cases some of our website features may not function if you remove cookies from your browser.
+
+### Our use of cookies
+
+When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, your computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.
+
+We will not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies which are set by our website, or indeed any other website, you can do this through your browser settings. The 'Help' function within your browser should tell you how.
+
+Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your machine as well as more general information about cookies.
+
+Please be aware that restricting cookies may impact on the functionality of our website. If you wish to view your cookie code, just click on a cookie to open it. You’ll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+
+To opt-out of third-parties collecting any data regarding your interaction on our website, please refer to their websites for further information.
+
+### 5\. How we protect your information
+
+We will use all reasonable efforts to safeguard your personal information. However, you should be aware that the use of the Internet is not entirely secure and for this reason we cannot guarantee the security or integrity of any personal information which is transferred from you or to you via the Internet.
+
+### 6\. Overseas transfers
+
+The information you provide may be transferred to countries outside the European Economic Area ('EEA') that do not have similar protections in place regarding your data and restrictions on its use as set out in this policy. However, we will take steps to ensure adequate protections are in place to ensure the security of your information. The EEA comprises the EU member states plus Norway, Iceland and Liechtenstein. By submitting your information you consent to these transfers for the purposes specified above.
+
+### 7\. Access to your information and updating and correcting your information
+
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please send an email to [admin@oilprice.com](mailto:admin@oilprice.com). We may make a small charge for this service.
+
+We want to ensure that your personal information is accurate and up to date. If any of the information that you have provided to the Data Controller changes, for example if you change your email address, name or payment details, or if you wish to cancel your registration, please let us know the correct details by sending an email to admin@oilprice.com.You may ask us, or we may ask you, to correct information you or we think is inaccurate, and you may also ask us to remove information which is inaccurate.
+
+### 8\. Sale of business
+
+If the Data Controller's business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchasers and their advisers and will be passed on to the new owners of the business.
+
+### 9\. Your consent
+
+By submitting your personal information you consent to the use of that information as set out in this policy.
+
+### 10\. Changes to privacy policy
+
+We keep our privacy policy under regular review. If we change our privacy policy we will post the changes on this page, and place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. This privacy policy was last updated on 10th July 2012.
+
+### 11\. How to contact the Data Controller
+
+We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an email to [admin@oilprice.com](mailto:admin@oilprice.com).
+
+### 12\. Links to other websites
+
+Our website contains links to other websites. This privacy policy only applies to this website so when you link to other websites you should read their own privacy policies.
+
+### 13\. Payment
+
+We currently use the PayPal checkout system for all payments. For details of how PayPal protects your financial information please visit <https://www.paypal.com/>.
