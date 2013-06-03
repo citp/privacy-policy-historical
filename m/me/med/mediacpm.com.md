@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mediacpm.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630175440id_/http%3A//www.mediacpm.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediacpm.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603193413id_/http%3A//mediacpm.com/privacy.php) for the most accurate reproduction.*
 
-# Mediacpm - web advertising & publishing
+# Privacy
 
 **Privacy Policy** Last Updated: July 5, 2011 
 
