@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lostintechnology.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226043438id_/http%3A//www.lostintechnology.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostintechnology.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604015344id_/http%3A//lostintechnology.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - LostInTechnology
 
