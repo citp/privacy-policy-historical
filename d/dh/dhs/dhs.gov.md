@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhs.gov privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204002804id_/http%3A//www.dhs.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhs.gov privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603024003id_/http%3A//www.dhs.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Homeland Security
 
@@ -66,7 +66,7 @@ The Department retains the data from Google Analytics, and ACSI survey results o
 
 ###  **How the Department Uses Cookies**
 
-The Office of Management and Budget Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](https://web.archive.org/web/20121204002804id_/http%3A//www.dhs.gov/DHS_Web_Privacy_Policy_20120803.docx) allows Federal agencies to use session and persistent cookies.
+The Office of Management and Budget Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](https://web.archive.org/web/20130603024003id_/http%3A//www.dhs.gov/DHS_Web_Privacy_Policy_20120803.docx) allows Federal agencies to use session and persistent cookies.
 
 When you visit any website, its server may generate a piece of text known as a "cookie" to place on your computer. Placing cookie text allows Web sites to “remember” visitors’ preferences, surfing patterns and behavior while they are connected.
 
