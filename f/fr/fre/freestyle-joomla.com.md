@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the freestyle-joomla.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115095959id_/http%3A//freestyle-joomla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestyle-joomla.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603160735id_/http%3A//freestyle-joomla.com/privacy-policy) for the most accurate reproduction.*
 
-# Freestyle Joomla!® - Privacy Policy
+# Freestyle Joomla - Privacy Policy
+
+##  Privacy Policy 
 
 This privacy policy sets out how Freestyle Software and Freestyle Joomla uses and protects any information that you give us when you use this website.  
 Freestyle Software is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
-Freestyle Software and Freestyle Joomla may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st October 2009.
+Freestyle Software and Freestyle Joomla may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st October 2009. 
 
 #### What we collect
 
@@ -22,8 +24,8 @@ We may collect the following information:
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
   * Internal record keeping.
-  * We may use the information to improve our products and services. 
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
   * Should you wish to be taken off this list please email us and we will honor your request.
 
@@ -49,7 +51,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@freestyle-joomla.com 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [support@freestyle-joomla.com](mailto:support@freestyle-joomla.com)
 
 
 
