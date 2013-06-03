@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmpartsdirect.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231105832id_/http%3A//www.gmpartsdirect.com/site_policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmpartsdirect.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603233026id_/http%3A//www.gmpartsdirect.com/site_policies/privacy.cfm) for the most accurate reproduction.*
 
 # GM Parts Direct: Your direct source for Genuine GM Parts
 
