@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the flyclear.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108013515id_/http%3A//www.clearme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyclear.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603062911id_/http%3A//clearme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CLEAR Speeds You Through Airport Security
 
 **Effective Date: October 7, 2011**
 
-On October 7, 2011, the Privacy Policy was revised to clarify that this policy applies to all clearme.com sites, regardless of prefix, and that we may collect personal information typed into forms at clearme.com, whether or not the form is submitted.
-
 ## CLEAR Privacy Policy
 
-We at CLEAR, along with our subsidiaries and affiliates (collectively, “CLEAR”), respect your concerns about privacy and value our relationship with you. This Privacy Policy governs the personal information we obtain about consumers, including those (1) who submitted their information at www.clearme.com or at a CLEAR authorized enrollment location after May 3, 2010, or (2) who were applicants to or members of the former CLEAR program as of June 22, 2009, and who subsequently chose to participate in the new CLEAR program. This policy does not apply to the personal information of individuals who were applicants to or members of the former CLEAR program and who subsequently chose not to participate in the new CLEAR program. That information is governed by the former program’s [Privacy Policy](https://web.archive.org/sites/default/files/pdf/updated.pdf).
+We at CLEAR, along with our subsidiaries and affiliates (collectively, "CLEAR"), respect your concerns about privacy and value our relationship with you. This Privacy Policy governs the personal information we obtain about consumers, including those (1) who submitted their information at www.clearme.com or at a CLEAR authorized enrollment location after May 3, 2010, or (2) who were applicants to or members of the former CLEAR program as of June 22, 2009, and who subsequently chose to participate in the new CLEAR program. This policy does not apply to the personal information of individuals who were applicants to or members of the former CLEAR program and who subsequently chose not to participate in the new CLEAR program. That information is governed by the former program's [Privacy Policy](https://web.archive.org/sites/default/files/pdf/updated.pdf).
 
 This Privacy Policy describes the types of consumer personal information we obtain, how we use the information, with whom we share it, and the choices we offer regarding our use of the information. We also describe the measures we take to protect the security of the information and how to contact us about our privacy practices.
 
@@ -56,7 +54,7 @@ We may obtain personal information about consumers from various sources, includi
 
 We also may collect personal information typed into forms on clearme.com, whether or not the form is submitted.
 
-In addition, when users visit our website, we collect certain information by automated means, such as cookies and web beacons. The information we collect in this manner includes IP address, browser type, operating system, referring URLs, information on actions taken on our site, and dates and times of website visits. A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain “clickstream data,” which is a log of content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored. Clickstream data also can tell us the type of computer and browsing software a visitor uses, the address of the website from which the visitor linked to our site, and the pages she visits on our site. 
+In addition, when users visit our website, we collect certain information by automated means, such as cookies and web beacons. The information we collect in this manner includes IP address, browser type, operating system, referring URLs, information on actions taken on our site, and dates and times of website visits. A "cookie" is a text file that websites send to a visitor's computer or other Internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. A "web beacon", also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain "clickstream data, which is a log of content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored. Clickstream data also can tell us the type of computer and browsing software a visitor uses, the address of the website from which the visitor linked to our site, and the pages she visits on our site. 
 
 ## 2\. How We May Use the Information We Obtain
 
@@ -66,7 +64,7 @@ We may use biometric data and other personal information we obtain about consume
 
   * Facilitate the CLEAR application and enrollment process
   * Administer the CLEAR program
-  * Verify applicants’ and members’ identities, including authenticating users of the CLEAR card, and conducting background checks and security threat assessments concerning CLEAR applicants and members 
+  * Verify applicants' and members' identities, including authenticating users of the CLEAR card, and conducting background checks and security threat assessments concerning CLEAR applicants and members 
   * Comply with applicable legal requirements and our policies, and enforce our [Website Terms of Use](https://web.archive.org/terms-of-use) and the [CLEARmembership Terms and Conditions](https://web.archive.org/sites/default/files/pdf/clear_membership_terms.pdf)
 
 
