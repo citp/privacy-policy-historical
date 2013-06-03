@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the radiologyinfo.org privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227174821id_/http%3A//www.radiologyinfo.org/en/about/index.cfm%3Fpg%3Dabt_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiologyinfo.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603085629id_/http%3A//radiologyinfo.org/en/about/index.cfm%3Fpg%3Dabt_privacy) for the most accurate reproduction.*
 
-# About RadiologyInfo - Privacy Policy
+# Privacy
 
 ## _RadiologyInfo_ Privacy Policy
 
