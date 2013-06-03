@@ -1,37 +1,46 @@
-> *The following text is extracted and transformed from the walletpop.co.uk privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113155440id_/http%3A//www.agepartnership.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walletpop.co.uk privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603035600id_/http%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
 
-# Our Privacy Policy - Age Partnership - The Retirement Specialists
+# Zoopla Privacy policy - Zoopla
 
-## Information this website gathers/tracks
+## Our commitment to you
 
-The Age Partnership website logs IP addresses and browser types. You can browse our site without entering any personal information, and therefore remain anonymous during your visit. However, some forms ask for personal information such as name, postal address, email address and telephone number to enable us to send out the requested information.
+Zoopla.co.uk is operated by Zoopla Property Group Limited. Zoopla Property Group Limited respects your privacy and is committed to protecting personal information collected from you through our website. This privacy policy governs the way we collect and use information, and by using the services on our website ('Services') you agree to be bound by this policy. All references within this policy to 'we/us/our' refer to Zoopla Property Group Limited.
 
-## Use of your information
+## Information we collect
 
-The Age Partnership website logs IP addresses for systems administration purposes and these logs will be analysed to constantly improve the value of the materials available on the website.
+When you use the Services you will have the option to provide us with personal information, such as your email address, so that we may keep you informed.
 
-By entering your address and telephone details, you understand and accept that Age Partnership will not pass this information on to any third parties without your express consent. You also understand and accept that Age Partnership may use this information to keep you informed by telephone, post and/or e-mail of products and services that are available from Age Partnership that we feel may be of interest to you.
+When visiting our website, we may place one or more cookies (a small file that is stored by your browser to recognise you and store your preferences) on your computer. This helps us to improve our Services by personalising information you may want. You may adjust the settings on your browser to refuse cookies but some of the Services may not work if you do so. We may also log information from your computer including the existence of cookies, your IP address and information about your browser program in order to allow us to diagnose problems, administer and track your usage of the Services. [View our Cookie Policy](https://web.archive.org/privacy/cookies/)
 
-## Age Partnership enquiry forms
+## How we use information
 
-The information that we require on our enquiry forms are used to process your request quickly and accurately. Age Partnership will in no way share this information with any third parties without your consent. From time to time we may send you information from Age Partnership and other group companies that may be of interest to you. If you would prefer not to receive such information you can write to us at the following address: Partnership House, 4305 Park Approach, Thorpe Park, Leeds, LS15 8GB alternatively, you can call freephone 08000 810 811 or email [preferences@agepartnership.com](mailto:preferences@agepartnership.com).
+We use the information we collect to provide the Services and to communicate with you. We may disclose information (including personal information) to other companies in our group (<http://www.dmgt.co.uk/footer/dmgt>) and may use and share, within the group, information that we learn from your interactions with us. We will only share your personal information outside our group in the following circumstances:
 
-## Sharing of the information this website gathers/tracks
+  * When you have consented or directed us to share the information.
+  * With service providers or affiliate companies who perform services on our behalf.
+  * In order to satisfy any requirement under the law or to protect our rights or prevent any concerns relating to fraud or security.
+  * In the event of a merger or sale of all or part of our business whereby personal information may be transferred as an asset of the business.
 
-For those visitors who register with Age Partnership, we do not share your name, email address, preferences or demographic information with any third party.
 
-## Links
 
-The Age Partnership website may contain links to other websites. Please be aware that our privacy policy does not apply to these linked sites. We encourage you to read the posted privacy statement whenever interacting with any website.
+We may share with third parties aggregate information or information that does not personally identify you.
 
-## Cookies
+## Communicating with you
 
-Please refer to our [Cookie Policy](https://web.archive.org/cookie-policy/).
+If you prefer not to receive emails about our Services, you may opt out of such communications by following the instructions at the bottom of any of our emails, or by amending your preferences in [MyZoopla](https://web.archive.org/myaccount/).
 
-## Opt-out policy
+## Third parties
 
-If, at any time after registering, you change your mind about receiving our postal/email offers or sharing your information with third parties you can write to us at the following address: Partnership House, 4305 Park Approach, Thorpe Park, Leeds, LS15 8GB, alternatively you can call freephone 0113 2321070 or email [preferences@agepartnership.com](mailto:preferences@agepartnership.com). Alternatively, you can [click here](https://web.archive.org/online-email-preferences-stg-1/) to update your [email marketing preferences](https://web.archive.org/online-email-preferences-stg-1/).
+We use third parties to serve advertisements on our website and these third parties may use parties or other means to help measure the effectiveness of their advertisements. Our website may also include links to other unrelated websites and/or contact forms to other unrelated parties which may collect personal information. Our privacy policy does not extend to these third parties or other websites and we recommend that users refer directly to these parties regarding their privacy policies before supplying personal details to these companies. [View our Cookie Policy](https://web.archive.org/privacy/cookies/)
 
-## Correcting/update
+## Safety and security
 
-If you would like to correct and/or update your registration information you can write to us at the following address: Partnership House, 4305 Park Approach, Thorpe Park, Leeds, LS15 8GB, alternatively you can call freephone 0113 2321070 or email [preferences@agepartnership.com](mailto:preferences@agepartnership.com).
+Personal information is processed and stored in our databases and we have taken reasonable steps to secure and protect the information under our control, including establishing processes to prevent unauthorized access or disclosure of this information. However, whilst we make every effort to ensure the security of your information, we are unable to guarantee the protection of the information from misuse, accidental disclosure or unauthorised acts by others. Information provided by you may be stored or processed outside the United Kingdom.
+
+## Changes to Privacy Policy
+
+We reserve the right to change this privacy policy at any time without prior notice to you. Any changes will be posted on our website and become effective at the time of posting. In the event that material changes are made that affect the use or disclosure of your personal information, we will make reasonable efforts to notify you of these changes.
+
+If you have any questions or comments about our privacy policy, please [Contact us](https://web.archive.org/contact/).
+
+This policy was last updated on 28th September, 2012
