@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misstravel.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114174635id_/http%3A//www.misstravel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misstravel.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603141022id_/http%3A//www.misstravel.com/privacy) for the most accurate reproduction.*
 
 # MissTravel | #1 Travel Dating & Travel Companion Site
 
@@ -37,6 +37,10 @@ We also provide you with the opportunity to opt-opt out of several types of comm
 Except as described in this privacy policy, we do not disclose information about your individual visits to MissTravel.com, or personal information you provide, such as your name, address, email, phone number, credit card number, etc., to any third parties, except when we believe it is required by law or to protect MissTravel.com, our users or others. However, we may record and share aggregate information with our partners.
 
 We employ other companies and individuals to perform functions on our behalf. Examples may include hosting our web servers, analyzing data, providing marketing services, processing credit card payments, and other services. These companies may have access to your personal information as necessary to perform their functions, but they may not share that information with any third party.
+
+### Disclosure for Accounts Payable or Collections
+
+It is your duty to make sure that your keep your account(s) in good standing with us. If you have an outstanding balance, or if you dispute you payment to us with your credit card or financial institution for any reason, please note that all information collected from your activity on our website may be disclosed to the bank and/or collections agency we work with for the purposes of establishing proof of user’s identify, proof of use, proof that service was provided, and / or collecting any outstanding debt owed to us.
 
 ### Updating Account Information
 
