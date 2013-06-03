@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotproperty.co.uk privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116052215id_/http%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotproperty.co.uk privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603035600id_/http%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
 
 # Zoopla Privacy policy - Zoopla
 
@@ -10,11 +10,11 @@ Zoopla.co.uk is operated by Zoopla Property Group Limited. Zoopla Property Group
 
 When you use the Services you will have the option to provide us with personal information, such as your email address, so that we may keep you informed.
 
-When visiting our website, we may place one or more cookies (a small file that is stored by your browser to recognise you and store your preferences) on your computer. This helps us to improve our Services by personalising information you may want. You may adjust the settings on your browser to refuse cookies but some of the Services may not work if you do so. We may also log information from your computer including the existence of cookies, your IP address and information about your browser program in order to allow us to diagnose problems, administer and track your usage of the Services.
+When visiting our website, we may place one or more cookies (a small file that is stored by your browser to recognise you and store your preferences) on your computer. This helps us to improve our Services by personalising information you may want. You may adjust the settings on your browser to refuse cookies but some of the Services may not work if you do so. We may also log information from your computer including the existence of cookies, your IP address and information about your browser program in order to allow us to diagnose problems, administer and track your usage of the Services. [View our Cookie Policy](https://web.archive.org/privacy/cookies/)
 
 ## How we use information
 
-We use the information we collect to provide the Services and to communicate with you. We may disclose information (including personal information) to other companies in our group and may use and share, within the group, information that we learn from your interactions with us. We will only share your personal information outside our group in the following circumstances:
+We use the information we collect to provide the Services and to communicate with you. We may disclose information (including personal information) to other companies in our group (<http://www.dmgt.co.uk/footer/dmgt>) and may use and share, within the group, information that we learn from your interactions with us. We will only share your personal information outside our group in the following circumstances:
 
   * When you have consented or directed us to share the information.
   * With service providers or affiliate companies who perform services on our behalf.
@@ -31,7 +31,7 @@ If you prefer not to receive emails about our Services, you may opt out of such 
 
 ## Third parties
 
-We use third parties to serve advertisements on our website and these third parties may use cookies or other means to help measure the effectiveness of their advertisements. Our website may also include links to other unrelated websites and/or contact forms to other unrelated parties which may collect personal information. Our privacy policy does not extend to these third parties or other websites and we recommend that users refer directly to these parties regarding their privacy policies before supplying personal details to these companies.
+We use third parties to serve advertisements on our website and these third parties may use parties or other means to help measure the effectiveness of their advertisements. Our website may also include links to other unrelated websites and/or contact forms to other unrelated parties which may collect personal information. Our privacy policy does not extend to these third parties or other websites and we recommend that users refer directly to these parties regarding their privacy policies before supplying personal details to these companies. [View our Cookie Policy](https://web.archive.org/privacy/cookies/)
 
 ## Safety and security
 
