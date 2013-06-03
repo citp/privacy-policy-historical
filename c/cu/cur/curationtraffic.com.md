@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the curationtraffic.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520194713id_/http%3A//curationtraffic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curationtraffic.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604015634id_/http%3A//curationtraffic.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 This privacy policy sets out how **Curation Traffic & You Brand, Inc. **uses and protects any information that you give **Curation Traffic & You Brand, Inc.** when you use this website.
 
@@ -53,7 +53,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at **scott@youbrandinc.com**
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at **you@youbrandinc.com**
 
 
 
