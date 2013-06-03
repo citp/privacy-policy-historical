@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the ariba.com privacy policy that was archived on 2012-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121222223137id_/http%3A//www.ariba.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ariba.com privacy policy that was archived on 2013-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603134925id_/http%3A//www.ariba.com/legal/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js"><head>
+<!DOCTYPE html><html class="js"><head><script async="" src="https://api.demandbase.com/api/v2/ip.json?query=207.241.226.75&amp;token=40cd257919979f0956bd52b0ef7de581d843e7d8&amp;callback=jQuery17206796639831681737_1580413198255&amp;_=1580413198630"></script>
 <!-- BEGIN: snippets/global/header:nsm_better_meta:template -->
 
-<title>Ariba Web Site Privacy Statement - 11-23-2011 - Ariba, Inc.</title>
+        <title>Ariba Web Site Privacy Statement - 11-23-2011 - Ariba, Inc.</title>
 <meta name="description" content="Spend Management, Invoice Management, Payment Management, and Contract Management Software">
 <meta name="keywords" content="">
 <meta name="robots" content="noindex,follow,noarchive">
@@ -18,14 +18,23 @@
     <link rel="stylesheet" href="/assets/styles/insidepage.css" type="text/css">    
     <link rel="shortcut icon" href="/assets/images/design/ariba_ico.ico">
     <link rel="apple-touch-icon" href="/assets/images/design/apple-touch-icon.png">
-    <!--[if IE 9]><link rel="stylesheet" href="/assets/styles/ie9.css" type="text/css" /><![endif]-->
-    <!--[if lt IE 9]><link rel="stylesheet" href="/assets/styles/lt-ie9.css" type="text/css" /><![endif]-->
-    <!--[if lt IE 7]><link rel="stylesheet" href="/assets/styles/ie7.css" type="text/css" /><![endif]-->
+    <!--[if IE 9]><link rel="stylesheet" href="/assets/styles/ie9.css" type="text/css"><![endif]-->
+    <!--[if lt IE 9]><link rel="stylesheet" href="/assets/styles/lt-ie9.css" type="text/css"><![endif]-->
+    <!--[if lt IE 7]><link rel="stylesheet" href="/assets/styles/ie7.css" type="text/css"><![endif]-->
 
     <!-- SCRIPTS -->
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/dynamic.php"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/_/assets/scripts/dynamic.php"></script>
     <script type="text/javascript">
         var ariba = {
+            debug: false,
+            debugLevel: 5,
+            segment1: 'legal',
+            segment2: 'ariba-web-site-privacy-statement-11-23-2011',
+            segment3: '',
+            segment4: '',
+            segment5: '',
+            siteUrl: '/',
+            // @deprecated
             site_url: '/',
             ip_address: '',
             segment_1: 'legal',
@@ -34,8 +43,11 @@
             segment_4: '',
             segment_5: ''
         };
+        var originalurl = "mp_js_orgin_url";
+        var currentLang = "mp_js_current_lang";
     </script>
     <script type="text/javascript" src="/assets/scripts/plugins.js"></script>
+    <script type="text/javascript" src="/assets/scripts/classes.js"></script>
     <script type="text/javascript" src="/assets/scripts/ariba.js"></script>
 </head>
 
@@ -49,7 +61,13 @@
             <!-- HEADER: MAST -->
             <div class="right" id="mast">
                 <div class="left oswald grey_02" id="mast_text_01">
-                                Sales Inquiries: <!-- mp_trans_remove_start="DE,FR" -->1-866-77ARIBA<!-- mp_trans_remove_end--><!-- mp_trans_disable_start --><!-- mp_trans_add="FR" +33 (0)1 70 37 35 14 --><!-- mp_trans_add="DE" +49 (0) 69 17 07 76 327 --><!-- mp_trans_disable_end -->
+                                    Sales Inquiries:&nbsp;
+                    <!-- mp_trans_remove_start="DE,FR,PT" -->1-866-77ARIBA<!-- mp_trans_remove_end--> 
+                    <!-- mp_trans_disable_start -->
+                        <!-- mp_trans_add="FR" +33 (0)1 70 37 35 14 -->
+                        <!-- mp_trans_add="DE" +49 (0) 69 17 07 76 327 -->
+                        <!-- mp_trans_add="PT" +55 11 3061-6450 --> 
+                    <!-- mp_trans_disable_end --> 
                                 </div>
 
                 <!-- HEADER: MAST: CONTACT -->
@@ -184,10 +202,11 @@
 <li><a href="/about/press-releases">Press Releases</a></li>
 <li><a href="/about/offices">Offices</a></li>
 <li><a href="/about/leadership">Leadership</a></li>
-<li><a href="/about/investor-relations">Investor Relations</a></li>
+<li><a href="/about/sap-investor-relations">SAP Investor Relations</a></li>
 <li><a href="/about/awards">Awards</a></li>
 <li><a href="/about/careers">Careers</a></li>
-<li class="last"><a href="/about/contact-us">Contact Us</a></li>
+<li><a href="/about/contact-us">Contact Us</a></li>
+<li class="last"><a href="/about/our-story">Our Story</a></li>
 </ul>
 <!--   END: snippets/global/header:structure:nav -->
                 </li>
@@ -202,51 +221,45 @@
 </div>
 
 
-    <input class="textfield lato grey_01" name="keywords" id="input_search" onclick="this.value='';" type="text" value="Search">
-    <input id="input_submit" class="pointer" type="submit" value="">
+    <input id="input_search" class="textfield lato grey_01" type="text" name="keywords" value="Search" onclick="this.value='';">
+    <input id="input_submit" class="pointer" type="submit" value="" onclick="if(['','Search'].indexOf(this.form.keywords.value) > -1){return false;}">
 </form>
 <!--   END: snippets/global/header:low_googlesearch:form -->
             </div>
         </div>
-<!--   END: snippets/global/header -->                                                         
+<!--   END: snippets/global/header -->
+
+
+
+
 <!-- BEGIN: templates/master-layouts/two-column -->
 
-
-
-
-
-
-<div class="container margin_top_04 sidebarshade white_bg">
-    <div class="sidebar_container border grey_03_bg right">                     
         
-                    <script type="text/javascript">
-                $(function(){
-                    $("div.withsidebar").removeClass("withsidebar");
-                    $(".sidebarshade").removeClass("sidebarshade");
-                    $(".sidebar_container").remove();
-                });
-            </script>
-                                                              
-                                                
-    </div>
-    <div class="main withsidebar wysiwyg">
-                                         
-            <!-- BEGIN: snippets/global/breadcrumb -->
+        
+        <div class="container margin_top_04 white_bg">
+            
+            <div class="main ariba-web-site-privacy-statement-11-23-2011 wysiwyg">
+                                                 
+                    
+<!-- BEGIN: snippets/global/breadcrumb -->
 <!-- CONTENT: 01: MAIN: 01: BREADCRUMB -->
 <div id="breadcrumb">
     <a id="home" href="/"></a>
     <ul>
-                                                        
-<!-- BEGIN: snippets/global/breadcrumb:structure:breadcrumb -->
-
-<li><a href="/legal">Legal</a></li><li class="last"><a>Ariba Web Site Privacy Statement</a></li>
-<!--   END: snippets/global/breadcrumb:structure:breadcrumb -->
-    
+                                    <!-- BEGIN: snippets/global/breadcrumb:structure:breadcrumb -->
+                <li><a href="/legal">Legal</a></li><li class="last"><a>Ariba Web Site Privacy Statement - 11-23-2011</a></li>
+                <!--   END: snippets/global/breadcrumb:structure:breadcrumb -->
+                    
     </ul>
 </div>
 <!--   END: snippets/global/breadcrumb -->
-                
-                <h1>Ariba Web Site Privacy Statement</h1>
+                    <!-- BEGIN: snippets/global/social -->
+
+    
+<!--   END: snippets/global/social -->
+                                
+<!-- BEGIN: templates/layouts/legal -->
+                <h2>Ariba Web Site Privacy Statement</h2>
 <p>Effective November 23, 2011</p>
 <p>This Web Site Privacy Statement ("Privacy Statement") tells our visitors ("You") about: a) The information Ariba, Inc. ("Ariba") collects through our website(s), <a href="/"><strong>www.ariba.com</strong></a> and "related web sites" (the "Site(s)"); b) Certain services available on our Site(s) including the Ariba Connect, Ariba Exchange, and Ariba Education pages; c) How we use that information; and d) How You can choose to opt out of some of these practices.</p>
 <p><strong>Consent</strong><br>
@@ -281,12 +294,18 @@ This Privacy Statement does not address the personal data management practices o
 <p><strong>Comments and Questions</strong><br>
 If You have questions or comments about this Privacy Statement, please send an email to <a href="mailto:privacy@ariba.com"><strong>privacy@ariba.com</strong></a> or in writing to: Ariba Privacy and Security Manager, Ariba Legal Department, 910 Hermosa Court, Sunnyvale, CA 94085, USA.</p>
 
+<!--   END: templates/layouts/legal -->
                                                       
-                                                    
-    </div>
-            <div style="clear:both; float: none"></div>
-</div>
+                                                            
+            </div>
+                            <div style="clear:both; float: none"></div>
+        </div>
+    
 <!--   END: templates/master-layouts/two-column -->
+
+
+
+        
 <!-- BEGIN: snippets/global/footer -->
 <!-- FOOTER -->
         <div class="container white_bg" id="footer">
@@ -358,7 +377,7 @@ If You have questions or comments about this Privacy Statement, please send an e
             <!-- FOOTER: LEGAL -->
             <div id="footer_legal" class="left">
                 <div class="left small grey_01" id="footer_legal_copyright">
-                    <a href="/legal/trademarks">© 1996 - 2012 Ariba, Inc., All Rights Reserved</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a href="/legal/trademarks">© 1996 - 2013 Ariba, Inc., All Rights Reserved</a>&nbsp;&nbsp;|&nbsp;&nbsp;
                     <a href="/sitemap" title="Sitemap">Sitemap</a>
                 </div>
                 <a class="right" href="https://cert.webtrust.org/ViewSeal?id=781" id="logo_webtrust" target="_blank" title="WebTrust">
@@ -367,21 +386,22 @@ If You have questions or comments about this Privacy Statement, please send an e
             </div>
         </div>
     </div><!-- /wrapper_main -->
+
 <!-- BEGIN: snippets/content/rainbow -->
-<div class="modal_container" id="rainbow_modal">
-    <div id="modal_area">
+<div class="modal_container" id="rainbow_modal"><a class="close"></a>
+    <div class="modal_area">
         <div class="modal_content" id="rainbow">
             <div id="solutiongraphic_navigation">
                 <div class="left xlargen grey_01">Rollover to highlight</div>
                 <div class="right xlargen grey_01">Click to navigate</div>
             </div>
             <div class="tacenter" id="solutiongraphic">
-                <img id="solutiongraphic_img" src="/assets/images/design/solutiongraphic_516x377.png" width="516" height="377" border="0" usemap="#solutiongraphic_navigation_map">
+                <div id="mapster_wrap_0" style="display: block; position: relative; padding: 0px; width: 516px; height: 377px;"><img class="mapster_el" src="https://web.archive.org/assets/images/design/solutiongraphic_516x377.png" style="width: 516px; height: 377px; opacity: 1;"><canvas width="516" height="377" class="mapster_el" style="position: absolute; left: 0px; top: 0px; padding: 0px; border: 0px;"></canvas><canvas width="516" height="377" class="mapster_el" style="position: absolute; left: 0px; top: 0px; padding: 0px; border: 0px;"></canvas><img id="solutiongraphic_img" src="/assets/images/design/solutiongraphic_516x377.png" width="516" height="377" border="0" usemap="#solutiongraphic_navigation_map" style="border: 0px; position: absolute; left: 0px; top: 0px; padding: 0px; opacity: 0;"></div>
                 <map name="solutiongraphic_navigation_map" id="solutiongraphic_navigation_map">
-                    <area name="buy" id="solutiongraphic_navigation_map_buy" shape="poly" coords="65,177,67,160,70,145,74,131,79,118,84,106,90,94,98,82,106,71,114,62,123,53,133,44,141,38,149,32,159,25,217,127,207,134,199,142,193,150,189,157,186,165,163,164,163,179,153,179,153,158,104,158,104,177" href="/solutions/buy">
-                    <area name="managecash" id="solutiongraphic_navigation_map_managecash" shape="poly" coords="216,126,160,25,165,22,174,18,182,14,189,11,201,7,210,5,220,2,229,1,239,0,250,-1,259,-1,270,0,283,2,295,4,305,7,314,10,321,13,331,17,340,21,347,25,288,126,279,122,269,119,258,117,247,117,237,119,222,123" href="/solutions/manage-cash">
-                    <area name="sell" id="solutiongraphic_navigation_map_sell" shape="poly" coords="289,127,348,25,352,28,359,33,366,38,374,44,380,49,388,57,394,63,400,71,406,78,411,85,415,92,419,99,424,109,429,121,432,130,435,140,437,149,439,158,440,168,441,178,396,178,396,185,380,185,380,167,331,167,331,178,322,178,321,164,316,153,309,143,301,136,294,130" href="/solutions/sell">
-                    <area name="network" id="solutiongraphic_navigation_map_network" shape="poly" coords="58,177,103,177,103,157,154,157,153,179,164,179,164,165,213,165,211,184,230,184,227,187,227,190,256,190,256,154,285,155,285,176,299,176,299,217,306,217,305,180,304,177,332,178,331,167,379,167,379,185,396,185,396,178,451,177,447,181,447,204,460,212,454,250,429,254,426,263,421,273,416,282,407,282,397,285,389,290,383,298,380,307,380,316,383,325,377,331,368,337,360,344,349,351,336,358,322,364,307,369,293,373,280,374,265,376,247,376,234,376,222,373,212,372,200,369,188,365,176,360,166,355,153,348,143,341,135,334,141,330,144,321,143,310,137,304,130,301,123,301,121,290,117,280,110,271,99,264,91,262,80,261,77,253,53,251,47,212,57,206" href="/community/the-ariba-network">
+                    <area name="buy" id="solutiongraphic_navigation_map_buy" shape="poly" coords="2096,5708,2161,5160,2258,4676,2387,4225,2548,3806,2709,3419,2903,3032,3161,2645,3419,2290,3677,2000,3967,1709,4289,1419,4547,1226,4805,1032,5128,806,6998,4096,6676,4322,6418,4580,6224,4838,6095,5063,5999,5321,5257,5289,5257,5773,4934,5773,4934,5096,3354,5096,3354,5708" href="/solutions/buy">
+                    <area name="managecash" id="solutiongraphic_navigation_map_managecash" shape="poly" coords="6966,4064,5160,806,5321,710,5612,581,5870,452,6095,355,6482,226,6773,161,7095,65,7385,32,7708,0,8063,-32,8353,-32,8708,0,9127,65,9514,129,9836,226,10127,323,10352,419,10675,548,10965,677,11191,806,9288,4064,8998,3935,8675,3838,8321,3773,7966,3773,7643,3838,7160,3967" href="/solutions/manage-cash">
+                    <area name="sell" id="solutiongraphic_navigation_map_sell" shape="poly" coords="9320,4096,11223,806,11352,903,11578,1064,11804,1226,12062,1419,12255,1580,12513,1838,12707,2032,12900,2290,13094,2516,13255,2741,13384,2967,13513,3193,13674,3515,13835,3902,13932,4193,14029,4515,14093,4805,14158,5096,14190,5418,14222,5741,12771,5741,12771,5966,12255,5966,12255,5386,10675,5386,10675,5741,10385,5741,10352,5289,10191,4934,9965,4612,9707,4386,9482,4193" href="/solutions/sell">
+                    <area name="network" id="solutiongraphic_navigation_map_network" shape="poly" coords="1871,5708,3322,5708,3322,5063,4967,5063,4934,5773,5289,5773,5289,5321,6869,5321,6805,5934,7418,5934,7321,6031,7321,6128,8256,6128,8256,4967,9191,4999,9191,5676,9643,5676,9643,6998,9869,6998,9836,5805,9804,5708,10707,5741,10675,5386,12223,5386,12223,5966,12771,5966,12771,5741,14545,5708,14416,5837,14416,6579,14835,6837,14642,8063,13835,8192,13739,8482,13577,8804,13416,9095,13126,9095,12803,9191,12545,9353,12352,9611,12255,9901,12255,10191,12352,10481,12158,10675,11868,10868,11610,11094,11255,11320,10836,11546,10385,11739,9901,11900,9449,12029,9030,12062,8546,12126,7966,12126,7547,12126,7160,12029,6837,11997,6450,11900,6063,11771,5676,11610,5354,11449,4934,11223,4612,10997,4354,10772,4547,10643,4644,10352,4612,9998,4418,9804,4193,9707,3967,9707,3902,9353,3773,9030,3548,8740,3193,8514,2935,8450,2580,8417,2483,8159,1709,8095,1516,6837,1838,6644" href="/community/the-ariba-network">
                 </map>
             </div>
             <div class="text center tacenter xlargen margin_top_03" style="width:565px;">Wherever you are on the road to better commerce, here's a handy tool for exploring how Ariba's solutions can help.</div>
@@ -391,30 +411,20 @@ If You have questions or comments about this Privacy Statement, please send an e
     <div class="modal_overlay"></div>
 </div>
 <!--   END: snippets/content/rainbow -->
-<!-- BEGIN: templates/global/_cookie-consent -->
-<div class="modal_container" id="consent_modal">
-    <div id="modal_area">
-        <div class="modal_content">
-            <!-- CONTENT: 01: MAIN: 02 -->
-            <div class="main stacked withsidebar">
-                <!-- CONTENT: 01: MAIN: 02: FORM -->
-                <p class="xlarger oswald">COOKIE CONSENT</p>
-                <p>Will you choose to accept cookies, chocolate chip or otherwise? Mmmmm...</p>
-                <p>Review the <a href="/legal/privacy-policy" target="_blank">Privacy Policy</a></p>
-            </div>
-            <!-- CONTENT: 04: MAIN: 03 -->
-            <div class="main stacked withsidebar margin_bottom_04 margin_top_02" style="height:42px;">
-                <div class="center" style="width:300px">
-                    <a class="button left" href="/?ACT=75&amp;RET=legal/ariba-web-site-privacy-statement-11-23-2011" title="YES" rel="nofollow">YES</a>
-                    <a class="button_support left" href="/?ACT=76&amp;CLEAR=ee&amp;RET=legal/ariba-web-site-privacy-statement-11-23-2011" title="No" rel="nofollow">No</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="modal_overlay"></div>
-</div>
-<!--   END: templates/global/_cookie-consent -->
+
 <!-- BEGIN: templates/global/analytics -->
+
+
+<!-- BEGIN: templates/ai-analytics/initialize -->
+<!-- mp_trans_disable_start -->
+<script type="text/javascript">
+    Ariba.Analytics.Bing.setConfig([{"actionid":"113846","dedup":"1","domainId":"1492663","type":"1"}], '_collateral_');
+    Ariba.Analytics.Google.setConfig([{"label":"PFYvCOy4zwEQxvGr_gM","color":"FFFFFF","format":"3","id":1070266566,"language":"en","value":0}], '_collateral_');
+    Ariba.Analytics.Omniture.setConfig([], '_collateral_');
+</script>
+<!-- mp_trans_disable_end -->
+<!--   END: templates/ai-analytics/initialize -->
+
 <!-- mp_trans_disable_start -->
 <!-- SCRIPTS: ANALYTICS: SITECATALYST -->
 <!--
@@ -425,45 +435,78 @@ If You have questions or comments about this Privacy Statement, please send an e
 <script type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
+//CUSTOM CONFIGURATION:
+s.aribaOriginalChannelCookieName = "omni_original_channel";
 
-s.pageName="Legal : Ariba Web Site Privacy Statement - 11-23-2011";
-s.server=location.hostname; 
-s.channel="";
+s.pageName='Legal : Ariba Web Site Privacy Statement - 11-23-2011';
+s.server=location.hostname; // done with JS to ensure it's the hostname from URL not an IP address
+s.channel='Legal';
+if(window.location.pathname === "/"){
+    //it's the homepage, so we need to hardcode these values since our breadcrumb
+    //utility punts on this page.
+    s.pageName="Home";
+    s.channel="Home";
+}
+if(s.channel.length === 0){s.channel=s.pageName;} // this is because channel is a step back, but shouldn't be if it's a top-level page.
+if(!$.cookie(s.aribaOriginalChannelCookieName)){//the cookie isn't set or has expired.
+    $.cookie(s.aribaOriginalChannelCookieName,s.channel, { expires: 1, path: '/', domain:'.ariba.com'});
+}
 s.pageType="";
 s.hier1 = "";
-s.prop1="";
-s.prop2="";
-s.prop3="";
-s.prop4="";
-s.prop5="";
-s.prop9=""; //I think this has something to do with form tracking??
-s.prop12 = "english";
-s.prop13 = "";  
+s.prop1 = "";s.prop2="";s.prop3="";s.prop4="";s.prop5="";s.prop6="";s.prop7="";s.prop8="";
+s.prop9 =""; //I think this has something to do with form tracking??
+s.prop12 = (function(){
+    var alias = $(document).parseURL().host.split(".")[0];
+    switch($(document).parseURL().host.split(".")[0]){
+        case "fr":case "pt":case "es":case "de":
+            return alias;
+            break;
+        case "www": case "ariba":/*this is in case someone hits without any alias*/
+        default:
+            return "en";
+    }
+})();
+s.prop13 = "";// definted in UI as 'user segment' -- not sure what the intention here was.
 s.prop14 = s.pageName;
-s.prop16 = "";
-s.prop17 = "";
+s.prop18 = "";//this is getting some sort of numerical value
+s.prop19 = "";//looks like this one is being assigned the same value as prop14 somewhere
+s.prop20 = $(document).parseURL().params.odnsrc; //stores ODN sources (?odnsrc)
+s.prop21 = $(document).parseURL().params.odnctx; //stores ODN context (?odnctx)
 
 /* Conversion Variables */
 s.campaign=s.getQueryParam(external_campaign_param);
-s.state=geoip_region();
-s.zip=geoip_postal_code();
+s.state=geoip().region;
+s.zip=geoip().postalCode;
 s.events="";
 s.products="";
 s.purchaseID="";
-s.eVar1="";
+s.eVar1="";//this is being used somewhere/somehow.  no idea, but it gets blanked for some reason.
 s.eVar2="";
 s.eVar3="";
 s.eVar4="";
 s.eVar5="";
-s.eVar13=+1;
-
+s.eVar6="";
+s.eVar7="";
+s.eVar8="";
+s.eVar9="";
+s.eVar10=s.channel;// This is used to track conversion credit-- is the "current" channel
+s.eVar11=$.cookie(s.aribaOriginalChannelCookieName); // original channel -- held for 1 day.
+s.eVar12="";
+s.eVar13=+1; //don't know what this one is for
+s.eVar14="";
+s.eVar15="";
+s.eVar16="";
+s.eVar17="";
+s.eVar18="";
+s.eVar19="";
+s.eVar20="";
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img src="http://ariba.112.2o7.net/b/ss/ariba-zephyros/1/H.24.4--NS/0"
-height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+height="1" width="1" border="0" alt=""></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.24.4. -->
 
 <!-- SCRIPTS: ANALYTICS: GOOGLE -->
@@ -490,7 +533,22 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 
 
-
+<!-- SCRIPTS: ANALYTICS: BING -->
+<script type="text/javascript">
+    if(!window.mstag)
+    {
+        mstag = {
+            loadTag: function(){},
+            time: (new Date()).getTime()
+        };
+    }
+</script>
+<script id="mstag_tops" type="text/javascript" src="//flex.atdmt.com/mstag/site/1820f5c4-506f-44c7-b672-77221a51b4fe/mstag.js"></script>
+<script type="text/javascript">
+    if('function' === typeof mstagLoadTag)
+    {mstagLoadTag();}
+</script>
+<!-- SCRIPTS: ANALYTICS: OMNITURE -->
 <script type="text/javascript">_satellite.pageBottom();</script>
 <script type="text/javascript" src="/assets/scripts/omniture/ai_omniture.js"></script>
 <!-- mp_trans_disable_end -->
