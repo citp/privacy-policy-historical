@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igenericdrugs.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919212834id_/http%3A//igenericdrugs.com%3Fact%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igenericdrugs.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603125958id_/http%3A//igenericdrugs.com%3Fact%3Dpolicy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -22,3 +22,5 @@
 
 **Any more questions?  
 **iGenericDrugs takes the issue of protecting your privacy seriously. If you have any concerns, questions, or just want to tell us what you think, feel free to contact us at [info@igenericdrugs.com](mailto:info@igenericdrugs.com).
+
+ [0-9](https://web.archive.org/?n=0) [A](https://web.archive.org/?n=A) [B](https://web.archive.org/?n=B) [C](https://web.archive.org/?n=C) [D](https://web.archive.org/?n=D) [E](https://web.archive.org/?n=E) [F](https://web.archive.org/?n=F) [G](https://web.archive.org/?n=G) [H](https://web.archive.org/?n=H) [I](https://web.archive.org/?n=I) [J](https://web.archive.org/?n=J) [K](https://web.archive.org/?n=K) [L](https://web.archive.org/?n=L) [M](https://web.archive.org/?n=M) [N](https://web.archive.org/?n=N) [O](https://web.archive.org/?n=O) [P](https://web.archive.org/?n=P) [Q](https://web.archive.org/?n=Q) [R](https://web.archive.org/?n=R) [S](https://web.archive.org/?n=S) [T](https://web.archive.org/?n=T) [U](https://web.archive.org/?n=U) [V](https://web.archive.org/?n=V) [W](https://web.archive.org/?n=W) [X](https://web.archive.org/?n=X) [Y](https://web.archive.org/?n=Y) [Z](https://web.archive.org/?n=Z) 
