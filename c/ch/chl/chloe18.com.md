@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chloe18.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104073419id_/http%3A//chloe18.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chloe18.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603083115id_/http%3A//chloe18.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy_nethole
+# Privacy
 
-Privacy Policy for Nethole Services Ltd  
+Privacy Policy for TR Financial Resources Inc   
 
 
 Adults Only Service   
