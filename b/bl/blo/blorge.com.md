@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blorge.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226223849id_/http%3A//tech.blorge.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blorge.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603033928id_/http%3A//tech.blorge.com/privacy-statement) for the most accurate reproduction.*
 
 # TECH.BLORGE.com - Privacy statement
 
@@ -34,13 +34,5 @@ This means that once information is published on BLORGE.com, we have no control 
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](http://www.google.co.uk/privacy_ads.html).
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20statement%20-%20http%3A%2F%2Ftech.blorge.com%2Fprivacy-statement%2F%20\(via%20@sociablesite\)%20/blogplay.com/%20blogplay.com "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Ftech.blorge.com%2Fprivacy-statement%2F&t=Privacy%20statement "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20statement&body=http%3A%2F%2Ftech.blorge.com%2Fprivacy-statement%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Ftech.blorge.com%2Fprivacy-statement%2F&title=Privacy%20statement "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Ftech.blorge.com%2Fprivacy-statement%2F&title=Privacy%20statement&notes=This%20purpose%20of%20this%20privacy%20statement%20is%20to%20let%20you%20know%20what%20information%20is%20collected%20about%20your%20visit%20to%20this%20site%2C%20and%20how%20the%20information%20is%20used.%0D%0A%0D%0AStatistical%20information%20about%20your%20visit%0D%0A%0D%0AWhen%20you%20visit%20BLORGE.com%2C%20our%20server%20makes%20a%20recor "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Ftech.blorge.com%2Fprivacy-statement%2F&title=Privacy%20statement&srcURL=http%3A%2F%2Ftech.blorge.com%2Fprivacy-statement%2F&srcTitle=TECH.BLORGE.com+Top+Technology+news "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Ftech.blorge.com%2Fprivacy-statement%2F&title=Privacy%20statement&source=TECH.BLORGE.com+Top+Technology+news&summary=This%20purpose%20of%20this%20privacy%20statement%20is%20to%20let%20you%20know%20what%20information%20is%20collected%20about%20your%20visit%20to%20this%20site%2C%20and%20how%20the%20information%20is%20used.%0D%0A%0D%0AStatistical%20information%20about%20your%20visit%0D%0A%0D%0AWhen%20you%20visit%20BLORGE.com%2C%20our%20server%20makes%20a%20recor "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Ftech.blorge.com%2Fprivacy-statement%2F&Title=Privacy%20statement "BlinkList")
-  * 
+  *   *   *   *   *   * 
 
