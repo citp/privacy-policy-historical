@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mixing.dj privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116133253id_/http%3A//mixing.dj/2011/livesets/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixing.dj privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603065251id_/http%3A//mixing.dj/2011/livesets/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Live Set & DJ Mix Download with Track List
+# Privacy Policy
 
 Privacy Policy for mixing.dj
 
@@ -30,14 +30,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Related Mixes/Sets:
+### Do you like this DJ Mix, Live Set? Don't forget to post a comment:
 
-  1. [Maintenance!](http://mixing.dj/2010/livesets/maintenance-2/ "Maintenance!")
-  2. [Contact & DMCA Policy](http://mixing.dj/2012/livesets/contact/ "Contact & DMCA Policy")
-  3. [News – 25.05.2010](http://mixing.dj/2010/livesets/news-25-05-2010/ "News – 25.05.2010")
-  4. [Rockstar Release Review – Compuphonic – Sunset (Feat. Marques Toliver) – Get Physical Music](http://mixing.dj/2012/livesets/rockstar-release-review-compuphonic-sunset-feat-marques-toliver-get-physical-music/ "Rockstar Release Review –  Compuphonic – Sunset \(Feat. Marques Toliver\) – Get Physical Music")
-  5. [Music is the Drug 027 with Corey Biggs aka Rockstar – Dance Freedom](http://mixing.dj/2012/livesets/music-is-the-drug-027-with-corey-biggs-aka-rockstar-dance-freedom/ "Music is the Drug 027 with Corey Biggs aka Rockstar – Dance Freedom")
-
-
-
-**Do you like this set? Don't forget to post a comment:**
+Comments
