@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phonepower.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214142634id_/http%3A//www.phonepower.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonepower.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603210137id_/http%3A//www.phonepower.com/info/privacy.aspx) for the most accurate reproduction.*
 
-# VoIP Phone Service | FREE VoIP Calls | Phone Power VoIP Provider Privacy Policy
+# Phone Power - Privacy Policy | VoIP Service & FREE VoIP Phone Calls
 
 Phone Power is committed to protecting the privacy and security of the information provided by customers visiting our Web site or using our services. Phone Power may request information from people visiting our Web sites or using our services. Phone Power is the sole owner of the information collected. Phone Power respects your privacy and will not knowingly distribute or cause to be distributed your personal information to any entity for any reason. We will not collect any personally identifiable information unless the visitor/customer provides it to us voluntarily. Personally identifiable information includes a visitors/customer’s name, address, telephone number and e-mail address. Phone Power is dedicated to building a long-term relationship with all of our customers and visitors. We will not sell, share or rent this information to others in ways other than as disclosed in this Privacy Policy. 
 
