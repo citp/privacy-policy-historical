@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bourncreative.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014043214id_/http%3A//www.bourncreative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bourncreative.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603044133id_/http%3A//www.bourncreative.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bourn Creative
 
@@ -109,10 +109,4 @@ Bourn Creative, LLC abides by the safe harbor framework set forth by the U.S. De
 
 Bourn Creative, LLC reserves the right to change or update this privacy policy, or any other of our policies or practices, at any time without notice. Any changes or updates will be effective immediately upon posting to this website. Under certain circumstances, we may also elect to notify you of changes or updates to our privacy policy by additional means, such as posting a notice on the front page of our website to sending you an e-mail. We encourage you to review this privacy policy often for changes.
 
-For information regarding our disclaimer notice please [visit this page](http://www.bourncreative.com/disclaimer-notice "Disclaimer Notice").
-
-If you have any questions or comments regarding our privacy practices, you may contact us at:
-
-**Bourn Creative, LLC**  
-2109 Big Sky Drive, Rocklin, CA 95765  
-916.788.1740 | inquiries(at)bourncreative.com
+For information regarding our disclaimer notice please [visit this page](https://web.archive.org/disclaimer-notice "Disclaimer Notice").
