@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theelevationgroup.net privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209115652id_/http%3A//theelevationgroup.net/blog/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theelevationgroup.net privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603075402id_/http%3A//theelevationgroup.com/legal/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -68,7 +68,6 @@ The term "personally identifiable information" mans individually identifiable in
   4. A telephone number.
   5. A social security number.
   6. Any other identifier that permits the physical or online contacting of a specific individual.
->
   7. Information concerning a user that the web site or online service collects online, from the user, and maintains in personally identifiable form, in combination with an identifier described within this privacy policy.
 
 
