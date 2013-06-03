@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the car-seat.org privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202055512id_/http%3A//www.car-seat.org/showthread.php%3Ft%3D170685) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the car-seat.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603122649id_/http%3A//www.car-seat.org/showthread.php%3Ft%3D170685) for the most accurate reproduction.*
 
 # Privacy Policy - Car Seat.Org - Carseat, Automobile & Child Passenger Safety Community Forums
 
@@ -39,7 +39,7 @@ How we collect information: In addition to the methods described above, we may a
 
 **How you can view or update your personal information:** To ensure that you have as much control over your personally identifiable information as possible, you may update your information by contacting us at [webmaster@car-seat.org](mailto:webmaster@car-seat.org) or utilizing the Account Access (User CP) section of the Website. We will use reasonable efforts to process any change you make; provided, however, that requests to delete information are subject to Car-Seat.Org’s internal reporting and retention policies and all applicable legal obligations. 
 
-**Targeted Advertising:** We use third-party advertising companies to serve ads when you visit our Websites. Some of these companies may place cookies on your browser to collect non-personally identifiable information about your visits to Car-Seat.Org and other websites and use that information in order to provide advertisements about goods and services that may be of interest to you. To learn more about this practice, its benefits, or about your choice to opt-out of this practice, see <http://www.networkadvertising.org/optout_nonppii.asp>. 
+**Targeted Advertising:** We use [third-party advertising companies](http://www.car-seat.org/showpost.php?p=1777308&postcount=2) to serve ads when you visit our Websites. Some of these companies may place cookies on your browser to collect non-personally identifiable information about your visits to Car-Seat.Org and other websites and use that information in order to provide advertisements about goods and services that may be of interest to you. To learn more about this practice, its benefits, or about your choice to opt-out of this practice, see <http://www.networkadvertising.org/optout_nonppii.asp>. 
 
 **Children:** These Websites are not directed toward children under 13 years of age nor does Car-Seat.Org knowingly collect information from children under 13. If you are under 13, please do not submit any personally identifiable information to Car-Seat.Org. 
 
