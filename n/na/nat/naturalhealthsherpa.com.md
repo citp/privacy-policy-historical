@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naturalhealthsherpa.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111135209id_/http%3A//naturalhealthsherpa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalhealthsherpa.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603143557id_/http%3A//naturalhealthsherpa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | NaturalHealthSherpa.com
 
 Welcome to the website located NaturalHealthSherpa.com (the “Website”), developed and operated by Natural Health Sherpa, LLC, a Delaware limited liability company (“Sponsor”, “we”, “our”, or “us”). This Privacy Policy is intended to inform you about how Sponsor collects and uses your personally identifiable information (“PII”) and other information in operating the Website.
 
@@ -51,3 +51,5 @@ You must be eighteen (18) years of age or older in order to become a Registrant.
 If you wish to remove PII that you have submitted to Sponsor, please send us an email requesting such removal to support at naturalhealthsherpa.com and we will honor that request within 10 business days.  If you have questions or concerns about any of our information collection or handling practices, please contact us at support at naturalhealthsherpa.com, write to us at 1121C Military Cutoff Road, #360, Wilmington, NC 28405 or by calling 910-256-0902.
 
 **Last Updated: October 14 th, 2010**
+
+Disclaimer: The information on this site is not intended or implied to be a substitute for professional medical advice, diagnosis or treatment. All content, including text, graphics, images and information, contained on or available through this web site is for general information purposes only. Natural Health Sherpa LLC makes no representation and assumes no responsibility for the accuracy of information contained on or available through this web site, and such information is subject to change without notice. You are encouraged to confirm any information obtained from or through this web site with other sources, and review all information regarding any medical condition or treatment with your physician.
