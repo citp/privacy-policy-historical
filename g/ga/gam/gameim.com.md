@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gameim.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126052239id_/http%3A//www.gameim.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameim.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603083430id_/http%3A//www.gameim.com/Policy.html) for the most accurate reproduction.*
 
-# GW2 Gold Cheap Sale, Buy Safe SWTOR Credits,RS Gold
-
-[Home](https://web.archive.org/) » Privacy Policy
+# Diablo 3 Gold, Buy Diablo 3 Gold, Cheap Diablo 3 Gold for Sale
 
 PRIVACY
 
@@ -16,4 +14,4 @@ The company does not sell, rent or lease its client lists to third parties. Occa
 
 The Company save track of the websites and pages our client's visit, in order to analyze what websites and services are the most popular. This data is used to deliver customized content and advertising to clients whose behavior indicates that they are interested in a particular subject area.
 
-The company's websites will reveal your personal information , without clew, just if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on the Company or the website; (b) protect and defend the rights or property of [www.gameim.com](http://www.gameim.com.com/), but not limited to this Company's websites; and, (c) act under urgent circumstances to protect the private safety of users of the Company, its websites, or the public.
+The company's websites will reveal your personal information , without clew, just if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on the Company or the website; (b) protect and defend the rights or property of [www.gameim.com](http://www.gameim.com/), but not limited to this Company's websites; and, (c) act under urgent circumstances to protect the private safety of users of the Company, its websites, or the public.
