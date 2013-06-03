@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourism.gov.in privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201085603id_/http%3A//www.tourism.gov.in/Pages/ContentView.aspx%3FPageID%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourism.gov.in privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603103234id_/http%3A//tourism.gov.in/Pages/ContentView.aspx%3FPageID%3D9) for the most accurate reproduction.*
 
 # Privacy Policy - Government of India, Ministry of Tourism
 
