@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usingmac.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023121955id_/http%3A//www.usingmac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingmac.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603205023id_/http%3A//usingmac.com/privacy-policy) for the most accurate reproduction.*
 
 # UsingMac.com - Mac Tricks and Tips, Wallpapers and Applications for Mac Users
 
