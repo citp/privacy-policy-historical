@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the space.com privacy policy that was archived on 2012-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120814190957id_/http%3A//www.space.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the space.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603051333id_/http%3A//www.space.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | TechMediaNetwork
 
@@ -26,7 +26,7 @@ In all cases, we will only use your information as permitted by law. Notwithstan
 
 ## Use of “Cookies”
 
-TechMediaNetwork uses “cookies” - data that is transferred from TechMediaNetwork to your hard drive for record-keeping purposes. We use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit TechMediaNetwork. Some of the advertisements appearing on TechMediaNetwork are delivered by our third-party ad network, DoubleClick. In the course of serving advertisements, DoubleClick may place or recognize a unique “cookie” in your browser's cache, and may use Anonymous Information (including date/time of the banner ad displayed, the ad that was displayed and the IP address of the visitor) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you and to collect statistical information. For more information about DoubleClick's privacy policy, [please click here](http://www.doubleclick.com/privacy/index.aspx). If you would like to “opt out” of having a unique cookie placed on your hard drive by DoubleClick, [please click here](http://www.doubleclick.com/privacy/dart_adserving.aspx).
+TechMediaNetwork uses “cookies” - data that is transferred from TechMediaNetwork to your hard drive for record-keeping purposes. We use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit TechMediaNetwork. Some of the advertisements appearing on TechMediaNetwork are delivered by our third-party ad network, DoubleClick. In the course of serving advertisements, DoubleClick may place or recognize a unique “cookie” in your browser's cache, and may use Anonymous Information (including date/time of the banner ad displayed, the ad that was displayed and the IP address of the visitor) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you and to collect statistical information. For more information about DoubleClick's privacy policy, [please click here](http://www.google.com/intl/en/policies/). If you would like to "opt out" of having a unique cookie placed on your hard drive by DoubleClick, please [click here](https://www.google.com/settings/ads/onweb/?hl=en=#display_optout) or [here](http://www.aboutads.info/choices/). 
 
 ## Disclosure of Information through Business Transfers
 
@@ -70,7 +70,7 @@ Site Administrator
 TechMediaNetwork  
 2425 Lincoln Ave.  
 Ogden, UT 84401  
-[**Contact Us**](https://web.archive.org/web/20120814190958id_/http://www.techmedianetwork.com/contact/advertising.html) ****
+[**Contact Us**](https://web.archive.org/web/20130603001505id_/http://www.techmedianetwork.com/contact/advertising.html) ****
 
 **
 
