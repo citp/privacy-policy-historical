@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the biotecnika.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125212612id_/http%3A//www.biotecnika.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biotecnika.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603083750id_/http%3A//www.biotecnika.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BioTecNika
-
-[](http://netjrf.biotecnika.org/)
 
 This is the web site belongs to  **BIOTECNIKA INFO LABS PVT LTD, #2628, 4th Floor, 27th Main, Sector 1, HSR Layout,**   **Bangalore - 560102, Karnataka**
 
@@ -34,5 +32,4 @@ For More contacts visit our [Contact Us](https://web.archive.org/contact-us/) pa
   * If you feel that this site is not following its stated information policy, you may contact us at the above said addresses.
 
 
-  
 
