@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the winscp.net privacy policy that was archived on 2012-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121105184103id_/http%3A//winscp.net/eng/docs/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the winscp.net privacy policy that was archived on 2013-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603054711id_/http%3A//winscp.net/eng/docs/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
     <title>WinSCP Privacy Policy :: WinSCP</title>
@@ -14,7 +14,7 @@
     <meta name="robots" content="index,follow">
     <meta name="date" content="2012-07-19T00:44:10+0200">
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript">
+    <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript">
       var alertText   = 'Please enter the text you want to format.\nIt will be appended to the end of the document.';
       var notSavedYet = 'There are unsaved changes, that will be lost.\nReally continue?';
       var baseURL     = '/eng/docs/';
@@ -37,6 +37,7 @@
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-22775137-1']);
   _gaq.push(['_trackPageview']);
+  _gaq.push(['_setAllowAnchor', true]);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -44,8 +45,40 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script>  </head>
+</script>
+  </head>
 <body>
+
+  <!-- init the Facebook JS SDK -->
+  <div id="fb-root"></div>
+  <script>
+    window.fbAsyncInit = function() {
+      // init the FB JS SDK
+      FB.init({
+        appId      : '215157521840905', // App ID from the App Dashboard
+        channelUrl : '//winscp.net/channel.php', // Channel File for x-domain communication
+        status     : true, // check the login status upon init?
+        cookie     : true, // set sessions cookies to allow your server to access the session?
+        xfbml      : true  // parse XFBML tags on this page?
+      });
+
+      // Additional initialization code such as adding Event Listeners goes here
+
+    };
+
+    // Load the SDK's source Asynchronously
+    // Note that the debug version is being actively developed and might 
+    // contain some type checks that are overly strict. 
+    // Please report such bugs using the bugs tool.
+    (function(d, debug){
+       var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement('script'); js.id = id; js.async = true;
+       js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+       ref.parentNode.insertBefore(js, ref);
+     }(document, /*debug*/ false));
+  </script>
+
   <div class="all">
   <div id="pagehead">
 
@@ -63,6 +96,7 @@
 <li id="it"><a href="../../it/" title="Italiano"><span class="langalt">Italiano</span></a></li>
 <li id="jp"><a href="../../jp/" title="日本語"><span class="langalt">日本語</span></a></li>
 <li id="ko"><a href="../../ko/" title="한국어"><span class="langalt">한국어</span></a></li>
+<li id="lt"><a href="../../lt/" title="Lietuvių"><span class="langalt">Lietuvių</span></a></li>
 <li id="nl"><a href="../../nl/" title="Nederlands"><span class="langalt">Nederlands</span></a></li>
 <li id="pl"><a href="../../pl/" title="Polski"><span class="langalt">Polski</span></a></li>
 <li id="ru"><a href="../../ru/" title="По-русски"><span class="langalt">По-русски</span></a></li>
@@ -191,13 +225,13 @@ Third party vendors, including Google, use cookies to serve ads on our site. Goo
 When installing WinSCP, we might collect anonymous information about the number of initiated and finished installations per geo-location and language. No private information is collected. WinSCP installer might offer you to install a third party application along with WinSCP, in such a case we collect also statistics for its installations. Note that before deciding to install any third party application, you are required to agree to its separate and independent Terms of use and Privacy policy.
 </p>
 <p>
-Some versions of WinSCP sponsored installation package use <a href="/eng/docs/opencandy" class="wikilink1" title="opencandy" onclick="return svchk()" onkeypress="return svchk()">OpenCandy</a> advertising module (but only in the sponsored installer, never in the WinSCP application).
+Some versions of WinSCP sponsored installation package use <a href="/eng/docs/opencandy" class="wikilink1" onclick="return svchk()" onkeypress="return svchk()">OpenCandy</a> advertising module (but only in the sponsored installer, never in the WinSCP application).
 </p>
 
 </div><a name="using_winscp_application"></a><div class="secedit"><form class="button" method="post" action="/eng/docs/privacy" onsubmit="return svchk()"><input type="hidden" name="do" value="edit"><input type="hidden" name="lines" value="20-23"><input type="submit" value="Edit" class="button"></form></div><h3>Using WinSCP application</h3><div class="level3">
 
 <p>
-When using WinSCP application, we might collect anonymous <a href="/eng/docs/usagestatistics" class="wikilink1" title="usagestatistics" onclick="return svchk()" onkeypress="return svchk()">WinSCP usage statistics</a>. You may, however, opt-out from providing WinSCP usage statistics or from WinSCP automatic check for application updates.
+When using WinSCP application, we might collect anonymous <a href="/eng/docs/usagestatistics" class="wikilink1" onclick="return svchk()" onkeypress="return svchk()">WinSCP usage statistics</a>. You may, however, opt-out from providing WinSCP usage statistics or from WinSCP automatic check for application updates.
 </p>
 
 </div><a name="what_do_we_use_your_information_for"></a><div class="secedit"><form class="button" method="post" action="/eng/docs/privacy" onsubmit="return svchk()"><input type="hidden" name="do" value="edit"><input type="hidden" name="lines" value="24-35"><input type="submit" value="Edit" class="button"></form></div><h2>What do we use your information for?</h2><div class="level2">
@@ -350,7 +384,7 @@ This policy was last modified on <strong>2012-07-19</strong>.
 		    <input type="hidden" name="cof" value="FORID:10">
 		    <input type="hidden" name="ie" value="UTF-8">
 		    <input type="text" name="q" id="q" autocomplete="off" size="25">
-		    <input type="submit" name="sa" value="Search">
+		    <input type="submit" name="sa" value="Search" class="button">
 		  </div>
 		</form>
 		<script type="text/javascript" src="//www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
@@ -380,13 +414,14 @@ This policy was last modified on <strong>2012-07-19</strong>.
 	<h2>Recommend</h2>
 	<div style="text-align: center;">
 	<p>
+	<!-- Facebook Like Button -->
+	<!-- <iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;app_id=215157521840905&amp;href=http%3A%2F%2Fwinscp.net&amp;send=false&amp;layout=box_count&amp;width=55&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=63" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:55px; height:63px;" allowTransparency="true"></iframe> -->
+	<fb:like send="false" layout="box_count" width="55" show_faces="false"></fb:like>
 	<!-- Twitter Tweet Button -->
 	<span style="vertical-align:top;"><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="winscpnet">Tweet</a></span>
 	<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 	<!-- Place this tag where you want the Google +1 button to render -->
 	<span style="vertical-align:top;"><g:plusone size="tall"></g:plusone></span>
-	<!-- Facebook Like Button -->
-	<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;app_id=215157521840905&amp;href=http%3A%2F%2Fwinscp.net&amp;send=false&amp;layout=box_count&amp;width=55&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=63" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:55px; height:63px;" allowtransparency="true"></iframe>
 	</p>
 	</div>
 
