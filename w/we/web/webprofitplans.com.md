@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webprofitplans.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002210837id_/http%3A//www.webprofitplans.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webprofitplans.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603213821id_/http%3A//www.webprofitplans.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # WebProfitPlans - Privacy Policy
 
