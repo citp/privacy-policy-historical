@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dirwell.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124141330id_/http%3A//www.dirwell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirwell.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603134607id_/http%3A//www.dirwell.com/privacy-policy) for the most accurate reproduction.*
 
-# Directory Well - Web Directory- Privacy Policy
+# Directory Well - Web Directory - Privacy Policy
+
+[List your business](https://web.archive.org/submitpage.php)
 
 Your privacy is important to **Directory Well Web Directory**. We promise to protect your private information. This Privacy Policy is meant to give a description of the information we collect from you, how we may use that information, with whom we may share it, and your options pertaining to the use and disclosure of your information.
 
@@ -16,9 +18,9 @@ The information collected by **DirWell** depends solely on your use of our direc
 
 
 
-**DirWell** uses all the information collected for the purposes of billing, providing services, identification and authentication, sending the eNewsletter, and contact.
+ **DirWell** uses all the information collected for the purposes of billing, providing services, identification and authentication, sending the eNewsletter, and contact.
 
-**DirWell** never shares your personal information or email addresses with any third parties, except service providers, such as the credit-card payment processors who carry on functions on our behalf. They need access to your personal information to perform their job, but they do not have permission to use, share, distribute or sell this information for any other purposes.
+ **DirWell** never shares your personal information or email addresses with any third parties, except service providers, such as the credit-card payment processors who carry on functions on our behalf. They need access to your personal information to perform their job, but they do not have permission to use, share, distribute or sell this information for any other purposes.
 
 ### Personal Data Security
 
@@ -34,7 +36,7 @@ In addition, certain information may be disclosed to service providers, such as 
 
 ### Third Parties
 
-**DirWell** uses hosting partners and other third party vendors to offer the related networking and technology required to run **DirWell** Web Directory. Users' activity information on our website may be shared with our advertisers or partners (if any), in order to see the most viewed pages, browser information and search engine usage, number of repeat and unique visitors etc. This is done to improve our website and serve our clients and users better.
+ **DirWell** uses hosting partners and other third party vendors to offer the related networking and technology required to run **DirWell** Web Directory. Users' activity information on our website may be shared with our advertisers or partners (if any), in order to see the most viewed pages, browser information and search engine usage, number of repeat and unique visitors etc. This is done to improve our website and serve our clients and users better.
 
 Our directory also contains links to third-party websites in the form of advertisers, submitted sites and informational sites. We make sure the sites we link to are genuine. However, we don't take responsibility for any privacy breach on such websites or the use of your personal information collected on their websites. We suggest you read the privacy policy and terms of use of any website visited through our links.
 
@@ -53,3 +55,24 @@ In case of any changes made to your personal information, change in email addres
 Any changes to the Privacy Policy on **DirWell** will become effective the minute they are posted on the website. It is your responsibility to keep track and be in the know of any such policy changes.
 
 This Privacy Policy is intended to cover collection and use of information on our website. Please be assured that **DirWell** takes all reasonable steps to ensure that your privacy is protected. By using our website or anything within, including our services, you declare your unconditional agreement with our Privacy Policy.
+
+#### NEWS
+
+Visit our newsroom to learn what we've been up to, what we're planning next, and what others are saying about us.
+
+[ Get Latest News ](http://www.dirwell.com/blog/)
+
+#### CONTACT US
+
+Have questions, comments, or suggestions for us? We’d love to hear from you. 
+
+[ Drop Us A Line ](https://web.archive.org/contact.php)
+
+#### CAREERS
+
+Explore Dirwell careers—and find out how you can spend your days helping businesses succeed and connect with their customers. 
+
+[ Join Our Team ](http://www.dirwell.com/blog/)
+
+
+
