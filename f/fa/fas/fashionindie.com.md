@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionindie.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129170933id_/http%3A//fashionindie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionindie.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603182808id_/http%3A//www.fashionindie.com/privacy) for the most accurate reproduction.*
 
-# » Privacy Policy
+# Fashion Indie
 
 This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and Anonymous Information you submit to us through our Site.
 
