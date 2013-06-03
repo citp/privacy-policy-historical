@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ariba.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222223137id_/http%3A//www.ariba.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariba.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603134925id_/http%3A//www.ariba.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Ariba Web Site Privacy Statement - 11-23-2011 - Ariba, Inc.
 
