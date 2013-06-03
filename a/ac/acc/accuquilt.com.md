@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuquilt.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111051534id_/http%3A//www.accuquilt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuquilt.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603200924id_/http%3A//accuquilt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
