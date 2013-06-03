@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressdoc.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021200132id_/http%3A//pressdoc.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressdoc.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603155214id_/https%3A//pressdoc.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - PressDoc
 
@@ -22,6 +22,10 @@ Any of the information we collect from you may be used in one of the following w
 (your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested) 
   * To send periodic emails.   
 (the email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.) 
+  * To use Display Advertising.   
+(your information could be used to collect information to use later on for Display Advertising via Google Analytics) 
+  * To use Remarketing.   
+(your information could be used to advertise online with the remarketing features within Google Analytcs, we collect the data to inform, optimise and serve ads based on someone's past visits to your website.) 
 
 
 
@@ -49,7 +53,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 ## Terms of Service
 
-Please also visit our [Terms of Service](https://web.archive.org/terms_of_service) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://pressdoc.com/terms_of_service](https://web.archive.org/terms_of_service).
+Please also visit our [Terms of Service](https://web.archive.org/terms_of_service) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://pressdoc.com/terms_of_service](https://web.archive.org/terms_of_service).
 
 ## Your Consent
 
