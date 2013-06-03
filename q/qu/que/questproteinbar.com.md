@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questproteinbar.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111005158id_/http%3A//www.questproteinbar.com/privacy-policy-and-terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questproteinbar.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603061334id_/http%3A//www.questproteinbar.com/privacy-policy-and-terms-and-conditions) for the most accurate reproduction.*
 
 # Quest Low Carb Gluten Free Protein Bars - Official Site
 
