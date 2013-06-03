@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125034947id_/http%3A//www.ampedasia.com/page/15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603102928id_/http%3A//www.ampedasia.com/page/15) for the most accurate reproduction.*
 
 # 
 
