@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webandcrafts.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226031242id_/http%3A//webandcrafts.com/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webandcrafts.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603090837id_/http%3A//webandcrafts.com/private_policy) for the most accurate reproduction.*
 
 # Web Designing | Web Development | Web Hosting | Domain Registration | Graphic Designing | Internet Marketing
 
