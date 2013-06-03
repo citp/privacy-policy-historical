@@ -1,10 +1,24 @@
-> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115075636id_/http%3A//www.judysbook.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603053610id_/http%3A//www.judysbook.com/terms) for the most accurate reproduction.*
 
 # Terms of Use & Privacy - Judy's Book
 
 **Terms of Use  
 **   
 Welcome to Judy's Book! This agreement describes the legal framework in which you participate on Judy's Book, what your rights and responsibilities are and what you can expect from us, and outlines our privacy policy.   
+**  
+Business Owner paid plans  
+**
+
+  * I understand that I will be charged a **non-refundable** fee and billed on a recurring basis unless I cancel within before the anniversary.
+  * I understand that Judy's Book editors, in their sole and final judgment, shall determine the suitability, placement, title and description of the business listings listed in the Judy's Book directory.
+  * The business I am submitting is operating in the United States of America and a Legal business.
+  * By signing up to this service, you are agreeing that you are the owner of the business you are claiming
+  * I understand that it takes 1-3 business days to process this order and I will receive a confirmation email when it is completed.
+  * Occasionally, we will send you information from carefully selected, third-party product and service providers that may be of interest to you and your business.
+  * I understand that when my business listing is created, periodically thereafter I will be charged the recurring monthly or annual renewal fee. Subscription managed directly by the payment processor.
+
+
+
 **  
 Eligibility  
 **   
