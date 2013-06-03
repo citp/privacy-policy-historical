@@ -1,9 +1,19 @@
-> *The following text is extracted and transformed from the myrume.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104233328id_/http%3A//www.myrume.com/Content.aspx%3FPage%3DPolicy%2Band%2BReturns%26PK%3Dac3c3702-0750-4284-94ac-af2c412c63d8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrume.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603131711id_/http%3A//www.myrume.com/Content.aspx%3FPage%3DPolicy%2Band%2BReturns%26PK%3Dac3c3702-0750-4284-94ac-af2c412c63d8) for the most accurate reproduction.*
 
 # MyRuMe.com - Policy and Returns
 
   
 
+
+### RETURNS/EXCHANGES
+
+**_All personalized product sales are final—we are unable to accept returns on personalized product orders (this includes monogrammed products).  _**All other acceptable returns must be mailed back to our RuMe headquarters within 15 days of receiving the package.  ** ** Returned items must be unused and in perfect condition unless defective. Shipping/handling on returned merchandise is non-refundable. Upon returning an item to our headquarters, please include a note including your order number and indication of whether you would like an exchange or refund for your package. For refunds, please provide us with the appropriate credit card information (including expiration date and CVV), as we do not keep credit card numbers on file.
+
+RuMe Headquarters address:
+
+7022 South Revere Parkway | Suite 240
+
+Centennial, CO 80112
 
 ### SECURE ORDERING
 
