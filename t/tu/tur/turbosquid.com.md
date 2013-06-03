@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turbosquid.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114163205id_/http%3A//support.turbosquid.com/entries/173395-our-privacy-policy%3Flocale%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbosquid.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603082904id_/http%3A//support.turbosquid.com/entries/173395-our-privacy-policy%3Flocale%3D1) for the most accurate reproduction.*
 
 # Our Privacy Policy : TurboSquid Help & Support
 
@@ -116,7 +116,7 @@ Parents should regularly oversee their kid's use of e-mail and other online comm
 
 <http://kids.getnetwise.org/tools/>
 
-If your son or daughter has used your credit card on our Services without your permission, contact [TurboSquid Support](https://web.archive.org/web/20121114163205id_/http%3A//support.turbosquid.com/entries/support.turbosquid.com) immediately.
+If your son or daughter has used your credit card on our Services without your permission, contact [TurboSquid Support](https://web.archive.org/web/20130603082904id_/http%3A//support.turbosquid.com/entries/support.turbosquid.com) immediately.
 
 ### 3\. Our Policies Concerning Users Generally
 
