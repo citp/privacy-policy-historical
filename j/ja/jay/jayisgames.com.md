@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jayisgames.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224001217id_/http%3A//jayisgames.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayisgames.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603064754id_/http%3A//jayisgames.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for CasualGameplay and Jayisgames.com - Walkthrough Guides, Reviews, Discussion, Hints and Tips at Jay is Games
+# Privacy Policy for CasualGameplay and Jayisgames.com - Walkthrough Guides, Reviews, Discussion, Hints and Tips at JayIsGames
 
 CasualGameplay and Jayisgames.com ("CasualGameplay") takes matters concerning your privacy very seriously. Please read the following to learn more about our privacy policy.
 
