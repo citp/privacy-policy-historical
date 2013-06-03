@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rent.com.au privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602220301id_/http%3A//www.rent.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com.au privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603094043id_/http%3A//www.rent.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Rent.com.au
 
@@ -28,6 +28,8 @@ At or before the time the personal information is collected by us we will take r
 
 We may use or disclose personal information held about an individual for the primary purpose for which it is collected (eg. provision of our services, including administration of our services, notification to you about changes to our services, record–keeping following termination of our services to you and technical maintenance). We may also use such information for a purpose related to the primary purpose of collection and where it would reasonably be expected by you that we would use the information in such a way. This information is only disclosed to persons outside our business in the circumstances set out in this policy or as otherwise notified to you at the time of collection of the information.
 
+By submitting your email or contact details as required by use for any part of the service or site, including any on-line application process provided through the site, you provide consent for us to send to you communications that pertain to product or service offerings, newsletters, updates and etc that we deem to be of interest or value to you as a searcher of our site or as a renter, investor, property marketer, property manager or advertiser. You may elect at anytime to remove yourself from our subscribers list for communications at anytime, without reason, penalty, recourse or fee payable. Directions and instructions on how to do so are provide in our communications with you.
+
 **In addition we are permitted to use or disclose personal information held about you:**
 
 – Where you have consented to the use or disclosure;
@@ -55,6 +57,8 @@ No data transmission over the Internet can be guaranteed to be 100 per cent secu
 Personal and financial information is deleted or destroyed securely when no longer required by us.
 
 rent.com.au retains the information you provide to us including your contact and credit card details to enable us to verify transactions and customer details and to retain adequate records for legal and accounting purposes.
+
+Note that documents loaded to the website, and public facing information displayed such of property address and details including contact phone numbers may be indexed and stored on other websites and search engines such as Google. If any information loaded to the site by you site and is requested to be removed, the removal from other websites and search engines may only be updated or removed once the site has been re-cached by the site or search engine. Whilst every endeavour will be taken by rent.com.au to have this information removed, this is not the responsibility of rent.com.au as this is beyond our control.
 
 **Your Password**
 
