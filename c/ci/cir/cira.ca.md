@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the cira.ca privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207000937id_/http%3A//cira.ca/privacy/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cira.ca privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603141700id_/http%3A//cira.ca/privacy/policy.html) for the most accurate reproduction.*
 
 # CIRA - Canadian Internet Registration Authority - Website Terms of Use
 
-## CIRA Privacy Policy - Version 1.9 (May 17, 2011)
+## CIRA Privacy Policy - Version 2.0 (December 11, 2012)
 
 The Canadian Internet Registration Authority (“CIRA”), is committed to protecting the privacy of personal information in the course of its operation and administration of the Canadian country code top-level domain name (the “Registry”). As part of this commitment, we have set out this Privacy Policy to outline the manner in which CIRA collects, uses, discloses and otherwise manages personal information in its custody and control.
 
 ### Definitions
 
-Capitalized terms used in this Policy that are not defined in this Policy have the meanings specified in [By-Law No. 1 of CIRA](https://web.archive.org/assets/Documents/Legal/Other/bylaw1.pdf).
+Capitalized terms used in this Policy that are not defined in this Policy have the meanings specified in [By-Law No. 1 of CIRA](https://web.archive.org/assets/Documents/Legal/Background/bylaw1.pdf).
 
 **.ca** – means the Internet country code top-level domain for Canada.
 
@@ -63,9 +63,9 @@ When you register for a .ca Domain Name, we receive information about you from y
 
 **Information collected from yourRegistrar includes:**
 
-  * Your name and a description of you or your business;
+  * Your name;
   * Your status as a Canadian citizen, permanent resident, legal representative or aboriginal person;
-  * Your Domain Name and the domain number assigned by CIRA;
+  * Your Domain Name;
   * The IP Address of the primary name server and secondary name server and, if applicable, the tertiary, quaternary, quinary, and senary name servers for each Domain Name Registration, as well as the corresponding domain names of those servers; and
 
 
@@ -92,7 +92,7 @@ To become a CIRA member, we collect information about you such as your name and 
 
 
 
-We collect this information to maintain CIRA membership records, to confirm your identity, to conduct the affairs of CIRA that involve members, and as may be required by law. We may also use your membership information to contact you about CIRA member issues. You may opt out of receiving non-mandatory membership emails by contacting CIRA at [unsubscribe@cira.ca](mailto:unsubscribe@cira.ca)Additional information on CIRA membership is available on the CIRA membership homepage.
+We collect this information to maintain CIRA membership records, to confirm your identity, to conduct the affairs of CIRA that involve members, and as may be required by law. We may also use your membership information to contact you about CIRA member issues. You may opt out of receiving non-mandatory membership emails by contacting CIRA at [unsubscribe@cira.ca](mailto:unsubscribe@cira.ca). Additional information on CIRA membership is available on the CIRA membership homepage.
 
 #### Participation in surveys, contests, calls for public comment, events or activities
 
@@ -143,8 +143,6 @@ WHOIS has built-in privacy protection options, which can be used to limit the pe
 **Registrant Information includes:**
 
   * Registrant name;
-  * Registrant number; and
-  * Registrant description.
 
 
 
@@ -152,9 +150,8 @@ WHOIS has built-in privacy protection options, which can be used to limit the pe
 
   * Domain Name;
   * Domain Name status;
-  * Domain Number;
-  * Approval date;
-  * Renewal date;
+  * Creation date;
+  * Expiry date;
   * Updated date;
   * Registrar name; and
   * Registrar number.
@@ -164,7 +161,6 @@ WHOIS has built-in privacy protection options, which can be used to limit the pe
 **Administrative Contact Information and Technical Contact Information includes:**
 
   * Name;
-  * Job title;
   * Postal address;
   * Phone;
   * Fax; and
@@ -182,17 +178,17 @@ CIRA has established policies on the disclosure of registration information for 
 
 _(i) Domain Name Disputes_
 
-CIRA has implemented two policies, entitled [Registration Information Access Rules and Procedures](https://web.archive.org/assets/Documents/Legal/Dispute/RIARP.pdf) and [Request for Disclosure of Registrant Information - Rules and Procedures](https://web.archive.org/assets/Documents/Legal/Dispute/disclosureregistrant.pdf), that address disclosures in the course of Domain Name disputes.
+CIRA has implemented two policies, entitled [Registration Information Access Rules and Procedures](https://web.archive.org/assets/Documents/Legal/Dispute/RIARP.pdf) and [Request for Disclosure of Registrant Information - Rules and Procedures](https://web.archive.org/assets/Documents/Legal/Registrants/disclosureregistrant.pdf), that address disclosures in the course of Domain Name disputes.
 
 Under the [Registration Information Access Rules and Procedures](https://web.archive.org/assets/Documents/Legal/Dispute/RIARP.pdf) policy, CIRA will provide a person, who requests in the applicable form, a list of the .ca Domain Names registered in the name of a Registrant or registered in the name of the same Registrant as a Domain Name identified by the requester, even where the identity of the Registrant is unknown. This is done to facilitate bona fide rights holders to determine infringements of intellectual property rights.
 
-Under the Request for Disclosure of Registrant Information – Rules and Procedures, CIRA may provide a person, who requests in the applicable form, certain Registrant information not publicly available through CIRA’s WHOIS.
+Under the [Request for Disclosure of Registrant Information – Rules and Procedures](https://web.archive.org/assets/Documents/Legal/Registrants/disclosureregistrant.pdf), CIRA may provide a person, who requests in the applicable form, certain Registrant information not publicly available through CIRA’s WHOIS.
 
-If a Domain Name that you have registered is subject to a proceeding under the CIRA [Domain Name Dispute Resolution Policy](https://web.archive.org/assets/Documents/CDRPpolicy.pdf), your personal information may also be disclosed to the relevant Dispute Resolution Service Provider to facilitate the dispute resolution process. 
+If a Domain Name that you have registered is subject to a proceeding under the CIRA [Domain Name Dispute Resolution Policy](https://web.archive.org/assets/Documents/Legal/Dispute/CDRPpolicy.pdf), your personal information may also be disclosed to the relevant Dispute Resolution Service Provider to facilitate the dispute resolution process. 
 
 _(ii) Requests from Law Enforcement_
 
-CIRA has implemented a policy entitled [Request for Disclosure of Registrant Information for Law Enforcement and National Security Agencies - Rules and Procedures](https://web.archive.org/assets/Documents/Legal/Dispute/disclosurelaw.pdf) that addresses disclosures for law enforcement purposes. Under this policy, CIRA may provide a Law Enforcement Requester, who requests in the applicable form, certain Registrant information not publicly available through CIRA’s WHOIS.
+CIRA has implemented a policy entitled [Request for Disclosure of Registrant Information for Law Enforcement and National Security Agencies - Rules and Procedures](https://web.archive.org/assets/Documents/Legal/Registrants/disclosurelaw.pdf) that addresses disclosures for law enforcement purposes. Under this policy, CIRA may provide a Law Enforcement Requester, who requests in the applicable form, certain Registrant information not publicly available through CIRA’s WHOIS.
 
 _(iii) Notification_
 
