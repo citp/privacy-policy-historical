@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yvr.ca privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203111949id_/http%3A//www.yvr.ca/en/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yvr.ca privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603214033id_/http%3A//yvr.ca/en/privacy.aspx) for the most accurate reproduction.*
 
 # YVR > Privacy
 
@@ -24,6 +24,6 @@ The Authority does not represent, warrant or guarantee that personal information
 
 This website contains links to third party sites. The Authority is not responsible for the collection of personal information nor the privacy of such information on third party sites. 
 
-If you have any questions or concerns with respect to this privacy statement, please send an email through [contact us](https://web.archive.org/en/contact.aspx). 
+If you have any questions or concerns with respect to this privacy statement, please send an email through [contact us](https://web.archive.org/en/contact.aspx). Or download our complete privacy policy [here](https://web.archive.org/Libraries/Comms_Documents/Privacy.sflb.ashx).
 
 The Authority reserves the right to change this privacy statement at any time. Such changes will be posted on this page and in compliance with applicable federal privacy laws. 
