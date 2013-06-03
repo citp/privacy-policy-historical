@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the prima-coffee.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120052132id_/http%3A//prima-coffee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prima-coffee.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603185110id_/http%3A//prima-coffee.com/pc/policy/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Customer Security is our Priority | Prima Coffee
-
-##  Prima Coffee: Privacy Policy
+# Prima Coffee Equipment's Privacy Policy | Prima Coffee
 
 Welcome! You are most likely visiting this page for one of two reasons: (1) you want to know what type of information we collect and how it is used, if this is you then congrats you are in the right place, please keep reading, or (2) you are lost, in which case you can click the following link to find [ Quality Coffee and Espresso Equipment](http://prima-coffee.com/).
 
@@ -40,7 +38,7 @@ We are in compliance with the requirements of COPPA (Children's Online Privacy P
 
 ### Terms and Conditions
 
-Please also visit our [ Terms and Conditions](http://prima-coffee.com/terms-use) section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://prima-coffee.com/terms-use>.
+Please also visit our [ Terms and Conditions](http://prima-coffee.com/pc/policy/tos) section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://prima-coffee.com/pc/policy/tos>.
 
 ### Governing Policies
 
