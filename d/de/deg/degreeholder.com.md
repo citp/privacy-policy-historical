@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreeholder.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122220601id_/http%3A//www.degreeholder.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreeholder.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603153849id_/http%3A//degreeholder.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
