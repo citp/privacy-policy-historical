@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the batchgeo.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230170705id_/http%3A//batchgeo.com/features/security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the batchgeo.com privacy policy that was archived on 2013-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603035131id_/http%3A//batchgeo.com/features/security) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Protect your map information | BatchGeo</title>
@@ -7,10 +7,10 @@
 	<meta name="description" content="Our service keeps your map data secure unless you choose to share it publicly.">
 	<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
 	<meta name="viewport" content="width=device-width">
-	<link rel="stylesheet" href="/css/site.css">
+	<link rel="stylesheet" href="http://static.batchgeo.com/css/site.css">
 	<!--[if lt IE 9]>
 	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-	<link rel="stylesheet" href="/css/ie8.css" />
+	<link rel="stylesheet" href="http://static.batchgeo.com/css/ie8.css" />
 	<![endif]-->
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.batchgeo.com/js/site_compiled.js"></script>
 		<meta name="viewport" content="initial-scale=1.0, width=device-width">
@@ -185,7 +185,7 @@
 			  <li><a href="/features/embedded/">Embedding Maps</a></li>
 			  <li><a href="/features/store-locator/">Store Locators</a></li>
 			</ul>
-	  <p class="threecol last">Copyright © 2012, <a href="mailto:admin@batchgeo.com">BatchGeo LLC</a></p>
+	  <p class="threecol last">Copyright © 2013, <a href="mailto:admin@batchgeo.com">BatchGeo LLC</a></p>
 	</div><!--/wrap -->
 </div>
  
@@ -235,7 +235,7 @@
 		}
 	}
 	function sendLogin() {
-		$.getScript('https://batchgeo.com/api/login/?email=' + escape($("#login_email").val()) + '&password=' + escape($("#login_password").val()), function() {} );
+		$.getScript('https://batchgeo.com/api/login/?email=' + encodeURIComponent($("#login_email").val()) + '&password=' + encodeURIComponent($("#login_password").val()), function() {} );
 	}
 
 	var is_ssl = ("https:" == document.location.protocol);
@@ -256,7 +256,7 @@
 		} catch(err) { }
 	});
 </script>
- 
+<script type="text/javascript" src="http://static.batchgeo.com/js/retina.js"></script>
 
  
 </body></html>
