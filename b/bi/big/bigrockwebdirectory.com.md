@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigrockwebdirectory.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203061237id_/http%3A//www.bigrockwebdirectory.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigrockwebdirectory.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604013147id_/http%3A//bigrockwebdirectory.com/Privacy.htm) for the most accurate reproduction.*
 
 # Contact us at BigRockWebDirectory.com
 
@@ -28,4 +28,4 @@ We use third-party advertising companies to serve ads when you visit our website
 
 By using our Web site, you consent to the collection and use of your personal information by  ** _BigRockWebDirectory.com_**  as outlined in this Privacy Policy.  If you sign up for services on  ** _BigRockWebDirectory.com_**  then you must also agree to the specific Terms and Conditions for those services.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20121203061237id_/http%3A//www.bigrockwebdirectory.com/contact-us.htm). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20130604013147id_/http%3A//bigrockwebdirectory.com/contact-us.htm). 
