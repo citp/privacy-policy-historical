@@ -1,626 +1,731 @@
-<!--The following is the downloaded HTML source of the taxaudit.com privacy policy that was archived on 2012-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121113072013id_/http%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the taxaudit.com privacy policy that was archived on 2013-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603064947id_/http%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script src="https://archive.org/includes/analytics.js?v=cf34f82"></script><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="shortcut icon" href="/content/images/favicon.ico" type="image/x-icon"><title>
+<!DOCTYPE html><html><head><meta http-equiv="X-UA-Compatible" content="IE=9"><meta name="viewport" content="width=1100"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="shortcut icon" href="/content/images/favicon.ico" type="image/x-icon"><title>
 	
-	TaxResources, Inc. Online Security and Privacy
-
-</title><link href="/Content/TaxAudit.css" rel="stylesheet" type="text/css">
-	<!--[if IE]><link rel="stylesheet" type="text/css" href="/Content/TaxAudit_IE.css" /><![endif]-->
-	<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/Content/TaxAudit_IE7.css" /><![endif]-->
-	<!--[if IE 8]><link rel="stylesheet" type="text/css" href="/Content/TaxAudit_IE8.css" /><![endif]-->
-	
-    <!--link type="text/css" href="/Content/jquery-ui-1.7.2.custom.css" rel="stylesheet" /-->
-	
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery-1.4.3.min.js"></script>
-	
-	<meta name="description" content="TaxResources, Inc. knows your online security and privacy is extremely important. We've implemented high security and privacy standards."><meta name="keywords" content="TaxResources, tax privacy, online security"><link rel="stylesheet" type="text/css" href="/content/staticcontentstyle.css">
-
-
-	<script type="text/javascript" src="/scripts/jquery.hoverIntent.minified.js"></script>
-	<script type="text/javascript" src="/scripts/ModalWindow.js"></script>
-	<script type="text/javascript" src="/scripts/dimensions.jquery.min.js"></script>
-	<script type="text/javascript" src="/scripts/tooltip.jquery.min.js"></script>
-	<script type="text/javascript" src="/scripts/tri_menu.js"></script>
-	<script type="text/javascript" src="/scripts/site.jquery.js"></script>
     
-    <script type="text/javascript"> $(function() { $('#mainMenu').TRI_Menu(); }); </script>
-	
-	<script type="text/javascript">
-	
-		/** Google analytics**/
-		var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', 'UA-12737432-1']);
-			_gaq.push(['_setDomainName', 'www.taxaudit.com']);
-			_gaq.push(['_trackPageview']);
+	Security and Privacy Guarantee | TaxAudit.com
 
-		(function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-		  
-    </script>
+
+</title><link rel="stylesheet" type="text/css" media="all" href="/Content/Style/main.css">
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" media="all" href="/Content/Style/ie.css" />
+    <![endif]-->
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/scripts/js/jquery-1.8.2.min.js" type="text/javascript"></script>
+    <script src="/scripts/js/jquery.cycle.js" type="text/javascript"></script>
+    <script src="/scripts/js/jquery.cookie.js" type="text/javascript"></script>
+    <script src="/scripts/js/main.js" type="text/javascript"></script>
+    
+    <!--[if lt IE 9]>
+    <script src="/scripts/js/html5shiv.js" type="text/javascript"></script>
+    <![endif]-->
+    
+    
+	<meta name="msvalidate.01" content="F1E3DEFD7E6A46A1A4D1F94BC141B645"><meta name="description" content="Never feel uncomfortable or insecure about the handling of your personal information with TaxAudit.com’s privacy policy."><meta name="keywords" content="privacy, tax audit defense">
+
+
+    <!--ga script-->
+    <script type="text/javascript"> 
+        //dirty fix 
+        var refresh = 1;   
+        function ResizeModal(height) {
+            if ($('.popup-area') != null) {
+                $('.popup-area').css("height", height + 'px');
+                $('.popup-content  iframe')[0].height = height - 30                
+            }
+        }
+
+        function ReturnFromLoginToOriginalIntention() {            
+            CloseModalWindow();
+        }
+
+        function CloseModalWindow(url) {
+            if (arguments.length == 1)
+                location = url;
+            else{
+                try{
+                    $(".popup").remove();
+                }
+                catch(err){}
+                if (refresh == 1)
+                    location.reload();
+            }
+        }
+
+        function ConfirmToQuit() {
+            refresh = 0;
+            var f;
+            for (var i = 0; i < frames.length; i++) {
+                try {
+                    if (frames[i].frameElement.id == "popUpFrame") {
+                        f = frames[i];
+                        break;
+                    }
+                }
+                catch (err)
+                { }
+            }
+            if (f.location.href.toLowerCase().indexOf("/purchase/") > -1 ||
+                (f.location.href.toLowerCase().indexOf("/modallogin/create") > -1 && f.location.href.toLowerCase().indexOf("/modallogin/createloginoptions") == -1)  ||
+                f.location.href.toLowerCase().indexOf("/modallogin/findaccount") > -1 ||
+                f.location.href.toLowerCase().indexOf("/account/edit") > -1 ||
+                f.location.href.toLowerCase().indexOf("/reportaudit/") > -1) {
+                try {
+                    f.document.getElementById('userYesNoMsgPopup').style['display'] = 'block';
+                    f.document.getElementById('userYesNoMsgPopupBkgrnd').style['display'] = 'block';
+                    //f.document.getElementById('prname').innerHTML = parent.document.getElementById("modalTitle").firstChild.nodeValue;
+                    f.document.getElementById('nocancel').focus();
+                    refresh = 1;
+                } catch (e) {                                        
+                    CloseModalWindow();
+                }
+            }
+            else {
+                CloseModalWindow();
+            }
+        }
+
+        /** Google analytics**/
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-12737432-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        
+        $(document).ready(function(){
+            
+        });     
+    </script>    
+            
     <meta property="og:image" content="http://taxaudit.com/content/Images/TRI_HorizLogo_RGB_Web.gif"></head>
 
 <body class="">
-<div id="contentWrapper">
-	
-	<div class="layoutContainer clearfix">
-		<div id="header" class="layoutTop clearfix">
-            <div class="brandLogo" id="top">
-				<a href="/">
-				<img src="/content/Images/TRI_HorizLogo_RGB_Web.gif" alt="TaxResources, Inc.">
-				</a>
+
+    <div id="container">
+        <header id="main-header" class="clear">
+                <div class="wrapper">
+                    <a href="/" id="logo">
+				        <img id="us-logo" src="/content/Images/logo-3.png" alt="TaxResources, Inc.">                          <span data-alternate-tagline="Audits happen. Be prepared." id="logo-tagline">From the Experts at TaxResources, Inc.</span>
+                     </a>
+
+                       
+                    <div id="social-icons">
+                        <ul>
+                            <li><a href="/contact">Contact Us</a></li>                            
+                            <li id="shopping-cart-link">
+                                
+                                    <a href="/shoppingcart/manage">Shopping Cart <span></span></a>
+                                
+                            </li>
+                        </ul>
+                        <div>
+                            <a href="https://plus.google.com/108956360560477918363" target="_blank"><img src="/content/images/google.png" alt="googleplus"></a>                            
+                            <a href="https://www.facebook.com/TaxResources" target="_blank"><img src="/content/images/facebook.png" alt="facebook"></a>
+                            <a href="http://www.twitter.com/taxresources" target="_blank"><img src="/content/images/twitter.png" alt="twitter"></a>
+                            <a href="http://www.youtube.com/user/willitflytri" target="_blank"><img src="/content/images/youtube.png" alt="youtube"></a>
+                            <a href="http://audit-defense-reviews.com/feed/atom" target="_blank"><img src="/content/images/rss.png" alt="rss"></a>
+                        </div>
+                    </div>
+                </div>
+            </header>
+        <nav id="main-nav" class="clear">
+                <div class="wrapper">
+                    <ul id="main-nav-links">
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/audit-defense-services">Audit Defense</a></li>
+                        <li><a href="/tax-audit-representation">Report an Audit</a></li>
+                        <li><a href="/tax-audit-help">Audit Tips</a></li>
+                        <li><a href="/frequently-asked-questions">FAQs</a></li>
+                        <li><a href="/tax-audit-defense-testimonials">Testimonials</a></li>
+                        <li><a href="/company">About Us</a></li>
+                    </ul>
+                    <div id="action-links">
+
+                        <span>MEMBERS:</span>
+
+                        <a href="/certificates/authenticate" id="print-link">Print Certificate</a>
+
+                            <a href="/login/login" id="logout-link1">Secure Login</a>                            
+
+                    </div>
+                </div>
+            </nav>
+        <div id="main-content">
+            <div class="wrapper clear">                
+                    <!-- Inner Page Goes Here -->
+                    <!--Inner Page Content-->
+                    
+                    
+    <script>
+        //this is required for pre IE9 IE browsers to render css to these elements
+        document.createElement("header");
+        document.createElement("section");
+        document.createElement("footer");
+    </script>
+
+    <div id="secondary">
+        
+    <aside id="secondary-action-buttons">
+        <div>
+            <a class="action-button" id="report-audit-button" href="/reportaudit/begin" data-height="450" data-popup="false">Report An Audit</a>
+        </div>
+        <div class="hover-box-trigger">
+            <a class="action-button" href="/audit-defense-services">Get Coverage</a>
+            <div class="hover-box get-coverage-hover-box">
+                <div class="hover-box-container">
+                    <img src="/content/images/link-arrow.png" class="hover-arrow">
+                    <ul class="hover-box-list">
+                        <authority onlyforservcodes="AD1">
+                            <li><a href="/audit-defense-services#standard-membership">AUDIT DEFENSE MEMBERSHIP</a>
+                                <p>
+                                    <span><dotnetobj assembly="TaxAudit.COM" class="TaxAudit.COM.Infrastructure.UI.DynamicPricing" servicecode="AD1" taxreturncode="IO" format="$0.00"></dotnetobj></span> For Single Year Tax Return</p>
+                            </li>
+                        </authority>
+                        <authority onlyforservcodes="ADO">
+                            <li><a href="/audit-defense-services#deluxe-membership">DELUXE MEMBERSHIP</a>
+                                <p>
+                                    <span><dotnetobj assembly="TaxAudit.COM" class="TaxAudit.COM.Infrastructure.UI.DynamicPricing" servicecode="ADO" taxreturncode="IO" format="$0.00"></dotnetobj></span> Annual Membership For All Returns</p>
+                            </li>
+                        </authority>
+                        <authority onlyforservcodes="PMR">
+                            <li><a href="/audit-defense-services#premier-membership">PREMIER MEMBERSHIP</a>
+                                <p>
+                                    <span><dotnetobj assembly="TaxAudit.COM" class="TaxAudit.COM.Infrastructure.UI.DynamicPricing" servicecode="PMR" taxreturncode="IO" format="$0.00"> </dotnetobj></span> Annual Membership For All Returns plus Return Review and Unlimited
+                                    Tax Advice</p>
+                            </li>
+                        </authority>
+                        <li class="last"><a href="/audit-defense-services">Compare Membership Plans</a> </li>
+                    </ul>
+                </div>
             </div>
-            <div class="partnerLogo">
-			
+        </div>
+        <div>
+            <a class="action-button" href="/tax-audit-representation">Get Immediate Help!</a>
+        </div>
+    </aside>
+    <aside id="testimonial-box">
+        <div class="testimonial-box" id="testimonial-box-1">
+            <div class="testimonial-box-content" data-testimonial-box-id="1">
+                <p>
+                    "You have resolved my matter with the IRS.  I feel the small amount of money which I pay each year for your service is one the best investments<br>
+                    I have ever<br>
+                    made."
+                </p>
+                <div class="author">
+                    R.V.
+                    <span>Burbank, CA</span>
+                </div>
             </div>
-			<form name="ml" action="https://taxaudit.com/Login/Login" method="post">
-	<table cellpadding="0" cellspacing="0" border="0" class="userLogin">
-		<tbody><tr>
-			<td>
-				<label for="username">Username</label>
-			</td>
-			<td>
-				<input id="username" name="username" type="text" value="">
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<label for="password">Password</label>
-			</td>
-			<td>
-				<input id="password" name="password" type="password">
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="https://taxaudit.com/Login/../login-help">Login Help</a>
-			</td>
-			<td>
-				<button type="submit" class="trisubmit loginSubmit"></button>
-			</td>
-		</tr>
-	</tbody></table>
-	</form>
-		</div>
-		
-		<div class="layoutMiddle clearfix">
-			<div id="mainMenu" class="TRI_Menu"><ul class="clearfix"><li><a href="/Home/Index" style="width: 78px;"><img src="/content/Images/Menu_Home_off.gif" class="rollover" alt="Home" border="0"></a></li><li><a href="/taxresources-services" style="width: 129px;"><img src="/content/Images/Menu_OurServices_off.gif" class="rollover" alt="services" border="0"></a><ul><li><a href="/audit-defense-services">Audit Defense Services</a></li><li><a href="/tax-help-and-advice-services">Tax Help and Advice Services</a></li><li><a href="/federal-tax-review">Federal Tax Return Review</a></li><li><a href="/services-for-tax-professionals">Services for Tax Professionals</a></li><li><a href="/tax-audit-benefits-for-employers">Are You an Employer?</a></li><li><a href="/tax-audit-association-benefits">Are You a Group or Association Administrator?</a></li></ul></li><li><a href="/tax-audit-help" style="width: 144px;"><img src="/content/Images/Menu_TxAuditHelp_off.gif" class="rollover" alt="Tax Audit Help" border="0"></a><ul><li><a href="/facing-tax-audit">Facing a Tax Audit</a></li><li><a href="/what-to-do-in-a-tax-audit">What to do first in a Tax Audit</a></li><li><a href="/what-is-a-tax-audit">What is a Tax Audit?</a></li><li><a href="/sample-tax-audit-notices">Sample Tax Audit Notices</a></li><li><a href="/common-reasons-for-tax-audits">Common Reasons for Tax Audits</a></li><li><a href="/representation-in-tax-audit">Why You Should NOT Represent Yourself in a Tax Audit</a></li></ul></li><li><a href="/taxresources-news" style="width: 110px;"><img src="/content/Images/Menu_TaxAlerts_off.gif" class="rollover" alt="Tax News" border="0"></a><ul><li><a href="/taxAlerts/Alert">TaxAlerts</a></li><li><a href="/taxtrends/list">TaxTrends</a></li></ul></li><li><a href="/taxresources-frequently-asked-questions" style="width: 73px;"><img src="/content/Images/Menu_FAQs_off.gif" alt="FAQ" class="rollover" border="0"></a></li><li><a href="/tax-audit-defense-testimonials" style="width: 130px;"><img src="/content/Images/Menu_Testimonials_off.gif" class="rollover" alt="Testimonials" border="0"></a></li><li><a href="/about-taxresources" style="width: 112px;"><img src="/content/Images/Menu_AboutUs_off.gif" class="rollover" alt="About Tax Resources" border="0"></a><ul><li><a href="/tax-resources-company">Company Information</a></li><li><a href="/taxresources-executives">Executive Team</a></li><li><a href="/contact-taxresources">Contact Us</a></li><li><a href="/pressroom">Press Room</a></li></ul></li><li><a href="/ShoppingCart/manage" style="width: 182px;"><img src="/content/Images/Menu_ShoppingCart_off.gif" class="rollover" alt="Shopping Cart" border="0"></a></li></ul></div>
-		</div>
-		
-		<div class="layoutBody clearfix">         
-			<div id="leftContent" class="layoutLeft">
-                <!-- User Messages on the top.-->
-	            
-	
+            <div class="testimonial-box-content" data-testimonial-box-id="2">
+                <p>
+                    "Words cannot express the gratitude we feel for all of your hard work in representing us with our federal tax<br>
+                    audit. You were<br>
+                    simply outstanding<br>
+                    and a pleasure to<br>
+                    work with."
+                </p>
+                <div class="author">
+                    B.T.
+                    <span>Tallahassee, FL</span>
+                </div>
+            </div>
+            <div class="testimonial-box-content" data-testimonial-box-id="3">
+                <p>
+                    "There is no way I will ever file another return and not include audit defense protection. This incident alone saved me $17,000.00. I<br>
+                    appreciate the<br>
+                    efforts you and<br>
+                    your company put<br>
+                    into protecting the<br>
+                    customer."
+                </p>
+                <div class="author">
+                    B.H.
+                    <span>Montgomery, TX</span>
+                </div>
+            </div>
+            <div class="testimonial-box-content" data-testimonial-box-id="4">
+                <p>
+                    "I never really thought I would have to use this service. It was a considerable relief to know that I had support right there when I needed it. Thank<br>
+                    you a million<br>times."
+                </p>
+                <div class="author">
+                    W.P.
+                    <span>Adairsville, GA</span>
+                </div>
+            </div>
+            <a id="testimonial-box-link" href="/tax-audit-defense-testimonials">More</a>
+        </div>
+        <a class="action-button" href="/Testimonials/Submit" data-height="700" data-popup="true" id="submit-testimonial-link">Submit Testimonial</a>
+    </aside>
+    <aside id="trademark-slogan">
+        <h1>
+            TaxAudit.com<br>
+            Audits Happen. Be Prepared.™
+        </h1>
+    </aside>
+
+    </div>
+
+    <div id="primary">
+	    
+        
 <!--content starts here -->
-<div class="maincontent" id="div.maincontent">
-	<h1>Security and Privacy</h1>
-    <p><em>At TaxResources, Inc. we understand you may have concerns about the privacy of your personal information and online security. We have implemented strict policies to protect our customers and employees.</em> </p>
-   <h3>Online Security</h3>
-   <table cellspacing="16px" border="0">
-		<tbody><tr>
-			<td><a href="http://www.clevelsecurity.com/certified/tri/tri/html" title="C Level Security" target="_blank"><img src="../../../content/Images/C-Level.jpg" alt="C-Level Security logo" style="border-style:none"></a></td>
-			<td><a href="http://www.digicert.com" title="DigiCert Security" target="_blank"><img src="../../../content/Images/DigiCert.png" alt="DigiCert logo" style="border-style:none"></a></td>
-	   </tr>
-   </tbody></table>
-	<p>TaxResources has met the high security standards required for C–Level Security Certification and uses a Digi Certificate to securely encrypt your information. We have proactively implemented security steps to protect your data during entry, transmission, and storage.</p>
-	<h3>TaxResources, Inc. and Canada TaxResources, Inc. Privacy<br>Protection Policy</h3>
+<!--<div class="maincontent" id="div.maincontent">-->
+    <div id="privacy-page">
+        <div id="membership-content" class="membership-content-box">
+	        <header>
+                Security and Privacy
+            </header>
+            <section>
+                <div class="static-page">
+                    <p><em>Utilizing our online services when seeking tax audit defense, help or representation is easy and discreet. At TaxResources, Inc., dba TaxAudit.com, we understand you may have concerns about the privacy of your personal information and online security. We take these concerns seriously, and have implemented strict policies to protect our customers and employees.</em></p>
+                    <section>
+                       <h3>Online Security</h3>
+                       <table cellspacing="16px" border="0">
+		                    <tbody><tr>
+			                    <td><a href="http://www.clevelsecurity.com/certified/tri/tri/html" title="C Level Security" target="_blank"><img src="../../../content/Images/C-Level.jpg" alt="C-Level Security logo" style="border-style:none"></a></td>
+			                    <td><a href="http://www.digicert.com" title="DigiCert Security" target="_blank"><img src="../../../content/Images/DigiCert.png" alt="DigiCert logo" style="border-style:none"></a></td>
+	                       </tr>
+                       </tbody></table>
+	                    <p>TaxResources, Inc. has met the high security standards required for C–Level Security Certification and uses a Digi Certificate to securely encrypt your information. We have proactively implemented security steps to protect your data during entry, transmission, and storage.</p>
+                    </section>
+                    <section>
+	                    <h3>TaxResources, Inc. and Canada TaxResources, Inc. Privacy<br>Protection Policy</h3>
     
-    <div id="db6e0564-5908-489d-b4c8-a58e27701dfd"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/TaxResources,-Inc/asc?rid=db6e0564-5908-489d-b4c8-a58e27701dfd"></script><a href="//privacy.truste.com/privacy-seal/TaxResources,-Inc/validation?rid=f051f82d-e489-48cf-85b9-48921042c34a" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/TaxResources,-Inc/seal?rid=f051f82d-e489-48cf-85b9-48921042c34a" alt="TRUSTe online privacy certification"></a></div>
-	<p>
-		We understand the importance of protecting the personal information of our customers and our employees. To earn and maintain your trust we have designed our policy to meet or exceed the requirements of the Personal Information Protection and Electronic Documents Act (PIPEDA) and the ten principles set forth in the Canadian National Standard for the Protection of Personal Information, legislation enacted by the United States government, the Circular 230 regulations issued by the United States Treasury Department, and substantially similar state and provincial legislation (collectively, privacy legislation). In addition, we are constantly looking for new and better ways to secure your personal information and to ensure that it is used in a responsible and respectful manner.</p> 
-    <p>
-    TaxResources, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html " title="Truste.com" target="_blank">TRUSTe’s program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software.   TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:<br>
- 		</p><blockquote>
-        TaxResources, Inc.<br>
-        Information Security Officer<br>
-        7803 Madison Avenue, Suite A–100<br>
-        Citrus Heights, CA 95610 USA
-        Telephone: (866) 640–9695 or (916) 904–8176<br>
-        Fax: (866) 650–9695 or (916) 904–8478<br>
-        Email: <a href="mailto:privacy@taxaudit.com">privacy@taxaudit.com</a><br>
+                        <div id="db6e0564-5908-489d-b4c8-a58e27701dfd"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/TaxResources,-Inc/asc?rid=db6e0564-5908-489d-b4c8-a58e27701dfd"></script><a href="//privacy.truste.com/privacy-seal/TaxResources,-Inc/validation?rid=f051f82d-e489-48cf-85b9-48921042c34a" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/TaxResources,-Inc/seal?rid=f051f82d-e489-48cf-85b9-48921042c34a" alt="TRUSTe online privacy certification"></a></div>
+	                    <p>
+		                    We understand the importance of protecting the personal information of our customers and our employees. To earn and maintain your trust we have designed our policy to meet or exceed the requirements of the Personal Information Protection and Electronic Documents Act (PIPEDA) and the ten principles set forth in the Canadian National Standard for the Protection of Personal Information, legislation enacted by the United States government, the Circular 230 regulations issued by the United States Treasury Department, and substantially similar state and provincial legislation (collectively, privacy legislation). In addition, we are constantly looking for new and better ways to secure your personal information and to ensure that it is used in a responsible and respectful manner.</p> 
+                        <p>
+                        TaxResources, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html " title="Truste.com" target="_blank">TRUSTe’s program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software.   TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:<br>
+ 		                    </p><blockquote>
+                            TaxResources, Inc.<br>
+                            Information Security Officer<br>
+                            7803 Madison Avenue, Suite A–100<br>
+                            Citrus Heights, CA 95610 USA
+                            Telephone: (866) 640–9695 or (916) 904–8176<br>
+                            Fax: (866) 650–9695 or (916) 904–8478<br>
+                            Email: <a href="mailto:privacy@taxaudit.com">privacy@taxaudit.com</a><br>
         
-        &nbsp;<br> 
+                            &nbsp;<br> 
         
-        Canada TaxResources, Inc.<br>
-        Information Security Officer Suite 708<br>
-        1155 West Pender<br>
-        Vancouver, BC V6E 2P4<br>
-        Canada Telephone: (866) 640–9695<br>
-        Facsimile: (866) 650–9695<br>
-        Email: <a href="mailto:privacy@taxaudit.com">privacy@taxaudit.com</a><br> 
-   		</blockquote>
-    <p></p>
-    <p>
-   If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" title="watchdog.truste.com" target="_blank">TRUSTe here</a>. </p> 
+                            Canada TaxResources, Inc.<br>
+                            Information Security Officer Suite 708<br>
+                            1155 West Pender<br>
+                            Vancouver, BC V6E 2P4<br>
+                            Canada Telephone: (866) 640–9695<br>
+                            Facsimile: (866) 650–9695<br>
+                            Email: <a href="mailto:privacy@taxaudit.com">privacy@taxaudit.com</a><br> 
+   		                    </blockquote>
+                        <p></p>
+                        <p>
+                       If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" title="watchdog.truste.com" target="_blank">TRUSTe here</a>. </p> 
+                    </section>
 
-	<h2>
-		OVERVIEW AND APPLICABILITY
-	</h2> 
-	<p>
-		TaxResources, Inc. and its subsidiaries (hereafter, collectively referred to as TaxResources, Inc.) support the right to privacy, including the rights of individuals to control the dissemination and use of personal data that describes them, their personal choices, or life experiences. TaxResources, Inc. supports domestic and international laws and regulations that seek to protect the privacy rights of such individuals, including The Protection of Personal Information and Electronic Documents Act (PIPEDA) enacted by the Canadian Standards Association, legislation enacted by the United States government, the Circular 230 regulations issued by the United States Treasury Department, and substantially similar state and provincial legislation (collectively, privacy legislation) or the order of any court or other lawful authority.
-	</p>
-	<p>It does not, however, apply to the collection, use or disclosure of the following information by TaxResources, Inc.:</p>
-	  <ul>
-			<li>information that is publicly available, such as a customer’s name, address, telephone number and electronic address, when listed in a directory or made available through directory assistance;</li>
-			<li>the name, title, business address or telephone number of an employee of an organization; or</li>
-			<li> personal information that TaxResources, Inc. collects, uses or discloses for journalistic, artistic or literary purposes and does not collect, use or disclose for any other purpose.</li> 
-	  </ul>
-	<p>
-		This policy applies to all TaxResources, Inc. employees, contractors, temporaries, consultants and other workers. All of these people are expected to be familiar with and fully in compliance with these policies. Workers who are not in compliance are subject to disciplinary action up to and including termination.
-	</p>  
+                    <section>
+	                    <h2>
+		                    OVERVIEW AND APPLICABILITY
+	                    </h2> 
+	                    <p>
+		                    TaxResources, Inc. and its subsidiaries (hereafter, collectively referred to as TaxResources, Inc.) support the right to privacy, including the rights of individuals to control the dissemination and use of personal data that describes them, their personal choices, or life experiences. TaxResources, Inc. supports domestic and international laws and regulations that seek to protect the privacy rights of such individuals, including The Protection of Personal Information and Electronic Documents Act (PIPEDA) enacted by the Canadian Standards Association, legislation enacted by the United States government, the Circular 230 regulations issued by the United States Treasury Department, and substantially similar state and provincial legislation (collectively, privacy legislation) or the order of any court or other lawful authority.
+	                    </p>
+	                    <p>It does not, however, apply to the collection, use or disclosure of the following information by TaxResources, Inc.:</p>
+	                      <ul>
+			                    <li>information that is publicly available, such as a customer’s name, address, telephone number and electronic address, when listed in a directory or made available through directory assistance;</li>
+			                    <li>the name, title, business address or telephone number of an employee of an organization; or</li>
+			                    <li> personal information that TaxResources, Inc. collects, uses or discloses for journalistic, artistic or literary purposes and does not collect, use or disclose for any other purpose.</li> 
+	                      </ul>
+	                    <p>
+		                    This policy applies to all TaxResources, Inc. employees, contractors, temporaries, consultants and other workers. All of these people are expected to be familiar with and fully in compliance with these policies. Workers who are not in compliance are subject to disciplinary action up to and including termination.
+	                    </p>  
 
-	<p>
-		This policy also applies to outsourcing organizations that perform information processing services on behalf of TaxResources, Inc. Use of outsourcing organizations to process personal data must always include a contractual commitment to consistently observe these policies and related TaxResources, Inc. procedures and standards as specified by the Information Security Department. All outsourcing organizations handling personal data provided by TaxResources, Inc. must periodically issue certificates of compliance with this policy, and permit TaxResources, Inc. to initiate independent audits to determine compliance with this policy.
-	</p>  
+	                    <p>
+		                    This policy also applies to outsourcing organizations that perform information processing services on behalf of TaxResources, Inc. Use of outsourcing organizations to process personal data must always include a contractual commitment to consistently observe these policies and related TaxResources, Inc. procedures and standards as specified by the Information Security Department. All outsourcing organizations handling personal data provided by TaxResources, Inc. must periodically issue certificates of compliance with this policy, and permit TaxResources, Inc. to initiate independent audits to determine compliance with this policy.
+	                    </p>  
 
-	<p>
-		Briefly stated, privacy legislation requires that the consent of an individual be obtained for the collection and use of his or her personal information, that steps are taken to protect personal information and that at least one individual is appointed to monitor compliance with the provisions of applicable privacy legislation.
-	</p>  
+	                    <p>
+		                    Briefly stated, privacy legislation requires that the consent of an individual be obtained for the collection and use of his or her personal information, that steps are taken to protect personal information and that at least one individual is appointed to monitor compliance with the provisions of applicable privacy legislation.
+	                    </p>  
 
-	<p>
-		TaxResources, Inc. is committed to controlling the collection, use and disclosure of personal information provided by the customers of TaxResources, Inc. and has adopted this Privacy Policy to ensure the accuracy, confidentiality and integrity of such personal information.
-	</p>
+	                    <p>
+		                    TaxResources, Inc. is committed to controlling the collection, use and disclosure of personal information provided by the customers of TaxResources, Inc. and has adopted this Privacy Policy to ensure the accuracy, confidentiality and integrity of such personal information.
+	                    </p>
+                    </section>
 
-	<h2>DEFINITIONS</h2>
-	<p>
-		The following defined terms are used throughout this Privacy Policy:<br>&nbsp;<br>
-		<strong>TaxResources, Inc.</strong> – means TaxResources, Inc. and its subsidiaries including Canada TaxResources, Inc.<br> &nbsp; <br>
-		<strong>Collection</strong> – means the act of gathering, acquiring, recording or obtaining personal information from any source, including third parties, by any means.<br> &nbsp; <br>
-		<strong>Consent</strong> – means voluntary agreement with the collection, use and disclosure of personal information for defined purposes. Consent can be either express or implied and can be provided directly by the individual or by an authorized representative. Express consent can be given orally, electronically or in writing but is always unequivocal and does not require an inference on the part of TaxResources, Inc. Implied consent is consent that can reasonably be inferred from an individual’s action or inaction.<br> &nbsp; <br>
+                    <section>
+	                    <h2>DEFINITIONS</h2>
+	                    <p>
+		                    The following defined terms are used throughout this Privacy Policy:<br>&nbsp;<br>
+		                    <strong>TaxResources, Inc.</strong> – means TaxResources, Inc. and its subsidiaries including Canada TaxResources, Inc.<br> &nbsp; <br>
+		                    <strong>Collection</strong> – means the act of gathering, acquiring, recording or obtaining personal information from any source, including third parties, by any means.<br> &nbsp; <br>
+		                    <strong>Consent</strong> – means voluntary agreement with the collection, use and disclosure of personal information for defined purposes. Consent can be either express or implied and can be provided directly by the individual or by an authorized representative. Express consent can be given orally, electronically or in writing but is always unequivocal and does not require an inference on the part of TaxResources, Inc. Implied consent is consent that can reasonably be inferred from an individual’s action or inaction.<br> &nbsp; <br>
 
-		<strong>Customer</strong> – means an individual who:
-		</p><ol>
-			<li>subscribes for, uses, or applies to use, the products or services of TaxResources, Inc.;</li>
-			<li>corresponds with TaxResources, Inc.; or</li>
-			<li>browses tax content or marketing material provided by TaxResources, Inc.</li>
-		</ol>
+		                    <strong>Customer</strong> – means an individual who:
+		                    </p><ol>
+			                    <li>subscribes for, uses, or applies to use, the products or services of TaxResources, Inc.;</li>
+			                    <li>corresponds with TaxResources, Inc.; or</li>
+			                    <li>browses tax content or marketing material provided by TaxResources, Inc.</li>
+		                    </ol>
 		   
-		<strong>Disclosure</strong> – means making personal information available to third parties outside TaxResources, Inc.<br> &nbsp; <br>
+		                    <strong>Disclosure</strong> – means making personal information available to third parties outside TaxResources, Inc.<br> &nbsp; <br>
 
-		<strong>Employee</strong> – means an employee, former employee or pensioner of TaxResources, Inc., and for the purposes of this Privacy Policy, includes the directors, shareholders and security holders of TaxResources, Inc.<br> &nbsp; <br>
+		                    <strong>Employee</strong> – means an employee, former employee or pensioner of TaxResources, Inc., and for the purposes of this Privacy Policy, includes the directors, shareholders and security holders of TaxResources, Inc.<br> &nbsp; <br>
 
-		<strong>Personal information or data</strong> – means information about an identifiable individual recorded in any form and includes, but is not limited to, such things as race, ethnic origin, nationality, age, gender, marital status, religion, education, medical information, criminal information, performance reviews, trade union membership, employment and financial history, income, address and telephone number, e–mail address, numerical identifiers such as Social Insurance or Social Security Number, and views and personal opinions. Personal information also includes information about a customer’s product and service subscriptions and usage, credit information, billing records, service and any recorded complaints. Publicly available information, such as a public directory listing of names, addresses, telephone numbers and electronic addresses, however, is not considered personal information.<br> &nbsp; <br>
-		<strong>Privacy legislation</strong> – means domestic and international laws and regulations that seek to protect the privacy rights of individuals, including The Protection of Personal Information and Electronic Documents Act (PIPEDA) enacted by the Canadian Standards Association, legislation enacted by the United States government, the Circular 230 regulations issued by the United States Treasury Department, and substantially similar state and provincial legislation. Third party – means an individual, partnership, corporation, public authority, government agency, or any other entity other than the customer or his or her agent or TaxResources, Inc.<br> &nbsp; <br>
+		                    <strong>Personal information or data</strong> – means information about an identifiable individual recorded in any form and includes, but is not limited to, such things as race, ethnic origin, nationality, age, gender, marital status, religion, education, medical information, criminal information, performance reviews, trade union membership, employment and financial history, income, address and telephone number, e–mail address, numerical identifiers such as Social Insurance or Social Security Number, and views and personal opinions. Personal information also includes information about a customer’s product and service subscriptions and usage, credit information, billing records, service and any recorded complaints. Publicly available information, such as a public directory listing of names, addresses, telephone numbers and electronic addresses, however, is not considered personal information.<br> &nbsp; <br>
+		                    <strong>Privacy legislation</strong> – means domestic and international laws and regulations that seek to protect the privacy rights of individuals, including The Protection of Personal Information and Electronic Documents Act (PIPEDA) enacted by the Canadian Standards Association, legislation enacted by the United States government, the Circular 230 regulations issued by the United States Treasury Department, and substantially similar state and provincial legislation. Third party – means an individual, partnership, corporation, public authority, government agency, or any other entity other than the customer or his or her agent or TaxResources, Inc.<br> &nbsp; <br>
 
-		<strong>Use or Processing</strong> – means the treatment, handling and management of personal information by TaxResources, Inc. Any operation or set of operations performed on personal data, whether by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, combination, blocking, erasure or destruction. No distinction between data, information, knowledge, or wisdom is made in this policy.<br> &nbsp; <br>
-	<p></p>
+		                    <strong>Use or Processing</strong> – means the treatment, handling and management of personal information by TaxResources, Inc. Any operation or set of operations performed on personal data, whether by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, combination, blocking, erasure or destruction. No distinction between data, information, knowledge, or wisdom is made in this policy.<br> &nbsp; <br>
+	                    <p></p>
+                    </section>
+
+                    <section>	
+	                    <h2>SPECIFIC REQUIREMENTS</h2>
+	                    <p>
+		                    This Privacy Policy has been developed in accordance with the standards, laws and regulations of all jurisdictions where TaxResources, Inc. does business. This policy identifies ten principles of fair information practices and represents a formal statement of the minimum requirements to be adhered to by TaxResources, Inc. for the protection of personal information collected from the customers of TaxResources, Inc. 
+	                    </p>
+	                    <h2>PRINCIPLE 1 — ACCOUNTABILITY</h2>
+	                    <p>
+		                    <em>TaxResources, Inc. is responsible for the personal information under its control and shall designate one or more individuals who shall be accountable for the company’s compliance with the procedures and principles set out in this Privacy Policy.</em>
+	                    </p>
+	                    <p>
+		                    <strong>1.1</strong> &nbsp;Accountability for compliance by TaxResources, Inc. with the policies and procedures set out in this Privacy Policy rests with TaxResources’ Chief Information Security Officer, even though other individuals within the company may be responsible for the day–to–day collection and processing of personal information. The Chief Information Security Officer may, from time to time, designate one or more individuals within the company to act on his or her behalf.
+	                    </p>
+	                    <p>
+		                    <strong>1.2</strong> &nbsp;The name and contact information of the Chief Information Security Officer for TaxResources, Inc. shall be made available on the TaxResources websites and shall be made available upon request. The name and contact information for TaxResources, Inc.’s Chief Information Security Officer is listed in Schedule A of this policy.
+	                    </p>
+	                    <p>
+		                    <strong>1.3</strong> &nbsp;TaxResources, Inc. shall be responsible for the personal information in its possession or custody, including information that has been transferred to a third party for processing. TaxResources, Inc. shall use contractual or other appropriate means to ensure a comparable level of protection while the information is being processed by a third party.
+	                    </p>
 	
-	<h2>SPECIFIC REQUIREMENTS</h2>
-	<p>
-		This Privacy Policy has been developed in accordance with the standards, laws and regulations of all jurisdictions where TaxResources, Inc. does business. This policy identifies ten principles of fair information practices and represents a formal statement of the minimum requirements to be adhered to by TaxResources, Inc. for the protection of personal information collected from the customers of TaxResources, Inc. 
-	</p>
-	<h2>PRINCIPLE 1 — ACCOUNTABILITY</h2>
-	<p>
-		<em>TaxResources, Inc. is responsible for the personal information under its control and shall designate one or more individuals who shall be accountable for the company’s compliance with the procedures and principles set out in this Privacy Policy.</em>
-	</p>
-	<p>
-		<strong>1.1</strong> &nbsp;Accountability for compliance by TaxResources, Inc. with the policies and procedures set out in this Privacy Policy rests with TaxResources’ Chief Information Security Officer, even though other individuals within the company may be responsible for the day–to–day collection and processing of personal information. The Chief Information Security Officer may, from time to time, designate one or more individuals within the company to act on his or her behalf.
-	</p>
-	<p>
-		<strong>1.2</strong> &nbsp;The name and contact information of the Chief Information Security Officer for TaxResources, Inc. shall be made available on the TaxResources websites and shall be made available upon request. The name and contact information for TaxResources, Inc.’s Chief Information Security Officer is listed in Schedule A of this policy.
-	</p>
-	<p>
-		<strong>1.3</strong> &nbsp;TaxResources, Inc. shall be responsible for the personal information in its possession or custody, including information that has been transferred to a third party for processing. TaxResources, Inc. shall use contractual or other appropriate means to ensure a comparable level of protection while the information is being processed by a third party.
-	</p>
+	                    <p>
+		                    <strong>1.4</strong> &nbsp;TaxResources, Inc. has implemented policies and practices to give effect to the principles and procedures set out in this Privacy Policy, including:<br>
+		                    </p><ol>
+			                    <li>implementing procedures to protect personal information such as the adoption of physical, organization and technological security measures;</li>
+			                    <li>establishing procedures to receive and respond to complaints and inquiries through the establishment of a confidential e–mail address and dedicated phone line;</li>
+			                    <li>training and communicating to staff information about the TaxResources, Inc. policies and practices; and</li>
+			                    <li>developing public information to explain the TaxResources, Inc. policies and procedures.</li>
+		                    </ol>
+	                    <p></p>
+                    </section>
+
+                    <section>	
+	                    <h2>PRINCIPLE 2 — IDENTIFYING PURPOSE</h2> 
+	                    <p>
+		                    <em>TaxResources, Inc. will identify the purpose for which personal information is collected at or before the time the information is collected. The purposes for which information is collected, used or disclosed by TaxResources, Inc. must be those that a reasonable person would consider appropriate in the circumstances.</em>
+	                    </p>
+
+	                    <p>
+		                    <strong>2.1</strong> &nbsp;TaxResources, Inc. will document the purposes for which personal information is collected in order to comply with the Openness requirement (See Principle 8) and the Individual Access requirement (See Principle 9).
+	                    </p>  
+
+	                    <p>
+		                    <strong>2.2</strong> &nbsp;Identifying the purposes for which personal information is collected at or before the time of collection allows TaxResources, Inc. to determine the information it needs to collect to fulfill these purposes. The Limiting Collection requirement (See Principle 4) requires TaxResources, Inc. to collect only that information necessary for the purposes that have been identified.
+	                    </p> 
+
+	                    <p>
+		                    <strong>2.3</strong> &nbsp;The identified purposes for which personal information is collected shall be specified at or before the time of collection to the customer from whom the personal information is collected. Depending upon the way in which the information is collected, this shall be done orally or in writing.
+	                    </p> 
+
+	                    <p>
+		                    <strong>2.4</strong> &nbsp;When TaxResources, Inc. proposes to use personal information that has been collected for a purpose not previously identified, it will identify the new purpose before using such personal information. Unless the new purpose is required by law, or consent is otherwise not required pursuant to privacy legislation, the consent of the individual shall be obtained before the personal information is used for the new purpose.
+	                    </p>  
+
+	                    <p>
+		                    <strong>2.5</strong> &nbsp;Individuals responsible for collecting personal information on behalf of TaxResources, Inc. will explain to customers the purposes for which the information is being collected, including any purposes that may not be immediately obvious to the individual.
+	                    </p>  
+
+	                    <p>
+		                    <strong>2.6</strong> &nbsp;The purposes for which the personal information of customers is collected may include, but is not limited to:<br>
+		                    </p><ul>
+			                    <li>processing commercial transactions;</li>
+			                    <li>communicating with customers;</li>
+			                    <li>establishing and maintaining commercial relations;</li>
+			                    <li>developing, marketing or providing products and services;</li>
+			                    <li>recommending particular products and services;</li>
+			                    <li>conducting market research and surveys;</li>
+			                    <li>managing and developing business opportunities;</li>
+			                    <li>conducting investigations and complaint resolution processes;</li>
+			                    <li>facilitating transactional due diligence reviews;</li>
+			                    <li>complying with legal and regulatory obligations.</li>
+		                    </ul>
+		                    <strong>2.7</strong> &nbsp;Anonymous or “non–personal” information gathered by TaxResources, Inc. through its website may be used for technical, research and analytical purposes. Information collected through surveys, existing files and public archives may be used by TaxResources, Inc. to analyze its markets and to develop or enhance service offerings.
+	                    <p></p>
+                    </section>
+
+                    <section>
+	                    <h2>PRINCIPLE 3 — CONSENT</h2> 
+	                    <p>
+		                    <em>The knowledge and consent of the individual are required for the collection, use or disclosure of personal information, except where consent is not required by privacy legislation as, for example, where the collection, use or disclosure of personal information is solely for journalistic, artistic or literary purposes.</em>
+	                    </p>
+
+	                    <p>
+		                    <strong>3.1</strong> &nbsp;Consent is required for the collection of personal information and the subsequent use or disclosure of this information. Generally, TaxResources, Inc. will seek consent for the use or disclosure of the information at the time of collection. In certain circumstances, consent with respect to the use or disclosure of personal information may be sought after the information has been collected but before the personal information is used (for example, when TaxResources, Inc. wants to use information for a purpose not previously identified). In obtaining consent, TaxResources, Inc. shall use reasonable efforts to ensure that a customer is advised of the identified purposes for which personal information will be used or disclosed. Purposes shall be stated in a manner that can be reasonably understood by the customer.
+	                    </p>
 	
-	<p>
-		<strong>1.4</strong> &nbsp;TaxResources, Inc. has implemented policies and practices to give effect to the principles and procedures set out in this Privacy Policy, including:<br>
-		</p><ol>
-			<li>implementing procedures to protect personal information such as the adoption of physical, organization and technological security measures;</li>
-			<li>establishing procedures to receive and respond to complaints and inquiries through the establishment of a confidential e–mail address and dedicated phone line;</li>
-			<li>training and communicating to staff information about the TaxResources, Inc. policies and practices; and</li>
-			<li>developing public information to explain the TaxResources, Inc. policies and procedures.</li>
-		</ol>
-	<p></p>
+	                    <p>
+		                    <strong>3.2</strong> &nbsp;In certain circumstances personal information may be collected, used or disclosed without the knowledge and consent of the individual. For example, TaxResources, Inc. may collect or use personal information without the knowledge or consent of its customers if the collection or use of personal information is clearly in the interests of the individual and consent cannot be obtained in a timely way, such as when the individual is a minor, seriously ill or mentally incapacitated or if seeking the consent of the individual might defeat the purpose of collecting the information such as in the investigation of a breach of an agreement or a contravention of a federal, state or provincial law. Personal information may also be used or disclosed without the knowledge or consent of the individual in the case of an emergency where the life, health or security of an individual is threatened. TaxResources, Inc. may disclose personal information without knowledge or consent to a lawyer representing the company, to collect a debt, to comply with a subpoena, warrant or other court order, or as may be otherwise required by law.
+	                    </p>
 	
-	<h2>PRINCIPLE 2 — IDENTIFYING PURPOSE</h2> 
-	<p>
-		<em>TaxResources, Inc. will identify the purpose for which personal information is collected at or before the time the information is collected. The purposes for which information is collected, used or disclosed by TaxResources, Inc. must be those that a reasonable person would consider appropriate in the circumstances.</em>
-	</p>
+	                    <p>
+		                    <strong>3.3</strong> &nbsp;TaxResources, Inc. will not, as a condition of the supply of a product or service, require an individual to consent to the collection, use, or disclosure of information beyond that required to fulfill the explicitly specified and legitimate purposes.
+	                    </p>  
 
-	<p>
-		<strong>2.1</strong> &nbsp;TaxResources, Inc. will document the purposes for which personal information is collected in order to comply with the Openness requirement (See Principle 8) and the Individual Access requirement (See Principle 9).
-	</p>  
+	                    <p>
+		                    <strong>3.4</strong> &nbsp;In obtaining consent, TaxResources, Inc. will take into account the sensitivity of the personal information and the reasonable expectations of its customers. Consent will not be obtained through deception.
+	                    </p> 
 
-	<p>
-		<strong>2.2</strong> &nbsp;Identifying the purposes for which personal information is collected at or before the time of collection allows TaxResources, Inc. to determine the information it needs to collect to fulfill these purposes. The Limiting Collection requirement (See Principle 4) requires TaxResources, Inc. to collect only that information necessary for the purposes that have been identified.
-	</p> 
-
-	<p>
-		<strong>2.3</strong> &nbsp;The identified purposes for which personal information is collected shall be specified at or before the time of collection to the customer from whom the personal information is collected. Depending upon the way in which the information is collected, this shall be done orally or in writing.
-	</p> 
-
-	<p>
-		<strong>2.4</strong> &nbsp;When TaxResources, Inc. proposes to use personal information that has been collected for a purpose not previously identified, it will identify the new purpose before using such personal information. Unless the new purpose is required by law, or consent is otherwise not required pursuant to privacy legislation, the consent of the individual shall be obtained before the personal information is used for the new purpose.
-	</p>  
-
-	<p>
-		<strong>2.5</strong> &nbsp;Individuals responsible for collecting personal information on behalf of TaxResources, Inc. will explain to customers the purposes for which the information is being collected, including any purposes that may not be immediately obvious to the individual.
-	</p>  
-
-	<p>
-		<strong>2.6</strong> &nbsp;The purposes for which the personal information of customers is collected may include, but is not limited to:<br>
-		</p><ul>
-			<li>processing commercial transactions;</li>
-			<li>communicating with customers;</li>
-			<li>establishing and maintaining commercial relations;</li>
-			<li>developing, marketing or providing products and services;</li>
-			<li>recommending particular products and services;</li>
-			<li>conducting market research and surveys;</li>
-			<li>managing and developing business opportunities;</li>
-			<li>conducting investigations and complaint resolution processes;</li>
-			<li>facilitating transactional due diligence reviews;</li>
-			<li>complying with legal and regulatory obligations.</li>
-		</ul>
-		<strong>2.7</strong> &nbsp;Anonymous or “non–personal” information gathered by TaxResources, Inc. through its website may be used for technical, research and analytical purposes. Information collected through surveys, existing files and public archives may be used by TaxResources, Inc. to analyze its markets and to develop or enhance service offerings.
-	<p></p>
-
-	<h2>PRINCIPLE 3 — CONSENT</h2> 
-	<p>
-		<em>The knowledge and consent of the individual are required for the collection, use or disclosure of personal information, except where consent is not required by privacy legislation as, for example, where the collection, use or disclosure of personal information is solely for journalistic, artistic or literary purposes.</em>
-	</p>
-
-	<p>
-		<strong>3.1</strong> &nbsp;Consent is required for the collection of personal information and the subsequent use or disclosure of this information. Generally, TaxResources, Inc. will seek consent for the use or disclosure of the information at the time of collection. In certain circumstances, consent with respect to the use or disclosure of personal information may be sought after the information has been collected but before the personal information is used (for example, when TaxResources, Inc. wants to use information for a purpose not previously identified). In obtaining consent, TaxResources, Inc. shall use reasonable efforts to ensure that a customer is advised of the identified purposes for which personal information will be used or disclosed. Purposes shall be stated in a manner that can be reasonably understood by the customer.
-	</p>
-	
-	<p>
-		<strong>3.2</strong> &nbsp;In certain circumstances personal information may be collected, used or disclosed without the knowledge and consent of the individual. For example, TaxResources, Inc. may collect or use personal information without the knowledge or consent of its customers if the collection or use of personal information is clearly in the interests of the individual and consent cannot be obtained in a timely way, such as when the individual is a minor, seriously ill or mentally incapacitated or if seeking the consent of the individual might defeat the purpose of collecting the information such as in the investigation of a breach of an agreement or a contravention of a federal, state or provincial law. Personal information may also be used or disclosed without the knowledge or consent of the individual in the case of an emergency where the life, health or security of an individual is threatened. TaxResources, Inc. may disclose personal information without knowledge or consent to a lawyer representing the company, to collect a debt, to comply with a subpoena, warrant or other court order, or as may be otherwise required by law.
-	</p>
-	
-	<p>
-		<strong>3.3</strong> &nbsp;TaxResources, Inc. will not, as a condition of the supply of a product or service, require an individual to consent to the collection, use, or disclosure of information beyond that required to fulfill the explicitly specified and legitimate purposes.
-	</p>  
-
-	<p>
-		<strong>3.4</strong> &nbsp;In obtaining consent, TaxResources, Inc. will take into account the sensitivity of the personal information and the reasonable expectations of its customers. Consent will not be obtained through deception.
-	</p> 
-
-	<p>For example:<br>
-		</p><ul>
-			<li>A viewer who browses website tax or marketing content online from a TaxResources, Inc. website, would reasonably expect that his or her relevant contact information (name, phone number, personal identification) would be collected and used to identify the viewer for purposes of website functionality. However, this same viewer would not reasonably expect that this information would be used for a purpose other than the administration of the website, without the viewer’s knowledge and consent.</li>
-			<li>A member would reasonably expect that TaxResources, Inc., in addition to using the individual’s name and address for mailing and billing purposes, would also contact the member to solicit the renewal of his or her membership.</li>
-		</ul>
-	<p></p>
+	                    <p>For example:<br>
+		                    </p><ul>
+			                    <li>A viewer who browses website tax or marketing content online from a TaxResources, Inc. website, would reasonably expect that his or her relevant contact information (name, phone number, personal identification) would be collected and used to identify the viewer for purposes of website functionality. However, this same viewer would not reasonably expect that this information would be used for a purpose other than the administration of the website, without the viewer’s knowledge and consent.</li>
+			                    <li>A member would reasonably expect that TaxResources, Inc., in addition to using the individual’s name and address for mailing and billing purposes, would also contact the member to solicit the renewal of his or her membership.</li>
+		                    </ul>
+	                    <p></p>
     
-	<p>
-		<strong>3.5</strong> &nbsp;The way in which TaxResources, Inc. seeks consent may vary, depending on the circumstances and the type of information collected. TaxResources, Inc. will generally seek express consent when the information is likely to be considered sensitive. It will rely on implied consent only where collection and use of the personal information is directly related to a transaction or exchange of information in which the individual is directly participating. Consent may also be given by an authorized representative (such as a legal guardian or a person having power of attorney).
-	</p>  
+	                    <p>
+		                    <strong>3.5</strong> &nbsp;The way in which TaxResources, Inc. seeks consent may vary, depending on the circumstances and the type of information collected. TaxResources, Inc. will generally seek express consent when the information is likely to be considered sensitive. It will rely on implied consent only where collection and use of the personal information is directly related to a transaction or exchange of information in which the individual is directly participating. Consent may also be given by an authorized representative (such as a legal guardian or a person having power of attorney).
+	                    </p>  
 
-	<p>
-		<strong>3.6</strong> &nbsp;Consent may be obtained in any one of the following ways:<br>
-		</p><ul>
-			<li>an application form may be used to seek consent, collect information and inform the individual of the use that will be made of the information. By completing and signing the form, the individual is giving consent to the collection and the specified uses.</li>
-			<li>a check–off box may be used to allow individuals to request that their names and addresses not be given to other organizations. Individuals who do not check the box are assumed to consent to the transfer of their information to third parties;</li>
-			<li>if a customer chooses not to register or provide personal information via TaxResources’ website they may give the information and consent orally over the telephone; or</li>
-			<li>consent may be given at the time that individuals use a product or service.</li>
-		</ul>
-	<p></p>
+	                    <p>
+		                    <strong>3.6</strong> &nbsp;Consent may be obtained in any one of the following ways:<br>
+		                    </p><ul>
+			                    <li>an application form may be used to seek consent, collect information and inform the individual of the use that will be made of the information. By completing and signing the form, the individual is giving consent to the collection and the specified uses.</li>
+			                    <li>a check–off box may be used to allow individuals to request that their names and addresses not be given to other organizations. Individuals who do not check the box are assumed to consent to the transfer of their information to third parties;</li>
+			                    <li>if a customer chooses not to register or provide personal information via TaxResources’ website they may give the information and consent orally over the telephone; or</li>
+			                    <li>consent may be given at the time that individuals use a product or service.</li>
+		                    </ul>
+	                    <p></p>
 	
-	<p>
-		<strong>3.7</strong> &nbsp;Generally, the use of products and services by a customer constitutes implied consent for TaxResources, Inc. to collect, use and disclose personal information for all identified purposes.
-	</p>
+	                    <p>
+		                    <strong>3.7</strong> &nbsp;Generally, the use of products and services by a customer constitutes implied consent for TaxResources, Inc. to collect, use and disclose personal information for all identified purposes.
+	                    </p>
 	
-	<p>
-		<strong>3.8</strong> &nbsp;An individual may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. TaxResources, Inc. will inform individuals of the implications of withdrawing consent. Customers may contact TaxResources, Inc. for more information regarding the implications of withdrawing consent.
-	</p>
+	                    <p>
+		                    <strong>3.8</strong> &nbsp;An individual may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. TaxResources, Inc. will inform individuals of the implications of withdrawing consent. Customers may contact TaxResources, Inc. for more information regarding the implications of withdrawing consent.
+	                    </p>
+                    </section>
 
-	<h2>4 — LIMITING COLLECTION</h2>
+                    <section>
+	                    <h2>4 — LIMITING COLLECTION</h2>
 	
-	<p>
-	TaxResources, Inc. shall limit the collection of personal information to that which is necessary for the purposes identified by the company. Personal information shall be collected by fair and lawful means.
-	</p>  
+	                    <p>
+	                    TaxResources, Inc. shall limit the collection of personal information to that which is necessary for the purposes identified by the company. Personal information shall be collected by fair and lawful means.
+	                    </p>  
 
-	<p>
-	<strong>4.1</strong> &nbsp;TaxResources, Inc. will not collect personal information indiscriminately. Both the amount and the type of information collected shall be limited to that which is necessary to fulfill the purposes identified. TaxResources, Inc. shall specify the type of information collected as part of its information handling policies and practices, in accordance with the Openness requirement (See Principle 8).
-	</p>  
+	                    <p>
+	                    <strong>4.1</strong> &nbsp;TaxResources, Inc. will not collect personal information indiscriminately. Both the amount and the type of information collected shall be limited to that which is necessary to fulfill the purposes identified. TaxResources, Inc. shall specify the type of information collected as part of its information handling policies and practices, in accordance with the Openness requirement (See Principle 8).
+	                    </p>  
 
-	<p>
-		<strong>4.2</strong> &nbsp;The requirement that personal information be collected by fair and lawful means is intended to prevent TaxResources, Inc. from collecting information by misleading or deceiving individuals about the purpose for which information is being collected. Consent to the collection of personal information must not be obtained through deception.
-	</p>
-  
-	<h2>5 — LIMITING USE, DISCLOSURE AND RETENTION </h2>
-	<p>
-		<em>Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of the purposes for which it was collected.</em>
-	</p> 
-	<p>
-		<strong>5.1</strong> &nbsp;Where TaxResources, Inc. intends to use personal information for a purpose not previously identified, TaxResources, Inc. shall document the new purpose and shall obtain the consent of the individual prior to using the information for a new purpose.
-	</p>  
+	                    <p>
+		                    <strong>4.2</strong> &nbsp;The requirement that personal information be collected by fair and lawful means is intended to prevent TaxResources, Inc. from collecting information by misleading or deceiving individuals about the purpose for which information is being collected. Consent to the collection of personal information must not be obtained through deception.
+	                    </p>
+                    </section>
 
-	<p>
-		<strong>5.2</strong> &nbsp;TaxResources, Inc. has a long–standing policy of not providing personal information to any third parties. Unlike many other websites, it is not necessary to expressly request that TaxResources, Inc. not allow access by third parties to your personal information. TaxResources, Inc. will not sell, rent, trade or give away our members’ personal information to other companies.
-	</p>  
+                    <section>  
+	                    <h2>5 — LIMITING USE, DISCLOSURE AND RETENTION </h2>
+	                    <p>
+		                    <em>Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of the purposes for which it was collected.</em>
+	                    </p> 
+	                    <p>
+		                    <strong>5.1</strong> &nbsp;Where TaxResources, Inc. intends to use personal information for a purpose not previously identified, TaxResources, Inc. shall document the new purpose and shall obtain the consent of the individual prior to using the information for a new purpose.
+	                    </p>  
 
-	<p>TaxResources, Inc. may disclose the personal information of its customers:<br>  
-		</p><ul>
-			<li>to third party service providers, including shipping and mailing companies; </li>
-			<li>to internal or external legal counsel and auditors;</li>
-			<li>to an agent retained by TaxResources, Inc. in connection with the collection of the customer’s account; </li>
-			<li>to a third party or parties, where the customer consents to such disclosure;</li>
-			<li>to prospective parties in the context of a transactional due diligence review; and</li>
-			<li>where disclosure is required by law.</li>
-		</ul>
-	<p></p>
+	                    <p>
+		                    <strong>5.2</strong> &nbsp;TaxResources, Inc. has a long–standing policy of not providing personal information to any third parties. Unlike many other websites, it is not necessary to expressly request that TaxResources, Inc. not allow access by third parties to your personal information. TaxResources, Inc. will not sell, rent, trade or give away our members’ personal information to other companies.
+	                    </p>  
+
+	                    <p>TaxResources, Inc. may disclose the personal information of its customers:<br>  
+		                    </p><ul>
+			                    <li>to third party service providers, including shipping and mailing companies; </li>
+			                    <li>to internal or external legal counsel and auditors;</li>
+			                    <li>to an agent retained by TaxResources, Inc. in connection with the collection of the customer’s account; </li>
+			                    <li>to a third party or parties, where the customer consents to such disclosure;</li>
+			                    <li>to prospective parties in the context of a transactional due diligence review; and</li>
+			                    <li>where disclosure is required by law.</li>
+		                    </ul>
+	                    <p></p>
 	
-	<p><strong>5.3</strong> &nbsp;Except as required or permitted by law, when disclosure is made to a party other than TaxResources, Inc. or a third party provider of personal information processing services, the consent of the individual shall be obtained and reasonable steps shall be taken to ensure that any such third party has personal information privacy procedures and policies in place that are at least comparable to those implemented by TaxResources, Inc. Only that information necessary for the third party to provide services is shared. These third party companies do not have access to any financial information and are not allowed to retain, store, or use personally identifiable information for any secondary purposes.</p>  
+	                    <p><strong>5.3</strong> &nbsp;Except as required or permitted by law, when disclosure is made to a party other than TaxResources, Inc. or a third party provider of personal information processing services, the consent of the individual shall be obtained and reasonable steps shall be taken to ensure that any such third party has personal information privacy procedures and policies in place that are at least comparable to those implemented by TaxResources, Inc. Only that information necessary for the third party to provide services is shared. These third party companies do not have access to any financial information and are not allowed to retain, store, or use personally identifiable information for any secondary purposes.</p>  
 
-	<p><strong>5.4</strong> &nbsp;Personal information shall be kept only as long as it remains necessary or relevant for the identified purposes or as required by law. Depending on the circumstances, where personal information has been used to make a decision about a customer, TaxResources, Inc. shall retain, for a period of time that is reasonably sufficient to allow for access by the customer, either the actual information or the rationale for making the decision.</p>  
+	                    <p><strong>5.4</strong> &nbsp;Personal information shall be kept only as long as it remains necessary or relevant for the identified purposes or as required by law. Depending on the circumstances, where personal information has been used to make a decision about a customer, TaxResources, Inc. shall retain, for a period of time that is reasonably sufficient to allow for access by the customer, either the actual information or the rationale for making the decision.</p>  
 
-	<p><strong>5.5</strong> &nbsp;TaxResources, Inc. has adopted guidelines and procedures with respect to the retention of personal information. Personal information that is no longer necessary or relevant for the identified purposes or required by law to be retained, shall be destroyed, erased or made anonymous in accordance with the TaxResources, Inc. Document Retention and Destruction Policy.</p>
-    	<p><strong>5.6</strong> &nbsp;Our Site includes links to other Web sites whose privacy practices may differ from those of TaxResources Inc.  If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.</p>
+	                    <p><strong>5.5</strong> &nbsp;TaxResources, Inc. has adopted guidelines and procedures with respect to the retention of personal information. Personal information that is no longer necessary or relevant for the identified purposes or required by law to be retained, shall be destroyed, erased or made anonymous in accordance with the TaxResources, Inc. Document Retention and Destruction Policy.</p>
+    	                    <p><strong>5.6</strong> &nbsp;Our Site includes links to other Web sites whose privacy practices may differ from those of TaxResources Inc.  If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.</p>
+                    </section>
+
+                    <section>    
+	                     <h2>6 — ACCURACY</h2>
+	                    <p><em>Personal information shall be as accurate, complete and up–to–date as is necessary for the purposes for which it is to be used</em>.</p>  
+
+	                    <p><strong>6.1</strong> &nbsp;Personal information used by TaxResources, Inc. shall be sufficiently accurate, complete and up–to–date to minimize the possibility that inappropriate information may be used to make a decision about the individual customer. The extent to which personal information will be accurate, complete and up–to–date will depend upon the use of the information, taking into account the interests of the individual.</p>  
+	                    <p><strong>6.2</strong> &nbsp;TaxResources, Inc. will not, however, routinely update personal information, unless this is necessary to fulfill the purposes for which the information was collected. Personal information about customers shall be updated only as and when necessary to fulfill the identified purposes or upon notification by the individual.</p>  
+
+	                    <p><strong>6.3</strong> &nbsp;TaxResources Members will be assigned a unique User ID Number and password and may use that unique information to register on the Member Center of the TaxResources website. Once registered, members have access to their personal information and may make changes, delete or update their own information.</p>  
+
+	                    <p><strong>6.4</strong> &nbsp;TaxResources, Inc. shall ensure that personal information that is used on an ongoing basis, including information that is disclosed to third parties, is generally accurate and up–to–date, unless limits to the requirement for accuracy are clearly set out.</p>
+                    </section>
+
+                    <section>
+	                    <h2>7 — SAFEGUARDS</h2>
+	                    <p><em>Personal information shall be protected by security safeguards appropriate to the sensitivity of the information.</em></p>  
+
+	                    <p><strong>7.1</strong> &nbsp;TaxResources, Inc. will implement security safeguards to protect personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification, regardless of the format in which the information is held.</p>  
+
+	                    <p><strong>7.2</strong> &nbsp;The nature of the safeguards will vary depending on (i) the sensitivity of the information that has been collected, (ii) the amount, distribution and format of the information, and (iii) the method of storage.</p>  
+
+	                    <p><strong>7.3</strong> &nbsp;Physical measures such as locked filing cabinets and restricted access to offices, organizational measures such as security clearances and limiting access on a “need–to–know” basis, and technological measures such as the use of passwords and encryption have been adopted by TaxResources, Inc. in accordance with the standards and procedures defined by the Information Security Department.</p>  
+
+	                    <p><strong>7.4</strong> &nbsp;The use of cookies, web bugs, images, and other techniques to covertly gather information about individuals who use the Internet is incompatible with this policy. Whenever TaxResources, Inc. gathers information about individuals, these same subjects must have agreed upon the collection effort in advance. For this same reason, TaxResources, Inc. does not deposit cookie files on individual hard drives and does not perform any other covert recording of the Internet activity in which individuals have engaged.</p>  
+
+	                    <p><strong>7.5</strong> &nbsp;TaxResources, Inc. streamlines and expedites all of its computerized business interactions with individuals, but at the same time is to be forthright and clear about its privacy policies. To support these objectives and to encourage individuals to use Internet commerce sites and other computerized business systems, TaxResources, Inc. adopts and supports all generally–accepted standards for web content rating, web site privacy protection, and Internet commerce security, including third–party seals of approval.</p>  
+
+	                    <p><strong>7.6</strong> &nbsp;TaxResources, Inc. does not use externally–meaningful identifiers as its own internal individual account numbers. For example, to prevent identity theft, TaxResources, Inc. customer account numbers must never be equivalent to social security numbers, driver’s license numbers, or any other identifier that might be used in an unauthorized fashion by a third party.</p>  
+
+	                    <p><strong>7.7</strong> &nbsp;When they are no longer neede–d, all copies of personal data, including those on backup tapes, must be irreversibly destroyed according to standards and procedures defined by the Information Security Department. A document describing the personal data destroyed and the reasons for such destruction must be prepared for each destruction process. Documents will be destroyed only if all legal retention requirements and related business purposes have been met.</p> 
+
+	                    <p><strong>7.8</strong> &nbsp;A documented risk assessment must be prepared to determine the privacy implications of all significantly new or different uses of personal data. Such a risk assessment must be completed before these uses take place, and must include all steps in the proposed processing, including access, storage, transmission, and destruction. Such a risk assessment must include not only consideration of the risks, but also the security measures to be employed such as access controls, encryption, logs, data retention schedules, and data destruction procedures.</p>
+                    </section>
+
+                    <section>
+	                    <h2>8 — OPENNESS</h2>
+	                    <p><em>TaxResources, Inc. shall make readily available to its customers specific information about its policies and practices relating to the management of personal information.</em></p>  
+
+	                    <p><strong>8.1</strong> &nbsp;TaxResources, Inc. will be open about its policies and practices with respect to the management of personal information. Customers shall be able to acquire information about TaxResources, Inc.’s policies and practices with respect to the management of personal information without unreasonable effort.</p>  
+
+	                    <p><strong>8.2</strong> &nbsp;Such information shall be made available through each of the TaxResources, Inc.’s websites and through the TaxResources, Inc. Intranet sites and shall include:<br>
+	                    </p><ul>
+		                    <li>the name or title, and the address, of the Chief Security Information Officer and/or Privacy contact</li>
+		                    <li>the means of gaining access to personal information held by TaxResources, Inc.</li>
+		                    <li>a description of the type of personal information held by TaxResources, Inc. including a general account of its use</li>
+		                    <li>copies of any brochures or other information that explain TaxResources, Inc.’s policies, standards or codes</li>
+		                    <li>a description of what personal information is made available to related organizations (e.g. subsidiaries)</li>
+	                    </ul>
+                    </section>
+
+                    <section>
+	                    <h2>9 — INDIVIDUAL ACCESS</h2>    
+	                    <p><em>Upon request, an individual shall be informed of the existence, use and disclosure of his or her personal information and shall be given access to that information except where TaxResources, Inc. is permitted or required by law not to disclose personal information to the individual customer. An individual customer shall be able to challenge the accuracy and completeness of the information disclosed to him or her and have it amended as appropriate.</em></p>  
+
+	                    <p><strong>9.1</strong> &nbsp;Upon request, TaxResources, Inc. shall inform an individual customer whether it holds personal information about that individual (except where permitted or required by law not to disclose personal information) and shall afford the individual a reasonable opportunity to review the personal information in his or her file at minimal or no cost to the individual. TaxResources, Inc. shall provide an account of the use that has been made or is being made of the personal information and an account of the third parties to which the personal information has been disclosed. Where reasonably possible, TaxResources, Inc. shall indicate the source of the personal information.</p>  
+
+	                    <p><strong>9.2</strong> &nbsp;In order to safeguard personal information, a customer may be required to provide sufficient identification information to permit TaxResources, Inc. to account for the existence, use and disclosure of personal information and to authorize access to the individual–s file. Any such information shall be used only for this purpose.</p>  
+
+	                    <p><strong>9.3</strong> &nbsp;In certain situations, TaxResources, Inc. may not be able to provide access to all of the personal information that they hold about a customer. For example, TaxResources, Inc. is not required to provide access to information if doing so would likely reveal personal information about a third party or could reasonably be expected to threaten the life or security of another individual. Similarly, TaxResources, Inc. may not be required to provide access to information if disclosure would reveal confidential commercial information, if the information is protected by privilege, if the information was generated in the course of a formal dispute resolution process, or if the information was collected in relation to the investigation of a breach of an agreement or a contravention of a federal, state or provincial law. If access to personal information cannot be provided, TaxResources, Inc. shall provide the reasons for denying access upon request.</p>  
+
+	                    <p><strong>9.4</strong> &nbsp;In providing an account of third parties to which it has disclosed personal information about a customer, TaxResources, Inc. shall attempt to be as specific as possible. When it is not possible to provide a list of the organizations to which it has actually disclosed personal information, TaxResources, Inc. shall provide a list of organizations to which it may have disclosed personal information about the customer.</p>  
+
+	                    <p><strong>9.5</strong> &nbsp;TaxResources, Inc. will respond to an individual’s request within a reasonable time and in any event within thirty (30) days of the request. The time for responding to a request may be extended for up to an additional thirty (30) days if meeting the time limit would unreasonably interfere with the activities of TaxResources, Inc., or if the time required to undertake any consultations necessary to respond to the request would make the time limit impracticable to meet. TaxResources, Inc. may also extend the time for responding for such period of time as is necessary to be able to convert the personal information into an alternative format. TaxResources, Inc. will provide notice to the individual of any extension taken within thirty (30) days of the individual’s request and will advise the individual of the right to make a complaint to the Chief Information Security Officer about the extension. They will provide the requested information or make it available in a form that is generally understandable. For example, if abbreviations or codes are used to record information, TaxResources, Inc. will provide a corresponding explanation.</p>  
+
+	                    <p><strong>9.6</strong> &nbsp;Upon request by an individual with sensory disabilities, TaxResources, Inc. will give access to personal information about the individual in an alternative format if a version of the information already exists in that format or if its conversion to an alternative format is necessary to allow the individual to exercise rights to request correction, challenge compliance of TaxResources, Inc. under the Challenging Compliance Requirement (See principle 10) or file a formal complaint pursuant to applicable privacy legislation.</p>  
+
+	                    <p><strong>9.7</strong> &nbsp;TaxResources, Inc. shall promptly correct or complete any personal information found to be inaccurate or incomplete. Any unresolved differences as to the accuracy or completeness shall be noted in the individual’s file. Where appropriate, TaxResources, Inc. shall transmit to third parties having access to the personal information in question any amended information or the existence of any unresolved differences.  
+
+	                    </p><p><strong>9.8</strong> &nbsp;A customer can obtain information or seek access to his or her individual file by contacting TaxResources, Inc.</p>  
+
+	                    <p><strong>9.9</strong> &nbsp;TaxResources, Inc. members will be assigned unique User ID Numbers and passwords and are able to use this information to register for the Member Center on the TaxResources, Inc. websites. Once registered, the member will have access to their personal information and membership information. Customers are entirely responsible for maintaining the confidentiality of their identifying information, including account numbers, User ID numbers and passwords.</p>
+	                    <p></p>
+                    </section>
+
+                    <section>
+	                    <h2>10 — CHALLENGING COMPLIANCE</h2>
+	                    <p><em>An individual customer shall be able to address a challenge concerning compliance with the principles in this Privacy Policy to the Chief Information Security Officer.</em></p>  
+
+	                    <p><strong>10.1</strong> &nbsp;TaxResources, Inc. shall maintain procedures for addressing and responding to all inquiries or complaints from its customers about the companies’ handling of personal information.</p>  
+
+	                    <p><strong>10.2</strong> &nbsp;TaxResources, Inc. will inform their customers about the existence of these procedures as well as the availability of complaint procedures.</p>  
+
+	                    <p><strong>10.3</strong> &nbsp;TaxResources, Inc. shall investigate all complaints concerning compliance with this Privacy Policy. If a complaint is found to be justified, TaxResources, Inc. shall take appropriate measures to resolve the complaint including, if necessary, amending its policies and procedures. A customer shall be informed of the outcome of the investigation regarding his or her complaint.</p>  
+
+	                    <p><strong>10.4</strong> &nbsp;Any questions about the security of TaxResources, Inc.’s websites or within TaxResources, Inc. should be addressed to <a href="mailto:security@taxaudit.com">security@taxaudit.com</a>.</p>  
+
+	                    <p><strong>10.5</strong> &nbsp;If for any reason an individual believes that TaxResources, Inc. has not adhered to these privacy principles, notification should be emailed to <a href="mailto:security@taxaudit.com">security@taxaudit.com</a>.</p>
+                    </section>
+
+                    <section>
+	                    <h3>CHANGES TO THE PRIVACY POLICY</h3> 
+	                    <p>This policy is effective as of November, 2011. TaxResources, Inc. reserves the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy we will notify you on our homepage and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>         
+	                    <a href="#privacy-page">Back to the TOP</a>
+                    </section>
+                <p>&nbsp;</p>
+                </div>
+            </section>
+        </div>
+    </div>
+<!--</div>-->
+            
+
+    </div>
     
-	 <h2>6 — ACCURACY</h2>
-	<p><em>Personal information shall be as accurate, complete and up–to–date as is necessary for the purposes for which it is to be used</em>.</p>  
+    
+    
+    
+    
 
-	<p><strong>6.1</strong> &nbsp;Personal information used by TaxResources, Inc. shall be sufficiently accurate, complete and up–to–date to minimize the possibility that inappropriate information may be used to make a decision about the individual customer. The extent to which personal information will be accurate, complete and up–to–date will depend upon the use of the information, taking into account the interests of the individual.</p>  
-	<p><strong>6.2</strong> &nbsp;TaxResources, Inc. will not, however, routinely update personal information, unless this is necessary to fulfill the purposes for which the information was collected. Personal information about customers shall be updated only as and when necessary to fulfill the identified purposes or upon notification by the individual.</p>  
-
-	<p><strong>6.3</strong> &nbsp;TaxResources Members will be assigned a unique User ID Number and password and may use that unique information to register on the Member Center of the TaxResources website. Once registered, members have access to their personal information and may make changes, delete or update their own information.</p>  
-
-	<p><strong>6.4</strong> &nbsp;TaxResources, Inc. shall ensure that personal information that is used on an ongoing basis, including information that is disclosed to third parties, is generally accurate and up–to–date, unless limits to the requirement for accuracy are clearly set out.</p>
-
-	<h2>7 — SAFEGUARDS</h2>
-	<p><em>Personal information shall be protected by security safeguards appropriate to the sensitivity of the information.</em></p>  
-
-	<p><strong>7.1</strong> &nbsp;TaxResources, Inc. will implement security safeguards to protect personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification, regardless of the format in which the information is held.</p>  
-
-	<p><strong>7.2</strong> &nbsp;The nature of the safeguards will vary depending on (i) the sensitivity of the information that has been collected, (ii) the amount, distribution and format of the information, and (iii) the method of storage.</p>  
-
-	<p><strong>7.3</strong> &nbsp;Physical measures such as locked filing cabinets and restricted access to offices, organizational measures such as security clearances and limiting access on a “need–to–know” basis, and technological measures such as the use of passwords and encryption have been adopted by TaxResources, Inc. in accordance with the standards and procedures defined by the Information Security Department.</p>  
-
-	<p><strong>7.4</strong> &nbsp;The use of cookies, web bugs, images, and other techniques to covertly gather information about individuals who use the Internet is incompatible with this policy. Whenever TaxResources, Inc. gathers information about individuals, these same subjects must have agreed upon the collection effort in advance. For this same reason, TaxResources, Inc. does not deposit cookie files on individual hard drives and does not perform any other covert recording of the Internet activity in which individuals have engaged.</p>  
-
-	<p><strong>7.5</strong> &nbsp;TaxResources, Inc. streamlines and expedites all of its computerized business interactions with individuals, but at the same time is to be forthright and clear about its privacy policies. To support these objectives and to encourage individuals to use Internet commerce sites and other computerized business systems, TaxResources, Inc. adopts and supports all generally–accepted standards for web content rating, web site privacy protection, and Internet commerce security, including third–party seals of approval.</p>  
-
-	<p><strong>7.6</strong> &nbsp;TaxResources, Inc. does not use externally–meaningful identifiers as its own internal individual account numbers. For example, to prevent identity theft, TaxResources, Inc. customer account numbers must never be equivalent to social security numbers, driver’s license numbers, or any other identifier that might be used in an unauthorized fashion by a third party.</p>  
-
-	<p><strong>7.7</strong> &nbsp;When they are no longer neede–d, all copies of personal data, including those on backup tapes, must be irreversibly destroyed according to standards and procedures defined by the Information Security Department. A document describing the personal data destroyed and the reasons for such destruction must be prepared for each destruction process. Documents will be destroyed only if all legal retention requirements and related business purposes have been met.</p> 
-
-	<p><strong>7.8</strong> &nbsp;A documented risk assessment must be prepared to determine the privacy implications of all significantly new or different uses of personal data. Such a risk assessment must be completed before these uses take place, and must include all steps in the proposed processing, including access, storage, transmission, and destruction. Such a risk assessment must include not only consideration of the risks, but also the security measures to be employed such as access controls, encryption, logs, data retention schedules, and data destruction procedures.</p>
-	<h2>8 — OPENNESS</h2>
-	<p><em>TaxResources, Inc. shall make readily available to its customers specific information about its policies and practices relating to the management of personal information.</em></p>  
-
-	<p><strong>8.1</strong> &nbsp;TaxResources, Inc. will be open about its policies and practices with respect to the management of personal information. Customers shall be able to acquire information about TaxResources, Inc.’s policies and practices with respect to the management of personal information without unreasonable effort.</p>  
-
-	<p><strong>8.2</strong> &nbsp;Such information shall be made available through each of the TaxResources, Inc.’s websites and through the TaxResources, Inc. Intranet sites and shall include:<br>
-	</p><ul>
-		<li>the name or title, and the address, of the Chief Security Information Officer and/or Privacy contact</li>
-		<li>the means of gaining access to personal information held by TaxResources, Inc.</li>
-		<li>a description of the type of personal information held by TaxResources, Inc. including a general account of its use</li>
-		<li>copies of any brochures or other information that explain TaxResources, Inc.’s policies, standards or codes</li>
-		<li>a description of what personal information is made available to related organizations (e.g. subsidiaries)</li>
-	</ul>
-	<h2>9 — INDIVIDUAL ACCESS</h2>    
-	<p><em>Upon request, an individual shall be informed of the existence, use and disclosure of his or her personal information and shall be given access to that information except where TaxResources, Inc. is permitted or required by law not to disclose personal information to the individual customer. An individual customer shall be able to challenge the accuracy and completeness of the information disclosed to him or her and have it amended as appropriate.</em></p>  
-
-	<p><strong>9.1</strong> &nbsp;Upon request, TaxResources, Inc. shall inform an individual customer whether it holds personal information about that individual (except where permitted or required by law not to disclose personal information) and shall afford the individual a reasonable opportunity to review the personal information in his or her file at minimal or no cost to the individual. TaxResources, Inc. shall provide an account of the use that has been made or is being made of the personal information and an account of the third parties to which the personal information has been disclosed. Where reasonably possible, TaxResources, Inc. shall indicate the source of the personal information.</p>  
-
-	<p><strong>9.2</strong> &nbsp;In order to safeguard personal information, a customer may be required to provide sufficient identification information to permit TaxResources, Inc. to account for the existence, use and disclosure of personal information and to authorize access to the individual–s file. Any such information shall be used only for this purpose.</p>  
-
-	<p><strong>9.3</strong> &nbsp;In certain situations, TaxResources, Inc. may not be able to provide access to all of the personal information that they hold about a customer. For example, TaxResources, Inc. is not required to provide access to information if doing so would likely reveal personal information about a third party or could reasonably be expected to threaten the life or security of another individual. Similarly, TaxResources, Inc. may not be required to provide access to information if disclosure would reveal confidential commercial information, if the information is protected by privilege, if the information was generated in the course of a formal dispute resolution process, or if the information was collected in relation to the investigation of a breach of an agreement or a contravention of a federal, state or provincial law. If access to personal information cannot be provided, TaxResources, Inc. shall provide the reasons for denying access upon request.</p>  
-
-	<p><strong>9.4</strong> &nbsp;In providing an account of third parties to which it has disclosed personal information about a customer, TaxResources, Inc. shall attempt to be as specific as possible. When it is not possible to provide a list of the organizations to which it has actually disclosed personal information, TaxResources, Inc. shall provide a list of organizations to which it may have disclosed personal information about the customer.</p>  
-
-	<p><strong>9.5</strong> &nbsp;TaxResources, Inc. will respond to an individual’s request within a reasonable time and in any event within thirty (30) days of the request. The time for responding to a request may be extended for up to an additional thirty (30) days if meeting the time limit would unreasonably interfere with the activities of TaxResources, Inc., or if the time required to undertake any consultations necessary to respond to the request would make the time limit impracticable to meet. TaxResources, Inc. may also extend the time for responding for such period of time as is necessary to be able to convert the personal information into an alternative format. TaxResources, Inc. will provide notice to the individual of any extension taken within thirty (30) days of the individual’s request and will advise the individual of the right to make a complaint to the Chief Information Security Officer about the extension. They will provide the requested information or make it available in a form that is generally understandable. For example, if abbreviations or codes are used to record information, TaxResources, Inc. will provide a corresponding explanation.</p>  
-
-	<p><strong>9.6</strong> &nbsp;Upon request by an individual with sensory disabilities, TaxResources, Inc. will give access to personal information about the individual in an alternative format if a version of the information already exists in that format or if its conversion to an alternative format is necessary to allow the individual to exercise rights to request correction, challenge compliance of TaxResources, Inc. under the Challenging Compliance Requirement (See principle 10) or file a formal complaint pursuant to applicable privacy legislation.</p>  
-
-	<p><strong>9.7</strong> &nbsp;TaxResources, Inc. shall promptly correct or complete any personal information found to be inaccurate or incomplete. Any unresolved differences as to the accuracy or completeness shall be noted in the individual’s file. Where appropriate, TaxResources, Inc. shall transmit to third parties having access to the personal information in question any amended information or the existence of any unresolved differences.  
-
-	</p><p><strong>9.8</strong> &nbsp;A customer can obtain information or seek access to his or her individual file by contacting TaxResources, Inc.</p>  
-
-	<p><strong>9.9</strong> &nbsp;TaxResources, Inc. members will be assigned unique User ID Numbers and passwords and are able to use this information to register for the Member Center on the TaxResources, Inc. websites. Once registered, the member will have access to their personal information and membership information. Customers are entirely responsible for maintaining the confidentiality of their identifying information, including account numbers, User ID numbers and passwords.</p>
-	<p></p>
-
-	<h2>10 — CHALLENGING COMPLIANCE</h2>
-	<p><em>An individual customer shall be able to address a challenge concerning compliance with the principles in this Privacy Policy to the Chief Information Security Officer.</em></p>  
-
-	<p><strong>10.1</strong> &nbsp;TaxResources, Inc. shall maintain procedures for addressing and responding to all inquiries or complaints from its customers about the companies’ handling of personal information.</p>  
-
-	<p><strong>10.2</strong> &nbsp;TaxResources, Inc. will inform their customers about the existence of these procedures as well as the availability of complaint procedures.</p>  
-
-	<p><strong>10.3</strong> &nbsp;TaxResources, Inc. shall investigate all complaints concerning compliance with this Privacy Policy. If a complaint is found to be justified, TaxResources, Inc. shall take appropriate measures to resolve the complaint including, if necessary, amending its policies and procedures. A customer shall be informed of the outcome of the investigation regarding his or her complaint.</p>  
-
-	<p><strong>10.4</strong> &nbsp;Any questions about the security of TaxResources, Inc.’s websites or within TaxResources, Inc. should be addressed to <a href="mailto:security@taxaudit.com">security@taxaudit.com</a>.</p>  
-
-	<p><strong>10.5</strong> &nbsp;If for any reason an individual believes that TaxResources, Inc. has not adhered to these privacy principles, notification should be emailed to <a href="mailto:security@taxaudit.com">security@taxaudit.com</a>.</p>
-	<h3>CHANGES TO THE PRIVACY POLICY</h3> 
-	<p>This policy is effective as of November, 2011. TaxResources, Inc. reserves the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy we will notify you on our homepage and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>         
-	<a href="#div.maincontent">Back to the TOP</a>
-<p>&nbsp;</p>   
-</div>
-
-
-			</div>			
-			<div id="rightMenu" class="layoutRight">
-                
-	                <div id="existCust" class="sidebarContent">
-		                <div>
-			                <a href="/Certificates/Authenticate" target="_blank">Print my Certificate</a><br>
-			                <a href="/Membership/Details">Renew my Membership</a><br>
-                            
-			                    <a href="javascript:RequestShowModal('Report an Audit','/ReportAudit/Begin');">Report an Audit</a><br>
-                            
-			                <a href="javascript:RequestShowModal('Create a website login','/ModalLogin/FindAccount')">Create an Online Account</a>
-		                </div>
-	                </div>
-					<div class="sidebarContent bbbImage">
                     
-                        <a href="http://www.bbb.org/northeast-california/business-reviews/tax-mediation/tax-resources-in-citrus-heights-ca-47020253" target="_blank">
-                            <img class="rollover" src="/content/Images/BBB_Aplus_off.gif" border="0" alt="BBB Accredited">
-                        </a>
                     
-					</div>
+                    
 
-                
-
-<script type="text/javascript">
-
-    /*  RSD: The following code was commented out to rotate the testimonial only when
-        the page is first loaded. This allows us to cycle through each testimonial as
-        the user  moves between pages. I left the original code in to allow us to go
-        back to the rotating testimonials if we choose to */
-	$(document).ready(function() {
-		testimonyCallBack = function(data, textStatus) {
-			$('#testimony').html(data).fadeIn('slow');
-		};
-
-        /* RotateTestimony = function() {*/
-			$('#testimony').hide();
-			$.get('/Home/Testimony', testimonyCallBack, 'html');
-		/*	RotateTestimony();
-		};
-
-		setTimeout(RotateTestimony, 0);*/
-	});
-
-</script>
-
-<div id="testimonial">
-	<div id="testimony" style="display: block;">
-
-
-
-
-<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css">
-<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css">
-<!-- End Wayback Rewrite JS Include -->
-<a href="/web/20130206022707/http://taxaudit.com/tax-audit-defense-testimonials"><img src="/web/20130206022707im_/http://taxaudit.com/content/Images/Testimonial_01.jpg" alt="Testimonial" border="0"></a><!--
-     FILE ARCHIVED ON 02:27:07 Feb 06, 2013 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 06:40:00 Jan 31, 2020.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
--->
-<!--
-playback timings (ms):
-  esindex: 0.017
-  RedisCDXSource: 0.659
-  LoadShardBlock: 45.638 (3)
-  captures_list: 64.141
-  exclusion.robots: 0.24
-  exclusion.robots.policy: 0.222
-  load_resource: 74.546
-  PetaboxLoader3.resolve: 33.112
-  PetaboxLoader3.datanode: 83.848 (4)
-  CDXLines.iter: 14.111 (3)
---></div>
-</div>
-
-			</div>
-		</div>
-
-		
-		<div id="footer" class="layoutFooter clearfix">
-			
-<div id="footerLeft" class="layoutLeft">
-    
-    <a href="/languages-supported">Languages Supported</a> | <a href="http://jobs.taxaudit.com" target="_blank">Careers</a> | <a href="/US-Terms-of-Service">Terms of Service</a>
-    | <a href="/privacy-statement">Security and Privacy</a> | <a href="/taxresources-site-map">
-        Site Map</a> | <a href="/web-browser-support">Browsers Supported</a>
-    <br>
-    Copyright © 2010-2012 TaxResources, Inc. All Rights Reserved.<br>
-    TaxResources, Inc. • 7803 Madison Ave • Suite A-100 • Citrus Heights, CA 95610
-<br>
-Phone (800) 922-8348  • Fax (800) 838-9114 
-    <br>
-    
-        <div style="text-align: center">
-            <table align="center" border="0" cellpadding="0" cellspacing="25" style="width: 100%">
-                <tbody><tr>
-            	    <td>
-                        <a href="http://www.clevelsecurity.com/certified/tri/tri.html" target="_blank">
-                            <img src="/content/Images/C-level.jpg" alt="C-Level Security" border="0">
-                        </a>
-                    </td>
-                    <td>
-                        <!-- BEGIN DigiCert Site Seal Code -->
-			            <div id="digicertsitesealcode" style="width: 81px; margin: 5px auto 5px 5px;" align="center">
-				            <!-- Begin DigiCert/ClickID site seal HTML and JavaScript -->
+            </div>
+        </div>
+        <footer id="main-footer">
+            <div class="wrapper">
+                <ul id="main-footer-links">
+                    <li><a href="/contact">Contact</a></li>
+                    <li><a href="http://jobs.taxaudit.com" target="_blank">Careers</a></li>
+                    <li><a href="/US-Terms-of-Service">Terms</a></li>
+                    <li><a href="/privacy-statement">Privacy</a></li>
+                    <li><a href="/languages-supported">Free Translation</a></li>
+                    <li><a href="/tax-audit-help">Tax Resources</a></li>
+                    <li><a href="/site-map">Site Map</a></li>
+                </ul>
+                <ul class="business-logos" id="main-footer-logos">
+                    <li>
+                         
+                                <a href="https://www.bbb.org/online/consumer/cks.aspx?id=110022218444" target="_blank"><img src="/content/images/bbb.png" alt="BBB"></a>                                
+                                                    
+                    </li>
+                    <li>
+                        <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+                            <tbody><tr>
+                                <td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.taxaudit.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br>
+                                    <a href="http://www.symantec.com/ssl-certificates" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </li>
+                    
+                    <li>
+                        <div style="text-align: left">
+                            <div id="db6e0564-5908-489d-b4c8-a58e27701dfd"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/TaxResources,-Inc/asc?rid=db6e0564-5908-489d-b4c8-a58e27701dfd"></script><a href="//privacy.truste.com/privacy-seal/TaxResources,-Inc/validation?rid=f051f82d-e489-48cf-85b9-48921042c34a" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/TaxResources,-Inc/seal?rid=f051f82d-e489-48cf-85b9-48921042c34a" alt="TRUSTe online privacy certification"></a></div>
+                        </div>
+                    </li>
+                    <li>
+                        <div id="digicertsitesealcode" style="width: 81px; margin: 5px auto 5px 5px;" align="center">	                            
                             <div id="DigiCertClickID_Vl143RYY" data-language="en_US">
 	             
                             </div>
                             <script type="text/javascript">
-                                var __dcid = __dcid || []; __dcid.push(["DigiCertClickID_Vl143RYY", "7", "m", "black", "Vl143RYY"]);
+                                var __dcid = __dcid || []; __dcid.push(["DigiCertClickID_Vl143RYY", "7", "s", "black", "Vl143RYY"]);
                                 (function () {
-                                    var cid = document.createElement("script"); cid.async = true; cid.src = "//seal.digicert.com/seals/cascade/seal.min.js"; 
-                                    var s = document.getElementsByTagName("script"); var ls = s[(s.length - 1)]; ls.parentNode.insertBefore(cid, ls.nextSibling); } ());
-                            </script><script async="" src="//seal.digicert.com/seals/cascade/seal.min.js"></script>
-                            <!-- End DigiCert/ClickID site seal HTML and JavaScript -->			            
-			            <!-- END DigiCert Site Seal Code -->
-
-                        <!-- BEGIN P2 DigiCert Site Seal Code 				  
-                        <div id="DigiCertClickID_UG_CY-7j" data-language="en_US">	                        
+                                    var cid = document.createElement("script"); cid.async = true; cid.src = "//seal.digicert.com/seals/cascade/seal.min.js";
+                                    var s = document.getElementsByTagName("script"); var ls = s[(s.length - 1)]; ls.parentNode.insertBefore(cid, ls.nextSibling);
+                                } ());
+                            </script><script async="" src="//seal.digicert.com/seals/cascade/seal.min.js"></script>                            
                         </div>
-                        <script type="text/javascript">
-                            var __dcid = __dcid || []; __dcid.push(["DigiCertClickID_UG_CY-7j", "7", "m", "black", "UG_CY-7j"]); (function () { var cid = document.createElement("script"); cid.async = true; cid.src = "//seal.digicert.com/seals/cascade/seal.min.js"; var s = document.getElementsByTagName("script"); var ls = s[(s.length - 1)]; ls.parentNode.insertBefore(cid, ls.nextSibling); } ());
-                        </script>                
-				        END P2 DigiCert Site Seal Code -->
-                    </div>
-                    </td>
-                    <td style="">
-                        
-                        <div id="bbbaccreditationcode" style="text-align: right">
-                            <a href="https://www.bbb.org/online/consumer/cks.aspx?id=110022218444" target="_blank">
-                                <img src="/content/Images/bbbsealh1US.gif" alt="BBB" border="0px"></a>
-                        </div>
-                        
-                    </td>
-                    <td>
-                        <div style="text-align: left">
-                                 <div id="db6e0564-5908-489d-b4c8-a58e27701dfd"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/TaxResources,-Inc/asc?rid=db6e0564-5908-489d-b4c8-a58e27701dfd"></script><a href="//privacy.truste.com/privacy-seal/TaxResources,-Inc/validation?rid=f051f82d-e489-48cf-85b9-48921042c34a" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/TaxResources,-Inc/seal?rid=f051f82d-e489-48cf-85b9-48921042c34a" alt="TRUSTe online privacy certification"></a></div>
-                        </div>
-                    </td>
-                </tr>
-            </tbody></table>
-        </div>
-    
-</div>
+                    </li>
+                </ul>
 
-<div id="footerRight" class="layoutRight">
-    <table align="center" border="0" cellpadding="0" cellspacing="7">
-        <tbody><tr>
-            <td>
-                <a href="https://www.facebook.com/TaxResources" target="_blank">
-                    <img src="/content/Images/facebook-icon.jpg" title="Like us on Facebook" alt="Like us on Facebook" border="0">
-                </a>
-            </td>
-            <td>
-                <a href="https://www.twitter.com/taxresources" target="_blank">
-                    <img src="/content/Images/twitter_icon.jpg" title="Follow us on Twitter" alt="Follow us on Twitter" border="0">
-                </a>
-            </td>
-        </tr>
-    </tbody></table>
-</div>
-
-		</div>
-
-		
-		
-        <div class="layoutBottom">&nbsp;</div>
-	</div>
-	
-
-<!--div id="modalBkgrnd" class="modalBackground" href="javascript:void(0);" onclick="CloseModalWindow();"></div-->
-<div id="modalBkgrnd" class="modalBackground"></div>
-
-<div id="modalContent" class="modalContent">
-	<div id="modalTitle" class="modalTitle">Modal Window</div>
-	<a href="javascript:ConfirmToQuit();">
-		<img src="/Content/Images/Cancel_X_BTN_light.png" border="0" alt="Close" class="modalClose">
-	</a>
-	<iframe id="modalIFrame" class="modalIFrame" scrolling="no" frameborder="0"></iframe>
-</div>
+                <ul id="company-information">
+                    <li>Copyright © 1998-2013 TaxResources, Inc. All Rights Reserved</li>
+                    <li>TaxResources, Inc.   7803 Madison Ave   Suite A-100   Citrus Heights, CA 95610</li>
+                    <li>Phone 800.922.8348</li>
+                    <li>Fax 800.838.9114</li>
+                </ul>
+            </div>
+         </footer>        
+    </div>
 
 
-</div>
-
-
-
-<div id="tooltip" style="display: none;"><h3></h3><div class="body"></div><div class="url"></div></div></body></html>
+</body></html>
