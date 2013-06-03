@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the themillionaireos.com privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227075944id_/http%3A//themillionaireos.com//pr) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the themillionaireos.com privacy policy that was archived on 2013-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603032234id_/http%3A//themillionaireos.com//pr) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <base href="http://themillionaireos.com/">
@@ -18,7 +18,7 @@
 <script type="text/javascript">
 		$(function () {
 		if($("#MemGroupDP")){
-			$("#MemGroupDP").selectbox();
+			//$("#MemGroupDP").selectbox();
 			}
 		});
 </script>
@@ -28,9 +28,9 @@
 <script type="text/javascript" src="http://themillionaireos.com//javascript/SetCookies.js"></script> 
 
 <!-- Test optin box scrits starts -->
-<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
+<link href="/css/jquery-ui.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="http://themillionaireos.com//css/test_optin.css" media="screen">
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script src="/javascript/jquery-ui.min.js"></script>
 <script type="text/javascript" src="http://themillionaireos.com//javascript/test_optin.js"></script>
 <!-- Test optin box scripts end -->
 
@@ -256,7 +256,7 @@ function submitForm(form){
 	var inf_custom_ttrackingcode = '';
 	var is_cookie_affcode = '';
 	var custom_site_url="pr";
-	var AweberList = "mos_co-op_lam";
+	var AweberList = "default2826165";
 	var test_flag=0;
 	var formobj = oFormObject = document.forms[form];
 	var inf_field_leadprogram = '';
@@ -349,9 +349,23 @@ function submitForm(form){
 	cookieEnabled = "0";
 	}
 	
-	var button_height = parseInt($('#submit_image').height());
-	$('#submit_image').html('<span style="color:#666666" id="loading"><img src="assets/images/ajax-loader.gif" class="loading_image"> <b>Please wait...</b></span>');
-	$('#submit_image').css({'height':button_height});
+	// for second Optin Form
+	var two_button = 0;
+	if(form == 'infusionform'){
+		if(document.getElementById('submit_image_two')){
+			var button_height = parseInt($('#submit_image_two').height());
+			$('#submit_image_two').html('<span style="color:#666666" id="loading"><img src="assets/images/ajax-loader.gif" class="loading_image"> <b>Please wait...</b></span>');
+			$('#submit_image_two').css({'height':button_height});
+			two_button = 1;
+		}	
+	}
+	
+	if(two_button == 0){
+		var button_height = parseInt($('#submit_image').height());
+		$('#submit_image').html('<span style="color:#666666" id="loading"><img src="assets/images/ajax-loader.gif" class="loading_image"> <b>Please wait...</b></span>');
+		$('#submit_image').css({'height':button_height});
+	}
+	
 	
 	//alert(t);
 	$.post("try_infusionsoft_form.php", { inf_field_FirstName: inf_field_FirstName, inf_field_Email: inf_field_Email,inf_custom_conversionpage:inf_custom_conversionpage,inf_field_Phone1:inf_field_Phone1,p:inf_field_leadprogram,inf_field_affcode:inf_field_affcode, AwebList: AweberList, SplitPage:'A',t:t, track_visit_list:'', custom_site_url:custom_site_url, inf_custom_ttrackingcode:inf_custom_ttrackingcode, is_cookie_affcode:cookie_aff_code, cookie_rc_code:cookie_rc_code, cookie_aid_code:cookie_aid_code, cookie_sid_code:cookie_sid_code, cookie_ssid_code:cookie_ssid_code,FollowupEmail_check:FollowupEmail_check,cookieEnabled:cookieEnabled}, function(data) {
@@ -378,6 +392,59 @@ function updatedTrianingPhase(action,PageID){
 		 //alert( "Data Saved: " + msg );
 	   }
 	 });}	
+	 
+/*30 partial page javascript*/
+function updatedTrianingPhase30Partial(action,PageID){
+   if ($('#PartialcheckeCompleted_Checkbox').attr('checked')) {
+		action = "Add";
+		checkval=1;
+	}else{
+		action = "Remove";
+		checkval=0;
+	}
+	$.ajax({
+	   type: "POST",
+	   url: "update_partial30.php",
+	   data: "PageID="+PageID+"&Partialcheckstatus="+checkval+"&LogedInMember=&action="+action,
+	   success: function(msg){
+	   if(msg != '' && msg == 'done'){
+			window.location.href = '/30-day-fast-start';
+	   }
+		//return true;
+		 //alert( "Data Saved: " + msg );
+	   }
+	 });}	
+	 
+function SaveTraningNotes(action,PageID){ 
+ var notesval=$('#MyNotesTrain').val();
+$.ajax({
+	   type: "POST",
+	   url: "update_partial30.php",
+	   data: "PageID="+PageID+"&Notes="+notesval+"&LogedInMember=&action="+action,
+	   success: function(msg){
+	    $('#smsgs').text('Saved Successfully!');
+		 $("td#smsgs").show();
+		 if($.trim(notesval) != ''){
+		 	$('#PartialcheckeCompleted_Checkbox').removeAttr('disabled');
+		 }else if($.trim(notesval) == ''){
+		 	$('#PartialcheckeCompleted_Checkbox').attr('disabled', true);
+		 }
+		 return true;
+		
+		 //alert( "Data Saved: " + msg );
+	   }
+	 });
+	 
+		setTimeout(function(){
+		$("td#smsgs").fadeOut("slow", function () {
+		$("td#smsgs").hide();
+		});
+		
+		}, 5000);
+}
+
+//end
+	 
 function replaceV1 () {
  var titletext = document.title;
 
@@ -713,9 +780,9 @@ background-repeat:no-repeat;
 
 
 		
-<link rel="stylesheet" type="text/css" href="http://themillionaireos.com/themes/site/css/layout.css?m=1356522255">
-<link rel="stylesheet" type="text/css" href="http://themillionaireos.com/themes/site/css/typography.css?m=1347406987">
-<link rel="stylesheet" type="text/css" href="http://themillionaireos.com/themes/site/css/form.css?m=1351330151">
+<link rel="stylesheet" type="text/css" href="http://themillionaireos.com/themes/site/css/layout.css?m=1363779770">
+<link rel="stylesheet" type="text/css" href="http://themillionaireos.com/themes/site/css/typography.css?m=1363779770">
+<link rel="stylesheet" type="text/css" href="http://themillionaireos.com/themes/site/css/form.css?m=1363779770">
 </head><body>
 
 
@@ -812,6 +879,7 @@ color: #000000;
 .typography ol {
 	margin: 0px 2px 5px 0px;
 	color:#333333;
+	
 }
 
 .typography li {
@@ -819,12 +887,12 @@ margin: 0px 0px 0px 5px;
 	
 	line-height: 1.2em;
 	font-size: 1.0em;
-	list-style: url(assets/Themes/MillionaireOSMainNoWMI/enterprise/bullet.png);
-	vertical-align: top;
+	vertical-align: bottom;
 }
 .typography ul li {
 	margin: 0px 0px 0px 5px;
 	font-size: 1.0em;
+	list-style: url(assets/Themes/MillionaireOSMainNoWMI/enterprise/bullet.png);
 }
 </style>
 
@@ -919,7 +987,7 @@ glaweblist = "";
 pgaweblist = "";
 glaweblist = "";
 
-aweblist = "mos_co-op_lam";
+aweblist = "default2826165";
  
 
 aweblistic = "specialid:"+aweblist;
@@ -929,7 +997,7 @@ glconvpageurl = "";
 pgconvpageurl = "";
 pgformbtnimage = "";
 glconvpageurl = "";
-pgconvpageurl = "https://220co.infusionsoft.com/go/mos_thankyou/a2870";
+pgconvpageurl = "https://220co.infusionsoft.com/go/mos_thankyou/a5350";
 if(pgconvpageurl == ""){
    if(glconvpageurl == ""){
      convpageurl = "Default hardcoded if any";
@@ -937,7 +1005,7 @@ if(pgconvpageurl == ""){
   convpageurl = "http://themillionaireos.com///?stage=";
    }
 } else {
- convpageurl = "http://themillionaireos.com//https://220co.infusionsoft.com/go/mos_thankyou/a2870/?stage=";
+ convpageurl = "http://themillionaireos.com//https://220co.infusionsoft.com/go/mos_thankyou/a5350/?stage=";
 }
 
 
@@ -1025,13 +1093,13 @@ if(pgclientid == ""){
 
 glformid = "";
 pgformid = "";
-glformid = "";
+glformid = "zenbox_tab";
 pgformid = "";
 if(pgformid == ""){
    if(glformid == ""){
      formid = "Default hardcoded if any";
  } else  { 
-  formid = "";
+  formid = "zenbox_tab";
    }
 } else {
  formid = "";
@@ -1106,33 +1174,11 @@ return "";
 
 </script>
 <!--End SNE Tracking Script-->
-<link rel="stylesheet" type="text/css" href="assets/Themes/MillionaireOSMain/css/styles.css">
-
-<script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.4/zenbox.js"></script>
-<style type="text/css" media="screen, projection">
-  @import url(//assets.zendesk.com/external/zenbox/v2.4/zenbox.css);
-</style>
-<script type="text/javascript">
-  if (typeof(Zenbox) !== "undefined") {
-    Zenbox.init({
-      dropboxID:   "20057733",      dropboxID:   "20057733",
-      url:         "https://stevenyhofenterprises.zendesk.com",
-      tabID:       "support",
-      tabColor:    "black",
-      tabPosition: "Right"
-    });
-  }
-</script>
-<style>
-#zenbox_tab {
-    top: 38%;
-}
-</style>
 
 
 
 <style type="text/css">
-#zenbox_tab{display:none !important;}
+#live_support{display:none !important;}
 </style>
 
 
@@ -1253,7 +1299,7 @@ return "";
 				  <tbody><tr>
 					<td width="15"><img src="/assets/System/blank.gif" width="15" height="39"></td>
 					<td><div>	
-							<ul class="sf-menu"><li> <a href="home-page" title="Go to the  page">Home</a></li><li> <a href="learn-more" title="Go to the Learn More page">Learn More</a><ul><li> <a href="about-themillionaireos-com" title="Go to the About TheMillionaireOS.com page" target="_blank">About TheMillionaireOS.com</a></li><li> <a href="video-presentation" title="Go to the  page">Video Presentation</a></li><li> <a href="talk-to-a-coach" title="Go to the Talk To A Coach page" target="_blank">Talk To A Coach</a></li></ul></li><li> <a href="success-stories" title="Go to the Success Stories page">Success Stories</a></li><li> <a href="get-started" title="Go to the Get Started page" target="_blank">Get Started</a></li></ul>
+							<ul class="sf-menu"><li> <a href="home-page" title="Go to the  page">Home</a></li><li> <a href="learn-more" title="Go to the Learn More page">Learn More</a><ul><li> <a href="about-themillionaireos-com" title="Go to the About TheMillionaireOS.com page" target="_blank">About TheMillionaireOS.com</a></li></ul></li><li> <a href="success-stories" title="Go to the Success Stories page">Success Stories</a></li><li> <a href="get-started" title="Go to the Get Started page" target="_blank">Get Started</a></li></ul>
 						</div>
 					</td>
 					<td width="15"><img src="/assets/System/blank.gif" width="15" height="1"></td>
@@ -1349,16 +1395,22 @@ return "";
 <p>Contact us at the address below if you want us to change or delete  any information that we have about you. We will respond to your request  to access, update, or delete your information within ten (10) business  days. Before we are able to provide you with any information, correct  any inaccuracies, or delete any information, however, we may ask you to  verify your identity.</p>
 <p>This website is owned and operated, or operated under agreement, by:<br>The 2:20 Companies, Inc.<br>5773 Woodway, Suite 162<br>Houston, TX 77057.</p>
 <p>This privacy policy is effective as of June 10, 2010.</p>
-<p>&nbsp;</p>
+<p>&nbsp;</p> 
 		
 		
+ 
+
+</div>
 		
-		
-		</div>
-		
+	    
 		
 	
 		</div>
+		
+		<br>
+	<!--latest edit
+	
+	latest edit-->
 
 </div>   
 				   
@@ -1688,7 +1740,7 @@ return "";
           <tbody><tr>
             <td valign="top">
 			
-             <div class="typography"><p style="text-align: center;"><span style="color: #cc99ff;"><span style="font-size: 11px;"><a href="membership-order/" target="_blank">*</a><span style="color: #ffffff;">&nbsp; Copyright ©2011 (and beyond) All Rights Reserved. The MillionaireOS™ is</span><a href="membership-order-waived/" target="_blank">*</a><span style="color: #ffffff;">Protected by International Copyright Laws. Reproduction or Duplication  is Strictly Prohibited.&nbsp; </span><a href="membership-order-special/" target="_blank">*</a></span></span><br> <span style="font-size: 10px;"><a href="http://themillionaireos.com//pr/" target="_blank" style="color: #ffffff;">privacy policy</a><span style="color: #ffffff;"> | </span><a href="http://themillionaireos.com/membership-agreement" target="_blank" style="color: #ffffff;">membership agreement</a><span style="color: #ffffff;"> | </span><a href="http://themillionaireos.com//te/" target="_blank" style="color: #ffffff;">terms of use</a></span></p></div>
+             <div class="typography"><p style="text-align: center;"><span style="color: #cc99ff;"><span style="font-size: 11px;"><a href="membership-order/" target="_blank">*</a><span style="color: #ffffff;">&nbsp; Copyright © 2013 &nbsp;All Rights Reserved. The MillionaireOS™ is</span><a href="membership-order-waived/" target="_blank">*</a><span style="color: #ffffff;">Protected by International Copyright Laws. Reproduction or Duplication  is Strictly Prohibited.&nbsp; </span><a href="membership-order-special/" target="_blank">*</a></span></span><br> <span style="font-size: 10px;"><a href="http://themillionaireos.com//pr/" target="_blank" style="color: #ffffff;">privacy policy</a><span style="color: #ffffff;"> | </span><a href="http://themillionaireos.com/membership-agreement" target="_blank" style="color: #ffffff;">membership agreement</a><span style="color: #ffffff;"> | </span><a href="http://themillionaireos.com//te/" target="_blank" style="color: #ffffff;">terms of use</a></span></p></div>
 			 
               </td>
           </tr>
@@ -1793,17 +1845,44 @@ if(tnewac !='' || tnewrc !='')
 
 
 
-<script>
+<script type="text/javascript">
 flowplayer("a.myPlayer", "/javascript/flowplayer-3.2.2.swf", {	
 
+});
+</script>
+
+<script type="text/javascript">
+$("#emailsend").click(function(){
+	if(confirm("Do you really want to proceed?")){
+		$("#emailsend").attr("disabled", "disabled");
+		$("#emailsend").val("Please Wait...");
+		var name = '';
+		var email= '';
+		
+		$.ajax({
+		url:"wizard/updateTables.php",
+		type:"POST",
+		data:"hubOpus_MarketingMail=true&name="+name+"&email="+email,
+		success:function(data){
+			 if(data == "done"){
+			  //$("#msgShow").show();
+			  //$("#msgShow").fadeOut(4000);
+			   $("#emailsend").val("Your request has been sent successfully.");
+			 }
+			 if(data =="failed"){
+				 $("#emailsend").val("There was an Error! Please try again after sometime.");
+			 }
+		}
+		});
+	} 
 });
 </script>
 
 <script type="text/javascript"> 
 	$("#resend_hubopus_email").click(function(){
        
-			var name= $("#m_name").val();
-			var email= $("#m_email").val();
+			var name= '';
+			var email= '';
 			
 			$.ajax({
 				url:"wizard/updateTables.php",
