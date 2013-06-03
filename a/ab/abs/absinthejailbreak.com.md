@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absinthejailbreak.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130035604id_/http%3A//absinthejailbreak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absinthejailbreak.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603114334id_/http%3A//absinthejailbreak.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Absinthe Jailbreak.com
 
