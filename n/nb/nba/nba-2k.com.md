@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the nba-2k.com privacy policy that was archived on 2012-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120718213135id_/http%3A//nba-2k.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nba-2k.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604015930id_/http%3A//nbasky.com/privacy) for the most accurate reproduction.*
 
-# Privacy - NBA 2K Downloads Center - NBA 2K12 News, Patches & Videos
+# Privacy - NBASky.COM - NBA 2K13 Patches, NBA 2K13 Rosters
 
 ## Privacy
 
-When you visit the NBA-2K.COM web site ("http://nba-2k.com/"), we want you to be assured that we make every effort to respect your personal and financial privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
+When you visit the NBASKY.COM web site ("http://nbasky.com/"), we want you to be assured that we make every effort to respect your personal and financial privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
 The purpose of this policy is to inform you on every aspect of data gathering, why we do it, how we do it and then what we do with it.
 
  **Privacy Notice**
 
-This privacy notice discloses the privacy practices for (nba-2k.com). This privacy notice applies solely to information collected by this web site. It will notify you of the following:
+This privacy notice discloses the privacy practices for (NBASKY.COM). This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
   1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
   2. What choices are available to you regarding the use of your data.
