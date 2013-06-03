@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tarladalal.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530215224id_/http%3A//tarladalal.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tarladalal.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603122933id_/http%3A//tarladalal.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # TarlaDalal.com | Privacy Policy
 
