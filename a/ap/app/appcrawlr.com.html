@@ -1,0 +1,379 @@
+<!--The following is the downloaded HTML source of the appcrawlr.com privacy policy that was archived on 2013-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603190909id_/http%3A//appcrawlr.com/about/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:fb="http://ogp.me/ns/fb#"><head>
+  <title>Privacy</title>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+
+
+    <script type="text/javascript">
+    $().ready(function() {
+        
+        if( $(window).width() >= 1110 )
+            $('.addthis_toolbox').show();
+
+        // Update when user resizes browser.
+        $(window).resize(function() {
+            if( $(window).width() < 1110 ) {
+                $('.addthis_toolbox').hide();
+            } else {
+                $('.addthis_toolbox').show();
+            }
+        });
+        
+
+        $("#q").fieldtag({markedClass: "appTag"});
+        $("#q").keydown(function (event) {
+            if (event.keyCode == '13') {
+                $(this).closest('form').trigger('submit');
+            }
+        })
+        $("#q").autocomplete({
+            source:'/autoComplete/appAutoComplete',
+            max:4,
+            change:function (event, ui) {
+                if (ui.item) {
+                    if (ui.item.rid) {
+                        $("#forceRestaurantId").val(ui.item.rid);
+                    }
+                } else {
+                    $("#forceRestaurantId").val("");
+                }
+
+            },
+            select:function (event, ui) {
+
+                if (ui.item.url) {
+                    window.location.href = ui.item.url
+                    return
+                }
+
+                if (ui.item.rid) {
+                    $("#forceRestaurantId").val(ui.item.rid);
+                } else {
+                    $("#forceRestaurantId").val("");
+                }
+            }
+        }).data("autocomplete")._renderItem = function (ul, item) {
+//
+            //.append("<a style='width:450px;font-size:.7em;text-align:left'>" +"<img src='" + item.thumb + "' width='30' height='30' style='float:left;margin-right:6px' /> <div>"+ "<div>" + item.name + "</div><div style='color:gray;margin-top:-2px;font-size:.7em'>" + item.cat + " " + "&nbsp;</div></a>")
+            return $("<li></li>")
+                    .data("item.autocomplete", item)
+                    .append("<a style='width:400px;font-size:.7em;text-align:left;padding:3px;'>" + "<img src='" + item.thumb + "' width='30' height='30' style='float:left;margin-right:6px' /> <div>" + item.name + "</div><div style='color:gray;margin-top:-2px;font-size:.7em'>" + item.desc + "&nbsp;"+  "</div></a>")
+
+                //                .append("<a style='width:300px;font-size:.8em;text-align:left'>" + "<img src='" + item.thumb + "' width='30' height='30' style='float:left;margin-right:6px' /> <div>"  + item.label + "</div><div style='color:gray;margin-top:-2px;font-size:.7em'>" + item.desc + "&nbsp;</div></a>")
+                    .appendTo(ul);
+        };
+    });
+    </script>
+    <style type="text/css">
+
+        .addthis_toolbox{
+            z-index: 1 !important;
+        }
+        .checkMain {
+            display: inline;
+           position: relative;
+            width: 12px;
+            margin: 12px auto;
+        }
+        .checkMain label{
+            display: inline;
+            cursor: pointer;
+            position: absolute;
+            width: 12px;
+            height: 12px;
+            top: 0;
+            border-radius: 4px;
+            -webkit-box-shadow: inset 0px 1px 1px white, 0px 1px 3px rgba(0,0,0,0.5);
+            -moz-box-shadow: inset 0px 1px 1px white, 0px 1px 3px rgba(0,0,0,0.5);
+            box-shadow: inset 0px 1px 1px white, 0px 1px 3px rgba(0,0,0,0.5);
+            background: #fcfff4;
+            top: 0;
+            left:0;
+        }
+        input {
+            font-size:1.4em;
+        }
+        input.appTag{
+
+            padding-left: 3px;
+            vertical-align: top;
+            /*height: 25px; *//*width: 190px;*/
+height: 33px;
+            /*font-size: .7em;*/
+            font-size: 14px  !important;
+            font-weight: normal !important;
+            color: #777;
+            text-align: left;
+            font-style: italic;
+
+        }
+    </style>
+    <link rel="stylesheet" href="/css/yaml/basic_layout.css?v=5.0.4" type="text/css">
+    <link rel="stylesheet" href="/css/smoothness/jquery-ui-1.8.1.custom.css?v=5.0.4">
+    <link rel="stylesheet" href="/css/fancybox/jquery.fancybox-1.3.2.css?v=5.0.4" type="text/css" media="screen">
+
+
+    <link rel="stylesheet" href="/css/yaml/clearfix.css?v=5.0.4" type="text/css">
+    <link rel="stylesheet" href="/css/yaml/basic_font.css?v=5.0.4" type="text/css">
+
+
+    <link rel="stylesheet" href="/css/dishtip.css?v=5.0.4" type="text/css">
+    
+  <meta name="layout" content="appLayout">
+    <style type="text/css">
+        body {color:#333}
+    </style>
+
+  
+    
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-37387251-1']);
+    
+    
+
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+    
+    
+
+
+
+    
+    
+
+</head>
+<body>
+
+
+<div id="page" class="clearfix" style="z-index: 100 ">
+
+    <div id="page-fixedwidth-960" class="clearfix" style="background-color: white;width:980px;">
+
+
+
+
+
+
+        <div id="topRow" class="clearfix" style="text-align:left;background-color: #af2400;background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(175, 36, 0, 0.979412)), to(rgba(175, 65, 0, 0.979412)));;border-bottom: #f1d0d0 solid 1px;height:85px;border-radius:0 0 10px 10px ;">
+
+
+
+            
+
+            
+
+            <form action="/app/search" method="get">
+                <div class="clearfix" style="padding-left:20px;padding-top: 6px;">
+
+
+
+                <div style="float:right;color:white;font-size:.9em;padding-top: 1px;margin-right: 10px;" class="wlink">
+
+
+
+                
+                <div style="text-align: right;margin-top: 4px">
+                <a href="/app/ideas" params="{}">need ideas?</a>
+                </div>
+
+                </div>
+                    <div style="position:relative;float:left;color:white;font-weight: bold;font-size:29px;font-family: Verdana" class="wlink">
+
+                        <div style="position: absolute;width:250px;top:5px;">
+                            <a href="/">AppCrawlr</a>
+                            <span style="position:absolute;font-size:12px;;margin-top:20px;">beta</span>
+
+
+                               
+
+
+                                <div style="margin-top:8px;font-size:9px;font-weight: normal;color:rgb(255,218,72)"> The  most relevant  search engine for apps.</div>
+                                
+                            
+                        </div>
+                    </div>
+                    
+                    <div style="margin-left: 200px;padding-left: 50px;padding-top: 16px;">
+                    <div>
+
+
+
+
+                        <input type="text" value="" id="q" name="q" style="height:28px;width:450px;border-radius: 7px;padding-left: 5px;" title="Search on anything — puzzle game, turn based, wasting time..."> <input type="submit" style="color:#80504f;border-radius:6px;font-size:1.1em;margin-top:4px;margin-left: -48px" name="go" value="go" id="go">
+                        <div style="margin-left:135px;color:white;font-size: .7em;padding-top: 0px;vertical-align: text-top;color:#fbf6c7;background-color: rgba(120,72,13,0.20);width:190px;border-radius: 0 0 4px 4px;padding:0 4px 2px 4px ">
+                        
+                        <div class="checkMain"><input type="checkbox" id="iPhoneChk" name="device" value="iphone"><span style="vertical-align: middle;">iPhone</span></div>
+                        <div class="checkMain"><input type="checkbox" id="iPadChk" name="device" value="ipad"><span style="vertical-align: middle;">iPad</span></div>
+                        <div class="checkMain"><input type="checkbox" id="androidChk" name="device" value="android"><span style="vertical-align: middle;">android</span></div>
+
+                        </div>
+                    </div>
+
+
+
+
+
+
+
+
+                   
+                    
+
+                </div>
+            
+
+
+        </div></form>
+
+        <div id="mainBody" style="text-align: left;min-height: 600px">
+        
+<div style="margin:30px;margin-right:200px;font-size:.9em">
+<p>This Privacy Statement ("Statement") describes the personal information we collect through our websites and mobile applications (the "Site"), and how we collect and use it. The terms "we", "us", and "AppCrawlr" refer to appcrawlr.com, a website owned by TipSense, LLC.</p>
+<h3>Information We Collect and How We Use It</h3>
+<p><i>Account information</i>. We may ask for and store information about you when you create an account on the Site, such as your name, email address, and signup location.
+In the future, you may be able to login with OpenId or Facebook accounts to make the appcrawlr registration process easier.
+We use your name and email to create your account and potentially other attributes you share to customize your appcrawlr profile.
+We value your privacy and will not sell or redistribute your personal information.  
+
+</p>
+  <p><i>Public content</i>: You may contribute content to the Site.  We may store these contributions ("public content")
+  
+  </p>
+  <p><i>Activity and log data</i>. We automatically store information related to your use of the
+Site, such as the pages you view on the Site. We may use this type of
+information to administer the Site and provide a better experience.
+  </p>
+  <p>
+    <i>Cookies</i>. We send cookies to your computer in order to improve the quality of our service.
+  "Cookies" refer to small pieces of information
+that a website sends to your computer's hard drive while you are viewing the Site.
+  </p>
+  <p><i>Feedback</i>. You should feel free to give us <a href="mailto:contact@appcrawlr.com">feedback</a>, register a complaint, or ask questions
+about the Site. We may store your communications, including any personal information
+you include in them, so that we can effectively respond to you.</p>
+
+  <h3>Transfer of Information</h3>
+  <p><i>Public Content</i>.
+  If you post content for public view on the Site, we may distribute such Public Content to a wider audience by sharing it (or portions of it) with third parties so that they can publish it on their own websites and media platforms.</p>
+  <p><i>Business transfers</i>. If another company acquires our company or all or substantially all of our assets, that company will possess your information, and will assume the rights and obligations with respect to that information as described in this Statement.</p>
+
+  <h3>Links</h3>
+  <p>
+The Site may link to third party websites with which we have no affiliation.</p>
+
+      <h3>Children Under 13 Policy</h3>
+  <p>The Site is intended for general audiences and is not directed to children under 13. We do
+not knowingly collect personal information from children under 13. If you become aware
+that your child has provided us with personal information without your consent, please
+contact us. If we become aware that a child under 13 has provided us with personal
+information without parental consent, we take steps to remove such information and
+terminate the child's account.
+  </p>
+
+   <h3>Modifications to the Privacy Policy</h3>
+
+  <p>We may revise this Statement from time to time. The most current version of the Statement will govern our use of your information and is located
+   <a href="/about/privacy">here</a>.
+  </p>
+
+
+  </div>
+
+
+        </div>
+        <br clear="all">
+        <div id="footer" style="height:68px;margin-top: 25px;" class="clearfix">
+
+            <div>
+                <div class="boldlinks">
+                    <a href="/app/about">About</a> |
+                    <a href="/app/technology">TipSense</a> |
+                    <a href="http://dishtip.com">DishTip</a> |
+                    <a href="/app/news">In the News</a> |
+                    
+
+                    
+                    <a href="mailto:contact@appcrawlr.com">Contact</a> |
+                    <a href="/about/tos">TOS</a> |
+                    <a href="/about/privacy">Privacy</a>
+
+                </div>
+            </div>
+
+
+            <div style="font-size:0.8em;margin-top:15px;" class="morecities">
+
+                Support us:
+                <a class="addthis_button_facebook_like" fb:like:layout="button_count" addthis:url="http://appcrawlr.com"></a>
+                &nbsp;
+                &nbsp;
+                &nbsp;
+                <a class="addthis_button_google_plusone" g:plusone:size="medium" addthis:url="http://appcrawlr.com"></a>
+                <a class="addthis_button_twitter_follow_native" tw:screen_name="appcrawlr" tw:count="horizontal" tf:size="medium" tf:show-count="false" tf:show-screen-name="true"> </a>
+
+
+
+
+                
+            </div>
+            <div style="font-size:.8em;margin-top:15px">©2010-2013 TipSense, LLC</div>
+
+        </div>
+
+
+        <div style="padding:10px">&nbsp;</div>
+
+    </div>
+        <!-- AddThis Button BEGIN -->
+        
+
+        <div class="addthis_toolbox addthis_floating_style addthis_counter_style" style="left:0px;top:30px;z-index: 1 ;display: none">
+
+        
+
+        
+
+
+      
+
+    </div>
+
+
+
+        <script type="text/javascript">var addthis_config = {"data_track_addressbar":false,"data_track_clickback":false,"data_ga_tracker":false,"data_ga_property":"UA-37387251-1",data_ga_social :true};</script>
+        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e729b522e46185f"></script>
+        <!-- AddThis Button END -->
+
+<script type="text/javascript" src="/js/jquery/plugins/jquery.fieldtag.js?v=5.0.4"></script>
+<script type="text/javascript" src="/js/jquery/jquery.eTruncate.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.hoverIntent.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.cluetip.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery-ui-1.8.5.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.fancybox-1.3.2.pack.js"></script>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+    var sc_project=8588207;
+    var sc_invisible=1;
+    var sc_security="dbe6023f";
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript><div id="statcounter"><img src="http://c.statcounter.com/8588207/0/dbe6023f/1/" width="0"/></div></noscript>
+<!-- End of StatCounter Code -->
+
+
+
+
+</div></div></body></html>
