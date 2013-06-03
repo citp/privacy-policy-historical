@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netfirms.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223045225id_/http%3A//www2.netfirms.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netfirms.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603234614id_/https%3A//www.netfirms.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Netfirms' Privacy Policy
 
@@ -80,4 +80,4 @@ Please note: Netfirms reserves the right to send you email communications that r
 
 
 
-This file was last modified December 10, 2012. [View comparison version.](https://web.archive.org/web/20121223045225id_/http%3A//www2.netfirms.com/legal/legal_privacy.bml?showchanges=1)
+This file was last modified December 10, 2012. [View comparison version.](https://web.archive.org/web/20130603234614id_/https%3A//www.netfirms.com/legal/legal_privacy.bml?showchanges=1)
