@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the 100daychallenge.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118204700id_/http%3A//www.100daychallenge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100daychallenge.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604010101id_/http%3A//100daychallenge.com/home-april/privacy-policy.shtml) for the most accurate reproduction.*
 
-# 100 Day Challenge® | Privacy Policy
+# 100 Day Challenge
+
+## Privacy Policy
 
 Your privacy is very important to us. We want to make your experience with us as enjoyable and rewarding as possible, and we want you to use our vast array of information, tools, and opportunities with complete confidence.
 
-## What information does GoalsGuy Learning Systems, LLC. collect from our users and how do we collect it?
+#### What information does GoalsGuy Learning Systems, LLC collect from our users and how do we collect it?
 
 GoalsGuy Learning Systems, LLC. only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. GoalsGuy Learning Systems, LLC. collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive our free newsletters and name, postal address, and credit card information when purchasing our products. All of this information is provided to us by you.
 
-## How do we use this information?
+#### How do we use this information?
 
 This information is used for internal marketing purposes only. GoalsGuy Learning Systems, LLC. does not sell, exchange, or release your personal information (name, e-mail address, mailing address, credit data, etc.) Your information is not shared with any other third party or company outside of billing and shipping purposes.
 
-## What are cookies/clear GIFs and how do we use them?
+#### What are cookies/clear GIFs and how do we use them?
 
 Cookies: Like many other commercial sites, our Site utilizes standard technologies called “cookies” and clear GIFs to collect information about how our Site is used. A cookie is a small data text file, which a website stores on your computer’s hard drive (if your web browser permits) that can later be retrieved to identify you to us. Cookies were designed to help a website recognize a user’s browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot be read by a website other than the one that set the cookie. A cookie cannot pass on a computer virus or capture any of the Personally Identifiable Information that resides on your computer.
 
@@ -20,15 +22,15 @@ Clear GIFs: At times, we work with third-party service partners that employ clea
 
 Clear GIFs can “work with” existing cookies on a computer if they are both from the same website or advertising company. That means, for example, that if a person visited “www.companyX.com”, which uses an advertising company’s clear GIF, the website would match the clear GIFs identifier and the advertising company’s cookie ID number, to show the past online behavior for that computer. This collected information can be shared with the advertising company. We do, at times, provide such information to our third-party advertising service partners, but that information can only be used by our partner for our benefit and never includes personally identifiable information.
 
-## How do we store your information?
+#### How do we store your information?
 
 Your information is stored at the list server that delivers GoalsGuy Learning Systems, LLC. newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive GoalsGuy Learning Systems, LLC’s newsletters.
 
 All of the newsletters that are sent to you by GoalsGuy Learning Systems, LLC. include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also contact our [help desk](http://www.goalsguyhelpdesk.com/Support/) to change your information at any time.
 
-## Disclaimer
+#### Disclaimer
 
-This policy may be changed at any time at GoalsGuy Learning Systems, LLC.’s discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised July 12, 2011.
+This policy may be changed at any time at GoalsGuy Learning Systems, LLC.’s discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised September 1, 2012.
 
 If you have any questions or concerns regarding our privacy policy please direct them to our [help desk](http://www.goalsguyhelpdesk.com/Support/). You may also send a letter to:
 
