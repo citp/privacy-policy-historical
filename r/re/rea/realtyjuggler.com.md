@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtyjuggler.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003041407id_/http%3A//realtyjuggler.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyjuggler.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603095646id_/http%3A//realtyjuggler.com/Privacy) for the most accurate reproduction.*
 
 # RealtyJuggler Real Estate Software Privacy Policy
 
@@ -14,7 +14,7 @@ RealOrganized, Inc. is the sole owner of the information collected on RealOrgani
 • We do not work with companies who engage in advertising through spyware, hidden ad-supported downloads or similar activities. 
 
 **Registration**  
-In order to license products or subscriptions from our web site, you must first complete the registration form.  The information collected includes name, email address, phone number and credit card number.  This information is used for the sole purpose of providing products and services which you have purchased and follow-up support for those products. Registration is transmitted over the Internet using SSL, the most powerful encryption available for commercial transactions today.
+In order to license products or Memberships from our web site, you must first complete the registration form.  The information collected includes name, email address, phone number and credit card number.  This information is used for the sole purpose of providing products and services which you have purchased and follow-up support for those products. Registration is transmitted over the Internet using SSL, the most powerful encryption available for commercial transactions today.
 
 **Contact Us Form**  
 In order to request sales and technical support, customers need to fill out a Contact Us form. The information collected includes name and email address. Supplying a phone number is considered optional. This information is only used to provides sales and technical support for RealOrganized, Inc. products and services.
@@ -26,7 +26,7 @@ Our customers use RealOrganized, Inc. software and services to organize and stor
 All personally identifiable information RealOrganized, Inc. collects on a customer is available for viewing and editing by our customer by accessing their profile. You can edit or delete your Account Information at any time from our web site by signing in and changing your profile.
 
 **Data Retention**  
-RealOrganized, Inc. retains all sales and account information indefinitely. This information is used for accounting and tax purposes. Customer Private Information is retained for a minimum of six months after a subscription has been cancelled or deactivated. This is to permit reactivation of the account by the customer at a later date. Customer Private Information can be explicitly destroyed at any time by the customer by contacting RealOrganized, Inc. and requesting that your account be deleted.
+RealOrganized, Inc. retains all sales and account information indefinitely. This information is used for accounting and tax purposes. Customer Private Information is retained for a minimum of six months after a Membership has been cancelled or deactivated. This is to permit reactivation of the account by the customer at a later date. Customer Private Information can be explicitly destroyed at any time by the customer by contacting RealOrganized, Inc. and requesting that your account be deleted.
 
 **Email**  
 We may send you an email periodically about important upgrades to products that you own or have made enquiries about. Email's which are considered essential for transacting business with RealOrganized, Inc. cannot be unsubscribed to. For example, notification of a purchase will always be sent to a customer. RealOrganized, Inc. does not make available your Email address to third parties, except as required to complete a transaction.
