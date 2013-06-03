@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warcraftpets.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203193352id_/http%3A//www.warcraftpets.com/community/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warcraftpets.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604013035id_/http%3A//www.warcraftpets.com/community/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - WarcraftPets.com
 
