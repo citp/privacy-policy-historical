@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agaccess.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115145552id_/http%3A//agaccess.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agaccess.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603114548id_/http%3A//agaccess.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement « AgAccess
 
