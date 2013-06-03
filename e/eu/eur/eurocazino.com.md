@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eurocazino.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227113756id_/http%3A//eurocazino.com/privacy.php%3Fid%3D0%26lang%3Duk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocazino.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603162800id_/http%3A//eurocazino.com/privacy.php%3Fid%3D0%26lang%3Duk) for the most accurate reproduction.*
 
 # Privacy policy of our Online Casino. Description of security and cashouts rules
 
 |  |    |   
 ---|---  
-**[**Keno Slot Machine**](http://games.eurocazino.com/games/play.php?id=0&game=keno)  
+**[**Cops'n Robbers Slot Machine**](http://games.eurocazino.com/games/play.php?id=0&game=copsnrobbers2)  
 ** **    |   
 ---|---  
    |   
@@ -34,10 +34,10 @@ This site has security measures to protect against the loss, misuse and alterati
 
 |  |  |    |   
 ---|---  
-**[Jokers 4 Reel Gambling Machine](http://games.eurocazino.com/games/play.php?id=0&game=jokers4reel)**  
+**[Roman Palace Gambling Machine](http://games.eurocazino.com/games/play.php?id=0&game=romanpalace)**  
 
 
-[](http://games.eurocazino.com/games/play.php?id=0&game=jokers4reel)
+[](http://games.eurocazino.com/games/play.php?id=0&game=romanpalace)
 
    |   
 ---|---  
