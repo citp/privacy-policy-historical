@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techcity.pk privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919215127id_/http%3A//techcity.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techcity.pk privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603034024id_/http%3A//techcity.pk/privacy.php) for the most accurate reproduction.*
 
-# TechCity.pk - htc, nokia, ipad, watch, tablet, t-shirt
+# Privacy Policy
 
 **What information do we collect?**
 
