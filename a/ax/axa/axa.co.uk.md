@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the axa.co.uk privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122040129id_/http%3A//www.axa.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axa.co.uk privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603081216id_/http%3A//www.axa.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement - AXA
+# Privacy Policy | AXA UK
 
 AXA UK plc (“AXA UK”) is part of the AXA Group of companies, which take your privacy very seriously. This  Privacy Policy  tells you, in broad terms, how we use personal information that we collect from your use of the domain http://www.axa.co.uk (the ” **Website** ”) and all sub-domains of  the Website.
 
@@ -22,7 +22,7 @@ AXA UK uses cookies and tracking software to monitor customer traffic patterns a
 
  Should you wish to refuse to accept cookies or  restrict the data that we collect through our tracking software, you can alter your cookies setting in your browser. However, if you choose to alter your cookies setting in your browser you may be unable to access parts of the Website.
 
-More detailed information on the cookies we store and their use can be found on our [cookie policy](https://web.archive.org/cookie-policy "Cookie policy") page.
+More detailed information on the cookies we store and their use can be found on our [cookie policy](https://web.archive.org/Cookie-Information/AXA-UK-cookie-policy/ "cookie policy") page.
 
 ### What Information Do We Collect and How?
 
@@ -99,7 +99,7 @@ AXA Insurance UK plc, trading as AXA Insurance and AXA Solutions, a public compa
 
 Architas Multi-Manager Limited, a private limited company incorporated in England and Wales with company number 06458717 and whose registered office is at 5 Old Broad Street, London, EC2N 1AD.
 
-AXA Portfolio Services Limited, a private limited company incorporated in England and Wales with company number 1128611 and whose registered office is at 5 Old Broad Street, London, EC2N 1AD.
+AXA Portfolio Services Limited, a private limited company incorporated in England and Wales with company number 1128611 and whose registered office is at 5 Old Broad Street, London, EC2N 1AD. AXA Portfolio Services Limited trades as Architas, AXA Self Investor and Architas.
 
 AXA Wealth Services Limited, a private limited company incorporated in England and Wales with company number 02238458 and whose registered office: 5 Old Broad Street, London, EC2N 1AD.
 
@@ -118,5 +118,3 @@ AXA Direct Limited, a private limited company incorporated in England and Wales 
 AXA UK plc  
 Registered Company Number: 02937724  
 Registered Office: 5 Old Broad Street London EC2N 1AD
-
- AXA UK plc is authorised and regulated by the Financial Services Authority firm reference number 201883.
