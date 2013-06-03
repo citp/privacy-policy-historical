@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internet-turbo.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019165915id_/http%3A//www.internet-turbo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet-turbo.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603062732id_/http%3A//www.internet-turbo.com/privacy.html) for the most accurate reproduction.*
 
 # Internet Turbo 2012
 
