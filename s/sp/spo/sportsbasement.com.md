@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbasement.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225051712id_/http%3A//community.sportsbasement.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbasement.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603084108id_/http%3A//www.sportsbasement.com/privacy) for the most accurate reproduction.*
 
 # Basement Buzz » Privacy Policy
 
@@ -31,7 +31,8 @@ We may also collect and share general information about the pages that you visit
 
 As a natural consequence of the development of our company, we could be sold to another company. In the event that we are acquired by another company or a significant portion of our assets is sold to another company, all of the customer information including both financial records and consumer information that we have collected may be transferred to the new company.
 
-[](https://web.archive.org/gift-cards/)
+[](https://web.archive.org/gift-cards/)  
+
 
   
 
@@ -42,15 +43,19 @@ As a natural consequence of the development of our company, we could be sold to 
 
 ### EVENTS
 
-Wednesday, December 26, 2012
+Monday, Jun. 3, 2013
     
-Thursday, December 27, 2012
+Tuesday, Jun. 4, 2013
     
-Friday, December 28, 2012
+Wednesday, Jun. 5, 2013
     
-Sunday, December 30, 2012
+Thursday, Jun. 6, 2013
     
-Monday, December 31, 2012
+Friday, Jun. 7, 2013
+    
+Saturday, Jun. 8, 2013
+    
+Sunday, Jun. 9, 2013
     
 
 
