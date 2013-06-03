@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the le.ac.uk privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919235235id_/http%3A//www.le.ac.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the le.ac.uk privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603042145id_/http%3A//www.le.ac.uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy — University of Leicester
 
@@ -44,4 +44,4 @@ Users may opt out of Google's use of cookies by visiting the Google [advertising
 
 ## Monitoring and Disclosure
 
-Please note that in certain circumstances the University of Leicester may be legally obliged to disclose information or undertake more detailed monitoring under the [Regulation of Investigatory Powers Act 2000](http://www.legislation.gov.uk/ukpga/2000/23/contents).
+Please note that in certain circumstances the University of Leicester may be obliged to disclose information or undertake more detailed monitoring under the [Regulation of Investigatory Powers Act 2000](http://www.legislation.gov.uk/ukpga/2000/23/contents).
