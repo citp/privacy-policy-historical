@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingsoftstore.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016204852id_/http%3A//www.kingsoftstore.com/index.php/company/2923-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingsoftstore.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603041020id_/http%3A//kingsoftstore.com/index.php/company/2923-privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
