@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superfish.com privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924042456id_/http%3A//www.superfish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superfish.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603183226id_/http%3A//superfish.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Superfish Visual Search Technology
 
@@ -10,7 +10,7 @@ By using our services you signify your agreement to the privacy polices describe
 
 ###### Information Collected and Stored by Superfish
 
-Superfish will collect and store certain information that is automatically collected by WindowShopper, such as IP address, the url of the page you are on, download date and any other anonymous information relating to your search and any visit that you may make to a third party website as a result of the Services . In addition, Superfish will collect and store certain information that is provided by its users, such as, email address, name and address, and paypal details. Such information will be kept private by Superfish and is not for public distribution. Superfish will also store bugs hunting information provided regarding the service. This information is for Superfish’s internal use only and will not be distributed under any circumstances. Personal information may be used in several ways:
+Superfish may collect and store certain information that is automatically collected by WindowShopper, such as IP address, browser cookies, the url of the page you are on, download date and any other anonymous information relating to your search and any visit that you may make to a third party website as a result of the Services . In addition, Superfish will collect and store certain information that is provided by its users, such as, email address, name and address, and paypal details. Such information will be kept private by Superfish and is not for public distribution. Superfish will also store bugs hunting information provided regarding the service. This information is for Superfish’s internal use only and will not be distributed under any circumstances. Personal information may be used in several ways:
 
   * To enable us to respond to you or to process, validate, and verify service requests and to perform the requested services;
   * To give our own web site/service designers information useful for developing new features and services that meet our registrants’ needs;
