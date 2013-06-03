@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesale-dress.net privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014075610id_/http%3A//www.wholesale-dress.net/privacy-policy-a614.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesale-dress.net privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603081337id_/http%3A//www.wholesale-dress.net/privacy-policy-a614.html) for the most accurate reproduction.*
 
 # Wholesale article
 
@@ -6,7 +6,7 @@ Wholesale-dress.net respects your privacy and secures your online safety serious
 
  **Wholesale-dress.net Privacy Policy**
 
-Thank you for accessing the website of Wholesale City Co., Ltd. (site address: <http://www.wholesale-dress.net/>). We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice.
+Thank you for accessing the website of HangZhou Wholesale E-commerce Co Ltd ,(site address: <http://www.wholesale-dress.net/>). We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice.
 
 This Privacy Notice explains how we collect, use, and (under certain conditions) disclose your personal information. This Privacy Notice also explains the steps we have taken to secure your personal information. Finally, this Privacy Notice explains your options regarding the collection, use, and disclosure of your personal information. By visiting our Site, you accept the practices described in this Notice.
 
