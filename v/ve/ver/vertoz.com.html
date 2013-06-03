@@ -1,431 +1,254 @@
-<!--The following is the downloaded HTML source of the vertoz.com privacy policy that was archived on 2012-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120601000739id_/http%3A//vertoz.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vertoz.com privacy policy that was archived on 2013-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603180052id_/http%3A//vertoz.com/legal/privacy-policy/index.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/template-sub-inner.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content=" Vertoz is an Ingenious Global Online Advertising Network; offering Innovative Contextual Ads like On-Page Ads,
-On - Footer Ads and On - Text Ads for Advertisers on Various Web, Mobile &amp; Other Inventories of Publishers.">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Privacy Policy</title>
+<meta name="Description" content="Vertoz has its own privacy policy precisely for advertisers, publishers and partners">
+<meta name="Keywords" content="privacy policy,media buying policy,copyright protection,website usage">
+<!-- InstanceEndEditable -->
+<link href="../../favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="../../css/sub-style.css">
+<link rel="stylesheet" type="text/css" href="/fonts/fonts.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="../../js/jquery-latest.js"></script>
+<link rel="stylesheet" type="text/css" href="../../css/domtab.css">
+<script type="text/javascript" src="../../js/domtab.js"></script>
 
-<meta name="keywords" content="ad network, advertising network, contextual network, On-Page Ads, On-Footer Ads, On-Text Ads, Mobile Ads">
-<meta name="rights" content="">
 
-<meta name="language" content="en-GB">
-<meta name="title" content="Vertoz – Contextual advertising network, On-Page Ads, On-Footer Ads, On-Text Ads, Mobile Ads">
-<title>Vertoz – Contextual advertising network, On-Page Ads, On-Footer Ads, On-Text Ads, Mobile Ads</title>
-<link rel="icon" type="image/png" href="images/favicon.ico">
-      
-    
-      
-<link rel="stylesheet" type="text/css" href="style.css">
-<script src="js/jquery.js"></script>
-<script type="text/javascript" src="js/jquery.validate.js"></script>
 <script>
-/*
-This script is identical to the above JavaScript function.
-*/
-var ct = 1;
-var fruits = Array();
-fruits.push(1);
-function new_link()
-{
 	
-	
-	ct++;
-	var div1 = document.createElement('div');
-	div1.id = ct;
-
-	// link to delete extended form elements
-	var delLink = '<div style="text-align:right; margin-right:10px;"><a href="javascript:delIt('+ ct +')">Del</a></div>';
-
-	//div1.innerHTML = document.getElementById('newlinktpl').innerHTML + delLink;
-	var string = "";
-	string +="<div id='newlinktpl' style='display:block'>";
-	string +="<table cellpadding='0' cellspacing='0' border='0'>";
-	string +="<tr>";
-	string +="<td align='left' valign='top'><input type='text' name='websitename_"+ct+"' class='small' style='width:80px;' /></td>";
-	string +="<td align='left' valign='top' style='padding-left:25px;'><input type='text' name='uniquevisitor_"+ct+"'class='small' style='width:80px;' />";
-	string +="</td><td align='left' valign='top' style='padding-left:28px;'><input type='text' name='pageviews_"+ct+"' class='small' style='width:60px;'/></td>";
-	string +="<td align='left' valign='top' style='padding-left:30px;'><input type='text' name='topgeo_"+ct+"_1' class='small' style='width:30px;'/></td>";
-	string +="<td align='left' valign='top' style='padding-left:10px;'><input type='text' name='topgeo_"+ct+"_2' class='small' style='width:30px;'/></td>";
-    string +="<td align='left' valign='top' style='padding-left:10px;'><input type='text' name='topgeo_"+ct+"_3' class='small' style='width:30px;'/></td>";
-	string +="<td align='left' valign='top' style='padding-left:10px;'><input type='text' name='topgeo_"+ct+"_4' class='small' style='width:30px;'/></td>";
-	string +="<td align='left' valign='top' style='padding-left:10px;'><input type='text' name='topgeo_"+ct+"_4' class='small' style='width:30px;'/></td>";
-   string +="</tr>";
-   string +="</table>";
-   string +="</div>";
-	string +="<div style='text-align:right; margin-right:10px;'><a href='javascript:delIt("+ ct +")'>Del</a></div>"
-	fruits.push(ct);
-	//alert(string);
-	
-	//alert(fruits);
-	document.getElementById("finalEntries").value = fruits;
-	div1.innerHTML = string;
-	
-	document.getElementById('newlink').appendChild(div1);
-
-}
-// function to delete the newly added set of elements
-function delIt(eleId)
-{
-	d = document;
-
-	var ele = d.getElementById(eleId);
-
-	var parentEle = d.getElementById('newlink');
-
-	parentEle.removeChild(ele);
-	//ct--;
-	
-	for(var i=0; i<fruits.length; i++) 
-	{
-		if (fruits[i] == eleId)
-		{
-			fruits.splice(i,1);
-			document.getElementById("finalEntries").value = fruits;
-			//alert(fruits);
-			return;
-		}
-		 
-	}
-	
-	
-
-}
-</script>
-<script>
-
-$.validator.addMethod("notContains", function(value) 
-{
-		return (value != "*Company Name:" && value != "*Company URL:" && value != "*Full Name:"  && value != "*Country:"  && value != "*Phone:" && value != "*email@yourcompany.com");
-},'');
-
-function sendValue()
-{
-	$('#captcha').val('');
-	$.post("captcha/index.php",{ sendToValue: '' },
-	 
-	//$.post("captcha/images/image.php",{ sendToValue:''},
-	function(data)
-	{
-		 $('#captchaimage').html(data);
+	$(document).ready(function(){
+			//$(".menus ul li").eq(2).css("line-height", "50px");	// This is for menu highlight in particular page				   
 	});
-}
-
-
-
-$(document).ready(function () 
-{
-  sendValue();
-  /*
-  jQuery.validator.addMethod("notEqualTo",function(value, element, param) 
-  {
- 	return this.optional(element) || value != $(param).val();
- 	},"This has to be different...");
-*/
-
-
-
- $("#subscribe").validate(
-  {
-	  	onfocusout: false,
-                invalidHandler: function(form, validator) {
-                    var errors = validator.numberOfInvalids();
-                    if (errors) 
-					{
-                        validator.errorList[0].element.focus();
-                    }
-                },
+	
+	function showad() {
+		  $("div#adtechsf-on").fadeIn("slow");
+		  document.getElementById("adtechsf-off").style.display='none';
+	  }
 	  
-		rules: {
-			emailaddress:"notContains"
-			
-		
-		},
-		messages: 
-		{
-			companyName: ""
-		}
-	}
-  
-  );
-
-    $("#contactdetail").validate(
-  {
-	  	onfocusout: false,
-                invalidHandler: function(form, validator) {
-                    var errors = validator.numberOfInvalids();
-                    if (errors) 
-					{
-                        validator.errorList[0].element.focus();
-                    }
-                },
-	  
-		rules: {
-			companyName:"notContains",
-			companyURL:"notContains",
-			fullName:"notContains",
-			country:"notContains",
-			phone: "notContains",
-			captcha: 
-			{
-				required: true,
-				remote: "captcha/process.php"
-			}
-		
-		},
-		messages: 
-		{
-			companyName: "",
-			companyURL: "",
-			fullName: "",
-			country: "",
-			phone: "",
-			captcha: ""
-			
-		}
-	}
-  
-  );
-  
-  
-});
-
-</script>
-
-
-<style>
-.black_overlay {
-	display: none;
-	position: absolute;
-	top: 0%;
-	left: 0%;
-	width:100%;
-	height:100%;
-	background:#000;
-	z-index:1001;
-	-moz-opacity: 0.5;
-	opacity:.5;
-	filter: alpha(opacity=5);
-}
-.white_content {
-	display: none;
-	position: absolute;
-	top: 15%;
-	left: 19%;
-	width: 800px;
-	min-height: 350px;
-	background:url(images/vertoz-bg.jpg) top center repeat-y;
-	padding: 16px;
-	z-index:1002;
-	overflow: auto;
-}
-
-
-</style>
-
-<script type="text/javascript" language="javascript">
-
+	  function hidead() {
+		  $("div#adtechsf-off").fadeIn("slow");
+		  document.getElementById("adtechsf-on").style.display='none';
+	  }
 	
+	
+</script> 
+
+</head><body><map name="Map" id="Map">
+      <area shape="circle" coords="285,27,8" onclick="hidead()" style="cursor:pointer;">
+    <area shape="rect" coords="65,145,257,174" href="mailto:bizdev@vertoz.com?subject=Schedule a Meeting at San Francisco">
+</map>
     
-    function show()
-	{
-		document.getElementById('light').style.display='block';
-		document.getElementById('fade').style.display='block';
-	}
+    <map name="Map2" id="Map2">
+        <area shape="circle" coords="282,27,9" onclick="showad()" style="cursor:pointer;">
+      </map>
+
+
+<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-32311938-1']);
+	  _gaq.push(['_trackPageview']);
 	
-	function hide(){
-		document.getElementById('light').style.display='none';
-		document.getElementById('fade').style.display='none';
-	}
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
 	
-	function deleteParentElement(n)
-	{
-n.parentNode.parentNode.removeChild(n.parentNode);
-}
+	</script>
     
-    </script>
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
 
-</head>
+	<!-- InstanceBeginEditable name="Header Area" --><!-- InstanceEndEditable -->
 
-<body>
 
-<div id="light" class="white_content">
-	<table cellpadding="0" cellspacing="0" border="0" align="center" width="739">
-	<tbody><tr>
-    	<td align="right" valign="bottom" height="50"><a onclick="hide()" style="cursor:pointer;"><img src="images/close.png" width="68" height="31" alt="Close"></a></td>
-    </tr>
-	<tr>
-    	<td align="center" valign="middle" height="65" class="bigtxt">Kindly provide us following details, once we receive information,<br>we will get back to you within 24-48 hours, confirming your enrolment. </td>
-    </tr>
-    <tr>
-    	<td align="center" valign="middle" height="25"><b>Note:</b> We would require at least 1 Million Page Views on entire portfolio for eligibility</td>
-    </tr>
-</tbody></table>
-<br>
-<table cellpadding="0" cellspacing="0" border="0" width="604" align="center">
-	<tbody><tr>
-    	<td align="left" valign="top"><img src="images/top-bdr.png" width="604" height="21" alt=" "></td>
-    </tr>
-    <tr>
-    	<td align="left" valign="top" class="middle-bdr">
-        	<b>Personal Information:</b>
-            <form style="margin-top:10px;" action="submit.php" name="contactdetail" id="contactdetail" method="post">
-            	<input type="hidden" id="formaction" name="formaction" value="submitdetail">
-            	<input type="hidden" id="finalEntries" name="finalEntries" value="1">
-            	
-                <input name="emailSubmit" id="emailSubmit" type="text" value="*Email ID:" class="emailsub email" onfocus="if(this.value=='*Email ID:'){ this.value=''};" onblur="if(this.value==''){this.value='*Email ID:'};"><br>
-                 
-                
-                
-                <input name="companyName" id="companyName" type="text" value="*Company Name:" class="company" onfocus="if(this.value=='*Company Name:'){ this.value=''};" onblur="if(this.value==''){this.value='*Company Name:'};"><br>
-                <input name="companyURL" id="companyURL" type="text" value="*Company URL:" class="url" onfocus="if(this.value=='*Company URL:'){ this.value=''};" onblur="if(this.value==''){this.value='*Company URL:'};"><br>
-                <input name="fullName" id="fullName" type="text" value="*Full Name:" class="fname" onfocus="if(this.value=='*Full Name:'){ this.value=''};" onblur="if(this.value==''){this.value='*Full Name:'};"><br>
-                
-                <input name="country" id="country" type="text" value="*Country:" class="country" onfocus="if(this.value=='*Country:'){ this.value=''};" onblur="if(this.value==''){this.value='*Country:'};"><br>
-                
-                <input name="phone" id="phone" type="text" value="*Phone:" class="phone" onfocus="if(this.value=='*Phone:'){ this.value=''};" onblur="if(this.value==''){this.value='*Phone:'};"><br>
-                <br>
-                <b>Website / Application Traffic Information:</b><br>
-                <span style="font-size:12px;">Kindly Provide Monthly Data based on 3 Months Average Traffic Data</span>
-                <br><br>
-                <div style="padding-bottom:5px; width:560px;">
-                <ul class="bullet">
-                	<li class="bullet">Website Name</li>
-                    <li class="bullet bull"> : </li>
-                    <li class="bullet">Unique Visitors</li>
-                    <li class="bullet bull"> : </li>
-                    <li class="bullet">Page Views</li>
-                    <li class="bullet bull"> : </li>
-                    <li class="bullet">Top Geographies</li>
+
+
+<div id="wrapper">
+	<div id="toppart">
+        <div class="toplinks">
+            <ul>
+                <li class="sh"><!-- AddThis Button BEGIN -->
+<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=300&amp;pubid=xa-50977b9852ff65b7">Share</a>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-50977b9852ff65b7"></script>
+<!-- AddThis Button END --></li>
+                <li class="lg"><a href="../../login/index.html">Login</a></li>
+                <li class="su"><a href="http://support.vertoz.com" target="_blank">Support</a></li>
+            </ul>
+            <div class="clear"></div>
+        </div>
+        <div class="mainmenusbg">
+            <div class="logo"><a href="../../"><img src="../../images/logo.png" width="314" height="98" alt="Vertoz"></a></div>
+            <div id="mainMenus">
+                <ul id="newMenu">
+                    <li class="lnk1"><span><a href="../../advertisers/index.html">Advertisers</a></span>
+                        <ul>
+                          <li class="ic-a"><a href="../../advertisers/display-ads/index.html">Display Ads</a></li>
+                          <li class="ic-b"><a href="../../advertisers/mobile-ads/index.html">Mobile Ads</a></li>
+                          <li class="ic-c"><a href="../../advertisers/search-ads-xml/index.html">Search Ads</a></li>
+                        </ul>
+                    </li>
+                    <li class="lnk2"><span><a href="../../publishers/index.html">Publishers</a></span>
+                        <ul>
+                          <li class="ic-a"><a href="../../publishers/display/index.html">Display</a></li>
+                          <li class="ic-b"><a href="../../publishers/mobile/index.html">Mobile</a></li>
+                          <li class="ic-c"><a href="../../publishers/search-xml/index.html">Search</a></li>
+                      </ul>
+                  	</li>
+                    <li><span><a href="../../partners/index.html">Partners</a></span></li>
+                    <li class="lnk3"><span><a href="../../about-us/index.html">About Us</a></span>
+                        <ul>
+                          <li class="ic-a"><a href="../../about-us/profile/index.html">Corporate Profile</a></li>
+                          <li class="ic-b"><a href="../../about-us/management/index.html">Management</a></li>
+                          <li class="ic-c"><a href="../../about-us/core-team/index.html">Team</a></li>
+                      </ul>
+                  </li>
                 </ul>
-                <div style="clear:both; height:0;"></div>
-                </div>
-              <div id="newlink">
-                <table cellpadding="0" cellspacing="0" border="0">
-                	<tbody><tr>
-                    	<td align="left" valign="top"><input type="text" name="websitename_1" class="small" style="width:80px;"></td>
-                        <td align="left" valign="top" style="padding-left:25px;"><input type="text" name="uniquevisitor_1" class="small" style="width:80px;"></td>
-                        <td align="left" valign="top" style="padding-left:28px;"><input type="text" name="pageviews_1" class="small" style="width:60px;"></td>
-                        <td align="left" valign="top" style="padding-left:30px;"><input type="text" name="topgeo_1_1" class="small" style="width:30px;"></td>
-                        <td align="left" valign="top" style="padding-left:10px;"><input type="text" name="topgeo_1_2" class="small" style="width:30px;"></td>
-                        <td align="left" valign="top" style="padding-left:10px;"><input type="text" name="topgeo_1_3" class="small" style="width:30px;"></td>
-                        <td align="left" valign="top" style="padding-left:10px;"><input type="text" name="topgeo_1_4" class="small" style="width:30px;"></td>
-                        <td align="left" valign="top" style="padding-left:10px;"><input type="text" name="topgeo_1_5" class="small" style="width:30px;"></td>
-                    </tr>
-                </tbody></table>
-                <br>
-                </div>
-                <p id="addnew">
-                    <a href="javascript:new_link()"><img src="images/add-more.gif" width="76" height="23" alt="Add More"></a>
-                </p>
-              <br>
-                <b>Human Verification</b><br>
-                <span style="font-size:12px;">To verify you are Human and not some crazy bot, please type in the code you see below</span><br>
-                <table cellpadding="0" cellspacing="0" border="0" style="margin-top:5px;">
-                	<tbody><tr>
-                    	<td align="left" valign="top" width="160">
-                        <a href="javascript:void(0)" onclick="sendValue()" title="Click to refresh image"><span id="captchaimage"></span></a>
-                        
-                		
-                <!-- 
-                        <img src="images/captcha.gif" width="151" height="37" alt="Captcha" />
-                        -->
-                        </td>
-                        <td align="left" valign="top">
-                        
-                        <input type="text" id="captcha" name="captcha" class="captcha">
-                        </td>
-                    </tr>
-                    
-                </tbody></table>
-                <br>
-                <div class="signup"><input type="image" src="images/sign-up-btn.gif"></div>
-            </form>
-            <div id="newlinktpl" style="display:none">
-            	<table cellpadding="0" cellspacing="0" border="0">
-                	<tbody><tr>
-                    	<td align="left" valign="top"><input type="text" name="text" class="small" style="width:80px;"></td>
-                        <td align="left" valign="top" style="padding-left:25px;"><input type="text" name="text" class="small" style="width:80px;"></td>
-                        <td align="left" valign="top" style="padding-left:28px;"><input type="text" name="text" class="small" style="width:60px;"></td>
-                        <td align="left" valign="top" style="padding-left:30px;"><input type="text" name="text" class="small" style="width:30px;"></td>
-                        <td align="left" valign="top" style="padding-left:10px;"><input type="text" name="text" class="small" style="width:30px;"></td>
-                        <td align="left" valign="top" style="padding-left:10px;"><input type="text" name="text" class="small" style="width:30px;"></td>
-                        <td align="left" valign="top" style="padding-left:10px;"><input type="text" name="text" class="small" style="width:30px;"></td>
-                        <td align="left" valign="top" style="padding-left:10px;"><input type="text" name="text" class="small" style="width:30px;"></td>
-                    </tr>
-                </tbody></table>
             </div>
-        </td>
-    </tr>
-    <tr>
-    	<td align="left" valign="top"><img src="images/btm-bdr.png" width="604" height="9" alt=" "></td>
-    </tr>
-</tbody></table>
+        </div>
+    </div>
+	<div class="space"></div>
+    <div class="signup">
+    	<div class="breadcrumb"><script src="../../js/crumb.js" type="text/javascript"></script><div class="mp_backlinks"><a href="/">home</a> &gt; <a href="/web/">web</a> &gt; <a href="/web/20130603180052id_/">20130603180052id </a> &gt; http%3a</div></div>
+      <div class="sgnbtn"><a href="../../signup/index.html"><img src="../../images/signup-btn.png" width="180" height="50" alt="Sign Up"></a></div>
+	</div>
+    <div id="contentareaout">
+    	<!-- InstanceBeginEditable name="Content Area" -->
+        <div id="contentarea">
+            <div id="headtitle">
+                <h1 class="subinner">Privacy Policy</h1>
+            </div>
+            <div class="content">
+            <b>THE FOLLOWING PRIVACY STATEMENT DETAILS THE VERTOZ PLEDGE TO KEEPING YOUR INFORMATION PRIVATE.</b>
+            <br><br>
+            Any questions in regards to Vertoz privacy practices should be sent via email to <a href="mailto:legal@vertoz.com">legal@vertoz.com</a>.
+            <br><br>
+            <h2 class="h2mg">What type of information does Vertoz collect?</h2>
+Vertoz utilizes the cookie feature of your browser. Cookies, on their own, can't be used to identify you. The cookie feature of your browser can be turned off, simply locate your browser preference options. Keep in mind that disabling the cookie feature will prevent you from participating in certain activities.
+			<br><br>
+            Your IP address helps Vertoz diagnose server problems and helps us administer website functions. IP addresses provide us with geographical information and aggregated information on how visitors utilize Vertoz. By monitoring search queries, access times, and traffic patterns we can determine how to market users and make their experience more enjoyable.
+            <br><br><br>
+            <h2 class="h2mg">What does Vertoz do with my data?</h2>
+            Vertoz only collects data to enhance and personally tailor our website to meet your needs. Personal information that is collected allows us to customize website content and generate targeted advertisements based on your particular preferences. Cookies help us distinguish between individual use7rs, tailor fit homepages, control advertisement frequency, and so on. 
+            <br><br>
+            IP addresses help us diagnose server issues and help us administer Vertoz.com. Without your IP address it would be impossible to keep our services running 24/7, and we want to be here for you around the clock. 
+            <br><br>
+            Every email sent to Vertoz users is to meet your needs. We offer website updates, inform you of new features, allow you to register for special offers and sweepstakes, all for your enjoyment. If at any point these emails become annoying or bothersome, simply click on the link provided to opt out.
+            <br><br>
+            Also note that your email address helps Vertoz respond to any questions you have posed, issues you have encountered, or complaints made. We require your email address so we may address these issues.
+            <br><br><br>
+            <h2 class="h2mg">Who else gets to see my personal information?</h2> 
+            When you request services from our business partners, Vertoz will share your personal information with them, so that you can receive what you have requested. If you have any questions or concerns about Vertoz business partner, you may contact them directly. Vertoz is not responsible for the data collection or privacy practices of business partners. Your personal information may also be shared with Vertoz owned businesses. 
+            <br><br>
+            Your personal information will be shared with an outside party if we have good reason to believe that the law or legal process require it. It is our obligation to protect any rights or property of Vertoz and others associated with our company and website. 
+            <br><br>
+            Targeted advertisements enhance user experience, and so at times we may share specifically non personal information with advertisers, so that they may present you with relevant advertisements. Geographical information may be shared along with demographics, but we will never share personally identifiable information.
+            <br><br><br>
+            <h2 class="h2mg">How do I delete my information from Vertoz?</h2>
+            At this current time it is not possible to completely delete your user information from the Vertoz database. If you are concerned with the security of your personal data you can remove the cookie stored on your browser, which will allow the server to perceive you as a new user. In the future you can change your browser setting to not accept cookies. Be aware that removing cookies does prevent you from participating in certain activities.
+            <br><br>
+            We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
+            <br><br><br>
+            <h2 class="h2mg">Will I be notified of a security breach?</h2>
+Vertoz has taken many steps to ensure that your personal information is not made publicly available and that is only accessible to the user who originally entered it. However, in the event of an unlikely security breach, the user will be notified via email immediately.
+			<br><br><br>
+            <h2 class="h2mg">Do linked sites honor your policy?</h2>
+Linked sites are not run or controlled by Vertoz.com. The website does contain many linked sites so that we may offer you additional services and products that we feel you will enjoy. Each linked site is owned by an outside company; therefore, they have established their own polices in respect to privacy. Vertoz won't be held responsible for privacy practices or policies or content of linked sites. Also note that any personal information supplied to an outside advertiser is at your own risk.
+			<br><br><br>
+            <h2 class="h2mg">Will your policy always remain intact?</h2>
+            We cannot guarantee that this policy will always be honored. In the event that Vertoz is bought, or our assets are acquired by another company, user information may be transferred to new ownership. Vertoz will suggest this policy be adapted, but we cannot guarantee it.
+            <br><br><br>
+            <h2 class="h2mg">Vertoz will notify you of changes</h2>
+Vertoz is constantly improving and making additions to our site to provide you with better features and services. As a result, our policies must be continuously revised. Whenever alterations are required, a new revised policy will be posted to this site, along with the date of last revision. It is important to us that you are always up to date with Vertoz policies, so check this site often for information on your privacy.
+			<br><br><br>
+            <h2 class="h2mg">Contacting Vertoz</h2>
+In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives. Please contact them by email at <a href="mailto:legal@vertoz.com">legal@vertoz.com</a>
+			<br><br>
+            <b>Effective since January 2012</b> 
+            </div>
+        </div>
+		<!-- InstanceEndEditable -->
+	</div>
+    
+	<div id="footer">
+   	  <div class="footsearchbox">
+        	<div class="searcont" style="width:264px; text-align:center;"><b>Stay in to know !</b> Sign up for Newsletter</div>
+            <div class="searcont" style="width:430px;">
+            	<form method="POST" name="contactform" action="../../files/newsletter_sub.php" style="display:inline;"> 
+                    <input type="text" name="email" value="Enter your Email ID" class="textbox" onfocus="if(this.value=='Enter your Email ID'){ this.value=''};" onblur="if(this.value==''){this.value='Enter your Email ID'};">
+                    <input type="image" src="../../images/go-btn.gif" alt="Signup">
+                </form>
+			</div>
+            <div class="searcont" style="padding-right:15px;">Follow us on</div>
+            <div class="searcont"><a href="https://www.facebook.com/Vertoz" target="_blank"><img src="../../images/fb-ico.gif" width="16" height="16" alt="Facebook"></a> &nbsp;<a href="http://twitter.com/vertozmedia" target="_blank"><img src="../../images/tw-ico.gif" width="16" height="16" alt="Twitter"></a> &nbsp;<a href="http://www.linkedin.com/company/2501416" target="_blank"><img src="../../images/ln-ico.gif" width="16" height="16" alt="Linked In"></a> &nbsp;<a href="http://www.vertoz.com/blog" target="_blank"><img src="../../images/bl-ico.gif" width="16" height="16" alt="Blog"></a></div>
+		</div>
+      	<div class="footlinks">
+        	<ul>
+            	<li>
+               	  <span><a href="../../advertisers/index.html">Advertisers</a></span><br>
+                    <a href="../../advertisers/display-ads/index.html">Display Ads</a><br>
+                    <a href="../../advertisers/mobile-ads/index.html">Mobile Ads</a><br>
+                    <a href="../../advertisers/search-ads-xml/index.html">Search Ads</a>
+                </li>
+            </ul>
+            <ul>
+            	<li>
+               	  <span><a href="../../publishers/index.html">Publishers</a></span><br>
+                    <a href="../../publishers/display/index.html">Display</a><br>
+                    <a href="../../publishers/mobile/index.html">Mobile</a><br>
+                    <a href="../../publishers/search-xml/index.html">Search</a>
+                </li>
+            </ul>
+        <ul>
+            	<li>
+                	<span><a href="../../partners/index.html">Partners</a></span><br>
+                    <span><a href="../../events/index.html">Events</a></span><br>
+                    <span><a href="../../ad-formats/index.html">Ad Formats</a></span>
+                </li>
+          </ul>
+          <ul>
+           	  <li>
+       	      <span><a href="http://support.vertoz.com" target="_blank">Support</a></span><br>
+                  <a href="http://support.vertoz.com/index.php?/Tickets/Submit" target="_blank">Submit a Ticket</a><br>
+                  <a href="http://support.vertoz.com/index.php?/Knowledgebase/List" target="_blank">Knowledge Base</a>
+              </li>
+          </ul>
+          <ul>
+           	  <li>
+               	<span><a href="../../about-us/index.html">About Us</a></span><br>
+                	<a href="../../about-us/profile/index.html">Corporate Profile</a><br>
+                    <a href="../../about-us/management/index.html">Management</a><br>
+                    <a href="../../about-us/core-team/index.html">Team</a>
+            </li>
+        	</ul>
+            <ul class="none">
+            	<li>
+               	  <span><a href="../index.html">Legal</a></span><br>
+					<a href="../master-service-agreement/index.html">Master Service Agreement</a><br>
+                    <a href="index.html">Privacy Policy</a>
+              </li>
+        </ul>
+      </div>
+      <div class="footbtmtext">
+      	<div class="flt"><b>Vertoz on the Web :</b> <a href="../../">www.vertoz.com</a>  &nbsp; | &nbsp; <b>Email:</b> <a href="mailto:info@vertoz.com">info@vertoz.com</a></div>
+        <div class="frt"><a href="../../signup/index.html">Signup Now</a> | <a href="../../contact-us/index.html">Contact Us</a> | <a href="../../payment-methods/index.html">Payment Methods</a> | <a href="../../glossary/index.html">Glossary</a></div>
+        <div class="clear"></div>
+        <div class="copyr">
+        <script type="text/javascript">
+<!-- Begin
+copyright=new Date();
+update=copyright.getFullYear();
+document.write("Copyright &copy; "+ update + " Vertoz");
+//  End -->
+</script>Copyright © 2020 Vertoz All rights reserved, the Vertoz logo and all other Vertoz marks contained here in are trademarks of  Vertoz</div>
+    </div>
+  </div>
 </div>
-<div id="fade" class="black_overlay" style="min-height:1200px;"></div>
+<div class="eventbtn"><a href="../../events/index.html"><img src="../../images/event-btn.png" width="96" height="95" alt="Events"></a></div>
+<div id="adtechsf-on"><img src="../../images/on.png" width="310" height="232" border="0" usemap="#Map"></div>
+<div id="adtechsf-off"><img src="../../images/off.png" width="310" height="75" border="0" usemap="#Map2"></div>
 
-<table cellpadding="0" cellspacing="0" border="0" align="center" width="739">
-	<tbody><tr>
-    	<td align="left" valign="top"><a href="index.php"><img src="images/vertoz-logo.jpg" width="739" height="174" alt="Vertoz"></a></td>
-    </tr>
-    <tr>
-    	<td align="center" valign="middle" height="60">Vertoz is an Ingenious Global Online Advertising Network; offering Innovative Contextual Ads like On-Page Ads,<br>On - Footer Ads and On - Text Ads for Advertisers on Various Web, Mobile &amp; Other Inventories of Publishers.</td>
-    </tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" border="0" align="center" width="739">
-	<tbody><tr>
-    	<td align="left" valign="top" class="box-a">
-        	<div class="box-b">
-        	<table cellpadding="0" cellspacing="0" border="0" width="100%">
-            	<tbody><tr>
-           		  <td>
-                    	<strong>Privacy Policy</strong><br><br>
-THE FOLLOWING PRIVACY STATEMENT DETAILS THE VERTOZ PLEDGE TO KEEPING YOUR INFORMATION PRIVATE.&nbsp;
-Any questions in regards to Vertoz privacy practices should be sent via email to <a href="legal@vertoz.com" class="twe">legal@vertoz.com </a><br><br>
-<strong>
-What type of information does Vertoz collect?</strong><br><br> 
-Vertoz utilizes the cookie feature of your browser. Cookies, on their own, can't be used to identify you.&nbsp; The cookie feature of your browser can be turned off, simply locate your browser preference options.&nbsp; Keep in mind that disabling the cookie feature will prevent you from participating in certain activities.
-Your IP address helps Vertoz diagnose server problems and helps us administer website functions.&nbsp; IP addresses provide us with geographical information and aggregated information on how visitors utilize Vertoz.&nbsp; By monitoring search queries, access times, and traffic patterns we can determine how to market users and make their experience more enjoyable.<br><br>
-<strong>What does VertHow do I delete my information from Vertoz?oz do with my data?</strong><br><br>
-Vertoz only collects data to enhance and personally tailor our website to meet your needs.&nbsp; Personal information that is collected allows us to customize website content and generate targeted advertisements based on your particular preferences.&nbsp; Cookies help us distinguish between individual users, tailor fit homepages, control advertisement frequency, and so on.&nbsp;
-IP addresses help us diagnose server issues and help us administer Vertoz.com.&nbsp; Without your IP address it would be impossible to keep our services running 24/7, and we want to be here for you around the clock.
-Every email sent to Vertoz users is to meet your needs.&nbsp; We offer website updates, inform you of new features, allow you to register for special offers and sweepstakes, all for your enjoyment.&nbsp; If at any point these emails become annoying or bothersome, simply click on the link provided to opt out.&nbsp;
-Also note that your email address helps Vertoz respond to any questions you have posed, issues you have encountered, or complaints made.&nbsp; We require your email address so we may address these issues.<br><br>
-<strong>Who else gets to see my personal information?</strong><br><br>
-When you request services from our business partners, Vertoz will share your personal information with them, so that you can receive what you have requested.&nbsp; If you have any questions or concerns about Vertoz business partner, you may contact them directly.&nbsp; Vertoz is not responsible for the data collection or privacy practices of business partners.&nbsp; Your personal information may also be shared with Vertoz owned businesses.
-Your personal information will be shared with an outside party if we have good reason to believe that the law or legal process require it.&nbsp; It is our obligation to protect any rights or property of Vertoz and others associated with our company and website.
-Targeted advertisements enhance user experience, and so at times we may share specifically non personal information with advertisers, so that they may present you with relevant advertisements.&nbsp; Geographical information may be shared along with demographics, but we will never share personally identifiable information.<br><br>
-<strong>How do I delete my information from Vertoz?</strong><br><br>
-At this current time it is not possible to completely delete your user information from the Vertoz database.&nbsp; If you are concerned with the security of your personal data you can remove the cookie stored on your browser, which will allow the server to perceive you as a new user.&nbsp; In the future you can change your browser setting to not accept cookies.&nbsp; Be aware that removing cookies does prevent you from participating in certain activities.
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.<br>
-<br> 
-<strong>Will I be notified of a security breach?</strong><br><br>
-Vertoz has taken many steps to ensure that your personal information is not made publicly available and that is only accessible to the user who originally entered it.&nbsp; However, in the event of an unlikely security breach, the user will be notified via email immediately.<br><br>
-<strong>Do linked sites honor your policy?</strong><br><br>
-Linked sites are not run or controlled by Vertoz.com.&nbsp; The website does contain many linked sites so that we may offer you additional services and products that we feel you will enjoy.&nbsp; Each linked site is owned by an outside company; therefore, they have established their own polices in respect to privacy.&nbsp; Vertoz won't be held responsible for privacy practices or policies or content of linked sites.&nbsp; Also note that any personal information supplied to an outside advertiser is at your own risk.<br><br>
-<strong>Will your policy always remain intact?</strong><br><br>
-We cannot guarantee that this policy will always be honored.&nbsp; In the event that Vertoz is bought, or our assets are acquired by another company, user information may be transferred to new ownership.&nbsp; Vertoz will suggest this policy be adapted, but we cannot guarantee it.<br><br>
-<strong>Vertoz will notify you of changes</strong><br><br>
-Vertoz is constantly improving and making additions to our site to provide you with better features and services.&nbsp; As a result, our policies must be continuously revised.&nbsp; Whenever alterations are required, a new revised policy will be posted to this site, along with the date of last revision. &nbsp;It is important to us that you are always up to date with Vertoz policies, so check this site often for information on your privacy.<br><br>
-<strong>Contacting Vertoz</strong><br><br>
-In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives.&nbsp; Please contact them by email at <a href="legal@vertoz.com" class="twe">legal@vertoz.com </a><br>  
-Effective since January 2012
-
-                  </td> 
-                </tr>
-            </tbody></table>
-            </div>
-        </td>
-    </tr>
-    <tr><td align="left" valign="top" class="btm-shad">
-    	<table cellpadding="0" cellspacing="0" width="739">
-        	<tbody><tr>
-            	<td align="left" valign="middle" height="66"><a href="http://facebook.com/vertoz" target="_blank"><img src="images/ico-1.gif" width="27" height="26" alt="Facebook"></a>&nbsp; <a href="http://twitter.com/vertozmedia" target="_blank"><img src="images/ico-2.gif" width="27" height="26" alt="twitter"></a>&nbsp; <a href="http://www.flickr.com/photos/vertoz" target="_blank"><img src="images/ico-3.gif" width="27" height="26" alt="Flicker"></a>&nbsp; <a href="http://blog.vertoz.com" target="_blank"><img src="images/ico-4.gif" width="27" height="26" alt="Blog"></a></td>
-              <td align="left" valign="top" class="copy"><br><a href="privacy.php" class="twe">Privacy Policy</a> |<a href="terms.php" class="twe"> Terms of Use</a><br><br>Copyright © Vertoz 2012.  All Right reserved</td>
-            </tr>
-        </tbody></table>    </td>
-</tr></tbody></table>
-
-
-
+<!-- InstanceEnd -->
 </body></html>
