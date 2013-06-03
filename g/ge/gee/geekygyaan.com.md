@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geekygyaan.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106172915id_/http%3A//www.geekygyaan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekygyaan.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603043431id_/http%3A//www.geekygyaan.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Geeky Gyaan
 
 **Privacy Policy for www.geekygyaan.com**
 
