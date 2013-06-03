@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barfoot.co.nz privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920024332id_/http%3A//barfoot.co.nz/Global/Legal%2520Documents/Privacy%2520Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barfoot.co.nz privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603132515id_/http%3A//barfoot.co.nz/Global/Legal%2520Documents/Privacy%2520Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Barfoot & Thompson Real Estate
 
