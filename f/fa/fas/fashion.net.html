@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fashion.net privacy policy that was archived on 2012-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121129143759id_/http%3A//www.fashion.net/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fashion.net privacy policy that was archived on 2013-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603131557id_/http%3A//www.fashion.net/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -11,12 +11,18 @@
 
 <link rel="stylesheet" type="text/css" href="/includes/fashion.css">
 
-<meta name="viewport" content="width=device-width, scale=1.0, maximum-scale=1.0, user-scalable=no">
+<!-- hide viewport tag from smart phones -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+if (screen && screen.width > 760)
+  document.write('<meta name="viewport" content="width=device-width, scale=1.0, maximum-scale=1.0, user-scalable=no">');
+</script><meta name="viewport" content="width=device-width, scale=1.0, maximum-scale=1.0, user-scalable=no">
+<!-- /hide -->
+
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="format-detection" content="telephone=no">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="http://code.jquery.com/jquery-latest.js"></script>
 
 <!-- description: max characters: 255 -->
 <meta name="description" content="Fashion Net, the leading guide to chic destinations online, attracts millions of fashion-savvy people who come to indulge in a comprehensive collection of individually reviewed and carefully selected sites.">
@@ -80,7 +86,7 @@
 </script> 
 
 <!-- search button -->
-	<script type="text/javascript">
+	<script>
 $(document).ready(function(){
 
 	// search button
@@ -149,7 +155,7 @@ input.button_over {
 
 <div id="left">
 
-<iframe src="http://www.fashion.net/ads/select.modperl?85255365" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="100%" height="100%"></iframe>
+<iframe src="http://www.fashion.net/ads/select.modperl?56778471" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="100%" height="100%"></iframe>
 
 </div> <!-- /left -->
 
@@ -157,19 +163,21 @@ input.button_over {
 
 <div id="contentheader">
 		
+
 <div style="position: absolute; float: right; top: 0; right: 0; margin: 107px 28px 0 0">
-<a href="http://twitter.com/fashiondotnet" class="nohighlight"><img src="/images/fashionnet_twitter.png" border="0" height="21px" width="31px" title="" alt="Twitter" style="outline-style: none"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.facebook.com/fashionnet" class="nohighlight"><img src="/images/fashionnet_facebook.png" border="0" height="21px" width="21px" title="" alt="Facebook" style="outline-style: none"></a>
+<a href="http://pinterest.com/fashionnet" class="nohighlight" target="_blank"><img src="/images/social-pinterest.png" border="0" height="22" title="" alt="Pinterest" style="outline-style: none; margin-right: 0"></a>&nbsp;&nbsp;<a href="https://plus.google.com/110858985604470692754" class="nohighlight" target="_blank"><img src="/images/social-googleplus.png" border="0" height="22" title="" alt="Google Plus" style="outline-style: none"></a>&nbsp;&nbsp;<a href="http://twitter.com/fashiondotnet" class="nohighlight" target="_blank"><img src="/images/social-twitter.png" border="0" height="22" title="" alt="Twitter" style="outline-style: none; margin-left: 0"></a>&nbsp;&nbsp;<a href="http://www.facebook.com/fashionnet" class="nohighlight" target="_blank"><img src="/images/social-facebook.png" border="0" height="22" title="" alt="Facebook" style="outline-style: none; margin-left: 0"></a>
 </div>
 
-<div style="float: left; top: 0; left: 0; margin: 12px 0 0 43px; width: 420px">
-<a href="http://www.fashion.net/" class="nohighlight"><img src="http://www.fashion.net/images/fashionnet_gigantic_logo_bold.png" border="0" width="495px" title="" alt="Fashion Net" style="outline-style: none"></a>
+<div style="float: left; top: 0; left: 0; margin: 12px 0 0 43px; width: 490px">
+<a href="http://www.fashion.net/" class="nohighlight"><img src="http://www.fashion.net/images/fashionnet_gigantic_logo_skinny.png" border="0" width="490" title="" alt="Fashion Net" style="outline-style: none"></a>
 </div>
 
-<!-- BEGIN SEARCH -->
+<!-- Bsearch -->
 <div id="search">
-	<script language="javascript">
+
+<script language="javascript">
 function validate () {
-  if ( document.f.q.value == "" ) {
+  if ( document.f.q.value == "" || document.f.q.value == "Search") {
   //alert("Search field is empty.")
     return false;
   }
@@ -178,7 +186,7 @@ function validate () {
 </script>
 
 <form method="get" action="http://www.fashion.net/search/" target="_top" name="f" autocomplete="off" onsubmit="return validate ()">
-<input name="q" type="text" style="outline: none; background-color: #fffff; -moz-border-radius: 0; -webkit-border-radius: 0; border-width: 0; border: 0; font-size: 18px; font-family: Helvetica, Arial; font-style: normal; color: gray; padding: 0px 0px 0px 10px; padding-top: 4px !ie; height: 32px; width: 100%; background-image: url(http://www.fashion.net/images/searchfield_background.png); background-repeat: x-repeat">
+<input name="q" type="text" value="Search" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" style="outline: none; background-color: #fffff; -moz-border-radius: 0; -webkit-border-radius: 0; border-width: 0; border: 0; font-size: 18px; font-family: Helvetica, Arial; font-style: normal; color: #B8B8B8; padding: 0px 0px 0px 25px; padding-top: 4px !ie; height: 32px; width: 100%; background-image: url(http://www.fashion.net/images/searchfield_background.png); background-repeat: x-repeat">
 <img src="http://www.fashion.net/images/search_down.png" alt="fashion" width="111" height="32" class="button_down" border="0" style="margin-top: 1px !ie">
 <input type="image" src="http://www.fashion.net/images/search_over.png" title="" alt="search" width="111" height="32" class="button_over" style="margin-top: 1px !ie; -webkit-border-radius: 0" border="0">
 </form>
@@ -189,24 +197,35 @@ function validate () {
 <!-- END SMART SEARCH CODE -->
 
 <script type="text/javascript">
-function start() {
-document.f.q.focus();
-}
-window.onload = start;
+//function start() {
+//document.f.q.focus();
+//}
+//window.onload = start;
 </script>
 
+
 </div> <!-- END div id="search"> -->
-<!-- END SEARCH -->
+<!-- /search -->
 
-<div class="contenttitledestinations" style="position: absolute; bottom: 2px; right: 26px">
-	<a href="http://www.fashion.net/"><img src="http://www.fashion.net/images/exitbutton.white.png" width="20px"></a>
+
+<div style="position: absolute; left: 0; top: 192px; width: 100%; height: 38px">
+<div style="position: relative; width: 100%; height: 38px">
+
+<div style="float: right; padding: 9px 26px 0 0">
+<a href="http://www.fashion.net/"><img src="http://www.fashion.net/images/exitbutton.white.png" width="20"></a>
 </div>
 
-<div class="contenttitledestinations" style="position: absolute; bottom: 4px; left: 26px">
-	<span class="bold" style="letter-spacing: 1px;">PRIVACY POICY</span>
+
+<div style="float: left; color: white; padding: 12px 0 0 26px">
+<span class="bold" style="letter-spacing: 1px">PRIVACY POLICY</span>
 </div>
 
-</div> <!-- /header -->
+</div>
+</div>
+
+
+
+</div> <!-- /contentheader -->
 
 <div class="whitebackground">
 
@@ -215,57 +234,15 @@ window.onload = start;
 <!-- links -->
 <div class="linkscontainer">
 <div class="links">
-<div style="width: 160px; height: 160px; padding: 0 padding: 0">
+<div style="width: 160px; height: 160px; padding: 0 padding: 0; border-top: 4px solid white; border-left: 4px solid white">
 <a href="http://www.fashion.net/a/clicks/diesel.modperl" class="nohighlight" target="_blank"><img src="http://www.fashion.net/a/links/diesel.jpg" title="" alt="Diesel" style="width: 100%" border="0"></a>
 </div>
 
 
-<div style="width: 160px; height: 160px; padding-top: 0 padding-left: 0">
-<a href="http://www.pntrac.com/t/4-20131-52760-17652" target="_blank"><img src="http://www.pntrac.com/b/4-20131-52760-17652" border="0" width="160" height="160" title="www.swarovski.com" alt="www.swarovski.com"></a>
-</div>
-
-
-<div style="width: 160px; height: 160px; padding: 0 padding: 0">
-<a href="http://www.fashion.net/a/clicks/lumiere.modperl" class="nohighlight" target="_blank"><img src="http://www.fashion.net/a/links/lumiere.jpg" title="" alt="Lumiere" style="width: 100%" border="0"></a>
-</div>
-
-
-<div style="width: 160px; height: 130px; text-align: center">
-<div style="padding-top: 30px">
-<a href="http://www.fashion.net/a/links/clicks/aau.cgi" style="text-decoration: none" target="_blank"><span class="roman" style="font-size: 17px; font-style: normal; color: #FFFFFF; line-height: 21px">Academy of Art University</span><br>
-<span class="roman" style="font-size: 12px; font-style: normal; color: gray; font-weight: 400; line-height: 33px">Your career in fashion</span></a>
-
-<!-- Tracer -->
-<img src="http://altfarm.mediaplex.com/ad/tr/9810-144386-17964-1?mpt=0.414748821070209" border="0" width="1px" height="1px">
-
-</div>
-</div>
-
-
-<div style="width: 160px; height: 80px; text-align: center; background-image: url(http://www.fashion.net/images/separator.160px.png); background-repeat: no-repeat">
-<div style="padding-top: 20px">
-<a href="http://www.fashion.net/a/links/clicks/shiseido.cgi" target="_blank" class="roman" style="font-size: 17px; font-style: normal; color: #FFFFFF; text-decoration:none; line-height: 20px">Shiseido<br>
-<span class="roman" style="font-size: 12px; font-style: normal; color: gray; line-height: 29px">Beauty from Japan</span></a></div></div>
-
-
-<div style="width: 160px; height: 160px">
+<div style="width: 160px; height: 160px; border-top: 4px solid white; border-left: 4px solid white; border-bottom: 4px solid white">
 <div style="padding: 0">
 
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://d.adsbyisocket.com/ajs.php':'http://d.adsbyisocket.com/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=6291&block=1");
-   document.write ('&cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
-   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
-   document.write ("&loc=" + escape(window.location));
-   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&mmm_fo=1");
-   document.write ("'></scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://d.adsbyisocket.com/ajs.php?zoneid=6291&amp;block=1&amp;cb=47066579563&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121129143759id_/http%253A//www.fashion.net/privacy.html"></script><noscript><a href='http://d.adsbyisocket.com/ck.php?n=ad23bfc8&cb=0.974335122606121' target='_blank'><img src='http://d.adsbyisocket.com/avw.php?zoneid=6291&cb=0.974335122606121&n=ad23bfc8' border='0' alt='' /></a></noscript>
+<a href="http://www.fashion.net/a/clicks/colette.modperl" class="nohighlight" target="_blank"><img src="http://www.fashion.net/a/links/colette_logo.jpg" title="" alt="Colette" style="width: 100%"></a>
 
 </div>
 </div>
@@ -273,16 +250,25 @@ window.onload = start;
 <br>
 
 
-<div style="width: 160px; height: 40px; text-align: center; background-image: url(http://www.fashion.net/images/separator.160px.png); background-repeat: no-repeat">
+<div style="width: 160px; height: 160px; text-align: center; background: black; border-top: 4px solid white; border-left: 4px solid white">
+<div style="padding-top: 50px">
+<a href="http://www.fashion.net/a/links/clicks/aau.cgi" style="text-decoration: none" target="_blank"><span class="roman" style="font-size: 17px; font-style: normal; color: #FFFFFF; line-height: 21px">Academy of Art University</span><br>
+<span class="roman" style="font-size: 12px; font-style: normal; color: gray; font-weight: 400; line-height: 33px">Your career in fashion</span></a>
 
-<div style="padding-top: 20px">
-<a href="https://www.buyads.com/website/fashion-net" target="_blank" class="roman" style="font-size: 12px; font-style: normal; color: #FFFFFF">&gt; ADVERTISE HERE</a>
+<!-- Tracer -->
+<img src="http://altfarm.mediaplex.com/ad/tr/9810-144386-17964-1?mpt=0.536215556590957" border="0" width="1px" height="1px">
+
 </div>
 </div>
 
 
-<div style="width: 160px; height: 600px">
-<div style="padding: 17px 0 0 0">
+<div style="width: 160px; height: 160px; padding: 0; border-top: 4px solid white; border-left: 4px solid white">
+<a href="http://www.fashion.net/a/clicks/lumiere.modperl" class="nohighlight" target="_blank"><img src="http://www.fashion.net/a/links/lumiere.jpg" title="" alt="Lumiere" style="width: 100%" border="0"></a>
+</div>
+
+
+<div style="width: 160px; height: 600px; border-top: 4px solid white; border-left: 4px solid white; border-bottom: 4px solid white">
+<div style="padding: 0">
 
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-3812776717321564";
@@ -358,9 +344,9 @@ We recommend that you review this Privacy Statement periodically, as Fashion Net
 
 <div style="float: left; width: 300px">
 <script type="text/javascript"><!--
-google_ad_client = "pub-3812776717321564";
-/* 300x250 Left */
-google_ad_slot = "6985682275";
+google_ad_client = "ca-pub-3812776717321564";
+/* 300 x 250 Left */
+google_ad_slot = "2189558862";
 google_ad_width = 300;
 google_ad_height = 250;
 //-->
@@ -373,7 +359,7 @@ google_ad_height = 250;
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-3812776717321564";
 /* 300 x 250 Right */
-google_ad_slot = "2551169658";
+google_ad_slot = "3666292061";
 google_ad_width = 300;
 google_ad_height = 250;
 //-->
@@ -390,10 +376,13 @@ google_ad_height = 250;
 
 <div style="width: 100%; background: white">
 <div id="curated" style="padding: 5px 50px 10px 50px">
-<span class="bold" style="font-size: 18px; line-height: 55px; letter-spacing: 0; color: #000; text-transform: uppercase">Curated Links<br></span><span style="line-height: 28px">
-<a href="http://www.squa.re/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="www.squa.re">SQUA.RE</a>&nbsp;&nbsp; <a href="http://www.islandimporter.com/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="www.islandimporter.com">Island&nbsp;Importer</a>&nbsp;&nbsp; <a href="http://www.shopdavidlerner.com/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="www.shopdavidlerner.com">David&nbsp;Lerner</a>&nbsp;&nbsp; <a href="http://www.houseoflolo.com/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="houseoflolo.com">House&nbsp;of&nbsp;Lolo</a>&nbsp;&nbsp; <a href="http://www.lumiere.com/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="www.lumiere.com">Lumière&nbsp;Magazine</a>&nbsp;&nbsp; <a href="http://www.modelsconnect.net/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="modelsconnect.net">Models&nbsp;Connect</a>&nbsp;&nbsp; <a href="http://www.parsons.edu/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="www.parsons.edu">Parsons</a>&nbsp;&nbsp; <a href="http://www.nowness.com/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="www.nowness.com">Nowness</a>&nbsp;&nbsp; <a href="http://www.hintmag.com/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="www.hintmag.com">Hint&nbsp;Magazine</a>&nbsp;&nbsp; <a href="http://www.dresslab.com/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="dresslab.com">DressLab</a>&nbsp;&nbsp; <a href="http://www.youreyeslie.com/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="youreyeslie.com">Your&nbsp;Eyes&nbsp;Lie</a>&nbsp;&nbsp; <a href="http://www.academyart.edu/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="www.academyart.edu">Academy&nbsp;of&nbsp;Art&nbsp;University</a>&nbsp;&nbsp; <a href="http://ifa-edu.cn/ifaen/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="ifa-edu.cn/ifaen">IFA&nbsp;Paris</a></span></div></div>
+<span class="bold" style="font-size: 18px; line-height: 55px; letter-spacing: 0; color: #000; text-transform: uppercase">Curated Links</span>
+<br>
+<span class="roman" style="font-size: 15px; color: gray">The Curated Links are offered to a select number of sleek brands and services subject to approval by our editorial staff.</span><br><br>
+<span style="line-height: 28px">
+<a href="http://www.bobswatches.com/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="www.bobswatches.com">Bob's&nbsp;Rolex&nbsp;Watches</a>&nbsp;&nbsp; <a href="http://www.hintmag.com/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="www.hintmag.com">Hint&nbsp;Magazine</a>&nbsp;&nbsp; <a href="http://www.lumiere.com/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="www.lumiere.com">Lumière&nbsp;Magazine</a>&nbsp;&nbsp; <a href="http://www.youreyeslie.com/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="youreyeslie.com">Your&nbsp;Eyes&nbsp;Lie</a>&nbsp;&nbsp; <a href="http://www.islandimporter.com/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="www.islandimporter.com">Island&nbsp;Importer</a>&nbsp;&nbsp; <a href="http://ifa-edu.cn/ifaen/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="ifa-edu.cn/ifaen">IFA&nbsp;Paris</a>&nbsp;&nbsp; <a href="http://www.shopdavidlerner.com/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="www.shopdavidlerner.com">David&nbsp;Lerner</a>&nbsp;&nbsp; <a href="http://www.academyart.edu/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="www.academyart.edu">Academy&nbsp;of&nbsp;Art&nbsp;University</a>&nbsp;&nbsp; <a href="http://www.squa.re/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="www.squa.re">SQUA.RE</a>&nbsp;&nbsp; <a href="http://www.nowness.com/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="www.nowness.com">Nowness</a>&nbsp;&nbsp; <a href="http://www.fav.com/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="www.fav.com">Fav&nbsp;Fashion</a>&nbsp;&nbsp; <a href="http://www.dresslab.com/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="dresslab.com">DressLab</a>&nbsp;&nbsp; <a href="http://www.houseoflolo.com/" target="_blank" class="roman nohighlight" style="font-size: 21px; letter-spacing: 0; color: gray" title="houseoflolo.com">House&nbsp;of&nbsp;Lolo</a></span></div></div>
 <div style="padding: 10px 0 50px 50px; background: white">
-<span class="colorblack roman" style="font-size: 12px; line-height: 1px; text-transform: uppercase">&gt;</span><a href="http://www.fashion.net/content/curated/addlink.html" class="bold nohighlight colorred" style="font-size: 12px; line-height: 1px; text-transform: uppercase"> Add Your Link</a>
+<span class="colorred roman" style="font-size: 12px; line-height: 1px; text-transform: uppercase">&gt;</span><a href="http://www.fashion.net/content/curated/addlink.html" class="bold nohighlight colorred" style="font-size: 12px; color: red; line-height: 1px; text-transform: uppercase"> Add Your Link</a>
 </div>
 
 
@@ -402,7 +391,7 @@ google_ad_height = 250;
 <a href="http://www.fashion.net/about.html" style="font-size: 14px; color: #FFFFFF; letter-spacing: 1px" class="bold" target="_top">ABOUT</a> &nbsp;&nbsp;
 <a href="http://www.fashion.net/advertise/" style="font-size: 14px; color: #FFFFFF; letter-spacing: 1px" class="bold">ADVERTISE</a>  &nbsp;&nbsp;<a href="http://www.fashion.net/content/listings/addlisting.html" style="font-size: 14px; color: #FFFFFF; letter-spacing: 1px" class="bold" target="_top">ADD YOUR SITE</a> &nbsp;&nbsp;<a href="http://www.fashion.net/privacy.html" style="font-size: 14px; color: #FFFFFF; letter-spacing: 1px" class="bold" target="_top">PRIVACY POLICY</a> &nbsp;&nbsp;<a href="http://www.fashion.net/contact.html" style="font-size: 14px; color: #FFFFFF; letter-spacing: 1px" class="bold" target="_top">CONTACT US</a>
 <br><br><br>
-<span class="bold" style="font-size: 14px; color: #FFFFFF; -moz-opacity: 0.8; filter:alpha(opacity=80); opacity: 0.8; line-height: 3.1; text-transform: uppercase">Copyright © 1995-2012, Fashion Net Inc. All rights reserved.</span>
+<span class="bold" style="font-size: 14px; color: #FFFFFF; -moz-opacity: 0.8; filter:alpha(opacity=80); opacity: 0.8; line-height: 3.1; text-transform: uppercase">Copyright © 1995-2013, Fashion Net Inc. All rights reserved.</span>
 <br>
 <span class="roman" style="font-size: 14px; color: #FFFFFF; -moz-opacity: 0.8; filter:alpha(opacity=80); opacity: 0.8; line-height: 1.0">Fashion Net ® is a registered trademark in the U.S. and other countries of Fashion Net Inc. The Fashion Net logo and 'This is the world of fashion' are trademarks of Fashion Net Inc.<br></span>
 </div>
