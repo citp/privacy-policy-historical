@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citibank.co.id privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601160808id_/http%3A//www.citibank.co.id/english/footer/Janji_Privasi_Citigroup.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citibank.co.id privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604012025id_/https%3A//www.citibank.co.id/english/footer/Janji_Privasi_Citigroup.htm) for the most accurate reproduction.*
 
 # Privacy - Citibank Indonesia
 
@@ -24,4 +24,4 @@ As a Citi customer, you have the opportunity to make choices. As you consider th
 **Security of Personal Information**  
 The security of personal information about you is our priority. We protect this information by maintaining physical, electronic, and procedural safeguards that meet applicable law. We train our employees in the proper handling of personal information. When we use other companies to provide services for us, we require them to protect the confidentiality of personal information they receive.  
 Useful Link  
-[Terms and Condistions](https://web.archive.org/web/20120601160808id_/http%3A//www.citibank.co.id/english/footer/terms.htm)
+[Terms and Condistions](https://web.archive.org/web/20130604012025id_/https%3A//www.citibank.co.id/english/footer/terms.htm)
