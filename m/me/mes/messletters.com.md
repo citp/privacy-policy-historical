@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the messletters.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605064848id_/http%3A//www.messletters.com/en/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messletters.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603154122id_/http%3A//www.messletters.com/en/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy - MSN letters, MSN Colors and MSN symbols!
+# Privacy - Letters, Colours and Symbols for Facebook, Twitter, Blogs & MSN!
 
 **www.messletters.com - Privacy Policy:**
 
