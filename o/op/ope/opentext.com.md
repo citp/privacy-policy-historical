@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228211641id_/http%3A//www.opentext.com/2/global/site-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603191100id_/http%3A//www.opentext.com/2/global/site-privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Policy | OpenText
 
@@ -86,3 +86,5 @@ Open Text Corporation, Waterloo, Canada
 ### Questions
 
 Contact [itsecuritycompliance@opentext.com](mailto:itsecuritycompliance@opentext.com)
+
+[Convert this page to PDF](http://www.opentext.com/2/global/site-privacy.html?sys_generate=pdf)
