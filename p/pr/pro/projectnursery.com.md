@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the projectnursery.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112185516id_/http%3A//projectnursery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectnursery.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603083416id_/http%3A//projectnursery.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Project Nursery
+# Privacy Policy « Project Nursery
 
 Welcome to Projectnursery.com, a service provided by Project Nursery, LLC (“PN”). This “Privacy Policy” is our commitment to serve you and to protect your privacy online and applies to this Site, however accessed.
 
