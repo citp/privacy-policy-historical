@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tigerdirect.ca privacy policy that was archived on 2012-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919233916id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tigerdirect.ca privacy policy that was archived on 2013-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603080734id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy at TigerDirect.ca</title>
@@ -32,7 +32,31 @@ if (window.attachEvent) window.attachEvent("onload", navHover);
 <![endif]-->
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js" type="text/javascript"></script>
+<link href="/css/jquery-ui.custom-1.8.11.css" rel="stylesheet" type="text/css">
 
+  <script src="/foresee/foresee-alive.js" type="text/javascript"></script>
+ 
+
+<style type="text/css">
+.freeshipbadge { display:none }
+   
+body{background:url(http://images.highspeedbackbone.net/glblbg-intelHaswell-CA.jpg) 50% 134px fixed no-repeat;}
+</style>
+ 
+<script type="text/javascript">
+//Otari 111319 for pages using this method
+function showFreeShipTooltip(img) {
+   var image = document.getElementById(img);
+   if (image !=null)  {
+	  if (image.offsetWidth > 55) {
+		Tip('Free Econoship delivery on orders over $100 -- See details at bottom of the page');
+	  } else {
+		return true;
+	  }
+   }
+}
+</script>
 <style type="text/css">
 <!--
 table.helpHeader {
@@ -66,7 +90,7 @@ table.helpHeader td {
 	// -->
 </script>
 
-</head>
+<script type="text/javascript" src="/foresee/foresee-surveydef.js"></script><link rel="stylesheet" type="text/css" href="/foresee/foresee-dhtml.css"></head>
 <body>
 
 
@@ -93,12 +117,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 function setParentItemCount(numItems){
    if(document.getElementById("cart_item_count"))
       if (numItems == "1"){
-	  itemText = "Item"
+	  itemText = ""
 	  }
 	  else{
-	  itemText = "Items"
+	  itemText = ""
 	  }
-	  document.getElementById("cart_item_count").innerHTML = numItems + "&nbsp;" + itemText;
+	  document.getElementById("cart_item_count").innerHTML = numItems;
 }
 function setParentCartTotal(total){
    
@@ -146,71 +170,208 @@ function chkEml(fld){
 
 
 <style>
-.nav-crossLinks{overflow:visible;}
-.nav-crossLinks li a{background-image:url(//images.highspeedbackbone.net/99/masthead/nav-crossLinks_v3.gif);}
-.nav-crossLinks li.link1 a{background-position: 0 -9px;width: 102px;}
-.nav-crossLinks li.link1 a:hover{background-position:-150px -9px;}
-.nav-crossLinks li.link2 a{background-position: 0 -44px;width: 100px;}
-.nav-crossLinks li.link2 a:hover{background-position:-150px -44px;}
-.nav-crossLinks li.link3 a{background-position: 0 -69px;width: 76px;height: 26px;margin-top: -9px;}
-.nav-crossLinks li.link3 a:hover{background-position:-150px -69px;}
-.nav-crossLinks li.link4 a{background-position:0 -112px;width:120px;}
-.nav-crossLinks li.link4 a:hover{background-position:-150px -112px;}
-.nav-crossLinks li.link4{margin-right:0;}
+.liveChat,.searchBox,.searchGo,.dropdownLink,.cartSprite{background-image:url(http://images.highspeedbackbone.net/td/masthead_v2/masthead-sprite.png);background-repeat: no-repeat;}
+/*==masthead==*/
+#header{background:#005cb9!important;height:127px!important;}
+#header ul, #header  li {list-style: none;}
+.mastheadOuter{color:#fff;width:960px;margin:0 auto;position:relative;z-index:550;height:90px;}
+.mastheadOuter a,.mastheadOuter a:link,.mastheadOuter a:visited,.mastheadOuter a:hover{color:#ade8fe;}
+
+.mastheadTopL{float:left;}
+.mastheadTopR{float:right;text-align:right;}
+
+.headerLogoWrap{float:left;width:165px;text-align:left;margin-top:14px;}
+.headerLogo{background-image:url(http://images.highspeedbackbone.net/99/masthead/masthead-logo.png);background-repeat: no-repeat;width: 164px;height: 45px;display: block;text-indent: -9999px;}
+.headerLiveHelp{font-size:11px;margin-top: 5px;}
+.liveChat{background-position:-379px -123px;display:inline-block;line-height:19px;height:20px;padding-left:25px;vertical-align:middle;}
+
+.shopWrap{float:left;margin-left:20px;margin-top:8px;}
+.shopLinks{margin:0 0 5px 5px;padding:0 0 1px;overflow:hidden;}
+.shopLinks li a {background-image: url(http://images.highspeedbackbone.net/99/masthead/shoplinks.png);}
+.shopLinks li{float:left;margin-right:16px;display:inline;}
+.shopLinks li a{background-repeat:no-repeat;display:block;text-indent:-9999px;height:28px;}
+.shopLinks li.link1 a{background-position:0 -6px;width:78px;}
+.shopLinks li.link1 a:hover{background-position:-200px -6px;}
+.shopLinks li.link2 a{background-position:0 -36px;width:76px;}
+.shopLinks li.link2 a:hover{background-position:-200px -36px;}
+.shopLinks li.link3{margin-right:0;}
+.shopLinks li.link3 a{background-position: 0 -66px;width: 96px;}
+.shopLinks li.link3 a:hover{background-position:-200px -66px;}
+.shopLinks li.link4 a {background-position: 0 -96px;width: 79px;}
+.shopLinks li.link4 a:hover{background-position:-200px -96px;}
+
+.navSearch{clear:both;margin:0;padding:0;}
+.searchBox{background-position:0 0;height:34px;position:relative;width:380px;text-align:left;}
+.searchBox .inputSearch{border:0;outline:none;line-height:20px;height:20px;margin:6px;width:330px;}
+.searchGo{background-position:0 -44px;border:0;cursor:pointer;margin:0;padding:0;position:absolute;top:0;right:0;vertical-align:middle;text-indent:-9999px;width:40px;height:34px;}
+.searchGo span{text-indent:-9999px;}
+.searchGo:hover{background-position:0 -79px;}
+
+.userLinks{margin:12px 0 0 0;padding:0;height:15px;float:right;}
+.userLinks li.nav-user{border-right:#ade8fe 1px solid;display:inline-block;float:left;line-height:12px;padding:0 8px;position:relative;}
+.userLinks li.dropdown{border-right:none;line-height:20px;height:20px;top:-4px;left: -1px;padding-right:8px;z-index:2;}
+.dropdownLink{background-position: 32px -156px;padding-right:17px;}
+.dropdownHover{display:none;background-color:#ededed;padding:5px;position:absolute;top:20px;right:0;width:120px;z-index:550;}
+.dropdownHover .dropdownSection{background-color:#fff;padding:10px;text-align:left;}
+li.dropdown:hover{background-color: #EDEDED;border-radius:3px 3px 0 0;}
+li.dropdown:hover .dropdownLink{color:#267AB7;background-position: 32px -182px;}
+li.dropdown:hover .dropdownHover{display:block;}
+.navHelp{margin:-5px 0 -7px;padding:0;}
+.navHelp li{margin:2px 0;padding:0px;line-height:13px;}
+.navHelp a,.navHelp a:link,.navHelp a:visited{color:#267AB7;}
+.navHelp a{display:block;padding:2px 0;}
+.navHelp a:hover{background-color:#eaf3fe!important;color:#00aeff;}
+.navHelp .liveChat{background-image:none;height:auto;}
+
+.nav-divider-after{border-bottom:#EDEDED 1px solid;}
+.navHelp .nav-divider-after{padding-bottom:6px;margin-bottom:4px;}
+
+.userGreetingWrap{border-right:#1a6dc0 1px solid;float:right;text-align:left;margin:12px 12px 0 0;padding-right:12px;}
+.userGreeting{display:block;font:bold 18px arial;color:#fed443;text-decoration:none;max-width: 220px;white-space: nowrap;overflow: hidden;}
+.userSignin img{vertical-align:middle;}
+
+.cartWrap{float:right;width:140px;margin-top: 5px;overflow:hidden;}
+.cartSprite{display:block;background-position:-351px -216px;width:50px;height:52px;position:relative;float:left;z-index:1;}
+#cart_item_count{position:absolute;top:5px;left:10px;font:bold 14px arial;color:#00338c;text-align:center;width:20px;overflow:hidden;}
+
+.cartWrap .itemTotal:link,.cartWrap .itemTotal:hover,.cartWrap .itemTotal:visited{color:#FFFFFF;text-decoration:none;}
+.cartWrap .itemTotal{color:#FFFFFF;text-decoration:none;text-align: left;float: left;margin-top:15px;margin-left:2px;}
+.itemTotal .cartLabel{display:block;white-space:nowrap;font-weight:bold;}
+
+/*header-nav*/
+.navWrap{background:url(http://images.highspeedbackbone.net/td/masthead_v2/masthead-nav-bgx.png) #fed443 repeat-x 0 0;clear:both;}
+#header-nav{clear:both;background-repeat:no-repeat;padding:0;position:relative;text-align:left;margin:0 auto!important;margin-left:-1px;z-index:500;width:960px;}
+#header-nav,#header-nav li a{background-image:url(http://images.highspeedbackbone.net/99/masthead/masthead-nav.png);height:37px;}
+#header-nav li{float:left;}
+#header-nav li a{background-repeat:no-repeat;display:block;text-indent:-9999px;}
+#header-nav li:hover .navRollover,#header-nav li.iehover .navRollover{display:block;}
+
+/*1 - Computers*/
+#header-nav li.navItem_1 a{background-position:0 0;width:93px;}
+#header-nav li.navItem_1 a:hover,#header-nav li.navItem_1:hover a{background-position:0 -37px;}
+/*2 - Computer Parts*/
+#header-nav li.navItem_2 a{background-position:-93px 0;width:118px;}
+#header-nav li.navItem_2 a:hover,#header-nav li.navItem_2:hover a{background-position:-93px -37px;}
+/*3 - TV & Video*/
+#header-nav li.navItem_3 a{background-position:-211px 0;width:92px;}
+#header-nav li.navItem_3 a:hover,#header-nav li.navItem_3:hover a{background-position:-211px -37px;}
+/*4 - Audio*/
+#header-nav li.navItem_4 a{background-position:-303px 0;width:56px;}
+#header-nav li.navItem_4 a:hover,#header-nav li.navItem_4:hover a{background-position:-303px -37px;}
+/*5 - Cameras & Camcorders*/
+#header-nav li.navItem_5 a{background-position:-359px 0;width:73px;}
+#header-nav li.navItem_5 a:hover,#header-nav li.navItem_5:hover a{background-position:-359px -37px;}
+/*6 - Car & GPS*/
+#header-nav li.navItem_6 a{background-position:-432px 0;width:85px;}
+#header-nav li.navItem_6 a:hover,#header-nav li.navItem_6:hover a{background-position:-432px -37px;}
+/*7 - Cell Phones*/
+#header-nav li.navItem_7 a{background-position:-517px 0;width:92px;}
+#header-nav li.navItem_7 a:hover,#header-nav li.navItem_7:hover a{background-position:-517px -37px;}
+/*8 - Software*/
+#header-nav li.navItem_8 a{background-position:-609px 0;width:73px;}
+#header-nav li.navItem_8 a:hover,#header-nav li.navItem_8:hover a{background-position:-609px -37px;}
+/*9 - Video Games*/
+#header-nav li.navItem_9 a{background-position:-682px 0;width:103px;}
+#header-nav li.navItem_9 a:hover,#header-nav li.navItem_9:hover a{background-position:-682px -37px;}
+/*10 - Home & Office*/
+#header-nav li.navItem_10 a{background-position:-785px 0;width:109px;}
+#header-nav li.navItem_10 a:hover,#header-nav li.navItem_10:hover a{background-position:-785px -37px;}
+/*11 - See More*/
+#header-nav li.navItem_11 a{background-position:-894px 0;width:66px;}
+#header-nav li.navItem_11 a:hover,#header-nav li.navItem_11:hover a{background-position:-894px -37px;}
+#header-nav li.navItem_7 .navRollover{right:351px;}
+#header-nav li.navItem_8 .navRollover{right:278px;}
+#header-nav li.navItem_9 .navRollover{right:175px;}
+#header-nav li.navItem_10 .navRollover{right:66px;}
+
+/*Foter ======================================*/
+#footerWrap{background-color:#005CB9;}
+.customerService{border-bottom: #004B97 1px solid;}
+.customerService h6 span {background-color: #004183;}
+.customerHelp{border-top: #006EDE 1px solid;border-bottom: #004B97 1px solid;}
+.secureSeals{border-top: #006EDE 1px solid;border-bottom: #004B97 1px solid;}
+.footerCopy{border-top: #006EDE 1px solid;}
+.alertSignup{background-color: #004183;}
+.alertSignup fieldset{border-bottom:none;margin-bottom:0;}
+.footerShare a{background-image: url(http://images.highspeedbackbone.net/td/footer/share-connect_v2.gif);}
+.footerShare .shareGP{background-position:-430px 0;background-repeat:no-repeat;}
+
+/*Typeahead ======================================*/
+.gsc-completion-container {border:1px solid #d2ddea !important;background:#FFFFFF!important;color:#000000!important;font:14px verdana, sans-serif!important;corner-radius:0;-moz-corner-radius:0;-webkit-corner-radius:0;width:338px!important;z-index:999;margin-left:-5px!important;margin-top:5px!important;}
+.gsc-completion-container strong {color: #000000 !important;}
+.gsc-completion-container td {padding: 3px 5px !important;color:#000000!important;font:14px arial, sans-serif!important;text-align:left;}
+#csc-completion-selected,.gsc-completion-selected {background: #e2f3ff!important;}
+
 </style>
 
-<div id="mastHead" class="clearfix">
-    <div class="header-shell">
-        <div class="globalActions clearfix">
-        <div class="top-greeting">
-           
-                    <strong>Hello,</strong> <a href="https://www.tigerdirect.ca/secure/orderlogin.asp?PG=1" rel="nofollow">Sign In</a> or <a rel="nofollow" href="https://www.tigerdirect.ca/secure/subscribe2.asp">New Customer?</a>
-            
-        </div>
-        <ul class="top-links">
-          <li><a rel="nofollow" title="My Account" href="/secure/orderlogin.asp?PG=1">My Account</a></li>
-          <li><a rel="nofollow" title="Free Catalog" href="/applications/MyAccount/subscribe.asp?pg=/Specials/index.asp">Free Catalog</a></li>
-          <li><a rel="nofollow" title="Track Your Order" href="/cgisec/orderTrack.asp">Track Your Order</a></li>
-          <li><a rel="nofollow" title="Rebate Center" href="/sectors/rebates/index.asp">Rebate Center</a></li>
-          <li><a rel="nofollow" title="Wish Lists" href="/sectors/wishlist/new_wishlist.asp">Wish Lists</a></li>
-          <li><a rel="nofollow" title="Help" href="/sectors/help/index.asp">Help</a></li>
-          <li class="last"><a rel="nofollow" title="Contact Us" href="/sectors/help/contactus.asp">Contact Us</a></li>
-        </ul>
-   </div>
-  <div class="header-top">
-            <h4 class="nav-logo"><a href="http://www.tigerdirect.ca" title="Go to the TigerDirect.ca homepage">TigerDirect.ca - Shop by phone 1-800-800-8300 - The Best Deals Anywhere</a></h4>
-    <div class="globalSearchWrap">
-    		
-            <ul class="nav-crossLinks">
-              <li class="link1"><a href="/retailstores/indexca.asp" title="Store Locator">Store Locator</a></li>
-              <li class="link2"><a href="http://www.flyertown.ca/flyers/tigerdirect?type=1" target="_blank" title="Weekly Flyer">Weekly Flyer</a></li>
-              <li class="link3"><a href="/sectors/category/deal-of-the-dayca.asp" title="Daily Deal">Daily Deal</a></li>
-              <li class="link4"><a href="/secure/b2blogin.asp" title="Corporate Sales">Corporate Sales</a></li>
-            </ul>
-            <div class="shareConnect-small">
-                <a target="_blank" href="http://www.facebook.com/tigerdirectca" class="shareFB">Like us on Facebook</a> 
-                <a target="_blank" href="http://twitter.com/tigerdirectca" class="shareTW">Follow us on Twitter</a>
+
+
+<div id="header" class="clearfix" style="position:relative;z-index:500;">
+	<div class="mastheadOuter">
+    	<div class="mastheadTopL">
+        	<div class="headerLogoWrap">
+            	<a class="headerLogo" href="http://www.tigerdirect.ca/?cm_sp=Masthead-_-Logo-_-NA" title="Go to the TigerDirect.ca homepage">TigerDirect.ca</a>
+            	<div class="headerLiveHelp">
+                	<strong>Shop by Phone:</strong>
+                    <span class="livePhone">(800) 800-8300</span>
+                </div>
             </div>
-            <form action="http://www.tigerdirect.ca/applications/SearchTools/search.asp" name="searchFRM" id="searchFRM" onsubmit="return chkSrch(this.keywords)" class="globalSearch">
-            <div class="searchWrap">
-              <fieldset>
+            <div class="shopWrap">
+                <ul class="shopLinks">
+                    <li class="link1"><a href="/retailstores/indexca.asp?cm_sp=Masthead-_-StoreLocator-_-NA" title="Store Locator">Store Locator</a></li>
+                    <li class="link4"><a href="http://www.flyertown.ca/flyers/tigerdirect?type=1" target="_blank" title="Weekly Flyer">Weekly Flyer</a></li>
+                    <li class="link2"><a href="/sectors/category/deal-of-the-dayca.asp?cm_sp=Masthead-_-DailyDeal-_-NA" title="Daily Deal">Daily Deal</a></li>
+                    <li class="link3"><a href="/secure/b2blogin.asp?cm_sp=Masthead-_-B2B-_-NA" title="Corporate Sales">Corporate Sales</a></li>
+                    
+                </ul>
+                <form action="http://www.tigerdirect.ca/applications/SearchTools/search.asp" name="searchFRM" id="searchFRM" onsubmit="return chkSrch(this.keywords)" class="navSearch">
+                    <div class="searchBox">
                     <input class="inputSearch" id="tigerca_input" type="text" name="keywords" autocomplete="Off" value="Search by Keyword or Item #">
-              </fieldset>
-                <div class="closeborder"></div>
+                    <button type="submit" title="Search" class="btn searchGo"><span>Search</span></button>
+                    </div>
+                </form>
             </div>
-            <button type="submit" title="Search" class="btn searchSubmit"><span>Search</span></button>
-            </form>
+        </div>
+        <div class="mastheadTopR">
+        	<ul id="userNav" class="userLinks">
+<li class="nav-user"><a href="/secure/orderlogin.asp?PG=1&amp;cm_sp=Masthead-_-MyAccount-_-userlinks" title="My Account" rel="nofollow">My Account</a></li><li class="nav-user"><a href="/cgisec/orderTrack.asp?cm_sp=Masthead-_-OrderTrack-_-userlinks" title="Track Your Order" rel="nofollow">Track Order</a></li><li class="nav-user"><a href="/applications/campaigns/campaigntemplate.asp?CampaignID=1471" title="Free Shipping" rel="nofollow">Free Shipping</a></li><li class="nav-user dropdown"><a class="dropdownLink" href="/sectors/help/index.asp?cm_sp=Masthead-_-Help-_-userlinks" title="Help" rel="nofollow">Help</a>
+                	<div class="dropdownHover">
+                    	<div class="dropdownSection">
+                        	<ul class="navHelp">
+                                <li><a href="/sectors/help/index.asp?cm_sp=Masthead-_-Help-_-help" title="Help Center" rel="nofollow">Help Center</a></li>
+                                <li><a href="/sectors/rebates/index.asp?cm_sp=Masthead-_-RebateCenter-_-help" title="Rebate Center" rel="nofollow">Rebate Center</a></li>
+                                <li class="nav-divider-after"><a href="/sectors/wishlist/new_wishlist.asp?cm_sp=Masthead-_-WishList-_-help" title="Wish Lists" rel="nofollow">Wish Lists</a></li>
+                                <li><a href="/sectors/help/contactus.asp?cm_sp=Masthead-_-ContactUs-_-help" title="Contact Us" rel="nofollow">Contact Us</a></li>
+								
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+            <br clear="both">
+            <div class="cartWrap">
+            	<a href="/cgi-bin/ShoppingCart.asp?cm_sp=Masthead-_-ShoppingCart-_-NA" title="Shopping Cart" rel="nofollow" class="cartSprite"><span id="cart_item_count">0</span></a>
+                <a href="/cgi-bin/ShoppingCart.asp?cm_sp=Masthead-_-ShoppingCart-_-NA" title="Shopping Cart" rel="nofollow" class="itemTotal">
+                	<strong class="cartLabel">Shopping Cart:</strong>
+                	<span id="cart_total">$0.00</span>
+                </a>
+            </div>
+            <div class="userGreetingWrap">
+            	<span class="userGreeting">
+				  
+				    Hello
+				  </span>
+                <span class="userSignin">
+					
+                        <a href="https://www.tigerdirect.ca/secure/orderlogin.asp?PG=1&amp;cm_sp=Masthead-_-Signin-_-NA" rel="nofollow" title="Sign in">Sign in</a> or <a rel="nofollow" href="https://www.tigerdirect.ca/secure/subscribe2.asp?cm_sp=Masthead-_-NewCustomer-_-NA" title="New Customer">New Customer</a>
+                    
+                </span>
+            </div>
+
+        </div>
     </div>
-    <div class="nav-cart">
-      <a href="/cgi-bin/ShoppingCart.asp"><em>My cart:</em>
-      <span class="cartItems">
-          <strong><span id="cart_total">
-           $0.00
-          </span></strong>&nbsp;(<span id="cart_item_count">0 Items</span>)
-      </span></a>
-    </div>
-  </div>
-  <ul id="header-nav">
+    <div class="navWrap">
+    <ul id="header-nav">
   			<li class="navItem_1"><a href="/sectors/category/computersca.asp?cm_sp=Masthead-_-Computers-_-Spot%2000" title="Computers">Computers</a>
            	  <div class="navRollover">
                         <dl class="innerWrap">
@@ -253,11 +414,7 @@ function chkEml(fld){
                                     <p><input name="signUp" type="image" value="submit" src="http://images.highspeedbackbone.net/cu/btn-signup-sm.gif" alt="Signup" title="Signup"></p>                                                                       
                                 	</form>
                                 </div>
- 
-                                    <div align="center">
-                                        <a href="/go/WindowsUpgrade/winupgradeoption.asp" title="Buy a Windows 7 PC and get Windows 8 Pro for $14.99"><img src="http://images.highspeedbackbone.net/mastheadus/Win8Offer_Banner_155x165_en.jpg" alt="Need a specific service for your home?" border="0" width="155"></a>
-                                    </div>
-                                     
+      
                           </dd>
                         </dl>
                 </div>
@@ -337,7 +494,7 @@ function chkEml(fld){
                                 <a href="/applications/category/category_tlc.asp?CatId=4584&amp;name=Audio&amp;cm_sp=Masthead-_-TV%20Video-_-Spot%2005" title="Audio">Audio</a>
                                 <a href="/applications/category/category_slc.asp?CatId=717&amp;name=Plasma-TV-Wall-Mount&amp;Nav=|c:384|&amp;Sort=0&amp;Recs=10&amp;cm_sp=Masthead-_-TV%20Video-_-Spot%2006" title="Wall Mounts">Wall Mounts</a>
                                 <a href="/applications/category/category_slc.asp?CatId=1532&amp;cm_sp=Masthead-_-TV%20Video-_-Spot%2007" title="Stands &amp; Furniture">Stands &amp; Furniture</a>
-                                <a href="/applications/category/category_slc.asp?CatId=3675&amp;cm_sp=Masthead-_-TV%20Video-_-Spot%2008" title="Home Media Players">Home Media Players</a>
+                                <a href="/applications/category/category_slc.asp?CatId=4678&amp;cm_sp=Masthead-_-TV%20Video-_-Spot%2008" title="Home Media Players">Home Media Players</a>
                                 <a href="/applications/Category/category_tlc.asp?CatId=23&amp;name=Projectors&amp;cm_sp=Masthead-_-TV%20Video-_-Spot%2009" title="Projectors &amp; Screens">Projectors &amp; Screens</a>
                                 <a href="/applications/Category/category_tlc.asp?CatId=20&amp;name=Power-Protection&amp;cm_sp=Masthead-_-TV%20Video-_-Spot%2010" title="Power Protection">Power Protection</a>
                                 <a href="/applications/category/category_tlc.asp?CatId=79&amp;name=Audio/Video-Cables&amp;cm_sp=Masthead-_-TV%20Video-_-Spot%2011" title="Audio / Video Cables">Audio / Video Cables</a>
@@ -626,7 +783,8 @@ function chkEml(fld){
                                 <a href="/applications/category/category_tlc.asp?CatId=4442&amp;cm_sp=Masthead-_-Home%20Office-_-Spot%2019" title="Surveillance">Surveillance</a>
                                 <a href="/applications/category/category_slc.asp?CatId=4561&amp;name=Toaster-Ovens&amp;cm_sp=Masthead-_-Home%20Office-_-Spot%2020" title="Toaster Ovens">Toaster Ovens</a>
                                 <a href="/applications/category/category_tlc.asp?CatId=7086&amp;name=Floor-Care&amp;cm_sp=Masthead-_-Home%20Office-_-Spot%2021" title="Vacuum Cleaners">Floor Care</a>
-                                <a href="/sectors/category/home-office.asp?cm_sp=Masthead-_-Home%20Office-_-Spot%2022" title="See All Home &amp; Office">See All</a>
+                                <a href="/applications/category/category_tlc.asp?CatId=7117&amp;cm_sp=Masthead-_-Home%20Office-_-Spot%2022" title="Emergency Preparedness">Emergency Preparedness</a>
+                                <a href="/sectors/category/home-office.asp?cm_sp=Masthead-_-Home%20Office-_-Spot%2023" title="See All Home &amp; Office">See All</a>
                             </dd>
                             <dd class="col highlight">
                                 <h5>Popular Links</h5>
@@ -653,26 +811,28 @@ function chkEml(fld){
                         <dl class="innerWrap">
                         	<dd class="col">
                             	<h5>Deals &amp; Specials</h5>
-                            	<a href="/applications/category/topsoldskus.asp?cm_sp=Masthead-_-More-_-Spot%2001" title="Bestsellers">Bestsellers</a>
-                                <a href="/applications/overstock/overstock_tlc.asp?cm_sp=Masthead-_-More-_-Spot%2002" title="Overstock Deals">Overstock Deals</a>
-                                <a href="/applications/campaigns/campaigntemplate.asp?CampaignID=1471&amp;cm_sp=Masthead-_-More-_-Spot%2003" title="Free Shipping">Free Shipping</a>
-                                <a href="/sectors/whatsnew/newproducts.asp?cm_sp=Masthead-_-More-_-Spot%2004" title="What's New">What's New</a>
-                                <a href="/applications/Refurb/refurb_tlc.asp?name=Recertified-Deals&amp;cm_sp=Masthead-_-More-_-Spot%2005" title="Recertified Items">Recertified Items</a>
-                                <a href="/applications/openbox/openbox_tlc.asp?name=Open-Box-Deals&amp;cm_sp=Masthead-_-More-_-Spot%2006" title="Open Box">Open Box</a>
-                                <a href="/sectors/category/deal-of-the-dayca.asp?cm_sp=Masthead-_-More-_-Spot%2007" title="Daily Deal">Daily Deal</a>
+                                <a href="/sectors/category/deal-of-the-dayca.asp?cm_sp=Masthead-_-More-_-Spot%2001" title="Daily Deal">Daily Deal</a>
+                                <a href="/coupons/index.asp?cm_sp=Masthead-_-More-_-Spot%2002" title="Coupon Deal">Coupon Deal</a>
+                            	<a href="/applications/category/topsoldskus.asp?cm_sp=Masthead-_-More-_-Spot%2003" title="Bestsellers">Bestsellers</a>
+                                <a href="/applications/overstock/overstock_tlc.asp?cm_sp=Masthead-_-More-_-Spot%2004" title="Overstock Deals">Overstock Deals</a>
+                                <a href="/applications/campaigns/campaigntemplate.asp?CampaignID=1471&amp;cm_sp=Masthead-_-More-_-Spot%2005" title="Free Shipping">Free Shipping</a>
+                                <a href="/sectors/whatsnew/newproducts.asp?cm_sp=Masthead-_-More-_-Spot%2006" title="What's New">What's New</a>
+                                <a href="/applications/Refurb/refurb_tlc.asp?name=Recertified-Deals&amp;cm_sp=Masthead-_-More-_-Spot%2007" title="Recertified Items">Recertified Items</a>
+                                <a href="/applications/campaigns/campaigntemplate.asp?CampaignID=2494&amp;cm_sp=Masthead-_-More-_-Spot%2008" title="Open Box">Open Box</a>
+                                
                                 <a href="http://www.flyertown.ca/flyers/tigerdirect?type=1" title="Weekly Flyer">Weekly Flyer</a>
                             </dd>
                             <dd class="col highlight">
                             	<h5>Deals Under</h5>
-                            	<a href="/applications/SearchTools/giftideas.asp?sAmt=1&amp;eAmt=25&amp;cm_sp=Masthead-_-More-_-Spot%2008" title="Deals Under $25">Deals Under $25</a>
-                                <a href="/applications/SearchTools/giftideas.asp?sAmt=25&amp;eAmt=50&amp;cm_sp=Masthead-_-More-_-Spot%2009" title="Deals Under $50">Deals Under $50</a>
-                                <a href="/applications/SearchTools/giftideas.asp?sAmt=75&amp;eAmt=100&amp;cm_sp=Masthead-_-More-_-Spot%2010" title="Deals Under $100">Deals Under $100</a>
+                            	<a href="/applications/SearchTools/giftideas.asp?sAmt=1&amp;eAmt=25&amp;cm_sp=Masthead-_-More-_-Spot%2009" title="Deals Under $25">Deals Under $25</a>
+                                <a href="/applications/SearchTools/giftideas.asp?sAmt=25&amp;eAmt=50&amp;cm_sp=Masthead-_-More-_-Spot%2010" title="Deals Under $50">Deals Under $50</a>
+                                <a href="/applications/SearchTools/giftideas.asp?sAmt=75&amp;eAmt=100&amp;cm_sp=Masthead-_-More-_-Spot%2011" title="Deals Under $100">Deals Under $100</a>
                             </dd>
                         </dl>
                 </div>
             </li>
         </ul>
-    </div>
+        </div>
 </div>
 
 
@@ -680,10 +840,10 @@ function chkEml(fld){
          <div class="bannerAdWrap headerAdWrap">
          	<div class="bannerAd728">
 			 
-                       <iframe src="http://ad.doubleclick.net/adi/td.TigerCanada/ROS_728x90;sz=728x90;ord=1783912181854?" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-                       <script language="JavaScript" src="http://ad.doubleclick.net/adj/td.TigerCanada/ROS_728x90;sz=728x90;abr=!ie;ord=1783912181854?" type="text/javascript"></script>
+                       <iframe src="http://ad.doubleclick.net/adi/td.TigerCanada/ROS_728x90;sz=728x90;ord=9065188765525?" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
+                       <script language="JavaScript" src="http://ad.doubleclick.net/adj/td.TigerCanada/ROS_728x90;sz=728x90;abr=!ie;ord=9065188765525?" type="text/javascript"></script>
                        </iframe>
-                       <noscript><a href="http://ad.doubleclick.net/jump/td.TigerCanada/ROS_728x90;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;ord=1783912181854?" target="_blank"><img src="http://ad.doubleclick.net/ad/td.TigerCanada/ROS_728x90;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;ord=1783912181854?" width="728" height="90" border="0" alt=""></a></noscript>
+                       <noscript><a href="http://ad.doubleclick.net/jump/td.TigerCanada/ROS_728x90;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;ord=9065188765525?" target="_blank"><img src="http://ad.doubleclick.net/ad/td.TigerCanada/ROS_728x90;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;ord=9065188765525?" width="728" height="90" border="0" alt=""></a></noscript>
                    
                
              </div>
@@ -736,7 +896,7 @@ a.fv:hover #fv_img {display:block;}
 			<a title="Digital Cameras &amp; Digital Video Cameras" href="http://www.tigerdirect.ca/applications/Category/guidedsearch.asp?CatId=4441&amp;name=camcorders,digital video" class="sidenav_grey">Camcorders</a><br>
 		
 		<a title="Digital Cameras &amp; Digital Video Cameras" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=7" class="sidenav_grey">Cameras</a><br>
-        <a title="CD Burners &amp; DVD Burners" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=4&amp;name=CD-DVD-Burners" class="sidenav_grey">CD 
+        <a title="CD Burners &amp; DVD Burners" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=4&amp;name=CD-DVD-Burners" class="sidenav_grey">CD 
         / DVD Burners</a><br>
         
 		    <a title="Cellular Phones, Prepaid Phones, Ringtones" href="http://www.tigerdirect.ca/applications/campaigns/campaigntemplate.asp?CampaignID=1126" class="sidenav_grey">Cellular 
@@ -757,14 +917,14 @@ a.fv:hover #fv_img {display:block;}
 			<a title="Gaming PCs, Media Center PCs, Mini PCs, Workstations" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=6&amp;name=Desktop-PCs" class="sidenav_grey">Desktop 
 			PCs</a><br>
 		
-        <a title="Digital Picture Frames" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=5230&amp;name=Digital-Picture-Frames" class="sidenav_grey">Digital Picture Frames</a><br>
+        <a title="Digital Picture Frames" href="http://www.tigerdirect.ca/applications/category/guidedSearch.asp?CatId=5230&amp;name=Digital-Picture-Frames" class="sidenav_grey">Digital Picture Frames</a><br>
         <a title="Consumer Electronics" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=34&amp;name=Electronics" class="sidenav_grey">Electronics</a><br>
         <a title="External Hard Drives, Solid State Externals, Firewire Adapters and USB Adapters" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=136" class="sidenav_grey">External Hard Drives</a><br>        
         <a title="Camera Memory, Compact Flash, Memory Stick, Multimedia Cards" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=36&amp;name=Flash-Memory-Cards" class="sidenav_grey">Flash 
         Memory Cards</a> <br>
         <a title="PC &amp; Computer Furniture" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=221&amp;name=Furniture" class="sidenav_grey">Furniture</a><br>
         
-			<a title="Gaming" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=2900" class="sidenav_grey">Gaming</a><br>
+			<a title="Gaming" href="http://www.tigerdirect.ca/applications/category/guidedSearch.asp?CatId=2900" class="sidenav_grey">Gaming</a><br>
 		
 		    <a title="Car GPS, Handheld GPS, Marine GPS" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=2372&amp;name=GPS-Navigation" class="sidenav_grey">GPS Navigation</a><br>
 			<a title="Hard Disk Drives" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=8&amp;name=Hard-Disk-Drives" class="sidenav_grey">Hard Drives</a><br>
@@ -783,7 +943,7 @@ a.fv:hover #fv_img {display:block;}
 		
 			<a title="LCD Televisions, Plasma Televisions, HDTV" href="http://www.tigerdirect.ca/applications/category/guidedSearch.asp?CatId=37&amp;name=LCD-TVs-HDTV-TV-Plasma-TVs-DLP-TV" class="sidenav_grey">LCD TVs / HDTV / Plasma</a><br>
 		
-        <a title="CD-R Discs, CD-RW Discs, DVD Media, Tape Cartridges" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=2&amp;name=Media-CD-DVD-Tape" class="sidenav_grey">Media 
+        <a title="CD-R Discs, CD-RW Discs, DVD Media, Tape Cartridges" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=2&amp;name=Media-CD-DVD-Tape" class="sidenav_grey">Media 
         (CD DVD Tape)</a> <br>
 		
 			<a title="PC Memory, Memory Configurator, DDR RAM, SDRAM" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=10&amp;name=Memory-RAM" class="sidenav_grey">Memory / 
@@ -796,45 +956,45 @@ a.fv:hover #fv_img {display:block;}
 		
         <a title="Motherboard &amp; CPU Combos" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=14&amp;name=Motherboard-CPUs" class="sidenav_grey">Motherboard 
         &amp; CPUs</a><br>
-                
+    <!--      -->      
         <a title="MP3 
         Accessories" href="http://www.tigerdirect.ca/applications/campaigns/campaigntemplate.asp?CampaignID=1087" class="sidenav_grey">MP3 
         Accessories</a><br>
-        <a title="MP3 Players, Apple iPods, Video Players" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=15&amp;name=MP3-Audio" class="sidenav_grey">MP3 / Media Players</a><br>
-        <a title="Network Cables, Routers, Switches, Starter Kits" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=16&amp;name=Networking" class="sidenav_grey">Networking</a><br>
+        <a title="MP3 Players, Apple iPods, Video Players" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=15&amp;name=MP3-Audio" class="sidenav_grey">MP3 / Media Players</a><br>
+        <a title="Network Cables, Routers, Switches, Starter Kits" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=16&amp;name=Networking" class="sidenav_grey">Networking</a><br>
          
         <a title="UPS Battery Backup, Surge Protectors, Power Strips" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=20&amp;name=Power-Protection" class="sidenav_grey">Power Protection</a><br>
 		<a title="Power Supply Units, SLI PSUs, PSU Testers" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=106&amp;name=Power-Supplies" class="sidenav_grey">Power Supplies</a> <br>
-        <a title="InkJet Printers, Laser Printers, Digital Photo Printers" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=21&amp;name=Printers" class="sidenav_grey">Printers</a><br>
+        <a title="InkJet Printers, Laser Printers, Digital Photo Printers" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=21&amp;name=Printers" class="sidenav_grey">Printers</a><br>
 		
 			<a title="SVGA Projectors, XGA Projectors, Projector Screens" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=23&amp;name=Projectors" class="sidenav_grey">Projectors</a><br>
 		
-        <a title="Disk Controllers, Enclosures, DVD Burners, Tape Drives" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=24&amp;name=Removable-Storage" class="sidenav_grey">Removable 
+        <a title="Disk Controllers, Enclosures, DVD Burners, Tape Drives" href="http://www.tigerdirect.ca/applications/category/guidedSearch.asp?CatId=24&amp;name=Removable-Storage" class="sidenav_grey">Removable 
         Storage</a><br>
-        <a title="Computer Scanners, Flatbed Scanners, Handheld Scanners" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=25&amp;name=Scanners" class="sidenav_grey">Scanners</a><br>
-        <a title="PC &amp; Computer Servers, Systemax Servers" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=30&amp;name=Servers" class="sidenav_grey">Servers</a><br>
+        <a title="Computer Scanners, Flatbed Scanners, Handheld Scanners" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=25&amp;name=Scanners" class="sidenav_grey">Scanners</a><br>
+        <a title="PC &amp; Computer Servers, Systemax Servers" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=30&amp;name=Servers" class="sidenav_grey">Servers</a><br>
         <a title="Services" href="http://www.tigerdirect.ca/sectors/campaigns/include/tech-services.asp" class="sidenav_grey">Services</a><br>
         <a title="Business Software, Educational Software, Security Software" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=26&amp;name=Software" class="sidenav_grey">Software</a><br>
         <a title="SATA SSD, PATA/IDE SSD, Express Card SSD, PCIe SSD" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=5298" class="sidenav_grey">SSD (Solid State Drive)</a><br>
-        <a title="Sound Cards" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=107&amp;name=Sounds-Cards" class="sidenav_grey">Sound Cards</a><br>
+        <a title="Sound Cards" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=107&amp;name=Sounds-Cards" class="sidenav_grey">Sound Cards</a><br>
         <a title="Multimedia Speakers, Surround Speakers, Headphones" href="http://www.tigerdirect.ca/applications/category/category_slc.asp?CatId=4592&amp;name=Speaker-Systems" class="sidenav_grey">Speakers</a><br>
 		        
-		<a title="Security, Surveillance" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=4442" class="sidenav_grey">Surveillance</a><br>   
-        <a title="Internet Tablets, eReaders" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=6838&amp;name=Tablets-Media-Players" class="sidenav_grey">Tablets</a><br>       
+		<a title="Security, Surveillance" href="http://www.tigerdirect.ca/applications/category/guidedSearch.asp?CatId=4442" class="sidenav_grey">Surveillance</a><br>   
+        <a title="Internet Tablets, eReaders" href="http://www.tigerdirect.ca/applications/category/guidedSearch.asp?CatId=6838&amp;name=Tablets-Media-Players" class="sidenav_grey">Tablets</a><br>       
 		
 			 <a title="LCD Televisions, Plasma Televisions, HDTV" href="http://www.tigerdirect.ca/applications/category/guidedSearch.asp?CatId=37&amp;name=LCD-TVs-HDTV-TV-Plasma-TVs-DLP-TV" class="sidenav_grey">Televisions</a><br>
 		
-        <a title="USB Drives, USB Disk Drives, USB Memory Drives" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=379&amp;name=USB-Flash-Drives" class="sidenav_grey">USB 
+        <a title="USB Drives, USB Disk Drives, USB Memory Drives" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=379&amp;name=USB-Flash-Drives" class="sidenav_grey">USB 
         Flash Drives</a><br>
 		      
-			<a title="DVD Players, DVR, Tivo, Wireless Media Players, Blu-Ray Players" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=4669&amp;name=Video" class="sidenav_grey">Video</a><br>
+			<a title="DVD Players, DVR, Tivo, Wireless Media Players, Blu-Ray Players" href="http://www.tigerdirect.ca/applications/category/guidedSearch.asp?CatId=4669&amp;name=Video" class="sidenav_grey">Video</a><br>
 		
-		<a title="Video Capture Cards, Digital Video Capture Cards" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=1423&amp;name=Video-Capture" class="sidenav_grey">Video Capture</a><br>
+		<a title="Video Capture Cards, Digital Video Capture Cards" href="http://www.tigerdirect.ca/applications/category/guidedSearch.asp?CatId=1423&amp;name=Video-Capture" class="sidenav_grey">Video Capture</a><br>
 		
-			 <a title="ATI Store, NVIDIA Store, AGP, PCIE, SLI GPUs" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=28&amp;name=Video-Cards" class="sidenav_grey">Video Cards</a><br>
+			 <a title="ATI Store, NVIDIA Store, AGP, PCIE, SLI GPUs" href="http://www.tigerdirect.ca/applications/Category/guidedSearch.asp?CatId=28&amp;name=Video-Cards" class="sidenav_grey">Video Cards</a><br>
 		
         <a title="Warranty Services" href="http://www.tigerdirect.ca/sectors/campaigns/squaretrade/index.asp" class="sidenav_grey">Warranty Services</a><br>
-        <a title="Wireless Network, Wireless Routers, Wireless Access Points" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=35&amp;name=Wireless-Networking" class="sidenav_grey">Wireless Networking</a><br>
+        <a title="Wireless Network, Wireless Routers, Wireless Access Points" href="http://www.tigerdirect.ca/applications/category/guidedSearch.asp?CatId=35&amp;name=Wireless-Networking" class="sidenav_grey">Wireless Networking</a><br>
         
 		  <div class="sidenav_titlebar">More Shopping</div>
 		  <a title="TigerDirect.ca Gift Ideas" href="http://www.tigerdirect.ca/sectors/giftcenter/indexca.asp?name=Gift-Ideas" class="sidenav_grey">Gift Ideas</a><br>
@@ -844,7 +1004,7 @@ a.fv:hover #fv_img {display:block;}
 		  Box Deals</a><br>
 		  <a title="Overstock Clearance" href="http://www.tigerdirect.ca/applications/overstock/overstock_tlc.asp" class="sidenav_grey">Overstock Clearance</a><br>
 		  <a title="Shop by Brand" href="http://www.tigerdirect.ca/applications/partners/index.asp?name=Shop-By-Brand" class="sidenav_grey">Shop by Brand</a><br>
-		  <a title="Shop by Color" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=4053" class="sidenav_grey">Shop by Color</a><br>
+		  <a title="Shop by Color" href="http://www.tigerdirect.ca/applications/category/guidedSearch.asp?CatId=4053" class="sidenav_grey">Shop by Color</a><br>
       
 		  <div class="sidenav_titlebar">Tiger Connect</div>
 		  <a href="http://www.tigerdirect.ca/rss/indexca.asp" class="sidenav_grey">Deal Alerts via<br>
@@ -943,7 +1103,7 @@ a.fv:hover #fv_img {display:block;}
                   <table width="100%" border="0" cellspacing="0" cellpadding="5">
                     <!-- content section -->
                     <tbody><tr> 
-                      <td class="BODYstyle"> <p><strong><a name="general"></a>TigerDirect.ca Privacy Notice</strong> (Updated 8/22/2011)</p>
+                      <td class="BODYstyle"> <p><strong><a name="general"></a>TigerDirect.ca Privacy Notice</strong> (Updated 11/27/2012)</p>
                         <p>By visiting the TigerDirect.ca website or any other 
                         websites operated by TigerDirect.ca or  its affiliates (collectively, the "Site"), you agree to accept the practices  described in this Privacy Notice. If you do not agree to the terms of this  Privacy Notice, please do not use the Site. Each time you use the Site, you  should check the date of this Privacy Notice (which appears above) and review  any changes that have been made since your last visit to the Site. </p>
                         <p>Throughout TigerDirect.ca’s years  of operation, we have developed relationships with our customers based on  respect and integrity. We're aware of the trust and confidence you demonstrate  when you visit the Site and provide us with information. This Privacy Notice is  posted to demonstrate our leadership in online security and customer service  practices. We treat your information with the same honesty and sensitivity that  we have displayed throughout our company's history.<br>
@@ -986,11 +1146,11 @@ date of birth and IP address.
                         <p>You should recognize, however, that no computer system  is fully secure and that there are inherent risks associated with Internet  transactions. To make sure you have the latest security features on your  browser, you may want to download the most recent version of your favorite  browser, which should have full SSL support. </p>
                         <p><strong>7. Corrections/Information Removal/Opt-Out</strong></p>
                         <p>If your name, e-mail or postal address, telephone  number or other Personal Information changes, you may update, correct or omit  the relevant information by contacting us at privacy@TigerDirect.ca. In addition, if you no longer wish to receive  communications from us you may opt-out by emailing us at privacy@TigerDirect.ca, sending 
-                          a letter to: TigerDirect.ca Privacy Officer, 8300 West Flagler St. Suite# 121-106, Miami, FL 33144 or by clicking on the unsubscribe link within any marketing  e-mail you receive from us. If you no longer wish to receive our catalog, you  may call us at 800-800-8300, email us at privacy@TigerDirect.ca or send a letter to: TigerDirect.ca Privacy Officer, 8300 West Flagler St. Suite# 121-106, Miami, FL 33144.</p>
+                          a letter to: TigerDirect.ca Privacy Officer, 7795 West Flagler St., Suite 35, Miami, FL 33144 or by clicking on the unsubscribe link within any marketing  e-mail you receive from us. If you no longer wish to receive our catalog, you  may call us at 800-800-8300, email us at privacy@TigerDirect.ca or send a letter to: TigerDirect.ca Privacy Officer, 7795 West Flagler St., Suite 35, Miami, FL 33144.</p>
                         <p><strong>8. Contact Information</strong></p>
                         <p>If you have any questions or concerns about this Privacy 
                           Notice, please e-mail us at privacy@TigerDirect.ca 
-                        or send a letter to: TigerDirect.ca Privacy Officer, 8300 West Flagler St. Suite# 121-106, Miami, FL 33144.</p>
+                        or send a letter to: TigerDirect.ca Privacy Officer, 7795 West Flagler St., Suite 35, Miami, FL 33144.</p>
                         <p><strong>9. Business Transfer</strong></p>
                         <p>TigerDirect.ca is a wholly owned subsidiary of Systemax, 
                           Inc., a Fortune 1000 Company (NYSE symbol SYX). However, 
@@ -1542,142 +1702,6 @@ date of birth and IP address.
                             </td>
                         </tr>
                         
- 
-
- 
-
- <!-- <table width="161" border="0" cellpadding="0" cellspacing="0" bgcolor="#F0F0F0" class="navHDR"> -->
-
-
-
-  <tr>
-
-    <td colspan="3" bgcolor="#184684" style="padding-left: 8px;" height="20"><strong><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">3 Hot Deals!</font></strong></td>
-
-  </tr>
-
-  <tr>
-
-    <td height="6" colspan="3"><img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" width="10" height="6"></td>
-
-  </tr>
-
-  <tr>
-
-    <td width="10" valign="top"><img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" width="10" height="10"></td>
-
-   
-
-  <td width="141"><strong>AMD Phenom II X6 1045T 2.70GHz AM3 Processor<br>
-
-    </strong><a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=1724262&amp;sku=A79-1045&amp;cm_sp=RightNav-_-Spot%2001-_-CatId_22_A79-1045"><img src="http://images.highspeedbackbone.net/dealday/right_A79-1045.jpg" width="140" height="95" border="0"></a>
-
-    <span><strong></strong></span><span class="price"><strong> </strong><br>
-<span class="price"><strong>$129.97</strong></span> <a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=1724262&amp;sku=A79-1045&amp;cm_sp=RightNav-_-Spot%2001-_-CatId_22_A79-1045" class="info">INFO</a>
-
-    | <a href="http://www.tigerdirect.ca/cgi-bin/order.asp?EdpNo=1724262&amp;qty=1&amp;cm_sp=RightNav-_-Spot%2001-_-CatId_22_A79-1045" class="info"><font color="#CC0000">BUY</font><img src="http://images.highspeedbackbone.net/frontproducts/greybubblearrowbl.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>
-
-  </span></td>
-
-    <td width="10" valign="top"><img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" width="10" height="6"></td>
-
-  </tr>
-
-  <tr>
-
-  <td height="10" colspan="0"><img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" width="10" height="10"></td>
-
-  </tr>
-
-  <tr>
-
-    <td height="1" valign="top"><img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" width="1" height="1"></td>
-
-    <td bgcolor="#000000"><img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" width="1" height="1"></td>
-
-    <td height="1" valign="top"><img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" width="1" height="1"></td>
-
-  </tr>
-
-  <tr>
-
-  <td height="10" colspan="0"><img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" width="10" height="10"></td>
-
-  </tr>
-
-  <tr>
-
-    <td valign="top">&nbsp;</td>
-
-   
-
-   <td width="141"><strong>Microsoft Windows 7 Home Premium 64-Bit<br>
-
-    </strong><a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=5213932&amp;sku=M17-7302&amp;cm_sp=RightNav-_-Spot%2002-_-CatId_26_M17-7302"><img src="http://images.highspeedbackbone.net/dealday/right_M17-7302.jpg" width="140" height="95" border="0"></a>
-
-<span><strong></strong></span><span class="price"><strong> </strong><br>
-    <span class="price"><strong>$99.99</strong></span> <a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=5213932&amp;sku=M17-7302&amp;cm_sp=RightNav-_-Spot%2002-_-CatId_26_M17-7302" class="info">INFO</a>
-
-    | <a href="http://www.tigerdirect.ca/cgi-bin/order.asp?EdpNo=5213932&amp;qty=1&amp;cm_sp=RightNav-_-Spot%2002-_-CatId_26_M17-7302" class="info"><font color="#CC0000">BUY</font><img src="http://images.highspeedbackbone.net/frontproducts/greybubblearrowbl.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>
-
-  </span></td>
-
-  </tr>
-
-  <tr>
-
-  <td height="10" colspan="0"><img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" width="10" height="10"></td>
-
-  </tr>
-
-  <tr>
-
-    <td height="1" valign="top"><img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" width="1" height="1"></td>
-
-    <td height="1" bgcolor="#000000"><img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" width="1" height="1"></td>
-
-    <td height="1" valign="top"><img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" width="1" height="1"></td>
-
-  </tr>
-
-  <tr>
-
-  <td height="10" colspan="0"><img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" width="10" height="10"></td>
-
-  </tr>
-
-  <tr>
-
-    <td valign="top">&nbsp;</td>
-
-   
-
-   <td width="141"><strong>Seagate Expansion Desktop 3TB External Hard Drive<br>
-
-    </strong><a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=2933287&amp;sku=S130-8704&amp;cm_sp=RightNav-_-Spot%2003-_-CatId_8_S130-8704"><img src="http://images.highspeedbackbone.net/dealday/right_S130-8704.jpg" width="140" height="95" border="0"></a>
-<span><strong></strong></span><span class="price"><strong> </strong><br>
-    <span class="price"><strong>$139.97</strong></span> <a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=2933287&amp;sku=S130-8704&amp;cm_sp=RightNav-_-Spot%2003-_-CatId_8_S130-8704" class="info">INFO</a>
-
-    | <a href="http://www.tigerdirect.ca/cgi-bin/order.asp?EdpNo=2933287&amp;qty=1&amp;cm_sp=RightNav-_-Spot%2003-_-CatId_8_S130-8704" class="info"><font color="#CC0000">BUY</font><img src="http://images.highspeedbackbone.net/frontproducts/greybubblearrowbl.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>
-
-  </span></td>
-
-    </tr><tr>
-
-  <td height="10" colspan="0"><img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" width="10" height="10"></td>
-
-  </tr>
-
-    <tr>
-
-    <td height="1" valign="top"><img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" width="1" height="1"></td>
-
-    <td height="1" bgcolor="#000000"><img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" width="1" height="1"></td>
-
-  </tr>
-
- <!-- </table> -->
-
                         <!--Circuit City Top 10 -->
                         
                         <tr>
@@ -1747,32 +1771,31 @@ My first online order with Tiger Direct was a positive experience. Fast processi
             <br>
             
         
-    <img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" height="2" width="1"><br>
+    <img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" height="2" width="1" alt=""><br>
     
     <center>
         
     </center>
     <br>
-    <img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" height="2" width="1"><br>
-    <center>
+    <img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" height="2" width="1" alt=""><br>
     
     <center>
         <img src="http://images.highspeedbackbone.net/rightnav/h_advert.gif" width="70" height="5" style="margin-bottom: 1px;
             margin-top: 20px;"><br>
     </center>
     <!-- begin ad tag-->
-    <iframe src="http://ad.doubleclick.net/adi/td.TigerCanada/ROS_160x600;sz=160x600;ord=9509567022323?" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-    <script language="JavaScript" src="http://ad.doubleclick.net/adj/td.TigerCanada/ROS_160x600;sz=160x600;abr=!ie;ord=9509567022323?"
+    <iframe src="http://ad.doubleclick.net/adi/td.TigerCanada/ROS_160x600;sz=160x600;ord=5498819947242?" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
+    <script language="JavaScript" src="http://ad.doubleclick.net/adj/td.TigerCanada/ROS_160x600;sz=160x600;abr=!ie;ord=5498819947242?"
             type="text/javascript"></script>
     </iframe>
     <noscript>
-        <a href="http://ad.doubleclick.net/jump/td.TigerCanada/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=9509567022323?"
+        <a href="http://ad.doubleclick.net/jump/td.TigerCanada/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=5498819947242?"
             target="_blank">
-            <img src="http://ad.doubleclick.net/ad/td.TigerCanada/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=9509567022323?"
+            <img src="http://ad.doubleclick.net/ad/td.TigerCanada/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=5498819947242?"
                 width="160" height="600" border="0" alt=""></a></noscript>
     <!-- End ad tag -->
 
-</center></div>
+</div>
 <!-- insert banner for right nav ends here--->
 
 <img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" height="8"><br>
@@ -1991,10 +2014,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         	<h6><span>Services &amp; Support</span></h6>
 
             <a href="/sectors/help/index.asp">Help &amp; FAQs</a>
+            <a href="/sectors/rebates/index.asp" title="Rebate Center" rel="nofollow">Rebate Center</a>
             <a href="/sectors/recalls/index.asp">Product Recalls</a>
             <a href="/sectors/giftcenter/indexca.asp?name=Gift-Ideas">Gift Ideas</a>
             <a href="/applications/partners/index.asp">Shop by Brand</a>
             <a href="/applications/email/emailafriend.asp">Email This Page</a>
+            <a href="/sectors/campaigns/recycle/index.asp">Recycling</a>
         </div>
         <div>
         	<h6><span>Shipping &amp; Returns</span></h6>
@@ -2039,7 +2064,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
     <div class="customerHelp">Need help? We're available at 1-800-800-8300</div>
     <div class="secureSeals">
    	  <p align="center" class="logos"><a target="_blank" href="http://www.systemax.com/"><img title="Systemax" alt="Systemax" src="http://images.highspeedbackbone.net/footer/systemax.jpg"></a><a onclick="window.open(this.getAttribute('href'),'help','scrollbars=yes,width=550,height=450');return false;" target="_blank" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.TIGERDIRECT.CA&amp;lang=en"><img border="0" alt="VeriSign" src="http://images.highspeedbackbone.net/footer/verisign1.gif"></a><img alt="Paypal" src="http://images.highspeedbackbone.net/footerus/Newfooter/paypal.jpg"><a onclick="window.open(this.getAttribute('href'),'help','scrollbars=yes,width=570,height=450');return false;" target="_blank" href="/cgisec/mcs_learn_more.asp"><img border="0" alt="Mastercard Secure" src="http://images.highspeedbackbone.net/footer/logos-mc.png"></a><a onclick="window.open(this.getAttribute('href'),'help','scrollbars=yes,width=570,height=450');return false;" target="_blank" href="/cgisec/vbv_learn_more.asp"><img border="0" alt="Verified by VISA" src="http://images.highspeedbackbone.net/footer/logos-visa.png"></a></p>
-      <p class="copyright">Copyright © 2011 TigerDirect.ca, Inc. All rights reserved. 55 East Beaver Creek Rd. Unit G, Richmond Hill, ON, Canada, L4B 1E5 </p>
+      <p class="copyright">Copyright © 2013 TigerDirect.ca, Inc. All rights reserved. 55 East Beaver Creek Rd. Unit G, Richmond Hill, ON, Canada, L4B 1E5 </p>
       <ul class="otherSites">
         	<li class="title">Select a country:</li>
             <li><a href="http://www.tigerdirect.com">US</a></li>
@@ -2100,54 +2125,23 @@ google.setOnLoadCallback(onLoad);
 </script>
 
 
-<!--SERVER:WEBX14-03A-->
+<!--SERVER:WEBX13-01A-->
 
 
 
-
-<!-- Begin Bloomreach Page Initialization -->
-<script type="text/javascript">
-   var br_data = {};
-   /* --- Begin parameters section: fill in below --- */
-   br_data.acct_id = "5099";
-   br_data.ptype = "other";
-   br_data.cat = "";
-   br_data.prod_id = "";
-   br_data.prod_name = "";
-   br_data.is_conversion = "0";
-   br_data.basket_value = "0";
-   br_data.order_id ="";
-   /* --- End parameter section --- */
-
-   var file = ("https:" == document.location.protocol) ? "https://cdns.brsrvr.com/v1/br-trk-5099.js" : "http://cdn.brcdn.com/v1/br-trk-5099.js";
-   document.write(unescape("%3Cscript src='" + file + "'type='text/javascript'%3E%3C/script%3E"));  
-</script><script src="https://cdns.brsrvr.com/v1/br-trk-5099.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-try {
-  var tracker = BrTrk.getTracker(0.2, br_data);
-  tracker.enableTracking();
-} catch(err) {}
-</script> 
-<!-- End Bloomreach Page Initialization -->
-
-<!--Cart(rNavSearch)    :^D>>Top Product: >>^D>>Top Product: >>^D>>Top Product: >>-->
-<!--Cart(rNavEdpDesc)   :^D>>Microsoft Windows 7 Professional 64bit OSS>>EdpNo=5213934^D>>Seagate STAA500100 FreeAgent GoFlex 500GB Ultra-Po>>EdpNo=6078392^D>>Logitech LS21 2.1 Stereo Speakers>>EdpNo=3832359-->
-<!--Cart(rNavLastVisit) :-->
-<!--Cart(rNavCatId)     :^C>>Musical Instruments>>guidedsearch.asp?CatId=5141^C>>CPUs / Processors>>guidedsearch.asp?CatId=22^C>>Furniture>>category_tlc.asp?CatId=221-->
-<!--Cart(Referer)       :http://tigerdirect.ca/robots.txt-->
-<!--Cart(Landing)       :http://www.tigerdirect.ca/indexca.asp-->
-<!--DB(msImageSC)       :/microsoft/MSelasticity-bnr_620x150A.jpg-->
+  <script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <!--SRCCODE             :CANW-->
+<!--SessionId           :4985519020130603040543204236226210-->
+<!--SRVR                :WEBX13-01A-->
+<!--DB(msImageSC)       :/microsoft/MSelasticity-bnr_620x150C.jpg-->
 <!--DB(Surveyflag)      :1-->
-<!--DB(msImageID)       :/microsoft/MSelasticity-bnr_430x150A.jpg-->
-<!--DB(gq)              :-->
-<!--DB(PageSize)        :10-->
-<!--DB(msProduct)       :335878-->
-<!--DB(GuidSort)        :4-->
-<!--DB(msRandX)         :7-->
-<!--SRCCODE             :CANW-->
-<!--SRVR                :WEBX14-03A-->
-<!--SessionId           :3444356620120919041432207241237227-->
+<!--DB(msImageID)       :/microsoft/MSelasticity-bnr_430x150C.jpg-->
+<!--DB(msProduct)       :1782427-->
+<!--DB(msRandX)         :83-->
+<!--Cart(rNavSearch)    :^D>>Top Product: >>^D>>Top Product: >>^D>>Top Product: >>-->
+<!--Cart(rNavLastVisit) :-->
+<!--Cart(rNavCatId)     :^D>>Desktop Computers>>category_tlc.asp?CatId=6^D>>Monitors>>category_tlc.asp?CatId=12^D>>Laptops &amp; Notebooks>>category_tlc.asp?CatId=17-->
+<!--Cart(rNavEdpDesc)   :^D>>Kingwin 120mm Long Life Bearing Case Fan>>EdpNo=5525807^D>>D-Link Wireless-N Home Router >>EdpNo=5650958^D>>Ultra ULT31803 All-in-One Flash Reader>>EdpNo=1187796-->
 
 
 
