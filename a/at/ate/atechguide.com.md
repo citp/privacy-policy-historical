@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atechguide.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026132405id_/http%3A//atechguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atechguide.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603114330id_/http%3A//atechguide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | aTechGuide.com
+# Privacy Policy for www.aTechguide.com
 
 **Privacy Policy for www.aTechguide.com**
 
