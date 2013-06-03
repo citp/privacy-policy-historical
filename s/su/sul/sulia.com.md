@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sulia.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105143502id_/http%3A//sulia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sulia.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603040340id_/http%3A//sulia.com/privacy) for the most accurate reproduction.*
 
 # Sulia Privacy Policy
 
@@ -54,13 +54,13 @@ We share Aggregate Information with our partners, service providers and other pe
 
 ## How and To Whom Is My Information Shared?
 
-Sulia is designed to help you share information that you or people you choose to follow elect to post to Sulia or Third Party Services. 
+Sulia is designed to help you share information that you or people you choose to trust elect to post to Sulia or Third Party Services. 
 
 **Public Sulia Activity Information:**
 
 Much of your activity on and through Sulia is public by default. This includes, but is not limited to: 
 
-  * Channels and members that you follow, your profile information, including selected avatar/image, user name, bio, etc.
+  * Channels and members that you trust, your profile information, including selected avatar/image, user name, bio, etc.
   * Content that you create and curate on your Account, and metrics and analytics information for your curated content, as described above. 
 
 
