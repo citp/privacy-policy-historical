@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makemarketlaunch.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225022517id_/http%3A//www.makemarketlaunch.com/launch/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemarketlaunch.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603044825id_/http%3A//www.makemarketlaunch.com/launch/privacy) for the most accurate reproduction.*
 
-# Make It | Market It | Launch It
+# Make Market Launch It - Video 1: The 7-Step Formula
 
 **Privacy Policy  
 (Ver 1.0 Effective October 28, 2011)**
