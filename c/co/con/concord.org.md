@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concord.org privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224214402id_/http%3A//concord.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concord.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603024339id_/http%3A//concord.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Concord Consortium
 
@@ -32,7 +32,7 @@ We require a valid email address for Print subscriptions to our @Concord Newslet
 
 ### Cookies
 
-The site does not use cookies to track users. For some applications on the site, a cookie is used to maintain your state. For example, a cookie may be set when you login to your Concord Account. This cookie allows the server to know that you have, in fact, logged in.
+This site uses cookies to collect information about how visitors use and navigate it. These cookies collect information in an anonymous form that does not identify visitors. We use this information to compile reports for helping us improve the site.
 
 ### Internet Data
 
