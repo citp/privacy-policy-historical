@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairtilizer.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226233549id_/http%3A//official.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairtilizer.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603212403id_/http%3A//official.fm/privacy) for the most accurate reproduction.*
 
 # Official.fm - Your music. Your way.
 
