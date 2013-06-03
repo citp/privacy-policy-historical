@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poise.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919230848id_/http%3A//www.poise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poise.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604010905id_/http%3A//www.poise.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Poise
 
@@ -22,7 +22,7 @@ When you voluntarily sign up on this Site, we add your name, email address and s
 
 #### **Interest-Based Advertising**
 
-Kimberly-Clark participates in interest-based (on-line behavior) advertising. This means that you may see advertising on our website tailored to how you browse or shop, or you may see advertising for Kimberly-Clark products on other websites based on your browsing behavior across websites. You may opt-out of such interest-based advertising through the same "opt out" methods identified in the previous paragraph. Kimberly-Clark voluntarily participates in the Digital Advertising Alliance self-regulation program. As part of this self-regulation program, Kimberly-Clark supports deployment of the Advertising Option icon ("Ad Choices") in partnership with Evidon.
+Kimberly-Clark participates in interest-based (on-line behavior) advertising. This means that you may see advertising on our website tailored to how you browse or shop, or you may see advertising for Kimberly-Clark products on other websites based on your browsing behavior across websites. Kimberly-Clark voluntarily participates in the Digital Advertising Alliance self-regulation program. As part of this self-regulation program, Kimberly-Clark supports deployment of the Advertising Option icon ("Ad Choices") in partnership with Evidon.
 
 #### **Privacy for Mobile Applications**
 
