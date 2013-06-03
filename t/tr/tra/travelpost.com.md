@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelpost.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010195332id_/http%3A//travelpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpost.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603082113id_/http%3A//travelpost.com/privacy) for the most accurate reproduction.*
 
 # TravelPost
 
@@ -66,7 +66,7 @@ We reserve the right to send you certain communications relating to your registr
 
 Third parties may independently collect information about users when users choose to view links or ads displayed on TravelPost. Users should contact those third parties directly if they do not wish to receive communications from them, or do not want those third parties to collect information about them.
 
-We are opposed to spam and our [Terms of Service](http://www.travelpost.com/tos.aspx) expressly prohibit users from uploading, posting, emailing, transmitting or otherwise making available junk mail, commercial advertisements, or other form of commercial solicitation on the TravelPost website or through TravelPost's services. Any violation of our policies, by sending unsolicited email advertisements to or through TravelPost's computer systems, will result in the sender being blocked from use of the Site and may subject the sender and his or her agents to civil and criminal penalties.
+We are opposed to spam and our [Terms of Service](http://www.travelpost.com/terms) expressly prohibit users from uploading, posting, emailing, transmitting or otherwise making available junk mail, commercial advertisements, or other form of commercial solicitation on the TravelPost website or through TravelPost's services. Any violation of our policies, by sending unsolicited email advertisements to or through TravelPost's computer systems, will result in the sender being blocked from use of the Site and may subject the sender and his or her agents to civil and criminal penalties.
 
 **6\. What security procedures does TravelPost use to protect against the loss, misuse, or alteration of information collected by the company?**
 
@@ -99,4 +99,4 @@ Seattle, WA 98104
 Attention: Privacy Officer   
 
 
-Further information about TravelPost is available at [About TravelPost.com](https://web.archive.org/web/20121010195332id_/http%3A//travelpost.com/about.aspx). 
+Further information about TravelPost is available at [About TravelPost.com](https://web.archive.org/web/20130603082113id_/http%3A//travelpost.com/about.aspx). 
