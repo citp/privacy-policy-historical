@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tga.gov.au privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110074340id_/http%3A//www.tga.gov.au/about/website-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tga.gov.au privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603054837id_/http%3A//tga.gov.au/about/website-privacy.htm) for the most accurate reproduction.*
 
 # Privacy & security
 
@@ -47,7 +47,7 @@ This website contains links to other sites. The Australian Government is not res
 
 ## Security
 
-The Department of Health and Ageing applies a range of security controls to protect its website from unauthorised access. However, users should be aware that the World Wide Web is an insecure public network that gives rise to a potential risk that a user's transactions are being viewed, intercepted or modified by third parties or that files which the user downloads may contain computer viruses, disabling codes, worms or other devices or defects. If you do not wish to email or send an online form to the Department, you can send a postal mail to the address below. 
+The Department of Health and Ageing applies a range of security controls to protect its website from unauthorised access. However, users should be aware that the World Wide Web is an insecure public network that gives rise to a potential risk that a user's transactions are being viewed, intercepted or modified by third parties or that files which the user downloads may contain computer viruses, disabling codes, worms or other devices or defects. If you do not wish to email or send an online form to the Department, you can send a postal mail to the address below.
 
 The Commonwealth accepts no liability for any interference with or damage to a user's computer system, software or data occurring in connection with or relating to this web site or its use. Users are encouraged to take appropriate and adequate precautions to ensure that whatever is selected from this site is free of viruses or other contamination that may interfere with or damage the user's computer system, software or data.
 
@@ -68,6 +68,6 @@ Content last updated: Wednesday, 2 February 2011
 
 Content last reviewed: Wednesday, 2 February 2011
 
-Web page last updated: Wednesday, 2 February 2011
+Web page last updated: Monday, 20 May 2013
 
 URL: http://www.tga.gov.au/about/website-privacy.htm
