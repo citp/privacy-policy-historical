@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geteverything.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231034826id_/http%3A//geteverything.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geteverything.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603022223id_/http%3A//geteverything.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GetEverything.Org
+# Privacy Policy : GetEverything.Org
 
 [**http://www.geteverything.org**](http://www.geteverything.org/)  takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
