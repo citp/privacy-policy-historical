@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogaoutlet.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205011610id_/http%3A//www.yogaoutlet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogaoutlet.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603154001id_/http%3A//www.yogaoutlet.com/privacy-policy) for the most accurate reproduction.*
 
 # YogaOutlet.com - Yoga Clothes, Mats, Gear & More!
 
