@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the catofashions.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104102210id_/http%3A//www.catofashions.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catofashions.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603160703id_/http%3A//catofashions.com/privacy-policy) for the most accurate reproduction.*
 
 # Cato - Privacy Policy - CatoFashions.com and Cato email
 
 **The Cato Web Site and Broadcast Email Privacy Policy, Security and Terms of Use  
 **The Privacy Policy, Security and Terms of Use are subject to change as the site content, practices, and features evolve. The Cato Corporation encourages you to read these policies each time you visit catofashions.com. 
 
-The Cato Corporation requests that you read the Privacy Policy, Security and Terms of Use before using this web site. Your use of catofashions.com constitutes your acceptance of the Terms of Use provided below and your agreement to follow and be bound by these terms without modification.
+The Cato Corporation requires that you read the Privacy Policy, Security and Terms of Use before using this web site. Your use of catofashions.com constitutes your acceptance of the Terms of Use provided below and your agreement to follow and be bound by these terms without modification.
 
 **Cato Privacy Policy  
 **The Cato Corporation respects your privacy, and we are committed to making your visit to our web site as comfortable and confident as possible. If you have any questions regarding our Privacy Policy, Terms of Use, or the practices of this site, please contact us at:
@@ -23,7 +23,7 @@ Or email us at:
 **The Cato Corporation collects information in several ways from different areas of our web site in order to provide you with personal service. This information may also be used to evaluate and enhance your shopping experience with Cato and your visit to our web site. 
 
 **Personal Information  
-**The types of information we collect to personally identify you include your name, address, telephone number, and email address. Cato collects this information only when you volunteer this information on applications or sign-up forms located on this web site. By entering information into any one of these areas, you grant Cato permission to contact you about selected products, companies and events we think may interest you. If you later decide you do not want to be contacted, please let us know by mail, phone or email at [general1@catocorp.com](mailto:general1@catocorp.com). If you wish to modify your personal information, please [click here](https://web.archive.org/web/20121104102210id_/http%3A//www.catofashions.com/myinfo/index.cfm).
+**The types of information we collect to personally identify you include your name, address, telephone number, and email address. Cato collects this information only when you volunteer this information on applications or sign-up forms located on this web site. By entering information into any one of these areas, you grant Cato permission to contact you about selected products, companies and events we think may interest you. If you later decide you do not want to be contacted, please let us know by mail, phone or email at [general1@catocorp.com](mailto:general1@catocorp.com). If you wish to modify your personal information, please [click here](https://web.archive.org/email-sign-up).
 
 Certain areas of our site are only accessible upon disclosure of personally identifiable information. These areas include our Contact Form, Credit Card Application, and Vendor pages. Therefore, if you do not wish to volunteer your personal information in these areas, access will be denied.
 
@@ -76,4 +76,4 @@ Catofashions.com and Cato, as well as logos, images, graphics, photos, video fil
 **The Cato Corporation offers and displays the products on this site as reasonable representations and availability of the color, configuration, design, texture, and/or look of their products. However, The Cato Corporation does not guarantee that the product representations are accurate in every detail or that each product will be available at every store location.
 
 **Customer Email Correspondence  
-**The Cato Corporation adheres to the requirements established under the CAN-SPAM Act of 2003 for broadcast customer email correspondence. If you are already on the Cato email address list and would like to be removed, please [click here](https://web.archive.org/web/20121104102210id_/http%3A//www.catofashions.com/myinfo/index.cfm). To view the CAN-SPAM Act of 2003, please [click here](http://www.spamlaws.com/federal/108s877.html).
+**The Cato Corporation adheres to the requirements established under the CAN-SPAM Act of 2003 for broadcast customer email correspondence. If you are already on the Cato email address list and would like to be removed, please [ click here](https://web.archive.org/unsubscribe). To view the CAN-SPAM Act of 2003, please [click here](http://www.spamlaws.com/federal/summ108.shtml).
