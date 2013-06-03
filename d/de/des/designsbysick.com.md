@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designsbysick.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108014112id_/http%3A//www.designsbysick.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designsbysick.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603210802id_/http%3A//www.designsbysick.com/privacy.php) for the most accurate reproduction.*
 
 # Designsbysick.com Embroidery Library
 
@@ -105,8 +105,3 @@ Respectfully,
 
 Shawn Knight President  
 http://www.designsbysick.com
-
-Website and Embroidery Designs Copyright (C) Shawn Knight Systems Inc.  
-Permission granted to use machine embroidery designs for your own commercial and personal embroidery.  
-Permission denied to resell or give away machine embroidery designs in electronic format.  
-
