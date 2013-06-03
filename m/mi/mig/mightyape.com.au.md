@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightyape.com.au privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225152213id_/http%3A//www.mightyape.com.au/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightyape.com.au privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603182846id_/http%3A//www.mightyape.com.au/help/privacy-policy) for the most accurate reproduction.*
 
 # Help - Privacy Policy at Mighty Ape Australia
 
@@ -36,7 +36,7 @@ We have collected this information in order to provide the best possible service
 
 ### What about cookies?
 
-A cookie is a small file that resides on your computer and is recognised by our server when you visit our sites. A cookie does not provide us with any personally identifiable information. It does provide details of your IP address, the computer platform that you use (eg Mac or Windows), the browser that you use (eg Microsoft Explorer or Netscape) and what domain you are accessing our sites from.
+A cookie is a small file that resides on your computer and is recognised by our server when you visit our sites. A cookie does not provide us with any personally identifiable information. It does provide details of your IP address, the computer platform that you use, the browser that you use and what domain you are accessing our sites from.
 
 With this information we can do the following:
 
@@ -57,6 +57,12 @@ You will always have the option to opt in to certain services and to opt out of 
 
 ### Your right to access your information
 
-The Privacy Act of 1993 gives you the right to access and correct your personal information. To find out more about how to do this, please contact us. Alternatively, post your corrections to the attention of the Database Marketing Manager at Mighty Ape, PO Box 80, Greenhithe, Auckland, New Zealand, 0756.
+The Privacy Act of 1993 gives you the right to access and correct your personal information. To find out more about how to do this, please contact us. Alternatively, post your corrections to the attention of the Database Marketing Manager at Mighty Ape, PO Box 302488, North Harbour, Auckland 0751, New Zealand.
+
+### Google Remarketing
+
+Mighty Ape uses Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, show our ads on sites across the Internet.
+
+Ourselves and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visits to our website.
 
 If you have any questions regarding our privacy policy, please contact us.
