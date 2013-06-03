@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypinkfriday.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204064220id_/http%3A//mypinkfriday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypinkfriday.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604015944id_/http%3A//mypinkfriday.com/privacy) for the most accurate reproduction.*
 
 # Nicki Minaj
 
@@ -61,9 +61,9 @@ This privacy policy is provided in conformity with the [Children’s Online Priv
 
 If parents or legal guardians have any questions regarding their child’s use of this web site, they may contact the operator of this website at the following address, phone number or email:
 
-808 R Street, Suite 201
+120 K. Street Suite 3rd Floor
 
-Sacramento, CA 95811
+Sacramento, CA 95814
 
 Toll Free: 1 (877) GND-CTRL
 
@@ -139,9 +139,9 @@ Your use of this web site and our network, and any disputes arising from it, is 
 
 If you have any questions regarding this Privacy Policy, the practices of this web site, or your dealings with this web site, please contact us at the following mailing address, phone number, or email address:
 
-808 R Street, Suite 201
+120 K. Street Suite 3rd Floor
 
-Sacramento, CA 95811
+Sacramento, CA 95814
 
 Toll Free: 1 (877) GND-CTRL
 
