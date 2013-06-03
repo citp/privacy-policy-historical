@@ -1,91 +1,6 @@
-> *The following text is extracted and transformed from the psychologistworld.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527135131id_/http%3A//www.psychologistworld.com/sitestuff/contactinfo.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologistworld.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603093117id_/http%3A//psychologistworld.com/support/privacy-statement.php) for the most accurate reproduction.*
 
-# Contact Information - Psychologist World
-
-| 
-
-**  Psychologist World**  
-  
----  
-  
-**  Browse by Category:**  
-  
-| 
-
-**[Behavioral Psychology](https://web.archive.org/behavior/)**  
-[Approach](https://web.archive.org/issues/behavioralapproach.php), [Aversion Therapy](https://web.archive.org/behavior/aversiontherapy.php), [Conditioning](https://web.archive.org/memory/conditioning_intro.php), [Flooding](https://web.archive.org/behavior/flooding.php), [more...](https://web.archive.org/behavior/)  
-  
----  
-  
-**[Biological Approach](https://web.archive.org/biological/)**  
-[Approach](https://web.archive.org/issues/biologicalapproach.php), [Brain Explorer](https://web.archive.org/biological/brainexplorer.php), [Biology & Behavior](https://web.archive.org/biological/canitexplain.php), [Lobotomy](https://web.archive.org/biological/lobotomy.php), [Narcotics](https://web.archive.org/biological/cells.php), [more...](https://web.archive.org/biological/)  
-  
-[**Body Language**](https://web.archive.org/bodylanguage/)  
-[Reading Body Language](https://web.archive.org/bodylanguage/reading.php), [Truth Signals](https://web.archive.org/bodylanguage/truth.php), [Non-Verbal Signals](https://web.archive.org/bodylanguage/nonverbal.php), [Self Image](https://web.archive.org/bodylanguage/self_image.php), [more...](https://web.archive.org/bodylanguage/)  
-  
-**[Cognitive Psychology](https://web.archive.org/cognitive/)**  
-[Cognitive Approach](https://web.archive.org/cognitive/approach.php), [more...](https://web.archive.org/cognitive/)  
-  
-**[Developmental Psychology](https://web.archive.org/developmental/)**
-
-[Developmental Overview](https://web.archive.org/developmental/), [Attachments](https://web.archive.org/developmental/attachment-theory.php)  
-  
-[**Disorders (Mental)**](https://web.archive.org/issues/)  
-[Depression](https://web.archive.org/issue/depression_definition.php), [OCD](https://web.archive.org/issue/ocd_criteria.php), [Narcolepsy](https://web.archive.org/issue/narcolepsy.php), [Phobias](https://web.archive.org/issue/phobias.php), [PTSD](https://web.archive.org/issue/ptsd.php), [Schizophrenia](https://web.archive.org/issue/schizophrenia.php), [Synesthesia](https://web.archive.org/issue/synesthesia.php), [more...](https://web.archive.org/issues/)  
-  
-**[Dreams](https://web.archive.org/dreams/)**  
-[Interpret Your Dreams Guide](https://web.archive.org/dreams/interpretation/), [Dream Symbols](https://web.archive.org/dreams/interpretation/dream_symbols.php), [Nightmares](https://web.archive.org/dreams/interpretation/nightmares.php), [Why do we dream?](https://web.archive.org/dreams/whydowedream.php), [more...](https://web.archive.org/dreams/)  
-  
-**[Emotion](https://web.archive.org/psychology_articles.php#emotion)**
-
-[Attraction](https://web.archive.org/emotion/attraction.php), [Emotion Guide](https://web.archive.org/emotion/emotion_1.php), [Love](https://web.archive.org/emotion/love.php), [Types of Love](https://web.archive.org/emotion/lovetypes.php), [Anxiety](https://web.archive.org/emotion/types_anxiety.php), [Jealousy](https://web.archive.org/emotion/types_jealousy.php), [Narcissism](https://web.archive.org/emotion/types_narcissism.php), [Pride Emotion](https://web.archive.org/emotion/types_pride.php), [Self Pity Emotion](https://web.archive.org/emotion/types_selfpity.php), [Vanity Emotion](https://web.archive.org/emotion/types_vanity.php), [more...](https://web.archive.org/emotion/)  
-  
-**[Freud](https://web.archive.org/psychology_articles.php#freud)**  
-[Sigmund Freud](https://web.archive.org/psychologists/freud_1.php), [Evaluation](https://web.archive.org/freud/evaluation.php), [Free Association](https://web.archive.org/freud/freeassociation.php), [Personality Type Test](https://web.archive.org/influence_personality/test1.php), [Psychosexual theory](https://web.archive.org/freud/psychosexual.php), [more...](https://web.archive.org/freud/)  
-  
-**[Humanistic Approach](https://web.archive.org/issues/humanistic-approach.php)**  
-[Approach Overview](https://web.archive.org/issues/humanistic-approach.php)  
-  
-**[Memory](https://web.archive.org/memory/)**   
-[Association](https://web.archive.org/memory/association.php), [Conditioning](https://web.archive.org/memory/conditioning_intro.php), [Rehersal](https://web.archive.org/memory/craik_lockhart.php), [Levels of Processing](https://web.archive.org/memory/levels_processing.php), [Flashbulb Memory](https://web.archive.org/memory/flashbulb.php), [Forgetting](https://web.archive.org/memory/forgetting.php), [Memory Improvement](https://web.archive.org/memory/retentive.php), [Working Memory Model](https://web.archive.org/memory/working_memory_model.php), [more...](https://web.archive.org/memory/)  
-  
-******[Personality](https://web.archive.org/psychology_articles.php#personality)**  
-[Conforming in Groups](https://web.archive.org/influence_personality/asch.php), [Authority](https://web.archive.org/influence_personality/authority.php), [Brainwashing](https://web.archive.org/influence_personality/brainwashing.php), [Influence of Language](https://web.archive.org/influence_personality/language.php), [Social Influence](https://web.archive.org/influence_personality/socialinfluence.php), [more...](https://web.archive.org/psychology_articles.php#personality)  
-  
-**[Sleep](https://web.archive.org/psychology_articles.php#sleep)**  
-[Sleep Deprivation](https://web.archive.org/sleep/deprivation.php), [Sleeping Disorders](https://web.archive.org/sleep/disorders.php), [Stages of Sleep](https://web.archive.org/sleep/stages.php), [more...](https://web.archive.org/sleep/)  
-  
-**[Stress](https://web.archive.org/psychology_articles.php#stress)**  
-[What is Stress?](https://web.archive.org/stress/whatis.php), [Anger Test](https://web.archive.org/stress/angertest.php), [Fight or Flight Response](https://web.archive.org/stress/fightflight.php), [Karoshi](https://web.archive.org/stress/karoshi.php), [Stress Management](https://web.archive.org/stress/stressmanagement.php), [Stress Test](https://web.archive.org/stress/stresstest.php), [more... ](https://web.archive.org/stress/)  
-  
-**[Personality Tests](https://web.archive.org/tests/)**  
-[Are you Fixated?](https://web.archive.org/freud/fixation_test.php), [Personality Type Test](https://web.archive.org/influence_personality/test1.php), [Anger Test](https://web.archive.org/stress/angertest.php), [Stress, Depression & Anxiety Test](https://web.archive.org/stress/stresstest.php), [more...](https://web.archive.org/tests/)  
-  
-[**View all articles...**](https://web.archive.org/psychology_articles.php)  
-  
-**  Site Information: **  
-  
-Contact Details & Privacy Policy - Psychologist World
-
-> **UK Customer Support & Sales: **(01302) 786977
-> 
-> **International Customer Support & Sales:** +44 (1302) 786977
-> 
-> **Alternative You can write to the Psychologist World Head Office at:**
-> 
-> 78 Tennyson Avenue
-> 
-> Doncaster
-> 
-> South Yorkshire
-> 
-> DN5 8EX
-> 
-> England
-> 
-> **Email: support psychologistworld.com**
-
-##### Privacy Policy
+# Privacy Statement - Psychologist World
 
 ###### What information do we collect?
 
@@ -99,7 +14,6 @@ What do we use your information for?
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  
 • To personalize your experience (your information helps us to more effectively respond to your customer service requests and support needs)  
 • To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)  
 • To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)  
@@ -113,7 +27,6 @@ Your information, whether public or private, will not be sold, exchanged, transf
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.
 
-  
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providers databases to be only accessed as stated above.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will be kept on file for more than 60 days in order to maintain subscriptions.
@@ -124,7 +37,6 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.
 
-  
 If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
 
 ###### Do we disclose any information to outside parties?
@@ -143,36 +55,41 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
->  
+##### Cookies Statement
 
 In line with most major web sites, this site uses cookies to enable users to use specific functions on the website, and to track usage of the site.
 
 ###### What data is stored in cookies?
 
-  
 This site uses cookies to store statistics about a user's visit so that we can improve the site's usability, and to store essential user-specific information such as login details and the items that you add to your shopping basket. This site assumes implied consent with regards to a user’s request to save a setting (e.g. country, login details, shopping cart change), and where cookies are automatically set, this is in compliance with our Terms and Conditions of use.
 
 ###### What cookies are used to store information?
 
-  
 This site uses cookies to store statistics about a user’s visit so that we can improve the site’s usability, and to store essential user-specific information such as login details and the items that you add to your shopping basket.
 
   * __utma   
-Third party-set Google Analytics cookie. Used to track user clicks on the website to improve the site. 
+Third party-set Google Analytics cookie. Used to track user clicks on the website to improve the site.   
+
   * __utmb   
-Third party-set Google Analytics cookie.  Statistics pertaining to a user’s visit. 
+Third party-set Google Analytics cookie.  Statistics pertaining to a user’s visit.   
+
   * __utmc  
-Third party-set Google Analytics cookie.  Time spend on site. 
+Third party-set Google Analytics cookie.  Time spend on site.   
+
   * __utmz   
-Third party-set Google Analytics cookie. Source by which user found the site. 
+Third party-set Google Analytics cookie. Source by which user found the site.   
+
   * aa  
 e.g. login  
 Login information required to enable subscribers to log in.
   * bb  
 e.g. 098f6bcd4621d373cade4e832627b4f6  
-Login information required to enable subscribers to log in.
-  * Other Product Cookies:   
+Login information required to enable subscribers to log in.  
+
+  * Other Product Cookies: 
+
 Used to track users for purposes such as Google AdWords and Analytics.
+
   * Other cookies:   
 e.g. Login details, information for administrating users  
 These cookies shouldn’t affect general visitors.
@@ -196,39 +113,7 @@ Users of other web browsers can usually find information from the manufacturer o
 
 For more information on our cookies policy, please contact us – email support details can be found on the Contact Us page.
 
-###### Self Hypnosis CD's from Hypnotic World:
-
-###### Keep Up-to-Date:
-
-###### Sign Up for Full Access:
-
-Access hundreds of theories, approaches, study and experiment overviews, plus a range of psychology guides. [Sign Up](https://web.archive.org/subscribe/?a=ad12)
-
-|  |   |   
----|---|---  
-  | 
-
-**More in this area:**
-
-|    
- | 
-
-[Behavioral Psychology](https://web.archive.org/site/category.php?url=&c=behavior)  
-[Biological Psychology](https://web.archive.org/site/category.php?url=&c=biological)  
-[Body Language Reading](https://web.archive.org/site/category.php?url=&c=bodylanguage)  
-[Cognitive Psychology](https://web.archive.org/site/category.php?url=&c=cognitive)  
-[Developmental Psychology](https://web.archive.org/site/category.php?url=&c=developmental)  
-[Dreams](https://web.archive.org/site/category.php?url=&c=dreams)  
-[Emotions](https://web.archive.org/site/category.php?url=&c=emotion)  
-[Freudian Psychology](https://web.archive.org/site/category.php?url=&c=freud)  
-[Influence & Personality Psychology](https://web.archive.org/site/category.php?url=&c=influence_personality)  
-[Memory](https://web.archive.org/site/category.php?url=&c=memory)  
-[Personality Tests](https://web.archive.org/site/category.php?url=&c=tests)  
-[Psychology Issues](https://web.archive.org/site/category.php?url=&c=issue)  
-[Sleep Psychology](https://web.archive.org/site/category.php?url=&c=sleep)  
-[Stress Management](https://web.archive.org/site/category.php?url=&c=stress)  
+Access hundreds of theories, approaches, study and experiment overviews, plus a range of psychology guides including _Body Language Reading_ and _How to Interpret Your Dreams_.  
 
 
-|  |    
-|   |   
-|  
+ _[Psychologist World](https://web.archive.org/) is an online magazine dedicated to psychology, providing theory and experiment overviews, popular psychology articles and practical psychology guides. For details of content available with membership [click here](https://web.archive.org/subscribe/)._
