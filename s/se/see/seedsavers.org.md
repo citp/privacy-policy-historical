@@ -1,52 +1,33 @@
-> *The following text is extracted and transformed from the seedsavers.org privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615211201id_/http%3A//www.seedsavers.org/Content.aspx%3Fsrc%3DPrivacyPolicy5.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedsavers.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603083717id_/http%3A//www.seedsavers.org/Privacy) for the most accurate reproduction.*
 
-# Seed Savers Exchange
+# Privacy Policy
 
-This is the web site of Seed Savers Exchange.
-
-Our postal address is   
-**3094 North Winn Road**  
-**Decorah, Iowa 52101**
-
-We can be reached via e-mail at [Customer Service](mailto:customerservice@seedsavers.org)  
-or you can reach us by telephone at **(563) 382-5990**  
-
-
-  * For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+#### Privacy Policy  
   
+**Privacy Policy**
 
-  * We collect the domain name of visitors to our Web page, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit.
-  
+Seed Savers Exchange (SSE) respects your privacy and will attempt to ensure that personal information about visitors and customers is handled responsibly. In order to access certain materials or services on this site, you may be asked to provide your name, address, phone number or other information. It is your decision to provide this information. We will only use this information in accordance with this Privacy Policy.  Please be advised that you may opt-out of receiving certain information from Seed Savers Exchange. If you do not agree to this Privacy Policy, please do not use this web site.
 
-  * We do not sell, share, rent or trade our mailing list.
-  
+**Browsing our website**
 
-  * With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site.
-  
+You can browse www.seedsavers.org without telling us who you are and without revealing any personal information. The information we collect from a typical web site visit (one that does not involve a form submission or online store checkout) is your IP address, the pages you view and the date and time you view them. We use this information to measure site and store activity in order to improve the usefulness of our website to our visitors. 
 
-  * If you do not want to receive e-mails from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number.
-  
+**Collection of personally identifiable information**
 
-  * If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address.
-  
+Visitors must register in order to use certain features of our website, such as our Online Store, Contact us web form, forum, blog, webinars, or email newsletters. During registration, a visitor is required to provide contact information such as name, email address, or zip code. We use this information to verify the authenticity of your email, and we may on occasion contact visitors about features and services that we believe may be of interest.
 
-  * If you supply us with your e-mail address on-line you may receive periodic newsletters from us with news or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address.
-  
+When a visitor shops at our online store, we request information that enables us to respond to the visitor. This information could include contact information (such as name, shipping and billing address, and email address) and, if applicable, financial, payment, or billing information. Visitors who create an account with us have the ability to create and maintain their own password. That password is encrypted so we cannot see what it is. If you provide us with your credit card information, it is also encrypted within our e-commerce system.
 
-  * Please provide us with your exact name and address. 
-  
+Seed Savers Exchange may gather email addresses and other personally identifiable data about visitors when such data is voluntarily submitted to www.seedsavers.org. For example, our site uses submission forms for visitors to sign up for a free catalog; request information; or to sign-up for our newsletters. You will receive unrelated emails only if you have specifically opted-in to one of our mailing lists at the time you provided it. Other contact information (e.g., mailing address, phone number) may be used to verify your order, customer or membership information, or to contact you about opportunities with Seed Savers Exchange that we feel may be of interest to you. Financial information is used to bill visitors in connection with their orders. Seed Savers Exchange cannot insure against invasion by security breakers of any manner.
 
-  * From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
-  
+Seed Savers Exchange makes every effort to ensure the secure collection and transmission of sensitive user information using industry-accepted data collection and encryption methodologies.
 
-  * Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them.
-  
+We do not sell, share, rent or trade your information.
 
-  * Consumers can have this information corrected by sending us an e-mail at the above address or calling us at the above telephone number.
-  
+**Cookies**
 
-  * With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server that has an SSL certificate using at least 128-bit encryption. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+A cookie is a small data file stored on a visitor's computer that contains information about the visitor. Like most websites, SSE may place a cookie in the browser files of a visitor's computer. We use persistent cookies to store your information when you sign-in to your account so that you will not have to re-enter it when you visit again. We also use transient cookies to store items in your online store shopping cart. If visitors decline to accept cookies, they may still use our site, but some portions of our site may be inaccessible.
 
+**Use of Location Data**
 
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+When you access this web site on a mobile device, we may determine your current location and use that information to help you find nearby retail stores who sell our products. We do not share your location information with any third parties, nor do we use it for any purpose other than to determine your distance from the stores. If you are not comfortable with this, you may disable the use of location services in the application settings at any time.
