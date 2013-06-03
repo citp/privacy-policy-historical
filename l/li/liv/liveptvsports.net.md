@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveptvsports.net privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229143754id_/http%3A//liveptvsports.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveptvsports.net privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603065952id_/http%3A//liveptvsports.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,3 +17,5 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 Concerns or questions about this privacy policy can be directed to [info (@) PTVSPORTSLIVE.pk ] for further clarification.
 
 ## Share and Enjoy
+
+[Mishal Khan](https://plus.google.com/u/0/105761929751124364704/about?rel=author)
