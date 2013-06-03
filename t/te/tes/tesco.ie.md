@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tesco.ie privacy policy that was archived on 2012-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120913062546id_/http%3A//www.tesco.ie/termsandconditions/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesco.ie privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603075834id_/http%3A//www.tesco.ie/help/privacy-and-cookies) for the most accurate reproduction.*
 
-# Tesco.ie Privacy policy
+# Privacy and cookies Policy- Tesco.ie
+
+We use cookies to give you the best possible experience on our site. By continuing to use the site you agree to our use of cookies. [Find out more.](http://www.tesco.ie/help/privacy-and-cookies/)
 
 Tesco.ie ("the Website") is owned and operated by Tesco Ireland Limited, part of the Tesco Group. This policy, together with our Terms and Conditions, explain how Tesco may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our Terms and Conditions carefully; by accessing the Website you confirm to have understood and agreed to them.
 
@@ -124,7 +126,7 @@ The Website may contain links to other sites which are outside our control and n
 
 ## Accessing your information
 
-To obtain a copy of the information we hold about you, write to: The Company Secretary, Tesco Ireland Limited, Gresham House, Marine Road, Dun Laoghaire, Co. Dublin, Ireland enclosing a cheque for €6.35 payable to "Tesco Ireland Limited". Please confirm your Clubcard number and any details to help us identify and locate your information. If any of the details are incorrect, let us know and we will amend them.
+To obtain a copy of the information we hold about you, write to: The Company Secretary, Tesco Ireland Limited, Gresham House, Marine Road, Dun Laoghaire, Co. Dublin, Ireland enclosing a cheque for â‚¬6.35 payable to "Tesco Ireland Limited". Please confirm your Clubcard number and any details to help us identify and locate your information. If any of the details are incorrect, let us know and we will amend them.
 
 ## Changes to our policy
 
@@ -136,4 +138,4 @@ If you have any queries, please contact us at [online@tesco.ie](mailto:online@te
 
 back to top
 
-Last update 18 May 2012 © Tesco Ireland Limited 2012
+Last update 18 May 2012
