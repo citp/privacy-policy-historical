@@ -1,37 +1,16 @@
-> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226011159id_/http%3A//www.kingice.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603081606id_/http%3A//www.kingice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  |  [](https://web.archive.org/new-arrivals.html "New Arrivals")  
----  
-   
-[](https://web.archive.org/Black-Friday-100754.html "Clearance")  
-   
-[](https://web.archive.org/Collections-100572.html "Hip Hop Collections")  
-   
-[](https://web.archive.org/Celebrity-Jewelry-100596.html "Celebrity Jewelry")  
-   
-[](https://web.archive.org/top-sellers.html "Top Sellers")  
-   
-[](https://web.archive.org/testimonial.aspx "Testimonial")  
-   
-[](https://web.archive.org/Social-Media-Contests-100672.html "Top Sellers")  
-| 
-
-  
-|  **Privacy Policy**  
----  
-KING ICE respects your privacy. Your e-mail address is totally secure. We do not sell or rent any of your individual information we collect (such as your e-mail address, name, and other information) to any third parties without your consent. We will only collect, store and use your personal information to customize the content, services and advertising we deliver to you based on your preferences and interests. For questions concerning the privacy policy of KING ICE, please contact us at [sales@kingice.com](mailto:sales@kingice.com)  
+**Privacy Policy**  
+KingIce respects your privacy. Your e-mail address is totally secure. We do not sell or rent any of your individual information we collect (such as your e-mail address, name, and other information) to any third parties without your consent. We will only collect, store and use your personal information to customize the content, services and advertising we deliver to you based on your preferences and interests. For questions concerning the privacy policy of KingIce, please contact us through [this contact form.](https://web.archive.org/web/20130603081606id_/http%3A//www.kingice.com/%7B%7Bstore%20url='contacts)  
 **Security Policy**  
-We understand your concerns regarding Internet security. KING ICE encrypts all of your personal information including credit card number, name, and address, so that it cannot be read as the information travels over the Internet. We have taken measures to maintain the highest level of security by implementing [GoDaddy](https://seal.godaddy.com/verifySeal?sealID=72138682013f5ee68127109703e719617c03065624685199897460) Site Seal Certificate encrytion. You should feel as comfortable using your credit card online as you do in a department store.   
+We understand your concerns regarding Internet security. KingIce encrypts all of your personal information including credit card number, name, and address, so that it cannot be read as the information travels over the Internet. We have taken measures to maintain the highest level of security by implementing [GoDaddy](https://seal.godaddy.com/verifySeal?sealID=72138682013f5ee68127109703e719617c03065624685199897460) Site Seal Certificate encrytion. You should feel as comfortable using your credit card online as you do in a department store.   
 **Ordering**   
-Every order at KING ICE is secure. All data submitted via the checkout form is encrypted using SSL (Secure Sockets Layer) 128 bit encryption, the highest industrial standard for commercial online payment systems, used by organizations such as the FBI.   
+Every order at KingIce is secure. All data submitted via the checkout form is encrypted using SSL (Secure Sockets Layer) 128 bit encryption, the highest industrial standard for commercial online payment systems, used by organizations such as the FBI.   
 **Recognizing** **a "Secure Area"**  
 The standard, unsecured URL address begins "http://". When you enter a secure area, the beginning of the URL address will change to "https://"; the "s" stands for secure. Most browsers in secure mode also display a blue line along the top of the browser window.   
 **Entering a "Secure Area"**   
 Your computer and our server begin to communicate in a secure area, sending data back and forth in an encrypted format. Browser encryption software is quite powerful and ensures the security of this data as it is transmitted to our server. To verify that you are in a secure area look for the padlock at the bottom right of your browser   
 **Credit Card Information**  
-The credit card numbers are placed in the SQL database on the KING ICE web server. All credit card information is stored as encrypted data. The information is scrambled and requires a virtual key possessed solely by authorized personnel, to be accessed. A user must logon, requiring a password to to access the database which includes your order history. All communications during these sessions are encrypted again using SSL. No credit card numbers are ever sent via e-mail, due to the fact that e-mail is not secure.   
-  
-  
-
+The credit card numbers are placed in the SQL database on the KingIce web server. All credit card information is stored as encrypted data. The information is scrambled and requires a virtual key possessed solely by authorized personnel, to be accessed. A user must logon, requiring a password to to access the database which includes your order history. All communications during these sessions are encrypted again using SSL. No credit card numbers are ever sent via e-mail, due to the fact that e-mail is not secure. 
