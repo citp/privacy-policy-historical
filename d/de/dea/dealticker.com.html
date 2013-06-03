@@ -1,28 +1,34 @@
-<!--The following is the downloaded HTML source of the dealticker.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230220721id_/http%3A//www.dealticker.com/privacy_policy_en_263cms.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealticker.com privacy policy that was archived on 2013-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604011405id_/http%3A//www.dealticker.com/privacy_policy_en_263cms.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="robots" content="all">
-<meta name="google-site-verification" content="tx8QQ8hp5PBIK5aPJWEaKVfBPmx3n63W1QRaG36Xzbc">
 
 
 <meta name="description" content="">
 <meta name="keywords" content=""><base href="http://www.dealticker.com/">
 <link rel="stylesheet" href="http://www.dealticker.com/js/jquery/themes/base/jquery.ui.all.css" type="text/css" media="all">
 <link rel="stylesheet" href="http://www.dealticker.com/js/jquery/themes/jquery.alerts.css" type="text/css" media="all">
-<link rel="stylesheet" href="http://www.dealticker.com/js/jquery/dropdown/dd.css" type="text/css" media="all">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.dealticker.com/js/jquery/jquery-1.4.4.min.js"></script>
 <script type="text/javascript" src="http://www.dealticker.com/js/jquery/jquery-ui-1.8.7.custom.min.js"></script>
 <script type="text/javascript" src="http://www.dealticker.com/js/jquery/jquery.alerts.js"></script>
 <script type="text/javascript" src="http://www.dealticker.com/js/jquery/jquery.tooltip.js"></script>
 <script type="text/javascript" src="http://www.dealticker.com/js/main.js"></script>
-<script type="text/javascript" src="http://www.dealticker.com/js/jquery/dropdown/jquery.dd.js"></script>
+<script type="text/javascript" src="http://www.dealticker.com/js/jquery/arrow.js"></script>
 <link rel="stylesheet" href="http://www.dealticker.com/template/style.css" type="text/css" media="all">
 <script type="text/javascript" src="http://www.dealticker.com/js/resolution.js"></script>
+<link href="http://www.dealticker.com/js/jquery/dropdown/dd.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://www.dealticker.com/js/jquery/dropdown/jquery.dd.js"></script> 
 <script type="text/javascript"> 
+    $(function() {
+//        $("body").click(function() { 
+//            f_setCity(0);
+//            f_showLike(0)            
+//        });    
+    });
+
     
     function f_setCity(){
        $('#city_list').slideToggle();
@@ -36,25 +42,20 @@
             $("#bt_like").hide();
     }
 
-    function f_setClick(tp,el){
-        var r = true; 
-        if (typeof(el)=='object' ){
-            var url = $(el).attr("href");
-            if (url>'')
-                r = false;
-        }
-        if (typeof(el)=='string' && el>''){
-            var url = el;
-                r = false;
-        }
-        $.get("/lib/ajax/set_action.php",tp ,function(data){
-            if (r==false){
-                document.location.href = url;
-            }
-            return true;
-            });
-        return r;
+    function f_setClick(tp){
+        $.get("/lib/ajax/set_action.php",tp ,function(data){return true;});
+        return true;
     } 
+    function f_body_block(v,z){
+           if (v=='1'){
+                z = z?z:900;
+                var w =  $(document).width();
+                var h =  $(document).height();
+                $('<div id="body_block" style="width:'+w+'px; height:'+h+'px; background:url(/images/jquery_tile.png); z-index:'+z+'; left:0px; top:0px;  position:absolute; "></div>').appendTo("body");
+           }else{
+                $("#body_block").each(function() { $(this).remove(); });
+           }
+    }    
     
        
 
@@ -80,9 +81,9 @@
 <div id="hat">
 	<div id="hat_inside">
 		<div id="hat_left">
-			<a href="http://www.dealticker.com/product.php?dtype=1"><img src="http://www.dealticker.com/images/logo_dealticker_ny.png" width="267" height="66" border="0" alt="" style="margin: 0 10px -5px -20px"></a>			
+			<a href="http://www.dealticker.com/product.php?dtype=1"><img src="http://www.dealticker.com/images/logo_dealticker.png" width="248" height="45" border="0" alt=""></a>			
 			<div class="city_block">
-			<a href="http://www.dealticker.com/product.php?city=Toronto"><div id="city_name">Toronto</div></a>				<div style="clear: both;"></div>
+			<a href="http://www.dealticker.com/product.php?city=Utah County"><div id="city_name">Utah County</div></a>				<div style="clear: both;"></div>
 				<a onclick="f_setCity()" style="width: 80px;padding-right: 20px;">Change City</a>
 			</div>		
 		
@@ -90,12 +91,15 @@
 		<div id="hat_right">	
 
 						<div class="top_links">
+				<a href="javascript:void(f_ShoppingCart())" style="margin-left: 0;"><img src="http://www.dealticker.com/images/top_shop_cart.png" width="31" height="30" border="0" alt="" style="float: left; margin-top: -10px;">
+                               </a>
+				<img src="http://www.dealticker.com/images/top_links_separator.png" width="2" height="24" border="0" alt="" style="margin: 3px 10px; float: left;">
 				<a href="javascript:void(f_login(''))">Sign in</a>
 				<img src="http://www.dealticker.com/images/top_links_separator.png" width="2" height="24" border="0" alt="" style="margin: 3px 10px; float: left;">
 				<a href="javascript:void(f_register(''))" style="float: right;color: #f6aa1d">Register</a>
 			</div>
 			<script type="text/javascript"> 
-			 			 function f_login(vl){
+             			 function f_login(vl){
 				if (vl=='') vl = 'http://www.dealticker.com/privacy_policy_en_263cms.htm';
 				showIboxContent("http://www.dealticker.com/user/login.php?popup=1&ref="+encodeURIComponent(vl), "Sign in", {"type":"3", "height":"520px", "width":"700px","modal":"true"}); 
 			 }
@@ -109,7 +113,12 @@
 				showIboxContent("http://www.dealticker.com/user/forgot.php?popup=1&ref="+vl, "Sign in", {"type":"3", "height":"500px", "width":"600px","modal":"true"}); 
 			 }
 			</script>         
-						
+						<script type="text/javascript"> 
+			 function f_ShoppingCart(){
+                    showIboxContent("/shopping-cart.php?popup=1", "Shopping Cart", {"type":"3", "width":"900px","modal":"1"});
+             }
+			</script>         
+			
 			<div style="clear: both;"></div>
 		
 			<div class="get_deals" onclick="f_newsletter()">Get Deals by Email</div>
@@ -125,7 +134,7 @@
 	<ul><li><a href="#country38" id="countrytab38"><span>Canada</span></a></li><li><a href="#country226" id="countrytab226"><span>USA</span></a></li></ul>
     <div class="div_country">
         <img onclick="f_setCity(0)" src="/images/ui-icon-close.png" width="54" height="21" border="0" alt="Close" title="Close" class="close_img" style="float: right;cursor: pointer;">
-<div id="country38"><table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%"><div>Alberta</div><a href="http://www.dealticker.com/product.php?city=Calgary">Calgary&nbsp;(63)</a><a href="http://www.dealticker.com/product.php?city=Edmonton">Edmonton&nbsp;(62)</a><div>British Columbia</div><a href="http://www.dealticker.com/product.php?city=Abbotsford">Abbotsford&nbsp;(63)</a><a href="http://www.dealticker.com/product.php?city=Burnaby">Burnaby&nbsp;(63)</a><a href="http://www.dealticker.com/product.php?city=Coquitlam">Coquitlam&nbsp;(63)</a><a href="http://www.dealticker.com/product.php?city=Delta">Delta&nbsp;(63)</a><a href="http://www.dealticker.com/product.php?city=Kelowna">Kelowna&nbsp;(63)</a><a href="http://www.dealticker.com/product.php?city=New Westminster">New Westminster&nbsp;(63)</a><a href="http://www.dealticker.com/product.php?city=North Shore">North Shore&nbsp;(63)</a><a href="http://www.dealticker.com/product.php?city=Port Coquitlam">Port Coquitlam&nbsp;(63)</a><a href="http://www.dealticker.com/product.php?city=Richmond">Richmond&nbsp;(63)</a><a href="http://www.dealticker.com/product.php?city=Surrey">Surrey&nbsp;(63)</a></td><td valign="top" width="25%"><a href="http://www.dealticker.com/product.php?city=Vancouver">Vancouver&nbsp;(63)</a><a href="http://www.dealticker.com/product.php?city=Victoria">Victoria&nbsp;(63)</a><div>Manitoba</div><a href="http://www.dealticker.com/product.php?city=Winnipeg">Winnipeg&nbsp;(62)</a><div>New Brunswick</div><a href="http://www.dealticker.com/product.php?city=Fredericton  ">Fredericton  &nbsp;(62)</a><a href="http://www.dealticker.com/product.php?city=Moncton">Moncton&nbsp;(62)</a><a href="http://www.dealticker.com/product.php?city=Saint John">Saint John&nbsp;(62)</a><div>Newfoundland and Labrador</div><a href="http://www.dealticker.com/product.php?city=St. Johns">St. Johns&nbsp;(62)</a><div>Nova Scotia</div><a href="http://www.dealticker.com/product.php?city=Halifax">Halifax&nbsp;(62)</a></td><td valign="top" width="25%"><div>Ontario</div><a href="http://www.dealticker.com/product.php?city=Barrie">Barrie&nbsp;(63)</a><a href="http://www.dealticker.com/product.php?city=Brampton">Brampton&nbsp;(69)</a><a href="http://www.dealticker.com/product.php?city=Durham">Durham&nbsp;(69)</a><a href="http://www.dealticker.com/product.php?city=Guelph - Kitchener - Waterloo">Guelph - Kitchener - Waterloo&nbsp;(63)</a><a href="http://www.dealticker.com/product.php?city=Halton Region">Halton Region&nbsp;(69)</a><a href="http://www.dealticker.com/product.php?city=Hamilton">Hamilton&nbsp;(69)</a><a href="http://www.dealticker.com/product.php?city=London">London&nbsp;(63)</a><a href="http://www.dealticker.com/product.php?city=Mississauga">Mississauga&nbsp;(69)</a><a href="http://www.dealticker.com/product.php?city=Oakville - Burlington">Oakville - Burlington&nbsp;(69)</a><a href="http://www.dealticker.com/product.php?city=Ottawa">Ottawa&nbsp;(63)</a><a href="http://www.dealticker.com/product.php?city=St Catharines - Niagara">St Catharines - Niagara&nbsp;(63)</a><a href="http://www.dealticker.com/product.php?city=Sudbury">Sudbury&nbsp;(63)</a><a href="http://www.dealticker.com/product.php?city=Toronto" class="current">Toronto&nbsp;(69)</a><a href="http://www.dealticker.com/product.php?city=Windsor">Windsor&nbsp;(63)</a></td><td valign="top"><a href="http://www.dealticker.com/product.php?city=York Region">York Region&nbsp;(69)</a><div>Quebec</div><a href="http://www.dealticker.com/product.php?city=Laval">Laval&nbsp;(62)</a><a href="http://www.dealticker.com/product.php?city=Montreal">Montreal&nbsp;(62)</a><a href="http://www.dealticker.com/product.php?city=Quebec City">Quebec City&nbsp;(62)</a><a href="http://www.dealticker.com/product.php?city=Saguenay">Saguenay&nbsp;(62)</a><a href="http://www.dealticker.com/product.php?city=Sherbrooke">Sherbrooke&nbsp;(62)</a><a href="http://www.dealticker.com/product.php?city=Terrebonne">Terrebonne&nbsp;(62)</a><a href="http://www.dealticker.com/product.php?city=Trois-Rivieres">Trois-Rivieres&nbsp;(62)</a><div>Saskatchewan</div><a href="http://www.dealticker.com/product.php?city=Regina">Regina&nbsp;(62)</a><a href="http://www.dealticker.com/product.php?city=Saskatoon">Saskatoon&nbsp;(62)</a></td></tr></tbody></table></div>    
+<div id="country38"><table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%"><div>Alberta</div><a href="http://www.dealticker.com/product.php?city=Calgary">Calgary&nbsp;(176)</a><a href="http://www.dealticker.com/product.php?city=Edmonton">Edmonton&nbsp;(175)</a><div>British Columbia</div><a href="http://www.dealticker.com/product.php?city=Abbotsford">Abbotsford&nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=Burnaby">Burnaby&nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=Coquitlam">Coquitlam&nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=Delta">Delta&nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=Kelowna">Kelowna&nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=New Westminster">New Westminster&nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=North Shore">North Shore&nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=Port Coquitlam">Port Coquitlam&nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=Richmond">Richmond&nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=Surrey">Surrey&nbsp;(174)</a></td><td valign="top" width="25%"><a href="http://www.dealticker.com/product.php?city=Vancouver">Vancouver&nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=Victoria">Victoria&nbsp;(174)</a><div>Manitoba</div><a href="http://www.dealticker.com/product.php?city=Winnipeg">Winnipeg&nbsp;(174)</a><div>New Brunswick</div><a href="http://www.dealticker.com/product.php?city=Fredericton  ">Fredericton  &nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=Moncton">Moncton&nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=Saint John">Saint John&nbsp;(174)</a><div>Newfoundland and Labrador</div><a href="http://www.dealticker.com/product.php?city=St. Johns">St. Johns&nbsp;(174)</a><div>Nova Scotia</div><a href="http://www.dealticker.com/product.php?city=Halifax">Halifax&nbsp;(174)</a></td><td valign="top" width="25%"><div>Ontario</div><a href="http://www.dealticker.com/product.php?city=Barrie">Barrie&nbsp;(175)</a><a href="http://www.dealticker.com/product.php?city=Brampton">Brampton&nbsp;(182)</a><a href="http://www.dealticker.com/product.php?city=Durham">Durham&nbsp;(182)</a><a href="http://www.dealticker.com/product.php?city=Guelph - Kitchener - Waterloo">Guelph - Kitchener - Waterloo&nbsp;(175)</a><a href="http://www.dealticker.com/product.php?city=Halton Region">Halton Region&nbsp;(182)</a><a href="http://www.dealticker.com/product.php?city=Hamilton">Hamilton&nbsp;(182)</a><a href="http://www.dealticker.com/product.php?city=London">London&nbsp;(175)</a><a href="http://www.dealticker.com/product.php?city=Mississauga">Mississauga&nbsp;(182)</a><a href="http://www.dealticker.com/product.php?city=Oakville - Burlington">Oakville - Burlington&nbsp;(182)</a><a href="http://www.dealticker.com/product.php?city=Ottawa">Ottawa&nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=St Catharines - Niagara">St Catharines - Niagara&nbsp;(175)</a><a href="http://www.dealticker.com/product.php?city=Sudbury">Sudbury&nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=Toronto">Toronto&nbsp;(182)</a><a href="http://www.dealticker.com/product.php?city=Windsor">Windsor&nbsp;(174)</a></td><td valign="top"><a href="http://www.dealticker.com/product.php?city=York Region">York Region&nbsp;(182)</a><div>Quebec</div><a href="http://www.dealticker.com/product.php?city=Laval">Laval&nbsp;(175)</a><a href="http://www.dealticker.com/product.php?city=Montreal">Montreal&nbsp;(175)</a><a href="http://www.dealticker.com/product.php?city=Quebec City">Quebec City&nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=Saguenay">Saguenay&nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=Sherbrooke">Sherbrooke&nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=Terrebonne">Terrebonne&nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=Trois-Rivieres">Trois-Rivieres&nbsp;(174)</a><div>Saskatchewan</div><a href="http://www.dealticker.com/product.php?city=Regina">Regina&nbsp;(174)</a><a href="http://www.dealticker.com/product.php?city=Saskatoon">Saskatoon&nbsp;(174)</a></td></tr></tbody></table></div>    
     
 	    <div id="country226">
             <div class="letter_list"><ul><li style="border-left: 0;"><a href="http://www.dealticker.com/product.php?city=National">National</a></li>
@@ -152,86 +161,86 @@
 </div>
             <div class="city_letter" id="city_letter_A">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>Alabama</div><a href="http://www.dealticker.com/product.php?city=Birmingham">Birmingham&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Huntsville">Huntsville&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Mobile / Baldwin County">Mobile / Baldwin County&nbsp;(47)</a>
+<div>Alabama</div><a href="http://www.dealticker.com/product.php?city=Birmingham">Birmingham&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Huntsville">Huntsville&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Mobile / Baldwin County">Mobile / Baldwin County&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<div>Arizona</div><a href="http://www.dealticker.com/product.php?city=East Valley">East Valley&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Phoenix">Phoenix&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Phoenix Citywide">Phoenix Citywide&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Scottsdale">Scottsdale&nbsp;(47)</a>
+<div>Arizona</div><a href="http://www.dealticker.com/product.php?city=East Valley">East Valley&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Phoenix">Phoenix&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Phoenix Citywide">Phoenix Citywide&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Scottsdale">Scottsdale&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<a href="http://www.dealticker.com/product.php?city=Tucson">Tucson&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=West Valley">West Valley&nbsp;(47)</a>
-<div>Arkansas</div><a href="http://www.dealticker.com/product.php?city=Little Rock">Little Rock&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Northwest Arkansas">Northwest Arkansas&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Tucson">Tucson&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=West Valley">West Valley&nbsp;(170)</a>
+<div>Arkansas</div><a href="http://www.dealticker.com/product.php?city=Little Rock">Little Rock&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Northwest Arkansas">Northwest Arkansas&nbsp;(170)</a>
 </td>
 <td valign="top">
 </td>
 </tr></tbody></table></div>
 <div class="city_letter" id="city_letter_C">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>California</div><a href="http://www.dealticker.com/product.php?city=Beverly Hills / West Hollywood">Beverly Hills / West Hollywood&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Contra Costa/ Tri-Valley">Contra Costa/ Tri-Valley&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Fresno">Fresno&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Greater Los Angeles">Greater Los Angeles&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Greater Sacramento">Greater Sacramento&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Greater San Diego">Greater San Diego&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Inland Empire">Inland Empire&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Long Beach">Long Beach&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Los Angeles">Los Angeles&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Marin County">Marin County&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Napa / Sonoma">Napa / Sonoma&nbsp;(47)</a>
+<div>California</div><a href="http://www.dealticker.com/product.php?city=Beverly Hills / West Hollywood">Beverly Hills / West Hollywood&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Contra Costa/ Tri-Valley">Contra Costa/ Tri-Valley&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Fresno">Fresno&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Greater Los Angeles">Greater Los Angeles&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Greater Sacramento">Greater Sacramento&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Greater San Diego">Greater San Diego&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Inland Empire">Inland Empire&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Long Beach">Long Beach&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Los Angeles">Los Angeles&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Marin County">Marin County&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Napa / Sonoma">Napa / Sonoma&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<a href="http://www.dealticker.com/product.php?city=North Country Coastal- San Diego">North Country Coastal- San Diego&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=North Orange County">North Orange County&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Oakland / East Bay">Oakland / East Bay&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Orange County">Orange County&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Roseville/ Folsom">Roseville/ Folsom&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Sacramento">Sacramento&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=San Diego">San Diego&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=San Diego Inland">San Diego Inland&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=San Fernando Valley">San Fernando Valley&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=San Francisco">San Francisco&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=San Francisko Bay Area">San Francisko Bay Area&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=San Gabriel Valley">San Gabriel Valley&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=San Jose">San Jose&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=North Country Coastal- San Diego">North Country Coastal- San Diego&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=North Orange County">North Orange County&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Oakland / East Bay">Oakland / East Bay&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Orange County">Orange County&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Roseville/ Folsom">Roseville/ Folsom&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Sacramento">Sacramento&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=San Diego">San Diego&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=San Diego Inland">San Diego Inland&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=San Fernando Valley">San Fernando Valley&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=San Francisco">San Francisco&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=San Francisko Bay Area">San Francisko Bay Area&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=San Gabriel Valley">San Gabriel Valley&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=San Jose">San Jose&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<a href="http://www.dealticker.com/product.php?city=Santa Barbara">Santa Barbara&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Santa Cruz/ Monterey Bay">Santa Cruz/ Monterey Bay&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=SF Peninsula">SF Peninsula&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=South Orange Country">South Orange Country&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Stockton/ Modesto">Stockton/ Modesto&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Venture County">Venture County&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=WestSide/ SouthBay">WestSide/ SouthBay&nbsp;(47)</a>
-<div>Colorado</div><a href="http://www.dealticker.com/product.php?city=Boulder County">Boulder County&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Colorado Springs">Colorado Springs&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Denver">Denver&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Denver Citywide">Denver Citywide&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Santa Barbara">Santa Barbara&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Santa Cruz/ Monterey Bay">Santa Cruz/ Monterey Bay&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=SF Peninsula">SF Peninsula&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=South Orange Country">South Orange Country&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Stockton/ Modesto">Stockton/ Modesto&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Venture County">Venture County&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=WestSide/ SouthBay">WestSide/ SouthBay&nbsp;(170)</a>
+<div>Colorado</div><a href="http://www.dealticker.com/product.php?city=Boulder County">Boulder County&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Colorado Springs">Colorado Springs&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Denver">Denver&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Denver Citywide">Denver Citywide&nbsp;(170)</a>
 </td>
 <td valign="top">
-<a href="http://www.dealticker.com/product.php?city=Denver North">Denver North&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Denver South">Denver South&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Northern Colorado">Northern Colorado&nbsp;(47)</a>
-<div>Connecticut</div><a href="http://www.dealticker.com/product.php?city=Fairfield County">Fairfield County&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Hartford">Hartford&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=New Haven County">New Haven County&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Southeastern CT">Southeastern CT&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Southern CT- Citywide">Southern CT- Citywide&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Denver North">Denver North&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Denver South">Denver South&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Northern Colorado">Northern Colorado&nbsp;(170)</a>
+<div>Connecticut</div><a href="http://www.dealticker.com/product.php?city=Fairfield County">Fairfield County&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Hartford">Hartford&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=New Haven County">New Haven County&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Southeastern CT">Southeastern CT&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Southern CT- Citywide">Southern CT- Citywide&nbsp;(170)</a>
 </td>
 </tr></tbody></table></div>
 <div class="city_letter" id="city_letter_D">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>Delaware</div><a href="http://www.dealticker.com/product.php?city=Wilmington/ Newark">Wilmington/ Newark&nbsp;(47)</a>
-<div>District of Columbia</div><a href="http://www.dealticker.com/product.php?city=Georgetown/ Foggy Bottom">Georgetown/ Foggy Bottom&nbsp;(47)</a>
+<div>Delaware</div><a href="http://www.dealticker.com/product.php?city=Wilmington/ Newark">Wilmington/ Newark&nbsp;(170)</a>
+<div>District of Columbia</div><a href="http://www.dealticker.com/product.php?city=Georgetown/ Foggy Bottom">Georgetown/ Foggy Bottom&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<a href="http://www.dealticker.com/product.php?city=Nationwide">Nationwide&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Washington, D.C. Citywide">Washington, D.C. Citywide&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Nationwide">Nationwide&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Washington, D.C. Citywide">Washington, D.C. Citywide&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
 </td>
@@ -240,55 +249,55 @@
 </tr></tbody></table></div>
 <div class="city_letter" id="city_letter_F">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>Florida</div><a href="http://www.dealticker.com/product.php?city=Boca Raton/ Lake Worth">Boca Raton/ Lake Worth&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Clearwater">Clearwater&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Coral Gables/ South Miami">Coral Gables/ South Miami&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Doral">Doral&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Fort Myers/ Cape Coral">Fort Myers/ Cape Coral&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Ft. Lauderdare">Ft. Lauderdare&nbsp;(47)</a>
+<div>Florida</div><a href="http://www.dealticker.com/product.php?city=Boca Raton/ Lake Worth">Boca Raton/ Lake Worth&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Clearwater">Clearwater&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Coral Gables/ South Miami">Coral Gables/ South Miami&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Doral">Doral&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Fort Myers/ Cape Coral">Fort Myers/ Cape Coral&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Ft. Lauderdare">Ft. Lauderdare&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<a href="http://www.dealticker.com/product.php?city=Gainesville">Gainesville&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Greater Jocksonville">Greater Jocksonville&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Greater Orlando">Greater Orlando&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Jacksonville">Jacksonville&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Jacksonville Beatches">Jacksonville Beatches&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Miami">Miami&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Miamy Citywide">Miamy Citywide&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Naples">Naples&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Gainesville">Gainesville&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Greater Jocksonville">Greater Jocksonville&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Greater Orlando">Greater Orlando&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Jacksonville">Jacksonville&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Jacksonville Beatches">Jacksonville Beatches&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Miami">Miami&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Miamy Citywide">Miamy Citywide&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Naples">Naples&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<a href="http://www.dealticker.com/product.php?city=North Miami-Dade/ South Broward">North Miami-Dade/ South Broward&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=North Tampa">North Tampa&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Orlando- East">Orlando- East&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Orlando- West">Orlando- West&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Palm Beaches/ Citywide">Palm Beaches/ Citywide&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Pensacola">Pensacola&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Sarasota">Sarasota&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=South Orlando">South Orlando&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=North Miami-Dade/ South Broward">North Miami-Dade/ South Broward&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=North Tampa">North Tampa&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Orlando- East">Orlando- East&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Orlando- West">Orlando- West&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Palm Beaches/ Citywide">Palm Beaches/ Citywide&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Pensacola">Pensacola&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Sarasota">Sarasota&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=South Orlando">South Orlando&nbsp;(170)</a>
 </td>
 <td valign="top">
-<a href="http://www.dealticker.com/product.php?city=Space Coast">Space Coast&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=St. Pete">St. Pete&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Tallahassee">Tallahassee&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Tampa">Tampa&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Tampa Bay Area">Tampa Bay Area&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=West Palm Beach/ Jupiter">West Palm Beach/ Jupiter&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Space Coast">Space Coast&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=St. Pete">St. Pete&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Tallahassee">Tallahassee&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Tampa">Tampa&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Tampa Bay Area">Tampa Bay Area&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=West Palm Beach/ Jupiter">West Palm Beach/ Jupiter&nbsp;(170)</a>
 </td>
 </tr></tbody></table></div>
 <div class="city_letter" id="city_letter_G">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>Georgia</div><a href="http://www.dealticker.com/product.php?city=Athens">Athens&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Atlanta">Atlanta&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Augusta/ Aiken">Augusta/ Aiken&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Buckhead">Buckhead&nbsp;(47)</a>
+<div>Georgia</div><a href="http://www.dealticker.com/product.php?city=Athens">Athens&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Atlanta">Atlanta&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Augusta/ Aiken">Augusta/ Aiken&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Buckhead">Buckhead&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<a href="http://www.dealticker.com/product.php?city=Cobb County">Cobb County&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Metro Atlanta">Metro Atlanta&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Northeast Atlanta">Northeast Atlanta&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Savannah/ Hilton Head">Savannah/ Hilton Head&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Savannah/ Hilton Head Citywide">Savannah/ Hilton Head Citywide&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Cobb County">Cobb County&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Metro Atlanta">Metro Atlanta&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Northeast Atlanta">Northeast Atlanta&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Savannah/ Hilton Head">Savannah/ Hilton Head&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Savannah/ Hilton Head Citywide">Savannah/ Hilton Head Citywide&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
 </td>
@@ -297,7 +306,7 @@
 </tr></tbody></table></div>
 <div class="city_letter" id="city_letter_H">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>Hawaii</div><a href="http://www.dealticker.com/product.php?city=Honolulu">Honolulu&nbsp;(47)</a>
+<div>Hawaii</div><a href="http://www.dealticker.com/product.php?city=Honolulu">Honolulu&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
 </td>
@@ -308,33 +317,33 @@
 </tr></tbody></table></div>
 <div class="city_letter" id="city_letter_I">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>Idaho</div><a href="http://www.dealticker.com/product.php?city=Boise">Boise&nbsp;(47)</a>
-<div>Illinois</div><a href="http://www.dealticker.com/product.php?city=Central Illinois">Central Illinois&nbsp;(47)</a>
+<div>Idaho</div><a href="http://www.dealticker.com/product.php?city=Boise">Boise&nbsp;(170)</a>
+<div>Illinois</div><a href="http://www.dealticker.com/product.php?city=Central Illinois">Central Illinois&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<a href="http://www.dealticker.com/product.php?city=Chicago">Chicago&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Chicago- North Suburbs">Chicago- North Suburbs&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Chicago- Northwest Suburbs">Chicago- Northwest Suburbs&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Chicago- South/ Southwest Suburbs">Chicago- South/ Southwest Suburbs&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Chicago- Western Suburbs">Chicago- Western Suburbs&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Chicagoland">Chicagoland&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Chicago">Chicago&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Chicago- North Suburbs">Chicago- North Suburbs&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Chicago- Northwest Suburbs">Chicago- Northwest Suburbs&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Chicago- South/ Southwest Suburbs">Chicago- South/ Southwest Suburbs&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Chicago- Western Suburbs">Chicago- Western Suburbs&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Chicagoland">Chicagoland&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<a href="http://www.dealticker.com/product.php?city=St. Louis- Metro East">St. Louis- Metro East&nbsp;(47)</a>
-<div>Indiana</div><a href="http://www.dealticker.com/product.php?city=Carmel/ Fishers">Carmel/ Fishers&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Fort Wayne">Fort Wayne&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Indianapolis">Indianapolis&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=St. Louis- Metro East">St. Louis- Metro East&nbsp;(170)</a>
+<div>Indiana</div><a href="http://www.dealticker.com/product.php?city=Carmel/ Fishers">Carmel/ Fishers&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Fort Wayne">Fort Wayne&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Indianapolis">Indianapolis&nbsp;(170)</a>
 </td>
 <td valign="top">
-<a href="http://www.dealticker.com/product.php?city=Indianapolis- Citywide">Indianapolis- Citywide&nbsp;(47)</a>
-<div>Iowa</div><a href="http://www.dealticker.com/product.php?city=Cedar Rapids/ Iowa City">Cedar Rapids/ Iowa City&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Des Moines">Des Moines&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Indianapolis- Citywide">Indianapolis- Citywide&nbsp;(170)</a>
+<div>Iowa</div><a href="http://www.dealticker.com/product.php?city=Cedar Rapids/ Iowa City">Cedar Rapids/ Iowa City&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Des Moines">Des Moines&nbsp;(170)</a>
 </td>
 </tr></tbody></table></div>
 <div class="city_letter" id="city_letter_K">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>Kansas</div><a href="http://www.dealticker.com/product.php?city=Johnson County, KS">Johnson County, KS&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Wichita">Wichita&nbsp;(47)</a>
+<div>Kansas</div><a href="http://www.dealticker.com/product.php?city=Johnson County, KS">Johnson County, KS&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Wichita">Wichita&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
 </td>
@@ -345,10 +354,10 @@
 </tr></tbody></table></div>
 <div class="city_letter" id="city_letter_L">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>Louisiana</div><a href="http://www.dealticker.com/product.php?city=Baton Rouge">Baton Rouge&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Lafayette">Lafayette&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=New Orleans">New Orleans&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Shreveport">Shreveport&nbsp;(47)</a>
+<div>Louisiana</div><a href="http://www.dealticker.com/product.php?city=Baton Rouge">Baton Rouge&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Lafayette">Lafayette&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=New Orleans">New Orleans&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Shreveport">Shreveport&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
 </td>
@@ -359,153 +368,152 @@
 </tr></tbody></table></div>
 <div class="city_letter" id="city_letter_M">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>Maine</div><a href="http://www.dealticker.com/product.php?city=Portland, ME">Portland, ME&nbsp;(47)</a>
-<div>Maryland</div><a href="http://www.dealticker.com/product.php?city=Annapolis">Annapolis&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Baltimore">Baltimore&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Baltimore County">Baltimore County&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Greater Baltimore">Greater Baltimore&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Howard County, MD">Howard County, MD&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Montgomery County">Montgomery County&nbsp;(47)</a>
+<div>Maine</div><a href="http://www.dealticker.com/product.php?city=Portland, ME">Portland, ME&nbsp;(170)</a>
+<div>Maryland</div><a href="http://www.dealticker.com/product.php?city=Annapolis">Annapolis&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Baltimore">Baltimore&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Baltimore County">Baltimore County&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Greater Baltimore">Greater Baltimore&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Howard County, MD">Howard County, MD&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Montgomery County">Montgomery County&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<div>Massachusetts</div><a href="http://www.dealticker.com/product.php?city=Boston">Boston&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Boston Metrowest">Boston Metrowest&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Boston North">Boston North&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Boston South Shore">Boston South Shore&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Greater Boston">Greater Boston&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Worcester">Worcester&nbsp;(47)</a>
-<div>Michigan</div><a href="http://www.dealticker.com/product.php?city=Ann Arbor">Ann Arbor&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Crosse Pointe- Macomb County">Crosse Pointe- Macomb County&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Detroit- Wayne County">Detroit- Wayne County&nbsp;(47)</a>
+<div>Massachusetts</div><a href="http://www.dealticker.com/product.php?city=Boston">Boston&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Boston Metrowest">Boston Metrowest&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Boston North">Boston North&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Boston South Shore">Boston South Shore&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Greater Boston">Greater Boston&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Worcester">Worcester&nbsp;(170)</a>
+<div>Michigan</div><a href="http://www.dealticker.com/product.php?city=Ann Arbor">Ann Arbor&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Crosse Pointe- Macomb County">Crosse Pointe- Macomb County&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Detroit- Wayne County">Detroit- Wayne County&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<a href="http://www.dealticker.com/product.php?city=Flint">Flint&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Grand Rapids">Grand Rapids&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Metro Detroit">Metro Detroit&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Oakland County">Oakland County&nbsp;(47)</a>
-<div>Minnesota</div><a href="http://www.dealticker.com/product.php?city=Minneapolis">Minneapolis&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=St. Paul">St. Paul&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Twin Cities- Citywide">Twin Cities- Citywide&nbsp;(47)</a>
-<div>Mississippi</div><a href="http://www.dealticker.com/product.php?city=Jackson">Jackson&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Flint">Flint&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Grand Rapids">Grand Rapids&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Metro Detroit">Metro Detroit&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Oakland County">Oakland County&nbsp;(170)</a>
+<div>Minnesota</div><a href="http://www.dealticker.com/product.php?city=Minneapolis">Minneapolis&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=St. Paul">St. Paul&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Twin Cities- Citywide">Twin Cities- Citywide&nbsp;(170)</a>
+<div>Mississippi</div><a href="http://www.dealticker.com/product.php?city=Jackson">Jackson&nbsp;(170)</a>
 </td>
 <td valign="top">
-<div>Missouri</div><a href="http://www.dealticker.com/product.php?city=Kansas City">Kansas City&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Kansas City- Citywide">Kansas City- Citywide&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Springfield">Springfield&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=St. Charles County">St. Charles County&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=St. Louis">St. Louis&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=St. Louis- Citywide">St. Louis- Citywide&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=St. Louis- West County">St. Louis- West County&nbsp;(47)</a>
-<div>Montana</div><a href="http://www.dealticker.com/product.php?city=Billings">Billings&nbsp;(47)</a>
+<div>Missouri</div><a href="http://www.dealticker.com/product.php?city=Kansas City">Kansas City&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Kansas City- Citywide">Kansas City- Citywide&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Springfield">Springfield&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=St. Charles County">St. Charles County&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=St. Louis">St. Louis&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=St. Louis- Citywide">St. Louis- Citywide&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=St. Louis- West County">St. Louis- West County&nbsp;(170)</a>
+<div>Montana</div><a href="http://www.dealticker.com/product.php?city=Billings">Billings&nbsp;(170)</a>
 </td>
 </tr></tbody></table></div>
 <div class="city_letter" id="city_letter_N">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>Nebraska</div><a href="http://www.dealticker.com/product.php?city=Lincoln">Lincoln&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Omaha">Omaha&nbsp;(47)</a>
-<div>Nevada</div><a href="http://www.dealticker.com/product.php?city=Henderson / Southeast Las Vegas">Henderson / Southeast Las Vegas&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Las Vegas">Las Vegas&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Las Vegas Valley-Wide">Las Vegas Valley-Wide&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Reno">Reno&nbsp;(47)</a>
-<div>New Hampshire</div><a href="http://www.dealticker.com/product.php?city=Southern New Hampshire">Southern New Hampshire&nbsp;(47)</a>
+<div>Nebraska</div><a href="http://www.dealticker.com/product.php?city=Lincoln">Lincoln&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Omaha">Omaha&nbsp;(170)</a>
+<div>Nevada</div><a href="http://www.dealticker.com/product.php?city=Henderson / Southeast Las Vegas">Henderson / Southeast Las Vegas&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Las Vegas">Las Vegas&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Las Vegas Valley-Wide">Las Vegas Valley-Wide&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Reno">Reno&nbsp;(170)</a>
+<div>New Hampshire</div><a href="http://www.dealticker.com/product.php?city=Southern New Hampshire">Southern New Hampshire&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<div>New Jersey</div><a href="http://www.dealticker.com/product.php?city=Bergen County">Bergen County&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Central Jersey - Citywide">Central Jersey - Citywide&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Hoboken / Jersey City">Hoboken / Jersey City&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Mercer / Middlesex Counties">Mercer / Middlesex Counties&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Morris / Somerset Counties">Morris / Somerset Counties&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=North Jersey - Special">North Jersey - Special&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Ocean / Monmouth Counties">Ocean / Monmouth Counties&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=South Jersey">South Jersey&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Union / Essex Counties">Union / Essex Counties&nbsp;(47)</a>
-<div>New Mexico</div><a href="http://www.dealticker.com/product.php?city=Albuquerque">Albuquerque&nbsp;(47)</a>
+<div>New Jersey</div><a href="http://www.dealticker.com/product.php?city=Bergen County">Bergen County&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Central Jersey - Citywide">Central Jersey - Citywide&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Hoboken / Jersey City">Hoboken / Jersey City&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Mercer / Middlesex Counties">Mercer / Middlesex Counties&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Morris / Somerset Counties">Morris / Somerset Counties&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=North Jersey - Special">North Jersey - Special&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Ocean / Monmouth Counties">Ocean / Monmouth Counties&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=South Jersey">South Jersey&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Union / Essex Counties">Union / Essex Counties&nbsp;(170)</a>
+<div>New Mexico</div><a href="http://www.dealticker.com/product.php?city=Albuquerque">Albuquerque&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<div>New York</div><a href="http://www.dealticker.com/product.php?city=Albany / Capital Region">Albany / Capital Region&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Brooklyn">Brooklyn&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Buffalo">Buffalo&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Nassau County">Nassau County&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=New York">New York&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=NYC - Upper East Side">NYC - Upper East Side&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=NYC Citywide">NYC Citywide&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=NYC Downtown">NYC Downtown&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=NYC Midtown">NYC Midtown&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Queens">Queens&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Rochester">Rochester&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Staten Island">Staten Island&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Suffolk County, NY">Suffolk County, NY&nbsp;(47)</a>
+<div>New York</div><a href="http://www.dealticker.com/product.php?city=Albany / Capital Region">Albany / Capital Region&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Brooklyn">Brooklyn&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Buffalo">Buffalo&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Nassau County">Nassau County&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=New York">New York&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=NYC - Upper East Side">NYC - Upper East Side&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=NYC Citywide">NYC Citywide&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=NYC Downtown">NYC Downtown&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=NYC Midtown">NYC Midtown&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Queens">Queens&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Rochester">Rochester&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Staten Island">Staten Island&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Suffolk County, NY">Suffolk County, NY&nbsp;(170)</a>
 </td>
 <td valign="top">
-<a href="http://www.dealticker.com/product.php?city=Syracuse">Syracuse&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Westchester County">Westchester County&nbsp;(47)</a>
-<div>North Carolina</div><a href="http://www.dealticker.com/product.php?city=Asheville">Asheville&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Charlotte">Charlotte&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Charlotte Metro Area">Charlotte Metro Area&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Charlotte North">Charlotte North&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Durham / Chapel Hill">Durham / Chapel Hill&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Greensboro / High Point">Greensboro / High Point&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Piedmont Triad Region">Piedmont Triad Region&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Piedmont Triad Region">Piedmont Triad Region&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Raleigh">Raleigh&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Raleigh-Durham Region">Raleigh-Durham Region&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Wilmington, NC">Wilmington, NC&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Syracuse">Syracuse&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Westchester County">Westchester County&nbsp;(170)</a>
+<div>North Carolina</div><a href="http://www.dealticker.com/product.php?city=Asheville">Asheville&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Charlotte">Charlotte&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Charlotte Metro Area">Charlotte Metro Area&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Charlotte North">Charlotte North&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Durham / Chapel Hill">Durham / Chapel Hill&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Greensboro / High Point">Greensboro / High Point&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Piedmont Triad Region">Piedmont Triad Region&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Raleigh">Raleigh&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Raleigh-Durham Region">Raleigh-Durham Region&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Wilmington, NC">Wilmington, NC&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Winston - Salem">Winston - Salem&nbsp;(170)</a>
 </td>
 </tr></tbody></table></div>
 <div class="city_letter" id="city_letter_O">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>Ohio</div><a href="http://www.dealticker.com/product.php?city=Akron / Canton">Akron / Canton&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Cincinnati">Cincinnati&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Cleveland - Citywide">Cleveland - Citywide&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Cleveland - Citywide">Cleveland - Citywide&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Cleveland Eastside">Cleveland Eastside&nbsp;(47)</a>
+<div>Ohio</div><a href="http://www.dealticker.com/product.php?city=Akron / Canton">Akron / Canton&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Cincinnati">Cincinnati&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Cleveland - Citywide">Cleveland - Citywide&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Cleveland Eastside">Cleveland Eastside&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<a href="http://www.dealticker.com/product.php?city=Cleveland Westside">Cleveland Westside&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Columbus, OH">Columbus, OH&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Dayton">Dayton&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Greater Cincinnati">Greater Cincinnati&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Toledo">Toledo&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Cleveland Westside">Cleveland Westside&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Columbus, OH">Columbus, OH&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Dayton">Dayton&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Greater Cincinnati">Greater Cincinnati&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Toledo">Toledo&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<div>Oklahoma</div><a href="http://www.dealticker.com/product.php?city=Oklahoma City">Oklahoma City&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Tulsa">Tulsa&nbsp;(47)</a>
-<div>Oregon</div><a href="http://www.dealticker.com/product.php?city=Bend">Bend&nbsp;(47)</a>
-</td>
+<div>Oklahoma</div><a href="http://www.dealticker.com/product.php?city=Oklahoma City">Oklahoma City&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Tulsa">Tulsa&nbsp;(170)</a>
+<div>Oregon</div></td>
 <td valign="top">
-<a href="http://www.dealticker.com/product.php?city=Eugene">Eugene&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Greater Portland">Greater Portland&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Portland Eastside / Vancouver, WA">Portland Eastside / Vancouver, WA&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Portland, OR">Portland, OR&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Salem">Salem&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Bend">Bend&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Eugene">Eugene&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Greater Portland">Greater Portland&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Portland Eastside / Vancouver, WA">Portland Eastside / Vancouver, WA&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Portland, OR">Portland, OR&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Salem">Salem&nbsp;(170)</a>
 </td>
 </tr></tbody></table></div>
 <div class="city_letter" id="city_letter_P">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>Pennsylvania</div><a href="http://www.dealticker.com/product.php?city=Harrisburg, PA">Harrisburg, PA&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Lancaster / York">Lancaster / York&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Lehigh Valley">Lehigh Valley&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Northern Philly">Northern Philly&nbsp;(47)</a>
+<div>Pennsylvania</div><a href="http://www.dealticker.com/product.php?city=Harrisburg, PA">Harrisburg, PA&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Lancaster / York">Lancaster / York&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Lehigh Valley">Lehigh Valley&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Northern Philly">Northern Philly&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<a href="http://www.dealticker.com/product.php?city=Philadelphia">Philadelphia&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Philadelphia - Citywide">Philadelphia - Citywide&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Philadelphia - Northern Suburbs">Philadelphia - Northern Suburbs&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Philadelphia - Western Suburbs">Philadelphia - Western Suburbs&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Pittsburgh">Pittsburgh&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Pittsburgh - Citywide">Pittsburgh - Citywide&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Philadelphia">Philadelphia&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Philadelphia - Citywide">Philadelphia - Citywide&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Philadelphia - Northern Suburbs">Philadelphia - Northern Suburbs&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Philadelphia - Western Suburbs">Philadelphia - Western Suburbs&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Pittsburgh">Pittsburgh&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Pittsburgh - Citywide">Pittsburgh - Citywide&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<a href="http://www.dealticker.com/product.php?city=Pittsburgh North">Pittsburgh North&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Reading">Reading&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Scranton / Wilkes-Barre">Scranton / Wilkes-Barre&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Pittsburgh North">Pittsburgh North&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Reading">Reading&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Scranton / Wilkes-Barre">Scranton / Wilkes-Barre&nbsp;(170)</a>
 </td>
 <td valign="top">
 </td>
 </tr></tbody></table></div>
 <div class="city_letter" id="city_letter_R">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>Rhode Island</div><a href="http://www.dealticker.com/product.php?city=Providence">Providence&nbsp;(47)</a>
+<div>Rhode Island</div><a href="http://www.dealticker.com/product.php?city=Providence">Providence&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
 </td>
@@ -516,10 +524,10 @@
 </tr></tbody></table></div>
 <div class="city_letter" id="city_letter_S">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>South Carolina</div><a href="http://www.dealticker.com/product.php?city=Charleston, SC">Charleston, SC&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Columbia, SC">Columbia, SC&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Greenville">Greenville&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Greenville - Citywide">Greenville - Citywide&nbsp;(47)</a>
+<div>South Carolina</div><a href="http://www.dealticker.com/product.php?city=Charleston, SC">Charleston, SC&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Columbia, SC">Columbia, SC&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Greenville">Greenville&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Greenville - Citywide">Greenville - Citywide&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
 </td>
@@ -530,48 +538,48 @@
 </tr></tbody></table></div>
 <div class="city_letter" id="city_letter_T">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>Tennessee</div><a href="http://www.dealticker.com/product.php?city=Chattanooga">Chattanooga&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Knoxville">Knoxville&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Knoxville - Citywide">Knoxville - Citywide&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Memphis">Memphis&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Nashville">Nashville&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Nashville - Citywide">Nashville - Citywide&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Williamson / Rutherford Counties">Williamson / Rutherford Counties&nbsp;(47)</a>
+<div>Tennessee</div><a href="http://www.dealticker.com/product.php?city=Chattanooga">Chattanooga&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Knoxville">Knoxville&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Knoxville - Citywide">Knoxville - Citywide&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Memphis">Memphis&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Nashville">Nashville&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Nashville - Citywide">Nashville - Citywide&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Williamson / Rutherford Counties">Williamson / Rutherford Counties&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<div>Texas</div><a href="http://www.dealticker.com/product.php?city=Austin">Austin&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Corpus Christi">Corpus Christi&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Dallas">Dallas&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Dallas - Fort Worth Metroplex">Dallas - Fort Worth Metroplex&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=DFW Mid-Cities">DFW Mid-Cities&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=El Paso">El Paso&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Fort Worth">Fort Worth&nbsp;(47)</a>
+<div>Texas</div><a href="http://www.dealticker.com/product.php?city=Austin">Austin&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Corpus Christi">Corpus Christi&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Dallas">Dallas&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Dallas - Fort Worth Metroplex">Dallas - Fort Worth Metroplex&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=DFW Mid-Cities">DFW Mid-Cities&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=El Paso">El Paso&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Fort Worth">Fort Worth&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<a href="http://www.dealticker.com/product.php?city=Greater Austin">Greater Austin&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Greater Houston">Greater Houston&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Houston">Houston&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Lubbock">Lubbock&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=North Dallas">North Dallas&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Pearland / South Houston">Pearland / South Houston&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Plano / Frisco">Plano / Frisco&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Round Rock / Georgetown, TX">Round Rock / Georgetown, TX&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=San Antonio">San Antonio&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Greater Austin">Greater Austin&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Greater Houston">Greater Houston&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Houston">Houston&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Lubbock">Lubbock&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=North Dallas">North Dallas&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Pearland / South Houston">Pearland / South Houston&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Plano / Frisco">Plano / Frisco&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Round Rock / Georgetown, TX">Round Rock / Georgetown, TX&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=San Antonio">San Antonio&nbsp;(170)</a>
 </td>
 <td valign="top">
-<a href="http://www.dealticker.com/product.php?city=San Antonio - Citywide">San Antonio - Citywide&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=San Antonio - North">San Antonio - North&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Sugar Land / Katy">Sugar Land / Katy&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=The Woodlands / North Houston">The Woodlands / North Houston&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Waco / Killeen">Waco / Killeen&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=San Antonio - Citywide">San Antonio - Citywide&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=San Antonio - North">San Antonio - North&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Sugar Land / Katy">Sugar Land / Katy&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=The Woodlands / North Houston">The Woodlands / North Houston&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Waco / Killeen">Waco / Killeen&nbsp;(170)</a>
 </td>
 </tr></tbody></table></div>
 <div class="city_letter" id="city_letter_U">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>Utah</div><a href="http://www.dealticker.com/product.php?city=Salt Lake City">Salt Lake City&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Salt Lake City - Citywide">Salt Lake City - Citywide&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Utah County">Utah County&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Weber / Davis Counties">Weber / Davis Counties&nbsp;(47)</a>
+<div>Utah</div><a href="http://www.dealticker.com/product.php?city=Salt Lake City">Salt Lake City&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Salt Lake City - Citywide">Salt Lake City - Citywide&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Utah County" class="current">Utah County&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Weber / Davis Counties">Weber / Davis Counties&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
 </td>
@@ -582,48 +590,48 @@
 </tr></tbody></table></div>
 <div class="city_letter" id="city_letter_V">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>Vermont</div><a href="http://www.dealticker.com/product.php?city=Northern Vermont">Northern Vermont&nbsp;(47)</a>
-<div>Virginia</div><a href="http://www.dealticker.com/product.php?city=Arlington / Alexandria">Arlington / Alexandria&nbsp;(47)</a>
+<div>Vermont</div><a href="http://www.dealticker.com/product.php?city=Northern Vermont">Northern Vermont&nbsp;(170)</a>
+<div>Virginia</div><a href="http://www.dealticker.com/product.php?city=Arlington / Alexandria">Arlington / Alexandria&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<a href="http://www.dealticker.com/product.php?city=Charlottesville">Charlottesville&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Fairfax County">Fairfax County&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Hampton Roads - Citywide">Hampton Roads - Citywide&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Hampton Roads Peninsula">Hampton Roads Peninsula&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Loudoun County">Loudoun County&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Northern Virginia">Northern Virginia&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Charlottesville">Charlottesville&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Fairfax County">Fairfax County&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Hampton Roads - Citywide">Hampton Roads - Citywide&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Hampton Roads Peninsula">Hampton Roads Peninsula&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Loudoun County">Loudoun County&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Northern Virginia">Northern Virginia&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<a href="http://www.dealticker.com/product.php?city=Richmond">Richmond&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Roanoke / Lynchburg">Roanoke / Lynchburg&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=South Hampton Roads">South Hampton Roads&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Richmond, US">Richmond, US&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Roanoke / Lynchburg">Roanoke / Lynchburg&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=South Hampton Roads">South Hampton Roads&nbsp;(170)</a>
 </td>
 <td valign="top">
 </td>
 </tr></tbody></table></div>
 <div class="city_letter" id="city_letter_W">
                 <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%">
-<div>Washington</div><a href="http://www.dealticker.com/product.php?city=Bellevue / Eastside">Bellevue / Eastside&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Olympia">Olympia&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Puget Sound">Puget Sound&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Seattle">Seattle&nbsp;(47)</a>
+<div>Washington</div><a href="http://www.dealticker.com/product.php?city=Bellevue / Eastside">Bellevue / Eastside&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Olympia">Olympia&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Puget Sound">Puget Sound&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Seattle">Seattle&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<a href="http://www.dealticker.com/product.php?city=Snohomish Country">Snohomish Country&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=South King Country">South King Country&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Spokane / Coeur d'Alene">Spokane / Coeur d'Alene&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Tacoma">Tacoma&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Washington">Washington&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Snohomish Country">Snohomish Country&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=South King Country">South King Country&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Spokane / Coeur d'Alene">Spokane / Coeur d'Alene&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Tacoma">Tacoma&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Washington">Washington&nbsp;(170)</a>
 </td>
 <td valign="top" width="25%">
-<div>West Virginia</div><a href="http://www.dealticker.com/product.php?city=Charleston, WV">Charleston, WV&nbsp;(47)</a>
-<div>Wisconsin</div><a href="http://www.dealticker.com/product.php?city=Green Bay">Green Bay&nbsp;(47)</a>
+<div>West Virginia</div><a href="http://www.dealticker.com/product.php?city=Charleston, WV">Charleston, WV&nbsp;(170)</a>
+<div>Wisconsin</div><a href="http://www.dealticker.com/product.php?city=Green Bay">Green Bay&nbsp;(170)</a>
 </td>
 <td valign="top">
-<a href="http://www.dealticker.com/product.php?city=Madison">Madison&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Milwaukee">Milwaukee&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Milwaukee - Citywide">Milwaukee - Citywide&nbsp;(47)</a>
-<a href="http://www.dealticker.com/product.php?city=Milwaukee - North / West">Milwaukee - North / West&nbsp;(47)</a>
+<a href="http://www.dealticker.com/product.php?city=Madison">Madison&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Milwaukee">Milwaukee&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Milwaukee - Citywide">Milwaukee - Citywide&nbsp;(170)</a>
+<a href="http://www.dealticker.com/product.php?city=Milwaukee - North / West">Milwaukee - North / West&nbsp;(170)</a>
 </td>
 </tr></tbody></table></div>
 </div>
@@ -635,7 +643,7 @@
 <script type="text/javascript">
 //	$(function() {
 		$( "#tabs" ).tabs();
-        f_showLetter("");   
+        f_showLetter("U");   
 //	});
 
 function f_showLetter(v){
@@ -665,8 +673,7 @@ function f_showLetter(v){
 
 <div id="mainblock">
 	
-	<div class="menu_top">
-		
+	<div class="menu_top">		
 		<div class="menu_tile">
 			<table cellpadding="0" cellspacing="0" width="100%">
 				<tbody><tr>
@@ -675,10 +682,6 @@ function f_showLetter(v){
 										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
 		                <td valign="top" class="product_type" rel="1">
                             <div>                                 All Deals                            </div>
-                        </td>
-										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
-		                <td valign="top" class="product_type" rel="14">
-                            <div>                                 Local                            </div>
                         </td>
 										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
 		                <td valign="top" class="product_type" rel="8">
@@ -693,6 +696,10 @@ function f_showLetter(v){
                             <div>                                 Hotel &amp; Travel                            </div>
                         </td>
 										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
+		                <td valign="top" class="product_type" rel="19">
+                            <div><div class="icon_new" style="color:#0F0;">New</div>                                 SHOPS                            </div>
+                        </td>
+										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
 		                <td valign="top" class="product_type" rel="5">
                             <div>                                 Products                            </div>
                         </td>
@@ -705,49 +712,38 @@ function f_showLetter(v){
                             <div>                                 Kids &amp; Parents                            </div>
                         </td>
 										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
-		                <td valign="top" class="product_type" rel="2">
-                            <div>                                 Pets                            </div>
+		                <td valign="top" class="product_type" rel="17">
+                            <div>                                 Free Shipping                            </div>
                         </td>
-										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
-		                <td valign="top" class="product_type" rel="15">
-                            <div><div class="icon_new">Sale</div>                                 Boxing Week                            </div>
-                        </td>
-						
-
-					<!--<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
-					<td valign="top" class="product_type"><a href="store.php?city=Toronto">Shopping Mall</td>-->
+					
 					<td valign="top" width="6"><div class="menu_r"></div></td>
 				</tr>
 			</tbody></table>
-				
-				<div id="alert_no_deal" style="display: none;"><!--<img src="http://www.dealticker.com/images/info_alert.gif" width="50" height="50" border="0" alt="" style="float: left; margin: 30px 20px 0 25px;"><div style="float: left; margin-top: 45px;font:bold 16px Verdana;">Sorry, but there are currently no deals available.</div>--></div>			 
-
-<script type="text/javascript"> 		
-        var product_type = "1";
-   
-        $(".product_type").removeClass("current_type").each(function(){
-            if ($(this).attr("rel")==product_type ){
-                $(this).addClass("current_type");   
-            }
-        })
-        .unbind('click').bind('click',function(){
-            if (!$(this).hasClass("no_deals")){
-                var dt = $(this).attr("rel")
-                if (dt) 
-                    document.location.href = "http://www.dealticker.com/product.php?dtype="+dt;
-            }else{
-                 tab_name =  $(this).text();
-                 showIboxContent("#alert_no_deal", "Stay tuned for great "+ tab_name+" deals coming shortly", {"type":"2", "height":"100px", "width":"750px","modal":true}); 
-            }
-        });
+		</div>				
 		
-		$(function(){  
-			$('.menu_tile td.menutop_separator:first').css({"display":"none"});
-		});
+		<script type="text/javascript"> 		
+			var product_type = "1";
+	        if (product_type=='19'){
+                $("body").css({"background":"#d2d2d2"});    
+            }
+       
+			$(".product_type").removeClass("current_type").each(function(){
+				if ($(this).attr("rel")==product_type ){
+					$(this).addClass("current_type");   
+				}
+			})
+			.unbind('click').bind('click',function(){
+				if (!$(this).hasClass("no_deals")){
+					var dt = $(this).attr("rel")
+					if (dt) 
+						document.location.href = "http://www.dealticker.com/product.php?dtype="+dt;
+				}
+              			});
+			
+				$('.menu_tile td.menutop_separator:first').css({"display":"none"});
 
-</script>		
-<!-- product_type-->  			
-    
+		</script>		
+		<!-- product_type-->  	
 	</div>
 	
 	<div style="clear: both;height: 15px;"></div>
@@ -755,12 +751,12 @@ function f_showLetter(v){
 		<tbody><tr>
 			<td>
 				<table cellpadding="0" cellspacing="0" width="100%">
-					<tbody><tr><td><a href="http://www.dealticker.com/product.php?dtype=15"><img src="https://www.dealticker.com/UserFiles/Image/banners/BoxingDayBanner_Final.jpg" alt="" width="980" height="130"></a></td></tr>
+					<tbody><tr><td><a href="http://www.dealticker.com/product.php/brand/56/city/Toronto" target="_blank"><img src="https://www.dealticker.com/UserFiles/Image/banners/DT_Brands_Banner_5_29_2013_SummerEssentials.png" alt="" width="980" height="130"></a></td></tr>
 </tbody></table></td></tr></tbody></table>			
-		<!-- Content -->
+	<!-- Content -->
 
-		<h1 align="center" id="title_text">Privacy Policy</h1><div class="content">
-			<div class="content_text">
+	<h1 align="center" id="title_text">Privacy Policy</h1><div class="content">
+		<div class="content_text">
 <p><strong style="color:#015299;font-size:14px">Last Updated on October 18, 2010</strong></p>
 <p>We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how DealTicker collects information from all end users (“Users”) of DealTicker's Web site Services (the "Services"), what we do with the information we collect, and the choices Visitors and Customers have concerning the collection and use of such information. DealTicker requests that you read this Privacy Policy carefully.</p>
 <p><strong style="color:#015299;font-size:14px">Personal Information DealTicker Collects and How It Is Used</strong></p>
@@ -781,13 +777,15 @@ function f_showLetter(v){
   Customer Service<br>
   DealTicker Inc.<br>
   5000 Yonge St., Ste 1901<br>
-  Toronto ON M2N 7E9 </p></div>  			
-			<div style="clear: both;"></div>
+  Toronto ON M2N 7E9 </p></div>  		
+		<div style="clear: both;"></div>
 		
-		</div>
+	</div>
 		
-		<div style="clear: both;height: 15px;"></div>        
-		<table class="block_container" cellpadding="0" cellspacing="0">
+	         <table cellpadding="0" cellspacing="0" width="100%">
+        <tbody><tr><td align="right"><a href="http://www.dealticker.com/product.php/brand/55/city/Toronto" target="_blank"><img src="https://www.dealticker.com/UserFiles/Image/banners/DT_Brands_Banner_5_27_2013_FendiSunglasses.png" alt="" width="980" height="130"></a></td></tr>
+</tbody></table><div style="clear: both;height: 15px;"></div>        
+	<table class="block_container" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td class="block_title"><a href="http://www.dealticker.com/donation.php">Charity of the Month</a></td>
 	</tr>
@@ -795,12 +793,12 @@ function f_showLetter(v){
 		<td align="center" style="padding: 10px;">
 			<table cellpadding="5" cellspacing="0" border="0" style="width:100%;">
 								<tbody><tr>
-					<td align="center" style="color: #288dd3; padding: 5px 0;"><a href="http://www.dealticker.com/donation.php/top/"><img src="http://www.dealticker.com/UserFiles/donation/WarChild_2-200x199.jpg" style="max-height: 100px;"></a></td>
+					<td align="center" style="color: #288dd3; padding: 5px 0;"><a href="http://www.dealticker.com/donation.php/top/"><img src="http://www.dealticker.com/UserFiles/donation/WarChild_3-200x199-200x199.jpg" style="max-height: 100px;"></a></td>
 					<td width="15"><br></td>
-					<td valign="top" style="text-align: justify;font-family:Verdana;font-size: 12px;"><a href="http://www.dealticker.com/donation.php/top/" style="font-size: 14px;">War Child - <nobr>December 2012</nobr></a><br><p><strong>War Child </strong>works with children all over the world to reduce the effects of poverty, provide an education and to defend and promote child rights.&nbsp; War Child works to help children whose lives have been torn apart by conflict, and provide them with the means to build a brighter future.&nbsp; War Child works with local people and organizations in Afghanistan, Darfur (Sudan), Uganda, Sierra Leone, Democratic Republic of Congo, Ethiopia, Sri Lanka and Haiti.&nbsp; <a href="http://www.warchild.ca/" target="_blank">www.warchild.ca</a></p></td>
+					<td valign="top" style="text-align: justify;font-family:Verdana;font-size: 12px;"><a href="http://www.dealticker.com/donation.php/top/" style="font-size: 14px;">War Child - <nobr>June 2013</nobr></a><br><strong>War Child </strong>works with children all over the world to reduce the effects of poverty, provide an education and to defend and promote child rights.&nbsp; War Child works to help children whose lives have been torn apart by conflict, and provide them with the means to build a brighter future.&nbsp; War Child works with local people and organizations in Afghanistan, Darfur (Sudan), Uganda, Sierra Leone, Democratic Republic of Congo, Ethiopia, Sri Lanka and Haiti.&nbsp; <a href="http://www.warchild.ca/" target="_blank">www.warchild.ca</a></td>
 				</tr>
 				<tr>
-					<td><ul class="btn_orange" style="margin: auto; width: 90px;float: none;"><li><input type="button" value="Donate NOW!" onclick="location.href='http://www.dealticker.com/donation_now.php/donation_id/29'"></li></ul></td>
+					<td><ul class="btn_orange" style="margin: auto; width: 90px;float: none;"><li><input type="button" value="Donate NOW!" onclick="location.href='http://www.dealticker.com/donation_now.php/donation_id/36'"></li></ul></td>
 					<td width="15" style="padding: 0;"><br></td>
 					<td><ul class="btn" style="float: right;"><li><input type="button" value="View Past Charities" onclick="location.href='http://www.dealticker.com/past_charities.php'"></li></ul></td>
 				</tr>
@@ -837,10 +835,10 @@ function f_showLetter(v){
 			<tbody><tr><td class="border"><div style="width: 980px; height: 130px; margin: auto; background: url('/UserFiles/Image/DTAppBanner3.jpg');"><a href="https://itunes.apple.com/us/app/dealticker/id551058655?ls=1&amp;mt=8" target="_blank"><img style="margin-top: 103px; margin-left: 555px;" src="/images/spacer.gif" alt="" width="72" height="18"></a> <a href="https://play.google.com/store/apps/details?id=com.dealticker" target="_blank"><img style="margin-top: 103px; margin-left: 12px;" src="/images/spacer.gif" alt="" width="72" height="18"></a></div>
 <br></td></tr>
 </tbody></table><div style="clear: both;"></div>
-		<div style="clear: both;"></div>
+	<div style="clear: both;"></div>
+	<p id="back-top"><a href="#top"><span></span></a></p>
 
-	</div>
-
+</div>
 
 <div style="clear: both;height: 10px;"></div>
 
@@ -849,10 +847,10 @@ function f_showLetter(v){
 	<div id="footer_center">
 		<div class="footer_tl"><div class="footer_tr"></div></div>
 		<div class="footer_bl"><div class="footer_br">
-		<ul class="navlist">
+			<ul class="navlist">
 </ul><div class="bottom_menu"><ul><li class="top_level"><nobr>Our Company</nobr>
-                 </li><li class="sub_level"> <a href="http://www.dealticker.com/about_us_en_270cms.htm"><nobr>About Us</nobr></a>
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/faq_en_269cms.htm"><nobr>FAQ</nobr></a>
+                 </li><li class="sub_level"> <a href="http://www.dealticker.com/about_us_en_270cms.htm"><nobr>About Us</nobr></a>
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/employment_en_292cms.htm"><nobr>Employment</nobr></a>
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/contact_us_en_235cms.htm"><nobr>Contact Us</nobr></a>
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/news.php"><nobr>Press Releases</nobr></a>
@@ -884,16 +882,16 @@ function f_showLetter(v){
 		$('div.menu_cities div.submenu_cities:nth-child(2)').css({'width': '120px'});
 		$('div.menu_cities div.submenu_cities:nth-child(8)').css({'width': '120px'});
 	});
-</script>			<div class="footer_block_left">
+</script>						<div class="footer_block_left">
 				<div id="we_accept">
 					<span class="top_level">We Accept:</span><br><img src="/images/card-mastercard.gif" width="35" height="21" style="margin-right: 5px;"><img src="/images/card-visa.gif" width="35" height="21" style="margin-right: 5px;"><img src="/images/card-amex.gif" width="35" height="21">
 				</div>
 				<div class="technical_issue">
-					<!--  SSL Certificate Sticker  -->
+					<!--  SSL Certificate Sticker   --> 
 					<div title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
 					<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.dealticker.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
 					</div>
-					<!--  SSL Certificate Sticker  -->
+					 <!-- SSL Certificate Sticker  -->
 					<a href="http://www.verisign.com/ssl-certificate/" target="_blank">ABOUT SSL CERTIFICATES</a>
 					<div style="clear: both; height: 6px;"></div>
 					<ul class="btn_orange"><li><input type="button" onclick="f_technical_issue()" id="technical_issue" value="Technical Issue" style="padding: 9px 10px 9px 6px;"></li></ul>
@@ -907,24 +905,40 @@ function f_showLetter(v){
 
 			<div id="mobile_app">
 				<span>Get Our Mobile Apps And Browse On The Go:</span>
-				<a href="https://itunes.apple.com/us/app/dealticker/id551058655?ls=1&amp;mt=8" target="_blank"><img src="http://www.dealticker.com/images/iphone.png" width="68" height="52" border="0" alt="" style="margin-right: 20px;"></a>
+				<a href="https://itunes.apple.com/us/app/dealticker/id551058655?ls=1&amp;mt=8" target="_blank"><img src="http://www.dealticker.com/images/iphone.png" width="68" height="52" border="0" alt="" style="margin: 10px 20px;"></a>
 				<a href="https://play.google.com/store/apps/details?id=com.dealticker" target="_blank"><img src="http://www.dealticker.com/images/android.png" width="71" height="52" border="0" alt=""></a>
 			</div>
 
 			<div id="follow_us">
 				<span>Follow Us On</span>
-				<a target="_blank" href="http://twitter.com/@DealTickerTO"><img src="/images/follow_twitter.gif" width="22" height="21" border="0" alt=""></a>
-				<a target="_blank" href="http://www.facebook.com/pages/DealTicker-Toronto/151306911613983"><img src="/images/follow_facebook.gif" width="22" height="21" border="0" alt=""></a>
-				<a href="http://www.dealticker.com/rss.php?city=Toronto"><img src="/images/follow_rss.gif" width="22" height="21" border="0" alt=""></a>
+				<a target="_blank" href="http://twitter.com/dealtickerTO"><img src="/images/follow_twitter.gif" width="22" height="21" border="0" alt=""></a>
+				<a target="_blank" href="http://www.facebook.com/pages/DealTickerca/148301561859497?ref=ts"><img src="/images/follow_facebook.gif" width="22" height="21" border="0" alt=""></a>
+				<a href="http://www.dealticker.com/rss.php?city=Utah County"><img src="/images/follow_rss.gif" width="22" height="21" border="0" alt=""></a>
+				<a href="http://www.tico.ca/" target="_blank"><img src="http://www.dealticker.com/images/logo_tico.png" width="90" height="61" border="0" alt="" style="margin: 60px auto 0; border: none;"></a>
 			</div>
 
 			<div id="separator_bottom"><img src="http://www.dealticker.com/images/separator_bottom.png" width="947" height="1" border="0" alt=""></div>
 		</div>	
 	</div>
-
-	</div>
 </div>
 <!-- Footer -->
+
+<script type="text/javascript">
+$(function() {
+	var box = $('.menu_top'); // float-fixed block
+
+	var top = box.offset().top - parseFloat(box.css('marginTop').replace(/auto/, 0));
+	$(window).scroll(function(){
+		var windowpos = $(window).scrollTop();
+		if(windowpos < top) {
+			box.css('position', 'static');
+		} else {
+			box.css('position', 'fixed');
+			box.css('top', 0);
+		}
+	});
+});
+</script>
  <!-- External source --> 
 
 <script type="text/javascript">
@@ -987,51 +1001,9 @@ window.onload = function(){
 
 
  <!-- External source end --> 
-
-<script type="text/javascript">
-    jQuery.ie6Alert = function() {
-        if($.browser.msie && ( parseFloat($.browser.version)<8)) {
-            var html = 
-              "<div style='border: 1px solid #F7941D; background: #FEEFDA; text-align: center; clear: both; height: 75px; position: fixed; z-index:99999; top:0px;left:0px'>"+
-                "<div style='position: absolute; right: 3px; top: 3px; font-family: courier new; font-weight: bold;'><a href='#' onclick='javascript:this.parentNode.parentNode.style.display=\"none\"; return false;'><img src='/images/browser_icon/close.jpg' style='border: none;' alt='Close this notice'/></a></div>"+
-                "<div style='width: 850px; margin: 0 auto; text-align: left; padding: 0; overflow: hidden; color: black;'>"+
-                  "<div style='width: 75px; float: left;'><img src='/images/browser_icon/warning.jpg' alt='Увага!'/></div>"+
-                  "<div style='width: 400px; float: left; font-family: Arial, sans-serif;'>"+
-                    "<div style='font-size: 14px; font-weight: bold; margin-top: 12px;'>Using a newer browser would enhance your overall experience with this website.</div>"+
-                    "<div style='font-size: 12px; margin-top: 6px; line-height: 12px;'>Some features might not work correctly with your current browser:<br/><b>Internet Exporer " + $.browser.version + "</b></div>"+
-                  "</div>"+
-                  "<div style='width: 75px; float: left;'><a href='http://www.firefox.com' target='_blank'><img src='/images/browser_icon/firefox.png' style='border: none;' alt='Firefox'/></a></div>"+
-                  "<div style='width: 75px; float: left;'><a href='http://windows.microsoft.com/en-CA/internet-explorer/downloads/ie-8' target='_blank'><img src='/images/browser_icon/ie.png' style='border: none;' alt='Internet Explorer 8'/></a></div>"+
-                  "<div style='width: 75px; float: left;'><a href='http://www.google.com/chrome' target='_blank'><img src='/images/browser_icon/chrome.png' style='border: none;' alt='Google Chrome'/></a></div>"+
-                  "<div style='width: 75px; float: left;'><a href='http://www.apple.com/safari/download/' target='_blank'><img src='/images/browser_icon/safari.png' style='border: none;' alt='Safari'/></a></div>"+
-                "</div>"+
-              "</div>";
-            $("body").prepend(html);
-        }
-    }
-    $(document).ready(function(){
-       $.ie6Alert();
-    }); 
-</script>
 <script type="text/javascript">
 $(function(){
-   $("script[type=text/plain]").each(
-      function(){
-         var jThis = $(this);
-         if(jThis.attr("src")){
-            var script = document.createElement('script');
-            script.type = 'text/javascript';
-            script.src = jThis.attr("src");
-            document.body.appendChild(script);            
-         }
-         else{
-            var script = document.createElement('script');
-            script.type = 'text/javascript';
-            script.text  = jThis.contents().text();
-            document.body.appendChild(script);
-         }
-      }
-   ); 
+    setJavascript();
 });
 </script>
 
