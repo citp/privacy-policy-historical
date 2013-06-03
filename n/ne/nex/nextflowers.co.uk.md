@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextflowers.co.uk privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203162308id_/http%3A//www.nextflowers.co.uk/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextflowers.co.uk privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603101025id_/http%3A//www.nextflowers.co.uk/PrivacyPolicy) for the most accurate reproduction.*
 
 # Next – Flowers and Gift Cards delivered next day
 
