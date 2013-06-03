@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the live-your-love.com privacy policy that was archived on 2012-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120107101808id_/http%3A//live-your-love.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the live-your-love.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603073812id_/http%3A//onlineincomestar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
