@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullepisode.info privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231033104id_/http%3A//fullepisode.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullepisode.info privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603054307id_/http%3A//fullepisode.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Watch Streaming or Download Full Episode
 
@@ -15,5 +15,3 @@ We use third-partyÂ advertisingÂ companies to serve ads when you visit our w
 * Google, as a third party vendor, uses cookies to serve ads on our site.  
 * Googleâ€™s use of the DART cookie enables it to serve ads based on your visit to our sites and other sitesÂ on the Internet.  
 * You mayÂ opt outÂ of the use of the DART cookie by visiting the Google ad and content network privacy policy
-
-[streaming vs downloading privacy issues](http://fullepisode.info/privacy-policy/ "streaming vs downloading privacy issues"), [Boss Ep 101 Listen צפיה ישירה](http://fullepisode.info/privacy-policy/ "Boss Ep 101 Listen צפיה ישירה"), [fullepisode info 3rd party ad servers](http://fullepisode.info/privacy-policy/ "fullepisode info 3rd party ad servers"), [fullepisode ino](http://fullepisode.info/privacy-policy/ "fullepisode ino"), [fullepisode ino 3rd party ad servers](http://fullepisode.info/privacy-policy/ "fullepisode ino 3rd party ad servers"), [stream privacy download](http://fullepisode.info/privacy-policy/ "stream privacy download"), 
