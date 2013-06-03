@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avast.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214121912id_/http%3A//www.avast.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avast.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603134707id_/http%3A//www.avast.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # avast! Internet Security - Antivirus and Anti-spyware with Firewall
 
@@ -66,7 +66,7 @@ The Adobe SiteCatalyst service is part of the Adobe Digital Marketing Suite. Ado
 
 #### News subscriptions.
 
-Our website offers news and information by subscription including newsletters, blogs, or others. If you decide to subscribe to these services you may be asked to provide your first and last name, email address, and country of residence. If you subscribe to our "Reports and Bloggers" email newsletter (for media professionals), you will be asked to provide your first and last name, email address, title, publication name, and country. The information you provide will be used to deliver the content that you request. We will never use this information for direct marketing purposes unless you agree on a case-by-case basis (also known as "opting in"). We may use the information you provide to help develop content that is relevant to our professional media audiences. You are free to cancel your subscription(s) at any time by visiting [www.avast.com/news-subscription.php?page=unsubscribe](https://web.archive.org/web/20121214121912id_/http%3A//www.avast.com/news-subscription.php?page=unsubscribe).
+Our website offers news and information by subscription including newsletters, blogs, or others. If you decide to subscribe to these services you may be asked to provide your first and last name, email address, and country of residence. If you subscribe to our "Reports and Bloggers" email newsletter (for media professionals), you will be asked to provide your first and last name, email address, title, publication name, and country. The information you provide will be used to deliver the content that you request. We will never use this information for direct marketing purposes unless you agree on a case-by-case basis (also known as "opting in"). We may use the information you provide to help develop content that is relevant to our professional media audiences. You are free to cancel your subscription(s) at any time by visiting [www.avast.com/news-subscription.php?page=unsubscribe](https://web.archive.org/web/20130603134707id_/http%3A//www.avast.com/news-subscription.php?page=unsubscribe).
 
 #### "Refer a friend."
 
@@ -320,7 +320,7 @@ There are several ways you can reach us:
 
     * (1) You can always reach us by email at customerservice@avast.com. Please type “PRIVACY REQUEST” in the message line of your email so we can have the appropriate member of the Avast team respond.
     * (2) If you prefer, you can send paper mail to AVAST Software, Budejovicka 1518/13A, 140 00 Praha 4, Czech Republic. Be sure to write "Attention: Privacy" in the address so we know where to direct your correspondence.
-  * For residents of the European Union and Switzerland: If you live in the EU or Switzerland and you have a dispute regarding our handling of your personal data, you may contact the Data Protection Authority(ies) in your jurisdiction. Information on Data Protection Authorities in Europe can be found here: <http://ec.europa.eu/justice/policies/privacy/nationalcomm/index_en.htm>.
+  * For residents of the European Union and Switzerland: If you live in the EU or Switzerland and you have a dispute regarding our handling of your personal data, you may contact the Data Protection Authority(ies) in your jurisdiction. Information on Data Protection Authorities in Europe can be found here: <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>.
 
   * For residents of the United States: If you live in the U.S. and you have a dispute regarding our handling of your personal data, you may contact the FTC for information. See <http://www.ftc.gov/bcp/index.shtml>. You may also contact the attorney general of the state where you live.
 
