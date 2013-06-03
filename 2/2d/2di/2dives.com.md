@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2dives.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231100230id_/http%3A//2dives.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2dives.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603153916id_/http%3A//2dives.com/privacy-policy) for the most accurate reproduction.*
 
-# 2dives.com Privacy Policy | 2dives.com
+# Privacy Policy | 2dives.com
 
 **2dives.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
