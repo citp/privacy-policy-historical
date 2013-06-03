@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the taxaudit.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113072013id_/http%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxaudit.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603064947id_/http%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.*
 
-# TaxResources, Inc. Online Security and Privacy
+# Security and Privacy Guarantee | TaxAudit.com
 
-_At TaxResources, Inc. we understand you may have concerns about the privacy of your personal information and online security. We have implemented strict policies to protect our customers and employees._
+Security and Privacy 
+
+_Utilizing our online services when seeking tax audit defense, help or representation is easy and discreet. At TaxResources, Inc., dba TaxAudit.com, we understand you may have concerns about the privacy of your personal information and online security. We take these concerns seriously, and have implemented strict policies to protect our customers and employees._
 
 ### Online Security
 
-TaxResources has met the high security standards required for C–Level Security Certification and uses a Digi Certificate to securely encrypt your information. We have proactively implemented security steps to protect your data during entry, transmission, and storage.
+TaxResources, Inc. has met the high security standards required for C–Level Security Certification and uses a Digi Certificate to securely encrypt your information. We have proactively implemented security steps to protect your data during entry, transmission, and storage.
 
 ### TaxResources, Inc. and Canada TaxResources, Inc. Privacy  
 Protection Policy
@@ -71,8 +73,6 @@ The following defined terms are used throughout this Privacy Policy:
   2. corresponds with TaxResources, Inc.; or
   3. browses tax content or marketing material provided by TaxResources, Inc.
 
-
-
 **Disclosure** – means making personal information available to third parties outside TaxResources, Inc.
 
   **Employee** – means an employee, former employee or pensioner of TaxResources, Inc., and for the purposes of this Privacy Policy, includes the directors, shareholders and security holders of TaxResources, Inc.
@@ -134,8 +134,6 @@ _TaxResources, Inc. will identify the purpose for which personal information is 
   * conducting investigations and complaint resolution processes;
   * facilitating transactional due diligence reviews;
   * complying with legal and regulatory obligations.
-
-
 
 **2.7**  Anonymous or “non–personal” information gathered by TaxResources, Inc. through its website may be used for technical, research and analytical purposes. Information collected through surveys, existing files and public archives may be used by TaxResources, Inc. to analyze its markets and to develop or enhance service offerings. 
 
