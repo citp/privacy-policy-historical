@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desu.edu privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223104018id_/http%3A//www.desu.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desu.edu privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603040333id_/http%3A//www.desu.edu/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | DSU
+# DSU | Privacy Statement
 
 Delaware State University has created this privacy statement in order demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site.
 
