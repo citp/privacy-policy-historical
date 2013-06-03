@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the establishedmen.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919225252id_/http%3A//establishedmen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the establishedmen.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603042041id_/http%3A//establishedmen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Established Men
 
@@ -101,4 +101,5 @@ Established Men Inc.
 
 (DBA Established Men)   
 20 Eglinton Ave West, Suite 1200  
-Toronto, ON Canada M4R 1K8 
+Toronto, ON Canada M4R 1K8   
+1-877-840-7976 
