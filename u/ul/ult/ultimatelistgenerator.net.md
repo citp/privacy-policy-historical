@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ultimatelistgenerator.net privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228045446id_/http%3A//ultimatelistgenerator.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatelistgenerator.net privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603222026id_/http%3A//ultimatelistgenerator.net/privacy.php) for the most accurate reproduction.*
 
 # Free Viral List Builder
 
-[](http://www.ultimatelistgenerator.net/bannerclick.php?id=13600)  
+[](http://www.ultimatelistgenerator.net/bannerclick.php?id=7815)  
 
 
 Ultimate-List-Generator Privacy Policy
