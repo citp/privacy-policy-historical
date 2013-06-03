@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mineeds.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230091758id_/http%3A//www.mineeds.com/pages/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mineeds.com privacy policy that was archived on 2013-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603171911id_/http%3A//www.mineeds.com/pages/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
   <title>MiNeeds Privacy Policy | MiNeeds</title>
@@ -323,8 +323,6 @@ $j('#block-menu-63 .content .menu li.leaf a.active').parent().attr('class', 'lea
 <script language="javascript" src="js/get_page_size.js"></script>
 <script type="text/javascript" src="js/hover_menu.js"></script>
 <link rel="stylesheet" type="text/css" href="css/hover_menu.css">
-<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
-
 <link rel="stylesheet" href="/css/thickbox.css" type="text/css" media="screen">
 <script src="/js/jquery.thickbox.js" type="text/javascript" language="javascript"></script>
 <script language="javascript">
@@ -336,11 +334,11 @@ $j('#block-menu-63 .content .menu li.leaf a.active').parent().attr('class', 'lea
       
  $j(document).ready(function(){
      
-     $j('a.new_link-15-top-cities').click(function(){
-         $j('div#main_top_cities').parent().parent().prev().css('background','url("/images/homepage/header-popup.png") no-repeat scroll 0 0 transparent');
-             $j('div.form-cont-ajax-bg div#TB_title').append('<span style="float:left;padding:10px 0 0 7px;font-size:18px;font-weight:bold;color:#ffffff">Top Cities</span>');
-             $j('div#TB_title').css('height','40px');
-     });
+//     $j('a.new_link-15-top-cities2').click(function(){
+//         $j('div#main_top_cities').parent().parent().prev().css('background','url("/images/homepage/header-popup.png") no-repeat scroll 0 0 transparent');
+//             $j('div.form-cont-ajax-bg div#TB_title').append('<span style="float:left;padding:10px 0 0 7px;font-size:18px;font-weight:bold;color:#ffffff">Top Cities</span>');
+//             $j('div#TB_title').css('height','40px');
+//     });
      
      
         if($j('li a').hasClass("selected")) {
@@ -473,6 +471,14 @@ function showSignupEndUser(force, loginMessage) {
         
 }
 
+function showSignupEndUser2() {
+        light_box();
+  
+$j('#normal-registration-form').show();
+$j('#normal-login-form').hide();
+   showSignupEndUser();
+}
+
 function closeLoginForm() {
     $j('#normal-registration-form table td').removeClass('signup_error');
 	if($('signup_box')) $('signup_box').hide();
@@ -502,9 +508,7 @@ function showSignupEndUserForm(t) {
 	}
 }
 
-function signupEndUser(formId) {
-
-    
+function signupEndUser(formId) {    
 	if (!document.cookie) {
 		signupFields.each(function (element) {
 			if($(element)) {
@@ -539,6 +543,7 @@ function signupEndUser(formId) {
 					myJSON.error_fields.each(function (element) {
 						if ($('field_' + element)) {
 					       $('field_' + element).addClassName('signup_error');
+                                               
 					    }
 					});
 
@@ -638,109 +643,13 @@ function showForgotPassword() {
 <!---<div style="display: none;" id="top_cities" class="form-cont-ajax-bg">
     <div class="form-cont-ajax-bg"  style="border:0px;">
         <div style="display: none;" id="all_top_cities">
-            <div>
-								<div style="width:20%; float:left;">
-					<a href="/more_cities/Alabama" class="new_link-13">Alabama</a><br />
-													<a href="/more_cities/Alaska" class="new_link-13">Alaska</a><br />
-													<a href="/more_cities/American+Samoa" class="new_link-13">American Samoa</a><br />
-													<a href="/more_cities/Arizona" class="new_link-13">Arizona</a><br />
-													<a href="/more_cities/Arkansas" class="new_link-13">Arkansas</a><br />
-													<a href="/more_cities/California" class="new_link-13">California</a><br />
-													<a href="/more_cities/Colorado" class="new_link-13">Colorado</a><br />
-													<a href="/more_cities/Connecticut" class="new_link-13">Connecticut</a><br />
-													<a href="/more_cities/Delaware" class="new_link-13">Delaware</a><br />
-													<a href="/more_cities/District+of+Columbia" class="new_link-13">District of Columbia</a><br />
-													<a href="/more_cities/Federated+States+of+Micronesia" class="new_link-13">Federated States of Micronesia</a><br />
-													<a href="/more_cities/Florida" class="new_link-13">Florida</a><br />
-											</div>
-								<div style="width:20%; float:left;">
-					<a href="/more_cities/Georgia" class="new_link-13">Georgia</a><br />
-													<a href="/more_cities/Guam" class="new_link-13">Guam</a><br />
-													<a href="/more_cities/Hawaii" class="new_link-13">Hawaii</a><br />
-													<a href="/more_cities/Idaho" class="new_link-13">Idaho</a><br />
-													<a href="/more_cities/Illinois" class="new_link-13">Illinois</a><br />
-													<a href="/more_cities/Indiana" class="new_link-13">Indiana</a><br />
-													<a href="/more_cities/Iowa" class="new_link-13">Iowa</a><br />
-													<a href="/more_cities/Kansas" class="new_link-13">Kansas</a><br />
-													<a href="/more_cities/Kentucky" class="new_link-13">Kentucky</a><br />
-													<a href="/more_cities/Louisiana" class="new_link-13">Louisiana</a><br />
-													<a href="/more_cities/Maine" class="new_link-13">Maine</a><br />
-													<a href="/more_cities/Marshall+Islands" class="new_link-13">Marshall Islands</a><br />
-											</div>
-								<div style="width:20%; float:left;">
-					<a href="/more_cities/Maryland" class="new_link-13">Maryland</a><br />
-													<a href="/more_cities/Massachusetts" class="new_link-13">Massachusetts</a><br />
-													<a href="/more_cities/Michigan" class="new_link-13">Michigan</a><br />
-													<a href="/more_cities/Minnesota" class="new_link-13">Minnesota</a><br />
-													<a href="/more_cities/Mississippi" class="new_link-13">Mississippi</a><br />
-													<a href="/more_cities/Missouri" class="new_link-13">Missouri</a><br />
-													<a href="/more_cities/Montana" class="new_link-13">Montana</a><br />
-													<a href="/more_cities/Nebraska" class="new_link-13">Nebraska</a><br />
-													<a href="/more_cities/Nevada" class="new_link-13">Nevada</a><br />
-													<a href="/more_cities/New+Hampshire" class="new_link-13">New Hampshire</a><br />
-													<a href="/more_cities/New+Jersey" class="new_link-13">New Jersey</a><br />
-													<a href="/more_cities/New+Mexico" class="new_link-13">New Mexico</a><br />
-											</div>
-								<div style="width:20%; float:left;">
-					<a href="/more_cities/New+York" class="new_link-13">New York</a><br />
-													<a href="/more_cities/North+Carolina" class="new_link-13">North Carolina</a><br />
-													<a href="/more_cities/North+Dakota" class="new_link-13">North Dakota</a><br />
-													<a href="/more_cities/Northern+Mariana+Islands" class="new_link-13">Northern Mariana Islands</a><br />
-													<a href="/more_cities/Ohio" class="new_link-13">Ohio</a><br />
-													<a href="/more_cities/Oklahoma" class="new_link-13">Oklahoma</a><br />
-													<a href="/more_cities/Oregon" class="new_link-13">Oregon</a><br />
-													<a href="/more_cities/Palau" class="new_link-13">Palau</a><br />
-													<a href="/more_cities/Pennsylvania" class="new_link-13">Pennsylvania</a><br />
-													<a href="/more_cities/Puerto+Rico" class="new_link-13">Puerto Rico</a><br />
-													<a href="/more_cities/Rhode+Island" class="new_link-13">Rhode Island</a><br />
-													<a href="/more_cities/South+Carolina" class="new_link-13">South Carolina</a><br />
-											</div>
-								<div style="width:20%; float:left;">
-					<a href="/more_cities/South+Dakota" class="new_link-13">South Dakota</a><br />
-													<a href="/more_cities/Tennessee" class="new_link-13">Tennessee</a><br />
-													<a href="/more_cities/Texas" class="new_link-13">Texas</a><br />
-													<a href="/more_cities/Utah" class="new_link-13">Utah</a><br />
-													<a href="/more_cities/Vermont" class="new_link-13">Vermont</a><br />
-													<a href="/more_cities/Virgin+Islands" class="new_link-13">Virgin Islands</a><br />
-													<a href="/more_cities/Virginia" class="new_link-13">Virginia</a><br />
-													<a href="/more_cities/Washington" class="new_link-13">Washington</a><br />
-													<a href="/more_cities/West+Virginia" class="new_link-13">West Virginia</a><br />
-													<a href="/more_cities/Wisconsin" class="new_link-13">Wisconsin</a><br />
-													<a href="/more_cities/Wyoming" class="new_link-13">Wyoming</a><br />
-								
-
-			</div>
-	
-	<div style="clear:both;"></div>
-</div>            <div style="clear:both;"></div>
+            
+            <div style="clear:both;"></div>
             <a href="javascript:;" onClick="showHide_div('main_top_cities');return false;" style="background: url('/images/homepage/button-left.png') no-repeat scroll 0 0 transparent; color: #ffffff; margin: 0pt; text-align: left; font-weight: bold; font-size: 11px; float: right; padding: 1px 9px 5px 36px; height: 16px; width: 28px;"  class="new_link-13">less</a>
         </div>
         <div id="main_top_cities">
-            <div style="width:50%; float:left;">
-    <a href="New+York-New+York-Services" class="new_link-13">New York</a><br />
-    <a href="Los+Angeles-California-Services" class="new_link-13">Los Angeles</a><br />
-    <a href="Seattle-Washington-Services" class="new_link-13">Seattle</a><br />
-    <a href="Atlanta-Georgia-Services" class="new_link-13">Atlanta</a><br />
-    <a href="Chicago-Illinois-Services" class="new_link-13">Chicago</a><br />
-    <a href="Boston-Massachusetts-Services" class="new_link-13">Boston</a><br />
-    <a href="Miami-Florida-Services" class="new_link-13">Miami</a><br />
-    <a href="Houston-Texas-Services" class="new_link-13">Houston</a><br />
-    <a href="Philadelphia-Pennsylvania-Services" class="new_link-13">Philadelphia</a><br />
-    <a href="Washington-Georgia-Services" class="new_link-13">Washington</a><br />
-    <a href="Tampa-Florida-Services" class="new_link-13">Tampa</a><br />
-    <a href="Orlando-Florida-Services" class="new_link-13">Orlando</a><br />
-</div>
-
-<div style="width:50%; float:left;">
-    <a href="Phoenix-Arizona-Services" class="new_link-13">Phoenix</a><br />    
-    <a href="Austin-Texas-Services" class="new_link-13">Austin</a><br />
-    <a href="Denver-Colorado-Services" class="new_link-13">Denver</a><br />
-    <a href="San+Diego-California-Services" class="new_link-13">San Diego</a><br />
-    <a href="Detroit-Michigan-Services" class="new_link-13">Detroit</a><br />
-    <a href="Raleigh-North+Carolina-Services" class="new_link-13">Raleigh</a><br />
-    <a href="Ohio/Cincinnati-Ohio-Services" class="new_link-13">Cincinnati</a><br />
-    <a href="Kansas+City-Kansas-Services" class="new_link-13">Kansas City</a><br />
-</div>            <div style="clear:both;"></div>
+            
+            <div style="clear:both;"></div>
             <!--<a href="javascript:;" onClick="showHide_div('all_top_cities');return false;" style="background: url('/images/homepage/button-right.png') no-repeat scroll 0pt 0pt transparent; color: #ffffff; margin: 0pt; text-align: left; font-weight: bold; font-size: 11px; float: right; padding: 1px 36px 5px 9px; height: 16px; width: 28px;" >more</a>-->
             <!--<a href="more_cities" style="backg d,s./round: url('/images/homepage/button-right.png') no-repeat scroll 0pt 0pt transparent; color: #ffffff; margin: 0pt; text-align: left; font-weight: bold; font-size: 11px; float: right; padding: 1px 36px 5px 9px; height: 16px; width: 28px;" >more</a>
         </div>
@@ -860,11 +769,11 @@ function showForgotPassword() {
 
  $j(document).ready(function(){
 
-     $j('a.new_link-15-top-cities').click(function(){
-         $j('div#main_top_cities').parent().parent().prev().css('background','url("/images/homepage/header-popup.png") no-repeat scroll 0 0 transparent');
-         $j('div.form-cont-ajax-bg div#TB_title').append('<span style="float:left;padding:10px 0 0 7px;font-size:18px;font-weight:bold;color:#ffffff"></span>');
-         $j('div#TB_title').css('height','40px');
-     });
+//     $j('a.new_link-15-top-cities2').click(function(){
+//         $j('div#main_top_cities').parent().parent().prev().css('background','url("/images/homepage/header-popup.png") no-repeat scroll 0 0 transparent');
+//         $j('div.form-cont-ajax-bg div#TB_title').append('<span style="float:left;padding:10px 0 0 7px;font-size:18px;font-weight:bold;color:#ffffff"></span>');
+//         $j('div#TB_title').css('height','40px');
+//     });
 
 
      if($j('li a').hasClass("selected")) {
@@ -1004,12 +913,12 @@ $j(document).ready(function(){
 			}
 		}
 
-		new Ajax.Request('/ajax/messages_get_new_num.php', opt);
-		setTimeout('getCount()', 30000);
-                Ajax.Responders.register(responder);
+		//new Ajax.Request('/ajax/messages_get_new_num.php', opt);
+		//setTimeout('getCount()', 30000);
+                //Ajax.Responders.register(responder);
 
 
-	window.onload = getCount;
+	//window.onload = getCount;
         }
 
 
@@ -1039,109 +948,12 @@ $j(document).ready(function(){
 <div style="display: none;" id="top_cities" class="form-cont-ajax-bg">
     <div class="form-cont-ajax-bg" style="border:0px;">
         <div style="display: none;" id="all_top_cities">
-            <div>
-								<div style="width:20%; float:left;">
-					<a href="/more_cities/Alabama" class="new_link-13">Alabama</a><br>
-													<a href="/more_cities/Alaska" class="new_link-13">Alaska</a><br>
-													<a href="/more_cities/American+Samoa" class="new_link-13">American Samoa</a><br>
-													<a href="/more_cities/Arizona" class="new_link-13">Arizona</a><br>
-													<a href="/more_cities/Arkansas" class="new_link-13">Arkansas</a><br>
-													<a href="/more_cities/California" class="new_link-13">California</a><br>
-													<a href="/more_cities/Colorado" class="new_link-13">Colorado</a><br>
-													<a href="/more_cities/Connecticut" class="new_link-13">Connecticut</a><br>
-													<a href="/more_cities/Delaware" class="new_link-13">Delaware</a><br>
-													<a href="/more_cities/District+of+Columbia" class="new_link-13">District of Columbia</a><br>
-													<a href="/more_cities/Federated+States+of+Micronesia" class="new_link-13">Federated States of Micronesia</a><br>
-													<a href="/more_cities/Florida" class="new_link-13">Florida</a><br>
-											</div>
-								<div style="width:20%; float:left;">
-					<a href="/more_cities/Georgia" class="new_link-13">Georgia</a><br>
-													<a href="/more_cities/Guam" class="new_link-13">Guam</a><br>
-													<a href="/more_cities/Hawaii" class="new_link-13">Hawaii</a><br>
-													<a href="/more_cities/Idaho" class="new_link-13">Idaho</a><br>
-													<a href="/more_cities/Illinois" class="new_link-13">Illinois</a><br>
-													<a href="/more_cities/Indiana" class="new_link-13">Indiana</a><br>
-													<a href="/more_cities/Iowa" class="new_link-13">Iowa</a><br>
-													<a href="/more_cities/Kansas" class="new_link-13">Kansas</a><br>
-													<a href="/more_cities/Kentucky" class="new_link-13">Kentucky</a><br>
-													<a href="/more_cities/Louisiana" class="new_link-13">Louisiana</a><br>
-													<a href="/more_cities/Maine" class="new_link-13">Maine</a><br>
-													<a href="/more_cities/Marshall+Islands" class="new_link-13">Marshall Islands</a><br>
-											</div>
-								<div style="width:20%; float:left;">
-					<a href="/more_cities/Maryland" class="new_link-13">Maryland</a><br>
-													<a href="/more_cities/Massachusetts" class="new_link-13">Massachusetts</a><br>
-													<a href="/more_cities/Michigan" class="new_link-13">Michigan</a><br>
-													<a href="/more_cities/Minnesota" class="new_link-13">Minnesota</a><br>
-													<a href="/more_cities/Mississippi" class="new_link-13">Mississippi</a><br>
-													<a href="/more_cities/Missouri" class="new_link-13">Missouri</a><br>
-													<a href="/more_cities/Montana" class="new_link-13">Montana</a><br>
-													<a href="/more_cities/Nebraska" class="new_link-13">Nebraska</a><br>
-													<a href="/more_cities/Nevada" class="new_link-13">Nevada</a><br>
-													<a href="/more_cities/New+Hampshire" class="new_link-13">New Hampshire</a><br>
-													<a href="/more_cities/New+Jersey" class="new_link-13">New Jersey</a><br>
-													<a href="/more_cities/New+Mexico" class="new_link-13">New Mexico</a><br>
-											</div>
-								<div style="width:20%; float:left;">
-					<a href="/more_cities/New+York" class="new_link-13">New York</a><br>
-													<a href="/more_cities/North+Carolina" class="new_link-13">North Carolina</a><br>
-													<a href="/more_cities/North+Dakota" class="new_link-13">North Dakota</a><br>
-													<a href="/more_cities/Northern+Mariana+Islands" class="new_link-13">Northern Mariana Islands</a><br>
-													<a href="/more_cities/Ohio" class="new_link-13">Ohio</a><br>
-													<a href="/more_cities/Oklahoma" class="new_link-13">Oklahoma</a><br>
-													<a href="/more_cities/Oregon" class="new_link-13">Oregon</a><br>
-													<a href="/more_cities/Palau" class="new_link-13">Palau</a><br>
-													<a href="/more_cities/Pennsylvania" class="new_link-13">Pennsylvania</a><br>
-													<a href="/more_cities/Puerto+Rico" class="new_link-13">Puerto Rico</a><br>
-													<a href="/more_cities/Rhode+Island" class="new_link-13">Rhode Island</a><br>
-													<a href="/more_cities/South+Carolina" class="new_link-13">South Carolina</a><br>
-											</div>
-								<div style="width:20%; float:left;">
-					<a href="/more_cities/South+Dakota" class="new_link-13">South Dakota</a><br>
-													<a href="/more_cities/Tennessee" class="new_link-13">Tennessee</a><br>
-													<a href="/more_cities/Texas" class="new_link-13">Texas</a><br>
-													<a href="/more_cities/Utah" class="new_link-13">Utah</a><br>
-													<a href="/more_cities/Vermont" class="new_link-13">Vermont</a><br>
-													<a href="/more_cities/Virgin+Islands" class="new_link-13">Virgin Islands</a><br>
-													<a href="/more_cities/Virginia" class="new_link-13">Virginia</a><br>
-													<a href="/more_cities/Washington" class="new_link-13">Washington</a><br>
-													<a href="/more_cities/West+Virginia" class="new_link-13">West Virginia</a><br>
-													<a href="/more_cities/Wisconsin" class="new_link-13">Wisconsin</a><br>
-													<a href="/more_cities/Wyoming" class="new_link-13">Wyoming</a><br>
-								
-
-			</div>
-	
-	<div style="clear:both;"></div>
-</div>            <div style="clear:both;"></div>
+            
+            <div style="clear:both;"></div>
             <a href="javascript:;" onclick="showHide_div('main_top_cities');return false;" style="background: url('/images/homepage/button-left.png') no-repeat scroll 0 0 transparent; color: #ffffff; margin: 0pt; text-align: left; font-weight: bold; font-size: 11px; float: right; padding: 1px 9px 5px 36px; height: 16px; width: 28px;" class="new_link-13">less</a>
         </div>
-        <div id="main_top_cities">
-            <div style="width:50%; float:left;">
-    <a href="New+York-New+York-Services" class="new_link-13">New York</a><br>
-    <a href="Los+Angeles-California-Services" class="new_link-13">Los Angeles</a><br>
-    <a href="Seattle-Washington-Services" class="new_link-13">Seattle</a><br>
-    <a href="Atlanta-Georgia-Services" class="new_link-13">Atlanta</a><br>
-    <a href="Chicago-Illinois-Services" class="new_link-13">Chicago</a><br>
-    <a href="Boston-Massachusetts-Services" class="new_link-13">Boston</a><br>
-    <a href="Miami-Florida-Services" class="new_link-13">Miami</a><br>
-    <a href="Houston-Texas-Services" class="new_link-13">Houston</a><br>
-    <a href="Philadelphia-Pennsylvania-Services" class="new_link-13">Philadelphia</a><br>
-    <a href="Washington-Georgia-Services" class="new_link-13">Washington</a><br>
-    <a href="Tampa-Florida-Services" class="new_link-13">Tampa</a><br>
-    <a href="Orlando-Florida-Services" class="new_link-13">Orlando</a><br>
-</div>
-
-<div style="width:50%; float:left;">
-    <a href="Phoenix-Arizona-Services" class="new_link-13">Phoenix</a><br>    
-    <a href="Austin-Texas-Services" class="new_link-13">Austin</a><br>
-    <a href="Denver-Colorado-Services" class="new_link-13">Denver</a><br>
-    <a href="San+Diego-California-Services" class="new_link-13">San Diego</a><br>
-    <a href="Detroit-Michigan-Services" class="new_link-13">Detroit</a><br>
-    <a href="Raleigh-North+Carolina-Services" class="new_link-13">Raleigh</a><br>
-    <a href="Ohio/Cincinnati-Ohio-Services" class="new_link-13">Cincinnati</a><br>
-    <a href="Kansas+City-Kansas-Services" class="new_link-13">Kansas City</a><br>
-</div>            <div style="clear:both;"></div>
+        <div id="main_top_cities">            
+            <div style="clear:both;"></div>
 <!--            <a href="javascript:;" onClick="showHide_div('all_top_cities');return false;" style="background: url('/images/homepage/button-right.png') no-repeat scroll 0pt 0pt transparent; color: #ffffff; margin: 0pt; text-align: left; font-weight: bold; font-size: 11px; float: right; padding: 1px 36px 5px 9px; height: 16px; width: 28px;" >more</a>-->
             <a href="more_cities" style="background: url('/images/homepage/button-right.png') no-repeat scroll 0pt 0pt transparent; color: #ffffff; margin: 0pt; text-align: left; font-weight: bold; font-size: 11px; float: right; padding: 1px 36px 5px 9px; height: 16px; width: 28px;">more</a>
         </div>
@@ -1169,7 +981,7 @@ $j(document).ready(function(){
 
                  ">
                 <div id="in_Div" style="position: relative;top:-1px;margin-top:0px;height:55px;background-image:url('images/mmm-fadwa-new.png');background-position: 120% 56%;background-repeat: no-repeat">
-
+                   <div id="call_us">Call us today (800) 771-8710</div> 
                 <div class="header-logo" style="padding:0px 0px 0px;">
                         <a href="http://www.mineeds.com/" title="MiNeeds" style="position:relative;left:-6px;"><img src="/images/logo.png" border="0" style="margin-top: 7px;"></a>
                     </div>
@@ -1189,12 +1001,12 @@ $j(document).ready(function(){
                 <ul class="innerUl">
                     <li><a href="post_need/2">Post Your Need</a></li>
                     
-                    <li><a href="http://www.mineeds.com/Seattle-Washington-Services" class="">Search Professionals</a></li>
+                    <li><a href="http://www.mineeds.com/services" class="">Search Professionals</a></li>
                 </ul> <img src="/images/arrow-1.png" border="0" style="float:right ; position:relative; top:-10px;right: -1px;">
             </li>
-            <li id="service_header" class=" long_btn myHeader hover  selected " style="width:128px;"><a class="css_menu" href="" style="position:relative;left:-3px">MY CUSTOMERS</a>
+            <li id="service_header" class=" long_btn myHeader hover  selected " style="width:128px;"><a class="css_menu" href="http://www.mineeds.com/how_it_works" style="position:relative;left:-3px">MY CUSTOMERS</a>
 
-                <ul style="" class="big_ul">
+                <ul style="" class="big_ul">                    
                                         <!--                    <li ><a  style="" href="http://www.mineeds.com/Seattle-Washington-Needs" class="">Search Leads</a></li>-->
                                                            <li><a href="http://www.mineeds.com/how_it_works" class="">How It Works</a></li>
                      <li><a href="/pages/help" class="">Help</a></li>
@@ -1202,44 +1014,45 @@ $j(document).ready(function(){
                 </ul><img src="/images/arrow-1.png" border="0" style="float:right ; position:relative; top:-10px;right: -1px;">
             </li>
             <li id="community_header" class="myHeader hover ">
-                <a href="" style="position:relative;left:-2px">COMMUNITY</a>
+                <a href="http://www.mineeds.com/ask_experts" style="position:relative;left:-2px">COMMUNITY</a>
                 <ul style="">
                     <li><a href="/write-an-article" class="">Write an Article</a></li>
                     <li><a href="Ask-a-Question/1" class="">Post a Question</a></li>
                     <li><a href="http://www.mineeds.com/Ask-The-Experts/Questions_Answers" class="">Q&amp;A</a></li>
                     <li><a href="http://www.mineeds.com/ask_experts" class="">Articles</a></li>
-                    <li><a href="http://www.mineeds.com/forums" class="">Forum</a></li>
-                </ul><img src="/images/arrow-1.png" border="0" style="float:right ; position:relative; top:-10px;right: -1px;">
+                                    </ul><img src="/images/arrow-1.png" border="0" style="float:right ; position:relative; top:-10px;right: -1px;">
             </li>
-       <!--     <li id="account_header">
-                      <a  >ACCOUNT</a>
-                <ul>
-                    <li ><a href="http://www.mineeds.com/profiles" class="">Profiles</a></li>
-                    <li ><a href="profile/account#profile_block_h" id="profile_block_" class=" ">My Account</a></li>
-                    <li ><a href="profile/account#notification_settings_h" id="notification_settings_" class=" ">Notification Settings</a></li>
-                                                            <li ><a href="http://www.mineeds.com/profile/contacts"  class="">Contacts</a></li>
-                </ul><img src="/images/arrow-1.png" border="0" style="float:right ; position:relative; top:-10px;right: -1px;" >
-            </li> -->
+            <li id="about_header" class="myHeader hover ">
+                <a href="/pages/about-mineeds" style="position:relative;left:-2px">ABOUT</a>
+                <ul style="">
+                    <li><a href="/pages/about-mineeds" class="">About MiNeeds</a></li>
+                    <li><a href="/blog" class="">Blog</a></li>
+                    <li><a href="/pages/press" class="">Press</a></li>
+                    <li><a href="/pages/careers" class="">Careers</a></li>
+                    <li><a href="/more_cities" class=" ">Top Cities</a></li>
+                    <li><a href="/pages/contact-us" class="">Contact Us</a></li>
+                </ul><img src="/images/arrow-1.png" border="0" style="float:right ; position:relative; top:-10px;right: -1px;">
+            </li>       
             <div class="clearb"></div>
         </ul>
                     
 
 
 
-                    <div class="new_headerUser" style="float:left;background-image: url('/images/onepix-new.png');width:265px">
+                    <div class="new_headerUser" style="float:left;background-image: url('/images/onepix-new.png');width:255px">
 
                <div style="float:right;">
-                   <a style="margin-top:2px;position:relative;left:-112px;border:none;padding:0px;background: none;" class="thickbox new_link-15-top-cities top_cities" href="#TB_inline?height=240&amp;width=360&amp;inlineId=top_cities"> <img style="border:none;" src="/images/top-cities.png"> </a>
-
-                 <div style="float:left;margin-right:10px;margin-top:11px;color:#ffffff;font-weight: bold;font-size:14px;">  <a href="http://www.mineeds.com/profile/" style="font-weight: bold;font-size:14px;color:#fff;text-decoration:none;"></a>
+                 <div style="float:left;margin-right:10px;margin-top:11px;color:#ffffff;font-weight: bold;font-size:14px;">  
+                  &nbsp;
+                 
             
-        </div>
+                </div>
                     <div class="floatl" style="margin: 0 7px;width:150px;">
                                                    <div class="login-or-my-area-png">
+                                                    
+                      <a style="width:55px;height:20px;float:right;margin-left: 35px;float: left;line-height:20px;margin-top:3px;padding:0px 5px;color:#0481b6;background-image:url('/images/signupBg.gif');" href="/login">Sign Up</a>
 
-                      <a style="width:55px;height:20px;float:right;margin-left: 35px;float: left;line-height:20px;margin-top:3px;padding:0px 5px;color:#0481b6;background-image:url('/images/signupBg.gif');" href="javascript:void(0)" onclick="showSignupEndUser(true); return false">Sign Up</a>
-
-                      <a style="margin-top:-1px;float:right;padding-left:5px;margin-right: 10px;" href="javascript:void(0)" onclick="showSignupEndUser(true); return false">Login </a>
+                      <a style="margin-top:-1px;float:right;padding-left:5px;margin-right: 10px;" href="/login/email">Login </a>
 
                   </div>
                   <b class="clearb"></b>
@@ -1627,57 +1440,10 @@ function hidePostNeedBlocks() {
 
 	<div id="footer">
 				<div class="footerdiv">
-			<div class="copyright"> © 2012 MiNeeds.com. All rights reserved<br>
+                    <div class="copyright"> © 2013 MiNeeds.com. All rights reserved &nbsp;&nbsp;
 		    	<a href="pages/privacy.html">Privacy policy</a> | <a href="pages/terms-use">Terms of Use</a>
 		    </div>
-			<div style="float:left;">
-			
-<div id="block-block-11" class="clear-block block block-block">
-
-
-  <div class="content">			<div class="footer"><strong>Site Links: </strong>
-				<a href="pages/about-mineeds">About Us</a> &nbsp;|
-
-				<a href="pages/contact-us">Contact Us</a> &nbsp;|
-<a href="pages/careers">Careers</a> &nbsp;|
-				<a href="http://www.mineeds.com/blog">Blog</a> &nbsp;|
-				<a href="pages/press">Press</a>
-			</div></div>
-</div>
-			</div>
-			<div style="float:left;margin-left: 40px;padding-top:10px;">
-				<strong>Partners:</strong>
-				<a href="/pages/affiliates">Affiliates</a> |
-				<a href="/tools/widget">Widgets</a> |
-				<a href="/tools/api">Data &amp; APIs</a>
-			</div>
-                        <div style="float:left;margin-left: 5px;padding-top:10px;">
-                            <strong>Professionals:</strong>
-                            <!--<a href="/pages/mineeds-benefits-professionals">Benefits</a> |-->
-                            <a href="/how_it_works">How it works</a> |
-                            <!--<a href="/create_offering">Sign Up</a>->
-                        </div>
-			<div style="clear:both"></div>
-			<!--<div style="font-size:10px;padding-top:10px;">
-				<span style="font-size:12px;"><b>Categories: </b></span>
-				<a href="/Seattle-Washington-Services/Auto-Repair-Services" style="font-size:10px;">Auto Repair &amp; Services</a>&nbsp;| <a href="/Seattle-Washington-Services/Auto-Detailing-Services" style="font-size:10px;">Auto Detailing Services</a>&nbsp;| <a href="/Seattle-Washington-Services/Art-Painting-Drawing" style="font-size:10px;">Art Painting &amp; Drawing</a>&nbsp;| <a href="/Seattle-Washington-Services/Body-Art" style="font-size:10px;">Body Art</a>&nbsp;| <a href="/Seattle-Washington-Services/Collage" style="font-size:10px;">Collage</a>&nbsp;| <a href="/Seattle-Washington-Services/Craft" style="font-size:10px;">Craft</a>&nbsp;| <a href="/Seattle-Washington-Services/Digital" style="font-size:10px;">Digital</a>&nbsp;| <a href="/Seattle-Washington-Services/Glass" style="font-size:10px;">Glass</a>&nbsp;| <a href="/Seattle-Washington-Services/Pottery" style="font-size:10px;">Pottery</a>&nbsp;| <a href="/Seattle-Washington-Services/Sculpting" style="font-size:10px;">Sculpting</a>&nbsp;| <a href="/Seattle-Washington-Services/Fashion" style="font-size:10px;">Fashion</a>&nbsp;| <a href="/Seattle-Washington-Services/Graphic" style="font-size:10px;">Graphic</a>&nbsp;| <a href="/Seattle-Washington-Services/Jewelry" style="font-size:10px;">Jewelry</a>&nbsp;| 	<a href="all_categories" style="font-size:10px;">All Categories</a>
-			</div>-->
-
-			<div style="font-size:10px;padding-top:10px;">
-				<span style="font-size:12px;"><b>Cities: </b></span>
-				<a href="/Seattle-Washington-Services" style="font-size:10px;">Seattle</a> |
-				<a href="/San+Francisco-California-Services" style="font-size:10px;">San Francisco</a> |
-				<a href="/Austin-Texas-Services" style="font-size:10px;">Austin</a> |
-				<a href="/Chicago-Illinois-Services" style="font-size:10px;">Chicago</a> |
-				<a href="/Dallas-Texas-Services" style="font-size:10px;">Dallas</a> |
-				<a href="/Los+Angeles-California-Services" style="font-size:10px;">Los Angeles</a> |
-				<a href="/Portland-Oregon-Services" style="font-size:10px;">Portland</a> |
-				<a href="/San+Diego-California-Services" style="font-size:10px;">San Diego</a> |
-				<a href="/San+Jose-California-Services" style="font-size:10px;">San Jose</a> |
-				<a href="/New+York-New+York-Services" style="font-size:10px;">New York</a> |
-				<a href="/more_cities" style="font-size:10px;">More Cities</a>
-			</div>
-                        		</div>
+                    		</div>
 			</div>
 </div>
 <script type="text/javascript">  FB.init("603f517b71a1c02528fa7eb92d83573d", "/fb_connect"); </script>
@@ -1688,4 +1454,4 @@ function hidePostNeedBlocks() {
 
 
 
-</div></body></html>
+</body></html>
