@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defsounds.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123091645id_/http%3A//www.defsounds.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defsounds.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603051748id_/http%3A//defsounds.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
