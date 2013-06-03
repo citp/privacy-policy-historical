@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topwebmodels.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919204550id_/http%3A//topwebmodels.com/MSE/default/0/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topwebmodels.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603045756id_/http%3A//www.topwebmodels.com/MSE/default/0/privacy) for the most accurate reproduction.*
 
 # 
 
