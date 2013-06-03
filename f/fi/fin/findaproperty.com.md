@@ -1,83 +1,46 @@
-> *The following text is extracted and transformed from the findaproperty.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613083316id_/http%3A//www.findaproperty.com/privacy.aspx%3Fedid%3D00%26salerent%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findaproperty.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603035600id_/http%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# Zoopla Privacy policy - Zoopla
 
-We are Find a Property Limited (a wholly owned subsidiary of the Daily Mail & General Trust PLC ("DMGT"), company registration number 02290527, data protection registered number PZ8806757) ("FindaProperty.com/we/us"). At FindaProperty.com we are very serious about protecting your privacy. Your trust is our most important asset. This privacy policy explains how FindaProperty.com may collect information from you via our websites and how that information may be used subsequently. If you have any queries in relation to this privacy policy please contact [support@findaproperty.com](mailto:support@FindaProperty.com).
+## Our commitment to you
 
-By browsing and using our website you agree to this policy governing your use of the website. If you do not accept this policy, you must not use our website.
+Zoopla.co.uk is operated by Zoopla Property Group Limited. Zoopla Property Group Limited respects your privacy and is committed to protecting personal information collected from you through our website. This privacy policy governs the way we collect and use information, and by using the services on our website ('Services') you agree to be bound by this policy. All references within this policy to 'we/us/our' refer to Zoopla Property Group Limited.
 
-This policy applies only to this website and not to other websites to which we provide links. We also enter into agreements with commercial partners whose websites may be co-branded or framed by us and which you may visit directly through our website. These websites are not subject to our privacy policy. You are advised to read the privacy policy of such other websites.
+## Information we collect
 
-We may change our privacy policy from time to time without notification and you should regularly review this policy when you visit our site.
+When you use the Services you will have the option to provide us with personal information, such as your email address, so that we may keep you informed.
 
-**Collection of information**
+When visiting our website, we may place one or more cookies (a small file that is stored by your browser to recognise you and store your preferences) on your computer. This helps us to improve our Services by personalising information you may want. You may adjust the settings on your browser to refuse cookies but some of the Services may not work if you do so. We may also log information from your computer including the existence of cookies, your IP address and information about your browser program in order to allow us to diagnose problems, administer and track your usage of the Services. [View our Cookie Policy](https://web.archive.org/privacy/cookies/)
 
-In order to provide the services you want, and to allow you to experience a more personalised service when you revisit us, we need to know your interests. We find these out by asking you, by reading your comments and by looking at which are the most popular areas of our sites.
+## How we use information
 
-**Collection of personal information**
+We use the information we collect to provide the Services and to communicate with you. We may disclose information (including personal information) to other companies in our group (<http://www.dmgt.co.uk/footer/dmgt>) and may use and share, within the group, information that we learn from your interactions with us. We will only share your personal information outside our group in the following circumstances:
 
-We will only collect personal information from you (such as name, address, telephone number, email address etc) which you have provided voluntarily to us either by completing registration or enquiry forms or sending emails to us. Please do not submit your personal data to us if you do not wish us to collect it. We will only use this data for the purposes you have expressly authorised or as set out in this privacy policy and will not pass it to third parties without your consent.
-
-Examples of where we may collect your personal information include (without limitation):-
-
-  * If you enter a contest or promotion we ask for your name, address and e-mail address. This is so we can run the contest effectively and tell you if you have won. 
-  * If you use our "Mail to a friend" service, we ask for the friend's name and email address. We then send an automatic, one-time e-mail inviting your friend to visit us. Details of this transaction are stored only to send that one-time e-mail or to track complaints of mischievous use. Your friend may email support@FindaProperty.com to ask that it be deleted. 
-  * Submitting an enquiry to an agent or joining a mailing list. 
+  * When you have consented or directed us to share the information.
+  * With service providers or affiliate companies who perform services on our behalf.
+  * In order to satisfy any requirement under the law or to protect our rights or prevent any concerns relating to fraud or security.
+  * In the event of a merger or sale of all or part of our business whereby personal information may be transferred as an asset of the business.
 
 
 
-**Collection of other information**
+We may share with third parties aggregate information or information that does not personally identify you.
 
-In addition to asking you to submit personal information, we may collect information about you automatically when you visit the site. The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor visitors to our site. A cookie is small text file that is placed on your computer's hard drive by your web browser when you first visit our site. The cookie allows us to identify your computer and find out details about your last visit. Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, we cannot guarantee that your experience with our website will be as quick or responsive as if you do receive cookies. To delete a cookie In Internet Explorer, on the Tools menu, click Internet Options. On the General tab, click Settings, and then click View files. Select the cookie you want to delete, and then, on the File menu, click Delete.
+## Communicating with you
 
-The information collected by cookies and web beacons is not personally identifiable, it includes general information about your computer settings, your connection to the internet e.g. operating system and platforms, IP address, your browsing patterns and timings of browsing on our website and your geographical location.
+If you prefer not to receive emails about our Services, you may opt out of such communications by following the instructions at the bottom of any of our emails, or by amending your preferences in [MyZoopla](https://web.archive.org/myaccount/).
 
-**Use of your information**
+## Third parties
 
-You agree that we may obtain, hold, correlate, merge and use your information (including personal information) for the purpose of providing you with our services and ancillary services and for our internal business purposes. These include (without limitation):-
+We use third parties to serve advertisements on our website and these third parties may use parties or other means to help measure the effectiveness of their advertisements. Our website may also include links to other unrelated websites and/or contact forms to other unrelated parties which may collect personal information. Our privacy policy does not extend to these third parties or other websites and we recommend that users refer directly to these parties regarding their privacy policies before supplying personal details to these companies. [View our Cookie Policy](https://web.archive.org/privacy/cookies/)
 
-  * personalising your visits to the site and developing the design and style of the site to improve our services to you; 
-  * to inform you about the latest changes to our website, or products, services or promotional offers that you might find interesting; 
-  * communication (and personalising such communication) with you from FindaProperty.com, from other Daily Mail & General Trust (“DMGT”) group companies and from other reputable and trustworthy third parties (if you have agreed to such); 
-  * informing you if you have been successful in any of the competitions or promotions; 
-  * compiling customer reviews; 
-  * for market research purposes; 
-  * to prevent you from posting illegal, offensive or objectionable comments on our sites; 
-  * to enable third parties to carry out statistical analyses’, technical, logistical or other functions on our behalf including determining behavioural preferences to manage online advertising; 
-  * for strategic development; 
-  * for any purpose required by law or regulation; 
-  * for accounting purposes; 
+## Safety and security
 
+Personal information is processed and stored in our databases and we have taken reasonable steps to secure and protect the information under our control, including establishing processes to prevent unauthorized access or disclosure of this information. However, whilst we make every effort to ensure the security of your information, we are unable to guarantee the protection of the information from misuse, accidental disclosure or unauthorised acts by others. Information provided by you may be stored or processed outside the United Kingdom.
 
+## Changes to Privacy Policy
 
-**Sharing Information**
+We reserve the right to change this privacy policy at any time without prior notice to you. Any changes will be posted on our website and become effective at the time of posting. In the event that material changes are made that affect the use or disclosure of your personal information, we will make reasonable efforts to notify you of these changes.
 
-We may disclose your information to any company within the DMGT group of companies by means of a centralised database to which all companies have access or by means of a direct transfer of data from one office to another.
+If you have any questions or comments about our privacy policy, please [Contact us](https://web.archive.org/contact/).
 
-We may provide third parties, at our discretion, with certain aggregate statistical data about your use of our websites, which data may include demographic data such as age range and/or geographic location of groups of user. It will not include information that could personally identify you.
-
-With your consent, we may supply personal information to third parties. You will be given the chance to refuse consent if the information will be used for this purpose.
-
-We reserve the right to access and to disclose personal information to comply with applicable laws and lawful government requests or requests by applicable regulatory bodies, to operate our systems properly or to protect either ourselves or our other users.
-
-We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of FindaProperty.com.
-
-You consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the United Kingdom provides) in the event that the processing of your information involves such a transfer.
-
-**Monitoring emails**
-
-We may monitor and keep records of email communications which you send to us and other communications with you in accordance with this policy and our other business interests.
-
-**Safeguards and Security**
-
-No data transmission over the internet can be entirely secure, and therefore we cannot guarantee the security of your personal information and/or use of our sites. However we use our reasonable endeavours to protect the security of your personal information from unauthorised access or use.
-
-In addition to our safeguards your personal information is protected in the UK by the Data Protection Act. This provides that the information which we hold about you should be processed fairly and lawfully and should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. Please help us to keep your personal information accurate by updating your registration details on the website.
-
-For more information on the Data Protection Act and the Information Commissioner please see [www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/)
-
-**Changing or accessing your information**
-
-Should your personal information change (e.g. your postcode), or if you no longer wish to receive newsletters or services you have signed up for, or if you wish to review or receive copies of the personal information we hold about you, or have any other queries please email [ support@FindaProperty.com](mailto:support@FindaProperty.com) including full details of your request.
-
-You may at anytime request access to all personal information we hold on you. We will provide this information within 40 days of a written request for a small administrative charge.
+This policy was last updated on 28th September, 2012
