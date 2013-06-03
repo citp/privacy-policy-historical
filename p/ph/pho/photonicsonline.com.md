@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photonicsonline.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119044610id_/http%3A//www.photonicsonline.com/Static.mvc/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonicsonline.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603154033id_/http%3A//www.photonicsonline.com/static/Privacy) for the most accurate reproduction.*
 
 # Photonics Online: Display components,optical components & fabrication
 
