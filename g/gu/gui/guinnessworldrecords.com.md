@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the guinnessworldrecords.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618030802id_/http%3A//corporate.guinnessworldrecords.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guinnessworldrecords.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603144734id_/http%3A//corporate.guinnessworldrecords.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Guinness World Records - Privacy Policy
+# Guinness World Records Corporate | Privacy Policy
+
+[ Guinness World Records](http://www.guinnessworldrecords.com/)
 
 THIS PRIVACY POLICY WAS LAST UPDATED ON 19 JANUARY 2010.
 
@@ -12,7 +14,7 @@ We encourage parents/guardians to become involved in their children's online exp
 
 ## CHILDREN / MINORS
 
-If you are under 18 years of age, you should ask your parent or guardian before giving any information on the Internet (like your name, email address, home address, phone number). Some areas on our Web Sites require our users to give us information, but we will not knowingly ask for, or accept, personal information from persons under the age of 13. If you are younger than 13, only your parent or guardian should access these areas of our Web Sites. 
+If you are under 18 years of age, you should ask your parent or guardian before giving any information on the Internet (like your name, email address, home address, phone number). Some areas on our Web Sites require our users to give us information, but we will not knowingly ask for, or accept, personal information from persons under the age of 13. If you are younger than 13, only your parent or guardian should access these areas of our Web Sites.
 
 ## AGREEMENT TO THIS PRIVACY POLICY AND PRIVACY POLICY MODIFICATIONS
 
@@ -36,9 +38,9 @@ Competitions - To enter children are required to answer a question online and we
 
 Quizzes - From time to time we may feature quizzes on our website for a child to compete in and we may publish the child's scores on our global quiz scoreboard together with your name and the country you live in.
 
-If at any time a parent/guardian wishes to withdraw their consent to any of the above areas, they can contact us using the information listed below and any information about their child will be deleted from the applicable area(s). We do not use the features of your browser to set "cookies" on your computer. As we said above, we request personal information (e.g. child's name, e-mail address, mailing address and/or birth date) in certain areas of our web site. For your convenience, the following is a list of those areas, the personal information we request and the reasons why:-
+If at any time a parent/guardian wishes to withdraw their consent to any of the above areas, they can contact us using the information listed below and any information about their child will be deleted from the applicable area(s). We do not use the features of your browser to set "cookies" on your computer. As we said above, we request personal information (e.g. child's name, e-mail address, mailing address and/or birth date) in certain areas of our web site. For your convenience, the following is a list of those areas, the personal information we request and the reasons why:- 
 
-From time to time, we may also ask you to provide us with Non-PII. We may use this information for internal purposes or for sharing with third parties for any lawful purpose, without your permission. No third party will know who you are because of the use of your Non-PII. 
+From time to time, we may also ask you to provide us with Non-PII. We may use this information for internal purposes or for sharing with third parties for any lawful purpose, without your permission. No third party will know who you are because of the use of your Non-PII.
 
 We will not knowingly ask for, or accept, PII from persons under the age of 13. Before accepting PII from anyone, we ask a question designed to determine that person's age. If we determine that the person may be under the age of 13 we will not knowingly accept that person's PII at that activity or registration and that person will be restricted from participating in such web page activities at that time. If we have knowledge that a child under 13 has provided us with PII, we will delete such information from our records. If you are a parent or guardian and you believe your child has given us PII, please use the Contact Us form on a Web Site and enter your detailed request in the text box to review such information and to have it deleted from our records.
 
@@ -48,14 +50,13 @@ We may use your PII in activities such as the ones indicated above. We may also 
 
 The PII you disclose may be shared with third parties that provide support of our Web Sites' activities, such as those who may administer an activity for us, those conducting online contests and sweepstakes and shipping companies or fulfillment houses that may deliver a product, prize or premium. These third parties will use your PII to perform their functions and may not use it for other purposes.
 
-Guinness World Records does not sell or otherwise disclose PII to third parties, except as indicated in this section entitled "USE OF PII." In the event of a merger, acquisition, reorganisation or other similar event, your PII may be transferred or shared with our successors or assigns. We may also share PII collected from one of our Web Sites with any other of our Web Sites and with other Guinness World Records companies. 
+Guinness World Records does not sell or otherwise disclose PII to third parties, except as indicated in this section entitled "USE OF PII." In the event of a merger, acquisition, reorganisation or other similar event, your PII may be transferred or shared with our successors or assigns. We may also share PII collected from one of our Web Sites with any other of our Web Sites and with other Guinness World Records companies.
 
 ## OPTING-OUT
 
 If you wish to receive emails about Guinness World Records, including special offers, products and other information you might find interesting, you may opt-in to receive such information at the time of registration or at the time of collection of PII. If you are receiving such emails from Guinness World Records and wish to opt-out of receiving them, you can do so by (i) clicking on the designated unsubscribe link within the Guinness World Records email, (ii) choosing Contact Us from the appropriate section on the Web Site and entering "Remove," along with the applicable email address, in the Comments box, or (iii) writing us at:
 
-_UK Address_
-
+UK Address  
 Guinness World Records  
 Attn: Online Privacy Administrator  
 184-192 Drummond Street  
@@ -65,8 +66,7 @@ United Kingdom
 
 or
 
- _US Address_
-
+US Address  
 Guinness World Records  
 Attn: Online Privacy Administrator  
 45 W. 45th Street  
@@ -100,7 +100,7 @@ Through the Google Analytics technology, we also collect and accumulate other an
 
 ## CO-BRANDED MICRO SITES
 
-Web pages and/or micro web sites may be included within our Web Sites and may be co-branded with third party names, logos and/or properties and are operated and maintained by us. While such third parties are sponsors of these web pages or micro web sites, they do not share in any PII collected within those web pages or micro web sites. 
+Web pages and/or micro web sites may be included within our Web Sites and may be co-branded with third party names, logos and/or properties and are operated and maintained by us. While such third parties are sponsors of these web pages or micro web sites, they do not share in any PII collected within those web pages or micro web sites.
 
 ## THIRD PARTY ADVERTISEMENTS
 
@@ -110,14 +110,13 @@ These third parties may use information (not including your name, address, email
 
 ## INTERNATIONAL USER NOTICE
 
-As Guinness World Records operates globally, it may be necessary to transfer your information internationally, and in particular, your information may be transferred to and processed in the United States or the United Kingdom. For residents of the European Union: the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union; please be assured that we take all reasonable steps to ensure that your privacy is protected. 
+As Guinness World Records operates globally, it may be necessary to transfer your information internationally, and in particular, your information may be transferred to and processed in the United States or the United Kingdom. For residents of the European Union: the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union; please be assured that we take all reasonable steps to ensure that your privacy is protected.
 
 ## REVIEWING, UPDATING AND DELETING PERSONAL INFORMATION
 
 All users may review their PII at any time. If you would like to review, modify or delete this information, please write to us with your detailed request at:
 
-_UK Address_
-
+UK Address  
 Guinness World Records  
 Attn: Online Privacy Administrator  
 184-192 Drummond Street  
@@ -127,8 +126,7 @@ United Kingdom
 
 or
 
- _US Address_
-
+US Address  
 Guinness World Records  
 Attn: Online Privacy Administrator  
 45 W. 45th Street  
@@ -140,8 +138,7 @@ USA
 
 If you do not want us to disclose any of your PII to third parties who may use such information for direct marketing purposes, then please write to us with your detailed request at:
 
-_UK Address_
-
+UK Address  
 Guinness World Records  
 Attn: Online Privacy Administrator  
 184-192 Drummond Street  
@@ -151,8 +148,7 @@ United Kingdom
 
 or
 
- _US Address_
-
+US Address  
 Guinness World Records  
 Attn: Online Privacy Administrator  
 45 W. 45th Street  
@@ -169,7 +165,7 @@ If you're using Internet Explorer 6.0 or 7.0:
   3. Click the Privacy tab
   4. Click on Custom Level
   5. Click on the 'Advanced' button
-  6. Check the 'override automatic cookie handing' box and select Accept, Block or Prompt for action as appropriate. 
+  6. Check the 'override automatic cookie handing' box and select Accept, Block or Prompt for action as appropriate.
 
 
 
@@ -257,4 +253,4 @@ If you're using Netscape Communicator 4.0:
 
 Just click on a cookie to open it. You'll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie.
 
-[Download Parental Consent Form](https://web.archive.org/web/20120618030802id_/http%3A//corporate.guinnessworldrecords.com/gwr_parental_consent_form.doc)
+[Download Parental Consent Form](https://web.archive.org/gwr_parental_consent_form.doc)
