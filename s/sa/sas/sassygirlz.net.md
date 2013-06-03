@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sassygirlz.net privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125115104id_/http%3A//www.sassygirlz.net/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sassygirlz.net privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603225113id_/http%3A//www.sassygirlz.net/disclosure) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policy
 
@@ -20,7 +20,7 @@ This blog does not contain any content which might present a conflict of interes
 
 To get your own policy, go to http://www.disclosurepolicy.org
 
-**Privacy Policy**
+### **Privacy Policy**
 
 **What information do we collect?**
 
@@ -32,13 +32,13 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways:
 
-; To process transactions
+To process transactions
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-; To administer a contest, promotion, survey or other site feature
+To administer a contest, promotion, survey or other site feature
 
-; To send periodic emails
+To send periodic emails
 
 > The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
@@ -58,7 +58,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **California Online Privacy Protection Act Compliance**
 
@@ -76,7 +76,7 @@ By using our site, you consent to our [online privacy policy](http://www.freepr
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 9/15/2012
+_  This policy was last modified on 5/08/2013_
 
 **Contacting Us**
 
