@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homedecoratorsoutlet.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010132910id_/http%3A//www.homedecorators.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedecoratorsoutlet.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603180007id_/http%3A//www.homedecorators.com/Privacy) for the most accurate reproduction.*
 
 # HomeDecorators.com
 
@@ -9,10 +9,10 @@ We appreciate the trust you place in Home Decorators Collection, and we are comm
 We always welcome your questions and feedback. For privacy-related issues, please contact us at:
 
 Home Decorators Collection  
-8920 Pershall Road   
-Hazelwood, MO 63042   
-Phone: 1-877-537-8539 (toll-free)  
-Fax: 1-314-521-5780   
+3074 Chastain Meadows Parkway   
+Marietta, GA 30066   
+Phone: 1-800-245-2217 (toll-free)  
+Fax: 1-800-537-1467   
 [Email us](http://www.homedecorators.com/emailUs.php)
 
 **Information We Collect**  
