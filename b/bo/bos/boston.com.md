@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108134343id_/http%3A//www.boston.com/help/privacy_policy/%3Fp1%3DFoot_ContactBostonCom_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603200223id_/http%3A//www.boston.com/help/privacy_policy/%3Fp1%3DFoot_ContactBostonCom_PrivacyPolicy) for the most accurate reproduction.*
 
 # Boston.com's Privacy Policy - Boston.com
 
-This policy was last updated on **June 20, 2012**.
+This policy was last updated on **December 31, 2012**.
 
 This policy discloses the privacy practices for Boston.com, BostonGlobe.com, The Boston Globe newspaper, the Boston Globe Services Web site, Globe Reader, and our mobile messaging services and smartphone applications (collectively, the "Services"). For the purposes of this Privacy Policy, unless otherwise noted, all references to "The Boston Globe" include Boston.com, BostonGlobe.com, The Boston Globe newspaper, and Boston Globe Services.
 
-[](http://www.truste.org/ivalidate.php?url=www.boston.com&sealid=101) The Boston Globe has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [feedback@boston.com](mailto:feedback@boston.com). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+[](https://privacy.truste.com/privacy-seal/The-New-York-Times/validation?rid=0535a645-62f9-4350-be83-d820d8f37ad0 "TRUSTe online privacy certification")
+
+The Boston Globe has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [feedback@boston.com](mailto:feedback@boston.com). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 The TRUSTe program covers only information that is collected through the aforementioned Web sites, and does not cover information that may be collected through software downloaded from this site. For example, TRUSTe has not certified the disclosures in this Privacy Policy that relate to the Globe Reader software.
 
@@ -188,4 +190,4 @@ By Mail: Boston.com and BostonGlobe.com, 135 Morrissey Blvd., Boston, MA 02125, 
 
 **CHANGES TO THIS POLICY**
 
-This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail. 
+This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this site thirty (30) days prior to taking effect and registered users will be notified via e-mail. 
