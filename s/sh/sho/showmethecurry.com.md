@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showmethecurry.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018022115id_/http%3A//showmethecurry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmethecurry.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603075359id_/http%3A//showmethecurry.com/privacy-policy) for the most accurate reproduction.*
 
 # Indian Recipes, Cooking Videos, Healthy Recipes, Vegetarian Recipes, North and South Indian Recipies - ShowMeTheCurry.com
 
@@ -21,6 +21,7 @@ Recipe Search
   
 
 
+[Prestige Pressure Cooker Sale](http://showmethecurry.com/shop/?brand=Prestige&name=Pressure-Cookers&code=289825) 
 
 
 
