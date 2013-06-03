@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bell.ca privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229075828id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bell.ca privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603065737id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy) for the most accurate reproduction.*
 
 # How does Bell respect my privacy? : Privacy at Bell
 
@@ -44,7 +44,7 @@ K1A 1H3
 1 800 282-1376  
 [www.priv.gc.ca](http://www.priv.gc.ca/)
 
-Last Update:17/09/2012
+Last Update:22/04/2013
 
   
 
@@ -86,7 +86,7 @@ While the information may be subject to the legal jurisdictions of these countri
 
 The use of customer information in this way is governed by the Bell Privacy Policy.
 
-Last Update:17/09/2012
+Last Update:22/04/2013
 
   
 
@@ -131,7 +131,7 @@ It' s important to note that in certain circumstances, we may collect, use or di
 
 
 
-Last Update:17/09/2012
+Last Update:22/04/2013
 
   
 
@@ -148,7 +148,7 @@ The kinds of things we might ask you to confirm could include your account numbe
 
 We therefore ask for your patience and understanding when you are asked to confirm or provide such information as this process has been established to protect your personal account information.
 
-Last Update:17/09/2012
+Last Update:22/04/2013
 
   
 
@@ -170,7 +170,7 @@ Some of the things that will trigger monitoring of your use include:
 
 
 
-You can [view your Bell Internet Service Agreement online](http://internet.bell.ca/index.cfm?method=content.view&category_id=550&content_id=929).
+You can [view your Bell Internet Service Agreement online](http://bell.ca/Legal_residential_services/Bell_Internet_and_Value_Added_Services.tab).
 
 **What is Deep Packet Inspection (DPI) and what does it have to do with the Internet?**
 
@@ -178,7 +178,7 @@ Deep packet inspection or DPI is a technology used in the industry to examine th
 
 When Bell uses DPI as part of its traffic management measures during peak periods of Internet usage, we do not examine the actual content of traffic and we only collect, for a limited time, your IP address. For example, we do not know the content of your communications nor your search activities. However, for traffic management to work properly, we use DPI technology to assess traffic data along with each IP address to determine what type of traffic it is so that we can treat it accordingly (e.g. if it is P2P file sharing traffic, we may slow it down during times of peak Internet usage to support other activities like Web browsing and video streaming). Once the traffic has been sorted by type for traffic management purposes, it is not retained as part of the usage pattern of any IP address.
 
-Find out more about [Bell's Network Management Policy](http://internet.bell.ca/index.cfm?method=content.view&content_id=12119).
+Find out more about [Bell's Network Management Policy](http://support.bell.ca/Internet/Usage/Network-management).
 
 **What are cookies and does Bell use them?**
 
@@ -190,7 +190,7 @@ Most websites use cookies and most browsers will accept them. You can change the
 
 You don’t need cookies to visit Bell sites. But if you refuse to accept them, some of the site features might not work, for example, the personalization options.
 
-For more information on how to manage your cookies please visit Bell's [Internet Support pages](http://internet.bell.ca/index.cfm?method=content.view&content_id=6857).
+For more information on how to manage your cookies please visit Bell's [Internet Support pages](http://support.bell.ca/internet).
 
 **Why does Bell record customer calls?**
 
@@ -198,7 +198,7 @@ Because Bell is committed to continually improving its customer contact experien
 
 The Bell companies may also record outbound calls placed to our customers for similar purposes.
 
-Last Update:17/09/2012
+Last Update:22/04/2013
 
   
 
@@ -209,9 +209,9 @@ We will request permission from a parent or legal guardian before collecting, us
 
 For more information regarding marketing to children, please visit the [Canadian Marketing Association’s Special Considerations in Marketing to Children guidelines](http://www.the-cma.org/?WCE=C=47|K=225849#11), part of the CMA’s Code of Ethics and Standards of Practice.
 
-For more information about protecting children online, bell.ca offers some [information about parental controls and safe surfing](http://internet.bell.ca/index.cfm?language=en&method=content.view&category_id=583&content_id=7299) in our Internet support pages.
+For more information about protecting children online, bell.ca offers some [information about parental controls and safe surfing](http://support.bell.ca/Internet/Security/How-can-I-protect-my-kids-on-the-Internet) in our Internet support pages.
 
-Last Update:17/09/2012
+Last Update:22/04/2013
 
   
 
@@ -220,9 +220,9 @@ Last Update:17/09/2012
 
 **What privacy enhancing services does Bell offer?**
 
-[Bell offers a number of services](http://bell.ca/Home_phone/Calling_features/Control_your_calls.tab), such as Call Display, Call Privacy and Call Blocking, to help balance the privacy interests of customers and the people they call. You can also find information about these services in the introductory pages of the telephone directory, by calling **310-BELL** (3255) or by visiting a Bell store.
+[Bell offers a number of services](http://bell.ca/Home_phone/Calling_features/Control_your_calls.tab), such as Call Display, Call Privacy and Call Blocking, to help balance the privacy interests of customers and the people they call. You can also find information about these services in the introductory pages of the telephone directory, by calling **310-BELL** (2355) or by visiting a Bell store.
 
-Last Update:17/09/2012
+Last Update:22/04/2013
 
   
 
@@ -319,7 +319,7 @@ ADADs used to make calls for purposes other than telemarketing must:
 
 These conditions do not apply to ADAD calls made for public-service reasons, including calls for emergency and administrative purposes by police and fire departments, schools, hospitals, or similar organizations.
 
-Last Update:17/09/2012
+Last Update:22/04/2013
 
   
 
@@ -352,7 +352,7 @@ If you get a suspicious call:
 
 **Email fraud or phishing**
 
-This refers to the use of deceptive emails and fake websites using the brand name of a legitimate business or government agency in order to obtain the personal information of web users for purposes of identity theft and other types of fraud. For more information, go to the [Bell Internet support site. ](http://internet.bell.ca/index.cfm?method=content.view&category_id=575&content_id=6936)
+This refers to the use of deceptive emails and fake websites using the brand name of a legitimate business or government agency in order to obtain the personal information of web users for purposes of identity theft and other types of fraud. For more information, go to the [Bell Internet support site.](http://support.bell.ca/internet)
 
 **Identity theft**
 
@@ -386,7 +386,7 @@ The following are some important tips to help protect you from fraudulent activi
   * Very short offer-expiry dates are often a sign of a scam. Short expiries reduce the risk of the fraudster being traced by authorities. 
   * Buy a shredder so you can destroy personal documents that you no longer need. You can be targeted for identity theft by fraud artists who find credit-card bills, etc., in your recycling. 
   * Be cautious about posting personal information on public websites as those details can be used by fraudsters to convince you that they represent Bell or other companies. 
-  * Learn about [“phishing”](http://internet.bell.ca/index.cfm?method=content.view&category_id=572&content_id=6914) and Internet fraud and take steps to protect yourself. 
+  * Learn about [“phishing”](http://support.bell.ca/internet/security/how-do-i-use-email-safely?step=4) and Internet fraud and take steps to protect yourself. 
 
 
 
@@ -398,7 +398,7 @@ Otherwise, if you suspect you’ve been a target of any type of phone or Interne
 
 To find out more about fraud prevention, go to [www.competitionbureau.gc.ca/fraud](http://www.competitionbureau.gc.ca/fraud).
 
-Last Update:17/09/2012
+Last Update:22/04/2013
 
   
 
