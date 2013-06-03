@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focusorganic.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118060214id_/http%3A//www.greenster.com/magazine/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focusorganic.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604004142id_/http%3A//www.greenster.com/magazine/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greenster.com
 
