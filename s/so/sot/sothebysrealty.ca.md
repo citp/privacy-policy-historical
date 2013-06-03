@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sothebysrealty.ca privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510051113id_/http%3A//www.sothebysrealty.ca/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sothebysrealty.ca privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603154023id_/http%3A//sothebysrealty.ca/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-**SOTHEBY’S INTERNATIONAL REALTY CANADA PRIVACY POLICY**
+# Luxury Real Estate, Homes & Condos for Sale | Sotheby's International Realty Canada
 
 This Privacy Policy contains ten principles that are observed by Sotheby’s International Realty Canada regarding the collection, use and disclosure of personal information. 
 
