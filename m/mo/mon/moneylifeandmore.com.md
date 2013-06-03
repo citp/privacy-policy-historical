@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneylifeandmore.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226041527id_/http%3A//www.moneylifeandmore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneylifeandmore.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603101645id_/http%3A//www.moneylifeandmore.com/privacy) for the most accurate reproduction.*
 
 # Privacy — Money Life and More
 
@@ -23,4 +23,4 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20121226041527id_/http%3A//www.moneylifeandmore.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20130603101645id_/http://www.moneylifeandmore.com/privacy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
