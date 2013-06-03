@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wahadventures.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105143247id_/http%3A//www.wahadventures.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wahadventures.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603034823id_/http%3A//www.wahadventures.com/disclosure) for the most accurate reproduction.*
 
 # Privacy - Work at Home Adventures
 
@@ -47,11 +47,11 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://wahadventures.com/disclosure>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://wahadventures.com/disclosure](https://wahadventures.com/disclosure)
 
 **Your Consent**
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [online privacy policy](https://www.freeprivacypolicy.com/).
 
 **Changes to our Privacy Policy**
 
