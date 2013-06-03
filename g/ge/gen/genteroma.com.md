@@ -1,0 +1,80 @@
+> *The following text is extracted and transformed from the genteroma.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604015947id_/http%3A//www.genteroma.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Gente Roma
+
+LA NOSTRA PRIVACY POLICY
+
+In questa pagina si descrivono le modalità di gestione del sito in riferimento al trattamento dei dati personali degli utenti che lo consultano. Si tratta di un’informativa che è resa anche ai sensi dell’art. 13 del d.lg. n. 196/2003 – Codice in materia di protezione dei dati personali a coloro che interagiscono con i servizi web di VAIR s.p.a. per la protezione dei dati personali, accessibili per via telematica a partire dall’indirizzo: www.genteroma.com, corrispondente alla pagina iniziale del sito ufficiale della VAIR s.p.a.  
+L’informativa è resa solo per il sito di VAIR s.p.a. e non anche per altri siti web eventualmente consultati dall’utente tramite link. L’informativa si ispira anche alla Raccomandazione n. 2/2001 che le autorità europee per la protezione dei dati personali, riunite nel Gruppo istituito dall’art. 29 della direttiva n. 95/46/CE, hanno adottato il 17 maggio 2001 per individuare alcuni requisiti minimi per la raccolta di dati personali on-line, e, in particolare, le modalità, i tempi e la natura delle informazioni che i titolari del trattamento devono fornire agli utenti quando questi si collegano a pagine web, indipendentemente dagli scopi del collegamento. La Raccomandazione e una descrizione di sintesi delle sue finalità sono riportate in altre pagine di questo sito.
+
+IL “TITOLARE” DEL TRATTAMENTO  
+A seguito della consultazione di questo sito possono essere trattati dati relativi a persone identificate o identificabili. Il “titolare” del loro trattamento è la VAIR s.p.a., P.IVA 05809951006 che ha sede in Roma (Italia), Via Properzio n. 4, 00187.
+
+RESPONSABILE DEL TRATTAMENTO  
+La società VAIR s.p.a. è stata designata responsabile del trattamento ai sensi dell’articolo 29 del Codice in materia di protezione dei dati personali, in quanto incaricata della manutenzione della parte tecnologica del sito.
+
+LUOGO DI TRATTAMENTO DEI DATI  
+I trattamenti connessi ai servizi web di questo sito hanno luogo presso la predetta sede del Garante e sono curati solo da personale tecnico dell’Ufficio incaricato del trattamento. In caso di necessità, i dati connessi al servizio newsletter possono essere trattati dal personale della società che cura la manutenzione della parte tecnologica del sito, VAIR s.p.a. (responsabile del trattamento ai sensi dell’articolo 29 del Codice in materia di protezione dei dati personali), presso la sede della società medesima.
+
+TIPI DI DATI TRATTATI  
+Dati di navigazione – I sistemi informatici e le procedure software preposte al funzionamento di questo sito web acquisiscono, nel corso del loro normale esercizio, alcuni dati personali la cui trasmissione è implicita nell’uso dei protocolli di comunicazione di Internet. Si tratta di informazioni che non sono raccolte per essere associate a interessati identificati, ma che per loro stessa natura potrebbero, attraverso elaborazioni ed associazioni con dati detenuti da terzi, permettere di identificare gli utenti.  
+In questa categoria di dati rientrano gli indirizzi IP o i nomi a dominio dei computer utilizzati dagli utenti che si connettono al sito, gli indirizzi in notazione URI (Uniform Resource Identifier) delle risorse richieste, l’orario della richiesta, il metodo utilizzato nel sottoporre la richiesta al server, la dimensione del file ottenuto in risposta, il codice numerico indicante lo stato della risposta data dal server (buon fine, errore, ecc.) ed altri parametri relativi al sistema operativo e all’ambiente informatico dell’utente.  
+Questi dati vengono utilizzati al solo fine di ricavare informazioni statistiche anonime sull’uso del sito e per controllarne il corretto funzionamento e vengono cancellati immediatamente dopo l’elaborazione. I dati potrebbero essere utilizzati per l’accertamento di responsabilità in caso di ipotetici reati informatici ai danni del sito: salva questa eventualità, allo stato i dati sui contatti web non persistono per più di sette giorni.
+
+Dati forniti volontariamente dall’utente – L’invio facoltativo, esplicito e volontario di posta elettronica agli indirizzi indicati su questo sito comporta la successiva acquisizione dell’indirizzo del mittente, necessario per rispondere alle richieste, nonché degli eventuali altri dati personali inseriti nella missiva. Specifiche informative di sintesi verranno progressivamente riportate o visualizzate nelle pagine del sito predisposte per particolari servizi a richiesta.
+
+Cookies – Nessun dato personale degli utenti viene in proposito acquisito dal sito. Non viene fatto uso di cookies per la trasmissione di informazioni di carattere personale, né vengono utilizzati c.d. cookies persistenti di alcun tipo, ovvero sistemi per il tracciamento degli utenti.  
+L’uso di c.d. cookies di sessione (che non vengono memorizzati in modo persistente sul computer dell’utente e svaniscono con la chiusura del browser) è strettamente limitato alla trasmissione di identificativi di sessione (costituiti da numeri casuali generati dal server) necessari per consentire l’esplorazione sicura ed efficiente del sito.  
+I c.d. cookies di sessione utilizzati in questo sito evitano il ricorso ad altre tecniche informatiche potenzialmente pregiudizievoli per la riservatezza della navigazione degli utenti e non consentono l’acquisizione di dati personali identificativi dell’utente.
+
+FACOLTATIVITA’ DEL CONFERIMENTO DEI DATI  
+A parte quanto specificato per i dati di navigazione, l’utente è libero di fornire i dati personali riportati nei moduli di richiesta a VAIR s.p.a. o comunque indicati in contatti con l’azienda per sollecitare l’invio della newsletter, di materiale informativo o di altre comunicazioni. Il loro mancato conferimento può comportare l’impossibilità di ottenere quanto richiesto.  
+Per completezza va ricordato che in alcuni casi (non oggetto dell’ordinaria gestione di questo sito) la VAIR s.p.a. può richiedere notizie e informazioni ai sensi dell’articolo 157 del Codice in materia di protezione dei dati personali, ai fini del controllo sul trattamento dei dati personali. In questi casi la risposta è obbligatoria a pena di sanzione amministrativa.
+
+MODALITA’ DEL TRATTAMENTO  
+I dati personali sono trattati con strumenti automatizzati per il tempo strettamente necessario a conseguire gli scopi per cui sono stati raccolti. Specifiche misure di sicurezza sono osservate per prevenire la perdita dei dati, usi illeciti o non corretti ed accessi non autorizzati.
+
+DIRITTI DEGLI INTERESSATI  
+I soggetti cui si riferiscono i dati personali hanno il diritto in qualunque momento di ottenere la conferma dell’esistenza o meno dei medesimi dati e di conoscerne il contenuto e l’origine, verificarne l’esattezza o chiederne l’integrazione o l’aggiornamento, oppure la rettificazione (articolo 7 del Codice in materia di protezione dei dati personali). Ai sensi del medesimo articolo si ha il diritto di chiedere la cancellazione, la trasformazione in forma anonima o il blocco dei dati trattati in violazione di legge, nonché di opporsi in ogni caso, per motivi legittimi, al loro trattamento.  
+Le richieste vanno rivolte: via e-mail, all’indirizzo: posta@genteroma.it, via fax: 06 68136635, oppure via posta, a VAIR s.p.a., che ha sede in Roma (Italia), Via Properzio, cap 00187.
+
+P3P  
+La presente informativa sulla privacy è consultabile in forma automatica dai più recenti browser che implementano lo standard P3P (“Platform for Privacy Preferences Project”) proposto dal World Wide Web Consortium (www.w3c.org). Ogni sforzo verrà fatto per rendere il più possibile interoperabili le funzionalità di questo sito con i meccanismi di controllo automatico della privacy disponibili in alcuni prodotti utilizzati dagli utenti. Considerando che lo stato di perfezionamento dei meccanismi automatici di controllo non li rende attualmente esenti da errori e disfunzioni, si precisa che il presente documento, pubblicato all’indirizzo http://www.genteroma.com/privacy-policy/ costituisce la “Privacy Policy” di questo sito che sarà soggetta ad aggiornamenti.
+
+OUR PRIVACY POLICY
+
+This page describes management of our web site as regards processing the personal data of users that visit us. This information is provided – also in pursuance of Section 13 of Legislative Decree no. 196/2003 – to any entity having to do with the web-based services made available by VAIR s.p.a. via electronic networks at the address www.genteroma.com, which corresponds to the home page of our official web site.  
+Information provided only applies to our web site and does not concern any web sites that may be visited by users via external links. Information provided is also based on the guidelines contained in Recommendation no. 2/2001, which was adopted on 17 May 2001 by the European data protection authorities within the Working Party set up under Article 29 of European Directive 95/46/EC in order to lay down minimum requirements for the collection of personal data online – with special regard to conditions, timing and contents of information to be provided by data controllers to users visiting web pages for whatever purpose. The above Recommendation as well as a summary of its purposes can be found in other sections of this site.
+
+DATA CONTROLLER  
+Visiting this site may result into the processing of data concerning identified or identifiable persons. The data controller is the VAIR s.p.a. P.IVA 05809951006, with registered office in Rome (Italy), Via Properzio, 4 cap 00193.
+
+RESPONSIBLE FOR DATA PROCESSING  
+VAIR S.p.A., as long as responsible for maintenance of the technological part of the website, has been designed as in charge for data processing under Article 29 of the code for protection of personal data.
+
+DATA PROCESSING PLACE  
+Processing operations related to the web-based services that are made available via this website are carried out at the aforementioned office of VAIR s.p.a. exclusively by technical staff in charge of said processing, or else by persons tasked with such maintenance activities as may be necessary from time to time. No data resulting from web-based services is either communicated or disseminated.  
+Any personal data that is provided by users requesting to receive informative materials such as bulletins, CD-ROMs, newsletters, annual reports, answers to questions, decisions and sundry provisions, etc. is only used to provide the service and/or discharge the tasks requested, and is disclosed to third parties only if necessary for the said purposes.
+
+CATEGORIES OF PROCESSING DATA  
+Navigation Data – The information systems and software procedures relied upon to this web site operations acquire personal data as part of their standard functioning; the transmission of such data is an inherent feature of Internet communication protocols. Such information is not collected in order to relate it to identified data subjects, however it might allow user identification per se after being processed and matched with data held by third parties. This data category includes IP addresses and/or the domain names of the computers used by any user connecting with this web site, the URI (Uniform Resource Identifier) addresses of the requested resources, the time of such requests, the method used for submitting a given request to the server, returned file size, a numerical code relating to server response status (successfully performed, error, etc.), and other parameters related to the user’s operating system and computer environment.  
+These data are only used to extract anonymous statistical information on the use of website and to check its functioning; they are erased immediately after being processed. The data might be used to establish liability in case computer crimes are committed against the website; except for this circumstance, any data on web contacts is currently retained for no longer than seven days.
+
+Data Provided Voluntarily by Users – Sending e-mail messages to the addresses mentioned on this website, which is done on the basis of a freely chosen, explicit, and voluntary option, entails acquisition of the sender’s address, which is necessary in order to reply to any request, as well as of such additional personal data as is contained in the message(s). Specific summary information notices will be shown and/or displayed on the pages used to provide services on demand.
+
+Cookies – No personal data concerning users is acquired by the website in this regard. No cookies are used to transmit personal information, nor are so-called persistent cookies or user tracking systems implemented.  
+Use of the so-called session cookies – which are not stored permanently on the user’s computer and disappear upon closing the browser – is exclusively limited to the transmission of session ID’s – consisting of server-generated casual numbers – as necessary to allow secure, effective navigation. The so-called session cookies used by this website make it unnecessary to implement other computer techniques that are potentially detrimental to the confidentiality of user navigation, whilst they do not allow acquiring the user’s personal identification data.
+
+OPTIONAL DATA PROVISION  
+Subject to the specifications made with regard to navigation data, users are free to provide their personal data either filling up the application forms submitted to the Office, or by reporting them when contacting the Office to request delivery of informative materials and other communications. Failure to provide such data may entail the failure to provide what requested.  
+For completeness’ sake, it should be pointed out that in some cases – which are not the subject of the standard management of this website – VAIR s.p.a may request information pursuant to Section 157(1) of Legislative Decree no. 196/2003 aiming to supervise the processing of personal data. In these cases it is mandatory to comply at the risk of administrative penalties.
+
+PROCESSING ARRANGEMENT  
+Personal data is processed with automated means for no longer than necessary to achieve the purposes for which they have been collected. Specific security measures are implemented to prevent the data from being lost, used unlawfully and/or inappropriately, and accessed without authorisation.
+
+DATA SUBJECTS’ RIGHT  
+Data subjects are entitled at any time to obtain confirmation of the existence of personal data about themselves and to be informed of their contents and origin, to verify their accuracy, or else to request that such data be supplemented, updated or rectified (Section 7 of Legislative Decree no. 196/2003). The above Section also provides the right to request erasure, anonymisation or blockage of any data that is processed in breach of the law as well as to oppose in all cases, on legitimate grounds, to processing the data.  
+All requests should be emailed to posta@genteroma.it, faxed to +39 06 68136635, or sent to VAIR s.p.a. Via Properzio, 4 – 00193 Rome – Italy.
+
+P3P  
+This privacy notice can be viewed in automatic format by means of the most recent browsers implementing the P3P (Platform for Privacy Preferences Project) standard as proposed by the World Wide Web Consortium (www.w3c.org). All efforts will be made to ensure the highest interoperability between the functions of this site and the automatic privacy verification mechanisms that are made available by some software products applied by users. Bearing in mind that the current development status of automatic verification mechanisms is such as not to allow ruling out errors and malfunctioning, it is hereby specified that this document as posted at http://www.genteroma.com/privacy-policy/ is the “Privacy Policy” of this site and will be updated as necessary.
