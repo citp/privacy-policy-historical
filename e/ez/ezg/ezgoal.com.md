@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the ezgoal.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208091337id_/http%3A//www.ezgoal.com/house/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezgoal.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603101429id_/http%3A//www.ezgoal.com/house/privacy.asp) for the most accurate reproduction.*
 
-# EZ Goal Computer Software download free and software reviews
+# EZ Goal Software, web design tools and the internet resources
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the EZGoal Network. The "EZGoal Network" includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned or operated by IT Netix Corporation and each of its wholly-owned subsidiaries (collectively the "Site") home page (collectively hereafter "EZGoal"). By accessing the EZGoal Network, you are consenting to the information collection and use practices described in this Privacy Policy. 
-
-We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows: 
-
+  
+We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the EZGoal Network. The "EZGoal Network" includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned or operated by IT Netix Corporation and each of its wholly-owned subsidiaries (collectively the "Site") home page (collectively hereafter "EZGoal"). By accessing the EZGoal Network, you are consenting to the information collection and use practices described in this Privacy Policy.   
+We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows:   
 **What information are you collecting and how are you collecting it?**
 
 **Do you collect IP addresses?**  
 Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the EZGoal Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our Sites. We use this information to examine our traffic in aggregate, and to investigate misuse of the EZGoal Network, its users, or to cooperate with law enforcement. We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors. 
 
-  
 What are cookies?   
 From time to time, EZGoal or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of EZGoal's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our Site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
 
@@ -36,8 +34,7 @@ When you use co-branded services, or those provided by a third party, within the
 We may from time to time send e-mail announcing new products and services. If you choose to supply your postal address in an online form, you may receive postal mailings from EZGoal or third party companies. 
 
 **Will you disclose the information you collect to outside third parties?**  
-EZGoal will disclose personal information and/or an IP address: 
-
+EZGoal will disclose personal information and/or an IP address:   
 1) To contact you regarding other products and services which may be of interest to you (including those we may offer jointly with other companies). At any time, however, you may opt out of such contact;   
 2) When required by law or in the good-faith belief that such action is necessary to:   
    a) Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on EZGoal;   
@@ -47,7 +44,6 @@ EZGoal will disclose personal information and/or an IP address:
 3) To process and fulfill your order or notify you of order status;   
 4) When we have your consent to share the information;   
 5) When you use co-branded services within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
-
 
 We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy. 
 
@@ -68,6 +64,5 @@ Ultimately, you are solely responsible for maintaining the secrecy of your perso
 We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may sell a company, assets or Web sites or one or more of the companies in our corporate family may merge with, or be acquired by, another company. In connection with the foregoing, we may transfer some or all of your information in order that the service being provided to you may continue or for other business purposes. 
 
 **Your Consent To This Agreement**  
-By using the EZGoal Network, you consent to the collection and use of information by EZGoal as specified above. We reserve the right to modify this Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
-
-(Revised March 31, 2009) _Reproduction in whole or in part in any form or medium without express written permission of IT Netix, Inc is prohibited._
+By using the EZGoal Network, you consent to the collection and use of information by EZGoal as specified above. We reserve the right to modify this Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.   
+(Revised March 31, 2009) 
