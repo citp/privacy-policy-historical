@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepthi.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128092207id_/http%3A//www.cricketcircle.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepthi.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603125355id_/http%3A//www.cricketcircle.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Cricket Circle Network Privacy Policy
 
