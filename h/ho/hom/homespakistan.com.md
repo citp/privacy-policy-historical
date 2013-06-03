@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homespakistan.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113122926id_/http%3A//www.homespakistan.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homespakistan.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603082905id_/http%3A//www.homespakistan.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # HOMES PAKISTAN :: Privacy Policy
 
