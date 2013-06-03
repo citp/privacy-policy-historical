@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formidablepro.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213062847id_/http%3A//formidablepro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formidablepro.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603192052id_/http%3A//formidablepro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ If visitors have any questions about the security on Formidablepro.com, feel fre
 
 ### Correcting, Updating, Deleting & Deactivating Personal Information
 
-If a visitor’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a visitor no longer desires our service, we provide a way to correct, update or delete/deactivate personally identifiable information. This can usually be done at the ‘Your Account’ page or by contacting our Customer Service.
+If a visitor’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a visitor no longer desires our service, we provide a way to correct, update or delete/deactivate personally identifiable information. This can usually be done at the ‘Your Account’ page or by contacting our Customer Service. 
 
 ## Notification of Changes
 
@@ -59,7 +59,7 @@ If, however, we are going to use visitors’ personally identifiable information
 
 If visitors have any questions or suggestions regarding our privacy policy, please contact us at:
 
-[Customer Service Form](https://web.archive.org/customer-service)  
+[Customer Service Form](https://web.archive.org/new-topic/)  
 Phone: (801) 610-9460
 
 Strategy11, LLC  
