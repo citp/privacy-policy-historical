@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthingspondered.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214062229id_/http%3A//www.allthingspondered.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthingspondered.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603025815id_/http%3A//www.allthingspondered.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | All Things Pondered!
 
@@ -79,3 +79,6 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 Your consent
 
 By using our site, you consent to our privacy policy.
+
+  
+
