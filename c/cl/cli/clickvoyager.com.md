@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickvoyager.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221105052id_/http%3A//www.clickvoyager.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickvoyager.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603124203id_/http%3A//clickvoyager.com/privacy.php) for the most accurate reproduction.*
 
 # Click Voyager - Your Quest For Traffic Begins HERE!
 
