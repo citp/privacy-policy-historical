@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copyright.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124233910id_/http%3A//www.copyright.com/content/cc3/en/tools/footer/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copyright.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603142520id_/http%3A//www.copyright.com/content/cc3/en/tools/footer/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -75,9 +75,10 @@ Email: [dpo@copyright.com](mailto:dpo@copyright.com?subject=Privacy%20Policy)
 
 **OUR COMMITMENT TO YOUR PRIVACY**
 
-CCC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers CCC's primary Web site, [_www.copyright.com_](https://web.archive.org/.html), and various marketing Web sites created and maintained by CCC. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.
+CCC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the web site [insert URLs here] and does not cover information that may be collected through behind the login and mobile app.  
 
-If you have any questions or concerns regarding this statement, you should first e-mail us at [_info@copyright.com_](mailto:info@copyright.com?subject=Privacy%20Policy). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [_http://www.truste.org/consumers/watchdog_complaint.php_](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns.
+
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@copyright.com](mailto:info@copyright.com).  If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 **CHANGES TO THIS PRIVACY POLICY**
 
