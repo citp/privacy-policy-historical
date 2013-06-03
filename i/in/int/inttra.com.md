@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the inttra.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201003450id_/http%3A//www.inttra.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inttra.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603112007id_/http%3A//www.inttra.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Legal - Privacy Policy
 
   * [Home](https://web.archive.org/)
-  * [Legal - Privacy Policy](https://web.archive.org/web/20121201003450id_/http%3A//www.inttra.com/legal/legal/privacy-policy)
+  * [Legal - Privacy Policy](https://web.archive.org/web/20130603112007id_/http%3A//www.inttra.com/legal/legal/privacy-policy)
 
 
 
