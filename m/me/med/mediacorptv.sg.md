@@ -1,33 +1,71 @@
-> *The following text is extracted and transformed from the mediacorptv.sg privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324122700id_/http%3A//www.mediacorp.sg/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediacorptv.sg privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603044117id_/http%3A//entertainment.xin.msn.com/en/celebrity/features/article.aspx%3Fcp-documentid%3D252387354) for the most accurate reproduction.*
 
-# MediaCorp Pte Ltd
+# Privacy Policy - 1 - Celebrity Gossip on xinmsn Entertainment
 
-**
+MediaCorp TV (MCTV) respects your privacy. Please read the following to learn more about our privacy policy.
 
-## Privacy Policy Statement
+  **What this privacy policy covers**
 
-**
+•This Privacy Policy covers our treatment of personally identifiable information that we may collect when you use our services.
 
-This Privacy Policy Statement sets forth the privacy policy pertaining to this Site maintained by MediaCorp Pte Ltd - **www.mediacorp.sg** , and all sites of the MediaCorp Pte Ltd which are linked to this Site (collectively, the "Sites"). By using any Site, you are agreeing to the terms set forth in this Privacy Policy Statement. 
+•This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage.
 
-For purposes of this Privacy Policy Statement, "Personal Information" means any information by which you can be personally identified, and includes your name, your address, your telephone number, your e-mail address and the like. Most Sites do not require that you submit Personal Information to us. However, some Sites may request Personal Information in order to help us serve you more effectively. MediaCorp Pte Ltd collects Personal Information only when you voluntarily submit such Personal Information to us, such as when placing a product order through a Site, when entering a contest, when posting a message to a forum, and so on. 
+ **What is the information used for?**
 
-For each visitor to the Sites, our web servers automatically recognize only information regarding the visitor's domain name (or that of the visitor's access provider) and e-mail address. Regardless of the purpose for which it is submitted, it is MediaCorp Pte Ltd's policy to maintain all Personal Information as confidential, and to use such Personal Information only for the following purposes: 
+•To provide goods and/or services whether by us or by our designated representatives and/or business partners to you or to parties designated by you and any and all matters ancillary thereto;
 
-  * for the specific purpose for which it was volunteered (for example, to complete a product purchase, to enter a contest, to post a message to one of our forums, etc.; 
-  * to improve the content, appearance and utility of the Sites; 
-  * to track our visitors' use of the Sites for internal market research; and 
-  * to notify our visitors of updates to the Sites. 
+•To verify and process payment when you subscribe to, purchase and/or obtain goods and services from our sites;
 
+•For verification and record of your personal particulars including comparing it with information from other sources and using the information to communicate with you;
 
+•To conduct market research and analysis, including surveys and polls; and
 
-It is MediaCorp Pte Ltd’s policy to keep Personal Information only for so long as needed for such purposes. At any time, you may obtain a summary of the Personal Information on record with Media Corporation of Singaporewhich has been collected about you via this Site. Except for Personal Information we need to complete your purchase of products, you may request at any time that MediaCorp Pte Ltd dispose of any or all Personal Information about you. In addition, at any time you may request: 
+•To send you information, promotions and updates including marketing and advertising materials in relation to our goods and services and those of third party organizations selected by us.
 
-  1. that MediaCorp Pte Ltd correct any such Personal Information; or 
-  2. that such Personal Information be removed from 's marketing databases. 
+  **Can you opt out?**
 
+  Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so.
 
+ **Will your personal information be shared with anyone?**
 
-To make any request described above, send an e-mail to [editor@mediacorp.com.sg](mailto:editor@mediacorp.com.sg) or write to MediaCorp Pte Ltd, Caldecott Broadcast Centre, Andrew Road, Singapore 299939. When contacting us, please be sure to provide us with your exact e-mail address, name, address and/or telephone number(s) in order to be sure we handle your request correctly. 
+  We will only share your personal details with a third party when:
 
-MediaCorp Pte Ltd reserves the right, at its discretion, to change, modify, add, or remove portions of this Privacy Policy Statement at any time. You should check this page periodically for changes. Your continued use of this Site following the posting of changes to this Privacy Policy Statement will mean that you accept those changes. 
+•we have your consent to share the information  
+•we need to share your information to provide the product or service you have requested  
+•we need to send the information to companies and entities who work with or on behalf of MCTV to provide a product or service to you (e.g. delivery of products, processing credit card payments, etc.)  
+•we respond to subpoenas, court orders or legal process; or  
+•we find that your actions on our web sites violate our terms and conditions of use or any of our usage guidelines for specific products and services.
+
+ **   
+Can you change and update your particulars?**
+
+  You may update your personal information at any time, including whether you want us to contact you about promotions and new products and services. 
+
+  **How is your data protected?**
+
+  We will take reasonable steps to ensure that personal data are protected from unauthorized access. Access to your account is password protected. Thus, no other party, including employees of MCTV can change the information. However, you must remember to log off from your account and close the browser window after use so that no unauthorized party can have access. You must not, at any time, divulge your password to any third party. All information gathered by MCTV stored in systems that may only be accessed by authorized staff of MCTV using assigned user ids and passwords. In certain areas, MCTVuses industry-standard SSL-encryption to protect data transmissions.
+
+  **Changes to this privacy policy**
+
+  MCTV may amend this policy from time to time. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on our pages. You agree that such posting will constitute sufficient and adequate notice to you of the changes. You agree that your continued use of our products and services after such amendment will constitute your acceptance of and agreement to be bound by the modified policy. For the avoidance of doubt, in the event of any conflict between the terms of (i) this Privacy Policy; and (ii) any applicable terms and conditions of use; any usage guidelines for specific products and services; and/or any terms of any of our websites (the Site "T&Cs"), the Site T&Cs shall prevail over this Privacy Policy.  
+ **   
+Use of cookies**
+
+We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.
+
+  **Release**
+
+This policy is subject to any existing laws of the Republic of Singapore in relation to the protection of information and if required by any lawful authority for any legal purposes such as the enforcement of any laws or to prevent the breaching of any laws, we shall release all such information as is legally required by the requisite and lawful authority in accordance with the directions of the lawful court of the competent jurisdiction.
+
+ **Contact Us**
+
+If you would like to contact us for any reason regarding our privacy practices, please write to us at the following address:
+
+MediaCorp TV  
+Caldecott Broadcast Centre,  
+Andrew Road,  
+Singapore 299939
+
+Email: [](mailto:tellmediacorp@mediacorp.com.sg)[tellmediacorp@mediacorp.com.sg](mailto:tellmediacorp@mediacorp.com.sgcall)
+
+Tel: (65) 6333 3888
