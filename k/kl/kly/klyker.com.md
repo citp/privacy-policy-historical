@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the klyker.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102012616id_/http%3A//klyker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klyker.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603143243id_/http%3A//klyker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | klyker
+# Privacy Policy
 
 At klyker.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit klyker.com, and how we safeguard your information. We never sell your personal information to third parties.
 
