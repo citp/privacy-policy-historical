@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the magemojo.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002211126id_/http%3A//magemojo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magemojo.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603160249id_/http%3A//magemojo.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Magemojo magento ecommerce hosted accounts privacy policy.
+# Magento Hosting by MageMojo
 
-## Privacy Policy
+  
+
+
+### Privacy Policy
 
 Privacy for our customers is extremely important to MageMojo. We take your privacy seriously and we do not share your personal information with any third parties without your permission. Your email addresses are not for sale or trade and are strictly guarded.
 
