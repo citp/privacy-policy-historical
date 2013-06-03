@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snyrangersblog.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231012651id_/http%3A//snyrangersblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snyrangersblog.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603021656id_/http%3A//snyrangersblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SNY Rangers Blog
 
