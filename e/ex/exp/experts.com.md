@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104104323id_/http%3A//www.experts.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603060236id_/http%3A//www.experts.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
-[](https://web.archive.org/Advertise/LeftClicked?id=6)
+[](https://web.archive.org/Resources/Detail?ID=172)
 
-[](https://web.archive.org/Advertise/LeftClicked?id=15)
+[](https://web.archive.org/Resources/Detail?ID=432)
 
-[](https://web.archive.org/Resources/Detail?ID=142)
+J. Gregory Sidak
 
-[](https://web.archive.org/Resources/Detail?ID=327)
+[](https://web.archive.org/Resources/Detail?ID=236)
 
-James C. Arnold, Ph.D.
-
-[](https://web.archive.org/Resources/Detail?ID=430)
-
-Tim Keane, et al.
+Jean Seawright
 
 ### Our Commitment To Privacy
 
