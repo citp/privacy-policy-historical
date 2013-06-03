@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msngamecentre.co.uk privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204041114id_/http%3A//www.msngamecentre.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msngamecentre.co.uk privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604014210id_/http%3A//www.msngamecentre.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MSN UK
 
