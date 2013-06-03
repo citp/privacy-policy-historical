@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winscp.net privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105184103id_/http%3A//winscp.net/eng/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winscp.net privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603054711id_/http%3A//winscp.net/eng/docs/privacy) for the most accurate reproduction.*
 
 # WinSCP Privacy Policy :: WinSCP
 
@@ -22,11 +22,11 @@ Third party vendors, including Google, use cookies to serve ads on our site. Goo
 
 When installing WinSCP, we might collect anonymous information about the number of initiated and finished installations per geo-location and language. No private information is collected. WinSCP installer might offer you to install a third party application along with WinSCP, in such a case we collect also statistics for its installations. Note that before deciding to install any third party application, you are required to agree to its separate and independent Terms of use and Privacy policy. 
 
-Some versions of WinSCP sponsored installation package use [OpenCandy](https://web.archive.org/eng/docs/opencandy "opencandy") advertising module (but only in the sponsored installer, never in the WinSCP application). 
+Some versions of WinSCP sponsored installation package use [OpenCandy](https://web.archive.org/eng/docs/opencandy) advertising module (but only in the sponsored installer, never in the WinSCP application). 
 
 ### Using WinSCP application
 
-When using WinSCP application, we might collect anonymous [WinSCP usage statistics](https://web.archive.org/eng/docs/usagestatistics "usagestatistics"). You may, however, opt-out from providing WinSCP usage statistics or from WinSCP automatic check for application updates. 
+When using WinSCP application, we might collect anonymous [WinSCP usage statistics](https://web.archive.org/eng/docs/usagestatistics). You may, however, opt-out from providing WinSCP usage statistics or from WinSCP automatic check for application updates. 
 
 ## What do we use your information for?
 
