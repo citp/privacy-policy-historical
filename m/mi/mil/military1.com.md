@@ -1,100 +1,155 @@
-> *The following text is extracted and transformed from the military1.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military1.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603054137id_/http%3A//www.military1.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Military1 - Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+This Web site is owned and operated by:
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+The Praetorian Group  
+200 Green St., Suite 200  
+San Francisco, CA 94111
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+We are committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth what information we collect about you, how we use your information, and the choices you have about how we use your information.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Military1 is dedicated to safeguarding your privacy online. As a policy, we will not sell, share or otherwise misuse your customer information. Your customer information helps us customize Military1 to your interests and allows us to negotiate valuable member discounts and related services. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings.
 
-**Information Collection and Use**
+This privacy policy was last updated on 09/12/2012.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+[](http://www.truste.org/ivalidate.php?url=www.policeone.com&sealid=101)
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**What personally identifiable information does Military1 collect from me?**
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Military1 collects information in several ways from different parts of our network of web sites.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Some personal information is gathered when you register. During registration, Military1 asks all users for specific information, to ensure we can tailor a website experience to meet your needs. To confirm the identity of Military officials, we also ask for further information. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. Once you register you are no longer anonymous to Military1 - you will select an appropriate Military1 username and then given access to Military1's many offerings.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Any information we receive in order to verify your military status, once reviewed, will be deleted from our system. We do not aggregate or hold on to any private service documentation provided by users as part of the verification status.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+In addition to registration we may ask you for personal information at other times, including (but not limited to) when you enter a sweepstakes, contest or promotion sponsored by Military1 and/or our many partners; when you post a Military1 Classified ad; when you submit a listing for a web site; and when you report a problem with one of our sites or services. If you contact Military1 we may keep a record of that correspondence. Military1 also occasionally asks users to complete surveys that we use for research purposes. Wherever Military1 collects personal information we include a link to this Privacy Policy on that page.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**What are cookies and how does Military1 use them?**
 
-**Security**
+As part of offering and providing customizable and personalized services, Military1 uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. All sites on Military1 where you are prompted to log-in or that are customizable require that you accept.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Generally, we use cookies to:
 
-**Updating Your Information**
+  * (1) Remind us of whom you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. This cookie is set when you register or "Sign In" and is modified when you "Sign Out" of our services. The three most common pieces of personal information stored by our cookies are your username, password and security level. This is to verify your permissions to view secure areas of the site and provide a personalized experience upon sign in. Other submitted personal information such as rank and city are not linked to cookies.
+  * (2) Estimate our audience size. Each browser accessing Military1 is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on user interests and behavior.
+  * (3) Track your progress and number of entries in some of our promotions, sweepstakes and contests. When a Military1-hosted promotion uses cookies, the information written to the cookie indicates the player's progress through the promotion, and may be used to track entries, submissions, and status in prize drawings.
+  * (4) Measure certain traffic patterns, which areas of Military1's network of web sites you have visited, and your visiting patterns in the aggregate. We use this research to understand how our users' habits are similar or different from one another so that we can make each new experience on Military1 a better one. We may use this information to better personalize the content, banners, and promotions that you and other users will see on our sites.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Advertising networks that serve ads onto Military1 may also use their own cookies. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Military1.com only and does not cover the use of cookies by any of our advertisers.
 
-      iii.      You may call us at: (480) 505-8800
+Military1 also collects IP addresses for system administration and to report aggregate information to our advertisers. In addition, Military1 Mail includes IP addresses in outgoing mail message headers.
 
-       iv.      You may fax us at: (480) 505-8844
+Our tracking technology used to for client campaigns throughout the site does not collect any personal identifiable information that you provide as part of your Military1 membership. Your personal information stored in cookies is only used for the purposes listed above to help improve your user experience.
 
-**Sending Emails**
+**How does Military1 use my information?**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Military1's primary goal in collecting personal information is to provide you, the user, with a customized experience on our network of sites. This includes personalization services, interactive communications and many other types of services, most of which are completely free to you. In order to provide services free of charge, we display advertisements. By knowing a little about you, Military1 is able to deliver more relevant advertisements and content, and hence better service, to you.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+In our role of delivering targeted advertisements, Military1 plays the middleman. Advertisers give us an advertisement and tell us the type of audience they want to reach (for example, active Military personnel). Military1 takes the advertisement and displays it to users meeting that criteria. In this process, the advertiser never has access to individual account information. Only Military1 has access to individuals' accounts. This kind of advertisement targeting is done with banner ads as well as promotional email through Military1 Delivers. You will not receive special offers via email from Military1 if you indicate to us that you would not like to receive them. You can change these account preferences at any time.
 
-**Compliance with Laws and Law Enforcement**
+Military1 does research on our users' demographics, interests, and behavior based on the information provided to us upon registration, during a promotion, from our server log files or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis. Military1 may share this aggregated data with advertisers or business partners.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**Who is collecting information?**
 
-**Third Party Service Providers**
+When you are on a Military1 site and are asked for personal information, you are sharing that information with Military1 alone, unless it is specifically stated otherwise. In rare other cases we may offer other co-branded sites the ability to keep areas of their site behind closed doors for users who are NOT verified by our database as an active military professional. In order to provide this co-branded service to you, it is necessary for us to share your username and security level with our partner company. This information is stored within a cookie during login and not otherwise collected by the partner company for any purpose. If data is being collected and/or maintained by any company other than Military1, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service. If you have any questions about the use of your information by co-branded sites or experience login problems on a co-branded site please email [support@military1.com.](mailto:support@military1.com)
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Promotions that run on Military1 may be sponsored by companies other than Military1 or may be cosponsored by Military1 and another company. Some or all data collected during a promotion may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion if you don't want your data to be shared.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Please be aware that Military1 advertisers or web sites that have links on our site may collect personally identifiable information about you. The information practices of those web sites linked to Military1 are not covered by this privacy statement.
 
-**Supplementation of Information**
+**With whom does Military1 share my information?**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+As a general rule, Military1 will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see the Terms of Service or Use Agreements for each of our products and services for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed.
 
-**Contests/Surveys**
+Business Partners & Sponsors: Military1 may disclose your personal information to business partners or sponsors, but this is specifically described to you prior to data collection or prior to transferring the data. Details of shared use can be found in specific Terms of Service or Use Agreements, and sweepstakes and promotions rules. Some or all data collected during a Military1 promotion may be shared with a sponsor. If personally identifying data about you will be shared, we will tell you before we collect or transfer the data.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Many promotions offer opportunities to request additional information from sponsors. By requesting more information, you give Military1 permission to transfer your personal information to the sponsor so they can fulfill your request. In many instances, only your email address will be shared. If more information will be shared with the sponsor, you will be notified prior to the transfer.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Merchants listed on Military1 have separate privacy and data collection practices. Military1 has no responsibility or liability for these independent policies. For more information regarding the merchant, their store, and their privacy policies, return to that store's home page and click on their Information link.
 
-**Tell-A-Friend**
+From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt-in to receive information from these third parties, Military1 will (with your permission) share your name and email address with them.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Third Party Data & Data in the Aggregate: Under confidentiality agreements, Military1 may match user information with third party data. Also, Military1 discloses aggregated user statistics in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
 
-**What Happens to my Personal Information if I Opt Out?**
+**Disclosure of Personal Information to Third Parties**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Access to your personal information is restricted to our employees, agents, representatives and service providers and entities for whom we are acting as an agent, licensee or publisher, such as societies and our affiliated group companies, for the purposes set forth above.
 
-**Transfer of Data Abroad**
+With your consent, we also may share your personal information with our affiliated group companies and/or with non-affiliated third parties that wish to send you information about their products and services that may be of interest to you, and users who have consented to receive such information may receive communications from these third parties.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+We will not otherwise disclose any personal information without your consent except under the following circumstances:
 
-**Changes in Our Practices**
+\- In response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims; - If we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law; and - If Military1, a related asset or line of business is acquired by, transferred to or merged with another company.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**What are my choices regarding collection, use, and distribution of my information?**
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+Military1 may, from time to time, send you email regarding our products and services. In addition, if you indicated upon registration that you are interested in receiving offers or information from Military1 and our partners, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only Military1 (or agents working on behalf of Military1 and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily edit your Military1 Account Information to no longer receive such offers and mailings. You will need your Military1 ID and Password in order to access your Military1 Account Information.
 
-**Contacting Our Site**
+On some types of Military1 promotions, we will ask for your email address in order to update you on your score, entries, and status in prize drawings. When you participate in these types of promotions, you automatically receive promotion-related email, unless you choose the no-email option that some promotions offer. Occasionally these promotion-related email messages may include targeted advertisements.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those Military1 services that require registration in order to participate.
+
+Military1 does not sell, share or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service or not to participate in certain promotions or contests.
+
+**What is Military1's policy on allowing me to update, correct, or delete my personally identifiable information?**
+
+You may edit your Military1 Account Information and your public Military1 Profile at any time by using your Military1 ID and password. For all problems signing in to Military1, please [contact us](mailto:support@military1.com).
+
+Your Military1 account can be deleted or deactivated, but doing so will result in not being able to access any members-only area of the Military1 network. If you saved the confirmation email you received when you first created your Military1 account, you can use the URL provided in that message to delete your account at any time. Please contact privacypolicy@Military1.com for further instructions about deleting or deactivating your Military1 account.
+
+If you are participating in a Military1 promotion and you wish to update your email address on the promotions mailing list or to quit a promotion and cease receiving promotion-related email, please contact [support@Military1.com](mailto:support@PoliceOne.com). All login pages where you are required to enter your username and password are protected by industry-standard, SSL (secure socket layer) encryption.
+
+Knowing that you use certain services or features may help us to offer you better and more relevant content and advertisements. But as with all personally identifiable information, we do not make this available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding financial product or service usage on Military1 are provided in the aggregate only and do not include any personally identifiable information about any individual user.
+
+**Unsubscribing and opting out of personally identifiable information**
+
+Your username may be displayed while participating in the Military1 Forums and when submitting member comments to any article, tip or video on Military1. Your email address will only be used for us to send you materials that you have subscribed to in the past.  
+We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. If you wish to update or remove any of your personal information please visit your profile page at anytime.
+
+If you no longer wish to receive our newsletter or other promotional communications, you may opt-out of receiving them by following the unsubscribe instructions included in each communication, by updating your profile or emailing [support@military1.com](mailto:support@PoliceOne.com).
+
+If you continue to have issues after using all the resources above, give us a call at 1-866-431-5367 to talk to our Member Services Coordinator.
+
+You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+
+**Service Providers**
+
+We use other third parties to provide forums and chat rooms on Military1.com. When you sign up for a Military1 member account, we will share your username and security level as necessary for the forums application to provide that service. Military1 chat rooms require that you provide an additional, randomly selected username that is not stored in the Military1 database for any purpose.
+
+If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+
+These third parties are prohibited from using your personally identifiable information for any other purpose than listed above.
+
+**What security precautions are in place to protect the loss, misuse, or alteration of my information?**
+
+Your Military1 Account Information and Military1 Profile are password-protected so that you and only you have access to this personal information. You may edit your Military1 Account Information and Military1 Profile by using your Military1 ID and password.
+
+We recommend that you do not divulge your password to anyone. Military1 will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your Military1 account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
+
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Military1 cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
+
+**What security precautions are in place to protect the identity and security of Military officials on Military1?**
+
+Military1 has taken several precautions to protect the identity, account names and passwords of officers when they register and log on to Military1.com. All transfer of registration and login information is encrypted using Secure Socket Layer (SSL). During registration, Military1 representatives check the identity of potential Military members with the member's department and either mail or call in the member's password to that department or individual. Unfortunately, this process cannot be 100% secure and Military1 is not responsible for the misuse of these user names and passwords. Despite all of our precautions, you use Military1 at your own risk.
+
+**Testimonials**
+
+We periodically post member testimonials on Military1 which may contain personally identifiable information such as the member’s username. We do obtain the member's consent prior to posting each testimonial. If you have any questions regarding testimonials on Military1 or would like a testimonial that includes your personal information removed please [contact us](mailto:support@PoliceOne.com).
+
+**Changes in this Privacy Statement**
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+If you ever have questions regarding the Military1 privacy policy please email [support@military1.com](mailto:support@PoliceOne.com).
 
 * * *
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+_Military1 is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.Military1.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe._
+
+_If you have questions or concerns regarding this statement, you should first contact[support@military1.com](mailto:support@PoliceOne.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns._
