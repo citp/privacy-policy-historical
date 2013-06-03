@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowtoronto.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028190254id_/http%3A//www.nowtoronto.com/about/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowtoronto.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603222600id_/https%3A//www.nowtoronto.com/about/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy policy | NOW Magazine
 
