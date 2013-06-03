@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mydealbag.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230013454id_/http%3A//mydealbag.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydealbag.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603180619id_/http%3A//mydealbag.com/legal/privacy) for the most accurate reproduction.*
 
-# mydealbag daily deals aggregator privacy | Local & Online group buying coupons
+# Privacy Policy | mydealbag
 
 This privacy policy (this "Policy") describes the practices of Mydealbag Media, and any affiliates we designate from time to time in this Policy (collectively "we", "us", "our") with respect to our collection, use, storage and disclosure of personal information provided to us from users of our Website. This Policy is incorporated by reference to the [Terms of Service Agreement](https://web.archive.org/legal/terms), and forms an integral part of it. Any capitalized term used but not defined in this Policy will have the meaning defined in the Terms of Service Agreement. All references to "Website" in this Policy refer to our website at [mydealbag.com](http://mydealbag.com/) and all of its sub-domains.
 
@@ -81,15 +81,19 @@ We will respond to requests within the time allowed by Applicable Privacy Laws a
   11. Removal of Your Information We keep your information only as long as we need it for legitimate business purposes and to meet any legal requirements. Personal information used to make a decision that directly affects an individual will be kept for at least one year after such a decision. We have retention standards that meet these parameters. We destroy your information when it is no longer needed or required to be kept, or we remove your personally identifiable information to render it anonymous.
   
 
-  12. Concerns or Questions regarding our Compliance Questions or concerns regarding our compliance with this Policy may be directed to the Privacy Officer, Sean Wilson, at [chiefprivacyofficer@mydealbag.com](mailto:chiefprivacyofficer@mydealbag.com).
+  12. Concerns or Questions regarding our Compliance Questions or concerns regarding our compliance with this Policy may be directed to the Privacy Officer, Karim Abraham, at [chiefprivacyofficer@mydealbag.com](mailto:chiefprivacyofficer@mydealbag.com).
   
 
 
 
-If an individual is not satisfied with our Privacy Officer's response to their question or concern they may be able to make a complaint under Applicable Privacy Laws. Our Privacy Officer can provide you with the contact information to make such a complaint. To unsubscribe or opt-out from any mailings from mydealbag, visit <http://mydealbag.com/user/unsub_final> and enter your email address. 
+If an individual is not satisfied with our Privacy Officer's response to their question or concern they may be able to make a complaint under Applicable Privacy Laws. Our Privacy Officer can provide you with the contact information to make such a complaint. To unsubscribe or opt-out from any mailings from mydealbag, visit <http://mydealbag.com/unsubscribe/unsub> and enter your email address. 
+
+We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to <http://aboutads.info/choices> or <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+Additionally, emails we send may contain a bit of code known as a "web beacon." This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images "off" in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.
 
 mydealbag Media
 
-302-718 Main St, Vancouver, B.C. V6A 0B1
+2360-555 W Hastings St, Vancouver, B.C. V6B 4N5
 
-604-312-8992
+604-317-7867
