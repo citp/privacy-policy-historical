@@ -1,163 +1,53 @@
-> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2012-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120830073809id_/http%3A//ordermotion.com/Legal/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603224020id_/http%3A//ordermotion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OrderMotion
+# Order Management Technology and Services - OrderMotion Privacy Policy
 
-| 
+## OrderMotion, Inc. is now a subsidiary of NetSuite Inc.
 
-[](http://www.truste.org/ivalidate.php?url=www.ordermotion.com&sealid=103)
+In this Website Privacy Statement (“statement”), OrderMotion, Inc., NetSuite Inc. and its other subsidiaries (collectively, “we” or the “NetSuite Companies”), provide information about how we collect, use and transfer personally identifiable data from you, an individual person and website visitor, through NetSuite’s publicly accessible websites (any of our websites such as www.netsuite.com” or http://ordermotion.com/ among others, that can be accessed without a password) and on which we post a direct link to this statement (collectively the “sites”).
 
-  
-This section applies to clients and visitors who visit our general corporate website and ask for or share information. 
+### Scope
 
-## 1\. Web Sites Covered
+This statement covers only data collected through the site and not any other data collection or processing, including, without limitation, data collection practices of webpages to which the site links, or data that we or our affiliates collect offline or through webpages that do not display a direct link to this statement, for example the NetSuite or other applications on which we host data for registered customers. 
 
-This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement: [http://www.ordermotion.com](http://www.ordermotion.com/), the Company's Web site. OrderMotion's Web site may contain links to other Web sites. OrderMotion is not responsible for the information practices or the content of such other Web sites. OrderMotion encourages you to review the privacy statements of other Web sites to understand their information practices.  
+### Types of Data and Collection Methods
 
+Through the site, we receive data that you actively submit as well as data that we track:
 
-## 2\. Personal Information Collected
+_Actively Submitted Data:_ When you request information, subscribe to a mailing list or for a service, respond to an online survey or otherwise actively send us data, we usually collect data such as your name, e-mail address(es), mailing address(es), telephone number(s), and certain information related to the business you represent such as number of employees and industry type. You can opt out of providing information by not entering it when asked and, if such information is required in order to allow us to respond to your inquiry, you will receive a notice advising you of this. In each such instance, you will know what data we collect through the site, because you actively submit it.
 
-OrderMotion collects information from individuals who visit the Company's Web site ("Visitors") and individuals who register to use the Service ("Clients").
+_Passively Tracked Data:_ When you visit the site, we also passively track information on your computer and Internet connection, such as the IP address of your computer and/or Internet service provider, the date and time you access the site, the Internet address of websites from which you link to our site, the computer technology you are using and your movements and preferences on our site. We use technology that many other websites employ, including, without limitation, “cookies” or small data files stored on your computer’s hard drive, to collect such information. In some instances, we also use cookies to collect information in connection with future visits from that website, to recognize you as a previous visitor, or to track your activity on our site. If you follow a link to the site from an affiliate or promotion, we store information about your arrival from that affiliate or promotion in a session cookie. You do not need to have cookies turned on to visit our site. You can refuse cookies by turning them off on your browser. But, if you want to access webpages that require registration, you need to accept a mandatory session cookie, which you can delete after you leave the site.
 
-When expressing an interest in obtaining additional information about the Service or registering to use the Service, OrderMotion requires you to provide the Company with contact information, such as name, company name, address, phone number, and email address ("Required Contact Information"). When purchasing the Service, OrderMotion requires you to provide the Company with financial qualification and billing information, such as billing name and address, and credit card number ("Billing Information').
+_Combinations:_ Unless you also actively submit personal information such as your name or address, passively tracked data does not typically allow us to identify you personally (even though it can theoretically be done, we do not have the means or an interest to find out who you are, unless you identify yourself voluntarily through an active submission of data). To the extent permitted by applicable law, we reserve the right to combine passively tracked data with personal data that you actively submit.
 
-As you navigate the Company's Web site, OrderMotion may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons ("Web Site Navigational Information"). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol ("IP") address, and the actions you take on the Company's Web site (such as the Web pages viewed and the links clicked).
+### Collection Purposes, Use of Data
 
-## 3\. Use of Information Collected
+We collect _passively tracked data_ primarily for purposes of administering, protecting and improving our site and our systems, to better understand the preferences of our site visitors, to identify server problems, to compile aggregated statistics about site usage, and to help personalize your experience on our site. We do not deliver third party online advertisements on our sites but we advertise our products and services on others’ Web sites. We work with service providers to deliver retargeting advertisements and other advertisements on our behalf to visitors of the sites.
 
-The Company uses Clients' and Visitors' Information to perform the services requested. For example, if you fill out a "Contact Me" Web form, the Company will use the information provided to contact you about your interest in the requested services. 
+We collect _actively submitted data_ primarily for two purposes: Firstly, for the purpose for which you originally sent us the data (e.g., to provide information to you or sign you up for a free trial); and secondly, for purposes of contacting you to further discuss your interest in the NetSuite Companies, the products and services we provide and ways we can improve them to provide information on services, promotions and events. You can opt out of receiving marketing emails as explained below.
 
-The Company may also use this Information for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in OrderMotion, OrderMotion services, and to send you information regarding the Company and its partners, such as information about promotions or events.
+### Disclosures of Personal Information
 
-OrderMotion uses credit card information solely to check the financial qualifications of prospective Customers and to collect payment for the Service.
+We are not in the business of selling or renting your information to telemarketers and we do not share your personally identifiable information with others, except as follows: We freely share your information within and among the NetSuite Companies. We also may share information with trusted business partners, such as system integrators, distributors, and referral partners and any other party specifically identified on the page on which you submit your information. We engage agents and service providers who process data only on our behalf and for our purposes under confidentiality agreements. We may share your information as required by law or in the interest of protecting or exercising our or others’ legal rights, e.g., without limitation, in connection with requests from law enforcement officials and in connection with court proceedings. We may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business. Also, we reserve the right to fully use and disclose any information that is not in personally identifiable form (such as statistics and survey results that do not identify you individually by name).
 
-OrderMotion uses Web Site Navigational Information to operate and improve the Company's Web site. The Company may also use Web Site Navigational Information in combination with Customer-Visitor Information to provide personalized information about the Company.
+### Opt-Out
 
-## 4\. Public Forums and Customer Testimonials
+In connection with promotions or other projects, we may ask you specifically whether you have objections against a certain kind of data use or sharing. If you opt-out under such circumstances, we will respect your decision. To opt out of receiving commercial email communications from NetSuite Companies, please click on the “opt-out” link in the communication or contact us at support@netsuite.com. Please note that our business partners and other data recipients have their own data privacy policies, which may differ from ours and you would have to contact them separately with respect to opt-out requests. 
 
-OrderMotion may provide bulletin boards, blogs, or chat rooms on the Company's Web site and/or third party Web sites such as Facebook and Twitter. Any personally identifiable information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. OrderMotion is not responsible for the personally identifiable information you choose to submit in these forums.
+### Access
 
-OrderMotion posts a list of Clients and testimonials on the Company's Web site that contain information such as Customer names and titles. OrderMotion obtains the consent of each Client prior to posting any information on such a list or posting testimonials.
+If personal information you have submitted through the site is no longer accurate, current, or complete, and you wish to update it, please send an e-mail to support@netsuite.com. Upon appropriate request we will usually be glad to update or amend your information, but we reserve the right to use information obtained previously to verify your identity or take other actions that we believe are appropriate. 
 
-## 5\. Web Site Navigational Information
+### Security
 
-OrderMotion uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company's Web site ("Web Site Navigational Information"). This section describes the types of Web Site Navigational Information the Company may collect and how the Company may use this information.
+Transmissions over the Internet are never 100% secure or error-free. However, we take reasonable steps to protect your personal information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. 
 
-**Cookies**  
-OrderMotion uses cookies to make interactions with the Company's Web site easy and meaningful. When you visit the Company's Web site, OrderMotion's servers send a cookie to your computer. Standing alone, cookies do not personally identify you. They merely recognize your Web browser. Unless you choose to identify yourself to OrderMotion, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a "Contact Me" or a "14 Day Free Trial" Web form), you remain anonymous to the Company.
+### Effective Date, Amendments
 
-There are two types of cookies: session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer.
+This statement is effective as of May 3, 2013. We reserve the right to change, modify, add or remove portions of this statement from time to time and in our sole discretion, but will alert you that changes have been made by indicating on the statement the date it was last updated. When you visit the site, you are accepting the current version of this statement as posted on the site at that time. We recommend that users revisit this statement on occasion to learn of any changes.
 
-If you have chosen to identify yourself to OrderMotion, the Company uses session cookies containing information to allow the Company to uniquely identify you. Each time you log into the Service, a session cookie containing a unique identifier that is tied to your account is placed in your browser. These session cookies allow the Company to uniquely identify you when you are logged into the Service and to process your online transactions and requests. Session cookies are required to use the Service.
+### Contact Us
 
-OrderMotion uses persistent cookies that only the Company can read and use to identify browsers that have previously visited the Company's Web site. OrderMotion may use information from session and persistent cookies in combination with Clients and Visitors Information to provide you with information about the Company and the Service.
+Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this statement. You may send us an e-mail at support@netsuite.com or write to us NetSuite Inc., 2955 Campus Drive, Suite 100, San Mateo, California 94403, telephone: 650-627-1000. 
 
-**Web Beacons**  
-OrderMotion uses Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors' usage of the Company's Web site and interaction with emails from the Company. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular Web site tied to the Web beacon, and a description of a Web site tied to the Web beacon. For example, OrderMotion may place Web beacons in marketing emails that notify the Company when you click on a link in the email that directs you to one of the Company's Web site. OrderMotion uses Web beacons to operate and improve the Company's Web site and email communications. OrderMotion.com may use information from Web beacons in combination with Clients and Visitors Information to provide you with information about the Company and the Service.
-
-**IP Addresses**  
-When you visit OrderMotion's Web site, the Company collects your Internet Protocol ("IP") addresses to track and aggregate non-personally identifiable information. For example, OrderMotion uses IP addresses to monitor the regions from which Clients and Visitors navigate the Company's Web site.
-
-OrderMotion also collects IP addresses from Customers whey they log into the Service as part of the Company's "Identity Confirmation" and "IP Range Restrictions" security features.
-
-**Third Party Cookies**  
-From time-to-time, OrderMotion engages third parties to track and analyze non-personally identifiable usage and volume statistical information from individuals who visit the Company's Web site. OrderMotion may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it. This Privacy Statement does not cover the use of third party cookies. 
-
-## 6\. Sharing of Information Collected
-
-OrderMotion may share Client and Visitors information with the Company's agents, contractors or partners in connection with services that these individuals or entities perform for, or with, OrderMotion . These agents, contractors or partners are restricted from using Clients and Visitors Information in any way other than to provide services for OrderMotion, or services for the collaboration in which they and the Company are engaged (for example, some of our products are developed and marketed through joint agreements with other companies). OrderMotion may also share Client and Visitors Information with the Company's agents, contractors or partners to ensure the quality of information provided. OrderMotion does not share, sell, rent, or trade personally identifiable information from the EU with third parties for their promotional purposes.
-
-OrderMotion uses a third-party intermediary to manage credit card processing. This intermediary is not permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on the Company's behalf.
-
-OrderMotion reserves the right to disclose personally identifiable information of the Company's Clients or Visitors if required by law or if the Company reasonably believes that disclosure is necessary to protect the Company's rights and/or to comply with a judicial proceeding, court order, or legal process.
-
-## 7\. Communications Preferences
-
-OrderMotion offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by sending an email to [linda@ordermotion.com](mailto:linda@ordermotion.com) or by clicking on the "unsubscribe" link located on the bottom of the Company's marketing emails. Clients cannot opt out of receiving transactional emails related to their account with OrderMotion or the Service.  
-
-
-## 8\. Correcting and Updating Your Information
-
-To update a user profile, please email [billing@ordermotion.com](mailto:billing@ordermotion.com) or call (617) 904-9080. To discontinue your account and have information you maintained in the Service returned to you, please email [billing@ordermotion.com](mailto:billing@ordermotion.com). Requests to access, change, or delete your information will be handled within 30 days unless a different term is mutually negotiated. Nothing in this Privacy Statement should be interpreted to allow the unilateral termination or modification of any agreement, or any term thereof, between OrderMotion and a Client.  
-
-
-## 9\. Security
-
-OrderMotion uses robust security measures to protect Clients Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Client Data. When the Service is accessed using Internet Explorer version 6.0 or later, Secure Socket Layer ("SSL") technology protects Customer Data using both server authentication and data encryption. These technologies help ensure that Client Data is safe, secure, and only available to the Client to whom the information belongs and those to whom the Client has granted access. OrderMotion also implements an advanced security method based on dynamic data and encoded session identifications, and the Company hosts its Web site in a secure server environment that uses firewalls and other advanced technology to prevent interference or access from outside intruders. OrderMotion also offers enhanced security features within the Service that permit Clients to configure security settings to the level they deem necessary. This section applies to clients that purchase our Service.  
-
-
-## 1\. Web Sites Covered
-
-This policy covers omx,ordermotion.com, OrderMotion's Web site that provides access to Clients for Services. This website may contain links to other Web sites. OrderMotion is not responsible for the information practices or the content of such other Web sites. OrderMotion encourages you to review the privacy statements of other Web sites to understand their information practices.  
-
-
-## 2\. Personal Information Collected
-
-OrderMotion works with catalog and online retailers ("Clients") by providing the back office technology for order management through a hosted solution referred to as the "Service". OrderMotion's role may include hosting client data, compiling data, assisting clients process credit card payments with their credit card vendors, forwarding order and customer data to clients fulfillment houses for shipping, providing customer call center access to customer data, compiling customer lists for direct mail and email, and reporting/analyzing customer and order data. Clients are responsible for obtaining and managing customer data, which OrderMotion then stores and processes.
-
-The Client is responsible for acquiring and maintaining the privacy of end user Customer Information, which OrderMotion stores and processes, as it pertains to the U.S.-E.U. Safe Harbor Framework. ("Customer Information")
-
-The Client's users will have access to the Client's privacy policy available on pages where customer personal information is collected and changed.
-
-## 3\. Use of Information Collected
-
-OrderMotion does not use Customer Information received from the EU unless directed by the client.  
-
-
-## 4\. Web Site Navigational Information
-
-OrderMotion uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as Clients navigate the Company's Web site ("Web Site Navigational Information"). This section describes the types of Web Site Navigational Information the Company may collect in relation to the Service and how the Company may use this information.
-
-**Cookies**  
-The Company uses session cookies containing information to allow the Company to uniquely identify you. Each time you log into the Service, a session cookie containing a unique identifier that is tied to your account is placed in your browser. These session cookies allow the Company to uniquely identify you when you are logged into the Service and to process your online transactions and requests. Session cookies are required to use the Service.
-
-OrderMotion uses persistent cookies that only the Company can read and use to identify browsers that have previously visited the Company's Web site. When you purchase the Service or provide the Company with personal information, a unique identifier is assigned you. This unique identifier is associated with a persistent cookie that the Company places on your Web browser. The Company is especially careful about the security and confidentiality of the information stored in persistent cookies. For example, the Company does not store account numbers or passwords in persistent cookies. If you disable your Web browser's ability to accept cookies, you will be able to navigate the Company's Web site, but you will not be able to successfully use the Service. OrderMotion may use information from session and persistent cookies in combination with Customer Information to provide you with information about the Company and the Service.
-
-## 5\. Sharing of Information Collected
-
-OrderMotion may share Customer Information with the Company's agents, contractors or partners in connection with services that these individuals or entities perform for, or with, OrderMotion. These agents, contractors or partners are restricted from using Customer Information in any way other than to provide services for OrderMotion, or services for the collaboration in which they and the Company are engaged (for example, some of our products are developed and marketed through joint agreements with other companies). OrderMotion may also share Customer Information with the Company's agents, contractors or partners to ensure the quality of information provided. 
-
-OrderMotion does not share, sell, rent, or trade personally identifiable information from the EU with third parties for their promotional purposes. OrderMotion may share, sell, rent or trade personally identifiable information from the US. Clients may choose to not have their Customer Information included by notifying OrderMotion's legal department.
-
-Clients may use agents, contractors or partners in connection with the services that these individuals or entities for perform for, or with Clients. Client is responsible for the privacy of the information shared with these entities. This privacy policy does not apply to these entities.
-
-OrderMotion reserves the right to disclose personally identifiable information of the Client's customer if required by law or if the Company reasonably believes that disclosure is necessary to protect the Company's rights and/or to comply with a judicial proceeding, court order, or legal process. Client will be notified by OrderMotion of any such disclosure.
-
-## 6\. Correcting and Updating Customer Information
-
-Client is responsible for correcting and updating Customer Information. In the event a Customer contacts OrderMotion regarding their information, OrderMotion will re-direct them to the Customer.  
-
-
-## 7\. Security
-
-OrderMotion uses robust security measures to protect Customer Information from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Customer Information. When the Service is accessed using Internet Explorer version 6.0 or later, Secure Socket Layer ("SSL") technology protects Customer Information using both server authentication and data encryption. These technologies help ensure that Customer Information is safe, secure, and only available to the Client to whom the information belongs and those to whom the Client has granted access. OrderMotion also implements an advanced security method based on dynamic data and encoded session identifications, and the Company hosts its Web site in a secure server environment that uses firewalls and other advanced technology to prevent interference or access from outside intruders. OrderMotion also offers enhanced security features within the Service that permit Clients to configure security settings to the level they deem necessary.
-
-Because the Company uses the Service to maintain Customer Information, this information is secured in the same manner as described above.
-
-## 8\. Boards and Forums
-
-OrderMotion offers forums for clients to share information. These boards and forums are publicly displayed. Client is solely responsible for the content of postings from their companies.  
-
-
-## 9\. Changes to this Privacy Statement
-
-OrderMotion reserves the right to change this Privacy Statement. OrderMotion will provide notification of the material changes to this Privacy Statement through the Company's Web site at least thirty (30) business days prior to the change taking effect. This section applies to clients and visitors  
-
-
-## 1\. Compliance with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework
-
-The Company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit <http://www.export.gov/safeharbor/>. 
-
-## 2\. OrderMotion's Policy Towards Children
-
-The Company's Web site is not directed to children under 18. If a parent or guardian becomes aware that his or her child has provided OrderMotion with personal or contact information without their consent, he or she should contact the Company at [linda@ordermotion.com](mailto:linda@ordermotion.com). If OrderMotion become aware that a child under 13 has provided the Company with personal information, OrderMotion will delete such information from the Company's files.  
-
-
-## 3\. Changes to this Privacy Statement
-
-OrderMotion reserves the right to change this Privacy Statement. OrderMotion will provide notification of the material changes to this Privacy Statement through a prominent notice on the Company's Web site at least thirty (30) business days prior to the change taking effect.  
-
-
-## 4\. Contacting Us
-
-Questions regarding this Privacy Statement or the information practices of the Company's Web site should be emailed to [linda@ordermotion.com](mailto:linda@ordermotion.com) or by mailing OrderMotion, Inc, Attn: Privacy, 5 Burlington Woods, Suite 106, Burlington, MA.  
-| 
+(C) Copyright 2013, OrderMotion Inc. All Rights Reserved 
