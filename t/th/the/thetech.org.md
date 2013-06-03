@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetech.org privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023212826id_/http%3A//www.thetech.org/about-us/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetech.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603025421id_/http%3A//www.thetech.org/about-us/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Tech Museum
+# Privacy Policy | The Tech Museum of Innovation
 
 ##  Information Collection and Use
 
