@@ -1,29 +1,37 @@
-> *The following text is extracted and transformed from the freewordpresstheme.info privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614000033id_/http%3A//www.freewpblogthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewordpresstheme.info privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603034433id_/http%3A//www.freewordpresstheme.info/service/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Free Wordpress Themes
+# Privacy Policy | Free Wordpress Themes | Free Wordpress Theme.info
 
-## [Privacy Policy](http://www.freewpblogthemes.com/privacy-policy/ "Privacy Policy")
+We can be reached via e-mail at support[at]freewordpresstheme.info or by using our support system.  
+For each visitor to our Web page, our Web server automatically recognizes the consumers domain name, IP address and general identifying information like user name, etc. (where possible).
 
-We respect your privacy and we are committed to safeguarding your privacy while online at our sites. The following discloses the information gathering and dissemination practices for this website:
+  
+We collect aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as poll information and/or site registrations.  
+The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site.
 
-##### Log Files
+  
+With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, customize Web page content based on visitors’ browser type or other information that the visitor sends.  
+With respect to polls and surveys: We store the poll results on our database and do not provide access to any 3rd party to that data. In some cases we also use cookies to store poll preferences and protect against fraud. Although we do our best to keep our data and the poll results safe and secure, in no case should buzzer, it’s operators or owners be held responsible for any case of data loss or data theft that may occur.  
+If you do not want to receive e-mail from us in the future, please let us know by using the options on your user profile or sending us e-mail at the above address.
 
-Like most standard website servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, administer the site and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+  
+If you supply us with your postal address on-line you will only receive the information for which you provided us your address.  
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of our advertisers.
 
-##### Cookies
+  
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.  
+Upon request we provide site visitors with access to a description of information that we maintain about them, you may also see and update it under your profile area on our website. Consumers can have this information corrected by sending us e-mail at the above address or updating their user profile.  
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Our site use cookies for tracking visitors activity. Some of my business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser's settings section.
+  
+We urge you to read our Privacy Policy, Terms of Use and DMCA policies before joining and using our site. By using our site you are agreeing to comply with these policies and take full and sole responsibility for your action and postings.  
+If you feel that this site is not following its stated information policy, you may contact us at the above email address or by using the feedback form.  
+By using our website and/or services you hereby agree to our privacy policy. If you do not agree to our policies we ask that you do not use our site.
 
-##### Links
+_
 
-This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. we encourage ours users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
+##### FreeWordpressTheme.info
 
-##### Advertisers
+Wordpress has been the top of the line and used blogging software for several years now. It is transcribed in php terms and functions on MySql database. Wordpress is also very flexible with numerous plugins at your disposal on the web for free, which add many options to your system. You can find the latest Wordpress here. It is also "skinable" which lets users to change with ease the look of their wordpress enabled website. Skins are commonly referred to as Wordpress Themes or Templates. 
 
-We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by the ad companies, and we do not have access to these information. We work with the ad companies like Google Adsense and Amazon.
-
-##### Contact Information
-
-If users have any questions or suggestions regarding our privacy policy, do not hesitate to contact us via [contact us](https://web.archive.org/contact/) page.
-
-Thank you all :)
+_
