@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedding.com.au privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015201445id_/http%3A//www.wedding.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedding.com.au privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603025739id_/http%3A//www.wedding.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wedding.com.au
 
