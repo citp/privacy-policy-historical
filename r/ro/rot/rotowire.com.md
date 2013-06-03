@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotowire.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120202455id_/http%3A//www.rotowire.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotowire.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603173134id_/http%3A//rotowire.com/privacy.htm) for the most accurate reproduction.*
 
 # RotoWire Privacy Policy
 
@@ -65,7 +65,8 @@ You may opt out of some tracking cookies that will be able to identify you on th
 
 <http://www.quantcast.com/docs/display/legal/Opt-out+of+Quantcast+Delivery>   
 <http://www.networkadvertising.org/managing/opt_out.asp>  
-<http://valueclickmedia.com/member_privacy.shtml>
+<http://valueclickmedia.com/member_privacy.shtml>  
+<http://www.networkadvertising.org/choices/>
 
 **HOW DO YOU COLLECT AND USE INFORMATION FROM CHILDREN UNDER 13 YEARS OF AGE??**
 
