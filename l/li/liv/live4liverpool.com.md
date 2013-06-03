@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the live4liverpool.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118052332id_/http%3A//live4liverpool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the live4liverpool.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603081840id_/http%3A//live4liverpool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | live4liverpool.com
 
@@ -70,5 +70,3 @@ London
 N20 0NN.
 
 This Privacy Policy was last updated on 12th February 2007.
-
-### Leave a Reply
