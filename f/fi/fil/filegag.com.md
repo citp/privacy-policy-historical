@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filegag.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618235240id_/http%3A//filegag.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filegag.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603164544id_/http%3A//filegag.com/privacy.html) for the most accurate reproduction.*
 
-# Filegag.com Your Super File Host
+# Filegag.com Your Super file Host
 
 ### Privacy Policy 
 
@@ -12,7 +12,7 @@ The purpose of this Privacy Policy is to identify the Personal Information we ma
 
 Please take a moment to review the terms of this Privacy Policy. Your access and use of any Filegag.com Web Site is conditioned upon your acceptance of the terms stated herein. If you do not agree with one or more of the terms stated in this Privacy Policy, then refrain from using Filegag.com Web Site. From time to time, this Privacy Policy may change. You are responsible for periodically reviewing the latest Privacy Policy to remain knowledgeable of the terms that govern our collection and disclosure of information. 
 
-We also encourage you to review our Terms of Use, posted at [Terms Of Use](https://web.archive.org/web/20120618235240id_/http%3A//filegag.com/tos.html), which govern your use of the FILEGAG Web Site. 
+We also encourage you to review our Terms of Use, posted at [Terms Of Use](https://web.archive.org/web/20130603164544id_/http%3A//filegag.com/tos.html), which govern your use of the FILEGAG Web Site. 
 
 Please note that FILEGAG reserves the right to modify, limit, add or delete, without notice, any of the services discussed in this Privacy Policy. 
 
