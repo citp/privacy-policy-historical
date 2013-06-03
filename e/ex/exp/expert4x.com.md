@@ -1,47 +1,141 @@
-> *The following text is extracted and transformed from the expert4x.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504063104id_/http%3A//www.expert4x.com/component/content/article/139) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expert4x.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603134650id_/http%3A//expert4x.com/expert4x-website-privacy-statement) for the most accurate reproduction.*
 
-# Expert4x Group Privacy and Anti-spam Policy
+# Expert4x: Website Privacy Statement | Expert4x
 
-**Protecting Your Confidential Information**
+  
+**Acknowledgement and acceptance of terms**  
+The Expert4x Group is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing http://expert4x.com/, you acknowledge and fully understand the http://expert4x.com/ Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
-We, at THE EXPERT4X GROUP (see details of the group below), value our relationship with each of our customers, and we appreciate the trust that you have placed in us. We recognize that you have concerns about the confidential personal information we obtain about you throughout our relationship. Because protecting your confidential information is important to us, we have adopted a privacy policy which governs how the confidential information we obtain about you is used and maintained. We pledge to protect that information and ensure that it remains private. The information in this notice summarizes the categories of personal information that we collect about you, how that information is handled, and how we protect that information.We do not disclose any non public personal information about our customers to anyone, except as required or permitted by law.
+**Participating Merchant Policies**  
+Related services and offerings with links from this website, including vendor sites, have their own _privacy statements_ that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in http://expert4x.com services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or content of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
-THE EXPERT4X GROUP does not sell personal information obtained about you to any external companies for the purpose of marketing their products or services to you.
+**Information We Collect and How We Use It**  
+The owners and publishers of http://expert4x.com/ collect certain information from and about its users in three ways – directly from our Web Server logs, the user, and with Cookies.
 
-**Collection and Use of Personal Information**.
+**a. Web Server Logs**  
+When you visit our Website, we may track information to administer the site and analyze its usage.
 
-The privacy policy set forth in this notice applies to THE EXPERT4X GROUP and affiliated companies of THE EXPERT4X GROUP.
+**Examples of information we may track include:**
 
-We collect non public personal information about you from the following sources, solely for the purposes specified:Information we receive from you on account applications or other forms, such as name, email address and similar information. We use this information to administer the accounts we maintain on your behalf, process transactions requested by you, respond to your inquiries, and identify other products and services that may interest you.All THE EXPERT4X GROUP employees are instructed to use strict standards of care regarding the confidentiality of your non public personal information as outlined in firm policies. Employees not adhering to our firm policies are subject to disciplinary action. We require outside companies and independent contractors to whom we provide customer information for marketing, servicing or processing to enter into a confidentiality agreement that restricts the use of the information to those purposes. We maintain physical, electronic and procedural safeguards that comply with applicable laws to protect your non public personal information.
+Your Internet protocol address.  
+The kind of browser or computer you use.  
+Number of links you click within the site.  
+State or country from which you accessed the site.  
+Date and time of your visit.  
+Name of your Internet service provider.  
+Web page you linked to our site from.  
+Pages you viewed on the site.
 
-**Anti-spam and Mailing List management**
+**b. Use of Cookies**  
+The owners and publishers of http://expert4x.com/ may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.
 
-Our communication via email is based on a total non-spam approach. We therefore require all our clients and customers to agree to being placed on any of our mailing lists before we use our email list to communicate Forex information and new opportunities to clients on our mailing lists. We also provide the opportunity for all of our clients to unsubscribe from any of our mail lists at anytime they wish. We also impose these standards on our affiliates who market on our behalf.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.
 
-**About Cookies:**
+The owners and publishers of http://expert4x.com/ reserve the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into http://expert4x.com/ a site that relies on third-party cookies).
 
-Cookies are small files containing information that a Web site uses to track its visitors. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website. Google may set and access cookies on your computer, enabling us to learn which advertisements and promotions bring users to our Web site. Google may use cookies in connection with Expert4x's products and services to track your activities on our Web sites. Such information that is collected would be anonymous and not personally identifiable. Third party vendors, including Google, show our ads on sites on the internet.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
 
-Users may opt out of Google's use of cookies by visiting the Google advertising opt-out (http://www.google.com/ads/preferences/html/opt-out.html) page or by visiting the Network Advertising Initiative opt out page (http://www.networkadvertising.org/managing/opt_out.asp)
+**c. Personal Information Users**  
+Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, e-mail, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
 
-**The Expert4x Group**
+We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary, including:
 
-The Expert4x Group markets free and paid Forex product services and conducts live webinars with the aim of assisting and promoting sound Forex trading approaches.
+To fulfil your service requests for services.  
+To protect ourselves from liability,  
+To respond to legal process or comply with law, or  
+In connection with a merger, acquisition, or liquidation of the company.
 
-Websites in the Expert4x Group are listed below and are all subject to the above policies
+**Use of Web Beacons or GIF files**  
+http://expert4x.com/ web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow the owners and publishers of http://expert4x.com/ to count users who have visited those pages and to deliver co-branded services. The owners and publishers of http://expert4x.com/ may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
 
-[http://www.expert4x.com](http://www.expert4x.com/undefined/)
+Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or e-mail communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or e-mails and compiles anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and e-mails bring you to our website and how you use the site. The owners and publishers of http://expert4x.com/.com prohibit Web beacons from being used to collect or access your personal information.
 
-[http://www.longcandleforextrading.com](http://www.longcandleforextrading.com/)
+**Accessing Web Account Information**  
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting our support attendants via our support desk: info@Expert4x.com
 
-[http://www.forextrading-alerts.com](http://www.forextrading-alerts.com/)
+**Changes to this Statement**  
+The owners and publishers of http://expert4x.com/ have the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
-[http://www.4x-edge.com](http://www.4x-edge.com/)
+**Contacting Us**  
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us via our support desk: info@Expert4x.com
 
-[http://www.forextrading-videos.com](http://www.forextrading-videos.com/)
+**ADDITIONAL INFORMATION**
 
-[http://www.hedged4x.com](http://www.hedged4x.com/)
+**What information do we collect?**
 
-http://www.forextradeoftheday.com
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
-Last Updated on Tuesday, 06 December 2011 20:45 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+
+Google, as a third party vendor, uses cookies to serve ads on your site.  
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+
+**What do we use your information for?**
+
+Any of the information we collect from you may be used in one of the following ways:
+
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
+
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+
+; To process transactions
+
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+; To administer a contest, promotion, survey or other site feature
+
+; To send periodic emails
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), our policy is located at .
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Your Consent**
+
+By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+http://expert4x.com
+
+info@expert4x.com
+
+This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zendesk](http://www.rhinosupport.com/zendesk.htm) and save!
