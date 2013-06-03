@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beat100.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105011925id_/http%3A//www.beat100.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beat100.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603065628id_/http%3A//www.beat100.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BEAT100.com The Social Video Network
+# Privacy Policy - BEAT100.com Social Video And Music Network
 
 1) _Introduction_
 
