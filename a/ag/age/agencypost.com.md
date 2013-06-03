@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agencypost.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203030133id_/http%3A//www.agencypost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agencypost.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603154925id_/http%3A//www.agencypost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Agency Post
+# The Agency Post
 
 This Privacy Policy governs the manner in which The Agency Post collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.agencypost.com website (“Site”). This privacy policy applies to the Site and all products and services offered by The Agency Post.
 
@@ -34,6 +34,10 @@ We adopt appropriate data collection, storage and processing practices and secur
 Sharing your personal information
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+We may produce certain contests, sweepstakes and special events with the support of affiliated or non-affiliated sponsors and/or promotional partners. The personal information collected through the Website in conjunction with such events may also be used for the marketing of additional services and events by Agency Post and/or its promotional partners and sponsors beyond the contest, sweepstakes and/or special event. Depending on the event, visitors will be able to either grant their approval on how their personal information will be used before it is collected (“opt-in”), or choose to deny use of their information for additional purposes (“opt-out”).
+
+For each contest, sweepstakes, and/or special event, we will post on the Website applicable rules for the event, and if necessary, post any supplemental terms and conditions or privacy provisions. To the extent there is a conflict between those privacy provisions and this policy, the privacy provisions for the specific event will govern.
 
 Third party websites
 
