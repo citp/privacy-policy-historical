@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victeach.com.au privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201215432id_/http%3A//victeach.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victeach.com.au privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603232322id_/http%3A//victeach.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Victoria Teachers Mutual Bank
 
@@ -7,7 +7,7 @@ This Privacy Policy Statement sets out how Victoria Teachers Mutual Bank (the Mu
 **Your Personal Information  
 **
 
-The Mutual Bank collects personal information from you for managing your membership and supplying products and services to you. This information may include your name, addresses, date of birth, tax file number, contact details (including your telephone number, mobile telephone number and email address), employment details, financial position and other such information required to provide the product or service to you. Personal information may be obtained from any source and in respect of individual loan applicants and guarantors includes anything about credit worthiness, standing, history and capacity which, under or in accordance with the Privacy Act 1988, may be lawfully exchanged.
+The Mutual Bank collects personal information from you for managing your membership and supplying products and services to you. This information may include your name, addresses, date of birth, tax file number, contact details (including your telephone number, mobile telephone number and email address), employment details, financial position and other such information required to provide the product or service to you. We may also hold copies of documents that verify this information. Personal information may be obtained from any source and in respect of individual loan applicants and guarantors includes anything about credit worthiness, standing, history and capacity which, under or in accordance with the Privacy Act 1988, may be lawfully exchanged.
 
 Where personal information about you which we collect from third parties is sensitive information, such as health details, criminal record or information about your membership of a professional or trade association, we will take all reasonable steps to ensure the third party has obtained your consent to provide this information to us.
 
@@ -20,7 +20,7 @@ When we collect personal information including sensitive information about you, 
 We use your personal information for:
 
   * Assessing and processing applications for membership, products and services;
-  * Marketing the services of Victoria Teachers Mutual Bank, including banking, financial planning and insurance services;
+  * Marketing the services of the Mutual Bank, including banking, financial planning and insurance services;
   * Marketing any services which we provide with any of our commercial affiliates. Marketing material may be co-branded with our affiliate's logo;
   * Developing an understanding of the products and services you may be interested in receiving from us;
   * Managing the provision of services to you and enforcing our rights in connection with such services;
@@ -49,12 +49,11 @@ There may be occasions where the Mutual Bank will disclose your personal informa
 
 On occasions we may be required to forward some of your personal information overseas, such as in cases where we are attempting to resolve visa card fraud or when transferring funds internationally.
 
-The Mutual Bank does not sell, rent or lease any information about you to any third party including email listing marketing or market research companies.
+The Mutual Bank does not sell, rent or lease any information about you to any third party including email listing marketing or market research companies
 
 When we disclose your personal information we will always comply with the National Privacy Principles relating to disclosure.
 
-**Opt out  
-**
+**Opt out**
 
 You may call, email or write to the Mutual Bank at any time to opt out of receiving direct marketing material for products and services offered by the Mutual Bank or our affiliates at any time.
 
@@ -62,7 +61,7 @@ If you do opt out, we will only provide information relating to your existing ac
 
 **Accurate information**
 
-The Mutual Bank endeavors to keep your personal information as complete, accurate and up to date as possible.
+The Mutual Bank endeavours to keep your personal information as complete, accurate and up to date as possible.
 
 When we do so, we comply with National Privacy Principles relating to data quality.
 
@@ -90,10 +89,10 @@ Upon your request the Mutual Bank will provide you with information which we hol
 
 We will make our Privacy Policy Statement available to you at your request. For the ongoing prudent management of the Mutual Bank we may update this Privacy Policy Statement from time to time.
 
-If you would like to know more about the National Privacy Principles, please refer to the Office of the Australian Information Commissioner website: www.oaic.gov.au.
+If you would like to know more about the National Privacy Principles, please refer to the Office of the Australian Information Commissioner website: [www.oaic.gov.au](http://www.oaic.gov.au/).
 
 **Not Satisfied**
 
 A Complaint and Dispute Resolution Guide is available in our branches, on our website and by request. The guide is used to inform you on how to lodge a complaint, including who to contact and how the Mutual Bank aims to deal with the complaint. If you lodge a complaint you will be offered this guide.
 
-_Privacy Policy Statement last updated : 01 March 2012_
+_Privacy Policy Statement last updated : 6 December 2012_
