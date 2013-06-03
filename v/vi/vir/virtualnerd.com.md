@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virtualnerd.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003040125id_/http%3A//virtualnerd.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualnerd.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603035132id_/http%3A//virtualnerd.com/privacy.php) for the most accurate reproduction.*
 
-# Virtual Nerd: Real help in math and science
+# Virtual Nerd: Real math help for school and home
 
 Thank you for visiting Virtual Nerd, LLC’s (“Virtual Nerd”) Internet web site located at the URL www.virtualnerd.com (“Site”). This Privacy Policy details certain policies implemented throughout Virtual Nerd governing Virtual Nerd’s use of personally identifiable information about users of our Site and users of our services.
 
@@ -42,7 +42,7 @@ We may employ procedural and technological measures, consistent with industry pr
 
 Virtual Nerd provides you with the ability to review and update the registration information that you provide to us by accessing and modifying this information on your user profile page.
 
-### If you have any questions regarding this Privacy Policy please contact us via email at info@virtualnerd.com.
+If you have any questions regarding this Privacy Policy please contact us via email at info@virtualnerd.com.
 
 ## Users Outside of the United States
 
