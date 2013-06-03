@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentaiboys.com privacy policy that was archived on 2012-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120214045834id_/http%3A//hentaiboys.com/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaiboys.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603071843id_/http%3A//hentaiboys.com/html/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
