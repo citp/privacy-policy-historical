@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ffxivcore.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114213456id_/http%3A//www.curse.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffxivcore.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603195605id_/http%3A//www.curse.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Curse Network Privacy Policy - Curse
 
