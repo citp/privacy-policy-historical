@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careereagle.net privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217202618id_/http%3A//www.careereagle.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careereagle.net privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603151300id_/http%3A//www.careereagle.net/privacy.php) for the most accurate reproduction.*
 
 # Career Eagle - A fast and easy way to find jobs online
 
