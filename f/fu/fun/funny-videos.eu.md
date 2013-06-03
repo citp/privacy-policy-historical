@@ -1,40 +1,52 @@
-> *The following text is extracted and transformed from the funny-videos.eu privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920032225id_/http%3A//funny-videos.eu/docs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny-videos.eu privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604005047id_/http%3A//funny-videos.eu/docs/privacy.php) for the most accurate reproduction.*
 
-# None
+# Privacy Policy for Funny-Videos.eu
 
-We collect information from you when you register on our site. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Contact](mailto:contact@funny-videos.eu)
 
-When you registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
+At Funny-Videos.eu we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by Funny-Videos.eu and how we use it. 
 
-Google, as a third party vendor, uses cookies to serve ads on funny-videos.eu. Google's use of the DART cookie enables it to serve ads to funny-videos.eu users based on their visit to funny-videos.eu and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+**Log Files**  
+Like many other Web sites, Funny-Videos.eu makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-Any of the information we collect from you may be used in one of the following ways: 
+**Cookies and Web Beacons**  
+Funny-Videos.eu uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser. 
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+**Smowtion Cookie**  
+→ Smowtion, as a third party vendor, uses cookies to serve ads on Funny-Videos.eu.  
+→ Smowtion's use of the cookies enables it to serve ads to our site's visitors based upon their visit to Funny-Videos.eu and other sites on the Internet.   
+→ Users may opt out of the use of the Smowtion's cookie by visiting the Smowtion network privacy policy at the following URL - <http://www.smowtion.com/users/opt>
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+**Our Advertising Partners**  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+* Chitika
+* Smowtion
+* Infinityads
 
-We use cookies to understand and save your preferences for future visits and keep track of advertisements and .
+_While each of these advertising partners has their own Privacy Policy for their site[Chitika](http://chitika.com/privacy "Chitika's Privacy Center") [Smowtion](http://www.smowtion.com/en/users/privacy/ "Smowtion's Privacy Center") [Infinityads](http://www.infinityads.com/privacy-policy/ "Infinityads's Privacy Center")   
+You may follow this links to find the privacy policy for each of the advertising partners of Funny-Videos.eu._
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on Funny-Videos.eu and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. 
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Funny-Videos.eu has no access to or control over these cookies that are used by third-party advertisers. 
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), our policy is located at .
+**Third Party Privacy Policies**  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Funny-Videos.eu's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies above.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.whatarecookies.com/ "What Are Cookies")
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://funny-videos.eu/docs/tos.php>
+**Children's Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. Funny-Videos.eu does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that Funny-Videos.eu has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records. 
 
-By using our site, you consent to our [online privacy policy](http://funny-videos.eu/docs/privacy.php).
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms. 
 
-http://funny-videos.eu/docs/contact.php  
-contact@funny-videos.eu
+**Update**  
+This Privacy Policy was last updated on: Monday, June 4th, 2012. 
+
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
