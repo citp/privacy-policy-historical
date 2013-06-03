@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plannedparenthood.org privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226042545id_/http%3A//www.plannedparenthood.org/privacy-policy-5500.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plannedparenthood.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603060150id_/http%3A//www.plannedparenthood.org/privacy-policy-5500.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Planned Parenthood
 
