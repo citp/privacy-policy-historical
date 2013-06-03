@@ -1,96 +1,135 @@
-> *The following text is extracted and transformed from the trulia.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192038id_/http%3A//www.trulia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trulia.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603092353id_/http%3A//www.trulia.com/privacy) for the most accurate reproduction.*
 
 # Trulia Real Estate Search - Privacy Policy
 
 [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.trulia.com)
 
 ** TRULIA PRIVACY POLICY   
-(last updated May 25, 2011) **
+Effective Date for New Users: May 23, 2013 / Effective Date for Current Users: June 23, 2013 **
 
-This policy describes the types of information Trulia gathers from its users of the Trulia Web site at www.trulia.com, m.trulia.com and partner sites powered by the Trulia Search functionality and how that information is used. Please read this policy carefully before you provide us with any personal information. If you have questions about this policy, please email us at customerservice@trulia.com. 
+Welcome to Trulia! This document, our Privacy Policy, describes the types of information Trulia gathers from users of the Trulia website at www.trulia.com, our mobile website m.trulia.com, our mobile applications which you can download from [http://www.trulia.com/mobile/iphone/](https://web.archive.org/mobile/iphone/) and the information provided by users that visit our partner websites and use Trulia Search. It also describes how we use that information. We refer to all of our websites as our "Sites," and all of the services and functionalities that we provide - including our Sites and our mobile applications - as our "Services." 
 
-Trulia is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe. 
+Our Privacy Policy is incorporated as part of the [**Trulia Terms of Use**](https://web.archive.org/terms/). Please read this Policy and our Terms carefully before using our Services. By using Trulia's Services, you agree to the provisions of this policy. If you do not want to be bound by our Privacy Policy, please do not use our Services! 
 
-If you have questions or concerns regarding this statement, you should first contact us at customerservice@trulia.com. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.com/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+Changes to our Policy Since May 25, 2011. Changes include: 
 
-**Personal Information Collection and Use**
-
-When on the Trulia Site, you have the option of creating an account (e.g. when saving searches, signing up for alerts, following homes, sharing properties, contacting agents, etc.) and to subscribing to our premium service. When you sign up, we ask you to give us contact information (such as name and email address). We also may collect and store additional usage information such as where, what and when you are searching. We may use this information to contact you occasionally about the services on our site in which you have expressed interest, or to suggest Trulia tools and services to improve your home buying, selling or renting process. 
-
-If you purchase our premium service, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. 
-
-We use the information we collect to: 
-
-  * find the most relevant information by organizing the Web site optimally
-  * find relevant residential real estate-related news and information via email (if you have registered your email address)
+  * We added more information about how we categorize our users and what information we collect, use, and share. 
+  * We described our new functionality of obtaining enhanced data from third parties, our Facebook Connect functionality, and our Facebook advertising capabilities. 
+  * We clarified the circumstances under which we may disclose users' information to Real Estate Professionals (REPs) and for our new mortgage product. 
+  * We updated our cookie policy and further explained our use of cookies and other tracking technology to describe the specific types of cookies, beacons, and other technologies we use to analyze users' behavior and improve our Services. 
+  * We added information about location data and our mobile Services, including how and when we collect and share location and mobile data. 
+  * We added new terms to a newly added "General Matters" section to describe how you can delete your account and access your personally identifiable information, the fact that we do not collect children's information, and what happens to our users' data under a sale or merger. 
 
 
 
-You can control whether you receive Trulia emails by following the instructions at the end of each email we send. You may also opt-out by sending an email to customerservice@trulia.com. 
+**Why We Collect Information from You**
 
-We may also use the information you provide to allow us to contact you for administrative purposes; for example, to tell you about changes to our privacy policy. These emails generally are sent to all users in order for us to abide by notice or other requirements, or to inform you of important product or service information or changes. 
+Trulia is a real estate information service. To provide our Services, we use information we collect to: 
 
-We may use certain information that you provide in order to present you with advertising that you may find interesting. This benefits both of us. It benefits us because advertising helps pay the bills, and we can charge our advertisers more if they know that their ads will be seen by somebody more likely to find them useful. It benefits you because you see advertising that may actually be interesting to you, rather than annoying. 
+  * Help you find the most relevant information for your situation by customizing our Services to optimize your experience; 
+  * Keep you connected with Trulia across the Internet and update you with residential real estate-related news and information, if you allow us to do so; 
+  * Put you in touch with the right people to sell, buy, rent, or research residential real estate, obtain a mortgage, and to optimize the information we share with those parties to initiate a productive and efficient relationship. 
 
-**Disclosure of Personal Information**
 
-Trulia does not share, rent or sell personal information about you with other people or companies except as described in this privacy policy. For example, when you fill out a "contact the agent" form on a property listing page, or other "contact" form available on the site, the information you submit will be passed on to the agent, or the other party you have requested to contact. We reserve the right to use in any manner and also to disclose any non-personal information that we collect, including but not limited to cookie and traffic data (see "Cookies and Tracking Technologies"). We do not combine personal information with any of the non-personal information gathered on our site. 
 
-We may release personal information when we believe that doing so is appropriate to comply with the law (for example, to respond to a lawful subpoena, warrant or court order); to enforce or apply our policies; to initiate, render, bill, and collect for amounts owed to us; to protect our rights or property; to protect our users from fraudulent, abusive, or unlawful use of, our site or services; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay. 
+Our goal in this policy is to be completely transparent about the data we collect, why we collect it, and how we use it, in order to make finding your new home a pleasant and fun experience! 
 
-We may use third party service providers to assist us with the administration of the site or otherwise perform services on our behalf, including payment transaction processing and sending email. Such third parties may be supplied with or have access to your personal information solely to provide services to us or on our behalf. 
+**To Whom Does This Policy Apply?**
 
-We may use third-party ad servers (or ad networks) to deliver ads to you on our behalf. These third-party ad servers may collect and use non-personally identifiable information about your visits to our site in order to present advertisements that may be of interest to you. If you would like more information about this practice or to opt out of having this information used by third-party ad servers to provide targeted ads, please visit http://www.networkadvertising.org/optout_nonppii.asp. 
+Some parts of this Policy are directed at specific types of people. We use some special terminology to refer to them, which we define below. This Policy applies to everyone who uses our Services, but sometimes we direct parts of it toward particular groups of users. 
 
-Information about our users and the site is a business asset of Trulia. Consequently, information about our users, including personal information, will be disclosed as part of any merger or acquisition, creation of a separate business to provide the site, our services or fulfill products, sale or pledge of company assets as well as in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets of the company. 
+_Users:_ "Users" are everyone who uses our Services. 
 
-**Cookies and Tracking Technologies**
+_Real Estate Professionals (REPs):_ "Real Estate Professionals," or "REPs" are users who have created accounts (free or paid) with us to sell or rent real estate, participate in our advertising services, and participate in other Services that we direct toward the professional real estate community. REPs include landlords, agents, mortgage professionals and subscribers (described further below). We send leads to REPs on your behalf, as described in this Policy. 
 
-We log your IP address in order to help diagnose problems with our server, administer our Web site and track usage statistics. Your IP address may vary each time you visit, or it may be the same, depending on whether you access our site through an always-on type of Internet connection (for example, a cable modem or DSL), or through a dial-up connection (for example, through a dial-up AOL or Earthlink connection). Either way, it would be extremely difficult for us to identify you through your IP address, and we make no attempt to do so. If you reached our site by clicking on a link or advertisement on another site, then we also log that information. This helps us maximize our Internet exposure, and it helps us understand our users' interests. All of this information is collected and used only in the aggregate; that is, it is entered into our database, where we can use it to generate overall reports on our visitors, but not individual reports that identify you personally. 
+_Subscribers:_ "Subscribers" are REPs who participate in our paid subscription plans, like Trulia Pro. Subscribers, like all REPs, get leads from us, but they also may receive third-party augmented information as described in this Policy. 
 
-We also place a small text file known as a "cookie" on your computer's hard drive. A cookie may contain information that allows us to track your path through our Web site and to determine whether you have visited us before. Unless you register with us, however, a cookie contains no personally identifiable information that would allow us to identify you. Cookies cannot be used to read data off of your hard drive, and cannot retrieve information from any other cookies created by other Web sites. We use cookies to help us understand how visitors use our site, and to help us to improve our site. You may refuse to accept a cookie from us by following the procedures specific to your Web browser. Although you may do so, you may find that your browser reacts strangely when visiting not only our Web site, but other Web sites as well. Since cookies don't provide us with any information from which we can identify you, we suggest you allow us to place one on your computer. 
+**What Information Do We Collect, and Where Do We Get It?**
 
-We may use Web beacons on our site or other sites and may permit third parties to place them on our site to monitor the effectiveness of advertising or for other legitimate purposes. A Web beacon, also known as a "Web bug," is a small, graphic image on a Web page, Web-based document or in an e-mail message that is designed to allow the site owner or a third party to monitor who is visiting a site. Web beacons are often invisible to the user because they are typically very small (only 1-by-1 pixel) and the same color as the background of the Web page, document or e-mail message. Web beacons are represented as HTML IMG tags in the Web page; users can click on "view profiles" of the Web page to see whether the page is using a Web beacon. Web beacons collect the IP address of the computer that the Web beacon is sent to, the URL of the page the Web beacon comes from and the time it was viewed. Web beacons can also be linked to personal information. For example, advertising networks use Web bugs to add information to a personal profile of what sites a person is visiting and to determine what banner ads to display based on the profile. Another use of Web bugs is to provide an independent accounting of how many people have visited a particular Web site. Web bugs are also used to gather statistics about Web browser usage at different places on the Internet. To "opt-out," please visit http://www.doubleclick.com/privacy/index.aspx. 
+_We Collect Some Information From All Visitors to Our Site:_
 
-**Security**
+Like many online services, we use technologies like session and persistent cookies, web beacons (tiny image files on web pages that communicate information about the page viewer to the beacon owner), log data, and third-party analytics services to collect and analyze information about all users of our Services This includes things like users' search preferences, interaction with ads on our Site, and location. 
 
-We use commercially reasonable security measures to protect the loss, misuse, and alteration of the information under our control. However, we cannot guarantee the protection of information against interception, misappropriation, misuse, or alteration or that your information may be not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). You should be aware that we have no control over the security of other sites on the Internet you might visit, interact with, or from which you buy products or services. 
+Our servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device, search terms, and cookie information. We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our Services, or interact with our email notifications. We use Log Data to provide our Services and to measure, customize, and improve them collect and use in the aggregate. 
 
-**Share/Send-To-A-Friend**
+Cookies are small data files that we transfer to your computer. We use "session" cookies to keep you logged in while you use our Services, to better understand how you interact with our Services, and to monitor aggregate usage and web traffic information on our Services. We use "persistent" cookies to recognize you each time you return to our Services. For example, we create a persistent cookie that includes some basic information about you, like your most recent search and whether an agent responded to a query you sent using Trulia's services. We use this persistent cookie to remember your preferences and, if you create an account, to make your user experience consistent after you register. 
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Trulia stores this information for the sole purpose of sending this one-time email. Your friend may contact us at customerservice@trulia.com to request that we remove this information from our database. 
+Most Internet browsers automatically accept cookies, but you can change your settings or use third-party tools to refuse cookies or prompt you before accepting cookies from the websites you visit. You can also use your browser settings or other tools to delete cookies you already have. Please be aware that some parts of our Services may not work for you if you disable cookies. 
 
-**Links to Other Sites**
+_Information We Collect from Users with Trulia Accounts:_ When using our Services, you have the option to create an account (and for some REPs, to subscribe to our premium services). If you choose to create an account, we ask you to provide us with some limited personal information like your name and email address. We may use this information to contact you about the services on our Site in which you have expressed interest, or to suggest Trulia tools and services to improve your home buying, selling or renting process. If your browser permits the use of cookies, we will collect and store additional information using persistent cookies, as described above, and associate it with your account even if you are logged out. 
 
-This Web site contains links to other sites that are not owned or controlled by Trulia. Please be aware that we, Trulia, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site. 
+_Information We Collect from Users that Sign On with Facebook Connect_ : You can also log into Trulia using your Facebook name and password by clicking the Facebook Connect button. By using Facebook Connect, you are allowing Trulia to access some personally identifiable information in your Facebook account pursuant to the [Facebook Terms of Service](https://www.facebook.com/legal/terms). Facebook Connect will pre-populate your Trulia account during the sign-up process with information from your Facebook account. Trulia will also receive your Facebook ID number during this process. We use all of this information strictly in accordance with this Policy. 
 
-**Share This**
+_Information We Collect from REPs:_ If you create a REP account with us, whether as a landlord, agent, or subscriber, we will ask you to provide certain information in order to set up your account. We ask all REPs to provide a name, a company (if available), a phone number, and an email address. We also ask agents to provide a real estate license number. If you create a paid REP account and become a subscriber, we require you to submit all of the information required from landlords and agents as well as a description of your campaign. We will also collect financial data like credit card information and billing addresses from subscribers, so that we can handle billing. If you are a subscriber, a Trulia representative may call you to verify your information. 
 
-When you use "Share This" to bookmark and share our products and site, you will be taken to a third party site. Please note that these third party sites' privacy policies govern the collection and use of the information collected on those sites. 
+_Additional Information About You that We Obtain from Third Parties:_ We may sometimes obtain information about you from third parties and use it to help agents serve you better. For example, our partners may help us provide predictions of your income range and how likely you may be to purchase a home. We will share this augmented data only with selected REPs (subscribers) who you choose to share information with by contacting them through the Trulia Services. 
 
-**Q &A/Blogs/Testimonials**
+_Information We Collect When You Use the Trulia Mobile Application:_ When you use the Trulia mobile application, we may collect Log Data specific to your mobile device ("Mobile Log Data"), like your mobile device model, your operating system, your device ID, whether you are logged in or not, and information about how you use our app and mobile site, such as what properties you are viewing and whom you contact through the app. As explained below, we need this information in order to analyze how mobile users interact with our Site and Services so we can improve our Services and the ads we show you. This information is stored with your Trulia account. 
 
-If you post a question, answer or blog on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
+_Location Data:_ If you provide location information (like a ZIP code, street address, or even just a city) during the registration process or at any other time via your account settings, we will store that information and associate it with your account. 
 
-Professionals may add testimonials to their own profiles on Trulia and they are responsible for obtaining consent to publish any personal information of those persons who submit said testimonials to them. 
+If you use our mobile Site or app, we will collect location data directly from your device automatically if your device allows us to do so. In some circumstances, you may have to opt into sharing your location data with us. Additionally, your mobile device may provide you with choices about how and whether location data is shared with us. 
 
-We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. 
+We may use and store information about your location to provide localized features, to analyze our Services with the help of third-party analytics services, to provide you with relevant advertising and marketing materials, and otherwise to improve and customize our Services. 
 
-If you want to remove your personal information that is being displayed on our website under public pages, please contact us at customerservice@trulia.com. 
+**How We Share Your Information**
 
-**Access to Personally Identifiable Information**
+_Personally Identifiable Information:_ We will only share your personally identifiable information at your direction (e.g., when you request to contact a REP using our Services) and according to this Policy's terms. 
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by logging into your account or by emailing our Customer Support at customerservice@trulia.com or by contacting us by postal mail at the contact information listed below. 
+_Non-Personally Identifiable Information_ : In order to provide and improve our Services and to share relevant ads with you, we use and disclose to our advertising and analytics partners non-personally identifiable information that we collect, including cookie data, some log data, and mobile data. We also share anonymous profiles of users who view a property with REPs. We will never re-identify non-personally identifiable information by combining it with personally identifiable information. 
 
-**Policy Changes**
+Some of our Services require that you opt into additional sharing: 
 
-We reserve the right to change this policy should we deem it advisable to do so. If we make significant changes that affect the use or disclosure of your personal information, we will make reasonable efforts to notify you of the changes such as notifying you here, by email, or by means of a notice on our home page and will give you the opportunity to cancel your registration. 
+_Direct Contact with a REP_ : If you fill out a form to contact a REP (or use any other contact forms available on our Sites) or call a REP via our mobile site or app, we may share personally identifiable information that you share with us and information about your use of our Services with the party you wanted to contact. This may include data you input such as home search criteria or Log Data that we collect as you use the Services. If a REP wants to contact you based on the anonymized profile of Trulia pages you visited, we will contact you to see if we can make that connection. Sometimes, if we are working with a third party to improve the leads we provide to our subscriber REPs, we may provide that third party with additional but limited personally identifiable information for the sole purpose of their carrying out their duty to us. 
 
-**How to Contact Us**
+_Mortgage Services:_ If you request a mortgage quote using our services, you authorize us to share the personally identifiable information necessary for our partners to deliver the service. They are not permitted to use the information for any other purpose. 
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: 
+_Referrals:_ If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. Trulia stores this information for the sole purpose of sending this one-time email. Your friend may contact us at [customerservice@trulia.com](mailto:customerservice@trulia.com) to request that we remove this information from our database. 
 
-Trulia.com  
-116 New Montgomery Street, Suite 300  
-San Francisco, California 94105  
-customerservice@trulia.com 
+_Facebook Custom Audiences and Promotions:_ If you have not opted out of email communications with us, we will use your email address (and Facebook ID, if we have collected it) to promote Trulia content to you via Facebook's Custom Audiences feature and other Facebook advertising or promotional tools. The Custom Audiences feature allows us to reach out to our users via Facebook if those users have already shared their email addresses or Facebook IDs with us. 
+
+We do not allow anyone else to access the user lists we use for Facebook promotions, and Facebook itself will never receive any of our users' data. (Facebook receives a hash, a kind of digital fingerprint, of our users' data in order to make a match on its own servers, but they never receive any actual data.) If you do not want to receive promotions as part of our Custom Audiences campaigns, unsubscribe from our email list via one of the emails you receive from us, and we will remove you from our Custom Audiences list within 7 days. 
+
+_Social Sharing:_ When you use any social sharing function we may provide to share our products and Site (e.g., sharing on Facebook), your sharing activity will be processed through a third party's site or service. These third parties' privacy policies, not ours, govern the collection and use of the information collected on those sites. 
+
+_User-Generated Content:_ If you use our user-generated content services, like posting a question, answer or blog on this Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
+
+Professionals may add testimonials to their own profiles on Trulia. They are responsible for obtaining consent to publish any personal information of those persons who submit said testimonials to them. 
+
+We may post user content, including testimonials and reviews, on our website. Some of it may contain personally identifiable information. We obtain customers' consent via email prior to posting the testimonial to post their names along with their testimonial. 
+
+If you want to remove your personal information that is being displayed on our website under public pages, please contact us at [customerservice@trulia.com](mailto:customerservice@trulia.com). 
+
+_Protecting Ourselves and Our Users:_ We may release personal information when we believe that doing so is appropriate to comply with a legitimate law, regulation, or legal request; to enforce or apply our policies; to initiate, render, bill, and collect for amounts owed to us; to protect our rights or property; to protect the safety of our users; to address fraud, security, or technical issues; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay. 
+
+Website _Third-Party Ad Services:_ We use third-party ad services to deliver ads to you on our Services. These third-party ad servers may collect and use non-personally identifiable information about your visits to our Services in order to present advertisements that may be of interest to you. If you would like more information about this practice or to opt out of having this information used by third-party ad servers to provide targeted ads on our Sites, please visit <http://www.networkadvertising.org/optout_nonppii.asp>. 
+
+_Mobile Ad Networks and Analytics:_ For our mobile products, we use third-party service providers for the limited purpose of helping us analyze your Mobile Log Data and location data, so that we can improve and localize our services, show you relevant advertisements, and study the way our mobile users interact with our Sites and Services. 
+
+**General Matters**
+
+_Trulia Emails:_ You can control whether you receive Trulia emails by following the instructions at the end of each email we send. You may also opt-out by sending an email to [customerservice@trulia.com](mailto:customerservice@trulia.com). 
+
+_Accessing Your Personally Identifiable Information:_ If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by logging into your account or by emailing our Customer Support at [customerservice@trulia.com](mailto:customerservice@trulia.com) or by contacting us by postal mail at the contact information listed below. 
+
+_Deleting Your Account:_ While we will be sad to see you go, you can delete your account by contacting our customer service team at [customerservice@trulia.com](mailto:customerservice@trulia.com) or 888-466-3501. 
+
+_The Accuracy and Confidentiality of Your Account Information Is Your Responsibility:_ You are responsible for maintaining the secrecy and accuracy of your password, email address, and other account information at all times. We recommend a strong password that you do not use with other services. We are not responsible for personal data transmitted to a third party as a result of an incorrect email address. If you believe your password has been compromised, please change your password immediately via the Trulia Site or contact us at [customerservice@trulia.com](mailto:customerservice@trulia.com) for assistance. 
+
+_Children:_ Trulia does not knowingly collect or store any personal information about persons under the age of 13. If you believe a child is using this service without parent consent, please contact us at [customerservice@trulia.com](mailto:customerservice@trulia.com). 
+
+_Third-Party Websites:_ Our Site may contain links to other websites. When you click on one of these links, you are navigating to another website. We do not accept liability for misuse of any information by any website controller to which we may link. We also do not have any responsibility of liability for the content on websites that use the Trulia Search functionality. We encourage you to read the privacy statements of these sites, which may differ from ours. 
+
+_Sale / Merger:_ Information about our users and our Site is a business asset of Trulia. Consequently, information about our users, including personal information, will be disclosed as part of any merger or acquisition, creation of a separate business to provide the Site, our services or fulfill products, sale or pledge of company assets as well as in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets of the company. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+
+_Security:_ We use commercially reasonable security measures to protect the loss, misuse, and alteration of the information under our control. However, we cannot absolutely guarantee the protection of any information shared with us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
+
+_Policy Changes:_ We may update this privacy policy to reflect changes to our information practices. If we make any change in how we use your personal information we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+TRUSTe Program. Trulia, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, [www.trulia.com](http://www.trulia.com/) and does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [customerservice@trulia.com](mailto:customerservice@trulia.com) . If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+
+_Contacting Us:_ If you have any questions or suggestions regarding our privacy policy, please contact us at: 
+
+Trulia, Inc. 116 New Montgomery Street Suite 300, San Francisco, California 94105 
+
+[customerservice@trulia.com](mailto:customerservice@trulia.com)
