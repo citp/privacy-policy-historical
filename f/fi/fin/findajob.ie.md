@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findajob.ie privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109071828id_/http%3A//www.findajob.ie/About-Us/privacy-statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findajob.ie privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603045152id_/http%3A//www.findajob.ie/About-Us/privacy-statement.cfm) for the most accurate reproduction.*
 
 # Findajob Privacy Statement
 
