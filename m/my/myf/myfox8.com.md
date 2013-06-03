@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myfox8.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018140849id_/http%3A//myfox8.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfox8.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603164242id_/http%3A//myfox8.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MyFOX8.com – Greensboro, High-Point, Winston-Salem News & weather from WGHP Television FOX8
+# Privacy Policy | MyFOX8.com
 
 **PRIVACY POLICY**
 
