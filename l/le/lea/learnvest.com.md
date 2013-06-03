@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnvest.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203160650id_/http%3A//www.learnvest.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnvest.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604014151id_/https%3A//www.learnvest.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LearnVest
 
@@ -73,6 +73,7 @@ We will share your personal information with third parties only in the ways that
 
     * Authorized service providers: We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include processing credit card payments, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
     * Other Situations. We also may disclose your information:
+      * For our premium members, we may share information with non-affiliated financial companies with whom we may jointly market products.
       * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
       * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreement s or policies.
       * If LearnVest is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
@@ -147,4 +148,12 @@ A cookie is a small text file that is stored on a user’s computer for record k
 
 Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence. Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
 
- _Last Updated: August 23, 2012_
+##### Third party collection and use of your data
+
+When you use or connect to a LearnVest Inc website or download a LearnVest Inc mobile app by or through a Third Party Platform, such as Facebook or other social networking site, you allow us to access and/or collect certain information from your Third Party Platform profile/account (such as your Facebook account) or via any cookies placed on your device by such Third Party Platform as permitted by the terms of the agreement and your privacy settings with the Third Party Platform. We will share such information with the Third Party Platform for their use as permitted by the terms of the agreement and your privacy setting with the Third Party Platform.”
+
+We will share some of the information we collect from you upon install of the mobile app with vendors and other service providers who are engaged by or working with us in connection with the operation of the services we provide to you and/or for analytics purposes which may require the reproduction and display of such information in an aggregated and anonymized manner such that will not in any way identify you.”
+
+You may “opt out” of the collection of your information for third party analytics purposes by following the directions provided by our third party analytics vendor located at [www.mobileapptracking.com/privacy-policy](http://www.mobileapptracking.com/privacy-policy/). If you “opt out” with our third party analytics provider, that action is specific to the information we collect specifically for that provider, and does not limit our ability to collect information from you, under the terms of this privacy policy, for other vendors.”
+
+ _Last Updated: January 24, 2013_
