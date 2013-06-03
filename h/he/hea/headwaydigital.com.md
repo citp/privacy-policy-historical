@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the headwaydigital.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003021447id_/http%3A//headwaydigital.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headwaydigital.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603020216id_/http%3A//headwaydigital.com/privacy) for the most accurate reproduction.*
 
 # Headway Digital – Smart media solutions for an emerging world.
 
