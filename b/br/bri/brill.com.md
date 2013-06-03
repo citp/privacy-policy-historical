@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brill.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119234408id_/http%3A//www.brill.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brill.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603024258id_/http%3A//www.brill.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | BRILL
 
@@ -10,7 +10,7 @@ BRILL is concerned about privacy and guards your data closely. We value our rela
 
 The Dutch government has updated the Privacy and Electronic Communications Regulations in response to the EU Privacy Directive.
 
-Brill is currently in the process of auditing the use of cookies across its sites. Information on the types of cookies Brill uses are listed [**on this page**](http://www.brill.com/privacy-statement/brill-and-its-use-cookies). In the near future, Brill will allow visitiors to actively block any cookies we use.
+Brill is currently in the process of auditing the use of cookies across its sites. Information on the types of cookies Brill uses are listed **below**. In the near future, Brill will allow visitiors to actively block any cookies we use.
 
 Brill summarize its position as folllows:
 
@@ -31,3 +31,41 @@ Security
 BRILL uses industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you on our site.
 
 The BRILL Publications Privacy Policy is subject to change at any time.
+
+**What are cookies?**
+
+Cookies are small text files that the web sites you visit place on your computer to store information about your visit. Cookies are 'passive' in that they contain information your browser can retrieve, but do not contain programmes, viruses or malicious software. Cookies normally expire after a certain length of time, although that time can be anywhere from a few minutes to more than a year.
+
+Cookies can be divided into two categories: 'session' and 'persistent'. Session cookies are temporary and are deleted when you close your browser or after a period of inactivity. Persistent cookies remain on your computer until the expiration date/time set by the cookie creator.
+
+**What do cookies do?**
+
+Cookies can contain many types of information about your visit to a particular web site, but most commonly are used to store the preferences you've selected, such as language, shopping cart contents, privacy settings and login state. Cookies do not contain personal or private data about you, but can compile information about your browsing habits. For the most part, cookies enhance your browsing experience by keeping you from having to select the same options each time you visit a site.
+
+However, cookies can also be used by web sites to serve you advertising targeted to your particular interests based on the preferences you've selected or the content of the pages you have visited. For this reason, some web users choose to delete or reject cookies of certain types or from certain sites.
+
+**What cookies does Brill use?**
+
+Brill uses non-functional cookies to enable Google Analytics and "Share" or "Like" buttons from social media sites such as Twitter, Facebook and Google +. The use by Brill of these non-functional cookies falls under the Netherlands Government’s current interpretation of the new **EU Cookie Law** which gives a web user the choice to block their use on any website that they visit. Brill is currently developing a servcie that will enable each visitor to set their own cookie settings.
+
+**What is Google Analytics?**
+
+Google Analytics is a popular web analytics service provided by Google, Inc. Google Analytics uses cookies to help us to analyze how users use Brill’s sites. It counts the number of visitors and tells us things about their behavior overall – such as the typical length of stay on the site or the average number of pages a user views. This helps us optimize the site and improve services, hopefully making a better, more intuitive website for our users.
+
+**Can I delete cookies?**
+
+Yes, you can both view the cookies stored on your computer and delete some or all of them. However, each browser has a slightly different procedure for doing so. Here are instructions for deleting cookies in some popular browsers:
+
+[_http://www.pcworld.com/article/242939/how_to_delete_cookies.html_](http://www.pcworld.com/article/242939/how_to_delete_cookies.html)
+
+Note that in some cases, deleting cookies will impact your experience in revisiting a site. For example on Brill’s sites you will not be able to use share buttons (for Facebook or Twitter), or you may be forced to log in again.
+
+**Can I set my browser to block cookies?**
+
+Yes, most browsers allow you to specify which types of cookies you will accept or to reject all cookies. As each browser is different, here are some of the most common ones:
+
+  * Firefox [http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)
+  * Internet Explorer <http://support.microsoft.com/kb/196955>
+  * Chrome [http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647&p=cpn_cookies](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647&p=cpn_cookies)
+
+
