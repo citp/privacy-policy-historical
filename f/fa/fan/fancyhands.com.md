@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fancyhands.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010070751id_/http%3A//www.fancyhands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fancyhands.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603164141id_/http%3A//www.fancyhands.com/privacy-policy) for the most accurate reproduction.*
 
 # Fancy Hands - Privacy Policy
 
@@ -12,7 +12,7 @@ We will never sell, rent or give away any of your personal information.
 
 ## Financial Information
 
-When a user subscribes to the service, all of the payment functionality is handled by secure servers at recurly.com. At no point do we ever have access to your credit card number of any financial information. We will never ask for this information in the process of completing a task for you.
+When a user subscribes to the service, all of the payment functionality is handled by secure servers at recurly.com. At no point do we ever have access to your credit card number or any financial information. We will never ask for this information in the process of completing a task for you.
 
 ## Who owns this site?
 
