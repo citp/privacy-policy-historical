@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the irobot.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225021246id_/http%3A//store.irobot.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irobot.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603154842id_/http%3A//store.irobot.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # iRobot: Help Desk
 
 Privacy Policy
 
-iRobot Corporation ("iRobot", "we" or "us") recognizes that the users and customers ("you") of this Web site, store.irobot.com (this "Web Site"), care how information about them is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site.
+iRobot Corporation ("iRobot", "we" or "us") recognizes that the users and customers ("you") of this Web site, www.irobotstore.com (this "Web Site"), care how information about them is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site.
 
 Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web Site and, where applicable, through this Web Site's Customer Service Department in connection with this Web Site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means.
 
@@ -32,7 +32,7 @@ We may share personal information that you provide to us through this Web Site o
 
 We may release personal information if we believe in good faith that: the law or legal process requires it; we have received a valid administrative request from a law enforcement agency; or such release is necessary to protect the rights, property or safety of iRobot, or any of our affiliates, service providers, customers or others.
 
-We may share non-personal information with our marketing partners, advertisers and others from time to time. Examples of such non-personal information include the number of users who visited this Web Site during a specific time period or purchased a specific product through this Web Site. This information generally is shared in an aggregated form.
+We may share non-personal information with our marketing partners, advertisers and others from time to time. Examples of such non-personal information include the number of users who visited this Web Site during a specific time period or purchased a specific product through this Web Site. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here.](http://www.networkadvertising.org/managing/opt_out.asp) This information generally is shared in an aggregated form.
 
 As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that iRobot, or substantially all of its assets related to this Web Site, is acquired by a third party, such information may be one of the transferred assets. Under such circumstances iRobot would to the extent possible require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time.
 
