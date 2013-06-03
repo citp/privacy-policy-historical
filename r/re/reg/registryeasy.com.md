@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the registryeasy.com privacy policy that was archived on 2012-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120226091102id_/http%3A//www.registryeasy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registryeasy.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603151636id_/http%3A//www.registryeasy.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Registry Easy
 
 [](http://registryeasy.com/register/)
 
-## Registry Easy™ is an excellent Windows Registry Cleaner that scans your PC and safely cleans errors & invalid entries that cause system slowdowns, freezing and crashing. Registry Easy™ repairs registry problems to make your computer run like new again!
+## Registry Easy™ is an award-winning Windows Registry Cleaner that helps you scan your PC safely. Registry Easy™ cleans the errors & invalid entries that cause system slowdown, freezing and crashing. Repair registry problems! Improve your PC performance!
 
 * * *
 
@@ -45,4 +45,4 @@ The Web Site may contain links to other web sites. Registry Easy.com does not mo
 RegistryEasy.com may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy.
 
 6\. CONTACT INFORMATION  
-For questions regarding this Privacy Policy please [**Contact us**](https://web.archive.org/web/20120226091102id_/http%3A//www.registryeasy.com/contact.php).
+For questions regarding this Privacy Policy please [**Contact us**](https://web.archive.org/web/20130603151636id_/http%3A//www.registryeasy.com/contact.php).
