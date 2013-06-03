@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazymike.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103145138id_/http%3A//www.lazymike.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazymike.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603090946id_/http%3A//www.lazymike.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
