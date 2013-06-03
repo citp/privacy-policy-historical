@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whattoexpect.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211003433id_/http%3A//www.whattoexpect.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whattoexpect.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603182059id_/http%3A//www.whattoexpect.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy -- Ask Heidi -- WhatToExpect.com
 
