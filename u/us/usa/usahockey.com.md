@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usahockey.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113151637id_/http%3A//www.usahockey.com/Footer/FooterPrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usahockey.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603090849id_/http%3A//www.usahockey.com/Footer/FooterPrivacyStatement.aspx) for the most accurate reproduction.*
 
 # USA Hockey
 
@@ -22,7 +22,7 @@ This Privacy Statement was last revised on August 27, 2007.
 
  **How We Use Personal Information.**   We use your personal information to provide the information, offerings and services you request, confirm your membership to USAH or your registration to an event, or to fill orders you place in our Store.  For example, we use your e-mail address to respond to your comments and questions or to send e-mail newsletters.  We may use your personal information to personalize our Sites to meet your specific needs. 
 
-We also use personal information collected through our Sites to improve the content and functionality of our Sites, to better understand our visitors and members, to improve our offerings and services, and to market our events, offerings and services to our visitors and members.  In addition, we use personal information to contact you with offers and information about events, offerings and services from other organizations that we believe will be of interest to you.  If you would prefer that we not contact you for such purposes, you may indicate this preference by sending an email to unsubscribe@usahockey.org or by writing us at
+We also use personal information collected through our Sites to improve the content and functionality of our Sites, to better understand our visitors and members, to improve our offerings and services, and to market our events, offerings and services to our visitors and members.  In addition, we use personal information to contact you with offers and information about events, offerings and services from other organizations that we believe will be of interest to you.  If you would prefer that we not contact you for such purposes, you may indicate this preference by sending an email to unsubscribe-all@usahockey.org or by writing us at
 
 USA Hockey, Inc.,  
 1775 Bob Johnson Drive  
@@ -35,7 +35,7 @@ We will use reasonable efforts to honor such requests.  You must understand, ho
 
 If you would prefer that we not share your personal information with our affiliated organizations or business partners, you may indicate this preference by sending an email to
 
-unsubscribe@usahockey.org
+unsubscribe-all@usahockey.org
 
 or by writing us at;
 
