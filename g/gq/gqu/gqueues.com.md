@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the gqueues.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114005923id_/https%3A//www.gqueues.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gqueues.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603225032id_/https%3A//www.gqueues.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GQueues
 
-##### Effective Date: January 20, 2012
+##### Effective Date: January 1, 2013
 
 [](https://privacy.truste.com/privacy-seal/GQueues/validation?rid=aa0d40dc-3730-46ae-ac58-e0c53e5f5d8e "TRUSTe online privacy certification")
 
-GQueues is an internet list and task management application. At GQueues we recognize that privacy is important. This policy describes the types of personal information we may collect on [www.gqueues.com](http://www.gqueues.com/) and how we use it to provide the GQueues web application.
+GQueues is an internet list and task management application. At GQueues we recognize that privacy is important. This policy describes the types of personal information we may collect on [www.gqueues.com](https://www.gqueues.com/) and how we use it to provide the GQueues web application.
 
 By using the GQueues web application, you agree to the collection and use of your personal information as described in this policy. You should know that we collect limited account information and store and maintain your account and list contents on Google's secure servers. We will never rent, sell, or share information that personally identifies you for marketing purposes without your express permission.
 
 To comply with the Children's Online Privacy Protection Act, at this time GQueues is only available to users who are at least 13 years old. If you are under 13, please do not use the GQueues web application.
 
-GQueues LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, [www.gqueues.com](http://www.gqueues.com/) and does not cover information that maybe collected behind the log in on our website or mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@gqueues.com](mailto:privacy@gqueues.com). If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
+GQueues LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, [www.gqueues.com](https://www.gqueues.com/) and does not cover information that maybe collected behind the log in on our website or mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@gqueues.com](mailto:privacy@gqueues.com). If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
 
 #### INFORMATION WE COLLECT AND HOW WE USE IT
 
@@ -26,7 +26,7 @@ GQueues also may collect information about the use of your account, such as how 
 
 We may share with third parties certain pieces of aggregated, non-personal information, such as how many users clicked on a particular advertisement. Such information does not identify you individually.
 
-We may also disclose your personal information as required by law such as to comply with a subpoena, or similar legal process.
+We may also disclose your personal information as required by law such as to comply with a subpoena, or similar legal process. If GQueues is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, and to any other third party with your prior consent to do so.
 
 ##### Google Wallet
 
@@ -70,7 +70,7 @@ If you provide us personal information about others, or if others give us your i
 
 ##### Blogs
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [cancel@gqueues.com](mailto:cancel@gqueues.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ##### Links to Other Web Sites
 
