@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourdeal.com.au privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222121459id_/http%3A//www.ourdeal.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourdeal.com.au privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603153159id_/http%3A//www.ourdeal.com.au/privacy) for the most accurate reproduction.*
 
 # None
 
