@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spellingcity.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122081510id_/http%3A//www.spellingcity.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spellingcity.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603074712id_/http%3A//www.spellingcity.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,9 +16,9 @@ Please read this Privacy Policy carefully because it describes our privacy pract
 
 You should be aware that if you register for an account as a parent or educator, your name and user name become viewable by the public. VocabularySpellingCity.com has no method for verifying whether someone who registers as a teacher at a particular school is truly that teacher or works at that school.
 
-Therefore it is possible for a person to register and post while posing as a teacher or parent when they are not actually a teacher or parent. It is actually common on the internet for people to register using false information about themselves. On at least one occassion, someone (a student or someone else) has posed as a particular teacher to post a "spoof" list and/or comments. 
+Therefore it is possible for a person to register and post while posing as a teacher or parent when they are not actually a teacher or parent. It is actually common on the internet for people to register using false information about themselves. On at least one occasion, someone (a student or someone else) has posed as a particular teacher to post a "spoof" list and/or comments. 
 
-All VocabularySpellingCity.com users should be aware of this possibility and take appropriate precautions. When made aware of a fradulent account, VocabularySpellingCity.com will take measures to ban that user. However, these measures are limited to closing the particular account and banning future registrations using the particular email.
+All VocabularySpellingCity.com users should be aware of this possibility and take appropriate precautions. When made aware of a fraudulent account, VocabularySpellingCity.com will take measures to ban that user. However, these measures are limited to closing the particular account and banning future registrations using the particular email.
 
  **Appropriateness  
 **  
@@ -66,7 +66,7 @@ Registration with VocabularySpellingCity.com includes an option to receive perio
 
  **Notice to California Residents: Your California Privacy Rights  
 **  
-Effective January 1, 2005, California Civil Code Secton 1798.83 permits our customers who are California residents to request cerain information regarding our dislcosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at:
+Effective January 1, 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at:
 
 VocabularySpellingCity.com  
 Attention: California Privacy Rights Request  
