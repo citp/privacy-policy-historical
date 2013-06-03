@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animecharactersdatabase.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919102427id_/https%3A//www.animecharactersdatabase.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animecharactersdatabase.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603213015id_/http%3A//animecharactersdatabase.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Anime Characters Database
 
@@ -121,7 +121,3 @@ You can disable 3rd Party content server side by using the button below. This wi
     
     
     
-
-  
-  
-
