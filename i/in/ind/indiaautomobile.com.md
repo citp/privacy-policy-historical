@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaautomobile.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504034003id_/http%3A//www.indiaautomobile.com/index.php%3Foption%3Dsite%26page%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaautomobile.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603071958id_/http%3A//www.indiaautomobile.com/index.php%3Foption%3Dsite%26page%3Dprivacypolicy) for the most accurate reproduction.*
 
 # IndiaAutomobile.com
 
