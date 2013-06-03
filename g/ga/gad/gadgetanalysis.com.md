@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gadgetanalysis.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019005429id_/http%3A//www.gadgetanalysis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetanalysis.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603041632id_/http%3A//www.gadgetanalysis.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - gadgetanalysis.com | GadgetAnalysis
+
+## Privacy Policy
 
 gadgetanalysis.com may from time to time collect name, email address and/or details of website visitors. This may include the content of the mailing lists, any blog comments entered or any content in any other section. These details will not be passed onto any other third party or other organization unless we are required to by government or other law enforcement authority.
 
