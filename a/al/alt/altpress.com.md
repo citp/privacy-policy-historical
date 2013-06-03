@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the altpress.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216155334id_/http%3A//altpress.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altpress.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603051151id_/http%3A//www.altpress.com/page/privacypolicy) for the most accurate reproduction.*
 
-# Alternative Press
+# Privacy policy - Alternative Press
 
-##  Privacy policy
+## Privacy policy
 
 **AP MAGAZINE PRIVACY POLICY**
 
