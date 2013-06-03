@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catsone.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206213018id_/http%3A//www.catsone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catsone.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603105149id_/http%3A//www.catsone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CATS Applicant Tracking System
 
@@ -22,7 +22,7 @@ The Site may include access to and use of blogs or other message areas that allo
 
 #### Our Collection of Your Data
 
-In addition to the personal information you supply, we collect certain information to evaluate how visitors, guests, and members use the Site. We collect data to make our service work better for you in the following ways: to improve the design of the Site, to provide personalization on the Site and to evaluate the performance of our marketing programs. The technologies we use to gather this non-personal information may include “IP” addresses, “cookies”, “clear gifs”, browser detection, and “weblogs”.
+In addition to the personal information you supply, we collect certain information to evaluate how visitors, guests, and members use the Site. We collect data to make our service work better for you in the following ways: to improve the design of the Site, to provide personalization on the Site and to evaluate the performance of our marketing programs. The technologies we use to gather this non-personal information may include “IP” addresses, “cookies”, “clear gifs”, browser detection, and “weblogs”. 
 
 #### How We Use Information
 
