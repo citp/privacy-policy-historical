@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogiproducts.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225100124id_/http%3A//www.yogiproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogiproducts.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603181046id_/http%3A//www.yogiproducts.com/privacy-policy) for the most accurate reproduction.*
 
 # Yogi - Privacy Policy
 
