@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hudson.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126025931id_/http%3A//us.hudson.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hudson.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603150930id_/http%3A//us.hudson.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - US | Hudson
 
