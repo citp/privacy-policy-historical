@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdvine.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230191427id_/http%3A//www.crowdvine.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdvine.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603191058id_/http%3A//crowdvine.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy - Create a Social Network for Your Event or Group
 
