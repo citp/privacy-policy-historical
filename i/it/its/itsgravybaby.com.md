@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itsgravybaby.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121225252id_/http%3A//itsgravybaby.com/2011/08/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsgravybaby.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603211616id_/http%3A//itsgravybaby.com/2011/08/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - It's Gravy, Baby!
 
 This Privacy Policy governs the manner in which It’s Gravy, Baby! collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.itsgravybaby.com](http://www.itsgravybaby.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by It’s Gravy, Baby!.
 
@@ -63,5 +63,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 whitney.baugh@yahoo.com
 
 This document was last updated on September 14, 2011
-
-[ ](http://www.linkwithin.com/)
