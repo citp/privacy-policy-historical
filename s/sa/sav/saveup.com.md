@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveup.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023045547id_/https%3A//www.saveup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveup.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603034754id_/https%3A//www.saveup.com/privacy) for the most accurate reproduction.*
 
 # SaveUp
 
