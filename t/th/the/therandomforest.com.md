@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the therandomforest.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127125210id_/http%3A//therandomforest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therandomforest.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603042546id_/http%3A//therandomforest.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Random Forest
+# Privacy Policy
 
 As a fellow Internet user myself, I totally respect your online privacy. So it goes without saying that I’m fully committed to safeguarding your online privacy while you’re here at www.therandomforest.com website.
 
@@ -34,21 +34,3 @@ Companies like Google develop interest categories by recognizing the types of we
 
 **What You Can Do**  
 If all of this bothers you, don’t worry. You can easily chose to disable or selectively turn off our cookies or third-party cookies in your browser settings. Or, you can use the preferences in programs such as Norton Internet Security. However, you need to understand that this can affect how you are able to interact with our site (as well as other websites.) This could include the inability to login to services or programs, such as logging into forums or accounts.
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Ftherandomforest.com%2Fprivacy-policy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Ftherandomforest.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Ftherandomforest.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Ftherandomforest.com%2Fprivacy-policy%2F&title=Privacy%20Policy&bodytext=As%20a%20fellow%20Internet%20user%20myself%2C%20I%20totally%20respect%20your%20online%20privacy.%20So%20it%20goes%20without%20saying%20that%20I%27m%20fully%20committed%20to%20safeguarding%20your%20online%20privacy%20while%20you%27re%20here%20at%20www.therandomforest.com%20website.%0D%0A%0D%0AAnd%20that%27s%20precisely%20why%20I%27ve%20dec "Digg")
-  * [](http://reddit.com/submit?url=http%3A%2F%2Ftherandomforest.com%2Fprivacy-policy%2F&title=Privacy%20Policy "Reddit")
-  * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Ftherandomforest.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Ftherandomforest.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=As%20a%20fellow%20Internet%20user%20myself%2C%20I%20totally%20respect%20your%20online%20privacy.%20So%20it%20goes%20without%20saying%20that%20I%27m%20fully%20committed%20to%20safeguarding%20your%20online%20privacy%20while%20you%27re%20here%20at%20www.therandomforest.com%20website.%0D%0A%0D%0AAnd%20that%27s%20precisely%20why%20I%27ve%20dec "Delicious")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Ftherandomforest.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=The+Random+Forest+Random+News+and+Interest&summary=As%20a%20fellow%20Internet%20user%20myself%2C%20I%20totally%20respect%20your%20online%20privacy.%20So%20it%20goes%20without%20saying%20that%20I%27m%20fully%20committed%20to%20safeguarding%20your%20online%20privacy%20while%20you%27re%20here%20at%20www.therandomforest.com%20website.%0D%0A%0D%0AAnd%20that%27s%20precisely%20why%20I%27ve%20dec "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Ftherandomforest.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
-  * 
-
-
-### Written by 
-
-Posted on December 29, 2008 at 9:59 am
