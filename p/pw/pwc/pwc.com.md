@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pwc.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023053815id_/http%3A//www.pwc.com/gx/en/site-information/index.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwc.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603143925id_/http%3A//www.pwc.com/gx/en/site-information/index.jhtml) for the most accurate reproduction.*
 
 # PwC's privacy commitment
 
 ## Internet privacy policy
 
-The data controller collecting the data described herein is PricewaterhouseCoopers LLP, the United States professional services firm, and PricewaterhouseCoopers LLP, the UK professional services firm. Personal data collected by PwC may be transferred to other individual PwC firms, which are member firms of the worldwide PwC organisation, where it is necessary to meet the purpose for which the visitor has submitted the information. By submitting data on PwC's website, the visitor is providing explicit consent to transborder transmission of data collected on the website for the fulfilment of their voluntary requests.
+The data controller collecting the data described herein is the PwC firm in the visitor’s country or otherwise the PwC firm to which the visitor has submitted their data. Personal data collected by PwC may be transferred to other individual PwC firms, which are member firms of the worldwide PwC organisation, where it is necessary to meet the purpose for which the visitor has submitted the information. By submitting data on PwC's website, the visitor is providing explicit consent to transborder transmission of data collected on the website for the fulfilment of their voluntary requests.
 
 ## Data collection 
 
