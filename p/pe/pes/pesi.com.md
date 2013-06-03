@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pesi.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202174146id_/http%3A//pesi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pesi.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603081548id_/http%3A//pesi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ Our e-commerce software requires visitors to accept a cookie when browsing or sh
 
 Although you may request to be added to our house file at any time, placement of an order or registration will add you and your contact information automatically.  We will use this information to make any necessary clarifications to your order/registration, to confirm receipt of payment, and to inform you of any significant changes in product ship date, seminar outline or seminar location that may affect you.  You may also receive further communication regarding comparable products and upcoming seminars.  Inquiries and other direct contact that does not pertain to a request to be added to our house file or placement of an order/registration will not result in the capture and storage of your contact information.
 
-Although we do not sell e-mail addresses, we may, upon occasion, sell the names, physical addresses, and possibly phone numbers from our house file to an agency of an appropriate and related purpose.  By supplying your contact information and allowing yourself to be added to our house list, it is assumed that you agree to this practice unless you specifically indicate otherwise.  
+Although we do not sell e-mail addresses, we may, upon occasion, sell the names and physical addresses from our house file to an agency of an appropriate and related purpose.  By supplying your contact information and allowing yourself to be added to our house list, it is assumed that you agree to this practice unless you specifically indicate otherwise.  
 
 If at anytime you wish to update your contact information or be removed entirely from our house file, please [contact us](https://web.archive.org/contact/) and specify the appropriate changes.  If you would like to remain on our house list but would like to discontinue a specific form of communication (i.e. fax or e-mail), please contact us and let us know what type of communication you would no longer like to receive.
 
