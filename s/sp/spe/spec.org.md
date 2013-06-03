@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spec.org privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122021211id_/http%3A//www.spec.org/spec/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spec.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603192255id_/http%3A//www.spec.org/spec/privacy_policy.html) for the most accurate reproduction.*
 
 # SPEC Privacy Policy
 
@@ -20,6 +20,13 @@
 
 
 
+**Tools**
+
+  * [SERT](https://web.archive.org/sert/)
+  * [PTDaemon](https://web.archive.org/power/docs/SPECpower-Device_List.html)
+
+
+
 **Order Benchmarks**
 
   * [Order Form](https://web.archive.org/order.html)
@@ -35,7 +42,6 @@
   * [Trademarks](https://web.archive.org/spec/trademarks.html)
   * [Fair Use Policy](https://web.archive.org/fairuse.html)
   * [Upcoming Events](https://web.archive.org/events/)
-  * [Workshops](https://web.archive.org/workshops/)
   * [Contact](https://web.archive.org/spec/contact.html)
 
 
