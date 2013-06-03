@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the bonanza.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125004718id_/http%3A//www.bonanza.com/site_help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonanza.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603052132id_/http%3A//www.bonanza.com/site_help/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bonanza
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.bonanza.com&sealid=101)
-
 At Bonanza, we take your privacy very seriously. This privacy policy applies exclusively to www.bonanza.com and http://www.bonanzle.com. Please read this policy (henceforth, "Policy") to see how Bonanza handles your personal information that you give to us when you register to use our website (the "Site"). This Policy only covers employees of Bonanza and the information we collect on the Site and does not extend to people, or companies that Bonanza does not employ or manage. We reserve the right to modify this Policy. We will notify you of substantial changes to this Policy by telling you about them in the forums. Should we make a material change to the manner in which we handle your collected personal information, we shall place a prominent notice on the Site, or notify you by email prior to the change becoming effective.
-
-Bonanza has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@bonanza.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 We do not share your personal information with third parties for their promotional purposes.
 
@@ -86,7 +82,7 @@ The Site contains links to other web sites. Bonanza is not responsible for the p
 
 ## Behavioral Targeting / Re-Targeting
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. 
 
 ## Single Sign-On
 
