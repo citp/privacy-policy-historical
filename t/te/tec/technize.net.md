@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the technize.net privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202182809id_/http%3A//www.technize.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technize.net privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604233803id_/http%3A//www.technize.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Technize.NET
+# Privacy Policy - Technize.NET Technology Blog
 
-If you have any questions about our privacy policy, you can [contact us](http://www.technize.net/contact/ "Contact us") from our website or email directly to usman@technize.com.
+If you have any questions about our privacy policy, you can [contact us](http://www.technize.net/contact/ "Contact us") from our website or email directly to support@technize.net.
 
 ## Information we collect and how we use it
 
@@ -32,4 +32,4 @@ Specifically, we may use Google Adsense for advertising on our site, here is an 
 
 > Google uses the [ DoubleClick cookie](http://support.google.com/adsense/bin/answer.py?answer=2839090) on publisher websites displaying AdSense for content ads. Subject to any applicable laws, rules and regulations, you will have the sole and exclusive right to use all data derived from your use of the DoubleClick cookie for any purpose related to your business, provided that Google may use and disclose this data subject to the terms of [Google’s advertising privacy policies](http://www.google.com/intl/en/privacy/ads/privacy-policy.html) and any applicable laws, rules and regulations.
 
-This Privacy Policy was last revised on November 5, 2012.
+This Privacy Policy was last revised on February 3, 2012.
