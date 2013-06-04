@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sitepointmarket.com privacy policy that was archived on 2012-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121031084632id_/http%3A//sitepointmarket.com/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sitepointmarket.com privacy policy that was archived on 2013-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604223540id_/http%3A//sitepointmarket.com/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en"><head>
 	<title>Classified Listing Guidelines</title>
@@ -12,8 +12,8 @@
 	<link rel="search" type="application/opensearchdescription+xml" title="SitePoint Market Search" href="http://search.sitepoint.com/opensearch.xml">
 
 	
-<!-- Start Google Ads -->
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+<!-- Start Google Ads (old style) -->
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
 <script type="text/javascript">
 GS_googleAddAdSenseService("ca-pub-9603645151104616");
@@ -21,10 +21,6 @@ GS_googleEnableAllServices();
 </script>
 <script type="text/javascript">
 GA_googleAddSlot("ca-pub-9603645151104616", "marketplace_728x90");
-GA_googleAddSlot("ca-pub-9603645151104616", "marketplace_300x100_A");
-GA_googleAddSlot("ca-pub-9603645151104616", "marketplace_300x100_B");
-GA_googleAddSlot("ca-pub-9603645151104616", "marketplace_300x100_C");
-GA_googleAddSlot("ca-pub-9603645151104616", "marketplace_300x100_D");
 GA_googleAddSlot("ca-pub-9603645151104616", "marketplace_125x125_1");
 GA_googleAddSlot("ca-pub-9603645151104616", "marketplace_125x125_2");
 GA_googleAddSlot("ca-pub-9603645151104616", "marketplace_125x125_3");
@@ -35,7 +31,32 @@ GA_googleAddSlot("ca-pub-9603645151104616", "marketplace_125x125_6");
 <script type="text/javascript">
 GA_googleFetchAds();
 </script>
-<!-- End Google Ads -->
+<!-- End Google Ads (old style) -->
+<!-- Start Google Ads (new style) -->
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/7448792/marketplace_728x90_2', [728, 90], 'div-gpt-ad-1369270645412-0').addService(googletag.pubads());
+googletag.defineSlot('/7448792/marketplace_728x90_3', [728, 90], 'div-gpt-ad-1369271012213-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+<!-- End Google Ads (new style) -->
 
 <link rel="stylesheet" href="/styles/core.css?v=3.2.6" media="all" type="text/css">
 <link rel="stylesheet" href="/styles/forms.css?v=3.2.6" media="all" type="text/css">
@@ -77,6 +98,9 @@ GA_googleFetchAds();
 					</div>
 		
 	</div>
+
+	<div class="page" style="width: 1000px; height: 28px; background: white;"></div>
+
 	<!-- / global header -->
 	
 	<!-- navigation bar [#navigation semantics] -->
@@ -90,15 +114,17 @@ GA_googleFetchAds();
 			<li><a href="http://sitepointmarket.com/all-listings?sortby=timestart&amp;sortdir=desc" title="Latest">Latest</a><em class="structural-label"> (this section)</em></li>
 			<!-- <li ><a href="#" title="Most Popular">Most Popular</a></li> -->
 			<li><a href="http://sitepointmarket.com/all-listings?sortby=timestart&amp;sortdir=asc" title="Ending Soon">Ending Soon</a></li>
+			<li>
+				<!-- post-ad -->
+				<form id="post-ad" class="post-ad" action="https://sitepointmarket.com/newlisting" method="get"> 
+										<fieldset>
+											<button type="submit"><span>Post a listing</span></button>  
+										</fieldset>
+				</form>
+				<!-- / post-ad -->
+			</li>
 		</ul>
 
-		<!-- post-ad --> 
-		<form id="post-ad" class="post-ad" action="https://sitepointmarket.com/newlisting" method="get"> 
-						<fieldset>
-							<button type="submit"><span>Post a listing</span></button>  
-						</fieldset> 
-		</form> 
-		<!-- / post-ad -->
 	</div>
 	<!-- / navigation bar -->
 <!--#spf_debug#-->
@@ -219,7 +245,7 @@ Australia</p></address>
 	<p id="copyright" class="copyright">
 		<em>The contents of this</em>
 		<em>webpage are copyright</em> 
-		<em>© 1998–2012</em>
+		<em>© 1998–2013</em>
 		<em>SitePoint Pty. Ltd.</em>
 		<em>All Rights Reserved.</em>
 	</p>
