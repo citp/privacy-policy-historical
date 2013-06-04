@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zvents.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215115931id_/http%3A//www.zvents.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zvents.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604102157id_/http%3A//www.zvents.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zvents
 
-Updated Effective: June XX, 2012
+Updated Effective: January 10, 2013
 
 Zvents, Inc. (Zvents) provides a collection of online resources, including advertising, event calendaring, email services, links to third party sites and other features and services, available at our website located at [http://www.zvents.com](http://www.zvents.com/) (collectively, the "Service"). 
 
