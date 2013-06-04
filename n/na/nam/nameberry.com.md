@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nameberry.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919235309id_/http%3A//nameberry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nameberry.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604034927id_/http%3A//nameberry.com/privacy) for the most accurate reproduction.*
 
-# About Nameberry | Nameberry.com
+# Privacy Policy | Nameberry.com
 
 This is the web site of NameBerry LLC.
 
-Our postal address is: 2711 Centerville Road, Suite 400, Wilmington, Delaware 19808
+Our postal address is: 64 Myrtle Ave., Montclair, NJ, 07042
 
 We can be reached via e-mail at privacy@nameberry.com.
 
