@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muttropolis.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224161906id_/http%3A//www.muttropolis.com/content/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muttropolis.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604095134id_/http%3A//www.muttropolis.com/content/privacy.cfm) for the most accurate reproduction.*
 
 # About Muttropolis
 
