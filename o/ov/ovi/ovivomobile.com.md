@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ovivomobile.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212003534id_/http%3A//ovivomobile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ovivomobile.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604042916id_/http%3A//ovivomobile.com/privacy-policy) for the most accurate reproduction.*
 
-# Ovivo Mobile Privacy Policy | Ovivo Mobile
+# OVIVO Mobile Privacy Policy | Ovivo Mobile
 
-Ovivo Mobile Communications Limited (“We”) are committed to protecting and respecting your privacy.  
+OVIVO Mobile Communications Limited (We) are committed to protecting and respecting your privacy.  
 This policy (together with our terms and conditions for the supply of sim cards available at www.ovivomobile.com and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Ovivo Mobile Communications Limited a company incorporated in England and Wales with registered number 07768728 and having its registered office at 122 Oakwood Court, London, W14 8LA
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is OVIVO Mobile Communications Limited a company incorporated in England and Wales with registered number 07768728 and having its registered office at Ashford House, Grenadier Road, Exeter, Devon, EX1 3LH
 
 1\. Information we May Collect from you
 
@@ -20,7 +20,7 @@ We may collect and process the following data about you:
 
 2\. Where we Store your Personal Data
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
 Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone
 
@@ -46,11 +46,11 @@ We may disclose your personal information to any member of our group, which mean
 
 We may disclose your personal information to third parties.  In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
-If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions of supply available at www.ovivomobile.com and other agreements; or to protect the rights, property, or safety of Ovivo Mobile Communications Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions of supply available at www.ovivomobile.com and other agreements; or to protect the rights, property, or safety of OVIVO Mobile Communications Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 5\. Your Rights
 
-You have the right to ask us not to process your personal data in the manner outlined. You can exercise the right at any time by contacting us at support@ovivomobile.com or writing to Ovivo Mobile Communications Limited, 65 Walton Street, London SW3 2HT and terminating the agreement between you and us. If you do not wish to receive marketing communication you must stop using the Service and return the Sim Card provided to you as part of the Service.
+You have the right to ask us not to process your personal data in the manner outlined. You can exercise the right at any time by contacting us at support@ovivomobile.com or writing to OVIVO Mobile Communications Limited, 65 Walton Street, London SW3 2HT and terminating the agreement between you and us. If you do not wish to receive marketing communication you must stop using the Service and return the SIM Card provided to you as part of the Service.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
