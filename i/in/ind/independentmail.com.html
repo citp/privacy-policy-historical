@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the independentmail.com privacy policy that was archived on 2012-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121216182811id_/http%3A//www.independentmail.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the independentmail.com privacy policy that was archived on 2013-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604215548id_/http%3A//www.independentmail.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:nitro="http://www.bunchball.com/nitro"><!--
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" class="no-js classworking" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:nitro="http://www.bunchball.com/nitro"><!--<![endif]--><!--
   
     
     ROLE = prod.
 --><head>
 	
 		
-		<script type="text/javascript">
+		<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-Z7HC"></script><script type="text/javascript">
 			var jSINGconf = {};
 			jSINGconf.theme = {
 				
@@ -45,7 +45,9 @@
 			jSINGconf.maps = {
 				yahooMapList: [] // Array for yahoo maps to be registered
 			};
-			jSINGconf.playlistVideos = {};
+            jSINGconf.role = 'prod';
+			jSINGconf.customerServicePhone = '1-888-878-6831';
+            jSINGconf.playlistVideos = {};
 			jSINGconf.playlistPlayers = {};
 			jSINGconf.videoPlayers = {};
 			jSINGconf.socialShare = {
@@ -61,6 +63,19 @@
 <script src="http://media.independentmail.com/corp_assets/asphalt/js/jSING.mobile-redirect.yui.js" type="text/javascript"></script>
 		
 	
+
+    
+        
+               
+<script src="http://media.independentmail.com/corp_assets/asphalt/js/SmartBanner.js" type="text/javascript"></script>
+<link rel="stylesheet" href="http://media.independentmail.com/corp_assets/asphalt/css/jquery.smartbanner.css" type="text/css" media="screen">
+<script type="text/javascript">
+    SmartBannersDetect.writeMetaTags('374020151', '557544744', 'com.scripps.independentmail.mobile');
+</script>
+<meta name="google-play-app" content="app-id=com.scripps.independentmail.mobile">
+
+        
+    
 	
 	
 	
@@ -129,10 +144,17 @@
             }
             var inc_range = IncToRange( ReadZagi( 'income' ) ) ;
 
+            var _ord = _ord || Math.random()*1000000000000000000; 
+            var _tile_params = ";ord=" + _ord;
+
             var _demo_params = '' ;
             if( age_range ) _demo_params +=';age=' + age_range ;
             if( gender ) _demo_params += ';gender=' + gender ;
             if( inc_range ) _demo_params += ';income=' + inc_range ;
+
+            // hack to handle old hardcoded calls to yld_mgr
+            var yld_mgr={place_ad_here:function(){}};
+
             
 //--> </script>
 <!-- End ad manager -->
@@ -158,6 +180,7 @@
 			<!-- registered WEATHER_SPONSOR ad in position below, slot WEATHER_SPONSOR -->
 			<!-- registered SEARCH_RESULTS_SPONSOR ad in position above, slot SEARCH_RESULTS_SPONSOR_1 -->
 			
+            <!-- registered FLAGPROMO ad in position above, slot FLAGPROMO_1 -->
 			<!-- End register_ad_pos -->
 		
 	
@@ -177,8 +200,20 @@
 	<meta name="description" content="
 	Privacy Policy news and information. Anderson Independent Mail brings you the most current Privacy Policy news and information available.
 	">
-	<meta name="copyright" content="Copyright (c) 2012 Anderson Independent Mail. All Rights Reserved.">
+	<meta name="copyright" content="Copyright (c) 2013 Anderson Independent Mail. All Rights Reserved.">
 	<meta property="fb:app_id" content="332135147741">
+
+	
+		<meta name="__sync_contentCategory" content="Free">
+                  <meta name="__is_premium" content="False">
+                  <meta name="__user_needs_subscription" content="False">
+                  <meta name="__wall" content="<corp.apps.paywall.timewall.TimeWall object at 0x1d7d5a90>">
+                  <meta name="__circ_manager" content="corp.apps.paywall.backends.backends.SyncAccessWrapper">
+                  <meta name="__paymentframe_url" content="https://www.syncaccess.net/scripps/aim/Account/purchasesubscription2">
+            
+<!-- user_needs_subscription set to False -->
+	
+	
 	
 	
 	
@@ -195,7 +230,8 @@
 	
 	<!-- CSS -->
 		
-			<link href="http://media.independentmail.com/corp_assets/asphalt/css/base/base.yui.2012-01-31_13-26-09.css" rel="stylesheet" type="text/css"> 
+			<link href="http://media.independentmail.com/corp_assets/asphalt/css/base/base.yui.2012-01-31_13-26-09.css" rel="stylesheet" type="text/css">
+			<link href="http://media.independentmail.com/corp_assets/asphalt/css/timewall.css" rel="stylesheet" type="text/css"> 
 			<style type="text/css" media="only screen and (max-device-width: 768px)">
 				.primary_nav li a, #verticals_nav li a {
 					margin-right: 27px;
@@ -237,6 +273,9 @@
 			
 		
 
+		
+		
+
 	
 	
 	
@@ -253,10 +292,12 @@
 </head>
 
 <body class="default_body hasJS">
+ 
 	
 	
 <!-- stats tag ['AIM'] -->
 <script type="text/javascript" src="http://apptap.scripps.com/apptap3?site=AIM&amp;app=djeff&amp;path=/privacy&amp;title=privacy-policy&amp;topic=Business+%28NPC%29"></script><script type="text/javascript">apptap();</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-Z7HC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-Z7HC');</script>
 
 <script type="text/javascript">document.body.className += " hasJS"</script>
 
@@ -269,8 +310,8 @@
 	
 	<div class="adtag" id="SUPERSTITIAL"><script language="JavaScript">
         // slotname: SUPERSTITIAL
-        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=1;sz=720x300;ord=11790200;dcopt=ist;pos=above' + _demo_params + '" type="text/javascript"></scr' + 'ipt>');
-        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=1;sz=720x300;ord=11790200;dcopt=ist;pos=above" type="text/javascript"></script></div>
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=1;sz=720x300;dcopt=ist;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=1;sz=720x300;dcopt=ist;pos=above;ord=795060721167204100" type="text/javascript"></script></div>
 
 
 <div id="advertising_wrapper" class="default ggnoads">
@@ -283,8 +324,8 @@
 			<div id="leaderboard">
 				<div class="adtag" id="LEADERBOARD_1"><script language="JavaScript">
         // slotname: LEADERBOARD_1
-        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=6;sz=728x90;ord=66457025;pos=above' + _demo_params + '" type="text/javascript"></scr' + 'ipt>');
-        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=6;sz=728x90;ord=66457025;pos=above" type="text/javascript"></script></div>
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=7;sz=728x90;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=7;sz=728x90;pos=above;ord=795060721167204100" type="text/javascript"></script></div>
 			</div> <!-- end #leaderboard -->
 		
 		</div> <!-- end #advertising -->
@@ -304,102 +345,103 @@
 			
 	<li><a href="/staff/" title="Contact Us"> Contact Us</a> |</li>
 	<li><a href="/e-edition/" title="E-Edition"> E-Edition</a> | </li>
-	<li><a href="/services/subscribers/"><b>Subscriber Services</b> | </a></li>
+	<li><a href="/subscribe/"><b>Subscriber Services</b> | </a></li>
 	<li><a href="/rewards/">Reader Rewards</a></li>
 
-		</ul>
-		
-		
-		<div id="global_site_login" class="preventFOUC">
-		
-			
-						<div class="submit_form_alerts_global">
-							<form action="/accounts/login/?next=/privacy/" method="post" id="loginform1">					
-								<div class="global_login_container_left">
-											
-											<label for="global_username">
-												<span class="global_submit_label_username">User Name:</span>
-											</label>
-											
-											<input id="global_username" class="vTextField required" name="username" size="17" value="" maxlength="75" def="" type="text" tabindex="1">
-											<input type="image" name="image" src="http://media.independentmail.com/corp_assets/asphalt/_sites/aim/img/buttons/global_login_btn.gif" title="Login" alt="Login" class="global_login_button" border="0">
-											<br>
-											<label for="global_password">
-												<span class="global_submit_label_password">Password:</span>
-											</label>
-											
-											<input id="global_password" class="vPasswordField required" name="password" size="17" value="" maxlength="30" def="" type="password" style="margin-top:12px;" tabindex="2">
-											
-											<span class="global_formtip"><a href="/accounts/password_reset/">Forgotten your password?</a>&nbsp;|
-											
-											<a href="/accounts/register/">Create an account</a></span>
-									</div>
-								
-									
-										<div class="global_login_container_right">
-											 <span class="global_rpx_login_text"><a class="rpxnow" onclick="return false;" href="https://login.independentmail.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.independentmail.com%2Faccounts%2Fauth%2F?previous=/privacy/">Register or log in using your account on these websites.</a></span>
-											<div class="connect_icons">
-	                                                                                
-	                                                                                
-	                                                                                <a id="facebook_connect" class="" href="" onclick="window.open('https://login.independentmail.com/facebook/connect_start?ext_perm=publish_stream,email&amp;token_url=http%3A%2F%2Fwww.independentmail.com%2Faccounts%2Fauth%2F%3Fprevious=/privacy/%26popup=true','rpxnow','width=800,height=550'); return false;"><img src="http://media.independentmail.com/corp_assets/asphalt/img/icons/facebook/facebook_sm_blk.jpg"></a>
-	                                                                                
-	                                                                                <a id="google_connect" class="" href="" onclick="window.open('https://login.independentmail.com/openid/start?openid_identifier=https%3A//www.google.com/accounts/o8/id&amp;token_url=http%3A%2F%2Fwww.independentmail.com%2Faccounts%2Fauth%2F%3Fprevious=/privacy/%26popup=true','rpxnow','width=800,height=550'); return false;"><img src="http://media.independentmail.com/corp_assets/asphalt/img/icons/google/google_sm_blk.jpg"></a>
-	                                                                                
-	                                                                                <a id="yahoo_connect" class="" href="" onclick="window.open('https://login.independentmail.com/openid/start?openid_identifier=https%3A//me.yahoo.com/&amp;token_url=http%3A%2F%2Fwww.independentmail.com%2Faccounts%2Fauth%2F%3Fprevious=/privacy/%26popup=true','rpxnow','width=800,height=550'); return false;"><img src="http://media.independentmail.com/corp_assets/asphalt/img/icons/yahoo/yahoo_sm_blk.jpg"></a>
-	                                                                                
-	                                                                                <a id="twitter_connect" class="" href="" onclick="window.open('https://login.independentmail.com/twitter/start?token_url=http%3A%2F%2Fwww.independentmail.com%2Faccounts%2Fauth%2F%3Fprevious=/privacy/%26popup=true','rpxnow','width=800,height=550'); return false;"><img src="http://media.independentmail.com/corp_assets/asphalt/img/icons/twitter/twitter_sm_blk.jpg"></a>
-	                                                                                
-											</div>
-											<span class="global_login_close"><a href="#global_site_login" id="global_login_close" alt="Close"><img src="http://media.independentmail.com/corp_assets/asphalt/img/buttons/global_login_close.png"> </a></span>
-										</div>				
-								</form>
-						</div>
-		</div>
-		
-		<div id="search">
-			<form action="/search/" method="get">
-				<fieldset>
-					<input id="q" name="q" type="text" class="search_text">
-					<select class="yahoo_select" name="t">
-						<option value="">site</option>
-						<option value="web">web</option>
-					</select>
-					<input class="search_button" type="image" alt="Go" src="http://media.independentmail.com/corp_assets/asphalt/_sites/aim/img/buttons/go.gif" name="image">
-				</fieldset>
-			</form>
-			<p class="search_sponsor">Web Search powered by <span class="yahoo_search">Yahoo!</span> SEARCH</p>
-		</div> <!-- end #search -->
-		
-	
-	</div> <!-- end #utilities -->
-	
+    </ul>
+    
+    
+    <div id="global_site_login" class="preventFOUC">
+    
+        
+                    <div class="submit_form_alerts_global">
+                        <form action="/accounts/login/?next=/privacy/" method="post" id="loginform1">					
+                            <div class="global_login_container_left">
+                                        
+                                        <label for="global_username">
+                                            <span class="global_submit_label_username">User Name:</span>
+                                        </label>
+                                        
+                                        <input id="global_username" class="vTextField required" name="username" size="17" value="" maxlength="75" def="" type="text" tabindex="1">
+                                        <input type="image" name="image" src="http://media.independentmail.com/corp_assets/asphalt/_sites/aim/img/buttons/global_login_btn.gif" title="Login" alt="Login" class="global_login_button" border="0">
+                                        <br>
+                                        <label for="global_password">
+                                            <span class="global_submit_label_password">Password:</span>
+                                        </label>
+                                        
+                                        <input id="global_password" class="vPasswordField required" name="password" size="17" value="" maxlength="30" def="" type="password" style="margin-top:12px;" tabindex="2">
+                                        
+                                        <span class="global_formtip"><a href="/accounts/password_reset/">Forgotten your password?</a>&nbsp;|
+                                        
+                                        <a href="/accounts/register/">Create an account</a></span>
+                                </div>
+                            
+                                
+                                    <div class="global_login_container_right">
+                                         <span class="global_rpx_login_text"><a class="rpxnow" onclick="return false;" href="https://login.independentmail.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.independentmail.com%2Faccounts%2Fauth%2F?previous=/privacy/">Register or log in using your account on these websites.</a></span>
+                                        <div class="connect_icons">
+                                                                                
+                                                                                
+                                                                                <a id="facebook_connect" class="" href="" onclick="window.open('https://login.independentmail.com/facebook/connect_start?ext_perm=publish_stream,email&amp;token_url=http%3A%2F%2Fwww.independentmail.com%2Faccounts%2Fauth%2F%3Fprevious=/privacy/%26popup=true','rpxnow','width=800,height=550'); return false;"><img src="http://media.independentmail.com/corp_assets/asphalt/img/icons/facebook/facebook_sm_blk.jpg"></a>
+                                                                                
+                                                                                <a id="google_connect" class="" href="" onclick="window.open('https://login.independentmail.com/openid/start?openid_identifier=https%3A//www.google.com/accounts/o8/id&amp;token_url=http%3A%2F%2Fwww.independentmail.com%2Faccounts%2Fauth%2F%3Fprevious=/privacy/%26popup=true','rpxnow','width=800,height=550'); return false;"><img src="http://media.independentmail.com/corp_assets/asphalt/img/icons/google/google_sm_blk.jpg"></a>
+                                                                                
+                                                                                <a id="yahoo_connect" class="" href="" onclick="window.open('https://login.independentmail.com/openid/start?openid_identifier=https%3A//me.yahoo.com/&amp;token_url=http%3A%2F%2Fwww.independentmail.com%2Faccounts%2Fauth%2F%3Fprevious=/privacy/%26popup=true','rpxnow','width=800,height=550'); return false;"><img src="http://media.independentmail.com/corp_assets/asphalt/img/icons/yahoo/yahoo_sm_blk.jpg"></a>
+                                                                                
+                                                                                <a id="twitter_connect" class="" href="" onclick="window.open('https://login.independentmail.com/twitter/start?token_url=http%3A%2F%2Fwww.independentmail.com%2Faccounts%2Fauth%2F%3Fprevious=/privacy/%26popup=true','rpxnow','width=800,height=550'); return false;"><img src="http://media.independentmail.com/corp_assets/asphalt/img/icons/twitter/twitter_sm_blk.jpg"></a>
+                                                                                
+                                        </div>
+                                        <span class="global_login_close"><a href="#global_site_login" id="global_login_close" alt="Close"><img src="http://media.independentmail.com/corp_assets/asphalt/img/buttons/global_login_close.png"> </a></span>
+                                    </div>				
+                            </form>
+                    </div>
+    </div>
+    
+    <div id="search" style="top: 23px">
+        <form action="/search/" method="get">
+            <fieldset>
+                <input id="q" name="q" type="text" class="search_text">
+                <select class="yahoo_select" name="t">
+                    <option value="">site</option>
+                    <option value="web">web</option>
+                </select>
+                <input class="search_button" type="image" alt="Go" src="http://media.independentmail.com/corp_assets/asphalt/_sites/aim/img/buttons/go.gif" name="image">
+            </fieldset>
+        </form>
+        <p class="search_sponsor">Web Search powered by <span class="yahoo_search">Yahoo!</span> SEARCH</p>
+    </div> <!-- end #search -->
+    
+
+</div> <!-- end #utilities -->
+
 </div> <!-- end #utilities_wrapper -->
-	
+
 <div id="background_wrapper">
 	<div id="scenery"><div id="scenery_boats"><div id="scenery_shadow"></div></div></div><!-- end #scenery -->
 </div>
 
-	<div id="page_wrapper">
-		
-		<div id="header">
-			<div id="logo"><a href="/" title="Anderson Independent Mail">Anderson Independent Mail</a></div>
+<div id="page_wrapper">
+    
+    <div id="header">
+        <div id="logo"><a href="/" title="Anderson Independent Mail">Anderson Independent Mail</a></div>
 
-			
-			
-		</div> <!-- end #header -->
-		
-		
-		
-		<div id="space_nav_wrapper">
-			
-			
-			
-		</div>
-		
-		
-		
-		<div id="nav_wrapper">
-			
+
+        
+
+    </div> <!-- end #header -->
+    
+    
+    
+    <div id="space_nav_wrapper">
+        
+        
+        
+    </div>
+    
+    
+    
+    <div id="nav_wrapper">
+        
 	<ul id="site_nav" class="primary_nav 
 	
 	
@@ -608,46 +650,46 @@
 		<li class="last"><a href="http://www.independentmail.com/classifieds/" title="Classified">Classified</a></li>
 	</ul> <!-- end #verticals_nav -->
 
-			
-		</div> <!-- end #nav_wrapper -->
-		
-		
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
-		
+        
+    </div> <!-- end #nav_wrapper -->
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+    
 
-		
-		
-			
-			
-				
-				
-				
-	
-				
-		
-				
-		
-				
-			
-		
-			
-		
-		
-		
-		
+    
+    
+        
+        
+            
+            
+            
+
+            
+    
+            
+    
+            
+        
+    
+        
+    
+    
+    
+    
 	<div id="section_header_wrapper">
 		<div id="section_header" class="default clear">
 			
@@ -678,14 +720,14 @@
 		
 	</div> <!-- end #section_title_wrapper -->
 
-		
-		
+    
+    
  		
-		
+    
 
-		<div id="content_wrapper" class="clear">
+    <div id="content_wrapper" class="clear">
 
-			
+        
 		
 		<div id="primary_content">
 			
@@ -702,6 +744,7 @@
 
 <p>PRIVACY POLICY<br>
 (Effective July 1, 2008)</p>
+<p><em>Last revised March 22, 2013.</em></p>
 
 <p>Welcome to Independentmail.com, GoFridayFootball.com and OrangeandWhite.com ("Website(s)"), an interactive online service operated by The E.W. Scripps Company and its subsidiaries ("us", "we", or "our"). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov). </p>
 
@@ -771,12 +814,12 @@ We will respond to your request and, if applicable and appropriate, make the req
 </p>
 
 <a name="about_our_ads"></a>
+<p><strong>I. Google DFP Location Privacy</strong></p>
 
-<p><strong>I. YAHOO! ADS AND OPT-OUT POLICIES</strong></p>
-<p>Yahoo! is an ad network partner, operating through the APT from Yahoo! platform, that displays ads on Independentmail.com, GoFridayFootball.com and OrangeandWhite.com sites. To improve your ad experience on Independentmail.com, GoFridayFootball.com and OrangeandWhite.com sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display.</p>
-<p>To learn more about Yahoo!’s ad practices, including how to opt out of using anonymous information to select which ads to show you, see <a href="http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html">http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html</a>.</p>
-<p>Yahoo! is a member of the Network Advertising Initiative. See <a href="http://www.networkadvertising.org">http://www.networkadvertising.org</a>.</p>
-
+<p>If, in connection with the DFP Service, Company collects, processes or discloses information that identifies a Visitor’s precise geographic location, such as GPS, wifi or cell tower data, </p>
+<p>(i) Company must obtain express consent from Visitors, </p>
+<p>(ii) Company’s privacy policy must disclose such information collection, processing or disclosure, and advise in writing each of its Clients that they are required to make the same disclosures in their privacy policies, and </p>
+<p>(iii) Company will only send such information to DoubleClick using the HTTPS communications protocol</p>
 <p><strong>J. NEWSRIGHT</strong></p>
  
 <p>We use services provided by NewsRight for a variety of reasons, including, but not limited to, understanding how our content is used across the Internet, improving news coverage and to protect our intellectual and other property rights.  NewsRight collects non-personally identifiable content usage information and may use cookies in conjunction with this activity.  Please refer to the NewsRight privacy policy <a href="http://www.newsregistry.com/privacycenter/servicepolicy.aspx">here</a> for further information, including how to opt-out of certain NewsRight collection activities.  Your continued readership of the site means you accept the privacy policy of NewsRight. </p>
@@ -807,8 +850,8 @@ We will respond to your request and, if applicable and appropriate, make the req
 	<div class="bigbox">
 		<div class="adtag" id="BIGBOX_1"><script language="JavaScript">
         // slotname: BIGBOX_1
-        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=2;sz=300x250;ord=47900974;pos=above' + _demo_params + '" type="text/javascript"></scr' + 'ipt>');
-        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=2;sz=300x250;ord=47900974;pos=above" type="text/javascript"></script></div>
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=2;sz=300x250;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=2;sz=300x250;pos=above;ord=795060721167204100" type="text/javascript"></script></div>
 	</div> <!-- end .bigbox -->
 </div> <!-- end .bigbox_wrapper -->
 						
@@ -860,28 +903,28 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2012/dec/14/tearful-obama-calls-action-after-shooting/?partner=popular" title="Obama called for 'meaningful action' to prevent such shootings but did not say what it should be" rel="nofollow">Tearful Obama calls for action after shooting </a>
-					<span class="date">Published 12/14/2012 at 5:27 p.m.</span> <a href="/news/2012/dec/14/tearful-obama-calls-action-after-shooting/?partner=popular#comments" class="comment_count" rel="nofollow">44 comments</a>
+					<a href="/news/2013/jun/03/missing-child-frantic-search-surprise-ending/?partner=popular" title="For about an hour Monday night, swarms of police officers and sheriff’s deputies searched an Anderson apartment complex, desperately hoping to find a missing 4-year-old girl.  " rel="nofollow">Missing child, frantic search, surprise ending</a>
+					<span class="date">Published 6/3/2013 at 10:36 p.m.</span> <a href="/news/2013/jun/03/missing-child-frantic-search-surprise-ending/?partner=popular#comments" class="comment_count" rel="nofollow">1 comment</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/dec/15/secretary-state-faints-sustains-concussion/?partner=popular" title="Clinton, who skipped an overseas trip this past week because of a stomach virus, sustained a concussion after fainting, State Department said " rel="nofollow">Secretary of state faints, sustains concussion</a>
-					<span class="date">Updated 12/15/2012 at 9:04 p.m.</span> <a href="/news/2012/dec/15/secretary-state-faints-sustains-concussion/?partner=popular#comments" class="comment_count" rel="nofollow">6 comments</a>
+					<a href="/news/2013/jun/03/proposal-would-transfer-control-of-anderson/?partner=popular" title="Anderson County’s emergency services division could soon be supervised by someone new. " rel="nofollow">Proposal would transfer control of Anderson County's emergency services</a>
+					<span class="date">Published 6/3/2013 at 8:11 p.m.</span> <a href="/news/2013/jun/03/proposal-would-transfer-control-of-anderson/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/dec/15/conn-gunman-broke-shot-some-victims-twice/?partner=popular" title="The gunman behind the Connecticut elementary school massacre stormed into the building and shot 20 children at least twice with a high-powered rifle" rel="nofollow">Conn. gunman broke in, shot some victims twice</a>
-					<span class="date">Published 12/15/2012 at 10:25 p.m.</span> <a href="/news/2012/dec/15/conn-gunman-broke-shot-some-victims-twice/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
+					<a href="/news/2013/jun/03/weather-service-says-tornado-struck-anderson/?partner=popular" title="A twister on the EF1 scale of the Enhanced Fujita scale struck Anderson County Sounday evening, the National Weather Service said " rel="nofollow">Weather service says tornado struck Anderson County</a>
+					<span class="date">Published 6/3/2013 at 4:25 p.m.</span> <a href="/news/2013/jun/03/weather-service-says-tornado-struck-anderson/?partner=popular#comments" class="comment_count" rel="nofollow">1 comment</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/dec/15/west-union-facing-mysterious-bill-discrepancy/?partner=popular" title="There’s a water mystery in one Upstate town, and it’s costing property owners" rel="nofollow">West Union facing mysterious water bill discrepancy</a>
-					<span class="date">Published 12/15/2012 at 4:55 p.m.</span> <a href="/news/2012/dec/15/west-union-facing-mysterious-bill-discrepancy/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
+					<a href="/news/2013/jun/03/rep-white-questions-need-for-expanding-program/?partner=popular" title="State Rep. Brian White voiced reservations Monday about expanding South Carolina’s taxpayer-supported kindergarten classes for 4-year-olds." rel="nofollow">Rep. White questions need for expanding kindergarten program</a>
+					<span class="date">Published 6/3/2013 at 7:16 p.m.</span> <a href="/news/2013/jun/03/rep-white-questions-need-for-expanding-program/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/dec/15/bikers-donate-12000-to-brighter-christmas-fund/?partner=popular" title="Sometimes, Santa Claus and his elves come dressed in leather and riding on a pack of Harleys" rel="nofollow">Bikers donate $12,000 to Brighter Christmas Fund </a>
-					<span class="date">Published 12/15/2012 at 8:01 p.m.</span> <a href="/news/2012/dec/15/bikers-donate-12000-to-brighter-christmas-fund/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
+					<a href="/news/2013/jun/03/anderson-police-continue-search-for-man-charged/?partner=popular" title="Curtis Tywan Fowler, 29, was wanted in connection with the shooting death of Bryan Howard, 40" rel="nofollow">Deputies arrest man charged in Anderson shooting</a>
+					<span class="date">Updated 6/3/2013 at 9:11 p.m.</span> <a href="/news/2013/jun/03/anderson-police-continue-search-for-man-charged/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
 				</li>
 			
 		</ul>
@@ -893,15 +936,15 @@ We will respond to your request and, if applicable and appropriate, make the req
 			
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2012/dec/15/wreaths-laid-at-veterans-cemetery/?partner=popular" title="Wreaths laid at veterans cemetery " rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2012/12/15/1420121215175549002_t90_70.JPG" width="90" alt="Wreaths laid at veterans cemetery "> Wreaths laid at veterans cemetery </a>
+					<a href="/photos/galleries/2013/jun/01/crescent-high-school-graduation/?partner=popular" title="Crescent High School Graduation" rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2013/06/01/520130601222737003_t90_70.JPG" width="90" alt="Crescent High School Graduation"> Crescent High School Graduation</a>
 				</div> <!-- end .bucket_media_item -->
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2007/dec/23/denver-downs-parade/?partner=popular" title="Denver Downs Christmas Parade" rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2007/12/23/1224DDParade253_t90_70.jpg" width="90" alt="Denver Downs Christmas Parade"> Denver Downs Christmas Parade</a>
+					<a href="/photos/galleries/2013/jun/02/fifty-years-on-hartwell/?partner=popular" title="Fifty years on Hartwell" rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2013/06/02/720130602140924003_t90_70.JPG" width="90" alt="Fifty years on Hartwell"> Fifty years on Hartwell</a>
 				</div> <!-- end .bucket_media_item -->
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2012/dec/14/photo-gallery-on-december-14-2012-at-221025/?partner=popular" title="Anderson University graduation" rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2012/12/14/420121214190236003_t90_70.JPG" width="90" alt="Anderson University graduation"> Anderson University graduation</a>
+					<a href="/photos/galleries/2013/jun/02/storm-damages-home/?partner=popular" title="Storm damages home" rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2013/06/02/720130602202146003_t90_70.JPG" width="90" alt="Storm damages home"> Storm damages home</a>
 				</div> <!-- end .bucket_media_item -->
 			
 
@@ -915,28 +958,28 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2012/dec/14/tearful-obama-calls-action-after-shooting/?partner=popular" title="Obama called for 'meaningful action' to prevent such shootings but did not say what it should be" rel="nofollow">Tearful Obama calls for action after shooting </a>
-					<span class="date">Published 12/14/2012 at 5:27 p.m.</span> <a href="/news/2012/dec/14/tearful-obama-calls-action-after-shooting/?partner=popular#comments" class="comment_count" rel="nofollow">44 comments</a>
+					<a href="/news/2013/jun/01/busy-week-ahead-for-sc-lawmakers/?partner=popular" title="With a number of key issues still unresolved, it appears likely the legislative session will be extended" rel="nofollow">Busy week ahead for S.C. lawmakers</a>
+					<span class="date">Published 6/1/2013 at 4:56 p.m.</span> <a href="/news/2013/jun/01/busy-week-ahead-for-sc-lawmakers/?partner=popular#comments" class="comment_count" rel="nofollow">6 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/dec/13/19-arrested-including-11-clemson-university-studen/?partner=popular" title="Marijuana, guns, fake-ID printer seized by officers" rel="nofollow">19 arrested, including 11 Clemson University students</a>
-					<span class="date">Published 12/13/2012 at 1:09 p.m.</span> <a href="/news/2012/dec/13/19-arrested-including-11-clemson-university-studen/?partner=popular#comments" class="comment_count" rel="nofollow">24 comments</a>
+					<a href="/news/2013/may/30/council-members-clash-over-county-fair/?partner=popular" title="A disagreement between county council members Tommy Dunn and Cindy Wilson boiled over about the county's handling of the fair" rel="nofollow">Council members clash over county fair</a>
+					<span class="date">Published 5/30/2013 at 5:19 p.m.</span> <a href="/news/2013/may/30/council-members-clash-over-county-fair/?partner=popular#comments" class="comment_count" rel="nofollow">26 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/dec/12/michigan-becomes-right--work-state-despite-protest/?partner=popular" title="Republicans have converted Michigan from a seemingly impregnable fortress of organized labor into a right-to-work state" rel="nofollow">Michigan becomes right-to-work state despite protests</a>
-					<span class="date">Published 12/12/2012 at 5:10 a.m.</span> <a href="/news/2012/dec/12/michigan-becomes-right--work-state-despite-protest/?partner=popular#comments" class="comment_count" rel="nofollow">73 comments</a>
+					<a href="/news/2013/jun/02/storms-rumble-through-anderson-county/?partner=popular" title="There is a good chance that a small tornado touched down in Anderson County on Sunday afternoon, according to the National Weather Service. " rel="nofollow">Severe weather hits Anderson County</a>
+					<span class="date">Published 6/2/2013 at 4:49 p.m.</span> <a href="/news/2013/jun/02/storms-rumble-through-anderson-county/?partner=popular#comments" class="comment_count" rel="nofollow">4 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/dec/14/official-gunman-killed-conn-school-shooting/?partner=popular" title="A man opened fire Friday inside the Connecticut elementary school Friday killing 26 people, including 20 children" rel="nofollow">Man kills 26 at Conn. school, including 20 kids</a>
-					<span class="date">Published 12/14/2012 at 12:55 p.m.</span> <a href="/news/2012/dec/14/official-gunman-killed-conn-school-shooting/?partner=popular#comments" class="comment_count" rel="nofollow">21 comments</a>
+					<a href="/news/2013/jun/03/proposal-would-transfer-control-of-anderson/?partner=popular" title="Anderson County’s emergency services division could soon be supervised by someone new. " rel="nofollow">Proposal would transfer control of Anderson County's emergency services</a>
+					<span class="date">Published 6/3/2013 at 8:11 p.m.</span> <a href="/news/2013/jun/03/proposal-would-transfer-control-of-anderson/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/dec/14/bill-would-boost-annual-salaries-of-sc-to-50000/?partner=popular" title="A proposal to dramatically increase the salaries of state lawmakers is among scores of bills that were pre-filed this week in anticipation of the South Carolina General Assembly's coming session. " rel="nofollow">Bill would boost annual salaries of S.C. legislators to $50,000 </a>
-					<span class="date">Published 12/14/2012 at 7:37 p.m.</span> <a href="/news/2012/dec/14/bill-would-boost-annual-salaries-of-sc-to-50000/?partner=popular#comments" class="comment_count" rel="nofollow">20 comments</a>
+					<a href="/news/2013/jun/03/rep-white-questions-need-for-expanding-program/?partner=popular" title="State Rep. Brian White voiced reservations Monday about expanding South Carolina’s taxpayer-supported kindergarten classes for 4-year-olds." rel="nofollow">Rep. White questions need for expanding kindergarten program</a>
+					<span class="date">Published 6/3/2013 at 7:16 p.m.</span> <a href="/news/2013/jun/03/rep-white-questions-need-for-expanding-program/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
 				</li>
 			
 		</ul>
@@ -948,28 +991,28 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2012/dec/08/one-killed-armed-robbery-pickens-county/?partner=popular" title="23-year-old electrical engineering student was pronounced dead at the scene." rel="nofollow">Clemson student killed in Central armed robbery </a>
-					<span class="date">Published 12/8/2012 at 10:28 p.m.</span> <a href="/news/2012/dec/08/one-killed-armed-robbery-pickens-county/?partner=popular#comments" class="comment_count" rel="nofollow">10 comments</a>
+					<a href="/news/2013/apr/25/boston-suspects-planned-attack-nyc-authorities-say/?partner=popular" title="Dzhokhar Tsarnaev has been moved from a Boston hospital to a federal medical center about 40 miles west of the city, U.S. Marshals Service said" rel="nofollow">Authorities: Boston suspects planned to attack New York City</a>
+					<span class="date">Published 4/25/2013 at 2:12 p.m.</span> <a href="/news/2013/apr/25/boston-suspects-planned-attack-nyc-authorities-say/?partner=popular#comments" class="comment_count" rel="nofollow">1 comment</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/dec/09/clemson-student-23-killed-in-central-home/?partner=popular" title="The Pickens County Sheriff's Office is looking for three men possibly connected to a random home invasion that left an electrical engineering dead Saturday night. " rel="nofollow">Clemson student, 23, killed in Central home invasion </a>
-					<span class="date">Published 12/9/2012 at 9:20 p.m.</span> <a href="/news/2012/dec/09/clemson-student-23-killed-in-central-home/?partner=popular#comments" class="comment_count" rel="nofollow">14 comments</a>
+					<a href="/news/2013/may/30/the-butchers-block-opens-in-anderson/?partner=popular" title="The Butcher's Block steps in to fill a void left in Anderson" rel="nofollow">The Butcher's Block opens in Anderson</a>
+					<span class="date">Published 5/30/2013 at 10:56 a.m.</span> <a href="/news/2013/may/30/the-butchers-block-opens-in-anderson/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/dec/13/19-arrested-including-11-clemson-university-studen/?partner=popular" title="Marijuana, guns, fake-ID printer seized by officers" rel="nofollow">19 arrested, including 11 Clemson University students</a>
-					<span class="date">Published 12/13/2012 at 1:09 p.m.</span> <a href="/news/2012/dec/13/19-arrested-including-11-clemson-university-studen/?partner=popular#comments" class="comment_count" rel="nofollow">24 comments</a>
+					<a href="/news/2013/may/25/feds-penalize-georgia-for-refusing-child-sex/?partner=popular" title="The U.S. government will penalize the state of Georgia $1.8 million for its refusal to administer ask students in grades 7-12 about sexual histories. " rel="nofollow">Feds penalize Georgia for refusing child sex survey</a>
+					<span class="date">Published 5/25/2013 at 1:22 p.m.</span> <a href="/news/2013/may/25/feds-penalize-georgia-for-refusing-child-sex/?partner=popular#comments" class="comment_count" rel="nofollow">2 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/dec/11/after-71-years-downtown-mortuary-to-change-hands/?partner=popular" title="The old post office in downtown Anderson, home to the Sullivan-King Mortuary since 1941, will soon take on a new tenant, " rel="nofollow">After 71 years, downtown mortuary to change hands </a>
-					<span class="date">Published 12/11/2012 at 8:58 p.m.</span> <a href="/news/2012/dec/11/after-71-years-downtown-mortuary-to-change-hands/?partner=popular#comments" class="comment_count" rel="nofollow">9 comments</a>
+					<a href="/news/2013/jun/02/storms-rumble-through-anderson-county/?partner=popular" title="There is a good chance that a small tornado touched down in Anderson County on Sunday afternoon, according to the National Weather Service. " rel="nofollow">Severe weather hits Anderson County</a>
+					<span class="date">Published 6/2/2013 at 4:49 p.m.</span> <a href="/news/2013/jun/02/storms-rumble-through-anderson-county/?partner=popular#comments" class="comment_count" rel="nofollow">4 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/dec/10/pickens-sheriffs-office-subdivision-where-was/?partner=popular" title=" Pickens County sheriff's investigators arrested three men Monday and charged them with a home invasion that resulted in the death of a Clemson University student. " rel="nofollow">Investigators arrest three men in deadly Central home invasion; fourth suspect remains at large </a>
-					<span class="date">Published 12/10/2012 at 7:25 p.m.</span> <a href="/news/2012/dec/10/pickens-sheriffs-office-subdivision-where-was/?partner=popular#comments" class="comment_count" rel="nofollow">7 comments</a>
+					<a href="/news/2013/jun/02/anderson-native-writes-a-success-story-at-tech/?partner=popular" title="Anderson native finishing his college career in style. " rel="nofollow">Rash writes a success story at Virginia Tech</a>
+					<span class="date">Published 6/2/2013 at 4:00 a.m.</span> <a href="/news/2013/jun/02/anderson-native-writes-a-success-story-at-tech/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
 				</li>
 			
 		</ul>
@@ -1002,7 +1045,7 @@ We will respond to your request and, if applicable and appropriate, make the req
 	<div id="sidebar_weather_currently" class="bucket_secondary">
 		
 		
-		
+		<!-- CachedContextUpdatingNode klass: django.templatetags.forecasttag.ForecastNode key:WX:corp.apps.weather.templatetags.forecasttag.getForecast:9:0,1,2,3:12:34.503439:-82.650133:sidebar_forecasts -->
 		
 		
 			
@@ -1010,20 +1053,20 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<div class="sidebar_current_weather clear">
 	
 			<div id="sidebar_current_icon">
-				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/48_170.png" width="120px" alt="Fog/Mist">
+				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/3_170.png" width="120px" alt="A Few Clouds">
 			</div> <!-- end #radar -->
 	
 			<div id="sidebar_current_weather">
 				<span class="current_temp_label">Currently</span>
-				<span class="current_temp">55<span class="current_temp_degree">°</span></span>
-				<span class="current_conditions">Fog/Mist</span>
+				<span class="current_temp">84<span class="current_temp_degree">°</span></span>
+				<span class="current_conditions">A Few Clouds</span>
 				<span class="current_wind">Wind: Calm</span>
 			</div> <!-- end #current_conditions -->
 	
 			<div id="sidebar_hi_low">
 				<span class="today_temp_label">Today</span>
-				<span class="hi_temp">62<span class="current_temp_degree">°</span></span>
-				<span class="lo_temp">52<span class="current_temp_degree">°</span></span>
+				<span class="hi_temp">85<span class="current_temp_degree">°</span></span>
+				<span class="lo_temp">67<span class="current_temp_degree">°</span></span>
 			</div> <!-- end #hi_low -->
 			
 		</div> <!-- end #weather -->
@@ -1033,48 +1076,48 @@ We will respond to your request and, if applicable and appropriate, make the req
 	<div id="sidebar_weather_3day" class="bucket_secondary preventFOUC">
 		<div id="sidebar_weather_forecast_3day" class="clear">
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Mon</div><div class="sidebar_weather_day">01:00 AM</div>
-				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/40_100.png" alt="Mostly Cloudy Showers">
-				<div class="sidebar_forecast_conditions">Mostly Cloudy Showers</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">54°</span></div>
-			</div>
-			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Mon</div><div class="sidebar_weather_day">01:00 PM</div>
+				<div class="sidebar_weather_day">Wed</div><div class="sidebar_weather_day">06:00 AM</div>
 				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/15_100.png" alt="Thunderstorms">
 				<div class="sidebar_forecast_conditions">Thunderstorms</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">63°</span></div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">71°</span></div>
+			</div>
+			<div class="sidebar_forecast_day">
+				<div class="sidebar_weather_day">Wed</div><div class="sidebar_weather_day">06:00 PM</div>
+				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/16_100.png" alt="Mostly Cloudy Thunderstorms">
+				<div class="sidebar_forecast_conditions">Mostly Cloudy Thunderstorms</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">77°</span></div>
 			</div><!-- End sidebar_forecast_day -->
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Tue</div><div class="sidebar_weather_day">01:00 AM</div>
-				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/35_100.png" alt="Partly Cloudy">
-				<div class="sidebar_forecast_conditions">Partly Cloudy</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">49°</span></div>
+				<div class="sidebar_weather_day">Thu</div><div class="sidebar_weather_day">06:00 AM</div>
+				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/40_100.png" alt="Mostly Cloudy Showers">
+				<div class="sidebar_forecast_conditions">Mostly Cloudy Showers</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">69°</span></div>
 			</div><!-- End sidebar_forecast_day -->
 			<div class="clear"></div>
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding">
-						<p>Feels Like: 54°</p>
-						<p>Humidity: 100%</p>
-						<p>Precip: 81%</p>
+						<p>Feels Like: 71°</p>
+						<p>Humidity: 84%</p>
+						<p>Precip: 18%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding">
-						<p>Feels Like: 63°</p>
-						<p>Humidity: 84%</p>
-						<p>Precip: 84%</p>
+						<p>Feels Like: 77°</p>
+						<p>Humidity: 71%</p>
+						<p>Precip: 32%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding last">
-						<p>Feels Like: 49°</p>
-						<p>Humidity: 100%</p>
-						<p>Precip: 19%</p>
+						<p>Feels Like: 69°</p>
+						<p>Humidity: 90%</p>
+						<p>Precip: 40%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
@@ -1148,8 +1191,8 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<div id="sidebar_weather_ad">
 			<div class="adtag" id="WEATHER_SPONSOR"><script language="JavaScript">
         // slotname: WEATHER_SPONSOR
-        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=4;sz=120x30;ord=38587982;pos=below' + _demo_params + '" type="text/javascript"></scr' + 'ipt>');
-        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=4;sz=120x30;ord=38587982;pos=below" type="text/javascript"></script></div>
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=4;sz=120x30;pos=below' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=4;sz=120x30;pos=below;ord=795060721167204100" type="text/javascript"></script></div>
 		</div>
 		<a href="/weather/" title="More Anderson Weather">More Weather »</a>
 	</div>
@@ -1178,8 +1221,8 @@ We will respond to your request and, if applicable and appropriate, make the req
 	<div class="bigbox">
 		<div class="adtag" id="BIGBOX_2"><script language="JavaScript">
         // slotname: BIGBOX_2
-        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=3;sz=300x250;ord=99491326;pos=below' + _demo_params + '" type="text/javascript"></scr' + 'ipt>');
-        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=3;sz=300x250;ord=99491326;pos=below" type="text/javascript"></script></div>
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=3;sz=300x250;pos=below' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=3;sz=300x250;pos=below;ord=795060721167204100" type="text/javascript"></script></div>
 	</div> <!-- end .bigbox -->
 </div> <!-- end .bigbox_wrapper -->
 
@@ -1197,11 +1240,11 @@ We will respond to your request and, if applicable and appropriate, make the req
 		
 
 
-		</div><!-- end #content_wrapper -->
+    </div><!-- end #content_wrapper -->
 		
+    
 		
-		
-		
+    
 	<div id="content_match_wrapper">
 		<div id="content_match">
 			<!-- yahoo content match --><script type="text/javascript" language="JavaScript">
@@ -1221,17 +1264,17 @@ We will respond to your request and, if applicable and appropriate, make the req
 	</div> <!-- end #content_match_wrapper -->
 
 
-		
-		
-			
-			
-				
-				
-				
-			
-		
-		
-		
+    
+    
+        
+        
+            
+            
+            
+        
+    
+    
+    
 	
 
 
@@ -1253,9 +1296,9 @@ We will respond to your request and, if applicable and appropriate, make the req
 				<li id="carousel_page1">
 					
 					<div class="skybox">
-						<a href="http://www.independentmail.com/brighter_christmas_fund/" title="BCF"><img src="http://web.independentmail.com/skybox/images/BrighterChristmasFund.jpg" width="120" height="107" alt="BCF"></a>
-<h4><a href="http://www.independentmail.com/brighter_christmas_fund/" title="BCF">Brighter Christmas Fund</a></h4>
-<p><a href="http://www.independentmail.com/brighter_christmas_fund/" title="BCF">Helping Upstate families have a better holiday! </a></p>
+						<a href="http://www.orangeandwhite.com/" title="All Tigers Sports. All the time."><img src="http://web.independentmail.com/skybox/images/oaw_skybox.jpg" width="120" height="107"></a>
+<h4><a href="http://www.orangeandwhite.com/" title="All Tigers Sports. All the time.">Clemson Fans!</a></h4>
+<p><a href="http://www.orangeandwhite.com/" title="All Tigers Sports. All the time.">Find our Clemson Tigers coverage at our new website: OrangeandWhite.com</a></p>
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
@@ -1266,9 +1309,9 @@ We will respond to your request and, if applicable and appropriate, make the req
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
-						<a href="http://www.rdpdeals.com/index.php?client=5B0B9B" title="Reader Rewards"><img src="http://web.independentmail.com/skybox/images/rewards.jpg" width="120" height="107" alt="Rewards"></a>
-<h4><a href="http://www.rdpdeals.com/index.php?client=5B0B9B" title="Rewards">Reader Rewards</a></h4>
-<p><a href="http://www.rdpdeals.com/index.php?client=5B0B9B" title="Apps">Let your subscription give back. Get discounts and perks at local businesses!</a></p>
+						<a href="/gasprices/" title="Lowest Upstate gas prices"><img src="http://web.independentmail.com/skybox/images/gasprices.jpg" width="120" height="107" alt="Lowest Upstate gas prices"></a>
+<h4><a href="/gasprices/" title="Lowest Upstate gas prices">Lowest Upstate Gas Prices</a></h4>
+<p><a href="/gasprices/" title="Lowest Upstate gas prices">Find the cheapest fuel where you live</a></p>
 					</div> <!-- end .skybox -->
 					
 				</li><!-- End carousel_page1 -->
@@ -1276,21 +1319,21 @@ We will respond to your request and, if applicable and appropriate, make the req
 				<li id="carousel_page2">
 					
 					<div class="skybox">
+						<a href="http://www.rdpdeals.com/index.php?client=5B0B9B" title="Reader Rewards"><img src="http://web.independentmail.com/skybox/images/rewards.jpg" width="120" height="107" alt="Rewards"></a>
+<h4><a href="http://www.rdpdeals.com/index.php?client=5B0B9B" title="Rewards">Reader Rewards</a></h4>
+<p><a href="http://www.rdpdeals.com/index.php?client=5B0B9B" title="Rewards">Let your subscription give back. Get discounts and perks at local businesses!</a></p>
+					</div> <!-- end .skybox -->
+					
+					<div class="skybox">
+						<a href="http://twitter.com/independentmail"><img src="http://web.independentmail.com/skybox/images/TWITTER.jpg" width="120" height="107" alt="Twitter"></a>
+<h4><a href="http://twitter.com/independentmail" title="Twitter">Follow us on Twitter!</a></h4>
+<p><a href="http://twitter.com/independentmail" title="Twitter">Stay up-to-date with your news. Follow us on Twitter, @independentmail.</a></p>
+					</div> <!-- end .skybox -->
+					
+					<div class="skybox">
 						<a href="http://independentmail.sc.newsmemory.com/special.php?date=20120713" title="Need 2 Know 2012"><img src="http://web.independentmail.com/skybox/images/n2ksky.jpg" width="120" height="107" alt="Need 2 Know 2012"></a>
-<h4><a href="http://independentmail.sc.newsmemory.com/special.php?date=20120713" title="Rewards">Need 2 Know</a></h4>
+<h4><a href="http://independentmail.sc.newsmemory.com/special.php?date=20120713" title="Need 2 Know 2012">Need 2 Know</a></h4>
 <p><a href="http://independentmail.sc.newsmemory.com/special.php?date=20120713" title="Need 2 Know 2012">A guide to what you need to know about the Anderson area</a></p>
-					</div> <!-- end .skybox -->
-					
-					<div class="skybox">
-						<a href="/gasprices/" title="Lowest Upstate gas prices"><img src="http://web.independentmail.com/skybox/images/gasprices.jpg" width="120" height="107" alt="Lowest Upstate gas prices"></a>
-<h4><a href="/gasprices/" title="Lowest Upstate gas prices">Lowest Upstate Gas Prices</a></h4>
-<p><a href="/gasprices/" title="Lowest Upstate gas prices">Find the cheapest fuel where you live</a></p>
-					</div> <!-- end .skybox -->
-					
-					<div class="skybox">
-						<a href="http://www.gofridayfootball.com/" title="Reader Rewards"><img src="http://web.independentmail.com/skybox/images/GFF_1.jpg" width="120" height="107" alt="Rewards"></a>
-<h4><a href="http://www.gofridayfootball.com/" title="Rewards">Football Fanatics!</a></h4>
-<p><a href="http://www.gofridayfootball.com/" title="Apps">Check out the latest on your favorite high school teams at GoFridayFootball.com</a></p>
 					</div> <!-- end .skybox -->
 					
 				</li><!-- End carousel_page2 -->
@@ -1298,21 +1341,21 @@ We will respond to your request and, if applicable and appropriate, make the req
 				<li id="carousel_page3">
 					
 					<div class="skybox">
-						<a href="http://www.independentmail.com/midnight-flight-results/2012/" title="Midnight Flight"><img src="http://media.independentmail.com/media/img/photos/2012/09/01/midnightflight12sky.jpg" width="120" height="107" alt="Midnight Flight"></a>
-<h4><a href="http://www.independentmail.com/midnight-flight-results/2012/" title="Best of Be">Midnight Flight</a></h4>
-<p><a href="http://www.independentmail.com/midnight-flight-results/2012/" title="Midnight Flight">Check out our searchable list of the full race results here!</a></p>
-					</div> <!-- end .skybox -->
-					
-					<div class="skybox">
-						<a href="http://twitter.com/independentmail"><img src="http://web.independentmail.com/skybox/images/TWITTER.jpg" width="120" height="107" alt="Twitter"></a>
-<h4><a href="http://twitter.com/independentmail" title="Salute your Graduate">Follow us on Twitter!</a></h4>
-<p><a href="http://twitter.com/independentmail" title="News on Twitter">Stay up-to-date with your news. Follow us on Twitter, @independentmail.</a></p>
+						<a href="http://www.gofridayfootball.com/" title="Football"><img src="http://web.independentmail.com/skybox/images/GFF_1.jpg" width="120" height="107" alt="Rewards"></a>
+<h4><a href="http://www.gofridayfootball.com/" title="Football">Football Fanatics!</a></h4>
+<p><a href="http://www.gofridayfootball.com/" title="Football">Check out the latest on your favorite high school teams at GoFridayFootball.com</a></p>
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
 						<a href="http://www.independentmail.com/lakehartwell/" title="Lake Hartwell"><img src="http://web.independentmail.com/skybox/images/skybox.jpg" width="120" height="107" alt="Lake Hartwell"></a>
 <h4><a href="http://www.independentmail.com/lakehartwell/" title="Lake Hartwell">Lake Hartwell's 50th</a></h4>
 <p><a href="http://www.independentmail.com/lakehartwell/" title="Lake Hartwell">See stories, a list of events and historic photos here! </a></p>
+					</div> <!-- end .skybox -->
+					
+					<div class="skybox">
+						<a href="http://www.independentmail.com/midnight-flight-results/2012/" title="Midnight Flight"><img src="http://media.independentmail.com/media/img/photos/2012/09/01/midnightflight12sky.jpg" width="120" height="107" alt="Midnight Flight"></a>
+<h4><a href="http://www.independentmail.com/midnight-flight-results/2012/" title="Midnight Flight">Midnight Flight</a></h4>
+<p><a href="http://www.independentmail.com/midnight-flight-results/2012/" title="Midnight Flight">Check out our searchable list of the full race results here!</a></p>
 					</div> <!-- end .skybox -->
 					
 				</li><!-- End carousel_page3 -->
@@ -1325,20 +1368,6 @@ We will respond to your request and, if applicable and appropriate, make the req
 <p><a href="http://www.independentmail.com/civilwar/" title="Civil War">Check out our special section!</a></p>
 					</div> <!-- end .skybox -->
 					
-					<div class="skybox">
-						<a href="http://www.orangeandwhite.com/" title="All Tigers Sports. All the time."><img src="http://web.independentmail.com/skybox/images/oaw_skybox.jpg" width="120" height="107"></a>
-<h4><a href="http://www.orangeandwhite.com/" title="All Tigers Sports. All the time.">Clemson Fans!</a></h4>
-<p><a href="http://www.orangeandwhite.com/" title="All Tigers Sports. All the time.">Find our Clemson Tigers coverage at our new website: OrangeandWhite.com</a></p>
-					</div> <!-- end .skybox -->
-					
-					<div class="skybox">
-						<a href="http://ushare.independentmail.com/" title="Share Your Photos!"><img src="http://web.independentmail.com/skybox/images/USHARE1.jpg" width="120" height="107" alt="Snow pics"></a>
-<h4><a href="http://ushare.independentmail.com/" title="Snow pics">Share Your Photos!</a></h4>
-<p><a href="http://ushare.independentmail.com/" title="Snow pics">Text or upload your best shots here</a></p>
-
-
-					</div> <!-- end .skybox -->
-					
 				</li><!-- End carousel_page4 -->
 			
 	
@@ -1347,11 +1376,11 @@ We will respond to your request and, if applicable and appropriate, make the req
 	</div> <!-- end #skybox_wrapper -->
 
 
-		
-		<div id="footer" class="clear">
-			
-			<div id="cellar">
-				<dl>
+    
+    <div id="footer" class="clear">
+        
+        <div id="cellar">
+            <dl>
 	<dt>On the Web:</dt>
 		<dd><a href="http://www.legalnotice.org/pl/independentmail/" title="Legal notices">Legal notices</a></dd>
 		<dd><a href="http://www.legalnotice.org/pl/independentmail/#SOS" title="Sex offender search">Sex offender search</a></dd>
@@ -1426,10 +1455,10 @@ We will respond to your request and, if applicable and appropriate, make the req
 		</dl>
 	</dd>
 </dl>
-			</div> <!-- end #cellar -->
-			
-			<div id="site_tools">
-				<h2 style="color:#C2C2C2; border-bottom:1px solid; padding-bottom:5px;"><a href="http://local.independentmail.com" style="color:#C2C2C2;" title="Anderson Business Directory">Business Directory</a></h2>
+        </div> <!-- end #cellar -->
+        
+        <div id="site_tools">
+            <h2 style="color:#C2C2C2; border-bottom:1px solid; padding-bottom:5px;"><a href="http://local.independentmail.com" style="color:#C2C2C2;" title="Anderson Business Directory">Business Directory</a></h2>
 
 				<form style="margin:0;color:#C2C2C2;background:#000;border:0;padding:12px 0;" target="_top" method="GET" action="http://local.independentmail.com/search.pg" class="submit_form default_form">
 
@@ -1448,88 +1477,108 @@ We will respond to your request and, if applicable and appropriate, make the req
 				<div>Powered by <a style="text-decoration: none;" href="http://www.local.com">Local.com</a></div>
 			</div>
 		</form>
-			</div> <!-- end #site_tools -->
-			
-		</div> <!-- end #footer -->
-			
-		<div id="copyright" class="clear">
-			<img src="http://media.independentmail.com/corp_assets/asphalt/img/sing_logo.gif" alt="Scripps Interactive Newspaper Group"> 
-			Scripps Interactive Newspapers Group<br>
-			2012 The E.W. Scripps Co.<br>
-			<span class="partners"><a href="/local-news/partners/" title="More news from our local partners">More news from our local partners »</a></span>
-			<a href="/privacy/" title="Privacy Policy">Privacy Policy</a> | <a href="/user/" title="User Agreement">User Agreement</a> | <a href="/privacy/#about_our_ads">About Our Ads</a>
-			
+        </div> <!-- end #site_tools -->
+        
+    </div> <!-- end #footer -->
+        
+    <div id="copyright" class="clear">
+        <img src="http://media.independentmail.com/corp_assets/asphalt/img/sing_logo.gif" alt="Scripps Interactive Newspaper Group"> 
+        Scripps Interactive Newspapers Group<br>
+        2013 The E.W. Scripps Co.<br>
+        <span class="partners"><a href="/local-news/partners/" title="More news from our local partners">More news from our local partners »</a></span>
+        <a href="/privacy/" title="Privacy Policy">Privacy Policy</a> | <a href="/user/" title="User Agreement">User Agreement</a> | <a href="/privacy/#about_our_ads">About Our Ads</a>
+        
 
-			
+        
 
-		</div> <!-- end #copyright -->
-		
-		
-	</div> <!-- end #page_wrapper -->
-	
-	
-		<!-- Javascript -->
-		<script src="http://media.independentmail.com/corp_assets/asphalt/js/jquery-1.4.1.min.js" type="text/javascript"></script>
-		<script src="http://media.independentmail.com/corp_assets/asphalt/js/ui/jquery-ui-1.7.1.core-tabs.js" type="text/javascript"></script>
-		
-		
-			<script src="http://media.independentmail.com/corp_assets/asphalt/js/plugins.scriptalizer.js" type="text/javascript"></script>
-		
-	
-		<!--[if lte IE 6]>
-			<script src="http://media.independentmail.com/corp_assets/asphalt/js/supersleight-min.js" type="text/javascript"></script>
-		<![endif]-->
-		
-		
-		<script src="http://media.independentmail.com/corp_assets/asphalt/js/jSING/core/jSING.core.yui.2011-11-07_16-10-58.js" type="text/javascript"></script>
-		<script src="http://media.independentmail.com/corp_assets/asphalt/js/jSING/news/jSING.news.yui.2011-11-08_16-28-17.js" type="text/javascript"></script>
-		<script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
+    </div> <!-- end #copyright -->
+    
+    
+</div> <!-- end #page_wrapper -->
 
-			<script src="http://media.independentmail.com/corp_assets/asphalt/js/jSING.video-html5.yui.js" type="text/javascript"></script>
-		
-		
-		<!-- rpx_login_global -->
-	    <script type="text/javascript">
-	      var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "http://static.");
-	      document.write(unescape("%3Cscript src='" + rpxJsHost +
-	    "rpxnow.com/js/lib/rpx.js' type='text/javascript'%3E%3C/script%3E"));
-	    </script><script src="https://rpxnow.com/js/lib/rpx.js" type="text/javascript"></script>
 
-	    <script type="text/javascript">
-	      RPXNOW.overlay = true;
-	      RPXNOW.language_preference = 'en';
-	    </script>
-	
+    <!-- Javascript -->
+    <script src="http://code.jquery.com/jquery-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://media.independentmail.com/corp_assets/asphalt/js/ui/jquery-ui-1.7.1.core-tabs.js" type="text/javascript"></script>
+    <script src="http://media.independentmail.com/corp_assets/asphalt/js/modernizr-2.6.2.min.js" type="text/javascript"></script>
+    <script src="http://media.independentmail.com/corp_assets/asphalt/js/xd.js" type="text/javascript"></script>
+    
+    
+        <script src="http://media.independentmail.com/corp_assets/asphalt/js/plugins.scriptalizer.js" type="text/javascript"></script>
+    
+    
+    <script src="http://media.independentmail.com/corp_assets/asphalt/js/jquery.fancybox.min.js" type="text/javascript"></script>
 
-		<!-- facebook like/recommended script -->
-		<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
-		<script>
-		  window.fbAsyncInit = function() {
-		    FB.init({appId: '332135147741', status: true, cookie: true,
-		             xfbml: true, oauth: true});
-		  };
-		  (function() {
-		    var e = document.createElement('script'); e.async = true;
-		    e.src = document.location.protocol +
-		      '//connect.facebook.net/en_US/all.js';
-		    document.getElementById('fb-root').appendChild(e);
-		  }());
-		</script>
+    <!--[if lte IE 6]>
+        <script src="http://media.independentmail.com/corp_assets/asphalt/js/supersleight-min.js" type="text/javascript"></script>
+    <![endif]-->
+    
+    
+    <script src="http://media.independentmail.com/corp_assets/asphalt/js/jSING/core/jSING.core.yui.2011-11-07_16-10-58.js" type="text/javascript"></script>
+    <script src="http://media.independentmail.com/corp_assets/asphalt/js/jSING/news/jSING.news.yui.2011-11-08_16-28-17.js" type="text/javascript"></script>
+    <script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
 
-		<script type="text/javascript">
-			$('#nav li').hover(
-				function () {
-					//show its submenu
-					$('ul', this).slideDown(100);
+        <script src="http://media.independentmail.com/corp_assets/asphalt/js/jSING.video-html5.yui.js" type="text/javascript"></script>
+    
+    
+    <!-- rpx_login_global -->
+    <script type="text/javascript">
+      var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "http://static.");
+      document.write(unescape("%3Cscript src='" + rpxJsHost +
+    "rpxnow.com/js/lib/rpx.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://rpxnow.com/js/lib/rpx.js" type="text/javascript"></script>
 
-				}, 
-				function () {
-					//hide its submenu
-					$('ul', this).slideUp(100);			
-				}
-			);
-		</script>
-	
+    <script type="text/javascript">
+      RPXNOW.overlay = true;
+      RPXNOW.language_preference = 'en';
+    </script>
+
+
+    <!-- facebook like/recommended script -->
+    <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({appId: '332135147741', status: true, cookie: true,
+                 xfbml: true, oauth: true});
+      };
+      (function() {
+        var e = document.createElement('script'); e.async = true;
+        e.src = document.location.protocol +
+          '//connect.facebook.net/en_US/all.js';
+        document.getElementById('fb-root').appendChild(e);
+      }());
+    </script>
+
+    <script type="text/javascript">
+        $('#nav li').hover(
+            function () {
+                //show its submenu
+                $('ul', this).slideDown(100);
+
+            }, 
+            function () {
+                //hide its submenu
+                $('ul', this).slideUp(100);			
+            }
+        );
+    </script>
+
+
+
+        
+             
+<script src="http://media.independentmail.com/corp_assets/asphalt/js/jquery.smartbanner.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $.smartbanner({
+        icon: 'http://media.independentmail.com/media/apps/icons/anderson__.png',
+        price: '',
+        title: 'Anderson Independent Mail',
+        author: 'Scripps Media, Inc'
+    });
+</script>
+
+        
+    
 	
 	<script type="text/javascript">
 		/* Javascript for initializing functions when the page loads */
@@ -1560,6 +1609,33 @@ We will respond to your request and, if applicable and appropriate, make the req
 	    })();
 	
 	</script>
+    
+    
+    <!-- Quantcast Tag -->
+    <script type="text/javascript">
+    var _qevents = _qevents || [];
+
+    (function() {
+    var elem = document.createElement('script');
+    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+    })();
+
+    _qevents.push({
+    qacct:"p-cfh7-Kj7hw4Cs"
+    });
+    </script>
+
+    <noscript>
+    <div style="display:none;">
+    <img src="//pixel.quantserve.com/pixel/p-cfh7-Kj7hw4Cs.gif" border="0" height="1" width="1" alt="Quantcast"/>
+    </div>
+    </noscript>
+    <!-- End Quantcast tag -->
+        
 	
 	
 	<script type="text/javascript" src="http://media.independentmail.com/corp_assets/asphalt/js/swfobject-2.2.js"></script>
