@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translink.co.uk privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024091504id_/http%3A//www.translink.co.uk/en/Translink-Footer/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.co.uk privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604030541id_/http%3A//www.translink.co.uk/Translink-Footer/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Translink
 
