@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longtailvideo.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228014959id_/http%3A//www.longtailvideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longtailvideo.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604220508id_/http%3A//www.longtailvideo.com/privacy) for the most accurate reproduction.*
 
 # LongTail Video Privacy Policy | JW Player | Bits on the Run
 
@@ -61,5 +61,5 @@ This privacy policy is subject to change. If the company plans to make any mater
 For questions or concerns relating to privacy, please email [privacy@LongTailVideo.com](mailto:privacy@longtailvideo.com). Alternatively, you may contact us at the address below:
 
 **LongTail Video**  
-134 Fifth Avenue, 5th Floor  
-New York, New York 10011 
+275 7th Ave Rm 2101  
+New York, NY 10011 
