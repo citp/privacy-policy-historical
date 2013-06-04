@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailstore.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024105852id_/http%3A//www.mailstore.com/en/legal-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailstore.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604052114id_/http%3A//www.mailstore.com/en/legal-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,3 +48,12 @@
     § 7 Disclosure
     
     Upon request, you will receive information on the data stored about your person or pseudonym. This information can also be provided electronically, if desired.
+
+## Any Questions?
+
+**Phone**  
+800-747-2915 
+
+## Free Live Demo
+
+Let our technical experts present MailStore Server in a free webinar, at no obligation to you.
