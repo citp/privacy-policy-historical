@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canon.com.au privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218135928id_/http%3A//www.canon.com.au/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canon.com.au privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604060445id_/http%3A//www.canon.com.au/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Canon Australia
 
@@ -7,7 +7,7 @@
 This is the Privacy Policy of Canon Australia Pty Limited (ABN 66 005 002 951) and its wholly-owned subsidiary, Canon Finance Australia Pty Limited (ABN 21 003 637 116) (“ **CFA** ”), (collectively, “ **Canon** ”). Its purpose is to inform individuals of our policies and practices regarding the collection, use, disclosure and storage of their personal information.  
 
 
-### General 
+### General
 
 Canon respects individuals’ privacy. Canon is bound by, and complies with, the National Privacy Principles (“ **NPPs** ”) prescribed under the Privacy Act 1988 (Cth). (Further information regarding the NPPs can be found at the Privacy Commissioner’s website at [www.privacy.gov.au](http://www.privacy.gov.au/))
 
@@ -25,7 +25,7 @@ In accordance with NPP1:
 
 
 
-###    
+###   
 Use and disclosure of personal information
 
 In accordance with NPP2:
@@ -45,7 +45,7 @@ In accordance with NPP2:
 
 
 
-###    
+###   
 Collection, use and disclosure – specific situations
 
 Browsing Canon-owned websites:
@@ -70,12 +70,12 @@ MyCanon:
 
 
 
-###    
+###   
 Data quality
 
 In accordance with NPP3, Canon will take all reasonable steps to ensure that the personal information it collects, uses or discloses is accurate, complete and up-to-date.
 
-###    
+###   
 Data security
 
 In accordance with NPP4:
@@ -85,7 +85,7 @@ In accordance with NPP4:
 
 
 
-###    
+###   
 Openness
 
 In accordance with NPP5:
@@ -94,7 +94,7 @@ In accordance with NPP5:
 
 
 
-###    
+###   
 Access and correction
 
 In accordance with NPP6:
@@ -104,17 +104,17 @@ In accordance with NPP6:
 
 
 
-###    
+###   
 Children
 
 Children (persons under the age of 18 years) are eligible to access and use the Site. However, if you are under the age of 15 we request that you obtain the consent of your parent/s or guardian/s before submitting any personal information to the Site.
 
-###    
+###   
 Changes to this Policy
 
 Canon reserves the right to change this Policy from time to time, in accordance with relevant circumstances. If we do so, we will post the revised Policy here. We may also give notice by other means, such as a message on our website.
 
-###    
+###   
 How to contact us
 
 Any complaints, problems or queries regarding Canon’s management of personal information should be directed to Canon’s Privacy Officer by:
