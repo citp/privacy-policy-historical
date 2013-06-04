@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datzhott.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204032932id_/http%3A//www.datzhott.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datzhott.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604190653id_/http%3A//datzhott.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,4 +67,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 [http://www.datzhott.com](http://www.datzhott.com/)  
 datzhott.com@gmail.com
 
-This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
+This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm). 
