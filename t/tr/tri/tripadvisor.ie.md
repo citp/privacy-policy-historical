@@ -1,89 +1,166 @@
-> *The following text is extracted and transformed from the tripadvisor.ie privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529235421id_/http%3A//www.tripadvisor.ie/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.ie privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604024823id_/http%3A//www.tripadvisor.ie/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - TripAdvisor
 
-This Web site (the "Site") is operated by TripAdvisor LLC, 141 Needham Street, Newton, MA 02464, USA.
+TripAdvisor is an online service that provides recommendations for hotels, resorts, inns, vacations, travel packages, travel guides, flights, vacation rentals, and lots more. Our Web site is part of the TripAdvisor® Media Network, which is owned and operated by TripAdvisor LLC. More details about TripAdvisor LLC can be found below under “How you can contact us.” 
 
-TripAdvisor has provided this privacy policy because we value your right to privacy. This policy is effective as of August 6, 2007, and governs the collection and use of personal information through this Site on or after this date.
+We understand that providing information online involves a great deal of trust on your part. We take this trust very seriously, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Before submitting your personal information to our Web site, please read this Policy carefully to learn about our privacy practices. 
 
-This policy describes the types of information TripAdvisor collects from its users and how that information is used. Please read this policy carefully before providing us with any personal information. By using this Site, you agree to TripAdvisor's use of your personal information in accordance with this policy. If you do not agree with the terms of this policy, please do not use this Site. If you have questions about this policy, e-mail us at [privacy@tripadvisor.co.uk](mailto:privacy@tripadvisor.co.uk).
+  * What information we collect from you
+  * How we use your information
+  * With whom we share your information
+  * How you can access your information
+  * Your choices with respect to the collection and use of your information
+  * How we protect your information
+  * Children's privacy
+  * External links
+  * Visiting our Web site from outside the United States
+  * Changes to this Privacy Policy
+  * How you can contact us
 
-### Information we collect.
+
+
+### What information we collect from you
 
   
 
 
-#### 1\. Unregistered users
+#### In General.
 
-We encourage you to register with us in order to take advantage of TripAdvisor's many personalization features. However, you may choose not to register and take advantage of any feature of our Site where registration is not required. 
+We receive and store any information you enter on our Web site or give us in any other way. This includes information that can identify you ("personal information"), including your first and last name, telephone number, postal and e-mail addresses, user name and password. We may also request information about your travel plans, style, and preferences, including meal requests, seat selection, frequent flyer/hotel/car rental program information, and flight class, luggage, and ticketing options. You can choose not to provide information to us, but in general some information about you is required in order for you to enjoy the benefits of being a registered member. For example, only registered members are able to post travel reviews, participate in discussion forums, e-mail TripAdvisor content to themselves and others, access members-only newsletters and travel planning content, and enter surveys, contests, or sweepstakes. In addition, some information is also required in order for you to ask us a question or initiate other transactions on our site. 
 
-If you do not register, then the information we collect from you is limited. We log your IP address in order to help diagnose problems with our server, administer our Site and track usage statistics. Your IP address may vary each time you visit, or it may be the same, depending on whether you access our Site through an always-on type of Internet connection (e.g., cable modem or DSL), or through a dial-up connection (e.g., AOL or Earthlink). Either way, it would be extremely difficult for us to identify you through your IP address, and we make no attempt to do so. If you reached our Site by clicking on a link or advertisement on another site, then we also log that information. This helps us to maximize our Internet exposure, and to understand the interests of our users. All of this information is collected and used only in the aggregate; that is, it is entered into our database, where we can use it to generate overall reports on our visitors, but not reports about individual visitors.
+#### Information About Others.
 
-We also place a small file known as a "cookie" on your computer's hard drive. A cookie may contain information that allows us to track your path through our Site and to determine whether you have visited us before. However, unless you register with us, it contains no personally identifiable information that would allow us to identify you. Cookies cannot be used to read data off of your hard drive, and cannot retrieve information from any other cookies created by other Web sites. We use cookies in this manner to help us understand how visitors use our Site, and to help us to improve our Site. You may refuse to accept a cookie from us by following the procedures specific to your Web browser. Although you may do so, you may find that your browser doesn't properly react when visiting not only our Site, but other Web sites as well. Please note that since cookies don't provide us with any information from which we can identify you, we suggest you allow us to place one on your computer so you can fully enjoy the Site's features. If you visit our Site by "clicking-through" from a site operated by one of our partners, and you have registered with that partner, then certain information about you that you have provided to that partner may be transmitted to us. You should review the privacy policy of the Web site from which you reached our Site in order to determine what information was collected and how you agreed that our partner could use that information. Regardless of what information was transmitted to us, however, we don't keep it unless you register with us.
+You will have the opportunity to provide contact information for other people through our Web site. You should obtain the consent of other individuals prior to providing TripAdvisor with their personal information. 
 
-#### 2\. Registered users
+#### Information from Other Sources.
 
-If you choose to register with us, you'll be able to add content to our Site. For example, you may post your own travel reviews and participate in our discussion forums. You will also be able to email TripAdvisor content to yourself and others. In addition, you will benefit from the ability to personalize your TripAdvisor Site experience. The benefits of registering will increase over time as we get to know you better and introduce new features. We encourage you to register so that you can experience everything that TripAdvisor has to offer!
+We also may periodically obtain both personal and non-personal information about you from affiliated entities, business partners and other independent third-party sources and add it to other information about you. For example, if you visit TripAdvisor by "clicking-through" from a site operated by one of our business partners, and you have registered with that partner, then information about you that you have provided to that partner may be shared with us, such as information and demographic information. As another example, if you access third party services, such as social media services, through our Web site or before coming to our Web site, we may collect information such as your user name, password, and other information made available to us through those services in order to improve and personalize your use of our Web site. 
 
-If you register with us, we will collect personal information from you in addition to the non-personal information described above. That personal information may include the information you manually enter into our forms such as your name, email address, mailing address, telephone number, travel preferences, user name and password or contact information for other people.. We may store all or some of that information in a cookie file on your hard drive, so that our system will recognize you each time you visit our site. In that way, we can save your preferences from visit to visit and present you with a customized Web site, without requiring you to log into our Site every time you visit. To improve services and enhance personalization, we may periodically obtain information about you from other independent third-party sources from whom we have lawfully obtained this data and add it to your registration information. Additionally, authorized TripAdvisor personnel may update your registration information to accurately reflect any new information included in communications received from you.
+We have partnered with Facebook to provide Instant Personalization on TripAdvisor for members of Facebook. If you have Instant Personalization set to "enabled" in your Facebook privacy settings and you are logged into Facebook, then TripAdvisor will be personalized for you when you visit the Web site, even if you are a first-time user of TripAdvisor's Web site. For example, we will show you reviews that your Facebook friends have posted on TripAdvisor and places they have visited. In order to provide you with this personalized experience, Facebook provides us with information that you have chosen to make available pursuant to your Facebook privacy settings. That information may include your name, profile picture, gender, friend lists and any other information you have chosen to make available. 
 
-If you visit our Site by "clicking-through" from a site operated by one of our partners, and you have registered with that partner, then certain information about you that you have provided to that partner may be transmitted to us. You should review the privacy policy of the Web site from which you reached our Site in order to determine what information was collected and how you agreed that our partner could use that information. We may or may not retain that information; if we do, then we will only use it in accordance with our privacy policy, regardless of the policy of the partner site from which you came to us.
+When you first visit TripAdvisor, you will see an option to turn off Instant Personalization in just one click. If you decide to turn it off at a later date, you can do so by first logging into Facebook and clicking on the disable link on [this page](http://www.tripadvisor.ie/instantpersonalization?frame=deauth) or by scrolling over the link on the top of the page on TripAdvisor and clicking on "How to turn off personalization". You can also turn off Instant Personalization by editing your privacy settings on Facebook. Please note that, if you have Facebook friends who are using TripAdvisor, they may also have shared information about you with us through Facebook. If you wish to prevent that sharing, you can do so by editing your Facebook privacy settings. 
 
-If you reach our Site through one of our partners (whether or not you have registered with our partner), and you choose to register with us, we may be required to give our partner some or all of your registration information. We will only do so in accordance with this policy, but we cannot control how our partner uses the information. If you have questions about our partner's privacy policy, you should review their policy before providing information to us. Of course, you can ensure that the personal information you provide to us is not shared with our partners (except in accordance with this policy), by visiting us directly instead of clicking-through from one of our partners.
+[Learn more about Instant Personalization](http://www.facebook.com/instantpersonalization/) on Facebook or read TripAdvisor's [Instant Personalization FAQs.](http://www.tripadvisor.ie/vpages/ip_faq.html)
 
-### How we use the personal information we collect.
+#### Automatic Collection of Information.
 
-We use the personal information we collect to help both of us! As we mentioned above, registering with us allows you to personalize our Site so that it is most useful to you. It also allows you to log into our Site automatically each time you visit, rather than manually typing your user name and password every time. We may also use your personal information to periodically contact you with news or important information from TripAdvisor, with communications from other TripAdvisor members, and/or to request your feedback on our Site. In addition to these periodic updates, we may email you additional materials, but only if you specifically request them. These might include opt-in newsletters and other materials that you proactively request from TripAdvisor.
+We automatically collect some information about your computer when you visit TripAdvisor. For example, we will collect session data, including your IP address, Web browser software, and referring Web site. We also may collect information about your online activity, such as content viewed and pages visited. One of our goals in collecting this automatic information is to help us understand the interests of our users and customize your user experience. 
 
-In addition to these communications, if you have provided an email address, we may use your personal information to send you notifications about special offers or to tell you about opportunities available from our partners, subject to your consent (which may be withdrawn at any time in the manner set forth herein). 
+#### Cookies and Other Web Technologies.
 
-You may opt-out of any or all marketing communications from TripAdvisor in any commercial e-mail we send or at any time, as well as access and update your personal information, by visiting <http://www.tripadvisor.co.uk/MemberProfile>.
+Cookies are small data text files and can be stored on your computer’s hard drive (if your Web browser permits). TripAdvisor.com and its affiliated websites use cookies for the following general purposes: 
 
-We may also use certain information that you provide in order to present you with advertising that you may find interesting. This benefits both of us. It benefits us because advertising helps pay the bills, and we can charge our advertisers more if they know that their ads will be seen by somebody more likely to find it useful. It benefits you because you see advertising that may actually be interesting to you, rather than annoying.
-
-You can cancel your registration with us by e-mailing [cancel@tripadvisor.co.uk](mailto:cancel@tripadvisor.co.uk), and placing your email address in the subject of the e-mail. We will send you an e-mail to confirm your request. After we receive confirmation, we will remove your information from our active database, but some information may remain in our archives for an additional period of time before being deleted. We may not be able to remove your information from our partners' databases, if we have transmitted any information to them.
-
-### Disclosure of your personal information.
-
-TripAdvisor does not sell or rent any personal information to any third party, other than our partners, as discussed in this policy. We may aggregate personal information from all of our users and provide that information in the aggregate to other parties, including advertisers, for marketing and promotional purposes. However, if we do so, that information will not be in a form that will allow any third party to identify you personally.
-
-We may share some of your personally identifiable information with our parent company in the United States and our subsidiaries and sister companies around the world that are committed to providing you with a comprehensive array of travel packages and services to meet your travel needs. Sharing this information allows us to better understand the ways in which our various product and service offerings can assist travelers. It also enables us to provide you with information about travel opportunities in which you might be interested. We do not place restrictions on the use of personal information by our parent company, subsidiaries, or affiliates but they will treat it at least as protectively as they treat information they obtain from their other users. They also will comply with applicable laws governing the transmission of promotional communications, and give you an opportunity in any such email that they send to choose not to receive such promotional e-mail messages in the future.
-
-**PLEASE BE AWARE THAT THE LAWS OF UNITED STATES AND MOST COUNTRIES OUTSIDE THE EUROPEAN ECONOMIC AREA ARE GENERALLY NOT REGARDED AS PROVIDING "ADEQUATE" DATA PROTECTION AS CONTEMPLATED UNDER ARTICLE 25 OF THE EUROPEAN UNION'S DATA PROTECTION DIRECTIVE (95/46/EC). BY AGREEING TO THIS PRIVACY POLICY AND USING THE SITE, YOU ARE CONSENTING TO (i) THE TRANSFER OF SUCH PERSONAL INFORMATION TO THESE COUNTRIES (ii) USE IN THAT COUNTRY IN ACCORDANCE WITH THIS POLICY.**
-
-We also may share your personal information with third-parties specifically engaged by TripAdvisor to provide services to TripAdvisor (such as market research firms, marketing services providers and advertising agencies), in which case we will require those parties to agree to use any such personally-identifiable data solely for the purpose of providing the specified services to TripAdvisor. As you might expect, TripAdvisor must cooperate with legal authorities, and may in some circumstances be required to disclose personally identifiable information in response to requests from law enforcement authorities, or in response to legal proceedings. We don't expect this to happen, but if it does, we will provide only the information required. In other words, we will not simply turn over our database in response to a specific legal requirement. We can also turn over information about you if we believe we must in order to prevent a violation of the law, and by accepting this policy, you consent to our doing so, in our sole discretion. You also consent to our disclosing information about you in the course of legal proceedings if we are legally required to do so, if we reasonably believe that doing so may mitigate our liability, or if doing so will assist us in enforcing our legal rights. We also may share your information in connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, and in the unlikely event of insolvency.
-
-Your profile and contributions on TripAdvisor will be publicly viewable and identifiable via your screen name. TripAdvisor encourages its members to create screen names that are not visibly connected to their first and last names. TripAdvisor will share neither your email address nor first and last names with other members, nor will we display them in any public manner, unless you expressly choose to have us do so. 
-
-### Member-to-member communication features.
-
-When you sign up on TripAdvisor, member-to-member communication features are automatically enabled. These features, such as traveller networks and private messaging, allow you and other TripAdvisor members to communicate with each other as well as with non-members, via TripAdvisor. 
-
-TripAdvisor members can turn off member-to-member features at any time via their member profile, should they wish to do so.
-
-If you do participate in these features you agree that: 
-
-  * you are willing to accept communication from other TripAdvisor members 
-  * you have already obtained prior consent from contacts in your personal email address book for us to send them such communication on your behalf. 
+  * To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting our site. For example, if you register on our site, we may use cookies to remember your registration information, so you do not need to log into our site each time you visit. We also may record your password in a cookie, if you checked the box entitled "Keep me signed in on this computer unless I sign out.” Please note that member IDs, passwords, and any other account-related data included in such cookies are encrypted for security purposes. 
+  * To help us customize the content, website experience, and advertisements provided to you on our websites and on other websites across the Internet. For example, when you access a web page, a cookie is automatically set by us, our service providers, or our partners to recognize your browser as you navigate on the Internet and to present you with information and advertising based on your apparent interests. See Display of Advertising/Your Choices for more information about our online advertising practices and your choices. 
+  * To help measure and research the effectiveness of website features and offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon). 
 
 
 
-Non-members always have the option to stop receiving further communication from TripAdvisor members. 
+The Help portion of the toolbar on most browsers should tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable non-essential types of cookies. Please note that if you refuse to accept cookies, you may not be able to access many of the travel tools offered on our sites. 
 
-We have designed these features to avoid any disclosure of your personal information to other users and to allow you to decline to participate, should you wish to do so. Your e-mail address is never disclosed to other TripAdvisor members or vice versa. 
+Our sites also may use Web beacons (also known as clear gifs, pixel tags or Web bugs), which are tiny graphics with a unique identifier, similar in function to cookies, that are placed in the code of a Web page. We use Web beacons to monitor the traffic patterns of users from one page within our sites to another, to deliver or communicate with cookies, to understand whether you have come to our site from an online advertisement displayed on a third-party Web site, and to improve site performance. We also may allow our service providers to use Web beacons to help us understand which emails have been opened by recipients and to track the visitor traffic and actions on our site. This helps us measure the effectiveness of our content and other offerings. 
 
-### How you can review and update your personal information.
+#### Display of Advertising/Your Choices
 
-You can review and update the personal information you have provided through the registration process by visiting <http://www.tripadvisor.co.uk/MemberProfile>. You can access your personal information and, where shown to be incorrect, correct the information. You may contact us at [privacy@tripadvisor.co.uk](mailto:privacy@tripadvisor.co.uk) if you wish do so.
+_Data collected to serve you with relevant advertising_
 
-### Steps we take to protect your personal information.
+TripAdvisor is committed to providing you with relevant content and information across our sites. To do this, we may collect information about your travel-related searches, such as whether you are looking for airline flights or hotels, and use this information to serve you with ads on our sites or elsewhere online that match your interests. So, for example, if you search for a flight to Florida on TripAdvisor.com, you may see an ad for a Florida travel package on TripAdvisor.com or on another website you visit. 
 
-TripAdvisor has implemented security procedures to help protect the personal information stored in our systems. For example, we limit access to personal information about you to employees who we believe reasonably need to come into contact with that information. We also employ processes (such as password hashing, login auditing, and idle session termination) to protect against unauthorized access to your personal information. While we implement appropriate technical and organisational measures to protect against unauthorised or unlawful processing of personal information and against accidental loss or destruction of, or damage to personal information there is no way for us to guarantee the absolute security of your personal information. 
+We do not share your personal contact information (such as email addresses) with unaffiliated third parties so they can serve you with advertisements. You can choose not to receive relevant online advertising on other Web sites, based on your travel-related searches on TripAdvisor.com, by clicking [here](http://www.networkadvertising.org/). Note that if you choose not to receive tailored ads, you will see online advertisements, but they will be more general and less relevant to you. 
 
-### Children’s privacy.
+_Data collected by business partners and ad networks to serve you with relevant advertising_
 
-This Site is a general audience site, and we do not knowingly collect information about children. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information.
+Many of the advertisements you see on the TripAdvisor.com family of sites are served by TripAdvisor.com or its service providers. But we also allow third parties to collect information about your online activities through cookies and other technologies. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on our sites, and (2) advertising networks, who collect information about your interests when you view or interact with one of the advertisements they place on many different Web sites on the Internet. The information gathered by these third parties is used to make predictions about your characteristics, interests or preferences and to display advertisements on our sites and across the Internet tailored to your interests. 
 
-### Changes to this Privacy Policy.
+We do not permit these third parties to collect personal contact information about you (such as email address) on our site, nor do we share with them any personal information about you. 
 
-We reserve the right to change this policy should we deem it advisable to do so. If we make material changes that will affect personal information we have already collected from you, we will make reasonable efforts to notify you of the changes and to give you the opportunity to amend or cancel your registration.
+Please note that we do not have access to or control over cookies or other technologies these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy. Some of these companies are members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers a single location to opt out of ad targeting from member companies. To learn more, please click [here](http://www.networkadvertising.org/). 
+
+#### Information About Your Location.
+
+When you use a TripAdvisor application (the "Application") on a mobile phone or tablet device ("Device"), we will collect and use information about you in broadly the same way and for substantially similar purposes as when you use a TripAdvisor website. In addition, we may collect information about your location, if you have instructed your Device to send such information to the Application, via the privacy settings on that Device, or if you have uploaded photos tagged with location information. We will use the location information collected from your Device or photos to enhance your use of the Application. For example, we may use your location to show you reviews of hotels or restaurants near you. You can change the privacy settings of your Device at any time, in order to turn off the functionality to share location information with the Application and/or the functionality to tag your photos with location information. If you have any queries about the privacy settings of your Device, we suggest you contact the manufacturer of your Device or your mobile service provider for help. 
+
+#### Call Recording and Monitoring.
+
+Please be aware that calls to and from TripAdvisor may be recorded.  We may use the call recordings to monitor our customer service for quality or compliance purposes, to check the accuracy of the information you provide us, for fraud prevention purposes, or to provide training to our staff.  We will retain the call recordings for as long as reasonably necessary to perform such activities and then delete them.  Any personal information obtained from you during the call will be treated in accordance with the provisions of this Privacy Policy. 
+
+### How we use your information
+
+TripAdvisor uses the information we collect about you for the following general purposes: for registration and to manage your account, including to facilitate your access to and use of our site; to communicate with you in general, including to provide information about TripAdvisor and invitations from the TripAdvisor community; to enable us to publish your reviews, forum posts, and other content to the TripAdvisor community; to respond to your questions and comments; to measure interest in and improve our products, services, and Web site; to notify you about special offers and products or services available from us or our partners that may be of interest to you; to otherwise customize your experience with TripAdvisor; to solicit information from you, including through surveys; to resolve disputes or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and as otherwise described to you at the point of collection. 
+
+If you have signed up as the owner or manager of a vacation rental, or listed your vacation rental property, we will send you e-mail messages at the email address you provide to us. 
+
+#### Email Communications.
+
+We want to make it easy for you to take advantage of travel-related opportunities on our website. One way we do this is by sending you email messages that contain information about your apparent travel-related interests. For example, if you search for a flight to New York on our website, we may send you an email message about airfares and travel to New York or other destinations. We believe these email messages will provide you with useful information about travel-related special offers available through our site. Please note that you will have the opportunity to choose not to receive these email messages in any such email we send. Please review "Your choices with respect to the collection and use of your information" below to exercise your rights regarding email communications. 
+
+### With whom we share your information
+
+TripAdvisor may share your information with the following entities: 
+
+  * _Third-party vendors_ who provide services or functions on our behalf, including business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our website or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose. 
+  * _Business partners_ with whom we may offer products or services in conjunction. You can tell when a third party is involved in a product or service you have requested because their name will appear either with ours or separately. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. Please note that we do not control the privacy practices of these third-party business partners. 
+  * _Affiliated Web sites_. If you were referred to TripAdvisor from another Web site, we may share your registration information, such as your name, email address, mailing address, telephone number and travel preferences, about you with that referring Web site. We have not placed limitations on the referring Web sites’ use of personal information and we encourage you to review the privacy policies of any Web site that referred you to TripAdvisor. 
+  * _Companies within our corporate family_. We may share your personal information within the TripAdvisor Media Group, as well as with our parent companies and domestic and international corporate affiliate companies and websites (including DaoDao.com). This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial e-mail they send to choose not to receive such e-mail messages in the future. 
+
+
+
+We also may share your information: 
+
+  * In response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us. 
+  * When we believe it is necessary to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of TripAdvisor, our customers, or others; and in connection with our Terms of Service and other agreements. 
+  * In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
+
+
+
+If you choose to create a profile on TripAdvisor, certain information in your profile will be publicly viewable and identifiable by clicking your screen name. You will have the ability to view your profile as members of the public will see it. Additionally, if you choose to participate in our member-to-member communications programs (e.g. traveller networks and private messaging), other TripAdvisor members may contact you by using TripAdvisor as an intermediary; however, TripAdvisor will not share your email address with any other members nor display it any public manner. All TripAdvisor members have the option to turn off the member-to-member communication features at any time. 
+
+Other than as set out above, you will be notified when personal information about you will be shared with third parties, and you will have an opportunity to choose not to have us share such information. 
+
+We also may share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors our Web site receives or the most popular hotels and vacation destinations. This information does not contain any personal information and is used to develop content and services we hope you will find of interest. 
+
+### How you can access your information
+
+We endeavor to ensure that your information is relevant to its intended use, accurate, and complete. You can access and update your contact information by visiting your subscriptions page on the TripAdvisor Web site. You can close your TripAdvisor account by contacting us at the email address listed below. We will send you an e-mail to confirm your request. Please note that after you close an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time. Please also note that we may retain certain information associated with your account in our archives, including for analytical purposes as well as for recordkeeping integrity. 
+
+If you do not hold an account with us, or wish to contact us in relation to any personal information that is not displayed in your account, you may ask us to access, delete and modify the information that we hold about you by emailing us at the email address listed below. 
+
+### Your choices with respect to the collection and use of your information
+
+  * As discussed above, you can choose not to provide us with any information, although it may be needed to take advantage of certain features offered on TripAdvisor. 
+  * You also can add or update information and close your account as described above. 
+  * When you register as a member on TripAdvisor.co.uk, you will be given a choice as to whether you want to receive email messages from TripAdvisor.co.uk. As a registered TripAdvisor.co.uk member, you can modify your choices at any time through the Email Settings of your subscriptions page. 
+  * Whether registered as a TripAdvisor member or not, you also will be given the opportunity to unsubscribe from promotional messages in any such e-mail we send. Please note that we reserve the right to send you other communications, including service announcements and administrative messages relating either to your TripAdvisor account, without offering you the opportunity to opt out of receiving them. 
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies from TripAdvisor, you will not be able to access portions of our site. 
+
+
+
+### How we protect your information
+
+We want you to feel confident about using TripAdvisor, and we are committed to protecting the information we collect. While no Web site can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. For example, only authorized employees are permitted to access personal information, and they only may do so for permitted business functions. In addition, we use encryption when transmitting your personal information between your system and ours, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information. 
+
+### Children's privacy
+
+TripAdvisor is a general audience site and does not offer services directed to children. Should an individual whom we know to be a child under age 13 send personal information to us, we will delete or destroy such information as soon as reasonably possible. 
+
+### External links
+
+If any part of the TripAdvisor Web site links you to other Web sites, those external Web sites do not operate under this Privacy Policy. We recommend that you examine the privacy statements posted on those other Web sites to understand their procedures for collecting, using, and disclosing personal information. 
+
+### Visiting our Web sites from outside the United States
+
+If you are visiting our Web site from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that TripAdvisor does take steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy. 
+
+### Changes to this Privacy Policy
+
+TripAdvisor may update this Privacy Policy in the future. We will notify our members about material changes to this Privacy Policy by either sending a notice to the e-mail address you provided to us or by placing a prominent notice on our Web site. 
+
+### How you can contact us
+
+If you have questions about this Privacy Policy, please contact us at: 
+
+©2013 TripAdvisor LLC. All rights reserved.  
+
+
+This Privacy Policy is effective as of July 1, 2011 
