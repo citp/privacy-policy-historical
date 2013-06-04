@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbaliveonline.tv privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130194751id_/http%3A//nbaliveonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbaliveonline.tv privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604231543id_/http%3A//nbaliveonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NBA LIVE ONLINE
 
