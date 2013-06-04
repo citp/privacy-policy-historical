@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparecards.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213211838id_/http%3A//www.comparecards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparecards.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604032408id_/http%3A//www.comparecards.com/privacy-policy) for the most accurate reproduction.*
 
 # CompareCards.com Website Privacy Policy
 
@@ -16,6 +16,6 @@ CompareCards.com uses one or more companies to place advertisements for our prod
 
 Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered through these solutions, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by clicking [http://www.networkadvertising.org/choices/#completed](http://www.networkadvertising.org/choices/#completed)
 
-We encourage you to take adequate precautions to protect your personally identifiable information, both on and off the Internet. To learn more, visit [Onguard Online](http://onguardonline.gov/index.html) from the U.S. government.
+We encourage you to take adequate precautions to protect your personally identifiable information, both on and off the Internet. To learn more, visit [Onguard Online](http://www.onguardonline.gov/) from the U.S. government.
 
 This privacy statement applies solely to information presented and obtained at CompareCards.com. You can also visit our privacy policy as certified from [Truste](http://privacy-policy.truste.com/verified-policy/www.comparecards.com). If you have any questions or concerns about our privacy policy, please contact us using our [Contact Us](https://web.archive.org/contact) page.
