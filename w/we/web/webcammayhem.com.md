@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcammayhem.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109221958id_/http%3A//www.webcammayhem.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcammayhem.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604031826id_/http%3A//www.webcammayhem.com/privacy.html%3F) for the most accurate reproduction.*
 
 # WebcamMayhem - Privacy
 
