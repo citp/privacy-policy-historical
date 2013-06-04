@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suzyshier.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019073029id_/http%3A//www.suzyshier.com/eng/customerService/privacySecurity.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suzyshier.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604100750id_/http%3A//www.suzyshier.com/eng/customerService/privacySecurity.cfm) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -159,5 +159,7 @@ Social Media Policy: online at <http://www.suzyshier.com/eng/customerService/soc
 Website Terms and Conditions of Use: online at <http://www.suzyshier.com/eng/customerService/privacySecurity.cfm>
 
 Website Terms and Conditions of Purchase and Sale: online at <http://www.suzyshier.com/eng/customerService/termsOfUse.cfm>
+
+For further questions or concerns, please [CONTACT US](http://www.suzyshier.com/eng/customerService/customerServiceHome.cfm)
 
 **Last Revision: August 2011**
