@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mckinsey.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228164246id_/http%3A//www.mckinsey.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mckinsey.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604031759id_/http%3A//www.mckinsey.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy | McKinsey & Company
 
