@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joberr.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026153149id_/http%3A//www.joberr.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joberr.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604175320id_/http%3A//www.joberr.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Joberr
 
