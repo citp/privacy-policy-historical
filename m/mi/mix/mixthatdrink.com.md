@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mixthatdrink.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226004223id_/http%3A//mixthatdrink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixthatdrink.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604080109id_/http%3A//mixthatdrink.com/privacy) for the most accurate reproduction.*
 
-# Privacy : Mix That Drink
+# Privacy | Mix That Drink
 
 **Personal Information**  
 MixThatDrink does not request or collect any information that that personally identifies you or allows you to be personally contacted unless you explicitly input such information when submitting a comment, in which case your email address will be stored in the site database.
