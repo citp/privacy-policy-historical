@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the googe.com privacy policy that was archived on 2012-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120704081428id_/http%3A//www.barnabegooge.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googe.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604043632id_/http%3A//www.barnabegooge.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Barnabe Googes Favorite Articles | Read the most popular stories on BarnabeGooge.com
 
