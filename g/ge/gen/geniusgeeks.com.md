@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geniusgeeks.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229002628id_/http%3A//geniusgeeks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geniusgeeks.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604060129id_/http%3A//geniusgeeks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Home](http://geniusgeeks.com/)  »  Privacy Policy
+## Privacy Policy
 
 ### **Privacy Policy for geniusgeeks.com**
 
