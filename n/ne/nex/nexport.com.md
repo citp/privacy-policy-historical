@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexport.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022163414id_/https%3A//secure.odovo.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexport.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604212150id_/https%3A//secure.odovo.com/home/privacypolicy) for the most accurate reproduction.*
 
 # 
 
