@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the waterstones.com privacy policy that was archived on 2012-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121204075555id_/http%3A//www.waterstones.com/waterstonesweb/pages/help-privacy-policy/100000019) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the waterstones.com privacy policy that was archived on 2013-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604020421id_/http%3A//www.waterstones.com/waterstonesweb/pages/help-privacy-policy/100000019) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -24,7 +24,6 @@
 <meta name="keywords" content="books, novels, biography, sci-fi, computing books, childrens books, book blog, find Waterstones stores, Waterstones booksellers, art and photography books, audio books, books on cd, business books, finance, books, graphic novels, crime novels, true crime, educational books, textbooks, dictionaries, recipe books, food and drink books, fiction, stories, short stories, fairy tales, health books, diet books, pregnancy guides, history books, gardening books, diy books, humour books, little books, joke books, mbs, mind body spirit, tv tie-ins, film adaptations, pet books, dog books, cat books, children's books, childrens picture books, board books, bath books, cloth books, books on tape, poetry books, belle letters, quiz books, crossword books, crossword dictionaries, reference books, encyclopaedias, romance, scientific text books, medical books, almanacs, football books, cricket books, tennis books, diaries, travel guides, phrase books, students books, manga titles, celebrity chefs, golf books, sailing books, paperbacks, hardbacks, first editions, signed copies, limited editions, ebooks, maps, atlases, chicklit, hmv group, ottakars, ottakers, high street book shop, uk book shops, book sellers, books online, book signings, readings, book clubs, print on demand, study guides, cheat cards, revision books, exam guides, cheat books, strategy guides, erotica, war stories, gift books, gift editions, christening bibles, bibles, Koran, torah, politics books, economics books, gay and lesbian literature, mysteries, detective fiction, literary criticism, money guides, financial guides, mba guides, good study guides, bedtime stories">
  
 
-
 		
 		<link rel="search" type="application/opensearchdescription+xml" title="Waterstones Search" href="http://www.waterstones.com/waterstonesweb/scripts/openSearch.xml">
 	
@@ -45,265 +44,7 @@
 		<script language="JavaScript" src="http://www.waterstones.com/waterstonesweb/scripts/type_ahead.js"></script>
 		<script language="JavaScript" src="http://www.waterstones.com/waterstonesweb/scripts/tooltips.js"></script>
 
-		
-
-
-<script type="text/javascript">
-
-// global variables
-var KC_ENTER = 13;
-var validEmailChars    = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_-.@";
-
-function isEmailValid( eAddr ) {
-	var i;
-  	var c;
- 	var elen = eAddr.length;
-  
-  	if (	(eAddr.indexOf("@") == -1) || 
-  			(eAddr.indexOf(".") == -1) || 
-  			(eAddr.indexOf(".") == elen-1) )  {
-  			return false;
-  	}
-
-  	for (i = 0; i < elen; i++) {   
-    	c = eAddr.charAt(i);
-    	if (validEmailChars.indexOf(c) == -1) {
-    		return false;
-    	}
-    	
-    	if (c == "@" || c == ".")
-		{
-			if ((i == 0) ||
-           		(i == (elen -1)) ||
-           		(validEmailChars.indexOf(eAddr.charAt((i - 1))) >= 64) ||
-           		(validEmailChars.indexOf(eAddr.charAt((i + 1))) >= 64) ) {
-           		return false;
-           	}
-		}
-   	}
-
-  	return true;	
-}
-
-function showAddressFinder(frm, searchPostcode, searchHouse) {
-	var url = "http://www.waterstones.com/waterstonesweb/displayAddressFinder.do?frm=";
-
-	if(searchPostcode) {
-		url = "http://www.waterstones.com/waterstonesweb/doAddressSearch.do?frm=";	
-	}
-		
-	url = url + frm;
-	
-	if(searchPostcode) {
-		if(removeSpaces) {
-			url = url + "&txtPostcode=" + escape(removeSpaces(searchPostcode));	
-		}
-		else {
-			url = url + "&txtPostcode=" + escape(searchPostcode);			
-		}
-		url = url + "&txtHouse=" + escape(searchHouse);			
-		url = url + "&resultsOnly=true";	
-	}	
-	
-	var features = "height=400, width=800, status";
-	var finderWindow = window.open( url, "winAddressFinder", features );
-	finderWindow.focus();
-}
-
-
-/*	-------------------------------------------------------------
-	function getYears()
-	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-	Description:	outputs all years as a drop down select
-	
-	difference = the suplied value is the difference to apply to start year
-	direction = 1 is ascending, 0 is descending
-	name - select field name and id
-	startYear - first year in list
-	selected - pre-selected value
-	
-	returns : currentYear  to (currentYear - difference)
-	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -	*/
-	function getYears( difference, direction, name, startYear, selected)
-	{	
-		var curdate = new Date();
-		if(startYear == null || startYear == ""){
-			var thisYear = curdate.getFullYear();	
-		}else{
-			var thisYear = startYear;
-		}
-		
-		text = '<select name="' + name + '" id="' + name +'"><option value="" >Year</option>';
-		if(difference > 0){
-			if ( direction == 1 )
-				for (i=thisYear; i > thisYear - difference; i--) 		
-				{
-			   		text += '\n<option value="' + i + '"';
-			   		if(selected != null && selected == i) text += "selected";
-			   		text += '>'+ i +'</option>';
-				}
-			else
-				for (i=thisYear - difference ; i <= thisYear ; i++) 		
-				{
-			   		text += '\n<option value="' + i + '"'
-			   		if(selected != null && selected == i) text += "selected";
-			   		text += '>'+ i +'</option>';
-				}
-		}else{
-			if ( direction == 1 )
-				for (i=thisYear; i < thisYear + Math.abs(difference); i++) 		
-				{
-			   		text += '\n<option value="' + i + '"';
-			   		if(selected != null && selected == i) text += "selected";
-			   		text += '>'+ i +'</option>';
-				}
-			else
-				for (i=thisYear + Math.abs(difference) ; i > thisYear ; i--) 		
-				{
-			   		text += '\n<option value="' + i + '"';
-			   		if(selected != null && selected == i) text += "selected";
-			   		text += '>'+ i +'</option>';
-				}		
-		}
-		text += '</select>';
-		document.write(text);			
-	}									
-	
-/*	-------------------------------------------------------------
-	function getDayOfTheMonth()
-	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-	Description:	gets the days of the month
-	name: field name and id
-	selected: pre-selected value
-	returns : 1 to 31
-	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -	*/
-	function getDayOfTheMonth(name, selected)
-	{	
-		text = '<select name="' + name + '"id="' + name + '"><option value="" >Day</option>';
-		for (i=1;i<32;i+=1) 
-		{
-			if ( i < 10 ) {
-		   		text += '\n<option value="0' + i + '"' ;
-		   		if(selected != null && selected == i) text += "selected";
-		   		text +=  '>0'+ i+'</option>';
-		   	}
-		   	else{
-		   		text += '\n<option value="' + i + '"' ;
-		   		if(selected != null && selected == i) text += "selected";
-		   		text +=  '>'+ i+'</option>';
-		   	}
-		}
-		text += '</select>';
-		document.write(text);			
-	}
-
-/*	-------------------------------------------------------------
-	function getMonthsOfTheYear()
-	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-	Description:	outputs all the months of the year as a drop down select
-	name: field name and id
-	selected: pre-selected value
-	returns : 1 to 12
-	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -	*/
-	function getMonthsOfTheYear( sizeToShow,name, selected)
-	{	
-	
-		var months = new Array("January", "February", "March", "April","May", "June", "July", "August", "September","October", "November", "December");				
-		text = '<select name="' + name + '" id="' + name + '"><option value="" >Month</option>';
-		for (i=1;i<13;i+=1) 
-		{
-			if (sizeToShow > 0)
-			{
-				thisMonth = months[i-1].substring( 0, sizeToShow );
-			}
-		
-			if ( i < 10 ){ 
-		   		text += '\n<option value="0' + i + '"' ;
-		   		if(selected != null && selected == i) text += "selected";
-		   		text +=  '>'+ thisMonth+'</option>';
-		   	}
-		   	else{
-		   		text += '\n<option value="' + i + '"' ;
-		   		if(selected != null && selected == i) text += "selected";
-		   		text +=  '>'+ thisMonth +'</option>';
-		   	}
-		}
-		text += '</select>';
-		document.write(text);			
-	}
-
-	// Double click form submit protection
-	var isFormSubmitted = false;
-
-	function checkFormNotSubmitted()
-	{
-	    if (isFormSubmitted)
-	    {
-	        return (false);
-	    }
-	    else
-	    {
-	        isFormSubmitted = true;
-	
-	        return (true);
-	    }
-	}
-
-//-->
-function check_date(day,month,year){
-	var checkstr = "0123456789";
-	var seperator = ".";
-	var day;
-	var month;
-	var year;
-	var leap = 0;
-	var err = 0;
-	var i;
-    err = 0;
-
-
-	   /* Validation leap-year / february / day */
-	   if ((year % 4 == 0) || (year % 100 == 0) || (year % 400 == 0)) {
-	      leap = 1;
-	   }
-	   if ((month == 2) && (leap == 1) && (day > 29)) {
-	      err = 23;
-	   }
-	   if ((month == 2) && (leap != 1) && (day > 28)) {
-	      err = 24;
-	   }
-	   /* Validation of other months */
-	   if ((day > 31) && ((month == "01") || (month == "03") || (month == "05") || (month == "07") || (month == "08") || (month == "10") || (month == "12"))) {
-	      err = 25;
-	   }
-	   if ((day > 30) && ((month == "04") || (month == "06") || (month == "09") || (month == "11"))) {
-	      err = 26;
-	   }
-	   /* if no error, return true*/
-	   if (err == 0) {
-	      return true;
-	   }
-	   /* Error-message if err != 0 */
-	   else {
-	      return false;
-	   }
-}
-
-function showHideSingleDiv(o) {
-	if(document.getElementById(o).style.display='none') {
-		document.getElementById(o).style.display='block';
-		} else {
-		document.getElementById(o).style.display='none';
-  		}
-}
-
-function showHideDiv(o1, o2) {
-	if(document.getElementById(o1).style.display='none') {
-		document.getElementById(o1).style.display='block';
-		document.getElementById(o2).style.display='none';
-		}
-}
-</script>
+		<!--tiles:insert attribute="commonJavascript"/-->
 
 		<!-- Site Tagger Head -->
 		
@@ -330,6 +71,9 @@ function showHideDiv(o1, o2) {
 
 
 
+ 
+<link href="/waterstonesweb/theme/menu.css" rel="stylesheet" type="text/css">
+ 
 
 
 <iframe src="javascript:'';" id="ecos_iframe" style="position:absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden;" title=""></iframe><iframe src="javascript:'';" id="ecos_iframe2" style="position:absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden;" title=""></iframe><div id="ecos_surveylayer" style="position:absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden;" title="Visitor Survey (dynamically generated)"></div><script language="Javascript" type="text/javascript">
@@ -644,8 +388,7 @@ if ((document.getElementById) && (window.frames)) {
 	
 
 <div class="headerContent">
-
-
+	
 	<!-- Navigation Support -->
 	<div class="navSupportWrapper">
 	
@@ -703,38 +446,6 @@ if ((document.getElementById) && (window.frames)) {
 
 <!-- JavaScript for Send To Friend (to bypass caching) - in basket.jsp -->
 <script type="text/javascript">
-	function showSendToFriend()
-	{
-		var isLoggedIn = false;
-		
-		if (isLoggedIn)
-		{
-			showObject('sendtofriend');
-			return false;
-		}
-		else
-		{
-			showObject('sendtofriend-nologin');
-			return false;
-		}
-	}
-
-	function hideSendToFriend()
-	{
-		var isLoggedIn = false;
-		
-		if (isLoggedIn)
-		{
-			hideObject('sendtofriend');
-			return false;
-		}
-		else
-		{
-			hideObject('sendtofriend-nologin');
-			return false;
-		}
-	}
-	
 	function setWebTrendsScenario() {
 		var form = document.mybasket;
 		form.action = "http://www.waterstones.com/waterstonesweb/webTrends.do?scenario=1";
@@ -749,10 +460,23 @@ if ((document.getElementById) && (window.frames)) {
 		</ul>
 		
 	</div>
-	
+			
 	
 
-
+<script language="JavaScript" src="http://www.waterstones.com/waterstonesweb/scripts/jQuery/jquery.js"></script>
+<script>
+var searchStringPrompt = 'Please enter some keywords';
+var defaultSearchString = 'Title, author, keyword or ISBN';
+$(document).ready(function(){
+$('#typeAheadTextInput').bind('focus keydown mouseenter',function () {
+    if(document.simpleSearchFrm.simpleSearchString.value == searchStringPrompt 
+    	|| document.simpleSearchFrm.simpleSearchString.value == defaultSearchString
+    	|| document.simpleSearchFrm.simpleSearchString.value.indexOf(defaultSearchString) == 0  ){
+        document.simpleSearchFrm.simpleSearchString.value = '';
+    } 
+}); 
+}); 
+</script>
 	
 
 
@@ -781,7 +505,7 @@ if ((document.getElementById) && (window.frames)) {
    <span class="simpleSearchPanelBottomCorners"></span>
 </div>
 
-
+	
 	
 	<!--<div id="deliveryMessageLarge">
 	<a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=1362">
@@ -863,12 +587,12 @@ if ((document.getElementById) && (window.frames)) {
                     <li>
                         <a href="/waterstonesweb/browse/hobbies-and-games/4294965168/">Hobbies and Games</a>
                     </li>
-						</ul><ul>
-
+			
                     <li>
                         <a href="/waterstonesweb/browse/home-and-garden/4294966328/">Home and Garden</a>
                     </li>
-			
+						</ul><ul>
+
                     <li>
                         <a href="/waterstonesweb/browse/humour/4294965111/">Humour</a>
                     </li>
@@ -926,6 +650,10 @@ if ((document.getElementById) && (window.frames)) {
                     </li>
 			
                     <li>
+                        <a href="/waterstonesweb/browse/toys-and-games/4289699696/">Toys and Games</a>
+                    </li>
+			
+                    <li>
                         <a href="/waterstonesweb/browse/travel/4294965406/">Travel</a>
                     </li>
 			
@@ -934,42 +662,64 @@ if ((document.getElementById) && (window.frames)) {
 		<span class="categoryFlyOutListBottom"></span>
 	</div>
 </div>
-	<ul id="nav-primary">
+<ul id="nav">
+	<li>
+		<span class="newTitles"><a href="http://www.waterstones.com/waterstonesweb/pages/whats-new/1003/">New books</a></span>
+		<ul>
+			<li><a href="http://www.waterstones.com/waterstonesweb/pages/whats-new/1003/">Just published</a></li>
+			<li><a href="http://www.waterstones.com/waterstonesweb/pages/coming-soon/1001/">Coming soon</a></li>
+		</ul>
+	</li>
+	<li>
+		<span class="bestsellers"><a href="http://www.waterstones.com/waterstonesweb/bestSellersCategory.do?ctx=0&amp;searchType=7">Bestsellers</a></span>
+	</li>
+	<li>
+		<span><a href="http://www.waterstones.com/waterstonesweb/pages/kindle-family-at-waterstones/200001698/">Kindle</a> </span>
+		<ul>
+			<li><a href="http://www.waterstones.com/waterstonesweb/products/kindle/9423422/">Kindle</a></li>
+			<li><a href="http://www.waterstones.com/waterstonesweb/products/kindle+paperwhite+28wi-fi29/9469073/">Kindle Paperwhite</a></li>
+			<li><a href="http://www.waterstones.com/waterstonesweb/products/kindle+paperwhite+3g/9469072/">Kindle Paperwhite 3G</a></li>
+			<li><a href="http://www.waterstones.com/waterstonesweb/products/kindle+fire+722/9423424/">Kindle Fire 7"</a></li>
+			<li><a href="http://www.waterstones.com/waterstonesweb/products/kindle+fire+hd+7222c+16gb/9423423/">Kindle Fire HD 7" 16GB</a></li>
+			<li><a href="http://www.waterstones.com/waterstonesweb/products/kindle+fire+hd+7222c+32gb/9423425/">Kindle Fire HD 7" 32GB </a></li>
+			<li><a href="http://www.waterstones.com/waterstonesweb/products/kindle+fire+hd+8-922+16gb+wifi/9714076/">Kindle Fire HD 8.9" 16GB</a></li>
+			<li><a href="http://www.waterstones.com/waterstonesweb/products/kindle+fire+hd+8-922+32gb+wifi/9714077/">Kindle Fire HD 8.9" 32GB </a></li>
+			<li><a href="http://www.waterstones.com/waterstonesweb/pages/kindle-accessories/2462/">Kindle accessories</a></li>
+			<li><a href="http://www.waterstones.com/waterstonesweb/pages/kindle-ereader-support/200001747/">Kindle help</a></li>
+		</ul>
+	</li>
+	<li>
+		<span><a href="http://www.waterstones.com/waterstonesweb/browse/ebooks/4294964587/">eBooks</a></span>
+		<ul>
+		<!-- 
+			<li><a href="http://www.waterstones.com/waterstonesweb/browse/ebooks/0/">Kindle</a></li>
+			-->
+			<li><a href="http://www.waterstones.com/waterstonesweb/browse/ebooks/4294964587/">ePub eBooks</a></li>
+			<li><a href="http://www.waterstones.com/waterstonesweb/pages/help-ebook-faqs/200001173/">eBooks help</a></li>
+		</ul>
+	</li>
+	<li>
+		<span><a href="http://www.waterstones.com/waterstonesweb/pages/book-offers/200000781/">Offers</a></span>
+	</li>
+	<li>
+			<a href="http://www.waterstonesmarketplace.com/" accesskey="6" target="_blank">Used books</a>
+	</li>
+	<li>
+		<a href="http://www.waterstones.com/waterstonesweb/events/" accesskey="7">Events</a>
+	</li>
+	<li>
+		<span><a href="http://www.waterstones.com/waterstonesweb/pages/waterstones-card/1614/" accesskey="8">Waterstones Card</a> </span>
+		<ul>
+			<li><a href="http://www.waterstones.com/waterstonesweb/pages/waterstones-card/1614/" accesskey="8">Waterstones Card home</a></li>
+			<li><a href="http://www.waterstones.com/waterstonesweb/pages/waterstones-card/benefits/1687/">About the Card</a></li>
+			<li><a href="http://www.waterstones.com/waterstonesweb/pages/help-waterstones-card-faqs/200000392/">FAQs</a></li>
+			<li><a href="http://www.waterstones.com/waterstonesweb/pages/waterstones-card/points-offers/200000458/">Bonus points offers</a></li>
+		</ul>
+	</li>
+	<li class="last">
+		<a accesskey="9" href="http://blog.waterstones.com/">Blog</a>
+	</li>
 	
-		<li class="first"><a href="http://www.waterstones.com/waterstonesweb/pages/whats-new/1003/" accesskey="1">New titles</a></li>
-		
-		<li><a href="http://www.waterstones.com/waterstonesweb/pages/coming-soon/1001/" accesskey="2">Coming soon</a></li>
-		
-		<li><a href="http://www.waterstones.com/waterstonesweb/bestSellersCategory.do?ctx=0&amp;searchType=7" accesskey="3">Bestsellers</a></li>
-		
-		<li class="offers"><a href="http://www.waterstones.com/waterstonesweb/pages/book-offers/200000781/" accesskey="4">Offers</a></li>
-				
-		<li><a href="http://www.waterstones.com/waterstonesweb/browse/ebooks/4294964587/" accesskey="5">eBooks</a></li>
-		
-		<li><a href="http://www.waterstonesmarketplace.com/" accesskey="6" target="_blank">Used books</a></li>
-		
-		<li><a href="http://www.waterstones.com/waterstonesweb/events/" accesskey="7">Events</a></li>
-		
-		<li class="last"><a href="http://www.waterstones.com/waterstonesweb/pages/waterstones-card/1614/" accesskey="8">Waterstones Card<img src="/waterstonesweb/graphics/loyalty/card_icon_topnav.png" alt="Waterstones Card"> </a></li>
-				
-		<!--<li><a href="http://www.waterstones.com/waterstonesweb/pages/students/1014/?WT.mc_id=Textbooks" accesskey="5"
-			>Textbooks</a></li>		
-
-		<li><a href="http://www.waterstones.com/waterstonesweb/pages/dvds/1894/?WT.mc_id=DVDsNav" accesskey="6"
-			>DVDs</a></li>
-				
-		<li><a href="http://www.waterstones.com/waterstonesweb/browse/childrens/4294965002/?WT.mc_id=Kids" accesskey="8"
-			>Kids'</a></li>
-
-		<li><a href="http://www.waterstones.com/waterstonesweb/pages/top-rated-books/1742/?WT.mc_id=Reviews" accesskey="9"
-			>Reviews</a></li> -->
-
-		
-
-		<!--<li><a href="http://www.waterstonesmarketplace.com/?WT.mc_id=MarketplaceNav" accesskey="11" target="_blank">Marketplace</a></li>-->
-		
-
-		
 	</ul>
 	
 </div>
@@ -985,6 +735,50 @@ if ((document.getElementById) && (window.frames)) {
 
 </div><!-- closes #header-->
 <!-- END HEADER LAYOUT -->
+
+			
+
+
+
+
+		
+
+
+
+
+
+
+
+ <style type="text/css">
+        #toplinks { width: 100%; height: 30px; repeat-x; }
+		#toplinks ul { list-style-type: none; padding: 0; margin: 0; }
+		#toplinks ul li { float: left; display:inline-block; white-space: nowrap; text-align: center; margin: 0 auto; height: 30px; line-height: 30px;}
+		#toplinks ul li.divider { border-left: 1px solid #ccc; height: 10px; width: 0; margin-top:10px; }
+		#toplinks ul li a {	padding: 0 10px; display:block; font-size: 1.2em; color: #0066cc; text-decoration: none; font-weight: 500; padding-left: 37px; }
+		#toplinks .toplinks-delivery { background: transparent url(http://www.waterstones.com/wat/images/special/mag/gh_truck.png) no-repeat 10px center; }
+		#toplinks .toplinks-exclusive { background: transparent url(http://www.waterstones.com/wat/images/special/mag/gh_mortar.png) no-repeat 10px center; }
+		#toplinks .toplinks-card { background: transparent url(http://www.waterstones.com/wat/images/special/mag/gh_card.png) no-repeat 10px center; }
+    .style1 {color: #0066cc}
+    </style>
+
+
+<div id="toplinks" style="margin:0 0 5px 0;">
+	<ul>
+		<li><a href="http://www.waterstones.com/waterstonesweb/pages/help-free-delivery/200000049/" class="toplinks-delivery">Free delivery to any UK address or Waterstones shop</a> </li>
+		<li class="divider"></li>
+		<li><a href="http://www.waterstones.com/waterstonesweb/pages/unidays-student-discount/200001794/" class="toplinks-exclusive">Students get an extra 10% off with UNiDAYS*</a></li>
+		<li class="divider"></li>
+		<li><a href="http://www.waterstones.com/waterstonesweb/pages/waterstones-card/1614/" class="toplinks-card style1">Earn and spend Waterstones Card points online</a></li>
+	</ul>
+
+
+<img src="http://www.waterstones.com/wat/images/special/promo/topline_menu.jpg" alt="">
+
+</div>
+
+ 
+	
+
 
 			
 
@@ -1120,6 +914,12 @@ if ((document.getElementById) && (window.frames)) {
 
 
 
+			<li><a href="http://www.waterstones.com/waterstonesweb/pages/help-read-for-free/200001869/" title="Read for Free">Read for Free</a></li>
+
+
+
+
+
 			<li><a href="http://www.waterstones.com/waterstonesweb/pages/help-recycling/200001039/" title="Recycling">Recycling</a></li>
 
 
@@ -1192,6 +992,8 @@ if ((document.getElementById) && (window.frames)) {
 	</ul>
 </div><!-- closes .sub-nav --> 
 	
+
+
 		
 </div> <!-- close nav-secondary -->
 <!-- END HOME LEFT MARGIN LAYOUT -->
@@ -1206,6 +1008,8 @@ if ((document.getElementById) && (window.frames)) {
 <div id="content">
 	<div id="promotion">
 		
+
+
 
 
 
@@ -1429,6 +1233,8 @@ use your information in that way.</p>
 
 </div> 
 	
+
+
 	</div>
 </div><!-- closes #content -->
 <!-- END MAGAZINE CONTENT LAYOUT -->
@@ -1436,73 +1242,18 @@ use your information in that way.</p>
 			
 
 
-<div id="footer">
-	<div class="footerLists clearfix">
-		<div class="footerListsGroup footerListsFirst">
-			<h3>Customer Services</h3>
-			<ul class="first">			
-				<li><a href="https://www.waterstones.com/waterstonesweb/displayMyOrders.do">Tracking your order</a></li>
-				<li><a href="http://www.waterstones.com/waterstonesweb/pages/help-returning-items/100000014/">Returning items</a></li>
-				<li><a href="http://www.waterstones.com/waterstonesweb/pages/help-contact-us/200000692/">Contact us</a></li>
-				<li><a href="http://www.waterstones.com/waterstonesweb/pages/help-ereader-support/200001136/">eReader support</a></li>
-			</ul>
-		
-		 	<ul>
-		 		<li><a href="http://www.waterstones.com/waterstonesweb/pages/help-free-delivery/200000049/">Free delivery offers</a></li>
-				<li><a href="http://www.waterstones.com/waterstonesweb/pages/help-ebook-faqs/200001173/">eBooks help</a></li>
-				<li><a href="http://www.waterstones.com/waterstonesweb/pages/help-privacy-policy/100000019/">Privacy and cookie policy</a></li>
-				<li><a href="http://www.waterstones.com/waterstonesweb/pages/help-accessibility/1082/">Accessibility</a></li>
-			</ul>
-		</div>
-		<div class="footerListsGroup footerListsLast">
-			<h3>About Waterstones</h3>
-			<ul class="first">
-				<li><a href="http://www.waterstones.com/waterstonesweb/pages/about-waterstones/100000002/">About us</a></li>
-				<li><a href="http://www.waterstones.com/waterstonesweb/pages/careers/1009/">Careers</a></li>
-				<li><a href="http://www.waterstonesmarketplace.com/" target="_blank">Waterstones Marketplace</a></li>
-				<li><a href="http://www.waterstones.com/waterstonesweb/pages/affiliates/200000162/">Affiliates</a></li>
-				
-			</ul>
-			<ul>
-				<li><a href="http://www.waterstones.com/waterstonesweb/displayFindBranch.do">Our shops</a></li>
-				<li><a href="http://www.waterstones.com/waterstonesweb/pages/independent-publishers/1931/">Independent publishers</a></li>
-				<li><a href="http://www.waterstones.com/waterstonesweb/pages/world-book-night/2256/">World Book Night</a></li>
-				<li><a href="http://www.waterstones.com/waterstonesweb/pages/childrens-laureate/200000979/">Waterstones Children's Laureate</a></li>
-			</ul>
-			<ul>
-				<li><a href="http://www.francisfrith.com/?partner=waterstones.com">Waterstones Local Nostalgia</a></li>
-				<li><a href="http://www.waterstones.com/waterstonesweb/pages/competitions/1093/">Competitions</a></li>
-				<li><a href="http://www.hatchards.co.uk/">Hatchards</a></li>
-				<li><a href="http://www.browsealoud.com/page.asp?pg_id=80004">Browsealoud</a></li>
-				</ul>
-		</div>
-	</div>
 
-	<div class="socialNetwork">
-		<li><a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.WATERSTONES.COM&amp;lang=en" tabindex="-1" onmousedown="return v_mDown();" target="VRSN_Splash" title="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security"><img src="/waterstonesweb/graphics/buttons/button_verisign.gif" alt="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security" title="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security" border="true"></a></li>
-		<li><a href="http://twitter.com/waterstones" target="_blank" title="Follow us on Twitter"><img src="/waterstonesweb/graphics/buttons/button_twitter.gif" alt="Follow us on Twitter" title="Follow us on Twitter"></a></li>
-		<li><a href="http://www.facebook.com/waterstones" target="_blank" title="Join us on Facebook"><img src="/waterstonesweb/graphics/buttons/button_facebook.gif" alt="Join us on Facebook" title="Join us on Facebook"></a></li>
-		<li><a href="http://www.youtube.com/waterstonescom" target="_blank" title="Watch us on YouTube"><img src="/waterstonesweb/graphics/buttons/button_youtube.gif" alt="Watch us on YouTube" title="Watch us on YouTube"></a></li>
-		<li><a href="http://www.waterstones.com/waterstonesweb/pages/mobile-apps/200001273/" title="Waterstones Apps"><img src="/waterstonesweb/graphics/buttons/button_add_apps.gif" alt="Waterstones Apps" title="Waterstones Apps"></a></li>
-	</div>
+
+		
+
+
+
+
+
+<div id="footer"><div class="footerLists clearfix"><div class="footerListsGroup footerListsFirst"><h3>Customer Services</h3><ul class="first"><li><a href="http://www.waterstones.com/waterstonesweb/displayMyOrders.do">Tracking your order</a></li><li><a href="http://www.waterstones.com/waterstonesweb/pages/help-returning-items/100000014/">Returning items</a></li><li><a href="http://www.waterstones.com/waterstonesweb/pages/help-contact-us/200000692/">Contact us</a></li><li><a href="http://www.waterstones.com/waterstonesweb/pages/ereader-support/200001747/">Kindle and eReader Help</a></li></ul><ul><li><a href="http://www.waterstones.com/waterstonesweb/pages/help-free-delivery/200000049/">Free delivery offers</a></li><li><a href="http://www.waterstones.com/waterstonesweb/pages/reserve-collect/200001838/">Reserve &amp; Collect</a></li><li><a href="http://www.waterstones.com/waterstonesweb/pages/help-privacy-policy/100000019/">Privacy and cookie policy</a></li><li><a href="http://www.waterstones.com/waterstonesweb/pages/help-accessibility/1082/">Accessibility</a></li></ul></div><div class="footerListsGroup footerListsLast"><h3>About Waterstones</h3><ul class="first"><li><a href="http://www.waterstones.com/waterstonesweb/pages/about-waterstones/100000002/">About us</a></li><li><a href="http://www.waterstones.com/waterstonesweb/pages/careers/1009/">Careers</a></li><li><a href="http://www.waterstonesmarketplace.com/" target="_blank">Waterstones Marketplace</a></li><li><a href="http://www.waterstones.com/waterstonesweb/pages/affiliates/200000162/">Affiliates</a></li></ul><ul><li><a href="http://www.waterstones.com/waterstonesweb/displayFindBranch.do">Our shops</a></li><li><a href="http://www.waterstones.com/waterstonesweb/pages/independent-publishers/1931/">Independent publishers</a></li><li><a href="http://www.waterstones.com/waterstonesweb/pages/world-book-night/2256/">World Book Night</a></li><li><a href="http://www.waterstones.com/waterstonesweb/pages/childrens-laureate/200000979/">Waterstones Children's Laureate</a></li></ul><ul><li><a href="http://www.francisfrith.com/?partner=waterstones.com" target="_blank">Waterstones Local Nostalgia</a></li><li><a href="http://www.waterstones.com/waterstonesweb/pages/competitions/1093/">Competitions</a></li><li><a href="http://www.hatchards.co.uk/" target="_blank">Hatchards</a></li><li><a href="http://www.browsealoud.com/page.asp?pg_id=80004" target="_blank">Browsealoud</a></li></ul></div></div><div class="socialNetwork"><li> <a href="https://seal.verisign.com/splash?dn=www.waterstones.com&amp;lang=en&amp;form_file=fdf/splash.fdf" tabindex="-1" onmousedown="return v_mDown();" target="VRSN_Splash" title="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security"><img src="http://www.waterstones.com/wat/images/special/mag/gf_button_verisign.gif" alt="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security" title="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security" border="true"></a></li><li><a href="http://twitter.com/waterstones" target="_blank" title="Follow us on Twitter"><img src="http://www.waterstones.com/wat/images/special/mag/gf_button_twitter.gif" alt="Follow us on Twitter" title="Follow us on Twitter"></a></li><li><a href="http://www.facebook.com/waterstones" target="_blank" title="Join us on Facebook"><img src="http://www.waterstones.com/wat/images/special/mag/gf_button_facebook.gif" alt="Join us on Facebook" title="Join us on Facebook"></a></li><li><a href="http://www.youtube.com/waterstonescom" target="_blank" title="Watch us on YouTube"><img src="http://www.waterstones.com/wat/images/special/mag/gf_button_youtube.gif" alt="Watch us on YouTube" title="Watch us on YouTube"></a></li><li><a href="http://www.waterstones.com/waterstonesweb/pages/mobile-apps/200001273/" title="Waterstones Apps"><img src="http://www.waterstones.com/wat/images/special/mag/gf_button_add_apps.gif" alt="Waterstones Apps" title="Waterstones Apps"></a></li></div><div class="copyrightTCs"><p class="copyright">© Waterstones 2013</p><ul class="TCs"><li><a href="http://www.waterstones.com/waterstonesweb/pages/help-terms/100000018/" class="TCsLast">Terms and Conditions</a></li></ul></div></div> 
 	
-	<div class="copyrightTCs">
-		<p class="copyright">©&nbsp;Waterstones 2012</p>
-		<ul class="TCs">
-			<li><a href="http://www.waterstones.com/waterstonesweb/pages/help-terms/100000018/" class="TCsLast">Terms and Conditions</a></li>
-		</ul>
-		
-	</div>
 
-</div>
 
-<script language="JavaScript" type="text/javascript">
-	function openVA() {
-  		URL = 'http://waterstones.creativevirtual.com/ws/bot.htm';
-  		URL += '?isJSEnabled=1';
-  		window.open(URL + '&amp;SiteContext=SITE1&amp;StartContext=FAQ','VA','width=500,height=500');
-	}
-</script>
 		</div>
 		<!-- closes container -->
 	
