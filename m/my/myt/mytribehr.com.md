@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mytribehr.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919204715id_/http%3A//tribehr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytribehr.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604212143id_/http%3A//tribehr.com/privacy-policy) for the most accurate reproduction.*
 
-# HR Data Privacy and Security | HR Software | Applicant Tracking System
+# TribeHR HR Data Privacy and Security | HR Software Privacy
 
-## Our Commitment to Privacy
+##  Our Commitment to Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
