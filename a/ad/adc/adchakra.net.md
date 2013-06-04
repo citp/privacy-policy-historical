@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adchakra.net privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116085629id_/http%3A//www.adchakra.net/%3Fpage_id%3D1066) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adchakra.net privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604041950id_/http%3A//www.adchakra.net/%3Fpage_id%3D1066) for the most accurate reproduction.*
 
 # Privacy Policy | Adchakra -Leading Ad network in India and South Asia, offering Online Advertising, Performance marketing, Behavioural, Contextual, Vertical Targeting
 
