@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the otherarticles.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106010321id_/http%3A//www.otherarticles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otherarticles.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604045028id_/http%3A//www.otherarticles.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.otherarticles.com/contact-us.html?pf=1).  
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://otherarticles.com/contact-us.html?pf=1).  
 
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
