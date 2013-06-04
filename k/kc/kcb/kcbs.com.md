@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcbs.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225233539id_/http%3A//policies.cbslocal.com/privacy/current.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcbs.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604020726id_/http%3A//policies.cbslocal.com/privacy/current.html) for the most accurate reproduction.*
 
 # Privacy Principles
 
@@ -10,7 +10,7 @@
 > 
 > CBS Local Digital Media, a division of CBS Radio Inc., ("CBS Local") is committed to protecting your privacy. CBS Local owns, operates, or provides access to, several interactive web sites and other interactive features that provide an authorized link to this Privacy Policy (collectively "CBS Local Web Sites"). This Privacy Policy applies only to the CBS Local Web Sites.
 > 
-> This Privacy Policy describes, among other things, the types of information collected about you when you visit a CBS Local Web Site; how your information may be used and when it may be disclosed; how you can control the use and disclosure of your information; and how your information is protected. Trust is a cornerstone of our mission at CBS Local. We are committed to gaining and maintaining your trust by following a core set of [Privacy Principles](https://web.archive.org/web/20121225233539id_/http%3A//policies.cbslocal.com/privacy/index.html).
+> This Privacy Policy describes, among other things, the types of information collected about you when you visit a CBS Local Web Site; how your information may be used and when it may be disclosed; how you can control the use and disclosure of your information; and how your information is protected. Trust is a cornerstone of our mission at CBS Local. We are committed to gaining and maintaining your trust by following a core set of [Privacy Principles](https://web.archive.org/web/20130604020726id_/http%3A//policies.cbslocal.com/privacy/index.html).
 
 back to top
 
@@ -351,7 +351,7 @@ back to top
 
 #### CBS Local Digital Media Privacy Policy FAQ 
 
-Our Privacy Policy provides visitors of CBS Local Web Sites with a single, uniform policy consistent with our core [Privacy Principles](https://web.archive.org/web/20121225233539id_/http%3A//policies.cbslocal.com/privacy/index.html). Below, please find answers to some questions about our Privacy Policy. To review the Privacy Policy, click here.
+Our Privacy Policy provides visitors of CBS Local Web Sites with a single, uniform policy consistent with our core [Privacy Principles](https://web.archive.org/web/20130604020726id_/http%3A//policies.cbslocal.com/privacy/index.html). Below, please find answers to some questions about our Privacy Policy. To review the Privacy Policy, click here.
 
 Why are you updating your Privacy Policy? We are updating our privacy policy to provide current company and other information, including contact information.
 
