@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filewe.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128042253id_/http%3A//filewe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filewe.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604050637id_/http%3A//filewe.com/privacy.html) for the most accurate reproduction.*
 
 # FileWe.com - Easy way to share your files
 
