@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the gamerightnow.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221163714id_/http%3A//www.gamerightnow.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerightnow.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604060349id_/http%3A//gamerightnow.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Policy
 
-GameRightNow is committed to providing an entertaining, fun and educational service. GameChics.com is a property of GameRightNow Limited "GameRightNow". GameRightNow respects the privacy concerns of visitors to GameChics.com. GameRightNow does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
+9Funny is committed to providing an entertaining, fun and educational service. 9Funny.net is a property of 9Funny Limited "9Funny". 9Funny respects the privacy concerns of visitors to 9Funny.net. 9Funny does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
 
   
-GameChics.com is one of  ValueClick Publishers, all ValueClick Publishers were notified via email and pop-up messaging from the user interface login of our recent membership with the Network Advertising Initiative (“NAI”).
+9Funny.net is one of  ValueClick Publishers, all ValueClick Publishers were notified via email and pop-up messaging from the user interface login of our recent membership with the Network Advertising Initiative (“NAI”).
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
@@ -17,7 +17,7 @@ We may log IP addresses and/or drop cookies to prevent abuse of our website and/
 
 How we use the information
 
-We have an internal notification system to communicate with under 13 players and do not send them emails. We do not retain any personal information beyond the time it is needed. We may use information to ensure that users are compliance with our terms. Over 13's may authorize and receive email notifications related to GameRightNow services. GameRightNow Limited may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with GameRightNow's property, visitors, or anyone else that could be harmed by such activities.
+We have an internal notification system to communicate with under 13 players and do not send them emails. We do not retain any personal information beyond the time it is needed. We may use information to ensure that users are compliance with our terms. Over 13's may authorize and receive email notifications related to 9Funny services. 9Funny Limited may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with 9Funny's property, visitors, or anyone else that could be harmed by such activities.
 
 We may sometimes use non-personally identifiable information that we collect to improve the design and content of our site, to personalize our visitors' experience or to offer products, programs, and services. We may also use this information in the aggregate to analyze site usage, as well as to offer products, programs, or services.
 
@@ -29,7 +29,7 @@ Google, one of our third-party advertisers, may add a DART cookie to determine t
 
 Information that is reasonably necessary
 
-GameRightNow does not require under 13's to disclose more information than is reasonably necessary to participate in the activity as a condition of participation.
+9Funny does not require under 13's to disclose more information than is reasonably necessary to participate in the activity as a condition of participation.
 
 Security
 
@@ -41,8 +41,8 @@ To protect your child's privacy and security, we will take reasonable steps to h
 
 Changes to this Privacy Policy
 
-This Privacy Policy is part of the GameRightNow main Terms and Conditions which you agree to by accessing the GameChics.com webstie and/or services. You agree that GameRightNow Limited may change this Privacy Policy and the main GameRightNow Terms and Conditions at any time. Our current Privacy Policy will be posted here: http://www.GameChics.com/info-privacy which is part of our Terms and Conditions posted here: http://www.GameChics.com/info-tos
+This Privacy Policy is part of the 9Funny main Terms and Conditions which you agree to by accessing the 9Funny.net webstie and/or services. You agree that 9Funny Limited may change this Privacy Policy and the main 9Funny Terms and Conditions at any time. Our current Privacy Policy will be posted here: http://www.9Funny.net/info-privacy which is part of our Terms and Conditions posted here: http://www.9Funny.net/info-tos
 
 Internet Safety
 
-GameRightNow recommends that Parents take time to communicate and educate their children about Internet Safety.
+9Funny recommends that Parents take time to communicate and educate their children about Internet Safety.
