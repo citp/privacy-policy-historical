@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deepdyve.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231031827id_/http%3A//www.deepdyve.com/corp/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepdyve.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604030512id_/http%3A//www.deepdyve.com/corp/privacy_policy) for the most accurate reproduction.*
 
 # About DeepDyve | DeepDyve
 
-Last Updated 10/20/2011
+Last Updated 2/21/2013
 
 DeepDyve, Inc. (“DeepDyve”) knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting DeepDyve’s website at [http://www.deepdyve.com](http://www.deepdyve.com/) (“deepdyve.com”), or using any of our services or products, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
@@ -50,7 +50,8 @@ We may use a third party service provider to conduct these surveys; that company
 ## WHAT ABOUT COOKIES?
 
   * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of deepdyve.com's most attractive features. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
-  * Ads appearing on deepdyve.com may be delivered to users by our advertising partners, who may set cookies. These cookies will allow the ad server to recognize your computer each time they send you an online advertisement to compile demographic information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by DeepDyve and does not cover the use of cookies by any advertisers. To opt-out from receiving third party targeted ads please click here.
+  * Our service providers use both session ID and persistent cookies to make it easier for you to use our site. The use of cookies by our service providers is not covered by our privacy policy. We do not have access or control over these cookies. 
+  * Ads appearing on deepdyve.com may be delivered to users by our advertising partners, who may set cookies. These cookies will allow the ad server to recognize your computer each time they send you an online advertisement to compile demographic information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by DeepDyve and does not cover the use of cookies by any advertisers. [To opt-out from receiving third party targeted ads please click here](http://preferences-mgr.truste.com/).
 
 
 
@@ -69,7 +70,6 @@ We employ other companies and people to perform tasks on our behalf and need to 
 We may also share your personal information in the following situations:
 
   * as required by law, such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if DeepDyve is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
 
 
 
@@ -107,6 +107,8 @@ When you enter sensitive information (such as credit card number) on our order f
 DeepDyve is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. This Privacy Policy only governs information collected on deepdyve.com.   
 Please be aware that whenever you voluntarily post information to public areas on deepdyve.com or any other public forums, such information can be accessed by the public. 
 
+Our Web site also includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
 ## WHAT PERSONAL INFORMATION CAN I ACCESS?
 
 You may correct, update or remove your personal information at any time by logging into your account and accessing the account settings feature or by emailing us at [support@deepdyve.com](mailto:support@deepdyve.com).   
@@ -131,7 +133,7 @@ We will retain your information for as long as your account is active or as need
 
 ## CHANGES TO THIS PRIVACY POLICY:
 
-DeepDyve may make changes to this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used or collected. If we make changes in the way we use Personal Information, we will notify you via e-mail or by posting an announcement on deepdyve.com. We encourage you to periodically review this page for the latest information on our privacy practices. 
+DeepDyve may make changes to this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used or collected. If we make material changes or in the way we use Personal Information, we will notify you via e-mail or by posting an announcement on deepdyve.com prior to the changes becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 ## QUESTIONS OR CONCERNS:
 
