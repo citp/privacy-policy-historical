@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blish.us privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013233319id_/http%3A//blish.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blish.us privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605000815id_/http%3A//blish.us/privacy) for the most accurate reproduction.*
 
-# Privacy | Publish Us
+# Privacy Policy - Publish Us - Publish your articles, blogs or poetry and make money!
 
 ## Privacy Policy
 
@@ -15,7 +15,7 @@ Rochester, NY 14627
 USA  
 
 
-### Information we collect and how we use it
+## Information we collect and how we use it
 
 We may collect the following types of information:
 
@@ -34,7 +34,7 @@ In addition to the above, we may use the information we collect to:
 
 
 
-### Information Sharing
+## Information Sharing
 
 Publish Us only shares personal information with other companies or individuals outside of Publish Us in the following circumstances:
 
@@ -45,20 +45,20 @@ Publish Us only shares personal information with other companies or individuals 
 
 If Publish Us becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.
 
-### Information security
+## Information security
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures.
 
 We restrict access to personal information to Publish Us employees, contractors and agents who need to know that information in order to process it on our behalf. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-### Accessing and updating personal information
+## Accessing and updating personal information
 
 When you use Publish Us services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to detele such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would required disproportionate effort. Because of the way we maintain our services, after you delete your information, residual copies may take a period of time before they are deleted from our active server and may remain in backup systems.
 
-### Enforcement
+## Enforcement
 
 Publish Us regularly reviews its compliance with this Privacy Policy. When we receive formal written complaints, it is our policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Publish Us and an individual.
 
-### Changes to this Privacy Policy
+## Changes to this Privacy Policy
 
 Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including email notification of Privacy Policy changes).
