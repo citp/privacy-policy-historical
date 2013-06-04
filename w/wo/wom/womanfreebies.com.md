@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the womanfreebies.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219042523id_/http%3A//signup.womanfreebies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womanfreebies.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604081004id_/http%3A//signup.womanfreebies.com/privacy.php) for the most accurate reproduction.*
 
-# WomanFreebies.com | Privacy
+# Privacy | Woman Freebies
 
 ## What information do we collect?
 
