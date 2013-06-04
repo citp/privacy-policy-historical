@@ -1,84 +1,44 @@
-> *The following text is extracted and transformed from the variety.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620015420id_/http%3A//www.variety.com/static-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the variety.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604124011id_/http%3A//variety.com/static-pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Variety.com
+# Privacy Policy | Variety
 
-Last updated: August 2011
+Effective: January 4, 2011
 
-**Overview**
+PMC is committed to protecting your privacy and maintaining a safe online experience for all of our users and customers while providing a quality user experience. Because we gather certain types of information about and from you, our users and customers, in order to fulfill your requests and better serve your needs, you should fully understand the terms and conditions surrounding the collection and use of this information. This Privacy Policy discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please read the complete Privacy Policy below, as well as our User Agreement, and contact us if you have any questions.
 
-www.variety.com appreciates your visiting this web site. Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site.
+**Cookies:**
 
-This Privacy Policy describes the policies of Reed Business Information ( _ **RBI**_ or _**we**_ ), a division of Reed Elsevier Inc., regarding the collection, use, disclosure and protection of the following types of information:
+We use third-party companies to serve ads and/or collect information when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number)å about your visits to our Web site in order to provide advertisements on our Web site, other sites and other forms of media about goods and services that may be of interest to you. They may also use this information to track the effectiveness of those ads. If you would like more information about this practice and to know your choices about not having this information used by these companies, please go to <http://www.networkadvertising.org/optout_nonppii.asp>.
 
-  * Information obtained when you (" _ **you**_ " or " _ **User**_ ") visit the www.variety.com web site (the "Site").
-  * Information obtained through e-mail communications with you related to the Site.
+Links: Be aware that when you click on ad banners, you may be redirected to other sites not operated by PMC. You are responsible for information that you provide to these sites. We recommend that you review the privacy policy of any site that requests personal information. Note that this policy does not cover the privacy practices of these linked sites.
 
+General Information Collected: When visiting our site, some general information is collected including: IP address (your computer’s unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider (e.g., Earthlink, Verizon).
 
+The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit our Web Site and to continually improve our products and services. In addition, like many other sites with paid advertising, we disclose some of this non- personally identifiable, aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.
 
-This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy.
+**Third Party Service Providers:**
 
-We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes.
+Agents and affiliates of PMC may occasionally process individual user data as required to provide services for which the user has registered. However, they are not allowed to use this information for any other purpose. All individual user data is owned and controlled by PMC.   
+From time to time we partner with third party service providers to offer additional products and services within the Web Site. To participate in these offerings, you may be asked to provide personal information and agree to terms and conditions relating to the third party service provider. Such requests for information will be displayed and requested by the third party in a straightforward manner with explanation as to whose privacy statement governs the collection of such information. 
 
-**Information We Collect and How We Collect It**
+**Personal Information:**
 
-**General**
+It is the responsibility of each user to provide PMC with accurate information at all times. Personal information collected during the account registration process includes: name, street address, city, state, zip code, country, age, gender as well as an alternate email address (optional). Payment information will also be collected if users have registered for a premium account. 
 
-We require you to provide certain information about yourself when you register with this Site and when you request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., moderated discussions and bulletin boards).
+**Changes to our Privacy Policy:**
 
-The information we collect may include information from which you may be personally identified (" _ **Personally Identifiable Information**_ "), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.
+We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry. We recommend that you check the Privacy Policy when you visit our Web Site to be sure that you are aware of and understand our current policy. If we make material changes to this policy, or in how we use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make any retroactive material changes in how we handle previously collected personal information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will e-mail registered Web Site visitors information on material changes to this Privacy Policy.
 
-When you visit this Site, we may collect the IP address of your computer.
+**Your California Privacy Rights:**
 
-We also use **_[automatic data collection](https://web.archive.org/static-pages/privacy-policy/privacy-data)_** technology to record other information that identifies your computer and tracks your behavior on the Site. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information PMC shares with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: PMC, 9800 South La Cienega Blvd., Los Angeles, CA 90301. In your request, please specify that you want a “PMC California Privacy Rights Notice”. Please allow at least 30 days for a response.
 
-**How We Use Your Information**
-
-We use Personally Identifiable Information that we collect on this Site for the following purposes:
-
-  * To provide you with this Site and other products and services.
-  * To respond to your inquiries and contact you about changes regarding the Site.
-  * To provide you with e-mail, fax and other notices (such as expiration and renewal notices) regarding your account and the products or services that you are receiving, and for billing and collection purposes.
-  * For any other purpose disclosed at the time the information is collected or to which you consent.
-  * As otherwise specifically described in this Privacy Policy.
-
-
-
-We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of the Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of the Site.
-
-We may use the information you provide us to send you e-mail, fax and other communications on behalf of RBI and our affiliates. These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other RBI and Reed Elsevier services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.
-
-We may use the information you provide us to send you email and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [variety@pubservice.com](mailto:variety@pubservice.com) with the subject line (" _ **opt out - third party**_ ").
-
-**Our Disclosure of Your Information**
-
-We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows:
-
-  * Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.
-  * To third parties engaged to provide services under contractual requirement to keep **Personally Identifiable Information** confidential and use it only to perform the services. Portions of this Site may be provided as Premium or Sponsored content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers. We will always disclose when you are registering or being provided with Premium or Sponsored content.
-  * To other third parties to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to [variety@pubservice.com](mailto:variety@pubservice.com) with the subject line: _**do not disclose**_.
-  * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving RBI or this Site.
-  * When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.
-  * When disclosure is necessary to accomplish the purpose for which you provide it.
-  * We may share any information (including Personally Identifiable Information) you provide with other Reed Elsevier member companies for any uses consistent with those disclosed in this Privacy Policy.
-
-
-
-**Security**
-
-We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
-
-**Right to Access and Change Information**
-
-You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to [variety@pubservice.com](mailto:variety@pubservice.com). However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.
-
-**Links**
-
-This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.
-
-**This Site is operated by:**
-
-Reed Business Information  
-360 Park Avenue South   
-New York, NY 10010
-
-Email: [variety@pubservice.com](mailto:variety@pubservice.com)
+_**Questions?**_ **  
+For any questions or comments concerning PMC’s privacy policy, please write to:**  
+PrivacyDirector@pmc.com  
+Or send a letter to:  
+9800 South La Cienega Blvd.  
+Los Angeles, CA 90301  
+(310) 321-5000  
+Law Enforcement inquiries can be directed to LegalCompliance@pmc.com.  
+All spam, UCE and general abuse issues should be directed to: abuse@pmc.com.
