@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the competitor.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220135637id_/http%3A//running.competitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the competitor.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604034834id_/http%3A//running.competitor.com/privacy) for the most accurate reproduction.*
 
-# Competitor Group, Inc. Privacy Policy
+# Competitor Group, Inc. Privacy Policy - Competitor.com
 
 Your privacy and security are important to Competitor Group, Inc. (“Competitor Group”). This privacy statement demonstrates our firm commitment to privacy. This privacy statement discloses the information we gather and how we use it. Any questions concerning this statement should be directed to [customerservice@competitorgroup.com](mailto:customerservice@competitorgroup.com).
 
