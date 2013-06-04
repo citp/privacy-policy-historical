@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toonix.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222134544id_/http%3A//www.toonix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toonix.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604104057id_/http%3A//www.toonix.com/privacy-policy) for the most accurate reproduction.*
 
 # Toonix Privacy | Games for Kids | Toonix and Superstadia World Community
 
