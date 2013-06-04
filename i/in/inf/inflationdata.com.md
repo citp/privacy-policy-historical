@@ -1,65 +1,82 @@
-> *The following text is extracted and transformed from the inflationdata.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204024559id_/http%3A//inflationdata.com/articles/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inflationdata.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604234456id_/http%3A//inflationdata.com/articles/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | InflationData.com
+# Privacy Statement
 
-Last Updated 4/3/2009
+Last Updated: 26 December 2012
 
-Capital Professional Services is committed to protecting your privacy. This privacy statement explains data collection and use practices of the www.fintrend.com site (the “Site”). By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
+Your privacy is very important to us. Accordingly, we have developed this Policy  in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.
 
-### Collecting Your Personal Information
+When accessing our Website, Capital Professional Services will learn certain information about you during your visit.
 
-We will collect personal information if you choose to register for services provided by www.fintrend.com. The personal information we collect may includes your name, title, company or organization name, work e-mail, work phone, work or home address, information about your job function, information about your company, and credit card information, if you are making a purchase.
+Similar to other commercial Web sites, our Web site utilizes a standard technology called cookies (see explanation below, What Are Cookies?) and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.
 
-When you visit the Site, certain anonymous information about your visit is automatically captured. This information includes the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our site. None of this information is personally-identifiable. This anonymous information is used to help improve the Site, analyze trends, and administer the Site, and is discarded when this process is completed.
+### DoubleClick Cookie
 
-### Use of your Personal Information
-
-We use your personal information for the following purposes:
-
-  * To understand future requirements for our services.
-  * To send updates about our services.
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our website.
 
 
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their  visit to our sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). (Alternatively, users opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
 
-Capital Professional Services occasionally hires other companies to provide limited services on our behalf, including packaging, mailing and delivering prizes, answering customer questions about products and services, sending postal mail, and sending information about our products, special offers, and other new services. We will only provide those companies the personal information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
-Capital Professional Services may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served to Capital Professional Services, or the Site; (b) protect and defend the rights or property of Capital Professional Services and our family of Web sites; or (c) act in urgent circumstances to protect the personal safety of users of Capital Professional Services, our Web sites, or the public.
 
-Personally identifiable information collected on this site may be stored and processed in the United States or any other country in which Capital Professional Services or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. Capital Professional Services abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
+You can read more about Google’s Advertising and Cookies here: <http://www.google.com/policies/privacy/ads/>
 
-### Control of your Personal Information
+### What Are Cookies?
 
-Except as otherwise described in this statement, personal information you provide on this site will not be shared outside of Capital Professional Services and its controlled subsidiaries and affiliates without your permission. It will only be used for the purposes stated above.
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-Please be aware that this Privacy Statement and the choices you make on the Site will not necessarily apply to personal information you may have provided to Capital Professional Services in the context of other, separately operated, Capital Professional Services products or services.
+### IP Addresses
 
-### Access to your Personal Information
+Your computer uses IP addresses every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.
 
-Customer information is by Capital Professional Services via a web site hosted at Intermedia.net. It is stored at Intermedia.net, plus sent back to Capital Professional Services. You can review and edit information stored at Capital Professional Services by sending us e-mail at editor1(a)inflationdata.com.
+### Email Information
 
-### Security of your Personal Information
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.
 
-Capital Professional Services strictly protects the security of your personal information and honors your choices for its intended use. Data is stored in password-controlled servers with limited access. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration or destruction.
+### How Do We Use the Information That You Provide to Us?
 
-### Cookies
+Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
 
-We use cookies on this Site to ensure the integrity of the registration process. We use a session cookie, meaning it expires soon after you leave the registration process, and is not placed on your hard drive unless you specify you wish to “log on automatically.”
+Capital Professional Services will not obtain personally identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/sites/default/files/imce/principles.pdf).
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
 
-### Links to Other Web Sites
+### A Special Note About Children
 
-This Site may contain links to other Web sites. Please be aware that this Privacy Statement applies solely to the information collected on the Site. We are not responsible for the privacy practices or the content of other Web sites. We encourage you to be aware when you are leaving this Site and read the privacy statements of each and every Web site that you visit before providing any personally identifiable information.
+Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.
 
-### Changes to This Privacy Statement
+### How Do We Protect Your Information and Secure Information Transmissions?
 
-We may occasionally update this privacy statement. When we do, we will also revise the “last updated” date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are protecting the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
 
-### Contact Information
+Capital Professional Services may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
 
-If you have questions about our privacy statement or our use of your information, or if you need help changing your personal information, please contact us by sending e-mail to editor1(a)inflationdata.com or writing us at:
+For site security purposes and to ensure that this service remains available to all users, Capital Professional Services uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-inflationdata.com/inflationdata.com/articles  
-7283 Yahley Mill Road  
-Richmond, Virginia 23231-6422  
-(804) 723-8185
+### Policy Changes
+
+We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+### Contact
+
+If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
+
+Capital Professional Services  
+7283 Yahley Mill Rd, Henrico VA 23231  
+804-723-8185  
+support [at] capproservices.com
+
+### Governing law
+
+This policy and the use of this Site are governed by Virginia law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Henrico County. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Henrico County, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+
+Capital Professional Services, LLC is controlled, operated and administered entirely within Virginia. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+### About [Lisa McMahon](http://inflationdata.com/articles/author/lisa/ "Lisa McMahon")
+
+I began designing websites for customers of our computer store in the mid '90s and formed my own company Intergalactic Web Designers in 1997. I have designed and published hundreds of web sites over the years. I am currently focusing on WordPress sites (installation, configuration, customization and maintenance).
