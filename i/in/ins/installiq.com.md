@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the installiq.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207222718id_/http%3A//policy.installiq.com/PrivacyPolicy_Full.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the installiq.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604033956id_/http%3A//policy.installiq.com/PrivacyPolicy_Full.html) for the most accurate reproduction.*
 
-# W3i, LLC’s Privacy Policy Statement
+# InstallX, LLC’s Privacy Policy Statement
 
-**W3I, LLC’S PRIVACY POLICY STATEMENT  
-LAST UPDATED: June 11, 2012  
+**InstallX, LLC’S PRIVACY POLICY STATEMENT  
+LAST UPDATED: March 13, 2013  
 VERSION 4.0**
 
-W3i, LLC, and its Subsidiaries are committed to safeguarding your privacy online. This Privacy Policy ("Privacy Policy") discloses how we collect and use information, and the choices that you can make about the way we collect and use your information.
+InstallX, LLC, and its Subsidiaries are committed to safeguarding your privacy online. This Privacy Policy ("Privacy Policy") discloses how we collect and use information, and the choices that you can make about the way we collect and use your information.
 
 If you are under 18, you should ask your parents or a guardian before you use our Services. If you are not yet 18, do not use our Services; do not download our products.
 
 This Privacy Policy applies to any customers who use our Services. Collection, use, disclosure, and protection of personal information may be subject to different regulations outside the United States. Regardless, if you use our Sites, Products or Services you agree to abide by this policy.
 
-Sites Covered by This Policy: [www.w3i.com](http://www.w3i.com/), [www.freeze.com](http://www.freeze.com/), [www.screensaver.com](http://www.screensaver.com/), , [www.music-oasis.com](http://www.music-oasis.com/), [www.wallpapers.com](http://www.wallpapers.com/), [www.sonicdownloads.net](http://www.sonicdownloads.net/), [www.facepaintapp.com](http://www.facepaintapp.com/), [www.intunemp3.com](http://www.intunemp3.com/), [www.tweativity.com](http://www.tweativity.com/), [www.video-buzz.com](http://www.video-buzz.com/), [www.favdownloads.com](http://www.favdownloads.com/), [www.clipartcastle.com](http://www.clipartcastle.com/), [www.worldoffreegames.com](http://www.worldoffreegames.com/), [www.eztocreate.com](http://www.eztocreate.com/) and other sites we own that post a link to this Privacy Policy (collectively "Sites"). This Privacy Policy also applies to our Toolbars (collectively "Products"). This Privacy Policy may also apply to new Sites and Products we develop.
+Sites Covered by This Policy: [www.freeze.com](http://www.freeze.com/), [www.screensaver.com](http://www.screensaver.com/), , [www.music-oasis.com](http://www.music-oasis.com/), [www.wallpapers.com](http://www.wallpapers.com/), [www.sonicdownloads.net](http://www.sonicdownloads.net/), [www.facepaintapp.com](http://www.facepaintapp.com/), [www.intunemp3.com](http://www.intunemp3.com/), [www.tweativity.com](http://www.tweativity.com/), [www.video-buzz.com](http://www.video-buzz.com/), [www.favdownloads.com](http://www.favdownloads.com/), [www.clipartcastle.com](http://www.clipartcastle.com/), [www.worldoffreegames.com](http://www.worldoffreegames.com/), [www.eztocreate.com](http://www.eztocreate.com/) and other sites we own that post a link to this Privacy Policy (collectively "Sites"). This Privacy Policy also applies to our desktop software (collectively "Products"). This Privacy Policy may also apply to new Sites and Products we develop.
 
 **_Overview of Our Policy_**  
-We supply free entertainment software including screensavers, and wallpapers for your Desktop on our Sites. Our Products include Toolbars. Our Toolbars add search functionality to your browser. They also allow one click access to news and our offers. (We refer to our software and Products throughout this agreement as our “Services”).
+We supply free entertainment software including screensavers, and wallpapers for your Desktop on our Sites. (We refer to our software and Products throughout this agreement as our “Services”).
 
 We offer our Services to you in exchange for your agreement to receive e-mail, view promotions, advertisements, or participate in other offers. We also offer you the opportunity to download third-party software.
 
@@ -39,13 +39,13 @@ _Personally Identifiable Information (PII)_ is any information that identifies o
 
 _Partner_ is an advertiser, or other entity with whom we have a business relationship to provide Offers.
 
-_Service_ includes, but is not limited to, our screensaver, wallpaper, game, animated gif, clip art, buddy icon, greeting card, browser skin, font, desktop theme, html editor, sound effect, social networking, storage, and calendar software, as well as our Toolbars.
+_Service_ includes, but is not limited to, our screensaver, wallpaper, game, animated gif, clip art, buddy icon, greeting card, browser skin, font, desktop theme, html editor, sound effect, social networking, storage, and calendar software.
 
-_Subsidiary_ is an entity wholly owned or related to W3i, LLC.
+_Subsidiary_ is an entity wholly owned or related to InstallX, LLC.
 
 _User_ means an individual that has accessed the Sites on which we host our Products or Services.
 
-_We and Our_ refer to W3i, LLC and its subsidiaries.
+_We and Our_ refer to InstallX, LLC and its subsidiaries.
 
 _You and Your_ refer to each user and his or her agents.
 
@@ -89,16 +89,14 @@ _Hardware Information_. Your computer’s operating system also stores hardware 
 
 _MAC Address_. Your computer's MAC address is a unique code, an alphanumeric identifier, assigned to your computer. We may collect your computer's MAC address when you install our Products or Services. We use your computer's MAC address to track unique installations of our Products and Services. We do not combine your computer's MAC address with any other information about you.
 
-We also collect additional aggregate information when you install our Toolbars. For details on the information collected by the Freeze Toolbar, [click here](http://www.freeze.com/Toolbar/eula.html#section4).
-
 **_How We Use Your Information_**  
 Our primary goal is to make our Services more useful to you. By knowing about you, we are able to deliver relevant Services and Offers. We maintain a secure database of all Personally Identifiable Information collected on our Sites and Services.
 
-_E-mail Offers_. By providing your e-mail address, and choosing to receive our Offers, you agree to receive e-mails from us. Should you have any questions or concerns, or if you would like to discontinue receiving Offers, simply email us at [privacy@support.w3i.com](mailto:privacy@support.w3i.com) and ask us to remove you from our lists. You will only receive Offers via e-mail from us and our Partners if you have indicated that you would like to receive them.
+_E-mail Offers_. By providing your e-mail address, and choosing to receive our Offers, you agree to receive e-mails from us. Should you have any questions or concerns, or if you would like to discontinue receiving Offers, simply email us at [privacy@installiq.com](mailto:privacy@installiq.com) and ask us to remove you from our lists. You will only receive Offers via e-mail from us and our Partners if you have indicated that you would like to receive them.
 
-_Newsletters_. If you subscribe to our newsletter, we use your name and email address to send the newsletter to you. If you not longer want to receive our newsletter follow the unsubscribe link located at the bottom of the newsletter or email us at [privacy@support.w3i.com](mailto:privacy@support.w3i.com).
+_Newsletters_. If you subscribe to our newsletter, we use your name and email address to send the newsletter to you. If you not longer want to receive our newsletter follow the unsubscribe link located at the bottom of the newsletter or email us at [privacy@install.com](mailto:privacy@installiq.com).
 
-_Blogs & Posts_. On some of our sites you can sign up to receive notifications when users comment on your post. If you no longer want to receive these types of notifications email us at [privacy@support.w3i.com](mailto:privacy@support.w3i.com). If you use the blog or comment features on our Sites you should also be aware that any information including Personally Identifiable Information you submit can be read, collected, and used by other users and could be used to send unsolicited messages. We are not responsible for Personally Identifiable Information you choose to submit using Site blog or comment features.
+_Blogs & Posts_. On some of our sites you can sign up to receive notifications when users comment on your post. If you no longer want to receive these types of notifications email us at [privacy@installiq.com](mailto:privacy@installiq.com). If you use the blog or comment features on our Sites you should also be aware that any information including Personally Identifiable Information you submit can be read, collected, and used by other users and could be used to send unsolicited messages. We are not responsible for Personally Identifiable Information you choose to submit using Site blog or comment features.
 
 _Testimonials_. We post testimonials on our Sites. Testimonials may contain Personally Identifiable Information. We will obtain your consent via email prior to posting the testimonial or comment.
 
@@ -119,7 +117,7 @@ Partners may sponsor Offers or we may co-sponsor an Offer with a Partner through
 
 If you no longer wish to be contacted by our partners you must contact that partner directly to opt-out.
 
-Our Partners change from time to time, and therefore it is not possible to provide an exhaustive list. We strive to select trustworthy Partners who offer high quality products or services of interest to you. If you are unhappy with one of our Partners, tell us by e-mailing us at [privacy@support.w3i.com](mailto:privacy@support.w3i.com), or you can write to Attn: Customer Care, W3i, LLC, 1900 Medical Arts Ave. S. Ste. 200, Sartell, MN 56377.
+Our Partners change from time to time, and therefore it is not possible to provide an exhaustive list. We strive to select trustworthy Partners who offer high quality products or services of interest to you. If you are unhappy with one of our Partners, tell us by e-mailing us at [privacy@installiq.com](mailto:privacy@installiq.com), or you can write to Attn: Customer Care, InstallX, LLC, 1900 Medical Arts Ave. S. Ste. 200, Sartell, MN 56377.
 
 We may periodically use third parties to meet your needs. For example we might use a credit card processing company to bill you. If we will use a third-party we will notify you at sign-up. If we hire a third-party service provider, they will be prohibited from using your Personally Identifiable Information for any purpose not enumerated in this section.
 
@@ -129,7 +127,7 @@ _Search Partners_. We may transmit your search queries (made on the Site or with
 
 _Third-Party Advertisements and Software_. When you request or submit your information online to a Partner in response to any Offer, we transfer your information for each request made to that Partner. Once we transfer your Personally Identifiable Information, such information becomes subject to the Partners’ privacy policy.
 
-_Our Products_. We do not require you to provide Personally Identifiable Information during the installation process of our Toolbars. However, when you use these Software Offers to access Download Offers (e.g. screensavers) you may be required to provide Personally Identifiable Information. In addition, we will show you Offers during the installation process.
+_Our Products_. We do not require you to provide Personally Identifiable Information during the installation process. However, when you use these Software Offers to access Download Offers (e.g. screensavers) you may be required to provide Personally Identifiable Information. In addition, we will show you Offers during the installation process.
 
 _Other Limited Circumstances_. From time to time, we may validate the information in our database by employing a validation service. In those instances, we will disclose your information pursuant to confidentiality agreements. In addition, we disclose aggregated user statistics (for example, 45% of our users are female) when we market to current and prospective Partners and for other lawful purposes.
 
@@ -144,13 +142,13 @@ From time to time we use third-parties when providing Services to you. We will o
 **_Your Choices_**  
 _Cookies_. By modifying your browser preferences, you can choose to, accept all cookies, to be notified when a cookie is set, or you can reject all cookies. If you choose to reject all cookies, you may be unable to use our Services.
 
-_Offers_. We may from time to time, send you e-mail regarding third party promotions, as well as other, Products and Services. In addition, if you indicated upon registration that you are interested in receiving offers or information from us and our Partners, we may occasionally send you e-mail or direct postal mail about other products and services that we feel may be of interest to you. If you do not wish to receive e-mail or postal mail from us, you can tell us by e-mailing us at [privacy@support.w3i.com](mailto:privacy@support.w3i.com). You can also write to Attn: Customer Care, W3i, LLC, 1900 Medical Arts Ave. S. Ste. 200, Sartell, MN 56377. Be sure to include your full name and address, along with the information you submitted during your initial registration including postal address and e-mail, and tell us that you no longer wish to receive Offers from us. You also have the option of unsubscribing from e-mail Offers by clicking on the unsubscribe link at the bottom of every e-mail offer from us.
+_Offers_. We may from time to time, send you e-mail regarding third party promotions, as well as other, Products and Services. In addition, if you indicated upon registration that you are interested in receiving offers or information from us and our Partners, we may occasionally send you e-mail or direct postal mail about other products and services that we feel may be of interest to you. If you do not wish to receive e-mail or postal mail from us, you can tell us by e-mailing us at [privacy@installiq.com](mailto:privacy@installiq.com). You can also write to Attn: Customer Care, InstallX, LLC, 1900 Medical Arts Ave. S. Ste. 200, Sartell, MN 56377. Be sure to include your full name and address, along with the information you submitted during your initial registration including postal address and e-mail, and tell us that you no longer wish to receive Offers from us. You also have the option of unsubscribing from e-mail Offers by clicking on the unsubscribe link at the bottom of every e-mail offer from us.
 
 _Modifications_. For Freeze.com you may edit your account information and user profile by using your username and password.
 
-If your personally identifiable information changes, or if you want your information deleted from our systems you should email our customer support team as [support@support.w3i.com](mailto:support@support.w3i.com).
+If your personally identifiable information changes, or if you want your information deleted from our systems you should email our customer support team as [support@installiq.com](mailto:privacy@installiq.com).
 
-_Additional Information_. At any time you may send us an e-mail to [privacy@support.w3i.com](mailto:privacy@support.w3i.com), or by postal mail addressed to: W3i, LLC, Attention: Customer Care - Privacy Policy Issues, 1900 Medical Arts Ave. S. Ste. 200, Sartell, MN 56377 to request a listing of all personal information disclosed by us to third parties or Partners. If requested, we will provide an e-mail response within thirty (30) days informing you of the recipients of your Personally Identifiable Information and the information disclosed to third parties.
+_Additional Information_. At any time you may send us an e-mail to [privacy@installiq.com](mailto:privacy@installiq.com), or by postal mail addressed to: InstallX, LLC, Attention: Customer Care - Privacy Policy Issues, 1900 Medical Arts Ave. S. Ste. 200, Sartell, MN 56377 to request a listing of all personal information disclosed by us to third parties or Partners. If requested, we will provide an e-mail response within thirty (30) days informing you of the recipients of your Personally Identifiable Information and the information disclosed to third parties.
 
 **_Security and Passwords_**  
 We cannot and do not ensure or warrant the security of any information collected, transmitted over the Internet, or maintained in your user profile. You agree that any data transmission you make or receive through the Site or the Service is at your own risk.
@@ -170,10 +168,10 @@ _International Policy_. Our Services are hosted by servers in the United States.
 
 _Enforcement / Redress_. If you feel that we have not followed our Privacy policy, please let us know. Also, if you have any questions or concerns about our Privacy policy, its implementation, or would like a written copy, please feel free to contact us at:
 
-W3i, LLC  
+InstallX, LLC  
 Attention: Customer Care – Privacy Policy Issues  
 1900 Medical Arts Ave. S. Ste. 200  
 Sartell, MN 56377  
 
 
-Alternatively, if you would like, contact us via e-mail at [privacy@support.w3i.com](mailto:privacy@support.w3i.com). 
+Alternatively, if you would like, contact us via e-mail at [privacy@installiq.com](mailto:privacy@installiq.com). 
