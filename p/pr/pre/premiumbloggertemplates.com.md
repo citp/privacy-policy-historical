@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the premiumbloggertemplates.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020132734id_/http%3A//www.premiumbloggertemplates.com/2009/04/privacy-policy-premium-blogger.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumbloggertemplates.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605015359id_/http%3A//www.premiumbloggertemplates.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy-Premium Blogger Templates | Premium Blogger Templates|Blogspot Themes
+# Privacy Policy | Premium Blogger Templates|Blogspot Themes
 
-##  [Privacy Policy-Premium Blogger Templates](http://www.premiumbloggertemplates.com/2009/04/privacy-policy-premium-blogger.html "Privacy Policy-Premium Blogger Templates")
-
-Privacy Policy for www.premiumbloggertemplates.com
+**Privacy Policy for www.premiumbloggertemplates.com**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at lasanthax3@gmail.com.
 
@@ -26,8 +24,7 @@ DoubleClick DART Cookie
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....
 
-Google Adsense  
-Chitika
+Google Adsense
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.premiumbloggertemplates.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
