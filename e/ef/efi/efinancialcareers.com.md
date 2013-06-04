@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the efinancialcareers.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229231301id_/http%3A//www.efinancialcareers.com/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604074846id_/http%3A//www.efinancialcareers.com/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Finance jobs, banking jobs, recruitment in investment banking & in the financial markets
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Dice%20Holdings%20Inc&sealid=102&lang=us)
+[ ](https://privacy.truste.com/privacy-seal/Dice-Holdings-Inc/validation?rid=972e24c8-374a-47a1-ace8-f2c349b08b6f "TRUSTe European Safe Harbor certification")
 
 ### Privacy Policy
 
