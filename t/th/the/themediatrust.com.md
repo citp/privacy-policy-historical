@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themediatrust.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014110202id_/https%3A//www.themediatrust.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themediatrust.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605004809id_/https%3A//www.themediatrust.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The Media Trust
 
