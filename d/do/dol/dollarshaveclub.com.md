@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the dollarshaveclub.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113111553id_/http%3A//www.dollarshaveclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarshaveclub.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604131727id_/http%3A//www.dollarshaveclub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Dollar Shave Club: Privacy Policy
+# Privacy Policy | Dollar Shave Club
 
 Dollar Shave Club, Inc. (“ **Dollar Shave Club** ”, “ **DSC** ”, “ **We** ”, “ **Us** ” or “ **Our** ”) values your privacy and is committed to protecting your personal information. Dollar Shave Club is an online service that delivers high-quality shaving razors and grooming supplies to its members once a month (“ **Services** ”). Dollar Shave Club - Shave Money. Shave Time.
 
 This Privacy Policy (“ **Policy** ”) describes how and when DSC collects, uses and shares your information when you use our Services. This Policy applies to our family of websites (the “ **Site(s)** ”). These include www.dollarshaveclub.com, www.dollarshaveblog.com and any other sites at which this Policy appears and the memberships that you can purchase on the Site to receive products that we offer or make available through the Sites (“ **Membership(s)** ”). By using Our Sites and/or purchasing a Membership you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize DSC to use your information in the United States and any other country where DSC operates. This Policy is incorporated by reference into the Dollar Shave Club Terms of Service. If you have any questions or comments about this Privacy Policy, please contact us at members@dollarshaveclub.com.
 
-Information Collection and Use
+## Information Collection and Use
 
 The information We collect from you enables us to fulfill your request for our products (razors and/or other grooming products that you order and receive through your Membership), to send you information or content in which you may be interested, and keep you abreast of any updates related to our Site and your Membership. We also use this information to personalize and continually improve our Site, your experience, and to ultimately serve you better.
 
@@ -18,19 +16,16 @@ The information We collect from you enables us to fulfill your request for our p
 
 **Information We Collect Automatically:** In addition, when you visit the Sites and/or register for Membership, we may collect certain information by automated means, such as cookies, web beacons, and other automated devices. A “cookie” is a text file that websites send to a visitor‘s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, is used to transmit information back to a web server. We also may use third-party website analytics tools (such as Omniture, Google Analytics, and Facebook Insights), that collect information about visitor traffic on the Sites. The information we may collect by automated means includes:
 
- Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser, domain name and operating system type)
+  *  Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser, domain name and operating system type)
+  *  URLs that refer visitors to our sites
+  *  Dates and times of visits to our sites
+  *  Information on actions taken on our sites (such as page views and site navigation patterns)
+  *  A general geographic location (such as country and city) from which a visitor accesses our websites
+  *  Search terms that visitors use to reach our sites and the webpage that led you to the Sites
 
- URLs that refer visitors to our sites
 
- Dates and times of visits to our sites
 
- Information on actions taken on our sites (such as page views and site navigation patterns)
-
- A general geographic location (such as country and city) from which a visitor accesses our websites
-
- Search terms that visitors use to reach our sites and the webpage that led you to the Sites
-
-**Cookies and other Tracking Technology:**
+## Cookies and other Tracking Technology: 
 
 **Cookies Information:** Cookies are small pieces of information which are issued to your computer when you visit a website and which store and sometimes track information about your use of the Service. DSC uses cookies to help recognize you as a repeat visitor, to improve the quality of our Service, and to try and make your browsing experience meaningful. When you enter our Sites, our web server sends a cookie to your computer which allows us to recognize your computer but not specifically who is using it. By associating the identification numbers in the cookies with other customer information when, for example, you log-in to the Service, then we know that the cookie information relates to you. Some of the cookies used by our Service are served by us, and some are served by third parties who are delivering services on our behalf. Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different browsers. By blocking or deleting cookies used on our Service, you may not be able to take full advantage of our Service.
 
@@ -50,7 +45,7 @@ In addition, some of these companies are members of the Network Advertising Init
 
 Dollar Shave Club does not have access to the information these third parties may collect about your interests to deliver relevant advertising to you, and the information practices of these third parties are not covered by this Privacy Policy. In addition, DSC with third parties to help us track the ads that are delivered to you, in particular to control the number of times you receive the same ad, and to analyze the effectiveness of advertising on the Sites.
 
-Information Sharing and Disclosure
+## Information Sharing and Disclosure
 
 We do not disclose your private personal information except in the limited circumstances described here.
 
@@ -62,26 +57,22 @@ We do not disclose your private personal information except in the limited circu
 
 **Business Transfers:** In the event that DSC is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this Privacy Policy will apply to your information as transferred to the new entity.
 
-How We Protect Your Information
+## How We Protect Your Information
 
 We are committed to protecting the information we receive from you. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on Our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved. **We have implemented commercially reasonable precautions, including, where appropriate, password protection, encryption, SSL, firewalls, and internal restrictions on who may access data to protect our Site and the information** We **collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction.** The Sites encrypt your credit card number, debit card number, or other payment option and other personal information using secure socket layer (SSL) technology to provide for the secure transmission **of the** information from your personal computer to Our servers. In addition, only those employees and third parties who need access to you information in order to perform their duties are allowed such access. You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a password that nobody else knows or can easily guess, and keeping your password private. Also, you should never share your log-in information with others. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity. To change your Facebook password, you must go to the Facebook site and follow its procedures for changing your password.
 
-Modifying Your Personal Information
+## Modifying Your Personal Information
 
 You may modify any personal information that you have submitted by logging into your account and updating your profile information. Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site for a period of time. If you would like to access or modify your Facebook profile information, or adjust the types of information we receive from Facebook, you must adjust your Facebook account settings directly through Facebook. We have no control over how Facebook shares your information with us or other third parties. The information you provide to Facebook is subject to the Facebook Privacy Policy. You may also cancel your DSC account. Just log-in to your account go to “Membership Settings”, then “Other Options”, and select “I want to cancel my membership.” We will try to cancel your account as soon as possible, but it may take up to fourteen (14) business days for our systems to completely implement this so you may still get correspondences from us during that time.
 
-Your California Privacy Rights
+## Your California Privacy Rights
 
 California residents may request a list of certain third parties to which we have disclosed personally identifiable information about you for direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at: members@dollarshaveclub.com. Please allow up to thirty (30) days for a response.
 
-Our Policy Towards Children
+## Our Policy Towards Children
 
 Our Services are not directed to persons under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at members@dollarshaveclub.com. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account. You can find additional resources for parents and teens www.connectsafely.org.
 
-EU Safe Harbor Framework
-
-DSC complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit the U.S. Department of Commerce website.
-
-Changes to this Policy
+## Changes to this Policy
 
 We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at dollarshaveclub.com/privacy. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
