@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineshoes.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218011737id_/http%3A//www.onlineshoes.com/PopupDetail/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineshoes.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604051041id_/http%3A//www.onlineshoes.com/PopupDetail/PrivacyPolicy) for the most accurate reproduction.*
 
 # OnlineShoes.com Privacy Policy
 
@@ -27,7 +27,7 @@ Information collected while you shop our Site may be combined with information w
 
 By visiting our Site directly or through another website, you consent to the collection, use and disclosure of your personal information in accordance with the terms of this Privacy Policy.
 
-This Privacy Policy applies only to [www.OnlineShoes.com](https://web.archive.org/) (including sub-domains and interface variations delivered by OnlineShoes.com servers, regardless of access device) and any other website operated by Gerler and Son, Inc. dba OnlineShoes.com (collectively, our "Site").We are not responsible for the content or privacy practices on any website not operated by Gerler and Son, Inc. to which our Site links or that links to our Site.
+This Privacy Policy applies only to [www.OnlineShoes.com](http://www.onlineshoes.com/) (including sub-domains and interface variations delivered by OnlineShoes.com servers, regardless of access device) and any other website operated by Gerler and Son, Inc. dba OnlineShoes.com (collectively, our "Site").We are not responsible for the content or privacy practices on any website not operated by Gerler and Son, Inc. to which our Site links or that links to our Site.
 
 **Information Collection**
 
@@ -108,4 +108,4 @@ This Privacy Policy and the privacy practices of our Site and Gerler & Son, Inc.
 
 Thanks for reading. Hope we made you feel a little more comfortable about shopping here at OnlineShoes.com.
 
-But if you continue to have questions about how we treat your privacy (or are still trying to decipher "aggregated," "divestitures," and any of our other legalese), just let us know. You can email us at [privacy@OnlineShoes.com](mailto:privacy@OnlineShoes.com) or give us a call at 800.786.3141. We'll even keep your call private and confidential. Promise.
+But if you continue to have questions about how we treat your privacy (or are still trying to decipher "aggregated," "divestitures," and any of our other legalese), just let us know. You can email us at [privacy@OnlineShoes.com](mailto:privacy@OnlineShoes.com) or give us a call at 1.800.786.3141. We'll even keep your call private and confidential. Promise.
