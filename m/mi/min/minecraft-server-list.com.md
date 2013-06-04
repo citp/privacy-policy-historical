@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraft-server-list.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204132846id_/http%3A//minecraft-server-list.com/minelog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-server-list.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604190626id_/http%3A//minecraft-server-list.com/minelog/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Statement - Minecraft-server-list.com | Minecraft Server List Minelog
 
@@ -6,15 +6,15 @@ Minecraft-server-list.com will only collect and use information from our users t
 
 If you got any specific questions or seek more information about this, please contact us through email at admin[@]Minecraft-server-list.com
 
- **Type of data our server will collect:**  
+**Type of data our server will collect:**  
 **Cookies:**  
 We use cookies to store information about users, to be able to deliver users the same preferences as used on earlier visits. We record which pages users visit, IP address, browser type, time on site, referring pages. We do not publish any of this, but simply use it to improve this service.  
 Cookie will also be stored if you select the “Remember me” checkbox on login. This is to store your details to keep you logged in. You can click Logout to clear this cookie.
 
- **Statistics / Logs:**  
+**Statistics / Logs:**  
 We use 2 third-party statistic modules (Livewebstats.dk and Google Analytics) whom also place a cookie and collect visitor data. Again these data are only avaliable to Minecraft-server-list.com and will not be shared with any third-party.
 
- **Advertisement:**  
+**Advertisement:**  
 DoubleClick DART Cookie
 
   * Google, as a third party vendor, uses cookies to serve ads on Minecraft-server-list.com
@@ -38,7 +38,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Privacy policies have been updated: 2011.04.14
 
- **GD Star Rating**  
- _a WordPress rating system_
+**GD Star Rating**  
+ _loading..._
 
-Privacy Policy / Statement - Minecraft-server-list.com, 7.1 out of 10 based on 14 ratings 
+Privacy Policy / Statement - Minecraft-server-list.com, 7.6 out of 10 based on 24 ratings 
