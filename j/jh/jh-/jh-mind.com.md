@@ -1,13 +1,20 @@
-> *The following text is extracted and transformed from the jh-mind.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919191337id_/http%3A//www.jh-mind.com/statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jh-mind.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604222352id_/http%3A//www.jh-mind.com/statement.html) for the most accurate reproduction.*
 
 # 
 
-**Privacy Statement for JH-Mind.com**
+**Privacy Statement for JH-Mind (JustHoroscope-mind.com)**
 
-The following discloses the information gathering and dissemination practices for this Web site: http://www.jh-mind.com   
+**Children's Guidelines**  
+This site does not permit anyone under 18 to subscribe or buy any of our products.   
+This site DO NOT bill or charge people under 18, any person who doesn't meet the age criteria is immediately deleted from our database.
+
+**The web site**  
+All Horoscope reports are produced by the team Jh-Mind. We use the Professional Astrology softwares from : http://www.astrologysoftware.com 
+
 **Advertisers**  
 We use an outside ad company to display ads on our site. These ads may contain cookies.   
-While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.   
+While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+
 **Registration Forms**  
 Our site's registration form requires users to give us contact information (like their name, email, age).   
 We collecte demographic informations like their zip code, age, place and date of birth.
@@ -38,8 +45,4 @@ JH-mind.com is in no way responsible for the privacy practices or the content of
 
 **Security**  
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.   
-Payment is secured through secure SSL pages with Paypal.com and 2co.com . 
-
-**Children's Guidelines**  
-This site does not permit anyone under 18 to subscribe or buy any of our products.   
-This site DO NOT bill or charge people under 18, any person who doesn't meet the age criteria is immediately deleted from our database.
+Payment is secured through secure SSL pages with Paypal.com . 
