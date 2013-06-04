@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codecogs.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110032134id_/http%3A//www.codecogs.com/pages/agreements/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codecogs.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604034150id_/http%3A//codecogs.com/pages/agreements/privacy_policy.php) for the most accurate reproduction.*
 
-# CodeCogs - Privacy Policy
+# CodeCogs Privacy Policy
 
 This is a privacy policy for Zyba Ltd (the company behind CodeCogs.com). Our homepage on the Web is located at [http://www.codecogs.com](http://www.codecogs.com/). The full text of our privacy policy is available on the Web at <http://www.codecogs.com/pages/agreements/privacy_policy.html>. 
 
