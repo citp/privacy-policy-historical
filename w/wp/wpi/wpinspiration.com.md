@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wpinspiration.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225135826id_/http%3A//wparchive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpinspiration.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604212554id_/http%3A//wparchive.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-The privacy of our visitors to [wparchive.com](http://wparchive.com/ "More about wparchive.com »") is important to us.
+The privacy of our visitors to wparchive.com is important to us.
 
-At wparchive.com, we recognize that privacy of your [personal](http://wparchive.com/category/personal-wordpress-themes/ "More about Personal »") information is important. Here is information on what types of [personal](http://wparchive.com/personal/ "personal") information we receive and collect when you use and visit wparchive.com, and how we safeguard your information. We never sell your personal information to third parties.
+At wparchive.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit wparchive.com, and how we safeguard your information. We never sell your personal information to third parties.
 
 Log Files  
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
