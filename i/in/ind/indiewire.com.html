@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the indiewire.com privacy policy that was archived on 2012-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010224903id_/http%3A//www.indiewire.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indiewire.com privacy policy that was archived on 2013-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604142155id_/http%3A//www.indiewire.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head prefix="og: http://ogp.me/ns#
     fb: http://ogp.me/ns/fb#">
@@ -13,23 +13,84 @@
 
 <meta property="pageHost" content="">
 <meta property="pageType" content="">
+<link rel="shortcut icon" href="http://d1oi7t5trwfj5d.cloudfront.net/36/9e/83a6781c4a9185774b29cb59594b/favicon.ico">
+<link rel="apple-touch-icon" href="http://d1oi7t5trwfj5d.cloudfront.net/18/ff/b0b53a08499589fe022e46664b67/favicon.png">
+<script type="text/javascript" async="" src="https://ak.sail-horizon.com/horizon/v1.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="//secure-us.imrworldwide.com/v60a.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script><link rel="stylesheet" href="/fonts/fonts.css">
+<link rel="stylesheet" href="http://d1oi7t5trwfj5d.cloudfront.net/resource/css/global.4d6c61389f5c4a3e0b3090e23ad97955.css">
+<link rel="stylesheet" media="print" href="http://d1oi7t5trwfj5d.cloudfront.net/resource/css/print.9ea318947ea3bb245d01842009dbc666.css">
 
-<link rel="icon" type="image/png" href="http://ec2.indiewire.com/i/fav.png">
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//secure-us.imrworldwide.com/v60a.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script><link rel="stylesheet" href="/fonts/fonts.css">
-<link rel="stylesheet" href="http://d1oi7t5trwfj5d.cloudfront.net/resource/css/global.e2d6d5ae969965ec9a0ee11e05394ee4.css">
-<link rel="stylesheet" media="print" href="http://d1oi7t5trwfj5d.cloudfront.net/resource/css/print.35c57b30f78fe15edee8428ded492b9d.css">
+<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/jquery-1.7.2.min.fd9c3f401110f85ec685a85a336f03fa.js"></script>
+<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/jquery.tools.min.6777c9308a64b5abcf10d728cedbf865.js"></script>
+<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/head.min.75ebe32e1ce54532b352cc9496580198.js"></script>
+<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/iw.d72aed67b023ac68cf2b891aa916516c.js"></script>
 
-<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/jquery-1.6.2.min.a1a8cb16a060f6280a767187fd22e037.js"></script>
-<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/jquery.tools.min.f97317491f9ec9a23447471399300594.js"></script>
-<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/head.min.b21d6d6afa4724b7686ce43f113a44aa.js"></script>
-<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/criticwire/criticwire.e68922740f4fd302541d36fc50f59daa.js"></script>
-
+<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/criticwire/criticwire.092f16df188dfb2dbf50f26a1129208b.js"></script>
+</head><body><div id="fb-root"></div>
+<script src="//connect.facebook.net/en_US/all.js" id="facebook-jssdk"></script>
 <script type="text/javascript">
+    
+    $.extend(IW, {
+        FB: {
+            params: {
+                appId: '132443425037',
+                status: true,
+                cookie: true,
+                xfbml: true
+            },
+            callbacks: {
+                init: [],
+                getLoginStatus: [],
+                authResponseChange: [],
+                loginSmallLoaded: [],
+                api: []
+            },
+            doCallback: function(response, fnName) {
+                for(var i in this.callbacks[fnName]) {
+                    CW.log('Calling callbacks[' + fnName + '][' + i + ']', response);
+                    this.callbacks[fnName][i](response);
+                }
+            }
+        }
+    });
+    
+    CW.log('window.fbAsyncInit()');
+
+    if(typeof(FB) == 'object') {
+        CW.log('FB.init()');
+        FB.init(IW.FB.params);
+        
+        IW.FB.callbacks.getLoginStatus.push(CW.user.init);
+        IW.FB.callbacks.getLoginStatus.push(CW.user.handleLoginResponse);
+        IW.FB.callbacks.authResponseChange.push(CW.user.handleLoginResponse);
+        IW.FB.callbacks.authResponseChange.push(CW.newsletter.check);
+
+        if(typeof(getSocialsCount) == 'function') {
+            IW.FB.callbacks.getLoginStatus.push(getSocialsCount);
+        }
+
+        FB.getLoginStatus(function(response) {
+            CW.log('top level FB.getLoginStatus() callback, calling other CBs');
+            IW.FB.doCallback(response, 'getLoginStatus');
+            FB.Event.subscribe('auth.authResponseChange', function(response) {
+                IW.FB.doCallback(response, 'authResponseChange');
+            });
+        });
+
+    } else {
+        CW.log('FB is not defined');
+    }
+    
+    IW.siteName = 'Indiewire';
+    
+</script><script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-3922545-4']);
     _gaq.push(['_setDomainName', '.indiewire.com']);
-    _gaq.push(['_trackPageview']);
 
+    _gaq.push(['_trackPageview']);
+               _gaq.push(['_setCustomVar', 3, 'Site', 'Indiewire', 3 ]);
+           
+    
     (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -48,16 +109,32 @@
  var x = document.getElementsByTagName('script')[0];
  x.parentNode.insertBefore(s, x); })();
 </script>
-<!-- END Nielsen Online Async V6.0 --><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> 
-    </head>
-    <body> 
+<!-- END Nielsen Online Async V6.0 -->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "15332233" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=15332233&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> 
+    
+     
 <div class="trendWrap clrfix">
     <div class="trending clrfix">
         <a class="snag" href="http://www.snagfilms.com">A SnagFilms company</a>
 
         <div class="trendBar">
             <span>Trending:</span>
-            <a href="http://www.indiewire.com/festival/the_new_york_film_festival" title="">New York Film Festival</a>, &nbsp;&nbsp;<a href="http://www.indiewire.com/academy-awards" title="">Academy Awards</a></div>
+            <a href="http://www.indiewire.com/trailers" title="">Trailers</a>, &nbsp;&nbsp;<a href="http://www.indiewire.com/box-office/" title="">Box Office</a></div>
         <!-- ends trendingBar -->
     </div>
     <!-- end trending -->
@@ -69,8 +146,11 @@
     <div class="hat-ad">
         <div class="ad">
             <script type="text/javascript">
-        document.write('<scr' + 'ipt src="http://adserver.adtechus.com/addyn/3.0/5182/619932/0/225/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=123;misc=' + new Date().getTime() + '"></scri' + 'pt>');
-    </script><script src="http://adserver.adtechus.com/addyn/3.0/5182/619932/0/225/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=123;misc=1580455749989"></script>
+		window['adtech_adurl_' + "8cd1f57d-d22d-4cda-b075-97549ba1dabd"] = "http://adserver.adtechus.com/addyn/3.0/5182/619932/0/225/ADTECH;loc=100;target=_blank;key=857e3750-08c0-11e1-820e-123138165f92+Indiewire;grp=123;misc=' + new Date().getTime()";
+		document.writeln('<DIV ID="ADTECH_AdContainer_' + "8cd1f57d-d22d-4cda-b075-97549ba1dabd" +'"><IFRAME ID="ADTECH_IFRAME_'+ "8cd1f57d-d22d-4cda-b075-97549ba1dabd" +'" FRAMEBORDER="0" STYLE="display:block;width: 0px; height: 0px;" SRC="/adtech/stubfile.jsp"></IFRAME></DIV>');
+	</script><div id="ADTECH_AdContainer_8cd1f57d-d22d-4cda-b075-97549ba1dabd"><iframe id="ADTECH_IFRAME_8cd1f57d-d22d-4cda-b075-97549ba1dabd" frameborder="0" style="display:block;width: 0px; height: 0px;" src="/adtech/stubfile.jsp"></iframe></div>
+
+
 </div>
         <!-- end ad -->
     </div>
@@ -81,13 +161,16 @@
             <div id="ad-interstitial">
                 <script type="text/javascript">
         document.write('<scr' + 'ipt src="http://adserver.adtechus.com/addyn/3.0/5182/842660/0/16/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=[group];misc=' + new Date().getTime() + '"></scri' + 'pt>');
-    </script><script src="http://adserver.adtechus.com/addyn/3.0/5182/842660/0/16/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=[group];misc=1580455749992"></script>
+    </script><script src="http://adserver.adtechus.com/addyn/3.0/5182/842660/0/16/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=[group];misc=1580455752166"></script>
 <!-- end interstitial ad call -->
             </div>
         <!-- skin ad call -->
             <script type="text/javascript">
-        document.write('<scr' + 'ipt src="http://adserver.adtechus.com/addyn/3.0/5182/2221508/0/16/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=[group];misc=' + new Date().getTime() + '"></scri' + 'pt>');
-    </script><script src="http://adserver.adtechus.com/addyn/3.0/5182/2221508/0/16/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=[group];misc=1580455749993"></script>
+		window['adtech_adurl_' + "45daebcf-f4a6-451f-ac28-bf632383b1e0"] = "http://adserver.adtechus.com/addyn/3.0/5182/2221508/0/16/ADTECH;loc=100;target=_blank;key=857e3750-08c0-11e1-820e-123138165f92+Indiewire;grp=[group];misc=' + new Date().getTime()";
+		document.writeln('<DIV ID="ADTECH_AdContainer_' + "45daebcf-f4a6-451f-ac28-bf632383b1e0" +'"><IFRAME ID="ADTECH_IFRAME_'+ "45daebcf-f4a6-451f-ac28-bf632383b1e0" +'" FRAMEBORDER="0" STYLE="display:block;width: 0px; height: 0px;" SRC="/adtech/stubfile.jsp"></IFRAME></DIV>');
+	</script><div id="ADTECH_AdContainer_45daebcf-f4a6-451f-ac28-bf632383b1e0"><iframe id="ADTECH_IFRAME_45daebcf-f4a6-451f-ac28-bf632383b1e0" frameborder="0" style="display:block;width: 0px; height: 0px;" src="/adtech/stubfile.jsp"></iframe></div>
+
+
 <!-- end skin ad call -->
         </div>
 <!-- end header ad -->
@@ -100,7 +183,7 @@
         </div>
         <div class="social clrfix cw-head-social">
             <p id="todays-date" class="date"></p>
-            <div id="login">
+            <div id="login" style="display: none;">
                  <div class="loginFB" style="">
             <div class="fb-login-button" data-show-faces="false" data-width="150" data-max-rows="1" data-scope="user_about_me,user_likes,email">Log In With Facebook</div>
         </div>
@@ -117,102 +200,111 @@
     </div> <!-- end head -->
     
     <div id="navWrapper" class="clrfix">
-        <ul class="primaryNav clrfix">
-            <li class="tab1 drop">
-                            <a href="/articles/?l=indiewire">News</a><ul class="dropdown">
-                                <li><a href="/articles/?l=indiewire" target="_self">Recent News</a></li>
-                                <li><a href="http://www.indiewire.com/feature/interviews" target="_self">Interviews</a></li>
-                                <li><a href="http://www.indiewire.com/ipop" target="_self">Photos</a></li>
-                                <li><a href="/news/acquisitions" target="_self">Acquisitions</a></li>
-                                <li><a href="http://www.indiewire.com/box-office/" target="_self">Box Office</a></li>
-                                <li><a href="http://www.indiewire.com/category/television" target="_self">Television</a></li>
-                                <li><a href="http://www.indiewire.com/category/indiewire-video" target="_self">Video</a></li>
-                                <li><a href="/critic" target="_self">Criticwire [OLD PAGE]</a></li>
-                                </ul>
-                        </li>
-                    <li class="tab2 drop">
-                            <a href="http://www.indiewire.com/films">MOVIES</a><ul class="dropdown">
-                                <li><a href="http://www.indiewire.com/reviews/" target="_self">Reviews</a></li>
-                                <li><a href="http://www.indiewire.com/films" target="_self">In Theaters</a></li>
-                                <li><a href="http://www.indiewire.com/tag/vod" target="_self">Video On Demand</a></li>
-                                <li><a href="/films?t=cs" target="_self">Coming Soon</a></li>
-                                <li><a href="http://www.indiewire.com/box-office/" target="_self">Box Office Home</a></li>
-                                <li><a href="/movies?t=az&amp;filter=ab0123456789" target="_self">A-Z Movie Directory</a></li>
-                                </ul>
-                        </li>
-                    <li class="tab3 drop">
-                            <a href="http://www.indiewire.com/category/festivals">Festivals</a><ul class="dropdown">
-                                <li><a href="http://www.indiewire.com/festival/cannes_film_festival?t=all" target="_self">Cannes 2012</a></li>
-                                <li><a href="/festival/sundance_film_festival" target="_self">Sundance </a></li>
-                                <li><a href="http://www.indiewire.com/category/festivals" target="_self">News</a></li>
-                                <li><a href="/festivals#dir" target="_self">Festival Directory</a></li>
-                                <li><a href="http://www.indiewire.com/festival/sxsw" target="_self">SXSW</a></li>
-                                <li><a href="http://www.indiewire.com/tag/programmer-profiles" target="_self">Festival Programmer Profiles</a></li>
-                                <li><a href="http://www.indiewire.com/festival/tiff?t=all" target="_self">Toronto International Film Festival</a></li>
-                                <li><a href="http://www.indiewire.com/tags/null" target="_self">Venice Film Festival</a></li>
-                                <li><a href="http://www.indiewire.com/festival/telluride_film_festival" target="_self">Telluride Film Festival</a></li>
-                                </ul>
-                        </li>
-                    <li class="tab4 drop">
-                            <a href="/category/television/">Television</a><ul class="dropdown">
-                                <li><a href="/category/television/" target="_self">All TV Coverage</a></li>
-                                <li><a href="http://www.indiewire.com/tag/tv-news" target="_self">News</a></li>
-                                <li><a href="http://www.indiewire.com/tag/tv-reviews" target="_self">Reviews</a></li>
-                                <li><a href="http://www.indiewire.com/tag/tv-features" target="_self">Features</a></li>
-                                <li><a href="http://www.indiewire.com/tag/tv-videos" target="_self">Videos</a></li>
-                                <li><a href="http://www.indiewire.com/tag/tv-interviews" target="_self">Interviews</a></li>
-                                </ul>
-                        </li>
-                    <li class="tab5 drop">
-                            <a href="http://www.indiewire.com/blogs">Blogs</a><ul class="dropdown">
-                                <li><a href="http://blogs.indiewire.com/peterbogdanovich/" target="_self">Blogdanovich</a></li>
-                                <li><a href="http://blogs.indiewire.com/carynjames/" target="_self">Caryn James</a></li>
-                                <li><a href="http://blogs.indiewire.com/criticwire/" target="_self">Criticwire</a></li>
-                                <li><a href="http://blogs.indiewire.com/leonardmaltin/" target="_self">Leonard Maltin's Movie Crazy</a></li>
-                                <li><a href="http://blogs.indiewire.com/thelostboy/" target="_self">The Lost Boy</a></li>
-                                <li><a href="http://blogs.indiewire.com/theplaylist/" target="_self">The Playlist</a></li>
-                                <li><a href="http://blogs.indiewire.com/pressplay/" target="_self">Press Play</a></li>
-                                <li><a href="http://blogs.indiewire.com/anthony/" target="_self">ReelPolitik</a></li>
-                                <li><a href="http://blogs.indiewire.com/kohn/" target="_self">Screen Rush</a></li>
-                                <li><a href="http://blogs.indiewire.com/shadowandact/" target="_self">Shadow and Act</a></li>
-                                <li><a href="http://blogs.indiewire.com/sydneylevine/" target="_self">SydneysBuzz</a></li>
-                                <li><a href="http://blogs.indiewire.com/thompsononhollywood/" target="_self">Thompson on Hollywood</a></li>
-                                <li><a href="http://blogs.indiewire.com/womenandhollywood/" target="_self">Women and Hollywood</a></li>
-                                </ul>
-                        </li>
-                    <li class="tab6 drop">
-                            <a href="/category/filmmaker-toolkit">Filmmaking</a><ul class="dropdown">
-                                <li><a href="/category/filmmaker-toolkit" target="_self">Filmmaker Toolkit</a></li>
-                                <li><a href="http://www.indiewire.com/tag/project-of-the-day" target="_self">Project of the Day</a></li>
-                                </ul>
-                        </li>
-                    </ul><!-- end primary Nav -->
-        <div class="navad clrfix">
+		<ul class="primaryNav clrfix">
+			<li class="tab1 drop"><a href="/articles/?l=indiewire">News</a>
+			<ul class="dropdown">
+					<li><a href="/articles/?l=indiewire" target="_self">Recent
+							News</a></li>
+					<li><a href="http://www.indiewire.com/feature/interviews" target="_self">Interviews</a></li>
+					<li><a href="http://www.indiewire.com/ipop" target="_self">Photos</a></li>
+					<li><a href="/news/acquisitions" target="_self">Acquisitions</a></li>
+					<li><a href="http://www.indiewire.com/box-office/" target="_self">Box Office</a></li>
+					<li><a href="http://www.indiewire.com/category/television" target="_self">Television</a></li>
+					<li><a href="http://www.indiewire.com/category/indiewire-video" target="_self">Video</a></li>
+				</ul></li>
+			<li class="tab2 drop"><a href="http://www.indiewire.com/films">MOVIES</a>
+			<ul class="dropdown">
+			        <li><a href="/box-office" target="_self">Box Office Home</a></li>
+			        <li><a href="/films?t=cs" target="_self">Coming Soon</a></li>
+			        <li><a href="/movies?t=az&amp;filter=ab0123456789" target="_self">Find a Film</a></li>
+			        <li><a href="/home-entertainment" target="_self">Home Entertainment</a></li>
+			        <li><a href="/films" target="_self">In Theaters</a></li>
+					<li><a href="/reviews" target="_self">Reviews</a></li>
+					<li><a href="/tag/vod" target="_self">Video On Demand</a></li>
+				</ul></li>
+			<li class="tab3 drop"><a href="http://www.indiewire.com/category/festivals">Festivals</a>
+				<ul class="dropdown">
+				    <li><a href="/category/festivals" target="_self">News</a></li>
+                    <li><a href="/festivals#dir" target="_self">Festival Directory</a></li>
+                    <li><a href="/tag/programmer-profiles" target="_self">Festival Programmer Profiles</a></li>
+					<li><a href="/festival/cannes_film_festival?t=all" target="_self">Cannes</a></li>
+					<li><a href="/festival/sundance_film_festival" target="_self">Sundance</a></li>
+					<li><a href="/festival/sxsw" target="_self">SXSW</a></li>
+					<li><a href="/festival/telluride_film_festival" target="_self">Telluride Film Festival</a></li>
+					<li><a href="/festival/tiff?t=all" target="_self">Toronto International Film Festival</a></li>
+					<li><a href="/festival/tribeca_film_festival" target="_self">Tribeca Film Festival</a></li>
+					<li><a href="/tags/venice-film-festival" target="_self">Venice Film Festival</a></li>
+				</ul>
+			</li>
+			<li class="tab4 drop"><a href="/category/television/">Television</a>
+			<ul class="dropdown" style="display: none;">
+					<li><a href="/category/television/" target="_self">All TV
+							Coverage</a></li>
+					<li><a href="http://www.indiewire.com/tag/tv-news" target="_self">News</a></li>
+					<li><a href="http://www.indiewire.com/tag/tv-reviews" target="_self">Reviews</a></li>
+					<li><a href="http://www.indiewire.com/tag/tv-features" target="_self">Features</a></li>
+					<li><a href="http://www.indiewire.com/tag/tv-videos" target="_self">Videos</a></li>
+					<li><a href="http://www.indiewire.com/tag/tv-interviews" target="_self">Interviews</a></li>
+				</ul></li>
+			<li class="tab5 drop"><a href="http://www.indiewire.com/blogs">Blogs</a>
+			<ul class="dropdown">
+			        <li><a href="http://blogs.indiewire.com/animationscoop/" target="_self">Animation Scoop</a></li>
+					<li><a href="http://blogs.indiewire.com/peterbogdanovich/" target="_self">Blogdanovich</a></li>
+					<li><a href="http://blogs.indiewire.com/carynjames/" target="_self">Caryn James</a></li>
+					<li><a href="http://blogs.indiewire.com/criticwire/" target="_self">Criticwire</a></li>
+					<li><a href="http://blogs.indiewire.com/leonardmaltin/" target="_self">Leonard Maltin's Movie Crazy</a></li>
+					<li><a href="http://blogs.indiewire.com/mediamatrix/" target="_self">Media Matrix</a></li>
+					<li><a href="http://blogs.indiewire.com/theplaylist/" target="_self">The Playlist</a></li>
+					<li><a href="http://blogs.indiewire.com/pressplay/" target="_self">Press Play</a></li>
+					<li><a href="http://blogs.indiewire.com/anthony/" target="_self">ReelPolitik</a></li>
+					<li><a href="http://blogs.indiewire.com/shadowandact/" target="_self">Shadow and Act</a></li>
+					<li><a href="http://blogs.indiewire.com/sydneylevine/" target="_self">SydneysBuzz</a></li>
+					<li><a href="http://blogs.indiewire.com/thompsononhollywood/" target="_self">Thompson on Hollywood</a></li>
+					<li><a href="http://blogs.indiewire.com/womenandhollywood/" target="_self">Women and Hollywood</a></li>
+				</ul></li>
+			<li class="tab6 drop"><a href="http://www.indiewire.com/category/filmmaker-toolkit">Filmmaking</a>
+			     <ul class="dropdown">
+					<li><a href="http://www.indiewire.com/category/filmmaker-toolkit" target="_self">Filmmaker Toolkit</a></li>
+					<li><a href="http://www.indiewire.com/tag/project-of-the-day" target="_self">Project of the Day</a></li>
+					<li><a href="http://www.indiewire.com/tag/project-of-the-week" target="_self">Project of the Week</a></li>
+					<li><a href="http://www.indiewire.com/article/congrats-to-dear-white-people-indiewire-tribeca-film-institutes-project-of-the-year" target="_self">Project of the Year</a></li>
+				</ul>
+			</li>
+		</ul>
+		<!-- end primary Nav -->
+		<div class="navad clrfix">
             <script type="text/javascript">
-        document.write('<scr' + 'ipt src="http://adserver.adtechus.com/addyn/3.0/5182/642747/0/3331/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=[group];misc=' + new Date().getTime() + '"></scri' + 'pt>');
-    </script><script src="http://adserver.adtechus.com/addyn/3.0/5182/642747/0/3331/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=[group];misc=1580455750002"></script>
+		window['adtech_adurl_' + "4e67f14c-a301-4c10-b71b-a824a433d7a8"] = "http://adserver.adtechus.com/addyn/3.0/5182/642747/0/3331/ADTECH;loc=100;target=_blank;key=857e3750-08c0-11e1-820e-123138165f92+Indiewire;grp=123;misc=' + new Date().getTime()";
+		document.writeln('<DIV ID="ADTECH_AdContainer_' + "4e67f14c-a301-4c10-b71b-a824a433d7a8" +'"><IFRAME ID="ADTECH_IFRAME_'+ "4e67f14c-a301-4c10-b71b-a824a433d7a8" +'" FRAMEBORDER="0" STYLE="display:block;width: 0px; height: 0px;" SRC="/adtech/stubfile.jsp"></IFRAME></DIV>');
+	</script><div id="ADTECH_AdContainer_4e67f14c-a301-4c10-b71b-a824a433d7a8"><iframe id="ADTECH_IFRAME_4e67f14c-a301-4c10-b71b-a824a433d7a8" frameborder="0" style="display:block;width: 0px; height: 0px;" src="/adtech/stubfile.jsp"></iframe></div>
+
+
 </div>
     </div> <!-- end navWrapper -->
 
     <div class="subNav clrfix">
         <div class="more">more</div>
         <ul class="clrfix">
-            <li><a href="http://www.indiewire.com/reviews/" target="Self">Reviews</a></li>
-            <li><a href="http://www.indiewire.com/box-office/" target="Self">Box Office</a></li>
-            <li><a href="http://www.indiewire.com/feature/interviews" target="Self">Interviews</a></li>
-            <li><a href="http://www.indiewire.com/critic/" target="Self">Criticwire</a></li>
-            <li><a href="http://www.indiewire.com/category/awards" target="Self">Awards</a></li>
-            <li><a href="http://www.indiewire.com/iw-video" class="last" target="Self">Video</a></li>
+            <li><a href="http://www.indiewire.com/reviews/" target="_self">Reviews</a></li>
+            <li><a href="http://www.indiewire.com/box-office/" target="_self">Box Office</a></li>
+            <li><a href="http://www.indiewire.com/feature/interviews" target="_self">Interviews</a></li>
+            <li><a href="http://www.indiewire.com/critic/" target="_self">Criticwire</a></li>
+            <li><a href="http://www.indiewire.com/tag/sundance-video-2013" target="_self">Sundance Video</a></li>
+            <li><a href="http://www.indiewire.com/category/awards" target="_self">Awards</a></li>
+            <li><a href="http://www.indiewire.com/trailers" class="last" target="_self">Trailers</a></li>
             </ul>
         <form class="searchBar" action="/search">
             <input type="text" name="search" placeholder="Search" class="search-field">
             <input class="search-btn" type="submit" value="search">
         </form>
     </div> <!-- end sub nav -->
-    <div class="pushdownAd">
+    <div class="pushdownAd" style="display: none">
             <script type="text/javascript">
-        document.write('<scr' + 'ipt src="http://adserver.adtechus.com/addyn/3.0/5182/2221507/0/2392/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=[group];misc=' + new Date().getTime() + '"></scri' + 'pt>');
-    </script><script src="http://adserver.adtechus.com/addyn/3.0/5182/2221507/0/2392/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=[group];misc=1580455750006"></script>
+		window['adtech_adurl_' + "6d68b94e-eb18-4f42-b947-afa6e8982e93"] = "http://adserver.adtechus.com/addyn/3.0/5182/2221507/0/2392/ADTECH;loc=100;target=_blank;key=857e3750-08c0-11e1-820e-123138165f92+Indiewire;grp=[group];misc=' + new Date().getTime()";
+		document.writeln('<DIV ID="ADTECH_AdContainer_' + "6d68b94e-eb18-4f42-b947-afa6e8982e93" +'"><IFRAME ID="ADTECH_IFRAME_'+ "6d68b94e-eb18-4f42-b947-afa6e8982e93" +'" FRAMEBORDER="0" STYLE="display:block;width: 0px; height: 0px;" SRC="/adtech/stubfile.jsp"></IFRAME></DIV>');
+	</script><div id="ADTECH_AdContainer_6d68b94e-eb18-4f42-b947-afa6e8982e93"><iframe id="ADTECH_IFRAME_6d68b94e-eb18-4f42-b947-afa6e8982e93" frameborder="0" style="display:block;width: 0px; height: 0px;" src="/adtech/stubfile.jsp"></iframe></div>
+
+
 </div> <!-- end pushdown ad module -->
     </div> <!-- end masthead -->
 <div id="pageWrapper"><div id="col1"><div class="twoColLayout clrfix"><div class="row1 clrfix"><div class="sideNav">
@@ -245,7 +337,7 @@
         </ul>
 </div></div>  <!-- end row1 --><div class="row2 clrfix"><div class="article">
     <h1>Indiewire Privacy Statement</h1>
-    <p>
+    <style type="text/css">.cms-textAlign-left{text-align:left;}.cms-textAlign-center{text-align:center;}.cms-textAlign-right{text-align:right;}</style><p>
 	Indiewire recognizes the importance of protecting the privacy of all our subscribers. We have instituted, therefore, the guidelines set forth below with a fundamental respect for our user's right to privacy guidelines and to establish the basis for our customer and advertiser relationships. Due to the evolving nature of both the Internet and our business, it may be necessary to change these guidelines in the future. If we do so, however, we will post such changes on this page. In no circumstances, however, will we ever release your personal information without your consent, unless required to do so by law.</p>
 <h3>
 	The Information We Collect</h3>
@@ -309,79 +401,78 @@ document.getElementById('eeEncEmail_5C0qIvFFHf').innerHTML = output;
 </script>.</p></div>
 </div> <!-- end row2 --></div><!-- end twoColLayout --></div> <!-- col1 --><div id="col2"><div class="mod rr-300x250-ad">
     <script type="text/javascript">
-        document.write('<scr' + 'ipt src="http://adserver.adtechus.com/addyn/3.0/5182/619934/0/170/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=123;misc=' + new Date().getTime() + '"></scri' + 'pt>');
-    </script><script src="http://adserver.adtechus.com/addyn/3.0/5182/619934/0/170/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=123;misc=1580455750018"></script>
+		window['adtech_adurl_' + "82144d3e-d435-43a4-bd56-365e3451f758"] = "http://adserver.adtechus.com/addyn/3.0/5182/619934/0/170/ADTECH;loc=100;target=_blank;key=857e3750-08c0-11e1-820e-123138165f92+Indiewire;grp=123;misc=' + new Date().getTime()";
+		document.writeln('<DIV ID="ADTECH_AdContainer_' + "82144d3e-d435-43a4-bd56-365e3451f758" +'"><IFRAME ID="ADTECH_IFRAME_'+ "82144d3e-d435-43a4-bd56-365e3451f758" +'" FRAMEBORDER="0" STYLE="display:block;width: 0px; height: 0px;" SRC="/adtech/stubfile.jsp"></IFRAME></DIV>');
+	</script><div id="ADTECH_AdContainer_82144d3e-d435-43a4-bd56-365e3451f758"><iframe id="ADTECH_IFRAME_82144d3e-d435-43a4-bd56-365e3451f758" frameborder="0" style="display:block;width: 0px; height: 0px;" src="/adtech/stubfile.jsp"></iframe></div>
+
+
 </div> <!-- end mod rr-300x250-ad -->
-<script type="text/javascript">
-    jQuery(function() {
-        var url = window.location.href.split("#")[0].split("?")[0];
-        var successRedirect = url+'?nl_success=true';
-        var errorRedirect = url+'?nl_success=false';
-        jQuery('input[name=redirect]').val(successRedirect);
-        jQuery('input[name=errorredirect]').val(errorRedirect);
-    });
-</script>
 <div class="mod newsletter clrfix">
-    <a name="nlform"></a>
-    <h3><img src="http://d1oi7t5trwfj5d.cloudfront.net/resource/sprites/small-indie-logo.2ad2b549ba630267e15142325917f836.jpg" alt="Indiewire"> <span>Newsletters</span></h3>
+    <h3>
+        <img src="http://d1oi7t5trwfj5d.cloudfront.net/resource/sprites/small-indie-logo.0159f9e9dd30abcabd13426bc2c13fe4.jpg" alt="Indiewire"> 
+        <span>Newsletters</span>
+    </h3>
     <hr>
-    <form id="sign-up" method="post" action="https://app.icontact.com/icp/signup.php" name="icpsignup" accept-charset="UTF-8">
-            <div class="checkwrap">
-                <input type="checkbox" id="listid:18151" name="listid:18151" checked="checked">
-                <label for="listid:18151">Indiewire Today</label>
-            </div>
-            <div class="checkwrap">
-                <input type="checkbox" id="listid:18667" name="listid:18667">
-                <label for="listid:18667">News Alerts</label>
-            </div>
-                <input type="text" name="fields_email" placeholder="Email" class="email">
-            <input class="blue-btn" type="submit" value="subscribe" name="Submit">
-                <input type="hidden" name="redirect" value="">
-            <input type="hidden" name="errorredirect" value="">
-            <input type="hidden" name="listid" value="__multi">
-            <input type="hidden" name="lists" value="18151:18667">
-            <input type="hidden" name="specialid:18151" value="0RJP">
-            <input type="hidden" name="specialid:18667" value="CB1B">
-            <input type="hidden" name="clientid" value="736567">
-            <input type="hidden" name="formid" value="1364">
-            <input type="hidden" name="reallistid" value="1">
-            <input type="hidden" name="doubleopt" value="0">
-            <input type="hidden" name="fields_guid" value="8586d8c9-19bf-4ab0-9e29-b7839c1db7e6">
-        </form>
-    </div> <!-- end newsletter --><div class="mod rr-300x600-ad clrfix">
+    <div class="sailthru-container newsletter" data-hide-boxes="false">
+        <div class="sailthru-form-container"></div></div>
+</div>
+<div class="mod rr-300x600-ad clrfix">
     <script type="text/javascript">
-        document.write('<scr' + 'ipt src="http://adserver.adtechus.com/addyn/3.0/5182/1042863//0/529/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=123;misc=' + new Date().getTime() + '"></scri' + 'pt>');
-    </script><script src="http://adserver.adtechus.com/addyn/3.0/5182/1042863//0/529/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=123;misc=1580455750024"></script>
+		window['adtech_adurl_' + "fdf52a77-e0c3-44c7-8ed9-e5bb7f806070"] = "http://adserver.adtechus.com/addyn/3.0/5182/1042863//0/529/ADTECH;loc=100;target=_blank;key=857e3750-08c0-11e1-820e-123138165f92+Indiewire;grp=123;misc=' + new Date().getTime()";
+		document.writeln('<DIV ID="ADTECH_AdContainer_' + "fdf52a77-e0c3-44c7-8ed9-e5bb7f806070" +'"><IFRAME ID="ADTECH_IFRAME_'+ "fdf52a77-e0c3-44c7-8ed9-e5bb7f806070" +'" FRAMEBORDER="0" STYLE="display:block;width: 0px; height: 0px;" SRC="/adtech/stubfile.jsp"></IFRAME></DIV>');
+	</script><div id="ADTECH_AdContainer_fdf52a77-e0c3-44c7-8ed9-e5bb7f806070"><iframe id="ADTECH_IFRAME_fdf52a77-e0c3-44c7-8ed9-e5bb7f806070" frameborder="0" style="display:block;width: 0px; height: 0px;" src="/adtech/stubfile.jsp"></iframe></div>
+
+
 </div> <!-- end 300x600 ad -->
 <div class="mod pollMod clrfix">
-                <h3>the <span>SXSW Poll</span></h3>
+                <h3><span>The Latest Poll</span></h3>
                 <hr>
             <div id="ajax-poll">
 
 
-        <div class="pollQuestion" data-title="Are you attending SXSW this year?" data-url="http://www.indiewire.com/poll-are-you-attending-sxsw-this-year" data-results-url="http://www.indiewire.com/pollresults-are-you-attending-sxsw-this-year" data-vote-url="http://www.indiewire.com/pollvote-are-you-attending-sxsw-this-year" data-pollid="cca643c0-6964-11e1-9987-123138165f92">
+        <div class="pollQuestion" data-title="Which new release will you catch this weekend?" data-url="http://www.indiewire.com/poll-which-new-release-will-you-catch-this-weekend" data-results-url="http://www.indiewire.com/pollresults-which-new-release-will-you-catch-this-weekend" data-vote-url="http://www.indiewire.com/pollvote-which-new-release-will-you-catch-this-weekend" data-pollid="a6abc5e0-6497-11e1-9987-123138165f92">
             <div class="pollWrapper clrfix">
-                <p>Are you attending SXSW this year?</p>
+                <p>Which new release will you catch this weekend?</p>
                 <form id="poll" action="#" method="post" accept-charset="utf-8">
                     <div class="checkwrap checked clrfix">
                         <input type="radio" name="poll" value="0" id="opt0">
-                        <label for="0">Yes!</label>
+                        <label for="0">Being Flynn</label>
                     </div>
                     <div class="checkwrap checked clrfix">
                         <input type="radio" name="poll" value="1" id="opt1">
-                        <label for="1">I live in Austin, so I'll be there.</label>
+                        <label for="1">Black Butterflies</label>
                     </div>
                     <div class="checkwrap checked clrfix">
                         <input type="radio" name="poll" value="2" id="opt2">
-                        <label for="2">I live in Austin, but will skip out.</label>
+                        <label for="2">Last Days Here</label>
                     </div>
                     <div class="checkwrap checked clrfix">
                         <input type="radio" name="poll" value="3" id="opt3">
-                        <label for="3">No, sadly.</label>
+                        <label for="3">Let the Bullets Fly</label>
+                    </div>
+                    <div class="checkwrap checked clrfix">
+                        <input type="radio" name="poll" value="4" id="opt4">
+                        <label for="4">Project X</label>
+                    </div>
+                    <div class="checkwrap checked clrfix">
+                        <input type="radio" name="poll" value="5" id="opt5">
+                        <label for="5">The Salt of Life</label>
+                    </div>
+                    <div class="checkwrap checked clrfix">
+                        <input type="radio" name="poll" value="6" id="opt6">
+                        <label for="6">The Snowtown Murders</label>
+                    </div>
+                    <div class="checkwrap checked clrfix">
+                        <input type="radio" name="poll" value="7" id="opt7">
+                        <label for="7">This is Not a Film</label>
+                    </div>
+                    <div class="checkwrap checked clrfix">
+                        <input type="radio" name="poll" value="8" id="opt8">
+                        <label for="8">Tim and Eric's Billion Dolllar Movie</label>
                     </div>
                     <div class="vote clrfix">
                         <input type="submit" value="vote" class="blue-btn">
-                        <a href="http://www.indiewire.com/pollresults-are-you-attending-sxsw-this-year" class="more">see results »</a></div>
+                        <a href="http://www.indiewire.com/pollresults-which-new-release-will-you-catch-this-weekend" class="more">see results »</a></div>
 
                 </form>
             </div>
@@ -389,18 +480,21 @@ document.getElementById('eeEncEmail_5C0qIvFFHf').innerHTML = output;
         </div><!-- end ajax-poll -->
         
         <div class="feat-art">
-            <a href="http://www.indiewire.com/poll-are-you-attending-sxsw-this-year">read and react:</a><span>Are you attending SXSW this year?</span>
+            <a href="http://www.indiewire.com/poll-which-new-release-will-you-catch-this-weekend">read and react:</a><span>What to See, What to Skip This Weekend</span>
             <div class="sponsor clrfix">
                 <script type="text/javascript">
-        document.write('<scr' + 'ipt src="http://adserver.adtechus.com/addyn/3.0/5182/2265663/0/306/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=[group];misc=' + new Date().getTime() + '"></scri' + 'pt>');
-    </script><script src="http://adserver.adtechus.com/addyn/3.0/5182/2265663/0/306/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=[group];misc=1580455750027"></script>
+		window['adtech_adurl_' + "91a34ecf-687e-4135-b1a7-fd0096b410d8"] = "http://adserver.adtechus.com/addyn/3.0/5182/2265663/0/306/ADTECH;loc=100;target=_blank;key=857e3750-08c0-11e1-820e-123138165f92+Indiewire;grp=[group];misc=' + new Date().getTime()";
+		document.writeln('<DIV ID="ADTECH_AdContainer_' + "91a34ecf-687e-4135-b1a7-fd0096b410d8" +'"><IFRAME ID="ADTECH_IFRAME_'+ "91a34ecf-687e-4135-b1a7-fd0096b410d8" +'" FRAMEBORDER="0" STYLE="display:block;width: 0px; height: 0px;" SRC="/adtech/stubfile.jsp"></IFRAME></DIV>');
+	</script><div id="ADTECH_AdContainer_91a34ecf-687e-4135-b1a7-fd0096b410d8"><iframe id="ADTECH_IFRAME_91a34ecf-687e-4135-b1a7-fd0096b410d8" frameborder="0" style="display:block;width: 0px; height: 0px;" src="/adtech/stubfile.jsp"></iframe></div>
+
+
 <div class="by-line">Sponsored by </div>
                 </div>
         </div> <!-- end feat-art -->
 
     </div> <!-- end poll module -->
 <div class="mod facebook clrfix">
-        <h3><img alt="Indiewire" src="http://d1oi7t5trwfj5d.cloudfront.net/resource/sprites/small-indie-logo.2ad2b549ba630267e15142325917f836.jpg"> on <span>facebook</span></h3>
+        <h3><img alt="Indiewire" src="http://d1oi7t5trwfj5d.cloudfront.net/resource/sprites/small-indie-logo.0159f9e9dd30abcabd13426bc2c13fe4.jpg"> on <span>facebook</span></h3>
             <hr>
         <div class="fb-like-box" data-href="http://www.facebook.com/indiewire" data-border-color="#FFFFFF" data-width="300" data-height="260" data-show-faces="true" data-stream="false" data-header="false"></div>
 
@@ -414,61 +508,61 @@ document.getElementById('eeEncEmail_5C0qIvFFHf').innerHTML = output;
 
             <ul>
             <li>
-                        <a href="http://blogs.indiewire.com/criticwire/love-and-death-in-the-films-of-michael-haneke"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/c344b64/4102462740/thumbnail/51x51/http://d1oi7t5trwfj5d.cloudfront.net/d0/c38b20633811e19987123138165f92/file/criticwire_smbox_1.1.jpg" width="51" height="51"></a><a href="http://blogs.indiewire.com/criticwire/love-and-death-in-the-films-of-michael-haneke" class="headline">Love and Death in the Films of Michael Haneke</a><a title="Criticwire" href="http://blogs.indiewire.com/criticwire/">Criticwire</a>
+                        <a href="http://blogs.indiewire.com/criticwire/death-to-the-overly-expository-opening-voiceover-narration"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/a033164/2147483647/thumbnail/51x51/?url=http%3A%2F%2Fd1oi7t5trwfj5d.cloudfront.net%2Fd0%2Fc38b20633811e19987123138165f92%2Ffile%2Fcriticwire_smbox_1.1.jpg" width="51" height="51" data-size="blog-small-logo-51x51"></a><a href="http://blogs.indiewire.com/criticwire/death-to-the-overly-expository-opening-voiceover-narration" class="headline">Death to Overly Expository Opening Voiceover Narra ...</a><a title="Criticwire" href="http://blogs.indiewire.com/criticwire/">Criticwire</a>
                     </li>                        
 
                     <li>
-                        <a href="http://blogs.indiewire.com/theplaylist/2-more-surprise-films-headed-to-rome-film-festival-artistic-director-hints-heavily-at-django-unchained-20121010"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/b58b2aa/4102462740/thumbnail/51x51/http://d1oi7t5trwfj5d.cloudfront.net/cc/a10f70ef5911e0927c12313931436e/file/theplaylist-avatar.jpg" width="51" height="51" alt="The Playlist"></a><a href="http://blogs.indiewire.com/theplaylist/2-more-surprise-films-headed-to-rome-film-festival-artistic-director-hints-heavily-at-django-unchained-20121010" class="headline">2 More "Surprise Films" Headed To Rome Film Festival, ...</a><a title="The Playlist" href="http://blogs.indiewire.com/theplaylist/">The Playlist</a>
+                        <a href="http://blogs.indiewire.com/theplaylist/exclusive-saoirse-ronan-james-gandolfini-share-a-moment-in-clip-from-violet-daisy-20130604"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/3dcd8db/2147483647/thumbnail/51x51/?url=http%3A%2F%2Fd1oi7t5trwfj5d.cloudfront.net%2Fcc%2Fa10f70ef5911e0927c12313931436e%2Ffile%2Ftheplaylist-avatar.jpg" width="51" height="51" alt="The Playlist" data-size="blog-small-logo-51x51"></a><a href="http://blogs.indiewire.com/theplaylist/exclusive-saoirse-ronan-james-gandolfini-share-a-moment-in-clip-from-violet-daisy-20130604" class="headline">Exclusive: Saoirse Ronan &amp; James Gandolfini Share A ...</a><a title="The Playlist" href="http://blogs.indiewire.com/theplaylist/">The Playlist</a>
                     </li>                        
 
                     <li>
-                        <a href="http://blogs.indiewire.com/shadowandact/watch-lance-gross-nicole-beharie-in-breezy-new-clip-from-matthew-cherrys-the-last-fall"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/39189c8/4102462740/thumbnail/51x51/http://d1oi7t5trwfj5d.cloudfront.net/2e/9e29c0ef5911e0927c12313931436e/file/Shadow-and-Act-avatar.gif" width="51" height="51" alt="Shadow and Act"></a><a href="http://blogs.indiewire.com/shadowandact/watch-lance-gross-nicole-beharie-in-breezy-new-clip-from-matthew-cherrys-the-last-fall" class="headline">Watch Lance Gross &amp; Nicole Beharie In Breezy New Clip ...</a><a title="Shadow and Act" href="http://blogs.indiewire.com/shadowandact/">Shadow and Act</a>
+                        <a href="http://blogs.indiewire.com/shadowandact/la-rebellion-chicago-screening-of-passing-through-w-filmmaker-larry-clark-friday-6-7"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/2733806/2147483647/thumbnail/51x51/format/jpg/?url=http%3A%2F%2Fd1oi7t5trwfj5d.cloudfront.net%2F2e%2F9e29c0ef5911e0927c12313931436e%2Ffile%2FShadow-and-Act-avatar.gif" width="51" height="51" alt="Shadow and Act" data-size="blog-small-logo-51x51"></a><a href="http://blogs.indiewire.com/shadowandact/la-rebellion-chicago-screening-of-passing-through-w-filmmaker-larry-clark-friday-6-7" class="headline">L.A. Rebellion Chicago Screening Of 'Passing Through' ...</a><a title="Shadow and Act" href="http://blogs.indiewire.com/shadowandact/">Shadow and Act</a>
                     </li>                        
 
                     <li class="last">
-                        <a href="http://blogs.indiewire.com/thompsononhollywood/things-i-learned-at-david-chases-not-fade-away-party"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/741ffb1/4102462740/thumbnail/51x51/http://d1oi7t5trwfj5d.cloudfront.net/d8/c6aff0eec611e0ad0512313931436e/file/toh_icon_small.png" width="51" height="51" alt="Thompson On Hollywood Small Image"></a><a href="http://blogs.indiewire.com/thompsononhollywood/things-i-learned-at-david-chases-not-fade-away-party" class="headline">Things I Learned at David Chase 'Not Fade Away' Party, ...</a><a title="Thompson on Hollywood" href="http://blogs.indiewire.com/thompsononhollywood/">Thompson on Hollywood</a>
+                        <a href="http://blogs.indiewire.com/thompsononhollywood/now-you-see-me-star-jesse-eisenberg-vs-romina-puga-you-are-the-carrot-top-of-interviewers-video"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/021c712/2147483647/thumbnail/51x51/?url=http%3A%2F%2Fd1oi7t5trwfj5d.cloudfront.net%2Fd8%2Fc6aff0eec611e0ad0512313931436e%2Ffile%2Ftoh_icon_small.png" width="51" height="51" alt="Thompson On Hollywood Small Image" data-size="blog-small-logo-51x51"></a><a href="http://blogs.indiewire.com/thompsononhollywood/now-you-see-me-star-jesse-eisenberg-vs-romina-puga-you-are-the-carrot-top-of-interviewers-video" class="headline">'Now You See Me' Star Jesse Eisenberg vs. Romina Puga: ...</a><a title="Thompson on Hollywood" href="http://blogs.indiewire.com/thompsononhollywood/">Thompson on Hollywood</a>
                     </li>                        
 
                     </ul>
                         <ul>
                     <li>
-                        <a href="http://blogs.indiewire.com/womenandhollywood/rebel-wilson-sells-comedy-to-universal"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/5bf8b3c/4102462740/thumbnail/51x51/http://d1oi7t5trwfj5d.cloudfront.net/9b/4a4420f3e911e0b6b212313931436e/file/W_H_new_mini_logo.jpeg" width="51" height="51" alt="Women and Hollywood"></a><a href="http://blogs.indiewire.com/womenandhollywood/rebel-wilson-sells-comedy-to-universal" class="headline">Rebel Wilson Sells Comedy to Universal</a><a title="Women and Hollywood" href="http://blogs.indiewire.com/womenandhollywood/">Women and Hollywood</a>
+                        <a href="http://blogs.indiewire.com/womenandhollywood/the-hollywood-reporters-emmy-drama-actress-roundtable"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/2668fa4/2147483647/thumbnail/51x51/?url=http%3A%2F%2Fd1oi7t5trwfj5d.cloudfront.net%2F9b%2F4a4420f3e911e0b6b212313931436e%2Ffile%2FW_H_new_mini_logo.jpeg" width="51" height="51" alt="Women and Hollywood" data-size="blog-small-logo-51x51"></a><a href="http://blogs.indiewire.com/womenandhollywood/the-hollywood-reporters-emmy-drama-actress-roundtable" class="headline">The Hollywood Reporter's Emmy Drama Actress Roundt ...</a><a title="Women and Hollywood" href="http://blogs.indiewire.com/womenandhollywood/">Women and Hollywood</a>
                     </li>                        
 
                     <li>
-                        <a href="http://blogs.indiewire.com/pressplay/video-essay-the-portuguese-process-pedro-costa-and-miguel-gomes"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/220f50b/4102462740/thumbnail/51x51/http://d1oi7t5trwfj5d.cloudfront.net/e7/44c840ef5811e0927c12313931436e/file/PressPlay-Avatar.jpeg" width="51" height="51" alt="Press Play"></a><a href="http://blogs.indiewire.com/pressplay/video-essay-the-portuguese-process-pedro-costa-and-miguel-gomes" class="headline">VIDEO ESSAY: The Portuguese Process - Pedro Costa and ...</a><a title="Press Play" href="http://blogs.indiewire.com/pressplay/">Press Play</a>
+                        <a href="http://blogs.indiewire.com/pressplay/the-dangers-of-an-empty-suit-marvel-comics-war-on-war-continues"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/3a2d115/2147483647/thumbnail/51x51/?url=http%3A%2F%2Fd1oi7t5trwfj5d.cloudfront.net%2Fe7%2F44c840ef5811e0927c12313931436e%2Ffile%2FPressPlay-Avatar.jpeg" width="51" height="51" alt="Press Play" data-size="blog-small-logo-51x51"></a><a href="http://blogs.indiewire.com/pressplay/the-dangers-of-an-empty-suit-marvel-comics-war-on-war-continues" class="headline">The Dangers of An Empty Suit: Marvel Comics’ War on ...</a><a title="Press Play" href="http://blogs.indiewire.com/pressplay/">Press Play</a>
                     </li>                        
 
                     <li>
-                        <a href="http://blogs.indiewire.com/thelostboy/all-hail-iceland-and-belgium"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/ef37062/4102462740/thumbnail/51x51/http://d1oi7t5trwfj5d.cloudfront.net/b0/f4b5b0ef5911e0927c12313931436e/file/Screen shot 2011-11-08 at 12.10.26 AM.png" width="51" height="51" alt="The Lost Boys"></a><a href="http://blogs.indiewire.com/thelostboy/all-hail-iceland-and-belgium" class="headline">All Hail Iceland and Belgium</a><a title="The Lost Boys" href="http://blogs.indiewire.com/thelostboy/">The Lost Boys</a>
+                        <a href="http://blogs.indiewire.com/thelostboy/good-night-lost-boy-s"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/fc157d0/2147483647/thumbnail/51x51/?url=http%3A%2F%2Fd1oi7t5trwfj5d.cloudfront.net%2Fb0%2Ff4b5b0ef5911e0927c12313931436e%2Ffile%2FScreen%20shot%202011-11-08%20at%2012.10.26%20AM.png" alt="The Lost Boys" data-size="blog-small-logo-51x51"></a><a href="http://blogs.indiewire.com/thelostboy/good-night-lost-boy-s" class="headline">Good Night, Lost Boy(s)</a><a title="The Lost Boys" href="http://blogs.indiewire.com/thelostboy/">The Lost Boys</a>
                     </li>                        
 
                     <li class="last">
-                        <a href="http://blogs.indiewire.com/leonardmaltin/an-mgm-auction-like-no-other"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/a8ecdde/4102462740/thumbnail/51x51/http://d1oi7t5trwfj5d.cloudfront.net/89/51e100ef5811e0927c12313931436e/file/leonard-logo-icon.jpg" width="51" height="51" alt="Leonard Maltin"></a><a href="http://blogs.indiewire.com/leonardmaltin/an-mgm-auction-like-no-other" class="headline">An MGM Auction Like No Other</a><a title="Leonard Maltin" href="http://blogs.indiewire.com/leonardmaltin/">Leonard Maltin</a>
+                        <a href="http://blogs.indiewire.com/leonardmaltin/now-you-see-me"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/a3e9ef1/2147483647/thumbnail/51x51/?url=http%3A%2F%2Fd1oi7t5trwfj5d.cloudfront.net%2F89%2F51e100ef5811e0927c12313931436e%2Ffile%2Fleonard-logo-icon.jpg" width="51" height="51" alt="Leonard Maltin" data-size="blog-small-logo-51x51"></a><a href="http://blogs.indiewire.com/leonardmaltin/now-you-see-me" class="headline">Now You See Me</a><a title="Leonard Maltin" href="http://blogs.indiewire.com/leonardmaltin/">Leonard Maltin</a>
                     </li>                        
 
                     </ul>
                         <ul>
                     <li>
-                        <a href="http://blogs.indiewire.com/anthony/oscar-docs-why-michael-moore-doesnt-want-your-film-to-be-eligible"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/f5f6dfc/4102462740/thumbnail/51x51/http://d1oi7t5trwfj5d.cloudfront.net/ff/650a80ef5711e0927c12313931436e/file/Anthony-Kaufman-avatar.jpeg" width="51" height="51" alt="ReelPolitik"></a><a href="http://blogs.indiewire.com/anthony/oscar-docs-why-michael-moore-doesnt-want-your-film-to-be-eligible" class="headline">Oscar Street Fight: Michael Moore's War on Indie D ...</a><a title="ReelPolitik" href="http://blogs.indiewire.com/anthony/">ReelPolitik</a>
+                        <a href="http://blogs.indiewire.com/anthony/a-breakout-year-for-black-film-not-quite"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/4890b3b/2147483647/thumbnail/51x51/?url=http%3A%2F%2Fd1oi7t5trwfj5d.cloudfront.net%2Fff%2F650a80ef5711e0927c12313931436e%2Ffile%2FAnthony-Kaufman-avatar.jpeg" alt="ReelPolitik" data-size="blog-small-logo-51x51"></a><a href="http://blogs.indiewire.com/anthony/a-breakout-year-for-black-film-not-quite" class="headline">A Breakout Year for Black Film? Not Quite.</a><a title="ReelPolitik" href="http://blogs.indiewire.com/anthony/">ReelPolitik</a>
                     </li>                        
 
                     <li>
-                        <a href="http://blogs.indiewire.com/carynjames/argoreview"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/028abf5/4102462740/thumbnail/51x51/http://d1oi7t5trwfj5d.cloudfront.net/5f/f33610ef5811e0927c12313931436e/file/Caryn-James-avatar.jpeg" width="51" height="51" alt="James on screenS"></a><a href="http://blogs.indiewire.com/carynjames/argoreview" class="headline">Review: Terror Meets Humor in Ben Affleck's 'Argo' ...</a><a title="Caryn James" href="http://blogs.indiewire.com/carynjames/">Caryn James</a>
+                        <a href="http://blogs.indiewire.com/carynjames/cliveowenvideo"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/8c7aa83/2147483647/thumbnail/51x51/?url=http%3A%2F%2Fd1oi7t5trwfj5d.cloudfront.net%2F5f%2Ff33610ef5811e0927c12313931436e%2Ffile%2FCaryn-James-avatar.jpeg" width="51" height="51" alt="James on screenS" data-size="blog-small-logo-51x51"></a><a href="http://blogs.indiewire.com/carynjames/cliveowenvideo" class="headline">Clive Owen  On 'Shadow Dancer' And An Older Film He ...</a><a title="Caryn James" href="http://blogs.indiewire.com/carynjames/">Caryn James</a>
                     </li>                        
 
                     <li>
-                        <a href="http://blogs.indiewire.com/sydneylevine/maestra-screening-at-la-femme-international-film-festival"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/7569605/4102462740/thumbnail/51x51/http://d1oi7t5trwfj5d.cloudfront.net/76/739910ef5911e0927c12313931436e/file/sydneylevine.png" width="51" height="51" alt="SydneysBuzz"></a><a href="http://blogs.indiewire.com/sydneylevine/maestra-screening-at-la-femme-international-film-festival" class="headline">Latina Buzz:  Maestra Screening at La Femme International ...</a><a title="Sydney Levine" href="http://blogs.indiewire.com/sydneylevine/">Sydney Levine</a>
+                        <a href="http://blogs.indiewire.com/sydneylevine/tellurides-40th-poster-artist-dean-tavoularis"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/81043ba/2147483647/thumbnail/51x51/?url=http%3A%2F%2Fd1oi7t5trwfj5d.cloudfront.net%2F76%2F739910ef5911e0927c12313931436e%2Ffile%2Fsydneylevine.png" width="51" height="51" alt="SydneysBuzz" data-size="blog-small-logo-51x51"></a><a href="http://blogs.indiewire.com/sydneylevine/tellurides-40th-poster-artist-dean-tavoularis" class="headline">Telluride's 40th Poster Artist - Dean Tavoularis</a><a title="Sydney Levine" href="http://blogs.indiewire.com/sydneylevine/">Sydney Levine</a>
                     </li>                        
 
                     <li class="last">
-                        <a href="http://blogs.indiewire.com/peterbogdanovich/04812090-0f5e-11e2-b9e5-22000a1d0930"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/e646bcd/4102462740/thumbnail/51x51/http://d1oi7t5trwfj5d.cloudfront.net/c6/cf9bd0ef5811e0927c12313931436e/file/peterbogdanovich.jpeg" width="51" height="51" alt="Peter Bogdanovich"></a><a href="http://blogs.indiewire.com/peterbogdanovich/04812090-0f5e-11e2-b9e5-22000a1d0930" class="headline">THE HAWKS FILE - PART 2</a><a title="Peter Bogdanovich" href="http://blogs.indiewire.com/peterbogdanovich/">Peter Bogdanovich</a>
+                        <a href="http://blogs.indiewire.com/peterbogdanovich/two-by-hawks"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/b154725/2147483647/crop/51x38+0+3/resize/51x51/?url=http%3A%2F%2Fd1oi7t5trwfj5d.cloudfront.net%2Fc6%2Fcf9bd0ef5811e0927c12313931436e%2Ffile%2Fbogdanovich.jpg" width="51" height="38" alt="Peter Bogdanovich" data-size="blog-small-logo-51x51"></a><a href="http://blogs.indiewire.com/peterbogdanovich/two-by-hawks" class="headline">Two by Hawks</a><a title="Peter Bogdanovich" href="http://blogs.indiewire.com/peterbogdanovich/">Peter Bogdanovich</a>
                     </li>                        
 
                     </ul>
                         <ul>
                     <li class="last">
-                        <a href="http://blogs.indiewire.com/kohn/did-woody-allen-rip-off-the-flintstones"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/f95c7b9/4102462740/thumbnail/51x51/http://d1oi7t5trwfj5d.cloudfront.net/1d/729050ef5911e0927c12313931436e/file/Eric-Kohn-Avatar.jpeg" width="51" height="51" alt="Eric Kohn"></a><a href="http://blogs.indiewire.com/kohn/did-woody-allen-rip-off-the-flintstones" class="headline">Did Woody Allen Rip Off 'The Flintstones'?</a><a title="Eric Kohn" href="http://blogs.indiewire.com/kohn/">Eric Kohn</a>
+                        <a href="http://blogs.indiewire.com/kohn/did-woody-allen-rip-off-the-flintstones"><img src="http://www.indiewire.com/static/dims4/INDIEWIRE/dc552af/2147483647/thumbnail/51x51/?url=http%3A%2F%2Fd1oi7t5trwfj5d.cloudfront.net%2F1d%2F729050ef5911e0927c12313931436e%2Ffile%2FEric-Kohn-Avatar.jpeg" alt="Eric Kohn" data-size="blog-small-logo-51x51"></a><a href="http://blogs.indiewire.com/kohn/did-woody-allen-rip-off-the-flintstones" class="headline">Did Woody Allen Rip Off 'The Flintstones'?</a><a title="Eric Kohn" href="http://blogs.indiewire.com/kohn/">Eric Kohn</a>
                     </li>                        
 
                     </ul>
@@ -493,27 +587,27 @@ document.getElementById('eeEncEmail_5C0qIvFFHf').innerHTML = output;
 
     <li>
 
-        <a href="http://twitter.com/#!/akstanwyck/status/256161644479148033"><img src="http://a0.twimg.com/profile_images/1618033315/ThompsonAnneHEAD_-1_normal.jpg" alt="akstanwyck"></a>
-        <p>An MGM Auction Like No Other | Leonard Maltin <a href="http://t.co/scb8gFGt">http://t.co/scb8gFGt</a> via @indiewire </p>
-        <span class="posted"><a href="http://twitter.com/#!/akstanwyck/status/256161644479148033">Posted 10 minutes ago</a></span>                        
+        <a href="http://twitter.com/#!/gilhooley/status/341920954890477569"><img src="http://a0.twimg.com/profile_images/3154445345/8b0691161ab337fb472e005507162b0f_normal.jpeg" alt="gilhooley"></a>
+        <p>10 great 'must see film' recommendations this June from @indiewire <a href="http://t.co/9CYFYrQVZR">http://t.co/9CYFYrQVZR</a> </p>
+        <span class="posted"><a href="http://twitter.com/#!/gilhooley/status/341920954890477569">Posted 7 minutes ago</a></span>                        
     </li>
     <li>
 
-        <a href="http://twitter.com/#!/mattmansfield_/status/256159203507437568"><img src="http://a0.twimg.com/profile_images/1976505279/544604912_normal.jpg" alt="mattmansfield_"></a>
-        <p>Cracking interview with Abbas Kiarostami on @indiewire. Well worth a peruse. <a href="http://t.co/8k7Q7YI6">http://t.co/8k7Q7YI6</a> </p>
-        <span class="posted"><a href="http://twitter.com/#!/mattmansfield_/status/256159203507437568">Posted 20 minutes ago</a></span>                        
+        <a href="http://twitter.com/#!/GustavoMonaco/status/341920689621696514"><img src="http://a0.twimg.com/profile_images/3051341236/c848c37363c5ac6b3856c087ff39ef9b_normal.jpeg" alt="GustavoMonaco"></a>
+        <p>What Are the Best Written TV Shows of All Time? The WGA Announces Its Top 101 Picks <a href="http://t.co/J3R3cBIrcF">http://t.co/J3R3cBIrcF</a> via @indiewire </p>
+        <span class="posted"><a href="http://twitter.com/#!/GustavoMonaco/status/341920689621696514">Posted 8 minutes ago</a></span>                        
     </li>
     <li>
 
-        <a href="http://twitter.com/#!/CharlesSpano/status/256158067501170688"><img src="http://a0.twimg.com/profile_images/2652868356/c4b456776cf0988658b6e9c61571b7ad_normal.png" alt="CharlesSpano"></a>
-        <p>RT @sundancefest: With no villains or sitcom resolutions, and plenty of sexual fireworks, @Indiewire calls #NobodyWalks a #Sundance best: <a href="http://t.co/x8ibLdsk">http://t.co/x8ibLdsk</a> </p>
-        <span class="posted"><a href="http://twitter.com/#!/CharlesSpano/status/256158067501170688">Posted 25 minutes ago</a></span>                        
+        <a href="http://twitter.com/#!/FilmSnobbery/status/341920632142958592"><img src="http://a0.twimg.com/profile_images/1013638517/FB_Twitter_Avatar_1_normal.png" alt="FilmSnobbery"></a>
+        <p>RT @ChaseWhale: Watch: Brie Larson Shines in Stellar Trailer for @SXSW Sensation 'Short Term 12' <a href="http://t.co/ZinsiTcRqf">http://t.co/ZinsiTcRqf</a> via @Indiewire </p>
+        <span class="posted"><a href="http://twitter.com/#!/FilmSnobbery/status/341920632142958592">Posted 8 minutes ago</a></span>                        
     </li>
     <li>
 
-        <a href="http://twitter.com/#!/mysteriouswaves/status/256154520629952512"><img src="http://a0.twimg.com/profile_images/2623736028/j7hvkdq6zfemxj0m7kfh_normal.jpeg" alt="mysteriouswaves"></a>
-        <p>RT @FilmLinc: Blair McClendon (@goodbootsfilm) examines the role of smartphones in this year's #NYFF selections at @indieWIRE: <a href="http://t.co/VQ9CNxvR">http://t.co/VQ9CNxvR</a> </p>
-        <span class="posted"><a href="http://twitter.com/#!/mysteriouswaves/status/256154520629952512">Posted 39 minutes ago</a></span>                        
+        <a href="http://twitter.com/#!/ErickOpeka/status/341920210971918339"><img src="http://a0.twimg.com/profile_images/2549726516/e2m77rxg2odsa0rlun99_normal.jpeg" alt="ErickOpeka"></a>
+        <p>RT @ChaseWhale: Watch: Brie Larson Shines in Stellar Trailer for @SXSW Sensation 'Short Term 12' <a href="http://t.co/ZinsiTcRqf">http://t.co/ZinsiTcRqf</a> via @Indiewire </p>
+        <span class="posted"><a href="http://twitter.com/#!/ErickOpeka/status/341920210971918339">Posted 10 minutes ago</a></span>                        
     </li>
     </ul>
 
@@ -525,36 +619,38 @@ document.getElementById('eeEncEmail_5C0qIvFFHf').innerHTML = output;
 </div> <!-- col2 --> <div class="clear-both"></div></div> <!-- end pageWrapper --><div class="footer-ad">
     <div class="ad">
         <script type="text/javascript">
-        document.write('<scr' + 'ipt src="http://adserver.adtechus.com/addyn/3.0/5182/619933/0/225/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=123;misc=' + new Date().getTime() + '"></scri' + 'pt>');
-    </script><script src="http://adserver.adtechus.com/addyn/3.0/5182/619933/0/225/ADTECH;loc=100;target=_blank;key=1320615929853+Indiewire;grp=123;misc=1580455750044"></script>
+		window['adtech_adurl_' + "30e7e683-74f1-4307-afb6-db3f2cdd40ae"] = "http://adserver.adtechus.com/addyn/3.0/5182/619933/0/225/ADTECH;loc=100;target=_blank;key=0000013f-0b1d-d94d-a5bf-cb7fce0d0000+Television+Indiewire;grp=123;misc=' + new Date().getTime()";
+		document.writeln('<DIV ID="ADTECH_AdContainer_' + "30e7e683-74f1-4307-afb6-db3f2cdd40ae" +'"><IFRAME ID="ADTECH_IFRAME_'+ "30e7e683-74f1-4307-afb6-db3f2cdd40ae" +'" FRAMEBORDER="0" STYLE="display:block;width: 0px; height: 0px;" SRC="/adtech/stubfile.jsp"></IFRAME></DIV>');
+	</script><div id="ADTECH_AdContainer_30e7e683-74f1-4307-afb6-db3f2cdd40ae"><iframe id="ADTECH_IFRAME_30e7e683-74f1-4307-afb6-db3f2cdd40ae" frameborder="0" style="display:block;width: 0px; height: 0px;" src="/adtech/stubfile.jsp"></iframe></div>
+
+
 </div>
 </div> <!-- end footer ad -->
+
 <div class="footWrap">
   <div class="footer clrfix">
     <div class="network clrfix">
             <h3>the network</h3>
             <div class="content clrfix">
-
                 <ul>
-
-                        <li><a href="http://blogs.indiewire.com/kohn/">Eric Kohn</a></li>
-                        <li><a href="http://blogs.indiewire.com/carynjames/">Caryn James</a></li>
-                        <li><a href="http://blogs.indiewire.com/criticwire/">Criticwire</a></li>
-                        <li><a href="http://blogs.indiewire.com/leonardmaltin/">Leonard Maltin</a></li>
-                        <li><a href="http://blogs.indiewire.com/peterbogdanovich/">Peter Bogdanovich</a></li>
-                        </ul>
-                            <ul>
-                            <li><a href="http://blogs.indiewire.com/thelostboy/">The Lost Boys</a></li>
-                        <li><a href="http://blogs.indiewire.com/pressplay/">Press Play</a></li>
-                        <li><a href="http://blogs.indiewire.com/anthony/">ReelPolitik</a></li>
-                        <li><a href="http://blogs.indiewire.com/shadowandact/">Shadow and Act</a></li>
-                        </ul>
-                            <ul>
-                            <li><a href="http://blogs.indiewire.com/sydneylevine/">Sydney Levine</a></li>
-                        <li><a href="http://blogs.indiewire.com/theplaylist/">The Playlist</a></li>
-                        <li><a href="http://blogs.indiewire.com/thompsononhollywood/">Thompson on Hollywood</a></li>
-                        <li><a href="http://blogs.indiewire.com/womenandhollywood/">Women and Hollywood</a></li>
-                        </ul>
+                    <li><a href="http://blogs.indiewire.com/animationscoop/">Animation Scoop</a></li>
+                    <li><a href="http://blogs.indiewire.com/carynjames/">Caryn James</a></li>
+                    <li><a href="http://blogs.indiewire.com/criticwire/">Criticwire</a></li>
+	                <li><a href="http://blogs.indiewire.com/leonardmaltin/">Leonard Maltin</a></li>
+	                <li><a href="http://blogs.indiewire.com/mediamatrix/">Media Matrix</a></li>
+	             </ul>
+	             <ul>
+                    <li><a href="http://blogs.indiewire.com/peterbogdanovich/">Peter Bogdanovich</a></li>
+                    <li><a href="http://blogs.indiewire.com/theplaylist/">The Playlist</a></li>
+                    <li><a href="http://blogs.indiewire.com/pressplay/">Press Play</a></li>
+                    <li><a href="http://blogs.indiewire.com/anthony/">ReelPolitik</a></li>
+	             </ul>
+	             <ul>
+	                <li><a href="http://blogs.indiewire.com/shadowandact/">Shadow and Act</a></li>
+	                <li><a href="http://blogs.indiewire.com/sydneylevine/">Sydney Levine</a></li>
+	                <li><a href="http://blogs.indiewire.com/thompsononhollywood/">Thompson on Hollywood</a></li>
+	                <li><a href="http://blogs.indiewire.com/womenandhollywood/">Women and Hollywood</a></li>
+	             </ul>
                 </div> <!-- end content -->
         </div> <!-- end left -->
         <div class="indi-cats">
@@ -562,13 +658,13 @@ document.getElementById('eeEncEmail_5C0qIvFFHf').innerHTML = output;
                 <h3>indiewire</h3>
                 <ul>
                     <li><a href="http://www.indiewire.com/sitemap">Sitemap</a></li>
-                            <li><a href="http://www.indiewire.com/about">About</a></li>
-                            <li><a href="http://www.indiewire.com/team">Team</a></li>
-                            <li><a href="http://www.indiewire.com/advertise">Advertise</a></li>
-                            <li><a href="http://www.indiewire.com/indiewire-jobs">Indiewire Jobs </a></li>
-                            <li><a href="http://www.indiewire.com/privacy">Privacy</a></li>
-                            <li><a href="http://www.indiewire.com/legal">Terms of Service</a></li>
-                            </ul>
+                    <li><a href="http://www.indiewire.com/about">About</a></li>
+                    <li><a href="http://www.indiewire.com/team">Team</a></li>
+                    <li><a href="http://www.indiewire.com/advertise">Advertise</a></li>
+                    <li><a href="http://www.indiewire.com/indiewire-jobs">Indiewire Jobs </a></li>
+                    <li><a href="http://www.indiewire.com/privacy">Privacy</a></li>
+                    <li><a href="http://www.indiewire.com/legal">Terms of Service</a></li>
+                </ul>
             </div> <!-- end indi -->
             <div class="cats">
                 <h3>categories</h3>
@@ -583,84 +679,22 @@ document.getElementById('eeEncEmail_5C0qIvFFHf').innerHTML = output;
             </div> <!-- end cats -->
         </div> <!-- end indi cats -->
         <ul class="about clrfix">
-            <li><a href="http://www.snagfilms.com" target="Blank" title="SnagFilms">A SnagFilms Co.</a></li>
+            <li><a href="http://www.snagfilms.com" target="_blank" title="SnagFilms">A SnagFilms Co.</a></li>
             <li><a class="last" href="mailto:editors@indiewire.com">editors@indiewire.com</a></li>
             <br><li><a class="last" href="http://www.independently.com/">Designed By Independent Content</a></li>
             <br><li><a class="last" href="http://www.perfectsensedigital.com/">Developed By Perfect Sense Digital</a></li>
- 
         </ul>
     </div> <!-- end footer -->
-</div> <!-- end foot Wrapper -->
+</div><script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/jquery-ui-1.8.16.custom.min.5bd48ba2b4001b7b6b42b8472e32044a.js"></script>
+<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/jquery.eTruncate.min.2aa49af55e4b4fee51fb7ab512ada704.js"></script>
+<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/jquery.scrollTo.min.489552866960332676eed62725796b5a.js"></script>
+<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/jquery.placeholder.min.c61f42af124c56a36f959bc9b3ad9859.js"></script>
+<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/jquery.cookie.c203f1f3ca2a51bd6a2c62cd52312139.js"></script>
+<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/poll.bdd2098f79e1f5eacdeff019808ef801.js"></script>
+<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/jquery.tablesorter.min.70d9c2758b1ccbce4ce4e8b0817b08db.js"></script>
+<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/init.b288e66328f09364c6bc939a23bae1b5.js"></script>
 
-
-<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/jquery-ui-1.8.16.custom.min.61590734d1933263ac6d77d8cb0e7343.js"></script>
-<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/jquery.eTruncate.min.386f26a55e797293fb97e53b702ee48d.js"></script>
-<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/jquery.scrollTo.min.35c2deaf4cabba597a395fa6f66c91a4.js"></script>
-<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/jquery.placeholder.min.ec37a89dc783405dacca0320236bc6df.js"></script>
-<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/jquery.cookie.4376f43c114c586642d5024228521527.js"></script>
-<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/poll.58738fc25510251bbc7a0d4714d8f6f7.js"></script>
-<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/lib/jquery.tablesorter.min.0550cd0fe255da454b6dabc71aad0617.js"></script>
-<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/iw.de071fccc5680c3ed4f0c914ce87992b.js"></script>
-<script src="http://d1oi7t5trwfj5d.cloudfront.net/resource/js/init.f0bcf9e33d9e1123243de37fb453abde.js"></script>
-
-<div id="fb-root"></div>
-<script>
-    
-    $.extend(IW, {
-        FB: {
-            params: {
-                appId: '132443425037',
-                status: true,
-                cookie: true,
-                xfbml: true
-            },
-            callbacks: {
-                init: [],
-                getLoginStatus: [],
-                authResponseChange: [],
-                api: []
-            },
-            doCallback: function(response, fnName) {
-                for(var i in this.callbacks[fnName]) {
-                    CW.log('Calling callbacks[' + fnName + '][' + i + ']', response);
-                    this.callbacks[fnName][i](response);
-                }
-            }
-        }
-    });
-    
-    window.fbAsyncInit = function() {
-        CW.log('window.fbAsyncInit()');
-        
-        if(typeof(FB) == 'object') {
-            FB.init(IW.FB.params);
-
-            if(typeof(CW) == 'object') {
-                IW.FB.callbacks.getLoginStatus.push(CW.user.init);
-                IW.FB.callbacks.authResponseChange.push(CW.user.handleLoginResponse);
-                IW.FB.callbacks.authResponseChange.push(function() {
-                    refreshNav(refreshNav);
-                });
-                IW.FB.callbacks.authResponseChange.push(CW.newsletter.check);
-            }
-            
-            if(typeof(getSocialsCount) == 'function') {
-                IW.FB.callbacks.getLoginStatus.push(getSocialsCount);
-            }
-            
-            FB.getLoginStatus(function(response) {
-                IW.FB.doCallback(response, 'getLoginStatus');
-                FB.Event.subscribe('auth.authResponseChange', function(response) {
-                    IW.FB.doCallback(response, 'authResponseChange');
-                });
-            });
-            
-        } else {
-            CW.log('FB is not defined');
-        }
-    };
-    
-    
+<script type="text/javascript">
     function showAccountInfo() {
         FB.api(
             {
@@ -682,20 +716,23 @@ document.getElementById('eeEncEmail_5C0qIvFFHf').innerHTML = output;
             //user is not logged in, display guest div
 
             document.cookie = 'fbsr_132443425037 = ; expires=Thu, 01-Jan-70 00:00:01 GMT; path=/; domain=.indiewire.com';
-            refreshNav(refreshNav);
+            refreshNav();
         }
     }
     
     function refreshNav(cb) {
-        if(typeof(cb) != 'function') {
-            cb = function() { return false; }
-        }
-        $('#login').load(
-            ((document.location.pathname.indexOf('/criticwire/') == 0) ? '/criticwire/' : '')
-                + '/ajax/loginSmall.jsp?_=' + (new Date()).getTime(),
+        $('#login').load('/ajax/loginSmall.jsp?_=' + (new Date()).getTime(),
             $.proxy(function() {
-                FB.XFBML.parse();
-                //setTimeout($.proxy(function() { this.call(null); iContactSignup(); }, this), 500);
+                FB.XFBML.parse($('#login').get()[0], function(){
+                	var iframe = $('iframe','#login').get()[0];
+                	if(iframe){
+                		iframe.src = iframe.src;
+                	}
+                	setTimeout(function(){
+                		$('#login').show();
+                	}, 500);
+                });
+                
             }, cb)
         );
     }
@@ -741,28 +778,26 @@ document.getElementById('eeEncEmail_5C0qIvFFHf').innerHTML = output;
         FB.logout(function(response) {
             document.cookie = 'fbsr_132443425037 = ; expires=Thu, 01-Jan-70 00:00:01 GMT; path=/; domain=.indiewire.com';
             setTimeout(function() {
-                $('#login').load(((document.location.pathname.indexOf('/criticwire/') == 0) ? '/criticwire/' : '') + '/ajax/loginSmall.jsp?_=' + (new Date()).getTime(), function() {FB.XFBML.parse();});
+            	$('#login').hide();
+                $('#login').load('/ajax/loginSmall.jsp?_=' + (new Date()).getTime(), 
+                		function() {
+			                	FB.XFBML.parse($('#login').get()[0], function(){
+			                    	setTimeout(function(){
+			                    		$('#login').show();
+			                    	}, 100);
+			                    });
+                			});
                 if(typeof(CW) == 'object') {
                     CW.user.loggedIn = false;
                     CW.user.critic = false;
                     CW.films.grading.init();
                 }
-            }, 50);
+            }, 1000);
         });
     }
-    
-    IW.FB.callbacks.getLoginStatus.push(fbLoginStatus);
-    
-    (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) {
-            return;
-        }
-        js = d.createElement(s);
-        js.id = id;
-        js.src = "//connect.facebook.net/en_US/all.js";
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
+    if(IW.FB){
+    	IW.FB.callbacks.getLoginStatus.push(fbLoginStatus);
+    }
 </script>
 
 <script type="text/javascript">
@@ -808,7 +843,32 @@ document.getElementById('eeEncEmail_5C0qIvFFHf').innerHTML = output;
     })();
 </script>
 
-<!-- HC -->
+<script type="text/javascript" id="sailthru-setup">
+	(function() {
+	    function loadHorizon() {
+	        var s = document.createElement('script');
+	        s.type = 'text/javascript';
+	        s.async = true;
+	        s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+	        var x = document.getElementsByTagName('script')[0];
+	        x.parentNode.insertBefore(s, x);
+	    }
+	    loadHorizon();
+	    var oldOnLoad = window.onload;
+	    window.onload = function() {
+	        if (typeof oldOnLoad === 'function') {
+	            oldOnLoad();
+	        }
+	        Sailthru.setup({
+	            domain: 'horizon.indiewire.com',
+	            concierge: { from: 'top', threshold: 800, filter: {tags: 'sailthru-indiewire'} }
+	        });
+	    };
+	})();
+</script>
+<div id="getsat-widget-5838"></div>
+<script type="text/javascript" src="https://loader.engage.gsfn.us/loader.js"></script>
+<script type="text/javascript">if (typeof GSFN !== "undefined"){ GSFN.loadWidget(5838,{"containerId":"getsat-widget-5838"});}</script><!-- HC -->
 
 
 <script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
