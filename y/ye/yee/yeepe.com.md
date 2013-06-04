@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeepe.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205133303id_/http%3A//www.yeepe.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeepe.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604024838id_/http%3A//www.yeepe.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Yeepe.com
 
