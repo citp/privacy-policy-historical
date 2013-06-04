@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsn.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130093005id_/http%3A//www.gsn.com/cgi/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsn.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604030901id_/http%3A//www.gsn.com/cgi/corporate/privacy.html) for the most accurate reproduction.*
 
 # GSN Privacy Policy - GSN.com - watch.play.win.
 
