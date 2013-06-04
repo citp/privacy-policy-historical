@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bclc.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224162723id_/https%3A//corporate.bclc.com/customer-support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bclc.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604045845id_/https%3A//corporate.bclc.com/customer-support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Customer Support | BCLC
 
 British Columbia Lottery Corporation ("BCLC") takes your right to privacy seriously. You have a right to know what we do with your personal information so that you can make informed choices while on bclc.com.
 
-We aim to be a privacy leader within the gambling industry and so we have created a [Privacy Charter](https://web.archive.org/web/20121224162723id_/https%3A//corporate.bclc.com/who-we-are/player-privacy.html) to explain, in straightforward terms, what we do and what we don't do with your personal information.
+We aim to be a privacy leader within the gambling industry and so we have created a [Privacy Charter](https://web.archive.org/web/20130604045845id_/https%3A//corporate.bclc.com/who-we-are/player-privacy.html) to explain, in straightforward terms, what we do and what we don't do with your personal information.
 
 BCLC is subject to B.C.'s _Freedom of Information and Protection of Privacy Act_ ("FIPPA"). FIPPA directs how BCLC can use your personal information. BCLC's commitment to privacy is based upon three pillars — fairness, accountability and accessibility. These three pillars are designed to help BCLC meet its obligations under FIPPA. Read more in the Privacy Charter.
 
