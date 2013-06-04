@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbansurvivalsite.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106123849id_/http%3A//urbansurvivalsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbansurvivalsite.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604052048id_/http%3A//urbansurvivalsite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Urban Survival Site
 
