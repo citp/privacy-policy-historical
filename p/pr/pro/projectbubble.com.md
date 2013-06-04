@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectbubble.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003012740id_/http%3A//projectbubble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectbubble.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604025206id_/http%3A//projectbubble.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,7 +8,7 @@ This privacy policy sets out how Project Bubble LLC (“Project Bubble”, “We
 
 Project Bubble is committed to ensuring that your privacy is protected. This Privacy Policy covers our collection, use and disclosure of information we collect through our website, projectbubble.com and our service “Project Bubble”. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Project Bubble LLC. Should we ask you to provide certain information by which you can be identified when using this website or service, you can be assured that it will only be used in accordance with this privacy statement.
 
-[](https://privacy.truste.com/privacy-seal/Project-Bubble/validation?rid=f5fa4b07-25f7-49e9-a07d-89790477a234 "TRUSTe online privacy certification")
+[](http://privacy.truste.com/privacy-seal/Project-Bubble/validation?rid=f5fa4b07-25f7-49e9-a07d-89790477a234 "TRUSTe online privacy certification")
 
 Project Bubble LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, projectbubble.com, and through the Project Bubble service. It does not cover information that may be collected through our any mobile applications or through Offline venues. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@projectbubble.com](mailto:support@projectbubble.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
@@ -102,6 +102,8 @@ We may update this privacy policy to reflect changes to our information practice
 
 ## **Contacting Us**
 
-Email. [support@projectbubble.com](mailto:support@projectbubble.com)  
-Tel. (US) 484-319-4055, (Int) +44 (0) 208 133 1805  
-Address. Project Bubble LLC, 113 Barksdale Professional Center, Newark, DE, 19711.
+**Email.** [support@projectbubble.com](mailto:support@projectbubble.com)
+
+**Tel.** +1 (855) 377-0335
+
+**Address.** Project Bubble LLC, 113 Barksdale Professional Center, Newark, DE, 19711.
