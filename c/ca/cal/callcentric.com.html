@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the callcentric.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230145526id_/http%3A//www.callcentric.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the callcentric.com privacy policy that was archived on 2013-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604224936id_/http%3A//www.callcentric.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy</title>
 <base href="http://www.callcentric.com">
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 <meta name="robots" content="INDEX,FOLLOW">
-<meta http-equiv="expires" content="Sun, 30 Dec 2012 14:54:26 +0000">
+<meta http-equiv="expires" content="Tue, 04 Jun 2013 22:48:36 +0000">
 <meta name="description" content="Callcentric respects the privacy of every individual who visits our websites. This privacy statement provides notice of our information collection practices and of the ways in which your information may be used.">
 <meta name="Keywords" content="callcentric privacy policy, internet phone service">
-<link rel="stylesheet" type="text/css" href="css/index.css">
+<link rel="stylesheet" type="text/css" href="css/index.201.css">
 <link type="text/css" href="http://www.callcentric.com/css/custom-theme/jquery-ui-1.8.18.custom.css" rel="Stylesheet">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.callcentric.com/js/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="http://www.callcentric.com/js/jquery-ui-1.8.18.custom.min.js"></script>
@@ -382,7 +382,39 @@ DIV.top_box_login {
 }
 </style>
 <script type="text/javascript">
+
+// This function keeps the footer at the bottom of the page
+// without overlaping it's top elements.
+var footerHeight = 0,
+footerTop = 0,
+$footer = $(".footer");
+
+function positionFooter() {
+	$footer = $(".footer");
+	
+	footerHeight = $footer.height();
+	footerTop = ($(window).scrollTop()+$(window).height()-footerHeight)+"px";
+	documentHeight = $(document.body).height();
+	
+	// If footer absolute account for it's height
+	if($footer.css("position") == "absolute"){
+		documentHeight += footerHeight;
+	}
+	if ( documentHeight < $(window).height()) {
+	   $footer.css({
+			position: "absolute",
+			top: footerTop
+	   })
+	} else {
+	   $footer.css({
+			position: "static"
+	   })
+	}
+}
+
 $(function() {
+	
+	
 	$("#loginWindow").dialog({
 		autoOpen: false, 
 		modal: true,
@@ -438,38 +470,14 @@ $(function() {
 	});
 	
 	$(document).ready(function() { 
-		var footerHeight = 0,
-		footerTop = 0,
-		$footer = $(".footer");
+		
 		
 		// Run Once the page is loaded
 		positionFooter();
 		
-		// This function keeps the footer at the bottom of the page
-		// without overlaping it's top elements.
-		function positionFooter() {
-			footerHeight = $footer.height();
-			footerTop = ($(window).scrollTop()+$(window).height()-footerHeight)+"px";
-			documentHeight = $(document.body).height();
-			
-			// If footer absolute account for it's height
-			if($footer.css("position") == "absolute"){
-				documentHeight += footerHeight;
-			}
-			if ( documentHeight < $(window).height()) {
-			   $footer.css({
-					position: "absolute",
-					top: footerTop
-			   })
-			} else {
-			   $footer.css({
-					position: "static"
-			   })
-			}
-		}
-		$(window)
-			.scroll(positionFooter)
-			.resize(positionFooter)
+		
+		$(window).scroll(positionFooter);
+		$(window).resize(positionFooter);
 		
 		/* Search box */
 		var si = $("#search-input");
@@ -650,7 +658,7 @@ $(function() {
 <div class="footer">
 	<div class="footerBox">
 		<div style="float:left; padding-top:17px;">
-			© 2012 Callcentric, Inc.
+			© 2013 Callcentric, Inc.
 		</div>
 		<div style="float:right; padding-top:17px;">
 			<a href="http://www.callcentric.com/about/callcentric/">About Us</a> | 
