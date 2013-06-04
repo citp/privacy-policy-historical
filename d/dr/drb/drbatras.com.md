@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drbatras.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230093344id_/http%3A//www.drbatras.com/en/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drbatras.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605012605id_/http%3A//www.drbatras.com/en/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Dr. Batra's
 
@@ -66,6 +66,10 @@ Dr. Batra's reserves the right to disclose information contained in our access l
 Dr. Batra's shall be entitled to share your information for business reasons such as reorganization/ divestment of its business through sale, merger or acquisition. Dr. Batra's will, in such a scenario, obtain written assurances that the information will be adequately and appropriately protected in these circumstances. 
 
 Consultancy and counselling are intended solely for your use.  All information is tailored to meet your individual situation/circumstances (on the basis of the information furnished by you) and is therefore not appropriate to be shared with others. You shall not without prior written permission from Dr. Batra's share this information with any person whosoever, and/ or alter or edit the same.
+
+DISCLAIMER
+
+Dr.Batra’s disclaim any liability arising out of sending transaction verification code to the prospective user on the telephone number provided by him /her or otherwise, despite opting for DND services. 
 
 ### How the User Can Access or Correct Information:
 
