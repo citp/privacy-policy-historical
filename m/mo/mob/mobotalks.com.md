@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobotalks.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109014141id_/http%3A//mobotalks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobotalks.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604042528id_/http%3A//mobotalks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | MoboTalks
 
 **Privacy Policy for www.mobotalks.com**
 
@@ -14,7 +14,7 @@ www.mobotalks.com does not use cookies. Some of our advertising partners may use
 
 **Copyright Policy**
 
-We don’t have any. You are free to use and copy any content from our site BUT, you must provide credit links on the pages you’ve copied or used our content.Note : Since we accept user submissions, If any of our Articles or content infringe your copyright, then contact us immediately at the email provided.
+We don’t have any. You are free to use and copy any content from our site BUT, you must provide credit links on the pages you’ve copied or used our content.Note : Since we accept user submissions, If any of our Articles or content infringe your copyright, then [contact us](http://mobotalks.com/contact-us/ "contact us") immediately at the email provided.
 
 **Third Party Advertising:**
 
@@ -31,3 +31,7 @@ Since Google sooner going to display ads based on interests of user,that is if y
 This web site contains many links to other sites. Please be aware that we are not responsible for the privacy practices of any other sites. We encourage our users to read the privacy statements of each and every Web site that collects personally identifiable information.
 
 >> **Contact US : mobotalks@gmail.com**
+
+### Subscribe for latest Updates
+
+[](http://mobotalks.com/category/android/)
