@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 50onred.com privacy policy that was archived on 2012-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226033411id_/http%3A//www.50onred.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 50onred.com privacy policy that was archived on 2013-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604100924id_/http%3A//www.50onred.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -20,17 +20,18 @@
 <body>
 <div id="background"><!-- --></div>
 	<div id="header" class="static">
+	<div id="supportToolTip">&nbsp;&nbsp;<a href="http://rtxsupport.50onred.com" target="blank">RTX Support</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://platformsupport.50onred.com" target="blank">Traffic Platform Support</a>&nbsp;&nbsp;</div>
     	<div id="login-contact-wrap">
             <ul>
                 <li class="twitter"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=50onRed&amp;show_count=false&amp;button=grey&amp;show_screen_name=false" style="width:150px; height:20px;"></iframe></li>
             	<!--<li class="partner-login"><span class="label">PUBLISHERS</span></li>
             	<li class="partner-login"><a href="http://login.imtrk.com/" target="_blank">LOGIN</a></li>
                 <li><a href="/pub-signup/">SIGN-UP</a></li>-->
-            	<li><span class="label intext">INTEXT ADVERTISERS</span></li>
-            	<li class="intext-login"><a href="http://intext.50onred.com/dashboard" target="_blank">LOGIN</a></li>
-            	<li><a href="http://intext.50onred.com/dashboard/account.php?action=signup" target="_blank">SIGN-UP</a>|</li>
-                <li><a href="http://support.50onred.com">SUPPORT</a>|</li>
-             	<li><a href="/careers/" class="highlighted last">WE'RE HIRING!</a></li>
+            	<li><span class="label intext">TRAFFIC PLATFORM</span></li>
+            	<li class="intext-login"><a href="http://platform.50onred.com/" target="_blank">LOGIN</a></li>
+            	<li><a href="http://platform.50onred.com/signup" target="_blank">SIGN-UP</a>|</li>
+                <li><a href="#" class="support">SUPPORT</a>|</li>
+             	<li><a href="http://50onRed.theresumator.com/" class="highlighted last">WE'RE HIRING!</a></li>
             </ul>
         </div>
         <div id="main-nav">
@@ -196,16 +197,36 @@
                 <li><a href="/terms-of-service/">TERMS OF SERVICE</a></li>
                 <li class="right">
                 	<ul>
-                        <li class="copyright"><a href="/" target="_blank">2012 50onRED</a></li>
+                        <li class="copyright"><a href="/" target="_blank">2013 50onRed</a></li>
                 	</ul>
                 </li>
             </ul>
         </div>
 	</div>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript" src="/js/function.js"></script>
 <script type="text/javascript" src="/js/pub-signup.js"></script>
 <script type="text/javascript" src="/js/numeric.js"></script>
 <script type="text/javascript" src="/js/jquery.validate.js"></script>
+<script type="text/javascript" src="/js/jquery.powertip.js"></script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-39033679-1']);
+  _gaq.push(['_setDomainName', '50onred.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  
+$(function() {
+	$('.support').powerTip({ placement: 's', mouseOnToPopup: true});
+	$('.support').data('powertiptarget', 'supportToolTip');
+});
+</script>
 
  </body></html>
