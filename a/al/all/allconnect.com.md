@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the allconnect.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218060934id_/http%3A//www.allconnect.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allconnect.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604185038id_/http%3A//www.allconnect.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AllConnect.com
 
 [ ](http://privacy.truste.com/privacy-seal/AllConnect/validation?rid=017f6611-49b1-4842-938f-9aeba76606d0 "TRUSTe online privacy certification")
 
-Allconnect seeks to safeguard your privacy whether you are just browsing our website at [www.allconnect.com](http://www.allconnect.com/) or Allconnect.com (the "website") or selecting products and services through our website (the "Services"). We are committed to protecting your information and this privacy policy outlines the limited manner in which we will use your information to provide you Services. website or using our Services, you consent to let us gather and use your information as set forth in our policy then in effect at the time of our use of your information.
+Allconnect seeks to safeguard your privacy whether you are just browsing our website at <http://www.allconnect.com/corporate/privacy.html> or Allconnect.com (the "website") or selecting products and services through our website (the "Services"). We are committed to protecting your information and this privacy policy outlines the limited manner in which we will use your information to provide you Services. website or using our Services, you consent to let us gather and use your information as set forth in our policy then in effect at the time of our use of your information.
 
-AllConnect has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
+AllConnect has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
 
 If you have questions or concerns regarding this statement, you should contact us at [customercare@allconnect.com](mailto:customercare@allconnect.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
@@ -40,6 +40,8 @@ From time to time, we may send you survey forms or include survey forms on our s
 **What Information May Be Collected By Third Parties?**
 
 When accessing our website or Services, you may have the option to obtain a coupon or purchase products and services from a third party through our website. For example, when you sign up to initiate service to your home by a utility or other service provider under Your Account, Allconnect passes the Personally Identifiable Information needed for that service on to the third party utility or service provider. Please pay close attention when you obtain a coupon or are purchasing products and services from a third party because different rules may apply to those parties' use or disclosure of such information regardless of their affiliation or relationship with us. This privacy policy only addresses the use and disclosure of User Information collected by us and not third parties from whom you may obtain a coupon or purchase products and services.
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 Finally, our website may provide links to third party websites. If you enter a third party website, the owners of that website may use and disclose your information in accordance with their own privacy policy, and you may begin receiving emails from such third party. We have no responsibility or liability for the independent actions or policies of these independent sites, and are not responsible for the content, terms or privacy practices of such sites. In order to protect your Personally Identifiable Information, you may wish to first review the privacy policies of any third party from whom you obtain coupons, products or services on our website, or before providing any information on a third party website.
 
@@ -93,6 +95,8 @@ The website is intended for use by adults, and we ask that children under the ag
 
 **How Will You Know of Changes to this Privacy Policy?**
 
-If we decide to change our privacy policy, we will post those changes to this privacy policy, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+If we decide to change our privacy policy, we will post those changes to this privacy policy, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective.
+
+Effective Date: 05/29/2013
 
 Copyright © 2011 Allconnect, Inc.
