@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amenclinics.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203052127id_/http%3A//amenclinics.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amenclinics.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604233728id_/http%3A//amenclinics.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D71) for the most accurate reproduction.*
 
-# The Amen Clinics
+# Amen Clinics | Brain Imaging, Therapy, and Treatments
 
 Amen Clinics, Inc. values the privacy of all of our readers. We take very seriously the need to respect and protect your privacy and the security of any information you may share with us. We’ve built a site that allows you to control how much information you give us and how that information is used. This privacy policy (“Policy”) describes the data collection, use, and disclosure practices of Amen Clinics, Inc. in connection with the Web Site, www.AmenClinics.com (the “Web Site” or “Site”).
 
