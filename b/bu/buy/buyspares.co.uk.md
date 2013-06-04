@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023101659id_/http%3A//www.buyspares.co.uk/payment-security/help.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604052428id_/http%3A//www.buyspares.co.uk/payment-security/help.pl) for the most accurate reproduction.*
 
 # Terms & Conditions
 
 ## Payment & Security
 
-We want your experience of BuySpares to be convienient and secure. We offer a variety of payment options and use industry standard security measures to keep your data and details safe. More details can be found below.
+We want your experience of BuySpares to be convenient and secure. We offer a variety of payment options and use industry standard security measures to keep your data and details safe. More details can be found below.
 
   * View Site Use policy
 
@@ -14,7 +14,7 @@ By visiting this website you agree not to intentionally misuse it. This website 
 
 ##### Use of Website Content
 
-You may read and print only the material contained on this website solely for personal and non-commercial use. You are not permitted to publish, store, transmit, show or play in public, change or adapt the content of this website in any way for any purpose whatsoever. Any content found to be being used for commercial use such as images or video will be subject to a minimum charge of £500 per item.
+You may read and print only the material contained on this website solely for personal and non-commercial use. You are not permitted to publish, store, transmit, show or play in public, change or adapt the content of this website in any way for any purpose whatsoever. Any content found to be being used for commercial use such as images or video will be subject to a minimum charge of £500 per item per month.
 
 You agree not to adapt, alter or create any derivative work from any material on this site, or to restrict or inhibit the use or enjoyment of this site by anyone else. It is not permitted to create any link to or from this website without prior written consent.
 
@@ -38,7 +38,7 @@ It is illegal to sell 'age restricted' products to people under the required age
 
   * View Privacy Policy
 
-We takes your privacy rights as a customer seriously. In this Privacy Policy, references to "we" and "us" are to www.buyspares.co.uk and to Connect Distribution Services Limited, company number 3004798, registered office Connect House, Talbot Way, Small Heath, Birmingham, West Midlands B10 0HJ. This policy outlines the data we collect from our visitors and how we use it.
+We take your privacy rights as a customer seriously. In this Privacy Policy, references to "we" and "us" are to www.buyspares.co.uk and to Connect Distribution Services Limited, company number 3004798, registered office Connect House, Talbot Way, Small Heath, Birmingham, West Midlands B10 0HJ. This policy outlines the data we collect from our visitors and how we use it.
 
 ##### What information we collect and why?
 
@@ -120,7 +120,7 @@ The prices, offers and products on this website are subject to availability and 
 
 ##### Payment Methods Available
 
-We accept Visa and MasterCard credit cards and Visa Delta, Visa Electron, Maestro and Solo debit cards. We also accept payment through PayPal and Google Checkout - please note that payments through Google Checkout will be shown as "Google *Buyspares*".
+We accept Visa and MasterCard credit cards and Visa Delta, Visa Electron, Maestro and Solo debit cards. We also accept payment through PayPal 
 
 ##### Website Transactions
 
