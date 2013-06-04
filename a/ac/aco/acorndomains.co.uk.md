@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acorndomains.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230233226id_/http%3A//www.acorndomains.co.uk/cmps_index.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acorndomains.co.uk privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604040236id_/http%3A//www.acorndomains.co.uk/cmps_index.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # AcornDomains.co.uk - Privacy Policy
 
@@ -22,6 +22,17 @@ We use both "session" cookies and "persistent" cookies on our websites. We will 
 Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.  
 We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. View Google's privacy policy.  
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
+
+DoubleClick DART Cookie   
+.:: Google, as a third party vendor, uses cookies to serve ads on www.acorndomains.co.uk.  
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.acorndomains.co.uk and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
+Google Adsense  
+Commission Junction  
+Clickbank  
+Amazon
 
 _(3) Using your personal data_  
 Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.  
