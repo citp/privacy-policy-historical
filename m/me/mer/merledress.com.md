@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merledress.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215052636id_/http%3A//www.merledress.com/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merledress.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604041052id_/http%3A//www.merledress.com/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -60,13 +60,13 @@ Cookies are small pieces of information that your Internet browser stores as tex
    * track views of a web page
 
 Any electronic image on the Site, such as an ad banner, can function as a web beacon. We may use content or ads from third-party advertising companies that may use cookies and web beacons to measure web page visits or amount of products purchased.   
-**Any information these third parties collect via cookies and web beacons is not linked to any personal information we collect.**
+**Any information these third parties collect via cookies and web beacons is not linked to any personal information we collect.
 
- **How does MerleDress.com use my personal information?**
+How does MerleDress.com use my personal information?
 
- **Internal Use:**
+Internal Use:
 
- We use your personal information to process your order and provide you with customer service. We may use your personal information internally to collect general information about visitors to this Site, improve Site content and layout, improve our outreach, and market our services and products.
+** We use your personal information to process your order and provide you with customer service. We may use your personal information internally to collect general information about visitors to this Site, improve Site content and layout, improve our outreach, and market our services and products.
 
 **Communication with You:**  We will use your personal information to communicate with you about our Site and your orders. All customers must provide an email address to allow communication with MerleDress.com regarding orders placed. We may send you a confirmation email after you register with us as well as service-related announcements as necessary (for example, temporary suspension of service for maintenance.) You may also submit your email address to request notification when we receive a new brand, product style or product, or to sign up for our email newsletter and special offers. You can unsubscribe or opt out of future emails at any time (see the Opt Out/Corrections section below for more details).
 
