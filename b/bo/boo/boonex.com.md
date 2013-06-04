@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boonex.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213221038id_/http%3A//www.boonex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boonex.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604180337id_/http%3A//www.boonex.com/privacy) for the most accurate reproduction.*
 
 # BoonEx Community - Privacy Policy
 
@@ -28,7 +28,7 @@ Your public profile information is available on BoonEx websites. Your personal E
 
 We will contact you and will request your consent when your personal information is to be shared with third parties or used for a purpose incompatible with the purpose for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
 
-###  _Recap: **We use your information to contact your and to display your public profile.**_
+###  _Recap: **We use your information to contact you and to display your public profile.**_
 
 ##  Securing Information
 
