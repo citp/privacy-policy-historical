@@ -1,22 +1,17 @@
-> *The following text is extracted and transformed from the 123teachme.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221005758id_/http%3A//www.123teachme.com/learn_spanish/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123teachme.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604123315id_/http%3A//123teachme.com/learn_spanish/privacy_policy) for the most accurate reproduction.*
 
 # 123TeachMe - Privacy Policy
 
-Last modified: March 17, 2010
+Last modified: March 4, 2013
 
-At 123TeachMe we recognize that privacy is important. This Privacy Policy applies to all of the products, services and websites provided by 123TeachMe or its subsidiaries or affiliated companies. 
-
-123TeachMe adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. Please visit the site below for more information.  
-[**U.S. Department of Commerce’s Safe Harbor Program**](http://www.export.gov/safeharbor/)
-
-If you have any questions about this Privacy Policy, please feel free to contact us through our website. We welcome your comments!
+**At 123TeachMe we recognize that privacy is VERY IMPORTANT. If you have any questions about this Privacy Policy, please feel free to contact us through our website.**
 
 **Information we collect and how we use it**
 
 We offer a number of services that do NOT require you to register for an account or provide any personal information to us. In order to provide our full range of services, we may collect the following types of information:  
 Cookies – When you visit 123TeachMe, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, improving search results and ad selection, and tracking user trends. 123TeachMe also uses cookies to help advertisers serve and manage ads.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/)
 
 **Log information**  – When you access 123TeachMe services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
 
@@ -73,6 +68,8 @@ We restrict access to personal information to 123TeachMe employees, contractors 
 **Changes to this Privacy Policy**
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date.
+
+[](http://www.nulengua.com/)
 
   
 
