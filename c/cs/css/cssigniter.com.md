@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cssigniter.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228172840id_/http%3A//www.cssigniter.com/ignite/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssigniter.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604061158id_/http%3A//www.cssigniter.com/ignite/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - cssigniter.com
 
@@ -6,7 +6,7 @@ Our Privacy Policy was last updated and posted on November 29, 2012. It governs 
 
 ### Your Privacy
 
- **CSSIgniter LLC** follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.
+**CSSIgniter LLC** follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.
 
 ### Definitions
 
@@ -22,9 +22,9 @@ As a Visitor, you can browse our website to find out more about our Website. You
 
 However, if you register as a Member to use our Website, you must provide Personally Identifiable Information to us in order for us to provide you with certain features our Website. As a Member, we collect your Personally Identifiable Information in the following ways:
 
-  *  **At Member Registration**  
-When you register for membership, we collect your name,  and email address.
-  *  **Online Forms**  
+  * **At Member Registration**  
+When you register for membership, we collect your name, and email address.
+  * **Online Forms**  
 There may be online forms used in our Website. The information you enter into these online forms may contain Personally Identifiable Information.
 
 
@@ -33,11 +33,8 @@ There may be online forms used in our Website. The information you enter into th
 
 When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered Non Personal Information. We also collect the following:
 
-  *  **Cookies**  
+  * **Cookies**  
 Our Website uses “Cookies” to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.
-  *  **Third Party Tracking Tools**  
-We also use third party tracking tools to improve the performance and features of our Website. These third party tracking tools are designed to collect only Non-Personal Information about your use of our Website. However, you understand that such tools are created and managed by parties outside our control. As such, we are not responsible for what information is actually captured by such third parties or how such third parties use and protect that information.  
-
   * **Automatic Information**  
 We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you’re headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.
 
@@ -47,20 +44,20 @@ We automatically receive information from your web browser or mobile device. Thi
 
 We use the information we receive from you as follows:
 
-  *  **Service**  
+  * **Service**  
 As a Member, we will use some of your Personally Identifiable Information to provide you the Service. Also, by using our Service, you are also agreeing to expose some of your Personally Identifiable Information to other Members with whom you interact using the Service.
-  *  **Communications and Email Alerts**  
+  * **Communications and Email Alerts**  
 When we communicate with you about our Website or for billing purposes, we will use the address and email address you provided when registering as a Member. We may also send you service alerts regarding your use of our Website. Finally, we may also send you emails with promotional information about us, unless you have opted out of receiving such information. You can change contact preferences at any time through your account. While you can opt-out of promotional messages, you cannot opt-out of receiving service alerts.
-  *  **Customizing Our Website**  
+  * **Customizing Our Website**  
 We may use the Personally Identifiable information you provide to us along with any computer information we receive to customize our Website.
-  *  **Sharing Information with Affiliates and Other Third Parties**  
+  * **Sharing Information with Affiliates and Other Third Parties**  
 We do not sell, rent, or otherwise provide your Personally Identifiable Information to third parties for marketing purposes. We may provide your Personally Identifiable Information to affiliates that provide services to us with regards to our Website (i.e. payment processors, Website hosting companies, etc.); such affiliates will only receive information necessary to provide the respective services and will be bound by confidentiality agreements limiting the use of such information.
-  *  **Data Aggregation**  
+  * **Data Aggregation**  
 We retain the right to collect and use any Non Personal Information collected from your use of our Website and aggregate such data for internal analytics that improve our Website and Service as well as for use or resale to others. At no time is your Personally Identifiable Information included in such data aggregations.
-  *  **Legally Required Releases of Information**  
-We may be legally required to disclose your Personally Identifiable Information, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of Your Business or Website Name, our Users, employees, and affiliates.
-  *  **Disclosures to Successors**  
-If Your Business or Website Name is acquired or merges, in whole or in part, with another business that would become responsible for providing the Website to you, we retain the right to transfer your Personally Identifiable Information to the new business. The new business would retain the right to use your Personally Identifiable Information according to the terms of this Privacy Policy as well as to any changes to this Privacy Policy as instituted by the new business.
+  * **Legally Required Releases of Information**  
+We may be legally required to disclose your Personally Identifiable Information, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of CSSIgniter LLC, our Users, employees, and affiliates.
+  * **Disclosures to Successors**  
+If CSSIgniter LLC is acquired or merges, in whole or in part, with another business that would become responsible for providing the Website to you, we retain the right to transfer your Personally Identifiable Information to the new business. The new business would retain the right to use your Personally Identifiable Information according to the terms of this Privacy Policy as well as to any changes to this Privacy Policy as instituted by the new business.
 
 
 
@@ -86,4 +83,4 @@ We reserve the right to modify this Privacy Policy at any time. You should revie
 
 ### Questions About Our Privacy Practices or This Privacy Policy
 
-If you have any questions about our Privacy Practices or this Policy, please contact us by using our Contact Us request form.
+If you have any questions about our Privacy Practices or this Policy, please contact us by using our [Contact Us request form](http://www.cssigniter.com/ignite/contact-2/).
