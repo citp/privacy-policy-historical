@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quoteroller.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118052355id_/http%3A//www.quoteroller.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quoteroller.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604101944id_/http%3A//www.quoteroller.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Quote Roller
 
@@ -25,6 +25,8 @@ Our software infrastructure is updated regularly with the latest security patche
 ## Cookies
 
 "Cookies" are small files placed on your hard drive that assist us in providing our services. We use cookies to allow you to enter your password less frequently during a session, and we use data collection devices (such as Google Analytics), including cookies, on certain pages of the Site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety, to offer certain features that are only available through the use of a cookie and to allow us to provide information that is targeted to your interests. We link the information we store in our cookies to personally identifiable information you submit when you create a QuoteRoller account. We may use third-party service provides to assist us in monitoring your use of the Site. Information collected by these cookies is also governed by this privacy policy.
+
+As you browse www.quoteroller.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with Quote Roller’s website. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit this page (http://www.adroll.com/about/privacy) to opt out of AdRoll and their partners' targeted advertising. 
 
 ## Legal Requests; Emergencies.
 
