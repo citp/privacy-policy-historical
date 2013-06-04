@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repairclinic.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021221609id_/http%3A//www.repairclinic.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repairclinic.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604073913id_/http%3A//www.repairclinic.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - RepairClinic.com
 
