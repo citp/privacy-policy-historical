@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the securereservation.net privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114060314id_/http%3A//www.securereservation.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securereservation.net privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604041359id_/http%3A//www.securereservation.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - SecureReservation.net DHD Hospitality
 
-We highly value your trust in choosing DHD Hospitality Inc (securereservation.net) for your online hotel reservation. Therefore, we will duly and diligently safeguard and protect the privacy and confidentiality of your personal details (including your credit card details).
+We highly value your trust in choosing SecureReservation.net for your online hotel reservation. Therefore, we will duly and diligently safeguard and protect the privacy and confidentiality of your personal details (including your credit card details).
 
 This privacy policy applies to all of our services (whether accessed or made available online or through any other platform or device (hereafter collectively referred to as the "website")).
 
@@ -30,12 +30,12 @@ When visiting and using our website, we do not share any personal information ab
 
 About Cookies and Web Beacons: Cookies are text files stored in your computer, either temporarily or persistently on your hard drive. Cookies are used for authenticating, session tracking (state maintenance) and maintaining specific information on the use and users of our website, such as site preferences or the contents of electronic shopping carts. Cookie files may also be placed in your computer by our trusted third-party advertising companies for the purposes as set out in this paragraph. The data collected by these cookies are completely anonymous. If you prefer, you can delete all cookies that are already on your computer's hard drive by searching for files with "cookie" in them and delete them, and for the future, you can edit your browser options such that (future) cookies are blocked; however, please note that if you do this you may not be able to use the full functionality of our website. For more information about (the use and decline of) cookies, please visit: www.allaboutcookies.org
 
-Web beacons consist of a small string of software code that represents a graphic image request on a Web page or email. There may or may not be a visible graphic image associated with the web beacon and often the image is designed to blend into the background of a Web page or email. Web beacons can be used for many purposes - including site traffic reporting, unique visitor counts, advertising auditing and reporting, and personalization. Web beacons used by DHD Hospitality Inc (securereservation.net) collect only anonymous data.
+Web beacons consist of a small string of software code that represents a graphic image request on a Web page or email. There may or may not be a visible graphic image associated with the web beacon and often the image is designed to blend into the background of a Web page or email. Web beacons can be used for many purposes - including site traffic reporting, unique visitor counts, advertising auditing and reporting, and personalization. Web beacons used by SecureReservation.net collect only anonymous data.
 
 **Protect and safeguard your online privacy**  
-Please note that, in accordance with European personal data protection laws, strict security procedures are observed within DHD Hospitality Inc (securereservation.net) to prevent personal data misuse and unauthorized access.
+Please note that, in accordance with European personal data protection laws, strict security procedures are observed within SecureReservation.net to prevent personal data misuse and unauthorized access.
 
-DHD Hospitality Inc (securereservation.net) uses trusted and recognized advertising online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. Most of these companies are a member of the Network Advertising Initiative ("NAI"). The NAI members participate fully in the NAI Principles and offer a general opt-out function of the behavioral advertising. Please visit www.networkadvertising.org to identify the NAI members that have placed an advertising cookie file on your computer. To opt out of an NAI member's behavioral advertising program, simply check the box that corresponds to the company from which you wish to opt out.
+SecureReservation.net uses trusted and recognized advertising online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. Most of these companies are a member of the Network Advertising Initiative ("NAI"). The NAI members participate fully in the NAI Principles and offer a general opt-out function of the behavioral advertising. Please visit www.networkadvertising.org to identify the NAI members that have placed an advertising cookie file on your computer. To opt out of an NAI member's behavioral advertising program, simply check the box that corresponds to the company from which you wish to opt out.
 
 Please note that opting out of a network does not mean you will no longer receive or be subject to online advertising or marketing analysis. It does mean that the network from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns.
 
@@ -48,17 +48,17 @@ Our server and network are protected by firewalls against unauthorized access an
 Your credit card details will be kept by us up to a maximum of 10 days after a booking is made. After that period, your credit card data will be deleted.
 
 **Control over your data**  
-You always have the right to review the personal data you have stored with us. You can request your personal data by emailing us at: customer.service@DHD Hospitality Inc (securereservation.net)   
+You always have the right to review the personal data you have stored with us. You can request your personal data by emailing us at: info@SecureReservation.net  
 Please state 'request personal data' in the subject line of your email.
 
-If your personal data is incorrect, we will change it upon your request. You can also ask DHD Hospitality Inc (securereservation.net) to remove your personal data from its database by sending us an email to the aforementioned email address.
+If your personal data is incorrect, we will change it upon your request. You can also ask SecureReservation.net to remove your personal data from its database by sending us an email to the aforementioned email address.
 
-When does DHD Hospitality Inc (securereservation.net) send you emails?  
+When does SecureReservation.net send you emails?  
 After you have made a booking, you will receive a confirmation message with all the information about your booking. You may take this confirmation to the hotel as proof of the reservation. Shortly prior to your arrival date we may send you an email which may include information on your destination and may provide certain information and offers (including third party offers to the extent that you have actively opted in for this information) relevant to your booking and destination. Furthermore, after your stay at the hotel, we will send you the guest review survey, which we appreciate you filling in. Your completed guest review form may be uploaded onto and used on the relevant hotel's information page on our website and on such other platforms and social media (wholly or partly) owned, controlled, managed or hosted by us or our trusted business partners for the sole purpose of informing (future) customers of your opinion of the service (level) and quality of the hotel. To the extent that you have "Opted in" you may receive our newsletter or other information.
 
 **Contact**  
-DHD Hospitality Inc (securereservation.net) B.V. is the responsible party for the processing of the personal data. DHD Hospitality Inc (securereservation.net) B.V. is a private limited liability company, incorporated under the laws of the Netherlands and has its offices at Weteringschans 28, 1017 SG, Amsterdam, the Netherlands. The Dutch Data Protection Authority Notification number is 1288246.
+SecureReservation.net B.V. is the responsible party for the processing of the personal data. SecureReservation.net B.V. is a private limited liability company, incorporated under the laws of the Netherlands and has its offices at Weteringschans 28, 1017 SG, Amsterdam, the Netherlands. The Dutch Data Protection Authority Notification number is 1288246.
 
-If you have any suggestions or remarks about this privacy statement, please send an email to: customer.service@DHD Hospitality Inc (securereservation.net)
+If you have any suggestions or remarks about this privacy statement, please send an email to: info@securereservation.net
 
 We are at all times entitled to change the way we collect, transmit and process personal information and such other information as we may deem necessary. This Privacy Statement may therefore be amended from time to time in order to reflect the latest changes.
