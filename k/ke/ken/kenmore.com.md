@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenmore.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123221530id_/http%3A//www.kenmore.com/privacypolicy/nb-100000000410504%3FadCell%3DWF) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenmore.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604235648id_/http%3A//www.kenmore.com/privacypolicy/nb-100000000410504%3FadCell%3DWF) for the most accurate reproduction.*
 
 # Kenmore
 
@@ -86,7 +86,7 @@ This Site may carry advertisements from other companies. Some of these advertise
 
 **Other Web Sites**
 
-We partner with third-party service providers to serve ads on our behalf across the Internet. Some of these advertisements are also personalized for you based on what we know about you. Please note that we do not share any information that identifies you personally with the third party service providers who serve ads on our behalf. If you do not wish to receive personalized advertising from us on other web sites, please visit the Network Advertising Initiative Opt-Out page [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20121123221530id_/http%3A//www.kenmore.com/privacypolicy/www.networkadvertising.org/managing/opt_out.asp)
+We partner with third-party service providers to serve ads on our behalf across the Internet. Some of these advertisements are also personalized for you based on what we know about you. Please note that we do not share any information that identifies you personally with the third party service providers who serve ads on our behalf. If you do not wish to receive personalized advertising from us on other web sites, please visit the Network Advertising Initiative Opt-Out page [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20130604235648id_/http%3A//www.kenmore.com/privacypolicy/www.networkadvertising.org/managing/opt_out.asp)
 
 The Network Advertising Initiative offers useful information about internet advertising companies, including information about how to opt-out of interest-based advertising by their members. See <http://www.networkadvertising.org/participating> for the list of NAI members and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit [http://www.aboutads.info/consumers/](http://www.networkadvertising.org/managing/opt_out.asp) to learn about online behavioral advertising and how to opt-out from online behavioral ads served by some or all participating companies.
 
