@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dandb.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226025920id_/http%3A//www.dandb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dandb.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604020956id_/http%3A//www.dandb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
