@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the jacksonhewitt.com privacy policy that was archived on 2012-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121116165645id_/http%3A//www.jacksonhewitt.com/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jacksonhewitt.com privacy policy that was archived on 2013-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604101125id_/http%3A//www.jacksonhewitt.com/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
-	Privacy Policy- Jackson Hewitt Tax Service
-</title><script type="text/javascript" async="" src="/Neighborhood/script/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="EktronJS" type="text/javascript" src="/WorkArea/java/ektron.js"></script><script id="EktronSiteDataJS" type="text/javascript" src="/WorkArea/java/ektron.site-data.js.ashx"></script><script id="EktronRegisteredJs" type="text/javascript" src="/workarea/java/ektronJs.ashx?id=EktronFlexMenuJS"></script><script id="EktronModalJS" type="text/javascript" src="/WorkArea/java/plugins/modal/ektron.modal.js"></script><script id="mmmapsJS" type="text/javascript" src="/Neighborhood/script/megamenumaps.js"></script><link id="EktronRegisteredCss" rel="stylesheet" type="text/css" href="/workarea/csslib/ektronCss.ashx?id=EktronModalCss+EktronPageHostCss"><link href="../Neighborhood/lib/selectBox/jquery.selectBox.css" rel="stylesheet" type="text/css"><link href="/Neighborhood/style/style.css" rel="stylesheet" type="text/css"><link href="/Neighborhood/images/fav.png" rel="shirtcut icon" type="image/png">
+	Privacy Policy | Jackson Hewitt
+</title><script type="text/javascript" async="" src="/Neighborhood/script/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script id="EktronJS" type="text/javascript" src="/WorkArea/java/ektron.js"></script><script id="EktronSiteDataJS" type="text/javascript" src="/WorkArea/java/ektron.site-data.js.ashx"></script><script id="EktronRegisteredJs" type="text/javascript" src="/workarea/java/ektronJs.ashx?id=EktronFlexMenuJS"></script><script id="EktronModalJS" type="text/javascript" src="/WorkArea/java/plugins/modal/ektron.modal.js"></script><script id="mmmapsJS" type="text/javascript" src="/Neighborhood/script/megamenumaps.js"></script><link id="EktronRegisteredCss" rel="stylesheet" type="text/css" href="/workarea/csslib/ektronCss.ashx?id=EktronModalCss+EktronPageHostCss"><link href="../Neighborhood/lib/selectBox/jquery.selectBox.css" rel="stylesheet" type="text/css"><link href="/Neighborhood/style/style.css" rel="stylesheet" type="text/css"><link href="/Neighborhood/images/fav.png" rel="shirtcut icon" type="image/png">
 
     <!--[if IE 7]>
         <link rel="stylesheet" type="text/css" href="../Neighborhood/style/ie7css.css" />
@@ -12,10 +12,13 @@
         <link rel="stylesheet" type="text/css" href="../Neighborhood/style/ie8css.css" />
     <![endif]-->
     <!--[if !IE]>
-        <script src="http://dev.virtualearth.net/mapcontrol/v6.3/js/atlascompat.js" type="text/javascript"></script>
+        <script src="https://dev.virtualearth.net/mapcontrol/v6.3/js/atlascompat.js" type="text/javascript"></script>
     <![endif]-->
     
     
+    <script type="text/javascript" src="https://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0&amp;s=1"></script>
+    <script type="text/javascript" src="https://j.maxmind.com/app/geoip.js" charset="ISO-8859-1"></script>
+
     <script type="text/javascript">
         var officeJson = {};
     </script>
@@ -23,19 +26,44 @@
     
 
 
+    <!-- Google Analytics -->
     <script type="text/javascript">
-        var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-664280-1']);
+        var _gaq = _gaq || [];
+        var pluginUrl =  '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+        _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+        _gaq.push(['_setAccount', 'UA-664280-1']);
+        _gaq.push(['_setDomainName', 'jacksonhewitt.com']);
+        _gaq.push(['_setAllowLinker', true]);
         _gaq.push(['_trackPageview']);
         _gaq.push(['_trackEvent']);
-        (function() { 
-            var ga = document.createElement('script'); 
-            ga.type = 'text/javascript'; 
-            ga.async = true; 
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
-     </script>
-     
+            
+        function recordOutboundLink(link, category, action, opt_label) {
+            _gat._getTrackerByName()._trackEvent(category, action, opt_label);
+            setTimeout('document.location = "' + link + '"', 100); 
+        }
+
+        $(function() {
+            $('a')
+	            .filter(function() {
+	                return (this.hostname && this.hostname !== location.hostname);
+	            })
+	            .click(function() {
+	                var URL = this.href.replace(/\/$/, '');
+	                var linkName = $(this).text();
+	                var currentPage = document.location;
+	                recordOutboundLink(URL, 'Outbound Link', URL, 'Outbound link to <' + URL + '> ("' + linkName + '") from <' + currentPage + '>');
+	                return false;
+	            });
+        });
+    </script>
+    <!-- End Google Analytics -->
+         
       <script type="text/javascript">
           // <![CDATA[
           var _elqQ = _elqQ || [];
@@ -54,6 +82,9 @@
           })();
           // ]]>
 </script>
+
+   
+
 </head>
 <body>
     <form name="aspnetForm" method="post" action="/Privacy_Policy/" id="aspnetForm">
@@ -62,7 +93,7 @@
 </div>
 
 
-<script src="/ScriptResource.axd?d=QXgZJe1JvtXcxnxFKzQ870hJNexUADNEfcLA5RrzTACYaZRLCctT-roHiPYZzxl30juX57HmdY5wEpdF5vzynn6sg-96_y9rciJ1cHcobRPFCRN3qioFAWtLRwqmTDzsDMSn7ewzpXTQ5HnNuQbP-6RAvnHvd_2T3bfrXPowh5jaFW3H0&amp;t=ffffffffb2569f20" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=QXgZJe1JvtXcxnxFKzQ870hJNexUADNEfcLA5RrzTACYaZRLCctT-roHiPYZzxl30juX57HmdY5wEpdF5vzynn6sg-96_y9rciJ1cHcobRPFCRN3qioFAWtLRwqmTDzsDMSn7ewzpXTQ5HnNuQbP-6RAvnHvd_2T3bfrXPowh5jaFW3H0&amp;t=2d15baf6" type="text/javascript"></script>
 <script src="/WorkArea/java/webkitFix.js" type="text/javascript"></script>
 <div>
 
@@ -90,36 +121,37 @@
 <div class="header">
   <div class="wrap"> <a href="/" class="logo"></a>
     <ul class="menu">
-      <li style="visibility:hidden"><a href="/OfficeLocator/Search-Results/?loc=94043" class="map"></a></li>
-      <li style="visibility:hidden">Mountain View, CA</li>
-      <li style="visibility:hidden"><a href="/OfficeLocator/Search-Results/?loc=94043">Nearby Offices</a></li>
-      <li class="login">
-	    <span class="account">My Account</span>
-	    <div class="login-content">
-		    <label for="account">Choose Account</label>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li class="login">
+	        <span class="account">My Account</span>
+	        <div class="login-content">
+		         <label for="account">Choose Account</label>
 		
-		    <select id="account"><option value="/MyTaxManager/Sign-in/">MyTaxManager</option><option value="https://www.jacksonhewitt.com/login.aspx?src=0ED99E01-79F1-4c5b-9310-E5D9FC5C978D&amp;s=1">Jackson Hewitt Online</option></select>
+		        <select id="account"><option value="/MyTaxManager/Sign-in/">MyTaxManager</option><option value="https://www.jacksonhewitt.com/login.aspx?src=0ED99E01-79F1-4c5b-9310-E5D9FC5C978D&amp;s=1">Jackson Hewitt Online</option></select>
 			
-		    <input id="login-account-button" type="button" value="Login" style="cursor: pointer">
-		    <div class="r-login">
-			    <ul class="assistant helping">
-				    <li><a href="/mytaxmanager/forgot-password">Forgot Password?</a></li>
-				    <li><a href="/mytaxmanager/forgot-user-id">Forgot User ID?</a></li>
-			    </ul>
-			    <ul class="assistant register">
-				    <li>
-					    <span>Don't have an account?</span>
-					    <a href="/mytaxmanager/registration">Register now</a>
-				    </li>
-			    </ul>
-		    </div>
-	    </div>
-    </li>
+		        <input id="login-account-button" type="button" value="Login" style="cursor: pointer">
+		        <div class="r-login">
+			        <ul class="assistant helping">
+				        <li><a href="/mytaxmanager/forgot-password">Forgot Password?</a></li>
+				        <li><a href="/mytaxmanager/forgot-user-id">Forgot User ID?</a></li>
+			        </ul>
+			        <ul class="assistant register">
+				        <li>
+					        <span>Don't have an account?</span>
+					        <a href="/mytaxmanager/registration">Register now</a>
+				        </li>
+			        </ul>
+		        </div>
+	        </div>
+        </li>
+        <li><a href="/spanish">En Español</a></li>
     </ul>
   </div>
   <div class="nav-block" style="background-position: 683px top;">
     <div class="wrap">
-    <!--Prepare your Taxes:locator--><!--Tax Tools:content--><ul class="nav"><li class="first"><a class="active" href="/" target="_self"> Home</a></li><li class="prepare"><a href="/Prepare-your-taxes/Prepare-your-taxes/">Prepare Your Taxes</a><ul class="popup"><li class="line"><h2><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589935828">Do Your Taxes in an Office</a></h2><a href="/Do-Your-Taxes-In-Office/IRS-Direct/" target="_self"> IRS Direct</a><a href="/Do-Your-Taxes-In-Office/Assisted-Refund/" target="_self"> Assisted Refund</a><a href="/Do-your-Taxes-In-Office/FLEX-PAY®-PROGRAM/" target="_self"> FLEX PAY® PROGRAM</a><a href="/Do-your-Taxes-In-Office/The-Gold-Guarantee®/" target="_self"> The Gold Guarantee®</a><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589935831">Jackson Hewitt® smartcard</a><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589936187">W-2 Download</a><a href="/Do-your-Taxes-In-Office/Disbursement-Options/" target="_self"> Disbursement Options</a><a href="/Do-Your-Taxes-In-Office/What-to-Bring/" target="_self"> What to Bring</a></li><li class=""><h2><a href="/Pages/Do-Your-Taxes-Online/Do-Your-Taxes-Online/">Do Your Taxes Online</a></h2><a href="/Do-Your-Taxes-Online/Job-Specific/" target="_self"> Job Specific</a><a href="/Do-Your-Taxes-Online/Quick---Easy/" target="_self"> Quick &amp; Easy</a><a href="/Do-Your-Taxes-Online/Life-Events/" target="_self"> Life Events</a><a href="/Do-Your-Taxes-Online/Guided-Tour/" target="_self"> Guided Tour</a></li><li class="locat" id="menu_cta_8589934670">
+    <!--Prepare your Taxes:locator--><!--Tax Tools:content--><ul class="nav"><li class="first"><a href="/" target="_self"> Home</a></li><li class="prepare"><a href="/Prepare-your-taxes/Prepare-your-taxes/">Prepare Your Taxes</a><ul class="popup"><li class="line"><h2><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589935828">Do Your Taxes in an Office</a></h2><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589935831">Jackson Hewitt® smartcard</a><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589936187">Find Your Form W-2</a><a href="/Do-Your-Taxes-In-Office/What-to-Bring/" target="_self"> What to Bring</a><a href="/Refer-A-Friend/" target="_self"> Refer-A-Friend®</a></li><li class=""><h2><a href="/Pages/Do-Your-Taxes-Online/Do-Your-Taxes-Online/">Do Your Taxes Online</a></h2><a href="/Do-Your-Taxes-Online/Job-Specific/" target="_self"> Job Specific</a><a href="/Do-Your-Taxes-Online/Quick---Easy/" target="_self"> Quick &amp; Easy</a><a href="/Do-Your-Taxes-Online/Life-Events/" target="_self"> Life Events</a><a href="/Do-Your-Taxes-Online/Guided-Tour/" target="_self"> Guided Tour</a></li><li class="locat" id="menu_cta_8589934670">
 <!--<div class="map" id="mmMap"></div>-->
 <h2>
     Locate a Jackson Hewitt Office</h2>
@@ -128,8 +160,10 @@
     <input type="button" value="Find" id="menu-find-office-btn" class="find-office-btn">
 </div>
 
-</li></ul></li><li class="tax"><a href="/Resource-Center/Tax-Tools-Resources/">Tax Tools &amp; Resources</a><ul class="popup taxtool"><li class="first"><select><option value="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589935884">Tax Forms</option><option value="/Resource-Center/Tax-Forms/Current-Year-Forms-and-Publications/">Current Year Forms and Publications</option><option value="/Resource-Center/Tax-Forms/2010-Forms,-Instructions-and-Publications/">2010 Forms, Instructions and Publications</option><option value="/Resource-Center/Tax-Forms/2009-Forms,-Instructions-and-Publications/">2009 Forms, Instructions and Publications</option></select><select><option value="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589935886">Tax Topics</option><option value="/Resource-Center/Tax-Topics/Are-You-Self-Employed/">Are You Self-Employed</option><option value="/Resource-Center/Tax-Topics/Audits/">Audits</option><option value="/Resource-Center/Tax-Topics/Change-Your-Name/">Change Your Name</option><option value="/Resource-Center/Tax-Topics/Charitable-Contributions/">Charitable Contributions</option><option value="/Resource-Center/Tax-Topics/Dependents/">Dependents</option><option value="/Resource-Center/Tax-Topics/Earned-Income-Credit/">Earned Income Credit</option><option value="/Resource-Center/Tax-Topics/Education-Credits-and-Deductions/">Education Credits and Deductions</option><option value="/Resource-Center/Tax-Topics/Employment-Business-Expenses/">Employment Business Expenses</option><option value="/Resource-Center/Tax-Topics/Filing-Status/">Filing Status</option><option value="/Resource-Center/Tax-Topics/Filing-Your-Return/">Filing Your Return</option><option value="/Resource-Center/Tax-Topics/Home-Ownership/">Home Ownership</option><option value="/Resource-Center/Tax-Topics/IRAs/">IRAs</option><option value="/Resource-Center/Tax-Topics/IRS-e-file/">IRS e-file</option><option value="/Resource-Center/Tax-Topics/Job-Related-Moving-Expenses/">Job-Related Moving Expenses</option><option value="/Resource-Center/Tax-Topics/Job-Related-Travel-Expenses/">Job-Related Travel Expenses</option><option value="/Resource-Center/Tax-Topics/Job-Related-Vehicle-Expenses/">Job-Related Vehicle Expenses</option><option value="/Resource-Center/Tax-Topics/Medical-Expenses/">Medical Expenses</option><option value="/Resource-Center/Tax-Topics/Military-Personnel/">Military Personnel</option><option value="/Resource-Center/Tax-Topics/Older-Taxpayers/">Older Taxpayers</option><option value="/Resource-Center/Tax-Topics/Pensions/">Pensions</option><option value="/Resource-Center/Tax-Topics/Record-Keeping/">Record Keeping</option><option value="/Resource-Center/Tax-Topics/Rental-Property/">Rental Property</option><option value="/Resource-Center/Tax-Topics/Uniform-Definition-of-a-Child/">Uniform Definition of a Child</option></select><select><option value="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589934801">Tax Tips</option><option value="/MyTaxManager/Resources/Tax-Tips/Automobile/">Automobile</option><option value="/MyTaxManager/Resources/Tax-Tips/Business-Job-Related/">Business Job Related</option><option value="/MyTaxManager/Resources/Tax-Tips/Casualty-and-Theft-Losses/">Casualty and Theft Losses</option><option value="/MyTaxManager/Resources/Tax-Tips/Change-of-Address/">Change of Address</option><option value="/MyTaxManager/Resources/Tax-Tips/Charitable-Contributions/">Charitable Contributions</option><option value="/MyTaxManager/Resources/Tax-Tips/Child-Dependant/">Child Dependant</option><option value="/MyTaxManager/Resources/Tax-Tips/Earned-Income-Credit/">Earned Income Credit</option><option value="/MyTaxManager/Resources/Tax-Tips/Education/">Education</option><option value="/MyTaxManager/Resources/Tax-Tips/Estate-and-Gift-Taxes/">Estate and Gift Taxes</option><option value="/MyTaxManager/Resources/Tax-Tips/Filing/">Filing</option><option value="/MyTaxManager/Resources/Tax-Tips/Filing-Status/">Filing Status</option><option value="/MyTaxManager/Resources/Tax-Tips/IRA-Retirement/">IRA Retirement</option><option value="/MyTaxManager/Resources/Tax-Tips/Itemized-Deductions/">Itemized Deductions</option><option value="/MyTaxManager/Resources/Tax-Tips/Lottery/">Lottery</option><option value="/MyTaxManager/Resources/Tax-Tips/Medical-and-Health/">Medical and Health</option><option value="/MyTaxManager/Resources/Tax-Tips/Miscellaneous-Expenses/">Miscellaneous Expenses</option><option value="/MyTaxManager/Resources/Tax-Tips/Real-Estate-Property/">Real Estate Property</option></select><select><option value="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589936156">My Tax Manager</option><option value="/Resource-Center/MyTaxManager-Resources/Deductions@Work®/">Deductions@Work®</option><option value="/Resource-Center/MyTaxManager-Resources/Top-Overlooked-Deductions/">Top Overlooked Deductions</option></select><select><option value="/Resource-Center/Glossary">Glossary</option><option value="/Resource-Center/Glossary/A/">A</option><option value="/Resource-Center/Glossary/B/">B</option><option value="/Resource-Center/Glossary/C/">C</option><option value="/Resource-Center/Glossary/D/">D</option><option value="/Resource-Center/Glossary/E/">E</option><option value="/Resource-Center/Glossary/F/">F</option><option value="/Resource-Center/Glossary/G/">G</option><option value="/Resource-Center/Glossary/H/">H</option><option value="/Resource-Center/Glossary/I/">I</option><option value="/Resource-Center/Glossary/J/">J</option><option value="/Resource-Center/Glossary/K/">K</option><option value="/Resource-Center/Glossary/L/">L</option><option value="/Resource-Center/Glossary/M/">M</option><option value="/Resource-Center/Glossary/N/">N</option><option value="/Resource-Center/Glossary/O/">O</option><option value="/Resource-Center/Glossary/P/">P</option><option value="/Resource-Center/Glossary/Q/">Q</option><option value="/Resource-Center/Glossary/R/">R</option><option value="/Resource-Center/Glossary/S/">S</option><option value="/Resource-Center/Glossary/T/">T</option><option value="/Resource-Center/Glossary/U/">U</option><option value="/Resource-Center/Glossary/V/">V</option><option value="/Resource-Center/Glossary/W/">W</option></select></li><li class="middle"><select><option value="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589935218">Disaster Recovery Guide</option><option value="/MyTaxManager/Resources/Disaster-Recovery/Casualty-and-Theft-Losses/">Casualty and Theft Losses</option><option value="/MyTaxManager/Resources/Disaster-Recovery/Home-Inventory-Guide/">Home Inventory Guide</option><option value="/MyTaxManager/Resources/Disaster-Recovery/How-to-Replace-Lost-Identification-and-Documents/">How to Replace Lost Identification and Documents</option><option value="/MyTaxManager/Resources/Disaster-Recovery/What-To-Do-in-A-Disaster/">What To Do in A Disaster</option></select><select><option value="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589935286">Calculators</option><option value="/MyTaxManager/Resources/Calculators/2011-Federal-Income-Tax-Estimator/">2011 Federal Income Tax Estimator</option><option value="/MyTaxManager/Resources/Calculators/2011-Federal-Income-Tax-Estimator-(1040EZ)/">2011 Federal Income Tax Estimator (1040EZ)</option><option value="/MyTaxManager/Resources/Calculators/Earned-Income-Credit-(EIC)/">Earned Income Credit (EIC)</option><option value="/MyTaxManager/Resources/Calculators/Estate-Tax-Liability/">Estate Tax Liability</option><option value="/MyTaxManager/Resources/Calculators/Self-Employment-Tax/">Self-Employment Tax</option></select><select><option value="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589935888">Tax FAQs</option><option value="/Resource-Center/FAQs/Ask-Jackson-Hewitt/">Ask Jackson Hewitt</option><option value="/Resource-Center/FAQs/Filing-Your-Taxes/">Filing Your Taxes</option></select><a href="/Pages/Resource-Center/eDocuments/" target="_self"> eDocuments</a><a href="/Pages/Resource-Center/JH-Mobile-App-Download/" target="_self"> JH Mobile App Download</a></li><li class="locat" id="menu_cta_8589934671"><img src="/uploadedImages/JacksonHewittcom/Homepage_Content/getIt.png" alt="jh mobile" title="jh mobile" style="float: right; "><h2>JH Mobile</h2>
-<p>Download the App today on your smartphone.<br><br><a href="/Pages/Resource-Center/JH-Mobile-App-Download/" class="button"><span>GET IT NOW</span></a>&nbsp;</p></li></ul></li><li class=""><a href="/Pages/Contact-Us/" target="_self"> Contact Us</a></li></ul>
+</li></ul></li><li class="tax"><a href="/Resource-Center/Tax-Tools-Resources/">Tax Tools &amp; Resources</a><ul class="popup taxtool"><li class="first"><select><option value="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589935884">Tax Forms</option><option value="/Resource-Center/Tax-Forms/Current-Year-Forms-and-Publications/">Current Year Forms and Publications</option><option value="/Resource-Center/Tax-Forms/2010-Forms,-Instructions-and-Publications/">2010 Forms, Instructions and Publications</option><option value="/Resource-Center/Tax-Forms/2009-Forms,-Instructions-and-Publications/">2009 Forms, Instructions and Publications</option></select><select><option value="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589935886">Tax Topics</option><option value="/Resource-Center/Tax-Topics/Are-You-Self-Employed/">Are You Self-Employed</option><option value="/Resource-Center/Tax-Topics/Audits/">Audits</option><option value="/Resource-Center/Tax-Topics/Change-Your-Name/">Change Your Name</option><option value="/Resource-Center/Tax-Topics/Charitable-Contributions/">Charitable Contributions</option><option value="/Resource-Center/Tax-Topics/Dependents/">Dependents</option><option value="/Resource-Center/Tax-Topics/Earned-Income-Credit/">Earned Income Credit</option><option value="/Resource-Center/Tax-Topics/Education-Credits-and-Deductions/">Education Credits and Deductions</option><option value="/Resource-Center/Tax-Topics/Employment-Business-Expenses/">Employment Business Expenses</option><option value="/Resource-Center/Tax-Topics/Filing-Status/">Filing Status</option><option value="/Resource-Center/Tax-Topics/Filing-Your-Return/">Filing Your Return</option><option value="/Resource-Center/Tax-Topics/Home-Ownership/">Home Ownership</option><option value="/Resource-Center/Tax-Topics/IRAs/">IRAs</option><option value="/Resource-Center/Tax-Topics/IRS-e-file/">IRS e-file</option><option value="/Resource-Center/Tax-Topics/Job-Related-Moving-Expenses/">Job-Related Moving Expenses</option><option value="/Resource-Center/Tax-Topics/Job-Related-Travel-Expenses/">Job-Related Travel Expenses</option><option value="/Resource-Center/Tax-Topics/Job-Related-Vehicle-Expenses/">Job-Related Vehicle Expenses</option><option value="/Resource-Center/Tax-Topics/Medical-Expenses/">Medical Expenses</option><option value="/Resource-Center/Tax-Topics/Military-Personnel/">Military Personnel</option><option value="/Resource-Center/Tax-Topics/Older-Taxpayers/">Older Taxpayers</option><option value="/Resource-Center/Tax-Topics/Pensions/">Pensions</option><option value="/Resource-Center/Tax-Topics/Record-Keeping/">Record Keeping</option><option value="/Resource-Center/Tax-Topics/Rental-Property/">Rental Property</option><option value="/Resource-Center/Tax-Topics/Uniform-Definition-of-a-Child/">Uniform Definition of a Child</option></select><select><option value="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589934801">Tax Tips</option><option value="/MyTaxManager/Resources/Tax-Tips/Automobile/">Automobile</option><option value="/MyTaxManager/Resources/Tax-Tips/Business-Job-Related/">Business Job Related</option><option value="/MyTaxManager/Resources/Tax-Tips/Casualty-and-Theft-Losses/">Casualty and Theft Losses</option><option value="/MyTaxManager/Resources/Tax-Tips/Change-of-Address/">Change of Address</option><option value="/MyTaxManager/Resources/Tax-Tips/Charitable-Contributions/">Charitable Contributions</option><option value="/MyTaxManager/Resources/Tax-Tips/Child-Dependent/">Child Dependent</option><option value="/MyTaxManager/Resources/Tax-Tips/Earned-Income-Credit/">Earned Income Credit</option><option value="/MyTaxManager/Resources/Tax-Tips/Education/">Education</option><option value="/MyTaxManager/Resources/Tax-Tips/Estate-and-Gift-Taxes/">Estate and Gift Taxes</option><option value="/MyTaxManager/Resources/Tax-Tips/Filing/">Filing</option><option value="/MyTaxManager/Resources/Tax-Tips/Filing-Status/">Tax Filing Status</option><option value="/MyTaxManager/Resources/Tax-Tips/IRA-Retirement/">IRA Retirement</option><option value="/MyTaxManager/Resources/Tax-Tips/Itemized-Deductions/">Itemized Deductions</option><option value="/MyTaxManager/Resources/Tax-Tips/Lottery/">Lottery</option><option value="/MyTaxManager/Resources/Tax-Tips/Medical-and-Health/">Medical and Health</option><option value="/MyTaxManager/Resources/Tax-Tips/Miscellaneous-Expenses/">Miscellaneous Expenses</option><option value="/MyTaxManager/Resources/Tax-Tips/Real-Estate-Property/">Real Estate Property</option></select><select><option value="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589936156">My Tax Manager</option><option value="/Resource-Center/MyTaxManager-Resources/Deductions@Work®/">Deductions@Work®</option><option value="/Resource-Center/MyTaxManager-Resources/Top-Overlooked-Deductions/">Top Overlooked Deductions</option></select><select><option value="/Resource-Center/Glossary">Glossary</option><option value="/Resource-Center/Glossary/A/">A</option><option value="/Resource-Center/Glossary/B/">B</option><option value="/Resource-Center/Glossary/C/">C</option><option value="/Resource-Center/Glossary/D/">D</option><option value="/Resource-Center/Glossary/E/">E</option><option value="/Resource-Center/Glossary/F/">F</option><option value="/Resource-Center/Glossary/G/">G</option><option value="/Resource-Center/Glossary/H/">H</option><option value="/Resource-Center/Glossary/I/">I</option><option value="/Resource-Center/Glossary/J/">J</option><option value="/Resource-Center/Glossary/K/">K</option><option value="/Resource-Center/Glossary/L/">L</option><option value="/Resource-Center/Glossary/M/">M</option><option value="/Resource-Center/Glossary/N/">N</option><option value="/Resource-Center/Glossary/O/">O</option><option value="/Resource-Center/Glossary/P/">P</option><option value="/Resource-Center/Glossary/Q/">Q</option><option value="/Resource-Center/Glossary/R/">R</option><option value="/Resource-Center/Glossary/S/">S</option><option value="/Resource-Center/Glossary/T/">T</option><option value="/Resource-Center/Glossary/U/">U</option><option value="/Resource-Center/Glossary/V/">V</option><option value="/Resource-Center/Glossary/W/">W</option></select></li><li class="middle"><select><option value="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589935218">Disaster Recovery Guide</option><option value="/MyTaxManager/Resources/Disaster-Recovery/Casualty-and-Theft-Losses/">Casualty and Theft Losses</option><option value="/MyTaxManager/Resources/Disaster-Recovery/Home-Inventory-Guide/">Home Inventory Guide</option><option value="/MyTaxManager/Resources/Disaster-Recovery/How-to-Replace-Lost-Identification-and-Documents/">How to Replace Lost Identification and Documents</option><option value="/MyTaxManager/Resources/Disaster-Recovery/What-To-Do-in-A-Disaster/">What To Do in A Disaster</option></select><select><option value="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589935286">Calculators</option><option value="/MyTaxManager/Resources/Calculators/2012-Federal-Income-Tax-Estimator/">2012 Federal Income Tax Estimator</option><option value="/MyTaxManager/Resources/Calculators/2012-Federal-Income-Tax-Estimator-(1040EZ)/">2012 Federal Income Tax Estimator (1040EZ)</option><option value="/MyTaxManager/Resources/Calculators/Earned-Income-Credit-(EIC)/">Earned Income Credit (EIC)</option><option value="/MyTaxManager/Resources/Calculators/Estate-Tax-Liability/">Estate Tax Liability</option><option value="/MyTaxManager/Resources/Calculators/Self-Employment-Tax/">Self-Employment Tax</option></select><select><option value="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8589935888">Tax FAQs</option><option value="/Resource-Center/FAQs/Ask-Jackson-Hewitt/">Ask Jackson Hewitt</option><option value="/Resource-Center/FAQs/Filing-Your-Taxes/">Filing Your Taxes</option></select><a href="/Pages/Resource-Center/eDocuments/" target="_self"> eDocuments</a><a href="/Pages/Resource-Center/JH-Mobile-App-Download/" target="_self"> JH Mobile App Download</a></li><li class="locat" id="menu_cta_8589934671"><img src="/uploadedImages/JacksonHewittcom/Homepage_Content/getIt.png" alt="jh mobile" title="jh mobile" style="float: right;"><h2>JH Mobile</h2>
+<p>Download the App today on your smartphone.<br><br><a href="/Pages/Resource-Center/JH-Mobile-App-Download/" class="button"><span>GET IT NOW</span></a>&nbsp;</p>
+<p style="margin-top: 30px; padding-top: 20px; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(204, 204, 204);">The Affordable Care Act <br>and How it Affects You <a href="/Resource-Center/Affordable-Care-Act/" class="button" style="float: right; margin: -15px 10px 0px 0px;"><span>LEARN MORE</span></a>&nbsp;</p>
+<br><br></li></ul></li><li class=""><a href="/Pages/Contact-Us/" target="_self"> Contact Us</a></li></ul>
       <ul class="find">
         <li class="first">Find an Office</li>
         <li>
@@ -206,7 +240,7 @@
 <div class="nf">
   <div class="content-column">
   <div class="wrap">
-  	<div class="content-left" style="min-height: 4157px; height: auto;">
+  	<div class="content-left" style="min-height: 4434px; height: auto;">
     	
 
 <div id="ctl00_cphMain_dzLeftColumn_updatepanel">
@@ -231,91 +265,86 @@
         
         <div id="ctl00_cphMain_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_WidgetHost_widget_CB">
 			<div class="scontent_left"><div class="searchboxindent"><div class="refund_indent"><p>
-Jackson Hewitt Inc. (“Jackson Hewitt,” “we,” “us” or “our”) recognizes the importance of protecting the information provided to us by visitors to <a href="http://www.jacksonhewitt.com/">www.jacksonhewitt.com</a> (the “Website”). This privacy statement explains what information may be collected from you when you visit the Website, how that information is used and how it is shared with third parties.&nbsp; 
-</p>
-<p>&nbsp;</p>
-<p><strong>Jackson Hewitt offers individual tax preparation services and a wide range of financial products through various affiliates, franchisees and company-owed stores.&nbsp; Because we offer in-store and online tax preparation services, our privacy policies will vary depending on how you interact with Jackson Hewitt.&nbsp; This privacy policy applies solely to <a href="http://www.jacksonhewitt.com" title="Link To: http://www.jacksonhewitt.com">www.jacksonhewitt.com</a>, independent of any business relationship you may have with us.&nbsp;</strong>&nbsp;</p>
-<p><strong>This privacy policy may change and will be updated on the Website. You should check this page periodically to ensure that you are in agreement with any changes. &nbsp;If we amend this privacy policy to permit material changes in the way we collect, use, and/or share your personal information, we will notify you of such amendment by prominently posting notice of such amendment on the Website’s homepage.</strong>&nbsp;</p>
-<p><a href="http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.jacksonhewitt.com/seal_m" title="Validate TRUSTe privacy certification" target="_blank">&nbsp;<img src="/uploadedImages/JacksonHewittcom/Pages_Content/seal_m.png" alt="Seal" title="Seal"></a>&nbsp;</p>
-<p>Jackson Hewitt, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. &nbsp;The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="https://JacksonHewitt.custhelp.com/app/ask" title="Link To: https://JacksonHewitt.custhelp.com/app/ask" target="_blank">https://JacksonHewitt.custhelp.com/app/ask</a>&nbsp;or by calling 1-877-476-3353. &nbsp;If you are not satisfied with our response you can <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">contact TRUSTe here</a>.&nbsp;</p>
-<p>&nbsp;</p>
-<h2>Information Collected by Jackson Hewitt </h2>
-<p>&nbsp;</p>
+Jackson Hewitt Inc. (“Jackson Hewitt,” “we,” “us” or “our”) recognizes the importance of protecting the information provided to us by visitors to <a href="http://www.jacksonhewitt.com/">www.jacksonhewitt.com</a>, <a href="http://www.jacksonhewittonline.com/">www.jacksonhewittonline.com</a>, and <a href="http://www.jacksonhewittfranchise.com/">www.jacksonhewittfranchise.com</a> (our “Websites”). This privacy statement explains what information may be collected from you when you visit our Websites, how that information is used and how it is shared with third parties.</p>
+<p><strong>Jackson Hewitt offers individual tax preparation services and a wide range of financial products through various affiliates, franchisees and company-owned stores.  Because we offer in-store and online tax preparation services, our privacy policies will vary depending on how you interact with Jackson Hewitt.  This privacy policy applies solely to our Websites, independent of any business relationship you may have with us.</strong>&nbsp;</p>
+<p><strong>This privacy policy may change and will be updated on our Websites. You should check this page periodically to ensure that you are in agreement with any changes.  If we amend this privacy policy to permit material changes in the way we collect, use, and/or share your personal information, we will notify you of such amendment by prominently posting notice of such amendment on our Websites’ homepages.</strong>&nbsp;</p>
+<p><a href="http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.jacksonhewitt.com/seal_m" title="Validate TRUSTe privacy certification" target="_blank"><img src="/uploadedImages/JacksonHewittcom/Pages_Content/seal_m.png" alt="Seal" title="Seal"></a>
+&nbsp;</p>
+<p>Jackson Hewitt, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="https://JacksonHewitt.custhelp.com/app/ask" title="Link To: https://JacksonHewitt.custhelp.com/app/ask" target="_blank">https://JacksonHewitt.custhelp.com/app/ask</a> or by calling 1-877-476-3353. If you are not satisfied with our response you can <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">contact TRUSTe here</a>.</p>
+<h1>Information Collected by Jackson Hewitt </h1>
 <h2>Voluntary Registration</h2>
-<p><span>We collect personal information (which may include, without limitation, your name, email address, social security number, mailing address and/or telephone number) from you when you voluntarily register on the Website or when you request information or a service (e.g., tax preparation services) on the Website. </span>&nbsp;</p>
-<p>&nbsp;</p>
+<p>We collect personal information (which may include, without limitation, your name, email address, social security number, mailing address and/or telephone number) from you when you voluntarily register on the Websites or when you request information or a service (e.g., tax preparation services) on the Websites.</p>
 <h2>Surveys or Contests</h2>
-<p>From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. &nbsp;If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. &nbsp;The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).</p>
-<p>&nbsp;</p>
+<p>From time-to-time we may provide you the opportunity to participate in contests or surveys on our sites. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).</p>
 <h2>IP Addresses</h2>
-<p><span>Jackson Hewitt collects IP addresses for system administration, to report and review aggregate information, and to audit the use of the Website. When visitors request pages on our or our affiliates’ sites, our servers log the visitors’ IP addresses. We do not normally link IP addresses to any personally identifiable information, which means that a visitor’s session will be logged, but the visitor will remain anonymous to us. We may use IP addresses to identify a visitor if it is necessary to protect our business and legal interests, Website, clients, or others.</span>&nbsp;</p>
-<p>&nbsp;</p>
+<p>Jackson Hewitt collects IP addresses for system administration, to report and review aggregate information, and to audit the use of our Websites. When visitors request pages on our or our affiliates’ sites, our servers log the visitors’ IP addresses. We do not normally link IP addresses to any personally identifiable information, which means that a visitor’s session will be logged, but the visitor will remain anonymous to us. We may use IP addresses to identify a visitor if it is necessary to protect our business and legal interests, Website, clients, or others.</p>
 <h2>Cookies</h2>
-<p><span>Cookies are used to specify a visitor’s preferences and to analyze a visitor’s Website usage trends and patterns. This helps us to better understand our visitors’ needs and improve areas of our services that our visitors may find valuable. While both of these activities depend on the use of cookies, you have the option of disabling the cookies via your internet browser preferences. <span>&nbsp;</span>This may prevent you from taking full advantage of the Website and some services may not function properly or operate slower.</span>&nbsp;</p>
-<p>We use Google’s services to display our advertisements on the internet. &nbsp;Google utilizes cookies to display our advertisements based on your visit to the Website. &nbsp;You may specifically opt out of Google’s use of cookies by visiting <a href="http://www.google.com/privacy_ads.html" title="Link To: http://www.google.com/privacy_ads.html" target="_blank">www.google.com/privacy_ads.html</a> or <a href="http://www.google.com/privacy_ads.html" title="Link To: http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">www.networkadvertising.org/managing/opt_out.asp</a>.</p>
-<p><span>We do not save passwords or credit card information in cookies. </span><span><span>&nbsp;&nbsp;</span></span><span>A cookie does not provide us access to your computer or any information about you, other than the data you choose to share with us as part of the voluntary registration process described above.<span>&nbsp; </span></span><span></span>&nbsp;</p>
-<p>&nbsp;</p>
-<h2>Web Beacons&nbsp;</h2>
-<p>Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.</p>
-<p>We partner with FetchBack to serve ads and/or collect certain information when you visit our website. FetchBack may use cookies or web beacons to collect non-personally identifiable information such as IP Address, pages viewed, and if a conversion occurred during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <a href="http://www.FetchBack.com/optout.html">www.FetchBack.com/optout.html</a>.</p>
-<p>&nbsp;</p>
+<p>Cookies are used to specify a visitor’s preferences and to analyze a visitor’s Website usage trends and patterns. This helps us to better understand our visitors’ needs and improve areas of our services that our visitors may find valuable. While both of these activities depend on the use of cookies, you have the option of disabling the cookies via your internet browser preferences.  This may prevent you from taking full advantage of the Websites and some services may not function properly or operate slower.</p>
+<p>We use Google’s services to display our advertisements on the internet. Google utilizes cookies to display our advertisements based on your visit to the Websites. You may specifically opt out of Google’s use of cookies by visiting <a href="http://www.google.com/privacy_ads.html" title="Link To: http://www.google.com/privacy_ads.html" target="_blank">www.google.com/privacy_ads.html</a> or <a href="http://www.google.com/privacy_ads.html" title="Link To: http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">www.networkadvertising.org/managing/opt_out.asp</a>.</p>
+<p>We do not save passwords or credit card information in cookies.   A cookie does not provide us access to your computer or any information about you, other than the data you choose to share with us as part of the voluntary registration process described above.</p>
+<h2>Web Beacons</h2>
+<p>Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel GIFs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.</p>
+<p>We partner with FetchBack to serve ads and/or collect certain information when you visit our Websites. FetchBack may use cookies or web beacons to collect non-personally identifiable information such as IP Address, pages viewed, and if a conversion occurred during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <a href="http://www.FetchBack.com/optout.html">www.FetchBack.com/optout.html</a>.</p>
 <h2>How Jackson Hewitt May Use the Collected Information</h2>
-<p><span>Jackson Hewitt does not sell or market your personal information to any third parties. </span><span>We use information collected on the Website for the following:</span>&nbsp;</p>
-<span><ul>
-<li><span><span><span></span></span></span><span dir="ltr"><span>To provide the products and services you request and communicate with you regarding those requests</span></span>&nbsp;</li>
-<li><span><span><span></span></span></span><span dir="ltr"><span>Internal market analysis</span></span>&nbsp;</li>
-<li><span><span><span></span></span></span><span dir="ltr"><span>To improve our products and services</span></span>&nbsp;</li>
-<li><span><span><span></span></span></span><span dir="ltr"><span>To provide you with information on new products or special offers </span></span>&nbsp;</li>
-<li><span><span><span></span></span></span><span dir="ltr"><span>To tailor the Website according to your interests</span></span>&nbsp;</li>
-<li><span><span><span></span></span></span><span dir="ltr"><span>For marketing or promotional purposes&nbsp;</span></span>&nbsp;</li>
+<p>Jackson Hewitt does not sell or market your personal information to any third parties. We use information collected on the Websites for the following:</p>
+<ul>
+<li>To provide the products and services you request and communicate with you regarding those requests</li>
+<li>Internal market analysis</li>
+<li>To improve our products and services</li>
+<li>To provide you with information on new products or special offers </li>
+<li>To tailor the Websites according to your interests</li>
+<li>For marketing or promotional purposes</li>
 </ul>
-<p><span>Jackson Hewitt will not disclose to unaffiliated third parties any information collected in a manner that connects you with your personal information, except when we have your permission or under special circumstances, such as when we have a good faith belief that the law requires it. </span><span></span>&nbsp;</p>
-<p><span>We also may use your information to inform you about other products or services available from Jackson Hewitt and our affiliates.<span>&nbsp; </span>You may be offered the opportunity to receive materials or special offers from affiliated third parties. If you opt to receive information from these third parties, we will share your name and e-mail address with such third parties. We may match personal information collected on the Website with affiliated third party data. </span>&nbsp;</p>
-<p><span>Jackson Hewitt may keep track of what portions of the Website visitors are viewing and other visitor statistics such as geographic location, and aggregate this information to help us create a better experience for future Website visits. This is all done without knowing your name or other personal information in order to describe our viewers and services to prospective partners, advertisers, and other third parties, and for other lawful purposes.</span>&nbsp;</p>
-<p>&nbsp;</p>
-<h2><span>How Your Personal Information May&nbsp;Be Shared with Third&nbsp;Parties</span></h2>
-<span><p>Jackson Hewitt may disclose the personal information you provide to us to our business partners, sponsors or affiliates so they can assist us in providing the services you request.<span>&nbsp; </span>By requesting information from our business partners, sponsors, and affiliates through the Website, you give us permission to transfer your personal information to them so they can fulfill your request.</p>
-<p>&nbsp;</p>
+<p>Jackson Hewitt will not disclose to unaffiliated third parties any information collected in a manner that connects you with your personal information, except when we have your permission or under special circumstances, such as when we have a good faith belief that the law requires it.</p>
+<p>We also may use your information to inform you about other products or services available from Jackson Hewitt and our affiliates.  You may be offered the opportunity to receive materials or special offers from affiliated third parties. If you opt to receive information from these third parties, we will share your name and e-mail address with such third parties. We may match personal information collected on the Websites with affiliated third party data.</p>
+<p>Jackson Hewitt may keep track of what portions of the Websites visitors are viewing and other visitor statistics such as geographic location, and aggregate this information to help us create a better experience for future Website visits. This is all done without knowing your name or other personal information in order to describe our viewers and services to prospective partners, advertisers, and other third parties, and for other lawful purposes.</p>
+<p>Our use or disclosure of your information whether collected by us, uploaded by you, or otherwise provided to us, may be limited by §7216 of the Internal Revenue Code, the Gramm Leach Bliley Act of 1999, and certain other laws, as well as our policies. Section 7216 of the Internal Revenue Code requires that we obtain your consent (Opt in) to the disclosure and use of information you provide us in connection with your tax return information. We will not disclose or use your tax return information for any purpose other than preparing, assisting in preparing, or obtaining or providing services in connection with the preparation of your tax return unless you authorize us to do so, except when expressly required or authorized by law, necessary to the preparation of the tax return, or pursuant to court order. See Consent to Disclosure of Tax Return Information Consent form and Consent to Use of Tax Return Information Consent form. We may use or disclose your personally identifiable information as described below or where you have provided consent under §7216, or as otherwise permitted by applicable laws.</p>
+<ul>
+<li>We may use personally identifiable information about you to fulfill your requests for our services, to respond to your inquiries about those services, and to describe other products, programs, or services that we believe may be of interest to you.</li>
+<li>We sometimes use this information to communicate with you, such as to contact you about your account with us or to provide you with important products or service information.</li>
+<li>We may disclose the personally identifiable information described above to our affiliates to enhance our services and provide you with additional product and service opportunities that we believe may be of interest to you.</li>
+<li>A separate Jackson Hewitt Tax Service Privacy Policy will be provided to you at the time of tax preparation and will further explain how we handle your tax return information.  We may use or disclose personally identifiable information about you to the following types of third parties: Financial service providers; non-financial companies, such as retailers and direct marketers; and others.</li>
+<li>We may also provide information to non-affiliated third parties that perform operational services related to your account or marketing services for us. Sharing information with these types of companies is permitted by law. Such a company might include a financial service provider with whom we have a joint marketing agreement or a non-financial company (such as a data processor or Internet service provider) with whom we have a service agreement. The information we may share also comes from the sources described above and might include your name, address, phone number and account experience with us.</li>
+<li>If you apply for a product or service, we will ask you to authorize us to disclose your tax return information to the financial institution providing such product or service. See Consent to Disclosure of Tax Return Information Consent form. You should review the agreements and the privacy policies of the financial institution to understand how it may use and disclose your personal information.</li>
+<li>We may disclose personally identifiable information in response to legal process, for example, in response to a court order, subpoena, legal process, process, or other judicial, administrative, or investigative proceeding, or where we have a good faith belief that such disclosure is required by law. We also may disclose such information where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or for other purposes permitted or required by law. In addition, we may transfer information about you if we are acquired by or merged with another company.</li>
+</ul>
+<h2>How Your Personal Information May Be Shared with Third Parties</h2>
+<p>Jackson Hewitt may disclose the personal information you provide to us to our business partners, sponsors or affiliates so they can assist us in providing the services you request.  By requesting information from our business partners, sponsors, and affiliates through the Websites, you give us permission to transfer your personal information to them so they can fulfill your request.</p>
 <h2>Blogs</h2>
-<p>If you use our blog on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. &nbsp;We are not responsible for the personally identifiable information you choose to submit in these forums.</p>
-<p>&nbsp;</p>
-<h2>Third Party Websites<span>&nbsp;</span></h2>
-<span><p><span><span>The Website may contain links to other affiliated websites or websites of interest that are not under our direction or control. &nbsp; These third party websites may include social networking websites and websites of advertisers, sponsors and partners that may contain our or our affiliates’ logo as part of a co-branding agreement. &nbsp; These other sites may send their own cookies to visitors, collect data, or solicit information. &nbsp; Therefore, we cannot be responsible for the protection and privacy of any information you may provide while visiting such sites. &nbsp;This privacy policy does not apply to those sites and only applies to <a href="http://www.jacksonhewitt.com" title="www.jacksonhewitt.com">www.jacksonhewitt.com</a>. You should exercise caution and review the privacy policy of those websites you are visiting.</span></span>&nbsp;</p>
-<span><p>&nbsp;</p>
-<h2><span>Other Uses</span></h2>
-</span><p>We may also disclose collected information in certain cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with any of our rights or property, visitors, or anyone else. &nbsp; We may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.</p>
-<p>&nbsp;</p>
+<p>If you use our blog on our Websites, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.</p>
+<h2>Third Party Websites</h2>
+<p>The Websites may contain links to other affiliated websites or websites of interest that are not under our direction or control. These third party websites may include social networking websites and websites of advertisers, sponsors and partners that may contain our or our affiliates’ logo as part of a co-branding agreement. These other sites may send their own cookies to visitors, collect data, or solicit information. Therefore, we cannot be responsible for the protection and privacy of any information you may provide while visiting such sites. This privacy policy does not apply to those sites and only applies to our Websites. You should exercise caution and review the privacy policy of those websites you are visiting.</p>
+<h2>Other Uses</h2>
+<p>We may also disclose collected information in certain cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with any of our rights or property, visitors, or anyone else.   We may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.</p>
 <h2>Live Chat</h2>
-<p>We use live chat to assist you with answers to your questions concerning our product and its offerings. As an unregistered user you can ask questions anonymously to help you decide which product package would be best for you. &nbsp;For registered users, we collect email address and account information to create a customer contact record to assist our Support Center in handling questions. &nbsp; &nbsp;Our hours of Chat operations are published within the chat feature. &nbsp;Ours side of the chat hours of operation you have the option to email us your question. We ask for your email address so we can follow up on your question.</p>
-<p>&nbsp;</p>
-<h2><span>Security</span></h2>
-<p><span>The security of all information associated with our Website visitors is important to us. We exercise considerable care in providing secure transmission of your information from your computer to our servers or those of our business partners.&nbsp;</span>&nbsp;</p>
-<p>When you enter sensitive information (such as credit card number and/or social security number,) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). &nbsp;To learn more about SSL, follow this link <a href="https://www.entrust.net/customer/profile.cfm?domain=www.jacksonhewitt.com" title="Link To: https://www.entrust.net/customer/profile.cfm?domain=www.jacksonhewitt.com" target="_blank">https://www.entrust.net/customer/profile.cfm?domain=www.jacksonhewitt.com</a>.</p>
-<span><p>&nbsp;</p>
-<h2><span>Phishing</span></h2>
-</span><p><span>“Phishing” is a scam designed to steal your personal information.<span>&nbsp; </span>If you receive an email that looks like it is from Jackson Hewitt asking you for your personal information, do not respond.<span>&nbsp; </span>We will never request your personal information or credit card information through email.</span>&nbsp;</p>
-<p>&nbsp;</p>
-<h2><span>Controlling Your Personal Information<span>&nbsp; </span></span></h2>
-<p><span>You may choose to restrict Jackson Hewitt’s use of your personal information.&nbsp;&nbsp; If you have provided your personal information to Jackson Hewitt and subsequently decide to restrict the use of this information or if you believe that any personal information we have about you is incorrect or incomplete, please contact us at <span><a href="https://JacksonHewitt.custhelp.com/app/ask" title="https:/JacksonHewitt.custhelp.com/app/ask" target="_blank">https://JacksonHewitt.custhelp.com/app/ask</a></span>&nbsp;or by calling 1-877-476-3353.</span>&nbsp;</p>
-<p><span>Please feel free to contact Jackson Hewitt at <span><a href="https://JacksonHewitt.custhelp.com/app/ask" title="Link To: https://JacksonHewitt.custhelp.com/app/ask" target="_blank">https://JacksonHewitt.custhelp.com/app/ask</a></span>&nbsp;or by calling 1-877-476-3353 if you have any questions or concerns regarding this privacy policy or Jackson Hewitt’s collection and use of your personal information.</span><span><span>&nbsp;</span></span>&nbsp;</p>
-<p>&nbsp;</p>
-<h2><span>Your California Privacy Rights</span></h2>
-<p><span><span>California Civil Code Section 1798.83 permits Jackson Hewitt customers who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to <span><a href="https://jacksonhewitt.custhelp.com/app/ask" target="_blank">https://jacksonhewitt.custhelp.com/app/ask</a></span></span><span>&nbsp;or by calling 1-877-476-3353.</span></span>&nbsp;</p>
-</span></span><p>&nbsp;</p>
-<h2>&nbsp;<span>ACCEPTANCE OF THESE TERMS</span></h2>
-<p><span>You understand that any information you provide through the Website will be governed by this privacy policy.</span>&nbsp;</p>
-<p>&nbsp;</p>
-<h2><span>IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THIS SITE. </span></h2>
-<p><span>Your continued use of the Website following the posting of changes to these terms will mean you accept such changes. </span><span>If we amend this privacy policy to permit material changes in the way we collect, use, and/or share your personal information, we will notify you of such amendment by prominently posting notice of such amendment on the Website’s homepage.</span>&nbsp;</p>
-<p><span><strong><em>This Privacy Policy is effective January 20, 2011.</em></strong></span>&nbsp;</p>
-<p>&nbsp;</p>
+<p>We use live chat to assist you with answers to your questions concerning our product and its offerings. As an unregistered user you can ask questions anonymously to help you decide which product package would be best for you. For registered users, we collect email address and account information to create a customer contact record to assist our Support Center in handling questions.  Our hours of Chat operations are published within the chat feature. Outside of the chat hours of operation you have the option to email us your question. We ask for your email address so we can follow up on your question.</p>
+<h2>Security</h2>
+<p>The security of all information associated with our Website visitors is important to us. We exercise considerable care in providing secure transmission of your information from your computer to our servers or those of our business partners.</p>
+<p>When you enter sensitive information (such as credit card number and/or social security number,) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link: <a href="https://www.entrust.net/customer/profile.cfm?domain=www.jacksonhewitt.com" title="Link To: https://www.entrust.net/customer/profile.cfm?domain=www.jacksonhewitt.com" target="_blank">https://www.entrust.net/customer/profile.cfm?domain=www.jacksonhewitt.com</a>.</p>
+<h2>Data Encryption</h2>
+<p>Data encryption is the process of transforming legible information into a complex arrangement of illegible information. SSL uses a private/public key combination to encrypt data when it is sent and to decrypt data when it is received. SSL encrypts data using a mathematical formula, also referred to as a "key." Encryption strength is measured by the length of the key used to encrypt the data; the longer the key, the more effective the encryption. Using the SSL protocol, data transmission between you and our web server is performed at a standard level of encryption strength.</p>
+<h2>Web Server Authentication</h2>
+<p>An SSL certificate is issued to ensure authentic and accurate identification of a secured web server. This translates into a digital ID, an electronic fingerprint, which is included in the key used to encrypt the data. Only our web server, in this case, is able to decrypt the data that you transmit because it is the intended (and digitally certified) secured web server for this data transmission.</p>
+<h2>Phishing</h2>
+<p>“Phishing” is a scam designed to steal your personal information.  you receive an email that looks like it is from Jackson Hewitt asking you for your personal information, do not respond. We will never request your personal information or credit card information through email.</p>
+<h2>Controlling Your Personal Information</h2>
+<p>You may choose to restrict Jackson Hewitt’s use of your personal information. If you have provided your personal information to Jackson Hewitt and subsequently decide to restrict the use of this information or if you believe that any personal information we have about you is incorrect or incomplete, please contact us at <a href="https://JacksonHewitt.custhelp.com/app/ask" title="https://JacksonHewitt.custhelp.com/app/ask" target="_blank">https://JacksonHewitt.custhelp.com/app/ask</a> or by calling 1-877-476-3353.</p>
+<p>Please feel free to contact Jackson Hewitt at <a href="https://JacksonHewitt.custhelp.com/app/ask" title="Link To: https://JacksonHewitt.custhelp.com/app/ask" target="_blank">https://JacksonHewitt.custhelp.com/app/ask</a> or by calling 1-877-476-3353 if you have any questions or concerns regarding this privacy policy or Jackson Hewitt’s collection and use of your personal information.</p>
+<h2>Your California Privacy Rights</h2>
+<p>California Civil Code Section 1798.83 permits Jackson Hewitt customers who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send us an email by completing the form at <a href="https://jacksonhewitt.custhelp.com/app/ask" target="_blank">https://jacksonhewitt.custhelp.com/app/ask</a> or by calling 1-877-476-3353.</p>
+<h2>ACCEPTANCE OF THESE TERMS</h2>
+<p>You understand that any information you provide through our Websites will be governed by this privacy policy.</p>
+<h2>IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THESE SITES.</h2>
+<p>Your continued use of the Websites following the posting of changes to these terms will mean you accept such changes. If we amend this privacy policy to permit material changes in the way we collect, use, and/or share your personal information, we will notify you of such amendment by prominently posting notice of such amendment on the Websites’ homepages.</p>
+<p><strong><em>This Privacy Policy is effective January 10, 2013.</em></strong>&nbsp;</p>
 <h2>Mailing Address</h2>
-<blockquote><p>Jackson Hewitt Inc.<br>Attention - Client Care<br>3 Sylvan Way, Suite 301, Parsippany, NJ 07054</p>
+<blockquote><p>
+Jackson Hewitt Inc.<br>
+Attention - Client Care<br>
+3 Sylvan Way, Suite 301, Parsippany, NJ 07054
+</p>
 </blockquote>
-<div>&nbsp;</div>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</span>
+
 
 &nbsp;</div>
 </div>
@@ -340,7 +369,7 @@ Jackson Hewitt Inc. (“Jackson Hewitt,” “we,” “us” or “our”) reco
 
 
     </div>
-    <div class="content-right" style="min-height: 4157px; height: auto;">
+    <div class="content-right" style="min-height: 4434px; height: auto;">
         
 
 <div id="ctl00_cphMain_dzTopRightColumn_updatepanel">
@@ -364,7 +393,7 @@ Jackson Hewitt Inc. (“Jackson Hewitt,” “we,” “us” or “our”) reco
                 
         
         <div id="ctl00_cphMain_dzTopRightColumn_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_WidgetHost_widget_CB">
-			<div class="content-right" style="min-height: 4157px; height: auto;"><div style="clear: both; ">&nbsp;</div>
+			<div style="clear: both;">&nbsp;</div>
 <h3 class="recent">OTHER INQUIRIES</h3>
 <div class="relatedcontent"><ul>
 <li><a target="_blank" href="/officelocator.aspx">Find a Jackson Hewitt Office</a>&nbsp;</li>
@@ -376,7 +405,6 @@ Jackson Hewitt Inc. (“Jackson Hewitt,” “we,” “us” or “our”) reco
 </ul>
 <br><br><br>
 &nbsp;</div>
-</div>
 		</div>
         
         
@@ -499,7 +527,7 @@ Jackson Hewitt Inc. (“Jackson Hewitt,” “we,” “us” or “our”) reco
 <div class="footer">
   <div class="footerMenu">
     <div class="wrap">
-        <span id="ctl00_pageFooter_fmFooterBrowse"><ul><li class="first"><h2 id="footer_oursites">OUR SITES</h2><ol><li class="first"><a href="http://www.jacksonhewittonline.com" target="_blank">Jackson Hewitt Online</a></li><li><a href="http://www.jacksonhewittfranchise.com" target="_blank">Jackson Hewitt Franchise Info</a></li><li><a href="http://local.jacksonhewitt.com" target="_blank">Our Tax Preparation Locations</a></li><li><a href="/blog" target="_blank">Jackson Hewitt Tax Talk Blog</a></li><li><a href="http://www.facebook.com/jacksonhewitt" target="_blank">Jackson Hewitt on Facebook</a></li><li><a href="http://www.twitter.com/jacksonhewitt" target="_blank">Jackson Hewitt on Twitter</a></li><li><a href="http://www.youtube.com/jacksonhewitt" target="_blank">Jackson Hewitt on YouTube</a></li></ol></li><li><h2 id="footer_browse">BROWSE THIS SITE</h2><ol><li class="first"><a href="/Do-Your-Taxes-Online/Do-Your-Taxes-Online" target="_self">Do Your Taxes Online</a></li><li><a href="/Do-your-Taxes-In-Office/In-Office-Products-and-Services/" target="_self">Do Your Taxes In-Office</a></li><li><a href="/Resource-Center/Tax-Tools-Resources/" target="_self">Tax Tools &amp; Resources</a></li><li><a href="/MyTaxManager/Home/" target="_blank">MyTaxManager</a></li><li><a href="/Pages/Become-a-Tax-Preparer/Learn-Tax-Preparation/" target="_self">Become a Tax Preparer</a></li><li><a href="http://www.jacksonhewittfranchise.com" target="_self">Own a Franchise</a></li><li><a href="/About-Us/About-Us/" target="_self">About Us</a></li><li><a href="/About-Us/Press-Releases/" target="_self">Press Releases</a></li></ol></li><li><h2 id="footer_taxhelp">TAX HELP CENTER</h2><ol><li class="first"><a href="/Pages/Resource-Center/Tax-Forms/" target="_self">Tax Forms</a></li><li><a href="/MyTaxManager/Resources/Tax-Tips/Filing-Status/" target="_blank">Filing Status</a></li><li><a href="/Resource-Center/Tips-and-Deductions/Overlooked-Credits/" target="_self">Tax Credits</a></li><li><a href="/MyTaxManager/Resources/Calculators/2011-Federal-Income-Tax-Estimator/" target="_blank">Tax Calculators</a></li><li><a href="/MyTaxManager/Resources/Top-50-Overlooked-Deductions/" target="_blank">Income Tax Deductions</a></li><li><a href="/MyTaxManager/Resources/Deductions@Work/" target="_blank">Tax Deductions@Work</a></li><li><a href="/MyTaxManager/Resources/Disaster-Recovery/What-To-Do-in-A-Disaster/" target="_blank">Disaster Tax Relief</a></li><li><a href="/MyTaxManager/Resources/Tax-Tips/" target="_blank">Tax Tips</a></li></ol></li><li><h2 id="footer_contact">CONTACT US</h2><ol><li class="first"><a href="https://jacksonhewitt.custhelp.com/app/answers/list/" target="_self">Ask Jackson</a></li><li><a href="/Contact-Us/Site-Feedback/" target="_self">Site Feedback</a></li><li><a href="/Contact-Us/Media/" target="_self">Media</a></li><li><a href="/Contact-Us/Careers/" target="_self">Careers at Jackson Hewitt</a></li><li><a href="/SiteMap/" target="_self">Sitemap</a></li></ol></li><li class="last"><h2>SEARCH</h2><div class="zip"><input type="text" id="footersearch" value="Enter Keyword"><input type="button" value="GO" id="footersearch-go"></div><div class="eDoc"><a href="/Resource-Center/eDocuments/">
+        <span id="ctl00_pageFooter_fmFooterBrowse"><ul><li class="first"><h2 id="footer_oursites">OUR SITES</h2><ol><li class="first"><a href="http://www.jacksonhewittonline.com" target="_blank">Jackson Hewitt Online</a></li><li><a href="http://www.jacksonhewittfranchise.com" target="_blank">Jackson Hewitt Franchise Info</a></li><li><a href="http://local.jacksonhewitt.com" target="_blank">Our Tax Preparation Locations</a></li><li><a href="/blog" target="_blank">Jackson Hewitt Tax Talk Blog</a></li><li><a href="http://www.facebook.com/jacksonhewitt" target="_blank">Jackson Hewitt on Facebook</a></li><li><a href="http://www.twitter.com/jacksonhewitt" target="_blank">Jackson Hewitt on Twitter</a></li><li><a href="http://www.youtube.com/jacksonhewitt" target="_blank">Jackson Hewitt on YouTube</a></li></ol></li><li><h2 id="footer_browse">BROWSE THIS SITE</h2><ol><li class="first"><a href="/Do-Your-Taxes-Online/Do-Your-Taxes-Online" target="_self">Do Your Taxes Online</a></li><li><a href="/Do-your-Taxes-In-Office/In-Office-Products-and-Services/" target="_self">Do Your Taxes In-Office</a></li><li><a href="/Resource-Center/Tax-Tools-Resources/" target="_self">Tax Tools &amp; Resources</a></li><li><a href="/MyTaxManager/Home/" target="_blank">MyTaxManager</a></li><li><a href="/Pages/Become-a-Tax-Preparer/Learn-Tax-Preparation/" target="_self">Online Tax Preparation Courses – Tax Preparation Classes Online</a></li><li><a href="http://www.jacksonhewittfranchise.com" target="_self">Own a Franchise</a></li><li><a href="/Resource-Center/Affordable-Care-Act/" target="_self">Affordable Care Act</a></li><li><a href="/About-Us/About-Us/" target="_self">About Us</a></li><li><a href="/About-Us/Press-Releases/" target="_self">Press Releases</a></li></ol></li><li><h2 id="footer_taxhelp">TAX HELP CENTER</h2><ol><li class="first"><a href="/Pages/Resource-Center/Tax-Forms/" target="_self">IRS Tax Forms</a></li><li><a href="/MyTaxManager/Resources/Tax-Tips/Filing-Status/" target="_blank">Tax Filing Status</a></li><li><a href="/Resource-Center/Tips-and-Deductions/Overlooked-Credits/" target="_self">IRS Tax Credits</a></li><li><a href="/MyTaxManager/Resources/Calculators/2012-Federal-Income-Tax-Estimator/" target="_blank">IRS Tax Calculators</a></li><li><a href="/MyTaxManager/Resources/Top-50-Overlooked-Deductions/" target="_blank">Income Tax Deductions</a></li><li><a href="/MyTaxManager/Resources/Deductions@Work/" target="_blank">Tax Deductions@Work</a></li><li><a href="/MyTaxManager/Resources/Disaster-Recovery/What-To-Do-in-A-Disaster/" target="_blank">Disaster Tax Relief</a></li><li><a href="/MyTaxManager/Resources/Tax-Tips/" target="_blank">Tax Tips</a></li></ol></li><li><h2 id="footer_contact">CONTACT US</h2><ol><li class="first"><a href="https://jacksonhewitt.custhelp.com/app/answers/list/" target="_self">Ask Jackson</a></li><li><a href="/Contact-Us/Site-Feedback/" target="_self">Site Feedback</a></li><li><a href="/Contact-Us/Media/" target="_self">Media</a></li><li><a href="/Contact-Us/Careers/" target="_self">Careers at Jackson Hewitt</a></li><li><a href="/SiteMap/" target="_self">Sitemap</a></li></ol></li><li class="last"><h2>SEARCH</h2><div class="zip"><input type="text" id="footersearch" value="Enter Keyword"><input type="button" value="GO" id="footersearch-go"></div><div class="eDoc"><a href="/Pages/Resource-Center/eDocuments/">
                 ACCESS <br>eDOCUMENTS &gt;
               </a></div></li></ul></span>
     </div>
