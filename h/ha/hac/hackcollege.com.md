@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hackcollege.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231122007id_/http%3A//www.hackcollege.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackcollege.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604110534id_/http%3A//www.hackcollege.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HackCollege
+# Privacy Policy - HackCollege
 
 HackCollege.com’s privacy policy serves to explain to its users what personal information we collect, why we collect it, and under what circumstances we will share it. If any of our information rules change, we may update this policy to display those changes. We urge you to check our privacy policy from time to time so that you can maintain a current knowledge of our information practices. 
 
