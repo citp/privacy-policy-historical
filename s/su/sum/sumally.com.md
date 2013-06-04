@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumally.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111014800id_/http%3A//sumally.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumally.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604090212id_/http%3A//sumally.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Sumally / Privacy Policy
 
@@ -54,6 +54,6 @@ The company is not responsible in the following cases, for the acquisition of pe
 
 When a change occurs, we will inform users as soon as possible. These changes may include: the acquisition of personal information of users, as well as the scope, and purpose of acquiring personal information.
 
-Please contact the user support center: info@sumally.com
+Please contact the user support center: hello@sumally.com
 
 We use cookies to retrieve personal information and we use cookies to allow a user to revisit our site and use our service more conveniently.
