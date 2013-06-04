@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uploading.to privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022132917id_/http%3A//www.uploading.to/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploading.to privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604232417id_/http%3A//www.uploading.to/privacy) for the most accurate reproduction.*
 
-# Uploading.to - Upload files to Multiple File Hosts in one click
+# Uploading.to - Mirror your files in one click
 
 ## Your Privacy
 
