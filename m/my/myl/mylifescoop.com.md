@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mylifescoop.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225174703id_/http%3A//mylifescoop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylifescoop.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605011541id_/http%3A//mylifescoop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement for MyLifeScoop.com - My Life Scoop
+# Privacy Statement for MyLifeScoop.com | LifeScoop
 
 The web site MyLifeScoop.com (“Site”) is a website of Intel Corporation (“Intel”) who is committed to protecting the privacy of information you provide to this site. This Statement of Privacy applies to the Site and governs collection and usage of personal data through this Site. This Statement of Privacy does not apply to other Intel sites, products, or services.
 
@@ -21,3 +21,5 @@ Intel will disclose your personal information, without notice, only if required 
 **Links to Other Sites:** This site contains links to other sites. Intel are not responsible for the privacy practices or the content of third party Web sites you may access through the Site.
 
 **Inquiries:** If you have any questions about this privacy statement — if, for example, you wish to inspect or update the information we hold about you — please Contact Us. (will link to contact form or auto-open new email message with pre-populated email address).
+
+Copyright 2001 - 2013 - All Rights Reserved
