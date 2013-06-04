@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inetzeal.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125102422id_/http%3A//www.inetzeal.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetzeal.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605012919id_/http%3A//www.inetzeal.com/privacy_policy.html) for the most accurate reproduction.*
 
 # iNetZeal.com - Privacy Policy
 
