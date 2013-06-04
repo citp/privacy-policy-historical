@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stickpage.com privacy policy that was archived on 2012-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121130055727id_/http%3A//www.stickpage.com/privacypolicy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stickpage.com privacy policy that was archived on 2013-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604070325id_/http%3A//www.stickpage.com/privacypolicy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 <title>Stickpage.com Privacy Policy</title>
@@ -9,9 +9,11 @@
 <link rel="shortcut icon" href="/favicon.ico">
 
 <!-- Javascript Libraries -->
-<script type="text/javascript" src="/js/jquery.js"></script>
+<!-- <script type="text/javascript" src="/js/jquery.js"></script> -->
+<script src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <script type="text/javascript" src="/js/jquery.countdown.min.js"></script>
-<script type="text/javascript" src="/js/swfobject.js"></script>
+<!-- <script type="text/javascript" src="/js/swfobject.js"></script> -->
 
 <!-- Application Includes and Styles -->
 <script type="text/javascript" src="/js/application.js"></script>
@@ -42,32 +44,33 @@
 
 	<div style="position:absolute;top:5px;right:20px;height:23px;">
 				<a href="http://forums.stickpage.com/register.php">Login or Register</a>
-		    </div>
+		  </div>
 </div>
 
 <!-- Stick Empires site skins -->
 <div id="skin_left" style="position:absolute;top:30px;left:50%;margin:0 0 0 -740px;">
-    <img src="/img/stick_empires_skin_left.jpg">
+    <a href="http://www.stickempires.com" target="_blank"><img src="/img/stick_empires_skin_left.jpg"></a>
 </div>
-<div id="skin_right" style="position:absolute;top:30px;left:50%;margin:0 0 0 219px;">
-    <img src="/img/stick_empires_skin_right.jpg">
+<div id="skin_right" style="position:absolute;top:30px;left:50%;margin:0 0 0 390px;">
+    <a href="http://www.stickempires.com" target="_blank"><img src="/img/stick_empires_skin_right.jpg"></a>
 </div>
 
-    <div id="header_overlap" style="width: 314px; height: 30px; left: 701px; display: block;">
-        <img src="/img/header_overlap_stick_empires.png" width="314" height="30">
-    </div>	
+    <div id="header_overlap" style="width:170px;height:30px;">
+        <img src="/img/header_overlap_killcj.png" width="170" height="30">
+    </div>
 
-<div id="flash_nav_left" style="left: 285px; top: 2683.25px; display: block;">
+<div id="flash_nav_left">
 	<img src="/img/flash_nav1_left.png" width="10" height="250">
 </div>
 <div id="content_container">
 	<div id="header">
 										
-						                		<object id="header_flash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="950" height="220">
-	        <param name="movie" value="/img/header_stick_empires.swf">
+						        						<object id="header_flash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="950" height="220">
+	        <param name="movie" value="/img/header_killcj.swf">
 	        <param name="wmode" value="transparent">
 	        <!--[if !IE]>-->
-	        <object type="application/x-shockwave-flash" data="/img/header_stick_empires.swf" width="950" height="220">
+	        <object type="application/x-shockwave-flash" data="/img/header_killcj.swf" width="950" height="220">
+		        <param name="movie" value="/img/header_killcj.swf">
 	        	<param name="wmode" value="transparent">
 	        </object>
 	        <!--<![endif]-->
@@ -208,17 +211,17 @@ google_ad_height = 250;
 				<a style="color:#000000;" href="http://forums.stickpage.com/register.php">REGISTER</a>
 			</div>
 			<div style="text-align: center; font-weight: bold; font-size: 8pt; color: #000; padding-top: 8px;">
-				STICKPAGE.com copyright © 2012
+				STICKPAGE.com copyright © 2013
 			</div>
 		</div>
 	</div>
 </div>
 
-<div id="footer_left" class="footer_side" style="left: 285px; top: 2949.25px; display: block;">
+<div id="footer_left" class="footer_side">
 	<img src="/img/footer_left.png" width="8" height="45">
 </div>
 
-<div id="footer_right" class="footer_side" style="left: 1073px; top: 2949.25px; display: block;">
+<div id="footer_right" class="footer_side">
 	<img src="/img/footer_right.png" width="8" height="45">
 </div>
 
@@ -260,9 +263,16 @@ function positionHeaderOverlap() {
 		//left: (offset.left + 630)+'px' Header Sergeant
 		//left: (offset.left + 626)+'px' //Header Santa
 		//left: (offset.left + 673)+'px' // Header Steve
-		left: (offset.left + 503)+'px' // Header Stick Empires
+		//left: (offset.left + 503)+'px' // Header Stick Empires
+		left: (offset.left + 573)+'px' // Header Kill CJ
 	});
 	$('#header_overlap').show();
+	/*
+	$('#header_overlap_2').css({
+		left: (offset.left + 37)+'px' // Header Stick Empires + Birthday
+	});
+	$('#header_overlap_2').show();
+	*/
 }
 
 function positionFlashNavLeft() {
@@ -294,13 +304,20 @@ function positionFooterSides() {
 
 function positionBoxNavOverflow() {
 	var offset = $('#flash_nav').offset();
-	var overflow_offset = 210;
+	var overflow_offset = 212;
 
 	if(offset.left > 0) {
 		$('#box_nav_overflow').remove();
-		$('body').append('<div id="box_nav_overflow" style="position: absolute; top: '+(offset.top-23)+'px; left: '+(offset.left+overflow_offset)+'px;"><img src="/img/box_nav_overflow.png" width="240" height="25" /></div>');
+		$('body').append('<div id="box_nav_overflow" style="position: absolute; top: '+(offset.top-19)+'px; left: '+(offset.left+overflow_offset)+'px;"><img src="/img/box_nav_overflow.png" width="225" height="21" /></div>');
 	}
 }
+
+$(function() {
+	var objects = document.getElementsByTagName('object');
+	for (var i=0, m = objects.length; i < m; i++) {
+	  objects[i].style.display="";
+	}
+});
 </script>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
@@ -311,4 +328,4 @@ urchinTracker();
 
 
 
-<!-- 0.2342s --><div id="box_nav_overflow" style="position: absolute; top: 2656.25px; left: 503px;"><img src="/img/box_nav_overflow.png" width="240" height="25"></div></body></html>
+</body></html>
