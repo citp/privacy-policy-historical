@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jamesclear.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203153216id_/http%3A//jamesclear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesclear.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604042919id_/http%3A//jamesclear.com/privacy-policy) for the most accurate reproduction.*
 
-# Earnings Disclaimer and Privacy Policy | The Art of Becoming Better
+# Earnings Disclaimer and Privacy Policy - James Clear
 
 **FTC EARNINGS DISCLAIMER**
 
@@ -51,4 +51,4 @@ This policy and the use of these Sites are governed by Ohio law. If a dispute ar
 
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Ohio, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
-JamesClear.com is controlled, operated and administered entirely within Ohio. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+JamesClear.com is controlled, operated and administered within Ohio and North Carolina. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
