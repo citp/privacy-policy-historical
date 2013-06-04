@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workday.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101112540id_/http%3A//www.workday.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workday.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604161112id_/http%3A//www.workday.com/company/privacy.php) for the most accurate reproduction.*
 
 # Workday | Workday Legal Privacy Policy
 
@@ -34,7 +34,7 @@ We also use web beacons, or transparent GIF files, provided by our service provi
 
 #### Customer Data
 
-As part of Workday's services, customers may load data into Workday servers. Workday will not share or distribute any such customer data except as provided in the contractual agreement between Workday and customer, or as may be required by law.
+As part of Workday's services, customers may load data into Workday servers. Workday will not share or distribute any such customer data except as provided in the contractual agreement between Workday and customer, or as may be required by law. Please refer to the [Workday Service Privacy Policy](http://www.workday.com/company/service_privacy.php "Workday Service Privacy Policy") for more details.
 
 #### Data Processing
 
@@ -95,6 +95,6 @@ Workday has been awarded TRUSTe’s Privacy Seal signifying that this privacy po
 
 #### Safe Harbor Program Statement
 
-Workday complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at : <http://export.gov/safeharbor>.
+Workday complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at: [export.gov/safeharbor](http://export.gov/safeharbor).
 
-_Last Updated on November 22, 2011_
+_Last Updated on November 20, 2012_
