@@ -1,22 +1,26 @@
-<!--The following is the downloaded HTML source of the pafc.co.uk privacy policy that was archived on 2012-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121204150145id_/http%3A//www.pafc.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pafc.co.uk privacy policy that was archived on 2013-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604190859id_/http%3A//www.pafc.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Prata">
       <link rel="shortcut icon" type="image/ico" href="/images/icons/favicon.ico">
          <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://web.archive.org/web/20130928141416/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
   var adlZone = 'ROS'; 
+var ionosImpressionsUrl = 'http://FLIIONOSAdCapture-173219926.eu-west-1.elb.amazonaws.com/blank.png';
 </script>
 
-<script type="text/javascript" src="/js/combinedHeader_08F34D24E8AE17B4223FAE971EDC9D14.js"></script>
+<script type="text/javascript" src="/combinedjs/combinedHeader_CBC6FB284FFAEE051DD9D264733F7225.js"></script>
 
 <style type="text/css">
-#editorial #splash_box {position:absolute; display:none; padding:0px; z-index:2000; top:30px!important; }
-#editorial #splash_mask {position:absolute; display:none; top:0; left:0; height:100%; width:100%; z-index:1500;}
+#editorial #splash_box {position:absolute; display:none; padding:0px; z-index:2000; top:30px!important; width: 790px!important; height: 628px!important; }
+#editorial #splash_mask {position:absolute; display:none; top:0; left:0; height:100%; width:100%; z-index:1500}
 #editorial .splash_mask_color { background:#000; filter:alpha(opacity=100)!important; -moz-opacity: 1!important; opacity: 1!important; }
+#editorial #splash_content { display: block!important; width: 790px!important; height: 628px!important; }
+#editorial #splash_content .ui-dialog { display: block!important; width: 791px!important; height: 628px!important; }
 </style>
+
         
 	<title>PRIVACY POLICY</title>
 	<meta name="description" content="Privacy Policy">
@@ -26,7 +30,7 @@
 
 	<link rel="stylesheet" href="/css/base.css">
 	<link rel="stylesheet" href="/css/editorial.css">
-	<link rel="stylesheet" href="/css/editorial_skin.css">
+	<link rel="stylesheet" href="/skin/editorial_skin.css">
         <link rel="stylesheet" href="/css/style.css">
 
   	<script>
@@ -41,7 +45,7 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
  var error_response = "<section id='newsletter_signup_popup4' class='block col6 popup'><div class='content'><p class='title'>Some error occurred while saving the subscription information. Please try again later after some time.</p></div><div class='widget_cta clearfix'> <a href='javascript:void(0)' onclick='javascript:closeDialog();' class='cta close' title='Close'>Close</a></div></section>";
 
 	</script>
-<script type="text/javascript" src="/js/combinedtop_E74447515B10018DDBFDAF7956667D4B.js"></script>
+<script type="text/javascript" src="/combinedjs/combinedtop_224C67C7FD1CF36BC2C765D6A92CD8B6.js"></script>
 
 
 <!--[if lt IE 9]>
@@ -67,7 +71,71 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
 
 
 <script language="javascript" type="text/javascript">
+	function AdvertisementTracking(advertInfo, isClick){		
+		/*var advertTrackingLink ;
+		var adGAAccount = "";
+		if(isClick){
+			advertTrackingLink = '/FLiClick/'; 
+		}else{
+			advertTrackingLink = '/FLiImpression/';
+		}
+		advertTrackingLink += "Plymouth Argyle FC : " + advertInfo;
+		trackVirtualPageview(advertTrackingLink, adGAAccount) ;*/
+	}
 
+function IonosImpressionTracking(addata)
+        {
+			var controlId ="objOrders_" +  (addata.replace("#", "")).substring(0,36);
+			var orderIds = $("input[id$=" + controlId + "]").val();
+			SendOrderIds(orderIds); 			
+        }
+
+        function SendOrderIds(orderIds)
+	{
+			if(!(orderIds == null || orderIds == undefined || orderIds.length <= 1))
+			{
+				var url=ionosImpressionsUrl + "?" + orderIds ;	
+
+				try
+				{				
+					if ($.browser.msie && window.XDomainRequest) 
+					{	
+						var xdr = new XDomainRequest();						
+						xdr.open("get", url);																	
+						
+						xdr.onload = function () {
+							var JSON = $.parseJSON(xdr.responseText);
+							if (JSON == null || typeof (JSON) == 'undefined')
+							{
+								JSON = $.parseJSON(data.firstChild.textContent);
+							}
+
+							xdr.onprogress = function(){ };
+							xdr.ontimeout = function(){ };
+							xdr.onerror = function () { };							
+						};	
+					
+						xdr.send();
+					}
+					else
+					{
+					 
+						$.ajax({
+							url: url,																						
+							type: 'GET'  			
+						});
+					}
+				}
+				catch(e)
+				{
+					
+				}
+				
+				
+			}
+	}
+
+	
     ShowSplash();
 
     function ShowSplash() {
@@ -91,12 +159,141 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
             console.error("Splash config error");
         }
     }
+</script><div id="splash_mask" class="ui-widget-overlay" style="height: 768px; opacity: 0.85; display: block; width: 1366px;"></div><div id="splash_box" style="height: 100px; width: 100px; top: 70px; left: 288px; opacity: 1; display: block; background-image: none;"><div id="splash_content" style="display: block;"><!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+
+<!--<![endif]-->
+
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app12.us.archive.org';v.server_ms=210;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/ait-client-rewrite.js" charset="utf-8"></script>
+<script type="text/javascript">
+WB_wombat_Init("https://web.archive.org/web/", "20130928141427", "www.nottinghamforest.co.uk");
 </script>
+<script type="text/javascript" src="/_static/js/wbhack.js" charset="utf-8"></script>
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css">
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css">
+<!-- End Wayback Rewrite JS Include -->
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>FLi Splash</title>
+
+
+<div class="ui-dialog">
+	<div class="ui-dialog-content">
+    <section id="splash" class="block">				
+
+     
+         <div class="optional_module profile_summary">
+
+
+
+      
+
+
+
+
+
+
+<h4>
+
+
+
+</h4>
+<p>We've rebranded our website to provide you with a range of new and exclusive features. So that you're able to enjoy the exciting new site, we need to put cookies on your computer. If you want to know more about what the cookies will be used for see our <a href="/web/20130928141427/http://www.nottinghamforest.co.uk/global/cookie-privacy-policy.aspx" target="_blank">cookie &amp; privacy notice</a>. By entering the site you accept that we will put cookies on your computer.</p>
+</div>     
+    
+
+     
+    
+         <div class="logo"><a href="/web/20130928141427/http://www.nottinghamforest.co.uk/"><img src="/web/20130928141427im_/http://www.nottinghamforest.co.uk/cms_images/team-header/nottforest-header40-3498340-34983.png" width="60" height="60" alt="Nottingham Forest" title="Nottingham Forest"></a></div>
+<div class="titleWrapper"><h2>The official site of  Nottingham Forest</h2></div>
+   
+ <span class="sponsor">Official website sponsor 
+
+
+
+    </span>	
+
+<a href="javascript:void(0);" onclick="fliSplash.box.hide();" class="enter" title="Enter Nottingham Forest"><span>Enter Nottingham Forest</span></a>
+
+<div class="main">
+ 
+
+       
+           <a href="https://web.archive.org/web/20130928141427/http://fliionosadclick-1954213438.eu-west-1.elb.amazonaws.com/AdClickRegistrationService.svc/RegisterClientClick?OrderCampaignUnitID=b572ac99-7c89-49ab-a45e-feea038070af&amp;TargetURL=http%3a%2f%2fwww.player.nottinghamforest.co.uk%2f&amp;TenantID=FLI" onclick="AdvertisementTracking ('Splash Page : Lead Campaign : SMS Fli : Nottingham forest', true);" data-optlable="Splash Page : Lead Campaign : SMS Fli : Nottingham forest" title="" target="_blank"><img alt="" src="https://web.archive.org/web/20130928141427im_/http://files.fliionos.co.uk/FILES/Clubs/ION/en-us/root/Vendors/ExternalVendors/nottinghamforest/images/nottingham%20forest%20finaltcm_9-23228.jpg" height="292" width="763" onload="AdvertisementTracking ( 'Splash Page : Lead Campaign : SMS Fli : Nottingham forest', false);" title=""></a>
+       
+
+     <input type="hidden" id="objOrders_22A94610-5DD0-40D6-8652-536919E97298" value="b572ac99-7c89-49ab-a45e-feea038070af" name="objOrders_22A94610-5DD0-40D6-8652-536919E97298">
+
+
+</div>
+
+<div class="logo_thumb">
+
+<img src="/web/20130928141427im_/http://www.nottinghamforest.co.uk/cms_images/team/notts-forrest40-15228.png" width="31" height="31" alt="logo">
+
+</div>     
+
+
+		<ul>
+		            
+       
+           <li>
+               <a href="https://web.archive.org/web/20130928141427/http://fliionosadclick-1954213438.eu-west-1.elb.amazonaws.com/AdClickRegistrationService.svc/RegisterClientClick?OrderCampaignUnitID=8e0f3fcd-1e6c-4066-b0cf-887f63ff1651&amp;TargetURL=http%3a%2f%2fwww.player.nottinghamforest.co.uk%2f&amp;TenantID=FLI" onclick="AdvertisementTracking ('Splash Page : FLi Promo Campaign : SMS Fli : Nottingham forest fc1', true);" data-optlable="Splash Page : FLi Promo Campaign : SMS Fli : Nottingham forest fc1" title="" target="_blank"><img alt="" src="https://web.archive.org/web/20130928141427im_/http://files.fliionos.co.uk/FILES/Clubs/ION/en-us/root/Vendors/ExternalVendors/nottinghamforestfc1/images/fl_plyr_getcloser_minihpto_champ16tcm_9-23064.jpg" height="92" width="175" onload="AdvertisementTracking ( 'Splash Page : FLi Promo Campaign : SMS Fli : Nottingham forest fc1', false);" title=""></a></li>
+           <li>
+               <a href="https://web.archive.org/web/20130928141427/http://fliionosadclick-1954213438.eu-west-1.elb.amazonaws.com/AdClickRegistrationService.svc/RegisterClientClick?OrderCampaignUnitID=0108ffe0-646f-4642-91a4-38dfe9530008&amp;TargetURL=http%3a%2f%2fitunes.apple.com%2fgb%2fapp%2ffootball-league-official-clubs%2fid385520353%3fmt%3d8&amp;TenantID=FLI" onclick="AdvertisementTracking ('Splash Page : FLi Promo Campaign : HPTO_MINI_FLI_2 : Fli_HPTO_Mini2', true);" data-optlable="Splash Page : FLi Promo Campaign : HPTO_MINI_FLI_2 : Fli_HPTO_Mini2" title="Fli_HPTO_Mini2" target="_blank"><img alt="Fli_HPTO_Mini2" src="https://web.archive.org/web/20130928141427im_/http://files.fliionos.co.uk/FILES/Clubs/pa_15/EN-US/root/Vendors/ExternalVendors/flihptomini2/images/fl_iphone_175x92_awtcm_15-9646.jpg" height="92" width="175" onload="AdvertisementTracking ( 'Splash Page : FLi Promo Campaign : HPTO_MINI_FLI_2 : Fli_HPTO_Mini2', false);" title="Fli_HPTO_Mini2"></a></li>
+       
+
+     <input type="hidden" id="objOrders_141D1868-8F1B-4C7E-A4FE-D80580F9ECC5" value="8e0f3fcd-1e6c-4066-b0cf-887f63ff1651,0108ffe0-646f-4642-91a4-38dfe9530008" name="objOrders_141D1868-8F1B-4C7E-A4FE-D80580F9ECC5">
+                   
+                   
+       
+           <li>
+               <a href="https://web.archive.org/web/20130928141427/http://fliionosadclick-1954213438.eu-west-1.elb.amazonaws.com/AdClickRegistrationService.svc/RegisterClientClick?OrderCampaignUnitID=a791e9b1-da28-4d03-9c23-3818e1a32036&amp;TargetURL=http%3a%2f%2fwww.nffcretail.com%2f&amp;TenantID=FLI" onclick="AdvertisementTracking ('Splash Page : Club Promo Campaign : Match Tickets : Match Tickets 1', true);" data-optlable="Splash Page : Club Promo Campaign : Match Tickets : Match Tickets 1" title="Match Tickets" target="_blank"><img alt="Match Tickets" src="https://web.archive.org/web/20130928141427im_/http://files.fliionos.co.uk/FILES/Clubs/pa_15/EN-US/root/Vendors/ExternalVendors/matchtickets1/images/tickets_mini_hptotcm_15-14421.jpg" height="92" width="175" onload="AdvertisementTracking ( 'Splash Page : Club Promo Campaign : Match Tickets : Match Tickets 1', false);" title="Match Tickets"></a></li>
+           <li>
+               <a href="https://web.archive.org/web/20130928141427/http://fliionosadclick-1954213438.eu-west-1.elb.amazonaws.com/AdClickRegistrationService.svc/RegisterClientClick?OrderCampaignUnitID=0b6135d7-a824-4040-a274-d46c897a190b&amp;TargetURL=http%3a%2f%2fwww.player.nottinghamforest.co.uk%2f&amp;TenantID=FLI" onclick="AdvertisementTracking ('Splash Page : Club Promo Campaign : Forest Player : Forest Player 1', true);" data-optlable="Splash Page : Club Promo Campaign : Forest Player : Forest Player 1" title="Forest Player" target="_blank"><img alt="Forest Player" src="https://web.archive.org/web/20130928141427im_/http://files.fliionos.co.uk/FILES/Clubs/pa_15/EN-US/root/Vendors/ExternalVendors/forestplayer1/images/forestplayer_mini_hptotcm_15-14424.jpg" height="92" width="175" onload="AdvertisementTracking ( 'Splash Page : Club Promo Campaign : Forest Player : Forest Player 1', false);" title="Forest Player"></a></li>
+       
+
+     <input type="hidden" id="objOrders_EE8534FC-592F-4D67-BDA1-E30CF88702D9" value="a791e9b1-da28-4d03-9c23-3818e1a32036,0b6135d7-a824-4040-a274-d46c897a190b" name="objOrders_EE8534FC-592F-4D67-BDA1-E30CF88702D9">
+
+		</ul>
+    </section>
+</div>
+</div>
+
+<!--
+     FILE ARCHIVED ON 14:14:27 Sep 28, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:54:06 Feb 24, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  exclusion.robots.policy: 0.202
+  captures_list: 114.271
+  LoadShardBlock: 74.312 (3)
+  RedisCDXSource: 20.765
+  load_resource: 89.791
+  esindex: 0.016
+  PetaboxLoader3.datanode: 79.463 (4)
+  PetaboxLoader3.resolve: 49.249
+  CDXLines.iter: 15.536 (3)
+  exclusion.robots: 0.217
+--></div></div>
 
 <input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImage" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImage" class="hdnBackgroundImage" value="background-image:url(/cms_images/news/backgroundyellowtint86-238713.jpg); background-repeat: no-repeat; background-position: center top">
 <input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImageUrl" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImageUrl" class="hdnBackgroundImageUrl">
 <input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImageTrackingKey" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImageTrackingKey" class="hdnBackgroundImageTrackingKey" value="Full Page Background">
-
+ 
 
     <div id="gradient_bg">
     
@@ -112,13 +309,18 @@ var adlSite = 'www.pafc.co.uk';
 var mfNWID = new Array(979, 1);
 var adlPro = window.location.protocol == 'https:' ? 'https:' : 'http:';
 Addjs(adlSite, adlZone, mfNWID, adlPro);
-</script>
+</script><script type="text/javascript" src="https://web.archive.org/web/20130928141416/http://js.adlink.net/js?lang=uk&amp;s=www.pafc.co.uk&amp;z=ROS&amp;d=1582534459039"></script>
 
 
 <form method="post" action="#" id="frmSiteMaster">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODMxMzM3MDE4D2QWAmYPZBYCAgQPZBYEAgEPZBYCZg8WAh4EVGV4dAU7PGRpdiBpZD0nQ2x1YlNwb25zb3JzX2xlYWd1ZV9zcG9uc29yJyBjbGFzcz0nbG9hZGVyJz48L2Rpdj5kAgcPZBYKZg9kFgJmDxYCHwAFTTxkaXYgaWQ9J0NsdWJTcG9uc29yc19uZXdzX3NlY3Rpb25fc2VjdGlvbl9zcG9uc29yX3RvcCcgY2xhc3M9J2xvYWRlcic+PC9kaXY+ZAIBD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAIGFgxmD2QWAmYPFQ0FZmlyc3QEbmV3cxNGbGV0Y2ggV2VsY29tZXMgRG9GLS9uZXdzL2FydGljbGUvZmxldGNoLXdlbGNvbWVzLWRvZi01MjQ4MTAuYXNweBNGbGV0Y2ggV2VsY29tZXMgRG9GE0ZsZXRjaCBXZWxjb21lcyBEb0Y5L2Ntc19pbWFnZXMvbmV3cy9jYXJsLWZsZXRjaGVyLTR4My0zODYtNDI3Nzc1XzE1MHgxMTMuanBnCzA0IERlYyAyMDEyLS9uZXdzL2FydGljbGUvZmxldGNoLXdlbGNvbWVzLWRvZi01MjQ4MTAuYXNweAATRmxldGNoIFdlbGNvbWVzIERvRhNGbGV0Y2ggV2VsY29tZXMgRG9GZEFSR1lMRSBtYW5hZ2VyIENhcmwgRmxldGNoZXIgaGFzIHdlbGNvbWVkIHRoZSBjbHVi4oCZcyBkZWNpc2lvbiB0byBmaW5kIGEgbmV3IERpcmVjdG9yIG9mIEZvb3RiYWxsLiBkAgEPZBYCZg8VDQpldmVuIGZpcnN0BG5ld3MTTWFjY2EgSG9wZXMgVG8gU3RheS0vbmV3cy9hcnRpY2xlL21hY2NhLWhvcGVzLXRvLXN0YXktNTIzOTk1LmFzcHgTTWFjY2EgSG9wZXMgVG8gU3RheRNNYWNjYSBIb3BlcyBUbyBTdGF5Ni9jbXNfaW1hZ2VzL25ld3MvYWxleC1tYWNkb25hbGQtMzg2LTM5OTg5NV8xNTB4MTEzLmpwZwswMyBEZWMgMjAxMi0vbmV3cy9hcnRpY2xlL21hY2NhLWhvcGVzLXRvLXN0YXktNTIzOTk1LmFzcHgAE01hY2NhIEhvcGVzIFRvIFN0YXkTTWFjY2EgSG9wZXMgVG8gU3RhebABQUxFWCBNYWNEb25hbGQgcGxheXMgdGhlIGxhc3QgZ2FtZSBvZiBoaXMgbG9hbiBzcGVsbCBmb3IgdGhlIFBpbGdyaW1zIG9uIFR1ZXNkYXkgbmlnaHQsIGJ1dCB0aGUgZm9yd2FyZCBob3BlcyBpdCB3aWxsIG5vdCBiZSB0aGUgbGFzdCB0aW1lIGhlIHB1dHMgb24gdGhlIGdyZWVuIGFuZCB3aGl0ZSBzaGlydC5kAgIPZBYCZg8VDQAFdmlkZW8oUkUtUExBWUVSOiBIb3cgV2UgTWFkZSBUaGUgUXVhcnRlciBGaW5hbDhodHRwOi8vd3d3LnBsYXllci5wYWZjLmNvLnVrL2xhdGVzdC1uZXdzL2FydGljbGUvMTkxNzU4NChSRS1QTEFZRVI6IEhvdyBXZSBNYWRlIFRoZSBRdWFydGVyIEZpbmFsKFJFLVBMQVlFUjogSG93IFdlIE1hZGUgVGhlIFF1YXJ0ZXIgRmluYWwzL2Ntc19pbWFnZXMvdmlkZW8vMDExMjkzMTIxMDA4Ni00MTk2MTZfMTUweDExMy5qcGVnCzAzIERlYyAyMDEyOGh0dHA6Ly93d3cucGxheWVyLnBhZmMuY28udWsvbGF0ZXN0LW5ld3MvYXJ0aWNsZS8xOTE3NTg0D3RhcmdldD0nX2JsYW5rJyhSRS1QTEFZRVI6IEhvdyBXZSBNYWRlIFRoZSBRdWFydGVyIEZpbmFsKFJFLVBMQVlFUjogSG93IFdlIE1hZGUgVGhlIFF1YXJ0ZXIgRmluYWxFQUNUSU9OIGZyb20gb3VyIEpvaG5zdG9uZSYjMzk7cyBQYWludCBUcm9waHkgd2luIG92ZXIgQWtkZXJzaG90IFRvd24uZAIDD2QWAmYPFQ0EZXZlbgV2aWRlbxtWSURFTzogVHVuZWQgRm9yIFRoZSBUcm9waHk4aHR0cDovL3d3dy5wbGF5ZXIucGFmYy5jby51ay9sYXRlc3QtbmV3cy9hcnRpY2xlLzI5OTkyNDUbVklERU86IFR1bmVkIEZvciBUaGUgVHJvcGh5G1ZJREVPOiBUdW5lZCBGb3IgVGhlIFRyb3BoeTsvY21zX2ltYWdlcy92aWRlby8yOTk5MjQ1LTAxMTQ1ODY3NzAwODYtNTIzNjczXzE1MHgxMTMuanBlZwswMyBEZWMgMjAxMjhodHRwOi8vd3d3LnBsYXllci5wYWZjLmNvLnVrL2xhdGVzdC1uZXdzL2FydGljbGUvMjk5OTI0NQ90YXJnZXQ9J19ibGFuaycbVklERU86IFR1bmVkIEZvciBUaGUgVHJvcGh5G1ZJREVPOiBUdW5lZCBGb3IgVGhlIFRyb3BoeaIBQVJHWUxFIG1hbmFnZXIgQ2FybCBGbGV0Y2hlciBsb29rcyBmb3J3YXJkIHRvIHRoZSBQaWxncmltcyYjMzk7IEpvaG5zdG9uZSYjMzk7cyBQYWludCBUcm9waHkgYXJlYSBxdWF0ZXItZmluYWwgd2l0aCBPeGZvcmQgYXQgSG9tZSBQYXJrIG9uIFR1ZXNkYXksIGtpY2stb2ZmIDdwbS4gZAIED2QWAmYPFQ0EbGFzdARuZXdzFEpQVCAtIE9ubHkgT24gUGxheWVyLC9uZXdzL2FydGljbGUvanB0LW9ubHktb24tcGxheWVyLTQxNTUwNi5hc3B4FEpQVCAtIE9ubHkgT24gUGxheWVyFEpQVCAtIE9ubHkgT24gUGxheWVyNy9jbXNfaW1hZ2VzL25ld3MvYXJneWxlLXBsYXllci00eDM4Ni0yNTA2NTRfMTUweDExMy5qcGcLMDMgRGVjIDIwMTIsL25ld3MvYXJ0aWNsZS9qcHQtb25seS1vbi1wbGF5ZXItNDE1NTA2LmFzcHgAFEpQVCAtIE9ubHkgT24gUGxheWVyFEpQVCAtIE9ubHkgT24gUGxheWVylgFUSEVSRSB3aWxsIGJlIGp1c3Qgb25lIHBsYWNlIHRvIGxpc3RlbiB0byBBcmd5bGUmIzM5O3MgSm9obnN0b25lJiMzOTtzIFBhaW50IFRyb3BoeSBjbGFzaCB3aXRoIE94Zm9yZCBVbml0ZWQgb24gVHVlc2RheSAtIHJpZ2h0IGhlcmUgb24gQXJneWxlIFBsYXllci5kAgUPZBYCZg8VDQlldmVuIGxhc3QEbmV3cyNBcmd5bGUgWW91dGggMyBTd2luZG9uIFRvd24gWW91dGggMj0vbmV3cy9hcnRpY2xlL2FyZ3lsZS15b3V0aC0zLXN3aW5kb24tdG93bi15b3V0aC0yLTUyMTk3Ni5hc3B4I0FyZ3lsZSBZb3V0aCAzIFN3aW5kb24gVG93biBZb3V0aCAyI0FyZ3lsZSBZb3V0aCAzIFN3aW5kb24gVG93biBZb3V0aCAyNS9jbXNfaW1hZ2VzL25ld3MvbWF0dC1sZWNvaW50ZS0zODYtMzU4MDg1XzE1MHgxMTMuanBnCzAzIERlYyAyMDEyPS9uZXdzL2FydGljbGUvYXJneWxlLXlvdXRoLTMtc3dpbmRvbi10b3duLXlvdXRoLTItNTIxOTc2LmFzcHgAI0FyZ3lsZSBZb3V0aCAzIFN3aW5kb24gVG93biBZb3V0aCAyI0FyZ3lsZSBZb3V0aCAzIFN3aW5kb24gVG93biBZb3V0aCAyjgFBUkdZTEUmIzM5O1MgeW91bmdzdGVycyBzaG93ZWQgZ29vZCBjaGFyYWN0ZXIgdG8gc25hdGNoIGFsbCB0aHJlZSBwb2ludHMsIGZyb20gdGhpcyBGb290YmFsbCBMZWFndWUgWW91dGggQWxsaWFuY2UgTGVhZ3VlIGdhbWUgYXQgSGF5ZSBSb2FkLi4uZAIDD2QWAmYPFgIfAAXGATwhLS0gUGxhY2VtZW50OlBseW1vdXRoIEFyZ3lsZSBST1MgTVBVICgyNzE1OTU5KSAtLT48ZGl2IGlkPSJtZjI3MTU5NTkiIGNsYXNzPSJtZmMxNzAiPjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij5pZiAodHlwZW9mIGdldEhlbGlvc1RhZyA9PSdmdW5jdGlvbicpIGdldEhlbGlvc1RhZygyNzE1OTU5LCAxNzApOzwvc2NyaXB0PjwvZGl2PmQCBA9kFgJmDxYCHwAFuAE8IS0tIFBsYWNlbWVudDpIYWxmIFBhZ2UgKDM3NzUzMzgpIC0tPjxkaXYgaWQ9Im1mMzc3NTMzOCIgY2xhc3M9Im1mYzUyOSI+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPmlmICh0eXBlb2YgZ2V0SGVsaW9zVGFnID09J2Z1bmN0aW9uJykgZ2V0SGVsaW9zVGFnKDM3NzUzMzgsIDUyOSk7PC9zY3JpcHQ+PC9kaXY+ZAIFD2QWAgIBDxYCHwECAxYGZg9kFgJmDxUKE0ZsZXRjaCBXZWxjb21lcyBEb0YEbmV3cy0vbmV3cy9hcnRpY2xlL2ZsZXRjaC13ZWxjb21lcy1kb2YtNTI0ODEwLmFzcHgAE0ZsZXRjaCBXZWxjb21lcyBEb0YTRmxldGNoIFdlbGNvbWVzIERvRjkvY21zX2ltYWdlcy9uZXdzL2NhcmwtZmxldGNoZXItNHgzLTM4Ni00Mjc3NzVfMTUweDExMy5qcGcLMDQgRGVjIDIwMTITRmxldGNoIFdlbGNvbWVzIERvRmRBUkdZTEUgbWFuYWdlciBDYXJsIEZsZXRjaGVyIGhhcyB3ZWxjb21lZCB0aGUgY2x1YuKAmXMgZGVjaXNpb24gdG8gZmluZCBhIG5ldyBEaXJlY3RvciBvZiBGb290YmFsbC4gZAIBD2QWAmYPFQoTTWFjY2EgSG9wZXMgVG8gU3RheQRuZXdzLS9uZXdzL2FydGljbGUvbWFjY2EtaG9wZXMtdG8tc3RheS01MjM5OTUuYXNweAATTWFjY2EgSG9wZXMgVG8gU3RheRNNYWNjYSBIb3BlcyBUbyBTdGF5Ni9jbXNfaW1hZ2VzL25ld3MvYWxleC1tYWNkb25hbGQtMzg2LTM5OTg5NV8xNTB4MTEzLmpwZwswMyBEZWMgMjAxMhNNYWNjYSBIb3BlcyBUbyBTdGF5sAFBTEVYIE1hY0RvbmFsZCBwbGF5cyB0aGUgbGFzdCBnYW1lIG9mIGhpcyBsb2FuIHNwZWxsIGZvciB0aGUgUGlsZ3JpbXMgb24gVHVlc2RheSBuaWdodCwgYnV0IHRoZSBmb3J3YXJkIGhvcGVzIGl0IHdpbGwgbm90IGJlIHRoZSBsYXN0IHRpbWUgaGUgcHV0cyBvbiB0aGUgZ3JlZW4gYW5kIHdoaXRlIHNoaXJ0LmQCAg9kFgJmDxUKKFJFLVBMQVlFUjogSG93IFdlIE1hZGUgVGhlIFF1YXJ0ZXIgRmluYWwFdmlkZW84aHR0cDovL3d3dy5wbGF5ZXIucGFmYy5jby51ay9sYXRlc3QtbmV3cy9hcnRpY2xlLzE5MTc1ODQPdGFyZ2V0PSdfYmxhbmsnKFJFLVBMQVlFUjogSG93IFdlIE1hZGUgVGhlIFF1YXJ0ZXIgRmluYWwoUkUtUExBWUVSOiBIb3cgV2UgTWFkZSBUaGUgUXVhcnRlciBGaW5hbDMvY21zX2ltYWdlcy92aWRlby8wMTEyOTMxMjEwMDg2LTQxOTYxNl8xNTB4MTEzLmpwZWcLMDMgRGVjIDIwMTIoUkUtUExBWUVSOiBIb3cgV2UgTWFkZSBUaGUgUXVhcnRlciBGaW5hbEVBQ1RJT04gZnJvbSBvdXIgSm9obnN0b25lJiMzOTtzIFBhaW50IFRyb3BoeSB3aW4gb3ZlciBBa2RlcnNob3QgVG93bi5kZH5jNKgwWwrwyua32KHai4qD8DPM">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODMxMzM3MDE4D2QWAmYPZBYCAgQPZBYEAgEPZBYCZg8WAh4EVGV4dAU7PGRpdiBpZD0nQ2x1YlNwb25zb3JzX2xlYWd1ZV9zcG9uc29yJyBjbGFzcz0nbG9hZGVyJz48L2Rpdj5kAgcPZBYGZg9kFgJmDxYCHwAFTTxkaXYgaWQ9J0NsdWJTcG9uc29yc19uZXdzX3NlY3Rpb25fc2VjdGlvbl9zcG9uc29yX3RvcCcgY2xhc3M9J2xvYWRlcic+PC9kaXY+ZAIBD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAIGFgxmD2QWAmYPFQ0FZmlyc3QEbmV3cxBUd28gVHJ1c3RzIFVuaXRlKi9uZXdzL2FydGljbGUvdHdvLXRydXN0cy11bml0ZS04NTI5NzUuYXNweBBUd28gVHJ1c3RzIFVuaXRlEFR3byBUcnVzdHMgVW5pdGU3L2Ntc19pbWFnZXMvbmV3cy9wcmluY2VzLXRydXN0LTR4Mzg2LTg1Mjk1NV8xNTB4MTEzLmpwZwswNCBKdW4gMjAxMyovbmV3cy9hcnRpY2xlL3R3by10cnVzdHMtdW5pdGUtODUyOTc1LmFzcHgAEFR3byBUcnVzdHMgVW5pdGUQVHdvIFRydXN0cyBVbml0ZaMBQVJHWUxF4oCZUyBGb290YmFsbCBpbiB0aGUgQ29tbXVuaXR5IFRydXN0IGhhdmUgcmVjZW50bHkgd29ya2VkIGluIHBhcnRuZXJzaGlwIHdpdGggdGhlIFByaW5jZeKAmXMgVHJ1c3QgdG8gZGVsaXZlciBhIEdldCBTdGFydGVkIHdpdGggRm9vdGJhbGwgY291cnNlIGluIFBseW1vdXRoLmQCAQ9kFgJmDxUNCmV2ZW4gZmlyc3QEbmV3cxJGSUwgTGVuZCBGYW5zIEhhbmQsL25ld3MvYXJ0aWNsZS9maWwtbGVuZC1mYW5zLWhhbmQtODUzNDczLmFzcHgSRklMIExlbmQgRmFucyBIYW5kEkZJTCBMZW5kIEZhbnMgSGFuZDMvY21zX2ltYWdlcy9uZXdzL2ZpbC1idXNlcy00eDM4Ni04NTM0NjRfMTUweDExMy5qcGcLMDQgSnVuIDIwMTMsL25ld3MvYXJ0aWNsZS9maWwtbGVuZC1mYW5zLWhhbmQtODUzNDczLmFzcHgAEkZJTCBMZW5kIEZhbnMgSGFuZBJGSUwgTGVuZCBGYW5zIEhhbmSrAUZJUlNUIEludGVybmF0aW9uYWwgTGVuZGluZyBoYXZlIHRlYW1lZCB1cCB3aXRoIGZlbGxvdyBrZXkgc3BvbnNvcnMgb2YgdGhlIFBpbGdyaW1zLCBUYXJnZXQgVHJhdmVsLCB0byBwcm92aWRlIHRyYW5zcG9ydCBmb3IgZmFucyB0byBIb21lIFBhcmsgZm9yIGV2ZXJ5IG1hdGNoIG5leHQgc2Vhc29uLmQCAg9kFgJmDxUNAARuZXdzFlZpbGxhIEZpcnN0IEZvciBBcmd5bGUwL25ld3MvYXJ0aWNsZS92aWxsYS1maXJzdC1mb3ItYXJneWxlLTg1MzAxNy5hc3B4FlZpbGxhIEZpcnN0IEZvciBBcmd5bGUWVmlsbGEgRmlyc3QgRm9yIEFyZ3lsZTYvY21zX2ltYWdlcy9uZXdzL2VsYnVydG9udmlsbGE0eDM4Ni0yNjk1NTVfMTUweDExMy5qcGcLMDQgSnVuIDIwMTMwL25ld3MvYXJ0aWNsZS92aWxsYS1maXJzdC1mb3ItYXJneWxlLTg1MzAxNy5hc3B4ABZWaWxsYSBGaXJzdCBGb3IgQXJneWxlFlZpbGxhIEZpcnN0IEZvciBBcmd5bGVWQVJHWUxFIHdpbGwgYmVnaW4gdGhlaXIgMjAxMy0xNCBwcmUtc2Vhc29uIGNhbXBhaWduIGluIFBseW1vdXRoLCBidXQgbm90IGF0IEhvbWUgUGFyay5kAgMPZBYCZg8VDQRldmVuBG5ld3MYRGV2ZWxvcG1lbnQgU2lkZSBPbiBUb3VyMi9uZXdzL2FydGljbGUvZGV2ZWxvcG1lbnQtc2lkZS1vbi10b3VyLTg1MjkwMy5hc3B4GERldmVsb3BtZW50IFNpZGUgT24gVG91chhEZXZlbG9wbWVudCBTaWRlIE9uIFRvdXI/L2Ntc19pbWFnZXMvbmV3cy9jb21tdW5pdHktZGV2ZWxvcG1lbnQtNHgzODYtODUyODk3XzE1MHgxMTMuanBnCzAzIEp1biAyMDEzMi9uZXdzL2FydGljbGUvZGV2ZWxvcG1lbnQtc2lkZS1vbi10b3VyLTg1MjkwMy5hc3B4ABhEZXZlbG9wbWVudCBTaWRlIE9uIFRvdXIYRGV2ZWxvcG1lbnQgU2lkZSBPbiBUb3VyaUFSR1lMReKAmVMgRm9vdGJhbGwgaW4gdGhlIENvbW11bml0eSBUcnVzdCBhcmUgZ29pbmcgU3RhdGVzaWRlIHdpdGggdGhlaXIgRWR1Y2F0aW9uIGFuZCBEZXZlbG9wbWVudCBzaWRlLmQCBA9kFgJmDxUNBGxhc3QEbmV3cxTCozUwbSBQbGFuIFN1Ym1pdHRlZCwvbmV3cy9hcnRpY2xlLzUwbS1wbGFuLXN1Ym1pdHRlZC04NTA3NzcuYXNweBTCozUwbSBQbGFuIFN1Ym1pdHRlZBTCozUwbSBQbGFuIFN1Ym1pdHRlZE4vY21zX2ltYWdlcy9uZXdzLzM5MDEtYmRwLWhvbWVwYXJrLWMwMi1yZXRhaWwtcjA0LTY0MHg0ODA4Ni04NTA3NjlfMTUweDExMy5qcGcLMzEgTWF5IDIwMTMsL25ld3MvYXJ0aWNsZS81MG0tcGxhbi1zdWJtaXR0ZWQtODUwNzc3LmFzcHgAFMKjNTBtIFBsYW4gU3VibWl0dGVkFMKjNTBtIFBsYW4gU3VibWl0dGVkL1RIRSDCozUwbSBwbGFuIHRvIHRyYW5zZm9ybSBIaWdoZXIgSG9tZSBQYXJrLi4uZAIFD2QWAmYPFQ0JZXZlbiBsYXN0BG5ld3MOVGFrZSBZb3VyIFNlYXQoL25ld3MvYXJ0aWNsZS90YWtlLXlvdXItc2VhdC04NDUyMTkuYXNweA5UYWtlIFlvdXIgU2VhdA5UYWtlIFlvdXIgU2VhdDEvY21zX2ltYWdlcy9uZXdzL2hvbWVwYXJrNHgzODYtMjI0MzY0XzE1MHgxMTMuanBnCzMwIE1heSAyMDEzKC9uZXdzL2FydGljbGUvdGFrZS15b3VyLXNlYXQtODQ1MjE5LmFzcHgADlRha2UgWW91ciBTZWF0DlRha2UgWW91ciBTZWF0HkFSR1lMRSBNZW1iZXJzIGFyZSByZW1pbmRlZC4uLmQCBQ9kFgICAQ8WAh8BAgMWBmYPZBYCZg8VChBUd28gVHJ1c3RzIFVuaXRlBG5ld3MqL25ld3MvYXJ0aWNsZS90d28tdHJ1c3RzLXVuaXRlLTg1Mjk3NS5hc3B4ABBUd28gVHJ1c3RzIFVuaXRlEFR3byBUcnVzdHMgVW5pdGU3L2Ntc19pbWFnZXMvbmV3cy9wcmluY2VzLXRydXN0LTR4Mzg2LTg1Mjk1NV8xNTB4MTEzLmpwZwswNCBKdW4gMjAxMxBUd28gVHJ1c3RzIFVuaXRlowFBUkdZTEXigJlTIEZvb3RiYWxsIGluIHRoZSBDb21tdW5pdHkgVHJ1c3QgaGF2ZSByZWNlbnRseSB3b3JrZWQgaW4gcGFydG5lcnNoaXAgd2l0aCB0aGUgUHJpbmNl4oCZcyBUcnVzdCB0byBkZWxpdmVyIGEgR2V0IFN0YXJ0ZWQgd2l0aCBGb290YmFsbCBjb3Vyc2UgaW4gUGx5bW91dGguZAIBD2QWAmYPFQoSRklMIExlbmQgRmFucyBIYW5kBG5ld3MsL25ld3MvYXJ0aWNsZS9maWwtbGVuZC1mYW5zLWhhbmQtODUzNDczLmFzcHgAEkZJTCBMZW5kIEZhbnMgSGFuZBJGSUwgTGVuZCBGYW5zIEhhbmQzL2Ntc19pbWFnZXMvbmV3cy9maWwtYnVzZXMtNHgzODYtODUzNDY0XzE1MHgxMTMuanBnCzA0IEp1biAyMDEzEkZJTCBMZW5kIEZhbnMgSGFuZKsBRklSU1QgSW50ZXJuYXRpb25hbCBMZW5kaW5nIGhhdmUgdGVhbWVkIHVwIHdpdGggZmVsbG93IGtleSBzcG9uc29ycyBvZiB0aGUgUGlsZ3JpbXMsIFRhcmdldCBUcmF2ZWwsIHRvIHByb3ZpZGUgdHJhbnNwb3J0IGZvciBmYW5zIHRvIEhvbWUgUGFyayBmb3IgZXZlcnkgbWF0Y2ggbmV4dCBzZWFzb24uZAICD2QWAmYPFQoWVmlsbGEgRmlyc3QgRm9yIEFyZ3lsZQRuZXdzMC9uZXdzL2FydGljbGUvdmlsbGEtZmlyc3QtZm9yLWFyZ3lsZS04NTMwMTcuYXNweAAWVmlsbGEgRmlyc3QgRm9yIEFyZ3lsZRZWaWxsYSBGaXJzdCBGb3IgQXJneWxlNi9jbXNfaW1hZ2VzL25ld3MvZWxidXJ0b252aWxsYTR4Mzg2LTI2OTU1NV8xNTB4MTEzLmpwZwswNCBKdW4gMjAxMxZWaWxsYSBGaXJzdCBGb3IgQXJneWxlVkFSR1lMRSB3aWxsIGJlZ2luIHRoZWlyIDIwMTMtMTQgcHJlLXNlYXNvbiBjYW1wYWlnbiBpbiBQbHltb3V0aCwgYnV0IG5vdCBhdCBIb21lIFBhcmsuZGRZeFLCClrcM6B81FTPpNZZ2vZAsw==">
+</div>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgLIzr6SAQLxt6buAgKD6Zv+AwK4l9ypDQKMw8L1CQK1k/qOAS0egBiZ4W8nEPHOmlT+vW07aTVb">
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgKys8vfDQLxt6buAgKD6Zv+AwK4l9ypDQKMw8L1CQK1k/qOAd45JCtCSNmv+XT7wmFmgocp6bq5">
+</div>
 
 <span title="" id="skip-link"><a title="Skip to main content" accesskey="0" href="#content">Skip to main content</a></span>
 
@@ -126,9 +328,32 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '3245C556-2D2A-432F-93F9-98CCFE7ACAFD$$$pa_34$$$AlwayOn|AlwaysOn$$$1', "SectionName": 'League Sponsor', "ClubName": '' , "isCached" : '', "CacheKey": 'ClubSponsors_league_sponsor', "CombineAdRequest": 'False', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#ClubSponsors_league_sponsor"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '3245C556-2D2A-432F-93F9-98CCFE7ACAFD$$$pa_34$$$AlwayOn|AlwaysOn$$$1', 
+      "SectionName": 'League Sponsor', 
+      "ClubName": '' ,
+       "isCached" : '',
+        "CacheKey": 'ClubSponsors_league_sponsor', "CombineAdRequest": 'False', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'False' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#ClubSponsors_league_sponsor"
+            ,"addata" : '3245C556-2D2A-432F-93F9-98CCFE7ACAFD$$$pa_34$$$AlwayOn|AlwaysOn$$$1'}
+        })
 
 </script>
+
 <div id="ClubSponsors_league_sponsor" class="loader"></div>
 
 </section>
@@ -159,7 +384,7 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
                                     </div>
                      </li>
                      <li class="separator">|</li>  
-                     <li><a title="Bet" target="_blank" onclick="EventTracking('External Link', 'Click','Bet');" href="http://affiliates.betbutler.co.uk/processing/clickthrgh.asp?btag=a_163b_33">Bet</a></li>
+                     <li><a title="Bet" target="_blank" onclick="EventTracking('External Link', 'Click','Bet');" href="javascript:void(0)">Bet</a></li>
                      <li class="separator">|</li>
                      <li><a onclick="EventTracking('External Link', 'Click','Mobile');" title="Mobile" href="/mobile/">Mobile</a></li>
                      <li class="last">
@@ -190,6 +415,9 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
             </li>
             <li>
               <a title="President's Progress" href="/news/Presidents_Progress/">President's Progress</a>
+            </li>
+            <li>
+              <a title="Grandstand Development News" href="/news/Grandstand_News/">Grandstand Development News</a>
             </li>
           </ul>
         </li>
@@ -292,13 +520,19 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
             <li>
               <a title="Away Ticket Details" href="/tickets/Away_Tickets/">Away Ticket Details</a>
             </li>
+            <li>
+              <a title="Contact the Ticket Office" href="/tickets/ticketscontact/">Contact the Ticket Office</a>
+            </li>
           </ul>
         </li>
         <li class="features">
           <h4>Features</h4>
           <ul>
             <li>
-              <a title="Online Tickets" href="https://www.eticketing.co.uk/pafc/default.aspx" target="_blank">Online Tickets</a>
+              <a title="Online Tickets" href="https://www.eticketing.co.uk/pafc/default.aspx" target="_blank">Buy Online Tickets</a>
+            </li>
+            <li>
+              <a title="Ticket Office Opening Hours" href="/tickets/opening_hours.aspx" target="_self">Ticket Office Opening Hours</a>
             </li>
           </ul>
         </li>
@@ -426,6 +660,12 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
         <li class="features">
           <h4>Features</h4>
           <ul>
+            <li>
+              <a title="FL Fan Panel" href="https://www.thechangingroom.uk.com/R.aspx?a=30" target="_blank">FL Fan Panel</a>
+            </li>
+            <li>
+              <a title="Family Zone For All" href="/fans/family_zone.aspx" target="_self">Family Zone For All</a>
+            </li>
           </ul>
         </li>
         <li class="advertorial loader" id="navigation_club_cross_sell_6">
@@ -526,6 +766,9 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
           <ul>
             <li>
               <a title="The 50-50 Lottery" href="/commercial/50_50.aspx" target="_self">The 50-50 Lottery</a>
+            </li>
+            <li>
+              <a title="Contact the Commericial Team" href="/commercial/commercial_contact.aspx" target="_self">Contact the Commericial Team</a>
             </li>
           </ul>
         </li>
@@ -776,9 +1019,32 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '0C0D36C6-8E96-48CF-BDFA-CD1518653068$$$pa_34$$$AlwayOn|AlwaysOn$$$1', "SectionName": '', "ClubName": 'Plymouth Argyle FC' , "isCached" : '', "CacheKey": 'ClubSponsors_news_section_section_sponsor_top', "CombineAdRequest": 'False', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#ClubSponsors_news_section_section_sponsor_top"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '0C0D36C6-8E96-48CF-BDFA-CD1518653068$$$pa_34$$$AlwayOn|AlwaysOn$$$1', 
+      "SectionName": '', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : '',
+        "CacheKey": 'ClubSponsors_news_section_section_sponsor_top', "CombineAdRequest": 'False', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'False' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#ClubSponsors_news_section_section_sponsor_top"
+            ,"addata" : '0C0D36C6-8E96-48CF-BDFA-CD1518653068$$$pa_34$$$AlwayOn|AlwaysOn$$$1'}
+        })
 
 </script>
+
 <div id="ClubSponsors_news_section_section_sponsor_top" class="loader"></div>
 
 
@@ -793,45 +1059,45 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     <ul>
         
                 <li class="first">
-                <a class="thumb news" title="Fletch Welcomes DoF" href="/news/article/fletch-welcomes-dof-524810.aspx"><span></span><img alt="Fletch Welcomes DoF" title="Fletch Welcomes DoF" src="/cms_images/news/carl-fletcher-4x3-386-427775_150x113.jpg" width="68" height="51"></a>
-                <p class="info"><strong>04 Dec 2012</strong><br>
-                <a href="/news/article/fletch-welcomes-dof-524810.aspx" title="Fletch Welcomes DoF" data-mxl="26" class="mxl">Fletch Welcomes DoF</a>
-                <span class="mxl" data-mxl="65">ARGYLE manager Carl Fletcher has welcomed the club’s decision to find a new Director of Football. </span></p>
+                <a class="thumb news" title="Two Trusts Unite" href="/news/article/two-trusts-unite-852975.aspx"><span></span><img alt="Two Trusts Unite" title="Two Trusts Unite" src="/cms_images/news/princes-trust-4x386-852955_150x113.jpg" width="68" height="51"></a>
+                <p class="info"><strong>04 Jun 2013</strong><br>
+                <a href="/news/article/two-trusts-unite-852975.aspx" title="Two Trusts Unite" data-mxl="26" class="mxl">Two Trusts Unite</a>
+                <span class="mxl" data-mxl="65">ARGYLE’S Football in the Community Trust have recently worked in partnership with the Prince’s Trust to deliver a Get Started with Football course in Plymouth.</span></p>
                 </li>
             
                 <li class="even first">
-                <a class="thumb news" title="Macca Hopes To Stay" href="/news/article/macca-hopes-to-stay-523995.aspx"><span></span><img alt="Macca Hopes To Stay" title="Macca Hopes To Stay" src="/cms_images/news/alex-macdonald-386-399895_150x113.jpg" width="68" height="51"></a>
-                <p class="info"><strong>03 Dec 2012</strong><br>
-                <a href="/news/article/macca-hopes-to-stay-523995.aspx" title="Macca Hopes To Stay" data-mxl="26" class="mxl">Macca Hopes To Stay</a>
-                <span class="mxl" data-mxl="65">ALEX MacDonald plays the last game of his loan spell for the Pilgrims on Tuesday night, but the forward hopes it will not be the last time he puts on the green and white shirt.</span></p>
+                <a class="thumb news" title="FIL Lend Fans Hand" href="/news/article/fil-lend-fans-hand-853473.aspx"><span></span><img alt="FIL Lend Fans Hand" title="FIL Lend Fans Hand" src="/cms_images/news/fil-buses-4x386-853464_150x113.jpg" width="68" height="51"></a>
+                <p class="info"><strong>04 Jun 2013</strong><br>
+                <a href="/news/article/fil-lend-fans-hand-853473.aspx" title="FIL Lend Fans Hand" data-mxl="26" class="mxl">FIL Lend Fans Hand</a>
+                <span class="mxl" data-mxl="65">FIRST International Lending have teamed up with fellow key sponsors of the Pilgrims, Target Travel, to provide transport for fans to Home Park for every match next season.</span></p>
                 </li>
             
                 <li class="">
-                <a class="thumb video" title="RE-PLAYER: How We Made The Quarter Final" href="http://www.player.pafc.co.uk/latest-news/article/1917584"><span></span><img alt="RE-PLAYER: How We Made The Quarter Final" title="RE-PLAYER: How We Made The Quarter Final" src="/cms_images/video/0112931210086-419616_150x113.jpeg" width="68" height="51"></a>
-                <p class="info"><strong>03 Dec 2012</strong><br>
-                <a href="http://www.player.pafc.co.uk/latest-news/article/1917584" target="_blank" title="RE-PLAYER: How We Made The Quarter Final" data-mxl="26" class="mxl">RE-PLAYER: How We Made The Quarter Final</a>
-                <span class="mxl" data-mxl="65">ACTION from our Johnstone's Paint Trophy win over Akdershot Town.</span></p>
+                <a class="thumb news" title="Villa First For Argyle" href="/news/article/villa-first-for-argyle-853017.aspx"><span></span><img alt="Villa First For Argyle" title="Villa First For Argyle" src="/cms_images/news/elburtonvilla4x386-269555_150x113.jpg" width="68" height="51"></a>
+                <p class="info"><strong>04 Jun 2013</strong><br>
+                <a href="/news/article/villa-first-for-argyle-853017.aspx" title="Villa First For Argyle" data-mxl="26" class="mxl">Villa First For Argyle</a>
+                <span class="mxl" data-mxl="65">ARGYLE will begin their 2013-14 pre-season campaign in Plymouth, but not at Home Park.</span></p>
                 </li>
             
                 <li class="even">
-                <a class="thumb video" title="VIDEO: Tuned For The Trophy" href="http://www.player.pafc.co.uk/latest-news/article/2999245"><span></span><img alt="VIDEO: Tuned For The Trophy" title="VIDEO: Tuned For The Trophy" src="/cms_images/video/2999245-0114586770086-523673_150x113.jpeg" width="68" height="51"></a>
-                <p class="info"><strong>03 Dec 2012</strong><br>
-                <a href="http://www.player.pafc.co.uk/latest-news/article/2999245" target="_blank" title="VIDEO: Tuned For The Trophy" data-mxl="26" class="mxl">VIDEO: Tuned For The Trophy</a>
-                <span class="mxl" data-mxl="65">ARGYLE manager Carl Fletcher looks forward to the Pilgrims' Johnstone's Paint Trophy area quater-final with Oxford at Home Park on Tuesday, kick-off 7pm. </span></p>
+                <a class="thumb news" title="Development Side On Tour" href="/news/article/development-side-on-tour-852903.aspx"><span></span><img alt="Development Side On Tour" title="Development Side On Tour" src="/cms_images/news/community-development-4x386-852897_150x113.jpg" width="68" height="51"></a>
+                <p class="info"><strong>03 Jun 2013</strong><br>
+                <a href="/news/article/development-side-on-tour-852903.aspx" title="Development Side On Tour" data-mxl="26" class="mxl">Development Side On Tour</a>
+                <span class="mxl" data-mxl="65">ARGYLE’S Football in the Community Trust are going Stateside with their Education and Development side.</span></p>
                 </li>
             
                 <li class="last">
-                <a class="thumb news" title="JPT - Only On Player" href="/news/article/jpt-only-on-player-415506.aspx"><span></span><img alt="JPT - Only On Player" title="JPT - Only On Player" src="/cms_images/news/argyle-player-4x386-250654_150x113.jpg" width="68" height="51"></a>
-                <p class="info"><strong>03 Dec 2012</strong><br>
-                <a href="/news/article/jpt-only-on-player-415506.aspx" title="JPT - Only On Player" data-mxl="26" class="mxl">JPT - Only On Player</a>
-                <span class="mxl" data-mxl="65">THERE will be just one place to listen to Argyle's Johnstone's Paint Trophy clash with Oxford United on Tuesday - right here on Argyle Player.</span></p>
+                <a class="thumb news" title="£50m Plan Submitted" href="/news/article/50m-plan-submitted-850777.aspx"><span></span><img alt="£50m Plan Submitted" title="£50m Plan Submitted" src="/cms_images/news/3901-bdp-homepark-c02-retail-r04-640x48086-850769_150x113.jpg" width="68" height="51"></a>
+                <p class="info"><strong>31 May 2013</strong><br>
+                <a href="/news/article/50m-plan-submitted-850777.aspx" title="£50m Plan Submitted" data-mxl="26" class="mxl">£50m Plan Submitted</a>
+                <span class="mxl" data-mxl="65">THE £50m plan to transform Higher Home Park...</span></p>
                 </li>
             
                 <li class="even last">
-                <a class="thumb news" title="Argyle Youth 3 Swindon Town Youth 2" href="/news/article/argyle-youth-3-swindon-town-youth-2-521976.aspx"><span></span><img alt="Argyle Youth 3 Swindon Town Youth 2" title="Argyle Youth 3 Swindon Town Youth 2" src="/cms_images/news/matt-lecointe-386-358085_150x113.jpg" width="68" height="51"></a>
-                <p class="info"><strong>03 Dec 2012</strong><br>
-                <a href="/news/article/argyle-youth-3-swindon-town-youth-2-521976.aspx" title="Argyle Youth 3 Swindon Town Youth 2" data-mxl="26" class="mxl">Argyle Youth 3 Swindon Town Youth 2</a>
-                <span class="mxl" data-mxl="65">ARGYLE'S youngsters showed good character to snatch all three points, from this Football League Youth Alliance League game at Haye Road...</span></p>
+                <a class="thumb news" title="Take Your Seat" href="/news/article/take-your-seat-845219.aspx"><span></span><img alt="Take Your Seat" title="Take Your Seat" src="/cms_images/news/homepark4x386-224364_150x113.jpg" width="68" height="51"></a>
+                <p class="info"><strong>30 May 2013</strong><br>
+                <a href="/news/article/take-your-seat-845219.aspx" title="Take Your Seat" data-mxl="26" class="mxl">Take Your Seat</a>
+                <span class="mxl" data-mxl="65">ARGYLE Members are reminded...</span></p>
                 </li>
             
     </ul>
@@ -864,35 +1130,35 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
   <ul>
    
 	  <li>
-		<a title="RE-PLAYER: How We Made The Quarter Final" href="http://www.player.pafc.co.uk/latest-news/article/1917584" onclick="EventTracking('Image', 'View','Video Players images in Video Listing');" target="_blank"><span></span>
-            <img alt="RE-PLAYER: How We Made The Quarter Final" title="RE-PLAYER: How We Made The Quarter Final" src="/cms_images/video/0112931210086-419616_150x113.jpeg" width="68" height="51">
+		<a title="VIDEO: James' Support For John" href="http://www.player.pafc.co.uk/latest-news/article/3167277" onclick="EventTracking('Image', 'View','Video Players images in Video Listing');" target="_blank"><span></span>
+            <img alt="VIDEO: James' Support For John" title="VIDEO: James' Support For John" src="/cms_images/video/3167277-0118996710086-808225_150x113.jpeg" width="68" height="51">
             </a>
-            <a title="RE-PLAYER: How We Made The Quarter Final" href="http://www.player.pafc.co.uk/latest-news/article/1917584" onclick="EventTracking('External Link', 'Click','Video Players link');" target="_blank">
-            RE-PLAYER: How We Made The Quarter Final
+            <a title="VIDEO: James' Support For John" href="http://www.player.pafc.co.uk/latest-news/article/3167277" onclick="EventTracking('External Link', 'Click','Video Players link');" target="_blank">
+            VIDEO: James' Support For John
             </a>
-			<span>22 hours 21 mins ago</span>
+			<span>04 May 2013</span>
 				
 			</li>
 			  
 	  <li>
-		<a title="VIDEO: Tuned For The Trophy" href="http://www.player.pafc.co.uk/latest-news/article/2999245" onclick="EventTracking('Image', 'View','Video Players images in Video Listing');" target="_blank"><span></span>
-            <img alt="VIDEO: Tuned For The Trophy" title="VIDEO: Tuned For The Trophy" src="/cms_images/video/2999245-0114586770086-523673_150x113.jpeg" width="68" height="51">
+		<a title="VIDEO EXCLUSIVE: Shez On New Contract" href="http://www.player.pafc.co.uk/latest-news/article/3166546" onclick="EventTracking('Image', 'View','Video Players images in Video Listing');" target="_blank"><span></span>
+            <img alt="VIDEO EXCLUSIVE: Shez On New Contract" title="VIDEO EXCLUSIVE: Shez On New Contract" src="/cms_images/video/3166546-0119012940086-807255_150x113.jpeg" width="68" height="51">
             </a>
-            <a title="VIDEO: Tuned For The Trophy" href="http://www.player.pafc.co.uk/latest-news/article/2999245" onclick="EventTracking('External Link', 'Click','Video Players link');" target="_blank">
-            VIDEO: Tuned For The Trophy
+            <a title="VIDEO EXCLUSIVE: Shez On New Contract" href="http://www.player.pafc.co.uk/latest-news/article/3166546" onclick="EventTracking('External Link', 'Click','Video Players link');" target="_blank">
+            VIDEO EXCLUSIVE: Shez On New Contract
             </a>
-			<span>23 hours 17 mins ago</span>
+			<span>03 May 2013</span>
 				
 			</li>
 			  
 	  <li>
-		<a title="VIDEO: Rhys Thanks Movember Supporters" href="http://www.player.pafc.co.uk/latest-news/article/2993364" onclick="EventTracking('Image', 'View','Video Players images in Video Listing');" target="_blank"><span></span>
-            <img alt="VIDEO: Rhys Thanks Movember Supporters" title="VIDEO: Rhys Thanks Movember Supporters" src="/cms_images/video/2993364-0114412300086-512626_150x113.jpeg" width="68" height="51">
+		<a title="VIDEO: Chairman Looks Towards Exciting Times" href="http://www.player.pafc.co.uk/latest-news/article/3165766" onclick="EventTracking('Image', 'View','Video Players images in Video Listing');" target="_blank"><span></span>
+            <img alt="VIDEO: Chairman Looks Towards Exciting Times" title="VIDEO: Chairman Looks Towards Exciting Times" src="/cms_images/video/3165766-0118992630086-805885_150x113.jpeg" width="68" height="51">
             </a>
-            <a title="VIDEO: Rhys Thanks Movember Supporters" href="http://www.player.pafc.co.uk/latest-news/article/2993364" onclick="EventTracking('External Link', 'Click','Video Players link');" target="_blank">
-            VIDEO: Rhys Thanks Movember Supporters
+            <a title="VIDEO: Chairman Looks Towards Exciting Times" href="http://www.player.pafc.co.uk/latest-news/article/3165766" onclick="EventTracking('External Link', 'Click','Video Players link');" target="_blank">
+            VIDEO: Chairman Looks Towards Exciting Times
             </a>
-			<span>6 days ago</span>
+			<span>03 May 2013</span>
 				
 			</li>
 			  
@@ -909,7 +1175,10 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     
 
              <section class="col4 block mpu clearfix">
-                 <!-- Placement:Plymouth Argyle ROS MPU (2715959) --><div id="mf2715959" class="mfc170"><script type="text/javascript">if (typeof getHeliosTag =='function') getHeliosTag(2715959, 170);</script></div>
+                 
+      
+          <script type="text/javascript">   document.MAX_ct0 ='INSERT_CLICK_MACRO';   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) document.MAX_used = ',';   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write ("?zoneid=3078&amp;charset=UTF-8");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);   document.write ('&amp;charset=UTF-8');   document.write ("&amp;loc=" + escape(window.location));   document.write ("&amp;tzo=" + (new Date().getTimezoneOffset()));   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));   if (document.context) document.write ("&context=" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write ("&amp;ct0=" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");   document.write ("'><\/scr"+"ipt>");</script><script type="text/javascript" src="https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php?zoneid=3078&amp;charset=UTF-8&amp;cb=87635317695&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130604190859id_/http%253A//www.pafc.co.uk/global/privacy-policy.aspx&amp;tzo=0"></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=acc6f40b&amp;cb=INSERT_RANDOM_NUMBER' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=3078&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER&amp;n=acc6f40b&amp;ct0=INSERT_CLICK_MACRO' border='0' alt='' /></a></noscript>
+      
 
             </section>
 
@@ -947,7 +1216,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
                              
                        <script>
        var monthNames = ["January","February","March","April","May","June","July","August","September","October","November","December"];
-       var currentDate= "2012,12";
+       var currentDate= "2013,6";
 </script>
 <section id="news_archive" class="col4">
   <h3>News Archive</h3>
@@ -969,7 +1238,10 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 			
           <section class="col4 block mpu clearfix">
-                <!-- Placement:Half Page (3775338) --><div id="mf3775338" class="mfc529"><script type="text/javascript">if (typeof getHeliosTag =='function') getHeliosTag(3775338, 529);</script></div>
+                
+      
+          <script type="text/javascript">   document.MAX_ct0 ='INSERT_CLICK_MACRO';   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) document.MAX_used = ',';   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write ("?zoneid=3079&amp;charset=UTF-8");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);   document.write ('&amp;charset=UTF-8');   document.write ("&amp;loc=" + escape(window.location));   document.write ("&amp;tzo=" + (new Date().getTimezoneOffset()));   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));   if (document.context) document.write ("&context=" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write ("&amp;ct0=" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");   document.write ("'><\/scr"+"ipt>");</script><script type="text/javascript" src="https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php?zoneid=3079&amp;charset=UTF-8&amp;cb=23896499895&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130604190859id_/http%253A//www.pafc.co.uk/global/privacy-policy.aspx&amp;tzo=0"></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=af49adb0&amp;cb=INSERT_RANDOM_NUMBER' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=3079&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER&amp;n=af49adb0&amp;ct0=INSERT_CLICK_MACRO' border='0' alt='' /></a></noscript>
+      
 
           </section>
 
@@ -991,30 +1263,30 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
  <ul>
 
  <li>
-   <a title="Fletch Welcomes DoF" class="news" href="/news/article/fletch-welcomes-dof-524810.aspx">
+   <a title="Two Trusts Unite" class="news" href="/news/article/two-trusts-unite-852975.aspx">
      <span></span>
-     <img alt="Fletch Welcomes DoF" title="Fletch Welcomes DoF" src="/cms_images/news/carl-fletcher-4x3-386-427775_150x113.jpg" width="68" height="51">
-     <p class="date">04 Dec 2012</p>Fletch Welcomes DoF
+     <img alt="Two Trusts Unite" title="Two Trusts Unite" src="/cms_images/news/princes-trust-4x386-852955_150x113.jpg" width="68" height="51">
+     <p class="date">04 Jun 2013</p>Two Trusts Unite
     </a>
- <span class="mxl" data-mxl="65">ARGYLE manager Carl Fletcher has welcomed the club’s decision to find a new Director of Football. </span>
+ <span class="mxl" data-mxl="65">ARGYLE’S Football in the Community Trust have recently worked in partnership with the Prince’s Trust to deliver a Get Started with Football course in Plymouth.</span>
   </li>
 
  <li>
-   <a title="Macca Hopes To Stay" class="news" href="/news/article/macca-hopes-to-stay-523995.aspx">
+   <a title="FIL Lend Fans Hand" class="news" href="/news/article/fil-lend-fans-hand-853473.aspx">
      <span></span>
-     <img alt="Macca Hopes To Stay" title="Macca Hopes To Stay" src="/cms_images/news/alex-macdonald-386-399895_150x113.jpg" width="68" height="51">
-     <p class="date">03 Dec 2012</p>Macca Hopes To Stay
+     <img alt="FIL Lend Fans Hand" title="FIL Lend Fans Hand" src="/cms_images/news/fil-buses-4x386-853464_150x113.jpg" width="68" height="51">
+     <p class="date">04 Jun 2013</p>FIL Lend Fans Hand
     </a>
- <span class="mxl" data-mxl="65">ALEX MacDonald plays the last game of his loan spell for the Pilgrims on Tuesday night, but the forward hopes it will not be the last time he puts on the green and white shirt.</span>
+ <span class="mxl" data-mxl="65">FIRST International Lending have teamed up with fellow key sponsors of the Pilgrims, Target Travel, to provide transport for fans to Home Park for every match next season.</span>
   </li>
 
  <li>
-   <a title="RE-PLAYER: How We Made The Quarter Final" class="video" href="http://www.player.pafc.co.uk/latest-news/article/1917584" target="_blank">
+   <a title="Villa First For Argyle" class="news" href="/news/article/villa-first-for-argyle-853017.aspx">
      <span></span>
-     <img alt="RE-PLAYER: How We Made The Quarter Final" title="RE-PLAYER: How We Made The Quarter Final" src="/cms_images/video/0112931210086-419616_150x113.jpeg" width="68" height="51">
-     <p class="date">03 Dec 2012</p>RE-PLAYER: How We Made The Quarter Final
+     <img alt="Villa First For Argyle" title="Villa First For Argyle" src="/cms_images/news/elburtonvilla4x386-269555_150x113.jpg" width="68" height="51">
+     <p class="date">04 Jun 2013</p>Villa First For Argyle
     </a>
- <span class="mxl" data-mxl="65">ACTION from our Johnstone's Paint Trophy win over Akdershot Town.</span>
+ <span class="mxl" data-mxl="65">ARGYLE will begin their 2013-14 pre-season campaign in Plymouth, but not at Home Park.</span>
   </li>
 
 </ul>
@@ -1036,9 +1308,32 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx","callback":"slots", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'True', "AdData": '130BF5EB-388F-4DA0-AAD5-3877FE8D58D4$$$pa_34$$$AlwayOn|AlwaysOn$$$15@Bottom Section', "SectionName": 'Footer', "ClubName": 'Plymouth Argyle FC' , "isCached" : '', "CacheKey": 'sponsors', "CombineAdRequest": 'False', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#sponsors"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx","callback":"slots", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'True',
+      "AdData": '130BF5EB-388F-4DA0-AAD5-3877FE8D58D4$$$pa_34$$$AlwayOn|AlwaysOn$$$15@Bottom Section', 
+      "SectionName": 'Footer', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : '',
+        "CacheKey": 'sponsors', "CombineAdRequest": 'False', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'False' 
+       }
+       
+,"args": { 
+            "el": "#sponsors"
+            ,"addata" : '130BF5EB-388F-4DA0-AAD5-3877FE8D58D4$$$pa_34$$$AlwayOn|AlwaysOn$$$15@Bottom Section'}
+        })
 
 </script>
+
 
 
 
@@ -1073,6 +1368,9 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
       <li>
         <a href="/news/Presidents_Progress/" title="President's Progress">President's Progress</a>
       </li>
+      <li>
+        <a href="/news/Grandstand_News/" title="Grandstand Development News">Grandstand Development News</a>
+      </li>
     </ul>
   </li>
   <li>
@@ -1106,6 +1404,9 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
       </li>
       <li>
         <a href="/tickets/Away_Tickets/" title="Away Ticket Details">Away Ticket Details</a>
+      </li>
+      <li>
+        <a href="/tickets/ticketscontact/" title="Contact the Ticket Office">Contact the Ticket Office</a>
       </li>
     </ul>
   </li>
@@ -1293,216 +1594,768 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": '6FB4737B-A44B-42E5-ACB2-A1176290A5DE$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'News', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_1', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_1"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '6FB4737B-A44B-42E5-ACB2-A1176290A5DE$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'News', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_1', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_1"
+            ,"addata" : '6FB4737B-A44B-42E5-ACB2-A1176290A5DE$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '4FB712E3-6250-465C-A80E-249555B0CA59$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'News', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_1', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_1"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '4FB712E3-6250-465C-A80E-249555B0CA59$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'News', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_1', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_1"
+            ,"addata" : '4FB712E3-6250-465C-A80E-249555B0CA59$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'A11FE8EF-CF13-4602-B2ED-0F50B16A4BFF$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'News', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_1', "CombineAdRequest": 'True', "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_1"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'A11FE8EF-CF13-4602-B2ED-0F50B16A4BFF$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'News', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_1', "CombineAdRequest": 'True', 
+        "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_1"
+            ,"addata" : 'A11FE8EF-CF13-4602-B2ED-0F50B16A4BFF$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": 'E0D6E542-ADD3-44D6-81EA-E33E5742EE8F$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Fixtures and Results', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_2', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_2"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'E0D6E542-ADD3-44D6-81EA-E33E5742EE8F$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Fixtures and Results', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_2', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_2"
+            ,"addata" : 'E0D6E542-ADD3-44D6-81EA-E33E5742EE8F$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '21AB8378-3BDA-44ED-A753-775F2B63ED6C$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Fixtures and Results', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_2', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_2"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '21AB8378-3BDA-44ED-A753-775F2B63ED6C$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Fixtures and Results', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_2', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_2"
+            ,"addata" : '21AB8378-3BDA-44ED-A753-775F2B63ED6C$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'FE59E0E4-7375-4C81-92E3-CDF40BD29725$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Fixtures and Results', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_2', "CombineAdRequest": 'True', "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_2"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'FE59E0E4-7375-4C81-92E3-CDF40BD29725$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Fixtures and Results', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_2', "CombineAdRequest": 'True', 
+        "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_2"
+            ,"addata" : 'FE59E0E4-7375-4C81-92E3-CDF40BD29725$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": '0FD217CB-0879-42DD-ACF0-607F72FD72AA$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Tickets', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_3', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_3"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '0FD217CB-0879-42DD-ACF0-607F72FD72AA$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Tickets', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_3', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_3"
+            ,"addata" : '0FD217CB-0879-42DD-ACF0-607F72FD72AA$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '7F69D4C0-1352-47CD-A034-EBFD6BD6D01D$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Tickets', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_3', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_3"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '7F69D4C0-1352-47CD-A034-EBFD6BD6D01D$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Tickets', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_3', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_3"
+            ,"addata" : '7F69D4C0-1352-47CD-A034-EBFD6BD6D01D$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'A683711F-3C35-4B5A-A2E7-7FE3DC188317$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Tickets', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_3', "CombineAdRequest": 'True', "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_3"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'A683711F-3C35-4B5A-A2E7-7FE3DC188317$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Tickets', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_3', "CombineAdRequest": 'True', 
+        "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_3"
+            ,"addata" : 'A683711F-3C35-4B5A-A2E7-7FE3DC188317$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": 'D8ED3FCF-F7ED-4CB6-8699-54F6EED86FEF$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Team', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_4', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_4"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'D8ED3FCF-F7ED-4CB6-8699-54F6EED86FEF$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Team', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_4', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_4"
+            ,"addata" : 'D8ED3FCF-F7ED-4CB6-8699-54F6EED86FEF$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '6E4E25D2-417B-426E-B5EA-559BA21C7416 $$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Team', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_4', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_4"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '6E4E25D2-417B-426E-B5EA-559BA21C7416 $$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Team', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_4', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_4"
+            ,"addata" : '6E4E25D2-417B-426E-B5EA-559BA21C7416 $$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '378EB57B-8B05-4E92-A5F6-BEC21FF5F157$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Team', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_4', "CombineAdRequest": 'True', "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_4"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '378EB57B-8B05-4E92-A5F6-BEC21FF5F157$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Team', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_4', "CombineAdRequest": 'True', 
+        "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_4"
+            ,"addata" : '378EB57B-8B05-4E92-A5F6-BEC21FF5F157$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": '77F35B91-2E44-4A1E-8C9A-0D707ABC49D9$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Stats', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_5', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_5"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '77F35B91-2E44-4A1E-8C9A-0D707ABC49D9$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Stats', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_5', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_5"
+            ,"addata" : '77F35B91-2E44-4A1E-8C9A-0D707ABC49D9$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '8AD97504-7671-4766-A72C-7A84566C62E7$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Stats', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_5', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_5"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '8AD97504-7671-4766-A72C-7A84566C62E7$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Stats', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_5', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_5"
+            ,"addata" : '8AD97504-7671-4766-A72C-7A84566C62E7$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '513D7C29-C1BA-4E12-A2B4-AD7C552A0369$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Stats', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_5', "CombineAdRequest": 'True', "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_5"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '513D7C29-C1BA-4E12-A2B4-AD7C552A0369$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Stats', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_5', "CombineAdRequest": 'True', 
+        "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_5"
+            ,"addata" : '513D7C29-C1BA-4E12-A2B4-AD7C552A0369$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": 'C302E674-D2E6-42B4-BEBF-8B7C4FA4FC31$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Fans', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_6', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_6"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'C302E674-D2E6-42B4-BEBF-8B7C4FA4FC31$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Fans', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_6', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_6"
+            ,"addata" : 'C302E674-D2E6-42B4-BEBF-8B7C4FA4FC31$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'E8D5BD40-33D0-4B0C-8FAC-BDC0DF4889E6$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Fans', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_6', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_6"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'E8D5BD40-33D0-4B0C-8FAC-BDC0DF4889E6$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Fans', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_6', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_6"
+            ,"addata" : 'E8D5BD40-33D0-4B0C-8FAC-BDC0DF4889E6$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '0BCF957E-D498-44A3-91BC-B22E6AB766BF$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Fans', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_6', "CombineAdRequest": 'True', "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_6"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '0BCF957E-D498-44A3-91BC-B22E6AB766BF$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Fans', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_6', "CombineAdRequest": 'True', 
+        "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_6"
+            ,"addata" : '0BCF957E-D498-44A3-91BC-B22E6AB766BF$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": 'F1433FDA-FB03-4C54-AA99-71E46B378539$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Club', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_7', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_7"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'F1433FDA-FB03-4C54-AA99-71E46B378539$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Club', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_7', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_7"
+            ,"addata" : 'F1433FDA-FB03-4C54-AA99-71E46B378539$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '8CC59DFE-5261-4313-B76D-70B16ED27D66$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Club', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_7', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_7"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '8CC59DFE-5261-4313-B76D-70B16ED27D66$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Club', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_7', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_7"
+            ,"addata" : '8CC59DFE-5261-4313-B76D-70B16ED27D66$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '11D1BC5F-AD4A-4B7D-BC61-9B2408701214$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Club', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_7', "CombineAdRequest": 'True', "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_7"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '11D1BC5F-AD4A-4B7D-BC61-9B2408701214$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Club', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_7', "CombineAdRequest": 'True', 
+        "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_7"
+            ,"addata" : '11D1BC5F-AD4A-4B7D-BC61-9B2408701214$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": '0E863C0A-7D98-43F4-AACB-786F2056D75E$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Commercial', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_8', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_8"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '0E863C0A-7D98-43F4-AACB-786F2056D75E$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Commercial', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_8', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_8"
+            ,"addata" : '0E863C0A-7D98-43F4-AACB-786F2056D75E$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'FB1FDE18-9BEA-4878-86E6-0CC954213EE3$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Commercial', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_8', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_8"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'FB1FDE18-9BEA-4878-86E6-0CC954213EE3$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Commercial', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_8', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_8"
+            ,"addata" : 'FB1FDE18-9BEA-4878-86E6-0CC954213EE3$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '01C7A278-46B8-4AAF-A7DF-CC35656561A5$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Commercial', "ClubName": 'Plymouth Argyle FC' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_8', "CombineAdRequest": 'True', "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_8"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '01C7A278-46B8-4AAF-A7DF-CC35656561A5$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Commercial', 
+      "ClubName": 'Plymouth Argyle FC' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_8', "CombineAdRequest": 'True', 
+        "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_8"
+            ,"addata" : '01C7A278-46B8-4AAF-A7DF-CC35656561A5$$$pa_34$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
@@ -1545,7 +2398,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 <span id="PieChartLossColour"></span>
 <span id="PieChartDrawColour"></span>
 
- <script type="text/javascript" src="/js/combinedbottom_9077960F5404301057F90EF996C373E5.js"></script>
+ <script type="text/javascript" src="/combinedjs/combinedbottom_B1915EE0A7BF8416898AA4A2110289D7.js"></script>
 
 
  
@@ -1561,20 +2414,19 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 
 <script>
-var bodyTag = document.getElementsByTagName("body")[0];
-bodyTag.setAttribute("style",$("[id$=_hdnBackgroundImage]").val());
-
 	var rollUpAccount = "UA-29399239-1";
 	var clubAccount = "UA-29367362-1";
 	$(document).ready(function(){
+		var bodyTag = $("body");
+		var bodyImage = $("[id$=_hdnBackgroundImage]").val();
+		bodyTag.attr("style", bodyImage);
 		fli.init(loader,adloader);
-		var domainNameForGA = 'www.pafc.co.uk';
+		var domainNameForGA = 'www.pafc.co.uk';        
 		gaTracking(domainNameForGA, rollUpAccount, clubAccount);
-       onkeyPressMethod();
-
-          if ($("#archive_year").attr("id") != undefined) {
+		onkeyPressMethod();
+                if ($("#archive_year").attr("id") != undefined) {
                 $("#archive_year").html(getDateDropdown());
-    	   }	
+    	        }	
 
 	});
 
@@ -1586,7 +2438,7 @@ bodyTag.setAttribute("style",$("[id$=_hdnBackgroundImage]").val());
 		gatrackevent(category, action, opt_label , rollUpAccount, clubAccount) ;
 	}
 	
-	
+
 	
 	$(document).ready(function(){
 		   window.twttr = (function (d,s,id) {
@@ -1622,7 +2474,19 @@ bodyTag.setAttribute("style",$("[id$=_hdnBackgroundImage]").val());
 		_ga.trackFacebook();
 	});
 </script>
-
+<script language="javascript" type="text/javascript">
+var orderIds = "";
+		  $("input[id^=" + "objOrders_" + "]").each(
+		  function(){
+			if($(this).val().length >0)
+				{ orderIds+= $(this).val() +",";}
+		  });
+		  
+		  if(!(orderIds == null || orderIds == undefined || orderIds.length <= 1))
+			{ orderIds =orderIds.substring(0,orderIds.length-1);
+				SendOrderIds(orderIds);
+			}
+</script>
 
 </div>
 
