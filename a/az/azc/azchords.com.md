@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the azchords.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219062855id_/http%3A//www.azchords.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azchords.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604102402id_/http%3A//www.azchords.com/disclaimer.html) for the most accurate reproduction.*
 
-# AZChords.com >>> Disclaimer
+# Privacy policy. AZchords.com
 
 **AZChords.com** has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses the information gathering and dissemination practices for this web site: AZChords.com 
 
@@ -38,4 +38,4 @@ of the copyrighted material as provided for in Title 17, Chapter 1 , section 107
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20121219062855id_/http%3A//www.azchords.com/contact.html).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20130604102402id_/http%3A//www.azchords.com/contact.html).
