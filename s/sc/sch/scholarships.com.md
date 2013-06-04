@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarships.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219120638id_/http%3A//www.scholarships.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarships.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604115447id_/http%3A//www.scholarships.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Us - Scholarships.com
 
