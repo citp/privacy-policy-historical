@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michelfortin.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116045032id_/http%3A//successdoctor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michelfortin.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604190302id_/http%3A//successdoctor.com/privacy) for the most accurate reproduction.*
 
-# Privacy And Disclosure Policies | The Success Doctor
+# Privacy And Disclosure Policies - The Success Doctor
 
 At _SuccessDoctor.com_ , your privacy is assured. If you join the newsletter on this site, you will be kept posted on any developments that might benefit you. However, please note:
 
