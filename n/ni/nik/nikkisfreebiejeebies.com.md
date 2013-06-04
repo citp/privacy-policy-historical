@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikkisfreebiejeebies.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211070456id_/http%3A//www.nikkisfreebiejeebies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikkisfreebiejeebies.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604023542id_/http%3A//nikkisfreebiejeebies.com/privacy-policy) for the most accurate reproduction.*
 
 # Nikki's Freebie Jeebies : Privacy Policy
 
@@ -29,5 +29,4 @@ This site contains links to other sites. Freebie Jeebies is not responsible for 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [nikki@nikkisfreebiejeebies.com](mailto:nikki@nikkisfreebiejeebies.com)
 
 Nikki Russell  
-c/o NikkisFreebieJeebies P.O. Box 9738 Wilmington, DE 19809  
-
+c/o NikkisFreebieJeebies P.O. Box 9738 Wilmington, DE 19809 
