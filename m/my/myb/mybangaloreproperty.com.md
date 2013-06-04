@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybangaloreproperty.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021173206id_/http%3A//www.mybangaloreproperty.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybangaloreproperty.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604062230id_/http%3A//www.mybangaloreproperty.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
@@ -12,11 +12,6 @@ This website uses cookies to record user-specific information on what pages user
 
 Appropriate security measures are in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
-Farooq Mohamed,   
-BangaloreCityhome Property SuperMarket.   
-Mybangaloreproperty.com   
-+919341221447, +919844425044   
-No.1500, 19th Main, HSR Layout Sector 1   
-Behind Mantri Sarovar Apartments,   
-Bangalore-560034, INDIA   
-Email:bangalorecityhome@gmail.com
+Farooq M,   
+BangaloreCityhome   
+www.Mybangaloreproperty.com
