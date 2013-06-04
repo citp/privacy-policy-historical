@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldslastchance.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224020524id_/http%3A//www.worldslastchance.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldslastchance.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604100143id_/http%3A//www.worldslastchance.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,11 +10,15 @@
 
 **WorldsLastChance.com** collects information from you at several different points on the Site in the manner set forth below:
 
-###### **Member Registration and Profile**
+#### **Member Registration and Profile**
 
-In order to access certain information and services on the site, a user must first become a **WorldsLastChance.com** "member" by completing our member registration form, or registering with an Open ID app through a social media site (Facebook, Gmail, Yahoo!, or AOL). During the registration process you will be required to give information such as your name, e-mail address, your street address, phone number, and birth date; or this information will be collected, with your permission, via one of the social media sites (Facebook, Gmail, Yahoo!, or AOL). The _sole_ reason for collecting this information is to be able to send out the [_free membership gifts_](http://www.worldslastchance.com/win-wlcs-exclusive-free-gift.html) to the correct address of members.  World's Last Chance does not rent, sell, or share your personal information with anyone, ever.
+In order to access certain information and services on the site, a user must first become a **WorldsLastChance.com** "member" by completing our member registration form, or registering with an Open ID app through a social media site (Facebook, Gmail, Yahoo!, or AOL). During the registration process you will be required to give information such as your name, e-mail address, your street address, phone number, and birth date; or this information will be collected, with your permission, via one of the social media sites (Facebook, Gmail, Yahoo!, or AOL). The _sole_ reason for collecting this information is to be able to send out the 
 
-###### **Important Information about Changing and Updating Your Member Profile and the Email Notifications you receive.**
+[_free membership gifts_](http://www.worldslastchance.com/win-wlcs-exclusive-free-gift.html)
+
+to the correct address of members.  World's Last Chance does not rent, sell, or share your personal information with anyone, ever.
+
+#### **Important Information about Changing and Updating Your Member Profile and the Email Notifications you receive.**
 
 If your profile information changes, or if you no longer desire to be a Member, you may correct, update or remove the personal data that you provided. This can be done at the "Your Profile" page by clicking on the "Edit Your Profile & Notifications" button.  Here you can also easily change the email notifications you receive. You can further unilaterally delete your personal profile by clicking on the "Delete Account" tab in your profile.
 
@@ -36,16 +40,13 @@ Please do not hesitate to
 
 [_contact us_](http://www.worldslastchance.com/contact-us)
 
-if you need assistance with opting-out or opting-in to any mail stream. 
+if you need assistance with opting-out or opting-in to any mail stream. 
 
-  
- 
-
-###### **Security**
+#### **Security**
 
 **WorldsLastChance.com**  uses reasonable security methods to protect the data that resides on our server[s]. However, no security system is impenetrable. **WorldsLastChance.com**  cannot warrant or guarantee the security of its server[s], nor can it guarantee that information that you supply will not be intercepted while being transmitted to  **WorldsLastChance.com**  over the Internet.
 
-###### **How To Contact Us**
+#### **How To Contact Us**
 
 Should you have any questions or concerns about the Policy, please send an e-mail to  _[privacy@WorldsLastChance.com.](mailto:privacy@WorldsLastChance.com)_
 
