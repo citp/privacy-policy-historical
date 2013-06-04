@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rollingout.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085613id_/http%3A//rollingout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollingout.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604210558id_/http%3A//rollingout.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rolling Out - Black News, Celebrity Videos, Entertainment, Business & Politics
-
-6:33 PM EST 3/23/2011 by admin
 
 March 15, 2010
 
@@ -32,5 +30,3 @@ We make good faith efforts to provide you access to your personal information up
 
 **More information**  
 If you have additional questions, please contact us any time.
-
-### Watch Videos
