@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarthinking.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919184028id_/http%3A//www.smarthinking.com/privacy-purchase-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarthinking.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604093137id_/http%3A//smarthinking.com/privacy-purchase-policies) for the most accurate reproduction.*
 
 # Privacy & Purchase Policies | Smarthinking, Inc.
 
@@ -15,12 +15,12 @@ Smarthinking, Inc.
 1919 M St, NW  
 Suite 600  
 Washington, DC 20036  
-(202) 543-5034  
+888-430-7429  
 info@smarthinking.com
 
 II. Usage Eligibility
 
-The Smarthinking service is intended for students over the age of 13. For website activities that request personal information, you agree to provide accurate and current information about yourself. Your membership and/or participation in our website services will be canceled without notice if at any time we discover that you provide false information, or violate any term of this Privacy Policy or our Terms of Usage Use Agreement . If necessary, and in accordance with applicable law, SMARTHINKING will cooperate with local, state and/or federal authorities to protect its users, parents, partners, affiliates, subsidiaries and operational providers or to prevent unauthorized use of the site.
+The Smarthinking service is intended for students over the age of 13. For website activities that request personal information, you agree to provide accurate and current information about yourself. Your membership and/or participation in our website services will be canceled without notice if at any time we discover that you provide false information, or violate any term of this Privacy Policy or our Terms of Usage Use Agreement . If necessary, and in accordance with applicable law, Smarthinking will cooperate with local, state and/or federal authorities to protect its users, parents, partners, affiliates, subsidiaries and operational providers or to prevent unauthorized use of the site.
 
 III. Personal Information
 
