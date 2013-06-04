@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tirip.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116000402id_/http%3A//en.iransong.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tirip.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604215400id_/http%3A//en.iransong.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
