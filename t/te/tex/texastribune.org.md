@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the texastribune.org privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203034602id_/http%3A//www.texastribune.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texastribune.org privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604170233id_/http%3A//www.texastribune.org/privacy) for the most accurate reproduction.*
 
-# The Texas Tribune
+# Privacy Policy | The Texas Tribune
 
 Texas Tribune, Inc. (the "Company") respects your privacy. In that regard, we have created this Privacy Policy to let you know what information we collect when you visit our site, why we collect it, and how it is used. By using this Web site, you consent to the data practices prescribed in this Privacy Policy. The Company’s Privacy Policy governs the privacy guidelines for the Company’s Web site at www.texastribune.org (the "Site").
 
