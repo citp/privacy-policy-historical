@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbia.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022062955id_/http%3A//www.columbia.com/Privacy-Policy/Privacy_Policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbia.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604030812id_/http%3A//www.columbia.com/Privacy-Policy/Privacy_Policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Columbia Sportswear | Privacy Policy
 
@@ -68,9 +68,9 @@ You may also opt out from allowing Columbia to collect your geographic location 
 
 Finally, you may also send requests about your contact preferences, changes to your information or our Policy or privacy practices by writing us at:
 
-Columbia Sportswear complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Columbia Sportswear has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Columbia Sportswear’s certification, please visit <http://www.export.gov/safeharbor/>
-
 **Columbia Sportswear Company Attn: Ecommerce 14375 N.W. Science Park Dr. Portland, OR 97229**
+
+Columbia Sportswear complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Columbia Sportswear has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Columbia Sportswear’s certification, please visit <http://www.export.gov/safeharbor/>
 
 **CHANGES TO THIS POLICY**
 
