@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firingsquad.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217025532id_/http%3A//www.firingsquad.com/pages/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firingsquad.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604234756id_/http%3A//firingsquad.com/pages/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # FiringSquad: Home of the Hardcore Gamer - Games, Hardware, Reviews and News
 
@@ -48,4 +48,4 @@ This site gives users the following options for removing their information from 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can use our **[contact form](https://web.archive.org/contact.asp)** for fastest response. 
 
   
-[ [**Return to Previous Page**]() ] 
+[ [**Return to Previous Page**](http://www.firingsquad.com/hardware/amd_radeon_hd_4850_geforce_9800_gtx%20/) ] 
