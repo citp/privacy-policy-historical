@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2leep.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230214805id_/http%3A//2leep.com/data/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2leep.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605010551id_/http%3A//2leep.com/data/privacy.html) for the most accurate reproduction.*
 
 # 
 
