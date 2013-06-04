@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the schedulicity.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919211613id_/http%3A//www.schedulicity.com/About/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schedulicity.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604052727id_/https%3A//www.schedulicity.com/About/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Schedulicity - Online Scheduling
 
-Updated as of February 5, 2009
+Updated as of March 6, 2013
 
-We are Schedulicity, Inc. (“Schedulicity,” “we,” “us,” or “our”). We are located at 424 East Main, Ste. 201, Bozeman, Montana. Schedulicity takes your privacy seriously. Please read the following to learn more about our privacy policy, (the “Policy”) which describes how we treat personal information when you use the Schedulicity website (“Website”), as defined in our [Terms of Use](https://web.archive.org/SystemPages/Terms.html). This Policy is part of the Terms of Use that govern all use of the Website. Any capitalized terms used but not defined in this Policy are defined in the Terms of Use.
+We are Schedulicity, Inc. (“Schedulicity,” “we,” “us,” or “our”). We are located at 424 East Main, Ste. 201, Bozeman, Montana. Schedulicity takes your privacy seriously. Please read the following to learn more about our privacy policy, (the “Policy”) which describes how we treat personal information when you use the Schedulicity website (“Website”), as defined in our [Terms of Service](https://web.archive.org/SystemPages/Terms.html). This Policy is part of the Terms of Service that govern all use of the Website. Any capitalized terms used but not defined in this Policy are defined in the Terms of Service.
 
 What This Privacy Policy Covers
 
