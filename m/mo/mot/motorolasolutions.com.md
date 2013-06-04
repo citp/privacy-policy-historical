@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorolasolutions.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109150528id_/http%3A//www.motorolasolutions.com/Business/US-EN/About/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorolasolutions.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604020925id_/http%3A//www.motorolasolutions.com/Business/US-EN/About/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Statement - Motorola Solutions USA
 
@@ -26,7 +26,7 @@ More details
 
 **What choices do I have?**
 
-   | • | If you do not want to receive e-mail, direct mail or targeted advertisements regarding our products and services, simply tell us when you provide your personal information or by following the directions on our web sites to remove your name from our mailing list(s).  
+   | • | If you do not want to receive e-mail, direct mail or targeted advertisements regarding our products and services, simply tell us when you provide your personal information or by following the directions on our web sites to remove your name from our mailing list(s). [Click here to manage your communications preferences.](https://web.archive.org/Business/US-EN/Manage+My+Communications)  
 ---|---|---  
    | • | You have the right to access (review, correct, amend or delete) your personal information by contacting Motorola Solutions.  
   | • | If you have established a "user profile" on a Motorola Solutions web site, you may change the information you provided by visiting that portion of the web site and resubmitting your information.  
@@ -51,7 +51,7 @@ More details
 
 **How do I contact Motorola Solutions?**
 
-   | • | Please direct any questions concerning Motorola Solutions' privacy practices to [privacy1@motorolasolutions.com](mailto:privacy1@motorolasolutions.com). Requests to unsubscribe from ("opt-out" of) communications from Motorola Solutions may also be directed to [privacy1@motorolasolutions.com](mailto:privacy1@motorolasolutions.com). Or, mail your inquiry/request to:  
+   | • | Please direct any questions concerning Motorola Solutions' privacy practices to [privacy1@motorolasolutions.com](mailto:privacy1@motorolasolutions.com). Requests to unsubscribe from ("opt-out" of) communications from Motorola Solutions can be managed [here](https://web.archive.org/Business/US-EN/Manage+My+Communications). Or, mail your inquiry/request to:  
 ---|---|---  
    |   |   
 Motorola Solutions, Inc.  
@@ -114,7 +114,7 @@ Motorola Solutions shares web site usage information about visitors to our web s
 
 
 **What choices do I have regarding collection, use and distribution of my personal information?**  
-Motorola Solutions or its business partners may, from time to time, send you email or direct mail regarding our products and services. If you do not want to receive such information, simply tell us when you give us your personal information, or follow the directions contained on the mailing to remove your name from our mailing list(s).
+Motorola Solutions or its business partners may, from time to time, send you email or direct mail regarding our products and services. If you do not want to receive such information, simply tell us when you give us your personal information, or follow the directions contained on the mailing to remove your name from our mailing list(s). [Click here to manage your communications preferences.](https://web.archive.org/Business/US-EN/Manage+My+Communications)
 
 On certain types of Motorola Solutions promotions, we will ask for your email address in order to contact you in the event you have won a prize. When you participate in these types of promotions, you may receive promotion-related email. Occasionally these promotion-related email messages may include targeted advertisements. If you do not wish to receive such advertisements, you can choose not to participate in such promotions or contests.
 
@@ -124,7 +124,7 @@ You also have the right to access (review, correct, amend or delete) your person
 
 If you have established a "user profile" on a Motorola Solutions web site, you may change the information you provided by visiting that portion of the web site and resubmitting your information.
 
-Please direct any questions concerning Motorola Solutions' privacy practices to [privacy1@motorolasolutions.com](mailto:privacy1@motorolasolutions.com). Requests to unsubscribe from ("opt-out" of) communications from Motorola Solutions may also be sent to [privacy1@motorolasolutions.com](mailto:privacy1@motorolasolutions.com). Inquiries or requests may be mailed to:
+Please direct any questions concerning Motorola Solutions' privacy practices to [privacy1@motorolasolutions.com](mailto:privacy1@motorolasolutions.com). Requests to unsubscribe from ("opt-out" of) communications from Motorola Solutions can be managed [here](https://web.archive.org/Business/US-EN/Manage+My+Communications). Inquiries or requests may be mailed to:
 
    |   | Motorola Solutions, Inc.  
 Attention: Privacy Compliance Program  
