@@ -1,125 +1,282 @@
-<!--The following is the downloaded HTML source of the spotflux.com privacy policy that was archived on 2012-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121216024245id_/http%3A//spotflux.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spotflux.com privacy policy that was archived on 2013-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604033706id_/http%3A//spotflux.com/policy.php) for the most accurate reproduction.-->
 
-<html><head>
-		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-		<meta name="keywords" content="Spotflux">
-		<title>Spotflux Privacy Policy</title>
-	<link href="css/style_vertical.css" rel="stylesheet" media="screen" type="text/css">
-</head>
-	<body style="left:-164px; top:-147px; ">
+<!DOCTYPE html><html class=" js rgba opacity fontface" style=""><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="">
+<meta name="author" content="">
+<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1, user-scalable=no">
+
+<title>Spotflux</title>
+
+<!-- Embedding Favicon -->
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="icon" href="favicon.png" type="image/png">
+
+<!-- General Stylesheet -->
+<link href="stylesheets/style.css" rel="stylesheet" type="text/css">
+
+<!-- Media Queries -->
+<link href="stylesheets/media-queries.css" rel="stylesheet" type="text/css">
+
+<!-- Fallback Stylesheet -->
+<link href="stylesheets/no-fontface.css" rel="stylesheet" type="text/css">
+
+<!-- <script type="text/javascript" src="scripts/jquery-1.6.1.min.js"></script> -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="scripts/modernizr.custom.02710.js"></script>
+<script type="text/javascript" src="scripts/waypoints.js"></script>
+<script type="text/javascript" src="scripts/smooth-scroll.js"></script>
+<script type="text/javascript" src="scripts/stats.js"></script>
+
+<script>
+$(document).ready(function(){
+
+
+	$('#nav-start').waypoint(function(direction) { $('#nav li').removeClass('active');	if (direction === 'down') { $('#nav-start').addClass('active'); } else { $('#nav li').removeClass('active'); }}, { offset: "0px" });
+	$('#download').waypoint(function(direction) { 
+		$('#nav li').removeClass('active');	
+		if (direction === 'down') { 
+			$('#nav-download').addClass('active'); 
+		} else { 
+			//$('#nav-start').addClass('active'); 
+		}
+	}, { offset: 120 });
+	$('#process').waypoint(function(direction) { $('#nav li').removeClass('active');	if (direction === 'down') { $('#nav-process').addClass('active'); } else { $('#nav-download').addClass('active'); }}, { offset: 120 });
+	$('#features').waypoint(function(direction) { $('#nav li').removeClass('active'); if (direction === 'down') { $('#nav-features').addClass('active'); } else { $('#nav-process').addClass('active'); }}, { offset: 120 });
+
+	$("#nav a, #header a, #footer ul.current a").click(function(e){
+		e.preventDefault();
+		var hash = this.hash;
+		var clicked_link = $(this);
+		$.smoothScroll({
+			scrollTarget: hash,
+			offset: -120, 
+			afterScroll: function() {
+				$('#nav li').removeClass('active');
+				clicked_link.parent().addClass('active');
+			}
+		});
+	});
+
 	
-<div style="width:1024px; margin-right:auto; margin-left:auto; position:relative; background-size:inherit; left:0; top:0; background-repeat-x:no-repeat; background-repeat-y:repeat; background-repeat:repeat-y; height:4500px; -webkit-border-top-left-radius:30px; border-top-left-radius:30px; -o-border-top-left-radius:30px; -ms-border-top-left-radius:30px; -moz-border-radius-topleft:30px; -webkit-border-top-right-radius:30px; border-top-right-radius:30px; -o-border-top-right-radius:30px; -ms-border-top-right-radius:30px; -moz-border-radius-topright:30px; background-image:url(images/1024/BG_RepeatT.jpg); "><div style="position:relative; height:100px; width:551px; left:450px; top:30px; "><p style="position:relative; height:282px; left:13px; top:26px; width:551px; font-size:50pt; " class="headline_large a:hover">Spotflux Privacy Policy</p></div><div style="position:absolute; color:#FAFAFA; letter-spacing:1px; font-size:13pt; width:976px; left:23px; top:194px; font-family:Helvetica; height:4292px; ">
-SPOTFLUX.COM PRIVACY POLICY<br><br>
+	if (location.hash !== "") {
+	  $.smoothScroll({
+		offset: -120,  
+		scrollTarget: json.encode(location.hash)
+	  });
+	}
 
-General Overview<br><br>
+});
+</script>
 
-The purpose of this privacy policy (“Privacy Policy”) is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we have collected from you.<br><br>
+<script>
+	    var arrayWithElements = new Array();
 
-Spotflux, Inc. (“Spotflux”, “us”, or “we”) is committed to protecting your privacy. Spotflux collects very limited types and categories of personally identifiable information regarding its users in an effort to maintain their privacy and anonymity in connection with their use of the Spotflux services (the “Services”).  We use the information we collect about you to facilitate commercial transactions and to provide you with a more personalized experience. We have created this Privacy Policy in order to demonstrate our firm commitment to protecting the privacy of all of our users and visitors. The following Privacy Policy discloses the information-gathering and dissemination practices and policies of Spotflux.<br><br>
+document.onclick = clickListener;
 
-This Privacy Policy informs you about the following: <br><br>
+function clickListener(e) {
+    var clickedElement;
+    if(e == null) {
+        clickedElement = event.srcElement;
+    } else {
+        clickedElement = e.target;
+    }
+    arrayWithElements.push(clickedElement)
+    //alert(arrayWithElements);
+    if(clickedElement.id ==="downloadwin"){
 
-1.	The types of information that may be collected <br><br>
-2.	The types of information that Spotflux does not collect during Spotflux sessions <br><br>
-3. 	How information is collected <br><br>
-4. 	How we use the information that we collect <br><br>
-5. 	With whom the information that we collect may be shared <br><br>
-6. 	The choices that you have about Spotflux collecting, using, and sharing your information <br><br>
-7. 	The security precautions that are in place to protect against the loss, misuse, or alteration of your personally identifiable information <br><br>
-8.	How Spotflux responds to civil investigations <br><br>
-9.	How Spotflux responds to criminal investigations <br><br>
-10. 	Links to other web sites <br><br>
-11. 	A special note for parents concerning privacy <br><br>
-12	Limitation of liability <br><br>
-13	Notification of changes and acceptance of this Privacy Policy <br><br>
-14.	Correcting and updating personally-identifiable information <br><br>
-15.	Whom do I contact with questions or concerns about this Privacy Policy?<br><br>
+		var oImg=document.createElement("img");
+		oImg.setAttribute('src', 'http://www.spotflux.com/downloaded.php?os=win');
+		document.body.appendChild(oImg);
 
-1.	Types of information that may be collected<br>
-In the process of providing the Services, we require our users to provide certain limited types of personally identifiable information. These presently include the following:
-* Upon registration to use the Services, we require all users to complete a Spotflux Registration Form (“Registration Form”). The personally identifiable information that Spotfux collects from our users during the completion of a Registration Form is as follows:  email address, password and IP address. * During Spotflux sessions, Spotflux may count and retain the number of bytes of data uploaded and downloaded by each user.  Although this is not, in itself, personally identifiable information, Spotflux may retain this information as it relates to, or is associated with, a particular user’s Spotflux account and/or IP address. <br><br>
+    }
+        if(clickedElement.id ==="downloadmac"){
 
-* Also, if a user sends us personal correspondence, such as emails or letters, we may collect such information into a file specific to such user for the purpose of assisting or communicating with that user.<br><br>
+		var oImg=document.createElement("img");
+		oImg.setAttribute('src', 'http://www.spotflux.com/downloaded.php?os=mac');
+		document.body.appendChild(oImg);
 
-2.	The types of information that Spotflux does not collect during Spotflux sessions.  
-Spotflux does not do any of the following during the course of your use of the Services:  
-a.	Perform deep packet inspection of user traffic, except where necessary for troubleshooting or compliance with the law. 
-b.	Perform shallow packet inspection of user traffic, except where necessary for troubleshooting or compliance with the law. 
-c.	Discriminate against devices, protocols, or applications, unless they are determined by Spotflux to be harmful to the Services or illegal. 
-d.	Throttle user connections or purposely timeout user connections. <br><br>
+    }
+}
+</script>
 
-3.	How the information is collected
-We and/or our third-party service providers may collect information from you in several different areas on the web site located at the URL, www.Spotflux.com (the “Site”), or within the Spotflux Service including but not limited to those described below:<br><br>
-
-* Registration
-You will be asked first to complete a Registration Form and provide a verifiable email address.  You will also be asked to choose a password in order to use a function or feature of any of the Services offered on or through the Site. <br><br>
-
-* Site Emails 
-We may offer or provide email circulars and/or email blasts to users to communicate information to them about the Site and our proprietary technology and the Services (collectively, the “Spotflux Technology”), or about our business partners, advertisers and sponsors. You may receive an email circular and/or email blast either by registering to use the Services generally or by registering specifically for a special feature or function of any of the Services. You may cancel your free email subscription to these circulars and email blasts by following the instructions provided on the emails you receive .<br><br>
-
-* Cookies and Usage Tracking
-Spotflux tries its best to never use tracking cookies however as with many web sites, the Site or Service may sometimes use  cookies for performance tuning measures. Cookies  are small data files that are transferred to your computer when you allow your browser to accept cookies. Cookies automatically identify your Web browser to the Site whenever you visit the Site, and make using the Site easier for you by saving your password, and preferences. By tracking how and when you use the Site, cookies help us determine which areas are the most popular. Improvements and updates to the Site may be based upon data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Site. Cookies may also allow the Site to present to you advertising which may be of interest to you.  If you do not have cookies enabled on your browser, you may not be able to use the Services  and/or access or use the Spotflux Technology.  While much of the information that we collect from users in this manner is not personally identifiable, it may be associated with the email address that a user voluntarily provides to us during the registration process.  In addition to using cookies, Spotflux may track your usage of the Site using other web analytics software and store this information on its computer servers and/or the computer servers of its third-party contractors.  Spotflux will not disclose your usage information that is collected in this manner to third-parties (other than in anonymized form) without your permission. For example, we may report the total number of visitors to our website but not the individual IP addresses or email addresses associated with those visits.<br><br>
+</head>
 
 
-4.	How we use the information that we collect
-We internally use personally identifiable information about our users to improve our marketing and promotional efforts, to statistically analyze Site and Services usage, to improve our content and Services offerings and to customize our Site's content and layout. We believe these uses allow us to improve our Site and provide better service to our users.  We also use data that we collect for purposes of enforcing compliance with our Acceptable Use Policy and to respond to authorities regarding alleged crimes performed over the Service.<br><br>
+<body>
+<a name="nav-start" id="nav-start"></a>
+<!-- Begin Header -->
+<div id="meta">
+	<div class="wrapper">
+		<div id="logo">
+			<a href="index.php#nav-start"><img src="images/logo.png" alt="Logo Spotflux"></a>
+		</div>
+		<div id="nav">
+			<ul>
+				<li id="nav-download"><a href="index.php#download">Download</a></li>
+				<li id="nav-process"><a href="index.php#process">How it works</a></li>
+				<li id="nav-features"><a href="index.php#features">Features</a></li>
+				<li class="totop" id="nav-start"><a href="#nav-start"></a></li>
+			</ul>
+		</div>
+	</div>
+</div><div id="header" class="clear">
 
-We occasionally may use a user's email address to contact a user regarding administrative or user support/Services-related reasons.<br><br>
+</div>
 
-We also may use information in the file we maintain about a user to resolve disputes. <br><br>
+<!-- End Header -->
 
-5.	With whom the information that we collect may be shared
-From time to time, Spotflux may send you offers and/or targeted advertising from Spotflux, and/or from our partners based upon the information you have provided us. In all such case, however, the targeting decisions and the placement and sending of such offers and advertisements are made by Spotflux and/or the Spotflux Technology, and the foregoing are transmitted utilizing the Spotflux network.    Therefore, even in connection with targeted advertising by our sponsors and promotional partners, Spotflux will not provide personally identifiable information that we collect about you to such third party companies. 
-Although we do not share your personally identifiable information with third parties, Spotflux may still share your information in aggregated and anonymized (non-personally-identifiable) form (including, without limitation, analytical and trending data) with its third-party content providers, advertisers, promotional partners, and other third parties to allow them to optimize their content, and/or services, and/or for other business reasons.<br><br>
+<!-- Begin Content -->
+<div class="content">
+	<div class="headline"><h1 class="margin-mobile">Privacy Policy</h1></div>
+		<h2 class="nomargin">General Overview</h2>
+		<p>The purpose of this privacy policy (“Privacy Policy”) is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we have collected from you.</p>
+		<br>
+		<p>Spotflux, Inc. (“Spotflux”, “us”, or “we”) is committed to protecting your privacy. Spotflux collects no personally identifiable information regarding its users in an effort to maintain their privacy and anonymity in connection with their use of the Spotflux services (the “Services”). We may use real-time analytics to facilitate commercial transactions and to provide you with a more personalized experience however this is rarely done and is done in a manner that does not keep a personally identifiable record in our systems. We have created this Privacy Policy in order to demonstrate our firm commitment to protecting the privacy of all of our users and visitors. The following Privacy Policy discloses the information-gathering and dissemination practices and policies of Spotflux.</p>
+		<hr>
+		<h2 class="nomargin">This Privacy Policy informs you about the following: </h2>
+		<ol>
+			<li>The types of information that may be collected </li>
+			<li>The types of information that Spotflux does not collect during Spotflux sessions </li>
+			<li>How information is collected </li>
+			<li>How we use the information that we collect </li>
+			<li>With whom the information that we collect may be shared </li>
+			<li>The choices that you have about Spotflux collecting, using, and sharing your information </li>
+			<li>The security precautions that are in place to protect against the loss, misuse, or alteration of your personally identifiable information </li>
+			<li>How Spotflux responds to civil investigations </li>
+			<li>How Spotflux responds to criminal investigations </li>
+			<li>Links to other web sites</li>
+			<li>A special note for parents concerning privacy </li>
+			<li>Limitation of liability </li>
+			<li>Notification of changes and acceptance of this Privacy Policy </li>
+			<li>Correcting and updating personally-identifiable information </li>
+			<li>Whom do I contact with questions or concerns about this Privacy Policy?</li>		
+		</ol>
+		<h2>1. Types of information that may be collected</h2>
+		<p>In the process of providing the Services, we do not require our users to provide personal information to use our free services (We do not require your name, email, etc).  For paying customers, any information collected during the time of sale is only used for internal customer relations, quality assurance, and product improvement purposes and this information is not shared with any third party. While installing one of our products the product will create a unique identifier on your system or device that allows us to diagnose system issues and respond to support requests. Your unique device identifier is also used to communicate back to you any statistics that our security and privacy filters are generating. These type of statistics include but are not limited to: Number of viruses blocked for your device, the number of trackers blocked for your device, and the amount of bandwidth we've save on your device. The unique identifier is not used for tracking your internet browsing activities. When you log on to spotflux you are given a new and unique IP address within our internal network. This internal IP address is not unique to you and is not used for tracking your internet browsing activities.   </p>
 
-6.	The choices that I have about Spotflux collecting, using, and sharing my information<br><br>
+		<br>
 
-Some or all of the features of the Site, and access to and use of our Services and/or the Spotflux Technology will not be available if you choose not to register with us and to provide us with your email address.<br><br>
+		* Also, if a user sends us personal correspondence, such as emails or letters, we may collect such information into a file specific to such user for the purpose of assisting or communicating with that user.
 
-7.	The security precautions that are in place to protect against the loss, misuse, or alteration of your personally identifiable information<br><br>
-
-We use industry standard efforts and have established reasonable security procedures to safeguard the confidentiality of your personally identifiable information. However, please keep in mind that "perfect security" does not exist on the Internet and/or the World Wide Web, and Spotflux assumes no responsibility, and expressly disclaims all liability, with regard to the loss or disclosure of your information due to causes outside of its direct control, including, without limitation, general Internet or transmittal failures and the actions of third-parties, such as hackers.<br><br>
-
-8.	How Spotflux responds to civil investigations<br><br>
-
-Spotflux will not release a user's personally identifiable or usage information in civil litigation to investigators, attorneys, or agencies, unless we are directed to do so by a court of competent jurisdiction in the matter. If there is a hearing in court, the user will be notified, so they will have an opportunity to contest the surrender of personally identifiable information. <br><br>
-
-9.	How Spotflux responds to criminal investigations<br><br>
-
-Spotflux cooperates fully with law enforcement agencies, yet, in most cases, we must be served with a subpoena before we will provide a user's personally identifiable information to the relevant authorities. In a criminal investigation, Spotflux may be required by the relevant legal authority to not divulge the fact of the investigation to the applicable user. <br><br>
-
-10.	Links to other Web Sites<br><br>
-
-You should be aware that when you are on the Site, you could be directed to other web sites that are not under our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a third-party web site. This process may include hypertext links or other links from advertisers, sponsors and partners that may use the Site's logo as part of a co-branding arrangement. These other web sites may send their own cookies to you, independently collect data, or solicit personally identifiable information, and may or may not have their own published privacy policies. If you visit a web site that is linked to our Site, you should consult that web site's privacy policy before providing any personally identifiable information.  This Privacy Policy does not apply to any information that you submit to third-party web sites, including, without limitation, any web sites that may be connected to our Site by hypertext link or otherwise <br><br>
-
-11.	A special note for parents concerning privacy <br><br>
-
-If you are a minor under the age of 16 years, please use the Site and our Services only under the approval and supervision of your parents or legal guardian(s), and do not register to use our Services or provide your email address to us.  We ask that children under 16 (i.e., 15 years of age and under) not submit any personally identifiable information to us, including their email address, and that any such information be provided by their parent or legal guardian and pertain and be personally-identifiable only to such parent or guardian and not to such minor child.  We support the guidelines and regulatory requirements provided in the Children's Online Privacy Protection Act (COPPA).<br><br>
-
-12.	Limitation of Liability<br><br>
-
-BY PROVIDING US WITH ANY PERSONALLY IDENTIFIABLE INFORMATION, YOU EXPRESSLY AND UNCONDITIONALLY RELEASE AND HOLD HARMLESS SPOTFLUX AND ITS INTEREST HOLDERS, SUBSIDIARIES, AFFILIATES, DIRECTORS, OFFICERS, TRUSTEES, EMPLOYEES, VOLUNTEERS AND AGENTS (COLLECTIVELY, THE “RELEASEES”) FROM ANY AND ALL LIABILITY FOR ANY INJURIES, LOSSES,  DAMAGES, COSTS OR EXPENSES OF ANY KIND ARISING FROM OR IN CONNECTION WITH THE USE AND/OR MISUSE OF YOUR COLLECTED PERSONALLY IDENTIFIABLE INFORMATION.  IN ADDITION, WHILE SPOTFLUX MAKES EFFORTS TO ENSURE THE PROPER AND APPROPRIATE USE OF DATA PROVIDED BY SPOTFLUX TO THIRD-PARTIES, INCLUDING, WITHOUT LIMITATION, PROMOTIONAL PARTNERS AND CONTENT-PROVIDERS, THE RELEASEES SHALL NOT BE LIABLE FOR ANY INJURIES, LOSSES OR DAMAGES OF ANY KIND ARISING FROM, OR IN CONNECTION WITH, THE USE AND/OR MISUSE OF SUCH INFORMATION BY SUCH THIRD PARTIES.<br><br>
-
-13.	Notification of changes and acceptance of this Privacy Policy<br><br>
-
-By using this Site, you signify your agreement to the terms of our Privacy Policy. Spotflux may change this Privacy Policy from time to time. If so, any such changes will be posted on this Privacy Policy, so that Spotflux may keep its users informed of its information collection practices. Accordingly, we recommend that you consult this Privacy Policy frequently so that you are aware of our latest Privacy Policy and/or any changes to this Privacy Policy.  Your continued use of the Site following any such change shall constitute your acceptance of any such new or revised Privacy Policy.  <br><br>
-
-14.	Correcting and updating personally identifiable information<br><br>
-
-If your personally identifiable information changes, or if you no longer desire to access our Site, the only way to correct, update or remove the personally identifiable information you have provided to us is to cancel your registration, if desired, and re-register by going through the registration process again and submitting a new email address. <br><br>
-
-15.	Whom do I contact with questions or concerns about this Privacy Policy?<br><br>
-
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact Spotflux by sending a letter to:<br><br>
-
-Spotflux, LLC 
-33 Nassau Ave, Suite 26
-New  York, NY 11222<br><br>
-
-You may also contact us by e-mail at privacy@Spotflux.com<br><br>
+		<h2>Third Party Advertisers - Free Users Only</h2>
+		On a highly selective basis, Spotflux allows other companies, called third-party ad servers or ad networks, to serve advertisements within Spotflux to non-paying customers. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Spotflux These third parties may automatically receive your IP Address for the purposes of serving geographically contextual ads.  Advertisers may also use other technologies (such as cookies, javascript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content. Spotflux's Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or other web sites visited by Users. Please note that this Privacy Notice will not apply to your activities or any information you disclose while using any third-party products or services or otherwise interacting with third parties. How third parties handle and use your personal information related to their sites and services is governed by their security, privacy and other policies, if any, and not this Privacy Notice. Spotflux has no responsibility for any third party's policies, or any third party's compliance with them. Anyone may opt out of the cookies as directed by NAI opt-out page, which is currently located at http://www.networkadvertising.org/managing/opt_out.asp
 
 
+		<h2>2.	The types of information that Spotflux does not collect during Spotflux sessions</h2>
+		<p>Spotflux does not do any of the following during the course of your use of the Services: a.	Perform deep packet inspection of user traffic, except where necessary for troubleshooting, preventing malware or trackers as part of our secure cloud offering, or for compliance with law enforcement under proper due process. b.	Perform shallow packet inspection of user traffic, except where necessary for troubleshooting, preventing malware or trackers as part of our secure cloud offering, or for compliance with law enforcement under proper due process. c.	Discriminate against devices, protocols, or applications, unless they are determined by Spotflux to be harmful to the Services or illegal. d.	Throttle user connections or purposely timeout user connections unless they are determined by Spotflux to be harmful to the Services or illegal.. </p>
 
-</div></div>
+		
+		<h2>3.	How the information is collected</h2>
+		<p> We and/or our third-party service providers may collect information from you in several different areas on the web site located at the URL, www.Spotflux.com (the “Site”), or within the Spotflux Service including but not limited to those described below:
+
+* Site Emails We may offer or provide email circulars and/or email blasts to users to communicate information to them about the Site and our proprietary technology and the Services (collectively, the “Spotflux Technology”), or about our business partners, advertisers and sponsors. You may receive an email circular and/or email blast either by registering to use the Services generally or by registering specifically for a special feature or function of any of the Services. You may cancel your free email subscription to these circulars and email blasts by following the instructions provided on the emails you receive . We will not collect your email address unless you specifically give it to us through either a support request or a voluntary opt-in promotion.</p>
+
+
+		<h2>4. How we use the information that we collect</h2>
+		<p>Cookies and Usage Tracking Spotflux tries its best to never use tracking cookies. We use a PIWIK analytics cookie on our website to track how many downloads we've had, and other aggregate statistics about our website such as where are our site visitors coming from. We use PIWIK as it is an open source analytics tool which ensures that we own the data we collect (versus Google Analytics or some other third party service) and we never share that analytics information with third parties unless it is in an aggregate form (Total number of downloads in January for example). * Unique product identifier Upon installing spotflux each installation produces a unique device identifier that is passed to our systems for the purposes of enhancing your level of service. This unique identifier is not used to track your browsing activities but rather to provide basic services and reporting such as: 1) How many viruses our backend blocked for you 2)How many trackers our backend blocked for you and 3) How much data we saved your device. 4.	How we use the information that we collect We internally may use data we collect (as outlined in section 1) to improve our marketing and promotional efforts, to statistically analyze Site and Services usage, to improve our content and Services offerings and to customize our Site's content and layout. We believe these uses allow us to improve our Site and provide better service to our users. We also use data that we collect for purposes of enforcing compliance with our Acceptable Use Policy and to respond to authorities regarding alleged crimes performed over the Service. 
+
+We occasionally may use a user's email address to contact a user regarding administrative or user support/Services-related reasons.</p>
+
+		<h2>5.	With whom the information that we collect may be shared</h2>
+		<p> From time to time, Spotflux may send you offers and/or targeted advertising from Spotflux, and/or from our partners. In all such cases, however, the targeting decisions and the placement and sending of such offers and advertisements are made by Spotflux and/or the Spotflux Technology, and the foregoing are transmitted utilizing the Spotflux network. Therefore, even in connection with targeted advertising by our sponsors and promotional partners, Spotflux will not provide personally identifiable information about you to such third party companies. Although we do not share your personally identifiable information with third parties, Spotflux may still share your information in aggregated and anonymized (non-personally-identifiable) form (including, without limitation, analytical and trending data) with its third-party content providers, advertisers, promotional partners, and other third parties to allow them to optimize their content, and/or services, and/or for other business reasons.</p>
+		
+		
+		<h2>6. The choices that I have about Spotflux collecting, using, and sharing my information</h2>
+
+<p>Users may enable or disable spotflux at-will as it is a free service. 7.	The security precautions that are in place to protect against the loss, misuse, or alteration of information stored at Spotflux
+
+We use industry standard efforts and have established reasonable security procedures to safeguard the confidentiality of all information stored at Spotflux. However, please keep in mind that "perfect security" does not exist on the Internet and/or the World Wide Web, and Spotflux assumes no responsibility, and expressly disclaims all liability, with regard to the loss or disclosure of your information due to causes outside of its direct control, including, without limitation, general Internet or transmittal failures and the actions of third-parties, such as hackers.</p>
+
+		<h2>8.	How Spotflux responds to civil investigations</h2>
+
+<p>Spotflux will not release any information in civil litigation to investigators, attorneys, or agencies, unless we are directed to do so by a court of competent jurisdiction in the matter. Since spotflux keeps limited to no logs, the amount of information available to law enforcement is very limited. </p>
+
+
+		<h2>9.	How Spotflux responds to criminal investigations</h2>
+
+		<p>Spotflux cooperates fully with law enforcement agencies, yet, in most cases, we must be served with a subpoena before we will provide ANY information to the relevant authorities. In a criminal investigation, Spotflux may be required by the relevant legal authority to not divulge the fact of the investigation to the applicable user. Spotflux believes in the United States Justice System and requests that any and all law enforcement requests follow proper due process in order to receive timely attention. </p>
+
+
+		<h2>10.	Links to other Web Sites</h2>
+
+		<p>You should be aware that when you are on the service or the spotflux website, you could be directed to other web sites that are not under our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a third-party web site. This process may include hypertext links or other links from advertisers, sponsors and partners that may use the Site's logo as part of a co-branding arrangement. These other web sites may send their own cookies to you, independently collect data, or solicit personally identifiable information, and may or may not have their own published privacy policies. If you visit a web site that is linked to our Site, you should consult that web site's privacy policy before providing any personally identifiable information. This Privacy Policy does not apply to any information that you submit to third-party web sites, including, without limitation, any web sites that may be connected to our Site by hypertext link or otherwise </p>
+
+
+		<h2>11.	A special note for parents concerning privacy </h2>
+
+<p>If you are a minor under the age of 16 years, please use the Site and our Services only under the approval and supervision of your parents or legal guardian(s), and do not provide your email address to us. We ask that children under 16 (i.e., 15 years of age and under) not submit any personally identifiable information to us, including their email address, and that any such information be provided by their parent or legal guardian and pertain and be personally-identifiable only to such parent or guardian and not to such minor child. We support the guidelines and regulatory requirements provided in the Children's Online Privacy Protection Act (COPPA).
+		</p>
+		
+		
+		<h2>12.	Limitation of Liability</h2>
+
+<p>BY PROVIDING US WITH ANY PERSONALLY IDENTIFIABLE INFORMATION, YOU EXPRESSLY AND UNCONDITIONALLY RELEASE AND HOLD HARMLESS SPOTFLUX AND ITS INTEREST HOLDERS, SUBSIDIARIES, AFFILIATES, DIRECTORS, OFFICERS, TRUSTEES, EMPLOYEES, VOLUNTEERS AND AGENTS (COLLECTIVELY, THE “RELEASEES”) FROM ANY AND ALL LIABILITY FOR ANY INJURIES, LOSSES, DAMAGES, COSTS OR EXPENSES OF ANY KIND ARISING FROM OR IN CONNECTION WITH THE USE AND/OR MISUSE OF YOUR COLLECTED PERSONALLY IDENTIFIABLE INFORMATION. IN ADDITION, WHILE SPOTFLUX MAKES EFFORTS TO ENSURE THE PROPER AND APPROPRIATE USE OF DATA PROVIDED BY SPOTFLUX TO THIRD-PARTIES, INCLUDING, WITHOUT LIMITATION, PROMOTIONAL PARTNERS AND CONTENT-PROVIDERS, THE RELEASEES SHALL NOT BE LIABLE FOR ANY INJURIES, LOSSES OR DAMAGES OF ANY KIND ARISING FROM, OR IN CONNECTION WITH, THE USE AND/OR MISUSE OF SUCH INFORMATION BY SUCH THIRD PARTIES.</p>
+
+		<h2>13.	Notification of changes and acceptance of this Privacy Policy</h2>
+
+<p>By using this Site, you signify your agreement to the terms of our Privacy Policy. Spotflux may change this Privacy Policy from time to time. If so, any such changes will be posted on this Privacy Policy, so that Spotflux may keep its users informed of its information collection practices. Accordingly, we recommend that you consult this Privacy Policy frequently so that you are aware of our latest Privacy Policy and/or any changes to this Privacy Policy. Your continued use of the Site following any such change shall constitute your acceptance of any such new or revised Privacy Policy. </p>
+
+
+		<h2>14.	Correcting and updating personally identifiable information</h2>
+
+<p>If if you no longer desire to access our services simply uninstall Spotflux from your device. If you've supplied us with an email address you may opt-out of mailings by selecting the opt-out link inside the most recent email you received. Please note that support related emails do not contain opt-out links as they are considered to be an open dialog. </p>
+
+		<h2>Changes and Updates to this Privacy Notice:
+<p>This Spotflux Privacy Notice may be revised periodically and this will be reflected by the "last modified" notice above. Please revisit this page to stay aware of any changes. Your continued use of the Spotflux services constitutes your agreement to this Privacy Notice and any future revisions.
+
+
+		</p></h2><h2>15.	Whom do I contact with questions or concerns about this Privacy Policy?</h2>
+
+<p class="margin-bottom">If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact Spotflux by sending a letter to:
+
+Spotflux, Inc. 110 Kent Ave, Suite 3 Brooklyn, NY 11211
+
+You may also contact us by e-mail at privacy@Spotflux.com</p>
+
+
+</div>
+<!-- End Content -->
+<!-- Begin Footer -->
+<div id="footer">
+	<div id="footer-content">
+		<div id="footer-list">
+			<ul>		
+				<li>Spotflux</li>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="index.php#download">Download</a></li>
+				<li><a href="index.php#process">How it works</a></li>
+				<li><a href="index.php#features">Features</a></li>
+				<li><a href="index.php#quotes">What others say</a></li>
+			</ul>
+			<ul>
+				<li>About</li>
+				<li><a href="company.php">What we do</a></li>
+				<li><a href="company.php#team">Who we are</a></li>
+				<li><a href="company.php#investors">Our investors</a></li>
+			</ul>
+			<ul>
+				<li>Learn more</li>
+				<li><a href="learnmore.php">Video</a></li>
+				<li><a href="learnmore.php#questions">Questions?</a></li>
+			</ul>
+			<ul class="last">
+				<li>Contact</li>
+				<!--<li><a href="work.php">Work at Spotflux</a></li>-->
+				<li><a href="http://support.spotflux.com" target="support">Support</a></li>
+				<!-- <li><script type="text/javascript">eval(decodeURIComponent('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%5c%22%6d%61%69%6c%74%6f%3a%69%6e%66%6f%40%73%70%6f%74%66%6c%75%78%2e%63%6f%6d%5c%22%3e%45%6d%61%69%6c%3c%5c%2f%61%3e%27%29%3b'))</script></li> -->
+				<li><script type="text/javascript">eval(decodeURIComponent('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%5c%22%6d%61%69%6c%74%6f%3a%70%72%65%73%73%40%73%70%6f%74%66%6c%75%78%2e%63%6f%6d%5c%22%3e%50%72%65%73%73%20%49%6e%71%75%69%72%69%65%73%3c%5c%2f%61%3e%27%29%3b'))</script><a href="mailto:press@spotflux.com">Press Inquiries</a></li>
+				<li><a href="https://www.facebook.com/spotflux" target="aa"><img src="images/ic_facebook.png" alt="Spotflux on facebook"></a></li>
+				<li><a href="https://twitter.com/spotflux" target="ab"><img src="images/ic_twitter.png" alt="Spotflux on twitter"></a></li>
+			</ul>
+		</div>
+		<div id="copyright">
+			<p>Come visit us at 110 Kent Ave in Brooklyn, NY.</p>
+			<p>© 2013 Spotflux, Inc. | <a href="policy.php">Privacy Policy</a> | <a href="terms.php">Terms of Service</a></p>
+		</div>
+	</div>
+</div>
+<!-- End Footer -->
+
 </body></html>
