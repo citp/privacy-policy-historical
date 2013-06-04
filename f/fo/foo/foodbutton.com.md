@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodbutton.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130002226id_/http%3A//www.foodbutton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodbutton.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604094357id_/http%3A//www.foodbutton.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Easy Recipes, Healthy Eating Ideas and Chef Recipe
 
@@ -72,33 +72,33 @@ Ten years ago, Elizabeth Schneider, the doyenne...
 
 [](http://www.pjtra.com/t/R0BFS0NJQ0BGQ0RMRUBFRUpDSA)
 
-First, he goes onto the roof. It will be...
+[](http://www.foodbutton.com/kittencals-italian-melt-in-your-mouth-meatballs/)
 
-[more >](http://www.foodbutton.com/is-your-supper-safe/)
+Ingredients:Yield: 1 1/2 1.5 Servings Size pounds Update...
 
-[](http://www.foodbutton.com/copycat-famous-dave%e2%80%99s-corn-bread-with-honey-jalapeno-glaze/)
+[more >](http://www.foodbutton.com/kittencals-italian-melt-in-your-mouth-meatballs/)
 
-I am a huge corn bread fan and nobody does...
+[](http://www.foodbutton.com/sour-cream-breakfast-muffins/)
 
-[more >](http://www.foodbutton.com/copycat-famous-dave%e2%80%99s-corn-bread-with-honey-jalapeno-glaze/)
+Breakfast is the most important meal of the...
 
-[](http://www.foodbutton.com/copycat-starbucks-caramel-scones/)
+[more >](http://www.foodbutton.com/sour-cream-breakfast-muffins/)
 
-3 cups unbleached all-purpose flour 1/2 cup...
+[](http://www.foodbutton.com/copycat-olive-garden-pumpkin-cheesecake/)
 
-[more >](http://www.foodbutton.com/copycat-starbucks-caramel-scones/)
+The fall season is upon us. Just in time...
 
-[](http://www.foodbutton.com/asparagus-topped-with-creamy-tarragon-sauce/)
+[more >](http://www.foodbutton.com/copycat-olive-garden-pumpkin-cheesecake/)
 
-This sauce is like a luscious, creamy bearnaise...
+This week I noticed many news media outlets...
 
-[more >](http://www.foodbutton.com/asparagus-topped-with-creamy-tarragon-sauce/)
+[more >](http://www.foodbutton.com/why-the-new-study-on-high-fructose-corn-syrup-and-weight-gain-is-flawed/)
 
-[](http://www.foodbutton.com/crab-and-avocado-salad/)
+[](http://www.foodbutton.com/broiled-halibut-with-ricotta-pea-puree/)
 
-Ingredients Kosher salt 1/2 pound haricots...
+Ingredients 3 small carrots, quartered lengthwise 1...
 
-[more >](http://www.foodbutton.com/crab-and-avocado-salad/)
+[more >](http://www.foodbutton.com/broiled-halibut-with-ricotta-pea-puree/)
 
 [](https://web.archive.org/soup-sip-and-bread-at-nitida)
 
