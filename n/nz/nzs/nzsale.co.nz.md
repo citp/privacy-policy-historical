@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nzsale.co.nz privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105070720id_/http%3A//www.nzsale.co.nz/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzsale.co.nz privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604131437id_/http%3A//www.nzsale.co.nz/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# NZSALE - Privacy Policy
+# Nzsale.co.nz - Privacy
 
 NZSALE.CO.NZ, referred to below as Nzsale, is an online retailer of consumer goods owned and operated by Ozsale Pty Limited.
 
