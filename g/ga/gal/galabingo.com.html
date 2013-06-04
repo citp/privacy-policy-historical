@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the galabingo.com privacy policy that was archived on 2012-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121028005858id_/http%3A//www.galabingo.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the galabingo.com privacy policy that was archived on 2013-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604034748id_/http%3A//www.galabingo.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Privacy and policy</title>
-<script async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<meta http-equiv="X-UA-Compatible" content="requiresActiveX=true">
+<script type="text/javascript" async="" src="https://gb.bubblelytics.com/modules/base/js/owa.tracker-combined-min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
 if (window.location.pathname.indexOf('http://mobile.galabingo.com') == -1) {
 var mobileRedirectScript = document.createElement("script");
 mobileRedirectScript.type = "text/javascript";
@@ -23,14 +24,21 @@ checkRedirect();
 }
 }
 function checkRedirect() {
+if (typeof playtechRedirectToWebAppsLobbyIfSupportedDevice == 'function') {
+if ('banner_domainclick'.length == 0 || document.cookie.indexOf('banner_domainclick') == -1) {
 playtechRedirectToWebAppsLobbyIfSupportedDevice('http://mobile.galabingo.com');
+} else {
+playtechRedirectToWebAppsLobbyIfSupportedDevice('https://wap.galabingo.com/bingo/en/?page=signup&successurl=https://galabingo.virtuefusion.com/mobile/html5/index.html&externallogin=1');
+}
+}
 }
 }
 </script><script type="text/javascript" src="http://wap.galabingo.com/en/api.js"></script>
 <meta content="text/html; charset=UTF-8" http-equiv="content-type">
 <link rel="canonical" href="/privacy-policy">
 <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
-<link href="/gala-bingo-2-theme/images/favicon.ico" rel="Shortcut Icon XXXXXX">
+<link href="http://cachewww.galabingo.com/gala-bingo-2-theme/images/favicon.ico" rel="Shortcut Icon XXXXXX">
+<link href="http://www.galabingo.com/privacy-policy" hreflang="en-GB" rel="alternate" title="Privacy and policy">
 <link href="http://cachewww.galabingo.com/html/portlet/journal_content/css/main.css" rel="stylesheet" type="text/css">
 <script type="text/javascript">
 window.Playtech = window.Playtech || {};
@@ -203,7 +211,7 @@ isSignedIn: function() {
 return false;
 },
 getDefaultLanguageId: function() {
-return "en_US";
+return "en_GB";
 },
 getLanguageId: function() {
 return "en_US";
@@ -224,16 +232,16 @@ getPathContext: function() {
 return "";
 },
 getPathImage: function() {
-return "/image";
+return "http://cachewww.galabingo.com/image";
 },
 getPathJavaScript: function() {
-return "/html/js";
+return "http://cachewww.galabingo.com/html/js";
 },
 getPathMain: function() {
 return "/c";
 },
 getPathThemeImages: function() {
-return "/gala-bingo-2-theme/images";
+return "http://cachewww.galabingo.com/gala-bingo-2-theme/images";
 },
 getPathThemeRoot: function() {
 return "/gala-bingo-2-theme/";
@@ -242,7 +250,7 @@ getURLHome: function() {
 return "http://www.galabingo.com/home";
 },
 getSessionId: function() {
-return "1224F0C352DE76B8712E41A307998184.por07-pub-prod.coralportal.ptec";
+return "6D22C7289998DCBF628BCFF52A4592FD.por05-pub-prod.coralportal.ptec";
 },
 getPortletSetupShowBordersDefault: function() {
 return true;
@@ -264,21 +272,21 @@ getCombine: function() {
 return true;
 },
 getComboPath: function() {
-return 'http://cachewww.galabingo.com/combo/?browserId=other&minifierType=&languageId=en_US&t=1351249940000&p=/html/js&';
+return 'http://cachewww.galabingo.com/combo/?browserId=other&minifierType=&languageId=en_US&t=1370251742000&p=/html/js&';
 },
 getFilter: function() {
 return {
 replaceStr: function(match, fragment, string) {
 return fragment + 'm=' + (match.split('/html/js')[1] || '');
 },
-searchExp: '(\\?|&)/([^&]+)'
+searchExp: '(\\?|&)(/|http://cachewww.galabingo.com/)([^&]+)'
 };
 },
 getJavaScriptRootPath: function() {
 return '/html/js';
 },
 getLangPath: function () {
-return 'aui_lang.jsp?browserId=other&themeId=galabingo_WAR_galabingo2theme&colorSchemeId=01&minifierType=js&languageId=en_US&t=1351249940000';
+return 'aui_lang.jsp?browserId=other&themeId=galabingo_WAR_galabingo2theme&colorSchemeId=01&minifierType=js&languageId=en_US&t=1370251742000';
 },
 getRootPath: function() {
 return '/html/js/aui/';
@@ -353,22 +361,10 @@ vertical-align: middle;
 &lt;/tr&gt;
 &lt;/table&gt;
 </style>
-<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-31401122-1']);
-_gaq.push(['_trackPageview']);
-_gaq.push(['_setDomainName', 'www.galabingo.com']);
-(function() {
-var ga = document.createElement('script');
-ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0];
-s.parentNode.insertBefore(ga, s);
-})();
-</script>
 <meta http-equiv="Pragma" content="no-cache">
 </head>
 <body>
+<style type="text/css"> .multiview-view2 .multiview-item-wrap, .banner-ext-nav {word-spacing: 0;} </style> <select style="display:none;" name="_88_schedulerStartDateAmPm" id=""><option value="am" selected="">am</option></select> <!-- Mediacom Start--> <script type="text/javascript"> var axel = Math.random() + ""; var a = axel * 10000000000000; document.write('<iframe src="http://4111299.fls.doubleclick.net/activityi;src=4111299;type=site;cat=whole231;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>'); </script><iframe src="http://4111299.fls.doubleclick.net/activityi;src=4111299;type=site;cat=whole231;ord=1;num=2052185186223.8184?" width="1" height="1" frameborder="0" style="display:none"></iframe> <noscript> <iframe src="http://4111299.fls.doubleclick.net/activityi;src=4111299;type=site;cat=whole231;ord=1;num=1?" width="1" height="1" frameborder="0" style="display:none"></iframe> </noscript> <!-- Mediacom END-->
 <div class="wrap globalConfig" data-default-popup-template="galaBingo1" data-currency="EUR" data-no-deposit="{&quot;width&quot;: &quot;800&quot;, &quot;height&quot;: &quot;600&quot;}">
 <div class="wrap-inner">
 <div class="wrap-inner-2">
@@ -405,41 +401,43 @@ Not a member? <a href="/register">Join now</a>
 <div id="ticker" data-pixels-per-second="20">
 <ul class="ticker-container">
 <li class="ticker-item ticker-promotion"></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : C.  has just won <strong>£25000.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="jp" href="#">Joker Poker</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : D.  has just won <strong>£10980.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="rol" href="#">Roulette Live</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : V.  has just won <strong>£10800.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="rol" href="#">Roulette Live</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : A.  has just won <strong>£8000.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="amvp" href="#">All American Video Poker</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£1.10</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="pnp" href="#">Pink Panther</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : C.  has just won <strong>£6401.50</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="mcb" href="#">Mr. Cash Back</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : V.  has just won <strong>£5700.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="rol" href="#">Roulette Live</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : D.  has just won <strong>£5400.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="rol" href="#">Roulette Live</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : O.  has just won <strong>£5217.50</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="dt" href="#">Desert Treasure</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : R.  has just won <strong>£5195.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : C.  has just won <strong>£5000.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="jp" href="#">Joker Poker</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£5000.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="bj_mh5" href="#">Blackjack</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£3.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="pnp" href="#">Pink Panther</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : R.  has just won <strong>£4541.25</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="mmy" href="#">The Mummy</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : R.  has just won <strong>£4230.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£4195.80</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="irm2" href="#">Iron Man Progressive</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£4170.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="bj_mh5" href="#">Blackjack</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£4000.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="bj_mh5" href="#">Blackjack</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£4000.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="bj_mh5" href="#">Blackjack</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£4000.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="bj_mh5" href="#">Blackjack</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£4000.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="bj_mh5" href="#">Blackjack</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£4000.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="bj_mh5" href="#">Blackjack</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£4000.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="bj_mh5" href="#">Blackjack</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£4000.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="bj_mh5" href="#">Blackjack</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£4000.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="bj_mh5" href="#">Blackjack</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£4000.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="bj_mh5" href="#">Blackjack</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : R.  has just won <strong>£3750.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
-<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£3660.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : M.  has just won <strong>£1335.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="glg" href="#">Golden Games</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : L.  has just won <strong>£1250.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="glg" href="#">Golden Games</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : H.  has just won <strong>£1098.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="glg" href="#">Golden Games</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : D.  has just won <strong>£1014.40</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="glg" href="#">Golden Games</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : M.  has just won <strong>£730.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="glg" href="#">Golden Games</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£720.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£720.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£632.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£632.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£632.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£632.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£625.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="glg" href="#">Golden Games</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : F.  has just won <strong>£562.50</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="glg" href="#">Golden Games</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£560.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£560.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£558.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£542.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£450.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£450.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£450.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£450.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : H.  has just won <strong>£430.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="glg" href="#">Golden Games</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£423.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£423.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£416.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£416.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : F.  has just won <strong>£408.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="glg" href="#">Golden Games</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£389.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£389.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
+<li class="ticker-item ticker-topwin">NEW WINNER : B.  has just won <strong>£389.00</strong> on <a class="launcher" data-gametype="CASINO" data-gamecode="ro" href="#">European Roulette</a></li>
 </ul>
 </div>
 </div>
 </div>
 <p id="date"><span data-time="0" data-timezone="" data-days="Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday" data-months="January, February, March, April, May, June, July, August, September, October, November, December">Initiating server time</span></p>
 </div>
-<h1 class="hidden">Playtech Portal Games</h1>
+<h1 class="hidden">Gala Bingo</h1>
 <div id="wrap-nav">
 <div id="navigation" class="sort-pages modify-pages">
 <ul id="nav" class="main-level">
@@ -448,8 +446,8 @@ Not a member? <a href="/register">Join now</a>
 <li class=" primary-nav-item" data-item="Slots"><a href="http://www.galabingo.com/slots"><span>Slots</span></a></li>
 <li class=" primary-nav-item" data-item="Games"><a href="http://www.galabingo.com/games"><span>Games</span></a></li>
 <li class=" primary-nav-item" data-item="Vegas"><a href="http://www.galabingo.com/casino"><span>Vegas</span></a></li>
-<li class=" primary-nav-item" data-item="Mobile"><a href="http://www.galabingo.com/mobile"><span>Mobile</span></a></li>
 <li class=" primary-nav-item" data-item="Promotions"><a href="http://www.galabingo.com/promotions"><span>Promotions</span></a></li>
+<li class=" primary-nav-item" data-item="Mobile"><a href="http://www.galabingo.com/mobile"><span>Mobile</span></a></li>
 <li class=" primary-nav-item" data-item="Community"><a href="http://www.galabingo.com/community"><span>Community</span></a></li>
 <li class="last-item primary-nav-item" data-item="Clubs"><a href="http://www.galabingo.com/clubs"><span>Clubs</span></a></li>
 </ul>
@@ -478,7 +476,7 @@ Not a member? <a href="/register">Join now</a>
 </li>
 <li>
 <a href="/bingo/90-ball" title="90 ball">
-<div class="super-menu-count">(13)</div>
+<div class="super-menu-count">(11)</div>
 <span>90 ball</span>
 </a>
 </li>
@@ -495,6 +493,7 @@ Not a member? <a href="/register">Join now</a>
 </a>
 </li>
 <li><a href="/bingo/jackpots" title="Bingo Jackpots">Bingo Jackpots</a></li>
+<li><a href="/bingo/schedule" title="Schedule">Schedule</a></li>
 </ul>
 </dd>
 </dl>
@@ -536,13 +535,13 @@ Not a member? <a href="/register">Join now</a>
 <div class="pt-item">
 <input name="data-games-gameCode" type="hidden" value="bbn"> <input name="data-games-gameType" type="hidden" value="pt">
 <h3 class="game-title">
-<a class="launcher" data-bingo-game-type="Bingo" data-gamecode="Bingo_Gala Live" data-gametype="vf-room" data-gts-game-config="" data-name="Gala Live" data-vf-launch-code="" data-ww-game-config="" href="#" title="Gala Live">Gala Live Bingo Room</a></h3>
+<a class="launcher" data-gamecode="Saturday Night Takeaway_Saturday Night Takeaway" data-name="Saturday Night Takeaway" data-gametype="vf-room" data-vf-launch-code="" data-bingo-game-type="Saturday Night Takeaway" data-gts-game-config="" data-ww-game-config="" href="#" title="Saturday Night Takeaway">Saturday Night Takeaway Bingo Room</a></h3>
 <p class="pt-img">
-<a class="launcher" data-bingo-game-type="Bingo" data-gamecode="Bingo_Gala Live" data-gametype="vf-room" data-gts-game-config="" data-name="Gala Live" data-vf-launch-code="" data-ww-game-config="" href="#" title="Gala Live"> <img alt="" src="http://cachewww.galabingo.com/image/Gala%20BINGO/Bingo_rooms/Galalove.jpg"> </a></p>
+<a class="launcher" data-gamecode="Saturday Night Takeaway_Saturday Night Takeaway" data-name="Saturday Night Takeaway" data-gametype="vf-room" data-vf-launch-code="" data-bingo-game-type="Saturday Night Takeaway" data-gts-game-config="" data-ww-game-config="" title="Saturday Night Takeaway"> <img alt="" src="http://cachewww.galabingo.com/image/Gala%20BINGO/Bingo_rooms/snt_bingo_181x129.jpg"> </a></p>
 <p class="links">
 &nbsp;</p>
 <p class="links1">
-<a class="btn launcher play" data-bingo-game-type="Bingo" data-gamecode="Bingo_Gala Live" data-gametype="vf-room" data-gts-game-config="" data-name="Gala Live" data-vf-launch-code="" data-ww-game-config="" href="#" title="Gala Live"><span><strong>Play Now</strong></span></a></p>
+<a class="btn launcher play" data-gamecode="Saturday Night Takeaway_Saturday Night Takeaway" data-name="Saturday Night Takeaway" data-gametype="vf-room" data-vf-launch-code="" data-bingo-game-type="Saturday Night Takeaway" data-gts-game-config="" data-ww-game-config="" title="Saturday Night Takeaway"><span><strong>Play Now</strong></span></a></p>
 <p class="links2">
 &nbsp;</p>
 </div>
@@ -564,32 +563,32 @@ Not a member? <a href="/register">Join now</a>
 <ul>
 <li>
 <a href="/slots/all" title="All">
-<div class="super-menu-count">(122)</div>
+<div class="super-menu-count">(144)</div>
 <span>All</span>
 </a>
 </li>
 <li>
 <a href="/slots/top-slots" title="Top slots">
-<div class="super-menu-count">(17)</div>
+<div class="super-menu-count">(36)</div>
 <span>Top slots</span>
 </a>
 </li>
 <li>
-<a href="/slots/jackpots" title="Jackpots">
-<div class="super-menu-count">(34)</div>
-<span>Jackpots</span>
+<a href="/slots/jackpots" title="Jackpot slots">
+<div class="super-menu-count">(36)</div>
+<span>Jackpot slots</span>
 </a>
 </li>
 <li>
-<a href="/slots/exclusive" title="Exclusive">
-<div class="super-menu-count">(7)</div>
-<span>Exclusive</span>
+<a href="/slots/exclusive" title="New &amp; exclusive">
+<div class="super-menu-count">(23)</div>
+<span>New &amp; exclusive</span>
 </a>
 </li>
 <li>
-<a href="/slots/multiplayer" title="Multiplayer">
-<div class="super-menu-count">(8)</div>
-<span>Multiplayer</span>
+<a href="/slots/multiplayer" title="Multiplayer slots">
+<div class="super-menu-count">(4)</div>
+<span>Multiplayer slots</span>
 </a>
 </li>
 </ul>
@@ -602,7 +601,8 @@ Not a member? <a href="/register">Join now</a>
 <dd>
 <ul>
 <li><a href="#" class="launcher" data-gamecode="gts240" data-vf-launch-code="Chests Of Plenty SA" data-bingo-game-type="$topGame.bingoGameType" data-gametype="vf-slot" data-name="$topGame.gameName" data-url="/delegate/tokenRequest.do?responseType=xml&amp;serviceType=GamePlay&amp;skin=galabingo&amp;short=9G&amp;name=galabingo&amp;systemId=128&amp;" title="Chests Of Plenty">Chests Of Plenty</a></li>
-<li><a href="#" class="launcher" data-gamecode="gts230" data-vf-launch-code="Alices Wonderland SA" data-bingo-game-type="$topGame.bingoGameType" data-gametype="vf-slot" data-name="$topGame.gameName" data-url="/delegate/tokenRequest.do?responseType=xml&amp;serviceType=GamePlay&amp;skin=galabingo&amp;short=9G&amp;name=galabingo&amp;systemId=128&amp;" title="Alices Wonderland">Alices Wonderland</a></li>
+<li><a href="#" class="launcher" data-gamecode="gts230" data-vf-launch-code="Alices Wonderland SA" data-bingo-game-type="$topGame.bingoGameType" data-gametype="vf-slot" data-name="$topGame.gameName" data-url="/delegate/tokenRequest.do?responseType=xml&amp;serviceType=GamePlay&amp;skin=galabingo&amp;short=9G&amp;name=galabingo&amp;systemId=128&amp;" title="Adventures in Wonderland">Adventures in Wonderland</a></li>
+<li><a href="#" class="launcher" data-gamecode="gts272" data-vf-launch-code="Leprechauns Luck SA" data-bingo-game-type="$topGame.bingoGameType" data-gametype="vf-slot" data-name="$topGame.gameName" data-url="/delegate/tokenRequest.do?responseType=xml&amp;serviceType=GamePlay&amp;skin=galabingo&amp;short=9G&amp;name=galabingo&amp;systemId=128&amp;" title="Leprechauns Luck">Leprechauns Luck</a></li>
 <li><a href="#" class="launcher" data-gamecode="gts338" data-vf-launch-code="Gold Mine SA" data-bingo-game-type="$topGame.bingoGameType" data-gametype="vf-slot" data-name="$topGame.gameName" data-url="/delegate/tokenRequest.do?responseType=xml&amp;serviceType=GamePlay&amp;skin=galabingo&amp;short=9G&amp;name=galabingo&amp;systemId=128&amp;" title="Gold Mine">Gold Mine</a></li>
 <li><a href="#" class="launcher" data-gamecode="gts288" data-vf-launch-code="Pixies of the Forest SA" data-bingo-game-type="$topGame.bingoGameType" data-gametype="vf-slot" data-name="$topGame.gameName" data-url="/delegate/tokenRequest.do?responseType=xml&amp;serviceType=GamePlay&amp;skin=galabingo&amp;short=9G&amp;name=galabingo&amp;systemId=128&amp;" title="Pixies of the Forest">Pixies of the Forest</a></li>
 <li><a href="" title=""></a></li>
@@ -632,13 +632,13 @@ Not a member? <a href="/register">Join now</a>
 <div class="pt-item">
 <input name="data-games-gameCode" type="hidden" value="bbn"> <input name="data-games-gameType" type="hidden" value="pt">
 <h3 class="game-title">
-<a class="launcher" data-bingo-game-type="" data-gamecode="gts243" data-gametype="vf-slot" data-gts-game-config="" data-name="Cleopatra " data-vf-launch-code="Cleopatra SA" data-ww-game-config="" href="#" title="Cleopatra">Cleopatra</a></h3>
+<a class="launcher" href="#" data-gamecode="gts484" data-name="" data-gametype="vf-slot" data-vf-launch-code="Saturday Night Takeaway Slot SA" data-bingo-game-type="" data-gts-game-config="" data-ww-game-config="" title="Saturday Night Takeaway Slot">Saturday Night Takeaway Slot</a></h3>
 <p class="pt-img">
-<a class="launcher" data-bingo-game-type="" data-gamecode="gts243" data-gametype="vf-slot" data-gts-game-config="" data-name="Cleopatra " data-vf-launch-code="Cleopatra SA" data-ww-game-config="" href="#" title="Cleopatra"> <img alt="" src="http://cachewww.galabingo.com/image/game-pics/Cleopatra.jpg"> </a></p>
+<a class="launcher" href="#" data-gamecode="gts484" data-name="" data-gametype="vf-slot" data-vf-launch-code="Saturday Night Takeaway Slot SA" data-bingo-game-type="" data-gts-game-config="" data-ww-game-config="" title="Saturday Night Takeaway Slot"> <img alt="" src="http://cachewww.galabingo.com/image/game-pics/snt_slot_181x129.jpg"> </a></p>
 <p class="links">
 &nbsp;</p>
 <p class="links1">
-<a class="btn launcher play" data-bingo-game-type="" data-gamecode="gts243" data-gametype="vf-slot" data-gts-game-config="" data-name="Cleopatra" data-vf-launch-code="Cleopatra SA" data-ww-game-config="" href="#" title="Cleopatra"><span><strong>Play Now</strong></span></a></p>
+<a class="btn launcher play" href="#" data-gamecode="gts484" data-name="" data-gametype="vf-slot" data-vf-launch-code="Saturday Night Takeaway Slot SA" data-bingo-game-type="" data-gts-game-config="" data-ww-game-config="" title="Saturday Night Takeaway Slot"><span><strong>Play Now</strong></span></a></p>
 <p class="links2">
 &nbsp;</p>
 </div>
@@ -660,19 +660,19 @@ Not a member? <a href="/register">Join now</a>
 <ul>
 <li>
 <a href="/games/all" title="All">
-<div class="super-menu-count">(36)</div>
+<div class="super-menu-count">(39)</div>
 <span>All</span>
 </a>
 </li>
 <li>
 <a href="/games/top-games" title="Top games">
-<div class="super-menu-count">(14)</div>
+<div class="super-menu-count">(16)</div>
 <span>Top games</span>
 </a>
 </li>
 <li>
 <a href="/games/scratchcards" title="Scratchcards">
-<div class="super-menu-count">(22)</div>
+<div class="super-menu-count">(28)</div>
 <span>Scratchcards</span>
 </a>
 </li>
@@ -684,13 +684,13 @@ Not a member? <a href="/register">Join now</a>
 </li>
 <li>
 <a href="/games/numbers" title="Numbers">
-<div class="super-menu-count">(6)</div>
+<div class="super-menu-count">(5)</div>
 <span>Numbers</span>
 </a>
 </li>
 <li>
 <a href="/games/virtuals" title="Virtuals">
-<div class="super-menu-count">(2)</div>
+<div class="super-menu-count">(1)</div>
 <span>Virtuals</span>
 </a>
 </li>
@@ -735,13 +735,13 @@ Not a member? <a href="/register">Join now</a>
 <div class="pt-item">
 <input name="data-games-gameCode" type="hidden" value="bbn"> <input name="data-games-gameType" type="hidden" value="pt">
 <h3 class="game-title">
-<a class="launcher" data-bingo-game-type="" data-gamecode="gts190" data-gametype="vf-slot" data-gts-game-config="" data-name="Deal Or No Deal Classic" data-vf-launch-code="Deal Or No Deal Classic SA" data-ww-game-config="" href="#" title="Deal Or No Deal Classic">Deal Or No Deal Classic</a></h3>
+<a data-bingo-game-type="" data-gamecode="gts485" data-gametype="vf-slot" data-gts-game-config="" data-name="" data-vf-launch-code="Saturday Night Takeaway Scratch SA" data-ww-game-config="" href="#" title="Saturday Night Takeaway Scratch">Saturday Night Takeaway Scratch</a></h3>
 <p class="pt-img">
-<a class="launcher" data-bingo-game-type="" data-gamecode="gts190" data-gametype="vf-slot" data-gts-game-config="" data-name="Deal Or No Deal Classic" data-vf-launch-code="Deal Or No Deal Classic SA" data-ww-game-config="" href="#" title="Deal Or No Deal Classic"> <img alt="" src="http://cachewww.galabingo.com/image/game-pics/deal_or_no_deal_classic.jpg"> </a></p>
+<a data-bingo-game-type="" data-gamecode="gts485" data-gametype="vf-slot" data-gts-game-config="" data-name="" data-vf-launch-code="Saturday Night Takeaway Scratch SA" data-ww-game-config="" href="#" title="Saturday Night Takeaway Scratch"> <img alt="" src="http://cachewww.galabingo.com/image/game-pics/snt_scratch_181x129.jpg"> </a></p>
 <p class="links">
 &nbsp;</p>
 <p class="links1">
-<a class="btn launcher play" data-bingo-game-type="" data-gamecode="gts190" data-gametype="vf-slot" data-gts-game-config="" data-name="Deal Or No Deal Classic" data-vf-launch-code="Deal Or No Deal Classic SA" data-ww-game-config="" href="#" title="Deal Or No Deal Classic"><span><strong>Play Now</strong></span></a></p>
+<a class="btn launcher play" data-bingo-game-type="" data-gamecode="gts485" data-gametype="vf-slot" data-gts-game-config="" data-name="" data-vf-launch-code="Saturday Night Takeaway Scratch SA" data-ww-game-config="" href="#" title="Saturday Night Takeaway Scratch"><span><strong>Play Now</strong></span></a></p>
 <p class="links2">
 &nbsp;</p>
 </div>
@@ -763,25 +763,25 @@ Not a member? <a href="/register">Join now</a>
 <ul>
 <li>
 <a href="/casino/all" title="All">
-<div class="super-menu-count">(153)</div>
+<div class="super-menu-count">(185)</div>
 <span>All</span>
 </a>
 </li>
 <li>
-<a href="/casino/top-games" title="Top-games">
+<a href="/casino/top-games" title="Top games">
 <div class="super-menu-count">(16)</div>
-<span>Top-games</span>
+<span>Top games</span>
 </a>
 </li>
 <li>
 <a href="/casino/card-and-table" title="Table &amp; card">
-<div class="super-menu-count">(26)</div>
+<div class="super-menu-count">(28)</div>
 <span>Table &amp; card</span>
 </a>
 </li>
 <li>
 <a href="/casino/slots" title="Slots">
-<div class="super-menu-count">(70)</div>
+<div class="super-menu-count">(91)</div>
 <span>Slots</span>
 </a>
 </li>
@@ -793,19 +793,19 @@ Not a member? <a href="/register">Join now</a>
 </li>
 <li>
 <a href="/casino/games" title="Games">
-<div class="super-menu-count">(36)</div>
+<div class="super-menu-count">(37)</div>
 <span>Games</span>
 </a>
 </li>
 <li>
 <a href="/casino/jackpots" title="Jackpots">
-<div class="super-menu-count">(38)</div>
+<div class="super-menu-count">(39)</div>
 <span>Jackpots</span>
 </a>
 </li>
 <li>
 <a href="/casino/video-poker" title="Video poker">
-<div class="super-menu-count">(14)</div>
+<div class="super-menu-count">(15)</div>
 <span>Video poker</span>
 </a>
 </li>
@@ -833,30 +833,99 @@ Not a member? <a href="/register">Join now</a>
 </dt>
 <dd>
 <div class="pt-item">
-<input name="data-games-gameCode" type="hidden" value="mcb"> <input name="data-games-gameType" type="hidden" value="gts">
+<input name="data-games-gameCode" type="hidden" value="gtssmdm"> <input name="data-games-gameType" type="hidden" value="gts">
 <h3 class="game-title">
-<a class="launcher" data-gamecode="mcb" data-gametype="pt" data-gts-game-config="" data-ww-game-config="" href="#" style="color:#0E2394;" title="Mr. Cash Back">Mr. Cash Back</a></h3>
+<a class="launcher" data-bingo-game-type="" data-gamecode="gtssmdm" data-gametype="pt" data-gts-game-config="" data-name="The Six Million Dollar Man" data-vf-launch-code="vgsixmilliondollarman" data-ww-game-config="" href="#" style="color:#0E2394;" title="The Six Million Dollar Man">The Six Million Dollar Man</a></h3>
 <p class="pt-img">
-<a class="launcher" data-gamecode="mcb" data-gametype="pt" data-gts-game-config="" data-ww-game-config="" href="#" title="Mr. Cash Back"> <img alt="" height="129px" src="http://cachewww.galabingo.com/image/game-pics/mrCashBack.jpg" width:="181px"> </a></p>
+<a class="launcher" data-bingo-game-type="" data-gamecode="gtssmdm" data-gametype="pt" data-gts-game-config="" data-name="The Six Million Dollar Man" data-vf-launch-code="vgsixmilliondollarman" data-ww-game-config="" href="#" title="The Six Million Dollar Man"> <img alt="" border="0" height="129px" src="http://cachewww.galabingo.com/image/game-pics/6m_man_new_181x129.jpg" width:="181px"> </a></p>
 <p class="links">
 &nbsp;</p>
 <p class="links1">
-<a class="btn launcher play" data-gamecode="mcb" data-gametype="pt" data-gts-game-config="" data-ww-game-config="" href="#" title="Mr. Cash Back"><span><strong>Play Now</strong></span></a></p>
+<a class="btn launcher play" data-bingo-game-type="" data-gamecode="gtssmdm" data-gametype="pt" data-gts-game-config="" data-name="The Six Million Dollar Man" data-vf-launch-code="vgsixmilliondollarman" data-ww-game-config="" href="#" title="The Six Million Dollar Man"><span><strong>Play Now</strong></span></a></p>
 <p class="links2">
 &nbsp;</p>
 </div>
 </dd>
 <dd>
 <div class="pt-item">
-<input name="data-games-gameCode" type="hidden" value="bib"> <input name="data-games-gameType" type="hidden" value="gts">
+<input name="data-games-gameCode" type="hidden" value="gtssprs"> <input name="data-games-gameType" type="hidden" value="gts">
 <h3 class="game-title">
-<a class="launcher" data-bingo-game-type="" data-gamecode="bib" data-gametype="pt" data-gts-game-config="" data-name="Great Blue" data-vf-launch-code="" data-ww-game-config="" href="#" style="color:#0E2394;" title="Great Blue">Deep Blue</a></h3>
+<a class="launcher" data-bingo-game-type="" data-gamecode="gtssprs" data-gametype="pt" data-gts-game-config="" data-name="The Sopranos" data-vf-launch-code="vgsopranos" data-ww-game-config="" href="#" style="color:#0E2394;" title="The Sopranos">The Sopranos</a></h3>
 <p class="pt-img">
-<a class="launcher" data-bingo-game-type="" data-gamecode="bib" data-gametype="pt" data-gts-game-config="" data-name="Great Blue" data-vf-launch-code="" data-ww-game-config="" href="#" title="Great Blue"> <img alt="" border="0" height="129px" src="http://cachewww.galabingo.com/image/game-pics/Great_Blue.jpg" width:="181px"> </a></p>
+<a class="launcher" data-bingo-game-type="" data-gamecode="gtssprs" data-gametype="pt" data-gts-game-config="" data-name="The Sopranos" data-vf-launch-code="vgsopranos" data-ww-game-config="" href="#" title="The Sopranos"> <img alt="" border="0" height="129px" src="http://cachewww.galabingo.com/image/game-pics/sopranos_181x129.jpg" width:="181px"> </a></p>
 <p class="links">
 &nbsp;</p>
 <p class="links1">
-<a class="btn launcher play" data-bingo-game-type="" data-gamecode="bib" data-gametype="pt" data-gts-game-config="" data-name="Great Blue" data-vf-launch-code="" data-ww-game-config="" href="#" title="Great Blue"><span><strong>Play Now</strong></span></a></p>
+<a class="btn launcher play" data-bingo-game-type="" data-gamecode="gtssprs" data-gametype="pt" data-gts-game-config="" data-name="The Sopranos" data-vf-launch-code="vgsopranos" data-ww-game-config="" href="#" title="The Sopranos"><span><strong>Play Now</strong></span></a></p>
+<p class="links2">
+&nbsp;</p>
+</div>
+</dd>
+</dl>
+</div>
+</div>
+</div>
+</li>
+<li class="super-menu-2 ">
+<div class="super-menu-item" data-item="Promotions">
+<div class="super-menu-casino super-menu-item-inner">
+<div class="super-menu-content">
+<dl class="super-content-block">
+<dt>
+<strong>Filter by</strong>
+</dt>
+<dd>
+<ul>
+<li><a href="/promotions/bingo-promotions" title="Bingo">Bingo</a></li>
+<li><a href="/promotions/Saturday-night-takeaway" title="Saturday Night Takeaway">Saturday Night Takeaway</a></li>
+<li><a href="/promotions/live" title="Gala Live">Gala Live</a></li>
+<li><a href="/promotions/slots-games-promotions" title="Slots &amp; Games">Slots &amp; Games</a></li>
+<li><a href="/promotions/vegas-promotions" title="Vegas">Vegas</a></li>
+<li><a href="/loyalty" title="Loyalty">Loyalty</a></li>
+<li><a href="/vip" title="VIP">VIP</a></li>
+</ul>
+</dd>
+</dl>
+<dl class="super-content-block">
+<dt>
+<strong>Most played</strong>
+</dt>
+<dd>
+<ul>
+<li><a href="" title=""></a></li>
+</ul>
+</dd>
+</dl>
+<dl class="super-content-block view2">
+<dt>
+<strong>Games you may like</strong>
+</dt>
+<dd>
+<div class="pt-item">
+<input name="data-games-gameCode" type="hidden" value="bbn"> <input name="data-games-gameType" type="hidden" value="pt">
+<h3 class="game-title">
+<a class="launcher" href="#" data-gamecode="rom" data-name="" data-gametype="pt" data-vf-launch-code="" data-bingo-game-type="" data-gts-game-config="" title="Marvel Roulette">Marvel Roulette</a></h3>
+<p class="pt-img">
+<a class="launcher" href="#" data-gamecode="rom" data-name="" data-gametype="pt" data-vf-launch-code="" data-bingo-game-type="" data-gts-game-config="" title="Marvel Roulette"> <img alt="" src="http://cachewww.galabingo.com/image/game-pics/marvelroulette_181x129.jpg"> </a></p>
+<p class="links">
+&nbsp;</p>
+<p class="links1">
+<a class="btn launcher play" href="#" data-gamecode="rom" data-name="" data-gametype="pt" data-vf-launch-code="" data-bingo-game-type="" data-gts-game-config="" title="Marvel Roulette"><span><strong>Play Now</strong></span></a></p>
+<p class="links2">
+&nbsp;</p>
+</div>
+</dd>
+<dd>
+<div class="pt-item">
+<input name="data-games-gameCode" type="hidden" value="bbn"> <input name="data-games-gameType" type="hidden" value="pt">
+<h3 class="game-title">
+<a class="launcher" href="#" data-gamecode="gtscnb" data-name="" data-gametype="pt" data-vf-launch-code="vgcopsnbandits" data-bingo-game-type="" data-gts-game-config="" data-ww-game-config="" title="Cops and Bandits">Cops and Bandits</a></h3>
+<p class="pt-img">
+<a class="launcher" href="#" data-gamecode="gtscnb" data-name="" data-gametype="pt" data-vf-launch-code="vgcopsnbandits" data-bingo-game-type="" data-gts-game-config="" data-ww-game-config="" title="Cops and Bandits"> <img alt="" src="http://cachewww.galabingo.com/image/game-pics/copsnbandits_181x129.jpg"> </a></p>
+<p class="links">
+&nbsp;</p>
+<p class="links1">
+<a class="btn launcher play" href="#" data-gamecode="gtscnb" data-name="" data-gametype="pt" data-vf-launch-code="vgcopsnbandits" data-bingo-game-type="" data-gts-game-config="" data-ww-game-config="" title="Cops and Bandits"><span><strong>Play Now</strong></span></a></p>
 <p class="links2">
 &nbsp;</p>
 </div>
@@ -876,8 +945,8 @@ Not a member? <a href="/register">Join now</a>
 </dt>
 <dd>
 <ul>
-<li><a href="/mobile/bingo/" title="Mobile Bingo">Mobile Bingo</a></li>
-<li><a href="/mobile/casino/" title="Mobile Casino">Mobile Casino</a></li>
+<li><a href="/mobile/mobile-bingo" title="Mobile Bingo">Mobile Bingo</a></li>
+<li><a href="/mobile/mobile-casino" title="Mobile Casino">Mobile Casino</a></li>
 </ul>
 </dd>
 </dl>
@@ -921,73 +990,6 @@ Not a member? <a href="/register">Join now</a>
 &nbsp;</p>
 <p class="links1">
 <a class="btn launcher play" data-bingo-game-type="" data-gamecode="gts188" data-gametype="vf-slot" data-gts-game-config="" data-name="Clover Rollover" data-vf-launch-code="Clover Rollover SA" data-ww-game-config="" href="#" title="Clover Rollover"><span><strong>Play Now</strong></span></a></p>
-<p class="links2">
-&nbsp;</p>
-</div>
-</dd>
-</dl>
-</div>
-</div>
-</div>
-</li>
-<li class="super-menu-2 ">
-<div class="super-menu-item" data-item="Promotions">
-<div class="super-menu-casino super-menu-item-inner">
-<div class="super-menu-content">
-<dl class="super-content-block">
-<dt>
-<strong>Filter by</strong>
-</dt>
-<dd>
-<ul>
-<li><a href="/promotions/bingo-promotions" title="Bingo">Bingo</a></li>
-<li><a href="/promotions/slots-games-promotions" title="Slots &amp; Games">Slots &amp; Games</a></li>
-<li><a href="/promotions/vegas-promotions" title="Vegas Promotions">Vegas Promotions</a></li>
-<li><a href="/loyalty" title="Loyalty">Loyalty</a></li>
-<li><a href="/vip" title="VIP">VIP</a></li>
-</ul>
-</dd>
-</dl>
-<dl class="super-content-block">
-<dt>
-<strong>Most played</strong>
-</dt>
-<dd>
-<ul>
-<li><a href="" title=""></a></li>
-</ul>
-</dd>
-</dl>
-<dl class="super-content-block view2">
-<dt>
-<strong>Games you may like</strong>
-</dt>
-<dd>
-<div class="pt-item">
-<input name="data-games-gameCode" type="hidden" value="bbn"> <input name="data-games-gameType" type="hidden" value="pt">
-<h3 class="game-title">
-<a class="launcher" data-bingo-game-type="" data-gamecode="pnp" data-gametype="pt" data-gts-game-config="" data-name="Pink Panther" data-vf-launch-code="" data-ww-game-config="" href="#" title="Pink Panther">Pink Panther</a></h3>
-<p class="pt-img">
-<a class="launcher" data-bingo-game-type="" data-gamecode="pnp" data-gametype="pt" data-gts-game-config="" data-name="Pink Panther" data-vf-launch-code="" data-ww-game-config="" href="#" title="Pink Panther"> <img alt="" src="http://cachewww.galabingo.com/image/game-pics/PinkPanther_196x140.jpg"> </a></p>
-<p class="links">
-&nbsp;</p>
-<p class="links1">
-<a class="btn launcher play" data-bingo-game-type="" data-gamecode="pnp" data-gametype="pt" data-gts-game-config="" data-name="Pink Panther" data-vf-launch-code="" data-ww-game-config="" href="#" title="Pink Panther"><span><strong>Play Now</strong></span></a></p>
-<p class="links2">
-&nbsp;</p>
-</div>
-</dd>
-<dd>
-<div class="pt-item">
-<input name="data-games-gameCode" type="hidden" value="bbn"> <input name="data-games-gameType" type="hidden" value="pt">
-<h3 class="game-title">
-<a class="launcher" data-bingo-game-type="" data-gamecode="rky" data-gametype="pt" data-gts-game-config="" data-name="Rocky" data-vf-launch-code="" data-ww-game-config="" href="#" title="Rocky">Rocky</a></h3>
-<p class="pt-img">
-<a class="launcher" data-bingo-game-type="" data-gamecode="rky" data-gametype="pt" data-gts-game-config="" data-name="Rocky" data-vf-launch-code="" data-ww-game-config="" href="#" title="Rocky"> <img alt="" src="http://cachewww.galabingo.com/image/game-pics/Rocky_196x140.jpg"> </a></p>
-<p class="links">
-&nbsp;</p>
-<p class="links1">
-<a class="btn launcher play" data-bingo-game-type="" data-gamecode="rky" data-gametype="pt" data-gts-game-config="" data-name="Rocky" data-vf-launch-code="" data-ww-game-config="" href="#" title="Rocky"><span><strong>Play Now</strong></span></a></p>
 <p class="links2">
 &nbsp;</p>
 </div>
@@ -1110,13 +1112,13 @@ Not a member? <a href="/register">Join now</a>
 <div class="pt-item">
 <input name="data-games-gameCode" type="hidden" value="bbn"> <input name="data-games-gameType" type="hidden" value="pt">
 <h3 class="game-title">
-<a class="launcher" data-bingo-game-type="Bingo" data-gamecode="Bingo_Gala Live" data-gametype="vf-room" data-gts-game-config="" data-name="Gala Live" data-vf-launch-code="" data-ww-game-config="" href="#" title="Gala Live">Gala Live Bingo Room</a></h3>
+<a class="launcher" data-gamecode="Saturday Night Takeaway_Saturday Night Takeaway" data-name="Saturday Night Takeaway" data-gametype="vf-room" data-vf-launch-code="" data-bingo-game-type="Saturday Night Takeaway" data-gts-game-config="" data-ww-game-config="" href="#" title="Saturday Night Takeaway">Saturday Night Takeaway Bingo Room</a></h3>
 <p class="pt-img">
-<a class="launcher" data-bingo-game-type="Bingo" data-gamecode="Bingo_Gala Live" data-gametype="vf-room" data-gts-game-config="" data-name="Gala Live" data-vf-launch-code="" data-ww-game-config="" href="#" title="Gala Live"> <img alt="" src="http://cachewww.galabingo.com/image/Gala%20BINGO/Bingo_rooms/Galalove.jpg"> </a></p>
+<a class="launcher" data-gamecode="Saturday Night Takeaway_Saturday Night Takeaway" data-name="Saturday Night Takeaway" data-gametype="vf-room" data-vf-launch-code="" data-bingo-game-type="Saturday Night Takeaway" data-gts-game-config="" data-ww-game-config="" title="Saturday Night Takeaway"> <img alt="" src="http://cachewww.galabingo.com/image/Gala%20BINGO/Bingo_rooms/snt_bingo_181x129.jpg"> </a></p>
 <p class="links">
 &nbsp;</p>
 <p class="links1">
-<a class="btn launcher play" data-bingo-game-type="Bingo" data-gamecode="Bingo_Gala Live" data-gametype="vf-room" data-gts-game-config="" data-name="Gala Live" data-vf-launch-code="" data-ww-game-config="" href="#" title="Gala Live"><span><strong>Play Now</strong></span></a></p>
+<a class="btn launcher play" data-gamecode="Saturday Night Takeaway_Saturday Night Takeaway" data-name="Saturday Night Takeaway" data-gametype="vf-room" data-vf-launch-code="" data-bingo-game-type="Saturday Night Takeaway" data-gts-game-config="" data-ww-game-config="" title="Saturday Night Takeaway"><span><strong>Play Now</strong></span></a></p>
 <p class="links2">
 &nbsp;</p>
 </div>
@@ -2164,99 +2166,125 @@ This Privacy Policy was amended last on ( ) and this is our entire and exclusive
 <div class="footer-strapline">
 <img alt="you'll love the buzz" src="http://cachewww.galabingo.com/image/Gala BINGO/Footer images/buzz.png">
 <ul class="social">
-<li>Follow us</li>
-<li><a class="facebook" href="http://facebook.com/mygalabingo" target="_blank">facebook</a></li>
-<li><a class="twitter" href="http://twitter.com/galabingo" target="_blank">twitter</a></li>
-<li><a class="youtube" href="http://www.youtube.com/mygalabingotv" target="_blank">youtube</a></li>
-<li><a class="iconbuzz" href="http://thebuzz.galabingo.co.uk/" style="background-position: -107px 0;" target="_blank" title="Gala Buzz"><span>the buzz</span></a></li>
+<li>
+Follow us</li>
+<li>
+<a class="facebook" href="http://facebook.com/mygalabingo" target="_blank">facebook</a></li>
+<li>
+<a class="twitter" href="http://twitter.com/galabingo" target="_blank">twitter</a></li>
+<li>
+<a class="googleplus" href="https://plus.google.com/103932311882474982515" target="_blank">Google+</a></li>
+<li>
+<a class="youtube" href="http://www.youtube.com/mygalabingotv" target="_blank">youtube</a></li>
+<li>
+<a class="iconbuzz" href="http://www.galabuzz.com/" style="background-position: -107px 0;" target="_blank" title="Gala Buzz"><span>the buzz</span></a></li>
 </ul>
 </div>
 <div class="menu">
 <ul>
-<li><a href="/about" title="">About Us</a></li>
-<li>|</li>
-<li><a href="/terms-and-conditions" title="">Terms &amp;
-Conditions</a></li>
-<li>|</li>
-<li><a href="/privacy-policy" title="">Privacy Policy</a></li>
-<li>|</li>
-<li><a href="/responsible-gaming-policy" title="">Responsible
-Gaming Policy</a></li>
-<li>|</li>
-<li><a href="http://www.galapartners.co.uk" target="_blank" title="">Affiliates</a></li>
-<li>|</li>
-<li><a href="/sitemap" title="">Site Map</a></li>
-<li>|</li>
-<li><a href="/contact">Contact Us</a>
-<p>&nbsp;</p></li>
+<li>
+<a href="/about" title="">About Us</a></li>
+<li>
+|</li>
+<li>
+<a href="/terms-and-conditions" title="">Terms &amp; Conditions</a></li>
+<li>
+|</li>
+<li>
+<a href="/privacy-policy" title="">Privacy Policy</a></li>
+<li>
+|</li>
+<li>
+<a href="/responsible-gaming-policy" title="">Responsible Gaming Policy</a></li>
+<li>
+|</li>
+<li>
+<a href="http://www.galapartners.co.uk" target="_blank" title="">Affiliates</a></li>
+<li>
+|</li>
+<li>
+<a href="http://www.galabuzzwire.com" target="_blank" title="">News</a></li>
+<li>
+|</li>
+<li>
+<a href="/sitemap" title="">Site Map</a></li>
+<li>
+|</li>
+<li>
+<a href="/contact">Contact Us</a>
+<p>
+&nbsp;</p>
+</li>
 </ul>
 </div>
 </div>
 <div class="copy">
-<p>GalaBingo.com is owned and operated by Gala Interactive
-(Gibraltar) Limited (company number 106322), licensed by the
-Government of Gibraltar and regulated by the Gibraltar Gambling
-Commissioner (RGL 059 and 060). Licensed address: 2nd Floor, Regal
-House, Queensway, Gibraltar. Gala Bingo is the registered trademark of
-Gala Group Investments Limited. © Gala Coral Group Limited. All
-rights reserved.</p>
+<p>
+GalaBingo.com is owned and operated by Gala Interactive (Gibraltar) Limited (company number 106322), licensed by the Government of Gibraltar and regulated by the Gibraltar Gambling Commissioner (RGL 059 and 060). Licensed address: 2nd Floor, Regal House, Queensway, Gibraltar. Gala Bingo is the registered trademark of Gala Group Investments Limited. © Gala Coral Group Limited. All rights reserved.</p>
 </div>
 <ul class="responsible-gaming">
-<li><a href="/responsible-gaming-policy" target="_blank"><img alt="18" src="http://cachewww.galabingo.com/image/Gala BINGO/Footer images/18.png"></a></li>
-<li><a href="http://gamcare.org.uk" target="_blank"><img alt="gamecare" src="http://cachewww.galabingo.com/image/Gala BINGO/Footer images/care.png"></a></li>
-<li><a href="http://cachewww.galabingo.com/documents/Bingo/pdfs/GalaBingo co uk 2012 GamCare Certified statemen1.pdf" target="_blank"><img alt="gamecare certification" src="http://cachewww.galabingo.com/image/Gala BINGO/Footer images/gamecare.png"></a></li>
-<li><a href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.galabingo.com&amp;lang=en&amp;lang=20&amp;sid=20&amp;ms=MS" target="_blank"><img alt="versign" src="http://cachewww.galabingo.com/image/Gala BINGO/Footer images/sign.png"></a></li>
-<li><a href="http://www.gibraltar.gov.gi/remotegambling" target="_blank"><img alt="Gibraltar Gaming" src="http://cachewww.galabingo.com/image/Gala BINGO/Footer images/sign2.png"></a></li>
+<li>
+<a href="/responsible-gaming-policy" target="_blank"><img alt="18" src="http://cachewww.galabingo.com/image/Gala BINGO/Footer images/18.png"></a></li>
+<li>
+<a href="http://gamcare.org.uk" target="_blank"><img alt="gamecare" src="http://cachewww.galabingo.com/image/Gala BINGO/Footer images/care.png"></a></li>
+<li>
+<a href="http://cachewww.galabingo.com/documents/Bingo/pdfs/GalaBingo co uk 2012 GamCare Certified statemen1.pdf" target="_blank"><img alt="gamecare certification" src="http://cachewww.galabingo.com/image/Gala BINGO/Footer images/gamecare.png"></a></li>
+<li>
+<a href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.galabingo.com&amp;lang=en&amp;lang=20&amp;sid=20&amp;ms=MS" target="_blank"><img alt="versign" src="http://cachewww.galabingo.com/image/Gala BINGO/Footer images/sign.png"></a></li>
+<li>
+<a href="http://www.gibraltar.gov.gi/remotegambling" target="_blank"><img alt="Gibraltar Gaming" src="http://cachewww.galabingo.com/image/Gala BINGO/Footer images/sign2.png"></a></li>
 </ul>
 <p>
-Enjoy the game but play responsibly. <a href="http://www.gambleaware.co.uk/" target="_blank">http://www.gambleaware.co.uk/</a>
-</p>
+Enjoy the game but play responsibly. <a href="http://www.gambleaware.co.uk/" target="_blank">http://www.gambleaware.co.uk/</a></p>
 <p>
-<span class="hidden" id="trending-user">-</span>
-<!-- web trending -->
-<script type="text/javascript" src="/doclib/scripts/config-trending.js"></script>
-<noscript>
+<span class="hidden" id="trending-user">-</span> <!-- web trending --><script type="text/javascript" src="/doclib/scripts/config-trending.js"></script><noscript>
 <img alt="dcsimg" id="dcsimg" width="1" height="1"
 src="//statse.webtrendslive.com/dcsq85ddkvz5bdzbi9dekv57m_6r8q/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.galabingo.com" />
-</noscript>
+</noscript></p>
+<div class="feedback-panel">
+<p>
+We value your opinion.</p>
+<a class="btn play" href="https://www.surveymonkey.com/s/JPN83VQ" target="_blank" title="Give feedback"><span><strong>Give feedback</strong></span></a></div>
 <script type="text/javascript">
-$j(document).ready(
-function() {
-$j("#join").on("click", function() {
-_gaq.push([ "_trackPageview", "/Join-now-main-menu" ])
-});
-$j(".trackPageview").live(
-"click",
-function() {
-if ($j(this).attr("data-trackPageview")) {
-$j("body").data("trackPageview",
-$j(this).attr("data-trackPageview"))
-}
-})
-});
-$j(document)
-.ready(
-function() {
-if (($j.browser.msie)
-&& ($j.browser.version)
-&& (window.location.href.indexOf("dlregcasino") == -1)) {
-var a = Number($j.browser.version);
-if ((navigator.userAgent.toLowerCase())
-.match("windows nt 5.1")) {
-if (a.toFixed(0) < 8) {
-window.location
-.replace("http://promo.galabingo.com/landing/upgrade8/")
-}
+$j(document).ready(function(){$j(".feedback-panel").bind("mouseenter",function(){if(!$j(".feedback-panel").hasClass("out")){$j(".feedback-panel").stop(true).animate({right:"0px"});$j(".feedback-panel").addClass("out")}});$j(".feedback-panel").bind("mouseleave",function(){if($j(".feedback-panel").hasClass("out")){$j(".feedback-panel").stop(true).animate({right:"-144px"});$j(".feedback-panel").removeClass("out")}})});
+</script><script type="text/javascript">
+$j(document).ready(function(){$j("#join").on("click",function(){_gaq.push(["_trackPageview","/Join-now-main-menu"])});$j(".trackPageview").live("click",function(){if($j(this).attr("data-trackPageview")){$j("body").data("trackPageview",$j(this).attr("data-trackPageview"))}})});
+</script><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-31401122-1']);
+_gaq.push(['_setDomainName', 'galabingo.com']);
+_gaq.push(['_setAllowLinker', true]);
+if (typeof Playtech.User.userName === 'undefined') {
+_gaq.push(['_setCustomVar', 1, 'Login', 'visitor', 2]);
 } else {
-if (a.toFixed(0) < 8) {
-window.location
-.replace("http://promo.galabingo.com/landing/upgrade9/")
+_gaq.push(['_setCustomVar', 1, 'Login', '-', 2]);
 }
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//<![CDATA[
+var owa_baseUrl = 'http://gb.bubblelytics.com/';
+var owa_cmds = owa_cmds || [];
+owa_cmds.push(['setSiteId', '9deb878be0fed278c02452781f236423']);
+owa_cmds.push(['trackPageView']);
+(function() {
+var _owa = document.createElement('script'); _owa.type = 'text/javascript'; _owa.async = true;
+owa_baseUrl = ('https:' == document.location.protocol ? window.owa_baseSecUrl || owa_baseUrl.replace(/http:/, 'https:') : owa_baseUrl );
+_owa.src = owa_baseUrl + 'modules/base/js/owa.tracker-combined-min.js';
+var _owa_s = document.getElementsByTagName('script')[0]; _owa_s.parentNode.insertBefore(_owa, _owa_s);
+}());
+//]]>
+document.ready = function(){
+if ( $j('#welcome').html() != null) {
+OWATracker = new OWA.tracker();
+OWATracker.trackAction("login", Playtech.User.userName);
 }
-}
-});
-</script>
-</p>
+};
+</script><p>
+<img alt="" height="1" src="http://d.adroll.com/imgpix/g/pagead/conversion/1011350631/?label=TL8fCPHP3QYQ5_if4gM&amp;guid=ON&amp;script=0&amp;ord=[ord]" style="border-style:none;" width="1"> <img height="1" src="http://d.adroll.com/imgpix/x/seg?add=556488&amp;t=2" width="1"> <img height="1" src="//d.adroll.com/ipixel/E7XLUAEISFAQTGQ2DU5NUA/JX6ZH64KPVEKXFV4VLXRDM?name=regconfirm" width="1"></p>
 </div>
 </div>
 </div>			</div>
@@ -2272,8 +2300,8 @@ $j("body").append($j('<script>').attr("src", Playtech.globalConfig.supportChatLo
 }
 });
 </script>
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","85192413e9",543257,"MVxTZ0JZWEFZVkJcXggWYkdCTUJBeVZCXF4IFlJcXRZaW15QRFRISEleQURZWhxZVkJcXggXfVJJV0NGeVZCXF4I",0,190,new Date().getTime()])</script>
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-3.newrelic.com","a461de1514","1680930","bgcAYEtWCkEFUENRCVdNMUBLQhBBJVBDUQlXTQFbVBkIWwJWRVkfFxINRk1WCBwFUENRCVdMLlVAWBFGJVBDUQlX",0,233,new Date().getTime(),"","","","",""]);</script>
 <script type="text/javascript" src="https://chatweb-galabingo.egalacoral.com/chat_web/conf/galabingo_bingoportal/playtechchat"></script>
 
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
