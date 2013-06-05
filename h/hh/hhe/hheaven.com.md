@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hheaven.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121144345id_/http%3A//www.hheaven.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hheaven.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605065204id_/http%3A//www.hheaven.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# H Heaven | Our Online Privacy Policy
+# H. Heaven Auto Repair & Service | Our Online Privacy Policy
 
 **What information do we collect?**
 
@@ -57,9 +57,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below or [click here](https://web.archive.org/web/20121121144345id_/http%3A//www.hheaven.com/contact_us.asp) to contact us online.
+If there are any questions regarding this privacy policy you may contact us using the information below or [click here](https://web.archive.org/web/20130605065204id_/http%3A//www.hheaven.com/contact-us.asp) to contact us online.
 
-**H Heaven**  
+**H. Heaven Auto Repair & Service**  
 (714) 841-1949   
 18471 Repair Ln  
 Huntington Beach, CA 92648
