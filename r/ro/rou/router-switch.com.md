@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the router-switch.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016190348id_/http%3A//www.router-switch.com/faq_info.html%3Ffaqs_id%3D113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the router-switch.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605144436id_/http%3A//www.router-switch.com/faq_info.html%3Ffaqs_id%3D113) for the most accurate reproduction.*
 
 # Privacy Policy Router-switch.com
 
