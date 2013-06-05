@@ -1,56 +1,58 @@
-> *The following text is extracted and transformed from the prowrestling.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603194024id_/http%3A//www.prowrestling.com/index.php%3Fsection%3Dother%26id%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowrestling.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605074432id_/http%3A//www.prowrestling.com/privacy-policy) for the most accurate reproduction.*
 
-# ProWrestling.com - #1 Wrestling Website in the World!
+# Privacy Policy - ProWrestling.com
 
-  
-**ProWrestling.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site, [**ProWrestling.com**](http://www.prowrestling.com/). Prowrestling.com is a web site for General Audiences, including adolescent, teen's or adults and no content will ever disclose any information or picture that is not appropriate for ALL audiences. However, our content is based around professional wrestling, and they sometimes create television angles that may not be appropriate for all audiences. Prowrestling.com will do its best to filter out this content at all time, rendering this site appropriate for ALL audiences. We urge you to beware of Chat rooms, Forums and/or any other device that allows fans to post their own comment because ProWrestling.com has no means of filtering out content of that nature. 
+ProWrestling.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
-**_Advertisers_**   
-_Third Party Advertising_  
-We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp).
+This Privacy Policy covers ProWrestling.com’s treatment of personal information that ProWrestling.com gathers when you are on the ProWrestling.com website and when you use ProWrestling.com services. This policy does not apply to the practices of third parties that ProWrestling.com does not own or control, or to individuals that ProWrestling.com does not employ or manage.  
+Information Collected by ProWrestling.com
 
-_Third Party Cookies_  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our ProWrestling.com users:
 
-**_External Links_**   
-This site contains links to other sites. ProWrestling.com is not responsible for the privacy practices or the content of such Web sites. 
+1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
 
-**_Content_**   
-Since ProWrestling.com is a public website, most of our content is submitted by our fans. ProWrestling.com takes every step possible to make sure that all content is suitable for all audiences. However, once in a while some material may be added to our site which shouldn't be here. If you find such material here, please notify us ASAP, and we'll be more than happy to remove it, usually within just a couple of hours. 
+2\. Automatic Information:
 
-**_Public Forums_**   
-At times this site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. In addition, Prowrestling.com will NOT be held responsible for ANY AND ALL content that is submitted by a fan. All of Prowrestling.com's message boards, fan forums, chat rooms are logged using IP tracking technology. If a user submits content that is not appropriate or might infringe on certain copyrights/trademarks, please contact the [webmaster](https://web.archive.org/php-bin/contact/index.php?email=webmaster@prowrestling.com) and additional information about that user will be provided if we see fit. 
+\- We receive and store certain types of information whenever you interact with us. ProWrestling.com and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, ProWrestling.com cookie information, and the page you requested. ProWrestling.com uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
 
-**_Security_**   
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. e-Mail addresses are not stored on this webserver. 
+\- ProWrestling.com may collect and, on any page, display the total counts that page has been viewed.
 
-**_Children's Guidelines_**   
-We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children: 
+\- Many companies offer programs that help you to visit websites anonymously. While ProWrestling.com will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
-We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent. 
+E-mail Communications
 
-We will NOT give the child access to unmonitored chat rooms, email accounts, or other services that would give the child the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent. When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to: 
+ProWrestling.com is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. ProWrestling.com may send out e-mails with ProWrestling.com-related news, products, offers, surveys or promotions.
 
-Respond directly to the child's request on a one-time basis and not use that information to re-contact the child for other purposes. 
+Cookies
 
-Request the name or online contact information of a parent for the purpose of obtaining verifiable parental consent or providing parental notification. 
+Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. ProWrestling.com cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
-Respond more than once directly to a specific request from a child (such as in the case where a child requests a newsletter subscription) and not used to re-contact the child for other purposes. We will use our best efforts to provide parental notification, which will include the nature and intended use as well as an opportunity for the parent to prevent the use of the information and participation in the activity. 
+The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of ProWrestling.com’s coolest features.
 
-We will NOT entice the child to divulge more information than is needed to participate in any activity, game, or service. 
+ProWrestling.com’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.
 
-We will provide the parent a description of the specific types of a personally identifiable information collected from their child upon request. We will allow the parent to refuse further use or future online collection of personally identifiable information and provide a way for a parent to obtain any personally identifiable information collected from their child. 
+Sharing Your Information Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
 
-We will provide notice to children in age appropriate terms of what personally identifiable information is to be collected. 
+ProWrestling.com Personnel: ProWrestling.com personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of ProWrestling.com business. Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if ProWrestling.com, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
 
-We will NOT provide any links to Web sites that are unsuitable for children. 
+Protection of ProWrestling.com and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of ProWrestling.com, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-We will encourage children to get their parent's permission before sharing personal information online. 
+Syndication: ProWrestling.com allows for the RSS syndication of all of its public content within the ProWrestling.com website.
 
-**_Contacting the Web Site_**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact the [ProWrestling.com owner](https://web.archive.org/php-bin/contact/index.php?email=gene@prowrestling.com). 
+With Your Consent:
 
-**_Submit Notice_**   
-By submitting any "Content" (information, forum posts, one-liners, links, feedback, content, etc) to ProWrestling.com or any ProWrestling.com staff member; you grant us a nonexclusive worldwide license to link to, reproduce, distribute, adapt, perform, display and sublicense the submitted Content. Further, by submitting Content to ProWrestling.com or any ProWrestling.com staff member, you acknowledge that you have the authority to grant us such rights. Please note that you retain ownership of any copyrights of all content you submit. If the submitted Content includes information or source code, which is in any way objectionable or harmful, our staff shall have the right to analyze, summarize, and report on this information as we see fit. Since this is a public website, most of our content was submitted to us by our users (forum posts, submitted one-liners, etc). Please notify us ASAP if you find any content on ProWrestling.com harmful and offensive and we'll be more than happy to remove it, usually within the next 3 business day. 
+Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
 
-<< Go Back
+Children Under 18 Years of Age
+
+You must be 13 years and older to register to use the ProWrestling.com website. As a result, ProWrestling.com does not specifically collect information about children. If we learn that ProWrestling.com has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using ProWrestling.com or sending information about themselves or anyone else over the Internet.
+
+Changes to this Privacy Policy
+
+ProWrestling.com may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the ProWrestling.com website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+
+Conditions of Use
+
+If you decide to visit ProWrestling.com website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law. Effective Date of this Privacy Policy
+
+This Privacy Policy is effective as of February 4, 2011 and last updated February 4, 2011.
