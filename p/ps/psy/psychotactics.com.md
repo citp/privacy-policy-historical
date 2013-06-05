@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychotactics.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116022320id_/http%3A//www.psychotactics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychotactics.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605125104id_/http%3A//psychotactics.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Psychotactics - Big and Small Business Ideas
 
