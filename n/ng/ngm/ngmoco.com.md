@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ngmoco.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219123348id_/http%3A//app.mobage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngmoco.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605030732id_/http%3A//app.mobage.com/privacy) for the most accurate reproduction.*
 
 # Mobage
 
 ## Privacy Policy
 
-Last Updated: March 15, 2012
+Last Updated: March 20, 2013 
 
 ngmoco:) Privacy Policy
 
@@ -12,17 +12,17 @@ As used in this Privacy Policy, "ngmoco", "we", "us", or "our" refer to ngmoco, 
 
 Your privacy is important to ngmoco. We designed our Privacy Policy to cover how we collect, use, disclose, transfer and store your information. Please familiarize yourself with our privacy practices and let us know if you have any questions.
 
-Our Privacy Policy applies only to the collection, use and disclosure of personal information that you may decide to provide to us in your use of: (i) our applications for mobile platforms or devices and our web applications accessible on third party social networking services (" **SNS** ") (collectively, our mobile and web applications are referred to herein as (" **ngmoco Applications** "), (ii) our game publisher networks, crowd sourcing service and platforms (" **Networks** ") provided in connection with ngmoco Applications and Third-Party Mobile Applications (defined below), (iii) our portal for third-party publishers (" **Mobage Developer Portal** "), (iv) our web domains and subdomains, including [ngmoco.com](http://ngmoco.com/), [plusplus.com](http://plusplus.com/) and [mobage.com](http://mobage.com/) (collectively, our " **Sites** "), and web forums or messaging boards in ngmoco Applications and our Sites (collectively, our " **Forums** "). Any and all of our ngmoco Applications, Networks, Mobage Developer Portal, Sites and Forums are referred to herein as our " **Services** ".
+Our Privacy Policy applies only to the collection, use and disclosure of personal information that you may decide to provide to us in your use of: (i) our applications for mobile platforms or devices and our web applications accessible on third party social networking services (" **SNS** ") (collectively, our mobile and web applications are referred to herein as (" **ngmoco Applications** "), (ii) our game publisher networks, crowd sourcing service and platforms (" **Networks** ") provided in connection with ngmoco Applications and Third-Party Mobile Applications (defined below), (iii) our portal for third-party publishers (" **Mobage Developer Portal** "), (iv) our web domains and subdomains, including **ngmoco.com** , **plusplus.com** and **mobage.com** (collectively, our " **Sites** "), and web forums or messaging boards in ngmoco Applications and our Sites (collectively, our " **Forums** "). Any and all of our ngmoco Applications, Networks, Mobage Developer Portal, Sites and Forums are referred to herein as our " **Services** ".
 
 We reserve the right to update this Privacy Policy at any time. If we modify this Privacy Policy in a material way, a notice will be posted in our Services and on the Sites along with the updated Privacy Policy. We will also update the "Last Updated Date" in the Privacy Policy. By continuing to access or use the Services after we have posted an updated Privacy Policy or have provided you with notice of a modification, you are indicating that you agree to be bound by the modified Privacy Policy. If the modified Privacy Policy is not acceptable to you, your only recourse is to cease using the Services.
 
-Please visit this page periodically to remain up-to-date as to any Privacy Policy changes. Take a moment now to read the following to learn about our information collection practices that may impact you as a registered user with full access to our Services or a non-registered user of our Services (each a " **ngmoco User** "). For information regarding the collection and use of Personal Information (defined below) from children under 14 years old, see the Section below, entitled "Our Policy Toward Children".
+Please visit this page periodically to remain up-to-date as to any Privacy Policy changes. Take a moment now to read the following to learn about our information collection practices that may impact you as a registered user with access to our Services or a non-registered user of our Services (each a " **ngmoco User** "). For information regarding the collection and use of Personal Information (defined below) from children under 14 years old, see the Section below, entitled "Our Policy Toward Children".
 
 **We Collect Personal Information and Non-Identifying Information**
 
 In the course of using our Services, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, phone number, photo representation (" **avatar** "), email address and mailing address (" **Personal Information** "). We will collect, use, transfer and disclose Personal Information in accordance with our Privacy Policy.
 
-We also collect non-personal information, which is data in a form that does not permit direct association with you or any specific individual (" **Non-Identifying Information** "). Non-Identifying Information is aggregated and used to help improve our Services and Third Party Mobile Applications (defined below) by providing a better way to understand the ngmoco User experience with the level of interest in various portions of our Sites, specific ngmoco Applications or specific Third-Party Mobile Applications. We may collect, use, transfer and disclose Non-Identifying Information for any purpose; details provided in this Privacy Policy about what Non-Identifying Information we collect currently, and how we use, transfer and disclose such Non-Identifying Information concern only how such information is collected and used today.
+We also collect non-personal information, which is data in a form that does not permit direct association with you or any specific individual (" **Non-Identifying Information** "). Non-Identifying Information is aggregated and used to help improve our Services and Third Party Mobile Applications by providing a better way to understand the ngmoco User experience with the level of interest in various portions of our Sites, specific ngmoco Applications or specific Third-Party Mobile Applications. We may collect, use, transfer and disclose Non-Identifying Information for any purpose; details provided in this Privacy Policy about what Non-Identifying Information we collect currently, and how we use, transfer and disclose such Non-Identifying Information concern only how such information is collected and used today.
 
 Both Personal Information or Non-Identifying Information may be used alone or in the aggregate with information collected from other ngmoco Users. Our primary objective in collecting any Personal Information or Non-Identifying Information is to provide you with a superior and personally relevant user experience.
 
@@ -30,16 +30,21 @@ Both Personal Information or Non-Identifying Information may be used alone or in
 
 Your Personal Information may be used, for instance:
 
-  * To help us to develop, deliver, and improve our Services and advertising;
-  * To recommend products of interest directly to you;
-  * For market research purposes that support our efforts to deliver a more valuable service to our community of ngmoco Users; 
-    * For example, we may use your Personal Information to contact you with announcements, newsletters and promotional materials related to our Services or to offer you opportunities to participate in surveys, contests or sweepstakes (any of these a "Promotion") via our Services. 
-      * If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications. (See "Changing or Removing Information" below for further information.)
-  * To allow us to keep you posted regarding our latest Service announcements, software updates, and upcoming events;
-  * To send important notices, such as communications about your purchases and changes to our [Terms of Use](https://web.archive.org/terms), this Privacy Policy, or other Service-specific policies. Because this information is important to your interactions with ngmoco, you may not opt out of receiving these communications; and
-  * To audit and analyze data to improve our Services and customer communications.
+· To help us to develop, deliver, and improve our Services and advertising;
 
+· To recommend products of interest directly to you;
 
+· For market research purposes that support our efforts to deliver a more valuable service to our community of ngmoco Users;
+
+· For example, we may use your Personal Information to contact you with announcements, newsletters and promotional materials related to our Services or to offer you opportunities to participate in surveys, contests or sweepstakes (any of these a "Promotion") via our Services.
+
+· If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications. (See "Changing or Removing Information" below for further information.)
+
+· To allow us to keep you posted regarding our latest Service announcements, software updates, and upcoming events;
+
+· To send important notices, such as communications about your purchases and changes to our [**Terms of Use**](http://app.mobage.com/terms), this Privacy Policy, or other Service-specific policies. Because this information is important to your interactions with ngmoco, you may not opt out of receiving these communications; and
+
+· To audit and analyze data to improve our Services and customer communications.
 
 **When We Collect Information**
 
@@ -51,7 +56,7 @@ In connection with registration of ngmoco Users on our Services, we collect Pers
 
 Related to this information collection, our Services may serve ads that contain links to other Third-Party Mobile Applications, and we may utilize your Device ID to track clicks or other ad fulfillment metrics. Our use of your Device ID does not enable us to identify you personally, and we do not store this information in connection with your ngmoco User account information.
 
-If you are a Third Party Publisher, you can register to develop Third Party Mobile Applications via our Sites. In connection with registration as a Third Party Publisher, we may collect your name, mailing address, email address and telephone number and other information relevant to the Mobage Developer Portal and publication of Third Party Mobile Applications, including bank account and taxation information for vendor registration. We collect this Personal Information to ensure that we are able to contact you and for purposes of operation of the Mobage Developer Portal and publication of your Third Party Mobile Applications. 
+If you are a Third Party Publisher, you can register to develop Third Party Mobile Applications via our Sites. In connection with registration as a Third Party Publisher, we may collect your name, mailing address, email address and telephone number and other information relevant to the Mobage Developer Portal and publication of Third Party Mobile Applications, including bank account and taxation information for vendor registration. We collect this Personal Information to ensure that we are able to contact you and for purposes of operation of the Mobage Developer Portal and publication of your Third Party Mobile Applications.
 
 You may also be asked explicitly to provide Personal Information or Non-Identifying Information anytime that you are in contact with ngmoco or an ngmoco-affiliated company. If your Personal Information or Non-Identifying Information is shared with our affiliates, such sharing will be in accordance with this Privacy Policy.
 
@@ -64,6 +69,8 @@ If you choose to participate in a Promotion, We may request that you provide us 
 In connection with use of our Services or Third-Party Mobile Applications, in addition to information on device type, mobile carrier, IP address, platform version, and geo-location, as applicable, we may also collect navigation, interaction and engagement information regarding ngmoco Users.
 
 Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (e.g., combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other Non-Identifying Information (e.g., your viewing preferences).
+
+Please note that to the extent any Third-Party Mobile Application collects any Personal Information separate from the operation of any ngmoco Services then the collection, use and disclosure of that information is under the terms of any applicable privacy policy, terms of service or the like made available by the owner/operator of that Third-Party Mobile Application. 
 
 **Cookies & Other Technologies**
 
@@ -109,7 +116,7 @@ Disclosure of your Personal Information and Non-Identifying Information may also
 
 At times, we may disclose information about you to law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of ngmoco or a third party, to protect the safety of the public or any person or to prevent or stop activity we may consider to be or to pose a risk of being, any illegal, unethical or legally actionable activity.
 
-Under another special set of circumstances, for example, in connection with a merger, acquisition, reorganization or sale of assets, or in the event of bankruptcy, we may sell, transfer or otherwise share some or all of ngmoco assets, including your Personal Information. 
+Under another special set of circumstances, for example, in connection with a merger, acquisition, reorganization or sale of assets, or in the event of bankruptcy, we may sell, transfer or otherwise share some or all of ngmoco assets, including your Personal Information.
 
 **Our Policy Toward Children**
 
@@ -143,13 +150,13 @@ We will make any legally required disclosures of any breach of the security, con
 
 **Changing or Removing Information**
 
-As a user of an account, you may update or delete the Personal Information in your profile by logging into your account. You may also email us at [privacy@ngmoco.com](mailto:privacy@ngmoco.com) to request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes. Specific Shared Data cannot be retrieved from Preferred Partners after its disclosure.
+As a user of an account, you may update or delete the Personal Information in your profile by logging into your account. You may also email us at **privacy@ngmoco.com** to request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes. Specific Shared Data cannot be retrieved from Preferred Partners after its disclosure.
 
 Where you share information with other users through the communication channels of our Services, you generally should not expect to have any ability to modify or remove such communications. Nor should you expect us to modify or delete your comments upon your request.
 
 If you participate in a Promotion hosted by us (where you may or may not disclose the information requested), you have the option to opt out at any time from such participation and the receipt of any related communications. Please follow the unsubscribe instructions provided in the relevant communications.
 
-If your friend received an invitation from ngmoco per your referral to try the Services, your friend may request that the name and email address used in the invitation be removed from ngmoco’s records. We store this information for the sole purposes of measuring the effectiveness of our referral program and sending the email you initiated, but your friend can request to have it removed from our database by emailing us at [privacy@ngmoco.com](mailto:privacy@ngmoco.com).
+If your friend received an invitation from ngmoco per your referral to try the Services, your friend may request that the name and email address used in the invitation be removed from ngmoco’s records. We store this information for the sole purposes of measuring the effectiveness of our referral program and sending the email you initiated, but your friend can request to have it removed from our database by emailing us at **privacy@ngmoco.com**.
 
 **Links to Other Websites and Services**
 
@@ -161,17 +168,15 @@ The fact that we link to a third party website or service is not an endorsement 
 
 Information that you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. If you are located outside the United States, you understand that we transfer Personal Information to and process it in the United States. Your consent to this Privacy Policy followed by your submission of Personal Information represents your agreement to that transfer.
 
-ngmoco abides by the [safe harbor framework](http://www.google.com/url?q=http%3A%2F%2Fwww.export.gov%2Fsafeharbor%2F&sa=D&sntz=1&usg=AFQjCNH9QgCaLqAyA2T7o5Awc8XT4hO8Mg) ("Safe Harbor") developed by the US Department of Commerce and the European Union and Switzerland regarding the collection, use, and retention of personal information from individuals who reside in the European Union and Switzerland. As detailed in this Privacy Policy, we specifically agree to comply with each of the seven Safe Harbor privacy principles for the [European Union and Switzerland](http://www.export.gov/safeharbor/eu/eg_main_018476.asp): Notice, Choice, Onward Transfer (Transfers to Third Parties), Security, Data Integrity, Access and Enforcement.
+ngmoco abides by the **safe harbor framework** ("Safe Harbor") developed by the US Department of Commerce and the European Union and Switzerland regarding the collection, use, and retention of personal information from individuals who reside in the European Union and Switzerland. As detailed in this Privacy Policy, we specifically agree to comply with each of the seven Safe Harbor privacy principles for the **European Union and Switzerland** : Notice, Choice, Onward Transfer (Transfers to Third Parties), Security, Data Integrity, Access and Enforcement.
 
-Individuals who wish to file a complaint or who take issue with our Safe Harbor policies should direct such communication to us as specified in the Contacting Us section below. If you are sending us a privacy-related complaint, please provide it in English because this will help expedite the process.
-
-We will investigate and attempt to resolve complaints regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Policy. For complaints that cannot be resolved between ngmoco and a complainant, we commit to cooperate with data protection authorities located in the European Union, the Swiss Federal Data Protection and Information Commissioner, or their authorized representatives to resolve such disputes.
+Individuals who wish to file a complaint or who take issue with our Safe Harbor policies should direct such communication to us as specified in the Contacting Us section below. If you are sending us a privacy-related complaint, please provide it in English because this will help expedite the process. We will investigate and attempt to resolve complaints regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Policy. For complaints that cannot be resolved between ngmoco and a complainant, we commit to cooperate with data protection authorities located in the European Union, the Swiss Federal Data Protection and Information Commissioner, or their authorized representatives to resolve such disputes.
 
 **Your California Privacy Rights**
 
-California Civil Code Section 1798.83 permits customers of ngmoco who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. If you are a California resident and have provided ngmoco with personal information within the last year, you may make such a request by emailing us at the following email address with the email’s subject titled as "California Privacy Rights": [privacy@ngmoco.com](mailto:privacy@ngmoco.com).
+California Civil Code Section 1798.83 permits customers of ngmoco who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. If you are a California resident and have provided ngmoco with personal information within the last year, you may make such a request by emailing us at the following email address with the email’s subject titled as "California Privacy Rights": **privacy@ngmoco.com**.
 
-Within 30 days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for such third parties’ direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. A request may be made no more than once per calendar year and we are not required to respond to requests made by means other than through the email address above.
+Within thirty (30) calendar days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for such third parties’ direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. A request may be made no more than once per calendar year and we are not required to respond to requests made by means other than through the email address above.
 
 **Language**
 
@@ -179,7 +184,7 @@ The controlling language of this Privacy Policy is English; any provided transla
 
 **Contacting Us**
 
-If you have any questions, inquires, requests or complaints concerning our Privacy Policy or information practices, please contact us at [privacy@ngmoco.com](mailto:privacy@ngmoco.com), by phone at 415-375-3170 or by regular mail attn: Privacy Officer, ngmoco, LLC 185 Berry Street, Suite 3000, San Francisco, CA 94107-1799.
+If you have any questions, inquires, requests or complaints concerning our Privacy Policy or information practices, please contact us at **privacy@ngmoco.com** , by phone at 415-375-3170 or by regular mail attn: Privacy Officer, ngmoco, LLC 185 Berry Street, Suite 3000, San Francisco, CA 94107-7621.
 
 [We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)
 
