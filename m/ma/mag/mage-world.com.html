@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mage-world.com privacy policy that was archived on 2012-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121209094854id_/http%3A//www.mage-world.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mage-world.com privacy policy that was archived on 2013-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605085612id_/http%3A//www.mage-world.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy by MageWorld</title>
@@ -12,6 +12,10 @@ Our clients are enjoying 20%+ more SALES each month!">
 <link rel="shortcut icon" href="http://www.mage-world.com/skin/frontend/default/mw_1500/favicon.ico" type="image/x-icon">
 
 
+<script async="" charset="utf-8" src="//cdn.zopim.com/?mNim8apgecZV0ktuMt9JyRfW1pXvcbGI" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	var SKIN_URL = 'http://www.mage-world.com/skin/frontend/default/mw_1500/';
+</script>
+
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
@@ -20,9 +24,9 @@ Our clients are enjoying 20%+ more SALES each month!">
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.mage-world.com/media/css/d622a086f7ab5314e15d5209b128555b.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.mage-world.com/media/css/7f31c911c584cee7515f56a87dd53c99.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.mage-world.com/media/css/daeee25d7c7c31697a1e03f86c95f99e.css" media="print">
-<script async="" charset="utf-8" src="//cdn.zopim.com/?mNim8apgecZV0ktuMt9JyRfW1pXvcbGI" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.mage-world.com/media/js/d446425b2684ffccce42bd2fa1568574.js"></script>
+<script type="text/javascript" src="http://www.mage-world.com/media/js/fb1b63469dff1d59600e296d2cd2d74d.js"></script>
 <link href="http://www.mage-world.com/rss/catalog/new/store_id/1/" title="New Products" rel="alternate" type="application/rss+xml">
 <link href="http://www.mage-world.com/rss/catalog/salesrule/store_id/1/cid/0/" title="Coupons/Discounts" rel="alternate" type="application/rss+xml">
 <!--[if lt IE 8]>
@@ -41,52 +45,773 @@ Mage.Cookies.domain   = '.www.mage-world.com';
 
 <script type="text/javascript">
 //<![CDATA[
-optionalZipCountries = ["AF","AL","DZ","AS","AD","AO","AI","AQ","AG","AR","AM","AW","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BA","BW","BV","BR","IO","VG","BN","BG","BF","BI","KH","CM","CA","CV","KY","CF","TD","CL","CN","CX","CC","CO","KM","CG","CD","CK","CR","HR","CU","CY","CZ","CI","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FK","FO","FJ","FI","FR","GF","PF","TF","GA","GM","GE","DE","GH","GI","GR","GL","GD","GP","GU","GT","GG","GN","GW","GY","HT","HM","HN","HK","HU","IS","IN","ID","IR","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MY","MV","ML","MT","MH","MQ","MR","MU","YT","MX","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","AN","NC","NZ","NI","NE","NG","NU","NF","KP","MP","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PN","PL","PT","PR","QA","RO","RU","RW","RE","BL","SH","KN","LC","MF","PM","VC","WS","SM","SA","SN","RS","SC","SL","SG","SK","SI","SB","SO","ZA","GS","KR","ES","LK","SD","SR","SJ","SZ","SE","CH","SY","ST","TW","TJ","TZ","TH","TL","TG","TK","TO","TT","TN","TR","TM","TC","TV","UM","VI","UG","UA","AE","GB","US","UY","UZ","VU","VA","VE","VN","WF","EH","YE","ZM","ZW","AX"];
+optionalZipCountries = [];
 //]]>
 </script>
-<script type="text/javascript">//<![CDATA[
+
+<script>
+function countDown(y,m,d,h,i,cdhour,cdmin,cdsec) {
+	they = y;
+	them = m;
+	thed = d;
+	theh = h;
+	thei = i;	
+	// Offset from GMT
+	var now = new Date();
+	var date1 = new Date(now.getFullYear(),0,1,0,0,0,0);
+	var date2 = new Date(date1.toGMTString().substring(0,date1.toGMTString().lastIndexOf(" ")-1));
+	var gmt_offset = date1 - date2 ;
+	var today=new Date();
+	var realtime = Date.parse(today)-gmt_offset+25200000;
+	//alert(realtime);
+	futurestring=m+"/"+d+"/"+y;  //alert(Date.parse(futurestring));
+	dd=Date.parse(futurestring)-realtime+h*3600000+i*60000;//alert(dd);
+	if(dd>=0){
+		if (Math.floor(dd/3600000) <100){
+			
+		dday=Math.floor( dd / 86400000       ); 
+		dhour=Math.floor(dd /  3600000 %   24 ) + dday*24;
+		dmin=Math.floor( dd /    60000 %   60 );
+		dsec=Math.floor( dd /     1000 %   60 );
+		var dhour_string;
+		var dhour_span ='';
+		dhour_string = dhour.toString();
+		if (dhour_string < 10) dhour_string = "0"+dhour_string;
+		for(var i=0; i<dhour_string.length; i++) {
+				dhour_span += "<span>"+dhour_string.charAt(i)+"</span>";
+		}
+
+		var dmin_string;
+		var dmin_span ='';
+		dmin_string = dmin.toString();
+		if (dmin_string < 10) dmin_string = "0"+dmin_string;
+		for(var i=0; i<dmin_string.length; i++) {
+				dmin_span += "<span>"+dmin_string.charAt(i)+"</span>";
+		}
+
+		var dsec_string;
+		var dsec_span ='';
+		dsec_string = dsec.toString();
+		if (dsec_string < 10) dsec_string = "0"+dsec_string;
+		for (var i=0; i<dsec_string.length; i++) {
+				dsec_span += "<span>"+dsec_string.charAt(i)+"</span>";
+		}
+			
+		if (document.getElementById) { 
+			document.getElementById(cdhour).innerHTML = dhour_span;
+			document.getElementById(cdmin).innerHTML = dmin_span;
+			document.getElementById(cdsec).innerHTML = dsec_span; 
+		}
+		//cach dat bien ko cho vao chuoi~ dung cho multi countdown
+		SD=window.setTimeout("countDown("+they+","+them+","+thed+","+theh+","+thei+",'"+cdhour+"','"+cdmin+"','"+cdsec+"');", 1000);
+		} else {
+			dday=Math.floor( dd / 86400000       );
+			dhour=Math.floor(dd /  3600000 %   24 );
+			dmin=Math.floor( dd /    60000 %   60 );
+			var dday_string;
+			var dday_span ='';
+			dday_string = dday.toString();
+			if (dday_string < 10) dday_string = "0"+dday_string;
+			for(var i=0; i<dday_string.length; i++) {
+					dday_span += "<span>"+dday_string.charAt(i)+"</span>";
+			}		
+			var dhour_string;
+			var dhour_span ='';
+			dhour_string = dhour.toString();
+			if (dhour_string < 10) dhour_string = "0"+dhour_string;
+			for(var i=0; i<dhour_string.length; i++) {
+					dhour_span += "<span>"+dhour_string.charAt(i)+"</span>";
+			}
+			
+			var dmin_string;
+			var dmin_span ='';
+			dmin_string = dmin.toString();
+			if (dmin_string < 10) dmin_string = "0"+dmin_string;
+			for(var i=0; i<dmin_string.length; i++) {
+					dmin_span += "<span>"+dmin_string.charAt(i)+"</span>";
+			}
+			
+
+				
+			if (document.getElementById) { 
+				document.getElementById(cdhour).innerHTML = dday_span;
+				if(document.getElementById('cd_hour')) document.getElementById('cd_hour').innerHTML = 'Days';
+
+				document.getElementById(cdmin).innerHTML = dhour_span;
+				if(document.getElementById('cd_minute')) document.getElementById('cd_minute').innerHTML = 'Hours';
+
+				document.getElementById(cdsec).innerHTML = dmin_span;
+				if(document.getElementById('cd_second')) document.getElementById('cd_second').innerHTML = 'Minutes';
+			}
+			
+			if (document.getElementById('hour-sym')) document.getElementById('hour-sym').innerHTML = 'Days';
+				if(document.getElementById('minute-sym')) document.getElementById('minute-sym').innerHTML = 'Hours';
+				if(document.getElementById('second-sym')) document.getElementById('second-sym').innerHTML = 'Minutes'; 
+
+			//cach dat bien ko cho vao chuoi~ dung cho multi countdown
+			  SD=window.setTimeout("countDown("+they+","+them+","+thed+","+theh+","+thei+",'"+cdhour+"','"+cdmin+"','"+cdsec+"');", 1000);
+			//if (min == '00' && sec == '00') { sec = "00"; window.clearTimeout(SD); }
+		}
+	}
+}
+
+function countDown3(y,m,d,h,i,cdhour,cdmin,cdsec) {
+	they = y;
+	them = m;
+	thed = d;
+	theh = h;
+	thei = i;	
+	// Offset from GMT
+	var now = new Date();
+	var date1 = new Date(now.getFullYear(),0,1,0,0,0,0);
+	var date2 = new Date(date1.toGMTString().substring(0,date1.toGMTString().lastIndexOf(" ")-1));
+	var gmt_offset = date1 - date2 ; //alert(gmt_offset);
+	var today=new Date();//alert(Date.parse(today));
+	var realtime = Date.parse(today)-gmt_offset+25200000;
+	futurestring=m+"/"+d+"/"+y;  //alert(Date.parse(futurestring));
+	dd=Date.parse(futurestring)-realtime+h*3600000+i*60000;//alert(dd);
+	if(dd>=0){
+		if (Math.floor(dd/3600000) <100){
+			dday=Math.floor( dd / 86400000       ); 
+			dhour=Math.floor(dd /  3600000 %   24 ) + dday*24;
+			dmin=Math.floor( dd /    60000 %   60 );
+			dsec=Math.floor( dd /     1000 %   60 );
+			var dhour_string;
+			var dhour_span ='';
+			dhour_string = dhour.toString();
+			if (dhour_string < 10) dhour_string = "0"+dhour_string;
+			for(var i=0; i<dhour_string.length; i++) {
+					dhour_span += "<span>"+dhour_string.charAt(i)+"</span>";
+			}
+			
+			var dmin_string;
+			var dmin_span ='';
+			dmin_string = dmin.toString();
+			if (dmin_string < 10) dmin_string = "0"+dmin_string;
+			for(var i=0; i<dmin_string.length; i++) {
+					dmin_span += "<span>"+dmin_string.charAt(i)+"</span>";
+			}
+			
+			var dsec_string;
+			var dsec_span ='';
+			dsec_string = dsec.toString();
+			//alert(dsec_string);
+			if (dsec_string < 10) dsec_string = "0"+dsec_string;
+			for(var i=0; i<dsec_string.length; i++) {
+					dsec_span += "<span>"+dsec_string.charAt(i)+"</span>";
+			}
+				
+			if (document.getElementById) { 
+				document.getElementById(cdhour).innerHTML = dhour_span;
+				document.getElementById(cdmin).innerHTML = dmin_span;
+				document.getElementById(cdsec).innerHTML = dsec_span; 
+			}
+			//cach dat bien ko cho vao chuoi~ dung cho multi countdown
+			  SD=window.setTimeout("countDown("+they+","+them+","+thed+","+theh+","+thei+",'"+cdhour+"','"+cdmin+"','"+cdsec+"');", 1000);
+			//if (min == '00' && sec == '00') { sec = "00"; window.clearTimeout(SD); }
+		} else {
+		dday=Math.floor( dd / 86400000       );  
+		dhour=Math.floor(dd /  3600000 %   24 );
+		dmin=Math.floor( dd /    60000 %   60 );
+		var dday_string;
+		var dday_span ='';
+		dday_string = dday.toString();
+		if (dday_string < 10) dday_string = "0"+dday_string;
+		for(var i=0; i<dday_string.length; i++) {
+			dday_span += "<span>"+dday_string.charAt(i)+"</span>";
+		}		
+		var dhour_string;
+		var dhour_span ='';
+		dhour_string = dhour.toString();
+		if (dhour_string < 10) dhour_string = "0"+dhour_string;
+		for(var i=0; i<dhour_string.length; i++) {
+			dhour_span += "<span>"+dhour_string.charAt(i)+"</span>";
+		}
+		
+		var dmin_string;
+		var dmin_span ='';
+		dmin_string = dmin.toString();
+		if (dmin_string < 10) dmin_string = "0"+dmin_string;
+		for(var i=0; i<dmin_string.length; i++) {
+			dmin_span += "<span>"+dmin_string.charAt(i)+"</span>";
+		}
+		
+		
+		
+		if (document.getElementById) { 
+			document.getElementById(cdhour).innerHTML = dday_span;
+			if(document.getElementById('hour')) document.getElementById('hour').innerHTML = 'Days';
+			document.getElementById(cdmin).innerHTML = dhour_span;
+			if(document.getElementById('minute')) document.getElementById('minute').innerHTML = 'Hours';
+			document.getElementById(cdsec).innerHTML = dmin_span;
+			if(document.getElementById('second')) document.getElementById('second').innerHTML = 'Minutes'; 
+		}
+		//cach dat bien ko cho vao chuoi~ dung cho multi countdown
+		SD=window.setTimeout("countDown("+they+","+them+","+thed+","+theh+","+thei+",'"+cdhour+"','"+cdmin+"','"+cdsec+"');", 1000);
+		//if (min == '00' && sec == '00') { sec = "00"; window.clearTimeout(SD); }
+		}
+	}
+}
+
+
+
+function countDown4(y,m,d,h,i,cdhour,cdmin,cdsec) { 
+
+	they = y;
+	them = m;
+	thed = d;
+	theh = h;
+	thei = i;	
+	// Offset from GMT
+    var now = new Date();
+    var date1 = new Date(now.getFullYear(),0,1,0,0,0,0);
+    var date2 = new Date(date1.toGMTString().substring(0,date1.toGMTString().lastIndexOf(" ")-1));
+    var gmt_offset = date1 - date2 ; //alert(gmt_offset);
+	var today=new Date();//alert(Date.parse(today));
+	var realtime = Date.parse(today)-gmt_offset+25200000;
+	//alert(realtime);
+	futurestring=m+"/"+d+"/"+y;  //alert(Date.parse(futurestring));
+	dd=Date.parse(futurestring)-realtime+h*3600000+i*60000;//alert(dd);
+	if(dd>=0){
+		if (Math.floor(dd/3600000) <100){
+		//alert('fdsgd');	
+		dday=Math.floor( dd / 86400000       ); //alert(dday); 
+		dhour=Math.floor(dd /  3600000 %   24 ) + dday*24; //alert(dhour);
+		dmin=Math.floor( dd /    60000 %   60 ); //alert(dmin);
+		dsec=Math.floor( dd /     1000 %   60 ); //alert(dsec);
+		var dhour_string;
+		var dhour_span ='';
+		dhour_string = dhour.toString();
+		if (dhour_string < 10) dhour_string = "0"+dhour_string;
+		for(var i=0; i<dhour_string.length; i++) {
+				dhour_span += "<span>"+dhour_string.charAt(i)+"</span>";
+		}
+		
+		var dmin_string;
+		var dmin_span ='';
+		dmin_string = dmin.toString();
+		if (dmin_string < 10) dmin_string = "0"+dmin_string;
+		for(var i=0; i<dmin_string.length; i++) {
+				dmin_span += "<span>"+dmin_string.charAt(i)+"</span>";
+		}
+		
+		var dsec_string;
+		var dsec_span ='';
+		dsec_string = dsec.toString();
+		if (dsec_string < 10) dsec_string = "0"+dsec_string;
+		for (var i=0; i<dsec_string.length; i++) {
+				dsec_span += "<span>"+dsec_string.charAt(i)+"</span>";
+		}
+			
+		if (document.getElementById) { 
+		document.getElementById(cdhour).innerHTML = dhour_span;
+		document.getElementById(cdmin).innerHTML = dmin_span;
+		document.getElementById(cdsec).innerHTML = dsec_span; 
+		}
+	//cach dat bien ko cho vao chuoi~ dung cho multi countdown
+	  SD=window.setTimeout("countDown("+they+","+them+","+thed+","+theh+","+thei+",'"+cdhour+"','"+cdmin+"','"+cdsec+"');", 1000);
+		} else { 
+			dday=Math.floor( dd / 86400000       ); //alert(dday); 
+			dhour=Math.floor(dd /  3600000 %   24 ); //alert(dhour);
+			dmin=Math.floor( dd /    60000 %   60 ); //alert(dmin);
+			var dday_string;
+			var dday_span ='';
+			dday_string = dday.toString();
+			if (dday_string < 10) dday_string = "0"+dday_string;
+			for(var i=0; i<dday_string.length; i++) {
+					dday_span += "<span>"+dday_string.charAt(i)+"</span>";
+			}		
+			var dhour_string;
+			var dhour_span ='';
+			dhour_string = dhour.toString();
+			if (dhour_string < 10) dhour_string = "0"+dhour_string;
+			for(var i=0; i<dhour_string.length; i++) {
+					dhour_span += "<span>"+dhour_string.charAt(i)+"</span>";
+			}
+			
+			var dmin_string;
+			var dmin_span ='';
+			dmin_string = dmin.toString();
+			if (dmin_string < 10) dmin_string = "0"+dmin_string;
+			for(var i=0; i<dmin_string.length; i++) {
+					dmin_span += "<span>"+dmin_string.charAt(i)+"</span>";
+			}
+			
+
+			//salert(document.getElementById(hoursym).innerHTML);	
+			if (document.getElementById) { 
+				document.getElementById(cdhour).innerHTML = dday_span;;
+				if(document.getElementById('hour-sym')) document.getElementById('hour-sym').innerHTML = 'Days';
+				document.getElementById(cdmin).innerHTML = dhour_span;
+				if(document.getElementById('minute-sym')) document.getElementById('minute-sym').innerHTML = 'Hours';
+				document.getElementById(cdsec).innerHTML = dmin_span;
+				if(document.getElementById('second-sym')) document.getElementById('second-sym').innerHTML = 'Minutes'; 
+			}
+			//cach dat bien ko cho vao chuoi~ dung cho multi countdown
+			  SD=window.setTimeout("countDown("+they+","+them+","+thed+","+theh+","+thei+",'"+cdhour+"','"+cdmin+"','"+cdsec+"');", 1000);
+			//if (min == '00' && sec == '00') { sec = "00"; window.clearTimeout(SD); }
+		}
+	}
+}
+
+
+function countDown2(y,m,d,h,i,cdhour,cdmin,cdsec) { 
+	they = y;
+	them = m;
+	thed = d;
+	theh = h;
+	thei = i;	
+	// Offset from GMT
+	var now = new Date();
+	var date1 = new Date(now.getFullYear(),0,1,0,0,0,0);
+	var date2 = new Date(date1.toGMTString().substring(0,date1.toGMTString().lastIndexOf(" ")-1));
+	var gmt_offset = date1 - date2 ; //alert(gmt_offset);
+	var today=new Date();//alert(Date.parse(today));
+	var realtime = Date.parse(today)-gmt_offset+25200000;
+	//alert(realtime);
+	futurestring=m+"/"+d+"/"+y;  //alert(Date.parse(futurestring));
+	dd=Date.parse(futurestring)-realtime+h*3600000+i*60000;//alert(dd);
+	if(dd>=0){
+		if (Math.floor(dd/3600000) <100){
+		//alert('fdsgd');	
+		dday=Math.floor( dd / 86400000       ); //alert(dday); 
+		dhour=Math.floor(dd /  3600000 %   24 ) + dday*24; //alert(dhour);
+		dmin=Math.floor( dd /    60000 %   60 ); //alert(dmin);
+		dsec=Math.floor( dd /     1000 %   60 ); //alert(dsec);
+		var dhour_string;
+		var dhour_span ='';
+		dhour_string = dhour.toString();
+		if (dhour_string < 10) dhour_string = "0"+dhour_string;
+		for(var i=0; i<dhour_string.length; i++) {
+				dhour_span += "<span>"+dhour_string.charAt(i)+"</span>";
+		}
+		
+		var dmin_string;
+		var dmin_span ='';
+		dmin_string = dmin.toString();
+		if (dmin_string < 10) dmin_string = "0"+dmin_string;
+		for(var i=0; i<dmin_string.length; i++) {
+				dmin_span += "<span>"+dmin_string.charAt(i)+"</span>";
+		}
+		
+		var dsec_string;
+		var dsec_span ='';
+		dsec_string = dsec.toString();
+		if (dsec_string < 10) dsec_string = "0"+dsec_string;
+		for (var i=0; i<dsec_string.length; i++) {
+				dsec_span += "<span>"+dsec_string.charAt(i)+"</span>";
+		}
+			
+		if (document.getElementById) { 
+		document.getElementById(cdhour).innerHTML = dhour_span;
+		document.getElementById(cdmin).innerHTML = dmin_span;
+		document.getElementById(cdsec).innerHTML = dsec_span; 
+		}
+	//cach dat bien ko cho vao chuoi~ dung cho multi countdown
+	  SD=window.setTimeout("countDown("+they+","+them+","+thed+","+theh+","+thei+",'"+cdhour+"','"+cdmin+"','"+cdsec+"');", 1000);
+		} else { 
+			dday=Math.floor( dd / 86400000       ); //alert(dday); 
+			dhour=Math.floor(dd /  3600000 %   24 ); //alert(dhour);
+			dmin=Math.floor( dd /    60000 %   60 ); //alert(dmin);
+			var dday_string;
+			var dday_span ='';
+			dday_string = dday.toString();
+			if (dday_string < 10) dday_string = "0"+dday_string;
+			for(var i=0; i<dday_string.length; i++) {
+					dday_span += "<span>"+dday_string.charAt(i)+"</span>";
+			}		
+			var dhour_string;
+			var dhour_span ='';
+			dhour_string = dhour.toString();
+			if (dhour_string < 10) dhour_string = "0"+dhour_string;
+			for(var i=0; i<dhour_string.length; i++) {
+					dhour_span += "<span>"+dhour_string.charAt(i)+"</span>";
+			}
+			
+			var dmin_string;
+			var dmin_span ='';
+			dmin_string = dmin.toString();
+			if (dmin_string < 10) dmin_string = "0"+dmin_string;
+			for(var i=0; i<dmin_string.length; i++) {
+					dmin_span += "<span>"+dmin_string.charAt(i)+"</span>";
+			}
+			
+
+			//salert(document.getElementById(hoursym).innerHTML);	
+			if (document.getElementById) { 
+				document.getElementById(cdhour).innerHTML = dday_span;;
+				if(document.getElementById('hour-sym')) document.getElementById('hour-sym').innerHTML = 'Days';
+				document.getElementById(cdmin).innerHTML = dhour_span;
+				if(document.getElementById('minute-sym')) document.getElementById('minute-sym').innerHTML = 'Hours';
+				document.getElementById(cdsec).innerHTML = dmin_span;
+				if(document.getElementById('second-sym')) document.getElementById('second-sym').innerHTML = 'Minutes'; 
+			}
+			//cach dat bien ko cho vao chuoi~ dung cho multi countdown
+			  SD=window.setTimeout("countDown("+they+","+them+","+thed+","+theh+","+thei+",'"+cdhour+"','"+cdmin+"','"+cdsec+"');", 1000);
+			//if (min == '00' && sec == '00') { sec = "00"; window.clearTimeout(SD); }
+		}
+	}
+}
+
+
+function listminicart(cellid,tomorrow){
+		
+	var urlpath = 'http://www.mage-world.com/dailydeal/deal/ajaxdeal/?currenttime='+tomorrow;
+	new Ajax.Request(urlpath,{
+		method: "GET",
+		onSuccess:	function(resp){
+			var response = resp.responseText.evalJSON();
+			strhtml = '<div class="block block-deals" style="border: none;" >'+
+				'<div class="block-content"><ol id="recently-viewed-items" class="mini-products-list">';			
+
+				$i = 0;
+				while (($i < response[0].length) && ($i < 3) ){
+					strhtml += '<li class="item ';
+					if ($i%2==0){
+					strhtml += 'odd';
+					}
+					strhtml += '" style="padding: 5px 0px 5px 0px;">'+
+								'<a class="product-image" style="margin: 0px 3px 0px 3px; width: 35%;float:left;" href="'+response[0][$i]+'" >'+
+									'<img src="'+response[2][$i]+'" width="66px" height="60px"/>'+
+								'</a>'+
+								'<div class="product-details" style="float:right;width:60%;margin-left:0px;">'+
+									'<p class="product-name" style="margin-top: -5px;">'+
+										'<a  href="'+response[0][$i]+'">'+response[1][$i]+'</a>'+
+									'</p>'+
+									'<div class="price-box" style="margin: 0 0 0 0;">'+
+										'<p class="old-price" style="padding-left: 0px;">'+
+											'<span class="regular-price-related">'+
+												'<span class="price_regular" style="font-size: 12px;">'+response[3][$i]+'</span>'+
+											'</span>'+
+										'</p>'+
+										'<p class="special-price"'+
+											'<span class="price">'+
+												'<span class="price_special">'+response[4][$i]+'</span>'+
+											'</span>'+	
+										'</p>'+
+									'</div>'+									
+								'</div>'+
+							'</li>';
+
+				$i++;
+				}
+				strhtml += '</ol></div></div>';
+				$('cell-'+cellid).addTip(strhtml, {style: 'grouped'});
+				
+			//neu td ko co id thi dung phuong thuc nay
+			//	$('blockcalendar').select('td').each(function(td) { td.addTip('Test', { style: 'grouped' }); });
+			}
+	 });
+}
+
+</script>		<link rel="stylesheet" href="http://www.mage-world.com/skin/frontend/default/default/mw_download/css/style_login.css" type="text/css" media="all">
+		<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head><body class=" cms-page-view cms-privacy-policy"><div id="optionsdownload">			
+			<div id="optionsdownload-tab" style="top:0px">
+				<div id="zoptionsdownload">
+					<!--<div id="processdownload" style="display: none;">
+								<div id="loadmask">
+									<p class="loader"><img alt="Loading..." src="http://www.mage-world.com/skin/frontend/default/default/mw_download/images/ajax-loader-tr.gif"><br>Please wait...</p>
+								</div>
+							</div>-->
+					<div id="fancyboxdownload-wrap" style="display:none">
+						<div id="fancyboxdownload-outer">
+				
+							<div id="confirmboxdownload">
+								<input type="hidden" id="isLoadPage" name="isLoadPage" value="">								
+								<div id="loadstep" style="display:none;">
+								<p class="loader"><img alt="Loading..." src="http://www.mage-world.com/skin/frontend/default/default/mw_download/images/ajax-loader-tr.gif "><br>Please wait...</p>
+							</div>
+								<div id="boxdownloadcontent"></div>
+							</div>
+							<a onclick="hilepopup();" style="display: inline;" id="fancyboxdownload-close"></a>					
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div style="padding: 0px; position: fixed; left: 0px; top: 0px; width: 100%;display:none; height: 100%; z-index: 9000; visibility: visible;" id="bgopacitydownload"><div id="opacitydownload" style="width: 100%; height: 100%;background-color: #444444;opacity: 0.4;"></div></div>
+				<script type="text/javascript">
+			function hilepopup(){
+				$('boxdownloadcontent').innerHTML='';
+				$('fancyboxdownload-wrap').setStyle({display:'none'});
+				$('bgopacitydownload').setStyle({display:'none'});
+				if(document.getElementById("isLoadPage").value != ""){
+					window.location.reload();
+				}
+				/*window.location.reload();*/
+			}			
+			function displayBox(jQueryurl){									
+			//jQueryurl='';
+			new Ajax.Request(jQueryurl, {encoding:'UTF-8',method: 'post',				
+				onLoading : function(resp)
+				{									
+					$('fancyboxdownload-wrap').setStyle({display:'block'});	
+					$('fancyboxdownload-close').setStyle({display:'none'});
+					$("loadstep").setStyle({display:"block"});				
+				},
+				onSuccess : function(resp)
+				{
+					var respjson=resp.responseText.evalJSON();					
+					$("loadstep").setStyle({display:"none"});																		
+					$('boxdownloadcontent').innerHTML = respjson.texthtml;					
+					$('bgopacitydownload').setStyle({display:'block'});
+					var islogin = "";
+					if(islogin == ""){
+						$('optionsdownload').setStyle({width:'680px'});	
+						$('fancyboxdownload-close').setStyle({display:'inline'});					
+						$('popup_box1').setStyle({display:'block'});	
+					}	
+					else{
+						$('optionsdownload').setStyle({width:'470px'});						
+						$('popup_box2').setStyle({display:'block'});	
+						$('fancyboxdownload-close').setStyle({display:'none'});	
+					}				
+					//alert(respjson.texthtml);				
+				}			
+			}); 
+		}										
+		function nextstep3(){
+			var allRadio = document.getElementsByName("method");
+			var paramid = document.getElementById("frmmethodparamid").value;
+			var selectedAnswer = "";  
+			for(var i = 0;i<allRadio.length; i++){					
+				if(allRadio[i].checked){						
+					selectedAnswer = allRadio[i].value;
+				}
+			} 				
+		    $('popup_box2').setStyle({display:'none'});				
+		   	$('loadstep').setStyle({display:'block'});		    			
+			if(selectedAnswer == 1){
+				setTimeout(function () {
+		            $('popup_box3').setStyle({display:'block'});
+					$('fancyboxdownload-close').setStyle({display:'none'});	
+					$('loadstep').setStyle({display:'none'});
+		            window.location.href = 'http://www.mage-world.com/download/trial/download/'+'id/'+paramid;		            		         
+	        	}, 500);										
+			}		  	
+			else{
+				setTimeout(function () {
+		            $('popup_box4').setStyle({display:'block'});
+					$('fancyboxdownload-close').setStyle({display:'none'});	
+					$('loadstep').setStyle({display:'none'});						
+	        	}, 500);					
+			}   	    			
+		}
+		
+		function backstep1(){
+			$('optionsdownload').setStyle({width:'470px'});
+			$('popup_box2').setStyle({display:'none'});
+			$('loadstep').setStyle({display:'block'});
+			setTimeout(function () {
+				$('loadstep').setStyle({display:'none'});
+	            $('popup_box1').setStyle({display:'block'});														
+        	}, 0001);
+			
+		}
+		
+		function backstep(){
+			var islogin = "";
+			$('loadstep').setStyle({display:'block'});
+			$('popup_box4').setStyle({display:'none'});	
+			/*if(islogin == ""){		  	
+				setTimeout(function () {
+					$('loadstep').setStyle({display:'none'});
+					$('optionsdownload').setStyle({width:'680px'});
+		            $('popup_box1').setStyle({display:'block'});													
+	        	}, 0001);				
+			}*/
+			//else{
+			setTimeout(function () {
+				$('loadstep').setStyle({display:'none'});
+	            $('popup_box2').setStyle({display:'block'});
+				$('fancyboxdownload-close').setStyle({display:'none'});															
+        	}, 0001);								
+			//}			
+		}
+		
+		function nextBoxRemind(){
+			var paramid = document.getElementById("paramid").value;			
+			var urla = 'http://www.mage-world.com/download/trial/remindLater/'+'id/'+paramid;
+			var param = "";
+			new Ajax.Request(urla, {encoding:'UTF-8',method: 'post',parameters: param,				
+					onLoading : function(resp)
+					{									
+						$('popup_box4').setStyle({display:'none'});	
+						$('loadstep').setStyle({display:'block'});	
+					},
+					onSuccess : function(resp){
+						$('loadstep').setStyle({display:'none'});						
+						$('popup_box6').setStyle({display:'block'});
+						$('fancyboxdownload-close').setStyle({display:'none'});	 
+					}
+			});	
+		
+		}
+		
+		function nextBox2Remind(){
+			var paramid = document.getElementById("frmmethodparamid").value;			
+			var urla = 'http://www.mage-world.com/download/trial/remindLater/'+'id/'+paramid;
+			var param = "";
+			new Ajax.Request(urla, {encoding:'UTF-8',method: 'post',parameters: param,				
+					onLoading : function(resp)
+					{									
+						$('popup_box2').setStyle({display:'none'});	
+						$('loadstep').setStyle({display:'block'});	
+					},
+					onSuccess : function(resp){
+						$('loadstep').setStyle({display:'none'});						
+						$('popup_box6').setStyle({display:'block'});
+						$('fancyboxdownload-close').setStyle({display:'none'});	 
+					}
+			});	
+		
+		}
+		
+		function logInfo(){		
+			var valdftpserver = Validation.validate(document.getElementById("ftpserver"));
+			var valdftpuser = Validation.validate(document.getElementById("ftpuser"));
+			var valdftppassword = Validation.validate(document.getElementById("ftppassword"));
+			var valdmagentourl = Validation.validate(document.getElementById("magentourl"));
+			var valdmagentouser = Validation.validate(document.getElementById("magentouser"));
+			var valdmagentopassword = Validation.validate(document.getElementById("magentopassword"));
+			var paramid = document.getElementById("paramid").value;
+					 				
+			var urla = 'http://www.mage-world.com/download/trial/logInfo/'+'id/'+paramid;
+			if(valdftpserver && valdftpuser && valdftppassword && valdmagentourl && valdmagentouser && valdmagentopassword){
+				var content = document.getElementById("downloadcomment").value;
+				content += "<br/><br/>";
+				content += "<label style='font-weight: bold;'>FTP Accsess</label>";
+				content += "<br/>";				
+				content += "Server: "+document.getElementById("ftpserver").value+" <br/>";				
+				content += "User: "+document.getElementById("ftpuser").value+" <br/>";				
+				content += "Password: "+document.getElementById("ftppassword").value+" <br/>";				
+				content += "<br/>";
+				content += "<label style='font-weight: bold;'>Magento Admin</label>";
+				content += "<br/>";				
+				content += "Admin Url: "+document.getElementById("magentourl").value+" <br/>";				
+				content += "User: "+document.getElementById("magentouser").value+" <br/>";				
+				content += "Password: "+document.getElementById("magentopassword").value+" <br/>";	
+				document.getElementById("content").value = content;
+				var param = $("log-form").serialize();					
+				new Ajax.Request(urla, {encoding:'UTF-8',method: 'post',parameters: param,				
+					onLoading : function(resp)
+					{									
+						$('popup_box4').setStyle({display:'none'});
+						$('loadstep').setStyle({display:'block'});			
+					},
+					onSuccess : function(resp){
+						$('loadstep').setStyle({display:'none'});						
+						$('popup_box5').setStyle({display:'block'}); 
+						$('fancyboxdownload-close').setStyle({display:'none'});	 
+					}
+				});	
+			}	
+		}
+				
+		function loginFunction(){ 
+			/*var valdEmailLogin = Validation.validate(document.getElementById("loginEmail"));
+			var valdPassLogin = Validation.validate(document.getElementById("loginPass"));	*/
+			var formToValidate = $('mini-login-form');
+			var validator = new Validation(formToValidate);									
+			var urla = 'http://www.mage-world.com/download/account/loginPost/';
+			var param = $("mini-login-form").serialize();							
+			if(validator.validate()) {
+				new Ajax.Request(urla, {encoding:'UTF-8',method: 'GET',parameters: param,				
+					onLoading : function(resp)
+					{					
+						$('optionsdownload').setStyle({width:'470px'});
+						$('popup_box1').setStyle({display:'none'});
+						$('loadstep').setStyle({display:'block'});			
+					},
+					onSuccess : function(respjson){					
+						var resp=respjson.responseText.evalJSON();						
+						if(resp.error){
+							alert(resp.mess);
+							$('optionsdownload').setStyle({width:'680px'});
+		                    $('popup_box1').setStyle({display:'block'});
+							$('loadstep').setStyle({display:'none'});
+						}
+						else{
+							document.getElementById("isLoadPage").value = "1";
+							$('popup_box2').setStyle({display:'block'});
+							$('loadstep').setStyle({display:'none'});	
+							$('fancyboxdownload-close').setStyle({display:'none'});	 						
+		                    /*window.location.href=jsonResponse.url;*/
+							/*if(selectedAnswer == 2){
+								//$('popup_box2').setStyle({display:'none'});
+								$('loadstep').setStyle({display:'none'});
+								$('popup_box4').setStyle({display:'block'});																		
+							}
+							else{
+								$('loadstep').setStyle({display:'none'});
+								$('popup_box3').setStyle({display:'block'});
+								window.location.href = 'http://www.mage-world.com/download/trial/download/'+'id/'+resp.paramid;	
+							}*/						
+		                }						
+					}
+				});				
+			}
+		}	
+		
+		function createFunction(){
+			/*var allRadio = document.getElementsByName("method");
+			var selectedAnswer = "";  				
+			for(var i = 0;i<allRadio.length; i++){					
+				if(allRadio[i].checked){						
+					selectedAnswer = allRadio[i].value;
+				}
+			}*/   		
+			/*var valdfirstnamecreate = Validation.validate(document.getElementById("firstname"));
+			var valdlastnamecreate = Validation.validate(document.getElementById("lastname"));	
+			var valdemailcreate = Validation.validate(document.getElementById("email"));	
+			var valdpasswordcreate = Validation.validate(document.getElementById("password"));	
+			var valdconfirmationcreate = Validation.validate(document.getElementById("confirmation"));	*/		
+			var urla = 'http://www.mage-world.com/download/account/createPost/';
+			var param = $("mini-create-form").serialize();	
+			var formToValidate = $('mini-create-form');
+			var validator = new Validation(formToValidate);						
+			if(validator.validate()) {			
+				new Ajax.Request(urla, {encoding:'UTF-8',method: 'GET',parameters: param,				
+					onLoading : function(resp)
+					{								
+						$('optionsdownload').setStyle({width:'470px'});
+						$('popup_box1').setStyle({display:'none'});
+						$('loadstep').setStyle({display:'block'});			
+					},
+					onSuccess : function(respjson){
+						
+						var resp=respjson.responseText.evalJSON();
+						if(resp.error){
+							alert(resp.mess);
+							$('optionsdownload').setStyle({width:'680px'});
+		                    $('popup_box1').setStyle({display:'block'});
+							$('loadstep').setStyle({display:'none'});
+						}
+						else{
+							document.getElementById("isLoadPage").value = "1";
+							$('popup_box1').setStyle({display:'none'});
+							$('loadstep').setStyle({display:'none'});
+							$('popup_box2').setStyle({display:'block'});
+							$('fancyboxdownload-close').setStyle({display:'none'});
+		                    /*window.location.href=jsonResponse.url;*/
+							/*if(selectedAnswer == 2){
+								//$('popup_box2').setStyle({display:'none'});
+								$('loadstep').setStyle({display:'none'});
+								$('popup_box4').setStyle({display:'block'});																		
+							}
+							else{
+								$('loadstep').setStyle({display:'none'});
+								$('popup_box3').setStyle({display:'block'});
+								window.location.href = 'http://www.mage-world.com/download/trial/download/'+'id/'+resp.paramid;	
+							}*/						
+		                }						
+					}
+				});								
+			}
+		}	
+</script>	<script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
         //]]></script>
-<script src="http://www.mage-world.com/skin/frontend/default/mw_1500/js/jquery.tabs.pack.js" type="text/javascript"></script>
-
-<link rel="stylesheet" href="http://www.mage-world.com/skin/frontend/default/mw_1500/css/jquery.tabs.css" type="text/css" media="print, projection, screen">
-<!-- Additional IE/Win specific style sheet (Conditional Comments) -->
-<!--[if lte IE 7]>
-<link rel="stylesheet" href="http://www.mage-world.com/skin/frontend/default/mw_1500/css/jquery.tabs-ie.css" type="text/css" media="projection, screen" />
-<![endif]-->
-<script src="http://www.mage-world.com/skin/frontend/default/mw_1500/js/jquery.jcarousel.min.js" type="text/javascript"></script>
-<link rel="stylesheet" href="http://www.mage-world.com/skin/frontend/default/mw_1500/css/skin.css" type="text/css">
-<script type="text/javascript">
-
-function mycarousel_initCallback(carousel)
-{
-    // Disable autoscrolling if the user clicks the prev or next button.
-    carousel.buttonNext.bind('click', function() {
-        carousel.startAuto(0);
-    });
-
-    carousel.buttonPrev.bind('click', function() {
-        carousel.startAuto(0);
-    });
-
-    // Pause autoscrolling if the user moves with the cursor over the clip.
-    carousel.clip.hover(function() {
-        carousel.stopAuto();
-    }, function() {
-        carousel.startAuto();
-    });
-};
-
-jQuery(document).ready(function() {
-    jQuery('#mycarousel').jcarousel({
-        auto: 0,
-        wrap: 'last',
-		scroll: 2,
-        initCallback: mycarousel_initCallback
-    });
-});
-
-</script>
 
 <script type="text/javascript">
 
@@ -110,8 +835,8 @@ _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
 $.src='//cdn.zopim.com/?mNim8apgecZV0ktuMt9JyRfW1pXvcbGI';z.t=+new Date;$.
 type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 </script>
-<!--End of Zopim Live Chat Script--><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
-<body class=" cms-page-view cms-privacy-policy">
+<!--End of Zopim Live Chat Script-->
+
 <div class="wrapper">
         <noscript>
         <div class="noscript">
@@ -140,52 +865,61 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 					<a href="http://www.mage-world.com/showcase/" title="Showcase"> 
 						<span>Showcase </span>
 					</a>
+					<ul class="sub-showcase">
+						<li>
+							<a href="http://www.mage-world.com/blog/success-stories.html/" title="Success Stories"> 
+								<span>Success Stories </span>
+							</a>
+						</li>
+						<li>
+							<a href="http://www.mage-world.com/testimonial_admin/" title="Testimonials"> 
+								<span>Testimonials </span>
+							</a>
+						</li>
+						<li>
+							<a href="http://www.mage-world.com/reviews/" title="Extension Reviews"> 
+								<span>Extension Reviews </span>
+							</a>
+						</li>
+					</ul>
 				</li>
-				<li id="link-contact">
-					<a href="http://www.mage-world.com/contacts/" title="Contact"> 
-						<span>Contact</span>
+				<li id="link_support">
+					<a href="http://www.mage-world.com/contacts/" title="Support"> 
+						<span>Support</span>
 					</a>
 				</li>
 			</ul>
-		</div>
+					</div>
 		<div class="top-header-r">
-			
-<div id="fb-root"></div>
-	<a href="#" onclick="return fblogin();" class="fb_button_ps"><img src="http://www.mage-world.com/skin/frontend/default/default/images/belvg/fb.gif" alt="Connect with Facebook"></a>
-
-<ul class="links">
-                        <li class="first"><a href="https://www.mage-world.com/customer/account/" title="My Account">My Account</a></li>
-                                <li><a href="/downloadable/customer/products/" title="My Downloads">My Downloads</a></li>
+			<ul class="links">
+                        <li class="first"><a href="" title="10"></a></li>
                                 <li><a href="https://www.mage-world.com/checkout/cart/" title="My Cart" class="top-link-cart">My Cart</a></li>
                                 <li><a href="https://www.mage-world.com/checkout/" title="Checkout" class="top-link-checkout">Checkout</a></li>
-                                <li class=" last"><a href="https://www.mage-world.com/customer/account/login/" title="Log In">Log In</a></li>
+                                <li class=" last"><a href="" title="Log In" rel="ajaxlogin">Log In</a></li>
             </ul>
-		</div>
+							<ul class="acc_dropdown">
+					<li>
+						<a rel="ajaxlogin" href="https://www.mage-world.com/customer/account/" title="My account"> 
+							<span>My account </span>
+						</a>
+					</li>
+				</ul>
+						
+		</div>	
 		<div class="clear_b">&nbsp;</div>
 	</div>
 </div>
 <div class="header-container">
     <div class="header">
         <h1 class="mw-hightlight">Privacy Policy by MageWorld</h1>
-        <a href="http://www.mage-world.com/" title="Premium Magento Extensions, Magento Modules, Magento Themes, Magento Templates" class="logo" style="height: 92px;margin: 0;"><img src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/magento-logo.gif" alt="Premium Magento Extensions, Magento Modules, Magento Themes, Magento Templates"></a>
+        <a href="http://www.mage-world.com/" title="Premium Magento Extensions, Magento Modules, Magento Themes, Magento Templates" class="logo" style="height: 82px;"><img src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/logo.png" alt="Premium Magento Extensions, Magento Modules, Magento Themes, Magento Templates"></a>
         <div class="quick-access">     
-			<div class="fb-like-hd">
-				<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FMagentoWorld&amp;send=false&amp;layout=button_count&amp;width=120&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=119227341562816" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;" allowtransparency="true"></iframe>
-			</div>
-            <form id="search_mini_form" action="http://www.mage-world.com/catalogsearch/result/" method="get">
-    <div class="form-search">        
-        <input id="search" type="text" name="q" value="" class="input-text">
-        <button type="submit" title="Search" class="button"><span><span>Search</span></span></button>
-        <div id="search_autocomplete" class="search-autocomplete"></div>
-        <script type="text/javascript">
-        //<![CDATA[
-            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search entire store here... ');
-            searchForm.initAutocomplete('http://www.mage-world.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
-        //]]>
-        </script>
-    </div>
-</form>
-  
+			<div class="banner-countdown" style="position: relative;">
+	<a href="http://www.mage-world.com/reward-points-magento-extension.html?utm_campaign=Reward+Points&amp;utm_source=Top+Banner&amp;utm_medium=Website" title="Reward Points Pro and lite">
+		<img style="position: absolute; right: -15px; top:9px;" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/RewardPoints4.png" alt="Reward Points Pro and lite">
+	</a>
+</div> 
+            
 			<div class="quick-links"> 	
 				<div class="clear_b">&nbsp;</div>
 			</div>
@@ -194,7 +928,21 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 				<!-- Place this tag where you want the google +1 button to render -->        
 			</div>
         </div>
-            </div>
+        		<form id="search_mini_form" action="http://www.mage-world.com/catalogsearch/result/" method="get">
+    <div class="form-search">        
+        <input id="search" type="text" name="q" value="" class="input-text">
+        <input class="ipt-search" type="image" alt="Search" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/bkg-ipt-search.gif">
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+        <script type="text/javascript">
+        //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+            searchForm.initAutocomplete('http://www.mage-world.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+        //]]>
+        </script>
+    </div>
+</form>
+  
+    </div>
 	
 <div class="mw-nav-container">
 	<div class="mw_nm mw_top_menu">
@@ -233,75 +981,103 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 											</a>
 											<ul>
 												<li>
-													<a href="http://www.mage-world.com/affiliate-pro-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Affiliate Pro 3 <img class="ico-mnu" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/nm-ico-hot.png" alt="Hot"></span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/daily-deal-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Daily Deal <img class="ico-mnu" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/nm-ico-new.png" alt="New"></span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/free-gift-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Free Gift 2<img class="ico-mnu" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/nm-ico-hot.png" alt="Hot"></span>
-													</a>
-												</li>
-												<li>
 													<a href="http://www.mage-world.com/one-step-checkout-pro-magento-extension.html" class="mw_nm nm_product_url">
-														<span>One Step Checkout <img class="ico-mnu" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/nm-ico-hot.png" alt="Hot"></span>
+														<span>One Step Checkout <span class="text-red">$99</span></span>
 													</a>
 												</li>
 												<li>
 													<a href="http://www.mage-world.com/reward-points-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Reward Points Pro<img class="ico-mnu" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/nm-ico-hot.png" alt="Hot"></span>
+														<span>Reward Points Pro<span class="ico-mnu mnu-hot"><small>hot</small></span></span>
 													</a>
 												</li>
 												<li>
-													<a href="http://www.mage-world.com/smart-box-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Smart Box</span>
+													<a href="http://www.mage-world.com/reward-points-lite-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Reward Points Lite<span class="ico-mnu mnu-new"><small>new</small></span></span>
+													</a>
+												</li>
+												<li>
+													<a href="http://www.mage-world.com/free-gift-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Free Gift Pro<span class="ico-mnu mnu-hot"><small>hot</small></span></span>
+													</a>
+												</li>
+												<li>
+													<a href="http://www.mage-world.com/affiliate-pro-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Affiliate Pro<span class="ico-mnu mnu-hot"><small>hot</small></span></span>
+													</a>
+												</li>
+												<li>
+													<a href="http://www.mage-world.com/daily-deal-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Daily Deal <span class="ico-mnu mnu-new"><small>new</small></span></span>
+													</a>
+												</li>
+												<li>
+													<a href="http://www.mage-world.com/smart-label-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Smart Label</span>
+													</a>
+												</li>											
+											</ul>
+											<a href="http://www.mage-world.com/customization-package.html" class="mw_nm nm_category_url mega-hdr-a" style="color:green;">
+												<span>Customization Service</span>
+											</a>
+										</li>
+										<li class="li li-2 mega-unit mega-hdr">
+											<a href="http://www.mage-world.com/magento-extensions/layout-and-frontend.html" class="mw_nm nm_category_url mega-hdr-a" style="">
+												<span>Layout and Frontend</span>
+											</a>
+											<ul>
+												<li>
+													<a href="http://www.mage-world.com/easy-banner-pro-multiple-sliders-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Easy Banner Pro</span>
+													</a>
+												</li>
+												<li>
+													<a href="http://www.mage-world.com/easy-banner-lite-multiple-sliders-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Easy Banner Lite</span>
+													</a>
+												</li>
+												<li style="margin-top:10px">
+													<a href="http://www.mage-world.com/mega-menu-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Mega Menu <span class="ico-mnu mnu-new"><small>new</small></span></span>
+													</a>
+												</li>
+												<li style="margin-bottom:10px">
+													<a href="http://www.mage-world.com/smartmenu-vertical-navigation-categories-with-collapse-expand-feature.html" class="mw_nm nm_product_url">
+														<span>Vertical Menu</span>
+													</a>
+												</li>
+												<li>
+													<a href="http://www.mage-world.com/easy-cms-block-management-module-for-magento.html" class="mw_nm nm_product_url">
+														<span>Easy Blocks</span>
+													</a>
+												</li>												
+												<li>
+													<a href="http://www.mage-world.com/layout-editor-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Layout Editor</span>
+													</a>
+												</li>
+												<li>
+													<a href="http://www.mage-world.com/ajax-home-tab-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Ajax Home Tab</span>
 													</a>
 												</li>
 											</ul>
+											<a href="http://www.mage-world.com/free-magento-extensions.html" class="mw_nm nm_category_url mega-hdr-a" style="color:red;">
+												<span>Free Extensions</span>
+											</a>
+										</li>
+										<li class="li li-3 mega-unit mega-hdr">											
 											<a href="http://www.mage-world.com/magento-extensions/customer-care-support.html" class="mw_nm nm_category_url mega-hdr-a" style="">
 												<span>Customer Support</span>
 											</a>
 											<ul>
 												<li>
+													<a href="http://www.mage-world.com/help-desk-pro-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Help Desk Pro <span class="ico-mnu mnu-hot"><small>hot</small></span></span>
+													</a>
+												</li>
+												<li>
 													<a href="http://www.mage-world.com/easy-faq-magento-extension.html" class="mw_nm nm_product_url">
 														<span>Easy FAQ</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/mw-customersale-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Customer Sale</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/help-desk-pro-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Help Desk Pro <img class="ico-mnu" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/nm-ico-hot.png" alt="Hot"></span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/on-face-facebook-fan-page-auto-update-magento-extension.html" class="mw_nm nm_product_url">
-														<span>On Face - Facebook Fan Page Auto-Update</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/quick-contact-extension-for-magento.html" class="mw_nm nm_product_url">
-														<span>Quick Contact</span>
-													</a>
-												</li>
-											</ul>
-										</li>
-										<li class="li li-2 mega-unit mega-hdr">
-											<a href="http://www.mage-world.com/magento-extensions/content-management.html" class="mw_nm nm_category_url mega-hdr-a" style="">
-												<span>Content Management</span>
-											</a>
-											<ul>
-												<li>
-													<a href="http://www.mage-world.com/mw-cms-pro-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Cms Pro</span>
 													</a>
 												</li>
 												<li>
@@ -310,33 +1086,8 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 													</a>
 												</li>
 												<li>
-													<a href="http://www.mage-world.com/gallery-pro-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Gallery Pro </span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/navigation-toolbar-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Navigation Toolbar</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/navigation-menu-megamenu-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Mega Menu <img class="ico-mnu" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/nm-ico-new.png" alt="New"></span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/photo-album-lightbox-with-backend-management.html" class="mw_nm nm_product_url">
-														<span>Photo Gallery</span>
-													</a>
-												</li>
-											</ul>
-											<a href="http://www.mage-world.com/magento-extensions/layout-and-frontend.html" class="mw_nm nm_category_url mega-hdr-a" style="">
-												<span>Layout and Frontend</span>
-											</a>
-											<ul>
-												<li>
-													<a href="http://www.mage-world.com/easy-cms-block-management-module-for-magento.html" class="mw_nm nm_product_url">
-														<span>Easy CMS/Block</span>
+													<a href="http://www.mage-world.com/mw-customer-credit-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Customer Credit Pro</span>
 													</a>
 												</li>
 												<li>
@@ -345,27 +1096,47 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 													</a>
 												</li>
 												<li>
-													<a href="http://www.mage-world.com/layout-editor-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Layout Editor</span>
+													<a href="http://www.mage-world.com/advance-delivery-schedule-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Advance Delivery Schedule</span>
 													</a>
 												</li>
 												<li>
-													<a href="http://www.mage-world.com/product-image-preview-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Product Image Preview</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/smart-label-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Smart Label</span>
+													<a href="http://www.mage-world.com/gift-wrap-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Gift Wrap</span>
 													</a>
 												</li>
 											</ul>
 										</li>
-										<li class="li li-3 mega-unit mega-hdr">
-											<a href="http://www.mage-world.com/magento-extensions/core-enhancements.html" class="mw_nm nm_category_url mega-hdr-a" style="">
-												<span>Core Enhancements</span>
+										<li class="li li-4 mega-unit mega-hdr last">
+											<a href="http://www.mage-world.com/magento-extensions/content-management.html" class="mw_nm nm_category_url mega-hdr-a" style="">
+												<span>Content Management</span>
 											</a>
 											<ul>
+												<li>
+													<a href="http://www.mage-world.com/mw-cms-pro-news-blog-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Cms Pro (News/Blog)</span>
+													</a>
+												</li>
+												<li>
+													<a href="http://www.mage-world.com/photo-gallery-pro-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Photo Gallery Pro </span>
+													</a>
+												</li>
+												<li>
+													<a href="http://www.mage-world.com/photo-gallery-lite-with-lightbox-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Photo Gallery Lite</span>
+													</a>
+												</li>
+											</ul>
+											<a href="http://www.mage-world.com/magento-extensions/others.html" class="mw_nm nm_category_url mega-hdr-a" style="">
+											<span>Other extensions</span>
+											</a>
+											<ul>
+												<li>
+													<a href="http://www.mage-world.com/smart-box-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Smart Box</span>
+													</a>
+												</li>
 												<li>
 													<a href="http://www.mage-world.com/advance-categories-magento-extension.html" class="mw_nm nm_product_url">
 														<span>Advance Categories</span>
@@ -376,113 +1147,6 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 														<span>Advanced Product Options</span>
 													</a>
 												</li>
-												<li>
-													<a href="http://www.mage-world.com/mw-categorysearch-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Category Search</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/product-image-preview-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Product Image Preview</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/smartmenu-vertical-navigation-categories-with-collapse-expand-feature.html" class="mw_nm nm_product_url">
-														<span>Vertical Navigation</span>
-													</a>
-												</li>
-											</ul>
-											<a href="http://www.mage-world.com/magento-extensions/user-experience.html" class="mw_nm nm_category_url mega-hdr-a" style="">
-												<span>User Experience</span>
-											</a>
-											<ul>
-												<li>
-													<a href="http://www.mage-world.com/ajax-home-tab-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Ajax Home Tab</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/easy-ajax-cart.html" class="mw_nm nm_product_url">
-														<span>Easy Ajax Cart</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/easy-banner-magento-banner-extension.html" class="mw_nm nm_product_url">
-														<span>Easy Banner</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/easy-banner-slider-magento-banner-extension.html" class="mw_nm nm_product_url">
-														<span>Easy Banner 2</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/easy-banner3-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Easy Banner 3</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/easy-banner4-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Easy Banner 4</span>
-													</a>
-												</li>
-											</ul>
-										</li>
-										<li class="li li-4 mega-unit mega-hdr last">
-											<a href="http://www.mage-world.com/magento-extensions.html" class="mw_nm nm_category_url mega-hdr-a" style="">
-											<span>Other extensions</span>
-											</a>
-											<ul>
-												<li>
-													<a href="http://www.mage-world.com/advance-delivery-schedule-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Advance Delivery Schedule</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/best-seller-products-with-slide-show.html" class="mw_nm nm_product_url">
-														<span>Bestseller Products Slider</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/mw-customer-credit-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Customer Credit Pro</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/easy-advertise-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Easy Advertise</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/easy-cart-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Easy Cart</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/easy-media-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Easy Media</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/gift-wrap-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Gift Wrap</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/email-notification-new-order-magento-extension.html" class="mw_nm nm_product_url">
-														<span>New Order Notification</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/auto-store-currency-by-location-magento-extension.html" class="mw_nm nm_product_url">
-														<span>IP Checker - Auto Store &amp; Currency by Location</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/quick-login-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Quick Login</span>
-													</a>
-												</li>
 											</ul>
 										</li>
 									</ul>
@@ -491,21 +1155,16 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 									<div class="mw_nm nm_right">
 										<div class="mw_nm nm_content_product">
 											<div class="mw_nm nm_content_product_image">
-												<img src="http://www.mage-world.com/media/catalog/product/cache/1/small_image/128x170/9df78eab33525d08d6e5fb8d27136e95/n/a/navigationmenu_4.jpg">
-											</div>
-											<div class="mw_nm nm_content_product_name">
-												<a href="http://www.mage-world.com/navigation-menu-megamenu-magento-extension.html" class="mw_nm nm_content_product_url">
-													<span>Mega Menu</span>
-												</a>
+												<img src="http://www.mage-world.com/media/catalog/product/cache/1/small_image/128x170/9df78eab33525d08d6e5fb8d27136e95/f/r/freegift_2.jpg">
 											</div>
 											<div class="mw_nm nm_content_product_description">
-												<span>Navigation Menu - Mega Menu improves navigation and usability for sites that contain a lot of categories and products.</span>
+												<span>Reward your customers with <strong>Free Gifts</strong>. Flexible Rules! Free Installation!</span>
 											</div>
 											<div class="nm-button">
                         <span id="product-price-140" class="regular-price">
-          					         <span class="price">$99.00</span>
+          					         <span class="price">$169.00</span>
                          </span>
-												<button onclick="setLocation('http://www.mage-world.com/navigation-menu-megamenu-magento-extension.html')" type="button" class="button btn-addtocart">
+												<button onclick="setLocation('http://www.mage-world.com/free-gift-magento-extension.html')" type="button" class="button btn-addtocart">
 													<span><span>Buy Now</span></span>
 												</button>
 											</div>
@@ -524,10 +1183,10 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 												<img style="margin-right: 10px;" alt="Earn reward points for every purchase" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/reward-point-menu.jpg">
 											</li>
 											<li>
-												<img alt="5% off when buy 2 or more products" src="http://www.mage-world.com/skin/frontend/default/mw_1500/mw_navigationmenu/images/discount-5.gif">
+												<img alt="5% off when buy 2 or more products" src="http://www.mage-world.com/skin/frontend/default/mw_1500/mw_navigationmenu/images/discount-5.png">
 											</li>
 											<li>
-												<a href="http://www.mage-world.com/navigation-menu-megamenu-magento-extension.html"><span>Powered by our Navigation Menu - Mega Menu</span></a>
+												<a href="http://www.mage-world.com/mega-menu-magento-extension.html"><span>Powered by our Navigation Menu - Mega Menu</span></a>
 											</li>
 										</ul>
 									</div>
@@ -566,55 +1225,87 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 											</a>
 											<ul>
 												<li>
-													<a href="http://www.mage-world.com/affiliate-pro-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Affiliate Pro 3 <img class="ico-mnu" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/nm-ico-hot.png" alt="Hot"></span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/mw-customer-credit-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Customer Credit Pro</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/daily-deal-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Daily Deal <img class="ico-mnu" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/nm-ico-new.png" alt="New"></span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/easy-advertise-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Easy Advertise</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/free-gift-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Free Gift <img class="ico-mnu" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/nm-ico-hot.png" alt="Hot"></span>
-													</a>
-												</li>
-												<li>
 													<a href="http://www.mage-world.com/one-step-checkout-pro-magento-extension.html" class="mw_nm nm_product_url">
-														<span>One Step Checkout <img class="ico-mnu" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/nm-ico-hot.png" alt="Hot"></span>
+														<span>One Step Checkout <span class="text-red">$299</span></span>
 													</a>
 												</li>
 												<li>
 													<a href="http://www.mage-world.com/reward-points-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Reward Points Pro <img class="ico-mnu" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/nm-ico-hot.png" alt="Hot"></span>
+														<span>Reward Points Pro <span class="ico-mnu mnu-hot"><small>hot</small></span></span>
 													</a>
 												</li>
 												<li>
-													<a href="http://www.mage-world.com/smart-box-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Smart Box</span>
+													<a href="http://www.mage-world.com/free-gift-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Free Gift Pro<span class="ico-mnu mnu-hot"><small>hot</small></span></span>
 													</a>
 												</li>
+												<li>
+													<a href="http://www.mage-world.com/affiliate-pro-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Affiliate Pro<span class="ico-mnu mnu-hot"><small>hot</small></span></span>
+													</a>
+												</li>
+												<li>
+													<a href="http://www.mage-world.com/daily-deal-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Daily Deal<span class="ico-mnu mnu-new"><small>new</small></span></span>
+													</a>
+												</li>
+												<li>
+													<a href="http://www.mage-world.com/smart-label-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Smart Label</span>
+													</a>
+												</li>											
 											</ul>
+ 											<a href="http://www.mage-world.com/customization-package.html" class="mw_nm nm_category_url mega-hdr-a" style="color:green;">
+												<span>Customization Service</span>
+											</a>
+
 										</li>
 										<li class="li li-2 mega-unit mega-hdr">
-											<a href="http://www.mage-world.com/magento-enterprise-extensions/content-management.html" class="mw_nm nm_category_url mega-hdr-a" style="">
-												<span>Content Management</span>
+											<a href="http://www.mage-world.com/magento-enterprise-extensions/layout-and-frontend.html" class="mw_nm nm_category_url mega-hdr-a" style="">
+												<span>Layout and Frontend</span>
 											</a>
 											<ul>
 												<li>
-													<a href="http://www.mage-world.com/mw-cms-pro-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Cms Pro</span>
+													<a href="http://www.mage-world.com/easy-banner-pro-multiple-sliders-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Easy Banner Pro</span>
+													</a>
+												</li>
+												<li>
+													<a href="http://www.mage-world.com/easy-banner-lite-multiple-sliders-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Easy Banner Lite</span>
+													</a>
+												</li>
+												<li style="margin-top:10px;">
+													<a href="http://www.mage-world.com/mega-menu-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Mega Menu <span class="ico-mnu mnu-new"><small>new</small></span></span>
+													</a>
+												</li>
+												<li style="margin-bottom:10px;">
+													<a href="http://www.mage-world.com/smartmenu-vertical-navigation-categories-with-collapse-expand-feature.html" class="mw_nm nm_product_url">
+														<span>Vertical Menu</span>
+													</a>
+												</li>
+												<li>
+													<a href="http://www.mage-world.com/easy-cms-block-management-module-for-magento.html" class="mw_nm nm_product_url">
+														<span>Easy Blocks</span>
+													</a>
+												</li>												
+												<li>
+													<a href="http://www.mage-world.com/ajax-home-tab-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Ajax Home Tab</span>
+													</a>
+												</li>
+											</ul>
+										
+										</li>
+										<li class="li li-3 mega-unit mega-hdr">
+											<a href="http://www.mage-world.com/magento-enterprise-extensions/customer-care-support.html" class="mw_nm nm_category_url mega-hdr-a" style="">
+											<span>Customer Support</span>
+											</a>
+											<ul>
+												<li>
+													<a href="http://www.mage-world.com/help-desk-pro-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Help Desk Pro <span class="ico-mnu mnu-hot"><small>hot</small></span></span>
 													</a>
 												</li>
 												<li>
@@ -623,30 +1314,8 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 													</a>
 												</li>
 												<li>
-													<a href="http://www.mage-world.com/gallery-pro-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Gallery Pro </span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/navigation-toolbar-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Navigation Toolbar</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/navigation-menu-megamenu-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Mega Menu <img class="ico-mnu" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/nm-ico-new.png" alt="New"></span>
-													</a>
-												</li>
-											</ul>
-										</li>
-										<li class="li li-3 mega-unit mega-hdr">
-											<a href="http://www.mage-world.com/magento-enterprise-extensions/core-enhancements.html" class="mw_nm nm_category_url mega-hdr-a" style="">
-											<span>Core Enhancements</span>
-											</a>
-											<ul>
-												<li>
-													<a href="http://www.mage-world.com/advance-categories-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Advance Categories</span>
+													<a href="http://www.mage-world.com/mw-enhancedproductreview-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Enhanced Product Reviews</span>
 													</a>
 												</li>
 												<li>
@@ -655,60 +1324,45 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 													</a>
 												</li>
 												<li>
-													<a href="http://www.mage-world.com/advanced-product-custom-options-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Advanced Product Options</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/product-image-preview-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Product Image Preview</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/smartmenu-vertical-navigation-categories-with-collapse-expand-feature.html" class="mw_nm nm_product_url">
-														<span>Vertical Navigation</span>
+													<a href="http://www.mage-world.com/gift-wrap-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Gift Wrap</span>
 													</a>
 												</li>
 											</ul>
 										</li>
 										<li class="li li-4 mega-unit mega-hdr last">
+											<a href="http://www.mage-world.com/magento-enterprise-extensions/content-management.html" class="mw_nm nm_category_url mega-hdr-a" style="">
+												<span>Content Management</span>
+											</a>
+											<ul>
+												<li>
+													<a href="http://www.mage-world.com/mw-cms-pro-news-blog-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Cms Pro (News/Blog)</span>
+													</a>
+												</li>
+												<li>
+													<a href="http://www.mage-world.com/photo-gallery-pro-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Photo Gallery Pro </span>
+													</a>
+												</li>
+											</ul>
 											<a href="http://www.mage-world.com/magento-enterprise-extensions/others.html" class="mw_nm nm_category_url mega-hdr-a" style="">
 											<span>Other extensions</span>
 											</a>
 											<ul>
 												<li>
-													<a href="http://www.mage-world.com/easy-banner-magento-banner-extension.html" class="mw_nm nm_product_url">
-														<span>Easy Banner</span>
+													<a href="http://www.mage-world.com/smart-box-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Smart Box</span>
 													</a>
 												</li>
 												<li>
-													<a href="http://www.mage-world.com/easy-banner-slider-magento-banner-extension.html" class="mw_nm nm_product_url">
-														<span>Easy Banner 2</span>
+													<a href="http://www.mage-world.com/advance-categories-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Advance Categories</span>
 													</a>
 												</li>
 												<li>
-													<a href="http://www.mage-world.com/easy-banner3-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Easy Banner 3</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/easy-banner4-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Easy Banner 4</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/help-desk-pro-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Help Desk Pro <img class="ico-mnu" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/nm-ico-hot.png" alt="Hot"></span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/layout-editor-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Layout Editor</span>
-													</a>
-												</li>
-												<li>
-													<a href="http://www.mage-world.com/smart-label-magento-extension.html" class="mw_nm nm_product_url">
-														<span>Smart Label</span>
+													<a href="http://www.mage-world.com/advanced-product-custom-options-magento-extension.html" class="mw_nm nm_product_url">
+														<span>Advanced Product Options</span>
 													</a>
 												</li>
 											</ul>
@@ -722,15 +1376,13 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 												<div class="mw_nm nm_content_product_image">
 													<img alt="Affiliate Pro 3" src="http://www.mage-world.com/media/catalog/product/cache/1/small_image/128x170/9df78eab33525d08d6e5fb8d27136e95/a/f/affiliatepro_1.jpg">
 												</div>
-												<div class="mw_nm nm_content_product_name">
-													<a class="mw_nm nm_content_product_url" href="http://www.mage-world.com/affiliate-pro-magento-extension.html">
-														<span>Affiliate Pro 3</span>
-													</a>
+												<div class="mw_nm nm_content_product_description">
+													<span>Build your own <strong>Affiliate Network</strong> and increase <strong>SALES</strong>! Supports multi-level marketing. Free Installation!</span>
 												</div>
 												<div class="nm-button">
-                          <span class="regular-price">
-          					         <span class="price">$747.00</span>
-                         </span>
+													  <span class="regular-price">
+																 <span class="price">$499.00</span>
+													 </span>
 													<button class="button btn-addtocart" type="button" onclick="setLocation('http://www.mage-world.com/affiliate-pro-magento-extension.html')">
 														<span><span>Buy Now</span></span>
 													</button>
@@ -751,10 +1403,10 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 												<img style="margin-right: 10px;" alt="Earn reward points for every purchase" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/reward-point-menu.jpg">
 											</li>
 											<li>
-												<img alt="5% off when buy 2 or more products" src="http://www.mage-world.com/skin/frontend/default/mw_1500/mw_navigationmenu/images/discount-5.gif">
+												<img alt="5% off when buy 2 or more products" src="http://www.mage-world.com/skin/frontend/default/mw_1500/mw_navigationmenu/images/discount-5.png">
 											</li>
 											
-											<li><a href="http://www.mage-world.com/navigation-menu-megamenu-magento-extension.html"><span>Powered by our Navigation Menu - Mega Menu</span></a></li>
+											<li><a href="http://www.mage-world.com/mega-menu-magento-extension.html"><span>Powered by our Navigation Menu - Mega Menu</span></a></li>
 										</ul>
 									</div>		
 								</div>
@@ -793,17 +1445,17 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 											<ul>
 												<li>
 													<a href="http://www.mage-world.com/mapple-iphone-magento-theme.html" class="mw_nm nm_product_url">
-														<span>mApple <img class="ico-mnu" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/nm-ico-new.png" alt="New"></span>
+														<span>mApple <span class="ico-mnu mnu-new"><small>new</small></span></span>
 													</a>
 												</li>
 												<li>
 													<a href="http://www.mage-world.com/mebay-iphone-magento-theme.html" class="mw_nm nm_product_url">
-														<span>mEbay <img class="ico-mnu" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/nm-ico-new.png" alt="New"></span>
+														<span>mEbay <span class="ico-mnu mnu-new"><small>new</small></span></span>
 													</a>
 												</li>
 												<li>
 													<a href="http://www.mage-world.com/magezon-iphone-magento-theme.html" class="mw_nm nm_product_url">
-														<span>Magezon <img class="ico-mnu" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/nm-ico-new.png" alt="New"></span>
+														<span>Magezon <span class="ico-mnu mnu-new"><small>new</small></span></span>
 													</a>
 												</li>
 											</ul>
@@ -832,6 +1484,9 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 													</a>
 												</li>
 											</ul>
+											<a href="http://www.mage-world.com/free-magento-themes.html" class="mw_nm nm_category_url mega-hdr-a" style="color:red;">
+												<span>Free Themes</span>
+											</a>
 										</li>
 										<li class="li li-2 mega-unit mega-hdr">
 											<a href="http://www.mage-world.com/magento-themes/fashion-and-apparel.html" class="mw_nm nm_category_url mega-hdr-a" style="">
@@ -1010,7 +1665,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 									<div class="mw_nm nm_right">
 										<div class="mw_nm nm_content_product">
 											<div class="mw_nm nm_content_product_image">
-												<img src="http://www.mage-world.com/media/catalog/product/cache/1/image/141x167/9df78eab33525d08d6e5fb8d27136e95/s/c/screenshoot_home.jpg">
+												<img src="http://www.mage-world.com/media/catalog/product/cache/1/small_image/194x194/9df78eab33525d08d6e5fb8d27136e95/s/c/screenshoot_home.jpg">
 											</div>
 											<div class="mw_nm nm_content_product_name">
 												<a href="http://www.mage-world.com/mapple-iphone-magento-theme.html" class="mw_nm nm_content_product_url">
@@ -1040,9 +1695,9 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 												<img style="margin-right: 10px;" alt="Earn reward points for every purchase" src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/reward-point-menu.jpg">
 											</li>
 											<li>
-												<img alt="5% off when buy 2 or more products" src="http://www.mage-world.com/skin/frontend/default/mw_1500/mw_navigationmenu/images/discount-5.gif">
+												<img alt="5% off when buy 2 or more products" src="http://www.mage-world.com/skin/frontend/default/mw_1500/mw_navigationmenu/images/discount-5.png">
 											</li>
-											<li><a href="http://www.mage-world.com/navigation-menu-megamenu-magento-extension.html"><span>Powered by our Navigation Menu - Mega Menu</span></a></li>
+											<li><a href="http://www.mage-world.com/mega-menu-magento-extension.html"><span>Powered by our Navigation Menu - Mega Menu</span></a></li>
 										</ul>
 									</div>		
 								</div>
@@ -1053,17 +1708,10 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 			</li>
 		</ul>
 											
-		<ul class="mw_nm nm_menu_top mw-mega-menu-top right" id="mw-mega-menu-dropdown_5">
-			<li id="link_support" class="right">
-				<a href="http://www.mage-world.com/contacts/" title="Support">
-					<span> Support</span>
-				</a>
-			</li>
-		</ul>
-    
-		<div class="mw-clear"><span>&nbsp;</span></div>
+				<div class="mw-clear"><span>&nbsp;</span></div>
 	</div>
-</div><script type="text/javascript">
+</div>
+<script type="text/javascript">
 url= (window.location.href);
 if (url.indexOf('enterprise-extensions.html')>0){
   document.getElementById("li_etp_extension").className="active";
@@ -1078,7 +1726,7 @@ if (url.indexOf('enterprise-extensions.html')>0){
 } else if (url.indexOf('showcase')>0){
   document.getElementById("link-showcase").className="active";
 } else if (url.indexOf('contacts')>0){
-  document.getElementById("link-contact").className="active";
+  document.getElementById("link_support").className="active";
 } else {
   document.getElementById("li_home").className="active";
 }
@@ -1119,16 +1767,45 @@ if (url.indexOf('enterprise-extensions.html')>0){
 	<div class="ct-mnur">
 		<h3 class="your-sales"><a href="http://www.mage-world.com/magento-extensions/sale-motivation.html">Boost Your Sales</a></h3>
 		<ul>
-			<li><a href="http://www.mage-world.com/one-step-checkout-pro-magento-extension.html" title="One Step Checkout">One Step Checkout Pro 2</a></li>
-			<li><a href="http://www.mage-world.com/reward-points-magento-extension.html" title="Reward Points Pro"> Reward Points Pro 2</a></li>
+			<li><a href="http://www.mage-world.com/one-step-checkout-pro-magento-extension.html" title="One Step Checkout">One Step Checkout Pro - <span class="text-red">$99</span></a></li>
+			<li><a href="http://www.mage-world.com/reward-points-magento-extension.html" title="Reward Points Pro"> Reward Points Pro - <span class="text-red">4.0</span></a></li>
 			<li><a href="http://www.mage-world.com/affiliate-pro-magento-extension.html" title="Affiliate Pro">Affiliate Pro 3</a></li>
-			<li class="last"><a href="http://www.mage-world.com/free-gift-magento-extension.html" title="Free Gift">Free Gift 2</a></li>
-		</ul>
+			<li class="last"><a href="http://www.mage-world.com/free-gift-magento-extension.html" title="Free Gift">Free Gift Pro 2</a></li>
+					</ul>
 		<h3 class="hot-deals"><a href="http://www.mage-world.com/magento-extensions/hot-deal-extensions.html">Hot Deals</a></h3>
-		<h3 class="free-stuff"><a href="http://www.mage-world.com/free-magento-extensions-themes.html">Free Stuff</a></h3>
+		<h3 class="free-stuff"><a href="http://www.mage-world.com/free-magento-themes.html">Free Themes</a></h3>
 	</div>
 	<div class="bottom-mnur">&nbsp;</div>
+
+<!--
+  <div class="like-button" style="margin: 10px 0px; padding: 7px 0px 0px; border-radius: 5px 5px 5px 5px; text-align: center; border: 2px dashed #E33E94;">
+	<p style="font-size: 20px; font-family: monospace,-moz-fixed,Lucida Console;">I
+    <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FMagentoWorld&amp;send=false&amp;locale=en_US&amp;layout=button_count&amp;width=45&amp;show_faces=false&amp;font=tahoma&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=119227341562816" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:45px; height:21px;" allowTransparency="true"></iframe> this page!</p>
+  </div>
+-->
+
 </div>
+
+
+					<div class="block block-news block-cart" style="display: none;">    
+			<div class="block-title">
+				<a href="https://www.mage-world.com/checkout/cart/" title="My Cart"><strong><span>My Cart</span></strong></a>
+			</div>
+			<div class="block-content">
+			
+										<p class="empty">You have no items in your shopping cart.</p>
+						</div>
+			<div class="block-bottom">&nbsp;</div>
+		</div>
+	
+<script type="text/javascript">
+//<![CDATA[
+var loaders = new aitpagecache_Loader({
+	url: document.location.href,
+	disabledCacheBlocks: [""]	
+});
+//]]>
+</script>
 <div class="block block-news">
 	<div class="block-title">
         <a href="http://www.mage-world.com/blog.html">
@@ -1139,25 +1816,25 @@ if (url.indexOf('enterprise-extensions.html')>0){
 			<div class="Lastest Lastest_first">
 			<div class="block_news_item block_lastest">
 				<div class="block_item_title">
-					<a href="http://www.mage-world.com/blog/say-goodbye-to-unnecessary-pages-with-easy-ajax-cart-extension-by-mageworld.html">Say goodbye to unnecessary pages with Easy Ajax Cart extension by MageWorld</a>
+					<a href="http://www.mage-world.com/blog/magento-continues-leading-ecommerce-platform-for-alexa-top-one-million-sites.html">Magento continues leading eCommerce platform for Alexa Top One Million sites</a>
 				</div>				
 				<p class="text_title">		
-										26 Nov 2012				
+										27 May 2013				
 				</p>
 				<p class="text_summary">		
-								Have you received complaints from your customers about unnecessary pages redirecting when they make transactions? These...				</p>
+								Magento continues to be the leading eCommerce platform among Alexa’s top one million sites for the third year in a row.				</p>
 			</div>
 			</div>
 				<div class="Lastest Lastest_last">
 			<div class="block_news_item block_lastest">
 				<div class="block_item_title">
-					<a href="http://www.mage-world.com/blog/are-you-ready-for-the-coming-holidays.html">Are you ready for the coming holidays???</a>
+					<a href="http://www.mage-world.com/blog/-reward-points-pro-has-exactly-met-the-requirements-of-our-client.html">“Reward Points Pro” has exactly met the requirements of our client</a>
 				</div>				
 				<p class="text_title">		
-										17 Nov 2012				
+										25 Mar 2013				
 				</p>
 				<p class="text_summary">		
-								The year-end period is coming and the heat of the promotion programs all over the markets has been spreading out and attracting...				</p>
+								“Reward Points Pro” has exactly met the requirements of our client				</p>
 			</div>
 			</div>
 				<div class="link-viewall">
@@ -1184,10 +1861,8 @@ if (url.indexOf('enterprise-extensions.html')>0){
         <div class="footer-container">
 	<div class="end_bottom">
 		<div class="mw_list_cus">
-	<h3>Some of our customers</h3>
-	<div class="ct_list_cus">
-		<img src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/list-customer.gif" alt="Some our customers">
-	</div>
+<h3>Some of our customers</h3>
+<div class="ct_list_cus"><img src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/list-customer.png" alt="Some our customers"></div>
 </div>	</div>
     <div class="footer">
         <div class="block_mw9_top">&nbsp;</div>
@@ -1212,6 +1887,7 @@ if (url.indexOf('enterprise-extensions.html')>0){
 					</div>    
 					<div class="block-content">
 						<ul>
+							<li><a href="http://www.mage-world.com/wiki/" title="MageWorld Wiki" target="_blank">Wiki</a></li>
 							<li><a href="http://www.mage-world.com/faq/" title="MageWorld FAQ">FAQ</a></li>
 							<li><a href="http://www.mage-world.com/contacts/" title="Contact MageWorld">Submit a ticket</a></li>
 						</ul>
@@ -1236,9 +1912,10 @@ if (url.indexOf('enterprise-extensions.html')>0){
 					</div>    
 					<div class="block-content">
 						<ul>
+							<li><a href="http://www.mage-world.com/blog/success-stories.html" title="Success Stories">Success Stories</a></li>
 							<li><a href="http://www.mage-world.com/testimonial" title="Customer Testimonials">Testimonials</a></li>
-							<li><a href="http://www.mage-world.com/reviews" title="Magento Theme / Extension Customization">Customer Reviews</a></li>
-							<li><a href="http://www.mage-world.com/showcase" title="Magento Development">Showcase</a></li>
+							<li><a href="http://www.mage-world.com/reviews" title="Customer Reviews">Customer Reviews</a></li>
+							<li><a href="http://www.mage-world.com/showcase" title="Showcase">Showcase</a></li>
 						</ul>
 					</div>
 				</div>
@@ -1269,19 +1946,27 @@ if (url.indexOf('enterprise-extensions.html')>0){
 			</div>
 			<div class="block-ads-bt">
 				<div class="block-geotrust">
-					<a href="https://smarticon.geotrust.com/smarticonprofile?Referer=https://www.mage-world.com" target="GT__SIP" tabindex="-1" rel="nofollow" title="MageWorld Secured Verification"><img src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/temp/i-geotrust.jpg" alt=""></a> 
+					<a href="https://smarticon.geotrust.com/smarticonprofile?Referer=https://www.mage-world.com" target="GT__SIP" tabindex="-1" rel="nofollow" title="MageWorld Secured Verification">
+						<span class="span-img img-geotrust"></span>
+					</a> 
 					<!--  GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. --> <!-- script src="//smarticon.geotrust.com/si.js" type="text/javascript"></script --> <!-- end  GeoTrust Smart Icon tag -->
 				</div>
 				<div class="block-paypal">
-					<img src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/temp/i-paypal.jpg" alt="">
+					<span class="span-img img-paypal"></span>
 				</div>
 				<div class="block-follow">
 					<ul>
 						<li class="follow_label">Follow Mage World on</li>
-						<li><a href="http://www.facebook.com/MagentoWorld" target="_blank" rel="nofollow" title="MageWorld Facebook Fan Page">
-                  <img src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/temp/i-facebook.jpg" alt="MageWorld Facebook Fan Page"></a></li>
-						<li><a href="http://twitter.com/MageWorld" target="_blank" rel="nofollow" title="MageWorld on Twitter">
-                  <img src="http://www.mage-world.com/skin/frontend/default/mw_1500/images/temp/i-tiwtter.jpg" alt="MageWorld on Twitter"></a></li>
+						<li>
+							<a href="http://www.facebook.com/MagentoWorld" target="_blank" rel="nofollow" title="MageWorld Facebook Fan Page">
+								<span class="span-img img-facebook"></span>
+							</a>
+						</li>
+						<li>
+							<a href="http://twitter.com/MageWorld" target="_blank" rel="nofollow" title="MageWorld on Twitter">
+								<span class="span-img img-twitter"></span>
+							</a>
+						</li>
 					</ul>
 				</div>		
 				<div class="clear_b">&nbsp;</div>
@@ -1303,26 +1988,281 @@ if (url.indexOf('enterprise-extensions.html')>0){
 	<a title="Help Desk Pro- Magento Extension" href="http://www.mage-world.com/help-desk-pro-magento-extension.html">Help Desk Pro</a>,
 	<a title="Cms Pro - Magento Extension" href="http://www.mage-world.com/mw-cms-pro-magento-extension.html">Cms Pro</a>, 
 	<a title="Gallery Pro - Magento Extension " href="http://www.mage-world.com/gallery-pro-magento-extension.html">Gallery Pro</a>.
-	<strong class="seo">Premium <a href="http://www.prestalive.com/5-prestashop-modules" target="_blank" title="PrestaShop Modules">PrestaShop Modules</a> and <a href="http://www.prestalive.com/13-prestashop-themes-free" target="_blank" title="PrestaShop Themes">PrestaShop Themes</a></strong>
 </p>
 	<address>© 2009 <a href="http://www.mage-world.com/" target="_blank" title="The world of Magento extensions and themes">Mage-World.com</a>. All Rights Reserved.</address>
 <p class="bugs">Powered by Magento ver 1.7.0.2. Designed by <a href="http://www.mage-world.com/" title="Premium Magento extensions and themes by MageWorld">Mage-World.com </a>.</p>
 </div>
 
-        <script language="JavaScript" type="text/javascript">
+        
+<script type="text/javascript">
+jQuery(window).load(function () {
+    setTimeout(function () {
+  		if (typeof sessionStorage.linkdownload != 'undefined') {
+  			var n = sessionStorage.linkdownload.search("downloadable/download/sample");
+  	        if(n > 1){			
+  				window.location.href  = sessionStorage.linkdownload;
+  				sessionStorage.linkdownload = "";
+  			}
+  		}
+    }, 100);
+});
+var islogin = "";
+var urlRedirect = "";
+var isRedirect = "";
+var mwrefRedirect = "";
+if(islogin == ""){
+	jQuery(document).ready(function() {						
+		jQuery("a[rel='ajaxlogin']").click(function(){			
+			urlRedirect = jQuery(this).attr('href');			
+			mwrefRedirect = jQuery(this).attr('mwref');			
+			if (jQuery(this).attr('target') !== undefined) {				
+				isRedirect = jQuery(this).attr('target');				
+			}
+			else{
+				isRedirect = "";
+			}	
+			display();
+			return false;
+		});	
+	});
+}
+function display(){	
+	$('fancyboxloginajax-wrap').setStyle({display:'block'});	
+	$('bgopacityloginajax').setStyle({display:'block'});
+	$('popup_loginajax').setStyle({display:'block'});
+}
+function autohilepopup(){	
+	$('fancyboxloginajax-wrap').setStyle({display:'none'});
+	$('bgopacityloginajax').setStyle({display:'none'});	
+	if(urlRedirect == "" || urlRedirect == "#" && mwrefRedirect == ""){
+		window.location.reload();
+	}	
+	else if(isRedirect == "_blank"){				
+		sessionStorage.linkdownload = mwrefRedirect;		
+		window.location.reload();					
+	}
+	else{
+		window.location = urlRedirect;
+	}	
+}	
+function hileboxloginajax(){
+	$('fancyboxloginajax-wrap').setStyle({display:'none'});
+	$('bgopacityloginajax').setStyle({display:'none'});	
+}
+function loginajaxFunction(){ 
+	/*var valdEmailLogin = Validation.validate(document.getElementById("loginajaxEmail"));
+	var valdPassLogin = Validation.validate(document.getElementById("loginajaxPass"));*/ 
+	var formToValidate = $('loginajax-form');
+	var validator = new Validation(formToValidate);
+	var allRadio = document.getElementsByName("method");
+	var selectedAnswer = "";  				
+	for(var i = 0;i<allRadio.length; i++){					
+		if(allRadio[i].checked){						
+			selectedAnswer = allRadio[i].value;
+		}
+	}  							 	
+	var urla = 'http://www.mage-world.com/download/account/loginPost/';
+	var param = $("loginajax-form").serialize();				
+	if(validator.validate()) {	
+		new Ajax.Request(urla, {encoding:'UTF-8',method: 'GET',parameters: param,				
+			onLoading : function(resp)
+			{					
+				$('optionsloginajax').setStyle({width:'470px'});
+				$('popup_loginajax').setStyle({display:'none'});
+				$('loadstep1').setStyle({display:'block'});			
+			},
+			onSuccess : function(respjson){					
+				var resp=respjson.responseText.evalJSON();						
+				if(resp.error){
+					alert(resp.mess);
+					$('optionsloginajax').setStyle({width:'680px'});
+                    $('popup_loginajax').setStyle({display:'block'});
+					$('loadstep1').setStyle({display:'none'});
+				}
+				else{
+					autohilepopup();						
+                }						
+			}
+		});				
+	}
+}	
+		
+function createajaxFunction(){		
+	/*var valdfirstnamecreate = Validation.validate(document.getElementById("firstnameajax"));
+	var valdlastnamecreate = Validation.validate(document.getElementById("lastnameajax"));	
+	var valdemailcreate = Validation.validate(document.getElementById("emailajax"));	
+	var valdpasswordcreate = Validation.validate(document.getElementById("passwordajax"));	
+	var valdconfirmationcreate = Validation.validate(document.getElementById("confirmationajax"));	*/		
+	var formToValidate = $('createajax-form');
+	var validator = new Validation(formToValidate);	
+	var urla = 'http://www.mage-world.com/download/account/createPost/';
+	var param = $("createajax-form").serialize();			
+	if(validator.validate()) {
+		new Ajax.Request(urla, {encoding:'UTF-8',method: 'GET',parameters: param,				
+			onLoading : function(resp)
+			{								
+				$('optionsloginajax').setStyle({width:'470px'});
+				$('popup_loginajax').setStyle({display:'none'});
+				$('loadstep1').setStyle({display:'block'});			
+			},
+			onSuccess : function(respjson){	
+				var resp=respjson.responseText.evalJSON();
+				if(resp.error){
+					alert(resp.mess);
+					$('optionsloginajax').setStyle({width:'680px'});
+                    $('popup_loginajax').setStyle({display:'block'});
+					$('loadstep1').setStyle({display:'none'});
+				}
+				else{										
+					autohilepopup();					
+                }						
+			}
+		});								
+	}
+}	
+</script>
+<div id="optionsloginajax">			
+	<div id="optionsloginajax-tab" style="top:0px">
+		<div id="zoptionsloginajax">					
+			<div id="fancyboxloginajax-wrap" style="display:none">
+				<div id="fancyboxloginajax-outer">
+					<div id="confirmboxloginajax">						
+						<div id="loadstep1" style="display:none;">
+							<p class="loader"><img alt="Loading..." src="http://www.mage-world.com/skin/frontend/default/default/mw_download/images/ajax-loader-tr.gif "><br>Please wait...</p>
+						</div>					
+					<div id="boxloginajaxcontent">	
+						<div id="popup_loginajax" class="popup_box">	<!-- OUR PopupBox DIV-->	
+							<div class="page-title a-right">
+						        <h1 class="left" style="margin: 0px 0px 7px 0px;">Login or Create an Account</h1>
+								<button class="button fb_button_ps" type="button" onclick="return fblogin();">
+									<span><span>Login with Facebook</span></span>
+								</button>
+						    </div>						
+							<div class="frm-register">
+								<div class="dialog-header"> Create new account	</div>	
+								<div class="dialog-centre">
+									<form method="post" action="" id="createajax-form" onsubmit="createajaxFunction();return false;">
+										<div class="form_content">											
+											<ul class="form-list">
+												<li class="fields">
+													<div class="customer-name">
+														<div class="field name-firstname">
+															<label class="required" for="firstname"><em>*</em>First Name</label>
+															<div class="input-box">
+																<input type="text" value="" id="firstnameajax" class="input-text required-entry" name="firstname">
+															</div>
+														</div>
+														<div class="field name-lastname">
+															<label class="required" for="lastname"><em>*</em>Last Name</label>
+															<div class="input-box">
+																<input type="text" value="" id="lastnameajax" class="input-text required-entry" name="lastname">
+															</div>
+														</div>
+													</div>
+												</li>
+												<li>
+													<label class="required" for="email_address"><em>*</em>Email Address</label>
+													<div class="input-box">
+														<input type="text" value="" id="emailajax" class="input-text required-entry validate-email" name="email">
+													</div>
+												</li>
+												<li class="fields">
+													<div class="customer-name">
+														<div class="field name-firstname">
+															<label class="required" for="password"><em>*</em>Password</label>
+															<div class="input-box">
+																<input type="password" value="" id="passwordajax" class="input-text required-entry validate-password" name="password">
+															</div>
+														</div>
+														<div class="field name-lastname">
+															<label class="required" for="confirmation"><em>*</em>Confirm Password</label>
+															<div class="input-box">
+																<input type="password" value="" class="input-text required-entry validate-cpassword" id="confirmationajax" name="confirmation">
+															</div>
+														</div>
+													</div>
+												</li>
+                        <li class="control">
+                          <div style="float:left;" class="input-box">
+                              <input type="checkbox" name="is_subscribed" title="Sign Up for Newsletter" value="1" checked="checked" id="is_subscribed" class="checkbox">
+                          </div>
+                          <div style="float:left;">
+                            <label for="is_subscribed">Sign Up for Product Updates</label><br><span style="color: rgb(225, 57, 145);">(Earn 50 Reward Points)</span>
+                          </div>
+                        </li>
+											</ul>
+										</div>
+										<div class="buttons-set smart-footer">					
+											<button class="button btn-submit" title="Submit" type="submit">
+												<span><span>Submit</span></span>
+											</button>
+										</div>				
+									</form>	
+								</div>
+							</div>
+							
+							<div class="frm-login">
+								<div class="dialog-header">Login</div>	
+								<div class="dialog-centre">
+									<form method="post" id="loginajax-form" action="" onsubmit="loginajaxFunction();return false;">												
+										<div class="form_content">
+											<p class="text_label">If you have an account with us, please log in.</p>
+											<ul class="form-list">
+												<li>
+													<label class="required" for="email"><em>*</em>Email Address</label>
+													<div class="input-box">
+														<input type="text" value="" id="loginajaxEmail" name="email" class="input-text login-input email required-entry validate-email">
+													</div>
+												</li>
+												<li>
+													<label class="required" for="pass"><em>*</em>Password</label>
+													<div class="input-box">
+														<input type="password" value="" id="loginajaxPass" name="password" class="input-text login-input password required-entry">
+													</div>
+												</li>
+												<li id="remember-me-box" class="control">						   
+												    <div class="input-box" style="float:left;">
+												        <input type="checkbox" name="rememberme" id="rememberme" value="yes" class="checkbox" checked="checked" title="Remember Me">
+												    </div>
+												  	 <div style="float:left;"> <label for="rememberme">Remember Me</label><br>
+												   		 <span>(Uncheck if on a shared computer)</span>	
+												     </div>  
+												</li>
+											</ul>	
+										</div>
+										<div class="buttons-set smart-footer">					
+											<a href="https://www.mage-world.com/customer/account/forgotpassword/" class="f-left">Forgot Your Password?</a>
+											<button class="button btn-submit" title="LOGIN" value="Login" type="submit">
+												<span><span>Login</span></span>			
+											</button>
+										</div>				
+									</form>	
+								</div>
+							</div>
+						</div>
+						</div>							
+					</div>
+					<a onclick="hileboxloginajax();" style="display: inline;" id="fancyboxloginajax-close"></a>					
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div style="padding: 0px; position: fixed; left: 0px; top: 0px; width: 100%;display:none; height: 100%; z-index: 9000; visibility: visible;" id="bgopacityloginajax"><div onclick="hileboxloginajax();" id="opacityloginajax" style="width: 100%; height: 100%;background-color: #444444;opacity: 0.4;"></div></div><script language="JavaScript" type="text/javascript">
 /*<![CDATA[*/
-window.fbAsyncInit = function() {
+ function fbinit() {
 	FB.init({appId: '123239577725888',             
 	    status     : true, 
             cookie     : true,
             xfbml      : true,
             oauth      : true});
-
+	/*
 	FB.getLoginStatus(function(response) {
 	   if (response.status == 'connected') {
 	    	   }
 	});
-};
+	*/
+}
 (function(d){
            var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
            js = d.createElement('script'); js.id = id; js.async = true;
@@ -1344,6 +2284,7 @@ function login(){
 	}
 
     function fblogin(){
+		fbinit();
         FB.login(function(response) {
 
            if (response.status == 'connected') {
