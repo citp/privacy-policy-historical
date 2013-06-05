@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the duckbrand.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018113648id_/http%3A//www.duckbrand.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duckbrand.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605220604id_/http%3A//duckbrand.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Duck® brand, ShurTech Brands, LLC
+# Duck® Brand - Duct Tape, Packaging Tape, Weatherization, Shelf Liner and DIY products
 
 Thank you for visiting the ShurTech Brands, LLC ("ShurTech") web sites, including but not limited to shurtech.com, duckbrand.com, paintersmategreen.com, frogtape.com, and caremail.com. Below you will find information about our commitment to ensuring the privacy of your personally identifiable information. We have done our best to ensure the privacy and security of your transactions with us.
 
