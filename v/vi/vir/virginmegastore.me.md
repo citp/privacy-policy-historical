@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the virginmegastore.me privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114155850id_/http%3A//www.virginmegastore.me/SubTerms.aspx%3Fpageid%3D130) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmegastore.me privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605112816id_/http%3A//virginmegastore.me/Sub.aspx%3Fpageid%3D130) for the most accurate reproduction.*
 
 # :: Virgin Megastore MENA ::Privacy Policy
-
-| 
 
 **  
 PRIVACY AND POLICY**
@@ -45,9 +43,3 @@ If there are any questions regarding this privacy policy you may contact us at a
 Dubai  
 United Arab Emirates   
 [info@virginmegas](mailto:info@virginmegastore.me)tore.me
-
-| 
-
-[](http://thecard.virginmegastore.me/)  
-  
----|---|---
