@@ -1,84 +1,114 @@
-> *The following text is extracted and transformed from the shl.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227122648id_/http%3A//www.shl.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shl.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605143315id_/http%3A//www.shl.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SHL US
 
-###  SHL Group Statement of Privacy
+###  SHL Privacy Policy
 
-This Privacy Policy describes how SHL Group Limited collects, uses and safeguards personal information that you may provide to us.  When we refer to personal information we mean information or an opinion about you, from which your identity is apparent or can be reasonably ascertained.
+This Privacy Policy describes how SHL Group Limited of The Pavilion, 1 Atwell Place, Thames Ditton, Surrey KT7 0NE, England and SHL U.S., Inc. of 555 North Point Center East, Floor 6, Alpharetta, GA 30022, USA (each a wholly-owned subsidiary of the Corporate Executive Board ("CEB")) (together, "SHL") collects, uses and safeguards personal information that you may provide to us when you visit our websites (the " **Sites** ").
 
-We are committed to promoting confidence in the manner in which your personal information is handled by us.  In this regard, we will act ethically and as evidence of this commitment, we will comply with the privacy and data protection requirements of the countries in which we operate.
+Please read this Privacy Policy carefully – by using the Sites or registering your interest in us online, you consent to its terms (including as amended from time to time). If you do not agree with the terms of this Privacy Policy, you should refrain from using our Sites.
 
-###  Contents:
+###  Contents
 
-  * Collection of personal data
-  * Use and disclosure
-  * Cookies and automatic data collection
-  * Log files
+  * Information we collect
+  * Use of cookies and other technologies
+  * Use of your information
+  * International transfers
   * Security
-  * Protection of children's information
   * Access to personal information we hold about you
-  * Your right to challenge
-  * Privacy compliance
-  * Complaints resolution
-  * Changes to this statement
+  * Changes to this Privacy Policy
+  * Contact us
 
 
 
-###  Collection of personal data
+###  Information we collect
 
-In general, you can visit SHL websites without telling us who you are and without revealing any information about yourself. However there may be occasions when you choose to give us personal information.  Generally this will be for the purposes of:
+When you visit the Sites, register with us (including as a partner, client or candidate) or sign up to receive our e-Newsletters or information about our products or services, we may collect, store and use certain personal information about you. The information that we may collect from you includes your username, password, name, address, telephone, e-mail address, job title, organisation and country.
 
-  * receiving further information from us or;
-  * for recruitment, selection and development purposes by potential employers, managing recruitment and human resource processes and any related purpose where you have consented to the collection.
+We may also receive information about you from third parties (such as credit reference agencies) who are legally entitled to disclose that information to us.
+
+Note: Assessment administrators and test takers that have registered with us for a particular product, service, or assessment should refer to the relevant Data Protection Notice for further information about collection and use of their data.
+
+Children’s information: The Sites contain business-related content and are specifically aimed at and designed for use by adults. We do not knowingly solicit or collect personal information from children.
+
+Information collected automatically: Like most website providers, we analyse server log files to collect statistical information about how our Sites are used. This type of information is collected only at an aggregate level and includes browser types, operating systems, IP addresses, referring/exit pages, platform types and date/time stamps.
+
+###  Use of cookies and other technologies
+
+Cookies: The Internet browser that you use may make use of a feature called a "cookie" to assign identification to your computer. We may use cookies and other similar technologies to ensure you get the best from our Sites. Cookies are small text files from a website that are stored on your computer, mobile phone or other device. These text files make using our Sites more convenient by, among other things, recognising you when you return, saving your passwords and preferences and may help us to customise our Sites for you based on your preferences.
+
+We do not use cookies to store your name or similar personally identifiable information, unless you have first agreed to this by selecting the "Remember Me" option. If you select this option a cookie will be placed on your computer which will allow our Sites to recognise you when you return to our Sites. No personal information will be stored in this cookie.
+
+We use a number of different cookies on our Sites. If you do not know what cookies are, or how to control or delete them, then we recommend you visit [www.aboutcookies.org](http://www.aboutcookies.org/) for more detailed guidance. The following table describes the cookies we use on our Sites and the purposes for which we use them. You can delete SHL cookies having visited the Sites, or choose to browse the Sites using your browser’s anonymous usage setting (called "Incognito" in Chrome, "InPrivate" for Internet Explorer, "Private Browsing" in Firefox and Safari, etc.).
+
+Persistent Cookies for Site Analytics and Performance
+
+Cookie name |  Purpose  
+---|---  
+Google (Analytics)  
+_utma  
+_utmb  
+_utmc  
+_utmz | 
+
+These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the Sites, where visitors have come to the site from and the pages they visited.  
+More information: [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html)  
+  
+Cookie name | 
+
+AddThis helps us to integrate social media sharing tools into our website such as Facebook or Twitter and to measure the effectiveness of these sharing tools.
+
+More information: [AddThis opt-out](http://www.addthis.com/privacy/opt-out)  
+  
+Other Technologies: We may use standard Internet technology, such as Web beacons (also called clear GIFs or pixel tags), and other similar technologies, to deliver or communicate with cookies and track your use of our Sites and content presented via the Sites. We also may include web beacons in e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer and measure the overall effectiveness of our online content, advertising campaigns, and the products and services we offer through the Sites.
+
+External web services: We use a number of external web services on the Sites, mostly to display content within our web pages. For example, to display slideshows we sometimes use SlideShare; to show videos we use YouTube. This is not an exhaustive or complete list of the services we use, or might use in the future, when embedding content, but these are the most common. As with the social buttons we cannot prevent these sites, or external domains, from collecting information on your usage of this embedded content. If you are not logged in to these external services then they will not know who you are but are likely to gather anonymous usage information e.g. number of views, plays, loads etc.
+
+###  Use of your information
+
+We use the information we collect about you for the following purposes:
+
+  * to provide you with our products and services;
+  * to respond to inquiries that you submit via our Sites;
+  * to maintain and support any registered account that you hold with us, facilitate your access, and provide you with resources, tools and other materials available to you;
+  * for technical administration of our Sites;
+  * when we have your consent, to contact you about promotions, surveys and exclusive opportunities offered by SHL, its distributors, partners and affiliates including information about other products and services in which you may be interested;
+  * to seek your views on products and services and for customer satisfaction purposes;
+  * to engage in research and analysis in order to maintain and improve our products and services, as well as develop new services; and
+  * when we have your consent, for recruitment, selection and development purposes by potential employers, managing recruitment and human resource processes and any related purpose where you have consented to the collection.
 
 
 
-We do not collect information about our visitors from other sources, such as public records or bodies, or private organisations.  We do not collect or use personal data for any purpose other than those indicated above and will ask you when we need information that personally identifies you or allows us to contact you.  
-If we wish to use your personal data for a new purpose, we offer you the means to consent to this new purpose by indicating in a box at the point on the site where personal data is collected.
+We may also share your personal information with third party vendors performing functions on our behalf (e.g. including vendors that process credit card orders, analyse data, or assist us with customer service).
 
-###  Use and disclosure
+###  International transfers
 
-If we require you to provide certain personal information about yourself for the purposes described above, we will not rent, sell or exchange information about you to third parties except to your employers or potential employers, where you consent, where you would reasonably expect the information to be disclosed or where we are legally required to disclose such information
-
-###  Cookies and automatic data collection
-
-We may automatically log personal data or link information automatically logged by other means with personal data about specific individuals. However, we will only use this information to help us respond to queries you may have about our products or services or to tell you about other SHL products and services that we think you may be interested in. We will not pass this information on to any third parties. The Internet browser that you use may make use of a feature called a "cookie" to assign identification to your computer. We do not use cookies to store personal data or to link personal data to non-personal data, unless you have first agreed to this by selecting the "Remember Me" option. If you select this option a cookie will be placed on your computer which will allow our website www.shl.com to recognise you when you return to our website. No personal information will be stored in this cookie.
-
-###  Log Files
-
-Like most web site providers, we analyse server log files to collect statistical information about how our web sites are used. This type of information is collected only at an aggregate level and includes browser types, Internet service providers, referring/exit pages, platform types, date/time stamps and other broad demographic data. Such data is not linked to personally identifiable information.
+Depending on your country of residence, the submission of personal data to our Sites may involve some transfer and storage of personal information to SHL’s parent company, CEB, in the United States, to other SHL group companies or to third party data processors located in countries outside the European Economic Area or your jurisdiction, which may have lower standards of data protection. SHL U.S., Inc. and its parent company CEB comply with the U.S. - EU Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, and have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. We agree that any disputes regarding our privacy policies and related actions regarding data from Europe can be heard by the European Data Protection Authorities or the Swiss Federal Data Protection and Information Commissioner, and we will be subject to the determinations of those bodies. To learn more about the Safe Harbor program and to view our certification information, please visit <http://export.gov/safeharbor/>.
 
 ###  Security
 
-We protect the quality and integrity of your personally identifiable information and we have implemented appropriate technical and organisational measures to do so.  SHL operates its own Internet Data Centre that is designed to keep mission critical human resource services and data online and secure at all times.
+We have implemented appropriate security policies, rules and technical measures to protect against the loss, misuse and alteration of the information under our control. However, please note that whilst we take appropriate technical and organisational measures to safeguard the personal data that you provide to us, no transmission over the Internet can ever be guaranteed secure. Consequently, please note that we cannot guarantee the security of any personal data that you transfer over the Internet to us.
 
-We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from:
-
-  * Unauthorized access
-  * Improper use or disclosure
-  * Unauthorised modification
-  * Unlawful destruction or accidental loss
-
-
-
-All our employees and data processors, who have access to and are associated with the processing of personal data, are required to respect the confidentiality of our visitors' personal data.
-
-We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation.
-
-###  Protection of children's information
-
-The SHL web sites do not publish content or collect data that is targeted at children.
+Please note that the effective security with respect to our Sites depends, in part, on you ensuring that any IDs and passwords that you have been issued by us are kept confidential and secure.
 
 ###  Access to personal information we hold about you
 
-You can ask us whether we are keeping personal data about you.
+You may, depending on applicable law, have the right to contact us in order to find out what information we hold about you or to access, cancel or correct any information that we hold about you. You may also contact us in writing to inform us if you do not wish to receive any marketing materials from us.
 
-**Making a request**
+If you wish to exercise any of the above rights, please contact us using the contact details specified below. However, if you wish to unsubscribe from e-mail marketing communications that we send you, you can most easily do this by clicking on the unsubscribe link at the bottom of any e-mail newsletter we have sent to you.
 
-Requests may be made in writing to:
+In addition, you can request to access your information as mentioned above by printing and completing a [Subject Access Request Form](http://www.shl.com/assets/SHL_Subject_Access_Request_Form.pdf) (8KB PDF) and sending it back to us. The purpose of this form is to ensure that you give us all the necessary information to enable us to comply with your request. You do not have to use this form, but if you do not, we encourage you to ensure that all the required information on this form is provided.
+
+###  Changes to this Privacy Policy
+
+SHL may update or amend this Privacy Policy from time to time to comply with law or to meet our changing business requirements without notice to you. Any updates or amendments will be posted on the Sites. By continuing to use any of the Sites, you agree to be bound by the terms of these updates and amendments.
+
+###  Contact us
+
+Questions regarding this statement can be submitted by sending an email to [dataquestions@shl.com](mailto:dataquestions@shl.com) or in writing to:
 
 Ref: PVCSHL  
-Data Protection officer  
+Data Protection Officer  
 SHL Group Limited  
 The Pavillion  
 1 Atwell Place  
@@ -86,74 +116,4 @@ Thames Ditton
 Surrey, KT7 0NE  
 UK
 
-Requests can be submitted to the above address by printing and completing a [Subject Access Request Form ](https://web.archive.org/assets/SHL_Subject_Access_Request_Form.pdf)(8KB PDF).  The purpose of this form is to ensure that you give us all the necessary information to enable us to comply with your request.  You do not have to use this form, but if you do not you should ensure that all the required information on this form is provided.
-
-[Download the free reader](http://get.adobe.com/uk/reader/)
-
-Note: The period of 40 days in which the organisation must respond to the request will not commence until we have received written proof of your identity.
-
-**Requests can not be made by telephone or any other means.**
-
-**Proof of Identity**
-
-Regardless of the original means of request (letter or email), SHL will require proof of identity before releasing personal data. This may be provided in the following forms:
-
-  * A paper copy of a bank statement, utility bill or other company letter sent to you, or;
-  * A paper copy of your driving license, birth certificate, passport or benefits book.
-
-
-
-Proof of identity should be signed and dated by you and sent to the address above with a stamped addressed envelope so that we can send the information that you have requested to you.
-
-**What we will send you**
-
-You will be sent a paper notification of:  
-Whether SHL is processing personal data about you.  
-A description of the data and the purposes of processing the data. (SHL does not disclose personal data to 3rd parties so this information will not be included).  
-An explanation of any codes or abbreviations used so as to make the notification intelligible.  
-If we can, information as to the sources of the data.  
-You may request that the above information is sent to you by email instead.
-
-**Fees**
-
-We reserve the right to charge a £10 administration fee for providing this information to you.
-
-**Period for Responding**
-
-Your request will be dealt with:
-
-  * Within forty days of receipt of the request; or if later
-  * Within forty days of receiving the fee and the information needed to verify your identity and locate the information that you seek.
-
-
-
-###  Your right to challenge
-
-If at any time you wish to change personal information that is incorrect or wish to have your personal information deleted, please contact us in writing via the address below.  Unless personal information is required to be retained by us for administrative or legal reasons, SHL will meet such requests at the earliest possible opportunity by deleting or amending your personal information where appropriate.
-
-###  Privacy compliance
-
-SHL Group (and in particular, its US subsidiaries SHL USA Inc and Previsor Inc) comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. SHL USA Inc and Previsor Inc have certified that they adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SHL USA Inc and Previsor Inc’s certification, please visit <http://export.gov/safeharbor/>
-
-###  Complaints resolution
-
-We are committed to providing a fair and responsive system for handling and resolving complaints concerning the handling of personal information.  You have a right to complain and to have your complaint handled efficiently if you are concerned about our handling of your personal information.  We believe that any complaint that we may receive is a valuable opportunity to improve the services that we deliver to you and to maintain your confidence in our services.  
-If at any time you wish to lodge a complaint in respect of the handling, use or disclosure of your personal information by us, you may do so by contacting our Privacy Officer at the address below.
-
-  
-We aim to investigate and advise you of the outcome of the complaint promptly.  
-If you are not satisfied with our handling of your complaint, you may contact your local data protection registrar.
-
-###  Changes to this statement
-
-SHL will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of this privacy statement and post notification of change on web site home pages or other places we deem appropriate.
-
-Questions regarding this statement should be directed in writing to:  
-Ref: PVCSHL  
-Data Protection officer  
-SHL Group Limited  
-The Pavillion  
-1 Atwell Place  
-Thames Ditton  
-Surrey, KT7 0NE  
-UK
+Last updated: February 20, 2013
