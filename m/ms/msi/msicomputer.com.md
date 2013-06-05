@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msicomputer.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215155140id_/http%3A//us.msi.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msicomputer.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605175201id_/http%3A//us.msi.com/about/privacy-policy) for the most accurate reproduction.*
 
 # MSI USA - MSI Privacy Policy
 
