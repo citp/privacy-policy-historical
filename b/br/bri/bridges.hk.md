@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bridges.hk privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228091812id_/http%3A//www.bridges.hk/en/siteterms_privacy_2.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridges.hk privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605115443id_/http%3A//www.bridges.hk/en/siteterms_privacy_2.php) for the most accurate reproduction.*
 
 # Bridges Business and Conference Centre > Site Terms and Privacy
 
-[](https://web.archive.org/web/20121228091812id_/http%3A//www.bridges.hk/en/swf/bridges_album.swf)
+[](https://web.archive.org/web/20130605115443id_/http%3A//www.bridges.hk/en/swf/bridges_album.swf)
 
 BRIDGES EXECUTIVE CENTRE LIMITED ('BRIDGES') values all personal information provided by our guests, and thus we take great care in protecting your information. Through the privacy policy statement, BRIDGES notifies our guests on how and for what reason personal information is used and how personal information is protected:
 
