@@ -1,18 +1,13 @@
-> *The following text is extracted and transformed from the carsdir.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107054442id_/http%3A//www.carsdir.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsdir.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605141020id_/http%3A//www.carsdir.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  | 
-
-|   
----  
-  
   
 **Your** privacy is important to us. We want you to feel comfortable using CarsDir.com services. At the time of sign-up or later, we gather some certain type of information about our customers and we want to let you know your privacy rights. CarsDir.com employees are required to familiarize themselves with this privacy policy as a condition of their employment, and any employee violating the policy is subject to disciplinary action. **What kind of Information Does CarsDir.com collect?**   
 When our customers sign-up for a CarsDir.com account, we need contact information such as company name, contact person's name, address, email, and phone/fax number etc. During the time of sign-up, our systems record information about your session, such as the date and time of use, and the specific Internet address assigned to you including IP Address.   
 CarsDir.com also tracks requests you make for information on our website for our services, and responses you provide to CarsDir.com surveys. Finally, CarsDir.com . net keeps records of your payment history and communications you have with CarsDir.com . net's support team. Except in extraordinary circumstances (when we receive a court order, to protect the company's rights or property, or in emergencies where someone's safety is at risk), CarsDir.com. net do not keep track of what sites you visit when you are using the services. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.If you would like more information about this practice and would like to know your options in relation toط¢آ·not having this information used by these companies, [click here](https://web.archive.org/web/20121107054442id_/http%3A//www.carsdir.com/contactus_en.asp). 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.If you would like more information about this practice and would like to know your options in relation toط·آ¢ط¢آ·not having this information used by these companies, [click here](https://web.archive.org/web/20130605141020id_/http%3A//www.carsdir.com/contactus_en.asp). 
 
 Google, as a third party vendor, uses cookies to serve ads on CarsDir.com.   
 Google's use of the DART cookie enables it to serve ads to your users based on their visit to CarsDir.com and other sites on the Internet.   
@@ -24,9 +19,3 @@ No. CarsDir.com do not share or disclose any information regarding its subscribe
 You should be aware, however, that any information that you disclose in a public space such as a chat room, bulletin board, or personal Web site, Network Solutions domain registration is freely available to anyone else visiting that space. CarsDir.com cannot safeguard any personally identifiable information you disclose in these locations, nor can it ensure that information you voluntarily supplied to third parties remains private. Please review the privacy policies of third party sites frequently to ensure that your privacy preferences are respected. **How can I correct or update my information with CarsDir.com?**   
 You may correct that information as appropriate by writing us an email or through your control panel. Please keep in mind that under CarsDir.com's Terms and Conditions of Use, subscribers are required to provide us with your valid, current and up-to-date contact information. If any changes happen, please let us know a.s.a.p. but with 30 days. CarsDir.com may ask any kind of documentary proof issued by a reliable source especially when changes are desired in your contact information. **Changes to This Policy and Questions About Privacy:**   
 CarsDir.com reserves the right to make any changes to this policy at any time without prior informing to our customers. It is our customers duty to check our privacy policy at this website whenever they think it is necessary for any changes or amendments. Any amendments made here will automatically become effective immediately. If you have any questions or suggestions regarding our privacy policy, please feel free to contact us via e-mail. 
-
-* * *  
-  
----  
-|  |  |  | [](https://web.archive.org/web/20121107054442id_/http%3A//www.carsdir.com/send_en.asp?url=http://www.carsdir.com/privacy-policy.asp?) |  | [](javascript: bookmark\(\);)  
----
