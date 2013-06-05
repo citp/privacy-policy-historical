@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlassian.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220042808id_/http%3A//www.atlassian.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlassian.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605163126id_/http%3A//www.atlassian.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy and Legal Statement - Atlassian | Atlassian
 
@@ -119,7 +119,7 @@ By using Atlassian's Services or providing Personal Information to us, you agree
 
 ## UPDATE AND DELETE YOUR INFORMATION
 
-You may update or remove some of your information using Atlassian's Services or by sending us your request to [support@atlassian.com](mailto:support@atlassian.com).
+You may update or remove some of your information using Atlassian's Services or by sending us your request to [sales@atlassian.com](mailto:sales@atlassian.com).
 
 ## INTERNATIONAL USERS
 
