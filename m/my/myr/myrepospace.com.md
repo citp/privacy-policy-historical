@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myrepospace.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116061349id_/http%3A//www.myrepospace.com/more/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrepospace.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605215109id_/https%3A//www.myrepospace.com/more/privacy.php) for the most accurate reproduction.*
 
 # MyRepoSpace.com - Terms of Service
 
-The Privacy Policy, in conjunction with the [Terms of Service](https://web.archive.org/web/20121116061349id_/http%3A//www.myrepospace.com/more/tos.php), is collectively known as the "Agreement". 
+The Privacy Policy, in conjunction with the [Terms of Service](https://web.archive.org/web/20130605215109id_/https%3A//www.myrepospace.com/more/tos.php), is collectively known as the "Agreement". 
 
 MyRepoSpace will modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services indicates your acceptance of the most recently posted Agreement. 
 
