@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remodelinstantly.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113205342id_/http%3A//remodelinstantly.com/windows/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remodelinstantly.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605064238id_/http%3A//www.remodelinstantly.com/windows/privacy) for the most accurate reproduction.*
 
 # 
 
