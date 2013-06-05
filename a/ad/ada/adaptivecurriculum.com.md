@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adaptivecurriculum.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228062724id_/http%3A//www.adaptivecurriculum.com/us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaptivecurriculum.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605090550id_/http%3A//adaptivecurriculum.com/us/privacy.html) for the most accurate reproduction.*
 
 # Online Privacy Statement | Adaptive Curriculum
 
