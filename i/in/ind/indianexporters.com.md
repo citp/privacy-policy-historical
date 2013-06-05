@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianexporters.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105051102id_/http%3A//www.indianexporters.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianexporters.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605145051id_/http%3A//www.indianexporters.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Indianexporters.com Search in Indian Exporters, Importers, Suppliers, Manufactures
 
