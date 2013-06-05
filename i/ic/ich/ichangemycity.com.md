@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ichangemycity.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209141445id_/http%3A//www.ichangemycity.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ichangemycity.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605150820id_/http%3A//www.ichangemycity.com/privacy_policy) for the most accurate reproduction.*
 
 # ICMyC | Privacy Policy | I Change My City
 
