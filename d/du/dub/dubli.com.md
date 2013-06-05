@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubli.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212074304id_/http%3A//us.dubli.com/info/12-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubli.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605041923id_/http%3A//us.dubli.com/info/12-Privacy-Policies) for the most accurate reproduction.*
 
 # Privacy » DubLi
 
@@ -28,7 +28,7 @@ We do not knowingly collect personal information from children under the age of 
 **Disclosure of data to third parties**  
 We do not provide your personal data (including home address or email address) to third parties without your expressed and, at any time, revocable permission. Exceptions are only made for our service partners who require such data in order to complete an order process (eg. A transport company responsible for shipping and a credit institute responsible for payment). In this case, transferred data is reduced to a minimum.
 
-We may also disclose your personal information
+We may also disclose your personal information:
 
   * as required by law, such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
