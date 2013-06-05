@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dealgenius.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111181837id_/http%3A//www.dealgenius.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealgenius.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605092133id_/http%3A//www.dealgenius.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for DealGenius.com
-
-**Privacy Policy**
+# Privacy Policy
 
 Our success has come from taking care of our customers not selling them! Your privacy is very important to us. 
 
@@ -22,6 +20,6 @@ All payments are processed using Paypal even if you supply us with a credit card
 
 This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information. 
 
-From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
+From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
 Future changes may be made to this policy at any time. We will notify you of any changes by sending you an email, or simply updating our website. Any changes take affect after 15 days from such notice.
