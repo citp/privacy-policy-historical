@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stockinvestingbasics.net privacy policy that was archived on 2012-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121219232225id_/http%3A//stockinvestingbasics.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stockinvestingbasics.net privacy policy that was archived on 2013-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605050214id_/http%3A//stockinvestingbasics.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en-US"><head profile="http://gmpg.org/xfn/11">
 
@@ -10,26 +10,26 @@
 <link rel="shortcut icon" href="http://stockinvestingbasics.net/wp-content/themes/skywave/images/favicon.ico" type="image/x-icon">
 
 <link rel="stylesheet" href="http://stockinvestingbasics.net/wp-content/themes/skywave/style.css" type="text/css" media="screen">
-<link rel="alternate" type="application/rss+xml" title="Stock Investing Basics RSS Feed" href="http://stockinvestingbasics.net/feed">
-<link rel="alternate" type="application/atom+xml" title="Stock Investing Basics Atom Feed" href="http://stockinvestingbasics.net/feed/atom">
 <link rel="pingback" href="http://stockinvestingbasics.net/xmlrpc.php">
 
-<link rel="alternate" type="application/rss+xml" title="Stock Investing Basics » Privacy Policy Comments Feed" href="http://stockinvestingbasics.net/privacy-policy/feed">
+
+
 	<style type="text/css">
 	.wp-pagenavi{float:left !important; }
 	</style>
   <link rel="stylesheet" id="wp-pagenavi-style-css" href="http://stockinvestingbasics.net/wp-content/plugins/wp-pagenavi-style/css/css3_blue_glossy.css?ver=1.0" type="text/css" media="all">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://stockinvestingbasics.net/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript">try{jQuery.noConflict();}catch(e){};</script>
 <script type="text/javascript" src="http://stockinvestingbasics.net/wp-content/plugins/autoresponder-gwa/js/jcap.js?ver=3.3.1"></script>
 <script type="text/javascript" src="http://stockinvestingbasics.net/wp-content/plugins/autoresponder-gwa/js/md5.js?ver=3.3.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://stockinvestingbasics.net/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://stockinvestingbasics.net/wp-includes/wlwmanifest.xml"> 
-<link rel="next" title="Contact Us" href="http://stockinvestingbasics.net/contact-us">
+<link rel="next" title="Contact Us" href="http://stockinvestingbasics.net/contact-us/">
 <meta name="generator" content="WordPress 3.3.1">
 
 <!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[357,405] -->
 <meta name="description" content="Your Privacy Your privacy is important to us at Relevad Corporation. To better protect your privacy we provide this notice explaining our online information">
-<link rel="canonical" href="http://stockinvestingbasics.net/privacy-policy">
+<link rel="canonical" href="http://stockinvestingbasics.net/privacy-policy/">
 <!-- /all in one seo pack Pro Version-->
 <link rel="stylesheet" href="http://stockinvestingbasics.net/wp-content/plugins/jquery-featured-content-gallery/jfc.css.php" type="text/css" media="screen" charset="utf-8">
 <style type="text/css" media="screen">
@@ -105,42 +105,59 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 
 <script type="text/javascript" src="http://websking.com/static/js/protect.js"></script>
 
-
 <script type="text/javascript">
+   var tmp = document.cookie.match(/(.*?ft=)(.*?)(;.*|$)/); //for pixel logging
+   var ftsubid = (tmp && tmp[2] ? tmp[2] : 'unknown');
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-20558595-28']);
-  _gaq.push(['_trackPageview']);
+   //precautions in case console debugging is invoked while console is not open
+   if (!window.console) window.console = {};
+   if (!window.console.log) window.console.log = function () { };
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+   document.cookie = 'fullpath='+encodeURIComponent(document.location.href) + ';path=/'; //used for nginx ssi for ad partner tags
+   function video_callback() {} //moved from video_include file
 </script>
 
-<script type="text/javascript" src="http://websking.com/static/js/load_fif.js"></script>
+<!--script type="text/javascript" src="http://websking.com/static/js/load_fif.js"></script-->
 
-<!-- Place in header -->
 <script type="text/javascript">
 function valset(val_,flags,dflt) {
     if (val_ == '' || flags.indexOf(val_) == -1) 
          return dflt;
     else return val_;
 }
-//configure the slot names
-slot1 = 'ALL';
-slot2 = 'LB';
-domain = 'stockinvestingbasics.net';
+    
+slot1 = 'ALL';  //mostly unused now
+slot2 = 'LB';   //layer banner
+domain = window.location.host.replace('www.','').replace('featured.','');
 adserver_url = "http://relecart.relestar.com/relecart/get?u=gvcFSlPZEd-m8wDggU4-hg&k=orig&d=";
+
+/*
+if ( window.navigator.userAgent.indexOf('compatible; MSIE') >= 0 ) {
+    //start IE specific code
+    //if we are IE, then try getting special IE specific config
+    query_url = adserver_url + domain + "&s=" + slot1 + "_ie&f=val_" + slot1 + "&rnd=" + Math.random();
+    document.write('<sc'+'ript type="text/javascript" src="' + query_url + '"></sc' + 'ript>');
+}*/
 
 query_url = adserver_url + domain + "&s=" + slot1 + "&f=val_" + slot1 + "&rnd=" + Math.random();
 document.write('<sc'+'ript type="text/javascript" src="' + query_url + '"></sc' + 'ript>');
 
+//make call to layer_banner config regardless of ie status
 query_url = adserver_url + domain + "&s=" + slot2 + "&f=val_" + slot2 + "&rnd=" + Math.random();
 document.write('<sc'+'ript type="text/javascript" src="' + query_url + '"></sc' + 'ript>');
-</script><script type="text/javascript" src="http://relecart.relestar.com/relecart/get?u=gvcFSlPZEd-m8wDggU4-hg&amp;k=orig&amp;d=stockinvestingbasics.net&amp;s=ALL&amp;f=val_ALL&amp;rnd=0.5320148115598264"></script><script type="text/javascript" src="http://relecart.relestar.com/relecart/get?u=gvcFSlPZEd-m8wDggU4-hg&amp;k=orig&amp;d=stockinvestingbasics.net&amp;s=LB&amp;f=val_LB&amp;rnd=0.6584877083699334"></script>
+
+</script><script type="text/javascript" src="http://relecart.relestar.com/relecart/get?u=gvcFSlPZEd-m8wDggU4-hg&amp;k=orig&amp;d=web.archive.org&amp;s=ALL&amp;f=val_ALL&amp;rnd=0.14445133781756425"></script><script type="text/javascript" src="http://relecart.relestar.com/relecart/get?u=gvcFSlPZEd-m8wDggU4-hg&amp;k=orig&amp;d=web.archive.org&amp;s=LB&amp;f=val_LB&amp;rnd=0.03847893234662769"></script>
+
+<script type="text/javascript">
+/*
+if (!window['val_'+slot1]) {
+    //if IE specific config was successful this variable already exists
+    //otherwise get the normal config
+    query_url = adserver_url + domain + "&s=" + slot1 + "&f=val_" + slot1 + "&rnd=" + Math.random();
+    document.write('<sc'+'ript type="text/javascript" src="' + query_url + '"></sc' + 'ript>');
+}
+*/
+</script>
 
 
 <script type="text/javascript">
@@ -165,11 +182,63 @@ if (search) {
    }
 }
 if (params['override']) { //manual override for testing
-window.val_ALL = params['override'];
-window.val_LB  = params['override'];
+   window.val_ALL   = params['override'];
+   window.val_LB    = params['override'];
+   window.val_video = params['override'];
 }
 </script>
 
+
+
+<script type="text/javascript">
+function canary_ready(stat) {
+    var imgc = new Image();
+    var zid = window.location.host;
+    if (stat[0] == "end") { 
+       imgc.src = '/end.gif';
+    }
+    else {
+       imgc.src = 'http://dspimp.relestar.com/vimp/?s='+zid+'&cp=Canary'+stat+'&z='+ftsubid+'&nb='+(new Date()).getTime();
+    }
+}
+</script>
+
+
+<!--script language="JavaScript" type="text/javascript">
+function cpaDP() {
+    var ref = encodeURIComponent(document.referrer);
+    var ifrmsrc = "http://www.securepaths.com/pixel.cgi?s="+ Math.random() +"&p="+ domain +"&a="+ ftsubid +"&cmp=relecart&org=ckov1tslyp3ractplodh&rt=3_saleJS&ty=l&rf=" + ref + "&rd=" + ref;
+    document.write('<iframe src="' + ifrmsrc + '" style="width:1px;height:1px;position:absolute;overflow:hidden;" width="1" height="1" scrolling="no" frameborder="0"></iframe>');
+
+    document.cookie = "cpadetective=1;"; //make session cookie
+}
+if (document.cookie.indexOf('cpadetective') == -1) {
+   cpaDP();
+}
+</script-->
+
+
+<script type="text/javascript">
+var imgNew = new Image();
+imgNew.src = '/metr'+'ics.gif';
+</script>
+<noscript>
+<img src="/metrics.gif?noscript=1" />
+</noscript>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20558595-28']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 
 </head>
 
@@ -180,7 +249,7 @@ window.val_LB  = params['override'];
     
     <center>
         <div style="width:728px; height:90px; margin:auto;">
-<div style="width:728px; height:90px;" name="cswall" class="728x90atf">
+<div style="width:728px; height:90px;" class="cswall atf728x90">
 
 <script type="text/javascript">
 var partner = 'relevad';   
@@ -196,7 +265,6 @@ document.write('<iframe frameborder="0" marginwidth="0" marginheight="0" scrolli
 </div>
 </div>
     </center>
-    <br>
     
 <div class="headerin">
 <div id="description">
@@ -207,16 +275,18 @@ document.write('<iframe frameborder="0" marginwidth="0" marginheight="0" scrolli
 
 <div id="subnavbar">
 <ul id="subnav">
-	<li class="cat-item cat-item-1"><a href="http://stockinvestingbasics.net/category/how-to-start-stock-investing" title="View all posts filed under How To Start Stock Investing">How To Start Stock Investing</a>
+
+<li><a href="http://stockinvestingbasics.net">Home</a></li>
+	<li class="cat-item cat-item-1"><a href="http://stockinvestingbasics.net/topic/how-to-start-stock-investing/" title="View all posts filed under How To Start Stock Investing">How To Start Stock Investing</a>
 </li>
-	<li class="cat-item cat-item-546"><a href="http://stockinvestingbasics.net/category/preferred-stock-investing" title="View all posts filed under Preferred Stock Investing">Preferred Stock Investing</a>
+	<li class="cat-item cat-item-546"><a href="http://stockinvestingbasics.net/topic/preferred-stock-investing/" title="View all posts filed under Preferred Stock Investing">Preferred Stock Investing</a>
 </li>
-	<li class="cat-item cat-item-558"><a href="http://stockinvestingbasics.net/category/stock-investing-basics" title="View all posts filed under Stock Investing Basics">Stock Investing Basics</a>
+	<li class="cat-item cat-item-558"><a href="http://stockinvestingbasics.net/topic/stock-investing-basics/" title="View all posts filed under Stock Investing Basics">Stock Investing Basics</a>
 </li>
-	<li class="cat-item cat-item-538"><a href="http://stockinvestingbasics.net/category/stock-investing-for-beginners" title="View all posts filed under Stock Investing For Beginners">Stock Investing For Beginners</a>
+	<li class="cat-item cat-item-538"><a href="http://stockinvestingbasics.net/topic/stock-investing-for-beginners/" title="View all posts filed under Stock Investing For Beginners">Stock Investing For Beginners</a>
 </li>
-	<li class="cat-item cat-item-4"><a href="http://stockinvestingbasics.net/category/watch-video" title="View all posts filed under Watch Video">Watch Video</a>
-</li>
+<li class="cat-item"><a href="http://stockinvestingbasics.net/videos-main/" title="View videos page">Videos</a></li>
+
 </ul>
 </div>
 
@@ -226,13 +296,15 @@ document.write('<iframe frameborder="0" marginwidth="0" marginheight="0" scrolli
 
 <div class="clear"></div>
 
+<!-- page.php -->
+
 <div id="content">
 
 <div id="contentleft">
 
 <div class="postarea">
 
-<div class="breadcrumb">You are here: <a href="http://stockinvestingbasics.net">Home</a> / Privacy Policy</div>
+
 <h1>Privacy Policy</h1><br>
 
 <h4>Your Privacy</h4>
@@ -240,19 +312,22 @@ document.write('<iframe frameborder="0" marginwidth="0" marginheight="0" scrolli
 <p class="privacy">This site allows third-party companies to serve ads and/or collect certain anonymous information when you and other Internet users visit. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this site and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://networkadvertising.org">networkadvertising.org</a>.</p>
 <h4>Pubmatic Cookie</h4>
 <p class="privacy">This site also uses PubMatic, Inc.’s Sell Side Platform services. To read more about how PubMatic uses cookies or to opt out of PubMatic’s cookie usage, please visit: <a href="http://www.pubmatic.com/opt-out">http://www.pubmatic.com/opt-out</a> .</p>
-<h4>Relestar DSP Cookie</h4>
-<p class="privacy">Relevad Corp places a cookie on any machine accessing this site. For full details and privacy policy check <a href="https://relestar.com/adnetwork/privacy-policy/">here</a>. To opt out of this cookie tracking click <a href="https://relestar.com/accounts/optout/">here.</a></p>
+<h4>Relestar Cookie</h4>
+<p class="privacy">Relestar places a cookie on any machine accessing this site. For full details and privacy policy check <a href="https://relestar.com/adnetwork/privacy-policy/">here</a>. To opt out of this cookie tracking click <a href="https://relestar.com/accounts/optout/">here.</a></p>
 <h4>Google Adsense and the DoubleClick DART Cookie</h4>
 <p class="privacy">Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.</p>
 <p class="privacy">To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.</p>
 <p class="privacy">Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Stockinvestingbasics has no access or control over these cookies that may be used by third party advertisers.</p>
+<p><a name="adometry"></a></p>
+<h4>Adometry</h4>
+<p class="privacy">The publisher of Stock Investing Basics and <a href="http://www.adometry.com">Adometry</a> sometimes use pixels to determine user quality and to protect advertisers and web users from malicious users and low quality traffic. These pixels are only used to determine the quality of user for advertising purposes and any data that is captured is anonymous and proprietary to both the publisher and Adometry Inc.</p>
 <h4>Collection of Personal Information</h4>
 <p class="privacy">When visiting Stockinvestingbasics, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.</p>
 <h4>Links to third party Websites</h4>
 <p class="privacy">We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.</p>
 <h4>Changes to this Privacy Statement</h4>
 <p class="privacy">The contents of this statement may be altered at any time, at our discretion.</p>
-<p class="privacy">If you have any questions regarding the privacy policy of Stockinvestingbasics then you may <a title="contact us" href="http://stockinvestingbasics.net/contact-us">contact us</a> at <a href="mailto:info@relevad.com">info@relevad.com</a></p><div class="clear"></div>
+<p class="privacy">If you have any questions regarding the privacy policy of Stockinvestingbasics then you may <a title="contact us" href="http://stockinvestingbasics.net/contact-us/">contact us</a> using our <a href="http://www.stockinvestingbasics.net/contact-us">Contact Form</a>.</p><div class="clear"></div>
 </div>
 
 <div id="sidebar">
@@ -260,7 +335,7 @@ document.write('<iframe frameborder="0" marginwidth="0" marginheight="0" scrolli
 <ul id="sidebarwidgeted">
 <li class="widget">
 <div style="width:300px; height:250px; margin:auto;">
-<div style="width:300px; height:250px;" name="cswall" class="300x250atf">
+<div style="width:300px; height:250px;" class="cswall atf300x250">
 
 <script type="text/javascript">
 var partner = 'relevad';   
@@ -275,57 +350,62 @@ document.write('<iframe frameborder="0" marginwidth="0" marginheight="0" scrolli
 
 </div>
 </div>
+
+<div id="companionDiv"></div>
+<script type="text/javascript">
+video_callback(); //for use AFTER companion so that we have no complaints
+</script>
 </li>
 
-<li id="tag_cloud-2" class="widget widget_tag_cloud"><h4>Topics</h4><div class="tagcloud"><a href="http://stockinvestingbasics.net/tag/about" class="tag-link-630" title="10 topics" style="font-size: 9.2173913043478pt;">About</a>
-<a href="http://stockinvestingbasics.net/tag/advice" class="tag-link-605" title="10 topics" style="font-size: 9.2173913043478pt;">Advice</a>
-<a href="http://stockinvestingbasics.net/tag/basic" class="tag-link-560" title="21 topics" style="font-size: 11.826086956522pt;">Basic</a>
-<a href="http://stockinvestingbasics.net/tag/basics" class="tag-link-562" title="48 topics" style="font-size: 14.869565217391pt;">Basics</a>
-<a href="http://stockinvestingbasics.net/tag/beginners" class="tag-link-542" title="69 topics" style="font-size: 16.260869565217pt;">Beginners</a>
-<a href="http://stockinvestingbasics.net/tag/best" class="tag-link-595" title="12 topics" style="font-size: 9.8260869565217pt;">Best</a>
-<a href="http://stockinvestingbasics.net/tag/black" class="tag-link-935" title="17 topics" style="font-size: 11.130434782609pt;">Black</a>
-<a href="http://stockinvestingbasics.net/tag/canon" class="tag-link-939" title="12 topics" style="font-size: 9.8260869565217pt;">Canon</a>
-<a href="http://stockinvestingbasics.net/tag/cartridge" class="tag-link-937" title="18 topics" style="font-size: 11.304347826087pt;">Cartridge</a>
-<a href="http://stockinvestingbasics.net/tag/combo" class="tag-link-968" title="7 topics" style="font-size: 8pt;">Combo</a>
-<a href="http://stockinvestingbasics.net/tag/exchange" class="tag-link-553" title="7 topics" style="font-size: 8pt;">Exchange</a>
-<a href="http://stockinvestingbasics.net/tag/gold" class="tag-link-572" title="12 topics" style="font-size: 9.8260869565217pt;">Gold</a>
-<a href="http://stockinvestingbasics.net/tag/growth" class="tag-link-820" title="7 topics" style="font-size: 8pt;">Growth</a>
-<a href="http://stockinvestingbasics.net/tag/guide" class="tag-link-541" title="14 topics" style="font-size: 10.434782608696pt;">Guide</a>
-<a href="http://stockinvestingbasics.net/tag/invest" class="tag-link-632" title="32 topics" style="font-size: 13.391304347826pt;">Invest</a>
-<a href="http://stockinvestingbasics.net/tag/investing" class="tag-link-540" title="203 topics" style="font-size: 20.260869565217pt;">Investing</a>
-<a href="http://stockinvestingbasics.net/tag/investment" class="tag-link-545" title="77 topics" style="font-size: 16.608695652174pt;">Investment</a>
-<a href="http://stockinvestingbasics.net/tag/investments" class="tag-link-564" title="13 topics" style="font-size: 10.173913043478pt;">Investments</a>
-<a href="http://stockinvestingbasics.net/tag/investor" class="tag-link-667" title="10 topics" style="font-size: 9.2173913043478pt;">Investor</a>
-<a href="http://stockinvestingbasics.net/tag/know" class="tag-link-822" title="8 topics" style="font-size: 8.4347826086957pt;">Know</a>
-<a href="http://stockinvestingbasics.net/tag/learn" class="tag-link-684" title="11 topics" style="font-size: 9.5652173913043pt;">Learn</a>
-<a href="http://stockinvestingbasics.net/tag/market" class="tag-link-543" title="147 topics" style="font-size: 19.04347826087pt;">Market</a>
-<a href="http://stockinvestingbasics.net/tag/money" class="tag-link-626" title="15 topics" style="font-size: 10.608695652174pt;">Money</a>
-<a href="http://stockinvestingbasics.net/tag/mutual" class="tag-link-697" title="7 topics" style="font-size: 8pt;">Mutual</a>
-<a href="http://stockinvestingbasics.net/tag/online" class="tag-link-604" title="22 topics" style="font-size: 12pt;">Online</a>
-<a href="http://stockinvestingbasics.net/tag/option" class="tag-link-627" title="8 topics" style="font-size: 8.4347826086957pt;">Option</a>
-<a href="http://stockinvestingbasics.net/tag/options" class="tag-link-624" title="17 topics" style="font-size: 11.130434782609pt;">Options</a>
-<a href="http://stockinvestingbasics.net/tag/pack" class="tag-link-942" title="12 topics" style="font-size: 9.8260869565217pt;">Pack</a>
-<a href="http://stockinvestingbasics.net/tag/packaging" class="tag-link-946" title="8 topics" style="font-size: 8.4347826086957pt;">Packaging</a>
-<a href="http://stockinvestingbasics.net/tag/part" class="tag-link-620" title="10 topics" style="font-size: 9.2173913043478pt;">part</a>
-<a href="http://stockinvestingbasics.net/tag/penny" class="tag-link-598" title="34 topics" style="font-size: 13.565217391304pt;">Penny</a>
-<a href="http://stockinvestingbasics.net/tag/preferred" class="tag-link-547" title="14 topics" style="font-size: 10.434782608696pt;">Preferred</a>
-<a href="http://stockinvestingbasics.net/tag/retail" class="tag-link-945" title="8 topics" style="font-size: 8.4347826086957pt;">Retail</a>
-<a href="http://stockinvestingbasics.net/tag/reviews" class="tag-link-739" title="7 topics" style="font-size: 8pt;">Reviews</a>
-<a href="http://stockinvestingbasics.net/tag/short" class="tag-link-1087" title="7 topics" style="font-size: 8pt;">short</a>
-<a href="http://stockinvestingbasics.net/tag/should" class="tag-link-669" title="11 topics" style="font-size: 9.5652173913043pt;">should</a>
-<a href="http://stockinvestingbasics.net/tag/start" class="tag-link-552" title="24 topics" style="font-size: 12.347826086957pt;">Start</a>
-<a href="http://stockinvestingbasics.net/tag/stock" class="tag-link-539" title="319 topics" style="font-size: 22pt;">Stock</a>
-<a href="http://stockinvestingbasics.net/tag/stocks" class="tag-link-548" title="99 topics" style="font-size: 17.565217391304pt;">Stocks</a>
-<a href="http://stockinvestingbasics.net/tag/strategies" class="tag-link-599" title="15 topics" style="font-size: 10.608695652174pt;">Strategies</a>
-<a href="http://stockinvestingbasics.net/tag/strategy" class="tag-link-661" title="14 topics" style="font-size: 10.434782608696pt;">Strategy</a>
-<a href="http://stockinvestingbasics.net/tag/tips" class="tag-link-568" title="60 topics" style="font-size: 15.739130434783pt;">Tips</a>
-<a href="http://stockinvestingbasics.net/tag/trade" class="tag-link-610" title="7 topics" style="font-size: 8pt;">Trade</a>
-<a href="http://stockinvestingbasics.net/tag/trading" class="tag-link-565" title="76 topics" style="font-size: 16.608695652174pt;">Trading</a>
-<a href="http://stockinvestingbasics.net/tag/value" class="tag-link-680" title="13 topics" style="font-size: 10.173913043478pt;">Value</a></div>
+<li id="tag_cloud-2" class="widget widget_tag_cloud"><h4>Topics</h4><div class="tagcloud"><a href="http://stockinvestingbasics.net/tagger/about/" class="tag-link-630" title="10 topics" style="font-size: 9.2173913043478pt;">About</a>
+<a href="http://stockinvestingbasics.net/tagger/advice/" class="tag-link-605" title="10 topics" style="font-size: 9.2173913043478pt;">Advice</a>
+<a href="http://stockinvestingbasics.net/tagger/basic/" class="tag-link-560" title="21 topics" style="font-size: 11.826086956522pt;">Basic</a>
+<a href="http://stockinvestingbasics.net/tagger/basics/" class="tag-link-562" title="48 topics" style="font-size: 14.869565217391pt;">Basics</a>
+<a href="http://stockinvestingbasics.net/tagger/beginners/" class="tag-link-542" title="69 topics" style="font-size: 16.260869565217pt;">Beginners</a>
+<a href="http://stockinvestingbasics.net/tagger/best/" class="tag-link-595" title="12 topics" style="font-size: 9.8260869565217pt;">Best</a>
+<a href="http://stockinvestingbasics.net/tagger/black/" class="tag-link-935" title="17 topics" style="font-size: 11.130434782609pt;">Black</a>
+<a href="http://stockinvestingbasics.net/tagger/canon/" class="tag-link-939" title="12 topics" style="font-size: 9.8260869565217pt;">Canon</a>
+<a href="http://stockinvestingbasics.net/tagger/cartridge/" class="tag-link-937" title="18 topics" style="font-size: 11.304347826087pt;">Cartridge</a>
+<a href="http://stockinvestingbasics.net/tagger/combo/" class="tag-link-968" title="7 topics" style="font-size: 8pt;">Combo</a>
+<a href="http://stockinvestingbasics.net/tagger/exchange/" class="tag-link-553" title="7 topics" style="font-size: 8pt;">Exchange</a>
+<a href="http://stockinvestingbasics.net/tagger/gold/" class="tag-link-572" title="12 topics" style="font-size: 9.8260869565217pt;">Gold</a>
+<a href="http://stockinvestingbasics.net/tagger/growth/" class="tag-link-820" title="7 topics" style="font-size: 8pt;">Growth</a>
+<a href="http://stockinvestingbasics.net/tagger/guide/" class="tag-link-541" title="14 topics" style="font-size: 10.434782608696pt;">Guide</a>
+<a href="http://stockinvestingbasics.net/tagger/invest/" class="tag-link-632" title="32 topics" style="font-size: 13.391304347826pt;">Invest</a>
+<a href="http://stockinvestingbasics.net/tagger/investing/" class="tag-link-540" title="204 topics" style="font-size: 20.260869565217pt;">Investing</a>
+<a href="http://stockinvestingbasics.net/tagger/investment/" class="tag-link-545" title="77 topics" style="font-size: 16.608695652174pt;">Investment</a>
+<a href="http://stockinvestingbasics.net/tagger/investments/" class="tag-link-564" title="13 topics" style="font-size: 10.173913043478pt;">Investments</a>
+<a href="http://stockinvestingbasics.net/tagger/investor/" class="tag-link-667" title="10 topics" style="font-size: 9.2173913043478pt;">Investor</a>
+<a href="http://stockinvestingbasics.net/tagger/know/" class="tag-link-822" title="8 topics" style="font-size: 8.4347826086957pt;">Know</a>
+<a href="http://stockinvestingbasics.net/tagger/learn/" class="tag-link-684" title="11 topics" style="font-size: 9.5652173913043pt;">Learn</a>
+<a href="http://stockinvestingbasics.net/tagger/market/" class="tag-link-543" title="147 topics" style="font-size: 19.04347826087pt;">Market</a>
+<a href="http://stockinvestingbasics.net/tagger/money/" class="tag-link-626" title="15 topics" style="font-size: 10.608695652174pt;">Money</a>
+<a href="http://stockinvestingbasics.net/tagger/mutual/" class="tag-link-697" title="7 topics" style="font-size: 8pt;">Mutual</a>
+<a href="http://stockinvestingbasics.net/tagger/online/" class="tag-link-604" title="22 topics" style="font-size: 12pt;">Online</a>
+<a href="http://stockinvestingbasics.net/tagger/option/" class="tag-link-627" title="8 topics" style="font-size: 8.4347826086957pt;">Option</a>
+<a href="http://stockinvestingbasics.net/tagger/options/" class="tag-link-624" title="17 topics" style="font-size: 11.130434782609pt;">Options</a>
+<a href="http://stockinvestingbasics.net/tagger/pack/" class="tag-link-942" title="12 topics" style="font-size: 9.8260869565217pt;">Pack</a>
+<a href="http://stockinvestingbasics.net/tagger/packaging/" class="tag-link-946" title="8 topics" style="font-size: 8.4347826086957pt;">Packaging</a>
+<a href="http://stockinvestingbasics.net/tagger/part/" class="tag-link-620" title="10 topics" style="font-size: 9.2173913043478pt;">part</a>
+<a href="http://stockinvestingbasics.net/tagger/penny/" class="tag-link-598" title="34 topics" style="font-size: 13.565217391304pt;">Penny</a>
+<a href="http://stockinvestingbasics.net/tagger/preferred/" class="tag-link-547" title="14 topics" style="font-size: 10.434782608696pt;">Preferred</a>
+<a href="http://stockinvestingbasics.net/tagger/retail/" class="tag-link-945" title="8 topics" style="font-size: 8.4347826086957pt;">Retail</a>
+<a href="http://stockinvestingbasics.net/tagger/reviews/" class="tag-link-739" title="7 topics" style="font-size: 8pt;">Reviews</a>
+<a href="http://stockinvestingbasics.net/tagger/short/" class="tag-link-1087" title="7 topics" style="font-size: 8pt;">short</a>
+<a href="http://stockinvestingbasics.net/tagger/should/" class="tag-link-669" title="11 topics" style="font-size: 9.5652173913043pt;">should</a>
+<a href="http://stockinvestingbasics.net/tagger/start/" class="tag-link-552" title="24 topics" style="font-size: 12.347826086957pt;">Start</a>
+<a href="http://stockinvestingbasics.net/tagger/stock/" class="tag-link-539" title="319 topics" style="font-size: 22pt;">Stock</a>
+<a href="http://stockinvestingbasics.net/tagger/stocks/" class="tag-link-548" title="99 topics" style="font-size: 17.565217391304pt;">Stocks</a>
+<a href="http://stockinvestingbasics.net/tagger/strategies/" class="tag-link-599" title="15 topics" style="font-size: 10.608695652174pt;">Strategies</a>
+<a href="http://stockinvestingbasics.net/tagger/strategy/" class="tag-link-661" title="14 topics" style="font-size: 10.434782608696pt;">Strategy</a>
+<a href="http://stockinvestingbasics.net/tagger/tips/" class="tag-link-568" title="60 topics" style="font-size: 15.739130434783pt;">Tips</a>
+<a href="http://stockinvestingbasics.net/tagger/trade/" class="tag-link-610" title="7 topics" style="font-size: 8pt;">Trade</a>
+<a href="http://stockinvestingbasics.net/tagger/trading/" class="tag-link-565" title="76 topics" style="font-size: 16.608695652174pt;">Trading</a>
+<a href="http://stockinvestingbasics.net/tagger/value/" class="tag-link-680" title="13 topics" style="font-size: 10.173913043478pt;">Value</a></div>
 </li>
 <li id="execphp-2" class="widget widget_execphp">			
 			<div class="execphpwidget"><div style="width:300px; height:250px; margin:auto;">
-<div style="width:300px; height:250px;" name="cswall" class="300x250btf">
+<div style="width:300px; height:250px;" class="cswall btf300x250">
 
 <script type="text/javascript">
 var partner = 'relevad';   
@@ -343,10 +423,10 @@ document.write('<iframe frameborder="0" marginwidth="0" marginheight="0" scrolli
 </div>
 		</li>
 		<li id="recent-posts-2" class="widget widget_recent_entries">		<h4>Recent Posts</h4>		<ul>
-				<li><a href="http://stockinvestingbasics.net/lastest-stock-investing-basics-news" title="Lastest Stock Investing Basics News">Lastest Stock Investing Basics News</a></li>
-				<li><a href="http://stockinvestingbasics.net/why-you-should-know-about-yy-inc-ipo" title="Why You Should Know About YY Inc IPO">Why You Should Know About YY Inc IPO</a></li>
-				<li><a href="http://stockinvestingbasics.net/6-ipos-planned-for-this-week" title="6 IPOs Planned For This Week">6 IPOs Planned For This Week</a></li>
-				<li><a href="http://stockinvestingbasics.net/20-tips-to-become-a-better-investor" title="20 Tips to Become a Better Investor">20 Tips to Become a Better Investor</a></li>
+				<li><a href="http://stockinvestingbasics.net/post/a-little-bit-about-preferred-stock/" title="A Little Bit About Preferred Stock">A Little Bit About Preferred Stock</a></li>
+				<li><a href="http://stockinvestingbasics.net/post/dollar-cost-averaging/" title="Dollar Cost Averaging">Dollar Cost Averaging</a></li>
+				<li><a href="http://stockinvestingbasics.net/post/all-about-iras/" title="All About IRA’s">All About IRA’s</a></li>
+				<li><a href="http://stockinvestingbasics.net/post/index-funds-and-exchange-traded-funds/" title="Index Funds and Exchange Traded Funds">Index Funds and Exchange Traded Funds</a></li>
 				</ul>
 		</li>
 
@@ -363,7 +443,7 @@ document.write('<iframe frameborder="0" marginwidth="0" marginheight="0" scrolli
 
     <center>
         <div style="width:728px; height:90px; margin:auto;">
-<div style="width:728px; height:90px;" name="cswall" class="728x90btf">
+<div style="width:728px; height:90px;" class="cswall btf728x90">
 
 <script type="text/javascript">
 var partner = 'relevad';   
@@ -383,118 +463,163 @@ document.write('<iframe frameborder="0" marginwidth="0" marginheight="0" scrolli
 <div id="footer">
 <p style="text-align:left; font: 14px/30px arial,sans-serif; margin: 25px; padding: 15px;">Stock Investing Basics provides information for beginner investors. We provide tips and lessons on how to buy stocks, how to start investing, and about preferred stocks. Our goal is to inform our readers about the financial world. We feature videos and articles to help newcomers to the stock market get started.</p>
 <p style="font: 14px/30px arial,sans-serif; margin: 10px;">
-© 2012 <a href="http://www.stockinvestingbasics.net">StockInvestingBasics.net</a>  All rights reserved.
-&nbsp; &nbsp; &nbsp; <a href="http://www.stockinvestingbasics.net/privacy-policy/">Privacy Policy</a>
-&nbsp; &nbsp; &nbsp; <a href="http://www.stockinvestingbasics.net/contact-us/">Contact Us</a>
+© 2013 <a href="http://stockinvestingbasics.net">StockInvestingBasics.net</a>  All rights reserved.
+&nbsp; &nbsp; &nbsp; <a href="/privacy-policy/">Privacy Policy</a>
+&nbsp; &nbsp; &nbsp; <a href="/contact-us/">Contact Us</a>
+&nbsp; &nbsp; &nbsp; <a href="/privacy-policy/#adometry" rel="nofollow"><img src="/wp-content/themes/skywave/images/adometry-logo-sw.png" alt="Adometry" style="vertical-align:middle;"></a>
 </p>
 </div>
+<br>
 
 </div>
 
 
-<!--  START FOOTAR SPLITTER SECTION -->
+<!--  START LAYERED BANNER SPLITTER SECTION -->
 
-
-<script type="text/javascript">
-function passback()  {
-var piframe = document.getElementById('piframe');
-piframe.src = "http://"+ document.location.host +"/footar.html";
-piframe.style.display = "block";
-}
-</script>
 <iframe id="piframe" src="" style="display:none;position:fixed;bottom:0px;left:0px;width:100%;height:100px;background-color:transparent;z-index:100;" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 
-
-
 <script type="text/javascript">
-var val = valset(window.val_LB, 'FACR', 'R');
+var piframe = document.getElementById('piframe'),
+    LB_order,
+    repeat_pattern = ['reletar'], //LB_order -> (repeat_pattern)*
+    LB_idx = 0,
+    max_LB = 6,
+    repeater = false,
+    cqc = (document.cookie.indexOf('cqc=') >= 0) ? true : false;
+
+function setFrame(layeredBanner) { //LB_idx - ok to be started at #1
+   window.piframe.src = "http://" + document.location.host + "/" + layeredBanner + ".html?idx=" + window.LB_idx + "&rnd=" + (new Date()).getTime();
+   if (layeredBanner == 'cpx300x250') {
+      window.piframe.style.height="260px";
+      window.piframe.style.width="350px";
+   }
+   else {
+      window.piframe.style.height="100px";
+      window.piframe.style.width="100%"; //we could possibly shrink this, but would need to change the position from left 0 to center somehow
+   }
+}
+
+//var is_first_page = ( document.location.pathname == '/' ? true : false ); 
+if (!cqc) { var is_first_page = ( document.location.pathname == '/'); } //hope this is valid in all browsers
+
+//TODO:we want this ordering to be controllable by opperator
+var val = valset(val_LB, 'FRabcdefgXhijklmn', 'g');
+//if     (val == 'F' || !cqc) {
+if     (val == 'F') {   LB_order = ['footar','reletar','reletar'];}
+else if(val == 'R') {   LB_order = ['reletar', 'footar','reletar'];}
+else if(val == 'X') {   LB_order = ['reletar', 'cpx300x250'];}
+else if(val == 'a') {   LB_order = ['reletar', 'reletar', 'footar', 'reletar'];}
+else if(val == 'c') {   LB_order = ['reletar', 'footar', 'reletar'];}
+else if(val == 'e') {   LB_order = ['footar', 'reletar', 'reletar'];}
+else if(val == 'g') {   LB_order = ['reletar', 'reletar'];}
+else if(val == 'h') {   LB_order = ['reletar', 'cpx300x250', 'footar', 'reletar'];}
+else if(val == 'j') {   LB_order = ['cpx300x250', 'reletar', 'footar', 'reletar'];}
+// REPEATERS from here on
+else if(val == 'b') {
+   LB_order = ['reletar', 'reletar', 'footar'];//R-R-F-(R)*
+   repeater = true;
+}
+else if(val == 'd') {
+   LB_order = ['reletar', 'footar'];//R-F-(R)*
+   repeater = true;
+}
+else if(val == 'f') {
+   LB_order = ['footar'];//F-R-(R)*
+   repeater = true;
+}
+else if(val == 'i') {
+   LB_order = ['reletar', 'footar', 'reletar', 'footar'];//R-F-R-F-(R)*
+   repeater = true; 
+}
+else if(val == 'k') {
+   LB_order = ['reletar', 'cpx300x250', 'footar'];//R-C-F-(R-F)*
+   repeat_pattern = ['reletar', 'footar'];
+   repeater = true;
+}
+else if(val == 'l') {
+   LB_order = ['cpx300x250'];//C-(R-F)*
+   repeat_pattern = ['reletar', 'footar'];
+   repeater = true;
+}
+else if(val == 'm') {
+   LB_order = ['reletar', 'footar', 'cpx300x250'];//R-F-C-(R-F)*
+   repeat_pattern = ['reletar', 'footar'];
+   repeater = true;
+}
+else if(val == 'n') {
+   LB_order = ['reletar', 'cpx300x250'];//R-C-(R)*
+   repeat_pattern = ['reletar'];
+   repeater = true;
+}
+if (repeater) {
+   for (var i = LB_order.length; i < max_LB; i++) {
+      LB_order.push(repeat_pattern[LB_idx++ % repeat_pattern.length]); //repeat_pattern.length will always be 1+
+   }
+   LB_idx = 0;
+}
+/*else {
+   max_LB = LB_order.length;
+}*/
+
+//  rele_disable DNE    &&  not on first page
+if (!window.rele_disable && !is_first_page) {
+
+   setFrame(LB_order[LB_idx++]); //example 'footar', 0
+
+   piframe.style.display = "block";
+
+   if (cqc) {
+      //TODO:for increasing interval: http://stackoverflow.com/questions/1280263/changing-the-interval-of-setinterval-while-its-running
+      var time_interval = 20000; //20 sec
+
+      window.piframe_timer = setInterval(function() {
+         setFrame(LB_order[LB_idx++]);
+         if (LB_idx >= LB_order.length) { clearInterval(window.piframe_timer); }
+      }, time_interval);
+   }
+
+}
 </script>
+<!--  END LAYERED BANNER SPLITTER SECTION -->
 
 
 
 <script type="text/javascript">
-if(val != 'R'){document.write('<'+'!--');}
-else {document.write('<'+'script');}
-</script><script type="text/javascript">
-var rele_timeout = 15;
-var rele_doctype = true;
-var rele_timeout_cqc = 15;
-var rele_no_ad = true;
-//var rele_close_hook = function(){passback();};
-var rele_timeout_hook = function(){passback();};
-var rele_no_ad_hook = function(){passback();};
+if (window.skyscraper_atf) {
+  var tmp = (window.wtfldelay ? wtfldelay : 0);
 
-//rubicon flags and such
-var rp_account   = '9238';
-var rp_site      = '15982';
-var rp_zonesize  = '55608-2'; //stockinvestingbasics
-//var rp_zonesize  = '57328-2'; //small sites probably doesn't work for beanstock either
-var rp_adtype    = 'iframe';
-var rp_width     = '728';
-var rp_height    = '90';
-var rp_smartfile = '[SMART FILE URL]';
-
-document.write("<div id='rele_div'><div><div name='cswall'>");
-document.write("<scr"+"ipt type='text\/javascript' src='http:\/\/ads.rubiconproject.com\/ad\/9238.js'><\/scr"+"ipt>");
-document.write("<\/div><\/div><\/div><br/><br/><br/><br/><br/><br/>");
-document.write("<scr"+"ipt language='javascript' src='http:\/\/www.relestar.com\/static\/js\/rele_footer.js'><\/scr"+"ipt>");
-</script><div id="rele_div"><div><div name="cswall"><script type="text/javascript" src="http://ads.rubiconproject.com/ad/9238.js"></script></div></div></div><br><br><br><br><br><br><script language="javascript" src="http://www.relestar.com/static/js/rele_footer.js"></script>
-
-
-<script>
-//-->
+  setTimeout(skyscraper_atf, tmp);
+  setTimeout(box_atf, tmp);
+  setTimeout(box_btf, tmp);
+  setTimeout(leaderboard_atf, tmp);
+  setTimeout(leaderboard_btf, tmp);
+}
 </script>
-
-
-
-
-<script type="text/javascript" src="http://ads.footar.com/EAS_tag.1.0.js"></script> <!--this looks like common includes-->
-<script type="text/javascript">
-if(val != 'F'){document.write('<'+'!--');}
-else {document.write('<'+'script');}
-</script><!--
-
- type="text/javascript" src="http://ads.footar.com/eas?cu=14623;cre=mu;js=y;target=_blank"></script>
-
-<script>
-//-->
-
-
-
-<script type="text/javascript">
-//default banner house ad url 
-clicksor_default_url = '';
-clicksor_banner_border = '#A0D000'; clicksor_banner_ad_bg = '#FFFFFF';
-clicksor_banner_link_color = '#000000'; clicksor_banner_text_color = '#666666';
-clicksor_banner_image_banner = true; clicksor_banner_text_banner = true;
-clicksor_layer_border_color = '#A0D000';
-clicksor_layer_ad_bg = '#FFFFFF'; clicksor_layer_ad_link_color = '#000000';
-clicksor_layer_ad_text_color = '#666666'; clicksor_text_link_bg = '';
-clicksor_text_link_color = ''; clicksor_enable_text_link = false;
-</script>
-<script type="text/javascript">
-if(val != 'C'){document.write('<'+'!--');}
-else {document.write('<'+'script');}
-</script><!--
-
- type="text/javascript" src="http://ads.clicksor.com/newServing/showAd.php?nid=1&pid=200114&adtype=&sid=443836"></script>
-
-<script>
-//-->
-
-
-
-<!--  END FOOTAR SPLITTER SECTION -->
 
 
 
 <!-- cookie -->
 <script type="text/javascript">
-var date = new Date();
-document.write('<iframe src="http://relestar.com/ci?s=ARB&rnd=' + date.getTime() + '" style="width:0px;height:0px;display:none;position:absolute;overflow:hidden;" width="0" height="0" scrolling="no" frameborder="0"></iframe>');
-</script><iframe src="http://relestar.com/ci?s=ARB&amp;rnd=1580358567468" style="width:0px;height:0px;display:none;position:absolute;overflow:hidden;" width="0" height="0" scrolling="no" frameborder="0"></iframe>
-<iframe src="http://stockinvestingbasics.net/end.html" style="width:0px;height:0px;display:none;position:absolute;overflow:hidden;" width="0" height="0" scrolling="no" frameborder="0"></iframe>
+document.write('<iframe src="http://relestar.com/ci?s=ARB&rnd=' + (new Date()).getTime() + '" style="width:0px;height:0px;display:none;position:absolute;overflow:hidden;" width="0" height="0" scrolling="no" frameborder="0"></iframe>');
+</script><iframe src="http://relestar.com/ci?s=ARB&amp;rnd=1580358569984" style="width:0px;height:0px;display:none;position:absolute;overflow:hidden;" width="0" height="0" scrolling="no" frameborder="0"></iframe>
 
+<iframe src="/end.html" style="width:0px;height:0px;display:none;position:absolute;overflow:hidden;" width="0" height="0" scrolling="no" frameborder="0"></iframe>
+<embed style="height:0px;width:0px;" border="0" width="0" height="0" type="application/x-shockwave-flash" allowscriptaccess="always" pluginspage="http://www.macromedia.com/go/getflashplayer" src="/canary.swf?id=end">
+
+<!--PubMatic Universal Pixel tag (Javascript) http://www.ffog.net-->
+<script type="text/javascript"> 
+var pubId=29914;
+var pixId=121; 
+</script>
+<script src="http://ads.pubmatic.com/AdServer/js/universalpixel.js" type="text/javascript">
+</script>
+<!-- end cookie -->
+
+<br><br><br><br><br>
+
+<!-- start Vibrant Media IntelliTXT script section -->
+<script type="text/javascript" src="http://stockinvestingbasics.us.intellitxt.com/intellitxt/front.asp?ipid=50400"></script>
+<!-- end Vibrant Media IntelliTXT script section -->
 
 
 
