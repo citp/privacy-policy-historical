@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fafsa.gov privacy policy that was archived on 2012-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121029081035id_/http%3A//www.fafsa.ed.gov/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fafsa.gov privacy policy that was archived on 2013-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605101100id_/http%3A//www.fafsa.ed.gov/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -16,61 +16,87 @@
 <script type="text/javascript" src="/js/fsa.js"></script>
 <script type="text/javascript" src="/js/amessages.js"></script>
 <script type="text/javascript" src="/js/agen.js"></script>
-<script type="text/javascript" src="/js/agenindex.js"></script>
+<script type="text/javascript" src="/js/index/agenindex.js"></script>
 <script type="text/javascript" src="/js/webdemo.js"></script>
-<script type="text/javascript" src="/fotw1213/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/js/jQuery/jquery-1.4.2.min.js"></script>
 
 <script type="text/javascript">
-//<!--
-    AddWTInitTag();
+	//<!--
+	AddWTInitTag();
 //-->
 </script>
 
 <script type="text/javascript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
+//
+	function MM_swapImgRestore() { //v3.0
+		var i, x, a = document.MM_sr;
+		for (i = 0; a && i < a.length && (x = a[i]) && x.oSrc; i++)
+			x.src = x.oSrc;
+	}
+	function MM_preloadImages() { //v3.0
+		var d = document;
+		if (d.images) {
+			if (!d.MM_p)
+				d.MM_p = new Array();
+			var i, j = d.MM_p.length, a = MM_preloadImages.arguments;
+			for (i = 0; i < a.length; i++)
+				if (a[i].indexOf("#") != 0) {
+					d.MM_p[j] = new Image;
+					d.MM_p[j++].src = a[i];
+				}
+		}
+	}
 
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
+	function MM_findObj(n, d) { //v4.01
+		var p, i, x;
+		if (!d)
+			d = document;
+		if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
+			d = parent.frames[n.substring(p + 1)].document;
+			n = n.substring(0, p);
+		}
+		if (!(x = d[n]) && d.all)
+			x = d.all[n];
+		for (i = 0; !x && i < d.forms.length; i++)
+			x = d.forms[i][n];
+		for (i = 0; !x && d.layers && i < d.layers.length; i++)
+			x = MM_findObj(n, d.layers[i].document);
+		if (!x && d.getElementById)
+			x = d.getElementById(n);
+		return x;
+	}
 
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-//<![CDATA[
+	function MM_swapImage() { //v3.0
+		var i, j = 0, x, a = MM_swapImage.arguments;
+		document.MM_sr = new Array;
+		for (i = 0; i < (a.length - 2); i += 3)
+			if ((x = MM_findObj(a[i])) != null) {
+				document.MM_sr[j++] = x;
+				if (!x.oSrc)
+					x.oSrc = x.src;
+				x.src = a[i + 2];
+			}
+	}
 
 	jQuery.noConflict();
 	jQuery(document).ready(function($) {
 		hideCategoryDetails();
 
-		bindCategoryLink("genQuestionsLink","genQuestions");
-		bindCategoryLink("getStartedLink","getStarted");
-		bindCategoryLink("fedAidLink","fedAid");
-		bindCategoryLink("4casterLink","4caster");
-		bindCategoryLink("completeLink","complete");
-		bindCategoryLink("correctingLink","correcting");
-		bindCategoryLink("yourFafsaLink","yourFafsa");
-		bindCategoryLink("yourReportLink","yourReport");
-		bindCategoryLink("helpGovLink","helpGov");
-		bindCategoryLink("privacyLink","privacy");
+		bindCategoryLink("genQuestionsLink", "genQuestions");
+		bindCategoryLink("getStartedLink", "getStarted");
+		bindCategoryLink("fedAidLink", "fedAid");
+		bindCategoryLink("4casterLink", "4caster");
+		bindCategoryLink("completeLink", "complete");
+		bindCategoryLink("correctingLink", "correcting");
+		bindCategoryLink("yourFafsaLink", "yourFafsa");
+		bindCategoryLink("yourReportLink", "yourReport");
+		bindCategoryLink("helpGovLink", "helpGov");
+		bindCategoryLink("privacyLink", "privacy");
 
 	}); // end jQuery(document).ready
 
 	function bindCategoryLink(linkId, divId) {
-		jQuery("#"+linkId).click(function(e) {
+		jQuery("#" + linkId).click(function(e) {
 			showCategoryDetails(divId)
 			e.preventDefault();
 			var selectlink = document.getElementById(linkId);
@@ -79,327 +105,353 @@ function MM_swapImage() { //v3.0
 	}
 
 	function hideCategoryDetails() {
-		jQuery("#genQuestions,#getStarted,#fedAid,#4caster,#complete,#correcting,#yourFafsa,#yourReport,#helpGov,#privacy").hide();
+		jQuery(
+				"#genQuestions,#getStarted,#fedAid,#4caster,#complete,#correcting,#yourFafsa,#yourReport,#helpGov,#privacy")
+				.hide();
 	}
 
 	function showCategoryDetails(category) {
 		hideCategoryDetails();
-		jQuery("#"+category).show();
+		jQuery("#" + category).show();
 	}
-	
-//]]>
+
+	//
 </script>
 </head>
 
 <body onload="FixSearchBox()">
 
-<div id="container">
-	  	<div id="header">
+	<div id="container">
+		<div id="header">
 			<map name="logomap">
 				<area shape="rect" coords="0,0,1,50" href="#skiplinks" alt="Skip the navigation bars">
 			</map>
-			<img id="logo" usemap="#logomap" src="images/fsa_logo.gif" alt="U.S. Department of Education and Federal Student Aid logo (Proud Sponsor of the American Mind)">
-			<img id="title" src="images/fafsa_header.gif" alt="FAFSA: Free Application for Federal Student Aid">
+			<a href="index.htm" id="logo">
+				<img src="images/fsa_logo.gif" alt="U.S. Department of Education and Federal Student Aid logo (Proud Sponsor of the American Mind)">
+			</a>
+			<img id="title" usemap="#logomap" src="images/fafsa_header.gif" alt="FAFSA: Free Application for Federal Student Aid">
 		</div>
 
-  	
-  	<form action="" name="FAFSA" method="post">
-	<input type="hidden" name="numresults" value="10">
+
+		<form action="" name="FAFSA" method="post">
+				<input type="hidden" name="numresults" value="10">
 	<input type="hidden" name="requiredfields" value="searchType:STUDENT">
 
-  
-<div id="menuContainer">
 
-                        <div class="leftSide_top"></div>
-                        <div class="rightSide_top"></div>
-                        <div class="leftSide_mid">
-                            <div class="rightSide_mid">
-                                <div class="botGrad">
-                                    <ul class="topGrad">
-                                        <li>
-                                            <a href="index.htm">
-                                            	<span><img src="images/icon_home.gif" alt="Home"></span><strong>Home</strong>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="http://federalstudentaid.ed.gov/about/index.html" target="_blank">
-                                                <span><img src="images/icon_about_us.gif" alt="About Us"></span><strong>About Us</strong>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="http://www.pin.ed.gov/PINWebApp/pinindex.jsp" target="_blank">
-                                            	<span><img src="images/icon_pin_site.gif" alt="PIN Site"></span><strong>PIN Site</strong>
-                                            </a>
-                                        </li>                                        
-                                        <li>
-                                            <a href="http://studentaid.ed.gov" target="_blank" class="iconVar1">
-                                            	<span><img src="images/icon_student_aid.gif" alt="Student Aid on the Web"></span><strong>Student Aid <br>on the Web</strong>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="help.htm">
-                                            	<span><img src="images/icon_browse_help.gif" alt="Help"></span><strong>Help</strong>
-                                            </a>
-                                        </li>
-                                        <li id="search">
-                                            <div id="searchInputs">
-                                                <input type="text" name="q" maxlength="100" size="55" id="query" title="Enter search term" onkeypress="if(event.keyCode == 13){JavaScript:Search(); return false;}">
-                                                <button onclick="JavaScript:Search('nav');" id="searchRef">
-                                                    <img onmouseout="imgOut(this, 'off');" onmouseover="imgIn(this, 'off');" alt="Search" src="images/btn_search_wh.gif">
-                                                </button>
-                                            </div>                                     
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="leftSide_bot"></div>
-                        <div class="rightSide_bot"></div>
+			<div id="menuContainer">
 
+				<div class="leftSide_top"></div>
+				<div class="rightSide_top"></div>
+				<div class="leftSide_mid">
+					<div class="rightSide_mid">
+						<div class="botGrad">
+							<ul class="topGrad">
+								<li><a href="index.htm"> <span><img src="images/icon_home.gif" alt="Home">
+									</span><strong>Home</strong> </a></li>
+								<li><a href="http://studentaid.ed.gov/about" target="_blank"> <span><img src="images/icon_about_us.gif" alt="About Us">
+									</span><strong>About Us</strong> </a></li>
+								<li><a href="http://www.pin.ed.gov/PINWebApp/pinindex.jsp" target="_blank"> <span><img src="images/icon_pin_site.gif" alt="PIN Site">
+									</span><strong>PIN Site</strong> </a></li>
+								<li><a href="http://studentaid.ed.gov" target="_blank">
+										<span><img src="images/icon_student_aid.gif" alt="StudentAid.gov">
+									</span><strong>StudentAid.gov </strong> </a></li>
+								<li><a href="help.htm"> <span><img src="images/icon_browse_help.gif" alt="Help">
+									</span><strong>Help</strong> </a></li>
+								<li id="search">
+									<div id="searchInputs">
+										<input type="text" name="q" maxlength="100" size="55" id="query" title="Enter search term" onkeypress="if(event.keyCode == 13){JavaScript:Search(); return false;}">
+										<label for="query">
+                                        	<input type="image" id="searchRef" alt="Search" src="images/btn_search_wh.gif" onclick="JavaScript:Search('nav');" onmouseout="imgOut(this, 'off');" onmouseover="imgIn(this, 'off');">
+                                        </label>
+									</div></li>
+							</ul>
+						</div>
 					</div>
-<div id="mainContent">
-	<a name="skiplinks"></a>
-    <span class="formhead_left"></span>
-    <span class="formhead_right"></span>
-    <span class="formhead_mid">
-        <h3>Privacy &amp; Security Information</h3>
-    </span>
-    
-	<div class="copyBox">
-		<div id="copy">
+				</div>
+				<div class="leftSide_bot"></div>
+				<div class="rightSide_bot"></div>
+
+			</div>
+
+			<div id="mainContent">
+				<a name="skiplinks"></a> <span class="formhead_left"></span> <span class="formhead_right"></span> <span class="formhead_mid">
+					<h3>Privacy &amp; Security Information</h3> </span>
+
+				<div class="copyBox">
+					<div id="copy">
 
 
 
 
-<!-- BEGIN CONTENT AREA -->
-	<blockquote>
-  		<p><a href="#1">Privacy Act</a></p>
-		<p><a href="#2">Non-personal information we record</a></p>
-		<p><a href="#3">Security and Intrusion Detection</a></p>
-		<p><a href="#4">Information from e-mail you send us</a></p>
-		<p><a href="#5">Information collected if you complete a form on our Web sites</a></p>
-		<p><a href="#6">State Certification</a></p>
-		<p><a href="#7">Your rights under the Paperwork Reduction Act</a></p>
-		<p><a href="#8">More about privacy and your student aid records</a></p>
-		<p><a href="privacynotice.htm" target="_blank">Privacy Notice</a></p>
-		<p><a href="http://www2.ed.gov/notices/pia/index.html" target="_blank">Privacy Impact Assessment</a></p>
-     </blockquote> 
-<a name="1"></a><br>	
-	<p>&nbsp;</p>
-	<p><strong>Privacy Act</strong><br>
-	  <br>
-	  Thank you for visiting our Web site. Our privacy policy is simple: We collect
-	  no personal information about you unless you choose to provide that information
-	  to us. 
-	  </p>
-	<p>Below you will find information explaining how your information will 
-		be safeguarded.</p>
-	<p align="right"><a href="#container">Return to top</a></p>
+						<!-- BEGIN CONTENT AREA -->
+						<blockquote>
+							<p>
+								<a href="#1">Privacy Act</a>
+							</p>
+							<p>
+								<a href="#2">Non-personal information we record</a>
+							</p>
+							<p>
+								<a href="#3">Security and Intrusion Detection</a>
+							</p>
+							<p>
+								<a href="#4">Information from e-mail you send us</a>
+							</p>
+							<p>
+								<a href="#5">Information collected if you complete a form on
+									our Web sites</a>
+							</p>
+							<p>
+								<a href="#6">State Certification</a>
+							</p>
+							<p>
+								<a href="#7">Your rights under the Paperwork Reduction Act</a>
+							</p>
+							<p>
+								<a href="#8">More about privacy and your student aid records</a>
+							</p>
+							<p>
+								<a href="privacynotice.htm" target="_blank">Privacy Notice</a>
+							</p>
+							<p>
+								<a href="http://www2.ed.gov/notices/pia/index.html" target="_blank">Privacy Impact Assessment</a>
+							</p>
+						</blockquote>
+						<a name="1"></a><br>
+						<p>&nbsp;</p>
+						<p>
+							<strong>Privacy Act</strong><br> <br> Thank you for
+									visiting our Web site. Our privacy policy is simple: We collect
+									no personal information about you unless you choose to provide
+									that information to us. 
+						</p>
+						<p>Below you will find information explaining how your
+							information will be safeguarded.</p>
+						<p align="right">
+							<a href="#container">Return to top</a>
+						</p>
 
-<a name="2"></a>
-	<p><strong>Non-personal information we record </strong></p>
-	<p>If you do nothing during your visit but browse through the Web site, read
-		pages, or download information, our Web site's operating system will automatically
-		record some general information about your visit.
+						<a name="2"></a>
+						<p>
+							<strong>Non-personal information we record </strong>
+						</p>
+						<p>
+							If you do nothing during your visit but browse through the Web
+							site, read pages, or download information, our Web site's
+							operating system will automatically record some general
+							information about your visit.
+
+							</p><p>During your visit, our Web operating system will record:</p>
+
+							1. The<strong> Internet domain</strong> for your Internet
+							service, such as "xcompany.com" or "xcompany.net" if you use a
+							private Internet access &nbsp;&nbsp;&nbsp; account, or
+							"yourschool.edu" if you connect from a college or university
+							domain.<br> 2. The<strong> type of browser</strong> (such as
+							"Internet Explorer version X") that you are using.<br> 3. The<strong>
+								type of operating system </strong>that you use (such as Macintosh, UNIX,
+							or Windows).<br> 4. The <strong>date and time</strong> you
+							visit our site, and the Web pages that you visit on our site. <br>
+							5. The <strong>address of the previous Web site</strong> you were
+							visiting, if you linked to us from another Web site.<br> <br>
+							<p>We use this information for statistical analysis, to help
+								us make our site more useful to visitors. This tracking system
+								does not record information about individuals.</p>
+							<p align="right">
+								<a href="#container">Return to top</a>
+							</p>
+
+							<a name="3"></a>
+							<p>
+								<strong>Security and Intrusion Detection</strong><br> <br>
+								For security purposes and to make sure this service remains
+								available to all users, we use special software programs for
+								monitoring network traffic to identify unauthorized attempts to
+								upload or change information, or otherwise to cause damage to
+								this government computer system. These programs collect no
+								personally identifiable information, but they do collect
+								information that could help us identify someone attempting to
+								tamper with this Web site.
+							</p>
+							<p>Except for authorized law enforcement investigations, we
+								make no other attempts to identify individual users or their
+								usage habits. We only use raw monitoring data logs for
+								determining trends in usage patterns and in diagnosing system
+								problems.</p>
+							<p align="right">
+								<a href="#container">Return to top</a>
+							</p>
+							<a name="4"></a>
+							<p>
+								<strong>Information from e-mail you send us </strong><br><br>
+										If you decide to send us an electronic mail message (e-mail,
+										which includes information you send to Customer Service
+										regarding a problem or feedback you provide on a Customer
+										Survey), the message will usually contain your return e-mail
+										address. If you include personally identifying information in
+										your e-mail because you want us to address issues specific to
+										your situation, we may use that information in contacting
+										other federal agencies or our partners (such as schools,
+										lenders, or state agencies) in connection with your student
+										aid application or aid awards. In other limited circumstances,
+										including requests from Congress or other parties, we may be
+										required by law to disclose information that you submit. 
+							</p>
+							<p>Also, e-mail is not necessarily secure against
+								interception. If your communication is very sensitive, or
+								includes personal information such as data from your tax return
+								or student loan account, you may prefer to mail it by postal
+								mail to:</p>
+							<p align="center">
+								Federal Student Aid Information Center<br> P.O. Box 84<br>
+										Washington, D.C. 20044 
+							</p>
+							<p align="right">
+								<a href="#container">Return to top</a>
+							</p>
+							<a name="5"></a>
+							<p>
+								<strong>Information collected if you complete a form on
+									our Web sites </strong><br><br> On this Web site, we offer
+										interactive forms that allow you to apply for financial aid.
+										When you apply for federal student aid using one of these
+										forms, the Office of Federal Student Aid is authorized to
+										maintain a record of the transactions related to your
+										application. 
+							</p>
+							<p>Under the Higher Education Act of 1965, as amended we are
+								allowed to ask for the information on this form so that we can
+								determine whether you are eligible for aid, and, if so, how
+								much. We will share the information with other agencies, such as
+								the Social Security Administration, to verify the information
+								you put on the application. If you do not give us all of the
+								information we need to process your FAFSA, your aid may be
+								delayed or denied. For a complete description of the information
+								we must tell you under the Privacy Act (Your Privacy Act
+								Rights), click the Privacy Act link below.</p>
+							<p align="center">
+								<a href="JavaScript:Help('ffpriv00.htm', 'en_US');">Your
+									Privacy Act Rights</a>
+							</p>
+							<p align="right">
+								<a href="#container">Return to top</a>
+							</p>
+							<a name="6"></a>
+							<p>
+								<strong>State Certification </strong><br><br> When you
+										submit this application, you are automatically applying for
+										financial aid from your state of legal residence and, in some
+										cases, the state in which your school is located. You are
+										giving your state financial aid agency permission to verify
+										information on this form and to obtain income tax information
+										for all people who are required to report income on this form.
+								
+							</p>
+							<p align="right">
+								<a href="#container">Return to top</a>
+							</p>
+
+							<a name="7"></a>
+							<p>
+								<strong>Your rights under the Paperwork Reduction Act </strong><br><br>
+										According to the Paperwork Reduction Act of 1995, no persons
+										are required to respond to a collection of information unless
+										such collection displays a valid OMB control number, which for
+										this form is 1845-0001. Public reporting burden for this
+										collection of information is estimated to average 55 minutes
+										for applicants who use <i>FAFSA on the Web</i> to complete and
+										submit the application, an average of 45 minutes for an
+										applicant who has previously used 
+								<i>FAFSA on the Web</i> and completes a renewal FAFSA, and an
+								average of 10 minutes to make FAFSA corrections; these averages
+								include time for reviewing instructions, searching existing data
+								sources, gathering and maintaining the data needed, and
+								completing and reviewing the collection of information. The
+								obligation to respond to this collection is voluntary. Send
+								comments regarding the burden estimate or any other aspect of
+								this collection of information, including suggestions for
+								reducing this burden, to the Federal Student Aid Information
+								Center, P.O. Box 84, Washington, D.C. 20044.<br><br>
+
+										We may request additional information from you to process your
+										application more efficiently. We will collect this additional
+										information only as needed and on a voluntary basis.
+							</p>
+
+						<p></p>
+						<p align="right">
+							<a href="#container">Return to top</a>
+						</p>
+						<a name="8"></a>
+						<p>
+							<strong>More about privacy and your student aid records
+							</strong><br> <br> When you apply for federal student aid, the
+									Office of Federal Student Aid Programs is authorized to
+									maintain a record of the transactions related to your
+									application. 
+						</p>
+						<p>
+							<a target="_blank" href="/fotw1112/pdf/cps_sorn.pdf">Click
+								this link to review the System of Records notices</a>, which list
+							the authorized disclosures and the safeguards for the Office of
+							Federal Student Aid Program systems under the <a target="_blank" href="http://www.usdoj.gov/opcl/privstat.htm"> Privacy Act
+								of 1974, as amended</a>.
+						</p>
+						<p>
+							If you have authorized us to share your financial aid information
+							with state agencies or the schools that you are thinking of
+							attending, they will also store that information (often in
+							electronic form). State agencies and schools also collect other
+							information relating to financial aid payments, admission,
+							enrollment, etc. The privacy of these records is protected by the
+							<a target="_blank" href="http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html">
+								Family Educational Rights and Privacy Act</a>.
+						</p>
+						<p align="right">
+							<a href="#container">Return to top</a>
+						</p>
+						<br> <!-- END CONTENT AREA -->
+					</div>
+
+				</div>
+				<div id="bottombar">
+					<div class="sublinks_left">
+						<span class="formfoot_left"></span> <span class="formfoot_right"></span><span class="formfoot_mid"><a href="javascript:Help('ffpriv00.htm');"><img src="images/btn_needhelp_wh.gif" alt="Need Help?" class="needHelp" id="needhelp" onmouseover="imgIn(this, '');" onmouseout="imgOut(this, '');">
+						</a>
+						</span>
+					</div>
+				</div>
+			</div>
+			<div class="smallGreyText" id="datestamp">
+				Site Last Updated: Sunday, June 2, 2013
+
+				<span id="dateStampLinks">Download <a href="http://www.adobe.com/products/reader.html" target="_blank">Adobe Reader</a></span>
+			</div>
+
+			<div id="footer">
+				<ul class="foot_left">
+					<li><a href="http://www.ed.gov/policy/gen/leg/foia/foiatoc.html" target="_blank">FOIA</a>|</li>
+					<li><a href="privacy.htm" target="_blank">Privacy</a>|</li>
+					<li><a href="security.htm" target="_blank">Security</a>|</li>
+					<li><a href="security.htm" target="_blank">Notices</a></li>
+				</ul>
+
+				<ul class="foot_right">
+					<li><a href="http://www.whitehouse.gov" target="_blank">WhiteHouse.gov</a>|
+					</li>
+					<li><a href="http://www.usa.gov" target="_blank">USA.gov</a>|
+					</li>
+					<li><a href="http://www.ed.gov" target="_blank">ED.gov</a></li>
+				</ul>
+			</div>
+	</form></div>
 	
-	</p><p>During your visit, our Web operating system will record:</p>
-	
-		1. The<strong> Internet domain</strong> for your Internet service, such as 
-			"xcompany.com" or "xcompany.net" if you use a 
-			private Internet access &nbsp;&nbsp;&nbsp; account, or "yourschool.edu" if 
-			you connect from a college or university domain.<br>
-        2. The<strong> type of browser</strong> (such as "Internet Explorer version X") that you are using.<br>
-        3. The<strong> type of operating system </strong>that you use (such as 
-			Macintosh, UNIX, or Windows).<br>
-		4. The <strong>date and time</strong> you visit our site, and the Web pages 
-			that you visit on our site.	<br>
-		5. The <strong>address of the previous Web site</strong> you were visiting, if 
-			you linked to us from another Web site.<br>
-			<br>
-		  <p>We use this information for statistical analysis, to help us make our 
-			  site more useful to visitors. This tracking system does not record 
-			  information about individuals. 
-		  </p>
-<p align="right"><a href="#container">Return to top</a></p>
 
-<a name="3"></a>
-	<p><strong>Security and Intrusion Detection</strong><br>
-<br>
-		For security purposes and to make sure this service remains available 
-		to all users, we use special software programs for monitoring network 
-		traffic to identify unauthorized attempts to upload or change 
-		information, or otherwise to cause damage to this government computer 
-		system. These programs collect no personally identifiable information, 
-		but they do collect information that could help us identify someone 
-		attempting to tamper with this Web site. </p>
-	<p> Except for authorized law enforcement investigations, we make no other 
-		attempts to identify individual users or their usage habits. We only 
-		use raw monitoring data logs for determining trends in usage patterns 
-		and in diagnosing system problems. 
-	</p>
-<p align="right"><a href="#container">Return to top</a></p>
-<a name="4"></a>
-	<p><strong>Information from e-mail you send  us </strong><br><br>
-		If you decide to send us an electronic mail message (e-mail, which 
-		includes information you send to Customer Service regarding a problem 
-		or feedback you provide on a Customer Survey), the message will 
-		usually contain your return e-mail address. If you include 
-		personally identifying information in your e-mail because you want us 
-		to address issues specific to your situation, we may use that 
-		information in contacting other federal agencies or our partners (such 
-		as schools, lenders, or state agencies) in connection with your student
-		aid application or aid awards. In other limited circumstances, 
-		including requests from Congress or other parties, we may be required 
-		by law to disclose information that you submit.
-	</p>
-	<p>Also, e-mail is not necessarily secure against interception. If your 
-		communication is very sensitive, or includes personal information such 
-		as data from your tax return or student loan account, you may prefer 
-		to mail it by postal mail to:
-	</p>
-	<p align="center">   Federal Student Aid Information Center<br>
-		P.O. Box 84<br>
-		Washington, D.C.  20044 
-	</p>
-<p align="right"><a href="#container">Return to top</a></p>
-<a name="5"></a>
-	<p><strong>Information collected if you complete a form on our Web sites </strong><br><br>
-		On this Web site, we offer interactive forms that allow you to apply 
-		for financial aid. When you apply for federal student aid using one of 
-		these forms, the Office of Federal Student Aid is authorized to 
-		maintain a record of the transactions related to your application. 
-	</p>
-	<p>Under the Higher Education Act of 1965, as amended we are allowed to ask
-		for the information on this form so that we can determine whether you 
-		are eligible for aid, and, if so, how much. We will share the 
-		information with other agencies, such as the Social Security 
-		Administration, to verify the information you put on the application. 
-		If you do not give us all of the information we need to process your 
-		FAFSA, your aid may be delayed or denied. For a complete description 
-		of the information we must tell you under the Privacy Act (Your 
-		Privacy Act Rights), select the Privacy Act link below. 
-	</p>
-	<p align="center"><a href="JavaScript:Help('ffpriv00.htm', 'en_US');">Your Privacy 
-		Act Rights</a>
-	</p>
-<p align="right"><a href="#container">Return to top</a></p>
-<a name="6"></a>
-	<p><strong>State Certification </strong><br><br>
-		When you submit this application, you are automatically applying for 
-		financial aid from your state of legal residence and, in some cases, 
-		the state in which your school is located.  You are giving your state 
-		financial aid agency permission to verify information on this form and 
-		to obtain income tax information for all people who are required to 
-		report income on this form. 
-	</p>
-<p align="right"><a href="#container">Return to top</a></p>
-
-	<a name="7"></a>
-	 <p><strong>Your rights under the Paperwork Reduction Act </strong><br><br>
-	  Under the Paperwork Reduction Act of 1995, you are not required to
-	  complete a government form unless it displays a valid OMB control
-	  number. The valid OMB control number for the FAFSA application is
-	  1845-0001. Federal  Student Aid estimates that it will take an average of fifty-five minutes for applicants who use <i>FAFSA  on the Web</i> to complete and submit the application; an average of fifty minutes for an applicant who has previously used <i>FAFSA on the Web</i> and completes  a Renewal FAFSA; and an average of fifteen minutes to make FAFSA Corrections.&nbsp; Specifically, these estimated times include  time to: read instructions, gather information, complete the FAFSA, review the  answers, and make copies of output documents for future reference.
-	  If you have any comments regarding the accuracy of this time estimate or
-	  suggestions for improving this application, write to:	  </p>
-	<p align="center">
-	  Federal Student Aid Information Center<br>
-		P.O. Box 84<br>
-		Washington, D.C.  20044 
-	</p>
-<p align="right"><a href="#container">Return to top</a></p>
-<a name="8"></a>
-<p><strong>More about privacy and your student aid records </strong><br>
-    <br>
-    When you apply for Federal student aid, the Office of Federal Student Aid
-    Programs is authorized to maintain a record of the transactions related to
-    your application.
-    </p>
-	<p><a target="_blank" href="/fotw1112/pdf/cps_sorn.pdf">Select this link to review the 
-		System of Records notices</a>, which list the authorized disclosures 
-		and the safeguards for the Office of Federal Student Aid Program 
-		systems under the
-		<a target="_blank" href="http://www.usdoj.gov/opcl/privstat.htm">
-		Privacy Act of 1974, as amended</a>.
-	</p>
-	<p> If you have authorized us to share your financial aid information with 
-		state agencies or the schools that you are thinking of attending, they 
-		will also store that information (often in electronic form). State 
-		agencies and schools also collect other information relating to 
-		financial aid payments, admission, enrollment, etc. The privacy of 
-		these records is protected by the 
-		<a target="_blank" href="http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html">
-		Family Educational Rights and Privacy Act</a>. 
-	</p>
-<p align="right"><a href="#container">Return to top</a></p>
-	<br>
-  
-<!-- END CONTENT AREA -->
-
-</div>
-
-   </div>
-   <div id="bottombar">
-   <div class="sublinks_left"><span class="formfoot_left"></span>
-	<span class="formfoot_right"></span><span class="formfoot_mid"><a href="javascript:Help('ffpriv00.htm');"><img src="images/btn_needhelp_wh.gif" alt="Need Help?" class="needHelp" id="needhelp" onmouseover="imgIn(this, '');" onmouseout="imgOut(this, '');"></a></span></div>
-   </div>
-</div>
-         <div class="smallGreyText" id="datestamp">
-           Site Last Updated: Sunday, October 7, 2012
-<span id="dateStampLinks">Download <a href="http://www.adobe.com/products/reader.html" target="_blank">Adobe Reader</a></span>
-		</div>
-
-<div id="footer">
-	<ul class="foot_left">
-        <li>
-            <a href="http://www.ed.gov/policy/gen/leg/foia/foiatoc.html" target="_blank">FOIA</a>|
-        </li>
-        <li>
-            <a href="privacy.htm" target="_blank">Privacy</a>|
-        </li>
-        <li>
-            <a href="security.htm" target="_blank">Security</a>|
-        </li>
-        <li>
-            <a href="security.htm" target="_blank">Notices</a>
-        </li>
-	</ul>
-
-	<ul class="foot_right">
-    	<li>
-            <a href="http://www.whitehouse.gov" target="_blank">WhiteHouse.gov</a>|
-        </li>
-         <li>
-            <a href="http://www.usa.gov" target="_blank">USA.gov</a>|
-        </li>
-        <li>
-            <a href="http://www.ed.gov" target="_blank">ED.gov</a>
-        </li>
-	</ul>
-</div>  
-</form></div>
-
-
-<script type="text/javascript">
-//<!--
-    AddWTBaseTag();
-//-->
-</script>
-<script src="/webtrends_FAFSA.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-var _tag=new WebTrends();
-//]]>>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-_tag.dcsCollect();
-//]]>>
-</script>
-<noscript>
-<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsp8mg3h10000wkhcw35vmeg_3q5c/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;DCS.dcscfg=1&amp;WT.tv=8.6.2"/></div>
-</noscript>
-
+	<script type="text/javascript">
+		//<!--
+		AddWTBaseTag();
+	//-->
+	</script>
 
 
 </body></html>
