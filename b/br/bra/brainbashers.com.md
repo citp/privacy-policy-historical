@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainbashers.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228091103id_/http%3A//www.brainbashers.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainbashers.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605033619id_/http%3A//www.brainbashers.com/privacy.asp) for the most accurate reproduction.*
 
 # BrainBashers : Privacy
 
@@ -23,7 +23,7 @@ Any information submitted to us via the feedback form may be quoted to a third p
 
 We may also use this information to determine website user demographics or to contact you with information that we deem relevant to your enquiry. Unsolicited, unrelated emails will ever be sent.
 
-As part of the registration process we collect your name, email address and country. You email address will only be used to send an optional daily email and the occasional, optional, email containing news about BrainBashers or BrainBashers Games. You are under no obligation to enter your real details.
+As part of the registration process we collect your name, email address and country. Your email address will only be used to send an optional daily email and the occasional, optional, email containing news about BrainBashers or BrainBashers Games, and any emails required as part of the registration/confirmation process. You are under no obligation to enter your real details.
 
 The names, countries and answers of competition entrants may be posted to the website or public newsgroups at our discretion. Search engines may then index the site and your name appear in their listings. Entry into a contest indicates your permission to use your details in this way. Entry into a contest permits us to send a limited number of emails regarding the contest and related activities, including entry confirmation, contest results and reminders. Subscription to the Daily Gubbins gives us permission to send a daily email that contains, amongst other things, a puzzle, a Sudoku, a game link, and occasional extra items of interest.
 
