@@ -1,6 +1,32 @@
-> *The following text is extracted and transformed from the cityblis.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106021130id_/http%3A//www.cityblis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityblis.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605034919id_/http%3A//www.cityblis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cityblis
+
+## By invitation only
+
+### For our invited designer members
+
+* * *
+
+#### Are you a Unique Designer?
+
+Cityblis is an invitation only community for unique designers and artists. Membership in Cityblis allows you access to a host of exclusive benefits and privileges.
+
+#### Your designs showcased to the world
+
+As an exclusive member of Cityblis, designers receive invitations to fashion events, trade shows and access to international buyers and procurement houses. Through our partners we are able to publish stories across social networks and fashion magazines around the world.
+
+There are no costs, commissions or fees involved in joining Cityblis. Designers are only allowed to join Cityblis by invitation or recommendation. Before granting membership access, every new designer is screened to ensure Cityblis quality standards.
+
+To request exclusive membership, submit your website or look book to:
+
+[invitation@cityblis.com](mailto:invitation@cityblis.com)
+
+We look forward to hear from you and sharing your brand with fashion lovers everywhere.
+
+Sincerely  
+_**Amanda Davis**_  
+Head of Cityblis Community
 
 Our privacy policy sets out how we will use your information. Company will not disclose information about our customers to third parties except where it is part of providing a service to you - e.g. arranging for a product to be sent to you, carrying out credit and other security checks and for the purposes of anonymized customer research and profiling, to suggest stores and items on CityBlis based on your actions and the actions of other users on the site, or where we have your express permission to do so. We will not sell your personally identifiable information (name, address, e-mail address or credit card information) to any third party (excluding partners from whom you may have linked to our site) without your permission.
 
