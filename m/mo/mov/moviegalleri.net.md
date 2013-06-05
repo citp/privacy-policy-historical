@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviegalleri.net privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105211545id_/http%3A//moviegalleri.net/privacy-policy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviegalleri.net privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606003011id_/http%3A//moviegalleri.net/privacy-policy-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer | New Movie Posters
 
@@ -13,16 +13,16 @@ To find more, read Google’s privacy policy, Yahoo’s privacy policy and the p
 
 The ads from this site are served by Google AdSense, a third-party service that shows contextually-targeted ads, placement-targeted ads and interested-based ads. Google uses the DoubleClick DART cookie to serve ads based on the sites you have recently visited. You can go to the Google Ads Preferences page to opt out of the DoubleClick cookie.
 
-**Contact Information**  
+ **Contact Information**  
 If you have any questions or concerns please contact - _admin@moviegalleri.net_  
 This privacy policy updated March 2012.
 
-**Disclaimer**
+ **Disclaimer**
 
 Some images contained in moviegalleri.net have been obtained from various internet sources. The copyright of these pictures belongs to their original publisher / photographer. Please let us know at if any Copyright Violation occurs and we will remove them right away. If by anyhow any of the content is offensive to you, please, contact us asking for the removal. If you own copyrights over any of them and do not agree with it being shown here, please send us an email with ownership proof and we will remove it. email us at  _admin@moviegalleri.net_
 
 Any links provided or advertisements displayed on our site are for informational purposes only and we are not responsible for any damages or consequences. However, if you find any unsuitable link / advertisement, then please contact us giving detail of such links etc.
 
-_Webmaster_
+ _Webmaster_
 
-__**moviegalleri.net**
+ __**moviegalleri.net**
