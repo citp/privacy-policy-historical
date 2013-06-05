@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infospaceinc.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217050202id_/http%3A//blucora.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infospaceinc.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605194051id_/http%3A//blucora.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -123,7 +123,7 @@ VIA MAIL:
 
         Legal Department, Attn: Privacy Officer
 
-        601 108th Avenue NE, Suite 1200
+        10900 NE 8th Street, Suite 800
 
         Bellevue, Washington 98004 USA
 
