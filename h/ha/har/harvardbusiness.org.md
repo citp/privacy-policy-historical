@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the harvardbusiness.org privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223180418id_/http%3A//harvardbusinesspublishing.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harvardbusiness.org privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605042634id_/http%3A//www.harvardbusiness.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - About - Harvard Business Publishing
+# Privacy Policy | Harvard Business Publishing
 
 Questions regarding this statement should be directed via email to [webfeedback@hbsp.harvard.edu](mailto:webfeedback@hbsp.harvard.edu).
 
 Harvard Business Publishing has adopted a set of information management guidelines which serve as the basis for our customer relationships. These guidelines have been developed with the recognition that Internet technologies are evolving, and that underlying business models are still not established. Accordingly, guidelines are subject to change. Any such changes will be posted on this page.
 
- **What We Do**
+**What We Do**
 
 Harvard Business Publishing requires that you supply the following information during the ordering and subscribing process and in our registration process for special services such as samples area access and our email newsletter services:
 
@@ -34,26 +34,26 @@ In addition, Harvard Business Publishing may employ HTTP "cookies":
 
 
 
- **What We Don’t Do**
+**What We Don’t Do**
 
   * If you have registered on one of our sites, Harvard Business Publishing will not sell, rent, swap, or authorize any third party to use your email address or any information that personally identifies you without your affirmative permission.
   * We will not link IP addresses to any personally identifiable information.
 
 
 
- **Online Subscriptions**
+**Online Subscriptions**
 
   * Harvard Business Review online access/subscriptions are purchased for individual use only and login information should not be shared. HBR reserves the right to block online access to any accounts that are found to be in violation of this policy.
 
 
 
- **Print Subscription List Usage**
+**Print Subscription List Usage**
 
-  * If you are a print subscriber to _Harvard Business Review_ or _Balanced Scorecard_ , we will make your name and mailing address (but not your email address) available to organizations that promote products that we believe are of interest to our subscribers.
-  * If you prefer that we do not share this information, please [contact Customer Service](https://web.archive.org/contact/customer-service). You will be removed from the active list immediately, but you may still receive a few mailings.
+  * If you are a print subscriber to Harvard Business Review or Balanced Scorecard, we will make your name and mailing address (but not your email address) available to organizations that promote products that we believe are of interest to our subscribers.
+  * If you prefer that we do not share this information, please [contact Customer Service](mailto:custserv@hbsp.harvard.edu). You will be removed from the active list immediately, but you may still receive a few mailings.
 
 
 
-Upon request, Harvard Business Publishing will remove any subscriber (and his or her personal information) from our email newsletter lists. Please [contact Customer Service](https://web.archive.org/contact/customer-service) with all such requests.
+Upon request, Harvard Business Publishing will remove any subscriber (and his or her personal information) from our email newsletter lists. Please [contact Customer Service](mailto:custserv@hbsp.harvard.edu) with all such requests.
 
 Harvard Business Publishing is not responsible for the content or policies of other websites.
