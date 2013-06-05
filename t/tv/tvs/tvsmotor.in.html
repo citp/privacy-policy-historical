@@ -1,0 +1,932 @@
+<!--The following is the downloaded HTML source of the tvsmotor.in privacy policy that was archived on 2013-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605113030id_/http%3A//www.tvsmotor.in/privacy-policy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>TVS group,  TVS and Sons, TVS Sundaram Iyengar and Sons Limited</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Content-Language" content="en"><meta content="index,follow" name="Robots">
+<meta content="7 days" name="revisit-after">
+<meta content="tvs group,  TVS and Sons , TV Sundram Iyengar and Sons Limited" name="Keywords">
+<meta content="The TVS Group was established in 1911 by Shri. T V Sundaram Iyengar. As one of India's largest industrial entities it epitomizes Trust, Value and Service." name="Description">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="css/layout.css">
+<link rel="stylesheet" href="css/menu.css">
+<link rel="stylesheet" href="css/corporate-inner.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="js/menu.js"></script>	
+<style>
+		.loginclass { BORDER-RIGHT: #eedee2 1px outset; BORDER-TOP: #eedee2 1px outset; FONT-SIZE: 10px; BORDER-LEFT: #eedee2 1px outset; WIDTH: 125px; COLOR: #000000; BORDER-BOTTOM: #eedee2 1px outset; FONT-FAMILY: Verdana; HEIGHT: 14px }
+</style>
+</head>
+
+<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0">
+<!-- start GA Code -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-11560841-16']);
+_gaq.push(['_setDomainName', 'tvsmotor.in']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- End GA Code -->
+	<script type="text/javascript">
+	        <!--
+	        var cgrow = true;
+	        //-->
+
+var http = false;
+if(navigator.appName == "Microsoft Internet Explorer") 
+{
+  http = new ActiveXObject("Microsoft.XMLHTTP");
+} 
+else 
+{
+  http = new XMLHttpRequest();
+}
+	
+</script>
+<script language="javascript">
+function doValidate()
+	{
+		var frmName = document.frmContact
+		var Name =  frmName.tbName.value;
+		var Model=frmName.ddModel.options[frmName.ddModel.selectedIndex].value;
+		var Email = frmName.tbMail.value;
+		var Phone = frmName.tbPhone.value;
+		var City = frmName.tbCity.value;
+				
+		var cb1=document.frmContact.cbBuy.checked;
+		var cb2=document.frmContact.cbTest.checked;
+		var cb3=document.frmContact.cbFinance.checked;
+		
+		if (cb1)
+		{
+			var xxx="T"
+		}
+		else
+		{
+			var xxx="F"
+		}
+		
+		if (cb2)
+		{
+			var yyy="T"
+		}
+		else
+		{
+			var yyy="F"
+		}
+		
+		if (cb3)
+		{
+			var ZZZ="T"
+		}
+		else
+		{
+			var ZZZ="F"
+		}
+		
+		if (xxx=='F' && yyy=='F' && ZZZ=='F')		
+		{
+			alert("Please select Buy or Testride or Finance")
+			return false;
+		}
+			
+		
+		if (Name == "")
+		{
+			alert ("Enter your name");
+			frmName.tbName.focus();
+			frmName.tbName.select();
+			return false;
+		}
+		if (Email =="")
+		{
+			alert("Enter your email address");
+			frmName.tbMail.focus();
+			frmName.tbMail.select();
+			return false;
+		}
+		if (Email .search(/^\w+((-\w+)|(\.\w+))*\@[A-Za-z0-9]+((\.|-)[A-Za-z0-9]+)*\.[A-Za-z0-9]+$/) == -1)
+        {
+    	alert("Enter a valid email address")
+    	frmName.tbMail.focus();
+		frmName.tbMail.select();
+	   	return false;
+        }
+		if (City =="")
+		{
+			alert("Enter your City");
+			frmName.tbCity.focus();
+			frmName.tbCity.select();
+			return false;
+		}
+		
+		if (Model== 0)
+		{
+		alert("Select Model");
+		return false;
+		}
+		if (Phone =="")
+		{
+			alert("Enter your phone number");
+			frmName.tbPhone.focus();
+			frmName.tbPhone.select();
+			return false;
+		}
+		if (Phone != "")
+		{
+			 var valid="0123456789-()+";
+				for(i=0;i<Phone.length;i++)
+				{
+					if(valid.indexOf(Phone.charAt(i))==-1)
+					{	
+						alert("Please enter numbers and - + ( ) characters only");
+						frmName.tbPhone.focus();
+						frmName.tbPhone.select();
+						return false;
+						break;
+					}
+				}				
+		}
+
+
+	//	alert('contacthandler.asp?id='+Math.random()+'&name='+Name+'&email='+Email+'&phone='+Phone+'&city='+City+'&cb1='+cb1+'&cb2='+cb2+'&Model='+Model);
+		http.open('GET','buystesthandler.asp?id='+Math.random()+'&name='+Name+'&email='+Email+'&phone='+Phone+'&city='+City+'&cb1='+cb1+'&cb2='+cb2+'&cb3='+cb3+'&Model='+Model);
+		http.onreadystatechange = function()
+     	{
+      		if(http.readyState == 4)
+			{
+      		// start form tracking code
+      		
+      		_gaq.push(["_trackPageview", "/testride?"+"Buy="+cb1+"&TestRide="+cb2+"&Finance="+cb3+"&Model="+Model+"&City="+City]);
+			_gaq.push(["_trackEvent", "Test Ride", "Submit"]);
+			
+			// end form tracking code
+      		
+      		document.getElementById('dvNewsletter').innerHTML = http.responseText;
+			}
+     	};
+    	http.send(null);
+    	return false;
+    	
+		
+	}
+</script>
+
+
+	<script type="text/javascript" src="js/chrome.js"></script>
+
+	
+<link rel="stylesheet" type="text/css" href="css/chromestyle.css?id=1">
+
+
+	
+
+
+<div style="z-index:100;width:822px;height:80px;margin-left:auto;margin-right:auto; ">
+<div class="tvsLogoTvs"><a href="http://www.tvsmotor.in/index.asp"><img border="0" src="images/tvs-logo-new.jpg" alt="TVS Motor Company" title="TVS Motor Company"></a></div>
+    <div class="tvsTopLink">
+    <a href="/" title="TVS Motor Company">home</a>&nbsp; | &nbsp;<a href="dealer-locator-gmap.asp" title="TVS Motor Company network">our network</a> &nbsp;| &nbsp;<a href="contactus.asp" title="Contact Us">contact us</a> &nbsp;| &nbsp;<a href="https://www.careers.tvsmotor.co.in/" target="_blank" title="Careers">careers</a> &nbsp;| &nbsp;<a href="sitemap.asp" title="Site map">site map</a> &nbsp;&nbsp; Toll free number : 18004252077
+    </div>
+    <div class="tvsMenu">
+    <div class="chromestyle" id="chromemenu">
+			<table border="0" id="tblMenu" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td style="width:70px;"><!--<img border="0" src="images/corp-horse-logo.jpg" width="48" height="18" alt="TVS Motor Logo - Horse">--></td>
+					<td><a href="#" rel="dropmenu1">Products </a></td>
+					<td valign="bottom">|</td>
+					<td><a href="#" rel="dropmenu3">Corporate </a></td>
+					<td valign="bottom">|</td>
+					<td><a href="#" rel="dropmenu2">Buy / Testride </a></td>
+					<td valign="bottom">|</td>
+					<td><a href="racing.asp" rel="dropmenu5">Racing </a></td>
+					<td valign="bottom">|</td>
+					<td><a href="global.asp">Exports</a></td>
+					<td valign="bottom">|</td>
+					<td><a href="media.asp" rel="dropmenu7">Media </a></td>
+					<td valign="bottom">|</td>
+					<td><a href="investor.asp" rel="dropmenu8">Investor </a></td>
+					<td valign="bottom">|</td>
+					<td><a href="xpress-service.asp" rel="dropmenu9">Service </a></td>
+				</tr>
+			</tbody></table>
+			<div id="dropmenu0"></div>
+			<div id="dropmenu1" class="dropmenudiv" style="width:768px;position:absolute;margin-left:-73px;">
+				<table cellpadding="0" cellspacing="0" width="350" border="0" height="220">
+							<tbody><tr>
+								<td width="336" background="images/shadow_center.gif" valign="top">
+								<table border="0" width="768" cellspacing="0" cellpadding="0" id="table1" background="images/menu-bg.gif">
+									<tbody><tr>
+										<td width="768">
+											<table id="Table2" width="768" height="450" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td>
+			<img src="images/products-dropdown_01.jpg" width="768" height="29" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<map name="FPMap20">
+			<area target="_blank" href="http://www.tvsphoenix.com/" shape="rect" coords="123, 12, 217, 73">
+			<area href="http://www.tvsflame.com/flame-ds-125.html" target="_blank" shape="rect" coords="233, 12, 324, 73">
+			<area target="_blank" href="http://www.tvsjive.com" shape="rect" coords="449, 7, 542, 72">
+			<area href="http://www.tvsmax4r.com/" target="_blank" shape="rect" coords="555, 6, 650, 73">
+			<area href="http://www.tvsstarcity.com/home.html" target="_blank" shape="rect" coords="662, 9, 755, 73">
+			<area target="_blank" href="http://www.tvsmotor.in/flame.asp" shape="rect" coords="335, 12, 433, 73">
+			<area target="_blank" href="http://www.tvsapache.com/" shape="rect" coords="14, 12, 108, 73">
+			</map>
+			<img src="../images/products-dropdown_02.jpg" width="768" height="74" alt="" usemap="#FPMap20" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<map name="FPMap1">
+			<area href="http://www.scootygals.com/streak/home.html" target="_blank" shape="rect" coords="237, 3, 315, 69">
+			<area href="http://www.scootygals.com/pep/www/2011/en/index.html" target="_blank" shape="rect" coords="344, 6, 423, 70">
+			<area target="_blank" href="http://www.tvssport.com/home.html" shape="rect" coords="20, 3, 100, 69">
+			<area target="_blank" href="http://www.tvswego.com/" shape="rect" coords="125, 2, 207, 70">
+			</map>
+			<img src="../images/products-dropdown_03.jpg" width="768" height="71" alt="" usemap="#FPMap1" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/products-dropdown_04.jpg" width="768" height="29" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<map name="FPMap2">
+			<area href="king-international.asp" shape="rect" coords="14, 2, 125, 67">
+			<area href="king.asp" shape="rect" coords="139, 0, 238, 67">
+			</map>
+			<img src="images/products-dropdown_05.jpg" width="768" height="68" alt="" usemap="#FPMap2" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/products-dropdown_06.jpg" width="768" height="29" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			
+			<map name="FPMap5">
+			<area href="star-lx-alloy.asp" shape="rect" coords="662, 1, 752, 67">
+			<area href="star-sport.asp" shape="rect" coords="560, 0, 642, 67">
+			<area href="apache-150.asp" shape="rect" coords="442, 1, 536, 67">
+			<area href="apache-160.asp" shape="rect" coords="338, 1, 424, 67">
+			<area href="rockz.asp" shape="rect" coords="119, 0, 209, 65">
+			<area href="neo.asp" shape="rect" coords="5, 4, 104, 67">
+			<area href="tormax-150.asp" shape="rect" coords="231, 0, 316, 67">
+			</map>
+			
+			<img src="images/products-dropdown_07-d.jpg" width="768" height="68" alt="" usemap="#FPMap5" border="0"></td>
+	</tr>
+	<tr>
+		<td><map name="FPMap4">
+		<area href="scooty-streak.asp" shape="rect" coords="337, 3, 446, 77">
+		<area href="scooty-pep.asp" shape="rect" coords="448, 5, 543, 76">
+		<area href="xl-hd.asp" shape="rect" coords="553, 9, 660, 81">
+		<area href="xl-super.asp" shape="rect" coords="665, 6, 763, 81">
+		<area href="max-100.asp" shape="rect" coords="232, 6, 334, 75">
+		<area href="victor-glx.asp" shape="rect" coords="11, 13, 111, 81">
+		<area href="victor-gx.asp" shape="rect" coords="125, 7, 220, 77">
+		</map>
+		<img src="images/products-dropdown_08-d.jpg" width="768" height="82" alt="" usemap="#FPMap4" border="0"></td>
+	</tr>
+</tbody></table>
+
+										</td>
+									</tr>
+								</tbody></table>
+								</td>
+							</tr>							
+						</tbody></table>
+			</div>
+			
+			<div id="dropmenu2" class="dropmenudiv" style="width: 350px;">
+			<table cellpadding="0" cellspacing="0" width="350" border="0" height="220">
+								<tbody><tr>
+									<td width="336" background="images/shadow_center.gif" valign="top">
+									<table border="0" width="336" cellspacing="0" cellpadding="0" id="table4">
+										<tbody><tr>
+											<td width="336">
+											<form name="frmContact" method="post">
+
+												<span id="dvNewsletter">
+												<table class="commontable" style="padding:0px;width:336;">
+													<tbody><tr>
+														<td style="width:150px" height="1"></td>
+														<td style="width:20px" rowspan="9">&nbsp;</td>
+														<td style="width:150px" height="1"></td>
+													</tr>
+													<tr>
+														<td colspan="3">
+															<table width="100%" border="0" cellpadding="0" cellspacing="0">
+																<tbody><tr>
+																	<td style="width:77px"><input type="checkbox" name="cbBuy"><font class="bluehead">Buy</font></td>
+																	<td style="width:142px"><input type="checkbox" name="cbTest"><font class="bluehead">Take Test Ride</font> </td>
+																	<td style="width:112px"><input type="checkbox" name="cbFinance"><font class="bluehead">Finance Option</font> </td>
+																</tr>
+															</tbody></table>
+														</td>
+													</tr>
+													<tr>
+														<td style="width:150px">Name</td>
+														<td style="width:150px">City</td>
+													</tr>
+													<tr>
+														<td><input type="text" class="textboxes" name="tbName" size="20"></td>
+														<td><input type="text" class="textboxes" name="tbCity" size="18"></td>
+													</tr>
+													<tr>
+														<td height="5"></td>
+														<td height="5"></td>
+													</tr>
+													<tr>
+														<td>Select a Model</td>
+														<td>Phone</td>
+													</tr>
+													<tr>
+														<td>
+														<p align="right"><select size="1" name="ddModel" style="width: 153px">
+														<option value="0">Selet a Model</option>
+														<option value="TVS Scooty Pep +">TVS Scooty Pep +</option>
+														<option value="TVS Scooty Streak">TVS Scooty Streak</option>
+														<option value="TVS Phoenix">TVS Phoenix</option>
+														<option value="TVS Apache">TVS Apache</option>
+														<option value="TVS Jive">TVS Jive</option>
+														<option value="TVS Star City">TVS Star City</option>
+														<option value="TVS Wego">TVS Wego</option>
+														<option value="TVS Sport">TVS Sport</option>
+														<option value="TVS Flame">TVS Flame</option>
+														<option value="TVS Moped">TVS Moped</option>
+														</select></p>
+														</td>
+														<td><input type="text" class="textboxes" name="tbPhone" size="18"></td>
+													</tr>
+													<tr>
+														<td valign="top">Email</td>
+														<td>&nbsp;</td>
+													</tr>
+													<tr>
+														<td valign="top"><span id="dvNewsletter0">
+														<input type="text" class="textboxes" name="tbMail" size="20"></span></td>
+														<td>
+														<img border="0" onclick="doValidate();" src="images/submit.gif" alt=""></td>
+													</tr>
+												</tbody></table></span>
+												
+											</form>
+											</td>
+										</tr>
+									</tbody></table>
+									</td>
+								</tr>
+							</tbody></table>
+			</div>
+			
+			<div id="dropmenu3" class="dropmenudiv" style="width: 120px;" align="left">
+			<table cellpadding="0" cellspacing="0" width="120" border="0" height="70" background="images/menu-bg.gif">
+							<tbody><tr>
+								<td>
+									<table border="0" bgcolor="#ffffff" cellpadding="0" cellspacing="0" width="120">
+											<tbody><tr>
+												<td align="left"><a href="tvsbrief.asp" class="newlink">TVS in Brief</a></td>
+											</tr>
+											<tr>
+												<td align="left"><a href="mission.asp" class="newlink">Mission &amp; Vision</a></td>
+											</tr>
+											<tr>
+												<td align="left"><a href="leader-ship.asp" class="newlink">Leadership</a></td>
+											</tr>
+											<tr>
+												<td align="left"><a href="heritage.asp" class="newlink">Heritage</a></td>
+											</tr>
+											<tr>
+												<td align="left"><a href="milestones.asp" class="newlink">Milestones</a></td>
+											</tr>
+											<tr>
+												<td align="left"><a href="tvs-rd.asp" class="newlink">R&amp;D</a></td>
+											</tr>
+											<tr>
+												<td align="left"><a href="Technodynamism.asp" class="newlink">Technodynamism</a></td>
+											</tr>
+											<tr>
+												<td align="left"><a href="excellence.asp" class="newlink">Excellence</a></td>
+											</tr>
+									</tbody></table>
+								</td>
+								
+							</tr>							
+						</tbody></table>
+			</div>	
+		<div id="dropmenu4"></div>
+		<div id="dropmenu5" class="dropmenudiv" style="width: 120px;">
+	<table border="0" bgcolor="#ffffff" cellpadding="0" cellspacing="0" width="120" background="images/menu-bg.gif">
+	<tbody><tr>
+		<td align="left"><a href="racing-tvs-racing.asp" class="newlink">TVS Racing</a></td>
+	</tr>
+	<tr>
+		<td align="left"><a href="racing-team.asp" class="newlink">The Team</a></td>
+	</tr>
+	<tr>
+		<td align="left"><a href="racing-garage.asp" class="newlink">The Garage</a></td>
+	</tr>
+	<tr>
+		<td align="left"><a href="racing-schedule.asp" class="newlink">Schedule of Events</a></td>
+	</tr>
+	<tr>
+		<td align="left"><a href="event-results.asp" class="newlink">Event Results</a></td>
+	</tr>
+	</tbody></table>
+		</div>
+	<div id="dropmenu7" class="dropmenudiv" style="width: 110px;">
+<table border="0" bgcolor="#ffffff" cellpadding="0" cellspacing="0" width="110" background="images/menu-bg.gif">
+	
+	<tbody><tr>
+		<td align="left"><a href="press-release.asp" class="newlink">Press Releases</a>
+</td>
+	</tr>
+	<tr>
+		<td align="left"><a href="group.asp" class="newlink">The Group</a></td>
+	
+	</tr>
+	
+	<tr>
+	<td align="left">
+		<a href="awards.asp" class="newlink">Awards</a>
+	</td>
+	</tr>
+	<tr>
+		<td align="left"><a href="coverage.asp" class="newlink">Media Coverage</a></td>
+	</tr>
+	<tr>
+		<td align="left"><a href="directors.asp" class="newlink">Board of Directors</a></td>
+	</tr>
+	<tr>
+		<td align="left"><a href="Manyfirst.asp" class="newlink">Many First</a></td>
+	</tr>
+	</tbody></table>
+		</div>
+		
+	<div id="dropmenu8" class="dropmenudiv" style="width:140px;">
+	<table border="0" background="images/shadow_center.gif" cellpadding="0" cellspacing="0" width="140">
+		<tbody><tr>
+			<td align="left"><a href="investor-home.asp" class="newlink">Financial Reports</a></td>
+		</tr>
+		<tr>
+			<td align="left"><a href="annual-reports.asp" class="newlink">Annual Reports</a>
+	</td>
+		</tr>
+		<tr>
+			<td align="left"><a href="investor-news-home.asp" class="newlink">Financial Press 
+								Releases</a>
+	</td>
+		</tr>
+		<tr>
+			<td align="left"><a href="investor-code-of-conduct.asp" class="newlink">Code Of Conduct</a>
+	</td>
+		</tr>
+		<tr>
+			<td align="left"><a href="unclaimed-dividend.asp" class="newlink">Unclaimed Dividends</a>
+	</td>
+		</tr>
+		
+		</tbody></table>
+	</div>
+	
+	<div id="dropmenu9" class="dropmenudiv" style="width:140px;z-index:10000;">
+		<table border="0" background="images/shadow_center.gif" cellpadding="0" cellspacing="0" width="140">
+			<tbody><tr>
+				<td align="left"><a href="extended-assurance.asp" class="newlink">Extended Warranty</a></td>
+			</tr>
+			<tr>
+				<td align="left"><a href="xpress-service.asp" class="newlink">Xpress Service</a></td>
+			</tr>
+			<tr>
+				<td align="left"><a href="http://www.tvsmotor.in/servicebooking/service-booking-home.aspx" class="newlink">Online Service Booking</a>
+				</td>
+			</tr>			
+			</tbody></table>
+	</div>
+			</div>
+			<script type="text/javascript">
+			cssdropdown.startchrome("chromemenu")
+			</script>
+    </div>
+</div>
+
+
+			<div></div>
+			
+			<table border="0" width="782" cellspacing="0" cellpadding="0" align="center">
+		<tbody><tr>
+			<td width="2" class="lshadow"><img src="images/spacer.gif" alt="" width="2"></td>
+			<td width="778">
+			
+			<div id="main">
+			<div id="pagebg" style="background-image:url('images/inner-page-bg.JPG')">
+				<table border="0" width="778" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td width="778" colspan="4" height="43"></td>
+					</tr>														
+					<tr>
+						<td width="20">&nbsp;</td>
+						<td width="140">
+						<table border="0" width="140" cellspacing="0" cellpadding="0" id="table5">
+							<tbody><tr>
+								<td height="220">&nbsp;</td>
+							</tr>
+							<tr>
+								<td>
+								<div style="width:140px; height:170px;">
+								
+								
+								</div>
+								</td>
+							</tr>
+							<tr height="16">
+								<td>&nbsp;</td>
+							</tr>
+						</tbody></table>
+						</td>
+									
+						
+						<td width="572" valign="top">
+							<table border="0" width="572" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+									<td width="32">&nbsp;</td>
+									<td width="540">
+									<form name="frmnews" method="post">
+									<table border="0" width="542" cellspacing="0" cellpadding="0" id="table6">
+										<tbody><tr>
+											<td height="25" valign="bottom" width="500">
+											<img border="0" src="images/head-privacy-policy.gif" width="106" height="18"></td>
+											<td height="25" valign="bottom" width="40" align="right">
+												&nbsp;</td>
+										</tr>
+										<tr>
+											<td height="2" colspan="2"></td>
+										</tr>
+										<tr>
+											<td bgcolor="#6BBF46" height="2" colspan="2"></td>
+										</tr>
+										<tr>
+											<td height="21" colspan="2"></td>
+										</tr>
+										
+										
+										<tr>
+											<td colspan="2">
+											
+											<div style="width:540px; height:320px; overflow:auto;" class="Scrollcss">
+											<table border="0" width="520" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+        <td style="text-align: justify;">
+            <font class="plaintxt">At TVS Motor Company, we value the sensitive and private nature
+                of the personal information you provide us over the Internet. Our Privacy Policy
+                details how we treat your personal information, as well as the steps we take to
+                protect your privacy. We understand that by using the TVS Motor Company website,
+                you consent to our use of information collected on this website in accordance with
+                the terms of this Privacy Policy.
+                <br>
+                <br>
+                Please read through the TVS Motor Company Privacy Policy and if you do not agree
+                with any term here, please do not provide any personal information on this site.
+                However, if you choose not to provide personal information, you may not be able
+                to take advantage of all the features on this site such as requesting additional
+                information, buying a vehicle , booking a test ride or contacting us.
+                <br>
+                </font>
+                </td>
+                </tr>
+                <tr>
+                <td style="text-align: justify;">
+            <font class="plaintxt">
+                <br>
+                <b>INFORMATION PROTECTION</b><br>
+                You can be assured that we will use the personal information that you provide only
+                for the purposes indicated to you when you provided it. </font>
+            <br>
+            The information collected on this website allows us to provide the services and/or
+            information you are requesting. For instance, we collect personal information in
+            order to respond to requests for more information (eg. subscribe to our newsletter,
+            Book a test ride etc...)
+            
+        </td>
+        </tr>
+        <tr>
+            <td style="text-align: justify;" valign="top"><br>
+            <font class="plaintxt"><b>HOW WE USE YOUR INFORMATION</b><br>
+                We will not disclose, sell, rent, loan or exchange your personal information to
+                any other individual, organization or entity except to the extent necessary to provide
+                the information or services you have requested, unless you are first notified and
+                expressly agree to it, or as otherwise required by law or regulation.
+              <!--  <br />
+                If you become a TVS Motor Company client, we will share some or all of the information
+                you provide with our business partners in order to facilitate the services you have
+                selected.--><br>
+        As a general rule, we will not disclose your personal information to an unrelated
+        third party for any purpose not related to the services we offer, without first
+        getting your express consent.
+        </font>
+       </td>
+    </tr>
+</tbody></table>
+
+											</div>
+											</td>
+										</tr>										
+										
+										</tbody></table>
+										</form>
+									</td>
+								</tr>
+								</tbody></table>
+						</td>
+						<td width="46">&nbsp;</td>
+					</tr>														
+				</tbody></table>
+				</div>
+			</div>		
+					
+			</td>
+		<td width="2" class="rshadow"><img src="images/spacer.gif" alt="" width="2"></td>	
+		</tr>
+		
+		<tr>
+			<td colspan="3" width="782" align="center">
+		    
+		    <table border="0" width="782" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td width="782" align="left" valign="top">	<script>
+var http = false;
+if(navigator.appName == "Microsoft Internet Explorer") 
+{
+  http = new ActiveXObject("Microsoft.XMLHTTP");
+} 
+else 
+{
+  http = new XMLHttpRequest();
+}
+
+</script>
+<table border="0" width="782" cellspacing="0" cellpadding="0" id="table1">
+	<tbody><tr>
+		<td width="777" colspan="10" height="5"></td>
+	</tr>
+	<tr>
+		<td width="20"></td>
+		<td width="160" valign="top">
+		<table border="0" width="160" cellspacing="0" cellpadding="0" id="table2">
+			<tbody><tr>
+				<td class="redtxt">Leadership</td>
+			</tr>
+			<tr>
+				<td><a href="leader-ship.asp" class="greylinkinv">Venu Srinivasan 
+				represents the bold new face of the Indian Auto-motive industry.</a></td>
+			</tr>
+			<tr>
+				<td align="right"><a href="leader-ship.asp">
+				<img border="0" src="images/media-more.gif"></a></td>
+			</tr>
+			<tr>
+				<td align="right">&nbsp;</td>
+			</tr>
+		</tbody></table>
+		</td>
+		<td width="20"></td>
+		<td width="52">
+		<img border="0" src="images/venu-corp.jpg" width="52" height="54"></td>
+		<td width="25">&nbsp;</td>
+		<td width="160" valign="top" align="left">
+		<table border="0" width="160" cellspacing="0" cellpadding="0" id="table3">
+			<tbody><tr>
+				<td class="redtxt" align="left">Many firsts</td>
+			</tr>
+			<tr>
+				<td align="left"><a href="Manyfirst.asp" class="greylinkinv">Our 
+				DNA has a culture of excellence and innovation.</a></td>
+			</tr>
+			<tr>
+				<td height="14"></td>
+			</tr>
+			<tr>
+				<td align="right"><a href="Manyfirst.asp">
+				<img border="0" src="images/media-more.gif"></a></td>
+			</tr>
+		</tbody></table>
+		</td>
+		<td width="20"></td>
+		<td width="52">
+		<img border="0" src="images/media-contacts.jpg" width="48" height="50"></td>
+		<td width="20">&nbsp;</td>
+		<td width="274" valign="top">
+		<form name="frmMediaInc" method="post" onsubmit="return subEmail(this)">
+			<table border="0" width="274" cellspacing="0" cellpadding="0" id="table4">
+				<tbody><tr>
+					<td class="redtxt" valign="top">Subscribe Newsletter</td>
+					<td class="redtxt" rowspan="2" valign="top">&nbsp;</td>
+					<td class="redtxt" rowspan="2" valign="top" width="110">
+					<img border="0" src="images/motor-toll-free.gif" width="106" height="73">
+					</td>
+				</tr>
+				<tr>
+					<td width="154" valign="top">
+					<input type="text" name="tbNewsLetter" class="loginclass" onfocus="this.value=''" onblur="if(this.value=='')this.value='Enter Email Address          '" value="Enter Email Address"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<input type="image" border="0" src="images/go-butten.jpg" width="31" height="17" name="I1"></td>
+				</tr>
+				<tr>
+					<td colspan="3"><div id="dvNewsletterNew"></div></td>
+				</tr>
+			</tbody></table>
+		</form>
+		</td>
+		<td width="5">&nbsp;</td>
+	</tr>
+</tbody></table>
+<script language="javascript">
+           var newwindow;   
+           function subEmail(frm)
+            {
+       
+             var strEmail=document.frmMediaInc.tbNewsLetter.value;
+	elen= strEmail.length;
+	efirstchar = strEmail.substring(0, 1);
+	elastchar  = strEmail.substring(elen-1, elen);
+
+	atPos = strEmail.indexOf("@",1)	
+	if (atPos == -1) 
+	{
+		alert("Please Enter Valid Email Id");
+		document.frmMediaInc.tbNewsLetter.focus();
+		document.frmMediaInc.tbNewsLetter.select();
+		return false;
+	}
+	if (strEmail.indexOf("@",atPos+1) != -1) 
+	{
+	alert("Please Enter Valid Email Id");
+		document.frmMediaInc.tbNewsLetter.focus();
+		document.frmMediaInc.tbNewsLetter.select(); 
+		return false;
+	}
+	periodPos = strEmail.indexOf(".",atPos)
+	if (periodPos == -1) 
+	{	
+	alert("Please Enter Valid Email Id");
+		document.frmMediaInc.tbNewsLetter.focus();
+		document.frmMediaInc.tbNewsLetter.select();
+		return false;
+	}
+	if (periodPos+3 > elen)	
+	{ alert("Please Enter Valid Email Id");
+		document.frmMediaInc.tbNewsLetter.focus();
+		document.frmMediaInc.tbNewsLetter.select();
+		return false;
+	}
+	if (strEmail.indexOf("..",1) != -1)
+	 {
+	alert("Please Enter Valid Email Id");
+		document.frmMediaInc.tbNewsLetter.focus();
+		document.frmMediaInc.tbNewsLetter.select();
+		return false;
+	}
+	if (strEmail.indexOf("@.",1) != -1) {
+	alert("Please Enter Valid Email Id");
+		document.frmMediaInc.tbNewsLetter.focus();
+		document.frmMediaInc.tbNewsLetter.select();
+		return false;
+	}
+	if (strEmail.indexOf(".@",1) != -1)
+	 {
+	 alert("Please Enter Valid Email Id");
+		document.frmMediaInc.tbNewsLetter.focus();
+		document.frmMediaInc.tbNewsLetter.select();
+		return false;
+	}
+if (strEmail.indexOf("-@",1) != -1)
+	 {
+	 alert("Please Enter Valid Email Id");
+		document.frmMediaInc.tbNewsLetter.focus();
+		document.frmMediaInc.tbNewsLetter.select();
+		return false;
+	}
+if (strEmail.indexOf("@-",1) != -1)
+	 {
+	 alert("Please Enter Valid Email Id");
+		document.frmMediaInc.tbNewsLetter.focus();
+		document.frmMediaInc.tbNewsLetter.select();
+		return false;
+	}
+if (strEmail.indexOf("-.",1) != -1)
+	 {
+	 alert("Please Enter Valid Email Id");
+		document.frmMediaInc.tbNewsLetter.focus();
+		document.frmMediaInc.tbNewsLetter.select();
+		return false;
+	}
+if (strEmail.indexOf(".-",1) != -1)
+	 {
+	 alert("Please Enter Valid Email Id");
+		document.frmMediaInc.tbNewsLetter.focus();
+		document.frmMediaInc.tbNewsLetter.select();
+		return false;
+	}
+if (strEmail.indexOf("--",1) != -1)
+	 {
+	 alert("Please Enter Valid Email Id");
+		document.frmMediaInc.tbNewsLetter.focus();
+		document.frmMediaInc.tbNewsLetter.select();
+		return false;
+	}        
+if((efirstchar<"a" || efirstchar>"z") && (efirstchar<"A" || efirstchar>"Z"))
+	{
+	alert("Please Enter Valid Email Id");
+		document.frmMediaInc.tbNewsLetter.focus();
+		document.frmMediaInc.tbNewsLetter.select();
+		return false;
+	}
+
+	if((elastchar<"a" || elastchar>"z") && (elastchar<"A" || elastchar>"Z"))
+	{
+		alert("Please Enter Valid Email Id");
+		document.frmMediaInc.tbNewsLetter.focus();
+		document.frmMediaInc.tbNewsLetter.select();	
+		return false;
+	}
+
+    var strEmail=document.frmMediaInc.tbNewsLetter.value;
+	if (strEmail.search(/^\w+((-\w+)|(\.\w+))*\@[A-Za-z0-9]+((\.|-)[A-Za-z0-9]+)*\.[A-Za-z0-9]+$/) == -1)
+	    {
+	    
+		alert("Enter valid Email");
+		document.frmMediaInc.tbNewsLetter.focus();
+		document.frmMediaInc.tbNewsLetter.select();
+		return false;
+    	}
+    else
+    	{
+	document.frmMediaInc.tbNewsLetter.value="";
+	//alert('newsletterhandlerajx.asp?id='+Math.random()+'&email='+strEmail)
+    http.open('GET','newsletterhandlerajx.asp?id='+Math.random()+'&email='+strEmail);
+    http.onreadystatechange = function() 
+    {
+      if(http.readyState == 4)      
+      document.getElementById('dvNewsletterNew').innerHTML = http.responseText;
+		};
+    http.send(null);
+    return false;
+    	}	
+    
+}
+
+          </script>
+</td>
+					</tr>
+				</tbody></table>
+						
+			</td>			
+		</tr>
+		
+		<tr>
+			<td colspan="3" width="782" align="center">			
+			<script language="javascript" src="js/ut.js"></script>
+<script language="javascript" type="text/javascript">
+        registerUser("806549752","/privacy-policy.asp?");
+   	</script>
+   <style type="text/css">
+   a.bottom_links
+{
+     text-decoration:none;
+     font-family: Trebuchet MS;
+font-size: 11px;
+margin-left:5px;
+color:#666666;
+    
+    }   
+   
+   </style>
+<table cellpadding="0" cellspacing="0" width="778" height="25" bgcolor="#EFEFEF">
+	<tbody><tr>
+		<td style="padding-left:15px;" width="545" align="left">© TVS MOTOR COMPANY. All rights reserved |<a class="bottom_links" href="privacy-policy.asp">Privacy Policy</a> </td>
+		<td style="padding-right:15px;" align="right"><a href="http://www.epagemaker.com" target="_blank"><img src="images/epagelogo.gif" alt="Designed and Developed by ePagemaker Pvt. Ltd." border="0"></a></td>
+	</tr>
+</tbody></table>
+
+
+
+		
+			</td>
+		</tr>
+					
+	</tbody></table>
+			
+	
+		
+<script language="javascript" src="js/activateActiveX.js"></script>	
+
+
+</body></html>
