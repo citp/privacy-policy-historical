@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esupport.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208010028id_/http%3A//esupport.com/privacy_terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esupport.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605035414id_/http%3A//esupport.com/privacy_terms.php) for the most accurate reproduction.*
 
 # eSupport.com | Privacy Policy & Terms of Use
 
