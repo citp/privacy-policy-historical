@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hcgultradiet.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115130559id_/http%3A//www.hcgultradiet.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcgultradiet.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605134414id_/http%3A//www.hcgultradiet.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Buy the Best HCG Diet Drops Online - Privacy Policy
+# Privacy Policy
 
 [](http://www.addthis.com/bookmark.php)
 
-"Ultra6 LLC" ("Ultra6 LLC", "us" or "we"), has created this privacy policy (hereinafter the "Privacy Policy") in order to disclose our information gathering and dissemination practices. We understand the importance that internet users place on privacy and have designed our service with this in mind. You agree to this Privacy Policy, in its entirety, when you: 1) access or use a "Ultra6 LLC website" (the "Website"); and/or 2) select and register for an offer(s) on the Website by clicking the offer(s) presented. If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website or its products/services. If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for direct marketing purposes, please e-mail us at [support@betterthanhcg.com](mailto:support@betterthanhcg.com) 
+"Ultra6 LLC" ("Ultra6 LLC", "us" or "we"), has created this privacy policy (hereinafter the "Privacy Policy") in order to disclose our information gathering and dissemination practices. We understand the importance that internet users place on privacy and have designed our service with this in mind. You agree to this Privacy Policy, in its entirety, when you: 1) access or use a "Ultra6 LLC website" (the "Website"); and/or 2) select and register for an offer(s) on the Website by clicking the offer(s) presented. If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website or its products/services. If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for direct marketing purposes, please e-mail us at [support@ultra6nutrition.com](mailto:support@ultra6nutrition.com) 
 
  **1\. Information We Collect**  
 The information that we collect is generally limited to personal information about you that you submit on the Website. The personally identifiable information that may be collected includes: your name; address; email address and telephone number. To the extent that customer credit card-specific information is collected by 
@@ -47,4 +47,4 @@ Ultra6 LLC reserves the right to change or update this Privacy Policy at any tim
  **9\. Contacting Us**  
 If you have any questions about this Privacy Policy or the practices of 
 
-Ultra6 LLC please feel free to contact us at [support@betterthanhcg.com](mailto:support@betterthanhcg.com).
+Ultra6 LLC please feel free to contact us at [support@ultra6nutrition.com](mailto:support@ultra6nutrition.com).
