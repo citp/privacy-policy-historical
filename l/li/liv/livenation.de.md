@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livenation.de privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425212640id_/http%3A//www.livenationentertainment.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livenation.de privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606015028id_/http%3A//www.livenationentertainment.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Live Nation Entertainment
 
