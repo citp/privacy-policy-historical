@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumer-car-reviews.com privacy policy that was archived on 2012-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120328070038id_/http%3A//www.consumer-car-reviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumer-car-reviews.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605094828id_/http%3A//www.consumer-car-reviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,7 +62,7 @@ If you do not agree to www.consumer-car-reviews.com Privacy Policy as posted her
 
 Your use of this site indicates acceptance of this privacy policy.
 
- **Disclaimer**
+**Disclaimer**
 
 consumer-car-reviews.com provides this website as a service.
 
