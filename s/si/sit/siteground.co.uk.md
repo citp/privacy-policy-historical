@@ -1,33 +1,31 @@
-> *The following text is extracted and transformed from the siteground.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623095956id_/http%3A//www.siteground.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteground.co.uk privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605070409id_/http%3A//www.siteground.com/privacy.htm) for the most accurate reproduction.*
 
 # SiteGround Web Hosting - Privacy Policy
 
-Privacy of Your Registration Data
+The Privacy policy below describes how SiteGround collects and uses information about its customers and website visitors (You or The Users)
 
-When you order from Site Ground, all your personal information is protected. We use Secure Sockets Layer (SSL), the industry standard, for encrypting all personal information, including name, address and etc. Site Ground keeps all your information confidential.
+What information does SiteGround collect from its Users?
 
-Your registration information is used to operate the site, for demographic statistics, for supporting your account, etc. Site Ground will not send you any unsolicited information, though you will receive a New Customers welcome letter explaining the features provided by our service; and you may also receive periodic member letters announcing important service changes, new features, technical issue updates and news about the Service.
+SiteGround collects different types of personally identifiable information in order to be able to provide its services to You. Such information may include but is not limited to name, mailing address, telephone numbers, email addresses, credit card information and other. Users provide all such information voluntarily through various order forms, email messages sent to SiteGround, LiveChat, telephone, etc.
 
-Shall We Disclose Information to Third Parties?
+SiteGround also collects different types of non-personally identifiable information that may include referral URL's, Users' IP addresses, Users' use of website, information about the browsers used by the User, etc. Some of this information is collected through Cookies, which are small pieces of data that are sent to your browser from a web server and are stored on your computer's hard drive and help SiteGround identify you as the User. You have the choice to modify your browser and thus to reject the Company's cookies.
 
-We shall not intentionally monitor or disclose any of your e-mail messages, registration data or account data and activity unless this is required by law, or we believe in good faith that we are required to do so to protect the rights and the property of Site Ground or its customers;
+How does SiteGround use the information it collects?
 
-Since privacy is a function of your password, we encourage you to change your password frequently and not to share it with anyone. Site Ground cannot and will not be liable for any loss or damage arising from your failure to comply with this.
+SiteGround uses all collected information primarily for provisioning the services you have ordered and providing you with ongoing User support. We may also use your information for sending periodic emails announcing important service changes, new features, technical issues updates and news, promotional activities, etc. You can decide NOT to receive such emails by replying to any of them with "Unsubscribe" in the subject. User information is also used for improving SiteGround’s business processes to make your overall user experience more rewarding. Your information can also be used for resolving ownership and other disputes and enforcing agreements between you and SiteGround.
 
-What Are Cookies?
+Does SiteGround disclose Users’ information to third parties?
 
-Site Ground understands that many of you are concerned about cookies. These are small pieces of data that are sent to your browser from a web server and are stored on your computer's hard drive. Cookies do not damage your system in any way. Cookies are used to identify what visitors look for on a web-site so that it can be more easily accessible in the future. We use cookies primarily to assure that our referral program is operating in a correct and fair way. A cookie can't read data off your hard disk or read cookie files created by other sites. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent.
+All personal information collected by SiteGround is treated as strictly confidential. We may disclose User's personal information if required by law. We may disclose part of Users’ personal information to our business partners, independent contractors or other third parties when this is required in order to provide the services you have ordered. For example: your the Credit card information may be provided for payment confirmation and verification to the partnering entity involved in processing your payment; the personal information of anyone who uses SiteGround’s domain name registration services is available in the public WHOIS searches as required by the domain name registration regulations; your personal and business related information may be provide to the SSL certificate provider with whom SiteGround cooperates for providing you with the SSL certificate service, etc. The use of any data provided by SiteGround to these partnering service providers is governed by their own Privacy Policies and is beyond SiteGround's control.
 
-IP Address Information
+SiteGround may transfer Users’ personal information on the occasion of a sale of the company's business.
 
-All computers connected to the Internet have an IP address. When a visitor requests a page from any Web site within the Site Ground Network, our Web servers automatically recognize that visitor's IP address. The IP address reveals nothing personal about you. We use this information to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. 
+What does SiteGround do to prevent loss, misuse or alteration of Users information?
 
-Spamming Policy
+We guarantee that we strictly apply all industry standard security measures to protect your personal information. Such measures include without limitation: data encryption, password protected access to Users’ personal information, limited access to the sensitive data, encrypted transfer of sensitive data submitted by the User through SiteGround's order forms, login forms etc. There may be security and privacy limitations, which are beyond SiteGround's control. By choosing to provide personal information to SiteGround you understand and agree that the security, integrity and privacy of your information cannot be 100% guaranteed.
 
-Site Ground does not tolerate any spamming activity. This includes, but is not limited to unsolicited broadcast or commercial bulk emails sent to addresses which do not affirmatively and verifiably request such material from that specific sender. Our aim is to protect our customers and all internet users from the negative effects of the "spam"-related activity. A record, clearly affirming that permission has been obtained from a recipient before a mailing is sent, may be required. Disregarding Site Ground spamming policy will result in warning, suspension or possible account termination with no refund. Site Ground may but is not obliged to forward to its customers valid complaints against them for their response and resolution. We require a 24-hour response for any complaint forwarded. If a response is not received Site Ground may block traffic to and from the domain involved in the problem. 
+SiteGround reserves the right to change this Privacy Policy at any time. Such changes will become effective and binding after their posting on the SiteGround.com website. You agree to regularly review this Privacy Policy for revisions and updates. By continuing to use SiteGround's services and website after any posted revision, you agree to those changes.
 
-While Site Ground will provide its clients with reasonable notification, Site Ground reserves the right to change its policy at any time to meet the needs of our customers, changing laws and new technology. 
+To report an incident of abuse, please email [abuse@siteground.com](mailto:abuse@siteground.com)
 
-To report an incidence of abuse, please report it to [mkt@siteground.com](mailto:mkt@siteground.com)
-
-Last update: 12 September 2006
+Last update: 15 October 2012
