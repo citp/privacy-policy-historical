@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 9stream.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231011404id_/http%3A//www.9stream.com/privacy-notice.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9stream.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605052631id_/http%3A//www.9stream.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice - Free High Performance Flash Streaming Platform
+# Privacy Notice
 
 Welcome to the 9stream.com. ("9stream.com") applications, platform, website( [www.9stream.com](http://www.9stream.com/)), and any other web sites, applications, or services operated or produced by 9stream.com (collectively, the "9stream.com Platform"). 9stream.com values the privacy of the users, subscribers, publishers, members, and others who visit and use the 9stream.com Platform (collectively or individually, "You" or "Users").
 
