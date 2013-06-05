@@ -1,16 +1,19 @@
-> *The following text is extracted and transformed from the corcoran.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023021652id_/http%3A//www.corcoran.com/aboutus/index.aspx%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corcoran.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605093947id_/http%3A//corcoran.com/nyc/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# Corcoran, Manhattan, Brooklyn, Hamptons, Shelter Island, North Fork & Palm Beaches Real Estate
+# Corcoran, Privacy Policy Manhattan, Brooklyn, Hamptons, Shelter Island, North Fork & Palm Beaches Real Estate
 
-The Corcoran Group's Privacy Policy
+At The Corcoran Group, we are committed to protecting your privacy. We use the information we collect about you to process requests and to provide you with additional information.
 
-At the corcoran group, we are committed to protecting your privacy. We use the information we collect about you to process requests and to provide you with additional information. 
+### What information do we collect and How do we use it?
 
-**What information do we collect? How do we use it?**  
-When you request information, we need to know your name, e-mail address, and mailing address. This allows us to process and fulfill your request. Corcoran.com does not sell, trade, or rent your personal information to others. Corcoran.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
+When you request information, we may need certain personally identifiable information, such as name, e-mail address, or mailing address in order to appropriately respond. Corcoran.com does not sell, trade, or rent your personal information to others. Corcoran.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. Personal information is used for the following purposes: (i) to provide and improve our services, features and content; (ii) to administer your use of our services and your account; (iii) to enable users to enjoy and easily navigate this Web Site; (iv) to better understand your needs and interests; (v) to fulfill requests you may make; (vi) to personalize your experience; (vii) to provide service announcements; and (viii) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on related services. If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications. Further, you may easily adjust your privacy and e-mail settings via your account settings at any time.
 
-**Your consent:**  
-By using our Web site, you consent to the collection and use of this information by Corcoran.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use "persistent cookies" to save your username and login password for future logins to the Site. We use "session ID cookies" to enable certain features of our service, to better understand how you interact with the Web Site and to monitor web traffic routing on the Web Site and aggregate usage of the Web Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Web Site or all functionality of the services.
 
-**Tell us what you think:**  
-Corcoran.com welcomes your questions and comments about privacy. 
+### Children's Privacy
+
+We do not direct the Web Site to persons younger than 18 years of age, and we ask that all users ensure they are of proper age to use the Site. Accordingly, we do not knowingly collect or maintain on the Web Site personally identifying or other information from persons under 18 years of age. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact info@corcoran.com . If we become aware that a child under 18 has provided us with personal information, we will delete such information from our files. If a child under age 18 wishes to use the Web Site, he or she may do so only with a parent or guardian’s permission. 
+
+### Your consent
+
+By using our Web site, you consent to the collection and use of this information by Corcoran.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
