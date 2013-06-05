@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialcast.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003005206id_/http%3A//socialcast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialcast.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605020232id_/http%3A//www.socialcast.com/privacy) for the most accurate reproduction.*
 
 # Socialcast Privacy & Security | Socialcast
 
@@ -87,7 +87,7 @@ You should be aware that if you voluntarily disclose personal information in pub
 
 This Website may also contain links to other websites. The Company is not responsible for the privacy practices or the content of such third party websites.
 
-### Choice/Opt-Out
+### Choice / Opt-Out
 
 If you no longer wish to receive our newsletter or promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication.
 
@@ -123,7 +123,7 @@ Our Web site may offer publicly accessible blogs or community forums. You should
 
 From time-to-time we may use your information to contact you to complete surveys that we use for marketing and quality assurance purposes. We may use a third party service providers to conduct these surveys on our behalf; that company is prohibited from using our customers' personally identifiable information for any other purpose.
 
-### Updating/Accessing/Amending/Correcting Personally Identifiable Information
+### Updating / Accessing / Amending / Correcting Personally Identifiable Information
 
 If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete or remove information by making the change on our member information page, emailing our Customer Support at [support@socialcast.com](mailto:support@socialcast.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within 5 business days.
 
