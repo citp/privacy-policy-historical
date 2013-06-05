@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the languagescientific.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203062230id_/http%3A//www.languagescientific.com/privacy-policy-for-translation-localization.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the languagescientific.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606010349id_/http%3A//www.languagescientific.com/privacy-policy-for-translation-localization.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Language Scientific Privacy Policy 
 
 Detailed below is how we handle information we learn about you when you visit our Website. The information we receive depends on what you provide us or what you do when visiting our site.
 
@@ -29,3 +27,5 @@ Language Scientific recognizes that users may not wish to be contacted about new
 ## Contact Information
 
 Language Scientific welcomes your comments regarding this Statement of Privacy please contact us by email at [info@languagescientific.com](mailto:info@languagescientific.com) if you'd like further information.
+
+[Back to top»](http://www.languagescientific.com/privacy-policy-for-translation-localization.html#top-nav)
