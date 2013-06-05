@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinterestfastlane.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223002731id_/http%3A//hodgkinsonpublishing.com/terms/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinterestfastlane.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605210322id_/http%3A//hodgkinsonpublishing.com/terms/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
