@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaunt.ca privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121133744id_/http%3A//www.jaunt.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaunt.ca privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605112704id_/http%3A//jaunt.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy| Unique getaways within reach | Jaunt.ca
 
