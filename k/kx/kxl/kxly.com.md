@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kxly.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231224124id_/http%3A//www.kxly.com/kxly/about/KXLY-com-Privacy-Policy/-/101046/1084650/-/11psa7lz/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kxly.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605050409id_/http%3A//www.kxly.com/kxly/about/KXLY-com-Privacy-Policy/-/101046/1084650/-/11psa7lz/-/index.html) for the most accurate reproduction.*
 
 # KXLY.com Privacy Policy | About KXLY - KXLY.com
 
@@ -30,15 +30,3 @@ Ability to Update or Delete Information
 If we become aware that any user under 13 has provided us with personally identifiable information, we will delete the member account and any associated information provided. Parents or others who become aware that information has been collected on one of our sites from a child under 13 should contact and inform us at [privacy@kxly.com](mailto:privacy@kxly.com) and we will delete the information in which such information was collected.
 
 Last Revised: July 2, 2010
-
-Advertisement
-
-[ ](http://abcnews.go.com/Video/playerIndex?affil=KXLY)
-
-###  [ABC News](http://abcnews.go.com/Video/playerIndex?affil=KXLY)
-
-Get the latest headlines from around the world from ABC News.
-
-Datasphere Ad
-
-Advertisement
