@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the winkbingo.com privacy policy that was archived on 2012-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121205063230id_/http%3A//www.winkbingo.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the winkbingo.com privacy policy that was archived on 2013-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605151134id_/http%3A//www.winkbingo.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><head>
 <link rel="shortcut icon" href="http://www.winkbingo.com/favicon.ico"> 
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta charset="UTF-8">
 <title>Privacy Policy For WinkBingo Users</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
@@ -16,7 +18,7 @@
 <link rel="alternate" type="application/rss+xml" title="Wink Bingo » Feed" href="http://www.winkbingo.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Wink Bingo » Comments Feed" href="http://www.winkbingo.com/comments/feed/">
 				
-	<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/4476.js?439006" async="" type="text/javascript"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">//<![CDATA[
+	<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/4476.js?439006" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">//<![CDATA[
 	// Google Analytics for WordPress by Yoast v4.2.3 | http://yoast.com/wordpress/google-analytics/
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount','UA-946088-47']);
@@ -41,8 +43,36 @@
 @import url("http://www.winkbingo.com/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.3");
 /* ]]> */
 </style><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.winkbingo.com/wp-content/themes/wink/js/coin-slider.min.js"></script>
+<link rel="stylesheet" href="http://www.winkbingo.com/wp-content/themes/wink/js/coin-slider-styles.css" type="text/css">
 <script language="javascript" src="http://www.winkbingo.com/wp-content/themes/wink/js/web_wp.js"></script>
 <script type="text/javascript" src="http://www.winkbingo.com/wp-content/themes/wink/js/swfobject.js"></script>
+<link href="https://plus.google.com/u/0/110933577151831202702" rel="publisher">
+<script language="Javascript">
+$(document).ready(function() {
+	$('#password-clear').show();
+	$('#password-password').hide();
+	$('#password-clear').focus(function() {
+		$('#password-clear').hide();
+		$('#password-password').show();
+		$('#password-password').focus();
+	});
+	$('#password-password').blur(function() {
+		if($('#password-password').val() == '') {
+			$('#password-clear').show();
+			$('#password-password').hide();
+		}
+	});
+	$('.default-value').each(function() {
+		var default_value = this.value;
+		$(this).focus(function() {
+			if(this.value == default_value) {
+				this.value = '';
+			}
+		});
+	});
+});
+</script>
 <!--facebook-->
 </head><body class="page page-id-736 page-template-default singular two-column right-sidebar"><div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -54,22 +84,21 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 <!--End facebook -->	
 <!-- Google+1 --><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><!-- END Google+1 -->
-<script type="text/javascript">
-$(document).ready(function() {
-	$('#menu > li').bind('mouseover', openSubMenu);
-	$('#menu > li').bind('mouseout', closeSubMenu);
-	function openSubMenu() {
-		$(this).find('ul').css('visibility', 'visible');	
-	};
-	function closeSubMenu() {
-		$(this).find('ul').css('visibility', 'hidden');	
-	};
-});
+
+
+
+<div id="glitter">
+
+<script language="javascript">
+	<!--
+	function instantHelp(N) {
+	newWindow = window.open(N, 'instantHelp','toolbar=no,menubar=no,resizable=no,scrollbars=yes,status=no,location=no,width=520,height=600');
+	}
+	//-->
 </script>
+<a id="topright" title="Live Chat" href="javascript:instantHelp('http://chat.cassava.net/c/chat_launch_winkbingo_en.php');">Wink Bingo Live Chat</a>
 
-
-
-
+<div id="wrap">
 
 <form name="CashierForm" id="CashierForm" method="post" action="https://cashier.bingosys.net/start.php" target="AquaPayCashier">
 	<input type="hidden" name="oid" value="9">
@@ -84,103 +113,81 @@ $(document).ready(function() {
     <input name="networkID" type="hidden" value="9">
 	<input type="hidden" name="playerSR" value="">
 	<input type="hidden" name="version" value="1">
+	<input type="hidden" name="oCustomerSource" value="">
 	<input type="hidden" name="lang" value="en">
-	<input type="hidden" name="oSourceAppID" value="">	
+	<input type="hidden" name="oSourceAppID" value="11">	
 </form>
 
 	
 
-<script language="javascript">
-	<!--
-	function instantHelp(N) {
-	newWindow = window.open(N, 'instantHelp','toolbar=no,menubar=no,resizable=no,scrollbars=yes,status=no,location=no,width=520,height=600');
-	}
-	//-->
-</script>
-
-<a id="topright" title="Live Chat" href="javascript:instantHelp('http://chat.cassava.net/c/chat_launch_winkbingo_en.php');">Wink Bingo Live Chat</a>
-
-<div id="maincontainer">
-
 	<div id="header">
-	<a href="http://www.winkbingo.com"><img border="0" alt="Wink Bingo Logo" src="http://www.winkbingo.com/images/winklogo.gif" name="logo" id="logo"></a>
-
-	<div id="social">
-		<a href="https://plus.google.com/u/0/110933577151831202702" target="_blank"><img border="0" src="http://www.winkbingo.com/images/googleplus.png" alt="Wink Bingo on Google +"></a>
-		<a href="http://www.facebook.com/winkbingo/" target="_blank"><img border="0" src="http://www.winkbingo.com/images/facebook.png" alt="Wink Bingo on Facebook"></a> 
-		<a href="http://twitter.com/winkbingo" target="_blank"><img border="0" src="http://www.winkbingo.com/images/twitter.png" alt="Wink Bingo on Twitter"></a> 
-		<a href="http://www.youtube.com/user/winkbingo" target="_blank"><img border="0" src="http://www.winkbingo.com/images/youtube.png" alt="Wink Bingo on YouTube"></a>
-	</div>
 	
-	<div id="playnow">
-				<a href="/register/"><img alt="Register to play online bingo" border="0" src="http://www.winkbingo.com/images/register.gif"></a>
-			</div>	
-
-	<div id="login">
+		  
+			<a href="http://www.winkbingo.com">
+						<img border="0" alt="Play online bingo games at Wink Bingo" tittle="Receive exclusive UK bingo bonuses and offers at Wink Bingo" style="width:183px; height:95px;" src="http://www.winkbingo.com/images/wink-logo.png" name="logo" id="logo">
+			</a>
+			
 		<form name="topForm" action="/privacy-policy/" method="POST" id="topForm">
 		<input name="form_action" id="Hidden5" type="hidden" value="LOGIN">
 
-			
+				
 		
-		  <div style="width:200px; padding:2px;">
-            Username: <input name="Alias" type="text" id="username" value="">
-          </div>
-          <div style="width:200px; padding:2px;">
-            <span style="padding-left:3px;">Password:</span> <input name="Password" type="password" id="password" onkeyup="submitForm(event,'topForm','http://www.winkbingo.com/members/');">
-          </div>
-          <div style="float:right; margin:-50px 10px 0 0;">
-			<a href="javascript:goTop('login',false,'http://www.winkbingo.com/members/');"><img width="90" border="0" height="40" alt="Login" src="http://www.winkbingo.com/images/login.png"></a>
-		  </div>
-		  <p style="font-size: 11px; margin: 0 0 0 10px; color:#1982D1;"><a href="/register/"> Register</a> | <a href="/forgot-password/">Forgot your Password?</a></p>
-				  
-		</form>	
-	</div><!-- END login -->
+		<div id="login">
 
-	<div style="clear:both;"></div>
+			<div id="joinnow">
+				<a href="/register/"><img alt="Register to play online bingo" border="0" src="http://www.winkbingo.com/images/join-now-on-wink.png"></a>
+			</div>	
+		
+			<div style="float:left;"><input name="Alias" type="text" class="default-value" value="username" id="username"></div>
+			<div style="float:left;"><input type="text" class="password" id="password-clear" value="password"></div>
+			<div style="float:left;"><input name="Password" type="password" class="password" id="password-password" onkeyup="submitForm(event,'topForm','http://www.winkbingo.com/members/');"></div>
+			<a href="javascript:goTop('login',false,'http://www.winkbingo.com/members/');"><img width="82" border="0" height="38" alt="Login" src="http://www.winkbingo.com/images/login-btn.png" style="float:right; margin:3px"></a>
+			<p style="font-size: 11px; margin: 0 0 0 10px; color:#000; float:right; clear:both;"><a href="/register/" style="color:#000;"> Register</a> | <a href="/forgot-password/" style="color:#000;">Forgot your Password?</a></p>
+		
+		</div><!-- END login -->		
+		
+				  
+		</form>
+
 	
-	<ul id="menu">
-		<li class="menu_home"><a href="http://www.winkbingo.com">Wink Bingo Home</a></li>
+	<div id="navigation">
 		  
-			<li class="menu_register"><a href="/register/">Register</a></li>
-				<li class="menu_promotions"><a href="/bingo-promotions/">Bingo Promotions</a></li>
-		<li class="menu_games"><a href="/bingo-games/">Bingo Games</a>
-			<ul>
-				<li><a href="/bingo-games/">Bingo Games</a>
-				</li><li><a href="/instant-games/">Instant Games</a></li>
-				<li><a href="/online-slots/">Online Slots</a></li>
-				<li><a href="/casino-games/">Casino Games</a></li>
-			</ul>				
-		</li>
-		<li class="menu_winners"><a href="/winners/">Winners</a></li>
-		<li class="menu_community"><a href="/community/">Community</a>
-			<ul>
-				<li><a href="/wink-weekend/">Wink Weekend</a></li>
-				<li><a href="/mini-club-members/">Mini Club Members</a></li>
-				<li><a href="/totes-wink/">Totes Wink</a></li>
-				<li><a href="/blog/">Blog</a></li>
-				<li><a href="/bingo-resources/">Bingo Resources</a></li>
-                <li><a href="/fairy-joymother/">Fairy JoyMother</a></li>
-			</ul>				
-		</li>
-		<li class="menu_help"><a href="/help/">Help</a>
-			<ul>
-				<li><a href="/paypal-bingo/">Paypal Bingo</a></li>
-			</ul>			
-		</li>
-	</ul>
+			<nav id="access" role="navigation">
+				<div class="menu-primary-container"><ul id="menu-primary" class="menu"><li id="menu-item-4693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4693"><a href="http://www.winkbingo.com/">Home</a></li>
+<li id="menu-item-1371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1371"><a title="Register" href="http://www.winkbingo.com/register/">Register</a></li>
+<li id="menu-item-1369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369"><a title="promotions" href="http://www.winkbingo.com/bingo-promotions/">Bingo Promotions</a></li>
+<li id="menu-item-1368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1368"><a title="games" href="http://www.winkbingo.com/bingo-games/">Games</a>
+<ul class="sub-menu">
+	<li id="menu-item-4143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4143"><a href="http://www.winkbingo.com/bingo-games/">Bingo Games</a></li>
+	<li id="menu-item-1377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1377"><a title="instants" href="http://www.winkbingo.com/instant-games/">Instant Games</a></li>
+	<li id="menu-item-1378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1378"><a title="slots" href="http://www.winkbingo.com/online-slots/">Online Slots</a></li>
+	<li id="menu-item-1376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1376"><a title="casino" href="http://www.winkbingo.com/casino-games/">Casino Games</a></li>
+</ul>
+</li>
+<li id="menu-item-1372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1372"><a title="winners" href="http://www.winkbingo.com/winners/">Winners</a></li>
+<li id="menu-item-4211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4211"><a href="http://www.winkbingo.com/mobile/">Mobile</a></li>
+<li id="menu-item-1375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1375"><a title="community" href="http://www.winkbingo.com/community/">Community</a>
+<ul class="sub-menu">
+	<li id="menu-item-1379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1379"><a title="weekend" href="http://www.winkbingo.com/wink-weekend/">Wink Weekend</a></li>
+	<li id="menu-item-4144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4144"><a href="http://www.winkbingo.com/mini-club-members/">MINI Club Members!</a></li>
+	<li id="menu-item-4145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4145"><a href="http://www.winkbingo.com/blog/">Blog</a></li>
+	<li id="menu-item-2675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2675"><a href="http://www.winkbingo.com/fairy-joymother/">Fairy JoyMother</a></li>
+</ul>
+</li>
+<li id="menu-item-1370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1370"><a title="help" href="http://www.winkbingo.com/help/">Help</a>
+<ul class="sub-menu">
+	<li id="menu-item-3342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3342"><a href="http://www.winkbingo.com/help-videos/">Help Videos</a></li>
+</ul>
+</li>
+</ul></div>			</nav><!-- #access -->
+			</div>
 
 </div><!-- END header -->
 
-<div id="leftContentMain">
-<div id="leftContentTop">
-</div>
-<div id="leftContent">
-<div id="leftContentText" style="padding:0 20px">
+<div id="maincontainer">
 
-<form name="mainForm" action="/privacy-policy/" method="POST">
-<input name="form_action" type="hidden" value="">
-
-	
+	<form name="mainForm" action="/privacy-policy/" method="POST">
+	<input name="form_action" type="hidden" value="">
 		<div id="primary">
 			<div id="content" role="main">
 
@@ -248,169 +255,95 @@ $(document).ready(function() {
 			</div><!-- #content -->
 		</div><!-- #primary -->
 
-</form>
-<!-- #end of main form-->
-
-</div>      
-</div>
-
-<div id="socialFooter">
-	<div style="width:450px; float:left;" class="fb-like" data-href="http://www.facebook.com/winkbingo" data-send="true" data-width="450" data-show-faces="false"></div>
-	<div style="float:right; margin-right:50px; width:110px;">
-		<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://twitter.com/#!/winkbingo">Tweet</a>
-		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-	</div>
-	<div style="float:right; margin-right:20px; width:80px;">
-		<g:plusone></g:plusone>
-	</div>	
-</div>
-
-<div id="leftContentFooter">
-</div>
-</div>
-
-<div id="rightcontent">
+</form><!-- #end of main form-->
 
 
-<link rel="stylesheet" type="text/css" href="http://www.winkbingo.com/wp-content/themes/wink/js/fancybox/jquery.fancybox-1.3.4.css" media="screen">
-<script type="text/javascript" src="http://www.winkbingo.com/wp-content/themes/wink/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-<script type="text/javascript">
-$(document).ready(function() {
-	$("#openCalendar").fancybox({
-		'padding'			: 0,
-		'width'         	: 600,
-		'height'        	: 450,		
-		'transitionIn'		: 'none',
-		'transitionOut'		: 'none',
-        'autoScale'			: false,
-		'wmode': 'transparent',
-	});	
-	$("#fancybox-outer").css({
-		'background-color'	: 'transparent',
-		'width'				: 600,
-		'height'			: 450
-		});	
-	$(".fancybox-bg").css('background-image', 'none');
-	$("#fancybox-close").css({
-	'right'					: 50,
-	'top'					: 0
-	});
-});
-</script>
 
-<div id="calendar">
-	<a id="openCalendar" href="http://www.winkbingo.com/_banners/calendar_website.swf">
-		<img alt="Wink Diary" border="0" src="http://www.winkbingo.com/images/diary/todayclick.png">
-	</a>
-	<img alt="Wink Today!" border="0" vspace="1" src="http://www.winkbingo.com/images/diary/calendar05.jpg">
-</div>
-<!--Instant Games-->
-<div id="hotgames">
-	<div id="gamescontainer"></div>
-		<script type="text/javascript">
-		var so = new SWFObject("http://www.winkbingo.com/_banners/holder-190x300.swf", "Instant Games", "190", "300", "8", "#000000");
-		so.addParam("wmode", "transparent");
-		so.addParam("quality", "best");
-		so.write("gamescontainer");
-		</script> 
-</div>
-<!-- ENDInstant Games-->
+	<div id="sidebar">
 
-<div id="sidebarTop"></div>	
-<div id="sidebar">
+		
 	
-	<!--Winners-->
-	<div id="winners">
-		
-		<div id="winnersTitle"></div>
-		
-		<div id="winnersImage">
-									
-						<img src="http://www.winkbingo.com/images/winners/2_winners_125x125.jpg" alt="ieuwink won £34,158.18 on Fluffy Favourites mini jackpot!">	
-
-		</div>
-		
-		<div id="winnersText">
-			<span style="font-size: 12px;"><strong>ieuwink won £34,158.18 on Fluffy Favourites mini jackpot!</strong></span><br>
-			<p>“I’m over the moon! Thanks Wink!” <a href="http://www.winkbingo.com/winner-home/1442/">More Info <span class="meta-nav">→</span></a></p>
-		</div>
-		
-		<div id="winnersShow"> Please Get Flash.</div>
+	<div id="sidebarBanner">Please Get Flash.</div>
 		<script type="text/javascript">
-		var so = new SWFObject("http://www.winkbingo.com/_banners/homepage_bigwinners_holder_196x55.swf", "winners_show", "196", "55", "8", "");
+		var so = new SWFObject("http://www.winkbingo.com/_banners/sidebar_holder_210x500.swf", "sidebar banner", "210", "500", "8", "");
 		so.addParam("wmode", "transparent");
-		so.write("winnersShow");
+		so.write("sidebarBanner");
 		</script>
 	
-	</div>
-	<!--END Winners-->
+ 
+
+	</div><!-- END rigthcontent -->
+
 	
-	<!--Countdown-->
-				<div id="countdown">Please Get Flash.</div>
-		<script type="text/javascript">
-		var so = new SWFObject("http://www.winkbingo.com/_banners/win-mini-countdown.swf", "Win a Mini", "173", "100", "8", "#000000");
-		so.addParam("wmode", "transparent");
-		so.addParam("quality", "best");
-		so.write("countdown");
-		</script>	
-    		<!--END Countdown-->
-	
-</div>
-<div id="sidebarFooter"></div>
-
-	<div id="sidebarTop"></div>	
-	<div id="sidebar" style="padding-left: 25px;">
-		<aside id="text-2" class="widget widget_text">			<div class="textwidget"><script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/6713014.js"></script>
-<noscript><a href="http://polldaddy.com/poll/6713014/" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://polldaddy.com']);">What type of game would you like to replace Sat Millionaire when it ends?</a></noscript></div>
-		</aside>	</div>
-	<div id="sidebarFooter" style="margin-top: -28px;"></div>
-
-
-</div><!-- END rigthcontent -->
-
-
-<div id="upperfooter">
-	<a href="/terms-and-conditions/">Terms &amp; Conditions</a> 
-	<a href="/responsible-gaming/">Responsible Gaming</a> 
-    <a href="/banking/">Banking</a>
-    <a href="/privacy-policy/">Privacy Policy</a>	
-    <a href="/about-us/">About Us</a>  
-    <a href="/help/">Help</a>
-    <a href="/contact-us/">Contact Us</a>
-    <a href="http://affiliate.joyofbingo.com" target="_blank">Affiliates</a>
-</div>
-<div id="footer">
-<img alt="Payment Methods" src="http://www.winkbingo.com/images/footermethods.gif" usemap="#MapPayment" border="0">
-<map name="MapPayment" id="MapPayment">
-	<area shape="rect" coords="535,1,566,20" href="https://www.paypal.com" target="_blank" alt="Paypal">
-    <area shape="rect" coords="509,1,533,21" href="http://www.ukash.com/" target="_blank" alt="Ukash">
-    <area shape="rect" coords="427,0,504,22" href="http://www.paysafecard.com" target="_blank" alt="Paysafe Card">
-    <area shape="rect" coords="367,1,425,21" href="http://www.thawte.com/" target="_blank" alt="Thawte">
-  	<area shape="rect" coords="572,-2,594,22" href="/responsible-gaming/" target="_blank" alt="Responsible Gaming">  
-  	<area shape="rect" coords="624,-3,646,23" href="http://www.gamcare.org.uk/" target="_blank" alt="GamCare">
-  	<area shape="rect" coords="598,-2,620,22" href="http://www.gibraltar.gov.gi/remotegambling" target="_blank" alt="Internet Gaming">
-	<area shape="rect" coords="15,2,73,22" href="http://www.neteller.com/" target="_blank" alt="Neteller">
-  	<area shape="rect" coords="78,3,107,19" href="http://www.visa.co.uk" target="_blank" alt="Visa">
-  	<area shape="rect" coords="117,3,147,19" href="http://www.mastercard.com" target="_blank" alt="Mastercard">
-  	<area shape="rect" coords="158,1,193,24" href="http://www.solocard.co.uk/" target="_blank" alt="Solo Card">
-  	<area shape="rect" coords="205,0,237,22" href="http://www.deltadebitcard.com/" target="_blank" alt="Delta">
-  	<area shape="rect" coords="239,2,267,21" href="http://www.visa.co.uk" target="_blank" alt="Visa Electron">
-  	<area shape="rect" coords="274,1,305,20" href="http://www.mastercard.com" target="_blank" alt="Maestro">
-  	<area shape="rect" coords="314,1,357,20" href="http://www.rbs.com/" target="_blank" alt="RBS">
-</map>
-
-<div id="hcard-Wink Bingo" class="vcard" style="width:510px; text-align:justify; float:left;"><p>Wink is licensed and regulated to offer online gaming services under the laws of Gibraltar through Cassava Enterprises (Gibraltar) which makes no representation as to legality of such services in other jurisdictions. We encourage <a style="text-decoration:underline; color:#FFFFFF" href="/responsible-gaming/">responsible gambling</a> and support <a style="text-decoration:underline; color:#FFFFFF" href="http://www.gamcare.org.uk/" target="_self">GamCare</a>.<br>
-</p>
-	<p>Our principal postal address is Suite 601-701 Europort, Europort Avenue, Gibraltar<br>
-	</p><p>
-	  Licensed by the Government of Gibraltar and Regulated by the Gibraltar Gambling Commissioner. Remote Gaming License No. RGL 022. Remote Sportsbook Licence No. RGL 039</p>
-</div>
-<div style="float:left; margin-left:20px; margin-top:10px;"><a href="http://www.joyofbingo.com/" target="_blank"><img src="http://www.winkbingo.com/images/JOB-logo.png" border="0"></a></div>
-<div class="vcard" style="float:left; width:85px; text-align:left; margin-left:5px; margin-top:5px;">Proud member of joyofbingo.com network</div>
-<div><img src="http://www.winkbingo.com/images/bingoportrecommended.png" border="0"></div>
-
 </div><!-- END maincontainer -->
 
+
+<div id="footer">
+
+	<div id="usefulinfo">
+		<h2 style="color: #e6078f;">Useful Info</h2>
+		<p><a href="/terms-and-conditions/">Terms &amp; Conditions</a><br>
+		<a href="/responsible-gaming/">Responsible Gaming</a><br>
+	    <a href="/banking/">Banking</a><br>
+		<a href="/paypal-bingo/">Paypal Bingo</a><br>
+	    <a href="/privacy-policy/">Privacy Policy</a><br>
+	    <a href="/about-us/">About Us</a> <br>
+	    <a href="/help/">Help</a><br>
+	    <a href="/contact-us/">Contact Us</a><br>
+	    <a href="http://affiliate.joyofbingo.com" target="_blank">Affiliates</a><br>
+		<a href="/bingo-resources/" target="_blank">Bingo Resources</a><br>
+		<a href="/fair-play/">Fair Play</a></p>		
+	</div>
+	
+	
+	<div id="homepageText">
+				
+	</div>
+	
+	<div id="followus">
+		<h2 style="color: #e6078f;">Follow Us</h2>
+		<div id="sociallogos">
+			<a href="http://twitter.com/winkbingo"><div id="twitter"></div></a>
+			<a href="http://www.youtube.com/user/winkbingo"><div id="youtube"></div></a>
+			<a href="http://www.facebook.com/winkbingo/"><div id="facebook"></div></a>
+			<a href="https://plus.google.com/u/0/110933577151831202702"><div id="googleplus"></div></a>
+		</div>
+		<div id="joylogo"><a href="http://affiliate.joyofbingo.com" target="_blank"><img src="http://www.winkbingo.com/images/JOB-logo.png" border="0"></a></div>
+		<div id="joytext">Proud member of joyofbingo.com network</div>
+	</div>
+	
+	<div id="payments">
+		<img src="http://www.winkbingo.com/commonassets/images/banking/banking-icons.gif" width="656" height="25" alt="banking logos" usemap="#Map">
+		<map name="Map" id="Map">
+		<area shape="rect" coords="2,0,40,24" href="https://www.neteller.com" target="_blank" alt="neteller">
+		<area shape="rect" coords="45,0,83,24" href="http://www.visa.co.uk" target="_blank" alt="Visa">
+		<area shape="rect" coords="88,0,126,24" href="http://www.visa.co.uk" target="_blank" alt="visa electron">
+		<area shape="rect" coords="132,0,170,24" href="http://www.visa.co.uk" target="_blank" alt="visa debit">
+		<area shape="rect" coords="177,-1,215,23" href="https://www.mastercard.co.uk" target="_blank" alt="mastercard">
+		<area shape="rect" coords="222,1,260,25" href="http://www.maestrocard.com/uk/" target="_blank" alt="maestro">
+		<area shape="rect" coords="264,-1,302,23" href="http://www.ukash.com/en-GB/" target="_blank" alt="ukash">
+		<area shape="rect" coords="308,0,346,24" href="http://www.rbs.com" target="_blank" alt="rbs">
+		<area shape="rect" coords="353,0,391,24" href="http://www.paysafecard.com/uk/uk-paysafecard/" target="_blank" alt="paysafe">
+		<area shape="rect" coords="397,1,435,25" href="http://www.entropay.com" target="_blank" alt="entropay">
+		<area shape="rect" coords="442,2,480,26" href="https://www.paypal.com" target="_blank" alt="paypal">
+		<area shape="rect" coords="485,0,523,24" href="/responsible-gaming/" alt="Responsible Gaming">
+		<area shape="rect" coords="528,1,566,25" href="http://www.gibraltar.gov.gi/remotegambling" alt="gib logo" target="_blank">
+		<area shape="rect" coords="575,0,613,24" href="http://www.gamcare.org.uk/" target="_blank" alt="GamCare">
+		<area shape="rect" coords="617,0,655,24" href="http://joyofbingo.com/" target="_blank" alt="joy of bingo">
+		</map>
+	</div>
+
+</div><!-- END footer -->
+
+<div id="vcard">
+	Cassava Enterprises, operating from Suite 601  701, Europort Avenue, Gibraltar, is licensed by the Government of Gibraltar, and are regulated by the Gibraltar Gambling Commissioner.<br>
+	Remote Gaming License No.RGL 022.<br>
+	We encourage <a href="/responsible-gaming/">responsible gambling</a> and support <a href="http://www.gamcare.org.uk/" target="_self">GamCare</a>.
+</div><!-- END vcard -->
+
+
+</div><!-- END #wrap -->
+</div><!-- END #glitter-->
 
 
 <!-- Crazy Egg SEO tool -->
@@ -422,4 +355,4 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
 <!-- END Crazy Egg SEO tool -->
 
-</div></body></html>
+</body></html>
