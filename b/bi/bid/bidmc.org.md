@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bidmc.org privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223125338id_/http%3A//www.bidmc.org/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidmc.org privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605030151id_/http%3A//bidmc.org/Global/Privacy-Notice.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Notice
 
 ## This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully.
 
@@ -8,31 +8,24 @@
 
 
 ### If you have any questions about this notice, please contact   
-the  [Office of Business Conduct](https://web.archive.org/CentersandDepartments/Departments/OfficeofBusinessConduct.aspx) at (617) 667-1897.
+the  [Office of Business Conduct](http://edit.bidmc.org/CentersandDepartments/Departments/OfficeofBusinessConduct.aspx) at (617) 667-1897.
 
 **This notice describes the practices of:**
 
-  * Beth Israel Deaconess Medical Center (BIDMC) , Harvard Medical Faculty Physicians Group and Medical Care of Boston, Inc. d/b/a Affiliated Physicians Group. All these entities, sites and locations follow the terms of this notice. In addition, these entities, sites and locations may share medical information with each other for treatment, payment, or hospital operations purposes described in this notice.   
-
-  * Any health care professional authorized to enter information into your hospital chart on behalf of these entities.   
-
-  * All departments and units of the hospital.   
-
-  * Any member of a volunteer group we allow to help you while you are in the hospital.   
-
-  * All employees, staff and other hospital personnel.   
-
-  * This notice describes the ways in which we may use and disclose your medical information. It also describes your rights and certain obligations we have regarding the use and disclosure of your medical information.
+  * Beth Israel Deaconess Medical Center (BIDMC) , Harvard Medical Faculty Physicians Group and Medical Care of Boston, Inc. d/b/a Affiliated Physicians Group. All these entities, sites and locations follow the terms of this notice. In addition, these entities, sites and locations may share medical information with each other for treatment, payment, or hospital operations purposes described in this notice. 
+  * Any health care professional authorized to enter information into your hospital chart on behalf of these entities. 
+  * All departments and units of the hospital. 
+  * Any member of a volunteer group we allow to help you while you are in the hospital. 
+  * All employees, staff and other hospital personnel. 
+  * This notice describes the ways in which we may use and disclose your medical information. It also describes your rights and certain obligations we have regarding the use and disclosure of your medical information. 
 
 
 
 **We are required by law to:**
 
-  * Ensure that medical information that identifies you is kept private;   
-
-  * Give you this notice of our legal duties and privacy practices with respect to medical information about you; and   
-
-  * Follow the terms of the notice that is currently in effect.
+  * Ensure that medical information that identifies you is kept private; 
+  * Give you this notice of our legal duties and privacy practices with respect to medical information about you; and 
+  * Follow the terms of the notice that is currently in effect. 
 
 
 
@@ -40,33 +33,23 @@ the  [Office of Business Conduct](https://web.archive.org/CentersandDepartments
 
 Each time you visit a hospital, physician, or other healthcare provider, a record of your visit is made. This record typically contains your symptoms, medical history, examination, test results, diagnoses, treatment, and a plan for future care or treatment. This information, often referred to as your health or medical record, serves as a:
 
-  * Basis for planning your care and treatment   
-
-  * Means of communication among the many health professionals who contribute to your care   
-
-  * Legal document describing the care you received   
-
-  * Means by which you or a third-party payer can verify that services billed were actually provided   
-
-  * A tool in educating health professionals   
-
-  * A source of data for medical research   
-
-  * A source of information for public health officials charged with improving the health of the nation   
-
-  * A source of data for facility planning and marketing   
-
-  * A tool with which we can assess and continually work to improve the care we render and the outcomes we achieve
+  * Basis for planning your care and treatment 
+  * Means of communication among the many health professionals who contribute to your care 
+  * Legal document describing the care you received 
+  * Means by which you or a third-party payer can verify that services billed were actually provided 
+  * A tool in educating health professionals 
+  * A source of data for medical research 
+  * A source of information for public health officials charged with improving the health of the nation 
+  * A source of data for facility planning and marketing 
+  * A tool with which we can assess and continually work to improve the care we render and the outcomes we achieve 
 
 
 
 **Understanding what is in your record and how your health information is used helps you to:**
 
-  * Ensure its accuracy   
-
-  * Better understand who, what, when, where, and why others may access your health information   
-
-  * Make more informed decisions when authorizing disclosure to others
+  * Ensure its accuracy 
+  * Better understand who, what, when, where, and why others may access your health information 
+  * Make more informed decisions when authorizing disclosure to others 
 
 
 
@@ -112,17 +95,12 @@ Treatment Alternatives.** We may use and disclose medical information to tell yo
 
 **Public Health Risks.** We may disclose, when requested, your medical information for public health activities. These activities generally include the following:
 
-  * To prevent or control disease, injury or disability;   
-
-  * To report births and deaths;   
-
-  * To report abuse and/or neglect of a child, elder or disabled person;   
-
-  * To report reactions to medications or problems with products;   
-
-  * To notify people of recalls of products they may be using; and   
-
-  * To notify a person who may have been exposed to a disease or may be at risk for contracting or spreading a disease or condition.
+  * To prevent or control disease, injury or disability; 
+  * To report births and deaths; 
+  * To report abuse and/or neglect of a child, elder or disabled person; 
+  * To report reactions to medications or problems with products; 
+  * To notify people of recalls of products they may be using; and 
+  * To notify a person who may have been exposed to a disease or may be at risk for contracting or spreading a disease or condition. 
 
 
 
@@ -132,17 +110,12 @@ Treatment Alternatives.** We may use and disclose medical information to tell yo
 
 **Law Enforcement.** We may release your medical information if asked to do so by a law enforcement official, if permitted by law:
 
-  * In response to a court order, subpoena, warrant, summons or similar process;   
-
-  * To identify or locate a suspect, fugitive, material witness, or missing person;   
-
-  * About the victim of a crime if, under certain limited circumstances, we are unable to obtain the person's agreement;   
-
-  * About a death we believe may be the result of criminal conduct;   
-
-  * About criminal conduct at the hospital; and   
-
-  * In emergency circumstances: to report a crime; the location of the crime or victims; or the identity, description or location of the person who committed the crime.
+  * In response to a court order, subpoena, warrant, summons or similar process; 
+  * To identify or locate a suspect, fugitive, material witness, or missing person; 
+  * About the victim of a crime if, under certain limited circumstances, we are unable to obtain the person's agreement; 
+  * About a death we believe may be the result of criminal conduct; 
+  * About criminal conduct at the hospital; and 
+  * In emergency circumstances: to report a crime; the location of the crime or victims; or the identity, description or location of the person who committed the crime. 
 
 
 
@@ -164,7 +137,7 @@ You have the following rights regarding medical information we maintain about yo
 
 You have the right to inspect and obtain a copy of your medical information that may be used to make decisions about your care. This request usually includes medical and billing records but does not include psychotherapy notes. 
 
-To  [inspect and obtain a copy of your medical information](https://web.archive.org/CentersandDepartments/Departments/HealthInformationManagementMedicalRecords/ObtainMedicalRecords.aspx) that may be used to make decisions about you, you must submit your request in writing for hospital records to BIDMC, Health Information Management, 330 Brookline Avenue, Boston, MA 02215. For copies of your physician's office records, please contact your physician's office directly. If you request a copy of the information, we may charge a fee for the costs of copying, mailing or other supplies associated with your request. We may deny your request to inspect and obtain a copy in certain very limited circumstances. If you are denied access to your medical information, you may request that the denial be reviewed. Another licensed health care professional chosen by the hospital will review your request and the denial. The person conducting the review will not be the person who denied your request. We will comply with the outcome of the review.
+To  [inspect and obtain a copy of your medical information](http://edit.bidmc.org/CentersandDepartments/Departments/HealthInformationManagementMedicalRecords/ObtainMedicalRecords.aspx) that may be used to make decisions about you, you must submit your request in writing for hospital records to BIDMC, Health Information Management, 330 Brookline Avenue, Boston, MA 02215. For copies of your physician's office records, please contact your physician's office directly. If you request a copy of the information, we may charge a fee for the costs of copying, mailing or other supplies associated with your request. We may deny your request to inspect and obtain a copy in certain very limited circumstances. If you are denied access to your medical information, you may request that the denial be reviewed. Another licensed health care professional chosen by the hospital will review your request and the denial. The person conducting the review will not be the person who denied your request. We will comply with the outcome of the review.
 
 ### 2\. Right to Amend
 
@@ -174,13 +147,10 @@ To request an amendment of your hospital record, your request must be made in wr
 
 We may deny your request for an amendment if it is not in writing or does not include a reason to support the request. We may also deny your request if you ask us to amend information that:
 
-  * Was not created by us, or the person or entity that created the information is no longer available to make the amendment;   
-
-  * Is not part of the medical information kept by or for the hospital;   
-
-  * Is not part of the information which you would be permitted to inspect and copy; or   
-
-  * Is accurate and complete.
+  * Was not created by us, or the person or entity that created the information is no longer available to make the amendment; 
+  * Is not part of the medical information kept by or for the hospital; 
+  * Is not part of the information which you would be permitted to inspect and copy; or 
+  * Is accurate and complete. 
 
 
 
@@ -209,7 +179,7 @@ To request confidential communications, you must make your request in writing th
 You have the right to a paper copy of this notice. You may ask us at any time to give you a copy of this notice. Even if you have agreed to receive this notice electronically, you are still entitled to a paper copy of this notice. 
 
 **To obtain a paper copy of this notice, please contact the Reception Desk or:  
-** BIDMC Office of Business Conduct   
+**BIDMC Office of Business Conduct   
 109 Brookline Ave Suite 300   
 Boston, MA  02215
 
