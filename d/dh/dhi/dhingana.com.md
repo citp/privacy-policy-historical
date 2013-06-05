@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhingana.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111215318id_/http%3A//www.dhingana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhingana.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605110124id_/http%3A//www.dhingana.com/privacy) for the most accurate reproduction.*
 
 # Hindi Songs, Bollywood Songs and Indian Music - Dhingana Music
 
