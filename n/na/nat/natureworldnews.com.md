@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the natureworldnews.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221190052id_/http%3A//www.natureworldnews.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natureworldnews.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605130204id_/http%3A//www.natureworldnews.com/privacypolicy) for the most accurate reproduction.*
 
-# NatureWorldNews
+# Nature World News
 
 ## PRIVACY POLICY
 
@@ -172,5 +172,3 @@ Further, if you use any of the Communities features and functions made available
     This document is the sole statement of the Site's Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, but not limited to, machine-generated, is valid.
     d. Other: 
     Please review our Terms of Use Agreement which governs your use of the Site. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement. This Privacy Policy was last modified on the date indicated above and is effective immediately. 
-
-© Copyright 2012 Nature World News. All Rights Reserved.
