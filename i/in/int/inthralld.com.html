@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the inthralld.com privacy policy that was archived on 2012-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121119003003id_/http%3A//inthralld.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inthralld.com privacy policy that was archived on 2013-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605094928id_/http%3A//inthralld.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><!-- BEGIN head --><head>
 
@@ -13,7 +13,7 @@
 	<title>Privacy | Inthralld</title>
 
 	<!-- Favicon -->
-	<link rel="Shortcut Icon" href="http://inthralld.com/wp-content/themes/inthralld/images/favicon.ico" type="image/x-icon">
+	<link rel="Shortcut Icon" href="http://cdn.inthralld.com/wp-content/themes/inthralld/images/favicon.ico" type="image/x-icon">
 
 	<!-- Feed and Pingback -->
 	<link rel="alternate" type="application/rss+xml" title="Inthralld Feed" href="http://inthralld.com/feed/">
@@ -47,24 +47,32 @@
 	
 
 	<link rel="alternate" type="application/rss+xml" title="Inthralld » Privacy Comments Feed" href="http://inthralld.com/privacy/feed/">
-<link rel="stylesheet" id="thickbox-css" href="http://inthralld.com/wp-includes/js/thickbox/thickbox.css?ver=3.4.1" type="text/css" media="all">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js?ver=3.4.1"></script>
-<script type="text/javascript" src="http://inthralld.com/wp-content/themes/inthralld/js/scripts.js?ver=3.4.1"></script>
+<link rel="stylesheet" id="thickbox-css" href="http://inthralld.com/wp-includes/js/thickbox/thickbox.css?ver=20121105" type="text/css" media="all">
+<link rel="stylesheet" id="wordpress-popular-posts-css" href="http://inthralld.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.5.1" type="text/css" media="all">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://cdn.inthralld.com/wp-content/themes/inthralld/js/scripts.js?ver=3.5.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://inthralld.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://inthralld.com/wp-includes/wlwmanifest.xml"> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cdn.inthralld.com/wp-includes/wlwmanifest.xml"> 
 <link rel="prev" title="Terms" href="http://inthralld.com/terms/">
 <link rel="next" title="Contact" href="http://inthralld.com/contact/">
-
-<!-- All in One SEO Pack 1.6.14.5 by Michael Torbert of Semper Fi Web Design[898,926] -->
+<!-- Wordpress Popular Posts v2.3.2 -->
+<script type="text/javascript">
+    /* <![CDATA[ */				
+	jQuery.post('http://inthralld.com/wp-admin/admin-ajax.php', {action: 'wpp_update', token: 'c4b1f31ce7', id: 71}, function(data){/*alert(data);*/});
+    /* ]]> */
+</script>
+<!-- End Wordpress Popular Posts v2.3.2 -->
+            
+<!-- All in One SEO Pack 2.0.1 by Michael Torbert of Semper Fi Web Design[844,872] -->
+<link rel="author" href="https://plus.google.com/103095283754778541591/posts">
 <meta name="description" content="1. INTRODUCTION 1.1. PURPOSE OF POLICY. Freshcom Media LLC, db@FreshcomMedia.com, &nbsp;TheVersed.com, HiConsumption.com, and Inthralld.com (“us,” “we,” or">
+
 <link rel="canonical" href="http://inthralld.com/privacy/">
-<!-- /all in one seo pack -->
 		<script type="text/javascript">
 
 		  var _gaq = _gaq || [];
 		  _gaq.push(['_setAccount', 'UA-20543336-7']);
 		  _gaq.push(['_trackPageview']);
-
 		  (function() {
 		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -72,9 +80,73 @@
 		  })();
 
 		</script>
-	<style type="text/css">.broken_link, a.broken_link {
+<!-- /all in one seo pack -->
+<style type="text/css">.broken_link, a.broken_link {
 	text-decoration: line-through;
-}</style>
+}</style>	
+	<script type="text/javascript">
+	jQuery(document).ready(function() {
+		if (jQuery('#text-11').length) { // make sure "#sticky" element exists
+		      var el = jQuery('#text-11');
+//			  var el2 = jQuery('#home-entry .advert-container');
+		      var stickyTop = jQuery('#text-11').offset().top; // returns number
+		      var stickyHeight = jQuery('#text-11').height();
+
+		      jQuery(window).scroll(function(){ // scroll event
+		          var limit = jQuery('#footer').offset().top - stickyHeight - 20;
+
+		          var windowTop = jQuery(window).scrollTop(); // returns number
+
+		          if (stickyTop + 60 < windowTop){
+		             el.css({ position: 'fixed', top: '60px', width: '300px' });
+//		             el2.css({ position: 'fixed' });
+		          }
+		          else {
+		             el.css('position','static');
+//		             el2.css('position','static');
+		          }
+
+		          if (limit < windowTop) {
+		          var diff = limit - windowTop;
+		          el.css({top: diff});
+//		          el2.css({top: diff});
+		          }
+		        });
+		   }
+	});
+
+	jQuery(document).ready(function() {
+		if (jQuery('#text-12').length) { // make sure "#sticky" element exists
+		      var el = jQuery('#text-12');
+//			  var el2 = jQuery('.sidebar-right > .advert-container');
+		      var stickyTop = jQuery('#text-12').offset().top; // returns number
+		      var stickyHeight = jQuery('#text-12').height();
+
+		      jQuery(window).scroll(function(){ // scroll event
+		          var limit = jQuery('#footer').offset().top - stickyHeight - 20;
+
+		          var windowTop = jQuery(window).scrollTop(); // returns number
+
+		          if (stickyTop + 60 < windowTop){
+		             el.css({ position: 'fixed', top: '60px', width: '300px' });
+//		             el2.css({ position: 'fixed' });
+		          }
+		          else {
+		             el.css('position','static');
+//		             el2.css('position','static');
+		          }
+
+		          if (limit < windowTop) {
+		          var diff = limit - windowTop;
+		          el.css({top: diff});
+//		          el2.css({top: diff});
+		          }
+		        });
+		   }
+	});
+	
+	</script>
+
 	<script type="text/javascript">
 	var googletag = googletag || {};
 	googletag.cmd = googletag.cmd || [];
@@ -115,6 +187,7 @@
 </head>
 
 <!-- BEGIN body -->
+
 <body class="page page-id-71 page-template-default">
 
 <!-- BEGIN #banner-advert -->
@@ -143,22 +216,15 @@
 <!-- BEGIN #container -->
 <div id="container">
 
-		<!-- BEGIN #header-search -->
-		<section id="header-search">
-
-			<form method="get" id="searchform" action="http://inthralld.com">
-				<div>
-				  <input type="text" name="s" id="s" value="Search" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
-				  <input type="submit" id="searchsubmit" value="Search" class="btn">
-				</div>
-			</form>
+		<!-- BEGIN #header-search -->		<section id="header-search">
+		<form method="get" id="searchform" action="http://inthralld.com">				<div>				  <input type="text" name="s" id="s" value="Search" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">				  <input type="submit" id="searchsubmit" value="Search" class="btn">				</div>			</form>		
 
 		<!-- END #header-search -->
 		</section>
 
 		<!-- BEGIN #logo -->
 		<section id="logo">
-			<a href="/"><img src="http://inthralld.com/wp-content/themes/inthralld/images/logo.png" height="140" width="330" alt=""></a>
+			<a href="/"><img src="http://cdn.inthralld.com/wp-content/themes/inthralld/images/logo.png" height="140" width="330" alt=""></a>
 		<!-- END #logo -->
 		</section>
 		
@@ -174,16 +240,14 @@
 <li id="menu-item-11516" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11516"><a href="http://inthralld.com/category/features/">Features</a></li>
 </ul></div>    					<!-- END nav -->
 		</nav>
-
 	<!-- BEGIN #post-entry -->
 	<div id="post-entry">
 
-		<!-- BEGIN .sidebar-home -->
+		<!-- BEGIN .sidebar-right -->
 <div class="sidebar-right">
 
 <!-- BEGIN .advert-container-top -->
 <div class="advert-container-top">
-
 
 	<!-- atf_medium_rectangle_inthralld -->
 	<div id="div-gpt-ad-1345252657307-1" style="width:300px; height:auto; margin: 0; padding: 0; position; relative;">
@@ -203,13 +267,13 @@
 						<div class="group">
 				<div id="text-5" class="widget widget_text">			<div class="textwidget"><div class="fb-like-box" data-href="https://www.facebook.com/Inthralld" data-width="300" data-height="185" data-show-faces="true" data-border-color="#fff" data-stream="false" data-header="false"></div>
 
-<a href="http://twitter.com/inthralld" target="_&quot;blank&quot;"><img class="social" src="http://inthralld.com/wp-content/uploads/2012/09/twitter.png" alt=""></a>
+<a href="http://twitter.com/inthralld" target="_&quot;blank&quot;"><img class="social" src="http://cdn.inthralld.com/wp-content/uploads/2012/09/twitter.png" alt=""></a>
 
-<a href="http://pinterest.com/inthralld/" target="_&quot;blank&quot;"> <img class="social" src="http://inthralld.com/wp-content/uploads/2012/09/pinterest.png" alt=""></a>
+<a href="http://pinterest.com/inthralld/" target="_&quot;blank&quot;"> <img class="social" src="http://cdn.inthralld.com/wp-content/uploads/2012/09/pinterest.png" alt=""></a>
 
-<a href="https://plus.google.com/116802658962011612140/posts" target="_&quot;blank&quot;"><img class="social" src="http://inthralld.com/wp-content/uploads/2012/09/google.png" alt=""></a>
+<a href="https://plus.google.com/116802658962011612140/posts" target="_&quot;blank&quot;"><img class="social" src="http://cdn.inthralld.com/wp-content/uploads/2012/09/google.png" alt=""></a>
 
-<a href="http://feeds.feedburner.com/Inthralld" target="_&quot;blank&quot;"><img class="social" src="http://inthralld.com/wp-content/uploads/2012/09/feed.png" alt=""></a></div>
+<a href="http://feeds.feedburner.com/Inthralld" target="_&quot;blank&quot;"><img class="social" src="http://cdn.inthralld.com/wp-content/uploads/2012/09/feed.png" alt=""></a></div>
 		</div><div id="text-6" class="widget widget_text"><h4>Inthralld Daily Email</h4>			<div class="textwidget"><div class="subscribe">
 
 
@@ -218,11 +282,20 @@
 </form>
 
 </div></div>
-		</div>			</div>
-		</aside>
+		</div><!-- Wordpress Popular Posts Plugin v2.3.2 [W] [weekly] [regular] -->
+<div id="wpp-3" class="widget popular-posts">
+<h4>Top 5 Posts of the Week</h4><!-- Wordpress Popular Posts Plugin v2.3.2 [Widget] [weekly] [regular] -->
+<ul>
+<li><a href="http://inthralld.com/2013/03/15-unique-tiny-studio-apartment-design-ideas/" class="wpp-thumbnail" title="15 Unique Tiny Studio Apartment Design Ideas"><img src="http://inthralld.com/wp-content/plugins/wordpress-popular-posts/timthumb.php?src=http://inthralld.com/wp-content/uploads/2013/03/15-Unique-Tiny-Studio-Apartment-Design-Ideas-1.jpg&amp;h=60&amp;w=60" width="60" height="60" alt="15 Unique Tiny Studio Apartment Design Ideas" border="0" class="wpp-thumbnail wpp_fi"></a><a href="http://inthralld.com/2013/03/15-unique-tiny-studio-apartment-design-ideas/" title="15 Unique Tiny Studio Apartment Design Ideas" class="wpp-post-title">15 Unique Tiny Studio Apartment Design Ideas</a> <span class="post-stats"></span></li>
+<li><a href="http://inthralld.com/2013/05/school-bus-gives-mobile-home-a-new-meaning/" class="wpp-thumbnail" title="School Bus Gives ‘Mobile Home’ A New Meaning"><img src="http://inthralld.com/wp-content/plugins/wordpress-popular-posts/timthumb.php?src=http://inthralld.com/wp-content/uploads/2013/05/School-Bus-Gives-Mobile-Home-A-New-Meaning-1.jpg&amp;h=60&amp;w=60" width="60" height="60" alt="School Bus Gives ‘Mobile Home’ A New Meaning" border="0" class="wpp-thumbnail wpp_fi"></a><a href="http://inthralld.com/2013/05/school-bus-gives-mobile-home-a-new-meaning/" title="School Bus Gives ‘Mobile Home’ A New Meaning" class="wpp-post-title">School Bus Gives ‘Mobile Home’ A New Meaning</a> <span class="post-stats"></span></li>
+<li><a href="http://inthralld.com/2013/05/13-functional-hideaway-bed-design-ideas/" class="wpp-thumbnail" title="13 Functional Hideaway Bed Design Ideas"><img src="http://inthralld.com/wp-content/plugins/wordpress-popular-posts/timthumb.php?src=http://inthralld.com/wp-content/uploads/2013/05/13-Functional-Hideaway-Bed-Design-Ideas-1.jpg&amp;h=60&amp;w=60" width="60" height="60" alt="13 Functional Hideaway Bed Design Ideas" border="0" class="wpp-thumbnail wpp_fi"></a><a href="http://inthralld.com/2013/05/13-functional-hideaway-bed-design-ideas/" title="13 Functional Hideaway Bed Design Ideas" class="wpp-post-title">13 Functional Hideaway Bed Design Ideas</a> <span class="post-stats"></span></li>
+<li><a href="http://inthralld.com/2012/08/20-inventive-ways-to-upcycle-pallets/" class="wpp-thumbnail" title="20 Inventive Ways To Upcycle Pallets"><img src="http://inthralld.com/wp-content/plugins/wordpress-popular-posts/timthumb.php?src=http://inthralld.com/wp-content/uploads/2012/08/20-Inventive-Ways-To-Upcycle-Pallets-0.jpeg&amp;h=60&amp;w=60" width="60" height="60" alt="20 Inventive Ways To Upcycle Pallets" border="0" class="wpp-thumbnail wpp_fi"></a><a href="http://inthralld.com/2012/08/20-inventive-ways-to-upcycle-pallets/" title="20 Inventive Ways To Upcycle Pallets" class="wpp-post-title">20 Inventive Ways To Upcycle Pallets</a> <span class="post-stats"></span></li>
+<li><a href="http://inthralld.com/2013/05/cassette-is-not-dead-features-upcycled-tapes-as-lighting/" class="wpp-thumbnail" title="Cassette is Not Dead Features Upcycled Tapes as Lighting"><img src="http://inthralld.com/wp-content/plugins/wordpress-popular-posts/timthumb.php?src=http://inthralld.com/wp-content/uploads/2013/05/Cassette-is-Not-Dead-Features-Upcycled-Tapes-as-Lighting-1.jpg&amp;h=60&amp;w=60" width="60" height="60" alt="Cassette is Not Dead Features Upcycled Tapes as Lighting" border="0" class="wpp-thumbnail wpp_fi"></a><a href="http://inthralld.com/2013/05/cassette-is-not-dead-features-upcycled-tapes-as-lighting/" title="Cassette is Not Dead Features Upcycled Tapes as Lighting" class="wpp-post-title">Cassette is Not Dead Features Upcycled Tapes as Li…</a> <span class="post-stats"></span></li>
 
-
-<!-- BEGIN .advert-container -->
+</ul>
+</div>
+<!-- End Wordpress Popular Posts Plugin v2.3.2 -->
+<div id="text-14" class="widget widget_text">			<div class="textwidget"><!-- BEGIN .advert-container -->
 <div class="advert-container">
 
 	<!-- wide_skyscraper_inthralld -->
@@ -237,7 +310,11 @@
 	</div>
 
 <!-- END .advert-container -->
-</div>
+</div></div>
+		</div><div id="text-12" class="widget widget_text"><h4>Join Us On Facebook</h4>			<div class="textwidget"><div class="fb-like-box" data-href="https://www.facebook.com/Inthralld" data-width="300" data-height="250" data-show-faces="true" data-border-color="#fff" data-stream="false" data-header="false"></div></div>
+		</div>			</div>
+		</aside>
+
 
 <!-- END .sidebar-right -->
 </div>
@@ -248,7 +325,7 @@
 				<!-- BEGIN .post-header -->
 				<section class="post-header">
 					<h1 class="title">Privacy</h1>
-					<h4 class="title">Posted 309 days ago by <a href="http://inthralld.com/author/ian/" title="Posts by ian" rel="author">ian</a></h4>
+					<h4 class="title">Posted 507 days ago by <a href="http://inthralld.com/author/ian/" title="Posts by ian" rel="author">ian</a></h4>
 				<!-- END .post-header -->
 				</section>
 
@@ -323,6 +400,14 @@ FreshcomPolicy [at] gmail (dot) com</p>
 <!-- BEGIN #footer -->
 <div id="footer">
 
+	<!-- BEGIN #footer-advert -->
+	<section id="footeradvert">
+
+		
+
+	<!-- END #footer-advert -->
+	</section>
+
 <div id="footer-bottom">
 
 	<div id="footer-bottom-inner">
@@ -333,6 +418,7 @@ FreshcomPolicy [at] gmail (dot) com</p>
 		<!-- BEGIN nav -->
 		<nav role="footer">
 			    			<div class="menu-footer-navigation-container"><ul id="menu-footer-navigation" class="menu"><li id="menu-item-11512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11512"><a href="http://inthralld.com/about/">About</a></li>
+<li id="menu-item-16844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16844"><a href="http://inthralld.com/advertise/">Advertise</a></li>
 <li id="menu-item-11513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11513"><a href="http://inthralld.com/contact/">Contact</a></li>
 <li id="menu-item-11514" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-71 current_page_item menu-item-11514"><a href="http://inthralld.com/privacy/">Privacy</a></li>
 <li id="menu-item-11515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11515"><a href="http://inthralld.com/terms/">Terms</a></li>
@@ -370,12 +456,13 @@ glam_logo_country = 'US';
 <!-- END #footer -->
 </div>
 
+<script type="text/javascript" src="http://s.skimresources.com/js/22242X1178630.skimlinks.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/inthralld.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif","closeImage":"http:\/\/inthralld.com\/wp-includes\/js\/thickbox\/tb-close.png"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://inthralld.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20111117"></script>
+<script type="text/javascript" src="http://cdn.inthralld.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105"></script>
 
 <!-- Facebook Like Box -->
 <div id="fb-root"></div>
@@ -414,4 +501,8 @@ var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","c
 
 <!-- END html -->
 
-</body></html>
+
+<!-- Dynamic page generated in 0.619 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2013-06-05 08:48:40 -->
+
+<!-- super cache --></body></html>
