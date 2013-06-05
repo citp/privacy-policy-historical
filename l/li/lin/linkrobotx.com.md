@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkrobotx.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231055057id_/http%3A//linkrobotx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkrobotx.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605073112id_/http%3A//linkrobotx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Link Robot X - SEO Automation | Link Robot X - SEO Automation
+# Privacy Policy | Link Robot X - SEO Automation
 
 This privacy policy sets out how xpert tech uses and protects any information that you give xpert tech when you use this website.
 
