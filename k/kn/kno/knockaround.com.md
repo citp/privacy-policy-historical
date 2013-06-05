@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knockaround.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204160227id_/http%3A//knockaround.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knockaround.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605145505id_/http%3A//knockaround.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Knockaround Sunglasses
 
@@ -72,4 +72,4 @@ The following includes a list of instances in which your personal information ma
 
 **Contact**
 
-If you have any questions regarding this privacy policy, please contact Knockaround at [info@knockaround.com](mailto:info@knockaround.com) or 2500 Hoover Ave. Suite H, National City, California 91950.
+If you have any questions regarding this privacy policy, please contact Knockaround at [info@knockaround.com](mailto:info@knockaround.com) or 2031 Commercial Street, San Diego, CA 92113.
