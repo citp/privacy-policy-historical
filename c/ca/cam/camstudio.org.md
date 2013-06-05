@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camstudio.org privacy policy that was archived on 2012-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120910080916id_/http%3A//camstudio.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camstudio.org privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605163116id_/http%3A//camstudio.org/privacy.htm) for the most accurate reproduction.*
 
 # CamStudio - Our Privacy Policy
 
@@ -45,7 +45,7 @@ Check out the FTC's site for more tips on protecting children's privacy online.:
 
 ## Contacting Us.
 
-We can be reached by contacting: **nickthegeek@gmail.com** or by using the web-based Helpdesk here: [**http://www.365admin.com/helpdesk** ](http://www.365admin.com/helpdesk)
+We can be reached by contacting: **privacy @ camstudio . org (remove spaces)**
 
 Click Here To Return To The Previous Page 
 
