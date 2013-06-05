@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dphotojournal.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205014516id_/http%3A//www.dphotojournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dphotojournal.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605225843id_/http%3A//www.dphotojournal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Camera Reviews & Photography Tips
 
