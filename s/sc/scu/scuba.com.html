@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scuba.com privacy policy that was archived on 2012-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121112200354id_/http%3A//scuba.com/resources/security_and_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scuba.com privacy policy that was archived on 2013-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605071102id_/http%3A//www.scuba.com/resources/security_and_privacy.asp) for the most accurate reproduction.-->
 
 <html><head><style fprolloverstyle="">
 body
@@ -23,10 +23,13 @@ body
 
 		@import url("/_homepage2012/css/common_inside_2012v3.css");
 
-		@import url("/_homepage2012/css/common_inside_2012_v3_xmas.css");
-
-	</style>
-	<!--[if gte IE 8]>
+	
+@media screen and (min-width:0\0) {
+   /* IE10-specific CSSstyles go here */
+   /* Fix Spacing at bottom of searchbar */
+   .searchcontrol {	padding-bottom:15px !important;}
+}	</style>
+    <!--[if gte IE 8]>
 	<link rel="stylesheet" type="text/css" href="/newsite/_css3/ie8.css" />
 	<![endif]-->
 	<!--[if lte IE 7]>
@@ -45,6 +48,7 @@ body
 <script type="text/javascript" src="/_homepage2012/js/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="/_homepage2012/js/custom.js"></script>
 <script type="text/javascript" src="/_homepage2012/js/kwicks/jquery.kwicks-1.5.1.pack.js"></script>
+
 <!-- HEADER -->
 <div id="inside-header" class="clearfix">
 <!-- MINIMUM WIDTH SEARCH BOX FIX -->
@@ -53,14 +57,6 @@ body
 <!-- HEADER WRAPPER-->
 <div id="inside-header-wrapper">
 
-
-<div id="instructors">
-<p style="margin:3px 0 0 0;padding:0;"><span style="letter-spacing:-.05em">Call our certified </span>SCUBA Instructors</p>
-<p style="font-size:20px;font-weight:bold;letter-spacing:-.02em;color:#ffffff;margin:-2px 0 0 0;padding:0;"><span class="num">1.800.34.SCUBA</span></p>
-
-<p style="font-size:13px;font-weight:normal;color:#dcf3fe;margin:-3px 0 0 0;padding:0;">7 days 8AM - 6PM PST</p>
-
-</div>
 
 <!-- INSTRUCTORS END -->
 <!-- HEADER LINKS -->
@@ -85,57 +81,55 @@ body
   <tbody><tr>
     <td width="334">
     <!-- LOGO -->
-<div id="inside-logo"><a href="/"><img src="/_homepage2012/images/inside/xmas-scuba-logo-header-inside.png" width="334" height="98" border="0"></a></div>
+<div id="inside-logo"><a href="http://www.scuba.com/"><img src="/_homepage2012/images/inside/scuba-logo-header-inside.png" width="334" height="98" border="0"></a></div>
 <!-- LOGO END -->
 </td>
-    <td valign="bottom"><!-- SEARCH BAR -->
+    <td valign="bottom">
+
+    <!-- SEARCH BAR -->
+	
+    <script type="text/javascript" src="/resources/SearchAutoFill/jquery.autocomplete.js"></script>
+    <script type="text/javascript">
+      //<![CDATA[
+        var a1;
+        jQuery(function () {
+            var onAutocompleteSelect = function(value, data) {
+                $('#selection').html('<img src="\/global\/flags\/small\/' + data + '.png" alt="" \/> ' + value);
+            };
     
-     
-            <script type="text/javascript" src="/_homepage2012/js/jquery-1.7.1.min.js"></script>
-            <script type="text/javascript" src="/resources/SearchAutoFill/jquery.autocomplete.js"></script>
-            <script type="text/javascript">
-			  //<![CDATA[
-				var a1;
-				jQuery(function () {
-					var onAutocompleteSelect = function(value, data) {
-						$('#selection').html('<img src="\/global\/flags\/small\/' + data + '.png" alt="" \/> ' + value);
-					};
-			
-					var options = {
-						serviceUrl: '/resources/SearchAutoFill/AutoCompleteSearch.aspx',
-						width: 220,
-						delimiter: /(,|;)\s*/,
-						onSelect: onAutocompleteSelect,
-						deferRequestBy: 220, //miliseconds
-						noCache: false //set to true, to disable caching
-					};
-			
-					a1 = $('#search-field2').autocomplete(options);
-					
-					$('#navigation a').each(function () {
-						$(this).click(function (e) {
-							var element = $(this).attr('href');
-							$('html').animate({ scrollTop: $(element).offset().top }, 300, null, function () { document.location = element; });
-							e.preventDefault();
-						});
-					});		
-				});
-			//]]>
-			
-			function searchSubmit(){document.getElementById("searchForm").submit();}
-			</script>
+            var options = {
+                serviceUrl: '/resources/SearchAutoFill/AutoCompleteSearch.aspx',
+                width: 220,
+                delimiter: /(,|;)\s*/,
+                onSelect: onAutocompleteSelect,
+                deferRequestBy: 220, //miliseconds
+                noCache: false //set to true, to disable caching
+            };
+    
+            a1 = $('#search-field2').autocomplete(options);
             
-             <form method="post" action="http://www.scuba.com/resources/search1.asp" id="searchForm">
+            $('#navigation a').each(function () {
+                $(this).click(function (e) {
+                    var element = $(this).attr('href');
+                    $('html').animate({ scrollTop: $(element).offset().top }, 300, null, function () { document.location = element; });
+                    e.preventDefault();
+                });
+            });		
+        });
+    //]]>
+    function searchSubmit(){document.getElementById("searchForm").submit();}
+    </script>
+		<form method="get" action="http://www.scuba.com/resources/search1.asp" id="searchForm">
         <input type="hidden" name="Action" value="Search">
         <table border="0" cellspacing="0" cellpadding="0" width="100%" class="searchcontrol">
   <tbody><tr>
-    <td style="background-image:url(/_homepage2012/images/inside/search-bar-left.png);height:39px;width:13px;"><img src="/images/spacer.gif" width="13px"></td>
-    <td style="background-image:url(/_homepage2012/images/inside/search-bar-stretch-middle.png);">
-          <input type="text" id="search-field2" name="search" value="Search:" onfocus="javascript: if(!this._haschanged){this.value=''};this._haschanged=true;" autocomplete="off">
+    <td style="background-image:url(/_homepage2012/images/inside/search-bar-left.png);height:39px;width:13px;background-repeat:no-repeat"><img src="/images/spacer.gif" width="13px"></td>
+    <td style="background-image:url(/_homepage2012/images/inside/search-bar-stretch-middle.png);background-repeat:repeat-x;">
+          <input type="text" id="search-field2" name="Search" value="Search:" onfocus="javascript: if(!this._haschanged){this.value=''};this._haschanged=true;" autocomplete="off">
         </td>
   
-    <td style="background-image:url(/_homepage2012/images/inside/xmas-search-bar-button-red.png);width:56px;"> <input type="submit" name="Action" value="" id="search-button2"></td>
-	 
+    <td style="background-image:url(/_homepage2012/images/inside/search-bar-right-button.png);width:56px;background-repeat:no-repeat"> <input type="submit" value="" id="search-button2"></td>
+     
   
 
   </tr>
@@ -231,8 +225,8 @@ body
 </div>
 <!-- HEADER WRAPPER ENDS-->
 <!--<div style="height:0px;margin:0;padding:0;border-top:1px solid #cccccc;"></div>-->
-<script type="text/javascript" src="/_homepage2012/js/jquery-1.7.1.min.js"></script>
-<script type="text/javascript" src="/resources/SearchAutoFill/jquery.autocomplete.js"></script><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="160" valign="top"><div id="sidebar"><div class="tile why-scuba"><ul><li><a href="http://www.scuba.com/ads/nosalestax.asp">No Sales Tax</a></li><li><a href="http://www.scuba.com/happycustomers.asp">150% Price Protection</a></li><li><a href="http://www.scuba.com/resources/warranty_info.asp">Full Manufacturer's Warranty</a></li></ul></div><div class="tile"><h3>Scuba Equipment Packages</h3><ul id="packages"><li><a class="no-child" href="http://www.scuba.com/shop/product.asp_category_11_categoryname_Personal+Gear+Packages">Personal Gear Packages</a></li><li><a class="no-child" href="http://www.scuba.com/shop/divesystems.asp">Diving Systems</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Underwater-Camera.html">Camera Packages</a></li><li><a class="no-child" href="http://www.scuba.com/shop/packages.asp_type_Snorkel_Package_Snorkel">Snorkeling Packages</a></li><li><a class="no-child" href="http://www.scuba.com/shop/packages.asp_Package_Wetsuit">Wetsuit Packages</a></li></ul></div><div class="tile"><h3>Product Categories</h3><ul id="prod-categories"><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Bags.html">Bags</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Books-Videos-and-CDs.html">Books Videos and CDs</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Boots.html">Boots</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Buoyancy-Compensators.html">Buoyancy Compensators</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Underwater-Camera.html">Cameras</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Clips-and-Reels.html">Clips and Reels</a></li><li><a class="no-child" href="http://www.scuba.com/shop/UsedCategories.asp">Closeouts</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Clothing.html">Clothing</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Communication.html">Communication</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Compressors.html">Compressors</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Computers.html">Computers</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Dive-Skins.html">Dive Skins</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Dry-Boxes.html">Dry Boxes</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Dry-Suits.html">Dry Suits</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Fins.html">Fins</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Free-Diving.html">Free Diving</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Gauges.html">Gauges</a></li><li><a class="no-child" href="http://www.scuba.com/shop/giftcertificate.asp_Buy_Yes">Gift Certificate</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Gift-Items.html">Gift Items</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Gloves.html">Gloves</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Hood.html">Hood</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Hookah-Systems.html">Hookah Systems</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Kayaks.html">Kayaks</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Kidz-Gear.html">Kidz Gear</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Knives.html">Knives</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Lights.html">Lights</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Masks.html">Masks</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Miscellaneous.html">Miscellaneous</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear-33/Octos-Spare-Air.html">Octos/Spare Air</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Regulators.html">Regulators</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Safety-First-Aid.html">Safety/First Aid</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Scooters.html">Scooters</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear-39/Snorkels.html">Snorkels</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Spearguns.html">Spearguns</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Surfing.html">Surfing</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Swimming.html">Swimming</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Tanks.html">Tanks</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/TEK-Gear.html">TEK Gear</a></li><li><a class="no-child" href="http://www.scuba.com/shop/UsedCategories.asp">Used Gear</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Watches.html">Watches</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear-154/Weights-and-Belts.html">Weights and Belts</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Wet-Suits.html">Wetsuits</a></li></ul></div><div class="tile"><h3>Quick Links</h3><ul id="prod-categories"><li><a class="no-child" href="http://www.scuba.com/resources/search.asp">Search Our Site</a></li><li><a class="no-child" href="http://www.scuba.com/scuba_diving_equipment.asp">Scuba Gear Directory</a></li><li><a class="no-child" href="http://www.scuba.com/ads/shipping.asp">Shipping Rates</a></li><li><a class="no-child" href="http://www.scuba.com/customer.asp">Order Status</a></li><li><a class="no-child" href="http://www.scuba.com/shop/order.asp">View Cart</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear-reviews/">Customer Reviews</a></li><li><a class="no-child" href="http://www.scuba.com/me/">Diver Webpages</a></li><li><a class="no-child" href="http://www.scuba.com/scubagames/">Scuba Games &amp; Contests</a></li></ul></div></div><!-- /sidebar --></td><td>&nbsp;&nbsp;</td><td class="page-main-content" width="90%" valign="top" bgcolor="#FFFFFF"><br>
+
+<script type="text/javascript" src="/resources/SearchAutoFill/jquery.autocomplete.js"></script><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="160" valign="top"><div id="sidebar"><div class="tile why-scuba"><ul><li><a href="http://www.scuba.com/ads/nosalestax.asp">No Sales Tax</a></li><li><a href="http://www.scuba.com/happycustomers.asp">150% Price Protection</a></li><li><a href="http://www.scuba.com/resources/warranty_info.asp">Full Manufacturer's Warranty</a></li></ul></div><div class="tile"><h3>Scuba Equipment Packages</h3><ul id="packages"><li><a class="no-child" href="http://www.scuba.com/shop/product.asp_category_11_categoryname_Personal+Gear+Packages">Personal Gear Packages</a></li><li><a class="no-child" href="http://www.scuba.com/shop/divesystems.asp">Diving Systems</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Underwater-Camera.html">Camera Packages</a></li><li><a class="no-child" href="http://www.scuba.com/shop/packages.asp_type_Snorkel_Package_Snorkel">Snorkeling Packages</a></li><li><a class="no-child" href="http://www.scuba.com/shop/packages.asp_Package_Wetsuit">Wetsuit Packages</a></li></ul></div><div class="tile"><h3>Product Categories</h3><ul id="prod-categories"><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Bags.html">Bags</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Books-Videos-and-CDs.html">Books Videos and CDs</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Boots.html">Boots</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Buoyancy-Compensators.html">Buoyancy Compensators</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Underwater-Camera.html">Cameras</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Clips-and-Reels.html">Clips and Reels</a></li><li><a class="no-child" href="http://www.scuba.com/shop/UsedCategories.asp">Closeouts</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Clothing.html">Clothing</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Communication.html">Communication</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Compressors.html">Compressors</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Computers.html">Computers</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Dive-Skins.html">Dive Skins</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Dry-Boxes.html">Dry Boxes</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Dry-Suits.html">Dry Suits</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Fins.html">Fins</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Free-Diving.html">Free Diving</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Gauges.html">Gauges</a></li><li><a class="no-child" href="http://www.scuba.com/shop/giftcertificate.asp_Buy_Yes">Gift Certificate</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Gift-Items.html">Gift Items</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Gloves.html">Gloves</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Hood.html">Hood</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Hookah-Systems.html">Hookah Systems</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear-142/Kayaks-Kayaks-Boating-Accessories.html">Kayaks/Boating Accessories</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Kidz-Gear.html">Kidz Gear</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Knives.html">Knives</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Lights.html">Lights</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Masks.html">Masks</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Miscellaneous.html">Miscellaneous</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear-33/Octos-Spare-Air.html">Octos/Spare Air</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Regulators.html">Regulators</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Safety-First-Aid.html">Safety/First Aid</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Scooters.html">Scooters</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear-39/Snorkels.html">Snorkels</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Spearguns.html">Spearguns</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Surfing.html">Surfing</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Swim.html">Swim</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Tanks.html">Tanks</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/TEK-Gear.html">TEK Gear</a></li><li><a class="no-child" href="http://www.scuba.com/shop/UsedCategories.asp">Used Gear</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Watches.html">Watches</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear-154/Weights-and-Belts.html">Weights and Belts</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear/Wet-Suits.html">Wetsuits</a></li></ul></div><div class="tile"><h3>Quick Links</h3><ul id="prod-categories"><li><a class="no-child" href="http://www.scuba.com/resources/search.asp">Search Our Site</a></li><li><a class="no-child" href="http://www.scuba.com/scuba_diving_equipment.asp">Scuba Gear Directory</a></li><li><a class="no-child" href="http://www.scuba.com/ads/shipping.asp">Shipping Rates</a></li><li><a class="no-child" href="http://www.scuba.com/customer.asp">Order Status</a></li><li><a class="no-child" href="http://www.scuba.com/shop/order.asp">View Cart</a></li><li><a class="no-child" href="http://www.scuba.com/scuba-gear-reviews/">Customer Reviews</a></li><li><a class="no-child" href="http://www.scuba.com/me/">Diver Webpages</a></li><li><a class="no-child" href="http://www.scuba.com/scubagames/">Scuba Games &amp; Contests</a></li></ul></div></div><!-- /sidebar --></td><td>&nbsp;&nbsp;</td><td class="page-main-content" width="90%" valign="top" bgcolor="#FFFFFF"><br>
 <center>
   <center>
     <font face="Arial, Helvetica, sans-serif" size="2"><img src="/images/resourcesheaders/securityprivacy.gif" width="291" height="40"> 
@@ -387,18 +381,52 @@ img.social-icon {
 
 <br clear="all">
 
-
+<style type="text/css">
+#currency-wrapper {height:38px;_margin-bottom:-20px;^margin-bottom:-20px;width:330px;}
+#currency-wrapper ul  {margin:0;padding:0;display:inline;}
+#currency-wrapper ul li {display: block; float:left;list-style-type: none; margin:0 3px;}
+#currency-wrapper ul li a{color:#ffffff; text-decoration:none; }
+.choose-text {font-size:8px;line-height:10px;padding-top:6px;}
+.currency-us a.fix{display:block;width:32px; height:32px;background-image:url(/_homepage2012/images/inside/int-currency-us-off.png);}
+.currency-us-selected a.fix{display:block;width:32px; height:32px;background-image:url(/_homepage2012/images/inside/int-currency-us.png);}
+.currency-us a.fix:hover{background-image:url(/_homepage2012/images/inside/int-currency-us.png);}
+.currency-cad a{display:block;width:32px; height:32px;background-image:url(/_homepage2012/images/inside/int-currency-cad-off.png);}
+.currency-cad-selected a{display:block;width:32px; height:32px;background-image:url(/_homepage2012/images/inside/int-currency-cad.png);}
+.currency-cad a:hover{background-image:url(/_homepage2012/images/inside/int-currency-cad.png);}
+.currency-eur a{display:block;width:32px; height:32px;background-image:url(/_homepage2012/images/inside/int-currency-eur-off.png);}
+.currency-eur-selected a{display:block;width:32px; height:32px;background-image:url(/_homepage2012/images/inside/int-currency-eur.png);}
+.currency-eur a:hover{background-image:url(/_homepage2012/images/inside/int-currency-eur.png);}
+.currency-gbp a{display:block;width:32px; height:32px;background-image:url(/_homepage2012/images/inside/int-currency-gbp-off.png);}
+.currency-gbp-selected a{display:block;width:32px; height:32px;background-image:url(/_homepage2012/images/inside/int-currency-gbp.png);}
+.currency-gbp a:hover{background-image:url(/_homepage2012/images/inside/int-currency-gbp.png);}
+.currency-aud a{display:block;width:32px; height:32px;background-image:url(/_homepage2012/images/inside/int-currency-aud-off.png);}
+.currency-aud-selected a{display:block;width:32px; height:32px;background-image:url(/_homepage2012/images/inside/int-currency-aud.png);}
+.currency-aud a:hover{background-image:url(/_homepage2012/images/inside/int-currency-aud.png);}
+.currency-jpy a{display:block;width:32px; height:32px;background-image:url(/_homepage2012/images/inside/int-currency-jpy-off.png);}
+.currency-jpy-selected a{display:block;width:32px; height:32px;background-image:url(/_homepage2012/images/inside/int-currency-jpy.png);}
+.currency-jpy a:hover{background-image:url(/_homepage2012/images/inside/int-currency-jpy.png);}
+.currency-sgd a{display:block;width:32px; height:32px;background-image:url(/_homepage2012/images/inside/int-currency-sgd-off.png);}
+.currency-sgd-selected a{display:block;width:32px; height:32px;background-image:url(/_homepage2012/images/inside/int-currency-sgd.png);}
+.currency-sgd a:hover{background-image:url(/_homepage2012/images/inside/int-currency-sgd.png);}
+</style>
+<div id="currency-wrapper">
+<ul>
+<li class="choose-text">Choose<br> Currency:</li>
+<li class="currency-us-selected"><a class="fix" href="/setcurrency.asp?setcurrency=USD&amp;ref=%2Fresources%2Fsecurity%5Fand%5Fprivacy%2Easp" title="$ United States Dollar USD"></a></li>
+<li class="currency-cad"><a href="/setcurrency.asp?setcurrency=CAD&amp;ref=%2Fresources%2Fsecurity%5Fand%5Fprivacy%2Easp" title="$ Canadian Dollar CAD"></a></li>
+<li class="currency-eur"><a href="/setcurrency.asp?setcurrency=EUR&amp;ref=%2Fresources%2Fsecurity%5Fand%5Fprivacy%2Easp" title="€ Euro EUR"></a></li>
+<li class="currency-gbp"><a href="/setcurrency.asp?setcurrency=GBP&amp;ref=%2Fresources%2Fsecurity%5Fand%5Fprivacy%2Easp" title="£ British Pound GBP"></a></li>
+<li class="currency-aud"><a href="/setcurrency.asp?setcurrency=AUD&amp;ref=%2Fresources%2Fsecurity%5Fand%5Fprivacy%2Easp" title="$ Australian Dollar AUD"></a></li>
+<li class="currency-jpy"><a href="/setcurrency.asp?setcurrency=JPY&amp;ref=%2Fresources%2Fsecurity%5Fand%5Fprivacy%2Easp" title="¥ Japanese Yen JPY"></a></li>
+<li class="currency-sgd"><a href="/setcurrency.asp?setcurrency=SGD&amp;ref=%2Fresources%2Fsecurity%5Fand%5Fprivacy%2Easp" title="$ Singapore Dollar SGB"></a></li>
+</ul>
+</div>
 <span style="margin:0px 0 0 0;"><br>
 <strong>Product Information Questions? Contact our certified instructors<br>
 E-mail our instructors at <a href="mailto:info@scuba.com">info@scuba.com</a><br>
 </strong></span>
 
 <p style="margin:0px 0 0 0;">
-
-<strong>US and Canada call toll free 1.800.347-2822<br>
-International callers please dial 001.949.221.9300</strong><br>
-<br>
-
 
 Corporate Office: <a href="http://www.scuba.com/">Scuba.com</a><br>
 <a href="/resources/ioc.asp">1752 Langley Avenue, Irvine CA 92614</a><br>
@@ -408,7 +436,7 @@ Scuba diving portal for <a href="http://www.scuba.com/">scuba diving equipment</
 Scuba requires professional <a href="http://www.scuba.com/learn2scuba/">scuba diving training and certification</a>
 <br>
 Prices subject to change.<br>
-Copyright © 2000-2012</p></font></div>
+Copyright © 2000-2013</p></font></div>
 <!-- Google Analytics Tracking Tag -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -427,4 +455,4 @@ pageTracker._trackPageview();
 <noscript><img src="/js/awstats_misc_tracker.js?nojs=y" height="0" width="0" border="0" style="display: none"></noscript>
 
 
-<div id="AutocompleteContainter_7a8b6" style="position: absolute; z-index: 9999; top: 324px; left: 347px;" onclick="javascript:searchSubmit();"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_7a8b6" style="display: none; width: 220px; max-height: 300px;"></div></div></div></body></html>
+<div id="AutocompleteContainter_6f480" style="position: absolute; z-index: 9999; top: 253px; left: 347px;" onclick="javascript:searchSubmit();"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_6f480" style="display: none; width: 220px; max-height: 300px;"></div></div></div></body></html>
