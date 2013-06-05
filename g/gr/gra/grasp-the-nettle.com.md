@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grasp-the-nettle.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205092856id_/http%3A//www.grasp-the-nettle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grasp-the-nettle.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606012933id_/http%3A//www.grasp-the-nettle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Internet Marketing Business Strategies
+# Privacy Policy | Grasp-The-Nettle.com
 
 **Privacy Policy for http://grasp-the-nettle.com/**
 
