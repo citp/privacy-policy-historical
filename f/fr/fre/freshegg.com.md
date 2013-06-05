@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshegg.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231011341id_/http%3A//www.freshegg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshegg.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605053407id_/http%3A//www.freshegg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Data Collection | Cookies
 
@@ -6,7 +6,7 @@
 
 **Digital intelligence.** Web design. Search. Social. Insight.
 
-[Contact us](https://web.archive.org/contact-us/ "Go to contact us") or call us on: **UK: _AUS: 00 11 44 1903 285900 _**
+[Contact us](https://web.archive.org/contact-us/ "Go to contact us") or call us on: **UK: _AUS: 0061 (0)404 302 487 _**
 
   * [Training and events](https://web.archive.org/training-events/)
   * [Terms and conditions](https://web.archive.org/terms/)
