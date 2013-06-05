@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heck.in privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223022857id_/http%3A//www.mywapblog.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heck.in privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605094039id_/http%3A//www.mywapblog.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | MyWapBlog.com
 
