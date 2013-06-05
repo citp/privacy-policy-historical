@@ -1,55 +1,61 @@
-> *The following text is extracted and transformed from the halocigs.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107071314id_/http%3A//www.halocigs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halocigs.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605220832id_/http%3A//www.halocigs.com/customer-support/privacy-policy.html) for the most accurate reproduction.*
 
-# Halo Privacy Policy
+# Privacy Policy | Halo Cigs
 
-﻿
+## Introduction
 
 Your privacy is important, so we have created the following Privacy and Security Policy to let you know what information we collect when you visit our website, HaloCigs.com (the “Site”), why we collect it, and how it is used. This Privacy and Security Policy also addresses our data security practices, the options you have to access and control any personally identifiable information you provide to us, and other matters. This Privacy and Security Policy is governed by our Terms and Conditions. To the extent there is a conflict between the terms of the Privacy and Security Policy and the Terms and Conditions, the Terms and Conditions shall govern. We may periodically make changes to this Privacy and Security Policy which will be included on this page. It is your responsibility to review this Privacy and Security Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. By using the Site, you agree to this Privacy and Security Policy. This is our entire and exclusive Privacy and Security Policy and it supersedes any earlier version.
 
-#### Information We Collect From You
+## Information We Collect From You
 
-##### Personal Contact Information
+### Personal Contact Information
 
 To make a purchase through the Site, we require you to supply us with your first and last name, home or other physical address, including your street name and address and name of your city or town, your telephone number or other "real world" personal contact information. If you supply us with your personal contact information, you may later access it, update it, modify it and delete any inaccuracies. Please note, we generally keep a copy of the previous personal contact information for our records. We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, you may do so at any time by accessing your account through the My Account link located at the top of each page on the Site. You may also choose simply not to provide your personal contact information at the point of collection; however, you will not be able to purchase products through the Site.
 
-We use this information to complete, support and analyze your purchases, to facilitate and improve your use of the Site, to communicate with you, for internal purposes and to comply with any requirements of law. This information may be disclosed to our staff and to third parties involved in the completion of your transaction, the delivery of your order or the analysis and support of your use of the Site. We do not sell and will not divulge your personal contact information to third parties other than as specified in this Privacy and Security Policy without your permission unless we are legally entitled or obliged to do so (for example, if required to do so by Court order or for the purposes of prevention of fraud or other crime).
+### Email Addresses
 
-##### Email Addresses
+To register for an account through the Site, we require you to supply us with your email address, or other information needed to contact you online. If you supply us with your email address, you may later access it, update it, modify it and delete any inaccuracies by accessing your account through the My Account link located at the top of each page on the Site. Please note, we generally keep a copy of your previous email address(es) for our records. You may also choose simply not to provide us with your email address; however you will not be able to purchase products through the Site. We use this information to complete, support and analyze your purchases from us, to facilitate and improve your use of the Site, to communicate with you, and to comply with any requirements of law. We also use this information to respond to any questions you might have and to provide you with information about specials offered through the Site. This information may be disclosed to our staff and to third parties involved in the completion of your transaction, the delivery of your order or the analysis and support of your use of the Site. We do not sell and will not divulge your email address to third parties other than as specified in this Privacy and Security Policy without your permission unless we are legally entitled to obliged to do so (for example, if required to do so by Court order or for the purposes of prevention of fraud or other crime).
 
-To register for an account through the Site, we require you to supply us with your email address, or other information needed to contact you online. If you supply us with your email address, you may later access it, update it, modify it and delete any inaccuracies by accessing your account through the My Account link located at the top of each page on the Site. Please note, we generally keep a copy of your previous email address(es) for our records. You may also choose simply not to provide us with your email address; however you will not be able to purchase products through the Site. We use this information to complete, support and analyze your purchases from us, to facilitate and improve your use of the Site, to communicate with you, and to comply with any requirements of law. 
+### Credit Card and Payment Information
 
-We also use this information to respond to any questions you might have and to provide you with information about specials offered through the Site. This information may be disclosed to our staff and to third parties involved in the completion of your transaction, the delivery of your order or the analysis and support of your use of the Site. We do not sell and will not divulge your email address to third parties other than as specified in this Privacy and Security Policy without your permission unless we are legally entitled to obliged to do so (for example, if required to do so by Court order or for the purposes of prevention of fraud or other crime). 
+When you purchase an item through the Site, you are required to select a method of payment. For credit cards, we reveal only the last four digits of your credit card numbers when confirming an order. We transmit your entire credit card number to the appropriate credit card company in an encrypted format during order processing. We keep your credit card information on file in an encrypted format, taking precaution to maintain physical, electronic and procedural safeguards over your credit card information. We use this information to complete, support and analyze your purchases, to facilitate and improve your use of the Site, to communicate with you, for internal purposes and to comply with any requirements of law. This information may be disclosed to our staff and to third parties involved in the completion of your transaction, the delivery of your order or the analysis and support of your use of the Site. We do not sell and will not divulge your personal contact information to third parties other than as specified in this Privacy and Security Policy without your permission unless we are legally entitled or obliged to do so (for example, if required to do so by Court order or for the purposes of prevention of fraud or other crime).
 
-##### Credit Card and Payment Information 
+## Other Types Of Information We Collect
 
-When you purchase an item through the Site, you are required to select a method of payment. For credit cards, we reveal only the last four digits of your credit card numbers when confirming an order. We transmit your entire credit card number to the appropriate credit card company in an encrypted format during order processing. We keep your credit card information on file in an encrypted format, taking precaution to maintain physical, electronic and procedural safeguards over your credit card information.
-
-#### Other Types Of Information We Collect
-
-##### Purchase Information
+### Purchase Information
 
 We may collect information actively generated by the purchase of a product or service, such as a payment method. We use this information to process your order and analyze and support your use of the Site. This information may be disclosed only to our staff and to third parties involved in the completion of your transaction, the delivery of your order or the analysis and support of your use of the Site. We do not sell and will not divulge your purchase information to third parties other than as specified in this Privacy and Security Policy without your permission unless we are legally entitled to obliged to do so (for example, if required to do so by Court order or for the purposes of prevention of fraud or other crime).
 
-##### Navigation and ClickStream Data
+### Navigation and Clickstream Data
 
 As you browse our Site, we may gather navigational and clickstream data that shows what pages are visited and how long various features are used. This information will not reveal your identity or be linked to you personally. We use this information to complete, support and analyze your purchases from us; to facilitate and improve your use of the Site; to comply with any requirements of law; to serve, or have a third party serve specialized or relevant advertising content and/or recommendations to you on the Site or on a third party’s website; for internal purposes; and to determine any commissions due our Affiliates. This information may be disclosed only to our staff and to third parties involved in the completion of your transaction, the delivery of your order, and the analysis and support of your use of the Site. We may from time to time supply the owners or operators of third party sites from which it is possible to link to our Site with information relating to the number of users linking to our Site from their sites. You cannot be identified from this information.
 
-#### Dislosure Of Your Personal Information
+## Dislosure of Your Personal Information
 
 We may disclose your information to our staff and to third parties involved in the completion of your transaction, the delivery of your order, and the analysis and support of your use of the Site. We may disclose your information if necessary to protect our legal rights, if the information relates to actual or threatened harmful conduct, or we have good faith belief that such action is necessary to (1) conform to the requirements of law or comply with governmental orders, court orders, or legal process served on us or (2) to protect and defend our property or other rights, the users of the Site or the public. This includes exchanging information with other companies and organizations for fraud protection and credit risk protection. If we should ever file for bankruptcy, are part of a reorganization, sell our assets or merge with another company, we may sell the information you provide to us through the Site to a third party or share your personal information with the third party or company we merge with.
 
+## Use of Cookies
+
 Cookies are very tiny text files that are stored on your computer when you visit certain web pages that record your preferences. We use cookies to provide you with the best level of service by keeping track of what you have in your shopping cart, remembering you when you return to our store and using them to help us show you advertisements which are relevant to your interests. They cannot harm your computer and they do not contain any personal or private information. You must accept cookies to shop through the Site. You can erase or block cookies from your computer if you want to (your help screen or manual should tell you how to do this), but the Site may not work correctly or at all if you set your browser not to accept cookies.
+
+## Information Protection
 
 We offer secure web pages to collect certain kinds of user information and we store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures implemented by our Site reduce the likelihood of security problems to a level appropriate to the type of data involved. Our servers use Secure Sockets Layer (SSL) and encryption technology that works with Netscape Navigator, Microsoft Internet Explorer, Firefox, Safari, and AOL's browser, with the objective that only we can read a customer's personal information. We employ physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of any personal contact information.
 
+## Information Storage Time
+
 We generally keep user data on our server or in our archives for as long as we reasonably need it (for instance for taxation or insurance purposes or in case orders may give rise to claims). We may alter this practice according to changing requirements. For example, we may delete some data if needed to free up storage space. We may keep other data for longer periods if the law requires it. In addition, information posted in a public forum could stay in the public domain indefinitely.
 
-This Site may contain links to third party websites. We are not responsible for the privacy practices or the content of such websites even if you access them using links from our Site. Your use of these third party websites is entirely at your own risk and we recommend that you check the privacy and security policy of each site you visit. When you click on a third party link, you are essentially taken to a third party’s website. We make no representation or warranty as to the effectiveness, quality, legitimacy or data protections of any third party website.
+## Third Party Websites
 
-#### Product Information And Service Offerings
+This Site may contain links to third party websites. We are not responsible for the privacy practices or the content of such websites even if they are accessed using links from our Site. Your use of these third party websites is entirely at your own risk and we recommend that you check the privacy and security policy of each site you visit. When you click on a third party link, you are essentially taken to a third party’s website. We make no representation or warranty as to the effectiveness, quality, legitimacy or data protections of any third party website.
+
+## Product Information and Service Offerings
 
 It is very important to us that we provide you with the highest level of service. In order to help us do this, from time to time we may send you details of products and services which we think may be of interest to you. We may send you marketing communications with your consent. If at any time you do not wish to receive these details and wish to unsubscribe from marketing communications, you may do so by accessing your account through the My Account link located at the top of each page on the Site.
 
-If you have a privacy question about the Site, or about the Privacy and Security Policy, please contact us at [privacy@halocigs.com](mailto:privacy@halocigs.com). 
+## Privacy Policy Questions
 
-**This Privacy and Security Policy was last revised and made effective as of   July 28, 2009**
+If you have a privacy question about the Site, or about the Privacy and Security Policy, , please [email us](https://web.archive.org/contacts/), or contact us at 888-425-6649. 
+
+**This Privacy and Security Policy was last revised and made effective as of  April 1st, 2013**
