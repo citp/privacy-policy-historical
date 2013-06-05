@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eleadcrm.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203061417id_/http%3A//www.elead-crm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eleadcrm.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606004334id_/http%3A//www.elead-crm.com/privacy) for the most accurate reproduction.*
 
 # Automotive CRM Software Company's Privacy Policy|Car Dealer CRM Privacy Policy
 
