@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelsupermarket.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220060121id_/http%3A//www.moneysupermarket.com/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsupermarket.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605191434id_/http%3A//www.moneysupermarket.com/legal/privacypolicy.asp) for the most accurate reproduction.*
 
 # moneysupermarket.com - Legal Services
 
@@ -23,7 +23,7 @@ We and other members of the Moneysupermarket Group may use your personal informa
   1. to enable you to access and use the Services; and/or 
   2. to personalise and improve aspects of our overall service to you and our other users, as well as carrying out research such as analysing market trends and customer demographics; and/or 
   3. to communicate with you, including sending you information about products and services which we think may be of interest to you, and sending you annual insurance renewal quotes based on information you previously provided to us if you have requested insurance quotes; and/or 
-  4. to process a transaction between you and a third party.
+  4. to process a transaction between you and a third party. 
 
 
 
@@ -32,7 +32,7 @@ We and other members of the Moneysupermarket Group may use your personal informa
   1. Third parties, including but not limited to companies whose products or services are included on our website with a view to providing you with an online quotation for the product and/or service requested by you.  When these companies use your data in this way, they will be acting as data controllers of your information and therefore you should view their privacy policies or contact them directly for further information. For further information about these third parties, please contact us at [DPO@moneysupermarket.com](mailto:DPO@moneysupermarket.com). Some third parties with which we share your information may use it to carry out research such as analysis of market trends and customer demographics and to customise and develop the product/service which they offer to you or other individuals in the future. 
   2. The Financial Services Authority and/or other regulatory/governing bodies for the purposes of compliance monitoring; 
   3. Selected other third parties whose products, services or other offers we believe may interest you (see our section on **Keeping you informed about offers and services** below); 
-  4. If you use our Services to search for and compare insurance products, the information you provide may be used to carry out certain credit checks through licensed credit-referencing agencies. This is used as part of the underwriting process for some of the insurance providers and a record of this search will be made although this will not adversely affect your credit profile.
+  4. If you use our Services to search for and compare insurance products, the information you provide may be used to carry out certain credit checks through licensed credit-referencing agencies. This is used as part of the underwriting process for some of the insurance providers and a record of this search will be made although this will not adversely affect your credit profile. 
 
 
 
@@ -41,7 +41,7 @@ Where permitted by data protection and privacy law, we may also disclose informa
   1. if required or permitted to do so by law; and/or 
   2. if required to do so by any court, the Financial Services Authority, the Office of Fair Trading or any other applicable regulatory, compliance, Governmental or law enforcement agency; and/or 
   3. if necessary in connection with legal proceedings or potential legal proceedings; and/or 
-  4. in connection with the sale or potential sale of all or part of our business or the company.
+  4. in connection with the sale or potential sale of all or part of our business or the company. 
 
 
 
@@ -66,7 +66,7 @@ If you no longer wish to be contacted by third parties for marketing purposes, p
 
   1. understand browsing habits on this Website; 
   2. understand the number of visitors to this Website and the pages visited; and 
-  3. remember you when you return to this Website so we can provide you with access to previously saved quotes.
+  3. remember you when you return to this Website so we can provide you with access to previously saved quotes. 
 
 
 
@@ -78,9 +78,11 @@ You can choose to block or delete cookies through your browser settings.  If yo
 **  
 The advertisements that you see displayed on our website are delivered on our behalf by a third party advertising company. No information which identifies you, for example your name, address, email address or telephone number, is used to provide this advertising.  In order to display advertising most likely to be relevant to you, this third party advertiser may place or recognize a unique "cookie" on your browser. This cookie does not collect personal data about you nor is it linked to any identifiable information about you. It is possible to block cookies by adjusting your browser settings, as mentioned above.  By using this Service you are consenting to the use of these third party cookies for these purposes. 
 
-If you would like more information about this and to know your choices about not having this information used by this company, please click here <http://www.doubleclick.net/us/corporate/privacy>
+If you would like more information about this and to know your choices about not having this information used by this company, please click here <http://www.google.com/intl/en/policies/privacy/>.
 
-**Security** Our website is a "[VeriSign Secure Website](https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.MONEYSUPERMARKET.COM&lang=en)" and keeping information about you secure is very important to us. However, no data transmission over the internet can be guaranteed to be totally secure. Sensitive information, for example, your credit card details, is encrypted to minimise the risk of interception during transit.  However, whilst we strive to protect your personal information, we cannot ensure or warrant the security of any information which you send to us, and you do so at your own risk. The Terms of Use also explains your obligation to keep secure any username and password which you create when registering for the Services.
+This website has also implemented and uses Display Advertising using Google Analytics which permits advertisements and remarketing to be served on third party websites across the internet relating to a search made on any of the Moneysupermarket Group websites. Moneysupermarket Group and third parties, including Google use first party cookies and third party cookies to inform, optimise and serve such advertisements. These advertisements can be opted out of or customised using the [Google Ads Preferences Manager.](http://www.google.co.uk/ads/preferences/)
+
+ **Security** Our website is a "[VeriSign Secure Website](https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.MONEYSUPERMARKET.COM&lang=en)" and keeping information about you secure is very important to us. However, no data transmission over the internet can be guaranteed to be totally secure. Sensitive information, for example, your credit card details, is encrypted to minimise the risk of interception during transit.  However, whilst we strive to protect your personal information, we cannot ensure or warrant the security of any information which you send to us, and you do so at your own risk. The Terms of Use also explains your obligation to keep secure any username and password which you create when registering for the Services.
 
  **Transferring your information abroad  
 **  
@@ -94,4 +96,4 @@ You must check and ensure that all information, content, material or data you pr
 
 We may also need to collect information from you about other individuals, e.g. additional named drivers if you request a car insurance quotation. As explained in our Terms of Use, by submitting another person's details you are confirming to us that you have their permission to do so and that they understand how their details will be used.
 
-[](https://web.archive.org/web/20121220060121id_/http%3A//www.moneysupermarket.com/)
+[](https://web.archive.org/web/20130605191434id_/http%3A//www.moneysupermarket.com/)
