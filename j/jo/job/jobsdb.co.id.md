@@ -1,90 +1,133 @@
-> *The following text is extracted and transformed from the jobsdb.co.id privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630010551id_/http%3A//id.jobsdb.com/ID/en/StaticContentContainer/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsdb.co.id privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605153442id_/http%3A//id.jobsdb.com/ID/en/StaticContentContainer/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# Personal Information Collection Statement
+# None
 
-  
-**Privacy Policy**
+PT Jobs DB Indonesia (" **Company** ") is committed to the protection of users' personal information collected in connection with the Website (as defined below). In doing so, the Company will ensure compliance by its staff to the strictest standards of security and confidentiality in respect of all personal information and data submitted by users.
 
-|  |  The Company maintains a strict confidentiality policy on all personal data submitted by Jobseekers, and will not release such information to anyone without their prior consent.   
----|---  
-  
-If you have questions or concerns regarding this statement, you should first contact Customer Service Assistant of the Company's Customer Service Department at (62)-21-5367 8888 or [cs@jobsdb.co.id](mailto:cs@jobsdb.co.id). 
+Users are strongly recommended to read this privacy statement (" **Statement** ") carefully to have an understanding of the Company's policy and practices with regard to the treatment of personal information and data provided by users on the Company's website at [http://www.jobsdb.co.id](http://www.jobsdb.co.id/) and /or <http://id.jobsdb.com/id> (" **Website** "). This Statement is applicable to both registered and unregistered users of the Website.
 
-**Purpose Of Collection Of Personal Data**
+If users have questions or concerns regarding this Statement, they should first contact the Customer Service Assistant of the Company's Customer Service Department at +6221 5367 8888 or [cs@jobsdb.co.id](mailto:cs@jobsdb.co.id).
 
-Personal data submitted by Jobseeker will be used for the sole purpose of assisting him/her to find appropriate employment with Employer and assisting Employer to assess the suitability of candidates for a job vacancy in the manner specified on our Job Seekers - Service Guide web page. 
+## Purpose of Collection of Personal Data
 
-The Company collects information about the user that is personally identifiable like name, address, email address, phone number and demographic information including country, age, sex that is not otherwise publicly available. Occasionally, the Company may also collect additional personal data from user in connection with contests, surveys, or special offers. 
+In the course of using the Website, users may disclose or be asked to provide personal information and/or data. In order to have the benefit of and enjoy various services of the Website, it may be necessary for users to provide the Company with their personal information and/or data. Although users are not obliged to provide the information and/or data as requested on the Website, the Company will not be able to render certain services on the Website in the event that users fail to do so. 
 
-**Transfer of Data**
+The Company's purposes for collection of the information and data on the Website from time to time, include but not limited to the following: 
 
-The personal data of Jobseeker will only be transmitted and disclosed to corporate clients of the Company (for the purpose specified in the preceding paragraph or any directly related purpose) which have made specific requests for such data only if and when Jobseeker has given his/her prior consent. 
+(a) to assist user seeking employment (" **Jobseeker(s)** ") to find appropriate employment with user seeking employees (" **Employer(s)** ") and to assist Employer to assess the suitability of candidates for a job vacancy;
 
-**Subscription of Newsletter/Marketing Materials**
+(b) provide user with various services offered by the Website and newsletters, job openings and promotional and marketing materials; 
 
-Users of the Web Site can sign up or unsubscribe for newsletters and any other marketing materials by:-   
-(1) logging into registration or user account maintenance web pages; or   
-(2) clicking on the automatic link appearing in each newsletter/message. 
+(c) to handle and follow up enquiries and complaints;
 
-**Legal Disclaimer**
+(d) to contact user regarding administrative notices and communications relevant to his/her use of the Website and to respond to user's inquiry or request;
 
-The Company reserves the right to disclose your personally identifiable information as required by law and when the Company believes that disclosure is necessary to protect the Company's rights and/or comply with a judicial proceeding, court order, or legal process served on the Web Site. 
+(e) to assist the Company with developments for future marketing and promoting purposes or other internal purposes;
 
-**Access**
+(f) to verify the identity of user; and
 
-Jobseeker is entitled to make a data access or correction request concerning his/her own personal data (subject to prior confirmation of identity) kept with the Company. Alternatively, Jobseeker may edit or amend such personal data at any time by logging onto the Site via the My Resume section of the Web Site. 
+(g) to obtain statistics about users to analyze usage of the Website in order to help its further development.
 
-**Cookies**
+If user is under the age of 18, the Company would strongly recommend him/her to seek prior consent from a person with parental responsibility for him/her, e.g. parent or guardian, who may contact the responsible personnel of the Company at [cs@jobsdb.co.id](mailto:cs@jobsdb.co.id) for registering the user as member of the Website.
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. The Company uses cookies on the Web Site. The Company does not link the cookies to any personally identifiable information you submit while on the Web Site. 
+## Collection of Personal Data
 
-The Company uses both session cookies and persistent cookies. The Company uses session cookies to make it easier for you to navigate the Web Site. A session cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
+The Company may request and collect personal information and/or data about a user not limited to name, log-in ID and password, address, email address, phone number, age, sex, date of birth, country of residence, nationality, education level and work experience that is/are not otherwise publicly available. Occasionally, the Company may also request and collect additional personal information and/or data from a user in connection with contests, surveys, or special offers.
 
-**Log Files**
+Only duly authorized staff of the Company will be permitted to access users' personal information and data, and the Company shall not release such personal information and data to any third parties save and except for the circumstances listed out under the section entitled "Disclosure or Transfer of Data".
 
-As is true of most web sites, the Company gathers certain information automatically and stores it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+## Disclosure or Transfer of Data
 
-The Company uses this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the Web Site and to gather demographic information about the Web Site's user base as a whole. 
+The Company agrees to take all practicable and reasonable steps to keep all personal information and data of users confidential and/or undisclosed, subject to the following.
 
-The Company does not link this automatically-collected data to personally identifiable information. 
+Generally speaking, the Company will only disclose and/or transfer users' personal information and/or data to corporate clients of the Company who have made specific requests for such information and/or data with users' prior consent. However, the Company may disclose and/or transfer such information and/or data to third parties without users' prior consent under the following circumstances: 
 
-The Company uses a third-party tracking service called Google Analytics that uses cookies to track non-personally identifiable information about visitors to the Web Site in the aggregate, such as page view, number of unique visitors, most visited pages, etc. 
+(a) where the information and/or data is disclosed and/or transferred to any third party suppliers or service providers who have been duly authorized by the Company to use such information and/or data and who will facilitate the services on the Website;
 
-**Links to Other Sites**
+(b) where the information and/or data is disclosed and/or transferred to any agents, affiliates or associates of the Company who have been duly authorized by the Company to use such information and/or data (including but not limited to service providers that assist us with archival, auditing, accounting, customer contact, legal, business consulting, banking or technology services);
 
-This Web Site contains links to other sites that are not owned or controlled by the Company. Please be aware that the Company is not responsible for the privacy practices of such other sites. 
+(c) where the Company needs to protect and defend its rights and property from time to time;
 
-The Company encourages you to be aware when you leave the Web Site and to read the privacy statements of each and every web site that collects personally identifiable information. 
+(d) where the Company considers necessary to do so in order to comply with the applicable laws and regulations in Indonesia or elsewhere, including without limitation as requested by the governmental agency or institution and compliance with a judicial proceeding, court order, or legal process served on the Website;
 
-This privacy statement applies only to information collected by this Web Site. 
+(e) where the Company deems necessary in order to maintain and improve the services on the Website from time to time;
 
-**Testimonials**
+(f) where users would reasonably expect the Company to use or disclose the personal information and data for that other purpose;
 
-The Company posts user's testimonials on the Web Site which may contain personally identifiable information such as the user's name. The Company does obtain the users consent prior to posting the testimonial to post their name along with their testimonial 
+(g) where users have given the Company their consent for the personal information and data to be used or disclosed for the additional purpose;
 
-**Security**
+(h) where there are reasonable grounds to believe that use or disclosure is necessary to prevent a threat to life or health;
 
-The security of your personal information is important to the Company. When you enter sensitive information, such as credit card number, on the Company's order forms, the Company encrypts that information using secure socket layer technology (SSL). We use a third party service provider to facilitate these transactions on the Site. 
+(i) where the Company suspects that unlawful activity is or has been engaged in and the Company uses or discloses the personal information to investigate the suspected unlawful activity; or
 
-The Company follows generally accepted industry standards to protect the personal information submitted to it, both during transmission and once the Company receives it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while the Company strives to use commercially acceptable means to protect your personal information, the Company cannot guarantee its absolute security. 
+(j) where the Company collects, uses and discloses users personal information for purposes relating to research, protecting the Company's lawful interests, acquisitions or potential acquisitions of the Company business.
 
-If you have any questions about security on the Web Site, you can send email to the Company using the email addresses found in the Contact Us link in the Web Site 
+By using the Website, users are deemed to have acknowledged, agreed to, consented to and authorized the Company to disclose and/or transfer their personal information and data under the circumstances stated above.
 
-**Retention of Personal Details**
+## Subscription to Newsletter/Marketing Materials
 
-Subject to legal requirements and the refusal of Jobseeker, the personal data of Jobseeker will be retained by the Company after deactivation of the relevant service until Jobseeker formally requests the Company to erase his/her own personal data from the Company's Database. 
+The Company may from time to time send to users of the Website newsletters, job openings and marketing materials based on the personal information and data that they have provided to the Company. Suitable measures are implemented to make available to such users the options to "opt-out" of receiving such materials. In this regard, users may choose to sign up or unsubscribe for receiving such materials by logging into the registration or user account maintenance webpage, or clicking on the automatic link appearing in each newsletter/message.
 
-The Jobseeker can delete or correct his or her own personal data by logging into their account and changing their information via the My Resume section of the Website. 
+## Access
 
-**Changes in this Privacy Statement**
+From time to time, user is entitled to request access to or make amendments to his/her own personal information and/or data kept with the Company by contacting the Customer Service Assistant of the Company's Customer Service Department at +6221 5367 8888 or [cs@jobsdb.co.id](mailto:cs@jobsdb.co.id). Jobseeker may alternatively edit, amend or delete his/her personal information and data at any time by logging into the "MyJobsDB" section of the Website.
 
-If the Company decides to change its privacy policy, the Company will post those changes to this Privacy Statement, the page, and other places the Company deems appropriate so that you are aware of what information the Company collects, how the Company uses it, and under what circumstances, if any, the Company discloses it. 
+In the event that a user wishes to access or amend his/her personal information and data, the Company may request him/her to provide personal details in order to verify his/her identity. The Company is required to respond to user's requests within 40 days of his/her request and will endeavor to do so wherever possible, but the Company may charge the user a reasonable fee for doing so.
 
-The Company reserves the right to modify this Privacy Statement at any time, so please review it frequently. If the Company make material changes to this policy, the Company will notify the user here, by email, or by means of a notice on our home page. 
+## Cookies and Log Files
 
-For any query and/or request for access to or correction of personal data (if appropriate), please contact our Customer Service Assistant of the Company's Customer Service Department at (62)-21-5367 8888 or [cs@jobsdb.co.id](mailto:cs@jobsdb.co.id). 
+The Company does not collect any personally identifiable information from any users whilst they visit and browse the Website. When users access the Website, the Company will record their visits only and does not collect their personal information or data. The Website's server software will also record the domain name server address and track the pages users visit and store such information in "cookies", and gather and store information like internet protocol (IP) addresses, browser type, referring/exit pages, operating system, date/time stamp, and clickstream data in log files. All these are done without users being aware that they are occurring.
 
-Effective Date: 08 Aug 08 
+The Company does not link the information and data automatically collected in the above manner to any personally identifiable information. The Company generally uses such automatically collected information and data to estimate the audience size of the Website, gauge the popularity of various parts of the Website, track users' movements and number of entries in the Company's promotional activities, measure users' traffic patterns and administer the Website. Such automatically collected information and data will not be disclosed save and except in accordance with the section entitled "Disclosure or Transfer of Data".
 
-**The Company's Address**   
-6th Floor, Wisma 77, Jl. S. Parman Kav. 77, Jakarta 11410, Indonesia 
+## Links to Other Sites
+
+The Website may provide links to other websites which are not owned or controlled by the Company. Personal information and data from users may be collected on these other websites when users visit such websites and make use of the services provided therein. Where and when users decide to click on any advertisement or hyperlink on the Website which grants users access to another website, user has acknowledged and deemed agreed that the protection of users' personal information and data which are deemed to be private and confidential may be exposed in these other websites.
+
+This Statement is only applicable to the Website. Users are reminded that this Statement grants no protection to users' personal information and data that may be exposed on websites other than the Website, and the Company is not responsible for the privacy practices of such other websites. Users are strongly recommended to refer to the privacy policy of such other websites.
+
+## Testimonials
+
+The Company posts users' testimonials on the Website, which may contain personally identifiable information such as the users' names. The Company does obtain the users' consent prior to posting the testimonials to post their names along with their testimonials.
+
+## Security
+
+The security of users' personal information and/or data is important to the Company. The Company will always strive to ensure that users' personal information and data will be protected against unauthorized access. The Company has implemented appropriate electronic and managerial measures in order to safeguard, protect and secure users' personal information and data.
+
+All personal information and data provided by users are only accessible by the authorized personnel of the Company or its authorized third parties, and such personnel shall be instructed to observe the terms of this Statement when accessing such personal information and data. Users may rest assured that their personal information and data will only be kept for as long as is necessary to fulfill the purpose for which it is collected.
+
+Regarding sensitive information, such as credit card number entered on the Company's order forms, the Company encrypts such information using secure socket layer technology (SSL). The Company also uses a third party service provider to facilitate these electronic transactions on the Website.
+
+The Company follows generally accepted reasonable industry standards to protect the personal information and data submitted by users to the Website, both during transmission and once the Company receives it. However, users acknowledge that no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while the Company strives to protect users' personal information and data against unauthorized access, the Company cannot guarantee its absolute security.
+
+## Retention of Personal Data
+
+Once the Company has obtained user's personal information and/or data, it will be maintained securely in the Company's system. Subject to legal requirements, the personal information and/or data of Jobseeker will be retained by the Company after deactivation of the relevant service until Jobseeker requests the Company to erase his/her own personal information and/or data from the Company's database or to terminate his/her membership of the Website.
+
+## Changes in this Privacy Statement
+
+The Company reserves the right to update, revise, modify or amend this Statement in the following manner at any time as the Company deems necessary without any obligation that the Company should deliver any notice to and/or obtaining consent from users, so users are strongly recommended to review this Statement frequently. If the Company decides to update, revise, modify or amend this Statement, the Company will post those changes to this webpage and/or other places the Company deems appropriate so that users would be aware of what information the Company collects, how the Company uses it, and under what circumstances, if any, the Company discloses it.
+
+If, however, the Company makes material changes to this Statement, the Company will notify users on this webpage, by email, or by means of a notice on the home page of the Company.
+
+## Governing Law and Jurisdiction
+
+This Statement and any dispute or matter arising from or incidental to the use of the Website shall be governed by and construed in accordance with the laws of the Republic of Indonesia.
+
+Any dispute, controversy or claim arising out of or relating to this Statement including the validity, invalidity, breach or termination thereof, shall be referred to and finally settled by arbitration in accordance with the Rules of BANI – Indonesian National Arbitration Board as at present in force and as may be amended by the rest of this Clause:
+
+a) The place of arbitration shall be in Jakarta.
+
+b) There shall be three arbitrators, one of whom shall be appointed by the Company, the other arbitrator by the other disputing party(ies) and such two arbitrators shall furthermore jointly nominate the third arbitrator who shall be the Chairman of the board of arbitrators. 
+
+c) The language to be used in the arbitral proceedings shall be English. 
+
+In the event of any breach of this Statement by a party, the arbitrators shall be bound by strict rules of law in making its decision and may not pronounce judgment on the basis of equitable principles.
+
+The arbitral award made and granted by the arbitrator(s) shall be final, binding and incontestable and may be used as a basis for judgment thereon in the Republic of Indonesia or elsewhere.
+
+## Language
+
+This Statement is made and agreed in English which shall be the governing language. As required by the prevailing laws and regulations, this Statement may be translated into other language. In the event of any inconsistency between the English language and the other language versions, the English language version shall prevail of such inconsistency and such other language version shall be amended accordingly to reflect the meaning of the English version. Users hereby undertake that they have read this Statement and understand its English contents. 
+
+Effective Date: 17 October 2012
