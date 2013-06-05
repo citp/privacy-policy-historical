@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218225838id_/http%3A//www.breastcancer.org/about_us/bco_commitment) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606012120id_/http%3A//www.breastcancer.org/about_us/bco_commitment) for the most accurate reproduction.*
 
 # Our Commitment to You
 
@@ -18,7 +18,7 @@ This site complies with the [HONcode standard for trustworthy health](http://www
 
 [](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.breastcancer.org/seal_m "TRUSTe online privacy certification")
 
-This confirms that Breastcancer.org™ is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
+This confirms that Breastcancer.org™ is a licensee of the TRUSTe Privacy Program. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
 
   * What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site
   * The organization collecting the information
