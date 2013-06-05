@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodwood.co.uk privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116005530id_/http%3A//www.goodwood.co.uk/privacy-and-cookies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodwood.co.uk privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605064654id_/http%3A//www.goodwood.co.uk/privacy-and-cookies.aspx) for the most accurate reproduction.*
 
 # Privacy & Cookies
 
