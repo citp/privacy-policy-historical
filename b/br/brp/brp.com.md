@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brp.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010210638id_/http%3A//www.brp.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brp.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605154500id_/http%3A//www.brp.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BRP USA
 
