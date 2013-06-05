@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taobao.net privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021053432id_/http%3A//www.markmonitor.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taobao.net privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605143150id_/http%3A//www.markmonitor.com/legal/privacy.php) for the most accurate reproduction.*
 
 # MarkMonitor | Legal - Privacy Policy
 
@@ -28,10 +28,10 @@ Our site gives you the option of changing your personal information. You may mod
 
 We make every effort to maximize your privacy rights while you use this service. If you have any questions, concerns or comments, regarding our privacy policy or any other aspect of our service, please e-mail us at Email: [support@markmonitor.com.](mailto:support@markmonitor.com.)
 
-#### New gTLD  
-Application Database
+#### MarkMonitor   
+Shopping Report
 
-Quickly search all new gTLD applications to identify any applications of concern. [Search](https://web.archive.org/gtlddatabase/?Lead_Source_Mktg=WEBPRO)
+New report challenges assumptions about consumers and counterfeits. [More](https://web.archive.org/cta/2012-shoppingreport/?Lead_Source_Mktg=WEBPRO)
 
 #### Featured Case Study
 
