@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creativeboom.co.uk privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220050529id_/http%3A//creativeboom.co.uk/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativeboom.co.uk privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605143205id_/http%3A//creativeboom.co.uk/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Creative Industries | Creative Boom Magazine
+# Privacy Policy Creative Industries | Creative Boom Blog | Art, Design, Creativity
 
 Creative Boom Ltd (“Creative Boom”) is committed to ensuring that your privacy is protected. This privacy policy explains how we use the information we collect about you, how you can let us know if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
 
@@ -24,7 +24,7 @@ We may collect personal information from our website and from other communicatio
 
 ## What we do with the information we gather
 
-When you provide information to us or we obtain information about you we will store this data and hold it on our computers or in hard copy form.
+When you provide information to us or we obtain information about you we will store this data and hold it on our computers or in hard copy form. 
 
 We may use such information for the following purposes:
 
@@ -37,7 +37,7 @@ We may use such information for the following purposes:
 
 
 
-We may give information about you (on the understanding that such information will be kept confidential) to employees and agents (including third parties who distribute prizes for the competitions we run on our website) of Creative Boom.
+We may give information about you (on the understanding that such information will be kept confidential) to employees and agents (including third parties who distribute prizes for the competitions we run on our website) of Creative Boom. 
 
 We may disclose information you provide to us or which we obtain about you:
 
@@ -70,7 +70,7 @@ Our website may contain links to other websites of interest. We are not responsi
 
 ## Sale of business
 
-If our business is sold or integrated with another business, your details may be disclosed to our advisors and any prospective purchaser’s advisers and will be passed on to any new owners of the business.
+If our business is sold or integrated with another business, your details may be disclosed to our advisors and any prospective purchaser’s advisers and will be passed on to any new owners of the business. 
 
 ## Security
 
@@ -78,7 +78,7 @@ We have put in place various security procedures to minimise the risk of unautho
 
 ## Changes to our privacy policy
 
-We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
 ## Your rights to access personal information
 
