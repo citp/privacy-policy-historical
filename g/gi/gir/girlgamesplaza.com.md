@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the girlgamesplaza.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204054815id_/http%3A//www.girlgamesplaza.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlgamesplaza.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605043604id_/http%3A//www.girlgamesplaza.com/privacypolicy) for the most accurate reproduction.*
 
-# Girl Games - Games for Girls- Privacy Policy
+# Girl Games Plaza - Games for Girls- Privacy Policy
 
 Girlgamesplaza.com is very cautious about how your information is collected when you surf our website and enter information about yourself and how this information is used and shared with others. We appreciate your trust and it is very important to us. This notice describes our privacy policy. BY VISITING OUR WEBSITE, YOU AGREE WITH THE PRACTICES DESCRIBED IN THIS PRIVACY STATEMENT. The information that you give us helps us personalize and continually improve your experience with us.  
 We receive and store any information you enter on our website or give us in any other way for responding to your requests, improving our website, customizing future services for you, and to communicate with you for special offers, bonus points and related marketing information and activities.  
