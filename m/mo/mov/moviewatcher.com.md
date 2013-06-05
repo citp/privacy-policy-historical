@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moviewatcher.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219063528id_/http%3A//www.amctheatres.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviewatcher.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605190230id_/http%3A//www.amctheatres.com/privacy-policy) for the most accurate reproduction.*
 
-# AMC Theatres Privacy Policy
+# Privacy Policy - AMC Theatres
 
 Thank you for visiting [AMCTheatres.com](http://www.amctheatres.com/ "AMC Theatres - Movies, Showtimes, Tickets").  AMC Entertainment Inc. values its relationship with guests, members and clients, and is committed to responsible information handling practices. 
 
@@ -20,7 +20,7 @@ Although AMC makes available Applications, and a number of websites with unique 
 
 The following privacy policy describes how AMC collects, uses, and protects information collected from you during your visit to [AMCTheatres.com](http://www.amctheatres.com/ "AMC Theatres - Movies, Showtimes, Theatres"), and from your download and use of an Application. To assist you with reading this privacy policy, AMC has provided answers to questions you may find most important. 
 
-### 1\. WHAT INFORMATION ABOUT ME DOES AMC COLLECT?
+## 1\. What Information About Me Does AMC Collect?
 
 You may provide AMC with two types of information during your visit to AMC’s website or your use of an Application. 
 
@@ -29,7 +29,7 @@ You may provide AMC with two types of information during your visit to AMC’s w
 
 
 
-**Anonymous or Non-Personally Identifiable Information.  **
+### Anonymous or Non-Personally Identifiable Information.
 
 AMC automatically collects information from you when you visit AMC’s website, such as the search engine you used to access the AMC website, the previous websites you visited, the websites or advertisements you view or select, the type of Internet browser you use, the computer operating system you use, and your computer's IP address. AMC may also collect information concerning your movie preferences, such as the movies for which you purchase tickets and the theatres in which you view those movies. 
 
@@ -43,11 +43,11 @@ The Application permits you to search for movie information, movie show times, a
 
 AMC may also retain third parties to place and manage advertisements on AMC websites and Applications. These third party advertisers may use cookies and other technology to automatically collect information about your visits to AMC websites, use of Applications and visits to other websites in order to provide advertisements about goods and services that may be of interest to you.  This information is not personally associated with you, and AMC's third party advertisers share this information with AMC.  
 
-**Personally Identifiable Information.**  
+### Personally Identifiable Information.
 
 Personally identifiable information is information that identifies you, such as your name, postal address, wired and mobile telephone number, gender, birth date, e-mail address, payment method, movie preferences, favorite movies, and other information once it is associated with your personally identifiable information. We may ask you to provide personally identifiable information when you create an online account, sign up for [AMC Stubs™](http://www.amcstubs.com/ "AMC Stubs") loyalty program, download and register the Application, purchase products or services, join a frequent moviegoer or other loyalty program, subscribe to AMC SMS text message communications, participate in a sweepstakes, promotion or survey, contact AMC with a question or concern, or participate in other activities when you visit an AMC website or use an Application.  If you choose to use the Facebook Connect feature or similar features in connection with your account or Application, you are asking the social network provider to share your profile information with AMC.  AMC will collect, store and use all information it receives from the social network provider about you in connection with this privacy policy.  Moreover, if you are a member of another social network or service, and you authorize AMC to associate your account or Application with that network or service, AMC will gather information about your online behavior at the AMC websites or through your use of the Applications, will associate that information with personally identifiable information AMC already has about you and use it on-line or offline, in accordance with this privacy policy.  AMC may also collect publicly available information about you from other sources, such as information from newspapers, blogs, and commercial websites or third party data aggregators and supplement your personally identifiable information maintained by AMC. AMC also collects personally identifiable information that you may disclose on the AMC website or through use of the Applications, such as ratings or review pages, blogs, and message boards. 
 
-### 2\. HOW DOES AMC USE INFORMATION? 
+## 2\. How Does AMC Use Information?
 
 AMC uses personally identifiable information for the purpose for which you provided it, such as to fulfill your request for products, services or Data, to process and administer your contest or sweepstakes entry, to activate and maintain your online or Application account, and to allow you to participate in  public areas of the AMC websites. AMC also uses personally identifiable information to notify you of changes to AMC’s websites, to provide you with entertainment news, e-mail offers, SMS text message offers and movie ticket savings, to let you know about other products and services that may be of interest to you, and to tailor AMC's online or in-store offerings to your preferences. 
 
@@ -55,13 +55,13 @@ AMC uses anonymous information collected by its third party advertisers to serve
 
 AMC may also update and supplement personally identifiable information collected from you with other information that AMC obtains from third parties or from AMC's subsidiaries and affiliates. If AMC associates information obtained from  affiliates and subsidiaries or other third parties with personally identifiable information collected under this policy, AMC will treat the acquired information like information AMC has collected itself. 
 
-### 3\. DOES AMC SHARE OR TRANSFER THE INFORMATION I PROVIDE? 
+## 3\. Does AMC Share or Transfer the Information I Provide?
 
-**Sharing among the AMC Family of Companies.  **
+### Sharing among the AMC Family of Companies.
 
 AMC may combine personally identifiable information collected by an AMC affiliate or subsidiary with personally identifiable information AMC has collected.  AMC may share your personally identifiable information with AMC subsidiaries or affiliates to provide you with entertainment news, e-mail offers, SMS text message offers and movie ticket savings, and to let you know about other products and services that may be of interest to you, and other business purposes. 
 
-**Sharing with Third Parties.  **
+### Sharing with Third Parties.
 
 AMC shares aggregated information with its third party service providers to assist AMC with collecting demographic information and improving the AMC websites and Applications. AMC shares aggregated information with potential advertisers, contractors, investors and other third parties in connection with the sale of advertising to be delivered on AMC websites and Applications and the marketing of AMC’s products and services. 
 
@@ -73,23 +73,23 @@ Moreover, if you are a member of a social network service, such as Facebook, Goo
 
 When AMC uses agents, contractors or other third parties to perform services on its behalf, AMC will require that they protect your personally identifiable information in accordance with this privacy policy. In contrast, you must be comfortable with the privacy policies of any social network site or other website that you authorize to gather information from AMC, as the privacy policies of those websites will govern the use of your personally identifiable information once it has been transmitted by AMC. 
 
-**Disclosure Required by Law.  **
+### Disclosure Required by Law. 
 
 From time to time, AMC may be required to share your personally identifiable information with law enforcement or other governmental agencies in response to a court order, subpoena, government investigation, or as otherwise required by law. AMC also reserves the right to report to law enforcement agencies any activities that AMC, in good faith, believes to be unlawful. AMC also may share certain personally identifiable information when it believes that such sharing is reasonably necessary to protect the rights, property, and safety of others and itself. 
 
-**Disclosure as a part of a Business Transaction.  **
+### Disclosure as a part of a Business Transaction.
 
 AMC may also disclose your personally identifiable information to third parties in relation to planned or potential corporate sales, mergers, reorganizations, consolidations, dissolutions, bankruptcies, or similar events. As a part of any such transaction, AMC will treat your information as an asset and transfer it to the purchaser. 
 
-**Transfer of Information.  **
+### Transfer of Information.
 
 If you reside outside of the United States, such as in the European Union or elsewhere, please be aware that any information you provide to AMC at www.amcentertainment.com or through an Application will be transferred to and processed in the United States. If you do not wish for AMC to transfer your personally identifiable information into the United States, do not submit it to AMC. If you provide AMC with your personally identifiable information, AMC will treat your submission of that information as your consent to allow AMC to transfer it to the United States. Any personally identifiable information that AMC collects from you at www.amcentertainment.com or through an Application will be treated in accordance with this privacy policy. 
 
-### 4\. HOW DOES AMC KEEP MY PERSONAL INFORMATION SECURE?
+## 4\. How Does AMC Keep My Personal Information Secure?
 
 AMC uses several encryption methods, such as Secure Sockets Layer for the transmission of data, and other measures to ensure that the personally identifiable information you submit to AMC through your use of an AMC website or Application, is secure. AMC takes reasonable measures to ensure that your personally identifiable information remains secure. . AMC has also adopted  physical, electronic and managerial controls to maintain the security, accuracy and proper use of information AMC collects, including limiting the number of people who have physical access to our database servers, as well as using electronic security systems and password protections that guard against unauthorized access by other visitors or third parties.  Please be aware that, although AMC endeavors to maintain the security of information in its possession, no security system is capable of preventing all security breaches.
 
-### 5\. DOES AMC USE COOKIES OR OTHER TECHNOLOGIES?
+## 5\. Does AMC Use Cookies or Other Technologies?
 
 The AMC websites and Applications are designed to use technology (e.g., cookies, web beacons, and pixel tags) to collect and store information concerning your use of the AMC websites and Applications, in order to recognize you, provide personalization, optimize performance of the AMC websites and Applications, and collect traffic data (e.g., number of visitors to the AMC website, frequency of visits or use, length of visit, and the use made, or the feature, function or advertisement selected).  If you choose to reject all cookies or similar technology, you may be unable to use much of the functionality of the AMC websites and Applications. 
 
@@ -97,21 +97,23 @@ The Applications may also use various technology (such as flash cookies, HTML5 s
 
 Unless we associate information that we gather through use of technology with your personally identifiable information, we will NOT treat such information as personally identifiable information.
 
-### 6\. CAN OTHER PARTIES OBTAIN INFORMATION FROM ME WHEN I VISIT AN AMC WEBSITE? 
+## 6\. Can Other Parties Obtain Information From Me When I Visit an AMC Website?
 
 AMC may allow third parties to deliver advertisements on AMC websites, through the Application or SMS text messages. AMC websites may also contain links to websites that are owned and operated by third parties. You should be aware that when you click on these third-party advertisements or links, you may deploy technology (such as cookies or web beacons), which third parties may use to identify some of your preferences or to recognize you if you have previously been to their website or otherwise had contact with them. Certain activities on AMC websites are sponsored by third parties, such as the purchase of DVDs from www.amazon.com, and you will be asked to submit personally identifiable information to complete your transaction. Additionally, Fandango.com and other ticketing sites are gathering customer information, including credit card details on their web sites. AMC does not control how these third parties use the information they collect from you, whether collected from the delivery of advertisements to you, your use of links or your purchase of products or other voluntary submissions of information. AMC has no responsibility (and disclaims any representations, warranties or responsibility) for these third-party advertisements and websites, including, without limitation, their content and privacy policies. AMC encourages you to read the privacy policies of the advertisers and websites to learn how they may collect and use information about you. 
 
 If you voluntarily disclose personally identifiable information in a public area of an AMC website or through an Application, such as a review page, blog or message board, third parties may collect this information and use it to send you unsolicited marketing communications, messages or for other purposes. You disclose personally identifiable information in public areas of the AMC websites or through an Application at your own risk. 
 
-### 7\. HOW DO I CONTACT AMC TO REQUEST ACCESS OR CORRECTION TO MY PERSONALLY IDENTIFIABLE INFORMATION?
+## 7\. How Do I Contact AMC to Request Access or Correction to My Personally Identifiable Information?
 
 AMC retains your personally identifiable information for as long as you use the Application, remain a member of the AMC Stubs™ loyalty program, or maintain an online account with an AMC website, and for a reasonable time thereafter.  AMC retains anonymous information it collects under this privacy policy for up to two years from the date of collection, and thereafter may only retain such information in the aggregate.
 
 You may obtain a copy of your personally identifiable information maintained by AMC by contacting AMC Entertainment, Attention: Privacy Manager, 920 Main Street, Kansas City, MO 64105 or at [privacymanager@amctheatres.com](mailto:privacymanager@amctheatres.com). For your protection, you will be required to provide proof of your identity to obtain a copy of your personally identifiable information. You may correct any errors in your personally identifiable information by providing AMC with the correct information.  You may uninstall an Application from your mobile device at any time, and AMC will delete the personally identifiable information in its possession concerning your use of the Application; however, you will continue to receive e-mail, SMS text messages and other communications if you selected those services through your account at the AMC website.  AMC will delete all of your personally identifiable information (except for your transaction history) from AMC's records upon your written request. However, you will not be able to access some areas of the AMC website, use some aspects of the Application or have the Application function properly if you choose to delete your personally identifiable information. 
 
-**California Civil Code Section 1798.83** permits guests and customers of the AMC family of companies who are California residents to request certain information regarding AMC's disclosure of personally identifiable information to third parties for their direct marketing purposes. You may make such a request by contacting AMC Theatres, Attention: Privacy Manager, 920 Main Street, Kansas City, MO 64105 or at [privacymanager@amctheatres.com](mailto:privacymanager@amctheatres.com). 
+### California Civil Code Section 1798.83
 
-### 8\. HOW DO I OPT OUT OF RECEIVING MARKETING COMMUNICATIONS FROM AMC AND OTHERS?
+California Civil Code Section 1798.83 permits guests and customers of the AMC family of companies who are California residents to request certain information regarding AMC's disclosure of personally identifiable information to third parties for their direct marketing purposes. You may make such a request by contacting AMC Theatres, Attention: Privacy Manager, 920 Main Street, Kansas City, MO 64105 or at [privacymanager@amctheatres.com](mailto:privacymanager@amctheatres.com). 
+
+## 8\. How Do I Opt Out of Receiving Marketing Communications from AMC and Others?
 
 When you create an account with AMC and during certain purchase transactions, you may opt out of receiving marketing communications from AMC and its service providers. If you have an account with AMC, you may update your preferences concerning marketing communications at any time. You may also opt out of receiving communications from AMC by following the directions in AMC's e-mail or SMS text message communication with you or by mailing your request, which must include your current contact information, to: 
 
@@ -137,11 +139,11 @@ Your mobile phone number will be removed or suppressed from AMC's SMS text messa
 
 For help with AMC SMS text alerts, please send **HELP** to **242424** via SMS text, or contact AMC's customer service department at 1-888-562-4262.
 
-### 9\. DOES AMC COLLECT INFORMATION FROM CHILDREN?
+## 9\. Does AMC Collect Information from Children?
 
 AMC is committed to protecting the privacy of children.  We do not knowingly collect personal information from children under the age of 13.
 
-### 10\. WILL THIS PRIVACY POLICY CHANGE?
+## 10\. Will This Privacy Policy Change?
 
 AMC may change this privacy policy at any time. If AMC modifies this privacy policy to permit material changes in the way AMC collects, uses and shares your personally identifiable information, AMC may notify you of the modification by sending you an e-mail at the last e-mail address you provided to use, posting a notice through the Applications, by prominently posting notice of the modification here and on the home page for each AMC website governed by this privacy policy, or other reasonable delivery methods . Modifications will be effective 10 days following AMC's transmission of e-mail notice and the posting of notice of the modification on the AMC websites and through the Applications covered by this privacy policy. 
 
