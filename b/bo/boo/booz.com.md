@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booz.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101212240id_/http%3A//www.booz.com/global/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booz.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605042920id_/http%3A//www.booz.com/global/home/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
