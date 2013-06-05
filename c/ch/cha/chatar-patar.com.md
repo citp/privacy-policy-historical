@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chatar-patar.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120225534id_/http%3A//www.chatar-patar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatar-patar.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605020532id_/http%3A//www.chatar-patar.com/privacy.php) for the most accurate reproduction.*
 
-# Recharge Free Mobile & Send Free SMS to India Mobile
+# Recharge Free Mobile & Instant Free recharge to India Mobile
 
 Protecting your privacy is very important to our website. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent.
 
