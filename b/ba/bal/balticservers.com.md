@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balticservers.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113193852id_/http%3A//www.balticservers.com/hosting-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balticservers.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605203529id_/http%3A//www.balticservers.com/hosting-privacy-policy) for the most accurate reproduction.*
 
 # Dedicated Server hosting in Europe - Linux, Windows Servers, Vps hosting, Colocation, Unlimited Cpanel hosting | BalticServers.com
 
