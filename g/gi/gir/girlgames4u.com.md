@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the girlgames4u.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127003330id_/http%3A//www.girlgames4u.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlgames4u.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606003232id_/http%3A//www.girlgames4u.com/privacy.html) for the most accurate reproduction.*
 
-# Play Girl Games, FREE ONLINE GAMES FOR GIRLS
+# Play Girl Games, FREE ONLINE GAMES FOR GIRLS GG4U.com
 
 **PRIVACY POLICY**
 
