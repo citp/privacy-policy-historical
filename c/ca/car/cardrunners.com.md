@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardrunners.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016124210id_/http%3A//www.cardrunners.com/page/privacy_policy_cardrunners) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardrunners.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605161249id_/http%3A//www.cardrunners.com/page/privacy_policy_cardrunners) for the most accurate reproduction.*
 
 # CardRunners - Privacy Policy
 
