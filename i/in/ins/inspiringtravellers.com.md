@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiringtravellers.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204021946id_/http%3A//inspiringtravellers.com/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiringtravellers.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605221414id_/http%3A//inspiringtravellers.com/terms-and-conditions) for the most accurate reproduction.*
 
 # Terms and Conditions / Privacy Policy :: InspiringTravellers.com - Travel the World
 
@@ -86,5 +86,3 @@ You may choose to restrict the collection or use of your personal information in
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you. If you would like a copy of the information held on you please write to info AT inspiringtravellers DOT com If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible. We will promptly correct any information found to be incorrect.
 
 _Updated 14 November 2012_
-
-[](https://pinterest.com/pin/create/button/?url=http%3A%2F%2Finspiringtravellers.com%2Fterms-and-conditions%2F&media=&description=Terms%20and%20Conditions%20%2F%20Privacy%20Policy)
