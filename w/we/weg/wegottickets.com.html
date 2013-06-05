@@ -1,39 +1,16 @@
-<!--The following is the downloaded HTML source of the wegottickets.com privacy policy that was archived on 2012-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121005170817id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wegottickets.com privacy policy that was archived on 2013-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605093635id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15">
 <title>WeGotTickets - Your Online Box Office - Our privacy policy</title>
 <meta name="Description" content="Buy tickets for music, comedy, theatre, film, festivals and much more - with the best service in UK ticketing">
-
-<!--link rel="stylesheet" type="text/css" href="/css/b/wegottickets.css" / -->
-<!--
-<link rel="stylesheet" type="text/css" href="/css/b/framework.css" />
-<link rel="stylesheet" type="text/css" href="/css/b/Header.css" />
-<link rel="stylesheet" type="text/css" href="/css/b/Footer.css" />
-
-
-<link rel="stylesheet" type="text/css" href="/css/b/Navigation.css" />
-<link rel="stylesheet" type="text/css" href="/css/b/Content.css" />
-
-<link rel="stylesheet" type="text/css" href="/css/b/Page.css" />
-<link rel="stylesheet" type="text/css" href="/css/b/Listings.css" />
-<link rel="stylesheet" type="text/css" href="/css/b/RightColumn.css" />
-<link rel="stylesheet" type="text/css" href="/css/b/Forms.css" />
-<link rel="stylesheet" type="text/css" href="/css/b/phase1.css" />
-<link rel="stylesheet" type="text/css" href="/css/b/calendar.css" />
-<link rel="stylesheet" type="text/css" href="/css/b/datepicker.css" />
-
-
-<link rel="stylesheet" type="text/css" href="/css/b/clientadminsignpost.css" />
-<link rel="stylesheet" type="text/css" href="/css/incident.css" />
-<link rel="stylesheet" type="text/css" href="/css/birthdaybasket.css" />
--->
-
-    <link rel="stylesheet" type="text/css" href="//cdn.wegottickets.com/www/css/combined-cdn.css">
-    <link rel="stylesheet" type="text/css" href="/css/header.css">
-    <link rel="stylesheet" type="text/css" href="//cdn.wegottickets.com/www/css/YouthMusic1.css">
+<link rel="stylesheet" type="text/css" href="/css/adventcalendar.css">
+<link rel="stylesheet" type="text/css" href="//cdn.wegottickets.com/www/css/combined-cdn.css">
+<!--link rel="stylesheet" type="text/css" href="/css/b/combined-cdn.css" /-->
+<link rel="stylesheet" type="text/css" href="/css/header.css">
+<link rel="stylesheet" type="text/css" href="//cdn.wegottickets.com/www/css/YouthMusic1.css">
 
 <style type="text/css">
 
@@ -62,8 +39,67 @@
 <link rel="shortcut icon" href="http://www.wegottickets.com/images/wegottickets.ico" type="image/x-icon">
 
 <script type="text/javascript" src="//cdn.wegottickets.com/www/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.wegottickets.com/js/snowfall.min.jquery.js"></script>
 <script type="text/javascript">
     jQuery.noConflict();
+
+    jQuery(function ($) {
+
+        var Snowy = function (el, options) {
+            this.el = el;
+            this.init(options);
+        };
+
+        $('#advent-calendar').snowfall();
+
+        Snowy.fn = Snowy.prototype;
+        $.extend(Snowy.fn, {
+            defaults:{
+                revealSpeed:400,
+                concealSpeed:400
+            },
+
+            init:function (options) {
+                this.options = $.extend({}, this.defaults, options)
+                this.overlay = this.el.find('.snow:first').show();
+                this.overlayTop = this.overlay.css('top');
+                this.state = 'concealed';
+                this.el.bind('mouseenter', $.proxy(this.reveal, this));
+                this.el.bind('mouseleave', $.proxy(this.conceal, this));
+            },
+
+            reveal:function (e) {
+                if (this.state == 'concealed') {
+                    this.state = 'revealing';
+                    this.overlay.animate({
+                        opacity:0,
+                        top:'+=80'
+                    }, this.options.revealSpeed, 'linear', $.proxy(this.revealFinish, this));
+                }
+            },
+
+            revealFinish:function () {
+                this.state = 'revealed';
+            },
+
+            conceal:function (e) {
+                if (this.state == 'revealed') {
+                    this.state = 'concealing';
+                    this.overlay.css({top:this.overlayTop});
+                    this.overlay.animate({
+                        opacity:1
+                    }, this.options.concealSpeed, 'linear', $.proxy(this.concealFinish, this));
+                }
+            },
+
+            concealFinish:function () {
+                this.state = 'concealed'
+            }
+        });
+
+        new Snowy($('#advent-calendar .sign').first());
+
+    });
 </script>
 
 <script src="//cdn.wegottickets.com/www/js/activeContent.js" type="text/javascript"></script>
@@ -88,6 +124,7 @@ domReady( function() {
 
 </head>
 <body>
+<noscript><img src="//cdn.wegottickets.com/www/images/noscript.gif" style="display: none" /></noscript>
 <a href="http://www.wegottickets.com/" id="logo" title="Main WeGotTickets Site">
 	<img src="//cdn.wegottickets.com/www/images/logo.gif" alt="WeGotTickets Logo">
 </a>
@@ -96,15 +133,15 @@ domReady( function() {
 
         	<div class="sitewidth clearfix">
 	            <a href="http://www.wegottickets.com/" id="WeGotTickets-Logo" title="Main WeGotTickets Site">
-	            	<img src="//cdn.wegottickets.com/www/images/logo3.png">
+                    <img src="//cdn.wegottickets.com/www/images/logo3.png" alt="WeGotTickets Logo">
 	            </a>
 	            <div id="header_extra"></div>
 	            <h1>Your online box office</h1>
 	            <div id="header_search">
 		            <div id="portals">
 						<ul>
-							<li><a href="http://www.wegotcomedy.com/">WeGot<span class="alt">Comedy</span></a></li>
-							<li class="last"><a href="http://www.wegotfestivals.com/">WeGot<span class="alt">Festivals</span></a></li>
+							<li><a href="http://www.wegotcomedy.com/" title="Discover all the comedy events on sale - and our top recommendations">WeGot<span class="alt">Comedy</span></a></li>
+							<li class="last"><a href="http://www.wegotfestivals.com/" title="Discover all the festivals on sale - and our top recommendations">WeGot<span class="alt">Festivals</span></a></li>
 						</ul>
 					</div>
 		            <div id="search_box">
@@ -125,7 +162,6 @@ domReady( function() {
 						<li><a id="SearchLink" href="http://www.wegottickets.com/" title="WeGotTickets Home">home</a></li>
 						<li><a id="Basket" href="http://www.wegottickets.com/viewcart" title="Basket">basket</a></li>
 						<li><a href="http://www.wegottickets.com/faqs" title="Frequently Asked Questions">faqs</a></li>
-						<li><a href="http://www.wegottickets.com/help" title="Get Help">help!</a></li>
 					</ul>
 					<ul id="UserNav">
 						<li id="UserEdge"></li>
@@ -155,7 +191,7 @@ domReady( function() {
 </div>
 <div class="ChatterBox">
 	<div class="chatterboxtop"></div>
-	<blockquote>We do not post out tickets. <a href="http://www.wegottickets.com/faqs">See faqs</a> for more info.</blockquote>
+	<blockquote>We do not post out tickets. <a href="http://www.wegottickets.com/faqs/1#faq">See faqs</a> for more info.</blockquote>
 	<div class="ChatterBottom"></div>
 </div>
 
@@ -197,7 +233,7 @@ All Website material is owned by Internet Tickets Ltd. There must be no reproduc
 	        <a href="/back" title="back to WeGotTickets" id="backlinkfooter">
 	            <img src="//cdn.wegottickets.com/www/images/logo_small.gif" alt="WeGotTickets - Festival tickets" border="0" height="35">
 	        </a>
-	        <p>© Internet Tickets Ltd 2004 - 2012</p>
+	        <p>© Internet Tickets Ltd 2004 - 2013</p>
 	        <ul class="clearfix">
 	            <li>
 	            	<a href="http://www.facebook.com/#!/pages/WeGotTickets/40707078898" target="_blank">
