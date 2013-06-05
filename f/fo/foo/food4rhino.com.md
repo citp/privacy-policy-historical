@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the food4rhino.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205125354id_/http%3A//www.food4rhino.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the food4rhino.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605224452id_/http%3A//www.food4rhino.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Food4Rhino | Rhino
 
@@ -24,4 +24,4 @@ To change your e-mail address, just [edit your account](http://www.food4rhino.co
 
 **Deactivate account**
 
-To deactivate your account, [contact us](https://web.archive.org/web/20121205125354id_/http://www.food4rhino.com/privacy/4FQ.RYY3Q4@F3GULnPFFO:FKRGS4@) with the subject “Deactivate account”.
+To deactivate your account, [contact us](https://web.archive.org/web/20130605224452id_/http://www.food4rhino.com/privacy/4FQ.RYY3Q4@F3GULnPFFO:FKRGS4@) with the subject “Deactivate account”.
