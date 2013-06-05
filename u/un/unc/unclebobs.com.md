@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the unclebobs.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101075907id_/http%3A//www.unclebobs.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unclebobs.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605065524id_/http%3A//www.unclebobs.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy on Unclebobs.com
 
 ## Uncle Bob's Privacy Policy
 
-Copyright © 2012 Sovran Self Storage, Inc. All rights reserved. Uncle Bob's Self Storage is a registered trademark of Sovran Self Storage, Inc.
+Copyright © 2013 Sovran Self Storage, Inc. All rights reserved. Uncle Bob's Self Storage is a registered trademark of Sovran Self Storage, Inc.
 
 ### We Respect Your Privacy
 
@@ -41,3 +41,13 @@ Children under 13 should not send any information about themselves to Uncle Bob'
 ### Third Parties
 
 Any third party companies listed in this website such as "Adobe" or "CCBN" are trademarks of their companies. Any links to their websites within Unclebobs.com take you outside of the Uncle Bob's website, and Uncle Bob's Self Storage and Sovran Self Storage are not responsible for their content or privacy practices.
+
+We use third-party advertising companies, including Google, to serve ads when you visit our Website. Uncle Bob's and third-party advertising companies use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to your website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+
+You may opt-out of advertisements by using the following links to the third-party Opt Out pages. 
+
+  * [NAI Opt Out Page](http://www.networkadvertising.org/managing/opt_out.asp)
+  * [Fetchback Opt Out Page](http://www.fetchback.com/optout.html)
+  * [Google Opt Out Page](https://tools.google.com/dlpage/gaoptout/)
+
+
