@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineslangdictionary.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003095449id_/http%3A//onlineslangdictionary.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineslangdictionary.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605020948id_/http%3A//onlineslangdictionary.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Online Slang Dictionary
 
