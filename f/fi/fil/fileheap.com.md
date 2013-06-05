@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileheap.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505153757id_/http%3A//www.fileheap.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileheap.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605120744id_/http%3A//www.fileheap.com/privacy.html) for the most accurate reproduction.*
 
 # FileHeap privacy policy - Download Freeware, Shareware, Demo, Game Software Files for Windows, Mac, Palm and Linux
 
@@ -6,7 +6,7 @@
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
 
-We have created this privacy policy to demonstrate our firm commitment to privacy and security. This privacy policy describes how FileHeap collects information from all end users of FileHeap's Internet services (the "Services")—those who access some of our Services but do not have accounts ("Visitors") as well as those who pay a monthly service fee to subscribe to the Service ("Members")—what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. FileHeap requests that you read this privacy policy carefully.
+We have created this privacy policy to demonstrate our firm commitment to privacy and security. This privacy policy describes how FileHeap collects information from all end users of FileHeap's Internet services (the "Services")�those who access some of our Services but do not have accounts ("Visitors") as well as those who pay a monthly service fee to subscribe to the Service ("Members")�what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. FileHeap requests that you read this privacy policy carefully.
 
 ## Personal Information FileHeap Collects and How It Is Used
 
