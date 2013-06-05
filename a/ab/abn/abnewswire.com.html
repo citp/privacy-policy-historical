@@ -1,0 +1,197 @@
+<!--The following is the downloaded HTML source of the abnewswire.com privacy policy that was archived on 2013-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605050403id_/http%3A//www.abnewswire.com/privacy_policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Privacy Policy</title>
+<meta name="description" content="Privacy Policy">
+
+<meta name="keywords" content="Privacy Policy">
+
+<link href="http://www.abnewswire.com/css/ab-news-stylesheet.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="http://www.abnewswire.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://www.abnewswire.com/favicon.ico" type="image/x-icon">
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+function get_subscribe()
+{// alert(inputString);
+	var company_id = document.getElementById("newsemail").value;
+	//$("#MSnews").append().html('<img src="http://www.abnewswire.com/images/indicator.gif" border="0" align="absbottom" />');
+	if(company_id != "")
+	{ 
+		 if(document.getElementById('newsemail').value == 'Please Input Email' || document.getElementById('newsemail').value=='')
+		 {
+			document.getElementById('MSnews').innerHTML="Please enter email address..!!";
+			document.getElementById('newsemail').focus();
+			return false;
+		 }else if(!checkEmailNS(document.getElementById('newsemail').value))
+	  	 {
+			document.getElementById('MSnews').innerHTML="Please enter Valid email ..!!";
+			document.getElementById('newsemail').focus();
+			return false;
+	     }else
+	     {
+			
+			$.post("ajax_newsletter.php?id=1", {queryString: ""+company_id+""}, function(data)
+			{   
+				$("#MSnews").empty();
+				if(data.length >0)
+				{	
+					document.getElementById('MSnews').innerHTML = data;
+				}
+			});
+	     }
+	}
+}
+
+function checkEmailNS(inputvalue){	
+    var pattern=/^([a-zA-Z0-9_.-])+@([a-zA-Z0-9_.-])+\.([a-zA-Z])+([a-zA-Z])+/;
+    if(pattern.test(inputvalue)){         
+		return true;
+    }else{   
+		return false; 
+    }
+}
+	
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36949373-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+
+<body>
+
+
+<!--top-part gose here-->
+
+<!-- head wrapper start -->
+<div id="head-wrapper">
+  <div id="head">
+    <div class="logo"><a href="/" title="AB Newswire">AB Newswire</a></div>
+    <div class="f-right">
+      <p class="need-ast">Need Assistance? Call <strong><a href="callto://+12135997448" style="text-decoration:none;">+1 213 599 7448</a></strong> | <a href="contact_us.php">Contact Us</a></p>
+      <!--        <a href="http://www.abnewswire.com/signup.php">Sign Up</a>
+        <a href="http://www.abnewswire.com/login.php">Sign In</a> -->
+        <div class="get-strt f-right"><a href="http://www.abnewswire.com/signup.php">Get Started</a></div>
+        <div class="login f-right"><a href="http://www.abnewswire.com/login.php">Login</a></div>
+<!--        <input name="Log In" type="button" class="get-strt f-right" id="Log In" value="Get Started" />
+      	<input name="Log In" type="button" class="login f-right" id="Log In" value="Log In" />
+ -->              
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>
+<!-- navigation start -->
+<div id="nav-wrap">
+  <div class="nav">
+    <ul>
+     <li><a href="http://www.abnewswire.com/how-it-works.php">How It Works</a></li>
+      <li><a href="http://www.abnewswire.com/why-us.php">Why Us</a></li>
+      <li><a href="http://www.abnewswire.com/distribution.php">Distribution</a></li>
+       <li><a href="http://www.abnewswire.com/pressreleases/">Press Releases</a></li>
+      <li><a href="http://www.abnewswire.com/writingservices.php">PR Writing</a></li>
+      <li><a href="http://www.abnewswire.com/faq.php">FAQ</a></li>
+      <li style="padding-right:0px !important;"><a href="http://www.abnewswire.com/pricing.php">Pricing</a></li>
+    </ul>
+  </div>
+</div>
+
+<!-- internal headings -->
+<div id="main-headings">
+<h1>Privacy Policy </h1>
+</div>
+<!-- content wrapper -->
+<div id="content-wrapper">
+  <div id="content-main">
+ <p>The privacy policy statement stated on this document covers the  entire website owned and operated by AbNewswire.com.</p>
+<p>AB Newswire is committed to protecting your privacy. Mentioned  below are our information practices regarding the collection and use of  information that identifies an individual, business, organization or any other  entity uniquely.</p>
+<p><strong>Sharing of Information</strong></p>
+<p>AB Newswire operates a newswire service that distributes and  broadcasts the content of press releases submitted by our registered users to  various third parties. This information is limited to the text content, the  graphics and the category information of the press release. All of these are  submitted by or on behalf of the originating unit. We are not responsible for  personal information that is uploaded to be included in a press release  intended for distribution. Sharing of such information along with a press  release indicates agreement with the stated policy.</p>
+<p>AB Newswire has a profile section which consists of  published information submitted by or on behalf of the originating unit. All  information published in this section has been unequivocally approved for  distribution or broadcast by our registered users or is public knowledge.</p>
+<p>AB Newswire may be required to provide information to a law  enforcement agency, but only as the result of a request relating to a specific  legal proceeding. Users that have questions or concerns regarding this  statement should contact&nbsp;us for further information.</p>
+<p><strong>Information of Account</strong></p>
+<p>The information collected by AB Newswire during the account  registration process is used to notify users about changes and updates to our  service and to inform of changes in company policy or procedures. We firmly  state that this information is not shared with any third party or organization  for any purpose.</p>
+<p>If you wish to decline communication of any form from AB  Newswire, please notify us via email or through our contact numbers.</p>
+<p>Should our privacy policy change in the future, we will post  the policy changes to our website and notify you. You will have the choice of  accepting or rejecting the changes.</p>
+<p><strong>Data Security</strong></p>
+<p>We make sure that industry-standard encryption techniques  are used while transmitting and receiving user data. We have well established  security measures in place to provide adequate protection against loss, misuse  or alteration of information that we have collected from you. Credit card  information is not stored in our systems.</p>
+<p>If you feel that AB Newswire is not adhering to its stated  privacy policies, please feel free to let us know the details.</p><div class="clear"></div>
+  </div>
+</div>
+<div id="footer"> <div class="clear"></div>
+</div>
+<!-- footer wrapper -->
+<div id="footer-wrapper">
+  <div id="footer-main">
+    <ul id="footer-menu" class="f-left">
+       <li>&nbsp;</li>
+      <li><a href="http://www.abnewswire.com/">Home</a></li>
+      <li><a href="http://www.abnewswire.com/how-it-works.php">How It Works</a></li>
+      <li><a href="http://www.abnewswire.com/why-us.php">Why Us</a></li>
+      <li><a href="http://www.abnewswire.com/distribution.php">Distribution</a></li>
+      <li><a href="http://www.abnewswire.com/about-us.php">About Us</a></li>
+    </ul>
+    <ul id="footer-menu" class="f-left">
+      <li>&nbsp;</li>
+      <li><a href="http://www.abnewswire.com/pressreleases/">Press Releases</a></li>
+      <li><a href="http://www.abnewswire.com/writingservices.php">PR Wiritng</a></li>
+      <li><a href="http://www.abnewswire.com/pricing.php">Pricing</a></li>
+      <li><a href="http://www.abnewswire.com/knowledge.php">Knowledge Centre</a></li>
+      <li><a href="http://www.abnewswire.com/contact_us.php">Contact Us</a></li>
+    </ul>
+    <ul id="footer-menu" class="f-left">
+      <li>&nbsp;</li>
+      <li><a href="http://www.abnewswire.com/sitemap.xml">Sitemap</a></li>
+      <li><a href="http://www.abnewswire.com/company.php">Company List </a></li>
+      <li><a href="http://www.abnewswire.com/terms_and_conditions.php">Terms and Conditions</a></li>
+      <li><a href="http://www.abnewswire.com/privacy_policy.php">Privacy Policy</a></li>
+      <li><a href="http://www.abnewswire.com/faq.php">FAQ</a></li>
+    </ul>
+    <div id="footr-rgt" class="f-right">
+      <span style="padding-bottom:0px !important;"><strong>Follow us and share the word</strong></span>
+      <ul id="social">
+        <li><a href="http://www.facebook.com/pages/A-B-Newswire/104163456413683?ref=stream" class="fb" title="Facebook" target="_blank">Facebook</a></li>
+        <li><a href="https://twitter.com/ABNewswire" class="twtr" title="Twitter" target="_blank">Twitter</a></li>
+        <li><a href="http://www.linkedin.com/profile/view?id=212770914&amp;trk=tab_pro" class="gplus" title="Linkdin" target="_blank">Linkdin</a></li>
+        <li><a href="skype:saurabh.creativelipi?call" class="skp" title="Skype">Skype</a></li>
+        <li><a href="http://www.abnewswire.com/pressreleases/feed/" class="rss" title="RSS" target="_blank">RSS</a></li>
+      </ul>
+       <span>Subscribe to our newsletter:</span>
+       <div id="MSnews"></div>
+
+          <form name="searchForm" id="searchForm" action="http://www.abnewswire.com/pressreleases/" method="get">
+       <input type="hidden" name="news" id="news" class="sucrb-input" value="news">
+         <input name="newsemail" id="newsemail" type="text" onfocus="if(this.value=='Please Input Email') this.value='';" onblur="if(this.value=='') this.value='Please Input Email';" value="Please Input Email" class="sucrb-input">
+      &nbsp;<input name="" type="button" class="inpt-login" value="GO" src="http://www.abnewswire.com/images/subscribe_btn.png" onclick="javascript: get_subscribe();">
+      </form>
+      
+    </div>
+  <form style="float: left; margin: 13px 0px 0px;" method="get" action="pressreleases/" id="searchForm" name="searchForm">
+        <input type="text" onfocus="this.value=''" onblur="if(this.value=='') this.value='Enter Keyword'" value="Enter Keyword" id="s" name="s" class="sucrb-input">
+   &nbsp;<input type="submit" name="Submit" id="Submit" value="Search" class="inpt-login">
+  </form>
+    <div class="clear"></div>
+  </div>
+</div>
+<div id="footer-bot">
+  <div class="f-bottm">AB Newswire © 2013, All Rights Reserved.</div>
+</div>
+
+
+
+
+
+
+</body></html>
