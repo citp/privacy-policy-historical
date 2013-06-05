@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metromasti.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016090740id_/http%3A//www.metromasti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metromasti.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605064931id_/http%3A//www.metromasti.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MetroMasti
 
@@ -69,7 +69,3 @@ We use Google and other third-party advertising companies to serve ads when you 
 **THIRD PARTY COOKIES**
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
-
-**Contact Us**
-
-If you have any questions about this privacy policy, the practices of this site, or your dealings with MetroMasti.com , please write to contactus@srisoftsystems.com
