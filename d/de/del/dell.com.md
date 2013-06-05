@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217073010id_/http%3A//content.dell.com/policies-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605063432id_/http%3A//content.dell.com/policies-privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement | Dell
+# Privacy | Dell
 
 ### Privacy Statement Regarding Customer and Online User Information
 
@@ -78,11 +78,11 @@ You may choose to receive or not receive marketing communications from Dell by i
 
 Please allow up to 10 business days for your email preferences to take effect. Because some promotions, such as direct mail catalogs, are developed in advance, you may sometimes receive solicitations after we receive your preference request.
 
-#### [](https://web.archive.org/web/20121217073012id_/http://content.dell.com/us/en/enterprise/spredir.ashx/solutions/cat-intro-privacy-statement?catid=policies-privacy)How We Secure Your Personal Information
+#### [](https://web.archive.org/web/20130605063432id_/http://www.dell.com/Learn/us/en/19/spredir.ashx/solutions/cat-intro-privacy-statement?catid=policies-privacy)How We Secure Your Personal Information
 
 Dell wants to help you keep your personal information accurate. To view or edit your personal information that has been stored online in your Dell 'My Account,' please visit the My Account/Premier Account sections of the dell.com website. For the security of your account, you will be required to sign in with your login ID and password.
 
-#### [](https://web.archive.org/web/20121217073012id_/http://content.dell.com/us/en/enterprise/spredir.ashx/solutions/cat-intro-privacy-statement?catid=policies-privacy)Collection and Use of Children's Personal Information
+#### [](https://web.archive.org/web/20130605063432id_/http://www.dell.com/Learn/us/en/19/spredir.ashx/solutions/cat-intro-privacy-statement?catid=policies-privacy)Collection and Use of Children's Personal Information
 
 Dell takes children's privacy seriously. We do not knowingly collect personal information from children under the age of 13 through our websites. If you are under 18 years of age, please do not submit any personal information through our websites without the express consent and participation of a parent or guardian. 
 
