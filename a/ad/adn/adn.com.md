@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adn.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230182057id_/http%3A//www.adn.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adn.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606011955id_/http%3A//www.adn.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # ADN.com Anchorage, AK
 
