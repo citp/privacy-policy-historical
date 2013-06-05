@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the labroots.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116013641id_/http%3A//labroots.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labroots.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605063136id_/http%3A//labroots.com/index/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | LabRoots | A Professional Social Networking Website
 
 ### Published October 14, 2008
 
