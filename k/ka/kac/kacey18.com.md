@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kacey18.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102173420id_/http%3A//kacey18.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kacey18.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605115058id_/http%3A//kacey18.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy_nethole
+# Privacy
 
-Privacy Policy for Nethole Services Ltd  
+Privacy Policy for TR Financial Resources Inc   
 
 
 Adults Only Service   
