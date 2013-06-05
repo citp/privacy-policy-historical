@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the assessmentday.co.uk privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228085242id_/http%3A//www.assessmentday.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assessmentday.co.uk privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605044742id_/http%3A//www.assessmentday.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | AssessmentDay.co.uk
 
-We respect your privacy and so collect only the data necessary for product delivery and analysing website usage data. Occasionally we may pass your details to relevant third parties for direct marketing purposes. If you do not wish to received direct marketing please contact us to request an opt-out.  
+We respect your privacy and so collect only the data necessary for product delivery and analysing website usage data. We do not store credit card details nor do we share customer details with any 3rd parties.  
 
 
 #### **Who We Are**
@@ -13,11 +13,11 @@ In this privacy policy references to “we”, “us” and “our” are to Ass
 
 The information we collect via the Website includes:
 
-**1.** Any personal details you knowingly include in anyemail correspondence with us, such as name, address, telephone number etc.
+**1.** Any personal details you knowingly include in any email correspondence with us, such as name, address, telephone number etc.
 
 **2.** Any personal details you knowingly enter to the membership registration forms, such as name and email address.
 
-**3.** Under no circumstances will we hold sensitive payment details such as your card number, expiry date and security code. All transactions are handled through our accredited payment processors, Sage Pay and PayPal. For more information on Sage Pay's security policy visit [Sage Pay Security Policy](http://www.sagepay.com/security_policy). For more information on PayPal’s privacy policy please visit [PayPal Privacy Policy](https://cms.paypal.com/us/cgi-bin/?&cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US).
+**3.** Under no circumstances will we hold sensitive payment details such as your card number, expiry date and security code. All transactions are handled through our accredited payment processors, SagePay and PayPal. For more information on SagePay's security policy visit [Sage Pay Security Policy](http://www.sagepay.com/security_policy). For more information on PayPal’s privacy policy please visit [PayPal Privacy Policy](https://cms.paypal.com/us/cgi-bin/?&cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US).
 
 **4.** Your IP Address. This is a string of numbers unique to your computer that is recorded by our web server when you request any page or component on the Website. This information is used to monitor your usage of the Website. 
 
@@ -26,15 +26,19 @@ The information we collect via the Website includes:
 **6.** We use Google Analytics to analyse how users visit pages of our Website. This analytical tool uses cookies to collect standard internet log information (e.g. your IP address) in order to generate reports of website use. AssessmentDay will not use cookies to collect any personally identifiable information about users, nor will we allow any third party to do so. For Google’s privacy policy please refer to [Google Privacy](http://www.google.com/intl/en_uk/privacy.html).  
 
 
+**7.** We do NOT store credit card details nor do we share customer details with any 3rd parties. 
+
 #### **What we do with your information**
 
 Any personal information we collect from this website will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used: 
 
 **1.** To process your order, to provide after sales service.
 
-**2.** In certain cases we may use your email address to send you information on our other products and services.
+**2.** To improve the usability of our website, through the us of annonymous browsing behaviour.
 
-**3.** Occasionally by third parties for marketing services related to the services provided our Website. If you do not wish your email or name to be used for direct marketing by third parties, write to us at the address below or email us at os@assessmentday.co.uk. 
+**3.** In certain cases we may use your email address to send you information on our other products and services.
+
+**4.** Occasionally by third parties for marketing services related to the services provided our Website. If you do not wish your email or name to be used for direct marketing by third parties, write to us at the address below or email us at os@assessmentday.co.uk. 
 
 #### **How we use cookies**
 
