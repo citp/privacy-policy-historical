@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluecloudsolutions.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229105601id_/http%3A//www.bluecloudsolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluecloudsolutions.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605081755id_/http%3A//www.bluecloudsolutions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iPhone App Marketing | Bluecloud Solutions | How To Make Money With Apps
 
