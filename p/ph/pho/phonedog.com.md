@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonedog.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205153621id_/http%3A//www.phonedog.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonedog.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605105800id_/http%3A//www.phonedog.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PhoneDog
 
@@ -15,8 +15,8 @@ However, if you decide to register for a product or service, PhoneDog or the c
 
  We use information gathered about you from our site statistics (for example, your IP address) to help diagnose problems with our server and to administer our Web site. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information. Our site uses cookies to keep track of your site visit. We use cookies to track the amount of traffic we receive and troubleshoot any browser issues. This site may also contain links to other sites. Unfortunately, PhoneDog is not responsible for the privacy practices or the content of such Web sites.
 
-**Adverttising Networks**  
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  For more information on the data collected, see each network link below...
+**Advertising Networks**  
+We may use third-party advertising companies to serve ads when you visit our Web Site. If so, a list of these ad serving companies will be available here. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's consumer web site at http://www.networkadvertising.org/managing/opt_out.asp.
 
   * Google: <http://www.google.com/privacy_ads.html>
   * Netshelter: <http://www.netshelter.net/privacy>
