@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wkrn.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214134733id_/http%3A//www.wkrn.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkrn.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606012042id_/http%3A//www.wkrn.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - WKRN, Nashville News, Nashville Weather and Sports
 
