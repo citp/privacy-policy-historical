@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the italychronicles.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119042250id_/http%3A//italychronicles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italychronicles.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605223832id_/http%3A//italychronicles.com/privacy) for the most accurate reproduction.*
 
-# Italy Chronicles – Privacy Policy
+# Privacy Policy | Italy Chronicles
 
 ### **Italy Chronicles’ Privacy Statement**
 
- **Please note that ItalyChronicles.com** was formerly known as **BlogfromItaly.com**
+**Please note that ItalyChronicles.com** was formerly known as **BlogfromItaly.com**
 
-####  **Website Visitors**
+#### **Website Visitors**
 
 Like most website operators, ItalyChronicles.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. ItalyChronicles.com’s purpose in collecting non-personally identifying information is to better understand how ItalyChronicles.com’s visitors use its website. From time to time, ItalyChronicles.com may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
@@ -18,7 +18,7 @@ Certain visitors to ItalyChronicles.com’s website choose to interact with Ital
 
 ItalyChronicles.com does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-####  **Advertising**
+#### **Advertising**
 
 ItalyChronicles.com uses third-party advertising companies to serve ads when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
@@ -26,7 +26,7 @@ Please note that ItalyChronicles.com is part of the **Google Adsense** advertisi
 
 You may read more about the information collection system used here:  [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
 
- _ **Please also note**_ the following information relating to advertising displayed on ItalyChronicles.com via the Google Adsense advertising program.
+_**Please also note**_ the following information relating to advertising displayed on ItalyChronicles.com via the Google Adsense advertising program.
 
   1. Google, as a third party vendor, uses cookies to serve ads on this site.
   2. Google’s use of the DART cookie enables it to serve ads to users based on their visit to ItalyChronicles.com and other sites on the Internet.
@@ -68,7 +68,7 @@ The personal data of the involved party will be processed by Alex Roe the holder
 
 (ii) for promotional, commercial, and information activities regarding the involved person. To that end your personal data may be provided in rare circumstances by ItalyChronicles.com domain holder Alex Roe to companies having a contractual relationship with ItalyChronicles.com domain holder Alex Roe, even those incorporated outside European Union, and will be communicated to the persons or entities responsible for or in charge with the personal data treatment appointed by said companies.
 
- **The personal data will not be propagated.**  
+**The personal data will not be propagated.**  
 The provision of your data for the purposes stated in paragraph (i) is optional. Should such data be withheld, you will not be allowed to receive the assistance, information and/or services requested. The provision of your data for the purposes stated in paragraph (ii) is optional. Should such data be withheld, you will not be allowed to receive information about the commercial and/or promotional activities organized by Alex Roe and his partners.
 
 As involved party, you have the rights expressed in art. 7 of the D.Lgs. June 30, 2003, n. 196. Regarding the expression of these rights, including knowing which persons responsible for personal data treatment have been appointed by Alex Roe, the involved party may send a written communication to contactATitalychroniclesDOTcom.
@@ -79,18 +79,18 @@ ItalyChronicles.com has agreements with independent online retailers that enable
 
 Purchases made through these third party sites are subject to the policies and procedures of those sites. Order fulfilment and customer service relating to orders placed at any of those third party sites, including the collection of applicable sales taxes, are the sole responsibility of such sites. Any concerns regarding order fulfilment, customer service, privacy policies or other issues relating to these third party online retail sites should be directed to the Webmaster or site administrator of the site.
 
- **How do these relationships work?**
+**How do these relationships work?**
 
 ItalyChronicles.com has agreements with multiple online retailers to offer a wider variety of merchandise through links on our site. Purchases made through these links result in a portion of your total purchase being given to ItalyChronicles.com, called a revenue share. These funds are used to support ItalyChronicles.com online. ItalyChronicles.com only receives this money if you shop through one of the special links on on ItalyChronicles.com. Once you’ve entered the third party site, ItalyChronicles.com receives a revenue share from all products you purchase during that visit.
 
- **Why shop through ItalyChronicles.com?**
+**Why shop through ItalyChronicles.com?**
 
 The links provided on ItalyChronicles.com are specially coded to designate you as an ItalyChronicles.com supporter. This is the only way to ensure that your purchase goes to supporting ItalyChronicles.com.
 
- **What happens to my personal information?**
+**What happens to my personal information?**
 
 When shopping at one of the third party retail sites with which ItalyChronicles.com has a relationship, you are subject to that site’s privacy and security policies.
 
-###  **Privacy Policy Changes**
+### **Privacy Policy Changes**
 
 Although most changes are likely to be minor, ItalyChronicles.com may change its Privacy Policy from time to time, and in ItalyChronicles.com’s sole discretion. ItalyChronicles.com encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
