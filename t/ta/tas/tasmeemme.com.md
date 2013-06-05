@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasmeemme.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129100318id_/http%3A//www.tasmeemme.com/site/page%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasmeemme.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605184715id_/http%3A//tasmeemme.com/site/page%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # TasmeemME - Privacy
 
