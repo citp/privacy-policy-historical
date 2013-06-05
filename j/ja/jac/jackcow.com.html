@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the jackcow.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510204151id_/http%3A//www.jackcow.com/jackcow_2012/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jackcow.com privacy policy that was archived on 2013-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605120820id_/http%3A//www.jackcow.com/jackcow_2012/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta property="og:title" content=""> 
-<meta property="og:image" content="http%3A%2F%2Fwww.jackcow.com%2Fstatic%2F">
+<meta property="og:image" content="http://www.jackcow.com/static/">
 <title>Jackcow.com</title>
 <link rel="stylesheet" type="text/css" href="../jackcow_2012/css/main.css">
 <link rel="stylesheet" type="text/css" href="../jackcow_2012/css/slider.css">
@@ -21,6 +21,12 @@
 <script type="text/javascript" src="../fancybox/jquery.easing-1.3.pack.js"></script>
 <script type="text/javascript" src="../fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
 <script type="text/javascript" src="js/stuhover.js.js"></script>
+<script type="text/javascript" src="../jackcow_2012/js/jquery.livequery.js"></script>
+
+
+<!--<script type="text/javascript" src="/jackcow_2012/js/jquery-1.3.2.js"></script>-->
+<script type="text/javascript" src="/jackcow_2012/js/jquery.livequery.js"></script>
+
 <link rel="stylesheet" type="text/css" href="../fancybox/jquery.fancybox-1.3.4.css" media="screen">
 
 <script type="text/javascript">
@@ -49,17 +55,16 @@
 </li>
 
 <li style="margin-left:8px;">
-<form action="" method="get">
-<input name="" type="text" value="Please Enter Your Email" style="font-size:12px; color:#9c9c9c; width:140px;">
-<select name="" style="font-size:12px; color:#9c9c9c; width:140px;">
-  <option>City</option>
-  <option>Klang valley</option>
-  <option>Penang</option>
-  <option>Johor</option>
-</select>
-<a href="#" style="text-decoration:none;">
-<input type="button" name="subscribe-button1" class="subscribe-button" value="Subscribe Free" title="">
-</a>
+<form action="http://deals.activehosted.com/proc.php" method="post" id="_form_1160" accept-charset="utf-8" enctype="multipart/form-data">
+<input type="hidden" name="f" value="1161">
+  <input type="hidden" name="s" value="">
+  <input type="hidden" name="c" value="0">
+  <input type="hidden" name="m" value="0">
+  <input type="hidden" name="act" value="sub">
+   <input type="hidden" name="nlbox[]" value="15">
+
+<input name="email" type="text" value="Please Enter Your Email" style="font-size:12px; color:#9c9c9c; width:140px;" onblur="if (this.value == '') {this.value = 'Please Enter Your Email';}" onfocus="if (this.value == 'Please Enter Your Email') {this.value = '';}">
+<input type="submit" name="subscribe-button1" class="subscribe-button" value="Subscribe">
 </form>
 </li>
 </div>
@@ -81,9 +86,9 @@ English Version
 </li>
 
 <li style=" margin-left:10px; float:left;">
-<form action="../language.php" method="POST">
+<form action="../language.php?path=/jackcow_2012/privacy_policy.php" method="POST">
 <select name="language" style="font-size:12px; color:#9c9c9c; width:75px; height:20px;">
-  <option value="cn">中文版</option>
+  <option value="cn">中文</option>
   <option value="en">English</option>
 </select>
 <a href="#">
@@ -111,6 +116,12 @@ English Version
 
 </div>
 </div>
+
+
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "tsh1g1a8n500Up", domain:"jackcow.com"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=tsh1g1a8n500Up" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
 <!-- End Header -->
 
 
@@ -136,7 +147,8 @@ var mygallery=new fadeSlideShow({
 	wrapperid: "ads1content", //ID of blank DIV on page to house Slideshow
 	dimensions: [260, 211], //width/height of gallery in pixels. Should reflect dimensions of largest image
 	imagearray: [
-		["images/sld1.jpg", "", "", ""]//<--no trailing comma after very last image element!
+		["/jackcow_2012/images/umc_banner.jpg", "http://www.jackcow.com/jackcow_2012/promotions_u_mobile.php", "", ""],//<--no trailing comma after very last image element!
+		["/jackcow_2012/images/high_five.jpg", "", "", ""]
 	],
 	displaymode: {type:'auto', pause:4500, cycles:0, wraparound:false},
 	persist: false, //remember last viewed slide and recall within same session?
@@ -146,14 +158,111 @@ var mygallery=new fadeSlideShow({
 })
 
 </script>
+<script type="text/javascript">
 
+$(function() {
+    $(".desc").hide();
+    $(".square").hover(function() {
+        var actual = $(this).index();
+        $(".desc").hide();
+        $(".desc:eq(" + actual + ")").show();
+    }, function() {
+        return false;
+    });
+    
+    $('.square').click(function () {
+		$(".desc").hide();
+	});
+});
+
+function validateumobile()
+{
+var mobile_no=document.forms["umobile"]["mobile_no"].value;
+if(isNaN(mobile_no)||mobile_no.indexOf(" ")!=-1)
+           {
+              alert("Enter Mobile Number")
+              return false; 
+           }
+if (mobile_no.length==10 || mobile_no.length==11)
+           {
+                return true;
+           }else{
+				alert("Enter Valid Mobile Number");
+                return false;
+		   }
+
+}
+
+function checkavailable(){
+	document.getElementById('loading').style.display = "block"; 
+	document.getElementById('available').style.display = "none"; 
+	document.getElementById('unavailable').style.display = "none"; 
+	var e = document.getElementById("amount");
+	var stramount = e.options[e.selectedIndex].value;    
+	var available;
+	
+	if (stramount=="")
+	  {
+	  	document.getElementById('loading').style.display = "none"; 
+	  	document.getElementById('available').style.display = "none"; 
+		document.getElementById('unavailable').style.display = "none"; 
+		document.getElementById('nofree').style.display = "none";
+		document.umobile.umobile_submit.disabled=true;
+	  }else{
+	  	if (window.XMLHttpRequest)
+		  {// code for IE7+, Firefox, Chrome, Opera, Safari
+		  xmlhttp=new XMLHttpRequest();
+		  }
+		else
+		  {// code for IE6, IE5
+		  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+		  }
+		xmlhttp.onreadystatechange=function()
+		  {
+		  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+		    {
+		    available=xmlhttp.responseText;
+			    if(available<2){
+			    	//alert('out of stock');
+			    	document.getElementById('loading').style.display = "none"; 
+			    	document.getElementById('unavailable').style.display = "block"; 
+			    	document.umobile.umobile_submit.disabled=true;
+			    }else{
+			    	//alert('in stock');
+			    	document.getElementById('loading').style.display = "none"; 
+			    	document.getElementById('available').style.display = "block"; 
+			    	document.umobile.umobile_submit.disabled=false;
+			    }
+		    }
+		  }
+		xmlhttp.open("GET","http://www.jackcow.com/umobile/check.php?amount="+stramount,true);
+		xmlhttp.send();
+	  }	
+}
+</script>
+
+<link rel="stylesheet" type="text/css" href="../jackcow_2012/css/umobile.css">
+<style type="text/css">
+.square{
+    display:inline-block;
+}
+#desc{
+    -width:162px;
+}
+.desc{
+    width:100%;
+
+    display:inline;
+}
+
+  </style>
 <div id="rightcolumn">
 		       
 <div class="socialmedia">
 <li><em>Follow Us On</em></li>
-<li><a href="#"><div class="fb"></div></a></li>
-<li><a href="#"><div class="twitter"></div></a></li>
-<li><a href="#"><div class="google"></div></a></li>
+<li><a href="http://www.facebook.com/jackcowdeals" target="_blank"><div class="fb"></div></a></li>
+<li><a href="https://twitter.com/JackCowdeals" target="_blank"><div class="twitter"></div></a></li>
+<li><a href="https://plus.google.com/u/0/116533116095535407476" target="_blank"><div class="google"></div></a></li>
 </div>
 
 <!--
@@ -181,12 +290,56 @@ var mygallery=new fadeSlideShow({
 
 <div class="ads">
 <!--[ Jackcow's This & That ]-->
-<div class="ads1">
-<div id="ads1content">
-</div>
-</div>
+	<div class="ads1">
+		<div id="ads1content" style="position: relative; visibility: visible; background: black; overflow: hidden; width: 260px; height: 211px;"><div class="gallerylayer" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; background: black;"><a href="http://www.jackcow.com/jackcow_2012/promotions_u_mobile.php" target="">
+<img src="/jackcow_2012/images/umc_banner.jpg" style="border-width: 0px; display: none;">
+</a>
+<img src="/jackcow_2012/images/high_five.jpg" style="border-width: 0px; display: none;">
+</div><div class="gallerylayer" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; background: black;"><a href="http://www.jackcow.com/jackcow_2012/promotions_u_mobile.php" target="">
+<img src="/jackcow_2012/images/umc_banner.jpg" style="border-width: 0px; display: none;">
+</a>
+<img src="/jackcow_2012/images/high_five.jpg" style="border-width: 0px; display: none;">
+</div><img src="images/loop/packages1_01.jpg" style="position: absolute; left: 103px; top: 50.5px; display: none;"></div>
+	</div><br>
 </div>
 
+<div class="indexReload">
+    	<div class="boxTop"></div>
+
+		<div class="boxBottom">
+        	<p class="textOne"><strong>Please select your reload value:</strong></p>
+			<form action="../team/buy.php" method="get" name="umobile" onsubmit="return validateumobile()">
+			<input type="hidden" name="id" value="1264">
+			<input size="12" type="text" maxlength="11" name="mobile_no" id="mobile_no" value="Enter Mobile No" onblur="if (this.value == '') {this.value = 'Enter Mobile No';}" onfocus="if (this.value == 'Enter Mobile No') {this.value = '';}">
+	        	<select name="amount" id="amount" style="margin-bottom: 8px;" onchange="checkavailable()">
+	        		<option value="">Select Amount</option>
+	            	<option value="10">RM10</option>
+	                <option value="30">RM30</option>
+	                <option value="50">RM50</option>
+	                <option value="100">RM100</option>
+	            </select>
+				
+				
+				<br class="clearBoth">
+
+				<div class="boxBar">
+					<input type="submit" class="umobile-button" name="umobile_submit" id="umobile_submit" value="Proceed" disabled="disabled">
+            	</div>
+            	<div id="loading" style="display: none"><img src="../jackcow_2012/images/ajax-loader.gif"></div>
+				<div id="available" style="display: none"><p class="textOne"><font color="green"><strong>Available</strong></font></p></div>
+				<div id="unavailable" style="display: none"><p class="textOne"><font color="red"><strong>*Sold Out. Will restock soon.*</strong></font></p></div>
+				<div id="nofree" style="display: none"><p class="textOne"><font color="red"><strong>*You are not entitle the JackCow free credit*</strong></font></p></div>
+	            </form>
+        </div>
+ </div>
+<!--<br /><a href="http://www.jackcow.com/deals/obriens_sandwich_bar_irish_preloaded_card_2"><img src="/jackcow_2012/images/briens_logo.jpg" /></a>-->
+				
+				<!--<div class="square"><img src="/jackcow_2012/images/euro-sode-3.jpg"></div>
+			    <div id="desc">
+			        <div class="desc"><p>Desc 1</p></div>
+			        <div class="desc"><p>Desc 2</p></div>
+			        <div class="desc"><p><iframe src='http://www.uefa.com/uefaeuro/season=2012/tournament-calendar/library/widget/_standalone.html' scrolling='no' frameborder='0' width="330px" height="500px"></iframe></p></div>
+			    </div>-->
 <div class="video-apps">
 
 <div class="video1content">
@@ -278,6 +431,8 @@ Or call us at  <a>+6018-2661818 </a><br>
 
 		 
 </div>
+
+
 <!-- End Right Column --><!-- End Right Column -->
 
 <!-- Begin Left Column -->
@@ -288,7 +443,7 @@ Or call us at  <a>+6018-2661818 </a><br>
 
 <h3>Privacy Policy</h3><br><br>
 
-This Privacy Policy discloses the privacy practices for the JackCow website, www.JackCow.com (referred to hereafter as the "Website").<br><br>
+This  Privacy Policy discloses the privacy practices for the JackCow website, www.JackCow.com (referred to hereafter as the "Website").<br><br>
 The Website is provided by Forum Digital Sdn Bhd, a Malaysian incorporated private limited liability company (referred to hereafter as "us" or "we").<br><br>
 We are committed to protecting your privacy online.<br><br>
 Please read the following to learn what information we collect from you (referred to hereafter as the "User") and how we use that information. If you have any questions about our privacy policy, please email us at support@jackcow.com.<br><br>
@@ -505,7 +660,7 @@ About Jackcow<br><br>
 <li>
 Customer Service<br><br>
 <a href="http://www.jackcow.com/jackcow_2012/faq.php">FAQs</a><br>
-<a href="#">Contact Jackcow</a><br>
+<a href="http://www.jackcow.com/about/contact.php">Contact Jackcow</a><br>
 <a href="http://www.jackcow.com/account/signup2.php">Sign Up</a><br>
 <a href="http://www.jackcow.com/account/signup2.php">Subscribe</a><br>
 &nbsp;
@@ -537,6 +692,68 @@ Customer Service<br><br>
 
 
 </div>
+<style type="text/css">
+#btm_annous {
+    position: fixed;
+	right:0px;
+	z-index:99;
+    bottom: -6px;
+}
+#bar {
+}
+#panel {
+	--border-style:solid;
+	--border-color:#FF7B00;
+}?
+</style>
+<script type="text/javascript">//<![CDATA[ 
+//[BCARD CONTROL]
+function showBcard(){
+	//var position = $('#subscribe_bcard').position();
+	//$("#subscribe_bcard").css({ top: position.top + 120 });
+	
+	if($('#tbl_subscribe').css('display') != "none"){
+		$('#tbl_subscribe').hide();
+		$('#subscribe_bcard').css('height', '18px');
+	}else{
+		$('#tbl_subscribe').show();
+		$('#subscribe_bcard').css('height', '150px');
+	}
+}
+
+function updateBcard(){
+	var cardNo = $('#fr_bcard_no_box').val();	
+	
+	if(cardNo.length < 16 || cardNo == "" || cardNo.match(/[a-zA-Z]/g)){
+		alert("Invalid Card No, Please Try Again");
+		return false;
+	}
+	
+	$.post("../bcard/ajax_bcard.php", {
+		action: "UpdateBcard",
+		cardNo: cardNo,
+		rand: Math.random()
+	}, function(data) {
+		if(data.SUCC != undefined){
+			alert("Thank you, now your Bcard is Updated!");
+			$('#subscribe_bcard').hide();
+		}
+	},'json');
+}
+//[BCARD CONTROL]
+
+function toggle(){
+$("#panel").slideToggle("slow");
+}
+
+</script>
+
+<div id="btm_annous">
+    <div id="bar" align="right"><a href="javascript:toggle();" id="toggle"><img src="../images/close.png" width="25px" style="border: none;"></a></div>
+        <div id="panel">
+			<img src="../images/Offline_Chat_Banner.png" width="250px" style="border: none;">            
+        </div>
+</div>
 
 <div id="footer-subscribe" align="center">
 <li>
@@ -559,9 +776,10 @@ Customer Service<br><br>
 </li>
 </div>
 
+		
 </div>
 <!-- End Footer --><!-- End Footer -->   
    
 
 
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
