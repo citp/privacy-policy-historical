@@ -1,0 +1,41 @@
+> *The following text is extracted and transformed from the planetsuperheroes.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605224537id_/http%3A//www.planetsuperheroes.com/pages/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy – PlanetSuperHeroes.com
+
+We ensure the privacy of all our members.
+
+**Users Information and Privacy**
+
+PlanetSuperheroes.com is committed to protecting all the information you share with us. We follow stringent procedures to help protect the confidentiality, security, and integrity of data stored on our systems. Our Website encrypts your credit card number and other personal information using Secure Socket Layer (SSL) technology to provide for the secure transmission of all data. Only those employees who need access to your information in order to perform their duties are allowed such access. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution.
+
+**Enjoy secure transactions at PlanetSuperheroes.com**
+
+We use encryption technology, digital certificates, secure commerce servers, and authentication to ensure that your personal information is secure online.
+
+**Your registration**
+
+PlanetSuperheroes.com keeps track of your information to offer you the best possible experience. When you register (log in), you supply your email address and a password. This allows us to provide you access to your account every time you visit our Website. Before completing your first transaction, we also ask you for your name, phone number, email, billing and shipping addresses. This information, along with your credit card number (in case of credit card transactions), is necessary to fulfil your transaction. This information may be disclosed to specific members of our staff and to select third parties (such as our credit card processor and shipping provider) involved in the completion of your transaction and delivery of your order. We may also need your email address or phone number to contact you if we have questions about your order. We or our associate companies may also use your email address to notify you about new services or special promotional programs, or send you offers or information if you have opted-in. Emails are sent only to PlanetSuperheroes.com members who have chosen to receive them (opted-in) or who have made a purchase on our website. At any time, you can notify us that you wish to stop receiving these emails. In addition, we keep a record of your past purchases, returns, and credits. We may also ask you for information regarding your personal preferences and demographics to help us better meet your needs.
+
+**Cookies**
+
+Like many other transactional websites, we use "cookies" to improve your experience and to save you time. Cookies are little tags that we place onto your computer. We assign a cookie to your computer when you first visit us in order to enable us to recognize you each time you return. Through cookies we can customize our Website to your individual preferences in order to create a more personalized, convenient shopping experience. Please note that the cookies we use for our Website or email campaigns do not store personally identifiable information about you or your finances.
+
+**Analysis and reporting**
+
+PlanetSuperheroes.com uses reporting software that allows us to analyze the amount and type of member traffic we get on our Website. We use this data to make improvements to your experience and to ensure that we have enough capacity to properly serve all of our members. The software provides aggregate reporting information to PlanetSuperheroes.com only. No personal or personally identifiable information is gathered or used for this process.
+
+**Server logs**
+
+In an effort to make our Website as effective and enjoyable as possible, the computers that operate it collect certain information each time you visit. We store these statistics in server logs. Once again, these statistics do not identify you personally, but provide us information regarding the type of user who is accessing our Website and certain browsing activities of that user. This data may include: the IP address of the user accessing our Website (i.e. the unique I.D. number of the user's computer), the type of browser (Internet Explorer, Firefox, etc.) and the operating system (Windows, Mac OS, etc.), the Website the user last visited before linking to our Website, how long the user accessed our Website in any given session, and the date and time of access. We may make extensive use of this data at an aggregated level in order to understand how our Website is being used. We may share some of the aggregate findings (not the specific data) with advertisers, sponsors, investors, strategic partners, and others in order to help grow our business.
+
+**Service providers**
+
+PlanetSuperheroes.com may use various outside agencies (third party service providers) to make our Website operate. For example, we may use third parties to host our Website, operate various features made available on our Website, send emails, analyze data, provide search results and links, and assist in fulfilling your orders. Some of these third parties may need access to your information in order to make the services provided through our Website work. Information will only be disclosed to these service providers on a need-to-know basis, and they will only be permitted to use such information for the purpose of providing the particular services provided by such entities in connection with our Website.
+
+**Exceptions**
+
+PlanetSuperheroes.com may be forced to disclose information in order to comply with a subpoena, court order, administrative or governmental order, or any other requirement of law, or when PlanetSuperheroes.com, in its sole discretion, deems it necessary in order to protect our rights or the rights of others, to prevent harm to persons or property, to fight fraud and credit risk, or to enforce or apply our Website terms of use. Personally identifiable information may be transferred as an asset in connection with a merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale, or other change in control.
+
+**Changes in policy**
+
+You acknowledge that this Privacy Policy is part of the Terms of Use and you unconditionally agree that using this Website signifies your assent to PlanetSuperheroes.com's Privacy Policy. If you do not agree with this Privacy Policy, please do not use our Website. Your visit and any dispute over privacy is subject to this policy and our Terms of Use, including limitations on damages. PlanetSuperheroes.com reserves the right to change the terms of use and this Privacy Policy, at any time. We will post any changes so that you are always aware of our policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
