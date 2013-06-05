@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the mateofmine.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205160301id_/http%3A//mateofmine.com/page/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mateofmine.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605144522id_/http%3A//mateofmine.com/page/private_policy) for the most accurate reproduction.*
 
 # Mate of Mine | Local Business Directory Powered by Facebook
 
-Welcome to Mate of Mine Facebook Business Directory Privacy Policy. Mate of Mine is a local business directory powered by your Facebook friends. Your privacy is very important to us. You must read and agree to the terms of this Privacy Policy before becoming a Mate of Mine account holder. As part of the normal operation of our services we collect, use and, in some cases, disclose information about you to third parties. This Privacy Policy governs the information we collect about you and your use of information we provide to you. By accepting this Privacy Policy and the User Agreement, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Mate of Mine User Agreement. 
+Welcome to Mate of Mine Facebook Business Directory Privacy Policy. 
+
+[Mate of Mine Local Business Directory Powered by Facebook.](http://www.mateofmine.com/) Your privacy is very important to us. You must read and agree to the terms of this Privacy Policy before becoming a Mate of Mine account holder. As part of the normal operation of our services we collect, use and, in some cases, disclose information about you to third parties. This Privacy Policy governs the information we collect about you and your use of information we provide to you. By accepting this Privacy Policy and the User Agreement, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Mate of Mine User Agreement. 
 
 Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about our practices so that you can make an informed decision. The privacy practices of this notice apply to the website located at http://www.mateofmine.com (collectively the "Site"). Mate of Mine is subject to the requirements of applicable law and, in the case of Australia, the requirements of the Privacy Act 1988 (Cth), (as amended by the private sector provisions which came into effect on 21 December 2001) (the "Privacy Act") 
 
@@ -86,4 +88,4 @@ Your Information is stored on Mate of Mine servers currently located in the Unit
 
 We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. All changes to this policy are effective after we provide you with at least thirty (30) days' notice of the changes by posting the changes on the announcements board and sending email to users who select such notification preference We provide you with thirty (30) days notice to allow you the opportunity to notify Mate of Mine if you do not agree to such changes as described in Section 8. 
 
-If you have any questions, please contact admin@mateofmine.com 
+If you have any questions, please contact admin@mateofmine.com
