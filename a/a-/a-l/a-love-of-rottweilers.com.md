@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the a-love-of-rottweilers.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102062856id_/http%3A//www.a-love-of-rottweilers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-love-of-rottweilers.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605042537id_/http%3A//www.a-love-of-rottweilers.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy for a-love-of-rottweilers.com Website
+# Privacy Policy for A Love Of Rottweilers.com website
 
 We recognize that your privacy is important. 
 
 This document outlines the types of personal information we receive and collect when you use a-love-of-rottweilers.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
-a-love-or-rottweilers.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
+A-love-of-rottweilers.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
 
 **Personal Information**
 
@@ -46,7 +46,7 @@ If a-love-of-rottweilers.com is sold, the information we have obtained from you 
 
 **How You Can Correct or Remove Information**
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on this link and/or use our Contact Me page.
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on this link and/or use our [Contact Me](http://www.a-love-of-rottweilers.com/contact-me.html) page.
 
 **Updates and Effective Date**
 
@@ -58,4 +58,16 @@ If you do not agree to a-love-of-rottweilers.coms' Privacy Policy as posted here
 
 Your use of this site indicates acceptance of this privacy policy.
 
-[Return to Home Page from Privacy Policy](http://www.a-love-of-rottweilers.com/)
+**[Home](http://www.a-love-of-rottweilers.com/index.html) <<< Back To Top**
+
+  
+**Share this page:  **  
+
+
+What's This?
+
+| | | |   
+---|---|---|---|---  
+| | |   
+  
+Enjoy this page? Feel free to share it! Here's how...
