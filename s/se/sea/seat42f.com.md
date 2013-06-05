@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seat42f.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116005545id_/http%3A//www.seat42f.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seat42f.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605210234id_/http%3A//www.seat42f.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SEAT42F.COM
 
@@ -26,8 +26,14 @@ Upon request we provide site visitors with access to contact information (e.g., 
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
+**Cookies & 3rd Party Advertisements**
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+
 If you feel that this site is not following its stated information policy, you may contact us at the above email address.
 
-This Privacy Policy was last modified on September 1, 2012 and is effective immediately.
+This Privacy Policy was last modified on April 1, 2013 and is effective immediately.
 
-Copyright © 2012 Seat42f – All Rights Reserved.
+Copyright © 2013 Seat42f – All Rights Reserved.
