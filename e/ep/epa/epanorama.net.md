@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epanorama.net privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125181954id_/http%3A//www.epanorama.net/index.php%3Findex%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epanorama.net privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605084943id_/http%3A//www.epanorama.net/index.php%3Findex%3Dprivacy) for the most accurate reproduction.*
 
 # ePanorama.net | Audio | Video | Circuits | Electronics Design
 
