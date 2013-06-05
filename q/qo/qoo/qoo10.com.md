@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the qoo10.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517024237id_/http%3A//www.qoo10.com/gmkt.inc/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qoo10.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605025031id_/http%3A//www.qoo10.com/gmkt.inc/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Qoo10 (New Gmarket) – Global Fashion & Trend leading Shopping Market
+# Qoo10-Global – Global Fashion & Trend leading Shopping Market
 
 Privacy Policy
 
-We, Giosis Gmarket International Pte. Ltd. and its affiliates (together "Giosis Gmarket" or the "Company"), take your personal information seriously and use or keep it confidential. In order to protect your private information, we have established this Privacy Policy (the "Policy") in accordance with best practices in the industry and applicable laws and regulations. This Policy describes how we handle your personal information for our services on the qoo10.com website and its related sites, services and tools (the "Website").
+We, Giosis Limited and its affiliates (together "Giosis Group" or the "Company"), take your personal information seriously and use or keep it confidential. In order to protect your private information, we have established this Privacy Policy (the "Policy") in accordance with best practices in the industry and applicable laws and regulations. This Policy describes how we handle your personal information for our services on the qoo10.com website and its related sites, services and tools (the "Website").
 
 By accepting the Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Policy. This Policy is effective on April 1, 2011 for current users, and immediately upon acceptance by new users.
 
@@ -125,4 +125,4 @@ We appoint the following person as Personal Information Manager:
 
 General
 
-We may amend this Policy at any time by posting the amended terms on this Website. All amended terms automatically take effect 14 days after they are initially posted. If your questions are not answered online, you may write to us at: Giosis Gmarket International Pte. Ltd. Attn: Personal Information Manager, Valley Point #14-04, 491 River Valley Road, Singapore 248371 or using the Contact Us form.
+We may amend this Policy at any time by posting the amended terms on this Website. All amended terms automatically take effect 14 days after they are initially posted. If your questions are not answered online, you may write to us at: Giosis Limited. Attn: Personal Information Manager, 8Th Floor Gloucester Tower The Landmark 15 Queen’s Road Central, Hong Kong or using the Contact Us form.
