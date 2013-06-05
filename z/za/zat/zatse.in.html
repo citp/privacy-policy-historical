@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zatse.in privacy policy that was archived on 2012-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919102705id_/http%3A//zatse.in/page/index/pageid/8) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zatse.in privacy policy that was archived on 2013-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605145048id_/https%3A//zatse.in/page/index/pageid/8) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,7 +8,8 @@
 <meta http-equiv="Content-Language" content="EN">
 <link rel="shortcut icon" href="/web_root/images/images-front/favicon.ico">
 <link rel="icon" type="image/gif" href="/web_root/images/images-front/animated_favicon1.gif">
-<link href="/web_root/css/frontend/template.css" rel="stylesheet" type="text/css">
+<!--<link href="/web_root/css/frontend/template.css" rel="stylesheet" type="text/css" />-->
+<link rel="stylesheet" type="text/css" href="/web_root/css/frontend/front_style.css?r1">
 <link href="/web_root/css/autocomplete.css" rel="stylesheet" type="text/css">
 <link href="/web_root/js/greybox/gb_styles.css" rel="stylesheet" type="text/css" media="screen">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/web_root/js/jquery.js"></script>
@@ -77,34 +78,74 @@
 <!--Top facebok and twitter logo end from here-->
 <!--Banner start from here-->
 
-<div class="clr"></div>
-<!--Banner end from here-->
-<!--Inner header start from here-->
-    <div id="inner_search_header">
-    <div class="header_container">
-    	<a href="/" onclick="_gaq.push(['_trackEvent', 'ZatSe Logo', 'ZatSe Logo', 'ZatSe Logo Detail']);" class="logo"></a>
-    <!--search panel start from here-->
-        <div id="search_panel_header" style="margin-left:27%;">
-        <div class="tp"></div>
-        <form name="frontendsearchForm" id="frontendsearchForm" action="/numbers/find" method="get" onsubmit="return showSearch(this);">
-        <label class="search">Search</label>
-        <div class="text_field"><input name="searchString" id="searchString" type="text" class="" onblur="showTextFn(this.value);" onfocus="hideTextFn(this.value)" value="type your search query here" autocomplete="off">
-			<input type="hidden" name="search_id" value="">
-		</div>
-       
-       <input name="search" type="submit" value="" onclick="showSearch();_gaq.push(['_trackEvent', 'ZatSe Go', 'ZatSe Go', 'ZatSe Go Detail']);" class="search_btn" title="Search">
-        
-        </form>
-        <a href="javascript:void(0);" onclick="showSearch();_gaq.push(['_trackEvent', 'ZatSe Search', 'ZatSe Search', 'ZatSe Search Detail']);" class="adv_search_header" title="ZatSe Search">ZatSe Search</a> <a href="/page/index/pageid/9" class="search_tips_header" onclick="_gaq.push(['_trackEvent', 'ZatSe Search Tips and Tracks', 'ZatSe Search Tips and Tracks', 'ZatSe Search Tips and Tracks Detail']);" title="Search Tips and Tricks">Search Tips and Tricks</a>
-        <div class="clr"></div>
-        <div class="bc"></div>
-        </div>
+<!--Header start-->
+<div id="header">
+<div id="header_inside"> 
+<div class="city_selections">
+    
+    <span class="city_txt">&nbsp;
+<a class="city_txt_active" title="Delhi/NCR">Delhi/NCR</a> | <a href="http://mumbai.zatse.in" title="Mumbai">Mumbai</a> | <a href="http://pune.zatse.in" title="Pune">Pune</a> | <a href="http://hyderabad.zatse.in" title="Hyderabad">Hyderabad</a> | <a href="http://ahmedabad.zatse.in" title="Ahmedabad">Ahmedabad</a> | <a href="http://kolkata.zatse.in" title="Kolkata">Kolkata</a> | <a href="http://jaipur.zatse.in" title="Jaipur">Jaipur</a> | <a href="http://ludhiana.zatse.in" title="Ludhiana">Ludhiana</a> | <a href="http://chandigarh.zatse.in" title="Chandigarh">Chandigarh</a> | <a href="http://bengaluru.zatse.in" title="Bengaluru">Bengaluru</a> | <a href="http://chennai.zatse.in" title="Chennai">Chennai</a></span>
 
-    <!--search panel end from here-->
-    </div>
-    <div class="strip">&nbsp;</div>
-    </div>
-<!--Inner header end from here-->
+
+</div>        
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td style="width:20%">
+    <!--Logo start-->
+  <div id="logo"><a class="logo-link" title="ZatSe! 011-6800-6800, I Find Numbers For You" href="/" onclick="_gaq.push(['_trackEvent', 'ZatSe Logo', 'ZatSe Logo', 'ZatSe Logo Detail']);"></a></div>
+  <!--Logo End--> 
+  </td>
+    <td style="width:52%">
+    <!--Search Box start-->
+  <div id="search-main">
+<form name="frontendsearchForm" id="frontendsearchForm" action="/search/searchresult" method="get" onsubmit="return showSearch(this);">
+<table width="100%" align="left" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td class="search-box-left">&nbsp;&nbsp;</td>
+    <td class="search-box-middle">
+      <div class="main-box-search">
+	<table width="100%" border="0" cellpadding="0" cellspacing="2">
+  	  <tbody><tr>
+    	    <td width="10%"><div id="search-txt">Search</div></td>
+    	    <td width="90%"><div class="search-txtfield"><input name="searchString" id="searchString" type="text" class="search-input" value="type your search query here" onfocus="if (this.value == 'type your search query here') this.value = '';" onblur="if(this.value=='') this.value='type your search query here';" autocomplete="off"></div>
+	    </td>
+  	  </tr>
+	</tbody></table>
+      </div>
+    </td>
+    <td class="search-box-right">
+      <input type="submit" name="srchbtn" class="submit-btn" align="top" value="" onclick="_gaq.push(['_trackEvent', 'ZatSe Go', 'ZatSe Go', 'ZatSe Go Search Result']);" title="Search">
+    </td>
+  </tr>  
+</tbody></table>
+</form>
+</div>
+    <!--Search Box end--> 
+   </td><td style="width:28%"><div class="right-side-header">
+ 
+      </div>
+
+</td>
+    </tr>
+  </tbody></table>
+<div id="menu">
+    <ul>
+      <li><a href="/" title="Welcome" class="active">Welcome</a></li>
+      <li><a href="http://movies.zatse.in/" title="Movies">Movies</a></li>
+      <li><a href="http://rechargeonlinenow.com/" title="Recharge">Recharge</a></li>
+      <li><a href="http://taxi.zatse.in/" title="Taxi-Cabs">Taxi-Cabs</a></li>
+      <li><a href="http://movers.zatse.in/" title="Packers and Movers">Packers and Movers</a></li>
+      <li><a href="http://appliances.zatse.in/" title="Appliances">Appliances</a></li>
+      <li><a href="http://computers.zatse.in/" title="Computers">Computers</a></li>
+      <li><a href="http://insurance.zatse.in/" title="Insurance">Insurance</a></li>
+      <li><a href="/provider/addprovider" title="Post your Ad">Post your Ad</a></li>
+      <li><a href="/lister/listerlogin" title="Lister Login">Lister Login</a></li>
+    </ul>
+  </div>
+
+</div></div>
+  <!--Header end-->
 
 <!--container start from here-->
 <div id="container">
@@ -253,18 +294,18 @@ function submitText()
 	
 	<div class="top">
 	   <div height="180px;">
-		<a class="dark5" href="/search/searchresult?searchString=Movie" onclick="cloudSearchFn('Movie');">Movie</a>  <a class="dark5" href="/search/searchresult?searchString=Emergency Services" onclick="cloudSearchFn('Emergency Services');">Emergency Services</a>  <a class="dark5" href="/search/searchresult?searchString=Apple" onclick="cloudSearchFn('Apple');">Apple</a>  <a class="dark4" href="/search/searchresult?searchString=Massage" onclick="cloudSearchFn('Massage');">Massage</a>  <a class="dark2" href="/search/searchresult?searchString=AC Service" onclick="cloudSearchFn('AC Service');">AC Service</a>  <a class="dark4" href="/search/searchresult?searchString=Restaurant" onclick="cloudSearchFn('Restaurant');">Restaurant</a>  <a class="dark5" href="/search/searchresult?searchString=Pizza in Delhi" onclick="cloudSearchFn('Pizza in Delhi');">Pizza in Delhi</a>  <a class="dark4" href="/search/searchresult?searchString=Car Rent" onclick="cloudSearchFn('Car Rent');">Car Rent</a>  <a class="dark5" href="/search/searchresult?searchString=Gym" onclick="cloudSearchFn('Gym');">Gym</a>  <a class="dark5" href="/search/searchresult?searchString=Academy" onclick="cloudSearchFn('Academy');">Academy</a>		</div>
+		<a class="dark5" href="/search/searchresult?searchString=Job" onclick="cloudSearchFn('Job');">Job</a>  <a class="dark5" href="/search/searchresult?searchString=Apple" onclick="cloudSearchFn('Apple');">Apple</a>  <a class="dark4" href="/search/searchresult?searchString=SPA" onclick="cloudSearchFn('SPA');">SPA</a>  <a class="dark5" href="/search/searchresult?searchString=Movie" onclick="cloudSearchFn('Movie');">Movie</a>  <a class="dark4" href="/search/searchresult?searchString=Bank" onclick="cloudSearchFn('Bank');">Bank</a>  <a class="dark5" href="/search/searchresult?searchString=Academy" onclick="cloudSearchFn('Academy');">Academy</a>  <a class="dark4" href="/search/searchresult?searchString=Restaurant" onclick="cloudSearchFn('Restaurant');">Restaurant</a>  <a class="dark5" href="/search/searchresult?searchString=Tuition" onclick="cloudSearchFn('Tuition');">Tuition</a>  <a class="dark5" href="/search/searchresult?searchString=Emergency Services" onclick="cloudSearchFn('Emergency Services');">Emergency Services</a>  <a class="dark4" href="/search/searchresult?searchString=Massage" onclick="cloudSearchFn('Massage');">Massage</a>		</div>
 		<div height="180px;">
-		<a class="dark5" href="/search/searchresult?searchString=Job" onclick="cloudSearchFn('Job');">Job</a>  <a class="dark5" href="/search/searchresult?searchString=Vodafone" onclick="cloudSearchFn('Vodafone');">Vodafone</a>  <a class="dark1" href="/search/searchresult?searchString=Property Dealer" onclick="cloudSearchFn('Property Dealer');">Property Dealer</a>  <a class="dark5" href="/search/searchresult?searchString=Tuition" onclick="cloudSearchFn('Tuition');">Tuition</a>  <a class="dark3" href="/search/searchresult?searchString=Mobile Repair" onclick="cloudSearchFn('Mobile Repair');">Mobile Repair</a>  <a class="dark5" href="/search/searchresult?searchString=School" onclick="cloudSearchFn('School');">School</a>  <a class="dark4" href="/search/searchresult?searchString=Bank" onclick="cloudSearchFn('Bank');">Bank</a>  <a class="dark4" href="/search/searchresult?searchString=SPA" onclick="cloudSearchFn('SPA');">SPA</a>  <a class="dark5" href="/search/searchresult?searchString=Taxi or Cab" onclick="cloudSearchFn('Taxi or Cab');">Taxi or Cab</a>		</div>
+		<a class="dark5" href="/search/searchresult?searchString=Pizza in Delhi" onclick="cloudSearchFn('Pizza in Delhi');">Pizza in Delhi</a>  <a class="dark5" href="/search/searchresult?searchString=Vodafone" onclick="cloudSearchFn('Vodafone');">Vodafone</a>  <a class="dark5" href="/search/searchresult?searchString=Gym" onclick="cloudSearchFn('Gym');">Gym</a>  <a class="dark5" href="/search/searchresult?searchString=Taxi or Cab" onclick="cloudSearchFn('Taxi or Cab');">Taxi or Cab</a>  <a class="dark4" href="/search/searchresult?searchString=Car Rent" onclick="cloudSearchFn('Car Rent');">Car Rent</a>  <a class="dark2" href="/search/searchresult?searchString=AC Service" onclick="cloudSearchFn('AC Service');">AC Service</a>  <a class="dark5" href="/search/searchresult?searchString=School" onclick="cloudSearchFn('School');">School</a>  <a class="dark3" href="/search/searchresult?searchString=Mobile Repair" onclick="cloudSearchFn('Mobile Repair');">Mobile Repair</a>  <a class="dark1" href="/search/searchresult?searchString=Property Dealer" onclick="cloudSearchFn('Property Dealer');">Property Dealer</a>		</div>
 	</div>
 	
 	<img src="/web_root/images//images-front/cloud-search-zatse-logo.png" alt="ZatSe 68006800 Aap Ki Information helpline" title="ZatSe">
 
 	<!-- <div class="top">
-		<a class="dark5" href="/search/searchresult?searchString=Movie" onclick="cloudSearchFn('Movie');">Movie</a>  <a class="dark5" href="/search/searchresult?searchString=Emergency Services" onclick="cloudSearchFn('Emergency Services');">Emergency Services</a>  <a class="dark5" href="/search/searchresult?searchString=Apple" onclick="cloudSearchFn('Apple');">Apple</a>  <a class="dark4" href="/search/searchresult?searchString=Massage" onclick="cloudSearchFn('Massage');">Massage</a>  <a class="dark2" href="/search/searchresult?searchString=AC Service" onclick="cloudSearchFn('AC Service');">AC Service</a>  <a class="dark4" href="/search/searchresult?searchString=Restaurant" onclick="cloudSearchFn('Restaurant');">Restaurant</a>  <a class="dark5" href="/search/searchresult?searchString=Pizza in Delhi" onclick="cloudSearchFn('Pizza in Delhi');">Pizza in Delhi</a>  <a class="dark4" href="/search/searchresult?searchString=Car Rent" onclick="cloudSearchFn('Car Rent');">Car Rent</a>  <a class="dark5" href="/search/searchresult?searchString=Gym" onclick="cloudSearchFn('Gym');">Gym</a>  <a class="dark5" href="/search/searchresult?searchString=Academy" onclick="cloudSearchFn('Academy');">Academy</a>	</div>
+		<a class="dark5" href="/search/searchresult?searchString=Job" onclick="cloudSearchFn('Job');">Job</a>  <a class="dark5" href="/search/searchresult?searchString=Apple" onclick="cloudSearchFn('Apple');">Apple</a>  <a class="dark4" href="/search/searchresult?searchString=SPA" onclick="cloudSearchFn('SPA');">SPA</a>  <a class="dark5" href="/search/searchresult?searchString=Movie" onclick="cloudSearchFn('Movie');">Movie</a>  <a class="dark4" href="/search/searchresult?searchString=Bank" onclick="cloudSearchFn('Bank');">Bank</a>  <a class="dark5" href="/search/searchresult?searchString=Academy" onclick="cloudSearchFn('Academy');">Academy</a>  <a class="dark4" href="/search/searchresult?searchString=Restaurant" onclick="cloudSearchFn('Restaurant');">Restaurant</a>  <a class="dark5" href="/search/searchresult?searchString=Tuition" onclick="cloudSearchFn('Tuition');">Tuition</a>  <a class="dark5" href="/search/searchresult?searchString=Emergency Services" onclick="cloudSearchFn('Emergency Services');">Emergency Services</a>  <a class="dark4" href="/search/searchresult?searchString=Massage" onclick="cloudSearchFn('Massage');">Massage</a>	</div>
 	<img src="/web_root/images//images-front/cloud-search-zatse-logo.png" alt="ZatSe 68006800 Aap Ki Information helpline" title="ZatSe" />
 	<div class="bottom">
-		<a class="dark5" href="/search/searchresult?searchString=Job" onclick="cloudSearchFn('Job');">Job</a>  <a class="dark5" href="/search/searchresult?searchString=Vodafone" onclick="cloudSearchFn('Vodafone');">Vodafone</a>  <a class="dark1" href="/search/searchresult?searchString=Property Dealer" onclick="cloudSearchFn('Property Dealer');">Property Dealer</a>  <a class="dark5" href="/search/searchresult?searchString=Tuition" onclick="cloudSearchFn('Tuition');">Tuition</a>  <a class="dark3" href="/search/searchresult?searchString=Mobile Repair" onclick="cloudSearchFn('Mobile Repair');">Mobile Repair</a>  <a class="dark5" href="/search/searchresult?searchString=School" onclick="cloudSearchFn('School');">School</a>  <a class="dark4" href="/search/searchresult?searchString=Bank" onclick="cloudSearchFn('Bank');">Bank</a>  <a class="dark4" href="/search/searchresult?searchString=SPA" onclick="cloudSearchFn('SPA');">SPA</a>  <a class="dark5" href="/search/searchresult?searchString=Taxi or Cab" onclick="cloudSearchFn('Taxi or Cab');">Taxi or Cab</a>	</div> -->
+		<a class="dark5" href="/search/searchresult?searchString=Pizza in Delhi" onclick="cloudSearchFn('Pizza in Delhi');">Pizza in Delhi</a>  <a class="dark5" href="/search/searchresult?searchString=Vodafone" onclick="cloudSearchFn('Vodafone');">Vodafone</a>  <a class="dark5" href="/search/searchresult?searchString=Gym" onclick="cloudSearchFn('Gym');">Gym</a>  <a class="dark5" href="/search/searchresult?searchString=Taxi or Cab" onclick="cloudSearchFn('Taxi or Cab');">Taxi or Cab</a>  <a class="dark4" href="/search/searchresult?searchString=Car Rent" onclick="cloudSearchFn('Car Rent');">Car Rent</a>  <a class="dark2" href="/search/searchresult?searchString=AC Service" onclick="cloudSearchFn('AC Service');">AC Service</a>  <a class="dark5" href="/search/searchresult?searchString=School" onclick="cloudSearchFn('School');">School</a>  <a class="dark3" href="/search/searchresult?searchString=Mobile Repair" onclick="cloudSearchFn('Mobile Repair');">Mobile Repair</a>  <a class="dark1" href="/search/searchresult?searchString=Property Dealer" onclick="cloudSearchFn('Property Dealer');">Property Dealer</a>	</div> -->
 <!--<div>
 <table><tr><td align="right">
 <a href="https://s3.amazonaws.com/com.alexa.toolbar/atbp/c_ySJn/download/index.htm"><img src="http://www.alexa.com/images/tbplatform/promotebuttons/purple/TB-banner1-1.jpg" alt="Get our toolbar!"></a>
@@ -278,46 +319,35 @@ function submitText()
 </div> 	
 <!--wrapper end from here-->
 <!--footer start from here-->
-  <!--footer menu start from here-->
-<div id="footer_s">
-<div id="footer_menu" style="padding-top:10px;">
-<ul>
-	<li><a href="/page/index/pageid/1" title="About Zat">About ZatSe <!-- <img src="/web_root/images//images-front/footer-zat.gif" alt="" /> --></a></li>
-	<li><a href="http://recharge.zatse.in/" title="Recharge" target="_blank">Recharge</a></li>
-	<li><a href="/zatdeals" title="Zat Deals">Zat Deals</a></li>
-    <li><a href="/provider/addprovider" title="Post Your Ad">Post Your Ad</a></li>
-	<li><a href="/provider/referbussiness" title="Refer a Business">Refer a Business</a></li>
-	<li><a href="/search/advancesearch" title="Advanced Search">Advanced Search</a></li>
-<!--    <li><a href="" onclick="" title="What's On">What's On</a></li>-->
-    <li><a href="/page/index/pageid/5" title="Retail Network">Retail Network</a></li>
-    <li><a href="/page/index/pageid/2" title="Careers">Careers</a></li>
-<li><a href="/provider/feedback" title="Feedback/Complaint">Feedback/Complaint</a></li>
-    <li><a href="/page/index/pageid/7" title="Terms of Use">Terms of Use</a></li>
-    <li><a href="/page/index/pageid/8" class="last" title="Privacy Policy">Privacy Policy</a></li>
-</ul>
+  <!--Footer section start-->
+<div id="footer">
+  <div id="footer-text">
+<a href="/page/index/pageid/1" title="About Zat">About ZatSe</a> | 
+<a href="http://taxi.zatse.in/" title="Taxi-Cabs">Taxi-Cabs</a> | 
+<a href="http://rechargeonlinenow.com" title="Recharge" target="_blank">Recharge</a> | 
+<a href="/lister/listerlogin" title="Lister Login">Lister Login</a> | 
+<a href="http://appliances.zatse.in/" title="I find fixers for you" target="_blank">Appliances</a> | 
+<a href="/provider/addprovider" title="Post Your Ad">Post Your Ad</a> | 
+<a href="/provider/referbussiness" title="Refer a Business">Refer a Business</a> | 
+<a href="/search/advancesearch" title="Advanced Search">Advanced Search</a> | 
+<a href="/career/openings" title="Careers">Careers</a> | 
+<a href="/provider/feedback" title="Feedback/Complaint">Feedback/Complaint</a> | 
+<a href="/page/index/pageid/7" title="Terms of Use">Terms of Use</a> | 
+<a href="/page/index/pageid/8" class="last" title="Privacy Policy">Privacy Policy</a> 
+<!--| <a href="#">Top Searches</a>-->
+<br>
+<!--Business Listings section start-->
+<div id="Business-pages"> Business Listings:
+ <a href="/search/businesslisting?char=A">A</a> .  <a href="/search/businesslisting?char=B">B</a> .  <a href="/search/businesslisting?char=C">C</a> .  <a href="/search/businesslisting?char=D">D</a> .  <a href="/search/businesslisting?char=E">E</a> .  <a href="/search/businesslisting?char=F">F</a> .  <a href="/search/businesslisting?char=G">G</a> .  <a href="/search/businesslisting?char=H">H</a> .  <a href="/search/businesslisting?char=I">I</a> .  <a href="/search/businesslisting?char=J">J</a> .  <a href="/search/businesslisting?char=K">K</a> .  <a href="/search/businesslisting?char=L">L</a> .  <a href="/search/businesslisting?char=M">M</a> .  <a href="/search/businesslisting?char=N">N</a> .  <a href="/search/businesslisting?char=O">O</a> .  <a href="/search/businesslisting?char=P">P</a> .  <a href="/search/businesslisting?char=Q">Q</a> .  <a href="/search/businesslisting?char=R">R</a> .  <a href="/search/businesslisting?char=S">S</a> .  <a href="/search/businesslisting?char=T">T</a> .  <a href="/search/businesslisting?char=U">U</a> .  <a href="/search/businesslisting?char=V">V</a> .  <a href="/search/businesslisting?char=W">W</a> .  <a href="/search/businesslisting?char=X">X</a> .  <a href="/search/businesslisting?char=Y">Y</a> .  <a href="/search/businesslisting?char=Z">Z</a> </div>
+<!--Business Listings section end-->
 
-</div>
-<div id="footer_menu" style="padding-left:250px;"> Business Listings:
- <a href="/search/businesslisting?char=A" rel="nofollow">A</a> .  <a href="/search/businesslisting?char=B" rel="nofollow">B</a> .  <a href="/search/businesslisting?char=C" rel="nofollow">C</a> .  <a href="/search/businesslisting?char=D" rel="nofollow">D</a> .  <a href="/search/businesslisting?char=E" rel="nofollow">E</a> .  <a href="/search/businesslisting?char=F" rel="nofollow">F</a> .  <a href="/search/businesslisting?char=G" rel="nofollow">G</a> .  <a href="/search/businesslisting?char=H" rel="nofollow">H</a> .  <a href="/search/businesslisting?char=I" rel="nofollow">I</a> .  <a href="/search/businesslisting?char=J" rel="nofollow">J</a> .  <a href="/search/businesslisting?char=K" rel="nofollow">K</a> .  <a href="/search/businesslisting?char=L" rel="nofollow">L</a> .  <a href="/search/businesslisting?char=M" rel="nofollow">M</a> .  <a href="/search/businesslisting?char=N" rel="nofollow">N</a> .  <a href="/search/businesslisting?char=O" rel="nofollow">O</a> .  <a href="/search/businesslisting?char=P" rel="nofollow">P</a> .  <a href="/search/businesslisting?char=Q" rel="nofollow">Q</a> .  <a href="/search/businesslisting?char=R" rel="nofollow">R</a> .  <a href="/search/businesslisting?char=S" rel="nofollow">S</a> .  <a href="/search/businesslisting?char=T" rel="nofollow">T</a> .  <a href="/search/businesslisting?char=U" rel="nofollow">U</a> .  <a href="/search/businesslisting?char=V" rel="nofollow">V</a> .  <a href="/search/businesslisting?char=W" rel="nofollow">W</a> .  <a href="/search/businesslisting?char=X" rel="nofollow">X</a> .  <a href="/search/businesslisting?char=Y" rel="nofollow">Y</a> .  <a href="/search/businesslisting?char=Z">Z</a> </div>
-<!-- Top Search section start here -->
-<!--    <div id="footer_menu" style="padding-left:260px;margin-top:3px;"> Top Searches:
-    </div> !-->
-<!-- Top Search section end here -->
 
-<font style="padding-left:34%;font-size:11px;color:#231F20;font-weight:bold">
-Copyright 2012 Majestic IT Services Ltd All rights reserved.</font>
-<!--<div class="footer-icon" style="padding-top:30px;">
-	<a href="zatse.in"><img src="/web_root/images/footer_image/image2.jpg" alt="ZatSe 68006800 Aap Ki Information helpline" /></a>
+<!--Copyright 2012 Majestic IT Services Ltd All rights reserved. -->
+Copyright 2012 Majestic IT Services Ltd All rights reserved.  </div>
 </div>
-!-->
-</div>
+<!--Footer section end-->
 
-<!--footer menu end from here-->
-</div>
-<!--container end from here-->
-<script language="JavaScript">
-</script>
-<script type="text/javascript">
+<script type="text/javascript" language="javascript">
  var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-16896975-2']);
 _gaq.push(['_trackPageview']);
@@ -334,4 +364,4 @@ _gaq.push(['_trackPageview']);
 <!--footer end from here-->
 
 
-</body></html>
+</div></body></html>
