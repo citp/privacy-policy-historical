@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whangout.com privacy policy that was archived on 2012-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120706012607id_/http%3A//whangout.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whangout.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605045004id_/http%3A//whangout.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy- Webmaster Forum: Webhosting, SEO, Internet Marketing
+# Privacy Policy- WHangOut Webmaster Forum
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
