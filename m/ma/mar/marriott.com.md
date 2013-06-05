@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriott.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225145119id_/http%3A//www.marriott.com/marriott/privacy-us.mi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriott.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605120022id_/http%3A//www.marriott.com/marriott/privacy-us.mi) for the most accurate reproduction.*
 
 # Marriott Online Privacy Policy | Hotel Privacy Policy Information
 
