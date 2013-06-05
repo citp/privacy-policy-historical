@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizcovering.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030210541id_/http%3A//bizcovering.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizcovering.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605151639id_/http%3A//bizcovering.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bizcovering
 
