@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insightly.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205052808id_/http%3A//insightly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightly.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605053651id_/http%3A//insightly.com/Privacy) for the most accurate reproduction.*
 
 # Insightly Privacy Policy - CRM and Project Management software for small business
 
@@ -74,7 +74,7 @@ You can log in to our site using sign-in services from Google. These services wi
 
 ## Changes to Privacy Policy
 
-Insightly may update this policy from time to time. You can review the most current version of this privacy policy at any time at [http://www.insightly.com/privacy](https://web.archive.org/privacy). Your continued use of the Site or Service constitutes your agreement to be bound by such changes to the privacy policy. Your only remedy, if you do not accept the terms of this privacy policy, is to discontinue use of the Site and Service. If we make any material changes we will notify you or our client by email sent to the e-mail address on your account or by means of a notice on the Site prior to the change becoming effective.
+Insightly may update this policy from time to time. You can review the most current version of this privacy policy at any time at [http://www.insightly.com/privacy](https://web.archive.org/Privacy). Your continued use of the Site or Service constitutes your agreement to be bound by such changes to the privacy policy. Your only remedy, if you do not accept the terms of this privacy policy, is to discontinue use of the Site and Service. If we make any material changes we will notify you or our client by email sent to the e-mail address on your account or by means of a notice on the Site prior to the change becoming effective.
 
 ## Business Transactions.
 
@@ -82,7 +82,7 @@ Insightly may assign or transfer this privacy policy, and your user account and 
 
 ## Terms of Service.
 
-When you access and use the Service, you are subject and bound to the [Insightly Terms of Service.](https://web.archive.org/terms)
+When you access and use the Service, you are subject and bound to the [Insightly Terms of Service.](https://web.archive.org/Terms)
 
 ## Contact Us
 
