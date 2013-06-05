@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205130837id_/http%3A//ktar.com/63/1535710/PRIVACY-STATEMENT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605221330id_/http%3A//ktar.com/63/1535710/PRIVACY-STATEMENT) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT - Misc News - KTAR.com
 
