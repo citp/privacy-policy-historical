@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soapboxmedia.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101131938id_/http%3A//www.soapboxmedia.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soapboxmedia.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605104739id_/http%3A//soapboxmedia.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,5 +94,5 @@ Issue Media Group
 
 Detroit MI 48201
 
-© Issue Media Group, LLC 2007.   
-All rights reserved. 
+© Issue Media Group, LLC 2007.  
+All rights reserved.
