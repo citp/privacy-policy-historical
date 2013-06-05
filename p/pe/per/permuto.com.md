@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the permuto.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105092401id_/http%3A//www.buysight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the permuto.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605162213id_/http%3A//www.buysight.com/privacy-policy) for the most accurate reproduction.*
 
 # Buysight: Privacy Policy
 
