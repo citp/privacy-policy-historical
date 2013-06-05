@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the enjoythepics.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204144209id_/http%3A//www.enjoythepics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enjoythepics.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605230038id_/http%3A//www.enjoythepics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Enjoy The Pics
-
-[Home](http://www.enjoythepics.com/ "Go to Home.") > Privacy Policy
+# Privacy Policy - Enjoy The Pics
 
 At [EnjoyThePics.com](http://www.enjoythepics.com/ "EnjoyThePics"), we are committed to protecting your privacy. Please read our privacy policy carefully and **[contact us](http://www.enjoythepics.com/contact-us/ "Contact Us")** if you have any questions or concerns. This privacy policy applies solely to information collected by EnjoyThePics.com. Use of our Website assumes you have read, understand, and agree with our privacy policy.
 
