@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogspot.com.eg privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509160744id_/http%3A//www.markmonitor.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogspot.com.eg privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605143150id_/http%3A//www.markmonitor.com/legal/privacy.php) for the most accurate reproduction.*
 
 # MarkMonitor | Legal - Privacy Policy
 
@@ -6,7 +6,7 @@ MarkMonitor values your personal privacy rights. Our privacy policy is therefore
 
 #### No Sharing of Information.
 
-All information gathered is used by MarkMonitor and MarkMonitor staff only. MarkMonitor does not sell or rent user information to anyone. MarkMonitor does not share or crossreference personal information gathered through site usage with any other databases or third parties other than in two (2) exceptional cases: (1). When the site is legally compelled to do so; (2). Where disclosure is made at the request or with the written consent of the user. Therefore, unless required to do so as set forth above, we shall not respond to any inquiry from any third party unless we hold your written consent. If an inquiry is received without our having had your written consent to reply, we shall write to you requesting such consent. Our site makes no representations with respect to the creation of profiles or the use of cookies by external Web sites that have links from our site or that read and use information visible on our site.
+All information gathered is used by MarkMonitor and MarkMonitor staff only. MarkMonitor does not sell or rent user information to anyone. MarkMonitor does not share or crossreference personal information gathered through site usage with any other databases or third parties other than in two (2) exceptional cases: (1). When the site is legally compelled to do so; (2). Where disclosure is made at the request or with the written consent of the user. Therefore, unless required to do so as set forth above, we shall not respond to any inquiry from any third party unless we hold your written consent. If an inquiry is received without our having had your written consent to reply, we shall write to you requesting such consent. MarkMonitor will take reasonable steps to notify a customer user if their data is subject to a subpoena or government request, if legally permitted to do so. Our site makes no representations with respect to the creation of profiles or the use of cookies by external Web sites that have links from our site or that read and use information visible on our site.
 
 #### Gathering of Information.
 
@@ -27,3 +27,12 @@ Our site gives you the option of changing your personal information. You may mod
 #### Comments regarding Service.
 
 We make every effort to maximize your privacy rights while you use this service. If you have any questions, concerns or comments, regarding our privacy policy or any other aspect of our service, please e-mail us at Email: [support@markmonitor.com.](mailto:support@markmonitor.com.)
+
+#### MarkMonitor   
+Shopping Report
+
+New report challenges assumptions about consumers and counterfeits. [More](https://web.archive.org/cta/2012-shoppingreport/?Lead_Source_Mktg=WEBPRO)
+
+#### Featured Case Study
+
+How Links of London improved e-commerce and marketing performance by fighting counterfeiters. [More](https://web.archive.org/cta/cs-linksoflondon/?Lead_Source_Mktg=WEBPRO)
