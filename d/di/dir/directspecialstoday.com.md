@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the directspecialstoday.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531044310id_/http%3A//www.directspecialstoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directspecialstoday.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605162108id_/http%3A//directspecialstoday.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Direct Specials Today
 
-Last Revised: October 1, 2009 
+[](https://web.archive.org/web/20130605162108id_/http%3A//directspecialstoday.com/index.html)
 
-This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by Direct Specials Today ("Direct Specials Today" "we" or "us") with respect to your use of our Web site located at [www.directspecialstoday.com](http://www.directspecialstoday.com/ "www.directspecialstoday.com") (the "Site") so you can make an informed decision about using our Site. By using our Site, you consent to the privacy practices described in this Policy, as may be modified by us from time to time.We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the privacy policy the date it was last updated. Your use of the Site following the posting of such changes or revised statement shall constitute your consent to any changes in our privacy practices. We encourage you to review this Policy whenever you visit our Site to make sure that you understand how any personal information you provide will be used.
+CSS transforms are not supported in your browser
+
+CSS transitions are not supported in your browser Sorry, only modern browsers.
+
+Last Revised: October 1, 2009
+
+This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by Direct Specials Today ("Direct Specials Today" "we" or "us") with respect to your use of our Web site located at www.directspecialstoday.com (the "Site") so you can make an informed decision about using our Site. By using our Site, you consent to the privacy practices described in this Policy, as may be modified by us from time to time.We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the privacy policy the date it was last updated. Your use of the Site following the posting of such changes or revised statement shall constitute your consent to any changes in our privacy practices. We encourage you to review this Policy whenever you visit our Site to make sure that you understand how any personal information you provide will be used.
 
 ## Collection And Use Of Personal Information
 
 **Active Collection:** Personal information may be collected in a number of ways when you visit our Site. We may collect certain information you voluntarily provide to us which may contain personal information. For example, we may collect your name, email address, and other contact information when you register and set up an account or contact us by e-mail or other means through the Site. Personal and demographic information may also be collected if you provide such information in connection with submitting a review, posting comments or other content, creating a profile or group, applying for a job, sending an email or message to another user or participating in any interactive forums or features on the Site. In addition, from time to time we may collect demographic, contact or other personal information you provide in connection with your participation in surveys, sweepstakes, contests, games, promotional offers, and other activities that may appear form time to time on the Site.
 
-**Passive Collection:** When you use the Site, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring web site, and your activity on the Site. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.
+**Passive Collection:** When you use the Site, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring web site, and your activity on the Site. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only. 
 
 We may automatically collect certain information through the use of "cookies" or web beacons. Cookies are small data files that are stored on a user's hard drive at the request of a Web site to enable the site to recognize users who have previously visited them and retain certain information such as customer preferences and history. If we link cookies to any personally identifying information, we will treat this information as personal information. Web beacons (also know as clear gifs) are small, invisible graphic images that may be used on the Site or in emails relating to the Site to collect certain information and monitor user activity on the Site. We may also use third parties to serve ads or content on the Site, and such third parties may place cookies, web beacons or other devices on your computer to collect nonpersonal information.
 
@@ -20,7 +26,7 @@ If you wish to block, erase, or be warned of cookies, please refer to your brows
 
 ## How Do We Use The Personal Information We Collect?
 
-In general, we use personal information we collect to: process your requests or transactions; provide you with information, products or services you request; inform you about other information, events, promotions, products or services we think will be of interest to you; facilitate your use of, and our administration and operation of, the Site; and for the purpose for which the information was provided. For example, we may use the information we collect to:
+In general, we use personal information we collect to: process your requests or transactions; provide you with information, products or services you request; inform you about other information, events, promotions, products or services we think will be of interest to you; facilitate your use of, and our administration and operation of, the Site; and for the purpose for which the information was provided. For example, we may use the information we collect to: 
 
   * send you a welcoming email and to contact you about your use of the Site, to provide other services, products or information you request and to complete any transactions in connection therewith;
   * respond to your emails, submissions, comments, requests or complaints;
@@ -60,11 +66,8 @@ Our web site may contain links to other web sites. Any personal information you 
 
 ## How Can You Correct and Update Your Personal Information or Obtain Additional Information
 
-If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at [feedback@directspecialstoday.com](https://web.archive.org/web/20120531044310id_/http%3A//www.directspecialstoday.com/feedback@directspecialstoday.com) and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate. You may also contact us by mail at the following address:
+If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at [feedback@directspecialstoday.com](https://web.archive.org/web/20130605162108id_/http%3A//directspecialstoday.com/feedback@directspecialstoday.com) and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate. You may also contact us by mail at the following address:
 
-Direct Specials Today  
-Attn: Privacy Policy  
-3435 Ocean Park Blvd. #107 PMB 319  
-Santa Monica, CA 90405
+Direct Specials Today Attn: Privacy Policy 3435 Ocean Park Blvd. #107 PMB 319 Santa Monica, CA 90405 
 
 However, please note that in some cases, we may believe it is necessary or appropriate to retain certain personal information we have collected, and the deletion of such personal information will be in our sole discretion unless otherwise required by law. 
