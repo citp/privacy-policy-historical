@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianexponent.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205035350id_/http%3A//indianexponent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianexponent.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606013151id_/http%3A//indianexponent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Indian Exponent
 
@@ -28,4 +28,4 @@ Our site may contain links to other websites of interest. However, once you use 
 
 #### **Privacy Contact Information**
 
-Should you have any questions, concerns, or comments about our privacy policy, please contact us using our [Contact Form](http://indianexponent.com/contact) or email us directly at admin@indianexponent.com
+Should you have any questions, concerns, or comments about our privacy policy, please email us directly at _editor (at) indianexponent (dot) com_.
