@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadwaydirect.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103011405id_/http%3A//broadwaydirect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadwaydirect.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605093006id_/http%3A//broadwaydirect.com/privacy-policy) for the most accurate reproduction.*
 
 # Broadway Direct | Privacy Policy
 
