@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingsim.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025233845id_/http%3A//tradingsim.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingsim.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605034340id_/http%3A//tradingsim.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -89,7 +89,6 @@ Pursuant to the provisions of the 1998 Federal Children’s Online Privacy Prote
 We may store your user or login ID to recognize you every time you return to the Site. We may also use third-party advertising technology to serve ads when you visit the Site and sites upon which we advertise. This technology uses information about your visits to the Site and the sites upon which we advertise, (not including your name, address, or other personal information), to serve our ads to you. In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we may use web beacons, provided by our ad serving partner, to help manage our online advertising. These web beacons enable our ad server to recognize a browser’s cookie when a browser visits this Site and to learn which banner ads bring users to our Site.
 
   9.   **How do you change PII provided or OPT-OUT?   ** TSM gives registered Users an option for modifying or removing their information from our database.   To update, modify or delete the information that we have on file for you, you may edit your online account profile or contact us at [admin@tradingsim.com](mailto:contact@eahoy.com).  We will comply with your requests as reasonably as we can. Please note that we require some PII for billing purposes. If you wish to delete your name, e-mail address or billing information, you may be required to terminate your Account.  However, please note, that while you may remove your PII from the site at any time, you acknowledge that we may retain archived or cached copies of your PII.
-
 
 
   10. By visiting the Site and/or using the Services, including, but not limited to making purchases, you consent to the collection and use of information by us as set forth in this Privacy Policy.  If we decide to change our Privacy Policy, we will post those changes within this page so Users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
