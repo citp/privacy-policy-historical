@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the totallymoney.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105134406id_/http%3A//www.totallymoney.com/info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallymoney.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606013200id_/http%3A//www.totallymoney.com/info/privacy-policy) for the most accurate reproduction.*
 
-# TotallyMoney – Privacy Policy
+# TotallyMoney.com – Privacy Policy
 
-### 1\. About TotallyMoney
+### 1\. About TotallyMoney.com
 
-The website [www.TotallyMoney.com](http://www.totallymoney.com/) ( **Site** ) is operated by Media Ingenuity Ltd and Lead Market Ltd, both trading as TotallyMoney ( **we** ). Media Ingenuity Ltd and Lead Market Ltd are, together with MI Money Ltd, the Media Ingenuity Group ( **MI Group** ). Aside from owning and operating the Media Ingenuity brand, the Media Ingenuity Group also owns and operates the brands Fluid ([www.fluid.co.uk](http://www.fluid.co.uk/)), Granite ([www.granitecard.co.uk](http://www.granitecard.co.uk/)) and Luma ([www.luma.co.uk](http://www.luma.co.uk/))( **MI Group Brands** ).
+The website [www.TotallyMoney.com](http://www.totallymoney.com/) ( **Site** ) is operated by Media Ingenuity Ltd trading as TotallyMoney.com ( **we** ). Media Ingenuity Ltd, together with MI Money Ltd are part of the Media Ingenuity Group ( **MI Group** ). Aside from owning and operating the Media Ingenuity brand, the Media Ingenuity Group also owns and operates the brands Fluid ([fluid.co.uk](http://fluid.co.uk/)), Granite ([www.granitecard.co.uk](http://www.granitecard.co.uk/)) and Luma ([www.luma.co.uk](http://www.luma.co.uk/))( **MI Group Brands** ).
 
-For the purpose of the Data Protection Act 1998 (Act), the data controllers are Media Ingenuity Ltd (ICO Registration Number Z1096594) and Lead Market Ltd (ICO Registration Number Z9337631) both of Holden House, 3rd Floor, 57 Rathbone Place, London, W1T 1JU.
+For the purpose of the Data Protection Act 1998 (Act), the data controller is Media Ingenuity Ltd (ICO Registration Number Z1096594) of Holden House, 3rd Floor, 57 Rathbone Place, London, W1T 1JU.
 
 The Act imposes regulations on how we collect, store and process your personal information. As required by the Act, we are registered as a data controller – details of which can be found online at [www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/). This privacy policy explains:
 
@@ -81,7 +81,7 @@ We may collect and process the following information about you:
 ---|---  
 **(b)** | If you apply for a credit-based product through our Site, our Product Provider or Service Provider may use your personal information to perform a search with a credit reference agency. You will be asked to consent to this before your application is submitted.  
 **(c)** | Where you have applied for a payday loan, our Product Providers may also forward your details to a credit reference agency who will then carry out a credit check on you before providing the loan. You will be asked to consent to this before your application is submitted.  
-**(d)** | For the purpose of compliance monitoring by The Financial Services Authority, Office of Fair Trading, Information Commissioner and/or other regulatory/governing bodies it is our legal obligation to disclose or share your personal data. This is also the case when we want to enforce or apply our terms of use and other agreements; to protect the rights, property or safety of Media Ingenuity Group staff, customers – or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.  
+**(d)** | For the purpose of compliance monitoring by The Financial Conduct Authority, Office of Fair Trading, Information Commissioner and/or other regulatory/governing bodies it is our legal obligation to disclose or share your personal data. This is also the case when we want to enforce or apply our terms of use and other agreements; to protect the rights, property or safety of Media Ingenuity Group staff, customers – or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.  
 **(e)** | In the event that your choice of third party provider does not approve your application, or offers a less attractive product or service than you had originally applied for, we will pass on your details to other third parties who might be able to offer a similar or alternative product that meets your criteria.  
 **(f)** | As defined in section 1159 of the UK Companies Act 2006, we may also disclose your personal information to any member of the Media Ingenuity Group – which means our subsidiaries, as well as our ultimate holding company and its subsidiaries.  
 **(g)** | We may disclose your personal information to third parties if:  | **(i)  
