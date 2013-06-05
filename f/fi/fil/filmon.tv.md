@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmon.tv privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225030847id_/http%3A//www.filmon.com/page/privacy-policy-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmon.tv privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606015505id_/http%3A//www.filmon.com/page/privacy-policy-en) for the most accurate reproduction.*
 
-# Privacy Policy Watch Streaming Movies and live TV in HD. Watch Football and Compare us to Hulu, Zattoo and TVCatchup.
+# Privacy Policy WEB TV | Free web tv | Free Live Television | Live Tv Channels | VIDEO ON DEMAND | Free streaming tv | Free streaming tv channels
 
 ### Our privacy practices
 
