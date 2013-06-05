@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtran.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115173605id_/http%3A//www.airtran.com/policies/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtran.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605223652id_/http%3A//www.airtran.com/policies/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - AirTran Airways
 
@@ -134,6 +134,6 @@ AirTran Airways reserves the right to modify its Privacy Policy at any time. If 
 
 If you have any questions about AirTran Airway’s privacy policy or your interactions with this website, you may [contact us online](http://www.airtranairways.com/contact/contact_us.aspx) or call us at 1-866-AIR-CHAT (1-866-247-2428).
 
-Last updated June 23, 2009.
+[Additional Privacy Notice for Mexico](https://web.archive.org/policies/privacy_policy_mexico.aspx?nav_id=126)
 
 Back to Top
