@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livescore.net privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022220840id_/http%3A//www.livescore.net/soccer/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livescore.net privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605213233id_/http%3A//livescore.net/soccer/policy) for the most accurate reproduction.*
 
 # LiveScore.com : Privacy Policy
 
@@ -7,7 +7,7 @@ LiveScore Ltd, and its affiliates are deeply committed to protecting the privacy
 
 **Consumer Information**
 
-During the process of delivering an information to you via our website, LiveScore Ltd does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, LiveScore Ltd may or may not obtain some types of non-personally identifiable information such as the Internet Service Provider youuse to connect to the Internet, your browser type, the type of computer operating system you use (Macintosh or Windows, for example), or what screen resolution do you use. The information collected by LiveScore Ltd is used for the purpose of improving your browsing experience on our website. 
+During the process of delivering an information to you via our website, LiveScore Ltd does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, LiveScore Ltd may or may not obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, the type of computer operating system you use (Macintosh or Windows, for example), or what screen resolution you use. The information collected by LiveScore Ltd is used for the purpose of improving your browsing experience on our website. 
 
 In some cases, you may voluntarily provide personal information in response to a survey, registering for an online competiton, signing up for a newsletter or personalizing your LiveScore Ltd pages. If this does occur, LiveScore Ltd will under no circumstances use such personal information for any purposes other than the ones you have provided them for.
 
