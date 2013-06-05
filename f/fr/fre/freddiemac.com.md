@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201060340id_/http%3A//www.freddiemac.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605081819id_/http%3A//www.freddiemac.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Terms and Conditions: Privacy Policy - Freddie Mac
 
@@ -6,7 +6,7 @@ Freddie Mac is a government-sponsored enterprise chartered by Congress to provid
 
 This privacy policy describes the types of personally identifiable information about borrowers and other individuals that we receive (Covered Information) and what we do with the information. The policy also describes how we safeguard Covered Information. The policy does not apply to information we receive about or from businesses, other than Website Visitor Information (as defined below). The policy also does not apply to information that may be collected by third parties through websites that link to or from this website.
 
-We reserve the right to change this policy in the future. Any changes to this policy will be posted on this section of the website. When this policy is updated, the date of the update will appear at the bottom of this page. In addition, a copy of this policy is available upon request by writing to Freddie Mac, Chief Privacy Officer, 8200 Jones Branch Drive, Mailstop 434, McLean, Virginia 22102-3110 or by sending an email to [privacy_inquiries@freddiemac.com](mailto:privacy_inquiries@freddiemac.com).
+We reserve the right to change this policy in the future. Any changes to this policy will be posted on this section of the website. When this policy is updated, the date of the update will appear at the bottom of this page. In addition, a copy of this policy is available upon request by writing to Freddie Mac, Chief Privacy Officer, 8200 Jones Branch Drive, Mailstop 434, McLean, Virginia 22102-3110 or by sending an email to [privacy_mailbox@freddiemac.com](mailto:privacy_mailbox@freddiemac.com).
 
 ## Personally Identifiable Information We Receive and Maintain in the Ordinary Course of Our Business
 
@@ -64,7 +64,7 @@ We do not store, use or distribute the Social Security number collected via the 
 
 ## How to Reach Us
 
-If you have a question about the way your information is used or about our information practices, please contact us by sending an email to [privacy_inquiries@freddiemac.com](mailto:privacy_inquiries@freddiemac.com).
+If you have a question about the way your information is used or about our information practices, please contact us by sending an email to [privacy_mailbox@freddiemac.com](mailto:privacy_mailbox@freddiemac.com).
 
 Last updated: February 9, 2012
 
