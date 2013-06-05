@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plumdistrict.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025085341id_/http%3A//www.plumdistrict.com/p/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumdistrict.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606005132id_/http%3A//www.plumdistrict.com/p/privacy_policy) for the most accurate reproduction.*
 
-# Plum District | Offers for Savvy Moms and Families. Discounts Daily.
+# Deals and Coupons for Moms | Fun Family & Kid Activities, Restaurants, Health & Beauty, Clothing and more | PlumDistrict.com
 
 Effective April 14, 2011
 
