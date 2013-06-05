@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torridart.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205185539id_/http%3A//www.torridart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torridart.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605083923id_/http%3A//www.torridart.com/privacy-policy) for the most accurate reproduction.*
 
 # Torrid Art Privacy Policy
 
@@ -10,7 +10,7 @@ TorridArt.com does not engage in spam, or activities that could result in spam. 
 
 ### Newsletter
 
-The Torrid Art Newsletter communicates updates and site news via email to anyone who voluntary submits their email address through a form on the site. Subscriptions to the Newsletter are through a double opt-in system to guard against an individual entering an email address that is not their own. Email addresses collected through the Newsletter signup forms on the site will never be disclosed to any party or business entity.
+The Torrid Art Newsletter communicates updates and site news via email to anyone who voluntarily submits their email address through a form on the site. Subscriptions to the Newsletter are through a double opt-in system to guard against an individual entering an email address that is not their own. Email addresses collected through the Newsletter signup forms on the site will never be disclosed to any party or business entity.
 
 ### Unsolicited contact
 
