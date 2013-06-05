@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paleodietlifestyle.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023211043id_/http%3A//paleodietlifestyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paleodietlifestyle.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605091609id_/http%3A//paleodietlifestyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Paleo Diet Lifestyle | Privacy Policy
 
