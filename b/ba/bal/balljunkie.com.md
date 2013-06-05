@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the balljunkie.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204032439id_/http%3A//balljunkie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balljunkie.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605082646id_/http%3A//balljunkie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ball Junkie
+# Privacy Policy - Ball Junkie | Ball Junkie
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -23,5 +23,3 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of **Ball Junkie** then you may contact us at **info@balljunkie.com**
 
 Last updated Tue, 04 May 2010 14:34
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fballjunkie.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
