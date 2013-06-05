@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justsearchdigital.co.uk privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115012540id_/http%3A//www.justsearchseo.co.uk/%3Fpage_id%3D7410) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justsearchdigital.co.uk privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605151133id_/http%3A//www.justsearchdigital.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Just Search Privacy Policy
+# Privacy Policy
 
 This privacy policy sets out how Just Search uses and protects any information that you give Just Search when you use this website.
 
