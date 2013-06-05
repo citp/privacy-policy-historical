@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwildlife.org privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215131656id_/http%3A//worldwildlife.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwildlife.org privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605140605id_/http%3A//worldwildlife.org/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pages | WWF
 
