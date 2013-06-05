@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorcircle.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517224118id_/http%3A//www.tutorcircle.com/privacy-policy-pg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorcircle.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605142638id_/http%3A//www.tutorcircle.com/privacy-policy-pg.html) for the most accurate reproduction.*
 
 # Privacy Policy | TutorCircle
 
