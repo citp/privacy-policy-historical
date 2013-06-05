@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the qsaltlake.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227010557id_/http%3A//gaysaltlake.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qsaltlake.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605171928id_/http%3A//gaysaltlake.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Gay Salt Lake - Utah Gay and Lesbian News, bars, views, arts
 
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
-**Note:** the privacy practices set forth in this privacy policy are for this web [site](http://www.qsaltlake.com/) only. If you link to other web sites, please review the privacy policies posted at those sites.
+**Note:** the privacy practices set forth in this privacy policy are for this web [site](http://gaysaltlake.com/wp-content/uploads/2010/08/www.qsaltlake.com) only. If you link to other web sites, please review the privacy policies posted at those sites.
 
 **Collection of Information  
 **We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
