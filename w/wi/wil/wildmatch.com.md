@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildmatch.com privacy policy that was archived on 2012-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120129195801id_/http%3A//wildmatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildmatch.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605175957id_/http%3A//wildmatch.com/privacy-policy) for the most accurate reproduction.*
 
 # WildMatch - Meet ID verified sex seekers online for chat and more - Privacy Policy
 
@@ -9,6 +9,14 @@ In the site registration process we request information including your e-mail ad
 When you visit the site, we may (like many other websites) also collect your IP address and other information transmitted by your browser including among other things the type of browser and operating system your computer uses, and the domain name of the website from which you linked to the site. We will also insert a short piece of computer code within your computer and record certain characteristics of the computer and in this manner our site will recognize your computer when you visit the site.
 
 We also retain copies of statements published on the site and correspondence sent to us.
+
+**Cookies**
+
+The site may track a user’s activity by issuing Cookies when entering the site. Cookies are small pieces of data or parts of a file that a server downloads to your personal computer or mobile when you visit a website. These files are stored by your web browser onto your hard drive. Cookies may anonymously record information such as your identification code, customized preferences, or a record of pages visited in order to simplify subsequent interactions with that website by you on the website and related web pages.
+
+To streamline navigation on our site we use both Session ID cookies and Persistent cookies. Session ID cookies only last for the duration of your visit to our website and expire when you close your browser while persistent cookies may remain on your hard drive for an extended period of time.
+
+Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer's preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you. In order to enjoy full functionality our site and its features we highly recommend that you enable cookies in your browser. If you disable cookies you may still be able to use certain site features but your experience may be severely limited.
 
 How may we use the information held by us? 
 
