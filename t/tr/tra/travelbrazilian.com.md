@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelbrazilian.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017111321id_/http%3A//www.travelbrazilian.com/%3Fpage_id%3D260) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelbrazilian.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605120142id_/http%3A//www.travelbrazilian.com/%3Fpage_id%3D260) for the most accurate reproduction.*
 
 # Privacy Policy | Travel Brazilian
 
