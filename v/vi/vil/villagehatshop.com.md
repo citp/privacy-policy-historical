@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villagehatshop.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021123459id_/http%3A//www.villagehatshop.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villagehatshop.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605162223id_/http%3A//www.villagehatshop.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Village Hat Shop
 
