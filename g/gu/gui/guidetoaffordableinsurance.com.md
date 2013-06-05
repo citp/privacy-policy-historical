@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the guidetoaffordableinsurance.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117044037id_/http%3A//guidetoaffordableinsurance.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidetoaffordableinsurance.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605152912id_/http%3A//guidetoaffordableinsurance.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Guidetoaffordableinsurance.com
 
 We respect your privacy and are committed to protecting it through our compliance with this privacy policy (this "Privacy Policy"). For purposes of this Privacy Policy, each of the terms "we," "us," or "our" means Bankrate, Inc., a Delaware corporation, and the term this "Site," means, collectively, this website and portions of other Web pages and Web content through which you have accessed this Privacy Policy.
 
-This Privacy Policy (together with our [Terms of Use](https://web.archive.org/web/20121117044037id_/http%3A//guidetoaffordableinsurance.com/terms-of-use.php) and any other documents referred to in this Privacy Policy and the Terms of Use) describes information that we collect from you or that you provide on this Site and how that information may be used and disclosed by us.
+This Privacy Policy (together with our [Terms of Use](https://web.archive.org/web/20130605152912id_/http%3A//guidetoaffordableinsurance.com/terms-of-use.php) and any other documents referred to in this Privacy Policy and the Terms of Use) describes information that we collect from you or that you provide on this Site and how that information may be used and disclosed by us.
 
 This Privacy Policy does not apply to information collected through any other medium, collected offline, or collected by any person or entity other than us (such as a third-party website or a third-party application). This Privacy Policy also does not apply to any information that you submit pursuant to a sweepstakes entry. Please refer to the official rules and privacy policy for each individual sweepstakes for our specific policies regarding information sharing and disclosure pursuant to sweepstakes entry.
 
@@ -12,7 +12,7 @@ Please read this Privacy Policy and the Terms of Use carefully to understand our
 
 **Children's Information**
 
-If you are under 13 years of age, please do not send any information about yourself to us or on this Site, including your name, address, telephone number or e-mail address. In the event that we learn that we have collected personal information from a child, we will delete that information and otherwise comply with the requirements of the Children's Online Privacy Protection Act and applicable law. If you believe that we might have any information from or about a child, please contact us at [webmaster@bankrate.com](mailto:webmaster@bankrate.com).
+If you are under 13 years of age, please do not send any information about yourself to us or on this Site, including your name, address, telephone number or e-mail address. In the event that we learn that we have collected personal information from a child, we will delete that information and otherwise comply with the requirements of the Children's Online Privacy Protection Act and applicable law. If you believe that we might have any information from or about a child, please contact us at [info@consumer-insurance.org](mailto:info@consumer-insurance.org).
 
 You must be at least 13 years of age to register with or use certain portions of this Site. This Site is not intended for children under 13 years of age. No one under 13 years of age may provide any personal information to or on this Site. We do not knowingly collect personal information from children under 13.
 
@@ -61,13 +61,13 @@ We use your information, including any personally identifiable information, to:
   * Ensure this Site is of interest to you (including, customization of advertising and content) and help us better understand your use of this Site;
   * Protect the security and integrity of this Site;
   * Conduct internal reviews of this Site and administer this Site's systems;
-  * Comply with, monitor compliance with and enforce this Privacy Policy, our [Terms of Use](https://web.archive.org/web/20121117044037id_/http%3A//guidetoaffordableinsurance.com/terms-of-use.php) and any other applicable agreements and policies;
+  * Comply with, monitor compliance with and enforce this Privacy Policy, our [Terms of Use](https://web.archive.org/web/20130605152912id_/http%3A//guidetoaffordableinsurance.com/terms-of-use.php) and any other applicable agreements and policies;
   * Develop, enhance and market our products and services or the products and services of third parties;
   * Provide you with promotional materials, offers and personalized information;
   * Manage our business and operations;
   * Meet legal and regulatory requirements;
   * Provide administrative communications to you;
-  * Use User Generated Content as permitted in our [Terms of Use](https://web.archive.org/web/20121117044037id_/http%3A//guidetoaffordableinsurance.com/terms-of-use.php); and
+  * Use User Generated Content as permitted in our [Terms of Use](https://web.archive.org/web/20130605152912id_/http%3A//guidetoaffordableinsurance.com/terms-of-use.php); and
   * For other purposes as may be disclosed when you provide personally identifiable information or in this Privacy Policy.
 
 
@@ -84,7 +84,7 @@ We may disclose personally identifiable information:
   * As required by law or ordered by a court, regulatory, or administrative agency;
   * As we deem necessary, in our sole discretion, if we believe that you are violating any applicable law, rule or regulation, or are otherwise interfering with another's rights or property, including, without limitation, our rights or property;
   * If requested by authorities in the event of any act of terrorism or instance of local, regional or national emergency;
-  * To enforce our [Terms of Use](https://web.archive.org/web/20121117044037id_/http%3A//guidetoaffordableinsurance.com/terms-of-use.php), this Privacy Policy, and any other applicable agreements and policies;
+  * To enforce our [Terms of Use](https://web.archive.org/web/20130605152912id_/http%3A//guidetoaffordableinsurance.com/terms-of-use.php), this Privacy Policy, and any other applicable agreements and policies;
   * To enforce or protect our rights;
   * In connection with a Business Transfer, as defined below (see Business Transfers below); and
   * To our affiliated companies (i.e., companies under common control or management with us).
@@ -123,7 +123,7 @@ From time to time, we may participate in or use advertising networks, such as th
 
 **User Generated Content**
 
-You are responsible for any content, including personal information, that you contribute to be published or displayed ("posted") on this Site, or that you transmit to other users of this Site (collectively, "User Generated Content"). Your User Generated Content is posted on and transmitted to other users of this Site at your own risk. We cannot control the actions of other users of this Site with whom you may choose to share your User Generated Content. We can also not responsible for circumvention of any privacy settings or security measures contained on this Site. As a result, we cannot and do not guarantee that your User Generated Content will not be viewed by unauthorized persons. You understand and acknowledge that, even after removal, copies of your User Generated Content may remain viewable in cached and archived pages, or might have been copied or stored by other Site users. Proper access and use of information provided on this Site, including User Generated Content, is governed by our [Terms of Use](https://web.archive.org/web/20121117044037id_/http%3A//guidetoaffordableinsurance.com/terms-of-use.php).
+You are responsible for any content, including personal information, that you contribute to be published or displayed ("posted") on this Site, or that you transmit to other users of this Site (collectively, "User Generated Content"). Your User Generated Content is posted on and transmitted to other users of this Site at your own risk. We cannot control the actions of other users of this Site with whom you may choose to share your User Generated Content. We can also not responsible for circumvention of any privacy settings or security measures contained on this Site. As a result, we cannot and do not guarantee that your User Generated Content will not be viewed by unauthorized persons. You understand and acknowledge that, even after removal, copies of your User Generated Content may remain viewable in cached and archived pages, or might have been copied or stored by other Site users. Proper access and use of information provided on this Site, including User Generated Content, is governed by our [Terms of Use](https://web.archive.org/web/20130605152912id_/http%3A//guidetoaffordableinsurance.com/terms-of-use.php).
 
 **Choices About How We Use and Disclose Your Information**
 
@@ -156,21 +156,20 @@ We may amend this Privacy Policy at any time. Amendments will take effect immedi
 
 If you have questions or concerns about our privacy practices or wish to make a request regarding your personally identifiable information, please contact us at any of the following:
 
-  * Via telephone: (561)630-2400
-  * Via fax: (561)625-4540
-  * Via mail: Bankrate, Inc., 11760 US HWY 1 Suite 200, North Palm Beach, FL 33408
-  * Via email: [webmaster@bankrate.com](mailto:webmaster@bankrate.com)
+  * Via telephone: (877) 369-8877
+  * Via mail: Guidetoaffordableinsurance.com, 1860 Blake St. Suite 900, Denver, CO 80202
+  * Via email: [info@consumer-insurance.org](mailto:)
 
 
 
 **_SPECIAL NOTIFICATION FOR CALIFORNIA RESIDENTS - YOUR CALIFORNIA PRIVACY RIGHTS_**
 
-Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be submitted to us at [webmaster@bankrate.com](mailto:webmaster@bankrate.com) or in writing at:
+Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be submitted to us at [info@consumer-insurance.org](mailto:info@consumer-insurance.org) or in writing at:
 
-Bankrate, Inc.  
-11760 US HWY 1, Suite 200  
-North Palm Beach, FL 33405  
+Guidetoaffordableinsurance.com  
+1860 Blake St. Suite 900  
+Denver, CO 80202  
 Attention: VP, Customer Service  
-Fax Number: (561)625-4540 
+
 
 California privacy rights requests must include the reference "Request for California Privacy Information" on the subject line and in the body of the message and must include the e-mail address or mailing address, as applicable, for us to send our response. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted other than to the address specified in this paragraph.
