@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wrestlingnewssource.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204141716id_/http%3A//www.wrestlingnewssource.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlingnewssource.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605113445id_/http%3A//wrestlingnewssource.com/privacy.php) for the most accurate reproduction.*
 
-# Wrestling News, TNA Final Resolution Results (12/9), WWE News, TNA News
+# Wrestling News, WWE Payback Results, WWE News, TNA News
 
   
 
