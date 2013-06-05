@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theanimegallery.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226222758id_/http%3A//www.theanimegallery.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theanimegallery.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605152414id_/http%3A//www.theanimegallery.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy | theAnimeGallery.com
 
@@ -26,8 +26,8 @@ theAnimeGallery.com uses cookies to store information about visitors' preference
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: 
 
+  * Google Adsense
   * MadAdsMedia.com
-  * 888media.net
   * BuySellAds.com
 
 
@@ -56,6 +56,6 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 
 ### Update
 
-This Privacy Policy was last updated on: Sunday, June 3rd, 2012. 
+This Privacy Policy was last updated on: Sunday, March 25th, 2013. 
 
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
