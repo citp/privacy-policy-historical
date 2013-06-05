@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesvideo.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920011732id_/http%3A//www.yesvideo.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesvideo.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605052212id_/http%3A//yesvideo.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # YesVideo | Privacy Policy
 
@@ -10,13 +10,13 @@ YesVideo defines "Personal Data" as any data from which it is practical to direc
 
 **Personal Data**
 
-Personal Data may be used for the following purposes: (i) to provide and improve our Service, (ii) to administer your use of the Service, (iii) to enable you to enjoy and easily navigate the Service, (iv) to better understand users' needs and interests, (v) to fulfill requests users may make, (vi) to personalize users' experience, and (vii) to provide or offer updates and/or Service announcements.Â  We may also use Personal Data to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on services and products offered by us or third parties ("Marketing Communications"). If you decide at any time that you no longer wish to receive any such Marketing Communications, please follow the "unsubscribe" instructions provided in any of the communications sent to you, or update your "account settings" information. 
+Personal Data may be used for the following purposes: (i) to provide and improve our Service, (ii) to administer your use of the Service, (iii) to enable you to enjoy and easily navigate the Service, (iv) to better understand users' needs and interests, (v) to fulfill requests users may make, (vi) to personalize users' experience, and (vii) to provide or offer updates and/or Service announcements. We may also use Personal Data to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on services and products offered by us or third parties ("Marketing Communications"). If you decide at any time that you no longer wish to receive any such Marketing Communications, please follow the "unsubscribe" instructions provided in any of the communications sent to you, or update your "account settings" information. 
 
 We will not sell or market the email addresses or other collected personal information of registered users to third parties. We will not view the files that you upload using the Service, unless reasonably required for monitoring purposes (see our Terms and Conditions of Use). We may view your file system information to provide technical support. You acknowledge and agree that YesVideo may occasionally send you administrative communications regarding your account or the Service via email. 
 
 **Cookies and Passive Data Collection**
 
-YesVideo uses cookies, IP addresses, and URLs to improve and further develop the Service, and to provide enhanced features to users, where available. YesVideo uses cookies to save user names, session validators, and on users' browsers and hard drives, and may use them to provide tailored products and services to those users, as they become available. In addition, YesVideo may use cookies to authenticate the user on each page after the user logs on to the site. You may instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the sites you visit. However, if you do not accept cookies, you may not be able to use all portions or functionality of the Service.Â  IP addresses also help us to diagnose problems with our servers, to administer the Service, and to otherwise provide the Service to our users. We use information we obtain by these technical means for the above purposes and in order to monitor and analyze use of the Service, for the Service's technical administration, to increase the Service's functionality and user-friendliness, to better tailor it to users' needs, to generate and derive useful data and information concerning the interests, characteristics and site use behavior of our users, and to verify that users meet the criteria required to process their use or requests.
+YesVideo uses cookies, IP addresses, and URLs to improve and further develop the Service, and to provide enhanced features to users, where available. YesVideo uses cookies to save user names, session validators, and on users' browsers and hard drives, and may use them to provide tailored products and services to those users, as they become available. In addition, YesVideo may use cookies to authenticate the user on each page after the user logs on to the site. You may instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the sites you visit. However, if you do not accept cookies, you may not be able to use all portions or functionality of the Service. IP addresses also help us to diagnose problems with our servers, to administer the Service, and to otherwise provide the Service to our users. We use information we obtain by these technical means for the above purposes and in order to monitor and analyze use of the Service, for the Service's technical administration, to increase the Service's functionality and user-friendliness, to better tailor it to users' needs, to generate and derive useful data and information concerning the interests, characteristics and site use behavior of our users, and to verify that users meet the criteria required to process their use or requests.
 
 **Surveillance**
 
@@ -40,7 +40,7 @@ YesVideo may store users' electronic mail and other communications as a necessar
 **  
 Cookies and Passive Data Collection**
 
-See above Section, also entitled "Cookies and Passive Data Collection."Â  As set forth above, YesVideo automatically receives and records information on our server logs from your browser, including without limitation, your IP address, cookie information, and the page you request.Â  Users should also be aware that other websites visited before entering the YesVideo Service site(s) might place Personal Data within a user's URL during a visit to their website, and YesVideo has no control over such other websites. Accordingly, some of this information may be logged by YesVideo.
+See above Section, also entitled "Cookies and Passive Data Collection." As set forth above, YesVideo automatically receives and records information on our server logs from your browser, including without limitation, your IP address, cookie information, and the page you request. Users should also be aware that other websites visited before entering the YesVideo Service site(s) might place Personal Data within a user's URL during a visit to their website, and YesVideo has no control over such other websites. Accordingly, some of this information may be logged by YesVideo.
 
 **Links to Third Party Sites**
 
@@ -66,7 +66,7 @@ The circumstances under which YesVideo may disclose user electronic communicatio
 
 **International Transfers**
 
-Personal Data may be stored and processed in the United States, or in any other country in which YesVideo or its affiliates, subsidiaries or agents maintain facilities, and by using or accessing the Service, you consent to any such transfer of Personal Data outside of your country.Â 
+Personal Data may be stored and processed in the United States, or in any other country in which YesVideo or its affiliates, subsidiaries or agents maintain facilities, and by using or accessing the Service, you consent to any such transfer of Personal Data outside of your country. 
 
 **SECURITY**
 
@@ -74,11 +74,11 @@ YesVideo uses industry standard security measures to protect against the loss, m
 
 **UPDATING OR REMOVING USER INFORMATION**
 
-You may, at any time, choose to correct, update or remove the information you have submitted to YesVideo by updating your account on our site.Â  However, even if you terminate your account, bear in mind that your Personal Data and other information may be retained in our archive or backup records. You may also opt out of receiving marketing communications by sending a request with your contact information to [support@yesvideo.com](mailto:lsupport@yesvideo.com).Â  Please note, however, that YesVideo reserves the right to send bulletins and other important information regarding the Service at our own discretion. 
+You may, at any time, choose to correct, update or remove the information you have submitted to YesVideo by updating your account on our site. However, even if you terminate your account, bear in mind that your Personal Data and other information may be retained in our archive or backup records. You may also opt out of receiving marketing communications by sending a request with your contact information to [support@yesvideo.com](mailto:lsupport@yesvideo.com). Please note, however, that YesVideo reserves the right to send bulletins and other important information regarding the Service at our own discretion. 
 
 **PRIVACY QUESTIONS AND CONTACTING YESVIDEO**
 
-If you have an issue with respect to privacy regarding the YesVideo Service, we kindly ask that you attempt first to resolve the issue directly by contacting YesVideo.Â  In addition, users with questions about this Privacy Policy and any of the statements herein may contact YesVideo, in the following ways:
+If you have an issue with respect to privacy regarding the YesVideo Service, we kindly ask that you attempt first to resolve the issue directly by contacting YesVideo. In addition, users with questions about this Privacy Policy and any of the statements herein may contact YesVideo, in the following ways:
 
 **E-Mail**  
 [support@yesvideo.com](mailto:lsupport@yesvideo.com)
@@ -87,7 +87,7 @@ If you have an issue with respect to privacy regarding the YesVideo Service, we 
 Attn: Privacy Policy  
 YesVideo, Inc.  
 3281 Scott Boulevard  
-Santa Clara, CAÂ  95054
+Santa Clara, CA 95054
 
 **OTHER LEGAL NOTICES**
 
