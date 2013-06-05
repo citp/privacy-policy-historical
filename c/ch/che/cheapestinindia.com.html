@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cheapestinindia.com privacy policy that was archived on 2012-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010134441id_/http%3A//cheapestinindia.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cheapestinindia.com privacy policy that was archived on 2013-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605171531id_/http%3A//cheapestinindia.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
   <base href="http://cheapestinindia.com/privacy-policy">
@@ -12,12 +12,144 @@
   <meta name="generator" content="CheapestInIndia.com">
   <title>Privacy Policy</title>
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <link rel="stylesheet" href="/modules/mod_product_search/drpp3.css" type="text/css">
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+  <link rel="stylesheet" href="/templates/basictheme/css/suggest_styles.css?rand=194684" type="text/css">
+  <style type="text/css">
+    <!--
+#slideout {
+			position: fixed;
+			top: 250px;
+			right: 0;
+			width: 35px;
+			padding: 12px 0;
+			text-align: center;
+			background: #009900;
+			-webkit-transition-duration: 0.3s;
+			-moz-transition-duration: 0.3s;
+			-o-transition-duration: 0.3s;
+			transition-duration: 0.3s;
+			-webkit-border-radius: 5px 0 0 5px;
+			-moz-border-radius: 5px 0 0 5px;
+			border-radius: 5px 0 0 5px;
+			-moz-box-shadow: 5px 5px 5px #888;
+			-webkit-box-shadow: 5x 5px 5px #888;
+			box-shadow: 5px 5px 5px #888;
+			z-index:1;
+		}
+		#slideout_inner {
+			position: fixed;
+			top: 250px;
+			right: -350px;
+			background: #009900;
+			width: 300px;
+			padding: 5px 25px 25px 25px;
+			height: 190px;
+			-webkit-transition-duration: 0.3s;
+			-moz-transition-duration: 0.3s;
+			-o-transition-duration: 0.3s;
+			transition-duration: 0.3s;
+			text-align: left;
+			-webkit-border-radius: 0 0 0 5px;
+			-moz-border-radius: 0 0 0 5px;
+			border-radius: 0 0 0 5px;
+			-moz-box-shadow: 5px 5px 5px #888;
+			-webkit-box-shadow: 5px 5px 5px #888;
+			box-shadow: 5px 5px 5px #888;
+			z-index:1;
+		}
+		#slideout_inner textarea {
+			width: 300px;
+			height: 90px;
+			margin-bottom: 6px;
+		}
+		#slideout:hover {
+			right: 350px;
+			z-index:1;
+		}
+		#slideout:hover #slideout_inner {
+			right: 0;
+		}
+		.feed_l
+		{
+		color:#99999;
+		font-size:13px;
+		font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+		font-weight:bold;
+		}
+    -->
+  </style>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
   <script type="text/javascript" src="/modules/mod_product_search/js/jquery.tinysort.min.js"></script>
-  <script type="text/javascript" src="/modules/mod_product_search/js/psearch7.js"></script>
+  <script type="text/javascript" src="/modules/mod_product_search/js/psearch10.js"></script>
+  <script type="text/javascript" src="/modules/mod_product_search/js/jquery.autocomplete.js"></script>
+  <script type="text/javascript" src="/modules/mod_product_search/js/asuggest.js?rand=397765"></script>
+  <script type="text/javascript">
 
-<link rel="stylesheet" href="/templates/basictheme/css/template.css" type="text/css">
+ var $j = jQuery.noConflict();
+$j(document).ready(function() {
+$j("#feed_img").live("click",function()
+{ 
+	//alert("hi");
+	if ( parseInt($j("#slideout").css("right")) > 200)
+	{
+		$j("#slideout").css("right","0px");
+		$j("#slideout_inner").css("right","-350px");
+		
+	}else
+	{
+		$j("#slideout_inner").css("right","0px");
+		$j("#slideout").css("right","350px");
+				
+	}
+});
+
+
+$j("#feedback_submit").live("click",function() 
+{
+
+ var msg = $j("#feedback_msg").val();
+  msg = $j.trim(msg);
+ 
+ if (msg.length < 20)
+ {
+	$j("#feedback_res").html("<span style=\"color:#ffffff;font-size:12px;\">Min Feedback Length 20 Char</span>");
+	
+ }
+ else
+ {
+	
+	$j("#feedback_res").html("<span style=\"color:#ffffff;font-size:12px;\">Submitting feedback...</span>");
+	$j.post("http://cheapestinindia.com/feedback/index.php", 
+		{
+			func: "feedback",
+			msg:msg,
+			feedback_type:$j("#feedback_type").find("option:selected").val(),
+			feedback_type_str:$j("#feedback_type").find("option:selected").text()
+		},function(data) 
+		{
+		
+		var ar=$j.parseJSON(data);
+		if (ar["status"] == 1)
+		{
+			
+		}
+		
+		$j("#feedback_res").html("<span style=\"color:#ffffff;font-size:12px;\">"+ar["msg"]+"</span>");
+		
+		});
+	
+	}
+ 
+ 
+ });
+ });
+ 
+
+ 
+ 
+ 
+  </script>
+
+<link rel="stylesheet" href="/templates/basictheme/css/template_final_comp3.css" type="text/css">
 
 
 <script type="text/javascript">
@@ -40,7 +172,7 @@
     		 
     	<div id="top">
 				
-                		<div id="logo"><a href="http://cheapestinindia.com/"><img alt="CheapestInIndia.com India's Best Shopping Search Engine" src="/images/cheapestinindia-logo.gif"></a></div>
+                		<div itemscope="" itemtype="http://schema.org/Organization" id="logo"><a itemprop="url" href="http://cheapestinindia.com/"><img itemprop="logo" alt="CheapestInIndia.com India's Best Shopping Search Engine" src="/images/cheapestinindia-logo.gif"></a></div>
                 		
                 		 
     	</div> <!-- end top-->
@@ -56,7 +188,7 @@
 	<div style="background-color:#FF0000;padding:10px;" id="searchform1">	
 		<div style="width:820px;float:left;background-color:#ffffff;">
     	<div style="width:484px;float:left;background-color:#ffffff;">
-		<input type="text" value="search" onfocus="if(this.value=='search') this.value=''; this.style.color='#009900';" onblur="if(this.value==''){this.value='search';this.style.color='#DDDDDD';}else{this.style.color='#009900';}" id="s" style="border:0;border:none;padding:5px;width:484px;font-size:24px;font-weight:bold;color:#009900;letter-spacing:1.5px;text-align:center;">
+		<input type="text" value="search" onfocus="if(this.value=='search') this.value=''; this.style.color='#009900';" onblur="if(this.value==''){this.value='search';this.style.color='#DDDDDD';}else{this.style.color='#009900';}" id="s" style="border:0;border:none;padding:5px;width:484px;font-size:24px;font-weight:bold;color:#009900;letter-spacing:1.5px;">
     	</div>
 
 
@@ -75,7 +207,7 @@
             </div>
             <div style="clear:both;"></div>
             
-			<div id="ucatd"><span id="ucat0">All Category</span></div><div id="ucatd"><span id="ucat6">Baby &amp; Mother Stuff</span></div><div id="ucatd"><span id="ucat7">Bags</span></div><div id="ucatd"><span id="ucat12">Camera Accessories</span></div><div id="ucatd"><span id="ucat10">Cameras</span></div><div id="ucatd"><span id="ucat9">Car &amp; Auto Accessories</span></div><div id="ucatd"><span id="ucat1">Computers &amp; Accessories</span></div><div id="ucatd"><span id="ucat49">Contact Lenses &amp; Accessories</span></div><div id="ucatd"><span id="ucat46">Cosmetics &amp; Makeup</span></div><div id="ucatd"><span id="ucat5">Electronics &amp; Digital</span></div><div id="ucatd"><span id="ucat14">Flowers</span></div><div id="ucatd"><span id="ucat15">Food Beverages &amp; Cakes</span></div><div id="ucatd"><span id="ucat47">Footwear</span></div><div id="ucatd"><span id="ucat16">Gaming Products</span></div><div id="ucatd"><span id="ucat8">Gifts</span></div><div id="ucatd"><span id="ucat17">Gps Navigation</span></div><div id="ucatd"><span id="ucat18">Health &amp; Beauty</span></div><div id="ucatd"><span id="ucat19">Health Care</span></div><div id="ucatd"><span id="ucat4">Home Appliances</span></div><div id="ucatd"><span id="ucat20">Home Decor &amp; Furnishings</span></div><div id="ucatd"><span id="ucat21">Jewelry</span></div><div id="ucatd"><span id="ucat22">Kids Accessories &amp; Stuff</span></div><div id="ucatd"><span id="ucat48">Kids Clothing</span></div><div id="ucatd"><span id="ucat13">Kitchen Appliances &amp; Accessories</span></div><div id="ucatd"><span id="ucat24">Laptop Accessories</span></div><div id="ucatd"><span id="ucat23">Laptops</span></div><div id="ucatd"><span id="ucat26">Men's Accessories</span></div><div id="ucatd"><span id="ucat25">Men's Clothing</span></div><div id="ucatd"><span id="ucat3">Mobile Accessories</span></div><div id="ucatd"><span id="ucat2">Mobile Phones</span></div><div id="ucatd"><span id="ucat30">Musical Instruments</span></div><div id="ucatd"><span id="ucat31">Office Utilities</span></div><div id="ucatd"><span id="ucat32">Optics</span></div><div id="ucatd"><span id="ucat33">Personal Care</span></div><div id="ucatd"><span id="ucat34">Pet Care</span></div><div id="ucatd"><span id="ucat29">Portable Music Gadgets</span></div><div id="ucatd"><span id="ucat35">Security Products</span></div><div id="ucatd"><span id="ucat43">Sports &amp; Fitness</span></div><div id="ucatd"><span id="ucat36">Stationery</span></div><div id="ucatd"><span id="ucat50">Sunglasses &amp; Spectacles</span></div><div id="ucatd"><span id="ucat37">Telephones</span></div><div id="ucatd"><span id="ucat38">Tools</span></div><div id="ucatd"><span id="ucat39">Toys &amp; Games</span></div><div id="ucatd"><span id="ucat44">Travel &amp; Adventure</span></div><div id="ucatd"><span id="ucat41">Unisex Accessories</span></div><div id="ucatd"><span id="ucat40">Unisex Clothing</span></div><div id="ucatd"><span id="ucat45">Video Players</span></div><div id="ucatd"><span id="ucat42">Watches</span></div><div id="ucatd"><span id="ucat27">Women Accessories</span></div><div id="ucatd"><span id="ucat28">Women Clothing</span></div>			
+			<div class="ucatd"><span id="ucat0">All Category</span></div><div class="ucatd"><span id="ucat6">Baby &amp; Mother Stuff</span></div><div class="ucatd"><span id="ucat7">Bags</span></div><div class="ucatd"><span id="ucat57">Bed &amp; Bath</span></div><div class="ucatd"><span id="ucat12">Camera Accessories</span></div><div class="ucatd"><span id="ucat10">Cameras</span></div><div class="ucatd"><span id="ucat9">Car &amp; Auto Accessories</span></div><div class="ucatd"><span id="ucat1">Computers &amp; Accessories</span></div><div class="ucatd"><span id="ucat49">Contact Lenses &amp; Accessories</span></div><div class="ucatd"><span id="ucat46">Cosmetics &amp; Makeup</span></div><div class="ucatd"><span id="ucat5">Electronics &amp; Digital</span></div><div class="ucatd"><span id="ucat14">Flowers</span></div><div class="ucatd"><span id="ucat15">Food Beverages &amp; Cakes</span></div><div class="ucatd"><span id="ucat47">Footwear</span></div><div class="ucatd"><span id="ucat52">Footwear Women</span></div><div class="ucatd"><span id="ucat55">Furniture</span></div><div class="ucatd"><span id="ucat16">Gaming Products</span></div><div class="ucatd"><span id="ucat8">Gifts</span></div><div class="ucatd"><span id="ucat17">Gps Navigation</span></div><div class="ucatd"><span id="ucat53">Handbags &amp; Accessories</span></div><div class="ucatd"><span id="ucat19">Health Care</span></div><div class="ucatd"><span id="ucat4">Home Appliances</span></div><div class="ucatd"><span id="ucat20">Home Decor &amp; Furnishings</span></div><div class="ucatd"><span id="ucat21">Jewelry</span></div><div class="ucatd"><span id="ucat22">Kids Accessories &amp; Stuff</span></div><div class="ucatd"><span id="ucat48">Kids Clothing</span></div><div class="ucatd"><span id="ucat13">Kitchen Appliances &amp; Accessories</span></div><div class="ucatd"><span id="ucat24">Laptop Accessories</span></div><div class="ucatd"><span id="ucat23">Laptops</span></div><div class="ucatd"><span id="ucat26">Men's Accessories</span></div><div class="ucatd"><span id="ucat25">Men's Clothing</span></div><div class="ucatd"><span id="ucat3">Mobile Accessories</span></div><div class="ucatd"><span id="ucat2">Mobile Phones</span></div><div class="ucatd"><span id="ucat30">Musical Instruments</span></div><div class="ucatd"><span id="ucat31">Office Utilities</span></div><div class="ucatd"><span id="ucat32">Optics</span></div><div class="ucatd"><span id="ucat54">Perfumes &amp; Deodorants</span></div><div class="ucatd"><span id="ucat33">Personal Care</span></div><div class="ucatd"><span id="ucat34">Pet Care</span></div><div class="ucatd"><span id="ucat29">Portable Music Gadgets</span></div><div class="ucatd"><span id="ucat35">Security Products</span></div><div class="ucatd"><span id="ucat43">Sports &amp; Fitness</span></div><div class="ucatd"><span id="ucat36">Stationery</span></div><div class="ucatd"><span id="ucat50">Sunglasses &amp; Spectacles</span></div><div class="ucatd"><span id="ucat51">Tablets</span></div><div class="ucatd"><span id="ucat37">Telephones</span></div><div class="ucatd"><span id="ucat38">Tools</span></div><div class="ucatd"><span id="ucat39">Toys &amp; Games</span></div><div class="ucatd"><span id="ucat44">Travel &amp; Adventure</span></div><div class="ucatd"><span id="ucat41">Unisex Accessories</span></div><div class="ucatd"><span id="ucat40">Unisex Clothing</span></div><div class="ucatd"><span id="ucat45">Video Players</span></div><div class="ucatd"><span id="ucat42">Watches</span></div><div class="ucatd"><span id="ucat27">Women Accessories</span></div><div class="ucatd"><span id="ucat28">Women Clothing</span></div>			
         </div><!-- End 3 columns container -->
         
     
@@ -103,7 +235,7 @@
             <div style="clear:both;"></div>
 			
 			
-			<div id="upricer"><span id="pricer">No Price Range</span></div><div id="upricer"><span id="pricer1:250">Below Rs. 250</span></div><div id="upricer"><span id="pricer251:500">Rs. 251 - 500</span></div><div id="upricer"><span id="pricer501:1000">Rs. 501 - 1000</span></div><div id="upricer"><span id="pricer1001:2000">Rs 1001 - 2000</span></div><div id="upricer"><span id="pricer2001:3000">Rs 2001 - 3000</span></div><div id="upricer"><span id="pricer3001:4000">Rs 3001 - 4000</span></div><div id="upricer"><span id="pricer4001:5000">Rs 4001 - 5000</span></div><div id="upricer"><span id="pricer5001:6000">Rs 5001 - 6000</span></div><div id="upricer"><span id="pricer6001:7000">Rs 6001 - 7000</span></div><div id="upricer"><span id="pricer7001:8000">Rs 7001 - 8000</span></div><div id="upricer"><span id="pricer8001:9000">Rs 8001 - 9000</span></div><div id="upricer"><span id="pricer9001:10000">Rs 9001 - 10000</span></div><div id="upricer"><span id="pricer10001:11000">Rs 10001 - 11000</span></div><div id="upricer"><span id="pricer11001:12000">Rs 11001 - 12000</span></div><div id="upricer"><span id="pricer12001:13000">Rs 12001 - 13000</span></div><div id="upricer"><span id="pricer13001:14000">Rs 13001 - 14000</span></div><div id="upricer"><span id="pricer14001:15000">Rs 14001 - 15000</span></div><div id="upricer"><span id="pricer15001:16000">Rs 15001 - 16000</span></div><div id="upricer"><span id="pricer16001:17000">Rs 16001 - 17000</span></div><div id="upricer"><span id="pricer17001:18000">Rs 17001 - 18000</span></div><div id="upricer"><span id="pricer18001:19000">Rs 18001 - 19000</span></div><div id="upricer"><span id="pricer19001:20000">Rs 19001 - 20000</span></div><div id="upricer"><span id="pricer20001:0">Above Rs.20001 </span></div>			
+			<div class="upricer"><span id="pricer">No Price Range</span></div><div class="upricer"><span id="pricer1:250">Below Rs. 250</span></div><div class="upricer"><span id="pricer251:500">Rs. 251 - 500</span></div><div class="upricer"><span id="pricer501:1000">Rs. 501 - 1000</span></div><div class="upricer"><span id="pricer1001:2000">Rs 1001 - 2000</span></div><div class="upricer"><span id="pricer2001:3000">Rs 2001 - 3000</span></div><div class="upricer"><span id="pricer3001:4000">Rs 3001 - 4000</span></div><div class="upricer"><span id="pricer4001:5000">Rs 4001 - 5000</span></div><div class="upricer"><span id="pricer5001:6000">Rs 5001 - 6000</span></div><div class="upricer"><span id="pricer6001:7000">Rs 6001 - 7000</span></div><div class="upricer"><span id="pricer7001:8000">Rs 7001 - 8000</span></div><div class="upricer"><span id="pricer8001:9000">Rs 8001 - 9000</span></div><div class="upricer"><span id="pricer9001:10000">Rs 9001 - 10000</span></div><div class="upricer"><span id="pricer10001:11000">Rs 10001 - 11000</span></div><div class="upricer"><span id="pricer11001:12000">Rs 11001 - 12000</span></div><div class="upricer"><span id="pricer12001:13000">Rs 12001 - 13000</span></div><div class="upricer"><span id="pricer13001:14000">Rs 13001 - 14000</span></div><div class="upricer"><span id="pricer14001:15000">Rs 14001 - 15000</span></div><div class="upricer"><span id="pricer15001:16000">Rs 15001 - 16000</span></div><div class="upricer"><span id="pricer16001:17000">Rs 16001 - 17000</span></div><div class="upricer"><span id="pricer17001:18000">Rs 17001 - 18000</span></div><div class="upricer"><span id="pricer18001:19000">Rs 18001 - 19000</span></div><div class="upricer"><span id="pricer19001:20000">Rs 19001 - 20000</span></div><div class="upricer"><span id="pricer20001:0">Above Rs.20001 </span></div>			
 			
 	
 	<div style="clear:both;"></div>
@@ -145,18 +277,18 @@ Custom Price Range :
 	</div> 
 	</div> 
 	
-	<div style="float:left;margin-top:2px;"><small style="text-transform:none;">Search Help Enter Product Name or Brand Name eg: Samsung N150 , Blackberry Curve , Nokia , T Shirts , Flowers </small>	</div>
+	<div style="float:left;margin-top:2px;"><small style="text-transform:none;">Search Tip : Enter Product or Brand Name eg: Samsung Galaxy , Cosco , Puma &amp; Select Category for better results</small>	</div>
 	
 	<div style="float: left; width: 60%; text-align: center; font-size: 12px; height: 33px; padding: 2px; -moz-box-shadow: 0px 1px 1px #888888;
 	-webkit-box-shadow: 0px 1px 1px #888888;box-shadow: 0px 1px 1px #888888;" id="res">
 	<div style="float:left;overflow:hidden;">
 	<span style="float: left; display: block; font-family: Helvetica,arial,serif; font-size: 28px; font-weight: bold; background-color: rgb(255, 0, 0); color: rgb(255, 255, 255); overflow: hidden; width: 260px;">
-	8,29,283 Products</span>
-	<span style="float: left; display: block; font-family: Helvetica,arial,serif; font-size: 28px; font-weight: bold; background-color: #009900; color:#ffffff ; overflow: hidden; width: 160px; margin-left:2px;">
-	50+ Stores </span>
+	16,87,945 Products</span>
+	<span style="float: left; display: block; font-family: Helvetica,arial,serif; font-size: 28px; font-weight: bold; background-color: #009900; color:#ffffff ; overflow: hidden; width: 166px; margin-left:2px;">
+	100+ Stores</span>
 	</div> 
 	<div style="float: left; width: 170px; height: 34px;"> 
-	<span style="color: rgb(255, 0, 0); letter-spacing:1px;display: block; font-family: Helvetica,arial,serif; font-size: 14px; font-weight: bold; padding: 2px; text-align: left; margin-left: 5px;">130 Categories in <br>50 Category Groups</span>
+	<span style="color: rgb(255, 0, 0); letter-spacing:1px;display: block; font-family: Helvetica,arial,serif; font-size: 14px; font-weight: bold; padding: 2px; text-align: left; margin-left: 5px;">300 Categories in <br>55 Category Groups</span>
 	
 	
 	</div> 
@@ -198,7 +330,27 @@ Custom Price Range :
 
 </tbody></table>
 <span class="article_separator">&nbsp;</span>
-<div id="cfooter">  </div></div>
+<div id="cfooter"> 		<div class="moduletable">
+					<div id="slideout">
+		<img id="feed_img" style="z-index:-1;cursor:pointer;" src="http://cheapestinindia.com/images/feedback.png" alt="Feedback">
+		<div id="slideout_inner">
+			
+				<label class="feed_l">Category</label>
+				<select style="width:300px;margin-bottom:10px;" id="feedback_type">
+				<option value="0">General Feedback</option>
+				<option value="1">Website Related</option>
+				<option value="2">Suggestion</option>
+				</select>
+				<label class="feed_l">Message<small style="margin-left:5px;">(Min 20 Char)</small></label>
+				<textarea id="feedback_msg"></textarea>
+				<input style="padding:2px;" id="feedback_submit" type="submit" value="Submit Feedback">
+				<span id="feedback_res" style="float:right"></span>
+			
+		</div>
+	</div>
+
+		</div>
+	 </div></div>
                            
                 </div> <!-- end container or content-all -->
                 
@@ -231,7 +383,7 @@ Custom Price Range :
 	   </div>
 	   <div style="clear:both;"></div>
 	   <div id="legal">
-	   <span class="foottext">© 2009 - 2012 Copyright CheapestInIndia.com. All Rights Reserved.  | All Trademarks Images Property of Respective Owners | <a rel="nofollow" target="_blank" href="http://cheapestinindia.com/about-us"> About Us </a> | <a rel="nofollow" target="_blank" href="http://cheapestinindia.com/disclaimer"> Disclaimer</a> | <a rel="nofollow" target="_blank" href="http://cheapestinindia.com/privacy-policy"> Privacy Policy</a> | <a rel="nofollow" target="_blank" href="http://cheapestinindia.com/contact-us"> Contact us </a> | <a rel="nofollow" target="_blank" href="http://cheapestinindia.com/contact-us#submit-your-store"> Submit Your Store </a> </span>
+	   <span class="foottext">© 2009 - 2013 Copyright CheapestInIndia.com. All Rights Reserved.  | All Trademarks Images Property of Respective Owners | <a rel="nofollow" target="_blank" href="http://cheapestinindia.com/about-us"> About Us </a> | <a rel="nofollow" target="_blank" href="http://cheapestinindia.com/disclaimer"> Disclaimer</a> | <a rel="nofollow" target="_blank" href="http://cheapestinindia.com/privacy-policy"> Privacy Policy</a> | <a rel="nofollow" target="_blank" href="http://cheapestinindia.com/contact-us"> Contact us </a> | <a rel="nofollow" target="_blank" href="http://cheapestinindia.com/contact-us#submit-your-store"> Submit Your Store </a> </span>
 	   </div>
 </div> <!-- end wrap-->
 <div style="clear:both;"></div>
