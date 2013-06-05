@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booker.co.uk privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205002307id_/http%3A//www.booker.co.uk/help/privacystatement.aspx%3FreturnUrl%3Dhttp%253a%252f%252fwww.booker.co.uk%252fhome.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booker.co.uk privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605221655id_/http%3A//www.booker.co.uk/help/privacystatement.aspx%3FreturnUrl%3Dhttp%253a%252f%252fwww.booker.co.uk%252fhome.aspx) for the most accurate reproduction.*
 
 # Booker Wholesale | Privacy Statement
 
@@ -42,7 +42,7 @@ The Privacy and Electronic Communications (EC Directive) Regulations 2003 ("the 
 
 A full list of all the cookies we use can be found below.
 
-[Click here for the full list of cookies](https://web.archive.org/web/20121205002307id_/http%3A//www.booker.co.uk/help/PrivacyCookies.aspx)
+[Click here for the full list of cookies](https://web.archive.org/web/20130605221655id_/http%3A//www.booker.co.uk/help/PrivacyCookies.aspx)
 
 Your continued use of this website shall be taken as consent to the placement of these cookies. 
 
