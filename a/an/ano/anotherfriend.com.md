@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anotherfriend.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016012918id_/http%3A//www.anotherfriend.com/dating-articles-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anotherfriend.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605204618id_/http%3A//www.anotherfriend.com/dating-articles-privacy) for the most accurate reproduction.*
 
 # AnotherFriend.com - Privacy
 
