@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncaafootball.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014023137id_/http%3A//www.ncaafootball.com/News/tabid/729/Article/2421/ncaa-football-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncaafootball.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605171309id_/http%3A//ncaafootball.com/News/tabid/729/Article/2421/ncaa-football-privacy-policy.aspx) for the most accurate reproduction.*
 
 # NCAA Football Privacy Policy > NCAA Football > News
 
