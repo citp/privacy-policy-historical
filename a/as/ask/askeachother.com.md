@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askeachother.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119083828id_/http%3A//www.askeachother.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askeachother.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605221146id_/http%3A//www.askeachother.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | AskEachOther.com - Get paid for your Opinions
+# Privacy Policy | AskEachOther.com - Addicting Polls
 
 **Welcome to AskEachOther.com! Before you begin using AskEachOther.com, you must first read and agree to this Privacy Policy**
 
