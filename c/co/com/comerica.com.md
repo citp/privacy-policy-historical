@@ -1,123 +1,7 @@
-> *The following text is extracted and transformed from the comerica.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226111645id_/https%3A//www.comerica.com/help-center/pages/privacy-notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comerica.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605100814id_/https%3A//www.comerica.com/help-center/pages/privacy-notice.aspx) for the most accurate reproduction.*
 
 # Privacy Notice | Comerica
 
-**FACTS ​**  ​ | **What Does Comerica Do With Your Personal Information?**   ​  
----|---  
-**​Why?** | ​Financial companies choose how they share your personal informati​on. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.​  
-​ **What?** | ​​The types of personal information we collect and share depend on the product or service you have with us.  
-This information can include:  
-
-
-  * Social Security number and employment information
-  * Transaction or loss history and credit scores
-  * Account balances and risk tolerance​
-
-  
-​ **How?** | ​All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Comerica chooses to share; and whether you can limit this sharing.​  
-  
- **T ​o limit our sharing​** | 
-
-  * ​Call toll free **866.517.1800** – our menu will prompt you through your choices or
-  * Visit us online: www.comerica.com/privacyresponse
-
-  
-**Please note:**  
-If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice.
-
-However, you can contact us at any time to limit our sharing.  
-  
----|---  
-**​Questions?** | **​** Call **800.266.3742  **  
-  
- ​​Who we are  
----  
-​ **Who is provid​ing this ​notice?** | ​Comerica Bank, Comerica Bank & Trust, National Association, Comerica Securities, Inc., Comerica Insurance Services, Inc., Comerica Insurance Services of Texas Incorporated, Interstate Select Insurance Services, Inc., World Asset Management, Inc., and Bank of the Hills, a division of Comerica Bank.  
-  
- ​What we do​ ​  
----  
-**​How does Comerica protect my personal information?** | ​To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
-**​How does Comerica collect my personal information?** | ​We collect your personal information, for example, when you  
-
-
-  * open an account or make deposits or withdrawals from your account
-  * apply for insurance or apply for a loan
-  * use your credit or debit card
-
-We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.  
-**​Why can’t I limit all sharing?** | ​Federal law gives you the right to limit only​  
-
-
-  * sharing for affiliates’ everyday business purposes-information about your creditworthiness
-  * affiliates from using your information to market to you
-  * sharing for nonaffiliates to market to you
-
-State laws and individual companies may give you additional rights to limit sharing. (See below for more on your rights under state law.)  
-**What happens when I limit sharing for an account I hold jointly with someone else?​** | ​Comerica does not limit sharing by account but rather by individual. Therefore, your choices will apply to all of your accounts with Comerica. Any joint account holder may make their own choices, or you can select on their behalf.  
-  
- Definitions ​ ​  
----  
-​ **Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies.​  
-
-
-  *  _Our affiliates i_ _nclude financial companies with a Comerica name and other financial companies such as World Asset Management, Inc._
-
-  
-**Nonaffiliates** | ​Companies not related by common ownership or control. They can be financial and nonfinancial companies.  
-
-
-  *  _Comerica_ _does not share with nonaffiliates so they can market to you._
-
-  
-​ **Joint marketing​** | ​A formal agreement between nonaffiliated financial companies that together market financial products or services to you.  
-
-
-  *  _Our joint marketing partners include merchant payment processors, credit card, insurance, stored value card and che_ _ck printing companies._
-
-  
- Other important informat​ion​  
----  
-**​State law​**  
-You may have other privacy protections under state laws; we will comply with all applicable state laws with regard to our information sharing practices.  
-
-
-  * California residents only – California law specifies an alternative form for your privacy choices. You may either opt-out using the separate form titled “Important Privacy Choices for California Consumers” or the other options previously described in this notice.
-  * New Mexico, North Dakota and Vermont residents only – Per state law, we have automatically opted you out of the sharing of your information.
-
-  
-**​Contacting a bank regulator**  
-Comerica Bank is chartered under the laws of the State of Texas and by state law is subject to regulatory oversight by the Texas Department of Banking. Any consumer wishing to file a complaint against Comerica Bank should contact the Texas Department of Banking through one of the means indicated below:​
-
->  **In Person or U.S. Mail:  
-> ** Texas Department of Banking  
-> 2601 North Lamar Boulevard  
-> Suite 300  
-> Austin, TX 78705-4294
-
-  
-
-
-> **Telephone Number:  
-> ** 877.276.5554 (toll free)
-
-  
-
-
-> **Fax Number:  
-> ** 512.475.1313
-
-  
-
-
-> **E-mail Address:  
-> ** consumer.complaints@dob.texas.gov​
-
-  
-
-
-> **Website Address:  
-> ** www.dob.texas.gov  
-  
 ## Online Practices
 
 ### Security standards
@@ -153,3 +37,17 @@ Comerica may use other use-tracking devices, which may change from time-to-time 
 With the assistance of a cookie, Webbugs may collect the IP address of your computer, the URL of the page the Webbugs comes from and the time it was viewed, or other personal information. For example, Webbugs may add information to a personal profile of what sites a person is visiting and to determine what banner ads to display based on the profile. Another use of Webbugs is to provide an independent accounting of how many people have visited a particular website and to gather statistics about webbrowser usage at different places on the Internet.
 
 Our website may include advertisements for third parties and their products, and those third-party advertisements and websites may include a cookie, Webbugs, or other device of the third party. Comerica does not have control over the cookies, Webbugs, or other devices used by third parties and does not have access to whatever information they may collect.​
+
+ **FACTS ​**  ​ | **What Does Comerica Do With Your Personal Information?**   ​  
+---|---  
+**​Why?** | ​Financial companies choose how they share your personal informati​on. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.​  
+​ **What?** | ​​The types of personal information we collect and share depend on the product or service you have with us.  
+This information can include:  
+
+
+  * Social Security number and employment information
+  * Transaction or loss history and credit scores
+  * Account balances and risk tolerance​
+
+  
+​ **How?** | ​All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Comerica chooses to share; and whether you can limit this sharing.​
