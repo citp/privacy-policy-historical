@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxslayerpro.com privacy policy that was archived on 2012-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120116180443id_/http%3A//www.taxslayerpro.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayerpro.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605083100id_/http%3A//taxslayerpro.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for TaxSlayer Pro
 
@@ -11,7 +11,7 @@ We may share information about you and the products and services you have purcha
 **With Service Providers**  
 In some cases, we employ service providers to provide a product you order, to fulfill a service you request, or to market one of our products or services. Examples include delivering downloadable products, offering online software applications, or sending e-mails on our behalf. While this may require us to share information, these service providers are strictly prohibited from using your information other than to act on our behalf.
 
->For Legal Reasons  
+**For Legal Reasons**  
 We may be required to provide information about you to third parties outside of the TaxSlayer corporate family without your consent as provided by law, such as, to respond to a subpoena or court order, judicial process or regulatory authorities, to protect against fraud.
 
 **In Case of Sale of Company**  
