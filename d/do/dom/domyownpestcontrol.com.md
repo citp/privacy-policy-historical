@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domyownpestcontrol.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006100946id_/http%3A//www.domyownpestcontrol.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domyownpestcontrol.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605102400id_/http%3A//www.domyownpestcontrol.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - DoMyOwnPestControl.com
 
@@ -7,14 +7,14 @@
 
 ### Testimonial
 
-10/08/2010
+**10/28/2011**
 
-"I am most appreciative of the expertise of Michael, the termite guy). One local exterminator had quoted me a price to handle my termite infestation. Not only was the price ridiculously high, his company uses an inferior product. Michael gave me accurate information (corroborated by my independent research on the Internet), and that solidified my decision to buy Bora-Care and Termidor!"
+"I discovered DoMyOwnPestControl.com just at the perfect time to deal with some brown recluse spiders. The sticky traps arrived very quickly and now I have them all over the house. The traps were very well protected for shipping and no wasteful packaging either. The whole transaction to order what I ..."
 
-Hing  
-Diamond Bar, CA
+**Jonathan Garcia**  
+Guerneville, CA 
 
-[More Testimonials...](http://www.domyownpestcontrol.com/testimonials.php)
+[More Testimonials](http://www.domyownpestcontrol.com/testimonials.php) »
 
   
 [](http://www.twitter.com/mypestcontrol)  
@@ -22,12 +22,10 @@ Diamond Bar, CA
 ](http://www.facebook.com/pages/Norcross-GA/DoMyOwnPestControlcom-Do-It-Yourself-Pest-Control/116954858273)[](http://www.youtube.com/user/DoMyOwnPestControl)[](http://blog.domyownpestcontrol.com/) | 
 
 Privacy and Security  
-DoMyOwnPestControl.com is committed to your privacy  
-[  
-](http://www.domyownpestcontrol.com/shipping.php?osCsid=333792c8c5059b754f1bc64a877febaf#ordering)
+DoMyOwnPestControl.com is committed to your privacy
 
   
-Because your privacy is important to us, we have created the following Privacy and Security Policy to let you know what information we collect when you visit our web site, [DoMyOwnPestControl.com](http://www.domyownpestcontrol.com/?osCsid=333792c8c5059b754f1bc64a877febaf), why we collect it, and how it is used. This Privacy and Security Policy also addresses our data security practices, the options you have to access and control any personally identifiable information you provide to us, and other matters. We may periodically make changes to this Privacy and Security Policy which will be included on this page. It is your responsibility to review this Privacy and Security Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. 
+Because your privacy is important to us, we have created the following Privacy and Security Policy to let you know what information we collect when you visit our web site, [DoMyOwnPestControl.com](http://www.domyownpestcontrol.com/), why we collect it, and how it is used. This Privacy and Security Policy also addresses our data security practices, the options you have to access and control any personally identifiable information you provide to us, and other matters. We may periodically make changes to this Privacy and Security Policy which will be included on this page. It is your responsibility to review this Privacy and Security Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. 
 
 **SPECIAL NOTE ABOUT CHILDREN**   
 This site is not intended for or directed to persons under the age of 18. DoMyOwnPestControl.com does not sell products for purchase by children. By registering with this web site, purchasing products from DoMyOwnPestControl.com or providing DoMyOwnPestControl.com with any information, you represent to DoMyOwnPestControl.com that you are 18 or older and that any information you provide to DoMyOwnPestControl.com about a third party is for a third party that is 18 or older.
@@ -77,7 +75,7 @@ By using the DoMyOwnPestControl.com web site, you agree to this Privacy and Secu
 Please see our [Terms of Use](http://www.domyownpestcontrol.com/conditions.php) page for more information. 
 
 **IF YOU HAVE A PRIVACY QUESTION**   
-If you have a privacy question about the DoMyOwnPestControl.com web site, please email: Customer Service at [support@domyownpestcontrol.com](mailto:support@domyownpestcontrol.com). Or write: DoMyOwnPestControl.com, Attn: Privacy Policy, 5730 Oakbrook Pkwy STE 130, Norcross, GA 30093.
+If you have a privacy question about the DoMyOwnPestControl.com web site, please email: Customer Service at [support@domyownpestcontrol.com](mailto:support@domyownpestcontrol.com). Or write: DoMyOwnPestControl.com, Attn: Privacy Policy, 4260 Communications Drive, Norcross, GA 30093.
 
 This Privacy and Security Policy was last updated on September 10, 2012.
 
