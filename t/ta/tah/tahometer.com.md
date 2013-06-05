@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the tahometer.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415014555id_/http%3A//www.tahometer.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tahometer.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605232732id_/http%3A//www.tahometer.com/privacy/policy) for the most accurate reproduction.*
 
-# Tahometer
+# Privacy Policy of Tahometer
 
 Date of last revision: March 12, 2010.
+
+Defined Terms. "Us," "we," "our," "Service" and "Tahometer" mean the same. "Information" and "content" are used more generally and interchangeably here:
 
 We want to earn your trust by being transparent about how Tahometer works. You should read this policy in its entirety, but should pay particular attention to these three highlights:
 
   * Tahometer is designed to make it easy for you to share your activity information with anyone you want. You decide how much information you feel comfortable sharing on Tahometer and you control how it is distributed through your privacy settings. You should review the shared data before sharing and consider your settings whenever you share information.
   * Tahometer is not just a website. It is also a standalone service for tracking your activity and uploading this information to tahometer service websites. You can control how you share information through your tahometer agent application settings.
-  * In future we plan to have ability make certain categories of information such as your name, profile, skills, geographic region and total statistic available to everyone. You will have ability, however, limit the ability of others to see and find this information through search using your search privacy settings. This information will _not_ be accessible to others by default.
+  * In future we plan to have ability make certain categories of information such as your name, profile, skills, geographic region and total statistic available to everyone. You will have ability, however, limit the ability of others to see and find this information through search using your search privacy settings. This information **will not be** accessible to others by default.
 
 
 
