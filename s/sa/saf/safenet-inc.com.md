@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safenet-inc.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212150637id_/http%3A//www.safenet-inc.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safenet-inc.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605143321id_/http%3A//www.safenet-inc.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - SafeNet
 
@@ -8,7 +8,7 @@ Unless otherwise noted, all information on SafeNet Web Sites is copyright © 201
 
 ### SafeNet and the E.U. - U.S. Safe Harbor for Privacy
 
-The European Commission and the U.S. Department of Commerce have developed a "safe harbor" framework of data protection principles ("Safe Harbor"). This Safe Harbor is designed to provide U.S. organizations with a means to satisfy the European Union's legal requirement that adequate data protections be afforded to personally-identifiable information transferred from the European Union to the United States. SafeNet's Privacy Policy is consistent with the Safe Harbor principles, and SafeNet has certified that its transfers of data from the European Union to the United States adhere to the Safe Harbor principles.
+The European Commission and the U.S. Department of Commerce have developed a "safe harbor" framework of data protection principles ("Safe Harbor"). This Safe Harbor is designed to provide U.S. organizations with a means to satisfy the European Union's legal requirement that adequate data protections be afforded to personally-identifiable information transferred from the European Union to the United States. SafeNet's Privacy Policy is consistent with the Safe Harbor principles, and SafeNet has certified that its transfers of data from the European Union to the United States adhere to the Safe Harbor principles. To learn more about the Safe Harbor program, and to view SafeNet's certification, please visit <http://www.export.gov/safeharbor/>. 
 
 **Notice**  
 In general, you may browse through our site without providing us any information about yourself. However, we may request Personal Information on occasion in order to provide you with specific services or information that you have requested. "Personal Information" is information relating to an identified or identifiable natural person that identifies that person. At the time SafeNet collects Personal Information from you, it will inform you of the purposes for which it collects and uses such information and how to contact SafeNet with any inquiries or complaints. SafeNet will not disclose Personal Information to third parties, other than its wholly owned subsidiaries, which are subject to this same Privacy Policy.
