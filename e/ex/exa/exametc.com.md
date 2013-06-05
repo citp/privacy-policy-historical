@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the exametc.com privacy policy that was archived on 2012-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120902032359id_/http%3A//exametc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exametc.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606002513id_/http%3A//exametc.com/privacy.php) for the most accurate reproduction.*
 
-# 
-
-### Privacy policy
+# Examtec : : Disclaimer
 
 In the course of registering for and availing various services we provide from time to time through our website www.exametc.com (Website, Mobile application and SMS or any other medium in which Exametc.com may provide services (collectively referred to as "Media") you may be required to give your name, email address, phone number or mobile number, Age, educational qualifications and similar Personal Information (Collectively referred to as "Personal Information"). The Personal Information is used for two general purposes: to fulfill your requests for certain services, and to contact you about our services. Unless otherwise stated explicitly, this Policy applies to Personal Information as disclosed on any of the Media.
 
