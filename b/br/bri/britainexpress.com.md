@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023162423id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605045855id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
 
 # Britain Express Privacy Policy
 
@@ -77,23 +77,8 @@ GL54 2NS
 
 ### Monarch Mayhem
 
-|  Car Rental  
----  
-[**The Car Rental Centre**](https://web.archive.org/Travel/cars/car-rental-uk.htm) Wholesale rates, instant quotes, from all the major car rental companies  
-  
   
 
 
-**London Pass**  
----  
-  
-[](https://web.archive.org/articles/Notebook/London-Pass.htm) [**Free entry to top London attractions**](https://web.archive.org/articles/Notebook/London-Pass.htm)
-
-**Including** Tower of London, St. Paul's Cathedral, Windsor Castle, London Zoo, London Dungeons, theatre, open-top buses... and a lot more!
-
-NOW - Save 5% off All London Pass purchases - just enter Voucher Code londpas05 when you buy your pass
-
-[**The London Pass**](https://web.archive.org/articles/Notebook/London-Pass.htm)  
-  
   
 
