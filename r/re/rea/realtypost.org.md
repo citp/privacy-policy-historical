@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the realtypost.org privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225004549id_/http%3A//realtypost.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtypost.org privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605163116id_/http%3A//realtypost.org/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | REALTYPOST.ORG
 
-We know that privacy of your personal information is important. Therefore, we enclose what types of personal information we receive and collect when you use and visit **RealtyPost.org** , and how we safeguard your information. We never sell your personal information to third parties.
+We know that privacy of your personal information is important. Therefore, we enclose what types of personal information we receive and collect when you use and visit realtypost.org, and how we safeguard your information. We never sell your personal information to third parties.
 
 **Personal information collected on this website**
 
-No personally-identifiable information is collected on this website automatically, from consumers that browse the website for information or use the opt-out service. The only personally-identifiable information collected on this website is gathered on our “Contact us” page, where you can provide your name, email address and other types of personal information. We collect this information solely to respond to the comments that you send to us via that contact form.
+No personally-identifiable information is collected on this website automatically, from consumers that browse the website for information or use the opt-out service. The only personally-identifiable information collected on this website is gathered on our “Contact Us” page, where you can provide your name, email address and other types of personal information. We collect this information solely to respond to the comments that you send to us via that contact form.
 
 **Anonymous information collected on this website**
 
@@ -20,7 +20,7 @@ None of this anonymous data is linked to personally-identifiable information and
 
 We use cookies to store information, such as your personal preferences when you visit our site.
 
-We might use third party advertisements on **RealtyPost.org** to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP, the browser you use to visit our site, and in some cases, whether you have Flash installed. This is generally used for different ad targeting purposes.
+We might use third party advertisements on realtypost.org to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP, the browser you use to visit our site, and in some cases, whether you have Flash installed. This is generally used for different ad targeting purposes.
 
 You may opt-out of those cookies at the appropriate vendor or ad network websites if they provide that capability, or try to opt-out of some, but not all of these cookies in one location, at the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
