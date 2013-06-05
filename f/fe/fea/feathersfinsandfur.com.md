@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feathersfinsandfur.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628193443id_/http%3A//wasabiventures.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feathersfinsandfur.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605092901id_/http%3A//wasabiventures.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Wasabi Ventures, LLC. Privacy Policy
 
