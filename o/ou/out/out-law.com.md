@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121213745id_/http%3A//www.out-law.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605102518id_/http%3A//www.out-law.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -66,7 +66,7 @@ Cookies are small text files that can be used by web sites to make a user's expe
 
 We use Google Analytics, a popular web analytics service provided by Google, Inc. **Google Analytics uses cookies** to help us to analyse how users use the site.
 
-**[Learn more](https://web.archive.org/legal-notices/how-out-law-uses-cookies-on-its-sites/) **about our use of cookies. 
+**[Learn more](https://web.archive.org/cookie-settings/) **about our use of cookies. 
 
 Back to top
 
