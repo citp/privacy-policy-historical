@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the binkd.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112011139id_/http%3A//www.binkd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binkd.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605081918id_/http%3A//www.binkd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | binkd
+# Privacy Policy - Binkd
 
 1\. Sites covered by this Privacy Statement This Privacy Statement applies to all Binkd-owned websites and domains, and our wholly owned subsidiaries (“Binkd websites.”) Links to non-Binkd websites The Binkd websites may provide links to third-party websites for your convenience and information. If you access those links, you will leave the Binkd website. Binkd does not control those sites or their privacy practices, which may differ from Binkd’s. We do not endorse or make any representations about third-party websites. The personal data you choose to give to unrelated third parties is not covered by the Binkd Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal information. Some third-party companies may choose to share their personal data with Binkd; that sharing is verned by that third-party company’s privacy policy.
 
