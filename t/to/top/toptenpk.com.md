@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptenpk.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226015959id_/http%3A//toptenpk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenpk.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606013021id_/http%3A//toptenpk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top Ten Lists or Best Top 10 Lists at TopTenpk.com
 
