@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sabhot.com privacy policy that was archived on 2012-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120804163303id_/http%3A//www.sabhot.com/p/privacy-policy_02.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabhot.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605143449id_/http%3A//www.sabhot.com/p/privacy-policy_02.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ Sabhot
+# Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [sabhot.com@gmail.com](mailto:sabhot.com@gmail.com) . 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [_sabhot.com@gmail.com_](mailto:sabhot.com@gmail.com) . 
 
-At sabhotcom, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by sabhot.com and how it is used. 
+At **_sabhot.com_** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by sabhot.com and how it is used. 
 
 **Log Files**
 
@@ -18,11 +18,11 @@ Like many other Web sites, sabhot.com makes use of log files. The information in
   * 
 
 
-sabhot.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+_sabhot.com_ does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-**These third-party ad servers** or ad networks use technology to the advertisements and links that appear on sabhot.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+**These third-party ad servers** or ad networks use technology to the advertisements and links that appear on _sabhot.com_ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-sabhot.com has no access to or control over these cookies that are used by third-party advertisers. 
+_sabhot.com_ has no access to or control over these cookies that are used by third-party advertisers. 
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. sabhot.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
