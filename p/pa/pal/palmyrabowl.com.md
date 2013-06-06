@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palmyrabowl.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124233923id_/http%3A//www.palmyrabowl.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmyrabowl.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606193654id_/http%3A//www.palmyrabowl.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Palmyra Bowling | Privacy Policy
 
