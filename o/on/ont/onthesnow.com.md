@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onthesnow.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217023639id_/http%3A//www.onthesnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthesnow.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606045012id_/http%3A//www.onthesnow.com/privacy) for the most accurate reproduction.*
 
-# 
+# Ski & Snow Report, Ski Deals, Skiing Reviews | OnTheSnow.com
 
 Mountain News Corporation is strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality publications and services to them. Because we gather certain types of information about and from users so that we can fulfill your requests and better serve your needs, we feel you should fully understand the terms and conditions surrounding the collection and use of this information. This privacy statement discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us online. We urge you to read the complete Online Privacy Policy below, as well as our Terms and Conditions of Use, and contact us if you have any questions, but offer this short summary to highlight key points.
 
