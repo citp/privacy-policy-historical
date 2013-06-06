@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the eyeos.org privacy policy that was archived on 2012-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120808053910id_/http%3A//www.eyeos.org/eyeos-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeos.org privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606121907id_/http%3A//www.eyeos.com/eyeos-privacy-policy) for the most accurate reproduction.*
 
 # eyeOS Privacy Policy - eyeOS
 
 Click to Print This Page  
-eyeOS S.L. (“eyeOS” or “We/us”) is committed to protecting the privacy of all the general and registered users (“you” or “user”) of the website at www.eyeos.org (“website”). This Privacy Policy explains our practices regarding the use of personal data collected and processed through our website.  
+eyeOS S.L. (“eyeOS” or “We/us”) is committed to protecting the privacy of all the general and registered users (“you” or “user”) of the website at www.eyeos.com (“website”). This Privacy Policy explains our practices regarding the use of personal data collected and processed through our website.  
 By using our website and services, and in particular by providing your personal information on registration or contacting us for any reason, you explicitly accept this Privacy Policy and You provide us with full consent to the collection, storage and processing of your personal data in accordance with the terms set out in this policy, including the sending of electronic communications.  
 We may amend this Privacy Policy as required to adapt it to future legislative or case law developments. We will notify you by posting a clear notice of these changes on our websites and in this Privacy Policy.  
 Unless a specific local regulation sets forth to the contrary, the Privacy Policy is governed by the laws of Spain.
@@ -34,7 +34,7 @@ We treat your personal data with strict confidentiality in accordance with appli
 If you have access to personal data of other Users or persons, you agree to process and use the data in accordance with these terms and only for the explicit purposes of the Services, or otherwise with the consent of the User. You will not submit or publish any personal data relating to any individual that has not been authorized by that person or this Policy. You will protect the confidentiality of any accessible personal data and prevent access by any unauthorized third person. You will inform us within 24 hours about any problem arisen in relation with user data management. You will be responsible for any illegal use by you of other Users’ data, including any use contrary to the applicable data protection laws and/or in violation this Privacy Policy. 
 
 _**Commercial Communications**_  
-By filling in and sending your data to us, you expressly consent to receive commercial communications regarding the subject matter of the website and other services in accordance to applicable law, including alerts, notices, newsletters, offers and promotions. If you do not wish to receive information from this Website you can expressly opt out by sending a notification to info@eyeos.org. 
+By filling in and sending your data to us, you expressly consent to receive commercial communications regarding the subject matter of the website and other services in accordance to applicable law, including alerts, notices, newsletters, offers and promotions. If you do not wish to receive information from this Website you can expressly opt out by sending a notification to info@eyeos.com. 
 
 ### C. Data Security
 
@@ -59,7 +59,7 @@ Due to the communications standards on the internet, when you visit the our webs
 
 ### F. User Rights
 
-You have the right to access, rectify, erase, block and oppose any processing of their personal data. Moreover, you may at any time withdraw your consent to the processing of their personal data and information. This withdrawal will not have retroactive effects but may prevent providing the Services. The above is without prejudice to provisions of Spanish applicable law enabling conservation of data for the purpose of defending our responsibility and complying with mandatory legal obligations. The aforementioned rights may be effective by contacting us at info@eyeos.org or at las Ramblas, 140 4C 08002 Barcelona, Spain. 
+You have the right to access, rectify, erase, block and oppose any processing of their personal data. Moreover, you may at any time withdraw your consent to the processing of their personal data and information. This withdrawal will not have retroactive effects but may prevent providing the Services. The above is without prejudice to provisions of Spanish applicable law enabling conservation of data for the purpose of defending our responsibility and complying with mandatory legal obligations. The aforementioned rights may be effective by contacting us at info@eyeos.com or at las Ramblas, 140 4C 08002 Barcelona, Spain. 
 
 ### G. User Consent
 
@@ -70,6 +70,3 @@ By completing the Website forms and submitting your personal data, you declare t
 • the communication of the data to other site Users outside the European Economic Area at the request of the User.  
 Your consent to personal data collection and processing may be revoked, without retroactive effects, in accordance to Sections 6 and 11 of Spanish Data Protection Law 15/1999.  
 Version: 1.0. Date: 14 September 2011. 
-
-© 2012 eyeOS S.L. Address: La Rambla 140, 4C. 08002 - Barcelona / [Terms of Service](https://web.archive.org/web/20120808053910id_/http%3A//www.eyeos.org/eyeos-terms-of-service) \- [Privacy Policy](https://web.archive.org/web/20120808053910id_/http%3A//www.eyeos.org/eyeos-privacy-policy)  
-
