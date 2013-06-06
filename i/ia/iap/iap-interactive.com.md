@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the iap-interactive.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130100936id_/http%3A//www.iap-interactive.com/PrivacyPolicy/tabid/147/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iap-interactive.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606050125id_/http%3A//www.iap-interactive.com/PrivacyPolicy/tabid/147/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Untitled Document
 
 ## How we use your information
 
@@ -93,7 +91,7 @@ When you leave the panel, are removed, or the panel is closed, we will delete al
 
 ## 7\. How can you get access to your information and/or correct it?
 
-You have the right to request a copy of all the information we hold about you. If you would like a copy of some or all of your personal information please contact our Data Protection Department. They can be contacted by 
+You have the right to request a copy of all the information we hold about you. If you would like a copy of some or all of your personal information please contact our Data Protection Department. They can be contacted by
 
 Email sent to: [data.protection@ipsos-online.com](mailto:data.protection@ipsos-online.com)
 
