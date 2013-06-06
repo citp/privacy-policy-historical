@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the hintsandthings.co.uk privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919230105id_/http%3A//www.hintsandthings.co.uk/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hintsandthings.co.uk privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606043822id_/http%3A//hintsandthings.co.uk/Privacy.htm) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy - www.hintsandthings.com
+# Privacy and Cookie Policy for www.hintsandthings.com
 
 **
 
 * * *
-
-**PRIVACY AND COOKIE POLICY**
 
 At www.hintsandthings.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.hintsandthings.com and how it is used. 
 
@@ -69,11 +67,13 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at june@hintsandthings.com. 
 
+****
+
+**June Jackson**
+
 * * *
 
-June Jackson
-
-Copyright 2000-2012 Hints and Things  
+Copyright 2000-2013 Hints and Things  
 All Rights Reserved.
 
 No portion of this site may be reproduced or redistributed without prior written permission from Hints and Things. All trademarks & copyrights throughout Hints and Things remain the property of their respective owners.
