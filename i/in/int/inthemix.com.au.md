@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inthemix.com.au privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227161222id_/http%3A//www.inthemix.com.au/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inthemix.com.au privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606045437id_/http%3A//www.inthemix.com.au/about/privacy-statement) for the most accurate reproduction.*
 
 # About inthemix.com.au
 
@@ -29,8 +29,9 @@ inthemix.com.au may change its Privacy Policy at any time. inthemix.com.au will 
 
 
 
+
+
+
 ###### Facebook user?
 
 You can use your Facebook account to signup and login to the inthemix site. It's quick and easy. Just hit the button below and follow the prompts.
-
-Facebook Connect
