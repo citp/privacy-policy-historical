@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigproductstore.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225215108id_/http%3A//bigproductstore.com/content/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigproductstore.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606045923id_/http%3A//bigproductstore.com/content/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | BigProductStore
 
@@ -19,3 +19,9 @@ Opt-out instruction: If you choose not to receive any further newsletter or comm
 ### IP Address and logging
 
 Our web site will collect details such as IP address, time you visit our site, referring web site and etc. These details are used solely for site statistic and fraud prevention purposes.
+
+### Google Retargetting Advertisement
+
+BigProductStore.com use Google remarketing advertising program to retarget visitors that visited BigProductStore.com. Thus, BigProductStore.com pages are all attached with Google cookies code. Google as a third party will use these cookies that stored in your computer to show our ads on different sites across the internet if Google see it as relevant. The ads will only be shown on website that opt in for Google publisher program.
+
+If you wish to opt out of Google's use of these cookies, you can visit the Ads Preferences manager in your Google account to opt out to pevent Google use of these cookies.
