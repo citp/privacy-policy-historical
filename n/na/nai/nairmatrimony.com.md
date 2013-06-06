@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nairmatrimony.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205085531id_/http%3A//www.nairmatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nairmatrimony.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606072707id_/http%3A//www.nairmatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Nair Matrimony, Matrimony, Indian Matrimony
 
