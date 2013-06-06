@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jpcycles.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203164955id_/http%3A//www.jpcycles.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpcycles.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606072403id_/http%3A//www.jpcycles.com/home/privacy) for the most accurate reproduction.*
 
 # J&P Cycles | Our Security and Privacy Policy
 
 ## Questions?
 
 **Contact Us:**  
-J&P Cycles®  
+J&P Cycles  
 13225 Circle Drive PO Box 138  
 Anamosa, IA  
 52205 
