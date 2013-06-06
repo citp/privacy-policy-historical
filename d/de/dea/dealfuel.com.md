@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealfuel.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205145638id_/http%3A//dealfuel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealfuel.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606130951id_/http%3A//dealfuel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DealFuel - DealFuel
 
@@ -31,7 +31,7 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
   * Third party vendors, including Google, show our ads on sites on the internet.
   * Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website.
-  * You have the option to opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).  Alternatively you can opt out – opt out of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
+  * You have the option to opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).  ??Alternatively you can opt out – opt out of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 
 
@@ -61,4 +61,4 @@ This policy was last modified on **31 Jan 2012**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
- **[support@dealfuel.com](mailto:ssupport@dealfuel.com)**
+**[support@dealfuel.com](mailto:ssupport@dealfuel.com)**
