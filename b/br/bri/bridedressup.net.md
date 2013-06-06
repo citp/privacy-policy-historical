@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridedressup.net privacy policy that was archived on 2012-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120829130949id_/http%3A//www.bridedressup.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridedressup.net privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606110739id_/http%3A//bridedressup.net/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY -
 
