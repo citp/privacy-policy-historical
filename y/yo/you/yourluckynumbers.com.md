@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the yourluckynumbers.com privacy policy that was archived on 2012-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120707024802id_/http%3A//yourluckynumbers.com/Privacy-Policy/1_186_menu%3D3_object%3D519.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourluckynumbers.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606061158id_/http%3A//yourluckynumbers.com/Privacy-Policy/1_186_menu%3D3_object%3D519.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Your Lucky Numbers
-
-[ ](http://9b85fnhzrahf3x953sucfh0855.hop.clickbank.net/?tid=YLNi123513E)
-
-[ ](http://affiliate.ttmtracker.com/rd/r.php?sid=1449&pub=545063&bid=4187&c1=YLNi2549744)
 
 | 
 
@@ -90,7 +86,7 @@ If you have any questions regarding this statement, or would like more informati
 
 Copyright © 2011 YourLuckyNumbers.com - All Rights Reserved. For Entertainment Purposes Only.
 
-[ ](http://signup.yourluckynumbers.com/?sub=20&prt=3)
+[ ](http://signup.yourluckynumbers.com/?sub=20&prt=2)
 
 |   
 ---|---|---
