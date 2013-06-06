@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinocitytimes.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116160922id_/http%3A//www.casinocitytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinocitytimes.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606061013id_/http%3A//www.casinocitytimes.com/privacy) for the most accurate reproduction.*
 
 # Casino City Times - Privacy Policy
 
