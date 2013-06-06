@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoescribe.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106233714id_/http%3A//www.shoescribe.com/legal.asp%3FpageName%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoescribe.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606053841id_/http%3A//www.shoescribe.com/legal.asp%3FpageName%3DprivacyPolicy) for the most accurate reproduction.*
 
 # 
 
@@ -24,8 +24,24 @@ The above-mentioned data processors have been chosen by YOOX USA because of thei
 
 The following is a list of the companies primarily involved in the processing of personal data of users and customers of the US Site: 
 
-when you register your birth date for the “Cinderella for the day”, service, we process your personal data in order to send you a free birthday gift;   
-\- with regards to the Private Line Service, your telephone number and other personal data will be processed, in order to give you direct assistance from our Customer Care send you information regarding the availability of items you have indicated. 
+  * [United Parcel Service S.p.A.("UPS")](http://www.ups.com/). We provide UPS, by electronic means, with customers' addresses and other personal data for the purpose of shipping, delivering and returning products purchased on the US Site; 
+  * BT Italia S.p.A. We provide BT Italia, by electronic means, with personal data contained in registration or order forms for purposes relevant to the housing of our servers; 
+  * [YOOX Italy](http://www.shoescribe.com/). We provide YOOX Italy with personal data of users and customers for purposes related to direct marketing services of YOOX USA and in connection with other services provided by YOOX Italy to YOOX USA, such as call center and help desk services.   
+Please [contact our Customer Care](http://help.shoescribe.com/system/web/custom/hp/email.jsp) or send us an e-mail at [privacy@shoescribe.com](mailto:privacy@shoescribe.com) if you would like to receive a full list of our data processors.
+ ****
+
+
+ **3\. HOW DO WE USE PERSONAL DATA AND FOR WHAT PURPOSES**
+
+Your personal data is collected and processed by YOOX USA for purposes which are strictly connected to the use of the US Site, its services and the purchase of products on the US Site. However, your personal data may also be used for other processing operations within the limits of such purposes. In particular, your personal data may be processed for the following purposes: 
+  * when you register with the US Site we collect your personal data (for example, your personal information, userID and password, e-mail address, gender, favorite designer) through the relevant registration form (My Account) in order to provide you with services in reserved access areas of the US Site and in order to send you our newsletters, when specifically requested; 
+  * when you request **Customer Care** services, we collect your personal data (for example, your userID and password) for purposes strictly necessary to provide you with customer care services relevant to the US Site and to the purchase of products on the US Site; 
+  * when you are executing purchasing procedures for products sold on the US Site, including conclusion of an agreement for the purchase of products, we collect your personal data (for example, personal information, e-mail address, address, credit card numbers, bank account number and telephone number) on your order form only for the purpose of selling the products ordered by you; 
+  * payments, including anti-fraud checks for credit card payments; in this case, the data provided during the order process (first name, surname, address, credit card number, delivery address if different from billing address) will be sent to the supervisor responsible for anti-fraud control, ThreatMetrix Inc., located in the U.S., and will be processed strictly for that purpose (see also the section "Data supervisors"); 
+  * when you request technical assistance, we collect your personal data in order to provide you with information on net-surfing, Internet browsing or viewing and downloading web pages; 
+  * when you register your birth date for the “Cinderella for the day”, service, we process your personal data in order to send you a free birthday gift;   
+\- with regards to the Private Line Service, your telephone number and other personal data will be processed, in order to give you direct assistance from our [Customer Care](http://help.shoescribe.com/system/web/custom/hp/homepage/homepage.jsp?confId=1003) send you information regarding the availability of items you have indicated. 
+
 
 
 Your personal data is generally processed by electronic means; however, in certain circumstances, paper-based means may be used (for example, when the processing of your personal data is required for the prevention of fraud against us). 
@@ -122,7 +138,9 @@ Moreover, you are entitled to receive from YOOX USA information on the source fr
 
 You are entitled to obtain at any time from YOOX USA:
 
-a) the updating, rectification or integration of your personal data; b) the deletion, transformation into anonymous form or blocking of your personal data, which is processed in violation of the law, including when the storage of data is not necessary for the purposes for which it has been collected and subsequently processed; 
+a) the updating, rectification or integration of your personal data; 
+
+b) the deletion, transformation into anonymous form or blocking of your personal data, which is processed in violation of the law, including when the storage of data is not necessary for the purposes for which it has been collected and subsequently processed; 
 
 c) the confirmation that the operations under letters a) and b) have been reported to whom the data was disclosed or disseminated, except when it becomes impossible to do so or if it means exceeding the protection of the right you are claiming. 
 
