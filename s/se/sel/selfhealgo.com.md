@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the selfhealgo.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124063951id_/http%3A//www.selfhealgo.com/about-tom/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfhealgo.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606020401id_/http%3A//www.selfhealgo.com/about-tom/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SelfHealGo.com
+# Privacy Policy | Scalar Energy Healing
 
 Privacy Policy for **http://www.selfhealgo.com**
 
