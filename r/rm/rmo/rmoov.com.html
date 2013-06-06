@@ -1,15 +1,19 @@
-<!--The following is the downloaded HTML source of the rmoov.com privacy policy that was archived on 2012-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121207111500id_/http%3A//www.rmoov.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rmoov.com privacy policy that was archived on 2013-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606121149id_/http%3A//www.rmoov.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="format-detection" content="telephone=no">
 <title>RMOOV - We help you cleanup your backlinks</title>
 <meta name="keywords" content="Backlinks, Profile, Website Links">
 <meta name="description" content="We help you cleanup your backlinks">
 <link href="/style.css" rel="stylesheet" type="text/css">
+<link href="/billboard.css" rel="stylesheet" type="text/css">
+
 <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/ajax.js"></script>
 <script type="text/javascript" src="/ajax-dynamic-list2.js"></script>
 <script type="text/javascript" src="/rmoovaction.js"></script>
+<script type="text/javascript" src="/billboard.js"></script>
 
 <script type="text/javascript" src="/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="/jquery-ui-1.8.6.min.js"></script>
@@ -72,6 +76,14 @@ return true ;
 else
 return false ;
 }
+function confirmMsg( strMSG )
+{
+var agree=confirm(strMSG);
+if (agree)
+return true ;
+else
+return false ;
+}
 // -->
 </script>
 
@@ -99,16 +111,21 @@ return false ;
 		<input type="text" size="12" name="username" value="" placeholder="Username">
                 &nbsp;
 		<input type="password" size="12" name="password" value="" placeholder="Password">
-		<input type="checkbox" name="remember_me" value="1">Remember 
+		<input type="checkbox" name="remember_me" value="1"><font size="-1" class="white">Remember</font>
                 &nbsp;
                 <input type="submit" value="Login">
 		</fieldset>
-                <a href="/register.php">Register for an Account</a>
-                &nbsp;&nbsp;&nbsp;
-                <a href="/forgot-password.php">Forgot your Password</a>
+                <font size="-1">
+                <a class="white" href="/register.php">Register for an Account</a>
+                &nbsp;&nbsp;
+                <a class="white" href="/forgot-password.php">Forgot your Password</a>
+                </font>
         	</form>
+<div id="workshop">
+   <a href="http://rmoov.eventbrite.com/"><img src="/images/eventbrite.png" width="160px"></a>
+</div>
         <img src="/images/eraser-man.png" alt="rmoov Backlink Removal Tool">
-	<h1><a href="http://www.rmoov.com/index.php">RM<span>oov</span></a></h1>
+	<h1><a class="bluegrey" href="http://www.rmoov.com/index.php">RM<span>oov</span></a></h1>
 	<h2>We help get your backlinks cleaned up</h2>
 
 </div>
@@ -146,11 +163,21 @@ return false ;
 					<li><a href="/about-rmoov-link-removal-tool.php">about rmoov</a></li>
 					<li><a href="/managing-link-removal-campaigns.php">manage your campaigns</a><a href="/default.php"></a></li>
 					<li><a href="/rmoov-features-and-pricing.php">features &amp; pricing</a><a href="/default.php"></a><a href="/default.php"></a></li>
-					<li><a href="/rmoov-info-for-referring-webmasters.php">rmoov for webmasters</a></li>
 					<li><a href="http://www.rmoov.com/rmoov-launches-disavow-links-feature-for-google-webmasters.php">disavowing links</a></li>
 					<li><a href="/help/knowledgebase.php">rmoov knowledgebase</a></li>
 				</ul>
 			</li>
+			<li>
+				<h2>rmoov for webmasters</h2>
+				<ul>
+					<li><a href="/rmoov-webmaster-verified.php">verified domains</a></li>
+					<li><a href="/wordpress-plugin-rmoov-link-removal.php">wordpress plugin</a></li>
+					<li><a href="/webmasterapi.txt" target="_blank">rmoov api</a></li>
+					<li><a href="/rmoov-webmaster-pricing.php">features &amp; pricing</a></li>
+					<li><a href="/rmoov-letter-to-webmasters.php">rmoov for webmasters</a></li>
+                                        <li><a href="/webmaster_register.php">signup for a webmaster account</a>
+                                </li></ul>
+		        </li>
 			<li>
 				<h2>helpful tools</h2>
 				<ul>
@@ -164,6 +191,7 @@ return false ;
 			<li>
 			  <h2>resources</h2>
               <ul>
+                <li><a href="/google-reconsideration-request-checklist.php">Reconsideration Request Checklist</a></li>
                 <li><a href="http://www.seogadget.co.uk/bad-backlink-checking/">Bad backlink checking - SEOgadget</a></li>
                 <li><a href="http://www.seomoz.org/blog/link-profile-tool-to-discover-linking-activity">Uncovering  link activity - SEOmoz</a></li>
                 <li><a href="http://www.seomoz.org/blog/identifying-link-penalties-in-2012">Identifying Link Penalties - SEOmoz</a></li>
@@ -188,17 +216,40 @@ return false ;
               </blockquote>
 			</li>
 		</ul>
-            <h2><a href="http://twitter.com/#!/rmoov">rm<span>oov</span> Tweets</a></h2>
+            <h2><a href="http://twitter.com/rmoov">rm<span>oov</span> Tweets</a></h2>
             <!-- .news -->
-            <ul class="news">
-            </ul>
+            
+<ul class="news">
+            Manual penalty revoked! *happy dance*<br><br>
+        ANNOUNCING Huge Savings for our Enterprise &amp; Enterprise+ Subscribers! #<a href="http://search.twitter.com/search?q=%23linkremoval">linkremoval</a> classes are on Us! More here <a href="http://t.co/HV39U6DnD5">http://t.co/HV39U6DnD5</a><br><br>
+        Massive Announcement coming in 1 hour @<a href="http://www.twitter.com/rmoov">rmoov</a>!!!!<br><br>
+        @<a href="http://www.twitter.com/KRHemani">KRHemani</a> :)<br><br>
+        @<a href="http://www.twitter.com/KRHemani">KRHemani</a> OK. Hope they can resolve it for you. It's a great post<br><br>
+        @<a href="http://www.twitter.com/KRHemani">KRHemani</a> Hmmm...it is internetmarketingninjas dot com /blog ...maybe try typing in?<br><br>
+        @<a href="http://www.twitter.com/KRHemani">KRHemani</a> ooops...seems to work for me here ...can you see this one? <a href="http://t.co/Xx2e7jFA9I">http://t.co/Xx2e7jFA9I</a><br><br>
+        @<a href="http://www.twitter.com/joehall">joehall</a> Just made your life easier with 5 Alternative Free Backlink Analysis Tools: <a href="http://t.co/pM4pXxpVwz">http://t.co/pM4pXxpVwz</a>  Thanks Joe!<br><br>
+        PRO TIP for Webmasters: If you serve a 410 error <a href="http://t.co/3Hr3Hzuoyn">http://t.co/3Hr3Hzuoyn</a> it's easy for those requesting #<a href="http://search.twitter.com/search?q=%23linkremoval">linkremoval</a> to know the link is gone<br><br>
+        PROTIP: A less than friendly email does not demand a response in kind. Be nice. Even if you're rebuffed, you'll feel better for being better<br><br>
+    </ul>
+
             <!-- /.news -->
 		<div style="clear: both;">&nbsp;</div>
 	</div>
 	<!-- end sidebar -->
 </div>
 <div id="footer">
-	<p id="legal">rmoov© 2012 All Rights Reserved. | <a href="/privacy.php">Privacy</a> | <a href="/terms.php">Terms</a></p>
+	<p id="legal">rmoov© 2012 All Rights Reserved. | <a href="/contact-rmoov.php">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy.php">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/terms.php">Terms</a></p>
+                                <center>
+				<table width="136px" border="0" cellspacing="2" cellpadding="2">
+				  <tbody><tr>
+				    <td width="34px" align="center"><a href="http://twitter.com/rmoov"><img src="images/Twitter (2).png" width="32" height="32" alt="follow @rmoov on twitter"></a></td>
+				    <td width="34px" align="center"><a href="https://plus.google.com/u/0/b/111262995792470951655/111262995792470951655/posts"><img src="images/g+.png" width="32" height="32" alt="talk about link removal on google plus"></a></td>
+				    <td width="34px" align="center"><a href="http://www.reddit.com/"><img src="images/reddit.png" width="32" height="32" alt="share rmoov on reddit"></a></td>
+				    <td width="34px" align="center"><a href="http://www.youtube.com/user/BFDesignStudio"><img src="images/youtube.png" width="32" height="32" alt="watch videos to see how rmoov helps you remove links"></a></td>
+			          </tr>
+			        </tbody></table>
+                                </center>
+
 </div>
 
 
