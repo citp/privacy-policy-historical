@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodnews.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229204724id_/http%3A//www.hollywoodnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodnews.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606222718id_/http%3A//www.hollywoodnews.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY | HollywoodNews.com
 
@@ -73,5 +73,5 @@ Legal Matters
 HollywoodNews.com  
 433 N. Camden Drive, Suite 600  
 Beverly Hills, CA 90210  
-[info@hollywoodnews.com](https://web.archive.org/web/20121229204724id_/http%3A//www.hollywoodnews.com/mail%20to:info@hollywoodnews.com)  
+[info@hollywoodnews.com](https://web.archive.org/web/20130606222718id_/http://www.hollywoodnews.com/privacy/mail%20to:info@hollywoodnews.com)  
 Phone: 310-887-1444 – Fax: 310-288-0060
