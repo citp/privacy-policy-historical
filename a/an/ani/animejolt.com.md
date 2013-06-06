@@ -1,26 +1,29 @@
-> *The following text is extracted and transformed from the animejolt.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423052018id_/http%3A//www.animejolt.com/2008/11/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animejolt.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606033517id_/http%3A//www.animejolt.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Anime Jolt
+# Privacy Policy | Watch Anime Episodes Online Streaming Subbed & Dubbed
 
-  
-Privacy Policy for www.animejolt.com
+AnimeJolt is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@bleach-heaven.net.
+### **How we collect and use personal information**
 
-At www.animejolt.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.animejolt.com and how it is used.
+Commenting on episodes at AnimeJolt does require you provide your name and email.
 
-Log Files  
-Like many other Web sites, www.animejolt.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+We offer links to other Web sites. Please note: When you click on links to other Web sites, we encourage you to read their privacy policies. Their standards may differ from ours.
 
-Cookies and Web Beacons  
-www.animejolt.com does not use cookies.
+How we protect your personal information
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Widget Bucks, .
+All personal data you enter on AnimeJolt is stored on our secure server protected by hardware and software firewalls at a limited access datacenter.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.animejolt.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+### **How we use “cookies”**
 
-www.animejolt.com has no access to or control over these cookies that are used by third-party advertisers.
+“Cookies” are small pieces of information that some Web sites store on your computer’s hard drive when you visit them. Like many other Web sites, AnimeJolt uses cookies to identify members so they don’t have to enter a user ID and password upon each visit. Most Web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. Even if you do not use cookies, you can still access all of the features on our site by logging in manually with each visit.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.animejolt.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+### **What we provide to third parties**
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+While AnimeJolt does not provide any third-party access to your personal information, we may provide third parties with aggregate statistics about our customers, traffic patterns, and related site information. This data reflects site usage patterns gathered during thousands of customer visits to our Web site each month, but it does not contain behavioral or identifying information about any individual member.
+
+AnimeJolt uses third-party advertising companies to serve ads when you visit our site. This company may use information about your visits to our and other Web sites in order to provide advertisements about goods and services of interest to you. In addition, we share Web site usage information about visitors to our site with these companies for the purpose of managing and targeting advertisements on our sites. For this purpose, we and our third-party advertising companies note some of the pages you visit on our sites through the use of pixel tags (also called “clear gifs”). In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser’s cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising.
+
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+If you feel that this site is not following its stated information policy, you may contact us.
