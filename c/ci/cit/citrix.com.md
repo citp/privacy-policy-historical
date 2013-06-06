@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the citrix.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229221902id_/http%3A//www.citrix.com/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citrix.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607014456id_/http%3A//citrix.com/about/legal/privacy.html) for the most accurate reproduction.*
 
-# Citrix - Privacy Policy
+# Privacy Policy - Citrix
 
-Citrix respects your privacy and is committed to protecting the personal information you share with us.
-
-This Privacy Policy describes how Citrix collects and uses your personal information to provide products, services and information that you request or when you choose to provide us with your personal information.
+Citrix respects your privacy and is committed to protecting the personal information you share with us. This Privacy Policy describes how Citrix collects and uses your personal information to provide products, services and information that you request or when you choose to provide us with your personal information.
 
 #### Scope
 
-This Privacy Policy applies to Citrix worldwide (including its divisions and wholly-owned subsidiaries, but excluding ShareFile and Citrix Online division).
+This Privacy Statement covers privacy practices for [www.citrix.com](https://web.archive.org/content/citrix/en_us.html), as well as Citrix’s mobile applications listed below. When visiting web sites of Citrix divisions or its wholly-owned subsidiaries, please review the applicable privacy policies disclosed on those sites.
 
 #### Personal Information
 
@@ -57,7 +55,11 @@ Citrix may send your personal information to other companies or people under any
 
 
 
-We reserve our right to disclose your personal information to a third party if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) comply with any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Legal Notice and Terms of Use, including investigation of potential violations thereof, © detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Citrix, its users or the public as required or permitted by law.
+We reserve our right to disclose your personal information to a third party if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) comply with any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Legal Notice and Terms of Use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Citrix, its users or the public as required or permitted by law.
+
+#### Mobile Applications
+
+Citrix XenMobile applications may collect personally identifiable information, geo-location data or personal usage statistics on behalf of our XenMobile MDM customers. For specific information on your company’s mobile device management data practices and policy, please contact your company’s mobile device Administrator. Citrix only receives aggregated and anonymous download and mobile application usage statistics for purposes of analysis. We do not correlate this information with personally identifiable data about individual end users. Citrix XenMobile mobile applications do not utilize third party web analytical tools. The XenMobile MDM solution is delivered as either an on-premise mobile device management server or a cloud solution. For the Citrix hosted cloud solution, Citrix will only view end-user data as necessary to support maintenance operations of the service or for the purpose of anticipating, diagnosing or resolving any problems that might limit or disrupt the quality of our customers’ experience.
 
 #### Cookies and Other Tracking Technologies
 
@@ -67,7 +69,7 @@ If you prefer not to receive cookies while browsing our website or via HTML-form
 
 #### Your Ability to Access or Change Your Information
 
-If you are a registered user or have been named as a “Contact” for a company (including but not limited to companies acting as our end users or partners), you can review your personal information and make change requests by accessing [My Citrix](http://www.citrix.com/English/mycitrix/index.asp). While you are named as the “Contact” for a particular company, Citrix will direct to you many of the correspondences for such company. If you do not wish to receive further business correspondence for and on behalf of your company, you may change the “Contact” to another individual upon consultation with your company. In the alternative, if you do not wish to receive further direct marketing materials, you may “unsubscribe” the relevant marketing materials. If you are no longer the “Contact” for a particular company, we will retain in our files some personal information to prevent fraud, resolve disputes, troubleshoot problems, enforce our Legal Notice and Terms of Use, respect your opt-out preferences, and comply with legal requirements as permitted by law.
+If you are a registered user or have been named as a “Contact” for a company (including but not limited to companies acting as our end users or partners), you can review your personal information and make change requests by accessing [My Account](https://web.archive.org/account.html). While you are named as the “Contact” for a particular company, Citrix will direct to you many of the correspondences for such company. If you do not wish to receive further business correspondence for and on behalf of your company, you may change the “Contact” to another individual upon consultation with your company. In the alternative, if you do not wish to receive further direct marketing materials, you may “unsubscribe” the relevant marketing materials. If you are no longer the “Contact” for a particular company, we will retain in our files some personal information to prevent fraud, resolve disputes, troubleshoot problems, enforce our Legal Notice and Terms of Use, respect your opt-out preferences, and comply with legal requirements as permitted by law.
 
 #### Personal Information Security
 
@@ -93,5 +95,9 @@ Citrix will amend this Privacy Policy from time to time. If we make any substant
 
 #### Questions or Suggestions
 
-If you have questions or concerns about our collection, use, or disclosure of your personal information, please [contact us](http://deliver.citrix.com/go/citrix/privacyinquiry).  
+If you have questions or concerns about our collection, use, or disclosure of your personal information, please [contact us](http://deliver.citrix.com/go/citrix/privacyinquiry).
 
+**Citrix Systems, Inc.**  
+851 West Cypress Creek Road  
+Fort Lauderdale, FL 33309  
+[privacy@citrix.com](mailto:privacy@citrix.com)
