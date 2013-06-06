@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the epw.in privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203193315id_/http%3A//www.epw.in/node/14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epw.in privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606030905id_/http%3A//www.epw.in/node/14) for the most accurate reproduction.*
 
 # Privacy Policy | Economic and Political Weekly
 
-**Privacy policy**
+[Print](http://www.epw.in/print/14 "Display a printer-friendly version of this page.")[Email](http://www.epw.in/printmail/14 "Send this page by email.")
+
+ **Privacy policy**
 
 Economic and Political Weekly (EPW) is committed to protecting the privacy of visitors to the website. Economic and Political Weekly supports enhanced protections for all consumers' electronic and internet privacy. In general Economic and Political Weekly treats your contact information as private and confidential. We will not give, sell, rent, exchange or otherwise provide your information with anyone else without your prior consent except when compelled by law (see the final section).
 
