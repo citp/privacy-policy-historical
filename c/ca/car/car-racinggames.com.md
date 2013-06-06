@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the car-racinggames.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231032814id_/http%3A//www.car-racinggames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the car-racinggames.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606073224id_/http%3A//www.car-racinggames.com/privacy.html) for the most accurate reproduction.*
 
-# Car-RacingGames Privacy Police - Car Racing Games
+# Car-RacingGames Privacy Policy - Car Racing Games
 
 Car-RacingGames is serious to regard the privacy of Internet users, because our business success depends upon our ability to maintain the trust of our users. 
 
@@ -9,7 +9,7 @@ When a visitor requests pages from Car-RacingGames.com site, our Web servers aut
 **Cookies**  
 A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Some of our partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. Please refer to the privacy policies of the network for details. 
 
-**E-mail Privacy Police**  
+**E-mail Privacy Policy**  
 Car-RacingGames maintains a strict "no-spam" policy. If you sign up for our free newsletter, your e-mail address will "not" be sold or given to any third party. If you have any questions or concerns, please contact us via email at: CarRacingGames(at)gmail.com. 
 
 If you have any concern about our products or website's privacy policies, please do not hesitate to contact us. We read every message submitted and try to reply to every one promptly. We may also file your comments to improve the program and site.
