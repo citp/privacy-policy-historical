@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the audentio.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014135304id_/http%3A//www.audentio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audentio.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606102715id_/http%3A//www.audentio.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Audentio Design
+# Privacy Policy | Audentio Design
 
 Audentio Design of Audentio.com operates this web site. Audentio Design regards the privacy and security of user information as a critical component of the service that we offer to our users. The following information explains our information gathering and dissemination practices.
 
