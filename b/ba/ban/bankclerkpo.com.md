@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bankclerkpo.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219195119id_/http%3A//bankclerkpo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankclerkpo.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606222705id_/http%3A//bankclerkpo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | IBPS Clerk Exam 2012 Preparation
+# Privacy Policy | SBI PO 2013 | IBPS PO 2013 Online Exam
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -24,3 +24,5 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of BankClerkPO.Com then you may [contact us](http://bankclerkpo.com/contact-us/ "contact us") at admin@bankclerkpo.com
 
 Last updated Mon, 01 Oct 2012 08:26
+
+comments
