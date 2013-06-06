@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the burnaware.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206052833id_/http%3A//www.burnaware.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burnaware.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606123012id_/http%3A//burnaware.com/privacy.html) for the most accurate reproduction.*
 
-# Burnaware | Privacy Policy
+# Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin@burnaware.com](mailto:admin@burnaware.com).
 
@@ -28,7 +28,7 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 _While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
 You may consult this listing to find the privacy policy for each of the advertising partners of www.burnaware.com._
 
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.burnaware.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. 
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.burnaware.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. 
 
 www.burnaware.com has no access to or control over these cookies that are used by third-party advertisers. 
 
