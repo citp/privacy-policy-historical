@@ -1,27 +1,53 @@
-> *The following text is extracted and transformed from the hdwallpapersarena.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201055420id_/http%3A//www.hdwallpapersarena.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpapersarena.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606093154id_/http%3A//www.hdwallpapersarena.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy – HDWallpapersArena.com**
 
-At HDWallpapersArena.com, we honor the privacy of our website visitors. Therefore the website’s privacy policy is very thorough and strict to ensure maximum confidentiality for the users. In our privacy policy we clearly state the information we collect regarding a visitor when they visit HDWallpapersArena.com, so there is no apprehension from the user’s end.
+We at HD Wallpapers Arena take your privacy very seriously. This document details our policy about  
+how we collect and use user personal private information. We also detail how we deal with third party  
+advertising partners.
 
-Privacy of information is the most important thing for any person browsing the internet. If every other website starts to collect and use personal information illegally, the internet would not be safe. For this reason, we safeguard a user’s personal information from any third parties at HDWallpapersArena.com.
+ **Personally identifiable data**
 
- **Records of Log Files**
+We strongly discourage all website visitors not to enter any personal sensitive information about  
+themselves including full name, phone number, credit card, physical address, email address, or any  
+other sensitive information. We strongly advice minors and other users with limited decision ability not  
+to visit our website without elders’ supervision. HD Wallpapers Arena tries to ensure that all personally  
+identifiable information or any offending material is removed immediately.
 
-The data contained in the log files is stored and used by our website. This is done my mostly all web pages on the internet. The log file information contains your Internet Protocol Address, your Internet Service Provider name, the browser name (for example Safari, Chrome), the time of visit and the exact pages that were visited. This information is important to ensure that there is no spam on the website.
+ **Server Logs Data**
 
- **Web Beacons and Cookies Log**
+HD Wallpapers Arena also logs data about web, database, access information, and server software  
+usage. There can be different information parameters like IP address, the place from where you are  
+using your internet connection (workplace, school, internet service provider), or geographical location.  
+All the information collected on our server logs is only used to improve the web services offered and  
+debugging any problems that may affect user experience. All data aggregated is used anonymously for  
+traffic statistics only.
 
-Cookies are used by HDWallpapersArena.com to store information and the visitor’s personal preferences. This might initiate a pop up on the screen or let the visitor access certain privileges on the website.
+ **Use of cookies**
 
-Advertisers on HD Wallpapers Arena may also use cookies and web beacons on the webpage. This technology is used to attain information regarding your ISP, IP address, browser and plug in details (for example Adobe Flash player). The DART cookies technology by Google enables you to receive advertisements that interest you (by using your browsing information). You may opt out of the DART cookie service anytime.
+We also save cookies “small text files” that are saved locally on your system. These files help us  
+personalize the way you interact with our website. You can delete these cookies whenever you want.  
+You can also choose not to allow your browser creating these cookies in the first place. However, HD  
+Wallpapers Arena does not provide any guarantee that all its functionalities will be fully functional once  
+cookies are enabled.
 
-You may use your browser settings or an anti-virus to disable website cookies or third party cookies. This will fulfill your privacy requirement but it might restrict you from logging into various web services.
+ **Advertisements by third parties**
 
- **Third Party Advertisement**
+HD Wallpapers Arena servers advertisements by Google Adsense, Infolinks, and a number of other  
+third party advertisers. Our privacy policy does not cover our third party advertiser’s privacy policy.  
+Therefore, in order for you to know about the advertisements, you must refer to respect third party  
+advertiser (s) for more information.
 
-Third parties are involved in advertising on HD Wallpapers Arena. The ads on the website are courtesy of third party providers that use certain algorithms to choose which ads to display. The advertisements are chosen to provide you with the ones that interest you the most. This is done by giving third parties an access to your visit information on this website – this lets the algorithms choose the best advertisements for you. Third parties are never provided a user’s name, address, phone number or any other personal information. This is done solely for good marketing practice.
+ **Selling or sharing of data**
 
-You can opt out of providing your browsing information to the third parties. A user can make choices regarding this matter and protect personal information. We wish you a secure and enjoyable time on this website.
+We strongly condemn the practice of selling data to anyone for any purpose. Therefore, once you  
+are interacting with HD Wallpapers Arena, you must never be worried about us selling your data to  
+marketers. We respect your privacy the way we respect our own privacy.
+
+ **Data Retention**
+
+We only retain, create backups of data, and copy it to other machines or servers for dealing with server  
+crises and problems. There is no hidden purpose or ill intention behind retaining your data except for  
+backup.
