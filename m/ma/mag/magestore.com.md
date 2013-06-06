@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magestore.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030101148id_/http%3A//www.magestore.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magestore.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606045629id_/http%3A//www.magestore.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
