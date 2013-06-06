@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iplcricketlive.com privacy policy that was archived on 2012-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120926094659id_/http%3A//www.iplcricketlive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplcricketlive.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606120957id_/http%3A//www.iplcricketlive.com/privacy-policy) for the most accurate reproduction.*
 
-# IPL Cricket Live 2012, IPL5, IPL2012 - Privacy Policy
+# Privacy Policy - Indian Premier League, IPL Live 2013
 
 The following Privacy Statement discloses the information gathering and dissemination practices for iplcricketlive.com
 
