@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmmagic.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202151609id_/http%3A//www.filmmagic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmmagic.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606074018id_/http%3A//www.filmmagic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy: FilmMagic Celebrity Photos
 
