@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivesrt.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223071422id_/http%3A//www.chrysler.com/universal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivesrt.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606064744id_/http%3A//www.chrysler.com/universal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -70,6 +70,8 @@ You may restrict Chrysler's use of your personal data for direct marketing purpo
 Because Chrysler operates globally, we may transfer your Personal Information within our global operations to fulfill our obligations to you, but always subject to the limitations of applicable data protection law and this Privacy Policy. Privacy laws differ across the globe. To help visitors whose native language may not be English understand our privacy practices, we may provide special information that may be applicable to these visitors in different languages. Chrysler entities outside the United States may have supplemental privacy policies that apply in those countries.
 
 If you are visiting from Canada, the European Union or other regions with laws governing data collection and use that may differ from U.S. law, including those whose privacy laws may be more strict than U.S. law, please note that you are transferring your personal data to Chrysler in the United States. By providing your personal data you consent to that transfer.
+
+Chrysler complies with the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks and adheres to the Safe Harbor privacy principles. Information on both Safe Harbors may be found at <http://www.export.gov/safeharbor/>.
 
 In the future we may change our Privacy Statement and we will post the new Privacy Statement on our Websites or Applications. Your continued use of this Website or Application following a change in the Privacy Statement represents consent to the new Privacy Statement to the fullest extent permitted by law. We encourage you to periodically review this Privacy Statement.
 
