@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movescount.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185030id_/http%3A//www.movescount.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movescount.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607014802id_/http%3A//www.movescount.com/privacy) for the most accurate reproduction.*
 
 # Movescount.com - Powered by Suunto
 
