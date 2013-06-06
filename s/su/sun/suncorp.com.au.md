@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suncorp.com.au privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108115328id_/http%3A//www.suncorp.com.au/corporate/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suncorp.com.au privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606083516id_/http%3A//www.suncorp.com.au/corporate/legal/privacy-policy) for the most accurate reproduction.*
 
 # Suncorp - Privacy and Security | Suncorp
 
@@ -29,6 +29,7 @@ It is important to understand that our companies provide a wide range of financi
   * Are we able to deny your request for access to your personal information?
   * Do we keep your personal information up-to-date?
   * Do we keep your personal information secure?
+  * What are cookies?
   * Do we collect your personal information electronically or via the Internet?
   * Security of your personal information online
   * Can you complain about a breach of your privacy?
@@ -53,13 +54,13 @@ The Suncorp Group consists of a large number of different companies and well kno
 
   * Suncorp
   * GIO
-  * Vero
+  * Vero Insurance
   * AAMI
+  * Resilium
   * Australian Alliance Insurance
   * Apia
-  * CIL
+  * CIL Insurance
   * Just Car Insurance Agency
-  * Comprehensive Travel
   * InsureMyRide
   * Shannons
   * Bingle
@@ -81,7 +82,6 @@ The Suncorp Group consists of a large number of different companies and well kno
 #### Our other financial products or services brands
 
   * Australian Surety
-  * Deposit Power
 
 
 
@@ -418,15 +418,17 @@ We protect your personal information by:
 
 
 
-## Do we collect your personal information electronically or via the Internet?
+## What are cookies?
 
-If you use our transactional or information web sites and communicate with us via your computer or via sms on your mobile then we may collect your personal information.
+Our web sites rely on "cookies" to provide a number of services to you. A cookie is a piece of data that an Internet site sends to your browser and which may then be stored on your computer. Cookies generally allow the Internet site you are browsing to interact more efficiently with your computer.
 
-Our web sites rely on "cookies" to provide a number of services to you. A cookie is a piece of data that an Internet site sends to your browser and which may then be temporarily stored on your computer. Cookies generally allow the Internet site you are browsing to interact more efficiently with your computer. The cookies we use are non-persistent, meaning that they allow you to be logged in and operate efficiently with our web sites but once you have logged out of your session the cookies are no longer active.
+The Suncorp group uses these cookies to collect and use information for a range of purposes, including; to maintain and improve the operation of internet sites across our group; to track user preferences and product requirements to customise our internet sites and improve advertising relevance. We may also have an arrangement with third parties who may use our cookies to improve our advertising relevance to you on their sites.
 
 Usually you can set your browser to notify you before you receive a cookie, so that you can decide whether to accept it, however sometimes, if you do not accept a cookie it may affect your use of our web site.
 
-The cookies used by the Suncorp Group are not used to track your specific or personal browsing habits. The Suncorp Group does use these cookies to collect statistical information, such as how many visitors our Internet sites receive and how these users interact with the site, however, the information is specific to the session and where that person went, not who that person is. The Suncorp Group collects and uses this de-identified information to maintain and improve the operation of our Internet sites.
+## Do we collect your personal information electronically or via the Internet?
+
+If you use our transactional or information web sites and communicate with us via your computer or via sms on your mobile then we may collect your personal information.
 
 ## Security of your personal information online
 
