@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcspeedup.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221184443id_/http%3A//pcspeedup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcspeedup.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606115601id_/http%3A//pcspeedup.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy policy - PCSpeedUp.com
+# Privacy policy - PC Speed Up - Clean, optimize and get a faster PC now!
 
 If you have any queries relating to our use of your personal data or any other data protection or privacy policy issues then please contact us at support@pcspeedup.com.
 
