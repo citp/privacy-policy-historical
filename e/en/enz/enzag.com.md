@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enzag.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225013415id_/http%3A//enzag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enzag.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606173653id_/http%3A//enzag.com/privacy-policy) for the most accurate reproduction.*
 
-# Enzag – Privacy Policy
+# Enzag Privacy Policy - Enzag
 
 At **Enzag.com** , we are firmly committed to the privacy of our users’ personal information. Our staffs, contractors and others who help us operate our web sites follow this policy on privacy and fair information practices for online activities of enzag.com.  This privacy policy document outlines the types of personal information that is received and collected by www.enzag.com and how it is used. By using this website, you agree to accept this Privacy Policy and are aware that our policy may change over time as discussed below.
 
@@ -25,4 +25,4 @@ Enzag.com also links to a wide variety of other sites. We are not responsible fo
 **Questions or Suggestions**  
 If you want to know more or have any questions concerning the privacy policies of Enzag.com, please feel free to contact us at **[admin@enzag.com](mailto:admin@enzag.com).**
 
-  [Article View] : 931
+  [Article View] : 1959
