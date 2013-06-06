@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boardreader.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225121151id_/http%3A//boardreader.com/info/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardreader.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606055653id_/http%3A//boardreader.com/info/policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | BoardReader
 
@@ -49,7 +49,7 @@ Effyis may provide Personal Information to Effyis's trusted businesses or person
 
 Generally, and except as indicated at the time of collection, Effyis does not sell or lease any Personal Information about you to any third party. However, Effyis may aggregate information (gather up data across all user accounts) in a manner that creates Non-Identifiable Information and disclose such information to advertisers and other third parties for other marketing and promotional purposes. In these situations, Effyis does not disclose to these entities any Personal Information. Certain information, such as your name, e-mail address, password, are not disclosed to marketers or advertisers.
 
-You may choose to opt-out from allowing Effyis to provide Non-Identifiable Information to certain partners. Visit [networkadvertising.org](https://web.archive.org/web/20121225121151id_/http%3A//boardreader.com/info/networkadvertising.org), [aboutads.info](https://web.archive.org/web/20121225121151id_/http%3A//boardreader.com/info/aboutads.info) and [jumptap.com](https://web.archive.org/web/20121225121151id_/http%3A//boardreader.com/info/jumptap.com) to make informed decisions about your online and mobile privacy and to opt-out.
+You may choose to opt-out from allowing Effyis to provide Non-Identifiable Information to certain partners. Visit [networkadvertising.org](http://networkadvertising.org/), [aboutads.info](http://aboutads.info/) and [jumptap.com](http://jumptap.com/) to make informed decisions about your online and mobile privacy and to opt-out.
 
 In the event that Effyis is or substantially all of its assets are sold or otherwise transferred, all information Effyis has about you may be included in the transferred assets.
 
@@ -77,7 +77,7 @@ For example, Effyis uses Google as one such third party advertising vendor, whic
 Effyis will not retain your Personal Information longer than is necessary for the purpose it was collected.
 
 **Your Consent and Changes to the Privacy Policy**  
-By using the Site, you consent to the collection and use of your information as Effyis has outlined in this Privacy Policy and to Effyis's Terms of Use.
+By using the Site, you consent to the collection and use of your information as Effyis has outlined in this Privacy Policy and to Effyis's [Terms of Use](https://web.archive.org/info/terms_of_service.htm).
 
 Effyis reserves the right to change, modify or update the terms of this Privacy Policy at any time without notice. Effyis posts the revised Privacy Policy on the Site, indicate the date of the current statement below, so you know when it was last updated. If the changes are material, if possible in Effyis's sole determination, will give you reasonable advance notice and an opportunity to review the changes before they become effective. If you do not agree to the revised terms and conditions of the Privacy Policy, stop using the Site. Continued use of the Site after any such revision or modification constitutes your acceptance of the Privacy Statement as so revised or modified.
 
