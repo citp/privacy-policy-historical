@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enstarz.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229140423id_/http%3A//www.enstarz.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enstarz.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606030609id_/http%3A//www.enstarz.com/privacypolicy) for the most accurate reproduction.*
 
 # ENSTARZ
 
