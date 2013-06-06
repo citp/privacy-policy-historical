@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the helpfulmedical.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108133313id_/http%3A//www.helpfulmedical.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpfulmedical.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606150042id_/http%3A//www.helpfulmedical.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy « Medical News , Health News
+# Medical News , Health News
 
-  * ##  [Privacy Policy](http://www.helpfulmedical.com/privacy-policy-2/)
+  * ##  [](http://www.helpfulmedical.com/privacy-policy-2/)
 
   
 
@@ -15,19 +15,7 @@ At other places in this site, we ask for your feedback, opinion or suggestions, 
 
 One last area in which we ask for your name is on bulletin boards or forums–places on the site where you can participate in a discussion of a particular subject by posting written comments which are then entirely public. We ask for a name simply so that other people reading a string of comments will be able to determine which comments come from the same person. You may, therefore, provide a nickname or alias, if you prefer, so that your identity is not disclosed. You should be aware that if you do voluntarily disclose personal information (e.g. user name, e-mail address) on the bulletin boards or forums, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. If you choose to participate anonymously, you should remember that you are still legally liable for the material you post, including claims of libel, invasion of privacy and copyright infringement.
 
+Svenska [online casino](http://www.a-in-a-circle.com/) kasino.
 
 
 
-##  [How to Fix Your Kid’s Acne?](http://www.helpfulmedical.com/how-to-fix-your-kid%e2%80%99s-acne-2/)
-
-How to Fix Your Kid’s Acne? Written by Health Articles on March 17, 2011 · Leave a Comment Teen bad acne facial...
-
-[ ](https://web.archive.org/chronic-heart-failure)
-
-##  [Chronic Heart Failure](https://web.archive.org/chronic-heart-failure)
-
-Heart failure (HF) is a complex syndrome characterized by the inability of the heart to maintain a normal 
-
-##  [How to Fix Your Kid’s Acne?](http://www.helpfulmedical.com/how-to-fix-your-kid%e2%80%99s-acne-2/)
-
-How to Fix Your Kid’s Acne? Written by Health Articles on March 17, 2011 · Leave a Comment Teen bad acne facial...
