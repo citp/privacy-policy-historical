@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eazework.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205221216id_/http%3A//www.eazework.com/privacy_and_security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eazework.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606222832id_/http%3A//www.eazework.com/privacy_and_security.aspx) for the most accurate reproduction.*
 
 # Privacy and Security Policy
 
@@ -10,7 +10,7 @@
 
 On signup you create your login id and password that is known only to you. We will never ask you for your password and strongly discourage sharing of this information with anyone. 
 
-As you use our application you will update information on your company, customers, processes, financial information, product information etc. All such information uploaded through your login id remains your sole and exclusive property. This information is also classified as Personal Information. Please note that the usage of EazeWork applications and services is governed by Terms of Service which are available at [www.eazework.com/terms_of_service.aspx](https://web.archive.org/web/20121205221216id_/http%3A//www.eazework.com/terms_of_service.aspx).
+As you use our application you will update information on your company, customers, processes, financial information, product information etc. All such information uploaded through your login id remains your sole and exclusive property. This information is also classified as Personal Information. Please note that the usage of EazeWork applications and services is governed by Terms of Service which are available at [www.eazework.com/terms_of_service.aspx](https://web.archive.org/web/20130606222832id_/http%3A//www.eazework.com/terms_of_service.aspx).
 
 As you navigate through [www.eazework.com](https://www.eazework.com/), certain anonymous information can be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream). Your internet browser automatically transmits to this site some of this anonymous information, such as the URL of the web site you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using; the date and time you access the site and the pages that you access while at the site. This information is used to help improve the site, analyze trends and administer the site. This site may also collect anonymous information from your computer through cookies and internet tags or web beacons. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of this site might not work without cookies.
 
@@ -50,9 +50,9 @@ EazeWork provides a unique user name and password to each user that must be ente
 
 Questions regarding the security practices of the Services should be emailed to [support@eazework.com](mailto:support@eazework.com).
 
-### Data Retrieval
+### Data Backup
 
-We keep a daily backup of all our data and also have multiple instances of the Production environment to provide redundancy in case of a failure at the Data Center. We also provide a Archival service using which you can get your critical data mailed to you at a pre-determined frequency on payment of appropriate charges. 
+We backup data every eight hours and keep it at a different location from the primary data center to provide back and redundancy in case of a failure at the primary location. 
 
 ### Changes to this Security and Privacy Policy
 
