@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faltu.tv privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205010944id_/http%3A//faltu.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faltu.tv privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606034908id_/http%3A//faltu.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | funny and amazing videos
 
