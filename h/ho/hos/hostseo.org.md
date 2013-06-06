@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostseo.org privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016171528id_/http%3A//www.hostseo.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostseo.org privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606062144id_/http%3A//www.hostseo.org/privacy.html) for the most accurate reproduction.*
 
 # SEO Hosting Terms of Service - HostSEO.org
 
@@ -59,3 +59,7 @@ If HostSEO desires the use of your information for purposes exclusive of this pr
 #### 8\. Information Collection
 
 If HostSEO desires the use of your information for purposes exclusive of this privacy policy, you will be contacted for consent prior to its use.
+
+#### 9\. Information Collection
+
+To correct personal information, address concerns over misuse of personal data or if you feel that we are not abiding by this privacy policy, please email us at contact[at]melen.net or call us at 201-870-6000.
