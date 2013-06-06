@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weirdworm.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114234224id_/http%3A//www.weirdworm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weirdworm.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606221150id_/http%3A//www.weirdworm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Weird Worm
 
-The privacy of our visitors to **www.weirdworm.com** is important to us.
+The privacy of our visitors to **www.weirdworm.com** is important to us. 
 
 At **www.weirdworm.com** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit **www.weirdworm.com** , and how we safeguard your information.  We never sell your personal information to third parties.
 
