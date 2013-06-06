@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmasterworld.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224163949id_/http%3A//www.webmasterworld.com/help.cgi%3Fcat%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterworld.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606101535id_/http%3A//www.webmasterworld.com/help.cgi%3Fcat%3Dprivacy) for the most accurate reproduction.*
 
 # Help :
 
