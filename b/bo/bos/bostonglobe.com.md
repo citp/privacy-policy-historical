@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bostonglobe.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031014443id_/http%3A//www.bostonglobe.com/tools/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonglobe.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606074544id_/http%3A//www.bostonglobe.com/tools/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Help - The Boston Globe
 
-This policy was last updated on **June 20, 2012**.
+This policy was last updated on **May 8, 2013**.
 
 This policy discloses the privacy practices for Boston.com, BostonGlobe.com, The Boston Globe newspaper, the Boston Globe Services Web site, Globe Reader, and our mobile messaging services and smartphone applications (collectively, the “Services”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “The Boston Globe” include Boston.com, BostonGlobe.com, The Boston Globe newspaper, and Boston Globe Services.
 
@@ -192,4 +192,4 @@ By Mail: Boston.com and BostonGlobe.com, 135 Morrissey Blvd., Boston, MA 02125, 
 
 **CHANGES TO THIS POLICY**
 
-This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
+This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this site thirty (30) days prior to taking effect and registered users will be notified via e-mail.
