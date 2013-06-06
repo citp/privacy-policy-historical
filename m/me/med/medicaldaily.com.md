@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the medicaldaily.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112121139id_/http%3A//www.medicaldaily.com/mediinfo/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicaldaily.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606060657id_/http%3A//www.medicaldaily.com/mediinfo/privacy_policy.htm) for the most accurate reproduction.*
 
-# Medical Daily
+# Privacy Policy - Medical Daily
 
 ## Privacy Policy
 
