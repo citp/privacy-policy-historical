@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rbgkew.org.uk privacy policy that was archived on 2012-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121119071856id_/http%3A//www.kew.org/Terms-and-Conditions/privacy-policy/index.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rbgkew.org.uk privacy policy that was archived on 2013-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606061909id_/http%3A//www.kew.org/Terms-and-Conditions/privacy-policy/index.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/ucm/resources/kew/js/searchbox.js" type="text/javascript">
@@ -252,7 +252,7 @@
 		</a>
 		
 		<ul id="header-nav">	    			<li><a href="/about-kew/index.htm" title="About Kew" target="_parent">About Kew</a></li>
-	    			<li><a href="/video/index.htm" title="Kew videos" target="_parent">Kew videos</a></li>
+	    			<li><a href="/video-galleries/index.htm" title="Videos/Galleries" target="_parent">Videos/Galleries</a></li>
 	    			<li><a href="/science-research-data/index.htm" title="Scientific Research &amp; Data" target="_parent">Scientific Research &amp; Data</a></li>
 	    			<li><a href="/business-venue-hire/index.htm" title="Business &amp; Venue Hire" target="_parent">Business &amp; Venue Hire</a></li>
 	    			<li><a href="/followkew/index.htm" title="Follow Kew" target="_parent">Follow Kew</a></li>
@@ -299,7 +299,7 @@
 								<option value="section:Scientific">Scientific Research &amp; Data</option>
 								<option value="section:Business">Business &amp; Venue Hire</option>
 							</select>
-						<input type="image" src="/ucm/resources/kew/images/css-images/header/button-go.gif" value="submit" class="submit">
+						<input type="image" src="/ucm/resources/kew/images/css-images/header/button-go.gif" value="submit" class="submit" alt="Go">			
 						<input type="hidden" id="sitesearch-term" name="site" value="ext_kew">
 							<noscript>
 							<br/>
@@ -433,7 +433,7 @@
 				 
 		<!--Glossary highlighting-->
 		<style type="text/css">
-			.glossary-term{border-bottom: 3px double;}
+			.glossary-term{border-bottom: 1px solid;}
 			.glossary-term:hover{text-decoration:none;}
 			
 			.glossary-term_off{border:none; text-decoration:none;color:#686868 !important;cursor:text;}
@@ -542,42 +542,45 @@
 					//Look for all terms and all tags
 					var regex = new RegExp("(<[^>]*>)|\\b("+ glossaryTerms.replace(/([-.*+?^${}()[\]\/\\])/g,"\\$1") +")\\b", caseInsensitive ? "ig" : "g");
 					
-					return this.html(this.html().replace(regex, function(a, b, c){
-						var aLower = a.toLowerCase();
-						
-						//If the word being checked inside an exception tag, e.g. <a>
-						if(insideExceptionTag){
-							//Check if this word is a tag that closes the exception term
-							if(aLower.indexOf(exceptionTagClose.trim()) > -1){
-								insideExceptionTag=false;
-							}
-						}else{
-							//Check if this word is an exception tag, e.g. <a>
-							var exceptionTagPos = getExceptionTagPos(aLower, exceptionHtmlTags);
+					$(this).find('p').each(function(){
+						return $(this).html($(this).html().replace(regex, function(a, b, c){
+							var aLower = a.toLowerCase();
 							
-							if(exceptionTagPos > -1){
-								exceptionTagClose = "</" + exceptionHtmlTags[exceptionTagPos].substring(1,exceptionHtmlTags[exceptionTagPos].length);
-								insideExceptionTag = true;
-								//console.log("exceptionTag: " + a + ",exceptionTagPos:"+exceptionTagPos + ",exceptionTagClose:" + exceptionTagClose);
-							}
-						}						
-						
-						//If the word is not inside an exception element
-						//If the word is not contained insdie angle brackets and not in the exception terms, 
-						//and the word has not already been highlighted
-						if(!insideExceptionTag &&
-							(a.charAt(0) != "<") && 
-								(exceptionTerms != null && $.inArray(aLower,exceptionTerms) == -1) && //Is not an exception term
-								$.inArray(aLower,highlightedWords) == -1){//Is not already highlighted
+							//If the word being checked inside an exception tag, e.g. <a>
+							if(insideExceptionTag){
+								//Check if this word is a tag that closes the exception term
+								if(aLower.indexOf(exceptionTagClose.trim()) > -1){
+									insideExceptionTag=false;
+								}
+							}else{
+								//Check if this word is an exception tag, e.g. <a>
+								var exceptionTagPos = getExceptionTagPos(aLower, exceptionHtmlTags);
 								
-							highlightedWords.push(aLower);
+								if(exceptionTagPos > -1){
+									exceptionTagClose = "</" + exceptionHtmlTags[exceptionTagPos].substring(1,exceptionHtmlTags[exceptionTagPos].length);
+									insideExceptionTag = true;
+									//console.log("exceptionTag: " + a + ",exceptionTagPos:"+exceptionTagPos + ",exceptionTagClose:" + exceptionTagClose);
+								}
+							}						
 							
-							return "<a class=\"glossary-term\" href=\"/ucm/glossary-data/" +aLower+ "?loadTerm=1\" term=\""+a+"\">"+a+"</a>"; 
+							//If the word is not inside an exception element
+							//If the word is not contained insdie angle brackets and not in the exception terms, 
+							//and the word has not already been highlighted
+							if(!insideExceptionTag &&
+								(a.charAt(0) != "<") && 
+									(exceptionTerms != null && $.inArray(aLower,exceptionTerms) == -1) && //Is not an exception term
+									$.inArray(aLower,highlightedWords) == -1){//Is not already highlighted
+									
+								highlightedWords.push(aLower);
+								
+								return "<a class=\"glossary-term\" href=\"/ucm/glossary-data/" +aLower+ "?loadTerm=1\" term=\""+a+"\">"+a+"</a>"; 
 
-						}else{
-							return a;
-						}
-					}));
+							}else{
+								return a;
+							}
+						}));
+						
+					});
 				}
 			});
 			
@@ -598,7 +601,7 @@
 								var exceptionTermsArr = exceptionTermsStr.toLowerCase().split(",");
 							}
 							
-							setTimeout('$(this).glossarise(glossaryTerms,exceptionTermsArr)',1);
+							$(this).glossarise(glossaryTerms,exceptionTermsArr);
 						});
 						
 						var doHighlightCookieVal = true;
@@ -713,15 +716,13 @@
 		</script>
 		
 	
-		<div class="glossarise-me" exceptions="">
-		
 
 
 <p>The Board of Trustees of the Royal Botanic Gardens, Kew ('we', 'us' or 'our') is committed to protecting and respecting your privacy.</p><p>This privacy policy (together with our <a title="RBG Kew - website terms &amp; conditions" href="/Terms-and-Conditions/index.htm">Terms </a>and any other documents contained on www.kew.org (our '<strong>Websit</strong><strong>e</strong>') set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by the Kew Group. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</p><p>Depending on purpose for which you are providing your personal data to us on our Website for the purpose of the Data Protection Act 1998 (the '<strong>Act</strong>'), the data controller (or entity responsible of the data collected) will be either:</p><p><strong>The Board of Trustees of the Royal Botanic Gardens, Kew of Royal Botanic Gardens, Kew, Richmond, Surrey TW9 3AB; </strong>and/or<strong><br></strong></p><p><strong>The Foundation and Friends of the Royal Botanic Gardens, Kew of Royal Botanic Gardens, Kew, Richmond, Surrey, TW9 3AB; </strong>and/or<strong><br></strong></p><p><strong>RGB Kew Enterprises Limited (Company Number 02798886) with registered office at the Royal Botanic Gardens, Kew, Richmond, Surrey TW9 3AB.</strong></p><p>(together the<strong> 'Kew Group'</strong>).</p><p>Where we (or any member of the Kew Group) collect information from you we will identify the purpose for which the information is to be collected and processed and ask you whether you are happy for us, the relevant Kew Group entity or other third parties identified to contact you with regard to similar products and services or unrelated products and services.  You will not have to receive any marketing in this respect if you do not wish and will be able to opt-in/opt-out of such notifications on the forms set out on this Website (or elsewhere as applicable) or after providing your information.  You should follow the instructions on the relevant forms in this respect.</p><p>Given the way in which we interact with the Kew Group to provide you with various products and services we would envisage sharing the data you provide to us with the Kew Group, although the data will only be used/processed for the purposes indicated when you submit the data or as detailed under this privacy policy.  We will notify you if we wish to share the data with the Kew Group for any other purpose and make this clear when you provide the data.</p><h2><strong><span class="header3">Information we may collect from you</span></strong></h2><p>We (or the Kew Group)  may collect and process the following data about you:</p><ul><li>information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website (where applicable), subscribing to our services (where applicable), personalising our Website with your preferences, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by any member of the Kew Group, when you respond to a survey and/or when you report a problem with our Website.</li><li>if you contact us, we may keep a record of that correspondence;</li><li>we may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them;</li><li>details of transactions you carry out through our Website and of the fulfilment of your orders;</li><li>details of your visits to our Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access;</li><li>details of your access to our scientific databases or other materials; and</li><li>providing CVs or other information about your self for specific purposes.</li></ul><p>To help us improve our services, if you send us personal information which identifies you via e-mail, we may keep your email, your e-mail address and 'screen' name. We may also collect information that is available from your browser.</p><p>We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to either the Kew Group or our advertisers/partners. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.</p><p>For the same reason, we may obtain information about your general internet usage by using a cookie file which is typically stored on the hard drive of your computer (as with most websites). Cookies contain information that is transferred to your computer's hard drive. They help us to improve our Website and to deliver a better and more personalised service. They enable us</p><ul><li>to estimate our audience size and usage pattern;</li><li>to store information about your preferences, and so allow us to customise our Website according to your individual interests;</li><li>to speed up your searches; and</li><li>to recognise you when you return to our Website.</li></ul><p>You can refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our Website.</p><h3>Sensitive Personal Data</h3><p>Generally we do not seek to collect '<strong>sensitive personal data</strong>' - that is, data relating to: race or ethnic origin; political opinion; religious or other similar beliefs; trade union membership; physical or mental health; sexual orientation; criminal records. We recommend that you do not provide such information to us. If you choose to do so for any reason, this will mean that you have given (and we accept) your explicit consent for us to use that information for the reasons described in this policy, or as explained at the time you provide the information.</p><p>Under the Act, you may ask for a copy of the information we hold about you and you may request changes be made to this information if it is inaccurate or not up-to-date.  Please refer to <a title="Send an email to the Kew web team" href="mailto:webteam@kew.org">webteam@kew.org </a>in these circumstances. If you want to change the details that you have registered on-line with us, follow the instructions for each individual application.</p><h3>Where / how we store your data</h3><p>The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ('<strong>EEA</strong>'). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services (i.e. management of survey processes etc). By submitting your personal data to us, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.</p><p>Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access and require our suppliers to do the same.</p><h3>Use of your data</h3><p>Although your data may be shared within the Kew Group we will not, without your permission or unless indicated in this privacy policy or agreed to by you on a form on this Website, transfer any of your data to any third parties.</p><p>Except for the mailing list activities which we run on some parts of our Website, where you explicitly consent to receive materials from us, we will not use your personal data collected from our Website to carry out unsolicited marketing activities. You may change your choice at any time by contacting us at <a title="Send an email to the Kew web team" href="mailto:webteam@kew.org">webteam@kew.org</a>.</p><p>We use information held about you in the following ways:</p><ul><li>to ensure that content from our Website is presented in the most effective manner for you and for your computer;</li><li>to provide you with information, products or services that you expressly request from us or which we feel may interest you, where you have consented to be contacted for such purposes;</li><li>to carry out our obligations arising from any contracts entered into between you and us;</li><li>to allow you to participate in interactive features of our service, when you choose to do so;</li><li>to notify you about changes to our service; or</li><li>to carry out any obligations or provide you with any other services, functionality or content which you specifically agree to on this Website.</li></ul><p>If you are an existing customer, unless you ask us to provide you with additional marketing information we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you (where applicable).</p><p>If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.</p><p>If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data.</p><h3>Disclosure of your data</h3><p>We may disclose your personal information to third parties without obtaining further consent from you:</p><ul><li>in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;</li><li>in the event that we outsource any of our business functions under which we collect or store your data in which case we will ensure that any such service provider adheres to at least the same obligations of security with regard to your data as undertaken by us; or</li><li>If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms and other agreements; or to protect our rights, property, or safety of our employees, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</li></ul><h3>Your rights</h3><p>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we wish to use your data for such purposes or if we intend to disclose your information to any third party for such purposes and request your consent to these activities. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at <a title="Send an email to the Kew web team" href="mailto:webteam@kew.org">webteam@kew.org</a>.</p><p>Our Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.</p><h3>Access to information</h3><p>The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee (as amended from time to time) to meet our costs in providing you with details of the information we hold about you.</p><h3>Changes to our privacy policy</h3><p>Any changes we may make to our privacy policy in the future will be posted on this page.</p><h3>Contact</h3><p>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to <a title="Send an email to the Kew web team" href="mailto:webteam@kew.org">webteam@kew.org    </a><br>&nbsp;</p>
 
 
 
-	</div>
+	
 			<!--SS_END_SNIPPET(region1_element4,main)-->
 
             <div class="hr2">
@@ -749,7 +750,7 @@
 				</div>
 				<form name="email" action="/scripts/emailLnk.php" method="POST"> 
 					<!--<fieldset>-->
-							<input id="pageurl-field" type="hidden" name="pageurl" title="pageurl" value="https://web.archive.org/web/20121119071856id_/http%3A//www.kew.org/Terms-and-Conditions/privacy-policy/index.htm">
+							<input id="pageurl-field" type="hidden" name="pageurl" title="pageurl" value="https://web.archive.org/web/20130606061909id_/http%3A//www.kew.org/Terms-and-Conditions/privacy-policy/index.htm">
 					<div class="form-row">  
 						<label for="email-field">Recipient's email address</label>
 						<input id="email-field" type="text" name="email" title="Email" value="">
@@ -1020,7 +1021,7 @@
         </div>
       </div>
     </div><div class="footercall">
-<a href="/visit-kew-gardens/visit-information/favourite-reasons/index.htm?src=footerfavourite" title="See your favourite reasons to visit">See your favourite reasons to visit</a> 
+<a href="/visit-kew-gardens/visit-information/favourite-reasons/index.htm?src=footerfavourite" title="See your favourite reasons to visit" target="_parent">See your favourite reasons to visit</a> 
 </div>
 
 
@@ -1032,10 +1033,10 @@
 		</div>
 				<div class="float-right">
 					<div class="sub-section firstfootsub">
-						<h2>Visit Kew Gardens</h2><ul><li><a href="/visit-kew-gardens/index.htm" target="_parent" title="Information for visiting Kew Gardens">Visit information</a></li><li><a href="/visit-kew-gardens/whats-on/index.htm" target="_parent" title="Find out what's on at Kew Gardens">What's on at Kew Gardens</a></li><li><a href="/visit-kew-gardens/visit-information/garden-guides/parents-survival-guide/index.htm" target="_parent" title="Family days out at Kew Gardens">Family days out</a></li><li><a href="http://apps.kew.org/trees" target="_parent" title="Xstrata Treetop Walkway at Kew Gardens">Xstrata Treetop Walkway</a></li><li><a href="/business-venue-hire/index.htm" title="Weddings &amp; Venue Hire">Weddings &amp; Venue Hire</a></li></ul><br><h2>Visit Wakehurst</h2><ul><li><a href="/visit-wakehurst/index.htm" target="_parent" title="Visitor information fro Wakehurst Place">Visit information</a></li><li><a href="/visit-wakehurst/whats-on/index.htm" target="_parent" title="Find out what's on at Wakehurst Place">What's on at Wakehurst</a></li><li><a href="http://www.kew.org/venues/wakehurst/private_venue_hire.html" title="Wedding ceremonies at Wakehurst">Wedding ceremonies</a></li><li><a href="http://www.kew.org/venues/wakehurst/private_venue_hire.html" title="Wedding receptions at Wakehurst">Wedding receptions</a></li><li><a href="/business-venue-hire/index.htm" title="Conference venues at Wakehurst">Conference venues</a></li></ul>
+						<h2>Visit Kew Gardens</h2> <ul>     <li><a title="Information for visiting Kew Gardens" target="_parent" href="/visit-kew-gardens/index.htm">Visit information</a></li>     <li><a title="Find out what's on at Kew Gardens" target="_parent" href="/visit-kew-gardens/whats-on/index.htm">What's on at Kew Gardens</a></li>     <li><a title="Family days out at Kew Gardens" target="_parent" href="/visit-kew-gardens/visit-information/garden-guides/parents-survival-guide/index.htm">Family days out</a></li>     <li><a title="Xstrata Treetop Walkway at Kew Gardens" target="_parent" href="http://apps.kew.org/trees">Xstrata Treetop Walkway</a></li>     <li><a title="Weddings &amp; Venue Hire" href="/business-venue-hire/index.htm">Weddings &amp; Venue Hire</a></li> </ul> <br> <h2>Visit Wakehurst</h2> <ul>     <li><a title="Visitor information fro Wakehurst Place" target="_parent" href="/visit-wakehurst/index.htm">Visit information</a></li>     <li><a title="Find out what's on at Wakehurst Place" target="_parent" href="/visit-wakehurst/whats-on/index.htm">What's on at Wakehurst</a></li>     <li><a title="Wedding ceremonies at Wakehurst" href="http://www.kew.org/venues/wakehurst/private_venue_hire.html">Wedding ceremonies</a></li>     <li><a title="Wedding receptions at Wakehurst" href="http://www.kew.org/venues/wakehurst/private_venue_hire.html">Wedding receptions</a></li>     <li><a title="Conference venues at Wakehurst" href="/business-venue-hire/index.htm">Conference venues</a></li> </ul>
 					</div>
 					<div class="sub-section">
-						<h2>Kew's Science</h2> <ul>     <li><a href="/science-conservation/index.htm" title="Plant conservation at Kew">Plant conservation</a></li>     <li><a href="/news/science-conservation-news/conservation-climate-change/about-kews-work/index.htm" title="Kew &amp; Climate Change">Kew &amp; Climate Change</a></li>     <li><a href="/science-conservation/save-seed-prosper/millennium-seed-bank/index.htm" target="_parent" title="Discover more about Kew's Millennium Seed Bank partnership">Millennium Seed Bank</a></li>     <li><a href="/science-conservation/diversity-challenge/partnerships/build-global-networks/index.htm" target="_parent" title="Kew is building global networks">Global partnerships</a></li>     <li><a href="/plants-fungi/plants-fungi-A-Z/index.htm" target="_parent" title="Kew's Plant &amp; Fungi A-Z">Plant &amp; Fungal Names</a></li>     <li><a href="http://www.kew.org/science/directory/" title="Browse Kew's Science Directory">Science Directory</a></li>     <li><a href="/science-research-data/databases-publications/index.htm" title="Browse Kew's scientific databases">Scientific databases</a></li>     <li><a href="/about-kew/kew-publishing/index.htm" title="Kew Publishing - scientific publications from Kew">Scientific publications</a></li>     <li><a href="/business-venue-hire/business-innovation-centre/index.htm" target="_parent" title="Kew Business Centre">Business &amp; Innovation</a></li> </ul>
+						<h2>Kew's Science</h2> <ul>     <li><a title="Plant conservation at Kew" href="/science-conservation/index.htm">Plant conservation</a></li>     <li><a title="Kew &amp; Climate Change" href="/news/science-conservation-news/conservation-climate-change/about-kews-work/index.htm">Kew &amp; Climate Change</a></li>     <li><a title="Discover more about Kew's Millennium Seed Bank partnership" target="_parent" href="/science-conservation/save-seed-prosper/millennium-seed-bank/index.htm">Millennium Seed Bank</a></li>     <li><a title="Kew is building global networks" target="_parent" href="/science-conservation/diversity-challenge/partnerships/build-global-networks/index.htm">Global partnerships</a></li>     <li><a title="Kew's Plant &amp; Fungi A-Z" target="_parent" href="/plants-fungi/plants-fungi-A-Z/index.htm">Plant &amp; Fungal Names</a></li>     <li><a title="Browse Kew's Science Directory" href="http://www.kew.org/science/directory/">Science Directory</a></li>     <li><a title="Browse Kew's scientific databases" href="/science-research-data/databases-publications/index.htm">Scientific databases</a></li>     <li><a title="Kew Publishing - scientific publications from Kew" href="/about-kew/kew-publishing/index.htm">Scientific publications</a></li>     <li><a title="Kew Business Centre" target="_parent" href="/business-venue-hire/business-innovation-centre/index.htm">Business &amp; Innovation</a></li> </ul>
 					</div>
 					<div class="sub-section">
 					<h2>Buy &amp; Support</h2><ul><li><a href="/support-kew/membership/index.htm" target="_parent" title="Join Kew today">Join Kew today</a></li><li><a href="http://www.kew.org/venues/weddings.html" target="_self" title="Wedding venues">Wedding venues</a></li><li><a href="http://shop.kew.org" target="_parent" title="Shop Online">Shop online</a></li><li><a href="http://prints.kew.org/" target="_parent" title="Botanical Prints">Botanical prints</a></li><li><a href="http://www.kewbooks.com" target="_parent" title="Kew Books">Kew Books</a></li><li><a href="http://images.kew.org/" target="_parent" title="Image Licensing">Image licensing</a></li><li><a href="/business-venue-hire/product-licensing/index.htm" title="Product licensing">Product licensing</a></li><li><a href="/support-kew/membership/join-now/index.htm" target="_parent" title="Become a premier Friend">Become a Member</a></li><li><a href="/support-kew/how-you-can-help/index.htm" target="_parent" title="Sponsor Kew's work">Sponsor Kew's work</a></li><li><a href="/support-kew/volunteer/volunteer-at-kew/index.htm" title="Volunteer at Kew">Volunteer at Kew</a></li></ul>
@@ -1049,6 +1050,7 @@
 	$("a[href*='www2.seetickets.com']").click(function() {
 	_gaq.push(['_link', this.href]);
 	return false;
+});
 });
 </script>
 <h2>Further Information</h2>
@@ -1086,7 +1088,7 @@ reinvigorate.track("514vg-2d7u6347x4");
 	}			
 </script>
 <div class="cookie-bar cookie-bar-bottom">
-<p id="kew-cookie-bar">By continuing to use the site, you agree to the use of cookies. Find out more about cookies we use by following <a title="Cookies Policy" href="/about-kew/policies-information/cookies-policy/index.htm">this link</a>.  		<a title="Accept Cookies" href="#" class="cookielink" onclick="cookiesAcknowledged();return false;">Accept Cookies</a></p>
+<p id="kew-cookie-bar">By continuing to use the site, you agree to the use of cookies. <a title="Cookies Policy" href="/about-kew/policies-information/cookies-policy/index.htm">Find out more about cookies</a>.<a title="Accept Cookies" href="#" class="cookielink" onclick="cookiesAcknowledged();return false;">Accept Cookies</a></p>
 </div>
 <!--Cookie Acknowledgement end-->
 					</div>
@@ -1131,7 +1133,7 @@ reinvigorate.track("514vg-2d7u6347x4");
 								<option value="section:Scientific">Scientific Research &amp; Data</option>
 								<option value="section:Business">Business &amp; Venue Hire</option>
 							</select>
-						<input type="image" src="/ucm/resources/kew/images/css-images/header/button-go.gif" value="submit" class="submit">
+						<input type="image" src="/ucm/resources/kew/images/css-images/header/button-go.gif" value="submit" class="submit" alt="Go">			
 						<input type="hidden" id="sitesearch-term2" name="site" value="ext_kew">
 							<noscript>
 							<br/>
