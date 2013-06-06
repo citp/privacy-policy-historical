@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodspotting.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213080430id_/http%3A//www.foodspotting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodspotting.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606170446id_/https%3A//www.foodspotting.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Foodspotting
 
@@ -61,6 +61,22 @@ In order to understand how our Service is being used and to make it better, we a
   * _Usage information, such as the pages you request, searches you conduct and the features and emails from Foodspotting that you interact with:_ This information is used in an aggregate form to generate statistics about how the Service is being used and to target advertising and communications (as further described under “Partners and Advertisers”, below), but is never shared in any form that could be reasonably used to identify you personally.
   * _IP address, cookies, tokens and device identifiers:_ These are alphanumeric identifiers that help us to distinguish between unique browsers and devices in order to avoid showing you the same information twice, keep you logged into Foodspotting, prevent duplicate actions, prevent duplicate coupon redemptions and improve your experience. You can learn more about cookies below.
   * _Crashes and error reports:_ If you encounter a crash or error while using our Service, we may generate a crash report that includes technical, usage and, if you are logged in, your Account information so that we can diagnose and potentially prevent the problem in the future.
+  * We use third party tools to collect this information on our behalf, including Flurry, Google Analytics and NewRelic.
+
+You can read Flurry's Privacy Policy and how to opt out here:
+
+[www.flurry.com/privacy-policy.html](http://www.flurry.com/privacy-policy.html)   
+[www.flurry.com/user-opt-out.html](http://www.flurry.com/user-opt-out.html)
+
+You can read about Google Analytics' Privacy Practices here:
+
+[www.google.com/analytics/learn/privacy.html](https://www.google.com/analytics/learn/privacy.html)   
+[www.google.com/policies/privacy/](https://www.google.com/policies/privacy/)
+
+You can read NewRelic's Privacy Policy here:
+
+[www.newrelic.com/privacy](http://newrelic.com/privacy)
+
 
 
 
