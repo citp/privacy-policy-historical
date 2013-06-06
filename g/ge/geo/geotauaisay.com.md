@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geotauaisay.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206084719id_/http%3A//www.geotauaisay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geotauaisay.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607012459id_/http%3A//www.geotauaisay.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GeoTauAisay Pakistan
+# Privacy Policy | Geo Tau Aisay Pakistan
 
-Privacy Policy for www.[geotauaisay](http://www.geotauaisay.com/category/media/geotauaisay/ "geotauaisay").com
+Privacy Policy for www.geotauaisay.com
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@geotauaisay.com
 
@@ -18,9 +18,9 @@ www.geotauaisay.com does not use cookies.
 
 **DoubleClick DART Cookie**
 
-[Google](http://www.geotauaisay.com/tag/google/ "Google") or any other third party vendor, uses cookies to serve ads on www.geotauaisay.com.  
+Google or any other third party vendor, uses cookies to serve ads on www.geotauaisay.com.  
 Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.geotauaisay.com and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [**http://www.google.com/privacy_ads.html**](http://www.google.com/privacy_ads.html)  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [ **http://www.google.com/privacy_ads.html**](http://www.google.com/privacy_ads.html)  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
   * Google Adsense
@@ -29,10 +29,12 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
 
 
-These third-party ad servers or ad networks use [technology](http://www.geotauaisay.com/category/technology/ "technology") to the advertisements and links that appear on www.geotauaisay.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.geotauaisay.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
 www.geotauaisay.com has no access to or control over these cookies that are used by third-party advertisers.
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.geotauaisay.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+[](http://www.hupso.com/share/)
