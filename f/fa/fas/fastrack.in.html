@@ -1,0 +1,406 @@
+<!--The following is the downloaded HTML source of the fastrack.in privacy policy that was archived on 2013-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606022119id_/http%3A//titan.co.in/Privacy-Policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8"><link rel="shortcut icon" href="/images/titan_ico.jpg"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/images/prototypejs/prototype.js"></script><script type="text/javascript" src="/images/selectall.js"></script><script type="text/javascript" src="/titanhouse/js/flexcroll.js"></script><script type="text/javascript" src="/titanhouse/js/jquery3.js"></script><script type="text/javascript" src="/titanhouse/js/jquery-1.4.2.min.js"></script><script type="text/javascript" src="/titanhouse/js/jquery.hoverIntent.minified.js"></script><script type="text/javascript" src="/titanhouse/js/jquery.jcarousel.min.js"></script><script type="text/javascript" src="/titanhouse/js/jquery.simpletip-1.3.1.min.js"></script><script type="text/javascript" src="/titanhouse/js/jquery.tools.min.js"></script><script type="text/javascript" src="/titanhouse/js/jquery.tools.min-scrollable.js"></script><script type="text/javascript" src="/titanhouse/js/jquery.tinyscrollbar.min.js"></script><script type="text/javascript" src="/titanhouse/js/jquery-ui-1.8.16.custom.min.js"></script><script type="text/javascript" src="/titanhouse/js/jquery.colorbox-min.js"></script><script type="text/javascript" src="/titanhouse/js/jq-function.js"></script><script type="text/javascript" src="/titanhouse/js/jq-functions2.js"></script><script type="text/javascript" src="/titanhouse/js/essential-plugins.js"></script><script type="text/javascript" src="/titanhouse/js/swfobject.js"></script><script type="text/javascript" src="/titanhouse/js/checkPin.js"></script><script type="text/javascript" src="/titanhouse/js/jquery.autocomplete.js"></script><script type="text/javascript" src="/titanhouse/js/subscribe.js"></script><script type="text/javascript" src="/titanhouse/js/Scroller.js"></script><script type="text/javascript" src="/titanhouse/js/Scrollbar.js"></script><script type="text/javascript" src="/titanhouse/js/jquery.smoothdivscroll-1.2-min.js"></script><link rel="stylesheet" href="/titanhouse/css/smoothDivScroll.css" type="text/css"><link rel="stylesheet" href="/titanhouse/css/jquery.ratings.css" type="text/css"><link rel="stylesheet" href="/titanhouse/css/jquery.autocomplete.css" type="text/css"><link rel="stylesheet" href="/titanhouse/css/skin.css" type="text/css"><link rel="stylesheet" href="/titanhouse/css/colorbox1.css" type="text/css"><link rel="stylesheet" href="/titanhouse/css/colorbox.css" type="text/css"><link rel="stylesheet" href="/titanhouse/css/reset-min.css" type="text/css"><link rel="stylesheet" href="/titanhouse/css/titan-style.css" type="text/css"><script type="text/javascript">
+!window.jQuery && document.write('<script type="text/javascript" src="/titanhouse/js/jquery-1.4.3.min.js"><\/script>');
+</script><script type="text/javascript" src="/titanhouse/js/jquery-1.4.3.min.js"></script><script type="text/javascript" src="/titanhouse/js/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/titanhouse/js/jquery.fancybox-1.3.4.pack.js"></script><link rel="stylesheet" type="text/css" href="/titanhouse/css/jquery.fancybox-1.3.4.css" media="screen"><script type="text/javascript">
+$(function() {
+jQuery( "#slider-range" ).slider({
+range: true,
+min: 0,
+max: 500,
+values: [ 75, 300 ],
+slide: function( event, ui ) {
+jQuery( "#amount" ).val( "jQuery" + ui.values[ 0 ] + " - jQuery" + ui.values[ 1 ] );
+}
+});
+jQuery( "#amount" ).val( "jQuery" + jQuery( "#slider-range" ).slider( "values", 0 ) +
+" - jQuery" + jQuery( "#slider-range" ).slider( "values", 1 ) );
+});
+</script><script type="text/javascript">
+function embedNew(vidid,pID,containerID,ytplayer){
+var params = { allowScriptAccess: "always" };
+var atts = { id: pID };
+swfobject.embedSWF("http://www.youtube.com/e/"+vidid+"?enablejsapi=1&amp;playerapiid="+ytplayer, containerID, "470", "310", "8", null, null, params, atts);
+}
+//The respective video link needs to be called from respective page
+// embedNew("AcwDSmJGnqU","player0","watch-video","0");
+</script><script language="JavaScript" type="text/javascript">
+jQuery(document).ready(function(){
+var source = "/control/getautocomplete";
+jQuery("#new-search-textbox").autocomplete(source, {max: 50,matchCase: true, dataType:"json"});
+});
+//Added by TCS for Solr Search on 02.03.10
+function trim(str) {
+var newstr;
+newstr = str.replace(/^\s*/, "").replace(/\s*$/, "");
+newstr = newstr.replace(/\s{2,}/, " ");
+return newstr;
+}
+function searchDatavalidation(){
+var searchVal = document.getElementById('new-search-textbox').value;
+searchVal=searchVal.replace(/^\s*|\s*$/g,'');
+var regpun = /^[!"#$%&'()*+,./:;<=>?@[\\\]^`{|}~]+$/;
+if(searchVal == "" || searchVal =='Keyword or Item #'){
+alert("Please enter the search criteria");
+document.getElementById('new-search-textbox').focus();
+return;
+}
+if(searchVal.length <= 2){
+alert("Enter more than 2 letter keyword");
+document.getElementById('new-search-textbox').focus();
+return;
+}
+if(searchVal =="Search"){
+alert("Please enter some valid text!");
+return;
+}
+for(var len = 0; len < searchVal.length; len++){
+if(searchVal.charAt(len).match(regpun)){
+searchVal = searchVal.replace(searchVal.charAt(len),' ',' ');
+}
+}
+searchVal = trim(searchVal);
+if(searchVal ==""){
+alert("Please enter some valid text!");
+return;
+}
+document.getElementById('new-search-textbox').value = searchVal ;
+//alert(document.getElementById('new-search-textbox').value);
+document.keywordsearchform.method="get";
+document.keywordsearchform.action="/control/solrsearchcompletion";
+document.keywordsearchform.submit();
+}
+function searchKeyPress(e) {
+// look for window.event in case event isn't passed in
+if (typeof e == 'undefined' && window.event) { e = window.event; }
+if (e.keyCode == 13) {
+searchDatavalidation();
+}
+}
+</script><script>
+$(document).ready(function(){
+//Examples of how to assign the ColorBox event to elements
+$(".group1").colorbox({rel:'group1'});
+$(".youtube").colorbox({iframe:true, innerWidth:425, innerHeight:344});
+});
+</script><script type="text/javascript">
+$(document).ready(function() {
+$("#makeMeScrollable").smoothDivScroll({
+mousewheelScrolling: true,
+manualContinuousScrolling: true,
+visibleHotSpotBackgrounds: "always",
+autoScrollingMode: "onstart"
+});
+});
+</script></head><body class="cat-body-bg">
+<div id="main">
+
+<div id="header-mn">
+<div id="header"><a href="/" id="logo" title="Titan Industries Limited">Titan Industries Limited</a>
+<div id="extra-links">
+<ul class="top-nav">
+<li><a href="/Corporate" title="Corporate">Corporate</a></li>
+<li><a href="/hot-time-intern" title="International">International</a></li>
+</ul>
+</div>
+<div class="toll-free"><span>Welcome User,</span> Helpdesk - <span>1800-108-1100</span> (10AM to 7PM <span>IST</span>)
+<a href="https://titan.co.in/control/newcustomer;jsessionid=B+LVkFkXTRhL0t4rxvkxSA__.node2"><span>Sign In / Register</span></a>
+</div>
+<div id="main-navigation">
+<ul class="top-nav">
+<li><a href="#" id="products" title="Products">Products</a></li>
+<li><a href="#" id="brands" title="Brands">Brands</a></li>
+<li><a href="https://titan.co.in/control/editShoppingList;jsessionid=B+LVkFkXTRhL0t4rxvkxSA__.node2" class="wish" title="Wishlist">Wishlist</a></li>
+<li><a href="https://titan.co.in/control/orderHistory;jsessionid=B+LVkFkXTRhL0t4rxvkxSA__.node2" class="wish" title="Track Order">Track Order</a></li>
+
+<li><a href="https://titan.co.in/control/myaccount;jsessionid=B+LVkFkXTRhL0t4rxvkxSA__.node2" id="account" title="Account">My Account</a></li>
+<li><a href="https://titan.co.in/control/showcart;jsessionid=B+LVkFkXTRhL0t4rxvkxSA__.node2" id="my-cart" title="My-Cart">My-Cart</a></li>
+<li class="last"><a href="/control/Popupbtq?setType=Hot" id="stores" title="Stores">Stores</a></li>
+<li class="new-search">
+<form name="keywordsearchform" action="">
+<input type="text" name="SEARCH_STRING" id="new-search-textbox" value="Search" title="Search" onblur="if(this.value=='') this.value='Search'" onfocus="if(this.value=='Search') this.value=''" onkeypress="searchKeyPress(event);">
+<a href="javascript:searchDatavalidation();" id="new-search-link" title="Search">Search</a></form></li>
+</ul>
+</div>
+<div class="tab-content-show" id="sub-block-products">
+<ul class="list-nav">
+<li><a href="/Jewellery" title="Jewellery">Jewellery</a></li>
+<li><a href="/Watches" title="Watches">Watches</a></li>
+<li><a href="/Eyewear" title="Eyewear">Eyewear</a></li>
+<li><a href="/Accessories" title="Accessories">Accessories</a></li>
+</ul>
+</div>
+<div class="tab-content-show" id="sub-block-brands">
+<ul class="list-nav">
+<li><a href="https://titan.co.in/control/catalogLanding?SOL_Brand=Tanishq&amp;setType=Hot&amp;catImageName=Tanishq&amp;SEARCH_STRING=Tanishq&amp;searchParam=Tanishq" title="Tanishq">Tanishq</a></li>
+<li><a href="https://titan.co.in/control/catalogLanding?SOL_Brand=Titan&amp;setType=Hot&amp;catImageName=Titan&amp;SEARCH_STRING=Titan&amp;searchParam=Titan" title="Titan">Titan</a></li>
+<li><a href="https://titan.co.in/control/catalogLanding?SOL_Brand=Fastrack&amp;setType=Hot&amp;catImageName=Fastrack&amp;SEARCH_STRING=Fastrack&amp;searchParam=Fastrack" title="Fastrack">Fastrack</a></li>
+<li><a href="https://titan.co.in/control/catalogLanding?SEARCH_STRING=Jewellery&amp;catImageName=Jewellery&amp;searchParam=Jewellery&amp;pageName=catalogLanding" title="Zoya">Zoya</a></li>
+<li><a href="https://titan.co.in/control/catalogLanding?SOL_Brand=Titan%20Eye%20Plus&amp;setType=Hot&amp;catImageName=Titan%20Eye%20Plus&amp;SEARCH_STRING=Titan%20Eye%20Plus&amp;searchParam=Titan%20Eye%20Plus" title="Titan Eye Plus">Titan Eye +</a></li>
+<li><a href="https://titan.co.in/control/catalogLanding?SEARCH_STRING=Jewellery&amp;catImageName=Jewellery&amp;searchParam=Jewellery&amp;pageName=catalogLanding" title="Goldplus">Goldplus</a></li>
+<li><a href="https://titan.co.in/control/catalogLanding?SOL_Brand=Xylys&amp;setType=Hot&amp;catImageName=Xylys&amp;SEARCH_STRING=Xylys&amp;searchParam=Xylys" title="Xylys">Xylys</a></li>
+<li><a href="https://titan.co.in/control/catalogLanding?SOL_Brand=Sonata&amp;setType=Hot&amp;catImageName=Sonata&amp;SEARCH_STRING=Sonata&amp;searchParam=Sonata" title="Sonata">Sonata</a></li>
+<li><a href="https://titan.co.in/control/catalogLanding?SOL_Brand=Tommy Hilfiger&amp;setType=Hot&amp;catImageName=Tommy Hilfiger&amp;SEARCH_STRING=Tommy hilfiger&amp;searchParam=Tommy Hilfiger" title="Helios">Helios</a></li>
+</ul>
+</div>
+<div class="tab-content-show1" id="sub-block-search">
+<div class="pop-up"> <a href="#" class="search-ico" title="Search">Search</a>
+<input name="Search" type="text" value="Search" class="text-field">
+<input name="search" type="button" value="Search" class="sub-button">
+</div>
+</div>
+<div class="tab-content-show1" id="sub-block-my-cart">
+<div class="pop-up">
+<script language="JavaScript" type="text/javascript">
+function guestUserCheck(){
+//alert("anonymous user");
+$.colorbox({width:"600px", inline:true, href:"#guestCheckoutPopUp", opacity:"0.7"})
+}
+</script>
+<a href="https://titan.co.in/control/showcart;jsessionid=B+LVkFkXTRhL0t4rxvkxSA__.node2" class="cart-ico">My Cart</a>
+<div id="cart-cnt-container">
+<div id="emptyCart" style="display:none"></div>
+<div class="cart-ctn" style="display:none" id="cart-titan-qty"></div>
+<div class="cart-ctn" style="display:none" id="cart-titan-total"></div>
+<div id="show-message" style="display:block">Shopping Cart Empty</div>
+<div id="display-hide" style="display:none">
+<form method="post" action="https://titan.co.in/control/showcart;jsessionid=B+LVkFkXTRhL0t4rxvkxSA__.node2">
+<input class="reg-button" type="submit" value="View Details" name="View Details">
+</form>
+<form method="post" name="miniCartCheckOutForm">
+<input class="sub-button" type="button" value="Checkout" name="Checkout" onclick="javascript:guestUserCheck();">
+</form>
+</div>
+</div>
+<a href="/" class="cont-shopping-lnk">Continue Shopping</a>
+<div class="hide">
+<div id="guestCheckoutPopUp">
+<div class="guest-checkout">
+<h2> login</h2>
+<ul>
+<li>
+<form name="anonymousPopUpLogin" action="https://titan.co.in/control/ReloginAndShowCart;jsessionid=B+LVkFkXTRhL0t4rxvkxSA__.node2" method="post">
+<h3>Registered User</h3>
+<p>If you are already registered, login to enjoy your benefits. </p>
+<input name="USERNAME" type="text" class="text-box">
+<input name="PASSWORD" type="password" class="text-box">
+<input type="submit" class="blue-btn-pin" value="login" name="login">
+</form>
+</li>
+<li>
+<form name="anonymousPopUpCheckOut" action="https://titan.co.in/control/onePageCheckout;jsessionid=B+LVkFkXTRhL0t4rxvkxSA__.node2" method="post">
+<h3>Unregistered User</h3>
+<p>If you are a new customer you can
+still continue with the checkout process and save your information
+at a later stage. </p>
+<input type="submit" class="reset" value="Guest CheckOut" name="Guest CheckOut">
+</form>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="tab-content-show1"></div>
+
+<ul class="sub-nav">
+<li><a href="/Jewellery" title="Jewellery">Jewellery</a></li>
+<li><a href="/Watches" title="Watches">Watches</a></li>
+<li><a href="/Eyewear" title="Eyewear">Eyewear</a></li>
+<li><a href="/Accessories" title="Accessories">Accessories</a></li>
+<li><a href="https://titan.co.in/control/catalogLanding;jsessionid=B+LVkFkXTRhL0t4rxvkxSA__.node2?SEARCH_STRING=Gift Ideas&amp;searchParam=Gift Ideas&amp;pageName=Gift Ideas&amp;catImageName=Gift Ideas" title="Gift Ideas">Gift Ideas</a></li>
+<li class="none"><a href="https://titan.co.in/control/catalogLanding;jsessionid=B+LVkFkXTRhL0t4rxvkxSA__.node2?SEARCH_STRING=Shop Now&amp;searchParam=Shop Now&amp;pageName=Shop Now&amp;catImageName=Shop Now" title="Shop Now">Shop Now</a></li>
+</ul>
+</div>
+</div>
+
+<div id="msg_container" class="hide">
+</div>
+<table width="920px" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td align="left" class="backgroundColorBody">
+<table border="0" class="blogtext">
+<tbody><tr>
+<td width="5"> </td>
+<td>
+
+<div id="tanishq-container">
+
+<div id="container">
+<div id="left-panal-titan">
+<div id="titan-left-links">
+<ul>
+
+<li class="brd-non"><a href="/FAQs">FAQs</a>
+
+<!--<ul>
+<li><a href="#" class="selected-sub">Tanishq</a>
+<ul>
+<li> <a href="#">Titan</a> </li>
+<li><a href="#">Fastrack</a></li>
+<li><a href="#">Zoya</a> </li>
+<li><a href="#">Titan Eye Plus</a></li>
+<li><a href="#">Gold Plus</a></li>
+<li><a href="#">Xylys</a></li>
+</ul>
+</li>
+<li><a href="#">Contact Us</a></li>
+<li><a href="#">Terms of Use</a></li>
+<li><a href="#">Shipping Policy </a></li>
+<li><a href="#">Privacy Policy </a></li>
+<li><a href="#">Cancellation Policy</a></li>
+<li><a href="#">Return / Exchange Policy</a></li>
+</ul>--></li>
+<li class="brd-non"><a href="/Contact-Us">Contact Us</a> </li>
+<li class="brd-non"><a href="/Terms-Of-Use">Terms of Use</a> </li>
+<li class="brd-non"><a href="/Shipping-Policy">Shipping Policy </a> </li>
+<li class="brd-non"><a href="/Cancellation-Policy">Cancellation Policy</a></li>
+<li class="brd-non"><a href="/Privacy-Policy" class="selected">Privacy Policy </a> </li>
+<li class="brd-non"><a href="/Return-Exchange-Policy">Return / Exchange Policy</a>
+</li><li class="brd-non"><a href="/Disclaimer">Disclaimer</a></li>
+</ul>
+</div>
+</div>
+<div class="titan-data-block"> <img src="/titanhouse/images/tinat-img/faq-img-1.jpg">
+<div id="taitan-faqs"><div class="tq-data-block-hot">
+<h1>Privacy Policy </h1>
+<div class="faq-info">
+<p>We understand that privacy is important to you, and we promise to look after your personal information. We will not sell any information about you to any other party.</p><br>
+<strong><font color="#3090C7">What information do we collect from you?</font></strong>
+<p>We will only have information about you if you willingly provide it. The information you provide is referred to as personal information. Please make sure you update your personal information if any of your details change.</p><br>
+<p>In order to do any of the following activities within www.titan.co.in , you will need to provide us with certain details viz. your name, email address, delivery address, office or residential address, telephone number, mobile number etc: </p>
+• Place an order<br>
+• Sign up for e-newsletters<br>
+• Enter competitions<br>
+• Give feedback to us <br>
+<strong><font color="#3090C7">How will we use it?</font></strong>
+<p align="justify">We will use this information to fulfil any order and to communicate with you when necessary.
+We may also use your personal information to contact you about news and offers that we think may interest you, or to tell you if we change anything important about how the website works, or the terms of use of the website.
+If you decide at any point that you no longer wish to receive messages of this nature, please contact us and send an email to let us know. Alternatively, click to unsubscribe at the bottom of any of the emails you receive.
+</p><br>
+<strong><font color="#3090C7">1.Will we share your personal information with anyone else?</font></strong><br>
+<p align="justify">We will never release your personal details to any outside company for mailing or marketing purposes.
+Payments on the website are processed by a third party, which adheres to the privacy policy that is set out here. We have a non-disclosure agreement with this third party, and they are certified by all the major card issuers to hold details securely.
+</p><br>
+<strong><font color="#3090C7">2.How long will we keep your information?</font></strong><br>
+<p>We will only keep your personal information for as long as necessary and consistent with the purpose for which you have given it to us. Except where needed to respond to a query from you or fulfil an order, we will delete your personal information on request by you.</p><br>
+<strong><font color="#3090C7">3.What are 'cookies' and how do we use them?</font></strong><br>
+<p style="margin: 8px;" align="justify">When you place an order on the website and enter your name and details, you will become a recognized user, and we will send a cookie to your computer. A cookie is a small file that may be placed on your computer's hard disk for record-keeping purposes. Cookies do not contain any information that can personally identify you. They help us to recognize you when you visit the website and make use of the service so that the service can be tailored to your needs.
+</p>
+<p style="margin: 8px;" align="justify">By using cookies, we can make your online experience more efficient. For example, they allow you to store your chosen items in your shopping basket, without losing them between visits, and to make the checkout process faster.
+We will also use cookies for the compilation of certain statistics (which do not identify you personally) relating to the use of the website. Such information may include the number of visits, average time spent, and other statistics relating to the website.
+</p>
+<p style="margin: 8px;" align="justify">You may see Titan advertisements on other websites. For these advertisements, we will be using software that may send a cookie to your browser. This software will allow us to monitor if you see our adverts, if you click on them and if you go on to buy from our website.
+</p>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+
+<!--container en--></td>
+<td width="40" valign="bottom">
+<br>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<div id="footer-mn">
+<div id="footer">
+<dl>
+<dt><a href="/FAQs" title="">Customer service</a></dt>
+<dd><a href="/FAQs" title="FAQs">FAQs</a></dd>
+<dd><a href="/Contact-Us" title="Contact Us">Contact Us</a></dd>
+<dd><a href="/Terms-Of-Use" title=" Terms of Use"> Terms of Use</a></dd>
+<dd><a href="/Shipping-Policy" title="Shipping Policy">Shipping Policy</a></dd>
+<dd><a href="/Cancellation-Policy" title="Cancellation Policy">Cancellation Policy</a></dd>
+<dd><a href="/Return-Exchange-Policy" title="Return / Exchange Policy ">Return / Exchange Policy </a></dd>
+<dd><a href="/Privacy-Policy" title="Privacy Policy">Privacy Policy</a></dd>
+<dd><a href="/Loyalty-Programs" title="Loyalty Programs">Loyalty Programs</a></dd>
+<dd><a href="/Disclaimer" title="Disclaimer">Disclaimer</a></dd>
+<dd><a href="/Sitemap" title="Sitemap">Sitemap</a></dd>
+</dl>
+<dl>
+<dt><a href="/Enrich-Online" title="Enrich online">Enrich online</a></dt>
+<dd><a href="/control/viewContent?contentId=tanishq-invest-onli&amp;nodeTrailCsv=tanishq-invest-onli&amp;setType=Tanishq" title="Golden Harvest Scheme">Golden Harvest Scheme</a></dd>
+<dd><a href="/Swarnanidhi" title="Swarnanidhi">Swarnanidhi</a></dd>
+<dd><a href="http://www.goldplus.in/gfs" title="Goldplus Future Scheme">Goldplus Future Scheme</a></dd>
+</dl>
+<dl>
+<dt><a href="/Payment-Options" title="Payment Options">Payment Options</a></dt>
+<dd><a href="/Payment-Options" title="Payment FAQs">Payment FAQs</a></dd>
+<dd><a href="/Payment-Options" title="Credit Cards">Credit Cards</a></dd>
+<dd><a href="/Payment-Options" title="Debit Cards">Debit Cards</a></dd>
+<dd><a href="/Payment-Options" title="Net Banking">Net Banking</a></dd>
+</dl>
+
+
+<dl>
+<dt><a href="/Corporate" title="Corporate Info">Corporate Info</a></dt>
+<dd><a href="/Company-Profile" title="About Us">About Us</a></dd>
+<dd><a href="/Business-Divisions" title=" Business Division"> Business Division</a></dd>
+<dd><a href="/control//Subsidiary"> Subsidiaries</a></dd>
+<dd><a href="/Investors" title="Investors ">Investors </a></dd>
+<dd><a href="/Community-Initiatives" title="Community Initiatives">Community Initiatives</a></dd>
+<dd><a href="/Media-Room" title=" Media Room"> Media Room</a></dd>
+<dd><a href="/control/media" title="TIL Tubes">TIL Tubes</a></dd>
+<dd><a href="/TIDCO" title="TIDCO">TIDCO</a></dd>
+<dd><a href="/TATAGroup" title="TATA Group">TATA Group</a></dd>
+</dl>
+
+<dl>
+<dt><a href="/Opportunities" title="Opportunities">Opportunities</a></dt>
+<dd><a href="/control/bulkOrder" title="Institutional Sales">Institutional Sales</a></dd>
+<dd><a href="/Franchising" title="Franchising">Franchising</a></dd>
+<dd><a href="/Distribution" title="Distribution">Distribution</a></dd>
+<dd><a href="/Licensing" title="Licensing">Licensing</a></dd>
+<dd><a href="/Vendor" title="Vendor Development">Vendor Development</a></dd>
+</dl>
+<dl>
+<dt><a href="/Careers" title="Careers">Careers</a></dt>
+<dd><a href="/Careers" title="Careers">Careers</a></dd>
+</dl>
+<dl class="none">
+<dt><a href="#" title="Stay Connected">Stay Connected</a></dt>
+<dd>Get HOT Deals, Info., Brand updates and more</dd>
+<dd>
+<input type="text" name="emailId" id="emailID1" value="Enter Email ID" title="Enter Email ID" onblur="if(this.value=='') this.value='Enter Email ID'" onfocus="if(this.value=='Enter Email ID') this.value=''" class="email-id">
+</dd>
+<dd>
+<input name="subscribe" type="button" value="Subscribe" class="sub-button" onclick="javascript:subscribeEmail();">
+</dd>
+<dd class="bdr">Follow Us</dd>
+<dd>
+<a href="http://www.facebook.com/TitanWatchesIndia" class="fb">Facebook</a>
+<a href="https://twitter.com/titanbemore" class="tw">twitter</a>
+<a href="http://www.youtube.com/user/titanwatchesindia" class="you-tube">you tube</a>
+</dd>
+<dd class="bdr"><a href="/Contact-Us" title="Global Address Book">Global Address Book</a></dd>
+</dl>
+<div class="copy-text">
+<p>Copyright © 2011 Under Titan Industries. All Rights Reserved. No imagery or logos contained within this site may be used without the express permission of Titan Industries </p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="hide">
+<div id="block-term">
+<div id="watch-video"></div>
+</div>
+</div>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-32186177-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body></html>
