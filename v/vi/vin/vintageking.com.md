@@ -1,62 +1,86 @@
-> *The following text is extracted and transformed from the vintageking.com privacy policy that was archived on 2012-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120914004344id_/http%3A//www.vintageking.com/Privacy-and-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vintageking.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606122749id_/http%3A//vintageking.com/privacy-and-security) for the most accurate reproduction.*
 
-# Privacy and Security | VintageKing.com
+# Privacy Policy - Vintage King Audio
 
-Privacy Policy
+### What information do we collect?
 
-Vintage King Audio is committed to respecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience. We will not sell or disclose any information that identifies you to a third party if requested. In addition, when you place an order with Vintage King Audio your personal information and credit card information are safe. Please read on for more details about our privacy policy.
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
-Top
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-Information we collect
+Google, as a third party vendor, uses cookies to serve ads on your site.
 
-When making a purchase through our Site, we collect your name, billing address, phone number, e-mail address, and credit card information, in order to process your order. Therefore when you visit our Site to place subsequent orders we can save you time by providing your previous account information for you. If you request to receive our online newsletters, request item information or any other type of registrations, we collect your name, mailing address, phone number and e-mail address. Occasionally, we will email our newsletter informing you of news and special product offers. At any time, you are welcome to visit our Site without providing any of this information. 
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
 
-We use cookies, which is a feature of your browser used to assign identification to your computer. The unique user ID contained within your cookie automatically identifies your computer - but not you - to our servers every time you visit our site. Cookies by themselves cannot be used to find out the identity of any user, but may be correlated with identity information in our log files. You can decline cookies through your browser preference options, but you may not be able to use some of our services properly as a result, such as the option to save your user name and password.
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-We also collect the IP address of visitors to our Site, and collect aggregate information about the use of our Site. All information described in this section entitled "Information we collect" constitutes "Data" for purposes of this Privacy Policy.
+### What do we use your information for?
 
-Top
+Any of the information we collect from you may be used in one of the following ways:
 
-How we use the information we colleCT
+  * To personalize your experience (your information helps us to better respond to your individual needs)
+  * To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+  * To process transactions  
 
-We use the Data collected from you primarily to process and fulfill your orders, to notify you of the status of your orders, to send e-mail newsletters, or to send you targeted marketing information, special product offers, catalogs, or other information that we believe might interest you. In every such e-mail, we will have instructions on how to unsubscribe and avoid receiving any future e-mails from us.
 
-Top
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-Communications from Vintage King Audio to You
+  * To administer a contest, promotion, survey or other site feature
+  * To send periodic emails 
 
-We may contact you by e-mail to respond to customer service questions you have submitted, or to address a problem affecting your use of the Site, or to send you a confirmation message upon completion of the account registration process.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Top
 
-How we protect your information
 
-Our site has security measures in place to protect the loss, misuse and alteration of the information under our control. All orders are transmitted over secure Internet connections using SSL (Secure Sockets Layer) encryption technology. All of your personal information including your credit card information and sign-in password are stored in encrypted format at all times. This Website, and more importantly all user information, is further protected by a multi-layer firewall based security system. 
 
-Top
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-Remove your name from our lists anytime
+### How do we protect your information?
 
-To remove your name from the Vintage King email contact list, login to your account on our website, [www.vintageking.com](https://web.archive.org/). Once logged in, go to “[My Account](https://checkout.netsuite.com/app/center/nlvisitor.nl/c.360669/sc.6/.f)” and go to the “Campaign Subscription Center” where you can opt out. When you make subsequent purchases at Vintage King Audio, you may provide contact information for customer service only, and request that your name not be forwarded to either our e-mail contact list.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-Top
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-Correcting and Updating your information
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will be kept on file for more than 60 days in order to process orders that have exceptionally long lead times.
 
-Users of our Site are able to modify their account information, such as shipping and billing addresses, each time they place an order with us. 
+### Do we use cookies?
 
-Top
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-Links to other sites
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-Our website contains links to other sites not affiliated with Vintage King Audio. These sites have their own policies and practices with respect to online privacy, and Vintage King Audio cannot be responsible for the privacy practices of these unaffiliated web sites. 
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone.
 
-Top
+### Do we disclose any information to outside parties?
 
-Contact Information
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-If you have any questions about this Privacy Policy or about Vintage King Audio's information collection practices, please contact us.   
-Email [customerservice@vintageking.com](mailto:customerservice@vintageking.com)
+### California Online Privacy Protection Act Compliance
 
-Top
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into "My Account".
+
+### Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms & Conditions](http://vintageking.com/terms-and-conditions/)
+
+#### Your Consent
+
+By using our site, you consent to our web site privacy policy.
+
+### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+### Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+http://vintageking.com/  
+1603 East 9 Mile Road Ferndale, MI 48220  
+888 653 1154  
+[customerservice@vintageking.com](mailto:customerservice@vintageking.com)
