@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barnorama.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205154657id_/http%3A//www.barnorama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnorama.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606222314id_/http%3A//www.barnorama.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Barnorama
 
