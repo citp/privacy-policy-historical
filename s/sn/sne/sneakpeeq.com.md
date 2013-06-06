@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sneakpeeq.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226173357id_/http%3A//www.sneakpeeq.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sneakpeeq.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606195919id_/http%3A//www.sneakpeeq.com/company/privacy) for the most accurate reproduction.*
 
 # FAQ on sneakpeeq
 
