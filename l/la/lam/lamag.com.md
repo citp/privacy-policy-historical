@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lamag.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030071544id_/http%3A//www.lamag.com/readerservice/Story.aspx%3FID%3D1376703) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamag.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606030936id_/http%3A//www.lamag.com/readerservice/Story.aspx%3FID%3D1376703) for the most accurate reproduction.*
 
-# LAMAG.com: Where to Eat, Where to Shop, and What to Do In Los Angeles - Only the Best In LA Privacy Policy Reader Service - Los Angeles magazine
+# Privacy Policy - About Us - Los Angeles magazine
 
 This privacy policy ("Privacy Policy") describes _LOS ANGELES_ MAGAZINE'S privacy practices for our Web site located at [www.lamag.com](http://www.lamag.com/ "www.lamag.com") and  [www.losangelesmagazine.com](http://www.losangelesmagazine.com/ "www.losangelesmagazine.com") (our "Site"), including what types of information we gather and track, how we use the information, and with whom we share the information. By using the Site, you agree to be bound by the terms of this Privacy Policy and by the Terms of Use. We may change this Privacy Policy at any time by posting revisions to the Site, and your continued use of the Site indicates your agreement to the revised terms. Accordingly, we urge you to frequently review this Privacy Policy, and, if you do not agree to the terms of this or any revised policy, please exit the Site immediately.
 
