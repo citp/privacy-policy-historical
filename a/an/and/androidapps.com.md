@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidapps.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106122337id_/http%3A//www.androidapps.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidapps.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606102037id_/http%3A//www.androidapps.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Appolicious ™ Android App Directory
 
