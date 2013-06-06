@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebieshark.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123092033id_/http%3A//www.freebieshark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebieshark.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606195749id_/http%3A//www.freebieshark.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — FreebieShark.com
 
@@ -21,7 +21,8 @@ DoubleClick DART Cookie
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
-Amazon
+Amazon  
+Escalate Network, Mysavings Media, Logical Medica
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.freebieshark.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
