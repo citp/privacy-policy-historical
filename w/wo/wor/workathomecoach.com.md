@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workathomecoach.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023080616id_/http%3A//www.workathomecoach.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workathomecoach.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606063539id_/http%3A//www.workathomecoach.com/privacy.cgi) for the most accurate reproduction.*
 
 # Work At Home Coach - Privacy Policy
 
