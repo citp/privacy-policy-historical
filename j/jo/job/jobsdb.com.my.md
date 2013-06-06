@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the jobsdb.com.my privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221033807id_/http%3A//my.jobsdb.com/MY/en/StaticContentContainer/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsdb.com.my privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606172747id_/http%3A//my.jobsdb.com/MY/en/StaticContentContainer/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # None
 
 Jobs DB Malaysia Sdn. Bhd.(" **Company** ") pledges to meet fully with the requirements of all the applicable laws, regulations, directives and policy governing the privacy of users using this Website. In doing so, the Company will ensure compliance by its staff to the strictest standards of security and confidentiality in respect of all personal information and data submitted by users.
 
-Users are strongly recommended to read this privacy statement (" **Statement** ") carefully to have an understanding of the Company's policy and practices with regard to the treatment of personal information and data provided by users on the Company's website at www.jobsdb.com.my (" **Website** "). This Statement is applicable to both registered and unregistered users of the Website which would include both Employers and Jobseekers as defined below.
+Users are strongly recommended to read this privacy statement (" **Statement** ") carefully to have an understanding of the Company's policy and practices with regard to the treatment of personal information and data provided by users on the Company's website at [http://www.jobsdb.com.my](http://www.jobsdb.com.my/) and /or <http://my.jobsdb.com/my> (" **Website** "). This Statement is applicable to both registered and unregistered users of the Website which would include both Employers and Jobseekers as defined below.
 
 If users have questions or concerns regarding this Statement, they should contact the Customer Service Assistant of the Company's Customer Service Department at 03-2176 0188 or [cs@jobsdb.com.my](mailto:cs@jobsdb.com.my).
 
   
 
 
-## Purpose of Collection and Use of Personal Data
+## Purpose of Collection of Personal Data
 
 In the course of using the Website, users may be asked to disclose or provide their personal information and/or data. In order to have the benefit of and enjoy various services of the Website, it is necessary for users to provide the Company with information about the users and such personal information and/or data as may be required by the Company. Failure to supply such personal information and/or data will result in the Company not being able to provide its services and/or certain services offered via the Website to the user. 
 
@@ -44,12 +44,12 @@ Sensitive personal data (such as personal data consisting information on physica
 
 Personal data are collected when user (i) visits the Website, (ii) registers with the Company; (iii) applies for a job utilising the services offered by the Company via the Website and (iv) utilises such other services offered by the Company. Occasionally, the Company may also collect additional personal data from user in connection with contests, surveys and/or other special offers carried out or offered by the Company in conjunction with the services of and/or services offered via the Website.
 
-Only duly authorized staff of the Company will be permitted to access users' personal information and data, and the Company shall not release such personal information and data to any third parties save and except for the circumstances listed out under the section entitled "Disclosure or Transfer of Personal Data".
+Only duly authorized staff of the Company will be permitted to access users' personal information and data, and the Company shall not release such personal information and data to any third parties save and except for the circumstances listed out under the section entitled "Disclosure or Transfer of Data".
 
   
 
 
-## Disclosure or Transfer of Personal Data
+## Disclosure or Transfer of Data
 
 Users accept and consent to the Company disclosing and/or transferring personal information and/or data of users to third parties under the following circumstances: 
 
@@ -72,7 +72,7 @@ By using the Website, Jobseekers are deemed to have agreed to, consented to and 
   
 
 
-## Subscription of Newsletter/Marketing Materials
+## Subscription to Newsletter/Marketing Materials
 
 The Company may from time to time send to members of the Website newsletters, job openings and marketing materials based on the personal information and data that they have provided to the Company. Suitable measures are implemented to make available to such members the options to "opt-out" of receiving such materials. In this regard, Jobseekers may choose to sign up or unsubscribe for such materials by logging into the registration or Jobseeker's account maintenance webpage, or clicking on the automatic link appearing in each newsletter/message.
 
@@ -96,7 +96,7 @@ A cookie is a small text file that is stored on a user's computer for record-kee
 
 The Company does not link the information and data automatically collected in the above manner to any personally identifiable information.
 
-The Company generally uses such automatically collected information and data to estimate the audience size of the Website, gauge the popularity of various parts of the Website, track users' movements and number of entries in the Company's promotional activities, measure users' traffic patterns and administer the Website. Such automatically collected information and data will not be disclosed save and except in accordance with the section entitled "Disclosure or Transfer of Personal Data".
+The Company generally uses such automatically collected information and data to estimate the audience size of the Website, gauge the popularity of various parts of the Website, track users' movements and number of entries in the Company's promotional activities, measure users' traffic patterns and administer the Website. Such automatically collected information and data will not be disclosed save and except in accordance with the section entitled "Disclosure or Transfer of Data".
 
   
 
