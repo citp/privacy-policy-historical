@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210123807id_/http%3A//www.dailyherald.com/article/99999999/SERVICES0101/859255635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606043855id_/http%3A//www.dailyherald.com/article/99999999/SERVICES0101/859255635) for the most accurate reproduction.*
 
-# DailyHerald.com Privacy Policy - DailyHerald.com
+# Daily Herald Privacy Policy - DailyHerald.com
 
 Paddock Publications, Inc. ("Paddock Publications"), the owner of The Daily Herald and dailyherald.com, respects the privacy of individuals who visit our site. This Privacy Policy outlines the information that we collect through dailyherald.com and how we use that information, so that you can decide whether and how you wish to provide information to us. In adopting this Privacy Policy, our intent is to balance our legitimate business interests in collecting and using information obtained through dailyherald.com with your reasonable expectations of privacy.
 
