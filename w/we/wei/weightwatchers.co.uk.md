@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229220146id_/http%3A//www.weightwatchers.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606065439id_/http%3A//www.weightwatchers.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
 
 # WeightWatchers.co.uk: Privacy Policy
 
@@ -112,6 +112,11 @@ The IAB has provided the following website to give information specifically abou
 We may select and use different third parties from time to time to track website usage through action tags on our Website and on our advertisements on other websites. For example, DoubleClick and Atlas each track anonymous website usage by setting a cookie (or reading a cookie previously placed by them) on users' computers to track the activities of users who view a web page that contains action tags. DoubleClick and Atlas may use information about your visits to this Website and other websites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by one of these companies, please refer to its respective Privacy Policy. Periodically, upon our request, DoubleClick and/or Atlas may report the anonymous data that they collect on our behalf back to us for our internal use and analysis and our treatment of this anonymous data is governed by the terms of this Privacy Policy.
 
 By using cookies and action tags together, we are able to gain valuable information to improve our Website and our Internet Products and measure the effectiveness of our advertising and marketing campaigns. We do not disclose any of your Personally Identifiable Information to our advertising partners through the use of cookies or action tags.
+
+ ** _ **Social Media (Features) and Widgets**_**  
+
+
+Our Website includes social media features, buttons and widgets provided by third party social media platforms such as Facebook and Twitter (collectively, the “Features”). A Feature may collect your IP address and which page you are visiting on our Website, and may set a cookie to enable the Feature to function properly. This cookie may allow the social media platform to link the foregoing data with your user profile. The Features are either hosted by the third party platform or directly on our Website. Your interactions with these Features are governed by the privacy policy of the relevant platform.
 
  ** _ **Referral Programmes.**_**  
 
@@ -233,7 +238,7 @@ Attn: Privacy Coordinator
   
 **BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY AND OF US PROCESSING YOUR PERSONAL DATA IN ACCORDANCE WITH THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.**
 
-(Last modified as of October 4, 2012)
+(Last modified as of March 19, 2013)
 
 |   
 ---|---|---
