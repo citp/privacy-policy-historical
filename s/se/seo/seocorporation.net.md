@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seocorporation.net privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004002324id_/http%3A//www.seocorporation.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seocorporation.net privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606130823id_/http%3A//www.seocorporation.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Reseller packages, SEO Outsourcing Company, SEO agency in India
+# Privacy Policy
 
 **What information do we collect?**
 
