@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the genie-soft.com privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227221244id_/http%3A//www.genie9.com/Company/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the genie-soft.com privacy policy that was archived on 2013-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606061545id_/http%3A//www.genie9.com/Company/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link href="../css/style.css" rel="stylesheet" type="text/css"><link href="../css/style2012.css" rel="stylesheet" type="text/css"><link id="ctl00_listmenuh" rel="stylesheet" type="text/css" href="../css/listmenu_h.css" title="Horizontal 'Earth'"><link href="../css/dropdown_one.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="../css/greensky.css" type="text/css">
     
@@ -280,31 +280,35 @@
     </style>
 
     <script type="text/javascript">
-        $("#showAdv").fancybox({
-            'transitionIn': 'none', //'elastic',
-            'transitionOut': 'none', //'elastic',
-            'speedIn': 100,
-            'speedOut': 100,
-            'padding': 20,
-            'margin': 20,
-            'scrolling': 'no',
-            'autoScale': false,
-            'minWidth': 760,
-            'minHeight': 710
-        });
-        $("#zoolzLink").fancybox({
-            'transitionIn': 'none', //'elastic',
-            'transitionOut': 'none', //'elastic',
-            'speedIn': 100,
-            'speedOut': 100,
-            'padding': 0,
-            'overlayOpacity': 0.9,
-            'margin': 0,
-            'Width': '700px',
-            afterClose: function () {
-                CloseZoolzBox(5);
-            }
-        });
+        try {
+            $("#showAdv").fancybox({
+                'transitionIn': 'none', //'elastic',
+                'transitionOut': 'none', //'elastic',
+                'speedIn': 100,
+                'speedOut': 100,
+                'padding': 20,
+                'margin': 20,
+                'scrolling': 'no',
+                'autoScale': false,
+                'minWidth': 760,
+                'minHeight': 710
+            });
+            $("#zoolzLink").fancybox({
+                'transitionIn': 'none', //'elastic',
+                'transitionOut': 'none', //'elastic',
+                'speedIn': 100,
+                'speedOut': 100,
+                'padding': 0,
+                'overlayOpacity': 0.9,
+                'margin': 0,
+                'Width': '700px',
+                afterClose: function () {
+                    CloseZoolzBox(5);
+                }
+            });
+        } catch (e) {
+
+        }
         $(document).ready(function () {
             $(".closeAdv").click(function () {
                // $("#cybermondy_HeaderAdv").slideUp(1000);
@@ -321,6 +325,27 @@
             $("#gcloudAdv").scroll(function () {
                 $("#gcloudInfo").css("bottom", "0px");
             });
+
+            (function () {
+                if (window.innerWidth > 1260 || document.documentElement.clientWidth > 1260) {
+                    var zT = getCookie("__zoolzTower");
+                    if (zT == null || zT == "") {
+                        setCookie("__zoolzTower", 0, 360);
+                        $("#zTowers div").css("display", "none").eq(0).css("display", "block");
+                    }
+                    else {
+                        if ($("#zTowers div").eq(zT).next().is("div"))
+                            zT = parseInt(zT) + 1;
+                        else
+                            zT = 0;
+                        setCookie("__zoolzTower", zT, 360);
+                        $("#zTowers div").css("display", "none").eq(zT).css("display", "block");
+                    }
+                }
+                else {
+                    $("#zTowers").parent().css("display", "none");
+                }
+            })();
         });
         $(window).load(function () {
             checkAdvCookie();
@@ -329,8 +354,8 @@
         var i = 0;
         function checkAdvCookie() {
             var timer = setTimeout("checkAdvCookie()", 1000);
-            i++;
-            if (i == 3) {
+           
+            if (i == 0) {
 
                 clearTimeout(timer);
                 var IsShowAdd = getCookie("__zoolzStrip"); //getCookie("__headerAdv"); //getCookie("__header_C_Adv"); //getCookie("__header_H_Adv");
@@ -342,16 +367,16 @@
                     //$("#HeaderAdv").slideDown(1000);
                     // $("#Halloween_HeaderAdv").slideDown(1000);
                 }
-                var zoolzShowFancy = getCookie("__zoolzFancy");
+                var zoolzShowFancy = "stop"; //getCookie("__zoolzFancy");
                 var zoolzShowStrip = getCookie("__zoolzStrip");
-                //                if (zoolzShowFancy == null || zoolzShowFancy == "") {
-                //                 $("#zoolzLink").trigger('click');
-                //                }
-                //                else{
-                if (zoolzShowStrip == null || zoolzShowStrip == "") {
-                    $("#zoolz_HeaderAdv").slideDown(1000);
+                if (zoolzShowFancy == null || zoolzShowFancy == "") {
+                    $("#zoolzLink").trigger('click');
                 }
-                // }
+                else {
+                    if (zoolzShowStrip == null || zoolzShowStrip == "") {
+                        //$("#zoolz_HeaderAdv").slideDown(1000);
+                    } 
+                }
             }
         }
         function closeFancybox() {
@@ -369,7 +394,9 @@
                 setCookie("__zoolzFancy", currentTime.getTime(), 360);
             }
         }
+        
     </script>
+
     <style type="text/css">
         #HeaderAdv
         {
@@ -423,18 +450,23 @@
             position: relative;
             top: 0px;
             display: none;
-            height: 61px;
-            background-color:#f7c331;
+            height: 62px;
+            background-color:#3170b3;
             width: 100%;
+            background-color:#f7c331;
         }
         #fixedZoolzAdv
         {
             text-align: left;
-            height: 61px;
-            width: 988px;
-            margin: auto;
+            height: 62px;
+           width:950px;
+           margin:auto;
             z-index: 999;
             position: relative;
+             background-image:url(/images/Genie9_Zoolz_Inner_Strip.png);
+            background-position: center top;
+            background-repeat:no-repeat;
+            
         }
          #cybermondy_HeaderAdv
         {
@@ -485,6 +517,13 @@
         {
             text-decoration:none;
         }
+        #zTowers div
+        {
+            width:138px;
+            height:600px;
+            position:fixed;
+            display:none;
+        }
     </style>
 <title>
 
@@ -497,9 +536,9 @@
     
 
     <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTg3NTAxOTI5D2QWAmYPZBYCAgMPZBYGAh0PFgIeBXN0eWxlBRJ2aXNpYmlsaXR5OmhpZGRlbjtkAiAPZBYCAgEPZBYCAgkPFgIeBUNsYXNzBQ9OZXdyaWdodG1lbnVzZWxkAiEPFgIfAAUSdmlzaWJpbGl0eTpoaWRkZW47ZGTCUxeYb1jbD+5S6G7+mKA24pdqIg==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTg3NTAxOTI5D2QWAmYPZBYCAgMPZBYGAh0PFgIeBXN0eWxlBRJ2aXNpYmlsaXR5OmhpZGRlbjtkAiAPZBYCAgEPZBYCAgcPFgIeBUNsYXNzBQ9OZXdyaWdodG1lbnVzZWxkAiEPFgIfAAUSdmlzaWJpbGl0eTpoaWRkZW47ZGQVyGnOiFi51qfZdI2dXq/WKQt+Ng==">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgKGpt67AQLR6On+DQKBlpG8DAK21cLzCQKG7KyeAQKrn/zZCTZmmYFhauZvWEsLDhLz3WckJ1nd">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgKy1Kj4CALR6On+DQKBlpG8DAK21cLzCQKG7KyeAQKrn/zZCb8dhOAI+C+6RYGqNfa0uw7PKQw0">
     <a id="zoolzLink" href="#zoolzfancy"></a>
     <input type="hidden" name="ctl00$SocialBarStatus" id="ctl00_SocialBarStatus">
     <input type="hidden" id="hdSelectedTab">
@@ -539,16 +578,34 @@
     </div>
         
     <div id="zoolzfancy" style="display:none;position:relative">
-        <a href="https://www.zoolz.com/" onmousedown="_gaq.push(['_trackEvent', 'Zoolz2-FancyBox', 'Zoolz2-FancyBox-link-Click', ''])" target="_blank" onclick="CloseZoolzBox()" style="display:block;width:100%;height:100%"></a>
-        <div style="position:absolute;top:10px;right:10px;cursor:pointer" onclick="$.fancybox.close();"><img src="/images/Genie9_Zoolz_Close.png" border="0"></div>
-    </div>
-    <div id="zoolz_HeaderAdv">
-        <div id="fixedZoolzAdv">
-            <a href="https://www.zoolz.com" onmousedown="_gaq.push(['_trackEvent', 'Zoolz2-Strip', 'Zoolz2-Strip-link-Click', ''])" target="_blank" style="text-align:none"><img src="/images/Genie9_Zoolz_Inner_Strip.png" style="border:none"></a>   
-            <div class="closeAdv" style="top: 0px;right: 10px;">X</div>
-        </div>
-    </div>
+        <a href="https://www.zoolz.com/meet_zoolz?p=true" onmousedown="_gaq.push(['_trackEvent', 'Zoolz2-FancyBox', 'Zoolz2-FancyBox-link-Click', ''])" target="_blank" onclick="CloseZoolzBox()" style="display:block;width:100%;height:100%;text-decoration:none">
+            <div id="zoolzfancy-content">
+                <h1 style="color: #4B4B4B;font-size: 40px;margin-top: 0px;margin-bottom: 10px;font-weight: 300;">Introducing Zoolz 2.0</h1>
+                <p style="color: #4B4B4B;font-size:20px;width: 493px;">Never worry about losing your data again by moving it to the Cloud <b>100GB for only $3</b></p>
+                
+               <div style="position: absolute; left: 120px;top:176px" class="buttonLink">
+                    <div class="ButtonLarge green" style="width:270px;height: 40px;padding: 10px 0px;">
+                         <div style="line-height: 22px;">
+                            <b style="font-size:22px;text-transform:uppercase">Try it now free</b>
+                            <p style="font-size:12px;margin:0px">*no credit card required</p>
+                         </div>
+                    </div>
+            </div>
 
+            </div>  
+        </a>
+        
+        <div style="position:absolute;top:10px;right:10px;cursor:pointer;color: #4B4B4B;font-weight:bold" onclick="$.fancybox.close();"><div style="position:absolute;left:-43px;top: 0px;font-size:18px">X</div>&nbsp;<div style="position:absolute;right:0px;top: 3px;">Close</div></div>
+        <div id="zoolzfancy-left-strip"></div>
+        <div id="zoolzfancy-bottom-strip"></div>
+    </div>
+    
+    <div id="zoolz_HeaderAdv">
+    <div id="fixedZoolzAdv">
+            <a href="https://www.zoolz.com/meet_zoolz" onmousedown="_gaq.push(['_trackEvent', 'Zoolz2-Strip', 'Zoolz2-Strip-link-Click', ''])" target="_blank" style="display:block;width:950px;margin:auto;height: 80px;"></a>
+             <div class="closeAdv" style="top: 6px;right: -20px;width: 16px;height: 20px;text-align: center;">X</div>
+    </div>
+    </div>
 
     <div id="gcloudAdv" style="display: none; position: relative;">
         <div style="overflow-y: auto; overflow-x: hidden;width:760px;height: 650px;">
@@ -664,17 +721,17 @@
                                                 <table border="0" cellpadding="0" cellspacing="0">
                                                     <tbody><tr>
                                                         <td align="center" style="padding-top: 5px;">
-                                                        <span>(877) 397-5660</span>
+                                                        
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td align="center">
-                                                        <span>+1 (773) 273-8152</span>
+                                                        <span>+1 (202) 697-9168</span>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td align="center">
-                                                        <span>9:00 AM – 6:00 PM EST</span>
+                                                        <span>9:00 AM – 5:00 PM EST</span>
                                                         </td>
                                                     </tr>
                                                 </tbody></table>
@@ -817,7 +874,8 @@
                     <tr>
                         <td valign="top">
                             <!--editable region-->
-							
+                            <div style="position:relative">
+                                
     <div class="Main2012txt">
         <div class="MainLeftSide">
             <h1>
@@ -996,7 +1054,6 @@
   <span id="ctl00_ContentPlaceHolder1_privacy_lbl"></span>
     <ul>
       <li id="ctl00_ContentPlaceHolder1_privacy_ABOUT"><a href="aboutus.aspx" id="ctl00_ContentPlaceHolder1_privacy_A1">About Genie9</a></li>
-      <li id="ctl00_ContentPlaceHolder1_privacy_VISION"><a href="vision.aspx" id="ctl00_ContentPlaceHolder1_privacy_A2">Company Vision</a></li>
       <li id="ctl00_ContentPlaceHolder1_privacy_NEWS"><a href="news.aspx" id="ctl00_ContentPlaceHolder1_privacy_A3">Genie News</a></li>
       <li id="ctl00_ContentPlaceHolder1_privacy_PRIVACY" class="Newrightmenusel"><a href="privacy.aspx" id="ctl00_ContentPlaceHolder1_privacy_A4">Privacy Statement</a></li>
       <li id="ctl00_ContentPlaceHolder1_privacy_LEGAL"><a href="legal.aspx" id="ctl00_ContentPlaceHolder1_privacy_A5">Legal Notices</a></li>
@@ -1014,6 +1071,14 @@
         </div>
     </div>
 
+                                <div style="width: 138px; position: absolute; right: -137px; top: -30px;">
+                                    <div id="zTowers">
+                                        <div style="display: block;"><a href="https://www.zoolz.com/" target="_blank"><img src="/images/Zoolz_Genie9_Banners_1.png" border="0"></a></div> 
+                                        <div style="display: none;"><a href="https://www.zoolz.com/" target="_blank"><img src="/images/Zoolz_Genie9_Banners_2.png" border="0"></a></div> 
+                                        <div style="display: none;"><a href="https://www.zoolz.com/" target="_blank"><img src="/images/Zoolz_Genie9_Banners_3.png" border="0"></a></div> 
+                                    </div>
+                                </div>
+                            </div>
                         </td>
                     </tr>
                 </tbody></table>
@@ -1199,7 +1264,7 @@
                 <span class="FooterTitle footerHeader"><a href="http://www.zoolz.com" id="ctl00_ctl40_A24">
                     Cloud</a></span> <a href="../GCloud.aspx" id="ctl00_ctl40_A5">G Cloud for Android</a><br>
                 <a href="https://www.Zoolz.com" id="ctl00_ctl40_A51">Zoolz Cloud</a><br>
-                <a href="http://www.timelinecloud.com/CloudTurtle" id="ctl00_ctl40_A33">Cloud Turtle
+                <a href="http://www.genie9.com/CloudTurtle/home.aspx" id="ctl00_ctl40_A33">Cloud Turtle
                     <i>(FREE)</i></a><br>
             </div>
         </div>
@@ -1265,7 +1330,7 @@
     <div style="clear: both">
     </div>
     <div style="padding: 10px 20px; border-top: 1px solid #404349; text-align: center;">
-        Copyright© <a href="http://www.genie9.com">Genie9</a> Corporation 2010-2012. <a href="http://www.genie9.com">
+        Copyright© <a href="http://www.genie9.com">Genie9</a> Corporation 2010-2013. <a href="http://www.genie9.com">
             Data Backup</a> and <a href="http://www.genie9.com">Disaster Recovery Software</a>.
         All rights reserved.
     </div>
@@ -1294,6 +1359,7 @@
         })();
     </script>
 
+    
 
 
 
