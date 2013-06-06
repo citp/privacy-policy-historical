@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hopkinsmedicine.org privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202125641id_/http%3A//www.hopkinsmedicine.org/Privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hopkinsmedicine.org privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606050503id_/http%3A//www.hopkinsmedicine.org/Privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer
 
@@ -28,7 +28,7 @@ If you choose to provide us with personal information by sending an email, or by
 
 ## Links to Other Sites
 
-Please note that some pages within this Web site, for the convenience of users, are linked to Web sites not managed by Johns Hopkins Medicine. Neither The Johns Hopkins University nor The Johns Hopkins Health System review, control or take responsibility for the content of theose Web sites.
+Please note that some pages within this Web site, for the convenience of users, are linked to Web sites not managed by Johns Hopkins Medicine. Neither The Johns Hopkins University nor The Johns Hopkins Health System review, control or take responsibility for the content of those Web sites.
 
 Links from this Web site to Web sites not managed by Johns Hopkins Medicine do not imply endorsement or credibility of the service, information or product offered through the linked sites  
 
