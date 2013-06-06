@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the metopera.org privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024222059id_/http%3A//www.metoperafamily.org/metopera/utility/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metopera.org privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606171910id_/http%3A//www.metoperafamily.org/metopera/utility/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last updated April 10, 2012
+Last updated February 27, 2013
 
 The Metropolitan Opera is committed to protecting the privacy and personal information of visitors to our websites. The personal information referred to in this statement of our Privacy Policy includes, but may not be limited to, names, addresses, telephone numbers, e-mail addresses, and credit card information. As part of our commitment to your privacy, we support and adhere to the guidelines and practices adopted by the [Direct Marketing Association’s Privacy Promise to American Consumers.](http://www.dmaconsumers.org/privacy.html)
 
@@ -33,7 +33,8 @@ Tracking Tags (also known as “web beacons,” “action tags” or “single-p
 
 **Personal Information**  
 
-When a user of our websites requests brochures, enters quizzes, or purchases a membership, tickets, merchandise, or other items, we must have the information necessary to process the transaction: name, address, telephone number, e-mail address and, when applicable, credit card number. For reasons of security, no credit card information is shared with any third parties or stored permanently on our web server. If a user registers at our sites, but does not make a request or purchase, this same information, is collected with the exception of credit card information.  
+When a user of our websites requests brochures, enters quizzes, uses performance/season selection tools, or purchases a membership, tickets, merchandise, or other items, we must have the information necessary to process the transaction: name, address, telephone number, e-mail address and, when applicable, credit card number. For reasons of security, no credit card information is shared with any third parties or stored permanently on our web server. If a user registers at our sites, but does not make a request or purchase, this same information, is collected with the exception of credit card information.
+
 In addition to using your name and contact information to fulfill your requests, process your transactions or to award prizes, your name and contact information will be added to our database, and we may perform statistical analyses of user behavior to measure interest in the various areas of our sites. You may receive direct mail or telemarketing calls from the Met. We sometimes make names and addresses available to select organizations for direct mail marketing purposes, With the exception of American Ballet Theatre, we do not provide our lists to any organizations for e-mail or telemarketing use.
 
 We may release information if we are required to do so by law or in the good faith belief that it is necessary to comply with the law or legal process served on us or protect and defend our legitimate business interests, rights or property or rights of our customers and patrons.
@@ -51,8 +52,8 @@ Further, although we believe that our security procedures are appropriate to pro
 
 **Jurisdiction and Venue**
 
-All users, including those who access the web sites from a country other than the U.S., agree by virtue of their use that the laws of the State of New York shall govern any disputes, including any arising from or in connection with use of the sites and any arising from the Met’s use of personal information or otherwise relating to privacy and that any claim made against the Met can be brought only in a federal or state court in New York County, New York, all as specified in our [_Terms and Conditions_](http://www.metoperafamily.org/metopera/utility/terms_conditions.aspx "Terms and Conditions").
+All users, including those who access the web sites from a country other than the U.S., agree by virtue of their use that the laws of the State of New York shall govern any disputes, including any arising from or in connection with use of the sites and any arising from the Met’s use of personal information or otherwise relating to privacy and that any claim made against the Met can be brought only in a federal or state court in New York County, New York, all as specified in our [Terms and Conditions](http://www.metoperafamily.org/metopera/utility/terms_conditions.aspx "Terms and Conditions").
 
 **Contact Information**
 
-If you have any questions regarding this privacy policy, please contact us at [_metinfo@metopera.org_](mailto:metinfo@metopera.org) 
+If you have any questions regarding this privacy policy, please contact us at [metinfo@metopera.org](mailto:metinfo@metopera.org) 
