@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jauce.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122060534id_/http%3A//www.jauce.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jauce.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606090312id_/http%3A//jauce.com/privacy.php) for the most accurate reproduction.*
 
 # Yahoo Japan Auctions. eBay Japan
 
-[TOP](https://web.archive.org/web/20121122060534id_/http%3A//www.jauce.com/index.php) > Privacy Policy 
+[TOP](https://web.archive.org/web/20130606090312id_/http%3A//jauce.com/index.php) > Privacy Policy 
 
 ### Privacy Policy
 
