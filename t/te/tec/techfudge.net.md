@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techfudge.net privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130015315id_/http%3A//techfudge.net/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfudge.net privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606145714id_/http%3A//techfudge.net/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Techfudge
 
