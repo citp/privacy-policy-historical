@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenassauguardian.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231202240id_/http%3A//www.thenassauguardian.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D118%26Itemid%3D67) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenassauguardian.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606132020id_/http%3A//www.thenassauguardian.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D118%26Itemid%3D67) for the most accurate reproduction.*
 
 # The Nassau Guardian
 
@@ -78,4 +78,4 @@ We cannot withhold data we collect about you, as per The Data Protection Act 199
 
 **8.  Contacting Us**
 
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy.  We welcome any communication via the email address supplied here: [editor@nasguard.com](mailto:editor@nasguard.com)
+Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy.  We welcome any communication via the email address supplied here: editor@nasguard.com
