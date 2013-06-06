@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the influitive.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209234020id_/http%3A//influitive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influitive.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606143006id_/http%3A//influitive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Influitive B2B Advocate Marketing Programs | Influitive B2B Advocate Marketing Programs
+# Privacy Policy | Advocate Marketing Programs
 
 Influitive Inc. (“ **we** ”/” **us** ”/” **Influitive** ”) offers products and services aimed at corporate customers but in certain instances we may have access to personally identifiable information about visitors to our website,[www.influitive.com](http://www.influitive.com/) (the “w **ebsite** ”).  This Privacy Statement provides details of our data policies in relation to data collected from visitors to our website.
 
