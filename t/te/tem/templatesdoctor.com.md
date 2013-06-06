@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatesdoctor.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123174821id_/http%3A//docs.templatesdoctor.com/2012/02/privacy-policy-templates-doctor.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatesdoctor.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606043837id_/http%3A//docs.templatesdoctor.com/2012/02/privacy-policy-templates-doctor.html) for the most accurate reproduction.*
 
 # Documents | Template Doctor: Privacy Policy | Templates Doctor
 
