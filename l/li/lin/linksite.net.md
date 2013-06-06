@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linksite.net privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231101828id_/http%3A//www.linksite.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksite.net privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606063521id_/http%3A//www.linksite.net/privacy_policy.html) for the most accurate reproduction.*
 
-# LinkSite.net - Premium Link Directory. Free and Paid Links. Human-Edited. - Privacy Policy
+# LinkSite.net - Premium Link Directory. Human-Edited. - Privacy Policy
 
   * **Privacy Policy**   
 We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to all the LinkSite.net domain and services.) 
