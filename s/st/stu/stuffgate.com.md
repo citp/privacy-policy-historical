@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuffgate.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231072954id_/http%3A//stuffgate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuffgate.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606050705id_/http%3A//stuffgate.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - StuffGate
 
