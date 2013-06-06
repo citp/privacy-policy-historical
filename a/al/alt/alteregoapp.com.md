@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alteregoapp.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115170326id_/https%3A//alteregoapp.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alteregoapp.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606032427id_/https%3A//alteregoapp.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AlterEgo
 
