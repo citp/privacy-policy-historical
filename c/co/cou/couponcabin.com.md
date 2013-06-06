@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the couponcabin.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225082401id_/http%3A//www.couponcabin.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponcabin.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606095612id_/http%3A//www.couponcabin.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - CouponCabin.com
+# Privacy Policy for CouponCabin.com
 
 ## Privacy Policy - CouponCabin.com
 
 Last Updated: December 8, 2011
 
-This is the Privacy Policy of CouponCabin LLC ("CouponCabin" or "us" or "we"). Our [Terms and Conditions ](https://web.archive.org/web/20121225082401id_/http%3A//www.couponcabin.com/terms.htm), which incorporates by reference this Privacy Policy, governs your use of our online services, any content or information therein, the CouponCabin.com website, any subdomains of CouponCabin.com, and any other website pages on which services are provided by us (collectively, the "Site").
+This is the Privacy Policy of CouponCabin LLC ("CouponCabin" or "us" or "we"). Our [Terms and Conditions ](https://web.archive.org/terms/), which incorporates by reference this Privacy Policy, governs your use of our online services, any content or information therein, the CouponCabin.com website, any subdomains of CouponCabin.com, and any other website pages on which services are provided by us (collectively, the "Site").
 
 Our Privacy Policy was developed as an extension of our commitment to combine quality coupons and deals for products and services with integrity in dealing with our users. Our Privacy Policy is designed to assist you in understanding how we collect, use and store the personal information you provide to us.
 
-Please read the [Terms and Conditions](https://web.archive.org/web/20121225082401id_/http%3A//www.couponcabin.com/terms.htm) and this Privacy Policy carefully. Our [Terms and Conditions](https://web.archive.org/web/20121225082401id_/http%3A//www.couponcabin.com/terms.htm) and Privacy Policy may be modified by us from time to time. Any modifications we make will be effective immediately upon posting to the Site and the effective date of the latest version of the Privacy Policy will appear on this page. It is your responsibility to regularly check the Site to determine if there have been changes to the [Terms and Conditions](https://web.archive.org/web/20121225082401id_/http%3A//www.couponcabin.com/terms.htm) or the Privacy Policy and to review the changes.
+Please read the [Terms and Conditions](https://web.archive.org/terms/) and this Privacy Policy carefully. Our [Terms and Conditions](https://web.archive.org/terms/) and Privacy Policy may be modified by us from time to time. Any modifications we make will be effective immediately upon posting to the Site and the effective date of the latest version of the Privacy Policy will appear on this page. It is your responsibility to regularly check the Site to determine if there have been changes to the [Terms and Conditions](https://web.archive.org/terms/) or the Privacy Policy and to review the changes.
 
 To ask us questions or offer comments, please contact us at the email address provided below.
 
@@ -72,7 +72,7 @@ In an effort to prevent unauthorized access, disclosure or accidental loss or de
 
 **International Users**
 
-This Site is hosted and operated in the United States of America. Those who access or use the Site from other jurisdictions do so at their own choice and risk and are solely responsible for compliance with local law. Please note that the personal information you submit to our Site will be transferred to and stored in the United States to be processed by us so we can provide this Site to you as set forth in this Privacy Policy and the [Terms and Conditions](https://web.archive.org/web/20121225082401id_/http%3A//www.couponcabin.com/terms.htm).
+This Site is hosted and operated in the United States of America. Those who access or use the Site from other jurisdictions do so at their own choice and risk and are solely responsible for compliance with local law. Please note that the personal information you submit to our Site will be transferred to and stored in the United States to be processed by us so we can provide this Site to you as set forth in this Privacy Policy and the [Terms and Conditions](https://web.archive.org/terms/).
 
 If you are not a resident of the United States, you acknowledge and agree that we may collect and use your personal information outside your home jurisdiction, and that we may store your personal information in the United States. Please note that the level of legal protection provided in the United States or other non-European countries in which you may access our Site may not be as stringent as that under European Union privacy standards or the privacy laws of some other countries, possibly including your home jurisdiction.
 
