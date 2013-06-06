@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belgianfootball.be privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102012107id_/http%3A//www.belgianfootball.be/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belgianfootball.be privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606232215id_/http%3A//belgianfootball.be/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Royal Belgian Football Association
 
@@ -80,7 +80,9 @@ Our website uses three types of cookies:
 
 As a general rule, blocking of cookies does not prevent you from browsing our website, unless they are session cookies, which are necessary to allow and maintain access to personalized functions on the website that are reserved for registered users.
 
-URBSFA is a member of the Media Information Centre (CIM) and uses its Metriweb application. That is why you will find this logo at the bottom of our web pages:  .  Each time you visit a website with that logo, CIM uses a cookie to collect information about the pages you consult (number of page requests, visits, etc). This information is collected purely for statistical purposes and does not allow you to be identified. For more information and to see the updated results of this survey, click on the CIM logo or visit their website at this address: [http://www.cim.be](http://www.cim.be/ "http://www.cim.be").
+Ce site participe à l’Etude CIM Internet. Les sites qui reprennent le logo [](http://www.cim.be/fr/media/Internet) rassemblent des données sur le nombre de visiteurs et de pages visitées à l’aide de cookies. Un cookie est un petit fichier texte qui est placé par un serveur sur le disque dur de votre ordinateur. Aucun logiciel supplémentaire n’est installé. Un cookie n’endommage en rien votre matériel ou les programmes que vous utilisez.
+
+                                                                                                                                                                                Les données qui sont récoltées dans le cadre de cette étude sont tout à fait anonymes. Elles servent uniquement à la comparaison du nombre de visiteurs sur les sites participants. Vous trouverez de plus amples [informations sur l’étude](http://www.cim.be/fr/media/Internet) et sur les [résultats de la mesure](http://www.cim.be/fr/media/internet/trafic/r%C3%A9sultats) sur  le site du CIM.
 
 ###  Hyperlinks
 
