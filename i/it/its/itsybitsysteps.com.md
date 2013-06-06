@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsybitsysteps.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205161327id_/http%3A//itsybitsysteps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsybitsysteps.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606022036id_/http%3A//itsybitsysteps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ItsyBitsySteps
 
