@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nailsmag.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203202440id_/http%3A//www.nailsmag.com/privacy-policy%3Fref%3Dftr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nailsmag.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606022048id_/http%3A//www.nailsmag.com/privacy-policy%3Fref%3Dftr) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy pertains to the use of the NAILS Magazine website at www.nailsmag.com.
+This privacy policy pertains to the use of the NAILS Magazine website at www.nailsmag.com and is in addition to [Bobit Business Media privacy policy](http://www.bobitbusinessmedia.com/privacy.aspx).
 
 **Information we collect**
 
