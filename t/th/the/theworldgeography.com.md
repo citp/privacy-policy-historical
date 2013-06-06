@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theworldgeography.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220195601id_/http%3A//www.theworldgeography.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworldgeography.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606233208id_/http%3A//www.theworldgeography.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # THE WORLD GEOGRAPHY: Privacy Policy
 
@@ -23,5 +23,3 @@ This site contains links to other sites. World Geography is not responsible for 
 **Contacting the Web Site**  
   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
-
-[Read more!](http://www.theworldgeography.com/p/privacy-policy.html)
