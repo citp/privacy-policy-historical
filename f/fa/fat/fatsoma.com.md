@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fatsoma.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203010025id_/http%3A//www.fatsoma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatsoma.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606030730id_/http%3A//www.fatsoma.com/privacy) for the most accurate reproduction.*
 
-# Fatsoma
+# Fatsoma Social Ticketing - Buy Tickets for Nightclubs, Events and Festivals.
 
 Fatsoma Limited ("Fatsoma") is committed to ensuring that your privacy is protected. This privacy policy explains how we use the information we collect about you (or that you provide us with), how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. 
 
