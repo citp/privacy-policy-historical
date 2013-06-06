@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemicalregister.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051452id_/http%3A//www.chemicalregister.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemicalregister.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606051014id_/http%3A//www.chemicalregister.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy of ChemicalRegister.com - The online yellow pages for the chemical industry buyer or supplier
 
@@ -23,7 +23,7 @@ We respect the privacy of those who visit our web site and those who become subs
 
 
   * **[Jobs Section](http://chemicalregister.4jobs.com/): **ProcessRegister provides users the manufacturing career and job development areas through partnership with [Artemis HR](http://www.artemishr.com/). If you register for services offered in the "JOB" areas of our portal, personal information you provide is maintained by Artemis HR in accordance with [Artemis HR's privacy policy](http://chemicalregister.4jobs.com/MKT/Content/JS/default.asp?pg=privacy).
-  * **[FREE Magazines Section](http://chemicalregister.tradepub.com/): **ProcessRegister offers users the FREE chemical trade magazines through partnership with [TradePub.com](http://www.tradepub.com/), a division of NetLine corporation. If you register for services offered in those "Magazine" areas of our portal, personal information you provide is maintained by NetLine in accordance with [NetLine's privacy policy](http://chemicalregister.tradepub.com/?p=priv&w=p).
+  * **[FREE Magazines Section](http://chemicalregister.tradepub.com/): **ProcessRegister offers users the FREE chemical trade magazines through partnership with [TradePub.com](http://www.tradepub.com/), a division of NetLine corporation. If you register for services offered in those "Magazine" areas of our portal, personal information you provide is maintained by NetLine in accordance with [NetLine's privacy policy](https://web.archive.org/web/20130606051014id_/http%3A//www.chemicalregister.com/about/rel=).
 
 
   * We give you the ability to edit your Account Information and preferences at any time, including whether you want us to contact you about new services.
