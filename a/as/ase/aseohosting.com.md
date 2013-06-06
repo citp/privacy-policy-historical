@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the aseohosting.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212062616id_/http%3A//www.aseohosting.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aseohosting.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606141431id_/http%3A//www.aseohosting.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Seo hosting privacy policy statement | Aseohosting client protection
+# Privacy Policy | ASEOHosting
 
 Your privacy policy must state that no information submitted by a buyer will not be shared, sold, reused in lists, or be used for any other purpose than to complete a transaction or address a customer service concern. The following is an example privacy policy, you may replace aseohosting.com with your website name if you would like to use it as the privacy policy on your site.
 
 ## PRIVACY STATEMENT
 
-aseohosting.com values the privacy and security of the information that you share with us through aseohosting.com. It is important that you understand how we collect, use, and maintain your information. This Privacy Statement explains our online information practices, the choices you may make about how we collect and use your information at this Web Site, and the ways you may contact us.
+ASEOHosting values the privacy and security of the information that you share with us through aseohosting.com. It is important that you understand how we collect, use, and maintain your information. This Privacy Statement explains our online information practices, the choices you may make about how we collect and use your information at this Web Site, and the ways you may contact us.
 
 We may change this Privacy Statement from time to time. Changes to this Privacy Statement are effective upon posting. Please check back periodically for updates.
 
@@ -26,7 +26,7 @@ aseohosting.com does not sell products for purchase by children, but we do sell 
 aseohosting.com may use and disclose Personal Information or Prospect Information as described in this document. In addition to the uses described in this document, we may use Personal Information or Prospect Information for purposes that include maintaining the Web Site, order fulfillment and administration, and product surveys, administrative and analytical purposes like accounting, billing and audits, and information system management, and other, similar uses. We may also use Personal Information or Prospect Information to provide current and potential customers and suppliers with information about our services.  
 We only collect, use, and disclose Personal Information or Prospect Information for purposes that are reasonable in the circumstances. We use only fair and lawful means to collect Personal Information or Prospect Information.
 
-**Protection of aseohosting.com and Others :**  
+**Protection of ASEOHosting and Others :**  
 We may use or disclose Personal Information or Prospect Information without your consent in certain circumstances:  
 \- If we are required by law or by an order or requirement of a court, administrative agency, or other government entity, or by court rules concerning the production of records;  
 \- If we have reasonable grounds to believe that use or disclosure is necessary to protect the rights, privacy, property, or safety of our users or others;  
