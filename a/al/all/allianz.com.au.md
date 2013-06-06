@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125044137id_/http%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606123456id_/http%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -134,6 +134,13 @@ We also use other external companies for the following purposes:
     * To gather non-personal information (using cookies) in order to evaluate the effectiveness of online marketing activities, for example.
 
 
+
+  
+
+
+### Call recording
+
+Allianz may record incoming and / or outgoing telephone calls for training or verification purposes. If you require access to a recorded call, a copy or appropriate access will be provided by Allianz where available. It should be noted that not all calls are recorded by Allianz and therefore not all calls will be accessible upon request.
 
   
 
