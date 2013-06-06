@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the audiobooks.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113115145id_/http%3A//www.audiobooks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiobooks.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606154603id_/http%3A//www.audiobooks.com/privacy) for the most accurate reproduction.*
 
-# Audiobooks.com | Privacy Policy | Listen to Audio Books with Audiobooks.com Unlimited Audio Book Program
+# Audiobooks.com | Privacy Policy | Try audio books for free with Audiobooks.com audiobook Program
 
 ### Privacy Policy
 
@@ -16,7 +16,7 @@ We collect personal information that we believe will improve our ability to offe
   * Listening History: We collect information on content that is downloaded or streamed, pages viewed on our website, and links that are clicked on. This is NOT connected to individual accounts
   * Viewing Web Pages: As with most web sites, your computer sends information that gets logged by a web server when you browse our site. This typically includes your computer's IP address, operating system, browser name/version, the referring web page, requested page, date/time, and sometimes a "cookie" (which can be disabled using your browser preferences) to help the site remember your last visit. The information is included in anonymous statistics to allow us to understand how visitors use our site
   * Social Media: If you voluntarily participate in communications with us, including but not limited to blog comments, Facebook posts, tweets and improvement suggestions, we maintain information such as your nickname
-  * Email Address and First Name: We ask you for your email address. We use this information to keep you updated, ask you to participate in surveys that help us make Audioboks.com better, respond to or confirm your requests, and notify you of unusual account actions (e.g. password resets). We will assume you are interested in receiving emails from us and knowing when there are updates to Audiobooks.com or its service, including any updates to its functionality or to the content available (allowing you to "opt-out" if you are not interested). There may be cases in which we use this information to provide you with promotional information related to Audiobooks.com or any offer Audiobooks.com deems would be of interest to its members. You can opt-out of email communications from us at any time
+  * Email Address and First Name: We ask you for your email address. We use this information to keep you updated, ask you to participate in surveys that help us make Audiobooks.com better, respond to or confirm your requests, and notify you of unusual account actions (e.g. password resets). We will assume you are interested in receiving emails from us and knowing when there are updates to Audiobooks.com or its service, including any updates to its functionality or to the content available (allowing you to "opt-out" if you are not interested). There may be cases in which we use this information to provide you with promotional information related to Audiobooks.com or any offer Audiobooks.com deems would be of interest to its members. You can opt-out of email communications from us at any time
 
 
 
