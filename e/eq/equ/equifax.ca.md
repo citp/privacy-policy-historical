@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equifax.ca privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127041754id_/http%3A//www.consumer.equifax.ca/privacy_policy/en_ca) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equifax.ca privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606025200id_/http%3A//www.consumer.equifax.ca/privacy_policy/en_ca) for the most accurate reproduction.*
 
 # Equifax Canada - Privacy Policy
 
@@ -46,7 +46,7 @@ Questions and concerns about information in an individual's credit file should b
 
 Consumer Relations, 
 
-Equifax Canada Inc.
+Equifax Canada Co.
 
 Box 190 Jean Talon Station
 
@@ -60,7 +60,8 @@ General questions about Equifax's commitment to personal privacy and data protec
 
 **Chief Privacy Officer**
 
-**Equifax Canada Inc.**
+**Equifax Canada Co.  
+**
 
 **5650 Yonge St., 13th Floor**
 
@@ -240,7 +241,7 @@ In some circumstances, Equifax may be required to disclose personal information 
 
 **Principle No. 6:   Accuracy**
 
-Equifax is committed to collecting, using and disclosing the most accurate information reasonably available to it. If you have reviewed your credit file and believe that an item is not accurately reported, please complete the Consumer Credit Update Form which accompanies the consumer credit file you receive from Equifax and mail it to: Equifax Canada Inc., Consumer Relations Department, Box 190 Jean Talon Station, Montreal, Quebec, H1S 2Z2. You may also call Equifax Consumer Relations at 1-800-465-7166.
+Equifax is committed to collecting, using and disclosing the most accurate information reasonably available to it. If you have reviewed your credit file and believe that an item is not accurately reported, please complete the Consumer Credit Update Form which accompanies the consumer credit file you receive from Equifax and mail it to: Equifax Canada Co., Consumer Relations Department, Box 190 Jean Talon Station, Montreal, Quebec, H1S 2Z2. You may also call Equifax Consumer Relations at 1-800-465-7166.
 
 From time to time, Equifax customers may cease reporting information to Equifax. In order to maintain the accuracy of your information, when this occurs, Equifax will remove all information previously provided by that customer from your credit file within 60 days of the cessation of reporting.
 
@@ -282,7 +283,7 @@ If you have any questions about this policy or Equifax's practices and procedure
 
 **Chief Privacy Officer  **
 
-**Equifax Canada Inc.  **
+**Equifax Canada Co.  **
 
 **5650 Yonge St., 13th floor  **
 
@@ -292,7 +293,7 @@ If you have any questions about this policy or Equifax's practices and procedure
 
 We would be pleased to provide you with a printed copy of this policy upon your request.
 
-Equifax may amend this policy from time to time and may include additional schedules and appendices. The version of the Privacy Policy that appears on the Equifax Canada Inc. website will always be the most current version.
+Equifax may amend this policy from time to time and may include additional schedules and appendices. The version of the Privacy Policy that appears on the Equifax Canada Co.,website will always be the most current version.
 
 **Principle No. 9 : Individual access**
 
@@ -312,7 +313,7 @@ For more information about Equifax's Privacy Policy or to advise us of a privacy
 
 **Chief Privacy Officer  **
 
-**Equifax Canada Inc.  **
+**Equifax Canada Co.  **
 
 **5650 Yonge St., 13th floor  **
 
