@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dcu.ie privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231052640id_/http%3A//www.dcu.ie/info/regulations/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcu.ie privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606114022id_/http%3A//www.dcu.ie/info/regulations/privacy.shtml) for the most accurate reproduction.*
 
 # Information - Dublin City University Privacy Statement | DCU
+
+## Dublin City University Privacy Statement
 
 This statement relates to Dublin City University's privacy practices in connection with University websites. The University is not responsible for the content or privacy practices of other websites. External links to other websites are not always clearly identifiable as such. Within the Dublin City University domain you may find websites over which the University has no editorial responsibility or control. Such sites can include the websites of student organisations etc. While the University encourages compliance with this web privacy statement at such sites, please consult the privacy statements of individual sites or contact the persons responsible for those sites, in order to understand the policies and practices under which they operate.
 
@@ -14,7 +16,7 @@ Dublin City University does not collect any personal data about you on this webs
 
 ### Collection and use of technical information
 
-_[Cookies](https://web.archive.org/web/20121231052640id_/http%3A//www.dcu.ie/info/regulations/cookies.shtml)_
+_[Cookies](https://web.archive.org/web/20130606114022id_/http%3A//www.dcu.ie/info/regulations/cookies.shtml)_
 
 may be used by the DCU website to collect non-personal information about how visitors use our website or to remember display preferences.  Temporary session cookies may also be used in some areas to enable specific functionality (e.g. portal pages).  Session cookies are deleted once you close your browser session. 
 
