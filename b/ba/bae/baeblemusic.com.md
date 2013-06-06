@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baeblemusic.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208071056id_/http%3A//www.baeblemusic.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baeblemusic.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606025819id_/http%3A//www.baeblemusic.com/privacy.aspx) for the most accurate reproduction.*
 
 # Baeblemusic.com – Live Music, Music Videos, Music News and Features, Free Music Downloads and Podcasts.
 
@@ -11,8 +11,7 @@ BAEBLE NEWSLETTER
 
 [](http://feeds.feedburner.com/Baeblemusic)SUBSCRIBE
 
-  
-
+[](http://www.youtube.com/baeblemusic)
 
 Baeblemusic.com is an online destination for free live concert videos. Baeble lays claim to an ever growing library of full-length concerts from today's hottest artists, enabling those from outside the largest markets to share in a unique live music experience of their favorite emerging bands. Baeble Music cares about its users' online privacy. If you have any questions concerning this privacy policy, please email us at [info@baeblemusic.com](mailto:info@baeblemusic.com). 
 
