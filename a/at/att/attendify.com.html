@@ -1,0 +1,661 @@
+<!--The following is the downloaded HTML source of the attendify.com privacy policy that was archived on 2013-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606022159id_/http%3A//attendify.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+		
+
+		<link rel="stylesheet" href="/media/CACHE/css/4e3ed01aa0e7.css" type="text/css" media="all">
+    <!--[if lt IE 9]> <link rel="stylesheet" href="/media/css/general/ie8.css?1370486154.43" type="text/css" media="all" /> <![endif]-->
+    <!--[if lt IE 9]>
+    <script src="/media/js/general/html5shiv.js"></script>
+    <![endif]-->
+
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/baba7505822f7cc7049031b5dd6d780c7ce90bb4.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" src="/media/CACHE/js/573cb24c098b.js"></script>
+
+    <script type="text/javascript">
+        var KMS = {};
+        KMS.environment = "production";
+        KMS.userId = null;
+        KMS.kissmetrics = "";
+    </script>
+  
+    
+      <script type="text/javascript">
+ var _kmq = _kmq || [];
+  var _kmk = _kmk || 'baba7505822f7cc7049031b5dd6d780c7ce90bb4';
+  function _kms(u){
+    setTimeout(function(){
+      var d = document, f = d.getElementsByTagName('script')[0],
+      s = d.createElement('script');
+      s.type = 'text/javascript'; s.async = true; s.src = u;
+      f.parentNode.insertBefore(s, f);
+    }, 1);
+  }
+  _kms('//i.kissmetrics.com/i.js');
+  _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+</script>
+      <script type="text/javascript" src="/media/js/kitapps/kissmetrics.js?1370486154.43"></script>
+      <script type="text/javascript">
+          try{
+              window.KissMetrics.identify()
+          }catch(err){}
+      </script>
+    
+
+    
+    
+  <title>Attendify | Privacy Policy</title>
+
+
+    
+      <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39744415-1']);
+  _gaq.push(['_setDomainName', 'attendify.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+//  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+//  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+//  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+//  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+//  ga('create', 'UA-39744415-1', 'attendify.com');
+//  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+    $(function(){
+
+        $('.ga-create-app').click(function(){
+            _gaq.push(['action', 'create new app']);
+        });
+    });
+
+
+</script>
+      <script type="text/javascript">
+        
+      </script>
+    
+
+    <script type="text/javascript">
+      // http://stackoverflow.com/questions/5100539/django-csrf-check-failing-with-an-ajax-post-request
+
+      var ajaxSetupConfig = {
+        beforeSend: function(xhr, settings) {
+          if (!(/^http:.*/.test(settings.url) || /^https:.*/.test(settings.url))) {
+             // Only send the token to relative URLs i.e. locally.
+             xhr.setRequestHeader("X-CSRFToken", getCookie('csrftoken'));
+          }
+        },
+        complete: function(r){
+            if(null !== (login = r.getResponseHeader('X-Kitapps-Auth-Page'))) {
+                window.location = login;
+            }
+        }
+      }
+      $.ajaxSetup(ajaxSetupConfig);
+    </script>
+
+
+    
+    
+  
+    <script id="tmplFancyConfirm" type="text/html">
+  <div class="overlay"></div>
+  <div class="popup popup-warning has-arrow">
+    <div class="popup-head">
+      <span class="notice ico-attention">Notice</span>
+    </div>
+    <div class="popup-content">
+      <p><%= messageText %></p>
+      <div class="popup-actions">
+        <a href="#" class="btn-grey btn-middle z-no"><%= cancelText %></a>
+        <a href="#" class="btn-blue btn-middle z-yes"><%= okText %></a>
+      </div>  
+    </div>
+  </div>
+</script>
+
+<script id="tmplDashFancyConfirm" type="text/html">
+  <div class="overlay"></div>
+  <div class="popup">
+    <span class="arrow"></span>
+    <span class="notice">Notice</span>
+    <p><%= messageText %></p>
+    <a href="#" class="btn-grey btn-middle z-no"><%= cancelText %></a>
+    <a href="#" class="btn-blue btn-middle z-yes"><%= okText %></a>
+  </div>
+</script>
+
+<script id="tmplDashFancyAlert" type="text/html">
+    <div class="overlay"></div>
+    <div class="popup popup-help popup-alert popup-deleteapp" style="display:block;">
+        <div class="head">
+            Delete Your App
+            <span class="close-popup z-cls-close"></span>
+        </div>
+
+        <div class="popup-content">
+
+            <p>
+                Are you sure you want to delete this app?  This action cannot be undone, your app will be permanently deleted along with any data added to the app.
+            </p>
+           <div class="label-confirm">
+             <label>
+              <input type="checkbox" class="z-cls-confirm"/>
+              Yes, I want to delete my app
+            </label>
+           </div>
+            <div class="popup-controls">
+              <button class="btn-light-grey z-no">Cancel</button>
+              <button class="btn-red btn-disable z-yes">Delete</button>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script id="tmplFancyWarningS2" type="text/html">
+    <div class="fancy-confirm">
+        <div class="overlay"></div>
+        <div class="popup tip-view-type has-arrow arrow-right popup-warning">
+            <div class="popup-head">
+              <span class="notice">Tip</span>
+            </div>
+            <div class="popup-content">
+              <p>When more than 9 tabs are selected we suggest switching to a list layout. Would you like to change it now?</p>
+              <div class="popup-actions">
+                <a href="#" class="btn-grey btn-middle z-no">Cancel</a>
+                <a href="#" class="btn-blue btn-middle z-yes">Ok</a>
+              </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script id="tmplFancyAlert" type="text/html">
+  <div class="fancy-confirm">
+      <div class="overlay"></div>
+      <div class="popup alert popup-warning">
+        <div class="popup-head">
+          <span class="notice ico-attention">Warning</span>
+        </div>
+        <div class="popup-content">
+          <p><%= messageText %></p>
+          <div class="popup-actions">
+            <a class="btn-blue btn-middle z-yes" href="#"><%= okText %></a>
+          </div>
+        </div>
+      </div>
+  </div>
+</script>
+
+<script id="tmplUploader" type="text/html">
+	<div class="wrapp-input-file clearfix">
+		<span class="file-input-wrapper file_span">
+			<input type="file" id="File1" name="file" class="customFile" />
+		</span>
+		<div class="fakeButton">Select File</div>
+		<div class="blocker"></div>
+    <img class="u-progress" src="/media/css/wizard/images/uploader-progress.gif" />
+		<iframe width="0" height="0" frameBorder="0" src=""></iframe>
+	</div>
+</script>
+
+
+<script id="tmplImageResizer" type="text/html">
+  <div class="icon-preview">
+    <div class="e-image-wrapp" style="width: <%= w %>px; height: <%= h %>px; overflow: hidden; position: relative;">
+      <img class="e-image-source" />
+    </div>
+    <span>Preview</span>
+  </div>
+
+  <div class="e-buttons">
+    <a href="#" class="e-i-scale-plus z-plus"><span></span></a>
+    <a href="#" class="e-i-scale-minus z-minus"><span></span></a>
+    <a href="#" class="e-i-scale-crop z-crop"><span></span></a>
+  </div>
+</script>
+
+  </head>
+
+  <body id="" class="">
+    
+    
+    <div class="at-page">
+        
+        <header class="at-header">
+            <div class="at-wrapper">
+                    
+                    <a href="/" class="ir at-logo" title="Attendify">Attendify</a>
+                    
+                    <div class="at-authentication-box">
+                        
+                        
+	<a href="/accounts/login/" class="at-btn at-btn-lblue login-modal-link">Login</a>
+  <!-- Login -->
+  <div class="login-modal" id="login-modal">
+      <span class="btn-closesm z-btn-close"></span>
+      <h3 class="title">
+          Login
+      </h3>
+      <div class="at-site-form">
+
+        <form action="" method="POST">
+            <div class="control-group">
+              <span bind-error="__all__" class="error"></span>
+            </div>
+            
+            <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="fbb844c3134f9ae43a8179f1e941929b"></div>
+            <div class="control-group">
+              <input name="username" type="text" placeholder="Email" global-error="__all__">
+              <span bind-error="username" class="error"></span>
+            </div>
+            <div class="control-group">
+              <input name="password" type="password" placeholder="Password" global-error="__all__">
+              <span bind-error="password" class="error"></span>
+            </div>
+            <div class="control-group">
+              <a class="forgot-pass-link" href="#" id="forget-password-link">Forgot password</a>
+              <span class="loader" id="login-loader"></span><input type="submit" class="at-btn at-btn-lblue" value="Login">
+            </div>
+        </form>
+      </div>
+  </div>
+  <!-- Login END -->
+  <!-- Forgot Password? -->
+  <div class="login-modal" id="forget-modal">
+    	<span class="btn-closesm z-btn-close"></span>
+      <h3 class="title">
+          Forgot Password?
+      </h3>
+			<p id="forget-desc">Enter your email address and we'll send you instructions to reset your password:</p>
+      <div class="at-site-form">
+        <form action="" method="POST">
+           <div class="control-group">
+              <span bind-error="__all__" class="error"></span>
+           </div>
+                  <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="fbb844c3134f9ae43a8179f1e941929b"></div>
+            <div class="control-group">
+                <input name="forget" type="text" placeholder="Email" class="" global-error="__all__">
+                <span bind-error="forget" class="error"></span>
+            </div>
+            <div class="control-group">
+              <a class="forgot-pass-link login-modal-link" href="#">Login</a>
+              <span class="loader" id="forget-loader"></span> <input type="submit" class="at-btn at-btn-lblue" value="Send">
+            </div>
+        </form>
+      </div>
+  </div>
+  <!-- Forgot Password? END -->
+  <!-- Thank you -->
+  <div class="login-modal" id="instructions-modal">
+    	<span class="btn-closesm z-btn-close"></span>
+      <h3 class="title">
+          Thank you
+      </h3>
+      <p>
+          We emailed instructions to recover your password. If you didn’t received the email, please check your spam folder or contact <a href="/contact/">customer support</a>.
+      </p>
+  </div>
+  <!-- Thank you END -->
+
+
+                        <a href="/signup/" class="at-btn at-btn-lgreen">Sign Up</a>
+                        
+                    </div>
+                     <ul class="at-main-nav">
+                        <li><a href="/features/" class="">Features</a></li>
+                        <li><a href="/demo/" class="">Demo</a></li>
+                        <li><a href="/price/" class="">Pricing</a></li>
+                        <li><a href="/about/" class="">About</a></li>
+                        <li><a href="/contact/" class="">Contact</a></li>
+                        <li><a href="http://attendify.com/blog/" target="_blank">Blog</a></li>
+                    </ul>
+            </div>
+        </header>
+        
+        <div class="at-wrapper">
+            
+    <div class="at-content static-page">
+        <div class="at-content-head">
+            <h1>KitApps/Attendify - Privacy Policy</h1>
+        </div> 
+            <p>
+                KitApps, Inc. (“KitApps”, “we” or “us”) doing business as
+                (DBA) Attendify (“Attendify”) provide a platform allowing you,
+                our clients (“KitApps’ Clients”) to create and manage mobile
+                or web applications (“App” or “Apps”) as well as related
+                hosting and support services (“Services”) using <a href="http://kitapps.com"> http://kitapps.com</a> or <a href="http://attendify.com"> http://attendify.com</a>
+                (“Site”). This document is KitApps’ Privacy Policy which
+                provides information on our policies and procedures regarding
+                the collection, use and disclosure of personal information we
+                receive from (1) KitApps’ Clients, (2) End Users who download
+                and use the Apps created by KitApps’ Clients (“End Users”),
+                and (3) visitors who simply browse the Site (“Visitors”).
+            </p>
+            <p>
+                This Privacy Policy may be updated from time to time. We will
+                notify you of any changes by posting the new Privacy Policy on
+                the Site. You can read the latest version of this Privacy
+                Policy at any time by visiting: <a href="http://attendify.com/privacy">
+                http://attendify.com/privacy</a>. You agree to use the
+                Service at your own risk and subject to the terms set forth
+                below, violation of any of the terms below will result in the
+                termination of your Account.
+            </p>
+            <p>
+                As utilized in this policy, the terms “using” and “processing” information include
+                using cookies on a computer, subjecting the information to statistical or other
+                analysis and using or handling information in any way, including, but not limited to
+                collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and
+                transferring information within our organization or among our affiliates within the
+                United States or internationally.
+            </p>
+
+            <h2>(1) KitApps’ Clients</h2>
+                <ul class="upper-roman">
+                    <li>
+                            If you are a KitApps Customer, when you register with KitApps via our Site to
+                            create and manage Apps, we will ask you for personally identifiable
+                            information, such as your first and last name, company name, email address,
+                            billing address, and credit card information. We use this personal information
+                            mainly to provide the Services and contact KitApps Clients regarding account
+                            activities, new version and product offerings, or other communications
+                            relevant to the Services.
+
+
+                    </li>
+                    <li>
+
+                            In addition, we may collect information related to interactions of End Users
+                            with your Apps as described in part (2) below.
+
+                    </li>
+                    <li>
+
+                            We do not sell any personally identifiable information of KitApps Clients to
+                            any third parties. The circumstances under which we may share such
+                            information with third parties are described in part (4) below.
+
+                    </li>
+                    <li>
+
+                            You may review and update the personally identifiable information in your
+                            profile by logging in and editing such information in your dashboard. If you
+                            decide to delete all of your information we may cancel your account. We may
+                            retain an archived copy of your records as required by law or for reasonable
+                            business purposes.
+
+                    </li>
+                </ul>
+
+            <h2>(2) End Users</h2>
+                <ul class="upper-roman">
+                    <li>
+
+                            If you decide to download and use an Application, we will be collecting and
+                            storing on behalf of the applicable KitApps Customer any personally
+                            identifiable information that you provide to such KitApps Customer, such as,
+                            for instance, your name, email address, postal code, birthday, and other
+                            optional information that a KitApps Customer may choose to collect, which
+                            optional information is not required to use the Application.
+
+                    </li>
+                    <li>
+
+                            If you choose to allow an Application to collect your location data, such
+                            location data will be available to the applicable KitApps Customer. In addition,
+                            if you have an account with Facebook, Twitter, or Foursquare or other similar
+                            websites (each a “Social Network”), your Social Network identity, including
+                            your public picture, may be associated with your location data.
+
+
+                    </li>
+                    <li>
+
+                            You may allow other End Users to send you personal messages, in which case
+                            we may send you alerts when you get a new message. You can turn this
+                            functionality off by using the in-app privacy settings.YOU MAY AT ANY TIME
+                            TURN OFF THIS FUNCTIONALITY BY USING THE IN-APP PRIVACY SETTINGS. We
+                            may also collect your IP addresses as well as non-identifying details such as
+                            the geographic location of the IP address you are using to access the
+                            Internet, the type of browser used, which and how many web pages have
+                            been viewed by you, which Apps you have used, search terms used,
+                            referring/exit pages, platform type and date/time information.
+
+                    </li>
+                    <li>
+
+                            We do not sell any personally identifiable information of End Users to any
+                            third parties. The instances where we may share such information with third
+                            parties are described in part (D) below.
+
+                    </li>
+                    <li>
+
+                            You may be asked by KitApps Clients to provide additional information to
+                            them, including your personally identifiable information, to be used and
+                            shared pursuant to their own privacy policies. We encourage you to read such
+                            privacy policies before providing any information to any KitApps Clients or
+                            other third parties. While working with reputable Clients is a top priority for
+                            us, we are not responsible for the use of your information by KitApps Clients,
+                            and disclaim any liability related thereto.
+
+                    </li>
+                    <li>
+
+                            Apps may contain links to other websites. Such websites may use cookies
+                            and/or other data collection tools. KitApps is not responsible for the privacy
+                            practices, policies or the content of such websites. KitApps encourages you to
+                            read the posted privacy policies whenever interacting with any website to
+                            learn more about the privacy practices of that website.
+
+                    </li>
+                </ul>
+
+
+            <h2>(3) Visitors</h2>
+            <p>
+                This section describes the information that we may collect from Visitors. To the
+                extent you are a KitApps Customer or an End User and visit the Site, this section will
+                apply to you as well.
+            </p>
+                <ul class="upper-roman">
+                    <li>
+
+                            If you contact us by email or by filling-out a registration form, we may keep a
+                            record of your contact information and correspondence, and may use your
+                            email address, and any information that you provide to us in your message,
+                            to respond to you. In addition, we may use the personal information
+                            described above to send you information regarding the Sites and/or the
+                            Services. If you decide at any time that you no longer wish to receive such
+                            information or communications from us, email us at
+                            support@attendify.com and request to be removed from our list.
+
+                    </li>
+                    <li>
+
+                            When you visit the Site, our servers automatically record information that
+                            your browser sends whenever you visit a website (“Log Data”). This Log Data
+                            may include information such as your computer’s IP address, browser type or
+                            the webpage you were visiting before you came to our Site, pages of our Site
+                            that you visit, the time spent on those pages, information you search for on
+                            our Site, access times and dates, and other statistics. We use this information
+                            to monitor and analyze use of the Site and the Services and for the Site’s
+                            technical administration, to increase our Site’s functionality and user-
+                            friendliness, and to better tailor it to our visitors’ needs.
+
+
+                    </li>
+                    <li>
+
+                            Like many websites, we may use both session cookies and persistent cookies
+                            to better understand how you interact with the Site, to monitor aggregate
+                            usage by our users and web traffic routing on the Site, and to improve the
+                            Site and the Services. In addition, please be aware that other parties may
+                            also place their own cookies on the Site, and may collect or solicit personal
+                            information from you. A session cookie enables certain features of the Sites
+                            and the Services and is deleted from your computer when you disconnect
+                            from or leave the Sites. A persistent cookie remains after you close your
+                            browser and may be used by your browser on subsequent visits to the Site.
+                            Persistent cookies can be removed by following your web browser help file
+                            directions. As described above, most Internet browsers automatically accept
+                            cookies. You can instruct your browser, by editing its options, to stop
+                            accepting cookies or to prompt you before accepting a cookie from the
+                            websites you visit.
+
+                    </li>
+                </ul>
+
+            <h2>(4) General</h2>
+            <p>
+                The following provisions apply to everybody (KitApps’ Clients, End Users and
+                Visitors). We may share and/or disclose information that we collect from KitApps’
+                Clients, End Users and Visitors in the following instances:
+            </p>
+                <ul class="upper-roman">
+                    <li>
+
+                            <strong>Aggregate Information and Non-Identifying Information.</strong> We may share
+                            aggregated information that does not include personally identifiable
+                            information and we may otherwise disclose non-identifying information and
+                            Log Data with third parties for industry analysis, demographic profiling and
+                            other purposes.
+
+                    </li>
+                    <li>
+
+                            <strong>Service Providers.</strong> We may employ third party companies and individuals to
+                            facilitate our Site and Services, to provide the Services on our behalf, to
+                            perform Site-related services (e.g., without limitation, maintenance services,
+                            database management, web analytics and improvement of the Site’s
+                            features) or to assist us in analyzing how our Site and Services are used.
+                            These third parties have access to information that we collect from KitApps
+                            Clients, End Users and Visitors only to perform these tasks on our behalf.
+
+                    </li>
+                    <li>
+
+                           <strong> Business Transfers.</strong> KitApps may sell, transfer or otherwise share some or all
+                            of its assets, including personally identifiable information collected from
+                            KitApps’ Clients, End Users and Visitors, in connection with a merger,
+                            acquisition, reorganization or sale of assets or in the event of bankruptcy.
+
+                    </li>
+                    <li>
+
+                            <strong>Compliance with Laws and Law Enforcement.</strong> KitApps cooperates with
+                            government and law enforcement officials and private parties to enforce and
+                            comply with the law. We will disclose any information collected from KitApps
+                            Clients, End Users and Visitors to government or law enforcement officials or
+                            private parties as we, in our sole discretion, believe necessary or appropriate
+                            to respond to claims and legal process (including but not limited to
+                            subpoenas), to protect the property and rights of KitApps or a third party, to
+                            protect the safety of the public or any person, or to prevent or stop activity
+                            we may consider to be, or to pose a risk of being, any illegal, unethical or
+                            legally actionable activity.
+
+                    </li>
+                </ul>
+
+            <h2>(5) Other Provisions</h2>
+            <ul class="upper-roman">
+                <li>
+
+                        <strong>Security:</strong> KitApps is very concerned with safeguarding your information. We
+                        employ administrative, physical and electronic measures designed to protect
+                        your information from unauthorized access. We will make any legally
+                        required disclosures of any breach of the security, confidentiality, or integrity
+                        of your unencrypted electronically stored “personal data” (as defined in
+                        applicable state statutes on security breach notification) to you via email or
+                        conspicuous posting on this Site in the most expedient time possible and
+                        without unreasonable delay, insofar as consistent with (i) the legitimate
+                        needs of law enforcement or (ii) any measures necessary to determine the
+                        scope of the breach and restore the reasonable integrity of the data system.
+
+                </li>
+                <li>
+
+                        <strong>Foreign Data Transfer:</strong> Your information may be transferred to computers
+                        located outside of your state, country or other jurisdiction where the privacy
+                        laws may differ from your local laws. Whether you are a KitApps Customer,
+                        an End-User or a Visitor, your consent to this Privacy Policy followed by your
+                        submission of such information represents your agreement to that transfer.
+
+                </li>
+                <li>
+
+                        <strong>Our Policy Toward Children:</strong> This Site or Services are not directed to children
+                        under the age of 13. We do not knowingly collect personally identifiable
+                        information from children under 13. If a parent or guardian becomes aware
+                        that his or her child has provided us with personally identifiable information
+                        IV.
+                        without their consent, he or she should contact us at support@attendify.com. If
+                        we become aware that a child under 13 has provided us with personally
+                        identifiable information, we will delete such information from our files.
+
+                </li>
+                <li>
+
+                    <strong>Links to Other Sites:</strong> Our Site contains links to other websites. The fact that
+                        we link to a website or present a banner ad or other type of advertisement is
+                        not an authorization or representation of our affiliation with the third party, or
+                        an endorsement of their privacy or information security practices &amp; policies.
+                        We do not exercise control over these third party websites, which may place
+                        their own cookies or other files on your computer, collect data or solicit
+                        personal information from you. Other sites follow different rules regarding the
+                        use or disclosure of the personal information you submit to them. Make sure
+                        to review their privacy policies and statements.
+
+                </li>
+            </ul>
+
+            <p>
+                <span>Contact Us:</span> If you have any questions about this Privacy Policy, please contact us
+                support@attendify.com.
+            </p>
+
+    </div>
+
+
+
+
+        </div>
+        <div class="freeze-footer"></div>
+    </div>
+    
+      <div class="at-wrapper">
+        <div class="at-footer">
+            <a href="#" class="ir at-logo-short" title="Attendify">Attendify</a>
+            <ul class="at-main-nav at-copyright">
+                <li>© 2013 Attendify</li>
+                <li><a href="/privacy/" target="_blank" class="hidden-tablet">Privacy Policy</a></li>
+                <li><a href="/tos/" target="_blank" class="hidden-tablet">Terms of Service</a></li>
+            </ul>
+            <ul class="at-main-nav">
+                <li><a href="/features/">Features</a></li>
+                <li><a href="/demo/">Demo</a></li>
+                <li><a href="/price/">Pricing</a></li>
+                <li><a href="/about/">About</a></li>
+                <li><a href="/contact/">Contact</a></li>
+                <li><a href="http://attendify.com/blog/" target="_blank">Blog</a></li>
+            </ul>
+        </div>
+      </div>
+      
+
+  
+
+</body></html>
