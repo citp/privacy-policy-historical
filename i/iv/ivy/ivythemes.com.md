@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ivythemes.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231102749id_/http%3A//www.ivythemes.com/p/privacy-policy-ivy-themes.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivythemes.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606055203id_/http%3A//www.ivythemes.com/p/privacy-policy-ivy-themes.html) for the most accurate reproduction.*
 
-# Privacy Policy - IVYThemes | Free High Quality Blogger Templates Collections
+# Privacy Policy - IVYThemes | High Quality Blogger Templates Collections
 
 Privacy Policy for www.IVYthemes.com
 
