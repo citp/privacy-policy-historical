@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the host1plus.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206072243id_/http%3A//www.host1plus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the host1plus.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607002901id_/http%3A//www.host1plus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Host1Plus
+# Privacy Policy - HOST1PLUS
 
 The present document discusses the issues of the privacy policy (further in the text referred to as the Privacy policy) applied by the Digital Energy Technologies Ltd. (further in the text referred to as the Company) issues, regarding all and any persons that make use of the Digital Energy Technologies Ltd. services (further in the text referred to as the Visitors). The concepts used in the Privacy policy mainly coincide with the concepts and their meanings defined in the Web hosting terms and conditions (further in the text referred to as the [Terms of Service](http://www.host1plus.com/terms-of-service/ "Terms of Service")), except when certain concepts are independently defined in the present Privacy policy.
 
@@ -38,7 +38,7 @@ The present document discusses the issues of the privacy policy (further in the 
 
 ### The use of Visitor’s information
 
-1\. The Company at its discretion has the right to make comprehensive use of all the collected information about the Visitor in any way as long as it is not forbidden by the laws of the Republic of Lithuania. Listed below are the examples of the purposes for which the Company may use the collected information about the Visitor:  
+1\. The Company at its discretion has the right to make comprehensive use of all the collected information about the Visitor in any way as long as it is not forbidden by the laws of the United Kingdom. Listed below are the examples of the purposes for which the Company may use the collected information about the Visitor:  
 1\. to be able to edit the Website contents as to what is the most relevant for the Visitor. In some cases the Company seeks to know the exact data about the Visitor in order to be able to offer special Services and directional advertising.  
 2\. The Company collects the Visitor’s anonymous data and shares them with the third parties (e.g., advertising contractors). The Company reveals to these persons the information about the number of Visitors, the number of Visitors that have seen a particular advertisement and / or clicked on a particular link in a particular Website, etc. The Company can also present all the demographic statistics of those Visitors, who noticed or clicked on the link of a particular advertising contractor. The Company can disclose the results of the anonymous surveys. None of the Visitor’s personal information is usually disclosed during the process;  
 3\. The Company uses common data for the statistical analysis of the Visitors’ behaviour, seeking to establish the Visitors’ needs and analyse how and where the available resources could be used in the most efficient manner. Without these data the Company would not know which Website sections are the most popular and could not adequately modify its contents and the offered services;  
