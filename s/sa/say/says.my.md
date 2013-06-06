@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the says.my privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228160327id_/http%3A//says.com/my/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the says.my privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606141426id_/http%3A//says.com/my/about/privacy) for the most accurate reproduction.*
 
 # SAYS Privacy Policy
 
@@ -21,15 +21,13 @@ When you sign up to SAYS, the site collects and uses specific information in ord
   * **Information collected upon registration**  
 When you sign up on SAYS, you provide non-personally identifiable information such as your username, full name, email address, and password. By default, the username you choose is publicly shown on SAYS, including on your profile page and in search results. You are also given an option to show your full name, if you prefer to. 
   * **Demographic information**  
-Personally identifiable information may include your date of birth, gender, race, and city. This is found in your account preferences, and is used for the system to show you age-appropriate and demographically relevant Specials. 
+Personally identifiable information may include your date of birth, gender, race, and city. This is found in your account preferences, and is used for the system to show you age-appropriate content. 
   * **Other optional information**  
 Entering your phone number is optional, should you require us to contact you via telephone regarding support requests, account suspension, cashing out, or collecting of prizes won. You may choose to enter your biography, your full name and profile image on your public profile page. 
   * **Profile page**  
 The types of information mentioned above which go into the profile page can be removed / changed anytime by editing your Account Preferences page. Remember, your profile page information is PUBLIC, this means businesses, third parties, and search engines may crawl it, cache it, and view it. Enter only information you intend to share with the world. 
   * **Inviting friends**  
 You may choose to invite your friends by an invite email that is automatically sent from us to your friends when you provide us with their email addresses. We do not store any of these email addresses in our system. If your friends choose to join the Program as a result of your invite, they will have to manually input the information on their own. 
-  * **Cashing out**  
-Upon your request to cash out your earnings from the Program, SAYS collects information for the system to transfer your earnings into cash, which is directly transferred to the bank account that you have specified. This information is deemed confidential by SAYS and will never be made public. This information includes: bank account holder’s name, bank account holder’s identification number, bank name to which your earnings will be transferred to, and bank account number. A phone number is needed to contact you or the bank account holder should the need arise to quickly resolve issues related to the transfer process. This cash out information is then transferred to the bank of your choice for the bank to verify and deposit the cash we're transferring to you. 
 
 
 
@@ -59,7 +57,7 @@ Usage of our cookies falls into the following categories:
   * **Authentication**  
 These cookies tell the system when you're logged in to the site, so we can show you the content available to you as a signed in user. 
   * **Preference**  
-These cookies store your preferences about our site, for you to have a meaningful, personalised experience as a SAYS user, including relevant news content and Specials. You may also choose to have your username and password remembered when signing in for a faster sign in process. 
+These cookies store your preferences about our site, for you to have a meaningful, personalised experience as a SAYS user, including relevant news content. You may also choose to have your username and password remembered when signing in for a faster sign in process. 
   * **Performance**  
 These cookies store information that allow certain features on our site to work faster on your browser, such as allowing pages you have seen to be loaded faster. 
   * **Analytics**  
@@ -84,7 +82,7 @@ Their privacy policy is available here: <http://newrelic.com/privacy>.
 This third-party service is used to help us render beautiful fonts for you. Cookies from Typekit may be stored in your browser.  
 Their privacy policy is available here: <http://www.adobe.com/products/eulas/tou_typekit/>. 
   * **Cookies from external sites**  
-By using SAYS to view news remixes or Specials, you may choose to load, or follow links to external websites. Those websites may also store cookies in your browser. 
+By using SAYS to view stories, you may choose to load, or follow links to external websites. Those websites may also store cookies in your browser. 
 
 
 
@@ -95,13 +93,13 @@ SAYS will never share any personally identifiable information with these third p
 All uses of the personal information stated is used only for these reasons: 
 
   * To build a social environment for you to get to know other users
-  * To present demographic aggregates to advertisers whose Specials are running on our Program
+  * To present demographic aggregates to advertisers whose stories are running on our Program
   * To reach you for customer support and resolve issues
   * To send you informational material related to our Services
   * To apportion rewards and earnings accurately to users who do not violate our [Terms of Use](http://says.com/my/terms)
   * To cash out money to users upon user requests
   * To prevent fraud and to address security issues
-  * To show relevant customised news content and Specials
+  * To show relevant customised news content
   * To increase site performance and speed
   * To test, research and analyse data for service improvement
   * To enforce compliance with our [Terms of Use](http://says.com/my/terms) and applicable laws
