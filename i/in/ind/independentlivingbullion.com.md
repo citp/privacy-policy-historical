@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the independentlivingbullion.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203082616id_/http%3A//www.independentlivingbullion.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independentlivingbullion.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606092313id_/http%3A//independentlivingbullion.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Independent Living Bullion - Safest Place to Buy Gold and Silver
+# Privacy
 
 ****AMERICAN LANTERN PRESS/ Independent Living Bullion**** values your privacy, and as a result we do only the minimum collection of information on our visitors in order to provide you with the best possible service we can. The information below describes the limited extent to which we collect and utilize your personal information online.
 
