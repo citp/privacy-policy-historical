@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macombdaily.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128010017id_/http%3A//www.journalregister.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macombdaily.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607005814id_/http%3A//www.journalregister.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Journal Register Company
 
@@ -122,7 +122,7 @@ Please understand that if you opt-out of receiving correspondence from us, we ma
 
 As noted in section D (ii) above, Customers should contact the non-JRC companies or entities that have been provided Personal Information by JRC to request that those third-party companies and entities remove the customers Personal Information.
 
-To cancel your text alert(s), text STOP to 22700. For help, text HELP to 22700.
+***Message and Data Rates May Apply.** 3 msgs/day. For help, text **HELP** to the short code 22700, email support@insequent.com, or call 888-988-9683. You may cancel the mobile subscription at any time by texting **STOP** to the short code 22700. Customer Support: support@insequent.com or 888-988-9683.
 
 F. Security
 
