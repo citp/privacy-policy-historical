@@ -1,12 +1,75 @@
-> *The following text is extracted and transformed from the rinf.com privacy policy that was archived on 2004-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040209212409id_/http%3A//rinf.com/main/resources/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rinf.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606084142id_/http%3A//rinf.com/alt-news/privacy-policy) for the most accurate reproduction.*
 
-# Infotx: Terms of service
+# Privacy Policy
 
-**Commitment to Privacy:**  
-InfoTx.Com respects the sensitive nature of the information you provide us. Our Privacy Policy is designed to protect your personal information while maximizing your access to our free services.  This Privacy Policy describes how we treat the information we receive about you when you sign up for an account. Please read the Privacy Policy carefully because it tells you how we use the information you submit to us. If this Privacy Policy changes in the future, we will not use the information you have submitted to us in a manner that is inconsistent with the Privacy Policy under which the information was originally collected.
+This Privacy Policy governs the manner in which RINF Alternative News collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.rinf.com website (“Site”). This privacy policy applies to the Site and all products and services offered by RINF Alternative News.
 
-**How We Use Your Information:**  
-When you sign up for an account on InfoTx.Com, you provide us with some personal information.  Some of it is optional but most is required.  Personal information includes such things as your name, zip code, time zone, and email address which is used to help identify unique accounts, provide you with web traffic statistics tailored to your website, and to provide a level of accountability for use of our services.  Optional information includes a demographic and interest survey.  This information is not used in conjunction with your personal information.  It is used abstractly in part to help us develop our services to meet the needs of the majority of our users. InfoTx does not collect, store, or use information about children under 13. You must be at least 13 years of age in order to use a InfoTx account. E-mail addresses are utilized only to notify users of significant changes, to address support concerns, or to resolve abuse issues.  InfoTx.Com does not provide or sell **any** sensitive user information, including e-mail addresses, billing information, street addresses, phone numbers, etc. to any third party without the express permission of the user.  Your e-mail address will ONLY be provided to our trusted third party marketing partners if you "opt-in" (specifically choose) to receive e-mail offers about products and services.  Any email you receive as a result of an "opt-in" request will provide you with the opportunity to "opt-out" of receiving future e-mails.  InfoTx does not promote, support, or tolerate e-mail spam! 
+Personal identification information
 
-**Contact us:**  
-If you have any questions/concerns about our privacy statement, feel free to [Email us](mailto:infotx@InfoTx.com). 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+
+Non-personal identification information
+
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+Web browser cookies
+
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+How we use collected information
+
+RINF Alternative News may collect and use Users personal information for the following purposes:
+
+\- To improve our Site  
+We may use feedback you provide to improve our products and services.  
+\- To process payments  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
+\- To send periodic emails  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+How we protect your information
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+Our Site is in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+
+Sharing your personal information
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+
+Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+Google Adsense
+
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+
+Changes to this privacy policy
+
+RINF Alternative News has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+RINF Alternative News
+
+http://www.rinf.com
+
+1 The Millrace  
+Damside St  
+Lancaster  
+LA1 1BL  
+United Kingdom  
+01625 60052  
+webmaster@rinf.com
+
+This document was last updated on March 27, 2013
