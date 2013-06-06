@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219101557id_/http%3A//www.logicalexpressions.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606113245id_/http%3A//logicalexpressions.com/Privacy.htm) for the most accurate reproduction.*
 
 # Logical Expressions Privacy Policy
 
 **Check out what readers  
 say about our writing...**
 
-#149"This article was excellent! I also find excel challenging on a good day! Your instructions were easy to follow and painless! Thanks so much."\- G.L.
+#23"Wow this was really helpful, thanks for spending the time to do this. Without this I would be going insane trying to format it all by my self."\- E.C.
 
 | 
 
@@ -77,13 +77,13 @@ Logical Expressions, Inc.
 Sandpoint, Idaho 83864  
 
 
-[Click to contact us by email](https://web.archive.org/web/20121219101557id_/http%3A//www.logicalexpressions.com/contact.asp)
+[Click to contact us by email](https://web.archive.org/web/20130606113245id_/http%3A//logicalexpressions.com/contact.asp)
 
 | 
 
 #### Read Our Articles
 
-[Check out our latest articles](https://web.archive.org/web/20121219101557id_/http%3A//www.logicalexpressions.com/articles.htm).
+[Check out our latest articles](https://web.archive.org/web/20130606113245id_/http%3A//logicalexpressions.com/articles.htm).
 
 * * *
 
