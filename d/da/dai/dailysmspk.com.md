@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailysmspk.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225191201id_/http%3A//dailysmspk.com/privacy-policy-of-dailysmspk-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailysmspk.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606031418id_/http%3A//dailysmspk.com/privacy-policy-of-dailysmspk-com) for the most accurate reproduction.*
 
-# Privacy Policy of Dailysmspk.Com | Good Morning Cards, Good Night Greetings, Anniversary Cards, Birthday Wishes, Jumma Mubarak Wallpapers SMS Urdu Hindi English
+# Privacy Policy of Dailysmspk.Com | Hindi SMS, Good Morning Cards, Good Night Greetings, Anniversary Cards, Birthday Wishes, Jumma Mubarak Wallpapers SMS Urdu English
 
 Dailysmspk.com understands the importance of your privacy. At Dailysmspk we are committed to protecting the privacy of our users. If and when Dailysmspk.com collects personal identifying information, we maintain the confidentiality, security and integrity of that personal information obtained from our users. We do not share nor disclose personal information to any party beyond the Dailysmspk network. For your own protection, please review the following terms and conditions before joining Dailysmspk.com. We want you to enjoy Dailysmspk to the fullest, but we also want you to stay informed. Through subscribing to Dailysmspk, you are agreeing to our terms and conditions.
 
