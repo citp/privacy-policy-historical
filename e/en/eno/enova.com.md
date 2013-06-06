@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enova.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106013922id_/http%3A//www.enova.com/additional-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enova.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606155957id_/http%3A//www.enova.com/additional-info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | EnovaEnova
+# Privacy Policy - Enova | Trusted online financial services for hardworking people worldwide
 
 This policy replaces any privacy policy previously delivered to you or appearing on our website, any transaction agreement, application, loan document or any other document previously delivered to you. If there are conflicts between this Policy and any other policy we have delivered to you, the terms of this Policy shall control until revised.
 
@@ -75,7 +75,7 @@ The Enova Provider is delivering this notice to you on behalf of itself and all 
 
 To limit the Enova Provider’s sharing of Your Information with Affiliated Companies and Non- Affiliated Third Parties, as described above, contact us:
 
-  * On the web: [www.enova.com](https://web.archive.org/web/20121106013922id_/http://www.enova.com/additional-info/privacy-policy/www.enova.com), or
+  * On the web: [www.enova.com](https://web.archive.org/web/20130606155957id_/http%3A//www.enova.com/additional-info/www.enova.com), or
   * By email: [optout@enova.com](mailto:optout@enova.com).
 
 
