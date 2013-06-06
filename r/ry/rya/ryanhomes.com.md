@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryanhomes.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123062048id_/http%3A//www.ryanhomes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanhomes.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606022938id_/http%3A//www.ryanhomes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ryan Homes
 
@@ -39,5 +39,4 @@ We may share your personal information with our affiliated companies (NVR Mortga
 
 #####  Social Media Policies
 
-Laundry Love Facebook Sweeptstakes: [Click here to view official rules](https://web.archive.org/OfficialRules-LaundryLoveSweepstakes).   
-Pet-tacular Halloween Contest: [Click here to view official rules](https://web.archive.org/Official_Rules_Pet-tacular_Halloween_Contest-1).
+Less Energy, More Fun Contest: [Click here to view official rules](https://web.archive.org/Content/pdf/Official_Rules_Less_Energy_More_Fun.pdf).
