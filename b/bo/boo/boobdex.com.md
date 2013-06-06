@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boobdex.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114035427id_/http%3A//www.boobdex.com/about/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boobdex.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606043511id_/http%3A//www.boobdex.com/about/privacy/index.html) for the most accurate reproduction.*
 
 # Boobdex.com Information Privacy Policy
 
