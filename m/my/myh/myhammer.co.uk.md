@@ -1,19 +1,11 @@
-> *The following text is extracted and transformed from the myhammer.co.uk privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205013713id_/http%3A//www.myhammer.co.uk/showPage.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhammer.co.uk privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606031346id_/http%3A//www.myhammer.co.uk/showPage.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Find a Tradesman or Handyman For Any Job - For Free!
 
 Effective Date: 07.02.2011   
 If you want to save or print this Privacy Policy you can download it as a [PDF-file](http://images01.myhammer.co.uk/live/structure/110207_privacy_UK.pdf) and save the file to a suitable location on your computer. To open the document you may need to install a suitable viewer, such as Adobe® Reader®. Adobe® Reader® can be downloaded for free from [Adobe®’s website](http://www.adobe.com/products/acrobat/readstep2.html). 
 
-#### TRUSTe Privacy Seal:
-
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.myhammer.co.uk/seal_m "Validate TRUSTe privacy certification")
-
-MY-HAMMER AG has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.
-
-The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
-
-If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@myhammer.co.uk. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
+If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@myhammer.co.uk
 
   1 Introduction  
   2 What is personal data?  
