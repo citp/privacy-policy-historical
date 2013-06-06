@@ -1,20 +1,19 @@
-<!--The following is the downloaded HTML source of the sportingcharts.com privacy policy that was archived on 2012-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121129102730id_/http%3A//www.sportingcharts.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportingcharts.com privacy policy that was archived on 2013-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130607010828id_/http%3A//www.sportingcharts.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><!--<![endif]--><head>
+<!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
   <meta charset="UTF-8">
-  <link rel="stylesheet" href="/css/reset.css" media="screen">
-  <link rel="stylesheet" href="/css/styles.css" media="screen">
-  <!-- <link rel="stylesheet" type="text/css" media="print" href="/css/print.css" /> 404-->
   <link rel="Shortcut Icon" href="/images/favicon.ico">
-  <link type="text/css" href="/css/smoothness/jquery-ui-1.8.17.custom.css" rel="stylesheet">  
+  <link rel="stylesheet" href="/css/reset.css" media="screen">
+  <link rel="stylesheet" href="/css/styles.css?v=1.2" media="screen">
+  <link type="text/css" href="/css/smoothness/jquery-ui-1.9.2.custom.min.css" rel="stylesheet">  
+  <link type="text/css" href="/css/chosen.css" rel="stylesheet">  
   
-  <script type="text/javascript" async="" src="http://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=197072523695723"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/ScriptLibraries.ashx?library=jQueryLibs"></script>
-  <script type="text/javascript" src="/ScriptLibraries.ashx?library=SCLibs"></script>
+  <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="http://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=197072523695723"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/scripts/knockout-2.2.0.js"></script>
+  <script type="text/javascript" src="/ScriptLibraries.ashx?library=jQueryLibs&amp;v=1.1"></script>
+  <script type="text/javascript" src="/ScriptLibraries.ashx?library=SCLibs&amp;v=1.7"></script>
   
-  <script type="text/javascript" src="/scripts/carousel.js"></script>
   <script type="text/javascript" src="/scripts/NewsLetterBoxLogic.js"></script>
-  <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
   
   
   <title>SportingCharts.com | Privacy Policy</title>
@@ -33,109 +32,92 @@
   
   
   <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-26748238-1']);
-    _gaq.push(['_setDomainName', '.sportingcharts.com']);
-    _gaq.push(['_trackPageview']);
-  
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-26748238-1']);
+      _gaq.push(['_setDomainName', '.sportingcharts.com']);
+      _gaq.push(['_trackPageview']);
+
+      (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
   </script>
 <script type="text/javascript">
-$(document).ready(function() {
-  
+    $(document).ready(function () {
 
-  function megaHoverOver(){
-    $(this).find(".sub").stop().fadeTo('fast', 1).show();
-      
-    //Calculate width of all ul's
-    (function($) { 
-      jQuery.fn.calcSubWidth = function() {
-        rowWidth = 0;
-        //Calculate row
-        $(this).find("ul").each(function() {          
-          rowWidth += $(this).width(); 
-        });  
-      };
-    })(jQuery); 
-    
-  
-  }
-  
-  function megaHoverOut(){ 
-    $(this).find(".sub").stop().fadeTo('fast', 0, function() {
-      $(this).hide(); 
+
+        function megaHoverOver() {
+            $(this).find(".sub").stop().fadeTo('fast', 1).show();
+
+            //Calculate width of all ul's
+            (function ($) {
+                jQuery.fn.calcSubWidth = function () {
+                    rowWidth = 0;
+                    //Calculate row
+                    $(this).find("ul").each(function () {
+                        rowWidth += $(this).width();
+                    });
+                };
+            })(jQuery);
+
+
+        }
+
+        function megaHoverOut() {
+            $(this).find(".sub").stop().fadeTo('fast', 0, function () {
+                $(this).hide();
+            });
+        }
+
+
+        var config = {
+            sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)    
+            interval: 100, // number = milliseconds for onMouseOver polling interval    
+            over: megaHoverOver, // function = onMouseOver callback (REQUIRED)    
+            timeout: 500, // number = milliseconds delay before onMouseOut    
+            out: megaHoverOut // function = onMouseOut callback (REQUIRED)    
+        };
+
+        $("ul#menu li .sub").css({ 'opacity': '0' });
+        $("ul#menu li").hoverIntent(config);
+
+        $(function () {
+            // Tabs
+            $('#tabs').tabs();
+
+            //hover states on the static widgets
+            $('#dialog_link, ul#icons li').hover(
+              function () { $(this).addClass('ui-state-hover'); },
+              function () { $(this).removeClass('ui-state-hover'); }
+            );
+        });
+
+        $('input[title!=""]').hint();
+		/*$(".searchBox").keydown(function (e) { if (e.keyCode == 13) { window.location = "/search.aspx?q=" + escape($(this).val()); } });*/
+		$(".searchBox").DynamicSearchBar();
     });
-  }
-
-
-  var config = {    
-     sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)    
-     interval: 100, // number = milliseconds for onMouseOver polling interval    
-     over: megaHoverOver, // function = onMouseOver callback (REQUIRED)    
-     timeout: 500, // number = milliseconds delay before onMouseOut    
-     out: megaHoverOut // function = onMouseOut callback (REQUIRED)    
-  };
-
-  $("ul#menu li .sub").css({'opacity':'0'});
-  $("ul#menu li").hoverIntent(config);
-  
-  $(function(){
-    // Tabs
-    $('#tabs').tabs();
-    
-    //hover states on the static widgets
-    $('#dialog_link, ul#icons li').hover(
-      function() { $(this).addClass('ui-state-hover'); }, 
-      function() { $(this).removeClass('ui-state-hover'); }
-    );    
-  });
-  
-  $(document).ready(function(){  
-    $("#slider").easySlider({
-      auto: false, 
-      continuous: true
-    });
-  });  
-  
-  $('input[title!=""]').hint();
-  $(".searchBox").keydown(function(e) { if (e.keyCode == 13) { window.location = "/search.aspx?q=" + escape($(this).val()); } });
-});
 </script>
-       <script type="text/javascript">
-    $().ready(function() {
-       $('#coda-slider-7').codaSlider({
-          autoSlide: true,
-           autoSlideInterval: 11000,
-           autoSlideStopWhenClicked: true,
-           dynamicArrows: false,
-           dynamicTabsPosition:"bottom"
-         
-       });
-   });
-     </script>
-    <link href="http://plus.google.com/104695831919305381994" rel="publisher"><script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+    <link href="http://plus.google.com/104695831919305381994" rel="publisher">
+	<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
 </head>
 
 <body>
 <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=197072523695723";
-  fjs.parentNode.insertBefore(js, fjs);
+<script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=197072523695723";
+    fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 <script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'http://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
+    (function () {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'http://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
 </script>
     <div class="container">
       <div class="logo-container">
@@ -155,7 +137,7 @@ $(document).ready(function() {
             <li><a href="/nfl/">NFL</a>
                <div class="sub">
                 <div class="secondary-nav">
-                 <a href="/nfl/">NFL Home</a><a href="/nfl/dictionary/">Dictionary</a>
+                 <a href="/nfl/">NFL Home</a><a href="/nfl/dictionary/">NFL Dictionary</a><a href="/stats/nfl/">NFL Statistics</a>
                </div>
                <div class="clear"></div>
               <ul>
@@ -220,7 +202,7 @@ $(document).ready(function() {
             <li><a href="/mlb/">MLB</a>
                 <div class="sub">
                 <div class="secondary-nav">
-              <a href="/mlb/">MLB Home</a><a href="/mlb/dictionary/">Dictionary</a>
+              <a href="/mlb/">MLB Home</a><a href="/mlb/dictionary/">MLB Dictionary</a><a href="/stats/mlb/">MLB Statistics</a>
                 </div>
                <div class="clear"></div>
               <ul class="smalllist">
@@ -246,6 +228,7 @@ $(document).ready(function() {
                     <li><a href="/mlb/teams/235/oakland-athletics/">Oakland Athletics</a></li>
                     <li><a href="/mlb/teams/236/seattle-mariners/">Seattle Mariners</a></li>
                     <li><a href="/mlb/teams/237/texas-rangers/">Texas Rangers</a></li>
+					<li><a href="/mlb/teams/242/houston-astros/">Houston Astros</a></li>
                 </ul>
                  <div class="clear"></div>
                 <ul class="mt">
@@ -261,7 +244,6 @@ $(document).ready(function() {
                   <li><h3 class="nav">NL Central</h3></li>
                     <li><a href="/mlb/teams/240/chicago-cubs/">Chicago Cubs</a></li>
                     <li><a href="/mlb/teams/241/cincinnati-reds/">Cincinnati Reds</a></li>
-                    <li><a href="/mlb/teams/242/houston-astros/">Houston Astros</a></li>
                     <li><a href="/mlb/teams/232/milwaukee-brewers/">Milwaukee Brewers</a></li>
                     <li><a href="/mlb/teams/247/pittsburgh-pirates/">Pittsburgh Pirates</a></li>
                     <li><a href="/mlb/teams/248/st-louis-cardinals/">St Louis Cardinals</a></li>
@@ -279,7 +261,7 @@ $(document).ready(function() {
             </li><li><a href="/nba/">NBA</a>
                          <div class="sub">
                <div class="secondary-nav">
-                 <a href="/nba/">NBA Home</a><a href="/nba/dictionary/">NBA Dictionary</a>
+                 <a href="/nba/">NBA Home</a><a href="/nba/dictionary/">NBA Dictionary</a><a href="/stats/nba/">NBA Statistics</a>
                </div>
                <div class="clear"></div>
                   <ul>
@@ -336,7 +318,7 @@ $(document).ready(function() {
             <li><a href="/nhl/">NHL</a>
                 <div class="sub">
                <div class="secondary-nav">
-                 <a href="/nhl/">NHL Home</a><a href="/nhl/dictionary/">Dictionary</a>
+				   <a href="/nhl/">NHL Home</a><a href="/nhl/dictionary/">NHL Dictionary</a><a href="/stats/nhl/">NHL Statistics</a>
                </div>
                <div class="clear"></div>
                    <ul>
@@ -406,16 +388,45 @@ $(document).ready(function() {
       <!-- <span style="color: #FF0000">Alert:</span> -->
         <div class="nav-secondary-container">
           <ul class="nav-secondary">
-              <li><span style="color: #FF0000">Alert:</span></li>
-            <li><a href="/chartbuilder/buildchart.aspx">ChartBuilder</a></li>  
-            <li><a href="/reports/20-biggest-sports-bettor-mistakes.aspx">Special Report</a></li>
-              <li><a href="/dictionary/">Dictionary</a></li>
+              <li><span style="color: #FF0000">Alert:</span></li>  
+            	<li><a href="/nhl/teams/4969/pittsburgh-penguins/">Pittsburgh Penguins</a></li>
+			  <li><a href="/nhl/teams/4957/chicago-blackhawks/">Chicago Blackhawks</a></li>
+              	<li><a href="/nba/teams/14/miami-heat/">Miami Heat</a></li>
+			  <li><a href="/nba/teams/24/san-antonio-spurs/">San Antonio Spurs</a></li>
               <li style="float:right;"><input type="text" class="searchBox" title="Search Players, Teams or Definitions..."></li>
            
            </ul>
         </div><!--nav-secondary-container-->
-        <div class="content-container">
-          
+        <div id="ContentMain" class="content-container">
+			
+        <!-- Floating box starts here -->		  
+        <div id="floating-box">
+			<div id="socialfloat">
+				<div>		
+					<a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-via="sportingcharts" data-count="vertical">Tweet</a>
+					<script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>				
+                </div>
+				<div>
+					<fb:like send="false" layout="box_count" width="55" show_faces="false"></fb:like>
+				</div>
+                <div>				
+					<!-- Place this tag where you want the +1 button to render. -->
+					<div class="g-plusone" data-size="tall"></div>
+					<!-- Place this tag after the last +1 button tag. -->
+					<script type="text/javascript">
+					    (function () {
+					        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+					        po.src = 'https://apis.google.com/js/plusone.js';
+					        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+					    })();
+					</script>     
+			   </div>
+			   <div>
+				   <script type="text/javascript" src="http://www.reddit.com/static/button/button2.js"></script>
+			   </div>
+			</div>
+        </div>
+        <!-- Floating box stops here -->	          
 
           
   <div class="module-title">
@@ -498,6 +509,7 @@ Last updated on November 1st, 2011</p>
 
 
         </div><!--content-container-->
+		<div id="SearchResultBox" style="display: none"></div>
     </div><!--container-->
      <div class="footer-container">
        <div class="footer-content">
@@ -505,9 +517,9 @@ Last updated on November 1st, 2011</p>
             <p>
               <a href="/">Home</a> | <a href="/nfl/">NFL</a> | <a href="/mlb/">MLB</a> | <a href="/nba/">NBA</a> | <a href="/nhl/">NHL</a> | <a href="/dictionary/">Dictionary</a> | <a href="/chartbuilder/buildchart.aspx">ChartBuilder</a> | <a href="/articles/reports/30-most-important-fantasy-football-tips-landing.aspx">Newsletters</a> | <a href="/articles/blog/writing-opportunities-sportingchartscom.aspx">Writing Oppotunities</a></p>
               
-            <p class="f10">Copyright © 2012 Sporting Charts All Rights Reserved | <a href="/terms-and-conditions.aspx">Terms Of Use</a> | <a href="/privacy-policy.aspx">Privacy Policy</a> | <a href="/about-us.aspx">About Us</a> | <a href="/contact-us.aspx">Contact Us </a><br>
+            <p class="f10">Copyright © 2013 Sporting Charts All Rights Reserved | <a href="/terms-and-conditions.aspx">Terms Of Use</a> | <a href="/privacy-policy.aspx">Privacy Policy</a> | <a href="/about-us.aspx">About Us</a> | <a href="/contact-us.aspx">Contact Us </a><br>
               
-              Copyright © 2012 <a href="http://www.stats.com/" target="_blank">STATS LLC.</a> All Rights Reserved.</p>
+              Copyright © 2013 <a href="http://www.stats.com/" target="_blank">STATS LLC.</a> All Rights Reserved.</p>
          <ul class="footer-follow-module">
                   <li><a href="http://twitter.com/sportingcharts"><span class="footer-twitter-btn"></span></a></li>
                   <li><a href="http://www.facebook.com/sportingcharts"><span class="footer-fb-btn"></span></a></li>
