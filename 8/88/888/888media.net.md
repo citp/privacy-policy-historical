@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 888media.net privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201053439id_/http%3A//888media.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 888media.net privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606071308id_/http%3A//www.888media.net/privacypolicy.php) for the most accurate reproduction.*
 
 # 888media - Delivering Results - Privacy Policy
 
