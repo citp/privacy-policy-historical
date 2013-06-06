@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lockerdome.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005128id_/http%3A//lockerdome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockerdome.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606233321id_/http%3A//lockerdome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LockerDome
 
-**Last Updated: April 1, 2011**
+**Last Updated: May 6, 2013**
 
 This Service and Network are owned and operated by LockerDome, LLC (collectively, "us", "we" or "the Company"). Our Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using the LockerDome Service located at [www.lockerdome.com](http://www.lockerdome.com/) ("LockerDome" or "Website"), or any subdomain (i.e. [subdomain.lockerdome.com](http://subdomain.lockerdome.com/)) of [www.lockerdome.com](http://www.lockerdome.com/).
 
@@ -53,6 +53,8 @@ LockerDome, or any subdomain (i.e. [subdomain.lockerdome.com](http://subdomain.l
 Advertisements that appear on LockerDome, or any subdomain (i.e. [subdomain.lockerdome.com](http://subdomain.lockerdome.com/)) of [www.lockerdome.com](http://www.lockerdome.com/), are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. We do not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on LockerDome, or any subdomain (i.e. [subdomain.lockerdome.com](http://subdomain.lockerdome.com/)) of [www.lockerdome.com](http://www.lockerdome.com/), unless you choose to share it with them.
 
 This privacy policy covers the use of cookies by us and does not cover the use of cookies or other tracking technologies by any of its advertisers.
+
+To learn or more about this behavioral advertising practice or to opt-out of this type of advertising for some companies, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) and <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **CHANGING OR REMOVING INFORMATION**
 
