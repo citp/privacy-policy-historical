@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the langara.ca privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231015138id_/http%3A//www.langara.bc.ca/registration-and-records/policies-and-procedures/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the langara.ca privacy policy that was archived on 2013-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606122258id_/http%3A//www.langara.bc.ca/registration-and-records/policies-and-procedures/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html;charset=UTF-8" http-equiv="Content-type">
 <title>Langara. 
  
  
@@ -12,7 +13,7 @@ Registration &amp; Records: Policies &amp; Procedures: Privacy Policy</title>
 <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
 <link href="../../_files/css/jquery.ui.selectmenu.css" rel="stylesheet" type="text/css">
 <link href="../../_files/css/menu.css" rel="stylesheet" type="text/css">
-
+<!--<link href="/_files/css/scrollable-multi-gallery.css" rel="stylesheet" type="text/css"/>-->
 <!-- Using the conditional link to IE does not work here - cascade ignores the link within the comment, so it is not resolved -->
 <!--[if IE 7]>
 <style type="text/css">
@@ -131,7 +132,7 @@ a.prev {width:92px;}
 <ul>
 <li class="level_2"><a href="../../programs-and-courses/online-courses/index.html">Online Courses</a></li>
 <li class="level_2"><a href="../../programs-and-courses/external-studies/index.html">External Studies</a></li>
-<li class="level_2"><a href="../../programs-and-courses/co-operative-education/index.html">Co-operative Education</a></li>
+<li class="level_2"><a href="../../co-operative-education/index.html">Co-operative Education</a></li>
 <li class="level_2"><a href="../../programs-and-courses/degree-partnerships/index.html">Degree Partnerships</a></li>
 </ul>
 </li>
@@ -180,7 +181,7 @@ a.prev {width:92px;}
 <li class="level_2"><a href="../../library/index.html">Library</a></li>
 <li class="level_2"><a href="../../studio-58/index.html">Studio 58</a></li>
 <li class="level_2"><a href="../../student-services/upass/index.html">U-Pass BC</a></li>
-<li class="level_2"><a href="../../student-services/volt/index.html">Langara VOLT</a></li>
+<li class="level_2"><a href="../../student-services/volt/index.html">VOLT</a></li>
 <li class="level_2"><a href="../../student-services/learning-commons/index.html">Learning Commons</a></li>
 <li class="level_2"><a href="../../student-services/student-conduct-and-judicial-affairs/index.html">Student Conduct and Judicial Affairs</a></li>
 </ul>
@@ -201,7 +202,7 @@ a.prev {width:92px;}
 <li class="level_2"><a href="../../campus-facilities/our-facilities/index.html">Facilities</a></li>
 <li class="level_2"><a href="../../campus-facilities/info-kiosk/index.html">Information Kiosk and Lost &amp; Found</a></li>
 <li class="level_2"><a href="../../campus-facilities/parking-transportation/index.html">Parking &amp; Transportation</a></li>
-<li class="level_2"><a href="../../campus-facilities/security/index.html">Security</a></li>
+<li class="level_2"><a href="../../campus-facilities/security/index.html">Safety &amp; Security</a></li>
 </ul>
 </li>
 <li class="level_1"><a href="../../news-and-events/index.html">News &amp; Events</a> <a class="menu"><span class="open" style="display: block;">▶</span><span class="close" style="display: none;">▼</span></a>
@@ -227,6 +228,7 @@ a.prev {width:92px;}
 <li class="level_2"><a href="../../about-langara/strategic-plan/index.html">Strategic Plan</a></li>
 <li class="level_2"><a href="../../about-langara/institutional-research/index.html">Institutional Research</a></li>
 <li class="level_2"><a href="../../about-langara/policies/index.html">College Policies</a></li>
+<li class="level_2"><a href="../../about-langara/presidential-search/index.html">Presidential Search</a></li>
 <li class="level_2"><a href="../../about-langara/scholarly-activity/index.html">Scholarly Activities</a></li>
 <li class="level_2"><a href="../../about-langara/sustainability/index.html">Sustainability</a></li>
 <li class="level_2"><a href="../../about-langara/giving-to-langara/index.html">Giving to Langara</a></li>
@@ -459,12 +461,27 @@ $("a[rel]").overlay({mask: '#FFF'});
 </tbody>
 </table>
 </form>
+
+<table border="0" cellpadding="0" cellspacing="0" class="thankyou" style="display: none;" width="90%">
+<tbody>
+<tr>
+<td width="100%"><a class="bClose">Close</a>
+<h2>Thank-you!</h2>
+</td>
+</tr>
+<tr>
+<td>
+<p>Your email has been sent!</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 <!-- feedback-four -->
 <div class="apple_overlay" id="feedback-four">
 <div class="ftop"></div>
 <div class="fmiddle">
-<form action="http://www2.langara.bc.ca/cgi-bin/spf544.pl" id="form_four" method="post" onsubmit="return validate('form_four','email');">
+<form action="http://www2.langara.bc.ca/cgi-bin/spf544.pl" id="form_four" method="post" onsubmit="return validateIT('form_four','email','subject','Comments');">
 <input name="_config" type="hidden" value="cmsaskit">
 
 <table border="0" cellpadding="0" cellspacing="0" width="90%">
@@ -510,7 +527,7 @@ $("a[rel]").overlay({mask: '#FFF'});
 </tr>
 <tr>
 <td width="25%">
-<p>myLangara ID</p>
+<p>Student/Employee ID</p>
 </td>
 <td width="75%">
 <div class="round-input">
@@ -690,6 +707,8 @@ $("a[rel]").overlay({mask: '#FFF'});
 	</div>
 
 
+
+	
 		<h2 class="pagetitle">
 	<a href="../index.html">Registration &amp; Records</a> <span>»</span>
 	<a href="index.html">Policies &amp; Procedures</a>
