@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the affiliatefuel.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014063756id_/http%3A//www.classesusa.com/static/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatefuel.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606043703id_/http%3A//www.classesusa.com/static/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-####  Revised: November 11, 2009 
+####  Revised: October 31, 2012 
 
 This Privacy Policy covers the ClassesUSA.com Web site ("We," "Us," or "Our"). Before you submit any information to Our Web site, please read this Privacy Policy for an explanation of how We will handle your information. By using any part of Our Web site, you agree, without limitation or qualification, to be bound by this Privacy Policy. If you do not agree with this Privacy Policy, please do not use Our Web site. 
 
@@ -63,7 +63,9 @@ Our Web site may contain links to other Web sites. We believe such other Web sit
 We maintain electronic and procedural safeguards designed to protect your Information. We protect Information about you over the Internet by using a secure web server, which allows web browser programs (such as Netscape or Microsoft Internet Explorer) to interact with Our web server via an encrypted session. We employ a Secure Sockets Layer (SSL) connection that provides an encrypted connection between your computer and Us. The 128 bit encrypted connection scrambles ordinary text or data into cyphertext to safeguard sensitive information during its journey across the Internet. The information is decrypted, or put back into a readable format, when it reaches its intended destination. Depending on which browser you use, you will know you are in secured area by "https" or a lock appearing in the lower right hand corner of your browser window. When you visit Our Web site, you may move in and out of secured areas. 
 
 **DATA TRANSFER**   
-We may store, process and/or transfer personal data to countries outside of the United States of America and, by using Our products and services, you consent to such transfer. For example, if you elect to submit your Personal Information to a Canadian school, We may transfer your Personal Information across borders to the Canadian schools that you selected. 
+We may store, process and/or transfer personal data to countries outside of the United States of America and, by using Our products and services, you consent to such transfer. For example, if you elect to submit your Personal Information to a Canadian school, We may transfer your Personal Information across borders to the Canadian schools that you selected. We may also store, process and/or transfer personal data to the United States of America and, by using Our products and services, you consent to such transfer. For example, if you elect to submit your Personal Information to the site, We will transfer and process your Personal Information across borders, specifically, the United States of America, and this information may be accessed by the courts, law enforcement and national security authorities of that jurisdiction. 
+
+Canadian Consumers: We will comply with existing local, provincial and federal Canadian law, including but not limited to the Personal Protection and Electronic Documents Act ("PIPEDA"), and We will adhere to the Fair Information Principles, reflected within PIPEDA and provincial regulations. 
 
 **A SPECIAL NOTE REGARDING PEOPLE UNDER 18 YEARS OLD**   
 Individuals under the age of eighteen (18) should not send any Information to Us. Each time you access Our Web site or purchase a product or service from Us, or provide Information about yourself or anyone else, you are representing to Us that you are eighteen (18) years or older. 
