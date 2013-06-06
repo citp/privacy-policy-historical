@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the abcya.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212022311id_/http%3A//www.abcya.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcya.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606143409id_/http%3A//www.abcya.com/privacy.htm) for the most accurate reproduction.*
 
 # ABCya! Privacy Policy
 
 **_Privacy Policy_**
 
-Effective Date:  This policy was updated and became effective on March 12, 2012.
+Effective Date:  This policy was updated and became effective on January 16, 2013.
 
                                                                                            ABCya.com is a teacher-created web site that is intended to provide free fun and educational games kids to use under the guidance of their parents and teachers.  We recognize that visitors to our Site will include children younger than the age of 13 (“Children”).  As required by The Children's Online Privacy Protection Act ("COPPA"), we provide this privacy policy to inform parents and legal guardians (collectively, “Parents”) about our privacy practices.
 
-This Privacy Statement explains our privacy practices with www.abcya.com and any other website or other interactive features or downloads that are operated by ABCya.com LLC ("ABCya") and that link to this Privacy Policy (the "Site”), whether accessed via computer, mobile device or otherwise.  This Privacy Policy only covers information collected at the Site and does not cover information collected offline by ABCya (unless specifically stated) nor does it apply to our iOS mobile apps.  To review our ABCya.com iOS Mobile Applications Privacy Policy,[ click here](http://www.abcya.com/ios_app_support.htm).
+This Privacy Statement explains our privacy practices with www.abcya.com and any other website or other interactive features or downloads that are operated by ABCya.com LLC ("ABCya") and that link to this Privacy Policy (the "Site”), whether accessed via computer, mobile device or otherwise.  This Privacy Policy only covers information collected at the Site and does not cover information collected offline by ABCya (unless specifically stated) nor does it apply to our mobile apps.  To review our ABCya.com Mobile Applications Privacy Policy,[ click here](http://www.abcya.com/mobile_app_privacy_policy.htm).
 
 Please review our full privacy policy below – but here are some key points to know:
 
