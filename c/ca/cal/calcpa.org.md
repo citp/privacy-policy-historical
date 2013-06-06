@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the calcpa.org privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205092706id_/http%3A//www.calcpa.org/Content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calcpa.org privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606024212id_/http%3A//www.calcpa.org/Content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  [](http://extension.berkeley.edu/cert/account.html?utm_source=calcpa&amp;utm_medium=banner&amp;utm_campaign=309AD117-calcpa)  
+
 
 | 
 
