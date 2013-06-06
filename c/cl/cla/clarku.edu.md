@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarku.edu privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101113441id_/http%3A//www.clarku.edu/policies/detailpolicy.cfm%3Fpid%3D72) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarku.edu privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606022052id_/http%3A//www.clarku.edu/policies/detailpolicy.cfm%3Fpid%3D72) for the most accurate reproduction.*
 
 # University Policies | Clark University
 
@@ -19,4 +19,7 @@ We only publish e-mail addresses of Clark alumni and students who tell us that t
 We reserve the right to publish e-mail addresses of Clark faculty, administration, and staff at our discretion to better serve the academic community, parents, and prospective students.
 
 
+
+
+[](https://web.archive.org/web/20130606022052id_/http%3A//www.clarku.edu/policies/policyPDF.cfm?pid=72)  
 
