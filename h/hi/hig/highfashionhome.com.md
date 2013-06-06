@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highfashionhome.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015165920id_/http%3A//www.highfashionhome.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highfashionhome.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607015404id_/http%3A//www.highfashionhome.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Contemporary Furniture, Accessories, and more at High Fashion Home : Privacy Policy
 
