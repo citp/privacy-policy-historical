@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the toronto.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206191634id_/http%3A//www.toronto.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toronto.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606022122id_/http%3A//www.toronto.com/privacy-policy) for the most accurate reproduction.*
 
-# Toronto Privacy Policy Privacy Toronto Internet Privacy Policies...
+# Toronto.com – Privacy Policy
 
-**Our commitment to privacy:** Toronto.com, a division of Toronto Star Newspapers Limited ("Toronto.com") knows that protecting the privacy and confidentiality of your personal information is important to you. This Privacy Code governs the collection, use and disclosure of your personal information in any form, whether written or electronic, by Toronto.com and its affiliates. The collection, use and disclosure of your personal information is governed by the Personal Information Protection and Electronic Documents Act (the “Act”), and any applicable provincial legislation. 
+**Our commitment to privacy:** Toronto.com, a division of Toronto Star Newspapers Limited (“Toronto.com”) knows that protecting the privacy and confidentiality of your personal information is important to you. This Privacy Code governs the collection, use and disclosure of your personal information in any form, whether written or electronic, by Toronto.com and its affiliates. The collection, use and disclosure of your personal information is governed by the Personal Information Protection and Electronic Documents Act (the “Act”), and any applicable provincial legislation.
 
 This Privacy Code explains what personal information may be collected from you and how it is used. It also explains how you can ask questions, make suggestions, and express concerns about our privacy practices. This Privacy Code applies only to personal information collected by Toronto.com and its affiliates. Be aware that our websites may contain links to other websites that are maintained by third parties who are not required to comply with this Privacy Code and for which Toronto.com has no responsibility. Please review the privacy policies on any external websites to determine their information handling practices.
 
@@ -95,11 +95,11 @@ Please be aware that email is not a secure medium, and any personal information 
 
 We will give you access to the information we retain about you within a reasonable time, upon written request, satisfactory identification and proof of entitlement. In some cases, we may not provide access to personal information in our possession or control. If we deny your request, we will advise you in writing of the reason for the refusal and you may challenge our decision.
 
-**How to address concerns regarding your privacy.** Toronto.com encourages you to contact us with any questions or concerns you have about your privacy or this Privacy Code. If you have a question concerning Toronto.com's Privacy Code, would like a copy, or if you have any concerns, please contact Customer Service at: 1-800-279-0181 or [privacy@thestar.ca](mailto:privacy@thestar.ca).
+**How to address concerns regarding your privacy.** Toronto.com encourages you to contact us with any questions or concerns you have about your privacy or this Privacy Code. If you have a question concerning Toronto.com’s Privacy Code, would like a copy, or if you have any concerns, please contact Customer Service at: 1-800-279-0181 or [privacy@thestar.ca](mailto:privacy@thestar.ca).
 
 Customer Service can successfully deal with many issues. If you prefer, or if after contacting Customer Service your concerns or questions have not been resolved to your satisfaction, you can contact Torstar Corporation’s Chief Privacy Officer in writing as follows:
 
- **Chief Privacy Officer**  
+**Chief Privacy Officer**  
 Torstar Corporation  
 One Yonge Street, 6th floor  
 Toronto ON  
@@ -107,3 +107,6 @@ M5E 1P9
 Fax: (416) 869-4183
 
 This Privacy Code was last updated on **March 5, 2010**
+
+  
+
