@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the londonfog.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028070240id_/http%3A//www.londonfog.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonfog.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606083737id_/http%3A//www.londonfog.com/privacy.asp) for the most accurate reproduction.*
 
-# London Fog Privacy Policy: London Fog Online Store | Shop for Coats, Jackets, and Accessories
+# London Fog Privacy Policy: London Fog Official Online Store | Coats, Jackets and Accessories
 
 LondonFog.com respects the privacy of our customers and the users of our website and has instituted the policies and practices described below to ensure that your personal information is handled appropriately. Our online privacy policy describes the types of personal information we may collect from you when you visit our website and when we share it with third parties. The information on this website and our privacy policy are subject to change from time to time. Any material changes to our privacy policy and practices will be reflected on this page so that you can be aware of what information we collect and how we are using and/or disclosing it. By using our website, you consent to the collection and use of this information by London Fog.com.
 
