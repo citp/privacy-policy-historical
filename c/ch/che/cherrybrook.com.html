@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cherrybrook.com privacy policy that was archived on 2012-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121228091640id_/http%3A//www.cherrybrook.com/index.cfm/a/article.show/artid/60) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cherrybrook.com privacy policy that was archived on 2013-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606052133id_/http%3A//www.cherrybrook.com/index.cfm/a/article.show/artid/60) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Show Dog, Grooming and Pet Supplies - Cherrybrook</title>
@@ -8,6 +8,7 @@
 <meta name="keywords" content="shop by brand, grooming, pet supplies, dog products, manufacture ">
 <meta name="description" content="Cherrybrook carries a full line of show dog, grooming and pet supplies. We have a complete line of dog grooming supplies, shears, brushes and dog shampoos including Chris Christensen shears, Oster clippers, Andis trimmers and cat supplies too! ">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="p:domain_verify" content="bc0f5409303effc69634991a5bd5e078">
 <link rel="stylesheet" href="/min/index.php?f=style/1/common.css" type="text/css" media="screen">
 <link rel="stylesheet" href="/min/index.php?f=style/ErrorPopupStyle.css" type="text/css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javaScript" src="/min/index.php?f=script/baseScripts.js" type="text/javascript"></script>
@@ -17,7 +18,7 @@
 <link rel="stylesheet" href="/min/index.php?f=style/1/stylesheet_static.css" type="text/css">
 <link rel="stylesheet" href="/min/index.php?f=style/1/stylesheet_listings.css" type="text/css">
 <script language="javaScript" src="/script/jquery-1.4.1.min.js" type="text/javascript"></script>
-<script type="text/javascript" src="https://cherrybrook-ac.celebros-analytics.com/AutoComplete/CelebrosAutoCompleteV2.js"></script>  
+<script type="text/javascript" src=" http://CherryV8-ac.celebros.com/AutoComplete/Scripts/CelebrosAutoCompleteV2.js"></script>
 <link type="text/css" rel="stylesheet" href="/min/index.php?f=style/AutoComplete.css">
 <script type="text/javascript">function InsertElementAfterEnd(a,o){document.body.appendChild(o);}</script>
 <script type="text/javascript">
@@ -43,7 +44,7 @@
 <img alt="Cherrybrook Show Dog, Grooming and Pet Supplies" title="Cherrybrook Show Dog, Grooming and Pet Supplies" src="/images/static/Cherrybrook_showdog_Grooming_pet_supplies.gif">
 <span></span>
 </a></div>
-<div id="TopBanner"><a href="http://www.cherrybrook.com/index.cfm/a/catalog.catShow/catid/73/cname/Holiday"><img src="/images/catalog/live/banner/4F37F.jpg" alt=""></a></div>
+<div id="TopBanner"><a href="http://www.cherrybrook.com/index.cfm/siteid/1EJqTwLQbuk-PaTkLxOPmolx_.mtI1qMjg/cname/On_Sale/catid/40/a/catalog.catShow/PgStart/1?pGsTART=1&amp;PagerSortBy=Original&amp;brandid=d61a568c-f1ff-a620-9a8d-3d8953fdf566&amp;PagerMaxItems=24"><img src="/images/catalog/live/banner/CF3DE.jpg" alt=""></a></div>
 <div id="logo_attachments_div">
 <span><a href="#" class="logo_attachment" id="logo_attachment_1" title="Logo Attachment Title"></a></span>
 <span><a href="#" class="logo_attachment" id="logo_attachment_2" title="Logo Attachment Title"></a></span>
@@ -86,18 +87,19 @@
 </div>
 <script language="javascript" type="text/javascript">
 // <![CDATA[
-CelebrosAutoComplete("Cherrybrook","searchform",onSelect);
+CelebrosAutoComplete("CherryV8", "searchform", onSelect, "CherryV8-ac.celebros.com", "CherryV8-ac.celebros.com");
 function onSelect(aParameter)
 { 
-if ((aParameter["SelectedURL"]!="")&&
-(aParameter["IsAutoComplete"]))
-{
-window.location = aParameter["SelectedURL"];
+if ((aParameter["SelectedURL"]!="")&&(aParameter["IsAutoComplete"]))
+{ 
+            window.location = aParameter["SelectedURL"] + "?cmp=cel&trigger=ac";
 }
 else
 { 
-window.location = "index.cfm?a=catalog.search&keyword=" +
-escape(aParameter["SelectedQuery"]);
+                var targetLocation = "index.cfm?a=catalog.search&keyword="+ encodeURI(aParameter["SelectedQuery"]) + "&s=1";
+                  if (aParameter["IsAutoComplete"].toString().toLowerCase() == "true")
+                            targetLocation += "&Trigger=ac";
+                  window.location = targetLocation;
 }
 }
 function stripCharacter(strToChange,replaceChar) {
@@ -168,7 +170,7 @@ return true;
 <!-- begin main body div -->
 <div id="main_body"> 
 <div id="inner_page_content"> <!-- inner page content -->
-<div class="prop" id="minheight" style="height: 641px;"></div>
+<div class="prop" id="minheight" style="height: 636px;"></div>
 <div class="page_title_h2" id="static_pg_title"><h2>Privacy Policy</h2></div> 
 <div id="main_breadcrumbs">
 <ul>
@@ -333,7 +335,18 @@ mso-bidi-language:#0400;}
 <!-- START SIDE NAVIGATION -->
 <div id="side_nav">
 <!-- page leftNav -->
-<div id="rewards_programs"><a href="/index.cfm/a/article.show/artid/65"><img src="/images/static/RewardsProgram1.gif" alt="Bongo - Global Shipping" width="172" height="93" border="0" title="Bongo - Global Shipping"></a></div>
+<div id="newsletterbox">
+<div id="newsletter_form">
+<table>
+<tbody><tr>
+<form action="/index.cfm/a/article.show/artid/78"></form>
+<td><input type="text" name="email" id="NewsLetterEmail" value="Enter email here... " onclick="this.value=''"></td>
+<td style="padding-top: 2px;"><input type="image" src="/images/static/newsLetterSignUpButton.jpg" width="13" height="14"></td> 
+
+</tr>
+</tbody></table>
+</div>
+</div>
 <div id="shop_by_breed">
 <a class="" title="Shop By Breed" href="/index.cfm/a/catalog.BreedList">
 <img class="breed_link" src="">Breed
@@ -359,17 +372,11 @@ mso-bidi-language:#0400;}
 <div class="featured_cat_div featured_cat_div_336">
 <div class="featured_cat_text"><a href="http://www.cherrybrook.com/index.cfm/a/catalog.catShow/catid/336/cname/Chris_Christensen" class="cat_list" title="Chris Christensen"><img src="/images/catalog/staging/label/2dc5a8f7-a26a-ce57-dbf2-bdf8bb4df251.gif" alt="Chris Christensen"></a></div>
 </div>
-<div class="featured_cat_div featured_cat_div_324">
-<div class="featured_cat_text"><a href="http://www.cherrybrook.com/index.cfm/a/catalog.catShow/catid/324/cname/Calendars" class="cat_list" title="Calendars"><img src="/images/catalog/staging/label/afd76b2c-d5b4-e9ad-ebf2-5ed5b547e0c5.jpg" alt="Calendars"></a></div>
-</div>
 <div class="featured_cat_div featured_cat_div_39">
 <div class="featured_cat_text"><a href="http://www.cherrybrook.com/index.cfm/a/catalog.catShow/catid/39/cname/New" class="cat_list" title="New"><img src="/images/catalog/staging/label/5d2fd478-fea3-90af-137b-6e013b8349be.gif" alt="New"></a></div>
 </div>
 <div class="featured_cat_div featured_cat_div_40">
 <div class="featured_cat_text"><a href="http://www.cherrybrook.com/index.cfm/a/catalog.catShow/catid/40/cname/On_Sale" class="cat_list" title="On Sale"><img src="/images/catalog/staging/label/5ea3dfb1-fea3-90af-155a-a2508f725d13.gif" alt="On Sale"></a></div>
-</div>
-<div class="featured_cat_div featured_cat_div_73">
-<div class="featured_cat_text"><a href="http://www.cherrybrook.com/index.cfm/a/catalog.catShow/catid/73/cname/Holiday" class="cat_list" title="Holiday"><img src="/images/catalog/staging/label/d617d25c-f1ff-a620-9062-9d2a01a9564d.jpg" alt="Holiday"></a></div>
 </div>
 <div class="featured_cat_div featured_cat_div_447">
 <div class="featured_cat_text"><a href="http://www.cherrybrook.com/index.cfm/a/catalog.catShow/catid/447/cname/Made_in_the_USA" class="cat_list" title="Made in the USA"><img src="/images/catalog/staging/label/0917090b-1517-5e01-2db3-04da2482525f.jpg" alt="Made in the USA"></a></div>
@@ -378,6 +385,7 @@ mso-bidi-language:#0400;}
 <div class="featured_cat_text blog-link"><a href="http://www.cherrybrook.com/blog" class="cat_list" title="CherryBrook Blog"><img src="/images/btn-blog.png" alt="btn-blog.png"></a></div>
 </div>
 </div>
+<div id="rewards_programs"><a href="/index.cfm/a/article.show/artid/65"><img src="/images/static/RewardsProgram1.gif" alt="Bongo - Global Shipping" width="172" height="93" border="0" title="Bongo - Global Shipping"></a></div>
 <div id="store_locator"><a href="http://www.akcchf.org/" class="btn_store_finder" target="_blank"><span>AKC Canine Health Fundation</span></a></div> 
 <div id="bongo_logo"><a href="/index.cfm/a/article.show/artid/34"><img src="http://bongocheckout.com/public/bongobuttonorange135.png"></a></div>
 <div id="recent_blog">
@@ -417,19 +425,19 @@ mso-bidi-language:#0400;}
 <div class="footer_list" id="footer_list1">
 <span><a href="http://www.cherrybrook.com/" class="footer_link">Home</a></span>
 <span><a href="http://www.cherrybrook.com/index.cfm/a/article.show/artid/23" class="footer_link">FAQ</a></span>
-<span><a href="http://www.cherrybrook.com/index.cfm/a/article.show/artid/77" class="footer_link">Return Policy</a></span>
 <span><a href="http://www.cherrybrook.com/index.cfm/a/article.show/artid/28" class="footer_link">Shipping FAQ</a></span>
+<span><a href="http://www.cherrybrook.com/index.cfm/a/article.show/artid/77" class="footer_link">Return Policy</a></span>
 <span><a href="http://www.cherrybrook.com/index.cfm/a/article.show/artid/34" class="footer_link">Global Shipping</a></span>
-<span><a href="http://www.cherrybrook.com/index.cfm/a/article.show/artid/60" class="footer_link footer_selected">Privacy Policy</a></span>
 <span><a href="http://www.cherrybrookpetsupplies.blogspot.com/" class="footer_link">Blog</a></span>
 <span><a href="http://www.cherrybrook.com/index.cfm/a/article.show/artid/66" class="footer_link">Chris Christensen</a></span>
-<span><a href="http://www.cherrybrook.com/index.cfm/a/article.show/artid/45" class="footer_link">Cherrybrook Grooming Spray</a></span>
+<span><a href="http://www.cherrybrook.com/index.cfm/a/article.show/artid/79" class="footer_link">AKC Online Store</a></span>
 <span><a href="http://www.cherrybrook.com/index.cfm/a/article.show/artid/72" class="footer_link">Cherrybrook Coupons</a></span>
 <span><a href="http://www.cherrybrook.com/index.cfm/a/article.show/artid/38" class="footer_link">Cherrybrook Warehouse</a></span>
 <span><a href="http://www.cherrybrook.com/index.cfm/a/article.show/artid/27" class="footer_link">Cherrybrook Mobile Store</a></span>
 <span><a href="http://www.cherrybrook.com/index.cfm/a/article.show/artid/26" class="footer_link">Cherrybrook Stores</a></span>
 <span><a href="http://www.cherrybrook.com/index.cfm/a/article.show/artid/40" class="footer_link">Upcoming Dog Shows</a></span>
 <span><a href="http://www.cherrybrook.com/index.cfm/a/article.show/artid/39" class="footer_link">Store Events</a></span>
+<span><a href="http://www.cherrybrook.com/index.cfm/a/article.show/artid/60" class="footer_link footer_selected">Privacy Policy</a></span>
 <span><a href="http://www.cherrybrook.com/index.cfm/a/article.sitemap" class="footer_link footer_link_last">Site Map</a></span>
 </div>
 <div class="footer_list" id="footer_list2">
@@ -437,7 +445,7 @@ mso-bidi-language:#0400;}
 </div>
 <div id="contact_info_footer"><span>Order by Phone: </span></div>
 <div id="copy_and_tag">
-<div id="copyright"><p>Copyright © 2012 Cherrybrook.  All rights reserved.</p></div>
+<div id="copyright"><p>Copyright © 2013 Cherrybrook.  All rights reserved.</p></div>
 <div id="footer_text"><a href="/index.cfm/a/article.show/artid/26" class="footText1">Visit our retail stores in</a> <a href="/index.cfm/a/article.show/artid/26" class="footText2">Bedminster, NJ Garwood, NJ and Washington, NJ</a></div>
 <div id="ecptag">
 <p>custom <a href="http://www.ecommercepartners.net/Services/Ecommerce-Solutions/Ecommerce-Website-Design.shtml" class="ecp_link" title="e-commerce website design">ecommerce web design</a> by ECommerce Partners</p>
@@ -463,9 +471,9 @@ mso-bidi-language:#0400;}
 
 
 <!-- 
-	total page processing time: 94 milliseconds
+	total page processing time: 0 milliseconds
 	
-	page was built from scratch
+	Cache hit! cache processing time: 0 milliseconds
 	
 	 -->
 	</body></html>
