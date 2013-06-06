@@ -1,18 +1,19 @@
-<!--The following is the downloaded HTML source of the jobsdb.com.sg privacy policy that was archived on 2012-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121116021658id_/http%3A//sg.jobsdb.com/SG/en/StaticContentContainer/PrivacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jobsdb.com.sg privacy policy that was archived on 2013-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606131707id_/http%3A//sg.jobsdb.com/SG/en/StaticContentContainer/PrivacyPolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-    <link rel="SHORTCUT ICON" href="http://content.jobsdb.com.sg/Content/v137/Images/shared/JobsDB_icon.ico">
-<link href="http://content.jobsdb.com.sg/Content/v137/Css/minEffect.css" rel="stylesheet" type="text/css">
-<link href="http://content.jobsdb.com.sg/Content/v137/Css/minSingaporeJsCss.css" rel="stylesheet" type="text/css">
-<link href="http://content.jobsdb.com.sg/Content/v137/Css/minJs_RevampQuirkmode.css" rel="stylesheet" type="text/css">
+
+    <link rel="SHORTCUT ICON" href="http://content.jobsdb.com.sg/Content/v176/Images/shared/v8revamp2/favicon.ico">
+<link href="http://content.jobsdb.com.sg/Content/v176/Css/minEffect.css" rel="stylesheet" type="text/css">
+<link href="http://content.jobsdb.com.sg/Content/v176/Css/minSingaporeJsCss.css" rel="stylesheet" type="text/css">
+<link href="http://content.jobsdb.com.sg/Content/v176/Css/minJs_RevampQuirkmode.css" rel="stylesheet" type="text/css">
 
 </head>
 <body>
     <div class="wrapper wrapPopup">
         <div id="container">
             <div id="header785">
-                <img src="http://content.jobsdb.com.sg/Content/v137/Images/Shared/logo2.gif"></div>
+                <img src="http://content.jobsdb.com.sg/Content/v176/Images/Shared/v8Revamp/img_joblisting_v8i.gif"></div>
             <div class="clearboth">
             </div>
             <div id="mainContent785">
@@ -95,14 +96,21 @@
 </div></div><script type="text/javascript">
 var siteCatalystAccID = 'jobsdb-prd-sg';
 </script>
-<script type="text/JavaScript" src="http://content.jobsdb.com.sg/Content/v137/Javascript/s_code.js"></script>
+<script type="text/JavaScript" src="http://content.jobsdb.com.sg/Content/v176/Javascript/s_code.js"></script>
 <script type="text/javascript">
+//<![CDATA[
 function InitOmnitureSiteCatalyst(){
-var userid = getCookie('JS_authenUserId');
+var userInfo = getCookie('JsAccInfo');
+var useInfoObj = (userInfo) ? eval('(' + userInfo + ')') : null; 
+var userid = (useInfoObj) ? useInfoObj.Uid : null;
 if(userid != null){
 s.eVar3 = userid;
 s.eVar53 = userid;
+if(useInfoObj.Usage == 'P') {
+s.eVar4 = 'partial logged in';
+} else {
 s.eVar4 = 'logged in';
+}
 }else{
 s.eVar4 = 'logged out';
 }
@@ -138,8 +146,11 @@ s.prop5 = '/sg/en/staticcontent.mvc/renderwithcontainer';
 s.prop6 = 'D=g';
 s.prop10 = 'D=s_vi';
 var s_code=s.t();if(s_code)document.write(s_code);}
+if (typeof suppressOmnitureCodes == 'undefined' || suppressOmnitureCodes == null || (!suppressOmnitureCodes) ){ 
 InitOmnitureSiteCatalyst();
-</script>
+JobsDB_Common.ClearPageTrackOmnitureCarry();
+//]]>
+}</script>
 
                 
                 </div>
@@ -152,7 +163,7 @@ InitOmnitureSiteCatalyst();
         <div class="pushPopup"></div>
     </div>
     <div id="footer785">
-        <div class="left">Copyright © 1998-2012, Jobs DB Inc. All Rights Reserved. </div>
+        <div class="left">Copyright © 1998-2013, Jobs DB Inc. All Rights Reserved. </div>
         <div class="right">
             
             <a href="http://sg.jobsdb.com/SG/en/StaticContentContainer/PrivacyPolicy.htm" target="_self">
