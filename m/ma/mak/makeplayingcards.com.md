@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeplayingcards.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015183845id_/http%3A//www.makeplayingcards.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeplayingcards.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606064356id_/http%3A//www.makeplayingcards.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # MakePlayingCards.com Privacy Policy
 
@@ -23,10 +23,11 @@ When you submit questions, e-mails, survey, comments, suggestions, reviews or ot
 
 If you have any questions about this privacy policy please contact us here: [enquiry@makeplayingcards.com](mailto:enquiry@makeplayingcards.com)
 
-### Consumer trust
+### Payment methods
 
-Globally recognized quality accreditations for added assurance. [Learn more» ](http://www.makeplayingcards.com/certified-quality.aspx)  
+Secure, safe and convenient!
 
+T/T Payments available (ask for details)
 
 * * *
 
@@ -34,8 +35,12 @@ Globally recognized quality accreditations for added assurance. [Learn more» ](
 
 If you have an enquiry on making your cards, we're here to help. [Contact us here»](http://www.makeplayingcards.com/support/os.aspx)
 
+**Other needs?**  
+We also do [board game development & packaging](http://www.makeplayingcards.com/custom-board-games.aspx). Speak to our team today! 
+
 * * *
 
-### Payment methods
+### Consumer trust
 
-Secure, safe and convenient!
+Globally recognized quality accreditations for added assurance. [Learn more» ](http://www.makeplayingcards.com/certified-quality.aspx)  
+
