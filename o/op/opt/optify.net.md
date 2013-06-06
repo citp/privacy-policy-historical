@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the optify.net privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228182053id_/http%3A//www.optify.net/about-our-b2b-inbound-marketing-solutions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optify.net privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606220850id_/http%3A//www.optify.net/about-our-b2b-inbound-marketing-solutions/privacy) for the most accurate reproduction.*
 
 # Optfiy's Privacy Policy | Optify
 
 Optify, Inc. is committed to respecting your privacy. This privacy policy describes the measures we take to protect your privacy in connection with your use of [www.optify.net](http://www.optify.net/) (the “Site”).
 
 This Privacy Policy applies to both corporate and individual customers and the individual users of our services. Customers and users are collectively referred to herein as “you.”
-
-### TRUSTe
-
-[](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.optify.net/seal_m "TRUSTe online privacy certification")Optify has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@optify.net](mailto:support@optify.net). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program applies only to information collected prior to the login feature of this website, except for the purpose of completing a transaction.
 
 ### What Information We Collect
 
@@ -122,8 +118,6 @@ Seattle, WA 98104
 If a user’s personally identifiable information changes (such as your name, primary domain, Twitter account, or email address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information.
 
 Updating or correcting information can usually be done by logging onto [www.optify.net](http://www.optify.net/), clicking on Settings and then going to the “Edit” link; by contacting Customer Service [support@optify.net](mailto:support@optify.net), or by contacting us by postal mail at the contact information listed above. Deleting or deactivating an account can only be handled by contacting Customer Service at [support@optify.net](mailto:support@optify.net). Please specify “Privacy Statement” in the subject line of your e-mail. You may also call us at (206) 388-4232 or toll-free at 1-877-2-OPTIFY.
-
-If you do not receive a reply from us or if you believe that your inquiry has not been satisfactorily resolved, please contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this Web site.
 
 ### Acceptance of Privacy Policy
 
