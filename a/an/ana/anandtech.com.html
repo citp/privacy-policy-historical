@@ -1,341 +1,637 @@
-<!--The following is the downloaded HTML source of the anandtech.com privacy policy that was archived on 2012-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121123003018id_/http%3A//www.anandtech.com/Home/Terms) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anandtech.com privacy policy that was archived on 2013-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606141337id_/http%3A//anandtech.com/Home/Terms) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html><!--[if IE 6]> <html class="ie6"> <![endif]--><!--[if IE 7]> <html class="ie7"> <![endif]--><!--[if IE 8]> <html class="ie8"> <![endif]--><!--[if IE 9]> <html class="ie9"> <![endif]--><head>
     <meta name="google-site-verification" content="QejUZTJaqCr781DA0W_JNGjf4wS2xyffL3ohvIuRESc">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>AnandTech  - Terms</title>    
+    <title>AnandTech | Terms &amp; Privacy Policy</title>
     <meta http-equiv="author" name="author" content="">
     <meta name="copyright" content="">
     <meta http-equiv="description" name="description" content="">
     <meta http-equiv="keywords" name="keywords" content="">
 
-      
-      <link type="text/css" href="/content/main.css?201209302" rel="stylesheet">
+
+    <link href="http://fonts.googleapis.com/css?family=Rokkitt:400,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic" rel="stylesheet" type="text/css">
+    <!--[if IE]><style type="text/css">.pie {behavior:url(/Content/PIE.htc);}</style><![endif]-->
+    <link type="text/css" href="/content/reset.css" rel="stylesheet">
+    
+    <link type="text/css" href="/content/main2013.css" rel="stylesheet">    
+
+
+    
+    <link rel="stylesheet" href="/content/animenu.css">
+    <!--[if lt IE 9]>
+            <link type="text/css" href="/content/ie8.css" rel="stylesheet" />
+		    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2pre/html5shiv.js"></script>
+	    <![endif]-->
     <link rel="shortcut icon" href="/favicon.ico">
-	<link rel="apple-touch-icon" sizes="144x144" href="/content/at-icon144.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/content/at-icon144.png">
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for AnandTech.com" href="/rss/">
-    <!--[if lt IE 7]><script type="text/javascript" src="/scripts/supersleight2.js"></script><link type="text/css" href="/content/iepng.css" rel="stylesheet" /><![endif]--> 
     <meta name="Title" content="">
     <meta name="Description" content="">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="/Scripts/jquery-1.7.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="http://code.jquery.com/jquery-1.9.1.js" type="text/javascript"></script>
     <script src="/Scripts/jquery/jquery.json-2.2.min.js" type="text/javascript"></script>
-    <script src="/Scripts/jquery/jquery.form.js" type="text/javascript"></script>
     <script src="/Scripts/anandtech.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/flowplayer/flowplayer-3.2.11.min.js"></script>
+    <script type="text/javascript" src="/Scripts/flowplayer/flowplayer.ipad-3.2.12.min.js"></script>
+
+    <link rel="stylesheet" href="/Scripts/fancybox/jquery.fancybox.css?v=2.1.4" type="text/css" media="screen">
+    <script type="text/javascript" src="/Scripts/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+
+    <script type="text/javascript">
+        var hasCommenting = false;
+        var gotoComment = false;
+        function DoLogin() {
+            $('#inlineLoginButton').hide();
+            $('img#ilAjaxLoader').show();
+
+            var checked = $('#RememberMe').is(':checked');
+            var remember = 'false';
+            if (checked) remember = 'true';
+            var pageSend = { UserName: $('#UserName').val(), Password: $('#Password').val(), RememberMe: remember };
+            var encoded = $.toJSON(pageSend);
+
+            $.ajax({
+                url: "/Account/InlineLogin",
+                contentType: "application/json; charset=utf-8",
+                dataType: 'json',
+                type: 'POST',
+                data: encoded,
+                success: function (data) {
+                    //data.Success, data.UserName, data.Message
+                    if (data.Success) {
+                        $('span#logoutHeader').hide();
+                        $('span#loginHeader').show();
+                        $('span#loginUser').html(data.UserName);
+
+                        if (hasCommenting) {
+                            $('#icMessage').html('You are currently logged in as ' + data.UserName + '.');
+                            $('#inlineComment').removeAttr('disabled');
+                            if (gotoComment) {
+                                $('#CommentInput').focus();
+
+                            }
+                        }
+
+                        $.fancybox.close();
+
+                        loggedIn = true;
+                    } else {
+                        $('#ilMessage').html(data.Message);
+                        loggedIn = false;
+
+                    }
+                    $('img#ilAjaxLoader').hide();
+                    $('#inlineLoginButton').show();
+
+                }
+            });
+            //        event.preventDefault();
+            return false;
+
+        }
+
+
+        $(document).ready(function () {
+            $("#loginTop").click(function (e) {
+
+                gotoComment = false;
+
+                $.fancybox.open([
+                        {
+                            href: '#inlineLogin'
+                        }
+                ], {
+                    padding: 0,
+                    titlePosition: 'inside',
+                    transitionIn: 'none',
+                    transitionOut: 'none',
+                    afterShow: function (current, previous) {
+                        $('#UserName').focus();
+
+                    }
+                });
+
+                e.preventDefault();
+                return false;
+
+            });
+
+            $('a.ignoreclick').click(function (e) {
+                e.preventDefault();
+                return false;
+            });
+
+        });
+    </script>
+
 
     <script type="text/javascript">
             var OA_source = '';
-    </script>    
-      
-   <script type="text/javascript" src="http://dynamic1.anandtech.com/www/delivery/spcjs.php?id=1"></script>
-    
-    <!-- FM Tracking Pixel -->
-    <script type="text/javascript" src="http://static.fmpub.net/site/anandtech"></script>
-    <!-- FM Tracking Pixel -->
-    
-          
+    </script>
 
-  </head>
+    <script type="text/javascript" src="http://dynamic1.anandtech.com/www/delivery/spcjs.php?id=1"></script>
+    
+    
+
+</head>
 <body>
-<div id="hold_me">
-  <div class="top_banner">
-<script type="text/javascript">
-    OA_show(1);
-</script><noscript><a target='_blank' href='http://dynamic1.anandtech.com/www/delivery/ck.php?n=985cc5d'><img border='0' alt='' src='http://dynamic1.anandtech.com/www/delivery/avw.php?zoneid=1&amp;n=985cc5d' /></a></noscript>
-
-  </div>
-  <div id="container_site">
-    <div id="container_width">
-      <div class="header">
-        <a href="/" class="logo" title="AnandTech"></a>
-        <div class="navigation_main">
-          <div class="userbar">
-            <div class="customize">
-            
-              <span id="loginHeader" style="display:none;">
-                Welcome <b><span id="loginUser"></span></b>!
-                <a href="/Account/ChangePassword">My Account</a>
-                <a href="/Account/Logoff">LogOff</a>
-              </span>
-              <span id="logoutHeader">
-              <a href="/Account/Logon">Login</a>
-			  <a href="/Account/Register">Register</a>
-              </span>
+    <header class="header">
+        <!--start header-->
+        <div class="header_top">
+            <div class="header_ad">
+                    <script type="text/javascript">
+                        OA_show(1);
+                    </script>
+                    <noscript><a target='_blank' href='http://dynamic1.anandtech.com/www/delivery/ck.php?n=985cc5d'>
+                        <img border='0' alt='' src='http://dynamic1.anandtech.com/www/delivery/avw.php?zoneid=1&amp;n=985cc5d' /></a></noscript>
             </div>
-            <form class="anandsearch" action="/SearchResults" method="get">
-              <input name="q" class="searchfield" type="text" value="">
-              <input class="searchsubmit" type="submit" value="Search">
-            </form>
-          </div>
-          <div class="links">
-            <a href="/">Home</a>
-            <a href="/Home/About">About</a>
-            <a href="http://forums.anandtech.com">Forums</a>
-            <a href="/rss/">RSS</a>
-            <a href="/pipeline/">News</a>
-            <a href="/Bench/">Bench</a>
-            <a href="/Gallery/">Galleries</a>            
-          </div>
-        </div>
-        <div class="navigation_product">
-          <div class="white">
-            <a href="/tag/cpus">CPUs</a><div class="sep"></div>
-            <a href="/tag/mb">Motherboards</a><div class="sep"></div>
-            <a href="/tag/storage">SSD/HDD</a><div class="sep"></div>
-            <a href="/tag/gpus">GPUs</a><div class="sep"></div>
-            <a href="/tag/mobile">Mobile</a><div class="sep"></div>            
-            <a href="/tag/IT" style="padding-right:27px;">IT/Datacenter</a>
-          </div>
-          <div class="orange">
-            <table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td><a href="/tag/smartphones">Smartphones</a></td>
-                <td><a href="/tag/memory">Memory</a></td>
-                <td class="bigger"><a href="/tag/casecoolingpsus">Cases/Cooling/PSU(s)</a></td>
-                <td><a href="/tag/displays">Displays</a></td>                                
-                <td><a href="/tag/mac">Mac</a></td>                
-                <td><a href="/tag/systems">Systems</a></td>                
-                <td><a href="/tag/cloud-computing">Cloud</a></td>               
-                <td class="bigger1"><a href="/tag/tradeshows">Trade Shows</a></td>
-                <td class="nosep"><a href="/tag/guides">Guides</a></td>                
-              </tr>
-            </tbody></table>
-          </div>
-        </div>
-      </div>
+            <div class="logo"><a href="/">
+                <img src="/img/logo2.png" alt=""></a></div>
+            <div class="header_top_right">
+                <div class="search_area">
+                    <form action="/SearchResults" method="get">
+                        <div class="search">
+                            <input name="q" type="text" class="search_field">
+                            <input name="" type="submit" class="search_btn" value="search">
+                            <div class="clear"></div>
+                        </div>
+                        <div class="login">
+                                <span id="loginHeader" style="display: none;">Welcome <a href="/Account/Details"><b><span id="loginUser"></span></b></a>
+                                    <a href="/Account/Logout?r=%2fHome%2fTerms">Log out</a>
+                                </span>
+                                <span id="logoutHeader">
+                                    <a id="loginTop" href="/Account/Login?r=%2fHome%2fTerms">Login</a>
+                                    <a href="/Account/Register?r=%2fHome%2fTerms">Register</a>
+                                </span>
+                        </div>
+                        <div class="clear"></div>
+                    </form>
+                </div>
 
-        <div class="containerbody" id="subpage">
-    <div class="body_left">
-      <div class="subbox">
-        <div class="subcontent" id="login">
-          <div class="sidepadding">
-            <div class="dottedheading big b dgrey">Privacy Policy of AnandTech, Inc.</div>
-    	
-	<br><br>
-	AnandTech, Inc. recognizes the importance of protecting the privacy of you as a user of this Website. This Website does not collect Personal Information about you except for information that you voluntarily provide (for example, when you submit an email to us with comments about our web site or products reviewed on the web site and you do not specifically indicate that the information contained within is to be considered confidential or provide answers to a voluntary readership survey.) We do set cookies from time to time to better gage our readership level. No Personal Information is gathered via these cookies.
-	<br><br>
-	Personally Information is treated confidentially. We consider the following to be Personal Information: your name, address, phone number, date of birth, job, personal interests, credit card information, your e-mail address and data about the pages you visited on this Website... 
-	<br><br>
-	<b>Legal Disclaimer</b>
-	<br><br>
-	All the information and contents posted on this Web Site are the property of AnandTech, Inc., and are protected by U.S. and foreign copyright and trademark laws. By accessing this Web Site, you agree to the following terms and conditions. If you do not agree, you have no right to use this Web Site. 
-	<br><br>
-	1. This Web Site and its contents may not be copied or distributed in any manner without the prior written consent of AnandTech, Inc.. With the following exception: 
-	<br><br>
-	You may copy up to 10 words or paraphrase a article provided that you attribute the material to <a href="http://www.anandtech.com">www.anandtech.com</a>. 
-	<br><br>
-	2. AnandTech, Inc. MAKES NO REPRESENTATIONS OR WARRANTIES WITH RESPECT TO THIS WEB SITE, ITS CONTENTS OR THE MANUSCRIPT, WHICH ARE PROVIDED FOR USE "AS IS" AND IS WITHOUT WARRANTY OF ANY KIND. 
-	<br><br>
-	3. Portions of this Web Site may publish readers comments and opinion. AnandTech, Inc. does not assume or have any responsibility or any liability for the readers comments or opinions 
-	<br><br>
-	If you have questions about our privacy or legal policies, contact us by e-mail at <a href="mailto:anand.shimpi@anandtech.com">anand.shimpi@anandtech.com</a>
-	<br><br>
-	<b>Third Party Advertising</b><br>
-	We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. 
+                <div class="header_right_btm">
+                    <span>
+                        <a href="http://www.twitter.com/AnandTech">
+                            <img src="/img/icon-twitter.png" alt=""></a>
+                        <a href="http://www.facebook.com/AnandTech/">
+                            <img src="/img/icon-facebook.png" alt=""></a>
+                        <a href="/rss/">
+                            <img src="/img/icon-rss.png" alt=""></a>
+                    </span>
+
+                    <ul>
+                        <li><a href="/home/about">ABOUT</a></li>
+                        <li><a href="/home/advertising">ADVERTISING</a></li>
+                        <li><a href="/bench/">BENCH</a></li>
+                        <li><a href="http://forums.anandtech.com">FORUMS</a></li>
+                        <li><a href="/gallery/">GALLERIES</a></li>
+                        <li><a href="/tag/podcast">PODCAST</a></li>                        
+                    </ul>
+                    <div class="clear"></div>
+                </div>
+            </div>
+            <div class=" clrflt"></div>
+        </div>
+
+        <nav class="nav inner_nav animenu">
+            <!--start nav-->
+            <input type="checkbox" id="button">
+            <label for="button">Menu</label>
+            <ul>
+                <li><a href="#" class="ignoreclick">PC Components<span>▼</span></a>
+                    <ul>
+                        <li><a href="/tag/cpus">CPUs</a></li>
+                        <li><a href="/tag/gpus">GPUs</a></li>
+                        <li><a href="/tag/mb">Motherboards</a></li>
+                        <li><a href="/tag/ssd">SSDs</a></li>
+                        <li><a href="/tag/casecoolingpsus">Cases/Cooling/PSUs</a></li>
+            			<li><a href="/tag/memory">Memory</a></li>
+            			<li><a href="/tag/displays">Displays</a></li>
+                        <li><a href="/tag/nas">NAS</a></li>
+                        <li><a href="/tag/networking">Networking</a></li>
+                        <li><a href="/tag/hdd">HDDs</a></li>
+                        <li><a href="/tag/storage">Storage</a></li>
+			<li><a href="/tag/keyboard">Keyboards</a></li>
+                    </ul>
+
+                </li>
+                <li><a href="#" class="ignoreclick">Smartphones &amp; tablets<span>▼</span></a>
+                    <ul>
+                        <li><a href="/tag/smartphones">Smartphones</a></li>
+                        <li><a href="/tag/tablets">Tablets</a></li>
+                        <li><a href="/tag/htc">HTC</a></li>
+                        <li><a href="/tag/samsung">Samsung</a></li>
+                        <li><a href="/tag/lg">LG</a></li>
+                        <li><a href="/tag/google">Google/Android</a></li>
+                        <li><a href="/tag/microsoft">Microsoft</a></li>
+                        <li><a href="/tag/apple">Apple</a></li>
+                        <li><a href="/tag/soc">SoCs</a></li>
+                    </ul>
+                </li>
+                <li><a href="#" class="ignoreclick">Notebooks &amp; desktops<span>▼</span></a>
+                    <ul>
+                        <li><a href="/tag/mobile">Notebook Reviews</a></li>
+                        <li><a href="/tag/desktops">Desktop Reviews</a></li>
+                        <li><a href="/tag/mac">Mac Reviews</a></li>
+                        <li><a href="/tag/ultrabook">Ultrabooks</a></li>
+                        <li><a href="/tag/htpc">HTPC</a></li>
+                    </ul>
+                </li>
+                <li><a href="#" class="ignoreclick">Cloud/Datacenter &amp; IT<span>▼</span></a>
+                    <ul>
+                        <li><a href="/tag/cloud-computing">Cloud Computing</a></li>
+                        <li><a href="/tag/virtualization">Virtualization</a></li>
+                        <li><a href="/tag/enterprise">Enterprise CPUs</a></li>
+                        <li><a href="/tag/nas">Enterprise Storage</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+        <!--end nav-->
+
+            <nav class="topic_menu topic_inner" style="width: 280px; padding: 6px 0 0 6px;float: right;">
+                     <div class="fbholder-fp" style="float:left; margin-right: 15px;"><div class="fb-like" data-href="http://www.facebook.com/AnandTech" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-colorscheme="dark"></div></div>
+<a href="https://twitter.com/anandtech" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false"></a>
+<script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+
+            </nav>
+            <nav class="topic_menu topic_inner">
+                <ul>
+                    <li class="topin_title">TRENDING TOPICS</li>
+                        <li class="nosep"><a href="/tag/cpus">CPUs</a></li>
+                        <li><a href="/tag/haswell">Haswell</a></li>    
+                        <li><a href="/tag/intel">Intel</a></li>    
+                        <li><a href="/tag/gpus">GPUs</a></li>    
+                        <li><a href="/tag/iris">Iris</a></li>    
+                        <li><a href="/tag/mobile">Mobile</a></li>    
+                        <li><a href="/tag/nvidia">NVIDIA</a></li>    
+                        <li><a href="/tag/kepler">Kepler</a></li>    
+                        <li><a href="/tag/laptops">laptops</a></li>    
+                </ul>
+                <div class="clear"></div>
+            </nav>
+    </header>
+    <!--end header-->
+
+
+    <section class="content">
+        <!--start content-->
+            <section class="main_cont">
+
+                
+
+<div class="breadcrumb_area">
+    <nav class="breadcrumb nowidth">
+        <ul>
+            <li><a href="/">Home</a><span>&gt;</span></li>
+            <li><a href="/Home/Terms">Terms, Privacy Policy</a></li>
+        </ul>
+        <div class="clear"></div>
+    </nav>
+</div>
+<div class="generic_cont general_form">
+
+    <h2>Terms, Privacy Policy of AnandTech, Inc.</h2>
+
+    <p>
+        AnandTech, Inc. recognizes the importance of protecting the privacy of you as a user of this Website. This Website does not collect Personal Information about you except for information that you voluntarily provide (for example, when you submit an email to us with comments about our web site or products reviewed on the web site and you do not specifically indicate that the information contained within is to be considered confidential or provide answers to a voluntary readership survey.) We do set cookies from time to time to better gage our readership level. No Personal Information is gathered via these cookies.
+    </p>
+    <p>
+        Personally Information is treated confidentially. We consider the following to be Personal Information: your name, address, phone number, date of birth, job, personal interests, credit card information, your e-mail address and data about the pages you visited on this Website.
+    </p>
+    <h3>Legal Disclaimer</h3>
+    <p>
+        All the information and contents posted on this Web Site are the property of AnandTech, Inc., and are protected by U.S. and foreign copyright and trademark laws. By accessing this Web Site, you agree to the following terms and conditions. If you do not agree, you have no right to use this Web Site. 
+    </p>
+    <p>
+        1. This Web Site and its contents may not be copied or distributed in any manner without the prior written consent of AnandTech, Inc.. With the following exception: 
+    </p>
+    <p>
+        You may copy up to 10 words or paraphrase a article provided that you attribute the material to <a href="http://www.anandtech.com">www.anandtech.com</a>. 
+    </p>
+    <p>
+        2. AnandTech, Inc. MAKES NO REPRESENTATIONS OR WARRANTIES WITH RESPECT TO THIS WEB SITE, ITS CONTENTS OR THE MANUSCRIPT, WHICH ARE PROVIDED FOR USE "AS IS" AND IS WITHOUT WARRANTY OF ANY KIND. 
+    </p>
+    <p>
+        3. Portions of this Web Site may publish readers comments and opinion. AnandTech, Inc. does not assume or have any responsibility or any liability for the readers comments or opinions 
+    </p>
+    <p>
+        If you have questions about our privacy or legal policies, contact us by e-mail at <a href="mailto:anand.shimpi@anandtech.com">anand.shimpi@anandtech.com</a>
+    </p>
+    <p>
+        </p><h3>Third Party Advertising</h3>
+        <p>
+            We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. 
 	These companies may use information (not including your name, address, email address or telephone number) about your 
 	visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and 
 	services that may be of interest to you. If you would like more information about this practice and to know your 
 	choices about not having this information used by these companies, 
 	please <a href="http://www.maxonline.com/privacy_policy/index.php" target="_blank">click here</a>.
-	<br><br>
-	<b>Third Party Cookies</b><br>In the course of serving advertisements to this site, our third-party advertiser
-	 may place or recognize a unique "cookie" on your browser.
-
-           </div>
-         </div>
-       </div>
+        </p>
+    <p>
+        <b>Third Party Cookies</b><br>
+        In the course of serving advertisements to this site, our third-party advertiser
+                                  may place or recognize a unique "cookie" on your browser.
+    </p>
     </div>
 
-            <div class="body_right">
-          <div class="sidepadding follow">
+            </section>
+            <!--end main content-->        
+
+
+     <aside class="sidebar">
             <script type="text/javascript">
                 OA_show(21);
             </script><noscript><a target='_blank' href='http://dynamic1.anandtech.com/www/delivery/ck.php?n=2aefd4a'><img border='0' alt='' src='http://dynamic1.anandtech.com/www/delivery/avw.php?zoneid=11&amp;n=2aefd4a' /></a></noscript>
-
-            <div class="dottedheading big b">Follow AnandTech</div>
-              <a href="http://www.facebook.com/AnandTech/"><img src="/content/images/icons/facebook.png" alt=""></a>
-              <a href="http://twitter.com/AnandTech"><img src="/content/images/icons/twitter.png" alt=""></a>              
-              <a href="/rss/"><img src="/content/images/icons/rss.png" alt=""></a>
-              <br>
-          </div>
-          <div class="sidepadding">          
-            <div class="ad">
+             
             <script type="text/javascript">
                 OA_show(18);
             </script>
             <noscript><a href='http://dynamic1.anandtech.com/www/delivery/ck.php?n=a5553e44&amp;cb=' target='_blank'><img src='http://dynamic1.anandtech.com/www/delivery/avw.php?zoneid=18&amp;cb=&amp;n=a5553e44' border='0' alt='' /></a></noscript>
-            </div>
-          </div>
-          <div class="sidepadding">          
-            <div class="ad">
-                  <script type="text/javascript">
-                      OA_show(4);
-                  </script><noscript><a target='_blank' href='http://dynamic1.anandtech.com/www/delivery/ck.php?n=154a463'><img border='0' alt='' src='http://dynamic1.anandtech.com/www/delivery/avw.php?zoneid=4&amp;n=154a463' /></a></noscript>
+
+                <script type="text/javascript">
+                    OA_show(4);
+                </script><noscript><a target='_blank' href='http://dynamic1.anandtech.com/www/delivery/ck.php?n=154a463'><img border='0' alt='' src='http://dynamic1.anandtech.com/www/delivery/avw.php?zoneid=4&amp;n=154a463' /></a></noscript>
 			<script type="text/javascript">
 			    OA_show(25);
             </script>
 
-            </div>
-          </div>
-          
-          <div id="morefrom">
-            <div class="dottedheading big b">Latest from AnandTech</div>
+             <article class="pipeline_stories">
+                 <div class="pipeline_title">
+                     <h2><a href="/pipeline">PIPELINE STORIES</a></h2>
+                     <a href="mailto:tips@anandtech.com">+ Submit News</a>
+                     <div class="clrflt"></div>
+                 </div>
+                 
+                 <strong>
+                     <a href="/show/7034/computex-2013-asrock-z87-with-22-sata-ports">Computex 2013: ASRock Z87 with 22 SATA Ports</a>
+                     <img src="/img/dell_reveal_arrow.jpg" alt="">
+                 </strong>
+                 
+                 <span><a href="/show/7033/computex-2013-spot-the-desktop-kabini">Computex 2013: Spot the Desktop Kabini</a></span>
+                 <span><a href="/show/6967/amd-continues-assembling-dream-team-sean-pelletier-from-nvidia-tech-marketing-to-join">AMD Continues Assembling Dream Team: Sean Pelletier from NVIDIA Tech Marketing to Join, Update: He's back at NVIDIA</a></span>
+                 
+                 <ul>
+                         <li><a href="/show/7031/samsung-makes-galaxy-s-4-active-official-ip67-and-ruggedized">Samsung Makes Galaxy S 4 Active Official - IP67 and Ruggedized</a></li>
+                         <li><a href="/show/7030/outlook-2013-rt-coming-free-to-windows-rt-81-tablets-later-this-year">Outlook 2013 RT Coming Free to Windows RT 8.1 Tablets Later this Year</a></li>
+                         <li><a href="/show/7028/amd-richland-desktop-apus-now-available">AMD Richland Desktop APUs Now Available</a></li>
+                         <li><a href="/show/7029/sony-introduces-vaio-pro-1113-ultrabooks-and-vaio-duo-13-hybrid">Sony Introduces VAIO Pro 11/13 Ultrabooks and VAIO Duo 13 Hybrid</a></li>
+                         <li><a href="/show/7027/computex-2013-rosewill">Computex 2013: Rosewill</a></li>
+                         <li><a href="/show/7026/intel-announces-thunderbolt-2-at-computex-20gbps-bidirectional-bandwidth-per-channel">Intel Announces Thunderbolt 2 at Computex: 20Gbps Bi-Directional Bandwidth per Channel</a></li>
+                         <li><a href="/show/7024/asus-rog-press-conference-combined-airwater-gpu-cooling">ASUS ROG Press Conference: Combined Air/Water GPU Cooling</a></li>
+                         <li><a href="/show/7021/introducing-the-dualcore-haswell-skus">Introducing the Dual-Core Haswell SKUs</a></li>
+                         <li><a href="/show/7023/asus-rog-press-conference-rog-maximus-vi-formula-and-impact">ASUS ROG Press Conference: ROG Maximus VI Formula and Impact</a></li>
+                 </ul>
 
-                <div class="tabs"><a class="select" href="/pipeline/">Pipeline</a><a href="/rss/pipeline/"><img src="/content/images/icons/rss.png" width="18" height="18" alt=""></a>
-                <a style="text-transform:none; float: right; background-color: #E07100; color: #fff;" href="mailto:tips@anandtech.com">Submit News!</a>
-                </div>
-                <div class="content news mb">
-                  <a href="/show/6471/the-anandtech-podcast-episode-10"><span>The AnandTech Podcast: Episode 10</span></a>
-                  <a href="/show/6468/aocs-i2367fh-thin-virtually-borderless-and-ips"><span>AOC's i2367fh: Thin, "Virtually Borderless", and IPS</span></a>
-                  <a href="/show/6466/habey-launches-fanless-bis6922-and-bis6636-computers-for-industrial-applications"><span>Habey Launches Fanless BIS-6922 and BIS-6636 Computers for Industrial Applications</span></a>
-                  <a href="/show/6465/nintendo-wii-u-teardown"><span>Nintendo Wii U Teardown</span></a>
-                  <a href="/show/6463/qualcomm-begins-sampling-mdm9x25-category-4-lte-3gpp-release-10"><span>Qualcomm Begins Sampling MDM9x25 - Category 4 LTE, 3GPP Release 10</span></a>
-                  <a href="/show/6462/intel-explains-20nm-nand-endurance-concerns-on-the-ssd-335"><span>Intel Explains 20nm NAND Endurance Concerns on the SSD 335</span></a>
-                  <a href="/show/6459/samsung-ssd-840-testing-the-endurance-of-tlc-nand"><span>Samsung SSD 840: Testing the Endurance of TLC NAND</span></a>
-                  <a href="/show/6458/android-42-hits-aosp-broadcom-replaces-nxp-with-nci-stack-for-nfc"><span>Android 4.2 Hits AOSP, Broadcom Replaces NXP with NCI Stack for NFC</span></a>
-                  <a href="/show/6457/green500-supercomputer-list-released-intel-takes-top-spot-followed-by-amd-nvidia"><span>Green500 Supercomputer List Released: Intel Takes Top Spot, Followed By AMD, NVIDIA</span></a>
-                  <a href="/show/6455/how-to-build-a-5inch-phone-htc-droid-dna-handson"><span>HTC Droid DNA Hands-On</span></a>
-                  <a href="/show/6452/synology-launches-sasenabled-flagship-10bay-2u-rs10613xs-nas-and-rx1213sas-expander"><span>Synology Launches SAS-Enabled Flagship 10-bay 2U RS10613xs+ NAS and RX1213sas Expander</span></a>
-                  <a href="/show/6453/the-droid-dna-announced-5inch-1080p-s4-pro"><span>The HTC Droid DNA Announced: 5-inch, 1080p, S4 Pro</span></a>
-                </div>
-
-                <div class="tabs"><a class="select" href="http://www.dailytech.com/" target="_blank">DailyTech</a></div>
-                <div class="content news mb">
-                      <a href="http://www.dailytech.com/article.aspx?newsid=29252" target="_blank"><span>Mozilla Abandons 64-Bit Firefox Development for Windows for Now</span></a>
-                      <a href="http://www.dailytech.com/article.aspx?newsid=29251" target="_blank"><span>Calif. Judge Orders Apple to Share Details of HTC Settlement with Samsung</span></a>
-                      <a href="http://www.dailytech.com/article.aspx?newsid=29248" target="_blank"><span>Yet Another Government Agency (NTSB) Drops BlackBerry </span></a>
-                      <a href="http://www.dailytech.com/article.aspx?newsid=29242" target="_blank"><span>Google v. Microsoft Lawsuits Wrap Up Under Cloak of Secrecy</span></a>
-                      <a href="http://www.dailytech.com/article.aspx?newsid=29246" target="_blank"><span>Windows 8 Usability on PCs for Novice and Power Users Blasted in Study</span></a>
-                      <a href="http://www.dailytech.com/article.aspx?newsid=29249" target="_blank"><span>Apple's New "Spaceship" Headquarters Won't Be Ready Until 2016</span></a>
-                      <a href="http://www.dailytech.com/article.aspx?newsid=29244" target="_blank"><span>FBI Probes Possible Criminal Accounting Fraud at HP Unit Autonomy</span></a>
-                      <a href="http://www.dailytech.com/article.aspx?newsid=29241" target="_blank"><span>Goatse Security iPad Hacker Found Guilty, Faces up to Five Years in Prison</span></a>
-                      <a href="http://www.dailytech.com/article.aspx?newsid=29250" target="_blank"><span>11/21/2012 Daily Hardware Reviews</span></a>
-                      <a href="http://www.dailytech.com/article.aspx?newsid=29247" target="_blank"><span>Boeing 737 MAX Reaches "Firm Concept" Stage</span></a>
-                      <a href="http://www.dailytech.com/article.aspx?newsid=29245" target="_blank"><span>T-Mobile Says Apple's iPhone Isn't Worth the Sacrifices Required</span></a>
-                      <a href="http://www.dailytech.com/article.aspx?newsid=29240" target="_blank"><span>Western Digital Adds New 4 TB Capacity Hard Drives to Its Black HDD Line</span></a>
-                      <a href="http://www.dailytech.com/article.aspx?newsid=29230" target="_blank"><span>Audi Announces Four New Diesels for U.S. </span></a>
-                      <a href="http://www.dailytech.com/article.aspx?newsid=29234" target="_blank"><span>Microsoft is Full of "It" -- Feces-Derived Biogas That Is</span></a>
-                      <a href="http://www.dailytech.com/article.aspx?newsid=29232" target="_blank"><span>Human Rights Watch: Ban "Terminator" Robots Before We Lose Control</span></a>
-                      <a href="http://www.dailytech.com/article.aspx?newsid=29233" target="_blank"><span>World's Oldest Working Computer Comes Back to Life</span></a>
-                      <a href="http://www.dailytech.com/article.aspx?newsid=29238" target="_blank"><span>Senator Pushes Bill Allowing Warrantless Reading of E-Mails in the U.S.</span></a>
-                </div>
-
-            <div class="content news mb">
-			<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/AnandTech" width="305" show_faces="true" border_color="" stream="false" header="true"></fb:like-box>
-            </div>
-			<div style="clear:both;padding-bottom: 10px;">
+             </article>
+        
+             <article class="dailytech_news">
+                 <h2>Dailytech News<a href="http://www.dailytech.com/" target="_blank">visit site</a></h2>
+                 <div class="dailytech_cont">
+                     <ul>
+                             <li><a href="http://www.dailytech.com/Patriot+Launches+Fuel+Batteries+for+Mobile+Devices/article31704.htm">Patriot Launches Fuel+ Batteries for Mobile Devices</a></li>
+                             <li><a href="http://www.dailytech.com/Microsoft+FBI+Take+a+Huge+Bite+Out+of+Citadel+Botnet/article31702.htm">Microsoft, FBI Take a Huge Bite Out of Citadel Botnet</a></li>
+                             <li><a href="http://www.dailytech.com/Federal+Judge+Grants+Reprieve+to+Suspect+Facing+Forced+Hard+Drive+Decryption/article31695.htm">Federal Judge Grants Reprieve to Suspect Facing Forced Hard Drive Decryption</a></li>
+                             <li><a href="http://www.dailytech.com/China+Says+it+has+Mountains+of+Data+to+Accuse+US+of+Cyber+Attacks/article31700.htm">China Says it has "Mountains of Data" to Accuse U.S. of Cyber Attacks</a></li>
+                             <li><a href="http://www.dailytech.com/Intel+Unveils+Thunderbolt+2+Will+Land+By+Years+End/article31697.htm">Intel Unveils Thunderbolt 2, Will Land By Year's End</a></li>
+                             <li><a href="http://www.dailytech.com/HTC+One+Mini+43Incher+Leaked+Rumored+for+August+Launch/article31699.htm">HTC One Mini 4.3-Incher Leaked, Rumored for August Launch</a></li>
+                             <li><a href="http://www.dailytech.com/Apple+Looking+to+Expand+Cupertino+Staff+by+Nearly+50+Percent+Over+Next+3+Years/article31698.htm">Apple Looking to Expand Cupertino Staff by Nearly 50 Percent Over Next 3 Years</a></li>
+                             <li><a href="http://www.dailytech.com/EBay+Launching+Virtual+Shoppable+Windows+for+Closed+Storefronts/article31696.htm">EBay Launching Virtual "Shoppable Windows" for Closed Storefronts</a></li>
+                             <li><a href="http://www.dailytech.com/Samsung+Unveils+Rugged+Water+Resistant+Galaxy+S4+Active+Smartphone/article31694.htm">Samsung Unveils Rugged, Water Resistant Galaxy S4 Active Smartphone</a></li>
+                             <li><a href="http://www.dailytech.com/Amazon+Expanding+Its+AmazonFresh+Online+Grocery+Delivery+Service+/article31693.htm">Amazon Expanding Its "AmazonFresh" Online Grocery Delivery Service </a></li>
+                             <li><a href="http://www.dailytech.com/ITC+Favors+Samsung+in+3G+Patent+Suit+Bans+Older+Apple+iOS+Devices/article31692.htm">ITC Favors Samsung in 3G Patent Suit, Bans Older Apple iOS Devices</a></li>
+                             <li><a href="http://www.dailytech.com/Google+Spends+182+Million+in+Lobbying+for+2012+Passes+Lockheed+Martin/article31691.htm">Google Spends $18.2 Million in Lobbying for 2012, Passes Lockheed Martin</a></li>
+                             <li><a href="http://www.dailytech.com/No+Ogling+With+The+Google+Goggles+Tits+and+Glass+App+Banned/article31688.htm">No Ogling With The Google Goggles: "Tits and Glass" App Banned</a></li>
+                             <li><a href="http://www.dailytech.com/Intel+Computex+2013+Haswell+Released+22+nm+Atom+Silvermont+Tablets+Approach/article31685.htm">Intel Computex 2013: Haswell Released, 22 nm Atom Silvermont Tablets Approach</a></li>
+                             <li><a href="http://www.dailytech.com/DOJ+Lawyer+Says+Apples+EBook+PriceFixing+Cost+Consumers+Millions+of+Dollars/article31689.htm">DOJ Lawyer Says Apple's E-Book Price-Fixing Cost Consumers "Millions of Dollars"</a></li>
+                             <li><a href="http://www.dailytech.com/Dell+Upgrades+Devices+in+XPS+Latitude+OptiPlex+Lines/article31686.htm">Dell Upgrades Devices in XPS, Latitude, OptiPlex Lines</a></li>
+                             <li><a href="http://www.dailytech.com/Chevrolet+Volt+Sales+Down+3+Months+in+a+Row/article31684.htm">Chevrolet Volt Sales Down 3 Months in a Row</a></li>
+                     </ul>
+                 </div>
+             </article>
+                
+         <article class="facebook_like">
+             <div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+             <div class="holder">FACEBOOK
+                 <div class="fbholder"><div class="fb-like" data-href="http://www.facebook.com/AnandTech" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-colorscheme="dark"></div></div>
+                 <img alt="" src="/img/like_arrow.jpg">
+             </div>
+	     <div class="fb-activity" data-site="anandtech.com" data-width="286" data-height="525" data-header="false" data-colorscheme="dark" data-font="arial" data-recommendations="true"></div>
+         </article>
+         
+		<div style="clear:both;padding-bottom: 10px;">
 			<script type="text/javascript">
 			    OA_show(26);
             </script>
-			</div>
+    	</div>
 
-            <div class="tabs"><a class="select" href="http://twitter.com/anandshimpi" target="_blank">Twitter</a></div>
-            <div class="content twitter mb">           
-              <div>
-                <span><a href="http://twitter.com/PJCavan" target="_blank">@PJCavan</a> thank you for listening :)</span>
-              </div>
-              <div>
-                <span><a href="http://twitter.com/AgentKyle" target="_blank">@AgentKyle</a> check with other users who have systems similar to yours and their Vertex 4 experiences</span>
-              </div>
-              <div>
-                <span><a href="http://twitter.com/AgentKyle" target="_blank">@AgentKyle</a> I haven't seen any showstopper bugs in my testing, but it is still a fairly new platform</span>
-              </div>
-              <div>
-                <span><a href="http://twitter.com/AgentKyle" target="_blank">@AgentKyle</a> that is a really good price. The Vertex 4 is still a new drive, so the verdict isn't out yet on compatibility/reliability</span>
-              </div>
-              <div>
-                <span><a href="http://twitter.com/chrisheinonen" target="_blank">@chrisheinonen</a> <a href="http://twitter.com/nerdtalker" target="_blank">@nerdtalker</a> <a href="http://twitter.com/vivg91" target="_blank">@vivg91</a> it's a Windows 8 tablet</span>
-              </div>
-              <div>
-                <span><a href="http://twitter.com/nerdtalker" target="_blank">@nerdtalker</a> <a href="http://twitter.com/vivg91" target="_blank">@vivg91</a> but seriously, I want to see brian hit 200 nits on this thing, I had to resort to typing in the brightness percentage</span>
-              </div>
-              <div>
-                <span><a href="http://twitter.com/nerdtalker" target="_blank">@nerdtalker</a> <a href="http://twitter.com/vivg91" target="_blank">@vivg91</a> damn you and your logical/immense knowledge of optics, I want easy! :-P</span>
-              </div>
-              <div>
-                <span><a href="http://twitter.com/vivg91" target="_blank">@vivg91</a> dude the one I'm using now is insane, I don't think it's physically possible to set to the right setting</span>
-              </div>
-              <div>
-                <span>Non-linear brightness controls do no good</span>
-              </div>
-              <div>
-                <span><a href="http://twitter.com/derFunkenstein" target="_blank">@derFunkenstein</a> beard is fine, just needs to be properly prepared for camera work :-P</span>
-              </div>
-            </div>
-            <div style="clear: both;">&nbsp;</div>
+            <article class="twitter">
+                <h2>TWEETS <img src="/img/twiiter_bird.png" alt=""></h2>
+                <div class="twitter_box">
+                    <div class="twitter_cont">
+                        
+                            <ul>
+                                 <li><a href="https://twitter.com/anandshimpi"><span>anandshimpi</span></a>: <a href="https://twitter.com/anandshimpi/status/342599152045260801">RT @anandtech: ASUS Zenbook Infinity: Hands On with the Most Beautiful Notebook at Computex http://t.co/IhQzuFVxhp</a></li>
+                                 <li><a href="https://twitter.com/anandshimpi"><span>anandshimpi</span></a>: <a href="https://twitter.com/anandshimpi/status/342598937762480128">@vivg91 @KevinCTofel I have a feeling that they at least tried to fix it in 8.1 ;)</a></li>
+                                 <li><a href="https://twitter.com/anandshimpi"><span>anandshimpi</span></a>: <a href="https://twitter.com/anandshimpi/status/341941197255884800">@KevinCTofel realistically I bet it'll be another one or two revisions before it really gets there, but 8.1 should be a good step</a></li>
+                                 <li><a href="https://twitter.com/anandshimpi"><span>anandshimpi</span></a>: <a href="https://twitter.com/anandshimpi/status/341940944330977281">@KevinCTofel Windows 8/RT weren't finished when launched, nothing could've changed the situation imho given MS' hand at the time</a></li>
+                                 <li><a href="https://twitter.com/anandshimpi"><span>anandshimpi</span></a>: <a href="https://twitter.com/anandshimpi/status/341940613941432322">@KevinCTofel that's in line with what I've heard (screen size)</a></li>
+                                 <li><a href="https://twitter.com/IanCutress"><span>IanCutress</span></a>: <a href="https://twitter.com/IanCutress/status/342468363206918144">@jeffkibuule when I get a minute</a></li>
+                                 <li><a href="https://twitter.com/IanCutress"><span>IanCutress</span></a>: <a href="https://twitter.com/IanCutress/status/342468177034354689">@teamau Smile! http://t.co/Xw04OK0WPT</a></li>
+                                 <li><a href="https://twitter.com/IanCutress"><span>IanCutress</span></a>: <a href="https://twitter.com/IanCutress/status/342465947300413442">@jeffkibuule saw something similar at Silverstone</a></li>
+                                 <li><a href="https://twitter.com/IanCutress"><span>IanCutress</span></a>: <a href="https://twitter.com/IanCutress/status/342420944184291328">@jeffkibuule Meeting with them today, will try and remember (if they don't have a demo)!</a></li>
+                                 <li><a href="https://twitter.com/IanCutress"><span>IanCutress</span></a>: <a href="https://twitter.com/IanCutress/status/342288629231648769">.@kristianvatto Saw a motherboard today with 22 SATA ports (Z87 + integrated LSI), running RAID-0 hitting 5.5 GB/s read/write. #computex</a></li>
+                                 <li><a href="https://twitter.com/jarredwalton"><span>jarredwalton</span></a>: <a href="https://twitter.com/jarredwalton/status/341665983099965440">Alienware M17x R4 with 7970M Enduro - StarCraft II and Skyrim Rendering Errors: http://t.co/Av6HdkQ4bb via @YouTube</a></li>
+                                 <li><a href="https://twitter.com/jarredwalton"><span>jarredwalton</span></a>: <a href="https://twitter.com/jarredwalton/status/334135266254155776">An i3 is a faster CPU with a slower GPU. If you're going to buy a discrete GPU, it makes sense (@YouTube http://t.co/L2ZIzroBUs)</a></li>
+                                 <li><a href="https://twitter.com/jarredwalton"><span>jarredwalton</span></a>: <a href="https://twitter.com/jarredwalton/status/334126891894194176">If only HD 6670M could actually double performance... the reality is that Dual Graphics with (@YouTube http://t.co/L2ZIzroBUs)</a></li>
+                                 <li><a href="https://twitter.com/jarredwalton"><span>jarredwalton</span></a>: <a href="https://twitter.com/jarredwalton/status/330930577379295232">RT @vindimy: Dear @Dropbox, please help us break VISA MasterCard PayPal triopoly: accept #bitcoin as method of payment! #dropboxbitcoin</a></li>
+                                 <li><a href="https://twitter.com/jarredwalton"><span>jarredwalton</span></a>: <a href="https://twitter.com/jarredwalton/status/330165342397661186">HighPoint RocketStor USB 3.0 Disconnect Error: http://t.co/11VXPB7ryw via @YouTube</a></li>
+                                 <li><a href="https://twitter.com/nerdtalker"><span>nerdtalker</span></a>: <a href="https://twitter.com/nerdtalker/status/342583073227014145">RT @mrcfield: The EOS Lumia could have better imaging than any of NASAs cameras, but if it still doesn't do podcasts then it aint worth a d…</a></li>
+                                 <li><a href="https://twitter.com/nerdtalker"><span>nerdtalker</span></a>: <a href="https://twitter.com/nerdtalker/status/342561137704988672">@PaulOBrien what's with screenshot being a button there?</a></li>
+                                 <li><a href="https://twitter.com/nerdtalker"><span>nerdtalker</span></a>: <a href="https://twitter.com/nerdtalker/status/342560586200129536">@PaulOBrien if they made those icons bigger it'd look a lot less empty and jarring</a></li>
+                                 <li><a href="https://twitter.com/nerdtalker"><span>nerdtalker</span></a>: <a href="https://twitter.com/nerdtalker/status/342560344583049216">@PaulOBrien it definitely has some weird spacing, on the other hand, nothing compared to the gazillion TouchWiz buttons for the same UI</a></li>
+                                 <li><a href="https://twitter.com/nerdtalker"><span>nerdtalker</span></a>: <a href="https://twitter.com/nerdtalker/status/342557160422666240">@PaulOBrien ha, nice!</a></li>
+                                 <li><a href="https://twitter.com/ganeshts"><span>ganeshts</span></a>: <a href="https://twitter.com/ganeshts/status/341707156141264897">@jeffkibuule @vivg91 Beauty of HTPC is FOSS support. Don't need a locked down system where I'm forced to wait on MS updates to play my media</a></li>
+                                 <li><a href="https://twitter.com/ganeshts"><span>ganeshts</span></a>: <a href="https://twitter.com/ganeshts/status/341706362784477187">@Qwijib0 @elfurberino @nerdtalker 2160p24 is officially supported, but looks bad. TV is fine for clips @ 25p/30p. For $1300, can't complain</a></li>
+                                 <li><a href="https://twitter.com/ganeshts"><span>ganeshts</span></a>: <a href="https://twitter.com/ganeshts/status/337285579555356674">@babgvant You may be right :) Fudzilla wasn't probably entirely accurate here: http://t.co/x3ZvL1c5jW</a></li>
+                                 <li><a href="https://twitter.com/ganeshts"><span>ganeshts</span></a>: <a href="https://twitter.com/ganeshts/status/337275772576337921">Waiting for Haswell to hit the shelves  :) i7-4765T looks sweet for #HTPC (35W TDP with enough CPU grunt too!)</a></li>
+                                 <li><a href="https://twitter.com/ganeshts"><span>ganeshts</span></a>: <a href="https://twitter.com/ganeshts/status/331887657246420992">@bdelbanco I will ping my Synology contact and let you know if they respond / Might take a week or two :)</a></li>
+                            </ul>
+                        
+                        
+                    </div>
+                
+                    <a class="twitter_follow_btn pie" href="http://twitter.com/anandshimpi">Follow <span>@</span>ANANDTECH</a>
+                </div>
+                <strong><img src="/img/twitter_down_arrow.png" alt=""></strong>
+            </article>
 
+        <div style="clear: both;">&nbsp;</div>
+
+            <script type="text/javascript">
+                OA_show(5);
+            </script><noscript><a target='_blank' href='http://dynamic1.anandtech.com/www/delivery/ck.php?n=aeca64a'><img border='0' alt='' src='http://dynamic1.anandtech.com/www/delivery/avw.php?zoneid=5&amp;n=aeca64a' /></a></noscript>
+	    <script type="text/javascript">
+	        OA_show(27);
+        </script>
+        
+    </aside>
+        <div class="clear"></div>
+
+        <div class="header_ad">
                 <script type="text/javascript">
-                    OA_show(5);
-                </script><noscript><a target='_blank' href='http://dynamic1.anandtech.com/www/delivery/ck.php?n=aeca64a'><img border='0' alt='' src='http://dynamic1.anandtech.com/www/delivery/avw.php?zoneid=5&amp;n=aeca64a' /></a></noscript>
-			<script type="text/javascript">
-			    OA_show(27);
-            </script>
-            
-          </div>
-          
+                    OA_show(2);
+                </script>
+                <noscript><a target='_blank' href='http://dynamic1.anandtech.com/www/delivery/ck.php?n=f9b3221'>
+                    <img border='0' alt='' src='http://dynamic1.anandtech.com/www/delivery/avw.php?zoneid=2&amp;n=f9b3221' /></a></noscript>
+                    </div>
+
+    </section>
+    <!--end content-->
+
+    <footer class="footer">
+        <!--start footer-->
+
+        <div class="links">
+            <h2>LINKS</h2>
+            <div class="clear"></div>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/home/about">About</a></li>
+                <li><a href="http://forums.anandtech.com">Forums</a></li>
+                <li><a href="/rss/">RSS</a></li>
+                <li><a href="/pipeline/">Pipeline News</a></li>
+                <li><a href="/bench/">Bench</a></li>
+                <li><a href="/gallery/">Galleries</a></li>
+                <li><a href="http://www.dailytech.com">DailyTech</a></li>
+            </ul>
         </div>
 
-  </div>            
+        <div class="links">
+            <h2>TOPICS</h2>
+            <div class="clear"></div>
+            <ul>
+                <li><a href="/tag/cpus">CPUs</a></li>
+                <li><a href="/tag/mb">Motherboards</a></li>
+                <li><a href="/tag/storage">SSD/HDD</a></li>
+                <li><a href="/tag/gpus">GPUs</a></li>
+                <li><a href="/tag/mobile">Mobile</a></li>
+                <li><a href="/tag/IT">IT/Datacenter</a></li>
+                <li><a href="/tag/smartphones">Smartphones </a></li>
+                <li><a href="/tag/memory">Memory</a></li>
+                <li><a href="/tag/casecoolingpsus">Cases/Cooling/PSU(s) </a></li>
+            </ul>
+        </div>
 
+        <div class="links link2">
+            <ul>
+                <li><a href="/tag/displays">Displays </a></li>
+                <li><a href="/tag/mac">Mac </a></li>
+                <li><a href="/tag/systems">Systems </a></li>
+                <li><a href="/tag/cloud-computing">Cloud </a></li>
+                <li><a href="/tag/tradeshows">Trade Shows </a></li>
+                <li><a href="/tag/guides">Guides</a></li>
+            </ul>
+        </div>
 
-      <!-- END OF RIGHT COLUMN and BODY CONTAINER - START FOOTER -->
-      
-      <div class="footer">
- 
+        <div class="links">
+            <h2>FOLLOW</h2>
+            <div class="clear"></div>
+            <ul class="follow">
+                <li><a href="http://www.facebook.com/AnandTech/">
+                    <img src="/img/icon-facebook2.png" alt=""><span>Facebook</span></a></li>
+                <li><a href="http://twitter.com/AnandTech">
+                    <img src="/img/icon-twitter2.png" alt=""><span>Twitter</span></a></li>
+                <li><a href="/rss/">
+                    <img src="/img/icon-rss2.png" alt=""><span>RSS</span></a></li>
+            </ul>
+        </div>
+        <div class="clear"></div>
 
-    <script type="text/javascript">
-        OA_show(2);
-    </script><noscript><a target='_blank' href='http://dynamic1.anandtech.com/www/delivery/ck.php?n=f9b3221'><img border='0' alt='' src='http://dynamic1.anandtech.com/www/delivery/avw.php?zoneid=2&amp;n=f9b3221' /></a></noscript>
-        <br><br>
-        Copyright © 1997-2012 AnandTech, Inc. All rights reserved. <a href="/Home/Terms">Terms, Conditions and Privacy Information.</a><br>
-		<a href="/Home/Advertising">Click Here</a> for Advertising Information		
-      </div>
-      
+        <div class="footer_left">The Most Trusted in Tech Since 1997</div>
+        <div class="footer_right">
+            <ul>
+                <li><a href="/Home/About">About</a></li>
+                <li><a href="/Home/Advertising">Advertising</a></li>
+
+                <li class="nomrgn"><a href="/Home/Terms">Terms, Privacy</a></li>
+
+            </ul>
+            <span>© 2013 Anandtech, Inc. All rights reserved.</span>
+        </div>
+        <div class="clear"></div>
+    </footer>
+    <!--end footer-->
+
+    <div class="login_popup">
+        <div id="inlineLogin">
+            <h2>Log in</h2>
+            <h3><span id="ilMessage">Don't have an account? <a href="/Account/Register?r=%2fHome%2fTerms">Sign up now</a></span></h3>
+            <div class="login_left">
+                <form action="#">
+                    <div class="login_form">
+                        <label>Username</label>
+                        <input id="UserName" name="UserName" type="text" class="login_field">
+
+                        <label>Password</label>
+                        <input id="Password" name="Password" type="password" class="login_field">
+
+                        <label class="fl-lt" style="margin-right: 10px;" for="RememberMe">Remember Me</label>
+                        <input class="fl-lt" id="RememberMe" name="RememberMe" type="checkbox" value="true"><input name="RememberMe" type="hidden" value="false">
+                        <input onclick="DoLogin(); return false;" name="" type="submit" class="login_btn" id="inlineLoginButton" value="LOG IN"><img alt="" src="/Content/images/ajax-loader.gif" id="ilAjaxLoader">
+                        <div class="clear"></div>
+                    </div>
+                </form>
+                <div id="ilLost">
+                    <a href="/Account/ResetPassword?r=%2fHome%2fTerms">Lost your password?</a>
+                </div>
+            </div>
+
+            <div class="clear"></div>
+        </div>
     </div>
-  </div>
-</div>
 
-<!-- Quantcast Tag -->
-<script type="text/javascript">
-    var _qevents = _qevents || [];
 
-    (function () {
-        var elem = document.createElement('script');
-        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-        elem.async = true;
-        elem.type = "text/javascript";
-        var scpt = document.getElementsByTagName('script')[0];
-        scpt.parentNode.insertBefore(elem, scpt);
-    })();
-
-    _qevents.push({
-        qacct: "p-bduwCJZfRi0AI"
-    });
-</script>
-
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-bduwCJZfRi0AI.gif" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
-</noscript>
-<!-- End Quantcast tag -->
+    <!-- Quantcast Tag -->
     <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-1721979-1']);
-        _gaq.push(['_trackPageview']);
+        var _qevents = _qevents || [];
 
         (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            var elem = document.createElement('script');
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem, scpt);
         })();
+
+        _qevents.push({
+            qacct: "p-bduwCJZfRi0AI"
+        });
     </script>
+
+    <noscript>
+        <div style="display: none;">
+            <img src="//pixel.quantserve.com/pixel/p-bduwCJZfRi0AI.gif" border="0" height="1" width="1" alt="Quantcast" />
+        </div>
+    </noscript>
+    <!-- End Quantcast tag -->
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-1721979-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
     <script type="text/javascript">
         OA_show(23);
     </script>
-
-
-
+        
 
 
 </body></html>
