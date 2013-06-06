@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycleanpc.com privacy policy that was archived on 2012-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120705050016id_/http%3A//www.mycleanpc.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycleanpc.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606121226id_/http%3A//www.mycleanpc.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# MyCleanPC – Make Your PC Faster, Safer and Cleaner by using MyCleanPC
+# Personal Identifying Information (PII) - Privacy Policy | MyCleanPC.com
 
 USTechSupport Corporation ("USTechSupport") has adopted this Privacy Policy (the "Policy") to address customers' concerns about privacy and personal information. It applies both to personal identifying information and to other information. Personal identifying information ("PII") is information that is recorded in any form, is about you or pertains to you, and can be connected to you. It includes your name, telephone number, email address, billing address, driver's license number, credit card account information, and social security number. USTechSupport maintains the confidentiality of your PII and only USTechSupport and certain persons and entities working for and with USTechSupport to conduct business with you have access to it. Other information, which is described in more detail below, is information that cannot reasonably be used to identify you, and may be provided by USTechSupport to others for limited purposes.
 
@@ -46,7 +46,7 @@ This information is sent only to USTechSupport with your approval, and it is sto
   
 We do not sell or otherwise provide any of this information to third parties and use it only to improve our products and offer better service to our customers.
 
-For a complete list of the information we may collect, click [here](https://web.archive.org/web/20120705050016id_/http%3A//www.mycleanpc.com/client-info-list.html).
+For a complete list of the information we may collect, click [here](http://www.mycleanpc.com/client/client-info-list,default,pg.html).
 
 In order to personalize our communications with you and to improve our products and services, we also may ask you to provide consumer satisfaction information and other information regarding your personal and professional interests, your experience with our products and services, and additional contact information. You have the option of choosing not to provide the information.
 
@@ -90,7 +90,8 @@ All information gathered on our Websites is stored and maintained in secure faci
 USTechSupport retains your PII for as long as you are a registered subscriber or user of our products and services, and for a reasonable time thereafter.
 
 **Confidentiality**  
-USTechSupport maintains the confidentiality of your PII and other information and will not disclose it to third parties except as set forth in this Policy. However, confidentiality does not apply to information: (1) that is publicly available; (2) as to which you consent to disclosure; (3) when disclosure is in connection with the sale of all or part of our business; or (4) when disclosure is necessary for USTechSupport or its officers, directors, employees, agents and contractors to enforce their legal rights pursuant to applicable law.
+USTechSupport maintains the confidentiality of your PII and other information and will not disclose it to third parties except as set forth in this Policy. However, confidentiality does not apply to information: (1) that is publicly available; (2) as to which you consent to disclosure; (3) when disclosure is in connection with the sale of all or part of our business; or (4) when disclosure is necessary for USTechSupport or its officers, directors, employees, agents and contractors to enforce their legal rights pursuant to   
+applicable law.
 
 **_In addition, USTechSupport reserves the right, in its sole and absolute discretion, at any time, and without notice, to you to disclose to third parties, including law enforcement authorities, any of your information, including PII, that USTechSupport deems appropriate to: (a) comply with any applicable law or regulation, legal process, or governmental request; or (b) prevent possible harm or injury to any person or damage to any property._**
 
