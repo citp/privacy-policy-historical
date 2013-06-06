@@ -1,17 +1,25 @@
-> *The following text is extracted and transformed from the districtravel.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503203438id_/http%3A//www.districtravel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the districtravel.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606145342id_/http%3A//www.districtravel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy « Travel, Travel Articles, Travel Tips, Travel Topics, Travel Advice, Leisure Topics, Leisure Articles, Travel & Leisure and Cheap Travel Tips.
 
-We make content or services from our other web sites available to you from links located on us. We also offer through links a collection of services provided by third parties. In order to use third parties' services you will be directed to pages on their web sites, which may be co-branded with the us logo. Please remember that when you visit these other web sites, even the affiliated and co-branded sites, the sites' own privacy policies apply.
+�
 
-**Information We Collect**   
-Web Site Usage Information: We automatically collect IP addresses and Web Site usage information from you when you visit our Web Site. This information helps us evaluate how our visitors use and navigate our Web Site on an aggregate basis, including the number and frequency of visitors to each Web page, and the length of their visits. 
+**1\. Collection of Data**
 
-General: When you use some of the site's special features we will collect personally identifiable information from you that may include your name, phone number, address, e-mail address and similar information. We do not, however, knowingly collect personal information from children under the age of thirteen. 
+Personal information is collected only by third-party transaction entities necessary for any charges that may occur. We do not collect any personal identifiable information on this web site intentionally or unintentionally. As on many web sites, the web server may automatically receive general information that is contained in server log files, such as your IP address, and cookie information.
 
-Surveys: We may conduct occasional online surveys. For example, when you are within our Web Site, you may see a pop-up window offering you the optional opportunity of participating in a survey. These surveys are entirely voluntary and you may easily decline to participate.
+**2\. Use of Data**
 
-**How We Use Information Collected**   
-We may use information in the following ways: 
+General data may be used to customize and improve your user experience on this site. Efforts will be made to prevent your data being made available to third parties unless (i) provided for otherwise in this Privacy Policy; (ii) your consent is obtained, such as when you choose to opt-in or opt-out for the sharing of data; (iii) a service provided on our site requires interaction with a third party, or is provided by a third party, such as an application service provider; (iv) pursuant to legal action or law enforcement; (v) it is found that your use of this site violates the site policy, terms of service, or other usage guidelines, or if it is deemed reasonably necessary by the site to protect the site’s legal rights and/or property; or (vi) this site is purchased by a third party, in which case that third party will be able to use the data in the same manner as set forth in this policy. In the event you choose to use links displayed on this web site to visit other web sites, you are advised to read the privacy policies published on those sites.
 
-For the purposes for which you specifically provided the information, for example, to process and fulfill your subscriptions to our e-mail newsletters, review and post your contributions to discussion groups and to process and forward to franchisers your franchiser information requests.
+**3\. Cookies**
+
+Like many web sites, this web site may set and uses cookies to enhance your user experience and for proper merchant tracking. Advertisements may display on this web site and, if so, may set and access cookies on your computer; such cookies are subject to the privacy policy of the parties providing the advertisement. However, the parties providing the advertising do not have access to this site’s cookies. These parties usually use non-personally-identifiable or anonymous codes to obtain information about your visits to this site. You can visit the Network Advertising Initiative if you want to find out more information about this practice and to learn about your options.
+
+**4\. Minors**
+
+You must be a legal adult, or acting legal entity in your jurisdiction to download and/or use any of the products offered on this site.
+
+**6\. Changes to this Privacy Policy**
+
+Changes may be made to this policy from time to time. You will be notified of substantial changes to this policy by the posting of a prominent announcement on the site.
