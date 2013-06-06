@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7forallmankind.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215073545id_/http%3A//www.7forallmankind.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7forallmankind.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606025105id_/http%3A//www.7forallmankind.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy - 7 For All Mankind
 
@@ -51,7 +51,7 @@ You will have an opportunity to change these selections by clicking on an "unsub
 or write to us at:
 
 7 For All Mankind, Online Customer Service  
-2346 E. Pacifica Place, Rancho Dominguez, CA 90220.
+3040 E Ana St., Rancho Dominguez, CA 90221.
 
 Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective. Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order. 
 
