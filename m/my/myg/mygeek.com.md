@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygeek.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215174959id_/http%3A//www.mygeek.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygeek.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607002214id_/http%3A//www.mygeek.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
