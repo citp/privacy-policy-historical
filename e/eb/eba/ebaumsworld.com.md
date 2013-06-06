@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebaumsworld.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119040351id_/http%3A//www.ebaumsworld.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebaumsworld.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606135212id_/http%3A//www.ebaumsworld.com/pages/privacy) for the most accurate reproduction.*
 
 # Funny Videos, Funny Pictures, Flash Games, Jokes
 
@@ -89,14 +89,14 @@ At any time you may access your account on the Service and edit, or amend your p
 
 Viumbe may at all times review, retain and disclose any information as Viumbe deems necessary to satisfy any applicable law, regulation, legal process or governmental request. However, by doing so Viumbe does not either expressly or impliedly endorse, affirm or in any manner assume any responsibility for such communications. 
 
-## Cookies 
+## Cookies
 
 Viumbe may use cookies on the Service. Cookies are packets of information sent by the Service's servers to your web browser and then sent back by the browser each time it accesses the Service's servers. The cookies may contain a variety of information, such as the content of search queries, the Service's pages you have accessed, session durations and IP addresses.   
 The Service may use cookies for various purposes, such as to save you the need to re-enter your user name and password each time you log-in on the Service, to facilitate the use of services on the Service, to collect statistical information with respect to the use of the Service, to verify information, to customize Service to your personal preferences and for information security purposes. Some of the cookies may expire when the session ends and you exit your browser. Other cookies are saved on your computer’s hard drive. If you wish to block the Service's cookies, then please use the help button in your browser and follow the necessary instructions. However, bear in mind that disabling cookies may complicate or even prevent your use of the Service, or certain features thereof. 
 
-## Advertising campaigns
+## Advertising Campaigns
 
-Viumbe permits third party advertising companies to place advertisements on the Website and manage their display. The advertisements originate from these advertising computer systems. In order to manage the advertisements, these companies post cookies on your computer and embed web beacons in the advertisements or in the Website's pages. Web beacons are tiny graphics with unique identifiers, embedded in web pages and used to assist in collecting information about the sites usage. The collected information does not identify you, and is only intended to match the displayed advertisements to your personal interests. The use of cookies and web beacons by advertising companies is subject to their own privacy policies and not to this Privacy Policy. Such companies have no access to Viumbe's Websites' cookies and Viumbe has no access to their cookies. Should you wish to check the privacy policies of the companies that are managing the advertising scheme on the Website, you may do so via their own websites. To receive further information about the advertising companies that Viumbe works with, please contact us at: [contact@viumbe.com](mailto:contact@viumbe.com). 
+Viumbe permits third party advertising companies to place advertisements on Viumbe Websites and manage their display. The advertisements originate from these advertising computer systems. In order to manage the advertisements, these companies post cookies on your computer and embed web beacons in the advertisements or in Viumbe Websites' pages. Web beacons are tiny graphics with unique identifiers, embedded in web pages and used to assist in collecting information about the sites usage. The collected information does not identify you, and is only intended to match the displayed advertisements to your personal interests. The use of cookies and web beacons by advertising companies is subject to their own privacy policies and not to this Privacy Policy. Such companies have no access to Viumbe's Websites' cookies and Viumbe has no access to their cookies. Should you wish to check the privacy policies of the companies that are managing the advertising scheme on Viumbe Websites, you may do so via their own websites. To opt out of Google's "interest-based ads" and to learn more about Google's collection of your personal information to serve ads in connection with Viumbe Websites, click [here](http://www.google.com/settings/ads/onweb/). To receive further information about the advertising companies that Viumbe works with, please contact us at: [contact@viumbe.com](mailto:contact@viumbe.com). 
 
 ## Information Security
 
@@ -112,7 +112,7 @@ You agree to be bound by any of the changes made in the terms of this policy. Co
 
 You may send Viumbe requests, responses, questions and complaints, by contacting Viumbe at [contact@viumbe.com](mailto:contact@viumbe.com), or by post mail to:  
 Viumbe, LLC  
-1550 Bryant St., Suite 535  
+1550 Bryant St., Suite 470  
 San Francisco, CA 94103.
 
-Last updated: March 31, 2011. 
+Last updated: May 2, 2013. 
