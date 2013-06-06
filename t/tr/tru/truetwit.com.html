@@ -1,0 +1,295 @@
+<!--The following is the downloaded HTML source of the truetwit.com privacy policy that was archived on 2013-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606191909id_/http%3A//www.truetwit.com/truetwit/home/privacy.form) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+
+    <title>TrueTwit Validation</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=8">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="0">
+
+    <link rel="stylesheet" type="text/css" href="/truetwit/css/styleg.css">
+    <link rel="stylesheet" type="text/css" href="/truetwit/css/jquery-ui.css">
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/truetwit/js/jquery.min.js" type="text/javascript"></script>
+    <script src="/truetwit/js/browserdetect.js" type="text/javascript"></script>
+
+    <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+    <script type="text/javascript">
+        GS_googleAddAdSenseService("ca-pub-3965745260937978");
+        GS_googleEnableAllServices();
+    </script>
+    <script type="text/javascript">
+        GA_googleAddSlot("ca-pub-3965745260937978", "TrueTwit_ATF_Right_160x600");
+        GA_googleAddSlot("ca-pub-3965745260937978", "TrueTwit_ATF_Right_300x250");
+        GA_googleAddSlot("ca-pub-3965745260937978", "TrueTwit_ATF_ValidateOnly_468x60");
+    </script>
+    <script type="text/javascript">
+        GA_googleFetchAds();
+    </script>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-9657291-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+
+    <script src="/truetwit/js/jquery.validate.js" type="text/javascript"></script>
+
+    
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="layout" content="layout">
+  
+
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            if(isMobileBrowser()) {
+                $.ajax(
+                    {
+                        url: '/truetwit/ajax/dailydeals.form',
+                        dataType: 'json',
+                        type: 'GET',
+                        data: {},
+                        success: function(results){
+                            if(results.length > 0) {
+                                var tbl = '<p class="deal">Deals from Amazon!</p><table>';
+                                $(results).each(function(){
+                                    var dealType = "Gold Box Deal";
+                                    if(/light/i.test(this.type)) {
+                                        dealType = "Lightning Deal"
+                                    }
+                                    // for each deal draw the table
+                                    tbl = tbl + '<tr class="dealrow"><td>' +
+                                            '<img src="' +
+                                            this.image +
+                                            '"/></td><td class="dealdesc">'+
+                                            '<span class="dealtitle">' + dealType + '</span><br/>' +
+                                            '<a href="' +
+                                            this.link +
+                                            '">' +
+                                            this.title +
+                                            '</a><br/><br/><span class="dealprice">' +
+                                            this.priceString +
+                                            '</span></td></tr>';
+                                });
+                                tbl = tbl + "</table><p style='font: .50em Verdana, sans-serif;'>Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates.</p>";
+                                $(".amazonad").html(tbl);
+                            } else {
+                                $(".amazonad").html(
+                                    '<iframe src="http://rcm.amazon.com/e/cm?t=truetwcom-20&o=1&p=8&l=as1&asins=B002FK3U3C&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>' +
+                                    '<iframe src="http://rcm.amazon.com/e/cm?t=truetwcom-20&o=1&p=8&l=as1&asins=1118269748&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>'
+                                 );
+                            }
+                        },
+                        error: function(req, errortype, ex){
+                            $(".amazonad").html(
+                                '<iframe src="http://rcm.amazon.com/e/cm?t=truetwcom-20&o=1&p=8&l=as1&asins=B002FK3U3C&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>' +
+                                '<iframe src="http://rcm.amazon.com/e/cm?t=truetwcom-20&o=1&p=8&l=as1&asins=1118269748&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>'
+                             );
+                        },
+                        complete: function(req, code){
+                        }
+                });
+            } else {
+                var amazonWidget = '<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" id="Player_a8abf79c-18be-465e-82d3-8ce07ef92891"  WIDTH="300px" HEIGHT="250px"> <PARAM NAME="movie" VALUE="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Ftruetwcom-20%2F8009%2Fa8abf79c-18be-465e-82d3-8ce07ef92891&Operation=GetDisplayTemplate"><PARAM NAME="quality" VALUE="high"><PARAM NAME="bgcolor" VALUE="#FFFFFF"><PARAM NAME="allowscriptaccess" VALUE="always"><embed src="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Ftruetwcom-20%2F8009%2Fa8abf79c-18be-465e-82d3-8ce07ef92891&Operation=GetDisplayTemplate" id="Player_a8abf79c-18be-465e-82d3-8ce07ef92891" quality="high" bgcolor="#ffffff" name="Player_a8abf79c-18be-465e-82d3-8ce07ef92891" allowscriptaccess="always"  type="application/x-shockwave-flash" align="middle" height="250px" width="300px"></embed></OBJECT> <NOSCRIPT><A HREF="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Ftruetwcom-20%2F8009%2Fa8abf79c-18be-465e-82d3-8ce07ef92891&Operation=NoScript">Amazon.com Widgets</A></NOSCRIPT>';
+                $(".amazonad").html(amazonWidget);
+            }
+        });
+    </script>
+
+</head>
+<body>
+
+<div class="bodybg">
+    <div class="wrapper">
+        <div class="plate">
+
+            <div class="main">
+
+                <div class="headb">
+                    <div class="logo_and_tag"><h1>TrueTwit.com - Validation Service for Twitter</h1></div>
+                </div>
+                <div class="clear">
+                    <div id="topnav">
+                        <ul>
+
+                            
+                            
+                            
+                                <li><a href="/truetwit/home.form">Home</a>  </li>
+                                <li><a href="/truetwit/overview/list.form">Login</a>  </li>
+                                <li><a href="http://www.truetwit.com/blog/faq">FAQ</a>  </li>
+                                <li><a href="http://www.truetwit.com/blog">Blog</a>  </li>
+                                <li><a href="/truetwit/home/privacy.form">Privacy Policy</a>  </li>
+                                <li><a href="http://www.truetwit.com/blog/about">About</a>  </li>
+                            
+                            
+                        </ul>
+
+                    </div>
+                    <div class="clear">
+                        <div class="rightColumn">
+                            <div class="tad">
+
+                                <!-- TrueTwit_ATF_Right_300x250 -->
+                                <script type="text/javascript">
+                                    GA_googleFillSlot("TrueTwit_ATF_Right_300x250");
+                                </script>
+
+                            </div>
+                            <div class="amazonad"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" id="Player_a8abf79c-18be-465e-82d3-8ce07ef92891" width="300px" height="250px"> <param name="movie" value="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Ftruetwcom-20%2F8009%2Fa8abf79c-18be-465e-82d3-8ce07ef92891&amp;Operation=GetDisplayTemplate"><param name="quality" value="high"><param name="bgcolor" value="#FFFFFF"><param name="allowscriptaccess" value="always"><embed src="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Ftruetwcom-20%2F8009%2Fa8abf79c-18be-465e-82d3-8ce07ef92891&amp;Operation=GetDisplayTemplate" id="Player_a8abf79c-18be-465e-82d3-8ce07ef92891" quality="high" bgcolor="#ffffff" name="Player_a8abf79c-18be-465e-82d3-8ce07ef92891" allowscriptaccess="always" type="application/x-shockwave-flash" align="middle" height="250px" width="300px"></object> <noscript><A HREF="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Ftruetwcom-20%2F8009%2Fa8abf79c-18be-465e-82d3-8ce07ef92891&Operation=NoScript">Amazon.com Widgets</A></noscript></div>
+                            <div class="badswrap">
+                                <div class="bad">
+
+                                    <!-- TrueTwit_ATF_Right_160x600 -->
+                                    <script type="text/javascript">
+                                        GA_googleFillSlot("TrueTwit_ATF_Right_160x600");
+                                    </script>
+
+
+                                </div>
+                                <div class="badwrap">
+                                    <div class="badwraph"></div>
+                                    
+
+
+<div class="badwrapb">
+    <h3>Members</h3>
+    <p>
+        150,265
+    </p>
+    <h3>Total Users Ranked</h3><p>
+    36,674,800
+</p>
+    <h3>Total Followers</h3>
+    <p>
+        15,957,963
+    </p>
+    <h3>Verified Followers</h3><p>
+    9,167,818
+</p>
+</div>
+
+                                    <div class="badwrapf"></div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="center">
+
+                            <div class="welcome">
+
+                                <h3>Stop wasting time with <strong>spammers</strong> on twitter.<br>
+                                    We will <a href="#">validate your followers</a> so you don't have to.</h3>
+
+                                
+                                    <div class="signupw"><p id="signup-btn"><a href="/truetwit/signUp/index.form?version=premium" tabindex="10"><span>Sign Up Now!</span></a></p>   </div>
+                                
+
+                            </div>
+                            <div class="content">
+                                <div class="contenth"></div>
+                                <div class="contentb">
+                                  
+
+                                    
+<div class="nav">
+</div>
+<div class="policy">
+
+
+    TrueTwit provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this website, located at www.truetwit.com ("Site" ).  This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.
+    <br><br>
+    By using our Site you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the U.S. your personally identifiable information will be transferred to the U.S., and processed and stored there under U.S. privacy standards. By visiting our Site and providing information to us, you consent to such transfer to, and processing in, the US.
+    <br><br>
+    If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at privacy at truetwit dot com.
+    <br><br>
+    <strong>Information Collection and Use</strong> <br>
+    Our primary goals in collecting personally identifiable information are to provide you with the services made available through the Site, including, but not limited, to the Service, to communicate with you, and to manage your registered user account.
+    <br><br>
+    <strong>Information Collected Upon Registration</strong> <br>
+    If you desire to have access to TrueTwit services you will be required to become a registered user and to submit your Twitter account information to TrueTwit.  We may collect other personal or contact information from time to time at your discretion to use other services offered by TrueTwit.
+    <br><br>
+    <strong>Use of Contact Information </strong><br>
+    In addition, we may use your contact information to market to you, and provide you with information about, our products and services, including but not limited to our Service. If you decide at any time that you no longer wish to receive such information or communications from us, please follow the unsubscribe instructions provided in any of the communications.
+    <br><br>
+    <strong>Log Data </strong><br>
+    When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website ("Log Data" ). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Site and of our Service, and for the Site's technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service
+    <br><br>
+    <strong>Cookies</strong><br>
+    Like many websites, we also may use "cookie" technology to collect additional website usage data and to improve our service. A cookie is a small data file that we transfer to your computer's hard disk. We do not use cookies to collect personally identifiable information. TrueTwit may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our services. A session cookie enables certain features of the Site and our service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
+    <br><br>
+    <strong>Information Sharing and Disclosure </strong><br>
+    Service Providers We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data.
+    <br><br>
+    <strong>Compliance with Laws and Law Enforcement</strong><br>
+    TrueTwit cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of Twitter or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
+    <br><br>
+    <strong>Business Transfers</strong><br>
+    TrueTwit may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity's planned processing of your information differs materially from that set forth in this Privacy Policy.
+    <br><br>
+    <strong>Changing or Deleting Information</strong><br>
+    If you are a registered user of the Site, you may access and update or correct the information you provided to us by e-mailing us at privacy at truetwit dot com.
+    <br><br>
+    <strong>Security </strong><br>
+    TrueTwit is very concerned about safeguarding the confidentiality of your personally identifiable information including your Twitter account information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access.
+    <br><br>
+    We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+    <br><br>
+    <strong>Links to Other Websites</strong><br>
+    Our Site contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+    <br><br>
+    <strong>Our Policy Towards Children</strong> <br>
+    The Site is not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
+
+
+
+</div>  <br>
+
+
+
+                                </div>
+                                <div class="contentf"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="clear"></div>
+
+                <div class="credits">
+                    Service provided to you by the humans at <a href="http://www.brainymarketing.net" target="_new">Brainy Marketing</a> and <a href="http://www.kettleriverconsulting.com" target="_new">Kettle River Consulting</a> Design by <a href="http://www.reactron.com" target="_new">Reactron</a>
+                    <br>
+                    Questions? Comments? Suggestions? Let us know at <a href=" mailto:info@truetwit.com">info@truetwit.com</a>
+                    <br><br>© 2013 TrueTwit, LLC<br><br>
+                    <a href="http://www.puroingles.com/">Curso de inglés</a>
+                    <br><br>
+                    Version : <b>1.0.096<br></b>
+
+                    Build Date: Mon May 20 16:26:09 CDT 2013<br>
+                </div>
+            </div>
+            <div class="clear"></div>
+
+        </div>
+
+
+        <div class="page_bottomer"></div>
+    </div>
+</div>
+
+
+</body></html>
