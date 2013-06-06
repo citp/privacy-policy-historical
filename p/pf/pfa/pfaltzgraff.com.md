@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfaltzgraff.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021213054id_/http%3A//www.pfaltzgraff.com/dinnerware-cookware/PRIVACY_SECURITY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfaltzgraff.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606085903id_/http%3A//www.pfaltzgraff.com/dinnerware-cookware/PRIVACY_SECURITY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Pfaltzgraff Privacy Policy | Serveware, Kitchen Organizers
 
@@ -36,7 +36,7 @@ Just so you'll know, a cookie is a very small text file placed on your hard driv
 
 ## How can you contact us with your questions or comments?
 
-[You can choose from several methods available to get in touch with us.](https://www.pfaltzgraff.com/dinnerware-cookware/CONTACT_US,default,pg.html) We're always happy to answer your questions or listen to your comments.
+[You can choose from several methods available to get in touch with us.](http://www.pfaltzgraff.com/dinnerware-cookware/CONTACT_US,default,pg.html) We're always happy to answer your questions or listen to your comments.
 
 ## Assuring your Security
 
