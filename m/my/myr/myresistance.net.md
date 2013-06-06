@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the myresistance.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230103653id_/http%3A//us.playstation.com/support/privacypolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myresistance.net privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606075035id_/http%3A//us.playstation.com/support/privacypolicy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Support - PlayStation.com
 
   * [Home](https://web.archive.org/index.htm)
-  * [Knowledge Center](https://web.archive.org/web/20121230103653id_/http%3A//us.playstation.com/support/index.htm)
+  * [Knowledge Center](https://web.archive.org/support/index.htm)
   * Privacy Policy
 
 
@@ -168,7 +168,7 @@ Attn.: Privacy Online Program
 New York, NY 10017  
 [privacy@esrb.org](mailto:privacy@esrb.org)
 
-[Back to Top](https://web.archive.org/web/20121230103653id_/http%3A//us.playstation.com/support/privacypolicy/index.htm#pageTop)
+Back to Top
 
   
 
