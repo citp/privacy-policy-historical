@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the interopnews.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109112312id_/http%3A//www.interopnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interopnews.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606120903id_/http%3A//interopnews.com/page/privacy.html) for the most accurate reproduction.*
 
-# Interopnews Directory - Privacy Policy
-
-**Privacy**
+# Privacy Policy
 
 This business collects and maintains certain information (including business names,e-mail addresses, IP addresses, contact's names, phone numbers, geographic location information, etc.) on its Web site and its directory database for the purpose of publishing this suppliers news and directory resource. This is done to help us provide our users with the best resource and with valuable information regarding relevant products and services from appropriate third parties.
 
