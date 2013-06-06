@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takecarehealth.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223030530id_/http%3A//www.takecarehealth.com/Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takecarehealth.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606114123id_/http%3A//takecarehealth.com/Privacy_Statement.aspx) for the most accurate reproduction.*
 
 # 
 
