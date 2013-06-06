@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experiencelife.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106182754id_/http%3A//experiencelife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experiencelife.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606031814id_/http%3A//experiencelife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Experience Life
 
@@ -15,7 +15,7 @@ Life Time Fitness Corporate Headquarters
 Chanhassen, MN 55317
 
 _Experience Life_ Magazine  
-2145 Ford Parkway, Suite 105  
+2145 Ford Parkway, Suite 302  
 St. Paul, MN 55116
 
 This privacy policy covers [www.experiencelife.com](http://www.experiencelife.com/), [www.experiencelifemag.com](http://www.experiencelife.com/), [elmag.com](http://elmag.com/), [revolutionaryact.com](http://www.revolutionaryact.com/ "Revolutionary Act") and the “[101 Revolutionary Ways to Be Healthy](http://experiencelife.com/app/ "“101 Revolutionary Ways to Be Healthy” App")” mobile application (for iPhone, iPad, Kindle Fire and Android devices). By visiting our site, you agree that your visit and any dispute over privacy are governed by this Privacy Policy, as well as our [Terms of Service](http://experiencelife.com/terms-of-service).
@@ -101,6 +101,6 @@ We do not reserve the right to refuse to provide you with a copy of your persona
 
 [ExperienceLife.com](http://www.experiencelife.com/) reserves the right to change any or all of the Privacy Policy at any time without notice or liability to users. Additions or changes to this policy will be posted here, and the most recent version will always be available at [www.experiencelife.com](http://www.experiencelife.com/). Changes to this policy will be considered accepted by you upon continued use of the site.
 
-This policy was last updated on May 1, 2012.
+This policy was last updated on November 12, 2012.
 
 If you have an inquiry or concern about this policy, please contact [jmartin@experiencelife.com](mailto:jkuenster@experiencelife.com?subject=ExperienceLife.com%20Privacy%20Policy%20Inquiry/Concern).
