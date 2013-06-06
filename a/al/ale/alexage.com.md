@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alexage.com privacy policy that was archived on 2012-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120903111814id_/http%3A//www.alexage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexage.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606050234id_/http%3A//www.rankage.com/privacy-policy) for the most accurate reproduction.*
 
-# Alexage | Increase Alexa Rank, Improve Alexa Ranking, Boost Alexa Rank | Privacy Policy
+# Increase Alexa Rank | Improve Alexa Ranking | Boost Alexa Rank | Privacy Policy
 
 Rankage has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of this website. This Privacy Policy governs the manner in which Rankage uses, maintains and discloses information collected from its customers and users of its website.
 
