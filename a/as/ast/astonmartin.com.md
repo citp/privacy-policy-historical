@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astonmartin.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130185446id_/http%3A//www.astonmartin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astonmartin.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606053029id_/http%3A//www.astonmartin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -169,3 +169,5 @@ Due to the global nature of Aston Martin, it may be necessary to send your perso
 We take all reasonable steps to retain personal information only for as long as we need to process your job application. We may also retain your details after a decision has been reached regarding your suitability for current jobs for vacancies that may become available in the future. 
 
 If no longer wish us to store your personal information, please contact us by using the enquiry form on this page <http://site.astonmartin.com/eng/contactus/websitecomments> and we will delete it from our database unless we need to continue to hold some details about you after your relationship with us has ended, for example for legal and regulatory purposes.
+
+Loading...
