@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gkboptical.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126160722id_/http%3A//www.gkboptical.com/gkb-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gkboptical.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606093303id_/http%3A//www.gkboptical.com/gkb-privacy-policy) for the most accurate reproduction.*
 
-# GKB Privacy Policy
+# Privacy Policy of Gkboptical.com | Buy Online Sunglasses | Eyeglasses | Contact Lens | Spectacle Frames
 
 GKB Opticals respects the privacy and confidentiality of individuals who visit our web site located at www.gkboptical.com. We maintain this Privacy Policy to help you understand our commitment to safeguard the privacy of the information you provide to us on this website. We pledge to treat all information made available by you with the utmost care and responsibility.
 
