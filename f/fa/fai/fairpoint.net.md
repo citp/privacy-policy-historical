@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairpoint.net privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226234442id_/http%3A//www.fairpoint.com/global/fp_privacypolicy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairpoint.net privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606065023id_/http%3A//www.fairpoint.com/global/fp_privacypolicy/index.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Legal Regulatory | FairPoint Communications
 
