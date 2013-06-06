@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkstockphotos.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227064806id_/http%3A//www.thinkstockphotos.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkstockphotos.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606224346id_/http%3A//www.thinkstockphotos.com/legal/privacy-policy%3Fisource%3Dfoot_privacy) for the most accurate reproduction.*
 
 # Thinkstock Privacy Policy | Royalty-Free Images Subscriptions
 
@@ -36,11 +36,11 @@ We reserve the right to disclose your personal information if required to do so 
 
 Accessing Your Personal Information
 
-If you would like to review or revise information that you previously provided to us, you may access your information in the "My Account" section of the website. Your Account Executive can also assist you in making any changes, as well as in exercising your right to have your personal information deleted. If you need additional assistance, please contact us at [__tbmftAuijoltupdl/dpn](https://web.archive.org/web/20121227064806id_/http%3A//www.thinkstockphotos.com/legal/__nbjmup;tbmftAuijoltupdl/dpn). You can expect a response from us within 10 calendar days. Please be advised that you cannot change your username without re-registering. 
+If you would like to review or revise information that you previously provided to us, you may access your information in the "My Account" section of the website. Your Account Executive can also assist you in making any changes, as well as in exercising your right to have your personal information deleted. If you need additional assistance, please contact us at [__tbmftAuijoltupdl/dpn](https://web.archive.org/web/20130606224346id_/http%3A//www.thinkstockphotos.com/legal/__nbjmup;tbmftAuijoltupdl/dpn). You can expect a response from us within 10 calendar days. Please be advised that you cannot change your username without re-registering. 
 
 Personal Information Preferences
 
-Thinkstock respects your right to make choices about the use and disclosure of your personal information. If at any time you decide that you do not want to receive marketing emails from us, please let us know by: (1) checking or unchecking the appropriate box on your online registration form or by clicking "My account", and then clicking "Contact information" on the website; (2) contacting your Account Executive; or (3) sending an email to [__tbmftAuijoltupdl/dpn](https://web.archive.org/web/20121227064806id_/http%3A//www.thinkstockphotos.com/legal/__nbjmup;tbmftAuijoltupdl/dpn). 
+Thinkstock respects your right to make choices about the use and disclosure of your personal information. If at any time you decide that you do not want to receive marketing emails from us, please let us know by: (1) checking or unchecking the appropriate box on your online registration form or by clicking "My account", and then clicking "Contact information" on the website; (2) contacting your Account Executive; or (3) sending an email to [__tbmftAuijoltupdl/dpn](https://web.archive.org/web/20130606224346id_/http%3A//www.thinkstockphotos.com/legal/__nbjmup;tbmftAuijoltupdl/dpn). 
 
 If you choose not to receive marketing emails, please be advised that you may continue to receive transactional or account communications (e.g., purchase confirmations and account balance statements).
 
@@ -92,7 +92,7 @@ If a password is used to protect your account and personal information, it is yo
 
 Forums & Other Interactive Services
 
-Our websites may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites ("Interactive Areas"). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please email us at [__tbmftAuijoltupdl/dpn](https://web.archive.org/web/20121227064806id_/http%3A//www.thinkstockphotos.com/legal/__nbjmup;tbmftAuijoltupdl/dpn). Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems. 
+Our websites may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites ("Interactive Areas"). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please email us at [__tbmftAuijoltupdl/dpn](https://web.archive.org/web/20130606224346id_/http%3A//www.thinkstockphotos.com/legal/__nbjmup;tbmftAuijoltupdl/dpn). Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems. 
 
 Email Referrals
 
@@ -108,7 +108,7 @@ We may link to websites, including those of our third-party content providers, t
 
 DMA
 
-If you have questions or concerns regarding this privacy policy, you should first contact Thinkstock (using the Contact Information below). If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed, you should then contact the Direct Marketing Association by e-mail at "[__tbgfibscpsAuif.enb/psh](https://web.archive.org/web/20121227064806id_/http%3A//www.thinkstockphotos.com/legal/__nbjmup;tbgfibscpsAuif.enb/psh)", by mail at "Safe Harbor Line, Direct Marketing Association, 1615 L Street, NW - Suite 1100, Washington, DC 20036", or by phone at 202-861-2410. 
+If you have questions or concerns regarding this privacy policy, you should first contact Thinkstock (using the Contact Information below). If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed, you should then contact the Direct Marketing Association by e-mail at "[__tbgfibscpsAuif.enb/psh](https://web.archive.org/web/20130606224346id_/http%3A//www.thinkstockphotos.com/legal/__nbjmup;tbgfibscpsAuif.enb/psh)", by mail at "Safe Harbor Line, Direct Marketing Association, 1615 L Street, NW - Suite 1100, Washington, DC 20036", or by phone at 202-861-2410. 
 
 Changes to This Privacy Policy
 
@@ -116,6 +116,6 @@ We reserve the right to change the terms of this privacy policy at any time. Whe
 
 Contact Information
 
-You can contact Thinkstock Sales by emailing [__tbmftAuijoltupdl/dpn](https://web.archive.org/web/20121227064806id_/http%3A//www.thinkstockphotos.com/legal/__nbjmup;tbmftAuijoltupdl/dpn), or by phone at (206) 925-5000, or by postal mail at Thinkstock, Sales, 605 5th Avenue South, Suite 400, Seattle, WA 98104.
+You can contact Thinkstock Sales by emailing [__tbmftAuijoltupdl/dpn](https://web.archive.org/web/20130606224346id_/http%3A//www.thinkstockphotos.com/legal/__nbjmup;tbmftAuijoltupdl/dpn), or by phone at (206) 925-5000, or by postal mail at Thinkstock, Sales, 605 5th Avenue South, Suite 400, Seattle, WA 98104.
 
 © 1999-2012 Thinkstock. All rights reserved. Privacy Policy.
