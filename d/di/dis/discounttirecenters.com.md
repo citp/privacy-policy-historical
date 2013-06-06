@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discounttirecenters.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224190827id_/http%3A//discounttirecenters.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discounttirecenters.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606233312id_/http%3A//discounttirecenters.com/privacy_policy.php) for the most accurate reproduction.*
 
 # DTC Privacy Policy for Discount tires and wheels, truck, 4x4 and suv tires, car rims, car wheels, aftermarket wheels, custom wheels - DiscountTireCenters.com with the lowest prices on tires and automotive services in California, carrying all name tire brands, and providing comprehensive automotive services.
 
@@ -22,7 +22,7 @@ Instructions for unsubscribing from e-mails are located at the bottom of each e-
 
 A cookie is a piece of information that is stored on your computer's hard drive, not on our site.
 
-We do not use cookies on our site and will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us.
+As you browse DiscountTireCenters.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with DiscountTireCenters.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number.
 
 ### Disclosure of Your Information
 
