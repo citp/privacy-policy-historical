@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tal.ki privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207114539id_/http%3A//tal.ki/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tal.ki privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606224438id_/http%3A//tal.ki/privacy) for the most accurate reproduction.*
 
 # Tal.ki Embeddable Forums - Privacy Policy
 
