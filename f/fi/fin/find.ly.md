@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the find.ly privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101195236id_/http%3A//info.find.ly/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find.ly privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606063500id_/http%3A//www.findly.com/privacy) for the most accurate reproduction.*
 
-# find.ly - Our Privacy Policy – Verified by TRUSTe
+# Findly - Our Privacy Policy – Verified by TRUSTe
 
 ### Privacy Policy
 
@@ -16,11 +16,11 @@ Find.ly, Inc has been awarded TRUSTe’s Privacy Seal signifying that this priva
 
 TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. _If you have questions or complaints regarding our privacy policy or practices, please contact us at[support@find.ly](mailto:support@find.ly)._ If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request)
 
-  * _U.S.—E.U. Safe Harbor_
+  * _U.S.—E.U. or Swiss Safe Harbor_
 
 
 
-Find.ly, Inc. complies with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries. Find.ly, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Find.ly, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>
+Find.ly, Inc. complies with the U.S. – E.U. or Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries. Find.ly, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Find.ly, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>
 
 Collection and Use | Information Sharing | Access | Tracking Technologies | Security | Additional Info | Contact Info  
   
@@ -126,8 +126,8 @@ We may update this privacy statement to reflect changes to our information pract
 You can contact us about this privacy statement by writing or email us at the address below:
 
 Findly, Inc.  
-444 High Street Suite 250  
-Palo Alto, CA, United States 94301  
+720 Market Street #300  
+San Francisco, CA, United States 94108  
 Email: [support@find.ly](mailto:support@find.ly)  
 Phone: 650-403-4819
 
