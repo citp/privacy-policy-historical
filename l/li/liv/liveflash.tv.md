@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveflash.tv privacy policy that was archived on 2012-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120904181055id_/http%3A//www.liveflash.tv/resources/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveflash.tv privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606104026id_/http%3A//www.liveflash.tv/resources/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
