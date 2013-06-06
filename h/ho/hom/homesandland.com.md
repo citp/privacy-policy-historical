@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the homesandland.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050150id_/http%3A//www.homesandland.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesandland.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606025433id_/http%3A//www.homesandland.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Homes & Land Privacy Policy
-
-Search for Real Estate for Sale...
-
-Provide City, Prov. Or Postal Code
-
-  
-
-
-| 
+# Homes & Land Privacy Policy | Homes & Land ®
 
 You can browse HomesAndLand.com without revealing personal information about yourself. Like nearly all web sites, we monitor and log the incoming "IP Addresses" of visitors. This anonymous information is collected to assist us in analyzing site use patterns and to help us maintain a secure environment for our site's data. This information is not shared with any other party. 
 
@@ -24,8 +15,3 @@ HomesAndLand.com may share aggregate information with advertisers, business part
 By using the HomesAndLand.com web site and providing your personal information, you consent to the collection and use of your information as we have outlined in this Privacy Policy. Homes & Land Affiliates, LLC may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. 
 
 Feel free to contact us any time and we'll answer any additional questions or concerns you may have. Our email address is [privacy@homesandland.com](mailto:privacy@homesandland.com). 
-
-  
-
-
-| 
