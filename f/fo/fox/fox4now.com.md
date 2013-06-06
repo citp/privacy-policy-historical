@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox4now.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115234618id_/http%3A//www.fox4now.com/161198165.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox4now.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606080555id_/http%3A//www.fox4now.com/161198165.html) for the most accurate reproduction.*
 
 # JBG Privacy Policy 2012 - WFTX-TV Fort Myers/Naples, FL
 
@@ -159,7 +159,7 @@ We are committed to protecting children's privacy on the Internet and we comply 
 
 ### More information about our children's privacy policies:
 
-On occasion, our Sites may enable parents to submit information about their child to participate in programs or features, such as a weather kids program and contests. In such instances, we only request the types of Personal Information necessary to participate in the program, which may include, but are not limited to, the parent's name and email address, child's name, age/date of birth, city, and a photograph or video of the child. This information would be used only for the specific program or feature. A parent may request access to this information and request that we delete such information. For details, please see Section 8, ["How can you access, update or delete your Personal Information."](https://web.archive.org/web/20121115234618id_/http%3A//www.fox4now.com/section_8)
+On occasion, our Sites may enable parents to submit information about their child to participate in programs or features, such as a weather kids program and contests. In such instances, we only request the types of Personal Information necessary to participate in the program, which may include, but are not limited to, the parent's name and email address, child's name, age/date of birth, city, and a photograph or video of the child. This information would be used only for the specific program or feature. A parent may request access to this information and request that we delete such information. For details, please see Section 8, ["How can you access, update or delete your Personal Information."](https://web.archive.org/web/20130606080555id_/http%3A//www.fox4now.com/section_8)
 
 Close
 
