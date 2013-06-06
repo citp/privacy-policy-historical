@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsofafrica.org privacy policy that was archived on 2012-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120718233513id_/http%3A//newsofafrica.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsofafrica.org privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606052458id_/http%3A//newsofafrica.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | News of Africa - Online African News - Daily Newspaper
+# Privacy Policy - News of Africa | News of Africa
 
 This Privacy Policy describes the terms of my commitment to your privacy.
 
@@ -52,16 +52,3 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding our privacy policy, please don’t hesitate to contact us
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fnewsofafrica.org%2Fprivacy-policy%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fnewsofafrica.org%2Fprivacy-policy&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fnewsofafrica.org%2Fprivacy-policy&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fnewsofafrica.org%2Fprivacy-policy&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fnewsofafrica.org%2Fprivacy-policy&title=Privacy%20Policy&notes=This%20Privacy%20Policy%20describes%20the%20terms%20of%20my%20commitment%20to%20your%20privacy.%0D%0A%0D%0APERSONS%20OR%20PARTIES%20COVERED%0D%0A%0D%0AThis%20Privacy%20Policy%20is%20intended%20to%20cover%20all%20visitors%20to%20this%20website%2C%20all%C2%A0subscribersto%20lists%20or%20newsletters%2C%20all%20members%2C%20and%20all%20customers. "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fnewsofafrica.org%2Fprivacy-policy&title=Privacy%20Policy&srcURL=http%3A%2F%2Fnewsofafrica.org%2Fprivacy-policy&srcTitle=News+of+Africa+Trending+News+about+Africa+and+the+World "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fnewsofafrica.org%2Fprivacy-policy&title=Privacy%20Policy&source=News+of+Africa+Trending+News+about+Africa+and+the+World&summary=This%20Privacy%20Policy%20describes%20the%20terms%20of%20my%20commitment%20to%20your%20privacy.%0D%0A%0D%0APERSONS%20OR%20PARTIES%20COVERED%0D%0A%0D%0AThis%20Privacy%20Policy%20is%20intended%20to%20cover%20all%20visitors%20to%20this%20website%2C%20all%C2%A0subscribersto%20lists%20or%20newsletters%2C%20all%20members%2C%20and%20all%20customers. "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fnewsofafrica.org%2Fprivacy-policy&Title=Privacy%20Policy "BlinkList")
-  * 
-
