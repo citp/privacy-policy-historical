@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defensereview.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225174842id_/http%3A//www.defensereview.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defensereview.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606035250id_/http%3A//www.defensereview.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Defense Review - Privacy Policy
 
@@ -30,5 +30,5 @@ Concerns or questions about this privacy policy can be directed to usdefcon@gmai
 
 #### Search terms for the article:
 
-[defense review policy](http://www.defensereview.com/search/defense-review-policy/ "defense review policy"), [google regular routine maintenance of our servers](http://www.defensereview.com/search/google-regular-routine-maintenance-of-our-servers/ "google regular routine maintenance of our servers"), [how to enable cookies](http://www.defensereview.com/search/how-to-enable-cookies/ "how to enable cookies"), [ttp://www defensereview com/privacy-policy-2/](http://www.defensereview.com/search/ttpwww-defensereview-comprivacy-policy-2/ "ttp://www defensereview com/privacy-policy-2/")
+[DefenseReview-PrivacyPolicy](http://www.defensereview.com/search/defensereview-privacypolicy/ "DefenseReview-PrivacyPolicy")
 
