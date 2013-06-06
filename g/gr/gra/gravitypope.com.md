@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gravitypope.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119042539id_/http%3A//www.gravitypope.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gravitypope.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607000156id_/http%3A//www.gravitypope.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # gravitypope
 
@@ -24,4 +24,4 @@ Gravitypope does not sell, trade, or otherwise transfer outside the company pers
 We may use e-mail addresses and other personally identifiable information to contact visitors who communicate with us. For example, we may direct e-mail to visitors who provide us with their e-mail addresses for specific purposes such as receiving our e-mail newsletters, information, or being notified if they have won one of our contests. Each e-mail newsletter always contains instructions on how to discontinue receipt of the newsletter. However, if a visitor at anytime chooses to no longer receive such information and opt-out from any future mailings, please contact us at [mailorder@gravitypope.com](mailto:mailorder@gravitypope.com) to do so.
 
 **Your consent**  
-By using our web site, you consent to the collection and use of this information as described above by [www.gravitypope.com](https://web.archive.org/web/20121119042539id_/). If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+By using our web site, you consent to the collection and use of this information as described above by [www.gravitypope.com](https://web.archive.org/web/20130607000156id_/). If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
