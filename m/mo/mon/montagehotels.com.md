@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montagehotels.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101094847id_/http%3A//www.montagehotels.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montagehotels.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607025824id_/http%3A//www.montagehotels.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Hotel Properties and Residential Management Company | Montage Corporate - Private Policy
 
@@ -31,7 +31,7 @@ Montage does not rent, sell, or disclose your personally identifiable informatio
 
 People that may have authorized access to your personally identifiable information include our employees, as well as agents or contractors who help provide data processing, marketing or promotion services, hardware and website support, and email management. Strategic partners offering or providing products or services jointly or on behalf of Montage may also have authorized access to your personally identifiable information. 
 
-Montage may disclose your information when we have a good faith belief that disclosure is necessary to respond to legal process, or to establish or exercise our legal rights or defend against legal claims. In the event Montage sells, buys, merges, or partners with other companies or businesses, user information may be among the transferred assets. To remove your name from our mailing list [click here](https://web.archive.org/web/20121101094847id_/http%3A//www.montagehotels.com/opt-out-form.php). 
+Montage may disclose your information when we have a good faith belief that disclosure is necessary to respond to legal process, or to establish or exercise our legal rights or defend against legal claims. In the event Montage sells, buys, merges, or partners with other companies or businesses, user information may be among the transferred assets. To remove your name from our mailing list [click here](https://web.archive.org/web/20130607025824id_/http%3A//www.montagehotels.com/opt-out-form.php). 
 
 ### Links and Third Party Advertising
 
