@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewbook.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106125025id_/http%3A//www.viewbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewbook.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607022741id_/http%3A//www.viewbook.com/privacy-policy) for the most accurate reproduction.*
 
 # Viewbook - Privacy Policy
 
