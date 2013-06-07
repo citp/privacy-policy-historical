@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latina.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017103448id_/http%3A//www.latina.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latina.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608003141id_/http%3A//www.latina.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Latina
 
