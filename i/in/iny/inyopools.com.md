@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inyopools.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230221350id_/http%3A//www.inyopools.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inyopools.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607031927id_/https%3A//www.inyopools.com/privacy.aspx) for the most accurate reproduction.*
 
 # INYO Pools Privacy Policy - INYOPools.com
 
