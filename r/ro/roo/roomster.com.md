@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomster.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213144253id_/https%3A//www.roomster.com/info/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomster.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607201329id_/https%3A//www.roomster.com/info/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Roommate search service, roommate finder, roommates wanted.
 
