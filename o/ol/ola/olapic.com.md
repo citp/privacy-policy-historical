@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olapic.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126001130id_/https%3A//www.olapic.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olapic.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607114240id_/http%3A//www.olapic.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy | Olapic
 
@@ -10,7 +10,7 @@ By accessing the Olapic website ("Site") or using the other features, content or
 
 We reserve the right, at our sole discretion, to change, modify, add or delete portions of the Policy at any time without further notice. Your continued use of the Site and/or the Services after any such changes constitutes your acceptance of the new Policy. If you do not agree to abide by these or any future Policy, please do not use or access the Site or Services. It is your responsibility to regularly check this Policy for any changes. The Olapic Site and all related Services are provided by (or on behalf of), Olapic, Inc., a Delaware corporation, and its corporate partners (collectively, "Olapic”, “us”, “we”, “our”)
 
-If you have any questions or comments about this Privacy Policy or about our use of your personally identifiable information, please contact us at [legal@Olapic.com](https://web.archive.org/web/20121126001130id_/https%3A//www.olapic.com/info/legal@Olapic.com) or you can contact us at:
+If you have any questions or comments about this Privacy Policy or about our use of your personally identifiable information, please contact us at [legal@Olapic.com](https://web.archive.org/web/20130607114240id_/http%3A//www.olapic.com/info/legal@Olapic.com) or you can contact us at:
 
 Olapic, Inc.  
 Attn: Legal  
@@ -89,6 +89,6 @@ Olapic regards its databases of customer information (including personal informa
 
 ### Our Policy Towards Minors
 
-The Olapic Site or Services are in no way directed to persons under the age of 18 unless they have obtained parental or guardian consent. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at [legal@Olapic.com](https://web.archive.org/web/20121126001130id_/https%3A//www.olapic.com/info/legal@Olapic.com).
+The Olapic Site or Services are in no way directed to persons under the age of 18 unless they have obtained parental or guardian consent. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at [legal@Olapic.com](https://web.archive.org/web/20130607114240id_/http%3A//www.olapic.com/info/legal@Olapic.com).
 
 This Privacy Policy is effective as of March 23, 2012
