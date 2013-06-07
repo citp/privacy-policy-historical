@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autosaveenergy.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919110528id_/http%3A//www.autosaveenergy.com/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autosaveenergy.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607151915id_/http%3A//www.autosaveenergy.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
-# Autosaveenergy.com » Privacy Policy
+# Auto Energy » Privacy Policy
 
 ### About this Notice
 
