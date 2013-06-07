@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the soas.ac.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184915id_/http%3A//www.soas.ac.uk/utility/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soas.ac.uk privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607061532id_/http%3A//www.soas.ac.uk/utility/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy relating to the SOAS website | SOAS, University of London
 
 ### Privacy policy relating to the SOAS website
 
-In this agreement, the "Website" means the SOAS website at www.soas.ac.uk. "SOAS" means the School of Oriental and African Studies (SOAS).
+In this agreement, the "Website" means the SOAS website at www.soas.ac.uk. "SOAS" means the SOAS, University of London (School of Oriental and African Studies).
 
 SOAS is committed to protecting your privacy and developing technology that gives you a safe online experience. This Privacy Policy applies to the Website and governs data collection and usage. By using the Website, you consent to the data practices described in this policy.
 
-The Website is operated by the School of Oriental and African Studies, SOAS (called SOAS in this agreement), who are situated at Thornhaugh Street, Russell Square, London WC1H 0XG. SOAS can be contacted by post to Thornhaugh Street, Russell Square, London WC1H 0XG. You can reach us by telephone at +44 (0)20 7637 2388.
+The Website is operated by the SOAS, University of London (called SOAS in this agreement), who are situated at Thornhaugh Street, Russell Square, London WC1H 0XG. SOAS can be contacted by post to Thornhaugh Street, Russell Square, London WC1H 0XG. You can reach us by telephone at +44 (0)20 7637 2388.
 
 SOAS encourages you to review the privacy statement of websites you choose to link to from the Website so that you can understand how those websites collect, use and share your information. Any third party sites that you can access through the Website are not covered by SOAS's Privacy Policy and we accept no responsibility or liability for these sites.
 
