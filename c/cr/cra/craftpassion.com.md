@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftpassion.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915052346id_/http%3A//www.craftpassion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftpassion.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607114050id_/http%3A//www.craftpassion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
