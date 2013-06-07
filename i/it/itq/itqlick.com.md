@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itqlick.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116143839id_/http%3A//www.itqlick.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itqlick.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607162232id_/http%3A//www.itqlick.com/Privacy) for the most accurate reproduction.*
 
-# ITQlick - ITQlick Privacy Policy
+# Privacy Policy - ITQlick.com
 
 This Agreement was last revised on September 1, 2012.
 
@@ -16,13 +16,10 @@ Being part of ITQlick means sharing information about yourself with other profes
 Here are the three main types of information on ITQlick:
 
   * **Information about yourself that you share** : This is the information that your connections, other professionals, and companies see about you. This includes your profile, projects you post, companies and products you follow and your contributions to discussions on ITQlick, Questions, Answers, or other community features which, if you choose to opt-in, can show you who viewed your profile (and will show others when you visited their profiles).  **You have control over what you share, and you can update information at any time.**
-  *  
   * **Communication with other users** : We help you communicate with connections, companies and other professionals. Some of this is one-to-one, some of it is in groups, and some of it is public discussion.  **You decide how much or how little you wish to communicate to individuals or groups.**
-  *  
   * **Private activity:** We also provide tools that you can use privately on ITQlick (for example, searching, or contacting users or companies privately)  **these actions and information are private and we don't share or distribute them to others on the website.**
-  *  
 
- 
+
 
 Of course, maintaining your trust is our top concern, so we adhere to the following principles to protect your privacy:
 
@@ -34,7 +31,7 @@ Of course, maintaining your trust is our top concern, so we adhere to the follow
 
 **We reserve the right to update this privacy policy at any time**. When we do, we will revise the updated date at the top and/or bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. If you object to any changes, you may [close your account](http://www.itqlick.com/Close). By continuing to use the ITQlick service after notice of changes has been sent to you or published on the ITQlick website, you are consenting to the changes.
 
-**Please read this policy**  and send us questions, concerns and suggestions [here](http://www.itqlick.com/Contact).
+**Please read this policy**  and [send us](http://www.itqlick.com/Contact) questions, concerns and suggestions.
 
 ##  **What ITQlick’s Privacy Policy Covers:**
 
@@ -103,7 +100,7 @@ You have a right to access, modify, correct and eliminate the data you supplied 
 . We will respond to your request within 30 days. Please note, however that information you have shared with others, or that other Users have copied, may also remain visible even if you request its deletion.
 
   **K.      ****Data Retention**  
-ITQlick will retain your information for so long as your account is active or as needed to provide you services, except in the case of our professional plugin impression data, which we de-identify after 12 months. If you wish to close your account, you may do so [here](http://www.itqlick.com/Close). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce this Agreement.
+ITQlick will retain your information for so long as your account is active or as needed to provide you services, except in the case of our professional plugin impression data, which we de-identify after 12 months. If you wish to [close your account, you may do so here](http://www.itqlick.com/Close). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce this Agreement.
 
 ##  **2.     Uses of personal information**
 
@@ -216,8 +213,6 @@ If we learn that a User is deceased, we may memorialize the User’s account. In
 
 ##  **4.     Your Obligations**
 
- 
-
 As a User, you have certain obligations to other Users. Some of these obligations are imposed by applicable law and regulations, and others have become commonplace in user-friendly communities of like-minded members such as ITQlick:  
 ·        You must, at all times, abide by the terms and conditions of the then-current Privacy Policy and User Agreement. This includes respecting all intellectual property rights that may belong to third parties (such as trademarks or photographs).  
 ·        You must not download or otherwise disseminate any information that may be deemed to be injurious, violent, offensive, racist or xenophobic, or which may otherwise violate the purpose and spirit of ITQlick and its community of Users.  
@@ -225,22 +220,18 @@ As a User, you have certain obligations to other Users. Some of these obligation
 ·        You must keep your username and password confidential and not share it with others.  
 Any violation of these guidelines may lead to the restriction, suspension or termination of your account at the sole discretion of ITQlick.
 
-##  **5.     Important information**
+##  **5.    Important information**
 
 P.     Children and Minors  
 Children under the age of 18 are not eligible to use our service.
 
 ##  **6.     Security**
 
- 
-
 In order to help secure your personal information, access to your data on ITQlick is password-protected. To protect any data you store on our servers, ITQlick also regularly audits its system for possible vulnerabilities and attacks, and we use a tier-one secured-access data center. However, since the internet is not a 100% secure environment, we cannot ensure or warrant the security of any information you transmit to ITQlick. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please note that emails, instant messaging, and similar means of communication with other Users of ITQlick are not encrypted, and we strongly advise you not to communicate any confidential information through these means.
 
 ##  **7.     How to contact us**
 
- 
-
-If you have questions or comments about this Privacy Policy, please contact us [here. ](http://www.itqlick.com/Contact)
+If you have questions or comments about this Privacy Policy, please contact us using the button on the right "feedback".
 
   
 **© ITQlick 2012 All Rights Reserved**
