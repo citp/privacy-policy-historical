@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streev.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207064226id_/http%3A//www.streev.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streev.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607024021id_/http%3A//www.streev.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Streev, Live Sex Shows - Privacy
 
