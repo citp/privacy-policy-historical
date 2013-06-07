@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimalworkshop.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110221748id_/http%3A//www.optimalworkshop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalworkshop.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607032240id_/http%3A//www.optimalworkshop.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Optimal Workshop
 
@@ -25,6 +25,10 @@ You may make a request to access the personal information held about and Optimal
 #### Security of Personal Information
 
 Optimal secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorised access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of a financial gateway.
+
+#### Display Advertising
+
+Optimal uses Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, show Optimal ads on sites across the Internet. Optimal and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to your website.
 
 #### Changes to Optimal's Policy
 
