@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ownersdirect.co.uk privacy policy that was archived on 2012-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120821151555id_/http%3A//www.ownersdirect.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ownersdirect.co.uk privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607054149id_/http%3A//www.ownersdirect.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Owners Direct holiday rentals. Villas, apartments and guesthouses. Self catering
 
 ### HomeAway Privacy Policy 
 
-We are serious about protecting the privacy of our users.  This Privacy Policy describes how we use and protect your personal data.  It applies to [www.ownersdirect.co.uk](http://www.ownersdirect.co.uk/)  and any other websites of our affiliates where this policy is linked to in the footer of the page (each referred to herein as the “Site”).  Websites of other of our affiliates may be governed by separate privacy policies and those policies will be accessible by links in the footers of such websites.  
+We are serious about protecting the privacy of our users.  This Privacy Policy describes how we use and protect your personal data.  It applies to [www.ownersdirect.co.uk](https://web.archive.org/)  and any other websites of our affiliates where this policy is linked to in the footer of the page (each referred to herein as the “Site”).  Websites of other of our affiliates may be governed by separate privacy policies and those policies will be accessible by links in the footers of such websites.  
 
-The Site is owned by HomeAway Sàrl, Rue de Lyon 105, 1203 Geneva, Switzerland and operated by HomeAway UK Ltd, Portland House, 25th floor, Bressenden Place, London, SW1E 5BH, United Kingdom which is part of the HomeAway, Inc. group.  You can find details of the HomeAway group and the companies in it in its initial, annual and quarterly filings made with the United States Securities and Exchange Commission on Forms S-1, 10-K and 10-Q, which can be accessed here: <http://investors.homeaway.com/sec.cfm>
+The Site is owned by HomeAway UK Ltd, Portland House, Bressenden Place, London SW1E 5BH, UK which is part of the HomeAway, Inc. group.  You can find details of the HomeAway group and the companies in it in its initial, annual and quarterly filings made with the United States Securities and Exchange Commission on Forms S-1, 10-K and 10-Q, which can be accessed here: <http://investors.homeaway.com/sec.cfm>
 
-The terms “users” or “you” as used in this [Privacy Policy](http://www.ownersdirect.co.uk/privacypolicy.htm), refer to both travellers, who use the Site to look for properties to rent, and members who subscribe to the Site and list their properties for rent. 
+The terms “users” or “you” as used in this [Privacy Policy](https://web.archive.org/privacypolicy.htm), refer to both travellers, who use the Site to look for properties to rent, and members who subscribe to the Site and list their properties for rent. 
 
-We use information collected about you only as permitted in this Privacy Policy. The Site may contain links to third parties’websites. We’re not responsible for the privacy practices or the content of those websites. Therefore, please read carefully any privacy policies on those websites before either agreeing to their terms or using those website. Unless we explain otherwise in this policy, the words and phrases used in this policy have the same meaning as in the Terms and Conditions of Use - available at [Terms & Conditions](http://www.ownersdirect.co.uk/termsandconditions.htm).
+We use information collected about you only as permitted in this Privacy Policy. The Site may contain links to third parties’websites. We’re not responsible for the privacy practices or the content of those websites. Therefore, please read carefully any privacy policies on those websites before either agreeing to their terms or using those website. Unless we explain otherwise in this policy, the words and phrases used in this policy have the same meaning as in the Terms and Conditions of Use - available at [Terms & Conditions](https://web.archive.org/termsandconditions.htm).
 
 By providing information to us when subscribing, sending inquiries or otherwise using the Site, you expressly agree to this Privacy Policy.  This Privacy Policy was last updated in May 2012. This Privacy Policy applies from that date. We may occasionally amend this Privacy Policy to reflect regulatory requirements; advances in technology, Site updates and changes in our information collection and disclosure practices. Any new policy will automatically be effective when it is published on the website. You should therefore return here regularly to view our most up to date Privacy Policy. You should also print a copy for your records.
 
@@ -103,13 +103,13 @@ Web beacons may be used to track the traffic patterns of users from one page to 
 If you receive an unsolicited email that appears to be from us or one of our members that requests personal information (such as your credit card, login, or password), or that asks you to verify or confirm your account or other personal information by clicking on a link, that email was likely to have been sent by someone trying to unlawfully obtain your information, sometimes referred to as a "phisher" or "spoofer." We do not ask for this type of information in an email. Do not provide the information or click on the link. Please contact us at Customer 
 
 **How do I correct or update my information?**   
-We allow our users the option to change or modify information previously provided. This may be done buy sending the request to us at [Customer Support](http://www.ownersdirect.co.uk/help-contactus.htm)
+We allow our users the option to change or modify information previously provided. This may be done buy sending the request to us at [Customer Support](https://web.archive.org/help-contactus.htm)
 
   **How do I opt-out of receiving marketing communications from you?**   
 You may opt-out of receiving marketing communications from us by the following means:  
-1.    Contact us at  [Customer Support](http://www.ownersdirect.co.uk/help-contactus.htm),   
+1.    Contact us at  [Customer Support](https://web.archive.org/help-contactus.htm),   
 2.    Follow the instructions included in each communication or newsletter,   
-3.    Use the [Unsubscribe function](http://www.ownersdirect.co.uk/subscribe.asp), or   
+3.    Use the [Unsubscribe function](https://web.archive.org/unsubscribe.asp), or   
 4.    Mail the request to us at ****
 
 **Owners Direct Holiday Rentals Ltd** , attn: General Manager, Portland House, 25th floor, Bressenden Place, London, SW1E 5BH, United Kingdom  
@@ -118,4 +118,4 @@ You may opt-out of receiving marketing communications from us by the following m
 We will retain your personal data only as long as is necessary for the purposes to which you consent under the Terms and Conditions and this Privacy Policy, or as is required by applicable law, and then we will delete it.
 
 **How do I contact you?**   
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, we encourage you to contact us at [Customer Support](http://www.ownersdirect.co.uk/help-contactus.htm) .  If you are unhappy with their answers you can also speak to our Chief Privacy Officer Arndt Soret [asoret@homeaway.com](mailto:asoret@homeaway.com). In the unlikely event you still have an unresolved complaint, if your data was transferred to the US from the EU or Switzerland under Safe Harbor. You can also contact our dispute resolution service operated by NIPC, an independent arbitration service based in the EU. Our Chief Privacy Officer can give you the details for this service.
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, we encourage you to contact us at [Customer Support](https://web.archive.org/help-contactus.htm) .  If you are unhappy with their answers you can also speak to our Chief Privacy Officer Arndt Soret [asoret@homeaway.com](mailto:asoret@homeaway.com). In the unlikely event you still have an unresolved complaint, if your data was transferred to the US from the EU or Switzerland under Safe Harbor. You can also contact our dispute resolution service operated by NIPC, an independent arbitration service based in the EU. Our Chief Privacy Officer can give you the details for this service.
