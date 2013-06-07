@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tauntr.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102114225id_/http%3A//www.tauntr.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tauntr.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607031719id_/http%3A//www.tauntr.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TAUNTR.COM
 
@@ -47,6 +47,6 @@ With Your Consent: Except as noted above, we will contact you when your personal
 
  _Children Under  18 Years of Age _You must be 13 years and older to register to use the Tauntr.com website. As a result, Tauntr.com does not specifically collect information about children. If we learn that Tauntr.com has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using Tauntr.com or sending information about themselves or anyone else over the Internet.  _Changes to this  Privacy Policy _Tauntr.com may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Tauntr.com website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.  _Conditions of Use  _If you decide to visit the Tauntr.com website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.  _Effective Date of this  Privacy Policy _This Privacy Policy is effective as of March 28, 2011 and last updated March 28, 2011. 
 
-  * 11341 reads
+  * 14930 reads
 
 
