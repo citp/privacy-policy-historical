@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kobelli.com privacy policy that was archived on 2011-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110825230831id_/http%3A//kobelli.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobelli.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607085032id_/http%3A//www.kobelli.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Kobelli
 
