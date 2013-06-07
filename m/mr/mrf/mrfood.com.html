@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mrfood.com privacy policy that was archived on 2012-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121113160943id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mrfood.com privacy policy that was archived on 2013-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130607041358id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><head>
 
@@ -15,7 +15,7 @@
 	
 	<title>Privacy Policy | mrfood.com</title>
 	
-	<meta name="keywords" content="Art Ginsburg, Mr. Food,television  and radio chef, simple recipes, &quot;quick  easy cooking&quot;, practical food preparation techniques, readily available ingredients, OOH IT'S SO GOOD!!">
+	<meta name="keywords" content="Mr. Food Test Kitchen, Art Ginsburg, Mr. Food, television and radio chef, simple recipes, &quot;quick  easy cooking&quot;, quick and easy triple-tested recipes, practical food preparation techniques, readily available ingredients, OOH IT'S SO GOOD!!">
 	<meta name="description" content="Privacy Policy.">
 	
 	
@@ -42,7 +42,7 @@
 		
 	<!--<script type="text/javascript" src="/javascript/jquery-1.3.2.min.js"></script>-->
 	<!--<script type="text/javascript" src="/javascript/jquery-1.5.min.js"></script>-->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=21"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=19"></script>
 	
 	
 	<!-- load jQuery from Google's CDN service.  --> 
@@ -50,21 +50,21 @@
 	
 	<!-- start jquery ui -->
 	<!-- this was installed to get the autocomplete feature, contains: Core, Widget, Position, Autocomplete -->
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=21"></script>
-	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=21" media="screen">
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=19"></script>
+	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=19" media="screen">
 	<!-- end jquery ui -->
 	
 	
 	
 	<!-- jQuery Tools Library (Tabs, Tooltip, Scrollable, Overlay, Expose. No jQuery) --> 
 	<!--<script src="http://cdn.jquerytools.org/1.1.0/tiny/jquery.tools.min.js"></script>-->
-		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=21"></script>
+		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=19"></script>
 	
 	
 
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=21"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=19"></script>
 	
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=21"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=19"></script>
 	
 	
 	
@@ -75,7 +75,7 @@
 		
 			$(document).ready(
 				function() {
-					//alert('getJavascript_topSocialLinks ready line: 9227');
+					//alert('getJavascript_topSocialLinks ready line: 10706');
 					
 					$('#topSocialLinkMenu .socialButtonTable').show();
 					
@@ -135,7 +135,7 @@
 			
 			$(document).ready(
 				function() {
-					//alert('getJavascript_loginDhtmlContent ready - line: 14359');
+					//alert('getJavascript_loginDhtmlContent ready - line: 15993');
 					/**
 					 *set click handler for all the close boxes in the dhtml
 					 */
@@ -184,23 +184,40 @@
 						$('.dhtmlLoginWrapper .facebookLoginButton').click(
 							 function(){
 								 //alert('click facebookLoginButton');
+								 //console.log('click facebookLoginButton');
+								 
 								 //FB.login();
 								 $(this).fadeTo('normal', 0.3);
 								 $('#dhtmlLogin .feedbackDiv').html('<img src="/images/ajax-loader-bar.gif" alt="Loading" width="220" height="19" />');
 								 
 								 FB.login(
+								 	/*
+								 	2012-12-20
+								 	this location of scope caused js errors, after months of working
 								 	{
 										scope: 'email'
 									},
+									*/
 								  	function(response){
    										// handle the response
-   										var alert_str = 'back from FB.login' + "\n\n";
-   										alert_str += 'response: ' + response + "\n\n";
-   										alert_str += 'response.scope: ' + response.email + "\n\n";
-   										alert_str += 'response.status: ' + response.status + "\n\n";
-   										alert_str += 'response.name: ' + response.name + "\n\n";
-   										//alert(alert_str);
-									}
+   										//console.log(response);
+   										
+   										if (response.authResponse) {
+   											//console.log('Welcome!  Fetching your information.... ');
+   										}else{
+   											
+   											// undo some user feedback that ran when the user clicked the fb button
+   											$('.dhtmlLoginWrapper .facebookLoginButton').fadeTo('normal', 1.0);
+   											$('#dhtmlLogin .feedbackDiv').html('');
+   											
+   											//console.log('User cancelled login or did not fully authorize.');
+   										}
+									},
+									/* 
+									2012-12-20
+									this location of scope works, at least for now...
+									*/
+									{scope: 'email'}
 								);
 								//login_dhtml_obj.hideLoginDhtmlBox();
 							 }
@@ -293,6 +310,10 @@
 									if(json.success == 1){
 										//alert('success');
 										feedback_div = 'We sent your password to ' + json.email;
+									}else if(json.is_banned == 1){
+										feedback_div = 'We could not send the password for your account.<br />';
+										feedback_div += '<a href="/index.php/hct/contact_us_page">Please click here to contact customer support.</a>';
+										
 									}else{
 										feedback_div = 'We could not find an account for your email.';
 									}
@@ -463,7 +484,7 @@ var signup_redirect_qry_params = new Array();
 signup_redirect_qry_params['email'] = false;
 
 
-var signup_redirect_url = 'http://www.pdapi.com/cs/JSI/v1/prime/?pub=4&email=[email]&ExitURL=http://mrfood.com/index.php/hct/Latest-Free-eCookbooks';
+var signup_redirect_url = 'http://clear-request.com/oi/display?PID=18866867&EM=[email]&URL=http://www.mrfood.com/index.php/hct/Latest-Free-eCookbooks';
 
 
 	var is_mustang = 0;
@@ -1374,27 +1395,34 @@ function triggerWiderFunnel(){
 	
 	
 		
-				<!-- START GOOGLE AD MANAGER CODE V2 -->
-			<!-- http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=112649 -->
-			<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+				<!-- START Google Publisher Tag - Asynchronous -->
 			<script type="text/javascript">
-				GS_googleAddAdSenseService("ca-pub-3960203165302510");
-				GS_googleEnableAllServices();
+				var googletag = googletag || {};
+				googletag.cmd = googletag.cmd || [];
+				(function() {
+					var gads = document.createElement('script');
+					gads.async = true;
+					gads.type = 'text/javascript';
+					var useSSL = 'https:' == document.location.protocol;
+					gads.src = (useSSL ? 'https:' : 'http:') + 
+					'//www.googletagservices.com/tag/js/gpt.js';
+					var node = document.getElementsByTagName('script')[0];
+					node.parentNode.insertBefore(gads, node);
+				})();
 			</script>
+			
 			<script type="text/javascript">
-										GA_googleAddSlot("ca-pub-3960203165302510", "mrfood-com_header-int-A_728-90");
-												GA_googleAddSlot("ca-pub-3960203165302510", "mrfood-com_left-rail-A_120-600");
-												GA_googleAddSlot("ca-pub-3960203165302510", "mrfood-com_right-rail-A_300-94");
-												GA_googleAddSlot("ca-pub-3960203165302510", "mrfood-com_right-rail-B_300-250");
-												GA_googleAddSlot("ca-pub-3960203165302510", "mrfood-com_right-rail-C_300-250");
-										
-				// set a PAGE LEVEL attribute for ALL ads
-				GA_googleAddAdSensePageAttr("google_page_url", "http://www.mrfood.com/index.php/hct/privacy_policy");
+				googletag.cmd.push(function() {
+												googletag.defineSlot('/1049349/mrfood-com_header-int-A_728-90', [[728,90]], 'div-gpt-ad-1363378211671-0').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/mrfood-com_left-rail-A_120-600', [[120,600]], 'div-gpt-ad-1363378211671-1').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/mrfood-com_right-rail-A_300-94', [[300,250]], 'div-gpt-ad-1363378211671-3').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/mrfood-com_right-rail-B_300-250', [[300,250],[300,600],[300,1050]], 'div-gpt-ad-1363378211671-4').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/mrfood-com_right-rail-C_300-600', [[300,250],[300,600],[300,1050]], 'div-gpt-ad-1363378211671-5').addService(googletag.pubads());
+												googletag.pubads().enableSingleRequest();
+					googletag.enableServices();
+				});
 			</script>
-			<script type="text/javascript">
-				GA_googleFetchAds();
-			</script>
-			<!-- END GOOGLE AD MANAGER CODE V2 -->
+			<!-- END Google Publisher Tag - Asynchronous -->
 				
 					
 	
@@ -1491,17 +1519,19 @@ function triggerWiderFunnel(){
 	
 		
 	
-		
+			<!-- get css for the email signup creative -->
+		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_63.css?v=19" type="text/css" media="screen">	
+			
 	
 	
-	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=21" media="screen">
+	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=19" media="screen">
 	
 	<!--
 	start css
 	-->
-	<link rel="stylesheet" href="/site_templates/0004/css/main_styles.css?v=21" type="text/css" media="screen">
+	<link rel="stylesheet" href="/site_templates/0004/css/main_styles.css?v=19" type="text/css" media="screen">
 	
-	<link rel="stylesheet" href="/site_templates/0004/css/print_styles.css?v=21" type="text/css" media="print">
+	<link rel="stylesheet" href="/site_templates/0004/css/print_styles.css?v=19" type="text/css" media="print">
 	
 	
 	
@@ -1517,6 +1547,9 @@ function triggerWiderFunnel(){
 			var facebook_login_obj = {};
 
 			window.fbAsyncInit = function() {
+			
+				//console.log('call to window.fbAsyncInit line 15823');
+			
 				FB.init({
 					appId      : '422976864383250', // App ID Favecrafts
 					
@@ -1525,6 +1558,22 @@ function triggerWiderFunnel(){
 					cookie     : true, // enable cookies to allow the server to access the session
 					xfbml      : true  // parse XFBML
 				});
+				
+				
+				/*
+				FB.getLoginStatus(function(response) {
+					  if (response.status === 'connected') {
+					    // connected
+					    console.log('connected');
+					  } else if (response.status === 'not_authorized') {
+					    // not_authorized
+					    console.log('not_authorized');
+					  } else {
+					    // not_logged_in
+					    console.log('not_logged_in');
+					  }
+				});
+				*/
 				
 				// listen for and handle auth.statusChange events
 				FB.Event.subscribe(
@@ -1666,7 +1715,7 @@ function triggerWiderFunnel(){
 
 
 <div id="printHeader">
-	<img src="/site_templates/0004/images/print-header_sID28.jpg?v=21" alt="" width="650" height="82">
+	<img src="/site_templates/0004/images/print-header_sID28.jpg?v=19" alt="" width="650" height="82">
 	<div class="inner1">
 		<div class="inner2"></div>
 	</div>
@@ -1687,24 +1736,14 @@ function triggerWiderFunnel(){
 		
 					<div id="topMenu">
 				<ul>
-					<li>							<a href="/section/mybox/action/view" target="_self" title="My Recipe Collection" class="" rel="">
-							My Recipe Collection</a></li><li>							<a href="/section/subctr" target="_self" title="My Newsletters" class="" rel="">
+					<li>							<a href="/section/mybox/action/view" target="_self" title="My Recipe Box" class="" rel="">
+							My Recipe Box</a></li><li>							<a href="/section/subctr" target="_self" title="My Newsletters" class="" rel="">
 							My Newsletters</a></li><li>							<a href="/section/account/action/login" target="_self" title="Log In" class="" rel="primeLoginLink">
 							Log In</a></li><li>							<a href="/section/account/action/register" target="_self" title="Register Now" class="" rel="primeRegisterLink">
 							Register Now</a></li>				</ul>
 			</div><!-- end topMenu -->
-					<!--
-		<div id="topMenu">
-			<ul>
-				<li><a href="zzz" target="_self" title="My Recipe Box">My Recipe Box</a></li>
-				<li><a href="/section/account/action/login" target="_self" title="Sign In">Sign In</a></li>
-			</ul>
-			
-		</div>--><!-- end topMenu -->
-	
-		
+					
 		<!-- START header -->
-				<!--<div id="header" class="headerCss28">-->
 		<div id="header">
 			
 						
@@ -1715,11 +1754,11 @@ function triggerWiderFunnel(){
 							<a id="headerLogo" href="/"><img src="http://cf2.primecp.com/site_templates/0004/images/site_logo_internal_sID28.jpg" alt="mrfood.com"></a>
 						</td>
 					<td style="text-align: right; padding: 5px 5px 2px 0; width: 735px;">
-											<div style="">
-						<!-- ca-pub-3960203165302510/mrfood-com_header-int-A_728-90 -->
+											
+					<!-- mrfood-com_header-int-A_728-90 -->
+					<div id="div-gpt-ad-1363378211671-0" style="width: 728px; height:90px;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("mrfood-com_header-int-A_728-90"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363378211671-0'); });						</script>
 					</div>
 										</td>
 				</tr>
@@ -1733,19 +1772,22 @@ function triggerWiderFunnel(){
 									<a href="http://www.mrfood.com/">Home</a>
 								</td>
 																<td class="">
-									<a href="http://www.everydaytestkitchen.com/">Blog</a>
-								</td>
-																<td class="">
 									<a href="http://www.mrfoodshop.com/">Shop</a>
-								</td>
-																<td class="">
-									<a href="/index.php/hct/TV-Show-TV-Markets">Mr. Food on TV</a>
 								</td>
 																<td class="">
 									<a href="/index.php/hct/Latest-Free-eCookbooks">Free eCookbooks</a>
 								</td>
 																<td class="">
-									<a href="/section/mybox/action/view">My Recipe Box</a>
+									<a href="/section/mybox/action/view">Recipe Box</a>
+								</td>
+																<td class="">
+									<a href="/section/subctr">Newsletters</a>
+								</td>
+																<td class="">
+									<a href="http://www.everydaydiabeticrecipes.com">Diabetic Recipes</a>
+								</td>
+																<td class="">
+									<a href="http://www.mrfood.com/index.php/hct/Fun-and-Games">Fun &amp; Games</a>
 								</td>
 									
 							<td class="lastTD">
@@ -1857,11 +1899,11 @@ function triggerWiderFunnel(){
 		
 									</div>
 														<div style="margin: 0 0 30px 0;">
-													<div style="width: 125px; margin: 0 auto;">
-						<!-- ca-pub-3960203165302510/mrfood-com_left-rail-A_120-600 -->
+													
+					<!-- mrfood-com_left-rail-A_120-600 -->
+					<div id="div-gpt-ad-1363378211671-1" style="width: 120px; height:600px; margin: 0 auto;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("mrfood-com_left-rail-A_120-600"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363378211671-1'); });						</script>
 					</div>
 												</div>
 												
@@ -1870,9 +1912,7 @@ function triggerWiderFunnel(){
 												<div style="margin: 0 0 15px 0;">
 								<p>
 	Privacy Policy / Your California Privacy Rights<br>
-	Revised and posted as of November 13, 2012<br>
-	<br>
-	(Please note this version of the Privacy and Security Policy does not substantively change the way Prime Publishing, LLC and Ginsburg Enterprises Incorporated treats personally identifiable information compared to the <a href="http://www.mrfood.com/index.php/hct/privacy_policy2008" target="_blank" title="Previous Privacy and Security Policy">previous version of the Privacy and Security Policy.</a>)</p>
+	Revised and posted as of March 4, 2013</p>
 <p>
 	&nbsp;</p>
 <p>
@@ -1986,6 +2026,9 @@ function triggerWiderFunnel(){
 <p>
 	Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.</p>
 <p>
+	<strong>Third Party Cookies</strong><br>
+	Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.&nbsp;&nbsp; These cookies contain no personally identifiable information.&nbsp; The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <a href="http://www.aboutads.info/choices" target="_blank" title="AboutAds.info/choices">http://www.aboutads.info/choices</a>.</p>
+<p>
 	Governmental Agencies or Other Companies<br>
 	We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.</p>
 <p>
@@ -2025,8 +2068,7 @@ function triggerWiderFunnel(){
 											</td><!-- end col2 -->
 									<td id="col3">
 														<div style="margin: 0 0 10px 0;">
-																<a href="http://www.mrfood.com/slideshow/survival-guide"><img style="display: block; border: 0;" src="/master_images/qvc_ad_images/10-1352158309.jpg" alt="Thanksgiving Side Dish Survival Guide" width="300" height="100"></a>
-															</div>
+																	</div>
 																<div style="margin: 0 0 10px 0;">
 																	</div>
 																<div style="margin: 0 0 10px 0;">
@@ -2038,13 +2080,13 @@ function triggerWiderFunnel(){
 				
 				<div class="contentBoxPadding" style="text-align: center; color: #293f6f; padding-bottom: 5px;">
 					
-											<div style="background-image: url(/master_images/MrFood/Holiday-Sausage-Stuffing-RE.jpg); background-repeat: no-repeat; background-position: center center;">
-							<a style="display: block; margin: 0; padding: 0;" href="/Potatoes-Rice/Holiday-Sausage-Stuffing-2709"><img style="border: 0;" src="http://cf2.primecp.com/images/clear_pixel.gif" alt="" width="1" height="188"></a>
+											<div style="background-image: url(/master_images/MrFood/Pulled-Pork-Casserole-RE.jpg); background-repeat: no-repeat; background-position: center center;">
+							<a style="display: block; margin: 0; padding: 0;" href="/Casseroles/Pulled-Pork-Casserole"><img style="border: 0;" src="http://cf2.primecp.com/images/clear_pixel.gif" alt="" width="1" height="188"></a>
 						</div>
 											
 					
 					<div style="margin: .5em 0; font-weight: bold;">
-						<a href="/Potatoes-Rice/Holiday-Sausage-Stuffing-2709">Holiday Sausage Stuffing</a>
+						<a href="/Casseroles/Pulled-Pork-Casserole">Pulled Pork Casserole</a>
 					</div>
 					
 					<a class="btmLink recentVideo" href="/section/this-week">Recent TV Recipes</a>
@@ -2056,42 +2098,100 @@ function triggerWiderFunnel(){
 			</div><!-- end latestTvRecipes -->
 											</div>
 																<div style="margin: 0 0 10px 0;">
-														<div style="">
-						<!-- ca-pub-3960203165302510/mrfood-com_right-rail-B_300-250 -->
+														
+					<!-- mrfood-com_right-rail-B_300-250 -->
+					<div id="div-gpt-ad-1363378211671-4" style="width: 300px;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("mrfood-com_right-rail-B_300-250"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363378211671-4'); });						</script>
 					</div>
 													</div>
 																<div style="margin: 0 0 10px 0;">
-												<div id="topTenSiteID28">
+											
+
+		<div class="newsletterSignUpDiv" id="newsletterSignUpDivSiteID28">
+						<!--
+			<h3>Mr. Food E-Newsletter</h3>
+			-->
+			<img class="headerImg" src="http://cf2.primecp.com/site_templates/0004/images/right_col_signup_header_28.jpg" alt="">
+			
+			<div id="newsletterSignUpDiv2">
+		
+				<form id="newsletterSignUpForm" class="contentBoxPadding" action="/newsletter_signup.php" method="post">
+					<input type="hidden" name="task" value="signup">
+					<input type="hidden" name="PHPSESSID" value="sbsnegt2s8360fucflt5jbov00">
+					
+					<!--
+					<h4>Sign up today...it's absolutely free</h4>
+					-->
+					<img style="float: right; margin: 0 0 5px 5px;" src="http://cf2.primecp.com/site_templates/0004/images/newsletter_signup_bg_sID28.jpg" alt="">
+					
+					<img class="subheaderImg" src="http://cf2.primecp.com/site_templates/0004/images/right_col_signup_subheader_28.gif" alt="">
+					
+					
+											<div>
+							<ul>
+								<li>Tasty Quick &amp; Easy Recipes</li>
+								<li>Helpful Cooking Tips &amp; Hints</li>
+								<li>Themed eCookbooks</li>
+								<li>Special Partner Offers</li>
+								<li>...and so much more</li>
+							</ul>
+							
+						</div>
+											
+					<div class="emailInputDiv">
+						<h4>Enter Your Email:</h4>
+						<input class="textField defaultTextFieldColor" type="text" id="email" name="email" value="Email Address"><input class="button" type="submit" id="signUpSubmit" value="Submit">
+						<div style="clear: both;"></div>
+					</div>
+					
+				</form>
+				
+				<div style="text-align: center;">
+					<p id="newsletterSignUpLoader" class="noDisplay"> Please Wait <img src="/images/ajax-loader-kit.gif" alt="" width="16" height="16"></p>
+					<h4 id="newsletterSignUpThanks" class="noDisplay">Thanks for signing up</h4>
+					<h4 id="newsletterSignUpError" class="noDisplay">Sorry, we could not sign you up.</h4>
+				</div>
+				
+			
+			
+			</div><!-- end newsletterSignUpDiv2 -->
+		</div><!-- end newsletterSignUpDivSiteID -->
+
+		
+		
+										</div>
+																<div style="margin: 0 0 10px 0;">
+												<div id="topTenSiteID28" class="topTenDiv">
 			
 				<div style="position: relative; margin: 30px 0 10px 0; padding: 0; height: 20px; background-color: #F7EED8;">
 					<img style="position: absolute; top: -15px; left: 80px; display: block; margin: 0 auto;" src="http://cf2.primecp.com/site_templates/0004/images/whats_hot_headline_sID28.gif" alt="">
 				</div>
 				
+									<a class="topTenImg" title="No Fuss Salisbury Steak" href="/Beef/No-Fuss-Salisbury-Steak-4651/ct/1" style="height: 188px; background-image: url(/master_images/MrFood/No-Fuss-Salisbury-Steak-RE.jpg); background-position: center center; background-repeat: no-repeat;"></a>
+					
 				<div style="margin: 0; padding: 0 10px 20px 15px;">
 								<ol>
-									 <li><a href="/Casseroles/Amish-Chicken-Casserole-4044/ct/1">Amish Chicken Casserole</a></li>
-					 					 <li><a href="/Vegetables/Spinach-Casserole-Surprise-788/ct/1">Spinach Casserole Surprise</a></li>
-					 					 <li><a href="/Casseroles/Tamale-Casserole-by-Mr-Food/ct/1">Tamale Casserole</a></li>
-					 					 <li><a href="/Casseroles/Creamy-Chicken-Casserole-732/ct/1">Creamy Chicken Casserole</a></li>
-					 					 <li><a href="/Casseroles/Easy-Beefy-Casserole-4429/ct/1">Easy Beefy Casserole</a></li>
-					 					 <li><a href="/Casseroles/Stroganoff-Casserole-4650/ct/1">Stroganoff Casserole</a></li>
-					 					 <li><a href="/Casseroles/Chunky-Chicken-Noodle-Casserole-4772/ct/1">Chunky Chicken Noodle Casserole</a></li>
-					 					 <li><a href="/Casseroles/Cheddar-Potato-Casserole-707/ct/1">Cheddar Potato Casserole</a></li>
-					 					 <li><a href="/Casseroles/Lighter-Sweet-Potato-Casserole-5311/ct/1">Lighter Sweet Potato Casserole</a></li>
-					 					 <li><a href="/Casseroles/Family-Favorite-Tuna-Noodle-Casserole-6387/ct/1">Family-Favorite Tuna Noodle Casserole</a></li>
+									 <li><a href="/Beef/No-Fuss-Salisbury-Steak-4651/ct/1">No Fuss Salisbury Steak</a></li>
+					 					 <li><a href="/Casseroles/Pulled-Pork-Casserole/ct/1">Pulled Pork Casserole</a></li>
+					 					 <li><a href="/Pastas/Pineapple-Noodle-Pudding/ct/1">Pineapple Noodle Pudding</a></li>
+					 					 <li><a href="/Casseroles/Double-Bacon-Mac-and-Cheese/ct/1">Double Bacon Mac 'n' Cheese</a></li>
+					 					 <li><a href="/Pie/Two-Minute-Hawaiian-Pie/ct/1">Two-Minute Hawaiian Pie</a></li>
+					 					 <li><a href="/Vegetables/Amish-Pickled-Beets/ct/1">Amish Pickled Beets</a></li>
+					 					 <li><a href="/Misc-Salads/Best-Broccoli-Salad/ct/1">Best Broccoli Salad</a></li>
+					 					 <li><a href="/Editors-Picks/Party-Pleasers-57-Easy-Potluck-Recipes/ct/1">Party Pleasers: 57 Easy Potluck Recipes</a></li>
+					 					 <li><a href="/Cakes/Cold-Fudge-Cake/ct/1">Cold Fudge Cake</a></li>
+					 					 <li><a href="/Beef/Country-Style-Salisbury-Steak/ct/1">Country Style Salisbury Steak</a></li>
 					 			</ol>
 							</div>
 			</div><!-- end topTen -->
 											</div>
 																<div style="margin: 0 0 10px 0;">
-														<div style="">
-						<!-- ca-pub-3960203165302510/mrfood-com_right-rail-C_300-250 -->
+														
+					<!-- mrfood-com_right-rail-C_300-600 -->
+					<div id="div-gpt-ad-1363378211671-5" style="width: 300px;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("mrfood-com_right-rail-C_300-250"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363378211671-5'); });						</script>
 					</div>
 													</div>
 																<div style="margin: 0 0 10px 0;">
@@ -2101,19 +2201,51 @@ function triggerWiderFunnel(){
 				</div>
 							<div class="list">
 				<ul>
-											<li><a href="http://www.mrfood.com/Editors-Picks/12-Days-of-Christmas-Cookies-A-Free-eCookbook-From-Mr-Food/">12 Days of Christmas Cookies</a></li>
-												<li><a href="http://www.mrfood.com/Editors-Picks/25-Scrumptious-Pies-and-Desserts-for-Thanksgiving-and-Beyond-eCookbook">25 Scrumptious Pies &amp; Desserts for Thanksgiving</a></li>
-												<li><a href="http://www.mrfood.com/Editors-Picks/Christmas-Celebrations-eCookbook-5-Holiday-Special-Menus-with-34-Recipes/">Christmas Celebrations eCookbook: 5 Holiday-Special Menus with 34 Recipes</a></li>
+											<li><a href="http://www.mrfood.com/Editors-Picks/16-Easy-Amish-Recipes-Mr-Food/">16 Easy Amish Recipes</a></li>
+												<li><a href="http://www.mrfood.com/Beef/Ground-Beef-Recipes-Quick-and-Easy-Recipes-for-Ground-Beef/">25 Quick &amp; Easy Recipes for Ground Beef</a></li>
+												<li><a href="http://www.mrfood.com/Editors-Picks/Comfort-Food-For-The-Soul-Our-Best-Stews-Easy-Soup-Recipes-Free-eCookbook">Comfort Food for the Soul</a></li>
+												<li><a href="http://www.mrfood.com/Misc-Desserts/Death-By-Chocolate-Dessert-Heaven-Our-Best-Chocolate-Recipes-Free-eCookbook/">Death by Chocolate</a></li>
 												<li><a href="http://www.mrfood.com/Misc-Desserts/Mr-Food-Decadent-Desserts-eCookbook">Decadent Desserts eCookBook</a></li>
-												<li><a href="http://www.mrfood.com/index.php/hct/Latest-Free-eCookbooks">Fall Favorites free eCookBook</a></li>
-												<li><a href="http://www.mrfood.com/Turkey-Misc-Poultry/Mr-Food-Thanksgiving-Feasts-free-eCookbook">Thanksgiving Feasts</a></li>
-												<li><a href="http://www.mrfood.com/Editors-Picks/16-Easy-Amish-Recipes-Mr-Food/">Welcome to Amish Country</a></li>
-												<li><a href="http://www.mrfood.com/Chili/Worlds-Best-Chili-Recipes-Easy-Chili-Recipes/">World's Best Chili Recipes</a></li>
+												<li><a href="http://www.mrfood.com/Editors-Picks/Down-Home-Cookin-Easy-Southern-Favorites-Free-eCookbook/">Down-Home Cookin: 24 Southern Favorite Recipes</a></li>
+												<li><a href="http://www.mrfood.com/Editors-Picks/Easy-Weeknight-Dinners-Recipes-Busy-Cook-Free-eCookbook/">Easy Weeknight Dinners</a></li>
+												<li><a href="http://www.mrfood.com/Editors-Picks/Fuss-Free-Meals-Simple-Skillet-Recipes-One-Pot-Recipes-Free-eCookbook/">Fuss-Free Meals</a></li>
+												<li><a href="http://www.mrfood.com/Pork/Our-Best-Pork-Recipes-Easy-Recipes-for-Pork-Chops-Pork-Roasts-Free-eCookbook">Our Best Pork Recipes</a></li>
+												<li><a href="http://www.mrfood.com/Cheesecakes/The-Ultimate-Dessert-Menu-Our-Best-Cheesecake-Recipes-Free-eCookbook">The Ultimate Dessert Menu</a></li>
 										</ul>
 			</div>
 		</div><!-- end eBooksRightCol -->
 		
 										</div>
+																<div style="margin: 0 0 10px 0;">
+												<div class="socialNewsRightCol">
+				<h3>Connect with Us</h3>
+				<h4>Find us online</h4>
+				
+				<table>
+						<tbody><tr>
+																<td>
+										<a title="Follow Us on Facebook" target="_blank" href="https://www.facebook.com/MrFoodRecipes"><img src="/images/social_link_facebook.jpg" alt="Facebook" width="36" height="35"></a>
+									</td>
+																		<td>
+										<a title="Visit Our Google Plus Page" target="_blank" href="https://plus.google.com/b/103126460811290285773/103126460811290285773/posts"><img src="/images/social_link_google-plus.png" alt="Google Plus" width="32" height="32"></a>
+									</td>
+																		<td>
+										<a title="Visit Our Twitter Page" target="_blank" href="https://twitter.com/Mr_Food"><img src="/images/social_link_twitter.jpg" alt="Twitter" width="35" height="35"></a>
+									</td>
+																		<td>
+										<a title="Visit Our Pinterest Page" target="_blank" href="http://pinterest.com/mr_food/"><img src="/images/social_link_pinterest.jpg" alt="Pinterest" width="35" height="35"></a>
+									</td>
+																		<td>
+										<a title="Visit Our YouTube Channel" target="_blank" href="https://www.youtube.com/user/MrFoodVideos?feature=mhee"><img src="/images/social_link_youtube.jpg" alt="Twitter" width="35" height="35"></a>
+									</td>
+																		<td>
+										<a title="Visit Our RSS Page" href="/rss-feed"><img src="/images/social_link_rss.jpg" alt="RSS" width="35" height="35"></a>
+									</td>
+															</tr>
+					</tbody></table>
+					
+			</div>
+											</div>
 													</td><!-- end col3 -->
 								</tr>
 		</tbody></table><!-- end mainContainerTable -->
@@ -2127,14 +2259,15 @@ function triggerWiderFunnel(){
 									<p id="footerMenu">
 									<a style="border: 0;" href="http://mrfood.co/">About Mr. Food</a>
 										<a href="/index.php/hct/Advertise-on-MrFood">Advertise on MrFood.com</a>
-										<a href="/index.php/hct/FAQs">FAQ</a>
 										<a href="http://www.mrfood.com/index.php/hct/contact_us_page">Contact Us</a>
-										<a href="/index.php/hct/privacy_policy">Privacy Policy</a>
+										<a href="/index.php/hct/FAQs">FAQ</a>
 										<a href="/index.php/hct/Press-Room">Press Room</a>
-										<a href="/keywords">Keyword Index</a>
+										<a href="/index.php/hct/privacy_policy">Privacy Policy</a>
 										<a href="/index.php/hct/terms_service">Terms of Service</a>
+										<a href="/keywords">Keyword Index</a>
 										<a href="/index.php/hct/MrFood-Sponsors">Special Thanks</a>
 										<a href="http://www.mrfood.com/section/this-week">Today's Recipe</a>
+										<a href="/index.php/hct/TV-Show-TV-Markets">Find Us on TV</a>
 										<a href="/section/subctr/action/signup">Subscribe</a>
 										<a href="/section/subctr/">Unsubscribe</a>
 										<a href="/site-map">Site Map</a>
@@ -2150,8 +2283,8 @@ function triggerWiderFunnel(){
 		<table style="margin: 0 auto;">
 			<tbody><tr>
 				<td>
-					<p style="margin: 0 10px;">Mr. Food, OOH IT'S SO GOOD!! and the Mr. Food likeness are trademarks of Ginsburg Enterprises Incorporated.<br>
-© 2012 by Ginsburg Enterprises Incorporated.<br>
+					<p style="margin: 0 10px;">MR. FOOD TEST KITCHEN, the "Mr. Food Test Kitchen" oval, and OOH IT'S SO GOOD!! are trademarks or registered trademarks of Ginsburg Enterprises Incorporated.<br>
+© 2013 by Ginsburg Enterprises Incorporated.<br>
 All rights reserved.<br></p>
 				</td>
 									<td>				<script type="text/javascript" language="JavaScript">
@@ -2364,25 +2497,272 @@ All rights reserved.<br></p>
 
 
 	
-
+<div id="viewportGreyout"></div>
 
 
 
 	
 	<!-- START NL signup div -->
-			<!-- END NL signup div -->
+					
+			<div id="newsletterSignUpDivAnime" style="display: none;">
+				
+				<div id="newsletterSignUpDivAnimeCloseLink">
+					[ <a href="">Close</a> ]
+				</div>
+				
+				<div id="newsletterSignUpAnimeContent">
+						<div id="nscID_63">
+		<img style="display: block; margin: 0 0 25px 0;" src="/site_templates/signup_creative/images/nscID_63/mrfood_dhtml_1_03.jpg" alt="" width="798" height="104">
+		
+		
+		<div>
+		
+			<img style="display: block; margin: 0 auto;" src="/site_templates/signup_creative/images/nscID_63/mrfood_dhtml_1_07.jpg" alt="" width="699" height="297">
+			
+			
+			<table class="newsletterSignUpDivAnimeFormTable" style="width: 699px;">
+				<tbody><tr>
+					<td id="newsletterSignUpDivAnimeFormTD">
+						<form id="newsletterSignUpFormAnime" class="contentBoxPadding newsletterSignUpDivAnimeFormUI" action="/newsletter_signup.php" method="post" style="margin: 0; padding: 0;">
+							<input type="hidden" name="task" value="signup">
+							<input type="hidden" name="PHPSESSID" value="<?php echo session_id();?>">
+										
+	
+							<div style="margin: 0; padding: 0px 0 0 0px;">
+								<img style="margin: 0 auto; vertical-align: middle;" src="/site_templates/signup_creative/images/nscID_63/mrfood_dhtml_1_11.gif" alt="Enter Your Email" width="251" height="33"><input style="width: 200px;" type="text" id="emailAnime" name="email" value="">
+							</div>
+							
+							<div style="margin: 0; padding: 0px 0 0 0px;">
+								<input type="submit" value="Submit for FREE Access">
+							</div>
+	
+	
+						</form><!-- end newsletterSignUpFormAnime -->
+						
+						<h4 id="newsletterSignUpThanksAnime">Thanks for signing up</h4>
+						<h4 id="newsletterSignUpErrorAnime">Sorry, we could not sign you up.</h4>
+					</td>
+				</tr>
+			</tbody></table><!-- end newsletterSignUpDivAnimeFormTable -->
+		
+		</div>
+		
+
+		
+	</div><!-- end nscID_63 -->				</div><!-- end newsletterSignUpAnimeContent -->
+				
+				
+				<div id="newsletterSignUpPrivacyLink">
+					[ <a href="">Privacy Policy</a> ]
+				</div><!-- end newsletterSignUpPrivacyLink -->
+				
+				
+				<div id="newsletterSignUpPrivacyContent" style="display: none;">
+					<p style="margin-bottom: 1.5em">[ <a class="closePrivacyContentLink" href="">Close Privacy Policy</a> ]</p>
+					
+					<p>
+	Privacy Policy / Your California Privacy Rights<br>
+	Revised and posted as of March 4, 2013</p>
+<p>
+	&nbsp;</p>
+<p>
+	Prime Publishing, LLC and Ginsburg Enterprises Incorporated ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.</p>
+<p>
+	This Privacy Policy will tell you, among other things:</p>
+<p>
+	Your California privacy rights.<br>
+	How we collect information and what information we collect.<br>
+	How we may use information.<br>
+	How we may share information.<br>
+	Your choices regarding the sharing of information.</p>
+<p>
+	ACKNOWLEDGEMENT/YOUR AGREEMENT<br>
+	Company websites are not intended for use by individuals under the age of 18 or those who are not legal residents of the United States. By using our website or submitting information to us, you consent to the Company's use and sharing of the information collected or submitted as described in this Privacy Policy. If you are not 18 years of age or older and a valid resident of the United States or you do not agree with the terms of this Privacy Policy, do not provide us with any information or use any of the products or services offered or provided on Company websites or through Company technology.</p>
+<p>
+	YOUR CALIFORNIA PRIVACY RIGHTS<br>
+	Beginning January 1, 2005 under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties please write to us.</p>
+<p>
+	HOW DO WE COLLECT INFORMATION AND WHAT INFORMATION DO WE COLLECT?<br>
+	We collect and combine personally identifiable information ("PII") and non-personally identifiable information ("Non-PII") through various sources, including those discussed below. For your reference, PII is data collected with an intention to specifically identify, contact or locate a person, including but not limited to name, address, telephone number, or e-mail address. Conversely, Non-PII is data that is not used to specifically identify, contact or locate an individual, including but not limited to zip code, gender, age, or IP address.</p>
+<p>
+	Distribution Partners<br>
+	Website operators that license our ad serving technology pass information to us so that we may serve advertisements to you. The information passed may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number, date of birth, and gender.</p>
+<p>
+	Offer Forms<br>
+	We also collect information about you when you complete a survey or offer form on one of our websites or web pages. This information may include, but is not limited to: your e-mail address, name, mailing address, telephone number, date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other personal information or unique preference information you provide to us or our advertisers.</p>
+<p>
+	Website Registration Forms<br>
+	We collect information about you when you register on one of our websites. This registration information may include, but is not limited to your:<br>
+	e-mail address<br>
+	full name<br>
+	mailing address<br>
+	telephone number<br>
+	date of birth<br>
+	gender</p>
+<p>
+	Publisher Partners<br>
+	When you complete a registration or offer form that is hosted by one of our website publisher partners on our behalf, the website publisher partner may submit all or a portion of the information that you submitted on the form to the Company. This information may include, but is not limited to: your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other information you provide to our website publisher partner.</p>
+<p>
+	Marketing Partners<br>
+	We may receive information about you, including but not limited to your IP address, e-mail address, first name, last name, mailing address, and telephone number, from third party marketing partners that provide us with consumer data to manage on their behalf.</p>
+<p>
+	Automatic Information/Digital Identifiers<br>
+	We may automatically receive and store certain types of information about you through the data sources listed above.</p>
+<p>
+	You may be familiar with the term "cookies," which are unique alphanumeric identifiers that store information on your computer. A cookie is placed on your computer when your web browser accesses our website. We use cookies for tracking transactions and the user characteristics explained in detail throughout this Privacy Policy. If you choose, there are utilities available for purchase from independent software providers to install on your computer as well as tools/preferences you can choose through most web browsers to make website visits anonymous. Of course, cookies let you have a more satisfying website experience, so we recommend that you leave them turned on.</p>
+<p>
+	We also collect information through our web server applications. This information includes your Internet Protocol or "IP" address, date/time stamp, browser type, and referring URL.</p>
+<p>
+	Additionally, we may use pixel tracking technology to track the completion of transactions with us or our advertisers, the source information for those transactions, and your IP address, date/time stamp, browser type, and referring URL.</p>
+<p>
+	Government Forms<br>
+	The Company may be required to create, collect, maintain, and submit certain information required by the government, such as IRS Forms W-9 and 1099. This information, which may include your taxpayer identification number, will not be used, shared, transferred, or sold for marketing purposes.</p>
+<p>
+	HOW DO WE USE THIS INFORMATION?<br>
+	We may use the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.</p>
+<p>
+	Ad Serving<br>
+	We may serve advertisements to you based, in part, on your IP address, the demographic and geographic information you submitted to the Company during the website registration process, and other socio-economic information, psychographic information, Internet behavior (i.e., browsing, search, shopping, purchase, and ad response behavior), and lifestyle information about you that we obtain from affiliated entities and from third parties.</p>
+<p>
+	We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://www.networkadvertising.org" target="_blank" title="NetworkAdvertising.org">www.networkadvertising.org</a>.</p>
+<p>
+	Pre-select/Pre-fill Offers<br>
+	Our website technology may pre-select certain offers for you to view based on the demographic and geographic information you submitted to the Company during the website registration process. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during the website registration process in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you.</p>
+<p>
+	Upsell<br>
+	We utilize customized post transactional or "upsell" technology to help advertisers generate sales, while providing you with a series of great offers we think may be of interest to you. The way it works is simple: once you purchase a product or service from one of our reward advertisers, you will be offered additional products or services that we think may be of interest to you. If you elect to purchase products or services from an advertiser in the post transactional channel, we will pass the information that you provided during the initial transaction to the subsequent advertiser, including but not limited to your credit card information. This information pass is done to enhance and simplify your purchasing experience. Your information will only be passed to an advertiser in the post transactional channel after you have elected to purchase their product or service. By electing to purchase their product or service you consent to the passing of your data to the third party advertiser in question.<br>
+	<br>
+	Customer Service and Fulfillment<br>
+	We may use your information to operate the website promotion, service your account and to fulfill rewards earned through Company websites. We may also use your information to verify your identity or claimed account status and, where we consider appropriate, investigate your compliance with the terms and conditions of the website promotion or any advertiser offer. We do retain customer service correspondence.</p>
+<p>
+	Credit Card Preauthorization<br>
+	By submitting your credit card information to us or to one of our advertisers, you are authorizing the Company or its agent to periodically verify that your credit card account is valid and has credit available by charging, and thereafter crediting, a small sum to the card.</p>
+<p>
+	Marketing<br>
+	We may use your information in our online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs please write to us.</p>
+<p>
+	HOW DO WE SHARE INFORMATION?<br>
+	We may share the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.</p>
+<p>
+	Within the Company<br>
+	We may share information we collect with affiliated companies, including our parent company and other subsidiaries of our parent company, for use in their ad serving and marketing programs. This Privacy Policy does not apply to affiliated companies and their collection, use and sharing of information.</p>
+<p>
+	Vendors<br>
+	We may share your information with various third party vendors that are not part of the Company, including but not limited to vendors that provide us with technology to deploy commercial e-mail, vendors that sell the products or services for which you have qualified through one of our websites, and shipping companies that we utilize to ship products to you.</p>
+<p>
+	Advertisers<br>
+	When you participate in an offer by completing a form, we will transfer the information you submitted on the form to the applicable advertiser.</p>
+<p>
+	When you answer "yes" or "no" to a marketing or survey question, some or all of the information that you submitted during the website registration process will be transferred to advertisers that we believe may be of interest to you without providing you with another opportunity to review the information.</p>
+<p>
+	When you select "yes" next to an offer, we will transfer some or all of the information that you submitted during the website registration process to the applicable advertiser without providing you with another opportunity to review the information.</p>
+<p>
+	Ad Serving Companies<br>
+	We may use third party ad networks or ad serving companies to serve advertisements on our websites. We pass information about you to these companies so that they can deliver targeted advertisements that they believe will be of interest to you. The information passed to these companies may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and any other information you provide to us. Web pages that are served by these companies will state that they are "powered by" or "ads by" the applicable company and will contain a link to that company's privacy policy.</p>
+<ul>
+	<li>
+		Google, as a third party vendor, uses cookies to serve ads on our site.</li>
+	<li>
+		Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.</li>
+	<li>
+		Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>.</li>
+</ul>
+<p>
+	Marketing Partners<br>
+	We may share, license or sell your information to third parties for various marketing purposes, including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs write to us.</p>
+<p>
+	Data Enhancement/Appending/Validation<br>
+	We may use third party service providers to enhance our database with additional elements, including but not limited to age ranges present in your household, whether you own or rent a home, the length of time you have lived at your residence, whether you are a mail order buyer or responder, household income, and gender. Further, we may use third party service providers to append telephone numbers to other data points we have in our database. We also may use third party service providers to validate the data we have in our database.</p>
+<p>
+	Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.</p>
+<p>
+	<strong>Third Party Cookies</strong><br>
+	Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.&nbsp;&nbsp; These cookies contain no personally identifiable information.&nbsp; The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <a href="http://www.aboutads.info/choices" target="_blank" title="AboutAds.info/choices">http://www.aboutads.info/choices</a>.</p>
+<p>
+	Governmental Agencies or Other Companies<br>
+	We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.</p>
+<p>
+	We may store and share your information with third parties for suppression or opt-out purposes.</p>
+<p>
+	We also may share your information with third parties when: (1) trying to protect against or prevent actual or potential fraud or unauthorized transactions; (2) investigating fraud that has already taken place; (3) enforcing or applying existing terms and conditions and/or other agreements; (4) protecting the rights, property or safety of our websites, our users or others; or (5) responding to subpoenas, court orders or legal process, or to establish or exercise our legal rights or defend against legal claims.</p>
+<p>
+	In all cases, this information is not provided to these entities or persons for marketing purposes.</p>
+<p>
+	Right to Transfer<br>
+	Should the Company choose to sell or transfer business assets, it is possible that the information we possess may be transferred as part of that transaction. The Company may decide to retain a copy of the information post sale or transfer.</p>
+<p>
+	COMPANY CUSTOMER CHOICES</p>
+<p>
+	Marketing Communications and Unsubscribe Information<br>
+	By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by <a href="http://www.mrfood.com/section/subctr">clicking here</a> and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.</p>
+<p>
+	Request for More Information<br>
+	As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 220, Northbrook, IL&nbsp; 60062.</p>
+<p>
+	WHAT HAPPENS IF I HIT A LINK TO ANOTHER SITE FROM A COMPANY WEBSITE?<br>
+	Our websites may offer links to other websites. Other websites have their own terms of use and privacy and security policies. If you choose to visit one of these sites, you should review the policies that govern that particular site.</p>
+<p>
+	APPLICATION OF THIS PRIVACY POLICY<br>
+	This Privacy Policy applies to all information collected by or submitted to the Company. Other affiliated entities of the Company may obtain information independently from transactions and experiences with you or from other sources. This Privacy Policy does not pertain to that information.</p>
+<p>
+	WHAT IS THE POLICY WITH RESPECT TO COMMUNICATING WITH CHILDREN?<br>
+	We recognize the unique privacy concerns regarding children. We are committed to carefully protecting privacy where children are involved no matter the point of contact. In particular, our intention is to fully comply with the Children's Online Privacy Protection Act ("COPPA"). Per COPPA guidelines, we do not knowingly collect PII from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with PII through any point of contact, click here to contact us and we will delete the information about the child referenced from our files.</p>
+<p>
+	SECURITY<br>
+	There is no such thing as complete security on the Internet or otherwise. The Company uses various security techniques on our websites to help protect against the loss, misuse or modification of information we've collected from you. When you access your personal information or transmit information to us, that information is stored on servers that we have taken steps to protect from unauthorized access or intrusion. While we strive to protect your information, the Company cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with the Company, its partners and affiliates.</p>
+<p>
+	LIMITATION OF LIABILITY<br>
+	YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE TERMS AND CONDITIONS OF THIS WEBSITE (INCLUDING LIMITATIONS ON DAMAGES). YOU AGREE THAT THE COMPANY'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY THE COMPANY TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS.</p>
+<p>
+	&nbsp;</p>					
+					<p style="margin-top: 1.5em">[ <a class="closePrivacyContentLink" href="">Close Privacy Policy</a> ]</p>
+				</div><!-- end newsletterSignUpPrivacyContent -->
+				
+			</div><!-- end newsletterSignUpDivAnime -->
+
+				<!-- END NL signup div -->
 			
 		
 		
 		<!-- START Vibrant code -->
-						<!-- start Vibrant Media IntelliTXT script section -->
-				<script type="text/javascript" src="http://mrfood.us.intellitxt.com/intellitxt/front.asp?ipid=21620"></script>
-				<!-- end Vibrant Media IntelliTXT script section -->
-						
+							<!-- start Vibrant Media IntelliTXT script section -->
+					<script type="text/javascript" src="http://mrfood.us.intellitxt.com/intellitxt/front.asp?ipid=21620"></script>
+					<!-- end Vibrant Media IntelliTXT script section -->
+							
 		<!-- END Vibrant code -->
 		
 		
 				
+		
+		<!-- START Google Remarketing code -->
+						<!-- Google Code for Remarketing tag -->
+				<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+				<script type="text/javascript">
+					/* <![CDATA[ */
+					var google_conversion_id = 997384082;
+					var google_conversion_label = "-P_VCKbV8QQQkr_L2wM";
+					var google_custom_params = window.google_tag_params;
+					var google_remarketing_only = true;
+					/* ]]> */
+				</script>
+				<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+				<noscript>
+					<div style="display:inline;">
+						<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/997384082/?value=0&amp;label=-P_VCKbV8QQQkr_L2wM&amp;guid=ON&amp;script=0"/>
+					</div>
+				</noscript>
+						
+		<!-- END Google Remarketing code -->
+		
+		<!-- START datonics.com -->
+						<script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-132970.js"></script>
+						<!-- END datonics.com -->
+
+		<!-- START swoop -->
+						<script type="text/javascript" id="spxw_script" src="http://ardrone.swoop.com/js/spxw.js" data-domain="SW-57430661-4" data-serverbase="http://ardrone.swoop.com/"></script>
+						<!-- END swoop -->
+
+		
 		
 		<!--<div id="videoTroubleshootDiv" style="margin: 60px 0 0 0; padding: 10px; font-size: .7em;"></div>-->
 		
