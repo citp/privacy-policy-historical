@@ -1,58 +1,84 @@
-> *The following text is extracted and transformed from the brainyquote.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504000234id_/http%3A//www.brainyquote.com/inquire/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainyquote.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607211701id_/http%3A//www.brainyquote.com/inquire/privacy.html) for the most accurate reproduction.*
 
-# BrainyQuote - Privacy
+# BrainyQuote - Privacy Policy
 
-Privacy Policy
+## 1\. Introduction
 
-BrainyQuote respects the privacy concerns of the users of its Internet Sites ("Sites"), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used.
+Thank you for visiting BrainyQuote.com, a site designed to inform, inspire, educate and entertain users all around the globe. This Privacy Policy is written to better explain how we collect and use your information, and to cover our caboose in case you plan to sue us because you don't like how we use information, or you're a person who just doesn't like quotes. This Privacy Policy is a binding contract and you must agree to it to the same extent as our Terms of Service in order to use our services, including submitting quotes to our website. 
 
-Use of Information  
-As a general policy, no personally identifiable information, such as your name or address, is automatically collected from your visit to BrainyQuote. However, certain non-personal information is recorded by the standard operation of BrainyQuote's Internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience. For example, it may be used to tailor content and advertising to your interests.
+## 2\. Personal Information We Collect
 
-In special cases, BrainyQuote may disclose user information when there is reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to, or interference (either intentionally or unintentionally) with, BrainyQuote's rights or property, other BrainyQuote web site users, or anyone else that could be harmed by such activities.
+Good news! You don't have to give us any personal information when you use our website. You may, however, tell us your name and your life story (it's not that we're not interested, and we can't stop you), but please do not share your personal details when you submit a quote to us for consideration. We will not disclose any information that you provide to us except in accordance with the provisions of this Privacy Policy. 
 
-Use of Cookies  
-Cookies are pieces of information that a website transfers to an individual's computer hard drive for record keeping purposes. Cookies are used to track visits to our Sites and to personalize the Sites for new and current subscribers. Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. (Note: you will need to consult the help area of your browser application for instructions.) If you choose to disable your cookies setting or refuse to accept a cookie, some parts of BrainyQuote's web sites may not function properly.
+## 3\. Non-Personal Information We Collect
 
-Use of IP Addresses  
-An IP address is a number that's automatically assigned to your computer by your Internet provider whenever you surf the Web. When you request pages from BrainyQuote Sites, our servers log your IP address. BrainyQuote collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our Site. We may use your IP addresses in cooperation with your Internet provider to identify you if we deem it necessary to enforce compliance with our Terms of Use or to protect our service, Sites, customers, or others.
+We may collect information about you that is not personal information. When you access our website and/or submit a quote, we may collect such things as your IP address, browser, operating system, referring URL, and other general information about our visitors. This information, on its own, cannot usually be used to identify you. 
 
-Links to Other Sites  
-BrainyQuote is not responsible for the content or practices of third party websites that may be linked to our Sites. Our Sites may link to websites operated by other companies; we are not responsible for the privacy practices of such websites. Visitors to these web sites should refer to each web site's respective privacy policies and practices.
+## 4\. Use of Information
 
-Third Party Cookies  
-In the course of serving advertisements to our sites, our third-party advertisers may place or recognize a unique "cookie" on your browser. For additional information on cookies and web beacons, please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
+We may use your information for a wide variety of purposes, including printing physical paper copies of it and turning it into an origami hat (kidding again). Specifically, though, we may let your non-personal information be shared with: 
 
-Please note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or Internet browser, you will need to renew your opt-out choice. Also, if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on this website, but these advertisements may not be as relevant to you.
+  * Our host, whose server logs collect the non-personal information described above.
+  * Google, as a third party vendor, uses cookies to serve ads on our websites. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+  * RadiumOne, which uses cookies to identify anonymous user interests on our websites. You may opt out of the RadiumOne cookie by visiting the [RadiumOne Preference Manager](http://www.radiumone.com/about/opt.html). 
+  * Glam Media, which uses cookies to identify anonymous user interests on our websites. You may opt out of the Glam Media cookie by visiting the [Glam Media Preference Manager](http://www.glammedia.com/about_glam/legal/opt-out/). 
+  * AOL Advertising, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the AOL Advertising cookie by visiting the [AOL Advertising Preference Manager](http://advertising.aol.com/privacy). 
+  * Quantcast, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the Quantcast cookie by visiting the [Quantcast Preference Manager](http://www.quantcast.com/opt-out). 
+  * comScore, Inc. (weird capitalization intentional - but that's how they spell it), which also identifies anonymous user interests on our websites via its Scorecard Research program. You may opt out of this cookie by visiting the [Scorecard Research Preference Manager](http://www.scorecardresearch.com/preferences.aspx). 
+  * Yieldbot, uses cookies to identify anonymous user interests (starting to notice a pattern here?) on our website. You may opt out of this cookie by visiting - wait for it - the [Yieldbot Privacy Policy Opt-out](http://yieldbot.com/privacy-policy.html#opt-out). 
 
-Advertising enables us to provide the rich content that you see on this websites. Our hope is that by presenting ads tailored to your interests, we will enhance your experience on our websites.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) or [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/).
 
-Google, as a third party vendor, uses cookies to serve ads on our websites. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+## 5\. Cookies
 
-RadiumOne, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the RadiumOne cookie by visiting the [RadiumOne Preference Manager.](http://www.radiumone.com/about/opt.html)
+Cookies aren't just delicious; they also apparently have something to do with computers. We use cookies to save your preferences. We also use cookies to track ads and to share information with third parties as described above. Because of this, you should enable your cookies when you use our website. If you're new to the Internet, please don't try dunking your mouse in milk and eating it; this is the Number One complaint we get after users read our Privacy Policy. 
 
-AOL Advertising, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the AOL Advertising cookie by visiting the [AOL Advertising Preference Manager.](http://advertising.aol.com/privacy)
+Think what a better world it would be if we all, the whole world, had cookies and milk about three o'clock every afternoon and then lay down on our blankets for a nap.
 
-Quantcast, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the Quantcast cookie by visiting the [Quantcast Preference Manager.](http://www.quantcast.com/opt-out)
+Barbara Jordan
 
-comScore, Scorecard Research, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the Scorecard Research cookie by visiting the [Scorecard Research Preference Manager.](http://www.scorecardresearch.com/preferences.aspx)
+## 6\. Third Party Websites
 
-Krux Digital, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the Krux Digital cookie by visiting the [Krux Digital Preference Manager.](http://www.kruxdigital.com/krux_privacy/consumer_choice/)
+We may link to third party websites from our own website. We have no control over, and are not responsible for, these third party websites or their use of your personal information. We recommend that, if you have a ridiculous amount of free time (and nothing better to do), you review their privacy policies and other agreements governing your use of their website. Once you do, you should report back to us in a detailed and meticulously proofread memorandum explaining all of these websites, so we may immediately put it to use under that corner of the table that is lower than the rest. 
 
-Security  
-Security for all personally identifiable information is extremely important to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information, BrainyQuote cannot ensure or warrant the security of any information you transmit to us or from our online forms, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
+## 7\. Third Party Access to Your Information
 
-Contact Us  
-If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, you can email us 
+We protect your information from being accessed by third parties using our state of the art laser defense system. Well, not really... we just wanted to use the word "laser" in our Privacy Policy. In truth, we take adequate measures to protect your information. We may employ outside maintenance personnel or use a third party to host our material. Because of this, it is necessary that you permit us to give access to your information to third parties to the same extent that you authorize us to do so. For greater certainty, every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may hire, contract, or hire as an intern for the purpose of operating, maintaining, repairing, or otherwise improving or preserving our website or its underlying files or systems. You agree not to hold us liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their actions, and that you must take legal action against them directly should they commit any tort or other actionable wrong against you. 
 
-Information provided by you via general email inquiries to BrainyQuote such as your email address is used only to respond to your inquiries in the ordinary course of business, and is never shared with third parties.
+## 8\. Law Enforcement
 
-Your Acceptance of These Terms  
-By using BrainyQuote and its Sites, you signify your acceptance of the BrainyQuote Privacy Policy. If you do not agree to this policy, please do not use our Sites. BrainyQuote reserves the right to modify, alter or otherwise update this policy at any time. We encourage visitors to review this policy from time to time. Your continued use of the BrainyQuote Sites following the posting of changes to these terms indicates your acceptance of these changes.
+We may disclose your information to a third party where we believe, in good faith, in bad faith, or in so-so faith, that it is desirable to do so for the purposes of a civil action, criminal investigation, or other legal matter. In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either. Chances are that if the police are looking into your activities on a quote website, you've really got issues, and we're probably going to hand over your information and tell your family and friends. 
 
-Last updated March 30, 2012
+The act of policing is, in order to punish less often, to punish more severely.
 
-Copyright 2001-2012 BrainyQuote.com All Rights Reserved.  
-Do not duplicate or redistribute in any form.
+Napoleon Bonaparte
+
+## 9\. Security of Information
+
+We may, but are not obligated to, secure our website with packs of hungry bunnies; we hope they don't eat your information. However, we make no representations as to the security or privacy of your information. It is in our interest to keep our website secure, but we recommend that you use anti-virus software, firewalls, and other precautions to protect yourself from security threats. (Be the third pig, not one of the first two.) 
+
+## 10\. California Online Privacy Protection Act
+
+We allow California users to use our website, and we fully comply with California's privacy laws. If you have any questions about your rights under this Privacy Policy, please contact us for more information. 
+
+## 11\. Amendments
+
+We may amend this Privacy Policy from time to time, and the amended version will be posted on our website in place of the old version. We will also include the date that the currently displayed Privacy Policy took effect to help you determine whether there have been any changes since you last used our website. Like our Terms of Service, you must visit this page each time you come to our website, and read and agree to it if the date it was last modified is more recent than the last time you agreed to the Privacy Policy. If you do not agree to the new Privacy Policy, you must immediately cease using our service. 
+
+## 12\. Contact
+
+Any inquiries about your rights under this Privacy Policy, or any other matters regarding your privacy, can be sent or directed to email us. 
+
+## 13\. Terms of Service
+
+To review the BrainyQuote Terms of Service, please click [here](https://web.archive.org/inquire/terms.html). 
+
+## 14\. Thanks
+
+We hope you have enjoyed reading our fascinating Privacy Policy. We are not sure why you have so much time on your hands, but congratulations on your life of leisure. Quiz coming soon! 
+
+**Last updated:** March 9, 2013
+
+Copyright 2001 - 2013 BrainyQuote.com All Rights Reserved. 
+
+Do not duplicate or redistribute in any form. We paid a lot to make this privacy policy fun, exciting, enjoyable, and memorable for our readers \- so go make your own! 
