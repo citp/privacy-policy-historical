@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stattrek.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221144842id_/http%3A//stattrek.com/site/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stattrek.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607192815id_/http%3A//stattrek.com/site/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,4 +26,4 @@ We use third-party advertising companies to serve ads when you visit our website
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
-If you have any questions about our privacy policy, please feel free to [ contact us](https://web.archive.org/web/20121221144842id_/http%3A//stattrek.com/site/StatTrekContactUs.aspx). 
+If you have any questions about our privacy policy, please feel free to [ contact us](https://web.archive.org/web/20130607192815id_/http%3A//stattrek.com/site/StatTrekContactUs.aspx). 
