@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bundlestars.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206111447id_/http%3A//www.bundlestars.com/about/privacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bundlestars.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607114541id_/http%3A//www.bundlestars.com/about/privacy-and-terms) for the most accurate reproduction.*
 
 # Bundle Stars - Privacy and Terms
 
-[](https://web.archive.org/)
+[](https://web.archive.org/) [ ](https://web.archive.org/deals/lucius-steam/)
 
   * [Checkout](https://web.archive.org/user/checkout/)
   * [Basket](https://web.archive.org/user/basket/)
@@ -11,6 +11,8 @@
   * [Blog](https://web.archive.org/about/news/)
   * [About Us](https://web.archive.org/about/about-us/)
   * [How it Works](https://web.archive.org/about/how-to-download/)
+  * [Deals](https://web.archive.org/deals/)
+  * [All Bundles](https://web.archive.org/all-bundles/)
   * [Home](https://web.archive.org/)
 
 
@@ -144,4 +146,25 @@ If you have any questions about this privacy policy or our treatment of your per
 
 The data controller responsible in respect of the information collected on this website is Focus Multimedia Limited (UK).  
 Our data protection registration number is Z6755854.  
+
+
+  * [ R50
+
+The Bundle Includes:  
+Section 8, The First Templar Steam Special Edition, Legendary, Dream Pinball 3D, Disciples III: Resurrection, Insecticide, Tropico Trilogy (3 games in 1), Imperium Romanum: Gold Edition, SpaceChem, Dino D-Day 
+
+](https://web.archive.org/all-bundles/bundle-eight/) [](https://web.archive.org/all-bundles/bundle-eight/)
+  * [  
+
+The Bundle Includes:  
+Shattered Horizon, Two Worlds II, Nuclear Dawn, Two Worlds II - Castle Defense, Planets Under Attack, Iron Grip: Warlord, Holy Avatar vs. Maidens of the Dead, Ion Assault, X-Blades 
+
+](https://web.archive.org/all-bundles/bundle-seven/) [](https://web.archive.org/all-bundles/bundle-seven/)
+  * [  
+
+The Bundle Includes:  
+StarDrone + OST, Jazz: Trumps Journey, Crash Time 2, Still LIfe, Still LIfe 2, Chrome, Vigil: Blood Bitterness, Tank Universal, Syberia, Syberia 2 
+
+](https://web.archive.org/all-bundles/bundle-five/) [](https://web.archive.org/all-bundles/bundle-five/)
+
 
