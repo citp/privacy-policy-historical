@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amny.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211034316id_/http%3A//www.amny.com/amny-com-privacy-policy-1.2336335) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amny.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607021628id_/http%3A//www.amny.com/amny-com-privacy-policy-1.2336335) for the most accurate reproduction.*
 
 # amNY.com Privacy policy
 
@@ -44,7 +44,7 @@ Newsday does not knowingly collect or solicit Personally Identifiable Informatio
 We can be reached by contacting:   
 amNY  
 240 West 35th Street,   
-N.Y., NY 10009   
+N.Y., NY 10001   
 or amny@amny.com 
 
 **Changes to this policy.  
