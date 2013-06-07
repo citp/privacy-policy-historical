@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkgarden.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205003609id_/http%3A//www.inkgarden.com/Content.aspx%3FPage%3DPrivacy%2BPolicy%26PK%3Db53baa0c-0d18-475c-badd-01a19bc5eaeb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkgarden.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607201619id_/http%3A//www.inkgarden.com/Content.aspx%3FPage%3DPrivacy%2BPolicy%26PK%3Db53baa0c-0d18-475c-badd-01a19bc5eaeb) for the most accurate reproduction.*
 
 # InkGarden - Take Customization To The Next Level - InkGarden.com Privacy Policy
 
