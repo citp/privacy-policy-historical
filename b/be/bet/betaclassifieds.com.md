@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the betaclassifieds.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112185518id_/http%3A//www.betaclassifieds.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betaclassifieds.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607091452id_/http%3A//www.betaclassifieds.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# India, Asia - BetaClassifieds
+# BetaClassifieds
 
 **Your Privacy**  
 We respect your privacy. We only use the information we collect about you to process orders and to provide a personalized shopping experience. 
