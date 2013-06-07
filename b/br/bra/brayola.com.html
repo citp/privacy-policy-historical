@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the brayola.com privacy policy that was archived on 2012-10-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121003031614id_/http%3A//brayola.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brayola.com privacy policy that was archived on 2013-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130607194149id_/http%3A//brayola.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>  
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
 <!--[if lt IE 9]>
 <script>
 document.createElement('header');
@@ -24,21 +25,20 @@ document.createElement('hgroup');
 var mydrawer = false;
 
 var user = {id: null, connected:false, guest: false};
-var live = true;
+
+user.country = '';
+    var live = true;
 var fbi = {appId: 135735569869732};
 </script>
 
-<link href="/static/css/css.2.25.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/static/bootstrap/css/bootstrap.2.25.css" media="screen" rel="stylesheet" type="text/css">
-
-
-
-
+<link href="/static/css/css.4.67.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/static/bootstrap/css/bootstrap.4.67.css" media="screen" rel="stylesheet" type="text/css">
 
 <!--[if lt IE 9]>
 <link href="/static/css/ie.css" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
-<title>brayola | Privacy policy</title>
+
+<title>Privacy policy</title>
 
 <link rel="icon" href="/static/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/static/favicon.ico" type="image/x-icon">
@@ -58,19 +58,9 @@ var fbi = {appId: 135735569869732};
 
 </script>
 
-<script type="text/javascript">
-    // enable XHR wrapper
-    window.ClickTaleSettings = { XHRWrapper: { Enable: true} };
-</script>
-<script type="text/javascript">
-    document.write(unescape("%3Cscript%20src='" +
-(document.location.protocol == 'https:' ?
-  'https://clicktale.pantherssl.com/' :
-  'http://s.clicktale.net/') +
-"XHRWrapper.js'%20type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://clicktale.pantherssl.com/XHRWrapper.js" type="text/javascript"></script>
 
-
+<script type="text/javascript">var switchTo5x=true;</script>
+<!--<script type="text/javascript">stLight.options({publisher: "31572814-bf37-4981-a217-5ce580ddd1e7"});</script>-->
 
 </head>
 <body>
@@ -78,18 +68,19 @@ var fbi = {appId: 135735569869732};
 <div id="fb-root"></div>
 
 <div class="container">
+    <div class="bb"></div>
     <div id="current_bra"></div>
     <header>
        <style>
 
 
 body{
-  background: url('/static/layout/images/header_pattern.jpg') repeat-x;
+ <!-- background: url('/static/layout/images/header_pattern.jpg') repeat-x;-->
 }
 
 header{
-  height: 132px;
-  margin-bottom: 10px;
+  height: 90px;
+  margin-bottom: 0px;
 }
 
 header li {
@@ -99,56 +90,78 @@ header li {
 </style><style>
     #search{
   position: absolute;
-  right: 360px;
-  top: 43px;
+  right: 363px;
+  top: -1px;
 }
-
+.shoppingbag {
+    position: absolute;
+    right: 0px;
+    top: 10px;
+}
 #search label{
   overflow: hidden;
 }
+
 </style>
-        <div style="float: right;">
-            <fb:like href="http://www.facebook.com/brayolaShop" [^]="" show_faces="false" font="arial" width="90px" data-layout="button_count"></fb:like>
+       <!-- <div class="shoppingbag"  valign='bottom'>
+           <a  style="font-size:11px;color:#000000"  href="/shoppingbag"><img src="/static/layout/images/bag_new.png" width="23" height="27" title="Shopping Bag" alt="Shopping Bag " /> shopping bag</a>
+       </div> -->
+       <div class="first_menu">
+     <!--  <div class="menuItem">Points</div>
+//       <div style="right: 280px;" class="menuItem">Wishes</div>-->
+        <div class="log_header"><span class="join_now member" style="font-size:16px;font-weight:normal">Join</span>/<span class="sign_in" member"="" style="font-size:16px;font-weight:normal">Login</span> </div>
+        <div class="fbwrapper" style="float: right;">
+        <fb:like href="https://www.facebook.com/pages/Brayola-Community/310269675755480" [^]="" show_faces="false" font="arial" width="90px" data-layout="button_count"></fb:like>
         </div>
-        <span class="sign_in member">already a brayola member?</span> 
-        
-        <a href="/" class="logo">brayola logo</a>
         <div id="search">
         <form method="get" action="/search"> 
-            <input type="text" name="text" placeholder="search for bras" value="" style="width: 200px;line-height: 22px;height: 22px;z-index: 1;">
-            <input type="submit" id="go" value="go">
+        <input type="submit" id="go" value="go">
+            <input id="searchbra" type="text" name="text" placeholder="Search Bras..." value="" style="">
+            
         </form>
+        </div>
+       </div>
+        <div class="second_menu">
+        <ul class="nav_ul">
+       <div class="logo_holder"><a href="/" class="logo">brayola logo</a></div> 
+           <li style="margin-right:0px"><div class="nbutton addbraTopli">Add a Bra</div></li>
+           <li><a class="wfb" href="/campaigns/win-a-free-bra-june-2013">Win a Free Bra</a></li>
+            <li><div class="my_d_nl"><a id="fitornot" href="/fitornot">Fit or Not</a></div></li>
+            <li><div class="my_d_nl addNewbBra">My Profile</div></li>
+            <li><div class="my_d_nl_l"><a href="/">My Shop</a></div> </li>
+        </ul>
         </div>    </header>
+          <div style="margin-top: 10px" class="header_border"></div>
+        <div style="display:none;position: relative;top:-20px" class="header_border"></div>
 
 
 
     <div id="connectDialog">
     <div class="content" style="margin-bottom: 10px;">
-
         <div class="loginPanel panel">
-            <div style="font-weight:bold; margin-bottom: 10px;text-align: center; margin-right: 20px;" class="caption"> save your drawer &amp; join brayola</div>
+            <div class="loginHead">Login to Brayola</div>
 <!--            <div style="text-align: left;margin-bottom: 10px;">
                 not a member yet? <a href="#" class="join_now">join now</a>
             </div>-->
             <form id="LoginForm" enctype="application/x-www-form-urlencoded" class="LoginForm" action="/user/account/login" method="post">
                 <p class="error"></p>
                 <ul>
-                    <li>sign in</li>
+                    <li style="margin:25px 0;font-size: 22px;">Login</li>
                     <li class="dontshowme"><input type="text" name="dontshowme"></li>
                     <li class="nickname">
-                        <input type="email" name="email" id="email" class="validate[required]" placeholder="email / brayola secret name">
+                        <input type="email" name="email" id="email" class="validate[required]" placeholder="Email / Brayola username">
                     </li>
 
                     <li class="password">
-                        <input type="password" name="password" id="password" class="validate[required]" placeholder="password">
+                        <input type="password" name="password" id="password" class="validate[required]" placeholder="Password">
                     </li>
                         
                     <li class="rememberme">
-                        <label class="checkbox">
-                            <input type="checkbox" id="rememberme" name="rememberme" value="true" style="position: absolute;left: -9999px;">
-                            <div class="box" style="display: block;margin: 0 5px 0 0;"></div>
-                            <div class="label" style="font-size: 12px;font-weight: bold;line-height: 13px;">
-                            remember me
+                        <label class="checkbox checked">
+                            <input type="checkbox" id="rememberme" name="rememberme" checked="checked" value="true" style="position: absolute;left: -9999px;">
+                            <div class="box" style="display: block;margin: -3px 5px 0 0;"></div>
+                            <div class="label" style="font-size: 14px;line-height: 15px;font-weight: normal">
+                            Remember Me
                             </div>
                             <a href="#" class="forgotpasslink">I forgot my password</a>
                         </label>
@@ -156,18 +169,22 @@ header li {
                     <li>
                         
 
-                        <div class="button plus submit" style="float: left;">sign in</div>
-                        <div style="float: right; margin-bottom: 10px; margin-top: 13px; font-size: 11px;">
-                            not a member yet? <a href="#" class="join_now">sign up</a>
+                        <div class="nbuttonsignin nbutton submit" style="float: left;height: 28px;">Sign In</div>
+                        <div style="float:left; margin-bottom:0px; margin-top: 40px; font-size: 13px;">
+                            Not a member yet? <a href="#" class="join_now">Sign Up</a>
                         </div>
                     </li>
                 </ul>
                 <ul>
-                    <li>or use</li>
-                    <li><div class="button facebook fbconnect">connect with facebook</div></li>
-                    <li><div class="button google">connect with google</div></li>
-                    <li style="font-size: 11px; font-weight: bold; width: 210px;">
-                            girls, only for log in purposes everything remains private
+                    <li style="margin:25px 0;font-size: 22px;">or Connect with</li>
+                    <li>
+                        <div class="nbutton facebook fbconnect" style="height: 42px;top:0px;width: 260px;padding-left: 0px !important"><span>Connect with Facebook</span><div class="facebookicon"></div></div>
+                </li>
+                <li>
+                    <div class="nbutton google" style="height: 42px;top:0px;width: 260px;padding-left: 0px !important"><span>Connect with Google</span><div class="gborder"></div><div class="gbordercont"></div>
+                </div></li>
+                    <li style="font-size: 13px; width: 235px;margin-top: 10px">
+                            We use social connections for login purposes only. 
                     </li>
 
                 </ul>
@@ -179,42 +196,43 @@ header li {
         </div>
         
         <div class="sign_upPanel panel">
-            <div style="font-weight:bold; margin-bottom: 10px;text-align: center; margin-right: 20px;" class="caption"> save your drawer &amp; join brayola</div>
+<!--        <div style="text-align: center; margin-right: 20px;margin-bottom:10px;">step 2 of 2 to get your personal bra shop!</div>-->
+            <div class="zomaar loginHead" style="font-size: 30px;margin-bottom:15px;margin-top:10px"> Create your account to discover perfect bras that fit you </div>
             <form id="RegisterForm" enctype="application/x-www-form-urlencoded" class="RegisterForm" action="/user/account/register/" method="post">
                 <input style="display: none;" type="hidden" class="preGuest" name="preGuest" value="">
             <p class="error"></p>    
             <ul>
-                <li>sign up</li>
+                <li style="margin:25px 0;font-size: 22px;">Sign Up</li>
                 <li class="dontshowme"><input type="text" name="dontshowme"></li>
                 <li class="nickname">
-                    <input type="text" name="nickname" id="anickname" class="validate[required,ajax[userAvailability]]" placeholder="choose your secret name">
+                    <input type="text" name="nickname" id="anickname" class="validate[required,ajax[userAvailability]]" placeholder="Choose your username">
                     <div class="nickname_available icon"></div>
                     <div class="tiny_spinner icon"></div>
                 </li>
                 <li class="email">
-                    <input type="email" name="email" id="aemail" class="validate[required,custom[email],ajax[emailAvailability]]" placeholder="email@address.com">
+                    <input type="email" name="email" id="aemail" class="validate[required,custom[email],ajax[emailAvailability]]" placeholder="Email@address.com">
                     <div class="nickname_available icon"></div>
                     <div class="tiny_spinner icon"></div>
                 </li>
                 <li class="password">
-                    <input type="password" name="password" id="password2" class="validate[required,minSize[6],maxSize[24]]" placeholder="password">
+                    <input type="password" name="password" id="password2" class="validate[required,minSize[6],maxSize[24]]" placeholder="Password">
                     <div class="tiny_spinner icon"></div>
                 </li>
                 <li>
-                    <div class="button plus submit" style="float: left;">join now</div>
-                    <div style="float: right; margin-bottom: 10px; margin-top: 13px; font-size: 11px;">
-                        already a member? <a href="#" class="sign_in">sign in</a>
+                    <div class="nbuttonsignin nbutton submit" style="float: left;height: 28px;margin-top:0px">Join Now</div>
+                    <div style="float: left; margin-bottom: 10px; margin-top: 40px; font-size: 13px;">
+                        Already a member? <a href="#" class="sign_in">Log in</a>
                     </div>
                 </li>
             </ul>
             <ul>
-                <li>or use</li>
+                <li style="margin:25px 0;font-size: 22px;">or Connect with</li>
                 <li>
-                    <div class="button facebook fbconnect">connect with facebook</div>
+                    <div class="nbutton facebook fbconnect" style="height: 42px;top:0px;width: 260px;padding-left: 0px !important;"><span>Connect with Facebook</span><div class="facebookicon"></div></div>
                 </li>
-                <li><div class="button google">connect with google</div></li>
-                <li style="font-size: 11px; font-weight: bold; width: 210px;">
-                        girls, only for log in purposes everything remains private
+                <li><div class="nbutton google" style="height: 42px;top:0px;width: 260px;padding-left: 0px !important;"><span>Connect with Google</span><div class="gborder"></div><div class="gbordercont"></div></div></li>
+                <li style="font-size: 13px; width: 235px;margin-top: 10px">
+                          We use social connections for login purposes only.  <br><br><b>We don't share your info - only you can share it.</b>
                 </li>
 <!--                <li style="display:none">
                     <span id="skip"> skip for now </span>
@@ -224,37 +242,51 @@ header li {
             </form>
             
             <div class="suretoclose">
-                <p style="font-size:15px;margin-bottom: 20px;">
-                    <b>are you sure you don't want to save your drawer?</b><br>If you don't save your brayola drawer all the bras you've added will be lost
+                <div style="font-weight:bold; margin-top: -10px;margin-right: 20px;margin-bottom: 20px;"> look what you'll <span style="color:#FF13A6;">miss out</span> on if you don't register:</div>
+                <p>
+                    1. Free "Perfect Match" bra suggestions<br>
+                    2. Chat with women just like you<br>
+                    3. Special offers on bras that fit you<br><br>
+                </p>
+                <p>
+                    Have we convinced you to join?<br><br>
+                </p>
+                <div class="dono" style="text-decoration: underline; cursor: pointer; float: left; margin-right: 20px; color: #ff13a6;">yes, I want to register</div>
+                <div class="doyes" style="text-decoration: underline; cursor: pointer; float: left; color: #ff13a6;">no, not interested</div>
+
+<!--                <p style="font-size:15px;margin-bottom: 20px;">
+                    <b>are you sure you don't want to save your drawer?</b><br/>If you don't save your brayola drawer all the bras you've added will be lost
                 </p>
                 <ul>
                     <li>
                         <div class="doyes" style="text-decoration: underline; cursor: pointer; float: left; margin-right: 20px; color: #ff13a6;">yes I'm sure</div>
                         <div class="dono" style="text-decoration: underline; cursor: pointer; float: left; color: #ff13a6;">cancel</div>
                     </li>
-                </ul>
+                </ul>-->
             </div>
 
 
         </div>
 
 
+            <div class="youtubePanel" style="margin-top:20px">
 
+            </div>
 
         <div id="forgotpass" class="panel forgotpassPanel">
             <div class="content">
                 <form action="/user/account/forgotpassword/">
                 <ul>
                     <li>
-                        <p style="padding-top: 14px;">enter your email and we'll reset your password</p>
+                        <p style="padding-top: 14px;font-size: 17px">Enter your email and we'll reset your password</p>
                     </li>
                     <li class="email">
-                        <p class="error">invalid email address</p>
-                        <input type="email" id="forgotpassemail" name="email" class="validate[required,custom[email]]" placeholder="email@address.com">
+                        <p class="error">Invalid email address</p>
+                        <input type="email" id="forgotpassemail" name="email" class="validate[required,custom[email]]" placeholder="Email@address.com">
                     </li>
                     <li>
-                        <div class="send button submit">         
-                                send
+                        <div style="top:0px;width:92px;height:30px;line-height:30px" class="send nbutton submit">         
+                                Send
                         </div>
                     </li>
                 </ul>
@@ -263,10 +295,10 @@ header li {
             </div>
 
             <div class="thankyou">
-                <p style="font-size:15px">an email has been sent to you with a link to reset your password</p>
+                <p style="font-size:15px">An email has been sent to you with a link to reset your password</p>
             </div>
             <div class="nouser" style="padding-left:80px">
-                <p style="font-size:15px">the email entered is not registered</p>
+                <p style="font-size:15px">The email entered is not registered</p>
             </div>
             
         </div>
@@ -275,27 +307,48 @@ header li {
         
         <div class="cfybPanel panel">
             <div class="content">
-                <div style="font-weight:bold; margin-bottom: 10px;">cant find your bra?</div>
+                <div style="font-weight:bold; margin-bottom: 10px;text-align:center;font-size:17px">Cant find your bra?</div>
             <form action="/user/drawer/cantfindyourbra/">
             <ul>
                 <li>
-                    <p>describe the bra you love to wear, so we can add it to our database!</p>
+                    <p style="width:350px;margin-bottom:10px;">  Tell us about your bra. If you're not sure you can leave boxes empty!</p>
                 </li>
-
                 <li>
-                    <textarea name="msg" class="text" rows="1" tabindex="-1" cols="10" placeholder="tell us details such as brand, model, name and size"></textarea>
+                     <span class="cfyspan">
+                        Brand Name
+                    </span>
+                  <span class="label1"><input type="text" name="cfb_brand_name" id="cfb_brand_name" class="cfyinput" placeholder="eg, Victoria's Secret"></span>
+                </li>
+                <li>
+                    <span class="cfyspan">
+                        Bra Name    
+                    </span>
+                    <span class="label1"><input type="text" name="cfb_bra_name" id="cfb_bra_name" class="cfyinput" placeholder="eg, BombShell / 125422"></span>
+                    
+                </li>
+                <li>
+                     <span class="cfyspan">
+                       Size
+                    </span>
+                   <span class="label1"><input type="text" name="cfb_bra_size" id="cfb_bra_size" class="cfyinput" placeholder="eg, 32D"></span>
+                </li>
+                <li>
+                    <textarea style="width:361px;" name="msg" class="text" rows="1" tabindex="-1" cols="10" placeholder="Any extra information that you think will help us find your bra...write here!"></textarea>
                 </li>
                             <li>
                     <p class="email" style="clear: both;margin-top: 10px; display: block; ">
-                        enter your email address and we'll get back to you!
+                      
                     </p>
                 </li>
                 <li class="email">
+                    
                     <p class="error">Invalid email address</p>
-                        <input type="email" class="email" name="email" value="" placeholder="email@address.com" style="display: inline-block; ">
+                    <p style="text-align:left">Enter your email address and we'll get back to you!</p>
+                    <br>
+                        <input style="width:361px" type="email" class="email" name="email" value="" placeholder="email@address.com">
                 </li>
                             <li>
-                    <div class="send button submit">
+                    <div style="float:right;margin-right:9px;top:0px;width:80px;height:30px;line-height:30px" class="send nbutton submit">
                         send
                     </div>
                 </li>
@@ -311,21 +364,63 @@ header li {
                 
         </div>
         
+         <div class="bylwPanel panel">
+            <div class="content">
+                <div style="font-weight:bold; margin-bottom: 10px;text-align:center;font-size:17px">Don't have a bra you love?</div>
+            <form action="/user/drawer/donthavebrayoulove/">
+            <ul>
+                <li>
+                    <p style="width:400px;margin-bottom:10px;">
+            Don't worry you're not alone. Just tell us about bras you have tried, what you like and don't like. With the help of our experts we will find you a bra to love soon enough!  </p>
+                </li>
+                <li>
+                    <textarea style="width:400px;" name="msg" class="text" rows="1" tabindex="-1" cols="10" placeholder="Write here anything that you think will help our experts. 
+e.g bras you've tried, what you like (underwire, padding etc) "></textarea>
+                </li>
+                            <li>
+                    <p class="email" style="clear: both;margin-top: 10px; display: block; ">
+                      
+                    </p>
+                </li>
+                <li class="email">
+                    
+                    <p class="error">Invalid email address</p>
+                    <p style="text-align:left">Enter your email address and we'll get back to you!</p>
+                    <br>
+                        <input style="width:400px" type="email" class="email" name="email" value="" placeholder="email@address.com">
+                </li>
+                            <li style="width: 400px">
+                    <div style="float:right;margin-right:9px;top:0px;width:80px;height:30px;line-height:30px" class="send nbutton submit">
+                        send
+                    </div>
+                </li>
+            </ul>
+            </form>
+            </div>
+                
+            <div class="thankyou">
+                <p style="font-size:15px;margin-bottom: 20px; margin-top: 10px;">
+                    Thanks for telling us! One of our experts will email you soon!
+                </p>
+            </div>
+                
+        </div>
+        
         <div class="pickSecretNamePanel panel">
             <div class="content">
-                <div style="font-weight:bold; margin-bottom: 10px;">pick a secret name</div>
+                <div style="font-weight:bold; margin-bottom: 10px;">Choose your username</div>
             <form action="/user/account/picksecretname">
                 <input style="display: none;" type="hidden" class="preGuest" name="preGuestPickName" value="">
             <ul>
                 <li>
                     <p class="email" style="clear: both;margin-top: 10px; display: block; ">
-                    <input type="text" name="nickname" id="anickname2" placeholder="choose your secret name">
+                    <input type="text" name="nickname" id="anickname2" placeholder="Type username here">
                     </p><div class="nickname_available icon"></div>
                     <p></p>
                 </li>
 
                 <li>
-                    <div class="send button submit">
+                    <div style="top:0px;width:92px;height: 30px;line-height:30px" class="send nbutton submit">
                         send
                     </div>
                 </li>
@@ -346,19 +441,19 @@ header li {
                     <p class="error"></p>
                     <ul>
                         <li style="margin-top: 20px; font-size: 20px;">
-                            want to win a <span style="color: #ff13a6;">free bra &amp; panty set?</span><br>
-                            invite your <span style="color: #ff13a6;" title="best friend forever">BFF</span> to join brayola<br>
+                            Want to win a <span style="color: #ff13a6;">free bra &amp; panty set?</span><br>
+                            Invite your <span style="color: #ff13a6;" title="best friend forever">BFF</span> to join brayola<br>
                         </li>
-                        <li class="nickname" style="width: 400px;">
+                        <li class="nickname" style="width: 450px;">
                             <div style="float: left; width: 243px; margin-top: 30px; font-size: 14px;">
-                                <input style="width: 100%;" placeholder="enter your best friend's email" type="email" name="email" id="bffemail" class="validate[required,custom[email]]">
-                                <div style="margin-top: 10px;" class="button submit">send invitation</div>
+                                <input style="width: 100%;" placeholder="Enter your best friend's email" type="email" name="email" id="bffemail" class="validate[required,custom[email]]">
+                                <div class="nbutton submit" style="top:15px;height: 30px; width: 160px;line-height: 30px ;font-size: 18px;">Send Invitation</div>
                                 <div style="clear: both;">&nbsp;</div>
                             </div>
-                            <img style="float: left;" src="/static/index/images/brayola-gifts.png" width="150" height="167" title="" alt="">
+                            <img style="float:right;" src="/static/index/images/brayola-gifts.png" width="150" height="167" title="" alt="">
                         </li>
                         <li>
-                            <span class="cancelFriendInvite">don't show me this message</span>
+                            <span class="cancelFriendInvite">Don't show me this message again</span>
                         </li>
                     </ul>
                 </form>
@@ -369,7 +464,7 @@ header li {
                     You have now been entered into the lucky draw :) 
                 </li>
                 <li>
-                    <div class="inviteDoneClose" style="height: 30px; width: 250px; font-size: 18px;">continue shopping</div>
+                    <div class="inviteDoneClose" style="height: 30px; width: 250px; font-size: 18px;">Continue Shopping</div>
                 </li>
             </ul>
         </div>
@@ -381,11 +476,13 @@ header li {
 
     </div>
 </div>
-<script type="text/javascript">var version = '?ver=2.25';</script>
+<script type="text/javascript">var version = '?ver=4.67';</script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="/static/general.min.2.25.js"></script>
-
-    <style>
+<script type="text/javascript" src="/static/general.min.4.67.js"></script>
+    
+ <div class="pages_zigzag">
+    <div id="content_holder" style="width:1008px;margin:0px auto;background:white;padding:10px;padding-bottom: 22px;;display:table;position: relative">
+        <style>
     
     h1{
         text-align: center;
@@ -548,8 +645,12 @@ Cookies are small files that are stored on your computer. We use cookies to help
 
 <p>
     Brayola reserves the right to change this privacy statement at any time, but will alert you that changes have been made by indicating at the top of the privacy statement the date it was last updated. We encourage you to review our privacy statement to make sure you understand how your information will be used. If there is ever a material change to how we use your information and the new uses are unrelated to uses we disclose in this statement, we will communicate the changes in advance.
-</p>
-    <div id="push"><!--//--></div>
+</p>    </div>
+</div>
+</div>
+<div class="pages_zigzag_bottom"></div>
+
+<!--    <div id="push">//</div>-->
 
 <!-- Google Code for Visitor Remarketing List -->
 <script type="text/javascript">
@@ -568,10 +669,6 @@ var google_conversion_value = 0;
 </div>
 </noscript>
 
-</div>
-
-
-
 
 
 <footer>
@@ -579,7 +676,7 @@ var google_conversion_value = 0;
 
 <!--        <div class="row">
             <div class="span12">
-                <fb:like href="http://www.facebook.com/brayolaShop" show_faces="true" font="arial" width="960px"></fb:like>
+                <fb:like href="https://www.facebook.com/pages/Brayola-Community/310269675755480" show_faces="true" font="arial" width="960px"></fb:like>
             </div>
         </div>-->
 
@@ -591,63 +688,88 @@ var google_conversion_value = 0;
 
 
         <div class="row">
-            <div class="links span12">
+            <div class="links">
                 <div class="row">
-                    <div class="span3">
-                            <div>get to know us</div>
-                            <div><a href="/aboutus">about us</a></div>
-                            <div><a href="/howitworks">how it works</a></div>
-                            <div><a href="http://blog.brayola.com" target="_blank">our blog</a></div>
-                            <div><a href="/jobs">jobs</a></div>
+                    <div class="w33">
+                            <div class="w33s">Get to Know Us</div>
+                            <div><a href="/aboutus">About Us</a></div>
+                            <div><a href="/howitworks">How it Works</a></div>
+                            <div><a href="http://blog.brayola.com" target="_blank">Our Blog</a></div>
+                            <div><a href="/jobs">Jobs</a></div>
+                            <div style="margin-top:35px;">
+                                <div class="social_bg">
+                                    <div><a alt="twitter" title="twitter" target="_blank" href="http://twitter.com/brayolaShop"><img alt="twitter" title="twitter" width="45" src="/static/index/images/twitter_s.png"></a></div> 
+                                    <div><a alt="pinterest" title="pinterest" target="_blank" href="http://pinterest.com/brayola/"><img alt="pinterest" title="pinterest" width="45" src="/static/index/images/pinterest_s.png"></a></div> 
+                                    <div><a alt="facebook" title="facebook" target="_blank" href="http://www.facebook.com/pages/Brayola-Community/310269675755480"><img alt="facebook" title="facebook" width="45" src="/static/index/images/facebook_s.png"></a></div> 
+                                    <div><a alt="tumbler" title="tumbler" target="_blank" href="http://brayola.tumblr.com/"><img alt="tumbler" title="tumbler" width="45" src="/static/index/images/tumbler_s.png"></a></div> 
+                                </div>
+                            </div>       
                     </div>
-                    <div class="span3">
-                            <div>things to know</div>
-                            <div><a href="/points">brayola points</a></div>
+
+                    <div class="w33">
+                            <div>Things to Know</div>
+                            <div><a href="/sales">Hot Sales</a></div>
+                            <div><a href="/points">Brayola Points</a></div>
+<!--                            <div><a href="/returns">Return / Exchange</a></div>-->
+
                             <div><a href="/sportsbrasdd">FAQ - sports bras for DD+</a></div>
-                            <div><a href="/brands">brand list</a></div>
-                                                    <div><a href="/campaigns/win-a-free-bra">win a free bra</a></div>
-                                                    <div><a href="/recent-bra-comments">recent bra comments</a></div>
+                            <div><a href="/brands">Brand List</a></div>
+                            <div><a href="/styles">Bra Styles</a></div>
+<!--                        php if ( !$this->loggedIn ) { ?>
+                            <div><a href="/campaigns/win-a-free-bra">Win a Free Bra</a></div>
+                        php } ?>-->
+                            <div><a href="/recent-bra-comments">Recent Bra Comments</a></div>
+<!--                             <div><a href="/campaigns/studentrate">studentrate</a></div>-->
                     </div>
-                    <div class="span3">
-                            <div>we would love to help</div>
-                            <div><a href="/pinkconnection">pink connection</a></div>
+                    <div class="w33">
+                            <div>We Would Love to Help</div>
+                            <!--<div><a href="/pinkconnection">pink connection</a></div>-->
                             <div><a href="mailto:support@brayola.com" id="giveGift">support@brayola.com</a></div>
-                            <div><a href="/men">men, just for you...</a></div>
-                            <div><a href="http://answers.brayola.com" target="_blank">brayola answers</a></div>
+
+                            <div><a href="/men">Men, just for you...</a></div>
+                            <div><a href="/privacy">Privacy Policy</a></div>
+                            <div><a href="/terms">Terms</a></div>
+                            <div style="margin-top: 55px;"><a style="background: none;color:black;padding-left:0px;text-decoration:none" href="/user/account/logout">©</a>
+                                    2013 brayola.com   </div>
+
+                            <!--<div><a href="http://answers.brayola.com" target='_blank'>brayola answers</a></div>-->
                     </div>
-                    <div class="span3">
-                            <div>follow us</div>
-                            <div><a href="https://twitter.com/brayolaShop" target="_blank">twitter</a></div>
-                            <div><a href="http://www.facebook.com/brayolaShop" target="_blank">facebook</a></div>
-                            <div><a href="http://pinterest.com/brayola/" target="_blank">pinterest</a></div> 
-                            <div><a href="http://www.tumblr.com/blog/brayola" target="_blank">tumblr</a></div>
-                    </div>                   
+                </div>
+                <div style="top: 12px;position: relative;">
+                    <center>
+                        <span style="font-size: 13px;">Discover your perfect bra based on a personal bra fitting. Get a your personal bra shop filled with bras you will love</span>
+                    </center>
                 </div>
             </div>
+         
         </div>
-                
-        <div class="row">
-            <div style="clear:both;font-size:12px;padding:10px 0;text-align:center" class="span12">
-                <a href="/user/account/logout" style="cursor: text;color: inherit;">©</a>
-                 2012 brayola.com   | <a href="/privacy">privacy policy</a> | <a href="/terms">terms</a>
-            </div>
-        </div>
+        
     </div>
+    
 </footer>
 
 
-
+<script type="text/javascript" src="/static/voting/jquery.cookie.js"> </script>
 <script type="text/javascript">
-$(".get_started").live("click", function() {
-    if(typeof ClickTaleExec=='function')
-        ClickTaleExec("doGetStarted()");
-    
-    doGetStarted();
+
+$(".get_started , .addbraTop").live("click", function() {
+//    log($(this).hasClass('top_brand_header'));
+    $('#preloader').show();
+        doGetStarted();
 });
 
-function CTIsPlayback() {
-    try { return parent && parent.WebPlayer; }
-    catch(e) { return false; }
+$(".addbraTopli,.addNewbBra").live("click", function() {
+       window.location.href = "/#addbra";
+            sendGoalEvent("createdrawer", "input", "add bra pink button-not user", 0);
+});
+
+
+function show_next_step() {
+	cyd.open();
+	$('#loadDrawers').show();
+        $('.header_border').show();
+	$('#preloader').hide();
+
 }
 
 function doGetStarted() {
@@ -659,29 +781,45 @@ function doGetStarted() {
     else
         sendGoalEvent("createdrawer", "input", "Get Started", 0);
     
+    
     $("#reviews").hide();
-    $("#allContent").hide();
-    $("#extraIndexSpace").show();
-    $('#preloader').show();
+    $("#search_re").hide();
+    $('#myDrawer').height('370'); 
+//    $("#extraIndexSpace").show();
+    $('#zig_bottom').show();
+    
     $('#loadDrawers').load('/user/drawer/', function(){
-        if ( CTIsPlayback() ) {
-            setTimeout("cyd.open()", 200);
-        }
-        cyd.open();
-        $('#loadDrawers').show();
-        $('#preloader').hide();
-        $('header').css({'marginBottom': '40px'});
-        $('body').css({"background":"url('/static/layout/images/header_pattern.jpg') repeat-x"});
+            
+            show_next_step();
+            $("#allContent").hide();
+            $('#zigthis').attr('class','pages_zigzag');
+            $('.pages_zigzag').css('padding-top','0px');
+            $('.pages_zigzag').css('margin-top','0px');
+            $('.pages_zigzag').css('top','-20px');
+            $('.links').show();
+            $('.links').css('margin-top','50px');
     });
+   
+
+    
 }
+ 
 </script>
 
 
 <script>
  // Add a script element as a child of the body
 $(document).ready(function(){
+    
+    if(location.hash === '#addbra'){
+        doGetStarted();
 
-var jss = ["//connect.facebook.net/en_US/all.js", "http://www.googleadservices.com/pagead/conversion.js", "//s.skimresources.com/js/32569X902871.skimlinks.js",/* "http://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js",*/ "//cdn.zopim.com/?ltJzKD8Qi4MBRnhVtsezbEpU9NgNBYOg"]
+    }else{
+        $("#allContent").show();
+        $('.links').show();
+    }
+
+var jss = ["//connect.facebook.net/en_US/all.js", "http://www.googleadservices.com/pagead/conversion.js", /* "http://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js",*/ "//cdn.zopim.com/?ltJzKD8Qi4MBRnhVtsezbEpU9NgNBYOg"]
     /*Sid.js(['http://s.clicktale.net/WRc9.js'],function(){if(typeof ClickTale=='function') ClickTale(21522,1,"www02");});*/
 
 for (i in jss) {
@@ -692,22 +830,15 @@ for (i in jss) {
 };
 
 });
-
 </script>
-
-
-<!-- ClickTale Bottom part -->
-<div id="ClickTaleDiv" style="display: none;"></div>
+<!--[if gt IE 8]>
+<link href="/static/css/ie9.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+<div id="getsat-widget-3761"></div>
+<!--<script type="text/javascript" src="https://loader.engage.gsfn.us/loader.js"></script>-->
 <script type="text/javascript">
-if(document.location.protocol!='https:')
-  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRd.js'%20type='text/javascript'%3E%3C/script%3E"));
+if (typeof GSFN !== "undefined") { GSFN.loadWidget(3761,{"containerId":"getsat-widget-3761"}); }
 </script>
-<script type="text/javascript">
-if(typeof ClickTale=='function') ClickTale(21522,0.6,"www02");
-</script>
-<!-- ClickTale end of Bottom part -->
-
-
 
 
 </body></html>
