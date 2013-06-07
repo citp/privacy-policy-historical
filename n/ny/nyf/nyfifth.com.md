@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the nyfifth.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208025454id_/http%3A//www.nyfifth.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyfifth.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607193647id_/http%3A//www.nyfifth.com/privacy.php) for the most accurate reproduction.*
 
-# About Us Screen Printing Embroidery from NyFifth.com
+# About Us
 
-|   
----  
-|   
+|  |   
 ---  
 |  |  Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:   
 ---  
@@ -39,6 +37,4 @@ You can review the personal information you provided us and make any desired cha
 **Changes to this Privacy Policy**  
 NyFifth may update this privacy policy. In the event there are significant changes in the way we treat your personal information, we will send a notice to the primary email address specified in your NyFifth account or by displaying a prominent notice on this site.   
 **Questions or Comments**  
-If you have questions or comments about this privacy policy, please email us at [privacy@NyFifth.com](mailto:privacy@NyFifth.com).   
-  
-
+If you have questions or comments about this privacy policy, please email us at [privacy@NyFifth.com](mailto:privacy@NyFifth.com). 
