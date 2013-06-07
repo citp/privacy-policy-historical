@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the booklending.com privacy policy that was archived on 2012-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121031231249id_/http%3A//www.booklending.com/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the booklending.com privacy policy that was archived on 2013-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130607045437id_/http%3A//booklending.com/privacy-policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
         <meta property="og:title" content="BookLending.com - Privacy Policy - Book Lending - Borrow and Lend Kindle Books for Free">
@@ -20,14 +20,14 @@
                 <meta name="description" content="BookLending.com instantly matches people who want to borrow and lend Kindle books. Always free of charge. Come borrow a book today.">
                 <meta name="google-site-verification" content="Rq_WEnKqPHaAV8W4LTnpBJM2sd5TEynGr-Qlmf0pXqY">
 
-                <link href="css/style.css?1346222667" rel="stylesheet" type="text/css">
-                <link href="css/prettyPhoto.css?1346222667" rel="stylesheet" type="text/css">
+                <link href="css/style.css?1363830683" rel="stylesheet" type="text/css">
+                <link href="css/prettyPhoto.css?1363830683" rel="stylesheet" type="text/css">
                 <link href="http://data.booklending.com/css/slide.css" media="screen, projection" rel="stylesheet" type="text/css">
 
                     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
-                    <script src="js/jquery.prettyPhoto.js?1346222668" type="text/javascript"></script>
+                    <script src="js/jquery.prettyPhoto.js?1346222726" type="text/javascript"></script>
                     <script src="http://data.booklending.com/js/jquery.lazyload.min.js" type="text/javascript"></script>
-                    <script src="js/booklending.js?1346222668" type="text/javascript" charset="utf-8"></script>
+                    <script src="js/booklending.js?1353306351" type="text/javascript" charset="utf-8"></script>
                     <script type="text/javascript" src="http://data.booklending.com/js/jquery.jcarousel.min.js"></script>
                     <script type="text/javascript" src="http://data.booklending.com/js/tablesort.js"></script>
                     <script type="text/javascript" src="http://data.booklending.com/js/jquery.li-scroller.1.0.js"></script>
@@ -75,24 +75,30 @@
                                         xfbml: true,
                                         oauth: true
                                     });
+                                    // Possibly redundant in 1.5.2 though FB may fix the bug
                                     FB.Event.subscribe('auth.login', function(response) {
                                         if (response.authResponse) {
                                             redirectAfterLogin();
                                         }
 
                                     });
-                                    FB.Event.subscribe('auth.logout', function(response) {
-                                        if (!response.authResponse){
-                                            setTimeout(function(){window.location.replace("/logout.htm")}, 1000);
-                                        }
-                                    });
-                                };
-                                (function() {
-                                    var e = document.createElement('script'); e.async = true;
-                                    e.src = document.location.protocol +
-                                        '//connect.facebook.net/en_US/all.js';
-                                    document.getElementById('fb-root').appendChild(e);
-                                }());
+                                                    FB.Event.subscribe('auth.statusChange', function(response) {
+                                                        if (response.status === 'connected') {
+                                                            redirectAfterLogin();
+                                                        }
+                                                    });
+                                                FB.Event.subscribe('auth.logout', function(response) {
+                                                if (!response.authResponse){
+                                                    setTimeout(function(){window.location.replace("/logout.htm")}, 1000);
+                                                }
+                                            });
+                                        };
+                                        (function() {
+                                            var e = document.createElement('script'); e.async = true;
+                                            e.src = document.location.protocol +
+                                                '//connect.facebook.net/en_US/all.js';
+                                            document.getElementById('fb-root').appendChild(e);
+                                        }());
                             </script>
                             <!--[if lte IE 6]>
                             <div id="ie6warning">
@@ -105,10 +111,10 @@
                             <div id="wrapper">
                                 <div id="top">
 
-                                    <div id="logo"><a href="/"><img src="http://data.booklending.com/images/logo.png" width="273" height="102" border="0"></a></div>
+                                    <div id="logo"><a href="/index.htm"><img src="http://data.booklending.com/images/logo.png" width="273" height="102" border="0"></a></div>
 
                                     <div id="top-menu">
-                                        
+
                                             <div id="menucheck">
                                                 <div id="login"><a href="login.htm" class="login" id="login-btn" title="login">&nbsp;</a></div>
                                                 <div class="v-divider"></div>
@@ -117,71 +123,79 @@
 
                                             <div id="container">
                                                 <fieldset id="login_menu">
-                                                    <p align="center"><img src="http://data.booklending.com/images/loginwithfb.png" title="login with facebook"><br><fb:login-button scope="user_about_me,user_website,email" autologoutlink="true"></fb:login-button></p>
-                                                    <p align="center"><br><img src="http://data.booklending.com/images/or.png"><br></p>
-                                                                <div id="login-error"></div>
-                                                                <form method="post" name="login" id="login" action="login.htm" onsubmit="return loginValidation();">
-                                                                    <input type="hidden" name="request_uri" value="/privacy-policy.htm">
-                                                                        <p>
-                                                                            <label for="email">Email</label>
-                                                                            <input id="login_email" name="login_email" value="" title="email" tabindex="1" type="text">
-                                                                        </p>
-                                                                        <p>
-                                                                            <label for="password">Password</label>
-                                                                            <input id="login_password" name="login_password" value="" title="password" tabindex="2" type="password">
-                                                                        </p>
-                                                                        <p>
-                                                                            <label for="Remember">Remember me</label>
-                                                                            <input id="login_remember" name="login_remember" value="" title="remember" tabindex="3" type="checkbox">
-                                                                        </p>
-                                                                        <p class="login_bn">
-                                                                            <input id="login_submit" value="Login" tabindex="3" type="submit" class="button">  <a href="forgot-password.htm" id="resend_password_link">Forgot your password?</a>
-                                                                        </p>
-                                                                </form>
-                                                                </fieldset>
-                                                                <fieldset id="register_menu">
-                                                                    <p align="center"><img src="http://data.booklending.com/images/connectwithfb.png" title="connect with facebook"><fb:login-button scope="user_about_me,user_website,email" autologoutlink="true"></fb:login-button></p>
-                                                                    <p align="center"><br><img src="http://data.booklending.com/images/or.png"><br></p>
-                                                                                <div id="register-error"></div>
-                                                                                <form method="post" id="register" action="register.htm" onsubmit="return registrationValidation();">
-                                                                                    <p>
-                                                                                        <label for="firstname">First Name</label>
-                                                                                        <input id="reg_firstname" name="reg_firstname" value="" title="firstname" tabindex="1" type="text">
-                                                                                            <!-- This is used as a honeytrap for bots. Real users cannot see this so it should always be empty on submission -->
-                                                                                            <input id="reg_lastname" name="reg_lastname" value="" title="lastname" type="text" class="hidden">
-                                                                                                </p>
-                                                                                                <p>
-                                                                                                    <label for="regemail">Email</label>
-                                                                                                    <input id="reg_email" name="reg_email" value="" title="email" tabindex="2" type="text">
-                                                                                                </p>
-                                                                                                <p>
-                                                                                                    <label for="password">Password</label>
-                                                                                                    <input id="reg_password" name="reg_password" value="" title="password" tabindex="3" type="password">
-                                                                                                </p>
-                                                                                                <p>
-                                                                                                    <label for="password">Retype Password</label>
-                                                                                                    <input id="reg_password2" name="reg_password2" value="" title="password2" tabindex="4" type="password">
-                                                                                                </p>
-                                                                                                <p class="register_bn">
-                                                                                                    <input id="register_submit" value="Register" tabindex="5" type="submit" class="button">
-                                                                                                </p>
-                                                                                                </form>
-                                                                                                </fieldset>
-                                                                                                </div>
-                                                                                            
-                                                                                            </div>
+                                                    <div align="center"><img src="http://data.booklending.com/images/loginwithfb.png" title="login with facebook"></div>
+                                                    <div id="facebook-login-holder">
+                                                        <fb:login-button id="facebook-login" scope="user_about_me,user_website,email" autologoutlink="true"></fb:login-button>
+                                                    </div>
+                                                    <div align="center" class="facebook-or"><img src="http://data.booklending.com/images/or.png"></div>
+                                                    <div id="login-error"></div>
+                                                    <form method="post" name="login" id="login" action="login.htm" onsubmit="return loginValidation();">
+                                                        <input type="hidden" name="request_uri" value="/privacy-policy.htm">
+                                                            <p>
+                                                                <label for="email">Email</label>
+                                                                <input id="login_email" name="login_email" value="" title="email" tabindex="1" type="text">
+                                                            </p>
+                                                            <p>
+                                                                <label for="password">Password</label>
+                                                                <input id="login_password" name="login_password" value="" title="password" tabindex="2" type="password">
+                                                            </p>
+                                                            <p>
+                                                                <label for="Remember">Remember me</label>
+                                                                <input id="login_remember" name="login_remember" value="" title="remember" tabindex="3" type="checkbox">
+                                                            </p>
+                                                            <p class="login_bn">
+                                                                <input id="login_submit" value="Login" tabindex="3" type="submit" class="button">  <a href="forgot-password.htm" id="resend_password_link">Forgot your password?</a>
+                                                            </p>
+                                                    </form>
+                                                </fieldset>
+                                                <fieldset id="register_menu">
+                                                    <div align="center"><img src="http://data.booklending.com/images/connectwithfb.png" title="connect with facebook"></div>
+                                                    <div id="facebook-login-holder">
+                                                        <fb:login-button id="facebook-register" scope="user_about_me,user_website,email" autologoutlink="true"></fb:login-button>
+                                                    </div>
+                                                    <div align="center" class="facebook-or">
+                                                        <img src="http://data.booklending.com/images/or.png">
+                                                    </div>
+                                                    <div id="register-error"></div>
+                                                    <form method="post" id="register" action="register.htm" onsubmit="return registrationValidation();">
+                                                        <p>
+                                                            <label for="firstname">First Name</label>
+                                                            <input id="reg_firstname" name="reg_firstname" value="" title="firstname" tabindex="1" type="text">
+                                                                <!-- This is used as a honeytrap for bots. Real users cannot see this so it should always be empty on submission -->
+                                                                <input id="reg_lastname" name="reg_lastname" value="" title="lastname" type="text" class="hidden">
+                                                                    </p>
+                                                                    <p>
+                                                                        <label for="regemail">Email</label>
+                                                                        <input id="reg_email" name="reg_email" value="" title="email" tabindex="2" type="text">
+                                                                    </p>
+                                                                    <p>
+                                                                        <label for="password">Password</label>
+                                                                        <input id="reg_password" name="reg_password" value="" title="password" tabindex="3" type="password">
+                                                                    </p>
+                                                                    <p>
+                                                                        <label for="password">Retype Password</label>
+                                                                        <input id="reg_password2" name="reg_password2" value="" title="password2" tabindex="4" type="password">
+                                                                    </p>
+                                                                    <p class="register_bn">
+                                                                        <input id="register_submit" value="Register" tabindex="5" type="submit" class="button">
+                                                                    </p>
+                                                                    </form>
+                                                                    </fieldset>
+                                                                    </div>
 
-                                                                                            <div id="main-menu">
-                                                                                                <a href="index.htm" title="home"><span id="menu_home">&nbsp;</span></a>
-                                                                                                <a href="lend-book.htm" title="lendabook"><span id="menu_lendabook">&nbsp;</span></a>
-                                                                                                <a href="borrow-book.htm" title="borrowabook"><span id="menu_borrowabook">&nbsp;</span></a>
-                                                                                                <a href="faq.htm" title="faq"><span id="menu_faq">&nbsp;</span></a>
-                                                                                                <a href="contact-us.htm" title="contactus"><span id="menu_contactus">&nbsp;</span></a>
-                                                                                            </div>
+                                                                </div>
 
-                                                                                            </div>
+                                                                <div id="main-menu">
+                                                                    <a href="index.htm" title="home"><span id="menu_home">&nbsp;</span></a>
+                                                                    <a href="lend-book.htm" title="lendabook"><span id="menu_lendabook">&nbsp;</span></a>
+                                                                    <a href="borrow-book.htm" title="borrowabook"><span id="menu_borrowabook">&nbsp;</span></a>
+                                                                    <a href="faq.htm" title="faq"><span id="menu_faq">&nbsp;</span></a>
+                                                                    <a href="contact-us.htm" title="contactus"><span id="menu_contactus">&nbsp;</span></a>
+                                                                </div>
+
+                                                                </div>
 <div id="inner-page">
-    <div style="float:right;">
+    <div id="sidebar" style="float:right;">
         <div id="side-top">&nbsp;</div>
         <div id="side" valign="top">
             <!-- side start -->
@@ -191,11 +205,12 @@
                         <form name="catsform" class="genreselect-form" method="post" onsubmit="location.href=document.getElementById('catDropDown').options[document.getElementById('catDropDown').selectedIndex].value; return false;">
                             <label for="search">&nbsp;<b>Browse by Genre</b></label><br>
                             <select name="cat" id="catDropDown" class="genreselect-select">
-                                <option value="advice-and-how-to">Advice &amp; How To</option><option value="arts-and-entertainment">Arts &amp; Entertainment</option><option value="bestselling">Bestselling</option><option value="biography-and-memoir">Biography &amp; Memoir</option><option value="business-and-investing">Business &amp; Investing</option><option value="classic-fiction">Classic Fiction</option><option value="computers-and-internet">Computers &amp; Internet</option><option value="cooking,-food-and-wine">Cooking, Food &amp; Wine</option><option value="erotica">Erotica</option><option value="fantasy-and-occult">Fantasy &amp; Occult</option><option value="fiction">Fiction</option><option value="gay-and-lesbian">Gay &amp; Lesbian</option><option value="history">History</option><option value="horror">Horror</option><option value="humor">Humor</option><option value="lifestyle-and-home">Lifestyle &amp; Home</option><option value="literary-fiction">Literary Fiction</option><option value="mystery-and-thrillers">Mystery &amp; Thrillers</option><option value="non-fiction">Non Fiction</option><option value="parenting-and-families">Parenting &amp; Families</option><option value="politics-and-current-events">Politics &amp; Current Events</option><option value="reference">Reference</option><option value="religion-and-spirituality">Religion &amp; Spirituality</option><option value="romance">Romance</option><option value="science">Science</option><option value="science-fiction">Science Fiction</option><option value="sports">Sports</option><option value="travel">Travel</option><option value="young-adult-and-children">Young Adult &amp; Children</option><option value="read-it-today.htm">Read It Today</option>                            </select><input type="submit" class="button" value="browse" id="lend-search-submit">
+                                <option value="action-and-adventure">Action &amp; Adventure</option><option value="advice-and-how-to">Advice &amp; How To</option><option value="arts-and-entertainment">Arts &amp; Entertainment</option><option value="bestselling">Bestselling</option><option value="biography-and-memoir">Biography &amp; Memoir</option><option value="business-and-investing">Business &amp; Investing</option><option value="children">Children</option><option value="classic-fiction">Classic Fiction</option><option value="computers-and-internet">Computers &amp; Internet</option><option value="cooking,-food-and-wine">Cooking, Food &amp; Wine</option><option value="erotica">Erotica</option><option value="fantasy-and-occult">Fantasy &amp; Occult</option><option value="fiction">Fiction</option><option value="gay-and-lesbian">Gay &amp; Lesbian</option><option value="history">History</option><option value="horror">Horror</option><option value="humor">Humor</option><option value="lifestyle-and-home">Lifestyle &amp; Home</option><option value="literary-fiction">Literary Fiction</option><option value="mystery-and-thrillers">Mystery &amp; Thrillers</option><option value="non-fiction">Non Fiction</option><option value="parenting-and-families">Parenting &amp; Families</option><option value="politics-and-current-events">Politics &amp; Current Events</option><option value="reference">Reference</option><option value="religion-and-spirituality">Religion &amp; Spirituality</option><option value="romance">Romance</option><option value="science">Science</option><option value="science-fiction">Science Fiction</option><option value="sports">Sports</option><option value="teen">Teen</option><option value="travel">Travel</option><option value="womens-fiction">Womens Fiction</option><option value="read-it-today.htm">Read It Today</option>                            </select><input type="submit" class="button" value="browse" id="genre-browse-submit">
                         </form>
                     </fieldset>
                 </div>
-                <script>(function(){document.write('<iframe scrolling="no" style="border:0;" src="http://www.cultureclarion.com/cache/1.php" frameBorder="0" width="300" height="400"></iframe>');})();</script><iframe scrolling="no" style="border:0;" src="http://www.cultureclarion.com/cache/1.php" frameborder="0" width="300" height="400"></iframe>
+                
+<script>(function(){document.write('<iframe scrolling="no" style="border:0;" src="http://www.cultureclarion.com/cache/1.php" frameBorder="0" width="300" height="400"></iframe>');})();</script><iframe scrolling="no" style="border:0;" src="http://www.cultureclarion.com/cache/1.php" frameborder="0" width="300" height="400"></iframe>
 <br>
 <br>
 
@@ -204,7 +219,7 @@
 <br><br>
 </center>
 
-<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fbooklending&amp;width=300&amp;colorscheme=light&amp;show_faces=true&amp;stream=true&amp;header=false&amp;height=550" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:550px;" allowtransparency="true"></iframe>
+<iframe id="fb-like-box-sidebar" src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fbooklending&amp;width=300&amp;colorscheme=light&amp;show_faces=true&amp;stream=true&amp;header=false&amp;height=550" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:550px;" allowtransparency="true"></iframe>
 <br>
 
 <center><h3>The Top 25 Kindle Bestsellers Under $5</h3></center>
@@ -220,7 +235,9 @@
     <div style="float:left;">
         <div id="content-top">&nbsp;</div>
         <div id="content" style="min-height:517px;width:580px;">
-            <!-- content start --><h1><img src="http://data.booklending.com/images/privacy_policy.png" title="privacy policy.htm"></h1>
+            <!-- content start --><h1>
+    <img src="http://data.booklending.com/images/privacy_policy.png" title="privacy policy.htm">
+</h1>
 <div id="screencontent">
 <p><em>Last updated April 16, 2012.</em></p>
 <p>This Privacy Policy discloses the privacy practices for the BookLending.com Site (collectively, the “Website” located at www.BookLending.com). BookLending.com (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us.</p>
@@ -284,7 +301,7 @@
             <a href="contact-us.htm" title="Contact Us">Contact Us</a> |
             <a href="about-us.htm" title="About Us">About Us</a> |
             <a href="http://blog.booklending.com" title="Blog" target="_blank">Blog</a>
-            <div id="copyright">Copyright © 2012 booklending.com. All Rights Reserved. booklending.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. Apart from its participation in the Associates Program, booklending.com is not affiliated with Amazon or Kindle in any other way. Amazon, Kindle and the Amazon and Kindle logos are trademarks of Amazon.com, Inc. or its affiliates. CERTAIN CONTENT THAT APPEARS ON THIS SITE COMES FROM AMAZON SERVICES LLC. THIS CONTENT IS PROVIDED ‘AS IS’ AND IS SUBJECT TO CHANGE OR REMOVAL AT ANY TIME.</div>
+            <div id="copyright">Copyright © 2011 - 2013 booklending.com. All Rights Reserved. booklending.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. Apart from its participation in the Associates Program, booklending.com is not affiliated with Amazon or Kindle in any other way. Amazon, Kindle and the Amazon and Kindle logos are trademarks of Amazon.com, Inc. or its affiliates. CERTAIN CONTENT THAT APPEARS ON THIS SITE COMES FROM AMAZON SERVICES LLC. THIS CONTENT IS PROVIDED ‘AS IS’ AND IS SUBJECT TO CHANGE OR REMOVAL AT ANY TIME.</div>
         </div>
         <div id="footer-right">
             <a href="http://amzn.to/i5toBq" title="amazon" class="footer-amazon">&nbsp;</a>
@@ -314,7 +331,6 @@ var loggedIn = false;</script>
     <img src="http://data.booklending.com/images/popup_searching.gif" alt="">
     <img src="http://data.booklending.com/images/rating_stars.png" alt="">
 </div>
-<input type="hidden" name="ip" value="204.236.235.245">
-
+<input type="hidden" name="ip" value="207.241.237.105">
 
 </div></body></html>
