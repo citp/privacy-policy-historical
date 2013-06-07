@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pchub.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022032719id_/http%3A//www.pchub.com/uph/content/policy_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchub.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607102009id_/http%3A//pchub.com/uph/content/policy_privacy.html) for the most accurate reproduction.*
 
-# 隐私权政策
+# Privacy Policy
 
 **Information Collection and Use**  
   
