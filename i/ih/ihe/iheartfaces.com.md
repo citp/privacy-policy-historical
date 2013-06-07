@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iheartfaces.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102190653id_/http%3A//www.iheartfaces.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iheartfaces.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607210524id_/http%3A//www.iheartfaces.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Photo Challenge Privacy Policy | Photo Competition Privacy Policy | I Heart Faces
 
