@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneopinion.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022100223id_/http%3A//www.oneopinion.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneopinion.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607222737id_/http%3A//www.oneopinion.com/privacy-policy.html) for the most accurate reproduction.*
 
 # OneOpinion.com - Privacy Policy
 
