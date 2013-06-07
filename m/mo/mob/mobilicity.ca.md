@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilicity.ca privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207012607id_/http%3A//mobilicity.ca/media/files/documents/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilicity.ca privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607043930id_/http%3A//mobilicity.ca/media/files/documents/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
