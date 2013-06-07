@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aeropostale.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016090032id_/http%3A//www.aeropostale.com/helpdesk/index.jsp%3Bjsessionid%3DYX21Qr6TZJJ9q5D2NbLdLY2Ny7pxJGx9Y7bJbk1kXym1G006y04p%211083458020%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeropostale.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607181603id_/http%3A//www.aeropostale.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Aéropostale - Help Desk -
 
