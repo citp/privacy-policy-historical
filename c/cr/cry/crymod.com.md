@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the crymod.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121225304id_/http%3A//www.crydev.net/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crymod.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607115332id_/http%3A//www.crydev.net/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
-# Crydev.net • User Control Panel • Privacy Policy
+# User Control Panel • Privacy Policy
+
+* * *
 
   
 
@@ -103,7 +105,7 @@ Crytek is a global organization and the majority of the computer systems on whic
 
 ## VI.  How Does Crytek Protect Your Personal Information?
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and in storage. No method of transmission over the Internet, or method of electronic storage, is 100Crydev.netecure, however. Therefore, while we strive to use commercially reasonable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact the Privacy Policy Administrator in your country listed on our site at privacyadmin.ea.com, or if your country is not listed, by contacting the Privacy Policy Administrator in the United States.
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and in storage. No method of transmission over the Internet, or method of electronic storage, is 100ecure, however. Therefore, while we strive to use commercially reasonable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact the Privacy Policy Administrator in your country listed on our site at privacyadmin.ea.com, or if your country is not listed, by contacting the Privacy Policy Administrator in the United States.
 
 ## VII.  Review, Correction Of Your Information, Requesting Removal From Mailing Lists And Deactivating Your Account
 
@@ -128,3 +130,6 @@ Members may register for other services from our site(s). Certain products and/o
 ## XI.  Contact Information
 
 If you have questions or concerns regarding this statement, you should contact the Crytek Privacy Policy Administrator at [**privacy@crytek.com**](mailto:privacy@crytek.com "privacy@crytek.com").
+
+  
+
