@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kenable.co.uk privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120074151id_/http%3A//www.kenable.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenable.co.uk privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607044153id_/http%3A//www.kenable.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement for kenable.co.uk
 
-|  |   
+|  |  |   
 ---  
   
 Here at kenable we **value your privacy**. The following privacy policy applies to the kenable website (www.kenable.co.uk) 
@@ -23,7 +23,7 @@ Here at kenable we **value your privacy**. The following privacy policy applies 
     * We do not exchange, sell or otherwise give away your email address to other companies. Your email address is used solely for sending confirmation of purchase and updating you with our newsletter if you choose to receive it. 
     * We will not exchange your email information with any third parties for the purpose of catalogue mail-outs. 
   * **WHO ELSE SEES YOUR INFORMATION**
-    * We may have to disclose some of your information to service suppliers to help complete your order. These parties include the relevant shipping agent for your location. 
+    * We may have to disclose some of your information to service suppliers to help complete your order. These parties include the relevant shipping agent for your location, manufacturers & distributors when sending items direct. Also, we ask an independent review site to email you asking for a review of our performance. This is optional and as an external site, we have no control over them. To leave a review, you must accept their terms & conditions. 
   * **YOUR CONSENT**
     * By using our web site you consent to us using the personal information you have given as outlined in this Privacy Policy. If you are worried about anything to do with our site, please email us on [privacy@kenable.co.uk](mailto:privacy@kenable.co.uk) and we will be glad to respond to any issues you may have. 
 
@@ -32,4 +32,27 @@ Thank you for shopping at kenable Ltd.
 |    
 ---  
    
-[](http://validator.w3.org/check?uri=referer)
+[](http://validator.w3.org/check?uri=referer)  
+  Friday 07 June, 2013    
+---  
+:::: 
+
+kenable.co.uk @ 
+
+kenable Ltd,
+
+Advance Business Park,
+
+Sandwash Close, Rainford, St Helens, WA11 8LY, UK
+
+::::   
+:::: 
+
+## Phone us on 01744 886752 (9am till 4.30pm Mon-Fri)
+
+::::  
+  
+[](http://www.kenable.co.uk/waste.php)
+
+  
+
