@@ -1,21 +1,9 @@
-<!--The following is the downloaded HTML source of the planetshoes.com privacy policy that was archived on 2012-10-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121024213814id_/http%3A//www.planetshoes.com/helpcenter/policies/privacy-policy/596) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the planetshoes.com privacy policy that was archived on 2013-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130607041922id_/http%3A//www.planetshoes.com/helpcenter/policies/privacy-policy/596) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" id="html1" xmlns:fb="http://ogp.me/ns/fb#" lang="en" xml:lang="en"><head id="Head1">
-    <!-- Begin Monetate tag v6. Place at start of document head. DO NOT ALTER. -->
-    <script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://sb.monetate.net/js/1/a-cd4eea4d/p/planetshoes.com/439594/g"></script><script type="text/javascript">
-        var monetateT = new Date().getTime();
-        (function () {
-            var p = document.location.protocol;
-            if (p == "http:" || p == "https:") {
-                var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true; m.src = (p == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-cd4eea4d/p/planetshoes.com/" + Math.floor((monetateT + 2901069) / 3600000) + "/g";
-                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
-            }
-        })();
-    </script>
-    <!-- End Monetate tag. -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" id="html1" xmlns:fb="http://ogp.me/ns/fb#" lang="en" xml:lang="en"><head id="Head1">   
     <!--Start Google analytics code-->
-    <script type="text/javascript">
+    <script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-274686-1']);
         _gaq.push(['_setDomainName', 'planetshoes.com']);
@@ -30,9 +18,18 @@
     <!--End Google analytics code-->
 
     <!-- For mobile and tablet to resize the width of viewport to 1002px -->
-    <link href="/mmPlanet/CSS/planetshoes.css" type="text/css" rel="stylesheet"><link href="/CSS/sideshow.css" type="text/css" rel="stylesheet"><link href="/mmPlanet/CSS/help.css" type="text/css" rel="stylesheet"><meta name="viewport" content="width=1002">
+    <link href="/mmplanet/CSS/planetshoes.css" type="text/css" rel="stylesheet"><link href="/CSS/sideshow.css" type="text/css" rel="stylesheet"><link href="/mmplanet/CSS/help.css" type="text/css" rel="stylesheet"><meta name="viewport" content="width=1002">
     <link href="/JS/scrollable/scrollable-horizontal.css" rel="stylesheet" type="text/css"><link href="/JS/scrollable/scrollable-buttons.css" rel="stylesheet" type="text/css"><link href="/JS/overlays/overlaycss.css" rel="stylesheet" type="text/css"><link href="/JS/flowplayer/flowplayer.css" rel="stylesheet" type="text/css"><link href="/App_Themes/Aqua/Demo/NavBarNavigation/styles.css" rel="stylesheet" type="text/css"><link rel="SHORTCUT ICON" href="/Images/favicon.ico">
     <script src="/JS/jquery.tools.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function () {
+            var sCheckUrl=window.location.href.indexOf("utm_campaign=video")
+            if (sCheckUrl != -1) {
+                InitVideo();
+                showTab('2');                
+            }
+        });
+    </script>
 <title>
 	PLANET SHOES&nbsp;-&nbsp;Privacy Policy&nbsp;-&nbsp;Help Center
 </title></head>
@@ -58,18 +55,13 @@
     </script><script src="https://dnhgz729v27ca.cloudfront.net/planetshoes/extras.js" type="text/javascript"></script>
     <form method="post" action="/helpcenter/policies/privacy-policy/596" id="SSForm">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUIMzA0OTgzNTIPZBYCZg9kFgICAQ8WBB4EbGFuZwUCZW4eCHhtbDpsYW5nBQJlbmRksscGO7X2/bxN8n5cW1vDWDaMm/Q=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUIMzA0OTgzNTIPZBYCZg9kFgICAQ8WBB4EbGFuZwUCZW4eCHhtbDpsYW5nBQJlbmRk">
 </div>
 
     <div align="center">
         <div id="PageHeader">
             
-<!-- FOR SAYT -->
-<link rel="stylesheet" href="//www.google.com/cse/style/commerce_sayt.css" type="text/css" media="screen">
-<script src="//www.google.com/jsapi" type="text/javascript"></script>
-<script src="//apis.google.com/js/client.js" type="text/javascript"></script>
-<script src="//www.google.com/cse/intl/en-US/sayt.js" type="text/javascript"></script>
-<!-- End SAYT -->
+
 <script type="text/javascript">
     var mHeader_LogoutState = "Logout";
     var mSearchText = "Brand, Style, Color";
@@ -85,7 +77,7 @@
         }
         else
         {
-            location.href = "/search.aspx?searchword=" + document.getElementById(searchBoxId).value;
+            location.href = "/storeitems.aspx?searchword=" + document.getElementById(searchBoxId).value.replace(/\'/g, "%27").trim().toLowerCase(); ;
         }
     }
 </script>
@@ -107,7 +99,11 @@
         text-decoration: none;
     }
 </style>
+    <div class="headspash" id="top_header_splash">
+        
+    </div>
 <div class="headtop">
+
     <div class="headdiv">
         <div id="wel_Info" class="Welcome">
             
@@ -151,7 +147,7 @@
                 <script type="text/javascript">
                     function changeSelectedLang(langCode) {
                         // GA Event for tracking Language Changes
-                        _gaq.push(['_trackEvent', 'language', 'change', langCode]); 
+                        _gaq.push(['_trackEvent', 'Global', 'Main-Top', 'ChangeLanguage']);
                         Callback_ChangeLang.PerformCallback(langCode);
                     }
                 </script>
@@ -172,10 +168,10 @@
         <div class="head_search">
             <div class="round_outer fn">
                 <div class="round_inner">
-                    <input type="text" autocomplete="off" maxlength="50" id="txtHeaderSearchText" name="txtHeaderSearchText" class="txt_key" onkeyup="this.value=this.value.replace(/[\!\@\#\$\%\^\&amp;\*\=\[\]\{\}\|\\\<\>\/]/g,'');" size="28" onkeydown="ValPressKey(event, 'btnSearch');" value="" rel="nofollow" style="color: grey; font-style: italic;">
-                    <div id="btnSearch" onclick="this.childNodes[0].click()"><a id="Header1_lbtnSearch" href="javascript:__doPostBack('ctl00$Header1$lbtnSearch','')">Search</a></div>
-                    <script src="/js/googlesearch.js" type="text/javascript"></script>             
-                    <div class="cb">
+                    <input type="text" autocomplete="off" maxlength="50" id="txtHeaderSearchText" name="txtHeaderSearchText" class="txt_key" onkeyup="this.value=this.value.replace(/[\!\@\#\$\%\^\&amp;\*\=\[\]\{\}\|\\\<\>\/]/g,'').toLowerCase();CheckInputTextIsEmpty(event,this.value);" size="28" onkeydown="ChangeSelectedItem(event,this.id);return ClickSearchBtn(event);" value="" rel="nofollow" style="color: grey; font-style: italic;">
+                    <div id="btnSearch" onclick="SubmitSearch();">
+                        Search</div>
+                    <div style="clear: both;">
                     </div>
                 </div>
             </div>
@@ -190,12 +186,30 @@ font-family: georgia, arial;
 font-size: 17px;
 margin: 6px 0 4px 8px;
 }
+
+.headtop {
+background-color: #F7F6EF;
+border-bottom: 1px solid #CCC;
+}
+
+a.headLink, a.headLink span {
+color: #646D5A;
+}
+
+.Welcome {
+color: #646D5A;
+}
+
+.toplink ul li {
+color: #646D5A;
+}
+
 </style>
 
 <table border="0" cellspacing="0" cellpadding="0" style="padding-top:7px; padding-right:7px;">
   <tbody><tr>
-    <td valign="center" height="36" width="213"><div id="headerfreeshipping"><a class="gae-track|Global*Header*FreeShipping" href="http://www.planetshoes.com/helpcenter/shipping/shipping-options/583"><img src="/mmplanet/home/headercontainer_freeshipping.png" width="213" height="21" border="0"></a></div></td>
- <td valign="center"><div id="headerdailydeal"><a class="gae-track|Global*Header*DailyDeal" href="http://www.planetshoes.com/storeitems.aspx?brand=elnaturalista&amp;pricecat=on%20sale"><img src="https://sb.monetate.net/img/1/144/30636.png" border="0"></a></div></td>
+    <td valign="center"><a class="gae-track|Global*Header*Shipping" href="http://www.planetshoes.com/helpcenter/shipping/shipping-options/583"><img src="/mmplanet/HeaderContainer/2013_03_05_HCshipping.png" border="0"></a></td>
+ <td valign="center"><div id="headerdailydeal"><a class="gae-track|Global*Header*DailyDeal" href="/dailydeal"><img src="/mmplanet/holiday2012/2012_11_28_HCdailydeal.png" border="0"></a></div></td>
   </tr>
 </tbody></table>
 <script src="/mmplanet/JAVA/change_vsp.js" type="text/javascript"></script>
@@ -204,7 +218,7 @@ margin: 6px 0 4px 8px;
     </div>
     <div class="nav_mid">
         <div class="nav_mid_section">
-            <div id="head_menu" class="head_menu"><ul id="head_menu_list"><li class="head_menu_list_item" style="width:80px;"><a href="http://www.planetshoes.com/brands" class="menutitle1 brands">Brands</a><div id="menu_Brands" class="head_menu_list_item_content" style="left: 10px;"><div class="sub"><div class="whitebar_hide_shadow"></div>          <ul>
+            <div id="head_menu" class="head_menu"><ul id="head_menu_list"><li class="head_menu_list_item" style="width:80px;"><a href="/brands" class="menutitle1 brands gae-track|Global*Main-Nav*Brands>AllBrands">Brands</a><div id="menu_Brands" class="head_menu_list_item_content" style="left: 10px;"><div class="sub"><div class="whitebar_hide_shadow"></div>          <ul>
             <li>
               <h2><a class="black gae-track|Global*Main-Nav*Brands>All Brands" href="/brands">View All Brands</a></h2>
             </li>
@@ -213,47 +227,52 @@ margin: 6px 0 4px 8px;
             </li>
           </ul>
           <ul>
-            <li><a class="gae-track|Global*Main-Nav*Brands>Acorn" href="/acorn">Acorn</a></li>
-            <li><a class="gae-track|Global*Main-Nav*Brands>Bearpaw" href="/bearpaw">Bearpaw</a></li>
+            <li><a class="gae-track|Global*Main-Nav*Brands>Born" href="/birkenstock">Birkenstock</a></li>
             <li><a class="gae-track|Global*Main-Nav*Brands>Born" href="/born">Born</a></li>
             <li><a class="gae-track|Global*Main-Nav*Brands>Camper" href="/camper">Camper</a></li>
             <li><a class="gae-track|Global*Main-Nav*Brands>Clarks" href="/clarks">Clarks</a></li>
+            <li><a class="gae-track|Global*Main-Nav*Brands>Dansko" href="/dansko">Dansko</a></li>
           </ul>
           <ul>
-             <li><a class="gae-track|Global*Main-Nav*Brands>Dansko" href="/dansko">Dansko</a></li>
-            <li><a class="gae-track|Global*Main-Nav*Brands>Earthies" href="/earthies">Earthies</a></li>
+            <li><a class="gae-track|Global*Main-Nav*Brands>Earthies" href="/earth">Earth</a></li>
             <li><a class="gae-track|Global*Main-Nav*Brands>ECCO" href="/ecco">ECCO</a></li>
             <li><a class="gae-track|Global*Main-Nav*Brands>ElNaturalista" href="/el-naturalista">El Naturalista</a></li>
             <li><a class="gae-track|Global*Main-Nav*Brands>FinnComfort" href="/finn-comfort">Finn Comfort</a></li>
+            <li><a class="gae-track|Global*Main-Nav*Brands>FlyLondon" href="/fly-london">Fly London</a></li>
           </ul>
           <ul>
-            <li><a class="gae-track|Global*Main-Nav*Brands>FlyLondon" href="/fly-london">Fly London</a></li>
             <li><a class="gae-track|Global*Main-Nav*Brands>Jambu" href="/jambu">Jambu</a></li>
             <li><a class="gae-track|Global*Main-Nav*Brands>KalsoEarthShoe" href="/kalso-earth-shoe">Kalso Earth Shoe</a></li>
             <li><a class="gae-track|Global*Main-Nav*Brands>Keen" href="/keen">Keen</a></li>
             <li><a class="gae-track|Global*Main-Nav*Brands>Merrell" href="/merrell">Merrell</a></li>
+            <li><a class="gae-track|Global*Main-Nav*Brands>Naot" href="/naot">Naot</a></li>
           </ul>
           <ul>
-            <li><a class="gae-track|Global*Main-Nav*Brands>Naot" href="/naot">Naot</a></li>
             <li><a class="gae-track|Global*Main-Nav*Brands>Naturalizer" href="/naturalizer">Naturalizer</a></li>
             <li><a class="gae-track|Global*Main-Nav*Brands>NewBalance" href="/new-balance">New Balance</a></li>
             <li><a class="gae-track|Global*Main-Nav*Brands>Patagonia" href="/patagonia">Patagonia</a></li>
-            <li><a class="gae-track|Global*Main-Nav*Brands>Sanuk" href="/sanuk">Sanuk</a></li>
+            <li><a class="gae-track|Global*Main-Nav*Brands>Patagonia" href="/pikolinos">Pikolinos</a></li>
+            <li><a class="gae-track|Global*Main-Nav*Brands>Patagonia" href="/rockport">Rockport</a></li>
           </ul>
           <ul>
-            <li><a class="gae-track|Global*Main-Nav*Brands>Smartwool" href="/smartwool">Smartwool</a></li>
+            <li><a class="gae-track|Global*Main-Nav*Brands>Sanuk" href="/sanuk">Sanuk</a></li>
             <li><a class="gae-track|Global*Main-Nav*Brands>SperryTopSider" href="/sperry-top-sider">Sperry Top-Sider</a></li>
             <li><a class="gae-track|Global*Main-Nav*Brands>Taos" href="/taos">Taos</a></li>
-            <li><a class="gae-track|Global*Main-Nav*Brands>TheNorthFace" href="/the-north-face">The North Face</a></li>
             <li><a class="gae-track|Global*Main-Nav*Brands>VIVOBAREFOOT" href="/vivobarefoot">VIVOBAREFOOT</a></li>
+            <li><a class="gae-track|Global*Main-Nav*Brands>Patagonia" href="/wolky">Wolky</a></li>
           </ul>
 
-</div></div></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:80px;"><a href="http://www.planetshoes.com/storeitems.aspx?gender=women&amp;depart=shoes" class="menutitle1 women">Women</a><div id="menu_Women" class="head_menu_list_item_content" style="left: 10px;"><div class="sub"><div class="whitebar_hide_shadow"></div><ul class="wideul">
+<style>
+#menu_Brands{
+visibility:hidden;
+}
+</style></div></div></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:80px;"><a href="/storeitems.aspx?gender=women&amp;depart=shoes" class="menutitle1 women gae-track|Global*Main-Nav*Womens">Women</a><div id="menu_Women" class="head_menu_list_item_content" style="left: 10px;"><div class="sub"><div class="whitebar_hide_shadow"></div><ul class="wideul">
   <li>
     <h2><a class="black gae-track|Global*Main-Nav*Womens>All Womens" href="/storeitems.aspx?gender=women&amp;depart=shoes" id="menuwomensall">View All Women’s</a></h2>
   </li>
   <li><a class="gae-track|Global*Main-Nav*Womens>CasualShoes" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;shop=casual%20shoes">Casual Shoes</a></li>
   <li><a class="gae-track|Global*Main-Nav*Womens>DressShoes" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;shop=dress%20shoes">Dress Shoes</a></li>
+  <li><a class="gae-track|Global*Main-Nav*Womens>Sandals" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;cat=sandals">Sandals</a></li>
   <li><a class="gae-track|Global*Main-Nav*Womens>AthleticShoes" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;cat=athletic%20shoes">Athletic Shoes</a></li>
   <li><a class="gae-track|Global*Main-Nav*Womens>BoatShoes" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;cat=boat%20shoes">Boat Shoes</a></li>
   <li><a class="gae-track|Global*Main-Nav*Womens>Boots" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;cat=boots">Boots</a></li>
@@ -262,14 +281,13 @@ margin: 6px 0 4px 8px;
 </ul>
 <ul>
     <li><a class="gae-track|Global*Main-Nav*Womens>HeelsAndPumps" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;cat=heels%20and%20pumps">Heels and Pumps</a></li>
-  <li><a class="gae-track|Global*Main-Nav*Womens>LoafersAndSlipOns" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;cat=loafers%20and%20slip%20ons">Loafers and Slip Ons</a> </li> 
+  <li><a class="gae-track|Global*Main-Nav*Womens>LoafersAndSlipOns" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;cat=loafers%20slip%20ons">Loafers and Slip Ons</a> </li> 
 <li><a class="gae-track|Global*Main-Nav*Womens>MaryJanes" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;cat=mary%20janes">Mary Janes</a></li>
   <li><a class="gae-track|Global*Main-Nav*Womens>Outdoor" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;shop=outdoor%20shop">Outdoor</a></li>
-  <li><a class="gae-track|Global*Main-Nav*Womens>Oxfords" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;cat=oxfords">Oxfords</a></li>
-  <li><a class="gae-track|Global*Main-Nav*Womens>Sandals" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;cat=sandals">Sandals</a></li>
+  <li><a class="gae-track|Global*Main-Nav*Womens>Oxfords" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;cat=oxford">Oxfords</a></li>
   <li><a class="gae-track|Global*Main-Nav*Womens>Slippers" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;cat=slippers">Slippers</a></li>
   <li><a class="gae-track|Global*Main-Nav*Womens>Wedges" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;cat=wedges">Wedges</a></li>
-  <li><a class="sale_red gae-track|Global*Main-Nav*Womens>Sale" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;pricecat=on%20sale">Women’s Sale</a></li>
+  <li><a class="sale_red gae-track|Global*Main-Nav*Womens>Clearance" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;pricecat=on%20sale">Women’s Clearance</a></li>
   <li><a class="outlet_red gae-track|Global*Main-Nav*Womens>Outlet" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;pricecat=outlet">Women’s Outlet</a></li>
 </ul>
 <ul class="withborder skinnyul">
@@ -279,46 +297,47 @@ margin: 6px 0 4px 8px;
   <li><a class="gae-track|Global*Main-Nav*Womens>MinimalShoes" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;cat=minimal">Minimal Shoes</a></li>
   <li><a class="gae-track|Global*Main-Nav*Womens>RemovableInsole" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;extras=removable%20insole">Removable Insole</a></li>
   <li><a class="gae-track|Global*Main-Nav*Womens>Waterproof" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;extras=waterproof">Waterproof</a></li>
-  <li><a class="gae-track|Global*Main-Nav*Womens>WordAndSafety" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;cat=work%20and%20safety">Work and Safety</a></li>
+  <li><a class="gae-track|Global*Main-Nav*Womens>WordAndSafety" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;cat=work%20and%20safety&amp;subcat=professional">Professional</a></li>
   <li><a class="boldme gae-track|Global*Main-Nav*Womens>WideShoes" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;swidth=wide">Wide Shoes</a></li>
-  <li><a class="boldme gae-track|Global*Main-Nav*Womens>NarrowShoes" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;swidth=narrow">Narrow Shoes</a></li>
+  <li><a class="boldme gae-track|Global*Main-Nav*Womens>NarrowShoes" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;swidth=narrow">Narrow Shoes</a></li> 
+<li><a class="gae-track|Global*Main-Nav*Womens>Socks" href="/storeitems.aspx?gender=women&amp;depart=accessories&amp;cat=socks">Socks</a></li>
 </ul>
 <ul class="withborder skinnyul">
   <li>
     <h3>Popular Shops</h3>
   </li>
   <li><a class="gae-track|Global*Main-Nav*Womens>BarefootShoes" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;cat=minimal&amp;subcat=barefoot">Barefoot Shoes</a></li>
-  <li><a class="gae-track|Global*Main-Nav*Womens>Eco" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;shop=eco-logical%20shop">Eco</a></li>
-  <li><a class="gae-track|Global*Main-Nav*Womens>HealthAndWellness" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;shop=health%20and%20wellness">Health &amp; Wellness</a></li>
+  <li><a class="gae-track|Global*Main-Nav*Womens>Eco" href="/eco">Eco</a></li>
+  <li><a class="gae-track|Global*Main-Nav*Womens>HealthAndWellness" href="/health-and-wellness-shoes">Health &amp; Wellness</a></li>
   <li><a class="gae-track|Global*Main-Nav*Womens>MadeInEurope" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;shop=made%20in%20europe">Made in Europe</a></li>
   <li><a class="gae-track|Global*Main-Nav*Womens>MadeInUSA" href="/storeitems.aspx?shop=made%20in%20usa&amp;gender=women">Made in USA</a></li>
   <li><a class="gae-track|Global*Main-Nav*Womens>OutdoorShop" href="/outdoor">Outdoor</a></li>
-  <li><a class="gae-track|Global*Main-Nav*Womens>Vegan" href="/storeitems.aspx?shop=vegan%20shop&amp;gender=women">Vegan</a></li>
+  <li><a class="gae-track|Global*Main-Nav*Womens>Vegan" href="/vegan">Vegan</a></li>
 </ul>
 <ul class="wideulextreme">
   <li>
     <h3>Featured Brands</h3>
   </li>
 </ul>
-<div class="topbrands_logos"> <a class="gae-track|Global*Main-Nav*Womens>FeaturedLogo>Born" href="/born"><img src="/mmPlanet/Images/brands/born/born_small.jpg" alt="Born" height="40" width="120"></a> <a class="gae-track|Global*Main-Nav*Womens>FeaturedLogo>KalsoEarthShoe" href="/kalso-earth-shoe"><img src="/mmPlanet/Images/brands/kalsoearthshoe/kalsoearthshoe_logo.jpg" alt="Kalso Earth Shoe" height="40" width="120"></a> <a class="gae-track|Global*Main-Nav*Womens>FeaturedLogo>Bogs" href="/bogs"><img src="/mmPlanet/Images/brands/bogs/bogs_logosmall.gif" alt="Bogs" height="40" width="120"></a> <a class="gae-track|Global*Main-Nav*Womens>FeaturedLogo>Sorel" href="/sorel"><img src="/mmPlanet/Images/brands/sorel/sorel_small.jpg" alt="Sorel" height="40" width="120"></a> <a class="gae-track|Global*Main-Nav*Womens>FeaturedLogo>FlyLondon" href="/fly-london"><img src="/mmPlanet/Images/brands/flylondon/flylondon_small.jpg" alt="Fly London" height="40" width="120"></a> </div></div></div></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:75px;"><a href="http://www.planetshoes.com/storeitems.aspx?gender=men&amp;depart=shoes" class="menutitle1 men">Men</a><div id="menu_Men" class="head_menu_list_item_content" style="left: 10px;"><div class="sub"><div class="whitebar_hide_shadow"></div>
+<div class="topbrands_logos"> <a class="gae-track|Global*Main-Nav*Womens>FeaturedLogo>Born" href="/born"><img src="/mmPlanet/Images/brands/born/born_small.jpg" alt="Born" height="40" width="120"></a> <a class="gae-track|Global*Main-Nav*Womens>FeaturedLogo>KalsoEarthShoe" href="/kalso-earth-shoe"><img src="/mmPlanet/Images/brands/kalsoearthshoe/kalsoearthshoe_logo.jpg" alt="Kalso Earth Shoe" height="40" width="120"></a> <a class="gae-track|Global*Main-Nav*Womens>FeaturedLogo>Keen" href="/keen"><img src="/mmplanet/images/brands/keen/Keen_thumb.gif" alt="Keen" height="40" width="120"></a> <a class="gae-track|Global*Main-Nav*Womens>FeaturedLogo>Jambu" href="/jambu"><img src="/mmPlanet/Images/brands/jambu/jambu_small.jpg" alt="Jambu" height="40" width="120"></a> <a class="gae-track|Global*Main-Nav*Womens>FeaturedLogo>FlyLondon" href="/fly-london"><img src="/mmPlanet/Images/brands/flylondon/flylondon_small.jpg" alt="Fly London" height="40" width="120"></a> </div></div></div></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:75px;"><a href="/storeitems.aspx?gender=men&amp;depart=shoes" class="menutitle1 men gae-track|Global*Main-Nav*Mens">Men</a><div id="menu_Men" class="head_menu_list_item_content" style="left: 10px;"><div class="sub"><div class="whitebar_hide_shadow"></div>
 <ul class="wideul">
 <li>
 <h2><a class="black gae-track|Global*Main-Nav*Mens>All Mens" href="/storeitems.aspx?gender=men&amp;depart=shoes" id="menumensall">View All Men’s</a></h2>
 </li>
 <li><a class="gae-track|Global*Main-Nav*Mens>CasualShoes" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;shop=casual%20shoes">Casual Shoes</a></li>
-<li><a class="gae-track|Global*Main-Nav*Mens>Clogs" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;cat=clogs">Clogs</a></li>
 <li><a class="gae-track|Global*Main-Nav*Mens>DressShoes" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;shop=dress%20shoes">Dress Shoes</a></li>
 <li><a class="gae-track|Global*Main-Nav*Mens>AthleticShoes" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;cat=athletic%20shoes">Athletic Shoes</a></li>
 <li><a class="gae-track|Global*Main-Nav*Mens>BoatShoes" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;cat=boat%20shoes">Boat Shoes</a></li>
 <li><a class="gae-track|Global*Main-Nav*Mens>Boots" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;cat=boots">Boots</a></li>
+<li><a class="gae-track|Global*Main-Nav*Mens>Clogs" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;cat=clogs">Clogs</a></li>
 </ul>
 <ul>
 <li><a class="gae-track|Global*Main-Nav*Mens>LaceUps" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;cat=lace-ups">Lace-Ups</a></li>
-<li><a class="gae-track|Global*Main-Nav*Mens>LoafersAndSlipOns" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;cat=loafers%20and%20slip%20ons">Loafers and Slip Ons</a></li>
+<li><a class="gae-track|Global*Main-Nav*Mens>LoafersAndSlipOns" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;cat=loafers%20slip%20ons">Loafers and Slip Ons</a></li>
 <li><a class="gae-track|Global*Main-Nav*Mens>Outdoor" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;shop=outdoor%20shop">Outdoor</a></li>
 <li><a class="gae-track|Global*Main-Nav*Mens>Sandals" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;cat=sandals">Sandals</a></li>
 <li><a class="gae-track|Global*Main-Nav*Mens>Slippers" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;cat=slippers">Slippers</a></li>
-<li><a class="sale_red gae-track|Global*Main-Nav*Mens>Sale" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;pricecat=on%20sale">Men’s Sale</a></li>
+<li><a class="sale_red gae-track|Global*Main-Nav*Mens>Clearance" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;pricecat=on%20sale">Men’s Clearance</a></li>
 <li><a class="outlet_red gae-track|Global*Main-Nav*Mens>Outlet" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;pricecat=outlet">Men’s Outlet</a></li>
 </ul>
 <ul class="withborder skinnyul">
@@ -331,18 +350,19 @@ margin: 6px 0 4px 8px;
 <li><a class="gae-track|Global*Main-Nav*Mens>WorkAndSafety" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;cat=work%20and%20safety">Work and Safety</a></li>
 <li><a class="boldme gae-track|Global*Main-Nav*Mens>WideShoes" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;swidth=wide">Wide Shoes</a></li>
 <li><a class="boldme gae-track|Global*Main-Nav*Mens>NarrowShoes" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;swidth=narrow">Narrow Shoes</a></li>
+<li><a class="gae-track|Global*Main-Nav*Mens>Socks" href="/storeitems.aspx?gender=men&amp;depart=accessories&amp;cat=socks">Socks</a></li>
 </ul>
 <ul class="withborder skinnyul">
 <li>
 <h3>Popular Shops</h3>
 </li>
 <li><a class="gae-track|Global*Main-Nav*Mens>BarefootShoes" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;cat=minimal&amp;subcat=barefoot">Barefoot Shoes</a></li>
-<li><a class="gae-track|Global*Main-Nav*Mens>Eco" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;shop=eco-logical%20shop">Eco</a></li>
-<li><a class="gae-track|Global*Main-Nav*Mens>HealthAndWellness" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;shop=health%20and%20wellness">Health &amp; Wellness</a></li>
+<li><a class="gae-track|Global*Main-Nav*Mens>Eco" href="/eco">Eco</a></li>
+<li><a class="gae-track|Global*Main-Nav*Mens>HealthAndWellness" href="/health-and-wellness-shoes">Health &amp; Wellness</a></li>
 <li><a class="gae-track|Global*Main-Nav*Mens>MadeInEurope" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;shop=made%20in%20europe">Made in Europe</a></li>
 <li><a class="gae-track|Global*Main-Nav*Mens>MadeInUSA" href="/storeitems.aspx?shop=made%20in%20usa&amp;gender=men">Made in USA</a></li>
 <li><a class="gae-track|Global*Main-Nav*Mens>OutdoorShop" href="/outdoor">Outdoor</a></li>
-<li><a class="gae-track|Global*Main-Nav*Mens>Vegan" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;cat=vegan">Vegan</a></li>
+<li><a class="gae-track|Global*Main-Nav*Mens>Vegan" href="/vegan">Vegan</a></li>
 </ul>
 <ul class="wideulextreme">
 <li>
@@ -356,26 +376,26 @@ margin: 6px 0 4px 8px;
 <a class="gae-track|Global*Main-Nav*Mens>FeaturedLogo>Merrell" href="/merrell"><img src="/mmPlanet/Images/brands/merrell/merrell_logosmall.gif" alt="Merrell" height="40" width="120"></a>
 <a class="gae-track|Global*Main-Nav*Mens>FeaturedLogo>VIVOBAREFOOT" href="/vivobarefoot"><img src="/mmPlanet/Images/brands/vivobarefoot/vivobarefoot_logo.jpg" alt="VIVOBAREFOOT" height="40" width="120"></a>
 
-</div></div></div></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:75px;"><a href="http://www.planetshoes.com/storeitems.aspx?gender=kids&amp;depart=shoes" class="menutitle1 kids">Kids</a><div id="menu_Kids" class="head_menu_list_item_content" style="left: 10px;"><div class="sub"><div class="whitebar_hide_shadow"></div>
+</div></div></div></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:65px;"><a href="/storeitems.aspx?gender=kids&amp;depart=shoes" class="menutitle1 kids gae-track|Global*Main-Nav*Kids">Kids</a><div id="menu_Kids" class="head_menu_list_item_content" style="left: 10px;"><div class="sub"><div class="whitebar_hide_shadow"></div>
 <ul class="wideul">
 <li>
 <h2><a class="black gae-track|Global*Main-Nav*Kids>All Kids" href="/storeitems.aspx?gender=kids&amp;depart=shoes" id="menukidsall">View All Kid’s</a></h2>
 </li>
+<li><a class="gae-track|Global*Main-Nav*Kids>CasualShoes" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;shop=casual%20shoes">Casual Shoes</a></li>
+<li><a class="gae-track|Global*Main-Nav*Kids>DressShoes" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;shop=dress%20shoes">Dress Shoes</a></li>
+<li><a class="gae-track|Global*Main-Nav*Kids>Sandals" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;cat=sandals">Sandals</a></li>
 <li><a class="gae-track|Global*Main-Nav*Kids>AthleticShoes" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;cat=athletic%20shoes">Athletic Shoes</a></li>
 <li><a class="gae-track|Global*Main-Nav*Kids>BoatShoes" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;cat=boat%20shoes">Boat Shoes</a></li>
 <li><a class="gae-track|Global*Main-Nav*Kids>Boots" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;cat=boots">Boots</a></li>
-<li><a class="gae-track|Global*Main-Nav*Kids>CasualShoes" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;shop=casual%20shoes">Casual Shoes</a></li>
 <li><a class="gae-track|Global*Main-Nav*Kids>Clogs" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;cat=clogs">Clogs</a></li>
-<li><a class="gae-track|Global*Main-Nav*Kids>DressShoes" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;shop=dress%20shoes">Dress Shoes</a></li>
-<li><a class="gae-track|Global*Main-Nav*Kids>Flats" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;cat=flats">Flats</a></li>
 </ul>
 <ul>
+<li><a class="gae-track|Global*Main-Nav*Kids>Flats" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;cat=flats">Flats</a></li>
 <li><a class="gae-track|Global*Main-Nav*Kids>LoafersAndSlipOns" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;cat=loafers%20and%20slip%20ons">Loafers and Slip Ons</a></li>
 <li><a class="gae-track|Global*Main-Nav*Kids>MaryJanes" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;cat=mary%20janes">Mary Janes</a></li>
 <li><a class="gae-track|Global*Main-Nav*Kids>Outdoor" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;shop=outdoor%20shop">Outdoor</a></li>
-<li><a class="gae-track|Global*Main-Nav*Kids>Sandals" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;cat=sandals">Sandals</a></li>
 <li><a class="gae-track|Global*Main-Nav*Kids>Slippers" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;cat=slippers">Slippers</a></li>
-<li><a class="sale_red gae-track|Global*Main-Nav*Kids>Sale" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=on%20sale">Kid’s Sale</a></li>
+<li><a class="sale_red gae-track|Global*Main-Nav*Kids>Clearance" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=on%20sale">Kid’s Clearance</a></li>
 <li><a class="outlet_red gae-track|Global*Main-Nav*Kids>Outlet" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet">Kid’s Outlet</a></li>
 </ul>
 <ul class="withborder skinnyul">
@@ -385,16 +405,17 @@ margin: 6px 0 4px 8px;
 <li><a class="gae-track|Global*Main-Nav*Kids>RemovableInsole" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;extras=removable%20insole">Removable Insole</a></li>
 <li><a class="gae-track|Global*Main-Nav*Kids>Waterproof" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;extras=waterproof">Waterproof</a></li>
 <li><a class="boldme gae-track|Global*Main-Nav*Kids>WideShoes" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;swidth=wide">Wide Shoes</a></li>
+<li><a class="gae-track|Global*Main-Nav*Kids>Socks" href="/storeitems.aspx?gender=kids&amp;depart=accessories&amp;cat=socks">Socks</a></li>
 </ul>
 <ul class="withborder skinnyul">
 <li>
 <h3>Popular Shops</h3>
 </li>
-<li><a class="gae-track|Global*Main-Nav*Kids>Eco" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;shop=eco-logical%20shop">Eco</a></li>
-<li><a class="gae-track|Global*Main-Nav*Kids>HealthAndWellness" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;shop=health%20and%20wellness">Health &amp; Wellness</a></li>
+<li><a class="gae-track|Global*Main-Nav*Kids>Eco" href="/eco">Eco</a></li>
+<li><a class="gae-track|Global*Main-Nav*Kids>HealthAndWellness" href="/health-and-wellness-shoes">Health &amp; Wellness</a></li>
 <li><a class="gae-track|Global*Main-Nav*Kids>MadeInUSA" href="/storeitems.aspx?shop=made%20in%20usa&amp;gender=kids">Made in USA</a></li>
 <li><a class="gae-track|Global*Main-Nav*Kids>OutdoorShop" href="/outdoor">Outdoor</a></li>
-<li><a class="gae-track|Global*Main-Nav*Kids>Vegan" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;cat=vegan">Vegan</a></li>
+<li><a class="gae-track|Global*Main-Nav*Kids>Vegan" href="/vegan">Vegan</a></li>
 </ul>
 <ul class="wideulextreme">
 <li>
@@ -402,47 +423,101 @@ margin: 6px 0 4px 8px;
 </li>
 </ul>
 <div class="topbrands_logos"> 
-<a class="gae-track|Global*Main-Nav*Kids>FeaturedLogo>Acorn" href="/acorn"><img src="/mmPlanet/Images/brands/acorn/acorn_logosmall.gif" alt="Acorn" height="40" width="120"></a>
+<a class="gae-track|Global*Main-Nav*Kids>FeaturedLogo>Merrell" href="/merrell"><img src="/mmplanet/images/brands/merrell/merrell_logosmall.gif" alt="Merrell" height="40" width="120"></a>
 <a class="gae-track|Global*Main-Nav*Kids>FeaturedLogo>NewBalance" href="/new-balance"><img src="/mmPlanet/Images/brands/newbalance/new-balance-logosmall.gif" alt="New Balance" height="40" width="120"></a>
 <a class="gae-track|Global*Main-Nav*Kids>FeaturedLogo>Geox" href="/geox"><img src="/mmPlanet/Images/brands/geox/geox_logosmall.gif" alt="Geox" height="40" width="120"></a>
-<a class="gae-track|Global*Main-Nav*Kids>FeaturedLogo>Bogs" href="/bogs"><img src="/mmPlanet/Images/brands/bogs/bogs_logosmall.gif" alt="Bogs" height="40" width="120"></a>
-<a class="gae-track|Global*Main-Nav*Kids>FeaturedLogo>Timberland" href="/timberland"><img src="/mmPlanet/Images/brands/timberland/timberland_logo.gif" alt="Timberland" height="40" width="120"></a>
-</div></div></div></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:110px;"><a href="http://www.planetshoes.com/storeitems.aspx?depart=bags" class="menutitle1 accessories">Accessories</a><div id="menu_Accessories" class="head_menu_list_item_content" style="left: 10px;"><div class="sub"><div class="whitebar_hide_shadow"></div> <ul class="skinnyul">
-            <li>
-              <h2><a class="black gae-track|Global*Main-Nav*Accessories>All Bags" href="/storeitems.aspx?depart=bags">View All Bags</a></h2>
-            </li>
-            <li><a class="gae-track|Global*Main-Nav*Accessories>WomensBags" href="/storeitems.aspx?gender=women&amp;depart=bags">Women’s Bags</a></li>
-            <li><a class="gae-track|Global*Main-Nav*Accessories>MensBags" href="/storeitems.aspx?gender=men&amp;depart=bags">Men’s Bags</a></li>
-            <li><a class="gae-track|Global*Main-Nav*Accessories>KidsBags" href="/storeitems.aspx?gender=kids&amp;depart=bags">Kid’s Bags</a></li>
-            <li><a class="sale_red gae-track|Global*Main-Nav*Accessories>BagsOnSale" href="/storeitems.aspx?depart=bags&amp;price=on%20sale">Bags On Sale</a></li>
-          </ul>
-          <ul class="wideulextreme">
-            <li>
-              <h2><a class="black gae-track|Global*Main-Nav*Accessories>All Accessories" href="/storeitems.aspx?depart=accessories">View All Accessories</a></h2>
-            </li>
-            <li><a class="gae-track|Global*Main-Nav*Accessories>WomensAccessories" href="/storeitems.aspx?gender=women&amp;depart=accessories">Women’s Accessories</a></li>
-            <li><a class="gae-track|Global*Main-Nav*Accessories>MensAccessories" href="/storeitems.aspx?gender=men&amp;depart=accessories">Men’s Accessories</a></li>
-            <li><a class="gae-track|Global*Main-Nav*Accessories>KidsAccessories" href="/storeitems.aspx?gender=kids&amp;depart=accessories">Kid’s Accessories</a></li>
-            <li><a class="sale_red gae-track|Global*Main-Nav*Accessories>AccessoriesOnSale" href="/storeitems.aspx?depart=accessories&amp;price=on%20sale">Accessories On Sale</a></li>
-          </ul>
-          <div class="innernav_img"> <a class="gae-track|Global*Main-Nav*Accessories>FeatureImage1>Hats" href="/storeitems.aspx?depart=accessories&amp;cat=hats"><img src="/mmplanet/menu/images/hats.jpg" alt=""></a>
-            <div class="clearthosedivs"></div>
-            <ul class="linksrightaligned">
-              <li><a class="gae-track|Global*Main-Nav*Accessories>FeatureImage1Link>Hats" href="/storeitems.aspx?depart=accessories&amp;cat=hats">Shop Hats</a></li>
-            </ul>
-          </div>
-          <div class="innernav_img"> <a class="gae-track|Global*Main-Nav*Accessories>FeatureImage2>Socks" href="/storeitems.aspx?depart=accessories&amp;cat=socks"><img src="/mmplanet/menu/images/socks.jpg" alt=""></a>
-            <div class="clearthosedivs"></div>
-            <ul class="linksrightaligned">
-              <li><a class="gae-track|Global*Main-Nav*Accessories>FeatureImage2Link>Socks" href="/storeitems.aspx?depart=accessories&amp;cat=socks">Shop Socks</a></li>
-            </ul>
-          </div>
-          <div class="innernav_img innernav_img_norightmargin"> <a class="gae-track|Global*Main-Nav*Accessories>FeatureImage3>Bags" href="/storeitems.aspx?depart=bags"><img src="/mmplanet/menu/images/bags.jpg" alt=""></a>
-            <div class="clearthosedivs"></div>
-            <ul class="linksrightaligned">
-              <li><a class="gae-track|Global*Main-Nav*Accessories>FeatureImage3Link>Bags" href="/storeitems.aspx?depart=bags">Shop Bags</a></li>
-            </ul>
-          </div></div></div></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:80px;"><a href="http://www.planetshoes.com/shops" class="menutitle1 shops">Shops</a><div id="menu_Shops" class="head_menu_list_item_content" style="left: 10px;"><div class="sub"><div class="whitebar_hide_shadow"></div>
+<a class="gae-track|Global*Main-Nav*Kids>FeaturedLogo>Crocs" href="/crocs"><img src="/mmPlanet/Images/brands/crocs/crocs_logo.jpg" alt="Crocs" height="40" width="120"></a>
+<a class="gae-track|Global*Main-Nav*Kids>FeaturedLogo>Keen" href="/keen"><img src="/mmplanet/images/brands/keen/Keen_thumb.gif" alt="Keen" height="40" width="120"></a>
+</div></div></div></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:120px;"><a href="/storeitems.aspx?depart=accessories" class="menutitle1 accessories gae-track|Global*Main-Nav*Accessories">Accessories</a><div id="menu_Accessories" class="head_menu_list_item_content" style="left: 10px;"><div class="sub"><div class="whitebar_hide_shadow"></div><ul class="withborder skinnyul">
+  <li>
+    <h2><a class="black gae-track|Global*Main-Nav*Accessories>All Socks" href="/storeitems.aspx?depart=accessories&amp;cat=socks" id="menuwomensall">View All Socks</a></h2>
+  </li>
+  <li><a class="gae-track|Global*Main-Nav*Accessories>Womens Socks" href="/storeitems.aspx?gender=women&amp;depart=accessories&amp;cat=socks">All Women's Socks</a></li>
+  <li><a class="gae-track|Global*Main-Nav*Accessories>Mens Socks" href="/storeitems.aspx?gender=men&amp;depart=accessories&amp;cat=socks">All Men's Socks</a></li>
+  <li style="padding-bottom: 20px;"><a class="gae-track|Global*Main-Nav*Accessories>Kids Socks" href="/storeitems.aspx?gender=kids&amp;depart=accessories&amp;cat=socks">All Kid's Socks</a></li>
+</ul>
+<ul class="wideul">
+  <li>
+    <h2><a class="black gae-track|Global*Main-Nav*Accessories>WomensAccessories" href="/storeitems.aspx?gender=women&amp;depart=accessories" style="line-height:16px;" id="menuwomensall">All Women's Accessories</a></h2>
+  </li>
+  <li><a class="gae-track|Global*Main-Nav*Accessories>Womens Socks" href="/storeitems.aspx?gender=women&amp;depart=accessories&amp;cat=socks">Women's Socks</a></li>
+  <li><a class="gae-track|Global*Main-Nav*Accessories>Womens Hats" href="/storeitems.aspx?gender=women&amp;depart=accessories&amp;cat=hats">Women's Hats</a></li>
+  <li><a class="gae-track|Global*Main-Nav*Accessories>Womens Gloves and Mittens" href="/storeitems.aspx?gender=women&amp;depart=accessories&amp;cat=gloves%20and%20mittens">Women's Gloves &amp; Mittens</a></li>
+  <li><a class="gae-track|Global*Main-Nav*Accessories>Womens Scarves" href="/storeitems.aspx?gender=women&amp;depart=accessories&amp;cat=scarves">Women's Scarves</a></li>
+  <li><a class="gae-track|Global*Main-Nav*Accessories>Womens Shoe Care" href="/storeitems.aspx?gender=women&amp;depart=accessories&amp;cat=shoe%20care">Women's Shoe Care</a></li>
+</ul>
+<ul class="wideul">
+  <li>
+    <h2><a class="black gae-track|Global*Main-Nav*Accessories>MensAccessories" href="/storeitems.aspx?gender=men&amp;depart=accessories" style="line-height:16px;" id="menuwomensall">All Men's Accessories</a></h2>
+  </li>
+  <li><a class="gae-track|Global*Main-Nav*Accessories>mens Socks" href="/storeitems.aspx?gender=men&amp;depart=accessories&amp;cat=socks">Men's Socks</a></li>
+  <li><a class="gae-track|Global*Main-Nav*Accessories>mens Hats" href="/storeitems.aspx?gender=men&amp;depart=accessories&amp;cat=hats">Men's Hats</a></li>
+  <li><a class="gae-track|Global*Main-Nav*Accessories>mens Shoe Care" href="/storeitems.aspx?gender=men&amp;depart=accessories&amp;cat=shoe%20care">Men's Shoe Care</a></li>
+</ul><ul class="withborder skinnyul">
+  <li>
+    <h2><a class="black gae-track|Global*Main-Nav*Accessories>KidsAccessories" href="/storeitems.aspx?gender=kids&amp;depart=accessories" style="line-height:16px;" id="menuwomensall">All Kid's Accessories</a></h2>
+  </li>
+  <li><a class="gae-track|Global*Main-Nav*Accessories>Kids Socks" href="/storeitems.aspx?gender=kids&amp;depart=accessories&amp;cat=socks">Kid's Socks</a></li>
+  <li><a class="gae-track|Global*Main-Nav*Accessories>kids Hats" href="/storeitems.aspx?gender=kids&amp;depart=accessories&amp;cat=hats">Kid's Hats</a></li>
+  <li><a class="gae-track|Global*Main-Nav*Accessories>kids Gloves and Mittens" href="/storeitems.aspx?gender=kids&amp;depart=accessories&amp;cat=gloves%20and%20mittens">Kid's Gloves &amp; Mittens</a></li>
+  <li style="padding-bottom: 20px;"><a class="gae-track|Global*Main-Nav*Accessories>kids Shoe Care" href="/storeitems.aspx?gender=kids&amp;depart=accessories&amp;cat=shoe%20care">Kid's Shoe Care</a></li>
+</ul>
+
+<ul class="wideulextreme">
+  <li>
+    <h3>Featured Brands</h3>
+  </li>
+</ul>
+<div class="topbrands_logos"> <a class="gae-track|Global*Main-Nav*Accessories;FeaturedLogo>smartwool" href="/smartwool"><img src="/mmPlanet/Images/brands/smartwool/smartwool_small.gif" alt="smartwool" height="40" width="120"></a> <a class="gae-track|Global*Main-Nav*Accessories;FeaturedLogo>pistil" href="/pistil"><img src="/mmPlanet/Images/brands/pistil/pistil_small.jpg" alt="Pistil" height="40" width="120"></a> <a class="gae-track|Global*Main-Nav*Accessories;FeaturedLogo>wigwam" href="/wigwam"><img src="/mmPlanet/Images/brands/wigwam/wigwam_logo.jpg" alt="Wigwam" height="40" width="120"></a> <a class="gae-track|Global*Main-Nav*Accessories;FeaturedLogo>injinji" href="/injinji"><img src="/mmPlanet/Images/brands/injinji/logo_small.jpg" alt="Injinji" height="40" width="120"></a> <a class="gae-track|Global*Main-Nav*Accessories;FeaturedLogo>baabaazuzu" href="/baabaazuzu"><img src="/mmPlanet/Images/brands/baabaazuzu/baabaazuzu_logo.jpg" alt="Baabaazuzu" height="40" width="120"></a> </div></div></div></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:70px;"><a href="/storeitems.aspx?depart=bags" class="menutitle1 bags black gae-track|Global*Main-Nav*Bags">Bags</a><div id="menu_Bags" class="head_menu_list_item_content" style="left: 10px;"><div class="sub"><div class="whitebar_hide_shadow"></div>
+<ul class="skinnyul">
+<li>
+<h2><a class="black gae-track|Global*Main-Nav*Bags>All Bags" href="/storeitems.aspx?depart=bags">View All Bags</a></h2>
+</li>
+<li><a class="gae-track|Global*Main-Nav*Bags>Womens Bags" href="/storeitems.aspx?gender=women&amp;depart=bags">All Women's Bags</a></li>
+<li><a class="gae-track|Global*Main-Nav*Bags>Mens Bags" href="/storeitems.aspx?gender=men&amp;depart=bags">All Men's Bags</a></li>
+<li><a class="gae-track|Global*Main-Nav*Bags>Kids Bags" href="/storeitems.aspx?gender=kids&amp;depart=bags">All Kid's Bags</a></li>
+</ul>
+<ul class="withborder skinnyul" style="width:160px">
+<li><a class="gae-track|Global*Main-Nav*Bags>Handbags" href="/storeitems.aspx?depart=bags&amp;cat=handbags">Handbags</a></li>
+<li><a class="gae-track|Global*Main-Nav*Bags>Backpacks" href="/storeitems.aspx?depart=bags&amp;cat=backpacks">Backpacks</a></li>
+<li><a class="gae-track|Global*Main-Nav*Bags>Messenger Laptop" href="/storeitems.aspx?depart=bags&amp;cat=messenger%20and%20laptop">Messenger and Laptop</a></li>
+<li><a class="gae-track|Global*Main-Nav*Bags>Totes Duffel" href="/storeitems.aspx?depart=bags&amp;cat=totes%20and%20duffel">Totes and Duffel</a></li>
+<li><a class="gae-track|Global*Main-Nav*Bags>Cosmetic" href="/storeitems.aspx?depart=bags&amp;cat=cosmetic">Cosmetic</a></li>
+<li><a class="gae-track|Global*Main-Nav*Bags>Wallets Accessories" href="/storeitems.aspx?depart=bags&amp;cat=wallets%20and%20accessories">Wallets and Accessories</a></li>
+</ul>
+<div class="innernav_img"><img src="/mmPlanet/menu/images/bag_logos_left.jpg" alt="" border="0" usemap="#Map">
+    <map name="Map">
+      <area shape="rect" coords="41,5,163,46" class="gae-track|Global*Main-Nav*Bags;FeaturedLogo>thenorthface" href="/the-north-face" alt="The North Face" title="The North Face">
+      <area shape="rect" coords="42,50,162,94" class="gae-track|Global*Main-Nav*Bags;FeaturedLogo>haiku" href="/haiku" alt="Haiku" title="Haiku">
+      <area shape="rect" coords="40,97,163,132" class="gae-track|Global*Main-Nav*Bags;FeaturedLogo>patagonia" href="/patagonia" alt="Patagonia" title="Patagonia">
+    </map>
+
+<div class="clearthosedivs"></div>
+<ul class="linksrightaligned">
+</ul>
+</div>
+<div class="innernav_img"><img src="/mmPlanet/menu/images/bag_logos_middle.jpg" alt="" border="0" usemap="#Map2">
+    <map name="Map2">
+      <area shape="rect" coords="42,2,159,45" class="gae-track|Global*Main-Nav*Bags;FeaturedLogo>baggallini" href="/baggallini" alt="Baggallini" title="Baggallini">
+      <area shape="rect" coords="42,49,159,91" class="gae-track|Global*Main-Nav*Bags;FeaturedLogo>kavu" href="/kavu" alt="KAVU" title="KAVU">
+      <area shape="rect" coords="40,93,160,130" class="gae-track|Global*Main-Nav*Bags;FeaturedLogo>sherpani" href="/sherpani" alt="Sherpani" title="Sherpani">
+    </map>
+
+<div class="clearthosedivs"></div>
+<ul class="linksrightaligned">
+</ul>
+</div>
+<div class="innernav_img innernav_img_norightmargin"><img src="/mmPlanet/menu/images/bag_logos_right.jpg" alt="" border="0" usemap="#Map3">
+    <map name="Map3">
+      <area shape="rect" coords="25,6,165,45" class="gae-track|Global*Main-Nav*Bags;FeaturedLogo>Ethnotek" href="/ethnotek" alt="Ethnotek" title="Ethnotek">
+      <area shape="rect" coords="24,47,161,90" class="gae-track|Global*Main-Nav*Bags;FeaturedLogo>webe" href="/webe-bags" alt="Webe Bags" title="Webe Bags">
+      <area shape="poly" coords="24,95,23,126,155,128,156,95" class="gae-track|Global*Main-Nav*Bags;FeaturedLogo>anuschka" href="/anuschka" alt="Anuschka" title="Anuschka">
+    </map>
+
+<div class="clearthosedivs"></div>
+<ul class="linksrightaligned">
+</ul>
+</div> </div></div></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:75px;"><a href="/shops" class="menutitle1 shops black gae-track|Global*Main-Nav*Shops">Shops</a><div id="menu_Shops" class="head_menu_list_item_content" style="left: 10px;"><div class="sub"><div class="whitebar_hide_shadow"></div>
 <ul class="skinnyul">
 <li>
 <h2><a class="black gae-track|Global*Main-Nav*Shops>All Shops" href="/shops">View All Shops</a></h2>
@@ -457,8 +532,8 @@ margin: 6px 0 4px 8px;
 <li><a class="gae-track|Global*Main-Nav*Shops>MadeInUSA" href="/storeitems.aspx?shop=made%20in%20usa">Made In The USA</a></li>
 <li><a class="gae-track|Global*Main-Nav*Shops>OneOfAKind" href="/storeitems.aspx?shop=one%20of%20a%20kind">One Of A Kind</a></li>
 <li><a class="gae-track|Global*Main-Nav*Shops>Outdoor" href="/outdoor">Outdoor</a></li>
-<li><a class="gae-track|Global*Main-Nav*Shops>TrendShop" href="/shoe-trends">Trend Shop</a></li>
 <li><a class="gae-track|Global*Main-Nav*Shops>Vegan" href="/vegan">Vegan</a></li>
+<li><a class="gae-track|Global*Main-Nav*Shops>FreeDeals" href="/storeitems.aspx?shop=free%20deals">Free Gifts With Purchase</a></li>
 </ul>
 <div class="innernav_img"> <a class="gae-track|Global*Main-Nav*Shops>FeatureImage1>MinimalBarefoot" href="/storeitems.aspx?depart=shoes&amp;cat=minimal"><img src="/mmPlanet/menu/images/barefoot.jpg" alt=""></a>
 <div class="clearthosedivs"></div>
@@ -477,87 +552,55 @@ margin: 6px 0 4px 8px;
 <ul class="linksrightaligned">
 <li><a class="gae-track|Global*Main-Nav*Shops>FeatureImage3Link>Eco" href="/eco">Eco Shop</a></li>
 </ul>
-</div> </div></div></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:70px;"><a href="http://blog.planetshoes.com/" class="menutitle1 blog">Blog</a></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:100px;"><a href="http://www.planetshoes.com/giveaways" class="menutitle1 freegifts">Free&nbsp;Gifts</a><div id="menu_FreeGifts" class="head_menu_list_item_content" style="left: 10px;"><div class="sub"><div class="whitebar_hide_shadow"></div>
-<ul class="skinnyul">
-<li>
-<h3>Free Gifts</h3>
-</li>
-<li><a class="gae-track|Global*Main-Nav*FreeGifts>GiftWithPurchase" href="/storeitems.aspx?shop=free%20deals">Gifts With Purchase</a></li>
-<li><a class="gae-track|Global*Main-Nav*FreeGifts>WeeklyGiveaway" href="/giveaways">Weekly Giveaway</a></li>
-<li><a class="gae-track|Global*Main-Nav*FreeGifts>100Facebook" rel="nofollow" href="https://www.facebook.com/planetshoes/app_257742274271965" target="newwindow">Win $100 Facebook</a></li>
-</ul>
-<ul>
- <li>
-    <h3>Super Deals</h3>
-  </li>
-<li><a class="gae-track|Global*Main-Nav*FreeGifts>InviteAFriend" href="/invite_friend">Invite a Friend - Get $10</a></li>
-<li><a class="gae-track|Global*Main-Nav*FreeGifts>DailyDeal" href="/storeitems.aspx?brand=elnaturalista&amp;pricecat=on%20sale">The Daily Deal</a></li>
-</ul> 
-<div class="innernav_img"> <a class="gae-track|Global*Main-Nav*FreeGifts>FeatureImage1>GiftsWithPurchase" href="/storeitems.aspx?shop=free%20deals"><img src="/mmPlanet/menu/images/gifts.jpg" alt=""></a>
-<div class="clearthosedivs"></div>
-<ul class="linksrightaligned">
-<li><a class="gae-track|Global*Main-Nav*FreeGifts>FeatureImage1Link>GiftsWithPurchase" href="/storeitems.aspx?shop=free%20deals">Gifts With Purchase</a></li>
-</ul>
-</div>
-<div class="innernav_img"> <a class="gae-track|Global*Main-Nav*FreeGifts>FeatureImage2>WeeklyGiveaway" href="/giveaways"><img src="/mmPlanet/menu/images/giveaway.jpg" alt=""></a>
-<div class="clearthosedivs"></div>
-<ul class="linksrightaligned">
-<li><a class="gae-track|Global*Main-Nav*FreeGifts>FeatureImage2Link>WeeklyGiveaway" href="/giveaways">Weekly Giveaway</a></li>
-</ul>
-</div>
-<div class="innernav_img innernav_img_norightmargin"> <a class="gae-track|Global*Main-Nav*FreeGifts>FeatureImage3>100Facebook" rel="nofollow" href="https://www.facebook.com/planetshoes/app_257742274271965" target="newwindow"><img src="/mmPlanet/menu/images/giftcard.jpg" alt=""></a>
-<div class="clearthosedivs"></div>
-<ul class="linksrightaligned">
-<li><a class="gae-track|Global*Main-Nav*FreeGifts>FeatureImage3Link>100Facebook" rel="nofollow" href="https://www.facebook.com/planetshoes/app_257742274271965" target="newwindow">Win $100 Gift Cert</a></li>
-</ul>
-</div></div></div></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:135px;"><a href="http://www.planetshoes.com/rewards" class="menutitle1 planetrewards">Planet&nbsp;Rewards</a></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:65px;"><a href="http://www.planetshoes.com/sale" class="menutitle1 sale">Sale</a><div id="menu_Sale" class="head_menu_list_item_content" style="left: 10px;"><div class="sub"><div class="whitebar_hide_shadow"></div>
+</div> </div></div></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:65px;"><a href="http://blog.planetshoes.com/" class="menutitle1 blog black gae-track|Global*Main-Nav*Blog">Blog</a></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:145px;"><a href="/rewards" class="menutitle1 planetrewards black gae-track|Global*Main-Nav*PlanetRewards">Planet&nbsp;Rewards</a></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:85px;"><a href="/sale" class="menutitle1 sale gae-track|Global*Main-Nav*Sale">SALE</a><div id="menu_SALE" class="head_menu_list_item_content" style="left: 10px;"><div class="sub"><div class="whitebar_hide_shadow"></div>
 <div class="sale_white whitebar_hide_shadow"></div>
 <ul class="wideul">
 <li>
-<h2><a class="black gae-track|Global*Main-Nav*Sale>All Sale" href="/storeitems.aspx?pricecat=on%20sale" id="menusaleall">All Sale Items</a></h2>
+<h2><a class="black gae-track|Global*Main-Nav*Sale>All Sale" href="/storeitems.aspx?pricegrp=on%20sale" id="menusaleall">All Sale Items</a></h2>
 </li>
-<li><a class="gae-track|Global*Main-Nav*Sale>WomensSale" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;pricecat=on%20sale">Women’s Shoes On Sale</a></li>
-<li><a class="gae-track|Global*Main-Nav*Sale>MensSale" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;pricecat=on%20sale">Men’s Shoes On Sale</a></li>
-<li><a class="gae-track|Global*Main-Nav*Sale>KidsSale" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=on%20sale">Kid’s Shoes On Sale</a></li>
-<li><a class="gae-track|Global*Main-Nav*Sale>BagsOnSale" href="/storeitems.aspx?depart=bags&amp;pricecat=on%20sale">Bags On Sale</a></li>
-<li><a class="gae-track|Global*Main-Nav*Sale>AccessoriesOnSale" href="/storeitems.aspx?depart=accessories&amp;pricecat=on%20sale">Accessories On Sale</a></li>
+<li><a class="gae-track|Global*Main-Nav*Sale>WomensSale" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;pricegrp=on%20sale">Women’s Shoes On Sale</a></li>
+<li><a class="gae-track|Global*Main-Nav*Sale>MensSale" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;pricegrp=on%20sale">Men’s Shoes On Sale</a></li>
+<li><a class="gae-track|Global*Main-Nav*Sale>KidsSale" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=on%20sale">Kid’s Shoes On Sale</a></li>
+<li><a class="gae-track|Global*Main-Nav*Sale>BagsOnSale" href="/storeitems.aspx?depart=bags&amp;pricegrp=on%20sale">Bags On Sale</a></li>
+<li><a class="gae-track|Global*Main-Nav*Sale>AccessoriesOnSale" href="/storeitems.aspx?depart=accessories&amp;pricegrp=on%20sale">Accessories On Sale</a></li>
 </ul>
 <ul class="wideul">
 <li>
 <h3>Other Super Savings</h3>
 </li>
-<li><a class="gae-track|Global*Main-Nav*Sale>DailyDeal" href="/storeitems.aspx?brand=elnaturalista&amp;pricecat=on%20sale">The Daily Deal</a></li>
-<li><a class="gae-track|Global*Main-Nav*Sale>ClearanceOutlet" href="/outlet">Clearance Outlet</a></li>
+<li><a class="gae-track|Global*Main-Nav*Sale>DailyDeal" href="/dailydeal">The Daily Deal</a></li>
+<li><a class="gae-track|Global*Main-Nav*Sale>ClearanceOutlet" href="/outlet">Outlet</a></li>
 </ul>
-<div class="innernav_img"> <a class="gae-track|Global*Main-Nav*Sale>FeatureImage1>WomensSale" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;pricecat=on%20sale"><img src="/mmPlanet/menu/images/womens_sale.jpg" alt=""></a>
+<div class="innernav_img"> <a class="gae-track|Global*Main-Nav*Sale>FeatureImage1>WomensSale" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;pricegrp=on%20sale"><img src="/mmPlanet/menu/images/2013_05_28_newmarkdownsW.jpg" alt=""></a>
 <div class="clearthosedivs"></div>
 <ul class="linksrightaligned">
-<li><a class="sale_red gae-track|Global*Main-Nav*Sale>FeatureImage1Link>WomensSale" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;pricecat=on%20sale">Women’s Sale</a></li>
+<li><a class="sale_red gae-track|Global*Main-Nav*Sale>FeatureImage1Link>WomensSale" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;pricegrp=on%20sale">Women’s Sale</a></li>
 </ul>
 </div>
-<div class="innernav_img"> <a class="gae-track|Global*Main-Nav*Sale>FeatureImage2>MensSale" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;pricecat=on%20sale"><img src="/mmPlanet/menu/images/mens_sale.jpg" alt=""></a>
+<div class="innernav_img"> <a class="gae-track|Global*Main-Nav*Sale>FeatureImage2>MensSale" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;pricegrp=on%20sale"><img src="/mmPlanet/menu/images/2013_05_28_newmarkdownsM.jpg" alt=""></a>
 <div class="clearthosedivs"></div>
 <ul class="linksrightaligned">
-<li><a class="sale_red gae-track|Global*Main-Nav*Sale>FeatureImage2Link>MensSale" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;pricecat=on%20sale">Men’s Sale</a></li>
+<li><a class="sale_red gae-track|Global*Main-Nav*Sale>FeatureImage2Link>MensSale" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;pricegrp=on%20sale">Men’s Sale</a></li>
 </ul>
 </div>
-<div class="innernav_img innernav_img_norightmargin"> <a class="gae-track|Global*Main-Nav*Sale>FeatureImage3>KidsSale" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=on%20sale"><img src="/mmPlanet/menu/images/kids_sale.jpg" alt=""></a>
+<div class="innernav_img innernav_img_norightmargin"> <a class="gae-track|Global*Main-Nav*Sale>FeatureImage3>KidsSale" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=on%20sale"><img src="/mmPlanet/menu/images/2013_05_28_newmarkdownsK.jpg" alt=""></a>
 <div class="clearthosedivs"></div>
 <ul class="linksrightaligned">
-<li><a class="sale_red gae-track|Global*Main-Nav*Sale>FeatureImage3Link>KidsSale" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=on%20sale">Kid's Sale</a></li>
+<li><a class="sale_red gae-track|Global*Main-Nav*Sale>FeatureImage3Link>KidsSale" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=on%20sale">Kid's Sale</a></li>
 </ul>
 </div>
-<div class="clearthosedivs"></div> 
-</div></div></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:73px;"><a href="http://www.planetshoes.com/outlet" class="menutitle1 outlet">Outlet</a><div id="menu_Outlet" class="head_menu_list_item_content" style="left: 10px;"><div class="sub"><div class="whitebar_hide_shadow"></div>
+<div class="clearthosedivs"></div> </div></div></li><li class="head_menu_border"></li><li class="head_menu_list_item" style="width:73px;"><a href="/outlet" class="menutitle1 outlet black gae-track|Global*Main-Nav*Outlet">Outlet</a><div id="menu_Outlet" class="head_menu_list_item_content" style="left: 10px;"><div class="sub"><div class="whitebar_hide_shadow"></div><a href="/outlet" style="float:left" class="gae-track|Global*Main-Nav*Outlet>OCSImage"><img border="0" src="/mmPlanet/menu/images/2013_05_24_outlet.jpg" style="padding-top: 10px;"></a>
+<!--
+Removed to show Left OCS image
 <ul class="wideul">
 <li>
-<h2><a class="black gae-track|Global*Main-Nav*Outlet>All OutletItems" href="/storeitems.aspx?depart=shoes&amp;pricecat=outlet" id="menuoutletall">All Outlet Items</a></h2>
+<h2><a class="black gae-track|Global*Main-Nav*Outlet&gt;All OutletItems" href="/storeitems.aspx?depart=shoes&amp;pricegrp=outlet" id="menuoutletall">All Outlet Items</a></h2>
 </li>
-<li><a class="gae-track|Global*Main-Nav*Outlet>WomensOutlet" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;pricecat=outlet">Women’s Outlet</a></li>
-<li><a class="gae-track|Global*Main-Nav*Outlet>MensOutlet" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;pricecat=outlet">Men’s Outlet</a></li>
-<li><a class="gae-track|Global*Main-Nav*Outlet>KidsOutlet" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet">Kid’s Outlet</a></li>
-<li><a class="gae-track|Global*Main-Nav*Outlet>OutletBags" href="/storeitems.aspx?depart=bags&amp;pricecat=outlet">Outlet Bags</a></li>
-<li><a class="gae-track|Global*Main-Nav*Outlet>OutletAccessories" href="/storeitems.aspx?depart=accessories&amp;pricecat=outlet">Outlet Accessories</a></li>
+<li><a class="gae-track|Global*Main-Nav*Outlet&gt;WomensOutlet" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;pricegrp=outlet">Women’s Outlet</a></li>
+<li><a class="gae-track|Global*Main-Nav*Outlet&gt;MensOutlet" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;pricegrp=outlet">Men’s Outlet</a></li>
+<li><a class="gae-track|Global*Main-Nav*Outlet&gt;KidsOutlet" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet">Kid’s Outlet</a></li>
+<li><a class="gae-track|Global*Main-Nav*Outlet&gt;OutletBags" href="/storeitems.aspx?depart=bags&amp;pricegrp=outlet">Outlet Bags</a></li>
+<li><a class="gae-track|Global*Main-Nav*Outlet&gt;OutletAccessories" href="/storeitems.aspx?depart=accessories&amp;pricegrp=outlet">Outlet Accessories</a></li>
 </ul>
 <ul>
 <li>
@@ -566,84 +609,84 @@ margin: 6px 0 4px 8px;
 <li>
 <h3 class="outlet_red arrow_red">Shop By Sizes</h3>
 </li>
-</ul>
+</ul>-->
 <div class="outletbox_links_wrapper">
 <div class="outletbox_links outletbox_links_small"> 
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize1" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=1">1</a>
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize1.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=1.5">1.5</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize2" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=2">2</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize2.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=2.5">2.5</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize3" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=3">3</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize3.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=3.5">3.5</a>
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize4" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=4">4</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize4.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=4.5">4.5</a>
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=5">5</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize6" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=6">6</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize7" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=7">7</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize8" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=8">8</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize8.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=8.5">8.5</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize9" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=9">9</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize9.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=9.5">9.5</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize10" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=10">10</a>
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize10.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=10.5">10.5</a>
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize11" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=11">11</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize11.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=11.5">11.5</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize12" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=12">12</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize12.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=12.5">12.5</a>
- <a class="gae-track|Global*Main-Nav*Outlet>KidsSize13" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=13">13</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>KidsSize13.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet&amp;ssize=13.5">13.5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize1" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=1">1</a>
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize1.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=1.5">1.5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize2" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=2">2</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize2.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=2.5">2.5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize3" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=3">3</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize3.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=3.5">3.5</a>
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize4" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=4">4</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize4.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=4.5">4.5</a>
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=5">5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize6" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=6">6</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize7" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=7">7</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize8" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=8">8</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize8.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=8.5">8.5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize9" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=9">9</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize9.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=9.5">9.5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize10" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=10">10</a>
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize10.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=10.5">10.5</a>
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize11" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=11">11</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize11.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=11.5">11.5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize12" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=12">12</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize12.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=12.5">12.5</a>
+ <a class="gae-track|Global*Main-Nav*Outlet>KidsSize13" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=13">13</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>KidsSize13.5" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet&amp;ssize=13.5">13.5</a> 
 </div>
 <div class="clearthosedivs"></div>
 <ul class=" outletnomargin linksrightaligned">
-<li><a class="outlet_red gae-track|Global*Main-Nav*Outlet>KidsLink" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricecat=outlet">Kid’s Outlet</a></li>
+<li><a class="outlet_red gae-track|Global*Main-Nav*Outlet>KidsLink" href="/storeitems.aspx?gender=kids&amp;depart=shoes&amp;pricegrp=outlet">Kid’s Outlet</a></li>
 </ul>
 </div>
 <div class="outletbox_links_wrapper">
 <div class="outletbox_links"> 
-<a class="gae-track|Global*Main-Nav*Outlet>MensSize6" href="/storeitems.aspx?gender=men&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=6">6</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>MensSize7" href="/storeitems.aspx?gender=men&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=7">7</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>MensSize7.5" href="/storeitems.aspx?gender=men&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=7.5">7.5</a>
- <a class="gae-track|Global*Main-Nav*Outlet>MensSize8" href="/storeitems.aspx?gender=men&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=8">8</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>MensSize8.5" href="/storeitems.aspx?gender=men&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=8.5">8.5</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>MensSize9" href="/storeitems.aspx?gender=men&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=9">9</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>MensSize9.5" href="/storeitems.aspx?gender=men&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=9.5">9.5</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>MensSize10" href="/storeitems.aspx?gender=men&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=10">10</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>MensSize10.5" href="/storeitems.aspx?gender=men&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=10.5">10.5</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>MensSize11" href="/storeitems.aspx?gender=men&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=11">11</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>MensSize11.5" href="/storeitems.aspx?gender=men&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=11.5">11.5</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>MensSize12" href="/storeitems.aspx?gender=men&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=12">12</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>MensSize12.5" href="/storeitems.aspx?gender=men&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=12.5">12.5</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>MensSize13" href="/storeitems.aspx?gender=men&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=13">13</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>MensSize14" href="/storeitems.aspx?gender=men&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=14">14</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>MensSize15" href="/storeitems.aspx?gender=men&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=15">15</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>MensSize6" href="/storeitems.aspx?gender=men&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=6">6</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>MensSize7" href="/storeitems.aspx?gender=men&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=7">7</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>MensSize7.5" href="/storeitems.aspx?gender=men&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=7.5">7.5</a>
+ <a class="gae-track|Global*Main-Nav*Outlet>MensSize8" href="/storeitems.aspx?gender=men&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=8">8</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>MensSize8.5" href="/storeitems.aspx?gender=men&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=8.5">8.5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>MensSize9" href="/storeitems.aspx?gender=men&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=9">9</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>MensSize9.5" href="/storeitems.aspx?gender=men&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=9.5">9.5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>MensSize10" href="/storeitems.aspx?gender=men&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=10">10</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>MensSize10.5" href="/storeitems.aspx?gender=men&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=10.5">10.5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>MensSize11" href="/storeitems.aspx?gender=men&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=11">11</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>MensSize11.5" href="/storeitems.aspx?gender=men&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=11.5">11.5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>MensSize12" href="/storeitems.aspx?gender=men&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=12">12</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>MensSize12.5" href="/storeitems.aspx?gender=men&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=12.5">12.5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>MensSize13" href="/storeitems.aspx?gender=men&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=13">13</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>MensSize14" href="/storeitems.aspx?gender=men&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=14">14</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>MensSize15" href="/storeitems.aspx?gender=men&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=15">15</a> 
 </div>
 <div class="clearthosedivs"></div>
 <ul class="outletnomargin linksrightaligned">
-<li><a class="outlet_red gae-track|Global*Main-Nav*Outlet>MensLink" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;pricecat=outlet">Men’s Outlet</a></li>
+<li><a class="outlet_red gae-track|Global*Main-Nav*Outlet>MensLink" href="/storeitems.aspx?gender=men&amp;depart=shoes&amp;pricegrp=outlet">Men’s Outlet</a></li>
 </ul>
 </div>
 <div class="outletbox_links_wrapper noleftmargin">
 <div class="outletbox_links"> 
-<a class="gae-track|Global*Main-Nav*Outlet>WomensSize5" href="/storeitems.aspx?gender=women&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=5">5</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>WomensSize5.5" href="/storeitems.aspx?gender=women&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=5.5">5.5</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>WomensSize6" href="/storeitems.aspx?gender=women&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=6">6</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>WomensSize6.5" href="/storeitems.aspx?gender=women&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=6.5">6.5</a>
-<a class="gae-track|Global*Main-Nav*Outlet>WomensSize7" href="/storeitems.aspx?gender=women&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=7">7</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>WomensSize7.5" href="/storeitems.aspx?gender=women&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=7.5">7.5</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>WomensSize8" href="/storeitems.aspx?gender=women&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=8">8</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>WomensSize8.5" href="/storeitems.aspx?gender=women&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=8.5">8.5</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>WomensSize9" href="/storeitems.aspx?gender=women&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=9">9</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>WomensSize9.5" href="/storeitems.aspx?gender=women&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=9.5">9.5</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>WomensSize10" href="/storeitems.aspx?gender=women&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=10">10</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>WomensSize10.5" href="/storeitems.aspx?gender=women&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=10.5">10.5</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>WomensSize11" href="/storeitems.aspx?gender=women&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=11">11</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>WomensSize11.5" href="/storeitems.aspx?gender=women&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=11.5">11.5</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>WomensSize12" href="/storeitems.aspx?gender=women&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=12">12</a> 
-<a class="gae-track|Global*Main-Nav*Outlet>WomensSize12.5" href="/storeitems.aspx?gender=women&amp;pricecat=outlet&amp;depart=shoes&amp;ssize=12.5">12.5</a>
+<a class="gae-track|Global*Main-Nav*Outlet>WomensSize5" href="/storeitems.aspx?gender=women&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=5">5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>WomensSize5.5" href="/storeitems.aspx?gender=women&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=5.5">5.5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>WomensSize6" href="/storeitems.aspx?gender=women&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=6">6</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>WomensSize6.5" href="/storeitems.aspx?gender=women&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=6.5">6.5</a>
+<a class="gae-track|Global*Main-Nav*Outlet>WomensSize7" href="/storeitems.aspx?gender=women&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=7">7</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>WomensSize7.5" href="/storeitems.aspx?gender=women&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=7.5">7.5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>WomensSize8" href="/storeitems.aspx?gender=women&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=8">8</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>WomensSize8.5" href="/storeitems.aspx?gender=women&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=8.5">8.5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>WomensSize9" href="/storeitems.aspx?gender=women&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=9">9</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>WomensSize9.5" href="/storeitems.aspx?gender=women&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=9.5">9.5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>WomensSize10" href="/storeitems.aspx?gender=women&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=10">10</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>WomensSize10.5" href="/storeitems.aspx?gender=women&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=10.5">10.5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>WomensSize11" href="/storeitems.aspx?gender=women&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=11">11</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>WomensSize11.5" href="/storeitems.aspx?gender=women&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=11.5">11.5</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>WomensSize12" href="/storeitems.aspx?gender=women&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=12">12</a> 
+<a class="gae-track|Global*Main-Nav*Outlet>WomensSize12.5" href="/storeitems.aspx?gender=women&amp;pricegrp=outlet&amp;depart=shoes&amp;ssize=12.5">12.5</a>
  </div>
 <div class="clearthosedivs"></div>
 <ul class="outletnomargin linksrightaligned">
-<li><a class="outlet_red gae-track|Global*Main-Nav*Outlet>WomensLink" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;pricecat=outlet">Women’s Outlet</a></li>
+<li><a class="outlet_red gae-track|Global*Main-Nav*Outlet>WomensLink" href="/storeitems.aspx?gender=women&amp;depart=shoes&amp;pricegrp=outlet">Women’s Outlet</a></li>
 </ul>
 </div>
 <div class="clearthosedivs"></div> </div></div></li><li class="cl"></li></ul></div>
@@ -657,44 +700,65 @@ margin: 6px 0 4px 8px;
 window.__aspxServerFormID = 'SSForm';
 window.__aspxEmptyImageUrl = '/DXR.axd?r=1_3-oFqv2';
 //-->
-</script><script id="dxss_2046354857" type="text/javascript">
+</script><script id="dxss_1456756606" type="text/javascript">
 <!--
 
 var dxo = new ASPxClientCallback('ctl00_Header1_Callback_GetSearchResult');
 window['Callback_GetSearchResult'] = dxo;
 dxo.callBack = function(arg) { WebForm_DoCallback('ctl00$Header1$Callback_GetSearchResult',arg,aspxCallback,'ctl00_Header1_Callback_GetSearchResult',aspxCallbackError,true); };
 dxo.uniqueID = 'ctl00$Header1$Callback_GetSearchResult';
+dxo.renderIFrameForPopupElements = true;
 dxo.CallbackError.AddHandler(function(s, e) {return false;});
 dxo.CallbackComplete.AddHandler(function(s, e) {ShowSearchResult(e.result);});
 dxo.InlineInitialize();
 
 //-->
 </script>
-<script id="dxss_1317349376" type="text/javascript">
+<script id="dxss_10545049" type="text/javascript">
 <!--
 
 var dxo = new ASPxClientCallback('ctl00_Header1_Callback_UpdateUsedCount');
 window['Callback_UpdateUsedCount'] = dxo;
 dxo.callBack = function(arg) { WebForm_DoCallback('ctl00$Header1$Callback_UpdateUsedCount',arg,aspxCallback,'ctl00_Header1_Callback_UpdateUsedCount',aspxCallbackError,true); };
 dxo.uniqueID = 'ctl00$Header1$Callback_UpdateUsedCount';
+dxo.renderIFrameForPopupElements = true;
 dxo.CallbackError.AddHandler(function(s, e) {return false;});
 dxo.CallbackComplete.AddHandler(function(s, e) {RedirectTo(e.result);});
 dxo.InlineInitialize();
 
 //-->
 </script>
-<script id="dxss_1813259796" type="text/javascript">
+<script id="dxss_1779550279" type="text/javascript">
 <!--
 
 var dxo = new ASPxClientCallback('ctl00_Header1_Callback_ChangeLang');
 window['Callback_ChangeLang'] = dxo;
 dxo.callBack = function(arg) { WebForm_DoCallback('ctl00$Header1$Callback_ChangeLang',arg,aspxCallback,'ctl00_Header1_Callback_ChangeLang',aspxCallbackError,true); };
 dxo.uniqueID = 'ctl00$Header1$Callback_ChangeLang';
+dxo.renderIFrameForPopupElements = true;
 dxo.CallbackError.AddHandler(function(s, e) {return false;});
 dxo.CallbackComplete.AddHandler(function(s, e) {location.href = e.result;});
 dxo.InlineInitialize();
 
 //-->
+</script>
+<script type="text/javascript">
+    (function ()
+    {
+        var headerSearchText = document.getElementById('txtHeaderSearchText');
+        headerSearchText.value = mSearchText;
+        headerSearchText.style.color = "grey";
+        headerSearchText.style.fontStyle = "italic";
+        headerSearchText.onclick = clearSearchbox;
+    })();
+    function clearSearchbox()
+    {
+        var headerSearchText = document.getElementById('txtHeaderSearchText');
+        headerSearchText.value = "";
+        headerSearchText.style.color = "black";
+        headerSearchText.style.fontStyle = "normal";
+        headerSearchText.onclick = null;
+    }
 </script>
 
         </div>
@@ -1078,7 +1142,7 @@ Effective May 2, 2012
         $.ajax(
     {
         type: "GET",
-        url:"addtocart.aspx",
+        url:"/addtocart.aspx",
         data: arg,
         cache: false,
         success: function (msg) {
@@ -1218,11 +1282,14 @@ Effective May 2, 2012
     function closeItemPop() {
         $(".itemSnapshots").fadeOut();
         $("#itemSnapshots_overlay").hide();
+		UpateCart();
     }
 
     function elementCenterAlign(jQElement) {
         var _left = ($(window).width() - jQElement.width()) / 2;
         var _top = ($(window).height() - jQElement.height()) / 2;
+        if (_left < 0) { _left = 0; }
+        if (_top < 10) { _top = 10; }
         return jQElement.css({ "top": _top, "left": _left });
     }
     function showGallery() {
@@ -1291,7 +1358,7 @@ Effective May 2, 2012
             $(".itemSnapshots .close").live("click", function () { closeItemPop(); });
             $("#itemSnapshots_overlay").click(function () { $(".itemSnapshots").fadeOut(); $(this).hide(); });
 
-            $("body").append("<div id='triggers_wrapper'><div class='triggers' style='background-color:#FFF;'><a href='/Images/Icons/loadingImgDetail.gif'>&nbsp;</a></div><div id='gallery' class='simple_overlay'><div class='close'></div></div></div>");
+            $("body").append("<div id='triggers_wrapper'><div class='triggers' style='background-color:#FFF;'><a href='/Images/Icons/loadingImgDetail.gif'>&nbsp;</a></div></div>");
         }
     });
 
@@ -1375,25 +1442,27 @@ Effective May 2, 2012
                 </div>
             </div>
         </div>
-        <script id="dxss_564706796" type="text/javascript">
+        <script id="dxss_1150152241" type="text/javascript">
 <!--
 
 var dxo = new ASPxClientCallback('ctl00_Body_RightNav1_Callback_GetItems');
 window['Callback_GetItems'] = dxo;
 dxo.callBack = function(arg) { WebForm_DoCallback('ctl00$Body$RightNav1$Callback_GetItems',arg,aspxCallback,'ctl00_Body_RightNav1_Callback_GetItems',aspxCallbackError,true); };
 dxo.uniqueID = 'ctl00$Body$RightNav1$Callback_GetItems';
+dxo.renderIFrameForPopupElements = true;
 dxo.CallbackComplete.AddHandler(function(s, e) {GetCart(e.result);});
 dxo.InlineInitialize();
 
 //-->
 </script>
-        <script id="dxss_1446115779" type="text/javascript">
+        <script id="dxss_815074810" type="text/javascript">
 <!--
 
 var dxo = new ASPxClientCallback('ctl00_Body_RightNav1_Callback_Favorites');
 window['Callback_Favorites'] = dxo;
 dxo.callBack = function(arg) { WebForm_DoCallback('ctl00$Body$RightNav1$Callback_Favorites',arg,aspxCallback,'ctl00_Body_RightNav1_Callback_Favorites',aspxCallbackError,true); };
 dxo.uniqueID = 'ctl00$Body$RightNav1$Callback_Favorites';
+dxo.renderIFrameForPopupElements = true;
 dxo.CallbackComplete.AddHandler(function(s, e) {
 	GetFav(e.result);
 });
@@ -1401,13 +1470,14 @@ dxo.InlineInitialize();
 
 //-->
 </script>
-        <script id="dxss_1808621933" type="text/javascript">
+        <script id="dxss_449291278" type="text/javascript">
 <!--
 
 var dxo = new ASPxClientCallback('ctl00_Body_RightNav1_Callback_GetViewedItems');
 window['Callback_GetViewedItems'] = dxo;
 dxo.callBack = function(arg) { WebForm_DoCallback('ctl00$Body$RightNav1$Callback_GetViewedItems',arg,aspxCallback,'ctl00_Body_RightNav1_Callback_GetViewedItems',aspxCallbackError,true); };
 dxo.uniqueID = 'ctl00$Body$RightNav1$Callback_GetViewedItems';
+dxo.renderIFrameForPopupElements = true;
 dxo.CallbackComplete.AddHandler(function(s, e) {$('#Viewed_Detail').html(e.result);viewScoll();});
 dxo.InlineInitialize();
 
@@ -1431,6 +1501,22 @@ dxo.InlineInitialize();
             <div id="div_Footer">
                 <!-- New Footer Start -->
 <style type="text/css">
+
+/* Holiday Shipping Guaranteed- Item Page */
+.HolidayShipGuaranteed {
+width: 315px;
+height: 26px;
+background: url(/mmplanet/holiday2012/shippingdetails_guaranteed_item.jpg) no-repeat;
+}
+
+/* Holiday Shipping NOT- Item Page */
+.HolidayShipNot {
+width: 315px;
+height: 26px;
+background: url(/mmplanet/holiday2012/shippingdetails_maynot_item.jpg) no-repeat;
+}
+
+
 #PageMain{
 margin-bottom:40px;
 }
@@ -1535,14 +1621,15 @@ background:#b3c1c8;
 }
 #footer_wrapper .middleSection .FullPage .stayConnected a img
 {
-	margin-right:8px;
+	margin-right:5px;
 }
 #footer_wrapper .middleSection .FullPage .emailAlerts
 {
 	display:inline;
 	line-height:102px;
 	height:102px;
-	margin:0 0 0 30px;
+/*	margin:0 0 0 30px;*/
+	margin:0 0 0 23px;
 }
 #footer_wrapper .middleSection .FullPage .emailAlerts input
 {
@@ -1555,7 +1642,7 @@ background:#b3c1c8;
 #footer_wrapper .middleSection .FullPage .emailAlerts .input_fields
 {
 	background:transparent url(/mmplanet/footer/footer_bg_emailAlerts_input.png) no-repeat scroll 0 0;
-	color:#5E6265;
+	color:#646d5a;
 	font-family:Arial;
     font-size:14px;
 	padding-left:10px;
@@ -1616,7 +1703,7 @@ background:#b3c1c8;
 }
 #footer_wrapper .bottomSection .FullPage .contentWrapper .linksWrapper .section ul li a
 {
-	color:#5E6265;
+	color:#646d5a;
 	font-size:14px;
 	font-family:Arial;
 }
@@ -1657,41 +1744,46 @@ color:#49B315;
 
 </style>
 
+<div id="rekko_blank_id"></div>
 
 <div id="footer_wrapper">
 	<div class="topSection">
 		<div class="FullPage">
-			<div class="ls fl">
-				<h2 class="mFont"><a class="gae-track|Global*Footer*TopRowLeft>CarbonFund" style="font-family:Arial; font-size:16px; color:#5E6265; font-weight:bold;" href="/hub/green-initiatives/carbonfree-shipping/50">Small Choices Make Big Changes</a></h2>
+			<div class="ls fl" id="footer_quote_left">
+				<h2 class="mFont"><a class="gae-track|Global*Footer*TopRowLeft>PlanetRewards" style="font-family:Arial; font-size:16px; color:#646d5a; font-weight:bold;" href="/rewards">Planet Rewards</a></h2>
 				
 				<p class="mFont">
-				By choosing our Carbon-Free Plus shipping option, a small donation will offset all the emissions caused by the delivery of your order.
+				Receive $10 Rewards Certificate with every 200 points earned! Use your points to pay for future orders, or donate them to charity. Enrollment is quick, easy, and FREE!
 				</p>
 			</div>
 			
 			<div class="divider fl"></div>
 			
-			<div class="ms fl">
-				<h2 class="mFont"><a class="gae-track|Global*Footer*TopRowMiddle>PlanetRewards" style="font-family:Arial; font-size:16px; color:#5E6265; font-weight:bold;" href="/rewards">Planet Rewards</a></h2>
+			<div class="ms fl" id="footer_quote_right">
+				<h2 class="mFont"><a rel="nofollow" class="gae-track|Global*Footer*TopRowCenter>CarbonFund" style="font-family:Arial; font-size:16px; color:#646d5a; font-weight:bold;" href="/hub/green-initiatives/carbonfree-shipping/50">Small Choices Make Big Changes</a></h2>
 				
 				<p class="mFont">
-				Receive $10 Planet Dollars with every 1,500 points earned!  Use your points to pay for future orders, or donate them to charity. Enrollment is quick, easy, and FREE! 
+				By choosing our Carbon-Free Plus shipping option, a small donation will offset emissions caused by the delivery of your order. 
 				</p>
 			</div>
 			
-			<div class="rs fl">
-			
-				<a class="fl gae-track|Global*Footer*TopRowRight>DailyDeal" href="/storeitems.aspx?brand=elnaturalista&amp;pricecat=on%20sale">
-					<img src="/mmplanet/Home/Images/dailydeal_item2.png">
+<div class="rs fl">
+	<a class="fl gae-track|Global*Footer*DailyDealImage" href="/dailydeal">
+					<img src="/mmplanet/footer/2013_03_04_dailydeal.png">
+				</a>
+				<!--
+                <a class="fl" href="/dailydeal">
+					<img src="/mmplanet/Home/Images/dailydeal_item2.png" />
 				</a>
 			
 				<div class="fl">
-					<a style="margin-top:10px;"><img src="/mmplanet/Home/Images/icon_dailydeal2.png"></a>
+					<a style="margin-top:10px;"><img src="/mmplanet/Home/Images/icon_dailydeal2.png" /></a>
 					
-					<h2><a class="href_white gae-track|Global*Footer*TopRowRight>DailyDeal" href="/storeitems.aspx?brand=elnaturalista&amp;pricecat=on%20sale">Don't Miss Out On<br>Today's Daily Deal</a></h2>
+					<h2><a  class="href_white" href="/dailydeal">Don't Miss Out On<br/>Today's Daily Deal</a></h2>
 					
 					<span class="mFont"></span>
 				</div>
+                -->
 				
 				<div class="cb"></div>
 			</div>
@@ -1703,15 +1795,17 @@ color:#49B315;
 	<div class="middleSection">
 		<div class="FullPage">
 			<div class="stayConnected fl">
-				<h2 class="mFont">Stay Connected</h2>
+				<h2 class="mFont">Stay Connected</h2>               
+				<a class="gae-track|Global*Footer*Social>Facebook" href="https://www.facebook.com/planetshoes?ref=ts" target="_blank" rel="nofollow"><img src="/mmplanet/Home/Images/logo_facebook.png"></a>
 				
-				<a class="gae-track|Global*Footer*Social>Facebook" href="https://www.facebook.com/planetshoes?ref=ts" target="_blank"><img src="/mmplanet/Home/Images/icon_facebook.png"></a>
+				<a class="gae-track|Global*Footer*Social>Twitter" href="http://twitter.com/#!/PlanetShoes" target="_blank" rel="nofollow"><img src="/mmplanet/Home/Images/logo_twitter.png"></a>
 				
-				<a class="gae-track|Global*Footer*Social>Twitter" href="http://twitter.com/#!/PlanetShoes" target="_blank"><img src="/mmplanet/Home/Images/icon_twitter.png"></a>
+				<a class="gae-track|Global*Footer*Social>Google+" href="https://plus.google.com/110199531945548256582/posts" target="_blank" rel="nofollow"><img src="/mmplanet/Home/Images/logo_googleplus.png"></a>
 				
-				<a class="gae-track|Global*Footer*Social>Google+" href="https://plus.google.com/110199531945548256582/posts" target="_blank"><img src="/mmplanet/Home/Images/icon_googleplus.png"></a>
-				
-				<a class="gae-track|Global*Footer*Social>Blog" href="http://blog.planetshoes.com/" target="_blank"><img src="/mmplanet/Home/Images/icon_blog.png"></a>
+				<a class="gae-track|Global*Footer*Social>Blog" href="http://blog.planetshoes.com/" target="_blank" rel="nofollow"><img src="/mmplanet/Home/Images/logo_blog.png"></a>
+                <a class="gae-track|Global*Footer*Social>YouTube" href="http://www.youtube.com/user/planetshoes" target="_blank" rel="nofollow"><img src="/mmplanet/Home/Images/logo_youtube.png"></a>
+                <a class="gae-track|Global*Footer*Social>Pinterest" href="http://pinterest.com/planetshoes/" target="_blank" rel="nofollow"><img src="/mmplanet/Home/Images/logo_pinterest.png"></a>
+                <a class="gae-track|Global*Footer*Social>Instagram" href="http://web.stagram.com/n/planetshoesusa/" target="_blank" rel="nofollow"><img src="/mmplanet/Home/Images/logo_instagram.png"></a>
 			</div>
 			
 			<div class="divider fl"></div>
@@ -1722,13 +1816,12 @@ color:#49B315;
 .input_fields{padding-top:10px;}
 </style>
 <![endif]-->
-				<strong class="mFont">Email Alerts</strong>
+				<strong class="mFont" style="display:none">Email Alerts</strong>			
+				<input onkeydown="return ValPressKey(event,'btnFooterSignUp');" onblur="if (this.value == '') {this.value = 'Enter your name';}" onfocus="if (this.value == 'Enter your name') {this.value = '';} " value="Enter your name" class="input_fields" id="txtFooterUserName" type="text">
 				
-				<input type="text" onkeydown="return ValPressKey(event,'btnFooterSignUp');" onblur="if (this.value == '') {this.value = 'Enter your name';}" onfocus="if (this.value == 'Enter your name') {this.value = '';} " value="Enter your name" class="input_fields" id="txtFooterUserName">
+				<input onkeydown="return ValPressKey(event,'btnFooterSignUp');" onblur="if (this.value == '') {this.value = 'Enter your email address';}" onfocus="if (this.value == 'Enter your email address') {this.value = '';}" value="Enter your email address" class="input_fields" id="txtFooterEmail" type="text">
 				
-				<input type="text" onkeydown="return ValPressKey(event,'btnFooterSignUp');" onblur="if (this.value == '') {this.value = 'Enter your email address';}" onfocus="if (this.value == 'Enter your email address') {this.value = '';}" value="Enter your email address" class="input_fields" id="txtFooterEmail">
-				
-				<input id="btnFooterSignUp" onclick="FooterSignUp();" type="button" title="Sign Me Up" value="Subscribe" class="mFont">
+				<input id="btnFooterSignUp" onclick="FooterSignUp();" title="Sign Me Up" value="Subscribe" class="mFont" type="button">
 				
 			</div>
 			
@@ -1746,6 +1839,7 @@ color:#49B315;
 						<h2 class="mFont">Shop With Us</h2>
 						
 						<ul>
+<li><a class="gae-track|Global*Footer*ShopWithUs>InviteAFriend" href="/invite">Get $10, Invite a friend</a></li>
 							<li><a class="gae-track|Global*Footer*ShopWithUs>WomensShoes" href="/womens-shoes">Women's Shoes</a></li>
 							<li><a class="gae-track|Global*Footer*ShopWithUs>MensShoes" href="/storeitems.aspx?gender=men&amp;depart=shoes">Men's Shoes</a></li>
 							<li><a class="gae-track|Global*Footer*ShopWithUs>KidsShoes" href="/storeitems.aspx?gender=kids&amp;depart=shoes">Kid's Shoes</a></li>
@@ -1790,13 +1884,13 @@ color:#49B315;
 						<h2 class="mFont">Account</h2>
 						
 						<ul>
-							<li><a class="gae-track|Global*Footer*Account>LoginCreate" rel="nofollow" href="/AccLogin.aspx">Login or Create An Account</a></li>
-							<li><a class="gae-track|Global*Footer*Account>ShoppingCart" rel="nofollow" href="/ViewCart.aspx">Shopping Cart</a></li>
-							<li><a class="gae-track|Global*Footer*Account>Favorites" rel="nofollow" href="/MyFavorites.aspx">Favorites</a></li>
-							<li><a class="gae-track|Global*Footer*Account>TrackOrder" rel="nofollow" href="/AccOrderHistory.aspx">Track An Order</a></li>
+							<li><a class="gae-track|Global*Footer*Account>LoginCreate" rel="nofollow" href="https://secure-www.planetshoes.com/acclogin.aspx">Login or Create An Account</a></li>
+							<li><a class="gae-track|Global*Footer*Account>ShoppingCart" rel="nofollow" href="/viewcart.aspx">Shopping Cart</a></li>
+							<li><a class="gae-track|Global*Footer*Account>Favorites" rel="nofollow" href="/myfavorites.aspx">Favorites</a></li>
+							<li><a class="gae-track|Global*Footer*Account>TrackOrder" rel="nofollow" href="/accorderhistory.aspx">Track An Order</a></li>
 							<li><a class="gae-track|Global*Footer*Account>PlaceReturn" rel="nofollow" href="/returns">Place a Return</a></li>
 							<li><a class="gae-track|Global*Footer*Account>PlaceExchange" rel="nofollow" href="/helpcenter/returns/return-rules/585">Place an Exchange</a></li>
-							<li><a class="gae-track|Global*Footer*Account>RetrievePassword" rel="nofollow" href="https://www.planetshoes.com/accinfo.aspx">Retrieve Password</a></li>
+							<li><a class="gae-track|Global*Footer*Account>RetrievePassword" rel="nofollow" href="/accinfo.aspx">Retrieve Password</a></li>
                             <li><a class="gae-track|Global*Footer*Account>PlanetRewards" rel="nofollow" href="/rewards">Planet Rewards</a></li>
 						</ul>
 						
@@ -1822,14 +1916,11 @@ color:#49B315;
 	});
 
 </script>
-
-
-
 </li>
 							<li><a class="gae-track|Global*Footer*CustomerService>ContactCustomerCare" rel="nofollow" href="/contact.aspx">Contact Customer Care</a></li>
 							<li><a class="gae-track|Global*Footer*CustomerService>ServiceGuarantees" rel="nofollow" href="/helpcenter/shopping/service-guarantees/579">Service Guarantees</a></li>
 							<li><a class="gae-track|Global*Footer*CustomerService>ShippingReturns" rel="nofollow" href="/helpcenter/returns/return-rules/585">Shipping &amp; Returns</a></li>
-							<li><a class="gae-track|Global*Footer*CustomerService>CouponsDiscounts" rel="nofollow" href="/helpcenter/shopping/deals-and-special-offers/580">Coupons &amp; Discounts</a></li>
+							<li><a class="gae-track|Global*Footer*CustomerService>CouponsDiscounts" href="/helpcenter/shopping/deals-and-special-offers/580">Coupons &amp; Discounts</a></li>
 							<li><a class="gae-track|Global*Footer*CustomerService>Privacy" rel="nofollow" href="/helpcenter/policies/privacy-policy/596">Privacy</a></li>
 							<li><a class="gae-track|Global*Footer*CustomerService>TermsConditions" rel="nofollow" href="/helpcenter/policies/terms-and-conditions/597">Terms &amp; Conditions</a></li>
 						</ul>
@@ -1859,12 +1950,14 @@ color:#49B315;
 						<h2 class="mFont">About Us</h2>
 						
 						<ul>
-							<li><a class="gae-track|Global*Footer*AboutUs>AboutUs" href="/hub">About</a></li>
-							<li><a class="gae-track|Global*Footer*AboutUs>Careers" href="/jobs">Careers</a></li>
-							<li><a class="gae-track|Global*Footer*AboutUs>GiftCards" href="/item/gift-card/gc">Gift Cards</a></li>
+							<li><a rel="nofollow" class="gae-track|Global*Footer*AboutUs>Blog" href="http://blog.planetshoes.com/">Blog</a></li>
+							<li><a rel="nofollow" class="gae-track|Global*Footer*AboutUs>AboutUs" href="/hub">About</a></li>
+							<li><a rel="nofollow" class="gae-track|Global*Footer*AboutUs>Careers" href="/jobs">Careers</a></li>
+							<li><a rel="nofollow" class="gae-track|Global*Footer*AboutUs>GiftCards" href="/item/gift-card/gc">Gift Cards</a></li>
 							<li><a class="gae-track|Global*Footer*AboutUs>AffiliatePrograms" href="/helpcenter/affiliate-program/become-an-affiliate/181">Affiliate Programs</a></li>
 							<li><a rel="nofollow" href="http://www.wegotsoccer.com" target="_blank">wegotsoccer.com</a></li>
-							<li><a rel="nofollow" href="http://www.tadi.cn" target="_blank">tadi.cn</a></li>
+							<li><a rel="nofollow" href="http://www.planetshoes.cn" target="_blank">planetshoes.cn</a></li>
+<li><a rel="nofollow" href="http://m.planetshoes.com">PlanetShoes Mobile</a></li>
 						</ul>
 						
 					</div>
@@ -1882,7 +1975,7 @@ color:#49B315;
 					<img src="/mmplanet/Home/Images/icon_stellaservice.png" alt="">
 				</a>
 				
-				<a href="#">
+				<a href="#" rel="nofollow">
 					<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.planetshoes.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>
 				</a>
 				
@@ -1890,17 +1983,17 @@ color:#49B315;
 					<img src="/mmplanet/Home/Images/icon_identitytheft.png" alt="">
 				</a>
 				
-				<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--38906.html" target="_blank">
+				<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--38906.html" target="_blank" rel="nofollow">
 					<img src="/mmplanet/Home/Images/icon_bizrate.png" alt="">
 				</a>
 				
-				<a href="http://www.bbb.org/boston/business-reviews/internet-services/planet-inc-in-waltham-ma-90701/#bbbonlineclick" target="_blank" rel="nofollow">
+				<a href="http://www.bbb.org/boston/Business-Reviews/internet-services/planet-inc-in-waltham-ma-90701/bbb-rating" target="_blank" rel="nofollow">
 					<img src="/mmplanet/Home/Images/icon_bbb.png" alt="">
 				</a>
                 <a href="/soles4souls" target="_blank">
 					<img src="/mmplanet/Home/Images/icon_soles4souls.jpg" alt="Soles4Souls">
 				</a>
-                <a href="http://www.sideshowsolutions.com" target="_blank">
+                <a href="http://www.sideshowsolutions.com" rel="nofollow" target="_blank">
 					<img src="/mmplanet/Home/Images/icon_powerdbysideshow.png" alt="Powered by Side Show Solutions">
 				</a>
 			</div>
@@ -1912,14 +2005,14 @@ color:#49B315;
 	</div>
 	
 	
-<div style="color: #5E6265;font-size: 12px;font-family: Arial; padding-top:12px; text-align: center;">© Copyright 1999 - 2012  Planet, Inc</div>
+<div style="color: #646d5a;font-size: 12px;font-family: Arial; padding-top:12px; text-align: center;">© Copyright 1999 - 2013  Planet, Inc</div>
 </div>
 
 <!-- New Footer End -->
 
 
 
-<div id="liveHelp_sidebar" class="close_help" style="padding: 0px; width: 40px; height: 115px; top: 50px; right: 0px; position: fixed; float: right; z-index: 2000;">
+<div id="liveHelp_sidebar" class="close_help" style="padding: 0px; width: 40px; height: 115px; top: 66px; right: 0px; position: fixed; float: right; z-index: 2000;">
 
 
 <div id="LiveChat_1337264896">
@@ -1947,7 +2040,7 @@ color:#49B315;
 
 <div>
 <a target="kampyleWindow" id="kampylink" class="k_float k_bottom k_right gae-track|Global*Footer*Feedback>Kampyle-50868-bottom-right" rel="nofollow">
-<img src="/mmplanet/feedback/bottom_corner_feedback_small.png" alt="Feedback Form" border="0" usemap="#kampyleMap">
+<img src="/mmplanet/feedback/bottom_corner_feedback_small.png" alt="Feedback Form" usemap="#kampyleMap" border="0">
   <map name="kampyleMap" id="kampyleMap">
     <area shape="poly" coords="57,18,24,22,15,58,59,60" href="https://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=3668455&amp;lang=en&amp;page_id=255" onclick="javascript:k_button.open_ff('site_code=3668455&amp;lang=en&amp;form_id=50868');return false;">
   </map>
@@ -1960,41 +2053,6 @@ color:#49B315;
 <script src="/js/k_button.js" type="text/javascript"></script>
 
 <!--End Kampyle Feedback Form Button-->
-
-
-<!-- ClickTale Top part -->
-<div id="ClickTaleDiv" style="display: none;"></div>
-<script type="text/javascript">
-document.write(unescape("%3Cscript%20src='"+
- (document.location.protocol=='https:'?
-  'https://clicktale.pantherssl.com/':
-  'http://s.clicktale.net/')+
- "WRb6.js'%20type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://clicktale.pantherssl.com/WRb6.js" type="text/javascript"></script>
-<script type="text/javascript">
-var ClickTaleSSL=1;
-if(typeof ClickTale=='function') ClickTale(3850,0.07,"www07");
-
-
- if(window.location.href.indexOf("DealID=125&gc=13993?") > -1) {
-      window.location.href='http://www.planetshoes.com/dailydeal?source=em092612_kalsoearthshoe'
-    }
-
-	 if(window.location.href.indexOf("DealID=125&gc=13991?") > -1) {
-      window.location.href='http://www.planetshoes.com/DailyDeal.aspx?DealID=125&gc=13991&source=em092612_kalsoearthshoe'
-    }
-	
-		 if(window.location.href.indexOf("DealID=125&gc=14001?") > -1) {
-      window.location.href='http://www.planetshoes.com/DailyDeal.aspx?DealID=125&gc=14001&source=em092612_kalsoearthshoe'
-    }
-	
-		 if(window.location.href.indexOf("DealID=125&gc=13992?") > -1) {
-      window.location.href='http://www.planetshoes.com/DailyDeal.aspx?DealID=125&gc=13992&source=em092612_kalsoearthshoe'
-    }
-	
-
-</script>
-<!-- ClickTale end of Bottom part -->
 
 
 <script src="https://www.popularmedia.net/site/c7f4a080-caad-012e-f779-f352129cb9b7?skipRecipientPanel=true" type="text/javascript"></script>
@@ -2030,7 +2088,6 @@ if ($(this).attr('target')== null){ // check to see if the user should be direct
 
 </script>
 <!-- GA Event Tracking End -->
-
             </div>          
             
              <div id="marketing_Footer">
@@ -2040,6 +2097,12 @@ function recordOutboundLink(link, category, action, label) {
     _gaq.push(['_trackEvent', category, action, label]);
 
     setTimeout('document.location = "' + link.href + '"', 100);
+}
+// Tracking Emails to Rekko
+function EmailRekko(EmailFormID)
+{
+     convert_profile.email = document.getElementById(EmailFormID);
+
 }
 </script>
 
@@ -2077,6 +2140,52 @@ _marinTrack.trackPage();
 #zoomposition .inline div{ height: 50px; }
 </style>
 
+
+<!-- Holiday 2012 Changes-->
+<style>
+
+
+
+#footer_wrapper .topSection {
+background: #F7F6EF;
+border-top: #c7c9ca solid 1px;
+}
+
+#footer_wrapper .middleSection {
+background: #F7F6EF;
+border-top: #c7c9ca solid 1px;
+border-bottom: #c7c9ca solid 1px;
+}
+
+#footer_wrapper {
+background: white;
+}
+
+#PageFooter {
+background: white;
+}
+
+#footer_wrapper .topSection .FullPage .rs {
+background: transparent url() no-repeat scroll 0 0;
+padding: 0 0 0 0;
+}
+
+#footer_wrapper .topSection .FullPage .divider {
+width: 1px;
+}
+
+
+#footer_wrapper .middleSection .FullPage .divider {
+width: 1px;
+
+}
+
+
+</style>
+
+
+<!--  END Holiday 2012 Changes-->
+
 <!-- Monitor tag for LiveChat -->
 <script type="text/javascript">
 var __lc = {};
@@ -2088,18 +2197,38 @@ __lc.license = 1229721;
   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
 })();
 </script>
+
+<!-- Google Code for Remarketing List -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1072034679;
+var google_conversion_label = "MT17CJTO2QUQ9-aX_wM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072034679/?value=0&amp;label=MT17CJTO2QUQ9-aX_wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
             </div>
              
         </td>
     </tr>
 </tbody></table>
-<script id="dxss_342526689" type="text/javascript">
+<script id="dxss_356242854" type="text/javascript">
 <!--
 
 var dxo = new ASPxClientCallback('ctl00_Footer1_cbFooter');
 window['cbFooter'] = dxo;
 dxo.callBack = function(arg) { WebForm_DoCallback('ctl00$Footer1$cbFooter',arg,aspxCallback,'ctl00_Footer1_cbFooter',aspxCallbackError,true); };
 dxo.uniqueID = 'ctl00$Footer1$cbFooter';
+dxo.renderIFrameForPopupElements = true;
 dxo.CallbackComplete.AddHandler(function(s, e) { showPopup(e.result); });
 dxo.InlineInitialize();
 
@@ -2197,14 +2326,15 @@ function FooterSignUp()
     
     
      <script type="text/javascript">
-             convert_profile.firstName = "";
-             convert_profile.lastName = "";
-             convert_profile.login = "";
-             convert_profile.email = "";
-             convert_profile.gender = "None";
-             convert_profile.zipcode = "";
-             convert_profile.rewardstype = "";
-             convert_profile.registereddate = "";  
+         convert_profile.cartid = "F01A04D6-E84A-43D6-85E5-35730EDC1A61";
+         convert_profile.firstName = "";
+         convert_profile.lastName = "";
+         convert_profile.email = "";
+         convert_profile.gender = "None";
+         convert_profile.dob = "";
+         convert_profile.zipcode = "";
+         convert_profile.rewardstype = "";
+         convert_profile.registereddate = "";  
      </script>
 
 
