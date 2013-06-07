@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the english-for-students.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107042953id_/http%3A//www.english-for-students.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-for-students.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607120453id_/http%3A//www.english-for-students.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : You must read.
 
-Here is our Privacy Policy which you should read before you submit your personal information to us.
+Here is our Privacy Policy which you should read before you submit your personal information to us. 
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use www.english-for-students.com as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing your personal information with us. 
 
@@ -48,4 +48,4 @@ www.english-for-students.com reserves the right to make changes in this policy. 
 
 If you do not agree to www.english-for-students.com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. 
 
-Your use of this site indicates acceptance of this Privacy Policy.
+Your use of this site indicates acceptance of this Privacy Policy. 
