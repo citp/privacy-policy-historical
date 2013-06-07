@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palaceresorts.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203031049id_/http%3A//www.palaceresorts.com/privacypolicy-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palaceresorts.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607170309id_/http%3A//www.palaceresorts.com/privacypolicy-en.html) for the most accurate reproduction.*
 
 # Privacy Policy | Palace Resorts | Mexico
 
