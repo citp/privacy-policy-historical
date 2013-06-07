@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101000226id_/http%3A//www.ebookers.com/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607194457id_/http%3A//www.ebookers.com/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
