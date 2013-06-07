@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the opencrm.co.uk privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920012313id_/http%3A//opencrm.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opencrm.co.uk privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607102631id_/http%3A//opencrm.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Delivery Policy
 
-Last updated 29th August 2012
+Last updated 29th August 2013
 
-Copyright © 2005 - 2012. Software Add-ons Limited - The Home of OpenCRM, The Sanctuary, Aislabeck Plantation, Richmond , North Yorkshire , DL10 4SG. All rights reserved.
+Copyright © 2005 - 2013. Software Add-ons Limited - The Home of OpenCRM, The Sanctuary, Aislabeck Plantation, Richmond , North Yorkshire , DL10 4SG. All rights reserved.
 
 We at OpenCRM and Software Add-ons Limited ("Software Add-ons") are constantly striving to provide excellent service to our customers and business partners, while building long-lasting relationships with them. To achieve these goals, we occasionally need information about you when you visit our Web site.
 
