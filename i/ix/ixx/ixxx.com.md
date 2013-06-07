@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixxx.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605045741id_/http%3A//www.ixxx.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixxx.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607033013id_/http%3A//ixxx.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
