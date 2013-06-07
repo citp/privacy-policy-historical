@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the mrfood.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113160943id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrfood.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607041358id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | mrfood.com
 
 | 
 
 Privacy Policy / Your California Privacy Rights  
-Revised and posted as of November 13, 2012
-
-(Please note this version of the Privacy and Security Policy does not substantively change the way Prime Publishing, LLC and Ginsburg Enterprises Incorporated treats personally identifiable information compared to the [previous version of the Privacy and Security Policy.](http://www.mrfood.com/index.php/hct/privacy_policy2008 "Previous Privacy and Security Policy"))
+Revised and posted as of March 4, 2013
 
 Prime Publishing, LLC and Ginsburg Enterprises Incorporated ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.
 
@@ -117,6 +115,9 @@ We may use third party service providers to enhance our database with additional
 
 Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.
 
+**Third Party Cookies**  
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.   These cookies contain no personally identifiable information.  The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.aboutads.info/choices>.
+
 Governmental Agencies or Other Companies  
 We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.
 
@@ -154,6 +155,10 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 
 | 
 
-[](http://www.mrfood.com/slideshow/survival-guide)  
+Please Wait 
+
+#### Thanks for signing up
+
+#### Sorry, we could not sign you up.  
   
 ---|---|---
