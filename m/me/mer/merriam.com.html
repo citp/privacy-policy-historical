@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the merriam.com privacy policy that was archived on 2012-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016182931id_/http%3A//www.merriam-webster.com/info/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the merriam.com privacy policy that was archived on 2013-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130607044716id_/http%3A//www.merriam-webster.com/info/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>		
-		<meta name="Description" content="Merriam-Webster provides a free online dictionary, thesaurus, audio pronunciations, Word of the Day, word games, and other English language resources."><meta name="Keywords" content="merriam-webster, dictionary, online dictionary, webster's dictionary, talking dictionary, english language, online thesaurus, word of the day, word games">        		<meta property="fb:app_id" content="178450008855735">		
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="Description" content="Merriam-Webster provides a free online dictionary, thesaurus, audio pronunciations, Word of the Day, word games, and other English language resources."><meta name="Keywords" content="merriam-webster, dictionary, online dictionary, webster's dictionary, talking dictionary, english language, online thesaurus, word of the day, word games">        		<meta property="fb:app_id" content="178450008855735">		
 		<meta name="robots" content="Index, follow">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<title>Merriam-Webster Online</title>		<link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -45,6 +45,9 @@ node.parentNode.insertBefore(gads, node);
 </script>
 
 <script type="text/javascript">
+
+dfp_unit = "MW_GEN";
+
 googletag.cmd.push(function() {
 
 //Adslot 1 declaration
@@ -67,6 +70,43 @@ googletag.pubads().setTargeting('QSEGS',get_qsegs());
 googletag.pubads().enableAsyncRendering();
 googletag.enableServices();
 });
+function output_creative (id)
+	{	if ( dfp_unit == 'MW_VOCAB' || dfp_unit == 'MW_SPELL' || dfp_unit == 'MW_NTT' || dfp_unit == 'MW_GAME-MENU' || dfp_unit == 'MW_GAMES' || dfp_unit == 'MW_TOF' )
+			{	var index	= id.substr(id.length - 1, 1);
+				var width	= index == 3 ? '160' : ( index == 1 || index == 5 ? '728' : '300' );
+				var height	= index == 3 ? '600' : ( index == 1 || index == 5 ? '90' : '250' );
+				var ord		= 2147483648*Math.random() + '.' + new Date().getTime();
+				var tag = '<iframe id="ad-spot-' + index + '" src="/ad-tags/reload.php?id=' + id + '&unit=34444486/Merriam-Webster/' + dfp_unit + '&ord=' + ord + '" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" style="margin: 0; padding: 0; width: ' + width + 'px; height: ' + height + 'px;"></iframe>';
+				document.write(tag);
+			}
+
+		else
+			{	document.write
+					("<div id='" + id + "'>" + 
+						"<scr" + "ipt type='text/javascript'>\r\n" + 
+						"googletag.cmd.push(function() { googletag.display('" + id + "'); });\r\n" +
+						"</sc" + "ript>" +
+						"</div>");
+			};
+	};
+
+function reloadCreatives (url)
+	{	for ( var index = 1; index <= 5; index++ )
+			{	var ad = document.getElementById('ad-spot-' + index);
+				if ( ad )
+					{	var src = ad.src.substring(0, ad.src.indexOf('&ord='));
+						src += '&ord=' + 2147483648*Math.random() + '.' + new Date().getTime();
+						ad.src = src;
+					};
+			};
+
+	// Track the virtual page.
+                if ( url != null )
+                        {       url = typeof(url) != 'undefined' ? url : '' + document.location;
+                                _gaq.push(['_trackPageview', url]);
+                        };
+	};
+
 </script>
 <!-- End: GPT -->
 	<style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}
@@ -250,7 +290,9 @@ a.fb_button_small_rtl:active{background-position:right -458px}
 						output_creative('div-gpt-ad-219827234313134000-1');
 
 					// -->
-					</script>
+					</script><div id="div-gpt-ad-219827234313134000-1"><script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-219827234313134000-1'); });
+</script></div>
 				</div>
 			</div>
 			<div id="middle">
@@ -258,8 +300,9 @@ a.fb_button_small_rtl:active{background-position:right -458px}
 					<div class="top-ten-lists">
 
 
-					<style type="text/css">
-#vocab-quiz-tout
+					    
+<style type="text/css">
+#quiz-tout
 {	margin-bottom:20px;padding:0;
 	width:163px;
 }
@@ -289,15 +332,19 @@ img.quiz-button
 }
 </style>
 
-<div id="vocab-quiz-tout" onclick="location.href='/quiz/index.htm'; return false;" style="cursor:pointer;">
-    <img class="quiz-logo" src="/images/vocab-quiz/vocab-quiz-logo-50x50.gif" width="50" height="50">
-    <img class="quiz-button" src="/images/vocab-quiz/quiz-button-94x33.gif" width="94" height="33">
-	<div id="tout-content">
-		<h2>Test Your Vocabulary</h2>
-        <p><strong>Take Our 10-Question Quiz</strong></p>
-	</div><!--tout-content-->
-</div><!--vocab-quiz-tout-->
-
+<div class="mboxDefault">
+    <div id="quiz-tout" onclick="location.href='/quiz/index.htm'; return false;" style="cursor:pointer;">
+        <img class="quiz-logo" src="/images/vocab-quiz/vocab-quiz-logo-50x50.gif" width="50" height="50">
+        <img class="quiz-button" src="/images/vocab-quiz/quiz-button-94x33.gif" width="94" height="33">
+        <div id="tout-content">
+            <h2>Test Your Vocabulary</h2>
+            <p><strong>Take Our 10-Question Quiz</strong></p>
+        </div><!--tout-content-->
+    </div><!--vocab-quiz-tout-->
+</div><!--mboxDefault-->
+<script language="javascript1.2">
+mboxCreate("MWDefinitionQuizLeftRail");
+</script>
 
 
 					</div>
@@ -308,7 +355,9 @@ img.quiz-button
 							output_creative('div-gpt-ad-219827234313134000-3');
 
 						// -->
-						</script>
+						</script><div id="div-gpt-ad-219827234313134000-3"><script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-219827234313134000-3'); });
+</script></div>
 					</div>				</div>
 				<div id="right-column">					
 					<div class="right-advert" id="right-advert">
@@ -326,250 +375,196 @@ img.quiz-button
 								{	output_creative('div-gpt-ad-219827234313134000-2');
 								};
 							// -->
-							</script>
+							</script><div id="div-gpt-ad-219827234313134000-2"><script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-219827234313134000-2'); });
+</script></div>
 						</div>
 					</div>
 					
 <style type="text/css">
-#quizzes-promo table.promos
-{	margin:0 0 8px 0;padding:0;
-	width:301px;
-}
-#quizzes-promo table.promos tr.header
-{	margin:0;padding:0;
-	width:301px;height:25px;
-}
-#quizzes-promo table.promos tr
-{	margin:0;padding:0;
-	width:301px;
-}
-#quizzes-promo table.promos tr td.promo-header
-{	margin:0;padding:0 0 8px 0;
-	width:301px;
-}
-#quizzes-promo table.promos tr td.promo-header img
-{	margin:0;padding:0;
-	width:301px;height:25px;
-	vertical-align:top;
-}
-#quizzes-promo table.promos tr td.promo-image
-{	margin:0;padding:0;
-	width:90px;height:60px;
-	vertical-align:top;
-}
-#quizzes-promo table.promos tr td.promo-image img
-{	margin:0 0 0 10px;padding:0;
-	width:70px;height:55px;
-}
-#quizzes-promo table.promos tr td.promo-content
-{	margin:0;padding:0;
-	width:211px;height:60px;
-	vertical-align:top;
-}
-#quizzes-promo table.promos tr td.promo-content h2,
-#quizzes-promo table.promos tr td.promo-content p
-{	margin:0;padding-bottom:2px;
-}
-#quizzes-promo table.promos tr td.promo-content h2 a
-{	margin:0;padding:0;
-	font-family:georgia,arial,verdana,sans-serif;font-size:14px;font-weight:bold;
-}
-#quizzes-promo table.promos tr td.promo-content h2 a:link, 
-#quizzes-promo table.promos tr td.promo-content h2 a:active,
-#quizzes-promo table.promos tr td.promo-content h2 a:visited
-{	color:#CA0403;
-	text-decoration:none;
-}
-#quizzes-promo table.promos tr td.promo-content h2 a:hover 
-{	color:#CA0403;
-	text-decoration:underline;
-}
-#quizzes-promo table.promos tr td.promo-content p a
-{	margin:0;padding:0;
-	font-size:12px;font-weight:normal;
-}
-#quizzes-promo table.promos tr td.promo-content p a:link, 
-#quizzes-promo table.promos tr td.promo-content p a:active,
-#quizzes-promo table.promos tr td.promo-content p a:visited
-{	color:#000000;
-	text-decoration:none;
-}
-#quizzes-promo table.promos tr td.promo-content p a:hover 
-{	color:#000000;
-	text-decoration:underline;
-}
-#quizzes-promo table.promos tr td.promo-content a
-{	margin:0;padding:0;
-	font-family:helvetica,verdana,arial;font-size:12px;font-weight:bold;
-}
-#quizzes-promo table.promos tr td.promo-content a:link,
-#quizzes-promo table.promos tr td.promo-content a:active,
-#quizzes-promo table.promos tr td.promo-content a:visited
-{	color:#1122CC;
-	text-decoration:none;
-}
-#quizzes-promo table.promos tr td.promo-content a:hover
-{	color:#1122CC;
-	text-decoration:underline;
-}
-#quizzes-promo table.promos tr td.athletic-dots
-{	margin:0;padding:0;
-	background: url('http://www.merriam-webster.com/images/dots_athletics_bkg_repeatx.gif') repeat-x;
-	height:14px;width:300px;
-}
+	@import url("/styles/default/right-rail-quiz-promo.css");
 </style>
 
-<div id="quizzes-promo">
-	<table class="promos">
-		<tbody><tr>
-			<td class="promo-header" colspan="2">
-				<img src="/images/promos/quizzes/hdr_more_quizzes.gif">
-			</td>
-		</tr>
-		<tr>
-			<td class="promo-image">
-				<a href="/spell-it/index.htm"><img src="/images/promos/quizzes/spell-it-70x55.gif"></a>
-			</td>
-			<td class="promo-content">
-				<h2><a href="/spell-it/index.htm">Spell It</a></h2>
-				<p><a href="/spell-it/index.htm">The commonly misspelled words quiz</a></p>
-				<a href="/spell-it/index.htm" target="_blank">Hear It, Spell It&nbsp;»</a>
-			</td>
-		</tr>
-		<tr>
-			<td class="athletic-dots" colspan="2"></td>
-		</tr><tr>
-		</tr><tr>
-			<td class="promo-image">
-				<a href="/namethatthing/index.htm"><img src="/images/promos/quizzes/name-that-thing-70x55.gif"></a>
-			</td>
-			<td class="promo-content">
-				<h2><a href="/namethatthing/index.htm">Name That Thing</a></h2>
-				<p><a href="/namethatthing/index.htm">Take our visual vocab quiz</a></p>
-				<a href="/namethatthing/index.htm" target="_blank">Test Your Knowledge&nbsp;»</a>
-			</td>
-		</tr>
-		<tr>
-			<td class="athletic-dots" colspan="2"></td>
-		</tr>
-		<tr>
-			<td class="promo-image">
-				<a href="/true-or-false/index.htm"><img src="/images/promos/quizzes/true-or-false-70x55.gif"></a>
-			</td>
-			<td class="promo-content">
-				<h2><a href="/true-or-false/index.htm">True or False?</a></h2>
-				<p><a href="/true-or-false/index.htm">A quick quiz about stuff worth knowing</a></p>
-				<a href="/true-or-false/index.htm" target="_blank">Take It Now&nbsp;»</a>
-			</td>
-		</tr>
-	</tbody></table>
-</div><!--quizzes-promo-->
-					<script type="text/javascript" src="/top-ten-lists/scripts/top-ten-side-carosel.js"></script>
+    <div id="container">
+        <div id="quizzes-header">
+            <img src="/images/promos/quizzes/hdr_more_quizzes.gif">
+        </div><!--quizzes-header-->
+        
+        <div id="quizzes-content">
+            <a href="/spell-it/index.htm"><img src="/images/promos/quizzes/spell-it-70x55.gif"></a>
+            <h2><a href="/spell-it/index.htm">Spell It</a></h2>
+            <p><a href="/spell-it/index.htm">The commonly misspelled words quiz</a></p>
+            <a href="/spell-it/index.htm">Hear It, Spell It&nbsp;»</a>
+        </div><!--quizzes-content-->
+        
+            <div id="athletics-dots"></div>
+        
+        <div id="quizzes-content">
+            <a href="/true-or-false/index.htm"><img src="/images/promos/quizzes/true-or-false-70x55.gif"></a>
+            <h2><a href="/true-or-false/index.htm">True or False?</a></h2>
+            <p><a href="/true-or-false/index.htm">A quick quiz about stuff worth knowing</a></p>
+            <a href="/true-or-false/index.htm">Take It Now&nbsp;»</a>
+        </div><!--quizzes-content-->
+        
+            <div id="athletics-dots"></div>
+        
+        <div id="quizzes-content">
+            <a href="/quiz/index.htm"><img src="/images/promos/quizzes/vocabulary-quiz-70x55.gif"></a>
+            <h2><a href="/quiz/index.htm">Vocabulary Quiz</a></h2>
+            <p><a href="/quiz/index.htm">How strong is your vocabulary?</a></p>
+            <a href="/quiz/index.htm">Take the Quiz&nbsp;»</a>
+        </div><!--quizzes-content-->
+    </div><!--container-->
+						<style type="text/css">
+.LAWRightRailPromo {margin:10px 0 20px 0;padding:0;width:301px;}
+.LAWRightRailPromo .header {margin:0 0 8px 0;padding:0;width:301px;height:25px;}
+.LAWRightRailPromo .image {margin:0 0 8px 0;padding:0;width:301px;}
+.LAWRightRailPromo .image img {margin:0;padding:0;width:301px;height:64px;border:0;}
+.LAWRightRailPromo .url {margin:0;padding:0;}
+.LAWRightRailPromo .url a {font-family:arial,verdana,sans-serif;font-weight:bold;color:#1122CC; font-size:12px;text-decoration:none;}
+.LAWRightRailPromo .url a:hover {color:#1122CC; text-decoration:underline;}
+</style>
+
+<div class="LAWRightRailPromo">
+	<div class="header">
+    	<a href="/looking-at-words/submissions/enchant.htm"><img src="/looking-at-words/assets/images/hdr_green_photo_contest_winners_301x25.gif"></a>
+    </div><!--header-->
+    
+    <div class="image">
+    	<a href="/looking-at-words/submissions/enchant.htm"><img src="/looking-at-words/assets/images/mw_law_resultspg_contest_ends.jpg"></a>
+    </div><!--image-->
+</div><!--LAWRightRailPromo-->					<script type="text/javascript" src="/top-ten-lists/scripts/top-ten-side-carosel.js"></script>
 					<style type="text/css">
-table.fb-twitter
-{	margin:0 0 8px 0;padding:0;
-	width:301px;
+.stay-connected {
+	margin:0 0 15px 0;padding:0;
+	width:307px;
 }
-table.fb-twitter tr.header
-{	margin:0;padding:0;
-	width:301px;height:25px;
+.stay-connected .header {
+	margin:0 0 10px 0;padding:0;
 }
-table.fb-twitter tr
-{	margin:0;padding:0;
-	width:301px;
+.stay-connected .feature {
+	margin:0 0 5px 0;padding:0;
 }
-table.fb-twitter tr td.promo-header
-{	margin:0;padding-bottom:8px;
-	width:301px;
+.feature .featureIcon {
+	margin:0;padding:0 0 0 10px;
+	display:inline-block;
+	vertical-align:top;
+	width:79px;
 }
-table.fb-twitter tr td.promo-header img
-{	margin:0;padding:0;
-	width:301px;height:25px;
+.featureIcon .fb,
+.featureIcon .tw {
+	margin:0 2px 0 0;padding:0;
+	width:33px;
+	display:inline-block;
+}
+.featureIcon .fb img, 
+.featureIcon .tw img {
+	margin:0;padding:0;
+	width:100%;
+	border-radius:3px;
+}
+.feature .featureContent {
+	margin:0;padding:0;
+	display:inline-block;
 	vertical-align:top;
 }
-table.fb-twitter tr td.promo-image
-{	margin:0;padding:0;
-	width:90px;
-	vertical-align:top;
-	text-align:center;
+.featureContent {
+	margin:0;padding:0;
 }
-table.fb-twitter tr td.promo-content
-{	margin:0;padding:0;
-	width:211px;
-	vertical-align:top;
-}
-table.fb-twitter tr td.promo-content h2
-{	margin:0;padding:0 0 2px 0;
-	font-family:georgia,arial,verdana,sans-serif;font-size:14px;font-weight:bold;
+.featureContent .contentTitle {
+	margin:0;padding:0 0 5px 0;
+	font-family:georgia,arial,verdana,sans-serif;
+	font-size:14px;
+	font-weight:bold;
 	color:#ca0403;
 }
-table.fb-twitter tr td.promo-content p
-{	margin:0;padding:0 0 2px 0;
-	font-family:helvetica,verdana,arial;font-size:12px;font-weight:normal;
+.featureContent .contentDescr {
+	margin:0;padding:0 0 5px 0;
+	font-family:helvetica,verdana,arial;
+	font-size:12px;
+	font-weight:normal;
 	color:#000000;
 }
-table.fb-twitter tr td.promo-content a
-{	margin:0;padding:0;
-	font-family:helvetica,verdana,arial;font-size:12px;font-weight:bold;
+.featureContent .contentURLs {
+	margin:0;padding:0;
+	font-size:12px;
 }
-table.fb-twitter tr td.promo-content a:link, 
-table.fb-twitter tr td.promo-content a:active,
-table.fb-twitter tr td.promo-content a:visited
-{	color:#1122CC; /** color:#1040AA; **/
+.featureContent .contentURLs a {
+	margin:0;padding:0;
+	font-family:helvetica,verdana,arial;
+	font-size:12px;
+	font-weight:bold;
 	text-decoration:none;
+	color:#1122CC;
 }
-table.fb-twitter tr td.promo-content a:hover
-{	color:#1122CC; /** color:#1040AA; **/
+.featureContent .contentURLs a:hover {
 	text-decoration:underline;
 }
-table.fb-twitter tr td.athletic-dots
-{	margin:0;padding:0;
-	background: url('http://www.merriam-webster.com/images/dots_athletics_bkg_repeatx.gif') repeat-x;
-	height:14px;width:300px;
+.stay-connected .athletic-dots {
+	margin:0 0 5px 0;padding:0;
+	background: url('/images/dots_athletics_bkg_repeatx.gif') repeat-x;
+	height:14px;width:307px;
 }
 </style>
 
-<table class="fb-twitter">
-	<tbody><tr class="header">
-    	<td class="promo-header" colspan="2">
-        	<img src="/images/promos/stay-connected/hdr_fb_twitter_yellow.gif">
-        </td>
-    </tr>
-    <tr>
-    	<td class="promo-image">
+<div class="stay-connected">
+	<div class="header">
+    	<img src="/images/promos/stay-connected/hdr_stay_connected_blue_home.gif">
+    </div><!--header-->
+    
+    <div class="feature">
+    	<div class="featureIcon">
         	<img class="mobile-apps" src="/images/promos/stay-connected/iphone4_tilt_half.gif">
-        </td>
-        <td class="promo-content">
-			<h2>Get Our Free Apps</h2>
-            <p>Voice Search, Favorites,<br>Word of the Day, and More</p>
-            <a href="http://itunes.apple.com/us/app/merriam-webster-dictionary/id399452287?mt=8" target="_blank">iPhone</a> | 
-            <a href="http://itunes.apple.com/us/app/merriam-webster-dictionary/id438477986?mt=8" target="_blank">iPad</a> |
-            <a href="https://market.android.com/details?id=com.merriamwebster" target="_blank">Android</a> | 
-            <a href="/dictionary-apps/android-ipad-iphone-windows.htm">More</a>
-        </td>
-    </tr>
-	<tr>
-		<td class="athletic-dots" colspan="2"></td>
-    </tr><tr>
-    </tr><tr>
-    	<td class="promo-image">
-			<a href="http://www.facebook.com/merriamwebster"><img class="facebook" src="/images/promos/stay-connected/facebook-35x35.gif"></a>
-			<a href="http://twitter.com/merriamwebster"><img class="twitter" src="/images/promos/stay-connected/twitter-35x35.gif"></a>
-        </td>
-        <td class="promo-content">
-			<h2>Join Us on FB &amp; Twitter</h2>
-            <p>Get the Word of the Day and More</p>
-            <a href="http://www.facebook.com/merriamwebster" target="_blank">Facebook</a> | <a href="http://twitter.com/merriamwebster" target="_blank">Twitter</a>
-        </td>
-    </tr>
-</tbody></table>										<div class="bottom-right-advert">
+        </div><!--featureIcon-->
+        <div class="featureContent">
+        	<div class="contentTitle">
+            	Get Our Free Apps
+            </div><!--contentTitle-->
+            <div class="contentDescr">
+            	Voice Search, Favorites,<br>Word of the Day, and More
+            </div><!--contentDescr-->
+            <div class="contentURLs">
+                <a href="http://itunes.apple.com/us/app/merriam-webster-dictionary/id399452287?mt=8" target="_blank">iPhone</a> | 
+                <a href="http://itunes.apple.com/us/app/merriam-webster-dictionary/id438477986?mt=8" target="_blank">iPad</a> |
+                <a href="https://market.android.com/details?id=com.merriamwebster" target="_blank">Android</a> | 
+                <a href="/dictionary-apps/android-ipad-iphone-windows.htm">More</a>
+            </div><!--contentURLs-->
+        </div><!--featureContent-->
+    </div><!--feature-->
+    
+    <div class="athletic-dots"></div>
+    
+    <div class="feature">
+    	<div class="featureIcon">
+        	<div class="fb">
+            	<a href="http://www.facebook.com/merriamwebster"><img src="/images/social-media/facebook-logo-300x300.png"></a>
+            </div><!--fb-->
+        	<div class="tw">
+            	<a href="http://twitter.com/merriamwebster"><img src="/images/social-media/twitter-logo-300x300.png"></a>
+            </div><!--tw-->
+        </div><!--featureIcon-->
+        <div class="featureContent">
+        	<div class="contentTitle">
+            	Join Us on FB &amp; Twitter
+            </div><!--contentTitle-->
+            <div class="contentDescr">
+            	Get the Word of the Day and More
+            </div><!--contentDescr-->
+            <div class="contentURLs">
+            	<a href="http://www.facebook.com/merriamwebster" target="_blank">Facebook</a> | <a href="http://twitter.com/merriamwebster" target="_blank">Twitter</a>
+            </div><!--contentURLs-->
+        </div><!--featureContent-->
+    </div><!--feature-->
+</div><!--stay-connected-->										<div class="bottom-right-advert">
 						<script type="text/javascript">
 						// <!--
 
 							output_creative('div-gpt-ad-219827234313134000-4');
 
 						// -->
-						</script>
+						</script><div id="div-gpt-ad-219827234313134000-4"><script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-219827234313134000-4'); });
+</script></div>
 					</div>
 				</div>
 				<div id="content">
@@ -820,120 +815,123 @@ table.fb-twitter tr td.athletic-dots
 <p>If you have any questions or concerns, please send an e-mail to <a href="mailto:privacy@m-w.com">privacy@m-w.com</a>.</p>				</div>
 			</div>
 			<div id="footer">				
-				<div class="special-offers">
-	<ol>
-		<li class="offer1">
-			<div class="offer-content">
-            	<a href="http://unabridged.merriam-webster.com/?refr=U_mwol_other" style="text-decoration:none;">
-				<h2>The Merriam-Webster</h2>
-				<h2>Unabridged Dictionary</h2></a>
-                <div class="unabridged">
-                	<a href="http://unabridged.merriam-webster.com/?refr=U_mwol_other">
-                	<img src="/styles/default/images/footer-promos/unabridged-promo.gif"></a>
-                </div><!--unabridged-->
-				<div class="para">Online access to a legendary resource<br><a href="http://unabridged.merriam-webster.com/?refr=U_mwol_promo">Log In</a> or <a href="http://www.merriam-webster.com/cgi-bin/unabridged_sub.pl?refr=U_mwol_promo">Sign Up&nbsp;»</a></div>
-			</div>
-		</li>
-		<li class="offer2">
-			<div class="offer-content">
-            	<a href="http://www.learnersdictionary.com/" style="text-decoration:none;">
-				<h2>Learning English?</h2>
-				<h2>We can help.</h2></a>
-                <div class="learners">
-                	<a href="http://www.learnersdictionary.com/">
-                	<img src="/styles/default/images/footer-promos/learners-promo.gif"></a>
-                </div><!--learners-->
-				<div class="para">Visit our free site designed especially for learners and teachers of 
-                English <a href="http://www.learnersdictionary.com/">LearnersDictionary.com&nbsp;»</a></div>
-			</div>
-		</li>
-		<li class="offer3">
-			<div class="offer-content">
-            	<a href="/dictionary-apps/android-ipad-iphone-windows.htm" style="text-decoration:none;">
-				<h2>Our Dictionary,<br>On Your Devices</h2></a>
-                <div class="iphone_app">
-                	<a href="/dictionary-apps/android-ipad-iphone-windows.htm">
-                	<img src="/styles/default/images/footer-promos/iphone-app-woman-with-cell.jpg"></a>
-                </div><!--iphone_app-->
-				<div class="para">Merriam-Webster,<br><em>With Voice Search</em><a href="/dictionary-apps/android-ipad-iphone-windows.htm">Get the Free Apps! »</a></div>
-			</div>
-		</li>
-		<li class="offer4">
-			<div class="offer-content">
-            	<a href="http://www.cafepress.com/MerriamWebster" style="text-decoration:none;">
-				<h2>Visit Our Store</h2></a>
-                <div class="cafepress-coffeemug">
-                	<a href="http://www.cafepress.com/MerriamWebster">
-                	<img src="/images/cafepress/cafepress_mug_caffeine_100px_thumb.jpg"></a>
-                </div><!--cafepress-coffeemug-->
-				<ol>
-					<li class="arrow"><a href="http://www.cafepress.com/MerriamWebster/7291387">Mugs</a></li>
-					<li><a href="http://www.cafepress.com/MerriamWebster/7291429">T-Shirts</a></li>
-					<li><a href="http://www.cafepress.com/MerriamWebster/7291422">Baby &amp; Toddler</a></li>
-					<li><a href="http://www.cafepress.com/MerriamWebster/7291420">Pet Bowls</a></li>
-					<li><a href="http://www.cafepress.com/MerriamWebster/7291417">Totes</a></li>
-					<li><a href="http://www.cafepress.com/MerriamWebster">&amp; More</a></li>
-				</ol>
-			</div>
-		</li>
-	</ol>
-	<div style="clear: left;"></div>
-</div><!--special-offers-->				<div class="footer-advert">
+				<div class="offeringsTop">
+	<div class="offer1">
+    	<div class="featTitle">
+        	The Merriam-Webster <br> Unabridged Dictionary
+        </div><!--featTitle-->
+        
+        <div class="featImage_1">
+        	<a href="http://unabridged.merriam-webster.com/?refr=U_mwol_other"><img src="/styles/default/images/footer-promos/unabridged-promo.gif"></a>
+        </div><!--featImage-->
+        
+        <div class="featDescr">
+        	Online access to a <br> legendary resource <br> <a href="http://unabridged.merriam-webster.com/?refr=U_mwol_promo">Log In</a> or <a href="/info/subscribe.php?refr=U_mwol_promo">Sign Up&nbsp;»</a>
+        </div><!--featDescr-->
+    </div><!--offer1-->
+    
+    <div class="offer2">
+    	<div class="featTitle">
+        	Learning English? <br>We can help.
+        </div><!--featTitle-->
+        
+        <div class="featImage_2">
+        	<a href="http://www.learnersdictionary.com/"><img src="/styles/default/images/footer-promos/learners-promo.gif"></a>
+        </div><!--featImage-->
+        
+        <div class="featDescr">
+        	Visit our free site designed <br> especially for learners and <br> teachers of English <br> <a href="http://www.learnersdictionary.com/">LearnersDictionary.com&nbsp;»</a>
+        </div><!--featDescr-->
+    </div><!--offer2-->
+    
+    <div class="offer3">
+        <div class="featImage_3">
+        	<a href="/dictionary-apps/android-ipad-iphone-windows.htm"><img src="/styles/default/images/footer-promos/iphone-app-woman-with-cell.jpg"></a>
+        </div><!--featImage-->
+        
+        <div class="featTitle">
+        	Our Dictionary, <br> On Your Devices
+        </div><!--featTitle-->
+                
+        <div class="featDescr">
+        	Merriam-Webster, <br> <em>With Voice Search</em> <br> <a href="/dictionary-apps/android-ipad-iphone-windows.htm">Get the Free Apps! »</a>
+        </div><!--featDescr-->
+    </div><!--offer3-->
+    
+    <div class="offer4">
+    	<div class="featTitle">
+        	Merriam-Webster's <br> Visual Dictionaries
+        </div><!--featTitle-->
+        
+        <div class="featImage_4">
+        	<a href="/shop/products/books/visual-dictionary-second-edition.htm"><img src="/styles/default/images/footer-promos/visual-dictionary-promo.gif" border="0"></a>
+        </div><!--featImage-->
+        
+        <div class="featDescr">
+        	The new edition of the <br> remarkable reference <br> features 8,000 <br> illustrations. <br> <a href="/shop/products/books/visual-dictionary-second-edition.htm">Learn More »</a>
+        </div><!--featDescr-->
+    </div><!--offer4-->
+</div><!--offeringsTop-->				<div class="footer-advert">
 					<script type="text/javascript">
 					// <!--
 
 						output_creative('div-gpt-ad-219827234313134000-5');
 
 					// -->
-					</script>
+					</script><div id="div-gpt-ad-219827234313134000-5"><script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-219827234313134000-5'); });
+</script></div>
 				</div><!--footer-advert-->
-				<div class="special-offers">
-	<ol>
-		<li class="offer5">
-			<div class="offer-content">
-				<h2>Join Us</h2>
-				<ol>
-					<li class="twitter"><a href="http://twitter.com/merriamwebster">Merriam-Webster<br>on Twitter&nbsp;»</a></li>
-					<li class="facebook"><a href="http://www.facebook.com/merriamwebster">Merriam-Webster<br>on Facebook&nbsp;»</a></li>
-				</ol>
-			</div>
-		</li>
-		<li class="offer6">
-			<div class="offer-content">
-            	<a href="http://www.merriam-webster.com/shop/index.htm" style="text-decoration:none;">
-				<h2>Bookstore: Digital and Print</h2></a>
-				<div class="para">Merriam-Webster references for Mobile, Kindle, print, and more. 
-                <a href="http://www.merriam-webster.com/shop/index.htm">See all&nbsp;»</a></div>
-			</div>
-		</li>
-		<li class="offer7">
-			<div class="offer-content">
-				<h2>Other Merriam-Webster Dictionaries</h2>
-                <div style="float:left;width:230px;">
-                	<ol>
-                        <li class="unabr-dict"><a href="http://unabridged.merriam-webster.com/?refr=U_mwol_other">Webster's Unabridged Dictionary&nbsp;»</a></li>
-                        <li class="word-central"><a href="http://www.wordcentral.com/">WordCentral for Kids&nbsp;»</a></li>
-					</ol>
-                </div>
-                	<ol>
-                        <li class="learners-dict"><a href="http://www.learnersdictionary.com/">Learner's ESL Dictionary&nbsp;»</a></li>
-                        <li class="visual-dict"><a href="http://visual.merriam-webster.com/">Visual Dictionary&nbsp;»</a></li>
-                    </ol>
-                <!--
-				<ol>
-					<li class="unabr-dict"><a href="http://unabridged.merriam-webster.com/?refr=U_mwol_other">Webster's Unabridged Dictionary&nbsp;&raquo;</a></li>
-					<li class="word-central"><a href="http://www.wordcentral.com/">WordCentral for Kids&nbsp;&raquo;</a></li>
-					<li class="learners-dict"><a href="http://www.learnersdictionary.com/">Learner's ESL Dictionary&nbsp;&raquo;</a></li>
-					<li class="visual-dict"><a href="http://visual.merriam-webster.com/">Visual Dictionary&nbsp;&raquo;</a></li>
-				</ol>
-                -->
-			</div>
-		</li>
-	</ol>
-	<div style="clear: left;"></div>
-</div>
-
-
+				<div class="offeringsBottom">
+	<div class="offer5">
+    	<div class="featTitle">
+        	Join Us
+        </div><!--featTitle-->
+        
+        <div class="twitter">
+        	<div class="twLogo">
+        		<a href="http://twitter.com/merriamwebster"><img src="/images/social-media/twitter-logo-300x300.png"></a>
+            </div><!--twLogo-->
+            <div class="twDescr">
+            	<a href="http://twitter.com/merriamwebster">Merriam-Webster<br>on Twitter&nbsp;»</a>
+            </div><!--twDescr-->
+        </div><!--twitter-->
+        
+        <div class="facebook">
+        	<div class="fbLogo">
+        		<a href="http://www.facebook.com/merriamwebster"><img src="/images/social-media/facebook-logo-300x300.png"></a>
+            </div><!--fbLogo-->
+            <div class="fbDescr">
+            	<a href="http://www.facebook.com/merriamwebster">Merriam-Webster<br>on Facebook&nbsp;»</a>
+            </div><!--fbDescr-->
+        </div><!--facebook-->
+    </div><!--offer5-->
+    
+    <div class="offer6">
+    	<div class="featTitle">
+        	Bookstore: Digital and Print
+        </div><!--featTitle-->
+        <div class="bookstoreDescr">
+        	Merriam-Webster references for Mobile, Kindle, print, and more. <a href="http://www.merriam-webster.com/shop/index.htm">See all&nbsp;»</a>
+        </div><!--bookstoreDescr-->
+    </div><!--offer6-->
+    
+    <div class="offer7">
+    	<div class="featTitle">
+        	Other Merriam-Webster Dictionaries
+        </div><!--featTitle-->
+        
+        <div class="dictURLs_1">
+            <a href="http://unabridged.merriam-webster.com/?refr=U_mwol_other">Webster's Unabridged Dictionary&nbsp;»</a>
+            <a href="http://www.wordcentral.com/">WordCentral for Kids&nbsp;»</a>
+        </div><!--dictURLs-->
+        <div class="dictURLs_2">
+            <a href="http://www.learnersdictionary.com/">Learner's ESL Dictionary&nbsp;»</a>
+            <a href="http://visual.merriam-webster.com/">Visual Dictionary&nbsp;»</a>
+        </div><!--dictURLs-->
+    </div><!--offer7-->
+    <div style="clear:left;"></div>
+</div><!--offeringsBottom-->
 				<div class="browse-dictionary">
                     <a href="/browse/dictionary/a.htm">Browse the Dictionary</a>
                 </div>
@@ -1025,14 +1023,11 @@ table.fb-twitter tr td.athletic-dots
         </noscript>
         <!-- End comScore Tag -->
         
-        <!--Start CrazyEgg Tag -->
-        <script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0007/9241.js"> </script>
-        <!--End crazyEgg Tag -->
 				<!-- Load Facebook Connect Code -->
-<div id="fb-root" class=" fb_reset"><script type="text/javascript" src="https://web.archive.org/web/20121125031835/https://connect.facebook.net/en_US/all.js" async=""></script><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe id="f2a1eb6d78fffac" name="f2a1eb6d78fffac" src="https://www.facebook.com/dialog/oauth?client_id=178450008855735&amp;response_type=token%2Csigned_request%2Ccode&amp;display=none&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D17%23cb%3Df37b0a95f43e4e%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff20bb90c257932%26domain%3Dweb.archive.org%26relation%3Dparent&amp;sdk=joey" style="display: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe id="fb_xdm_frame_https" name="fb_xdm_frame_https" src="https://s-static.ak.facebook.com/connect/xd_arbiter.php?version=17#channel=f20bb90c257932&amp;origin=https%3A%2F%2Fweb.archive.org&amp;channel_path=%2Fweb%2F20121016182931id_%2Fhttp%253A%2F%2Fwww.merriam-webster.com%2Finfo%2Fprivacy.htm%3Ffb_xd_fragment%23xd_sig%3Df26582b8945cde4%26"></iframe></div></div></div>
+<div id="fb-root" class=" fb_reset"><script type="text/javascript" src="https://web.archive.org/web/20121125031835/https://connect.facebook.net/en_US/all.js" async=""></script><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe id="fb9c300b1fbab" name="fb9c300b1fbab" src="https://www.facebook.com/dialog/oauth?client_id=178450008855735&amp;response_type=token%2Csigned_request%2Ccode&amp;display=none&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D17%23cb%3Df1856bedbf1a68c%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff3870cf0a5369f4%26domain%3Dweb.archive.org%26relation%3Dparent&amp;sdk=joey" style="display: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe id="fb_xdm_frame_https" name="fb_xdm_frame_https" src="https://s-static.ak.facebook.com/connect/xd_arbiter.php?version=17#channel=f3870cf0a5369f4&amp;origin=https%3A%2F%2Fweb.archive.org&amp;channel_path=%2Fweb%2F20130607044716id_%2Fhttp%253A%2F%2Fwww.merriam-webster.com%2Finfo%2Fprivacy.htm%3Ffb_xd_fragment%23xd_sig%3Df2af6d1a4b3bd9%26"></iframe></div></div></div>
 <script type="text/javascript" src="/js/facebook-connect.js"></script>
 <!-- div id="facebook-login-win" style="background: red; display: none; height: 100px; left: 0; opacity2: .8; position: fixed; top: 0; width: 100%; z-index: 999999;"><div style="display: table-cell; vertical-align: middle; width: 100%; opacity: 1; text-align: center;"><fb:login-button autologoutlink="true" perms="email,user_birthday,status_update,publish_stream"></fb:login-button></div></div -->        
         <!--// Exelator Ad Tag //-->
 		<script type="text/javascript" src="http://loadus.exelator.com/load/?p=370&amp;g=002&amp;c=1289606&amp;channel=ROS"></script>	
 
-<div id="AutocompleteContainter_985e5" style="position: absolute; z-index: 9999; top: 796px; left: 24px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_985e5" style="display: none; width: 434px; max-height: 300px;"></div></div></div></body></html>
+<div id="AutocompleteContainter_e5dce" style="position: absolute; z-index: 9999; top: 1077px; left: 24px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_e5dce" style="display: none; width: 434px; max-height: 300px;"></div></div></div></body></html>
