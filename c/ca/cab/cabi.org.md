@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabi.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231202449id_/http%3A//www.cabi.org/default.aspx%3Fsite%3D170%26page%3D1258) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabi.org privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607202045id_/http%3A//www.cabi.org/default.aspx%3Fsite%3D170%26page%3D1258) for the most accurate reproduction.*
 
 # CABI | Privacy policy
 
@@ -30,7 +30,7 @@ We use cookies to recognise users after they have registered to use a website or
 Cookies will enable our web-sites to recognize the information you have consented to give and use it to present you with custom web pages. So, for example, instead of seeing just a generic welcome page, you might see a welcome page with your name on it. Some features on this site will not function if you do not allow cookies.
 
   
-Click here for a full description of our [Cookies policy](https://web.archive.org/web/20121231202449id_/http%3A//www.cabi.org/default.aspx%3Fsite%3D170%26page%3D1258?site=170&page=4787).  
+Click here for a full description of our [Cookies policy](https://web.archive.org/web/20130607202045id_/http%3A//www.cabi.org/default.aspx%3Fsite%3D170%26page%3D1258?site=170&page=4787).  
  
 
 If you do not wish to receive information from CABI other than that requested, please contact us at [enquiries@cabi.org ](mailto:enquiries@cabi.org)  
