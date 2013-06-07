@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edarticle.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206010151id_/http%3A//www.edarticle.com/page.php%3Fp%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edarticle.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607182436id_/http%3A//www.edarticle.com/page.php%3Fp%3D4) for the most accurate reproduction.*
 
 # Education Articles
 
