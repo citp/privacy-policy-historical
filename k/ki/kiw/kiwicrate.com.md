@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwicrate.com privacy policy that was archived on 2012-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120719050626id_/http%3A//www.kiwicrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwicrate.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607132358id_/http%3A//www.kiwicrate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kids Crafts & Activities for Children | Kiwi Crate
 
