@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texthelp.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208105358id_/http%3A//texthelp.com/North-America/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texthelp.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607224909id_/http%3A//texthelp.com/North-America/Privacy-Policy) for the most accurate reproduction.*
 
 # Texthelp - Privacy Policy
 
@@ -63,8 +63,7 @@ If you have any questions about this privacy statement, the practices of our sit
 
 **Texthelp Inc.**  
 600 Unicorn Park Drive  
-Woburn, MA  01801
-
+Woburn, MA  01801  
 Toll free phone: 888-248-0652  
 Toll free fax: 866-248-0652  
 Email: [u.s.info@texthelp.com](mailto:u.s.info@texthelp.com)
