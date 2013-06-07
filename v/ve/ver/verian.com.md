@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verian.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208012629id_/http%3A//www.verian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verian.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607071239id_/http%3A//www.verian.com/privacy) for the most accurate reproduction.*
 
 # Verian Statement of Privacy « Verian
 
@@ -28,4 +28,4 @@ To ensure we are publishing content customers need and want, Verian collects agg
 
 **Changes to this Statement**
 
-Verian will occasionally update this privacy statement. When we do, we will also revise the “last updated” date at the top of the privacy statement.
+Verian will occasionally update this privacy statement. When we do, we will also revise the last updated date at the top of the privacy statement.
