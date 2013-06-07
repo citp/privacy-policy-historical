@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addtoany.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026074203id_/http%3A//www.addtoany.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addtoany.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607143003id_/http%3A//www.addtoany.com/privacy) for the most accurate reproduction.*
 
 # AddToAny - Privacy Policy
 
@@ -22,7 +22,7 @@
     * Software and system specifications
     * Browsing habits
     * Other non-personal data
-  * To opt out of information collection by NAI members for targeted advertising you may [click here](http://www.networkadvertising.org/managing/opt_out.asp)
+  * To opt out of information collection by NAI members for targeted advertising you may [click here](http://www.networkadvertising.org/choices/)
 
 
 
