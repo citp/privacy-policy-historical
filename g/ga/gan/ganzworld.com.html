@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ganzworld.com privacy policy that was archived on 2012-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121206045048id_/http%3A//www.ganzworld.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ganzworld.com privacy policy that was archived on 2013-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130607024653id_/http%3A//www.ganzworld.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><head>
 <meta charset="UTF-8">
@@ -39,19 +39,23 @@ googletag.enableServices();
 <link rel="alternate" type="application/rss+xml" title="Ganz World » Comments Feed" href="http://www.ganzworld.com/comments/feed/">
 <link rel="stylesheet" id="shadowbox-css-css" href="http://www.ganzworld.com/wp-content/plugins/shadowbox-js/shadowbox/shadowbox.css?ver=3.0.3" type="text/css" media="screen">
 <link rel="stylesheet" id="shadowbox-extras-css" href="http://www.ganzworld.com/wp-content/plugins/shadowbox-js/css/extras.css?ver=3.0.3.9" type="text/css" media="screen">
+<link rel="stylesheet" id="notification-css-css" href="http://www.ganzworld.com/wp-content/plugins/notification/style.css?ver=3.4.2" type="text/css" media="all">
 <link rel="stylesheet" id="wp-pagenavi-css" href="http://www.ganzworld.com/wp-content/plugins/pagination/pagenavi-css.css?ver=2.70" type="text/css" media="all">
 <script type="text/javascript" src="http://www.ganzworld.com/wp-includes/js/jquery/jquery.js?ver=1.7.2"></script>
 <script type="text/javascript" src="http://www.ganzworld.com/wp-includes/js/comment-reply.js?ver=3.4.2"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ganzworld.com/xmlrpc.php?rsd">
+<script type="text/javascript" src="http://www.ganzworld.com/wp-content/plugins/notification/js/notifier.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://www.ganzworld.com/wp-content/plugins/notification/js/notifier-settings.js?ver=3.4.2"></script>
+<script type="text/javascript">jQuery(window).load(function(){ganz.notification.displayMessage({"title":"You have earned <span class='amount'>1 Moneyz!<\/span>","buttons":["login","register"],"text":"Login to <strong>GanzWorld<\/strong> to claim your reward!<div class=\"notification-centered\"><a href=\"http:\/\/www.ganzworld.com\/privacy-policy\/?login=1\" id=\"notification-login\"><\/a><a href=\"http:\/\/www.ganzworld.com\/privacy-policy\/?register=1\" id=\"notification-signup\"><\/a><\/div>"});});</script><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ganzworld.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.ganzworld.com/wp-includes/wlwmanifest.xml"> 
 <link rel="prev" title="Pages" href="http://www.ganzworld.com/pages/">
 <link rel="next" title="Terms of Use" href="http://www.ganzworld.com/terms-of-use/">
 <meta name="generator" content="WordPress 3.4.2">
+<link rel="canonical" href="http://www.ganzworld.com/privacy-policy/">
 
 <!-- All in One SEO Pack 1.6.13.2 by Michael Torbert of Semper Fi Web Design[78,112] -->
-<link rel="canonical" href="http://www.ganzworld.com/privacy-policy/">
 <!-- /all in one seo pack -->
 <script type="text/javascript" src="http://www.ganzworld.com/wp-content/plugins/auth/js/auth.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://www.ganzworld.com/wp-content/plugins/auth/js/game.js?ver=3.4.2"></script>
 <link rel="stylesheet" id="main_carousel-css" href="http://www.ganzworld.com/wp-content/themes/gwt/main-carousel/css/main_carousel.css?ver=3.4.2" type="text/css" media="all">
 <script type="text/javascript" src="http://www.ganzworld.com/wp-content/themes/gwt/main-carousel/js/jquery.cycle.js?ver=3.4.2"></script>
 <script type="text/javascript" src="http://www.ganzworld.com/wp-content/themes/gwt/main-carousel/js/jquery.easing.js?ver=3.4.2"></script>
@@ -85,7 +89,34 @@ googletag.enableServices();
 </head>
 
 <body class="page page-id-10 page-template-default">
-<script>var currentSiteShortName = "WKN";var currentSiteToken = "www";var mergetSiteURL  = "parentclub.ganzworld.com";var slideStatus     = 0;var socialConnectIsCoppa     = 0;var nakamasURL     = "http://play.nakamas.com/GameAuthenticationWS/authenticate.html";var webkinzURL     = "http://www.webkinz.com/authenticate.html";var amazingworldURL     = "http://amazingworld.com/GameAuthenticationWS/authenticate.html";var updateAccjumper = 1;</script><div id="ul-slider-wrap" style="display:none;">
+<script>
+					if(typeof ganz=='undefined') {
+						var ganz = {};
+					}
+					
+					if(typeof ganz.apps == 'undefined') {
+						ganz.apps = {};
+					}
+					ganz.apps = { 	'webkinz' 			: {	'url'	:'http://www.webkinz.com/authenticate.html?url=http://www.ganzworld.com/wp-content/plugins/auth/classes/social-connectors/webkinz/mapcallback.php', 
+															'param'	:'height=250,width=500,left=550, top=400',  
+															'bank'	:'your Dock'},			
+																									
+									'nakamas'    		: {	'url'	:'http://play.nakamas.com/GameAuthenticationWS/authenticate.html?url=http://www.ganzworld.com/wp-content/plugins/auth/classes/social-connectors/nakamas/mapcallback.php',
+															'param'	:'height=250,width=500,left=550, top=400',  
+															'bank'	:'\'The Bag\''},                     
+														
+									'amazing-world'    	: { 'url'	:'http://amazingworld.com/GameAuthenticationWS/authenticate.html?url=http://www.ganzworld.com/wp-content/plugins/auth/classes/social-connectors/amazingworld/mapcallback.php', 
+															'param'	:'height=250,width=500,left=550, top=400',  
+															'bank'	:'your Backpack'},
+														
+									'webkinz-friends'	: {	'url'	:'https://graph.facebook.com/oauth/authorize?client_id=348615985177086&scope=email&redirect_uri=http%3A%2F%2Fwww.ganzworld.com%2Fwp-content%2Fplugins%2Fauth%2Fclasses%2Fsocial-connectors%2Ffacebook%2Fcallback.php%3FmapBox%3Dtrue', 
+															'param'	:'height=600,width=950,left=200, top=200',  
+															'bank'	:'your Inventory'},
+															
+									'tailtowns-friends'	: {	'url'	:'https://graph.facebook.com/oauth/authorize?client_id=348615985177086&scope=email&redirect_uri=http%3A%2F%2Fwww.ganzworld.com%2Fwp-content%2Fplugins%2Fauth%2Fclasses%2Fsocial-connectors%2Ffacebook%2Fcallback.php%3FmapBox%3Dtrue', 
+															'param'	:'height=600,width=950,left=200, top=200',    
+															'bank'	:'your Inventory'}
+								};var currentSiteShortName 	= "WKN";var currentSiteToken 		= "www";var mergetSiteURL 		 	= "parentclub.ganzworld.com";var slideStatus     		= 0;var socialConnectIsCoppa   = 0;var nakamasURL     		= "http://play.nakamas.com/GameAuthenticationWS/authenticate.html";var webkinzURL     		= "http://www.webkinz.com/authenticate.html";var amazingworldURL    	= "http://amazingworld.com/GameAuthenticationWS/authenticate.html";var webkinzCallbackURL     = "http://www.ganzworld.com/wp-content/plugins/auth/classes/social-connectors/webkinz/mapcallback.php";var nakamasCallbackURL     = "http://www.ganzworld.com/wp-content/plugins/auth/classes/social-connectors/nakamas/mapcallback.php";var amazingworldCallbackURL     	= "http://www.ganzworld.com/wp-content/plugins/auth/classes/social-connectors/amazingworld/mapcallback.php";var tailtownsfriendsCallbackURL    = "http%3A%2F%2Fwww.ganzworld.com%2Fwp-content%2Fplugins%2Fauth%2Fclasses%2Fsocial-connectors%2Ffacebook%2Fcallback.php%3FmapBox%3Dtrue";var webkinzfriendsCallbackURL     	= "http%3A%2F%2Fwww.ganzworld.com%2Fwp-content%2Fplugins%2Fauth%2Fclasses%2Fsocial-connectors%2Ffacebook%2Fcallback.php%3FmapBox%3Dtrue";var updateAccjumper 				= 1;</script><div id="ul-slider-wrap" style="display:none;">
 	<div id="openCloseIdentifier"></div>
 	<div id="openCloseWrap">
 <!--    	<div id="openCloseSubWrap">-->
@@ -199,9 +230,19 @@ googletag.enableServices();
 	<div id="not-member-wrap">	    
     	<div id="not-member">
         	<h1>Not a Member?</h1>
-            <a id="not-member-link">Click here</a> to register!<br> <!--<div id="join-rewards">You'll get <br>1000<br> GanzWorld Moneyz</div>   --></div>
+            <a id="not-member-link">Click here</a> to register!<br> <div id="join-rewards">You'll get <br>1500<br> GanzWorld Moneyz</div> </div>
     </div>    
-</div></div></form><form name="scRegister" class="scFormRegister" id="scRegister" style="display:none;" action="/jsonrpc.php" autocomplete="off"><div id="form-register-confirmation-coppa" class="form-block" style="display:none;"></div><div id="form-register-confirmation-noncoppa" class="form-block" style="display:none;"></div><div id="form-register-step1" class="form-block" style="display:block;"><div id="form-register-step1-option-1" class="form-register-options">
+</div></div></form><form name="scRegister" class="scFormRegister" id="scRegister" style="display:none;" action="/jsonrpc.php" autocomplete="off"><div id="form-register-confirmation-coppa" class="form-block" style="display:none;"><div id="section-title">You're almost done!</div>
+<div id="confirmation-msg">
+An email has been sent to your parents at <span id="user-email"></span> asking permission to create your GanzWorld account.
+<li>1)&nbsp;&nbsp;Ask your parents to check their email (and junk box folder).</li>
+<li>2)&nbsp;&nbsp;Ask them to read the email and follow the instructions.</li>
+<li>3)&nbsp;&nbsp;Once they click the activation link, your account will be created!</li>
+</div></div><div id="form-register-confirmation-noncoppa" class="form-block" style="display:none;"><div id="section-title">Just one more step!</div>
+<div id="confirmation-msg">	  
+You're almost finished the membership process! We've sent an email to <span id="user-email"></span> with an activation link. Please follow the instructions enclosed in the email to complete registration.
+</div>
+</div><div id="form-register-step1" class="form-block" style="display:block;"><div id="form-register-step1-option-1" class="form-register-options">
 <div id="section-title">Register with:</div>	<div class="social_connect_ui ">
 				<div class="social_connect_form" title="Social Connect">
 		
@@ -271,7 +312,7 @@ googletag.enableServices();
 
     <div class="field-wrapper">
         <lable>Date of Birth:</lable>
-    	<select id="form-register-step1-dob-day" name="form-register-step1-dob-day" class="sc-register-form"><option></option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>&nbsp;<select id="form-register-step1-dob-month" name="form-register-step1-dob-month" class="sc-register-form"><option></option><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>&nbsp;<select id="form-register-step1-dob-year" name="form-register-step1-dob-year" class="sc-register-form"><option></option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option><option value="1920">1920</option><option value="1919">1919</option><option value="1918">1918</option><option value="1917">1917</option><option value="1916">1916</option><option value="1915">1915</option><option value="1914">1914</option><option value="1913">1913</option><option value="1912">1912</option></select>        <div id="form-register-step1-dob" class="tips">We ask this information for security purposes.</div>
+    	<select id="form-register-step1-dob-day" name="form-register-step1-dob-day" class="sc-register-form"><option></option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>&nbsp;<select id="form-register-step1-dob-month" name="form-register-step1-dob-month" class="sc-register-form"><option></option><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>&nbsp;<select id="form-register-step1-dob-year" name="form-register-step1-dob-year" class="sc-register-form"><option></option><option value="2013">2013</option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option><option value="1920">1920</option><option value="1919">1919</option><option value="1918">1918</option><option value="1917">1917</option><option value="1916">1916</option><option value="1915">1915</option><option value="1914">1914</option><option value="1913">1913</option></select>        <div id="form-register-step1-dob" class="tips">We ask this information for security purposes.</div>
     </div>
 
     <div id="form-register-step1-coppa">
@@ -322,12 +363,12 @@ googletag.enableServices();
 	        <li>Play fun games and activities!</li>
 	        <span>Learn more about GanzWorld: Check out the <a href="http://parentclub.ganzworld.com/buzz/a-look-inside-ganz-world/" target="_blank">video</a>!</span>
         </div>
-        <!-- <div id="reg-rewards">
+       <div id="reg-rewards">
         	Sign up now to earn
         	<div id="reg-rewards-details">
-	        	1000 <br> GanzWorld Moneyz! 
+	        	1500 <br> GanzWorld Moneyz! 
         	</div>
-        </div>  -->
+        </div>  
     <div id="help">
         <a id="already-member">I am already a member</a>
     </div>
@@ -484,7 +525,7 @@ The collection of your personal information is  governed by our <a id="privacy-p
    		<div class="field-wrapper">
         <div id="section-title">Please select your date of birth:</div>
         <lable><span style="font-weight:bold;">Date of Birth:</span></lable>
-    	<select id="accupdate-dob-day" name="accupdate-dob-day" class="sc-accupdate-form"><option></option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>&nbsp;<select id="accupdate-dob-month" name="accupdate-dob-month" class="sc-accupdate-form"><option></option><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>&nbsp;<select id="accupdate-dob-year" name="accupdate-dob-year" class="sc-accupdate-form"><option></option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option><option value="1920">1920</option><option value="1919">1919</option><option value="1918">1918</option><option value="1917">1917</option><option value="1916">1916</option><option value="1915">1915</option><option value="1914">1914</option><option value="1913">1913</option><option value="1912">1912</option></select>	    </div>
+    	<select id="accupdate-dob-day" name="accupdate-dob-day" class="sc-accupdate-form"><option></option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>&nbsp;<select id="accupdate-dob-month" name="accupdate-dob-month" class="sc-accupdate-form"><option></option><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>&nbsp;<select id="accupdate-dob-year" name="accupdate-dob-year" class="sc-accupdate-form"><option></option><option value="2013">2013</option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option><option value="1920">1920</option><option value="1919">1919</option><option value="1918">1918</option><option value="1917">1917</option><option value="1916">1916</option><option value="1915">1915</option><option value="1914">1914</option><option value="1913">1913</option></select>	    </div>
     </div>
 	<input type="button" id="form-accountupdate-dob-continue" value="" class="submit">
     <input type="hidden" id="login-username" class="scAccountUpdate" name="login-username">
@@ -569,13 +610,13 @@ The collection of your personal information is  governed by our <a id="privacy-p
 	</div> <!--  login-slider --> 
 
 </div><!--  sliderWrap -->
-<!-- <a href="http://www.ganzworld.com/about-rewards" target="_blank" id="side-tab" class="logged-out"></a>
+<a href="http://www.ganzworld.com/about-rewards" target="_blank" id="side-tab" class="logged-out"></a>
 <div id="foot-nag">
-	<span class="moneyz">Join <strong>GanzWorld</strong> You'll get <span id="amt">1000 Moneyz!</span></span>
-	<a class="learn-more" href="http://www.ganzworld.com/about-ganzworld-rewards" target="_blank"></a>
+	<span class="moneyz">Join <strong>GanzWorld</strong> You'll get <span id="amt">1500 Moneyz!</span></span>
+	<a class="learn-more" href="http://www.ganzworld.com/about-rewards" target="_blank"></a>
 	<a class="join-now" href="/?register=1"></a>
 </div>
-<style>#wrapper{padding-bottom:33px!important;}</style> -->
+<style>#wrapper{padding-bottom:33px!important;}</style>
 
 <!--  close the login form -->
 
@@ -604,11 +645,12 @@ googletag.display('leaderboard');
             <div id="header_main_menu">
 				<div class="menu-main-menu-tabs-container"><ul id="menu-main-menu-tabs" class="menu"><li id="menu-item-1846" class="rewards menu-item menu-item-type-custom menu-item-object-custom menu-item-1846"><a href="http://www.ganzworld.com/rewards">Rewards</a></li>
 <li id="menu-item-1847" class="webkinznewz menu-item menu-item-type-custom menu-item-object-custom menu-item-1847"><a href="http://webkinznewz.ganzworld.com">Webkinz Newz</a></li>
-<li id="menu-item-1848" class="webkinzfriends menu-item menu-item-type-custom menu-item-object-custom menu-item-1848"><a href="http://webkinznewz.ganzworld.com/webkinz-friends/">Webkinz Friends</a></li>
+<li id="menu-item-1848" class="webkinzfriends menu-item menu-item-type-custom menu-item-object-custom menu-item-1848"><a href="http://webkinznewz.ganzworld.com/category/webkinz-friends/">Webkinz Friends</a></li>
 <li id="menu-item-1849" class="amazingworldnewz menu-item menu-item-type-custom menu-item-object-custom menu-item-1849"><a href="http://amazingworld.ganzworld.com">Amazing World Newz</a></li>
 <li id="menu-item-1850" class="nakamasnewz menu-item menu-item-type-custom menu-item-object-custom menu-item-1850"><a href="http://nakamas.ganzworld.com/">Nakamas Newz</a></li>
-<li id="menu-item-1852" class="tailtownsfriendsnewz menu-item menu-item-type-custom menu-item-object-custom menu-item-1852"><a href="http://tailtowns.ganzworld.com">Tail Towns Friends</a></li>
-<li id="menu-item-1854" class="parentclub menu-item menu-item-type-custom menu-item-object-custom menu-item-1854"><a href="http://parentclub.ganzworld.com">Parent Club</a></li>
+<li id="menu-item-1852" class="tailtownsfriendsnewz menu-item menu-item-type-custom menu-item-object-custom menu-item-1852"><a title="coppa" href="http://tailtowns.ganzworld.com">Tail Towns Friends</a></li>
+<li id="menu-item-1854" class="parentclub menu-item menu-item-type-custom menu-item-object-custom menu-item-1854"><a title="coppa" href="http://parentclub.ganzworld.com">Parent Club</a></li>
+<li id="menu-item-2054" class="games menu-item menu-item-type-custom menu-item-object-custom menu-item-2054"><a href="http://games.ganzworld.com">Arcade</a></li>
 </ul></div>			</div>
         <div id="access" role="navigation">
 		              <div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
@@ -632,95 +674,151 @@ googletag.display('leaderboard');
 											<h1 class="entry-title">Privacy Policy</h1>
 					
 					<div class="entry-content">
-						
-<div class="legal">
-<p>READ BEFORE DISCLOSING INFORMATION &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Last Updated on: October 18, 2012</p>
-<p><strong>Ganz is committed to protecting personal information of its Service users and clients.</strong></p>
+						<div class="legal">
+<p>READ BEFORE DISCLOSING INFORMATION &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Last Updated on: May 16, 2013</p>
+<p>&nbsp;</p>
 <ul>
-	<li><strong>We don’t knowingly collect personal information from children under 13.&nbsp; </strong></li>
-	<li><strong>Parents are urged to supervise their children’s activities online.</strong></li>
-	<li><strong>This policy applies to all information that identifies a particular individual.</strong></li>
-	<li><strong>Personal information will be collected, used and disclosed in accordance with the form of consent required by law.</strong></li>
-	<li><strong>Use of personal information is limited.&nbsp; </strong></li>
-	<li><strong>We take steps to protect personal information.</strong></li>
-	<li><strong>We keep personal information for a reasonable period of time only.</strong></li>
-	<li><strong>We may gather non-personal information by means of cookies, beacons and other technology.</strong></li>
-	<li><strong>Ad companies collect anonymous data.&nbsp; You have options.&nbsp; </strong></li>
-	<li><strong>Protect your personal information from disclosure on social communication networks.</strong></li>
-	<li><strong>We provide links to third party websites only as a convenience.&nbsp; Make sure to review their privacy policies.</strong></li>
-	<li><strong>You have control over certain of your personal information. </strong></li>
-	<li><strong>You can ask privacy questions.</strong> <strong></strong></li>
-	<li><strong>The Privacy Policy may change.&nbsp; Review frequently.</strong> <strong></strong></li>
-	<li><strong>This Privacy Policy contains special provisions for users residing in California.&nbsp; If these are applicable to you, please review them carefully.</strong></li>
+<li style="font-size: 16px;"><strong>Ganz is committed to protecting personal information of its Service users and clients.</strong></li>
+<li style="font-size: 16px;"><strong>We don’t knowingly collect personal information from children under 13.&nbsp;</strong></li>
+<li style="font-size: 16px;"><strong>Parents are urged to supervise their children’s activities online.</strong></li>
+<li style="font-size: 16px;"><strong>This policy applies to all information that identifies a particular individual.</strong></li>
+<li style="font-size: 16px;"><strong>Personal information will be collected, used and disclosed in accordance with the form of consent required by law.</strong></li>
+<li style="font-size: 16px;"><strong>Use of personal information is limited.&nbsp;</strong></li>
+<li style="font-size: 16px;"><strong>We take steps to protect personal information.</strong></li>
+<li style="font-size: 16px;"><strong>We keep personal information for a reasonable period of time only.</strong></li>
+<li style="font-size: 16px;"><strong>We may gather non-personal information by means of cookies, beacons and other technology.</strong></li>
+<li style="font-size: 16px;"><strong>Ad companies collect anonymous data.&nbsp; You have options.&nbsp;</strong></li>
+<li style="font-size: 16px;"><strong>Protect your personal information from disclosure on social communication networks.</strong></li>
+<li style="font-size: 16px;"><strong>We provide links to third party websites only as a convenience.&nbsp; Make sure to review their privacy policies.</strong></li>
+<li style="font-size: 16px;"><strong>You have control over certain of your personal information.</strong></li>
+<li style="font-size: 16px;"><strong>You can ask privacy questions.</strong></li>
+<li style="font-size: 16px;"><strong>The Privacy Policy may change.&nbsp; Review frequently.</strong></li>
+<li style="font-size: 16px;"><strong>This Privacy Policy contains special provisions for users residing in California.&nbsp; If these are applicable to you, please review them carefully.</strong></li>
 </ul>
-<p><strong>&nbsp;</strong></p>
+<div><span style="font-size: medium;"><span style="line-height: 24px;"><strong><br>
+</strong></span></span></div>
+<div>
 <p><strong>Ganz is committed to protecting personal information of its Service users and clients.</strong></p>
+<p>&nbsp;</p>
 <p>Ganz, an Ontario partnership, together with its successors and assigns, is committed to protecting the privacy and confidentiality of personal information entrusted to us.&nbsp; Ganz complies with Canadian Federal and Provincial privacy laws and regulations including the Personal Information Protection and Electronic Documents Act. Ganz will only use your personal information for the purposes intended and as detailed in the Privacy Policy unless we have obtained your consent to use it for other purposes.</p>
+<p>&nbsp;</p>
 <p>This Privacy Policy is applicable to personally identifiable information (“PII”) of all users collected, stored or distributed through a website, mobile game or application (commonly referred to as “Apps”), on which it is posted (collectively and individually, “Service”).&nbsp; When this Privacy Policy uses the term “PII” or “personal information”, we mean information that identifies a particular individual.&nbsp; When certain other non-identifiable information is directly associated with PII, this other information also becomes PII for purposes of this Privacy Policy. Some jurisdictions may call personally identifiable information “personal data” or “personally identifying information,” and may include opinions about or related to a user within the definition of PII.</p>
+<p>&nbsp;</p>
 <p>This Privacy Policy is designed to inform you about the information we collect and use and your options with regard to that collection and use of that information through the Service.&nbsp; By use of the Service, or communications to or with us, you are agreeing to these terms. If you do not agree with any of these terms or the terms that govern the Service, please exit our site or delete our mobile game or application and do not submit information to us in any way.&nbsp; By continued use of the Service and/or clicking “I agree”, you signify your consent to the collection and processing of both your personal information and your child’s user account information, and any resulting correlation of such information, as set forth in this Privacy Policy.</p>
+<p>&nbsp;</p>
 <p>When you provide us with your or your child’s personal information, you acknowledge that the information will be stored and processed on servers located in Canada.&nbsp; In the future, our business may require that we contract with service providers outside Canada to carry out certain functions on our behalf such as data back-up or storage.&nbsp; In such situations, such service providers will be contractually obliged not to disclose your and/or your child’s personal information except where authorized to do so by law or by Ganz.&nbsp; Should a need to transfer your and/or your child’s personal information arise, we will ensure that the selected service providers meet our privacy standards before we enter into contracts with them.&nbsp; We will also require them to secure and maintain confidentiality over your information.</p>
+<p>&nbsp;</p>
 <p><strong>We don’t knowingly collect personal information from children under 13.&nbsp; </strong></p>
+<p>&nbsp;</p>
 <p>Some parts of the Service offered by Ganz are not intended for children under the age of 13 and we do not knowingly collect information from children under this age through the Service.</p>
+<p>&nbsp;</p>
 <p>For the portions of the Service that appeal directly to children under the age of 13, we incorporate into this Privacy Policy the following additional children’s privacy provisions. When your child is asked to provide personal information, we will provide you with an opportunity to consent to their disclosure of personal information in accordance with applicable law.</p>
+<p>&nbsp;</p>
 <p>The information we collect from you or your child enables participation in the Service.</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Registration.&nbsp; </strong>During the registration process, the child may be asked to set up a user name and password.&nbsp; Your child should not use any personally identifiable information as his or her user name, as this user name may be visible to others on the Service.</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Surveys and Feedback: </strong>&nbsp;We may collect aggregate information in connection with surveys or other online activities that allow your child to give us feedback. We do not collect any personally identifiable information in connection with surveys or feedback requests, nor is the information provided connected to any personally identifiable information we may have about the child.</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Service Management:</strong>&nbsp; We may collect information through technology (such as logging IP addresses) for routine system administration purposes, to make our Service more interesting and useful to you and your child, or to manage content delivery. For instance, we collect IP addresses and use technology to track traffic patterns on the Service. Once your child has logged into the Service, we track your child’s activities by using logs of database transactions and server interactions. We also use this information to understand which areas of our Service are most appealing or least appealing and to deliver content that is specific to your country or area of residence. The Service may also use cookies, which are pieces of information that the Service sends to your child’s computer while he or she is viewing the Service. Cookies provide information to the Service so that the Service will remember the user. These technical methods may involve the transmission of information either directly to us or to our third party service providers who are subject to the protections described in this Privacy Policy. None of the information collected through these methods is connected to or associated with any other information about your child.</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Email Communication from You:</strong>&nbsp; If your child contacts us by email or enters an email address when participating in a contest, we use the email address only to respond one time to your child’s specific request and, if legally permissible, to notify them if they won a contest.</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Mail Communication from You:&nbsp; </strong>If your child wants to contact us by mail, and the Service provides a submission form for such communication, you may do so using such submission form. The submission form may ask for your child’s user name and name of his or her game character, and your (the parent’s) name and signature.</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Chatting on the Service</strong>.&nbsp; When using scripted chat on any of the Service, members select pre-constructed messages from chat menus. Members CANNOT type in their own messages, and no personal information can be disclosed.&nbsp;&nbsp;&nbsp; In the restricted chat mode, messages are limited to words from our restricted dictionary, which is designed to prevent minors from including any personal information such as numbers, common proper names and place names.&nbsp; Some areas of the Service may offer unrestricted chat – such chat is suitable to adults but is not to be used by children under the age of 13. We do not knowingly permit preteens to use unrestricted chat.&nbsp; Please note that, in some instances, users relying on scripted chat may view messages posted by users relying on the restricted and/or unrestricted mode of chat. While users relying on scripted chat won’t be able to disclose their personal information, they may find content posted via restricted/unrestricted chat objectionable.</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Safety and Security:</strong> We may collect your child’s name and email address and yours as well as other personal information, with applicable notice to you and consent, if necessary, for your child’s safety.&nbsp; We may also collect your child’s name and email address for the limited purposes of protecting the security and integrity of the Service, taking precautions against liability, responding to the judicial process, as we may determine in our reasonable judgment is advisable to protect our users, ourselves, our partners, agents and providers, and the general public or for law enforcement on a matter related to public safety.</p>
+<ul>
+<li><strong>Registration.&nbsp; </strong>During the registration process, the child may be asked to set up a user name and password.&nbsp; Your child should not use any personally identifiable information as his or her user name, as this user name may be visible to others on the Service. You and/or your child may be asked to provide your email address to be used for recovering usernames and/or passwords.</li>
+<li><strong>Surveys and Feedback: </strong>&nbsp;We may collect aggregate information in connection with surveys or other online activities that allow your child to give us feedback. We do not collect any personally identifiable information in connection with surveys or feedback requests, nor is the information provided connected to any personally identifiable information we may have about the child.</li>
+<li><strong>Service Management:</strong>&nbsp; We may collect information through technology (such as logging IP addresses) for routine system administration purposes, to make our Service more interesting and useful to you and your child, or to manage content delivery. For instance, we collect IP addresses and use technology to track traffic patterns on the Service. Once your child has logged into the Service, we track your child’s activities by using logs of database transactions and server interactions. We also use this information to understand which areas of our Service are most appealing or least appealing and to deliver content that is specific to your country or area of residence. The Service may also use cookies, which are pieces of information that the Service sends to your child’s computer while he or she is viewing the Service. Cookies provide information to the Service so that the Service will remember the user. These technical methods may involve the transmission of information either directly to us or to our third party service providers who are subject to the protections described in this Privacy Policy. None of the information collected through these methods is connected to or associated with any other information about your child.</li>
+<li><strong>Email Communication from You:</strong>&nbsp; If your child contacts us by email or enters an email address when participating in a contest, we use the email address only to respond one time to your child’s specific request and, if legally permissible, to notify them if they won a contest.</li>
+<li><strong>Mail Communication from You:&nbsp; </strong>If your child wants to contact us by mail, and the Service provides a submission form for such communication, you may do so using such submission form. The submission form may ask for your child’s user name and name of his or her game character, and your (the parent’s) name and signature.</li>
+<li><strong>Chatting on the Service</strong>.&nbsp; When using scripted chat on any of the Service, members select pre-constructed messages from chat menus. Members CANNOT type in their own messages, and no personal information can be disclosed.&nbsp;&nbsp;&nbsp; In the restricted chat mode, messages are limited to words from our restricted dictionary, which is designed to prevent minors from including any personal information such as numbers, common proper names and place names.&nbsp; Some areas of the Service may offer unrestricted chat – such chat is suitable to adults but is not to be used by children under the age of 13. We do not knowingly permit preteens to use unrestricted chat.&nbsp; Please note that, in some instances, users relying on scripted chat may view messages posted by users relying on the restricted and/or unrestricted mode of chat. While users relying on scripted chat won’t be able to disclose their personal information, they may find content posted via restricted/unrestricted chat objectionable.</li>
+<li><strong>Safety and Security:</strong> We may collect your child’s name and your email address as well as other personal information, with applicable notice to you and consent, if necessary, for your child’s safety.&nbsp; We may also collect your child’s name and email address for the limited purposes of protecting the security and integrity of the Service, taking precautions against liability, responding to the judicial process, as we may determine in our reasonable judgment is advisable to protect our users, ourselves, our partners, agents and providers, and the general public or for law enforcement on a matter related to public safety.</li>
+</ul>
 <p>&nbsp;</p>
 <p><strong>Parents are urged to supervise their children’s activities online.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>
+<p>&nbsp;</p>
 <p>Ganz urges all parents and legal guardians to supervise their children’s exploration of the Internet and any online services, and to teach their children about protecting their personal information online.&nbsp; <strong>If you reside in the United States,</strong> we encourage you to visit <a href="http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm">http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm</a> for more information about COPPA and children’s privacy.</p>
+<p>&nbsp;</p>
 <p>If you are a parent or legal guardian and will be purchasing licenses for codes to Service-related products or services and sending the purchased codes to your child, please be advised that such activity may correlate your child’s user account information to your personal information obtained during the purchase process. Although Ganz does not generally correlate this data, in rare circumstances this may be necessary to assist with your use of the Service, or otherwise. In compliance with applicable laws we must inform you of the possible correlation and obtain your consent to such correlation should it occur.</p>
+<p>&nbsp;</p>
 <p><strong>This policy applies to all information that identifies a particular individual.</strong></p>
+<p>&nbsp;</p>
 <p>When you interact with Ganz, we may collect and store information from you directly as described below.&nbsp; Ganz collects personal information that is voluntarily provided by you when you order a product, enter promotions, answer our polls or surveys, register on the Service, or communicate with us by mail, telephone or electronically. Ganz also collects personal and non-personal information automatically as described below. The type of information we collect and maintain may include your name, mailing address, email address, telephone number, gender, date of birth, purchase history,&nbsp; chat room communications, complaints you may have about our products or services, a record of promotions offered to you, and your Ganz product preferences.&nbsp; Other information, such as your IP address, system information (including operating system, browser type, available software and hardware), whether you were referred to us by a search engine (including the search term(s) used to find us), and how much time you spend using the Service are collected to improve the Service and messaging efficiency, learn more about where our users come from and understand how our users use and ways to improve our Service.</p>
+<p>&nbsp;</p>
 <p>We may allow you to “register” with us by using Facebook Connect or other Social Networking Service (“SNS”) authentication options to create an account or profile on the Service.</p>
+<p>&nbsp;</p>
 <p>If you access the Service from a third party SNS, you may be required to also read and accept the SNS Terms of Service and Privacy Policy.&nbsp; The information you allow Ganz to access varies by game and SNS, and it is affected by the privacy settings you establish at the SNS.&nbsp; By accessing the Service through an SNS, you are authorizing Ganz to collect, store, and use in accordance with the Privacy Policy any and all information that you agreed the SNS could provide to Ganz through the SNS Application Programming Interface (“API”).&nbsp; Your agreement takes place when you “accept” or “allow” (or similar terms) one of our applications on an SNS.</p>
+<p>&nbsp;</p>
 <p><strong>Personal information will be collected, used and disclosed in accordance with the form of consent required by law.</strong></p>
+<p>&nbsp;</p>
 <p>We reserve the right to collect, use, and disclose your and/or your child’s personal information without consent where required or permitted by law.&nbsp; Otherwise, personal information will be collected, used and disclosed in accordance with the form of consent required by applicable law and its use will be limited to the objectives for which it was collected as described herein. The form of your consent can vary from implied consent to express consent, depending on the circumstances and sensitivity of the information collected. We will rely on implied consent when we can reasonably conclude that you have given your consent by your action (e.g. by giving us your name and contact information so that we may send you the items ordered) or inaction (e.g. by not exercising an ability to opt-out). This Privacy Policy identifies the purposes for which your personal information is collected, used and disclosed. Additional consent will be obtained from you should we wish to use or disclose your personal information for any additional purpose.</p>
 <p><strong>Use of personal information is limited.</strong></p>
+<p>&nbsp;</p>
 <p>Ganz collects personal information for the following reasons:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To provide you with the products or services you have requested, including processing your payment;</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To better understand you, to allow us to serve you better through enhanced products, customer service and directed promotional efforts of particular interest;</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To properly investigate and respond to any complaints, questions or concerns you may have about our products or services; and</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To determine your eligibility for our products and the Service.</p>
+<ul>
+<li>To provide you with the products or services you have requested, including processing your payment;</li>
+<li>To better understand you, to allow us to serve you better through enhanced products, customer service and directed promotional efforts of particular interest;</li>
+<li>To properly investigate and respond to any complaints, questions or concerns you may have about our products or services; and</li>
+<li>To determine your eligibility for our products and the Service.</li>
+</ul>
+<p>&nbsp;</p>
 <p>If you opt in to receive offers, promotions or other information from Ganz, your information will be used to provide you with promotional offers for Ganz products that we believe may interest you and to solicit your opinion on our products and services. If you have opted in to receive these offers, we may also use your personal information to ensure that your contact information is accurate and up to date.&nbsp; Ganz does not collect, use or disclose your personal information for online behavioral advertising purposes.</p>
+<p>&nbsp;</p>
 <p>Ganz may share your and/or your child’s personal information with the other members of the Ganz corporate group, and their respective successors and assigns, but only to the extent required to fulfill the purposes identified in this Privacy Policy.&nbsp; You may request that Ganz not share your and/or your child’s personal information with any of the other members of the Ganz corporate group by contacting us as described below.</p>
+<p>&nbsp;</p>
 <p>In addition to this inter-corporate sharing, Ganz may disclose personal information to third parties as follows:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>To Third Parties To Perform Processing and Other Specialized Services:&nbsp; </strong>At times, Ganz may use outside organizations to perform specialized services such as, but not limited to, legal and security audits, payment processing, data analysis, e-mail delivery. These service providers are only given the information needed to perform those services and they are bound contractually to protect the confidentiality, privacy and security of your information and to limit the use of your information to the service being provided.&nbsp; <strong></strong></p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>To Third Parties in the Event of Legal Reasons:&nbsp; </strong>We advise you that we may disclose personal information to the government or other legal or regulatory authorities (i) if so ordered by a court of law or (ii) for other legal reasons, such as (a) to comply with legal process such as a search warrant, subpoena or court order; (b) to protect the company’s rights and property; (c) to investigate reports of fraud or of users sending material using a false email address or users sending harassing, threatening, or abusive messages; (d) to protect against what we believe in our sole and absolute discretion to be a misuse or unauthorized use of our Service; or (e) in emergencies, such as when we believe our or our affiliate’s integrity requires protection or someone’s physical safety is at risk.&nbsp; In some cases, disclosure may be required by law to be without notice to you. <strong></strong></p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>To a Third Party in the Event of a Significant Transaction or Other Event: </strong>In the case of any significant transaction or event involving Ganz or any of its related entities or divisions such as, by way of example, a sale, merger, amalgamation, financing, re-organization, liquidation, or insolvency, other parties to the transaction and their professional advisors may need to have access to Ganz’s customer lists and various databases as part of the due diligence process. In this event, Ganz would only provide such access under terms of a strict confidentiality agreement. Also, upon completion of the transaction or event, your personal information would be transferred to Ganz’s successor-in-interest to be used only for the purposes for which it was collected.</p>
+<ul>
+<li><strong>To Third Parties To Perform Processing and Other Specialized Services:&nbsp; </strong>At times, Ganz may use outside organizations to perform specialized services such as, but not limited to, legal and security audits, payment processing, data analysis, e-mail delivery. These service providers are only given the information needed to perform those services and they are bound contractually to protect the confidentiality, privacy and security of your information and to limit the use of your information to the service being provided.</li>
+<li><strong>To Third Parties in the Event of Legal Reasons:&nbsp; </strong>We advise you that we may disclose personal information to the government or other legal or regulatory authorities (i) if so ordered by a court of law or (ii) for other legal reasons, such as (a) to comply with legal process such as a search warrant, subpoena or court order; (b) to protect the company’s rights and property; (c) to investigate reports of fraud or of users sending material using a false email address or users sending harassing, threatening, or abusive messages; (d) to protect against what we believe in our sole and absolute discretion to be a misuse or unauthorized use of our Service; or (e) in emergencies, such as when we believe our or our affiliate’s integrity requires protection or someone’s physical safety is at risk.&nbsp; In some cases, disclosure may be required by law to be without notice to you.</li>
+<li><strong>To a Third Party in the Event of a Significant Transaction or Other Event: </strong>In the case of any significant transaction or event involving Ganz or any of its related entities or divisions such as, by way of example, a sale, merger, amalgamation, financing, re-organization, liquidation, or insolvency, other parties to the transaction and their professional advisors may need to have access to Ganz’s customer lists and various databases as part of the due diligence process. In this event, Ganz would only provide such access under terms of a strict confidentiality agreement. Also, upon completion of the transaction or event, your personal information would be transferred to Ganz’s successor-in-interest to be used only for the purposes for which it was collected.</li>
+</ul>
+<p>&nbsp;</p>
 <p><strong>We take steps to protect personal information.</strong></p>
+<p>&nbsp;</p>
 <p>Ganz has implemented physical, electronic and administrative measures to protect your information from error, loss or unauthorized access. For example, we use industry-standard efforts, such as passwords, firewalls and Secure Socket Layers, to safeguard the confidentiality of your personal information contained on our computer systems. In addition, our employees and any third parties we use are contractually bound to protect the confidentiality of your information and access is restricted to those with a need to know the information to carry out the identified purpose.</p>
+<p>&nbsp;</p>
 <p><strong>We keep personal information for a reasonable period of time only.</strong></p>
+<p>&nbsp;</p>
 <p>We keep your information for a period reasonably necessary to meet the purposes for which it was collected, for the security of Ganz and the Service or to protect users, the public or third parties and to comply with any legal requirements, including statutory retention periods and corporate best practices.</p>
+<p>&nbsp;</p>
 <p><strong>We may gather non-personal information by means of cookies, beacons and other technology.</strong></p>
+<p>&nbsp;</p>
 <p>We may gather non-personal information on an anonymous, aggregate basis.&nbsp; This information is not kept, used or disclosed at the individual level, but may be disclosed to third parties on an anonymous, aggregate basis. We may collect such information through unique identifiers such as cookies (which may be HTML files, Flash files, or other technology), web beacons, or similar technologies for analytical purposes, routine system administration, to make our Service more interesting and useful to you, or to manage content delivery. For instance,</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We use technology to track traffic patterns on the Service. Once you have logged into the Service, we track your activities by using logs of database transactions and server interactions. We also use this information to understand which areas of our Service are most appealing or least appealing or to deliver content that is specific to your country or area of residence;</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We use cookies, small text files stored on your hard drive, not our Service, which allow you to store your password without having to constantly re-enter it. Cookies also help us to tailor messages that better match your needs and interests, and they allow us to better understand how users in general use the Service, which in turn helps us to focus our resources on features that are most popular with our users.</p>
+<ul>
+<li>We use technology to track traffic patterns on the Service. Once you have logged into the Service, we track your activities by using logs of database transactions and server interactions. We also use this information to understand which areas of our Service are most appealing or least appealing or to deliver content that is specific to your country or area of residence;</li>
+<li>We use cookies, small text files stored on your hard drive, not our Service, which allow you to store your password without having to constantly re-enter it. Cookies also help us to tailor messages that better match your needs and interests, and they allow us to better understand how users in general use the Service, which in turn helps us to focus our resources on features that are most popular with our users.</li>
+</ul>
+<p>&nbsp;</p>
 <p><strong>Ad companies collect anonymous data.&nbsp; You have options.&nbsp; </strong></p>
-<p>From time to time, we may use third-party advertising service providers to serve ads on the Service. Outside the Service, these companies may use cookie-based ad serving technology for the purpose of (i) ad delivery and reporting; and (ii) re-targeting and/or online advanced targeting.&nbsp; Furthermore, to monitor usage or transfer of content to another site or location and to collect advertising metrics, such third parties may include in the content web beacons or clear GIFs.&nbsp; Clear GIFs (a.k.a. web bugs, beacons or tags) are small graphic images placed on a web page, web-based document, or in an e-mail message.&nbsp; Clear GIFs are invisible to the user because they are typically very small and the same colour as the background of the web page, document or e-mail message.&nbsp; Because your web browser must request such content from the third parties’ servers, such third parties can track your usage, or set their own cookies, just as if you had requested a web page from their site.</p>
+<p>&nbsp;</p>
+<p>From time to time, we may use third-party advertising service providers to serve ads on the Service. These companies may use cookie-based ad serving technology for the purpose of (i) ad delivery and reporting; and (ii) re-targeting and/or online advanced targeting, provided, however, that your visit to our Service shall be excluded from your online profile used for such advertising purposes.&nbsp; Furthermore, to monitor usage or transfer of content to another site or location and to collect advertising metrics, such third parties may include in the content web beacons or clear GIFs.&nbsp; Clear GIFs (a.k.a. web bugs, beacons or tags) are small graphic images placed on a web page, web-based document, or in an e-mail message.&nbsp; Clear GIFs are invisible to the user because they are typically very small and the same colour as the background of the web page, document or e-mail message.&nbsp; Because your web browser must request such content from the third parties’ servers, such third parties can track your usage, or set their own cookies, just as if you had requested a web page from their site.</p>
+<p>&nbsp;</p>
 <p>Although the third-party advertising service providers may not have access to tracking technologies set by Ganz, or any of your personal information collected on the Service, they may themselves set and access their own tracking technologies and/or they may otherwise have access to information about you. The use of such technology by these third parties is within their control and not ours. Even if Ganz has a relationship with the third party, it does not control their sites or policies and practices regarding your information.</p>
+<p>&nbsp;</p>
 <p>This Privacy Policy does not cover any use of information that third-party advertising service providers or advertisers may collect from you. We encourage you to investigate and ask questions directly of them in this regard. If you would like more information about the practices used by third-party advertising service providers and advertisers and to know your choices about not having the information gathered used by these companies, visit <a href="http://networkadvertising.org/">http://networkadvertising.org</a>.&nbsp; Please note that Flash cookies operate differently than browser cookies and cookie management tools available in a web browser will not remove Flash cookies.&nbsp; To learn more about and manage Flash cookies, visit <a href="http://www.adobe.com/">www.adobe.com</a> and make changes at the privacy setting panel.&nbsp; You are always free to decline our cookies if your browser permits, but some parts of the Service may not work properly if you do.</p>
-<p>We have given users of webkinz.com (except Alumni and free users) an option to limit third party ads.&nbsp; To opt out, users must simply go to “My Options” and select the limit ads option. Once the limiting option is in effect, it cannot be reversed for 30 days.&nbsp; Please note that the option is not available to Free and Alumni Webkinz users but they may still be able to opt out of third party cookies by following the steps outlined by your web browser provider.&nbsp; If, after users have selected to limit 3<sup>rd</sup> party ads, they clear their computer’s cache and/or cookies, or access webkinz.com from another computer, they will need to limit 3<sup>rd</sup> party ads again in order to prevent 3<sup>rd</sup> party ads from appearing on the home, login, and logout pages, as well as pages that follow the logout page. If users do not select to limit 3<sup>rd</sup> party ads again, 3<sup>rd</sup> party ad campaigns within webkinz.com will still be limited.</p>
+<p>&nbsp;</p>
+<p>We have given users of webkinz.com (except Alumni and free users) an option to limit third party ads.&nbsp; To opt out, parents should visit the “Account Controls” section of the Parent’s Area &nbsp;and select the limit ads option.&nbsp; Please note that the option is not available to Free and Alumni Webkinz users but they may still be able to opt out of third party cookies by following the steps outlined by your web browser provider.&nbsp; If, after users have selected to limit 3<sup>rd</sup> party ads, they clear their computer’s cache and/or cookies, or access webkinz.com from another computer, they will need to limit 3<sup>rd</sup> party ads again in order to prevent 3<sup>rd</sup> party ads from appearing on the home, login, and logout pages, as well as pages that follow the logout page. If users do not select to limit 3<sup>rd</sup> party ads again, 3<sup>rd</sup> party ad campaigns within webkinz.com will still be limited.</p>
+<p>&nbsp;</p>
 <p><strong>Protect your personal information from disclosure on social communication networks.</strong></p>
+<p>&nbsp;</p>
 <p>Please note that any information that you submit in online chat rooms and public user profiles, on message boards or in similar forums on the Service can be read, collected, or used by others.&nbsp; Your passwords should be both easy to remember, but hard to guess and not shared with anyone (other than a child sharing their passwords with their parents or legal guardians). You should not access your account from a shared computer or device or a public computer or device to avoid the unauthorized accessing of your account. It is recommended that you not store your logins/passwords on your computer or device in case it falls into the hands of someone else. Please note that Ganz is not responsible for information you choose to submit in the forums, nor anyone accessing your account through the use of your passwords or otherwise.</p>
+<p>&nbsp;</p>
 <p><strong>We provide links to third party websites only as a convenience.&nbsp; Make sure to review their privacy policies.</strong></p>
+<p>&nbsp;</p>
 <p>While using the Service, you may, through hypertext or other computer “links,” gain access to other websites on the Internet which are not operated by Ganz. Ganz is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement by Ganz of the website linked to. WHILE THESE LINKS HAVE BEEN REVIEWED AT THE TIME THEY ARE POSTED, WEBSITES AND SERVICES CHANGE FROM TIME TO TIME AND WE CANNOT GUARANTEE THAT THEY REMAIN APPROPRIATE FOR CHILDREN, SAFE, PRIVATE OR SECURE. GANZ ASSUMES NO RESPONSIBILITY FOR ANY MATERIAL OUTSIDE OF THE SERVICE, INCLUDING ANY WEBSITES WHICH MAY BE ACCESSED THROUGH A LINK ON THE SERVICE. Unless otherwise indicated on the Service, Ganz is not sponsored by or affiliated with the linked websites, and trademarks used in connection with the linked websites are not trademarks of Ganz. You should be aware that each of these third-party websites or services is governed by a different set of terms and policies with respect to the collection, use and disclosure of your personal information. Make sure to review their privacy policies before using them and preview them for appropriate content before allowing your children to access them.</p>
+<p>&nbsp;</p>
 <p><strong>You have control over certain of your personal information. </strong></p>
+<p>&nbsp;</p>
 <p>You have choices over how we collect, use and disclose certain of your personal information for certain purposes. Those have been indicated below. But note that if you use the Service, you must agree to our terms of use and the terms of this Privacy Policy without exception. Any comments or questions you may have regarding the collection, use and disclosure of your personal information should be directed to Ganz.</p>
-<p>You may choose not to receive certain email from us, even after granting permission initially, by unsubscribing. Instructions on how to unsubscribe from emails that are not related to processing of your transactions with us are included in each such email. (You may not unsubscribe from communications related to your Account administration or the processing of your transactions.)&nbsp; Certain jurisdictions require that we provide a copy of the personal information we have on file about your or your child. If your jurisdiction requires this, unless otherwise required by applicable law, all requests for a copy of the personal information we have on file about you must be made in writing and by postal mail addressed to: Privacy Officer, Ganz, One Pearce Road, Woodbridge, Ontario, L4L 3T2, Canada. Ganz may require that you identify yourself to our satisfaction. In the event that you are unable to identify yourself or your legal rights to obtain your child’s personal information we have on file, Ganz may, consistent with applicable law, decline to provide this information. If we so decline, we will provide the reason(s).</p>
+<p>&nbsp;</p>
+<p>You may choose not to receive certain email from us, even after granting permission initially, by unsubscribing. Instructions on how to unsubscribe from emails that are not related to processing of your transactions with us are included in each such email. (You may not unsubscribe from communications related to your Account administration or the processing of your transactions.)&nbsp; Certain jurisdictions require that we provide a copy of the personal information we have on file about your or your child. If your jurisdiction requires this, unless otherwise required by applicable law, all requests for a copy of the personal information we have on file about you, and requests to delete such information, must be made in writing and by postal mail addressed to: Privacy Officer, Ganz, One Pearce Road, Woodbridge, Ontario, L4L 3T2, Canada. Ganz may require that you identify yourself to our satisfaction. In the event that you are unable to identify yourself or your legal rights to obtain your child’s personal information we have on file, Ganz may, consistent with applicable law, decline to provide this information. If we so decline, we will provide the reason(s).</p>
+<p>&nbsp;</p>
 <p>Personal information provided by email may not be secure, and&nbsp; you assume the risks associated with your email transmission or our reply.</p>
+<p>&nbsp;</p>
 <p><strong>You can ask privacy questions.</strong> <strong></strong></p>
+<p>&nbsp;</p>
 <p>If you have any questions or comments about Ganz’s Privacy Policy, or need to contact us with respect to a privacy concern, please contact us at <a href="mailto:privacyofficer@ganz.com">privacyofficer@ganz.com</a> by email. (Children should have their parents submit any questions or comments on their behalf.) You can also write to: Privacy Officer, Ganz, One Pearce Road, Woodbridge, Ontario, L4L 3T2, Canada, or submit your inquiry via facsimile: 905-851-7427.<strong>&nbsp; </strong></p>
+<p>&nbsp;</p>
 <p><strong>The Privacy Policy may change.&nbsp; Review frequently.</strong> <strong></strong></p>
+<p>&nbsp;</p>
 <p>This Privacy Policy outlines the information usage practices of Ganz. By accessing, browsing or using this Service or by submitting your and/or your child’s personal information to Ganz, you signify your agreement to the terms and conditions of this Privacy Policy. If you do not agree to this Privacy Policy, please do not submit personal information to us or use the Service.</p>
 <p>We reserve the right to modify this Privacy Policy and our terms of service at any time and from time to time. If there is a material change to our information usage practices that affects your personal information, you will be notified of such change by a conspicuous posting on the Service. You may also be prompted to elect whether or not you agree to the change, if required by applicable law. Note that you may be unable to utilize the Service if you choose not to agree to a modification to this Privacy Policy. If any future change affects our payment processing and order fulfillment functions, if you withhold your consent, we may not be able to continue to process payments or fulfill orders from you. Your acceptance of a revised Privacy Policy, which may be communicated by clicking to indicate your consent for the continued use of the Service or the provision of your personal information to Ganz following the effective date of any changes to this Privacy Policy shall mean that you have accepted those changes.</p>
-<p><strong>This Privacy Policy contains special provisions for users residing in California.&nbsp; If these are applicable to you, please review them carefully.</strong></p>
-<p>Under California Civil Code Section 1798.83 (also known as S.B. 27 or the “Shine the Light” law), if you are a California resident and your business relationship with Ganz is primarily for personal, family, or household purposes, you may request certain data regarding Ganz’s disclosure, if any, of personal information to third parties for the third-parties’ direct marketing purposes. To make such a request, please send an email message to <a href="mailto:privacyofficer@ganz.com">privacyofficer@ganz.com</a> with “Request for California Privacy Information” in the subject line; you may make such a request up to once per calendar year. If applicable, we will provide you, by email, a list of the categories of personal information disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the third parties’ names and addresses. Please note that not all personal information sharing is covered by S.B. 27′s requirements.</p>
 <p>&nbsp;</p>
+<p><strong>This Privacy Policy contains special provisions for users residing in California.&nbsp; If these are applicable to you, please review them carefully.</strong></p>
+<p>&nbsp;</p>
+<p><span style="font-size: medium;"><span style="line-height: 24px;">Under California Civil Code Section 1798.83 (also known as S.B. 27 or the “Shine the Light” law), if you are a California resident and your business relationship with Ganz is primarily for personal, family, or household purposes, you may request certain data regarding Ganz’s disclosure, if any, of personal information to third parties for the third-parties’ direct marketing purposes. To make such a request, please send an email message to <a href="mailto:privacyofficer@ganz.com">privacyofficer@ganz.com</a> with “Request for California Privacy Information” in the subject line; you may make such a request up to once per calendar year. If applicable, we will provide you, by email, a list of the categories of personal information disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the third parties’ names and addresses. Please note that not all personal information sharing is covered by S.B. 27′s requirements.<br>
+</span></span></p>
+</div>
 </div>
 																	</div><!-- .entry-content -->
 				</div><!-- #post-## -->
@@ -742,7 +840,7 @@ googletag.display('leaderboard');
 
 		<div id="sidebar-area" class="widget-area" role="complementary">
 							<ul>
-					<li id="text-3" class="widget-container widget_text">			<div class="textwidget"><!-- webkinznewz/homepage bigbox-->
+					<li id="roadtrip-2" class="widget-container CRoadTripWidget"><div><a href="http://www.ganzworld.com/road-trip"><img src="http://www.ganzworld.com/wp-content/plugins/road-trip/images/road-trip-widget.png"></a></div></li><li id="text-3" class="widget-container widget_text">			<div class="textwidget"><!-- webkinznewz/homepage bigbox-->
 <div id="bigbox">
 <script type="text/javascript">
 googletag.display('bigbox');
@@ -772,7 +870,7 @@ googletag.display('sky');
 	   if (document.context) document.write ("&context=" + escape(document.context));
 	   if (document.mmm_fo) document.write ("&mmm_fo=1");
 	   document.write ("'><\/scr"+"ipt>");
-	//]]>--></script><script type="text/javascript" src="https://ads.webkinz.com/ajs.php?zoneid=870&amp;cb=20482178262&amp;loc=https%3A//web.archive.org/web/20121206045048id_/http%3A//www.ganzworld.com/privacy-policy/"></script><noscript><a href='http://ads.webkinz.com/ck.php?n=a837c97a&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.webkinz.com/avw.php?zoneid=870&cb=INSERT_RANDOM_NUMBER_HERE&n=a837c97a' border='0' alt='' /></a></noscript>
+	//]]>--></script><script type="text/javascript" src="https://ads.webkinz.com/ajs.php?zoneid=870&amp;cb=83889285140&amp;loc=https%3A//web.archive.org/web/20130607024653id_/http%3A//www.ganzworld.com/privacy-policy/"></script><noscript><a href='http://ads.webkinz.com/ck.php?n=a837c97a&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.webkinz.com/avw.php?zoneid=870&cb=INSERT_RANDOM_NUMBER_HERE&n=a837c97a' border='0' alt='' /></a></noscript>
 
 
 
@@ -817,12 +915,12 @@ qacct:"p-5bhsDqtuHr0ZM"
                 <div id="footer_ext_menu">
                                                 <div class="menu-bottom-ext-menu-container"><ul id="menu-bottom-ext-menu" class="menu"><li id="menu-item-1803" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1803"><a href="http://www.ganzworld.com/">GanzWorld</a></li>
 <li id="menu-item-1804" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1804"><a target="_blank" href="http://www.webkinz.com/">Webkinz</a></li>
-<li id="menu-item-1805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1805"><a target="_blank" href="http://www.ganzestore.com/">eStore</a></li>
+<li id="menu-item-1805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1805"><a title="coppa" target="_blank" href="http://www.ganzestore.com/">eStore</a></li>
 <li id="menu-item-1806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1806"><a href="http://support.ganzworld.com/">Customer Service</a></li>
 </ul></div>                </div>
             </div>
 
-			<p class="footer-copyright">©  2005-2012 GANZ STUDIOS - ALL RIGHTS RESERVED</p>
+			<p class="footer-copyright">©  2005-2013 GANZ STUDIOS - ALL RIGHTS RESERVED</p>
 
 	</div><!-- #footer -->
 </div><!-- #wrapper -->
@@ -845,7 +943,7 @@ qacct:"p-5bhsDqtuHr0ZM"
 		<br>
 		<div id="bumper_box">
 			<b>YOU ARE ABOUT TO LEAVE <span id="bumperTitle">www.ganzworld.com</span>,</b> <br><br>If you are under 18, please get your parents' permission before exploring other site. Always get your parents' permission before chatting or giving out information online.			<p>
-				<br> <a id="go-back" style="cursor: pointer; color: #000;" onclick="goBack();">Go Back</a> <a id="continue" style="cursor: pointer; color: #000;" onclick="goContinue();">Continue</a>
+				<br> <a id="go-back" style="cursor: pointer; color: #000;">Go Back</a> <a id="continue" style="cursor: pointer; color: #000;">Continue</a>
 			</p>
 		</div>
 	</div>
@@ -859,40 +957,43 @@ try {
 var pageTracker = _gat._getTracker("UA-0000000-0");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-<script type="text/javascript" src="http://www.ganzworld.com/wp-content/uploads/shadowbox-js/5accf6df8debb45c639367c7c8d7bde7.js?ver=3.0.3"></script>
+<script type="text/javascript" src="http://www.ganzworld.com/wp-content/uploads/shadowbox-js/3a7c52941f850f8b72a84d4c66a78565.js?ver=3.0.3"></script>
 
 <!-- Begin Shadowbox JS v3.0.3.9 -->
 <!-- Selected Players: html, iframe, img, qt, swf, wmp -->
 <script type="text/javascript">
 /* <![CDATA[ */
 	var shadowbox_conf = {
-		autoDimensions: false,
-		animateFade: true,
 		animate: true,
+		animateFade: true,
 		animSequence: "sync",
-		autoplayMovies: true,
-		continuous: false,
-		counterLimit: 10,
-		counterType: "default",
-		displayCounter: true,
-		displayNav: true,
-		enableKeys: true,
+		modal: false,
+		showOverlay: true,
+		overlayColor: "#000",
+		overlayOpacity: "0.8",
 		flashBgColor: "#000000",
-		flashParams: {bgcolor:"#000000", allowFullScreen:true},
-		flashVars: {},
-		flashVersion: "9.0.0",
+		autoplayMovies: true,
+		showMovieControls: true,
+		slideshowDelay: 0,
+		resizeDuration: "0.35",
+		fadeDuration: "0.35",
+		displayNav: true,
+		continuous: false,
+		displayCounter: true,
+		counterType: "default",
+		counterLimit: "10",
+		viewportPadding: "20",
 		handleOversize: "resize",
 		handleUnsupported: "link",
-		initialHeight: 160,
-		initialWidth: 320,
-		modal: false,
-		overlayColor: "#000",
-		showMovieControls: true,
-		showOverlay: true,
+		autoDimensions: false,
+		initialHeight: "160",
+		initialWidth: "320",
+		enableKeys: true,
 		skipSetup: false,
-		slideshowDelay: 0,
 		useSizzle: false,
-		viewportPadding: 20
+		flashParams: {bgcolor:"#000000", allowFullScreen:true},
+		flashVars: {},
+		flashVersion: "9.0.0"
 	};
 	Shadowbox.init(shadowbox_conf);
 /* ]]> */
