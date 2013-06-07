@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the big-giveaways.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202013315id_/http%3A//www.big-giveaways.com/wingame/datenschutz_45.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the big-giveaways.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607205752id_/http%3A//www.big-giveaways.com/cgi-bin/global.pl%3Ftodo%3Dshow_page%26wingame_pk%3D45%26ident%3Ddatenschutz) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
