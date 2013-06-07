@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millsandboon.co.uk privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104045159id_/http%3A//www.millsandboon.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millsandboon.co.uk privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607223613id_/http%3A//millsandboon.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Romance, fiction books and ebooks from Mills & Boon
 
@@ -45,6 +45,28 @@ We are committed to protecting your privacy. We use the information we collect o
 
 By using our site, you consent to the collection and use of this information by [www.millsandboon.co.uk](http://www.millsandboon.co.uk/). If we decide to make any changes to this privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
 
-[](http://www.dma.org.uk/)
+## 
 
-[Back to help menu](https://web.archive.org/web/20121104045159id_/http%3A//www.millsandboon.co.uk/faqs.asp)
+**Our Company Details:**
+
+**Harlequin (UK) Limited**  
+Registered office:  
+Eton House  
+18-24 Paradise Road  
+Richmond  
+Surrey.  
+TW9 1SR  
+United Kingdom  
+Registered in England No. 100449
+
+**_Phone:_**
+
+Non-UK residents: +44 20 8288 2800  
+UK residents only: 020 8288 2800
+
+**_Fax:_**
+
+Non-UK residents: +44 20 8288 2898  
+UK residents only: 020 8288 2898Vat. Reg. Nos. GB 232433496
+
+[Back to help menu](https://web.archive.org/web/20130607223613id_/http%3A//millsandboon.co.uk/faqs.asp)
