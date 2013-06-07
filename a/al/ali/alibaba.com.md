@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alibaba.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919102345id_/http%3A//news.alibaba.com/article/detail/help/100453303-1-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibaba.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607041610id_/http%3A//news.alibaba.com/article/detail/help/100453303-1-privacy-policy.html) for the most accurate reproduction.*
 
 # Safety & Security Center - Learn How to Enhance the Safety of Your Online Transactions
 
-## Privacy Policy
+### Privacy Policy
 
 **(Updated on June 11th, 2012)**
 
