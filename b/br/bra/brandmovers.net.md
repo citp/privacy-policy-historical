@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brandmovers.net privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205095427id_/http%3A//www.brandmovers.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandmovers.net privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607071057id_/http%3A//www.brandmovers.com/legal/privacy) for the most accurate reproduction.*
 
-# Brandmovers
+# Digital Engagement | Brandmovers | The Engagement Marketers.
 
 Last updated November 26, 2012.
 
@@ -32,7 +32,7 @@ Brandmovers and its affiliates may update or change this Policy at any time and 
 
 We hope you find this information helpful. Our goal is to present all the information in a format that is as readable as possible. Whatever you decide to do, we want you to be completely informed about how we use any collected information.
 
-Should you have any additional questions, please send an e-mail to [sspagnoli@brandmovers.com](mailto:sspagnoli@brandmovers.com) or write us at:
+Should you have any additional questions, please send an e-mail to [amitchell@brandmovers.com](mailto:amitchell@brandmovers.com) or write us at:
 
 Privacy Coordinator  
 Brandmovers  
