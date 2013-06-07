@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiberiumalliances.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221233345id_/http%3A//tos.ea.com/legalapp/WEBPRIVACY/US/en/PC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiberiumalliances.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607235814id_/http%3A//www.tiberiumalliances.com/dsa/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -13,27 +13,26 @@ By registering for an Origin Account (formerly known as an EA Account) ( ** _"Ac
 
 IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE ANY EA SITE, ONLINE OR MOBILE PRODUCT OR SERVICE. If we change our privacy policy, we will post those changes to this privacy statement, the home page or other places so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material or significant changes to this policy or the way we use your child's information, we will notify you or the parent/guardian here, by email, or by means of a notice on our home page prior to the changes taking effect. Your continued use of our online and mobile products and services will signify your acceptance of the changes to our online Privacy Policy.
 
- **TABLE OF CONTENTS**
+ **TABLE OF CONTENTS
 
-**I.   ** | **EA Online And Mobile Privacy Policy: Introduction**  
----|---  
-**II.   ** | **EA's Site Is TRUSTe Certified**  
-**III.   ** | **What Is Personal Information And When Does EA Collect It?**  
-**IV.   ** | **What Is Non-Personal Information And When Does EA Collect It?**  
-**V.   ** | **Information Provided to EA By Third Parties.**  
-**VI.   ** | **What Happens To The Information EA Collects?**  
-**VII.   ** | **Where Is The Information Held?**  
-**VIII.   ** | **How Does EA Protect Your Personal Information?**  
-**IX.   ** | **Review, Correction of Your Information, Requesting Removal From Mailing Lists And Deactivating Your Account**  
-**X.   ** | **A Special Note About Children.**  
-**XI.   ** | **Public Information Including User Generated Content, Online Forums, Blogs And Profiles**  
-**XII.   ** | **Third Party Sites**  
-**XIII.   ** | **Products Offered In Partnership With Third Party(s)**  
-**XIV.   ** | **Contact Information**  
-**XV.   ** | **California Residents: Your California Privacy Rights**  
-**XVI.   ** | **Dispute Resolution By Binding Arbitration**  
-  
-I.    EA Online And Mobile Privacy Policy: Introduction
+I. EA Online And Mobile Privacy Policy: Introduction  
+II. EA's Site Is TRUSTe Certified  
+III. What Is Personal Information And When Does EA Collect It?  
+IV. What Is Non-Personal Information And When Does EA Collect It?  
+V. Information Provided to EA By Third Parties.  
+VI. What Happens To The Information EA Collects?  
+VII. Where Is The Information Held?  
+VIII. How Does EA Protect Your Personal Information?  
+IX. Review, Correction of Your Information, Requesting Removal From Mailing Lists And Deactivating Your Account  
+X. A Special Note About Children.  
+XI. Public Information Including User Generated Content, Online Forums, Blogs And Profiles  
+XII. Third Party Sites  
+XIII. Products Offered In Partnership With Third Party(s)  
+XIV. Contact Information  
+XV. California Residents: Your California Privacy Rights  
+XVI. Dispute Resolution By Binding Arbitration
+
+**I.    EA Online And Mobile Privacy Policy: Introduction
 
 EA and its subsidiary companies know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. We respect the privacy rights of consumers and recognize the importance of protecting the information collected about you. We have adopted this global online Privacy Policy to explain how we store and use personal and non-personal information we collect online on our websites, during your use of our online products and/or services (including online game play) and on mobile platforms. This policy does not cover information provided online in response to job postings. Please review the EA Jobs Data Privacy Statement on EA's jobs site at www.jobs.ea.com for further information. 
 
