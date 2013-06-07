@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weightwatchers.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213194524id_/http%3A//www.weightwatchers.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607034655id_/http%3A//www.weightwatchers.com/legal/privacy.aspx) for the most accurate reproduction.*
 
-# WeightWatchers.com: Privacy Policy
+# Weight Watchers Safe Harbor Policy Statement
 
 ## PRIVACY POLICY
 
@@ -71,7 +71,7 @@ Finally, please note that advertisers and other third parties may also use their
 
 ####  _Social Media (Features) and Widgets_
 
-Our Website includes social media features, such as the Facebook Like button and other Widgets such as the Share this button (collectively, the “Features”). These Features may collect your IP address, which page you are visiting on our Website, and may set a cookie to enable the Feature to function properly. The Features are either hosted by a third party or hosted directly on our Website. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+Our Website includes social media features, buttons and widgets provided by third party social media platforms such as Facebook and Twitter (collectively, the “Features”). A Feature may collect your IP address and which page you are visiting on our Website, and may set a cookie to enable the Feature to function properly. This cookie may allow the social media platform to link the foregoing data with your user profile. The Features are either hosted by the third party platform or directly on our Website. Your interactions with these Features are governed by the privacy policy of the relevant platform. 
 
 #### _Facebook Connect or other OpenID provider_
 
@@ -188,8 +188,8 @@ Or, fax our Privacy Coordinator at:
 (212) 589-2601  
 Attn: Privacy Coordinator
 
-We comply with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use and retention of data from the European Union. More information can be found in our [Safe Harbor Privacy Statement ](https://web.archive.org/templates/safeharbor)
+We comply with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use and retention of data from the European Union. More information can be found in our [Safe Harbor Privacy Statement ](https://web.archive.org/safeharbor)
 
 **BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.**
 
-Last modified as of October 25, 2012
+Last modified as of March 21, 2013
