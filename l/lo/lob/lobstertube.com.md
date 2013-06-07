@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lobstertube.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206232737id_/http%3A//www.lobstertube.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lobstertube.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607114615id_/http%3A//www.lobstertube.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
