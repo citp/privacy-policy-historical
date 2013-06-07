@@ -1,0 +1,249 @@
+<!--The following is the downloaded HTML source of the qfak.com privacy policy that was archived on 2013-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130608002959id_/http%3A//www.qfak.com/05images/en/about.asp%3Fzid%3D12) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Network Privacy Policy - Qfak.com</title>
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.qfak.com/05images/en/about.asp?zid=12"><style> 
+body{
+  margin:0 auto;
+  margin-left:162px; 
+  padding: 0px; 
+  width:980px;
+  text-align:left;
+  font-size: 15px;
+  line-height: 180%;
+  font-family:arial,sans-serif;
+  background:#C0C0C0;
+} 
+#top{
+  height:100px;
+  text-align:left;   
+  background:#FFFFFF;
+}
+#mulu,#gotop,.tb2,.tb3,.tb4,.tb5,.tb6,.tb7,.tb8{background-image:url('/05images/qfak.png');}
+#mulu{
+  background-position:0 -33px;
+  border-top:1px solid #C0C0C0;
+  border-bottom:1px solid #C0C0C0;
+} 
+#main{background:#FFFFFF;} 
+#bottom{
+  border-top:1px solid #C0C0C0;
+  padding: 20px; 
+  text-align:center;
+  background:#FFFFFF;
+  margin-bottom:100px;
+}
+#gotop{position:fixed;margin-left:983px;bottom:200px;display:none;cursor:pointer;width:31px;height:31px;}
+.tb2,.tb3,.tb4,.tb5,.tb6,.tb7,.tb8{display:inline-block;}
+.tb2{background-position:-31px 0;width:10px;height:9px;}
+.tb3{background-position:-43px 0;width:17px;height:19px;}
+.tb4{background-position:-61px 0;width:18px;height:19px;}
+.tb5{background-position:-81px 0;width:15px;height:16px;}
+.tb6{background-position:-102px 0;width:28px;height:16px;}
+.tb7{background-position:-138px 0;width:28px;height:16px;}
+.tb8{background-position:-167px 0;width:19px;height:17px;}
+.biaoqian2{border-top:1px dotted #C0C0C0;padding-top:10px;}   
+.tdtime{text-align:right;color:#808080;}
+.updated{color:#808080;}
+.both{clear:both;height:0;}
+.stat{display:none;}
+.pg1{background:#C0C0C0;margin-left:4px;padding:4px 5px 4px 5px;}
+.pg2{border:1px solid #C0C0C0;margin-left:4px;padding:3px 5px 3px 5px;}
+p{margin:0px;}
+input[type="submit"]{cursor:pointer;}
+h1 {font-size: 22px; display: inline;}   
+h2 {font-size: 18px; display: inline;}   
+h4 {font-size: 22px; display: inline; color:#33CC33;margin-right:3px;}     
+a:link,.lj a:link,.lj a:visited{color:blue;text-decoration:none;}
+a:visited{color:#808080;text-decoration:none;}
+a:hover,.lj a:hover{color:#FF0000;text-decoration: underline;}
+a:active,.lj a:active{color:#CC0000;text-decoration:none;}
+</style>
+<script type="text/javascript">
+/*Quotes toupiao*/ 
+function CreateAjax(){
+    var XMLHttp;
+    try{
+        XMLHttp = new ActiveXObject("Microsoft.XMLHTTP");   
+    }catch(e){
+        try{
+            XMLHttp = new XMLHttpRequest();     
+        }catch(e){
+            XMLHttp = false;        
+        }
+    }
+    return XMLHttp;     
+} 
+function Dig(id,pj,up)
+{
+	_xmlhttp = CreateAjax();
+	var url = '/02ad/toupiao_save.asp?id='+id+'&pj='+pj+'&up='+up+'';	
+	if(_xmlhttp){
+        var content = document.getElementById("dig"+id);      
+		var dig = document.getElementById(id);					
+        _xmlhttp.open('GET',url,true);
+        _xmlhttp.onreadystatechange=function(){
+            if(_xmlhttp.readyState == 4){
+                if(_xmlhttp.status == 200){
+                    var ResponseText = unescape(_xmlhttp.responseText);			
+					var r=ResponseText.split(",");								
+                    if(r[0] == "Dig" ){
+                        content.innerHTML='<font color="#FF0000">Thanks for your vote!</font>';
+                        dig.innerHTML='[' + r[1] +']';
+                    }else if(ResponseText == "NoData"){
+						alert("chanshu err!");	
+					}else{
+                        content.innerHTML='<font color="#FF0000">Thanks for your vote!</font>';
+			            dig.innerHTML='[' + ResponseText + ']';
+                    }
+                }else{
+                    alert("err!");
+                }
+            }else{
+                dig.innerHTML='<img src="/05images/Loading.gif">';
+            }
+        }
+        _xmlhttp.send(null);  
+    }else{
+        alert("bizhichi XMLHttp!");
+    }
+}
+function goTopEx(){
+  var getDiv=document.getElementById('gotop');
+  getDiv.onclick=function(){
+	window.scrollTo(0,0);
+  }
+  window.onscroll=function(){
+	if(document.documentElement.scrollTop){
+		getDiv.style.display="block";
+	}else if(document.body.scrollTop){
+		getDiv.style.display="block";
+	}else{
+		getDiv.style.display="none";	
+	}
+  }
+}
+</script>
+</head>
+<body>
+
+  <div id="top">
+    <div style="padding:28px 0 0 28px;float:left;"><img border="0" alt="logo" src="/05images/logo_en.png"></div>
+    <div style="margin-left:225px;text-align:left;">
+      <div style="padding:7px 0 8px 2px;">Here you can ask for help, or share your knowledge and  help others. It's 100% free, no registration required.</div>
+	  <table><tbody><tr><td>
+ <div class="cse-branding-bottom" style="background-color:#FFFFFF;color:#000000;text-align:left;padding-top:5px;">
+  <div class="cse-branding-form">
+    <form action="/05images/en/search.asp" id="cse-search-box">
+      <div>
+        <input type="hidden" name="cx" value="partner-pub-9279366011469152:3419766077">
+        <input type="hidden" name="cof" value="FORID:10">
+        <input type="hidden" name="ie" value="UTF-8">
+        
+          <input type="text" name="q" size="22">
+        
+        <input type="submit" name="sa" value="Search">
+      </div>
+    </form>
+  </div>
+  <div class="cse-branding-logo" style="margin-left:-5px;">
+     <table><tbody><tr>
+        <td><img src="http://www.google.com/images/poweredby_transparent/poweredby_FFFFFF.gif" alt="Google"></td>
+        <td valign="top"><div style="margin-top:-6px;"> Custom Search</div></td>
+     </tr></tbody></table>
+  </div>
+ </div>
+</td>
+	    <td width="55"></td>
+	    <td valign="top" width="230">
+	 	  <!-- AddThis Button BEGIN -->
+	 	  <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+           <a rel="nofollow" class="addthis_button_preferred_1"></a>
+           <a rel="nofollow" class="addthis_button_preferred_2"></a>
+           <a rel="nofollow" class="addthis_button_preferred_3"></a>
+           <a rel="nofollow" class="addthis_button_preferred_4"></a>
+           <a rel="nofollow" class="addthis_button_preferred_5"></a>
+	 	   <a rel="nofollow" class="addthis_button_compact"></a>
+	 	  </div>
+	 	 <!-- AddThis Button END -->
+	    </td>
+	    <td width="80" align="right" valign="top">
+	       <a rel="nofollow" href="/05images/en/ask.asp" target="_blank" title="What would you like to ask?">
+           <span class="tb5"></span><font color="#0000FF" style="font-size: 20px;"><b>ASK</b></font></a>
+        </td>
+	  </tr></tbody></table>
+    </div>
+  </div>
+
+    <div id="mulu" align="center" class="lj" style="line-height: 140%;padding:6px 0 6px 0;">
+      <a href="/" title="Network Privacy Policy"> Home</a>
+      | <a href="/inspiring_quotes/" title="Inspiring Quotes"><font color="#FF0000">Inspiring Quotes</font></a>
+      | <a href="/arts_humanities/" title="Arts &amp; Humanities">Arts &amp; Humanities</a>
+      | <a href="/beauty_style/" title="Beauty &amp; Style">Beauty &amp; Style</a>
+      | <a href="/business_finance/" title="Business &amp; Finance">Business &amp; Finance</a>
+      | <a href="/computers_internet/" title="Computers &amp; Internet">Computers &amp; Internet</a>
+      | <a href="/education_reference/" title="Education &amp; Reference">Education &amp; Reference</a>
+      <br><a href="/entertainment_music/" title="Entertainment &amp; Music">Entertainment &amp; Music</a>
+      | <a href="/family_relationships/" title="Family &amp; Relationships">Family &amp; Relationships</a>
+      | <a href="/games_recreation/" title="Games &amp; Recreation">Games &amp; Recreation</a>
+      | <a href="/health/" title="Health">Health</a>
+      | <a href="/sports/" title="Sports">Sports</a>
+      | <a href="/livelihood/" title="Livelihood">Livelihood</a>
+      | <a href="/cars_transportation/" title="Cars &amp; Transportation">Cars &amp; Transportation</a>
+    </div>
+<div style="position:absolute;left:1px;top:33px;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9279366011469152";
+google_ad_slot="2423351820";
+google_ad_width=160;
+google_ad_height=600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+<div id="main" align="center">
+  <div align="left" style="padding:20px 25px 20px 25px"> 
+       <div align="center" style="padding:20px 0 20px 0;"><h4>Network Privacy Policy</h4></div>
+       <div><p>Qfak.com takes the private nature of your personal information very seriously. This Privacy Policy describes how we treat the information we collect when you visit and use the Network. Please read this notice very carefully before using the Network.</p>
+<p><strong>Network Visitors<br></strong>Like most website operators, Qfak.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how the Network visitors use the Service. From time to time, Qfak.com may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of the Network.</p>
+<p>Qfak.com also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Qfak.com does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.</p>
+<p><strong>Gathering of Personally-Identifying Information<br></strong>Certain visitors to the Network choose to interact with the Network in ways that require Qfak.com gather personally-identifying information. The amount and type of information that We gather depends on the nature of the interaction. For example, We ask visitors who sign up for Qfak.com.com to provide a username and email address. Those who engage in transactions with Qfak.com.com – by purchasing access that service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Qfak.com collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with the Service. Qfak.com does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain Network-related activities.</p>
+<p>Qfak.com does not collect personally identifiable information from children under the age of 13. If you believe that a child has provided Qfak.com with personally identifiable information without the consent of his or her parent or guardian, please contact us at <a href="mailto:admin@qfak.com">admin@qfak.com</a>&nbsp;. If Qfak.com becomes aware that a child under age 13 has provided Us with personally identifiable information, we will delete such information.</p>
+<p><strong>Aggregated Statistics<br></strong>Qfak.com may collect statistics about the behavior of visitors to the Network. For instance, We may monitor the most popular content on the Network to help identify spam. We may display this information publicly or provide it to others. However, Qfak.com does not disclose personally-identifying information other than as described below.</p>
+<p><strong>Protection of Certain Personally-Identifying Information<br></strong>Qfak.com discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Our behalf or to provide services available at the Network, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using the Network, you consent to the transfer of such information to them. In addition, in some cases we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Qfak.com or substantially all of its assets were acquired, or in the unlikely event that Qfak.com goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Qfak.com may continue to use your personal and non-personal information only as set forth in this policy. Otherwise, Qfak.com will not rent or sell potentially personally-identifying and personally-identifying information to anyone.</p>
+<p>Other than to its employees, contractors and affiliated organizations or as described above, Qfak.com discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when We believe in good faith that disclosure is reasonably necessary to protect the property or rights of Qfak.com, third parties or the public at large. If you are a registered user of the Network and have supplied your email address, Qfak.com may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with our Service. We primarily use our Service to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Qfak.com takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p>
+<p>You should also be aware that if you submit information to the Network, such information becomes public information, meaning that you lose any privacy rights you might have with regards to that information. Such disclosures may also increase your chances of receiving unwanted communications.</p>
+<p>For users outside the United States, please note that any personally-identifiable information you enter into the Network will be transferred out of your country and into the United States. You consent to such transfer through your use of the Network. You also warrant that you have the right to transfer such information outside your country and into the United States.</p>
+<p><strong>Links to Third Party Sites<br></strong>This Privacy Policy only applies to information collected by Qfak.com. This Privacy Policy does not apply to the practices of companies that Qfak.com does not own or control, or employees that Qfak.com does not manage. The Network contains links to third party websites. Any information you provide to, or that is collected by, third-party sites may be subject to the privacy policies of those sites, if any. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally-identifying information, and Qfak.com and its affiliates shall not be liable for wrongful use or disclosure of your personally-identifying information by any third party.</p>
+<p><strong>Security<br></strong>All non-personally-identifying information, potentially personally-identifying and personally identifying-information described above is stored on restricted database servers.</p>
+<p><strong>Choice/Opt-out<br></strong>If we ever send you information by e-mail concerning new products, services or information that you did not expressly request, we will provide you with an e-mail address by which you may request no further notices.</p>
+<p><strong>Cookies<br></strong>A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Qfak.com uses cookies to help Us identify and track visitors, their usage of the Network, and their Network access preferences. Qfak.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using the Network, with the drawback that certain features of the Network may not function properly without the aid of cookies.</p>
+<p><strong>Privacy Policy Changes<br></strong>Although most changes are likely to be minor, Qfak.com may change its Privacy Policy from time to time, and in Qfak.com's sole discretion. If we do then we’ll notify you by posting the amended policy on the Network or by emailing you of the nature of the modifications along with a link to the modified document so that you can review it. In all cases, use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected.</p>
+<p><strong>Review and Access<br></strong>Upon your request, we will provide you with a summary of the information we collect about you. You will have the opportunity to correct, update, modify or delete this information by sending an e-mail to <a href="mailto:admin@qfak.com">admin@qfak.com</a>&nbsp;. Please note that some information may remain in our records after deletion of your account.</p>
+<p><strong>Contact Us<br></strong>If you have any questions about this policy or our site in general, please contact us at&nbsp;<a href="mailto:admin@qfak.com">admin@qfak.com</a></p></div>
+       
+  </div>
+  <div id="gotop"><script type="text/javascript">goTopEx();</script></div>
+  <div id="bottom">
+     &nbsp;&nbsp;<a target="_blank" rel="nofollow" href="/05images/en/about.asp?zid=9"><u>about</u></a>
+     &nbsp;&nbsp;<a target="_blank" rel="nofollow" href="/05images/en/about.asp?zid=8"><u>community guidelines</u></a>
+     &nbsp;&nbsp;<a target="_blank" rel="nofollow" href="/05images/en/about.asp?zid=13"><u>content policy</u></a>
+     &nbsp;&nbsp;<a target="_blank" rel="nofollow" href="/05images/en/about.asp?zid=12"><u>privacy policy</u></a>
+     &nbsp;&nbsp;<a target="_blank" rel="nofollow" href="/05images/en/about.asp?zid=11"><u>terms of service</u></a>
+     &nbsp;&nbsp;<a target="_blank" rel="nofollow" href="/05images/en/about.asp?zid=10"><u>contact us</u></a>
+     &nbsp;&nbsp;<a target="_blank" href="/inspiring_quotes/">Inspiring Quotes</a>
+     <br>www.qfak.com
+     &nbsp;&nbsp;site design / logo ©2009-2013
+     &nbsp;&nbsp;Qfak.com internet services, inc
+     &nbsp;&nbsp;All Rights Reserved
+  </div>
+  <!-- AddThis -->
+  <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f3cc4e613ebd8e6"></script>
+  <!-- stat -->
+  <div class="stat"><script src="http://s9.cnzz.com/stat.php?id=3828996&amp;web_id=3828996&amp;show=pic" language="JavaScript"></script></div>  
+  
+
+</div></body></html>
