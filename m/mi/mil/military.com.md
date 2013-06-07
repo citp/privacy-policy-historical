@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the military.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127053707id_/http%3A//www.military.com/AboutUs/More/1%2C14822%2CPrivacy_Policy%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607074022id_/http%3A//www.military.com/AboutUs/More/1%2C14822%2CPrivacy_Policy%2C00.html) for the most accurate reproduction.*
 
 # About Us - Military.com
 
@@ -49,7 +49,7 @@ We also share aggregated anonymous information about visitors to the Military si
 
 Information gathered on a co-branded page may be retained by both Military and the other company. In that instance, the use of such information by the other company will be subject to the privacy policy of that company and Military is not responsible for that company's use of your personal or demographic information.
 
-3\. We disclose information if legally required to do so, or at our discretion pursuant to a request from a governmental entity or if we believe in good faith â€“ after considering your privacy interests and other factors â€“ that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect our rights or property or our affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public. Because Military Advantage is a U.S. company and information collected on our Sites is stored in whole or in part in the United States, your information may become subject to U.S. law.
+3\. We disclose information if legally required to do so, or at our discretion pursuant to a request from a governmental entity or if we believe in good faith ? after considering your privacy interests and other factors ? that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect our rights or property or our affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public. Because Military Advantage is a U.S. company and information collected on our Sites is stored in whole or in part in the United States, your information may become subject to U.S. law.
 
 4\. We may disclose and transfer such information to a third party who acquires any or all of Military's business units, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event Military becomes the subject of an insolvency proceeding, whether voluntary or involuntary, Military or its liquidator, administrator, receiver or administrative receiver may sell, license or otherwise dispose of such information in a transaction approved by the court. You will be notified of the sale of all or a substantial portion of our business to a third party by email or through a prominent notice posted on the Sites.
 
@@ -117,7 +117,7 @@ If, at any time, you have questions or concerns about Military's privacy commitm
 
 Military Advantage, Inc.  
 799 Market Street  
-Suite 700  
+Suite 500  
 San Francisco, CA 94103
 
 Thank you for using Military.com.  
@@ -141,13 +141,13 @@ spousebuzz.com
 milblogging.com**
 
 Military.com Blogs:  
-**military-education.military.com(education blog)  
-paycheck-chronicles.military.com(finance blog)  
-transitionstories.military.com(transition blog)  
-military-fitness.military.com(fitness blog)  
-kitup.military.com(equipment blog)  
-undertheradar.military.com(entertainment blog)  
-militaryadvantage.military.com(benefits blog)**
+**military-education.military.com (education blog)  
+paycheck-chronicles.military.com (finance blog)  
+transitionstories.military.com (transition blog)  
+military-fitness.military.com (fitness blog)  
+kitup.military.com (equipment blog)  
+undertheradar.military.com (entertainment blog)  
+militaryadvantage.military.com (benefits blog)**
 
 **
 
