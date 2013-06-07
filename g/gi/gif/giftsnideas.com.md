@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftsnideas.com privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007195556id_/http%3A//www.giftsnideas.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftsnideas.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607085221id_/http%3A//www.giftsnideas.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of
 
@@ -13,4 +13,4 @@ At Giftsnideas we are committed to protecting your privacy. We collect your pers
 
 We believe in reducing the SPAM on the Internet and would not be sending you any marketing material unless you specifically request for it.
 
-You could E-Mail us at [customerservice@giftsnideas.com](mailto:customerservice@giftsnideas.com), if you have any concerns on your privacy being breached by us. You could also reach us through information provided on [Contact Us](https://web.archive.org/info/contact-us) page.
+You could E-Mail us at , if you have any concerns on your privacy being breached by us. You could also reach us through information provided on [Contact Us](https://web.archive.org/info/contact-us) page.
