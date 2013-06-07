@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neustar.biz privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223144834id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neustar.biz privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607054814id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
 
-# 
+# Neustar | Privacy Policy
 
 **Highlights of the Neustar Privacy Policy**
 
@@ -31,7 +31,7 @@ Click on the links below to learn more about the Personal Information we collect
 
 **Cookies**
 
-We may use Cookies, Web Beacons, Pixel Tags and similar technologies to enhance and personalize your experience on our web sites and to track, manage, and enable visitor transactions and preferences.  In addition, we work with a variety of  _[Match Partners](https://web.archive.org/privacy/privacy_policy#match-partners)_  to set [ _AdAdvisor Cookies_](https://web.archive.org/privacy/privacy_policy#cookies).   Businesses use these cookies, which do not contain or convey [Personal Information](https://web.archive.org/web/20121223144834id_/http%3A//www.neustar.biz/privacy/privacy_principles#personal-info), to tailor online advertising based on our predictions about the preferences and interests of large groups of similar consumers, and to measure the effectiveness of ad campaigns.
+We may use Cookies, Web Beacons, Pixel Tags and similar technologies to enhance and personalize your experience on our web sites and to track, manage, and enable visitor transactions and preferences.  In addition, we work with a variety of  _[Match Partners](https://web.archive.org/privacy/privacy_policy#match-partners)_  to set [ _AdAdvisor Cookies_](https://web.archive.org/privacy/privacy_policy#cookies).   Businesses use these cookies, which do not contain or convey [Personal Information](https://web.archive.org/web/20130607054814id_/http%3A//www.neustar.biz/privacy/privacy_principles#personal-info), to tailor online advertising based on our predictions about the preferences and interests of large groups of similar consumers, and to measure the effectiveness of ad campaigns.
 
 **Transparency and Choice**
 
@@ -50,6 +50,3 @@ Our privacy practices and policies may be updated from time to time.  We will p
 **Questions? Comments?**
 
 Send us an email at:[privacy@neustar.biz](mailto:privacy@neustar.biz)
-
-  
-
