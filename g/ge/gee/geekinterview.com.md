@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekinterview.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006092105id_/http%3A//www.geekinterview.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekinterview.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607105542id_/http%3A//www.geekinterview.com/privacy.html) for the most accurate reproduction.*
 
 # GeekInterview.com - Privacy Policy
 
@@ -57,4 +57,4 @@ We endeavor to take all reasonable steps to protect your personal Data including
 
 ### Interview & _Career Tips_
 
-Get invaluable Interview and Career Tips delivered directly to your inbox. Get your news alert set up today, click "Subscribe".
+Get invaluable Interview and Career Tips delivered directly to your inbox. Get your news alert set up today, Once you confirm your Email subscription, you will be able to download Job Inteview Questions Ebook . Please contact me if you there is any issue with the download.
