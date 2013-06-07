@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the indnav.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919190837id_/http%3A//www.indnav.com/home/tosandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indnav.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607214459id_/http%3A//www.indnav.com/home/tosandprivacy) for the most accurate reproduction.*
 
 # Indnav.com Terms of Service And Privacy Policy
 
-| **Privacy Policy and Terms of Use
+|   
+---  
+**Privacy Policy and Terms of Use
 
 * * *
 
 **  
----  
 **Privacy Policy**  
   
 Privacy issues are a high priority for us at Indnav and we follow standard industry practices to maintain your personal information. Please read the following to learn more about our privacy policy.
