@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveofofo.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184330id_/http%3A//liveofofo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveofofo.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607185311id_/http%3A//liveofofo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,3 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of Nigerian Celebrity Gossip then you may contact us at contact@liveofofo.com 
 
 Last updated Sun, 30 Jan 2011 19:53
-
-### Share and Enjoy
-
-## 
