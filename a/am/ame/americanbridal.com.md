@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanbridal.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223095505id_/http%3A//www.americanbridal.com/secure.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanbridal.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607061109id_/http%3A//www.americanbridal.com/secure.html) for the most accurate reproduction.*
 
 # Privacy Policy & Site Security
 
@@ -18,6 +18,6 @@ Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help anal
 
 You are viewing: Privacy Policy & Site Security
 
-© 1997-2012 American Bridal™. All Rights Reserved.
+© 1997-2013 American Bridal™. All Rights Reserved.
 
 [](https://www.mcafeesecure.com/RatingVerify?ref=www.americanbridal.com)
