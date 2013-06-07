@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brinkster.com privacy policy that was archived on 2012-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120929091011id_/http%3A//www.brinkster.com/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brinkster.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608000712id_/http%3A//www.brinkster.com/company/legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Brinkster's General Privacy Policy
+# Brinkster Privacy Policy
 
-PRIVACY POLICY
+## PRIVACY POLICY
 
 Effective Date of February 24th, 2012 
 
