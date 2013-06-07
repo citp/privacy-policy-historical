@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webincomejournal.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130142948id_/http%3A//webincomejournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webincomejournal.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607130121id_/http%3A//webincomejournal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WebIncomeJournal.com
+# WebIncomeJournal.comPrivacy Policy
 
 **Last Updated: 22nd September, 2011**
 
-**This privacy statement covers this blogsite the[WebIncomeJournal.com](http://www.webincomejournal.com/)  
+ **This privacy statement covers this blogsite the[WebIncomeJournal.com](http://www.webincomejournal.com/)  
 **  
 Here at the  **[Web Income Journal](http://www.webincomejournal.com/)** your privacy is assured. If you join our newsletter on this site, you will be kept posted on any developments that might benefit you.
 
@@ -17,7 +17,7 @@ However, please note:
 
 
 
-**Communications from This Site**
+ **Communications from This Site**
 
 The following activities at our website will generate an email from us:
 
@@ -26,11 +26,11 @@ The following activities at our website will generate an email from us:
 
 
 
-**Sharing of Information**
+ **Sharing of Information**
 
-**Legal Disclaimer:** [http://www.webincomejournal.com](http://www.webincomejournal.com/) is the sole owner of the information collected on this web site. _We will only share your information with outside parties when required to do so by law or in the good faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on this web site_.
+ **Legal Disclaimer:** [http://www.webincomejournal.com](http://www.webincomejournal.com/) is the sole owner of the information collected on this web site. _We will only share your information with outside parties when required to do so by law or in the good faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on this web site_.
 
-**Surveys or Contests**
+ **Surveys or Contests**
 
 From time-to-time we may provide you the opportunity to participate in contests or surveys. If you participate, we may request certain personally identifiable information from you.
 
@@ -38,17 +38,17 @@ Participation in these surveys or contests is completely voluntary and therefore
 
 We use this information to notify contest winners and award prizes. We may use a third party service provider to conduct these surveys or contests; We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**How to Unsubscribe**
+ **How to Unsubscribe**
 
 Every newsletter sent to members contains “unsubscribe” instructions so anyone who no longer wishes to receive communications may opt-out of receiving such communications.
 
-**Commitment to Children’s Privacy**
+ **Commitment to Children’s Privacy**
 
 Protecting children’s privacy is especially important to us. It is our policy to comply with the Children’s Online Privacy Protection Act of 1998 and all other applicable laws. This website is intended for use by those 18 years or older.
 
 We do not knowingly collect personal information from children under the age of 13. If we learn at any time that we have personal information on a child under the age of 13, we will delete that information from our systems and databases.
 
-**YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILDREN’S ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO.**
+ **YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILDREN’S ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO.**
 
 This site encourages parents to go online with their kids. Here are a few tips to help make a child’s online experience safer (you can also check out the FTC’s website for more tips on protecting children’s privacy online):
 
@@ -58,6 +58,6 @@ This site encourages parents to go online with their kids. Here are a few tips t
 
 
 
-**Revisions to This Policy**
+ **Revisions to This Policy**
 
 We reserve the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgment and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
