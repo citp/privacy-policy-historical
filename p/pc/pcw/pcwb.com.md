@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcwb.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001100533id_/http%3A//pcworldbusiness.co.uk/legal/privacy.jtp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcwb.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607114429id_/http%3A//pcworldbusiness.co.uk/legal/privacy.jtp) for the most accurate reproduction.*
 
 # PC World Business - Best cheap business laptops, desktops, printers, software, Apple Macs and iPads
 
