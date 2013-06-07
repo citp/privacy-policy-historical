@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogvault.net privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920000533id_/http%3A//blogvault.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogvault.net privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607112349id_/http%3A//blogvault.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Blogvault
 
@@ -44,3 +44,5 @@ Company may periodically update this policy. We will notify you about significan
 Any questions about this Privacy Policy should be addressed by contacting us through our [support page](https://web.archive.org/home/contact)
 
 ## Try blogVault for FREE! [Sign Up](https://webapp.blogvault.net/home/signup)
+
+[Sign Up Now](https://webapp.blogvault.net/home/signup)
