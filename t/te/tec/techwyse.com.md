@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techwyse.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218080058id_/http%3A//www.techwyse.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwyse.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607150226id_/http%3A//www.techwyse.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Web Design & Web Development, Internet Marketing Toronto
 
