@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the northpole.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225143351id_/http%3A//www.northpole.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northpole.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607104724id_/http%3A//www.northpole.com/privacy.asp) for the most accurate reproduction.*
 
 # Visit with Santa Claus at Christmas at the North Pole
 
-Northpole.com, LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site. 
+Northpole Productions, LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site. 
 
   * Any personally identifiable information collected by this site is not shared with any third party for any reason. 
   * All personally identifiable information collected by this site is used strictly for the purpose of making your use of this site more enjoyable. 
@@ -26,7 +26,7 @@ This site contains links to other sites; www.northpole.com is not responsible fo
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: 
 
   
-Northpole.com, LLC   
+Northpole Productions, LLC   
 1325 Williams Drive   
 Marietta, GA 30066   
 United States of America 
