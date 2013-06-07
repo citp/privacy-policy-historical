@@ -1,0 +1,974 @@
+<!--The following is the downloaded HTML source of the ilikeq.com privacy policy that was archived on 2013-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130607044653id_/http%3A//ilikeq.com/about/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Who do you like? | Ilikeq.com</title>
+	<link rel="stylesheet" href="http://like1.r.worldssl.net/css/default.css?v=230" type="text/css" media="all">
+	
+	<link rel="icon" type="image/vnd.microsoft.icon" href="http://like1.r.worldssl.net/images/logo.png">
+	<link rel="shortcut icon" href="http://like1.r.worldssl.net/images/logo.png">
+	
+	<link rel="stylesheet" type="text/css" href="http://like1.r.worldssl.net/lib/reveal/reveal.css">
+
+		<meta name="robots" content="index,follow">
+
+   <meta name="keywords" content="dating, free online dating, meet new people, social networking, high school, college">
+   
+    <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://like1.r.worldssl.net/js/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="http://like1.r.worldssl.net/js/default.js?v=338"></script>
+	<script type="text/javascript" src="http://like1.r.worldssl.net/js/ajax_upload.js"></script>
+	<script type="text/javascript" src="http://like1.r.worldssl.net/lib/reveal/jquery.reveal.js"></script>
+
+
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [""];
+		_gaq.push(['_setAccount', 'UA-330719-26']);
+		_gaq.push(['_setDomainName', 'ilikeq.com']);
+		_gaq.push(['_setCustomVar', 1, 'User Type', 'Visitor']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')["0"]; s.parentNode.insertBefore(ga, s);
+		})();
+
+
+	</script>
+	
+	
+	
+</head>
+<!--["if IE 7"]><body id="ie" class="ie7"><!["endif"]-->
+<!--["if gt IE 7"]><body id="ie"><!["endif"]-->
+<!--["if !IE"]><!--><body id="global"><!--<!["endif"]-->
+
+<div style="display:none;">
+	On Ilikeq you can browse enless list of many nice phoots of beautiful boys and girls from all the world. Nice guys and ladies send their photos that can be liked. If you like some photo, click Like. It's trendy and stylish. Browse nice photos, enjoy fun, lifestyle.</div>
+
+
+
+<div id="fb-root"></div>
+
+<script type="text/javascript">
+
+	var user_id = 0;
+	var likes_given = 0;
+	var votes_given = 0;
+	var friendslike_cnt = 0;
+	var base_url = "http://ilikeq.com";
+	var profile_photo_id = 0;
+	var whichone_dialog = 0;
+	var show_some_dialog = 0;
+	var visits_cnt = 0;
+	var photos_cnt = 0;
+	var messages_today = 0;
+	var is_vip = 0;
+	var likes_task = 0;
+	var in_fb = 0;
+	var user_country = "us";
+	var is_mobile = 0;
+	
+	window.onerror = function(message, url, lineNumber) {  
+	  $.ajax({ url: base_url + "/log-js/error/?mess=" + message + "&url=" +url + "&lineNumber=" + lineNumber});
+	  return true;
+	};  
+
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '227798390649345',
+      channelUrl : 'http://ilikeq.com/channel.html',
+      status     : true, 
+      cookie     : true, 
+      xfbml      : true,
+      frictionlessRequests: true
+    });
+
+	FB.Event.subscribe('comment.create',
+	    function(response) {
+	    	$.ajax({ url: base_url + "/log-js/comment/?href="+response.href+"&comment_id="+response.commentID});
+	    }
+	);
+  };
+
+  (function(d, debug){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document, false));
+
+</script>
+
+
+<div id="lightbox-upload-photos" class="lightbox no-logged" style="display:none;z-index:2000;">
+	<a href="#" onclick="javascript:$('#lightbox-upload-photos').hide()" class="close"></a>
+	<div class="content">
+		<h1>Upload your photos</h1>
+		<br>
+		<div style="text-align:center">
+			To write messages and use more functions, upload your photos.
+			<div id="file-uploader-demo1" style="margin:10px auto; width:100px; Xfloat:left;Xwidth:320px; ">
+			</div>
+			<div id="photos"></div>
+
+			<link href="http://like1.r.worldssl.net/fileuploader/client/fileuploader.css" rel="stylesheet" type="text/css">	
+		    <script src="http://like1.r.worldssl.net/fileuploader/client/fileuploader.js" type="text/javascript"></script>
+		    <script>        
+		        function createUploader(){            
+		            var uploader = new qq.FileUploader({
+		                element: document.getElementById('file-uploader-demo1'),
+		                action: '/upload',
+		                debug: false,
+		                onComplete: function(id, fileName, responseJSON){ 
+		                	//alert(responseJSON.photo_id)
+		                	$("#photos").append("<img src='/ui_small/"+responseJSON.photo_id+".jpg'  width=100>");	
+		                }
+		            });           
+		        }
+		        
+		        // in your app create uploader as soon as the DOM is ready
+		        // don't wait for the window to load  
+		        //window.onload = createUploader;     
+		    </script>    
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+<div id="lightbox_signup" class="lightbox no-logged" xstyle="display:block">
+	<a href="#" class="close"></a>
+	<div class="content">
+		<h1>First time on Ilikeq?</h1>
+		<br>
+		<div style="text-align:center">
+
+			<a href="/go-fb-auth"><img src="http://like1.r.worldssl.net/img/fb-login-en.png" border="0"></a>
+			<br>
+			<!-- 
+			or			<br>
+			 
+			<form action="/signup" method=post>
+			<input type=hidden name=send value=1>
+			<br>
+			<h2>Enter your email address:</h2>
+			<input class="round" type="email" name=email style='width:120px'>
+			<input name="submit" type="submit" value="Sign Up" />
+			</form>
+			<br>
+			 -->
+			 
+			 
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+	<div id="myModal" class="reveal-modal">
+     <h1 id="modal-title">Modal Title</h1>
+     <div id="modal-content" style="text-align:center; font-size: 18px; line-height: 24px; margin: 5px 0 18px; color: #777;"></div>
+     <a class="close-reveal-modal">×</a>
+	</div>
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	<div id="myModalSignup" class="reveal-modal">
+     <h1 id="modal-title">Join us!</h1>
+     <div id="modal-content" style="text-align:center; font-size: 18px; line-height: 24px; margin: 5px 0 18px; color: #777;">
+     Ilikeq is worldwide community allowing to like people. <br>
+     Find out who likes you, have fun and meet new friends.     <br>
+     <br>
+     <a href="/go-fb-auth"><img src="http://like1.r.worldssl.net/img/fb-login-en.png" border="0"></a>
+
+			<!-- 
+			<form id="signupForm" method="post" action="/signup">
+					<input type=hidden name=send value=1>
+				or<br><br>
+				  
+				 Enter your email address: 
+			
+			<div class="formRow" style="text-align:center;">
+				<input class="round" type="email" name="email" placeholder="" autocomplete="off" class="required email" value="" />
+				<div class="error"></div>
+			</div>
+				
+			<div class="formSubmit">		
+				<input name="submit" type="submit" value="Sign Up" />
+			</div>
+			</form>
+			 -->
+
+     
+     </div>
+     <a class="close-reveal-modal">×</a>
+	</div>
+
+
+
+
+
+
+	<div id="myModalAddtofb" class="reveal-modal" style="width: 900px; margin-left: -490px;}">
+     <h1 id="modal-title">Show your friends who you like</h1>
+     <div id="modal-content" style="text-align:center; font-size: 18px; line-height: 24px; margin: 5px 0 18px; color: #777;">
+     Add to your Facebook timeline list of photos you like.<br> Just click the button and then 'Add to profile' <br>
+     <br>
+     <a class="pButton pRedButton" href="http://ilikeq.com/add-to-fb-profile" target="_blank">Add to profile</a>
+     <br>
+     <a href="http://ilikeq.com/add-to-fb-profile" target="_blank"><img src="http://like1.r.worldssl.net/img/add_to_fb_profile.jpg" border="0"></a><br>
+     </div>
+     <a class="close-reveal-modal">×</a>
+	</div>
+
+
+
+
+
+
+	
+
+
+
+
+	<div id="myModalVip" class="reveal-modal">
+     <h1 id="modal-title">Get VIP advantages!</h1><br>
+     <div id="modal-content" xstyle="text-align:center; font-size: 18px; line-height: 24px; margin: 5px 0 18px; color: #777;">
+     	<table>
+     		<tbody><tr>
+     			<td width="33%">
+     				<img src="http://like1.r.worldssl.net/img/vip/favorites.png" style="margin-right:10px;margin-bottom:40px;float:left;">Get listed on first places in front of basic users     			</td>
+     			<td width="33%">
+     				<img src="http://like1.r.worldssl.net/img/vip/clock.png" style="margin-right:10px;margin-bottom:40px;float:left;">Find out when your messages were read     			</td>
+     			<td width="33%">
+     				<img src="http://like1.r.worldssl.net/img/vip/email.png" style="margin-right:10px;margin-bottom:40px;float:left;">Send unlimited messages daily     			</td>
+     		</tr>
+     		<tr>
+     			<td>
+     				<img src="http://like1.r.worldssl.net/img/vip/eye.png" style="margin-right:10px;margin-bottom:40px;float:left;">Find out who would date you     			</td>
+     			<td>
+     				<img src="http://like1.r.worldssl.net/img/vip/group.png" style="margin-right:10px;margin-bottom:40px;float:left;">Get more visits, likes and rates     			</td>
+     			<td>
+     				<img src="http://like1.r.worldssl.net/img/vip/zoom.png" style="margin-right:10px;margin-bottom:40px;float:left;">Get links to Facebook profiles (of users who allowed it)     			</td>
+     		</tr>
+     		<tr>
+     			<td>
+     				<img src="http://like1.r.worldssl.net/img/vip/ad-free.png" style="margin-right:10px;margin-bottom:40px;float:left;">Enjoy Ilikeq without ads     			</td>
+				<!-- 
+     			<td>
+     				<img src="http://like1.r.worldssl.net/img/vip/present.png" style="margin-right:10px;margin-bottom:40px;float:left;">
+     			</td>
+     			 -->
+     			<td>
+     				<img src="http://like1.r.worldssl.net/img/vip/star.png" style="margin-right:10px;margin-bottom:40px;float:left;">Have a star that shows you're VIP     			</td>
+     			<td>
+     				<img src="http://like1.r.worldssl.net/img/vip/theme.png" style="margin-right:10px;margin-bottom:40px;float:left;">Change your profile background     			</td>
+     		</tr>
+     		<tr>
+     			<td>
+     				<img src="http://like1.r.worldssl.net/img/vip/user_add.png" style="margin-right:10px;margin-bottom:40px;float:left;">Get access to list of newest members     			</td>
+     			<td>
+     				<img src="http://like1.r.worldssl.net/img/vip/up.png" style="margin-right:10px;margin-bottom:40px;float:left;">Your messages will be listed to recepients as first     			</td>
+     			<td>
+     				<img src="http://like1.r.worldssl.net/img/vip/more-love.png" style="margin-right:10px;margin-bottom:40px;float:left;">Find out who would date you    				
+     			</td>
+     		</tr>
+     		<tr>
+     		</tr>
+     	</tbody></table>
+		
+		<br>
+		
+			     	<table width="100%">
+	     		<tbody><tr>
+	     			<td width="33%" style="text-align:center; vertical-align:top;">
+	     				<h1>1 month</h1>
+	     				<h2>$5 a month</h2>
+	     				<a class="pButton pRedButton" style="text-align:center;Xcolor:green;" href="javascript:" onclick="buy_coins(&quot;vip1m&quot;)">activate</a>
+	     			</td>
+	     			<td width="33%" style="text-align:center; vertical-align:top;">
+	     				<h1>3 months</h1>
+	     				<h2>$4 a month</h2>
+	     				<a class="pButton pRedButton" style="text-align:center;Xcolor:green;" href="javascript:" onclick="buy_coins(&quot;vip3m&quot;)">activate</a>
+	     				<br><br>
+	     				<span style="color:white;background-color:green;margin:5px;font-weight:bold;padding:3px;">save 20%</span>
+	     			</td>
+	     			<td width="33%" style="text-align:center; vertical-align:top;">
+	     				<h1>6 months</h1>
+	     				<h2>$3 a month</h2>
+	     				<a class="pButton pRedButton" style="text-align:center;Xcolor:green;" href="javascript:" onclick="buy_coins(&quot;vip6m&quot;)">activate</a>
+	     				<br><br>
+	     				<span style="color:white;background-color:green;margin:5px;font-weight:bold;padding:3px;">save 40%</span>
+	     			</td>
+	     		</tr>
+	     	</tbody></table>
+
+     	
+     </div>
+     <a class="close-reveal-modal">×</a>
+	</div>
+
+
+
+
+
+
+
+
+
+	<div id="top"></div>
+
+	
+
+	<div class="header">
+
+	    <div id="hdrSearch">
+	    	<form id="search_form" action="/search" method="get">
+				<input type="text" name="query" id="search_query" value="Search">
+				<a href="#" id="search_button"><img src="http://like1.r.worldssl.net/images/search.gif" alt="Search" border="0" width="12" height="12"></a>
+	    	</form>
+	    </div>
+
+	    <div class="site_logo">
+    		<a href="/"><img src="http://like1.r.worldssl.net/images/logo_small.png" xwidth="150" xheight="37" alt="Ilikeq.com Logo" border="none"></a>
+    	</div>
+
+		<div class="header_links">
+			<ul class="navigation">
+											<li><a xhref="/signup" href="javascript:" onclick="register_user()" rel="nofollow" id="menu_register">Sign Up</a></li>
+						<li><a href="/signin?redirect=%2F" rel="nofollow">Sign In</a></li>
+										<li class="navigation_dropdown"><a href="/" style="color:#D43638">Browse</a>
+					<ul class="sub_navigation">
+						<li><a href="/rate" rel="nofollow">Rate</a></li>
+						<li><a href="/like" rel="nofollow">Like</a></li>
+						<li><a href="/date" rel="nofollow">Date?</a></li>
+					</ul>
+					</li><li class="navigation_dropdown"><a href="/about/us">About</a>
+					<ul class="sub_navigation">
+						<li><a href="/about/us">About us</a></li>
+						<li><a href="/about/faq">Help</a></li>
+						<li><a href="/about/contact">Contact</a></li>
+						<li><a href="/about/terms" style="border-top:1px solid black;">Terms</a></li>
+						<li><a href="/about/privacy">Privacy</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+			
+				<div id="twitter_button">
+					<fb:like href="http://www.facebook.com/pages/Ilikeq/478089592218549" layout="button_count" send="false" width="95" show_faces="false"></fb:like>
+				</div>
+				
+    </div>
+
+
+		
+	<link rel="stylesheet" id="themestyle" href="http://like1.r.worldssl.net/js/jTour/css/theme4/style.css">
+	<script src="http://like1.r.worldssl.net/js/jTour/jTour.min.js"></script>
+
+	<script src="http://like1.r.worldssl.net/js/jquery.easing.js"></script>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		
+		
+		
+		var myTour = jTour([
+			{
+				html: LG_tut_1,
+			},{
+				html: LG_tut_2
+			},{
+				html: LG_tut_3
+			},{
+				html: LG_tut_4,
+				live:5000,
+				overlayOpacity:0.9,
+				expose: true,
+				element: $('.small_pin_box_info').eq(0),
+				position: 'nw'
+			},{
+				html: LG_tut_5,
+				live:5000,
+				overlayOpacity:0.9,
+				expose: true,
+				element: $('.small_pin_box_info').eq(1),
+				position: 'nw'
+			},{
+				html: LG_tut_7,
+				live:5000,
+				overlayOpacity:0.9,
+				expose: true,
+				element: $('.small_pin_box_info').eq(6),
+				position: 'nw'
+			},{
+				html: LG_tut_8,
+				offset: 1500
+			},{
+				html: LG_tut_9,
+				offset: 2000,
+				onHide: function() { $(".likeButton").show(); $(".detailButton").show(); }
+			},{
+				html: LG_tut_10,
+				live:5000,
+				overlayOpacity:0.6,
+				expose: true,
+				element: $('.likeButton').eq(5),
+				position: 'nw',
+			},{
+				html: LG_tut_11,
+				live:5000,
+				overlayOpacity:0.6,
+				expose: true,
+				element: $('.detailButton').eq(5),
+				position: 'nw',
+			},{
+				html: LG_tut_12,
+				live:5000,
+				overlayOpacity:0.6,
+				expose: true,
+				element: $('.likeButton').eq(7),
+				position: 'nw',
+			},{
+				html: LG_tut_13,
+				live:5000,
+				overlayOpacity:0.6,
+				expose: true,
+				offset: 0,
+				element: $('.likeButton').eq(4),
+				position: 'nw',
+				onHide: function() { $(".likeButton").hide(); $(".detailButton").hide(); }
+			},{
+				html: LG_tut_14,
+				live:5000,
+				overlayOpacity:0.6,
+				expose: true,
+				element: $('.navigation li').eq(1),
+				position: 's',
+			},{
+				html: LG_tut_15,
+			},
+		],{
+				axis:'y',  // use only one axis prevent flickring on iOS devices
+				animationIn: 'slideDown',
+				animationOut: 'hide',
+				easing: 'easeInOutExpo', //requires the jquery.easing plugin
+				scrollDuration: 600,
+				speed: 2,
+				overlayOpacity: 0.6,
+				onFinish: function() {
+					$.ajax({ url: base_url + "/log-js/tutorial-finish" });
+				}
+			});
+			
+			//$('#startTour').click(function(){
+						   
+			//});
+			
+
+		});
+	</script>
+        <div id="home_offline_container">
+		<div id="home_offline">
+			<div style="text-align: right;"><a href="#" onclick="hide_top_box()">Close [X]</a></div>
+			<p class="home_offline_text"><strong>Who do you like?</strong> <br>Click "Like" and find out if it's mutual!</p>
+			<div id="home_offline_button_position">
+				<!-- 
+					<a class="outline_button fltLeft" href="/user/signup">Sign Up</a> 
+				<a class="action_button fltLeft spcWidth" href="#" id="startTour">How it works &raquo;</a>
+				-->
+								<a class="pButton pWhiteButton" href="/?startTour=1" xid="startTour">How it works »</a>
+												<a class="pButton pRedButton" xhref="/go-fb-auth" onclick="register_user();" id="">Sign Up »</a>
+				
+			</div>
+		</div>
+		<div style="height: 68px;"></div>
+		
+	</div>
+	
+	<div class="home_filters">
+		<ul class="navigation_categories">
+			<form action="/">
+			<li>
+				Browse              <select name="filter_sex">
+                <option value="b" selected="">women and men</option>
+                <option value="female">women</option>
+                <option value="male">men</option>
+              </select>
+            </li>
+            <li>age              <select name="filter_age_from">
+              	<option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18" selected="">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option><option value="32">32</option><option value="33">33</option><option value="34">34</option><option value="35">35</option><option value="36">36</option><option value="37">37</option><option value="38">38</option><option value="39">39</option><option value="40">40</option><option value="41">41</option><option value="42">42</option><option value="43">43</option><option value="44">44</option><option value="45">45</option><option value="46">46</option><option value="47">47</option><option value="48">48</option><option value="49">49</option><option value="50">50</option><option value="51">51</option><option value="52">52</option><option value="53">53</option><option value="54">54</option><option value="55">55</option><option value="56">56</option><option value="57">57</option><option value="58">58</option><option value="59">59</option>              </select>
+-
+              <select name="filter_age_to">
+              	<option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25" selected="">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option><option value="32">32</option><option value="33">33</option><option value="34">34</option><option value="35">35</option><option value="36">36</option><option value="37">37</option><option value="38">38</option><option value="39">39</option><option value="40">40</option><option value="41">41</option><option value="42">42</option><option value="43">43</option><option value="44">44</option><option value="45">45</option><option value="46">46</option><option value="47">47</option><option value="48">48</option><option value="49">49</option><option value="50">50</option><option value="51">51</option><option value="52">52</option><option value="53">53</option><option value="54">54</option><option value="55">55</option><option value="56">56</option><option value="57">57</option><option value="58">58</option><option value="59">59</option>              </select>
+            </li>
+            <!--
+            <li>from              <select name="filter_country">
+              	<option value=""></option>
+                <option value="cz" >Czech republic</option>
+                <option value="sk" >Slovak republic</option>
+              </select>
+ 			</li>
+			-->
+
+					
+				</form>
+		</ul>	
+	</div>
+	    
+	<div id="pin_ajax_overlay" style="display: none; position: absolute; top: 0px; left: 0px; width: 100%; opacity: 0.85; z-index: 990; filter: alpha(opacity=85); background-color: #ffffff;"></div>
+    <div id="pin_ajax_view" style="display: none; position: absolute; top: 0px; left: 50%; margin: 20px 0 0 -510px; width: 1020px; min-height: 200px; z-index: 1000;"></div>
+    
+    <div id="container">
+
+		
+
+<div style="width:560px; margin:auto;">
+<h2>Welcome, and thank you for your interest in Ilikeq.</h2>
+<br>
+This Privacy Policy describes what information we gather from you, how we use and disclose that information, and what we do to protect it. By using Ilikeq, you expressly consent to the information handling practices described in this policy.<br>
+<br>
+The Information Ilikeq Collects:<br>
+User-Provided Information: You may provide to Ilikeq what is generally called "personally identifiable" information (such as your email address, age, zip code) when using Ilikeq, such as when you register, and when you use the Apps or purchase virtual goods. If you use Ilikeq with your mobile device, or sign up to receive alerts via text message, we may also have access to your device ID or phone number.<br>
+<br>
+"Cookies" Information: When you use Ilikeq, we may send one or more cookies - small text files containing a string of alphanumeric characters - to your computer. Ilikeq may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to Ilikeq. Persistent cookies can be removed. Please review your web browser "Help" file to learn the proper way to modify your cookie settings. Please note that if you delete, or choose not to accept, cookies from Ilikeq, you may not be able to utilize the features of Ilikeq to their fullest potential.<br>
+<br>
+"Automatically Collected" Information: When you use Ilikeq or open one of our HTML emails, we may automatically record certain information from your web browser by using different types of technology, including "clear gifs" or "web beacons." This "automatically collected" information may include Internet Protocol address ("IP Address") or other device address or ID, web browser and/or device type, the web pages or sites that you visit just before or just after Ilikeq, the pages you view on Ilikeq, and the dates and times that you visit, access, or use Ilikeq.<br>
+<br>
+Information from Other Sources: We may also obtain information, including personally identifiable information, from third parties and sources other than Ilikeq, such as other users who send messages to you through Ilikeq, or third party service providers who you use to access features of Ilikeq, such as purchasing in-game virtual goods. By using Apps offered by Ilikeq on Facebook, Ilikeq will have access to your Facebook profile information that your Facebook privacy settings are configured to expose to Facebook apps, and user activity within some Facebook applications. If we combine or associate information from other sources with personally identifiable information that we collect through Ilikeq, we will treat the combined information as personally identifiable information in accordance with this Privacy Policy.<br>
+<br>
+The Way Ilikeq Uses Information:<br>
+Ilikeq uses the information you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on Ilikeq. We will use your email address to contact you for administrative purposes, for customer service purposes, to address intellectual property infringement, rights of privacy, or defamation issues, or any regarding content that you have posted to Ilikeq.<br>
+<br>
+Ilikeq uses all of the information that you provide or that we collect and/or aggregate to understand and analyze the usage trends, interests, and preferences of our users, to improve the way Ilikeq works and looks, and to create new features and functionality.<br>
+<br>
+Various aspects of Ilikeq, such as content on the Ilikeq Site and in the Apps, and email messages we send you in connection with your use of Ilikeq, may include relevant advertisements which may be selected based in part on your demographic information, interests, preferences, and usage patterns within Ilikeq.<br>
+<br>
+Ilikeq may use "automatically collected" information and "cookies" information to: (a) personalize our services, such as remembering your information so that you will not have to re-enter it during your visit or the next time you visit Ilikeq; (b) provide customized third party advertisements, content, and information; (c) monitor and analyze the effectiveness of Ilikeq and third party marketing activities; (d) monitor aggregate usage metrics such as total number of visitors, pages viewed, Apps accessed, etc.; and (e) track your entries, submissions, and status in any promotions or other activities.<br>
+<br>
+Ilikeq may use your email address or other personally identifiable information to send promotional email related to Ilikeq we think you may be interested in. You will have the ability to opt-out of receiving any such communications, either through links provided in the messages, or by updating your profile.<br>
+<br>
+When Ilikeq Discloses Information:<br>
+Your privacy is very important to us, and we are not in the business of selling your information.<br>
+<br>
+Ilikeq makes certain automatically collected and other aggregate non-personally-identifiable information available to interested third parties, including premium subscribers, to assist such parties in understanding our users’ interests, habits, and usage patterns for certain programs, content, services, advertisements, promotions, and/or functionality available through Ilikeq.<br>
+<br>
+Ilikeq works with third party service providers to provide website and application development, hosting, and maintenance as well as other services for us. To the extent it is necessary for these service providers to complete their contractual obligations to Ilikeq, these third parties may have access to or process your personally identifiable information. Generally, these disclosures are made under terms comparable to this policy, and the recipients are limited to using the information the purpose for which it was provided.<br>
+<br>
+Ilikeq may also disclose your information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law), in response to a court order, judicial or other government subpoena or warrant, or to otherwise cooperate with law enforcement activity.<br>
+<br>
+Ilikeq also reserves the right to disclose your information that we believe, in good faith, is appropriate or necessary to take precautions against liability; to protect Ilikeq and others from fraudulent, abusive, or unlawful uses or activity; to investigate and defend ourselves against any third party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of Ilikeq; or to protect the rights, property, or personal safety of Ilikeq, our users, or others.<br>
+<br>
+Your Choices:<br>
+You may, of course, decline to share certain personally identifiable information with Ilikeq, in which case Ilikeq may not be able to provide to you some of the features and functionality found on Ilikeq. You may update, correct, or delete your profile information and preferences at any time by accessing your account preferences page through Ilikeq. Please note that while your changes may be reflected promptly in active user databases, we may retain all information you submit for a variety of purposes, including backups and archiving, prevention of fraud and abuse, and analytics.<br>
+<br>
+To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. You are responsible for maintaining the secrecy of your unique password and account information at all times.<br>
+<br>
+Third Party Services:<br>
+Ilikeq contains links to Web sites and services provided by third parties. Any personally identifiable information you provide on third party sites or services is provided directly to that third party and is subject to that third party’s policies governing privacy and security. We are not responsible for the content or privacy and security practices and policies of third party sites or services to which links are displayed on Ilikeq. We encourage you to learn about third parties’ privacy and security policies before providing them with personally identifiable information.<br>
+<br>
+Our Commitment to Children’s Privacy:<br>
+Protecting the privacy of young children is especially important. For that reason, Ilikeq does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age, and no part of Ilikeq is directed to persons under 13. If you are under 13 years of age, then please do not use or access Ilikeq at any time or in any manner. If Ilikeq learns that personally identifiable information of children under the age of 13 has been collected on Ilikeq without verifiable parental consent, then Ilikeq will take the appropriate steps to delete this information.<br>
+<br>
+Our Commitment to Data Security:<br>
+Ilikeq uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Ilikeq, and you do so at your own risk. Once we receive your transmission of information, Ilikeq makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.<br>
+<br>
+If Ilikeq learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Ilikeq may post a notice through Ilikeq if a security breach occurs.<br>
+<br>
+In the Event of Merger or Sale:<br>
+In the event that all or a portion of Ilikeq or its assets is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from users in connection with such merger, acquisition, sale, or other change of control. Changes and Updates to this Privacy Policy: Please revisit this page periodically to stay aware of any changes to this Privacy Policy, which may be revised periodically at Ilikeq’ sole discretion, as provided in Section 9.a) of the Ilikeq Terms of Use. If we modify the Privacy Policy, we will make it available through Ilikeq, and indicate the date of the latest revision. In the event that the modifications materially alter your rights or obligations hereunder we will make reasonable efforts to notify you of the change. For example, we may send a message to your email address, if we have one on file, or generate a pop-up or similar notification when you access Ilikeq for the first time after such material changes are made. Our amended Privacy Policy will automatically take effect 30 days after it is made available through Ilikeq, except that (i) we generally only use your personal information in the manner described in the Privacy Policy in effect when we received that personal information and (ii) if you do not agree with any changes to the Privacy Policy, you may terminate your account ceasing use of Ilikeq. Your continued use of Ilikeq after revised Privacy Policy has become effective indicates that you have read, understood and agreed to the current version of the Privacy Policy.<br>
+<br>
+Ilikeq Contact Information:<br>
+Please contact Ilikeq with any questions or comments about this Privacy Policy, your personal information, our third party disclosure practices, or your consent choices by email: info@ilikeq.com.
+</div>
+
+		<div id="scrolltotop_button"><a href="#top">Scroll to top</a></div>
+			
+	<script type="text/javascript">	
+
+		function check_likes_cnt(where) {
+			var dd=""
+			
+			if(likes_task>likes_given) {
+				notify( 'Find '+(likes_task-likes_given)+'x more people you like to continue');
+				$.ajax({ url: base_url + "/not-enough-likes-task/" + where + "&param=" + likes_task + "-" + likes_given});
+			} else if( likes_given<10) {
+				notify( 'Find '+(10-likes_given)+' more people you like to continue');
+				$.ajax({ url: base_url + "/not-enough-likes/" + where});
+				if(likes_given<2) $(".likeButton,.detailButton").fadeIn(800).delay(400).fadeOut(800).fadeIn(800).delay(400).fadeOut(800).fadeIn(800);
+			} else {
+				window.location.href = base_url + "/" + where;
+			}
+		}		
+		
+	</script>
+
+	
+					
+				
+
+		<script type="text/javascript">
+
+
+								function profile_like_singleuser_publish(name,imgurl) {
+					FB.ui(
+					  {
+					    method: 'feed',
+					     name: 'I like '+name,
+					     link: 'http://apps.facebook.com/ilikeqcom/?first_user=&ref=fb-share-profile-singleuser-1',
+					     picture: imgurl,
+					     caption: 'Do you like him/her to?',
+					     description: 'Who do you like? Find out who likes you.'
+					  }, function(response) {
+						var published = 0
+					  	if(response) published=1
+					  	$.ajax({ url: base_url + "/stream-published/?publish=singleuser_publish_from_profile&published="+published});
+					  }
+					)
+				}	
+				
+
+				var LG_meet_new_people = 'Who do you like?';
+var LG_become_ilikeq_member = 'Become Ilikeq member!';
+var LG_great_community = 'Ilikeq is a great worldwide community.';
+var LG_enter_email_address = 'Enter your email address';
+var LG_or = 'or';
+var LG_sign_up = 'Sign Up';
+var LG_search = 'Search';
+var LG_login = 'Sign In';
+var LG_edit_profile = 'Edit profile';
+var LG_my_profile = 'My profile';
+var LG_logout = 'Logout';
+var LG_messages = 'Messages';
+var LG_about = 'About';
+var LG_about_us = 'About us';
+var LG_how_it_works = 'How it works';
+var LG_etiquette = 'Etiquette';
+var LG_terms = 'Terms';
+var LG_help = 'Help';
+var LG_privacy = 'Privacy';
+var LG_basic_info = 'Basic info';
+var LG_keywords = 'Keywords';
+var LG_notifications = 'Notifications';
+var LG_delete_account = 'Delete account';
+var LG_settings = 'Settings';
+var LG_delete = 'Delete';
+var LG_write_keywords = 'Start writing';
+var LG_close = 'Close';
+var LG_welcome_claim = 'Click \"Like\" and find out if it\'s mutual!';
+var LG_learn_more = 'Learn more';
+var LG_scroll_to_top = 'Scroll to top';
+var LG_show = 'Browse';
+var LG_both = 'women and men';
+var LG_men = 'men';
+var LG_women = 'women';
+var LG_age = 'age';
+var LG_from = 'from';
+var LG_i_like = 'Like';
+var LG_see_more_users = 'See More Users';
+var LG_like = 'Likes';
+var LG_loading_more_users = 'Loading more users';
+var LG_dont_have_account = 'Don\'t have account? Register for free';
+var LG_forgot_password = 'Forgot your password?';
+var LG_password = 'Password';
+var LG_remember_me = 'Remember me';
+var LG_sign_in = 'Sign In';
+var LG_may_ask_for_date = 'May she/he ask you for a date?';
+var LG_sure = 'Sure';
+var LG_maybe = 'Maybe';
+var LG_never = 'Never';
+var LG_send_message = 'Send message';
+var LG_send = 'Send';
+var LG_report_user = 'Report';
+var LG_embed = 'Embed';
+var LG_write_comment = 'Write a Comment';
+var LG_post_comment = 'Post comment';
+var LG_have_likes = 'Likes';
+var LG_more_likes = 'more likes';
+var LG_other_photos = 'other photos';
+var LG_upload_photos_to_see_photos = '<a href=/settings/photos>Upload your photos</a> to see other\'s photos';
+var LG_sign_up_to_see_photos = '<a href=/signup>Sign up</a> to see all photos';
+var LG_firstname = 'Firstname';
+var LG_town = 'Town';
+var LG_photos = 'Photos';
+var LG_about_you = 'About you';
+var LG_save = 'save';
+var LG_respect = 'We respect your privacy. We will <b>NEVER</b> sell, rent or share your email address.';
+var LG_signup_header = 'Create your </span> FREE <span>account';
+var LG_signup2_header = 'Just one more step to start';
+var LG_gender = 'Gender';
+var LG_birth_year = 'Birth year';
+var LG_male = 'male';
+var LG_female = 'female';
+var LG_unknown = 'Unknown';
+var LG_people_liked = 'You liked:';
+var LG_liked = 'liked you profile';
+var LG_visited = 'visited your profile';
+var LG_dated = 'answered if you might date her/him';
+var LG_messaged = 'sent you a message';
+var LG_rated = 'rated you';
+var LG_your_likes = 'Who likes you';
+var LG_my_likes = 'You liked';
+var LG_my_rates = 'You rated';
+var LG_your_dates = 'Your possible dates';
+var LG_your_visits = 'Your visits';
+var LG_my_visits = 'You visited';
+var LG_my_dates = 'Your date answers';
+var LG_menu_dates = 'Dates';
+var LG_menu_likes = 'Likes';
+var LG_menu_visits = 'Visits';
+var LG_menu_rates = 'Rates';
+var LG_no_new_notifications = 'No new notifications';
+var LG_have_this_email = 'We already have user with this email. Try to <a href=/login>login</a> instead';
+var LG_welcome_message = 'Hi, hope youre gonna enjoy Ilikeq. Let me know :) If you want, friend me on Facebook: <a href=http://www.facebook.com/natasha.dewi.585 target=_blank>natasha.dewi.585</a>';
+var LG_detail = 'Detail';
+var LG_first_give = 'Find';
+var LG_times_like = 'more people you like to continue';
+var LG_wait_a_while = 'Wait a while...';
+var LG_mark_users_you_like = 'At first, Like 10 people.';
+var LG_wait_a_while_again = 'Wait a while...';
+var LG_mark_users_you_like_again = 'Please mark 10 people you like again.';
+var LG_we_will_check_it = 'We\'ll check your mailbox';
+var LG_we_will_let_you_know = 'And let you know whether you have your friends here.';
+var LG_check_mailbox = 'Find people you know';
+var LG_check_mailbox_detail = 'You may know some people on Ilikeq. Check your email and find out who is here .';
+var LG_check_mailbox_bottom = 'We support majority webmail services. We won\'t save your password.';
+var LG_show_contacts = 'Show contacts';
+var LG_enter_mailbox_password = 'Email password';
+var LG_request_line = '9 people like me. Find out who like you!';
+var LG_photos_for_messages_title = 'Upload your photos';
+var LG_photos_for_messages_body = 'To write messages and use more functions, upload your photos.';
+var LG_email_was_unsubscribed = 'Email was deleted and notifications were canceled.';
+var LG_wrong_password = 'Wrong password';
+var LG_use_facebook_to_login = 'You used Facebook to login. Click on Connect with Facebook.';
+var LG_loginlink_sent = 'We\'ve sent you email with instructions how to login';
+var LG_email_login_to_ilikeq = 'Login to Ilikeq';
+var LG_email_login_body = 'You\'ve requested help with logging to Ilikeq. Click on the following link to login. If you\'ve received this email unintentionally ignore it.';
+var LG_reply = 'Reply';
+var LG_inbox = 'Inbox';
+var LG_sent = 'Sent';
+var LG_upload_photos = 'Upload photos';
+var LG_notify_like = 'Notify when someone likes you';
+var LG_notify_visit = 'Notify on visit';
+var LG_notify_message = 'Notify on message';
+var LG_notify_date = 'Notify on rate';
+var LG_notify_other = 'Notify on others';
+var LG_delete_sure = 'Delete permanently profile?';
+var LG_profile_deleted = 'Profile will be deleted in 24 hours.';
+var LG_interests = 'Interests';
+var LG_profile_url = 'Profile address';
+var LG_set_profile_photo = 'Set as profile photo';
+var LG_profile_photo = 'Profile photo';
+var LG_maydate = 'Would he/she date you';
+var LG_rate = 'Rate';
+var LG_rated_photos = 'Photos rated';
+var LG_your_rates = 'Your marks';
+var LG_give_votes_first = 'First rate 20 photos';
+var LG_give_votes_first_long = 'To list your rates, rate 20 people at first. 10 is best.';
+var LG_add_your_info = 'Add info about you';
+var LG_add_your_kws = 'Add your keywords';
+var LG_keywords_desc = 'Start writing words that describe you like: football, cinema, Rihanna, sleep, ..';
+var LG_publish_on_wall = 'publish on friends timeline';
+var LG_rates_count = 'rates';
+var LG_you_rated = 'you rated';
+var LG_rate_him = 'Rate him!';
+var LG_rate_her = 'Rate her!';
+var LG_first_time = 'First time on Ilikeq?';
+var LG_all_notifications = 'All notifications';
+var LG_other_user_likes = 'Likes of user';
+var LG_how_your_friends_rate_you = 'How your friends rate you?';
+var LG_your_score = 'Your score';
+var LG_you_are = 'You are';
+var LG_maleish = 'men';
+var LG_femaleish = 'women';
+var LG_among = 'among';
+var LG_improve_your_score = 'Improve your score!';
+var LG_share_your_profile = 'Share link to your profile';
+var LG_ask_friends_for_rate = 'Ask friends to rate you';
+var LG_your_likes_count = 'Likes count';
+var LG_likes = 'likes';
+var LG_improve_likes_count = 'Get more likes!';
+var LG_ask_friends_for_likes = 'Ask friends to like you';
+var LG_select_photos = 'Select photos';
+var LG_message_sent = 'Message sent';
+var LG_message_sent_long = 'Your message was sucessfully sent.';
+var LG_you_liked = 'Liked';
+var LG_great = 'Great!';
+var LG_nine_more = 'Would you find another nine that you Like?';
+var LG_maydate_sent = 'Ok, we\'ll let her/him know.';
+var LG_first_photo_rated = 'Each time you rate a photo you\'ll be moved to another. And you see how others rated the photo.';
+var LG_wait_likes_task = 'Wait a while!';
+var LG_wait_likes_task_detail = 'Before continuing, please give Like to 10 people.';
+var LG_get_vip = 'Get VIP advantages!';
+var LG_join_us = 'Join us!';
+var LG_register_claim_1 = 'Ilikeq is worldwide community allowing to like people.';
+var LG_register_claim_2 = 'Find out who likes you, have fun and meet new friends.';
+var LG_do_you_like = 'Do you like him/her?';
+var LG_skip = 'Skip';
+var LG_signup_using_email_address = 'Enter your email address:';
+var LG_user_deleted = 'User deleted.';
+var LG_vip_till = 'Vip until';
+var LG_read = 'Read';
+var LG_who_she_liked = 'Who s/he liked?';
+var LG_facebook_profile_link = 'Facebook profile';
+var LG_no_fb_profile = 'Didn\'t allow link to Facebook';
+var LG_i_follow = 'Follow';
+var LG_you_followed = 'Followed';
+var LG_which_one_do_you_like = 'Who do you like?';
+var LG_vip_adv_1 = 'Get listed on first places in front of basic users';
+var LG_vip_adv_2 = 'Find out when your messages were read';
+var LG_vip_adv_3 = 'Send unlimited messages daily';
+var LG_vip_adv_4 = 'Find out who would date you';
+var LG_vip_adv_5 = 'Get more visits, likes and rates';
+var LG_vip_adv_6 = 'Get links to Facebook profiles (of users who allowed it)';
+var LG_vip_adv_7 = 'Enjoy Ilikeq without ads';
+var LG_vip_adv_8 = 'Have a star that shows you\'re VIP';
+var LG_vip_adv_9 = 'Change your profile background';
+var LG_vip_adv_10 = 'Get access to list of newest members';
+var LG_vip_adv_11 = 'Your messages will be listed to recepients as first';
+var LG_vip_adv_12 = 'Find out who would date you';
+var LG_browse = 'Browse';
+var LG_rate_game = 'Rate';
+var LG_like_game = 'Like';
+var LG_date_game = 'Date?';
+var LG_your_ilikeq = 'Your Ilikeq';
+var LG_want_more = 'want more?';
+var LG_average_mark = 'Your mark';
+var LG_yesterday = 'Yesterday';
+var LG_displays = 'Displays';
+var LG_i_want_more = 'I want more visits, likes, rates';
+var LG_you_photo_not_displayed_1 = 'You photo is not displayed. Mark';
+var LG_you_photo_not_displayed_2 = 'people you Like to make it displayed again.';
+var LG_rates = 'rates';
+var LG_visits = 'visits';
+var LG_name = 'Name';
+var LG_email = 'Email';
+var LG_contact_text = 'Message you want to send us';
+var LG_contact = 'Contact';
+var LG_do_you_favorite = 'Is she/he your favorite?';
+var LG_i_favorite = 'Favorite';
+var LG_i_checkout = 'Check out';
+var LG_i_wink = 'Wink';
+var LG_site_desc = 'On Ilikeq you can browse enless list of many nice phoots of beautiful boys and girls from all the world. Nice guys and ladies send their photos that can be liked. If you like some photo, click Like. It\'s trendy and stylish. Browse nice photos, enjoy fun, lifestyle.';
+var LG_site_keyws = 'dating, free online dating, meet new people, social networking, high school, college';
+var LG_add_people_you_like_to_fb = 'Show your friends who you like';
+var LG_add_people_you_like_to_fb_claim_1 = 'Add to your Facebook timeline list of photos you like.<br> Just click the button and then \'Add to profile\'';
+var LG_add_to_profile = 'Add to profile';
+var LG_month = 'month';
+var LG_months = 'months';
+var LG_for_month = 'a month';
+var LG_activate = 'activate';
+var LG_want_to_see_more = 'Want to see more?';
+var LG_find_out_who_would_date = 'Find out who would date you!';
+var LG_activate_vip_to_visible_list = 'activate VIP membership to make the list visible';
+var LG_get_more_advantages = 'get more vip advantages';
+var LG_activate_vip = 'activate VIP';
+var LG_continue = 'continue';
+var LG_ = '';
+var LG_what_is_ilikeq = 'What is Ilikeq.com?';
+var LG_ilikeq_is = 'Ilikeq is endless board of people.';
+var LG_about_1 = 'Ilikeq allows you to create list of people you like. Browse photos and mark people you like. It\'s finally possible to Like poeple. You\'ll find out if somebody likes you and if the sympathy is mutual. Make new friends, enjoy Ilikeq.';
+var LG_ready = 'Ready?';
+var LG_what_can_you_do = 'What you can do here?';
+var LG_mark_people_you_like = 'Mark people you like!';
+var LG_about_2 = 'Browse photos and mark the ones you like. You give them';
+var LG_about_3 = 'It used to be possible to like movies, bands and articles. It\'s finally possible to like people!';
+var LG_find_out_who_likes_you = 'Find out who likes you!';
+var LG_about_4 = 'Send your photo and find out who and how many people like you. It\'s that easy. Collect likes and marks. Would you beat your friends?';
+var LG_enjoy_ilikeq = 'Have fun, meet new people!';
+var LG_about_5 = 'You can write messages, let them know if you\'d go out with someone. Find people you share sympathy with.';
+var LG_our_mission = 'Our mission';
+var LG_about_6 = 'Ilikeq was founded by Kate. It\'s one of the first services close to dating that was founded by woman. Why? Because majority of those websites is founded by men and so built on men vision. But women see process of meeting new people differently. And that\'s what\'s Ilikeq about. It\'s a place where you might share your sympathies to others and is built on womens vision.';
+var LG_quest_1 = 'What is Ilikeq?';
+var LG_answer_1 = 'Ilikeq is endless board of people that you may \'Like\'. It\'s finally possible not to like only bands, movies, places and things, but also real people!';
+var LG_quest_2 = 'What is \'Like\'?';
+var LG_answer_2 = 'It\'s the same like you give on Facebook. You\'re letting everyone know that you Like the person by clicking Like. Same like you do on Facebook with movies, bands, articles, etc.';
+var LG_quest_3 = 'What\'s the list of photos for?';
+var LG_answer_3 = 'The endless list of photos shows people from your country. Each photo represents one person. You may check out her profile and click Like at the ones you like.';
+var LG_quest_4 = 'How to register?';
+var LG_answer_4 = 'Register using Facebook at <a href=\'/signup\'>this page</a>.';
+var LG_quest_5 = 'How to add photos?';
+var LG_answer_5 = 'Upload your photos <a href=\'/settings/photos\'>here</a>.';
+var LG_quest_6 = 'How to change profile photo?';
+var LG_answer_6 = 'Select your future profile photo on <a href=\'/settings/photos\'>this page</a> and click \'Set as profile photo\'';
+var LG_quest_7 = 'How to change notification settings?';
+var LG_answer_7 = 'Change notification settings <a href=\'/settings/notify\'>here</a>.';
+var LG_quest_8 = 'How to delete account?';
+var LG_answer_8 = 'You may <a href=\'/settings/delete\'>delete account</a>, but consider whether you don\'t want just <a href=\'/settings/notify\'>change notification settings.</a>';
+var LG_enter_email = 'Enter your email<br>';
+var LG_enter_gender = 'Enter your gender<br>';
+var LG_enter_birth_year = 'Enter your birt year<br>';
+var LG_enter_town = 'Enter your town<br>';
+var LG_email_welcome_subject = 'Welcome to Ilikeq';
+var LG_email_welcome_header = 'Welcome to Ilikeq!';
+var LG_email_welcome_body = 'Ilikeq is a great worldwide community. Come to see who is near you.';
+var LG_email_welcome_link = 'Meet new people';
+var LG_email_liked_subject = 'liked you';
+var LG_email_liked_header = 'liked you!';
+var LG_email_liked_body = 'clicked that he/she likes you. Let him/her know if its mutual.';
+var LG_email_liked_link = 'See who likes you';
+var LG_email_visited_subject = 'visited you';
+var LG_email_visited_header = 'visited you!';
+var LG_email_visited_body = 'visited your profile and checked your details. Find out more about him/her.';
+var LG_email_visited_link = 'See who visited you';
+var LG_email_dated_subject = 'answered about dating you';
+var LG_email_dated_header = 'answered about dating you!';
+var LG_email_dated_body = 'answered if she/he would go on a date with you. Let him/her know if its mutual.';
+var LG_email_dated_link = 'See who wants to date you';
+var LG_email_messaged_subject = 'sent you a message';
+var LG_email_messaged_header = 'sent you a message!';
+var LG_email_messaged_body = 'wrote you a message on Ilikeq. Let\'s read it.';
+var LG_email_messaged_link = 'Read message';
+var LG_email_rated_subject = 'rated you';
+var LG_email_rated_header = 'rated you!';
+var LG_email_rated_body = 'rated you on Ilikeq. Find out what mark you received.';
+var LG_email_rated_link = 'Find out rating';
+var LG_tut_1 = '<h1>Welcome to Ilikeq!</h1><hr>I would like to shortly show you what is Ilikeq about.';
+var LG_tut_2 = '<h1>Ilikeq allows you to Like people.</h1>';
+var LG_tut_3 = '<h1>And others may Like you.</h1>';
+var LG_tut_4 = '<h1>Each box shows one user.</h1>';
+var LG_tut_5 = '<h1>Another...</h1>';
+var LG_tut_6 = '<h1>And another...</h1>';
+var LG_tut_7 = '<h1>And another.. There is loads of them.</h1>';
+var LG_tut_8 = '<h1>You may scroll on and on.</h1>';
+var LG_tut_9 = '<h1>List will never end.</h1>';
+var LG_tut_10 = '<h1>If you like someone, click on \'Like\'</h1>';
+var LG_tut_11 = '<h1>Or visit her profile</h1>';
+var LG_tut_12 = '<h1>Do you like her?</h1>';
+var LG_tut_13 = '<h1>And her?</h1>';
+var LG_tut_14 = '<h1>You\'ll find out who likes you here.</h1>';
+var LG_tut_15 = '<h1>Enjoy, Like and collect likes.</h1>';
+								
+		 </script>
+	
+		
+
+		
+
+
+
+
+</div></body></html>
