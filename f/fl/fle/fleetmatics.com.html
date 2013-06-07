@@ -1,22 +1,19 @@
-<!--The following is the downloaded HTML source of the fleetmatics.com privacy policy that was archived on 2012-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120408033257id_/http%3A//www.fleetmatics.com/fleetmatics-privacy-policy/21) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fleetmatics.com privacy policy that was archived on 2013-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130607135004id_/http%3A//www.fleetmatics.com/fleetmatics-privacy-policy/21) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-
-	
-	<title>Privacy Policy</title>
-	
-
-	<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+<!DOCTYPE html><html><head>
 		
-	<meta name="keywords" content="Privacy Policy">
-	<meta name="description" content="Privacy Policy">
+	<title>Privacy Policy - Fleetmatics</title>	
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">	
+	<meta name="keywords" content="">
+	<meta name="description" content="This page outlines Fleetmatics' privacy policy.">
 	
 	<meta name="author" content="Design and built by Enhance.ie"> 
-    	<meta name="copyright" content="Copyright (c) 2011 www.fleetmatics.com">
+    	<meta name="dcterms.rightsHolder" content="Copyright (c) 2011 www.fleetmatics.com">
 
-			
-		<meta name="robots" content="index,follow">
+			<meta name="robots" content="noindex,nofollow">
 		
 	<meta name="revisit-after" content="5 days">
 	
@@ -25,22 +22,79 @@
 	<meta name="google-site-verification" content="v3ErB91noYT9ITWbh6atkZUrA9_ClK-I4WXLt4p0Ffs">
 	<meta name="msvalidate.01" content="208999400EC2FA576A3642A1CD02A0BA">
 	<meta name="bitly-verification" content="5547583241e3">
-	
+
 	<meta http-equiv="Cache-control" content="Public">
-	<meta http-equiv="Expires" content="Tue, 08 May 2012 04:32:57 GMT">
-	<meta http-equiv="Last-Modified" content="Sun, 01 Apr 2012 04:32:57 GMT">
+			<meta http-equiv="Expires" content="Sun, 07 Jul 2013 14:50:04 GMT">
+		<meta http-equiv="Last-Modified" content="Fri, 31 May 2013 14:50:04 GMT">
 	
 	<link rel="SHORTCUT ICON" href="/favicon.ico">
+		
+	<link rel="alternate" hreflang="en-US" href="http://www.fleetmatics.com/privacy-policy/126">
+<link rel="alternate" hreflang="en-UK" href="http://www.fleetmatics.co.uk/privacy-policy/29">
+<link rel="alternate" hreflang="en-IE" href="http://www.fleetmatics.ie/privacy-policy/507">
 	
 	<!-- style -->
 	<link type="text/css" rel="stylesheet" href="/design/fleetmatics.css">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.5.1.min.js"></script>
+		
+	<script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script type="text/javascript" async="" src="https://assets.infinity-tracking.net/nas/js/nas.v1.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/js/jquery-1.5.1.min.js"></script>
 	<script type="text/javascript">jQuery.noConflict();</script>
+	<script type="text/javascript" src="/js/languageswitcher.js"></script>
+	<script type="text/javascript">
+		jQuery(function(){
+			  jQuery('#country-options').bind('change', function () {
+				  var url = jQuery(this).val(); 
+				  if (url) { 
+					  window.location = url;
+				  }
+				  return false;
+			  });
+		});
+	</script>
 	
-	<script type="text/javascript" src="/js/front_hover.js"></script>
-	    	<script type="text/javascript" src="/js/front_functions.js"></script>
-    	<!--[if lt IE 9]><script type="text/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	
+		<script type="text/javascript">
+		jQuery(document).ready(function(){
+									
+			//If the URL does not equal to root url then add the class "external" to the link
+			jQuery("#content a[href!='http://www.fleetmatics.com/']").addClass('externallink');
+			
+			jQuery("#content a[href='']").removeClass('externallink').addClass('internallink');
+			jQuery("#content a[href='/']").removeClass('externallink').addClass('internallink');
+			
+			jQuery("#content a[href*='.fleetmatics.com']").removeClass('externallink').addClass('internallink');
+			
+			jQuery("#content a[href^='../../../']").removeClass('externallink').addClass('internallink');
+			
+			//If the URL is an anchor(contains "#" in the path) then add the class "internal" to the link
+			jQuery("#content a[href*='#']").removeClass('externallink').addClass('internallink');
+			
+			jQuery("#content a[href='javascript:;']").removeClass('externallink').addClass('internallink');
+			
+			//If the URL is a "mailto:" tag (to send an email) then add the class "internal" to the link
+			jQuery("#content a[href^='mailto']").removeClass('externallink').addClass('internallink');
+			
+			//If the hyperlink has an IMG element beneath the a element then add the class "externalimage" to remove the icon
+			jQuery("#content div a img").each(function(){jQuery(this).parent().removeClass("externallink").addClass("externalimage");});
+			
+			//When an external link is clicked pop-up the exiting site message
+			jQuery(".externallink").click(function(){
+				return confirm('You are now leaving the FleetMatics website. Do you wish to continue?');
+			});
+			
+			//When a hyperlinked image is clicked pop-up the exiting site message
+			/*
+			jQuery(".externalimage").click(function(){
+				return confirm('You are now leaving the FleetMatics website. Do you wish to continue?');
+			});	
+			*/
+			
+			return false;
+
+		});
+	</script> 
+		
+		
+	    
+	<!--[if lt IE 9]><script type="text/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 	<script type="text/javascript" src="/js/easySlider1.7.js"></script>
 		
 			<script type="text/javascript">   
@@ -56,20 +110,12 @@
 			});
 		</script>
 		
+		
 	<!-- http://code.google.com/p/swfobject/wiki/documentation -->
 	<script type="text/javascript" src="/js/swfobject/swfobject.js"></script> 
 	
-		<script type="text/javascript" src="http://twitterjs.googlecode.com/svn/trunk/src/twitter.min.js"></script>
-	<script type="text/javascript">
-	getTwitters('twitters', { 
-	  id: 'fleetmatics', 
-	  count: 2, 
-	  enableLinks: true, 
-	  ignoreReplies: true, 
-	  clearContents: true,
-	  template: '<h4>%text%</h4><p><a href="http://twitter.com/%user_screen_name%/statuses/%id_str%/">%time%</a></p>'
-	});
-	jQuery(document).ready(function() {
+			<script type="text/javascript">
+		jQuery(document).ready(function() {
 
 		jQuery('#form_first_item').focus();
 		jQuery('#story_title').focus();
@@ -99,22 +145,67 @@
 		</style>
 		
 		
+		
 	<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-2100663-8']);
-  _gaq.push(['_setDomainName', '.fleetmatics.com']);
+  _gaq.push(['_setDomainName', 'fleetmatics.com']);
+_gaq.push(['_setAllowLinker', true]);
   _gaq.push(['_trackPageview']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
 </script>
-<script type="text/javascript">var _kiq = _kiq || [];</script>
-<script type="text/javascript" src="//s3.amazonaws.com/ki.js/33694/6y7.js" async="true"></script>		
+
+
+
+<script type="text/javascript">
+    var _elqQ = _elqQ || [];
+    _elqQ.push(['elqSetSiteId', '519780151']);
+    _elqQ.push(['elqTrackPageView']);
+    
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+            s.src = '//img.en25.com/i/elqCfg.min.js';
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+        else if (window.attachEvent) window.attachEvent('onload', async_load); 
+    })();
+</script>
+
+<!-- Infinity Tracking Code v1.30
+Copyright Infinity Tracking 2011
+www.Infinity-Tracking.com -->
+<script type="text/javascript">
+    var _ictt = _ictt || [];
+    _ictt.push(['_setIgrp', '442']); // Installation ID
+    _ictt.push(['_setDgrp', ['4513',Array('PhoneNumber4513')]]);
+    _ictt.push(['_enableOverrideMode']);
+    _ictt.push(['_enableGAIntegration']);
+    _ictt.push(['_autoPopulateInput', {'id':'00N60000002WuNA', 'item':'ictvid'}]);
+    _ictt.push(['_track']);
+(function() {
+    var ict = document.createElement('script'); ict.type = 'text/javascript'; ict.async = true;
+    ict.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'assets.infinity-tracking.net/nas/js/nas.v1.min.js';
+    var scr = document.getElementsByTagName('script')[0]; scr.parentNode.insertBefore(ict, scr);
+})();
+</script>
+<!-- Infinity Tracking Code End -->
+		
+	<!--[if gte IE 8]>
+	<style type="text/css">
+		.grid_4 {margin-top:60px; overflow:visible;}
+	</style>
+	<![endif]-->
+		
+		
 </head>
 
 <body>
@@ -124,514 +215,340 @@
 
 <!-- header -->
 
-<nav id="top-nav">
-	<div id="top-wrapper">
- 			<div class="search">
-	<form action="/search" method="get"><div>
-		<input type="hidden" name="quick_search" value="1"> 
-		<input type="hidden" name="new_search" value="1"> 
-		<input type="text" class="search" maxlength="30" value="" name="word" id="inpubox">
-		<input type="submit" class="search_but" value="Search" id="submits"> 		 
-	</div></form>
-</div>
-	  
-	<a class="customer_login" target="_self" href="http://www.fleetmatics-usa.com/" onclick="_gaq.push(['_trackEvent', 'Login', 'Login', 'Fleetmatics CO UK Customer Login']);" title="Customer Login">Customer Login</a>
-		
-    	    	<ul>
-					
-						<li><a href="http://www.fleetmatics.com/about-us/18" title="About Us">About Us</a></li>				
-					
-						<li><a href="http://www.fleetmatics.com/contact-us/19" title="Contact Us">Contact Us</a></li>				
-					
-						<li><a href="http://www.fleetmatics.com/countries/50" title="Countries">Countries</a></li>				
-					
-						<li><a href="http://www.fleetmatics.com/careers/20" title="Careers">Careers</a></li>				
-					
-						<li><a href="http://www.fleetmatics.com/support/22" title="Support">Support</a></li>				
-				<li><a href="http://www.fleetmatics.com/blog" class="last" title="Blog">Blog</a></li>
-	</ul>
-		    
-	</div><!-- end #top-wrapper -->
-</nav><!-- end #top-nav -->
-
 <header>
-	<div id="header-wrapper">
-	    <h1 id="branding"><a href="/" title="Fleetmatics Vehicle Tracking System">Fleetmatics Vehicle Tracking System</a></h1>
-	    <ul id="header-contact">
-		<li class="contact-button">Call Us: 1-866-844-2235</li>
-		<!--<li><a href="#" title="Chat with us" class="chat-button">Live Support Online</a></li>-->
-				
-					<li><a href="http://www.fleetmatics.com/demo" title="Get a Demo" class="chat-button2">Get a Demo</a></li>
-			
-	    </ul><!-- end #header-contact -->
-	    <span class="clear"></span>
-	</div><!-- end #header-wrapper -->
+<div class="inner">
+	<h1 id="branding"><a href="http://www.fleetmatics.com/" title="Fleetmatics Vehicle Tracking System"><img src="http://www.fleetmatics.com/design/images/logo.png" alt="Fleet Tracking by Fleetmatics"></a></h1>
 	
+	
+		<div id="top">
+		<div id="country-select" class="lang">
+			<form action="#" style="display: none;">
+				<fieldset>
+					<select id="country-options" name="lang">
+													<option selected="selected" title="http://www.fleetmatics.com/" value="us">US</option>
+													<option title="http://www.fleetmatics.co.uk/" value="uk">UK</option>
+													<option title="http://www.fleetmatics.ie/" value="ie">IE</option>
+													<option title="http://sbm-dev.selfip.com/sbm/fleetmatics-mexic/" value="mx">MX</option>
+													<option title="http://sbm-dev.selfip.com/sbm/fleetmatics-canada/" value="ca">CA</option>
+												<option title="http://www.fleetmatics.com/canada" value="ca">Canada</option>
+					</select>
+				</fieldset>
+			</form>
+		<dl id="target" class="dropdown"><dt class="us"><a href="#"><span class="flag"></span><em>US</em></a></dt><dd><ul><li class="us"><a href="http://www.fleetmatics.com/"><span class="flag"></span><em>US</em></a></li><li class="uk"><a href="http://www.fleetmatics.co.uk/"><span class="flag"></span><em>UK</em></a></li><li class="ie"><a href="http://www.fleetmatics.ie/"><span class="flag"></span><em>IE</em></a></li><li class="mx"><a href="http://sbm-dev.selfip.com/sbm/fleetmatics-mexic/"><span class="flag"></span><em>MX</em></a></li><li class="ca"><a href="http://sbm-dev.selfip.com/sbm/fleetmatics-canada/"><span class="flag"></span><em>CA</em></a></li><li class="ca"><a href="http://www.fleetmatics.com/canada"><span class="flag"></span><em>Canada</em></a></li></ul></dd></dl></div><!-- end lang select -->
+	
+					<nav id="top-nav"> 
+			<ul>
+							
+										<li><a href="http://www.fleetmatics.com/about-us/18" title="About Us">About Us</a></li>				
+							
+										<li><a href="http://www.fleetmatics.com/investors/50" title="Investors">Investors</a></li>				
+							
+										<li><a href="http://www.fleetmatics.com/contact-us/19" title="Contact us">Contact us</a></li>				
+							
+										<li><a href="http://www.fleetmatics.com/careers/20" title="Careers">Careers</a></li>				
+							
+										<li><a href="http://www.fleetmatics.com/free-demo/1055" title="Free Demo">Free Demo</a></li>				
+							
+										<li><a href="http://www.fleetmatics.com/resources/10" title="Resources">Resources</a></li>				
+								<li><a href="http://www.fleetmatics.com/blog" class="last" title="Blog">Blog</a></li>
+			</ul>
+			</nav><!-- end #top-nav -->
+			
+		<div class="contact_top">
+			<div class="tel"><span>Call us</span> <br><div class="PhoneNumber4513">1-866-844-2235</div></div>
+			<div class="help">
+								<a target="_self" href="http://www.fleetmatics-usa.com/" title="Customer Login" onclick="_gaq.push(['_trackEvent', 'Login', 'Login', 'Fleetmatics US Customer Login']);_gaq.push(['_link', 'http://www.fleetmatics-usa.com']); return false;">Customer Login</a>
+							</div>
+		</div><!-- end contact info-->
+	</div><!-- end top -->
+	
+	</div>
 </header><!-- end header -->
-
 
 <nav id="main-nav">
 	<ul id="main-nav-wrapper">
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																		<li class="main-menu-item">
-					<a href="http://www.fleetmatics.com/our-gps-tracking-system" title="Our GPS Tracking System">Our GPS Tracking System</a>
+				<li class="home"><a href="http://www.fleetmatics.com/" title="Fleetmatics Vehicle Tracking System">&nbsp;</a></li>
+		
+								<li class="main-menu-item">
+				<a href="http://www.fleetmatics.com/our-gps-tracking-system" title="How it works">How it works</a>					
+			</li>				
+								<li class="main-menu-item">
+				<a href="http://www.fleetmatics.com/why-fleet-tracking/2" title="How it helps">How it helps</a>					
+			</li>				
+								<li class="main-menu-item">
+				<a href="http://www.fleetmatics.com/getting-started/981" title="Getting started">Getting started</a>					
+			</li>				
+								<li class="main-menu-item">
+				<a href="http://www.fleetmatics.com/testimonials/9" title="Our customers">Our customers</a>					
+			</li>				
 				
-					<!-- submenu -->
-										
-											<div class="sub button-01" style="opacity: 0;">				
-						
-																																			
-								<ul>
-																
-																						
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/fleet-dashboard/3" title="Fleet Tracking Dashboard" target="_self">Fleet Tracking Dashboard</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/fleet-management-reports/34" title="Fleet Reports" target="_self">Fleet Reports</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/activity-alerts/35" title="GPS Fleet Tracking Alerts" target="_self">GPS Fleet Tracking Alerts</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/route-replay/33" title="Route Replay" target="_self">Route Replay</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/landmark-and-geofences/36" title="Geofencing and Landmarks" target="_self">Geofencing and Landmarks</a></li>
-							
-																												</ul>								
-								<ul>
-																
-																						
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/fuel-card-integration/60" title="Fuel Card Integration" target="_self">Fuel Card Integration</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/live-fleet/661" title="Live Fleet" target="_self">Live Fleet</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/industry-benchmarks/669" title="Industry Benchmarks" target="_self">Industry Benchmarks</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/fleet-maintenance-reports/77" title="Fleet Maintenance Reports" target="_self">Fleet Maintenance Reports</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/traffic-and-roadwork-alerts/615" title="Traffic and Roadwork Alerts" target="_self">Traffic and Roadwork Alerts</a></li>
-							
-																												</ul>								
-								<ul>
-																
-																						
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/garmin-integration/76" title="Garmin Integration for Dispatch" target="_self">Garmin Integration for Dispatch</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/fleetmatics-mobile-app/551" title="FleetMatics Mobile App" target="_self">FleetMatics Mobile App</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/driver-id/570" title="Driver ID" target="_self">Driver ID</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/digital-inputs-ptos-and-more/822" title="Digital Inputs: PTOs and More" target="_self">Digital Inputs: PTOs and More</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/panic-button/823" title="Panic Button" target="_self">Panic Button</a></li>
-							
-																			
-						</ul></div>			
-						
-				</li>				
-				
-																				<li class="main-menu-item">
-					<a href="http://www.fleetmatics.com/why-fleet-tracking/2" title="Why Fleet Tracking?">Why Fleet Tracking?</a>
-				
-					<!-- submenu -->
-										
-											<div class="sub button-02" style="opacity: 0;">				
-						
-																																			
-								<ul>
-																
-																						
-							<li><a href="http://www.fleetmatics.com/why-fleet-tracking/increase-productivity/38" title="Increase Productivity" target="_self">Increase Productivity</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/why-fleet-tracking/reduce-labor-costs/93" title="Reduce Fleet Labor Costs" target="_self">Reduce Fleet Labor Costs</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/why-fleet-tracking/control-fuel-costs/37" title="Control Fleet Fuel Costs" target="_self">Control Fleet Fuel Costs</a></li>
-							
-																												</ul>								
-								<ul>
-																
-																						
-							<li><a href="http://www.fleetmatics.com/why-fleet-tracking/improve-customer-service/41" title="Improve Customer Service" target="_self">Improve Customer Service</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/why-fleet-tracking/increase-security/40" title="Increase Fleet Security &amp; Safety" target="_self">Increase Fleet Security &amp; Safety</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/why-fleet-tracking/reduce-operating-expenses/39" title="Reduce Fleet Operating Expenses" target="_self">Reduce Fleet Operating Expenses</a></li>
-							
-																												</ul>								
-								<ul>
-																
-																						
-							<li><a href="http://www.fleetmatics.com/why-fleet-tracking/going-green/99" title="Going Green" target="_self">Going Green</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/reduce-unauthorized-vehicle-use/97" title="Reduce Unauthorized Use" target="_self">Reduce Unauthorized Use</a></li>
-							
-																			
-						</ul></div>			
-						
-				</li>				
-				
-																				<li class="main-menu-item">
-					<a href="http://www.fleetmatics.com/testimonials/9" title="Testimonials">Testimonials</a>
-				
-					<!-- submenu -->
-										
-											<div class="sub button-03" style="opacity: 0;">				
-						
-																																			
-								<ul>
-																
-																	<li><h3>Customer Results</h3></li>
-																						
-							<li><a href="http://www.fleetmatics.com/testimonials/customer-results-by-fleet-size/62" title="By Fleet Size" target="_self">By Fleet Size</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/testimonials/customer-results-by-industry/63" title="By Industry" target="_self">By Industry</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/connect" title="Customer-Submitted Stories" target="_self">Customer-Submitted Stories</a></li>
-							
-																												</ul>								
-								<ul>
-																
-																	<li><h3>Case Studies</h3></li>
-																						
-							<li><a href="http://www.fleetmatics.com/testimonials/case-studies-by-fleet-size/81" title="By Fleet Size" target="_self">By Fleet Size</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/case-studies-by-industry/82" title="By Industry" target="_self">By Industry</a></li>
-							
-																												</ul>								
-								<ul>
-																
-																	<li><h3>Videos</h3></li>
-																						
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/customer-videos-by-fleet-size/84" title="By Fleet Size" target="_self">By Fleet Size</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/customer-videos-by-industry/83" title="By Industry" target="_self">By Industry</a></li>
-							
-																			
-						</ul></div>			
-						
-				</li>				
-				
-																				<li class="main-menu-item menu-last">
-					<a href="http://www.fleetmatics.com/resources/10" title="Resources">Resources</a>
-				
-					<!-- submenu -->
-										
-											<div class="sub button-04" style="opacity: 0;">				
-						
-																																			
-								<ul>
-																
-																	<li><h3>Library</h3></li>
-																						
-							<li><a href="http://www.fleetmatics.com/blog/" title="Blog" target="_self">Blog</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/articles" title="Articles" target="_self">Articles</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/resources/white-papers/140" title="White Papers" target="_self">White Papers</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/frequently-asked-questions-about-gps-tracking/144" title="Frequently Asked" target="_self">Frequently Asked</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/truck-tracking" title="Truck Tracking &amp; Your Business" target="_self">Truck Tracking &amp; Your Business</a></li>
-							
-																												</ul>								
-								<ul>
-																
-																	<li><h3>Tools</h3></li>
-																						
-							<li><a href="http://www.fleetmatics.com/resources/fleet-savings-calculator/43" title="Fleet Savings Calculator" target="_self">Fleet Savings Calculator</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/gps-tracking-buyers-guide" title="Fleet Tracking Buyer's Guide" target="_self">Fleet Tracking Buyer's Guide</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/resources/industry-links/57" title="Fleet Management Links" target="_self">Fleet Management Links</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/fleetfactor" title="FleetFactor Email" target="_self">FleetFactor Email</a></li>
-							
-																												</ul>								
-								<ul>
-																
-																	<li><h3>Press Room</h3></li>
-																						
-							<li><a href="http://www.fleetmatics.com/news" title="Latest News" target="_self">Latest News</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/resources/fleetmatics-in-the-news/151" title="FleetMatics in the News" target="_self">FleetMatics in the News</a></li>
-							
-																											
-							<li><a href="http://www.fleetmatics.com/news/archive" title="News Archive" target="_self">News Archive</a></li>
-							
-																			
-						</ul></div>			
-						
-				</li>				
-				
-																
+		<li class="main-menu-item ">
+			<a href="http://www.fleetmatics.com/demo" title="Get a Demo">Get a demo</a>	
+		</li>
+		
+		<li class="last">
+			<form action="/search" method="get" name="quick_search_form" id="quick_search_form"><div>
+	<input type="hidden" name="quick_search" value="1"> 
+	<input type="hidden" name="new_search" value="1"> 
+	<input type="text" class="search" maxlength="30" value="" name="word" id="inpubox">
+	<input type="submit" class="search_but" value="" id="submits"> 		 
+</div></form>
+		</li>
+		
 	</ul>
 </nav><!-- end #main-nav -->
+
 	
 			
 
-<section id="main-content">
-        <div id="content-wrapper">		
-					<!-- When sidebar is inactive id needs to change to "content-full" -->
+
+
+	<section id="content">
+
+				
+			<div class="col_1">
+			
+
+	<nav>
+		<ul>			
+						
+				<li>
+												
+					<a class="active internallink" href="javascript:;" onclick="jQuery('#menu_213').toggle();" title="+ About us">+ About us</a>
+					
+																	<ul id="menu_213" style="padding-left:15px">
+						
+																				<li><a href="http://www.fleetmatics.com/company-profile" title="Company Profile" class="internallink">Company Profile</a></li>
+																				<li><a href="http://www.fleetmatics.com/leadership-team" title="Leadership Team" class="internallink">Leadership Team</a></li>
+																				<li><a href="http://www.fleetmatics.com/news" title="Latest News" class="internallink">Latest News</a></li>
+																				<li><a href="http://www.fleetmatics.com/news/archive" title="News Archive" class="internallink">News Archive</a></li>
+																				<li><a href="http://www.fleetmatics.com/careers/20" title="Careers" class="internallink">Careers</a></li>
+																				<li><a href="http://www.fleetmatics.com/associations" title="Associations" class="internallink">Associations</a></li>
+																				<li><a class="active internallink" href="http://www.fleetmatics.com/privacy-policy/126" title="Privacy Policy">Privacy Policy</a></li>
+												
+						</ul>
+										
+				</li>			
+					</ul>
+	</nav>
+
+<aside>
+	<div class="quest">
+		<h3>
+	Any Questions?</h3>
+<p>
+	<img alt="help" src="/ckeditor_uploads/images/help.jpg"></p>
+<p>
+	Check our <a href="http://www.fleetmatics.com/our-gps-tracking-system/frequently-asked-questions-about-gps-tracking/144" title="FAQs" class="internallink">FAQs</a></p>
+<p>
+	Try our <a href="http://www.fleetmatics.com/chat-with-us-online" title="Live chat" class="internallink">Live chat</a></p>
+	</div>
+</aside>
+		</div>
+				
+					
+		<!-- When sidebar is inactive id needs to change to "content-full" -->
 	<article id="content-default">
 
-		<em>
-			
-					<a href="/" title="Fleet Tracking">Fleet Tracking</a>
-		
-			
-					» FleetMatics Privacy Policy		
-		</em>
-            
+	            
 	
-	<h1>FleetMatics Privacy Policy</h1>
 		
-	
+			<h1>Privacy Policy</h1>
+		
+		
 	
 
 		
 		
 		
-			<h2>
-	FleetMatics Privacy Policy</h2>
+			<p>
+	This webpage depicts Fleetmatics’ Privacy Policy in regard to the collection and usage of personal or corporate information that you may provide to us. By exploring or using our web site, and by submitting information, you agree to Fleetmatics’ usage of such information as described herein.<br>
+	<br>
+	Fleetmatics is the sole owner of the information collected on this website. We will not sell to, or share this information with, third parties in ways different from what is disclosed in this statement. Fleetmatics collects information from our users at several different points on the website.</p>
+<h3>
+	Information Captured in Web Forms</h3>
 <p>
-	This webpage depicts FleetMatics’ Privacy Policy in regard to the collection and usage of personal or corporate information that you may provide to us. By exploring or using our web site, and by submitting information, you agree to FleetMatics’ usage of such information as described herein.<br>
-	FleetMatics is the sole owner of the information collected on this website. We will not sell to, or share this information with, third parties in ways different from what is disclosed in this statement. FleetMatics collects information from our users at several different points on the website.</p>
-<h2>
-	Cookies</h2>
+	Through the use of user-completed Web forms on our Web site, we may collect the following:</p>
 <p>
-	FleetMatics may use browser cookies on this website to keep track of your visit. A "cookie" is a small amount of data that is sent from a Web server to your browser and stored on your computer's hard drive. Use of cookies may allow FleetMatics to provide a higher quality, more relevant, customer experience. Use of cookies may also allow us to automate entry into password protected portions of our website so that you will not need to re-enter your password each time you visit our Site. We may also use cookies to track which areas of our website are most popular with our users. With most Internet Browsers, however, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored on your computer. Please refer to your browser instructions or a help screen to learn more about these functions and how to use them. Please be advised that certain sections or functionalities of our website may be inaccessible to you if your browser does not accept cookies.</p>
-<h2>
-	Use of Web Beacons</h2>
+	&nbsp;</p>
+<ul>
+	<li>
+		Name</li>
+	<li>
+		Company</li>
+	<li>
+		Country</li>
+	<li>
+		State/Province</li>
+	<li>
+		Email</li>
+	<li>
+		Phone</li>
+	<li>
+		Fleet SIze</li>
+	<li>
+		Individual comments</li>
+</ul>
+<div>
+	Any information provided by a user is used to communicate directly with that user and is never shared outside of Fleetmatics. The data is stored securely in SalesForce.com. Users may request to no longer be contacted &nbsp;and we will honor any such requests. In addition, users&nbsp;have a clear option to unsubscribe from any email communications and we will honor any such requests.</div>
+<h3>
+	Cookies</h3>
+<p>
+	Fleetmatics may use browser cookies on this website to keep track of your visit. A "cookie" is a small amount of data that is sent from a Web server to your browser and stored on your computer's hard drive. Use of cookies may allow Fleetmatics to provide a higher quality, more relevant, customer experience. Use of cookies may also allow us to automate entry into password protected portions of our website so that you will not need to re-enter your password each time you visit our Site. We may also use cookies to track which areas of our website are most popular with our users. With most Internet Browsers, however, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored on your computer. Please refer to your browser instructions or a help screen to learn more about these functions and how to use them. Please be advised that certain sections or functions of our website may be inaccessible to you if your browser does not accept cookies.</p>
+<h3>
+	Use of Web Beacons</h3>
 <p>
 	When we send you emails, we may include a web beacon to allow us to determine the number of people who open our emails. When you click on a link in an email, we may record this individual response to allow us to customize our offerings to you. Web beacons collect only limited information, such as a cookie identifier, time and date of a page being viewed, and a description of the page on which the Web Beacon resides (the URL).<br>
+	<br>
 	Web Beacons can be refused when delivered via email. If you do not wish to allow Web Beacons via email, you will need to disable HTML images or refuse HTML (select Text only) emails via your email software.</p>
-<h2>
-	Links</h2>
+<h3>
+	Links</h3>
 <p>
-	FleetMatics.com contains links to external sites, including our partners’ websites and others. These websites are not governed by this Privacy Policy, and we do not take responsibility for the privacy practices of any third-party websites to which we link.<span _fck_bookmark="1" style="display: none;">&nbsp;</span><span _fck_bookmark="1" id="cke_bm_93S" style="display: none;">&nbsp;</span></p>
-<p>
-	Sharing and Usage of Your Personal Information<span _fck_bookmark="1" id="cke_bm_93E" style="display: none;">&nbsp;</span><span _fck_bookmark="1" style="display: none;">&nbsp;</span></p>
+	Fleetmatics.com contains links to external sites, including our partners’ websites and others. These websites are not governed by this Privacy Policy, and we do not take responsibility for the privacy practices of any third-party websites to which we link.</p>
+<h3>
+	Sharing and Usage of Your Personal Information</h3>
 <p>
 	We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. This information is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information.</p>
-<h2>
-	Compliance with Law</h2>
-<p>
-	FleetMatics complies with all applicable privacy laws and regulations. We may be compelled to surrender personal user or customer information to United States or other legal authorities without expressed user consent if presented with a court subpoena or similar legal order, or as required or permitted by the laws, rules and regulations of any nation, state or other applicable jurisdiction. In the event of a violation of the terms and conditions of usage of this website or a violation of any restrictions on usage of materials provided in or through this website, we may disclose personal user information to our affected business partners or legal authorities.</p>
-<h2>
-	Children’s Online Information Policy</h2>
-<p>
-	FleetMatics understands the importance of protecting children's privacy, particularly with their online interactions. This website is not designed for and does not intentionally target or solicit anyone younger than 18 years.</p>
-<p>
-	Individuals who wish to make an access request or remove personal information from our records or if you have any questions in regard to this policy or believe that FleetMatics has not complied with the provisions of this policy, should submit such a request by sending an email to us at info@fleetmatics.com.<br>
-	FleetMatics is also subject to the jurisdiction of the U.S. Federal Trade Commission. The Federal Trade Commission may be contacted at the following address:</p>
 <h3>
-	Federal Trade Commission</h3>
+	Compliance with Law</h3>
 <p>
-	<strong>Attn: Consumer Response Center</strong><br>
+	Fleetmatics complies with all applicable privacy laws and regulations. We may be compelled to surrender personal user or customer information to United States or other legal authorities without expressed user consent if presented with a court subpoena or similar legal order, or as required or permitted by the laws, rules and regulations of any nation, state or other applicable jurisdiction. In the event of a violation of the terms and conditions of usage of this website or a violation of any restrictions on usage of materials provided in or through this website, we may disclose personal user information to our affected business partners or legal authorities.</p>
+<h3>
+	Children’s Online Information Policy</h3>
+<p>
+	Fleetmatics understands the importance of protecting children's privacy, particularly with their online interactions. This website is not designed for and does not intentionally target or solicit anyone younger than 18 years.<br>
+	<br>
+	Individuals who wish to make an access request or remove personal information from our records or if you have any questions in regard to this policy or believe that Fleetmatics has not complied with the provisions of this policy, should submit such a request by sending an email to us at info@fleetmatics.com.<br>
+	<br>
+	Fleetmatics is also subject to the jurisdiction of the U.S. Federal Trade Commission. The Federal Trade Commission may be contacted at the following address:<br>
+	<br>
+	Federal Trade Commission<br>
+	Attn: Consumer Response Center<br>
 	600 Pennsylvania Avenue NW<br>
 	Washington, DC 20580<br>
-	consumerline@ftc.gov<br>
-	www.ftc.gov</p>	
+	<a href="mailto:consumerline@ftc.gov" class="internallink">consumerline@ftc.gov</a><br>
+	<a href="http://www.ftc.gov" class="externallink">www.ftc.gov</a></p>	
 
+		
 		
 	
 </article>
 <!-- end Main Content -->
 
+		
+			<div class="col_3">
+			<aside>
 				
-					<aside id="sidebar">
-	
-	
 					
+					
+			<div class="sidebar-item">
+							
+			
+				<!-- text -->
+									<div class="grad">
+	<div id="lpchat">
+		Click to Chat Live</div>
+</div>							
+
+				<!-- youtube -->
+							
+				<!-- slideshow -->
+							</div>
 								
 			<div class="sidebar-item">
 							
 			
 				<!-- text -->
-									<div id="lpchat">
-	Chat</div>							
-
-				<!-- youtube -->
-							
-				<!-- slideshow -->
-							</div>
-											
-			<div class="sidebar-item">
-							
-			
-				<!-- text -->
-									<h2>
-	Free Live Demo</h2>
-<h5>
-	Get a demo of FleetMatics<br>
-	GPS Tracking in action</h5>
-<p>
-	<a href="http://www.fleetmatics.com/demo"><img alt="GPS Tracking Demo" src="http://www.fleetmatics.com/ckeditor_uploads/images/buttons/demo-sidebar-03.png" style="width: 279px; height: 101px; border-width: 0px; border-style: solid;"></a></p>							
-
-				<!-- youtube -->
-							
-				<!-- slideshow -->
-							</div>
-											
-			<div class="sidebar-item">
-							
-			
-				<!-- text -->
-									<h2>
-	Get an eQuote</h2>
-<h5>
-	We'll provide a quote<br>
-	based on your needs</h5>
-<p>
-	<a href="http://www.fleetmatics.com/equote"><img alt="GPS Fleet Tracking Quote" src="http://www.fleetmatics.com/ckeditor_uploads/images/equote-sidebar-01.png" style="width: 279px; height: 101px; border-width: 0px; border-style: solid;"></a></p>							
+									<div class="grad">
+	<a href="http://www.fleetmatics.com/demo" class="internallink externalimage"><img alt="power" class="right_side_img" src="http://www.fleetmatics.com/ckeditor_uploads/images/right_side/desktop.png" style="width: 185px; height: 140px; border-width: 0px; border-style: solid; float: right;"></a>
+	<h3>
+		<a href="http://www.fleetmatics.com/demo" class="internallink">Get a free, live demo</a></h3>
+	<p>
+		All the tools without all the hassle. Get up and running with Fleetmatics right away.</p>
+</div>							
 
 				<!-- youtube -->
 							
 				<!-- slideshow -->
 							</div>
 					
+	</aside><!-- end Sidebar -->
+		</div>
 		
-	<ul id="social">
-            <li><a href="http://www.facebook.com/fleetmatics" title="Follow Us On Facebook" target="_blank" class="facebook">Facebook</a></li>
-            <li><a href="http://www.twitter.com/fleetmatics" title="Follow Us On Twitter" target="_blank" class="twitter">Twitter</a></li>
-            <li><a href="http://www.linkedin.com/company/44361" title="Follow Us On LinkedIn" target="_blank" class="linkedin">LinkedIn</a></li>
-            <li><a href="http://www.fleetmatics.com/blog" title="Follow Our Blog" target="_blank" class="blog">Blog</a></li>
-            <li><a href="https://plus.google.com/101869893144847837380/" title="Google+" target="_blank" class="googleplus">Googleplus</a></li>
-        </ul>
-
-</aside><!-- end Sidebar -->
-			
-		<br class="clear">
-        </div><!-- end #content-wrapper -->
-</section><!-- end #main-content -->
+	
+	</section><!-- end #main-content -->
 
 
-<footer id="footer">
-	<section id="footer-info">
-								<article class="footer-colum">
-               		<h2 class="blog-title">Latest from the Blog</h2>
+<footer>
+	<div class="inner">
+		<nav id="features">
+			<h3>Fleetmatics Features</h3>
+							<ul>
+											<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/fleet-dashboard/3" title="Fleet Tracking Dashboard" target="_self">Fleet Tracking Dashboard</a></li>
+											<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/activity-alerts/35" title="GPS Fleet Tracking Alerts" target="_self">GPS Fleet Tracking Alerts</a></li>
+											<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/landmark-and-geofences/36" title="Geofencing and Landmarks" target="_self">Geofencing and Landmarks</a></li>
+											<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/fuel-card-integration/60" title="Fuel Card Integration" target="_self">Fuel Card Integration</a></li>
+											<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/garmin-integration/76" title="Garmin Integration for Dispatch" target="_self">Garmin Integration for Dispatch</a></li>
+											<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/fleet-maintenance-reports/77" title="Fleet Maintenance Reports" target="_self">Fleet Maintenance Reports</a></li>
+											<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/fleetmatics-mobile-app/551" title="FleetMatics Mobile App" target="_self">FleetMatics Mobile App</a></li>
+											<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/driver-id/570" title="Driver ID" target="_self">Driver ID</a></li>
+									</ul>
+				
+		</nav>
+		
+		<nav id="benefits">
+			<h3>Benefits for you</h3>
+							<ul>
+											<li><a href="http://www.fleetmatics.com/our-gps-tracking-system/reduce-unauthorized-vehicle-use/97" title="Reduce Unauthorized Vehicle Use" target="_self">Reduce Unauthorized Vehicle Use</a></li>
+											<li><a href="http://www.fleetmatics.com/why-fleet-tracking/control-fuel-costs/37" title="Control Fleet Fuel Costs" target="_self">Control Fleet Fuel Costs</a></li>
+											<li><a href="http://www.fleetmatics.com/why-fleet-tracking/increase-productivity/38" title="Increase Productivity" target="_self">Increase Productivity</a></li>
+											<li><a href="http://www.fleetmatics.com/why-fleet-tracking/reduce-operating-expenses/39" title="Reduce Operating Expenses" target="_self">Reduce Operating Expenses</a></li>
+											<li><a href="http://www.fleetmatics.com/why-fleet-tracking/increase-security/40" title="Increase Fleet Security and Safety" target="_self">Increase Fleet Security and Safety</a></li>
+											<li><a href="http://www.fleetmatics.com/why-fleet-tracking/reduce-labor-costs/93" title="Reduce Labor Costs" target="_self">Reduce Labor Costs</a></li>
+											<li><a href="http://www.fleetmatics.com/why-fleet-tracking/improve-customer-service/41" title="Improve Customer Service" target="_self">Improve Customer Service</a></li>
+											<li><a href="http://www.fleetmatics.com/why-fleet-tracking/going-green/99" title="Going Green" target="_self">Going Green</a></li>
+											<li><a href="http://www.fleetmatics.com/why-fleet-tracking/2" title="Fleet Tracking Helps" target="_self">Fleet Tracking Helps</a></li>
+									</ul>
+				
+		</nav>
+		<nav id="about">
+			<h3>About Fleetmatics</h3>
 			<ul>
-											<li>
-					<h4><a href="http://www.fleetmatics.com/blog/maintained-high-speeds-vs-infrequent-high-speed/" title="Maintained High Speeds vs. Infrequent High Speed">Maintained High Speeds vs. Infrequent High Speed</a></h4>
-                       			<p>Want to know how speeding affects your fuel efficiency? Want to know how to identify this behavior? Watch out for maintained high…</p>
-				</li>
-											<li>
-					<h4><a href="http://www.fleetmatics.com/blog/small-business-social-media-guide-part-4-facebook-google-and-social-listening/" title="Small Business Social Media Guide (Part 4: Facebook, Google+ and Social Listening)">Small Business Social Media Guide (Part 4: Facebook, Google+ and Social Listening)</a></h4>
-                       			<p>In Part 1&nbsp;of this series, we covered how to get your business acquainted with the available Social Media platforms. In Part 2&nbsp;we…</p>
-				</li>
-						</ul>
-		</article><!-- end Blog Column -->
+								
+											<li><a href="http://www.fleetmatics.com/support/22" title="Support" target="_self">Support</a></li>
+											<li><a href="http://www.fleetmatics.com/contact-us/19" title="Contact" target="_self">Contact</a></li>
+											<li><a href="http://www.fleetmatics.com/blog/" title="Our Blog" target="_self">Our Blog</a></li>
+											<li><a href="http://www.fleetmatics.com/fleetmatics-privacy-policy/21" title="Privacy Policy" target="_self">Privacy Policy</a></li>
+											<li><a href="http://www.fleetmatics.com/about-us/18" title="Terms and Conditions" target="_self">Terms and Conditions</a></li>
+									
+					
+				<li><a href="http://www.fleetmatics.com/sitemap" title="Sitemap">Sitemap</a></li>
+			</ul>
+		</nav>
+		<nav id="social">
+			<ul>
+				<li><a href="http://www.facebook.com/fleetmatics" title="Follow Us On Facebook" target="_blank"><img src="/design/images/facebook.png" alt="Follow Us On Facebook"></a></li>
 				
-		<article class="footer-colum">
-			<h2 class="twitter-title ">Latest Tweets</h2>
-			<div id="twitters">				
-				<ul>
-								</ul>
+				<li><a href="http://www.linkedin.com/company/44361" title="Follow Us On LinkedIn" target="_blank"><img src="/design/images/linkedin.png" alt="Follow Us On LinkedIn"></a></li>
 				
+				<li><a href="http://www.twitter.com/fleetmatics" title="Follow Us On Twitter" target="_blank"><img src="/design/images/twitter.png" alt="Follow Us On Twitter"></a></li>
+				
+				<li><a href="https://plus.google.com/101869893144847837380/" title="Google+" target="_blank"><img src="/design/images/google.png" alt="Google+"></a></li>
+			</ul>
+		</nav>
+		
+		<address>
+			© Fleetmatics Ltd  2013<br><br>
+			70 Walnut Street<br>
+			2nd Floor<br>
+			Wellesley Hills, MA 02481 <br><br>
+			
+			
+						
+		</address>
+		
 			</div>
-
-			<!-- form_questions -->
-			<script type="text/javascript">
-			function send_questions()
-			{
-				var contact_name=jQuery('#contact_name').val();
-				var contact_email = jQuery('#contact_email').val();
-				var contact_phone = jQuery('#contact_phone').val();
-				var contact_enquiry = jQuery('#contact_enquiry').val();
-				jQuery('#form_quick_enquiry').load('/page/quick_enquiry',{'submit_questions':'1', 'contact_name':contact_name, 'contact_email':contact_email, 'contact_phone':contact_phone, 'contact_enquiry':contact_enquiry}  );
-			}
-			</script>
-		</article><!-- end Twitter Column -->
-
-		<article class="footer-colum-last">
-                	<h2 class="enquiry-title">Quick Contact</h2>
-			<div id="form_quick_enquiry">	
-				 
-	<form action="/page/quick_enquiry" method="post">
-		<ul>
-			
-			<!-- contact_name -->
-			
-					
-
-			<li>
-				<label>Name:</label>
-				<input type="text" name="contact_name" id="contact_name" value="">
-			</li>
-		
-			<!-- contact_email -->
-			
-					
-
-			<li>
-				<label>Email:</label>
-				<input type="text" name="contact_email" id="contact_email" value="">
-			</li>
-		
-			<!-- contact_phone -->
-			
-					
-			<li>
-				<label>Phone:</label>
-				<input type="text" name="contact_phone" id="contact_phone" value="">
-			</li>
-		
-			<!-- contact_enquiry -->
-			
-					
-			<li>
-				<label>Question:</label>
-				<textarea name="contact_enquiry" id="contact_enquiry"></textarea>	
-			</li>
-		
-			<li><button type="button" name="submit" id="submit" onclick="send_questions();">Submit</button></li>
-		</ul>	
-	</form>
-			</div>
-		</article><!-- end Enquiry Column -->
-        </section><!-- end #footer-info -->
-        <br class="clear">
-
-	<section id="footer-bottom">
-		<p id="footer-left">© 2012 FleetMatics | Website Design by <a href="http://www.enhance.ie/" target="_blank" title="Website Design By Enhance.ie">Enhance.ie</a></p>
-           	<ul id="footer-right">
-																	<li><a href="http://www.fleetmatics.com/about-us/18" title="About Us">About Us</a></li>			
-														<li><a href="http://www.fleetmatics.com/contact-us/19" title="Contact Us">Contact Us</a></li>			
-														<li><a href="http://www.fleetmatics.com/careers/20" title="Careers">Careers</a></li>			
-														<li><a href="http://www.fleetmatics.com/fleetmatics-privacy-policy/21" title="FleetMatics Privacy Policy">FleetMatics Privacy Policy</a></li>			
-														<li><a href="http://www.fleetmatics.com/support/22" title="Support">Support</a></li>			
-										
-			<li><a class="last" href="http://www.fleetmatics.com/sitemap" title="Sitemap">Sitemap</a></li>
-		</ul>
-		<div style="padding-top:10px;">&nbsp;</div>
-		<a target="_blank" id="bbblink" class="ruhzbum" href="http://www.bbb.org/chicago/business-reviews/global-positioning-systems/fleetmatics-usa-in-arlington-heights-il-88081254#bbblogo" title="FleetMatics USA, Inc., Global Positioning Systems, Arlington Heights, IL" style="display: block;position: relative;overflow: hidden; width: 150px; height: 68px; margin: 0px; padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="http://seal-chicago.bbb.org/logo/ruhzbum/fleetmatics-usa-88081254.png" width="300" height="68" alt="FleetMatics USA, Inc., Global Positioning Systems, Arlington Heights, IL"></a><script type="text/javascript">var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-chicago.bbb.org' + unescape('%2Flogo%2Ffleetmatics-usa-88081254.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://seal-chicago.bbb.org/logo/fleetmatics-usa-88081254.js" type="text/javascript"></script>
- 	</section><!-- end #footer-bottom -->
-</footer><!-- end #footer -->
+</footer>
 	
 
 <div id="refresh_blog"></div>
@@ -649,24 +566,43 @@ function recordOutboundLink(link, category, action) {
 
 
 
-<!-- Google Code for Remarketing Site Visitors Remarketing List -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1057648789;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "666666";
-var google_conversion_label = "lK5XCPvXkQIQleGp-AM";
-var google_conversion_value = 0;
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1057648789/?label=lK5XCPvXkQIQleGp-AM&amp;guid=ON&amp;script=0"/>
+<div style="display:none">
+	
+	<!-- Google Code for Remarketing Site Visitors Remarketing List -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 1057648789;
+	var google_conversion_language = "en";
+	var google_conversion_format = "3";
+	var google_conversion_color = "666666";
+	var google_conversion_label = "lK5XCPvXkQIQleGp-AM";
+	var google_conversion_value = 0;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<div style="display:none;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1057648789/?label=lK5XCPvXkQIQleGp-AM&amp;guid=ON&amp;script=0"/>
+	</div>
+	</noscript>
+	
+	<script type="text/javascript">
+	_bizo_data_partner_id = "2703";
+	</script>
+
+	<script type="text/javascript">
+	(function(){
+	var b,a,u;
+	a=document.createElement("script");
+	a.type="text/javascript";
+	a.async=true;
+	u=(window.location.protocol==="https:"?"https://sjs.":"http://js.")+"bizographics.com/insight.min.js";
+	a.src=u;
+	b=document.getElementsByTagName("script")[0];
+	return b.parentNode.insertBefore(a,b)})();
+	</script>
 </div>
-</noscript>
 
 
 
