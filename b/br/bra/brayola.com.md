@@ -1,64 +1,6 @@
-> *The following text is extracted and transformed from the brayola.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003031614id_/http%3A//brayola.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brayola.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607194149id_/http%3A//brayola.com/privacy) for the most accurate reproduction.*
 
-# brayola | Privacy policy
-
-already a brayola member? [brayola logo](https://web.archive.org/)
-
-save your drawer & join brayola
-
-save your drawer & join brayola
-
-**are you sure you don't want to save your drawer?**  
-If you don't save your brayola drawer all the bras you've added will be lost 
-
-  * yes I'm sure
-
-cancel
-
-
-
-
-  * enter your email and we'll reset your password
-
-  * invalid email address
-
-  * send 
-
-
-
-
-an email has been sent to you with a link to reset your password
-
-the email entered is not registered
-
-cant find your bra?
-
-  * describe the bra you love to wear, so we can add it to our database!
-
-  *   * enter your email address and we'll get back to you! 
-
-  * Invalid email address
-
-  * send 
-
-
-
-
-Thank you for your feedback. We'll let you know when your bra has been added to brayola! 
-
-  * want to win a free bra & panty set?  
-invite your BFF to join brayola  
-
-  *   * don't show me this message
-
-
-
-  * Thanks for inviting your BFF!  
-You have now been entered into the lucky draw :) 
-  * continue shopping
-
-
-
+# Privacy policy
 
 This privacy statement explains the privacy practices of Brayola for users of the Site. If not specifically defined herein, capitalized terms have the meaning given to them in the Brayola Terms of Service, which is available at [brayola.com/terms](http://brayola.com/terms). 
 
