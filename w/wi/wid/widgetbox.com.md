@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the widgetbox.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218075315id_/http%3A//www.flite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widgetbox.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607060405id_/http%3A//www.flite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · Flite
-
-## Flite Privacy Policy Statement
 
 This privacy policy has been updated recently, in order to be more consistent with the latest Web privacy standards and safe Internet advertising practices, as well as to reaffirm Flite's commitment to keeping your data private. These changes are unlikely to impact your day-to-day experience with the Flite platform. 
 
