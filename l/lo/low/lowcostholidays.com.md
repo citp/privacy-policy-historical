@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowcostholidays.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102223459id_/http%3A//www.lowcostholidays.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowcostholidays.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607122525id_/http%3A//www.lowcostholidays.com/privacy.htm) for the most accurate reproduction.*
 
 # Low Cost Holidays | Search for cheap holidays, all inclusive holiday deals and city breaks
 
@@ -6,7 +6,7 @@ lowcostholidays.com is committed to protecting your privacy and maintaining the 
 
 This is subject to the proviso that we may disclose your data to certain permitted third parties, such as our own professional advisors, who are bound by confidentiality codes, and when we are legally obliged to do so. We do not sell, rent or exchange your personal information with any third party for commercial reasons.
 
-When making a booking using an email address and postal address, you are giving us permission to send out marketing materials to you. We may also use the information to process any transactions and for internal analysis and administration. We retain and use your personal information to provide you with a personalised service and to give you details of offers which may be of interest to you. If you do not wish us to do so please let us know by sending us an email to unsubscribe@lowcostholidays.com. You also have the opportunity to opt-out of any marketing email communications by clicking on the unsubscribe link at the bottom of the sent emails.
+When making a booking using an email address, postal address and mobile telephone number, you are giving us permission to send out marketing and mobile marketing materials to you. We may also use the information to process any transactions and for internal analysis and administration. We retain and use your personal information to provide you with a personalised service and to give you details of offers which may be of interest to you. If you do not wish us to do so please let us know by sending us an email to unsubscribe@lowcostholidays.com. You also have the opportunity to opt-out of any marketing email communications by clicking on the unsubscribe link at the bottom of the sent emails.
 
 By disclosing your personal information to us using this website you consent to its collection, storage and processing by lowcostholidays.com in accordance with these terms. If we change our privacy policy, we will publish any changes on this page. Please note that if you choose accommodation outside of the European economic area, the information you have provided will be transferred outside of it. By making your booking you agree to this transfer.
 
