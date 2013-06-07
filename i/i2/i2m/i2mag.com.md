@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the i2mag.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228132901id_/http%3A//i2mag.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i2mag.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607223332id_/http%3A//i2mag.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - I2Mag: Internet & Design Inspiration Magazine
+# Privacy Statement - I2Mag - Breaking Tech News, Mobiles, Gadgets, Social Media And Business
 
-**Last Updated January 02, 2012**
+**Last Updated May 16, 2012**
 
 **Safeguarding your privacy is very important to us.**  We take seriously the collection of any personally identifiable information and personal contact information (“personal information”) from our visitors and are committed to protecting each visitor’s privacy in accordance with these policies. Please carefully review our information collection practices and privacy protections below.
 
 **Who We Are and How To Reach Us**
 
-**[G2One Network Private Limited](http://www.g21network.com/)**  owns and operates the [I2Mag.com](http://www.i2mag.com/) website, and all websites under the root domain of I2Mag.com (collectively referred to in this statement as the “Website’). You may contact us directly if you have any questions regarding the content and material on the Website or if you have any questions about our privacy policies. Please contact us at contactus[at]i2mag.com or G2One Network Private Limited, A-6/8 First Floor, Paschim Vihar, New Delhi – 110063, INDIA.
+[G2One Network Private Limited ](http://www.g21network.com/) owns and operates the [I2Mag.com](http://www.i2mag.com/) website, and all websites under the root domain of I2Mag.com (collectively referred to in this statement as the “Website’). You may contact us directly if you have any questions regarding the content and material on the Website or if you have any questions about our privacy policies. Please contact us at info[at]i2mag.com.
 
 **Collection of Personal Information**
 
@@ -37,12 +37,6 @@ We only share or disclose your personal information with companies other than G2
 We may in the future share personal information with our parents, partners, affiliates or other entities for other purposes. If we decide to enter into such sharing arrangements, we will disclose to our registered members and in this Privacy Policy the name of the entity(s) that we will share information with, what type of personal information will be shared, how the information will be used, and how to contact us if you do not want us to share your personal information (“opt-out”).
 
 We may collect and provide aggregate information about our visitors to our advertisers, sponsors, promotional partners, and affiliates, such as how many persons visited a particular page or activity or the likes and dislikes of our visitors, but this information does not include personal information about any individual visitor. We may obtain geographic information such as zip code clustering from other sources, but this aggregate information will not reveal any personal information about a specific visitor.
-
-**Our Use of Cookies and Tracking Devices**
-
-This site uses cookies or other tracking devices. A cookie is a small data file that contains a unique identification number that a website places on your hard drive when you visit a site. The “cookie” is able to store information such as data about your computer, the type of browser you use, and how many times your computer visits a certain site. Cookies do not allow the Website to access personal information that you haven’t already provided. Cookies enable us to track how often visitors are visiting our website and specific pages, the number of entries in specific events, the estimated audience size for sponsors and advertisers, and user preferences. You can refuse to use cookies by turning them off in your browser. Please contact your browser’s software manufacturer for questions on how to disable your cookies. You do not need to have cookies turned on to use most of this site. However, you may find that some areas on the website will be slower, or may not function at all, and you may not be able to participate in certain activities such as contests or sweepstakes if the cookies are disabled.
-
-This site may use clear GIFs [Graphics Interchange Formats] (also known as pixel tags, web beacons or web bugs). A clear GIF is a tiny line of code that is programmed to collect certain information about a visit to a particular website. We use GIFs to gather non-personal, aggregate information on visits to our website, track usage of website links and assist with registration and other features. We do not disclose personal information that may be linked to our GIF collection practices to third parties. Other websites that you may link to through the Website may also use clear GIFs. G2One Network Private Limited, its parents and subsidiaries are not responsible for the use of clear GIFs by other website operators. Visitor’s must review other website operators’ privacy policies to determine the type and extent of tracking devices used.
 
 **Use and Collection of Information by Advertisers and Sponsors; Third Party Cookies and Tracking Devices**
 
