@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qld.gov.au privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130224009id_/http%3A//www.qld.gov.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qld.gov.au privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608223142id_/https%3A//www.qld.gov.au/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | Queensland Government
 
@@ -16,7 +16,7 @@ We may ask you to provide personal information if you submit feedback to this si
 
 
 
-### Use and disclosure of personal information
+## Use and disclosure of personal information
 
 We will not add you to a mailing list, or give your personal information to third parties without your consent, unless required by law.
 
@@ -47,7 +47,9 @@ Transactional services available from this site may use cookies to track busines
 
 Parts of this site transmit information securely across the internet. However this is not always feasible. We recognise that there may be risks transmitting information across the internet. We will notify you where personal information is not transmitted securely.
 
-This site contains links to non-Queensland Government websites. The Queensland Government is not responsible for the privacy or security practices or the content of these websites.
+Where this site contains links to other Queensland Government agencies’ websites, the privacy or security terms set out there will apply to the material on the websites.
+
+Where this site contains links to non-Queensland Government websites, the Queensland Government is not responsible for the privacy or security practices or the content of any such websites.
 
 ## More information
 
