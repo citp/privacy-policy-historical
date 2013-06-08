@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukfamily.co.uk privacy policy that was archived on 2012-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120723071938id_/https%3A//registration.disneyinternational.com/privacy.htm%3Fp%3D130%26fullScreen%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukfamily.co.uk privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608062551id_/https%3A//registration.disneyinternational.com/privacy.htm%3Fp%3D130%26fullScreen%3Dtrue) for the most accurate reproduction.*
 
 # Disney Registration
 
@@ -11,7 +11,7 @@ We have updated our privacy policy. Our updated policy is designed to provide gr
 
 ## Privacy Policy
 
-Effective Date: May 25th, 2012
+Effective Date:
 
 This privacy policy describes the treatment of information provided or collected on the sites where this privacy policy is posted. It also explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. We follow this privacy policy in accordance with local law in the places where we operate.
 
