@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fallenearth.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230185802id_/http%3A//www.gamersfirst.com/%3Fq%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fallenearth.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608065144id_/http%3A//www.gamersfirst.com/%3Fq%3Dprivacy) for the most accurate reproduction.*
 
-# GamersFirst – Free To Play Multiplayer Online Games, Free MMO, Fantasy MMO, Online FPS, Adventure, Shooting & Strategy Games Online
+# GamersFirst – Free To Play Multiplayer Online Games, Free MMO, Action Based MMOTPS, Post-Apocalyptic MMO, Online FPS, Adventure, Shooting & Strategy Games Online
 
 **Reloaded Games Online Privacy Policy**
 
-Last updated June 22, 2012 
+Last updated January 10, 2013 
 
 Welcome to Reloaded Games!
 
@@ -12,11 +12,11 @@ Welcome to Reloaded Games!
 
 [](https://www.esrb.org/confirm/reloaded-confirmation.jsp)Reloaded Games, and its subsidiaries and affiliates (collectively, “Reloaded Games”) respect the privacy rights of our online visitors and recognize the importance of protecting all information that you may choose to share with us.  To further this commitment, we adopted this Online Privacy Policy (“Privacy Policy”) to guide how we collect, store, and use the information you provide us.
 
+Reloaded Games, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Reloaded Games, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Reloaded Games certification, please visit <http://www.export.gov/safeharbor/>
+
 **ESRB’s Privacy Program**
 
 This certification seal shown on this page confirms that Reloaded Games is a member in good standing of [ESRB’s Privacy Online Program](http://www.esrb.org/privacy/index.jsp).  ESRB’s Privacy Online Program is designed to ensure that our website’s information disclosure practices are responsible and appropriate.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices.  As part of this privacy program, ESRB independently audits our websites, and administers other enforcement and accountability mechanisms. 
-
-Reloaded Games adheres to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection that went into effect in October 1998. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website at <http://www.export.gov/safeharbor/>.
 
 **TABLE OF CONTENTS**  
 ---  
@@ -71,6 +71,8 @@ Typically, this information includes:
   
 Additionally, we may also collect other types of information (known as demographic information) such as your age or date of birth, gender, hobbies, occupation, platform preferences, and other game ownership information.  This demographic information may be associated with your personal information.
 
+[We] do not condition participation in an activity on the disclosure of more Personally Identifiable Information than is reasonably necessary to complete that activity.
+
 **If you are involved with our Merchant Center or Affiliate Center, we may request additional information to confirm the identity of you, your banking institution, or your business.**
 
 **INFORMATION COLLECTED THROUGH TECHNOLOGY**
@@ -116,6 +118,14 @@ We will be sharing some of your personal information about you that you provide 
 
 When you send an e-card, we delete both sender and recipient email address information after sending your e-card.
 
+**SOCIAL NETWORKS**
+
+You also can engage with our content on or through third-party social networking sites, such as Facebook and Twitter (or third-party social media plug-ins and applications). When you engage with our content on or through third-party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the 'likes' you make) to deliver the content or as part of the operation of the application. We may also obtain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on,) from your interaction with our content.
+
+When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our websites (and/or applications), and (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with our privacy policy. When you provide personal information to us through an application, on our sites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.
+
+Through some social networking sites’ privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use.
+
 **FORUMS AND MESSAGE BOARDS**
 
 If you register for access to our forums or message boards, we may use your personal information to enable you to view and post messages on the boards.  You should understand, however, that community forums, blogs, and message boards are tools that allow you to communicate with members of the online community.  So whenever you give out personal information in public areas, that information can be collected and used by people you don’t know.
@@ -138,13 +148,17 @@ Please note that we may disclose any information as permitted or required by law
 
 **AGGREGATE INFORMATION**
 
-We may take your personal information and make it non-personally identifiable.  We do this either by combining it with information about other individuals (aggregating your information with information about other individuals), and by removing characteristics (e.g., your name) that make the information personally identifiable to you.  This process is known as de-personalizing your information.  We may use de-personalized information in any way and share it with third parties.  __
+We may take your personal information and make it non-personally identifiable.  We do this either by combining it with information about other individuals (aggregating your information with information about other individuals), and by removing characteristics (e.g., your name) that make the information personally identifiable to you.  This process is known as de-personalizing your information.  We may use de-personalized information in any way and share it with third parties. 
 
 back to top
 
 **What choices do you have about the collection, use, and sharing of your personal information?**
 
 If you signed up to receive newsletters or other emails from us, you can opt-out any time simply by clicking the unsubscribe link at the bottom of the message.
+
+**EU RESIDENTS**
+
+Personal information provided to us or collected on our website may be stored and processed in the United States. By using our website you consent to the storage, processing, and any such transfer of information outside of your country. We abide by the Safe Harbor framework as set forth by the United States Department of Commerce regarding the collection, use and retention of data from the European Union. For more information about our participation in the U.S.-EU Safe Harbor, you may visit <https://www.export.gov/safehrbr/list.aspx>. If you do not consent to the collection, processing, storage and transfer of your information, please do not provide your information when requested and cease using our websites and other online properties.
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
@@ -172,7 +186,7 @@ back to top
 
 **How can you update your personal information and profile?**
 
-You may update or delete your personal information or modify your account preferences by accessing the “My Account” area of our website.  If you wish to delete your e-mail address from our system, your account will also need to be deleted.  You may also contact us directly with questions about your account at [privacy@gamersfirst.com](mailto:privacy@gamersfirst.com).
+You may update or delete your personal information or modify your account preferences by accessing the “My Profile” area of our website.  If you wish to delete your e-mail address from our system, your account will also need to be deleted.  You may also contact us directly with questions about your account at [privacy@gamersfirst.com](mailto:privacy@gamersfirst.com).
 
 **For our Merchant Center and Affiliate Center, we may also have additional confirmatory requirements for changing your information.   More information regarding these two parts of our business can be found in the **[Merchant Center Terms of Service ](https://merchants.gamersfirst.com/Legal/Terms) **and the Reloaded Games Affiliate Terms and Conditions.**
 
