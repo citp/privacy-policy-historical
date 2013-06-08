@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerotackle.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206050920id_/http%3A//www.zerotackle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerotackle.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608192342id_/http%3A//www.zerotackle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zero Tackle
 
@@ -6,12 +6,12 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 When accessing our Website, will learn certain information about you during your visit.
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.
+Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.
 
   
 **What Are Cookies?**
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
   
 **IP Addresses**
