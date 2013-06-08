@@ -1,71 +1,25 @@
-> *The following text is extracted and transformed from the cbs6albany.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229172215id_/http%3A//www.freedom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs6albany.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608085455id_/http%3A//cbs6albany.com/station/features/privacy-policy) for the most accurate reproduction.*
 
-# Freedom Communications, Inc. - Privacy Policy
+# Privacy Policy - WRGB CBS6
 
-[en Español](https://web.archive.org/web/20111229172215id_/http%3A//www.freedom.com/privacidad.html)
+**General**  
+The following privacy policy describes what information is collected by cbs6albany.com (the "Website") and how that information is used. This privacy policy is effective as of February 8, 2007 and will remain in effect until such date as the policy may be modified by the Station in its sole and absolute discretion. Any such changes will be posted on the Website. Your use of the Website constitutes your agreement to the privacy policy as in effect at that time. 
 
-This is the Privacy Policy for all Web sites owned or operated by Freedom Communications, Inc. ("Freedom" "we" or "our"), including, without limitation the Web sites listed [here](https://web.archive.org/web/20111229172215id_/http%3A//www.freedom.com/ppsites.html) (collectively, the "Site"). We respect your privacy and appreciate the confidence you have placed in the Site. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how we collect, use, and protect any personal information you provide us and your choices for managing your personal information. This Privacy Policy is subject to the [User Agreement](https://web.archive.org/web/20111229172215id_/http%3A//www.freedom.com/eula.html) posted on the Site.
+**No Postings by Children**  
+The Website does not knowingly collect information from any individuals under the age of 13, and all children under the age of 13 are hereby notified that they are not permitted to post any information on the Website. If we become aware of any video submissions or postings by children under the age of 13, that video/posting will be removed by the Station. Parents and guardians should carefully monitor the use of the Website by children. 
 
-**Managing Information Preferences**
+**Information the Website Collects**  
+The personally identifying information the Website intentionally collects from users who submit video(s)/posting(s)/email(s) to the Website are those users' names, addresses, telephone numbers, e-mail addresses, age/date of birth and gender. Addition personal information may unintentionally be collected if such information is provided in submitted video(s)/posting(s)/email(s). Personal information included in a video(s)/posting(s) is by its nature available to the general public and no such information should be posted by any user who desires to keep it private. The Station is not responsible for any use which may be made of such information by any third party. 
 
-We want to communicate with you only if you want to hear from us. If you have questions or concerns regarding this Privacy Policy or if you wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at: 
+Like most major websites, the Website uses "cookies." A "cookie" is a small piece of text that a web server stores on your computer in order to make your experience better upon return visits to that website. The Website uses cookies to aggregate information about our users to allow us to see how our visitors navigate the site in order to make improvements in the site's design. Cookies are not a program and do not allow us to access any information on your computer other than the information that we initially placed there.
 
-17666 Fitch  
-Irvine , CA 92614  
-E-mail: [pp@freedom.com](mailto:pp@freedom.com)
+In addition, we have web logs which collect standard information each time we serve a page on the Website. The web logs provide us with information on our users Internet protocol addresses, the pages of the Website visited and a date and time stamp. This information allows us to administer the website and identify how it is being used. 
 
-If you would like to correct, update, or change your personal information with us please contact us the same way.
+**Maintenance of Information**  
+All videos/postings/emails on the Website may be stored in our database even after the videos/postings/emails have been deleted from public display. In addition, our web logs may be stored indefinitely. Although we use customary practices to store all information received from our users in a secure operating environment that is not available to general public, no guarantee can be provided that such information might not become available to persons outside of the Station. 
 
-**What Types Of Information Do We Collect?**
+**Disclosure of Information**  
+All personal information collected by this Website may be disclosed as required by law, by the rules of any governmental agency of if the Station otherwise becomes legally compelled (by oral questions, interrogatories, requests for information or documents, subpoena, civil investigative demand or similar process). The Station may also disclose such information as it deems necessary to enforce its rights and to avoid the violation of any party's rights (including intellectual property rights, rights to privacy and rights not to be defamed in any way). Information may also be disclosed by the Station to law enforcement officers or others if the Station determines, in good faith, that such disclosure is necessary to protect the rights and safety of the Station's employees, users and/or the public at large. 
 
-We collect information that may personally identify you (such as your name, address, telephone number, email address, billing information, or other data which can be reasonably linked to such information) only if you choose to share such information with us. For example, we may collect personal information from you when you register on the Site, subscribe to one of our services, enter sweepstakes, contests or other promotions, and at other times. We also collect credit card information in connection with any purchase you make on or through the Site. The decision to provide this information is optional; however, if you decide not to register or provide such information, you may not be able to use certain features of the Site or other services.
-
-We may automatically collect non-personal information that does not identify an individual user, such as IP (internet protocol) address, ISP (internet service provider), the Web browser used to visit the Site, the time the Site is visited, which Web pages were visited on the Site, a unique mobile device identifier (in connection with the use of the Sites or related services from mobile devices) and other anonymous Site usage data.
-
-We also use cookies (a small file containing a string of characters that uniquely identifies your Web browser) and Web beacons (an electronic file placed within a Web site that monitors usage). We use cookies and Web beacons to improve the quality of the Site. Most Web browsers are initially set up to accept cookies, but you can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. Certain of our Service Providers (defined below) may use cookies and Web beacons in connection with the services they perform on our behalf, including, without limitation, ad serving. 
-
-**How Do We Use The Information We Collect?**
-
-We will not sell, share, or rent personal information to third parties, and we will not otherwise disclose personal information to third parties, without your permission, except as disclosed in this Privacy Policy.
-
-We use personal information and non-personal information for internal purposes, including: 
-
-  * enhancing your experience at the Site;
-  * performing administration and technical support for the Site; 
-  * enabling you to enter sweepstakes, contests and other promotions;
-  * enabling you to use certain services and features available on or through the Site;
-  * creating aggregate information about demographics and usage patterns; 
-  * inviting our promotional vendors and advertisers—with your permission—to call to your attention special offers, products and services that may be of interest to you; and 
-  * enabling purchases of goods and services.
-
-
-
-We may use aggregate information to measure general Site usage patterns and characteristics of our user base, and we may include such aggregate information about our audience in reports to our commercial vendors. We may also disclose aggregated user statistics (for example, a certain percentage of our users live in a certain area) without your permission in order to describe our audience to existing and prospective advertisers or other third parties. However, this aggregate information does not reference names, phone numbers, e-mail addresses, or other personal information, and it is not traceable to a specific recipient or user e-mail address. 
-
-We also may share personal information with entities controlling, controlled by, or under common control with Freedom. In the event that Freedom is merged, or in the event of a transfer of our assets, we may disclose or transfer your personal information and non-personal information in connection with such transaction. 
-
-From time to time, we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours ("Service Providers"). For example, we may contract with Service Providers to provide certain services including credit card processing, advertising, promotions, analytics tools, data management, Web hosting, and Web development. We provide our Service Providers with the information needed for them to perform these services. Each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of your information in order to protect your personal information from unauthorized access, destruction, use, modification, or disclosure. 
-
-We may work with third-party advertising companies which may use information about your visit to the Site in order to provide advertisements about goods and services that may be of interest to you on the Site and on third-party Web sites. From the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons or pixel tags. Our Privacy Policy does not cover any use of information that a third-party advertisement serving company may collect from you. For more information about ad cookies and companies that provide users the ability to "opt-out" of the collection of information from such cookies, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
-
-Although unlikely, in certain instances we may disclose your personal information when we have reason to believe it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Freedom or its affiliates, or to others. We may also disclose your personal information when we believe the law or legal process requires such disclosure. Please note that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your personal information to be shared or transferred to third parties without your permission. 
-
-**Security**
-
-We use encryption and authentication tools to protect the security of personal information that you share with us. However, no data transmission over the Internet (or, with respect to our mobile services, over cellular phone networks) can be guaranteed to be 100% secure. As a result, while we strive to protect personal information, we cannot and do not guarantee or warrant the security of any information you transmit to or from the Site, and you do so at your own risk.
-
-**Links To Third-Party Web Sites**
-
-The Site may contain links to Web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked Web sites may be different from our Privacy Policy. You access such linked Web sites at your own risk. You should always read the privacy policy of a linked Web site before disclosing any personal information on such site.
-
-**Discussion Board, Forums and Other User Generated Content**
-
-Our online chat areas, bulletin boards, social networks, mobile messaging services, other public forums and user-generated content (i.e., photos, videos) can be a useful way for you to express yourself to other online users. When you post messages or otherwise use these features, the information that you provide (including personal information) may be publicly available to, collected by, and used by third parties. We are not responsible for the content of such messages or images posted by users or such disclosures of personal information.
-
-**Children's Privacy Statement**
-
-We do not knowingly collect personal information from children under the age of 13. If we become aware that we have inadvertently received personal information from a child under the age of 13, we will delete such information from our records.
-
-**Policy Changes**
-
-If we decide to change our Privacy Policy, in whole or in part, we will inform you by posting the changed Privacy Policy on the Site. Your continued use of the Site constitutes your agreement to abide by the Privacy Policy as changed. If you object to any such changes, your sole recourse shall be to cease using the Site.
+**Linked Sites**  
+The Website allows certain advertisements/postings which include links to other sites. The Station has no control over such other sites and is not responsible for any content on such linked sites or for the use by such other sites of any information collected by those sites. 
