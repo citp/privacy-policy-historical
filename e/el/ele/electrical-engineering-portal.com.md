@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electrical-engineering-portal.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227064352id_/http%3A//electrical-engineering-portal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electrical-engineering-portal.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608032503id_/http%3A//electrical-engineering-portal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EEP
 
