@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206204446id_/http%3A//www.esomar.org/index/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608045900id_/http%3A//www.esomar.org/index/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ESOMAR
 
@@ -49,9 +49,9 @@ This privacy policy only applies to www.esomar.org. This privacy policy does not
 If you do not wish to receive information about ESOMAR's activities, products and/or services or offers of other relevant third parties, please inform us through our [online form](http://visitor.constantcontact.com/manage/optin/ea?v=001_D6q8SmIH1obPhVvmZLuKw==) or by mail or email at the following address:
 
 ESOMAR  
-Eurocenter 2, 11th floor  
-Barbara Strozzilaan 384  
-1083 HN Amsterdam  
+Atlas Arena, Azië building - 5th floor  
+Hoogoorddreef 5  
+1101 BA Amsterdam  
 The Netherlands  
 Tel: +31 20 664 2141  
 Fax: +31 20 664 2922  
@@ -69,7 +69,7 @@ A cookie is a small amount of data that is sent to your computer browser from a 
 
 ESOMAR uses cookies to help the server identify you when you log in to secure areas of the site, such as MyESOMAR, Directory of Research Organisations, and MR Job board. The cookies store your login information, so you can enter and leave the website without having to re-enter the same information over and over.
 
-We also use cookies to track our online traffic flow (through Google Analytics, Google AdSense, and Crazy Egg), to share links on social networks (through AddThis and Google +1), and to personalise information in online forms.
+We also use cookies to track our online traffic flow (through Google Analytics, Google DoubleClick, and Crazy Egg), to share links on social networks (through AddThis and Google +1), and to personalise information in online forms.
 
 You have the opportunity to set your web browser to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. Information supplied by cookies can help ESOMAR provide you with a better user experience. Please note that not accepting cookies may affect your ability to access certain parts of our website. [You can view the list of cookies used by ESOMAR here.](http://www.esomar.org/cookies.php)
 
@@ -81,4 +81,4 @@ This privacy policy is governed by and construed in accordance with the law of t
 
 ESOMAR reserves the right to change any of the terms of this privacy policy at any time and without notice. ESOMAR therefore recommends that you review this privacy policy from time to time, or before making a transaction.
 
-Last update: Amsterdam, 5 November 2012
+Last update: Amsterdam, 3 June 2013
