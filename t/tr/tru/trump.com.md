@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trump.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208093217id_/http%3A//www.trump.com/Privacy_Policy/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trump.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608084356id_/http%3A//www.trump.com/Privacy_Policy/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # Donald Trump Organization: Donald J Trump Hotel Collection Real Estate Casinos Golf Clubs Restaurants Merchandise Corporation Company
 
