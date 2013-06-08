@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the axcis.co.uk privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201215542id_/http%3A//www.axcis.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axcis.co.uk privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608060428id_/http%3A//www.axcis.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy policy of Axcis teacher recruitment
+# Privacy Policy of Axcis Education Recruitment
 
-Axcis assures you that your personal data will not be made public or made available to other people, companies or institutions in any way. Your data will be used by Axcis Education Recruitment exclusively to provide you with the service you registered for - to find you permanent or supply work.
+Axcis Education Recruitment assures you that your personal data will not be made public or made available to other people, companies or institutions in any way. Your data will be used by Axcis Education Recruitment exclusively to provide you with the service you registered for - to find you permanent or supply work.
 
 **1\. Consent**
 
