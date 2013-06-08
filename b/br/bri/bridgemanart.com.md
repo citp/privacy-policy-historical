@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridgemanart.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225173518id_/http%3A//www.bridgemanart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgemanart.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608154910id_/http%3A//www.bridgemanart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Bridgeman - Art, Culture, History
 
@@ -8,7 +8,7 @@ This Privacy Policy describes how The Bridgeman Art Library ("Bridgeman" or "we"
 
 ### WHAT PERSONAL DATA DO WE COLLECT ABOUT YOU?
 
-We collect from you limited personal data which includes your name(s), contact details and basic information about the company that you work for and possibly any other personal details that you provide to us, if this is necessary for us to deal with any questions you may send us. We will not ask you to send us any sensitive personal data, such as your religious convictions, state of mental or physical health, ethnic origin and similar sensitive information. Please do not send us any such personal data if possible to help us with our obligations under law. If you do send us such data, we will accept your explicit consent to use such sensitive personal data in the ways described in this Privacy Policy or as described by you. 
+We do not store or share credit card information. We collect from you limited personal data which includes your name(s), contact details and basic information about the company that you work for and possibly any other personal details that you provide to us, if this is necessary for us to deal with any questions you may send us. We will not ask you to send us any sensitive personal data, such as your religious convictions, state of mental or physical health, ethnic origin and similar sensitive information. Please do not send us any such personal data if possible to help us with our obligations under law. If you do send us such data, we will accept your explicit consent to use such sensitive personal data in the ways described in this Privacy Policy or as described by you. 
 
 ### HOW DO WE COLLECT YOUR PERSONAL DATA?
 
