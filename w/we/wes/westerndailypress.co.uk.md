@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the westerndailypress.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630101728id_/http%3A//www.thisissomerset.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westerndailypress.co.uk privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608212206id_/http%3A//www.westerndailypress.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
-# This is Somerset | Privacy Policy
+# Western Daily Press | Privacy Policy
 
-Effective from 16 May 2012
+Effective from 1 January 2013
 
 This privacy policy applies only to this website (the "Site"). If you do not accept this privacy policy, you must not use this Site.
 
@@ -16,19 +16,26 @@ In addition to personal information you provide, we may also collect information
 
 The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site or within electronic communications. A cookie is a small text file that is placed on your computer’s hard drive by your browser. Cookies allow us to identify your computer and find out details about your visit and browsing habits so that we can offer you a more personalised experience and manage, monitor and improve services.
 
-Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, you may not be able to use some of the core features of the Site. CLICK HERE for instructions on controlling cookies in the most recent version of Windows Explorer (Users of other browsers should contact their manufacturer for instructions).
+Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, you may not be able to use some of the core features of the Site. **CLICK HERE** for instructions on controlling cookies in the most recent version of Windows Explorer (Users of other browsers should contact their manufacturer for instructions).
 
 The information collected by cookies and web beacons is not personally identifiable, it only includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location.
 
-Display advertising on the Site is provided by our advertising partners. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites (this information is anonymous in that it does not include your name, street address, email address or telephone number). For more information about this type of online behavioural advertising please visit [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/)
+Display advertising on the Site is provided by our advertising partners. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites (this information is anonymous in that it does not include your name, street address, email address or telephone number). For more information about this type of online behavioural advertising please visit **<http://www.youronlinechoices.com/uk/>**
 
 For more detail on our cookies, and on trusted 3rd party companies using cookies on our Site please **click here**
 
-You can learn more about cookies and how to reject cookies using different types of browser by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+You can learn more about cookies and how to reject cookies using different types of browser by visiting **[www.allaboutcookies.org](http://www.allaboutcookies.org/)**
 
-Separate tools are also available for managing local shared objects or ‘Flash cookies’ from the [Adobe website](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html). These cookies may be used to manage the effective delivery of services using video or other flash related content. 
+Separate tools are also available for managing local shared objects or ‘Flash cookies’ from the **[Adobe website](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html)**. These cookies may be used to manage the effective delivery of services using video or other flash related content. 
 
-For more information on how cookies are used on this site please [click here](https://web.archive.org/faq.html)
+  
+
+
+For more information on how cookies are used on this site please **[click here](https://web.archive.org/faq.html)**
+
+ **VisualDNA**
+
+VisualDNA's patented image-based profiling tool allows users to take control of their online experience, by providing access to advertisements, content and recommendations localised and personalised to them from across the web. We believe that individuals should be in control of their data, and our ultimate goal is to enable users to decide what information they choose to share and how they would like to benefit. To learn more about how we collect and use information for online advertising, please visit: **<http://visualdna.com/privacy-policy>**
 
 **Use Of Your Information**
 
@@ -44,10 +51,6 @@ By using this Site, you agree that we may collect, hold, process and use your in
 **Sharing Your Personal Information**
 
 We may share information about you with suppliers that we engage to help us provide certain services and/or functionality e.g online payment processing. We will use reasonable endeavours to control and be responsible for the use of your information by such suppliers. Furthermore, by using the Site, you consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the European Economic Area provides) in the event that the processing of your information involves such a transfer.
-
-We may disclose your information (including personal information) to other companies within the Daily Mail and General Trust plc group of companies (the “DMGT Group”, see [www.dmgt.co.uk](http://www.dmgt.co.uk/) for further information) and may use and share within the DMGT Group information that we learn from your interactions with us and other companies within the DMGT Group.
-
-Subject to your consent, your personal information may be used by us and/or other companies within the DMGT Group to contact you by email, fax, telephone, SMS and/or post with information and offers on products/services provided by us and/or other companies within the DMGT Group. 
 
 Subject to your consent, we may supply personal information about you to selected third parties so that they may contact you with information and offers which may be of interest to you.
 
@@ -69,8 +72,7 @@ We take the security of your personal information very seriously and have approp
 
 If you wish to review or receive copies of the personal information we hold about you, change your marketing preferences or have any other queries about this privacy policy, please write to us (including full details of your request) at the following address:
 
-This Is  
-Northcliffe Media Limited  
+Local World Limited  
 Northcliffe House  
 2 Derry Street  
 London  
