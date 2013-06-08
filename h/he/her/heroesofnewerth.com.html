@@ -1,297 +1,573 @@
-<!--The following is the downloaded HTML source of the heroesofnewerth.com privacy policy that was archived on 2012-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121204090701id_/http%3A//www.heroesofnewerth.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heroesofnewerth.com privacy policy that was archived on 2013-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130608123304id_/http%3A//www.heroesofnewerth.com/documents/policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
-<title>Heroes of Newerth - Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="stylesheet" href="css/hon.css" type="text/css">
-<link rel="stylesheet" href="css/fonts.css" type="text/css">
-<link rel="stylesheet" href="css/corners.css" type="text/css">
-<script type="text/javascript" src="http://www.heroesofnewerth.com/js/jquery-1.3.js"></script>
-<script type="text/javascript" src="http://www.heroesofnewerth.com/js/common.js"></script>
-<script type="text/javascript" src="http://www.heroesofnewerth.com/js/jquery.color.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
+		<title>Heroes of Newerth - Documents - Policy</title>
+		<meta charset="utf-8">
+		<!-- Javascript files -->
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="/js/jquery-1.9.1.min.js" type="text/javascript"></script>
+		<script src="/js/jquery-ui-1.10.0.custom.min.js" type="text/javascript"></script>
+		<!--<script src="/js/parallax.js" type="text/javascript" ></script>-->
+		<script src="/js/jquery.easing.1.3.js" type="text/javascript"></script>
 
-<style type="text/css">
-img, div { behavior: url(iepngfix.htc) }
+		<link href="/css/ui-darkness/jquery-ui-1.10.0.custom.css" rel="stylesheet" type="text/css" charset="utf-8">
+		<link href="/fonts/stylesheet.css" rel="stylesheet" type="text/css" charset="utf-8">
+		<link href="/css/base.css" rel="stylesheet" type="text/css" charset="utf-8">
+		<link href="/css/buttons.css" rel="stylesheet" type="text/css" charset="utf-8">
+		<link href="/css/filterLists.css" rel="stylesheet" type="text/css" charset="utf-8">
+		<link href="/css/fonts.css" rel="stylesheet" type="text/css" charset="utf-8">
+		<link href="/css/gradients.css" rel="stylesheet" type="text/css" charset="utf-8">
+
+		
+		<!-- Javascript -->
+		<script type="text/javascript">
+			$(document).ready(function()
+			{				
+				$('.drop').hover(function(){
+					if ($(this).hasClass('com'))
+						$(this).parent('.mNav').find('.com').addClass('hovering');
+					
+					if ($(this).hasClass('gui'))
+						$(this).parent('.mNav').find('.gui').addClass('hovering');
+						
+					if ($(this).hasClass('sto'))
+						$(this).parent('.mNav').find('.sto').addClass('hovering');
+						
+					if ($(this).hasClass('med'))
+						$(this).parent('.mNav').find('.med').addClass('hovering');
+						
+					if ($(this).hasClass('for'))
+						$(this).parent('.mNav').find('.for').addClass('hovering');
+						
+					if ($(this).hasClass('ser'))
+						$(this).parent('.mNav').find('.ser').addClass('hovering');
+				}, function(){
+					if ($(this).hasClass('com') && $(this).parent('.mNav').find('.com').hasClass('hovering'))
+						$(this).parent('.mNav').find('.com').removeClass('hovering');
+					
+					if ($(this).hasClass('gui') && $(this).parent('.mNav').find('.gui').hasClass('hovering'))
+						$(this).parent('.mNav').find('.gui').removeClass('hovering');
+						
+					if ($(this).hasClass('sto') && $(this).parent('.mNav').find('.sto').hasClass('hovering'))
+						$(this).parent('.mNav').find('.sto').removeClass('hovering');
+						
+					if ($(this).hasClass('med') && $(this).parent('.mNav').find('.med').hasClass('hovering'))
+						$(this).parent('.mNav').find('.med').removeClass('hovering');
+						
+					if ($(this).hasClass('for') && $(this).parent('.mNav').find('.for').hasClass('hovering'))
+						$(this).parent('.mNav').find('.for').removeClass('hovering');
+						
+					if ($(this).hasClass('ser') && $(this).parent('.mNav').find('.ser').hasClass('hovering'))
+						$(this).parent('.mNav').find('.ser').removeClass('hovering');
+				});
+
+				$('body').css("min-height",$(window).height()-300+"px");
+				$('#mainContent').css("min-height",$(window).height()-300+"px");
+
+				//START Smooth Scroll Anchors
+				//console.log($(".scroll").length);
+				$(".scroll").click(function(event) {
+					event.preventDefault();
+					var $anchor = $('#' + this.hash.substring(1));
+
+					//Mobile
+					if ($('body').hasClass('mobile')) {
+						$('html,body').animate({
+							scrollTop: $anchor.offset().top - 20
+						}, 600);
+					}
+					else {
+						$('html,body').animate({
+							scrollTop: $anchor.offset().top - 50
+						}, 600);
+					}
+				});
+				//END Smooth Scroll Anchors
+			});
+
+			var hideTimer = null;
+
+			// Resize Window Effects
+			$(window).resize(function()
+			{
+				$('body').css("min-height",$(window).height()-300+"px");
+				$('#mainContent').css("min-height",$(window).height()-300+"px");
+			});
+
+			// Dropdown Menu
+			function showMenu(div)
+			{
+				$('#'+div).stop().fadeTo("fast", 1).show();
+
+				if (hideTimer != null) {
+					clearTimeout(hideTimer);
+					hideTimer = null;
+				}
+
+				if (div != "news")
+					hideIt("news");
+
+				if (div != "guides")
+					hideIt("guides");
+
+				if (div != "community")
+					hideIt("community");
+
+				if (div != "store")
+					hideIt("store");
+
+				if (div != "services")
+					hideIt("services");
+
+				if (div != "forums")
+					hideIt("forums");
+
+				if (div != "media")
+					hideIt("media");
+			}
+
+			function hideMenu(div)
+			{
+				hideTimer = setTimeout(function()
+				{
+					$("#"+div).fadeTo("fast", 0, function()
+					{
+						$(this).hide();
+					});
+				}, 200);
+			}
+
+			function showIt(div)
+			{
+				$('#'+div).show();
+			}
+
+			function hideIt(div)
+			{
+				$('#'+div).hide();
+			}
+		</script>
+		
+		<style>
+			/* MOBILE AKA SMALL WINDOWS */
+			@media screen and (max-width: 1100px) {
+				#loginBar {
+					position: relative;
+					margin: auto;
+				}
+				
+				#loginBar .centerIt {
+					max-width: 1060px;
+				}
+				
+				.addSpace {
+					width: 183px;
+				}
+
+				/* PURE MOBILE */
+							}
+			</style>
+		
+		<style>	
+	
+body {
+background-image: url("/images/default_04.jpg");
+}	
+	
+</style>	</head>
+	<body style="min-height: 468px;">
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+		<!-- This is for the Login Bar -->
+		<div id="loginBar" class="gDark">
+			<div class="centerIt">
+				<!-- Login -->
+				<div class="right">
+											<!-- User is not logged in yet -->
+						<div id="notLogged">
+							<form onsubmit="Login.Login($('#loginUsername').val(), $('#loginPassword').val()); return false;">
+								<div class="btn-red" style="width: 77px; margin: 3px 0 0 7px; float: right;">
+									<div class="btn-left"></div>
+									<input class="btn-center login loginbtn" style="border-radius: 0; float: left; font-size: 14px; margin: 0; padding: 0; width: 60px !important;" type="submit" tabindex="3" name="submit" value="LOGIN">
+									<div class="btn-right"></div>
+								</div>
+								<input id="loginPassword" tabindex="2" class="inputThis gGrey right" autocomplete="off" type="text" name="password" value="PASSWORD" placeholder="PASSWORD" onfocus="if(this.type=='text'){this.type='password';this.value='';}">
+								<input id="loginUsername" tabindex="1" class="inputThis gGrey right" type="text" name="nickname" value="USERNAME" placeholder="USERNAME" onclick="if (this.value == 'USERNAME'){this.value = '';}" onblur="if (this.value == ''){this.value='USERNAME';}">
+							</form>
+						</div>
+										</div>
+				
+				<!-- Social Buttons -->
+				<div id="social" class="left">
+					<a target="_blank" class="facebook left" href="http://www.facebook.com/heroesofnewerth"></a>
+					<a target="_blank" class="twitter left" href="http://www.twitter.com/heroesofnewerth"></a>
+					<a target="_blank" class="youtube left" href="http://www.youtube.com/s2games"></a>
+					<a target="_blank" class="reddit left" href="http://www.reddit.com/r/heroesofnewerth"></a>
+					<div class="fb-like left" data-href="http://www.facebook.com/heroesofnewerth" data-send="false" data-width="450" data-show-faces="false" data-font="tahoma" data-colorscheme="dark"></div>				
+				</div>
+			</div>
+		</div>
+		
+		<div id="mLeaves"></div>
+
+		<!-- Main Navigation -->
+		<div class="navigation">
+			<!-- Chains -->
+			<img class="chain" src="/images/chain.png" alt="chain" style="top: 42px; margin-left: -488px;">
+			<img class="chain" src="/images/chain.png" alt="chain" style="top: 28px; margin-left: -85px;">
+			<img class="chain" src="/images/chain.png" alt="chain" style="top: 28px; margin-left: 66px;">
+			<img class="chain" src="/images/chain.png" alt="chain" style="top: 42px; margin-left: 463px;">
+
+			<!-- Core Navigation -->
+			<div class="mNav navLeft left">
+				<a href="/landing/community/" class="button com left" onmouseover="showMenu('community')" onmouseout="hideMenu('community')"><p class="bold uppercase yellow fontM">COMMUNITY</p></a>
+				<div class="drop com fontXXXS regular" id="community" onmouseover="showMenu('community')" onmouseout="hideMenu('community')">
+					<a href="/news/">NEWS</a>
+					<a href="http://www.honcast.com/">HONCAST</a>
+					<a href="http://www.hontour.com/">HON TOUR</a>
+					<a href="/ladder/">PLAYER LADDER</a>
+					<a href="/media/fanmedia/">FAN MEDIA</a>
+					<a href="/media/fansites/">COMMUNITY SITES</a>
+				</div>
+				<a href="/landing/guides/" class="button gui left" onmouseover="showMenu('guides')" onmouseout="hideMenu('guides')"><p class="bold uppercase yellow fontM">GAMEPLAY</p></a>
+				<div class="drop gui fontXXXS regular" id="guides" onmouseover="showMenu('guides')" onmouseout="hideMenu('guides')">
+					<!--<a href="explore.php">TAKE THE TOUR</a>
+					<a href="overview.php">GAMEPLAY OVERVIEW</a>-->
+					<a href="/heroes/">HEROES</a>
+					<a href="/items/">ITEMS</a>
+					<a href="/guides/">STRATEGY GUIDES</a>
+					<a href="/maps/">MAPS</a>
+				</div>
+				<a href="/landing/store/" class="button sto left" onmouseover="showMenu('store')" onmouseout="hideMenu('store')"><p class="bold uppercase yellow fontM">STORE</p></a>
+				<div class="drop sto fontXXXS regular" id="store" onmouseover="showMenu('store')" onmouseout="hideMenu('store')">
+					<!-- <a href="store.php">IN-GAME STORE</a>
+					<a href="merchandise/php">MERCHANDISING</a>-->
+					<a href="/store/gold/">BUY GOLD COINS</a>
+					<a target="_blank" href="/store/ecards/">GIFT AN ECARD</a>
+					<a href="/store/accounticon/">CUSTOM ACCOUNT ICON</a>
+					<a href="/store/subaccount/">ADD A SUB ACCOUNT</a>
+					<a href="/store/reset/">RESET ACCOUNT STATS</a>
+					<a href="/redeem">REDEEM A CODE</a>
+				</div>
+			</div>
+
+			<div class="mNav navRight right">
+				<a href="/landing/services/" class="button ser right" onmouseover="showMenu('services')" onmouseout="hideMenu('services')"><p class="bold uppercase yellow fontM">SERVICES</p></a>
+				<div class="drop ser fontXXXS regular" id="services" onmouseover="showMenu('services')" onmouseout="hideMenu('services')">
+					<a href="/create/">CREATE AN ACCOUNT</a>
+					<a href="/download/">DOWNLOAD CLIENT</a>
+					<a href="/referral/">REFER A FRIEND</a>
+					<a href="/support/">SUPPORT</a>
+				</div>
+				<a href="http://forums.heroesofnewerth.com/" class="button for right" onmouseover="showMenu('forums')" onmouseout="hideMenu('forums')"><p class="bold uppercase yellow fontM">FORUMS</p></a>
+				<div class="drop for fontXXXS regular" id="forums" onmouseover="showMenu('forums')" onmouseout="hideMenu('forums')">
+					<a href="http://forums.heroesofnewerth.com/">FORUMS</a>
+				</div>
+				<a href="/landing/media/" class="button med right" onmouseover="showMenu('media')" onmouseout="hideMenu('media')"><p class="bold uppercase yellow fontM">MEDIA</p></a>
+				<div class="drop med fontXXXS regular" id="media" onmouseover="showMenu('media')" onmouseout="hideMenu('media')">
+					<a target="_blank" href="http://www.youtube.com/s2games">VIDEOS</a>
+					<a href="/media/art/">ARTWORK</a>
+					<a href="/media/wallpaper/">WALLPAPERS</a>
+					<a href="/media/screens/">SCREENSHOTS</a>
+					<a href="/media/fanmedia/">FAN MEDIA</a>
+					<a href="/media/fsk/">FANKIT</a>
+				</div>
+			</div>
+
+			<!-- Logo and Play for Free / Create -->
+			<a id="mLogo" href="/home/"></a>
+			<div id="p4f">
+									<a class="btn-p4f" href="/create/"></a>
+								</div>
+		</div>
+
+		<!-- CORE WEBSITE CONTENT -->
+		<div id="mainContent" style="min-height: 468px;">
+			<div id="errorBar" class="subTitle" onclick="hideIt('errorBar');">
+				<p class="subTitle">Error - This is a list of what has happened / what has gone wrong!</p>
+			</div>
+			
+			<div class="wrapper">
+				<div class="addSpace"></div>
+				<!-- CSS -->
+<style>		
+#document {
+	border-radius: 6px;
+	margin: auto;
+}
+
+ul {
+	margin: 0;
+}
+
+.borderMe {
+	padding-bottom: 20px;
+	border-bottom: 1px solid #333333;
+}
 </style>
 
-<script language="javascript">
+<div id="document" class="gDark centerIt padding default">
+	<p class="borderMe"><span class="title fontXXL">Privacy Policy</span><br>
+	S2 Games, LLC., heretofore "S2 Games," provides this Privacy Statement to inform you of our privacy policy 
+	and practices and of the choices you can make about the way your information is collected and used.</p>
+	
+	<p><span class="title fontXXL">This Privacy Statement is notice of:</span></p>
+	
+	<ul>
+		<li>What personally identifiable information is collected from you through the website</li>
+		<li>The organization collecting the information</li>
+		<li>How the information is used</li>
+		<li>With whom the information may be shared</li>
+		<li>What choices are available to you regarding collection, use and distribution of the information</li>
+		<li>The kind of security procedures that are in place to protect the loss, misuse or alteration of information under S2 Games' control</li>
+		<li>How you can correct any inaccuracies in the information</li>
+	</ul>
 
-function showIt(div){
-     if (document.getElementById) {  // for Netscape
-       myDiv = document.getElementById(div);
-          myDiv.style.display = 'block';
-     }
+	<p class="borderMe">If you feel that this company is not abiding by its posted privacy policy, you should first contact S2 Games by EMAIL at 
+	privacy@s2games.com.</p>
+	
+	<p class="borderMe"><span class="title fontXXL">Information Collection and Use</span><br>
+	S2 Games is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in 
+	ways different from what is disclosed in this statement. S2 Games collects information from our users at several different points on 
+	our website.</p>
+	
+	<p class="borderMe"><span class="title fontXXL">Cookies</span><br>
+	A cookie is a piece of data stored on the user's hard drive containing information about the user. Once the user closes their browser,
+	the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once,
+	thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the
+	user will be limited in some areas of our site. For example, the user will not be able to participate in any of our Sweepstakes, Contests
+	or monthly Drawings that take place. Cookies can also enable us to track and target the interests of our users to enhance the experience
+	on our site.<br><br>
 
-     if (document.all) {     // for IE
-       eval("myDiv = "+div+";");
-          myDiv.style.display = 'block';
-     }
-}
-function hideIt(div){
-     if (document.getElementById) {  // for Netscape
-       myDiv = document.getElementById(div);
-          myDiv.style.display = 'none';
-     }
+	Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.</p>
 
-     if (document.all) {     // for IE
-       eval("myDiv = "+div+";");
-          myDiv.style.display = 'none';
-     }
-}
+	<p class="borderMe"><span class="title fontXXL">Log Files</span><br>
+	We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for 
+	aggregate use. IP addresses are not linked to personally identifiable information.</p>
+	
+	<p class="borderMe"><span class="title fontXXL">Sharing</span><br>
+	We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that
+	can identify any individual person.<br><br>
+
+	We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact
+	information that is necessary for the third party to provide these services.<br><br>
+
+	These parties are not allowed to use personally identifiable information except for the purpose of providing these services.</p>
+	
+	<p class="borderMe"><span class="title fontXXL">Links</span><br>
+	This website contains links to other sites. Please be aware that S2 GAMES is not responsible for the privacy practices of such other sites.
+	We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects 
+	personally identifiable information. This privacy statement applies solely to information collected by this website.</p>
+	
+	<p class="borderMe"><span class="title fontXXL">Newsletter</span><br>
+	If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.</p>
+	
+	<p class="borderMe"><span class="title fontXXL">Surveys &amp; Contests</span><br>
+	From time to time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely
+	voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact 
+	information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be 
+	used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction 
+	of this site.</p>
+	
+	<p class="borderMe"><span class="title fontXXL">Tell-A-Friend</span><br>
+	If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. 
+	S2 GAMES will automatically send the friend a one-time email inviting them to visit the site. S2 GAMES stores this information for the 
+	sole purpose of sending this one-time email. The friend may contact S2 GAMES at remove@s2games.com to request the removal of this information
+	from their database.</p>
+	
+	<p class="borderMe"><span class="title fontXXL">Correction/Updating Personal Information</span><br>
+	If a user's personally identifiable information changes (such as your email address), or if a user no longer desires our service, we will endeavor
+	to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page 
+	or by emailing our Customer Support.</p>
+	
+	<p><span class="title fontXXL">Notification of Changes</span><br>
+	If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect,
+	how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner 
+	different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not 
+	we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was 
+	collected.</p>
+</div>				<div class="floatClear"></div>
+			</div>
+			
+			<div id="lightbox_notMedia" class="parent_panel"></div>
+		</div>
+
+		<!-- Footer Logos -->
+		<a href="http://s2games.com/" id="s2" class="footerLogo"></a>
+		<a href="http://www.heroesofnewerth.com/" id="hon" class="footerLogo"></a>
+
+		<!-- The Actual Footer -->
+		<div id="footer">
+			<div style="width: 1040px; margin: auto; height: 100%; padding: 0 30px;">
+				<div class="col left">
+					<p class="footHead subTitle fontXL">COMMUNITY</p>
+					<p class="footList default">
+						<a href="/news/">NEWS</a><br>
+						<a href="http://www.honcast.com/">HONCAST</a><br>
+						<a href="http://www.hontour.com/">HON TOUR</a><br>
+						<a href="/ladder/">PLAYER LADDER</a><br>
+						<a href="/media/fanmedia/">FAN MEDIA</a><br>
+						<a href="/media/fansites/">COMMUNITY SITES</a>
+					</p>
+				</div>
+				<div class="col left">
+					<p class="footHead subTitle fontXL">GAMEPLAY</p>
+					<p class="footList default">
+						<a href="/heroes/">HEROES</a><br>
+						<a href="/items/">ITEMS</a><br>
+						<a href="/guides/">STRATEGY GUIDES</a><br>
+						<a href="/maps/">MAPS</a>
+					</p>
+				</div>
+				<div class="col left">
+					<p class="footHead subTitle fontXL">STORE</p>
+					<p class="footList default">
+						<a href="/store/gold/">BUY GOLD COINS</a><br>
+						<a target="_blank" href="/store/ecards/">GIFT AN ECARD</a><br>
+						<a href="/store/accounticon/">CUSTOM ACCOUNT ICON</a><br>
+						<a href="/store/subaccount/">ADD A SUB ACCOUNT</a><br>
+						<a href="/store/reset/">RESET ACCOUNT STATS</a>
+
+					</p>
+				</div>
+				<div class="col left">
+					<p class="footHead subTitle fontXL">MEDIA</p>
+					<p class="footList default">
+						<a target="_blank" href="http://www.youtube.com/s2games">VIDEOS</a><br>
+						<a href="/media/art/">ARTWORK</a><br>
+						<a href="/media/wallpaper/">WALLPAPERS</a><br>
+						<a href="/media/screens/">SCREENSHOTS</a><br>
+						<a href="/media/fanmedia/">FAN MEDIA</a><br>
+						<a href="/media/fsk/">FANKIT</a>
+					</p>
+				</div>
+				<div class="col left">
+					<p class="footHead subTitle fontXL">FORUMS</p>
+					<p class="footList default">
+						<a href="http://forums.heroesofnewerth.com/">FORUMS</a>
+					</p>
+				</div>
+				<div class="col left">
+					<p class="footHead subTitle fontXL">SERVICES</p>
+					<p class="footList default">
+						<a href="/create/">CREATE AN ACCOUNT</a><br>
+						<a href="/download/">DOWNLOAD CLIENT</a><br>
+						<a href="/referral/">REFER A FRIEND</a><br>
+						<a href="/support/">SUPPORT</a>
+					</p>
+				</div>
+
+				<div id="details" class="left regular fontXXS greyDark">
+					©2013 S2 Games, All Rights Reserved. <br>
+					<a href="/documents/policy/">PRIVACY POLICY</a> | <a href="/documents/media/">MEDIA POLICY</a> | <a href="/documents/partners/">PARTNERS</a> | <a href="/documents/credits/">CREDITS</a> | <a href="http://www.s2games.com/careers.php">JOBS</a>
+				</div>
+			</div>
+		</div>
+
+		<script type="text/javascript">
+//<![CDATA[
+
+//]]>
 </script>
-
-</head>
-
-<body>
-<div id="GlobalToolTip"></div>
-<script type="text/javascript" src="js/globalpop.js"></script>
-
-<div id="container">
-<img src="images/enviro/3_top.jpg" id="fancybg_img" style="height:406px;">
-<img src="images/enviro/3_bot.png" id="fancybg_img" style="top: 556px; height:80px;">
-
-<div id="header"></div>
-
-<div id="content">
-
-		<!-- Sub Header -->
-	<div style="position: relative; width: 100%; height: 84px; margin: 0;">
-		<img src="http://www.heroesofnewerth.com/images/sh_1.png" width="165" height="84" style="float: left;">
-		<img src="http://www.heroesofnewerth.com/images/sh_2.jpg" width="585" height="84" style="float: left;">
-		<img src="http://www.heroesofnewerth.com/images/sh_3.png" width="250" height="84" style="float: left;">
-	</div>
-	<div style="position: relative; width: 100%; height: 73px; margin: 0;"><img src="http://www.heroesofnewerth.com/images/sh_4.jpg" width="1000" height="73"></div>
-	<div style="position: relative; width: 100%; height: 9px; margin: 0;"><img src="http://www.heroesofnewerth.com/images/sh_v2_1.png" width="1000" height="9"></div>	
-	<div style="position: relative; width: 100%; height: 76px;">
-		<img src="http://www.heroesofnewerth.com/images/sh_v2_men1.png" style="width: 9px; height: 76px; float: left;">
-		<a href="http://www.heroesofnewerth.com/download.php" style="float: left; display:block; height: 100%; color: white; text-decoration: none; cursor: pointer;"><div class="sh_v3_btn" id="sh_v3_download"><div style="padding-top: 61px; font-size: 10px;">Download</div></div></a>		
-		<a href="http://www.heroesofnewerth.com/media.php" style="float: left; display:block; height: 100%; color: white; text-decoration: none; cursor: pointer;"><div class="sh_v3_btn" id="sh_v3_media"><div style="padding-top: 61px; font-size: 10px;">Media</div></div></a>
-		<a href="http://www.heroesofnewerth.com/tournaments.php" style="float: left; display:block; height: 100%; color: white; text-decoration: none; cursor: pointer;"><div class="sh_v3_btn" id="sh_v3_tourney"><div style="padding-top: 61px; font-size: 10px;">Tournaments</div></div></a>
-		<a href="http://replays.heroesofnewerth.com/" style="float: left; display:block; height: 100%; color: white; text-decoration: none; cursor: pointer;"><div class="sh_v3_btn" id="sh_v3_replays"><div style="padding-top: 61px; font-size: 10px;">Replays</div></div></a>
-		<a href="http://forums.heroesofnewerth.com/" style="float: left; display:block; height: 100%; color: white; text-decoration: none; cursor: pointer;"><div class="sh_v3_btn" id="sh_v3_forum"><div style="padding-top: 61px; font-size: 10px;">Forums</div></div></a>
-		<a href="http://www.heroesofnewerth.com/player_ladder.php" style="float: left; display:block; height: 100%; color: white; text-decoration: none; cursor: pointer;"><div class="sh_v3_btn" id="sh_v3_players"><div style="padding-top: 61px; font-size: 10px;">Player Ladder</div></div></a>				
-		<a href="http://www.heroesofnewerth.com/referral.php" style="float: left; display:block; height: 100%; color: white; text-decoration: none; cursor: pointer;"><div class="sh_v3_btn" id="sh_v3_referral"><div style="padding-top: 61px; font-size: 10px;">Refer A Friend</div></div></a>
-		<a href="http://www.heroesofnewerth.com/heroes.php" style="float: left; display:block; height: 100%; color: white; text-decoration: none; cursor: pointer;"><div class="sh_v3_btn" id="sh_v3_heroes"><div style="padding-top: 61px; font-size: 10px;">Heroes</div></div></a>
-		<a href="http://www.heroesofnewerth.com/items.php" style="float: left; display:block; height: 100%; color: white; text-decoration: none; cursor: pointer;"><div class="sh_v3_btn" id="sh_v3_items"><div style="padding-top: 61px; font-size: 10px;">Items</div></div></a>		
-		<a href="http://www.heroesofnewerth.com/guides.php" style="float: left; display:block; height: 100%; color: white; text-decoration: none; cursor: pointer;"><div class="sh_v3_btn" id="sh_v3_guides"><div style="padding-top: 61px; font-size: 10px;">Guides</div></div></a>		
-		<a href="http://www.heroesofnewerth.com/cs.php" style="float: left; display:block; height: 100%; color: white; text-decoration: none; cursor: pointer;"><div class="sh_v3_btn" id="sh_v3_support"><div style="padding-top: 61px; font-size: 10px;">Account</div></div></a>		
-		<a href="https://www.heroesofnewerth.com/purchase.php" style="float: left; display:block; height: 100%; color: white; text-decoration: none; cursor: pointer;"><div class="sh_v3_btn" id="sh_v3_shop"><div style="padding-top: 61px; font-size: 10px;">Buy Coins</div></div></a>		
-		<img src="http://www.heroesofnewerth.com/images/sh_v2_men2.png" style="width: 10px; height: 76px; float: left;">		
-		<img src="http://www.heroesofnewerth.com/images/sh_v2_mencenter.png" style="position: absolute; z-index: 999; top: 0; left: 483px; width: 46px; height: 32px;">
-	</div>
-	<div style="position: relative; width: 100%; height: 53px;">
-		<img src="http://www.heroesofnewerth.com/images/sh_v2_3.gif" width="483" height="53" style="float: left;">
-		<div class="submenclose_v2" style="float: left;"><a href="http://www.heroesofnewerth.com"></a></div>
-		<div style="float: left; background: url(http://www.heroesofnewerth.com/images/sh_v2_4.gif); width: 481px; height: 53px; text-align: left;">
-			<div style="margin: 14px 0 0 255px;">
-				<a href="http://www.facebook.com/heroesofnewerth" target="_blank"><img src="http://www.heroesofnewerth.com/images/sm_facebook.gif" style="width: 24px; height: 24px; margin: 0 5px 0 0;" border="0"></a>
-				<a href="http://twitter.com/heroesofnewerth" target="_blank"><img src="http://www.heroesofnewerth.com/images/sm_twitter.gif" style="width: 24px; height: 24px; margin: 0 5px 0 0;" border="0"></a>
-				<a href="http://www.xfire.com/communities/heroesofficial/" target="_blank"><img src="http://www.heroesofnewerth.com/images/sm_xfire.gif" style="width: 24px; height: 24px; margin: 0 5px 0 0;" border="0"></a>
-				<a href="http://www.heroesofnewerth.com/partners.php"><img src="http://www.heroesofnewerth.com/images/sm_partners.gif" style="width: 110px; height: 24px; margin: 0 0 0 0;" border="0"></a>
-			</div>
+		<div id="dialog-message" title="" style="display: none;">
+			<p><span class="ui-icon ui-icon-alert left" style="margin: 0 7px 20px 0;"></span><span id="dialog-message-contents"></span></p>
 		</div>
-	</div>
+		<script type="text/javascript">
+			var Login = {
+				Login: function(nickname, password, ret)
+				{
+					if (nickname && password)
+					{
+						var loginObj = {
+							"nickname" : nickname,
+							"password" : password,
+						}
+						$.ajax(
+						{
+							url: '/login/login/?ajax=1',
+							type: 'post',
+							data: loginObj,
+							dataType: 'json'
+						}).done(function(data, textStatus, jqXHR)
+						{
+							if (jqXHR.getResponseHeader('ajax-redirect'))
+							{
+								window.location.href = jqXHR.getResponseHeader('ajax-redirect');
+								return;
+							}
+							if (data.error == false)
+							{
+								// Redirect if requested
+								if (ret)
+								{
+									document.location.href = ret;
+								}
+								else
+								{
+									document.location.href = document.location.href;
+								}
+								return;
+							}
+							else
+							{
+								$('#dialog-message-contents').html(data.errorList);
+								$('#dialog-message').prop('title', 'Login Error').dialog({
+									modal: true,
+									buttons: {
+										Ok: function() {
+											$(this).dialog('close');
+										}
+									}
+								});
+							}
+						});
+					}
+				},
+				Logout: function()
+				{
+					$.post('/login/logout/', {}, function(data)
+					{
+						document.location.href = "/";
+					}, 'json');
+				}
+			};
 
+			/* <![CDATA[ */
+			var google_conversion_id = 1002261595;
+			var google_conversion_label = "w6FDCIXejwQQ25j13QM";
+			var google_custom_params = window.google_tag_params;
+			var google_remarketing_only = true;
+			/* ]]> */
+
+			/* OUR ORIGINALY GOOGLE ANALYTICS */
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-35559700-1']);
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+				var ga = document.createElement('script');
+				ga.type = 'text/javascript';
+				ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+		<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+		</script>
+		<noscript>
+			<div style="display:inline;">
+				<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1002261595/?value=0&amp;label=w6FDCIXejwQQ25j13QM&amp;guid=ON&amp;script=0"/>
+			</div>
+		</noscript>			
+		<div class="floatClear"></div>
 	
-	<!-- END Sub Header -->
-
-
-	<div class="clearfix" style="position: relative; width: 100%; background: transparent; text-align: left;">
-
-
-		<div style="position: relative; width: 800px; margin-left: 100px; margin-top: 5px; background: black; border:1px solid #666666;">
-
-			<ul class="header_bar">
-				<li>Privacy Policy</li>
-			</ul>
-
-			<div style="text-align: left; padding: 10px; line-height: 18px;">
-
-			S2 Games, LLC., heretofore "S2 Games," provides this Privacy Statement to inform you of our privacy policy and practices and of the choices you can make about the way your information is collected and used.
-
-			<h2>This Privacy Statement is notice of:</h2>
-
-			   <ol>
-			   <li>What personally identifiable information is collected from you through the website
-			   </li><li>The organization collecting the information
-			   </li><li>How the information is used
-			   </li><li>With whom the information may be shared
-			   </li><li>What choices are available to you regarding collection, use and distribution of the information
-			   </li><li>The kind of security procedures that are in place to protect the loss, misuse or alteration of information under S2 Games' control
-			   </li><li>How you can correct any inaccuracies in the information
-			   </li></ol>
-
-			<p>If you feel that this company is not abiding by its posted privacy policy, you should first contact S2 Games by EMAIL at privacy@s2games.com.
-
-			</p><h2>Information Collection and Use</h2>
-			S2 Games is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. S2 Games collects information from our users at several different points on our website.
-
-			<h2>Cookies</h2>
-			A cookie is a piece of data stored on the user's hard drive containing information about the user. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our Sweepstakes, Contests or monthly Drawings that take place. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
-
-			<p>Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
-
-			</p><h2>Log Files</h2>
-			We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
-
-			<h2>Sharing</h2>
-			We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
-
-			<p>We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.
-
-			</p><p>These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
-
-			</p><h2>Links</h2>
-			This website contains links to other sites. Please be aware that S2 GAMES is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
-
-			<h2>Newsletter</h2>
-			If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.
-
-			<h2>Surveys &amp; Contests</h2>
-			From time to time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
-
-			<h2>Tell-A-Friend</h2>
-			If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. S2 GAMES will automatically send the friend a one-time email inviting them to visit the site. S2 GAMES stores this information for the sole purpose of sending this one-time email. The friend may contact S2 GAMES at remove@s2games.com to request the removal of this information from their database.
-
-			<h2>Correction/Updating Personal Information</h2>
-			If a user's personally identifiable information changes (such as your email address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support.
-
-			<h2>Notification of Changes</h2>
-			If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
-
-			</div>
-
-		</div>
-
-	</div>
-
-</div>
-
-
-<div id="clearfooter"></div>
-</div>
-
-<div id="footer">
-	<img src="http://www.heroesofnewerth.com/images/footer_vines_left.gif" width="250" height="94" border="0" style="position: absolute; left: 0; bottom: 0; z-index: 5;">
-	<img src="http://www.heroesofnewerth.com/images/footer_vines_right.gif" width="250" height="94" border="0" style="position: absolute; right: 0; bottom: 0; z-index: 5;">
-	<img src="http://www.heroesofnewerth.com/images/s2games.gif" width="53" height="60" border="0" style="position: absolute; left: 8px; bottom: 8px; z-index: 10; top: 91px;">
-
-	<div style="position:absolute; left: 0; bottom:4px; height:102px; width: 100%;"><img src="http://www.heroesofnewerth.com/images/footer_center.png" width="478" height="102"></div>
-
-	<div style="position:absolute; left: 0; bottom:4px; height:140px; width: 50%; text-align: right;"><img src="http://www.heroesofnewerth.com/images/footer_legion.gif" width="246" height="140" style="padding-right: 200px;"></div>
-
-	<div style="position:absolute; right: 0; bottom:4px; height:140px; width: 50%; text-align: left;"><img src="http://www.heroesofnewerth.com/images/footer_hellbourne.gif" width="246" height="140" style="padding-left: 200px;"></div>
-	<div style="position:absolute; left: 0; bottom:0; height:146px; width: 100%; line-height: 1.3;" class="w12">©2012 S2 Games, All Rights Reserved.<br><a href="http://www.heroesofnewerth.com/timeofheroes.php">Story</a> | <a href="http://www.heroesofnewerth.com/privacy.php">Privacy Policy</a> | <a href="http://www.heroesofnewerth.com/fansite.php">Fansite Kit</a> | <a href="http://www.heroesofnewerth.com/partners.php">Partners</a><br><a href="http://www.heroesofnewerth.com/credits.php">Credits</a> | <a href="http://www.s2games.com/careers.php">Jobs</a> | <a href="http://www.heroesofnewerth.com/resellers.php">Official Resellers</a></div>
-</div>
-
-<!-- CAI Alert -->		
-<div name="custom_icon_popup" id="custom_icon_popup" style="position: absolute; z-index: 9999; width: 574px; height: 172px; top: 38px; left: 5px; background: #000; border:1px solid #333; overflow: auto; text-align: left; padding: 10px; display: none;">
-	<div style="width: 138px; float: left;">
-		<img src="http://www.heroesofnewerth.com/images/cai_logo.jpg" style="width: 128px; height: 128px; border: 0;">
-	</div>
-	<div style="float: left;">
-		<h1 style="font-size: 22px; color: #59C2F7; margin: 4px 0;">Empty Custom Account Icon Slot!</h1>
-		<p>You currently have an empty Custom Account Icon slot awaiting file upload.</p>
-		<div>
-			<a href="http://www.heroesofnewerth.com/icons"><img width="393" height="82" border="0" src="http://heroesofnewerth.com/images/cai_Button_UIBig.png"></a>
-		</div>
-	</div>
-	<div style="float: right;">
-		<a href="javascript:void(0);" onclick="$('#custom_icon_popup').hide();"><img src="http://www.heroesofnewerth.com/images/guidepopup_closebutton.png" alt="Close Popup"></a>
-		<!-- Sorry it too so long to add this.  It really needed it.-->
-	</div>
-	<div style="clear: both;"></div>
-</div>
-<script type="text/javascript">
-	var funcName = 'loadXMLDoc';
-	if (typeof funcName == 'string' && eval('typeof ' + funcName) == 'function') {
-	
-	} else {
-		function loadXMLDoc(pageLoad, divId) {
-			var pager = pageLoad.split("?");
-			var page = pager[0];
-			var gets = pager[1].split("&");
-			var variables = new Array();
-			for (var i=0;i<gets.length;i++)
-			{
-				var get = gets[i].split("=")
-				variables[i] = "'"+get[0]+"':'"+get[1]+"'";
-			}
-			variables.join(", ");
-			variables = "{ "+variables+" }";
-			$(function(){
-				$("#"+divId)
-				.html("<div id='loading' style='text-align:center; padding-top:12px;'><img src='http://clans.heroesofnewerth.com/loading.gif'></div>")
-				$.get(page, eval( "("+variables+")"),
-					function(data) {
-						$("#"+divId).html(data)
-						$("#loading").remove()
-					});
-			});
-		}
-	}
-	$("body").prepend("<div style='width:100%; height:37px;'></div><input type='hidden' id='timesBeated' name='timesBeated' value='0' /><input type='hidden' id='friendStatus' name='friendStatus' value='0' /><div id='receiver' style='display:none;'></div>");
-	
-</script>
-<div style="height:37px; position:fixed; top:0px; width:100%; background-image:url(http://www.heroesofnewerth.com/images/acctBarBG.gif); background-repeat:repeat-x; z-index:1000; border-bottom:1px solid #666;">
-<script type="text/javascript" src="http://www.heroesofnewerth.com/js/acctBar.js.php?host=www.heroesofnewerth.com"></script>
-		<!-- LOGIN WIDGET -->
-	<div style="width:68%; height:33px; padding-top:4px; margin-left:8px;">
-		<div style="height:27px; float:left;">
-			<div style="float: left; padding-top: 3px;">
-				<a onmouseout="hideddrivetip();" onmouseover="ddrivetip('<div style=\'z-index:30001;\'><div class=\'aps-content\'><p>Home</p></div></div>', '', '200');" href="http://www.heroesofnewerth.com"><img src="http://www.heroesofnewerth.com/images/acctBar_home.gif" border="0"></a>
-			</div>
-		</div>
-		<form method="post" action="http://www.heroesofnewerth.com/login.php?return=true">
-			<div style="height:27px; float:left; margin-left:8px;">
-				<div style="float: left; padding-top: 6px; width: 45px;">
-					<span class="w12" style="color:white;"><strong>Login:</strong></span>
-				</div>
-				<div style="float: left; width: 110px;" class="textinput">
-					<b class="top"><b class="b1" style="background:#afafaf none repeat scroll 0 0;"></b><b class="b2" style="border-left:1px solid #afafaf; border-right:1px solid #afafaf;"></b><b class="b3" style="border-left:1px solid #afafaf; border-right:1px solid #afafaf;"></b><b class="b4" style="border-left:1px solid #afafaf; border-right:1px solid #afafaf;"></b></b>
-					<div style="text-align: center; border-left:1px solid #afafaf; border-right:1px solid #afafaf;" class="boxcontent">
-						<input type="text" style="border: 0px none ; background: rgb(17, 19, 30) none repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; color: rgb(220, 220, 220); width: 94%;" name="username">
-					</div>
-					<b class="bottom"><b class="b4b" style="border-left:1px solid #afafaf; border-right:1px solid #afafaf;"></b><b class="b3b" style="border-left:1px solid #afafaf; border-right:1px solid #afafaf;"></b><b class="b2b" style="border-left:1px solid #afafaf; border-right:1px solid #afafaf;"></b><b class="b1b" style="background:#afafaf none repeat scroll 0 0;"></b></b>
-				</div>
-			</div>
-			<div style="height:27px; float:left; margin-left:8px;">
-				<div style="float: left; padding-top: 6px; width: 45px;">
-					<span class="w12" style="color:white;"><strong>Pwd:</strong></span>
-				</div>
-				<div style="float: left; width: 110px;" class="textinput">
-					<b class="top"><b class="b1" style="background:#afafaf none repeat scroll 0 0;"></b><b class="b2" style="border-left:1px solid #afafaf; border-right:1px solid #afafaf;"></b><b class="b3" style="border-left:1px solid #afafaf; border-right:1px solid #afafaf;"></b><b class="b4" style="border-left:1px solid #afafaf; border-right:1px solid #afafaf;"></b></b>
-					<div style="text-align: center; border-left:1px solid #afafaf; border-right:1px solid #afafaf;" class="boxcontent">
-						<input type="password" style="border: 0px none ; background: rgb(17, 19, 30) none repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; color: rgb(220, 220, 220); width: 94%;" name="password">
-					</div>
-					<b class="bottom"><b class="b4b" style="border-left:1px solid #afafaf; border-right:1px solid #afafaf;"></b><b class="b3b" style="border-left:1px solid #afafaf; border-right:1px solid #afafaf;"></b><b class="b2b" style="border-left:1px solid #afafaf; border-right:1px solid #afafaf;"></b><b class="b1b" style="background:#afafaf none repeat scroll 0 0;"></b></b>
-				</div>
-			</div>
-			<div style="height:27px; float:left; margin-left:8px;">
-				<div style="float:left; padding-top:2px;">
-					<input class="button75" style="background-image: url(http://www.heroesofnewerth.com/images/ui/acctBar_btn_75.gif);" type="submit" value="Login">
-				</div>
-			</div>
-			
-			<div style="height:27px; float:left; margin-left:15px; padding-top: 6px;">
-				<a href="http://www.heroesofnewerth.com/cs.php">Forgot Password? / Customer Service</a>
-			</div>
-			
-			
-		</form>
-	</div>
-	<!-- END LOGIN WIDGET -->
-	</div>
-<div style="height:auto; position:fixed; top:37px; right:0px; width:250px; background-repeat:repeat-x; z-index:1001; display:none; background-color:#000;background-image:url(http://www.heroesofnewerth.com/images/acctBar_dropdownBG.gif); background-position:top; background-repeat:repeat-x; border:1px solid #666666;" id="friendsSlider">
-</div>
-<form method="post" action="http://replays.heroesofnewerth.com/search.php" style="height:0px; width:0px;" id="replaySearch">
-<input type="hidden" name="autocomplete_clans">
-<input type="hidden" name="autocomplete_playername" value="">
-<input type="hidden" name="hero_id">
-<input type="hidden" name="date" value="all">
-<input type="hidden" name="map" value="0">
-</form>
-
 
 </body></html>
