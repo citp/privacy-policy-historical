@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmxzone.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118033044id_/http%3A//www.dmxzone.com/69/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmxzone.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608222505id_/http%3A//www.dmxzone.com/69/privacy-policy) for the most accurate reproduction.*
 
 # Index - Privacy Policy - DMXzone.COM
 
