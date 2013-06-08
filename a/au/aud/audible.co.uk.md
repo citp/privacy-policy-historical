@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the audible.co.uk privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212010940id_/http%3A//www.audible.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audible.co.uk privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608230148id_/http%3A//www.audible.co.uk/privacy-policy/ref%3Dmn_anon-h_f6_pn) for the most accurate reproduction.*
 
-# Privacy & Security | Audible Privacy Statement | Audible Audiobooks | Audible.co.uk
+# Audible.co.uk Privacy Notice | Audible.co.uk
 
-Last updated: 4thMay 2011
+Last updated: 4th May 2011
 
 Audible.co.uk knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Audible.co.uk. **By visiting Audible.co.uk, you are accepting and consenting to the practices described in this Privacy Notice.**
 
