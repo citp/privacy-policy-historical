@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaustralia.com.au privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106024409id_/http%3A//www.virginaustralia.com/us/en/about-us/legal-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaustralia.com.au privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608162435id_/http%3A//www.virginaustralia.com/au/en/about-us/legal-policies/privacy) for the most accurate reproduction.*
 
 # Privacy | Virgin Australia
 
@@ -287,9 +287,3 @@ We do not have any control over how third party website operators may deal with 
 
 We do not make any representations or warranties of any kind about any of these matters. We are not responsible in any way for any loss or damage which third party website operators may cause to you, in relation to your personal information. We are unable to address any complaint which you may have about the way that third party website operators deal with your personal information. You must contact the third party website operator directly if you have concerns or require any information about any of those matters.  
  
-
-You have previously accepted Virgin Australia cookies. If you wish to opt out, and no longer accept Virgin Australia cookies, please clear cookies using the button below.
-
-  * To find out more about the use of cookies by Virgin Australia [read our Cookie Policy.](https://web.archive.org/web/20121106024409id_/http://www.virginaustralia.com/us/en/plan/destinations/destination-guides/asia-pacific/bangalore/)
-
-
