@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcam.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207072809id_/http%3A//www.abcam.com/index.html%3Fpageconfig%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcam.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609004400id_/http%3A//www.abcam.com/index.html%3Fpageconfig%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy policy | Abcam
 
@@ -57,6 +57,10 @@ We do not sell the information collected by cookies nor do we disclose informati
 
 Users have the ability to accept or disable cookies by modifying the settings in their browser. Disabling cookies, however may mean that some functionality may be affected. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
+We may advertise on the Google content network using Google's remarketing technology. Google place a unique ad-serving cookie on your computer and will use non-personal information about your browser and your activity at this site to serve ads on their content network. 
+
+Google AdWords Remarketing allows us to tailor our marketing to better suit your needs and only display ads that are relevant to you. [You can opt out here](http://www.google.com/settings/ads)
+
 ### Disclosure of personal information to third parties
 
 Abcam respects your right not to be contacted unless you want to, and we do not sell, trade, give, or rent information that can identify you personally to any third party except as detailed below.  
@@ -75,4 +79,4 @@ By using the Abcam website, you are consenting to us collecting and using the in
 
 If we change our privacy policy, we will post the changes here so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. 
 
-Last updated: October 2009 
+Last updated: May 2013 
