@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joblistnigeria.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106111856id_/http%3A//joblistnigeria.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joblistnigeria.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608105130id_/http%3A//joblistnigeria.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy - Jobs in Nigeria - Job Vacancies in Nigeria
+# Privacy - Joblistnigeria.com
 
 **Updated 26th September 2012  **
 
@@ -45,14 +45,3 @@ If you wish to disable cookies, you may do so through your individual browser op
 Unfortunately, email and online fraud are continuing concerns for virtually all businesses and organizations that operate on the Internet. Please be aware that, Joblist Nigeria can never request for your personal information either online or offline. If you receive an email or pop-up window requesting that you sign in to JoblistNigeria.com and provide your bank or credit card information, do not respond. If you suspect any fraud, send us an email through [jobs [at] joblistnigeria.com](mailto:admin@joblistnigeria.com) and we will take appropriate action which might include reporting them to EFCC
 
 **Joblist Nigeria**
-
-UK Contact Details:
-
-Surflinks Limited  
-14A Pitmedden Terrace  
-Aberdeen  
-AB10 7HR
-
-Tel: +44(0)1224 901129
-
-or    +44(0)77 35509992
