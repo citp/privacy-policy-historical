@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zazachat.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208155219id_/http%3A//www.zazachat.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazachat.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608045453id_/http%3A//www.zazachat.com/privacy.aspx) for the most accurate reproduction.*
 
 # Live Chat Software, Live Support, ZaZaCHAT - Privacy policy
 
 |  |  |  **Individually Identifiable Information**  
 ZaZa Network, Inc recognizes that the growth of online services, including Internet services, has created many privacy concerns, particularly for consumers.   
-| [ ](https://www.securitymetrics.com/site_certificate.adp?s=74%2e205%2e101%2e28&i=292265)  
+|  [ ](https://www.securitymetrics.com/site_certificate.adp?s=zazachat%2ecom&i=292265)  
 ---|---  
   
 These concerns focus on protecting "individually identifiable" information that an individual or customer reasonably expects to be kept private. As the term suggests, individually identifiable information is information that can be associated with a specific individual or entity, such as name, address, telephone number, e-mail address and/or information about online activities directly linked to them.   
