@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordbusinessgroup.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605201534id_/http%3A//www.oxfordbusinessgroup.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordbusinessgroup.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608182554id_/http%3A//www.oxfordbusinessgroup.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Oxford Business Group
 
@@ -105,7 +105,7 @@ If you feel that this site is not following its stated information policy, you m
 
 **By   e-mail:             **[info@oxfordbusinessgroup.com](mailto:info@oxfordbusinessgroup.com) ****
 
-**By telephone:**        00 971 44 461410
+**By telephone:**        00 971 4 4264642
 
 **To change your details or permissions**
 
