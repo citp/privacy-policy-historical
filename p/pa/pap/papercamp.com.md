@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papercamp.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227113935id_/http%3A//www.papercamp.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papercamp.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608051410id_/http%3A//www.papercamp.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PaperCamp.com
 
@@ -54,7 +54,7 @@ We reserve the right to transfer your personal information in the event of a tra
 
 * ### Security
 
-We take steps to help protect your personal information. We require password protection physical, electronic, and procedural safeguards to protect personal information about you. We limit access to personal information about you to employees and authorized who need to know that information in order to operate, develop or improve our services. We cannot guarantee the confidentiality of any communication or material transmitted contact us at EMAIL_PRIVACY
+We take steps to help protect your personal information. We require password protection physical, electronic, and procedural safeguards to protect personal information about you. We limit access to personal information about you to employees and authorized who need to know that information in order to operate, develop or improve our services. We cannot guarantee the confidentiality of any communication or material transmitted contact us at privacy@papercamp.com
 
 * ### Changes in Privacy Policy
 
@@ -62,7 +62,7 @@ From time to time we may update this Privacy Policy and will post a notice of an
 
 * ### Choices with Your Information
 
-We give you choices and control over the collection and use of your personal information. You can update your personal information, including your email address, profile information, and password information by logging into the service and clicking the appropriate links. You may request to have your registration account information removed by submitting a request to EMAIL_PRIVACY. We will act on your request as promptly as possible.
+We give you choices and control over the collection and use of your personal information. You can update your personal information, including your email address, profile information, and password information by logging into the service and clicking the appropriate links. You may request to have your registration account information removed by submitting a request to privacy@papercamp.com. We will act on your request as promptly as possible.
 
 * ### How to Contact Us
 
@@ -74,7 +74,7 @@ PaperCamp.com
 West Hollywood, CA 90069 USA 
 
 By email:   
-EMAIL_PRIVACY 
+privacy@papercamp.com 
 
 * ### If You Are a Resident of California
 
@@ -89,7 +89,7 @@ If you are a California resident, in addition to the rights set forth above, you
 
 
 
-You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is **EMAIL_PRIVACY**.
+You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is **privacy@papercamp.com**.
 
 * ### Changes
 
