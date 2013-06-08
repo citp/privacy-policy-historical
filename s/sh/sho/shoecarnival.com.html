@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shoecarnival.com privacy policy that was archived on 2012-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121203012513id_/http%3A//www.shoecarnival.com/company/privacy.jsp%3Fselpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shoecarnival.com privacy policy that was archived on 2013-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130609002753id_/http%3A//www.shoecarnival.com/company/privacy.jsp%3Fselpage%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 			<!-- SHOECARNIVAL -->
@@ -65,15 +65,19 @@
 	<script type="text/javascript" src="/static/js/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="/static/js/jquery.tools.min.js"></script>
 	<script type="text/javascript" src="/static/js/jquery.countdown.js"></script>
+	<script type="text/javascript" src="/static/js/jquery.hoverintent.js"></script>
 
+	<script type="text/javascript" src="/static/js/base.js"></script>
 	<script type="text/javascript" src="/static/js/scripts.js"></script>
 	
-	<!-- begin redirect to mobile site -->		
+	
+	<!-- begin redirect to mobile or tablet site -->		
 	<script>
 		var website = "shoecarnival.com";
 		var mobilesite = "m.shoecarnival.com";
+		var tabletsite = "t.shoecarnival.com";
 	</script>
-	<script type="text/javascript" src="http://s3.amazonaws.com/mobileredirect/mobileredirector.js"></script>
+	<script type="text/javascript" src="http://s3.amazonaws.com/mobileredirect/tabletredirect.js"></script>
 	<!--  end redirect to mobile site -->
 
 	<script type="text/javascript">
@@ -137,7 +141,7 @@
 	<script src="//s3.amazonaws.com/searchdiscovery-satellite-production/06f548e2ad46195c924c74041235b40393fa0a99/satelliteLib-0fd60cea98cee7a0902d556dba9fa255f4f7f1e7.js"></script>
 		</head>
 
-		<body class="atg_store_privacy atg_store_leftCol atg_store_company">
+		<body class="atg_store_privacy atg_store_leftCol atg_store_company wk">
 			<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
 			<script type="text/javascript">
 				window.fbAsyncInit = function() {
@@ -158,32 +162,8 @@
 <div class="bgContainer">
 	<div class="mainContainer">
 		<div class="subContainer">
-			<div class="headerBlock">
-				<a class="logo" href="/">SHOE CARNIVAL</a>
-				<div class="promoBlock">
-					<div class="redPromoContainer">
-						<div class="redPromoExtension"></div>							
-					</div>
-					<div class="grayPromoContainer">
-						<div class="grayPromoExtension"></div>
-						<div class="blockContainer">
-							<div class="grayPromoLeft">&nbsp;</div>
-							<div id="timePromo" class="grayPromoText">
-								<form>
-								<input type="hidden" class="timedPromoId" value="promo680010">
-								<input type="hidden" class="timedPromoName" value="Daily Special">
-								<input type="hidden" class="timeRemaining" value="12827">
-							</form>
-						<div class="grayPromoLink"><a class="arrow promotionName" href="#" rel="promo680010" promoname="Daily Special">Daily Special</a></div>
-								<div class="grayPromoTimeLabel">Time Remaining:</div>
-								<div class="defaultCountdown hasCountdown"><table class="t7_timer counterTable"><tbody><tr class="t7_vals"><td class="t7_h t7_numbs">03</td><td class="t7_m t7_numbs">33</td><td class="t7_s t7_numbs">45</td></tr><tr class="t7_labels"><td class="t7_hl t7_labs">hours</td><td class="t7_ml t7_labs">mins</td><td class="t7_sl t7_labs">secs</td></tr></tbody></table></div>
-							</div>
-							<div class="grayPromoRight">&nbsp;</div>
-						</div>
-					</div>
-					<div class="accountContent">
-						<div id="atg_store_logOut">
-		<ul>
+			<div id="global">
+		<ul class="global-account">
 					<li class="first">
 						<span class="atg_store_welcome">Welcome,</span>
 					</li>
@@ -192,24 +172,62 @@
 					</li>
 					<li class="last">
 					or&nbsp;<a style="font-weight:bold;text-decoration:none;" href="/myaccount/registration.jsp">Create an Account</a><span> for your chance to get instant savings.</span>
-					</li>
-			&nbsp;<span style="color:#aaa;">|</span>
-			<a href="http://locator.shoecarnival.com/shoeperks/" target="_blank" title="Access Shoe Perks Account">Shoe Perks</a>
+					</li><span style="color:#aaa;"></span>
+			<li class="global-account-perks">
+				<a href="http://locator.shoecarnival.com/shoeperks/" target="_blank" title="Access Shoe Perks Account">Shoe Perks</a>
+			</li>
+                        <span style="color:#aaa;"></span>
+                        <li class="global-account-perks">
+                                <a href="/company/stores.jsp" title="Store Locator">Store Locator</a>
+                        </li>
 		</ul>
-	</div>
+		
+		<div class="global-cart hoverdelay">
+    <a href="/cart/cart.jsp" class="global-cart-link">
+			<span class="global-cart-icon">Shopping Cart:</span>
+	    0 • $0.00</a>
+   <div class="global-cart-flyout" id="minicart">
+       <div class="minicart-empty">
+          	<p>Your shopping cart is empty. </p>
+          </div>
+	       </div>
 </div>
-				</div>
+</div>
+<div class="headerBlock">
+				<a class="logo" href="/">SHOE CARNIVAL</a>
+			 <div class="searchBlock">
+					<div id="atg_store_search">
+  <form id="searchForm" action="/atgsearch/gadgets/atgSearch.jsp?_DARGS=/atgsearch/gadgets/atgSearch.jsp.searchform" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="6119215801021266915" type="hidden"> </div><input id="atg_store_searchInput" name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.question" value="Search" class="text atg_store_searchInput" type="text" autocomplete="off"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.question" value=" " type="hidden"><input type="hidden" id="questionSaved" name="questionSaved" value="">
+
+    <input type="hidden" id="catIdSaved" name="catIdSaved" value="null">
+
+    <input id="qfh_docSort" name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSort" value="relevance" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSort" value=" " type="hidden"><input id="qfh_docSortOrder" name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSortOrder" value="descending" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSortOrder" value=" " type="hidden"><input id="qfh_multiSearchSession" name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.multiSearchSession" value="true" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.multiSearchSession" value=" " type="hidden"><input id="qfh_saveRequest" name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.saveRequest" value="true" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.saveRequest" value=" " type="hidden"><input id="qfh_pageSize" name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.pageSize" value="12" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.pageSize" value=" " type="hidden"><div id="atg_store_searchStoreSelect">
+    <input name="/atg/store/profile/SessionBean.searchSiteIds" value="storeSiteUS" type="hidden"><input name="_D:/atg/store/profile/SessionBean.searchSiteIds" value=" " type="hidden"></div>
+    <input type="hidden" name="searchExecByFormSubmit" value="true">
+
+    <input id="atg_store_search_searchurl" name="/atg/commerce/search/catalog/QueryFormHandler.successURL" value="http://www.shoecarnival.com//atgsearch/atgSearchResults.jsp" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.successURL" value=" " type="hidden"><input name="/atg/commerce/search/catalog/QueryFormHandler.search" value="" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.search" value=" " type="hidden"><span class="atg_store_smallButton">
+      <input type="submit" value="Go" id="atg_b2cstore_search" class="searchButton" onclick="trackEvent()">
+    </span>
+	<script type="text/javascript">
+		function trackEvent() {
+		var searchString=document.getElementById('atg_store_searchInput').value;
+		_gaq.push(['_trackEvent', 'Search', 'Submit', searchString]); //alert("");
+		}
+	</script>
+  <div style="display:none"><input name="_DARGS" value="/atgsearch/gadgets/atgSearch.jsp.searchform" type="hidden"> </div></form><div id="facetTrailSaved"></div>
+</div>
+  
+</div>
 			</div>
 
-			<div class="navigationBlock">
-			<div id="atg_store_catNavArea" class="navigationMenu">
-				<ol id="atg_store_catNav">
+			<ol class="navigationBlock hoverdelay" id="navigation">
+      <!-- <div id="atg_store_catNavArea" class="navigationMenu">
+				<ol id="atg_store_catNav"> -->
 					<li class=" ">
 
       <a class="topCatLinks" href="/shoe/New-Arrivals!/category/cat320002">New Arrivals!</a><div class="subNavContainer">
-      <div class="atg_store_catSubNv">
-        <ul class="sub_category">
-        <li class="sbFirst">CATEGORY</li>
+     <ul class="sub_category">
+        <li class="sbFirst">Shop by Category</li>
         <li class="odd first">
 
           <a href="/shoe/New-Arrivals!/Women's/category/cat300011">Women's</a></li>
@@ -228,15 +246,13 @@
         </ul>
 
         </div>
-      </div>
     </li>
-	<li class="topCatLinks">|</li>
+	<li class="topCatLinks"></li>
 	<li class=" ">
 
       <a class="topCatLinks" href="/shoe/Women/category/scvl90017cat">Women</a><div class="subNavContainer">
-      <div class="atg_store_catSubNv">
-        <ul class="sub_category">
-        <li class="sbFirst">CATEGORY</li>
+     <ul class="sub_category">
+        <li class="sbFirst">Shop by Category</li>
         <li class="odd first">
 
           <a href="/shoe/Women/Boots/category/scvl90026cat">Boots</a></li>
@@ -264,15 +280,13 @@
         </ul>
 
         </div>
-      </div>
     </li>
-	<li class="topCatLinks">|</li>
+	<li class="topCatLinks"></li>
 	<li class=" ">
 
       <a class="topCatLinks" href="/shoe/Men/category/scvl90018cat">Men</a><div class="subNavContainer">
-      <div class="atg_store_catSubNv">
-        <ul class="sub_category">
-        <li class="sbFirst">CATEGORY</li>
+     <ul class="sub_category">
+        <li class="sbFirst">Shop by Category</li>
         <li class="odd first">
 
           <a href="/shoe/Men/Boots/category/scvl90033cat">Boots</a></li>
@@ -300,15 +314,13 @@
         </ul>
 
         </div>
-      </div>
     </li>
-	<li class="topCatLinks">|</li>
+	<li class="topCatLinks"></li>
 	<li class=" ">
 
       <a class="topCatLinks" href="/shoe/Girls/category/scvl90019cat">Girls</a><div class="subNavContainer">
-      <div class="atg_store_catSubNv">
-        <ul class="sub_category">
-        <li class="sbFirst">CATEGORY</li>
+     <ul class="sub_category">
+        <li class="sbFirst">Shop by Category</li>
         <li class="odd first">
 
           <a href="/shoe/Girls/Infants/category/scvl90043cat">Infants</a></li>
@@ -333,15 +345,13 @@
         </ul>
 
         </div>
-      </div>
     </li>
-	<li class="topCatLinks">|</li>
+	<li class="topCatLinks"></li>
 	<li class=" ">
 
       <a class="topCatLinks" href="/shoe/Boys/category/scvl90020cat">Boys</a><div class="subNavContainer">
-      <div class="atg_store_catSubNv">
-        <ul class="sub_category">
-        <li class="sbFirst">CATEGORY</li>
+     <ul class="sub_category">
+        <li class="sbFirst">Shop by Category</li>
         <li class="odd first">
 
           <a href="/shoe/Boys/Infants/category/scvl90049cat">Infants</a></li>
@@ -366,15 +376,13 @@
         </ul>
 
         </div>
-      </div>
     </li>
-	<li class="topCatLinks">|</li>
+	<li class="topCatLinks"></li>
 	<li class=" ">
 
       <a class="topCatLinks" href="/shoe/Athletics/category/scvl90021cat">Athletics</a><div class="subNavContainer">
-      <div class="atg_store_catSubNv">
-        <ul class="sub_category">
-        <li class="sbFirst">CATEGORY</li>
+     <ul class="sub_category">
+        <li class="sbFirst">Shop by Category</li>
         <li class="odd first">
 
           <a href="/shoe/Athletics/Women's/category/scvl90055cat">Women's</a></li>
@@ -383,25 +391,23 @@
           <a href="/shoe/Athletics/Men's/category/scvl90056cat">Men's</a></li>
         <li class="odd">
 
-          <a href="/shoe/Athletics/Boys/category/scvl90057cat">Boys</a></li>
+          <a href="/shoe/Athletics/Boys'/category/scvl90057cat">Boys'</a></li>
         <li class="even">
 
-          <a href="/shoe/Athletics/Girls/category/scvl90058cat">Girls</a></li>
+          <a href="/shoe/Athletics/Girls'/category/scvl90058cat">Girls'</a></li>
         <li class="odd last">
 
           <a href="/shoe/Athletics/Clearance/category/cat40022">Clearance</a></li>
         </ul>
 
         </div>
-      </div>
     </li>
-	<li class="topCatLinks">|</li>
+	<li class="topCatLinks"></li>
 	<li class=" ">
 
       <a class="topCatLinks" href="/shoe/Accessories/category/scvl90022cat">Accessories</a><div class="subNavContainer">
-      <div class="atg_store_catSubNv">
-        <ul class="sub_category">
-        <li class="sbFirst">CATEGORY</li>
+     <ul class="sub_category">
+        <li class="sbFirst">Shop by Category</li>
         <li class="odd first">
 
           <a href="/shoe/Accessories/Socks-%26-Hosiery/category/scvl90050cat">Socks &amp; Hosiery</a></li>
@@ -423,80 +429,39 @@
         </ul>
 
         </div>
-      </div>
     </li>
-	<li class="topCatLinks">|</li>
+	<li class="topCatLinks"></li>
 	<li class=" ">
 
-      <a class="topCatLinks" href="/shoe/Gifts/category/cat370021">Gifts</a><div class="subNavContainer">
-      <div class="atg_store_catSubNv">
-        <ul class="sub_category">
-        <li class="sbFirst">CATEGORY</li>
+      <a class="topCatLinks" href="/shoe/Clearance/category/cat490006">Clearance</a><div class="subNavContainer">
+     <ul class="sub_category">
+        <li class="sbFirst">Shop by Category</li>
         <li class="odd first">
 
-          <a href="/shoe/Gifts/Men's-Gifts/category/cat370022">Men's Gifts</a></li>
+          <a href="/shoe/Clearance/Women's/category/cat490007">Women's</a></li>
         <li class="even">
 
-          <a href="/shoe/Gifts/Women's-Gifts/category/cat370023">Women's Gifts</a></li>
+          <a href="/shoe/Clearance/Men's/category/cat490008">Men's</a></li>
         <li class="odd">
 
-          <a href="/shoe/Gifts/Kids'-Gifts/category/cat370024">Kids' Gifts</a></li>
+          <a href="/shoe/Clearance/Girls'/category/cat490009">Girls'</a></li>
+        <li class="even">
+
+          <a href="/shoe/Clearance/Boys'/category/cat490010">Boys'</a></li>
+        <li class="odd">
+
+          <a href="/shoe/Clearance/Athletics/category/cat490011">Athletics</a></li>
         <li class="even last">
 
-          <a href="/shoe/Gifts/Stocking-Stuffers/category/cat370025">Stocking Stuffers</a></li>
+          <a href="/shoe/Clearance/Accessories/category/cat490012">Accessories</a></li>
         </ul>
 
         </div>
-      </div>
     </li>
-	</ol>
-			</div>
-				<div class="searchBlock">
-					<div id="atg_store_search">
-  <form id="searchForm" action="/atgsearch/gadgets/atgSearch.jsp?_DARGS=/atgsearch/gadgets/atgSearch.jsp.searchform" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-2653472263850973865" type="hidden"> </div><input id="atg_store_searchInput" name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.question" value="Search" class="text atg_store_searchInput" type="text" autocomplete="off"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.question" value=" " type="hidden"><input type="hidden" id="questionSaved" name="questionSaved" value="">
-
-    <input type="hidden" id="catIdSaved" name="catIdSaved" value="null">
-
-    <input id="qfh_docSort" name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSort" value="relevance" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSort" value=" " type="hidden"><input id="qfh_docSortOrder" name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSortOrder" value="descending" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.docSortOrder" value=" " type="hidden"><input id="qfh_multiSearchSession" name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.multiSearchSession" value="true" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.multiSearchSession" value=" " type="hidden"><input id="qfh_saveRequest" name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.saveRequest" value="true" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.saveRequest" value=" " type="hidden"><input id="qfh_pageSize" name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.pageSize" value="12" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.pageSize" value=" " type="hidden"><div id="atg_store_searchStoreSelect">
-    <input name="/atg/store/profile/SessionBean.searchSiteIds" value="storeSiteUS" type="hidden"><input name="_D:/atg/store/profile/SessionBean.searchSiteIds" value=" " type="hidden"></div>
-    <input type="hidden" name="searchExecByFormSubmit" value="true">
-
-    <input id="atg_store_search_searchurl" name="/atg/commerce/search/catalog/QueryFormHandler.successURL" value="http://www.shoecarnival.com//atgsearch/atgSearchResults.jsp" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.successURL" value=" " type="hidden"><input name="/atg/commerce/search/catalog/QueryFormHandler.search" value="" type="hidden"><input name="_D:/atg/commerce/search/catalog/QueryFormHandler.search" value=" " type="hidden"><span class="atg_store_smallButton">
-      <input type="submit" value="Go" id="atg_b2cstore_search" class="searchButton" onclick="trackEvent()">
-    </span>
-	<script type="text/javascript">
-		function trackEvent() {
-		var searchString=document.getElementById('atg_store_searchInput').value;
-		_gaq.push(['_trackEvent', 'Search', 'Submit', searchString]); //alert("");
-		}
-	</script>
-  <div style="display:none"><input name="_DARGS" value="/atgsearch/gadgets/atgSearch.jsp.searchform" type="hidden"> </div></form><div id="facetTrailSaved"></div>
-</div>
-  
-</div>
-			</div>
-			<div class="miniCartBar">
-				<div class="miniCartContainer">&nbsp;</div>
-				<a class="checkoutButton" href="/cart/cart.jsp">CHECKOUT</a>
-				<div class="miniCartSubtotal"></div>
-				<div class="miniCartOverlay">
-					<div class="overlayMessaging">
-						LOOKING FOR THE MOST SAVINGS...
-						</div>
-				</div>
-			</div>
-			<div class="miniCartSavingsBar miniCartSavingsBarCollapsed">
-				<div class="miniCartSavingsBarHeader">
-					<a href="#" class="viewCartLink collapsedLink">View my savings</a>
-				</div>
-				<div class="miniCartSavingsBarContent">
-					<div class="miniCart">
-					  	</div>
-					<div class="recentChanges">
-						<h3>Recent Changes</h3>
-						</div>
-				</div>
-			</div>
+	<!-- </ol>
+      </div> -->
+			</ol>
+			
 			<div class="mainContentContainer">
 				<div id="atg_store_content" class="">
 					<div class="atg_store_nonCatHero">
@@ -619,16 +584,13 @@
 	</script>
 	<span class="signUpTitle">Sign Up For Product &amp; Promotion Info</span><br>
 	<div id="guest" class="action">
-	<form id="atg_store_promoNewsLetter" action="/navigation/gadgets/?_DARGS=/navigation/gadgets/promoNewsLetterSignUp.jsp#" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-2653472263850973865" type="hidden"> </div><input id="promoEmailSuccessURL" name="/atg/userprofiling/ProfileFormHandler.promoEmailSuccessURL" value="/company/thankYou.jsp" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.promoEmailSuccessURL" value=" " type="hidden"><input id="promoEmailErrorURL" name="/atg/userprofiling/ProfileFormHandler.promoEmailErrorURL" value="/company/thankYou.jsp" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.promoEmailErrorURL" value=" " type="hidden"><input id="promoEmail" name="/atg/userprofiling/ProfileFormHandler.promoEmail" value="" type="text"><input name="_D:/atg/userprofiling/ProfileFormHandler.promoEmail" value=" " type="hidden"><input id="promoEmailSignUp" name="/atg/userprofiling/ProfileFormHandler.promoEmailSignUp" src="/static/img/buttons/sign-up.png" type="image"><input name="_D:/atg/userprofiling/ProfileFormHandler.promoEmailSignUp" value=" " type="hidden"></form></div>
+	<form id="atg_store_promoNewsLetter" action="/navigation/gadgets/?_DARGS=/navigation/gadgets/promoNewsLetterSignUp.jsp#" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="6119215801021266915" type="hidden"> </div><input id="promoEmailSuccessURL" name="/atg/userprofiling/ProfileFormHandler.promoEmailSuccessURL" value="/company/thankYou.jsp" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.promoEmailSuccessURL" value=" " type="hidden"><input id="promoEmailErrorURL" name="/atg/userprofiling/ProfileFormHandler.promoEmailErrorURL" value="/company/thankYou.jsp" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.promoEmailErrorURL" value=" " type="hidden"><input id="promoEmail" name="/atg/userprofiling/ProfileFormHandler.promoEmail" value="" type="text"><input name="_D:/atg/userprofiling/ProfileFormHandler.promoEmail" value=" " type="hidden"><input id="promoEmailSignUp" name="/atg/userprofiling/ProfileFormHandler.promoEmailSignUp" src="/static/img/buttons/sign-up.png" type="image"><input name="_D:/atg/userprofiling/ProfileFormHandler.promoEmailSignUp" value=" " type="hidden"></form></div>
 	<div style="display:none"><input name="_DARGS" value="/navigation/gadgets/promoNewsLetterSignUp.jsp" type="hidden"> </div><div id="">
-    Copyright © 2012 Shoe Carnival Inc.  All rights reserved.</div>
+    Copyright © 2013 Shoe Carnival Inc.  All rights reserved.</div>
 
 </div>
 			<div id="footerRight">
 			<ul>
-				<li>
-					<a title="Store Locator" href="/company/stores.jsp?selpage=stores">Store Locator</a></li>
-				<li class="bulletSeparator">•</li>
 				<li>
 					<a title="Customer Service" href="/company/faq.jsp?selpage=faq">Customer Service</a></li>
 				<li class="bulletSeparator">•</li>
@@ -680,10 +642,10 @@
 	</div>
 	</div>
 <!--
-        Profile Profile[71189897]
+        Profile Profile[97960864]
         Profile Catalog catalog:masterCatalog
         login no login>
-        Order Order[type:default; id:o91348270; state:INCOMPLETE; transient:true; profileId:71189897; ]
+        Order Order[type:default; id:o117414518; state:INCOMPLETE; transient:true; profileId:97960864; ]
 		Server Name: w219374apss2001:10250
 	-->
 	
