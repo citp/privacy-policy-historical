@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muis.gov.sg privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114024351id_/http%3A//www.muis.gov.sg/cms/view.aspx%3Fid%3D494) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muis.gov.sg privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608164331id_/http%3A//www.muis.gov.sg/cms/view.aspx%3Fid%3D494) for the most accurate reproduction.*
 
 # Majlis Ugama Islam Singapura (MUIS) :: Islamic Religious Council of Singapore
 
