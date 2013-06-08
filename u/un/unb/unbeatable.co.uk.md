@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unbeatable.co.uk privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203054716id_/http%3A//unbeatable.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unbeatable.co.uk privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608043343id_/http%3A//unbeatable.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy - Unbeatable.co.uk
+# Privacy Policy - Low Price At Unbeatable.co.uk
 
 ### Need to know:
 
