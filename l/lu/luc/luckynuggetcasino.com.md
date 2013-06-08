@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the luckynuggetcasino.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119005758id_/http%3A//www.luckynuggetcasino.com/security-and-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckynuggetcasino.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608153357id_/http%3A//luckynuggetcasino.com/security-and-privacy.aspx) for the most accurate reproduction.*
 
-# The Lucky Nugget Online Casino – Security & Privacy
+# The Lucky Nugget Online Casino – Security and Privacy
 
 We have created this privacy policy to outline our firm commitment to your privacy. Our policy is based on the Malta Data Protection Act 2001 and the principles held within that Act. It will also inform you of type of Personal Data we process when you use our Site, why we process this Data and how we use this Data.
 
@@ -48,7 +48,7 @@ Where there is a link from this website to another relevant site, this privacy p
 
 ## Your consent
 
-By clicking "I agree" during the registration process or by your continued use of the Site following the posting of this Privacy Policy (as applicable), you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20121119005758id_/http%3A//www.luckynuggetcasino.com/terms-and-conditions.aspx "Casino Rules") . We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on our online site.
+By clicking "I agree" during the registration process or by your continued use of the Site following the posting of this Privacy Policy (as applicable), you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20130608153357id_/http%3A//luckynuggetcasino.com/terms-and-conditions.aspx "Casino Rules") . We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on our online site.
 
 ## Right to use the Software
 
