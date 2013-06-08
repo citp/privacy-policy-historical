@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ladyfootlocker.com privacy policy that was archived on 2012-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121207104929id_/http%3A//www.ladyfootlocker.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ladyfootlocker.com privacy policy that was archived on 2013-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130609000219id_/http%3A//www.ladyfootlocker.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.-->
 
 <html xmlns:fb="http://www.facebook.com/2008/fbml"><head><script language="JavaScript">
 function openBMLWindow(url,height) {
@@ -23,19 +23,21 @@ function openInvestWin(url) {
 <!-- -->
 
 
-	<!-- web-43 -->
+	<!-- web-45 -->
 	<meta name="msvalidate.01" content="EDC57CBB5433904007B934915238FE4A">
 	
 
-	<meta http-equiv="published" content="Friday, December 7, 2012 4:49:27">
+	<meta http-equiv="published" content="Saturday, June 8, 2013 7:02:19">
 
 	
 
-	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+	<script type="text/javascript" src="/images/common/jquery/jquery.latest.js "></script>
 
 	<script type="text/javascript" src="/combine?type=js&amp;files=shared/scripts/jquery.bgiframe.pack.js,shared/scripts/ajax.js,shared/scripts/common.js,shared/search/scripts/sizesearch.js"></script>
 
 	
+		<script type="text/javascript" src="/combine?type=js&amp;files=shared/storepickup/modal.js,shared/storepickup/boris.js"></script>
+		
 
 	<script type="text/javascript">//<![CDATA[
 		var sizeSearchActionURL = 'http://www.ladyfootlocker.com/includes/sizeSearchForm.cfm';
@@ -49,7 +51,7 @@ function openInvestWin(url) {
 	<script>
 	var wishlistpostCardURL = 'https://www.ladyfootlocker.com/wishlist/wl_postcard.cfm';
 	var wishlistmailSender  = 'https://www.ladyfootlocker.com/wishlist/wl_mailSender.cfm';
-	var dsnname = 'pro-lfl-lb-alt';
+	var dsnname = 'PRO-LFL-LB';
 	
 		var microsite = '';
 	
@@ -57,7 +59,7 @@ function openInvestWin(url) {
 	
 	</script>
 	<style type="text/css">
-			@import "http://www.ladyfootlocker.com/shared/wishlist/wl_sharedWishList.css";
+		
 			.loading {
 				background: transparent url(http://www.ladyfootlocker.com/images/lfl/quickview/quickview_loader.gif) center no-repeat;
 			}
@@ -71,7 +73,7 @@ function openInvestWin(url) {
 		var register_url = "https://www.ladyfootlocker.com/account/default.cfm?action=accountCreate";
     </script> 
 	<script type="text/javascript" src="http://www.ladyfootlocker.com/shared/myAccount/login.js"></script>
-    <link href="http://www.ladyfootlocker.com/shared/myAccount/login.css" rel="stylesheet" type="text/css">
+	
 </ignoreurlreformat>
 
 	<script type="text/javascript">
@@ -79,20 +81,14 @@ function openInvestWin(url) {
             $(".loginRequired").each(initializeLoginRequired);
         });
     </script> 
-<style type="text/css">
-	.hideUntilLoaded {
-		display: none;
-	}
-	.showUntilLoaded {
-		display: block;
-	}
-</style>
+
 <script type="text/javascript">
 	$(document).ready(function() {
 		$(".showUntilLoaded").hide();
 		$(".hideUntilLoaded").show();
 	});
-</script> 
+</script>
+
 <script language="javascript">
 <!--
 		function updateWelcome (coremetricsEventId, CoremetricsCategoryId) {
@@ -122,6 +118,12 @@ function openInvestWin(url) {
 		
 			var ret_val= $.ajax({ type: "GET", url: logoutPath, data: {Next: escape(thisurl)}, async: false, cache : false }).responseText;
 			eraseCookie('BAZAARVOICEUSER');
+
+			//revmove any URL params after logout only if in shopping cart
+			if(thisurl.indexOf("shoppingcart/default.cfm") !== -1){
+				thisurl = thisurl.substring(0, thisurl.indexOf('?'));
+			}
+
 			window.location=thisurl;
 		}
 		
@@ -129,11 +131,7 @@ function openInvestWin(url) {
 </script>
 
 	<script type="text/javascript" src="/combine?type=js&amp;files=shared/endeca/js/bsn.AutoSuggest_2.1.3.js" charset="utf-8"></script>
-    <style type="text/css">
-		@import url("http://www.ladyfootlocker.com/shared/endeca/css/autosuggest_inquisitor.css");
-		@import url("http://www.ladyfootlocker.com/endeca/autosuggest.css");
-	</style>
-        
+	    
 	<ignoreurlreformat>
     <script type="text/javascript">
 		var advancedSearchShouldSubmit = false;
@@ -168,8 +166,29 @@ function openInvestWin(url) {
 	</ignoreurlreformat>
 
 
+<script language="javascript">
+	function clickSearch(fieldObj) {
+		fieldObj.value="";
+		fieldObj.style.color="black";
+	}
+</script>
 
-<style type="text/css">
+
+
+
+                	<style type="text/css">
+				@import '/combine?type=css&files=/css/typography.css,/css/style.css,/css/default_template.css,shared/storepickup/style.css,/storepickup/style.css,shared/wishlist/wl_sharedWishList.css,shared/myAccount/login.css,shared/endeca/css/autosuggest_inquisitor.css,/endeca/autosuggest.css';
+                	</style>
+		
+                	<style type="text/css">
+				
+	.hideUntilLoaded {
+		display: none;
+	}
+	.showUntilLoaded {
+		display: block;
+	}
+
 	div.autosuggest ul em {
 		color: #6AB3E0;
 	}
@@ -193,25 +212,11 @@ function openInvestWin(url) {
 		font-size: 14px;
 		font-weight: normal;
 	}	
-</style>
 
-
-<script language="javascript">
-	function clickSearch(fieldObj) {
-		fieldObj.value="";
-		fieldObj.style.color="black";
-	}
-</script>
-
-
-
-
-                <style type="text/css">
-					@import 'http://www.ladyfootlocker.com/css/typography.css'; @import 'http://www.ladyfootlocker.com/css/style.css'; @import 'http://www.ladyfootlocker.com/css/default_template.css'; 
-                </style>
-            
-                <style type="text/css">
-					@import 'http://t.p.mybuys.com/css/mbstyles.css'; 
+                	</style>
+		
+                	<style type="text/css">
+				@import 'http://t.p.mybuys.com/css/mbstyles.css'; 
 	.checkout_step {
 		height: 35px;
 		background-color: transparent;
@@ -223,8 +228,8 @@ function openInvestWin(url) {
 	#checkout_step_review { background-image: url(http://www.ladyfootlocker.com/images/lfl/checkout/header-review.gif); }
 	#checkout_step_receipt { background-image: url(http://www.ladyfootlocker.com/images/lfl/checkout/header-receipt.gif); }
 
-                </style>
-            
+                	</style>
+		
 <script language="javascript1.1" src="//libs.coremetrics.com/eluminate.js" type="text/javascript"></script>
 
 <script language="javascript1.1" src="http://www.ladyfootlocker.com/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
@@ -253,10 +258,258 @@ function openInvestWin(url) {
 	
             <style type="text/css">
                 </style>
+<link rel="stylesheet" href="/images/common/css/global-styles.css">
 <script src="//cdn.optimizely.com/js/82719230.js"></script>
 <style>
             </style>
         
+<script type="text/javascript">
+	var ie6 = false;
+</script>
+
+<!--[if lt IE 7]>
+<script type="text/javascript">
+	ie6 = true;
+</script>
+
+
+
+	<script type="text/javascript" src="http://www.ladyfootlocker.com/shared/scripts/jquery.bgiframe.pack.js"></script>
+    
+
+<![endif]-->
+
+<script type="text/javascript">
+var bubble = function() {
+	
+		var	thisWidth = 250; // minimum width
+		var	thisHeight = 75; // minimum height
+	//	var thisWidth = 283; // minimum width
+	//	var thisHeight = 150; // minimum height
+	
+	var content = null;
+	var wrapper = '<div id="bubbleContainer"><table id="bubble"><tr> <td class="top_left">&nbsp;</td> <td class="top_center" colspan="3">&nbsp;</td> <td class="top_right">&nbsp;</td></tr><tr> <td class="middle_left">&nbsp;</td> <td class="middle_center" colspan="3">&nbsp;</td> <td class="middle_right">&nbsp;</td></tr><tr> <td class="bottom_left">&nbsp;</td> <td class="bottom_center">&nbsp;</td> <td class="bottom_arrow">&nbsp;</td> <td class="bottom_center">&nbsp;</td> <td class="bottom_right">&nbsp;</td></tr></table></div>';
+	var mapping = new Object();
+	
+		mapping['billTextMessageMoreInfo'] = '<span class=mobile_opt_info>A text message will be sent to your phone. Please reply with &quot;YES&quot; to ensure you continue to receive the latest updates. You may unsubscribe from mobile offers at any time by texting &quot;<span class=call_out>LFLSTOP</span>&quot; to <span class=call_out>562537</span>. Text &quot;<span class=call_out>HELP</span>&quot; to <span class=call_out>562537</span> for help.  4-8 messages per month.  Message & Data Rates may apply.</span>';
+		mapping['pickupTextMessageMoreInfo'] = '<span class=mobile_opt_info>A text message will be sent to your phone. Please reply with &quot;YES&quot; to ensure you continue to receive the latest updates. You may unsubscribe from mobile offers at any time by texting &quot;<span class=call_out>LFLSTOP</span>&quot; to <span class=call_out>562537</span>. Text &quot;<span class=call_out>HELP</span>&quot; to <span class=call_out>562537</span> for help.  4-8 messages per month.  Message & Data Rates may apply.</span>';
+		mapping['billCountryNotListed'] = 'If your country is not listed, you will need to pay by Western Union QUICK Pay. Please email us or call Customer Service at <span id=phNum>1.715.261.9588</span> for further information on placing your order.';
+		mapping['shipCountryNotListed'] = 'If your country is not listed, you will need to pay by Western Union QUICK Pay. Please email us or call Customer Service at <span id=phNum>1.715.261.9588</span> for further information on placing your order.';
+		mapping['countryNotListed'] = 'If your country is not listed, you will need to pay by Western Union QUICK Pay. Please email us or call Customer Service at <span id=phNum>1.715.261.9588</span> for further information on placing your order.';
+		mapping['shipStreetAddrTooltip'] = 'Street addresses are required to ensure proper delivery for online orders. Orders sent to PO Boxes can only be sent via Standard delivery (5-6 Business days). Please allow up to 10 business days for delivery. If you do not have a street address (i.e. PO Box), please contact our Customer Service Department for assistance at <span id="phNum">1.800.991.6686</span>.';
+		mapping['promoCodeToolTip_0'] = 'If you have received a special promotional source code from an email, flyer, online banner, ad, etc., please enter it in this field (only one code valid per order).';
+		mapping['multiShipMoreInfo'] = 'If you would like to ship one order to multiple addresses, please contact our Customer Service Department at <span id="phNum">1.800.991.6686</span> immediately after placing your order on-line so that we may make the proper arrangements to ensure your packages are delivered.';
+	
+
+	return {
+		initializeMoreInfoLinks:function() {
+			for (id in mapping) {
+				if ($("#" + id).length > 0) 
+					$("#" + id).attr("href", "javascript:bubble.open('#" + id + "', '" + mapping[id] + "')");
+			}
+		},
+		open:function(selector, content, width, height) {
+			$("#bubbleContainer").remove();
+			
+			// abort if selector is not found
+			if ($(selector).length == 0) {
+				return;
+			}			
+			
+			if (width != null && width > thisWidth) thisWidth = width;
+			if (height != null && height > thisHeight) thisHeight = height;
+			
+			$("body").prepend(wrapper);
+			$("#bubbleContainer .middle_center").html(content);
+			$("#bubbleContainer").css({width: thisWidth, height: thisHeight});
+			
+			var targetOffset = $(selector).offset();
+			var targetWidth = $(selector).width();
+			//var targetHeight = $(selector).height();
+			var left = targetOffset.left + ((targetWidth - thisWidth) / 2);
+			var top = targetOffset.top - $("#bubble").height();
+			
+			$("#bubbleContainer").css({top: top, left: left});
+
+			// IE
+			if (!jQuery.support.leadingWhitespace) {
+				var bottom_center_width = Math.ceil((thisWidth - 44 - 20 - 20) / 2);
+				$("#bubbleContainer .bottom_center").css({width: bottom_center_width});
+			}
+			
+			$(document).bind("click", bubble.close);
+			if (ie6) $("#bubbleContainer").bgiframe();
+		},
+		close:function() {
+			//$(document).unbind("click");
+			$("#bubbleContainer").remove();
+		}
+	}
+}();
+
+$(document).ready(function() { bubble.initializeMoreInfoLinks(); });
+</script>
+
+
+<script type="text/javascript">
+	var borderImages = new Object();
+	borderImages.top_left = new Image();
+	borderImages.top_left.src = "http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/top_left.png";
+	borderImages.top_right = new Image();
+	borderImages.top_right.src = "http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/top_right.png";
+	borderImages.top_center = new Image();
+	borderImages.top_center.src = "http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/top_center.png";
+	borderImages.middle_left = new Image();
+	borderImages.middle_left.src = "http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/middle_left.png";
+	borderImages.middle_right = new Image();
+	borderImages.middle_right.src = "http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/middle_right.png";
+	borderImages.bottom_left = new Image();
+	borderImages.bottom_left.src = "http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/bottom_left.png";
+	borderImages.bottom_right = new Image();
+	borderImages.bottom_right.src = "http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/bottom_right.png";
+	borderImages.bottom_center = new Image();
+	borderImages.bottom_center.src = "http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/bottom_center.png";
+	borderImages.bottom_arrow = new Image();
+	borderImages.bottom_arrow.src = "http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/bottom_arrow.png";	
+</script>
+
+<style type="text/css">
+#bubbleContainer {
+	position: absolute;
+	z-index: 9999;
+}
+
+#bubble {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border-collapse: collapse;
+}
+
+#bubble td {
+	padding: 0;
+}
+
+#bubble td.top_left {
+	background: transparent url(http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/top_left.png) top right no-repeat;
+	width: 20px;	
+	height: 20px;
+}
+
+#bubble td.top_right {
+	background: transparent url(http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/top_right.png) top left no-repeat;
+	width: 20px;
+	height: 20px;
+}
+
+#bubble td.top_center {
+	background: transparent url(http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/top_center.png) top left repeat-x;
+	height: 20px;
+}
+
+#bubble td.middle_left {
+	background: transparent url(http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/middle_left.png) top right repeat-y;
+	width: 20px;
+}
+
+#bubble td.middle_right {
+	background: transparent url(http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/middle_right.png) top left repeat-y;
+	width: 20px;
+}
+
+#bubble td.middle_center {
+	background-color: white;
+	text-align: left;
+}
+
+#bubble td.bottom_left {
+	background: transparent url(http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/bottom_left.png) top right no-repeat;
+	width: 20px;
+	height: 44px;	
+}
+
+#bubble td.bottom_right {
+	background: transparent url(http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/bottom_right.png) top left no-repeat;
+	width: 20px;
+	height: 44px;	
+}
+
+#bubble td.bottom_center {
+	background: transparent url(http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/bottom_center.png) top left repeat-x;
+	height: 44px;	
+}
+
+#bubble td.bottom_arrow {
+	background: transparent url(http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/bottom_arrow.png) top right no-repeat;
+	width: 44px;
+	#width: 42px;
+	height: 44px;
+}
+
+</style>
+
+<!--[if lt IE 7]>
+
+<script type="text/javascript">
+	borderImages = new Object();
+	borderImages.top_left = new Image();
+	borderImages.top_left.src = "http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/top_left.gif";
+	borderImages.top_right = new Image();
+	borderImages.top_right.src = "http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/top_right.gif";
+	borderImages.top_center = new Image();
+	borderImages.top_center.src = "http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/top_center.gif";
+	borderImages.middle_left = new Image();
+	borderImages.middle_left.src = "http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/middle_left.gif";
+	borderImages.middle_right = new Image();
+	borderImages.middle_right.src = "http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/middle_right.gif";
+	borderImages.bottom_left = new Image();
+	borderImages.bottom_left.src = "http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/bottom_left.gif";
+	borderImages.bottom_right = new Image();
+	borderImages.bottom_right.src = "http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/bottom_right.gif";
+	borderImages.bottom_center = new Image();
+	borderImages.bottom_center.src = "http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/bottom_center.gif";
+	borderImages.bottom_arrow = new Image();
+	borderImages.bottom_arrow.src = "http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/bottom_arrow.gif";	
+</script>
+
+<style type="text/css">
+#bubble td.top_left {
+	background: transparent url(http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/top_left.gif) top right no-repeat;
+}
+
+#bubble td.top_right {
+	background: transparent url(http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/top_right.gif) top left no-repeat;
+}
+
+#bubble td.top_center {
+	background: transparent url(http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/top_center.gif) top left repeat-x;
+}
+
+#bubble td.middle_left {
+	background: transparent url(http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/middle_left.gif) top right repeat-y;
+}
+
+#bubble td.middle_right {
+	background: transparent url(http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/middle_right.gif) top left repeat-y;
+}
+
+#bubble td.bottom_left {
+	background: transparent url(http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/bottom_left.gif) top right no-repeat;	
+}
+
+#bubble td.bottom_right {
+	background: transparent url(http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/bottom_right.gif) top left no-repeat;
+}
+
+#bubble td.bottom_center {
+	background: transparent url(http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/bottom_center.gif) top left repeat-x;
+}
+
+#bubble td.bottom_arrow {
+	background: transparent url(http://www.ladyfootlocker.com/images/lfl/new_checkout/bubble/bottom_arrow.gif) top right no-repeat;
+}
+</style>
+<![endif]-->
+
 
 
 	
@@ -264,7 +517,7 @@ function openInvestWin(url) {
 <script language="javascript1.1" src="//libs.coremetrics.com/eluminate.js" type="text/javascript"></script>
 
 <script language="javascript1.1" src="http://www.ladyfootlocker.com/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
-<link rel="stylesheet" type="text/css" href="/ns/css/lfl-master-combine-v2.3.css">
+<link rel="stylesheet" type="text/css" href="/ns/css/lfl-master-combine-v2.6.css">
 <script type="text/javascript" language="javascript" src="//www.ladyfootlocker.com/ns/js/delay.js"></script>
 <script type="text/javascript" language="javascript">
 setNDDDelay(70);
@@ -375,16 +628,16 @@ $(document).ready(function() {
 	<div id="lfl_top_searches">
     	<ul>
         	<li><strong>Top Searches:</strong> </li>
-            <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+asics+running+shoes?Ns=P_NewArrivalDateEpoch|1&amp;cm_SORT=New+Arrivals?cm_sp=Header-_-TopSearches-_-asicsrunningshoes" title="ASICS Running Shoes">ASICS Running Shoes</a></li>
-            <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+mizuno+wave?Ns=P_NewArrivalDateEpoch|1&amp;cm_SORT=New+Arrivals?cm_sp=Header-_-TopSearches-_-mizunowave" title="Mizuno Wave">Mizuno Wave</a></li>
-            <li><a href="http://www.ladyfootlocker.com/_-_/keyword-lfl2012graphictees?cm_sp=Header-_-TopSearches-_-graphictees" title="Women's Graphic T-Shirts">Graphic T-Shirts</a></li>
+            <li><a href="http://www.ladyfootlocker.com/Womens/ASICS/Running/Shoes/_-_/N-25Z10iZf9Zrj" manual_cm_sp="Header-_-TopSearches-_-asicsrunningshoes" title="ASICS Running Shoes">ASICS Running Shoes</a></li>
+            <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+flyknit" manual_cm_sp="Header-_-TopSearches-_-nikeflyknit" title="Nike Flyknit Lunar 1+">Nike Flyknit</a></li>
+            <li><a href="http://www.ladyfootlocker.com/Womens/Clothing/T-Shirts/_-_/N-25ZrkZif?Ns=P_NewArrivalDateEpoch|1&amp;cm_SORT=New+Arrivals" manual_cm_sp="Header-_-TopSearches-_-tshirts" title="Women's T-Shirts">T-Shirts</a></li>
         </ul>
     </div>
 <!-- END Top Searches -->
 
 <!-- START Search Box -->
 	<div id="lfl_search_box">
-    <form name="keywordSearch" action="/catalog/advancedSearch/" method="GET">    
+    <form name="keywordSearch" action="javascript:void(0);" method="">    
         <input type="hidden" name="module" value="topNav">
         <input type="hidden" name="search" value="k">
         <input type="hidden" name="action" value="keywordSearch">
@@ -405,7 +658,7 @@ $(document).ready(function() {
     <div onmouseover="openTab(this, 'navButtonShoes');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonShoes"><a href="http://www.ladyfootlocker.com/shoes/?cm_sp=TopNav-_-Shoes-_-Shoesall&amp;cm=TnShoesSupcat" title="Women's Shoes">Shoes</a></div>
+                <div class="navBtn navButtonShoes"><a href="http://www.ladyfootlocker.com/Womens/Shoes/_-_/N-25Zrj" manual_cm_sp="TopNav-_-Shoes-_-shoesallsupcat" title="Women's Shoes">Shoes</a></div>
                 <div class="sticker_menu menu_size_5">
                 	                    
                     <div class="sticker_menu_inner">
@@ -413,93 +666,92 @@ $(document).ready(function() {
                         <div class="dd_column">
                             <p>Shoes</p>
                             <ul>
-                            	<li><a href="http://www.ladyfootlocker.com/_-_/N-1z141xe/keyword-womens+shoes?cm_REF=New+Arrivals?cm_sp=TopNav-_-Shoes-_-newarrivals" title="New Women's Shoes"><span class="special">New Arrivals</span></a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+boots?cm_sp=TopNav-_-Shoes-_-boots" title="Women's Boots">Boots</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+casual+shoes?cm_sp=TopNav-_-Shoes-_-casualshoes" title="Women's Casual Shoes">Casual Shoes</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+cheer+shoes?cm_sp=TopNav-_-Shoes-_-cheershoes" title="Women's Cheer and Dance Shoes">Cheer/Dance Shoes</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+running+shoes?cm_sp=TopNav-_-Shoes-_-runningshoes" title="Women's Running Shoes">Running Shoes</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+sandals?cm_sp=TopNav-_-Shoes-_-sandals" title="Women's Sandals">Sandals</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+training+shoes?cm_sp=TopNav-_-Shoes-_-trainingshoes" title="Women's Training Shoes">Training Shoes</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+volleyball+shoes?cm_sp=TopNav-_-Shoes-_-volleyballlshoes" title="Women's Volleyball Shoes">Volleyball Shoes</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+walking+shoes?cm_sp=TopNav-_-Shoes-_-walkingshoes" title="Women's Walking Shoes">Walking Shoes</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-sale+womens+shoes?cm_sp=TopNav-_-Shoes-_-saleshoes" title="Sale Women's Shoes">Sale</a></li>
+                            	<li><a href="http://www.ladyfootlocker.com/Shoes/_-_/N-rjZ1z141xe" manual_cm_sp="TopNav-_-Shoes-_-newarrivals" title="New Women's Shoes"><span class="special">New Arrivals</span></a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Boots/_-_/N-25Zhb" manual_cm_sp="TopNav-_-Shoes-_-boots" title="Women's Boots">Boots</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Casual/Shoes/_-_/N-25ZfeZrj" manual_cm_sp="TopNav-_-Shoes-_-casualshoes" title="Women's Casual Shoes">Casual Shoes</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Cheer-Dance-Shoes/_-_/N-25Zg5" manual_cm_sp="TopNav-_-Shoes-_-cheershoes" title="Women's Cheer and Dance Shoes">Cheer/Dance Shoes</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Running/Shoes/_-_/N-25Zf9Zrj" manual_cm_sp="TopNav-_-Shoes-_-runningshoes" title="Women's Running Shoes">Running Shoes</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Sandals/_-_/N-25Zi3" manual_cm_sp="TopNav-_-Shoes-_-sandals" title="Women's Sandals">Sandals</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Training/Shoes/_-_/N-25ZfhZrj" manual_cm_sp="TopNav-_-Shoes-_-trainingshoes" title="Women's Training Shoes">Training Shoes</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Volleyball/Shoes/_-_/N-25ZfdZrj" manual_cm_sp="TopNav-_-Shoes-_-volleyballshoes" title="Women's Volleyball Shoes">Volleyball Shoes</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Walking/Shoes/_-_/N-25ZfoZrj" manual_cm_sp="TopNav-_-Shoes-_-walkingshoes" title="Women's Walking Shoes">Walking Shoes</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Sale/Womens/Shoes/_-_/N-1z141ydZ25Zrj" manual_cm_sp="TopNav-_-Shoes-_-saleshoes" title="Sale Women's Shoes">Sale</a></li>
 							</ul>
                         </div>
 
                         <div class="dd_column">                           
                             <p>Top Sellers</p>
                             <ul>
-                            	<li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+air+max+shoes?cm_sp=TopNav-_-Shoes-_-topsellnikeairmax" title="Women's Nike Air Max Shoes">Nike Air Max</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+free?cm_sp=TopNav-_-Shoes-_-topsellnikefree" title="Women's Nike Free">Nike Free</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+reebok+zig?cm_sp=TopNav-_-Shoes-_-topsellreezig" title="Women's Reebok Zig">Reebok Zig</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+shox?cm_sp=TopNav-_-Shoes-_-topsellnikeshox" title="Women's Nike Shox">Nike Shox</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+asics+gel+nimbus?cm_sp=TopNav-_-Shoes-_-topsellgelnimbus" title="Women's ASICS GEL-Nimbus">ASICS GEL-Nimbus</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+lunarglide?cm_sp=TopNav-_-Shoes-_-topselllunarglide" title="Women's Nike LunarGlide">Nike LunarGlide</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+mizuno+wave+creation?cm_sp=TopNav-_-Shoes-_-topsellmizunowave" title="Women's Mizuno Wave Creation">Mizuno Wave Creation</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+k+swiss+tubes?cm_sp=TopNav-_-Shoes-_-topsellkswisstubes" title="Women's K-Swiss Tubes">K-Swiss Tubes</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+asics+gel+kayano?cm_sp=TopNav-_-Shoes-_-topsellgelkayano" title="Women's ASICS GEL-Kayano">ASICS GEL-Kayano</a></li>
+                            	<li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+air+max+shoes" manual_cm_sp="TopNav-_-Shoes-_-topsellairmax" title="Women's Nike Air Max Shoes">Nike Air Max</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+free" manual_cm_sp="TopNav-_-Shoes-_-topsellnikefree" title="Women's Nike Free">Nike Free</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+reebok+zig" manual_cm_sp="TopNav-_-Shoes-_-topsellreezig" title="Women's Reebok Zig">Reebok Zig</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+shox" manual_cm_sp="TopNav-_-Shoes-_-topsellnikeshox" title="Women's Nike Shox">Nike Shox</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+asics+gel+nimbus" manual_cm_sp="TopNav-_-Shoes-_-topsellgelnimbus" title="Women's ASICS GEL-Nimbus">ASICS GEL-Nimbus</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+lunarglide" manual_cm_sp="TopNav-_-Shoes-_-topselllunarglide" title="Women's Nike LunarGlide">Nike LunarGlide</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+mizuno+wave+creation" manual_cm_sp="TopNav-_-Shoes-_-topsellmizunowave" title="Women's Mizuno Wave Creation">Mizuno Wave Creation</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+asics+gel+kayano" manual_cm_sp="TopNav-_-Shoes-_-topsellkayano" title="Women's ASICS GEL-Kayano">ASICS GEL-Kayano</a></li>
 							</ul>
                         </div>
                         
                         <div class="dd_column">                           
                             <p>Shoe Brands</p>
                             <ul>
-                            	<li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+shoes?cm_sp=TopNav-_-Shoes-_-nikebrand" title="Women's Nike Shoes">Nike</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/adidas/?cm_sp=TopNav-_-Shoes-_-adidasbrand" title="Women's adidas Shoes">adidas</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/asics/?cm_sp=TopNav-_-Shoes-_-asicsbrand" title="Women's ASICS Shoes">ASICS</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/searchresults/brand:Converse/?cm_sp=TopNav-_-Shoes-_-conversebrand" title="Converse Shoes">Converse</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+mizuno+shoes?cm_sp=TopNav-_-Shoes-_-mizunobrand" title="Women's Mizuno Shoes">Mizuno</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/new-balance/?cm_sp=TopNav-_-Shoes-_-nbbrand" title="Women's New Balance Shoes">New Balance</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/puma/?cm_sp=TopNav-_-Shoes-_-pumabrand" title="Women's PUMA Shoes">PUMA</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+reebok+shoes?cm_sp=TopNav-_-Shoes-_-reebokbrand" title="Women's Reebok Shoes">Reebok</a></li>
+                            	<li><a href="http://www.ladyfootlocker.com/Womens/Nike/Shoes/_-_/N-25ZzzZrj" manual_cm_sp="TopNav-_-Shoes-_-nikebrand" title="Women's Nike Shoes">Nike</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/adidas/Shoes/_-_/N-25ZzcZrj" manual_cm_sp="TopNav-_-Shoes-_-adidasbrand" title="Women's adidas Shoes">adidas</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/ASICS/Shoes/_-_/N-25Z10iZrj" manual_cm_sp="TopNav-_-Shoes-_-asicsbrand" title="Women's ASICS Shoes">ASICS</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Converse/_-_/N-108" manual_cm_sp="TopNav-_-Shoes-_-conversebrand" title="Converse Shoes">Converse</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Mizuno/Shoes/_-_/N-25Z104Zrj" manual_cm_sp="TopNav-_-Shoes-_-mizunobrand" title="Women's Mizuno Shoes">Mizuno</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/New-Balance/Shoes/_-_/N-25Z10eZr" manual_cm_sp="TopNav-_-Shoes-_-newbalancebrand" title="Women's New Balance Shoes">New Balance</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/PUMA/Shoes/_-_/N-25ZzqZrj" manual_cm_sp="TopNav-_-Shoes-_-pumabrand" title="Women's PUMA Shoes">PUMA</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Reebok/Shoes/_-_/N-25ZzlZrj" manual_cm_sp="TopNav-_-Shoes-_-reebokbrand" title="Women's Reebok Shoes">Reebok</a></li>
 							</ul>
                         </div>
                         
                         <div class="drop_shoe_size">
                         	<p>Shop by Size</p>
                         	<ul>
-                            	<li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=04.0&amp;cm_sp=TopNav-_-Shoes-_-size4" title="Women's Size 4 Shoes">4</a>
+                            	<li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=04.0" manual_cm_sp="TopNav-_-Shoes-_-size4" title="Women's Size 4 Shoes">4</a>
                                 </li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=04.5&amp;cm_sp=TopNav-_-Shoes-_-size4.5" title="Women's Size 4.5 Shoes">4.5</a>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=04.5" manual_cm_sp="TopNav-_-Shoes-_-size4.5" title="Women's Size 4.5 Shoes">4.5</a>
                                 </li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=05.0&amp;cm_sp=TopNav-_-Shoes-_-size5" title="Women's Size 5 Shoes">5</a>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=05.0" manual_cm_sp="TopNav-_-Shoes-_-size5" title="Women's Size 5 Shoes">5</a>
                                 </li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=05.5&amp;cm_sp=TopNav-_-Shoes-_-size5.5" title="Women's Size 5.5 Shoes">5.5</a>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=05.5" manual_cm_sp="TopNav-_-Shoes-_-size5.5" title="Women's Size 5.5 Shoes">5.5</a>
                                 </li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=06.0&amp;cm_sp=TopNav-_-Shoes-_-size6" title="Women's Size 6 Shoes">6</a>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=06.0" manual_cm_sp="TopNav-_-Shoes-_-size6" title="Women's Size 6 Shoes">6</a>
                                 </li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=06.5&amp;cm_sp=TopNav-_-Shoes-_-size6.5" title="Women's Size 6.5 Shoes">6.5</a>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=06.5" manual_cm_sp="TopNav-_-Shoes-_-size6.5" title="Women's Size 6.5 Shoes">6.5</a>
                                 </li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=07.0&amp;cm_sp=TopNav-_-Shoes-_-size7" title="Women's Size 7 Shoes">7</a>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=07.0" manual_cm_sp="TopNav-_-Shoes-_-size7" title="Women's Size 7 Shoes">7</a>
                                 </li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=07.5&amp;cm_sp=TopNav-_-Shoes-_-size7.5" title="Women's Size 7.5 Shoes">7.5</a>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=07.5" manual_cm_sp="TopNav-_-Shoes-_-size7.5" title="Women's Size 7.5 Shoes">7.5</a>
                                 </li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=08.0&amp;cm_sp=TopNav-_-Shoes-_-size8" title="Women's Size 8 Shoes">8</a>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=08.0" manual_cm_sp="TopNav-_-Shoes-_-size8" title="Women's Size 8 Shoes">8</a>
                                 </li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=08.5&amp;cm_sp=TopNav-_-Shoes-_-size8.5" title="Women's Size 8.5 Shoes">8.5</a>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=08.5" manual_cm_sp="TopNav-_-Shoes-_-size8.5" title="Women's Size 8.5 Shoes">8.5</a>
                                 </li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=09.0&amp;cm_sp=TopNav-_-Shoes-_-size9" title="Women's Size 9 Shoes">9</a>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=09.0" manual_cm_sp="TopNav-_-Shoes-_-size9" title="Women's Size 9 Shoes">9</a>
                                 </li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=09.5&amp;cm_sp=TopNav-_-Shoes-_-size9.5" title="Women's Size 9.5 Shoes">9.5</a>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=09.5" manual_cm_sp="TopNav-_-Shoes-_-size9.5" title="Women's Size 9.5 Shoes">9.5</a>
                                 </li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=10.0&amp;cm_sp=TopNav-_-Shoes-_-size10" title="Women's Size 10 Shoes">10</a>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=10.0" manual_cm_sp="TopNav-_-Shoes-_-size10" title="Women's Size 10 Shoes">10</a>
                                 </li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=10.5&amp;cm_sp=TopNav-_-Shoes-_-size10.5" title="Women's Size 10.5 Shoes">10.5</a>
-                                </li>
-                                
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=11.0&amp;cm_sp=TopNav-_-Shoes-_-size11" title="Women's Size 11 Shoes">11</a>
-                                </li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=11.5&amp;cm_sp=TopNav-_-Shoes-_-size11.5" title="Women's Size 11.5 Shoes">11.5</a>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=10.5" manual_cm_sp="TopNav-_-Shoes-_-size10.5" title="Women's Size 10.5 Shoes">10.5</a>
                                 </li>
                                 
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=12.0&amp;cm_sp=TopNav-_-Shoes-_-size12" title="Women's Size 12 Shoes">12</a>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=11.0" manual_cm_sp="TopNav-_-Shoes-_-size11" title="Women's Size 11 Shoes">11</a>
                                 </li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=12.5&amp;cm_sp=TopNav-_-Shoes-_-size12.5" title="Women's Size 12.5 Shoes">12.5</a>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=11.5" manual_cm_sp="TopNav-_-Shoes-_-size11.5" title="Women's Size 11.5 Shoes">11.5</a>
                                 </li>
                                 
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=13.0&amp;cm_sp=TopNav-_-Shoes-_-size13" title="Women's Size 13 Shoes">13</a>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=12.0" manual_cm_sp="TopNav-_-Shoes-_-size12" title="Women's Size 12 Shoes">12</a>
                                 </li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=13.5&amp;cm_sp=TopNav-_-Shoes-_-size13.5" title="Women's Size 13.5 Shoes">13.5</a>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=12.5" manual_cm_sp="TopNav-_-Shoes-_-size12.5" title="Women's Size 12.5 Shoes">12.5</a>
+                                </li>
+                                
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=13.0" manual_cm_sp="TopNav-_-Shoes-_-size13" title="Women's Size 13 Shoes">13</a>
+                                </li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-shoes/?size=13.5" manual_cm_sp="TopNav-_-Shoes-_-size13.5" title="Women's Size 13.5 Shoes">13.5</a>
                                 </li>
                             </ul>
                         </div>
@@ -517,55 +769,54 @@ $(document).ready(function() {
     <div onmouseover="openTab(this, 'navButtonClothing');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonClothing"><a href="http://www.ladyfootlocker.com/clothing/?cm_sp=TopNav-_-Clothing-_-Clothingall&amp;cm=TnClothingSupcat" title="Women's Clothing">Clothing</a></div>
+                <div class="navBtn navButtonClothing"><a href="http://www.ladyfootlocker.com/Womens/Clothing/_-_/N-25Zrk" manual_cm_sp="TopNav-_-Clothing-_-clothingallsupcat" title="Women's Clothing">Clothing</a></div>
                 <div class="sticker_menu menu_size_4">
                     <div class="sticker_menu_inner">
                         
                         <div class="dd_column">
                             <p>Clothing</p>
                             <ul>
-                            	<li><a href="http://www.ladyfootlocker.com/_-_/N-1z141xe/keyword-womens+clothing?cm_REF=New+Arrivals?cm_sp=TopNav-_-Clothing-_-newarrivals" title="New Women's Clothing"><span class="special">New Arrivals</span></a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+running+clothing?cm_sp=TopNav-_-Clothing-_-runningclothing" title="Women's Running Clothing">Running Clothing</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+training+clothing?cm_sp=TopNav-_-Clothing-_-trainingclothing" title="Women's Training Clothing">Training Clothing</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+casual+clothing?cm_sp=TopNav-_-Clothing-_-casualclothing" title="Women's Casual Clothing">Casual Clothing</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+capris?cm_sp=TopNav-_-Clothing-_-capris" title="Women's Capris">Capris</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+hoodies?cm_sp=TopNav-_-Clothing-_-hoodies" title="Women's Hoodies">Hoodies</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+jackets?cm_sp=TopNav-_-Clothing-_-jackets" title="Women's Jackets">Jackets</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+pants?cm_sp=TopNav-_-Clothing-_-pants" title="Women's Pants">Pants</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+shorts?cm_sp=TopNav-_-Clothing-_-shorts" title="Women's Shorts">Shorts</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/sports-bras/?cm_sp=TopNav-_-Clothing-_-sportsbras" title="Women's Sports Bras">Sports Bras</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+tank+tops?cm_sp=TopNav-_-Clothing-_-tanktops" title="Women's Tank Tops">Tank Tops</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+t+shirts?cm_sp=TopNav-_-Clothing-_-tshirts" title="Women's T-Shirts">T-Shirts</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+workout+pants?cm_sp=TopNav-_-Clothing-_-workoutpants" title="Women's Workout Pants">Workout Pants</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-sale+womens+clothing?cm_sp=TopNav-_-Clothing-_-saleclothing" title="Sale Women's Clothing">Sale</a></li>
+                            	<li><a href="http://www.ladyfootlocker.com/Womens/Clothing/_-_/N-25ZrkZ1z141xe" manual_cm_sp="TopNav-_-Clothing-_-newarrivals" title="New Women's Clothing"><span class="special">New Arrivals</span></a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Running/Clothing/_-_/N-25Zf9Zrk" manual_cm_sp="TopNav-_-Clothing-_-runningclothing" title="Women's Running Clothing">Running Clothing</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Training/Clothing/_-_/N-25ZfhZrk" manual_cm_sp="TopNav-_-Clothing-_-trainingclothing" title="Women's Training Clothing">Training Clothing</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Casual/Clothing/_-_/N-25ZfeZrk" manual_cm_sp="TopNav-_-Clothing-_-casualclothing" title="Women's Casual Clothing">Casual Clothing</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Pants-Capris/_-_/N-25Zjs" manual_cm_sp="TopNav-_-Clothing-_-capris" title="Women's Capris">Capris</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Sweatshirts/_-_/N-25Zj3" manual_cm_sp="TopNav-_-Clothing-_-sweatshirts" title="Women's Sweatshirts">Sweatshirts</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Jackets-Vests/_-_/N-25Zj7" manual_cm_sp="TopNav-_-Clothing-_-jackets" title="Women's Jackets">Jackets</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Shorts/_-_/N-25Zjf" manual_cm_sp="TopNav-_-Clothing-_-shorts" title="Women's Shorts">Shorts</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Sport-Tops-Bras/_-_/N-kc" manual_cm_sp="TopNav-_-Clothing-_-sportsbras" title="Women's Sports Bras">Sports Bras</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Tanks-Singlets/_-_/N-25Zij" manual_cm_sp="TopNav-_-Clothing-_-tanktops" title="Women's Tank Tops">Tank Tops</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/T-Shirts/_-_/N-25Zif" manual_cm_sp="TopNav-_-Clothing-_-tshirts" title="Women's T-Shirts">T-Shirts</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Pants/_-_/N-25Zjr" manual_cm_sp="TopNav-_-Clothing-_-workoutpants" title="Women's Workout Pants">Workout Pants</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Sale/Womens/Clothing/_-_/N-1z141ydZ25Zrk" manual_cm_sp="TopNav-_-Clothing-_-saleclothing" title="Sale Women's Clothing">Sale</a></li>
 							</ul>
                         </div>
 
                         <div class="dd_column col_wide">
                             <p>Top Sellers</p>
                             <ul>
-                            	<li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+tempo+shorts?cm_sp=TopNav-_-Clothing-_-topsellniketemposhorts" title="Women's Nike Tempo Shorts">Nike Tempo Shorts</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-nike+pro+core+sports+bras?cm_sp=TopNav-_-Clothing-_-topsellprocorebras" title="Women's Nike Pro Core Sports Bras">Nike Pro Core Sports Bras</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+adidas+originals+track+jackets?cm_sp=TopNav-_-Clothing-_-topselladiogtrackjkts" title="Women's adidas Originals Track Jackets">adidas Originals Track Jackets</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+under+armour+charged+cotton?cm_sp=TopNav-_-Clothing-_-topselluachargedcotton" title="Women's Under Armour Charged Cotton">Under Armour Charged Cotton</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+swoosh+t+shirts?cm_sp=TopNav-_-Clothing-_-topsellnikeswooshtees" title="Women's Nike Swoosh T-Shirts">Nike Swoosh T-Shirts</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+puma+casual+t+shirts?cm_sp=TopNav-_-Clothing-_-topsellpumacasualtees" title="Women's PUMA Casual T-Shirts">PUMA Casual T-Shirts</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+adidas+originals+trefoil+t+shirts?cm_sp=TopNav-_-Clothing-_-topselltrefoiltees" title="Women's adidas Originals Trefoil T-Shirts">adidas Originals Trefoil T-Shirts</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+sportswear+clothing?cm_sp=TopNav-_-Clothing-_-topsellnikesportswear" title="Women's Nike Sportswear Clothing">Nike Sportswear</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+fleece?cm_sp=TopNav-_-Clothing-_-topsellnikefleece" title="Women's Nike Fleece">Nike Fleece</a></li>
+                            	<li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+tempo+shorts" manual_cm_sp="TopNav-_-Clothing-_-topsellniketemposhorts" title="Women's Nike Tempo Shorts">Nike Tempo Shorts</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-nike+pro+core+sports+bras" manual_cm_sp="TopNav-_-Clothing-_-topsellprocorebras" title="Women's Nike Pro Core Sports Bras">Nike Pro Core Sports Bras</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+adidas+originals+track+jackets" manual_cm_sp="TopNav-_-Clothing-_-topselladiogtrackjkts" title="Women's adidas Originals Track Jackets">adidas Originals Track Jackets</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+under+armour+charged+cotton" manual_cm_sp="TopNav-_-Clothing-_-topselluachargedcotton" title="Women's Under Armour Charged Cotton">Under Armour Charged Cotton</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+swoosh+t+shirts" manual_cm_sp="TopNav-_-Clothing-_-topsellnikeswooshtees" title="Women's Nike Swoosh T-Shirts">Nike Swoosh T-Shirts</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+puma+casual+t+shirts" manual_cm_sp="TopNav-_-Clothing-_-topsellpumacasualtees" title="Women's PUMA Casual T-Shirts">PUMA Casual T-Shirts</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+adidas+originals+trefoil+t+shirts" manual_cm_sp="TopNav-_-Clothing-_-topselltrefoiltees" title="Women's adidas Originals Trefoil T-Shirts">adidas Originals Trefoil T-Shirts</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+sportswear+clothing" manual_cm_sp="TopNav-_-Clothing-_-topsellnikesw" title="Women's Nike Sportswear Clothing">Nike Sportswear</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+fleece" manual_cm_sp="TopNav-_-Clothing-_-topsellnikefleece" title="Women's Nike Fleece">Nike Fleece</a></li>
 							</ul>
                         </div>
                         
                         <div class="dd_column no_margin">
                             <p>Clothing Brands</p>
                             <ul>
-                            	<li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+actra?cm_sp=TopNav-_-Clothing-_-actrabrand" title="Women's Actra Clothing">Actra</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+adidas+clothing?cm_sp=TopNav-_-Clothing-_-adidasbrand" title="Women's adidas Clothing">adidas</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+adidas+originals+clothing?cm_sp=TopNav-_-Clothing-_-adidasogbrand" title="Women's adidas Originals Clothing">adidas Originals</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+asics+clothing?cm_sp=TopNav-_-Clothing-_-asicsbrand" title="Women's ASICS Clothing">ASICS</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+clothing?cm_sp=TopNav-_-Clothing-_-nikebrand" title="Women's Nike Clothing">Nike</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+puma+clothing?cm_sp=TopNav-_-Clothing-_-pumabrand" title="Women's PUMA Clothing">PUMA</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+under+armour+clothing?cm_sp=TopNav-_-Clothing-_-uabrand" title="Women's Under Armour Clothing">Under Armour</a></li>
+                            	<li><a href="http://www.ladyfootlocker.com/Actra/_-_/N-18h" manual_cm_sp="TopNav-_-Clothing-_-actrabrand" title="Women's Actra Clothing">Actra</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/adidas/Clothing/_-_/N-25ZzcZrk" manual_cm_sp="TopNav-_-Clothing-_-adidasbrand" title="Women's adidas Clothing">adidas</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/adidas-Originals/Clothing/_-_/N-25ZzrZrk" manual_cm_sp="TopNav-_-Clothing-_-adidasogbrand" title="Women's adidas Originals Clothing">adidas Originals</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/ASICS/Clothing/_-_/N-25Z10iZrk" manual_cm_sp="TopNav-_-Clothing-_-asicsbrand" title="Women's ASICS Clothing">ASICS</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Nike/Clothing/_-_/N-25ZzzZrk" manual_cm_sp="TopNav-_-Clothing-_-nikebrand" title="Women's Nike Clothing">Nike</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/PUMA/Clothing/_-_/N-25ZzqZrk" manual_cm_sp="TopNav-_-Clothing-_-pumabrand" title="Women's PUMA Clothing">PUMA</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Under-Armour/Clothing/_-_/N-25Z10qZrk" manual_cm_sp="TopNav-_-Clothing-_-uabrand" title="Women's Under Armour Clothing">Under Armour</a></li>
 							</ul>
                         </div>
 
@@ -582,66 +833,62 @@ $(document).ready(function() {
     <div onmouseover="openTab(this, 'navButtonRunning');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonRunning"><a href="http://www.ladyfootlocker.com/running/?cm_sp=TopNav-_-Running-_-Runall&amp;cm=TnRunSupcat" title="Women's Running">Running</a></div>
+                <div class="navBtn navButtonRunning"><a href="http://www.ladyfootlocker.com/Womens/Running/_-_/N-25Zf9" manual_cm_sp="TopNav-_-Running-_-runallsupcat" title="Women's Running">Running</a></div>
                 <div class="sticker_menu menu_size_6">
                     <div class="sticker_menu_inner">
                     
                         <div class="dd_column">
                             <p>Running Shoes<br> by Brand</p>
                             <ul>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+asics+running+shoes?cm_sp=TopNav-_-Running-_-asicsbrand" title="Women's ASICS Running Shoes">ASICS</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+adidas+running+shoes?cm_sp=TopNav-_-Running-_-adidasbrand" title="Women's adidas Running Shoes">adidas</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+brooks+running+shoes?cm_sp=TopNav-_-Running-_-brooksbrand" title="Women's Brooks Running Shoes">Brooks</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+k+swiss+running+shoes?cm_sp=TopNav-_-Running-_-kswissbrand" title="Women's K-Swiss Running Shoes">K-Swiss</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+mizuno+running+shoes?cm_sp=TopNav-_-Running-_-mizunobrand" title="Women's Mizuno Running Shoes">Mizuno</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+new+balance+running+shoes?cm_sp=TopNav-_-Running-_-nbbrand" title="Women's New Balance Running Shoes">New Balance</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+nike+running+shoes?cm_sp=TopNav-_-Running-_-nikebrand" title="Women's Nike Running Shoes">Nike</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+reebok+running+shoes?cm_sp=TopNav-_-Running-_-reebokbrand" title="Women's Reebok Running Shoes">Reebok</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+saucony+running+shoes?cm_sp=TopNav-_-Running-_-sauconybrand" title="Women's Saucony Running Shoes">Saucony</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+under+armour+running+shoes?cm_sp=TopNav-_-Running-_-uabrand" title="Women's Under Armour Running Shoes">Under Armour</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/ASICS/Running/Shoes/_-_/N-25Z10iZf9Zrj" manual_cm_sp="TopNav-_-Running-_-asicsbrand" title="Women's ASICS Running Shoes">ASICS</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/adidas/Running/Shoes/_-_/N-25ZzcZf9Zrj" manual_cm_sp="TopNav-_-Running-_-adidasbrand" title="Women's adidas Running Shoes">adidas</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Brooks/Running/Shoes/_-_/N-25Z12aZf9Zrj" manual_cm_sp="TopNav-_-Running-_-brooksbrand" title="Women's Brooks Running Shoes">Brooks</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Mizuno/Running/Shoes/_-_/N-25Z104Zf9Zrj" manual_cm_sp="TopNav-_-Running-_-mizunobrand" title="Women's Mizuno Running Shoes">Mizuno</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/New-Balance/Running/Shoes/_-_/N-25Z10eZf9Zrj" manual_cm_sp="TopNav-_-Running-_-nbbrand" title="Women's New Balance Running Shoes">New Balance</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Nike/Running/Shoes/_-_/N-25ZzzZf9Zrj" manual_cm_sp="TopNav-_-Running-_-nikebrand" title="Women's Nike Running Shoes">Nike</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Reebok/Running/Shoes/_-_/N-25ZzlZf9Zrj" manual_cm_sp="TopNav-_-Running-_-reebokbrand" title="Women's Reebok Running Shoes">Reebok</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Saucony/Running/Shoes/_-_/N-25ZzoZf9Zrj" manual_cm_sp="TopNav-_-Running-_-sauconybrand" title="Women's Saucony Running Shoes">Saucony</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Under-Armour/Running/Shoes/_-_/N-25Z10qZf9Zrj" manual_cm_sp="TopNav-_-Running-_-uabrand" title="Women's Under Armour Running Shoes">Under Armour</a></li>
 							</ul>
                         </div>
     
                         <div class="dd_column">
                             <p>Running Shoes<br> by Type</p>
                             <ul>
-                            	<li><a href="http://www.ladyfootlocker.com/_-_/N-1z141xe/keyword-womens+running+shoes?cm_REF=New+Arrivals?cm_sp=TopNav-_-Running-_-newarrivals" title="New Women's Running Shoes"><span class="special">New Arrivals</span></a></li>
-                            	<li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+barefoot+running+shoes?cm_sp=TopNav-_-Running-_-barefoot" title="Women's Barefoot Running Shoes">Barefoot/Minimalist</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+cushioned+running+shoes?cm_sp=TopNav-_-Running-_-cushioned" title="Women's Cushioned Running Shoes">Cushioned</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+lightweight+running+shoes?cm_sp=TopNav-_-Running-_-lightweight" title="Women's Lightweight Running Shoes">Lightweight</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+motion+control+running+shoes?cm_sp=TopNav-_-Running-_-motioncontrol" title="Women's Motion Control Running Shoes">Motion Control</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+performance+running+shoes?cm_sp=TopNav-_-Running-_-performance" title="Women's Performance Running Shoes">Performance</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+stability+running+shoes?cm_sp=TopNav-_-Running-_-stability" title="Women's Stability Running Shoes">Stability</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+trail+running+shoes?cm_sp=TopNav-_-Running-_-trail" title="Women's Trail Running Shoes">Trail</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-sale+womens+running+shoes?cm_sp=TopNav-_-Running-_-sale" title="Sale Women's Running Shoes">Sale</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/promotion/promoId:5002329/running-shoe-finder/?cm_sp=TopNav-_-Running-_-runshoefinder" title="Running Shoe Finder">Running Shoe Finder</a></li>
+                            	<li><a href="http://www.ladyfootlocker.com/Womens/Running/Shoes/_-_/N-25Zf9ZrjZ1z141xe" manual_cm_sp="TopNav-_-Running-_-newarrivals" title="New Women's Running Shoes"><span class="special">New Arrivals</span></a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Performance-Running-Shoes-Cushioned/_-_/N-25Zgs" manual_cm_sp="TopNav-_-Running-_-cushioned" title="Women's Cushioned Running Shoes">Cushioned</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Performance-Running-Shoes-Lightweight-Performance/_-_/N-25Z170" manual_cm_sp="TopNav-_-Running-_-lightweight" title="Women's Lightweight Running Shoes">Lightweight</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Performance-Running-Shoes-Motion-Control/_-_/N-25Zgv" manual_cm_sp="TopNav-_-Running-_-motioncontrol" title="Women's Motion Control Running Shoes">Motion Control</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Performance-Running-Shoes/_-_/N-25Zgr" manual_cm_sp="TopNav-_-Running-_-performance" title="Women's Performance Running Shoes">Performance</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Performance-Running-Shoes-Stability/_-_/N-25Zgt" manual_cm_sp="TopNav-_-Running-_-stability" title="Women's Stability Running Shoes">Stability</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Performance-Running-Shoes-Trail/_-_/N-25Zgw" manual_cm_sp="TopNav-_-Running-_-trail" title="Women's Trail Running Shoes">Trail</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Sale/Womens/Running/Shoes/_-_/N-1z141ydZ25Zf9Zrj" manual_cm_sp="TopNav-_-Running-_-sale" title="Sale Women's Running Shoes">Sale</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/promotion/promoId:5002329/running-shoe-finder/" manual_cm_sp="TopNav-_-Running-_-runshoefinder" title="Running Shoe Finder">Running Shoe Finder</a></li>
 							</ul>
                         </div>
                         
                         <div class="dd_column">
                             <p>Running Clothing</p>
                             <ul>
-                            	<li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+running+jackets?cm_sp=TopNav-_-Running-_-jackets" title="Women's Running Jackets">Jackets</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+running+pants?cm_sp=TopNav-_-Running-_-pants" title="Women's Running Pants">Pants</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+running+t+shirts?cm_sp=TopNav-_-Running-_-tshirts" title="Women's Running T-Shirts">T-Shirts</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+running+shorts?cm_sp=TopNav-_-Running-_-shorts" title="Women's Running Shorts">Shorts</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+running+tights?cm_sp=TopNav-_-Running-_-tights" title="Women's Running Tights">Tights</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/promotion/promoId:5001837/sports-bras/?cm_sp=TopNav-_-Running-_-sportsbras" title="Women's Sports Bras">Sports Bras</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-sale+womens+running+clothing?cm_sp=TopNav-_-Running-_-saleclothing" title="Sale Women's Running Clothing">Sale</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-womens+running+clothing?cm_sp=TopNav-_-Running-_-allclothing" title="Women's Running Clothing">Shop All</a></li>
+                            	<li><a href="http://www.ladyfootlocker.com/Womens/Running/Jackets-Vests/_-_/N-25Zf9Zj7" manual_cm_sp="TopNav-_-Running-_-jackets" title="Women's Running Jackets">Jackets</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Running/Pants/_-_/N-25Zf9Zjr" manual_cm_sp="TopNav-_-Running-_-pants" title="Women's Running Pants">Pants</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Running/T-Shirts/_-_/N-25Zf9Zif" manual_cm_sp="TopNav-_-Running-_-tshirts" title="Women's Running T-Shirts">T-Shirts</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Running/Shorts/_-_/N-25Zf9Zjf" manual_cm_sp="TopNav-_-Running-_-shorts" title="Women's Running Shorts">Shorts</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Pants-Tights/_-_/N-25Zk1" manual_cm_sp="TopNav-_-Running-_-tights" title="Women's Running Tights">Tights</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Sport-Tops-Bras/_-_/N-kc" manual_cm_sp="TopNav-_-Running-_-sportsbras" title="Women's Sports Bras">Sports Bras</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Sale/Womens/Running/Clothing/_-_/N-1z141ydZ25Zf9Zrk" manual_cm_sp="TopNav-_-Running-_-sale" title="Sale Women's Running Clothing">Sale</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Running/Clothing/_-_/N-25Zf9Zrk" manual_cm_sp="TopNav-_-Running-_-allrunclothing" title="Women's Running Clothing">Shop All</a></li>
 							</ul>
                         </div>
                         
                         <div class="dd_column no_margin">
                             <p>Running Accessories</p>
                             <ul>
-                            	<li><a href="http://www.ladyfootlocker.com/_-_/keyword-heart+monitors?cm_sp=TopNav-_-Running-_-heartmonitors" title="Heart Monitors">Heart Monitors</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-hydration?cm_sp=TopNav-_-Running-_-hydration" title="Hydration">Hydration</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-nike+plus+equipment?cm_sp=TopNav-_-Running-_-nikeplus" title="Nike Plus">Nike Plus</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-running+socks?cm_sp=TopNav-_-Running-_-socks" title="Women's Running Socks">Socks</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-running+watches?cm_sp=TopNav-_-Running-_-watches" title="Running Watches">Watches</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-sale+running+accessories?cm_sp=TopNav-_-Running-_-saleaccessories" title="Sale Running Accessories">Sale</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-running+accessories?cm_sp=TopNav-_-Running-_-allaccessories" title="Running Accessories">Shop All</a></li>
+                            	<li><a href="http://www.ladyfootlocker.com/Running/Training-Aids-Monitor-Watches/_-_/N-f9Zrb" manual_cm_sp="TopNav-_-Running-_-heartmonitors" title="Heart Monitors - Watches">Heart Monitors/Watches</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-nike+plus+equipment" manual_cm_sp="TopNav-_-Running-_-nikeplus" title="Nike Plus">Nike Plus</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Womens/Socks/_-_/N-25Zn9" manual_cm_sp="TopNav-_-Running-_-socks" title="Women's Running Socks">Socks</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Sale/Running/Accessories/_-_/N-1z141ydZf9Zrl" manual_cm_sp="TopNav-_-Running-_-saleaccessories" title="Sale Running Accessories">Sale</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Running/Accessories/_-_/N-f9Zrl" manual_cm_sp="TopNav-_-Running-_-allaccessories" title="Running Accessories">Shop All</a></li>
 							</ul>
                         </div>
 
@@ -658,32 +905,32 @@ $(document).ready(function() {
     <div onmouseover="openTab(this, 'navButtonBras');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonBras"><a href="http://www.ladyfootlocker.com/sports-bras/?cm=TnBrasSupcat" title="Sports Bras">Sports Bras</a></div>
+                <div class="navBtn navButtonBras"><a href="http://www.ladyfootlocker.com/Sport-Tops-Bras/_-_/N-kc" manual_cm_sp="TopNav-_-SportsBras-_-allbrassupcat" title="Sports Bras">Sports Bras</a></div>
                 <div class="sticker_menu menu_size_2">
                     <div class="sticker_menu_inner">
                     
                         <div class="dd_column">
                             <p>Sports Bras by Type</p>
                             <ul>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-compression+sports+bras?cm_sp=TopNav-_-SportsBras-_-compression" title="Compression Sports Bras">Compression</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-seamless+sports+bras?cm_sp=TopNav-_-SportsBras-_-seamless" title="Seamless Sports Bras">Seamless</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-racerback+sports+bras?cm_sp=TopNav-_-SportsBras-_-racerback" title="Racerback Sports Bras">Racerback</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-molded+sports+bras?cm_sp=TopNav-_-SportsBras-_-molded" title="Molded Sports Bras">Molded</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-tank+sports+bras?cm_sp=TopNav-_-SportsBras-_-tank" title="Tank Sports Bras">Tank</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-sale+womens+sports+bras?cm_sp=TopNav-_-SportsBras-_-sale" title="Sale Women's Sports Bras">Sale</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-compression+sports+bras" manual_cm_sp="TopNav-_-SportsBras-_-compression" title="Compression Sports Bras">Compression</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-seamless+sports+bras" manual_cm_sp="TopNav-_-SportsBras-_-seamless" title="Seamless Sports Bras">Seamless</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-racerback+sports+bras" manual_cm_sp="TopNav-_-SportsBras-_-racerback" title="Racerback Sports Bras">Racerback</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-molded+sports+bras" manual_cm_sp="TopNav-_-SportsBras-_-molded" title="Molded Sports Bras">Molded</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-tank+sports+bras" manual_cm_sp="TopNav-_-SportsBras-_-tanks" title="Tank Sports Bras">Tank</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Sale/Sport-Tops-Bras/_-_/N-1z141ydZkc" manual_cm_sp="TopNav-_-SportsBras-_-sale" title="Sale Women's Sports Bras">Sale</a></li>
 							</ul>
                         </div>
                         
                         <div class="dd_column no_margin">
                             <p>Sports Bras by Brand</p>
                             <ul>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-adidas+sports+bras?cm_sp=TopNav-_-SportsBras-_-adidasbrand" title="adidas Sports Bras">adidas</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-asics+sports+bras?cm_sp=TopNav-_-SportsBras-_-asicsbrands" title="ASICS Sports Bras">ASICS</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-champion+sports+bras?cm_sp=TopNav-_-SportsBras-_-championbrand" title="Champion Sports Bras">Champion</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-cw-x+sports+bras?cm_sp=TopNav-_-SportsBras-_-cwxbrand" title="CW-X Sports Bras">CW-X</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/searchresults/brand:Moving%20Comfort/?cm_sp=TopNav-_-SportsBras-_-movingcomfortbrand" title="Moving Comfort Sports Bras">Moving Comfort</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-nike+sports+bras?cm_sp=TopNav-_-SportsBras-_-nikebrand" title="Nike Sports Bras">Nike</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/_-_/keyword-under+armour+sports+bras?cm_sp=TopNav-_-SportsBras-_-uabrand" title="Under Armour Sports Bras">Under Armour</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/adidas/Sport-Tops-Bras/_-_/N-zcZkc" manual_cm_sp="TopNav-_-SportsBras-_-adidasbrand" title="adidas Sports Bras">adidas</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Champion/Sport-Tops-Bras/_-_/N-10wZkc" manual_cm_sp="TopNav-_-SportsBras-_-championbrand" title="Champion Sports Bras">Champion</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Colosseum/Sport-Tops-Bras/_-_/N-1z13yw7Zkc" manual_cm_sp="TopNav-_-SportsBras-_-colosseumbrand" title="Colosseum Sports Bras">Colosseum</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/CW-X/Sport-Tops-Bras/_-_/N-12jZkc" manual_cm_sp="TopNav-_-SportsBras-_-cwxbrand" title="CW-X Sports Bras">CW-X</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Moving-Comfort/Sport-Tops-Bras/_-_/N-18fZkc" manual_cm_sp="TopNav-_-SportsBras-_-movingcomfortbrand" title="Moving Comfort Sports Bras">Moving Comfort</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Nike/Sport-Tops-Bras/_-_/N-zzZkc" manual_cm_sp="TopNav-_-SportsBras-_-nikebrand" title="Nike Sports Bras">Nike</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Under-Armour/Sport-Tops-Bras/_-_/N-10qZkc" manual_cm_sp="TopNav-_-SportsBras-_-uabrand" title="Under Armour Sports Bras">Under Armour</a></li>
 							</ul>
                         </div>
                         
@@ -701,25 +948,26 @@ $(document).ready(function() {
 	<div onmouseover="openTab(this, 'navButtonBrands');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonBrands"><a href="http://www.ladyfootlocker.com/brands/category/?cm=TnBrandsSupcat" title="Brands">Brands</a></div>
+                <div class="navBtn navButtonBrands"><a href="http://www.ladyfootlocker.com/brands/" manual_cm_sp="TopNav-_-Brands-_-supcat" title="Brands">Brands</a></div>
                 <div class="sticker_menu menu_size_1">
                     <div class="sticker_menu_inner">
                     
                         <div class="dd_column col_narrow">
                             <p>Top Brands</p>
                             <ul>
-                                <li><a href="http://www.ladyfootlocker.com/adidas/?cm_sp=TopNav-_-Brands-_-adidas" title="Women's adidas">adidas</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/asics/?cm_sp=TopNav-_-Brands-_-asics" title="Women's ASICS">ASICS</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/searchresults/brand:Converse/?cm_sp=TopNav-_-Brands-_-converse" title="Converse">Converse</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/searchresults/brand:Mizuno/?cm_sp=TopNav-_-Brands-_-mizuno" title="Women's Mizuno">Mizuno</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/new-balance/?cm_sp=TopNav-_-Brands-_-newbalance" title="Women's New Balance">New Balance</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/nike/?cm_sp=TopNav-_-Brands-_-nike" title="Women's Nike">Nike</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/puma/?cm_sp=TopNav-_-Brands-_-puma" title="Women's PUMA">PUMA</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/searchresults/brand:Reebok/?cm_sp=TopNav-_-Brands-_-reebok" title="Women's Reebok">Reebok</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/searchresults/brand:Saucony/?cm_sp=TopNav-_-Brands-_-saucony" title="Women's Saucony">Saucony</a></li>
-                                <li><a href="http://www.ladyfootlocker.com/under-armour/?cm_sp=TopNav-_-Brands-_-underarmour" title="Women's Under Armour">Under Armour</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/adidas/_-_/N-zc" manual_cm_sp="TopNav-_-Brands-_-adidas" title="Women's adidas">adidas</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/adidas-Originals/_-_/N-zr" manual_cm_sp="TopNav-_-Brands-_-adidasoriginals" title="Women's adidas Originals">adidas Originals</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/ASICS/_-_/N-10i" manual_cm_sp="TopNav-_-Brands-_-asics" title="Women's ASICS">ASICS</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Converse/_-_/N-108" manual_cm_sp="TopNav-_-Brands-_-converse" title="Converse">Converse</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Mizuno/_-_/N-104" manual_cm_sp="TopNav-_-Brands-_-mizuno" title="Women's Mizuno">Mizuno</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/New-Balance/_-_/N-10e" manual_cm_sp="TopNav-_-Brands-_-newbalance" title="Women's New Balance">New Balance</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Nike/_-_/N-zz" manual_cm_sp="TopNav-_-Brands-_-nike" title="Women's Nike">Nike</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/PUMA/_-_/N-zq" manual_cm_sp="TopNav-_-Brands-_-puma" title="Women's PUMA">PUMA</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Reebok/_-_/N-zl" manual_cm_sp="TopNav-_-Brands-_-reebok" title="Women's Reebok">Reebok</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Saucony/_-_/N-zo" manual_cm_sp="TopNav-_-Brands-_-saucony" title="Women's Saucony">Saucony</a></li>
+                                <li><a href="http://www.ladyfootlocker.com/Under-Armour/_-_/N-10q" manual_cm_sp="TopNav-_-Brands-_-underarmour" title="Women's Under Armour">Under Armour</a></li>
 							</ul>
-                            <p><a class="shop_all_link" href="http://www.ladyfootlocker.com/brands/category/?cm_sp=TopNav-_-Brands-_-allbrands" title="Shop All Brands">All Brands</a></p>
+                            <p><a class="shop_all_link" href="http://www.ladyfootlocker.com/brands/" manual_cm_sp="TopNav-_-Brands-_-allbrands" title="Shop All Brands">All Brands</a></p>
                         </div>
                                                 
                     </div><!-- close sticker_menu_inner -->
@@ -734,7 +982,7 @@ $(document).ready(function() {
 <div class="sticker_wrapper">
     <ul>
         <li>
-            <div class="navBtn navButtonSale" onmouseover="this.className='navBtn navButtonSaleOver';" onmouseout="this.className='navBtn navButtonSale';"><a href="http://www.ladyfootlocker.com/sale/?cm_sp=TopNav-_-Sale-_-Saleall&amp;cm=TnSaleSupcat" title="Sale Women's Shoes &amp; Clothing">Sale</a></div>
+            <div class="navBtn navButtonSale" onmouseover="this.className='navBtn navButtonSaleOver';" onmouseout="this.className='navBtn navButtonSale';"><a href="http://www.ladyfootlocker.com/Sale/_-_/N-1z141yd" manual_cm_sp="TopNav-_-Sale-_-allsalesupcat" title="Sale Women's Shoes &amp; Clothing">Sale</a></div>
         </li>
     </ul>
 </div><!-- close sticker_wrapper -->
@@ -749,7 +997,7 @@ $(document).ready(function() {
 <!---start inner content area ---> 
 	<script language="javascript">
 		<!--
-		viewBannerEvent("FS Multioffer", 90); 
+		viewBannerEvent("fs75", 90); 
 			var excludeBannerFromDiscount = false;
 		
 		//-->
@@ -763,21 +1011,28 @@ $(document).ready(function() {
 <div id="global_Banner">
 	
 		<!-- tpbann --><style type="text/css">
-#global_banner {display:block !important}
+.global-banner {
+	width:600px !important;
+	height:450px !important;
+}
 </style>
 
-<div class="banner-wrapper"><img src="//www.ladyfootlocker.com/ns/headers/lflgb120512a.gif" border="0">
-    <a class="global-left" href="#global-banner-html" rel="shadowbox[banner];width=540;height=390" target="_blank" title="Free Shipping on thousands of styles"><img src="/images/lfl/global/pixel.gif" width="470" height="35" border="0"></a>
-    <a class="global-right" href="#global-banner-third" rel="shadowbox[banner];width=540;height=390" target="_blank" title="Free Shipping on orders $75 or more"><img src="/images/lfl/global/pixel.gif" width="470" height="35" border="0"></a>
+<div id="global_banner">
+	<div id="head_ship_contain">
+        <div id="ship_text"><span id="banner_big_text">FREE SHIPPING</span> on thousands of styles + all orders over $75! Use code <strong>IP232W47</strong>. Guaranteed to Fit!* <a href="#global-banner-html" rel="shadowbox[banner];width=610;height=460" target="_blank" title="Free Shipping on thousands of styles and orders over $75!"><span class="banner_details">Details »</span></a></div>
+    </div>
 </div>
+
 
 <div id="global-banner-html" style="display:none">
     <div class="global-banner">
-        <h2>Free shipping on thousands of styles* Plus, FREE RETURN SHIPPING if, for any reason, you are not completely satisfied!</h2>
+        <h2>Free shipping on thousands of styles + all orders over $75!* Plus, FREE RETURN SHIPPING if, for any reason, you are not completely satisfied - Guaranteed to Fit!</h2>
         <p>
-            <strong>*FREE SHIPPING on thousands of styles:</strong> *We offer FREE SHIPPING on thousands of items every day! Look for the "Free Shipping" indicator on all eligible merchandise. Shipping will automatically be deducted at checkout.<br>
-
+        <strong>*FREE SHIPPING on thousands of styles: </strong>*We offer FREE SHIPPING on thousands of items every day! Look for the "Free Shipping" indicator on all eligible merchandise. Shipping will automatically be deducted at checkout.
 *Please note: This offer is valid only on eligible items, and does not apply to in-store orders. This offer is limited to standard delivery within the 48 contiguous US states and APO/FPO addresses. Excludes bulk orders and drop ships. Entire order must ship to a single address. Customer is responsible for shipping costs on returned merchandise. May not be used toward purchase of Gift Cards or team orders. Promotion may be modified or terminated at any time. Certain restrictions and exclusions may apply.
+		</p>
+		<p>
+            <strong>*FREE SHIPPING on orders $75 or more:</strong> *Use promotion code <strong>IP232W47</strong> at checkout. Promotion/source code box is located in step 4 of checkout. Order value must total $75 or more before services, taxes, shipping and handling. Valid online at ladyfootlocker.com, by phone or mail. Offer is limited to standard ground delivery within the 48 contiguous United States and APO/FPO addresses. Excludes bulk orders and drop ships. Entire order must be shipped to a single address. Does not apply to prior purchases or open orders and cannot be combined with any other offer. May not be used toward purchase of Gift Cards or team orders. Promotion may be modified or terminated at any time. Certain restrictions and exclusions may apply. 
         </p>
         <p>
             <strong>FREE RETURN SHIPPING:</strong>
@@ -785,20 +1040,6 @@ $(document).ready(function() {
             *Free return shipping is limited to standard delivery within the contiguous US and APO/FPO addresses. Excludes bulk orders and drop ships. If express or overnight shipping is requested you will be responsible for the full shipping cost. Entire order must ship to a single address. Standard return policy applies (details). Returned/exchanged items must be repackaged in the original boxes with all labels, and all products being returned or exchanged must be in new condition. All orders come with a prepaid return-shipping label which must be affixed to the package and shipped back within 60 days of receipt. Make sure to specify whether the item is being exchanged or a refund is being requested. Does not apply to prior purchases or open orders. May not be used on team orders. Promotion may be modified or terminated at any time. Other restrictions and exclusions may apply. Valid online at ladyfootlocker.com, by phone or mail.    
         </p>
     </div>
-</div>
-
-<div id="global-banner-third" style="display:none">
-<div class="global-banner">
-	<h2>FREE SHIPPING on orders $75 or more* Plus, FREE RETURN SHIPPING if, for any reason, you are not completely satisfied!</h2>
-    <p>
-        <strong>*FREE SHIPPING on orders $75 or more:</strong> *Use promotion code <strong>IP232W47</strong> at checkout. Promotion/source code box is located in step 4 of checkout. Order value must total $75 or more before services, taxes, shipping and handling. Valid online at ladyfootlocker.com, by phone or mail. Offer is limited to standard ground delivery within the 48 contiguous United States and APO/FPO addresses. Excludes bulk orders and drop ships. Entire order must be shipped to a single address. Does not apply to prior purchases or open orders and cannot be combined with any other offer. May not be used toward purchase of Gift Cards or team orders. Promotion may be modified or terminated at any time. Certain restrictions and exclusions may apply. Offer expires 12/29/2012 (11:59 pm CT).
-    </p>
-    <p>
-        <strong>FREE RETURN SHIPPING:</strong>
-        Just follow these simple steps:<br>
-		*Free return shipping is limited to standard delivery within the contiguous US and APO/FPO addresses. Excludes bulk orders and drop ships. If express or overnight shipping is requested you will be responsible for the full shipping cost. Entire order must ship to a single address. Standard return policy applies (details). Returned/exchanged items must be repackaged in the original boxes with all labels, and all products being returned or exchanged must be in new condition. All orders come with a prepaid return-shipping label which must be affixed to the package and shipped back within 60 days of receipt. Make sure to specify whether the item is being exchanged or a refund is being requested. Does not apply to prior purchases or open orders. May not be used on team orders. Promotion may be modified or terminated at any time. Other restrictions and exclusions may apply. Valid online at ladyfootlocker.com, by phone or mail.    
-    </p>
-</div>
 </div><!-- end tpbann -->
 	
 </div>	
@@ -1080,11 +1321,11 @@ $(document).ready(function() {
     <a href="http://www.ladyfootlocker.com/customerserv/help:terms/" title="Terms of Use">Terms of Use</a>
     <a href="http://www.footlocker-inc.com/company.cfm?page=lady-foot-locker" title="About Us" target="_blank">About Us</a>
     <a href="http://www.ladyfootlocker.com/sitemap/" title="Ladyfootlocker.com Sitemap">Sitemap</a>
-    <a href="http://www.lfljobs.com/" title="Job Opportunities" target="_blank">Job Opportunities</a>
+    <a href="http://www.ladyfootlocker.jobs/" title="Career Opportunities" target="_blank">Career Opportunities</a>
 </div><!-- close footer_help -->
 
 <div class="footer_dislaimer">
-	<p>Prices subject to change without notice. Products shown may not be available in our stores. (<a href="http://www.ladyfootlocker.com/customerserv/help:productInformation/" title="More Information">more info</a>) | © 2012 Footlocker.com, Inc. All Rights Reserved</p>
+	<p>Prices subject to change without notice. Products shown may not be available in our stores. (<a href="http://www.ladyfootlocker.com/customerserv/help:productInformation/" title="More Information">more info</a>) | © 2013 Footlocker.com, Inc. All Rights Reserved</p>
 </div><!-- close footer_disclaimer -->
 
 <!---start footer-icons div --->
