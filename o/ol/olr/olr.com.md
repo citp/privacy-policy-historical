@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olr.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111084301id_/http%3A//public.olr.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olr.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608035242id_/http%3A//public.olr.com/privacy.aspx) for the most accurate reproduction.*
 
 # ONLINE RESIDENTIAL PUBLIC – NYC’s source for real estate listings
 
@@ -20,7 +20,7 @@ Links
 
 Please keep in mind that you may receive Cookies from third parties to which you link from our Website. We do not control these third-party Cookies and they are not subject to our Privacy Policy. You should contact these third-party web sites directly should you have any questions regarding their collection of information or their own privacy policy. 
 
-If you have any further questions regarding our Privacy Policy, please [Contact Us](https://web.archive.org/web/20121111084301id_/http%3A//public.olr.com/contact.aspx)
+If you have any further questions regarding our Privacy Policy, please [Contact Us](https://web.archive.org/web/20130608035242id_/http%3A//public.olr.com/contact.aspx)
 
 OLR offers a complete residential real estate listings database platform for NYC, helping real estate brokers find Manhattan apartment sales and Manhattan apartment rentals for their clients. OLR is also the leading source for marketing tools that support NYC apartment sales and NYC apartment rentals. 
 
