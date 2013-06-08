@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the priceblink.com privacy policy that was archived on 2012-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121118053607id_/http%3A//www.priceblink.com/webcpns/page.php%3Fsp_id%3D7) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the priceblink.com privacy policy that was archived on 2013-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130608083431id_/http%3A//www.priceblink.com/webcpns/page.php%3Fsp_id%3D7) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 <title>PriceBlink:: Privacy Policy</title>
 <link type="text/css" rel="stylesheet" href="css/style2.css">
 <link rel="SHORTCUT ICON" href="http://www.priceblink.com/webcpns/fav_icon.ico">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/webcpns/jscript/inputfields.js"></script>
+<script type="text/javascript" src="/webcpns/jscript/inputfields.js"></script>
 <script type="text/javascript" src="/webcpns/ZeroClipboard.js"></script>
 <script type="text/javascript" src="/webcpns/script.js?a=bab"></script>
 
@@ -43,7 +44,7 @@ div.RightSection2 li { margin-left:10px; list-style-type:disc;  }
 
 	  (function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
 
@@ -86,8 +87,11 @@ var showClosebutton = true;
                        <li><a href="http://www.priceblink.com" class="HomeNav" title="HOME"><span>Home</span></a></li>
             	
                         <li><a href="http://www.priceblink.com/coupons-codes/retailers" class="CouponsNav" title="COUPONS"><span>Coupons</span></a></li>
-            <li><a href="http://www.priceblink.com/webcpns/wishlist.php" class="WatchlistsNav" title="Wish Lists"><span>Wish Lists</span></a></li><li><a href="http://www.priceblink.com/webcpns/browser-add-on" class="Browser_Add_On" title="Browser Add On"><span>Browser Add On</span></a></li>			<div style="float:right;" id="LoginLogoutLKContainer">
-            					<a href="http://www.priceblink.com/webcpns/entry.php?load=login&amp;return_url=http%3A%2F%2Fwww.priceblink.com%2Fwebcpns%2Fpage.php%3Fsp_id%3D7" class="white_link" style="color:#FFF;font-size:16px;"><strong>Login</strong></a>
+            <li><a href="http://www.priceblink.com/webcpns/wishlist.php" class="WatchlistsNav" title="Wish Lists"><span>Wish Lists</span></a></li><li><a href="http://www.priceblink.com/webcpns/browser-add-on" class="Browser_Add_On" title="Browser Add On"><span>Browser Add On</span></a></li>                        <li><a href="http://www.priceblink.com/webcpns/page.php?sp_id=4" class="HelpNav" title="HELP"><span>Help</span></a></li>
+            	
+            
+			<div style="float:right;" id="LoginLogoutLKContainer">
+            					<a href="http://www.priceblink.com/webcpns/user_entry.php?return_url=http%3A%2F%2Fwww.priceblink.com%2Fwebcpns%2Fpage.php%3Fsp_id%3D7" class="white_link fancybox" style="color:#FFF;font-size:16px;"><strong>Login</strong></a>
 					            </div>
           </ul>
       
@@ -110,7 +114,7 @@ var showClosebutton = true;
         </div>				<span class="RightBg"></span> </div>
 			</div>
 				
-<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js"></script></div>
 <script>
 	  window.fbAsyncInit = function() {
     FB.init({
@@ -126,46 +130,44 @@ var showClosebutton = true;
 				//alert("I am logged in");
 				
 				setCookie('PB_FBUID',response.authResponse.userID,'365');
+									var addextra = '&return_url=%2Fwebcpns%2Fpage.php%3Fsp_id%3D7';
 				//var pbuid = response.authResponse.userID;
 				$.ajax({
-					url: 'facebook_scripts.php?id=LoginUser&PB_FBUID='+response.authResponse.userID+'&closeWindow=',
+					url: 'http://www.priceblink.com/webcpns/facebook_scripts.php?id=LoginUser&PB_FBUID='+response.authResponse.userID+'&closeWindow='+addextra,
 					async:false,
 					success: function(data) {
 					
 						var closeWindow = false;
 						eval(data);
-						return;
-						var PageToShow = 'http://www.priceblink.com/webcpns/page.php?sp_id=7';
-						
-						if (PageToShow.trim() != '') {
-														//alert(PageToShow);
-							window.location.href = 'http://www.priceblink.com/webcpns/page.php?sp_id=7';
-						}
-						//var DataArr = new Array();
-					
-												
+						//alert(ReturnUrlToLoad);
+						window.parent.location.href = ReturnUrlToLoad;
+												return;						
 					}
-				});
+				}
+					
+			 );
+												
 				
 				if(document.getElementById('LoginLogoutLKContainer') != null){
+					document.getElementById('LoginLogoutLKContainer').innerHTML = '<a href="http://www.priceblink.com/webcpns/my_account.php" class="white_link" style="color:#FFF;text-decoration:none;font-size:16px;"><strong>Manage Account</strong></a> <span class="white_link" style="color:#FFF;text-decoration:none;font-size:16px; font-weight:bold"> |  </span> <a href="javascript:void(0);" onclick="javascript:logoutme()" class="white_link" style="color:#FFF;text-decoration:none;font-size:16px;"><strong>Logout</strong></a>';
 					
-					document.getElementById('LoginLogoutLKContainer').innerHTML = '<a href="http://www.priceblink.com/webcpns/my_account.php" class="white_link" style="color:#FFF;text-decoration:none;font-size:16px;"><strong>Manage Account</strong></a> <span class="white_link" style="color:#FFF;text-decoration:none;font-size:16px; font-weight:bold"> |  </span> <a href="http://www.priceblink.com/webcpns/logout.php" class="white_link" style="color:#FFF;text-decoration:none;font-size:16px;"><strong>Logout</strong></a>';
 					
-			 
 				} else {
+			 
 					window.parent.location.reload();				}
 				
 				
 				//alert('logged in and connected user, someone you know');
 				// logged in and connected user, someone you know
 			} else {
+				
 				//alert('no user session available, someone you dont know');
 				// no user session available, someone you dont know
 							}
 	});
 	 };
 	  (function() {
-		var e = document.createElement('script'); e.async = true;
+		var e = document.createElement('script'); //e.async = true;
 		e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
 		document.getElementById('fb-root').appendChild(e);
 	  }());
@@ -432,161 +434,69 @@ var showClosebutton = true;
       <div class="RightSection2">
 		      
 		<p><strong>PriceBlink Privacy Policy<br>
-  </strong> <br>
-  <strong>Last Updated:&nbsp; December 2, 2009 </strong> <br>
-  <strong>General</strong> <br>
-  This is the Privacy Policy of PriceBlink ("us", or  "we").&nbsp; By
-  accessing the PriceBlink.com website or using the PriceBlink add-on (collectively
-  known as "PriceBlink"), you agree that you have read and understand
-  the following privacy policy, which describes how we use your personal information,
-  and what options you have to make changes to or request the deletion of information
-  submitted to us via the PriceBlink service. &nbsp; <br>
-  <br>
-  Please read the <a href="page.php?sp_id=6">Terms of Use</a> and this Privacy Policy carefully. Our <a href="page.php?sp_id=6">Terms of
-  Use</a> and Privacy Policy may be modified by us from time to time, and will become
-  effective immediately upon posting to PriceBlink.com.&nbsp; It is your responsibility
-  to regularly check PriceBlink.com to determine if there have been changes to
-  the <a href="page.php?sp_id=6">Terms of Use</a> or the Privacy Policy and to review the changes.&nbsp; If
-  you do not agree with either the <a href="page.php?sp_id=6">Terms of Use</a> or this Privacy Policy, do not
-  use the PriceBlink.com website or the PriceBlink add-on.<br>
-  <br>
-  <strong>No Use Of PriceBlink By Persons Under The Age Of 13</strong><br>
-  <br>
-  The PriceBlink service is not intended for use by anyone under 18, except with
-  the explicit permission and under the supervision of a parent or guardian who
-  accepts full legal responsibility for the minor's use.&nbsp; PriceBlink does
-  not&nbsp; knowingly collect or use personally identifiable information from
-  children under 13. If a child under 13 has provided us with personally identifiable
-  information without parental or guardian consent, the parent or guardian should
-  contact us to remove the minor's information.<br>
-  <br>
-  <strong>What information is collected by PriceBlink?</strong><br>
-  <br>
-  PriceBlink collects two types of data:&nbsp; 1) User Submitted Data, and 2)
-  Passive Data.<br>
-  <br>
-  <u>User Submitted Data</u><br>
-  PriceBlink collects personal information that you provide to us for the purposes
-  of site updates, newsletters, notifications, and additional PriceBlink functionalities.&nbsp;&nbsp; Examples
-  of User Submitted Data that you have the option of providing might include
-  email, zip code, phone numbers.&nbsp; We will not use this data to provide
-  any services or marketing that you have not requested.&nbsp; We may share User
-  Submitted Data with persons we employ directly, or as contractors or agents
-  at our direction, for purposes of administering our business activities, or
-  providing customer services such as support.<br>
-  <br>
-  <strong><em>You are not required to provide any User Submitted Data to use
-  PriceBlink.</em></strong><em>&nbsp; </em>By providing additional information,
-  PriceBlink might be able to provide additional functionality to users, but
-  there is no requirement that users provide personal information to use PriceBlink.<br>
-  <u><br>
-    Passive Data</u><br>
-  <br>
-  PriceBlink Add-on<br>
-  <br>
-  When you use your browser to navigate the web, the PriceBlink add-on enables
-  you to find additional pricing and coupon information.&nbsp; In order to provide
-  these services the PriceBlink add-on collects the following information: the
-  characteristics of the item, the retailer page, the url of the page you are
-  on, and other anonymous technical data such as IP address.<br>
-  <br>
-  Cookies<br>
-  <br>
-  PriceBlink utilizes an industry standard technology called "cookies"  to
-  collect information about how PriceBlink is used. Passive Data collected may
-  include your browser type, operating system, ISP, the date / time of visits,
-  PriceBlink.com pages viewed, and the referring site to PriceBlink.com and any
-  third party site PriceBlink links to. Passive Data is collected on an aggregate
-  basis without any association to your personal information so that you remain
-  anonymous.<br>
-  <br>
-  We may also allow third parties, such as advertisers on our PriceBlink, to
-  place cookies on PriceBlink in order to improve your online experience after
-  you leave PriceBlink. The third party cookies used on PriceBlink are designed
-  to improve your online experience by facilitating the receipt of targeted advertisements
-  while on PriceBlink and while you are viewing other websites. These third parties
-  may use information about your visits to PriceBlink and other web sites obtained
-  through their cookie only to provide advertisements for goods and services
-  of interest to you. Other companies use of these cookies is subject to their
-  own privacy policies and not ours.&nbsp; <strong><em>We do not provide these
-  third parties with any personally identifiable information</em></strong><em>.</em><br>
-  <br>
-  If you do not wish to transmit cookie information about yourself, you may choose
-  to turn off the cookie function in your web browser.&nbsp; If you do choose
-  to turn off cookies, certain features of PriceBlink might be affected and not
-  work properly.<br>
-  <br>
-  <strong>How PriceBlink Uses The Information Collected</strong><br>
-  <br>
-  PriceBlink uses the User Submitted Data collected to deliver the content, features,
-  notifications, and services that you have requested.&nbsp;&nbsp; <strong><em>You
-  are not required to provide any User Submitted Data to use PriceBlink, however
-  we do not guarantee that all features of the PriceBlink service will work properly
-  without User Submitted Data.&nbsp; </em></strong>We will not use the information
-  you provide to send unsolicited marketing to you.&nbsp; The purpose of collecting
-  User Submitted Data is to make additional features, information and services
-  available to you.&nbsp; PriceBlink shall give users the option to remove themselves
-  from any further messaging at any time by <a href="page.php?sp_id=5">contacting us</a>.&nbsp;&nbsp;<br>
-  <br>
-  If you contact us via email, we may retain the information included the original
-  email, along with any response to your email, in order to facilitate future
-  customer support.&nbsp; We will not use this information to contact you for
-  any other purpose.<br>
-  <br>
-  If a user elects to use our "Share this Page" referral service for
-  informing another user PriceBlink, we ask for both the users name and email
-  and the recieptient's name and emial.&nbsp; We will automatically send the
-  recipient a one-time email inviting them to visit PriceBlink.com.&nbsp;  Subsequent
-  to transmission, both the user's and the recipient's infomation shall be deleted.<br>
-  <br>
-  Passive Data shall be used to optimize the performance, improve the usability,
-  enhance the experience on PriceBlink.com and the PriceBlink add-on.&nbsp; We
-  may share with third parties, such as advertisers or other website operators,
-  aggregate information about site usage, demographics or other characteristics.&nbsp; Any
-  data shared shall be aggregated and anonymous, and not contain user specific
-  information.<br>
-  <br>
-  We may use data collected to manage PriceBlink service, help diagnose problems
-  with servers, and optimize the design of the PriceBlink service.<br>
-  <br>
-  <strong>Links to Third Party Websites</strong><br>
-  <br>
-  PriceBlink is a directory of offers at third party sites.&nbsp; You will be
-  transferred to online merchants or other third party sites through links on
-  PriceBlink.&nbsp; PriceBlink is not responsible for the content or privacy
-  practices of those sites, and our Privacy Policy does not apply to information
-  collected by those sites.&nbsp; Before using third party sites, you should
-  read and understand those sites' privacy policies to ensure you agree to their
-  terms.<br>
-  <br>
-  <strong>Sharing Information with the Government or As Otherwise Required by
-  Law</strong><br>
-  <br>
-  We may disclose information when we believe in good faith that the law requires
-  it, or if we consider it necessary to maintain service and improve our products
-  and services.<br>
-  <strong><br>
-    Sale or Transfer of Information</strong> <br>
-  In the event of a sale, merger, liquidation, dissolution, or transfer of the
-  PriceBlink business or assets, all information collected may be sold, assigned,
-  or transferred to the acquiring party. Should you object to the transfer of
-  your User Submitted Information, you have the option to have your User Submitted
-  Information removed from our database.&nbsp; <br>
-  <strong>Security</strong> <br>
-  PriceBlink has security measures in place to protect the loss, misuse and alteration
-  of the data under our control.&nbsp; Although we take reasonable steps to safeguard
-  your personally identifiable information, we can not be responsible for the
-  acts of those who gain unauthorized access, and we make no warranty, express,
-  implied or otherwise, that we will prevent such access. <br>
-  <strong>Opt Out / Removal of User Submitted Information</strong> <br>
-  PriceBlink provides users the opportunity to opt-out of receiving communications
-  from us and our partners at the point where we request User Submitted Information
-  from you. <br>
-  You may also request that we remove your User Submitted Information from our
-  database, or stop sending you future communications by <a href="mailto:contact@priceblink.com?body=%0A%0A%0A%0A%0A%0AIf you are reporting a technical problem, the following information will assist our troubleshooting:%0A204.236.226.210%0AMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36">contacting us</a>.&nbsp; <br>
-  <strong>Corrections</strong> <br>
-  Users may submit requests to PriceBlink for changing, deleting, and modifying
-  User Submitted Information, by <a href="mailto:contact@priceblink.com?body=%0A%0A%0A%0A%0A%0AIf you are reporting a technical problem, the following information will assist our troubleshooting:%0A204.236.226.210%0AMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36">contacting us</a>.&nbsp; </p>		</div>
+</strong> <br>
+<strong>Last Updated:&nbsp; December 2, 2009 </strong> <br>
+<strong>General</strong> <br>
+This is the Privacy Policy of PriceBlink ("us", or  "we").&nbsp; By   accessing the PriceBlink.com website or using the PriceBlink add-on (collectively   known as "PriceBlink"), you agree that you have read and understand   the following privacy policy, which describes how we use your personal information,   and what options you have to make changes to or request the deletion of information   submitted to us via the PriceBlink service. &nbsp; <br>
+<br>
+Please read the <a href="page.php?sp_id=6">Terms of Use</a> and this Privacy Policy carefully. Our <a href="page.php?sp_id=6">Terms of   Use</a> and Privacy Policy may be modified by us from time to time, and will become   effective immediately upon posting to PriceBlink.com.&nbsp; It is your responsibility   to regularly check PriceBlink.com to determine if there have been changes to   the <a href="page.php?sp_id=6">Terms of Use</a> or the Privacy Policy and to review the changes.&nbsp; If   you do not agree with either the <a href="page.php?sp_id=6">Terms of Use</a> or this Privacy Policy, do not   use the PriceBlink.com website or the PriceBlink add-on.<br>
+<br>
+<strong>No Use Of PriceBlink By Persons Under The Age Of 13</strong><br>
+<br>
+The PriceBlink service is not intended for use by anyone under 18, except with   the explicit permission and under the supervision of a parent or guardian who   accepts full legal responsibility for the minor's use.&nbsp; PriceBlink does   not knowingly collect or use personally identifiable information from   children under 13. If a child under 13 has provided us with personally identifiable   information without parental or guardian consent, the parent or guardian should   contact us to remove the minor's information.<br>
+<br>
+<strong>What information does PriceBlink collect?</strong><br>
+<br>
+PriceBlink collects two types of data:&nbsp; 1) User Submitted Data, and 2)   Passive Data.<br>
+<br>
+<u>User Submitted Data</u><br>
+PriceBlink collects personal information that you provide to us for the purposes   of site updates, newsletters, notifications, and additional PriceBlink functionalities.&nbsp;&nbsp; Examples   of User Submitted Data that you have the option of providing might include   email, zip code, phone numbers.&nbsp; We will not use this data to provide   any services or marketing that you have not requested.&nbsp; We may share User   Submitted Data with persons we employ directly, or as contractors or agents   at our direction, for purposes of administering our business activities, or   providing customer services such as support.<br>
+<br>
+<strong><em>You are not required to provide any User Submitted Data to use   PriceBlink.</em></strong><em>&nbsp; </em>By providing additional information,   PriceBlink might be able to provide additional functionality to users, but   there is no requirement that users provide personal information to use PriceBlink.<br>
+<u><br>
+Passive Data</u><br>
+<br>
+PriceBlink Add-on<br>
+<br>
+When you use your browser to navigate the web, the PriceBlink add-on enables   you to find additional pricing and coupon information.&nbsp; In order to provide   these services the PriceBlink add-on collects the following information: the   characteristics of the item, the retailer page, the url of the page you are   on, and other anonymous technical data such as IP address.<br>
+<br>
+Cookies<br>
+<br>
+PriceBlink utilizes an industry standard technology called "cookies"  to   collect information about how PriceBlink is used. Passive Data collected may   include your browser type, operating system, ISP, the date / time of visits,   PriceBlink.com pages viewed, and the referring site to PriceBlink.com and any   third party site PriceBlink links to. Passive Data is collected on an aggregate   basis without any association to your personal information so that you remain   anonymous.<br>
+<br>
+We may also allow third parties, such as advertisers on our PriceBlink, to   place cookies on PriceBlink in order to improve your online experience after   you leave PriceBlink. The third party cookies used on PriceBlink are designed   to improve your online experience by facilitating the receipt of targeted advertisements   while on PriceBlink and while you are viewing other websites. These third parties   may use information about your visits to PriceBlink and other web sites obtained   through their cookie only to provide advertisements for goods and services   of interest to you. Other companies' use of these cookies is subject to their   own privacy policies and not ours.&nbsp; <strong><em>We do not provide these   third parties with any personally identifiable information</em></strong><em>.</em><br>
+<br>
+If you do not wish to transmit cookie information about yourself, you may choose   to turn off the cookie function in your web browser.&nbsp; If you do choose   to turn off cookies, certain features of PriceBlink might be affected and not   work properly.<br>
+<br>
+<strong>How PriceBlink Uses The Information Collected</strong><br>
+<br>
+PriceBlink uses the User Submitted Data collected to deliver the content, features,   notifications, and services that you have requested.&nbsp;&nbsp; <strong><em>You   are not required to provide any User Submitted Data to use PriceBlink, however   we do not guarantee that all features of the PriceBlink service will work properly   without User Submitted Data.&nbsp; </em></strong>We will not use the information   you provide to send unsolicited marketing to you.&nbsp; The purpose of collecting   User Submitted Data is to make additional features, information and services   available to you.&nbsp; PriceBlink shall give users the option to remove themselves   from any further messaging at any time by <a href="page.php?sp_id=5">contacting us</a>.&nbsp;&nbsp;<br>
+<br>
+If you contact us via email, we may retain the information included the original   email, along with any response to your email, in order to facilitate future   customer support.&nbsp; We will not use this information to contact you for   any other purpose.<br>
+<br>
+If a user elects to use our "Share this Page" referral service for   informing another user PriceBlink, we ask for both the users name and email   and the recipient's name and email.&nbsp; We will automatically send the   recipient a one-time email inviting them to visit PriceBlink.com.&nbsp;  Subsequent   to transmission, both the user's and the recipient's information shall be deleted.<br>
+<br>
+Passive Data shall be used to optimize the performance, improve the usability, or   enhance the experience on PriceBlink.com and the PriceBlink add-on.&nbsp; We   may share with third parties, such as advertisers or other website operators,   aggregate information about site usage, demographics or other characteristics.&nbsp; Any   data shared shall be aggregated and anonymous, and not contain user specific   information.<br>
+<br>
+We may use data collected to manage PriceBlink service, help diagnose problems   with servers, and optimize the design of the PriceBlink service.<br>
+<br>
+<strong>Links to Third Party Websites</strong><br>
+<br>
+PriceBlink is a directory of offers at third party sites.&nbsp; You will be   transferred to online merchants or other third party sites through links on   PriceBlink.&nbsp; PriceBlink is not responsible for the content or privacy   practices of those sites, and our Privacy Policy does not apply to information   collected by those sites.&nbsp; Before using third party sites, you should   read and understand those sites' privacy policies to ensure you agree to their   terms.<br>
+<br>
+<strong>Sharing Information with the Government or As Otherwise Required by   Law</strong><br>
+<br>
+We may disclose information when we believe in good faith that the law requires   it, or if we consider it necessary to maintain service and improve our products   and services.<br>
+<strong><br>
+Sale or Transfer of Information</strong> <br>
+In the event of a sale, merger, liquidation, dissolution, or transfer of the   PriceBlink business or assets, all information collected may be sold, assigned,   or transferred to the acquiring party. Should you object to the transfer of   your User Submitted Information, you have the option to have your User Submitted   Information removed from our database.&nbsp; <br>
+<strong>Security</strong> <br>
+PriceBlink has security measures in place to protect the loss, misuse and alteration   of the data under our control.&nbsp; Although we take reasonable steps to safeguard   your personally identifiable information, we can not be responsible for the   acts of those who gain unauthorized access, and we make no warranty, express,   implied or otherwise, that we will prevent such access. <br>
+<strong>Opt Out / Removal of User Submitted Information</strong> <br>
+PriceBlink provides users the opportunity to opt-out of receiving communications   from us and our partners at the point where we request User Submitted Information   from you. <br>
+You may also request that we remove your User Submitted Information from our   database, or stop sending you future communications by <a href="mailto:contact@priceblink.com?body=%0A%0A%0A%0A%0A%0AIf you are reporting a technical problem, the following information will assist our troubleshooting:%0A207.241.237.232%0AMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36">contacting us</a>.&nbsp; <br>
+<strong>Corrections</strong> <br>
+Users may submit requests to PriceBlink for changing, deleting, and modifying   User Submitted Information, by <a href="mailto:contact@priceblink.com?body=%0A%0A%0A%0A%0A%0AIf you are reporting a technical problem, the following information will assist our troubleshooting:%0A207.241.237.232%0AMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36">contacting us</a>.&nbsp;</p>		</div>
     </div>
     
 <script>
@@ -699,7 +609,7 @@ $(document).ready(function() {
 //since we have to send the ip and user agent with mailto so we are updating that link here
 function UpdateContactUsLlink(){
 	var querystr = '?body=';
-	querystr += '%0A%0A%0A%0A%0A%0AIf you are reporting a technical problem, the following information will assist our troubleshooting:%0A204.236.226.210';
+	querystr += '%0A%0A%0A%0A%0A%0AIf you are reporting a technical problem, the following information will assist our troubleshooting:%0A207.241.237.232';
 	querystr +='%0A'+navigator.userAgent;
 
 
@@ -712,6 +622,7 @@ function UpdateContactUsLlink(){
 }
 
 </script>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","72f72af5e2","1332335","bgcHNURZXxFZVxJZCldNMBNfF0YHWlcWXhYWEgQGUxZBCkg=",0,12,new Date().getTime()]);</script>
 
 
-</body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
