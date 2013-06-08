@@ -1,11 +1,19 @@
-> *The following text is extracted and transformed from the mapcruzin.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222121855id_/http%3A//mapcruzin.com/fairuse.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapcruzin.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608153303id_/http%3A//mapcruzin.com/fairuse.htm) for the most accurate reproduction.*
 
 # Cookies, Privacy, Disclaimer and fair use notice
 
 January 30, 2020 
 
-[](https://web.archive.org/tornado-gis-shapefiles/)
+[](https://web.archive.org/toxic-release-inventory-tri-shapefiles-2011/)
 
+|    
+Foodopoly: The Battle Over the Future of Food and Farming in America|    
+Digital Disconnect: How Capitalism is Turning the Internet Against Democracy  
+---|---  
+  
+Under the Surface: Fracking, Fortunes, and the Fate of the Marcellus Shale|    
+The End of Country: Dispatches from the Frack Zone  
+  
 [](http://twitter.com/pollutionmaps) [Follow on Twitter](http://twitter.com/pollutionmaps)
 
 A Member of the  
@@ -51,8 +59,6 @@ GIS and Google Maps Development, Website Creation and Hosting, Fast and Affordab
 [GIS Basics](https://web.archive.org/what-is-gis.htm)
 
 [GIS Terminology](https://web.archive.org/gis-terms.htm)
-
-| 
 
 On This Page: Your Privacy \- Fair Use \- Disclaimer
 
