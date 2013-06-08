@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bayareamommy.net privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218235458id_/http%3A//bayareamommy.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayareamommy.net privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608193529id_/http%3A//bayareamommy.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bay Area Mommy
+# Privacy Policy - Bay Area Mommy
 
 **Collecting information**  
 We collect information from you when you subscribe to our newsletter or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.  
