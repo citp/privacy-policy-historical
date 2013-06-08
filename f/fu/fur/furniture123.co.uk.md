@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniture123.co.uk privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224012751id_/http%3A//furniture123.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniture123.co.uk privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608052332id_/http%3A//furniture123.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Furniture 123 | Privacy policy
 
@@ -99,5 +99,3 @@ Our site will offer the best user experience with cookies enabled, and declining
  **Contact Us**
 
 If you have any questions or comments about privacy, please don't hesitate to [contact us](https://web.archive.org/content/contact-us.asp)
-
-[](https://web.archive.org/prize-draw)
