@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tattoodesignsidea.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217021935id_/http%3A//tattoodesignsidea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoodesignsidea.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609000327id_/http%3A//tattoodesignsidea.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tattoo Designs
+# Privacy Policy | Tattoo Design
 
 **Privacy Policy for tattoodesignsidea.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **slamet.zuhdi@gmail.com**.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at  **slamet.zuhdi@gmail.com**.
 
 At tattoodesignsidea.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by tattoodesignsidea.com and how it is used.
 
