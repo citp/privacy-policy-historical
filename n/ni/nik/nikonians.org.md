@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikonians.org privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122082942id_/http%3A//www.nikonians.org/html/about/privacy_policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikonians.org privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608092514id_/http%3A//www.nikonians.org/html/about/privacy_policies.html) for the most accurate reproduction.*
 
 # Privacy policies at Nikonians
 
@@ -37,4 +37,4 @@ We believe it's very important that each user feels confident in our privacy pol
   
 [Nikonians](http://www.nikonians.org/)®, [NikoScope](http://www.nikoscope.com/), [Nikonians Galleries](http://images.nikonians.org/galleries/), [Nikonians Resources](http://www.nikonians.org/resources/), [Nikonians News & Blogs](http://blog.nikonians.org/), [Nikonians Wiki/FAQ/Help](http://wiki.nikonians.org/index.php/Main_Page), [The Nikonian eZine](http://www.nikonian.org/), [Nikonians Academy](http://www.nikoniansacademy.com/), and [Photo Pro Shop](http://www.photoproshop.com/) are operated by Nikonians EMEA Ltd. and Nikonians North America Inc. We are not affiliated to the Nikon Corporation in any way.
 
-If you have any questions regarding our privacy policies, or any other questions, [get in touch with us](https://web.archive.org/web/20121122082942id_/http%3A//www.nikonians.org/contact.html). 
+If you have any questions regarding our privacy policies, or any other questions, [get in touch with us](https://web.archive.org/web/20130608092514id_/http%3A//www.nikonians.org/contact.html). 
