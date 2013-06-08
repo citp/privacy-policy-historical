@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocweekly.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118023644id_/http%3A//www.ocweekly.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocweekly.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608214604id_/http%3A//www.ocweekly.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Orange County Privacy Policy
 
@@ -90,4 +90,4 @@ If your personally identifiable information changes, you may correct and/or upda
 
 ### More Questions? 
 
-If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@villagevoicemedia.com](mailto:privacyadministrator@villagevoicemedia.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
+If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@voicemediagroup.com](mailto:privacyadministrator@voicemediagroup.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
