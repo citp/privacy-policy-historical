@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frontporch.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231041828id_/http%3A//www.frontporch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontporch.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608090122id_/http%3A//www.frontporch.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy In-Browser Notifications by Front Porch - Subscriber Messaging for Cable, Telco, Mobile, Satellite and Wi-Fi Broadband Networks
+# Privacy Policy In-Browser Messaging by Front Porch - Subscriber Browser Watermarking and Notifications for Cable, Telco, Mobile, and Wi-Fi Broadband Networks
 
 ## **Effective Date:  October 19, 2010**
 
@@ -42,7 +42,7 @@ We may provide links or automatically redirect you to third party web sites that
 
 #### Website Publisher’s Choice
 
-As the owner or the webmaster of a domain, you can determine if Internet provider messages to their subscribers can be served alongside your content. To learn more or activate that choice, [click here](https://web.archive.org/web/20121231041828id_/http%3A//publishers-choice "Website Publisher’s Choice").
+As the owner or the webmaster of a domain, you can determine if Internet provider messages to their subscribers can be served alongside your content. To learn more or activate that choice, [click here](https://web.archive.org/web/20130608090122id_/http://www.frontporch.com/publishers-choice "Website Publisher’s Choice").
 
 #### Changes to this Policy
 
