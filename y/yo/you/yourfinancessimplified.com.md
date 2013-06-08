@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourfinancessimplified.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208102302id_/http%3A//www.yourfinancessimplified.com/disclaimer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourfinancessimplified.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608212324id_/http%3A//www.yourfinancessimplified.com/disclaimer/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Your Finances Simplified
 
 Privacy Policy for **http://www.yourfinancessimplified.com**
 
@@ -21,3 +21,12 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 <!– googleprivacypolicy –>
+
+### [Dominique Brown](http://www.yourfinancessimplified.com/author/yfs/ "Dominique Brown")
+
+Dominique Brown is the CEO of DNB Financial Planning, landlord, financial educator and non-profit owner. He enjoys working out, helping others and everything finance. His sole purpose for creating this website is to share his passion of personal finance and to help you simplify your finances. I love questions.. So feel free to ask me anything!
+
+[More Posts](http://www.yourfinancessimplified.com/author/yfs/ "More posts by Dominique Brown") \- [Website](http://www.yourfinancessimplified.com/ "Dominique Brown")
+
+Follow Me:  
+[](http://www.twitter.com/URFinanceSimple)[](http://www.facebook.com/YourFinancesSimplified)[](http://www.youtube.com/user/YourFinancesSimple)[](http://www.reddit.com/user/Youngsir)
