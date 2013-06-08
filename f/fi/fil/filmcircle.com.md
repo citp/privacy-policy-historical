@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmcircle.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208012025id_/http%3A//filmcircle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmcircle.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608161318id_/http%3A//filmcircle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FilmCircle: Telugu Film News, Telugu Cinema Blogs, Tollywood, Gossips, Trailers, Film Making etc
+# Privacy Policy | Tollywood News | Telugu Movie Review | Movie collections | Actress Hot Photos | Gossips | Telugu Movie Trailers
 
 [www.filmcircle.com](http://www.filmcircle.com/) welcomes you. We value your privacy, and want you to know what information we collect and what we do with it.
 
@@ -55,3 +55,9 @@ Changes in this Privacy Statement
 If we decide to change our privacy policy, we will post those changes to this privacy statement and such other places we deem appropriate so that you are updated about the manner we collect information, what information we collect, how we use it and under what circumstances, if any, we disclose it.
 
 Date Last Updated: 06/26/2012
+
+### Comments
+
+comments
+
+Powered by [Facebook Comments](http://3doordigital.com/wordpress/plugins/facebook-comments/)
