@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotnessrater.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920000921id_/http%3A//hotnessrater.com/About/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotnessrater.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609001002id_/http%3A//hotnessrater.com/About/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,14 +20,13 @@ We reserve the right to change this privacy policy. We will notify you of any si
 
 HotnessRater.com displays advertisements provided by third-party advertising networks. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services which may interest you. Links to each advertising network or their privacy policies are provided below:
 
-  * [Ad Igniter](http://www.adigniter.org/privacy.html)
   * [Adstract](http://www.adstract.com/privacy)
   * [Adversal](https://www.adversal.com/privacy.html)
-  * [CPM Fun](http://www.cpmfun.com/privacy.php)
-  * [Lijit](http://www.lijit.com/company/privacy-policy)
-  * [Mad Ads Media](http://madadsmedia.com/)
+  * [Altitude Digital Partners](http://www.altitudedigitalpartners.com/privacy_policy)
+  * [Dating Ad Network](http://www.datingadnetwork.com/policy.php)
+  * [Ad Dynamo](http://www.addynamo.com/en/Terms_Conditions.cfm?content=8233&CFID=9692440&CFTOKEN=75954794&jsessionid=8430d3b824c5715847dc51521d163a1f5666)
+  * [Qadabra](http://qadabra.com/)
   * [Zap United](http://www.zapunited.com/help/privacy)
-  * [Zenovia Exchange](http://zenoviaexchange.com/privacy)
 
 
 
@@ -43,4 +42,4 @@ HotnessRater.com uses third-party analytics services to collect statistics about
 
 
 
-If you have any questions or concerns feel free to [contact us](https://web.archive.org/About/ContactUs)
+If you have any questions or concerns feel free to [contact us](https://web.archive.org/about/contactus)
