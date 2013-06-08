@@ -1,15 +1,19 @@
-> *The following text is extracted and transformed from the healthy-k9.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206233250id_/http%3A//healthy-k9.com/aboutus/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthy-k9.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608062740id_/http%3A//healthy-k9.com/aboutus/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 We know that you care how information about you is used. This notice describes our privacy policy. By visiting healthy-k9.com, you are accepting the practices described in this Privacy Notice.
+
+**Our business model  
+**We teach dog owners how to care for their dogs using nutrition to improve health and longevity. We have several products that show dog owners how to home prepare food for general health improvement and also for specific conditions like cancer, diabetes, pregnancy, kidney disease and more. If you choose to subscribe to our newsletter, we will periodically send you links to our blog posts and videos which teach you different aspects of canine nutrition. In most blog posts, we provide links to relevent products of ours for you to purchase if you wish to understand the topic at a greater depth.  
+
 
 **Why we ask for your email address & how to unsubscribe**  
 We have many videos and articles of high quality information about how to increase your dog's level of health and lifespan, including cooking demonstrations, which are only available to our members. Membership is free and you gain access by subscribing.
 
 Every message we ever send you contains a link for you to unsubscribe at will. After you unsubscribe, you will never receive another message from us unless you choose to subscribe again at a later date, or you chose to subscribe to some of our other memberships, such as our Dog Book Club.
 
-We never share or sell your information to a third party.
+We never share or sell your information to a third party. 
 
 **What cookies are and why we use them**  
 Cookies are small text files that are placed on your computer by websites that you visit, including ours. They are very widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
@@ -67,4 +71,4 @@ Andrew
 
 __Back To Top__  
   
-Disclaimer: Healthy-K9.com cannot guarantee that by simply watching our free videos and reading our articles that your dog will live to be 134% or 8.3 years older than the average age for its breed, as this depends on too many outside circumstances beyond our control, including how willing you are to follow the advice we provide, the current health and age of your dog and how your dog has been cared for during its life up until this point. We do gaurantee that if our methods do not work for you we will refund any purchases you may have made from us if you ask. Andrew Lewis is a pen name used by the creater of this site and associated products.
+Disclaimer: Healthy-K9.com cannot guarantee that by simply watching our free videos and reading our articles that your dog will live longer than the average age for its breed, as this depends on too many outside circumstances beyond our control, including how willing you are to follow the advice we provide, the current health and age of your dog and how your dog has been cared for during its life up until this point. We do gaurantee that if our methods do not work for you we will refund any purchases you may have made from us if you ask. Andrew Lewis is a pen name used by the creater of this site and associated products.
