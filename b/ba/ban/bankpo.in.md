@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankpo.in privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128220654id_/http%3A//bankpo.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankpo.in privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608102421id_/http%3A//bankpo.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BANK JOBS | IBPS EXAMS
 
@@ -40,9 +40,9 @@ In addition other Internet sites or services that may be accessible through our 
 
 —————————————————————————————-
 
-To discuss with other bank aspirants [**REGISTER HERE**](http://bankpo.in/discussion/register.php)
+To discuss with other bank aspirants [**REGISTER HERE**](http://bankpo.in/wp-login.php?action=register)
 
-After registering yourself [**DISCUSS IN FORUMS HERE**](http://bankpo.in/discussion/)  
+After registering yourself [**DISCUSS IN FORUMS HERE**](http://bankpo.in/forums/)  
 —————————————————————————————-  
 
 
