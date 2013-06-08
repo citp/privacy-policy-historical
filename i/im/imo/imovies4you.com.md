@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imovies4you.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108001855id_/http%3A//imovies4you.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imovies4you.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608172840id_/http%3A//imovies4you.com/privacy-policy) for the most accurate reproduction.*
 
 # iMovies4You - Privacy Policy
 
