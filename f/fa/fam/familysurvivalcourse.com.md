@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familysurvivalcourse.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011180349id_/http%3A//familysurvivalcourse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familysurvivalcourse.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608203548id_/http%3A//familysurvivalcourse.com/special/spf/privacy.php) for the most accurate reproduction.*
 
 # Family Survival Course
 
@@ -29,4 +29,4 @@ We may disclose and use personally identifiable information in special circumsta
 
 **5\. CHANGES TO THIS POLICY** FamilySurvivalCourse.com may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy. 
 
-6\. CONTACT INFORMATION For questions regarding this Privacy Policy please [Contact us](https://web.archive.org/web/20121011180349id_/http%3A//familysurvivalcourse.com/contact.php). 
+6\. CONTACT INFORMATION For questions regarding this Privacy Policy please [Contact us](https://web.archive.org/web/20130608203548id_/http%3A//familysurvivalcourse.com/special/spf/contact.php). 
