@@ -1,0 +1,30 @@
+> *The following text is extracted and transformed from the gonoodle.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608043314id_/http%3A//company.healthteacher.com/privacy_policy.html) for the most accurate reproduction.*
+
+# HealthTeacher::Corporate
+
+AGREEMENT  
+By using our Web site, you agree to the Privacy Policy. If you do not agree to the Policy, please do not use the Site. HealthTeacher reviews its policies periodically and reserves the right in its discretion, to modify or remove portions of this or any other policy at any time. This page should be reviewed periodically so that you are updated on any changes. If you would like to communicate with us about this Policy, please contact us.
+
+PRIVACY PROTECTION  
+We at HealthTeacher, owned and operated by HealthTeacher, understand that the Internet presents an opportunity for us to reach you, the public, in new and exciting ways with information about our programming, content and other forms of interaction. Visitors to our Web Site can be confident that we respect user privacy. Specifically, we recognize the importance of protecting the privacy of personally identifiable information collected about our visitors. As a general policy, no personally identifiable information, such as name, address or e-mail address, is automatically collected from visitors to our site. It is voluntarily provided by the user upon registration.
+
+PERSONALLY IDENTIFIABLE INFORMATION   
+Personally identifiable information about our visitors is collected only when knowingly and voluntarily submitted by those visitors. HealthTeacher uses such information only for the purpose for which it was submitted, unless we disclose other uses at the time of collection. HealthTeacher does not sell personal information to third parties. HealthTeacher may share targeted utilization data with school district clients and this data may contain identifiable information. HealthTeacher maintains appropriate safeguards to ensure the security, integrity, and privacy of personally identifiable information in the aggregate (non-identifiable) form to make our Web site better and more responsive to the needs of our visitors. This statistical compilation of non-identifiable information may also be used by or provided to others for marketing, advertising, or research purposes.
+
+NOTICE  
+HealthTeacher will notify you when it is collecting personally identifiable information about you, as well as the use or uses HealthTeacher intends to make with such information. For example, we may need to collect information to respond to your requests for search results, buying products, requesting information, or to allow you to send or post messages, or for billing purposes. We also keep information about customer utilization, individual shopping sessions, and purchases in a secure database on our servers in order to fulfill online transaction and banking requirements.
+
+IP ADDRESSES  
+We may collect and disclose certain non-personal information from your IP address. This information is used only to provide an enhanced on-line experience for our visitors by optimizing our Web pages for your computer (ie: the identity of your Internet browser, the type of operating system you use, and the domain name of your Internet service provider). We may also use this non-personal information to develop utilization data on our Web site.
+
+USE OF COOKIES  
+When you view our Web site, we may store some information on your computer. This information will be in the form of a 'Cookie' or similar file and will help us in many ways. Cookies provide the means of granting access to specific areas of the website. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.
+
+CHILDREN'S ONLINE ACTIVITIES   
+HealthTeacher encourages adults to supervise children's activities online and to participate with the children whenever possible. We encourage parents and schools to consider installing parental control tools available from online services and software manufacturers that help ensure children's safety online. These tools can prevent children from disclosing personally identifiable information such as their name, address or e-mail address without parental permission. HealthTeacher does not knowingly collect personally identifiable information from children under the age of 13. You must be 18 years or older to make any purchases on HealthTeacher.
+
+CHAT ROOMS, MESSAGE BOARDS AND SUBMISSIONS  
+Should any visitor to HealthTeacher's Web Site provide information, questions, comments, suggestions, ideas or any material through the feedback mechanisms located in the Web Site, HealthTeacher shall have no obligation of any kind with respect to such information and shall be free to reproduce, use, disclose and distribute the information to others without limitation. The information expressed in any message boards or chat rooms, or other forums conducted on HealthTeacher's Web Sites, if any, are not necessarily those of HealthTeacher or its affiliated or related entities or content providers and HealthTeacher makes no representations or warranties regarding that information or those opinions.
+
+LINKS TO OTHER SITES  
+HealthTeacher chooses its advertisers and business partners carefully. However, HealthTeacher is not responsible for the content or privacy practices of Web Sites operated by third parties that are linked to or from our Web Site. These links are meant for the visitor's convenience only. Links to the third party Web Sites do not constitute sponsorship, endorsement, or approval by HealthTeacher of content, policies or practices of such sites. Once you have left a HealthTeacher Web Site via such a link, you should check the applicable privacy policy of the third party site.
