@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armstrong.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128054037id_/http%3A//www.armstrong.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armstrong.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608164050id_/http%3A//www.armstrong.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Armstrong Web Privacy Policy
 
@@ -12,7 +12,7 @@ Armstrong World Industries, Inc. ("Armstrong") strives to achieve the highest st
 
 
 
-If you have any questions or comments about Armstrong's Privacy Policy, please [contact us here](https://web.archive.org/web/20121128054037id_/http%3A//www.armstrong.com/corporate/contact-us.html). 
+If you have any questions or comments about Armstrong's Privacy Policy, please [contact us here](https://web.archive.org/web/20130608164050id_/http%3A//www.armstrong.com/corporate/contact-us.html). 
 
 **NOTICE: Information We Collect and How We Use It**  
 Armstrong collects two types of information about you when you visit our site: personal information (including, by way of example only, your name, address, telephone number and e-mail address) and non-personal, aggregate information (such as information regarding the pages on our site that you have visited and your IP address). 
@@ -91,7 +91,7 @@ Armstrong provides the following choices regarding the use of your information.
 
   * You may set your browser to reject cookies and to erase cookies that have already been placed on your hard drive. However, if you do so, your ability to navigate this site will be limited. 
   * You may choose not to provide us with any contact information.
-  * If you would like us to manage your contact status or be removed from any of our on-line mailing lists, click [here](http://armstrong-email.com/servlet/website/ResponseForm?HPpEwkpOHJR_whspJR_1glNIlJkpIL). 
+  * If you would like us to manage your contact status or be removed from any of our on-line mailing lists, every email will contain an unsubscribe link, allowing you to unsubscribe from emails. 
   * If you do not want your personal or nonpersonal information merged with cookie and other information, you should not use the Armstrong Web site. 
   * If you would like Armstrong to delete any personal information you have provided, please send an e-mail at [deletepersonalinfo@armstrong.com](mailto:deletepersonalinfo@armstrong.com) and write "Delete Personal Info" on the subject line. 
 
