@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatface.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116120242id_/http%3A//www.fatface.com/privacy-statement/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatface.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609000023id_/http%3A//www.fatface.com/privacy-statement/page/privacy) for the most accurate reproduction.*
 
 # Privacy Statement at Fat Face
 
@@ -65,7 +65,7 @@ In order that we can monitor and improve the site we may gather certain informat
 
 Please note: We do not use cookies to store any of your personal or financial information on your computer.
 
-You can control the use of cookies on your computer by either enabling or disenabling them yourself. However, if you do turn cookies off you may be unable to access certain parts of our site. You can get more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+You can control the use of cookies on your computer by either enabling or disabling them yourself. However, if you do turn cookies off you may be unable to access certain parts of our site. You can get more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 ### Where we store your personal data
 
