@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fightarthritispain.org privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122013508id_/http%3A//www.fightarthritispain.org/index.asp%3FL1%3D31) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightarthritispain.org privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608183533id_/http%3A//www.fightarthritispain.org/index.asp%3FL1%3D31) for the most accurate reproduction.*
 
 # Fight Arthritis Pain
 
