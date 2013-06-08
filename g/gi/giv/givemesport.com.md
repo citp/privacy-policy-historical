@@ -1,79 +1,195 @@
-> *The following text is extracted and transformed from the givemesport.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223212621id_/http%3A//verio.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givemesport.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609010437id_/http%3A//www.givemesport.com/privacy-statement) for the most accurate reproduction.*
 
-# Verio Privacy Policy
+# Privacy Statement
 
-## Privacy Policy for Customer and Visitor Information
+1\. Introduction
 
-Verio Inc.  
-Effective: April 21, 2011
+2\. Collection of Your Personal Information
 
-We, Verio Inc. (“Verio”), value the business of our customers and are committed to protecting any data that we collect regarding our customers. By using Verio’s websites and/or purchasing Verio’s products and services (the “Services”), you (either a visitor to a Verio corporate website or a Customer) agree to the use of the data that we collect in accordance with this Privacy Policy. This Privacy Policy may be updated from time to time, at Verio’s sole discretion. Verio will provide you a notice of material changes to this Privacy Policy (e.g., material changes to the way Verio uses or discloses your Personal Information) by disclosing this amendment on its homepage and providing electronic notice of such changes on your Control Panel or BackRoom or to the email address we have on file. Your continued use of this website or the Services following your receipt of notice of material changes constitutes your agreement with any changes or modifications that Verio may make. 
+3\. Use of Your Personal Information
 
-This Privacy Policy applies only to Verio’s treatment of data collected online, and does not apply to any offline data collection practices or to the data collection practices of any third parties, Verio customers, or any entities affiliated with Verio. 
+4\. General Disclosure of Personal Information
 
-Verio collects two types of information: Personally Identifiable Information (such as your name and e-mail address) (“PII” and “Personal Information”) and Non-Personally Identifiable Information (such as information that cannot be used to identify you individually) (“Non-Identifiable Information”). 
+5\. Sponsored Questionnaires and Co-branded sites
 
-  1. **Non-Identifiable Information**
+6\. Managing Your Personal Information
 
-Verio may collect public or Non-Identifiable Information such as your usage information contained in “cookies” in order to: optimize the functionality of our website, personalize your experience on our website, perform system maintenance, and perform data analysis (such as broad general demographic analytics). You may choose to disable cookies, but that may decrease the functionality of Verio’s website. 
+7\. Deregistration and un-subscribing from emails
 
-  2. **Personal Information**
+8\. Security and Storage of Your Personal Information
 
-In order to provide you with Services, Verio may collect a variety of Personal Information. This information may include, but not be limited to: your name, your contact information (including e-mail address, phone number, and mailing address), your domain name(s), and financial information such as your credit card. During the provision of Services, Verio may also develop other Personal Information in your account such as your transaction history. All Personal Information collected through this website will be collected using a secure server and will be stored in accordance with Verio’s Information Security Policy.
+9\. Use of Cookies
 
-    1. **Use and Protection of Personal Information:**  
-Generally, Personal Information is used for billing purposes and in order to provision and provide the Services. Verio may also use this information in order to assess our customers’ needs and provide support. Verio collects this information in accordance with its Information Security Policy, which includes physical, electronic, and managerial safeguards to protect your Personal Information. In addition, Verio may contact our customers with voluntary materials, such as system usage information, newsletters, and other mailings or contacts containing promotions or other marketing materials for Verio or its Channel Partners ([www.viaverio.com](http://www.viaverio.com/)), selected vendors, and Affiliates. Any customer who receives these mailings or calls may Opt-Out from these voluntary communications at any time. Verio does not sell or otherwise transfer any Personal Information to third parties for the purposes of marketing communications, but may occasionally contact you on behalf of its Channel Partners, selected vendors, and Affiliates.
+10\. Changes to This Privacy Statement
 
-    2. **Onward Transfer of Personal Information:**  
-During the provision of Services, Verio may release Personal Information to third parties as necessary to the purposes described above. Third party recipients of Personal Information may include Verio’s Third-Party Providers, vendors, credit card processing companies, and your financial institution, as applicable. Verio only provides this information to third parties to the extent required to fulfill our obligations to you. More information about Verio’s Third-Party Providers can be found in the Terms and Conditions for your Services, which can be found by logging into your Control Panel or BackRoom. Verio provides this information in accordance with Verio’s Information Security Policy and all recipients are required to agree in writing to comply with Verio’s Information Security Policy with regards to their own treatment of the Personal Information. 
+11\. Contact Information
 
-While Verio does not sell its customer lists, in the case of a merger or sale of Verio’s business or a substantial portion of Verio’s assets, customers’ Personal Information will likely be part of the assets transferred. In this event, Verio will attempt to notify impacted customers, using their contact information on file, that their Personal Information has been transferred.
+**Last Updated: 12:01pm BST 08/04/2013**
 
-    3. **Access and Accuracy:**  
-You may access, review, and correct or update your information by logging into your Control Panel or Back Room. If you have any problems logging in, please contact Verio’s Customer Care team at <http://support.verio.com/contact/technical.cfm>. In order to access and review your information, you may be required to provide additional information in order to confirm your identity. If you are not a Verio Customer or you have provided your information for Opt-Out purposes and you would like to correct or update your information, you may enter in your updated Opt-Out information on our Opt-Out page or you may contact us using the contact information below. You may use these methods to delete information as well, but Verio may retain Personal Information provided in order to provide the Services or ensure that your Opt-Out preferences are retained. Deletion in these cases may cause Service termination or removal from our Opt-Out lists.
+### Introduction
 
-    4. **Retention:**  
-Verio retains this Personal Information only as long as necessary to provide Services or as required or permitted by law. Verio will dispose of any Personal Information in accordance with its Information Security Policy.
+This privacy statement covers the site [www.givemesport.com](http://www.givemesport.com/). Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance.
 
-  3. **Communications Preferences**
+If you have questions or concerns regarding this statement, you should first contact Nick Thain.
 
-Verio may contact our customers with voluntary materials, such as system usage information, newsletters, and other mailings or contacts containing promotions or other marketing materials for Verio or its Partners and Affiliates. Any customer who receives these mailings or calls may Opt-Out from these voluntary communications at any time. 
+GMF Media Ltd takes your privacy seriously and takes every reasonable precaution to safeguard the personal information you supply to it.
 
-It is important to note, however, that customers may not Opt-Out from transactional or required communications, including but not limited to: purchase confirmations, billing notifications, important system updates, and communications to provide service or support. 
+GMF Media Ltd recognizes that your privacy and the protection of your personal information is important to you, this statement discloses how GMF Media Ltd helps to protect your personal information while using the GMF Media Ltd Web Site [www.givemesport.com](http://www.givemesport.com/)
 
-To control your communications preferences, please go to Verio’s Opt-Out page, located here: [www.verio.com/about/legal/privacy/solicitation/](https://web.archive.org/about/legal/privacy/solicitation/). 
+GMF Media Ltd is registered under the Data Protection Act 1998 under registration number Z3206749. The information you provide is safeguarded under the terms of that Act. To find out more information about the data protection act please visit [www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/)
 
-If you are not a Verio customer and Verio received your information from a third party for the purposes of marketing communications and you wish to Opt-Out from future non-transactional communications, Verio will retain your information on its global Opt-Out list indefinitely. In order to Opt-Out, please go to Verio’s Opt-Out page, located here: [www.verio.com/about/legal/privacy/solicitation/](https://web.archive.org/about/legal/privacy/solicitation/). If you have previously Opted Out and need to update your information, please enter your new information on the Opt-Out page. 
+back to top
 
-  4. **Customer Websites and Third-Party Websites**
+### Collection of your personal information
 
-Verio provides hosting services, both directly to retail customers and through Resellers & Channel Partners. This Privacy Policy only applies to information submitted directly to Verio. This Privacy Policy does not apply to, nor does Verio provide any guarantee for, any data or information submitted to any other person or entity, including any person or entity that may be a customer, directly or indirectly, of Verio. Verio does not exercise authority or control over its customers, nor does it censor or monitor its customers’ sites, and you should carefully assess any such website prior to submitting data or information to them. 
+In order to use this Web site, you must first complete the registration form and choose a password. During registration you are required to give contact information (such as name and email address). We use this information to contact you about the services on our site in which you have expressed interest.
 
-Verio’s websites may also contain links to external sites and co-branded sites (such as a site offered by a third party that may also include Verio’s logo and provide discounted services to Verio customers), which may be operated by a third-party and will have its own privacy policy. When you click on these links, you will be subject to the third-party’s privacy policy and its other policies, and these policies may be different from Verio’s own policies. Verio cannot be responsible for the privacy practices of these third-party websites, their collection practices, and their content. 
+You have the option to provide demographic information (such as income level and gender) to us; we encourage you to submit this information so we can provide you a more personalized experience on our site.
 
-  5. **Required Disclosure**
+Once you register with GMF Media Ltd you will receive a welcome email, and a weekly newsletter.
 
-Verio will disclose any information about you upon a valid request as we, in our sole discretion, believe is necessary or appropriate to respond to claims and any legal process (including but not limited to, subpoenas, warrants, and court orders). Verio may also disclose any information about you as necessary, in Verio’s sole discretion, to protect the safety of the public or any person, protect your property or rights, protect the property and rights of any third party, bring legal action against someone who may be causing harm or interfering with the rights or property of Verio, Verio’s customers, or others, or to stop any activity that is in violation of Verio’s [Acceptable Use Policy](https://web.archive.org/about/legal/aup/). 
+GMF Media Ltd is the sole owner of the information collected on [www.givemesport.com](http://www.givemesport.com/).
 
-Verio will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that Verio stores or transmits for its customers. The circumstances under which Verio will disclose such electronic customer communications are when: 
+GMF Media Ltd collects personally identifiable information from our users at several different points on our Web site.
 
-    1. it is necessary in order to provide service to the customer; 
-    2. it is necessary to protect the legitimate interests of Verio and its customers; 
-    3. it is necessary to cooperate with interception orders, warrants, or other legal process; or
-    4. it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by Verio and appear to pertain to the commission of a crime.
+GMF Media Ltd collects demographic (information about you, such as name, age and address) and lifestyle (information about your interests and purchasing habits). GMF Media Ltd collects data about you, including answers to specific questions asked by GMF Media Ltd sponsors.
 
-Verio disclaims any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Verio may, however, review, delete, or block access to communications that may harm Verio, its customers or third parties. The grounds on which Verio may take such action include, but are not limited to, actual or potential violations of Verio’s [Acceptable Use Policy](https://web.archive.org/about/legal/aup/) or its [Global Terms and Conditions](https://web.archive.org/order/dsp_terms.cfm). 
+This information is used to assist GMF Media Ltd and third parties in sending you by, email, sms, voice, post or other appropriate means, communications about their products and services.
 
-  6. **Contact Us**
+back to top
 
-Questions, comments, or complaints regarding Privacy Policy and data collection and processing practices can be mailed or emailed to: 
+### Use of your personal information
 
-> VERIO INC.  
->  Attention: Legal Department  
->  8300 E. Maplewood Avenue, Suite 400  
->  Greenwood Village, CO 80111  
->  [customer.privacy@verio.net](mailto:customer.privacy@verio.net)  
->  [Opt-Out](https://web.archive.org/about/legal/privacy/solicitation/)
+GMF Media Ltd will not use or share your personal information in a manner that differs from what is described within this Privacy Statement and within the registration opt-in statement without your prior consent. The following statement is prominently displayed before you can join GMF Media Ltd
 
+"By registering and entering your details you consent to GMF Media Ltd and its clients sending you information about products and/or services that may be of interest to you.You also agree to the terms and conditions of the privacy statement that govern how your information will be processed."
 
+Sponsors of the GMF Media Ltd questionnaires have their own privacy policies and some have their own opt-in statements, GMF Media Ltd strongly recommends that you read and understand this information.
 
+Your data together with that of other subscribers to GMF Media Ltd may be aggregated at Postcode or other levels for the building of statistical and analytical tables. At no time will your data be individually identifiable in such tables.
+
+back to top
+
+### General disclosure of personal information
+
+Aggregate Information (non-personally identifiable)
+
+We do not link aggregate user data with personally identifiable information.
+
+Personally identifiable information - We Share Personally Identifiable Information with Third Parties, we share the information that you have answered within the questionnaires with the relevant client. The clients use this to profile you, this enables them to send you targeted communications.
+
+Once you register with GMF Media Ltd you consent to GMF Media Ltd and it's clients being able to send you relevant communications.
+
+The collection of data by GMF Media Ltd through registration on third party sites may lead to your data also being held by that third party site.
+
+The data that you provide to GMF Media Ltd, is held by both GMF Media Ltd and the sponsors, of the questionnaires that you answer. GMF Media Ltd holds your data in a central database and this database is only accessed by reference to interest or demographic categories in order to provide you with information about those interests you have selected. The process of supplying you with this information is at all times under the control of GMF Media Ltd although specialist third party suppliers may carry out the dispatch.
+
+back to top
+
+### Sponsored Questionnaires and Co-branded sites
+
+Every user must agree and opt-in to the following statement before completing their GMF Media Ltd registration:
+
+"By registering and entering your details you consent to GMF Media Ltd and its clients sending you information about products and/or services that may be of interest to you. You also agree to the terms and conditions of the privacy policy that govern how your information will be processed."
+
+Each questionnaires on GMF Media Ltd is sponsored by a client, by giving a positive response and entering the questionnaire on GMF Media Ltd you are giving your consent for the sponsor / client sending you information about products and/or services that may be of interest to you. You will also have the opportunity to say "not applicable" to a sponsors questions on GMF Media Ltd.The information you provide may be used, by GMF Media Ltd and its Clients, to provide you with information and offers by post. If you would prefer not to receive such offers please indicate your preference by ticking the box provided, located on the Amend Details page.
+
+At times it may be appropriate for GMF Media Ltd, its clients or sponsors to contact you with offers and information in respect of your interests or to inform you about subjects upon which you have requested information through your mobile phone or other PDA devices. Before doing so GMF Media Ltd will always ask you for your specific consent. If having given consent previously, you wish to withdraw this consent you may do so by logging on and amending your details on the site.
+
+Your data may be provided to clients of GMF Media Ltd to be appended to information they already hold about you for the purpose of contacting you with information about their products and services. When first contacting you these clients will seek your appropriate consent.
+
+GMF Media Ltd may from time to time use third party suppliers to provide all or part of a service to you. GMF Media Ltd shall only be entitled to supply such of your personal information as is necessary to enable them to provide the relevant service to you.
+
+You should be aware that such outside service providers might be based in countries outside the European Union whose laws provide for a different standard of protection for your personal data than that provided under English law. In such circumstance GMF Media Ltd will have in place contractual arrangements which will require your data to be processed at least to a standard compliant with the Data Protection Act 1988.
+
+Except as provided above, GMF Media Ltd will not provide your personal information to any third party without your prior consent, however, under certain circumstances the force of law may require the provision of information to the legal authorities. In order to maintain the integrity of its website and safeguard the interests of its subscribers GMF Media Ltd will comply with any such legally binding request.
+
+back to top
+
+### Managing your personal information
+
+The data you provide to GMF Media Ltd will be held as you have provided it. You may at any time amend or update your data by visiting GMF Media Ltd at [www.givemesport.com/my-account](http://www.givemesport.com/my-account), log in and click on "My Account". There you will find the Personal Info panel where you can amend or update your details.
+
+You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us.
+
+We are entitled by law to charge a maximum fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+back to top
+
+### Deregistration and un-subscribing from emails
+
+You may at any time deregister from GMF Media Ltd by visiting [www.givemefootball.com/my-account](http://www.givemesport.com/my-account), and selecting the deregister button located within My Account. The consequences of deregistration are that your account details will be placed in a suppression file and you will not receive any further email communications from GMF Media Ltd.
+
+There is information on how you can un-subscribe at the bottom of every email that GMF Media Ltd send out ether on behalf of GMF Media Ltd or its clients and sponsors.
+
+You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+
+back to top
+
+### Security and storage of your personal information
+
+The Internet is not a 100% secure medium for communication and, accordingly, GMF Media Ltd cannot guarantee the security of any information you send to GMF Media Ltd via the Internet. GMF Media Ltd is not responsible for any loss or damage you or others may suffer as a result of the loss of confidentiality of such information.
+
+GMF Media Ltd is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities.
+
+You must type the correct password to access your GMF Media Ltd account information. It is your responsibility to ensure the security of your GMF Media Ltd password and not to reveal this information to others.
+
+Personal information collected by GMF Media Ltd may be stored and processed outside the United Kingdom. By using GMF Media Ltd, you consent to any such transfer of information outside of the United Kingdom.
+
+back to top
+
+### Use of Cookies
+
+A cookie is a very small text file that a Web site saves to your computer's hard disk to store information that you provide about yourself or to store your preferences.
+
+GMF Media Ltd uses cookies whenever you login to GMF Media Ltd. GMF Media Ltd stores your unique ID number, and the time you signed in, in an encrypted cookie on your hard disk. This cookie allows you to move from page to page at the site without having to login in again on each page. GMF Media Ltd uses session cookies to store data on our server that are individually identifiable when you log out of GMF Media Ltd, these session cookies are deleted from your computer.
+
+GMF Media Ltd also uses cookies to improve the experience. For example, GMF Media Ltd may store your login details in a cookie that will remain on your computer after you log out. This cookie allows you to be automatically logged in the next time you visit GMF Media Ltd. If you are using a public computer or do not otherwise want this information to be stored, you can un-check the "remember me" tick box when you log-in or register, and this cookie will not be used.
+
+The sites or services you visited may store their own cookies on your computer. GMF Media Ltd recommends that you read each site's privacy statement to understand their policies and practices regarding the use of cookies. You have the ability to accept or decline cookies using the settings on your browser. If you have cookies disabled in your browser you are still able to use the GMF Media Ltd site but you will not have the benefit of an automatic login.
+
+The functionality of GMF Media Ltd depends upon your browser accepting session cookies. GMF Media Ltd tracks visitors to and on the GMF Media Ltd site by using referrer tracking. GMF Media Ltd uses click thru and open mail tracking when sending emails. This process allows GMF Media Ltd and its clients the ability to profile the recipients of their communications.
+
+Or our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
+
+Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
+
+On this website we use Google Analytics to measure and analyse information with respect to visits to our website. To that effect we use your IP address to collect, among other things, internet traffic data and data regarding your browser type and computer.
+
+In addition cookies are used. A cookie is a small file that is stored on your computer when you visit a website. If you visit the website again, it is recognized as a repeat visit by means of the cookie. The cookie contains merely a unique number and therefore no personal data. The cookie cannot be used to identify you on websites of third parties, including Nedstat.
+
+It is possible to configure your web browser to refuse cookies or to be informed if a cookie is set. We refer to the manual of your web browser. We will not use the IP addresses or cookies to identify you personally.
+
+This privacy statement covers the use of cookies by [www.givemesport.com](http://www.givemesport.com/) only and does not cover the use of cookies by any advertisers
+
+back to top
+
+### Changes to this Privacy Statement
+
+GMF Media Ltd will occasionally update this Privacy Statement. When we do, we will also revise the "last updated" date at the top and bottom of the Privacy Statement. GMF Media Ltd will obtain your opt-in consent for any updates to this Privacy Statement that materially expand the sharing or use of your personal information in ways not disclosed in this Privacy Statement at the time of collection.
+
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. GMF Media Ltd stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+
+Your friend may [contact us](https://web.archive.org/contact-us) to request that we remove this information from our database.
+
+back to top
+
+### Contact information
+
+If you have questions regarding this Privacy Statement, please contact GMF Media Ltd at
+
+**By email:** [click here](https://web.archive.org/contact-us)
+
+**By post:**
+
+GMF Media Ltd  
+16-18a Beak Street  
+Soho  
+London  
+W1f 9RD 
+
+[Map](https://maps.google.com/maps?q=16-18+beak+street&hl=en&ll=51.5115,-0.137104&spn=0.005976,0.016512&sll=51.512108,-0.124031&sspn=0.002988,0.008256&hnear=18+Beak+St,+City+of+Westminster,+London,+United+Kingdom&t=m&z=17)
+
+Phone: +44 (0)207 195 0095
+
+back to top
