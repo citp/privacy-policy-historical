@@ -1,0 +1,569 @@
+<!--The following is the downloaded HTML source of the fthe.me privacy policy that was archived on 2013-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130609005604id_/http%3A//fthe.me/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html dir="ltr" lang="en-US"><head>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+ 
+<title>Privacy Policy | The Best Free and Premium Wordpress Themes For Download</title>
+
+<link rel="stylesheet" href="http://fthe.me/wp-content/themes/ftheme/style.css" type="text/css">
+<link rel="stylesheet" href="http://fthe.me/wp-content/themes/ftheme/js/colorbox/colorbox.css" type="text/css">
+
+
+<link rel="shortcut icon" href="http://fthe.me/wp-content/uploads/2012/11/favicon.png">
+
+<link rel="alternate" type="application/rss+xml" title="The Best Free and Premium Wordpress Themes For Download » Feed" href="http://fthe.me/feed/">
+<link rel="alternate" type="application/rss+xml" title="The Best Free and Premium Wordpress Themes For Download » Comments Feed" href="http://fthe.me/comments/feed/">
+
+<link rel="stylesheet" id="envato-marketplace-items-css" href="http://fthe.me/wp-content/plugins/envato-marketplace-items/marketplace.css?ver=1.0.3" type="text/css" media="all">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://fthe.me/wp-includes/js/comment-reply.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://fthe.me/wp-content/themes/ftheme/js/jquery-1.6.4.min.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://fthe.me/wp-content/themes/ftheme/js/jtwt.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://fthe.me/wp-content/themes/ftheme/js/jquery.nivo.slider.pack.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://fthe.me/wp-content/themes/ftheme/js/colorbox/jquery.colorbox-min.js?ver=3.4.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://fthe.me/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://fthe.me/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="About FThe.me" href="http://fthe.me/about-fthe-me/">
+<link rel="next" title="Terms &amp; Conditions" href="http://fthe.me/terms-conditions/">
+<meta name="generator" content="WordPress 3.4.2">
+
+<!-- All in One SEO Pack 1.6.15.2 by Michael Torbert of Semper Fi Web Design[132,220] -->
+<meta name="description" content="Your confidentiality is imperative for us. We have a set of principles; according to which we work. Certainly, you hold the right to ascertain if we are">
+<link rel="canonical" href="http://fthe.me/privacy-policy/">
+<!-- /all in one seo pack -->
+
+
+	
+<style type="text/css">body { background-color:#eeeeee; }
+#header-top-wrapper { background-color:#121212; }
+#navigation-wrapper { background-color:#121212; }
+.item .item-meta .category a, .post-content a, #sidebar .widget-item .comments a, .post-meta .category a { color: #bc0c0c; }
+.item-thumb .comments, .nivo-caption .category, .post-comment-box { background-color: #bc0c0c; } 
+</style>
+
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+	(function ($) {
+		// VERTICALLY ALIGN FUNCTION
+		$.fn.vAlign = function() {
+			return this.each(function(i){
+			var ah = $(this).height();
+			var ph = $(this).parent().height();
+			var mh = Math.ceil((ph-ah) / 2);
+			$(this).css('margin-top', mh);
+			});
+		};
+		})(jQuery);
+
+	$('#logo').vAlign();
+	
+	$('.slider-item').nivoSlider({
+		directionNav: false,
+		effect: 'random',
+		pauseTime: '4000',
+		captionOpacity: 1
+	});
+
+	// Tabs
+	//When page loads...
+	$('.tabs-wrapper').each(function() {
+		$(this).find(".tab_content").hide(); //Hide all content
+		$(this).find("ul.tabs li:first").addClass("active").show(); //Activate first tab
+		$(this).find(".tab_content:first").show(); //Show first tab content
+	});
+	
+	//On Click Event
+	$("ul.tabs li").click(function(e) {
+		$(this).parents('.tabs-wrapper').find("ul.tabs li").removeClass("active"); //Remove any "active" class
+		$(this).addClass("active"); //Add "active" class to selected tab
+		$(this).parents('.tabs-wrapper').find(".tab_content").hide(); //Hide all tab content
+
+		var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
+		$(this).parents('.tabs-wrapper').find(activeTab).fadeIn(); //Fade in the active ID content
+		
+		e.preventDefault();
+	});
+	
+	$("ul.tabs li a").click(function(e) {
+		e.preventDefault();
+	})
+
+	$(".toggle-content").hide(); 
+
+	$("h5.toggle").toggle(function(){
+		$(this).addClass("active");
+		}, function () {
+		$(this).removeClass("active");
+	});
+
+	$("h5.toggle").click(function(){
+		$(this).next(".toggle-content").slideToggle();
+	});
+	
+	// Add colorbox to gallery
+	$('.gallery').each(function(index, obj){
+		var galleryid = Math.floor(Math.random()*10000);
+		$(obj).find('a').colorbox({rel:galleryid, maxWidth:'95%', maxHeight:'95%'});
+	});
+	$("a.lightbox").colorbox({maxWidth:'95%', maxHeight:'95%'});
+
+	// Contact form
+	$('#contactForm').live('submit', function(e) {
+		var form = $(this);
+		var name = $(this).find('[name=pyre_name]').val();
+		var email = $(this).find('[name=pyre_email]').val();
+		var message = $(this).find('[name=pyre_message]').val();
+		
+		if(name == '') {
+			$(this).find('[name=pyre_name]').addClass('error');
+			$(this).find('[name=pyre_name]').parent().find('.error_msg').fadeIn();
+			
+			return false;
+		} else {
+			$(this).find('[name=pyre_name]').removeClass('error');
+			$(this).find('[name=pyre_name]').parent().find('.error_msg').fadeOut();
+		}
+		
+		var email_regex = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
+		if(email == ''  || !email_regex.test(email)) {
+			$(this).find('[name=pyre_email]').addClass('error');
+			$(this).find('[name=pyre_email]').parent().find('.error_msg').fadeIn();
+			
+			return false;
+		} else {
+			$(this).find('[name=pyre_email]').removeClass('error');
+			$(this).find('[name=pyre_email]').parent().find('.error_msg').fadeOut();
+		}
+		
+		if(message == '') {
+			$(this).find('[name=pyre_message]').addClass('error');
+			$(this).find('[name=pyre_message]').parent().find('.error_msg').fadeIn();
+			
+			return false;
+		} else {
+			$(this).find('[name=pyre_message]').removeClass('error');
+			$(this).find('[name=pyre_message]').parent().find('.error_msg').fadeOut();
+		}
+		
+		$.ajax({
+			url: 'http://fthe.me/wp-admin/admin-ajax.php',
+			data: jQuery(form).serialize()+'&action=pyre_contact_form',
+			type: 'POST',
+			success: function() {
+				$('.email_sent').fadeIn(400).delay(5000).fadeOut(400);
+			}
+		});
+		
+		e.preventDefault();
+	});
+});
+</script>
+
+</head>
+
+<body class="page page-id-93 page-template-default">
+
+		<div id="header-top-wrapper">
+	
+		<div id="header-top">
+		
+			<ul id="menu-top" class="menu"><li id="menu-item-99" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-99"><a href="http://fthe.me/">Home</a></li>
+<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="http://fthe.me/about-fthe-me/">About FThe.me</a></li>
+<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-93 current_page_item menu-item-102"><a href="http://fthe.me/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="http://fthe.me/terms-conditions/">Terms &amp; Conditions</a></li>
+<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="http://fthe.me/contact-us/">Contact us</a></li>
+</ul>		
+		</div>
+	
+	</div>
+		
+	<div id="wrapper">
+	
+		<div id="header">
+		
+			<div id="logo">
+								<a href="http://fthe.me"><img src="http://fthe.me/wp-content/themes/ftheme/images/logo2.png" alt="The Best Free and Premium Wordpress Themes For Download"></a> 
+			</div>
+			
+						<div id="header-banner">
+				<smt:banner colorscheme="dark" layout="8" link="http://smthemes.com/?i=ftheme></smt:banner><!-- SMThemes.com banner .js -->
+<script type=" text="" javascript'="" src="http://smthemes.com/api/banner.js">			</smt:banner></div>
+					
+		</div>
+		<div id="katy"></div>
+		<div id="navigation-wrapper">
+		
+			<div id="navigation">
+				<ul id="menu-categories" class="menu"><li id="menu-item-9" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9"><a href="http://fthe.me/wordpress-themes/free/">Free Themes</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35"><a href="http://fthe.me/wordpress-themes/premium/">Premium Themes</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-51"><a href="http://fthe.me/wordpress-themes/themes-types/">Themes Types</a>
+<ul class="sub-menu">
+	<li id="menu-item-52" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-52"><a href="http://fthe.me/wordpress-themes/themes-types/blog-magazine/">Blog / Magazine</a></li>
+	<li id="menu-item-53" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53"><a href="http://fthe.me/wordpress-themes/themes-types/business/">Business</a></li>
+	<li id="menu-item-54" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-54"><a href="http://fthe.me/wordpress-themes/themes-types/ecommerce/">Ecommerce</a></li>
+	<li id="menu-item-55" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55"><a href="http://fthe.me/wordpress-themes/themes-types/portfolio/">Portfolio</a></li>
+	<li id="menu-item-56" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56"><a href="http://fthe.me/wordpress-themes/themes-types/real-estate/">Real Estate</a></li>
+	<li id="menu-item-57" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57"><a href="http://fthe.me/wordpress-themes/themes-types/showcase-gallery/">Showcase / Gallery</a></li>
+	<li id="menu-item-58" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58"><a href="http://fthe.me/wordpress-themes/themes-types/special-pages/">Special Pages</a></li>
+	<li id="menu-item-59" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59"><a href="http://fthe.me/wordpress-themes/themes-types/video-multimedia/">Video / Multimedia</a></li>
+</ul>
+</li>
+<li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12"><a href="http://fthe.me/wordpress-themes/colors/">Colors</a>
+<ul class="sub-menu">
+	<li id="menu-item-13" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13"><a href="http://fthe.me/wordpress-themes/colors/black/">Black</a></li>
+	<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="http://fthe.me/wordpress-themes/colors/blue/">Blue</a></li>
+	<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="http://fthe.me/wordpress-themes/colors/brown/">Brown</a></li>
+	<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16"><a href="http://fthe.me/wordpress-themes/colors/dark/">Dark</a></li>
+	<li id="menu-item-17" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17"><a href="http://fthe.me/wordpress-themes/colors/gray/">Gray</a></li>
+	<li id="menu-item-18" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18"><a href="http://fthe.me/wordpress-themes/colors/green/">Green</a></li>
+	<li id="menu-item-19" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19"><a href="http://fthe.me/wordpress-themes/colors/light/">Light</a></li>
+	<li id="menu-item-20" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20"><a href="http://fthe.me/wordpress-themes/colors/orange/">Orange</a></li>
+	<li id="menu-item-21" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21"><a href="http://fthe.me/wordpress-themes/colors/pink/">Pink</a></li>
+	<li id="menu-item-22" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22"><a href="http://fthe.me/wordpress-themes/colors/purple/">Purple</a></li>
+	<li id="menu-item-23" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23"><a href="http://fthe.me/wordpress-themes/colors/red/">Red</a></li>
+	<li id="menu-item-24" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24"><a href="http://fthe.me/wordpress-themes/colors/silver/">Silver</a></li>
+	<li id="menu-item-25" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25"><a href="http://fthe.me/wordpress-themes/colors/tan/">Tan</a></li>
+	<li id="menu-item-26" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26"><a href="http://fthe.me/wordpress-themes/colors/white/">White</a></li>
+	<li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="http://fthe.me/wordpress-themes/colors/yellow/">Yellow</a></li>
+</ul>
+</li>
+<li id="menu-item-41" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41"><a href="http://fthe.me/wordpress-themes/specifications/">Specifications</a>
+<ul class="sub-menu">
+	<li id="menu-item-46" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46"><a href="http://fthe.me/wordpress-themes/specifications/magazine-style/">Magazine Style</a></li>
+	<li id="menu-item-47" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47"><a href="http://fthe.me/wordpress-themes/specifications/options-page/">Options Page</a></li>
+	<li id="menu-item-49" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49"><a href="http://fthe.me/wordpress-themes/specifications/slider/">Slider</a></li>
+	<li id="menu-item-50" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-50"><a href="http://fthe.me/wordpress-themes/specifications/widget-ready/">Widget Ready</a></li>
+	<li id="menu-item-42" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-42"><a href="http://fthe.me/wordpress-themes/specifications/ads-ready/">Ads Ready</a></li>
+	<li id="menu-item-43" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43"><a href="http://fthe.me/wordpress-themes/specifications/adsense-ready/">Adsense Ready</a></li>
+	<li id="menu-item-44" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44"><a href="http://fthe.me/wordpress-themes/specifications/fixed-width/">Fixed Width</a></li>
+	<li id="menu-item-45" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-45"><a href="http://fthe.me/wordpress-themes/specifications/fluid-width/">Fluid Width</a></li>
+	<li id="menu-item-48" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48"><a href="http://fthe.me/wordpress-themes/specifications/shortcodes/">Shortcodes</a></li>
+</ul>
+</li>
+<li id="menu-item-28" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28"><a href="http://fthe.me/wordpress-themes/columns/">Columns</a>
+<ul class="sub-menu">
+	<li id="menu-item-31" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31"><a href="http://fthe.me/wordpress-themes/columns/one-column/">One Column</a></li>
+	<li id="menu-item-33" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33"><a href="http://fthe.me/wordpress-themes/columns/two-columns/">Two Columns</a></li>
+	<li id="menu-item-32" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32"><a href="http://fthe.me/wordpress-themes/columns/three-columns/">Three Columns</a></li>
+	<li id="menu-item-29" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29"><a href="http://fthe.me/wordpress-themes/columns/four-columns/">Four Columns</a></li>
+	<li id="menu-item-30" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30"><a href="http://fthe.me/wordpress-themes/columns/mixed-columns/">Mixed columns</a></li>
+</ul>
+</li>
+<li id="menu-item-36" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36"><a href="http://fthe.me/wordpress-themes/sidebars/">Sidebars</a>
+<ul class="sub-menu">
+	<li id="menu-item-39" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39"><a href="http://fthe.me/wordpress-themes/sidebars/left-sidebar/">Left Sidebar</a></li>
+	<li id="menu-item-40" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40"><a href="http://fthe.me/wordpress-themes/sidebars/right-sidebar/">Right Sidebar</a></li>
+	<li id="menu-item-38" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38"><a href="http://fthe.me/wordpress-themes/sidebars/left-right-sidebars/">Left &amp; Right Sidebars</a></li>
+	<li id="menu-item-37" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37"><a href="http://fthe.me/wordpress-themes/sidebars/custom-sidebars/">Custom Sidebars</a></li>
+</ul>
+</li>
+</ul>			</div>
+			
+		</div>
+		<div id="main">
+		
+						
+			<div id="post-wrapper">
+
+				<div id="page-header">
+					
+					<h1>Privacy Policy</h1>
+						
+				</div>
+			
+				<div id="post">
+					
+					<div class="post-content">
+					
+						<p>Your confidentiality is imperative for us. We have a set of principles; according to which we work. Certainly, you hold the right to ascertain if we are truthful in our claim. Below are the details:</p>
+<ul>
+<li>We do not request your private information unless we actually need it.</li>
+<li>We can not bear services that ask you for information like your gender or income level for no understandable explanation.</li>
+<li>We do not share your personal information with anyone except to meet the terms of law, develop our products, or protect our rights.</li>
+<li>We do not collect and save personal information on our servers unless required for the constant process of one of our services.</li>
+</ul>
+<p>Our Privacy policy assimilates following major aims:</p>
+<p><strong>Website Visitors:</strong></p>
+<p>Similar to a good number of website operatives, our system collects non-personally-identifying information of the kind that web browsers and servers typically make accessible, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our intention in collecting non-personally identifying information is to better comprehend how our visitors use our website. From time to time, we may release non-personally-identifying information in collective form, e.g., by bringing out a report on trend in the usage of our website.</p>
+<p>We also collect potentially personally-identifying information like Internet Protocol (IP) addresses. We do not utilize such information to identify its visitors and do not disclose such information, other than under the same circumstances that we use and disclose personally-identifying information, as described below.</p>
+<p><strong>Gathering of Personally-Identifying Information</strong></p>
+<p>Certain visitors to our website choose to interact with us in ways that require us to gather personally-identifying information. The amount and type of information that our system gathers depends on the nature of the interaction. We collect such information only inasmuch as is essential or suitable to accomplish the purpose of the visitor’s communication with us. Visitors can at all times decline to provide personally-identifying information, with the caution that it may prevent them from engaging in certain website-related activities.</p>
+<p><strong>Protection of Certain Personally-Identifying Information</strong></p>
+<p>We reveal potentially personally-identifying and personally-identifying information no more than to those of our employees, contractors and affiliated organizations that (i) need to know that information in order to process it on our behalf, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using our website, you sanction to the transfer of such information to them. We will not rent or sell potentially personally-identifying and personally-identifying information to anyone. We disclose potentially personally-identifying and personally-identifying information only when required to do so by law, or when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of our website, third parties or the public at large.</p>
+<p><strong>Privacy Policy Changes</strong></p>
+<p>Though most modifications are likely to be trivial, we may change our Privacy Policy from time to time, and in our sole discretion. We encourage visitors to regularly check this page for any changes to our Privacy Policy.</p>
+											
+					</div>
+				
+				</div>
+				
+								<div class="post-share">
+										<div class="twitter-share share-widget">
+						<a href="http://twitter.com/share" class="twitter-share-button" data-text="Privacy Policy" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+					</div>
+															<div class="facebook-share share-widget">
+						<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffthe.me%2Fprivacy-policy%2F&amp;send=false&amp;layout=box_count&amp;width=46&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:46px; height:65px;" allowtransparency="true"></iframe>
+					</div>
+																																								<div class="google-share share-widget">
+						<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+						<g:plusone size="tall"></g:plusone>
+					</div>
+									</div>
+							
+			</div>
+			
+						
+		</div>
+		
+		<div id="sidebar">
+		
+				<div class="widget"><form method="get" id="searchform" action="http://fthe.me/">
+
+	<input type="text" class="search-field" name="s" id="s">
+	<input type="submit" value="Search" class="search-button">
+	
+</form></div><div class="widget">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-6395459574092817";
+/* fthe.me 300x350 */
+google_ad_slot = "2292559668";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</div><div class="widget"><h4>Subscribe &amp; Follow</h4>		<!-- BEGIN WIDGET -->		
+				<div class="social-box">
+						
+			<a href="http://www.facebook.com/fthedotme"><img src="http://fthe.me/wp-content/themes/ftheme/images/facebook.png" alt="Fan us on Facebook" width="48" height="48"></a>
+			
+			<div class="social-box-text">
+				<span class="social-arrow"></span>
+				<span class="social-box-descrip">Connect on Facebook</span>
+				<span class="social-box-count">268 Fans</span>
+			</div>
+		</div>
+				
+				
+				<div class="social-box">
+			<a href="http://fthe.me/feed/"><img src="http://fthe.me/wp-content/themes/ftheme/images/rss.png" alt="Subsribe to RSS" width="48" height="48"></a>
+			
+						
+			<div class="social-box-text">
+				<span class="social-arrow"></span>
+				<span class="social-box-descrip">Subscribe to RSS Feed</span>
+							</div>
+		</div>
+		<!-- END WIDGET -->
+		</div><div class="widget">		<!-- BEGIN WIDGET -->
+		<div class="tabs-wrapper">
+		
+			<ul class="tabs">
+				<li class="active"><a href="#tab1">Popular</a></li>				<li><a href="#tab2">Comments</a></li>				<li><a href="#tab3">Tags</a></li>			</ul>
+			
+			<div class="tabs_container">
+			
+								<div id="tab1" class="tab_content">
+																	<div class="widget-item">
+																												<a href="http://fthe.me/blast-wordpress-theme/" title="Blast WordPress Theme"><img src="http://fthe.me/wp-content/uploads/2013/01/wordpress-theme130-50x50.png" alt="Blast WordPress Theme" class="thumb"></a>
+														<h3><a href="http://fthe.me/blast-wordpress-theme/" title="Blast WordPress Theme">Blast WordPress Theme</a></h3>
+							<span class="date">January 28, 2013</span>
+							<span class="comments"><a href="http://fthe.me/blast-wordpress-theme/#comments" title="Comment on Blast WordPress Theme">5</a></span>
+						</div>
+												<div class="widget-item">
+																												<a href="http://fthe.me/itheme2/" title="iTheme2"><img src="http://fthe.me/wp-content/uploads/2013/04/Wordpress_theme293-50x50.jpg" alt="iTheme2" class="thumb"></a>
+														<h3><a href="http://fthe.me/itheme2/" title="iTheme2">iTheme2</a></h3>
+							<span class="date">April 30, 2013</span>
+							<span class="comments"><a href="http://fthe.me/itheme2/#comments" title="Comment on iTheme2">4</a></span>
+						</div>
+												<div class="widget-item">
+																												<a href="http://fthe.me/vincie-web-responsive-modern-wordpress-theme/" title="Vincie.web – Responsive Modern WordPress Theme"><img src="http://fthe.me/wp-content/uploads/2012/11/wordpress-theme32-50x50.png" alt="Vincie.web – Responsive Modern WordPress Theme" class="thumb"></a>
+														<h3><a href="http://fthe.me/vincie-web-responsive-modern-wordpress-theme/" title="Vincie.web – Responsive Modern WordPress Theme">Vincie.web – Responsive Modern WordPress Theme</a></h3>
+							<span class="date">November 15, 2012</span>
+							<span class="comments"><a href="http://fthe.me/vincie-web-responsive-modern-wordpress-theme/#comments" title="Comment on Vincie.web – Responsive Modern WordPress Theme">3</a></span>
+						</div>
+												<div class="widget-item">
+																												<a href="http://fthe.me/animepress/" title="AnimePress"><img src="http://fthe.me/wp-content/uploads/2012/11/wordpress-theme35-50x50.png" alt="AnimePress" class="thumb"></a>
+														<h3><a href="http://fthe.me/animepress/" title="AnimePress">AnimePress</a></h3>
+							<span class="date">November 15, 2012</span>
+							<span class="comments"><a href="http://fthe.me/animepress/#comments" title="Comment on AnimePress">3</a></span>
+						</div>
+															</div>
+								
+								<div id="tab2" class="tab_content">
+											<div class="widget-item">
+							<img alt="" src="http://1.gravatar.com/avatar/70fbc49165124cbf3b7f5dda9d5b2911?s=50&amp;d=Mystery+Man&amp;r=G" class="avatar avatar-50 photo" height="50" width="50">							
+							<h3><span class="who-said">Sallie Handon says:</span> <a class="comment-text-side" href="http://fthe.me/hypershot-photography-portfolio-wordpress-theme/#comment-3820" title="Sallie Handon on Hypershot - Photography Portfolio WordPress Theme">This would be a great theme for my behind the scenes blog...</a></h3>
+						</div>
+											<div class="widget-item">
+							<img alt="" src="http://0.gravatar.com/avatar/4ca2145bb9163dda8b5714758fcfb0f6?s=50&amp;d=Mystery+Man&amp;r=G" class="avatar avatar-50 photo" height="50" width="50">							
+							<h3><span class="who-said">Ju says:</span> <a class="comment-text-side" href="http://fthe.me/cafemio-ajax-club-bar-cafe-restaurant-wp-theme/#comment-3812" title="Ju on Cafemio Ajax, Club, Bar, Cafe, Restaurant WP Theme">It's not free =(
+but it's rlly pretty...</a></h3>
+						</div>
+											<div class="widget-item">
+							<img alt="" src="http://0.gravatar.com/avatar/4a95d7b859f6ecf655a9ab12f9a260b9?s=50&amp;d=Mystery+Man&amp;r=G" class="avatar avatar-50 photo" height="50" width="50">							
+							<h3><span class="who-said">peever says:</span> <a class="comment-text-side" href="http://fthe.me/peava/#comment-3780" title="peever on Peava">The preview theme link takes me to a login screen for "fruitful...</a></h3>
+						</div>
+											<div class="widget-item">
+							<img alt="" src="http://0.gravatar.com/avatar/83e72f02cf313e981939ccf7dd5ba3e5?s=50&amp;d=Mystery+Man&amp;r=G" class="avatar avatar-50 photo" height="50" width="50">							
+							<h3><span class="who-said">Jacinto Corning says:</span> <a class="comment-text-side" href="http://fthe.me/agency-2/#comment-3714" title="Jacinto Corning on Agency">Wow, superb blog layout! How long have you been blogging for? you...</a></h3>
+						</div>
+									</div>
+								
+								<div id="tab3" class="tab_content">
+					<div class="post-tags">
+										<a href="http://fthe.me/tag/responsive/" rel="tag">responsive</a>										<a href="http://fthe.me/tag/portfolio-2/" rel="tag">portfolio</a>										<a href="http://fthe.me/tag/smthemes/" rel="tag">SMThemes</a>										<a href="http://fthe.me/tag/clean/" rel="tag">clean</a>										<a href="http://fthe.me/tag/modern/" rel="tag">modern</a>										<a href="http://fthe.me/tag/horizontal-menu/" rel="tag">Horizontal menu</a>										<a href="http://fthe.me/tag/custom-sidebars/" rel="tag">Custom Sidebars</a>										<a href="http://fthe.me/tag/business/" rel="tag">Business</a>										<a href="http://fthe.me/tag/creative/" rel="tag">Creative</a>										<a href="http://fthe.me/tag/minimal/" rel="tag">minimal</a>										<a href="http://fthe.me/tag/corporate/" rel="tag">corporate</a>										<a href="http://fthe.me/tag/white/" rel="tag">White</a>										<a href="http://fthe.me/tag/gallery/" rel="tag">gallery</a>										<a href="http://fthe.me/tag/jquery/" rel="tag">jQuery</a>										<a href="http://fthe.me/tag/blog/" rel="tag">blog</a>										<a href="http://fthe.me/tag/photography/" rel="tag">Photography</a>										<a href="http://fthe.me/tag/black/" rel="tag">Black</a>										<a href="http://fthe.me/tag/magazine/" rel="tag">Magazine</a>										<a href="http://fthe.me/tag/slider-2/" rel="tag">slider</a>										<a href="http://fthe.me/tag/grey/" rel="tag">Grey</a>										</div>
+				</div>
+							
+			</div>
+			
+		</div>
+		<!-- END WIDGET -->
+		</div><div class="widget"><h4>FRIENDS</h4>			<div class="textwidget"><smt:banner colorscheme="light" layout="7" link="http://smthemes.com/?i=ftheme"></smt:banner>
+
+<!-- SMThemes.com banner .js -->
+<script type="text/javascript" src="http://smthemes.com/api/banner.js"></script></div>
+		</div><div class="widget"><h4>Find us on Facebook</h4>		<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FFree-and-Premium-wordpress-themes%2F190660727737778&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=360" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height: 360px;" allowtransparency="true"></iframe>
+		</div><div class="widget"><h4>Wordpress themes</h4><ul id="envato-marketplace-items">
+<li><a href="http://themeforest.net/item/cleverminds-premium-business-wordpress-theme/4910876?ref=SMThemes" target="_blank" title="Cleverminds - Premium Business WordPress Theme"><img src="http://1.s3.envato.com/files/58607292/80x80_icon.png" alt="Cleverminds - Premium Business WordPress Theme" height="80px" width="80px"></a></li>
+<li><a href="http://themeforest.net/item/icarus-fullscreen-studio-for-wordpress/4913543?ref=SMThemes" target="_blank" title="iCarus Fullscreen Studio for WordPress"><img src="http://1.s3.envato.com/files/58617206/thumbnail.jpg" alt="iCarus Fullscreen Studio for WordPress" height="80px" width="80px"></a></li>
+<li><a href="http://themeforest.net/item/food-cook-multipurpose-food-recipe-wp-theme/4915630?ref=SMThemes" target="_blank" title="Food &amp; Cook - Multipurpose Food Recipe WP Theme"><img src="http://1.s3.envato.com/files/58665653/Thumb.png" alt="Food &amp; Cook - Multipurpose Food Recipe WP Theme" height="80px" width="80px"></a></li>
+<li><a href="http://themeforest.net/item/focused-one-page-html5-responsive-wordpress-them/4814541?ref=SMThemes" target="_blank" title="focused - One Page HTML5 Responsive WordPress Them"><img src="http://2.s3.envato.com/files/58636129/thumb.png" alt="focused - One Page HTML5 Responsive WordPress Them" height="80px" width="80px"></a></li>
+<li><a href="http://themeforest.net/item/glenon-portfolio-business-wordpress-theme/4900493?ref=SMThemes" target="_blank" title="Glenon - Portfolio &amp; Business WordPress Theme"><img src="http://1.s3.envato.com/files/58445387/thumbnail-small.png" alt="Glenon - Portfolio &amp; Business WordPress Theme" height="80px" width="80px"></a></li>
+<li><a href="http://themeforest.net/item/pixelogic-responsive-multipurpose-wordpress-theme/4803648?ref=SMThemes" target="_blank" title="Pixelogic Responsive Multi-purpose WordPress Theme"><img src="http://1.s3.envato.com/files/58579510/thumbnail.png" alt="Pixelogic Responsive Multi-purpose WordPress Theme" height="80px" width="80px"></a></li>
+<li><a href="http://themeforest.net/item/ensconce-responsive-wordpress-video-landing-page/4892919?ref=SMThemes" target="_blank" title="Ensconce - Responsive WordPress Video Landing Page"><img src="http://1.s3.envato.com/files/58344912/ensconce-wp-thumbnail.png" alt="Ensconce - Responsive WordPress Video Landing Page" height="80px" width="80px"></a></li>
+<li><a href="http://themeforest.net/item/weblog-a-creatives-portfolio-blog-theme/4884067?ref=SMThemes" target="_blank" title="Weblog | A Creative's Portfolio &amp; Blog Theme"><img src="http://3.s3.envato.com/files/58225591/weblog.png" alt="Weblog | A Creative's Portfolio &amp; Blog Theme" height="80px" width="80px"></a></li>
+<li><a href="http://themeforest.net/item/lumenosity-multipurpose-wordpress-theme/4901943?ref=SMThemes" target="_blank" title="Lumenosity - Multipurpose WordPress theme"><img src="http://3.s3.envato.com/files/58464591/thumbnail.jpg" alt="Lumenosity - Multipurpose WordPress theme" height="80px" width="80px"></a></li>
+<br class="clear">
+</ul>
+</div><div class="widget">		<!-- BEGIN WIDGET -->
+		<h4>Recent wordpress themes</h4>		
+							
+				<div class="widget-item">
+												<a href="http://fthe.me/lumenosity-multipurpose-wordpress-theme/" title="Lumenosity – Multipurpose WordPress theme"><img src="http://fthe.me/wp-content/uploads/2013/06/Wordpress_theme60-50x50.jpg" alt="Lumenosity – Multipurpose WordPress theme" class="thumb"></a>
+						<h3><a href="http://fthe.me/lumenosity-multipurpose-wordpress-theme/" title="Lumenosity – Multipurpose WordPress theme">Lumenosity – Multipurpose WordPress theme</a></h3>
+			<span class="date">June 07, 2013</span>
+			<span class="comments"><a href="http://fthe.me/lumenosity-multipurpose-wordpress-theme/#respond" title="Comment on Lumenosity – Multipurpose WordPress theme">0</a></span>
+		</div>
+				<div class="widget-item">
+												<a href="http://fthe.me/parallax/" title="Parallax"><img src="http://fthe.me/wp-content/uploads/2013/06/Wordpress_theme59-50x50.jpg" alt="Parallax" class="thumb"></a>
+						<h3><a href="http://fthe.me/parallax/" title="Parallax">Parallax</a></h3>
+			<span class="date">June 07, 2013</span>
+			<span class="comments"><a href="http://fthe.me/parallax/#respond" title="Comment on Parallax">0</a></span>
+		</div>
+				<div class="widget-item">
+												<a href="http://fthe.me/greenlife/" title="GreenLife"><img src="http://fthe.me/wp-content/uploads/2013/06/Wordpress_theme58-50x50.jpg" alt="GreenLife" class="thumb"></a>
+						<h3><a href="http://fthe.me/greenlife/" title="GreenLife">GreenLife</a></h3>
+			<span class="date">June 07, 2013</span>
+			<span class="comments"><a href="http://fthe.me/greenlife/#respond" title="Comment on GreenLife">0</a></span>
+		</div>
+				<div class="widget-item">
+												<a href="http://fthe.me/firetive/" title="Firetive"><img src="http://fthe.me/wp-content/uploads/2013/06/wordpress-theme55-50x50.png" alt="Firetive" class="thumb"></a>
+						<h3><a href="http://fthe.me/firetive/" title="Firetive">Firetive</a></h3>
+			<span class="date">June 07, 2013</span>
+			<span class="comments"><a href="http://fthe.me/firetive/#respond" title="Comment on Firetive">0</a></span>
+		</div>
+				<div class="widget-item">
+												<a href="http://fthe.me/officedeco/" title="OfficeDeco"><img src="http://fthe.me/wp-content/uploads/2013/06/Wordpress_theme57-50x50.jpg" alt="OfficeDeco" class="thumb"></a>
+						<h3><a href="http://fthe.me/officedeco/" title="OfficeDeco">OfficeDeco</a></h3>
+			<span class="date">June 07, 2013</span>
+			<span class="comments"><a href="http://fthe.me/officedeco/#respond" title="Comment on OfficeDeco">0</a></span>
+		</div>
+				<!-- END WIDGET -->
+		</div>		
+		</div>
+	</div>
+	
+	<div id="footer-wrapper">
+	
+		<div id="footer">
+	
+			<div class="widget">		<!-- BEGIN WIDGET -->
+		<h4>Recent Themes</h4>		
+							
+				<div class="widget-item">
+												<a href="http://fthe.me/lumenosity-multipurpose-wordpress-theme/" title="Lumenosity – Multipurpose WordPress theme"><img src="http://fthe.me/wp-content/uploads/2013/06/Wordpress_theme60-50x50.jpg" alt="Lumenosity – Multipurpose WordPress theme" class="thumb"></a>
+						<h3><a href="http://fthe.me/lumenosity-multipurpose-wordpress-theme/" title="Lumenosity – Multipurpose WordPress theme">Lumenosity – Multipurpose WordPress theme</a></h3>
+			<span class="date">June 07, 2013</span>
+			<span class="comments"><a href="http://fthe.me/lumenosity-multipurpose-wordpress-theme/#respond" title="Comment on Lumenosity – Multipurpose WordPress theme">0</a></span>
+		</div>
+				<div class="widget-item">
+												<a href="http://fthe.me/parallax/" title="Parallax"><img src="http://fthe.me/wp-content/uploads/2013/06/Wordpress_theme59-50x50.jpg" alt="Parallax" class="thumb"></a>
+						<h3><a href="http://fthe.me/parallax/" title="Parallax">Parallax</a></h3>
+			<span class="date">June 07, 2013</span>
+			<span class="comments"><a href="http://fthe.me/parallax/#respond" title="Comment on Parallax">0</a></span>
+		</div>
+				<div class="widget-item">
+												<a href="http://fthe.me/greenlife/" title="GreenLife"><img src="http://fthe.me/wp-content/uploads/2013/06/Wordpress_theme58-50x50.jpg" alt="GreenLife" class="thumb"></a>
+						<h3><a href="http://fthe.me/greenlife/" title="GreenLife">GreenLife</a></h3>
+			<span class="date">June 07, 2013</span>
+			<span class="comments"><a href="http://fthe.me/greenlife/#respond" title="Comment on GreenLife">0</a></span>
+		</div>
+				<div class="widget-item">
+												<a href="http://fthe.me/firetive/" title="Firetive"><img src="http://fthe.me/wp-content/uploads/2013/06/wordpress-theme55-50x50.png" alt="Firetive" class="thumb"></a>
+						<h3><a href="http://fthe.me/firetive/" title="Firetive">Firetive</a></h3>
+			<span class="date">June 07, 2013</span>
+			<span class="comments"><a href="http://fthe.me/firetive/#respond" title="Comment on Firetive">0</a></span>
+		</div>
+				<!-- END WIDGET -->
+		</div>			
+			<div class="widget"><h4>Popular Premium Themes</h4><ul id="envato-marketplace-items">
+<li><a href="http://themeforest.net/item/avada-responsive-multipurpose-theme/2833226?ref=SMThemes" target="_blank" title="Avada | Responsive Multi-Purpose Theme"><img src="http://2.s3.envato.com/files/57730393/Thumbnail.jpg" alt="Avada | Responsive Multi-Purpose Theme" height="80px" width="80px"></a></li>
+<li><a href="http://themeforest.net/item/enfold-responsive-multipurpose-theme/4519990?ref=SMThemes" target="_blank" title="Enfold - Responsive Multi-Purpose Theme"><img src="http://3.s3.envato.com/files/53916326/thumb.jpg" alt="Enfold - Responsive Multi-Purpose Theme" height="80px" width="80px"></a></li>
+<li><a href="http://themeforest.net/item/udesign-wordpress-theme/253220?ref=SMThemes" target="_blank" title="U-Design WordPress Theme"><img src="http://2.s3.envato.com/files/54607472/Thumbnail.jpg" alt="U-Design WordPress Theme" height="80px" width="80px"></a></li>
+<li><a href="http://themeforest.net/item/kallyas-responsive-multipurpose-wordpress-theme/4091658?ref=SMThemes" target="_blank" title="KALLYAS - Responsive Multi-Purpose WordPress Theme"><img src="http://3.s3.envato.com/files/55880538/thumb.png" alt="KALLYAS - Responsive Multi-Purpose WordPress Theme" height="80px" width="80px"></a></li>
+<li><a href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=SMThemes" target="_blank" title="Metronic - Responsive Admin Dashboard Template"><img src="http://2.s3.envato.com/files/56173439/thumbnail.jpg" alt="Metronic - Responsive Admin Dashboard Template" height="80px" width="80px"></a></li>
+<li><a href="http://themeforest.net/item/the-retailer-retina-responsive-woocommerce-theme/4287447?ref=SMThemes" target="_blank" title="The Retailer - Retina Responsive WooCommerce Theme"><img src="http://3.s3.envato.com/files/56373497/the-retailer-thumb.jpg" alt="The Retailer - Retina Responsive WooCommerce Theme" height="80px" width="80px"></a></li>
+<br class="clear">
+</ul>
+</div>			
+			<div class="widget"><h4>Archives</h4>		<ul>
+			<li><a href="http://fthe.me/2013/06/" title="June 2013">June 2013</a></li>
+	<li><a href="http://fthe.me/2013/05/" title="May 2013">May 2013</a></li>
+	<li><a href="http://fthe.me/2013/04/" title="April 2013">April 2013</a></li>
+	<li><a href="http://fthe.me/2013/03/" title="March 2013">March 2013</a></li>
+	<li><a href="http://fthe.me/2013/02/" title="February 2013">February 2013</a></li>
+	<li><a href="http://fthe.me/2013/01/" title="January 2013">January 2013</a></li>
+	<li><a href="http://fthe.me/2012/12/" title="December 2012">December 2012</a></li>
+	<li><a href="http://fthe.me/2012/11/" title="November 2012">November 2012</a></li>
+	<li><a href="http://fthe.me/2012/10/" title="October 2012">October 2012</a></li>
+		</ul>
+</div>			
+			<div class="widget last"><h4>ABOUT FTHE.ME</h4>			<div class="textwidget"><p>Welcome to <a href="http://fthe.me/">FTHE.ME</a>, a great source of free Wordpress and responsive wordpress themes, high quality premium wordpress themes, choose your desired category that suits your site among the best free premium wordpress themes highest quality Ever.<br>
+Latest <a href="http://fthe.me/wordpress-themes/free/">Free wordpress themes</a> top niche without any annoying footer links encrypted footer.<br>
+Latest <a href="http://fthe.me/wordpress-themes/premium/">Premium Wordpress themes</a> Not any premium theme but the themes with high demand and best quality ever.</p>
+</div>
+		</div>	
+		</div>
+	
+	</div>
+	
+	<div id="bottom-wrapper">
+		
+		<div id="bottom">
+		
+			<span class="totop"><a href="#">Back to Top</a></span>
+						<span class="left">Copyright © 2012 - 2013 <a href="http://fthe.me/">Fthe.me</a>. All rights reserved.</span>
+									<span class="right">Daily updated Free and Premium WordPress themes listing directory.</span>
+						
+		</div>
+	
+	</div>
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36196800-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>	
+	
+
+</body></html>
