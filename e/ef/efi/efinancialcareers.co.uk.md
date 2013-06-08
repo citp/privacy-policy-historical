@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the efinancialcareers.co.uk privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228123241id_/http%3A//www.efinancialcareers.co.uk/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers.co.uk privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608174833id_/http%3A//www.efinancialcareers.co.uk/privacyPolicy.htm) for the most accurate reproduction.*
 
 # eFinancialCareers - Privacy policy
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Dice%20Holdings%20Inc&sealid=102)
+[ ](https://privacy.truste.com/privacy-seal/Dice-Holdings-Inc/validation?rid=31952a16-ebb7-4814-a4a5-0488426fc2c7 "TRUSTe European Safe Harbor certification")
 
 ### Privacy Policy
 
