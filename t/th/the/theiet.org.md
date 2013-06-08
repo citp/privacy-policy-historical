@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theiet.org privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115092435id_/http%3A//www.theiet.org/help/privacy.cfm%3Forigin%3Dfoot-siteinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiet.org privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608215001id_/http%3A//www.theiet.org/help/privacy.cfm%3Forigin%3Dfoot-siteinfo) for the most accurate reproduction.*
 
 # Privacy statement - The IET
 
@@ -65,9 +65,11 @@ The IET also uses Scout Analytics code in its Web pages. Scout Analytics assists
 
 The accuracy of your personal details is important to the IET.
 
-\- If you are a registered website user, then you can log on to the site to review and update your contact details and mailing preferences in the "My IET" area of the site.  
-\- Otherwise, if you change email address, you would like to change your mailing preferences, or you need to advise the IET of any other changes, please using the enquiry form in the membership area of the site.  
-\- Please ensure that you provide enough information for staff to identify you (such as the address that the IET is using to communicate with you, and your membership number if you are a member).
+  * If you are a registered website user, then you can log on to the site to review and update your contact details and mailing preferences in the "My IET" area of the site.
+  * Otherwise, if you change email address, you would like to change your mailing preferences, or you need to advise the IET of any other changes, please using the enquiry form in the membership area of the site.
+  * Please ensure that you provide enough information for staff to identify you (such as the address that the IET is using to communicate with you, and your membership number if you are a member).
+
+
 
 ### Questions and comments
 
