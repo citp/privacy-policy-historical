@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freearticlesnow.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128172912id_/http%3A//www.freearticlesnow.com/privacy-policy-1015.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freearticlesnow.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608123143id_/http%3A//www.freearticlesnow.com/privacy-policy-1015.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-**Friday 23rd of March 2012** | By: [Free Articles Now](http://www.freearticlesnow.com/ "Free Articles Now") | Views: **371** | Comments: **0** | Rating:  |  [](http://www.freearticlesnow.com/print/1015.html "Print this Page")
+**Friday 23rd of March 2012** | By: [Free Articles Now](http://www.freearticlesnow.com/ "Free Articles Now") | Views: **587** | Comments: **0** | Rating:  |  [](http://www.freearticlesnow.com/print/1015.html "Print this Page")
 
 We take your privacy seriously and take responsibility to protect the data that you provided to us in the normal course of interaction with our site. In order to maintain confidentiality of all information provided by us and we are fully committed for the privacy policy set out below.
 
