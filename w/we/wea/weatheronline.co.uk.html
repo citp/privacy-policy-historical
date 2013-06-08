@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the weatheronline.co.uk privacy policy that was archived on 2012-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121012072928id_/http%3A//www.weatheronline.co.uk/about/Privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weatheronline.co.uk privacy policy that was archived on 2013-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130608085828id_/http%3A//www.weatheronline.co.uk/about/Privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
   <title>WeatherOnline Ltd. : Privacy Weather UK weatheronline.co.uk</title>
@@ -9,6 +9,7 @@
   <meta http-equiv="pragma" content="no-cache">
   <meta http-equiv="cache-control" content="no-cache">
  <meta name="robots" content="index, follow">
+<link rel="search" type="application/opensearchdescription+xml" title="WeatherOnline" href="/xml/searchplugin_city.xml">
   <meta http-equiv="REVISIT-AFTER" content="1 day">
   <meta http-equiv="EXPIRES" content="0">
   <meta name="copyright" content="weatheronline.co.uk">
@@ -32,7 +33,7 @@
 
 <link rel="stylesheet" type="text/css" href="/css/spriteimages_0086.css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/css/Head_0086.js" type="text/javascript"></script>
-  <link href="/gifs/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link href="http://images.weatheronline.co.uk/gifs/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <link rel="alternate" title="weatheronline.co.uk RSS" href="http://feeds.weatheronline.co.uk/weatheronline" type="application/rss+xml">
 <script type="text/javascript" src="/cgi-bin/fcgi/ismember.fcgi"></script>
  <!-- ANFANG WINDRPOPUP.INC --> 
@@ -74,8 +75,6 @@
         <a href="http://www.weatheronline.co.uk" target="_top" title="WeatherOnline"></a>
       </div>
 
-      <div class="eHead_ex">
-      </div>
 
       <div class="right">
         <div class="eFla">
@@ -90,6 +89,8 @@
           <a target="_top" href="http://www.weatheronline.gr"><span class="small-gr_flag"></span></a>&nbsp;
           <a target="_top" href="http://www.woweather.com"><span class="small-us_flag"></span></a>&nbsp;
           <a target="_top" href="http://www.weatheronline.cz"><span class="small-cz_flag"></span></a>&nbsp;
+          <a target="_top" href="http://www.pogodaonline.ru"><span class="small-ru_flag"></span></a>&nbsp;
+          <a target="_top" href="http://www.woweer.nl"><span class="small-nl_flag"></span></a>&nbsp;
         </div><!-- eFla -->
         <div style="clear: both;"></div>
 <script type="text/javascript" language="JavaScript">
@@ -99,6 +100,7 @@
     date.setTime(date.getTime()-86400000);
     var expires = "; expires="+date.toGMTString();
     document.cookie = "WOMEMBER="+expires+"; domain=.weatheronline.co.uk; path=/";
+    document.cookie = "WOAGRAR="+expires+"; domain=.weatheronline.co.uk; path=/";
   }
   function getHttpObjectMember()
   {
@@ -118,7 +120,7 @@
     var objHttp;
     var login = document.HeaderFormular.LOGIN.value;
     var pwd = document.HeaderFormular.PWD.value;
-    var url = "/member/php/member_login_ajax.php?LOGIN=" + login + "&PWD=" + pwd;
+    var url = "/cgi-app/login?LOGIN=" + login + "&PWD=" + pwd + "&AJAX=1";
     objHttp = getHttpObjectMember();
 
     objHttp.onreadystatechange = function()
@@ -131,8 +133,9 @@
           var szResponse = objHttp.responseText.split("\n");
           if( szResponse[0] == "ok" ){
             location.reload();
+          break;
           }else{
-            var MemberWindowFailed = window.open("/member/php/member_login.php?LANG=en&LOGIN="+login+"&PWD="+pwd, "MemberPopup", "menubar=no,toolbar=no,width=520,height=500,left=0,top=150,resizable=auto")
+            var MemberWindowFailed = window.open("/cgi-app/login?LANG=en&LOGIN="+login+"&PWD="+pwd, "MemberPopup", "menubar=no,toolbar=no,width=520,height=500,left=0,top=150,resizable=auto")
           }
           break;
         default:
@@ -145,7 +148,7 @@
 //-->
 </script>
 <script type="text/javascript">
-var meldungen = "  <div class=\"eHead_in\">  <form name=\"HeaderFormular\" action=\"javascript:doLogin()\"><input class=\"aa\" size=\"10\" maxlength=\"100\" name=\"LOGIN\" value=\"User\" onfocus=\"this.value=&#34;&#34;\" type=\"text\"><input class=\"aa\" size=\"10\" maxlength=\"50\" value=\"a\" onfocus=\"this.value=&#34;&#34;\" name=\"PWD\" type=\"password\"><input  onclick=\"javascript:doLogin()\" value=\"go\" type=\"submit\"><\/form><\/div><div class=\"eHead_rr\"><a href=\"/member/\">Premium Member<\/a><a href=\"javascript:var t=window.open(&quot;http://www.weatheronline.co.uk/member/php/member_password.php?SENDPWD=1&amp;LANG=en&quot;,&quot;Password&quot;,&quot;width=520,height=250,left=0,top=150&quot;);\">Help<\/a><\/div>";
+var meldungen = "  <div class=\"eHead_in\">  <form name=\"HeaderFormular\" action=\"javascript:doLogin()\"><input class=\"aa\" size=\"10\" maxlength=\"100\" name=\"LOGIN\" value=\"User\" onfocus=\"this.value=&#34;&#34;\" type=\"text\"><input class=\"aa\" size=\"10\" maxlength=\"50\" value=\"a\" onfocus=\"this.value=&#34;&#34;\" name=\"PWD\" type=\"password\"><input  onclick=\"javascript:doLogin()\" value=\"go\" type=\"submit\"><\/form><\/div><div class=\"eHead_rr\"><a rel=\"nofollow\" href=\"mailto:cirrus@weatheronline.co.uk\">Comments<\/a><a href=\"/member/\">Membership Info<\/a><a href=\"javascript:var t=window.open(&quot;http://member.weatheronline.co.uk/amember/login&quot;,&quot;Password&quot;,&quot;width=860,height=600,left=0,top=150&quot;);\">Help<\/a><\/div>";
 function switch_value_login(){
 document.getElementById("login_id").innerHTML = meldungen; }
 </script>
@@ -165,6 +168,8 @@ function SendLoadingClick(grafik)
         <div id="login_id" class="eHead_r">
           <div class="eHead_rr">
             <a rel="nofollow" href="mailto:cirrus@weatheronline.co.uk">Comments</a>
+            <a href="/member/">Membership info</a>
+            <a rel="nofollow" target="_blank" href="http://member.weatheronline.co.uk/amember/signup">Register new</a>
             <a class="log1" onclick="switch_value_login()" href="#">Login</a>
           </div>
           <div class="eHead_search">
@@ -258,7 +263,6 @@ function SendLoadingClick(grafik)
               <li><a target="_top" href="http://www.weatheronline.co.uk/weather/maps/golf?LANG=en&amp;CONT=ukuk&amp;R=400&amp;MAPS=golf">Golf</a></li>
               <li><a target="_top" href="http://www.weatheronline.co.uk/sport/wimbledon">Wimbledon</a></li>
               <li><a target="_top" href="http://www.weatheronline.co.uk/cgi-app/tourdefrance">Tour Weather</a></li>
-              <li><a target="_top" href="http://www.weatheronline.co.uk/cgi-app/olympics">Olympic Games</a></li>
               <li><a target="_top" href="http://www.weatheronline.co.uk/snow/reports?LAND=chch&amp;LANG=en" class="woMenueGlobal2Last">Winter Sports</a></li>
             </ul>
           </div>
@@ -512,18 +516,20 @@ or your dealings with this web site, you can contact us at cirrus@weatheronline.
                   <a target="_top" href="http://www.havaturkiye.com/" title="Hava Durumu Türkiye HavaTurkiye">Türkiye</a>|
                   <a target="_top" href="http://www.weatheronline.gr/" title="Πρóγνωση Καιρóς Eλλάδα WeatherOnline ">Eλλάδα</a>|
                   <a target="_top" href="http://www.woweather.com/" title="weather forecast USA WeatherOnline">USA</a>|
-                  <a target="_top" href="http://www.weatheronline.cz/" title="Předpověď počasí Česká republika WeatherOnline">Česká republika</a>
+                  <a target="_top" href="http://www.weatheronline.cz/" title="Předpověď počasí Česko počasí online">Česko</a>|
+                  <a target="_top" href="http://www.pogodaonline.ru/" title="прогноз погоды Россия погода онлайн">Россия</a>|
+                  <a target="_top" href="http://www.woweer.nl/" title="Weersverwachting Nederland WeatherOnline">Nederland</a>
     </div><!-- eFoot_bo -->
-<br>© 1999-2012 WeatherOnline Ltd.
+<br>© 1999-2013 WeatherOnline Ltd.
   </div><!-- eFoot -->
 </div><!-- eAll -->
-<!-- Runtime: 2.711 -->
+<!-- Runtime: 2.003 -->
 <script type="text/javascript" language="JavaScript">
 <!--
 var wl_ord=new Date().getTime();
 document.write('<img  width="1" alt="" height="1" src="http://cnt.weatheronline.co.uk/cgi-bin/ivw/CP/pagecoun?IVW=service&amp;LANG=en&amp;ord=' + wl_ord + '" />');
 //-->
-</script><img width="1" alt="" height="1" src="http://cnt.weatheronline.co.uk/cgi-bin/ivw/CP/pagecoun?IVW=service&amp;LANG=en&amp;ord=1580358019620">
+</script><img width="1" alt="" height="1" src="http://cnt.weatheronline.co.uk/cgi-bin/ivw/CP/pagecoun?IVW=service&amp;LANG=en&amp;ord=1580358020760">
 <noscript>
 <img src="http://cnt.weatheronline.co.uk/cgi-bin/ivw/CP/adview?noscript&amp;LANG=en" border="0" height="1" width="1" alt="">
 </noscript>
