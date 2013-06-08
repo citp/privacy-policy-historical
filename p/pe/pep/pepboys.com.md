@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pepboys.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202174301id_/http%3A//www.pepboys.com/customer_care/policies/privacy%3FCID%3DFtrMain_AbtPBPriv_P3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepboys.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608231031id_/http%3A//www.pepboys.com/customer_care/policies/privacy%3FiCID%3DFtrMain_AbtPBPriv_P3) for the most accurate reproduction.*
 
 # Customer Care Policies | Privacy Policy| Pep Boys
 
