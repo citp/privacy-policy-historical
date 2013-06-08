@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncesc1.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615030530id_/http%3A//www.ncesc1.com/pmi/faqs/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncesc1.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609000349id_/http%3A//www.ncesc1.com/pmi/faqs/privacyPolicy.asp) for the most accurate reproduction.*
 
 # ESC NC Public and Media Information: Privacy Policy
 
