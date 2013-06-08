@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limos.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015041747id_/http%3A//www.limos.com/customers/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limos.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608125116id_/http%3A//www.limos.com/customers/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy for Limos.com - Ground Transportation Services Marketplace
 
@@ -8,7 +8,7 @@ By visiting Limos.com, you are accepting the practices described in this Privacy
 
 ## TRUSTe
 
-Limos.com is a proud licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. To demonstrate our commitment to your privacy, TRUSTe has reviewed and approved our privacy practices, granting the TRUSTe Web Privacy Seal for our Web sites.
+Limos.com is a proud licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. To demonstrate our commitment to your privacy, TRUSTe has reviewed and approved our privacy practices, granting the TRUSTe Web Privacy Seal for our Web sites.
 
 ## What Personal Information Does Limos.com Gather About Customers?
 
