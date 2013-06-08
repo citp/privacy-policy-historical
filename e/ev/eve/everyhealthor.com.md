@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyhealthor.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130084447id_/http%3A//www.everyhealthor.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyhealthor.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608052749id_/http%3A//www.everyhealthor.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # Healthy Dating » Privacy Policy
 
