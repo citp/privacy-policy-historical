@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pollingpoint.com privacy policy that was archived on 2012-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016125754id_/http%3A//today.yougov.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pollingpoint.com privacy policy that was archived on 2013-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130608082425id_/http%3A//today.yougov.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-yjs" lang="en"><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -12,8 +12,8 @@
         
 
         <link rel="shortcut icon" type="image/x-icon" href="//d1rq7cuzerol8r.cloudfront.net/cu/labs/img/favicon.e2f529823c55.ico">
-        <link href="//d1rq7cuzerol8r.cloudfront.net/cu/labs/css/cumulus-core.582ec90a4200.css" rel="stylesheet" type="text/css">
-        <link href="//d1rq7cuzerol8r.cloudfront.net/cu/labs/css/main.816d594be7ce.css" rel="stylesheet" type="text/css">
+        <link href="//d1rq7cuzerol8r.cloudfront.net/cu/labs/css/cumulus-core.cc7906ed22f5.css" rel="stylesheet" type="text/css">
+        <link href="//d1rq7cuzerol8r.cloudfront.net/cu/labs/css/main.a8ca596de2f8.css" rel="stylesheet" type="text/css">
         <link href="/news/feeds/latest/" rel="alternate" type="application/atom+xml">
         
         
@@ -21,158 +21,25 @@
 
 
         
+            
+                <link href="https://d25d2506sfb94s.cloudfront.net/r/1/misc-styles-3.css" rel="stylesheet" type="text/css">
+            
+        
 
-        <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/8395.js" async="" type="text/javascript"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js"></script>
 
         <script src="//d1rq7cuzerol8r.cloudfront.net/cu/labs/js/jquery.scrollTo.be8584ae8427.js" charset="utf-8"></script>
         <script src="//d1rq7cuzerol8r.cloudfront.net/cu/labs/js/hoverIntent.8d8405495041.js"></script>
         <script src="//d1rq7cuzerol8r.cloudfront.net/cu/labs/js/modernizr.iepp.f35005ceac82.js"></script>
+        <script src="//d1rq7cuzerol8r.cloudfront.net/cu/labs/js/cumulus-core.12b25131ef62.js"></script>
+
 		
 
 <script>
-    function trackEvent(category, action, label) {
-        if (typeof(_gat) == 'object') {
-            _gat._getTrackerByName()._trackEvent(category, action, label);
-        }
-    }
 
-    function recordOutboundLink(category, action, label) {
-        trackEvent(category, action, label);
-    }
-
-// for search box to clear input text field
-var searchBoxActions = {
-        clearMe: function (formfield)
-        {
-            if (formfield.defaultValue == formfield.value) {
-                formfield.value = "";
-            }
-        },
-
-        returnMe: function (formfield)
-        {
-            if (formfield.value == "") {
-                formfield.value = formfield.defaultValue;
-            }
-        }
-}
-
-var messageBoxActions ={
-
-        hideIfEmpty: function (element)
-        {
-            if (element.children().length == 0) {
-                element.hide();
-            }
-        },
-
-        hideAndSlide: function (element, speed, callback)
-        {
-            element.fadeTo('slow', 0).slideUp(callback);
-        }
-}
-
-//** FUNCTION: Apply the Thumpy image resizing feature via image src swap.
-// src = Image's src. Duh.
-// thumpyParams = example: 'w=280&ch=100' Any Thumpy-accepted parameter.
-function thumpyTize(src, thumpyParams){
-    // use the src of our images and impose the Thumpy on them!
-    // Get CDN url's from settings.py
-    var thumpyOverrideURL = '//d18lkz4dllo6v2.cloudfront.net/';
-    var currentImgURL = src;
-        if(entryCloudURL == '' || thumpyOverrideURL == ''){
-            $.error('Thumpy Script exception: URLS not correctly defined in settings configuration!');
-        }else{
-            var entryCloudURL = '//d25d2506sfb94s.cloudfront.net/';
-            currentImgURL = currentImgURL.slice(entryCloudURL.length, currentImgURL.length);
-            return thumpyOverrideURL+currentImgURL+'?'+thumpyParams;
-        }
-
-};
-
-window.location.querystring = function(key) {
-    if (!window.location.search) {
-        return null;
-    }
-
-    var querystring = location.search.replace( '?', '' ).split( '&' );
-    var queryObj = {};
-
-    for ( var i=0; i<querystring.length; i++ ) {
-          var name = querystring[i].split('=')[0];
-          var value = querystring[i].split('=')[1];
-          queryObj[name] = value;
-    }
-
-    return queryObj[key];
-}
 
 $(document).ready(function() {
-    //Main menu hover binding
-    $('.mainMenu li').not('.mainMenu li ul li').hover(
-        function(){
-            if($(this).hasClass('current')== false && $(this).children('ul').length >= 1){
-                $('.mainMenu li').not($(this))
-                        .not('.mainMenu li ul li')
-                        .not('.mainMenu li ul');
-                $('.mainMenu li ul').hide();
-                $(this).children('ul')
-                    .delay(100)
-                    .show()
-                    .find('li').css('opacity', 0).animate({opacity: 1}, 200, function(){
-                    });
-
-            }
-        },
-        function(){
-            if($(this).hasClass('current')== false && $(this).children('ul').length >= 1){
-                $(this).clearQueue();
-                $(this).children('ul')
-                    .delay(200)
-                    .hide();
-                $('.mainMenu li.current ul')
-                    .show()
-                    .find('li').css('opacity', 0).animate({opacity: 1}, 100, function(){
-                    });
-
-            }
-        }
-    );
-
-    // Record all outbound clicks
-    $('a[href^="http"]').click(function(){
-        var path = this.href.replace(/http[s]?:\/\//, '');
-        recordOutboundLink('Outbound Links', path, this.rel);
-    });
-
-    // replace search pattern and drop into searchbox
-    var search_query = window.location.querystring('q');
-    if (search_query) {
-        $('#searchBox').attr('value', search_query);
-    }
-
-    // Add action to the "dismiss" links in messages
-    $('.message').delay(1000).css({
-        'display': 'block'
-      }).slideDown(100);
-    $('.message').delegate('.close', 'click', function(){
-      $(this).closest('.message').slideUp(100, function(){
-          $(this).remove();
-        });
-    });
-
-    $('a[href=top]').click(function() {
-        $.scrollTo(0,'slow');
-        return false;
-    });
-
-    // footer global links slider
-    $("h5.slide, #panelHeader h4:first-child").click(function(){
-        $("#panel").slideToggle("fast");
-        $('.slide').toggleClass("active"); return false;
-    });
-
 
     // Header Dropdown menus
     if($('#headerDropdowns').length > 0){
@@ -182,7 +49,7 @@ $(document).ready(function() {
             $('#headerDropdowns').append('<ul class="'+selectClass+' closed" />');
 
             //For Language Selection
-            if(selectClass == 'languageLinks'){
+            if(selectClass === 'languageLinks'){
                 $(this).find('option').each(function(){
                     $('ul.languageLinks').append('<li><a href="'+$(this).attr('value')+'">'+$(this).text()+'</a></li>');
                     // bind to link: $('#languageForm').submit(); and push the language value
@@ -193,28 +60,14 @@ $(document).ready(function() {
             $(this).hide();
         });
 
-        $('#headerDropdowns ul').bind('click', function(){
+        $('#headerDropdowns').delegate('ul', 'click', function(){
             var currentHeight = 20;
             var numChildren = $(this).children('li').length;
-            toggleOpenClose($(this), currentHeight, currentHeight*numChildren);
+            CU.toggleOpenClose($(this), currentHeight, currentHeight*numChildren);
 
             $(this).toggleClass('closed');
 
         });
-
-        function toggleOpenClose(targetObject, originalHeight, newHeight){
-            // targetObject should be a jQuery object!!
-            if(targetObject.height() != originalHeight){
-               targetObject.animate({
-                   'height': originalHeight
-               }, 200);
-            } else {
-                targetObject.animate({
-                   'height': newHeight
-               }, 200);
-            }
-
-        };
 
         // For Country Links
         if($('.countryLinks').length > 0){
@@ -401,61 +254,33 @@ $(document).ready(function() {
                 "B2B": "http://corporate.yougov.fr ",
                 "Polling": ""
             }
+        },
+        {
+            "name": "China",
+            "slug": "china",
+            "coords": "",
+            "sites": {
+                "Panelist": "http://china.yougov.com/",
+                "B2B": "",
+                "Polling": ""
+            }
         }
     ]
 }
-
-
-
-
-
 ;
-            var countryData;
 
-            function loadCountryLinks(data){
-                    var countryData = data.countries;
-                    var targetURL;
-                    var countryList = [];
-                    var countryListItem;
-
-                    for(var i = 0; i < countryData.length; i++){
-                        var item = countryData[i];
-                        targetURL = item.sites.Panelist
-
-                        // Build the list item based on whether it has a link for the selection.
-                        // and Push it to the array countryList.
-
-                        if(targetURL != ""){
-                            countryListItem = '';
-
-                            countryListItem = '<li class="'+item.slug+'"><a href="'+targetURL+'">';
-                            countryListItem += item.name;
-                            countryListItem += '</a></li>';
-
-                            countryList.push(countryListItem);
-                        }
-
-                    }//endfor
-                    $('#headerDropdowns').find('ul.countryLinks').html(countryList.join(''))
-                        .prepend("<li>Select Country</li>");
-            }// end loadCountryLinks
-
-            // fire in the hole down here for Firefox 4
-            loadCountryLinks(countryJSON);
+            // init the loadCountryLinks from cumulus-core.js
+            CU.loadCountryLinks(countryJSON, '.countryLinks');
 
         }// end if countryLinks
     }// end if headerDropdowns
 
 }); //end doc ready
-        </script>
+</script>
 
-        <script src="https://yg-public.s3.amazonaws.com/r/1/cumulus-notifications.js" charset="utf-8"></script>
-	<script src="//d1rq7cuzerol8r.cloudfront.net/cu/labs/js/experiment_prize.dc482e3dc979.js"></script>
-        <!--<script src="/static/js/cumulus-notifications.js" charset="utf-8"></script> -->
-        
-        
-        
-          <script type="text/javascript" src="https://d25d2506sfb94s.cloudfront.net/r/1/lightbox.js"></script>
+        <script src="https://yg-public.s3.amazonaws.com/r/1/cumulus-notifications.js?v=2" charset="utf-8"></script>
+        <script src="//d1rq7cuzerol8r.cloudfront.net/cu/labs/js/experiment_prize.83d36f9445fd.js"></script>
+
         
         
         
@@ -500,6 +325,9 @@ $(document).ready(function() {
                         xfbml: true,
                         oauth: true
                     });
+
+                   fbApiInit = true; //init flag
+
                 };
 
                 (function(d){
@@ -508,6 +336,19 @@ $(document).ready(function() {
                     js.src = "//connect.facebook.net/en_US/all.js";
                     d.getElementsByTagName('head')[0].appendChild(js);
                 }(document));
+
+                if (typeof(fbEnsureInit) === 'undefined') {
+                    // Use this when you need to do a FB call contingent on the FB object loading.
+                    function fbEnsureInit(callback) {
+                        if(!window.fbApiInit) {
+                            setTimeout(function() {fbEnsureInit(callback);}, 50);
+                        } else {
+                            if(callback) {
+                                callback();
+                            }
+                        }
+                    };
+                }
             </script>
         </div>
         
@@ -544,7 +385,7 @@ $(document).ready(function() {
 <div class="loginBox">
         <div class="loginButtons">
             <a href="/account/login" class="header-login">Login</a>
-            <a href="/account/register" class="header-join">Join YouGov</a>
+            <a href="/account/landing/join-the-panel/" class="header-join">Join YouGov</a>
         </div>
 </div>
 </script>
@@ -580,21 +421,27 @@ $(document).ready(function() {
         </div>
 </script>
 <script>
-function getCookie(c_name)
-{
+function getCookie(c_name) {
     var i,x,y,ARRcookies=document.cookie.split(";");
-    for (i=0;i<ARRcookies.length;i++)
-      {
-      x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
-      y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
-      x=x.replace(/^\s+|\s+$/g,"");
-      if (x==c_name)
-        {
-        return unescape(y);
+    for (i=0;i<ARRcookies.length;i++) {
+        x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+        y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+        x=x.replace(/^\s+|\s+$/g,"");
+
+        if (x==c_name) {
+            return unescape(y);
         }
-      }
+    }
+
+    return false;
 }
 
+// Method addition for older IE browsers which don't have .trim();
+if(typeof String.prototype.trim !== 'function') {
+  String.prototype.trim = function() {
+    return this.replace(/^\s+|\s+$/g, '');
+  }
+}
 
 $(document).ready(function(){
 
@@ -659,7 +506,9 @@ if(getCookie('yguser')){
             <div class="searchAndResearch">
                 <div class="researchJump">
                 
-                    <a class="textLink" href="http://research.yougov.com">Go To Research Services</a>
+                    <a class="textLink" href="http://research.yougov.com">
+                        Go To Research Services
+                    </a>
                 
                 </div>
                 <!-- search_block -->
@@ -804,7 +653,7 @@ if(getCookie('yguser')){
 
 	    </div>
 	
-    <div class="container_12" id="main">
+    <div class="container_12">
         
         
 <div class="container_12 pagecontent _1_block">
@@ -875,9 +724,9 @@ if(getCookie('yguser')){
             <div class="hubBox">
               <span class="hubName">U.K.</span>
               
-              <br><a href="http://www.yougov.co.uk/corporate/" rel="footer" target="">Research Services</a>
+              <br><a href="http://www.yougov.co.uk/corporate/" rel="footer" target="_top">Research Services</a>
               
-              <br><a href="http://labs.yougov.co.uk/" rel="footer" target="">News &amp; Panel</a>
+              <br><a href="http://labs.yougov.co.uk/" rel="footer" target="_top">News &amp; Panel</a>
               
             </div>
             
@@ -885,9 +734,9 @@ if(getCookie('yguser')){
             <div class="hubBox">
               <span class="hubName">United States.</span>
               
-              <br><a href="http://research.yougov.com" rel="footer" target="">Research Services</a>
+              <br><a href="http://research.yougov.com" rel="footer" target="_top">Research Services</a>
               
-              <br><a href="http://today.yougov.com" rel="footer" target="">News &amp; Panel</a>
+              <br><a href="http://today.yougov.com" rel="footer" target="_top">News &amp; Panel</a>
               
             </div>
             <div class="clear"></div>
@@ -895,9 +744,9 @@ if(getCookie('yguser')){
             <div class="hubBox">
               <span class="hubName">Middle East &amp; North Africa</span>
               
-              <br><a href="http://corporate.yougovsiraj.com/corporate/" rel="footer" target="">Research Services</a>
+              <br><a href="http://corporate.yougovsiraj.com/corporate/" rel="footer" target="_top">Research Services</a>
               
-              <br><a href="http://my.yougovsiraj.com/" rel="footer" target="">News &amp; Panel</a>
+              <br><a href="http://my.yougovsiraj.com/" rel="footer" target="_top">News &amp; Panel</a>
               
             </div>
             
@@ -905,9 +754,9 @@ if(getCookie('yguser')){
             <div class="hubBox">
               <span class="hubName">Germany &amp; Central Europe</span>
               
-              <br><a href="http://research.yougov.de/" rel="footer" target="">Research Services</a>
+              <br><a href="http://research.yougov.de/" rel="footer" target="_top">Research Services</a>
               
-              <br><a href="http://www.yougov.de" rel="footer" target="">Panel</a>
+              <br><a href="http://www.yougov.de" rel="footer" target="_top">Panel</a>
               
             </div>
             <div class="clear"></div>
@@ -915,10 +764,18 @@ if(getCookie('yguser')){
             <div class="hubBox">
               <span class="hubName">Scandinavia &amp; Northern Europe</span>
               
-              <br><a href="http://www.yougov.dk/" rel="footer" target="">Research Services &amp; Panel</a>
+              <br><a href="http://www.yougov.dk/" rel="footer" target="_top">Research Services &amp; Panel</a>
               
             </div>
             
+            
+            <div class="hubBox">
+              <span class="hubName">Asia</span>
+              
+              <br><a href="http://china.yougov.com/" rel="footer" target="_top">China Panel</a>
+              
+            </div>
+            <div class="clear"></div>
             
         </div>
     </div>
@@ -996,24 +853,21 @@ if(getCookie('yguser')){
 <div class="clear"></div>
 
 <div id="legal">
-    Copyright © 2000-2012 YouGov plc. All rights reserved |
-    YouGov plc is a company registered in England and Wales with company number 03607311
+    
+        Copyright © 2000-2013 YouGov plc. All rights reserved. 
+    
+     
+        285 Hamilton Ave, Palo Alto, CA 94301
     <br>
     <div id="footerLinks">
-        <a target="_top" href="/privacy">Privacy Policy</a> |
-        <a href="mailto:supportuk@yougov.com">Site Feedback</a>
-    
+        <a href="mailto:help.us@yougov.com">Site Feedback</a>
+         | 
+        
+            <a target="_top" href="/privacy">Privacy</a>
+        
     </div>
 </div>
 
-<!-- BEGIN CrazyEgg -->
-<script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName('script')[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/8395.js";
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-<!-- END -->
 
 		    
 		    
@@ -1042,7 +896,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
                     tabId: 'feedback',
                     tabText: 'Feedback',
                     tabColor: '#EF2D27',
-                                        
+                    
                     tabImageURL: '//d1rq7cuzerol8r.cloudfront.net/cu/labs/img/tab_feedback.08e987eef180.png',
                     
                     tabPosition: 'Right'
