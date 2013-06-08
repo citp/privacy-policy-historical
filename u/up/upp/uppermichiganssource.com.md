@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uppermichiganssource.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209003337id_/http%3A//www.uppermichiganssource.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uppermichiganssource.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608185756id_/http%3A//www.uppermichiganssource.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
 
 # About : UpperMichigansSource.com
 
