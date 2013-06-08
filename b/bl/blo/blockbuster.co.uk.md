@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blockbuster.co.uk privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622172513id_/http%3A//www.blockbuster.co.uk/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockbuster.co.uk privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608060758id_/http%3A//www.blockbuster.co.uk/help/privacy.aspx) for the most accurate reproduction.*
 
-# Blockbuster Entertainment Limited ('Blockbuster', 'Us', 'We' or 'Our') is committed to protecting Our users' privacy
+# Privacy Policy - blockbuster.co.uk
 
-Blockbuster Entertainment Limited (" **Blockbuster** ", " **Us** ", " **We** " or " **Our** ") is committed to protecting Our users' privacy. We offer this statement to inform Our users of how We define, gather and use personally identifiable information (" **Personal Information** "), which they submit to Us via this Site. Blockbuster will take reasonable steps to protect Personal Information submitted by users of this Site in such a way as is consistent with this Privacy Statement and in accordance with all applicable data protection and privacy law. The Personal Information that Blockbuster collects from users includes the following: a person's full name, address, telephone number, date of birth and/ or email address.   
+TS Operations Limited (trading as Blockbuster) (" **Blockbuster** ", " **Us** ", " **We** " or " **Our** ") is committed to protecting Our users' privacy. We offer this statement to inform Our users of how We define, gather and use personally identifiable information (" **Personal Information** "), which they submit to Us via this Site. Blockbuster will take reasonable steps to protect Personal Information submitted by users of this Site in such a way as is consistent with this Privacy Statement and in accordance with all applicable data protection and privacy law. The Personal Information that Blockbuster collects from users includes the following: a person's full name, address, telephone number, date of birth and/ or email address.   
 If you do not wish Us to process your Personal Information for the reasons and in the manner set out in this Privacy Statement, please do not use this Site or any of the services available through it. 
 
 Blockbuster's collection of personally identifiable information
@@ -63,7 +63,14 @@ Security of Your Information
 We take the security of your Personal Information seriously and take all reasonable precautions to prevent the loss, misuse or alteration of it. Our agents, suppliers, subcontractors and business partners who have access to your Personal Information are also required to keep that information confidential and secure and are not permitted to use it for any other purpose other than to carry out the provision of services which they are providing to Us or otherwise as set out in this Privacy Statement.   
 We have a secure server that uses Secure Socket Layer (SSL) encryption to protect your Personal Information. 
 
-If you have any questions concerning Our Privacy Statement, please contact Us by email on: [onlinestore@blockbuster.com](mailto:onlinestore@blockbuster.com)
+If you have any questions concerning Our Privacy Statement, you can contact the Service Team by: 
+
+  * Telephone: 0845 60 60 383 (local rate throughout the UK ), 9 a.m. to 5.30 p.m., Monday to Friday. 
+  * Post: Online Service Team, Blockbuster, Harefield Place, The Drive, Uxbridge, Middlesex UB10 8AQ.   
+Note, this address is not to be used for any returns. 
+  * Email: [onlinestore@blockbuster.co.uk](mailto:onlinestore@blockbuster.co.uk)
+
+
 
 Amendments to this privacy statement
 
