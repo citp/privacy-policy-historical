@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the acx.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919100755id_/http%3A//www.acx.com/help/privacy-notice/200485460) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acx.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608093156id_/http%3A//www.acx.com/help/privacy-notice/200485460) for the most accurate reproduction.*
 
 # Privacy Notice
 
 Legal Contracts
 
-## Last updated: 7/12/2010
+## Last updated: 5/12/2011
 
 ### Version 1.0
 
