@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the hee.nhs.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231164331id_/http%3A//www.hee.nhs.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hee.nhs.uk privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608102440id_/http%3A//www.hee.nhs.uk/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy and cookies | Health Education England
+# Health Education England » Privacy and cookies
+
+## Privacy and cookies
 
 This page explains our privacy policy and how we will use and protect any information about you that you give us when you visit this website.
 
-This privacy statement only covers Health Education England websites. It does not cover all sites that can be linked to from this site, so you should always be aware when you are moving to another site and read the privacy statement on that site.
+This privacy statement only covers Health Education England and LETB websites. It does not cover all sites that can be linked to from this site, so you should always be aware when you are moving to another site and read the privacy statement on that site.
 
 **What information do we collect?**
 
 From time to time, you will be asked to submit personal information about yourself (e.g.name and email address) in order to receive or use services on our website. Such services include bulletins, email updates, website feedback.
 
-By entering your details in the fields requested, you enable HEE and its service providers to provide you with the services you select. Any information you provide to HEE will only be used by us, our agents and service providers and will not be disclosed unless we are obliged or permitted to by law to do so.
+By entering your details in the fields requested, you enable HEE, its LETBs and its service providers to provide you with the services you select. Any information you provide to HEE or a LETB will only be used by us, our agents and service providers and will not be disclosed unless we are obliged or permitted to by law to do so.
 
-If you post or send offensive, inappropriate or objectionable content anywhere on hee.nhs.uk or otherwise engage in any disruptive behaviour on hee.nhs.uk, we may use whatever information is available to us, about you, to stop such behaviour. We will hold your personal information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been met or when you no longer wish to continue your subscription.
+If you post or send offensive, inappropriate or objectionable content anywhere on the HEE or LETB websites or otherwise engage in any disruptive behaviour on the website, we may use whatever information is available to us, about you, to stop such behaviour. We will hold your personal information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been met or when you no longer wish to continue your subscription.
 
 **The Data Protection Act**
 
@@ -23,21 +25,21 @@ We do not pass on your details to any third party or other government department
 
 If our privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing the page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
-The HEE website contains links to and from websites of government departments and other organisations. This privacy policy applies only to HEE.
+The HEE and LETB websites contain links to and from websites of government departments and other organisations. This privacy policy applies only to HEE and its LETBs.
 
 **Following a link to another website**
 
-When you go to another website, read the privacy policy on that website if you want to know what it does with your information. HEE does not pass on any of your personal information to other websites.
+When you go to another website, read the privacy policy on that website if you want to know what it does with your information. HEE and its LETBs do not pass on any of your personal information to other websites.
 
-**Following a link to HEE from another website**
+**Following a link to HEE or a LETB from another website**
 
-When you come to the HEE website from another website, HEE may get personal information about you from the other website. You should read the privacy policy of websites you visit that link you to HEE if you want to know about this.
+When you come to the HEE or LETB websites from another website, HEE  and its LETBs may get personal information about you from the other website. You should read the privacy policy of websites you visit that link you to HEE or its LETBs if you want to know about this.
 
 These policies will explain how they collect and use your personal information, and whether they pass this on to websites they link you to.
 
 **Social networking websites**
 
-The HEE website has buttons at the bottom of website pages so you can use social networking websites (eg Facebook and Twitter) with the HEE website. These websites are not controlled by HEE. By using these buttons you accept the privacy policies of these websites.
+The HEE and LETB websites have buttons at the bottom of website pages so you can use social networking websites (eg Facebook and Twitter) with the HEE or LETB websites. These websites are not controlled by HEE or itsLETBs. By using these buttons you accept the privacy policies of these websites.
 
 **Social bookmarking**
 
@@ -47,10 +49,10 @@ Social bookmarking websites are free to use, but you will need to register with 
 
 **To use a social bookmarking website, you need to:**
 
-  * register with a social bookmarking website 
-  * find a web page you like 
-  * save the link to the social bookmarking website, which stores it 
-  * add words or ‘tags’ to the link to explain what the page is about 
+  * register with a social bookmarking website
+  * find a web page you like
+  * save the link to the social bookmarking website, which stores it
+  * add words or ‘tags’ to the link to explain what the page is about
 
 
 
@@ -58,7 +60,7 @@ You can then visit the social bookmarking website whenever and from wherever you
 
 Social bookmarking websites all work in different ways and you may prefer to use one or many. It’s worth having a look at the different websites before you decide which one you want to use. You can register with as many as you like.
 
-The social media and social bookmarking services that HEE links to are third party websites. HEE does not have any control over the way that these websites use your data.
+The social media and social bookmarking services that HEE and its LETBs link to are third party websites. HEE and its LETBs do not have any control over the way that these websites use your data.
 
 You should read their respective privacy policies carefully to find out what happens to any data that these services collect when you use them.
 
@@ -66,24 +68,24 @@ You should read their respective privacy policies carefully to find out what hap
 
 Facebook is a social networking website that has millions of users worldwide. You register and create a profile. You can then add friends to your profile and exchange information with your friends. Facebook also allows people to start groups and fan pages as well as bookmarking other web pages.
 
-[Go to Facebook ](http://www.facebook.com/) ( [Read the Facebook privacy policy](http://www.facebook.com/policy.php) )
+[Go to Facebook ](http://www.facebook.com/) ( [Read the Facebook privacy policy](http://www.facebook.com/policy.php) )
 
 **Twitter**
 
 Twitter is a social networking service. Users send short updates, or mini-blogs (known as tweets), that are no more than 140 characters long. You can collect followers and follow other users. You can also tag words, and search tags to find out what other people are talking about.
 
-[Go to Twitter ](http://twitter.com/) ( [Read the Twitter privacy policy](http://twitter.com/privacy) )
+[Go to Twitter ](http://twitter.com/) ( [Read the Twitter privacy policy](http://twitter.com/privacy) )
 
 **Google +**
 
 Google social networking service.  
-[Go to Google+ ](https://plus.google.com/) ( [Read the Google privacy policy](http://www.google.com/policies/privacy/) )
+[Go to Google+ ](https://plus.google.com/) ( [Read the Google privacy policy](http://www.google.com/policies/privacy/) )
 
 **LinkedIn**
 
 A social networking service mainly used by people to stay in touch. LinkedIn is used to exchange information, ideas and opportunities, stay informed about your contacts and industry, find the people & knowledge you need to achieve your goals, and control your professional identity online
 
-[Go to LinkedIn](http://www.linkedin.com/home?trk=hb_home) ( [Read the LinkedIN privacy policy ](http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv))
+[Go to LinkedIn](http://www.linkedin.com/home?trk=hb_home) ( [Read the LinkedIN privacy policy ](http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv))
 
 **Use of cookies**
 
@@ -91,14 +93,14 @@ When we provide services, we want to make them easy, useful and reliable. Where 
 
 **These pieces of information are used to improve services for you through, for example:**
 
-  * enabling a service to recognise your device so you don’t have to give the same information several times during one task 
-  * recognising that you may already have given a username and password so you don’t need to do it for every web page requested 
-  * measuring how many people are using services, so they can be made easier to use and there’s enough capacity to ensure they are fast 
-  * analysing anonymised data to help us understand how people interact with govt services so we can make them better 
+  * enabling a service to recognise your device so you don’t have to give the same information several times during one task
+  * recognising that you may already have given a username and password so you don’t need to do it for every web page requested
+  * measuring how many people are using services, so they can be made easier to use and there’s enough capacity to ensure they are fast
+  * analysing anonymised data to help us understand how people interact with govt services so we can make them better
 
 
 
-You can manage these small files and learn more about them from the article, Internet [Browser cookies](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies) – what they are and how to manage them.
+You can manage these small files and learn more about them from the article, Internet [Browser cookies](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies) – what they are and how to manage them.
 
 **Current cookies**
 
@@ -126,8 +128,8 @@ Google Analytics stores information about what pages you visit, how long you are
 
 **Cookie: Google Analytics**  
 Name: _utma, _utmb, _utmc, _utmd, _utmv, _utmz  
-Purpose: To record how many people are using the HEE website and how they move around the site once they’ve arrived:  
-_utma tracks how many times (if any) you have visited the HEE website before.  
+Purpose: To record how many people are using the HEE or LETB website and how they move around the site once they’ve arrived:  
+_utma tracks how many times (if any) you have visited the HEE or LETB website before.  
 _utmb and _utmc are connected, and track how long you stay on the site.  
 _utmd gives us information on how the site was reached (e.g. directly or via a link, organic search or paid search)  
 _utmv and _utmz identifies where you’ve come from e.g. from a search engine or from another website.  
@@ -214,7 +216,7 @@ We will not use cookies to collect personally identifiable information about you
 
 However, if you wish to restrict or block the cookies which are set by our websites, or indeed any other website, you can do this through your browser settings. The ‘Help’ function within your browser should tell you how.
 
-Alternatively, you may wish to visit [www.aboutcookies.org](http://www.dh.gov.uk/health/privacy-and-cookies/www.aboutcookies.org) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your machine as well as more general information about cookies.
+Alternatively, you may wish to visit [www.aboutcookies.org](http://www.dh.gov.uk/health/privacy-and-cookies/www.aboutcookies.org) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your machine as well as more general information about cookies.
 
 Please be aware that restricting cookies may impact on the functionality of our website.
 
