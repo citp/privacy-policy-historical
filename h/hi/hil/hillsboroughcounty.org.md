@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillsboroughcounty.org privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130162913id_/http%3A//www.hillsboroughcounty.org/index.aspx%3Fnid%3D2592) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillsboroughcounty.org privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608043014id_/http%3A//www.hillsboroughcounty.org/index.aspx%3Fnid%3D2592) for the most accurate reproduction.*
 
 # Hillsborough County, FL - Official Website - Privacy
 
@@ -10,7 +10,7 @@ Our approach to privacy is clear: We will collect no personal information about 
 Email  
 E-mail addresses are public records under Florida Law and are not exempt from public-records requirements. If you do not want your e-mail address subject to being released pursuant to a public-records request do not send electronic mail to this entity. Instead contact the County department by telephone or in writing, via the United States Postal Service.
 
- **  
+**  
 Information Collected and Stored Automatically**  
 If you do nothing during your visit but browse through the web site, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
 
@@ -33,7 +33,7 @@ We use this information to help us make our site more useful to visitors -- to t
  **  
 If You Send Us Personal Information**  
 If you choose to provide us with personal information -- as in an e-mail to County staff, or by filling out a form and submitting it to us through our web site -- we will use that information to respond to your message and to help us provide you the information you have requested. We treat emails the same way we treat letters sent to the County offices. We are required to maintain many documents for historical purposes and we are subject to mandated retention policies. We do not regularly collect personal information for any purpose other than to respond to you. However, information we receive may be considered public information which is subject to disclosure under Florida’s Sunshine law. Except for information disclosure required by Florida law, we only share the information you give us with another government agency, if your inquiry relates to that agency, or the subject matter of the information comes within the regulatory or prosecutorial jurisdiction of that agency. Hillsborough County does not collect information for commercial marketing.   
- _  
+_  
 No   **personally identifiable information**  (name, address, email address, phone, etc…) is collected automatically._
 
  **  
