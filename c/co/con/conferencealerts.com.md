@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conferencealerts.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201130111id_/http%3A//www.conferencealerts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conferencealerts.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608081100id_/http%3A//www.conferencealerts.com/privacy-policy) for the most accurate reproduction.*
 
 # Conference Alerts - Privacy Policy
 
@@ -20,6 +20,8 @@ what we do with it and our policy about sharing it with third parties. 1\.  |  I
 2.1.  |  The primary purpose of collecting information is to appropriately direct conference announcements.   
 2.2.  |  We also use the information for research purposes, regarding typical users' demographics and interests.   
 2.3.  |  Information provided by users when communicating directly with us, whether by e-mail or otherwise.   
+2.4.  |  We reserve the right to not list events at our discretion.   
+2.5.  |  We reserve the right to remove information from the Conference Alerts website at our discretion.   
   
 3\.  |  Sharing information with third parties   
 ---|---  
