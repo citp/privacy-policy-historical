@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shopjimmy.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225080843id_/http%3A//www.shopjimmy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopjimmy.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609004408id_/http%3A//www.shopjimmy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and TV Parts Disclaimer | ShopJimmy
 
 This privacy policy applies to http://www.shopjimmy.com owned and operated by ShopJimmy.com, LLC (“ShopJimmy.com”). This privacy policy describes how ShopJimmy.com collects and uses the personal information you provide on our website (http://www.shopjimmy.com). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-ShopJimmy.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this website, [ShopJimmy.com](http://www.shopjimmy.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us. If you are not satisfied with our response you can [contact TRUSTe](https://feedback-form.truste.com/watchdog/request). 
+ShopJimmy.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this website, [ShopJimmy.com](http://www.shopjimmy.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us. If you are not satisfied with our response you can [contact TRUSTe](https://feedback-form.truste.com/watchdog/request). 
 
 ### Information Collection and Use
 
@@ -78,6 +78,10 @@ Our site includes links to other websites whose privacy practices may differ fro
 ### Blog / Forum
 
 Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, please contact us. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+
+### Single Sign-On
+
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
 
 ### Social Media Widgets
 
