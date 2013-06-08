@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmc.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226091412id_/http%3A//www.bmc.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmc.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608185911id_/http%3A//www.bmc.com/legal/privacy) for the most accurate reproduction.*
 
 # BMC Privacy Policy - BMC Software
 
@@ -14,11 +14,11 @@ BMC operates in the business-to-business (B2B) software industry. Unlike many co
 
 We may collect the following types of information when you browse this Site, any other BMC website, or any affiliate site:
 
-  * Information you provide directly when you register or make an online order, join an online community or other group, inquire about BMC products, or request BMC support or services at any BMC interactive message board, or via any e-mail messages you send us, including personally identifiable information such as your name, contact information (phone, fax and pager numbers, address, and email address), ordering information, and payment data. 
-  * Information you provide directly, including personally identifiable information you submit through this Site as part of the online job application process or in the process of registering for a BMC sponsored training, event, user group, or conference. 
-  * Passively collected information, including through the use of “cookies” described below, such as IP addresses, web browser and operating system information, date and time of visits, and the web pages your Internet browser visits when browsing this Site, any other BMC website or any affiliate site; 
-  * Click-through information related to BMC emails and related marketing activities; and 
-  * Aggregate, non-personally identifiable information, such as the number of hits per week or per web page. 
+  * Information you provide directly when you register or make an online order, join an online community or other group, inquire about BMC products, or request BMC support or services at any BMC interactive message board, or via any e-mail messages you send us, including personally identifiable information such as your name, contact information (phone, fax and pager numbers, address, and email address), ordering information, and payment data.
+  * Information you provide directly, including personally identifiable information you submit through this Site as part of the online job application process or in the process of registering for a BMC sponsored training, event, user group, or conference.
+  * Passively collected information, including through the use of “cookies” described below, such as IP addresses, web browser and operating system information, date and time of visits, and the web pages your Internet browser visits when browsing this Site, any other BMC website or any affiliate site;
+  * Click-through information related to BMC emails and related marketing activities; and
+  * Aggregate, non-personally identifiable information, such as the number of hits per week or per web page.
 
 
 
@@ -26,8 +26,8 @@ We may collect the following types of information when you browse this Site, any
 
 “Cookies” are small text files that store information about your interactions with a particular website, either temporarily (known as a “temporary” or “session” cookie, and deleted once you close your browser window) or more permanently on the hard drive of your computer (known as a “permanent” or “persistent cookie”). Cookies can make it easier to use a website by allowing servers to access certain information quickly:
 
-  * **Session cookies** can be used to help a user’s browser navigate a website more smoothly and may show up if the user comes from a website with which the subsequent website has some relationship (e.g., a website of an affiliated company) and can give helpful information. 
-  * **Persistent cookies** can be used to customize a website for a user, such as by storing passwords, preferences, and registration and account information so that users do not have to reenter this information each time they visit a website. 
+  * **Session cookies** can be used to help a user’s browser navigate a website more smoothly and may show up if the user comes from a website with which the subsequent website has some relationship (e.g., a website of an affiliated company) and can give helpful information.
+  * **Persistent cookies** can be used to customize a website for a user, such as by storing passwords, preferences, and registration and account information so that users do not have to reenter this information each time they visit a website.
 
 
 
@@ -41,18 +41,18 @@ BMC may use "web beacon" technology to gather metrics from anonymous web users a
 
 BMC uses information collected online in the following ways:
 
-  * For information you provide directly online, or through email messages, relating to inquiries about products, ordering products, requests for support or services, or downloading products, we use the information to engage in and process transactions with you, respond to your inquiries and requests, and provide customer support activities. 
-  * For information you provide online, including actions or clicks from hyperlinks and subscriptions, we use the information to customize future communications and web pages in accordance with communication preferences you have established with BMC. 
-  * For some registration, email and use data you provide, we may direct you to particular web pages, customize the web pages you see, or otherwise increase the relevance of the information you receive. 
-  * For information about web pages visited, page hits per week, and the like, we use this information internally to improve the design of our web pages. 
-  * For information submitted using the online job application process, we may use and disseminate this information internally and among our affiliates as necessary to consider your application and to contact you regarding our decision. 
-  * For information submitted online for scheduling training or registering to attend a BMC sponsored conference or event, we may use and disseminate this information internally and among our affiliates to communicate with you and to facilitate your registration and participation. 
+  * For information you provide directly online, or through email messages, relating to inquiries about products, ordering products, requests for support or services, or downloading products, we use the information to engage in and process transactions with you, respond to your inquiries and requests, and provide customer support activities.
+  * For information you provide online, including actions or clicks from hyperlinks and subscriptions, we use the information to customize future communications and web pages in accordance with communication preferences you have established with BMC.
+  * For some registration, email and use data you provide, we may direct you to particular web pages, customize the web pages you see, or otherwise increase the relevance of the information you receive.
+  * For information about web pages visited, page hits per week, and the like, we use this information internally to improve the design of our web pages.
+  * For information submitted using the online job application process, we may use and disseminate this information internally and among our affiliates as necessary to consider your application and to contact you regarding our decision.
+  * For information submitted online for scheduling training or registering to attend a BMC sponsored conference or event, we may use and disseminate this information internally and among our affiliates to communicate with you and to facilitate your registration and participation.
 
 
 
 ### Web Monitoring Opt-Out
 
-BMC allows visitors to this website ([www.bmc.com](http://www.bmc.com/)) and associated BMC sites the ability to maintain anonymity by choosing to “opt-out” of BMC monitoring / tracking functions relating to web pages viewed and other click-through activity by the web user. By choosing to “opt-out”, the web user’s name and other identification, such as email address, will not be associated with the web user. The web user’s activity, as an anonymous user, may be included in website metrics maintained by BMC. To view your present “opt-in/opt-out” status relating to BMC web monitoring, [click here](http://www.bmc.com/legal/your-web-monitoring-status). 
+BMC allows visitors to this website ([www.bmc.com](http://www.bmc.com/)) and associated BMC sites the ability to maintain anonymity by choosing to “opt-out” of BMC monitoring / tracking functions relating to web pages viewed and other click-through activity by the web user. By choosing to “opt-out”, the web user’s name and other identification, such as email address, will not be associated with the web user. The web user’s activity, as an anonymous user, may be included in website metrics maintained by BMC. To view your present “opt-in/opt-out” status relating to BMC web monitoring, [click here](http://www.bmc.com/legal/your-web-monitoring-status).
 
 ### When We Share Your Information
 
@@ -88,7 +88,7 @@ We periodically update the features of our Site to better serve you and all our 
 
 ### Safe Harbor Participation
 
-BMC complies with the U.S.-EU Safe Harbor Framework and the U.S.- Swiss Safe Harbor Framework as set forth by the  U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, collectively referred to in this policy as “EU/Swiss Personal Information”. BMC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view BMC’s certification, please visit [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor/). 
+BMC complies with the U.S.-EU Safe Harbor Framework and the U.S.- Swiss Safe Harbor Framework as set forth by the  U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, collectively referred to in this policy as “EU/Swiss Personal Information”. BMC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view BMC’s certification, please visit [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
 
 BMC employees in the EU and Switzerland are provided with information regarding BMC’s employee data privacy practices and Safe Harbor via a separate policy.
 
@@ -118,7 +118,7 @@ BMC may disclose EU/Swiss Personal Information as necessary in connection with t
 
 **Cooperation with Data protection Authorities and Dispute Resolution**
 
-BMC agrees to cooperate and comply with EU and Switzerland data protection authorities in the investigation and resolution of complaints brought under the Safe Harbor framework.  BMC has chosen to use the EU Data Protection Authorities and Swiss Federal Data Protection and Information Commissioner to serve as independent recourse mechanisms for dispute resolution. 
+BMC agrees to cooperate and comply with EU and Switzerland data protection authorities in the investigation and resolution of complaints brought under the Safe Harbor framework.  BMC has chosen to use the EU Data Protection Authorities and Swiss Federal Data Protection and Information Commissioner to serve as independent recourse mechanisms for dispute resolution.
 
 **Questions**
 
