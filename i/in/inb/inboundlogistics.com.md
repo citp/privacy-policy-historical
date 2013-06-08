@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboundlogistics.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110090658id_/http%3A//www.inboundlogistics.com/cms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboundlogistics.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608035127id_/http%3A//www.inboundlogistics.com/cms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Inbound Logistics
 
