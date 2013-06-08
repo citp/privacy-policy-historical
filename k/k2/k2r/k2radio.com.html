@@ -1,222 +1,67 @@
-<!--The following is the downloaded HTML source of the k2radio.com privacy policy that was archived on 2012-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121128102421id_/http%3A//k2radio.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the k2radio.com privacy policy that was archived on 2013-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130608114751id_/http%3A//k2radio.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><!--<![endif]--><head>
+<!DOCTYPE html><html dir="ltr" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="width=1280">
 <title>K2 Radio - Wyoming's Radio Station - Casper News</title>
 
 <link id="design-fav" rel="shortcut icon" href="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2011/02/favicon1.ico">
+<link rel="alternate" type="application/rss+xml" title="K2 Radio » Feed" href="http://k2radio.com/feed/">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="stylesheet" type="text/css" media="all" href="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/themes/townsquare3-news/style.css">
-<link rel="alternate" type="application/rss+xml" title="K2 Radio » Feed" href="http://k2radio.com/feed/">
 <link rel="stylesheet" id="weather-widget-css-css" href="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/weather-widget/resources/style.css?ver=3.4.2" type="text/css" media="all">
 <link rel="stylesheet" id="loyalty-alerts-admin-css" href="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/loyalty-alert-system/resources/css/admin.css?ver=3.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="ts3-css" href="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/css/ts3.css?ver=13515126214d032b8b85" type="text/css" media="all">
-<link rel="stylesheet" id="fancybox-css" href="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/themes/townsquare3/resources/js/fancybox/jquery.fancybox-1.3.3.css?ver=3.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="tsc-fonts-css" href="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/themes/townsquare3/resources/css/fonts.css?ver=4d032b8b8540909688d1d2611c4978e7c9992983" type="text/css" media="screen">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">/* <![CDATA[ */function add_loyalty_points( activity, points, callback ) {
-	Loyalty_Points.add_points(activity, points, callback);
-}
-
-function remove_loyalty_points( activity, points, callback ) {
-	add_loyalty_points(activity, points*-1, callback);
-}
-
-function get_loyalty_user( activity, callback ) {
-	Loyalty_Points.get_user( activity, callback );
-}
-
-function update_loyalty_points( points ) {
-	Loyalty_Points.update_points(points);
-}
-
-function get_loyalty_point_value( activity ) {
-	return Loyalty_Points.get_point_value(activity);
-}
-
-function get_loyalty_activity_interval( activity ) {
-	return Loyalty_Points.get_interval(activity);
-}
-
-function Loyalty_User() {
-	this.last_request = 0;
-	this.status = 'OK';
-	this.error = '';
-	this.name = '';
-	this.email = '';
-	this.points = 0;
-	this.activities = {};
-}
-Loyalty_User.prototype.update = function ( data ) {
-	if ( typeof(data.status) == 'undefined' ) {
-		return; // if we don't have a status, we can't assume anything else if valid
-	}
-	this.status = data.status;
-	this.error = '';
-	if ( typeof(data.last_request) != 'undefined' ) {
-		this.last_request = data.last_request;
-	}
-	if ( typeof(data.error) != 'undefined' ) {
-		this.error = data.error;
-	}
-	if ( typeof(data.name) != 'undefined' ) {
-		this.name = data.name;
-	}
-	if ( typeof(data.email) != 'undefined' ) {
-		this.email = data.email;
-	}
-	if ( typeof(data.points) != 'undefined' ) {
-		this.points = data.points;
-	}
-	if ( typeof(data.activities) != 'undefined' ) {
-		// don't want to overwrite any existing activities that aren't set in data
-		for ( activity in data.activities ) {
-			this.activities[activity] = data.activities[activity];
-		}
-	}
-};
-
-Loyalty_Points = {
-	activities: {},
-	user: new Loyalty_User,
-
-	add_points: function( activity, points, callback ) {
-		if ( !activity ) {
-			return;
-		}
-		var url = '/api/loyalty';
-		url = url + '/' + activity;
-		if ( points ) {
-			url = url + '/' + points;
-		}
-		jQuery.ajax({
-			url: url,
-			data: { now: Math.round((new Date()).getTime() / 1000) }, // because IE loves to cache
-			success: function(data, textStatus) {
-				if ( data ) {
-					if ( typeof(data.points) != 'undefined' ) {
-						Loyalty_Points.update_points(data.points);
-					}
-					Loyalty_Points.user.update(data);
-					if ( callback ) {
-						callback(Loyalty_Points.user);
-					}
-				}
-			},
-			error: function(request, textStatus) {
-				var data = jQuery.parseJSON(request.response);
-				if ( data ) {
-					Loyalty_Points.user.update(data);
-					if ( callback ) {
-						callback(Loyalty_Points.user);
-					}
-				}
-			},
-			dataType: 'json'
-		});
-	},
-
-	get_user: function( activity, callback ) {
-		if ( !document.cookie.match(/_ts_logged_in=1/) ) {
-			return;
-		}
-		var url = '/api/loyalty/user';
-		if ( activity ) {
-			url = url + '/' + activity;
-		}
-		jQuery.ajax({
-			url: url,
-			data: {},
-			success: function(data, textStatus) {
-				if ( data ) {
-					Loyalty_Points.user.update(data);
-					if ( callback ) {
-						callback(Loyalty_Points.user);
-					}
-				}
-			},
-			error: function(request, textStatus) {
-				data = jQuery.parseJSON(request.response);
-				if ( data ) {
-					Loyalty_Points.user.update(data);
-					if ( callback ) {
-						callback(Loyalty_Points.user);
-					}
-				}
-			},
-			dataType: 'json'
-		});
-	},
-
-	update_points: function( points ) {
-		jQuery(".number-of-points").text(points);
-	},
-
-	get_point_value: function( activity ) {
-		var a = this.get_activity(activity);
-		if ( a != null ) {
-			return a.points;
-		}
-		return 0;
-	},
-
-	get_interval: function( activity ) {
-		var a = this.get_activity(activity);
-		if ( a != null ) {
-			return a.interval;
-		}
-		return 0;
-	},
-
-	get_activity: function( activity ) {
-		if ( !(typeof this.activities[activity] == 'undefined') ) {
-			return this.activities[activity];
-		}
-		return null;
-	}
-};
-
-Loyalty_Points.activities = {"loyalty_manual_entry":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"label":"Manual Entry","immutable":2},"loyalty_new_user":{"points":2500,"point_override":false,"maximum":2500,"daily_maximum":2500,"request_maximum":-1,"interval":15,"label":"User Registration","immutable":true,"superimmutable":false},"loyalty_migrate_user":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"label":"Migrate User","immutable":2},"prize":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"label":"Prize","immutable":2},"loyalty_code_listen":{"points":2500,"point_override":true,"maximum":-1,"daily_maximum":40000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Listen & Win","immutable":true,"superimmutable":true},"loyalty_code_bonus":{"points":1000,"point_override":true,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Bonus Code","immutable":true,"superimmutable":true},"loyalty_game_blkjack":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":1000000,"request_maximum":-1,"interval":3,"expiration":0,"label":"Blackjack","immutable":true,"superimmutable":false},"loyalty_game_slots":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":1000000,"request_maximum":-1,"interval":3,"expiration":0,"label":"Slot Machine","immutable":true,"superimmutable":false},"loyalty_game_scratch":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":1000000,"request_maximum":-1,"interval":3,"expiration":0,"label":"Scratch & Win","immutable":true,"superimmutable":false},"loyalty_ftlink_link":{"points":250,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":3,"expiration":0,"label":"Featured Link","immutable":true,"superimmutable":false},"loyalty_ftlink_land":{"points":10,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Landing","immutable":true,"superimmutable":false},"loyalty_trivia":{"points":1000,"point_override":true,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Trivia","immutable":true,"superimmutable":false},"loyalty_qa_poll":{"points":500,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Poll","immutable":true,"superimmutable":false},"loyalty_qa_quiz":{"points":1000,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Quiz","immutable":true,"superimmutable":false},"loyalty_qa_survey":{"points":1500,"point_override":true,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Survey","immutable":true,"superimmutable":true},"loyalty_purch_trade":{"points":1000,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"expiration":0,"label":"Trade-in","immutable":true,"superimmutable":false},"loyalty_purch_coupon":{"points":500,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"expiration":0,"label":"Coupon","immutable":false,"superimmutable":false},"loyalty_ct_custom":{"points":500,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":15,"expiration":0,"label":"Featured Contest","immutable":true,"superimmutable":false},"loyalty_ct_standard":{"points":500,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":15,"expiration":0,"label":"Contest","immutable":true,"superimmutable":false},"Radio Page Counter":{"points":250,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":900,"expiration":0,"active":true,"immutable":true,"superimmutable":false}};
-/* ]]> */</script><script type="text/javascript">
-/* <![CDATA[ */
-var $adminAjax = {"url":"http:\/\/k2radio.com\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/jquery-updater/js/jquery-1.7.2.min.js?ver=1.7.2"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/crossposting/resources/crossposting.js?ver=2012-09-06"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var NowPlaying = {"refresh":"0"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/mu-plugins/now-playing/resources/now-playing.js?ver=4d032b8b8540909688d1d2611c4978e7c9992983"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/events/resources/events.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/themes/townsquare3/resources/js/html5.js?ver=4d032b8b8540909688d1d2611c4978e7c9992983"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.1"></script>
-<meta property="og:title" content="K2 Radio - Wyoming\'s Radio Station - Casper News">
-<meta property="og:site_name" content="K2 Radio">
-<meta property="og:url" content="http://k2radio.com">
-<meta property="og:description" content="AM 1030 K2 Radio, KTWO Radio brings you the latest news and talk in Casper, Wyoming,">
-<meta property="og:type" content="blog">
+<link rel="stylesheet" id="jquery-fancybox-css" href="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.css?ver=35abddb95c2864e39f3ecc1e26442be3a7a0d5a5" type="text/css" media="all">
+<link rel="stylesheet" id="ts3-css" href="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/css/ts3.css?ver=136480779435abddb95c" type="text/css" media="all">
+<link rel="stylesheet" id="facebook_auth-css" href="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/facebook-apps/css/facebook-auth.css?ver=35abddb95c2864e39f3ecc1e26442be3a7a0d5a5" type="text/css" media="all">
+<script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/jquery-updater/js/jquery-1.7.2.min.js?ver=1.7.2"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/themes/townsquare3/resources/js/html5.js?ver=35abddb95c2864e39f3ecc1e26442be3a7a0d5a5"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.1.d"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/google-analyticator/content-scrolling.js?ver=6.1.1.d"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://k2radio.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://k2radio.com/wp-includes/wlwmanifest.xml"> 
+	<script type="text/javascript">
+		var TSMAdHelperSettings = {};
+	</script>
+		<script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
+	<script type="text/javascript">
+		TSMAdHelperSettings = {
+			'dfp6':{
+				async:0
+			}
+		}
+	</script>
+<script id="tsm-googletag-init" type="text/javascript">
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	window.TSMAdSettings = {"activeSlots":["top-right-300x250","bottom-right-300x250","dynamic-ad-custom","dynamic-ad-header","top-728x90","bottom-728x90","mid-top-300x250","mid-bottom-300x250"],"adPageSettings":{"pageSettings":{"sitetype":"Local","market":"Casper","callletters":"KTWO","pagetype":"home"},"attrs":{"catid":"","id":"","author":"","kw":[],"device":"web","kv":[]}}};
+</script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/mu-plugins/google-ads/js/tsmadhelper.js?v=35abddb95c2864e39f3ecc1e26442be3a7a0d5a5"></script>
 
-<!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[883,934] -->
+<!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[631,682] -->
 <meta name="description" content="AM 1030 K2 Radio, KTWO Radio brings you the latest news and talk in Casper, Wyoming,">
 <meta name="keywords" content="1030, ktwo, k2, Casper news, Casper talk, Wyoming news, Wyoming talk, wyoming talk radio, Casper Wyoming News, casper radio, wyoming radio">
 <meta name="viewport" content="width=1070">
 <link rel="canonical" href="http://k2radio.com/">
 <!-- /all in one seo pack Pro Version-->
 <meta property="fb:app_id" content="204598309557300">
-<meta property="fb:admins" content="100000118284394,583052867,100002025987268,732998853">
-
-                <script>
-                    if(typeof(oKETool)=="undefined") oKETool = {};
-                    oKETool.pluginsUrl = "http://k2radio.com/wp-content/plugins/";
-                    oKETool.themePlugin = "http://k2radio.com/wp-content/themes/townsquare3-news/plugins/";
-                </script>
-            <!-- Begin comScore Tag -->
+<meta property="fb:admins" content="100000118284394">
+<meta property="fb:admins" content="583052867">
+<meta property="fb:admins" content="100002025987268">
+<meta property="fb:admins" content="732998853">
+<meta property="og:title" content="K2 Radio - Wyoming\'s Radio Station - Casper News">
+<meta property="og:description" content="AM 1030 K2 Radio, KTWO Radio brings you the latest news and talk in Casper, Wyoming,">
+<meta property="og:url" content="http://k2radio.com/">
+<meta property="og:site_name" content="K2 Radio">
+<meta property="og:type" content="blog">
+<meta property="og:image" content="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2011/09/K2-logo-test-v3.png?w=250&amp;zc=1&amp;s=0&amp;a=t&amp;q=90">
+<script type="text/javascript">if(ajaxurl == undefined) { var ajaxurl = "http://k2radio.com/wp-admin/admin-ajax.php"; }</script><style type="text/css" media="all">
+/* <![CDATA[ */
+@import url("http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.3");
+@import url("http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.3");
+/* ]]> */
+</style><!-- Begin comScore Tag -->
 <script>
 	var _comscore = _comscore || [];
 	_comscore.push({ c1: "2", c2: "6665296" });
@@ -229,60 +74,24 @@ var NowPlaying = {"refresh":"0"};
 <noscript>
 <img src="http://b.scorecardresearch.com/p?c1=2&c2=6665296&cv=2.0&cj=1" /> </noscript>
 <!-- End comScore Tag -->
-<!-- Google Ads Start -->
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-5913157830665197");
-GS_googleEnableAllServices();
-</script>
-<script type="text/javascript">
-GA_googleAddAttr("type", "home");
-</script>
-<script type="text/javascript">
-GA_googleAddSlot("ca-pub-5913157830665197", "CAS_KTWO_RIGHT_TILE_300X100");
-GA_googleAddSlot("ca-pub-5913157830665197", "CAS_KTWO_SKYSCRAPER_300X600");
-GA_googleAddSlot("ca-pub-5913157830665197", "CAS_KTWO_TOP_RIGHT_TILE_AD_300X250");
-GA_googleAddSlot("ca-pub-5913157830665197", "CAS_KTWO_BOTTOM_TILE_AD_300X250");
-GA_googleAddSlot("ca-pub-5913157830665197", "CAS_KTWO_RIGHT_TILE_AD_300X250");
-GA_googleAddSlot("ca-pub-5913157830665197", "CAS_KTWO_TOP_RIGHT_TILE_AD_CHRISTMAS");
-GA_googleAddSlot("ca-pub-5913157830665197", "CAS_KTWO_MINIAD_120x90");
-GA_googleAddSlot("ca-pub-5913157830665197", "CAS_KTWO_MINIAD_120x90_1");
-GA_googleAddSlot("ca-pub-5913157830665197", "CAS_KTWO_MINIAD_120x90_2");
-GA_googleAddSlot("ca-pub-5913157830665197", "CAS_KTWO_MINIAD_120x90_3");
-GA_googleAddSlot("ca-pub-5913157830665197", "CAS_KTWO_LEADERBOARD");
-GA_googleAddSlot("ca-pub-5913157830665197", "CAS_KTWO_BOTTOM_LEADERBOARD");
-GA_googleAddSlot("ca-pub-5913157830665197", "CAS_KTWO_MIDDLE_TILE_AD_3_300x250");
-GA_googleAddSlot("ca-pub-5913157830665197", "CAS_KTWO_MIDDLE_TILE_AD_7_300x250");
-GA_googleAddSlot("ca-pub-5913157830665197", "CAS_KTWO_EXPANDING_PENCIL_AD");
-GA_googleAddSlot("ca-pub-5913157830665197", "CAS_KTWO_PUSHDOWN");
-GA_googleAddSlot("ca-pub-5913157830665197", "CAS_KTWO_CUSTOM_1X1");
-</script>
-<script type="text/javascript">
-GA_googleFetchAds();
-</script>
-<!-- Google Ads End -->
-<style type="text/css" media="all">
-/* <![CDATA[ */
-@import url("http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.3");
-@import url("http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.3");
-/* ]]> */
-</style>
 
 
-<!-- Google Analytics Tracking by Google Analyticator 6.1.1: http://ronaldheft.com/code/analyticator/ -->
+
+<!-- Google Analytics Tracking by Google Analyticator 6.1.1.d: http://ronaldheft.com/code/analyticator/ -->
 <script type="text/javascript">
-	var analyticsFileTypes = [''];
-	var analyticsEventTracking = 'enabled';
+var analyticsFileTypes = [''];
+var analyticsEventTracking = 'enabled';
 </script>
 <script type="text/javascript">
 var _gaq_author = 'K2 Radio';
+var _gaq_categories = '';
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-19114600-1']);
 _gaq.push(['_setDomainName', '.k2radio.com']);
 _gaq.push(['_setCampaignCookieTimeout', 0]);
 _gaq.push(['_setAllowHash', false]);
 _gaq.push(['_setCustomVar', 1, 'Author', _gaq_author, 3]);
+_gaq.push(['_setCustomVar', 2, 'Categories', _gaq_categories, 3]);
 _gaq.push(['_trackPageview']);
 _gaq.push(['_setAccount', 'UA-19109753-1']);
 _gaq.push(['_setDomainName', '.k2radio.com']);
@@ -294,6 +103,7 @@ _gaq.push(['_setDomainName', '.k2radio.com']);
 _gaq.push(['_setCampaignCookieTimeout', 0]);
 _gaq.push(['_setAllowHash', false]);
 _gaq.push(['_setCustomVar', 1, 'Author', _gaq_author, 3]);
+_gaq.push(['_setCustomVar', 2, 'Categories', _gaq_categories, 3]);
 _gaq.push(['_trackPageview']);
 _gaq.push(['_setAccount', 'UA-28825804-3']);
 _gaq.push(['_setDomainName', '.k2radio.com']);
@@ -310,15 +120,28 @@ _gaq.push(['_trackPageview']);
 </head>
 
 <body class="home blog top_banner twotone ruled-sidebar-header block-listen-bar">
-<div id="takeover_wrap" class="body_child"><div id="top_banner" class="clearfix"><!-- /CAS_KTWO_LEADERBOARD -->
-		<script type="text/javascript">
-	GA_googleFillSlot("CAS_KTWO_LEADERBOARD");
-	</script>
-	</div><div class="google_ad_custom_1x1_wrap"><!-- /CAS_KTWO_CUSTOM_1X1 -->
-		<script type="text/javascript">
-	GA_googleFillSlot("CAS_KTWO_CUSTOM_1X1");
-	</script>
-	</div><header class="top">
+<div id="takeover_wrap" class="body_child">
+<div id="top_banner" class="tsmAd clearfix"><div id="top-728x90"><script type="text/javascript">googletag.cmd.push(function(){googletag.display("top-728x90");});</script></div></div><div id="google_ad_custom_1x1_wrap" class="tsmAd"><div id="dynamic-ad-custom"><script type="text/javascript">googletag.cmd.push(function(){googletag.display("dynamic-ad-custom");});</script></div></div><div id="google_ad_custom2_1x1_wrap" class="tsmAd"><div id="dynamic-ad-header"><script type="text/javascript">googletag.cmd.push(function(){googletag.display("dynamic-ad-header");});</script></div></div><div id="fb-root"></div>
+<script>
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId      : '204598309557300', // App ID from the App Dashboard
+			channelUrl : 'http://k2radio.com/wp-content/plugins/facebook-apps/views/channel.php', // Channel File for x-domain communication
+			status     : true,
+			cookie     : true,
+			xfbml      : true,
+			oauth      : true
+		});
+	};
+	(function(d, debug){
+		var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+		if (d.getElementById(id)) {return;}
+		js = d.createElement('script'); js.id = id; js.async = true;
+		js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+		ref.parentNode.insertBefore(js, ref);
+	}(document, /*debug*/ false));
+</script>
+		<header class="top">
     <a href="http://k2radio.com" title="K2 Radio" class="site_logo_link"><img src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2011/09/K2-logo-test-v3.png" alt="K2 Radio" id="site-logo" class=""></a>    <div id="header_search">
                 <form method="get" action="http://k2radio.com/" class="search_form">
             <label for="search_input">Search</label>
@@ -328,13 +151,12 @@ _gaq.push(['_trackPageview']);
     </div>
     <a class="contactUs" href="/help/">Contact Us</a>
     <div id="sso">
-        <span class="sso_links"><img class="fbicon" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/tsm-wp-fb-autoconnect/images/fbicon.png"><a class="login_modal_link" href="http://k2radio.com/login/?referer=http://k2radio.com/privacy">Sign In</a> | <a class="register_modal_link" href="http://k2radio.com/registration/">Sign Up</a></span>
+        <span class="sso_links"><img src="http://wac.450f.edgecastcdn.net/80450F/production.townsquaresites.com/wp-content/uploads/2013/04/fbicon.png"><a class="fb-auth-login-link" href="#fb-auth-login">Sign In</a> | <a class="fb-auth-registration-link" href="#fb-auth-registration">Sign Up</a></span>
     </div><!-- // #sso.right -->
 </header><!-- // #header_nav. -->
 
 <div id="main_container" class="clearfix">
-    
-<nav class="main">
+    <nav class="main">
 	<div class="menu-header-container"><ul id="menu-header" class="menu"><li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a href="/"><span class="nav_item">Home</span></a></li>
 <li id="menu-item-29269" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29269"><a href="/page/2/"><span class="nav_item">News</span></a>
 <ul class="sub-menu">
@@ -342,28 +164,35 @@ _gaq.push(['_trackPageview']);
 	<li id="menu-item-29270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29270"><a href="http://k2radio.com/category/local-news/"><span class="nav_item">Casper News</span></a></li>
 	<li id="menu-item-29271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29271"><a href="http://k2radio.com/category/wyoming-news/"><span class="nav_item">Wyoming News</span></a></li>
 	<li id="menu-item-29272" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29272"><a href="http://k2radio.com/category/national-news/"><span class="nav_item">National News</span></a></li>
-	<li id="menu-item-29273" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29273"><a href="http://k2radio.com/category/associated-press/"><span class="nav_item">AP News</span></a></li>
+	<li id="menu-item-29273" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29273"><a href="http://k2radio.com/category/associated-press/"><span class="nav_item">Associated Press</span></a></li>
 </ul>
 </li>
-<li id="menu-item-877" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-877"><a href="/shows"><span class="nav_item">Shows</span></a></li>
 <li id="menu-item-22604" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22604"><a href="/listen-live/"><span class="nav_item">Listen</span></a>
 <ul class="sub-menu">
+	<li id="menu-item-877" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-877"><a href="/shows"><span class="nav_item">Shows</span></a></li>
 	<li id="menu-item-22605" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22605"><a href="/listen-live/popup/"><span class="nav_item">Listen Live</span></a></li>
-	<li id="menu-item-213683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213683"><a href="/listen-live/christmas-player"><span class="nav_item">Christmas Radio</span></a></li>
 	<li id="menu-item-9384" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9384"><a href="/mobile"><span class="nav_item">Mobile</span></a></li>
+</ul>
+</li>
+<li id="menu-item-264540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-264540"><a href="/events-casper/"><span class="nav_item">Events</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-264541" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-264541"><a href="/events-casper/"><span class="nav_item">Events Calendar</span></a></li>
+	<li id="menu-item-264542" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-264542"><a href="/events-casper/community/add/"><span class="nav_item">Submit An Event</span></a></li>
 </ul>
 </li>
 <li id="menu-item-14987" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14987"><a href="/casper-weather/"><span class="nav_item">Weather</span></a>
 <ul class="sub-menu">
+	<li id="menu-item-273986" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-273986"><a href="/closings/"><span class="nav_item">Closings &amp; Delays</span></a></li>
 	<li id="menu-item-22664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22664"><a href="/casper-weather/"><span class="nav_item">Intellicast Forecast</span></a></li>
 	<li id="menu-item-22665" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22665"><a href="/category/weather"><span class="nav_item">DayWeather Blog</span></a></li>
-	<li id="menu-item-2919" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2919"><a href="http://k2radio.com/road-report/"><span class="nav_item">Road Report</span></a></li>
+	<li id="menu-item-2919" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2919"><a href="http://www.wyoroad.info/highway/conditions/RoadClosures.html"><span class="nav_item">Road Closures</span></a></li>
 	<li id="menu-item-2918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2918"><a href="http://k2radio.com/webcams/"><span class="nav_item">Highway Webcams</span></a></li>
 	<li id="menu-item-60314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60314"><a href="http://k2radio.com/wyoming-ski-report/"><span class="nav_item">Wyoming Ski Report</span></a></li>
 </ul>
 </li>
 <li id="menu-item-2359" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2359"><a href="http://k2radio.com/vip/"><span class="nav_item">K2 Fan Club</span></a>
 <ul class="sub-menu">
+	<li id="menu-item-284960" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-284960"><a href="/fathers-day-photo-contest/"><span class="nav_item">Father’s Day Photo Contest</span></a></li>
 	<li id="menu-item-68356" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68356"><a href="/vip/codes/listen-and-win/"><span class="nav_item">Word of the Day</span></a></li>
 	<li id="menu-item-99925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-99925"><a href="/prize-vault/"><span class="nav_item">K2 Radio Prize Vault</span></a></li>
 	<li id="menu-item-69762" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69762"><a href="/vip/contests/"><span class="nav_item">Contests</span></a></li>
@@ -374,21 +203,15 @@ _gaq.push(['_trackPageview']);
 	<li id="menu-item-68728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68728"><a href="http://k2radio.com/k2-fan-club-support/"><span class="nav_item">K2 Fan Club Support</span></a></li>
 </ul>
 </li>
-<li id="menu-item-22631" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22631"><a href="/contests/"><span class="nav_item">Features</span></a>
+<li id="menu-item-277091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-277091"><a href="/submit-your-engagement-announcement/"><span class="nav_item">Announcements</span></a>
 <ul class="sub-menu">
-	<li id="menu-item-237973" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-237973"><a href="/listen-live/christmas-player"><span class="nav_item">Christmas Radio</span></a></li>
-	<li id="menu-item-67978" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67978"><a href="http://k2radio.com/vip/use-points/"><span class="nav_item">Contests</span></a></li>
-	<li id="menu-item-213652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213652"><a href="http://k2radio.com/win-santas-stash-of-cash-1000-by-listening-10000-here-online/"><span class="nav_item">Win $10,000 Cash!</span></a></li>
-	<li id="menu-item-96300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96300"><a href="/vip/promotions/local-experts-24/"><span class="nav_item">Local Experts</span></a></li>
-	<li id="menu-item-22663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22663"><a href="http://k2radio.com/category/garage-sale-directory/"><span class="nav_item">Garage Sale Directory</span></a></li>
-	<li id="menu-item-22634" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22634"><a href="http://k2radio.com/k2-call-in-corner/"><span class="nav_item">Brian’s Call-In Corner</span></a></li>
-	<li id="menu-item-87734" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87734"><a href="http://k2radio.com/category/casper-food-critic/"><span class="nav_item">Casper Food Critic</span></a></li>
-	<li id="menu-item-22632" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22632"><a href="/best-buy-prize-vault/"><span class="nav_item">Prize Vault</span></a></li>
-	<li id="menu-item-22636" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22636"><a href="http://townsquarecares.com/about-us/"><span class="nav_item">Townsquare Cares</span></a></li>
-	<li id="menu-item-35842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35842"><a href="http://casperwyoming.info/events.php"><span class="nav_item">Community Calendar</span></a></li>
+	<li id="menu-item-277095" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-277095"><a href="http://k2radio.com/submit-a-birth-announcement/"><span class="nav_item">Births</span></a></li>
+	<li id="menu-item-277092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-277092"><a href="http://k2radio.com/submit-your-engagement-announcement/"><span class="nav_item">Engagements</span></a></li>
+	<li id="menu-item-277093" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-277093"><a href="http://k2radio.com/submit-your-wedding-announcement/"><span class="nav_item">Weddings</span></a></li>
+	<li id="menu-item-277094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-277094"><a href="http://k2radio.com/category/anniversary"><span class="nav_item">Anniversaries</span></a></li>
 </ul>
 </li>
-<li id="menu-item-2335" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2335"><a href="/help"><span class="nav_item">Contact Us</span></a>
+<li id="menu-item-2335" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2335"><a href="/help"><span class="nav_item">Contact</span></a>
 <ul class="sub-menu">
 	<li id="menu-item-143678" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143678"><a href="/jobs/"><span class="nav_item">Career Opportunities</span></a></li>
 	<li id="menu-item-8921" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8921"><a href="/help"><span class="nav_item">Help &amp; Contact Info</span></a></li>
@@ -399,34 +222,44 @@ _gaq.push(['_trackPageview']);
 	<li id="menu-item-115350" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-115350"><a href="/advertise/"><span class="nav_item">Advertise</span></a></li>
 </ul>
 </li>
-</ul></div>
-	<div class="social_icons size_24">
-					<a href="http://www.facebook.com/k2radioKTWO" title="Follow on facebook" class="share_link facebook" target="_blank"><span class="social_icon">follow on facebook</span></a>
-		
-		<!--<a href="http://k2radio.com/feed/" title="Subscribe via RSS" class="share_link rss"><span class="social_icon">Subscribe via RSS</span></a>-->
-
-					<a href="http://twitter.com/k2radiowyo" title="Follow on Twitter" class="share_link twitter" target="_blank"><span class="social_icon">follow on Twitter</span></a>
-		
-					<a href="http://k2radio.com/feed/rss/" title="Subscribe via RSS" class="share_link rss" target="_blank"><span class="social_icon">subscribe via RSS</span></a>
-							<a class="tip-us" href="mailto:caspernews@townsquaremedia.com">Tip Us</a>
-			</div><!-- // #.social_icons -->
+<li id="menu-item-22631" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22631"><a href="/vip/"><span class="nav_item">+</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-67978" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67978"><a href="http://k2radio.com/vip/use-points/"><span class="nav_item">Contests</span></a></li>
+	<li id="menu-item-269941" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-269941"><a href="/category/hometown-heroes/"><span class="nav_item">Hometown Heroes</span></a></li>
+	<li id="menu-item-249416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-249416"><a href="/category/legislative-report/"><span class="nav_item">Legislative Report</span></a></li>
+	<li id="menu-item-96300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96300"><a href="/vip/promotions/local-experts-24/"><span class="nav_item">Local Experts</span></a></li>
+	<li id="menu-item-22663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22663"><a href="http://k2radio.com/category/garage-sale-directory/"><span class="nav_item">Garage Sale Directory</span></a></li>
+	<li id="menu-item-22634" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22634"><a href="http://k2radio.com/k2-call-in-corner/"><span class="nav_item">Brian’s Call-In Corner</span></a></li>
+	<li id="menu-item-87734" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87734"><a href="http://k2radio.com/category/casper-food-critic/"><span class="nav_item">Casper Food Critic</span></a></li>
+	<li id="menu-item-22632" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22632"><a href="/best-buy-prize-vault/"><span class="nav_item">Prize Vault</span></a></li>
+	<li id="menu-item-22636" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22636"><a href="http://townsquarecares.com/about-us/"><span class="nav_item">Townsquare Cares</span></a></li>
+	<li id="menu-item-35842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35842"><a href="/events-casper/"><span class="nav_item">Events Calendar</span></a></li>
+</ul>
+</li>
+</ul></div>	<div class="social_icons">
+				<a href="http://www.facebook.com/k2radioKTWO" title="Follow on facebook" class="share_link facebook" target="_blank">
+			<span class="social_icon">follow on facebook</span>
+		</a>
+		<a href="http://twitter.com/k2radiowyo" title="Follow on Twitter" class="share_link twitter twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false" data-width="30px">
+		<span class="social_icon">Follow on Twitter</span>
+	</a>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	<a class="tip-us" href="mailto:caspernews@townsquaremedia.com">Tip Us</a>	</div><!-- // #.social_icons -->
 
 </nav><!-- // nav -->
 
 	<div id="promo_links" class="horizontal_navigation clearfix alt_link_color">
 	<div class="menu-promo-links-container"><ul id="menu-promo-links" class="menu"><li id="menu-item-88720" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88720"><a>Noteworthy:</a></li>
-<li id="menu-item-239755" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-239755"><a href="/win-an-xbox-360-kinect-bundle-in-our-christmas-kids-photo-contest/">Christmas Kids Photo Contest</a></li>
-<li id="menu-item-237972" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-237972"><a href="/listen-live/christmas-player">Christmas Radio</a></li>
-<li id="menu-item-238634" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-238634"><a href="/win-santas-stash-of-cash-1000-by-listening-10000-here-online/">Win $10,000 Cash</a></li>
+<li id="menu-item-282086" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-282086"><a href="/casper-fireworks-festival-2013-musical-line-up/">Fireworks Festival 2013</a></li>
+<li id="menu-item-288302" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-288302"><a href="/see-cheyenne-frontier-days-concerts-for-free/">CFD Contests</a></li>
+<li id="menu-item-284961" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-284961"><a href="/fathers-day-photo-contest/">Father’s Day Photo Contest</a></li>
+<li id="menu-item-282669" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-282669"><a href="/vip/contests/contest/be-a-vip-for-the-finals-of-cnfr-2013-in-casper/">Be a VIP at 2013 CNFR Finals</a></li>
+<li id="menu-item-249415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-249415"><a href="/category/hometown-heroes/">Hometown Heroes</a></li>
 <li id="menu-item-88752" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88752"><a href="http://k2radio.com/category/crime-2/">Crime</a></li>
 <li id="menu-item-88753" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88753"><a href="http://wyopreps.com/">WyoPreps</a></li>
 <li id="menu-item-88749" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88749"><a href="http://k2radio.com/casper-weather/">Weather</a></li>
 </ul></div>	</div>
-<div id="pushdown_ad" class="clearfix"><!-- /CAS_KTWO_PUSHDOWN -->
-		<script type="text/javascript">
-	GA_googleFillSlot("CAS_KTWO_PUSHDOWN");
-	</script>
-	</div>    <div id="content" class=" clearfix">
+<div id="pushdown_ad" class="tsmAd clearfix"></div>    <div id="content" class=" clearfix">
 
 
 
@@ -438,105 +271,105 @@ _gaq.push(['_trackPageview']);
 
 
 <div id="content_main" class="clearfix">
-    <section class="single page">
-        <article class="footer_link_legal">
-    <h1>Privacy</h1>
-    <div class="the_content">
-            <h3>About K2RADIO.COM</h3>
+	<section class="single page">
+		<article class="footer_link_legal">
+			<h1>Privacy</h1>
+			<div class="the_content">
+			<h3>About K2RADIO.COM</h3>
 
-        <p>This Privacy Policy is an integral part of the agreement between Townsquare Media, LLC ("Townsquare" or "we" or "us") and each visitor or registered user, as the case may be (each, a "user" or "you") concerning the use of the websites, including this website, owned, controlled, operated or hosted (whether now or in the future) by Townsquare and/or its corporate affiliates, including but not limited to K2RADIO.COM (collectively the "Websites"). The other integral part of this agreement is the Townsquare <a href="/terms">Terms of Use</a>.  All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be defined in the <a href="/terms">Terms of Use</a>.  If you have any questions concerning this Privacy Policy, please email us at <a href="http://k2radio.com/?geo-address=gbzzppnegulAgbjafdhnerzrqvnNpbz" class="geo-address share_link email">tommccarthy@townsquaremedia.com</a>.</p>
+<p>This Privacy Policy is an integral part of the agreement between Townsquare Media, LLC ("Townsquare" or "we" or "us") and each visitor or registered user, as the case may be (each, a "user" or "you") concerning the use of the websites, including this website, owned, controlled, operated or hosted (whether now or in the future) by Townsquare and/or its corporate affiliates, including but not limited to K2RADIO.COM (collectively the "Websites"). The other integral part of this agreement is the Townsquare <a href="/terms">Terms of Use</a>.  All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be defined in the <a href="/terms">Terms of Use</a>.  If you have any questions concerning this Privacy Policy, please email us at <a href="http://k2radio.com/?geo-address=gbzzppnegulAgbjafdhnerzrqvnNpbz" class="geo-address ">tommccarthy@townsquaremedia.com</a>.</p>
 
-        <h3>Information Collection and Use by the Websites</h3>
+<h3>Information Collection and Use by the Websites</h3>
 
-        <p>The Websites gather identifying information about individuals only when individuals provide that information on a voluntary basis pursuant to the voluntary registration process for the Websites. Such information includes, but is not limited to, name, age, gender, email address, cell phone number, personal interests, and physical address. We use this voluntary profile data to, (a) authenticate users, (b) send notifications to users relating to the Websites, (c) assist users in communicating with each other, and (d) make offers to users that we believe may be of interest to them based on their personal profile data. With the exception of email address, physical address and cell phone number, registered users' voluntary personal profile information, including pictures, are displayed to other registered users in order to facilitate user interaction. Registered users' user names are displayed to all users, although each verified user has the option of having his or her full name displayed to all users instead of his or her user name. Under no circumstances are email addresses, physical addresses and cell phone numbers directly revealed to other users or disclosed to third parties other than as set forth below in the "Sharing and Disclosure of Information" section.</p>
+<p>The Websites gather identifying information about individuals only when individuals provide that information on a voluntary basis pursuant to the voluntary registration process for the Websites. Such information includes, but is not limited to, name, age, gender, email address, cell phone number, personal interests, and physical address. We use this voluntary profile data to, (a) authenticate users, (b) send notifications to users relating to the Websites, (c) assist users in communicating with each other, and (d) make offers to users that we believe may be of interest to them based on their personal profile data. With the exception of email address, physical address and cell phone number, registered users' voluntary personal profile information, including pictures, are displayed to other registered users in order to facilitate user interaction. Registered users' user names are displayed to all users, although each verified user has the option of having his or her full name displayed to all users instead of his or her user name. Under no circumstances are email addresses, physical addresses and cell phone numbers directly revealed to other users or disclosed to third parties other than as set forth below in the "Sharing and Disclosure of Information" section.</p>
 
-        <p>We also log non-personally identifiable information about use of the Websites, including, but not limited to, IP address, profile information, pages visited, and browser type, from users of the Websites. This data is used for, among other things, to provide customized content to users, provide targeted offers to users, manage the site, track usage and improve the site services. This non-personally identifiable information may be shared with third-parties to provide more relevant services and advertisements to users.  User IP addresses are recorded for security and monitoring purposes.</p>
+<p>We also log non-personally identifiable information about use of the Websites, including, but not limited to, IP address, profile information, pages visited, and browser type, from users of the Websites. This data is used for, among other things, to provide customized content to users, provide targeted offers to users, manage the site, track usage and improve the site services. This non-personally identifiable information may be shared with third-parties to provide more relevant services and advertisements to users.  User IP addresses are recorded for security and monitoring purposes.</p>
 
-        <p>Users must provide us, at a minimum, with a valid email address in order to complete the voluntary registration process. Email addresses are used to send notifications related to the Websites and to communicate offers. Registered users may communicate with each other through the Websites without disclosing their email addresses.</p>
+<p>Users must provide us, at a minimum, with a valid email address in order to complete the voluntary registration process. Email addresses are used to send notifications related to the Websites and to communicate offers. Registered users may communicate with each other through the Websites without disclosing their email addresses.</p>
 
-        <p>Cell phone numbers are used to send SMS (short Message Service), text and voice message notifications related to the Websites and to communicate offers. Registered users may choose not to receive text messages from us by not providing their cell phone number to us at registration. Registered users who have provided their cell phone number to us may remove it from within their personal profile settings. Please note that standard message rates and data charges from your cellular service provider apply to sending and/or receiving text messages. You are solely responsible for such message rates and data charges.</p>
+<p>Cell phone numbers are used to send SMS (short Message Service), text and voice message notifications related to the Websites and to communicate offers. Registered users may choose not to receive text messages from us by not providing their cell phone number to us at registration. Registered users who have provided their cell phone number to us may remove it from within their personal profile settings. Please note that standard message rates and data charges from your cellular service provider apply to sending and/or receiving text messages. You are solely responsible for such message rates and data charges.</p>
 
-        <p>We do not sell or make available any individual user information to unrelated third parties, except to third parties that are providing services to the Websites or as provided in the "Sharing and Disclosure of Information" section below. We may aggregate user information for the purpose of user analyses and inform advertisers of the results of such analyses. In all such instances, we  will refer only to general, aggregate usage data from these analyses and will never provide specific identifying information. We may also aggregate user information for the purpose of making offers to users that we believe may be of interest to them.</p>
+<p>We do not sell or make available any individual user information to unrelated third parties, except to third parties that are providing services to the Websites or as provided in the "Sharing and Disclosure of Information" section below. We may aggregate user information for the purpose of user analyses and inform advertisers of the results of such analyses. In all such instances, we  will refer only to general, aggregate usage data from these analyses and will never provide specific identifying information. We may also aggregate user information for the purpose of making offers to users that we believe may be of interest to them.</p>
 
-        <p>From time to time, Townsquare or a partner, may sponsor a promotion, sweepstakes or contest on the Websites.  Users may be asked to provide personal information including name, email address or home address or to answer question in order to participate.  We may transfer personal information to certain ad partners that you have explicitly required to receive information from.  It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.</p>
+<p>From time to time, Townsquare or a partner, may sponsor a promotion, sweepstakes or contest on the Websites.  Users may be asked to provide personal information including name, email address or home address or to answer question in order to participate.  We may transfer personal information to certain ad partners that you have explicitly required to receive information from.  It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.</p>
 
-        <p>Third parties can read information voluntarily posted by registered users on the Websites. That information can be used by those third parties to send you unsolicited messages. We have no control over such unsolicited messages.</p>
+<p>Third parties can read information voluntarily posted by registered users on the Websites. That information can be used by those third parties to send you unsolicited messages. We have no control over such unsolicited messages.</p>
 
-        <p>By using any of the Websites, you affirmatively consent to this Privacy Policy and agree to have your personal information (to the extent disclosed by you to the Websites) collected by the Websites (or its agents or contractors).</p>
+<p>By using any of the Websites, you affirmatively consent to this Privacy Policy and agree to have your personal information (to the extent disclosed by you to the Websites) collected by the Websites (or its agents or contractors).</p>
 
-        <h3>User Content</h3>
+<h3>User Content</h3>
 
-        <p>Any information that you disclose when participating on the Websites (including creating a profile or submitting a comment to a story, a video or in a discussion thread), such as your full name and any nickname, is likely to become public. This information may be posted on the Websites. In addition, Townsquare, its affiliates and their licensees, may use, copy, sublicense, modify, transmit, publicly perform, display, create derivative works of, host, index, cache, tag, encode, and/or adapt any user Content, and any information contained therein, in any and all media formats or channels, whether now known or thereafter devised, including, but not limited to, the Websites, other Townsquare services, over the air and on mobile platforms. Further, other users of the Websites may embed a widget or feed that allows your user Content to appear on their personal, noncommercial website or page, blog or other application, subject to conditions set forth in the Terms of Use.</p>
+<p>Any information that you disclose when participating on the Websites (including creating a profile or submitting a comment to a story, a video or in a discussion thread), such as your full name and any nickname, is likely to become public. This information may be posted on the Websites. In addition, Townsquare, its affiliates and their licensees, may use, copy, sublicense, modify, transmit, publicly perform, display, create derivative works of, host, index, cache, tag, encode, and/or adapt any user Content, and any information contained therein, in any and all media formats or channels, whether now known or thereafter devised, including, but not limited to, the Websites, other Townsquare services, over the air and on mobile platforms. Further, other users of the Websites may embed a widget or feed that allows your user Content to appear on their personal, noncommercial website or page, blog or other application, subject to conditions set forth in the Terms of Use.</p>
 
-        <h3>Use of Cookies</h3>
+<h3>Use of Cookies</h3>
 
-        <p>The Websites uses cookies to store users' preferences, account status, traffic origination  and to record session information. We do not link the information we store in cookies to any personally identifiable information you submit while on our Websites. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. However, you must enable cookies from the specific website you wish to access in order to use most functions on such website. Third party advertisers on the Websites may have the ability to set and access their cookies on your computer. Advertisers' use of cookies are subject to their own privacy policies and are not subject to this Privacy Policy.</p>
+<p>The Websites uses cookies to store users' preferences, account status, traffic origination  and to record session information. We do not link the information we store in cookies to any personally identifiable information you submit while on our Websites. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. However, you must enable cookies from the specific website you wish to access in order to use most functions on such website. Third party advertisers on the Websites may have the ability to set and access their cookies on your computer. Advertisers' use of cookies are subject to their own privacy policies and are not subject to this Privacy Policy.</p>
 
-        <h3>Alternative Tracking Devices</h3>
+<h3>Alternative Tracking Devices</h3>
 
-        <p>We may use other industry standard technologies like pixel tags and web beacons to track your use of our Websites and promotions, or we may allow our third party service providers to use those devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Websites, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a non-personally identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Websites, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our affiliates or third party service providers for the same purposes.</p>
+<p>We may use other industry standard technologies like pixel tags and web beacons to track your use of our Websites and promotions, or we may allow our third party service providers to use those devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Websites, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a non-personally identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Websites, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our affiliates or third party service providers for the same purposes.</p>
 
-        <h3>Links</h3>
+<h3>Links</h3>
 
-        <p>The Websites contain links to other websites, applications and services maintained by third parties that may not follow the same privacy policies as the Websites. For instance, clicking on a third party logo or advertisement will take you to an entirely different site, application or service. These sites, applications and services may use cookies, collect data and use the data in ways that Townsquare would not. Townsquare  is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our Privacy Policy only governs information collected on the Websites. Furthermore, we bear no responsibility for any offensive material or violations of law on any site linked from the Websites.</p>
+<p>The Websites contain links to other websites, applications and services maintained by third parties that may not follow the same privacy policies as the Websites. For instance, clicking on a third party logo or advertisement will take you to an entirely different site, application or service. These sites, applications and services may use cookies, collect data and use the data in ways that Townsquare would not. Townsquare  is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our Privacy Policy only governs information collected on the Websites. Furthermore, we bear no responsibility for any offensive material or violations of law on any site linked from the Websites.</p>
 
-        <p>The Websites may include a tool that allows you to sign in or comment using information from your account with a third party service, such as Facebook, Twitter, Google or Yahoo. Please be aware that those third party services are unrelated to the Websites and that your use of the third party services is subject to the terms and policies of those services.</p>
+<p>The Websites may include a tool that allows you to sign in or comment using information from your account with a third party service, such as Facebook, Twitter, Google or Yahoo. Please be aware that those third party services are unrelated to the Websites and that your use of the third party services is subject to the terms and policies of those services.</p>
 
-        <h3>Correcting/Updating Information and Terminating Registration</h3>
+<h3>Correcting/Updating Information and Terminating Registration</h3>
 
-        <p>Registered users may modify any of their personal information at any time by logging into their account and accessing their personal profile. Registered users may terminate their registration at any time, for any reason, by contacting <a href="http://k2radio.com/?geo-address=gbzzppnegulAgbjafdhnerzrqvnNpbz" class="geo-address share_link email">tommccarthy@townsquaremedia.com</a>. Terminating your registration will not necessarily remove previous public comments and other user Content on public display on the Websites. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions.</p>
+<p>Registered users may modify any of their personal information at any time by logging into their account and accessing their personal profile. Registered users may terminate their registration at any time, for any reason, by contacting <a href="http://k2radio.com/?geo-address=gbzzppnegulAgbjafdhnerzrqvnNpbz" class="geo-address ">tommccarthy@townsquaremedia.com</a>. Terminating your registration will not necessarily remove previous public comments and other user Content on public display on the Websites. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions.</p>
 
-        <h3>Third Party Advertising</h3>
+<h3>Third Party Advertising</h3>
 
-        <p>Ads appearing on the Websites may be delivered to users by Townsquare or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Townsquare and does not cover the use of cookies by any advertisers.</p>
+<p>Ads appearing on the Websites may be delivered to users by Townsquare or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Townsquare and does not cover the use of cookies by any advertisers.</p>
 
-        <h3>Agents</h3>
+<h3>Agents</h3>
 
-        <p>We use a third party company to prepare and ship products ordered on our Websites. Our fulfillment company has access to your full name and shipping address to complete this transaction but does not retain, share, store or use personally identifiable information for any other purposes.</p>
+<p>We use a third party company to prepare and ship products ordered on our Websites. Our fulfillment company has access to your full name and shipping address to complete this transaction but does not retain, share, store or use personally identifiable information for any other purposes.</p>
 
-        <h3>Service Providers</h3>
+<h3>Service Providers</h3>
 
-        <p>We may use third party providers to process payments. When you checkout of our store, you will be asked to enter your first and last name, credit card information, billing and shipping address as necessary to complete your transaction. We do not store any of our users credit card information in our database.</p>
+<p>We may use third party providers to process payments. When you checkout of our store, you will be asked to enter your first and last name, credit card information, billing and shipping address as necessary to complete your transaction. We do not store any of our users credit card information in our database.</p>
 
-        <h3>Opt-out</h3>
+<h3>Opt-out</h3>
 
-        <p>Registered users may choose to no longer receive updates or notifications by managing their email and text message preferences in their personal profile settings.</p>
+<p>Registered users may choose to no longer receive updates or notifications by managing their email and text message preferences in their personal profile settings.</p>
 
-        <h3>Security</h3>
+<h3>Security</h3>
 
-        <p>We have in place what we believe to be appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. Credit card information provided to the Websites is protected against unauthorized use by 128-bit encryption and Secure Sockets Layer (SSL) security features, which scramble your personal information so that only your browser and the Websites can decipher it. However, no internet, email or mobile transmission is ever fully secure or error free. Because most email and mobile transmissions are not encrypted, you should take special care in deciding what information you send to us via email, text message, SMS or other mobile transmission.</p>
+<p>We have in place what we believe to be appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. Credit card information provided to the Websites is protected against unauthorized use by 128-bit encryption and Secure Sockets Layer (SSL) security features, which scramble your personal information so that only your browser and the Websites can decipher it. However, no internet, email or mobile transmission is ever fully secure or error free. Because most email and mobile transmissions are not encrypted, you should take special care in deciding what information you send to us via email, text message, SMS or other mobile transmission.</p>
 
-        <p>Registered user accounts are secured by user-created passwords. Townsquare uses reasonable measures to protect registered user information that is stored within our database. Please note that we cannot guarantee the security of registered user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of registered user information at any time. We will endeavor to notify users in the event that the security of their personal information is breached or compromised. By submitting personal information on any of the Websites, you expressly consent to receiving our notification regarding any breach or compromise, or suspected breach or compromise, of the security of your personal information, by email or postal mail, as we deem appropriate, and as required by law. For any additional information about the security measures we use on the Websites, please contact us at <a href="http://k2radio.com/?geo-address=gbzzppnegulAgbjafdhnerzrqvnNpbz" class="geo-address share_link email">tommccarthy@townsquaremedia.com</a>.</p>
+<p>Registered user accounts are secured by user-created passwords. Townsquare uses reasonable measures to protect registered user information that is stored within our database. Please note that we cannot guarantee the security of registered user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of registered user information at any time. We will endeavor to notify users in the event that the security of their personal information is breached or compromised. By submitting personal information on any of the Websites, you expressly consent to receiving our notification regarding any breach or compromise, or suspected breach or compromise, of the security of your personal information, by email or postal mail, as we deem appropriate, and as required by law. For any additional information about the security measures we use on the Websites, please contact us at <a href="http://k2radio.com/?geo-address=gbzzppnegulAgbjafdhnerzrqvnNpbz" class="geo-address ">tommccarthy@townsquaremedia.com</a>.</p>
 
-        <p>We urge you to keep your username, password and other account access information in a safe place and not to divulge it to anyone. Also, remember to sign off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in public place such as a library or an internet café.</p>
+<p>We urge you to keep your username, password and other account access information in a safe place and not to divulge it to anyone. Also, remember to sign off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in public place such as a library or an internet café.</p>
 
-        <h3>Sharing and Disclosure of Information</h3>
+<h3>Sharing and Disclosure of Information</h3>
 
-        <p>Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless we believe that disclosure is necessary: (a) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by us; (b) to enforce our Terms of Use Agreement or to protect our rights; (c) to protect the safety of members of the public and users of the Websites or d) the user requests to be contacted with additional information, materials or special offers from third parties. If a registered user elects to opt-in to receive information, materials or special offers from these third parties, the user gives Townsquare permission to transfer personal information to our partners to fulfill such a request. The Websites will only share secure user information with those advertisers or category of advertisers you specifically opt-in to. Third party partners have separate privacy and data collection practices; Townsquare has no responsibility or liability for these independent policies. If you do not want your personal information shared with advertisers, please select the option to not participate in our opt-in program. Our Site also provides users the opportunity to opt-out of receiving communications from us and our advertisers at the point where we request information about the visitor. We give users the option to remove their information from our database, to not receive future communications, or to no longer receive our service, by submitting your request to <a href="http://k2radio.com/?geo-address=gbzzppnegulAgbjafdhnerzrqvnNpbz" class="geo-address share_link email">tommccarthy@townsquaremedia.com</a>. Townsquare reserves the right to transfer, disclose or sell personal information as part of a business divestiture, sale, merger, or acquisition of one or more of its Websites, Townsquare or substantially all of its assets. For more information see the "Changes in Our Privacy Policy" section below.</p>
+<p>Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless we believe that disclosure is necessary: (a) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by us; (b) to enforce our Terms of Use Agreement or to protect our rights; (c) to protect the safety of members of the public and users of the Websites or d) the user requests to be contacted with additional information, materials or special offers from third parties. If a registered user elects to opt-in to receive information, materials or special offers from these third parties, the user gives Townsquare permission to transfer personal information to our partners to fulfill such a request. The Websites will only share secure user information with those advertisers or category of advertisers you specifically opt-in to. Third party partners have separate privacy and data collection practices; Townsquare has no responsibility or liability for these independent policies. If you do not want your personal information shared with advertisers, please select the option to not participate in our opt-in program. Our Site also provides users the opportunity to opt-out of receiving communications from us and our advertisers at the point where we request information about the visitor. We give users the option to remove their information from our database, to not receive future communications, or to no longer receive our service, by submitting your request to tommccarthy@townsquaremedia.com. Townsquare reserves the right to transfer, disclose or sell personal information as part of a business divestiture, sale, merger, or acquisition of one or more of its Websites, Townsquare or substantially all of its assets. For more information see the "Changes in Our Privacy Policy" section below.</p>
 
-        <h3>Children's Privacy</h3>
+<h3>Children's Privacy</h3>
 
-        <p>Under 13: You must be at least 13 years old in order to register for email newsletters or other features of the Websites. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally identifiable information from a child under the age of 13, we will remove that information from our database as soon as possible.</p>
+<p>Under 13: You must be at least 13 years old in order to register for email newsletters or other features of the Websites. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally identifiable information from a child under the age of 13, we will remove that information from our database as soon as possible.</p>
 
-        <p>Ages 13-18: You must be at least 18 years old in order to submit any Content on our Websites, create a profile, participate in any online contests, or place an order on our Websites. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for email newsletters or other features of the Websites or otherwise sending any personally identifiable information.</p>
+<p>Ages 13-18: You must be at least 18 years old in order to submit any Content on our Websites, create a profile, participate in any online contests, or place an order on our Websites. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for email newsletters or other features of the Websites or otherwise sending any personally identifiable information.</p>
 
-        <h3>International User Notice</h3>
+<h3>International User Notice</h3>
 
-        <p>For international users, please note that it may be necessary to transfer your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union: the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that your privacy is protected as described in this Privacy Policy. By using the Websites, you agree to have your information used and transferred to the United States as set forth in this policy.</p>
+<p>For international users, please note that it may be necessary to transfer your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union: the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that your privacy is protected as described in this Privacy Policy. By using the Websites, you agree to have your information used and transferred to the United States as set forth in this policy.</p>
 
-        <h3>Changes in Our Privacy Policy</h3>
+<h3>Changes in Our Privacy Policy</h3>
 
-        <p>From time to time we may make changes to our Privacy Policy. If we make changes, we will post them on the Websites to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any changes to the policy when she or he uses the Websites after those changes have been posted. If, however, we intend to disclose users' personally identifiable information in a manner different from that stated at the time of collection, we will post a notice of such intent on the Websites 30 days prior to such action.</p>
+<p>From time to time we may make changes to our Privacy Policy. If we make changes, we will post them on the Websites to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any changes to the policy when she or he uses the Websites after those changes have been posted. If, however, we intend to disclose users' personally identifiable information in a manner different from that stated at the time of collection, we will post a notice of such intent on the Websites 30 days prior to such action.</p>
 
-        <h3>Contacting Us</h3>
+<h3>Contacting Us</h3>
 
-        <p>If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please <a href="http://k2radio.com/?geo-address=gbzzppnegulAgbjafdhnerzrqvnNpbz" class="geo-address share_link email">tommccarthy@townsquaremedia.com</a>.</p>
+<p>If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please <a href="http://k2radio.com/?geo-address=gbzzppnegulAgbjafdhnerzrqvnNpbz" class="geo-address ">contact us</a>.</p>
 
-        <h3>Effective Date</h3>
+<h3>Effective Date</h3>
 
-        <p>This Privacy Policy is effective as of November 1, 2010. It was last updated on February 7, 2011.</p>
-        </div>
-</article>    </section>
+<p>This Privacy Policy is effective as of November 1, 2010. It was last updated on February 7, 2011.</p>			</div>
+		</article>
+	</section>
 </div>
 
 
@@ -544,132 +377,101 @@ _gaq.push(['_trackPageview']);
     <div id="widget_listen_live-4" class="widget widget_listen_live listen_live_bar clearfix"><div class="listen-live-bar">
     <a href="/listen-live/" class="listen-live-button"><em></em>Listen Live</a>
 </div>
-</div><div id="google-ads-widget-7" class="widget google-ads-widget clearfix"><!-- /CAS_KTWO_TOP_RIGHT_TILE_AD_300X250 -->
-		<script type="text/javascript">
-	GA_googleFillSlot("CAS_KTWO_TOP_RIGHT_TILE_AD_300X250");
-	</script>
-	</div><div id="widget_onair-3" class="widget widget_onair  clearfix"><div class="widget_header clearfix"><h4>ON AIR NOW</h4></div>        <article>
-                        <figure>
-                <a href="http://k2radio.com/show/coast-to-coast-am/"><img width="145" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" datasrc="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2010/11/George-Noory-Coast-to-Coast-AM.jpg?w=145&amp;h=0&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" class="attachment-145w ts_lazy_load_image" alt="Austin Ideen Pleads Not Guilty To Aggravated Assault and Aggravated Burglary Charges" title="Austin Ideen Pleads Not Guilty To Aggravated Assault and Aggravated Burglary Charges"></a>
-            </figure>
-                        <div class="excerpt clearfix">
-                <h4><a href="http://k2radio.com/show/coast-to-coast-am/">Coast to Coast AM</a></h4>
-                <p class="links">
-                    <span class="onair_show_wall"><a href="http://k2radio.com/show/coast-to-coast-am/">Wall</a>|</span>
-                    <span class="onair_show_posts"><a href="http://k2radio.com/show/coast-to-coast-am/posts">Posts</a>|</span>
-                                        <span class="onair_show_email"><a href="mailto:tommccarthy@townsquaremedia.com">Email</a></span>
-                                                            <span class="onair_show_phone">Call in 307-266-5252</span>
-                                    </p>
-            </div>
-        </article>
-        </div><div id="featured_profiles-3" class="widget featured_profiles  clearfix"><div class="widget_header clearfix"><h4>Meet the Team</h4></div>        <div class="profiles_wrap">
-                    <a class="featured_profile" href="http://k2radio.com/author/bscott/">
-                <img src="http://mycountry955.com/files/2012/03/Brian.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">                <span>Brian Scott</span>
-            </a>
-                    <a class="featured_profile" href="http://k2radio.com/author/bdougherty/">
-                <img src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2011/06/Bruce.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">                <span>Bruce Dougherty</span>
-            </a>
-                    <a class="featured_profile" href="http://k2radio.com/author/rdenison/">
-                <img src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2012/05/profile1.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">                <span>Rich Denison</span>
-            </a>
-                    <a class="featured_profile" href="http://k2radio.com/author/ksnyder/">
-                <img src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2012/05/Karen-Snyder.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">                <span>Karen Snyder</span>
-            </a>
-                    <a class="featured_profile" href="http://k2radio.com/author/kkoile/">
-                <img src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2011/09/KevinKoile245.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">                <span>Kevin Koile</span>
-            </a>
-                    <a class="featured_profile" href="http://k2radio.com/author/tmccarthy/">
-                <img src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2012/05/Tom-McCarthy.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">                <span>Tom McCarthy</span>
-            </a>
-                </div>
-        <p class="more_act"><a href="/djs/" title="Austin Ideen Pleads Not Guilty To Aggravated Assault and Aggravated Burglary Charges">See All Staff</a></p></div><div id="widget_facebook_like_activity_widget-5" class="widget widget_facebook_like_activity_widget  clearfix"><div class="widget_header clearfix"><h4>K2 ON FACEBOOK</h4></div>        <div class="widget_bg">
+</div><div id="google-ads-widget-7" class="widget google-ads-widget clearfix"><div id="top-right-300x250"><script type="text/javascript">googletag.cmd.push(function(){googletag.display("top-right-300x250");});</script></div></div><div id="widget_onair-3" class="widget widget_onair  clearfix"><div class="widget_header clearfix"><h4>ON AIR NOW</h4></div><article>
+			<figure>
+			<a href="http://k2radio.com/show/the-glenn-beck-program/"><img width="145" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-145w wp-post-image sonar_image" alt="Glenn Beck" title="Glenn Beck" datasrc="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2010/11/Glenn-Beck.jpg?w=145&amp;h=0&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+		</figure>
+			<div class="excerpt clearfix">
+		<h4><a href="http://k2radio.com/show/the-glenn-beck-program/">The Glenn Beck Program</a></h4>
+		<p class="links">
+			<span class="onair_show_wall"><a href="http://k2radio.com/show/the-glenn-beck-program/">Wall</a>|</span>
+			<span class="onair_show_posts"><a href="http://k2radio.com/show/the-glenn-beck-program/posts">Posts</a>|</span>
+							<span class="onair_show_email"><a href="mailto:tommccarthy@townsquaremedia.com">Email</a></span>
+										<span class="onair_show_phone">Call in 307-266-5252</span>
+					</p>
+	</div>
+</article>
+</div><div id="featured_profiles-3" class="widget featured_profiles  clearfix"><div class="widget_header clearfix"><h4>Meet the Team</h4></div><div class="profiles_wrap">
+			<a class="featured_profile" href="http://k2radio.com/author/bscott/">
+			<img src="http://mycountry955.com/files/2012/03/Brian.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Brian Scott</span>
+		</a>
+				<a class="featured_profile" href="http://k2radio.com/author/bdougherty/">
+			<img src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2011/06/Bruce.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Bruce Dougherty</span>
+		</a>
+				<a class="featured_profile" href="http://k2radio.com/author/rdenison/">
+			<img src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2013/04/profile1.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Rich Denison</span>
+		</a>
+				<a class="featured_profile" href="http://k2radio.com/author/kkoile/">
+			<img src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2011/09/KevinKoile245.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Kevin Koile</span>
+		</a>
+				<a class="featured_profile" href="http://k2radio.com/author/apollreisz/">
+			<img src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2013/04/IMG_1215.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Anthony Pollreisz</span>
+		</a>
+				<a class="featured_profile" href="http://k2radio.com/author/tmccarthy/">
+			<img src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2012/05/Tom-McCarthy.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Tom McCarthy</span>
+		</a>
+		</div>
+	<p class="more_act"><a href="/djs/" title="See All Staff">See All Staff</a></p>
+	</div><div id="widget_facebook_like_activity_widget-5" class="widget widget_facebook_like_activity_widget  clearfix"><div class="widget_header clearfix"><h4>K2 ON FACEBOOK</h4></div>        <div class="widget_bg">
 	                    <div id="fb-combo-bottom">
-                <iframe src="http://www.facebook.com/plugins/likebox.php?&amp;href=http%3A%2F%2Fwww.facebook.com%2Fk2radioKTWO&amp;width=300&amp;height=350&amp;connections=15&amp;colorscheme=light&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none;overflow:hidden;width:300px;height:350px;connections:15;" allowtransparency="true"></iframe>
+	            <fb:like-box href="http://www.facebook.com/k2radioKTWO" width="300" height="350" colorscheme="light" border_color="#FFFFFF" show_faces="true" stream="false" header="false"></fb:like-box>
             </div>
-
+			
                         <div class="sponsor">
                 <strong>Our Facebook page is sponsored by:</strong>
-                                <span class="sponsor_like">
-				<iframe src="http://www.facebook.com/plugins/likebox.php?&amp;href=https%3A%2F%2Fwww.facebook.com%2FSeizetheDealCasperWY&amp;width=300&amp;height=70&amp;border_color=&amp;colorscheme=light&amp;stream=false&amp;header=false&amp;show_faces=false" scrolling="no" frameborder="0" style="border:none;overflow:hidden;width:300px;height:70px;" allowtransparency="true"></iframe>
-			</span>
+	            <span class="sponsor_like">
+	                <fb:like-box href="https://www.facebook.com/SeizetheDealCasperWY" width="300" height="70" colorscheme="light" border_color="#FFFFFF" show_faces="false" stream="false" header="false"></fb:like-box>
+                </span>
             </div>
-                    </div><!-- widget_bg -->
-        </div>
-<style>
-#ts_blogroll-6.sponsored.widget .widget_header { background-image: url("http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2012/11/4486-Widget-338x73-bg.jpg"); }
-#ts_blogroll-6.sponsored.widget .widget_title { text-shadow: 1px 1px #000000; }
-#ts_blogroll-6.sponsored.widget .widget_header { background-repeat: no-repeat; }
-</style><div id="ts_blogroll-6" class="sponsored widget ts_blogroll  clearfix"><div class="widget_header clearfix"><h4><a title="Brattis Meat Market" class="sponsor_image" href="http://www.brattismeatmarket.com" target="_blank"><img alt="Brattis Meat Market" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2012/11/4486-Widget-logo2.png"></a>Christmas</h4></div><article class="small_thumb_title_date  clearfix">
-        <figure>
-        <a href="http://k2radio.com/vip/contests/contest/win-2-full-day-hogadon-ski-area-lift-tickets-5/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" datasrc="http://loyalty.production.townsquaresites.com/files/2012/09/Hogadon-Ski-Area.jpeg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" class="attachment-aside/landscape/4 ts_lazy_load_image" alt="Win 2 Full-Day Hogadon Ski Area Lift Tickets" title="Win 2 Full-Day Hogadon Ski Area Lift Tickets"></a>
-    </figure>
-        <div class="excerpt clearfix">
-        <a href="http://k2radio.com/vip/contests/contest/win-2-full-day-hogadon-ski-area-lift-tickets-5/">Win 2 Full-Day Hogadon Ski Area Lift Tickets</a>
-        <em>2 days ago</em>
-    </div>
-</article>
-<article class="small_thumb_title_date last clearfix">
-        <figure>
-        <a href="http://k2radio.com/win-an-xbox-360-kinect-bundle-in-our-christmas-kids-photo-contest/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" datasrc="http://theriver1079.com/files/2012/11/Christmas-Kids-Photo-Contest.jpeg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" class="attachment-aside/landscape/4 ts_lazy_load_image" alt="It just wouldn’t be Christmas without those great photo opportunities of kids getting in the holiday spirit." title="Win an Xbox 360 Kinect Bundle in our 'Christmas Kids' Photo Contest"></a>
-    </figure>
-        <div class="excerpt clearfix">
-        <a href="http://k2radio.com/win-an-xbox-360-kinect-bundle-in-our-christmas-kids-photo-contest/">Win an Xbox 360 Kinect Bundle in our ‘Christmas Kids’ Photo Contest</a>
-        <em>3 days ago</em>
-    </div>
-</article>
-</div><div id="gform_widget-5" class="widget gform_widget clearfix"><div class="widget_header clearfix"><h4>Newsletter</h4></div>
-                <div class="gform_wrapper" id="gform_wrapper_11"><form method="post" enctype="multipart/form-data" id="gform_11" action="http://k2radio.com/privacy/">
-                        <div class="gform_heading">
-                            <span class="gform_description"><br>Enter your email to receive our latest news directly to your inbox every day!<br><br></span>
-                        </div>
-                        <div class="gform_body">
-                            <ul id="gform_fields_11" class="gform_fields top_label"><li id="field_11_1" class="gfield"><label class="gfield_label" for="input_11_1">Email<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_1" id="input_11_1" type="text" value="" class="large" tabindex="1"></div></li>
-                            </ul></div>
-        <div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_11" class="button gform_button" value="SIGN UP NOW" tabindex="2">
-            <input type="hidden" class="gform_hidden" name="is_submit_11" value="1">
-            <input type="hidden" class="gform_hidden" name="gform_submit" value="11">
-            <input type="hidden" class="gform_hidden" name="gform_unique_id" value="50b5e65440a97">
-            <input type="hidden" class="gform_hidden" name="state_11" value="YToyOntpOjA7czo2OiJhOjA6e30iO2k6MTtzOjMyOiI4MDFmZmQ2ZDMyZjgyNGM5YzlkNjk0Y2VhMmNjMWRjZCI7fQ==">
-            <input type="hidden" class="gform_hidden" name="gform_target_page_number_11" id="gform_target_page_number_11" value="0">
-            <input type="hidden" class="gform_hidden" name="gform_source_page_number_11" id="gform_source_page_number_11" value="1">
-            <input type="hidden" name="gform_field_values" value="">
-            
-        </div>
-                </form>
-                </div></div><div id="loyalty_widgets_sidebar_feed-10" class="widget widget_loyalty_widgets_sidebar_feed clearfix"><div class="widget_header clearfix"><h4>Contests + Prizes</h4></div>        <article class=" clearfix">
+                    </div>
+        </div><div id="tsq_sailthru_newsletter_widget-2" class="widget tsq_sailthru_newsletter_widget TSQ_sailthru_newsletter_widget_class clearfix"><div class="widget_header clearfix"><h4>Daily Newsletter</h4></div><div class="gform_wrapper">
+				<form action="" method="post">
+					<div class="gform_heading">
+					<span class="gform_description">Sign up for our newsletter!</span>
+				</div>
+				<div class="sailthru-newsletter">
+					<input class="sailthru-email" type="text" name="email" value="" placeholder="email address">
+					<div>
+						<input type="hidden" name="list" value="KTWO MASTER LIST">
+						<input type="hidden" name="tsq-st-widget-is_submitted" value="true">
+						<input type="submit" class="button sailthru-button" value="SIGN UP NOW">
+					</div>
+				</div>
+				</form>
+			</div></div><div id="loyalty_widgets_sidebar_feed-10" class="widget widget_loyalty_widgets_sidebar_feed clearfix"><div class="widget_header clearfix"><h4>Contests + Prizes</h4></div>        <article class=" clearfix">
             <figure>
-                <a href="http://k2radio.com/vip/contests/contest/win-2-full-day-hogadon-ski-area-lift-tickets-5/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" datasrc="http://loyalty.production.townsquaresites.com/files/2012/09/Hogadon-Ski-Area.jpeg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" class="attachment-w102_h64 ts_lazy_load_image" alt="Win 2 Full-Day Hogadon Ski Area Lift Tickets" title="Win 2 Full-Day Hogadon Ski Area Lift Tickets"></a>
+                <a href="http://k2radio.com/vip/contests/contest/win-30-for-a-video-pack-at-mills-bingo-2/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w102_h64 wp-post-image sonar_image" alt="Bingo" title="Bingo" datasrc="http://loyalty.production.townsquaresites.com/files/2013/04/BingoSTOCK2.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
             </figure>
-            <a href="http://k2radio.com/vip/contests/contest/win-2-full-day-hogadon-ski-area-lift-tickets-5/" class="excerpt">
-                <h5>Hogadon Ski Area</h5>
-                <p>Win 2 Full-Day Passes!</p>
+            <a href="http://k2radio.com/vip/contests/contest/win-30-for-a-video-pack-at-mills-bingo-2/" class="excerpt">
+                <h5>Win $30 For A Video Pack at...</h5>
+                <p>You had better put your game face on and warm up those vocal chords, because it’s time to sh...</p>
             </a>
         </article>
                 <article class="last clearfix">
             <figure>
-                <a href="http://k2radio.com/vip/contests/contest/cowgirl-basketball-home-game-tickets/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" datasrc="http://loyalty.production.townsquaresites.com/files/2012/10/Wyo-Fans-Cropped.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" class="attachment-w102_h64 ts_lazy_load_image" alt="Cowgirl Basketball Home Game Tickets" title="Cowgirl Basketball Home Game Tickets"></a>
+                <a href="http://k2radio.com/vip/contests/contest/win-10-at-coffee-works-in-casper-2/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w102_h64 wp-post-image sonar_image" alt="Coffee Works" title="Coffee Works" datasrc="http://loyalty.production.townsquaresites.com/files/2013/03/CappucinoCup2Resized.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
             </figure>
-            <a href="http://k2radio.com/vip/contests/contest/cowgirl-basketball-home-game-tickets/" class="excerpt">
-                <h5>Win Cowgirl Tickects</h5>
-                <p>Townsquare Media in Laramie is giving away 5 pair of Cowgirl Basketball tickets to each home...</p>
+            <a href="http://k2radio.com/vip/contests/contest/win-10-at-coffee-works-in-casper-2/" class="excerpt">
+                <h5>Win $10 At Coffee Works In...</h5>
+                <p>Take a break from it all and enjoy something delicious at Coffee Works. They offer a great...</p>
             </a>
         </article>
         </div><div id="loyalty_widgets_sidebar_feed-11" class="widget widget_loyalty_widgets_sidebar_feed clearfix"><div class="widget_header clearfix"><h4>Games + Trivia</h4></div>        <article class=" clearfix">
             <figure>
-                <a href="http://k2radio.com/vip/trivia/movie-trivia-7/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" datasrc="http://loyalty.production.townsquaresites.com/files/2012/11/screenjunkiesstock5.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" class="attachment-w102_h64 ts_lazy_load_image" alt="Movie Trivia" title="Movie Trivia"></a>
+                <a href="http://k2radio.com/vip/q-and-a/polls/work-week-poll/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w102_h64 wp-post-image sonar_image" alt="Friday" title="Friday" datasrc="http://loyalty.production.townsquaresites.com/files/2013/06/Friday.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
             </figure>
-            <a href="http://k2radio.com/vip/trivia/movie-trivia-7/" class="excerpt">
-                <h5>Movie Trivia</h5>
-                <p>What actor will play Batman in a Justice League film?</p>
+            <a href="http://k2radio.com/vip/q-and-a/polls/work-week-poll/" class="excerpt">
+                <h5>Work Week Poll</h5>
+                <p>Some weeks at work feel like they last forever. &nbsp;In other parts of the world some people work...</p>
             </a>
         </article>
                 <article class="last clearfix">
             <figure>
-                <a href="http://k2radio.com/vip/trivia/tv-trivia-8/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" datasrc="http://loyalty.production.townsquaresites.com/files/2012/11/tv-33.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" class="attachment-w102_h64 ts_lazy_load_image" alt="TV Trivia" title="TV Trivia"></a>
+                <a href="http://k2radio.com/vip/links/featured-links/learn-more-about-body-n-motion-link/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w102_h64 wp-post-image sonar_image" alt="149465367" title="149465367" datasrc="http://loyalty.production.townsquaresites.com/files/2013/06/149465367.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
             </figure>
-            <a href="http://k2radio.com/vip/trivia/tv-trivia-8/" class="excerpt">
-                <h5>TV Trivia</h5>
-                <p>Actors Who Play Teens on TV</p>
+            <a href="http://k2radio.com/vip/links/featured-links/learn-more-about-body-n-motion-link/" class="excerpt">
+                <h5>Learn More About Body N Motion...</h5>
+                <p>Visit the website for 250 points!</p>
             </a>
         </article>
         </div><div id="weather-widget-current-3" class="widget weather-widget-current clearfix"><div class="widget_header clearfix"><h4>Casper Forecast</h4></div><div id="wreport-wid">            <div id="whldr">
@@ -678,15 +480,15 @@ _gaq.push(['_trackPageview']);
                         <li class="temp">
 
 
-                            <p class="tmprtre"><a href="/casper-weather/">39°<span> F</span></a></p>                        </li>
+                            <p class="tmprtre"><a href="/casper-weather/">53°<span> F</span></a></p>                        </li>
 
                         <li class="tlist">
                             <ul>
-                                <li><span>Humidity: </span><em>39%</em></li>
-                                <li><span>Wind Speed: </span><em>SW 14 MPH</em></li>
-                                <li><span>Barometer: </span><em>30.13"</em></li>
-                                <li><span>Dewpoint: </span><em>16°F (-8°C)</em></li>
-                                <li><span>Visibility: </span><em>10 mi.</em></li>
+                                <li><span>Humidity: </span><em>86%</em></li>
+                                <li><span>Wind Speed: </span><em>ENE 9 MPH</em></li>
+                                <li><span>Barometer: </span><em>29.96"</em></li>
+                                <li><span>Dewpoint: </span><em>49°F (9°C)</em></li>
+                                <li><span>Visibility: </span><em>3 mi.</em></li>
                             </ul>
                         </li>
 
@@ -695,12 +497,12 @@ _gaq.push(['_trackPageview']);
 
                 <div class="wicon border_left">
                     <p>
-                        <a href="/casper-weather/"><img width="50" height="50" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/weather-widget/wicons/wx_97.png"></a>
+                        <a href="/casper-weather/"><img width="50" height="50" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/weather-widget/wicons/wx_82.png"></a>
                     </p>
 
-                    <p>Clear</p>
+                    <p>Overcast</p>
                     <p class="shrtphrase">
-                        Mix of sun and clouds                    </p>
+                        Slight chance of a thunderstorm                    </p>
                 </div>
 
                 <!--<div id="lbtn">
@@ -712,210 +514,243 @@ _gaq.push(['_trackPageview']);
 
 
             <p class="more_act"><a href="http://k2radio.com/casper-weather/" title="View 5 Day Forecast">View 5 Day Forecast</a></p>        </div>
-        </div><div id="widget_std-3" class="widget widget_std  clearfix"><div class="widget_header clearfix"><h4>Sign up today!</h4></div>        <div class="textwidget">
-            <div class="std_img"><a href="http://www.seizethedeal.com" target="_blank"><img src="http://production.townsquaresites.com/wp-content/uploads/2011/09/seizeDeal.jpg" height="200" width="300"></a></div>
-            <div class="std_desc widget_bg"><a href="http://www.seizethedeal.com" target="_blank">Seize the Deal offers one incredible online deal every day from dining deals to haircut coupons, spa deals to salon discounts and much more. </a></div>
-        </div>
-        </div><div id="promotion-3" class="widget promotion  clearfix"><div class="widget_header clearfix"><h4>Christmas Radio</h4></div>            <article class="single">
-                                <figure>
-                                        <a href="/listen-live/christmas-player" target=""><img width="300" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-300w ts_lazy_load_image" alt="Christmas Radio" title="Christmas Radio" datasrc="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2012/11/Christmas-Radio.jpg?w=300&amp;h=0&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
-                                    </figure>
-                                <div class="excerpt clearfix">
-                                        <p>The Santa Station - 24/7 commercial-free Christmas music!</p>
-                                    </div>
-            </article>
-            <p class="more_act"><a href="/listen-live/christmas-player" title="TV Trivia">Launch the Santa Station</a></p></div><div id="ts_blogroll-3" class="widget ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>NEWS ON DEMAND</h4></div><article class="small_thumb_title_date last clearfix">
+        </div><div id="widget_std-3" class="widget widget_std  clearfix"><div class="widget_header clearfix"><h4>Casper's Deals</h4></div><div class="textwidget">
+	<div class="std_banner"><a href="http://www.seizethedeal.com/deals/hot-tub-winterization-check-from-best-spas-of-wyoming?d=d&amp;utm_source=KTWOAM&amp;utm_campaign=WP-right-rail" target="_blank"><img src="http://production.townsquaresites.com/wp-content/uploads/2011/09/StDHeader.png"></a></div>
+	<div class="std_img"><a href="http://www.seizethedeal.com/deals/hot-tub-winterization-check-from-best-spas-of-wyoming?d=d&amp;utm_source=KTWOAM&amp;utm_campaign=WP-right-rail" target="_blank"><img src="http://6fdae3b69909ba81a623-dba1f64a3f969774cdd587a3528671a8.r28.cf1.rackcdn.com/medias/1914/mini/womaninpool.jpg?1349193295" height="200" width="300"></a></div>
+	<div class="std_desc widget_bg"><a href="http://www.seizethedeal.com/deals/hot-tub-winterization-check-from-best-spas-of-wyoming?d=d&amp;utm_source=KTWOAM&amp;utm_campaign=WP-right-rail" target="_blank">Hot Tub Winterization Check From Best Spas of Wyoming</a></div>
+	<p class="more_act std_buy"><a href="http://www.seizethedeal.com/deals/hot-tub-winterization-check-from-best-spas-of-wyoming?d=d&amp;utm_source=KTWOAM&amp;utm_campaign=WP-right-rail" title="Buy This Deal Now" target="_blank">Buy This Deal Now</a></p>
+</div>
+</div><div id="ts_blogroll-6" class="widget ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>BS in the Morning</h4></div><article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://k2radio.com/council-to-review-city-strategic-plan-adoption-afternoon-update-audio/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" datasrc="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2012/04/council-smokeKaren-Snyder-K2-Radio-028.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" class="attachment-aside/landscape/4 ts_lazy_load_image" alt="Council To Review City Strategic Plan Adoption-Afternoon Update [AUDIO]" title="Council To Review City Strategic Plan Adoption-Afternoon Update [AUDIO]"></a>
+        <a href="http://k2radio.com/4-year-old-takes-advantage-of-open-mic-to-sing-george-strait-video/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="youtube" title="george" datasrc="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2013/06/george.png?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://k2radio.com/council-to-review-city-strategic-plan-adoption-afternoon-update-audio/">Council To Review City Strategic Plan Adoption-Afternoon Update [AUDIO]</a>
+        <a href="http://k2radio.com/4-year-old-takes-advantage-of-open-mic-to-sing-george-strait-video/">4 Year Old Takes Advantage Of Open Mic To Sing George Strait [VIDEO]</a>
+        <em>3 days ago</em>
+    </div>
+</article>
+<article class="small_thumb_title_date  clearfix">
+        <figure>
+        <a href="http://k2radio.com/what-does-drowning-look-like/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="drown" title="drown" datasrc="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2013/06/drown.png?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+    </figure>
+        <div class="excerpt clearfix">
+        <a href="http://k2radio.com/what-does-drowning-look-like/">What Does Drowning Look Like [VIDEO]</a>
+        <em>3 days ago</em>
+    </div>
+</article>
+<article class="small_thumb_title_date last clearfix">
+        <figure>
+        <a href="http://k2radio.com/lovesick-moose-falls-for-statue/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="moose5" title="moose5" datasrc="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2013/06/moose51.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+    </figure>
+        <div class="excerpt clearfix">
+        <a href="http://k2radio.com/lovesick-moose-falls-for-statue/">Lovesick Moose Falls For Statue</a>
+        <em>4 days ago</em>
+    </div>
+</article>
+<p class="more_act"><a href="http://k2radio.com/author/bscott/" title="See All Morning BS">See All Morning BS</a></p>
+</div><div id="ts_blogroll-3" class="widget ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>NEWS ON DEMAND</h4></div><article class="small_thumb_title_date last clearfix">
+        <figure>
+        <a href="http://k2radio.com/area-firefighters-battling-wildfires-in-new-mexico-morning-update-audio/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Kevork Djansezian, Getty Images" title="Massive Arizona Wildfire Spreads, Threatening Nearby Towns" datasrc="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2011/06/wildfire3.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+    </figure>
+        <div class="excerpt clearfix">
+        <a href="http://k2radio.com/area-firefighters-battling-wildfires-in-new-mexico-morning-update-audio/">Area Firefighters Battling Wildfires In New Mexico-Morning Update [AUDIO]</a>
         <em>Yesterday</em>
     </div>
 </article>
-</div><div id="ts_blogroll-2" class="widget ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>Headlines</h4></div><ul class="title_bullet_list"><li><a href="http://k2radio.com/austin-ideen-pleads-not-guilty-to-aggravated-assault-and-aggravated-burglary-charges/">Austin Ideen Pleads Not Guilty To Aggravated Assault and Aggravated Burglary Charges</a></li><li><a href="http://k2radio.com/wyoming-bound-plane-missing-in-utah/">Wyoming-Bound Plane Missing In Utah</a></li><li><a href="http://k2radio.com/gregory-jarrard-sentenced-to-prison-for-larceny/">Gregory Jarrard Sentenced To Prison For Larceny</a></li><li><a href="http://k2radio.com/connection-comes-to-platte-river-parkway-at-fort-caspar/">Connection Comes To Platte River Parkway At Fort Caspar</a></li><li><a href="http://k2radio.com/grey-wolf-hunting-season-close-to-ending-in-wyoming/">Grey Wolf Hunting Season Close to Ending in Wyoming</a></li><li><a href="http://k2radio.com/john-carlton-sentenced-to-prison-for-reckless-endangerin/">John Carlton Sentenced To Prison For Reckless Endangering</a></li><li><a href="http://k2radio.com/ryan-burgess-heading-back-to-prison/">Ryan Burgess Heading Back To Prison</a></li><li><a href="http://k2radio.com/christian-company-files-federal-lawsuit-against-emergency-contraceptives-mandate/">Hobby Lobby Files Federal Lawsuit Against Emergency Contraceptives Mandate [POLL]</a></li><li><a href="http://k2radio.com/council-to-review-city-strategic-plan-adoption-afternoon-update-audio/">Council To Review City Strategic Plan Adoption-Afternoon Update [AUDIO]</a></li><li><a href="http://k2radio.com/record-powerball-jackpot-boosted-to-500-million/">Record Powerball Jackpot Boosted To $500 Million</a></li></ul></div><div id="promotion-2" class="widget promotion  clearfix"><div class="widget_header clearfix"><h4>Heard On-Air</h4></div>            <article class=" list clearfix">
-                                <figure>
-                                        <a href="http://k2radio.com/win-santas-stash-of-cash-1000-by-listening-10000-here-online/?preview=true" target=""><img width="145" height="97" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w145_h97 ts_lazy_load_image" alt="US Currency: Wads of US bills fastened with rubber bands, close-up" title="US Currency: Wads of US bills fastened with rubber bands, close-up" datasrc="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2012/11/Win-Cash.jpeg?w=145&amp;h=97&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
-                                    </figure>
-                                <div class="excerpt clearfix">
-                                        <p>Win $1,000 by listening + $10,000 right here online!</p>
-                                        <p class="more_act text"><a href="http://k2radio.com/win-santas-stash-of-cash-1000-by-listening-10000-here-online/?preview=true" title="Austin Ideen Pleads Not Guilty To Aggravated Assault and Aggravated Burglary Charges">Learn More</a></p>                </div>
-            </article>
-                        <article class=" list clearfix">
-                                <figure>
-                                        <a href="/vip/promotions/local-experts-24/" target=""><img width="145" height="97" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w145_h97 ts_lazy_load_image" alt="Local-Experts" title="Local-Experts" datasrc="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2012/09/Local-Experts.jpg?w=145&amp;h=97&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
-                                    </figure>
-                                <div class="excerpt clearfix">
-                                        <p>Interact with our Local Experts for tips and tricks and to ask questions.</p>
-                                        <p class="more_act text"><a href="/vip/promotions/local-experts-24/" title="Austin Ideen Pleads Not Guilty To Aggravated Assault and Aggravated Burglary Charges">Meet the Experts</a></p>                </div>
-            </article>
-                        <article class=" last list clearfix">
-                                <figure>
-                                        <a href="http://wyopreps.com" target=""><img width="145" height="97" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w145_h97 ts_lazy_load_image" alt="WyoPreps Sports" title="WyoPreps Sports" datasrc="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2012/09/WyoPreps-Sports.jpg?w=145&amp;h=97&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
-                                    </figure>
-                                <div class="excerpt clearfix">
-                                        <p>Check the latest Wyoming High School Sports News, Scores and Standings.</p>
-                                        <p class="more_act text"><a href="http://wyopreps.com" title="Austin Ideen Pleads Not Guilty To Aggravated Assault and Aggravated Burglary Charges">Visit WyoPreps.com</a></p>                </div>
-            </article>
-            </div><div id="google-ads-widget-17" class="widget google-ads-widget clearfix"><!-- /CAS_KTWO_BOTTOM_TILE_AD_300X250 -->
-		<script type="text/javascript">
-	GA_googleFillSlot("CAS_KTWO_BOTTOM_TILE_AD_300X250");
-	</script>
-	</div></aside>    </div><!-- // #content -->
+</div><div id="promotion-2" class="widget promotion  clearfix"><div class="widget_header clearfix"><h4>Heard On-Air</h4></div>		<article class=" list clearfix">
+							<figure>
+											<a href="/category/hometown-heroes/" target="_self"><img width="145" height="97" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w145_h97 sonar_image" alt="Casper's Hometown Heroes" title="Casper's Hometown Heroes" datasrc="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2013/03/Hometown-Heroes1.jpg?w=145&amp;h=97&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+									</figure>
+						<div class="excerpt clearfix">
+									<p>We would like to ask for your help honoring all of Casper's Hometown Heroes!</p>
+								<p class="more_act text"><a href="/category/hometown-heroes/" title="See the Heroes and Submit Your Own" target="_self">See the Heroes and Submit Your Own</a></p>
+			</div>
+		</article>
+			<article class=" list clearfix">
+							<figure>
+											<a href="/vip/promotions/local-experts-24/" target="_self"><img width="145" height="97" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w145_h97 sonar_image" alt="Local-Experts" title="Local-Experts" datasrc="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2012/09/Local-Experts.jpg?w=145&amp;h=97&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+									</figure>
+						<div class="excerpt clearfix">
+									<p>Interact with our Local Experts for tips and tricks and to ask questions.</p>
+								<p class="more_act text"><a href="/vip/promotions/local-experts-24/" title="Meet the Experts" target="_self">Meet the Experts</a></p>
+			</div>
+		</article>
+			<article class=" last list clearfix">
+							<figure>
+											<a href="http://wyopreps.com" target="_self"><img width="145" height="97" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w145_h97 sonar_image" alt="WyoPreps Sports" title="WyoPreps Sports" datasrc="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/files/2012/09/WyoPreps-Sports.jpg?w=145&amp;h=97&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+									</figure>
+						<div class="excerpt clearfix">
+									<p>Check the latest Wyoming High School Sports News, Scores and Standings.</p>
+								<p class="more_act text"><a href="http://wyopreps.com" title="Visit WyoPreps.com" target="_self">Visit WyoPreps.com</a></p>
+			</div>
+		</article>
+	</div><div id="widget_tsiwd-2" class="widget widget_tsiwd  clearfix"><div class="widget_header clearfix"><h4>Small Business Solutions</h4></div><div>
+	<img style="background-color:#f23333" src="http://production.townsquaresites.com/wp-content/uploads/2013/04/tsi-widget-promo.png">
+	<ul>
+		<li>Take charge of your business online and off</li>
+		<li>Personalize your site with ease, or we'll do the honor</li>
+		<li>Search friendly? Social? Like, totally</li>
+	</ul>
+	<p class="more_act">
+		<a href="http://k2radio.com/casper-web-design">Find Out More</a>
+	</p>
+</div>
+</div><div id="google-ads-widget-17" class="widget google-ads-widget clearfix"><div id="bottom-right-300x250"><script type="text/javascript">googletag.cmd.push(function(){googletag.display("bottom-right-300x250");});</script></div></div></aside>    </div><!-- // #content -->
 </div><!-- // #main-container -->
 
 <footer id="footer_wrap" class="footer_wrap clearfix">
-    <div id="footer-sidebar" class="sidebar clearfix"><div id="rss-feed-8" class="widget rss-feed  clearfix"><span class="rssfeed-header-image"><img src="http://wac.450f.edgecastcdn.net/80450F/ultimateclassicrock.com/files/2011/07/fw150x60.png"></span><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://thefw.com/conan-seniors-texting/" title="Conan O'Brien Offers a Senior's Guide to Texting" target="_blank">Conan O'Brien Offers a Senior's Guide to Texting</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://thefw.com/improv-everywhere-creates-black-friday-buzz-for-dollar-store/" title="Improv Everywhere Creates Black Friday Buzz for Dollar Store" target="_blank">Improv Everywhere Creates Black Friday Buzz for Dollar Store</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://thefw.com/angela-boy-meets-world-then-and-now/" title="See Angela From 'Boy Meets World' Then and Now" target="_blank">See Angela From 'Boy Meets World' Then and Now</a></span></li></ul></div><div id="rss-feed-7" class="widget rss-feed  clearfix"><span class="rssfeed-header-image"><img src="http://ultimateclassicrock.com/files/2011/06/popcrush-rss.png"></span><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://popcrush.com/pixelated-pop-stars-95/" title="Pixelated Pop Stars: Can You Guess Who This?" target="_blank">Pixelated Pop Stars: Can You Guess Who This?</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://popcrush.com/ed-sheeran-little-things-live/" title="Watch Ed Sheeran Perform 'Little Things' Live" target="_blank">Watch Ed Sheeran Perform 'Little Things' Live</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://popcrush.com/kelly-clarkson-addresses-misquote-and-anorexia-rumors/" title="Kelly Clarkson Addresses Misquote and Anorexia Rumors" target="_blank">Kelly Clarkson Addresses Misquote and Anorexia Rumors</a></span></li></ul></div><div id="rss-feed-6" class="widget rss-feed  clearfix"><span class="rssfeed-header-image"><img src="http://ultimateclassicrock.com/files/2012/03/150x60.png "></span><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://screencrush.com/key-peele-renewed/" title="'Key &amp; Peele' Renewed for a Third Season" target="_blank">'Key &amp; Peele' Renewed for a Third Season</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://screencrush.com/cate-blanchett-mark-romanek-cindarella/" title="Cate Blanchett Poised to Join Mark Romanek's 'Cindarella'" target="_blank">Cate Blanchett Poised to Join Mark Romanek's 'Cindarella'</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://screencrush.com/sons-of-anarchy-review-darthy/" title="'Sons of Anarchy' Review: &quot;Darthy&quot;" target="_blank">'Sons of Anarchy' Review: "Darthy"</a></span></li></ul></div><div id="rss-feed-5" class="widget rss-feed  clearfix"><span class="rssfeed-header-image"><img src="http://loudwire.production.townsquaresites.com/files/2011/08/UCR.png"></span><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/kiss-drummer-eric-singer-responds-to-peter-crisss-insults/" title="Kiss Drummer Eric Singer Responds to Peter Criss's Insults" target="_blank">Kiss Drummer Eric Singer Responds to Peter Criss's Insults</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/jimi-hendrix-somewhere/" title="Jimi Hendrix's Engineer Shares 'Somewhere' From Upcoming 'People, Hell and Angels' Album" target="_blank">Jimi Hendrix's Engineer Shares 'Somewhere' From Upcoming 'People, Hell and Angels' Album</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/paul-mccartney-reveals-deluxe-complete-kisses-re-release/" title="Paul McCartney Reveals Deluxe 'Complete Kisses' Re-Release" target="_blank">Paul McCartney Reveals Deluxe 'Complete Kisses' Re-Release</a></span></li></ul></div></div><div id="footer_links" class="horizontal_navigation clearfix"><div class="menu"><ul><li class="page_item"><a href="http://k2radio.com/eeo" title="EEO" target="_parent">EEO</a></li><li class="page_item"><a href="http://k2radio.com/terms" title="Terms" target="_parent">Terms</a></li><li class="page_item"><a href="http://k2radio.com/vip-terms" title="VIP Terms &amp; Conditions" target="_parent">VIP Terms &amp; Conditions</a></li><li class="page_item"><a href="http://k2radio.com/vip-faq" title="FAQ" target="_parent">FAQ</a></li><li class="page_item"><a href="http://k2radio.com/privacy" title="Privacy" target="_parent">Privacy</a></li><li class="page_item"><a href="http://k2radio.com/help" title="Help &amp; Contact" target="_parent">Help &amp; Contact</a></li><li class="page_item"><a href="http://townsquaremediagroup.com" title="Townsquare" target="_blank">Townsquare</a></li><li class="page_item"><a href="http://k2radio.com/casper-featured-business-listings/" title="Casper Business Listings" target="_parent">Casper Business Listings</a></li></ul></div></div><div id="network_links" class="horizontal_navigation clearfix"><div id="network_footer" class="menu"><ul><li class="page_item"><a href="http://tasteofcountry.com" title="Country" target="_blank">Country</a></li><li class="page_item"><a href="http://popcrush.com" title="Pop Music" target="_blank">Pop Music</a></li><li class="page_item"><a href="http://ultimateclassicrock.com" title="Classic Rock" target="_blank">Classic Rock</a></li><li class="page_item"><a href="http://loudwire.com" title="Rock News" target="_blank">Rock News</a></li><li class="page_item"><a href="http://diffuser.fm" title="Indie" target="_blank">Indie</a></li><li class="page_item"><a href="http://thefw.com" title="Funny" target="_blank">Funny</a></li><li class="page_item"><a href="http://guyspeed.com" title="GuySpeed" target="_blank">GuySpeed</a></li><li class="page_item"><a href="http://screencrush.com" title="Movies" target="_blank">Movies</a></li><li class="page_item"><a href="http://wellthatsawesome.com" title="Awesome" target="_blank">Awesome</a></li><li class="page_item"><a href="http://ultimatemetallica.com/" title="Metallica" target="_blank">Metallica</a></li><li class="page_item"><a href="http://starcrush.com/" title="Celebs" target="_blank">Celebs</a></li><li class="page_item"><a href="http://arcadesushi.com/" title="Video Games" target="_blank">Video Games</a></li><li class="page_item"><a href="http://allchristmas.fm/" title="Christmas" target="_blank">Christmas</a></li></ul></div></div></footer><!-- // footer -->
+    <div id="footer-sidebar" class="sidebar clearfix"><div id="rss-feed-7" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://popcrush.com" target="_blank"><img src="http://ultimateclassicrock.com/files/2011/06/popcrush-rss.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://popcrush.com/would-you-rather-nicki-minaj-butt-lana-del-rey-lips/" title="Would You Rather… Have Nicki Minaj's Butt or Lana Del Rey's Lips?" target="_blank">Would You Rather… Have Nicki Minaj's Butt or Lana Del Rey's Lips?</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://popcrush.com/tiesto-remix-icona-pop-i-love-it/" title="Tiesto Remixes Icona Pop's 'I Love It'" target="_blank">Tiesto Remixes Icona Pop's 'I Love It'</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://popcrush.com/mblaq-smoky-girl-video/" title="MBLAQ Show Off Glow in the Dark Dance Moves in 'Smoky Girl' Video" target="_blank">MBLAQ Show Off Glow in the Dark Dance Moves in 'Smoky Girl' Video</a></span></li></ul></div><div id="rss-feed-5" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://ultimateclassicrock.com" target="_blank"><img src="http://loudwire.production.townsquaresites.com/files/2011/08/UCR.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/black-sabbath-another-new-album/" title="Black Sabbath Hint at More Music After '13′" target="_blank">Black Sabbath Hint at More Music After '13′</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/guns-n-roses-brooklyn-show-review/" title="Guns N' Roses Bring the Classics to Brooklyn" target="_blank">Guns N' Roses Bring the Classics to Brooklyn</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/elton-john-gay-propaganda-protest/" title="Elton John's Stage Wardrobe Called 'Gay Propaganda' by Russian Protestors" target="_blank">Elton John's Stage Wardrobe Called 'Gay Propaganda' by Russian Protestors</a></span></li></ul></div><div id="rss-feed-6" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://screencrush.com" target="_blank"><img src="http://ultimateclassicrock.com/files/2012/03/150x60.png "></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://screencrush.com/the-killing-on-vacation/" title="If 'The Killing' Cast Went on Vacation" target="_blank">If 'The Killing' Cast Went on Vacation</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://screencrush.com/its-always-sunny-in-philadelphia-season-9-game-of-thrones-charlie/" title="'It's Always Sunny in Philadelphia' Season 9: 'Game of Thrones' Episode Plot Revealed?" target="_blank">'It's Always Sunny in Philadelphia' Season 9: 'Game of Thrones' Episode Plot Revealed?</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://screencrush.com/game-of-thrones-season-3-finale-preview-photos-mhysa/" title="'Game of Thrones' Season 3 Finale Preview Photos: &quot;Mhysa&quot; of Dragons" target="_blank">'Game of Thrones' Season 3 Finale Preview Photos: "Mhysa" of Dragons</a></span></li></ul></div><div id="rss-feed-8" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://starcrush.com/" target="_blank"><img src="http://starcrush.com/files/2012/10/150x60-light.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://starcrush.com/russell-crowe-paris-hilton-kelly-clarkson-more-in-celebrity-tweets-of-the-day/" title="Russell Crowe, Paris Hilton, Kelly Clarkson + More in Celebrity Tweets of the Day" target="_blank">Russell Crowe, Paris Hilton, Kelly Clarkson + More in Celebrity Tweets of the Day</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://starcrush.com/paris-jackson-katherine-jackson-guardianship/" title="Judge Calls for Investigation Into Paris Jackson's Guardianship After Suicide Attempt" target="_blank">Judge Calls for Investigation Into Paris Jackson's Guardianship After Suicide Attempt</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://starcrush.com/celeb-lookalikes-95/" title="Sum 41 Singer Deryck Whibley + Syndrome from 'The Incredibles' – Celebrity Doppelgangers" target="_blank">Sum 41 Singer Deryck Whibley + Syndrome from 'The Incredibles' – Celebrity Doppelgangers</a></span></li></ul></div></div><div id="footer_links" class="horizontal_navigation clearfix">
+		<div id="" class="menu">
+		<ul>
+					<li class="page_item">
+				<a href="http://k2radio.com/eeo" title="EEO" target="_parent">EEO</a>
+			</li>
+					<li class="page_item">
+				<a href="http://k2radio.com/advertise" title="Advertise on K2 Radio" target="_parent">Advertise on K2 Radio</a>
+			</li>
+					<li class="page_item">
+				<a href="http://k2radio.com/terms" title="Terms" target="_parent">Terms</a>
+			</li>
+					<li class="page_item">
+				<a href="http://k2radio.com/vip-terms" title="VIP Terms &amp; Condition" target="_parent">VIP Terms &amp; Condition</a>
+			</li>
+					<li class="page_item">
+				<a href="http://k2radio.com/vip-faq" title="FAQ" target="_parent">FAQ</a>
+			</li>
+					<li class="page_item">
+				<a href="http://k2radio.com/privacy" title="Privacy" target="_parent">Privacy</a>
+			</li>
+					<li class="page_item">
+				<a href="http://k2radio.com/help" title="Help &amp; Contact" target="_parent">Help &amp; Contact</a>
+			</li>
+					<li class="page_item">
+				<a href="http://townsquaremediagroup.com" title="Townsquare" target="_blank">Townsquare</a>
+			</li>
+					<li class="page_item">
+				<a href="http://k2radio.com/casper-featured-business-listings/" title="Casper Business Listings" target="_parent">Casper Business Listings</a>
+			</li>
+				</ul>
+	</div>
+	</div><div id="network_links" class="horizontal_navigation clearfix">
+		<div id="network_footer" class="menu">
+		<ul>
+					<li class="page_item">
+				<a href="http://tasteofcountry.com" title="Country" target="_blank">Country</a>
+			</li>
+					<li class="page_item">
+				<a href="http://popcrush.com" title="Pop Music" target="_blank">Pop Music</a>
+			</li>
+					<li class="page_item">
+				<a href="http://ultimateclassicrock.com" title="Classic Rock" target="_blank">Classic Rock</a>
+			</li>
+					<li class="page_item">
+				<a href="http://loudwire.com" title="Rock News" target="_blank">Rock News</a>
+			</li>
+					<li class="page_item">
+				<a href="http://diffuser.fm" title="Indie" target="_blank">Indie</a>
+			</li>
+					<li class="page_item">
+				<a href="http://thefw.com" title="Funny" target="_blank">Funny</a>
+			</li>
+					<li class="page_item">
+				<a href="http://guyspeed.com/sports/" title="Sports" target="_blank">Sports</a>
+			</li>
+					<li class="page_item">
+				<a href="http://screencrush.com" title="Movies" target="_blank">Movies</a>
+			</li>
+					<li class="page_item">
+				<a href="http://thedrop.fm" title="Hip-Hop" target="_blank">Hip-Hop</a>
+			</li>
+					<li class="page_item">
+				<a href="http://starcrush.com/" title="Celebs" target="_blank">Celebs</a>
+			</li>
+					<li class="page_item">
+				<a href="http://arcadesushi.com/" title="Video Games" target="_blank">Video Games</a>
+			</li>
+					<li class="page_item">
+				<a href="http://allchristmas.fm/" title="Christmas" target="_blank">Christmas</a>
+			</li>
+				</ul>
+	</div>
+	</div><div id="bottom_banner" class="tsmAd clearfix"><div id="bottom-728x90"><script type="text/javascript">googletag.cmd.push(function(){googletag.display("bottom-728x90");});</script></div></div></footer><!-- // footer -->
 
 <script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.1"></script>
 <script type="text/javascript">AudioPlayer.setup("http://k2radio.com/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.1", {width:"300",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"FFFFFF",text:"000000",leftbg:"3F6517",lefticon:"FFFFFF",volslider:"FFFFFF",voltrack:"ffffff",rightbg:"3F6517",rightbghover:"",righticon:"FFFFFF",righticonhover:"FFFFFF",track:"FFFFFF",loader:"FFFFFF",border:"FFFFFF",tracker:"ffffff",skip:"000000",pagebg:"ffffff",transparentpagebg:"yes"});</script>
-<script type="text/javascript">
-	jQuery(document).bind('fbInit.tsq-facebook', function(){
-		jQuery('[name=tsq-facebook-comments]').fbPlugin();
-	});
-</script>
-<!-- Facebook connect Init v2.3.0 (NEW API) -->
-    <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
-    <script type="text/javascript">//<!--
-    
-
-      window.fbAsyncInit = function()
-      {
-    
-    	if(typeof FB !== "undefined"){
-
-				FB.init({
-					appId: '204598309557300', status: true, cookie: true, xfbml: true, oauth:true, channelUrl: 'http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/tsm-wp-fb-autoconnect/facebook-platform/channel.html' 
-				});
-				   
-        }
-        
-        
-
-      };
-
-
-      (function() {
-        var e = document.createElement('script');
-        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-        e.async = true;
-        document.getElementById('fb-root').appendChild(e);
-      }());
-      
-    //--></script>
-    
-<!-- Facebook connect Callback v2.3.0 -->
-  
-<form id="wp-fb-ac-fm" name="jfb_js_login_callback_form" method="post" action="/fbregister/?tsm-fb-register-page=1">
-      <input type="hidden" name="redirectTo" value="/privacy/">
-      
-<input type="hidden" name="rememberme" id="fb_rememberme" value="0">      <input type="hidden" id="autoconnect_nonce" name="autoconnect_nonce" value="91eee82408"><input type="hidden" name="_wp_http_referer" value="/privacy/">   
-    </form>
-<script type="text/javascript">//<!--
-    
-    function hideFancyBox(){
-    		jQuery("#fancybox-close").trigger("click");
-    }
-    
-    function jfb_js_login_callback()
-    {
-
-
-var rememberme = document.getElementById('rememberme');
-if( rememberme && rememberme.checked ) document.getElementById('fb_rememberme').value = 1
-    //Make sure the user logged in
-    FB.getLoginStatus(function(response)
-    {
-      if (!response.authResponse)
-      {
-      return false;
-      }
-
-      document.jfb_js_login_callback_form.submit();
-    });
-    }
-    //--></script>
-    <div id="inline_register_selection_wrap" class="cloak">
-	<div id="inline_register_selection">
-		<div id="registration_modal" class="content_bg clearfix">
-			<p class="top_hat"><span>Registration K2 Radio</span></p>
-			<div class="registermsg">
-				<p>Sign up for an account to comment, share your thoughts, and earn points to get great prizes.</p>
-							</div>
-			<div class="registration_holder">
-				<a id="register_btn" class="button-primary button" href="/registration" tabindex="503">Registration</a>
-				<script>
-					function fbLoginDialog(){
-						var w=500,h=300;
-						var posx = (screen.width/2)-(w/2);
-						var posy = (screen.height/2)-(h/2);
-						signinWin = window.open("https://www.facebook.com/dialog/oauth?client_id=68183897688&display=popup&redirect_uri=http:%2F%2Ftest.townsquare.local%2Fwp-content%2Fplugins%2Fwp-fb-autoconnect%2Fcustompages%2Fregistration-dialog.php&scope=email,read_stream", "SignIn", "width=780,height=410,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0,left=" + posx + ",top=" + posy);
-						signinWin.focus();
-					}
-				</script>
-				<!-- Facebook connect Button v2.3.0 -->
-		
-		<div class="fb-register-btn border_top">
-									
-								
-				<fb:login-button size="large" scope="email,user_birthday,user_status,publish_actions,user_about_me,user_location,user_likes,user_hometown" onlogin="window.location = &quot;/?fbregister=1&quot;;hideFancyBox();">Register with Facebook</fb:login-button>
-					<!--<div><img src="http://test.townsquare.local/wp-content/plugins/wp-fb-autoconnect/custompages/images/login-facebook-button.png"  onclick="fbLoginDialog();" style="cursor:pointer;"/></div>-->
+<div style="display:none;">
+	<div id="fb-auth-form-nonce"><input type="hidden" id="fb_auth_form_nonce" name="fb_auth_form_nonce" value="1f371fd4d3"><input type="hidden" name="_wp_http_referer" value="/privacy/"></div>
+	<div id="fb-auth-account-activation" class="fb-auth-form">
+		<h3 class="generic-link-color">Welcome back to K2 Radio</h3>
+		<p>It appears that you already have an account created within our VIP network of sites on <a class="blog-tag generic-link-color" href="#"></a>. To keep your points and personal information safe, we need to verify that it's really you. To activate your account, please confirm your <a class="blog-tag generic-link-color" href="#"></a> password. When you have confirmed your password, you will be able to log in through Facebook on both sites.</p>
+		<p class="error-messages"></p>
+		<p>
+			<label>Enter your password</label>
+			<input class="password" type="password" name="cpwd" value="">
+			<a class="forgot generic-link-color" href="/login/?action=lost-password">Forgot your password?</a>
+		</p>
+		<div class="default-button">
+			<a href="#">YES, Activate My Account Now!</a>
 		</div>
-		<p class="fb-reg-msg">Register for  K2 Radio quickly by logging in with your Facebook account. It's just as secure and no passwords to remember!</p>
+		<p class="meta">*Please note that your points, prizes and activities will not be shared between programs within our VIP network.</p>	</div>
 
-	<!--Premium Add-On #1316, version 26-->
-			</div> <!-- // .registration_holder -->
-		</div><!-- // .registration_form_Wrap -->
+	<div id="fb-auth-site-activation" class="fb-auth-form">
+		<h3 class="generic-link-color">Welcome back to K2 Radio</h3>
+		<p>It appears that you already have an account on this site associated with <strong class="user-email"></strong>. To connect your existing account with your Facebook account, just click on the account activation button below. You will maintain your existing profile and VIP program points. After you do this, you will be able to always log in to <a class="generic-link-color" href="http://k2radio.com" target="_blank">http://k2radio.com</a> using your Facebook account.</p>
+		<p class="error-messages"></p>
+		<div class="default-button"><a href="#">YES, Activate My Account Now!</a></div>
+				<p class="meta">*Please note that your points, prizes and activities will not be shared between programs within our VIP network.</p>	</div>
+
+	<div id="fb-auth-required-fields" class="fb-auth-form">
+		<h3 class="generic-link-color">We're Almost There!</h3>
+		<p>Please fill out the information below to help us provide you a better experience.</p>
+		<p class="error-messages"></p>
+		<p>
+			<label>Zip</label>
+			<input class="zip" type="text" name="zip" value="">
+			<label class="subscribe">Subscribe to Newsletter</label>
+			<input class="newsletter" type="checkbox" name="newsletter" value="1" checked="checked">
+		</p>
+		<div class="default-button"><a href="#">Continue and Activate</a></div>
 	</div>
-</div>
 
-<!-- ip: 204.236.226.210 -->
-<!-- Page rendered at 3:24:21 am 11/28/12 --><script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/graceful-email-obfuscation/geo-spam-prevention.js?ver=0.1"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/loyalty-activities/resources/js/loyalty.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.getjs.min.js"></script>
-<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.sonar.min.js"></script>
-<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.facebookinit.min.js"></script>
-<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.facebookplugins.min.js?v=2"></script>
-<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.facebookcommentcount.min.js"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/radio-page/resources/player-popup.js?ver=4d032b8b8540909688d1d2611c4978e7c9992983"></script>
-<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.stumble.min.js"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/stumbleupon/views/init-scripts.js"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/loyalty-activities/resources/js/loyalty_ftlink_link.js?ver=4d032b8b8540909688d1d2611c4978e7c9992983"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/themes/townsquare3/resources/js/jquery.effects-custom.js?ver=4d032b8b8540909688d1d2611c4978e7c9992983"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/themes/townsquare3/resources/js/jquery.platformselector.js?ver=4d032b8b8540909688d1d2611c4978e7c9992983"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/themes/townsquare3/resources/js/fancybox/jquery.fancybox-1.3.3.pack.js?ver=4d032b8b8540909688d1d2611c4978e7c9992983"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/themes/townsquare3/resources/js/jquery.tsc-sliders.js?ver=4d032b8b8540909688d1d2611c4978e7c9992983"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/themes/townsquare3/resources/js/jquery.template.js?ver=4d032b8b8540909688d1d2611c4978e7c9992983"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/mu-plugins/ts-widgets/resources/request_song.js?ver=4d032b8b8540909688d1d2611c4978e7c9992983"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var pwsL10n = {"empty":"Strength indicator","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
-var pwsL10n = {"empty":"Strength indicator","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
-try{convertEntities(pwsL10n);}catch(e){};;
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-admin/js/password-strength-meter.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-admin/js/user-profile.js?ver=3.4.2"></script>
-<script>
-	(function($){
-		$(function(){
-			$('nav.main, #content_sidebar')
-			.on('click', 'a[href*="listen-live/christmas-player"]', function(e){
-					e.preventDefault();
-					e.stopPropagation();
-					player = window.open('/listen-live/christmas-player', 'christmasPlayer', 'toolbar=0,scrollbars=0,width=992,height=494');
-				});
-		});
-	})(jQuery);
-</script>
-		<script>
-		jQuery.fbInit({
-			fb_options:{
-				appId: '204598309557300',
-				channelUrl: 'http://k2radio.com/wp-content/plugins/facebook/library/channel.html'
-			}
-		});
-</script>
+	<div id="fb-auth-login" class="fb-auth-form">
+		<h3 class="generic-link-color">Sign into K2 Radio</h3>
+		<p class="error-messages"></p>
+		<label>User Name<span>(Email)</span></label>
+		<input type="text" class="username" tabindex="600" value="" name="username">
+		<label>Password <a class="forgot generic-link-color" href="http://k2radio.com/login/?action=lost-password">(Forgot your password?)</a></label>
+		<input type="password" class="password" tabindex="601" value="" name="password">
+		<div class="default-button login"><a href="#">Log In</a></div>
+		<div class="or"></div>
+		<div class="facebook-connect-button"></div>
+		<p class="meta">Register on K2 Radio quickly by logging in with your Facebook account.  It's just as secure, and no password to remember!</p>
+		<p class="register">Not a Member? <a class="fb-auth-registration-link generic-link-color" href="#fb-auth-registration">Sign Up Here.</a></p>
+	</div>
+
+	<div id="fb-auth-registration" class="fb-auth-form">
+		<h3 class="generic-link-color">Registration K2 Radio</h3>
+		<p class="error-messages"></p>
+		<p>Sign up for an account to comment, share your thoughts, and earn points to get great prizes.</p>
+		<div class="default-button registration"><a href="/registration/">Registration</a></div>
+		<div class="or"></div>
+		<div class="facebook-connect-button"></div>
+		<p class="meta">Register on K2 Radio quickly by logging in with your Facebook account.  It's just as secure, and no password to remember!</p>
+	</div>
+</div><!-- Page rendered at 5:47:52 am 06/08/13 --><script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/graceful-email-obfuscation/geo-spam-prevention.js?ver=0.1"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.pack.js?ver=35abddb95c2864e39f3ecc1e26442be3a7a0d5a5"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/loyalty-activities/resources/js/loyalty.js?ver=2"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/radio-page/resources/player-popup.js?ver=35abddb95c2864e39f3ecc1e26442be3a7a0d5a5"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/mu-plugins/fancybox/vendor/jquery.easing-1.3.pack.js?ver=35abddb95c2864e39f3ecc1e26442be3a7a0d5a5"></script>
+<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=35abddb95c2864e39f3ecc1e26442be3a7a0d5a5"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/mu-plugins/sonar-load/js/sonar.load.js?ver=35abddb95c2864e39f3ecc1e26442be3a7a0d5a5"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/facebook-apps/js/facebook-auth.js?ver=35abddb95c2864e39f3ecc1e26442be3a7a0d5a5"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/loyalty-activities/resources/js/loyalty_ftlink_link.js?ver=35abddb95c2864e39f3ecc1e26442be3a7a0d5a5"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/social-sharing/resources/social-tracking.js?ver=35abddb95c2864e39f3ecc1e26442be3a7a0d5a5"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/plugins/social-sharing/resources/more-button.js?ver=35abddb95c2864e39f3ecc1e26442be3a7a0d5a5"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/themes/townsquare3/resources/js/handlebars.js?ver=35abddb95c2864e39f3ecc1e26442be3a7a0d5a5"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/themes/townsquare3/resources/js/jquery.template.js?ver=35abddb95c2864e39f3ecc1e26442be3a7a0d5a5"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/widgets/request-song/js/request_song.js?ver=35abddb95c2864e39f3ecc1e26442be3a7a0d5a5"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/widgets/dynamic-lead/js/jquery.tsc-sliders.js?35abddb95c2864e39f3ecc1e26442be3a7a0d5a5"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/k2radio.com/wp-content/widgets/listen-live-bar/js/listen-live-bar.js?35abddb95c2864e39f3ecc1e26442be3a7a0d5a5"></script>
             <script type="text/javascript">
             	jQuery(document).ready( function(){
                 	PlayerPopupObj.init({
@@ -925,44 +760,14 @@ try{convertEntities(pwsL10n);}catch(e){};;
     				});
                 });
             </script>
-            <div class="fancybox-wrap">
-    <div id="inline_login">
-        <div id="login_modal">
-            <p class="top_hat"><span>Sign into K2 Radio</span></p>
-            <form id="login_form" class="login-registration" action="http://k2radio.com/login/?referer=http://k2radio.com/privacy" method="post" target="_parent">
-                <div class="input clearfix">
-                    <label for="user_login">User Name<span>(Email)</span></label>
-                    <input type="text" class="input validate valid-required" tabindex="500" size="22" value="" id="user_login" name="log">
-                </div><!-- // #.input -->
-                <div class="input clearfix">
-                    <label for="user_pass">Password</label>
-                    <input type="password" class="input validate valid-required" tabindex="501" size="22" value="" id="user_pass" name="pwd">
-                </div><!-- // #.input -->
-                <input type="submit" name="login_form_submit" id="login_form_submit" class="button-primary button submit-button clearfix" value="Log In" tabindex="503">
-                <input type="hidden" name="redirect_to" value="http://k2radio.com/privacy">
-                <input type="hidden" name="testcookie" value="1">
-            </form>
-            <!-- Facebook connect Button v2.3.0 -->
-			
-			<div class="fb-register-btn border_top">
-										
-										
-		
-					<fb:login-button size="large" scope="email,user_birthday,user_status,publish_actions,user_about_me,user_location,user_likes,user_hometown" onlogin="jfb_js_login_callback();hideFancyBox();">Login using Facebook</fb:login-button>
-						<!--<div><img src="http://test.townsquare.local/wp-content/plugins/wp-fb-autoconnect/custompages/images/login-facebook-button.png"  onclick="fbLoginDialog();" style="cursor:pointer;"/></div>-->
-			</div>
-	
-	<!--Premium Add-On #1316, version 26-->
-            <p class="register-link">Not a Member? <a href="http://k2radio.com/registration/" target="_parent">Sign Up Here.</a></p>
-        </div>
-    </div>
-</div>
+            <!-- ip: 207.241.237.105 -->
 </div><!-- // #takeover_wrap.body_child  -->
+
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Object Caching 3310/3491 objects using memcached
+Object Caching 3114/3121 objects using memcached
 Content Delivery Network via wac.450F.edgecastcdn.net/80450F/k2radio.com
 
-Served from: k2radio.com @ 2012-11-28 10:24:21 --></body></html>
+Served from: k2radio.com @ 2013-06-08 11:47:52 --></body></html>
