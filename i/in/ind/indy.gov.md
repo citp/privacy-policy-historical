@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indy.gov privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122015252id_/http%3A//www.indy.gov/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indy.gov privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608184731id_/http%3A//www.indy.gov/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -6,18 +6,18 @@ This Privacy Statement informs you about the types of information the City of In
 
 This Privacy Statement may change from time to time, so please check back periodically. This Statement explains the following regarding the treatment of data collected on our Site(s):
 
-**1.** **Sites covered by this Statement**  
- **2.** **What information we collect**  
- **3.** **Why we collect your information**  
- **4.** **How we use your information**  
- **5.** **Sharing your information**  
- **6.** **Accessing and changing your information**  
- **7.** **Use of cookies on these sites**  
- **8.** **Protecting your information**  
- **9.** **Links to other Web sites**  
- **10.** **Children's privacy protection**  
- **11.** **Changes to this statement**  
- **12.** **Contact us**
+**1.**[ **Sites covered by this Statement**](https://web.archive.org/Pages/privacy.aspx#1)  
+ **2.**[ **What information we collect**](https://web.archive.org/Pages/privacy.aspx#2)  
+ **3.**[ **Why we collect your information**](https://web.archive.org/Pages/privacy.aspx#3)  
+ **4.**[ **How we use your information**](https://web.archive.org/Pages/privacy.aspx#4)  
+ **5.**[ **Sharing your information**](https://web.archive.org/Pages/privacy.aspx#5)  
+ **6.**[ **Accessing and changing your information**](https://web.archive.org/Pages/privacy.aspx#6)  
+ **7.**[ **Use of cookies on these sites**](https://web.archive.org/Pages/privacy.aspx#7)  
+ **8.**[ **Protecting your information**](https://web.archive.org/Pages/privacy.aspx#8)  
+ **9.**[ **Links to other Web sites**](https://web.archive.org/Pages/privacy.aspx#9)  
+ **10.**[ **Children's privacy protection**](https://web.archive.org/Pages/privacy.aspx#10)  
+ **11.**[ **Changes to this statement**](https://web.archive.org/Pages/privacy.aspx#11)  
+ **12.**[ **Contact us**](https://web.archive.org/Pages/privacy.aspx#12)
 
 **1** **. Sites covered by this Statement**
 
