@@ -1,20 +1,185 @@
-<!--The following is the downloaded HTML source of the bigbasket.com privacy policy that was archived on 2011-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111207090140id_/http%3A//bigbasket.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigbasket.com privacy policy that was archived on 2013-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130608145700id_/http%3A//bigbasket.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Welcome to BigBasket</title>
-<link rel="icon" href="http://media.bigbasket.com/static/images/favicon.ico" type="image/x-icon">
-<link href="http://media.bigbasket.com/static/css/styles.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/ui-lightness/jquery-ui.css" type="text/css" media="all">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js" type="text/javascript"></script>
-<script src="http://media.bigbasket.com/static/js/bb.js" type="text/javascript"></script>
+
+    
+    <title>Best Online Grocery Store in India. Save Big on Grocery Shopping | BigBasket.com</title>
+    
+
+
+
+<link rel="stylesheet" href="//bigbasket.com/static/css/pop.css?v=248" type="text/css">
+<link rel="icon" href="//bigbasket.com/static/images/favicon.ico?v=248" type="image/x-icon">
+<link rel="stylesheet" href="//bigbasket.com/static/css/jquery-ui.css?v=248" type="text/css" media="all">
+<link href="//bigbasket.com/static/css/jquery.jscrollpane.css?v=248" rel="stylesheet" type="text/css">
+<style>
+    .scroll-pane
+    {
+        width: 100%;
+        height: 200px;
+        overflow: auto;
+    }
+    .horizontal-only
+    {
+        height: auto;
+        max-height: 200px;
+    }
+    .androidPromo {
+        margin: 0px 0px 10px;
+        float: right;
+    }
+</style>
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/themes/pepper-grinder/jquery-ui.css">
+<link href="//bigbasket.com/static/css/styles.css?v=248" rel="stylesheet" type="text/css">
+<!-- <script src="//bigbasket.com/static/js/jquery.min.js?v=248" type="text/javascript"></script> -->
+<!-- <script src="//bigbasket.com/static/js/jquery-ui.min.js?v=248" type="text/javascript"></script> -->
+<!--
+<script src="//bigbasket.com/static/js/rupee.js?v=280512" type="text/javascript"></script>
+-->
+<script src="//bigbasket.com/static/js/jquery.tooltip.js?v=248" type="text/javascript"></script>
+<script src="//bigbasket.com/static/js/jquery.query.js?v=248" type="text/javascript"></script>
+<script src="//bigbasket.com/static/js/jquery.mousewheel.js?v=248" type="text/javascript"></script>
+<script src="//bigbasket.com/static/js/jquery.jscrollpane.min.js?v=248" type="text/javascript"></script>
+<script src="//bigbasket.com/static/js/bb.js?v=248" type="text/javascript"></script>
+
+<script src="//bigbasket.com/static/js/slides.js?v=248" type="text/javascript"></script>
+
 <script type="text/javascript">
-    $(document).ready(function(){
-        init_bb();
+    $(function() {
+        $( "#accordion" ).accordion();
     });
 </script>
+<script type="text/javascript">
+    $(document).ready(function(){
+
+    	$('#popuphelp').css('color','#9D2025','text-decoration','none');
+
+	    init_bb('','');
+        init_a2c(25);
+        init_display_child_product("//bigbasket.com/static/");
+        init_display_freeoffers();
+        init_close_dialog();
+        init_display_autovoucheroffers();
+        init_close_autovoucheroffer_dialog();
+
+        
+
+        
+            update_cart(1);
+            $('#id_shopping_basket_' + 1).css('height','auto');
+        
+
+        $( "#accordion" ).accordion({ change: function(event, ui) {
+            
+                $('#id_shopping_basket_' + 1).css('height','auto');
+            
+        }});
+
+        
+
+        
+            var script = document.createElement("script")
+            script.type = "text/javascript";
+            script.src = "http://cdn.webrupee.com/js";
+            document.getElementsByTagName("head")[0].appendChild(script);
+        
+    });
+</script>
+
+<script>
+
+    function showpopup(STATIC_URL){
+
+	var helptxt = "Currently we serve three cities - Bangalore, Hyderabad & Mumbai <br><br>Please select the city you have registered in or would like to register in. Make sure that you have the right city selected, as the product selection and promotions are city specific.<br><br>If you have registered in Bangalore city and if you relocate to Hyderabad, you will have to register afresh in Hyderabad with your Hyderabad address. Also if you are registered in one city and would like us to deliver in other cities you will have to register in each city with a different email id and the delivery address in that city. <br> <br>In case you are from a different city and are interested in BigBasket's service,do write to us at customerservice@bigbasket.com.";
+
+	
+	$("<div id = \"dialog-modal\" title = \"Current city of delivery\" > <p id =\"helptext\"> "+helptxt+" </p> </div>").dialog({
+	    height: 260,
+	    width : 500,
+	    modal: true,
+	    position: [500,50],
+            open:function(){
+                    $('.ui-dialog').css('z-index', '9999');
+                    $('.ui-widget-overlay').css('z-index', '9998');
+            }
+
+	});
+       
+       if(window.location.pathname.indexOf("auth") !== -1 || window.location.pathname.indexOf("register")!==-1)
+	{
+		$('#dialog-modal').bind('dialogclose', function(event) {
+		$.ajax({
+			url:'/auth/set-popup-state/',
+			type:'get',
+			success: function(data){
+				if(data['success'] == true){
+					$('#popuphelp').hide();
+					$('#city-label').hide();
+				}
+			}
+		})
+	 	});
+
+	}
+       else
+       {
+		$('#dialog-modal').bind('dialogclose', function(event) {
+		$.ajax({
+			url:'/set-popup-state/',
+			type:'get',
+			success: function(data){
+				if(data['success'] == true){
+					$('#popuphelp').hide();
+					$('#city-label').hide();
+				}
+			}
+		})
+	 	});
+
+        }
+	$('.ui-icon').css('background-image','url('+STATIC_URL+'css/images/ui-icons_ffffff_256x240.png?v=14)');
+
+     }
+
+    function showWidget(showParam){
+
+        if(showParam == 'show'){
+            $("#welLink").attr("class","topLeftSep active");
+            $("#wlcpop_widget").show();
+        }
+        else if(showParam == 'hide'){
+            $("#welLink").attr("class","topLeftSep");
+            $("#wlcpop_widget").hide();
+        }
+
+    }
+
+    function showCityWidget(showParam){
+
+        if(showParam == 'show'){
+            $("#cityLink").attr("class","topLeftSep active");
+            $("#city_widget").show();
+        }
+        else if(showParam == 'hide'){
+            $("#cityLink").attr("class","topLeftSep");
+            $("#city_widget").hide();
+        }
+
+    }
+
+    function showCity(val){
+        $("#cityLink").html(val+'<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>');
+
+    }
+</script>
+
+
+
+
 
 <style type="text/css">
 <!--
@@ -74,7 +239,7 @@ h2 {
     margin-top: 10px;
 }
 .signInMainTop, .signInMainBot {
-    background-image: url(http://media.bigbasket.com/static/images/page_edge.png);
+    background-image: url(//bigbasket.com/static/images/page_edge.png?v=248);
     background-position: left top;
     background-repeat: repeat-x;
     height: 4px;
@@ -101,7 +266,7 @@ h3 {
 }
 .testiArea {
     margin: 0 auto;
-    background-image: url(http://media.bigbasket.com/static/images/testi_page_bg.jpg);
+    background-image: url(//bigbasket.com/static/images/testi_page_bg.jpg?v=248);
     background-position: center top;
     background-repeat: repeat-y;
     width: 380px;
@@ -113,7 +278,7 @@ h3 {
     text-align: justify;
 }
 .testiTop, .testiBot {
-    background-image: url(http://media.bigbasket.com/static/images/testi_page_bg_top_bot.jpg);
+    background-image: url(//bigbasket.com/static/images/testi_page_bg_top_bot.jpg?v=248);
     background-position: left top;
     background-repeat: no-repeat;
     height: 75px;
@@ -157,7 +322,7 @@ h3 {
 .aboutMain {
     width: 650px;
     margin: 12px auto;
-    background-image: url(http://media.bigbasket.com/static/images/bb_van.jpg);
+    background-image: url(//bigbasket.com/static/images/bb_van.jpg?v=248);
     background-position: top right;
     background-repeat: no-repeat;
     color: #666;
@@ -193,7 +358,7 @@ h4 {
 
 }
 .payMethMain {
-    background-image: url(http://media.bigbasket.com/static/images/pay_methods.jpg);
+    background-image: url(//bigbasket.com/static/images/pay_methods.jpg?v=248);
     background-position: right 10px;
     background-repeat: no-repeat;
     color: #666666;
@@ -202,7 +367,7 @@ h4 {
     width: 650px;
 }
 .privacyMain {
-    background-image: url(http://media.bigbasket.com/static/images/privacy_policy.jpg);
+    background-image: url(//bigbasket.com/static/images/privacy_policy.jpg?v=248);
     background-position: right 10px;
     background-repeat: no-repeat;
     color: #666666;
@@ -214,63 +379,180 @@ h4 {
 </style>
 
 
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-27455376-1']);
   _gaq.push(['_setDomainName', 'bigbasket.com']);
   _gaq.push(['_trackPageview']);
+  _gaq.push(['_setCampSourceKey', 'utm_source']);
+  _gaq.push(['_setCampMediumKey', 'utm_medium']);
+  _gaq.push(['_setCampContentKey', 'utm_content']);
+  _gaq.push(['_setCampTermKey', 'utm_keyword']);
+  _gaq.push(['_setCampNameKey', 'utm_campaign']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+  //Setting Customer variables for vid and mid, for Analytics Event Tracking
+  var scope = 3; //Page level scope
+  var mid_cookie_value = get_member_cookie();
+  var mid_index = 1;
+  if (mid_cookie_value != null) {
+      _gaq.push(['_setCustomVar', mid_index, 'mid', mid_cookie_value, scope]);
+  }
+  var vid_cookie_value = get_visitor_cookie();
+  var vid_index = 2;
+  if (vid_cookie_value != null) {
+      _gaq.push(['_setCustomVar', vid_index, 'vid', vid_cookie_value, scope]);
+  }
+
 </script>
+
 </head>
 
-<body> 
+<body>
+    <!--Facebook Javascript SDK-->
+    
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    
+
+	<input type="hidden" id="flag-gana" value="True">
+	<input type="hidden" id="flag-ana" value="False">
+	
+	
+
+
+
+
+
+
 <div id="id_loader">Please wait...</div>
 <div id="shadow">
 <div id="topStrip">
+
 <div id="topStripIn">
+
 <div class="topRightLinkArea">
-    
-    <a href="/register/" class="topLeftSep">Register</a>
-    <a href="/auth/login/" class="topLeftSep">Log In</a>
-    
-<!--    <a href="/help/" class="topLeftSep">Help</a> -->
-    <a href="/faq/" class="topLeftSep">FAQs</a>
-    <a href="/contact/" class="topLeftSep">Contact Us</a>
+    <ul class="admin-menu">
+       
+           
+       
+
+       <li class="city-helptext"><br><label id="city-label">Current city of delivery</label> <br>
+		<a id="popuphelp" onclick="showpopup('//bigbasket.com/static/');">What is this?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 		</a>
+        </li>
+
+        
+          
+        <li class="active" onmouseover="this.getElementsByTagName('div')[0].style.display='block';" onmouseout="this.getElementsByTagName('div')[0].style.display='none';"><a href="#" id="cityLink" class="topLeftSep">Bangalore<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></a><br>
+            <div class="wctypop" id="city_widget" style="display:none;">
+                <div class="clear"></div>
+                <ul class="nav-poplist">
+                    
+                    <li class="nav_divider_before"><a href="javascript:" onclick="set_city(1);" id="firstCity">Bangalore</a></li>
+                    
+                    <li><a href="javascript:" onclick="set_city(3);">Hyderabad</a></li>
+                    
+                    <li><a href="javascript:" onclick="set_city(4);">Mumbai</a></li>
+                    
+                </ul>
+            </div>
+
+        </li>
+
+        
+
+
+        <li><a href="/" class="topLeftSep">Home</a></li>
+        
+
+
+        <li class="active" onmouseover="this.getElementsByTagName('div')[0].style.display='block';" onmouseout="this.getElementsByTagName('div')[0].style.display='none';">
+            <a href="#" id="welLink" class="topLeftSep" onmouseover="showWidget('show');" onmouseout="showWidget('hide');"> Hello. Login  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span></a><br>
+            
+                <div class="wlcpop" id="wlcpop_widget" style="display:none; overflow:visible;" onmouseover="showWidget('show');" onmouseout="showWidget('hide');">
+                    <div class="sigbut">
+                        <a href="/auth/login/"><img src="//bigbasket.com/static/images/login_button.png" width="85" height="29"></a>
+                        <p>New customer? <a href="/register/">Start here.</a></p>
+                    </div>
+                </div>
+            
+        </li>
+        <!--    <a href="/help/" class="topLeftSep">Help</a> -->
+        
+            <li><a href="/register" class="topLeftSep">Register</a></li>
+        
+        <li><a href="/contact/" class="topLeftSep">Contact Us</a></li>
+        <li><a href="/faq/" class="topLeftSep">FAQs</a></li>
+    </ul>
+
 </div><!-- topRightLinkArea -->
+
 <div class="headerLeft">
+
 <div class="logoArea"><a href="/" title="Big Basket Home"></a></div><!--logoArea -->
 
 <div class="searchArea">
-<form method="get" action="/p/">
-Search
-  <label>
-    <input type="text" value="" name="q" id="id_q" class="searchTxtField">
-  </label>
-  <label>
-    <input type="submit" id="button" value="Go">
-  </label>
+  <form method="get" onsubmit="return submit_search_form()" action="/ps/" name="frmMainSearch">
+    <div class="searchTitle">Search </div>
+    <div class="srchTxtField">
+      <label>
+        <input type="text" value="Search for products in our catalog" name="q" id="id_q" class="searchTxtField " onfocus="if(this.value=='Search for products in our catalog') { this.value='';this.style.borderColor='#005576';this.style.color='#333333';}" onblur="if(this.value=='') {this.value='Search for products in our catalog'; this.style.color='#B2B2B2';this.style.borderColor='#C6C9D3';}">
+      </label>
+    </div>
+    <div class="srchBut"> <a href="javascript://" onclick="submit_search();"><img src="//bigbasket.com/static/images/go_but.png?v=248" width="56" height="21" border="0"></a></div>
 </form>
 </div><!--searchArea -->
+
 <div class="clear"></div>
+
+<!--
+<div class="searchArea"> 
+<form method='get' action='/ps/' name='frmMainSearch' >
+Search
+  <label>
+    <input type="text" value="" name="q" id="id_q" class="searchTxtField" />
+  </label>
+  <label>
+    <input type="submit" id="button" value="Go" />
+  </label>
+</form>
+</div>
+<div class="clear"></div>
+-->
+
 <div class="menuHolder">
 
-    <ul><li class="oneCol"><a class="oneCol" href="/c/fruits-vegetables">            <span class="">Fruits &amp; <br> Vegetables</span><!--[if gte IE 7]><!--></a><!--<![endif]-->            <!--[if lte IE 6]><table><tr><td><![endif]-->            <div><ul><li class="fly"><a class="fly" href="/p/?c=exotic">Exotic                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=frozen-veg">Frozen Veg                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=fruits">Fruits                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=vegetables">Vegetables                <!--[if gte IE 7]><!--></a><!--<![endif]--></li></ul></div><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="oneCol"><a class="oneCol" href="/c/grocery-staples">            <span class="">Grocery &amp; <br> Staples</span><!--[if gte IE 7]><!--></a><!--<![endif]-->            <!--[if lte IE 6]><table><tr><td><![endif]-->            <div><ul><li class="fly"><a class="fly" href="/p/?c=dals">Dals                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=dry-fruits">Dry Fruits                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=flours-sooji">Flours &amp; Sooji                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=oils-ghee">Oils &amp; Ghee                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=ghee">Ghee</a></li><li><a href="/p/?c=olive-oils">Olive Oils</a></li><li><a href="/p/?c=other-oils">Other Oils</a></li><li><a href="/p/?c=sunflower-oils">Sunflower Oils</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=organic-staples">Organic Staples                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=pulses">Pulses                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=rice-rice-products">Rice &amp; Rice Products                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=salt-sugar">Salt &amp; Sugar                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=salt">Salt</a></li><li><a href="/p/?c=sugar-jaggery">Sugar &amp; Jaggery</a></li><li><a href="/p/?c=sugar-free">Sugar Free</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=spices-seasonings">Spices &amp; Seasonings                <!--[if gte IE 7]><!--></a><!--<![endif]--></li></ul></div><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="oneCol"><a class="oneCol" href="/c/bread-dairy-n-eggs">            <span class="">Bread <br> Dairy N Eggs</span><!--[if gte IE 7]><!--></a><!--<![endif]-->            <!--[if lte IE 6]><table><tr><td><![endif]-->            <div><ul><li class="fly"><a class="fly" href="/p/?c=bread-bakery">Bread &amp; Bakery                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=baking-items">Baking Items</a></li><li><a href="/p/?c=breads">Breads</a></li><li><a href="/p/?c=buns-cakes">Buns &amp; Cakes</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=dairy-products">Dairy Products                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=butter">Butter</a></li><li><a href="/p/?c=cheese">Cheese</a></li><li><a href="/p/?c=curds-butter-milk">Curds &amp; Butter Milk</a></li><li><a href="/p/?c=ice-creams-desserts">Ice Creams &amp; Desserts</a></li><li><a href="/p/?c=milk-milk-drinks">Milk &amp; Milk Drinks</a></li><li><a href="/p/?c=other-dairy-products">Other Dairy Products</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=eggs">Eggs                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=fresh-batter">Fresh Batter                <!--[if gte IE 7]><!--></a><!--<![endif]--></li></ul></div><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="oneCol"><a class="oneCol" href="/c/beverages">            <span class="lh27">Beverages</span><!--[if gte IE 7]><!--></a><!--<![endif]-->            <!--[if lte IE 6]><table><tr><td><![endif]-->            <div><ul><li class="fly"><a class="fly" href="/p/?c=energy-health-drinks">Energy &amp; Health Drinks                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=energy-drinks">Energy Drinks</a></li><li><a href="/p/?c=health-drinks">Health Drinks</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=fruit-drinks-juices">Fruit Drinks &amp; Juices                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=concentrates">Concentrates</a></li><li><a href="/p/?c=juices">Juices</a></li><li><a href="/p/?c=syrups-squashes">Syrups &amp; Squashes</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=mineral-water">Mineral Water                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=soft-drinks">Soft Drinks                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=cola-drinks">Cola Drinks</a></li><li><a href="/p/?c=other-soft-drinks">Other Soft Drinks</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=tea-coffee">Tea &amp; Coffee                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=coffee">Coffee</a></li><li><a href="/p/?c=tea">Tea</a></li><li><a href="/p/?c=tea-bags">Tea Bags</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul></div><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="oneCol"><a class="oneCol" href="/c/branded-foods">            <span class="">Branded<br> Foods</span><!--[if gte IE 7]><!--></a><!--<![endif]-->            <!--[if lte IE 6]><table><tr><td><![endif]-->            <div><ul><li class="fly"><a class="fly" href="/p/?c=baby-foods">Baby Foods                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=breakfast-cereals">Breakfast Cereals                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=flakes">Flakes</a></li><li><a href="/p/?c=muesli-oats">Muesli &amp; Oats</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=noodles-pasta">Noodles &amp; Pasta                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=noodles">Noodles</a></li><li><a href="/p/?c=pasta">Pasta</a></li><li><a href="/p/?c=vermicelli">Vermicelli</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=pickles">Pickles                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=ready-to-eat-cook">Ready To Eat &amp; Cook                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=meals">Meals</a></li><li><a href="/p/?c=snacks">Snacks</a></li><li><a href="/p/?c=soups">Soups</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=spreads-sauces">Spreads &amp; Sauces                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=jams">Jams</a></li><li><a href="/p/?c=ketchups">Ketchups</a></li><li><a href="/p/?c=sauces">Sauces</a></li><li><a href="/p/?c=spreads">Spreads</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=veg-canned-food">Veg Canned Food                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=veg-snacks">Veg Snacks                <!--[if gte IE 7]><!--></a><!--<![endif]--></li></ul></div><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="oneCol"><a class="oneCol" href="/c/personal-care">            <span class="">Personal <br> Care</span><!--[if gte IE 7]><!--></a><!--<![endif]-->            <!--[if lte IE 6]><table><tr><td><![endif]-->            <div><ul><li class="fly"><a class="fly" href="/p/?c=baby-care">Baby Care                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=baby-creams-lotions">Baby Creams &amp; Lotions</a></li><li><a href="/p/?c=baby-oils-shampoos">Baby Oils &amp; Shampoos</a></li><li><a href="/p/?c=baby-powder">Baby Powder</a></li><li><a href="/p/?c=baby-soaps">Baby Soaps</a></li><li><a href="/p/?c=diapers-wipes">Diapers &amp; Wipes</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=cosmetics">Cosmetics                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=deos-perfumes">Deos &amp; Perfumes                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=hair-care">Hair Care                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=colours-dyes">Colours &amp; Dyes</a></li><li><a href="/p/?c=conditioners">Conditioners</a></li><li><a href="/p/?c=gels-brushes">Gels &amp; Brushes</a></li><li><a href="/p/?c=hair-oils">Hair Oils</a></li><li><a href="/p/?c=shampoos">Shampoos</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=oral-care">Oral Care                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=mouth-wash">Mouth Wash</a></li><li><a href="/p/?c=tooth-brush">Tooth Brush</a></li><li><a href="/p/?c=tooth-paste">Tooth Paste</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=otc-medicines">Otc Medicines                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=sanitary-napkins">Sanitary Napkins                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=adult-diapers">Adult Diapers</a></li><li><a href="/p/?c=sanitary-pads">Sanitary Pads</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=shaving-needs">Shaving Needs                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=blades-razors">Blades &amp; Razors</a></li><li><a href="/p/?c=creamfoam-gels">Cream,Foam &amp; Gels</a></li><li><a href="/p/?c=lotions-brushes">Lotions &amp; Brushes</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=skin-care">Skin Care                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=bathing-soaps">Bathing Soaps</a></li><li><a href="/p/?c=creams-lotions">Creams &amp; Lotions</a></li><li><a href="/p/?c=facial-tissues">Facial Tissues</a></li><li><a href="/p/?c=hair-removers">Hair Removers</a></li><li><a href="/p/?c=liquid-soaps">Liquid Soaps</a></li><li><a href="/p/?c=talcum-powders">Talcum Powders</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul></div><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="oneCol"><a class="oneCol" href="/c/household">            <span class="lh27">Household</span><!--[if gte IE 7]><!--></a><!--<![endif]-->            <!--[if lte IE 6]><table><tr><td><![endif]-->            <div><ul><li class="fly"><a class="fly" href="/p/?c=cleaning-articles">Cleaning Articles                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=brooms">Brooms</a></li><li><a href="/p/?c=cleaning-agents">Cleaning Agents</a></li><li><a href="/p/?c=cloths-mops">Cloths &amp; Mops</a></li><li><a href="/p/?c=tissues">Tissues</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=detergents">Detergents                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=washing-bars">Washing Bars</a></li><li><a href="/p/?c=washing-liquids">Washing Liquids</a></li><li><a href="/p/?c=washing-powders">Washing Powders</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=electricals">Electricals                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=batteriescells">Batteries/Cells</a></li><li><a href="/p/?c=cfls">Cfl'S</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=freshner-repellant">Freshner &amp; Repellant                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=freshners">Freshners</a></li><li><a href="/p/?c=repellants">Repellants</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=kitchenware">Kitchenware                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=disposable-tableware">Disposable Tableware</a></li><li><a href="/p/?c=other-kitchenware">Other Kitchenware</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=pet-food">Pet Food                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=plasticware">Plasticware                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=pooja-needs">Pooja Needs                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=shoe-care">Shoe Care                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=stationery">Stationery                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=other-stationery">Other Stationery</a></li><li><a href="/p/?c=printing-accessories">Printing Accessories</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul></div><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="oneCol"><a class="oneCol" href="/c/confectionery">            <span class="lh27">Confectionery</span><!--[if gte IE 7]><!--></a><!--<![endif]-->            <!--[if lte IE 6]><table><tr><td><![endif]-->            <div><ul><li class="fly"><a class="fly" href="/p/?c=biscuits">Biscuits                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=chocolates">Chocolates                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=cookies">Cookies                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=sweets-candies">Sweets &amp; Candies                <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/p/?c=gums-freshners">Gums &amp; Freshners</a></li><li><a href="/p/?c=mint">Mint</a></li><li><a href="/p/?c=sweets">Sweets</a></li><li><a href="/p/?c=toffees">Toffees</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/p/?c=wafers">Wafers                <!--[if gte IE 7]><!--></a><!--<![endif]--></li></ul></div><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="oneCol"><a class="oneCol" href="/c/meat">            <span class="lh27">Meat</span><!--[if gte IE 7]><!--></a><!--<![endif]-->            <!--[if lte IE 6]><table><tr><td><![endif]-->            <div><ul><li class="fly"><a class="fly" href="/p/?c=chicken">Chicken                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=fish">Fish                <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/p/?c=other-meat">Other Meat                <!--[if gte IE 7]><!--></a><!--<![endif]--></li></ul></div><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul>
+    <ul><li class="oneCol"><a class="oneCol" href="/cl/fruits-vegetables/?nc=nb">            <span class="">Fruits &amp; <br> Vegetables</span><!--[if gte IE 7]><!--></a><!--<![endif]-->            <!--[if lte IE 6]><table><tr><td><![endif]-->            <div><ul><li class="fly"><a class="fly" href="/pc/fruits-vegetables/fruits/?nc=nb">Fruits                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/fruits-vegetables/fruits/apple/?nc=nb">Apple</a></li><li><a href="/pc/fruits-vegetables/fruits/banana/?nc=nb">Banana</a></li><li><a href="/pc/fruits-vegetables/fruits/exotic-fruits/?nc=nb">Exotic Fruits</a></li><li><a href="/pc/fruits-vegetables/fruits/mangoes/?nc=nb">Mangoes</a></li><li><a href="/pc/fruits-vegetables/fruits/melon/?nc=nb">Melon</a></li><li><a href="/pc/fruits-vegetables/fruits/oranges-sweet-lime/?nc=nb">Oranges &amp; Sweet Lime</a></li><li><a href="/pc/fruits-vegetables/fruits/other-fruits/?nc=nb">Other Fruits</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class=""><a class="" href="/pc/fruits-vegetables/organic-fv/?nc=nb">Organic F&amp;V                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/pc/fruits-vegetables/vegetables/?nc=nb">Vegetables                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/fruits-vegetables/vegetables/beans/?nc=nb">Beans</a></li><li><a href="/pc/fruits-vegetables/vegetables/brinjals/?nc=nb">Brinjals</a></li><li><a href="/pc/fruits-vegetables/vegetables/chilli-lemon-garlic-ginger/?nc=nb">Chilli, Lemon, Garlic &amp; Ginger</a></li><li><a href="/pc/fruits-vegetables/vegetables/exotic-vegetables/?nc=nb">Exotic Vegetables</a></li><li><a href="/pc/fruits-vegetables/vegetables/gourd-cucumber/?nc=nb">Gourd &amp; Cucumber</a></li><li><a href="/pc/fruits-vegetables/vegetables/leafy-vegetables/?nc=nb">Leafy Vegetables</a></li><li><a href="/pc/fruits-vegetables/vegetables/other-vegetables/?nc=nb">Other Vegetables</a></li><li><a href="/pc/fruits-vegetables/vegetables/potato-onion-tomato/?nc=nb">Potato, Onion &amp; Tomato</a></li><li><a href="/pc/fruits-vegetables/vegetables/root-vegetables/?nc=nb">Root Vegetables</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul></div><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="oneCol"><a class="oneCol" href="/cl/grocery-staples/?nc=nb">            <span class="">Grocery &amp; <br> Staples</span><!--[if gte IE 7]><!--></a><!--<![endif]-->            <!--[if lte IE 6]><table><tr><td><![endif]-->            <div><ul><li class="fly"><a class="fly" href="/pc/grocery-staples/dals-pulses/?nc=nb">Dals &amp; Pulses                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/grocery-staples/dals-pulses/channa-dal/?nc=nb">Channa Dal</a></li><li><a href="/pc/grocery-staples/dals-pulses/groundnut/?nc=nb">Groundnut</a></li><li><a href="/pc/grocery-staples/dals-pulses/moong-dal/?nc=nb">Moong Dal</a></li><li><a href="/pc/grocery-staples/dals-pulses/other-dals/?nc=nb">Other Dals</a></li><li><a href="/pc/grocery-staples/dals-pulses/toor-dal/?nc=nb">Toor Dal</a></li><li><a href="/pc/grocery-staples/dals-pulses/urad-dal/?nc=nb">Urad Dal</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/grocery-staples/dry-fruits/?nc=nb">Dry Fruits                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/grocery-staples/dry-fruits/almonds/?nc=nb">Almonds</a></li><li><a href="/pc/grocery-staples/dry-fruits/cashews/?nc=nb">Cashews</a></li><li><a href="/pc/grocery-staples/dry-fruits/other-dry-fruits/?nc=nb">Other Dry Fruits</a></li><li><a href="/pc/grocery-staples/dry-fruits/raisins/?nc=nb">Raisins</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/grocery-staples/flours-sooji/?nc=nb">Flours &amp; Sooji                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/grocery-staples/flours-sooji/besan/?nc=nb">Besan</a></li><li><a href="/pc/grocery-staples/flours-sooji/other-flours/?nc=nb">Other Flours</a></li><li><a href="/pc/grocery-staples/flours-sooji/sooji-rava/?nc=nb">Sooji &amp; Rava</a></li><li><a href="/pc/grocery-staples/flours-sooji/wheat-atta/?nc=nb">Wheat Atta</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/grocery-staples/oils-ghee/?nc=nb">Oils &amp; Ghee                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/grocery-staples/oils-ghee/ghee/?nc=nb">Ghee</a></li><li><a href="/pc/grocery-staples/oils-ghee/groundnut-oils/?nc=nb">Groundnut Oils</a></li><li><a href="/pc/grocery-staples/oils-ghee/mustard-oils/?nc=nb">Mustard Oils</a></li><li><a href="/pc/grocery-staples/oils-ghee/olive-oils/?nc=nb">Olive Oils</a></li><li><a href="/pc/grocery-staples/oils-ghee/other-oils/?nc=nb">Other Oils</a></li><li><a href="/pc/grocery-staples/oils-ghee/sunflower-oils/?nc=nb">Sunflower Oils</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/grocery-staples/organic-staples/?nc=nb">Organic Staples                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/grocery-staples/organic-staples/organic-dals-pulses/?nc=nb">Organic Dals &amp; Pulses</a></li><li><a href="/pc/grocery-staples/organic-staples/organic-dry-fruits/?nc=nb">Organic Dry Fruits</a></li><li><a href="/pc/grocery-staples/organic-staples/organic-edible-oils/?nc=nb">Organic Edible Oils</a></li><li><a href="/pc/grocery-staples/organic-staples/organic-sugar/?nc=nb">Organic Sugar</a></li><li><a href="/pc/grocery-staples/organic-staples/rice-flour-sooji/?nc=nb">Rice, Flour &amp; Sooji</a></li><li><a href="/pc/grocery-staples/organic-staples/spices/?nc=nb">Spices</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/grocery-staples/rice-rice-products/?nc=nb">Rice &amp; Rice Products                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/grocery-staples/rice-rice-products/basmati-rice/?nc=nb">Basmati Rice</a></li><li><a href="/pc/grocery-staples/rice-rice-products/rice/?nc=nb">Rice</a></li><li><a href="/pc/grocery-staples/rice-rice-products/rice-products/?nc=nb">Rice Products</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/grocery-staples/salt-sugar/?nc=nb">Salt &amp; Sugar                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/grocery-staples/salt-sugar/jaggery/?nc=nb">Jaggery</a></li><li><a href="/pc/grocery-staples/salt-sugar/salt/?nc=nb">Salt</a></li><li><a href="/pc/grocery-staples/salt-sugar/sugar/?nc=nb">Sugar</a></li><li><a href="/pc/grocery-staples/salt-sugar/sugar-free/?nc=nb">Sugar Free</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/grocery-staples/spices-masalas/?nc=nb">Spices &amp; Masalas                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/grocery-staples/spices-masalas/international-spices/?nc=nb">International Spices</a></li><li><a href="/pc/grocery-staples/spices-masalas/masalas/?nc=nb">Masalas</a></li><li><a href="/pc/grocery-staples/spices-masalas/powdered-spices/?nc=nb">Powdered Spices</a></li><li><a href="/pc/grocery-staples/spices-masalas/whole-spices/?nc=nb">Whole Spices</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class=""><a class="" href="/pc/grocery-staples/whole-grains/?nc=nb">Whole Grains                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li></ul></div><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="oneCol"><a class="oneCol" href="/cl/bread-dairy-eggs/?nc=nb">            <span class="">Bread <br> Dairy &amp; Eggs</span><!--[if gte IE 7]><!--></a><!--<![endif]-->            <!--[if lte IE 6]><table><tr><td><![endif]-->            <div><ul><li class="fly"><a class="fly" href="/pc/bread-dairy-eggs/bread-bakery/?nc=nb">Bread &amp; Bakery                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/bread-dairy-eggs/bread-bakery/bread/?nc=nb">Bread</a></li><li><a href="/pc/bread-dairy-eggs/bread-bakery/buns-pavs/?nc=nb">Buns &amp; Pavs</a></li><li><a href="/pc/bread-dairy-eggs/bread-bakery/cakes/?nc=nb">Cakes</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/bread-dairy-eggs/dairy-products/?nc=nb">Dairy Products                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/bread-dairy-eggs/dairy-products/butter-cream/?nc=nb">Butter &amp; Cream</a></li><li><a href="/pc/bread-dairy-eggs/dairy-products/cheese/?nc=nb">Cheese</a></li><li><a href="/pc/bread-dairy-eggs/dairy-products/condensed-milk/?nc=nb">Condensed Milk</a></li><li><a href="/pc/bread-dairy-eggs/dairy-products/curds-buttermilk/?nc=nb">Curds &amp; Buttermilk</a></li><li><a href="/pc/bread-dairy-eggs/dairy-products/ice-creams-desserts/?nc=nb">Ice Creams &amp; Desserts</a></li><li><a href="/pc/bread-dairy-eggs/dairy-products/milk/?nc=nb">Milk</a></li><li><a href="/pc/bread-dairy-eggs/dairy-products/milk-drinks/?nc=nb">Milk Drinks</a></li><li><a href="/pc/bread-dairy-eggs/dairy-products/paneer-tofu/?nc=nb">Paneer &amp; Tofu</a></li><li><a href="/pc/bread-dairy-eggs/dairy-products/soya-drinks/?nc=nb">Soya Drinks</a></li><li><a href="/pc/bread-dairy-eggs/dairy-products/yogurt-lassi/?nc=nb">Yogurt &amp; Lassi</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class=""><a class="" href="/pc/bread-dairy-eggs/eggs/?nc=nb">Eggs                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li></ul></div><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="oneCol"><a class="oneCol" href="/cl/beverages/?nc=nb">            <span class="lh27">Beverages</span><!--[if gte IE 7]><!--></a><!--<![endif]-->            <!--[if lte IE 6]><table><tr><td><![endif]-->            <div><ul><li class="fly"><a class="fly" href="/pc/beverages/energy-health-drinks/?nc=nb">Energy &amp; Health Drinks                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/beverages/energy-health-drinks/energy-drinks/?nc=nb">Energy Drinks</a></li><li><a href="/pc/beverages/energy-health-drinks/health-drinks/?nc=nb">Health Drinks</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/beverages/fruit-drinks-juices/?nc=nb">Fruit Drinks &amp; Juices                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/beverages/fruit-drinks-juices/concentrates/?nc=nb">Concentrates</a></li><li><a href="/pc/beverages/fruit-drinks-juices/mango-juices/?nc=nb">Mango Juices</a></li><li><a href="/pc/beverages/fruit-drinks-juices/orange-apple-juices/?nc=nb">Orange &amp; Apple Juices</a></li><li><a href="/pc/beverages/fruit-drinks-juices/other-juices/?nc=nb">Other Juices</a></li><li><a href="/pc/beverages/fruit-drinks-juices/syrups-squashes/?nc=nb">Syrups &amp; Squashes</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class=""><a class="" href="/pc/beverages/packaged-mineral-water/?nc=nb">Packaged Mineral Water                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/pc/beverages/soft-drinks/?nc=nb">Soft Drinks                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/beverages/soft-drinks/cola-drinks/?nc=nb">Cola Drinks</a></li><li><a href="/pc/beverages/soft-drinks/non-alcoholic-drinks/?nc=nb">Non Alcoholic Drinks</a></li><li><a href="/pc/beverages/soft-drinks/other-soft-drinks/?nc=nb">Other Soft Drinks</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/beverages/tea-coffee/?nc=nb">Tea &amp; Coffee                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/beverages/tea-coffee/dairy-whiteners/?nc=nb">Dairy Whiteners</a></li><li><a href="/pc/beverages/tea-coffee/green-tea/?nc=nb">Green Tea</a></li><li><a href="/pc/beverages/tea-coffee/ground-coffee/?nc=nb">Ground Coffee</a></li><li><a href="/pc/beverages/tea-coffee/instant-coffee/?nc=nb">Instant Coffee</a></li><li><a href="/pc/beverages/tea-coffee/tea/?nc=nb">Tea</a></li><li><a href="/pc/beverages/tea-coffee/tea-bags/?nc=nb">Tea Bags</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul></div><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="oneCol"><a class="oneCol" href="/cl/branded-foods/?nc=nb">            <span class="">Branded <br> Foods</span><!--[if gte IE 7]><!--></a><!--<![endif]-->            <!--[if lte IE 6]><table><tr><td><![endif]-->            <div><ul><li class=""><a class="" href="/pc/branded-foods/baby-foods/?nc=nb">Baby Foods                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class=""><a class="" href="/pc/branded-foods/baking-items/?nc=nb">Baking Items                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/pc/branded-foods/breakfast-cereals/?nc=nb">Breakfast Cereals                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/branded-foods/breakfast-cereals/flakes/?nc=nb">Flakes</a></li><li><a href="/pc/branded-foods/breakfast-cereals/muesli-oats/?nc=nb">Muesli &amp; Oats</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class=""><a class="" href="/pc/branded-foods/frozen-vegetables/?nc=nb">Frozen Vegetables                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class=""><a class="" href="/pc/branded-foods/non-veg-canned-food/?nc=nb">Non Veg Canned Food                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/pc/branded-foods/noodles-pasta/?nc=nb">Noodles &amp; Pasta                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/branded-foods/noodles-pasta/noodles/?nc=nb">Noodles</a></li><li><a href="/pc/branded-foods/noodles-pasta/pasta/?nc=nb">Pasta</a></li><li><a href="/pc/branded-foods/noodles-pasta/vermicelli/?nc=nb">Vermicelli</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class=""><a class="" href="/pc/branded-foods/pickles/?nc=nb">Pickles                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/pc/branded-foods/ready-to-eat-cook/?nc=nb">Ready To Eat &amp; Cook                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/branded-foods/ready-to-eat-cook/meals/?nc=nb">Meals</a></li><li><a href="/pc/branded-foods/ready-to-eat-cook/snacks/?nc=nb">Snacks</a></li><li><a href="/pc/branded-foods/ready-to-eat-cook/soups/?nc=nb">Soups</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/branded-foods/spreads-sauces/?nc=nb">Spreads &amp; Sauces                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/branded-foods/spreads-sauces/jams/?nc=nb">Jams</a></li><li><a href="/pc/branded-foods/spreads-sauces/ketchups/?nc=nb">Ketchups</a></li><li><a href="/pc/branded-foods/spreads-sauces/sauces/?nc=nb">Sauces</a></li><li><a href="/pc/branded-foods/spreads-sauces/spreads/?nc=nb">Spreads</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class=""><a class="" href="/pc/branded-foods/veg-canned-food/?nc=nb">Veg Canned Food                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class=""><a class="" href="/pc/branded-foods/veg-snacks/?nc=nb">Veg Snacks                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li></ul></div><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="oneCol"><a class="oneCol" href="/cl/personal-care/?nc=nb">            <span class="">Personal <br> Care</span><!--[if gte IE 7]><!--></a><!--<![endif]-->            <!--[if lte IE 6]><table><tr><td><![endif]-->            <div><ul><li class="fly"><a class="fly" href="/pc/personal-care/baby-care/?nc=nb">Baby Care                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/personal-care/baby-care/baby-care-accessories/?nc=nb">Baby Care Accessories</a></li><li><a href="/pc/personal-care/baby-care/baby-creams-lotions/?nc=nb">Baby Creams &amp; Lotions</a></li><li><a href="/pc/personal-care/baby-care/baby-oils-shampoos/?nc=nb">Baby Oils &amp; Shampoos</a></li><li><a href="/pc/personal-care/baby-care/baby-powder/?nc=nb">Baby Powder</a></li><li><a href="/pc/personal-care/baby-care/baby-soaps/?nc=nb">Baby Soaps</a></li><li><a href="/pc/personal-care/baby-care/diapers-wipes/?nc=nb">Diapers &amp; Wipes</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class=""><a class="" href="/pc/personal-care/cosmetics/?nc=nb">Cosmetics                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class=""><a class="" href="/pc/personal-care/deos-perfumes/?nc=nb">Deos &amp; Perfumes                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/pc/personal-care/hair-care/?nc=nb">Hair Care                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/personal-care/hair-care/colours-dyes/?nc=nb">Colours &amp; Dyes</a></li><li><a href="/pc/personal-care/hair-care/conditioners/?nc=nb">Conditioners</a></li><li><a href="/pc/personal-care/hair-care/gels-brushes/?nc=nb">Gels &amp; Brushes</a></li><li><a href="/pc/personal-care/hair-care/hair-oils/?nc=nb">Hair Oils</a></li><li><a href="/pc/personal-care/hair-care/shampoos/?nc=nb">Shampoos</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class=""><a class="" href="/pc/personal-care/liquid-soaps/?nc=nb">Liquid Soaps                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/pc/personal-care/oral-care/?nc=nb">Oral Care                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/personal-care/oral-care/mouth-wash/?nc=nb">Mouth Wash</a></li><li><a href="/pc/personal-care/oral-care/tooth-brush/?nc=nb">Tooth Brush</a></li><li><a href="/pc/personal-care/oral-care/tooth-paste/?nc=nb">Tooth Paste</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class=""><a class="" href="/pc/personal-care/otc-medicines/?nc=nb">OTC Medicines                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/pc/personal-care/sanitary-napkins/?nc=nb">Sanitary Napkins                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/personal-care/sanitary-napkins/adult-diapers/?nc=nb">Adult Diapers</a></li><li><a href="/pc/personal-care/sanitary-napkins/sanitary-pads/?nc=nb">Sanitary Pads</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/personal-care/shaving-needs/?nc=nb">Shaving Needs                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/personal-care/shaving-needs/blades-razors/?nc=nb">Blades &amp; Razors</a></li><li><a href="/pc/personal-care/shaving-needs/cream-foam-gels/?nc=nb">Cream, Foam &amp; Gels</a></li><li><a href="/pc/personal-care/shaving-needs/lotions-brushes/?nc=nb">Lotions &amp; Brushes</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/personal-care/skin-care/?nc=nb">Skin Care                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/personal-care/skin-care/bathing-soaps/?nc=nb">Bathing Soaps</a></li><li><a href="/pc/personal-care/skin-care/creams-lotions/?nc=nb">Creams &amp; Lotions</a></li><li><a href="/pc/personal-care/skin-care/facial-tissues/?nc=nb">Facial Tissues</a></li><li><a href="/pc/personal-care/skin-care/hair-removers/?nc=nb">Hair Removers</a></li><li><a href="/pc/personal-care/skin-care/skin-accessories/?nc=nb">Skin Accessories</a></li><li><a href="/pc/personal-care/skin-care/talcum-powders/?nc=nb">Talcum Powders</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul></div><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="oneCol"><a class="oneCol" href="/cl/household/?nc=nb">            <span class="lh27">Household</span><!--[if gte IE 7]><!--></a><!--<![endif]-->            <!--[if lte IE 6]><table><tr><td><![endif]-->            <div><ul><li class="fly"><a class="fly" href="/pc/household/cleaning-accessories/?nc=nb">Cleaning Accessories                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/household/cleaning-accessories/brooms-dust-pans/?nc=nb">Brooms &amp; Dust Pans</a></li><li><a href="/pc/household/cleaning-accessories/brushes-scrubbers/?nc=nb">Brushes &amp; Scrubbers</a></li><li><a href="/pc/household/cleaning-accessories/cleaning-dust-cloth/?nc=nb">Cleaning &amp; Dust Cloth</a></li><li><a href="/pc/household/cleaning-accessories/mops/?nc=nb">Mops</a></li><li><a href="/pc/household/cleaning-accessories/toilet-brushes/?nc=nb">Toilet Brushes</a></li><li><a href="/pc/household/cleaning-accessories/wiper/?nc=nb">Wiper</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/household/detergents/?nc=nb">Detergents                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/household/detergents/liquid-detergent/?nc=nb">Liquid Detergent</a></li><li><a href="/pc/household/detergents/pre-post-wash-care/?nc=nb">Pre &amp; Post Wash Care</a></li><li><a href="/pc/household/detergents/washing-bars/?nc=nb">Washing Bars</a></li><li><a href="/pc/household/detergents/washing-powders/?nc=nb">Washing Powders</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/household/electricals/?nc=nb">Electricals                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/household/electricals/battery/?nc=nb">Battery</a></li><li><a href="/pc/household/electricals/cfls/?nc=nb">CFL's</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/household/paper-disposable/?nc=nb">Paper &amp; Disposable                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/household/paper-disposable/aluminium-foil-cling-wrap/?nc=nb">Aluminium Foil &amp; Cling Wrap</a></li><li><a href="/pc/household/paper-disposable/disposable-plates-utensils/?nc=nb">Disposable Plates &amp; Utensils</a></li><li><a href="/pc/household/paper-disposable/garbage-bags/?nc=nb">Garbage Bags</a></li><li><a href="/pc/household/paper-disposable/kitchen-cleaning-gloves/?nc=nb">Kitchen &amp; Cleaning Gloves</a></li><li><a href="/pc/household/paper-disposable/kitchen-rolls/?nc=nb">Kitchen Rolls</a></li><li><a href="/pc/household/paper-disposable/tissue-paper-napkins/?nc=nb">Tissue Paper &amp; Napkins</a></li><li><a href="/pc/household/paper-disposable/toilet-paper/?nc=nb">Toilet Paper</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/household/pet-care/?nc=nb">Pet Care                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/household/pet-care/pet-food/?nc=nb">Pet Food</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/household/plasticware/?nc=nb">Plasticware                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/household/plasticware/cloth-clips-hangers/?nc=nb">Cloth Clips &amp; Hangers</a></li><li><a href="/pc/household/plasticware/containers/?nc=nb">Containers</a></li><li><a href="/pc/household/plasticware/other-plasticware/?nc=nb">Other Plasticware</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class=""><a class="" href="/pc/household/pooja-needs/?nc=nb">Pooja Needs                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/pc/household/repellents-fresheners/?nc=nb">Repellents &amp; Fresheners                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/household/repellents-fresheners/car-freshener/?nc=nb">Car Freshener</a></li><li><a href="/pc/household/repellents-fresheners/home-air-freshener/?nc=nb">Home &amp; Air Freshener</a></li><li><a href="/pc/household/repellents-fresheners/mosquito-repellent/?nc=nb">Mosquito Repellent</a></li><li><a href="/pc/household/repellents-fresheners/other-insect-repellent/?nc=nb">Other Insect Repellent</a></li><li><a href="/pc/household/repellents-fresheners/rodent-control/?nc=nb">Rodent Control</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/household/shoe-care/?nc=nb">Shoe Care                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/household/shoe-care/shoe-brush/?nc=nb">Shoe Brush</a></li><li><a href="/pc/household/shoe-care/shoe-polish/?nc=nb">Shoe Polish</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/household/stationery/?nc=nb">Stationery                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/household/stationery/calculator/?nc=nb">Calculator</a></li><li><a href="/pc/household/stationery/colours/?nc=nb">Colours</a></li><li><a href="/pc/household/stationery/notebook/?nc=nb">Notebook</a></li><li><a href="/pc/household/stationery/office-stationery/?nc=nb">Office Stationery</a></li><li><a href="/pc/household/stationery/pens-pencils/?nc=nb">Pens &amp; Pencils</a></li><li><a href="/pc/household/stationery/printer-cartridges-printing-paper/?nc=nb">Printer Cartridges &amp; Printing Paper</a></li><li><a href="/pc/household/stationery/school-accessories/?nc=nb">School Accessories</a></li><li><a href="/pc/household/stationery/scissors-glue-tape/?nc=nb">Scissors, Glue &amp; Tape</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/household/toilet-floor-other-cleaners/?nc=nb">Toilet, Floor &amp; Other Cleaners                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/household/toilet-floor-other-cleaners/all-purpose-cleaners/?nc=nb">All Purpose Cleaners</a></li><li><a href="/pc/household/toilet-floor-other-cleaners/drain-cleaners/?nc=nb">Drain Cleaners</a></li><li><a href="/pc/household/toilet-floor-other-cleaners/floor-cleaners/?nc=nb">Floor Cleaners</a></li><li><a href="/pc/household/toilet-floor-other-cleaners/furniture-cleaners/?nc=nb">Furniture Cleaners</a></li><li><a href="/pc/household/toilet-floor-other-cleaners/glass-cleaners/?nc=nb">Glass Cleaners</a></li><li><a href="/pc/household/toilet-floor-other-cleaners/metal-polishers/?nc=nb">Metal Polishers</a></li><li><a href="/pc/household/toilet-floor-other-cleaners/phenyles-acids/?nc=nb">Phenyles &amp; Acids</a></li><li><a href="/pc/household/toilet-floor-other-cleaners/toilet-cleaners/?nc=nb">Toilet Cleaners</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/household/utensil-cleaners/?nc=nb">Utensil Cleaners                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/household/utensil-cleaners/dishwash-bars/?nc=nb">Dishwash Bars</a></li><li><a href="/pc/household/utensil-cleaners/dishwash-liquids-pastes/?nc=nb">Dishwash Liquids &amp; Pastes</a></li><li><a href="/pc/household/utensil-cleaners/dishwash-powders/?nc=nb">Dishwash Powders</a></li><li><a href="/pc/household/utensil-cleaners/utensil-scrub-pads/?nc=nb">Utensil Scrub Pads</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul></div><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="oneCol"><a class="oneCol" href="/cl/confectionery/?nc=nb">            <span class="lh27">Confectionery</span><!--[if gte IE 7]><!--></a><!--<![endif]-->            <!--[if lte IE 6]><table><tr><td><![endif]-->            <div><ul><li class=""><a class="" href="/pc/confectionery/biscuits/?nc=nb">Biscuits                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class=""><a class="" href="/pc/confectionery/chocolates/?nc=nb">Chocolates                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class=""><a class="" href="/pc/confectionery/cookies/?nc=nb">Cookies                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li><li class="fly"><a class="fly" href="/pc/confectionery/sweets-candies/?nc=nb">Sweets &amp; Candies                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/confectionery/sweets-candies/gums-freshners/?nc=nb">Gums &amp; Freshners</a></li><li><a href="/pc/confectionery/sweets-candies/mint/?nc=nb">Mint</a></li><li><a href="/pc/confectionery/sweets-candies/sweets/?nc=nb">Sweets</a></li><li><a href="/pc/confectionery/sweets-candies/toffees/?nc=nb">Toffees</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class=""><a class="" href="/pc/confectionery/wafers/?nc=nb">Wafers                    <!--[if gte IE 7]><!--></a><!--<![endif]--></li></ul></div><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="oneCol"><a class="oneCol" href="/cl/meat/?nc=nb">            <span class="lh27">Meat</span><!--[if gte IE 7]><!--></a><!--<![endif]-->            <!--[if lte IE 6]><table><tr><td><![endif]-->            <div><ul><li class="fly"><a class="fly" href="/pc/meat/chicken/?nc=nb">Chicken                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/meat/chicken/fresh-chicken/?nc=nb">Fresh Chicken</a></li><li><a href="/pc/meat/chicken/frozen-chicken/?nc=nb">Frozen Chicken</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/meat/mutton/?nc=nb">Mutton                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/meat/mutton/fresh-mutton/?nc=nb">Fresh Mutton</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/meat/pork-other-meats/?nc=nb">Pork &amp; Other Meats                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/meat/pork-other-meats/fresh/?nc=nb">Fresh</a></li><li><a href="/pc/meat/pork-other-meats/frozen/?nc=nb">Frozen</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="fly"><a class="fly" href="/pc/meat/seafood/?nc=nb">Seafood                    <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="/pc/meat/seafood/fish/?nc=nb">Fish</a></li><li><a href="/pc/meat/seafood/other-seafood/?nc=nb">Other Seafood</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul></div><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul>
 
 </div><!-- mainLinks -->
-<div class="shopList"><a href="/shopping-list/" title="My Shopping List"></a></div>
+<div class="shopList">
+<a href="/shopping-list/my-shopping-lists/" title="My Shopping Lists"></a>
+</div>
 <div class="clear"></div>
 
 </div><!-- headerLeft -->
 
+<div class="searchContainer">
+<div id="searchList">
+
+</div><!-- /searchList -->
+</div>
+
 <div class="quickShopArea">
-<a href="/quickshop/" title="Quick Shop"></a>
+<a href="/pc/all-offers/" title="Store-Wide Offers"></a>
 </div><!-- quickShopArea -->
 <div class="clear"></div>
 </div><!-- topStripIn -->
@@ -278,176 +560,236 @@ Search
 <div class="clear"></div>
 
 <div id="wrapper">
-<div class="breadCrumbs"> </div>
+ 
 <div class="sysMessage"> 
 
 </div>
 <div id="wrapperIn">
 
-<div class="hmLeft">
-<input type="hidden" name="csrftkn" value="9388c432bfb6e1a8f57e0e5a5a1ab2dc" id="id_csrftkn">
-
-<h3 class="marb10 marT20">
-	Privacy Policy</h3>
-<div class="privacyMain">
-	<h4>
-		Personal Information</h4>
+<div class="breadCrumbs">
+	You are in: <span class="active">Privacy Policy</span></div>
+<div id="aboutusArea">
+	<div class="leftNav">
+		<a href="/about-us/">About BigBasket</a> <a href="/board-directors/">The Board</a> <a href="/team-members/">The Team</a> <a href="/careers/">Careers at BigBasket</a> <a href="/in-media/">In the Media</a> <a href="/customer-speak/">Customer Speak</a> <a href="/green-bigbasket/">Green BigBasket</a> <a class="actLink" href="/privacy-policy/"> Privacy Policy</a> <a href="/terms-and-conditions/">Terms &amp; Conditions</a> <a href="/faq/">FAQs</a> <a href="/contact/">Contact us</a></div>
+	<!-- leftNav -->
+	<div class="abtUsBg">
+		<div class="abtBg">
+			<div id="privBg">
+				<div id="careerHdr">
+					<img height="25" src="/media/uploads/flatpages/about-us/priv_hdr.png" width="163"></div>
+				<div id="privVis">
+					<div class="privIn180">
+						<span class="bFont">Personal Information</span><br>
+						Innovative Retail Concepts Pvt Ltd is the licensed owner of the brand BigBasket.com and the<br>
+						website bigbasket.com. IRCPL respects your privacy. This Privacy Policy provides succinctly<br>
+						the manner your data is collected and used by BigBasket.com. You are advised to please read<br>
+						the Privacy Policy carefully. By accessing the services provided by BigBasket.com you agree<br>
+						to the collection and use of your data by BigBasket.com in the manner provided in this<br>
+						Privacy Policy.</div>
+					<!-- privIn --><img height="95" src="/media/uploads/flatpages/about-us/priv_q2_512.png" width="720">
+					<div class="privIn">
+						As part of our registration process we may collect the following personally identifiable information about you: name including first and last name alternate email address mobile phone number and contact details, demographic profile (like your age, gender, occupation, education, address etc). We also collect information about the pages on our site you visit/access the links you click on our site the number of times you access the page.&nbsp;</div>
+					<!-- privIn --><img height="95" src="/media/uploads/flatpages/about-us/priv_q3_512.png" width="720">
+					<div class="privIn">
+						We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey or any combination thereof. The Site may contain links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control. BigBasket.com<span style="letter-spacing: 0px; line-height: 19.4375px;">&nbsp;and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to your website.</span><br>
+						<img height="95" src="/media/uploads/flatpages/about-us/priv_q4_512.png" style="letter-spacing: 0px;" width="720"></div>
+					<div class="privIn">
+						We use your personal information to: help us provide personalized features tailor our sites to your interest for promotional offers through our business associates and partners to get in touch with you when necessary to provide the services requested by you to preserve social history as governed by existing law or policy We use contact information internally to: direct our efforts for product improvement contact you as a survey respondent notify you if you win any contest; and send you promotional materials from our contest sponsors or advertisers. We also use this information to serve various promotional and advertising materials to you via display advertisements through the google ad network on third party websites. You can opt out of Google Analytics for Display Advertising and customize Google Display network ads using the Ads Preferences Manager.</div>
+					<!-- privIn --><img height="95" src="/media/uploads/flatpages/about-us/priv_q5_512.png" width="720">
+					<div class="privIn">
+						We will not use your financial information for any purpose other than to complete a transaction with you. We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless: we have your permission to provide products or services you've requested it is shared with our business associates and partners for promotional offers, to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of BigBasket.com's terms of use or to defend against legal claims; special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.</div>
+					<!-- privIn --><img height="95" src="/media/uploads/flatpages/about-us/priv_q6_512.png" width="720">
+					<div class="privIn">
+						Supplying personally identifiable information is entirely voluntary. You are required to register with us in order to shop on our site. You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. BigBasket.com reserves the right to send you certain service related communication, considered to be a part of your BigBasket account without offering you the facility to opt-out. You may update your information and change your account settings at any time Upon request, we will remove/block your personally identifiable information from our database, thereby canceling your registration. See Contact information below. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account. If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes.</div>
+					<!-- privIn --><img height="95" src="/media/uploads/flatpages/about-us/priv_q7_512.png" width="720">
+					<div class="privIn">
+						To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you. Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.</div>
+					<!-- privIn --><img height="95" src="/media/uploads/flatpages/about-us/priv_q8_512.png" width="720">
+					<div class="privIn">
+						To correct or update any information you have provided, our site allows you to do it online. In the event of loss of access details you can use any of the following options: Send an e-mail to customerservice@bigbasket.com</div>
+					<!-- privIn --><img height="95" src="/media/uploads/flatpages/about-us/priv_q9_512.png" width="720">
+					<div class="privIn">
+						We reserve the right to change or update this policy at any time. Such changes shall be effective immediately upon posting to this site.</div>
+					<!-- privIn --><img height="95" src="/media/uploads/flatpages/about-us/priv_q10_512.png" width="720">
+					<div class="privIn">
+						Innovative Retail Concepts Pvt Ltd 1st Floor, Service Road, Domlur 2nd Stage, Off Indiranagar 100ft Road, Bangalore-560071 INDIA Tel.: +91 80 3355 1000 Email id: <a href="mailto:customerservice@bigbasket.com">customerservice@bigbasket.com</a></div>
+					<!-- privIn --></div>
+				<!-- privVis --><!-- whatBg --></div>
+			<!--abtBg --></div>
+	</div>
 	<p>
-		Innovative Retail Concepts Pvt Ltd (IRCPL) is the sole owner of the brand BigBasket.com<br>
-		and its website bigbasket.com. IRCPL respects your privacy. This Privacy Policy provides<br>
-		succinctly the manner your data is collected and used by BigBasket.com.com. You are<br>
-		advised to please read the Privacy Policy carefully. By accessing the services provided<br>
-		by BigBasket.com.com you agree to the collection and use of your data by<br>
-		BigBasket.com in the manner provided in this Privacy Policy.</p>
-	<h4>
-		What information is, or may be, collected from you?</h4>
-	As part of our registration process we may collect the following personally identifiable information about you: name including first and last name alternate email address mobile phone number and contact details Postal code demographic profile (like your age, gender, occupation, education, address etc) may also collect the following information: about the pages on our site you visit/access the links you click on our site the number of times you access the page
-	<h4>
-		How do we collect the information?</h4>
-	We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey or any combination thereof. The Site may contain links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control.
-	<h4>
-		How is the information used?</h4>
-	We use your personal information to: help us provide personalized features tailor our sites to your interest for promotional offers through our business associates and partners to get in touch with you when necessary to provide the services requested by you to preserve social history as governed by existing law or policy We use contact information internally to: direct our efforts for product improvement contact you as a survey respondent notify you if you win any contest; and send you promotional materials from our contest sponsors or advertisers
-	<h4>
-		With whom will your information be shared?</h4>
-	We will not use your financial information for any purpose other than to complete a transaction with you. We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless: we have your permission to provide products or services you've requested it is shared with our business associates and partners for promotional offers. to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of ShopasUlike.com?s terms of use or to defend against legal claims; special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.
-	<h4>
-		What choices are available to you regarding collection, use and distribution of your information?</h4>
-	Supplying personally identifiable information is entirely voluntary. You are required to register with us in order to shop on our site. You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. BigBasket.com reserves the right to send you certain service related communication, considered to be a part of your BigBasket account without offering you the facility to opt-out. You may update your information and change your account settings at any time Upon request, we will remove/block your personally identifiable information from our database, thereby canceling your registration. See Contact information below. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account. If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes.
-	<h4>
-		What security procedures are in place to protect information from loss, misuse or alteration?</h4>
-	To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you. Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.
-	<h4>
-		How can you correct inaccuracies in the information?</h4>
-	To correct or update any information you have provided, our site allows you to do it online. In the event of loss of access details you can use any of the following options: Send an e-mail to customerservice@bigbasket.com
-	<h4>
-		Policy updates</h4>
-	We reserve the right to change or update this policy at any time. Such changes shall be effective immediately upon posting to this site.
-	<h4>
-		Contact information</h4>
-	Innovative Retail Concepts Pvt Ltd B-18, Safal Market Whitefield Hoskote Highway Bangalore-560067 INDIA Tel.: +91 80 4343 5000 Email id: customerservice@bigbasket.com</div>
+		&nbsp;</p>
+	<style type="text/css">
+.breadCrumbs{background-image:none;padding-top:0px;padding-bottom:15px;}
+#aboutusArea {
+    margin: 0 0 20px 20px;
+    overflow: hidden;
+    width: 940px;
+}
+#aboutusArea .abtUsBg {
+    float: left;
+    padding-left: 20px;
+    width: 730px;
+border-left: 1px solid #666666;
+}
+
+#aboutusArea .leftNav {
+    float: left;
+    margin-right: 20px;
+    width: 150px;
+}
+#aboutusArea .leftNav a, #aboutusArea .leftNav .actLink {
+    display: block;
+    line-height: 24px;
+    padding-left: 5px;
+}
+.abtSubLinks a {
+    border-left: 1px dotted #666666;
+    color: #666666;
+}
+.abtSubLinks {
+    font-size: 9px;
+    padding-left: 10px;
+    text-transform: uppercase;
+}
+
+#aboutusArea .leftNav .actLink {
+    background-color: #CB2127;
+    color: #FFFFFF;
+}
+.abtBg {
+   /* background-image: url('http://bigbasket.com/media/uploads/flatpages/about-us/abt_bg.png');*/
+    background-position: left top;
+    background-repeat: repeat-y;
+    font-family: "Courier New",Courier,monospace;
+    font-size: 15px;
+    letter-spacing: -1px;
+    line-height: 22px;
+    /*padding: 0 30px;*/
+
+}
+
+#privBg {
+background-color:#eaeaf0;
+    /*background-image: url('http://bigbasket.com/media/uploads/flatpages/about-us/priv_bg.png');*/
+    font-family: Arial,Helvetica,sans-serif;
+    letter-spacing: 0;
+    padding-bottom: 10px;
+}
+#privVis {
+    background-image: url('http://bigbasket.com/media/uploads/flatpages/about-us/priv_vis.jpg');
+    background-position: right -35px;
+    background-repeat: no-repeat;
+    color: #666666;
+    font-size: 13px;
+    line-height: 18px;
+    margin: 15px auto 0;
+    width: 724px;
+}
+
+.privIn180 {
+    min-height: 140px;
+    padding-left: 19px;
+padding-top:25px;
+}
+
+#careerHdr {
+    margin: 0 10px 10px;
+    padding-top: 10px;
+}
+.privIn {
+    padding: 0 19px;
+}
+#privBg {
+    font-family: Arial,Helvetica,sans-serif;
+    letter-spacing: 0;
+}
+#privVis {
+    color: #666666;
+    font-size: 13px;
+    line-height: 18px;
+}	</style>
+</div>
 <p>
-	<!-- aboutMain --></p>
+	&nbsp;</p>
 
-
-</div><!-- hmLeft -->
-
-<div class="hmRt">
-
-
-<div id="id_shopping_basket">
-    <div class="rtShopBasketHdr">
-        <div class="inCart" id="id_cart_no_items">(0 items)</div>
-    </div>
-    <!-- rtShopBasketHdr -->
-    <div class="rtBandMid scart">
-    <div class="scartHdr">Most recently added</div>
-
-    <div id="id_cart_items">
-    <div class="scartRow">
-    </div>
-    </div>
-
-    <div class="scartRow">
-    <div class="scartItems bFont">Total</div>
-    <div class="scartPrice bFont">Rs. <span id="id_cart_total">0.00</span></div>
-
-    <div class="viewBasketBut"><a href="/basket/"></a></div>
-    <div class="chkOutBut"><a href="/co/slots/"></a></div>
-    </div>
-
-    <div class="clear"></div>
-    </div><!-- rtBandMid -->
-    <div class="rtBotCrv"></div>
-</div><!-- id_shopping_basket -->
-
-
-
-
-
-
-<div class="marb10 rtCallNoUnit"></div>
-
-
-<div class="quickShopBg">
-Though ideal for <br>
-the first-time shopper<br>
-at BigBasket.com,, 
-our QuickShop! facility is a boon 
-when you want to buy your
-regular items, without much 
-ado. Here you will find a 
-collection of most of your daily 
-requirements, all in one place.
-All you have to do is just add
-the items to your basket and 
-check out. Simple?
-<div class="rtBandLinks"><a href="/quickshop/">Try it now »</a></div>
-</div>
-
-<div class="rtBotCrv"></div>
-
-<div class="rtWhyShopHdr"></div>
-<div class="rtBg">
-<div class="rtWhyShopUnit"></div>
-<div class="rtBandMid rtBandLinks"><a href="/why-bigbasket/">Read more »</a></div>
-</div>
-<div class="rtBotCrv"></div>
-
-<div class="rtRegHdr"></div>
-<div class="rtBandMid">
-Register with us and get
-<ul>
-<li>1. Exclusive offers</li>
-
-<li>2. New launch updates, and</li>
-
-<li>3. Faster checkouts</li>
-</ul>
-<div class="rtBandLinks"><a href="/register/">Register</a></div>
-</div>
-<div class="rtBotCrv"></div>
-
-<div class="rtTestiHdr"></div>
-<div class="rtBandMid">
-<img src="http://media.bigbasket.com/static/images/testi_face.jpg" width="80" height="105" class="testiImage">
-<div class="testiText">I was looking to shop without
-having to travel and the need to carry; to shop from home...</div>
-<div class="clear"></div>
-<div class="rtBandLinks"><a href="/customer-speak/">Read more »</a></div>
-</div>
-<div class="rtBotCrv"></div>
-
-
-</div><!-- hmRt -->
-
-<div class="clear"></div>
 
 </div><!--wrapperIn -->
+
+<div class="clear"></div>
+
+
+
 </div><!-- wrapper -->
 
 <div class="footerArea">
+    
+
+    <div id="socMedia">
+            <div class="socMediaTxt">Follow us on</div>
+        <a id="fb_a" href="https://www.facebook.com/pages/Bigbasketcom/139311472851666" target="_blank"><img src="//bigbasket.com/static/images/facebook.png" width="32" height="32"></a>
+        <a id="twit_a" href="https://twitter.com/Bigbasket_com" target="_blank"><img src="//bigbasket.com/static/images/twitter.png" width="32" height="32"></a>
+        <a id="gplus_a" href="https://plus.google.com/u/0/b/108777281473527866268/108777281473527866268" target="_blank"><img src="//bigbasket.com/static/images/gplus-32.png" width="32" height="32" border="0"></a>
+    </div><!-- socMedia -->
+    <div id="socMedia_Widget">
+        <div class="soc_btn" id="gplus_btn">
+            <!-- Place this tag where you want the +1 button to render. -->
+            <div class="g-plusone" data-size="tall" data-annotation="none"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                window.___gcfg = {lang: 'en-GB'};
+
+                (function() {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/plusone.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+        </div>
+        <div class="soc_btn" id="twit_btn">
+            <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://twitter.com/Bigbasket_com" data-count="none">Tweet</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </div>
+        <div class="soc_btn" id="fb_btn">
+            <fb:like href="http://www.facebook.com/pages/Bigbasketcom/139311472851666" send="false" layout="button_count" width="450" show_faces="false" font="arial"></fb:like>
+        </div>
+
+    </div>
+    
+
+    <div id="certifications_imgs">
+        <img id="comodo_img" src="//bigbasket.com/static/images/comodo_secure_113x59.png" alt="Comodo Secure" height="59" width="113">
+        <img id="visa_master_img" src="//bigbasket.com/static/images/visa-master.jpg" alt="Visa Mastercard" height="36" width="120">
+        <img id="amex_img" src="//bigbasket.com/static/images/american-express-logo.jpg" alt="American Express">
+    </div>
+
 <div class="footerIn">
 <div class="footerCol1">
 
 <div class="footerHdrs">Most Popular Brands</div>
 <ul>
+    <li class="allBrands"><a href="/pb/all-brands/?nc=bt">ALL BRANDS</a></li>
 
-<li><a href="/p/?b=nivea">Nivea</a></li> 
+<li><a href="/pb/bb-royal/?nc=bt">BB Royal</a></li> 
 
-<li><a href="/p/?b=johnsons">Johnsons</a></li> 
+<li><a href="/pb/fresho/?nc=bt">Fresho</a></li> 
 
-<li><a href="/p/?b=dettol">Dettol</a></li> 
+<li><a href="/pb/aashirvaad/?nc=bt">Aashirvaad</a></li> 
 
-<li><a href="/p/?b=nestle">Nestle </a></li> 
+<li><a href="/pb/nandini/?nc=bt">Nandini</a></li> 
 
-<li><a href="/p/?b=pepsi">Pepsi </a></li> 
+<li><a href="/pb/kelloggs/?nc=bt">Kelloggs</a></li> 
 
-<li><a href="/p/?b=coca-cola">Coca Cola</a></li> 
+<li><a href="/pb/surf-excel/?nc=bt">Surf Excel</a></li> 
 
-<li><a href="/p/?b=loreal-paris">Loreal Paris</a></li> 
+<li><a href="/pb/amul/?nc=bt">Amul</a></li> 
 
-<li><a href="/p/?b=kelloggs">Kelloggs</a></li> 
+<li><a href="/pb/saffola/?nc=bt">Saffola</a></li> 
+
+<li><a href="/pb/britannia/?nc=bt">Britannia </a></li> 
+
+<li><a href="/pb/tropicana/?nc=bt">Tropicana</a></li> 
 
 </ul>
 </div><!-- footerCol -->
@@ -456,21 +798,21 @@ having to travel and the need to carry; to shop from home...</div>
 <div class="footerHdrs">Most Popular Categories</div>
 <ul>
 
-<li><a href="/c/beverages">Beverages</a></li> 
+<li><a href="/cl/beverages/?nc=bt">Beverages</a></li> 
 
-<li><a href="/p/?c=breakfast-cereals">Breakfast Cereals</a></li> 
+<li><a href="/pc/branded-foods/breakfast-cereals/?nc=bt">Breakfast Cereals</a></li> 
 
-<li><a href="/p/?c=cleaning-agents">Cleaning Agents</a></li> 
+<li><a href="/pc/household/cleaning-articles/cleaning-agents/?nc=bt">Cleaning Agents</a></li> 
 
-<li><a href="/p/?c=cleaning-articles">Cleaning Articles</a></li> 
+<li><a href="/pc/household/cleaning-articles/?nc=bt">Cleaning Articles</a></li> 
 
-<li><a href="/c/confectionery">Confectionery</a></li> 
+<li><a href="/cl/confectionery/?nc=bt">Confectionery</a></li> 
 
-<li><a href="/p/?c=detergents">Detergents</a></li> 
+<li><a href="/pc/household/detergents/?nc=bt">Detergents</a></li> 
 
-<li><a href="/p/?c=diapers-wipes">Diapers &amp; Wipes</a></li> 
+<li><a href="/pc/personal-care/baby-care/diapers-wipes/?nc=bt">Diapers &amp; Wipes</a></li> 
 
-<li><a href="/p/?c=tea-coffee">Tea &amp; Coffee</a></li> 
+<li><a href="/pc/beverages/tea-coffee/?nc=bt">Tea &amp; Coffee</a></li> 
 
 </ul> 
 </div><!-- footerCol -->
@@ -479,11 +821,16 @@ having to travel and the need to carry; to shop from home...</div>
 <div class="footerHdrs">Information &amp; Services</div>
 <ul>
 <li><a href="/about-us/">About us</a></li>
-<li><a href="/delivery-information/">Delivery Information</a></li> 
-<li><a href="/payment-methods/">Payment Methods</a></li> 
 <!-- <li><a href="#">Press</a></li>  -->
+
 <li><a href="/customer-speak/">Customer Speak</a></li> 
+<li><a href="/team-members/">BigBasket Team</a></li> 
+<li><a href="/board-directors/">Board of Directors</a></li> 
+<li><a href="/in-media/">In the Media</a></li> 
+<li><a href="/careers/">Careers at BigBasket</a></li> 
+
 <!-- <li><a href="#">Site map</a></li>  -->
+<li><a href="/green-bigbasket/">Green BigBasket</a></li> 
 <li><a href="/privacy-policy/">Privacy Policy</a></li> 
 <li><a href="/terms-and-conditions/">Terms &amp; Conditions</a></li> 
 </ul> 
@@ -493,12 +840,13 @@ having to travel and the need to carry; to shop from home...</div>
 </div><!-- footerIn -->
 
 <div class="footerHorLine"></div><!-- footerHorLine -->
+<div class="copyRight">Copyright © 2013 Supermarket Grocery Supplies Pvt Ltd</div>
 
-<div class="copyRight">Copyright © 2011 Supermarket Grocery Supplies Pvt Ltd</div>
+
 
 </div><!-- footerArea -->
+
 </div><!-- shadow -->
 
-
-
+ 
 </body></html>
