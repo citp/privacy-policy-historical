@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngevity.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130033250id_/http%3A//youngevity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngevity.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608165822id_/http%3A//youngevity.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY < Youngevity
 
@@ -62,7 +62,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Your Consent** ****
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our online privacy policy.
 
 **Changes to our Privacy Policy** ****
 
