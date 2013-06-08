@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the javari.co.uk privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206050406id_/http%3A//www.javari.co.uk/help/200385710) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javari.co.uk privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608061301id_/http%3A//www.javari.co.uk/help/200385710) for the most accurate reproduction.*
 
 # Javari.co.uk: Help
 
-Ordering on Javari.co.uk
-
-Javari.co.uk Features
-
 Getting to Know Javari.co.uk
-
-Your Security & Privacy
-
-My Account
 
 Delivery and Billing
 
 Returns
+
+Ordering on Javari.co.uk
+
+My Account
+
+Javari.co.uk Features
+
+Your Security & Privacy
 
 About Us
 
@@ -121,7 +121,7 @@ Our business changes constantly and our Privacy Notice and the Conditions of Use
 
 ## Information You Give Us
 
-You provide most such information when you search, buy, bid, post, participate in a contest or questionnaire or communicate with customer service. For example, you provide information when you: search for a product; place an order through Javari.co.uk or one of our third-party sellers; provide information in [My Account](https://web.archive.org/my-account/) (and you might have more than one if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail or otherwise; complete a questionnaire or a contest entry form; compile Saved for Later lists and provide and rate Reviews. As a result of those actions, you might supply us with such information as: your name; address and phone number; credit card information; people to whom purchases have been shipped (including addresses and phone numbers); people (with addresses and phone numbers) listed in Express Checkout settings and the content of reviews and e-mails to us; the personal description in [My Account](https://web.archive.org/web/20121206050406id_/http://www.javari.co.uk/help/200385710/my-account) and financial information. 
+You provide most such information when you search, buy, bid, post, participate in a contest or questionnaire or communicate with customer service. For example, you provide information when you: search for a product; place an order through Javari.co.uk or one of our third-party sellers; provide information in [My Account](https://web.archive.org/my-account/) (and you might have more than one if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail or otherwise; complete a questionnaire or a contest entry form; compile Saved for Later lists and provide and rate Reviews. As a result of those actions, you might supply us with such information as: your name; address and phone number; credit card information; people to whom purchases have been shipped (including addresses and phone numbers); people (with addresses and phone numbers) listed in Express Checkout settings and the content of reviews and e-mails to us; the personal description in [My Account](https://web.archive.org/web/20130608061301id_/http://www.javari.co.uk/help/200385710/my-account) and financial information. 
 
 ## Automatic Information
 
