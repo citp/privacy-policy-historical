@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206074420id_/http%3A//www.ehealthinsurance.com/about-ehealth/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608120403id_/http%3A//www.ehealthinsurance.com/about-ehealth/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Security - eHealthInsurance
 
 [](http://www.truste.org/ivalidate.php?url=www.ehealthinsurance.com&sealid=101) At eHealthInsurance, we are strongly committed to protecting your privacy. To serve as your licensed insurance agent, we will ask you to provide us with personal information about you. We only use your personal information to help you find and, if you choose to do so, apply for health insurance and other products that may be of interest to you and your family. We do not sell, trade or give away your personal information to anyone. Additionally, we use industry-leading technologies to ensure the security and confidentiality of the personal information you provide us. 
 
-We are also a registered licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. To demonstrate our commitment to your privacy, we regularly have our information privacy practices reviewed and audited for compliance by TRUSTe. 
+We are also a registered licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. To demonstrate our commitment to your privacy, we regularly have our information privacy practices reviewed and audited for compliance by TRUSTe. 
 
 You can find out more about our commitment to privacy and how your personal information is collected and used in the eHealthInsurance Privacy Policy below. 
 
