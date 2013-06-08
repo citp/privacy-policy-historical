@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voylla.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201103555id_/http%3A//www.voylla.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voylla.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608071751id_/http%3A//www.voylla.com/policy/privacy) for the most accurate reproduction.*
 
-# Online Designer Jewellery and Accessories in India - Buy Jewellery: Anklets, Bangles, Bracelets, Earrings, Mangalsutras, Necklace Sets, Pendant Sets, Pendants, Rings, Toe Rings and Accessories: Clutches, Handbags, Scarves & Stoles - Voylla.com
+# Buy traditional, imitation, fashion, jewellery, accessories online in India - Voylla.com
 
 ## Privacy Policy
 
