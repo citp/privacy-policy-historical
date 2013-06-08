@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornizer.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129145928id_/http%3A//pornizer.com/pages/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornizer.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608233104id_/http%3A//pornizer.com/pages/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,9 +13,9 @@
 
 
 
-[](http://pornizer.com/partner/?bid=204)   
 [](http://pornizer.com/partner/?bid=203)   
-[](http://pornizer.com/partner/?bid=204)
+[](http://pornizer.com/partner/?bid=204)   
+[](http://pornizer.com/partner/?bid=203)
 
 | 
 
@@ -109,8 +109,11 @@ Should you have any questions or concerns regarding this Privacy Policy, please 
 
 Free Porn Videos
 
-Who is online (2482)
+Who is online (3938)
 
-[Pixel69100](http://pornizer.com/pixel69100 "Pixel69100"), [Theuploader](http://pornizer.com/theuploader "Theuploader"), [Asterios76](http://pornizer.com/asterios76 "Asterios76"), [Joofa](http://pornizer.com/joofa "Joofa"), [Rocky1982](http://pornizer.com/rocky1982 "Rocky1982"), [Aris123](http://pornizer.com/aris123 "Aris123"), [Tonwar1904](http://pornizer.com/tonwar1904 "Tonwar1904"), [Fruser](http://pornizer.com/fruser "Fruser"), [Baver](http://pornizer.com/baver "Baver"), [Drhouse82](http://pornizer.com/drhouse82 "Drhouse82"), [Dunklerschmied](http://pornizer.com/dunklerschmied "Dunklerschmied"), [Clauss82](http://pornizer.com/clauss82 "Clauss82"), [Masterb](http://pornizer.com/masterb "Masterb"), [Qws111](http://pornizer.com/qws111 "Qws111"), [Vevher](http://pornizer.com/vevher "Vevher"), [Texasturtle88](http://pornizer.com/texasturtle88 "Texasturtle88"), [Bigbos](http://pornizer.com/bigbos "Bigbos"), [Alegopar](http://pornizer.com/alegopar "Alegopar"), [Axdoverm](http://pornizer.com/axdoverm "Axdoverm"), [Janpuyppe](http://pornizer.com/janpuyppe "Janpuyppe"), [Bent](http://pornizer.com/bent "Bent"), [Xristos-7](http://pornizer.com/xristos-7 "Xristos-7"), [Elpacio](http://pornizer.com/elpacio "Elpacio"), [Sinke](http://pornizer.com/sinke "Sinke"), [Nonius](http://pornizer.com/nonius "Nonius"), [Victorchen](http://pornizer.com/victorchen "Victorchen"), [Rocco32](http://pornizer.com/rocco32 "Rocco32"), [Rkl](http://pornizer.com/rkl "Rkl"), [Motoz](http://pornizer.com/motoz "Motoz"), [313567](http://pornizer.com/313567 "313567"), [Croc](http://pornizer.com/croc "Croc"), [Hippia](http://pornizer.com/hippia "Hippia"), [Funnybigbear](http://pornizer.com/funnybigbear "Funnybigbear"), [Adika](http://pornizer.com/adika "Adika")
+[Krux](http://pornizer.com/krux "Krux"), [Pp2757](http://pornizer.com/pp2757 "Pp2757"), [Blackturtle](http://pornizer.com/blackturtle "Blackturtle"), [Hansmeiserxxx](http://pornizer.com/hansmeiserxxx "Hansmeiserxxx"), [Ldemetriou](http://pornizer.com/ldemetriou "Ldemetriou"), [Pedro35](http://pornizer.com/pedro35 "Pedro35"), [Tonybaaklini](http://pornizer.com/tonybaaklini "Tonybaaklini"), [Tonard](http://pornizer.com/tonard "Tonard"), [Kolokol](http://pornizer.com/kolokol "Kolokol"), [U11886](http://pornizer.com/u11886 "U11886"), [Henrymccoy](http://pornizer.com/henrymccoy "Henrymccoy"), [Aeffaeff](http://pornizer.com/aeffaeff "Aeffaeff"), [Miamia](http://pornizer.com/miamia "Miamia"), [S2445b](http://pornizer.com/s2445b "S2445b"), [Alekspirat](http://pornizer.com/alekspirat "Alekspirat"), [Dean63](http://pornizer.com/dean63 "Dean63")
 
 | 
+
+[](http://pornizer.com/partner/?bid=315)   
+
