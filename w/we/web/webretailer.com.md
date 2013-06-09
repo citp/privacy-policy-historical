@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webretailer.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105035017id_/http%3A//www.webretailer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webretailer.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609084803id_/http%3A//www.webretailer.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Web Retailer
 
@@ -23,12 +23,30 @@ Web Retailer will not sell, rent or otherwise disclose your personally identifia
   * Web Retailer may set and access cookies on your computer
   * Other web sites do not have access to Web Retailer's cookies
 
+| **Cookie name** | **Purpose** | **More information**  
+---|---|---  
+ASPSESSIONID* | Used so users can login to the site.  |    
+cookieTest | Used to test if cookies are enabled in the user's browser. |    
+CountryCode | Used to personalise content to the user's country (looked up anonymously using IP address)  |    
+email  
+LoginToken  
+memberName   
+|  Used to remember users so they do not need to enter their login details the next time they come to the site. | Duration to remain logged in can be modified on the profile page.   
+screenSize | Used to remember the preferred forum input text box size selected by the user  |    
+  
+Google Analytics  
+_utma  
+_utmb  
+_utmc  
+_utmv  
+_utmz
 
-
+|  Used to collect information about how visitors use our site. We use the information to compile reports and help us improve the site. The cookies collect information in anonymously, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  | [Google Analytics ](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
+  
 ## Editing and Deleting Your Member Information
 
   * You may edit your member information at any time by going to the Profile page
-  * You may request deletion of your member details by [sending an email](https://web.archive.org/web/20100105035017id_/http%3A//www.webretailer.com/email.asp?subject=memberdelete&action=readfaqs) quoting the email address you registered with
+  * You may request deletion of your member details by [sending an email](https://web.archive.org/contact-us.asp?subject=memberdelete&action=readfaqs) quoting the email address you registered with
 
 
 
