@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eileenfisher.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206230340id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/privacy.jsp%3FbmLocale%3Den_US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eileenfisher.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609114729id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/privacy.jsp%3FbmLocale%3Den_US) for the most accurate reproduction.*
 
 # Shop Women's Fashion & Clothing at Eileen Fisher
 
@@ -22,7 +22,7 @@ By using our website, you agree to our privacy policy as described above and to 
 
 If you have any questions about our privacy policy or our 
 
-[_terms of use_](https://web.archive.org/web/20121206230340id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/terms.jsp)
+[_terms of use_](https://web.archive.org/web/20130609114729id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/terms.jsp)
 
 , please email us at 
 
@@ -40,4 +40,4 @@ or by writing to us at Attn: Website Marketing Dept., 2 Bridge Street, Ste. 230,
 
 INTERNATIONAL PRIVACY POLICY
 
-[Click here](http://www.fiftyone.com/web-site-privacy-policy) to read FiftyOne's Privacy Policy 
+[Click here](http://www.borderfree.com/privacy-policy) to read BoarderFree's Privacy Policy 
