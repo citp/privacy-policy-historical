@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastactionprosperity.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231135440id_/http%3A//www.fastactionprosperity.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastactionprosperity.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609213155id_/http%3A//www.fastactionprosperity.com/privacy.php) for the most accurate reproduction.*
 
 # Fast Action Prosperity: Your Short-Cut to Success
 
