@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twistysnetwork.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122023444id_/http%3A//secure.twistys.com/privacy/%3Fsite%3Dtwistys.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistysnetwork.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609095637id_/http%3A//secure.twistys.com/privacy/%3Fsite%3Dtwistys.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
