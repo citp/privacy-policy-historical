@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mvtrex.us privacy policy that was archived on 2012-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120802041405id_/http%3A//www.mvtrex.us/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mvtrex.us privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609172316id_/http%3A//www.mvtrex.us/%3Fpage_id%3D2) for the most accurate reproduction.*
 
-# Online Flash Games » Privacy Policy
+# Privacy Policy | Mvtrex Online Flash Games
 
 Privacy Policy for mvtrex.us:  
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at: admin [at] mvtrex.us
