@@ -1,0 +1,913 @@
+<!--The following is the downloaded HTML source of the kopykitab.com privacy policy that was archived on 2013-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130609031944id_/http%3A//www.kopykitab.com/Kopykitab-Privacy-Policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html dir="ltr" lang="en"><head>
+<meta charset="UTF-8">
+<title>Privacy Policy</title>
+<base href="http://www.kopykitab.com/">
+
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<link href="http://www.kopykitab.com/image/data/bt_bookstore/icon.jpg" rel="icon">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/bt_bookstore/stylesheet/stylesheet.css">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/bt_bookstore/stylesheet/boss_add_cart.css">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/bt_bookstore/stylesheet/live_search.css" media="screen">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/bt_bookstore/stylesheet/skeleton.css">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/bt_bookstore/stylesheet/boss_carousel_product.css">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/bt_bookstore/stylesheet/responsive.css">
+<script async="" charset="utf-8" src="//cdn.zopim.com/?nprOOWc1GWeCNCPbanxOZbQ7gQAdXmZy" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js"></script>
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css">
+<script type="text/javascript" src="catalog/view/javascript/jquery/ui/external/jquery.cookie.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/colorbox/jquery.colorbox.js"></script>
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/colorbox/colorbox.css" media="screen">
+<script type="text/javascript" src="catalog/view/javascript/jquery/tabs.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/common.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/bossthemes/getwidthbrowser.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/bossthemes/bossthemes.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/bossthemes/notify.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/jquery.typing-0.2.0.min.js"></script>
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/bt_bookstore/stylesheet/ie8.css" />
+<![endif]-->
+
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/bt_bookstore/stylesheet/ie9.css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/bt_bookstore/stylesheet/ie7.css" />
+<![endif]-->
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/bt_bookstore/stylesheet/ie6.css" />
+<script type="text/javascript" src="catalog/view/javascript/DD_belatedPNG_0.0.8a-min.js"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('#logo img');
+</script>
+<![endif]-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-30674928-1']);
+  _gaq.push(['_setDomainName', 'kopykitab.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+										<script type="text/javascript"><!--
+						$(document).ready(function() {
+
+							var html = '';
+							html += '<div id="live-search">';
+							html += '	<ul>';
+							html += '	</ul>';
+							html += '</div>';
+
+							$('#search').append(html);
+
+							$('#search input[type=\'text\']').typing({
+								start: function() {
+									if ($('#search input[type=\'text\']').val() == '') {
+										$('#live-search').css('display','none');
+									}
+									var html = '';
+									html += '<li style="text-align: center;height:10px;">';
+									html +=		'	<img class="loading" src="catalog/view/theme/default/image/loading.gif" />';
+									html +=	'</li>';
+									$('#live-search ul').html(html);
+									$('#live-search').css('display','block');
+								},
+								stop: function () {
+									if ($('#search input[type=\'text\']').val() == '') {
+										$('#live-search').css('display','none');
+									}
+									var filter_name = $('#search input[type=\'text\']').val();
+
+									if (filter_name.length>0) {
+										$.ajax({
+											url: 'index.php?route=product/live_search&filter_name='+encodeURIComponent(filter_name),
+											dataType: 'json',
+											success: function(products) {
+												$('#live-search ul li').remove();
+												if (!$.isEmptyObject(products)) {
+													$.each(products, function(index,product) {
+
+														var html = '';
+														html += '<li>';
+														html += '	<div class="product-image"><img alt="MacBook" src="' + product.image + '"></div>';
+														html += '	<div class="product-name"><a href="' + product.url + '">' + product.name + '</a></div><br/><br/>';
+														if (product.special) {
+															html += '	<div class="product-price"><span class="special">' + product.price + '</span><span class="price">' + product.special + '</span></div>';
+														} else {
+															html += '	<div class="product-price"><span class="price">' + product.price + '</span></div>';
+														}
+														html += '<span style="clear:both"></span>';
+														html += '</li>';
+														$('#live-search ul').append(html);
+													});
+												} else {
+													var html = '';
+													html += '<li style="text-align: center;height:10px;">';
+													html +=		'No matches.';
+													html +=	'</li>';
+
+													$('#live-search ul').html(html);
+												}
+												$('#live-search ul li').css('height','60px');
+												$('#live-search').css('display','block');
+											}
+										});
+									}
+								},
+								delay: 10							});
+
+							$('#live-search ul li').live('click', function() {
+								$(location).attr('href',$(this).find('.product-name a').attr('href'));
+							});
+							$('html').bind('click', function() {
+								$('#live-search').css('display','none');
+							});
+						});
+					//--></script>
+										
+</head>
+<body class="other_page">
+<div class="frame_container">
+<div id="container" class="container">
+<div id="header" class="sixteen columns">
+    <div id="mobile_header">
+        <div id="header_top"></div>
+        <div id="header-bottom">
+            <div id="mobile-logo"></div>
+            <div id="mobile-search"></div>
+            <div id="mobile-access">
+                <div id="mobile-welcome"></div>
+                <div id="mobile-links"></div>
+            </div>
+        </div>
+    </div>
+  <div class="left_header">
+	  <div id="welcome">
+						Welcome visitor you can <a href="http://www.kopykitab.com/index.php?route=account/login">login</a> or <a href="http://www.kopykitab.com/index.php?route=account/register">create an account</a>.				  </div>
+	  	  <div id="logo"><a href="http://www.kopykitab.com/index.php?route=common/home"><img src="http://www.kopykitab.com/image/data/logo png new.png" title="KopyKitab" alt="KopyKitab"></a></div>
+	    </div>
+  <div class="right_header">
+	  <div id="cart">
+  <div class="heading">
+    <!--<h4></h4>-->
+    <a><span id="cart-total">0 item(s) - INR 0.00</span></a></div>
+  <div class="content">
+    <h4>Shopping Cart</h4>
+        <div class="empty">Your shopping cart is empty!</div>
+      </div>
+</div>
+
+<script type="text/javascript"><!--
+$(document).ready(function() {
+	if(getWidthBrowser() < 959) {
+		$('#cart > .heading a').live('click', function() {
+			if($('#cart').hasClass('my-active')){
+				$('#cart').removeClass('active');
+				$('#cart').removeClass('my-active');
+			} else {
+				$('#cart').addClass('my-active');
+			}
+		});
+	}
+});
+--></script>	  	        <div class="links">
+        <a href="index.php?route=/account/profile">My Library</a>
+        <a href="http://www.kopykitab.com/index.php?route=account/wishlist" id="wishlist-total">Wish List (0)</a>
+        <a class="no-need" href="http://www.kopykitab.com/index.php?route=account/account">My Account</a>
+        <a href="http://www.kopykitab.com/index.php?route=checkout/cart">Shopping Cart</a>
+      </div>
+	  
+	  
+      
+      <div class="staticblocks">
+        <div id="header-top">
+    <div class="popup_follow1">
+	<a href="index.php?route=/account/profile"><img alt="" src="http://www.kopykitab.com/image/data/bt_bookstore/my_digital_library.png" style="width: 43px; height: 204px;"></a></div>
+  </div>
+ 
+      
+      </div>
+	  
+  </div>
+<div class="boss_menu_search">
+   <style type="text/css">
+#boss_menu .option ul li {position: relative}
+#boss_menu .sub_menu  {}
+#boss_menu ul li ul li > div{
+	z-index:100!important;
+	background: #FFFFFF;
+	padding: 5px;
+	border: 1px solid #000000;
+	-webkit-border-radius: 0px 0px 5px 5px;
+	-moz-border-radius: 0px 0px 5px 5px;
+	-khtml-border-radius: 0px 0px 5px 5px;
+	border-radius: 0px 0px 5px 5px;
+	background: url('catalog/view/theme/default/image/menu.png');
+}
+
+#boss_menu ul li ul li div{display:none;position:absolute;top:0;left:100%;z-index:100;}
+
+
+</style>
+
+<div id="boss_menu" class="mega-menu">
+  <ul>
+  	<li><a href="http://www.kopykitab.com/higher-education-ebooks">Higher Education</a>
+				<div style="width: 500px; color:#2d312f;" class="dropdown">
+						<div style="width: 166.66666666667px; float: left" class="option">
+				<!-- manufacturer -->
+								<!-- category -->
+								<!-- information -->
+								<!-- static block -->
+								<!-- product -->
+															<ul style="display: table-cell; width: 166.66666666667px" class="column product">
+						  						  							  								<li class="last">
+									<a class="img_thumbs" href="http://www.kopykitab.com/Engineering-Physics-eBook-By-Dr-S-L-Gupta-and-Sanjeev-Gupta"><img src="http://www.kopykitab.com/image/cache/data/Dhanpat Rai Publications/Engeering Physcis-150x150.jpg" alt="Engineering Physics by Dr. S.L. Gupta and Sanjeev Gupta" title="Engineering Physics by Dr. S.L. Gupta and Sanjeev Gupta"></a>									<p style="display:block">
+										<span><a href="http://www.kopykitab.com/Engineering-Physics-eBook-By-Dr-S-L-Gupta-and-Sanjeev-Gupta">Engineering Physics by Dr. S.L. Gupta and Sanjeev Gupta</a></span>
+										<span>
+										INR 175.00	
+										</span>
+									</p>	
+								</li>
+							  						  						</ul>
+												</div>
+						<div style="width: 166.66666666667px; float: left" class="option">
+				<!-- manufacturer -->
+								<!-- category -->
+															<a href="http://www.kopykitab.com/higher-education-ebooks" class="parent">
+														Higher Education						</a>
+																<ul style="display: table-cell; width: 166.66666666667px" class="column category">
+						  						  							  								<li><a href="http://www.kopykitab.com/ebooks-on-commerce-and-economics">
+																		Commerce and Economics								</a>
+																</li>
+							  						  							  								<li><a href="http://www.kopykitab.com/Law">
+																		Law								</a>
+								<div class="sub_menu"><ul><li><a href="http://www.kopykitab.com/Law/Journals-and-Research-Papers">Journals &amp; Research Papers</a></li></ul></div>								</li>
+							  						  							  								<li><a href="http://www.kopykitab.com/Science">
+																		Science								</a>
+																</li>
+							  						  							  								<li><a href="http://www.kopykitab.com/engineering-eBooks">
+																		Engineering								</a>
+								<div class="sub_menu"><ul><li><a href="http://www.kopykitab.com/engineering-eBooks/Aerospace-Engineering">Aerospace Engineering</a></li><li><a href="http://www.kopykitab.com/engineering-eBooks/Biomedical Engineering">Biomedical Engineering</a></li><li><a href="http://www.kopykitab.com/engineering-eBooks/Chemical-Engineering-eBooks">Chemical Engineering</a></li><li><a href="http://www.kopykitab.com/engineering-eBooks/civil-engineering-ebooks">Civil Engineering</a></li><li><a href="http://www.kopykitab.com/engineering-eBooks/Computer-Science-eBooks">Computer Science</a></li><li><a href="http://www.kopykitab.com/engineering-eBooks/electrical-engineering-ebooks">Electrical Engineering</a></li><li><a href="http://www.kopykitab.com/engineering-eBooks/electronics-and-electrical-engineering-ebooks">Electronics and Electricals</a></li><li><a href="http://www.kopykitab.com/engineering-eBooks/electronics-and-telecommunication-engineering-ebooks">Electronics and Telecom</a></li><li><a href="http://www.kopykitab.com/engineering-eBooks/engineering-I-Sem-eBooks">Engineering 1st SEM</a></li><li><a href="http://www.kopykitab.com/engineering-eBooks/engineering-II-SEM-eBooks">Engineering 2nd SEM</a></li><li><a href="http://www.kopykitab.com/engineering-eBooks/Environmental-Sciences">Environmental Sciences</a></li><li><a href="http://www.kopykitab.com/engineering-eBooks/gate-model-test-papers">GATE </a></li><li><a href="http://www.kopykitab.com/engineering-eBooks/Information-Technology-eBooks">Information Technology</a></li><li><a href="http://www.kopykitab.com/engineering-eBooks/Engineering-Journals-and-Research-Papers">Journals &amp; Research Papers</a><div class="sub_menu"><ul><li><a href="http://www.kopykitab.com/engineering-eBooks/Engineering-Journals-and-Research-Papers/Computer-Science-and-Communications">Computer Science</a></li></ul></div></li><li><a href="http://www.kopykitab.com/engineering-eBooks/mechanical-engineering-ebooks">Mechanical</a></li><li><a href="http://www.kopykitab.com/engineering-eBooks/Vehicle Engineering">Vehicle Engineering</a></li><li><a href="http://www.kopykitab.com/engineering-eBooks/Nanotechnology">Nanotechnology</a></li><li><a href="http://www.kopykitab.com/engineering-eBooks/Robotics">Robotics</a></li><li><a href="http://www.kopykitab.com/engineering-eBooks/Previous-year-solved-question-papers">BookMark</a><div class="sub_menu"><ul><li><a href="http://www.kopykitab.com/engineering-eBooks/Previous-year-solved-question-papers/BookMark-CSVTU">BookMark for CSVTU</a></li><li><a href="http://www.kopykitab.com/engineering-eBooks/Previous-year-solved-question-papers/rgpv-engineering-solved-paper-download">BookMark for RGPV</a></li></ul></div></li><li><a href="http://www.kopykitab.com/engineering-eBooks/Notes">Notes</a></li></ul></div>								</li>
+							  						  							  								<li><a href="http://www.kopykitab.com/medical-ebooks-download">
+																		Medical								</a>
+								<div class="sub_menu"><ul><li><a href="http://www.kopykitab.com/medical-ebooks-download/ Endocrinology"> Endocrinology</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/anatomy-ebooks-download">Anatomy</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/Cardiology">Cardiology</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/Complementary-and-Alternative-Medicine">Complementary and Alternative Medicine</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/Diagnostics">Diagnostics</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/Endocrinology">Endocrinology</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/Gastroenterology">Gastroenterology</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/Genetics">Genetics</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/Medical-Genetics">Medical Genetics</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/Medicine">Medicine</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/Obstetrics-and-Gynecology">Obstetrics and Gynecology</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/Oncology">Oncology</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/Orthopedics">Orthopedics</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/Pharmacology">Pharmacology</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/physiology-ebook-download">Physiology</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/Psychiatry">Psychiatry</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/Pulmonology">Pulmonology</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/Rheumatology-and-Immunology">Rheumatology and Immunology</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/Stem-Cell-Research">Stem Cell Research</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/download-ebooks-on-surgery">Surgery</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/Urology-and-Nephrology">Urology and Nephrology</a></li><li><a href="http://www.kopykitab.com/medical-ebooks-download/Veterinary">Veterinary</a></li></ul></div>								</li>
+							  						  							  								<li><a href="http://www.kopykitab.com/management-ebooks-download">
+																		Management								</a>
+								<div class="sub_menu"><ul><li><a href="http://www.kopykitab.com/management-ebooks-download/Finance-eBooks">Finance</a></li><li><a href="http://www.kopykitab.com/management-ebooks-download/management-ebooks-free-download">General Management</a></li><li><a href="http://www.kopykitab.com/management-ebooks-download/marketing-ebooks-download">Marketing</a></li></ul></div>								</li>
+							  						  						</ul>
+													<!-- information -->
+								<!-- static block -->
+								<!-- product -->
+							</div>
+					</div>
+			</li>
+  	<li><a href="http://www.kopykitab.com/Professional-Courses">Professional Courses</a>
+				<div style="width: 500px; color:#2d312f;" class="dropdown">
+						<div style="width: 166.66666666667px; float: left" class="option">
+				<!-- manufacturer -->
+								<!-- category -->
+								<!-- information -->
+								<!-- static block -->
+								<!-- product -->
+															<ul style="display: table-cell; width: 166.66666666667px" class="column product">
+						  						  							  								<li class="last">
+									<a class="img_thumbs" href="http://www.kopykitab.com/e-Focus-Apr-2012"><img src="http://www.kopykitab.com/image/cache/data/eFocus/cover April2012_Focus 1-150x150.jpg" alt="e-Focus April 2012 by ICSI" title="e-Focus April 2012 by ICSI"></a>									<p style="display:block">
+										<span><a href="http://www.kopykitab.com/e-Focus-Apr-2012">e-Focus April 2012 by ICSI</a></span>
+										<span>
+										INR 0.00	
+										</span>
+									</p>	
+								</li>
+							  						  						</ul>
+												</div>
+						<div style="width: 166.66666666667px; float: left" class="option">
+				<!-- manufacturer -->
+								<!-- category -->
+															<a href="http://www.kopykitab.com/Professional-Courses" class="parent">
+														Professional Courses						</a>
+																<ul style="display: table-cell; width: 166.66666666667px" class="column category">
+						  						  							  								<li><a href="http://www.kopykitab.com/Chartered-Accountant">
+																		Chartered Accountant								</a>
+																</li>
+							  						  							  								<li><a href="http://www.kopykitab.com/Company-Secretary">
+																		Company Secretary								</a>
+																</li>
+							  						  							  								<li><a href="http://www.kopykitab.com/ICWA">
+																		ICWA								</a>
+																</li>
+							  						  						</ul>
+													<!-- information -->
+								<!-- static block -->
+								<!-- product -->
+							</div>
+					</div>
+			</li>
+  	<li><a href="http://www.kopykitab.com/General-ebooks">General</a>
+				<div style="width: 500px; color:#2d312f;" class="dropdown">
+						<div style="width: 166.66666666667px; float: left" class="option">
+				<!-- manufacturer -->
+								<!-- category -->
+								<!-- information -->
+								<!-- static block -->
+								<!-- product -->
+															<ul style="display: table-cell; width: 166.66666666667px" class="column product">
+						  						  							  								<li class="last">
+									<a class="img_thumbs" href="http://www.kopykitab.com/40-Minutes-With-God-By-V-K-Nigam"><img src="http://www.kopykitab.com/image/cache/data/VIVA/God-150x150.jpg" alt="40 Minutes With God" title="40 Minutes With God"></a>									<p style="display:block">
+										<span><a href="http://www.kopykitab.com/40-Minutes-With-God-By-V-K-Nigam">40 Minutes With God</a></span>
+										<span>
+										INR 295.00	
+										</span>
+									</p>	
+								</li>
+							  						  						</ul>
+												</div>
+						<div style="width: 166.66666666667px; float: left" class="option">
+				<!-- manufacturer -->
+								<!-- category -->
+															<a href="http://www.kopykitab.com/General-ebooks" class="parent">
+														General						</a>
+																<ul style="display: table-cell; width: 166.66666666667px" class="column category">
+						  						  							  								<li><a href="http://www.kopykitab.com/Journals-and-Magazines">
+																		Journals and Magazines								</a>
+																</li>
+							  						  							  								<li><a href="http://www.kopykitab.com/Leisure-Read">
+																		Leisure Read								</a>
+																</li>
+							  						  							  								<li><a href="http://www.kopykitab.com/mind-body-and-soul-eBooks">
+																		Mind, Body and Soul								</a>
+																</li>
+							  						  						</ul>
+													<!-- information -->
+								<!-- static block -->
+								<!-- product -->
+							</div>
+					</div>
+			</li>
+  	<li><a href="http://www.kopykitab.com/free-ebooks-download">Free eBooks</a>
+				<div style="width: 500px; color:#2d312f;" class="dropdown">
+						<div style="width: 166.66666666667px; float: left" class="option">
+				<!-- manufacturer -->
+								<!-- category -->
+								<!-- information -->
+								<!-- static block -->
+								<!-- product -->
+															<ul style="display: table-cell; width: 166.66666666667px" class="column product">
+						  						  							  								<li class="last">
+									<a class="img_thumbs" href="http://www.kopykitab.com/On-the-Origin-of-Species-By-Charles-Darwin"><img src="http://www.kopykitab.com/image/cache/data/Free eBooks/3015-150x150.jpg" alt="On the Origin of Species " title="On the Origin of Species "></a>									<p style="display:block">
+										<span><a href="http://www.kopykitab.com/On-the-Origin-of-Species-By-Charles-Darwin">On the Origin of Species </a></span>
+										<span>
+										INR 0.00	
+										</span>
+									</p>	
+								</li>
+							  						  						</ul>
+												</div>
+						<div style="width: 166.66666666667px; float: left" class="option">
+				<!-- manufacturer -->
+								<!-- category -->
+															<a href="http://www.kopykitab.com/free-ebooks-download" class="parent">
+														Free eBooks						</a>
+																<ul style="display: table-cell; width: 166.66666666667px" class="column category">
+						  						  							  								<li><a href="http://www.kopykitab.com/fiction-ebooks-download">
+																		Fiction								</a>
+																</li>
+							  						  							  								<li><a href="http://www.kopykitab.com/engineering-ebooks-free-download">
+																		Free Engineering eBooks								</a>
+																</li>
+							  						  							  								<li><a href="http://www.kopykitab.com/index.php?route=product/category&amp;path=121">
+																		Free Management eBooks								</a>
+																</li>
+							  						  							  								<li><a href="http://www.kopykitab.com/medical-ebooks-free-download">
+																		Free Medical eBooks								</a>
+																</li>
+							  						  							  								<li><a href="http://www.kopykitab.com/literature-ebooks-download">
+																		Literature								</a>
+																</li>
+							  						  						</ul>
+													<!-- information -->
+								<!-- static block -->
+								<!-- product -->
+							</div>
+					</div>
+			</li>
+  	<li class="last"><a href="http://www.kopykitab.com/blog">Resources</a>
+			</li>
+    </ul>
+</div>
+    <div id="search-form-bot">
+		  <ul>
+            <li>
+		      <a href="index.php?route=product/search"></a>
+		      <div class="frame_big search_big">
+    		      <div class="search-form">
+                    <div id="search">
+    				        						<input type="text" name="filter_name" value="Search" onclick="this.value = '';" onkeydown="this.style.color = '#000000';">
+    						    						<div class="button-search"><span>Search</span></div>
+    				</div>
+    		      </div>
+		      </div>
+            </li>
+		  </ul>           
+    </div>
+
+</div>
+ 
+</div>
+<div id="notification" class=""></div>
+<div class="sixteen columns">
+<script type="text/javascript"><!--
+		$(document).ready(function() {
+			boss_header_move_search();
+		});
+		$(window).resize(function() {
+			boss_header_move_search();
+		});
+		
+		
+		function boss_header_move_search()	{
+			if(getWidthBrowser() < 767){
+				if ($(".right_header").html()) {
+					$("#header_top").html($(".right_header").html());
+					$(".right_header").css("display", "none");
+                    
+                    $('#cart > .heading a').live('click', function() {
+						if($('#cart').hasClass('my-active')){
+							$('#cart').removeClass('active');
+							$('#cart').removeClass('my-active');
+						} else {
+							$('#cart').addClass('my-active');
+						}
+						
+						$('#cart').addClass('active');
+						
+						$('#cart').load('index.php?route=module/cart #cart > *');
+						
+						$('#cart').live('mouseleave', function() {
+							$(this).removeClass('active');
+						});
+					});
+                    
+				}
+                
+				if ($("#logo").html()) {
+					$("#mobile-logo").html($("#logo").html());
+					$("#logo").html("");
+				}
+                
+                if ($("#search-form-bot").html()) {
+					$("#mobile-search").html($("#search-form-bot").html());
+					$("#search-form-bot").html("");
+                    $("#search-form-bot").css("display", "none");
+                    $('.button-search').bind('click', function() {
+						url = $('base').attr('href') + 'index.php?route=product/search';
+								 
+						var filter_name = $('input[name=\'filter_name\']').attr('value');
+						
+						if (filter_name) {
+							url += '&filter_name=' + encodeURIComponent(filter_name);
+						}
+						
+						location = url;
+					});
+					$('#header input[name=\'filter_name\']').bind('keydown', function(e) {
+						if (e.keyCode == 13) {
+							url = $('base').attr('href') + 'index.php?route=product/search';
+							 
+							var filter_name = $('input[name=\'filter_name\']').attr('value');
+							
+							if (filter_name) {
+								url += '&filter_name=' + encodeURIComponent(filter_name);
+							}
+							
+							location = url;
+						}
+					});
+                    
+				}
+                
+                if ($("#welcome").html()) {
+					$("#mobile-welcome").html($("#welcome").html());
+					$("#welcome").html("");
+                    $(".left_header").css("display", "none");
+				}
+                
+                if ($("#header_top .links").html()) {
+					$("#mobile-links").html($("#header_top .links").html());
+					$("#header_top .links").html("");
+                    $("#header_top .links").css("display", "none");
+				}
+
+			} else {
+				if ($("#header_top").html()) {
+					$(".right_header").html($("#header_top").html());
+					$("#header_top").html("");
+					$(".right_header").css("display", "block");
+                    $(".left_header").css("display", "block");
+                    
+                    }
+                if ($("#mobile-search").html()) {
+					$("#search-form-bot").html($("#mobile-search").html());
+					$("#mobile-search").html("");
+                    $("#mobile_header").css("display", "none");
+				}
+			}
+		}
+//--></script>
+
+
+
+
+
+
+
+
+ 
+<div id="content">  <div class="breadcrumb">
+    
+    <!-- KK Modification Start -->
+    <a href="http://www.kopykitab.com/index.php?route=common/home">Home</a>
+    <!-- KK Modification End -->
+
+    
+    <!-- KK Modification Start -->
+    <a href="http://www.kopykitab.com/Kopykitab-Privacy-Policy">Privacy Policy</a>
+    <!-- KK Modification End -->
+
+      </div>
+  
+  <!-- KK Modification Start -->
+ <!--  <h1>Privacy Policy</h1> -->
+ <!-- KK modification End -->
+  
+  
+  <div style="border:1px solid black;width:800px;height:600px;overflow:scroll;overflow-y:scroll;overflow-x:hidden;">
+	<p align="center">
+		<strong>KopyKitab Privacy Policy and your Privacy Rights</strong></p>
+	<p>
+		Kopy Kitab Pvt. Ltd.&nbsp;("KopyKitab," "we," or "us") is committed to protecting your privacy. We have prepared this KopyKitab Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our Kopykitab digital book site and participants in the Program. This KopyKitab Privacy Policy is made part of the&nbsp;KopyKitab Terms and Conditions<u>.</u>&nbsp;Unless otherwise defined in this KopyKitab Privacy Policy, capitalized terms will have the meanings set forth in the KopyKitab Terms and Conditions.</p>
+	<p>
+		By registering for an Account, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Data in accordance with this KopyKitab Privacy Policy. Your Personal Data may be processed in the country where it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country.</p>
+	<p>
+		This KopyKitab Privacy Policy was last revised October 12, 2012.</p>
+	<p>
+		<strong>Privacy Policy</strong></p>
+	<p>
+		<strong>Registration Obligations</strong></p>
+	<p>
+		<br>
+		"KopyKitab.com" respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by us. You are advised to please read this Privacy Policy carefully. This Privacy Policy describes the information, as part of the normal operation of our services; we collect from you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about our practices so that you can make informed decisions. By accepting the Privacy Policy during registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy.</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<strong>We respect your privacy</strong></p>
+	<p>
+		<br>
+		At KopyKitab.com, we are extremely proud of our commitment to protect your privacy. We value your trust in us. We will work hard to earn your confidence so that you can enthusiastically use our services and recommend us to friends and family. Please read the following policy to understand how your personal information will be treated as you make full use of our Site.</p>
+	<p>
+		<strong>We want users to:</strong></p>
+	<ul>
+		<li>
+			Feel comfortable using our Site.</li>
+		<li>
+			Feel secure in submitting information to us.</li>
+		<li>
+			Know that by using our Site you are consenting to the collection of certain data.</li>
+	</ul>
+	<p>
+		<strong>Privacy Guarantee</strong></p>
+	<p>
+		<br>
+		We promise that we will not sell or rent your personal information to third parties (except as provided in this Privacy Policy) without your consent. We and/or certain authorized third party service providers will use the personal information provided by you to provide you with the services, which are offered on our portal. From time to time we may reveal general statistical information about our Site and visitors, such as number of visitors, number and type of goods and services purchased, etc. Your trust and confidence are our highest priority.</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<strong>Information Collected</strong></p>
+	<p>
+		<br>
+		We only collect the details provided by you on registration together with information we learn about you from your use of our service and your visits to our Site and other sites accessible from them. We may collect additional information in connection with your participation in any promotions or competitions offered by us and information you provide when giving us feedback or completing profile forms. We will collect only such information as is necessary and relevant to us to provide you with the services available on the Site.</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<strong>Anonymous Information</strong></p>
+	<p>
+		<br>
+		We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies" sent to your browser from:</p>
+	<ul>
+		<li>
+			web server cookie stored on your hard drive</li>
+		<li>
+			an IP address, assigned to the computer which you use</li>
+		<li>
+			the domain server through which you access our service</li>
+	</ul>
+	<p>
+		<strong>Personally Identifiable Information</strong></p>
+	<p>
+		<br>
+		We may collect the following personally identifiable information about you like: 1.name including first and last name 2.mobile phone number and contact details 3.ZIP/Postal code 4.Educational Preference 5.Interest Area We use contact information internally to:</p>
+	<ul>
+		<li>
+			direct our efforts for product improvement</li>
+		<li>
+			contact you as a survey respondent</li>
+		<li>
+			send you promotional materials from our contest sponsors or advertisers</li>
+	</ul>
+	<p>
+		<strong>Our Disclosure of Your Information</strong></p>
+	<p>
+		<br>
+		We will not use your personal information for any purpose other than to complete a transaction with you. We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless:</p>
+	<ul>
+		<li>
+			we have your permission</li>
+		<li>
+			to provide products or services you've requested</li>
+		<li>
+			to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of KopyKitab.com terms of use or to defend against legal claims</li>
+		<li>
+			special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure</li>
+	</ul>
+	<p>
+		<strong>Security</strong><br>
+		To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate procedures. We will endeavour to safeguard the confidentiality of your personal information; transmissions made by means of the Internet cannot be made absolutely secure. By using this Site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.</p>
+	<p>
+		<strong>Policy update</strong></p>
+	<p>
+		<br>
+		We reserve the right to change or update this policy at any time. Such changes shall be effective immediately upon posting to this Site.</p>
+	<p>
+		<strong>Your Consent</strong></p>
+	<p>
+		By using the Site, you consent to the collection and use of the information you disclose on the Site. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.</p>
+	<p>
+		<strong>Disclaimer</strong></p>
+	<p>
+		KopyKitab.com makes every effort to present accurate and timely information regarding the products we have for sale. However, it is possible that discrepancies or inaccuracies may arise if KopyKitab.com receives inaccurate information from our suppliers or other outside sources. Should you encounter any information on our site that you deem inaccurate, please inform us at&nbsp;<u><a href="mailto:info@kopykitab.com">info@kopykitab.com</a></u></p>
+	<p>
+		<strong>Information Liability</strong></p>
+	<p>
+		In no event shall KopyKitab.com or any of its sources be liable for any direct, special, incidental, indirect, or consequential damages whatsoever (including but not limited to: damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of the information made available on this web site. Information on the KopyKitab.com web site may not be reproduced, copied, or altered without the express written consent of KopyKitab.com and its affiliates.</p>
+	<p>
+		<strong>Termination</strong></p>
+	<p>
+		KopyKitab.com may terminate this Agreement and these terms and conditions and/or the provision of any of the services at any time for any reason, including any improper use of this portal or your failure to comply with these terms and conditions. Such termination shall not affect any right to relief to which KopyKitab.com and its third party providers and distributors may be entitled, at law or in equity. Upon termination of this User Agreement and these terms and conditions, all rights granted to you will terminate and revert to KopyKitab.com and its third party providers or distributors, as applicable</p>
+	<p>
+		<strong>No resale of service</strong></p>
+	<p>
+		<br>
+		You agree not to reproduce, duplicate, copy, sell, resell or exploit for any commercial purposes, any portion of the Service, use of the Service, or access to the Service.</p>
+	<p>
+		<strong>Types of Data We Collect</strong></p>
+	<p>
+		We collect Personal Data and Anonymous Data from you when you visit or use the KopyKitab Site and/or when you send us information or communications. "Personal Data" means data that allows someone to identify or contact you, including your name, age, gender, address, telephone number, e-mail address, and any other non-public information about you that is associated with or linked to any of the foregoing data. "Anonymous Data" means data that is not associated with or linked to your Personal Data; Anonymous Data does not permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.</p>
+	<p>
+		<strong>Data You Provide to Us.</strong></p>
+	<p>
+		We receive and store any information you enter on the KopyKitab Site or otherwise provide to us:</p>
+	<p>
+		We collect Personal Data from you, such as your user name, password, first and last name, e-mail address, country, zip, age, and gender when you create an Account.</p>
+	<p>
+		We collect any Personal Data that you provide to us in connection with your participation in the Program, such as Personal Data you submit in surveys and Feedback forms.</p>
+	<p>
+		If you contact us via e-mail, we may collect your name and e-mail address, as well as any other content included in the e-mail or that you submit to us.</p>
+	<p>
+		<strong>Data Collected Through Technology.</strong></p>
+	<p>
+		We collect information about you based on your use of the KopyKitab Site.</p>
+	<p>
+		Our servers (which may be hosted by a third party service provider) collect information related to your visit to the KopyKitab Site, such as browser type and version, operating system, platform, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and a date/time stamp for your visit.</p>
+	<p>
+		We may use cookies, Flash cookies, and navigational data like Uniform Resource Locators (URLs) on our KopyKitab Site to gather information about your online activities relating to the KopyKitab Site, such as the date and time of your visit, the information for which you searched and which you viewed, and the sites you visited before and after visiting our KopyKitab Site.</p>
+	<p>
+		We may also use a cookie and Flash cookie to save your settings and to provide customizable and personalized services (such as to hold your Account information). A “cookie” is a small data file placed on your hard drive when you visit certain websites. A “Flash cookie” is a small data file placed on your hard drive when you visit certain websites that use Adobe Flash. You may disable cookies by adjusting the preferences settings of your browser.</p>
+	<p>
+		Consult the “Help” feature of your browser for specific instructions. To adjust Flash cookie settings, access your Flash management tools from&nbsp;<a href="http://www.adobe.com/" target="new">Adobe’s web site</a>&nbsp;directly. If you choose to disable cookies or Flash cookies, some areas of our KopyKitab Site may not work properly. Our advertisers and partners may also use their own cookies. We do not control use of these cookies used by advertisers and partners and expressly disclaim responsibility for information collected through them.</p>
+	<p>
+		We use software tools such as Flash or JavaScript on the KopyKitab Site to collect page interaction information such as clicks, drags, and hover-overs, response times, errors, and length of visits to certain pages.</p>
+	<p>
+		We may use clear gifs (otherwise KopyKitab own as web bugs or web beacons) to gather information about your visit to the KopyKitab Site, such as what you click on and pages and information you viewed. Additionally, be aware that advertisers and partners may also use their own clear gifs and we do not control use of these by advertisers and partners and expressly disclaim responsibility for information collected through them. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are placed on a user’s hard drive, clear gifs are embedded invisibly on web pages.</p>
+	<p>
+		<strong>Sharing of Information.</strong></p>
+	<p>
+		We display your user name, badge level, points earned, and other public profile information (collectively, your "Public Profile") when you post content through blogs, forums, comments, and other community features of the KopyKitab Site (collectively, "Public Areas"). Your Public Profile is available on the KopyKitab Site to other registered users. If you associate your name with your Public Profile, the people to whom you have revealed your name will be able to personally identify your activities on our KopyKitab Site. If you use Public Areas or send emails or other messages to other users of our KopyKitab Site, you should be aware that any Personal Data you provide can be read, collected or used by other users of the KopyKitab Site and could be used to send you unsolicited messages. We are not responsible for the Personal Data you choose to submit in the Public Areas or send to other users.</p>
+	<p>
+		<strong>Use of Your Data</strong></p>
+	<p>
+		In general, Personal Data you submit to us is used to provide you with a customized experience, aid us in serving you better, and to respond to your requests. We use your Personal Data to:</p>
+	<ul>
+		<li>
+			Facilitate the creation of and secure your Account on our network</li>
+		<li>
+			Identify you as a user in our system</li>
+		<li>
+			Provide the KopyKitab Digital book Site and the Program</li>
+		<li>
+			Conduct research relating to the Program</li>
+		<li>
+			Improve our products and services</li>
+		<li>
+			Analyze request and usage patterns, diagnose problems with our server and administer our KopyKitab Digital book Site</li>
+		<li>
+			Improve the quality of experience when you use the KopyKitab Digital book Site</li>
+		<li>
+			Provide you a personalized experience when you use the KopyKitab Digital book Site</li>
+		<li>
+			Send you administrative e-mail notifications, such as security or support and maintenance</li>
+		<li>
+			Advisories (The e-mails we send may contain code that enables our database to track your &nbsp;&nbsp;&nbsp;</li>
+		<li>
+			Usage of the e-mail, such as whether the e-mail was opened and/or what links (if any) were &nbsp;</li>
+		<li>
+			clicked)</li>
+		<li>
+			Respond to your inquiries related to employment opportunities or other requests</li>
+		<li>
+			Send you e-mail messages or postal mail informing you of our products and services and third party products and services we believe may be of interest to you, such as new features and services, special offers, and updated information, and for other marketing purposes for us or other companies.</li>
+	</ul>
+	<p>
+		<strong>Disclosure of Your Data</strong></p>
+	<p>
+		Except as described below, we do not share your Personal Data with third parties:</p>
+	<p>
+		We may share your Personal Data with third party service providers under contract to perform functions on our behalf. Examples include sending postal mail or e-mail, storing data, analyzing data, performing quality assurance, providing technical support, providing marketing assistance, verifying identity, and providing customer service. These third parties may have access to your Personal Data only as needed to perform their functions.</p>
+	<p>
+		We may share your Personal Data with any companies that acquire our company or our assets. That company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this KopyKitab Privacy Policy. We will notify you through the KopyKitab Site of any change of ownership or control of your Personal Data.</p>
+	<p>
+		We may share some or all of your Personal Data with any subsidiaries, joint ventures, or other companies under common control (collectively, "Affiliates"), in which case we will require our Affiliates to honor this KopyKitab Privacy Policy.</p>
+	<p>
+		We may disclose your Personal Data if we have a good faith belief that disclosure is necessary to: (1) comply with the law or with legal process served on us; (2) protect and defend the rights or property of us or our users; (3) act in an emergency to protect someone’s safety; or (4) investigate any violation or potential violation of the law, this KopyKitab Privacy Policy, or the KopyKitab Terms.</p>
+	<p>
+		<strong>Use and Disclosure of Anonymous Data.</strong></p>
+	<p>
+		We will have the right to use, and share with third parties, Anonymous Data for any purpose and in any manner. Anonymous Data includes non-personally identifiable data we create from Personal Data by excluding information that makes such data personally identifiable.</p>
+	<p>
+		<strong>Your Choices Regarding Your Personal Data</strong></p>
+	<p>
+		Your Control of the Use of Your Personal Data.&nbsp;&nbsp;We offer you choices regarding the collection, use, and disclosure of your Personal Data. We may periodically send you free newsletters and emails about new services, products, or other noteworthy news, or that may contain advertisements for third parties. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the email you receive, by changing your Account settings, or by contacting us at&nbsp;<a href="mailto:info@KopyKitab.com">info@KopyKitab.com</a>. Should you opt-out of receiving future communications, we may share your email address with third parties to ensure that you do not receive further communications from third parties. Despite your indicated email preferences, we may send you notice of any updates to our KopyKitab Terms, KopyKitab Privacy Policy, or other terms for the KopyKitab Site.</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		Changes to Personal Data.&nbsp;&nbsp; You may change any of your Personal Data in your Account by editing your profile through the KopyKitab Site or by sending us e-mail or postal mail at the address below. You may request deletion of your Personal Data by us by sending us an e-mail with the subject line “Account Deletion Requested” to&nbsp;<a href="mailto:info@kopykitab.com">info@kopykitab.com</a>&nbsp;or by sending us postal mail at the address below, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives.</p>
+	<p>
+		<strong>Security</strong></p>
+	<p>
+		We have commercially reasonable security measures in place to help protect against loss, misuse and alteration of your Personal Data in our possession. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while KopyKitab uses reasonable efforts to protect your Personal Data, KopyKitab cannot guarantee its absolute security.</p>
+	<p>
+		<strong>Contacting KopyKitab</strong></p>
+	<p>
+		We welcome your comments or questions regarding this KopyKitab Privacy Policy. Please e-mail us at&nbsp;<a href="mailto:info@kopykitab.com">info@kopykitab.com</a>&nbsp;&nbsp;or contact us at the following address:</p>
+	<p>
+		Kopy Kitab Pvt Ltd.</p>
+	<p>
+		<strong>Attn: KopyKitab</strong></p>
+	<p>
+		<strong>F-10, Kakda Abhinav Homes,</strong></p>
+	<p>
+		<strong>Near SIRT, Ayodha Bypass Road,</strong></p>
+	<p>
+		<strong>Bhopal – 462021</strong></p>
+	<p>
+		<strong>Call - + 91 73545 73545</strong></p>
+	<p>
+		&nbsp;</p>
+</div>
+<p>
+	&nbsp;</p>
+  <div class="buttons">
+    <div class="left"><a href="http://www.kopykitab.com/index.php?route=common/home" class="button"><span>Continue</span></a></div>
+  </div>
+  </div>
+</div>
+<div id="footer" class="sixteen columns">
+    <div id="footer-top">
+<div class="footer-top-frame">
+    <div class="popup_follow">
+	<ul>
+		<li>
+			<a href="http://www.facebook.com/kopykitab"><img alt="" src="http://www.kopykitab.com/image/data/bt_bookstore/facebook-icon.png" style="width: 30px; height: 30px;"></a></li>
+		<li>
+			<a href="https://plus.google.com/103824343711297928287/"><img alt="" src="http://www.kopykitab.com/image/data/bt_bookstore/google_plus_icon.png" style="width: 30px; height: 30px;"></a></li>
+		<li>
+			<a href="http://www.twitter.com/kopykitab"><img alt="" src="http://www.kopykitab.com/image/data/bt_bookstore/tweet.png" style="width: 30px; height: 30px;"></a></li>
+	</ul>
+</div>
+  </div>
+</div>
+ 
+    
+    <div class="column">
+    <h3>Information</h3>
+    <ul>
+            <li><a href="http://www.kopykitab.com/about_us">About Us</a></li>
+            <li><a href="http://www.kopykitab.com/KopyKitab-FAQ">FAQ</a></li>
+            <li><a href="http://www.kopykitab.com/Cancellation-Policy-KopyKitab">Cancellation Policy</a></li>
+            <li><a href="http://www.kopykitab.com/Kopykitab-Privacy-Policy">Privacy Policy</a></li>
+            <li><a href="http://www.kopykitab.com/Terms-and-Conditions">Terms &amp; Conditions</a></li>
+          </ul>
+  </div>
+    <div class="column">
+    <!-- KK Modification Start -->
+    <h3><!-- Customer Service -->Links</h3>
+    <!-- KK Modification End -->
+    <ul>
+
+      <li><a href="http://kopykitab.com/kirjasto" target="_blank">Kirjasto</a></li>
+      <li><a href="http://kopykitab.com/careers/">Careers</a></li>
+      <li><a href="http://www.kopykitab.com/index.php?route=information/contact">Contact Us</a></li>
+       
+      
+   
+   
+   <!-- 
+	<li><a href="http://www.kopykitab.com/index.php?route=account/return/insert">Returns</a></li>
+    -->
+   
+            
+   
+      <li><a href="http://www.kopykitab.com/index.php?route=information/sitemap">Site Map</a></li>
+    </ul>
+  </div>
+  <!--<div class="four columns column">
+    <h3>Extras</h3>
+    <ul>
+      <li><a href="http://www.kopykitab.com/index.php?route=product/manufacturer">Brands</a></li>
+      <li><a href="http://www.kopykitab.com/index.php?route=account/voucher">Gift Vouchers</a></li>
+      <li><a href="http://www.kopykitab.com/index.php?route=affiliate/account">Affiliates</a></li>
+      <li><a href="http://www.kopykitab.com/index.php?route=product/special">Specials</a></li>
+    </ul>
+  </div>-->
+  <div class="column">
+    <h3>My Account</h3>
+    <ul>
+      <li><a href="http://www.kopykitab.com/index.php?route=account/account">My Account</a></li>
+      <li><a href="http://www.kopykitab.com/index.php?route=account/order">Order History</a></li>
+      <li><a href="http://www.kopykitab.com/index.php?route=account/wishlist">Wish List</a></li>
+      <li><a href="http://www.kopykitab.com/index.php?route=account/newsletter">Newsletter</a></li>
+      <li><a href="index.php?route=/account/profile">My Library</a></li>
+    </ul>
+  </div>
+      <div id="footer-bottom">
+    <br>
+<!--Start of Zopim Live Chat Script--><script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//cdn.zopim.com/?nprOOWc1GWeCNCPbanxOZbQ7gQAdXmZy';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script><!--End of Zopim Live Chat Script-->    <div class="fotter_contact">
+	<div class="heading">
+		<p>
+			Chat Supported</p>
+	</div>
+	<div class="content">
+		<h4>
+			Contact Us</h4>
+		<ul>
+			<li>
+				<h5>
+					Tweet Us:</h5>
+				<a href="http://twitter.com/kopykitab" title="Twiter">©</a><a href="http://twitter.com/kopykitab">kopykitab</a></li>
+			<li>
+				<h5>
+					Call Us:</h5>
+				+91 73545 73545</li>
+			<li>
+				<h5>
+					Email Us:</h5>
+				<span>support@kopykitab.com</span></li>
+		</ul>
+	</div>
+</div>
+<p>
+	&nbsp;</p>
+    <div id="powered">
+	<p>
+		© 2013 KopyKitab.&nbsp;All Rights Reserved. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong>VISA, MasterCard, Debit Card, Net Banking | Powered by EBS</strong></p>
+</div>
+<p>
+	&nbsp;</p>
+  </div>
+ 
+</div>
+<!--
+OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donation.
+Please donate via PayPal to donate@opencart.com
+//-->
+
+<!--
+OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donation.
+Please donate via PayPal to donate@opencart.com
+//-->
+</div>
+</div>
+</body></html>
