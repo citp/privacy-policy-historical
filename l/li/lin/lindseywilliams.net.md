@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lindseywilliams.net privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222161728id_/http%3A//www.lindseywilliams.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindseywilliams.net privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609164642id_/http%3A//www.lindseywilliams.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lindsey Williams
 
@@ -24,16 +24,3 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of lindseywilliams.net then you may contact us at info at lindseywilliams dot net
 
 Last updated Mon, 6 May 2011 21:41
-
-Please share this Lindsey Williams content!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.lindseywilliams.net%2Fprivacy-policy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.lindseywilliams.net%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.lindseywilliams.net%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.lindseywilliams.net%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.lindseywilliams.net%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Your%20Privacy%0D%0AYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20%20%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20%20%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20%20%20used.%20To%20make%20this%20not "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.lindseywilliams.net%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.lindseywilliams.net%2Fprivacy-policy%2F&srcTitle=Lindsey+Williams+Lindsey+Williams+unveils+the+truth+behind+the+elite+plan+for+humanity+and+this+planet "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.lindseywilliams.net%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Lindsey+Williams+Lindsey+Williams+unveils+the+truth+behind+the+elite+plan+for+humanity+and+this+planet&summary=Your%20Privacy%0D%0AYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20%20%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20%20%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20%20%20used.%20To%20make%20this%20not "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.lindseywilliams.net%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
-  * 
-
