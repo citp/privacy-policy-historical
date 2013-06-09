@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ultimateears.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181228id_/http%3A//www.logitech.com/en-us/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateears.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609035124id_/http%3A//www.logitech.com/footer/privacy) for the most accurate reproduction.*
 
 # YOUR PRIVACY & SECURITY
 
 #### YOUR PRIVACY & SECURITY
 
-As your privacy is important to us, Logitech has prepared this Statement of Privacy and Security (“Statement”) so that you may better understand how Logitech uses and protects the personal information on its website www.logitech.com (“Site”). Please take the time to review this page and contact us at [privacy@logitech.com](mailto:privacy@logitech.com) with any questions or concerns.
+As your privacy is important to us, Logitech has prepared this Statement of Privacy and Security (“Statement”) so that you may better understand how Logitech uses and protects the personal information on its website www.logitech.com (“Site”). Please take the time to review this page and contact us at privacy@logitech.com with any questions or concerns.
 
 [](https://privacy.truste.com/privacy-seal/Logitech,-Inc/validation?rid=bef2dd75-99a2-4dcc-816a-e03643a9faee "TRUSTe European Safe Harbor certification")
 
@@ -93,7 +93,7 @@ Back to top
 You have the ability to direct us to update or delete/deactivate certain information pertaining to you by using any of the methods listed below:
 
 Phone: +1 510-795-8500  
-Email: [privacy@logitech.com](mailto:privacy@logitech.com)   
+Email: privacy@logitech.com   
 Postal Mail: Logitech Privacy Officer, 7600 Gateway Blvd., Newark, CA 94560 USA
 
 Web site: <http://www.logitech.com/subscribe>
