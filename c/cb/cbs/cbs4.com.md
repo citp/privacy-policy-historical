@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbs4.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207105746id_/http%3A//miami.cbslocal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs4.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610001302id_/http%3A//miami.cbslocal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « CBS Miami
 
@@ -170,7 +170,7 @@ Some of the advertisements you see on CBS Local Web Sites are delivered by third
 
 Please note that CBS Local does not have access to the information these third parties may collect about your interests to deliver relevant advertising to you, and the information practices of these third parties are not covered by this Privacy Policy. Third parties that currently serve ads on our Web Sites, and thereby may collect information about your online activities on such Web Sites to deliver tailored ads, include, but are not limited to, Atlas, DoubleClick, Eyeblaster, EyeWonder, Omniture, and Pointroll. These companies may offer you a way to choose not to have your information used for advertising purposes. You can find more information by clicking on the company names above and following the links to each company’s web site.
 
-In addition, some of these companies are members of the Network Advertising Initiative (“NAI”), which offers a single location to opt out of receiving tailored ads from member companies. To opt out of information collection by NAI member companies, or to obtain information about the technologies they use or their own privacy policies, please visit: http://www.networkadvertising.org/managing/opt_out.asp.
+In addition, some of these companies are members of the Network Advertising Initiative (“NAI”), which offers a single location to opt out of receiving tailored ads from member companies. To opt out of information collection by NAI member companies, or to obtain information about the technologies they use or their own privacy policies, please visit: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on our Web Sites, but these advertisements may not be as relevant to you.
 
