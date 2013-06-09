@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formetocoupon.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919195636id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formetocoupon.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609213626id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,9 +55,7 @@ Use of the Web site is governed by, and subject to, the Terms of Service. Your u
 
 **Contact**
 
-For questions or concerns relating to privacy, we can be contacted at:
-
-[contact@formetocoupon.com](mailto:contact@formetocoupon.com?subject=Terms%20of%20Service)
+For questions or concerns relating to privacy, we can be contacted though the [Contact Us form](https://web.archive.org/contact-us)
 
 **Effective Date**
 
