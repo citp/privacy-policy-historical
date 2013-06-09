@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the recordsetter.com privacy policy that was archived on 2012-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121102014217id_/http%3A//recordsetter.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the recordsetter.com privacy policy that was archived on 2013-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130609181526id_/http%3A//recordsetter.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope="" itemtype="http://schema.org/Article"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# recordsetter: http://ogp.me/ns/fb/recordsetter#">
 
@@ -8,11 +8,10 @@
 		
 
 
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://www.google.com/jsapi?key=ABQIAAAAzehdnuDGiOtSVXtWJ6--3hRUYZlQ60EQuUWOApFykWRzs2DbxxTiaHLDL--8jbh59y-zMGK1VbBAbA" type="text/javascript"></script>
-<script type="text/javascript">
-    google.load("jquery", "1.6.4");
-    google.load("jqueryui", "1.8.16"); 
-</script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+
 
 <script type="text/javascript">            var _sf_startpt = (new Date()).getTime()</script>
 
@@ -48,8 +47,44 @@
 
 
 
-        <script src="http://statica.recordsetter.com/cassette.axd/script/BlAubUem9KmM4clML6Nc9PIlwlE=/_javascript/core"></script>
-        <link type="text/css" rel="stylesheet" href="http://statica.recordsetter.com/cassette.axd/stylesheet/PF1H2Nkf0XUk0kVhCE5Bq0W5JTI=/_css/core">
+        <script src="http://statica.recordsetter.com/cassette.axd/script/CW2SmiWUioOrRvDO7ilH_ocv5xA=/_javascript/core"></script>
+        <link type="text/css" rel="stylesheet" href="http://statica.recordsetter.com/cassette.axd/stylesheet/abO95obBzbc79nwG0zueSdjJKLY=/_css/core">
+<script type="text/javascript">
+    (function (rsClientError, $, undefined) {
+        "use strict";
+        //Private Property
+        var page = "";
+
+        //Public Property
+        rsClientError.response = "";
+
+        //Public Method
+        rsClientError.log = function (msg, url, line, opts) {
+            if (opts !== undefined && opts['page']) {
+                page = opts['page']
+            }
+            $.ajax({
+                type: 'POST',
+                url: '/json/jserror',
+                data: { context: navigator.userAgent, url: url, line: line, message: msg, clientTime: new Date().toString(), page: page }
+            });
+            if (window.console !== 'undefined') {
+                console.log("Logged: userAgent= " + navigator.userAgent);
+                console.log("Logged: url= " + url);
+                console.log("Logged: line= " + line);
+                console.log("Logged: msg= " + msg);
+                console.log("Logged: page= " + page);
+            }
+        };
+
+        //Private Method
+        //function addItem(item) {
+        //    if (item !== undefined) {
+        //        console.log("Adding " + $.trim(item));
+        //    }
+        //}
+    }(window.rsClientError = window.rsClientError || {}, jQuery));
+</script>
 
 		
 <style type="text/css">
@@ -97,7 +132,7 @@
 		
 
 
-	</head>
+	<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
 <body class="tk-museo-sans loggedout">
         
 		<header class="container_12 clearfix" id="mainHeader">
@@ -438,7 +473,7 @@ while(x=eval(x));
 			<section>
 				<h1>ABOUT</h1>
 				<ul>
-					<li><a href="http://recordsetter.com/jobs"><b>Jobs</b></a></li>
+					
 					<li><a href="http://recordsetter.com/about#overview">Overview</a></li>
 					<li><a href="http://recordsetter.com/book">Book</a></li>
 					<li><a href="http://recordsetter.com/about#team">Team</a></li>
@@ -492,10 +527,9 @@ while(x=eval(x));
 		
 		<section id="license">
 			<div>
-				<a href="http://www.rackspace.com/" class="rackspace">Powered by Rackspace Hosting</a>
-				<a href="http://creativecommons.org/"><img src="http://statica.recordsetter.com/site-static/cc-comingsoon.png" alt="Creative-Commons-Coming-Soon"></a>
-				<p>&nbsp;Except where otherwise noted, all rights are reserved, Universal Record Database, LLC.  <a href="http://nytm.org/made/">Made in NYC</a>&nbsp;</p>
-			</div>
+				
+				<p>&nbsp;Except where otherwise noted, all rights are reserved, Universal Record Database, LLC. 
+			</p></div>
 		</section>
 		
 	</footer>
@@ -523,35 +557,12 @@ while(x=eval(x));
 
 		function submitSearch() {
 			var term = $('#tbSearch').val();
-			var loc = 'http://recordsetter.com/search/' + term;
+			var loc = '/search?q=' + term;
 			window.location = loc;
 		}
 	</script>
     
-    <!-- Quantcast Tag -->
-<script type="text/javascript">
-    var _qevents = _qevents || [];
 
-    (function () {
-        var elem = document.createElement('script');
-        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-        elem.async = true;
-        elem.type = "text/javascript";
-        var scpt = document.getElementsByTagName('script')[0];
-        scpt.parentNode.insertBefore(elem, scpt);
-    })();
-
-    _qevents.push({
-        qacct: "p-Ck2f_rznV5Ym9"
-    });
-</script>
-
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-Ck2f_rznV5Ym9.gif" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
-</noscript>
-<!-- End Quantcast tag -->
 
 	
 
@@ -585,7 +596,7 @@ while(x=eval(x));
 
 <script type="text/javascript">
 	$(window).load(function () {
-		$("body").append('<img src="/stats/ping?pageUrl=http%3a%2f%2frecordsetter.com%2fprivacy&time=1351820798201.07" style="display:none" />');
+		$("body").append('<img src="/stats/ping?pageUrl=http%3a%2f%2frecordsetter.com%2fprivacy&time=1370801727350.27" style="display:none" />');
 	});
 
 </script>
@@ -623,6 +634,6 @@ while(x=eval(x));
      
       
 
+<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","b173904a45","405642","bgcEMRBUWxEFWkUPDVdNIgoWe1AWJ1ZfEhBWDgoAEBpmFgVNWAVNaRAPEwNWTA==",0,140,new Date().getTime(),"87C466DD5664BCE1","","","",""]);</script>
 
-
-</body></html>
+<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
