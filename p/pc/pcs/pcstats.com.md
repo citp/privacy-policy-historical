@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the pcstats.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025003706id_/http%3A//pcstats.com/legalstuff.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcstats.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609065426id_/http%3A//pcstats.com/legalstuff.cfm) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use - PCSTATS.com
 
 **Privacy Policy and Terms of Use**
 
 **Terms of Use:**  
-All images, text, or other media contained on this website are the property of PCSTATS.com. Replication or duplication of the materials contained within PCSTATS.com Articles, website, including the PCSTATS.com logo are strictly forbidden without express _written_ permission. Please see PCSTATS.com's [Terms of Use](https://web.archive.org/web/20121025003706id_/http%3A//pcstats.com/termsofuse.cfm) for more information.
+All images, text, or other media contained on this website are the property of PCSTATS.com. Replication or duplication of the materials contained within PCSTATS.com Articles, website, including the PCSTATS.com logo are strictly forbidden without express _written_ permission. Please see PCSTATS.com's [Terms of Use](https://web.archive.org/web/20130609065426id_/http%3A//pcstats.com/termsofuse.cfm) for more information.
 
 **Web User Privacy Statement**
 
