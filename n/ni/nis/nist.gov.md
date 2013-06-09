@@ -1,19 +1,34 @@
-> *The following text is extracted and transformed from the nist.gov privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213091049id_/http%3A//www.nist.gov/public_affairs/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nist.gov privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609035627id_/http%3A//www.nist.gov/public_affairs/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement/SecurityNotice/Accessibility Statement
 
 [*](http://www.nist.gov/public_affairs/disclaimer.cfm) |  [](http://www.addthis.com/bookmark.php?v=300&pub=usnistgov)  
 ---|---  
   
-**Cookie disclaimer:** “Cookies” are small bits of text that are either used for the duration of a session (“session cookies”) or saved on a user’s hard drive in order to identify that user, or information about that user, the next time the user logs on the a Web site (“persistent cookies”). NIST does not use persistent cookies or any other persistent tracking technology. However, for some videos that are visible on www.nist.gov, a "persistent cookie" is set by third party providers when you click to play a video. These videos are identified with a link to a cookie disclaimer under the video and are used by the third party provider to collect statistics on the number of unique Web visitors viewing specific videos. A waiver has been issued by the White House Counsel's office to allow for the use of these types of persistent cookies by third parties on the White House Web site and NIST is following the White House example by providing an alternative method for viewing these videos. If you would like to view a video without the use of persistent cookies, click on the link that reads "download mp4." If you experience any difficulties, please [contact us](mailto:DOwebmaster@nist.gov).
-
-Currently, we are using session cookies as part of a Web customer satisfaction survey we are conducting in collaboration with ForeSee Results. The sole purpose of the session cookies is to cause the survey to be displayed to a small percentage of our Web site visitors as they leave the NIST Web site. NIST does not retain any information collected by these session cookies. Session cookies are automatically deleted at the end of a session, that is, when you close your browser. Additional privacy information related to the survey is available from a link on the survey itself.
-
 **Privacy Policy**
 
 Thank you for visiting the National Institute of Standards and Technology Web site. We are committed to the privacy of our visitors. We collect no personal information about you when you visit our Web site unless you choose to provide that information to us.
 
 Here is how we handle information about your visit to our Web site.
+
+**Cookies:** To better serve our visitors, we use technology to track new and returning visitors actions while on the website. These small files are commonly referred to as "cookies." Our cookies do not contain any personally-identifiable information. Our web measurement applications compare the behavior of new and returning visitors in the aggregate to help us identify work flows and trends and also resolve common problems on our site.
+
+Cookies are small files that Web servers place on a user's hard drive. They can serve several functions:
+
+  * they allow the Web site to identify you as a previous visitor each time you access a site;
+  * they track what information you view at a site (important to NIST to ensure visitors find what they are looking for);
+  * in the more advanced cases they track your movements through many Web sites but not the whole Web;
+  * businesses use them for customer convenience to allow them to produce a list of items to buy and pay for them all at one time and to garner information about what individuals are buying at their sites;
+  * advertisers use them to determine the effectiveness of their marketing and offer insights into consumer preferences and tastes by collecting data from many Web sites; and
+  * they can be used to help a Web site tailor screens for each customer's preference.
+
+
+
+We will retain data the technology makes available only as long as required by law, or specific program need as specified by the National Archives and Records Administration’s General Records Schedule 20, which pertains to Electronic Records or other approved records schedule as applicable.
+
+If you are concerned about the potential use of the information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. You can remove or block the use of web measurement and customization technologies by changing the setting of your browser to block cookies as described at <http://www.usa.gov/optout_instructions.shtml>.
+
+Currently, we are also using session cookies as part of a Web customer satisfaction survey we are conducting in collaboration with ForeSee Results. The sole purpose of the session cookies is to cause the survey to be displayed to a small percentage of our Web site visitors as they leave the NIST Web site. NIST does not retain any information collected by these session cookies. Session cookies are automatically deleted at the end of a session, that is, when you close your browser. Additional privacy information related to the survey is available from a link on the survey itself.
 
 **Information collected and stored automatically:** If you do nothing during your visit but browse through the Web site, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store information like the following concerning your visit:
 
@@ -26,7 +41,6 @@ Here is how we handle information about your visit to our Web site.
 
 
 
-  
 We use this information to help us make our site more useful to visitors, to learn about the number of visitors to our site, and the types of technology our visitors use. We do not track or record information about individuals and their visits.
 
 **Information protection:** For site security purposes and to ensure that this service remains available to all users, this Government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. If such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials. Unauthorized attempts to upload or change information on this server are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act or other law.
