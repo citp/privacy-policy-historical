@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianet.co.in privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224004054id_/http%3A//asianet.co.in/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianet.co.in privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609130459id_/http%3A//www.asianet.co.in/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to Asianet Satellite Communications Ltd.
 
