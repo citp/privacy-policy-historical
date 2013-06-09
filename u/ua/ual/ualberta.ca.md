@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ualberta.ca privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122002939id_/http%3A//www.uofa.ualberta.ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ualberta.ca privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609143335id_/http%3A//www.uofa.ualberta.ca/privacy) for the most accurate reproduction.*
 
 # Privacy - University of Alberta
 
-The University of Alberta is committed to providing our staff, students and visitors with websites that respect their privacy. This page summarizes the privacy policy and practices for all University of Alberta websites. University of Alberta websites do not automatically gather any personal information from you, such as your name, phone number or email address. This information is only obtained if you provide it voluntarily, through contacting us via email, or through an online form. Any personal information you do provide is managed according to the Alberta Freedom of Information and Protection of Privacy (FOIP) Act. This means that, at the point of collection, you will be informed that your personal information is being collected, the purpose for which it is being collected, and that you have a right of access to the collected information. Some University of Alberta websites may collect more information than is described here and will have additional privacy policies. Where applicable, please be sure to read these privacy policies.
+The University of Alberta is committed to providing our staff, students and visitors with websites that respect their privacy. This page summarizes the privacy policy and practices for all University of Alberta websites. University of Alberta websites do not automatically gather any personal information from you, such as your name, phone number or email address. 
+
+This information is only obtained if you provide it voluntarily, through contacting us via email, or through an online form. Any personal information you do provide is managed according to the Alberta Freedom of Information and Protection of Privacy (FOIP) Act. This means that, at the point of collection, you will be informed that your personal information is being collected, the purpose for which it is being collected, and that you have a right of access to the collected information. Some University of Alberta websites may collect more information than is described here and will have additional privacy policies. Where applicable, please be sure to read these privacy policies.
 
 **Information collected automatically via the Internet**
 
@@ -12,12 +14,12 @@ Some of the information collected does not identify who you are. Other informati
 
 Although we make no attempt to link the information captured to the identity of individuals, the information captured does identify the following:
 
-  * the Internet domain and IP address from which you access our website
-  * the type of browser and operating system used to access our site
-  * screen resolution of your monitor
-  * the date and time you access our site
-  * the pages you visit
-  * the address of any website from which you linked to the University of Alberta website
+  * the Internet domain and IP address from which you access our website 
+  * the type of browser and operating system used to access our site 
+  * screen resolution of your monitor 
+  * the date and time you access our site 
+  * the pages you visit 
+  * the address of any website from which you linked to the University of Alberta website 
 
 
 
