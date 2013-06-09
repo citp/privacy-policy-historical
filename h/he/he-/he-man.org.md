@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the he-man.org privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003015740id_/http%3A//he-man.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the he-man.org privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609140656id_/http%3A//www.he-man.org/privacy.php) for the most accurate reproduction.*
 
 # He-Man.org > Privacy
 
@@ -63,9 +63,9 @@ He-Man.org and MV Creations does not collect information passively through cooki
 We want you and your family to have fun surfing all our sites and urge you and your family to follow common sense whenever disclosing personal information - on this site or anywhere on the Internet. Thanks for reading our privacy statement. We hope you have a better understanding of the many activities offered on our web sites and the ways in which we really are committed to safeguarding online privacy. Remember, we may change our policy from time to time. When this happens we will notify you of the new policy by posting it on our sites.If you have any questions, please don't hesitate to contact us!
 
 MV Creations  
-PO Box 1111  
-Richmond, KY 40476, USA  
+PO Box 20125  
+Columbus, OH 43220, USA  
 [webmaster@mvcreations.com](mailto:webmaster@mvcreations.com)
 
 Use of this site signifies your acceptance of the terms and conditions.  
-© 2012 MV Creations, LLC. All Rights Reserved.
+© 2013 MV Creations, LLC. All Rights Reserved.
