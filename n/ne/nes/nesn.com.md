@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nesn.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014024538id_/http%3A//www.nesn.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nesn.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609232815id_/http%3A//nesn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - New England Sports Network - NESN.com
+# Privacy Policy | NESN.com
+
+Privacy Policy
 
 Thank you for visiting nesn.com, a New England Sports Network LP, site. Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used at this NESN site.
 
@@ -24,7 +26,7 @@ We use the information that you provide about others to enable us to send them y
 
 The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
 
-If you choose to submit content for publication (e.g., a "letter to our editors", comments sent to certain personalities, a posting to a blog or a discussion board), we may publish your screen name and other non-personally identifiable information you have provided to us.
+If you choose to submit content for publication (e.g., a “letter to our editors”, comments sent to certain personalities, a posting to a blog or a discussion board), we may publish your screen name and other non-personally identifiable information you have provided to us.
 
 By posting messages, uploading files, inputting data, or engaging in any other form of communication through this service, you are granting NESN a royalty-free, perpetual, non-exclusive, unrestricted, worldwide license to:
 
@@ -52,11 +54,11 @@ Finally, the NESN sites covered by this Privacy Policy will not use or transfer 
 
 Cookies & Web Beacons
 
-To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the web site with personally identifiable information, this information may be linked to the data stored in the cookie.
+To enhance your experience with our sites, many of our web pages use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the web site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
 We use cookies to understand web site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.
 
-"Web beacons" (also referred to as a web bug, tracking bug, tracking pixel, pixel tag, 1×1 gif, or clear gif) are small pieces of code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to track who is reading a web page or e-mail, when, and from what computer. They can also be used to see if an e-mail was forwarded to someone else or if a web page was copied to another website. We may use web beacons on this web site from time to time for this and other purposes.
+“Web beacons” (also referred to as a web bug, tracking bug, tracking pixel, pixel tag, 1×1 gif, or clear gif) are small pieces of code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to track who is reading a web page or e-mail, when, and from what computer. They can also be used to see if an e-mail was forwarded to someone else or if a web page was copied to another website. We may use web beacons on this web site from time to time for this and other purposes.
 
 Collection of Information by Third-Party Sites and Sponsors
 
@@ -76,10 +78,14 @@ Access to personally identifiable information that is collected from our sites m
 
 You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information. For verification purposes, please include your first name, last name, e-mail address, and the password you use for said service.
 
-Office of Public Relations  
-NESN  
-480 Arsenal St.  
-Bldg 1  
+Office of Public Relations
+
+NESN
+
+480 Arsenal St.
+
+Bldg 1
+
 Watertown, MA 02472
 
 How to Contact Us
@@ -93,6 +99,12 @@ From time to time, we may update this Privacy Policy. We will notify you about m
 Third Party Marketing
 
 This web site does not disclose personally identifiable information to third parties unless notification is provided when the information is submitted and the user does not opt out of such disclosure at that time.
+
+Google Display Advertising and Remarketing with Google Analytics
+
+This web site has implemented and uses Google Display Advertising and Remarketing with Google Analytics. This web site uses Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, show our ads and other ads on sites across the Internet. This web site and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to this web site and other web sites.
+
+Visitors to this web site can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Preferences Manager](http://www.google.com/ads/preferences/). Visitors to this web site can also implement the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
 
 Third-Party Ad Servers
 
