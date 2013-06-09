@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stealsanddealsforkids.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207101400id_/http%3A//stealsanddealsforkids.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stealsanddealsforkids.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609231225id_/http%3A//stealsanddealsforkids.com/our-privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy - Sweet Deals for Kids
+# Our Privacy Policy - Steals and Deals for Kids
 
 **Our Privacy Policy:**
 
