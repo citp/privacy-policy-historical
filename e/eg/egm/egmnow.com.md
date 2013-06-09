@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the egmnow.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205003309id_/http%3A//www.egmnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egmnow.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609033347id_/http%3A//www.egmnow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | EGMNOW
-
-**EGM MEDIA, LLC PRIVACY POLICY**
+# EGM MEDIA, LLC PRIVACY POLICY | EGMNOW
 
 Thank you for visiting this EGM Media, LLC (“EGM”) publication. Your privacy is important to us and to better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by EGM.
 
