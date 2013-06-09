@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegamepick.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116063644id_/http%3A//www.freegamepick.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegamepick.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609150612id_/http%3A//freegamepick.com/privacy.html) for the most accurate reproduction.*
 
 # Free Games — Privacy Policy
 
@@ -32,7 +32,7 @@ You agree that Nuclear Games may change this Privacy Policy at any time. If you 
 
 7\. Contact Information
 
-If you have any questions or suggestions regarding our Privacy Policy, please use our [contact form](https://web.archive.org/web/20121116063644id_/http%3A//www.freegamepick.com/contact.html). 
+If you have any questions or suggestions regarding our Privacy Policy, please use our [contact form](https://web.archive.org/web/20130609150612id_/http%3A//freegamepick.com/contact.html). 
 
   
 All trademarks are the property of their respective owners. All Rights Reserved. 
