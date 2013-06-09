@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatschools.org privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212191509id_/http%3A//www.greatschools.org/privacy/%3Fstate%3DCA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatschools.org privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609210241id_/http%3A//www.greatschools.org/privacy/%3Fstate%3DHI) for the most accurate reproduction.*
 
 # GreatSchools.org Privacy Statement
 
@@ -88,6 +88,12 @@ GreatSchools may use an advertising server developed by a third party to display
 
 We use third-party advertising companies to serve ads. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp). 
 
+##### Information from Other Sources
+
+We have partnered with Facebook to provide a more personalized experience on GreatSchools for members of Facebook. When you visit GreatSchools, you will see an option to sign in with Facebook. If you sign in with Facebook, we will show you which of your Facebook friends have connections to schools you may be considering based on their "likes" and education history (i.e. we utilize Facebook's Open Graph to power our social search feature). We also use Facebook's social sharing functions to make it easy for you to share schools and school reviews with your Facebook friends, and to comment on GreatSchools articles. In order to provide you with this personalized experience, Facebook provides us with information that you have chosen to make available pursuant to your Facebook privacy settings. That information may include your basic information, email address, name, profile picture, your likes, location, schools you've attended (education history), friends list, and any other information you have chosen to make available. We also ask for your friends' likes and their education histories. We do not share this information with any third party.
+
+If, at any time, you would like to turn off personalization on GreatSchools, you can do so by logging out of Facebook. You can also disable the GreatSchools app in the Your Apps section of the Facebook App Center. Please note that, if you have Facebook friends who are using GreatSchools, they may also have shared information about you with us through Facebook. If you wish to prevent that sharing, you can do so by editing your Facebook privacy settings.
+
 ##### A Notice About External Links
 
 You will find links from GreatSchools to independently owned, controlled, and/or managed website whose content we believe will be of possible interest and value to our visitors. Additionally you'll see links from advertisers, sponsors and other partners that may use GreatSchools' logo as part of a co-branding agreement.
@@ -112,4 +118,4 @@ Protecting the privacy of young children is especially important. For that reaso
 
 It is the policy of GreatSchools to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to our customers or website users, via email notice, written or hard copy notice, or through conspicuous posting of such notice on our website page, www.greatschools.org, as determined by GreatSchools in its sole discretion. Notwithstanding the foregoing, GreatSchools reserves the right to determine the form and means of providing notifications to our customers or website users.
 
-Updated January 17, 2012
+Updated May 1, 2013
