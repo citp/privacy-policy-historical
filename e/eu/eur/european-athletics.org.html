@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the european-athletics.org privacy policy that was archived on 2012-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121207120244id_/http%3A//www.european-athletics.org/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the european-athletics.org privacy policy that was archived on 2013-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130609105011id_/http%3A//www.european-athletics.org/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	  <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="/includes/js/jquery-1.6.4.min.js" type="text/javascript"></script>
@@ -14,8 +14,9 @@
   <title>| Privacy Policy </title>
   <link href="/templates/ea-pages/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
   <link href="http://www.european-athletics.org/component/search/?Itemid=848&amp;format=opensearch" rel="search" title="Search European Athletics" type="application/opensearchdescription+xml">
-  <link rel="stylesheet" href="/plugins/system/jcemediabox/css/jcemediabox.css?version=114" type="text/css">
-  <link rel="stylesheet" href="/plugins/system/jcemediabox/themes/squeeze/css/style.css?version=114" type="text/css">
+  <link rel="stylesheet" href="/plugins/content/valaddthis/valaddthis/css/default.css" type="text/css">
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/css/jcemediabox.css?version=116" type="text/css">
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/themes/squeeze/css/style.css?version=116" type="text/css">
   <style type="text/css">
 	#box_recommended, #box_mostread {
 		cursor: pointer;
@@ -74,16 +75,30 @@
   <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
   <script src="/media/system/js/core.js" type="text/javascript"></script>
   <script src="/media/system/js/caption.js" type="text/javascript"></script>
-  <script src="/plugins/system/jcemediabox/js/jcemediabox.js?version=114" type="text/javascript"></script>
+  <script src="http://s7.addthis.com/js/250/addthis_widget.js" type="text/javascript"></script>
+  <script src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+  <script src="https://platform.linkedin.com/in.js" type="text/javascript"></script>
+  <script src="/plugins/system/jcemediabox/js/jcemediabox.js?version=116" type="text/javascript"></script>
   <script type="text/javascript">
 window.addEvent('load', function() {
 				new JCaption('img.caption');
 			});
-JCEMediaObject.init('/', {flash:"10,0,22,87",windowmedia:"5,1,52,701",quicktime:"6,0,2,0",realmedia:"7,0,0,0",shockwave:"8,5,1,0"});JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:0,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'}},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"squeeze",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});
+JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:0,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'}},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"squeeze",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});
 window.addEvent('load', function() {
 				new JCaption('img.caption');
 			});
-JCEMediaObject.init('/', {flash:"10,0,22,87",windowmedia:"5,1,52,701",quicktime:"6,0,2,0",realmedia:"7,0,0,0",shockwave:"8,5,1,0"});JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:0,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'}},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"squeeze",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});
+window.addEvent('domready', function() {
+			$$('.hasTip').each(function(el) {
+				var title = el.get('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					el.store('tip:title', parts[0]);
+					el.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false});
+		});
+JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:0,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'}},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"squeeze",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});
 			jQuery(function() {
 		jQuery("#scrollable_recommended").scrollable({
 			prev: '',
@@ -182,7 +197,7 @@ JCEMediaObject.init('/', {flash:"10,0,22,87",windowmedia:"5,1,52,701",quicktime:
 <a id="menu57521" href="/about-us.html">About Us</a>
 </td> 
 <td> 
-<a id="menu5758" href="/calendar/calendar-2012.html">Calendar</a>
+<a id="menu5758" href="/calendar/calendar-2013-2016.html">Calendar</a>
 </td> 
 <td> 
 <a id="menu575213" href="/development.html">Development</a>
@@ -191,13 +206,13 @@ JCEMediaObject.init('/', {flash:"10,0,22,87",windowmedia:"5,1,52,701",quicktime:
 <a id="menu5753" href="/events/overview.html">Events</a>
 </td> 
 <td> 
-<a id="menu575366" href="/meetings/meetings-overview.html">Meetings</a>
+<a id="menu575366" href="/meetings/meeting-overview.html">Meetings</a>
 </td> 
 <td> 
 <a id="menu5752" href="/news/latest-news.html">News</a>
 </td> 
 <td> 
-<a id="menu5754" href="/results/latest-results-2012.html">Results</a>
+<a id="menu5754" href="/results/latest-results-2013.html">Results</a>
 </td> 
 <td class="last575"> 
 <a id="menu5755" href="/ea-statistics/season-lists.html">Statistics</a>
@@ -211,7 +226,9 @@ if (TransMenu.isSupported()) {
 var ms = new TransMenuSet(TransMenu.direction.down, 0,-1, TransMenu.reference.bottomLeft);
 var menu57521 = ms.addMenu(document.getElementById("menu57521"));
  menu57521.addItem("European Athletics Congress", "/about-us/european-athletics-congress-2013.html", "0");
+menu57521.addItem("European Athletics Honours", "/about-us/european-athletics-honours.html", "0");
 menu57521.addItem("European Athletics", "/about-us/european-athletics.html", "0");
+menu57521.addItem("Code of Ethics", "/about-us/code-of-ethics2.html", "0");
 menu57521.addItem("History", "/about-us/history.html", "0");
 menu57521.addItem("Structure", "/about-us/structure.html", "0");
 menu57521.addItem("European Athletics Convention", "/about-us/european-athletics-convention.html", "0");
@@ -222,10 +239,9 @@ menu57521.addItem("Partners", "/about-us/partners.html", "0");
 menu57521.addItem("Publications", "/about-us/publications.html", "0");
 menu57521.addItem("Contact", "/about-us/head-office.html", "0");
 var menu5758 = ms.addMenu(document.getElementById("menu5758"));
- menu5758.addItem("Calendar 2013", "/calendar/calendar-2013.html", "0");
+ menu5758.addItem("Calendar 2013- 2016", "/calendar/calendar-2013-2016.html", "0");
+menu5758.addItem("Calendar 2013", "/calendar/calendar-2013.html", "0");
 menu5758.addItem("European Athletics Cross Country Permit Races 2012/2013", "/calendar/european-athletics-cross-country-permit-races-2012-2013.html", "0");
-menu5758.addItem("Calendar 2012", "/calendar/calendar-2012.html", "0");
-menu5758.addItem("Calendar 2012 - 2016", "/calendar/calendar-2012-2016.html", "0");
 menu5758.addItem("Education Measure Calendar", "/calendar/education-measure-calendar.html", "0");
 var menu575213 = ms.addMenu(document.getElementById("menu575213"));
  menu575213.addItem("European Athletics Education Programme", "/development/european-athletics-education-programme.html", "0");
@@ -233,35 +249,34 @@ menu575213.addItem("European Athletics Coaching Summit Series", "/development/eu
 menu575213.addItem("European Athletics Coaching Awards", "/development/european-athletics-coaching-awards.html", "0");
 menu575213.addItem("European Athletics Innovation Awards", "/development/european-athletics-innovation-awards.html", "0");
 menu575213.addItem("European Athletics Women\'s Leadership Awards", "/development/european-athletics-womens-leadership-awards.html", "0");
-menu575213.addItem("European Athletics-UNESCO Young Leaders Forum", "/development/european-athletics-unesco-young-leaders-forum.html", "0");
-menu575213.addItem("Sustainability Project", "/development/sustainability-project.html", "0");
+menu575213.addItem("Sustainability Projects", "/development/sustainability-projects.html", "0");
 var menu5753 = ms.addMenu(document.getElementById("menu5753"));
- menu5753.addItem("European Cup Race Walking", "/events/european-cup-race-walking.html", "0");
+ menu5753.addItem("Overview", "/events/overview.html", "0");
 menu5753.addItem("Event Bidding", "/events/event-bidding.html", "0");
 menu5753.addItem("European Athletics Championships", "/events/european-athletics-championships.html", "0");
+menu5753.addItem("European Athletics Indoor Championships", "/events/32nd-european-athletics-indoor-championships.html", "0");
 menu5753.addItem("European Athletics Team Championships", "/events/european-athletics-team-championships.html", "0");
-menu5753.addItem("SPAR European Cross Country Championships", "/events/19th-spar-european-cross-country-championships.html", "0");
-menu5753.addItem("European Champion Clubs Cup", "/events/european-champion-clubs-cup-2012.html", "0");
+menu5753.addItem("SPAR European Cross Country Championships", "/events/spar-european-cross-country-championships.html", "0");
+menu5753.addItem("European Champion Clubs Cup", "/events/european-champion-clubs-cup.html", "0");
+menu5753.addItem("European Cup Race Walking", "/events/european-cup-race-walking.html", "0");
+menu5753.addItem("European Athletics Team Championships 1st/2nd/3rd League", "/events/european-team-championships-1st2nd3rd-league.html", "0");
 menu5753.addItem("European Athletics U23 Championships", "/events/9th-european-athletics-u23-championships.html", "0");
 menu5753.addItem("European Athletics Junior Championships", "/events/22nd-european-athletics-junior-championships.html", "0");
+menu5753.addItem("European Cup Winter Throwing", "/events/european-cup-winter-throwing.html", "0");
 menu5753.addItem("IAAF World Indoor Championships", "/events/iaaf-world-indoor-championships.html", "0");
-menu5753.addItem("Overview", "/events/overview.html", "0");
-menu5753.addItem("European Athletics Indoor Championships", "/events/32nd-european-athletics-indoor-championships.html", "0");
-menu5753.addItem("European Mountain Running Championships", "/events/11th-european-mountain-running-championships.html", "0");
-menu5753.addItem("European Athletics Team Championships 1st/2nd/3rd League", "/events/european-team-championships-1st2nd3rd-league.html", "0");
+menu5753.addItem("European Mountain Running Championships", "/events/european-mountain-running-championships-2013.html", "0");
 menu5753.addItem("European Cup Combined Events", "/events/european-cup-combined-events-2013.html", "0");
+menu5753.addItem("European Cup 10000m", "/events/17th-european-cup-10000m.html", "0");
 menu5753.addItem("Other Events", "/events/other-events.html", "0");
-menu5753.addItem("European Cup 10000m", "/events/european-cup-10000m-2012.html", "0");
-menu5753.addItem("European Cup Winter Throwing", "/events/12th-european-cup-winter-throwing.html", "0");
 var menu575366 = ms.addMenu(document.getElementById("menu575366"));
- menu575366.addItem("European Athletics Outdoor Meetings Overview", "/meetings/meetings-overview.html", "0");
-menu575366.addItem("Outdoor Premium Meetings", "/meetings/outdoor-premium-meetings.html", "0");
-menu575366.addItem("Outdoor Classic Meetings", "/meetings/outdoor-classic-meetings.html", "0");
-menu575366.addItem("Indoor Permit Meetings", "/meetings/indoor-permit-meetings.html", "0");
-menu575366.addItem("Race Walking Permit Meetings", "/meetings/race-walking-permit-meetings.html", "0");
-menu575366.addItem("Cross Country Permit Races", "/meetings/cross-country-permit-races.html", "0");
-menu575366.addItem("IAAF Diamond League", "/meetings/iaaf-diamond-league.html", "0");
-menu575366.addItem("Challenge Meetings", "/meetings/challenge-meetings.html", "0");
+ menu575366.addItem("Meeting Overview", "/meetings/meeting-overview.html", "0");
+menu575366.addItem("Premium Permit Meeting", "/meetings/premium-meeting.html", "0");
+menu575366.addItem("Classic Permit Meeting", "/meetings/classic-meeting.html", "0");
+menu575366.addItem("Area Permit Meeting", "/meetings/area-permit-meeting.html", "0");
+menu575366.addItem("Indoor Permit Meeting", "/meetings/indoor-meeting.html", "0");
+menu575366.addItem("Cross Country Permit Meeting", "/meetings/cross-country-permit-meeting.html", "0");
+menu575366.addItem("Race Walking Permit Meeting", "/meetings/race-walking-permit-meeting.html", "0");
+menu575366.addItem("IAAF Diamond League", "/meetings/iaaf-diamond-league-2013.html", "0");
 var menu5752 = ms.addMenu(document.getElementById("menu5752"));
  menu5752.addItem("Latest News", "/news/latest-news.html", "0");
 menu5752.addItem("European Athletics newsletter", "/news/european-athletics-newsletter.html", "0");
@@ -271,7 +286,7 @@ menu5752.addItem("2011 Year end review", "/news/2011-year-end-review.html", "0")
 menu5752.addItem("The Big Interview", "/news/the-big-interview.html", "0");
 menu5752.addItem("RSS Feeds", "/news/rss-feeds.html", "0");
 var menu5754 = ms.addMenu(document.getElementById("menu5754"));
- menu5754.addItem("Latest Results 2012", "/results/latest-results-2012.html", "0");
+ menu5754.addItem("Latest Results 2013", "/results/latest-results-2013.html", "0");
 menu5754.addItem("European Athletics Cross Country Permit Races 2012/2013", "/results/european-athletics-cross-country-permit-races-2012-2013.html", "0");
 menu5754.addItem("European Athletics Outdoor Permit Meetings 2012", "/results/european-athletics-outdoor-permit-meetings-2012.html", "0");
 menu5754.addItem("Results European Athletics Indoor Permit Meetings 2012", "/results/results-european-athletics-indoor-permit-meetings-2012.html", "0");
@@ -349,630 +364,12 @@ window.onload = init575();
 </div>
 
 <!--End SWmenuPro menu module-->
-
-
-<div class="custom">
-	
-<link rel="stylesheet" href="/includes/js/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
-<script src="/includes/js/fancybox/jquery.easing-1.3.pack.js" type="text/javascript"></script>
-<script src="/includes/js/fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
-<link rel="stylesheet" href="/php_includes/gigya/login.css" type="text/css" media="screen">
-
-<script type="text/javascript" lang="javascript" src="http://cdn.gigya.com/JS/socialize.js?apiKey=2_zy8i9ew8LSC2ZKSX7G_fbeIlDdgsHeWsedUsnaIwZLXIIP2pDJxQMTyen0ggaAps">
-{
-  enabledProviders: 'facebook,twitter,linkedin,google'
-  ,connectWithoutLoginBehavior: 'alwaysLogin'
-}
-</script>
-<script type="text/javascript">
- 	jQuery(document).ready(function() {
-
-       var tag_gigya_api_key='2_zy8i9ew8LSC2ZKSX7G_fbeIlDdgsHeWsedUsnaIwZLXIIP2pDJxQMTyen0ggaAps';
-        var tag_gigya_conf = {
-            APIKey: tag_gigya_api_key
-            ,enabledProviders: 'facebook,twitter,linkedin,google'
-            ,connectWithoutLoginBehavior: 'alwaysLogin'
-        };
-
-       
-		// register for login event
-		gigya.socialize.addEventHandlers({
-			onLogin: onLoginHandler ,
-			onLogout: onLogoutHandler
-		});
-
-
-        gigya.socialize.showFeedUI({
-            containerID: 'ActivityFeed'
-            , width: 220
-            , height: 280
-            , siteName: 'European Athletics'
-            , enabledProviders: 'facebook,twitter,linkedin,google'
-        });
-
-
-        gigya.socialize.showLoginUI({
-            showTermsLink: 'false'
-            ,height: 40
-            ,width: 150
-            ,containerID: 'gigya-socialiconsDiv'
-            ,autoDetectUserProviders: ''
-            ,facepilePosition: 'none'
-        });
-        
-        
-        var shareImage = null; 
-        var readMore = "Read the full article";
-        
-        // for photo-gallery (not working yet)
-        jQuery(".large_img").each(function() {
-            if(jQuery(this).css('opacity') == '1') {
-                var shareImage = jQuery(this).attr('id');
-                readMore = "See all photos"
-            }
-        });
-        if(shareImage!=null){
-            jQuery('#shareImage').html();
-        }
-       
-        
-        var act = new gigya.socialize.UserAction();
-        //act.setUserMessage("This is the user message");
-        act.setTitle(jQuery(this).attr('title'));
-        act.setLinkBack(jQuery(location).attr('href'));
-        act.setDescription(jQuery('#shareIntrotext').html());
-        act.addActionLink(readMore, jQuery(location).attr('href'));
-        act.addMediaItem({ type: 'image', src: shareImage, href: jQuery(location).attr('href') });
-		act.setActionName('shared');
-        
-        var showShareBarUI_params=
-        { 
-            containerID: 'shareBar',
-            shareButtons: [
-            { 
-                provider: 'Facebook-Like'
-            },
-            { 
-                provider: 'facebook'
-            },
-            { 
-                provider: 'Twitter-Tweet'
-            },
-            { 
-                provider: 'LinkedIn'
-            },
-            { 
-                provider: 'googleplus-share'
-            },
-            { 
-                provider: 'Share',
-                iconImgUp: 'https://cdns.gigya.com/gs/i/sharebar/icons/share3.png'
-            }
-            ],
-            userAction: act,
-            privacy: 'public',
-            scope: 'both',
-            operationMode:'multiSelect'
-        }
-        gigya.socialize.showShareBarUI(showShareBarUI_params);
-        
-        
-		// onLogin Event handler
-		function onLoginHandler(eventObj) {	
-			//alert('login handler');
-			// verify the signature ...
-			verifyTheSignature(eventObj.UID, eventObj.timestamp, eventObj.signature);
-
-            //console.info('login handler');
-            
-			jQuery.ajax({
-				type: "POST",
-				url: "http://www.european-athletics.org/php_includes/gigya/site_login.php",
-				data: { action: 'checkUID', uid: eventObj.UID },
-				dataType: "json",
-				success: function(msg){
-					if(msg.returnVal == 0) {
-						jQuery('#join-status').text(msg.error);
-						//user was not found in our db
-						
-						var response = eventObj;
-
-						jQuery.ajax({
-							url: "http://www.european-athletics.org/php_includes/gigya/site_login.php",
-							type: "POST",
-							data: { action: 'gigyaregister', uid: response.user.UID, sig: response.UIDSignature, sigtime: response.signatureTimestamp, firstname: response.user.firstName, lastname: response.user.lastName, nickname: response.user.nickname, email: response.user.email, birthYear: response.user.birthYear, gender: response.user.gender, photo: response.user.photoURL, thumb: response.user.thumbnailURL, ts:1354881585 },
-							dataType: "json",
-							//error: function () { signInResponse("error", "An unknown error occurred. Please reload this page and try again."); }
-							success: function (msg) { 
-								jQuery.fancybox.close(); 
-								setLoggedInInfo(msg.returnVal);
-								
-								//------------------------------											
-								var siteUid= msg.returnVal["uid"]; 
-								var sig = msg.returnVal["sig"];
-                                var userInfo = { 
-                                    firstName: msg.returnVal["firstname"]
-                                    , nickname: msg.returnVal["nickname"]
-                                    , gender: msg.returnVal["gender"]
-                                    , age: msg.returnVal["birth"] 
-                                    , thumbnailURL: msg.returnVal["avatar"] 
-                                };
-                                var params={
-								    siteUID:siteUid,
-								    timestamp:'1354881585',
-								    UIDSig:sig,
-                                    userInfo: userInfo,
-                                    callback:printNotifyResponse
-								};
-
-								gigya.socialize.notifyRegistration(params);
-								//------------------------------																									
-								
-							}
-						});
-						
-					} else{
-						jQuery.fancybox.close();
-						setLoggedInInfo(msg.returnVal);						
-					}
-				}
-			});
-		}
-
-		
-		// Note: the actual signature calculation implementation should be on server side
-		function createSignature(UID, timestamp) {
-			encodedUID = encodeURIComponent(UID); // encode the UID parameter before sending it to the server.
-			// On server side use decodeURIComponent() function to decode an encoded UID
-			return '';
-		}
-
-		// Note: the actual signature calculation implementation should be on server side
-		function verifyTheSignature(UID, timestamp, signature) {
-			encodedUID = encodeURIComponent(UID); // encode the UID parameter before sending it to the server.
-			// On server side use decodeURIComponent() function to decode an encoded UID
-		}
-		
-		
-		// Logout from Gigya platform. This method is activated when "Logout" button is clicked 
-		function logoutFromGS() {
-			gigya.services.socialize.logout(); // logout from Gigya platform
-		}
-
-		function onLogoutHandler(eventObj) {
-	        jQuery("#loginDiv").show();
-	        jQuery("#loggedInDiv").hide();
-	        jQuery("#user_firstname").text("");		
-		}
-
-	
-        jQuery("a.popup-fancy-box").fancybox({
-            'transitionIn': 'fade',
-            'transitionOut': 'fade',
-            'speedIn': 400,
-            'speedOut': 200,
-            'modal': true
-        });
-
-        function setLoggedInInfo(user){
-        	jQuery("#loginDiv").hide();
-        	jQuery("#loggedInDiv").show();
-        	jQuery("#user_firstname").text("Hello " + user['firstname']);
-        	
-            jQuery("#profile-firstname").val(user['firstname']);
-            jQuery("#profile-lastname").val(user['lastname']);
-            jQuery("#profile-nickname").val(user['nickname']);
-            jQuery("#profile-email").val(user['email']);
-            
-        	gigya.services.socialize.showAddConnectionsUI(tag_gigya_conf, { containerID: 'gigya-socialiconsDiv', showTermsLink: false, showEditLink: false, enabledProviders: 'facebook,twitter,linkedin,google' });
-		}
-        
-        
-		// Handle the "Register" button click, in the login panel
-		jQuery("#join-button").click(function(){ 
-			if (jQuery('#join-password').val() != jQuery('#join-password2').val()) {
-                jQuery('#join-status').text("The password fields do not match. Please try again.");
-                return;
-            }
-
-			jQuery('#join-status').text("");
-			
-			jQuery.ajax({
-				type: "POST",
-				url: "http://www.european-athletics.org/php_includes/gigya/site_login.php",
-				data: { action: 'register', nickname: jQuery('#join-firstname').val(), firstname: jQuery('#join-firstname').val(), lastname: jQuery('#join-lastname').val(), password: jQuery('#join-password').val(), rePassword: jQuery('#join-password2').val(), email: jQuery('#join-email').val(), gender: jQuery('#gender').val(), birth: jQuery('#birth').val(), newsletter_fan: jQuery('#newsletter_fan:checked').length, newsletter_media: jQuery('#newsletter_media:checked').length, ts:'1354881585'},
-				dataType: "json",
-				success: function(msg){
-					if(msg.returnVal == 0) {
-						jQuery('#join-status').text(msg.error);
-					} else{
-						jQuery.fancybox.close();
-						setLoggedInInfo(msg.returnVal);
-						
-						//------------------------------											
-						var siteUid= msg.returnVal["uid"]; 
-						var sig = msg.returnVal["sig"];
-                        var userInfo = { 
-                            firstName: msg.returnVal["firstname"]
-                            , nickname: msg.returnVal["nickname"]
-                            , gender: msg.returnVal["gender"]
-                            , age: msg.returnVal["birth"] 
-                            , thumbnailURL: msg.returnVal["avatar"] 
-                        };
-						var params={
-							newUser:true,
-						    siteUID:siteUid,
-						    timestamp:'1354881585',
-						    UIDSig:sig,
-                            userInfo: userInfo,
-						    callback:printNotifyResponse
-						};
-
-						gigya.socialize.notifyLogin(params);
-						//------------------------------																	
-					}
-				}
-			});
-		});
-
-
-		function printNotifyResponse(response) {
-		    if ( response.errorCode == 0 ) {
-		        //alert('After notifyLogin');    
-		    } else {
-		        
-		    }
-		    //console.log(response);
-		}        
-
-		jQuery("#sign-in-button").click(function () {
-			jQuery('#sign-in-status').text("");
-			jQuery.ajax({
-				type: "POST",
-				url: "http://www.european-athletics.org/php_includes/gigya/site_login.php",
-				data: { action: 'login', email: jQuery('#sign-in-username').val(), password: jQuery('#sign-in-password').val(), ts:'1354881585' },
-				dataType: "json",
-				success: function(msg){
-					
-					if(msg.returnVal == 0){
-						jQuery('#sign-in-status').text(msg.error);
-					}else{
-						jQuery.fancybox.close();
-						setLoggedInInfo(msg.returnVal);
-								
-						//------------------------------											
-						var siteUid= msg.returnVal["uid"]; 
-						var sig = msg.returnVal["sig"];
-                        var userInfo = { 
-                            firstName: msg.returnVal["firstname"]
-                            , nickname: msg.returnVal["nickname"]
-                            , gender: msg.returnVal["gender"]
-                            , age:msg.returnVal["birth"] 
-                            , thumbnailURL: msg.returnVal["avatar"] 
-                        };
-						var params={
-						    siteUID:siteUid,
-						    timestamp:'1354881585',
-						    UIDSig:sig,
-                            userInfo: userInfo,
-						    callback:printNotifyResponse
-						};
-
-						gigya.socialize.notifyLogin(params);
-						//------------------------------																
-					}
-					
-					gigya.socialize.getUserInfo({callback:printNotifyResponse});
-				}
-			});
-		});	
-		
-		jQuery("#link-accounts-existing-button").click(function () {
-			alert("link existing");
-		})
-		
-		jQuery("#link-accounts-new-button").click(function () {
-			alert("link new");
-		})
-		
-
-        jQuery('#btnLogout').click(function(){
-            logoutFromGS();
-        })
-        
-		jQuery('#btnProfile').click(function(){
-			logoutFromGS();
-		})
-		
-		function updateLoginInfos(response) {  
-			var user = response['user'];
-
-			//console.log(response);
-			
-			if (response.errorCode==0 && user['UID']!="" ) {
-				jQuery.ajax({
-					type: "POST",
-					url: "http://www.european-athletics.org/php_includes/gigya/site_login.php",
-					data: { action: 'checkUID', uid: user['UID'] },
-					dataType: "json",
-					success: function(msg){
-						if(msg.returnVal != 0) {
-							setLoggedInInfo(msg.returnVal);
-						} else {
-							//TODO: handle error	
-						}
-					}
-				});
-			} else {
-				//TODO: handle
-			}	
-		}
-
-
-    function showPleaseWaitBox() {
-        jQuery.fancybox({
-            'href': '#please-wait-box-popup',
-            'transitionIn': 'fade',
-            'transitionOut': 'fade',
-            'speedIn': 400,
-            'speedOut': 200,
-            'modal': true
-        });
-    }
-
-
-    jQuery('.gigyaLogin').click(function(){
-        var provider = jQuery(this).attr('provider');
-        gigya.services.socialize.login(tag_gigya_conf, { callback: processLogin, provider: provider });
-    })
-    
-    
-    function processLogin(response) {
-        responseProcessingFunction = function (rtype, rdata) {
-            if (rtype == "success") {
-                // everything went fine; reload the page
-                showPleaseWaitBox();
-                //reloadPageAfterLoginChange();
-            } else if (rtype == "error") {
-                // uh-oh
-                jQuery('#sign-in-gigya-status').text(rdata);
-            }
-        };
-
-        if (response.errorCode != 0) {
-            // error
-            //signInResponse("error", 'Your social network returned an error: "' + response.errorMessage.substr(0, 50) + '"');
-        } else {
-            // proceed...
-            
-            //showPleaseWaitBox();
-        
-            if (response.user.isSiteUID) {
-                // we have a site UID, so log in
-                jQuery.ajax({
-                    url: "http://www.european-athletics.org/php_includes/gigya/site_login.php",
-                    type: "POST",
-                    data: { action: 'socialLogin', uid: response.UID, sig: response.UIDSignature, sigtime: response.signatureTimestamp, firstname: response.user.firstName, lastname: response.user.lastName, nickname: response.user.nickname, email: response.user.email, gender: response.user.gender, birthYear: response.user.birthYear, photo: response.user.photoURL, thumb: response.user.thumbnailURL  },
-                    dataType: "json",
-                    //error: function () { signInResponse("error", "An unknown error occurred. Please reload this page and try again."); }
-                    success: function () { jQuery.fancybox.close(); }
-                });
-            } else {
-                
-                jQuery.ajax({
-                    url: "http://www.european-athletics.org/php_includes/gigya/site_login.php",
-                    type: "POST",
-                    data: { action: 'gigyaregister', uid: response.user.UID, sig: response.UIDSignature, sigtime: response.signatureTimestamp, firstname: response.user.firstName, lastname: response.user.lastName, nickname: response.user.nickname, email: response.user.email, birthYear: response.user.birthYear, gender: response.user.gender, photo: response.user.photoURL, thumb: response.user.thumbnailURL },
-                    dataType: "json",
-                    //error: function () { signInResponse("error", "An unknown error occurred. Please reload this page and try again."); }
-                    success: function () { jQuery.fancybox.close(); }
-                });
-
-
-                // we do NOT have a site UID, so link accounts
-                // set up the necessary display and other data
-                /*
-                tempGigyaResponseStore = response;
-                var providerName = "my social network";
-                switch (response.user.loginProvider) {
-                    case "facebook":
-                        providerName = "Facebook";
-                        break;
-                    case "twitter":
-                        providerName = "Twitter";
-                        break;
-                    case "linkedin":
-                        providerName = "LinkedIn";
-                        break;
-                }
-                var friendlyUserName = (typeof response.user.firstName === "undefined" || response.user.firstName == null || response.user.firstName == '' ? response.user.nickname : response.user.firstName);
-                jQuery('#link-accounts-existing-social-provider').text(providerName);
-                jQuery('#link-accounts-new-social-provider').text(providerName);
-                jQuery('#link-accounts-welcome-name').text(friendlyUserName);
-                
-                jQuery.fancybox({
-                    'href': '#link-accounts-box-popup',
-                    'transitionIn': 'fade',
-                    'transitionOut': 'fade',
-                    'speedIn': 400,
-                    'speedOut': 200,
-                    'modal': true
-                });*/
-            }
-        } 
-    }
-
-
-		gigya.socialize.getUserInfo({callback:updateLoginInfos});
-    
-    });
-	
-</script>
-
-
-<div class="user-nav">
-    
-    <!-- +++ Login text -->
-    <div id="gigya-login-text">
-		<div id="loggedInDiv" style="display: none;">
-            			<span id="user_firstname"></span>
-			<a href="#" id="btnLogout" type="button">Sign Out</a>
-			<!--<div id="add-gigya-connection"></div>-->
-		</div>
-		
-		<div id="loginDiv">
-			<a class="popup-fancy-box" href="#join-box-popup">Register</a> or <a class="popup-fancy-box" href="#sign-in-box-popup">Sign in</a>
-		</div>
-	</div>
-    <!-- - - Login text -->
-	
-	
-   	<!-- +++ Gigya popups -->
-    <div style="display:none">
-        <div id="please-wait-box-popup">
-            Please wait...
-        </div>
-
-        <div id="join-box-popup">
-            <h2>Create or Link an account</h2>
-            <h4>It only takes a few minutes to join.</h4>
-            <div>
-                <p>You can use your favorite social network to register or link an existing account:</p>
-                <br>
-                <a class="gigyaLogin bar-facebook" provider="facebook" href="#">[f]</a>
-                <a class="gigyaLogin bar-twitter" provider="twitter" href="#">[t]</a>
-                <a class="gigyaLogin bar-linkedin" provider="linkedin" href="#">[in]</a>
-                <a class="gigyaLogin bar-google" provider="google" href="#">[g]</a>
-            </div>
-            <div>
-                <p>Or use your email address to register without a social network:</p>
-                <label for="firstname">Firstname: </label><input type="text" name="firstname" id="join-firstname"><br>
-                <label for="lastname">Lastname: </label><input type="text" name="lastname" id="join-lastname"><br>
-                <label for="password">Choose password: </label><input type="password" name="password" id="join-password"><br>
-                <label for="password2">Re-enter password: </label><input type="password" name="password2" id="join-password2"><br>
-                <label for="emailaddr">Email address: </label><input type="text" name="emailaddr" id="join-email"><br>
-              	<br>
-           	  <br>
-              	<input id="newsletter_fan" type="checkbox" name="newsletter_fan" style="width:15px;" value="1"> <label for="newsletter_fan" style="clear:none">Subscribe to our fan-newsletter</label><br>
-              	<input id="newsletter_media" type="checkbox" name="newsletter_media" style="width:15px;" value="1"> <label for="newsletter_media" style="clear:none">Subscribe to our media-newsletter</label><br>
-            </div>
-            <a href="#" class="orangebutton" id="join-button">Submit</a>
-            <div id="join-status" style="color: red"></div>
-            <br><br>
-            <a class="fancybox-close" href="#" onclick="jQuery.fancybox.close(); return false;">Close</a>
-        </div>
-
-        <div id="sign-in-box-popup">
-            <h2>Sign in</h2>
-            <div>
-                <p>Sign in with these social networks:</p>
-                <a class="gigyaLogin button-facebook" href="#" provider="facebook" title="facebook" onclick="jQuery.doLogin('facebook'); return false;">[f]</a>
-                <a class="gigyaLogin button-twitter" href="#" provider="twitter" title="twitter" onclick="jQuery.doLogin('twitter'); return false;">[t]</a>
-                <a class="gigyaLogin button-linkedin" href="#" provider="linkedin" title="Linkedin" onclick="jQuery.doLogin('linkedin'); return false;">[in]</a>
-                <a class="gigyaLogin button-google" href="#" provider="google" title="Google" onclick="jQuery.doLogin('google'); return false;">[msg]</a>
-            </div>
-            <div id="sign-in-gigya-status" style="color: red"></div>
-            <div class="sign-in-emailpass">
-                <p>Or enter your email and password</p>
-                <label>Email:</label><input type="text" name="username" id="sign-in-username"><br>
-                <label>Password:</label><input type="password" name="password" id="sign-in-password"><br>
-                <p class="forgotyourpassword">&nbsp;<!--Forgot your <a href="#">password</a>?--></p>
-                <script type="text/javascript">
-                    jQuery("input#sign-in-username").keypress(function (e) {
-                        if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
-                            jQuery('input#sign-in-password').focus();
-                            return true;
-                        }
-                    });
-                    jQuery("input#sign-in-password").keypress(function (e) {
-                        if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
-                            jQuery('a#sign-in-button').focus().click();
-                            return true;
-                        }
-                    });
-                </script>
-            </div>
-                <a href="#" id="sign-in-button" class="orangebutton">Sign In</a>
-            <div id="sign-in-status" style="color: red"></div>
-            <br><br>
-            <a href="#" class="fancybox-close" onclick="jQuery.fancybox.close(); return false;">Close</a>
-        </div>
-        
-        <div id="link-accounts-box-popup" style="width: 700px;">
-            <h2>Account linking</h2>
-            <h4>Welcome <span id="link-accounts-welcome-name"></span>, Do you have an existing EA account?</h4>
-            <div>
-                <p>Yes, please link my existing account with <span id="link-accounts-existing-social-provider"></span> for quick, secure access.</p>
-                <label>Email:</label><input type="text" name="username" id="link-accounts-existing-username"><br>
-                <label>Password:</label><input type="password" name="password" id="link-accounts-existing-password"><br>
-                <a href="#" class="orangebutton" id="link-accounts-existing-button">Link accounts</a>
-                <script type="text/javascript">
-                    jQuery("input#link-accounts-existing-username").keypress(function (e) {
-                        if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
-                            jQuery('input#link-accounts-existing-password').focus();
-                            return true;
-                        }
-                    });
-                    jQuery("input#link-accounts-existing-password").keypress(function (e) {
-                        if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
-                            jQuery('a#link-accounts-existing-button').focus().click();
-                            return true;
-                        }
-                    });
-                </script>
-            </div>
-            <div>
-                <p>No, I would like to create a new account with my <span id="link-accounts-new-social-provider"></span> profile information.</p>
-                <!--<label>Sign in name:</label><input type="text" name="username" id="link-accounts-new-username" /><br />-->
-                <label>Email address:</label><input type="text" name="emailaddr" id="link-accounts-new-email"><br>
-                <label>Re-enter email address:</label><input type="text" name="emailaddr2" id="link-accounts-new-email2"><br>
-                <a href="#" class="orangebutton" id="link-accounts-new-button">Register</a>
-            </div>
-            <br><br>
-            <a href="#" class="fancybox-close" onclick="jQuery.fancybox.close(); /* now logout of Gigya because they chose to skip account-linking by clicking this close-button */ gigya.services.socialize.logout({}, {callback:AccountsLinkBox_Closed}); return false;">Close</a>
-            <div id="link-accounts-status" style="color: red"></div>
-        </div>
-
-        <div id="profile-box-popup">
-                <h2>Profile</h2>
-                <h4>Basic Information</h4>
-                <div>
-                <label for="profile-nickname">Nickname: </label><input type="text" name="firstname" id="profile-nickname"><br>
-                <label for="profile-firstname">Firstname: </label><input type="text" name="firstname" id="profile-firstname"><br>
-                <label for="profile-lastname">Lastname: </label>
-                <input type="text" name="profile-lastname" id="profile-lastname">
-                <br>
-                <label for="profile-gender">Gender: </label>
-                <select name="profile-gender" id="profile-gender">
-                    <option value=""></option>
-                    <option value="m">male</option>
-                    <option value="f">female</option>
-                </select>
-                <br>
-                <label for="emailaddr">Email address: </label><input type="text" name="emailaddr" id="profile-email"><br>
-                      <br>
-                     <br>
-                      <input id="newsletter_fan" type="checkbox" name="newsletter_fan" style="width:15px;" value="1"> <label for="newsletter_fan" style="clear:none">Subscribe to our fan-newsletter</label><br>
-                      <input id="newsletter_media" type="checkbox" name="newsletter_media" style="width:15px;" value="1"> <label for="newsletter_media" style="clear:none">Subscribe to our media-newsletter</label><br>
-                </div>
-                <a href="#" class="orangebutton" id="profile-button">Save</a>
-                <br><br>
-                <a href="#" class="fancybox-close" onclick="jQuery.fancybox.close(); return false;">Close</a>
-        </div>
-    </div>
-   	<!-- - - Gigya popups -->
-</div>
-
-
-
-	
-	</div>
 </div>
 		<div id="searcharea"><form action="/privacy-policy.html" method="post">
 	<div class="search">
 		<label for="mod-search-searchword">Search...</label><input name="searchword" id="mod-search-searchword" maxlength="20" class="inputbox" type="text" size="20" value="Search..." onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';"><input type="image" value="Search" class="button" src="/templates/ea-pages/images/searchButton.gif" onclick="this.form.searchword.focus();">	<input type="hidden" name="task" value="search">
 	<input type="hidden" name="option" value="com_search">
-	<input type="hidden" name="Itemid" value="2">
+	<input type="hidden" name="Itemid" value="848">
 	</div>
 </form>
 </div><br clear="all">
@@ -988,54 +385,37 @@ window.onload = init575();
 	</h1>
 
 
-
-
-<div id="shareBar"></div>
-<div style="display: none;" id="shareIntrotext">
-    International TransferThe collection of information and how We use itThe information We collect from YouAutomatic InformationCookiesPhishingInformation Sharing and DisclosureSecurityYour right to access informationUpdating/deleting Your informationLinks to Other SitesOur policy towards childrenChanges to this Privacy PolicyJurisdiction and applicable lawWelcome to european-athletics.org (the “Website"), operated by the European Athletic Association (EA) (“European Athletics”, “We”, “Our”). European Athletics takes the Website’s users (“User”, “You”, “Yourself”, “Your”) privacy seriously. Please read the following to learn more about Our Privacy Policy and the ways in which We use Your information before You proceed with use of the Website.Date of issue of this Privacy Policy: May 2012.
-International Transfer
-YOUR INFORMATION IS PROCESSED IN SWITZERLAND, AND MAY BE STORED AND USED ELSEWHERE DEPENDING ON THE LOCATION OF AFFILIATES, BUSINESS PARTNERS, AND OTHER ENTITIES WHO ARE PERMITTED TO ACCESS SUCH INFORMATION UNDER THE TERMS OF THIS PRIVACY POLICY (AND SUCH LOCATIONS MAY INCLUDE COUNTRIES WHICH MAY NOT AFFORD THE SAME LEVEL OF PROTECTION OF SUCH DATA AS THE COUNTRY FROM WHICH YOU PROVIDED THE INFORMATION). IN SUBMITTING INFORMATION TO US, YOU SPECIFICALLY AGREE TO THAT TRANSFER AND ANY RELATED PURPOSES.
-The collection of information and how We use it
-The main reason why European Athletics collects information is to provide and improve the Website and the services, features and content, to administer Your membership (together, the “Service”) and to enable users to enjoy and easily navigate the Website.
-The information We collect from You
-European Athletics does not collect personal identifying information when you access the Website homepage and browse the Website without disclosing Your personal data except as described in this Privacy Policy or the relevant part of the Website and except cookies (see below under "cookies").European Athletics collects personal identifying information when You register on the Website, when You use certain products or services on the Website and when You enter promotions, sweepstakes or similar services sponsored by European Athletics or its business partners. European Athletics may also receive personal identifying information from its business partners. When You register, European Athletics asks for Your name, email address, and some other personal information. Once you register with European Athletics and/or sign in to our products or services, You are not anonymous to European Athletics.  In case You sign in via Your social network authentication services (Facebook/Twitter/LinkedIn/Yahoo account), European Athletics may receive some information from Facebook/Twitter/LinkedIn/Yahoo, but You remain solely responsible for Your whole relationship with Facebook/Twitter/LinkedIn/Yahoo, including, without limitation, any content on the Facebook/Twitter/LinkedIn/Yahoo websites.  In case You terminate Your membership with Facebook/Twitter/LinkedIn/Yahoo and/or terminate the links between Facebook/Twitter/LinkedIn/Yahoo and Our Website, European Athletics will delete all data received from Facebook/Twitter/LinkedIn/Yahoo concerning you if you ask European Athletics to do so. You can do so using the same easy way as for the ability to access Your personal identifying information as defined in this Privacy Policy. Further, Facebook/Twitter/LinkedIn/Yahoo may require European Athletics to delete data received from Facebook/Twitter/LinkedIn/Yahoo APIs in case of violation of their terms.  If Facebook/Twitter/LinkedIn/Yahoo will disable any links to Our website, European Athletics will delete all your date received through the use of the Facebook/Twitter/LinkedIn/Yahoo APIs, unless it is a basic account information or European Athletics have received explicit consent from You to retain your data.&nbsp;  
-Automatic Information
-European Athletics also automatically receives and records information on Our server logs from Your browser including Your Internet Protocol address (IP address), which identifies Your computer, European Athletics’ cookies information and the page You requested. European Athletics uses information collected for four general purposes: for technical administration of the Website, for research and development to achieve and maintain a high service level and for customer information (to customise the content you see, to fulfil your request for certain products and services, to send You newsletters and press releases and to contact You about specials and new products and services).Aggregate information shall also be used to customise the advertising. In using the Website, You expressly entitle European Athletics to collect and process Your information in particular for such marketing and customisation of the Service. You may always revoke Your consent by deleting Your account.
-Cookies
-European Athletics, like many other websites, may set and access cookies on Your computer. A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to Your browser from a website's computer and stored on Your computer's hard drive.European Athletics uses its own cookies for number of purposes, mainly to: 
-
-access Your information when You "sign in", so that We can provide You with customised content;
-keep track of preferences You specify while You are using European Athletics’ services;
-estimate and report Our total audience size and traffic;
-conduct research and development to improve the Website contents and services and achieve and maintain a high service level.&nbsp;&nbsp;&nbsp;&nbsp;  
-
-European Athletics may allow third parties that are presenting promotions or researching users response to advertisement on some of Our pages to set and access their own cookies on Your computer. Third parties' use of their cookies is subject to their own privacy policies and not this one.
-Phishing
-Identity theft and the practice currently known as “phishing” are of great concern to European Athletics. Safeguarding information to help protect You from identity theft is a top priority. We do not and will not, at any time, request Your credit card information, Your account ID, login password or national identification numbers in a non-secure or unsolicited e-mail or telephone communication.
-Information Sharing and Disclosure
-European Athletics may send information about You to other companies or people when:a) We have Your consent to share the information; orb) We need to share Your information to provide the product or service You have requested; orc) We provide the information to companies who work on behalf of European Athletics under confidentiality agreements; ord) We respond to subpoenas, court orders or legal process; ore) We believe it is necessary, as determined in Our sole discretion, to investigate, prevent, or take action regarding illegal activities, suspected fraud, emergency situations involving potential threats to the physical safety of any person, violations of European Athletics ‘s terms of use, or as otherwise required by law.
-Security
-We want You to feel confident about using the Website. For that reason, We have implemented reasonable technical and organizational measures designed to secure Your information from accidental loss and from unauthorized access, use, alteration or disclosure. However, the Internet is an open system and We cannot guarantee that unauthorized third parties will never be able to defeat those measures or use Your information for improper purposes.If You communicate with European Athletics by e-mail, You should note that the secrecy of Internet e-mail is uncertain. By sending sensitive or confidential e-mail messages or information which are not encrypted You accept the risk of such uncertainty and possible lack of confidentiality over the Internet.
-Your right to access information
-You are entitled to see the information held about You. If You wish to do this, please send us an email at office@european-athletics.org. We may require You to provide verification of Your identity and to pay an administration fee to provide a copy of the information we hold. Please note that in certain circumstances We may withhold access to Your information where We have the right to do so under current data protection legislation.
-Updating/deleting Your information
-You may review, correct, update, change or delete Your personal information at any time by accessing Your account on European-athletics.org. We will attempt to accommodate Your request for deletion if We do not have any legal obligation to retain the record. Please send us an email at the following address if you wish to review, correct, update, change or delete Your data : office@european-athletics.org.
-Links to Other Sites
-If any part of the Website links to other websites, those websites do not operate under this Privacy Policy. If You choose to visit an advertiser or click on another third party link, You will be directed to that third party’s website. We do not exercise control over third party websites and therefore recommend You examine the privacy statements posted on these other websites to understand their procedures for collecting, using and disclosing personal information.
-Our policy towards children
-If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should delete the account (refer to: Updating/deleting Your information). If we become aware that a child under 13 has provided us with personal information without such consent, we will delete such information from our files.
-Changes to this Privacy Policy
-This policy may be amended from time to time. If we amend the Privacy Policy in any way we will place an updated version on this page of the Website. Regularly reviewing this page ensures that you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties. If we make any substantial changes in the way we use your personal information we will notify you by posting an announcement on the Website.
-Jurisdiction and applicable law
-This Privacy Policy and all matters arising out of or related to this Privacy Policy shall be governed by the substantive laws and principles of Switzerland, without regards to conflicts of laws and principles thereof.Any dispute, controversy or claim arising out of or in relation to this Privacy Policy, including the validity, invalidity, breach or termination thereof, shall be decided exclusively by the ordinary courts of the canton Vaud, Switzerland, subject to an appeal to the Swiss Federal Tribunal.
-Welcome to european-athletics.org (the “Website"), operated by the European Athletic Association (EA) (“European Athletics”, “We”, “Our”). European Athletics takes the Website’s users (“User”, “You”, “Yourself”, “Your”) privacy seriously. Please read the following to learn more about Our Privacy Policy and the ways in which We use Your information before You proceed with use of the Website.Date of issue of this Privacy Policy: May 2012.</div>
-<div style="display: none;" id="shareImage">http://www.european-athletics.org/media/system/ea-logo-gigya.png</div>
+<div id="actions2">	
+    <ul class="actions2">
+						<li class="print-icon">
+			<a href="/privacy-policy.html?tmpl=component&amp;print=1&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Print"></a>			</li>
+		
+		
+		
+	
+	</ul>
+ </div> 
 
 
 
 
 
-	<a href="#1">International Transfer</a><br><a href="#2">The collection of information and how We use it</a><br><a href="#3">The information We collect from You</a><br><a href="#4">Automatic Information</a><br><a href="#5">Cookies</a><br><a href="#6">Phishing</a><br><a href="#7">Information Sharing and Disclosure</a><br><a href="#8">Security</a><br><a href="#9">Your right to access information</a><br><a href="#10">Updating/deleting Your information</a><br><a href="#11">Links to Other Sites</a><br><a href="#12">Our policy towards children</a><br><a href="#13">Changes to this Privacy Policy</a><br><a href="#14">Jurisdiction and applicable law</a><br><br><hr>Welcome to european-athletics.org (the “Website"), operated by the European Athletic Association (EA) (“European Athletics”, “We”, “Our”). European Athletics takes the Website’s users (“User”, “You”, “Yourself”, “Your”) privacy seriously. Please read the following to learn more about Our Privacy Policy and the ways in which We use Your information before You proceed with use of the Website.<br><br>Date of issue of this Privacy Policy: May 2012.<hr><a name="1"></a>
+	
+<!-- BEGIN: ValAddThis Plugin -->
+<div id="share"><script type="text/javascript" language="javascript">
+var addthis_config = {ui_hover_direction: false,ui_use_addressbook: false,data_track_linkback: false,data_use_flash: false,data_use_cookies: false,ui_use_css: false,data_track_textcopy: false,ui_open_windows: false}; </script>
+<div class="addthis_toolbox">
+<div class="valaddthis_id11058 addthis_default_style">
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.european-athletics.org%2Fprivacy-policy.html&amp;layout=button_count&amp;show_faces=false&amp;width=47&amp;action=recommend&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" class="FBrec"></iframe>
+<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.european-athletics.org/privacy-policy.html" data-text="" data-count="horizontal">Tweet</a>
+<div class="plusone"><a class="addthis_button_google_plusone" g:plusone:href="http://www.european-athletics.org/privacy-policy.html" g:plusone:size="medium"></a></div>
+<div class="linkedin_horz"><script type="in/share" data-url="http://www.european-athletics.org/privacy-policy.html" data-counter="right"></script></div>
+</div>
+<script type="text/javascript">
+ addthis.toolbox(".valaddthis_id11058", {}, {url: "http://www.european-athletics.org/privacy-policy.html", title: "Privacy Policy", description: ""});
+</script></div></div>
+<!-- END: ValAddThis Plugin -->
+<a href="#1">International Transfer</a><br><a href="#2">The collection of information and how We use it</a><br><a href="#3">The information We collect from You</a><br><a href="#4">Automatic Information</a><br><a href="#5">Cookies</a><br><a href="#6">Phishing</a><br><a href="#7">Information Sharing and Disclosure</a><br><a href="#8">Security</a><br><a href="#9">Your right to access information</a><br><a href="#10">Updating/deleting Your information</a><br><a href="#11">Links to Other Sites</a><br><a href="#12">Our policy towards children</a><br><a href="#13">Changes to this Privacy Policy</a><br><a href="#14">Jurisdiction and applicable law</a><br><br><hr>Welcome to european-athletics.org (the “Website"), operated by the European Athletic Association (EA) (“European Athletics”, “We”, “Our”). European Athletics takes the Website’s users (“User”, “You”, “Yourself”, “Your”) privacy seriously. Please read the following to learn more about Our Privacy Policy and the ways in which We use Your information before You proceed with use of the Website.<br><br>Date of issue of this Privacy Policy: May 2012.<hr><a name="1"></a>
 <h2>International Transfer</h2>
 YOUR INFORMATION IS PROCESSED IN SWITZERLAND, AND MAY BE STORED AND USED ELSEWHERE DEPENDING ON THE LOCATION OF AFFILIATES, BUSINESS PARTNERS, AND OTHER ENTITIES WHO ARE PERMITTED TO ACCESS SUCH INFORMATION UNDER THE TERMS OF THIS PRIVACY POLICY (AND SUCH LOCATIONS MAY INCLUDE COUNTRIES WHICH MAY NOT AFFORD THE SAME LEVEL OF PROTECTION OF SUCH DATA AS THE COUNTRY FROM WHICH YOU PROVIDED THE INFORMATION). IN SUBMITTING INFORMATION TO US, YOU SPECIFICALLY AGREE TO THAT TRANSFER AND ANY RELATED PURPOSES.<br><hr><a name="2"></a>
 <h2>The collection of information and how We use it</h2>
@@ -1073,25 +453,7 @@ This policy may be amended from time to time. If we amend the Privacy Policy in 
 This Privacy Policy and all matters arising out of or related to this Privacy Policy shall be governed by the substantive laws and principles of Switzerland, without regards to conflicts of laws and principles thereof.<br>Any dispute, controversy or claim arising out of or in relation to this Privacy Policy, including the validity, invalidity, breach or termination thereof, shall be decided exclusively by the ordinary courts of the canton Vaud, Switzerland, subject to an appeal to the Swiss Federal Tribunal.<br data-mce-bogus="1">
 <div style="position: absolute; left: -40px; top: -25px; width: 1px; height: 1px; overflow: hidden;" data-mce-bogus="1" class="mcePaste" id="_mcePaste">Welcome to european-athletics.org (the “Website"), operated by the European Athletic Association (EA) (“European Athletics”, “We”, “Our”). European Athletics takes the Website’s users (“User”, “You”, “Yourself”, “Your”) privacy seriously. Please read the following to learn more about Our Privacy Policy and the ways in which We use Your information before You proceed with use of the Website.<br>Date of issue of this Privacy Policy: May 2012.<br><br></div>
 	</div></div>
-            <div id="content-right">		<div class="moduletable-activity">
-					
-
-<div class="custom-activity">
-	<div class="box">
-	<div class="box-yellow-top">Activity Feed</div>
-		<div class="box-content" style="height:280px;">
-
-    <div id="ActivityFeed"></div>
-   
-   
-		</div>
-	<div class="box-bottom">&nbsp;</div>
-</div>
-
-   
-</div>
-		</div>
-			<div class="moduletable">
+            <div id="content-right">		<div class="moduletable">
 					 
 
 
@@ -1104,55 +466,55 @@ This Privacy Policy and all matters arising out of or related to this Privacy Po
 		<div>
 		<ul>
 					<li class="item_recommended">
-				<a href="/19th-spar-european-cross-country-championships/11617-junior-women-s-preview-gorecka-looking-to-retain-the-title.html">Junior women's preview: Gorecka looking to retain the title</a>
+				<a href="/aom/11969-vote-for-european-athlete-of-the-month-for-may2013.html">Vote for European Athlete of the Month for May</a>
 			</li>
 					<li class="item_recommended">
-				<a href="/19th-spar-european-cross-country-championships/11616-junior-men-s-preview-great-britain-favourites-to-retain-the-title.html">Junior men's preview: Great Britain favourites to retain the title</a>
+				<a href="/news/latest-news/531-meetings-2013/outdoor-classic-meetings-2013/11967-kozmus-aims-to-hammer-home-a-victory.html">Kozmus aims to hammer home a victory</a>
 			</li>
 					<li class="item_recommended">
-				<a href="/news/latest-news/496-general/11612-kanter-and-iljustsenko-named-estonia-s-athletes-of-the-year.html">Kanter and Iljustsenko named Estonia's athletes of the year</a>
+				<a href="/news/latest-news/531-meetings-2013/outdoor-classic-meetings-2013/11966-strokova-throws-her-way-into-the-cagliari-history-books.html">Strokova throws her way into the Cagliari history books</a>
 			</li>
 					<li class="item_recommended">
-				<a href="/aom/11609-vote-for-european-athlete-of-the-month-for-november.html">Vote for European Athlete of the Month for November</a>
+				<a href="/news/latest-news/496-general/11964-no-surprise-that-hejnova-is-running-her-way-to-the-top.html">No surprise that Hejnova is running her way to the top</a>
 			</li>
 					<li class="item_recommended">
-				<a href="/news/latest-news/496-general/11604-van-alphen-and-hellebaut-named-belgian-athletes-of-the-year.html">Van Alphen and Hellebaut named Belgian athletes of the year</a>
+				<a href="/news/latest-news/531-meetings-2013/outdoor-classic-meetings-2013/11963-tsatoumas-produces-a-classic-victory.html">Tsatoumas produces a classic victory</a>
 			</li>
 					<li class="item_recommended">
-				<a href="/19th-spar-european-cross-country-championships/11602-record-number-of-athletes-confirmed-for-budapest-2012.html">Record number of athletes confirmed for Budapest 2012</a>
+				<a href="/news/latest-news/531-meetings-2013/outdoor-classic-meetings-2013/11962-tamgho-and-idowu-come-face-to-face-at-last.html">Tamgho and Idowu come face to face ... at last</a>
 			</li>
 					<li class="item_recommended">
-				<a href="/19th-spar-european-cross-country-championships/11600-lamdassem-eyes-the-missing-gold.html">Lamdassem eyes the missing gold</a>
+				<a href="/pravets-2013-news/11958-final-entries-confirmed-for-european-cup-10-000m.html">Final entries confirmed for European Cup 10,000m</a>
 			</li>
 					<li class="item_recommended">
-				<a href="/19th-spar-european-cross-country-championships/11599-felix-and-moreira-to-spearhead-portuguese-squad-in-budapest.html">Felix and Moreira to spearhead Portuguese squad in Budapest</a>
+				<a href="/pravets-2013-news/11957-great-britain-and-ni-team-for-pravets-2013-named.html">Great Britain and NI team for Pravets 2013 named</a>
 			</li>
 		</ul>
 		</div>
 		<div><ul>
 					<li class="item_recommended">	
-				<a href="/news/latest-news/496-general/11469-harting-s-three-goals-for-the-future.html">Harting's three goals for the future</a>
+				<a href="/rieti-2013-news/11941-rieti-2013-is-moving-by-nature.html">Rieti 2013 is "Moving by Nature"</a>
 			</li>
 					<li class="item_recommended">	
-				<a href="/european-athletics-coaching-awards/11462-russian-coaches-receive-european-athletics-coaching-awards.html">Russian coaches receive European Athletics Coaching Awards</a>
+				<a href="/news/latest-news/541-meetings-2013/iaaf-diamond-league/11920-amazing-aregawi-is-the-star-of-the-night-in-doha.html">Amazing Aregawi is the star of the night in Doha</a>
 			</li>
 					<li class="item_recommended">	
-				<a href="/news/latest-news/496-general/11458-schrott-learns-to-live-with-the-fastest-in-the-world.html">Schrott learns to live with the fastest in the world</a>
+				<a href="/gateshead-2013/11917-teddy-on-home-soil-with-a-mission-in-mind.html">Teddy on home soil with a mission in mind</a>
 			</li>
 					<li class="item_recommended">	
-				<a href="/news/latest-news/496-general/11455-kaniskina-contemplates-retirement-before-rio.html">Kaniskina contemplates retirement before Rio 2016</a>
+				<a href="/news/latest-news/496-general/11914-a-week-in-athletics-may-2013-1.html">A WEEK IN ATHLETICS MAY 2013/1</a>
 			</li>
 					<li class="item_recommended">	
-				<a href="/32nd-european-athletics-indoor-championships/11454-swedish-legends-out-to-inspire-the-next-generation-at-goeteborg-2013.html">Swedish legends out to inspire the next generation at Göteborg 2013</a>
+				<a href="/dudince-2013/11911-toth-homes-in-on-a-big-date-in-dudince.html">Toth homes in on a big date in Dudince</a>
 			</li>
 					<li class="item_recommended">	
-				<a href="/coaching-summit-series-news/11431-coaches-of-ennis-and-pearson-among-keynote-speakers-at-ifac-2012.html">Coaches of Ennis and Pearson among keynote speakers at IFAC 2012</a>
+				<a href="/news/latest-news/496-general/11906-european-athletics-mourns-passing-of-marianna-zachariadi.html">European Athletics mourns passing of Marianna Zachariadi</a>
 			</li>
 					<li class="item_recommended">	
-				<a href="/news/latest-news/518-events-2012/london-2012/11351-lavillenie-crowns-his-career-with-gold-day-eight-evening-session.html"> Lavillenie crowns his career with gold - Day eight evening session</a>
+				<a href="/gateshead-2013/11898-farah-ready-for-gateshead-challenge.html">Farah targets European Athletics Team Championships</a>
 			</li>
 					<li class="item_recommended">	
-				<a href="/news/latest-news/518-events-2012/london-2012/11316-german-sprint-relay-squad-break-30-year-old-record.html"> German sprint relay squad break 30 year old record</a>
+				<a href="/gateshead-2013/11891-lemaitre-hopes-to-make-the-most-of-a-fast-winter.html">Lemaitre hopes to make the most of a fast winter</a>
 			</li>
 		</ul>
 		</div>
@@ -1241,11 +603,15 @@ This Privacy Policy and all matters arising out of or related to this Privacy Po
 	</div>        
         
         		<div class="moduletable">
-					<h3>European Athletics International Partners</h3>
 					
 
 <div class="custom">
-	<a href="/about-us/partner.html"><img style="margin-top: 10px; margin-right: 5px;" src="/images/partners/logo_spar.gif" alt="logo_spar" height="41" width="140"></a><a href="/about-us/partner.html"><img style="margin-top: 10px; margin-left: 18px; margin-right: 5px;" alt="logo omega2" src="/images/partners/logo_omega2.gif" height="53" width="140"></a><a href="/about-us/partner.html"><img style="margin-top: 10px; margin-right: 5px;" src="/images/partners/logo_gruyere.gif" alt="logo_gruyere" height="41" width="140"></a><a href="/about-us/partner.html"><img style="margin-left: 25px; margin-right: 5px; margin-bottom: 5px;" src="/images/partners/logo_eurovision.gif" alt="logo_eurovision" height="27" width="120"></a></div>
+	<div style="float: left; width: 700px;">
+<h3>European Athletics International Partners</h3>
+<a href="/about-us/partner.html"><img style="margin-top: 10px; margin-right: 5px;" src="/images/partners/logo_spar.gif" alt="logo_spar" height="41" width="140"></a><a href="/about-us/partner.html"><img style="margin-top: 10px; margin-left: 18px; margin-right: 5px;" alt="logo omega2" src="/images/partners/logo_omega2.gif" height="53" width="140"></a><a href="/about-us/partner.html"><img style="margin-top: 10px; margin-right: 5px;" src="/images/partners/logo_gruyere.gif" alt="logo_gruyere" height="41" width="140"></a><a href="/about-us/partner.html"><img style="margin-left: 25px; margin-right: 5px; margin-bottom: 5px;" src="/images/partners/logo_eurovision.gif" alt="logo_eurovision" height="27" width="120"></a></div>
+<div style="float: left; width: 200px;">
+<h3>Federation Partner</h3>
+<a target="_blank" href="http://www.iaaf.org"><img style="margin-top: 10px; margin-right: 5px;" src="/images/partners/logo-iaaf.png" alt="iaaf" height="49" width="103"></a></div></div>
 		</div>
 	</div>
         
