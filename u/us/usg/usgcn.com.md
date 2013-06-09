@@ -1,45 +1,39 @@
-> *The following text is extracted and transformed from the usgcn.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612090041id_/http%3A//www.golfsmith.com/ps/display_page.php%3Fpage_num%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usgcn.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609183535id_/http%3A//www.usgcn.com/home/Privacy-Policy) for the most accurate reproduction.*
 
-# Golfsmith.com: Golf store
+# Privacy Policy - AMERICAN JOINT
 
-****  
-Golfsmith International Internet Privacy Policy **  
-** We can be reached through our [Customer Feedback](https://web.archive.org/ps/csemail.php) page, or you can reach us from the United States or Canada by telephone at 1-800-813-6897 between the hours of 8am and 8pm Central Time, Monday-Friday, or by fax at 1-512-837-1245. International calls can be placed to 1-512-837-4810. Our postal address is: 11000 North IH-35, Austin, TX 78753-3195. 
+American joint International Investment Group, LLC, its affiliates and subsidiaries (together, "American joint International Investment Group" or "us") realize how important your privacy is to you, and are committed to ensuring that we keep your personal information secure. This privacy policy seeks to help you understand what information about you we may collect, how we collect it and how we may use and disclose it. It also sets out your rights and the procedures that we have in place to safeguard your privacy.
 
-Golfsmith is committed to observing and respecting your wishes regarding the information we collect about you on our web site. By visiting Golfsmith.com, you agree to accept the practices described in this Privacy Policy.
+By using the website, you agree to the collection, use, disclosure and transfer of your personal information, as well as to the use of cookies, as set out in this privacy policy. This privacy policy may be updated by us at any time and any changes will be effective once posted on the website. If we make any substantial changes to this privacy policy, we may place a notice on the website so that you are aware at all times of how your personal information is collected and used.
 
-****
+The Information We Collect About You and How We Use It
 
-Personal Information **  
-** Your transaction history and the information you provide to us voluntarily on our web site is stored in our customer database along with the customer information received in our catalog phone center and retail superstores. Some of the information we solicit, such as e-mail address, is voluntary, while much of it is required in order to fulfill your order properly. In addition to fulfilling your orders, we use the information that you provide for purposes such as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
+You are not required to provide any personal information on the website. However, you may choose to provide us with personal information, such as your name, employer/company, telephone number, address and email address, in order to request press kits and/or newsletters. We may use this personal information as part of our internal business operations or to send you communications, such as press kits and/or newsletters. We may also store your personal information and use it to market our services and/or for other purposes that may arise in our or your ordinary course of business.
 
-As is common in the catalog business, we may occasionally share your name and postal mailing address with other companies that we have screened carefully for quality and integrity. If you would prefer that we not share your address information with any outside company, please contact our [Customer Service](https://web.archive.org/ps/csemail.php) department. You may also elect not to receive any future catalogs or other mailings from Golfsmith.
+We may also acquire your personal information in other circumstances, such as when you provide us with a business card. We may store such personal information and use it for general marketing purposes.
 
-Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding orders they have placed online. We do not make any phone numbers in our customer database available to other companies or organizations.
+Disclosure and Transfer of Information
 
-Any personal information you reveal to us is protected during transmission by Secure Sockets Layer (SSL) software, which encrypts information and is the accepted standard industry-wide for web site security ([click here for more details](https://web.archive.org/ps/display_page?page_num=security)). Our web site presently does not store your credit card information, and any of your credit card information that may be stored in other Golfsmith systems is protected by state-of-the-art firewalls. It is important for you to protect against unauthorized access to your password and to your computer.Be sure to sign off when finished using a shared computer.
+We will not transfer your personal information to any third parties other than where we share it with our agents, consultants, sub-contractors and service providers who assist us in running this website and our business and who are subject to security and confidentiality obligations. We may also disclose your personal information where required by applicable law, regulation or governmental request.
 
-To make any address changes or other modifications to your Golfsmith account information, please call 1-800-813-6897.
+We operate internationally and, as such, your personal information may be shared with entities outside your home country, which may not be subject to data protection regulations as stringent as those in your home country. However, we require all such entities to ensure a level of data protection comparable to that in your home country.
 
-E-mail Policy  
-We collect the e-mail addresses of those who communicate with us via e-mail, those who make postings to our chat areas, and those who voluntarily include their e-mail addresses when ordering online. We may also collect your e-mail address if you provide it in the process of completing survey information or registering for online contests or sweepstakes. We cannot obtain your e-mail address unless you voluntarily provide it to us, or we obtain it from a service company that has confirmed your willingness to distribute it. Our web server recognizes the computer's Internet Protocol (IP) address, but not the e-mail address, for each visitor to our home page. 
+Our Use of Information Collected Through Technology
 
-Contest registrations may involve sharing your e-mail address with our promotional co-sponsors -- please see the specific contest rules & regulations for details. Additionally, if you submit your e-mail address to Golfsmith as part of a transaction originating with one of our e-commerce partners, the e-mail address may be shared by both Golfsmith and the partner; please see the specific privacy policy, accessible from the partner site, for details. 
+We may collect information about you through technology such as cookies. Cookies are small files that a website stores on your computer to assist that website in tracing users and to recognise you if you return to that website. You are not obliged to accept cookies and, using the settings of your internet browser, you can choose to turn off all cookies or to be warned each time a website attempts to use a cookie. You can also choose to have all cookies deleted from your computer. If you choose to turn off or delete cookies, some services on our website may function differently or not function at all. By using this website and not using the settings of your internet browser to turn off cookies you will have consented to our use of cookies.
 
-Other than the exceptions noted above, Golfsmith will not sell, share or otherwise distribute your e-mail address. Any e-mail address supplied directly to Golfsmith with respect to online orders, catalog requests, and requests for other information will remain in the sole possession of Golfsmith.
+We may also collect your IP address for the purpose of monitoring website usage and calculating general statistics, such as the number of website visitors and the website pages that are visited. The statistics do not include information that could be used to identify any individual.
 
-If you do not want to receive promotional e-mail from Golfsmith in the future, please use our [unsubscribe form](https://web.archive.org/ps/unsubscribe.php) to remove your name from our list, or let us know by contacting us by [e-mail](https://web.archive.org/ps/csemail.php), or by calling us at the above telephone numbers and telling us that you do not want to receive promotional e-mail from Golfsmith. Supplied e-mail addresses on our customer registration form will be used for order confirmation and alerts relating to an order.
+Risks of the Internet
 
-If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please contact us [here](https://web.archive.org/ps/csemail.php) or by calling us at the above telephone numbers.
+While we use both technical and procedural methods to maintain security of the personal information we hold, please bear in mind that the transmission of information over the internet is not completely secure.
 
-****
+Links to Other Websites
 
-Cookies **  
-** Like most retail web sites, we use "cookies," which are pieces of data given to your browser that allow our web site to identify you when you access our site. The most obvious benefit of cookies is that they keep an active Shopping Cart intact for 24 hours even if you log off of your computer. While some concern has been expressed over the privacy implications of cookies, it is important for you to understand that cookies cannot extract any information about you that you have not already revealed voluntarily. The vast majority of Internet users now appreciate cookies as a convenience feature for shopping online. If you desire, the "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+This privacy policy does not concern any other website to which this website may link. You should review the privacy policies of any third-party websites to ensure you agree with their practices in relation to your personal information.
 
-Site Traffic Data  
-Our computers collect and store certain data from your visits to our web site. The information we collect from this site traffic helps us to make the site easier to navigate and to improve your shopping experience at Golfsmith.com With the exception of certain e-commerce partners who offer our products via their own site framesets, we do not share or distribute any specific customer site traffic data to any other parties. 
+Your Rights
 
-If you have any questions regarding any of the elements of our web privacy policy, please call the customer service line posted above, or contact us [here](https://web.archive.org/ps/csemail.php).
+If any of the personal information you have provided to us changes, for example if you change your email address or you wish to stop receiving newsletters, please let us know via email at aem@usgcn.com.
 
-This web site is owned and operated by Golfsmith International, L. P.
+You also have the right to request a copy of the information we hold about you, to have any of your personal data deleted, to have any inaccurate information updated and to object to any way in which we process your data.
