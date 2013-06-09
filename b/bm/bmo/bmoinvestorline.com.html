@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bmoinvestorline.com privacy policy that was archived on 2012-02-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120225083743id_/http%3A//www.bmo.com/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bmoinvestorline.com privacy policy that was archived on 2013-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130609031244id_/http%3A//www.bmo.com/home/about/banking/privacy-security/our-privacy-code) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -27,7 +27,7 @@
 	<script type="text/javascript">
 		function toggleLang() { window.location=BMO.toggleLink;	}
 		var BMO = {
-			siteUrl: 'http://www.bmo.com',
+			siteUrl: 'https://www.bmo.com',
 			siteUrlNonSecure: 'http://www.bmo.com',
 			siteUrlSecure: 'https://www.bmo.com',
 			isLiveCDS: true,
@@ -41,12 +41,53 @@
 	</script>
 </head>
 
-<body id="body_bmo" class=" small">
-	
+<body id="body_bmo">
 	<div id="root_div">
 		
 		<div id="header" class="header">
 			
+<link rel="stylesheet" type="text/css" href="/css/header_geolocation.css">
+
+<script type="text/javascript" src="/scripts/region-homepage.js"></script>
+
+<style type="text/css">
+body.medium .notextsize { font-size:12px;
+}
+body.large .notextsize { font-size:12px;
+}
+.panelcontent { *background-color: #f3f3f3;}
+.listed-lang li { *width: 90px;}
+.panelcontent { *background-color: #f3f3f3;}
+</style>
+
+<script type="text/javascript">
+var countryCode="(none)";
+window.onload = function() {
+CounOverca();
+homradca();
+ }
+</script>
+
+<script type="text/javascript">
+function sethompca() {
+var value=getCookie('homeprefca');
+if (value != 'null') {
+if (value !="homrad") { window.location='/home/'+value+'?nav=top';}
+else {window.location='/home?nav=top';}
+}
+else return false;
+}
+</script>
+
+<script type="text/javascript">
+function homradca() {
+var value=getCookie('homeprefca');
+if (value !="" && value !='null') {
+document.getElementById(value).checked=true;
+}
+}
+</script>
+
 <div id="alternate_text">
      <a href="#main_content" title="Jump to content">Skip Navigation</a>
 </div>
@@ -55,16 +96,32 @@
 <img src="/images/logo_bmofgKO.gif" alt="BMO Financial Group" border="0" id="header_logo_print">
 
 <!-- Top Links -->
-<ul id="header_links">
-    <li><a href="javascript:openLocator('branch','e');" title="Find a Branch/ATM near you" vlt="1">Find a Branch/ATM near you</a></li>
+<ul id="header_links" class="notextsize">
+    <li><a href="javascript:openLocator('branch','e');" title="Locations" vlt="1">Locations</a>&nbsp; | &nbsp;</li>
     <li><a href="/home/about/banking/corporate-info/contact-us/email" title="Contact Us">Contact us</a></li>
-    <li><a href="javascript:setPreferredLang('fr'); toggleLang();" title="Français" vlt="1">Français</a></li>
-    <li><a href="http://www4.bmo.com/chinese/" title="Chinese" vlt="1"><img src="/images/chinese.gif" border="0" alt="Chinese"></a></li>
+    <!-- <li><a href="javascript:setPreferredLang('fr'); toggleLang();" title="Français" vlt="1">Français</a>&nbsp; | &nbsp;</li>
+    <li><a href="http://www4.bmo.com/chinese/" title="Chinese" vlt="1"><img src="/images/chinese.gif" border="0" alt="Chinese" /></a></li> -->
 </ul>
 
 
+<div id="overlaycoun"></div>
+<div id="specialBox">
+<div id="locheader"><img src="/images/hpb/geoloc/LocationHeader.png" alt="Welcome to BMO Financial Group's Canadian website!">
+</div>
+<div id="locsubtitle">Were you looking for our site in U.S.?</div>
+<div class="locbutton"><a href="javascript:window.location=lookupSiteTable(window.location.pathname, siteTable_BMOHARRIS);"> <img src="/images/hpb/geoloc/LocationUS.png" alt="US">Yes, please take me to the U.S. site</a></div>
+<div class="locbutton"><a href="javascript:window.location.reload();" onclick="createCookieca('setcountryc','can',365)"><img src="/images/hpb/geoloc/LocationCanada.png" alt="Canada">No, I would like to stay on the Canadian site</a></div>
+<div class="clear"></div>
+<div id="setcontrycookie">
+<input type="checkbox" name="countrychk" id="setcountry"><label for="setcountry">Please don't ask me again</label>
+</div>
+<div id="closebut">
+<a href="javascript:;" onclick:="" this.blur();="" class="nounderline" title="close" onmousedown="toggleOverlaycounca()"><span class="floatLeft textpad">close</span><img src="/images/geolocation/close-box.png" alt="close" class="floatLeft"></a>
+</div>
+</div>
+
 <!-- Sign In Dropdown -->
-<ul id="sign-in-list">
+<ul id="sign-in-list" class="notextsize">
 
 	<li class="first"><a href="https://www1.bmo.com/onlinebanking/cgi-bin/netbnx/NBmain?product=5" onclick="BMO_UI.SignInMenu.Open(true); return false;" id="selected-sign-in" title="Sign in menu">Online Banking<span href="javascript:BMO_UI.SignInMenu.Open(true)" class="handle"></span></a></li>
 
@@ -93,13 +150,107 @@
 <a href="/home/about/banking/privacy-security/how-we-protect-you"><img src="/images/secureHome.gif" id="lock" alt="Secure Banking"></a>
 
 <script>BMO_UI.SignInMenu.Init();</script>
+</div>
+
+
+<div class="panelcollapsed">
+<u>
+<div id="header-geo-loc">
+          <a href="javascript:;" class="nounderline">
+            <img class="head-lang-flag" src="/images/geolocation/cdn-flag-small.png" alt="Canadian flag">
+            <ul id="header-geo-links" class="notextsize">
+                <li>&nbsp;CA English&nbsp;&nbsp;|&nbsp;&nbsp;</li>
+                <li>Set my homepage</li></ul>
+                <div class="clear"></div>
+             </a>
+            <div class="clear"></div>
+</div>
+<div id="closepan">
+         <a href="javascript:;" onclick:="" this.blur();="" class="nounderline" title="close"><span class="floatLeft textpad">close</span> &nbsp;&nbsp;&nbsp;&nbsp; </a>
+        <div class="clear"></div>
+   </div> 
+
+
+</u> 
+
+
+
+<div class="panelcontent">
+<div id="geo-overlay-top1"></div><div id="geo-overlay-top-notch"></div><div id="geo-overlay-top2"></div>
+<div class="clear"></div>
+<div id="geo-overlay-mid">
+    <div id="geo-lang">
+    	<img class="geo-title" src="/images/geolocation/geo-head-change-language-region.png" alt="Change Language | Region*">
+        <div class="clear"></div>
+        <div id="lang-cdn">
+        	<img class="lang-flag" src="/images/geolocation/cdn-flag.png" alt="Canadian flag">
+            <ul class="listed-lang">
+            	<li><b>Canada</b></li>
+            	<li class="active"><a href="javascript:setPreferredLang('en'); toggleLang();">English</a></li>
+                <li><a href="javascript:setPreferredLang('fr'); toggleLang();">Français</a></li>
+                <li><a class="chinese" href="javascript:window.location=lookupSiteTable(window.location.pathname, siteTable_BMOCI);">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+            </ul>
+            <div class="clear"></div>
+        </div>
+
+<div id="lang-usa">
+        	<img class="lang-flag" src="/images/geolocation/usa-flag.png" alt="American flag">
+            <ul class="listed-lang">
+            	<li><b>United States</b></li>
+            	<li><a class="nounderline" href="javascript:window.location=lookupSiteTable(window.location.pathname, 
+
+siteTable_BMOHARRIS);">English</a></li>
+            </ul>
+            <div class="clear"></div>
+        </div>
+
+        <div class="clear"></div>
+        <p class="disclaimer">*Products and services featured on our websites are only available to residents of the selected country.</p>
+    </div>
+    <div class="fading-dotted-vertical"></div>
+    
+    <div id="geo-homepage">
+    	<img class="geo-title" src="/images/geolocation/geo-head-set-your-homepage.png" alt="Set your homepage">
+        <form name="setHomepageForm">
+        	<ul class="set-homepage-list">
+            	<li>
+        			<input type="radio" name="homeprefca" value="homrad" id="homrad"><label for="homrad">Home</label>
+                </li>
+                <li>
+            		<input type="radio" name="homeprefca" value="personal" id="personal"><label for="personal">Personal</label>
+                </li>
+				<li>
+            		<input type="radio" name="homeprefca" value="wealth-management" id="wealth-management"><label for="wealth-management">Wealth Management</label>
+                </li>
+                <li>
+            		<input type="radio" name="homeprefca" value="small-business" id="small-business"><label for="small-business">Small Business</label>
+                </li>
+                <li>
+            		<input type="radio" name="homeprefca" value="commercial" id="commercial"><label for="commercial">Commercial</label>
+                </li>
+
+            </ul>
+        <br>
+         
+<div class="whiteButton" id="setbutton"><div><a href="javascript: ;" title="Set homepage" onmousedown="return handleSubmitca()" onmouseup="sethompca()">Set</a></div></div>
+
+    </form>
+</div>
+
+<div id="cl">
+         <a href="javascript:;" onclick:="" this.blur();="" class="nounderline" title="close"><span class="floatLeft textpad">close</span><img src="/images/geolocation/close-box.png" alt="close" class="floatLeft"></a>
+        <div class="clear"></div>
+   </div> 
+  <div class="clear"></div>
+ 
+</div>
 
 <!-- 
  ci=14e2526794766210VgnVCM100000322215acRCRD
- blank :  : 30
+ blank :  : 47
 
 l1
-February 24, 2012 5:29:39 EST PM
+June 7, 2013 6:57:50 AM EDT
  -->
 	
 
@@ -111,14 +262,14 @@ February 24, 2012 5:29:39 EST PM
 			<div id="topnav">
 				<div class="topnav_menu">
 					
-<a href="/home?nav=top" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','/images/home_hover.gif',1)"><img src="/images/home.gif" name="home" alt="Home" border="0" id="home"></a><a href="/home/personal?nav=top" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('personal','','/images/personal_hover.gif',1)"><img src="/images/personal.gif" name="personal" alt="Personal Banking" border="0" id="personal"></a><a href="/home/small-business?nav=top" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('business','','/images/business_hover.gif',1)"><img src="/images/business.gif" name="business" alt="Small Business" border="0" id="business"></a><a href="/home/commercial?nav=top" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('commercial','','/images/commercial_hover.gif',1)"><img src="/images/commercial.gif" name="commercial" alt="Commercial" border="0" id="commercial"></a><a href="http://www.bmocm.com/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('corporate','','/images/corporate_hover.gif',1)" vlt="1"><img src="/images/corporate.gif" name="corporate" alt="Corporate &amp; Institutional" border="0" id="corporate"></a><a href="/home/about?nav=top" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about','','/images/about_hover.gif',1)"><img src="/images/about_on.gif" name="about" alt="About BMO" border="0" id="about"></a>
+<a href="/home?nav=top" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','/images/home_hover.gif',1)"><img src="/images/home.gif" name="home" alt="Home" border="0" id="home"></a><a href="/home/personal?nav=top" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('personal','','/images/personal_hover.gif',1)"><img src="/images/personal.gif" name="personal" alt="Personal Banking" border="0" id="personal"></a><a href="/home/wealth-management?nav=top" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('wealth-management','','/images/wealth-management_hover.gif',1)"><img src="/images/wealth-management.gif" name="wealth-management" alt="Wealth Management" border="0" id="wealth-management"></a><a href="/home/small-business?nav=top" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('business','','/images/business_hover.gif',1)"><img src="/images/business.gif" name="business" alt="Small Business" border="0" id="business"></a><a href="/home/commercial?nav=top" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('commercial','','/images/commercial_hover.gif',1)"><img src="/images/commercial.gif" name="commercial" alt="Commercial" border="0" id="commercial"></a><a href="http://www.bmocm.com/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('corporate','','/images/corporate_hover.gif',1)" vlt="1"><img src="/images/corporate.gif" name="corporate" alt="Corporate &amp; Institutional" border="0" id="corporate"></a><a href="/home/about?nav=top" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about','','/images/about_hover.gif',1)"><img src="/images/about_on.gif" name="about" alt="About BMO" border="0" id="about"></a>
 <!-- 
 requestedChannel : 0
-Breadcrumb : 248
- stdTopnav TOTAL :  : 910
+Breadcrumb : 0
+ stdTopnav TOTAL :  : 2012
 
 
-February 24, 2012 2:31:37 EST PM
+June 7, 2013 6:15:55 PM EDT
  -->
 
 
@@ -127,83 +278,24 @@ February 24, 2012 2:31:37 EST PM
 		
 			<!-- BEGIN content body -->
 			<div id="main_body" class="main_body">
-				
+								
 				<!-- BEGIN left section -->
 				<div id="left_column">
 					
-<img src="/images/ttlLft_aboutBMO.gif" alt="About BMO"><div class="lnav_lv3_label" onclick="showHide('sub0');"><a href="javascript:;" title="Corporate Information">Corporate Information</a></div>
-<div id="sub0" style="display:none;">
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-information/about-us/bmo-financial-group" title="About Us">About Us</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-information/codeofconduct?nav=left" title="Code of Conduct">Code of Conduct</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-information/history?nav=left" title="History">History</a></div>
-<div class="lnav_lv4_label"><a href="/newsroom/" title="News Releases">News Releases</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-information/media-contacts?nav=left" title="Media Contacts">Media Contacts</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-information/speeches?nav=left" title="Speeches">Speeches</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-information/executive-bios?nav=left" title="Executive Bios">Executive Bios</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-information/events?nav=left" title="Events">Events</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-responsibility/our-approach" title="Corporate Responsibility">Corporate Responsibility</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-information/awards-and-recognition?nav=left" title="Awards and Recognition">Awards and Recognition</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-information/supplier-information/current-supplier-information" title="Supplier Information">Supplier Information</a></div>
-<div class="lnav_lv4_label"><a href="http://www2.bmo.com/faq/0,1080,divId-3_langId-1_navCode-204,00.html" title="FAQs">FAQs</a></div>
-</div>
+<img src="/images/ttlLft_aboutBMO.gif" alt="About BMO"><div class="lnav_lv3_label"><a href="/home/about/banking/corporate-information/about-us/bmo-financial-group" title="Corporate Information">Corporate Information</a></div>
 <div class="lnav_dotted"></div>
-<div class="lnav_lv3_label" onclick="showHide('sub1');"><a href="javascript:;" title="Corporate Responsibility">Corporate Responsibility</a></div>
-<div id="sub1" style="display:none;">
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-responsibility/home?nav=left" title="Corporate Responsibility home">Home</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-responsibility/our-approach?nav=left" title="Our Approach">Our Approach</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-responsibility/message-from-ceo?nav=left" title="Message from the CEO">Message from the CEO</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-responsibility/economic-contribution?nav=left" title="Economic Contribution">Economic Contribution</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-responsibility/community?nav=left" title="Community">Community</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-responsibility/employees?nav=left" title="Employees">Employees</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-responsibility/customers?nav=left" title="Customers">Customers</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-responsibility/environment?nav=left" title="Environment">Environment</a></div>
-<div class="lnav_lv4_label"><a href="http://www2.bmo.com/ir/0,1206,langId-1,00.html" title="Shareholders">Shareholders</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-responsibility/news-and-events?nav=left" title="News and Events">News and Events</a></div>
-<div class="lnav_lv4_label"><a href="http://www2.bmo.com/content/0,1089,divId-4_langId-1_navCode-4663,00.html" title="Awards and Recognition">Awards and Recognition</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-responsibility/frequently-asked-questions?nav=left" title="Frequently Asked Questions &amp; Glossary">Frequently Asked Questions &amp; Glossary</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/corporate-responsibility/our-approach/reporting" title="Report Downloads">Report Downloads</a></div>
-</div>
+<div class="lnav_lv3_label"><a href="/home/about/banking/corporate-governance?nav=left" title="Corporate Governance">Corporate Governance</a></div>
 <div class="lnav_dotted"></div>
-<div class="lnav_lv3_label" onclick="showHide('sub2');"><a href="javascript:;" title="Investor Relations">Investor Relations</a></div>
-<div id="sub2" style="display:none;">
-<div class="lnav_lv4_label"><a href="/home/about/banking/investor-relations/home?nav=left" title="Home">Home</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/investor-relations/who-we-are?nav=left" title="Who We Are">Who We Are</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/investor-relations/corporate-governance?nav=left" title="Corporate Governance">Corporate Governance</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/investor-relations/financial-information/quarterly-results" title="Financial Information">Financial Information</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/investor-relations/videos?nav=left" title="Videos">Videos</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/investor-relations/annual-reports-proxy-circulars?nav=left" title="Annual Reports / Proxy Circulars">Annual Reports / Proxy Circulars</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/investor-relations/m-i-acquisition?nav=left" title="M&amp;I Acquisition">M&amp;I Acquisition</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/investor-relations/m-i-shareholder-information?nav=left" title="M&amp;I Shareholder Information">M&amp;I Shareholder Information</a></div>
-<div class="lnav_lv4_label"><a href="http://www2.bmo.com/news/0,,divId-3_langId-1_navCode-112,00.html" title="News Releases">News Releases</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/investor-relations/presentations-events/current" title="Presentations &amp; Events">Presentations &amp; Events</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/investor-relations/annual-general-meeting?nav=left" title="Annual General Meeting">Annual General Meeting</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/investor-relations/shareholder-information?nav=left" title="Shareholder Information">Shareholder Information</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/investor-relations/frequently-asked-questions?nav=left" title="Frequently Asked Questions">Frequently Asked Questions</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/investor-relations/frequently-accessed-documents?nav=left" title="Frequently Accessed Documents">Frequently Accessed Documents</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/investor-relations/contact-investor-relations?nav=left" title="Contact">Contact Investor Relations</a></div>
-<div class="lnav_lv4_label"><a href="http://www2.bmo.com/email/0,1095,divId-3_langId-1_navCode-244,00.html" title="Email Alerts - Registration">Email Alerts - Registration</a></div>
-</div>
+<div class="lnav_lv3_label"><a href="/home/about/banking/corporate-responsibility/home" title="Corporate Responsibility">Corporate Responsibility</a></div>
 <div class="lnav_dotted"></div>
-<div class="lnav_lv3_label" onclick="showHide('sub3');"><a href="javascript:;" title="Economic Research">Economic Research</a></div>
-<div id="sub3" style="display:none;">
-<div class="lnav_lv4_label"><a href="http://www.bmonesbittburns.com/Economics/" title="What’s New">What’s New</a></div>
-<div class="lnav_lv4_label"><a href="http://www.bmonesbittburns.com/economics/publications.asp" title="Publications ">Publications </a></div>
-<div class="lnav_lv4_label"><a href="http://www.bmonesbittburns.com/economics/topics.asp" title="Research Topics ">Research Topics </a></div>
-<div class="lnav_lv4_label"><a href="http://www.bmonesbittburns.com/economics/forecast/" title="Our Forecasts ">Our Forecasts </a></div>
-<div class="lnav_lv4_label"><a href="http://www.bmonesbittburns.com/economics/econoguide/" title="EconoGuide ">EconoGuide </a></div>
-<div class="lnav_lv4_label"><a href="http://www.bmonesbittburns.com/economics/profiles/" title="Profile ">Profile </a></div>
-</div>
+<div class="lnav_lv3_label"><a href="/home/about/banking/economics-research?nav=left" title="Economic Research">Economic Research</a></div>
 <div class="lnav_dotted"></div>
-<div class="lnav_lv3_label" onclick="showHide('sub4');"><a href="javascript:;" title="Careers">Careers</a></div>
-<div id="sub4" style="display:none;">
-<div class="lnav_lv4_label"><a href="/home/about/banking/careers/career-opportunities" title="Career Opportunities">Career Opportunities</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/careers/students-and-grads" title="Students and Grads">Students and Grads</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/careers/working-at-bmo" title="Working at BMO">Working at BMO</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/careers/tools-and-resources" title="Tools and Resources">Tools and Resources</a></div>
-</div>
+<div class="lnav_lv3_label"><a href="/home/about/banking/investor-relations/home" title="Investor Relations">Investor Relations</a></div>
 <div class="lnav_dotted"></div>
-<div class="lnav_lv3_label" onclick="showHide('sub5');"><a href="javascript:;" title="">Privacy &amp; Security</a></div>
-<div id="sub5" style="display:block;">
+<div class="lnav_lv3_label"><a href="/home/about/banking/careers/career-opportunities" title="Careers">Careers</a></div>
+<div class="lnav_dotted"></div>
+<div class="lnav_lv3_label"><a href="/home/about/banking/privacy-security/our-privacy-code" title="">Privacy &amp; Security</a></div>
+<div id="sub6">
 <div class="lnav_lv4_label_highlight"><a href="/home/about/banking/privacy-security/our-privacy-code?nav=left" title="">Our Privacy Code</a></div>
 <div class="lnav_lv4_label"><a href="/home/about/banking/privacy-security/how-we-protect-you?nav=left" title="">How we protect you</a></div>
 <div class="lnav_lv4_label"><a href="/home/about/banking/privacy-security/protecting-yourself?nav=left" title="">Protecting yourself</a></div>
@@ -213,23 +305,15 @@ February 24, 2012 2:31:37 EST PM
 <div class="lnav_lv4_label"><a href="/home/about/banking/privacy-security/glossary?nav=left" title="">Glossary</a></div>
 </div>
 <div class="lnav_dotted"></div>
-<div class="lnav_lv3_label" onclick="showHide('sub6');"><a href="javascript:;" title="">Accessibility</a></div>
-<div id="sub6" style="display:none;">
-<div class="lnav_lv4_label"><a href="/home/about/banking/accessibility/accessibility-at-bmo?nav=left" title="">Accessibility at BMO</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/accessibility/telephone-online-services?nav=left" title="">Telephone &amp; Online Services</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/accessibility/branch-atm-services?nav=left" title="">Branch &amp; ATM Services</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/accessibility/employment?nav=left" title="">Employment</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/accessibility/sign-language-services?nav=left" title="">Sign Language Services</a></div>
-<div class="lnav_lv4_label"><a href="/home/about/banking/accessibility/account-info-print-materials?nav=left" title="">Account Information &amp; Print Material</a></div>
-</div>
+<div class="lnav_lv3_label"><a href="/home/about/banking/accessibility/accessibility-at-bmo" title="">Accessibility</a></div>
 
 <!-- 
 stdleftnav: getCurrentRequestContext :  1  : 0
 stdleftnav: Breadcrumb : our-privacy-code : 0
-stdleftnav: TOTAL :  : 8235
+stdleftnav: TOTAL :  : 3115
 
 
-February 24, 2012 5:29:47 EST PM
+June 7, 2013 6:57:54 AM EDT
  -->
 
 
@@ -264,6 +348,7 @@ February 24, 2012 5:29:47 EST PM
 
 
 					</div>
+	
 					<div id="main_content">
 					<h1>Our Privacy Code</h1>
 <p>BMO Financial Group appreciates the opportunity to help you meet your financial needs. From the day Bank of Montreal was founded in 1817, earning and keeping your trust has been at the very core of our business. We are committed to respecting and protecting the privacy and confidentiality of the personal information you have entrusted to us. It is important for you to understand what information we will collect, how we will use it, and who may see it.</p>
@@ -372,15 +457,6 @@ February 24, 2012 5:29:47 EST PM
     1 First Canadian Place <br>
     Toronto, Ontario M5X 1H3 </p>
   <p>Or</p>
-  <p>Independent Oversight<br>
-    Office of the Ombudsman <br>
-    BMO Financial Group <br>
-    55 Bloor Street West <br>
-    Toronto, Ontario M4W 3N5 <br>
-    Call: 1 800 371-2541 <br>
-    Or <br>
-    Fax: 1 800 766-8029</p>
-  <p>Or</p>
   <p>Office of the Privacy Commissioner of Canada<br>
     Place de Ville, Tower B, 3rd Floor<br>
     112 Kent Street<br>
@@ -459,11 +535,13 @@ February 24, 2012 5:29:47 EST PM
 
 					</div>
 <!-- 
- page :  : 267
+filterHtml : 81
+ ci=b294aaf7bb20f210VgnVCM100000322215acRCRD
+ page :  : 212
 
 
 l1
-February 24, 2012 5:29:47 EST PM
+June 7, 2013 6:57:54 AM EDT
  -->
 
 					
@@ -491,15 +569,26 @@ February 24, 2012 5:29:47 EST PM
         <input name="q" size="7" maxlength="40" id="searchInput" title="Search BMO.com" value="Search BMO.com" autocomplete="off">
         <input type="submit" id="search_button" value="" class="searchButton" title="Search">
     </form>
-    <div id="searchOverlay"><div class="searchTopCap"></div><div class="searchMiddle"><div id="searchContent"></div><div class="searchFooterLinks"><a href="javascript:BMO_UI.Search.ShowWidget(false);" class="searchCloseButton">close [ x ]</a><div class="clear"></div></div></div><div class="searchBottomCap"></div><label class="searchLabel" for="searchInput"></label></div>
+    <div id="searchOverlay"></div>
 </div>    
-
+<!-- BMO Follow Us Widget -->
+<div id="follow-bmo-widget">
+	<div class="social-footer-icons">
+		<span>Follow BMO</span>
+		<a href="http://www.facebook.com/bmocommunity" class="facebook" title="Facebook" target="_blank" vlt="1" vlm="fb_en_egfap"></a>
+		<a href="http://www.twitter.com/bmo" class="twitter" title="Twitter" target="_blank" vlt="1" vlm="tw_en_egfap"></a>
+		<a href="http://www.youtube.com/bmocommunity/" class="youtube" title="You Tube" target="_blank" vlt="1" vlm="yt_en_egfap"></a>
+		<a href="javascript:popup('/rss/en/',700,600);" class="rss" title="RSS Feeds"></a>
+		<a href="http://www.linkedin.com/company/bank-of-montreal" class="linkedIn" title="Linkedin" target="_blank" vlt="1" vlm="li_en_egfap"></a>
+		<div class="clear"></div>
+	</div>
+</div>
 <!-- BMO Font Size Widget -->
-<div id="font-size-widget"><span class="text-size-col">TEXT SIZE	<a href="javascript:BMOFontSize.set('small');" id="text-small-button" title="Small" class="active"></a>	<a href="javascript:BMOFontSize.set('medium');" id="text-medium-button" title="Medium" class=""></a>	<a href="javascript:BMOFontSize.set('large');" id="text-large-button" title="Large" class=""></a></span><span class="print-col">PRINT	<a href="javascript:window.print();" class="print-button"></a></span><div class="clear"></div></div>
+<div id="font-size-widget"></div>
 
 <script type="text/javascript">
   var lang = "en";
-  var BMOSearchLabels = new BMO_UI.Search.Dictionary();
+  var BMOSearchLabels = new BMO_UI.Search.Dictionary();  
   var BMOSearch = new BMO_UI.Search.Widget("about");
   var BMOFontSize = new bmoFontSizeWidget(lang); 
 </script>
@@ -557,9 +646,9 @@ February 24, 2012 5:29:47 EST PM
 
 
 <!-- 
- BmoStdRs :  : 490
+ BmoStdRs :  : 786
 l1
-February 24, 2012 5:29:48 EST PM
+June 7, 2013 6:57:55 AM EDT
 
  -->
 
@@ -573,44 +662,41 @@ February 24, 2012 5:29:48 EST PM
 			<!-- END content body -->
 			
 		</div><!-- END middle_div -->
-		<div id="middle_bottomCap"></div>
+        <div id="middle_bottomCap"></div>
 		<div id="footer" class="footer">
 			<div id="leftFooter">
 				
+<!--Forsee survey code script-->
+<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+
+
 <a href="/home/about/banking/privacy-security/our-privacy-code">Privacy</a> &nbsp; | &nbsp;
 <a href="javascript:popup('/home/popups/global/legal')">Legal</a> &nbsp; | &nbsp;
 <a href="/home/about/banking/privacy-security/how-we-protect-you">Security</a> &nbsp; | &nbsp;
 <a href="javascript:popup('/home/popups/global/cdic')">CDIC Member</a> &nbsp; | &nbsp;
-<a href="http://www4.bmo.com/careers/bmorightforyou.html" target="_blank">Careers</a> &nbsp; | &nbsp;
-<a href="http://www2.bmo.com/ir" target="_blank">Investor Relations</a> &nbsp; | &nbsp;
+<a href="/home/about/banking/careers/career-opportunities">Careers</a> &nbsp; | &nbsp;
+<a href="http://www.bmo.com/ir" target="_blank">Investor Relations</a> &nbsp; | &nbsp;
 <a href="/home/about/banking/accessibility/accessibility-at-bmo">Accessibility</a>
 
 <!-- 
  ci=efcb6c4d2f9b6210VgnVCM100000322215acRCRD
- blank :  : 22
+ blank :  : 16
 
 l1
-February 24, 2012 5:29:48 EST PM
+June 7, 2013 6:57:55 AM EDT
  -->
 	
 
 			</div>
 			<div id="rightFooter">
 				
-<div class="social-footer-icons">
-<span>Follow us:</span>
-<a href="http://www.facebook.com/bmocommunity" class="facebook" title="Facebook" target="_blank" vlt="1" vlm="fb_en_egfap"></a>
-<a href="http://www.twitter.com/bmo" class="twitter" title="Twitter" target="_blank" vlt="1" vlm="tw_en_egfap"></a>
-<a href="http://www.youtube.com/bmocommunity/" class="youtube" title="You Tube" target="_blank" vlt="1" vlm="yt_en_egfap"></a>
-<a href="javascript:popup('/rss/en/',700,600);" class="rss" title="RSS Feeds"></a>
-</div>
+
 
 <!-- 
- ci=b03b274903ede210VgnVCM100000322215acRCRD
- blank :  : 26
+ blank :  : 12
 
 l1
-February 24, 2012 5:29:48 EST PM
+June 7, 2013 6:57:55 AM EDT
  -->
 	
 
@@ -620,27 +706,26 @@ February 24, 2012 5:29:48 EST PM
 	</div> 
 	<!-- END root_div -->
 	
-	<script type="text/javascript" src="/scripts/webAnalytics.js"></script><script language="javascript" type="text/javascript" src="https://web.archive.org/web/20100923164641/https://csvtr.bmo.com/bmo/zig.js"></script><img src="https://web.archive.org/web/20110109182827/https://csvtr.bmo.com/bmo/zag.gif?Log=1&amp;dt=Our%20Privacy%20Code%20%7C%20BMO%20Financial%20Group&amp;dl=https%3A//web.archive.org/web/20120225083743id_/http%3A//www.bmo.com/home/about/banking/privacy-security/our-privacy-code&amp;dr=&amp;cb=1582131508657&amp;sw=800&amp;sh=600&amp;cd=24&amp;fv=-1">
-	<noscript><img src="http://csvtr.bmo.com/bmo/zag.gif?Log=1&amp;" height="1" alt="" /></noscript>
+	<script type="text/javascript" src="/scripts/webAnalytics.js"></script><script language="javascript" type="text/javascript" src="https://web.archive.org/web/20110208044931/https://www.bmo.com/webanalytics/zig.js"></script><img alt="webanalytics" src="https://web.archive.org/web/20110920135702/https://csvtr.bmo.com/bmo/zag.gif?Log=1&amp;dt=Our%20Privacy%20Code%20%7C%20BMO%20Financial%20Group&amp;dl=https%3A//web.archive.org/web/20130609031244id_/http%253A//www.bmo.com/home/about/banking/privacy-security/our-privacy-code&amp;dr=&amp;cb=1580371876434&amp;sw=800&amp;sh=600&amp;cd=24&amp;fv=-1">
+	<noscript><img src="https://csvtr.bmo.com/bmo/zag.gif?Log=1&amp;" height="1" alt="" /></noscript>
 
 <!-- 
-getCurrentRequestContext : 113
+getCurrentRequestContext : 207
 requestedChannel : 0
-Breadcrumb : 529
-pageTitle : 99
-toggleLink : 657
-Java code : 1398
-header : 60
+Breadcrumb : 216
+pageTitle : 169
+toggleLink : 324
+Java code : 916
+header : 16
 topnav : 2
-leftnav : 8281
-pageContent : 359
-rightColumnWhiteSpace : 518
-footer : 95
-HTML total: 9315
-HTML total: 9315
-Page total : 10713
+leftnav : 8
+pageContent : 21
+rightColumnWhiteSpace : 7
+footer : 12
+HTML total: 67
+Page total : 983
 l1
-February 24, 2012 5:29:48 EST PM
+June 7, 2013 7:05:50 PM EDT
 
  -->
 
@@ -649,4 +734,5 @@ February 24, 2012 5:29:48 EST PM
 
 
 
-<!-- VIGN HPD cache address: 8b9e7b5b76e1493ffa8380727e35d8a1; generated: Fri Feb 24 17:29:37 EST 2012 --></body></html>
+
+<!-- VIGN HPD cache address: 52138c867d6a5c23f2d0e61a3430b987; generated: Fri Jun 07 19:05:49 EDT 2013 --></div></body></html>
