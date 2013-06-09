@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cydec.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103030907id_/http%3A//cydec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cydec.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609232121id_/http%3A//cydec.com/privacy-policy) for the most accurate reproduction.*
 
 # CYDEC — Privacy Policy
 
@@ -51,7 +51,7 @@ name=”*” value=”*” domain=”*” path=”*”
 
 ### Product Highlight
 
-Use our advanced affiliate reporting to see who sent the most subscribers & run a JV contest.
+Discover how the 1-Click Upsell System increases sale from up to 266% to over 1000%
 
 ### Company News
 
