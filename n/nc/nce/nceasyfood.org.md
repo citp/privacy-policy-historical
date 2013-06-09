@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nceasyfood.org privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205060546id_/http%3A//www.nceasyfood.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nceasyfood.org privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609033744id_/http%3A//www.nceasyfood.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Easy Food
 
@@ -17,4 +17,4 @@ External Links
 This site contains links to other sites. NC Easy Food is not responsible for the privacy practices or the content of such Web sites.
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.nceasyfood.org/contact-us/ "contact us").
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
