@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the listmyfive.com privacy policy that was archived on 2012-08-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120813194938id_/http%3A//www.listmyfive.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the listmyfive.com privacy policy that was archived on 2013-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130609114102id_/http%3A//listmyfive.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
     var _gaq = _gaq || [];
@@ -35,9 +35,18 @@
     <meta name="google-site-verification" content="1v_JstAh9qvey9q6RwvZ94WrxqCRbq1SAH-be_gy6uM">
     <meta name="msvalidate.01" content="4996AD3BAEBA48D29C45B818F14AA66B"><meta name="y_key" content="efade99f467d3d13"><title>
 	
-    Privacy Policy
+    &lt;title&gt;Privacy Policy |Listmyfive </title>
 
-</title><link rel="shortcut icon" href="../Content/Images/Favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="../Content/Images/Favicon.ico" type="image/x-icon">
+   
+    <meta name="description" content="Listmyfive is strongly committed to protecting your privacy and providing a safe online experience for all our users.">
+    <meta name="keywords" content=" Listmyfive,  Write To Earn, Earn Money By Writing,  Money Writing, Write For Money, Quick Way To Earn Money, Earn Money Online By Writing, Ideas To Share, Earn Money By Writing ">
+    <meta name="robots" content="Index, Follow">
+    <meta name="AUTHOR" content="http://www.listmyfive.com/ ">
+    <meta name="COPYRIGHT" content="http://www.listmyfive.com/ ">
+    <meta name="revisit-after" content="7 days">
+    <meta name="Distribution" content="Global">
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
     <script src="https://connect.facebook.net/en_US/all.js"></script>
     <link href="../Content/Css/Reset.css" rel="stylesheet" type="text/css"><link href="../Content/Css/Final.css" rel="stylesheet" type="text/css"><link href="../Content/Css/Flexibox.css" rel="stylesheet" type="text/css"><link href="../Scripts/Jquery.Plugin/AutoComplete/jquery.autocomplete.css" rel="stylesheet" type="text/css"><script src="/Scripts/Final.js" type="text/javascript"></script>
@@ -525,7 +534,7 @@
 <script src="../../Scripts/Jquery.Plugin/jquery-ui-1.8.1.custom.min.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-    $(document).ready(function() {
+    $(document).ready(function () {
         $("#FormLogOn").validationEngine();
 
     });
@@ -534,11 +543,11 @@
         //            FB.logout();
         //            $("#IsLoggedOut").val('');
         //        }
-        FB.login(function(response) {
+        FB.login(function (response) {
             if (response.authResponse && response.status == 'connected') {
                 var uid = response.authResponse.userID;
                 var accessToken = response.authResponse.accessToken;
-                $.post("/Account/LogOnPopUpFaceBook?uid=" + uid + "&at=" + accessToken, function(data) {
+                $.post("/Account/LogOnPopUpFaceBook?uid=" + uid + "&at=" + accessToken, function (data) {
                     if (data == "Success") {
                         window.parent.location.reload();
                     }
@@ -580,7 +589,7 @@
 
     function LoginUser() {
         if ($("#FormLogOn").validationEngine({ returnIsValid: true })) {
-            $.post("/Account/LogOnPopUp/", $("#FormLogOn").serialize(), function(data) {
+            $.post("/Account/LogOnPopUp/", $("#FormLogOn").serialize(), function (data) {
                 SetUserNamePassWordText();
                 if (data == "Success") {
                     $('#PopUpLogin').dialog("close");
@@ -592,7 +601,7 @@
             });
         }
     }
-   
+
 </script>
 
 <div class="AlreadyMember">
@@ -640,7 +649,7 @@
             <label>
                 &nbsp;
             </label>
-            <input type="button" value="Log In" class="BtnS" onclick="javascript:LoginUser();">
+            <input type="button" value="Log In" class="BtnS" onclick="javascript: LoginUser();">
         </li>
         <li class="MT10">
             <label>
@@ -661,19 +670,19 @@
 
     </div>
     <script type="text/javascript">
-//        window.fbAsyncInit = function() {
-//            FB.init({ appId: '130752766971134', status: true, cookie: true,
-//                xfbml: true, oauth: true, logging: '1'
-//                
-//            });
-//        };
-//        (function() {
-//            var e = document.createElement('script'); e.async = true;
-//            e.src = 'https:' +
-//          '//connect.facebook.net/en_US/all.js';
-//                 
-//            document.getElementById('fb-root').appendChild(e);
-//        } ());
+        //        window.fbAsyncInit = function() {
+        //            FB.init({ appId: '130752766971134', status: true, cookie: true,
+        //                xfbml: true, oauth: true, logging: '1'
+        //                
+        //            });
+        //        };
+        //        (function() {
+        //            var e = document.createElement('script'); e.async = true;
+        //            e.src = 'https:' +
+        //          '//connect.facebook.net/en_US/all.js';
+        //                 
+        //            document.getElementById('fb-root').appendChild(e);
+        //        } ());
 
 
 
@@ -689,48 +698,48 @@
             window.location = '/Account/LogOn';
         }
 
-     function JoinProgramValid() {
-        var aa=0;
-        if(aa<18)
-        {alert("To join the WCP, you must be 18 years or older.  Please update your age in the 'Edit Account' section.");}
-          else
-          {
-           window.location="/User/JoinProgram";
-          }
-        }
+        function JoinProgramValid() {
+            var aa=0;
+         if(aa<18)
+         {alert("To join the WCP, you must be 18 years or older.  Please update your age in the 'Edit Account' section.");}
+         else
+         {
+             window.location="/User/JoinProgram";
+         }
+     }
 
-        function LogOutFacebook() {
-                FB.getLoginStatus(function(response) {
-                           //alert("Logout");
-                           FB.logout();
-                          window.location="/Account/LogOff";
-                    });
-                    window.location="/Account/LogOff";
-        }
+     function LogOutFacebook() {
+         FB.getLoginStatus(function(response) {
+             //alert("Logout");
+             FB.logout();
+             window.location="/Account/LogOff";
+         });
+         window.location="/Account/LogOff";
+     }
 
-            function FacebookConnect() {
-        FB.getLoginStatus(function(response) {
-            if (response.session) {
-                alert("You are connected to Facebook successfully.");
-                $("#SpanFacebook").addClass("SpanFacebookConnected");
-                $("#SpanFacebook").removeClass("SpanFacebookConnect");
-                $("#SpanFacebook").html("");
-            } else {
-                // no user session available, someone you dont know
-            }
-        });
-    }
-    function LoginPop()
-    {
-       if ('False' == 'True') {
-                window.location.reload();
+     function FacebookConnect() {
+         FB.getLoginStatus(function(response) {
+             if (response.session) {
+                 alert("You are connected to Facebook successfully.");
+                 $("#SpanFacebook").addClass("SpanFacebookConnected");
+                 $("#SpanFacebook").removeClass("SpanFacebookConnect");
+                 $("#SpanFacebook").html("");
+             } else {
+                 // no user session available, someone you dont know
+             }
+         });
+     }
+     function LoginPop()
+     {
+         if ('False' == 'True') {
+            window.location.reload();
         }
         else {
             SetUserNamePassWordText();
             OpenPopUp("PopUpLogin", 450, 520);
         }
-     }
-     function SetUserNamePassWordText() {
+    }
+    function SetUserNamePassWordText() {
         $('#UserName').val("");
         $('#Password').val("");
     }
