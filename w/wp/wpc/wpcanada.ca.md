@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpcanada.ca privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222162319id_/http%3A//wpcanada.ca/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpcanada.ca privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609115336id_/http%3A//wpcanada.ca/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » WPCanada
 
@@ -38,7 +38,7 @@ Your email address will remain private. We will never sell, trade or otherwise s
 
 It should be noted that our email subscription feature is handled by Feedburner, a Google property. We have no control over how they may use information you provide them with via this website. You are encouraged to read their [Privacy Policy](http://www.google.com/intl/en/privacy/ "Google Privacy Policy").
 
-If you do not wish to voluntarily provide your email address to access our email subscription feature you can still subscribe to this website's content through our [RSS feed](http://wpcanada.ca/feed/ "Full content feed").
+If you do not wish to voluntarily provide your email address to access our email subscription feature you can still subscribe to this website’s content through our [RSS feed](http://wpcanada.ca/feed/ "Full content feed").
 
 **Links**  
 This website contains many links to other websites over which we have no control. You are encouraged to familiarize yourself with their Privacy Policies as they may differ from ours.
