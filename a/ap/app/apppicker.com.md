@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apppicker.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010183733id_/http%3A//www.apppicker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apppicker.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610010436id_/http%3A//www.apppicker.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy - AppPicker
+# AppPicker privacy policy - Apppicker
 
 This document was last updated on 02/25/10.
 
@@ -76,6 +76,3 @@ AppPicker
 
 221 King St. Suite 332 San Francisco, CA 94107  
 AppPicker will use commercially reasonable efforts to promptly respond and resolve any problem or question.
-
-  
-
