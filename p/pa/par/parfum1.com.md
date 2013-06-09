@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parfum1.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209004559id_/http%3A//www.parfum1.com/help-center.asp%3Fhelp%3Dprivacy%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parfum1.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609030942id_/http%3A//www.parfum1.com/help-center.asp%3Fhelp%3Dprivacy%23privacy-policy) for the most accurate reproduction.*
 
 # Parfum1.com - Help Center: Privacy - Authentic Designer Perfume, Cologne, Fragrances and more.
 
@@ -30,7 +30,7 @@ It is our highest priority to make certain that your privacy will be respected.
 
   * Parfum1.com will not sell, trade, or give away any personal information that you have submitted during the online ordering process. This includes your Email address, credit card number or any other personal information.
   * All information gathered will be kept strictly confidential.
-  * If you have any further questions regarding your privacy please feel free to Email your inquiries to us by clicking using the [Inquiry Form](https://web.archive.org/web/20121209004559id_/http%3A//www.parfum1.com/help-center.asp?help=customer-service#inquiry)
+  * If you have any further questions regarding your privacy please feel free to Email your inquiries to us by clicking using the [Inquiry Form](https://web.archive.org/web/20130609030942id_/http%3A//www.parfum1.com/help-center.asp?help=customer-service#inquiry)
 
 
 
