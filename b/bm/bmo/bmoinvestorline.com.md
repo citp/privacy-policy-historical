@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmoinvestorline.com privacy policy that was archived on 2012-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120225083743id_/http%3A//www.bmo.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmoinvestorline.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609031244id_/http%3A//www.bmo.com/home/about/banking/privacy-security/our-privacy-code) for the most accurate reproduction.*
 
 # Our Privacy Code | BMO Financial Group
 
@@ -101,17 +101,6 @@ BMO Financial Group
 P.O. Box 150   
 1 First Canadian Place   
 Toronto, Ontario M5X 1H3 
-
-Or
-
-Independent Oversight  
-Office of the Ombudsman   
-BMO Financial Group   
-55 Bloor Street West   
-Toronto, Ontario M4W 3N5   
-Call: 1 800 371-2541   
-Or   
-Fax: 1 800 766-8029
 
 Or
 
