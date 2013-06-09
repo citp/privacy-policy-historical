@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playphone.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209024406id_/http%3A//www.playphone.com/index.php%3Frt%3Dlegal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playphone.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609063434id_/http%3A//playphone.com/index.php%3Frt%3Dlegal/privacy) for the most accurate reproduction.*
 
-# Playphone Social Gaming Network -
+# Mobile Game Developer Social Privacy Policy | PlayPhone Inc
 
 Last Updated August 1st, 2012
 
