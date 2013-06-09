@@ -1,58 +1,136 @@
-<!--The following is the downloaded HTML source of the tripadvisor.com.au privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217010737id_/http%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripadvisor.com.au privacy policy that was archived on 2013-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130609072805id_/http%3A//www.tripadvisor.com.au/pages/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link rel="icon" href="http://c1.tacdn.com/favicon.ico" type="image/x-icon">
+<script type="text/javascript">
+</script>
 <meta http-equiv="imagetoolbar" content="no">
 <title>Privacy policy - TripAdvisor</title>
-<meta name="keywords" content="attraction, activity, things to do, advice, attractions, vacation, reviews, travel">
+<meta property="og:image" content="http://c1.tacdn.com/img2/postimg.jpg" height="150px" width="150px">
+<meta name="keywords" content="attraction, activity, things to do, advice, attractions, holiday, reviews, travel">
 <script type="text/javascript">
+(function () { /* ensure that console.log is a valid function */
+if (typeof console == "undefined") console = {};
+var funcs = ["log", "error", "warn"];
+for (var i = 0; i < funcs.length; i++) {
+if (console[funcs[i]] == undefined) {
+console[funcs[i]] = function () {};
+}
+}
+})()
 var pageInit = new Date();
-var jsGlobalMonths = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
-var jsGlobalMonthsAbbrev = new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec");
-var jsGlobalDaysAbbrev = new Array("Sun","Mon","Tue","Wed","Thu","Fri","Sat");
-var jsGlobalDaysShort = new Array("S","M","T","W","T","F","S");
+var jsGlobalMonths =   new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+var jsGlobalMonthsAbbrev =   new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec");
+var jsGlobalDaysAbbrev =   new Array("Mon","Tue","Wed","Thu","Fri","Sat","Sun");
+var jsGlobalDaysShort =   new Array("M","T","W","T","F","S","S");
 var sInvalidDates = "The dates you entered are invalid. Please correct your dates and search again.";
-var jsGlobalDayOffset = 0;
-var DATE_FORMAT = { pattern: /(\d{1,2})\/(\d{1,2})\/(\d{2,4})/, month: 1, date: 2, year: 3 };
-var formatDate = function(d, m, y) {return [++m,d,y].join("/");}
+var sSelectDeparture = "Please select a departure airport.";
+var DATE_FORMAT_MMM_YYYY = "MMM YYYY";
+var DATE_PICKER_FORMAT = "EEE, MMM d";
+var jsGlobalDayOffset = 2 - 1;
+var DATE_FORMAT = { pattern: /(\d{1,2})\/(\d{1,2})\/(\d{2,4})/, month: 2, date: 1, year: 3 };
+var formatDate = function(d, m, y) {return [d,++m,y].join("/");}
 var cal_month_header = function(month, year) {return cal_months[month]+"&nbsp;"+year;}
 var currencyLevel = new Array();
 var currencySymbol = new Array();
 var cur_prefix = false;
 var cur_postfix = true;
-currencyLevel["USD"] = new Array("Any Price", "0,9999999", "Under $100", "0,100", "Under $200", "0,200", "Under $300", "0,300");
-currencyLevel["EUR"] = new Array("Any Price", "0,9999999", "Under \u20AC75", "0,75", "Under \u20AC150", "0,150", "Under \u20AC225", "0,225");
-currencyLevel["GBP"] = new Array("Any Price", "0,9999999", "Under \u00A350", "0,50", "Under \u00A3100", "0,100", "Under \u00A3150", "0,150");
-currencyLevel["CAD"] = new Array("Any Price", "0,9999999", "Under CAD 100", "0,100", "Under CAD 200", "0,200", "Under CAD 300", "0,300");
-currencyLevel["AUD"] = new Array("Any Price", "0,9999999", "Under AUD 100", "0,100", "Under AUD 200", "0,200", "Under AUD 300", "0,300");
-currencyLevel["CHF"] = new Array("Any Price", "0,9999999", "Under CHF 100", "0,100", "Under CHF 200", "0,200", "Under CHF 300", "0,300");
-currencyLevel["JPY"] = new Array("Any Price", "0,9999999", "Under 10,000 Yen", "0,10000", "Under 20,000 Yen", "0,20000", "Under 30,000 Yen", "0,30000");
-currencyLevel["CNY"] = new Array("Any Price", "0,9999999", "Under 700 Yuan", "0,700", "Under 1,400 Yuan", "0,1400", "Under 2,000 Yuan", "0,2000");
-currencyLevel["TWD"] = new Array("Any Price", "0,9999999", "Under 3,000", "0,3000", "Under 7,000", "0,7000", "Under 10,000", "0,10000");
-currencyLevel["HKD"] = new Array("Any Price", "0,9999999", "Under $100", "0,100", "Under $200", "0,200", "Under $300", "0,300");
-currencyLevel["INR"] = new Array("Any Price", "0,9999999", "Under \u20A84,000", "0,4000", "Under \u20A88,000", "0,8000", "Under \u20A812,000", "0,12000");
-currencySymbol["USD"] = new Array(" $", cur_prefix);
-currencySymbol["EUR"] = new Array("\u20AC", cur_postfix);
-currencySymbol["GBP"] = new Array("\u00A3", cur_postfix);
-currencySymbol["CAD"] = new Array("CAD ", cur_prefix);
-currencySymbol["AUD"] = new Array("AUD ", cur_prefix);
-currencySymbol["CHF"] = new Array("CHF ", cur_prefix);
-currencySymbol["JPY"] = new Array(" Yen", cur_postfix);
-currencySymbol["CNY"] = new Array(" Yuan", cur_postfix);
-currencySymbol["TWD"] = new Array("", cur_postfix);
-currencySymbol["HKD"] = new Array("$", cur_prefix);
-currencySymbol["INR"] = new Array("\u20A8", cur_prefix);
+currencySymbol["USD"] = new Array("$", true);
+currencyLevel["USD"] = new Array("Under 100$","100" ,"Under 200$","200" ,"Under 300$","300" ,"Any Price","9999999" );
+currencySymbol["EUR"] = new Array("€", true);
+currencyLevel["EUR"] = new Array("Under 75€","75" ,"Under 150€","150" ,"Under 225€","225" ,"Any Price","9999999" );
+currencySymbol["GBP"] = new Array("£", true);
+currencyLevel["GBP"] = new Array("Under 50£","50" ,"Under 100£","100" ,"Under 150£","150" ,"Any Price","9999999" );
+currencySymbol["CAD"] = new Array("CAD ", true);
+currencyLevel["CAD"] = new Array("Under 100CAD ","100" ,"Under 200CAD ","200" ,"Under 300CAD ","300" ,"Any Price","9999999" );
+currencySymbol["AUD"] = new Array("$", true);
+currencyLevel["AUD"] = new Array("Under 100$","100" ,"Under 200$","200" ,"Under 300$","300" ,"Any Price","9999999" );
+currencySymbol["CHF"] = new Array("CHF ", true);
+currencyLevel["CHF"] = new Array("Under 100CHF ","100" ,"Under 200CHF ","200" ,"Under 300CHF ","300" ,"Any Price","9999999" );
+currencySymbol["JPY"] = new Array("JPY", true);
+currencyLevel["JPY"] = new Array("Under 10000JPY","10000" ,"Under 20000JPY","20000" ,"Under 30000JPY","30000" ,"Any Price","9999999" );
+currencySymbol["RMB"] = new Array("CNY", true);
+currencyLevel["RMB"] = new Array("Under 200CNY","200" ,"Under 500CNY","500" ,"Under 800CNY","800" ,"Any Price","9999999" );
+currencySymbol["INR"] = new Array("INR", true);
+currencyLevel["INR"] = new Array("Under 4000INR","4000" ,"Under 8000INR","8000" ,"Under 12000INR","12000" ,"Any Price","9999999" );
+currencySymbol["SEK"] = new Array("SEK", true);
+currencyLevel["SEK"] = new Array("Under 500SEK","500" ,"Under 1000SEK","1000" ,"Under 1500SEK","1500" ,"Any Price","9999999" );
+currencySymbol["BRL"] = new Array("R$", true);
+currencyLevel["BRL"] = new Array("Under 200R$","200" ,"Under 400R$","400" ,"Under 600R$","600" ,"Any Price","9999999" );
+currencySymbol["TRY"] = new Array("TL", true);
+currencyLevel["TRY"] = new Array("Under 200TL","200" ,"Under 400TL","400" ,"Under 600TL","600" ,"Any Price","9999999" );
+currencySymbol["DKK"] = new Array("kr.", true);
+currencyLevel["DKK"] = new Array("Under 500kr.","500" ,"Under 1000kr.","1000" ,"Under 1500kr.","1500" ,"Any Price","9999999" );
+currencySymbol["MXN"] = new Array("MXN", true);
+currencyLevel["MXN"] = new Array("Under 1000MXN","1000" ,"Under 2000MXN","2000" ,"Under 3000MXN","3000" ,"Any Price","9999999" );
+currencySymbol["ARS"] = new Array("ARS", true);
+currencyLevel["ARS"] = new Array("Under 300ARS","300" ,"Under 600ARS","600" ,"Under 900ARS","900" ,"Any Price","9999999" );
+currencySymbol["NOK"] = new Array("NOK", true);
+currencyLevel["NOK"] = new Array("Under 600NOK","600" ,"Under 1200NOK","1200" ,"Under 1800NOK","1800" ,"Any Price","9999999" );
+currencySymbol["PLN"] = new Array("PLN", true);
+currencyLevel["PLN"] = new Array("Under 300PLN","300" ,"Under 600PLN","600" ,"Under 900PLN","900" ,"Any Price","9999999" );
+currencySymbol["SGD"] = new Array("S$", true);
+currencyLevel["SGD"] = new Array("Under 100S$","100" ,"Under 200S$","200" ,"Under 300S$","300" ,"Any Price","9999999" );
+currencySymbol["THB"] = new Array("THB", true);
+currencyLevel["THB"] = new Array("Under 4000THB","4000" ,"Under 8000THB","8000" ,"Under 12000THB","12000" ,"Any Price","9999999" );
+currencySymbol["KRW"] = new Array("KRW", true);
+currencyLevel["KRW"] = new Array("Under 100000KRW","100000" ,"Under 200000KRW","200000" ,"Under 300000KRW","300000" ,"Any Price","9999999" );
+currencySymbol["RUB"] = new Array("RUB", true);
+currencyLevel["RUB"] = new Array("Under 3000RUB","3000" ,"Under 6000RUB","6000" ,"Under 9000RUB","9000" ,"Any Price","9999999" );
+currencySymbol["IDR"] = new Array("IDR", true);
+currencyLevel["IDR"] = new Array("Under 1000000IDR","1000000" ,"Under 2000000IDR","2000000" ,"Under 3000000IDR","3000000" ,"Any Price","9999999" );
+currencySymbol["TWD"] = new Array("TWD", true);
+currencyLevel["TWD"] = new Array("Under 3000TWD","3000" ,"Under 6000TWD","6000" ,"Under 9000TWD","9000" ,"Any Price","9999999" );
+currencySymbol["MYR"] = new Array("RM", true);
+currencyLevel["MYR"] = new Array("Under 300RM","300" ,"Under 600RM","600" ,"Under 900RM","900" ,"Any Price","9999999" );
+currencySymbol["EGP"] = new Array("EGP", true);
+currencyLevel["EGP"] = new Array("Under 3000EGP","3000" ,"Under 6000EGP","6000" ,"Under 9000EGP","9000" ,"Any Price","9999999" );
+currencySymbol["HKD"] = new Array("HKD", true);
+currencyLevel["HKD"] = new Array("Under 800HKD","800" ,"Under 1600HKD","1600" ,"Under 2400HKD","2400" ,"Any Price","9999999" );
+var groupingSize = 3;
+var groupingSeparator = ",";
 var JS_location_not_found = "Your location not found.";
 var JS_click_to_expand = "Click to Expand";
 var JS_choose_valid_city = "Please choose a valid city from the list.";
 var JS_select_a_cruise_line = "Please select a cruise line.";
 var JS_loading = "Loading ...";
 var JS_Ajax_failed="We're sorry, but there was a problem retrieving the content. Please check back in a few minutes.";
+var JS_maintenance="Our site is currently undergoing maintenance.We\'re sorry for the inconvenience...we\'ll be back soon.";
 var JS_Stop_search = "stop search";
 var JS_Resume_search = "Resume search";
 var JS_Thankyou = "Thank you";
-var JS_DateFormat = "mm/dd/yyyy";
+var JS_DateFormat = "dd/mm/yyyy";
+var JS_review_lost = "Your review will be lost.";
+var JS_coppa_sorry = "We're sorry....";
+var JS_coppa_privacy = "Based on information you submitted, your TripAdvisor account does not meet the requirements of our <a href='/pages/privacy.html'>Privacy Policy</a>.";
+var JS_coppa_deleted = "Your account has been deleted.";
+var JS_close = "Close";
+var JS_close_image = "http://c1.tacdn.com/img2/buttons/closeButton.gif";
+var JS_CHANGES_SAVED = "Changes saved";
+var JS_community_on = "Community has been enabled";
+var lang_Close = JS_close;
+var JS_UpdatingYourResults = "Updating your results &#8230;";
+var JS_OwnerPhoto_heading = "Thank you for submitting your request to TripAdvisor. ";
+var JS_OwnerPhoto_subheading = "We process most listings and changes within 5 business days. ";
+var JS_OwnerPhoto_more = "Add more photos to your listing";
+var JS_OwnerPhoto_return = "Return to your Owner’s Centre";
+var JS_NMN_Timeout_title = "Do you want to keep trying?";
+var JS_NMN_Timeout_msg = "It is taking longer than expected to get your location.";
+var JS_NMN_Error_title = "Location error";
+var JS_NMN_Error_msg   = "There has been an error in trying to determine your location";
+var JS_KeepTrying = "Keep Trying";
+var JS_TryAgain   = "Try Again";
+var js_0001 = "Please select at least one vendor from the list."; var js_0002 = "Please choose dates in the future."; var js_0003 = "Please choose a check-out date that is at least one day later than your check-in date."; var js_0004 = "Please choose dates that are less than 330 days away.";   var js_0005 = "Searching for deals ... this may take a few moments"; var js_0006 = "Your selections have not changed."; var js_0010 = "Please click again to open each window or adjust browser settings to disable popup blockers."; var js_0011 = "Update"; var js_0012 = "Show next offer"; var js_0013 = "Please click the \"Check Rates!\" button above to open each window."; var js_0014 = 'Opens one window for each offer. Please disable pop-up blockers.';
+var js_0015 = 'Compare prices';
+var js_invalid_dates_text = "The dates entered are invalid. Please correct your dates and search again."; var js_invalid_dates_text_new = "Please enter dates to check rates"; var js_invalid_dates_text_new2 = "Please enter dates to show prices";
+var qcErrorImage = '<center><img src="http://c1.tacdn.com/img/action_required_blinking.gif" /></center>';
+var selectedHotelName = ""; var cr_loc_vend = 'http://c1.tacdn.com/img2/checkrates/cr.gif';
+var cr_loc_vend_ch = 'http://c1.tacdn.com/img2/checkrates/cr_check.gif';
+var cr_loc_logo = 'http://c1.tacdn.com/img2/checkrates/logo.gif';
+var cd_loc_vend = 'http://c1.tacdn.com/img2/checkrates/cd.png';
+var cd_loc_vend_ch = 'http://c1.tacdn.com/img2/checkrates/cd_check.png';
 var JS_Any_Date = "Any Date";
 var JS_Update_List = "Update List";
 var sNexusTitleMissing = "The title must be populated";
@@ -60,208 +138,214 @@ var JS_Challenge="Challenge";
 var JS_TIQ_Level="Level";
 var JS_TIQ="Travel IQ";
 var JS_TIQ_Pts="pts";
+var RATING_STRINGS = [
+"Click to rate",
+"Terrible",
+"Poor",
+"Average",
+"Very Good",
+"Excellent"
+];
+var overlayLightbox = false;
+if("" != "")
+{
+overlayLightbox = true;
+}
+var isTakeOver = false;
+var overlayOptions = "";
+var overlayBackupLoc = "1308815";
+var gmapDomain = "maps.google.com";
+var mapChannel = "ta.PRODUCTION";
+var bingMapsLang = "en".toLowerCase();
+var bingMapsCountry = "AU".toLowerCase();
+var bingMapsBaseUrl = "http://www.bing.com/maps/default.aspx?cc=au&";
+var googleMapsBaseUrl = "http://maps.google.com.au/?";
+var yandexMapsBaseUrl = "http://maps.yandex.com";
+var serverPool = "A";
+var reg_overhaul = true;
+var posLocale = "en_AU";
+var cssPhotoViewerAsset = "http://c1.tacdn.com/css2/photos_with_inline_review-v2080086234b.css";
+var jsPhotoViewerAsset = 'http://c1.tacdn.com/js3/src/ta/photos/Viewer-v2183302419b.js';
+var jsPhotoViewerTALSOAsset = 'http://c1.tacdn.com/js3/src/TALSO-v12862410b.js';
+var jsJWPlayerHelperAsset = 'http://c1.tacdn.com/js3/src/ta/media/jwplayerHelper-v995955711b.js';
 var hideOnLoad = new Array();
-var cookieDomain = ".tripadvisor.com";
+var IS_DEBUG = false;
+var CDNHOST = "http://c1.tacdn.com";
+var MEDIA_HTTP_BASE = "http://media-cdn.tripadvisor.com/media/";
+var VERSION_MAP = {
+"ta-widgets-typeahead.js": "http://c1.tacdn.com/js3/ta-widgets-typeahead-c-v3088293924b.js",
+"ta-media.js": "http://c1.tacdn.com/js3/ta-media-c-v512333031b.js"
+}
+var cookieDomain = ".tripadvisor.com.au";
+var modelLocaleCountry = "AU";
+var ipCountryId = "191";
 var pageServlet = "StaticVelocityXmlPage";
-var cdnHost = "http://cdn.tripadvisor.com";
-var arrowLeft     = "http://cdn.tripadvisor.com/img/saves/saveIconArrowLeft.gif";
-var arrow         = "http://cdn.tripadvisor.com/img/saves/saveIconArrow.gif";
-var example       = "http://cdn.tripadvisor.com/img/saves/saveButtonExample.gif";
-var save          = "http://cdn.tripadvisor.com/img/saves/folderSave.gif";
-var closedSub     = "http://cdn.tripadvisor.com/img/saves/closedForSubfolder.gif";
-var closedFolder  = "http://cdn.tripadvisor.com/img/saves/closedFolder.gif";
-var openFolder    = "http://cdn.tripadvisor.com/img/saves/openFolder.gif";
-var add           = "http://cdn.tripadvisor.com/img/saves/addFolder.gif";
+var crPageServlet = "StaticVelocityXmlPage";
+var cdnHost = "http://c1.tacdn.com";
+var arrowLeft     = "http://c1.tacdn.com/img/saves/saveIconArrowLeft.gif";
+var arrow         = "http://c1.tacdn.com/img/saves/saveIconArrow.gif";
+var example       = "http://c1.tacdn.com/img/saves/saveButtonExample.gif";
+var save          = "http://c1.tacdn.com/img/saves/folderSave.gif";
+var closedSub     = "http://c1.tacdn.com/img/saves/closedForSubfolder.gif";
+var closedFolder  = "http://c1.tacdn.com/img/saves/closedFolder.gif";
+var openFolder    = "http://c1.tacdn.com/img/saves/openFolder.gif";
+var add           = "http://c1.tacdn.com/img/saves/addFolder.gif";
 var userLoggedIn = false;
 var migrationMember = false;
 var savesEnable = true;
-var savesJS = 'http://cdn.tripadvisor.com/js2/saves-v5b.js';
+var savesJS = 'http://c1.tacdn.com/js3/src/saves-v2062170575b.js';
 var flagsUrl = '/pages/privacy.html';
+var noPopClass = "no_cpu";
+var flagsSettings = [
+];
+var isIPad = false;
+var isTabletOnFullSite = false;
+var tabletOnFullSite = false;
 var lang_Close  = "Close";
-var img_loop    = "/img2/generic/site/loop.gif";
+var img_loop    = "http://c1.tacdn.com/img2/generic/site/loop.gif";
 var communityEnabled = true
 var footerFlagFormat = "";
 var modelLocId = "";
+var gClient = 'gme-tripadvisorinc';
 var gKey = '';
-var mapsJs = 'http://cdn.tripadvisor.com/js2/ta_maps-v5b.js';
-;
-function DHTMLPopupRequest(action, responseFunction, errorFunction, formElement)
-{
-var sep = "?";
-if (popupConfig.servletUrl.contains(sep))
-{
-sep = "&";
-}
-var url = popupConfig.servletUrl+sep+"Action="+action+"&fromServlet=StaticVelocityXmlPage";
-if (!responseFunction)
-{
-responseFunction = popupResponseSuccess;
-}
-if (!errorFunction)
-{
-errorFunction = popupResponeError;
-}
-new Ajax(url, {
-onComplete: responseFunction,
-onFailure: errorFunction,
-data: formElement,
-evalScripts: true
-}).request();
-}
-function showDHTMLPopupOnLoad()
-{
-if(!doCookieCheck())
-{
-return;
-}
-}
-function showDeparturePopup()
-{
-}
-function showPopup()
-{
-}
-if (window.opener == null)
-{
-var cpu_paused = false;
-var cpu_go = function(e, triggerType) {
-if (cpu_paused && triggerType == 'unload') return;
-if (! doCookieCheck()) { return; }
-if (triggerType == 'click')
-{
-e = new Event(e || window.event);
-var eTarget = $(e.target);
-var eTargParentA = eTarget.getParent('a');
-if( eTarget.getTag() != 'a' && eTargParentA == null ) {
-return;
-}
-if(
-( eTarget.className && eTarget.className.match(/\b(js_pop)/) )
-|| ( eTargParentA != null && eTargParentA.className && eTargParentA.className.match(/\b(js_pop)/) )
-|| eTarget.getParent('#CRUISE_CRITIC_REVIEWS_FORM')
-)
-{
-return;
-}
-if( eTarget.onclick && eTarget.onclick != null && eTarget.onclick.toString().match(/window\.open/g))
-{
-return;
-}
-}
-var alreadyPopped = Cookie.getRaw('CommercePopunder');
-if (alreadyPopped)
-{
-if (alreadyPopped != 'SuppressUnload' || triggerType != 'click')
-{
-return;
-}
-}
-var csv = Cookie.getRaw('TASession');
-if (csv)
-{
-if(/\*PD(\d+)\.(\d+)/.test(csv))
-{
-if (/\*CC\.(\d+)/.test(csv))
-{
-new Ajax("/ActionRecord?action=AbortedOpen_expediaOrbitzCommerceClick").request();
-return;
-}
-}
-}
-if(!csv || !(/\*LL\.(\d+)/.test(csv)))             {
-new Ajax("/ActionRecord?action=AbortedOpen_noCookieData").request();
-return;
-}
-var w = 1;
-var h = 1;
-if (window.ie7) {w = 250; h = 100;}
-if (window.webkit) { w = 85; h = 100;}
-var nX = (window.screenLeft || window.screenX);
-var nY = (window.screenTop || window.screenY);
-if (typeof(nX) == "undefined") { // full screen
-nX = 0;
-nY = 0;
-var x = nX + window.screen.availWidth - w; // bottom-right corner of window
-var y = nY + window.screen.availHeight - h;
-}
-else{
-var x = nX + window.getWidth() - w; // bottom-right corner of window
-var y = nY + window.getHeight() - h;
-}
-if(window.ie7)
-{
-y = y - 95;
-x = x + 13;
-}
-else if(window.webkit)
-{
-y = y - 16;
-}
-else
-{
-x = 5000;
-y = 5000;
-}
-Cookie.set("CommercePopunder", "SuppressAll", {domain: cookieDomain, duration: 5});
-var cpu_uri = 'http://'+window.location.hostname+'/CommercePopunderEnhanced?mainWindowReturnTo=/pages/privacy.html&fromServlet=StaticVelocityXmlPage';
-if (triggerType == 'click')
-{
-cpu_uri = cpu_uri + "&onclick=1"
-}
-cpu_win = window.open(cpu_uri, "CommercePopunder", "toolbar=1,location=1,directories=1,status=1,menubar=1,resizable=1,copyhistory=1,scrollbars=1,width="+w+",height="+h+",left="+x+",top="+y);
-if (cpu_win != null) {
-cpu_win.opener = self;
-cpu_win.blur();
-window.focus();
-cpu_win.moveTo(nX + (window.getWidth() - 790) / 2, nY + (window.getHeight() - 660) / 2);
-cpu_win.resizeTo(790,660);
-}
-else
-{
-new Asset.image('/ActionRecord?action=fail_commercePopunderBlocked');
-if (triggerType == 'unload')
-{
-Cookie.set("CommercePopunder", "SuppressUnload", {domain: cookieDomain, duration: 5});
-}
-}
-}
-var cpu_resume = function() {window.cpu_paused = false;}
-var cpu_pause = function(e) {
-e = new Event(e || window.event);
-var eTarget = $(e.target);
-if (!cpu_paused && (eTarget.getTag() == 'a' || eTarget.getParent('a') != null)) {
-window.cpu_paused = true;
-cpu_resume.delay(1000);
-}
-}
-var cpu_run = function() {
-window.addEvent('beforeunload', function (e) { cpu_go (e, 'unload'); } );
-document.addEvent('click', cpu_pause);
-document.addEvent('click', function (e) { cpu_go (e, 'click'); } );
-}
-}
+var gLang = '';
+var mapsJs = 'http://c1.tacdn.com/js3/ta-maps-bing-c-v2603179904b.js';
+var mapsJsLite = 'http://c1.tacdn.com/js3/lib/TAMap-v2716202300b.js';
+var memoverlayCSS = 'http://c1.tacdn.com/css2/pages/memberoverlay-v1425099229b.css';
+var flagsFlyoutCSS = 'http://c1.tacdn.com/css2/overlays/flags/flags_flyout-v2900952896b.css';
+var emailHotelCSS = 'http://c1.tacdn.com/css2/t4b/emailhotel-v319357716b.css';
+var sameGeoActivityCSS = 'http://c1.tacdn.com/css2/modules/same_geo_activity-v2888784286b.css';
+var passportStampsCSS = 'http://c1.tacdn.com/css2/modules/passport_stamps-v1996473260b.css';
+var wiFriHasMember =  false  ;
+var JS_SECURITY_TOKEN = "AAABPyfVucMspuruPTLCiBYTSHY8T4g/UkCwtw==";
+var addOverlayCloseClass = "";
+var isOverlayServlet = "";
+var IS_OVERLAY_DEBUG = "false";
+var cpu_enabled = true;
 </script>
-<script type="text/javascript" src="http://cdn.tripadvisor.com/js2/tripadvisor-v182b.js"></script>
-<link rel="stylesheet" type="text/css" media="screen" href="http://cdn.tripadvisor.com/css2/main-v83b.css">
-<link rel="stylesheet" type="text/css" media="print" href="http://cdn.tripadvisor.com/css2/required/print-v7b.css">
-<!--[if IE]>
-    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn.tripadvisor.com/css2/required/conditionals/winIE-v53b.css" />
-  <![endif]-->
+<script type="text/javascript">
+var freshVSTrackingCookie = true;         </script>
+<script type="text/javascript" src="http://c1.tacdn.com/js3/tripadvisor-c-v3947228760b.js"></script>
+<script type="text/javascript">var taSecureToken = "AAABPyfVucMspuruPTLCiBYTSHY8T4g/UkCwtw=="</script>
+<script type="text/javascript">
+var geoParam = "&geo=";
+</script>
+<link rel="stylesheet" type="text/css" media="screen, print" href="http://c1.tacdn.com/css2/universal_new-en_AU-v4062451693b.css">
 <!--[if IE 6]>
-    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn.tripadvisor.com/css2/required/conditionals/winIE6-v54b.css" />
-  <![endif]-->
+    <link rel="stylesheet" type="text/css" media="screen, print" href="http://c1.tacdn.com/css2/winIE6-v3177518358b.css" />
+        <![endif]-->
 <!--[if IE 7]>
-    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn.tripadvisor.com/css2/required/conditionals/winIE7-v12b.css" />
-  <![endif]-->
+    <link rel="stylesheet" type="text/css" media="screen, print" href="http://c1.tacdn.com/css2/winIE7-v2468927065b.css" />
+        <![endif]-->
 <style type="text/css">
 body{}
+.lvcitiesmodule { clear:both; width: 950px; margin-left: 5px; margin-bottom: 5px; margin-bottom: 10px; padding-top: 60px; }
+.lvcitiesmodule h2.title { clear:both; font-family: Arial; font-size: 2.1em; font-weight: bold; color: rgb(0, 0, 0);
+padding-bottom: 4px; padding-top: 6px; margin-left: 10px; margin-right: 10px; border-top: 1px solid #e6e6e6; }
+.lvcitiesmodule .textabove { font-family: Arial; font-size: 0.85em; font-weight: normal; color: #656565; padding-left: 10px; }
+.lvcitiesmodule .textbelow { clear:both; font-family: Arial; font-size: 0.85em; font-weight: normal; color: #656565; padding-left: 10px; }
+.lvcitiesmodule .collageblock { width: 950px; }
+.lvcitiesmodule .leftcolm { float:left; width: 380px; }
+.lvcitiesmodule .rightcolm { float:right; width: 570px; }
+.lvcitiesmodule .singlecol_r { float:right; }
+.lvcitiesmodule .singlecol_l { float:left; }
+.lvcitiesmodule .doublecol { float:right; width: 380px; }
+.lvcitiesmodule .transbox  {position:absolute; height:32px; background-color:#000;
+background: transparent; /* for IE fixes */ background: rgba(0,0,0, 0.55);
+background: rgba(0,0,0, 0.55);
+-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#8C000000,endColorstr=#8C000000)"; /* IE8 */
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#8C000000,endColorstr=#8C000000);   /* IE6 & 7 */
+zoom: 1; z-index:1;
+}
+.lvcitiesmodule .citydtlname { position:absolute; font-family: Arial; font-size: 0.76em; color: #FFFFFF; font-weight: bold; left:16px;
+width:150px;  overflow:hidden; white-space:nowrap; z-index:2; }
+.lvcitiesmodule .citydtlreviews {position:absolute; font-family: Arial; font-size: 0.76em; color: #FFFFFF; left:6px; top:18px;
+width:100px; font-weight: normal; }
+.lvcitiesmodule .bigbox { position:relative; clear:both; padding:10px 10px 10px 10px; }
+.lvcitiesmodule .bigbox .transbox {  top:221px; width:360px; }
+.lvcitiesmodule .bigbox .citydtlname { top:227px; }
+.lvcitiesmodule .smallbox { position:relative; padding:10px 10px 10px 10px; }
+.lvcitiesmodule .smallbox .transbox { top:90px; width:170px; }
+.lvcitiesmodule .smallbox .citydtlname { top:96px; }
+.lvcitiesmodule .sizedThumb { width:170px; overflow:hidden; }
+.lvcitiesmodule .photo_image { vertical-align: top; }
+#hotel_flyout {
+position:fixed;
+z-index:99999;
+bottom:0;
+width:450px;
+box-shadow: -2px -2px 2px lightgrey;
+background: white;
+right: -500px;
+}
+#hotel_flyout .title.text {
+font-size: 1.35em;
+font-weight: bold;
+color: #2C2C2C;
+width: 332px;
+}
+#hotel_flyout .lodging.wrap.flyout{
+margin-top: 6px;
+margin-left: 6px;
+margin-bottom: 10px;
+background: white;
+}
+#hotel_flyout .oh.flyout{
+float: left;
+}
+#hotel_flyout .crOverlayButton{
+width: 94px;
+}
+#hotel_flyout .propertyLink{
+font-weight: bold;
+color: #069;
+font-family: Arial,Tahoma,"Bitstream Vera Sans",sans-serif;
+font-size: 12px;
+float: left;
+margin-top: 2px;
+margin-bottom: 1px;
+}
+#hotel_flyout .wsnw.taLnk.hvrIE6{
+font-size: 12px;
+color: #069;
+margin-bottom: 2px;
+margin-top: -1px;
+}
+#hotel_flyout .location.fl{
+font-size: 12px;
+color: #656565;
+margin-top: 2px;
+float: left;
+margin-bottom: 1px;
+}
+#hotel_flyout .data{
+width: 350px;
+}
+#hotel_flyout .pricing{
+padding-right: 5px;
+float: none;
+}
+#hotel_flyout .rating.wrap{
+float: left;
+width: 350px;
+margin-top: 3px;
+margin-bottom: 3px;
+margin-left: 0;
+}
+#hotel_flyout .close{
+top: 3px;
+right: 3px;
+cursor: pointer;
+position: absolute;
+}
 </style>
-<!-- web05b.tripadvisor.com -->
+<!-- web65b.tripadvisor.com -->
 <!-- PRODUCTION -->
 <!-- PRODUCTION -->
-<script type="text/javascript" src="http://cdn.tripadvisor.com/js2/trsupp-v1b.js"></script>
+<script type="text/javascript" src="http://c1.tacdn.com/js3/src/trsupp-v283141723b.js"></script>
 </head>
-<body>
+<body class="ltr domn_en_AU globalNav2011_reset">
+<div id="fb-root"></div>
 <script type="text/javascript">
 function initSaves()
 {
@@ -272,215 +356,1016 @@ SV_DEFAULT_FOLDER_NAME = "My Trip";
 SV_IS_POPUP = 0;
 }
 </script>
-<div id="iframediv"></div>
-<div id="PAGE">
-<div id="HEAD">
-<div class="wrap">
-<div class="identity" style="height: 45px"><a href="/"><img src="http://cdn.tripadvisor.com/img2/branding/idHeadINT-V1.png" height="45" alt="TripAdvisor - Hotel Reviews"></a></div><!--/ identity-->
-<div class="punchLine"><b> Over 15 million traveler reviews &amp; opinions of hotels, vacations &amp; more
-</b></div> </div><!--/ wrap-->
-<div class="prfs">
-<div class="opts">
-<ul>
-<li class="icn unregistered b">My TripAdvisor</li> <li class="icn login last"><a rel="nofollow" href="/MemberSignIn-e__2F__pages__2F__privacy__2E__html-wcmi" class="pid429">Sign in</a></li> </ul>
-</div><!--/ opts-->
-<div class="prompt">
-<ul>
-<li class="icn register flyout"><a rel="nofollow" href="/MemberSignIn-e__2F__pages__2F__privacy__2E__html-j1-wcmy" class="pid427">Register Now!</a>
-<div class="flyoutContents"><div class="flyoutContentsWide register">
-<ul>
-<li><b>When you register you can:</b>
-<ul class="dotBullets">
-<li>Share your stories</li>
-<li>Save your favorite places and plan your next trip</li>
-<li>Connect with other travelers</li>
-<li>Get the latest travel deals</li>
-</ul>
-</li>
-</ul>
-<div class="button">
-<div>
-<span><b><a rel="nofollow" href="/MemberSignUp-e__2F__pages__2F__privacy__2E__html-j1-wcmy" class="pid430">Register Now</a></b>
+<div style="width:973px; margin:0 auto 20px; padding:5px; background-color:#ffe5a5; font-size:.75em;">
+<div style="padding:6px 0 8px 79px;background: url(http://c1.tacdn.com/img2/icons/64/bv_alert.gif) 12px 2px no-repeat;line-height:167.5%;">
+<span>
+<b>We noticed that you're using an unsupported browser. The TripAdvisor website may not display properly.</b><br> We support the following browsers:
+</span>
+<span dir="ltr">
+<b>Windows:</b>
+<span class="taLnk hvrIE6" onclick="ta.util.ASDF.asdfPopup('PFaSnEitiTI8LuSCMiutLSVLMVTJpcIYat2xE')">Internet Explorer</span>,
+<span class="taLnk hvrIE6" onclick="ta.util.ASDF.asdfPopup('PFaizCSccJWVpEi2VxzLVCL')">Mozilla Firefox</span>,
+<span class="taLnk hvrIE6" onclick="ta.util.ASDF.asdfPopup('q5FyiiycV8LSCIcLVCLnGEiaVLHEiutVEL4Gc1VC')">Google Chrome</span>.
+<b>Mac:</b>
+<span class="taLnk hvrIE6" onclick="ta.util.ASDF.asdfPopup('PFJ22cV8LaJnitxELTVJIpEVtLtJTJESL')">Safari</span>.
 </span>
 </div>
-</div><!--/ button-->
-<div class="reminder">Already a member? <a rel="nofollow" href="/MemberSignIn-e__2F__pages__2F__privacy__2E__html-wcmi" class="pid429">Sign in</a></div> </div></div><!--/ flyoutContents-->
-</li>
-</ul>
-</div><!--/ prompt-->
-</div><!--/ prfs-->
-<div class="navBar">
-<ul>
-<li class="icn first" id="INTLPOP"><span class="hvrIE6">International Sites</span></li> <li><a href="/" rel="nofollow">Home</a></li> <li class="icn" id="DESTINATIONSPOP"><span class="hvrIE6">Destinations</span></li>
-<li class="icn" id="FUNSTUFFPOP"><a href="/FunStuff" rel="nofollow">Fun &amp; Games</a></li> <li><a href="/MemberBenefits" rel="nofollow">Free Travel Guides</a></li>
-<li><a href="/Inspiration" rel="nofollow" class="pid1337">Vacation Ideas</a></li>
-</ul>
-</div><!--/ navBar-->
-</div><!--/ HEAD-->
-<div id="MAIN" class="StaticVelocityXmlPage">
-<div id="LEFTNAV" class="col">
-<div class="navSrch" id="SEARCH_LHN">
-<form method="get" action="/Search">
-<fieldset>
-<legend>
-Search </legend>
-<input type="hidden" name="returnTo" value="__2F__pages__2F__privacy__2E__html">
-<input type="text" name="q" class="text">
-<input type="submit" name="sub-search" class="submit" value="Go" title="Go"> <input type="hidden" name="geo" value="">
-</fieldset>
+</div><!--/ BAD_VERSION -->
+<div id="iframediv"></div>
+<div id="PAGE" class=" non_hotels_like desktop">
+<div id="HEAD" class="sprite-gradient1x32_grn ">
+<div class="masthead">
+<div class="container">
+<span class="topLogo">
+<a class="logoWrap" onclick="setPID(5045);" href="/"><img class="sprite-taLogo" src="http://c1.tacdn.com/img2/x.gif" width="362" height="42" alt="Reviews of Hotels, Flights and Holiday Rentals"></a>
+</span>
+<h1 class="header"></h1>
+</div>
+<div class="navSrch sprite-magGlass_gry  no_cpu " id="SEARCH_LHN">
+<form method="get" action="/Search" onsubmit="return ta.call('ta.common.search.validate',event);" id="SEARCH_LHN_form">
+<input id="mainSearch" type="text" name="q" class=" text focusClear" autocomplete="off" onfocus="ta.call('ta.widgets.typeahead.factory.global',event,this,'SITEWIDE','ta.widgets.typeahead.events.onSelectGlobalTypeAhead',{maxChoices:16,minLength:3,showOnlyTypedChoices:true,geo:''});                       return ta.call('ta.common.search.clearOnFocus',event);" onblur="return ta.call('ta.common.search.defaultOnBlur',event);" value="City, hotel name, etc.">
+<div class="submit_button sprite-gradient1x27_gry"><input id="mainSearchSubmit" onclick="if(event.clientY) { ta.id('SEARCH_LHN_form').elements['pid'].value=3825; }" type="submit" name="sub-search" class="submit" value="SEARCH" title="SEARCH"></div>
+<input type="hidden" name="geo" value="">
+<input type="hidden" name="pid" value="3826">
+<input type="hidden" name="returnTo" value="http%3A__2F____2F__www__2E__tripadvisor__2E__com__2E__au__2F__pages__2F__privacy__2E__html">
 </form>
 </div>
+<div class="tabsBar">
+<ul class="tabs">
+<li class="tabItem  hvrIE6"><a href="/" class="tabLink  pid4921">
+Home
+</a>
+</li>
+<li class="tabItem dropDownJS  hvrIE6"><span class="tabLink arwLink" onmouseover="ta.call('ta.common.header.createDrop', event, this)"><a href="/Hotels" class="arrow_text  pid2972">
+Hotels
+</a>
+<img class="arrow_dropdown_wht sprite-arrow_dropdown_wht" src="http://c1.tacdn.com/img2/x.gif" alt="" width="7" height="5"></span>
+<span class="hidden">
+<form class="subNav" action="/HACSearch" method="get">
+<fieldset>
+<div class="upperInputs">
+<span class="fldSetRadio">
+<input type="radio" id="dropGeoRadio" name="geoOrName" value="geo" checked="true" onclick="ta.call('ta.common.header.changeSearchType', event, this, 'Search city')">
+<label for="dropGeoRadio">Search city</label>
+</span>
+<span class="fldSetRadio">
+<input type="radio" id="dropNameRadio" name="geoOrName" value="name" onclick="ta.call('ta.common.header.changeSearchType', event, this, 'Search hotel name')">
+<label for="dropNameRadio">Search hotel name</label>
+</span>
+<input type="text" id="hotelDropText" class="text hasDefault" name="q" autocomplete="off" value="Search city" onfocus="ta.call('ta.common.header.firstClickHotelText', event, this)">
+</div>
+<div class="lowerInputs">
+<div class="wrap">
+<span class="cal first">
+<input type="hidden" class="day" name="inDay" id="inDay" value="14">
+<input type="hidden" class="month" name="inMonth" id="inMonth" value="06/2013">
+<label for="checkIn">Check-in</label> <input name="checkIn" id="checkIn" class="text sprite-calendar-grn" type="text" value="dd/mm/yyyy" onfocus="ta.call('ta.overlays.Factory.createDatedPairedCalendar', event, this)">
+</span>
+<span class="cal">
+<input type="hidden" class="day" name="outDay" id="outDay" value="16">
+<input type="hidden" class="month" name="outMonth" id="outMonth" value="06/2013">
+<label for="checkOut">Check-out</label> <input name="checkOut" id="checkOut" class="text sprite-calendar-grn" type="text" value="dd/mm/yyyy" onfocus="ta.call('ta.overlays.Factory.createDatedPairedCalendar', event, this)">
+</span>
+</div>
+<div class="checkPair">
+<input type="checkbox" name="searchAll" id="leaveBlankHotel" onclick="ta.overlays.toggleSearchAll(event, this)">
+<label for="leaveBlankHotel">Leave dates blank</label>
+</div>
+</div>
+<div class="button_2011_grn"><span class="sprite-gradient1x32_grn gradient" onclick="ta.call('ta.common.header.submitAndSetPid', event, this, 5276);">Find Hotels</span></div>
+</fieldset>
+<br>
+<a class="tchNavPromoLink" href="/TravelersChoice-Hotels" onclick="setPID(16076);">
+<div class="tchNavPromo">
+<img src="http://c1.tacdn.com/img2/tc/2013/TCH-Hotels-dropdown_LL_TM.gif" alt="Travellers' Choice Hotel Awards"> <p>The world's best hotels. <span class="taLnk">Get the list</span>.</p> </div>
+</a>
+</form> </span></li>
+<li class="tabItem  hvrIE6"><a href="/Flights" class="tabLink  pid18957" onclick="setPID(1940)">
+Flights
+</a>
+</li>
+<li class="tabItem  hvrIE6"><a href="/VacationRentals" class="tabLink  pid4968">
+Holiday Rentals
+</a>
+</li>
+<li class="tabItem dropDownJS  hvrIE6"><span class="tabLink arwLink" onmouseover="ta.call('ta.common.header.createDrop', event, this)"><a href="/Restaurants" class="arrow_text  pid2973">
+Restaurants
+</a>
+<img class="arrow_dropdown_wht sprite-arrow_dropdown_wht" src="http://c1.tacdn.com/img2/x.gif" alt="" width="7" height="5"></span>
+<span class="hidden">
+<form action="/RestaurantSearch" method="get" class="subNav">
+<fieldset>
+<span class="eatInputs">
+<div class="fldSet">
+<label for="restaurantCityDrop">City</label>
+<input id="restaurantCityDropUrl" type="hidden" value="" name="geo">
+<input id="restaurantCityDrop" class="text" type="text" name="q" autocomplete="off" onfocus="ta.call('ta.widgets.typeahead.factory.standard', event, this, 'RESTGEO', 'ta.widgets.typeahead.events.dropEateryOnSelect', {minLength: 3});">
+</div>
+<select id="dropCuisine" name="cat" class="dropSelect">
+<option selected="selected" value="">
+All Cuisines </option>
+<option value="1" onclick="event.stopPropagation()">
+African
+</option>
+<option value="2" onclick="event.stopPropagation()">
+American
+</option>
+<option value="3" onclick="event.stopPropagation()">
+Asian
+</option>
+<option value="5" onclick="event.stopPropagation()">
+Bakery
+</option>
+<option value="6" onclick="event.stopPropagation()">
+Barbecue
+</option>
+<option value="7" onclick="event.stopPropagation()">
+British
+</option>
+<option value="8" onclick="event.stopPropagation()">
+Café
+</option>
+<option value="9" onclick="event.stopPropagation()">
+Cajun &amp; Creole
+</option>
+<option value="10" onclick="event.stopPropagation()">
+Caribbean
+</option>
+<option value="11" onclick="event.stopPropagation()">
+Chinese
+</option>
+<option value="12" onclick="event.stopPropagation()">
+Continental
+</option>
+<option value="13" onclick="event.stopPropagation()">
+Delicatessen
+</option>
+<option value="14" onclick="event.stopPropagation()">
+Dessert
+</option>
+<option value="16" onclick="event.stopPropagation()">
+Eastern European
+</option>
+<option value="17" onclick="event.stopPropagation()">
+Fusion
+</option>
+<option value="18" onclick="event.stopPropagation()">
+European
+</option>
+<option value="20" onclick="event.stopPropagation()">
+French
+</option>
+<option value="21" onclick="event.stopPropagation()">
+German
+</option>
+<option value="22" onclick="event.stopPropagation()">
+Global/International
+</option>
+<option value="23" onclick="event.stopPropagation()">
+Greek
+</option>
+<option value="24" onclick="event.stopPropagation()">
+Indian
+</option>
+<option value="25" onclick="event.stopPropagation()">
+Irish
+</option>
+<option value="26" onclick="event.stopPropagation()">
+Italian
+</option>
+<option value="27" onclick="event.stopPropagation()">
+Japanese
+</option>
+<option value="28" onclick="event.stopPropagation()">
+Mediterranean
+</option>
+<option value="29" onclick="event.stopPropagation()">
+Mexican/Southwestern
+</option>
+<option value="30" onclick="event.stopPropagation()">
+Middle Eastern
+</option>
+<option value="31" onclick="event.stopPropagation()">
+Pizza
+</option>
+<option value="32" onclick="event.stopPropagation()">
+Pub
+</option>
+<option value="33" onclick="event.stopPropagation()">
+Seafood
+</option>
+<option value="34" onclick="event.stopPropagation()">
+Soups
+</option>
+<option value="35" onclick="event.stopPropagation()">
+South American
+</option>
+<option value="36" onclick="event.stopPropagation()">
+Spanish
+</option>
+<option value="37" onclick="event.stopPropagation()">
+Steakhouse
+</option>
+<option value="38" onclick="event.stopPropagation()">
+Sushi
+</option>
+<option value="39" onclick="event.stopPropagation()">
+Thai
+</option>
+<option value="40" onclick="event.stopPropagation()">
+Vegetarian
+</option>
+<option value="41" onclick="event.stopPropagation()">
+Vietnamese
+</option>
+</select>
+<select name="pid" id="dropEatPrice" class="dropSelect"> <option selected="selected" value="">
+Any Price
+</option>
+<option value="1" onclick="event.stopPropagation()">$</option>
+<option value="2" onclick="event.stopPropagation()">$$</option>
+<option value="4" onclick="event.stopPropagation()">$$$</option>
+<option value="8" onclick="event.stopPropagation()">$$$$</option>
+</select>
+</span>
+<div class="button_2011_grn"><span class="sprite-gradient1x32_grn gradient" onclick="ta.call('ta.common.header.submitAndSetPid', event, this, 5277)">Find Restaurants</span></div> </fieldset>
+</form>
+</span></li>
+<li class="tabItem  hvrIE6"><a href="/TravelersChoice" class="tabLink  pid5087">
+Best of 2013
+</a>
+</li>
+<li id="FRIENDSTAB" class="tabItem tooltip hvrIE6"><a href="/Friends-rnauth" class="tabLink tooltip pid18784" onclick="return ta.call('ta.common.header.adjustFriendsLink', event, this);">
+Your Friends <span id="FBL" class="sprite-facebook15x15"></span>
+</a>
+<div class="overlayContents"><div class="inner2"><div class="help"><div class="hdr">Travel is better with friends.</div><div class="ttbody">Get inspired by your friends and share your travel plans. <a href="/Friends-rnauth" onclick="return ta.call('ta.common.header.adjustFriendsLink', event, this);">Learn more</a></div></div></div></div>
+</li>
+<li class="tabItem dropDown hvrIE6 ">
+<span class="tabLink arwLink"><span class="arrow_text">More</span><img class="arrow_dropdown_wht sprite-arrow_dropdown_wht" src="http://c1.tacdn.com/img2/x.gif" alt="" width="7" height="5"></span> <ul class="subNav">
+<li class="subItem ">
+<a href="/ForumHome" class="subLink pid34623">Travel Forum
+</a>
+</li>
+<li class="subItem ">
+<a href="/apps" class="subLink pid18876">Apps
+</a>
+</li>
+<li class="subItem ">
+<a href="/GreenLeaders" class="subLink pid34563">GreenLeaders
+</a>
+</li>
+</ul>
+</li>
+<li class="tabItem altItem warLink sprite-gradient1x32_grn_drk last hvrIE6">
+<span class="writeReview taLnk hvrIE6 tabLink" onclick="ta.util.cookie.setPIDCookie(1434); ta.util.ASDF.asdf('LqdWVGII26mbqgqguuuxizSxiniaxiJpqgzFqg2ESsJngxiGIac')">
+Write a Review</span>
+</li>
+</ul> </div>
+<div id="USER_PREFS" class="prfs">
+<ul class="opts">
+<li class="optItem fbConnect">
+<div class="sprite-facebook15x15 taLnk hvrIE6  no_cpu " onclick=" ta.store('facebook.trackingpid',1882);  ta.call('ta.support.Facebook.loginButton', event, this);">Sign&nbsp;in&nbsp;with&nbsp;Facebook</div>
+</li>
+<li class="optItem login"><span class="taLnk hvrIE6" onclick="ta.util.cookie.setPIDCookie(429);ta.store('registration.ga_module', 'Masthead');ta.call('ta.overlays.Factory.showConnectOverlay', event, this, {flow: 'MASTHEAD'}, 'SIGNIN');">Sign in</span></li>
+<li id="register" class="optItem register flyoutX" onclick="ta.util.cookie.setPIDCookie(427);ta.store('registration.ga_module', 'Masthead');ta.call('ta.overlays.Factory.showConnectOverlay', event, this, {flow: 'MASTHEAD'}, 'SIGNUP');"><span class="taLnk hvrIE6">Register Now!</span>
+</li><li class="optItem" id="MOBHDRLNK">
+<a class="optItemLink sprite-mobile_org mobile_org" onclick="ta.util.cookie.setPIDCookie(4109);ta.util.cookie.setPIDCookie(4109)" href="/apps">FREE Mobile App</a>
+</li>
+<li id="INTLPOP" class="optItem intSites last  no_cpu " onclick="ta.call('ta.overlays.Factory.intlPopup', event, this)"><span class="sprite-arrow_dropdown_blu arrowDn"><img class="sprite-flag" src="http://c1.tacdn.com/img2/x.gif" alt="International Sites" title="International Sites"></span></li> </ul> </div> </div> </div>
+<div id="MAINWRAP">
+<div id="SAVES" style="display: none;"> </div>
+<div id="MAIN" class="StaticVelocityXmlPage" rel="v:itemreviewed">
+<div id="LEFTNAV" class="col">
 <div class="lhnHigh onShow">
 <ul>
-<li>
-<a href="/pages/about_us.html">About TripAdvisor</a>
+<li class="firstItem">
+<a class="k_press_center" href="/PressCenter-c6-About_Us.html">
+About TripAdvisor</a>
 </li>
 <li>
-<a href="/help">Help Center</a>
+<a class="k_help_center" href="/help">
+Help Centre</a>
 </li>
 <li>
-<a href="/PressCenter-c4-Fact_Sheet.html">Fact sheet</a>
+<a class="k_press_center" href="/PressCenter-c4-Fact_Sheet.html">
+Fact sheet</a>
 </li>
 <li>
-<a href="/PressCenter-c5-Our_Team.html">Our team</a>
+<a class="k_press_center" href="/PressCenter-c5-Our_Team.html">
+Our team</a>
 </li>
 <li>
-<a href="/careers/jobs">Jobs</a>
+<a class="k_static" href="/careers/jobs">
+Jobs</a>
 </li>
-<li class="mark viewing">
-<span class="lhnselected">Privacy policy</span>
-</li>
-<li>
-<a href="/pages/terms.html">Terms of Use</a>
-</li>
-<li>
-<a href="/PressCenter">Press center</a>
+<li class=" mark">
+<span class="lhnselected k_static">Privacy policy
+</span>
 </li>
 <li>
-<a href="/PressCenter-c2-Press_Coverage.html">In the news</a>
+<a class="k_static" href="/pages/terms.html">
+Terms of Use</a>
 </li>
 <li>
-<a href="/PressCenter-c1-Press_Releases.html">Press releases</a>
+<a class="k_static" href="/pages/mobile.html">
+Mobile Terms of Use</a>
 </li>
 <li>
-<a href="/PressCenter-c3-Awards.html">Awards</a>
+<a class="k_press_center_home" href="/PressCenter">
+Press centre</a>
 </li>
 <li>
-<a href="/pages/getlisted.html">Get listed</a>
+<a class="k_press_center" href="/PressCenter-c2-Press_Coverage.html">
+In the news</a>
 </li>
 <li>
-<a rel="nofollow" href="/UserReview">Write a review</a>
+<a class="k_press_center" href="/PressCenter-c1-Press_Releases.html">
+Press releases</a>
 </li>
 <li>
-<a href="/pages/management_response.html">Management response</a>
+<a class="k_press_center" href="/PressCenter-c3-Awards.html">
+Awards</a>
 </li>
 <li>
-<a href="/TravelAdvisory">Travel Advisories</a>
+<a class="k_get_listed" href="/GetListedNew">
+Get listed</a>
+</li>
+<li>
+<a class="k_user_review" href="/UserReview">
+Write a review</a>
+</li>
+<li>
+<a class="k_static" href="/pages/management_response.html">
+Management response</a>
+</li>
+<li>
+<a class="k_travel_advisory" href="/TravelAdvisory">
+Travel Advisories</a>
 </li>
 </ul>
 </div>
-</div><!--/ LEFTNAV-->
-<div id="BODYCON" class="col poolA">
+</div>
+<div id="BODYCON" class="col poolA" typeof="v:Organization">
+<div class="crumbs">
+<div> <ul>
+<li>
+<a href="/" id="HOME">Home</a>
+</li>
+</ul>
+</div>
+</div>
 <div class="wrpHeader">
 </div>
 <h1>Privacy policy</h1>
 <div class="pageTools"></div>
-<p>TripAdvisor has provided this privacy policy because we value your right to privacy. This policy is effective as of September 8, 2008 and governs the collection of personal information through this website on or after this date. If you have not registered or otherwise provided personal information through this site on or after September 8, 2008, please refer to our <a href="/pages/privacy_pre_060407.html" target="_blank">previous privacy policy</a> for information about how your personal information will be treated.</p>
-<p>This policy describes the types of information TripAdvisor collects from its users and how that information is used. Please read this policy carefully before providing us with any personal information. If you have questions about this policy, <a rel="nofollow" href="/Feedback">contact us</a>.</p>
-<h3>Information we collect.</h3><br>
+<p>This Web site (the "Site") is operated by TripAdvisor LLC, 141 Needham Street, Newton, MA 02464, USA.</p>
+<p>TripAdvisor has provided this privacy policy because we value your right to privacy. This policy is effective from the effective date set out at the end of this Privacy Policy, and governs the collection and use of personal information through this Site on or after this date.</p>
+<p>This policy describes the types of information TripAdvisor collects from its users and how that information is used. Please read this policy carefully before providing us with any personal information. By using this Site, you agree to TripAdvisor's use of your personal information in accordance with this policy. If you do not agree with the terms of this policy, please do not use this Site. If you have questions about this Privacy Policy, please contact us at:
+</p>
+<p style="margin:0 0 12px 12px;">
+<a rel="nofollow" href="/GeneralSupport">General Support</a><br><br>
+</p><h3>Information we collect.</h3><br>
 <h4>1. Unregistered users</h4>
-<p>We encourage you to register with us in order to take advantage of TripAdvisor's many personalization features. However, you may choose not to register and take advantage of any feature of our site where registration is not required.</p>
-<p>If you do not register, then the information we collect from you is limited. We log your IP address in order to help diagnose problems with our server, administer our Web site and track usage statistics. Your IP address may vary each time you visit, or it may be the same, depending on whether you access our site through an always-on type of Internet connection (e.g., cable modem or DSL), or through a dial-up connection (e.g., AOL or Earthlink). Either way, it would be extremely difficult for us to identify you through your IP address, and we make no attempt to do so. If you reached our site by clicking on a link or advertisement on another site, then we also log that information. This helps us to maximize our Internet exposure, and to understand the interests of our users. All of this information is collected and used only in the aggregate; that is, it is entered into our database, where we can use it to generate overall reports on our visitors, but not reports about individual visitors.</p>
-<p>We also place small files known as "cookies" (and/or similar technology) on your computer's hard drive to maintain the integrity of our content and to provide our users with a better site experience. A cookie may contain information that allows us to track your path through our Web site and to determine whether you have visited us before. However, unless you register with us, it contains no personally identifiable information that would allow us to identify you. Cookies cannot be used to read data off of your hard drive, and cannot retrieve information from any other cookies created by other Web sites. We use cookies in this manner to help us understand how visitors use our site, and to help us to improve our site. You may refuse to accept a cookie from us by following the procedures specific to your Web browser. Although you may do so, you may find that your browser reacts strangely when visiting not only our Web site, but other Web sites as well. Since cookies don't provide us with any information from which we can identify you, we suggest you allow us to place one on your computer.</p>
-<p></p>
-<p>If you visit our site by "clicking-through" from a site operated by one of our partners, and you have registered with that partner, then certain information about you that you have provided to that partner may be transmitted to us. You should review the privacy policy of the Web site from which you reached our site in order to determine what information was collected and how you agreed that our partner could use that information. Regardless of what information was transmitted to us, however, we don't keep it unless you register with us.</p>
+<p>We encourage you to register with us in order to take advantage of TripAdvisor's many personalization features. However, you may choose not to register and take advantage of any feature of our Site where registration is not required.</p>
+<p>We log your IP address in order to help diagnose problems with our server, administer our Site and track usage statistics. Your IP address may vary each time you visit, or it may be the same, depending on whether you access our Site through an always-on type of Internet connection (e.g., cable modem or DSL), or through a dial-up connection (e.g., AOL or Earthlink). Either way, it would be extremely difficult for us to identify you through your IP address, and we make no attempt to do so. If you reached our Site by clicking on a link or advertisement on another site, then we also log that information. This helps us to maximize our Internet exposure, and to understand the interests of our users. All of this information is collected and used only in the aggregate; that is, it is entered into our database, where we can use it to generate overall reports on our visitors, but not reports about individual visitors.</p>
+<p>We also place a small file known as a "cookie" on your computer's hard drive. A cookie may contain information that allows us to track your path through our Site and to determine whether you have visited us before. However, unless you register with us, it contains no personally identifiable information that would allow us to identify you. Cookies cannot be used to read data off of your hard drive, and cannot retrieve information from any other cookies created by other Web sites. We use cookies in this manner to help us understand how visitors use our Site, and to help us to improve our Site. You may refuse to accept a cookie from us by following the procedures specific to your Web browser. Although you may do so, you may find that your browser doesn't properly react when visiting not only our Site, but other Web sites as well. Please note that since cookies don't provide us with any information from which we can identify you, we suggest you allow us to place one on your computer so you can fully enjoy the Site's features.</p>
+<p>If you visit our Site by "clicking-through" from a site operated by one of our partners, and you have registered with that partner, then certain information about you that you have provided to that partner may be transmitted to us. You should review the privacy policy of the Web site from which you reached our Site in order to determine what information was collected and how you agreed that our partner could use that information. Regardless of what information was transmitted to us, however, we don't keep it unless you register with us.</p>
+<p>If you access third party services, such as social media services, through our Web site or before coming to our Web site, we may collect information such as your user name, password, and other information made available to us through those services in order to improve and personalize your use of our Web site.</p>
+<p>We have partnered with Facebook to provide Instant Personalization on TripAdvisor for members of Facebook. If you have Instant Personalization set to "enabled" in your Facebook privacy settings and you are logged into Facebook, then TripAdvisor will be personalized for you when you visit the Web site, even if you are a first-time user of TripAdvisor’s Web site. For example, we will show you reviews that your Facebook friends have posted on TripAdvisor and places they have visited. In order to provide you with this personalized experience, Facebook provides us with information that you have chosen to make available pursuant to your Facebook privacy settings. That information may include your name, profile picture, gender, friend lists and any other information you have chosen to make available.</p>
+<p>When you first visit TripAdvisor, you will see an option to turn off Instant Personalization in just one click. If you decide to turn it off at a later date, you can do so by first logging into Facebook and clicking on the disable link on <a href="http://www.tripadvisor.com.au/instantpersonalization?frame=deauth">this page</a>, or by scrolling over the "Learn More" link on the top of the page on TripAdvisor and clicking on "How to turn off personalization". You can also turn off Instant Personalization by editing your privacy settings on Facebook. Please note that, if you have Facebook friends who are using TripAdvisor, they may also have shared information about you with us through Facebook. If you wish to prevent that sharing, you can do so by editing your Facebook privacy settings.</p><p>
+</p><p><a href="http://www.facebook.com/instantpersonalization/">Learn more about Instant Personalization</a> on Facebook or read TripAdvisor’s <a href="http://www.tripadvisor.com.au/vpages/ip_faq.html">Instant Personalization FAQ’s.</a></p>
+<p>
+When you use a TripAdvisor application (the "Application") on a mobile phone or tablet device ("Device"), we will collect and use information about you in broadly the same way and for substantially similar purposes as when you use a TripAdvisor website. In addition, we may collect information about your location, if you have instructed your Device to send such information to the Application, via the privacy settings on that Device, or if you have uploaded photos tagged with location information. We will use the location information collected from your Device or photos to enhance your use of the Application. For example, we may use your location to show you reviews of hotels or restaurants near you. You can change the privacy settings of your Device at any time, in order to turn off the functionality to share location information with the Application and/or the functionality to tag your photos with location information. If you have any queries about the privacy settings of your Device, we suggest you contact the manufacturer of your Device or your mobile service provider for help.
+</p>
+<p>
+Please be aware that calls to and from TripAdvisor may be recorded.&nbsp; We may use the call recordings to monitor our customer service for quality or compliance purposes, to check the accuracy of the information you provide us, for fraud prevention purposes, or to provide training to our staff.&nbsp; We will retain the call recordings for as long as reasonably necessary to perform such activities and then delete them.&nbsp; Any personal information obtained from you during the call will be treated in accordance with the provisions of this Privacy Policy.
+</p>
 <h4>2. Registered users</h4>
-<p>If you choose to register with us, you'll be able to add content to our site. For example, you may post your own travel reviews and participate in our discussion forums. You will also be able to email TripAdvisor content to yourself and others. In addition, you will benefit from the ability to personalize your TripAdvisor site experience. The benefits of registering will increase over time as we get to know you better and introduce new features. We encourage you to register so that you can experience everything that TripAdvisor has to offer!</p>
-<p>If you register with us, we will collect personal information from you in addition to the non-personal information described above. That personal information may include your name, email address, mailing address, telephone number, travel preferences, user name and password, as well as contact information for other people that you provide to us. The information we collect may vary, but we only collect the information that you manually enter into our forms or otherwise authorize us to collect. We may store all or some of that information in a cookie file on your hard drive, so that our system will recognize you each time you visit our site. In that way, we can save your preferences from visit to visit and present you with a customized Web site, without requiring you to log into our site every time you visit. To improve services and enhance personalization, we may periodically obtain information about you from other independent third-party sources and add it to your registration information. Additionally, authorized TripAdvisor personnel may update your registration information to accurately reflect any new information included in communications received from you.</p>
-<p>If you visit our site by "clicking-through" from a site operated by one of our partners, and you have registered with that partner, then certain information about you that you have provided to that partner may be transmitted to us. You should review the privacy policy of the Web site from which you reached our site in order to determine what information was collected and how you agreed that our partner could use that information. We may or may not retain that information; if we do, then we will only use it in accordance with our privacy policy, regardless of the policy of the partner site from which you came to us.</p>
-<p>If you reach our site through one of our partners (whether or not you have registered with our partner), and you choose to register with us, we may be required to give our partner some or all of your registration information. We will only do so in accordance with this policy, but we cannot control how our partner uses the information. If you have questions about our partner's privacy policy, you should review their policy before providing information to us. Of course, you can ensure that the personal information you provide to us is not shared with our partners (except in accordance with this policy), by visiting us directly instead of clicking-through from one of our partners.</p>
+<p>If you choose to register with us, you'll be able to add content to our Site. For example, you may post your own travel reviews and participate in our discussion forums. You will also be able to email TripAdvisor content to yourself and others. In addition, you will benefit from the ability to personalize your TripAdvisor Site experience. The benefits of registering will increase over time as we get to know you better and introduce new features. We encourage you to register so that you can experience everything that TripAdvisor has to offer!</p>
+<p>If you register with us, we will collect personal information from you in addition to the non-personal information described above. That personal information may include the information you manually enter into our forms such as your name, email address, mailing address, telephone number, travel preferences, user name and password or contact information for other people. We may store all or some of that information in a cookie file on your hard drive, so that our system will recognize you each time you visit our site. In that way, we can save your preferences from visit to visit and present you with a customized Web site, without requiring you to log into our Site every time you visit. To improve services and enhance personalization, we may periodically obtain information about you from other independent third-party sources from whom we have lawfully obtained this data and add it to your registration information. Additionally, authorized TripAdvisor personnel may update your registration information to accurately reflect any new information included in communications received from you.</p>
+<p>If you visit our Site by "clicking-through" from a site operated by one of our partners, and you have registered with that partner, then certain information about you that you have provided to that partner may be transmitted to us. You should review the privacy policy of the Web site from which you reached our Site in order to determine what information was collected and how you agreed that our partner could use that information. We may or may not retain that information; if we do, then we will only use it in accordance with our privacy policy, regardless of the policy of the partner site from which you came to us.</p>
+<p>If you reach our Site through one of our partners (whether or not you have registered with our partner), and you choose to register with us, we may be required to give our partner some or all of your registration information. We will only do so in accordance with this policy, but we cannot control how our partner uses the information. If you have questions about our partner's privacy policy, you should review their policy before providing information to us. Of course, you can ensure that the personal information you provide to us is not shared with our partners (except in accordance with this policy), by visiting us directly instead of clicking-through from one of our partners.</p>
+<p>If you access third party services, such as social media services, through our Web site or before coming to our Web site, we may collect information such as your user name, password, and other information made available to us through those services in order to improve and personalize your use of our Web site. We have partnered with Facebook to provide Instant Personalization on TripAdvisor for members of Facebook. See the section for ‘Unregistered users” above for further information.</p>
 <h3>How we use the personal information we collect.</h3>
-<p>We use the personal information we collect to help both of us! As we mentioned above, registering with us allows you to personalize our Web site so that it is most useful to you. It also allows you to log into our site automatically each time you visit, rather than manually typing your user name and password every time. We may also use your personal information to periodically contact you with news or important information from TripAdvisor, to provide you with other information or invitations related to your membership or the TripAdvisor community, and to request your feedback on our site. In addition to these periodic updates, we may email you additional materials, but only if you specifically request them. These might include opt-in newsletters and other materials that you proactively request from TripAdvisor.</p>
-<p>In addition to these communications, if you have provided an email address, we may use your personal information to send you notifications about special offers or to tell you about opportunities available from our partners. You may opt-out of any or all marketing communications from TripAdvisor in any commercial e-mail we send or at any time, as well as access and update your personal information, by visiting <a href="http://www.tripadvisor.com/MemberProfile" target="_blank">http://www.tripadvisor.com/MemberProfile</a>.</p>
+<p>We use the personal information we collect to help both of us! As we mentioned above, registering with us allows you to personalize our Site so that it is most useful to you. It also allows you to log into our Site automatically each time you visit, rather than manually typing your user name and password every time. We may also use your personal information to periodically contact you with news or important information from TripAdvisor, with communications from other TripAdvisor members, and/or to request your feedback on our Site. In addition to these periodic updates, we may email you additional materials, but only if you specifically request them. These might include opt-in newsletters and other materials that you proactively request from TripAdvisor.</p>
+<p>In addition to these communications, if you have provided an email address, we may use your personal information to send you notifications about special offers or to tell you about opportunities available from our partners, subject to your consent (which may be withdrawn at any time in the manner set forth herein). </p>
+<p>You may opt-out of any or all marketing communications from TripAdvisor in any commercial e-mail we send or at any time, as well as access and update your personal information, by visiting <a href="http://www.tripadvisor.com.au/MemberProfile" rel="nofollow">http://www.tripadvisor.com.au/MemberProfile</a>.</p>
 <p>We may also use certain information that you provide in order to present you with advertising that you may find interesting. This benefits both of us. It benefits us because advertising helps pay the bills, and we can charge our advertisers more if they know that their ads will be seen by somebody more likely to find it useful. It benefits you because you see advertising that may actually be interesting to you, rather than annoying.</p>
-<p>You can cancel your registration with us by <a rel="nofollow" href="/Feedback">e-mailing us</a>, and placing your email address in the subject of the e-mail. We will send you an e-mail to confirm your request. After we receive confirmation, we will remove your information from our active database, but some information may remain in our archives. We may not be able to remove your information from our partners' databases, if we have transmitted any information to them.</p>
+<p>You can cancel your registration by contacting us at:
+</p>
+<p style="margin:0 0 12px 12px;">
+<a rel="nofollow" href="/GeneralSupport">General Support</a><br><br>
+We will remove your information from our active database, but some information may remain in our archives for an additional period of time before being deleted. We may not be able to remove your information from our partners' databases, if we have transmitted any information to them.</p>
 <h3>Disclosure of your personal information.</h3>
 <p>TripAdvisor does not sell or rent any personal information to any third party, other than our partners, as discussed in this policy. We may aggregate personal information from all of our users and provide that information in the aggregate to other parties, including advertisers, for marketing and promotional purposes. However, if we do so, that information will not be in a form that will allow any third party to identify you personally.</p>
-<p>We may share some of your personally identifiable information with our parent company, our subsidiaries and sister companies around the world that are committed to providing you with a comprehensive array of travel packages and services to meet your travel needs. Sharing this information allows us to better understand the ways in which our various product and service offerings can assist travelers. It also enables us to provide you with information about travel opportunities in which you might be interested. We do not place restrictions on the use of personal information by our parent company, subsidiaries, or affiliates but they will treat it at least as protectively as they treat information they obtain from their other users. They also will comply with applicable laws governing the transmission of promotional communications, and give you an opportunity in any such email that they send to choose not to receive such promotional e-mail messages in the future.</p>
-<p>We also may share your personal information with third-parties specifically engaged by TripAdvisor to provide services to TripAdvisor (such as market research firms, marketing services providers and advertising agencies), in which case we will require those parties to agree to use any such personally-identifiable data solely for the purpose of providing the specified services to TripAdvisor. As you might expect, TripAdvisor must cooperate with legal authorities, and may in some circumstances be required to disclose personally identifiable information in response to requests from law enforcement authorities, or in response to a subpoena or other legal process. We don't expect this to happen, but if it does, we will provide only the information required. In other words, we will not simply turn over our database in response to a specific legal requirement. We can also turn over information about you if we believe we must in order to prevent a violation of the law, and by accepting this policy, you consent to our doing so, in our sole discretion. You also consent to our disclosing information about you in the course of legal proceedings if we are legally required to do so, if we reasonably believe that doing so may mitigate our liability, or if doing so will assist us in enforcing our legal rights. We also may share your information in connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, and in the unlikely event of bankruptcy.</p>
-<p>Your profile on TripAdvisor will be publicly viewable and identifiable via your screen name. TripAdvisor will not share your email address with any other members nor display it any public manner. If you choose to participate in our member-to-member communications programs, you may be contacted by other TripAdvisor members, using TripAdvisor as an intermediary. All TripAdvisor members will have the option to turn off the member-to-member communication features at any time.</p>
+<p>We may share some of your personally identifiable information with our parent company in the United States and our subsidiaries and sister companies around the world that are committed to providing you with a comprehensive array of travel packages and services to meet your travel needs. Sharing this information allows us to better understand the ways in which our various product and service offerings can assist travelers. It also enables us to provide you with information about travel opportunities in which you might be interested. We do not place restrictions on the use of personal information by our parent company, subsidiaries, or affiliates but they will treat it at least as protectively as they treat information they obtain from their other users. They also will comply with applicable laws governing the transmission of promotional communications, and give you an opportunity in any such email that they send to choose not to receive such promotional e-mail messages in the future.</p>
+<p><b>PLEASE BE AWARE THAT THE LAWS OF UNITED STATES AND MOST COUNTRIES OUTSIDE THE EUROPEAN ECONOMIC AREA ARE GENERALLY NOT REGARDED AS PROVIDING "ADEQUATE" DATA PROTECTION AS CONTEMPLATED UNDER ARTICLE 25 OF THE EUROPEAN UNION'S DATA PROTECTION DIRECTIVE (95/46/EC). BY AGREEING TO THIS PRIVACY POLICY AND USING THE SITE, YOU ARE CONSENTING TO (i) THE TRANSFER OF SUCH PERSONAL INFORMATION TO THESE COUNTRIES (ii) USE IN THAT COUNTRY IN ACCORDANCE WITH THIS POLICY.</b></p>
+<p>We also may share your personal information with third-parties specifically engaged by TripAdvisor to provide services to TripAdvisor (such as market research firms, marketing services providers and advertising agencies), in which case we will require those parties to agree to use any such personally-identifiable data solely for the purpose of providing the specified services to TripAdvisor. As you might expect, TripAdvisor must cooperate with legal authorities, and may in some circumstances be required to disclose personally identifiable information in response to requests from law enforcement authorities, or in response to legal proceedings. We don't expect this to happen, but if it does, we will provide only the information required. In other words, we will not simply turn over our database in response to a specific legal requirement. We can also turn over information about you if we believe we must in order to prevent a violation of the law, and by accepting this policy, you consent to our doing so, in our sole discretion. You also consent to our disclosing information about you in the course of legal proceedings if we are legally required to do so, if we reasonably believe that doing so may mitigate our liability, or if doing so will assist us in enforcing our legal rights. We also may share your information in connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, and in the unlikely event of insolvency.</p>
+<p>Your profile and contributions on TripAdvisor will be publicly viewable and identifiable via your screen name. TripAdvisor encourages its members to create screen names that are not visibly connected to their first and last names. TripAdvisor will share neither your email address nor first and last names with other members, nor will we display them in any public manner, unless you expressly choose to have us do so. </p>
+<h3>Member-to-member communication features.</h3>
+<p>When you sign up on TripAdvisor, member-to-member communication features are automatically enabled. These features, such as traveller networks and private messaging, allow you and other TripAdvisor members to communicate with each other as well as with non-members, via TripAdvisor. </p>
+<p>TripAdvisor members can turn off member-to-member features at any time via their member profile, should they wish to do so.</p>
+<p>If you do participate in these features you agree that:
+</p><ul>
+<li>
+you are willing to accept communication from other TripAdvisor members
+</li>
+<li>
+you have already obtained prior consent from contacts in your personal email address book for us to send them such communication on your behalf.
+</li>
+</ul><p></p>
+<p>Non-members always have the option to stop receiving further communication from TripAdvisor members. </p>
+<p>We have designed these features to avoid any disclosure of your personal information to other users and to allow you to decline to participate, should you wish to do so. Your e-mail address is never disclosed to other TripAdvisor members or vice versa. </p>
 <h3>How you can review and update your personal information.</h3>
-<p>You can review and update the personal information you have provided through the registration process by visiting <a href="http://www.tripadvisor.com/MemberProfile" target="_blank">http://www.tripadvisor.com/MemberProfile</a>.</p>
+<p>You can review and update the personal information you have provided through the registration process by visiting <a href="http://www.tripadvisor.com.au/MemberProfile" rel="nofollow">http://www.tripadvisor.com.au/MemberProfile</a>. You can access your personal information and, where shown to be incorrect, correct the information.</p>
 <h3>Steps we take to protect your personal information.</h3>
-<p>TripAdvisor has implemented security procedures to help protect the personal information stored in our systems. For example, we limit access to personal information about you to employees who we believe reasonably need to come into contact with that information. We also employ processes (such as password hashing, login auditing, and idle session termination) to protect against unauthorized access to your personal information. But please know that there is no way for us to guarantee the security of your personal information.</p>
-<h3>Children's Privacy</h3>
-<p>This website is a general audience site, and we do not knowingly collect information about children. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information.</p>
+<p>TripAdvisor has implemented security procedures to help protect the personal information stored in our systems. For example, we limit access to personal information about you to employees who we believe reasonably need to come into contact with that information. We also employ processes (such as password hashing, login auditing, and idle session termination) to protect against unauthorized access to your personal information. While we implement appropriate technical and organisational measures to protect against unauthorised or unlawful processing of personal information and against accidental loss or destruction of, or damage to personal information there is no way for us to guarantee the absolute security of your personal information. </p>
+<h3>Children's privacy.</h3>
+<p>This Site is a general audience site, and we do not knowingly collect information about children. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information.</p>
 <h3>Changes to this Privacy Policy.</h3>
 <p>We reserve the right to change this policy should we deem it advisable to do so. If we make material changes that will affect personal information we have already collected from you, we will make reasonable efforts to notify you of the changes and to give you the opportunity to amend or cancel your registration.</p>
-</div><!--/ BODYCON-->
-</div><!--/ MAIN-->
+<p style="padding-top:4px; border-top:2px solid #589442; color:#9f9f9f; font-style:italic; text-align:right;">
+This Privacy Policy is effective as of July 1, 2011
+</p>
+</div>
+<div id="LVC_POPULAR_CITIES" class="lvcitiesmodule">
+<h2 class="title">Travelling to a popular city?</h2> <div class="textabove">Know before you go. Get traveller reviews &amp; opinions on hotels in top cities. Plus, compare prices and check availability. Find the hotel information you need on TripAdvisor to plan the perfect stay!</div>
+<div class="collageblock">
+<div class="leftcolm">
+<div class="singlecol_l">
+<div class="smallbox">
+<a href="/Hotels-g294217-Hong_Kong-Hotels.html" class="city_link">
+<div class="citydtlname">Hong Kong Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g294217-Hong_Kong-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 111px; width: 170px">
+<img id="lazyload_-116556147_0" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Hong Kong" width="170" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">161,841 reviews</div>
+</div>
+</a>
+</div>
+</div>
+<div class="singlecol_r">
+<div class="smallbox">
+<a href="/Hotels-g186338-London_England-Hotels.html" class="city_link">
+<div class="citydtlname">London Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g186338-London_England-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 111px; width: 170px">
+<img id="lazyload_-116556147_1" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="London" width="170" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">883,932 reviews</div>
+</div>
+</a>
+</div>
+</div>
+<div class="bigbox">
+<a href="/Hotels-g255060-Sydney_New_South_Wales-Hotels.html" class="city_link">
+<div class="citydtlname">Sydney Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g255060-Sydney_New_South_Wales-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 243px; width: 360px">
+<img id="lazyload_-116556147_2" height="243" style="height: 243px; width: 367px; margin-left: -3px;" alt="Sydney" width="360" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">149,473 reviews</div>
+</div>
+</a>
+</div>
+<div class="singlecol_l">
+<div class="smallbox">
+<a href="/Hotels-g255103-Perth_Western_Australia-Hotels.html" class="city_link">
+<div class="citydtlname">Perth Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g255103-Perth_Western_Australia-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 111px; width: 170px">
+<img id="lazyload_-116556147_3" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Perth" width="170" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">33,056 reviews</div>
+</div>
+</a>
+</div>
+<div class="smallbox">
+<a href="/Hotels-g45963-Las_Vegas_Nevada-Hotels.html" class="city_link">
+<div class="citydtlname">Las Vegas Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g45963-Las_Vegas_Nevada-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 111px; width: 170px">
+<img id="lazyload_-116556147_4" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Las Vegas" width="170" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">482,914 reviews</div>
+</div>
+</a>
+</div>
+</div>
+<div class="singlecol_r">
+<div class="smallbox">
+<a href="/Hotels-g294265-Singapore-Hotels.html" class="city_link">
+<div class="citydtlname">Singapore Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g294265-Singapore-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 111px; width: 170px">
+<img id="lazyload_-116556147_5" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Singapore" width="170" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">175,175 reviews</div>
+</div>
+</a>
+</div>
+<div class="smallbox">
+<a href="/Hotels-g255093-Adelaide_Greater_Adelaide_South_Australia-Hotels.html" class="city_link">
+<div class="citydtlname">Adelaide Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g255093-Adelaide_Greater_Adelaide_South_Australia-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 112px; width: 170px">
+<img id="lazyload_-116556147_6" height="112" style="height: 127px; width: 170px;" alt="Adelaide" width="170" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">26,957 reviews</div>
+</div>
+</a>
+</div>
+</div>
+</div> <div class="rightcolm">
+<div class="singlecol_l">
+<div class="smallbox">
+<a href="/Hotels-g298570-Kuala_Lumpur_Wilayah_Persekutuan-Hotels.html" class="city_link">
+<div class="citydtlname">Kuala Lumpur Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g298570-Kuala_Lumpur_Wilayah_Persekutuan-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 111px; width: 170px">
+<img id="lazyload_-116556147_7" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Kuala Lumpur" width="170" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">94,932 reviews</div>
+</div>
+</a>
+</div>
+<div class="smallbox">
+<a href="/Hotels-g528934-Byron_Bay_New_South_Wales-Hotels.html" class="city_link">
+<div class="citydtlname">Byron Bay Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g528934-Byron_Bay_New_South_Wales-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 112px; width: 170px">
+<img id="lazyload_-116556147_8" height="112" style="height: 127px; width: 170px;" alt="Byron Bay" width="170" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">9,539 reviews</div>
+</div>
+</a>
+</div>
+<div class="smallbox">
+<a href="/Hotels-g255066-Darwin_Top_End_Northern_Territory-Hotels.html" class="city_link">
+<div class="citydtlname">Darwin Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g255066-Darwin_Top_End_Northern_Territory-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 112px; width: 170px">
+<img id="lazyload_-116556147_9" height="112" style="height: 127px; width: 170px;" alt="Darwin" width="170" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">12,574 reviews</div>
+</div>
+</a>
+</div>
+<div class="smallbox">
+<a href="/Hotels-g294226-Bali-Hotels.html" class="city_link">
+<div class="citydtlname">Bali Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g294226-Bali-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 111px; width: 170px">
+<img id="lazyload_-116556147_10" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Bali" width="170" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">287,991 reviews</div>
+</div>
+</a>
+</div>
+<div class="smallbox">
+<a href="/Hotels-g255068-Brisbane_Queensland-Hotels.html" class="city_link">
+<div class="citydtlname">Brisbane Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g255068-Brisbane_Queensland-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 111px; width: 170px">
+<img id="lazyload_-116556147_11" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Brisbane" width="170" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">49,998 reviews</div>
+</div>
+</a>
+</div>
+</div>
+<div class="doublecol">
+<div class="singlecol_l">
+<div class="smallbox">
+<a href="/Hotels-g293916-Bangkok-Hotels.html" class="city_link">
+<div class="citydtlname">Bangkok Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g293916-Bangkok-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 111px; width: 170px">
+<img id="lazyload_-116556147_12" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Bangkok" width="170" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">277,289 reviews</div>
+</div>
+</a>
+</div>
+<div class="smallbox">
+<a href="/Hotels-g255097-Hobart_Tasmania-Hotels.html" class="city_link">
+<div class="citydtlname">Hobart Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g255097-Hobart_Tasmania-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 111px; width: 170px">
+<img id="lazyload_-116556147_13" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Hobart" width="170" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">20,547 reviews</div>
+</div>
+</a>
+</div>
+</div>
+<div class="singlecol_r">
+<div class="smallbox">
+<a href="/Hotels-g255337-Gold_Coast_Queensland-Hotels.html" class="city_link">
+<div class="citydtlname">Gold Coast Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g255337-Gold_Coast_Queensland-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 112px; width: 170px">
+<img id="lazyload_-116556147_14" height="112" style="height: 127px; width: 170px;" alt="Gold Coast" width="170" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">61,178 reviews</div>
+</div>
+</a>
+</div>
+<div class="smallbox">
+<a href="/Hotels-g255069-Cairns_Cairns_Region_Queensland-Hotels.html" class="city_link">
+<div class="citydtlname">Cairns Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g255069-Cairns_Cairns_Region_Queensland-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 111px; width: 170px">
+<img id="lazyload_-116556147_15" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Cairns" width="170" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">33,529 reviews</div>
+</div>
+</a>
+</div>
+</div>
+<div class="bigbox">
+<a href="/Hotels-g255057-Canberra_Greater_Canberra_Australian_Capital_Territory-Hotels.html" class="city_link">
+<div class="citydtlname">Canberra Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g255057-Canberra_Greater_Canberra_Australian_Capital_Territory-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 244px; width: 360px">
+<img id="lazyload_-116556147_16" height="244" style="height: 269px; width: 360px;" alt="Canberra" width="360" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">23,037 reviews</div>
+</div>
+</a>
+</div>
+<div class="singlecol_l">
+<div class="smallbox">
+<a href="/Hotels-g255100-Melbourne_Victoria-Hotels.html" class="city_link">
+<div class="citydtlname">Melbourne Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g255100-Melbourne_Victoria-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 111px; width: 170px">
+<img id="lazyload_-116556147_17" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Melbourne" width="170" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">113,104 reviews</div>
+</div>
+</a>
+</div>
+</div>
+<div class="singlecol_r">
+<div class="smallbox">
+<a href="/Hotels-g293920-Phuket-Hotels.html" class="city_link">
+<div class="citydtlname">Phuket Accommodation: Hotels</div>
+</a>
+<a href="/Hotels-g293920-Phuket-Hotels.html" class="photo_link">
+<div class="sizedThumb" style="height: 111px; width: 170px">
+<img id="lazyload_-116556147_18" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Phuket" width="170" class="photo_image">
+</div>
+<div class="transbox">
+<div class="citydtlreviews">152,437 reviews</div>
+</div>
+</a>
+</div>
+</div>
+</div> </div> </div> <div class="textbelow">Plan and have the perfect trip! TripAdvisor is the world’s largest travel site with more than 60 million reviews and opinions by travellers around the world, you’ll find the best places to eat, sleep, and play, wherever you go!</div>
+</div>
+</div> </div>
+<div id="FOOT_CONTAINER">
 <div id="FOOT">
-<div class="corporate">
+<div class="corporate wrap">
 <div class="col sidebar">
 <div class="block">
 <dl class="about">
-<dt>About TripAdvisor®</dt> <dd> TripAdvisor® provides recommendations for hotels, resorts, inns, vacations, travel packages, vacation packages, travel guides and lots more.</dd>
+<dt>About TripAdvisor®</dt> <dd> TripAdvisor features reviews and advice on hotels, resorts, flights, holiday rentals, holiday packages, travel guides, and lots more.</dd>
 </dl>
-</div><!--/ block-->
-</div><!--/ col.sidebar-->
+</div> </div>
 <div class="col balance">
 <div class="block">
 <dl class="sep brand">
-<dt><img src="http://cdn.tripadvisor.com/img2/branding/identityFOOT.png" alt="TripAdvisor"></dt>
-<dd class="meta">Recommendations for hotels, resorts, inns, vacations, travel packages, travel guides and lots more!</dd>
+<dt>
+<img class="sprite-identityFOOT" src="http://c1.tacdn.com/img2/x.gif" alt="TripAdvisor">
+</dt>
+<dd class="meta">
+Reviews and advice on hotels, resorts, flights, holiday rentals, holiday packages, and lots more!
+</dd>
 </dl>
 <dl class="sep flags">
-<dt>Select a TripAdvisor site:</dt>
+<dt>Visit TripAdvisor's international sites:</dt>
 <dd>
-<ul>
-<li>
-<a class="flag_uk js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.co.uk/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
+<ul id="FLAGS" class="">
+<li class="flag_item">
+<a id="flag_us" class="flag_link flag_us" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="TripAdvisor" href="http://www.tripadvisor.com/pages/privacy.html"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="TripAdvisor"></a>
 </li>
-<li>
-<a class="flag_it js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.it/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
+<li class="flag_item">
+<a id="flag_uk" class="flag_link flag_uk" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="Unbiased reviews of hotels, resorts and holidays" href="http://www.tripadvisor.co.uk/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Unbiased reviews of hotels, resorts and holidays"></a>
 </li>
-<li>
-<a class="flag_es js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.es/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
+<li class="flag_item">
+<a id="flag_ca" class="flag_link flag_ca" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="Unbiased reviews of hotels, resorts and holidays" href="http://www.tripadvisor.ca/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Unbiased reviews of hotels, resorts and holidays"></a>
 </li>
-<li>
-<a class="flag_de js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.de/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
+<li class="flag_item">
+<span id="flag_it" class="flag_link flag_it"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Recensioni imparziali di hotel, destinazioni turistiche e soggiorni" title="Recensioni imparziali di hotel, destinazioni turistiche e soggiorni"></span>
 </li>
-<li>
-<a class="flag_fr js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.fr/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
+<li class="flag_item">
+<span id="flag_es" class="flag_link flag_es"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Opiniones imparciales de hoteles, complejos turísticos y vacaciones" title="Opiniones imparciales de hoteles, complejos turísticos y vacaciones"></span>
 </li>
-<li>
-<a class="flag_ie js_noTAPD" rel="nofollow" title="TripAdvisor" href="http://www.tripadvisor.ie/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
+<li class="flag_item">
+<span id="flag_de" class="flag_link flag_de"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Unvoreingenommene Bewertungen von Hotels, Resorts und Urlaubsaufenthalten" title="Unvoreingenommene Bewertungen von Hotels, Resorts und Urlaubsaufenthalten"></span>
 </li>
-<li>
-<a class="flag_ja js_noTAPD" title="トリップアドバイザー" href="http://www.tripadvisor.jp/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="トリップアドバイザー"></a>
+<li class="flag_item">
+<span id="flag_fr" class="flag_link flag_fr"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Avis impartiaux sur des hôtels, clubs et séjours" title="Avis impartiaux sur des hôtels, clubs et séjours"></span>
 </li>
-<li>
-<a class="flag_in js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.in/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
+<li class="flag_item">
+<a id="flag_ja" class="flag_link flag_ja" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="ホテル" href="http://www.tripadvisor.jp/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="ホテル"></a>
+</li>
+<li class="flag_item">
+<a id="flag_cn" class="flag_link flag_cn" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="对酒店，度假村，度假的公平点评" href="http://www.daodao.com/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="对酒店，度假村，度假的公平点评"></a>
+</li>
+<li class="flag_item">
+<a id="flag_in" class="flag_link flag_in" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="TripAdvisor" href="http://www.tripadvisor.in/pages/privacy.html"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="TripAdvisor"></a>
+</li>
+<li class="flag_item">
+<a id="flag_sv" class="flag_link flag_sv" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="Objektiva omdömen om hotell, hotellområden och semestrar" href="http://www.tripadvisor.se/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Objektiva omdömen om hotell, hotellområden och semestrar"></a>
+</li>
+<li class="flag_item">
+<a id="flag_nl" class="flag_link flag_nl" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="Onpartijdige beoordelingen van hotels, resorts en vakanties" href="http://www.tripadvisor.nl/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Onpartijdige beoordelingen van hotels, resorts en vakanties"></a>
+</li>
+<li class="flag_item">
+<a id="flag_pt" class="flag_link flag_pt" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="Avaliações imparciais sobre hotéis, resorts e férias" href="http://www.tripadvisor.com.br/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Avaliações imparciais sobre hotéis, resorts e férias"></a>
+</li>
+<li class="flag_item">
+<a id="flag_tr" class="flag_link flag_tr" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="Oteller, tatil köyleri ve tatiller hakkında tarafsız yorumlar" href="http://www.tripadvisor.com.tr/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Oteller, tatil köyleri ve tatiller hakkında tarafsız yorumlar"></a>
+</li>
+<li class="flag_item">
+<a id="flag_da" class="flag_link flag_da" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="Upartiske anmeldelser af hoteller, feriesteder og ferier" href="http://www.tripadvisor.dk/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Upartiske anmeldelser af hoteller, feriesteder og ferier"></a>
+</li>
+<li class="flag_item">
+<a id="flag_mx" class="flag_link flag_mx" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="TripAdvisor" href="http://www.tripadvisor.com.mx/pages/privacy.html"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="TripAdvisor"></a>
+</li>
+<li class="flag_item">
+<a id="flag_ie" class="flag_link flag_ie" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="Unbiased reviews of hotels, resorts and holidays" href="http://www.tripadvisor.ie/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Unbiased reviews of hotels, resorts and holidays"></a>
+</li>
+<li class="flag_item">
+<a id="flag_eg" class="flag_link flag_eg" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="‫تعليقات  موضوعية حول الفنادق والمنتجعات والعطلات‬" href="http://www.tripadvisor.com.eg/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="‫تعليقات  موضوعية حول الفنادق والمنتجعات والعطلات‬"></a>
+</li>
+<li class="flag_item">
+<a id="flag_el" class="flag_link flag_el" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="Αμερόληπτες κριτικές για ξενοδοχεία, θέρετρα και διακοπές" href="http://www.tripadvisor.com.gr/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Αμερόληπτες κριτικές για ξενοδοχεία, θέρετρα και διακοπές"></a>
+</li>
+<li class="flag_item">
+<a id="flag_sg" class="flag_link flag_sg" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="Unbiased reviews of hotels, resorts and holidays" href="http://www.tripadvisor.com.sg/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Unbiased reviews of hotels, resorts and holidays"></a>
+</li>
+<li class="flag_item">
+<a id="flag_ar" class="flag_link flag_ar" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="Opiniones imparciales sobre hoteles, complejos turísticos y vacaciones" href="http://www.tripadvisor.com.ar/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Opiniones imparciales sobre hoteles, complejos turísticos y vacaciones"></a>
+</li>
+<li class="flag_item">
+<a id="flag_id" class="flag_link flag_id" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="Ulasan objektif tentang hotel, resor, dan liburan" href="http://www.tripadvisor.co.id/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Ulasan objektif tentang hotel, resor, dan liburan"></a>
+</li>
+<li class="flag_item">
+<a id="flag_ko" class="flag_link flag_ko" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="호텔,리조트,여행에 관한 공정한 리뷰" href="http://www.tripadvisor.co.kr/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="호텔,리조트,여행에 관한 공정한 리뷰"></a>
+</li>
+<li class="flag_item">
+<a id="flag_no" class="flag_link flag_no" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="Objektive anmeldelser av hotell, feriesteder og ferier" href="http://no.tripadvisor.com/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Objektive anmeldelser av hotell, feriesteder og ferier"></a>
+</li>
+<li class="flag_item">
+<a id="flag_pl" class="flag_link flag_pl" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="Bezstronne recenzje hoteli, kurortów i wakacji" href="http://pl.tripadvisor.com/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Bezstronne recenzje hoteli, kurortów i wakacji"></a>
+</li>
+<li class="flag_item">
+<a id="flag_ru" class="flag_link flag_ru" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="Беспристрастные отзывы об отелях курортах и местах проведения отпуска" href="http://www.tripadvisor.ru/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="Беспристрастные отзывы об отелях курортах и местах проведения отпуска"></a>
+</li>
+<li class="flag_item">
+<a id="flag_th" class="flag_link flag_th" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="รีวิวที่เป็นกลางสำหรับโรงแรม รีสอร์ท และวันหยุดพักผ่อน" href="http://th.tripadvisor.com/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="รีวิวที่เป็นกลางสำหรับโรงแรม รีสอร์ท และวันหยุดพักผ่อน"></a>
+</li>
+<li class="flag_item">
+<a id="flag_tw" class="flag_link flag_tw" onclick="ta.call('ta.util.link.remTAPD', event, this);" title="對飯店，度假村，度假的公平評論" href="http://www.tripadvisor.com.tw/"><img class="flag" src="http://c1.tacdn.com/img2/sprites/posFlags-V7.gif" alt="對飯店，度假村，度假的公平評論"></a>
 </li>
 </ul>
 </dd>
 </dl>
 <div class="sep internal">
-<span><a rel="nofollow" href="/pages/about_us.html">About Us</a></span> |
-<span><a rel="nofollow" href="/careers">Careers</a></span> | <span><a rel="nofollow" href="/MemberProfile" class="pid432">Membership</a></span> | <span><a href="/pages/site_map_overview.html">Site Map</a></span> | <span><a rel="nofollow" href="http://affiliates.tripadvisor.com/">Become an Affiliate</a></span> | <span><a href="/pages/top200.html">Top Cities</a></span> | <span><a href="/pages/subsitemap/index.html">Hotel Reservations</a></span> | <span><a href="/pages/mtsubsitemap/index.html">Hotel Deals</a></span>
-| <span><a rel="nofollow" href="http://www.cafepress.com/tripadvisor" class="js_popup">TripAdvisor™ Gear</a></span>
-| <span><a rel="nofollow" href="/TCDestinations" class="pid1057">Travelers' Choice</a></span> | <span><a rel="nofollow" href="/help" class="js_popup">Help Center</a></span> </div>
+<span><a href="/PressCenter-c6-About_Us.html">About Us</a></span>
+</div>
 <div class="sep legal">
 <div class="copyright">
-© 2008 TripAdvisor LLC All rights reserved. TripAdvisor <a rel="nofollow" href="/pages/terms.html">Terms of Use</a> and <a rel="nofollow" href="/pages/privacy.html">Privacy Policy</a>.</div>
-<div class="disclaimer">
-* TripAdvisor LLC is not a booking agent and does not charge any service fees to users of our site... (<a href="/pages/pricing_terms.html" rel="nofollow" id="TERMS">more</a>) </div>
-<div class="disclaimer">TripAdvisor LLC is not responsible for content on external web sites. Taxes, fees not included for deals content.</div> </div><!-- sep.legal-->
-</div><!--/ block-->
-</div><!--/ col.balance-->
-</div><!--/ corporate-->
-</div><!-- FOOT-->
-</div><!--/ PAGE-->
+© 2013 TripAdvisor LLC All rights reserved. TripAdvisor <a href="/pages/terms.html">Terms of Use</a> and <a href="/pages/privacy.html">Privacy Policy</a>.</div>
+<div class="vfm_disclaimer">
+</div>
+<div id="PDISCLAIMER" class="disclaimer">
+* TripAdvisor LLC is not a booking agent and does not charge any service fees to users of our site... (<span id="TERMS" class="taLnk hvrIE6" onclick="getFullDisclaimerText()">more</span>) </div>
+<div class="userAgent">
+<b>We noticed that you're using an unsupported browser. The TripAdvisor website may not display properly.</b><br> We support the following browsers:
+<b>Windows:</b>
+<span class="taLnk hvrIE6" onclick="ta.util.ASDF.asdfPopup('PFaSnEitiTI8LuSCMiutLSVLMVTJpcIYat2xE')">Internet Explorer</span>,
+<span class="taLnk hvrIE6" onclick="ta.util.ASDF.asdfPopup('PFaizCSccJWVpEi2VxzLVCL')">Mozilla Firefox</span>.
+<b>Mac:</b>
+<span class="taLnk hvrIE6" onclick="ta.util.ASDF.asdfPopup('PFJ22cV8LaJnitxELTVJIpEVtLtJTJESL')">Safari</span>.
+</div>
+<div class="disclaimer">TripAdvisor LLC is not responsible for content on external web sites. Taxes, fees not included for deals content.</div>
+</div>
+</div> </div> </div>
+</div> </div>
+</div>
+<script>
+</script>
+<script type="text/javascript">
+ta.store('metaCheckRatesUpdateDiv', 'PROVIDER_BLOCK');
+ta.store('checkrates.meta_ui_sk_box_v3', true)
+ta.store('checkrates.one_second_xsell', true);
+</script>
+<script type="text/javascript">
+var metaCheckRatesCSS = 'http://c1.tacdn.com/css2/meta_ui_sk_box_v3-v4034652613b.css';
+ta.store('metaCheckRatesFeatureEnabled', true);
+</script>
+<script type="text/javascript">
+ta.store('meta.dropdownMiniMetaHotels', true);
+var dropdownMetaCSS = "http://c1.tacdn.com/css2/meta_drop_down_overlay-en_AU-v1794344921b.css";
+</script>
+<script type="text/javascript">
+ta.store('meta.dropdownMiniMeta', true);
+var dropdownMetaCSS = "http://c1.tacdn.com/css2/meta_drop_down_overlay-en_AU-v1794344921b.css";
+</script>
+<script type="text/javascript">
+ta.store('metaDatePickerEnabled', true);
+var common_skip_dates = "Search without specific dates";
+ta.store('multiDP.skipDates', "Search without specific dates");         ta.store('multiDP.inDate', "");
+ta.store('multiDP.outDate', "");
+ta.store('multiDP.adultsCount', "2");
+ta.store('multiDP.multiNightsText', "2 nights");         ta.store('multiDP.singleNightText', "1 night");         ta.store('multiDP.singleAdultsText', "1 guest");         ta.store('multiDP.multiAdultsText', "2 guests");         ta.store('multiDP.enterDatesText', "Enter dates");         ta.store('multiDP.checkIn', "Check-in");         ta.store('multiDP.checkOut', "Check-out");         ta.store('multiDP.isMondayFirstDayOfWeek', true);
+ta.store('multiDP.dateSeparator', " - ")
+ta.store('multiDP.abbrevMonthList', ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]);                   ta.store('multiDP.two_field', true);
+ta.store('multiDP.v4', true);
+ta.store('multiDP.v5', false);
+ta.store('multiDP.checkIn', "dd/mm/yyyy");           ta.store('multiDP.checkOut', "dd/mm/yyyy");                           ta.store('ta.meta_single_date_picker', true);
+</script>
+<script type="text/javascript">
+(function(window, ta, undefined){
+try {
+var _gaq = window._gaq = window._gaq || []
+, pageDataStack = ta.analytics.pageData = ta.analytics.pageData || []
+, pageData
+;
+_gaq.push(['_setAccount', 'UA-30198665-1']);
+_gaq.push(['_addIgnoredRef', 'tripadvisor']);
+_gaq.push(['_addIgnoredRef', 'daodao']);
+_gaq.push(['_setCustomVar', 2, 'Member', '-', 3]);
+_gaq.push(['_setCustomVar', 3, 'EntryGeo', 'Turkey-293969', 3]);
+_gaq.push(['_setCustomVar', 4, 'EntryCountry', 'Turkey-293969', 3]);
+_gaq.push(['_setCustomVar', 5, 'EntryServlet', 'Tourism', 3]);
+_gaq.push(['_setCustomVar', 6, 'Pool', 'A', 3]);
+_gaq.push(['_setCustomVar', 7, 'Slice', '2049', 3]);
+_gaq.push(['_setCustomVar', 18, 'MCID', 'TripAdvisor-0', 3]);
+_gaq.push(['_setCustomVar', 21, 'PageType', 'Desktop Page', 3]);
+_gaq.push(['_setCustomVar', 22, 'DeviceType', 'Desktop', 3]);
+_gaq.push(['_setCustomVar', 23, 'IPGeo', 'South San Francisco-33116', 3]);
+_gaq.push(['_setCustomVar', 24, 'ProductType', 'Browser', 3]);
+_gaq.push(['_setCustomVar', 48, 'WebServer', 'web65b', 3]);
+pageData = ta.analytics._JSON_parse('{\"cv\":[[\"_deleteCustomVar\",1],[\"_setCustomVar\",20,\"PP\",\"-287-277-251-274-\",3],[\"_deleteCustomVar\",10],[\"_deleteCustomVar\",25],[\"_deleteCustomVar\",8],[\"_deleteCustomVar\",14],[\"_deleteCustomVar\",11],[\"_deleteCustomVar\",19],[\"_deleteCustomVar\",12],[\"_deleteCustomVar\",13]],\"url\":\"/StaticVelocityXmlPage?xml=privacy.xml\"}');
+pageDataStack.push(pageData);
+if (ta.keep) {
+ta.keep("partials.pageProperties", "287-277-251-274");
+}
+if (ta.store) {
+ta.store("gaMemberState", "-");
+}
+for (var i = 0, l = pageData.cv.length; i < l; i++) {
+_gaq.push(pageData.cv[i]);
+}
+_gaq.push(['_set', 'page', pageData.url]);
+_gaq.push(['_trackPageview']);
+if (ta && ta.queueForLoad) {
+ta.queueForLoad(ta.analytics._insertGAScriptElement, 10, 'global_ga.vm_loadGA');
+}
+ta.analytics.google_analytics_onload = true;
+}
+catch (e) {
+if(ta && ta.util && ta.util.error && ta.util.error.record) {
+ta.util.error.record(e, 'global_ga.vm');
+}
+}
+}(window, ta));
+</script>
+<script type="text/javascript">
+var lazyImgs = [
+{"id":"lazyload_-116556147_0","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2d/d3/hong-kong.jpg"}
+,   {"id":"lazyload_-116556147_1","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2d/df/london.jpg"}
+,   {"id":"lazyload_-116556147_2","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-s/03/08/92/80/sydney-harbour-credit.jpg"}
+,   {"id":"lazyload_-116556147_3","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2d/f8/perth.jpg"}
+,   {"id":"lazyload_-116556147_4","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2d/de/las-vegas.jpg"}
+,   {"id":"lazyload_-116556147_5","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2e/11/singapore.jpg"}
+,   {"id":"lazyload_-116556147_6","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/0d/15/fb/victoria-square.jpg"}
+,   {"id":"lazyload_-116556147_7","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2f/bd/kuala-lumpur.jpg"}
+,   {"id":"lazyload_-116556147_8","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/1a/c2/bd/byron-bay-australia.jpg"}
+,   {"id":"lazyload_-116556147_9","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/48/d8/c1/pandanus-at-sunset-darwin.jpg"}
+,   {"id":"lazyload_-116556147_10","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2f/36/bali.jpg"}
+,   {"id":"lazyload_-116556147_11","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2f/4b/brisbane.jpg"}
+,   {"id":"lazyload_-116556147_12","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2d/ad/bangkok.jpg"}
+,   {"id":"lazyload_-116556147_13","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2d/cf/hobart.jpg"}
+,   {"id":"lazyload_-116556147_14","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/21/7d/3e/gold-coast.jpg"}
+,   {"id":"lazyload_-116556147_15","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2d/bc/cairns.jpg"}
+,   {"id":"lazyload_-116556147_16","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-s/01/2a/12/e9/commonwealth-park.jpg"}
+,   {"id":"lazyload_-116556147_17","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2d/e6/melbourne.jpg"}
+,   {"id":"lazyload_-116556147_18","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/30/02/phuket.jpg"}
+];
+var lazyHtml = [
+];
+ta.queueForLoad( function() {
+window.setupLazyLoad();
+}, 'lazy load images');
+</script>
+<script type="text/javascript">
+ta.store('facebook.hasPublishActions', "");
+ta.keep('startOffset', '');
+ta.store('page.geo', "");
+ta.store('page.location', "");
+ta.store('page.urlSafe', "http%3A__2F____2F__www__2E__tripadvisor__2E__com__2E__au__2F__pages__2F__privacy__2E__html");
+ta.store('facebook.disableLogin', false);
+ta.store('facebook.apiKey', "f1e687a58f0cdac60b7af2317a5febb3");
+ta.store('facebook.appId', "162729813767876");
+ta.store('facebook.appName', "tripadvisor");
+ta.store('facebook.taServerTime', "1370762885");
+ta.store('facebook.skip.session.check',"false");
+ta.store("facebook.invalidFBCreds", true);
+window.fbAsyncInit = ta.support.Facebook.init;
+ta.queueForLoad(function(){
+new Asset.javascript("http://connect.facebook.net/en_GB/all.js");
+}, 0, 'LoadFBJS');
+ta.store('facebook.showWelcomeBar', true);
+ta.keep('facebook.data.request', [
+'IP_HEADER'                    ,              'IP_BAR'
+]);
+ta.keep('facebook.data.request', ['ACTIVITY_COUNT']);
+ta.queueForLoad( function() { Cookie.writeSession('FBH', sniffFacebook() ? 1 : 2); }, 'SniffFB' );
+if( ta.common && ta.common.ads ) {
+ta.store('scrollAd.enableScroll',  false  );
+ta.store('scrollAd.sbElem', document.getElement('.gridA>.sidebar') || document.getElement('.gridR>.sidebar'));
+(function() {
+var ads = [];
+var sky = ta.id('ad160X600');
+if(sky) {
+ads.push(sky);
+}
+var topBox = ta.id('ad300X250');
+if(topBox) {
+var bHacStyleAd = ta.id('STYLE_RHS_AD');
+if(!bHacStyleAd) {
+ads.push(topBox);
+}
+}
+var btmBox = ta.id('ad300X250-bottom');
+if(btmBox) {
+ads.push(btmBox);
+}
+if(ads.length > 0) {
+ta.store('deferAds.ads', ads);
+window.ta_handleAdDefer = ta.common.ads.deferAds;
+window.addEvent('scroll', window.ta_handleAdDefer );
+}
+})();
+}
+var avlb_hero_photos = "http://c1.tacdn.com/css2/modules/avlb_hero_photos-v672090301b.css";
+var floatingMapCSS = "http://c1.tacdn.com/css2/modules/floating_map-v2046979650b.css";
+var t4bSlideshowCSS = "http://c1.tacdn.com/css2/modules/t4b_slideshow-v4112077699b.css";
+var dhtml_cr_redesign_png24 = "http://c1.tacdn.com/css2/overlays/cr_flyout-v2544950678b.css";
+ta.store('checkrates.check_more_re',true);
+ta.store('checkrates.check_more_re_center_large_hero_photos',true);
+ta.store('checkrates.check_more_hero_photos',true);
+ta.store('checkrates.center_overlay',true);
+ta.store('checkrates.micro_meta_above_fold',true);
+</script>
+<script type="text/javascript">
+</script>
+<div id="IP_IFRAME_HOLDER"></div>
 
-
+<!-- st: 26 dc: 0 sc: 1 -->
+<!-- uid: UbQuhcCoUkEAAB9ZVjMAAAAH -->
 </body></html>
