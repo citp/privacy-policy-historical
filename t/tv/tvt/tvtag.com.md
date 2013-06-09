@@ -1,0 +1,91 @@
+> *The following text is extracted and transformed from the tvtag.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609120432id_/http%3A//tvtag.com/privacy.php) for the most accurate reproduction.*
+
+# Privacy Policy
+
+* **Introduction** Thank you for visiting TV Tag and, if applicable, choosing to use our Service and/or App. This Privacy Policy, like our Terms of Service, is an integral part of using our service, and you must completely agree to it in order to use our Site and Service. 
+* **Definitions** Throughout this Agreement, we may use certain words or phrases, and it is important that you understand the meaning of them. The list is not all-encompassing and no definition should be considered binding to the point that it renders this Agreement nonsensical: 
+
+“Agreement” means these Terms of Service;  
+“App” means the TV listings guide application that we make available through Apple.com’s “App Store”;  
+“TV Tag” refers to our company (ITV, LLC), our Site, or our Service, depending on the context of the usage;  
+“Service” refers to the services that we provide through our Site, as well as our App;  
+“Site” refers to our website, www.TV Tag.com;  
+“User” refers to you, those who use our Services, and general visitors to our Site;  
+“You” refers to you, the person who is entering into this Agreement with TV Tag.  
+
+
+* **Information Collected**
+
+  * **Identifying Information Collected by Us** We collect certain personal information from you when you purchase our Services that can be used to identify you, such as your name, e-mail address, date of birth, Facebook login information, and information which we derive from your Facebook account such as your e-mail address, gender, location information, and “likes.” 
+  * **Non-Identifying Information** Whenever you visit our Site, we may collect non-identifying information from you, such as your IP address, referring URL, browser, operating system, cookie information, and Internet Service Provider. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, this information alone cannot usually be used to identify you. 
+  * **Restrictions on Access by Minors** We reiterate our information collection requirements as stated in our Terms of Service: 
+
+As we are located in the United States, the Children’s Online Privacy Protection Act applies to us, meaning that if you are under thirteen years of age, you are not permitted to use our Service, regardless of whether you live in the United States or elsewhere.
+
+If you live outside of the United States, you must not only be at least thirteen years of age to use our Service, but you must meet any higher minimum ages for providing us with your information that may exist in your jurisdiction, if applicable. Even if such ages are merely governmental guidelines, such as recommended practices rather than laws, you must follow them. For example, if you reside in the United Kingdom, your government recommends that businesses voluntarily impose a minimum sixteen year age requirement in order to sign up to online services without parental consent.
+
+Therefore, in order to use our Service, a United Kingdom resident who is fifteen years old must a) Be at least thirteen years of age in compliance with the U.S. Children’s Online Privacy Protection Act and; b) Obtain parental consent to provide us with information, in accordance with the British government’s voluntary guidelines regarding the collection of information about minors.
+
+
+
+* **Use and Sharing of Your Information**
+
+  * **4.1 Use of Your Information** We may use your information: 
+    * To enhance or improve Users’ experiences, our Site, or Service.
+    * To send e-mails about our Site or respond to inquiries.
+    * To send e-mails about the Site and other products, news, or updates for TV Tag, or other businesses, websites, or services owned or operated by us.
+  * **4.2 Sharing of Your Information with Third Parties** Information sharing is essential for our Service. We may, and you agree that we may: 
+    * Permit the use of our App to change your television channels and otherwise control your television.
+    * Interface with Facebook, Twitter, and other social media or other websites, and share information with those websites.
+    * Exchange information with Apple’s App Store.
+    * Do anything else which we deem to improve the function of TV Tag.
+  * **4.3 Information Collected by App Store**
+
+The Apple App Store collects certain information on our behalf or for its own uses, the collection of which we have no control over. They may require information about you, your e-mail address, payment methods, or other information.
+
+Apple.com’s Privacy Policy may be found at http://www.apple.com/privacy/. Please be advised that this may not be the only release required for you to participate in the App Store, and we provide this link solely for your convenience.
+
+
+
+* **Accessing, Editing, and Removing Your Information** Users may in some cases be able to review and edit the personal information they have provided to us by logging into your account on the Site and editing their account. Although most changes may occur immediately, information may still be stored in a web browser’s cache. We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such. In addition, we may, from time to time, retain residual information about you in our backup and/or database. 
+* **Cookies**
+
+We may use cookies to save your preferences and to keep track of advertisements. For these reasons, you must have cookies enabled in your browser to use our Site and Services.
+
+We may also use the Google DoubleClick cookie in conjunction with Google AdSense on our website. If this cookie is in use, to disable this cookie, visit Google’s webpage on the subject for further instructions: http://www.google.com/policies/privacy/ads/
+
+Please note that disabling cookies in general may cause certain services of ours to not function properly or not function at all. It may also interfere with other websites unrelated to TV Tag that you may visit.
+
+* **Third Parties**
+
+  * **7.1 Third Party Websites**
+
+TV Tag or its Users may post links to third party websites on its Site, which may include information that we have no control over. Whether you access third party websites through a link on our Site, or as a consequence of using our Service, you acknowledge that you are aware that these third party websites are not screened for privacy or security issues by us, and you release us from any liability for the conduct of these third party websites.
+
+Please be aware that this Privacy Policy, and any other policies in place, in addition to any amendments, does not create rights enforceable by third parties. TV Tag bears no responsibility for the information collected or used by any advertiser or third party website. Please review the privacy policy and terms of service for each site you visit through third party links or through our Service.
+
+We use your Facebook profile in conjunction with the provision of our Service. Should you wish to access or edit your information, we recommend that you log in to your Facebook account and review and edit your information as desired. Although most changes may occur immediately, information may still be stored in a web browsers cache. We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such. In addition, we may, from time to time, retain residual information about you in our backup and/or database.
+
+  * **7.2 Purchases** You may click through to websites unrelated to our Site or Service, such as by following links provided by AdSense or otherwise. These websites, if they accept payments for goods or services, may request that you provide certain sensitive financial information, such as credit card or banking information. We do not provide any assurances about the security of these websites, and recommend that any User who engages in online purchasing conduct routine credit bureau checks and take other measures to ensure that their financial information has not been compromised. 
+
+
+* **Third Party Access to Your Information**
+
+Although you are entering into an agreement with TV Tag to disclose your information to us, we do use third party individuals and organizations to assist us, including contractors, web hosts, and others.
+
+Throughout the course of our provision of our Services to you, we may delegate our authority to collect, access, use, and disseminate your information. For example, our web host stores the information that you provide us, and we may hire third parties to assist us in maintaining, repairing, improving, or otherwise assisting us with our Site and Services.
+
+It is therefore necessary that you grant the third parties we may use in the course of our business the same rights that you afford us under this Privacy Policy. For this reason, you hereby agree that for every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may hire, contract, or otherwise retain the services of for the purpose of operating, maintaining, repairing, or otherwise improving or preserving our website or its underlying files or systems. You agree not to hold us liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their actions, and that you must take legal action against them directly should they commit any tort or other actionable wrong against you.
+
+* **Law Enforcement** You agree that we may disclose your information to a third party where we believe, in good faith, that it is desirable to do so for the purposes of a civil action, criminal investigation, or other legal matter. In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either. We may also proactively report you and release your information without receiving any request to third parties where we believe that it is proper to do so for legal reasons, such as instances where we believe your publications violate any law of the United States or any other country having jurisdiction over us, our Site, Services, or our Terms of Service. You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants. We may release your information under the conditions listed in this paragraph whether it is to individuals or entities in the State of Utah, the rest of the United States, or elsewhere. 
+* **Commercial and Non-Commercial Communications** By providing information to the Site that forms the basis of communication with you, such as contact information, you waive all rights to file complaints concerning unsolicited email from us since, by providing such information, you agree to receive communication from us other anyone else covered under this Privacy Policy. However, you may unsubscribe from certain communications by notifying TV Tag that you no longer wish to receive solicitations or information and we will endeavor to remove you from our database where you have the right to request this under our Agreement, Privacy Policy, or applicable law, or where we voluntarily decide to grant the request. 
+* **Security Measures** We take certain measures to enhance the security of our Site and Services, including using SSL Certificates. However, we make no representations as to the security or privacy of your information. It is in our interest to keep our website secure, but we recommend that you use anti-virus software, routine credit checks, firewalls, and other precautions to protect yourself from security and privacy threats. 
+* **Children’s Online Privacy Protection Act**
+
+We prohibit minors under the age of thirteen from using our Site and Service and, if applicable, under higher ages if such use is prohibited by the jurisdiction in which the minor resides. If you become aware of a minor who is using our Site or Service in violation of this rule, please contact us immediately with full details at support@TV Tag, including information sufficient to identify the User and explain why you believe the User is under the required age.
+
+If you are a User who is subject to such a report, or we have other reason to suspect that you are below the required age, we may demand additional information from you, such as copies of government identification to establish your age and identity, and we may choose to disable your access to our Site or Service until you comply with such a demand.
+
+* **Your California Privacy Rights** TV Tag permits residents of the State of California to use its Service, and complies with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. In summary, you must presume that we collect electronic information from all visitors. You may contact us at support@TV Tag with any questions. 
+* **International Transfer** Your information may be transferred to - and maintained on - computers located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, TV Tag may transfer personal information to the United States or elsewhere and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
+* **Amendments** Like our Terms of Service, we may amend this Privacy Policy from time to time. When we amend this Privacy Policy, we will place a note on our Site as to when the Privacy Policy was last modified. You must agree to the amendments as a condition of your continued use of our Site and Service. If you do not agree, you must immediately cease using our Site and Service and notify us of your refusal to agree by e-mailing us at support@TV Tag. 
