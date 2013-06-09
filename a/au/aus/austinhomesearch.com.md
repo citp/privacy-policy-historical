@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austinhomesearch.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206233043id_/http%3A//www.austinhomesearch.com/pages/site-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austinhomesearch.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609223353id_/http%3A//www.austinhomesearch.com/pages/site-policies) for the most accurate reproduction.*
 
 # Site Policies | Austin Board of REALTORS
 
