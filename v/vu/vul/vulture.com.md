@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vulture.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215133253id_/http%3A//nymag.com/newyork/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vulture.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610002910id_/http%3A//nymag.com/newyork/privacy) for the most accurate reproduction.*
 
 # New York Magazine - Nymag.com - Privacy Policy
 
@@ -129,7 +129,7 @@ We may collect and provide aggregate information about our visitors to our adver
 
 Online advertising for the Sites is delivered by third-party advertising companies. These companies create networks of websites to facilitate the delivery of ads and conduct market research on our Sites and other sites. These companies place cookies on your hard drive so that their systems can identify your computer. By placing such cookies on your system, they are able, among other things, to determine automatically whether you have seen a particular advertisement before and avoid sending you duplicate advertisements. These cookies also enable the companies to serve you ads tailored to things you have shown interest in based on the Sites and other sites you have visited. For example, if you frequently read movie reviews, you may see ads relating to upcoming movie openings. Online advertising companies generally conduct this activity in an anonymous format, with online information not combined with information that would allow for your identification, such as a name, address or email address. 
 
-The third-party companies that currently serve advertisements or provide ad targeting data on the Sites include, but are not limited to [DoubleClick](http://www.google.com/doubleclick/privacy/), [Google](http://www.google.com/privacy_cookies.html), [Blue Kai](http://bluekai.com/consumers_optout.php) and [Omniture](http://www.omniture.com/en/privacy/product). If you would like more information about the collection, use and disclosure practices of these third party advertising companies and to know your choices about not having this information used by these companies, click on the company names above and follow the links to the company websites.
+The third-party companies that currently serve advertisements or provide ad targeting data on the Sites include, but are not limited to [DoubleClick](http://www.google.com/doubleclick/privacy/), [Google](http://www.google.com/privacy_cookies.html), [Blue Kai](http://bluekai.com/consumers_optout.php), [Omniture](http://www.omniture.com/en/privacy/product) and [nRelate](http://nrelate.com/privacy-policy/). In addition, we share with these third parties any information you voluntarily provide in response to an advertisement or sponsored content links. If you would like more information about the collection, use and disclosure practices of these third-party advertising companies and to know your choices about not having this information used by these companies, click on the company names above and follow the links to the company websites.
 
 The Sites’ third party advertising company partners typically belong and/or conform to the standards and principles of the Network Advertising Initiative (NAI). The NAI allows you to opt-out of the cookies used to tailor advertisements to you through the NAI website. If you would like to opt-out of the storage of anonymous information used by our third party advertising company partners, visit [www.nai.org](http://www.nai.org/). The NAI opt-out tool is cookie based. In order for it to work on your computer, your browser must be set to accept third party cookies.
 
@@ -188,4 +188,4 @@ Attn: Privacy Department
 _Phone:_ (212) 508-0700  
 _E-mail:_ [privacy@nymag.com](mailto:privacy@nymag.com)
 
-Thank you for visiting! 
+Thank you for visiting!
