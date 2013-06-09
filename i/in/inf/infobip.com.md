@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infobip.com privacy policy that was archived on 2012-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120412144857id_/http%3A//www.infobip.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobip.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609203527id_/http%3A//infobip.com/privacy_policy) for the most accurate reproduction.*
 
-# None
+# Privacy policy | Infobip
 
 We are committed to ensuring that Your privacy is protected. Should We ask You to provide certain information by which You can be identified when using this website, then You can be assured that it will only be used in accordance with this privacy statement.
 
@@ -69,4 +69,12 @@ You are entitled to see the information held about You and You may ask Us to mak
 
 All comments, queries and requests relating to Our use of Your information are welcomed and should be addressed to:
 
+> The Data Controller  
+>  INFOBIP Ltd.  
+>  6th Floor, Clinch's House  
+>  Lord Street  
+>  Douglas  
+>  Isle of Man IM99 1RZ
 > 
+> Email: [support@infobip.com](mailto:customer.support@infobip.com)  
+>  Phone no: +44 (20) 3286 4235
