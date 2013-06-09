@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practiceaptitudetests.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222212453id_/http%3A//www.practiceaptitudetests.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practiceaptitudetests.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609041837id_/http%3A//www.practiceaptitudetests.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Practice Aptitude TestsPractice Aptitude Tests
 
@@ -51,9 +51,9 @@ We may make changes to our privacy policy at any time and reserve the right to d
   * #### Numerical Package
 
 [](https://web.archive.org/amember/signup/index/) [Buy for just £5.99](https://web.archive.org/amember/signup/index/)
-    * 7 Online numerical reasoning practice test
+    * 9 Online numerical reasoning practice test
 
-    * 147+ unique questions edited by ex-Kenexa chartered occupational psychologist
+    * 187+ unique questions edited by ex-Kenexa chartered occupational psychologist
 
     * Answers all complete with clear worked solutions
 
@@ -78,7 +78,7 @@ We may make changes to our privacy policy at any time and reserve the right to d
   * #### Bundle Package
 
 [](https://web.archive.org/amember/signup/index/) [Buy for just £8.99](https://web.archive.org/amember/signup/index/)
-    * All Numerical Reasoning (147+ questions)
+    * All Numerical Reasoning (187+ questions)
 
     * All Verbal Reasoning (105 questions)
 
