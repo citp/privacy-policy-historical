@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the linksnappy.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192200id_/http%3A//www.linksnappy.com/index.php%3Fact%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksnappy.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609062013id_/http%3A//linksnappy.com/index.php%3Fact%3Dprivacy-policy) for the most accurate reproduction.*
 
 # LinkSnappy.com Elite: Privacy Policy
 
-Thank you for visiting the LinkSnappy website located at www.linksnappy.com (the "Site"). The Site is an Internet property of LinkSnappy Ltd. and its affiliated companies ("LinkSnappy," "we" or "us"). This LinkSnappy Website Privacy Policy ("Privacy Policy") covers our treatment of Personal Information (as defined hereinbelow) and other information that we collect when you: (a) access or use the Site; (b) become a Member (as defined in the LinkSnappy Website Terms and Conditions ("Terms and Conditions")); and/or (c) use the Services (as defined in the Terms and Conditions). It is important that visitors are fully informed about the use of their Personal Information. We believe in 100% permission-based marketing. 
+Thank you for visiting the LinkSnappy website located at www.linksnappy.com (the "Site"). The Site is an Internet property of LinkSnappy and its affiliated companies ("LinkSnappy," "we" or "us"). This LinkSnappy Website Privacy Policy ("Privacy Policy") covers our treatment of Personal Information (as defined hereinbelow) and other information that we collect when you: (a) access or use the Site; (b) become a Member (as defined in the LinkSnappy Website Terms and Conditions ("Terms and Conditions")); and/or (c) use the Services (as defined in the Terms and Conditions). It is important that visitors are fully informed about the use of their Personal Information. We believe in 100% permission-based marketing. 
 
 `If you are a resident of the State of California and would like to opt-out from the disclosure of your Personal Information to any third party for marketing purposes, please e-mail us at: privacy@linksnappy.com. Please be advised that where California State residents opt-out from permitting their Personal Information to be shared, such individuals may still receive selected offers directly from us, in accordance with applicable law.`
 
@@ -10,9 +10,7 @@ Thank you for visiting the LinkSnappy website located at www.linksnappy.com (the
 
 `Personal Information that We Collect from You`
 
-`By registering with, or providing Personal Information on, the Site, users allow us and our affiliates to make their Personal Information available to third parties in accordance with the terms of this Privacy Policy, and to otherwise provide marketing offers to such users. While on the Site, submitting an application to become a Member or utilizing the Services, we may collect "Personal Information" from you. For the purposes of this Privacy Policy, Personal Information shall mean individually identifiable information from or about an individual including, but not limited to, the individual's: (a) e-mail address (b) credit card information or Plimus® information (depending on your preferred means of payment); and/or (d) any other information requested on the applicable registration form. For purposes of this Privacy Policy, item (c) in the preceding sentence shall be referred to as "Sensitive Information."`
-
-`For purposes of Privacy Policy, "Plimus" shall mean Plimus, Inc. Please be advised that LinkSnappy is not in any way affiliated with Plimus, and the Site and Services are neither endorsed, nor sponsored, by Plimus. Plimus ® is a registered trademark of Plimus, Inc.`
+`By registering with, or providing Personal Information on, the Site, users allow us and our affiliates to make their Personal Information available to third parties in accordance with the terms of this Privacy Policy, and to otherwise provide marketing offers to such users. While on the Site, submitting an application to become a Member or utilizing the Services, we may collect "Personal Information" from you. For the purposes of this Privacy Policy, Personal Information shall mean individually identifiable information from or about an individual including, but not limited to, the individual's: (a) e-mail address (b) credit card information or Payment Processor's® information (depending on your preferred means of payment); and/or (d) any other information requested on the applicable registration form. For purposes of this Privacy Policy, item (c) in the preceding sentence shall be referred to as "Sensitive Information."`
 
 `How We Use Personal Information`
 
@@ -32,11 +30,11 @@ Thank you for visiting the LinkSnappy website located at www.linksnappy.com (the
 
 `We may also supplement the information that we collect with information from other sources to assist us in evaluating and improving the Site and Services, and to determine your preferences so that we can tailor the Site and Services to your needs.`
 
-`Your IP Address`
+`**Your IP Address**`
 
 `Each time that you visit the Site, our web server automatically recognizes your IP address and the web page from which you came. Your IP address is used to help identify you and to gather broad demographic information about you. We also use your IP address to help diagnose problems with our servers, to administer the Site and to better serve you in using the products, services and other features associated with the Site.`
 
-`Cookies and Action Tags`
+`**Cookies and Action Tags**`
 
 `Cookies: The first time that a user provides an e-mail address in connection with his/her activities at the Site, we assign an identification number to that e-mail address and deploy a cookie to the applicable user's PC. Whenever that user comes back to the Site using the same PC, the cookie allows the Site to identify the user and to recall the user's e-mail address. If, at any time, a user provides other information in connection with his/her activities on the Site (such as name, address, birth date, gender, etc.), we may store that information, along with the user's e-mail address, in our user database. We may use the information stored in our database: (a) to effectuate the purpose or transaction for which the information was originally provided by a user; (b) to pre-populate information fields in the event that the subject user wishes to purchase products and/or services or sign up for and/or subscribe to services, promotions or other offers in the future; (c) to ensure that a user will not be repeatedly exposed to the same advertisements, offers and/or promotions while visiting the Site; and/or (d) to, in connection with regular communication with a user, include offers, promotions or advertisements that were historically, or are likely to be, of interest to that user. We also use cookies to anonymously track and target the interests of our users to further enhance the experience on the Site. To find out more about cookies, please visit www.cookiecentral.com. To disable and reject cookies, Click Here.`
 
@@ -50,13 +48,13 @@ Thank you for visiting the LinkSnappy website located at www.linksnappy.com (the
 
 `Other Websites`
 
-`Our Security Precautions`
+`**Our Security Precautions**`
 
 `We endeavor to safeguard and protect our users' information. The privacy of your Personal Information is very important to us. The servers that we store personally identifiable information in are kept in a secure physical environment. We have security measures in place to protect the loss, misuse and alteration of Personal Information under our control. When our registration/application process asks users to enter Sensitive Information, and when we store and transmit such Sensitive Information, that information is encrypted and protected with SSL encryption software. While we use SSL encryption to protect Sensitive Information online, we also do everything in our power to protect all user information off-line and online. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information, we cannot ensure or warrant the security of any information that you transmit to us, and you do so at your own risk.`
 
 `However, access to your information is strictly limited, and not accessible to the public. All of our users' information is restricted in our offices. Only employees who need the information to perform a specific job are granted access to Personal Information. Our employees are dedicated to ensuring the security and privacy of all user information. Employees not adhering to our firm policies are subject to disciplinary action. In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your Personal Information. You will be notified via e-mail in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures.`
 
-`Minors`
+`**Minors**`
 
 `No information should be submitted to, or posted at, the Site by visitors under eighteen (18) years of age. Persons under eighteen (18) years of age are not permitted to access the Site and we do not knowingly collect Personal Information from such individuals. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.`
 
