@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topgolf.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208150936id_/http%3A//topgolf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topgolf.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609231354id_/http%3A//topgolf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TopGolf
 
@@ -79,6 +79,6 @@ This English-language Privacy Policy is TopGolf's official statement of its onli
 
 If you have any questions regarding our Privacy Policy, please contact us by sending an email to [feedback@topgolf.com](mailto:feedback@topgolf.com) or writing to us at TopGolf, 230 Gerry Drive, Wood Dale IL 60191, ATTN: Marketing Resources.
 
-© 2012 TopGolf. All Rights Reserved.
+© 2013 TopGolf. All Rights Reserved.
 
  
