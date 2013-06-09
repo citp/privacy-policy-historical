@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the english-attack.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015230129id_/http%3A//www.english-attack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-attack.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609033252id_/http%3A//www.english-attack.com/privacy-policy-en-ea) for the most accurate reproduction.*
 
 # Privacy Policy | English Attack! – English 2.0
 
@@ -11,12 +11,12 @@ We are sensitive to your privacy concerns and committed to maintaining high stan
   3. Use of Personal Information  
 3.1. The English Attack! website collects, analyzes and stores users' Personal Information for the purpose of enhancing the users' site experience. The site's use of this information allows it to:  
 3.1.a. create personal user accounts for each user, allowing the user access to site functionalities like Community features and the scoring of points;  
-3.1.b. respond to user queries and comments via the [contact@english-attack.com](mailto:contact@english-attack.com) feedback form  
+3.1.b. respond to user queries and comments via the Feedback form  
 3.1.c. inform users of new site content and functionality via an e-mail newsletter  
 3.1.d. measure site traffic (Google Analytics)
   4. Destination of Personal Information  
 4.1. Personal Information collected during site registration is intended for exclusive use by English Attack! The user is notified however that Entertainment Learning may be required to divulge this information if required to do so by a law, industry regulation, or following the decision of a regulatory or judicial authority.  
-4.2. If, upon registration, a user has accepted to receive offers by our commercial partners, the Personal Information provided at registration may be shared with these partners. The user may, at any time, indicate that he or she no longer wants to receive these partner commercial offers, either via direct electronic communication with English Attack!, or by modifying his or her Account preferences at [www.english-attack.com/optout](http://www.english-attack.com/optout "www.english-attack.com/optout")). 
+4.2. If, upon registration, a user has accepted to receive offers by our commercial partners, the Personal Information provided at registration may be shared with these partners. The user may, at any time, indicate that he or she no longer wants to receive these partner commercial offers, either via direct electronic communication with English Attack!, or by modifying his or her Profile and Account preferences at <http://www.english-attack.com/user/me/profile/profile>). 
   5. Storage of Personal Information collected on the site  
 5.1. Once a user account has been de-activated, for whatever reason, the data associated with the use of that account (e.g. points scored, content contributed, etc.) are kept and rendered anonymous.  
 5.2. On the other hand, all Personal Information provided upon Site Registration and/or subsequently provided by the user to fill in the user's Public Personal Profile, will be deleted in the XX months following a user request for English Attack! to de-activate his or her account.  
@@ -47,6 +47,7 @@ We are sensitive to your privacy concerns and committed to maintaining high stan
   11. Inappropriate or Illegal Content  
 11.1. Any user of English Attack! can, and is encouraged to, flag inappropriate or illegal content on the site or within the community / forum / comments areas of the site. Content considered as inappropriate or illegal on English Attack! includes hate speech and symbols; pornography; incitation to violence; and any form of racism. 
   12. Queries or Complaints  
-12.1. In the case of queries or complaints concerning any aspect of our privacy policies or procedures, please inform us by email, providing a link to the offending item, at [contact@english-attack.com](mailto:contact@english-attack.com) You will receive a reply within four working days.
+12.1. In the case of queries or complaints concerning any aspect of our privacy policies or procedures, please inform us by email, providing a link to the offending item, at [contact@english-attack.com](mailto:contact@english-attack.com) You will receive a reply within four working days.  
+
 
 
