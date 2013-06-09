@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsdot.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218112846id_/http%3A//www.wsdot.wa.gov/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsdot.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610012855id_/http%3A//www.wsdot.wa.gov/policy/privacy.htm) for the most accurate reproduction.*
 
 # WSDOT - Web Privacy Notice
 
@@ -34,7 +34,7 @@ The web site you visited prior to coming to this web site.
 
 The information WSDOT automatically collects is used only to help us understand how people are using our services. WSDOT analyzes this information to determine how our web site is being used, so that we may continually improve the site's usefulness to the public.
 
-**What information we collect if you volunteer it.**  
+ **What information we collect if you volunteer it.**  
 If during your visit to our web site you participate in a survey, send us email, download software, or perform some other transaction on-line, the following additional information will be collected: 
 
 The email address, and contents of email, for those who communicate with us via email.   
@@ -58,7 +58,7 @@ We do not collect personal information about you unless you voluntarily provide 
 
 If personal information is requested on the web site or volunteered by the user, state law and the federal Privacy Act of 1974 may protect it. However, this information is a public record once you provide it, and may be subject to public inspection and copying if not protected by state or federal law.
 
-If you believe that your personal information is being used for a purpose other than what was intended when submitted, you may contact the WSDOT Ombudsman as shown in the Contact Information section of this notice.
+If you believe that your personal information is being used for a purpose other than what was intended when submitted, you may contact  WSDOT Customer Service as shown in the Contact Information section of this notice.
 
 Users are cautioned that the collection of personal information requested from or volunteered by children on-line or by email will be treated the same as information given by an adult, and may be subject to public access.
 
