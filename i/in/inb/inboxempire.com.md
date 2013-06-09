@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the inboxempire.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231010303id_/http%3A//www.inboxempire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxempire.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609031950id_/http%3A//www.inboxempire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inbox Empire
 
 **Policies and Procedures**
 
 Privacy Policy – InboxEmpire.com  
-(Last Updated: April 16, 2011)
+(Last Updated: April 22, 2013)
 
 InboxEmpire.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
