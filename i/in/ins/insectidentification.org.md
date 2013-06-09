@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the insectidentification.org privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208134848id_/http%3A//www.insectidentification.org/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insectidentification.org privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609164956id_/http%3A//insectidentification.org/privacy-policy.asp) for the most accurate reproduction.*
 
-# InsectIdentification.org Site Privacy Policy
+# Insect Identification Site Privacy Policy
 
-UPDATED: 3/14/2011
+UPDATED: 5/2/2013
 
 Your privacy is important to us!
 
@@ -31,7 +31,3 @@ In the case of Google Adsense ads, this ad server uses the DoubleClick DART cook
 You can chose to disable or selectively turn off cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  For instance, this might effect your ability to access or login to certain services or programs such as logging into forums or accounts.
 
 ~ InsectIdentification.org
-
-Contacting InsectIdentification.org
-
-We can only get better if you tell us how. You can contact InsectIdentification.org at InsectIdentification at gmail dot com (replace "at" with "@" and "dot with ".") with any questions, comments or corrections. We also accept related insect and spider imagery that you approve for us to use on our website. These must from your own collection and not copyrighted works. Please keep in mind, however, that due to volume, we may not directly respond to your inquiry. Please add us to your list of non-blocked recipients if you expect a response!
