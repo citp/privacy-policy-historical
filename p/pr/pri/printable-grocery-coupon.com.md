@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the printable-grocery-coupon.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227153043id_/http%3A//printable-grocery-coupon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printable-grocery-coupon.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609090506id_/http%3A//printable-grocery-coupon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Effective and Last Updated:** 11/30/2011
+**Effective and Last Updated:** 5/28/2011
 
-This website is owned and operated by Elite Web Holding, LLC **.** We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the “Site”).  This Privacy Policy applies to the Site only. It does not apply to other websites to which we link.  Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
+This website is owned and operated by GCF Web Holdings, LLC **.** We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the “Site”).  This Privacy Policy applies to the Site only. It does not apply to other websites to which we link.  Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
 
 **1)   Information Collected**
 
