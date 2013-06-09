@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rudester.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225182645id_/http%3A//www.rudester.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rudester.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609081201id_/http%3A//rudester.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Rudester.com
 
@@ -138,7 +138,7 @@ BY PROVIDING PERSONAL INFORMATION TO US YOU SIGNIFY YOUR CONSENT TO OUR COLLECTI
 
 #### 17) Handling Complaints, Questions and Suggestions. 
 
-To stop or resume receiving email notifications regarding various site activity or offers, users can edit their settings at: [ Rudester](https://web.archive.org/web/20121225182645id_/http%3A//www.rudester.com/cp.php?ac=sendmail)
+To stop or resume receiving email notifications regarding various site activity or offers, users can edit their settings at: [ Rudester](https://web.archive.org/web/20130609081201id_/http%3A//rudester.com/cp.php?ac=sendmail)
 
 If you have any further questions or concerns about Rudester's privacy policies and use of personal information, please contact by email to [the webmaster.](mailto:support@Rudester.com)
 
