@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the line6.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126181922id_/http%3A//line6.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the line6.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609054630id_/http%3A//line6.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Line 6 - Privacy Policy
 
