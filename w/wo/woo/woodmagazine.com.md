@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodmagazine.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209141834id_/http%3A//www.woodmagazine.com/wood/file.jsp%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodmagazine.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609105620id_/http%3A//www.woodmagazine.com/wood/file.jsp%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
 
 # 
 
