@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegymgroup.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204181320id_/http%3A//www.thegymgroup.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegymgroup.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609102937id_/http%3A//www.thegymgroup.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | The Gym Group
 
