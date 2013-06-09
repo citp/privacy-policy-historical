@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiavastube.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208134829id_/http%3A//www.tiavastube.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiavastube.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609060937id_/http%3A//www.tiavastube.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
