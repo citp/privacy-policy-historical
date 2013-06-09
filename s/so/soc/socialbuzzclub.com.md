@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the socialbuzzclub.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206231411id_/http%3A//www.socialbuzzclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbuzzclub.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609234643id_/http%3A//www.socialbuzzclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Social Media Marketing Tools
 
 This Privacy Policy governs the manner in which Social Buzz Club, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://SocialBuzzClub.com](http://socialbuzzclub.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Social Buzz Club, LLC.
+
+[](http://secure.trust-guard.com/certificates/8070)
 
 **Personal identification information**
 
