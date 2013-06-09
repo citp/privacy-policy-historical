@@ -1,171 +1,86 @@
-> *The following text is extracted and transformed from the officelive.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306001842id_/http%3A//www.verisign.com/truste) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officelive.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609105745id_/http%3A//go.microsoft.com/fwlink/%3FLinkId%3D248681) for the most accurate reproduction.*
 
-# About VeriSign - VeriSign, Inc.'s Privacy Statement from VeriSign, Inc.
+# Microsoft.com Privacy Statement
 
-|   
----|---  
-  
-## VeriSign, Inc.'s Privacy Statement
+Microsoft.com Privacy Statement 
 
-Version 2.12 - Effective February 11, 2005   
-[](https://www.truste.org/ivalidate.php?url=www.verisign.com)VeriSign is committed to providing you with excellent service for all of our products and services. Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire Verisign.com site. VeriSign services may be hosted on partner sites on behalf of VeriSign, and if this VeriSign Privacy Statement is listed on that site, then it will also apply.   
+This privacy statement applies to Microsoft.com and Microsoft websites, services and products that collect data and display these terms, as well as their offline product support services. It does not apply to Microsoft sites, services and products that do not display or link to this statement or that have their own privacy statements. 
 
+Please read the summaries below and click on "Learn More" for more details on a particular topic. You may also select from the products listed above to view that product's privacy statement. Some products, services or features mentioned in this statement may not be available in all markets. You can find more information on Microsoft's commitment to protecting your privacy at <http://www.microsoft.com/privacy>. 
 
-VeriSign is a licensee of the TRUSTe Privacy Program and is authorized to use the TRUSTe trustmark. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. VeriSign has agreed to disclose its privacy, practices and have them reviewed and audited for compliance by TRUSTe. Members of the TRUSTe Privacy Program agree to adhere to TRUSTe's established privacy principles of disclosure, choice, access, and security. Members of the TRUSTe Privacy Program also agree to comply with ongoing TRUSTe oversight and its alternative dispute resolution process. In keeping with TRUSTe's Privacy Program, this Privacy Statement will inform you of:
+Cookies & Similar TechnologiesCookies
 
-  * What personal information our site gathers about you
-  * How we use and with whom we share the personal information we gather
-  * Your ability to opt-out of future notifications 
-  * What security procedures we have in place to protect your personal information from loss, misuse, or alteration 
-  * How you can correct or update your personal information 
+Most Microsoft sites use "cookies," small text files that can be read by a web server in the domain that put the cookie on your hard drive. We may use cookies to store your preferences and settings; help with sign-in; provide targeted ads; and analyze site operations. 
 
+We also use web beacons to help deliver cookies and compile analytics. These may include third-party web beacons, which are prohibited from collecting your personal information.
 
+You have a variety of tools to control cookies and similar technologies, including:
 
-Questions regarding this Privacy Statement should be directed to [practices@verisign.com](mailto:practices@verisign.com). Please specify "Privacy Statement" in the subject line of your e-mail. You may also call us at 1-650-426-5555. If you do not receive a reply from us or if you believe that your inquiry has not been satisfactorily resolved, please contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this Web site.
+  * Browser controls to block and delete cookies; 
+  * Advertising controls, including Microsoft's controls at <http://choice.live.com/advertisementchoice/>, to opt out of receiving behaviorally targeted ads; and 
+  * Controls from some analytics providers to opt out of data collection in web beacons. 
 
-### Overview
 
-Privacy is of great concern to most users of the Internet, and is a critical part of an enjoyable and satisfactory user experience. We at VeriSign are acutely aware of and sensitive to the privacy concerns of our subscribers and other visitors to our Web site. Whether you are a customer of our various products and services or a visitor to our site, we assure you that we do not collect personal information from you unless you provide it to us. If you are enrolling for a VeriSign digital certificate ("Digital ID"), you may be asked to provide certain personal information. Please note, however, that we are asking for this information for the limited purposes of creating your Digital ID, providing the services that may be part of your Digital ID, and authenticating your identity in order to issue you a Digital ID. If you are using Express Checkout by VeriSign (“Express Checkout”), you may be asked to provide certain personal information, which we will use for the limited purpose of authenticating your identity in order to complete your online transaction.  If you are enrolling in VeriSign’s Digital Brand Management Services, you may be asked to provide certain personal information in order for us to create your company’s account with us.  You should be assured that we do not provide or sell personal information about our customers or site visitors to vendors that are not involved in the provision of VeriSign's public certification and other services.
 
-VeriSign has a service involving authentication of individuals in the healthcare sector (the “Healthcare Authentication Service”) which allows certain individuals to obtain a Digital ID and provide additional personal and professional information in an electronic profile (the “Subscriber Profile”) for the purpose of permitting that individual to access the Web site or use the services of a third party that would be relying on the information in that Digital ID and Subscriber Profile (the “Relying Third Party”).  In VeriSign’s Healthcare Authentication Service, the Digital ID and the ability to create the Subscriber Profile are offered by a third party such as the American Medical Association (the “Non-VeriSign Digital ID Provider”).  If you are providing personal information using the Healthcare Authentication Service, the information is used by VeriSign to issue you a Digital ID, to authenticate you, and also to permit the Relying Third Party to access your Subscriber Profile to authenticate you.   
+Information We CollectCollecting Your Information
 
-  This Privacy Statement applies to the verisign.com site. Many of our subsidiaries maintain their own privacy policies that may be viewed on their Web sites. For our Public Certification Services and for our payment services, VeriSign has a "network" of domestic and international "Affiliates" that provide certain certification and payment services on a worldwide basis. We strive to provide our visitors and subscribers with the highest level of privacy possible, and therefore require that our Affiliates offer no less protection than that offered in this Privacy Statement. In addition, each of our Affiliates must meet the data protection requirements of their relevant national laws. 
+Microsoft collects many kinds of information in order to operate effectively and provide you the best products, services and experiences we can.
 
-  Please note that our site contains links to other sites. VeriSign is not responsible for the privacy practices, privacy statements, or content regarding these other sites.
+We collect information when you register, sign in and use our sites and services. We also may get information from other companies.
 
-### Privacy Policy Enforcement
+We collect this information in a variety of ways, including from web forms, technologies like cookies, web logging and software on your computer or other device. 
 
-VeriSign supports TRUSTe's comprehensive assurance process. In order to ensure compliance with its Privacy Program, TRUSTe monitors our site by conducting initial and periodic reviews and "seeding" (tracking unique identifiers in our site's database). TRUSTe also relies on online users to report violations of posted privacy statements or specific privacy concerns. If a TRUSTe participant is suspected of not conforming to the TRUSTe principles, TRUSTe will investigate the issue, which could result in penalties, additional audits, or revocation of the participant's right to use the TRUSTe trustmark. Extreme violations may even be escalated to the Federal Trade Commission ("FTC"). These enforcement measures are intended to provide some assurances that you can rely on our representations in this Privacy Statement. For more information on the TRUSTe assurance process, see [http://www.truste.org/consumers/compliance.php](http://www.truste.org/consumers/compliance.php)
+How We Use Your Personal InformationUsing Your Information
 
-  If you feel that we are violating this Privacy Statement, please contact us at [practices@verisign.com](mailto:practices@verisign.com). Please specify "Privacy Statement" in the subject line of your e-mail.  You may also call us at 1-650-426-5555.  If you feel that we do not provide you with an appropriate response, you may file a report with TRUSTe at [http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php)
+Microsoft uses the information we collect to operate, improve and personalize the products and services we offer.
 
-### Information We Gather from You
+We also may use the information to communicate with you, for example, informing you about your account and security updates.
 
-#### Personal Information
+And we may use the information to help make the ads you see on our ad-supported services more relevant.
 
-We do not collect any personal information from a visitor to our site unless that visitor explicitly and intentionally provides it. Under no circumstances do we collect any personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, or sex life. If you are simply browsing our site, we do not gather any personal information about you.
+Reasons We Share Your Personal InformationSharing Your Information
 
-There are two ways in which you may explicitly and intentionally provide us with and consent to our collection of certain personal information:
+Except as described in this privacy statement, we won’t disclose your personal information to a third party without your consent.
 
-E-mail Request for Information or Registrations for Guides or Seminars \- We use links throughout our site to provide you with the opportunity to contact us via e-mail to ask questions, request information and materials, register or sign up for guides or seminars, or provide comments and suggestions. You may also be offered the opportunity to have one of our representatives contact you personally to provide additional information about our products or services. To do so, we may request additional personal information from you, such as your name and telephone number, to help us satisfy your request.
+Please see Other Important Privacy Information for details about when we may disclose information, including with Microsoft affiliates and vendors; when required by law or to respond to legal process; to combat fraud or protect our interest; or to protect lives. 
 
-Enrollment \- If you choose to enroll for one of our products or services, we will request certain information from you. Depending on the type of product or service that you request, you may be asked to provide different personal information. For certain products and services, we may require your name, address, telephone number, e-mail address, credit card number, bank account information, IP address, and/or social security number. Other products and services may require different or supplemental information from you in order to apply. For a detailed listing of the type of personal information requested for our various products, please refer to the enrollment page for the particular product or service.
+Accessing Your Personal InformationAccessing Your Information
 
-### Statistical Information About Your Visit
+Some Microsoft services give you the ability to view or edit your personal information online. To help prevent others from viewing your personal information, you first will be required to sign in. How you can access your personal information will depend on which sites or services you have used. 
 
-When you visit our site, our computers may automatically collect statistics about your visit. This information does not identify you personally, but rather identifies information about a visit to our site. We may monitor statistics such as how many people visit our site, the user's IP address, which pages people visit, from which domains our visitors come and which browsers people use. We use these statistics about your visit for aggregation purposes only. These statistics are used to help us improve the performance of our Web site.
+ChildrenChildren
 
-### Use of Cookies
+When a Microsoft site or service collects age information, it will block users under 13 or obtain consent from a parent or guardian before their child can use it. 
 
-We only use "cookies" as described in this Section. A "cookie" is a piece of information that our Web site sends to your browser, which then stores this information on your system. If a cookie is used, our Web site will be able to "remember" information about you and your preferences either until you exit your current browser window (if the cookie is temporary) or until you disable or delete the cookie. Many users prefer to use cookies in order to help them navigate a Web site as seamlessly as possible. You should be aware that cookies contain no more information than you volunteer, and they are not able to "invade" your hard drive and return to the sender personal or other information from your computer.
+When consent is granted, the child's account is treated much like any other account, including being able to communicate with other users.
 
-Our uses of "cookies" are limited to the following specific situations. The first situation is with respect to temporary cookies. There are two instances in which we use temporary cookies. First, if you are accessing our services through one of our online applications (such as through our enterprise Managed PKI service, through our Digital Brand Management Services application, or our Express Checkout service) our Web server may automatically send your browser a temporary cookie, which is used to help your browser navigate our site. The only information contained in these temporary cookies is a direction value that lets our software determine which page to show when you hit the back button in your browser. This bit of information is erased when you close your current browser window. If you come to our site from one of our business partners, our Web server may also send your browser a temporary cookie that reflects an "origination code" for that business partner. We use this information for statistical and marketing purposes. Second, if you are using VeriSign's Personal Trust Agent to log into an access-controlled section of our site or to use our Express Checkout service or our Healthcare Authentication Service, we set a temporary session cookie to establish that you have been authenticated. The information contained in these cookies consists of random data that is used by the server to authenticate the browser requests to the server for that particular session. It does not include any type of personally identifiable information. This bit of information is erased when you close your current browser window. If you choose not to accept a temporary cookie, you will not be able to navigate in these online applications or use the Personal Trust Agent or VeriSign's Personal Trust Services.
+Parents can change or revoke consent as described in this privacy statement. 
 
-The second situation in which we may use cookies is when you visit our Web site and request documentation or a response from us. When you are filling out a form you may be given the option of having our Web site deliver a cookie to your local hard drive. If you are an Express Checkout customer, you may be given the option of having our Web site deliver a cookie to your local hard drive to assist you with logging into our site. This type of cookie is not temporary, although you can always delete or disable it through your browser preferences. If you choose not to accept this type of cookie, you will still be able to use our Web site. You might choose to receive this type of cookie in order to save time in filling out forms and/or revisiting our Web site. We only send this type of cookie to your browser when you have clicked on the box labeled "Please remember my profile information" when submitting information or communicating with us or, in the case of Express Checkout, when you have clicked on the box labeled "Remember my e-mail." Even if you choose to receive this type of cookie, you can always set your browser to notify you when you receive any cookie, giving you the chance to decide whether to accept it in each situation in which one is sent. To find more information about cookies, if you are using Microsoft Internet Explorer® as your browser, go to the Microsoft Web site at [http://www.microsoft.com/info/cookies.htm?RLD=291](http://www.microsoft.com/info/cookies.htm?RLD=291) or if you are using Netscape Navigator® as your browser, go to the Netscape Web site at [http://home.netscape.com/security/basics/privacy.html#cookies](http://home.netscape.com/security/basics/privacy.html#cookies)
+Display of AdvertisingAdvertising
 
-### Bulletin Boards, Chat Rooms and Forums 
+Most of the online advertisements on Microsoft sites and services are displayed by Microsoft Advertising. When we display online advertisements to you, we will place one or more cookies in order to recognize your computer when we display an ad to you. Over time, we may gather information from the sites where we serve ads and use the information to help provide more relevant ads. 
 
-If you use a forum, bulletin board, chat room or other chat tool on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  VeriSign is not responsible for the personally identifiable information you choose to submit in these forums.  You are also responsible for using these forums in a manner consistent with the Rules of Engagement or other terms and conditions set forth on the relevant forum site.
+**You may opt out of receiving targeted ads from Microsoft Advertising by visiting our[opt-out page](https://choice.live.com/AdvertisementChoice/ "opt-out page"). **
 
-### How We Use and With Whom We Share the Personal Information We Gather
+Communication PreferencesCommunications
 
-We assure you that the personal information we gather from you is used by us only as explained below.
+You can stop the delivery of future promotional e-mail from Microsoft sites and services by following the specific instructions in the e-mail you receive. Depending on the respective service, you may also have the option of proactively making choices about the receipt of promotional e-mail, telephone calls, and postal mail for particular Microsoft sites or services. 
 
-#### Sending you responses and updates
+Microsoft accountMicrosoft account
 
-We generally respond to any e-mail questions, requests for product or service information, and other inquiries that we receive. We may also retain this correspondence to improve our products, services, and Web site, and for other disclosed purposes. Frequently we retain contact information so that we can send individuals updates or other important information about our services and products. Occasionally these updates or other important information may be sent out by third parties on our behalf. Please be assured that any third party who contacts you in this capacity has executed a confidentiality agreement with us that contains a provision ensuring the privacy and security of any transferred information and limits the third party's use of the shared information to sending updates or providing services on our behalf. Our subsidiary companies may also send you information about their services and products. In situations where you have supplied your information in connection with a question or request for information about a product or service offered by a VeriSign business partner, we may also send the information you have supplied to the VeriSign business partners that offer such products or services. Please be assured that these VeriSign business partners have agreed to ensure the privacy and security of any transferred information and may only use the shared information to send you information about products or services about which you asked.
+Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is a service that allows you to sign into Microsoft products, web sites and services, as well as those of select Microsoft partners. When you create a Microsoft account, we ask you to provide certain information. When you sign into a site or service using your Microsoft account, we collect certain information in order to verify your identity on behalf of the site or service, to protect you from malicious account usage, and to protect the efficiency and security of the Microsoft account service. We also send certain information to a site or service you have signed into with your Microsoft account. 
 
-#### Facilitating the support, renewal, and purchase of our products and services (except if you are using our Healthcare Authentication Service)
+To view additional details about Microsoft account, including how to create and use a Microsoft account, how to edit account information, and how we collect and use information relating to a Microsoft account, please click on Learn More. 
 
-If you are using VeriSign's Healthcare Authentication Service this paragraph does not apply. We may use the information you submit to contact you to discuss the support, renewal, and purchase of our products and services. We may provide our subsidiary companies with your information so that they may send you information about their services and products. We may also provide the information you have submitted to us to a VeriSign subsidiary, business partner, representative or Affiliate (either within or outside the United States) so that the subsidiary, business partner, representative or Affiliate can contact you and facilitate the support, renewal, and purchase of VeriSign products and services. Our Affiliates are either members of the VeriSign Trust Network (a certificate-based public key infrastructure that permits interoperable and secure electronic commerce and communications) or payment services affiliates, and in both cases they help us provide our foreign-based (and certain domestic) customers with support, assistance, and the provision of products and services in their local markets. You may receive a communication directly from one of our subsidiaries, business partners, representatives or Affiliates. Please be assured that any subsidiary, business partner, representative or Affiliate who contacts you for one of these purposes has agreed to use the information we supply only in accordance with a confidentiality agreement. To find out the names and locations of the subsidiaries, business partners, representatives and/or Affiliates to whom we have provided your information, please contact us at the address given at the end of this Privacy Statement.
+Other Important Privacy InformationOther Information
 
-#### Facilitating the support and renewal of our products and services (for our Healthcare Authentication Service)
+Learn more about
 
-If you are using VeriSign's Healthcare Authentication Service where there is a Non-VeriSign Digital ID Provider (such as the Physician Authentication Service which is offered by the American Medical Association), this paragraph applies to you. We may use the information you submit when enrolling for your Digital ID to contact you to discuss the support and renewal of our products and services. We may also provide the information you have submitted to us to a VeriSign business partner so that the business partner can contact you and facilitate the support and renewal of VeriSign products and services. You may receive a communication directly from one of our business partners. Please be assured that any business partner who contacts you for one of these purposes has agreed to use the information we supply only in accordance with a confidentiality agreement. To find out the names and locations of the business partners to whom we have provided your information, please contact us at the address given at the end of this Privacy Statement.
+  * Why and with whom we share or disclose personal information 
+  * Protecting the security of personal information 
+  * Where we store and process information 
+  * Changes to our privacy statements 
+  * TRUSTe certification and enforcing our privacy statements 
+  * How to contact us 
 
-#### Facilitating the provision of certain included products and services (if you are applying for certain types of Digital IDs or certain of our Digital Brand Management Services)
-
-Certain types of Digital IDs come with additional third-party services or products that are included with the Digital ID. If you purchase one of these Digital IDs, we may forward some or all of the information in your application to third party providers so that they can provide you with the service or product and follow up with you directly regarding their service or product or an upgrade. Please be assured that we have agreements with these third-party service or product providers that prevent them from disclosing the information to other parties.
-
-Likewise, certain of our Digital Brand Management Services will involve the disclosure of some or all of your information to a registrar or registry of domain names or to a third party service provider so that they can provide you with the service you have requested. For further explanation about this disclosure or the types of third party services available in Digital Brand Management Services, please refer to your contract with VeriSign for the purchase of these services.
-
-#### Validating your identity (if you are applying for certain types of Digital IDs)
-
-Certain types of Digital IDs require that we compare some of the information in your application to information contained in a third-party database or with some other third party source. We do this in order to authenticate your identity and other attributes, and also to prevent identity theft. We have confidentiality agreements in place with these third-party databases restricting the disclosure of your information. In certain limited situations, we have contracts in place permitting the third-party database to disclose the information to its subcontractors or affiliates, but only for authenticating your identity and only in accordance with confidentiality agreements.
-
-#### Forming the contents of a Digital ID
-
-The exact information that appears in our different types of Digital IDs is set forth in the relevant enrollment page and this Privacy Statement. Generally this information is limited to e-mail address and name, but certain classes of Digital IDs contain additional information. For example, SSL Certificates may contain the organization's Dun and Bradstreet number. Please note that all information that you provide us that forms the content of a Digital ID will be "published." Publication of Digital IDs in an accessible location (a repository) is an integral part of enabling the widespread use of Digital IDs. Your Digital ID will be published in our repository so that a third party may access, review, and rely upon your Digital ID. You should have no expectation of privacy regarding the content of your Digital ID.
-
-#### Permitting a Non-VeriSign Digital ID Provider or a Relying Third Party to access the information you provide (if you are using the Healthcare Authentication Service)
-
-If you are using the Healthcare Authentication Service, we may permit your Non-VeriSign Digital ID Provider to review the information you provide. For example, if you are using the Physician Authentication Service provided by the American Medical Association, we would permit the American Medical Association to review the information you provide. The use of your information by such Non-VeriSign Digital ID Provider should be governed by your agreement with that Non-VeriSign Digital ID Provider.
-
-In all cases where you are using the Healthcare Authentication Service, we may permit Relying Third Parties to review the information you provide.
-
-#### Processing payments (if you are using our payment services)
-
-If you use the VeriSign Payment Services payment gateway for online transactions, we may provide your personal information to appropriate financial institutions, processors, and third parties under contract with VeriSign or our Affiliates for providing a subset of the payment services (for example, credit authorization and fraud screening). For financial institutions and processors, the use of personally identifiable consumer information is governed by federal and state privacy laws. For other third parties under contract with VeriSign, the use and distribution of your personal information will be used by such entity for its internal use related to fulfilling the transaction services for VeriSign, will be treated as confidential by this entity, and will be transferred between VeriSign and this entity only via encrypted means. We may also permit the merchant through which you placed your order to review the personal information you provide. The merchant's use of your personal information should be governed by your agreement with the merchant.
-
-#### Assisting the merchant with your online purchase (if you are using Express Checkout)
-
-If you use Express Checkout to purchase a product, the merchant from whom you are making the purchase is given a copy of the information you have given us. The merchant's use of your personal information should be governed by your agreement with the merchant and by the merchant's privacy policy (if any).
-
-#### Disclosure by Law and Protection of VeriSign and Others
-
-If we are required by law to disclose certain information to local, state, federal, national or international government or law enforcement authorities, we will do so (for example, we may disclose the identity of purchasers of certain software products to the U.S. Department of Commerce, Bureau of Export Administration, as required under the terms of our export licenses). We will also disclose information to third parties as necessary in order to comply with applicable laws and regulations. In addition, VeriSign may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or enforce or apply VeriSign's agreements.
-
-#### Surveys
-
-From time-to-time we may request information from customers via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. Survey information will be used for purposes of monitoring or improving the use of and satisfaction with this Web site, and improving our customer service and product offerings.
-
-### Your Ability to Opt-Out of Further Notifications
-
-From time-to-time, we notify our subscribers of new products, announcements, upgrades and updates. (In the case of the VeriSign Healthcare Authentication Service, we will not notify you of new products, announcements, upgrades and updates, and therefore, you do not need to opt out of receiving these notices.) If you would like to opt-out of being notified, please contact us at the address given at the end of this Privacy Statement.
-
-If you would like to change your preferences online, please visit [http://www.verisign.com/compref/](http://www.verisign.com/compref/) Please be aware that you may not opt out of receiving information regarding the security, initial use, expiration, product enhancement or migration of our Digital IDs or other products or services.
-
-Please note that if you are using Express Checkout, the information you provide to us is used only to assist a merchant in making your online purchase, facilitating the support of Express Checkout or as required by law. We do not use this Express Checkout information to send you further notifications or communications other than those needed to support the product. Since we do not send you non-essential communications using your Express Checkout information, there is no need to indicate an opt-out preference. Please note that the merchant in Express Checkout may retain your information and you should follow that merchant's procedure to opt-out of further notifications.
-
-### Our Security Procedures
-
-We consider the protection of all personal information we receive from our Web site visitors and subscribers as critical to our corporate mission. Please be assured that we have security measures in place to protect against the loss, misuse, and alteration of any personal information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt all information that you submit in ordering one of our products or services using the Secure Sockets Layer (SSL) protocol. Our security procedures are also subject to at least an annual SAS-70 Type II audit by an internationally-recognized accounting firm.
-
-### How You Can Update or Correct Your Personal Information
-
-We cannot update or correct information contained in a Digital ID without destroying the integrity of the Digital ID because we digitally sign each subscriber's Digital ID as a part of the Digital ID issuance process. If we were to subsequently modify or remove any information listed in a Digital ID, our digital signature would not verify the Digital ID's new content. Furthermore, if a subscriber (sender) then digitally signed a message with his or her private key, a third party would not be able to properly verify the sender's signature (created using the sender's private key) because the sender's Digital ID would have been altered after the key pair's creation. For more information and tutorials on digital signatures, Digital IDs, keys, and related subjects, click here [http://www.verisign.com/repository](http://www.verisign.com/repository)
-
-If you would like to update or correct any personal information in our records that is not contained in your Digital ID, please contact us via e-mail at [id-support@verisign.com](mailto:id-support@verisign.com) (for Class 1 and Class 2 Digital IDs) at [support@verisign.com](mailto:support@verisign.com) (for Class 3 Digital IDs)), at [vps-support@verisign.com](mailto:vps-support@verisign.com) (for payment transaction services), or at the address given at the end of this Privacy Statement. You may correct or update any information in your Express Checkout profile by accessing your account and making these changes. You may correct or update any information in that you have supplied in using Digital Brand Management Services by logging into the Digital Brand Manager and making the necessary changes to your information or, alternatively, contacting our customer service group at [dbms-support@verisign.com](mailto:dbms-support@verisign.com) to request these changes.
-
-If you are using the VeriSign Healthcare Authentication Service and you would like to update or correct any information in your Subscriber Profile, you would need to contact the Non-VeriSign Digital ID Provider.
-
-### How You Can Revoke (Deactivate) Your Digital ID
-
-When a third party wants to rely on a Digital ID, it is important for the third party to know its status (for example, whether it is valid, suspended (where available) or revoked). The third party may do this by accessing our repository and querying for the status of the Digital ID. We do not generally delete Digital IDs (and their content) from our on-line repository because a third party might not then be able to check its status. You may, however, revoke (deactivate) your Digital ID. A revoked Digital ID will still appear in our repository with an indication that it has been revoked. If you are a Digital ID subscriber and would like to have your Digital ID revoked (deactivated) from our database, please visit our site at [http://www.verisign.com/products-services/security-services/ssl/revoke.html](https://web.archive.org/web/20050305032938id_/http://www.verisign.com/products-services/security-services/ssl/revoke.html) and follow the listed instructions or contact us via e-mail at [id-support@verisign.com](mailto:id-support@verisign.com) (for Class 1 and Class 2 Digital IDs) or at [support@verisign.com](mailto:support@verisign.com) (for Class 3 Digital IDs) or at the address given at the end of this Privacy Statement.
-
-### Email this Page
-
-If you use this feature, your email address will appear as the sender of the email. Neither your email address nor the recipient's email address will be used for any other purpose.
-
-### Former Customers of Guardent, Inc.
-
-Guardent, Inc. was acquired by VeriSign on February 26, 2004.  Guardent adhered to the Safe Harbor Privacy Principles with respect to personal data originating in the European Union.  VeriSign will voluntarily provide to former customers of Guardent the rights contained in the [Guardent Privacy Policy](https://web.archive.org/web/20050305032938id_/http://www.verisign.com/verisign-inc/government-relations/page_016222.html) for such customers’ personal data disclosed to Guardent and/or VeriSign before October 15, 2004.    
-
-
-### Changes to this Privacy Statement
-
-If a material change is made to this Privacy Statement and/or the way we use our customers' personally identifiable information then, with the prior written approval from TRUSTe, we will post prominent notice of the nature of such change on the first page of this Privacy Statement and also on our home page.
-
-Our mailing address is:
-
-| 
-
-VeriSign, Inc.   
-Attention: Support   
-487 East Middlefield Road   
-Mountain View, California 94043  
-  
----|---  
-  
-Failed to load XML file with Content ID '002866'.   
 
