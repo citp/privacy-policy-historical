@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nonstoppayments.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208170506id_/http%3A//nonstoppayments.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonstoppayments.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610015629id_/http%3A//www.nonstoppayments.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # nonstoppayments.com
 
