@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vi.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220090358id_/http%3A//visalus.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vi.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609025918id_/http%3A//visalus.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ViSalus
 
-Information is collected on this website by FVA Ventures, Inc. doing business as ViSalus Sciences ("ViSalus"). ViSalus is committed to protecting your privacy and will use your personal information responsibly. Please read below for detailed information about our privacy policy. 
+Information is collected on this website by ViSalus, Inc. doing business as ViSalus Sciences ("ViSalus"). ViSalus is committed to protecting your privacy and will use your personal information responsibly. Please read below for detailed information about our privacy policy. 
 
 ## Information Collection and Use
 
@@ -78,8 +78,8 @@ Please contact us with any questions about our privacy practices, this privacy p
 
 ViSalus™  
 340 E. Big Beaver Rd Suite 400  
-Troy, MI 48083
+Troy, MI 48084
 
-By Phone: Member Support at 248.524.9520
+By Phone: Member Support at 1-877-847-2587
 
-By E-mail: [customerserviceus@ViSalus.com](mailto:customerserviceus@ViSalus.com)
+By E-mail: [info@visalus.com](mailto:info@visalus.com)
