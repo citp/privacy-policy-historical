@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the cityofchicago.org privacy policy that was archived on 2012-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121116013208id_/http%3A//www.cityofchicago.org/city/en/general/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cityofchicago.org privacy policy that was archived on 2013-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610013626id_/http%3A//www.cityofchicago.org/city/en/general/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="linux chrome chrome69 webkit webkit5"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta name="description" content=""> 
         <meta name="keywords" content=""> 
         <meta name="google-site-verification" content="IkSsM0IAGpvE2RejHQrIlbmss6Ws-_6zR4x4ZfTptaM">
@@ -32,6 +33,10 @@
         <link rel="stylesheet" type="text/css" media="screen" href="/etc/designs/city/css/screen.css">
         <link rel="stylesheet" type="text/css" media="screen" href="/etc/designs/city/css/superfish.css">
         <link rel="stylesheet" type="text/css" media="screen" href="/etc/designs/city/css/prettyPhoto.css">
+
+    <!-- Style sheet for changed hyperlinks color and new column backgrounds -->
+        <link rel="stylesheet" type="text/css" media="screen" href="/etc/designs/city/css/IE-only.css">
+
         <!--[if gte IE 7]>
         <link rel="stylesheet" type="text/css" media="screen" href="/etc/designs/city/css/cssshadows.css" />
         <![endif]-->
@@ -76,65 +81,65 @@
                     dropShadows: false,
                     autoArrows: false
                     //animation:   {opacity:'show',height:'show'},
-    				//speed: 'fast'
+                    //speed: 'fast'
                 }); 
 
-				$(".peFallback").hide();
-				$(".peEnhance").show();
-				
-				$(".selfSubmitting").change(function() {
-					$(this).closest("form").submit();
-				});
-				 $(".yt_pPhoto").prettyPhoto({
-			        allowresize: false,
-			        opacity: .4,
-			        default_width: 640,
-			        default_height: 385
-			    });
-			    $(".page-link2").click(function() {
-			    	var vc_cmpHolder = $(this).closest(".youtubeparsys");
-			    	var vc_visibleVideo = vc_cmpHolder.find(".visibleVideoGal");
-			    	var currentVideoGal = vc_visibleVideo.attr("class");
-			    	var currentVideoGalId = parseInt(currentVideoGal.substr(currentVideoGal.indexOf('-')+1));			    	
-			    	var nextGal = ".videoGal-"+(currentVideoGalId+1);
+                $(".peFallback").hide();
+                $(".peEnhance").show();
+                
+                $(".selfSubmitting").change(function() {
+                    $(this).closest("form").submit();
+                });
+                 $(".yt_pPhoto").prettyPhoto({
+                    allowresize: false,
+                    opacity: .4,
+                    default_width: 640,
+                    default_height: 385
+                });
+                $(".page-link2").click(function() {
+                    var vc_cmpHolder = $(this).closest(".youtubeparsys");
+                    var vc_visibleVideo = vc_cmpHolder.find(".visibleVideoGal");
+                    var currentVideoGal = vc_visibleVideo.attr("class");
+                    var currentVideoGalId = parseInt(currentVideoGal.substr(currentVideoGal.indexOf('-')+1));                   
+                    var nextGal = ".videoGal-"+(currentVideoGalId+1);
 
-			        var directionOut = "left";
-			        var directionIn = "right"
-			    	if($(this).hasClass("prev")){
-			            var directionOut = "right";
-			            var directionIn = "left";
-			            var nextGal = ".videoGal-"+(currentVideoGalId-1);
-			    	};
+                    var directionOut = "left";
+                    var directionIn = "right"
+                    if($(this).hasClass("prev")){
+                        var directionOut = "right";
+                        var directionIn = "left";
+                        var nextGal = ".videoGal-"+(currentVideoGalId-1);
+                    };
 
-			        if(!vc_cmpHolder.find(nextGal).prev().hasClass("videoGal")) {
-			        	vc_cmpHolder.find(".prev img").hide();
-			        }
-			        else {
-			        	vc_cmpHolder.find(".prev img").show();
-			        }
-			        if(!vc_cmpHolder.find(nextGal).next().hasClass("videoGal")) {
-			        	vc_cmpHolder.find(".next img").hide();
-			        }
-			        else {
-			        	vc_cmpHolder.find(".next img").show();
-			        }
-			    	
-					vc_cmpHolder.find(".visibleVideoGal").hide("slide",{direction:directionOut},300, function() {
-						vc_cmpHolder.find(nextGal).show("slide",{direction:directionIn},400).removeClass('hiddenVideoGal').addClass('visibleVideoGal');
-			        }).removeClass('visibleVideoGal').addClass('hiddenVideoGal');
-			    });
-			    
-		    	var visibleVideosParents = $('.visibleVideo').parent();
-		    	visibleVideosParents.wrapAll('<div class="videoGal visibleVideoGal videoGal-0" style="display:block"/>');
+                    if(!vc_cmpHolder.find(nextGal).prev().hasClass("videoGal")) {
+                        vc_cmpHolder.find(".prev img").hide();
+                    }
+                    else {
+                        vc_cmpHolder.find(".prev img").show();
+                    }
+                    if(!vc_cmpHolder.find(nextGal).next().hasClass("videoGal")) {
+                        vc_cmpHolder.find(".next img").hide();
+                    }
+                    else {
+                        vc_cmpHolder.find(".next img").show();
+                    }
+                    
+                    vc_cmpHolder.find(".visibleVideoGal").hide("slide",{direction:directionOut},300, function() {
+                        vc_cmpHolder.find(nextGal).show("slide",{direction:directionIn},400).removeClass('hiddenVideoGal').addClass('visibleVideoGal');
+                    }).removeClass('visibleVideoGal').addClass('hiddenVideoGal');
+                });
+                
+                var visibleVideosParents = $('.visibleVideo').parent();
+                visibleVideosParents.wrapAll('<div class="videoGal visibleVideoGal videoGal-0" style="display:block"/>');
 
-				$('.hiddenVideo').parent().each(function(index) {
-				    var remainder = index % visibleVideosParents.length;
-				    if (remainder == 0) {
-				    	var quotient = ( index - remainder ) / visibleVideosParents.length;
-				    	var hv_parents = $('.video-'+(quotient+1)).parent();
-				    	hv_parents.wrapAll('<div class="videoGal hiddenVideoGal videoGal-' + (quotient+1) + '" />');
-				    }						
-				});
+                $('.hiddenVideo').parent().each(function(index) {
+                    var remainder = index % visibleVideosParents.length;
+                    if (remainder == 0) {
+                        var quotient = ( index - remainder ) / visibleVideosParents.length;
+                        var hv_parents = $('.video-'+(quotient+1)).parent();
+                        hv_parents.wrapAll('<div class="videoGal hiddenVideoGal videoGal-' + (quotient+1) + '" />');
+                    }                       
+                });
             });          
         </script>
         
@@ -160,13 +165,13 @@
 <script type="text/javascript">
  $(document).ready(function() {
  $.reject({ 
-        reject: { msie7: true,
+        reject: { /*msie7: true,
                   firefox15: true,
                   firefox11: true,
                   firefox7: true,
                   firefox3: true,
                   chrome21: true,
-                  chrome20: true,
+                  chrome20: true,*/
                   chrome19: true
          }, // Reject these browsers  
         header: 'Dear Web User:', // Header Text  
@@ -195,7 +200,12 @@
  
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+
+
 <style type="text/css">
 @charset "utf-8";
 /* CSS for google translate */
@@ -348,7 +358,7 @@ a.lan:hover, a.lan:active {
                         <div class="megacolumn">
                             <div id="mega_c2" class="megacolumn-content">
                                 <ul>
-                                    <li><a href="/city/en/svcs/find.html" title="City Services Search">City Services Search</a></li>
+                                    <li><a href="/city/en/depts/311/supp_info/most_popular_311services.html" title="Most Popular 311 Services">Most Popular 311 Services</a></li>
                                     <li><a href="/city/en/svcs/servicedirectory.html" title="Service Directory (A-Z)">Service Directory (A-Z)</a></li>
                                     <li><a href="/city/en/depts/311/supp_info/request_service.html" title="Request a 311 Service">Request a 311 Service</a></li> 
                                 </ul>
@@ -405,8 +415,8 @@ a.lan:hover, a.lan:active {
                                     <li><a href="/city/en/ofinterest/res/vol.html" title="Volunteers">Volunteers</a></li>
                                     <li><a href="/city/en/ofinterest/res/teen.html" title="Youth/Teens">Youth/Teens</a></li>
                                     <li><p>&nbsp;</p></li>
-                                    <li><p class="header"><a href="http://www.explorechicago.org/city/en.html" title="Visitors">Visitors</a></p></li>
-                                    <li><a href="http://www.explorechicago.org/">Explore Chicago</a></li>
+                                    <li><p class="header"><a href="http://www.choosechicago.com/" target="_blank" title="Visitors">Visitors</a></p></li> 
+                                    <li><a href="http://www.choosechicago.com/" target="_blank">Choose Chicago</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -438,7 +448,7 @@ a.lan:hover, a.lan:active {
                                     <li><a href="/city/en/ofinterest/bus/social.html" title="Social Service Providers">Social Service Providers</a></li>
                                     <li><a href="/city/en/ofinterest/bus/trades.html" title="Trades">Trades</a></li>
                                     <li><a href="/city/en/ofinterest/bus/vend.html" title="Vendors">Vendors</a></li>
-						<li><p>&nbsp;</p></li> 
+                        <li><p>&nbsp;</p></li> 
                                     <li><strong><a href="/city/en/depts/fin/provdrs/financial_policy.html" title="Investor Relations">Investor Relations</a></strong></li>                              
                                 </ul>
                             </div>
@@ -465,14 +475,15 @@ a.lan:hover, a.lan:active {
                                     <li><a href="/city/en/progs/grants.html" title="Grants">Grants</a></li>
                                     <li><a href="/city/en/progs/health.html" title="Health &amp; Wellness">Health &amp; Wellness</a></li>
                                     <li><a href="/city/en/progs/hous.html" title="Housing">Housing</a></li>
+                                    <li><a href="/city/en/progs/inspectionspermitting.html" title="Inspections, Permitting &amp; Licensing">Inspections, Permitting &amp; Licensing</a></li>
                                 </ul>
                             </div>
                         </div>
                         <div class="megacolumn">
                             <div class="megacolumn-content">
                                 <ul>
-                                    <li><a href="/city/en/progs/inspectionspermitting.html" title="Inspections, Permitting &amp; Licensing">Inspections, Permitting &amp; Licensing</a></li>
                                     <li><a href="/city/en/progs/emp.html" title="Jobs">Jobs</a></li>
+                                    <li><a href="/city/en/progs/electricity_aggregation.html" title="Municipal Aggregation">Municipal Aggregation</a></li>
                                     <li><a href="/city/en/progs/municipal_marketing.html" title="Municipal Marketing">Municipal Marketing</a></li>
                                     <li><a href="/city/en/progs/recovery_reinvest.html" title="Recovery &amp; Reinvestment (Stimulus)">Recovery &amp; Reinvestment (Stimulus)</a></li>
                                     <li><a href="/city/en/progs/safety.html" title="Safety">Safety</a></li>
@@ -520,7 +531,7 @@ a.lan:hover, a.lan:active {
                                     <li><a href="/city/en/depts/doa.html" title="Aviation">Aviation</a></li>
                                     <li><a href="/city/en/depts/obm.html" title="Budget &amp; Management">Budget &amp; Management</a></li>
                                     <li><a href="/city/en/depts/bldgs.html" title="Buildings">Buildings</a></li>
-                                    <li><a href="/city/en/depts/bacp.html" title="Bus Affairs &amp; Consumer Protection">Bus Affairs &amp; Consumer Protection</a></li>                                
+                                    <li><a href="/city/en/depts/bacp.html" title="Bus. Affairs &amp; Consumer Protection">Bus. Affairs &amp; Consumer Protection</a></li>                                
                                     <li><a href="/city/en/depts/tv.html" title="City of Chicago TV">City of Chicago TV</a></li>
                                     <li><a href="/city/en/depts/dca.html" title="Cultural Affairs &amp; Special Events">Cultural Affairs &amp; Special Events</a></li>
                                     <li><a href="/city/en/depts/oem.html" title="Emergency Mgmt &amp; Communications">Emergency Mgmt &amp; Communications</a></li>
@@ -550,7 +561,7 @@ a.lan:hover, a.lan:active {
                             <div class="megacolumn-content">
                                 <ul>
                                     <li><p>&nbsp;</p></li>    
-				    <li><a href="/city/en/depts/olig.html" title="Legislative Inspector General">Legislative Inspector General</a></li>                          
+                    <li><a href="/city/en/depts/olig.html" title="Legislative Inspector General">Legislative Inspector General</a></li>                          
                                     <li><a href="/city/en/depts/lac.html" title="License Appeal Commission">License Appeal Commission</a></li>
                                     <li><a href="/city/en/depts/mopd.html" title="People with Disabilities">People with Disabilities</a></li>
                                     <li><a href="/city/en/depts/cpd.html" title="Police">Police</a></li>
@@ -576,15 +587,15 @@ a.lan:hover, a.lan:active {
                 <li><p>&nbsp;</p></li>
                 <li><a href="/city/en/about/history.html" title="Chicago History">Chicago History</a></li>
                 <li><a href="/city/en/about/facts.html" title="Facts &amp; Statistics">Facts &amp; Statistics</a></li>
-                <li><a href="http://www.explorechicago.org/city/en/things_see_do/attractions.html" title="Attractions">Attractions</a></li>
-                <li><a href="http://www.explorechicago.org/city/en/neighborhoods.html" title="Neighborhoods">Neighborhoods</a></li>
+                <li><a href="http://www.choosechicago.com/deals/tours-and-attractions/" target="_blank" title="Attractions">Attractions</a></li>
+              
             <ul class="right"></ul>
             </ul>
         </li>
     </ul>
 
     </div>
-    <!-- /top-nav-module-->
+    <!-- /top-nav-module--> 
 
     <!-- Global Nav Div Ends Here -->
 </div>
@@ -732,7 +743,7 @@ a.lan:hover, a.lan:active {
      
     <!-- /footer-navigation -->
 
-    Copyright © 2010 - 2012 City of Chicago<br>
+    Copyright © 2010 - 2013 City of Chicago<br>
 
     <br>
     
