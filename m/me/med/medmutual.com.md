@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medmutual.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017133655id_/https%3A//www.medmutual.com/About-Medical-Mutual/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medmutual.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609133824id_/https%3A//www.medmutual.com/About-Medical-Mutual/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy & Confidentiality | Medical Mutual
 
@@ -34,7 +34,6 @@ Search the Site Enter a keyword
 
   * [Corporate Profile](https://web.archive.org/About-Medical-Mutual/Corporate-Profile.aspx "Corporate Profile")
     * [Our Values](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Our-Values.aspx "Our Values")
-    * [Service Reports](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Service-Reports.aspx "Service Reports")
     * [Member Rights & Responsibilities](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Member-Rights-and-Responsibilities.aspx "Member Rights & Responsibilities")
     * [Compliance Connection](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Compliance-Connection.aspx "Compliance Connection")
     * [Accreditation & Awards](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Accreditation-Awards.aspx "Accreditation & Awards")
@@ -47,6 +46,7 @@ Search the Site Enter a keyword
     * [Why Work at Medical Mutual?](https://web.archive.org/About-Medical-Mutual/Careers/Why-Work-at-Medical-Mutual.aspx "Why Work at Medical Mutual?")
     * [Diversity](https://web.archive.org/About-Medical-Mutual/Careers/Diversity.aspx "Diversity")
     * [College Graduate Development Program](https://web.archive.org/About-Medical-Mutual/Careers/College-Graduate-Development-Program.aspx "College Graduate Development Program")
+    * [College Internship Program](https://web.archive.org/About-Medical-Mutual/Careers/College-Internship-Program.aspx "College Internship Program")
     * [Career FAQ](https://web.archive.org/About-Medical-Mutual/Careers/Career-FAQ.aspx "Career FAQ")
   * [Contact Medical Mutual](https://web.archive.org/About-Medical-Mutual/Contact-Medical-Mutual.aspx "Contact Medical Mutual")
     * [Customer Service](https://web.archive.org/About-Medical-Mutual/Contact-Medical-Mutual/Customer-Service.aspx "Customer Service")
@@ -68,7 +68,7 @@ Search the Site Enter a keyword
 
 ## HIPAA Notice of Privacy Practices
 
-To read more about our privacy practices regarding health and medical information under the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), please click [here](https://web.archive.org/web/20121017133655id_/https%3A//www.medmutual.com/About-Medical-Mutual/~/media/Files/Miscellaneous%20MedMutualcom%20PDFs/X6102%20MMO%20privacy%20letter%20R11_10.ashx), which links to our HIPAA Notice of Privacy Practices.
+To read more about our privacy practices regarding health and medical information under the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), please click [here](https://web.archive.org/~/media/Files/Miscellaneous%20MedMutualcom%20PDFs/X6102%20MMO%20privacy%20letter%20R11_10.ashx), which links to our HIPAA Notice of Privacy Practices.
 
 ## Website Privacy Policy
 
@@ -140,9 +140,9 @@ If you suspect improper use or access to Medical Mutual information, please noti
 
 ### Opt Out/Updating Your Information
 
-You may receive various electronic communications from Medical Mutual, such as newsletters, account notifications, and other marketing communications about our products and services. To opt-out of any specific electronic communication, follow the “unsubscribe” instructions associated with the specific communication. If you have submitted personally identifiable information through this Site, you may [request a restriction on the use and disclosure](https://web.archive.org/web/20121017133655id_/https%3A//www.medmutual.com/About-Medical-Mutual/~/media/Files/Miscellaneous%20MedMutualcom%20PDFs/Restriction%20On%20Use%20Or%20Disclosure%20Of%20Information%20Form.ashx) of your information.
+You may receive various electronic communications from Medical Mutual, such as newsletters, account notifications, and other marketing communications about our products and services. To opt-out of any specific electronic communication, follow the “unsubscribe” instructions associated with the specific communication. If you have submitted personally identifiable information through this Site, you may [request a restriction on the use and disclosure](https://web.archive.org/~/media/Files/Miscellaneous%20MedMutualcom%20PDFs/Restriction%20On%20Use%20Or%20Disclosure%20Of%20Information%20Form.ashx) of your information.
 
-You may also request [access to your personal information ](https://web.archive.org/web/20121017133655id_/https%3A//www.medmutual.com/About-Medical-Mutual/~/media/Files/Miscellaneous%20MedMutualcom%20PDFs/Request%20For%20Record%20Set%20Form.ashx)held by Medical Mutual and you may request that we [correct or amend your personal data](https://web.archive.org/web/20121017133655id_/https%3A//www.medmutual.com/About-Medical-Mutual/~/media/Files/Miscellaneous%20MedMutualcom%20PDFs/CorrectAmend%20Information%20Request%20Form.ashx). As a reminder to you, when exchanging emails, any email that you send or receive on your employer’s email system may be the property of your employer. Consequently, your employer may have the ability to review your personal information sent via email.
+You may also request [access to your personal information](https://web.archive.org/~/media/Files/Miscellaneous%20MedMutualcom%20PDFs/Request%20For%20Record%20Set%20Form.ashx) held by Medical Mutual and you may request that we [correct or amend your personal data](https://web.archive.org/~/media/Files/Miscellaneous%20MedMutualcom%20PDFs/CorrectAmend%20Information%20Request%20Form.ashx). As a reminder to you, when exchanging emails, any email that you send or receive on your employer’s email system may be the property of your employer. Consequently, your employer may have the ability to review your personal information sent via email.
 
 ### Links to Third Party Websites
 
