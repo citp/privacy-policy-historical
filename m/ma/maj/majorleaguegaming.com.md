@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the majorleaguegaming.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006135706id_/http%3A//accounts.majorleaguegaming.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majorleaguegaming.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609155952id_/http%3A//accounts.majorleaguegaming.com/privacy_policy) for the most accurate reproduction.*
 
-# MLGid Account Management - MLG - Major League Gaming
+# MLG Account Management - MLG - Major League Gaming
 
 **_Major League Gaming Privacy Policy_**
 
-Welcome and thank you for visiting the MLG network of websites, an interactive online service operated by Major League Gaming, Inc. (“Major League Gaming” or “MLG”). Major League Gaming has posted this privacy policy in order to demonstrate its commitment to your privacy. This privacy policy applies to all of the websites offered by Major League Gaming (collectively, the “Services”), including [mlgpro.com](http://mlgpro.com/), [gamebattles.com](http://gamebattles.com/), [majorleaguegaming.com](http://majorleaguegaming.com/), [mlg.tv](http://mlg.tv/), [gotfrag.com](http://gotfrag.com/) and [smashboards.com](http://smashboards.com/). The following discloses Major League Gaming’s online information collection and use practices and the choices you can make about the way we use and share such information.
+Welcome and thank you for visiting the MLG network of websites, an interactive online service operated by Major League Gaming, Inc. (“Major League Gaming” or “MLG”). Major League Gaming has posted this privacy policy in order to demonstrate its commitment to your privacy. This privacy policy applies to all of the websites offered by Major League Gaming (collectively, the “Services”), including [mlgpro.com](http://mlgpro.com/), [gamebattles.com](http://gamebattles.com/), [majorleaguegaming.com](http://majorleaguegaming.com/), [mlg.tv](http://mlg.tv/), and [gotfrag.com](http://gotfrag.com/). The following discloses Major League Gaming’s online information collection and use practices and the choices you can make about the way we use and share such information.
 
 BY ACCESSING AND USING THE SERVICES, YOU ACCEPT, WITHOUT LIMITATION OR QUALIFICATION, THIS PRIVACY POLICY, SO PLEASE TAKE THE TIME TO READ THIS POLICY AND UNDERSTAND HOW WE USE YOUR PERSONAL INFORMATION.  PLEASE NOTE THAT OUR ONLINE INFORMATION COLLECTION AND USE PRACTICES MAY DIFFER FROM OUR PRACTICES REGARDING INFORMATION OBTAINED OFFLINE. IF YOU DO NOT ACCEPT THIS PRIVACY POLICY IN ITS ENTIRETY, YOU MAY NOT USE THE SERVICES.
 
@@ -12,7 +12,7 @@ This privacy policy may change from time to time.  It is important that you che
 
 **The Personal Information We Collect.**  When using our Services or registering for the Website, you may be asked to provide, or you may choose to upload, certain personally identifiable information about yourself ( _i.e._ information that can directly identify you or indicate where you might be contacted) (hereinafter referred to as "Personal Information").
 
- For example, you can order products, enter competitions, participate in surveys, vote in polls, subscribe to a service (like our newsletter) or participate in a chat room, message board or forum. The types of Personal Information that may be collected through your participation in the Services may include: name, address, age, date of birth, gender, e-mail address, telephone number, fax number, credit card information, Xbox LIVE account information, PlayStation Network account information and information about your interests in and use of various products, programs and services. Sometimes you can submit Personal Information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to a friend, you might submit the friend's name and address. The types of personally identifiable information that may be collected about other people at these pages may include: recipient's name, address, age, date of birth, e-mail address, gender and telephone number. 
+For example, you can order products, enter competitions, participate in surveys, vote in polls, subscribe to a service (like our newsletter) or participate in a chat room, message board or forum. The types of Personal Information that may be collected through your participation in the Services may include: name, address, age, date of birth, gender, e-mail address, telephone number, fax number, credit card information, Xbox LIVE account information, PlayStation Network account information and information about your interests in and use of various products, programs and services. Sometimes you can submit Personal Information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to a friend, you might submit the friend's name and address. The types of personally identifiable information that may be collected about other people at these pages may include: recipient's name, address, age, date of birth, e-mail address, gender and telephone number. 
 
 In addition, you may choose to include Personal Information in your MLG public profile.  For example, you may include information such as your name, address, age, date of birth, gender, contact information, what video games you play, your Xbox LIVE and/or PlayStation Network account name and what video game consoles you own.  By sharing such information on your MLG public profile, you acknowledge that others may view and access such information from your public profile.
 
@@ -35,7 +35,7 @@ Please note that we reserve the right to access or disclose your Personal Inform
 
 **Use and Disclosure of Non-Personally Identifiable Information.**
 
-We also may collect certain non-personally identifiable information, such as pages viewed, advertisements clicked, browser type ( _e.g._ , Firefox, Internet Explorer), operating system ( _e.g._ , Windows or Mac OS) and other data.
+We also may collect certain non-personally identifiable information, such as pages viewed, advertisements clicked, browser type ( _e.g._ , Firefox, Internet Explorer, Chrome), operating system ( _e.g._ , Windows or Mac OS) and other data.
 
 We sometimes use the non-personally identifiable information that we collect to improve the design and content of our Services and to enable us to personalize your Internet experience.  We may aggregate such information collected in a manner that does not identify any individual (“Aggregate Information”) to improve and enhance your experience with the Services and for our market research and advertising activities.  For example, we may share Aggregate Information with affiliated and unaffiliated third parties, such as business partners, advertisers, ad networks, manufacturers, distributors and retailers, in an aggregate, anonymous form, which means that the shared information will not contain nor be linked to any Personal Information.  
 
@@ -111,8 +111,8 @@ Attn: Privacy
 
 **United States of America:**   Our Services are maintained in the United States of America. By using the Services, you authorize the export of Personal Information to the USA and its storage and use as specified in this policy.
 
-Effective Date: This privacy policy was last updated on Feb 22, 2012.
+Effective Date: This privacy policy was last updated on January 25, 2013.
 
-© 2012 Major League Gaming Inc.
+© 2013 Major League Gaming Inc.
 
-Major League Gaming, MLG, the MLG logo, GameBattles, the GameBattles logo, GotFrag, the GotFrag logo, Smash Boards and the Smash Boards logo are the exclusive properties of Major League Gaming Inc. 
+Major League Gaming, MLG, the MLG logos, GameBattles, the GameBattles logo, GotFrag, and the GotFrag logo, are the exclusive properties of Major League Gaming Inc. 
