@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biotrust.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122042135id_/http%3A//biotrust.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biotrust.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609080658id_/http%3A//biotrust.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BioTRUST
 
@@ -40,7 +40,7 @@ After a transaction, your private information (credit cards, social security num
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. You can opt-out of cookie tracking from your computer.
 
 **Do we disclose any information to outside parties?**
 
@@ -49,6 +49,12 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 **Third party links**
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Policy against advertising our website using unsolicited email messages**
+
+We require that all e-mails promoting BioTrust.com or its subsidiaries are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brands and Web sites using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
+
+If you feel you’ve been sent unsolicited emails promoting one or more of our brands or websites and would like to register a complaint, please email moc.tsurtoibnull@troppus. We will immediately investigate all allegations made related to unsolicited messages.
 
 **California Online Privacy Protection Act Compliance**
 
@@ -86,17 +92,8 @@ www.biotrust.com
 22100 E 26th Ave #100  
 Aurora, CO 80019  
 USA  
-moc.tsurtoibnull@nimda  
+moc.tsurtoibnull@troppus  
 1-800-766-5086
-
-**Privacy Policy Customer Pledge**
-
-We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
-Federal Trade Commision Fair  
-California Online Privacy Protection Act  
-Childrens Online Privacy Protection Act  
-Privacy Alliance  
-Controlling the Assault of Non-Solicited Pornography and Marketing Act
 
 If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](https://secure.trust-guard.com/disputesystem/disputeresolution.php).
 
