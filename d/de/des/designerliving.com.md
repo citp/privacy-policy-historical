@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designerliving.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207110754id_/http%3A//www.designerliving.com/privacy.aspx%3Futm_source%3DHP_Footer_Privacy%26utm_medium%3DHP_Analysis%26utm_campaign%3DGA_HomePage_Footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designerliving.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609071343id_/http%3A//www.designerliving.com/privacy.aspx%3Futm_source%3DHP_Footer_Privacy%26utm_medium%3DHP_Analysis%26utm_campaign%3DGA_HomePage_Footer) for the most accurate reproduction.*
 
 # Privacy Policy
 
