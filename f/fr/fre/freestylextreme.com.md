@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freestylextreme.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209011715id_/http%3A//www.freestylextreme.com/uk/Home/Info/Cookies-and-Privacy-Policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestylextreme.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609124954id_/http%3A//www.freestylextreme.com/uk/Home/Info/Cookies-and-Privacy-Policy/default.aspx) for the most accurate reproduction.*
 
 # Cookies and Privacy Policy | Freestylextreme
-
-FreestyleXtreme use a range of cookies to make our site function and to improve your browsing experience. These cookies store information about your browsing experience, such as the items you have looked at and the item you have added to your basket. You can find a detailed list of all the cookies we use below. 
 
 The cookie settings on this website are set to allow all cookies; this will give you the very best browsing experience. If you continue to browse the site, you are consenting to this.
 
@@ -69,3 +67,9 @@ Whitby Road
 Bristol  
 BS4 4EX  
 UK
+
+Freestylextreme Trading Limited
+
+Registered in England & Wales
+
+Company No. 06950212
