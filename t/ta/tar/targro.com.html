@@ -1,18 +1,17 @@
-<!--The following is the downloaded HTML source of the targro.com privacy policy that was archived on 2012-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121108025310id_/http%3A//www.targro.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the targro.com privacy policy that was archived on 2013-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130609132301id_/http%3A//www.targro.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html><html lang="en"><head>
   <title></title>
   <meta name="y_key" content="33aef49e552f67b6">
   <meta name="msvalidate.01" content="B21D36E9CD44E453115C622E6F8F57A1">
   <meta name="verify-v1" content="TYAOnZJgJVDjPIo9SjkZ0mrkxIPJLDoJLfao0bwDnRU=">
-  <meta http-equiv="Content-Language" content="en">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="title" content="">
   <meta name="description" content="">
   <meta name="keywords" content="">
   
-  <link href="http://www.targro.com/include/css/global.css" rel="stylesheet">
+  <link href="http://www.targro.com/include/css/global-va2.css" rel="stylesheet">
   <link href="http://www.targro.com/include/css/ui_buttons.css" rel="stylesheet">
   <link href="http://www.targro.com/include/css/search.css" rel="stylesheet">
   <link rel="stylesheet" href="http://www.targro.com/libs/jalerts/jquery.alerts.css">
@@ -26,53 +25,82 @@
 </script>
 <script src="http://www.targro.com/include/js/jquery.js" type="text/javascript"></script>
 <script src="http://www.targro.com/include/js/jquery-ui.min.js" type="text/javascript"></script>
-<script src="http://www.targro.com/include/js/jquery.autoresize.js" type="text/javascript"></script>
-<script src="http://www.targro.com/include/js/ui/ui.autocomplete.js" type="text/javascript"></script>
-<script src="http://www.targro.com/include/js/liveqry.js" type="text/javascript"></script>
-<script src="http://www.targro.com/libs/jalerts/jquery.alerts.js" type="text/javascript"></script>      
-<script src="http://www.targro.com/include/js/global.js" type="text/javascript"></script>
-<script src="http://www.targro.com/include/js/init.js" type="text/javascript"></script>
-<script src="http://www.targro.com/include/js/search-suggestion.js" type="text/javascript"></script>
-  <script src="http://www.targro.com/include/js/listings_change.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    var DEFER = { };
+        DEFER.srcs = [                
+                        //'http://www.targro.com/include/js/jquery-ui.min.js',
+                        'http://www.targro.com/include/js/liveqry.js',
+                        'http://www.targro.com/include/js/jquery.autoresize.js',
+                        'http://www.targro.com/include/js/ui/ui.autocomplete.js',
+                        'http://www.targro.com/libs/jalerts/jquery.alerts.js',
+                        'http://www.targro.com/include/js/global.js',
+                        'http://www.targro.com/include/js/init.js',
+                        'http://www.targro.com/include/js/search-suggestion.js'
+                     ];
+    DEFER.srcs.push('http://www.targro.com/include/js/listings_change.js');
+    
+    $(function() { 
+        for(var i in DEFER.srcs) {
+            var script = document.createElement('SCRIPT');
+            script.src = DEFER.srcs[i];
+            document.getElementsByTagName('HEAD')[0].appendChild(script);
+        }
+        
+    } )
+</script>
+
 
 </head>
 <body>
 <div id="page-wrap">
-    
-  <div id="header" class="clearfix">
-	
-    <div id="logo-wrap">
-      <a href="http://www.targro.com/">
-        <img src="http://www.targro.com/images/targro_logo.jpg" title="TARGRO.COM" alt="TARGRO.COM" border="0">
-      </a>
-    </div>
+    <div id="header-new">  
+            <div id="header-bar" class="clearfix header-new-class">
+				<div id="logo-wrap-new">
+                    <a href="http://www.targro.com/">
+                        <img src="http://www.targro.com/images/targro_logo.jpg" title="TARGRO.COM" alt="TARGRO.COM" border="0">
+                    </a>
+                </div>
+				<form action="http://www.targro.com/search">
+				<div id="search-wrap-new" class="clearfix">            
+                        <div class="ui-autocomplete-search-field">
+                           <input class="ui-autocomplete-field input_text ui_input_search" id="search-qnew" name="q" type="text" placeholder="Search" value="">
+                            <img class="loading" style="top:5px;right:30px" src="http://www.targro.com/images/ajax-loader2.gif">
+                            <button></button>
+                        </div>
+                </div>
+				<div class="clearfix" style="width:10px; float:left;padding: 10px 5px 0px 3px;font-weight:bold;color:white;"> in </div>
+				<div class="box_option_list_new float-left">
+					<select name="parent_category_id" class="select_drop_down">
+						<option value="">All categories</option>
+												<option value="9">Anything Else</option>
+												<option value="176">Business Opportunities</option>
+												<option value="10">Community</option>
+												<option value="196">Events</option>
+												<option value="11">For Sale</option>
+												<option value="77">Free Stuff</option>
+												<option value="13">Gigs</option>
+												<option value="14">Jobs</option>
+												<option value="15">Personals</option>
+												<option value="16">Properties</option>
+												<option value="17">Services</option>
+											</select>
+				</div>
+				<div class="float-left clearfix" style="padding-top:5px;">
+					<button class="ui-button-post-free-ad-greenb" href="http://www.targro.com/search-revamp">Search</button>
+				</div>
+				</form>
+				                    <div id="login-wrap-new" class="float-left clearfix">
+                        <a href="http://www.targro.com/login">Login</a>
+                        <span class="sign-reg-sep">|</span>
+                        <a href="http://www.targro.com/login">Signup</a>
+                    </div>
+                				<div class="float-right clearfix" style="padding-top:7px;">
+					<a class="ui-button-post-free-ad-green" href="http://www.targro.com/classifieds/post">Post Free Ad</a>
+				</div>
+            </div> 
 
-    <div id="search-wrap" class="clearfix">
-        <form action="http://www.targro.com/search">            
-            <div class="ui-autocomplete-search-field">
-                <input class="ui-autocomplete-field input_text ui_input_search" id="search-q" name="q" type="text" placeholder="Quick Search" value="">
-                <img class="loading" style="top:5px;right:30px" src="http://www.targro.com/images/ajax-loader2.gif">
-                <button></button>
-            </div>
-        </form>
-    </div>
-      
-      <div id="login-wrap">
-      <form action="http://www.targro.com/login" method="post">
-        <input id="login-username" name="email" type="text" value="email" xml:default_value="email">
-        <input id="login-password" class="login-password" name="password" type="password">
-        <input id="login-pseudo-password" value="password" class="login-password" type="text">
-        <button type="submit" name="action" value="login" class="UI_Button UI_Button_Green">
-          <span>Login</span>
-        </button>
-      </form>
-    </div>
-    <div id="signup-wrap">
-      <a href="http://www.targro.com/register">
-      Sign Up
-      </a>
-    </div>
-    </div>
+    </div> 
 <div id="page-content" class="clearfix"> 
     
         <div id="right-column">
@@ -82,93 +110,93 @@
     <div id="featured-divs">
           <div class="featured-div clearfix">
   <div class="featured-img">
-    <a href="http://www.targro.com/classified/Urgent-locuri-in-domeniul-constructiilor-Germania-Austria-Noiembrie/250095">
+    <a href="http://www.targro.com/classified/-Mandarin-Chinese-Cantonese-lesson-with-native-Prof-by-skype-/289621">
       <img src="http://www.targro.com/thumb/no_image.gif?d=64">
     </a>
   </div>
   <div class="featured-text">
-    <a href="http://www.targro.com/classified/Urgent-locuri-in-domeniul-constructiilor-Germania-Austria-Noiembrie/250095">Urgent locuri in domeniul constructiilor  Germania/Austria Noiembrie</a>
+    <a href="http://www.targro.com/classified/-Mandarin-Chinese-Cantonese-lesson-with-native-Prof-by-skype-/289621">中文 Mandarin Chinese/ Cantonese lesson with native Prof. by skype </a>
   </div>
 </div>          <div class="featured-div clearfix featured-odd">
   <div class="featured-img">
-    <a href="http://www.targro.com/classified/Guaranteed-Personal-Loans-Available-No-credit-check-Fast-approval-/249773">
-      <img src="http://www.targro.com/thumb/classifieds/small/085d1b_ace7d0f1-a957-4524-b051-313165c987a8-500.jpg?d=64">
-    </a>
-  </div>
-  <div class="featured-text">
-    <a href="http://www.targro.com/classified/Guaranteed-Personal-Loans-Available-No-credit-check-Fast-approval-/249773">Guaranteed Personal Loans Available - No credit check, Fast approval.</a>
-  </div>
-</div>          <div class="featured-div clearfix">
-  <div class="featured-img">
-    <a href="http://www.targro.com/classified/Loans-Available-at-low-interest-rate-No-credit-check-no-collateral-required-/249772">
-      <img src="http://www.targro.com/thumb/classifieds/small/3f7786_doc.jpg?d=64">
-    </a>
-  </div>
-  <div class="featured-text">
-    <a href="http://www.targro.com/classified/Loans-Available-at-low-interest-rate-No-credit-check-no-collateral-required-/249772">Loans Available at low interest rate, No credit check, no collateral required.</a>
-  </div>
-</div>          <div class="featured-div clearfix featured-odd">
-  <div class="featured-img">
-    <a href="http://www.targro.com/classified/Loans-Available-Low-interest-rate-No-credit-check-Get-approved-in-minutes-/249771">
-      <img src="http://www.targro.com/thumb/classifieds/small/0634dd_ace7d0f1-a957-4524-b051-313165c987a8-500.jpg?d=64">
-    </a>
-  </div>
-  <div class="featured-text">
-    <a href="http://www.targro.com/classified/Loans-Available-Low-interest-rate-No-credit-check-Get-approved-in-minutes-/249771">Loans Available: Low interest rate - No credit check. Get approved in minutes.</a>
-  </div>
-</div>          <div class="featured-div clearfix">
-  <div class="featured-img">
-    <a href="http://www.targro.com/classified/4-ports-ip-gateways-voip-phone-system-China-voip-/249651">
+    <a href="http://www.targro.com/classified/glass-shower-screen/289405">
       <img src="http://www.targro.com/thumb/no_image.gif?d=64">
     </a>
   </div>
   <div class="featured-text">
-    <a href="http://www.targro.com/classified/4-ports-ip-gateways-voip-phone-system-China-voip-/249651">4 ports ip gateways ,voip phone system ,China voip </a>
-  </div>
-</div>          <div class="featured-div clearfix featured-odd">
-  <div class="featured-img">
-    <a href="http://www.targro.com/classified/Fabrici-cu-renume-din-Austria-recruteaza-personal/249071">
-      <img src="http://www.targro.com/thumb/classifieds/small/c9fbc7_fabrica-de-cablaje-auto-germania-1100-eur1.jpg?d=64">
-    </a>
-  </div>
-  <div class="featured-text">
-    <a href="http://www.targro.com/classified/Fabrici-cu-renume-din-Austria-recruteaza-personal/249071">Fabrici cu renume din Austria recruteaza personal</a>
+    <a href="http://www.targro.com/classified/glass-shower-screen/289405">glass shower screen</a>
   </div>
 </div>          <div class="featured-div clearfix">
   <div class="featured-img">
-    <a href="http://www.targro.com/classified/Soham-Overseas-A-Renowned-Name-in-Ship-Recycling-Ship-Demolition-and-Marine-Spare-Parts/248288">
-      <img src="http://www.targro.com/thumb/classifieds/small/c50427_Untitled-7432758062.jpg?d=64">
-    </a>
-  </div>
-  <div class="featured-text">
-    <a href="http://www.targro.com/classified/Soham-Overseas-A-Renowned-Name-in-Ship-Recycling-Ship-Demolition-and-Marine-Spare-Parts/248288">Soham Overseas – A Renowned Name in Ship Recycling, Ship Demolition and Marine Spare Parts</a>
-  </div>
-</div>          <div class="featured-div clearfix featured-odd">
-  <div class="featured-img">
-    <a href="http://www.targro.com/classified/GlobalOne-UltimatePowerProfits-Business-Oppotunity/246805">
-      <img src="http://www.targro.com/thumb/classifieds/small/33e54e_50472bb8af05a.jpg?d=64">
-    </a>
-  </div>
-  <div class="featured-text">
-    <a href="http://www.targro.com/classified/GlobalOne-UltimatePowerProfits-Business-Oppotunity/246805"> ULTIMATE POWER PROFITS! </a>
-  </div>
-</div>          <div class="featured-div clearfix">
-  <div class="featured-img">
-    <a href="http://www.targro.com/classified/Jaroudi-Media-Production-House-New-Clip-Badriya-Essayed-Ana-3ene/245975">
+    <a href="http://www.targro.com/classified/CBProAds-Make-Money-with-Clickbank-Products/289267">
       <img src="http://www.targro.com/thumb/no_image.gif?d=64">
     </a>
   </div>
   <div class="featured-text">
-    <a href="http://www.targro.com/classified/Jaroudi-Media-Production-House-New-Clip-Badriya-Essayed-Ana-3ene/245975">Jaroudi Media Production House ( New Clip ) Badriya Essayed - Ana 3ene</a>
+    <a href="http://www.targro.com/classified/CBProAds-Make-Money-with-Clickbank-Products/289267">CBProAds Make Money with Clickbank® Products</a>
   </div>
 </div>          <div class="featured-div clearfix featured-odd">
   <div class="featured-img">
-    <a href="http://www.targro.com/classified/Start-Work-With-Us-and-Make-500-Each-Week/245450">
-      <img src="http://www.targro.com/thumb/classifieds/small/8d76df_MCAADphotobkt1.jpg?d=64">
+    <a href="http://www.targro.com/classified/Make-Money-On-Step-4/286804">
+      <img src="http://www.targro.com/thumb/no_image.gif?d=64">
     </a>
   </div>
   <div class="featured-text">
-    <a href="http://www.targro.com/classified/Start-Work-With-Us-and-Make-500-Each-Week/245450">Start Work With Us and Make $500 Each Week</a>
+    <a href="http://www.targro.com/classified/Make-Money-On-Step-4/286804">Make Money On Step 4</a>
+  </div>
+</div>          <div class="featured-div clearfix">
+  <div class="featured-img">
+    <a href="http://www.targro.com/classified/All-Inclusive-Holidays-to-India-From-895-per-person/286267">
+      <img src="http://www.targro.com/thumb/classifieds/small/6c262a_2.jpg?d=64">
+    </a>
+  </div>
+  <div class="featured-text">
+    <a href="http://www.targro.com/classified/All-Inclusive-Holidays-to-India-From-895-per-person/286267">All Inclusive Holidays to India From £895 per person</a>
+  </div>
+</div>          <div class="featured-div clearfix featured-odd">
+  <div class="featured-img">
+    <a href="http://www.targro.com/classified/love-spells-fortune-teller-and-astrologer-call-27731172920/282798">
+      <img src="http://www.targro.com/thumb/classifieds/small/34e368_Astrologerpic.jpg?d=64">
+    </a>
+  </div>
+  <div class="featured-text">
+    <a href="http://www.targro.com/classified/love-spells-fortune-teller-and-astrologer-call-27731172920/282798">love spells ,fortune teller and astrologer call +27731172920</a>
+  </div>
+</div>          <div class="featured-div clearfix">
+  <div class="featured-img">
+    <a href="http://www.targro.com/classified/No-More-Phone-Bills-with-Solavei-/282340">
+      <img src="http://www.targro.com/thumb/classifieds/small/daafd0_freemobile.jpg?d=64">
+    </a>
+  </div>
+  <div class="featured-text">
+    <a href="http://www.targro.com/classified/No-More-Phone-Bills-with-Solavei-/282340">No More Phone Bills with Solavei!</a>
+  </div>
+</div>          <div class="featured-div clearfix featured-odd">
+  <div class="featured-img">
+    <a href="http://www.targro.com/classified/-Bank-on-Traffic-/282213">
+      <img src="http://www.targro.com/thumb/classifieds/small/bcfbb0_whyjoin.jpg?d=64">
+    </a>
+  </div>
+  <div class="featured-text">
+    <a href="http://www.targro.com/classified/-Bank-on-Traffic-/282213">“Bank on Traffic”</a>
+  </div>
+</div>          <div class="featured-div clearfix">
+  <div class="featured-img">
+    <a href="http://www.targro.com/classified/5-Free-Positions-With-Growing-Downline/280859">
+      <img src="http://www.targro.com/thumb/no_image.gif?d=64">
+    </a>
+  </div>
+  <div class="featured-text">
+    <a href="http://www.targro.com/classified/5-Free-Positions-With-Growing-Downline/280859">5 Free Positions With Growing Downline</a>
+  </div>
+</div>          <div class="featured-div clearfix featured-odd">
+  <div class="featured-img">
+    <a href="http://www.targro.com/classified/Cash-Generator-Change-your-financial-situation-/280556">
+      <img src="http://www.targro.com/thumb/classifieds/small/b40f1e_penzteremtes.jpg?d=64">
+    </a>
+  </div>
+  <div class="featured-text">
+    <a href="http://www.targro.com/classified/Cash-Generator-Change-your-financial-situation-/280556">Cash Generator ! Change your financial situation!</a>
   </div>
 </div>        </div>
   </div>
@@ -209,73 +237,48 @@
 
 </div>        </div>
 
-    </div> 
-<div id="footer">
-    
-  <div id="footer-links">
-    <a href="http://www.targro.com/people_directory/A">
-      People Directory
-    </a>
-    
-    <a href="http://www.targro.com/terms">
-      Terms
-    </a>
-    <a href="http://www.targro.com/privacy">
-      Privacy
-    </a>
-    <a href="mailto:contact@targro.com?subject=Inquiry from TARGRO.com">
-      Contact Us
-    </a>
-    <a href="http://www.targro.com/sitemap/data/sitemap.html">
-      Sitemap
-    </a>
-	
-	<a href="http://www.lacartes.com">
-      Targro.com a Lacartes company
-    </a>
-
-    <span id="footer-copyright">
-      Targro.com © 2012. All Rights Reserved
-    </span>
-  </div>
-  <!--<div id="footer-bottom">-->
-    
-    <script type="text/javascript">
-                    function googleTranslateElementInit() {
-                    new google.translate.TranslateElement({
-                            pageLanguage: 'en'
-                    }, 'google_translate_element');
-                    }
-    </script>
-    <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-    
-    <div style="position:relative;height:60px;margin-top:20px;">
-            <div id="google_translate_element"></div>
-    </div>
-    
-    <div style="padding:20px;padding-top:0;">
-
-            <table width="100%">
-               <tbody><tr>
-                    <td>
-                            <div class="digit_counter" id="DigitCounter"><span class="digit" style="background-position:left -232px"></span><span class="digit" style="background-position:left -174px"></span><span class="comma">,</span><span class="digit" style="background-position:left -174px"></span><span class="digit" style="background-position:left -174px"></span><span class="digit" style="background-position:left -232px"></span></div>
-                            <div><span class="dgtcntr_text"> Listings </span></div>
-
-                    </td>
-                    <td style="padding-left:50px">
-                            <div class="digit_counter" id="DigitCounter"><span class="digit" style="background-position:left -58px"></span><span class="digit" style="background-position:left -116px"></span><span class="comma">,</span><span class="digit" style="background-position:left -348px"></span><span class="digit" style="background-position:left -406px"></span><span class="digit" style="background-position:left 0"></span><span class="comma">,</span><span class="digit" style="background-position:left -58px"></span><span class="digit" style="background-position:left -174px"></span><span class="digit" style="background-position:left 0"></span></div>
-                            <div><span class="dgtcntr_text"> Visitors served </span></div>
-
-                    </td>
-                    <td align="right"><img src="http://www.targro.com/images/PayPal_verified.jpg" width="90" height="140"></td>
-                </tr>
-            </tbody></table>
-
-    </div> 
-
-  
-  </div>
-
+    </div> <script type="text/javascript">
+			function googleTranslateElementInit() {
+				new google.translate.TranslateElement({
+					pageLanguage: 'en'
+				}, 'google_translate_element');
+			}
+		</script>
+		<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<div class="footer-main-content">
+	<div id="footer-new">
+		<div id="footer-left-div">
+			<div style="position:relative;height:60px;margin-top:20px;">
+				<div id="google_translate_element"></div>
+			</div>
+		</div>
+	</div>
+	<div style="text-align:center;">
+		<div class="div-footer-title">
+			<span class="link_title_footer">Targro.com © 2012. All Rights Reserved</span>
+			<a class="link_title_footer" href="http://www.targro.com/terms">Terms of Service</a>
+			<a class="link_title_footer" href="http://www.targro.com/privacy">Privacy Policy</a>
+			<a class="link_title_footer" href="mailto:contact@targro.com?subject=Inquiry from TARGRO.com">Contact Us</a>
+		</div>
+		<div class="div-footer-title">
+			<a class="link_title_footer" href="http://www.targro.com/classifieds/location">Browse ads by Location</a>
+			<a class="link_title_footer" href="http://www.targro.com/classifieds">Browse ads by Categories</a>
+			<a class="link_title_footer" href="http://www.targro.com/ads-a-to-z">Browse ads A-Z</a> 
+		</div>
+		<div class="div-footer-title">
+			<span class="link_title_footer">30,638 Members</span> 
+			<span class="link_title_footer">75,049 Listings</span> 
+			<span class="link_title_footer">74,454 Photos</span> 
+			<span class="link_title_footer">1,061 Videos</span>
+		</div>
+		<div>
+			
+<!-- BEGIN STANDARD TAG - 728 x 90 - ROS: targro.com - DO NOT MODIFY -->
+<!-- <IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=728 HEIGHT=90 SRC="http://ads.tblamnetwork.com/st?ad_type=iframe&ad_size=728x90&section=4293920&pub_url=${PUB_URL}"></IFRAME> -->
+<!-- END TAG -->
+		</div>
+	</div>
+</div>
 </div><!-- #page-wrap -->
 
 </body></html>
