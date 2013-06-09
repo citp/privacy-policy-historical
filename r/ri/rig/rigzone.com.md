@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rigzone.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919203928id_/http%3A//www.rigzone.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rigzone.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610010247id_/http%3A//www.rigzone.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # RIGZONE - Privacy Policy
 
-LAST UPDATED: September 22, 2011 
+LAST UPDATED: November 1, 2012 
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.rigzone.com/seal_l "Validate TRUSTe privacy certification")
+[ ](https://privacy.truste.com/privacy-seal/Dice-Holdings-Inc/validation?rid=9e7f4c0a-8379-46ed-87d7-a877d63d77d5 "TRUSTe European Safe Harbor certification")
 
 Rigzone.com and Dice Holdings, Inc. are committed to safeguarding the privacy of our users while providing personalized career management services on our websites. 
 
@@ -14,7 +14,7 @@ We at Rigzone are committed to good privacy practices regarding your personal in
 
 Dice Holdings, Inc. (the parent company of Rigzone.com) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@rigzone.com](mailto:privacy@rigzone.com). If you are not satisfied with our response you can contact TRUSTe at <http://watchdog.truste.com/pvr.php?page=complaint>. The TRUSTe program certification is limited to only that information collected through Rigzone.com. 
 
-Dice Holdings, Inc complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at : <http://export.gov/safeharbor>
+Dice Holdings, Inc complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union member countries and Switzerland. Dice Holdings, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Information regarding both the E.U. and Swiss Safe Harbor Frameworks and to view Dice Holdings, Inc.’s certification, can be found at : <http://export.gov/safeharbor>
 
 Although we respect the privacy of all those who visit our Website and use our online services, we do collect information from our visitors, including job seekers and customers. This Privacy Policy governs your interaction with the Website and your registration for and use of our online services (collectively, the "Services"). Except as set forth within this Privacy Policy and our Terms of Use Agreement and other published guidelines, we do not release personally identifiable information about our members and visitors without their permission. 
 
@@ -94,7 +94,15 @@ From time-to-time we may provide you the opportunity to participate in contests 
 
 We may use this information to notify contest winners and award prizes, to monitor Website use, to personalize the site, to send participants an email, and to measure participants' demographics, interests and opinions. We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice. 
 
-### E. Correcting personal information
+### E. Social Media Features
+
+Our Web site includes Social Media Features, such as Widgets, that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. These Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
+### F. Forums/Bulletin Boards/Comments
+
+If you contribute to any user generated forum on this Website (for example: answers, debate, comments), you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
+
+### G. Correcting personal information
 
 If you would like to have your personally identifiable information removed from Rigzone's database, or would like to correct an error in such information, please contact us at [privacy@rigzone.com](mailto:privacy@rigzone.com), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within Rigzone databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; if you have provided more than one email address to our service, you may continue to be contacted, unless you request to unsubscribe each email address you may have provided. 
 
@@ -103,7 +111,7 @@ If you would like to have your personally identifiable information removed from 
 
 
 
-### F. Changes to this Privacy Policy
+### H. Changes to this Privacy Policy
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
