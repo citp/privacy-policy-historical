@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windrawwin.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221064950id_/http%3A//www.windrawwin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windrawwin.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609083521id_/http%3A//www.windrawwin.com/privacy) for the most accurate reproduction.*
 
 # WinDrawWin.com - Privacy and Cookie Policy
 
