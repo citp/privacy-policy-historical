@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatedb.nl privacy policy that was archived on 2012-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120702000559id_/http%3A//www.ultimatedb.nl/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatedb.nl privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609035650id_/http%3A//ultimatedb.nl/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -8,7 +8,7 @@ We register your IP address for statistical purposes when you visit our site.
 
 **Do we use cookies?**
 
-We do not use cookies.
+We only use cookies to store your tile configuration..
 
  **Do we disclose any information to outside parties?**
 
