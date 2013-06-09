@@ -1,41 +1,113 @@
-> *The following text is extracted and transformed from the invisalign.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023133325id_/http%3A//www.invisalign.com/pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisalign.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609034016id_/http%3A//www.invisalign.com/privacy-statement) for the most accurate reproduction.*
 
-# Invisalign Privacy Policy | Invisalign
+# Privacy Statement | Contact Details | Website Information | Invisalign
 
-Align Technology, Inc., manufacturers of Invisalign, have created this privacy statement in order to demonstrate our commitment to protecting your personal information. The following discloses our information gathering and dissemination practices for our Internet sites — www.invisalign.com, www.aligntech.com — and for our partners' sites.
+Last updated December 9, 2012
 
-At Align Technology, we intend to give you as much control as possible over your personal information. In general, you can visit Align Technology on the Web without telling us who you are or revealing any information about yourself. There are times, however, when we may need information from you, or you may choose to provide information of a friend or acquaintance, such as name, e-mail address and/or home address. It is our intent to let you know before we collect such personal information from you on the Internet and to obtain your prior permission for its collection and use.. 
+Introduction   
+Children’s Online Privacy Protection Act   
+What do we do with the information we collect?   
+Cookies and Advertisements   
+Links to other sites   
+Contests   
+Security   
+Do Not Contact   
+Privacy Rights   
+Updates   
+Contact Us   
 
-The information gathered from you, or provided by you in any forms you fill out, may be used in one of four ways:
 
-  * To provide you with information about products, services, news and events. 
-  * To allow you to use, purchase, and/or download products and services. 
-  * To gather broad demographic information about user trends. 
-  * To provide certified doctors with information on actual or prospective patients. 
+## INTRODUCTION
+
+Align Technology, Inc. (“Align”), who designs, manufacturers and markets the Invisalign® system and iTero® and iOC® intra-oral scanners and OrthoCAD services, is committed to protecting your personal information. The following discloses how we use and share the information we gather on our websites and our partners' sites. 
+
+In general, you can visit our websites without telling us who you are or revealing any personal information about yourself. There are times, however, when we may seek information from you, about yourself or someone you know, such as name, email address and/or home address. It is our intent to let you know before we collect such personal information from you on the Internet and to get your consent where required.
+
+Back to Top
+
+## CHILDREN’S ONLINE PRIVACY PROTECTION
+
+At Align, we do not intend to collect any information from children under the age of fourteen, unless the information is collected from a parent or guardian. While we cannot stop a child from accessing the website, we do not collect any personal information without making it clear that the person providing the information must be at least 14 years old. If you have questions about our website collecting information from children, please contact us at [Privacy@aligntech.com](mailto:Privacy@aligntech.com). 
+
+Back to Top
+
+## WHAT DO WE DO WITH THE INFORMATION WE COLLECT?
+
+The information gathered from your use of our websites or provided by you may be used:   
+
+
+  * To provide you with information about products, services, news and events.
+  * To allow you to use, purchase, and/or download products and services.
+  * To gather demographic information about user trends, such as age, gender, and general income levels.
+  * To provide certified doctors with information on actual or prospective patients.
+  * To analyze use of our services and products, develop new services and products, and customize our products, services, and other information we make available.
 
 
 
-We may also disclose personal information if we believe that doing so is legally required or is in our interest to protect our property or other legal rights (including but not limited to enforcement of our agreements, or the rights of property of others).
+We may also disclose personal information about you if we believe that doing so is legally required or is necessary to protect our property or other legal rights (including but not limited to enforcement of our agreements or the rights of property of others).
 
-In addition, information about our users, including personal information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, or similar transaction, as well as in the event of insolvency, bankruptcy or receivership, in which personal information could be transferred to third parties as one of our business assets.
+We partner with other businesses to assist us in our marketing, communications, and sales efforts, and may share information about you for these purposes. These partners are not allowed to use your information for any purpose other than doing business with Align.
 
-We partner with a third-party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/preference.html?affiliateId=46). We partner with a third party to provide and manage our opt out mechanism. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+In addition, information about our users, including personal information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, or similar transaction, as well as in the event of insolvency, bankruptcy or receivership in which personal information could be transferred to third parties as one of our business assets.
 
-Although acceptance of cookies is not required to visit the website, we do use cookies. Cookies are small text files stored on computer hard drives and are regularly used to analyze individual web site activity. By collecting and remembering information about your visit to a web site, cookies allow Web applications to recognize and respond to your individual preferences. A cookie file may contain information that the website uses to respond to you as an individual and to tailor a web site experience to your preferences. If you have provided your contact information as part of your website visit, we may utilize the cookie file to collect information about your specific website activity. This information will only be used for remarketing purposes by Align Technology and will not be sold or shared with any third party not contracted with Align Technology. 
+Back to Top
 
-Some parts of the website use cookies. This enables Align to determine the usefulness of information provided to our users and to analyze the effectiveness of our navigational structure in providing you that information. In the end, cookies help us provide you with a better website experience.
+## COOKIES AND ADVERTISING
 
-If you prefer not to receive cookies on this website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. If you have set your browser to not allow cookies, you will still be able to access the website; however, this may affect your perceived usability of this website.
+The Align website uses cookies in order to improve your user experience by enabling that website to ‘remember’ you, either for the duration of your visit (using a ‘session cookie’) or for repeat visits (using a ‘persistent cookie’). Cookies also help us know how our websites or marketing efforts are working, but these cookies generally do not collect any personal information about you. You can choose to accept or reject cookies set by the Align website by adjusting your cookie settings for the browser you use. Please see our Cookies & Ads page [here](https://web.archive.org/cookies). 
 
-We may occasionally update this policy. When we do, we will also revise the last updated date at the beginning of the policy. Your continued use of the Website after such changes will be subject to the then-current policy. We encourage you to periodically review this policy to stay informed about how we collect, use and disclose personal information. 
+Sometimes, we also partner with advertisers on our websites. More information about this process is also on the [Cookies & Ads](https://web.archive.org/cookies) page. 
 
-This site may contain links to other sites merely as a convenience. Align is not responsible for the privacy practices or the content of such Websites, and inclusion of links does not imply our endorsement of the material on them.
+We also use standard Internet technology, such as Internet tags (also known as web beacons, action tags, or GIFs) in combination with cookies and use these tags through an advertising company. These tags are placed on both online advertisements that bring users to our websites and on different pages within the site itself. We use this technology to measure visitors' responses to our website and the impact of our advertising campaigns (including how many times a page is opened and which information is viewed). This helps us measure how long it takes for someone who visits our website to become a customer, so we do compare information gathered from the website to actual customer data.
 
-This site has security measures in place to try to protect against the loss, misuse and alteration of the information under our control. 
+Back to Top
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
+## LINKS TO OTHER SITES
 
-Align Technology, Inc.  
-Attn: Consumer Marketing Manager, Digital  
-2560 Orchard Parkway  
-San Jose, CA 95131
+This site may contain links to other sites merely as a convenience. Align is not responsible for the privacy practices or the content of such other websites, and inclusion of links does not mean we endorse the information or company. This means that if you connect to another site through our website, we cannot control what they do with your information.
+
+Also, you may have the opportunity to share your information to other websites, such as social media sites. We may provide a convenient link to let you do this easily, but we cannot control their website or your posts/sharing.
+
+Back to Top
+
+## CONTESTS
+
+We may run contests on our site and ask visitors for contact information (like their email address). We use contact data from our contests to send information about our company and to contact the person periodically, as allowed by law. You may opt-out of receiving future mailings; see the "Do Not Contact" section below.
+
+Back to Top
+
+## SECURITY
+
+This site has security measures in place to try to protect against the loss, misuse and alteration of the information under our control. Our web portals, such as the Invisalign Doctor Site, transmit patient information securely via HTTPS. These portals require customer accounts and are not available to the general public.
+
+Back to Top
+
+## DO NOT CONTACT
+
+Align provides you the opportunity to opt-out of receiving electronic communications from either Align or our partners. If you do not want to receive communications from us, please write us at [remove@aligntech.com](mailto:remove@aligntech.com) and _make sure to include your country location_. You may also use the convenient opt-out feature included with emails. Please allow us enough time to process your request. 
+
+Keep in mind, this opt-out does not apply to necessary communications, such as responding to an inquiry, and is revoked if you later request information from us.
+
+Back to Top
+
+## PRIVACY RIGHTS
+
+If you have rights concerning access, disclosure, amendment, or deletion based on the laws of your state or nation, you may contact us at the address or email listed below. For example, in California, individuals may request once per calendar year a list of disclosures we make to third parties for their direct marketing efforts. It is not our practice to sell or lease any personal information to other companies for their direct marketing. In Europe, Individuals may contact us regarding their rights to access their information, among other rights. These are just examples and your particular rights, based on your state or nation, may not be listed here as an example.
+
+Back to Top
+
+## UPDATES
+
+We may occasionally update this statement. When we do, we will list the last updated date at the beginning of the statement. Your continued use of any Align website after such changes will be subject to the then-current statement. We encourage you to periodically review this statement to stay informed about how we collect, use and share personal information.
+
+Back to Top
+
+## CONTACT US
+
+If you have any questions about this privacy statement, the practices of an Align website, your information, or your rights regarding your information, or your dealings with this website, please contact:
+
+Align Technology, Inc.   
+Attn: Privacy   
+2560 Orchard Parkway   
+San Jose, CA 95131   
+Privacy@aligntech.com 
