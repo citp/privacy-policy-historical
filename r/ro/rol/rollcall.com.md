@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollcall.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193843id_/http%3A//www.economistgroup.com/results_and_governance/governance/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollcall.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609092743id_/http%3A//www.economistgroup.com/results_and_governance/governance/Privacy%3Fpos%3Dftr) for the most accurate reproduction.*
 
 # Privacy | Economist Group
 
@@ -11,11 +11,11 @@
 "The Economist Group" comprises The Economist Newspaper Limited and its subsidiaries, which together operate a number of businesses, including the following:
 
   * The Economist
-  * Other Economist-branded businesses, such as Economist Intelligence Unit, Economist Conferences and Economist Corporate Network
+  * Other Economist-branded businesses, such as Economist Intelligence Unit, Economist Events and Economist Corporate Network
   * CQ-Roll Call Group (including Capitol Advantage, Congressional Quarterly and Roll Call)
+  * Bazian
   * Clearstate
   * EuroFinance Conferences
-  * European Voice
   * TVC Group
 
 
