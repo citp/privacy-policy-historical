@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the idbi.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117163903id_/http%3A//www.idbi.com/Privacy_policy%2520.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idbi.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609101827id_/http%3A//www.idbi.com/idbi-bank-policies.asp) for the most accurate reproduction.*
 
-# :: IDBI Bank Ltd ::
+# Policies | IDBI Bank
 
-  | IDBI BANK'S PRIVACY POLICY
+IDBI BANK'S PRIVACY POLICY
 
 **This privacy policy sets out how IDBI Bank Limited (the Bank) uses and protects any information that a person who visit the site http://www.idbi.com/ and provide information to the Bank (the Visitor).**
 
@@ -24,17 +24,27 @@ By providing email address, telephone numbers and other contact information, the
 THE BANK WILL NEVER COLLECT INFORMATION THAT IS PERSONAL AND CONFIDENTIAL IN NATURE LIKE PASSWORDS, ATM PIN, ETC. 
 
 **What the Bank does with the gathered information?**  
-The use/purpose for which any information collected from the Visitor, through the website of the Bank, will vary depending upon the circumstances. Broadly, they may comprise all or any one or more of the following purposes (but shall not be restricted to):
+The use / purpose for which any information collected from the Visitor, through the website of the Bank, will vary depending upon the circumstances. Broadly, they may comprise all or any one or more of the following purposes (but shall not be restricted to):
 
 * To use the information for internal record keeping;
+  
+
 * To use the information to improve our products and services;
+  
+
 * To use the information for normal business functioning;
+  
+
 * To send periodically promotional communication about new products, special offers or other information, which the Bank thinks the Visitor, may find interesting;
+  
+
 * To contact the Visitor periodically for market research purposes. The Bank may contact the Visitor by email/post or by any other suitable mode of communication. We may use the information to customise the website according to the Visitors’ interests.
 
 **Access to the collected information:**
 
 * The access to the information provided through the Bank’s website would only be given to authorised employees or other IDBI Group Companies or affiliates or authorised agents or service provider for normal business purposes, only on need to know basis;
+  
+
 * The Bank may be required, from time to time, to disclose the Visitor’s information to Governmental or judicial bodies or Regulators or any person to whom the Bank is under an obligation to make disclosure under the requirements of any law 
   
 **Security**  
@@ -44,9 +54,9 @@ The Bank’s endeavor is to ensure that information is secure. In order to preve
 The Bank’s website does not use Cookies. 
 
 **Links to other websites**  
-The Bank’s website may contain links to other websites of interest. Please note that once the Visitor opts to link to other websites by leaving the Bank’s site, the Bank shall not be responsible for protection of further disclosure of information and this Privacy Policy/statement cease to be applicable for such disclosure of information. The Visitor may therefore, like to exercise caution and look at the privacy statement applicable to those websites. 
+The Bank’s website may contain links to other websites of interest. Please note that once the Visitor opts to link to other websites by leaving the Bank’s site, the Bank shall not be responsible for protection of further disclosure of information and this Privacy Policy / statement cease to be applicable for such disclosure of information. The Visitor may therefore, like to exercise caution and look at the privacy statement applicable to those websites. 
 
-The Bank's Policy on use of Hyperlink to/from other websites is attached here for your perusal. [HYPERLINK POLICY](https://web.archive.org/web/20121117163903id_/http%3A//www.idbi.com/hyperlink_policy%20.asp)[.](https://web.archive.org/web/20121117163903id_/http%3A//www.idbi.com/hyperlink_policy%20.asp)
+The Bank's Policy on use of Hyperlink to / from other websites is attached here for your perusal. HYPERLINK POLICY.
 
 **IMPORTANT:** The Bank reserves its right to amend the present Privacy Policy at any time and will place such amended Privacy Policy, if any, on its website. This Privacy Policy is neither intended to and nor does it create any contractual rights whatsoever or any other legal rights, nor does it create any obligations on the Bank in respect of any other party or on behalf of any party. By accessing this website and any of its pages you are agreeing to the terms set out above. Thank you for choosing IDBI Bank Ltd.
 
