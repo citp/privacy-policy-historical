@@ -1,106 +1,7 @@
-<!--The following is the downloaded HTML source of the investmentyogi.com privacy policy that was archived on 2012-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121223055230id_/http%3A//investmentyogi.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the investmentyogi.com privacy policy that was archived on 2013-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130609135809id_/http%3A//investmentyogi.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script language="javascript" type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-<script src="https://ajax.microsoft.com/ajax/jquery/jquery-1.3.2.js" type="text/javascript"></script>
-<script src="https://ajax.microsoft.com/ajax/beta/0911/Start.debug.js" type="text/javascript"></script>
-<script src="https://ajax.microsoft.com/ajax/beta/0911/extended/ExtendedControls.debug.js" type="text/javascript"></script>
-<script language="javascript" type="text/javascript">
-    function popupSurvey(url)
-    {
-     window.open(url,"SurveyWindow","scrollbars=1, width=850,height=500");
-    }
-
-    function Validate() {
-        var isValid = true;        
-        if($("#productSelect option:selected").val() == "-1"){isValid = false;}
-        else if (($("#textFieldName").val() == "Name")) { isValid = false; }
-        else if (($("#textFieldEmail").val() == "Email")) { isValid = false; }
-        else if (($("#textFieldMobile").val() == "Mobile")) { isValid = false; }
-        else if (($("#citySelect option:selected").val() == "-1")) { isValid = false; }
-        
-        if (!isValid) {
-            alert("Pleas enter the data to proceed.");
-            return isValid;
-        }
-        if ($("#textFieldEmail").val().match(/^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/) == null) {
-            isValid = false;
-            alert("Please enter a valid email address.");
-            return isValid;
-        }
-        if ($("#textFieldMobile").val().length < 10) {
-            isValid = false;
-            alert("Please enter a 10-digit mobile number.");
-            return isValid;
-        }
-        return isValid;
-    }
-    function SubmitData() {
-        if (Validate()) {
-
-            $.ajax({
-                type: "POST",
-                contentType: "application/json; charset=utf-8",
-                url: '/themes/yogi/WebServices/Tools/InsuranceService.asmx/SaveInsurance',
-                data: GetJSONData(),
-                async: false,
-                dataType: "json",
-                success:
-                            function(data) {
-                                if (data == "Timeout") {
-                                    alert("Timed Out");
-                                }                                
-                                if (data == "True") {
-                                    alert("Thank you for applying through InvestmentYogi. You will shortly get a call from our representative. \nFor any feedback you can write to us at yogi@investmentyogi.com");
-                                    return true;
-                                }
-                            },
-                error:
-                            function(XMLHttpRequest, textStatus, errorThrown) {
-                                var ErrorType = eval("(" + XMLHttpRequest.responseText + ")");
-                                if (ErrorType.Message == "Authentication failed.") {
-
-                                }
-                                else
-                                    alert("Error Occured!" + XMLHttpRequest.responseText);
-                            }
-            });
-            
-            ResetFields();
-        }
-    }
-
-    function GetJSONData() {
-        var JSONData = '{"ProductName":"' + $("#productSelect").val() + '","Name":"' + $("#textFieldName").val() + '","Eamil":"' + $("#textFieldEmail").val() + '","Mobile":"' + $("#textFieldMobile").val() + '","City":"' + $("#citySelect").val() + '"}';
-        return "{'InsuranceLead':'[" + JSONData + "]'}"
-    }
-
-    function ResetFields() {
-        $("#productSelect").val("-1");
-        $("#textFieldName").val("Name").addClass("wm");
-        $("#textFieldEmail").val("Email").addClass("wm");
-        $("#textFieldMobile").val("Mobile").addClass("wm");
-        $("#citySelect").val("-1");
-    }
-
-    $(document).ready(function() {
-        Sys.debug = true;
-        Sys.require(Sys.components.alwaysVisible, function() {
-            $(".bottom-table-new").alwaysVisible({ useAnimation: false, VerticalSide: Sys.Extended.UI.VerticalSide.Bottom });
-        });
-        $(".footer-contInput").focus(function() { if ($(this).val() == "Name" || $(this).val() == "Email" || $(this).val() == "Mobile") { $(this).removeClass("wm").val(""); } });
-        $(".footer-contInput").blur(function() { if ($(this).val() == "" || $(this).val().length == 0) { $(this).val($(this).attr("name")).addClass("wm"); } });
-        ResetFields();
-    });
-
-    function CloseToolBar() {
-        $(".bottom-table-new").hide();
-    }
-</script>
-
-
-    
-    <meta name="GENERATOR" content="CommunityServer 2007.1 (Build: 20917.1142)">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta name="GENERATOR" content="CommunityServer 2007.1 (Build: 20917.1142)">
 <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
 
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -123,26 +24,24 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 <meta name="verify-v1" content="U+c7cvc/6Rj6xz2r2Qp8a7tj3m/Bv801AkzOixtPUKU=">
-<title>
+<link href="/Themes/yogi/style/header_blue.css?d=270513" type="text/css" rel="stylesheet"><title>
 	InvestmentYogi
 </title></head>
 
 <body>
-<form name="aspnetForm" method="post" action="/PrivacyPolicy.aspx" id="aspnetForm">
+    <form name="aspnetForm" method="post" action="/PrivacyPolicy.aspx" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUIOTEzMjc5NDdkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBTVjdGwwMCRjdGwwMCRiaGNyJFNlYXJjaEZvcm0xJGN0bDAwJFRpdGxlQmFyU2VhcmNoVGV4dDRkPfI8EVpTLwTzDuUj7XFzaeAx">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUIOTEzMjc5NDdkZMo9Tv1ixy/2dAFzFqFgrYSVrgUr">
 </div>
 
 
-<script src="/WebResource.axd?d=9Leh_bfoQaTQ1nCmT4dj6TNbir0SV2FADsisWkWXwh48g_r1I0PiP2L01-QHbTsNsK0uKKnU1IKzhaejkirz_sRQYjf9xYGmLqsZqQeVbV93ecovwe16OGyc5ol_xqur-hrFz8DCH6NVI-pOVEuUFdPvisE1&amp;t=634766188612260000" type="text/javascript"></script>
-<script src="/WebResource.axd?d=u7Y6tqKoIyP2EtUKQecBht_uDV2eAWZDUnHcXlYnE9FYRQXoQYNvqKfXyYTqePg00B_xLixOW7tYWUYBh0lN4QN_pVH7XHkUehqQsf2s8cCbSXLTqRunT7sXM3lqnDQvMy5T8_kW9diUA8XYM_iZqVA1xxI1&amp;t=634766188612260000" type="text/javascript"></script>
-  
-  
-  <div id="CommonOuter">
-  <div id="Common">
-    <div id="CommonHeader">
-      
-        
+<script src="/Themes/yogi/javascript/jquery/1.2.6/jquery.packed.js" type="text/javascript"></script><script type="text/javascript">var is_logged_in = false;</script>
+<script src="/Themes/yogi/javascript/iy_header.js?d=300513" type="text/javascript"></script>
+<script src="/WebResource.axd?d=9Leh_bfoQaTQ1nCmT4dj6TNbir0SV2FADsisWkWXwh48g_r1I0PiP2L01-QHbTsNsK0uKKnU1IKzhaejkirz_sRQYjf9xYGmLqsZqQeVbV93ecovwe16OGyc5ol_xqur-hrFz8DCH6NVI-pOVEuUFdPvisE1&amp;t=634766530612260000" type="text/javascript"></script>
+<script src="/WebResource.axd?d=u7Y6tqKoIyP2EtUKQecBht_uDV2eAWZDUnHcXlYnE9FYRQXoQYNvqKfXyYTqePg00B_xLixOW7tYWUYBh0lN4QN_pVH7XHkUehqQsf2s8cCbSXLTqRunT7sXM3lqnDQvMy5T8_kW9diUA8XYM_iZqVA1xxI1&amp;t=634766530612260000" type="text/javascript"></script>
+    
+    
+    
     <div><script type="text/javascript" src="https://partner.googleadservices.com/gampad/google_service.js">
 </script>
 <script type="text/javascript">
@@ -179,130 +78,176 @@ pageTracker._trackPageview();
     GA_googleAddSlot("ca-pub-1018873972598192", "Forums_top");
     GA_googleAddSlot("ca-pub-1018873972598192", "forums_top_big");
     GA_googleAddSlot("ca-pub-1018873972598192", "Header_banner");
+    GA_googleAddSlot("ca-pub-1018873972598192", "Article_Square_Top");
+    GA_googleAddSlot("ca-pub-1018873972598192", "Article_Square_Bottom");
+    GA_googleAddSlot("ca-pub-1018873972598192", "Article_Square_Top_Left");
+    GA_googleAddSlot("ca-pub-1018873972598192", "Article_Square_Bottom_Left");
 </script>
 <script type="text/javascript">
     GA_googleFetchAds();
 </script></div>
-    <div>
-        <div class="h_header">
-          <div class="h_header_top">
-            <div class="h_hdr_right">
-              <div class="h_hdr_welc">
-                <div class="h_hdr_welc_t">
-                  <div class="h_hdr_signin">
-                    <div id="ctl00_ctl00_bhcr_SearchPanel" csscl="" ass="header-user-search">
-	
-                      <div id="yogi-user" class="iysigninborder"> 
-                        
-<div>
-
     
-<div style=" float:left">
-         <a href="/login.aspx?ReturnUrl=%2fPrivacyPolicy.aspx">Sign in</a>
-         | <a href="/user/CreateUser.aspx?ReturnUrl=">Join</a>
-         |</div>
+
+<div class="IYHeaderm">
+<div class="IYHeaderLogoM">
+    <div class="IYHeaderLogo"><a href="/default.aspx">
+        <img alt="Financial Planning" src="/themes/yogi/images/home/h_logo.gif" border="0" align="InvestmentYogi" title="InvestmentYogi"></a> </div>
+    <div class="IYHeaderAd">
         
-       
-       <div style="float:left; height:20px;">
-        
-        <a href="/OpenIdLogin.aspx?provider=google&amp;returnurl=/PrivacyPolicy.aspx" style="cursor:pointer" title="Click here to Login using Gmail ID"><div style="float:left;">Login using </div>
-        <div style="float:left;margin:0px 5px 0px 5px;"><img src="/themes/yogi/images/home/2010/IYHomeTwitter.gif" border="0" title="Click here to Login using Gmail ID"></div></a>  
-       </div>
-       
-     
+
+<!-- Header_banner -->
+<script type="text/javascript">
+    GA_googleFillSlot("Header_banner");
+</script>
+    </div>
+</div></div>
 
 
-</div>
-                      </div>
-                      <div class="CommonSearch" style="margin-left:104px;">
-                        
-                            <table cellpadding="0" cellspacing="0" border="0" align="center">
-                              <tbody><tr valign="middle">
-                                <td nowrap="nowrap" style="vertical-align: middle"><input name="ctl00$ctl00$bhcr$SearchForm1$ctl00$TitleBarSearchText" type="text" maxlength="64" size="15" id="ctl00_ctl00_bhcr_SearchForm1_ctl00_TitleBarSearchText" onclick="if(this.defaultValue==this.value) this.value='';" onblur="if(this.value=='') this.value=this.defaultValue;" onkeydown="return KeyDownHandlerctl00_ctl00_bhcr_SearchForm1_ctl00_TitleBarSearchButton(event);" style="width: 180px; background:url(/themes/yogi/images/home/2010/iysearchiconbtn.png); border:none; height:24px; padding-left:22px;"></td>
-                                <td><input type="submit" name="ctl00$ctl00$bhcr$SearchForm1$ctl00$TitleBarSearchButton" value="Search" id="ctl00_ctl00_bhcr_SearchForm1_ctl00_TitleBarSearchButton" class="CommonSearchButton"></td>
-                              </tr>
-                              <tr>
-                                <td nowrap="nowrap" colspan="2"></td>
-                              </tr>
-                            </tbody></table>
-                          
-                      </div>
-                      <div style="float:left; margin: 5px 0px 0px 55px;">
-                        <div style="float:left; margin-right:-30px ">
-                          <g:plusone></g:plusone>
-                        </div>
-                        <div style="float:left;">
-                          <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FInvestmentYogi&amp;layout=button_count&amp;show_faces=false&amp;width=150&amp;action=like&amp;font&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowtransparency="true"></iframe>
-                        </div>
-                      </div>
-                      <div style="wi dth:22%; float:right; margin:5px 10px 0px 0px;" class="h_b_nav_in">
-                        <div yle="float:right" st="" lass="howcan" c="">
-                          <div style="float:left;width:26px"><a href="http://www.investmentyogi.com/blogs/MainFeed.aspx"><img border="0" src="/Themes/yogi/images/home/2010/RSS-feed-icon.png" width="24" height="24"></a></div>
-                          <div style="float:left;width:26px"><a href="http://www.facebook.com/InvestmentYogi"><img border="0" alt="Investmentyogi on facebook" src="/Themes/yogi/images/home/facebook_icon.png" width="24" height="24"></a></div>
-                          <div style="float:left;width:26px"><a href="http://twitter.com/investmentyogi"><img border="0" alt="Investmentyogi updates on twitter" src="/Themes/yogi/images/home/twitter_icon.png" width="24" height="24"></a></div>
-                          <div style="float:left;width:26px"><a href="http://www.youtube.com/user/investmentyogi"><img border="0" alt="Investmentyogi on YouTube" src="/Themes/yogi/images/home/youtube_icon.png" width="24" height="24"></a></div>
-                          <!--<div style="float:left;width:40px; margin-left:10px;"><img alt="" src="/Themes/yogi/images/home/rapidssl_icon.png"></div>-->
-                        </div>
-                      </div>
+<div class="IYHeaderNavBg" id="pinHeader">
+    <div class="IYHeaderNavM">
+        <div class="IYHeaderNavL">
+            <ul id="iyhedmenu">
+                <li class="MenuItem"><a href="/FinancialPlans/home.aspx">Manage Finances</a>
+                    <ul style="display: none;">
+                        <li><a href="/FinancialPlans/home.aspx">Quick 1 Minute Plan</a></li>
+                        <li><a href="/user/finprofile.aspx?option=3">Goal Based Plan</a></li>
+                        <li><a href="/Budgeting/budget.aspx">Monthly Budget Planner</a></li>
+                    </ul>
+                </li>
+                <li class="MenuItem"><a href="/FinancialCalculators.aspx">Calculators </a>
+                    <ul style="display: none;">
+                        <li><a href="/FinancialCalculators.aspx">Income Tax</a></li>
+                        <li><a href="/retirement-calculator.aspx">Retirement</a></li>
+                        <li><a href="/sip-calculator.aspx">Systematic Investment</a></li>
+                        <li><a href="/insurance-calculator.aspx">Insurance</a></li>
+                        <li><a href="/home-loan-emi-calculator.aspx">Home Loans</a></li>
+                        <li><a href="/future-value-calculator.aspx">Future Value of Money</a></li>
+                    </ul>
+                </li>
+                <li class="MenuItem"><a href="/taxes/home.aspx">Manage Taxes</a>
+                    <ul style="display: none;">
+                        <li><a href="/taxes/home.aspx">File your Tax Returns</a></li>
+                        <li><a href="/income-tax-calculator.aspx">Calculate your Income Tax</a> </li>
+                <li><a href="/forums/22.aspx">Ask our Tax Experts</a></li>
+            </ul>
+            </li>
+            <li class="MenuItem"><a href="/blogs/articlehome.aspx">Knowledge Zone</a>
+                <ul style="display: none;">
+                    <li><a href="/blogs/default.aspx?GroupID=8">Taxes</a></li>
+                    <li><a href="/blogs/default.aspx?GroupID=6">Investing</a></li>
+                    <li><a href="/blogs/default.aspx?GroupID=4">Planning</a></li>
+                    <li><a href="/blogs/default.aspx?GroupID=7">Insurance</a></li>
+                    <li><a href="/blogs/default.aspx?GroupID=3">Spending</a></li>
+                    <li><a href="/blogs/default.aspx?GroupID=9">Options for NRIs</a></li>
+                    <li><a href="/blogs/articlehome.aspx">Recent Articles</a></li>
+                    <li><a href="/Tutorials/Taxes/Welcome.aspx">Tax Saving Tutorial</a></li>
+                    <li><a href="/themes/yogi/Tutorials/Investment/Welcome.aspx">Investment Tutorial</a></li>
+                </ul>
+            </li>
+            <li class="MenuItem"><a href="/forums/">Ask &amp; Share</a>
+                <ul style="display: none;">
+                    <li><a href="/forums/6.aspx">Working Couples</a></li>
+                    <li><a href="/forums/7.aspx">Women</a></li>
+                    <li><a href="/forums/4.aspx">Parents</a></li>
+                    <li><a href="/forums/5.aspx">Retirees</a></li>
+                    <li><a href="/forums/8.aspx">Single and Working</a></li>
+                    <li><a href="/forums/9.aspx">Students</a></li>
+                    <li><a href="/forums/14.aspx">NRIs</a></li>
+                    <li><a href="/forums/40.aspx">Got a Question? Ask here</a></li>
+                </ul>
+            </li>
+            </ul>
+        </div>
+        <div class="IYHeaderNavR">
+            
+
+
+<div class="IYSigninM">
+    <div>
+        <div id="UserNotLoggedIn">
+            <div class="IYFConnect">
+                
+
+<script type="text/javascript">
+    var fb_url = "https://www.facebook.com/dialog/oauth/?client_id=130923753762018&redirect_uri=http://www.investmentyogi.com/themes/yogi/common/FBRedirect.aspx&scope=email";
+
+    function FBLoginClick() {      
+        window.location = fb_url + "&state=" + window.location.href;
+    }
+</script>
+
+<div id="FBSignInLink" class="IYFConnecticon" title=" Sign in with Facebook" onclick="FBLoginClick()">
                     
 </div>
-                  </div>
-                  
+
+
+                
+                <div id="GmailSignInLink" class="IYGmailicon" title="Sign in with Google">
+                    <a href="#" title="Sign in with your Google Account">
+                        </a>
                 </div>
-              </div>
             </div>
-            <div>
-              <div class="h_hdr_logo"><a href="/default.aspx" title="Home" style="cursor:pointer"><img src="/themes/yogi/images/home/h_logo.gif" style="border:none;" alt="Financial Planning"></a></div>
-              <div class="IY_h_ad" align="right">
-                <!-- Header_banner -->
-                <script type="text/javascript">
-        GA_googleFillSlot("Header_banner");
-        </script>
-                
-              </div>
+            <div class="IYSignup IYHedMarg">
+                <a id="SignUpButton" href="/user/CreateUser.aspx?ReturnUrl=/web/20130609135809id_/http%3A//investmentyogi.com/PrivacyPolicy.aspx">Register</a>
             </div>
-          </div>
-          <div class="h_hdr_nav" style="position:relative">
-            <div class="headertabs">
-              <ul id="ctl00_ctl00_bhcr_tabs">
-                
-                <li><a href="/blogs/default.aspx?GroupID=9" id="ctl00_ctl00_bhcr_NRIs" class=""><span>NRIs</span></a></li>
-                <li><a href="/FinancialCalculators.aspx" class=""><span>Calculators</span></a></li>
-                <li><a href="/blogs/articlehome.aspx" class=""><span>Articles</span></a></li>
-                <li><a href="/Forums/default.aspx" class=""><span>Forums</span></a></li>
-                <li><a href="/Budgeting/budget.aspx" class=""><span>Budget</span></a></li>
-                <li><a href="/Stocks/default.aspx" class=""><span>Stocks</span></a></li>
-                <li><a href="/MutualFunds/default.aspx" class=""><span>Mutual Funds</span></a></li>
-                <li><a href="/Portfoliomanager/common/home.aspx" class=""><span>Portfolio</span></a></li>
-                <li><a href="/Taxes/home.aspx" class=""><span>Taxes</span></a></li>
-                <li><a href="/FinancialPlans/home.aspx" class=""><span>Financial Planning</span></a></li>
-                <li><a href="/default.aspx" id="ctl00_ctl00_bhcr_A8" class="" style="padding:0px 0px 0px 5px; text-align:center"><span style="padding:0px 5px 0px 0px;"><img src="/themes/yogi/images/home/h_home_icon.gif" border="0" vspace="2"></span></a></li>
-              </ul>
-              
+            <div class="IYSignin">
+                <a id="LoginButton" href="/IYlogin.aspx?ReturnUrl=/web/20130609135809id_/http%3A//investmentyogi.com/PrivacyPolicy.aspx">Login</a>
             </div>
-          </div>
-          <div class="h_hdr_b_line"></div>
         </div>
-        <div id="preloadimages" style="display:none;"> <img src="/themes/yogi/images/Home/h_hdr_nav_l_current.gif"> <img src="/themes/yogi/images/Home/h_hdr_nav_l_d.gif"> <img src="/themes/yogi/images/Home/h_hdr_nav_l_hover.gif"> <img src="/themes/yogi/images/Home/h_hdr_nav_l_span_current.gif"> <img src="/themes/yogi/images/Home/h_hdr_nav_l_current.gif"> <img src="/themes/yogi/images/Home/h_hdr_nav_l_span_d.gif"> <img src="/themes/yogi/images/Home/h_hdr_nav_l_span_d_hover.gif"> <img src="/themes/yogi/images/Home/h_hdr_t_curve.gif"> </div>
-      
+
+        <div id="UserLoggedIn">
+            
+            <div class="IYSignedinas"><span id="SignedInUserName">user</span></div>
+            <div class="IYWelcome">
+                Hello
+            </div>
+            <div class="iy_login_actions">
+                <ul>
+                    <li><a id="ChangePasswordLink" href="/Themes/yogi/User/changepassword.aspx?ReturnUrl=/web/20130609135809id_/http%3A//investmentyogi.com/PrivacyPolicy.aspx">Change your password</a></li>
+                    <li><a id="LogoutLink" href="/logout.aspx?ReturnUrl=/web/20130609135809id_/http%3A//investmentyogi.com/PrivacyPolicy.aspx">Logout</a></li>
+                </ul>
+            </div>
+        </div>
     </div>
-  </div>
-  <!-- END navigation -->
-  <div class="clear"> </div>
-  <div id="CommonBody">
-    <table cellspacing="0" cellpadding="0" border="0" width="100%" id="CommonBodyTable">
-      <tbody><tr>
-        <td valign="top" id="CommonLeftColumn">
+</div>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+<script type="text/javascript">headerLoad();</script>
+
+
+    <div id="CommonOuter" onmouseover="CloseSubMenuSlowly()">
+        
+        <div id="Common">
+            <div id="CommonHeader">
+                
+                
+            </div>
+        </div>
+        <!-- END navigation -->
+        <div class="clear">
+        </div>
+        <div id="CommonBody">
+            <table cellspacing="0" cellpadding="0" border="0" width="100%" id="CommonBodyTable">
+                <tbody><tr>
+                    <td valign="top" id="CommonLeftColumn">
     
 </td>
-        <td valign="top" width="100%" id="CommonBodyColumn"><table cellpadding="0" cellspacing="0" border="0" style="table-layout: fixed;" width="100%">
-            <tbody><tr>
-              <td>
+                    <td valign="top" width="100%" id="CommonBodyColumn">
+                        <table cellpadding="0" cellspacing="0" border="0" style="table-layout: fixed;" width="100%">
+                            <tbody><tr>
+                                <td>
+                                    
     
-<div style="width:700px; margin-left:auto; margin-right:auto">
+<div class="iyfootercontentm" style="margin:0px 20px 20px 20px">
 
-    <h2 class="CommonTitle">Privacy Policy</h2>
-<div class="CommonContent" style="font-size: 1.2em; color: rgb(85, 85, 85);">At InvestmentYogi, we respect your privacy and are committed to protecting your personal information. Our privacy policy detailed below explains what information we may gather from your visit to our web sites and how such information may be used.<br></div>
+    <h1 class="CommonTitle">Privacy Policy</h1>
+<div class="CommonContent" style="font-size: 1.2em; color: rgb(85, 85, 85);">At InvestmentYogi, we respect your privacy and are committed to protecting your personal information. Our privacy policy detailed below explains what information we may gather from your visit to our web sites and how such information may be used.</div>
 <div class="CommonContent" style="font-size: 1.2em;">&nbsp;</div>
 <div class="CommonContent" style="font-size: 1.2em; color: rgb(85, 85, 85);"><b>1. How do we use information?</b></div>
 <div class="CommonContent" style="font-size: 1.2em; color: rgb(85, 85, 85);"><b></b><br>We use the information that you provide to us when you register on a page on this site, fill out a survey, or otherwise voluntarily tell us about yourself or your activities, for <span style="font-weight: bold;">our own use</span> to improve our products and services and the content of this site. In addition we may use the information you provide us to send you marketing information about InvestmentYogi products and services.</div><br><br>
@@ -323,160 +268,149 @@ pageTracker._trackPageview();
 <div class="CommonContent" style="font-size: 1.2em; color: rgb(85, 85, 85);">As we add more features and services to help you make better financial decisions, we update our privacy policies from time to time. Please visit this page often to review latest information on privacy practices at InvestmentYogi.&nbsp; </div>
 </div>
 
-</td>
-            </tr>
-          </tbody></table></td>
-        <td valign="top" id="CommonRightColumn">
+
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                    <td valign="top" id="CommonRightColumn">
     
 </td>
-      </tr>
-    </tbody></table>
-  </div>
-  <div id="h_main" style="margin-top:10px;">
+                </tr>
+            </tbody></table>
+        </div>
+        <!-- end of common -->
+        <!-- end of common outer -->
+        <div id="h_main">
+            <div class="h_footer">
+                <div class="h_b_nav">
+                    
+
+<div class="h_b_nav_in" style="width:16%; ">
+  <ul>
+    <li>
+      <h2> About Us</h2>
+    </li>
+    <li>
+      <a href="/about.aspx" title="About">The Company</a>
+    </li>
+    <li>
+      <a href="/themes/yogi/company/team.aspx" title="The Team">The Team</a>
+    </li>
+    <li>
+      <a href="/feedback.aspx" title=" Feedback">Feedback</a>
+    </li>
+    <li>
+      <a href="/themes/yogi/company/contactus.aspx" title=" Contact">Contact Us</a>
+    </li>
+   
+     <li>
+      <a href="/jobs.aspx" title="Careers">Careers</a>
+    </li>
+   
+  </ul>
+</div>
+<div class="h_b_nav_in" style="width:20%; border-right:solid 1px #CCC; height:90px">
+  <ul>
+    <li style="height:20px"> </li>
+    <li>
+     <a href="/themes/yogi/company/mediaroom.aspx" "=""> Media Room</a>      
+    </li>
+    <li>
+      <a href="/blogs/financial_planning/archive/2009/05/25/testimonials-from-our-customers.aspx" title=" Testimonials">Testimonials</a>
+    </li>
+    <li>
+      <a href="/PrivacyPolicy.aspx" title="Privacy Policy">Privacy Policy</a>
+    </li>
+     <li>
+      <a href="/Terms.aspx" title="Terms of Use"> Terms of Use</a>
+    </li>
+  </ul>
+</div>
+
+<div class="h_b_nav_in" style="width:15%; padding-left:20px">
+  <ul>
+    <li>
+      <h2> Partner with Us</h2>
+    </li>
+    <li>
+      <a href="/themes/yogi/company/advertisewithus.aspx">Advertise with Us</a>
+    </li>
+    <li>
+      <a href="/themes/yogi/company/marketingalliance.aspx">Marketing Alliance
+
+</a>
+    </li>
+    <li>
+      <a href="/Guestblogger.aspx"> Write for Us</a>
+    </li>
     
-    <div class="h_footer">
-      <div class="h_b_nav">
-        <div class="h_b_nav_in" style="width:16%; ">
-          <ul>
-            <li>
-              <h2> Company Info</h2>
-            </li>
-            <li><a href="/about.aspx" title="About">About us</a></li>
-            <li><a href="http://www.surveymonkey.com/s.aspx?sm=MPW3gsMNtH9GAMPl_2b0o7vA_3d_3d" title=" " onclick="javascript:popupSurvey(this.href);return false;">Survey</a></li>
-            <li><a href="/feedback.aspx" title=" Contact">Contact</a></li>
-            <li><a href="/jobs.aspx" title=" Careers">Careers</a> </li>
-          </ul>
-        </div>
-        <div class="h_b_nav_in" style="width:14%; border-right:solid 1px #CCC; height:90px">
-          <ul>
-            <li style="height:20px"> </li>
-            <li><a href="/feedback.aspx" title="Link Exchange">Feedback</a> </li>
-            <li><a href="/PrivacyPolicy.aspx" title=" Privacy Policy">Privacy Policy</a> </li>
-            <li><a href="/Terms.aspx" title=" Terms of Use">Terms of Use</a> </li>
-          </ul>
-        </div>
-        <div class="h_b_nav_in" style="width:15%; padding-left:20px">
-          <ul>
-            <li>
-              <h2> Topics</h2>
-            </li>
-            <li><a href="/Financialcalculators.aspx">Calculators</a></li>
-            <li><a href="/blogs/default.aspx?GroupID=6">Investing</a></li>
-            <li><a href="/blogs/default.aspx?GroupID=4">Planning</a></li>
-            <li><a href="/blogs/default.aspx?GroupID=3">Spending</a></li>
-          </ul>
-        </div>
-        <div class="h_b_nav_in" style="width:12%; border-right:1px solid #ccc; height:90px; padding-right:20px;">
-          <ul>
-            <li style="height:20px"></li>
-            <li><a href="/blogs/personalfinance/default.aspx">Personal Finance</a></li>
-            <li><a href="/blogs/default.aspx?GroupID=8">Tax Savings</a></li>
-            <li><a href="/how-to/default.aspx">How Tos</a></li>
-            <li><a href="/forums/default.aspx">Communities</a></li>
-          </ul>
-        </div>
-        <div class="h_b_nav_in" style="width:16%; padding-left:20px">
-          <ul>
-            <li>
-              <h2> More About Us</h2>
-            </li>
-            <li><a href="/blogs/financial_planning/archive/2009/05/25/testimonials-from-our-customers.aspx">Testimonials</a></li>
-            <li><a href="/blogs/charity/topics/2009/08/25/charity.aspx">Charities we support</a></li>
-            <li><a href="/team/media-buzz.aspx">Media</a></li>
-          </ul>
-        </div>
-        <div class="h_b_nav_in" style="width:14%">
-          <ul>
-            <li style="height:20px"> </li>
-            <li><a href="/blogs/team/default.aspx">Newsletters</a></li>
-            <li><a href="/advertisewithus.aspx">Advertise with us</a></li>
-            <li><a href="/Guestblogger.aspx">Write for us</a></li>
-          </ul>
-        </div>
-        <!--<div class="h_b_nav_in" style="width:22%">
-          <div c lass="howcan" st yle="float:right">
-            <div style="float:left;width:40px"><a href="/blogs/MainFeed.aspx"><img src="/Themes/yogi/images/home/2010/RSS-feed-icon.png" border="0"/></a></div>
-            <div style="float:left;width:40px"><a href="http://www.facebook.com/InvestmentYogi"><img src="/Themes/yogi/images/home/facebook_icon.png" alt="Investmentyogi on facebook" border="0"/></a></div>
-            <div style="float:left;width:40px"><a href="http://twitter.com/investmentyogi"><img src="/Themes/yogi/images/home/twitter_icon.png" alt="Investmentyogi updates on twitter" border="0"/></a></div>
-            <div style="float:left;width:40px"><a href="http://www.youtube.com/user/investmentyogi"><img src="/Themes/yogi/images/home/youtube_icon.png" alt="Investmentyogi on YouTube" border="0"/></a></div>
-            <div style="float:left;width:40px; margin-left:10px;"><img src="/Themes/yogi/images/home/rapidssl_icon.png" alt=""/></div>
-          </div>
-        </div>-->
-      </div>
-      <!--<div style="text-align:right; clear:both; height:13px;" >
-        <div class="f_nav">
-          <ul>
-            <li><a href="/about.aspx" title="About">About us</a></li>
-            <li>|</li>
-            <li><a href="http://www.surveymonkey.com/s.aspx?sm=MPW3gsMNtH9GAMPl_2b0o7vA_3d_3d" title=" " onclick="javascript:popupSurvey(this.href);return false;">Survey</a></li>
-            <li>|</li>
-            <li><a href="/feedback.aspx" title=" Contact">Contact</a></li>
-            <li>|</li>
-            <li><a href="/jobs.aspx" title=" Careers">Careers</a> </li>
-            <li>|</li>
-            <li><a href="/feedback.aspx" title="Link Exchange">Feedback</a> </li>
-            <li>|</li>
-            <li><a href="/PrivacyPolicy.aspx" title=" Privacy Policy">Privacy Policy</a> </li>
-            <li>|</li>
-            <li><a href="/Terms.aspx" title=" Terms of Use">Terms of Use</a> </li>
-          </ul>
-        </div>
-      </div>-->
-      <div id="sitemap">
-        <ul>
-          <li> <b>Site Map (HTML):</b></li>
-          <li><a href="/SiteMap-AboutUs.html">1</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-AMC.html">2</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-AMCSchemes.html">3</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-Articles.html">4</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-Budget.html">5</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-Financial-Planning.html">6</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-Forums.html">7</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-ForumsPost.html">8</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-FundNav.html">9</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-FundSummary.html">10</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-HowTos.html">11</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-MFCategory.html">12</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-Taxes.html">13</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-Calculators.html">14</a></li>
-          <li> <b style="margin-left:10px">Site Map (XML):</b></li>
-          <li><a href="/SiteMap-AMC.xml">1</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-BlogUrls.xml">2</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-ForumPosts.xml">3</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-ForumUrls.xml">4</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-HowTosUrls.xml">5</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-IY.xml">6</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-FundNav.xml">7</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-FundsSummary.xml">8</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-Calculators.xml">9</a></li>
-          <li>|</li>
-          <li><a href="/SiteMap-MFCategory.xml">10</a></li>
-        </ul>
-      </div>
-      <div class="myBox" id="myBox">
-        <h2>Most visited pages:</h2>
-        <div>
+  </ul>
+</div>
+
+
+
+
+                </div>
+                <div id="sitemap">
+                    
+
+<ul>
+    <li><b>Site Map (HTML):</b></li>
+    <li><a href="/SiteMap-AboutUs.html">1</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-AMC.html">2</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-AMCSchemes.html">3</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-Articles.html">4</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-Budget.html">5</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-Financial-Planning.html">6</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-Forums.html">7</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-ForumsPost.html">8</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-FundNav.html">9</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-FundSummary.html">10</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-HowTos.html">11</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-MFCategory.html">12</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-Taxes.html">13</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-Calculators.html">14</a></li>
+    <li><b style="margin-left: 10px">Site Map (XML):</b></li>
+    <li><a href="/SiteMap-AMC.xml">1</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-BlogUrls.xml">2</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-ForumPosts.xml">3</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-ForumUrls.xml">4</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-HowTosUrls.xml">5</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-IY.xml">6</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-FundNav.xml">7</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-FundsSummary.xml">8</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-Calculators.xml">9</a></li>
+    <li>|</li>
+    <li><a href="/SiteMap-MFCategory.xml">10</a></li>
+</ul>
+
+                </div>
+                <div class="myBox" id="myBox">
+                    <h2>
+                        Most visited pages:</h2>
+                    <div>
                         <ul><li><a href="/mutualfundas/best-mutual-funds-for-sip-in-2010.aspx" mce_href="/mutualfundas/best-mutual-funds-for-sip-in-2010.aspx">Best 
 Mutual Funds for SIP </a></li><li>|</li><li><a href="http://www.investmentyogi.com" mce_href="http://www.investmentyogi.com">Financial Planning</a></li><li>|</li>
                             <li><a href="/investing/investment-planning-for-2010.aspx" mce_href="/investing/investment-planning-for-2010.aspx">Investment Planning </a></li><li>|</li>
@@ -491,46 +425,38 @@ Mutual Funds for SIP </a></li><li>|</li><li><a href="http://www.investmentyogi.c
                             <li><a href="/MutualFunds/default.aspx" mce_href="/MutualFunds/default.aspx">Mutual Funds India</a></li><li>|</li><li><a href="/investing/best-mutual-funds-to-invest-in-2010.aspx" mce_href="/investing/best-mutual-funds-to-invest-in-2010.aspx">Best Mutual Funds </a></li><li>|</li><li><a href="/investing/post-office-monthly-income-scheme-po-mis.aspx" mce_href="/investing/post-office-monthly-income-scheme-po-mis.aspx">Post Office MIS</a></li><li>|</li><li><a href="http://www.investmentyogi.com/taxes/best-tax-saving-mutual-funds-for-2010.aspx" mce_href="http://www.investmentyogi.com/taxes/best-tax-saving-mutual-funds-for-2010.aspx">Best Tax saving Mutual Funds</a></li><li>|</li><li><a href="/insurance/best-child-insurance-plans.aspx" mce_href="/insurance/best-child-insurance-plans.aspx">Best child insurance plan</a></li><li>|</li><li><a href="http://www.investmentyogi.com/taxes/tax-saving-options-under-section-80c.aspx" mce_href="http://www.investmentyogi.com/taxes/tax-saving-options-under-section-80c.aspx">Section 80C</a></li><li>|</li><li><a href="http://www.investmentyogi.com/taxes/best-tax-saving-investments.aspx" mce_href="http://www.investmentyogi.com/taxes/best-tax-saving-investments.aspx">Best Tax Saving Investments</a></li><li>|</li><li><a href="/forums/t/401.aspx" mce_href="/forums/t/401.aspx">senior citizen concession</a></li><li>|</li><li><a href="/planning/national-savings-certificates-nsc.aspx" mce_href="/planning/national-savings-certificates-nsc.aspx">National Savings Certificates NSC</a></li><li>|</li><li><a href="/investing/monthly-income-plan-mip-mutual-funds.aspx" mce_href="/investing/monthly-income-plan-mip-mutual-funds.aspx">Monthly Income Plan MIP</a></li><li>|</li><li><a href="/taxes/how-to-do-e-filing.aspx" mce_href="/taxes/how-to-do-e-filing.aspx">e-filing tax return</a></li><li>|</li><li><a href="/taxes/what-is-gratuity.aspx" mce_href="/taxes/what-is-gratuity.aspx">what is gratuity</a></li><li>|</li><li><a href="/forums/t/723.aspx" mce_href="/forums/t/723.aspx">designation of assessing officer</a></li><li>|</li><li><a href="/investing/post-office-monthly-income-scheme-po-mis.aspx" mce_href="/investing/post-office-monthly-income-scheme-po-mis.aspx">post office monthly income scheme</a></li><li>|</li><li><a href="/taxexpert/eligibility-for-hra-exemption.aspx" mce_href="/taxexpert/eligibility-for-hra-exemption.aspx">hra exemption </a></li><li>|</li><li><a href="/taxes/how-to-view-your-tax-credit-form-26as.aspx" mce_href="/taxes/how-to-view-your-tax-credit-form-26as.aspx">nsdl 26as</a></li><li>|</li><li><a href="/" mce_href="/">Financial Plan</a></li><li>|</li><li><a href="/blogs/personalfinance/default.aspx" mce_href="/blogs/personalfinance/default.aspx">Personal Finance</a></li><li>|</li><li><a href="/blogs/financial_planning/default.aspx" mce_href="/blogs/financial_planning/default.aspx">Financial
  Planning Blog</a></li><li>|</li><li><a href="/investing/know-your-customer-kyc-new-guidelines.aspx" mce_href="/investing/know-your-customer-kyc-new-guidelines.aspx">kyc verification</a></li><li>|</li><li><a href="/home-loan-emi-calculator.aspx" mce_href="/home-loan-emi-calculator.aspx">EMI Calculator</a></li><li>|</li><li><a href="/income-tax-calculator.aspx" mce_href="/income-tax-calculator.aspx">tax calculator</a></li><li>|</li><li><a href="/home-loan-emi-calculator.aspx" mce_href="/home-loan-emi-calculator.aspx">home loan calculator</a></li><li>|</li><li><a href="/income-tax-calculator.aspx" mce_href="/income-tax-calculator.aspx">income tax calculator</a></li><li>|</li><li><a href="/sip-calculator.aspx" mce_href="/sip-calculator.aspx">sip calculator</a></li><li>|</li><li><a href="/investment-calculator.aspx" mce_href="/investment-calculator.aspx">investment calculator</a></li><li>|</li><li><a href="/retirement-calculator.aspx" mce_href="/retirement-calculator.aspx">Retirement calculator</a></li><li>|</li><li><a href="/taxes/rec-tax-free-infrastructure-bonds-under-section-80ccf.aspx" mce_href="/taxes/rec-tax-free-infrastructure-bonds-under-section-80ccf.aspx">Section 80CCF</a></li><li>|</li><li><a href="/taxes/tax-benefits-under-section-80d-80dd-and-80ddb.aspx" mce_href="/taxes/tax-benefits-under-section-80d-80dd-and-80ddb.aspx">80D</a></li><li>|</li><li><a href="/taxes/tax-deductions-under-section-80e-for-education-loans.aspx" mce_href="/taxes/tax-deductions-under-section-80e-for-education-loans.aspx">80E</a></li><li>|</li><li><a href="/taxes/tax-deduction-under-section-80g-for-donations-towards-social-causes.aspx" mce_href="/taxes/tax-deduction-under-section-80g-for-donations-towards-social-causes.aspx">80G</a></li><li>|</li><li><a href="/taxes/understand-your-pan-card.aspx" mce_href="/taxes/understand-your-pan-card.aspx">pan card</a><br></li></ul>
                     </div>
-      </div>
-      <div class="h_copy">Copyright ©2010 InvestmentYogi Fin Advisory Services Pvt.Ltd</div>
-      <div style="height:20px;"></div>
-    </div>
-    <div style="float: left; margin-left: 410px">
-      
-        
-        
-        
-      
-    </div>
-    <!-- Commented the Insurance tool bar on the footer section -->
-    
-    
-    <!-- end of common footer -->
-  </div>
-  <!-- end of common -->
-  <!-- end of common outer -->
 
+                </div>
+                <div class="h_copy">
+                    Copyright ©2009-2013 InvestmentYogi Fin Advisory Services Pvt.Ltd</div>
+                <div style="height: 20px;">
+                </div>
+            </div>
+            <div style="float: left; margin-left: 410px">
+                
+                    
+                    
+                    
+                
+            </div>
+            <!-- Commented the Insurance tool bar on the footer section -->
+            <!-- end of common footer -->
+        </div>
+    </div>
+    <div id="ctl00_ctl00_ControlPanel" class="iyadminconsole">
+        <div>
+            <a href="/controlpanel/default.aspx">Control Panel</a></div>
+        <div>
+            <a href="/themes/yogi/common/Iyadmin.aspx">Admin Console</a></div>
+    </div>
+    
+    
 <script type="text/javascript">
 // <![CDATA[
 Telligent_Modal.Configure('/utility/loading.htm',['CommonModal'],['CommonModalTitle'],['CommonModalClose'],['CommonModalContent'],['CommonModalFooter'],['CommonModalResize'],['CommonModalMask'],100);
 // ]]>
-</script><script type="text/javascript">
-<!--
-function KeyDownHandlerctl00_ctl00_bhcr_SearchForm1_ctl00_TitleBarSearchButton(event)
-{
-	if (event.keyCode == 13)
-	{
-		event.returnValue = false;
-		event.cancel = true;
-     __doPostBack('ctl00$ctl00$bhcr$SearchForm1$ctl00$TitleBarSearchButton','')
-   return false;
-	}
-}
-
-//-->
-</script>
+</script></form>
+    
 
 
-
-
-</div></div></form></body></html>
+</body></html>
