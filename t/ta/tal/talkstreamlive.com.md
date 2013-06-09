@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkstreamlive.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121094522id_/http%3A//www.talkstreamlive.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkstreamlive.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609044946id_/http%3A//talkstreamlive.com/privacy.htm) for the most accurate reproduction.*
 
 # TalkStreamLive - Topic Driven Talk Radio
 
