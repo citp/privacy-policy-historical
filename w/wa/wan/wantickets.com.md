@@ -1,12 +1,27 @@
-> *The following text is extracted and transformed from the wantickets.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216160947id_/http%3A//www.wantickets.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wantickets.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609074154id_/http%3A//wantickets.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Wantickets New York - New York Wantickets Events
+# Wantickets Phoenix - Phoenix Wantickets Events
 
 PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THE WANTICKETS.COM, WEBSITE (the "Site"). 
 
 :: OUR PRIVACY POLICY 
 
-We are committed to protecting our user’s privacy. To that end, we offer this statement to inform our users of how we define, gather and utilize personal information. We reserve the right, at our sole discretion, to change, modify or otherwise alter this policy at any time. Such changes and/or modifications shall become effective immediately upon the posting thereof. Without limiting the foregoing, we may occasionally notify you by email about changes to the Site or provide notices of changes by displaying notices or links to notices to you generally on the Site. Please review this policy periodically. Your continued use of the Site following the posting of changes and/or modifications will constitute your acceptance of the revised privacy policy. For your information, this page was last updated on Thursday, September 29, 2011. 
+We are committed to protecting our user’s privacy. To that end, we offer this statement to inform our users of how we define, gather and utilize personal information. We reserve the right, at our sole discretion, to change, modify or otherwise alter this policy at any time. Such changes and/or modifications shall become effective immediately upon the posting thereof. Without limiting the foregoing, we may occasionally notify you by email about changes to the Site or provide notices of changes by displaying notices or links to notices to you generally on the Site. Please review this policy periodically. Your continued use of the Site following the posting of changes and/or modifications will constitute your acceptance of the revised privacy policy. For your information, this page was last updated on Thursday, May 9, 2013. 
+
+In an effort to provide more comprehensive services to our users, affiliates and advertising partners, our site may now be gathering interest based information and using one or more of the following interest-based advertising collection activities: 
+
+  * Remarketing
+  * Interest Categories
+  * Similar audiences
+  * Other types of interest-based advertising
+
+
+
+This information will potentially be used by third-party vendors, including Google, to show our ads on sites across the Internet.
+
+Third-party vendors, including Google, may use cookies on our site to serve ads based upon your past usage of our website.
+
+Any visitor to our site can opt out of Google’s use of cookies by visiting Google’s [Ads Settings](https://www.google.com/settings/u/0/ads/?hl=en&sig=ACi0TCjU0j00j9Lkx_9E3P_OYcLSwSxiCu6dSUG8Oso80g3DXaRX61eTJVieCWI-KO9Kd4-NII2cpwNpVvKFxV_Zlifxf6P8v2woposaXtwffLQZ5zQNwjpgZ-tT1uQ_GQBlmoIlt0G-R6WI5WmIvheCt-281upCaX1I7wdbtgdv5pfddfrDzfo). Alternatively, any visitor can opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out ad-on page](https://tools.google.com/dlpage/gaoptout/)
 
 We define personal information as information that includes a person's full name, address, telephone number, date of birth and/or email address or any other information that is tied to individually identifiable information that would allow someone to identify or contact you, unless stated otherwise herein or on the Site. We can gather information on our users in two different ways: (1) cookie technology; and (2) voluntary submissions. 
 
