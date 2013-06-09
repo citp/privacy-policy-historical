@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the tunecore.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604095402id_/http%3A//www.tunecore.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunecore.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609035314id_/http%3A//www.tunecore.com/index/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TuneCore
+# Privacy | TuneCore
 
-### Effective as of August 31, 2011
+### Effective as of June 5, 2012
 
-Your privacy is important to us. None of us at TuneCore would want our own personal information used in ways we do not agree to or know about. So here are the rules we live by:
+Your privacy is important to us. None of us at TuneCore would want our own personal information used in ways we do not agree to or know about.
 
-  * TuneCore will not sell your personal information to anyone.
-  * TuneCore will not share your personal information with our partners unless they also agree not to sell it to anyone.
-  * TuneCore will always use secure methods when handling your personal information.
-
-
-
-Take a moment to read our privacy policy below to make sure you understand and agree with it.
+Please take a moment to read our Privacy Policy below to make sure you understand and agree with it.
 
 ### Why does TuneCore collect personal information?
 
@@ -20,15 +14,15 @@ We need your personal information (i.e., information by which you are individual
 
 ### What information does TuneCore collect?
 
-To offer you our services and products, TuneCore will need basic personal information from you that might consist of all or part of the following: your name; physical address; email address; phone numbers; credit/charge card information to collect from you various fees and charges for services and/or products; and bank account and/or PayPal account information for deposits of money owed to you from the sale of your music. In addition, we might ask for personal information that will help remind you of your TuneCore account user name and/or password in the event you forget or lose such information.
+To offer you our services and products, TuneCore will need basic personal information from you that might consist of all or part of the following: the name of the account holder; physical address; email address; phone numbers; credit/charge card information to collect from you various fees and charges for services and/or products; bank account and/or PayPal account information for deposits of money owed to you from the sale of your music; and your social security number and/or tax identification number for tax purposes if you sign up for TuneCore’s Publishing Administration. In addition, we might ask for personal information that will help remind you of your TuneCore account user name and/or password in the event you forget or lose such information.
 
-TuneCore may also set up a system that allows you to purchase and/or send gift certificates or links to albums, songs or other TuneCore products or services to other TuneCore users, family members, friends or colleagues. To fulfill your request, TuneCore may require personal information about the person to whom you are sending the product or service. The personal information you provide about that person is used only for the purpose for which it is collected. **Neither TuneCore nor its partners with whom we share that data will use the personal information collected to market directly to that person.**
+TuneCore may also set up a system that allows you to purchase and/or send gift certificates or links to albums, songs or other TuneCore products or services to other TuneCore users, family members, friends or colleagues. To fulfill your request, TuneCore may require personal information about the person to whom you are sending the product or service. The personal information you provide about that person is used only for the purpose for which it is collected.
 
-TuneCore may also collect non-personal information from you, including the names of your songs and albums and the associated artists; the year that your recordings were made/released; and the name(s) of the person or entity that owns and controls the rights to the songs, albums and/or artwork that you deliver to TuneCore. Such information may, without limitation, be used to keep track of how certain albums and/or songs are selling for ranking charts. Please note that by using the TuneCore service, you agree that Company shall have the right to provide information relative to the sales of your Recordings to third parties, to aggregate such information in charts and other comparative informational materials, and to disseminate the same in any manner. From time to time TuneCore might also present you with a voluntary survey or questionnaire about our current or possible future services or products that solicits non-personal information from you.
+TuneCore may also collect non-personal information from you, including the names of your songs and albums and the associated artists; the year that your recordings were made/released; and the name(s) of the person or entity that owns and controls the rights to the songs, albums and/or artwork that you deliver to TuneCore. Such information may, without limitation, be used to keep track of how certain albums and/or songs are selling for ranking charts. Please note that by using the TuneCore service, you agree that TuneCore shall have the right to provide information relative to the sales of your recordings to third parties, to aggregate such information in charts and other comparative informational materials, and to disseminate the same in any manner. From time to time TuneCore might also present you with a voluntary survey or questionnaire about our current or possible future services or products that solicits non-personal information from you.
 
 ### Does TuneCore disclose your personal information to anyone?
 
-We take your privacy very seriously. **TuneCore will NOT sell your personal information to anyone.** It is possible that people working for TuneCore might view your personal information to make sure we are providing you with the best service possible, but such access will be on a need-to-know basis only and they will be required to keep your personal information confidential and use it only as provided by the TuneCore privacy policy.
+We take your privacy very seriously. In order to serve you it is possible that people working for TuneCore might view your personal information to make sure we are providing you with the best service possible, but such access will be on a need-to-know basis only and they will be required to keep your personal information confidential and use it only as provided by the TuneCore privacy policy.
 
 It is also possible that with improvements to existing services or with the addition of new services it may be to your advantage for TuneCore to make specific personal information about you available to companies that TuneCore has a strategic relationship with or that perform work for TuneCore so that they can provide products and services to you on our behalf. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services or conduct customer research or satisfaction surveys. We will provide these companies with only the personal information that they require to perform the task for which they have been hired to do. **These companies must also protect your personal information in accordance with TuneCore's privacy policy.** Without such information being made available, it would be difficult for you to sell your music, upload your songs, upload your album artwork, purchase products and services, have products delivered to you, receive customer service, provide us feedback to improve our products and services, or access certain services, offers and content on the TuneCore website.
 
@@ -54,26 +48,26 @@ As is the case with many websites, the TuneCore website logs your IP address and
 
 You can set your browser to notify you when a cookie is enabled, allowing you the opportunity to reject or disable the cookie; however, it is possible that some portion or functions of the TuneCore website or its participating partners' websites may not work as well or at all if you disable your cookies.
 
-We may use third party service providers to help us analyze certain online activities. For example, these service providers may help us measure the performance of our online campaigns or analyze visitor activity on the TuneCore website. We may permit these service providers to use cookies and other technologies to perform these services for TuneCore. We do not share any personal information about our customers with these third party service providers and these service providers do not collect such information on our behalf.
+We may use third party service providers for the limited purpose to help us analyze certain online activities. For example, these service providers may help us measure the performance of our online campaigns or analyze visitor activity on the TuneCore website. We may permit these service providers to use cookies and other technologies to perform these services for TuneCore.
 
-Many websites gather certain non-personal information automatically and store it in log files, including things like your IP addresses, browser type, Internet service provider, referring/exit pages, operating system, date/time stamp, and clickstream data. None of this information identifies you directly. TuneCore may also enable this technology for use in ways that are commonly accepted within the online community.
+Many websites gather certain non-personal information automatically and store it in log files, including things like your IP addresses, browser type, Internet service provider, referring/exit pages, operating system, date/time stamp, and clickstream data. None of this information identifies you directly. TuneCore may also enable this technology for use in ways that are commonly accepted by industry practice.
 
 ### Message boards, chat rooms and instant messaging:
 
-In the event that TuneCore launches community-based services such as message boards, blogs, instant messaging and other similar services, you should be aware that any information you share is visible to other users. **Please note that information you submit to one of these forums can be read, collected or used by other individuals to send you unsolicited messages. TuneCore is not responsible for the personally identifiable information you choose to submit in these forums – you are solely responsible for any content you post there, including, but not limited to, any personal information that you choose to reveal in these public forums.** In using any of these services, you agree that you will not use them for any purpose that is unlawful or in violation of TuneCore’s Terms and Conditions. Please note that TuneCore may, in its sole discretion, monitor postings in these forums to assure that users are complying with the TuneCore [Terms and Conditions](https://web.archive.org/index/terms).
+In the event that TuneCore launches community-based services such as message boards, blogs, instant messaging and other similar services, you should be aware that any information you share is visible to other users. **Please note that information that you submit to one of these forums can be read, collected or used by other individuals to send you unsolicited messages. TuneCore is not responsible for the personally identifiable information you choose to submit in these forums – you are solely responsible for any content that you post there, including, but not limited to, any personal information that you choose to reveal in these public forums.** In using any of these services, you agree that you will not use them for any purpose that is unlawful or in violation of TuneCore’s Terms and Conditions. Please note that TuneCore may, in its sole discretion, monitor postings in these forums to assure that users are complying with the TuneCore [Terms and Conditions](https://web.archive.org/index/terms).
 
 ### Links to other websites:
 
-**It is possible that at some time TuneCore might link to other websites. If we do, and you choose to go to these other websites, please be aware that such websites may not be affiliated with TuneCore and are not subject to TuneCore’s privacy policy. We encourage you to carefully review such other websites’ respective privacy policies and ask questions directly of them in this regard.**
+**It is possible that at some time TuneCore might link to other websites. If we do, and you choose to go to these other websites, please be aware that such websites may not be affiliated with TuneCore and are not subject to TuneCore’s Privacy Policy. We encourage you to carefully review such other websites’ respective privacy policies and ask questions directly of them in this regard.**
 
-### Changes to TuneCore’s privacy policy:
+### Changes to TuneCore’s Privacy Policy:
 
-As TuneCore grows, changes, and expands to suit your needs, we may need to modify, alter or otherwise update this privacy policy. **When we make changes to this privacy policy we will notify you here, so we encourage you to review this privacy policy from time to time.** We may also attempt to notify you of any such changes to our privacy policy via email or by placing a notice on our home page, but are not required to do so.
+As TuneCore grows, changes, and expands to suit your needs, we may need to modify, alter or otherwise update this privacy policy. **When we make changes to this Privacy Policy we will notify you here, so we encourage you to review this Privacy Policy from time to time.** We may also attempt to notify you of any such changes to our Privacy Policy via email or by placing a notice on our home page, but are not required to do so.
 
-### Acceptance of TuneCore’s privacy policy:
+### Acceptance of TuneCore’s Privacy Policy:
 
-**By using the TuneCore website, you consent to the collection, use and disclosure of your personal information by TuneCore in accordance with this privacy policy.**
+**By using the TuneCore website, you consent to the collection, use and disclosure of your personal information by TuneCore in accordance with this Privacy Policy.**
 
-### Questions about TuneCore’s privacy policy:
+### Questions about TuneCore’s Privacy Policy:
 
-If you have any questions, concerns or thoughts about the privacy of your personal information while using the TuneCore website or this privacy policy, please feel free to contact us at [our Contact Page](https://web.archive.org/contact).
+If you have any questions, concerns or thoughts about the privacy of your personal information while using the TuneCore website or this Privacy Policy, please feel free to contact us at [our Contact Page](https://web.archive.org/contact).
