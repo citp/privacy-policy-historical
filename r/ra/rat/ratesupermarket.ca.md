@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024160114id_/http%3A//www.ratesupermarket.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609061935id_/http%3A//www.ratesupermarket.ca/privacy_policy) for the most accurate reproduction.*
 
 # Ratesupermarket.ca Privacy Policy
 
@@ -56,7 +56,8 @@ For questions or concerns regarding your personal information and our privacy po
 
 Customer Service  
 RateSupermarket.ca Inc.  
-3000 Sandlewood Court  
-Burlington, Ontario, Canada  
-L7M 3A4  
+119 Spadina Ave  
+Suite #902  
+Toronto, Ontario, Canada  
+M5V 2L1  
 customer.service (at) RateSupermarket.ca
