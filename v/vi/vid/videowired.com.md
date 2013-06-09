@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videowired.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208151224id_/http%3A//www.videowired.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videowired.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609111006id_/http%3A//www.videowired.com/company/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy VideoWired.com
 
