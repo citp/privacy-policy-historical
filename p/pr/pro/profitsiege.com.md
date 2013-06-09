@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the profitsiege.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103122547id_/http%3A//www.profitsiege.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitsiege.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609172740id_/http%3A//pslearning.com/privacy.html) for the most accurate reproduction.*
 
 # Profit Siege :: Capturing Profit With Ease
 
 **Your Privacy Rights Summarized**
 
-The owners of ProfitSiege.com [hereinafter referred to as “Profit Siege”, “us” or “we”] collects personal information about you and distributes that information to provide with services and products you request on this website.  In addition, we distribute that information to others to provide you with other products and services. This summary and the full policy below describes how information is collected and distributed and your choices with respect to your personal information. Please review our full  Privacy Policy for detailed information on our information and privacy practices. 
+The owners of pslearning.com [hereinafter referred to as “Profit Siege”, “us” or “we”] collects personal information about you and distributes that information to provide with services and products you request on this website.  In addition, we distribute that information to others to provide you with other products and services. This summary and the full policy below describes how information is collected and distributed and your choices with respect to your personal information. Please review our full  Privacy Policy for detailed information on our information and privacy practices. 
 
 ## Information We Collect and Retain Summarized
 
@@ -24,10 +24,10 @@ We may also use your information to contact you about other products or services
 
 ## Your Choices About Your Information
 
-You may delete the personal information you submit to us at any time by notifying us at privacy@profitsiege.com When you request us to delete your personal information, it will be deleted, but we will retain logs, demographic and statistical information about you and keep an archival copy of your information in an anonymous form. If your personal information was previously accessed by others or transferred to others using our Site, we are unable to delete the information from their systems.   
+You may delete the personal information you submit to us at any time by notifying us at privacy@pslearning.com When you request us to delete your personal information, it will be deleted, but we will retain logs, demographic and statistical information about you and keep an archival copy of your information in an anonymous form. If your personal information was previously accessed by others or transferred to others using our Site, we are unable to delete the information from their systems.   
 We have no control over the information that Ad Networks or other third parties may have about you. We encourage you to visit their websites and review and read the privacy policies and opt-out practices that govern their usage. 
 
-If you change your mind about receiving communications from us, you may notifies us of your  preferences by privacy@profitsiege.com
+If you change your mind about receiving communications from us, you may notifies us of your  preferences by privacy@pslearning.com
 
 You may also turn off cookies through your web browser.  However, this may affect your use of our site as well as other’s sites. 
 
@@ -36,7 +36,7 @@ You may also turn off cookies through your web browser.  However, this may affe
 You may contact us for questions or concerns about our privacy practices by writing to us at:   
 
 
-Profit Siege, Privacy Officer, 975 East Avenue, #197, Chico, CA 95926
+Profit Siege 2, Privacy Officer, 975 East Avenue, #197, Chico, CA 95926
 
 **FULL PRIVACY POLICY**
 
@@ -139,7 +139,7 @@ __Hyperlinks__.  Our Site and email messages sometimes contain hypertext links 
 
 ## Use of Your Information for Email and Telemarketing
 
-__Email and Unsubscribe Policy.__   We may provide your personal information to third parties for promotional offers by email.  These offers may be our services and products or those of third parties.  We may maintain separate email lists for different purposes.  If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list.  To unsubscribe from all Profit Siege’s email lists, a person must send an email to unsubscribe@profitsiege.com.
+__Email and Unsubscribe Policy.__   We may provide your personal information to third parties for promotional offers by email.  These offers may be our services and products or those of third parties.  We may maintain separate email lists for different purposes.  If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list.  To unsubscribe from all Profit Siege’s email lists, a person must send an email to unsubscribe@pslearning.com.
 
 __Content of Email Messages.__   You may receive certain commercial email messages sent by third parties for products which may be of interest to you.  In such case, an Advertiser's name will appear in the "From:" and the email will have a method at the bottom of the email to unsubscribe from that Advertiser.   Profit Siege is not responsible for third party emails sent to you.
 
@@ -147,7 +147,7 @@ __Opting Out of Email Marketing Material.__ We provide you the opportunity to �
 
 If you no longer wish to receive our promotions, you may opt-out of receiving it by following the instructions included in each newsletter or communication or by emailing us per the information contained on our contact page. 
 
-Customer Care Contact Information: info@profitsiege.com
+Customer Care Contact Information: info@pslearning.com
 
 __Telemarketing.__   We  may use your Personal Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones. You may have your telephone number or cell phone number listed on a state or federal do not call registry.  By registering and using this Site, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. (the "ATSR"). Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, you have authorized us to contact you via telemarketing in accordance with the ATSR.  Moreover, by registering with, or requesting information from, a third-party advertiser at or through the Website or other advertisement media made available by us (e.g., email marketing), you agree that such action shall constitute a purchase, an inquiry and/or an application with the respective third-party advertiser for purposes of the ATSR and you may be contacted via email, direct mail and/or telemarketing by such third-party advertiser in accordance with the ATSR. We may use Personal Information to provide the services you've requested, including services that display customized content and advertising. 
 
@@ -157,7 +157,7 @@ __Short Message Service__.  We may make available a service through which you c
 
 You acknowledge and agree that the SMS Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks.  We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience.  You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service.  We may also access the content of your account and wireless account with your carrier for the purpose of identifying and resolving technical problems and service-related complaints. 
 
-__Removal of Wireless or SMS addresses:__ You may remove your information from our database. If you remove your information from our database it will no longer be used by Profit Siege for secondary purposes, disclosed to third parties, or used by Profit Siege or third parties to send promotional correspondence to you. You may remove your information by sending your request in writing via email to unsubscribe@profitsiege.com or by sending "STOP", "END", "QUIT" to the SMS text message you have received. 
+__Removal of Wireless or SMS addresses:__ You may remove your information from our database. If you remove your information from our database it will no longer be used by Profit Siege for secondary purposes, disclosed to third parties, or used by Profit Siege or third parties to send promotional correspondence to you. You may remove your information by sending your request in writing via email to unsubscribe@pslearning.com or by sending "STOP", "END", "QUIT" to the SMS text message you have received. 
 
 Security 
 
@@ -175,8 +175,6 @@ However, under the law, a business is not required to provide the above-describe
 
 As stated in this policy, you have agreed to allow us to share information with third parties for their direct marketing purposes until you remove your information and thus, agreement for such disclosure. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personally identifiable information on one of our sites or contact us via email to remove your information from our database. Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
 
-California customers may request further information about our compliance with this law by e-mailing info@profitsiege.com. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.
+California customers may request further information about our compliance with this law by e-mailing info@pslearning.com. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.
 
-ClickBank is a registered trademark of Keynetics Inc., a Delaware corporation. ProfitSiege.com is not affiliated with Keynetics Inc. in any way, nor does Keynetics Inc. sponsor or approve any ProfitSiege.com product. Keynetics Inc. expresses no opinion as to the correctness of any of the statements made by ProfitSiege.com in the materials on this Web page.
-
-Product names, logos, brands, and other trademarks featured or referred to within Profit Siege products and services and within ProfitSiege.com are the property of their respective trademark holders. These trademark holders are not affiliated with Profit Siege, our products, or our website. They do not sponsor or endorse our materials.
+Product names, logos, brands, and other trademarks featured or referred to within Profit Siege products and services and within pslearning.com are the property of their respective trademark holders. These trademark holders are not affiliated with Profit Siege, our products, or our website. They do not sponsor or endorse our materials.
