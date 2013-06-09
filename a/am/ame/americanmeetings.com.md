@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanmeetings.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105045302id_/http%3A//www.americanmeetings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmeetings.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609020657id_/http%3A//www.americanmeetings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Meetings, Inc. (AMI)
 
