@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the helpdeskpilot.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123034612id_/http%3A//www.helpdeskpilot.com/helpdesk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpdeskpilot.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609064910id_/http%3A//www.helpdeskpilot.com/helpdesk/privacy.php) for the most accurate reproduction.*
 
-# Help desk Software, Customer Support Ticket Software - Help Desk Pilot for Customer Support & Service
+# Support Ticketing Software, Help Desk System | Helpdeskpilot for Customer Support.
 
 Helpdesk Pilot values the privacy of our visitors and our members and takes many steps to protect their privacy. By visiting Helpdesk Pilot's website you acknowledge that you accept the practices and policies outlined in this Privacy Statement.
 
