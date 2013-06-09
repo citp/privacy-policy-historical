@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the litemind.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223215201id_/http%3A//litemind.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litemind.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609173502id_/http%3A//litemind.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Litemind
 
 This privacy policy tells you how we use personal information collected at Litemind.com. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
 
