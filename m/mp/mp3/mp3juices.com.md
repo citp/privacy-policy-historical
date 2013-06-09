@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3juices.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227065928id_/http%3A//mp3juices.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3juices.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609043513id_/http%3A//mp3juices.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – MP3Juices
 
