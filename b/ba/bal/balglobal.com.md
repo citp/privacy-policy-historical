@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the balglobal.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108212049id_/http%3A//www.balglobal.com/Home/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balglobal.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610013236id_/http%3A//www.balglobal.com/Home/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Berry Appleman & Leiden LLP - Corporate Immigration > Home > Privacy Policy
+# Privacy Policy
 
 Effective August 25, 2011
 
