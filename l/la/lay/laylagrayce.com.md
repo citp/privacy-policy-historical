@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laylagrayce.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915131117id_/http%3A//www.laylagrayce.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laylagrayce.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609123803id_/http%3A//www.laylagrayce.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,7 +41,7 @@ Efforts to bring new services, ideas, and partners to benefit our customers may 
 We’d love to hear your thoughts, comments and suggestions. Maybe you’ve found something irresistible you want to share with us or want to see on our web site. Please contact us via email or call our customer service number. We look forward to hearing from you!
 
 Layla Grayce  
-145 N. Sierra Madre Blvd., Suite 9  
+145 N. Sierra Madre Blvd., Suite 4  
 Pasadena, CA 91107
 
 Phone: (626) 356-2133  
