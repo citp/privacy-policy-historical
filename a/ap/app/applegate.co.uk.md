@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applegate.co.uk privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523175329id_/http%3A//www.applegate.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applegate.co.uk privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609144419id_/http%3A//www.applegate.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Applegate Directory - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Applegate Directory Limited ("We") are committed to protecting and respecting your privacy. 
 
-This policy (together with our [terms of use](https://web.archive.org/web/20120523175329id_/http%3A//www.applegate.co.uk/terms-and-conditions.htm) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
+This policy (together with our [terms of use](https://web.archive.org/web/20130609144419id_/http%3A//www.applegate.co.uk/terms-and-conditions.htm) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
 For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is Applegate Directory Limited of 3 Southernhay West, Exeter, Devon EX1 1JG. 
 
@@ -45,6 +45,8 @@ Please note that our advertisers may also use cookies, over which we have no con
 
 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. Applegate Directory Limited will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
 
+We do not store credit card details nor do we share customer details with any 3rd parties 
+
 All information you provide to us is stored on our secure servers. All payment transactions will be handled by secure external payment handling companies. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. 
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
@@ -79,7 +81,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
   * If Applegate Directory Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20120523175329id_/http%3A//www.applegate.co.uk/terms-and-conditions.htm) and other agreements; or to protect the rights, property, or safety of Applegate Directory Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20130609144419id_/http%3A//www.applegate.co.uk/terms-and-conditions.htm) and other agreements; or to protect the rights, property, or safety of Applegate Directory Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
 
 
