@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southkoreanews.net privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006104159id_/http%3A//www.southkoreanews.net/index.php/nav/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southkoreanews.net privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609185237id_/http%3A//www.southkoreanews.net/index.php/nav/privacy) for the most accurate reproduction.*
 
 # South Korea News - South Korea News | As it Happens | South Korea News.Net
 
@@ -68,4 +68,4 @@ If at any time you do not wish to subscribe to any of our services you will also
 
 ### Changes to Policy
 
-We reserve the right to change this policy at any time by notifying site users in this section of our site. You should regularly visit this section to keep abreast of any changes that occur. If at any time you require further information on any changes, or in fact any aspect of our Privacy Policy please [contact us.](https://web.archive.org/web/20121006104159id_/http%3A//www.southkoreanews.net/index.php/nav/index.php?nav/contact)
+We reserve the right to change this policy at any time by notifying site users in this section of our site. You should regularly visit this section to keep abreast of any changes that occur. If at any time you require further information on any changes, or in fact any aspect of our Privacy Policy please [contact us.](https://web.archive.org/web/20130609185237id_/http%3A//www.southkoreanews.net/index.php/nav/index.php?nav/contact)
