@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the unitedhealthgroup.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015140321id_/http%3A//www.unitedhealthgroup.com/main/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedhealthgroup.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609094943id_/http%3A//unitedhealthgroup.com/Privacy.aspx) for the most accurate reproduction.*
 
-# UnitedHealth Group - Internet Privacy Policy
+# UnitedHealth Group - Privacy Policy
 
 ### **Social Security Number Protection Policy**
 
 Protecting personal information is important to UnitedHealth Group. It is the policy of UnitedHealth Group and its current and future affiliates to protect the confidentiality of Social Security numbers ("SSNs”) that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, electronic, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs. 
 
 ### **Website Privacy Policy**
-
-  
-
 
 **Introduction**
 
@@ -103,7 +100,7 @@ We will not intentionally collect any personal information from children under t
 
 **Contact us  
 **  
-To contact us regarding this Website Privacy Policy and our related privacy practices, [visit the Contact Us page](https://web.archive.org/main/ContactUs.aspx).
+To contact us regarding this Website Privacy Policy and our related privacy practices, [visit the Contact Us page](http://www.unitedhealthgroup.com/main/ContactUs.aspx).
 
 **Effective date**
 
@@ -111,4 +108,4 @@ The Effective Date of this Privacy Policy is July 14, 2011.
 
 **Changes to this Website Privacy Policy**
 
-We may change this Website Privacy Policy. If we do so such change will appear on this page of our website or in another location as indicated by us. It is your responsibility to review the Website Privacy Policy each time you use this website. By continuing to use this website, you consent to any changes to our Website Privacy Policy. 
+We may change this Website Privacy Policy. If we do so such change will appear on this page of our website or in another location as indicated by us. It is your responsibility to review the Website Privacy Policy each time you use this website. By continuing to use this website, you consent to any changes to our Website Privacy Policy.
