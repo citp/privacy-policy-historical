@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the vapor4life.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030195235id_/http%3A//www.vapor4life.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapor4life.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609063255id_/http%3A//www.vapor4life.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vapor4Life
 
 **Your consent**  
-By using our website, you consent to our privacy policy and our [terms and conditions](https://web.archive.org/terms-and-conditions.html), as explained below. This policy was last modified on June 6, 2012 and governs the use of our website and information associated with the purchase of products through our website. We encourage you to refer to this policy periodically so that you understand our current privacy policies.
+By using our website, you consent to our privacy policy and our [terms and conditions](https://web.archive.org/terms-and-conditions), as explained below. This policy was last modified on June 6, 2012 and governs the use of our website and information associated with the purchase of products through our website. We encourage you to refer to this policy periodically so that you understand our current privacy policies.
 
 **What information do we collect?**
 
@@ -63,4 +63,4 @@ We welcome your questions, comments, and concerns about privacy or this policy. 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms and Conditions**  
-Please visit our [Terms and Conditions](https://web.archive.org/terms-and-conditions.html) section, which establishes use, disclaimers, and limitations of liability governing the use of our website.
+Please visit our [Terms and Conditions](https://web.archive.org/terms-and-conditions) section, which establishes use, disclaimers, and limitations of liability governing the use of our website.
