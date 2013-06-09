@@ -1,12 +1,11 @@
-<!--The following is the downloaded HTML source of the formetocoupon.com privacy policy that was archived on 2012-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919195636id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the formetocoupon.com privacy policy that was archived on 2013-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130609213626id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Privacy Policy</title>
 	<meta name="description" content="">
-
-	<script type="text/javascript" language="JAVASCRIPT">
+		<script type="text/javascript" language="JAVASCRIPT">
 		var request = false;
 		var merchantid = 0;
 		var couponid = 0;
@@ -22,6 +21,18 @@
 		     	request = false;
 		   	}
 		 	}
+		}
+
+		function saveAllowAutopilotSetting(nNetworkID,nMerchantID){
+			var bSetting = $('#allowAutopilot_' + nNetworkID).prop('checked')? 1 : 0;
+			
+			$.ajax({url:"saveAllowAutopilotSetting.php"
+					,async: true
+					,	data: { nNetworkID: nNetworkID, bSetting: bSetting, nMerchantID: nMerchantID }
+					,success:function(result){
+						
+    			}
+    		});
 		}
 
 		function verifyRegistration(){
@@ -947,9 +958,7 @@
 							<li><a href="http://www.formetocoupon.com/documentationExclusiveData">Manage Exclusive Data</a></li>
 							<li><a href="http://www.formetocoupon.com/documentationChanges">Changes Data Format</a></li>
 							<li><a href="http://www.formetocoupon.com/documentationShippingDeadlines">Shipping Deadlines Data Format</a></li>
-							<li><a href="http://www.formetocoupon.com/documentationWidget">Widget Documentation</a></li>
-							<li><a href="http://www.formetocoupon.com/yourPepperJamID">Pepperjam Network Unencryption</a></li>
-		</ul>
+						</ul>
 	</div>
 	<div id="leftColTabelBtm"></div>
 	<!--DOCUMENTATION TABLE END-->				</td>
@@ -1134,11 +1143,7 @@ constitutes your agreement to be bound by these provisions.</p>
 
 
 <p style="text-align:justify">For questions or concerns
-relating to privacy, we can be contacted at:</p>
-
-<p style="text-align:justify">
-<a href="mailto:contact@formetocoupon.com?subject=Terms of Service">contact@formetocoupon.com</a>
-</p>
+relating to privacy, we can be contacted though the <a href="/contact-us">Contact Us form</a></p>
 
 
 <p style="text-align:justify"><b>Effective Date</b></p>
@@ -1156,7 +1161,7 @@ relating to privacy, we can be contacted at:</p>
 			<a href="http://www.formetocoupon.com/contact-us">Contact Us</a> |
 			<a href="http://www.formetocoupon.com/agreement">Agreement</a>
 		</div>
-		<div style="float:right;">© 2012 ForMeToCoupon.com</div>
+		<div style="float:right;">© 2013 ForMeToCoupon.com</div>
 	</div>
 			<!-- Google Analytics -->
 		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
