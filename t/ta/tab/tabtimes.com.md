@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the tabtimes.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221014944id_/http%3A//tabtimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabtimes.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609022224id_/http%3A//tabtimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TabTimes
 
-Effective date: April 16, 2012
+Effective date (updated): February 10, 2013
+
+_2/10/2013 update clarifies that Member information is not shared with third parties, while information collected when requesting a sponsored-content item may be shared with the item's sponsor(s)_
 
 TabTimes Inc. operates the TabTimes.com web site and the TabTimes tablet apps, publishes e-mail newsletters and various information documents, and organizes conferences; all these are hereunder collectively referred to as our "Products". 
 
@@ -26,7 +28,7 @@ In this Privacy Policy, we use the following key definitions (other terms are de
 
 “Sponsored B2B Content” means Content available through the Products and owned or sponsored by a third party. 
 
- “Member” means a User that (i) registers in our Products to become a TabTimes member, (ii) subscribes to a newsletter in one of our Products or (iii) registers, in our Products, to request B2B Content.
+ “Member” means a User that (i) registers in our Products to become a TabTimes member or (ii) subscribes to a newsletter in one of our Products.
 
 “Member Information” means information which a Member provides to us as well as Clickstream Data (as defined below) which we collect. 
 
@@ -84,17 +86,19 @@ In general, we use information about you:
 
 
 
-##  5.1. Event Registration Information 
+##  5.1. Member Information
+
+We use Member Information to deliver email newsletters on topics of interest to Members who have requested those services. We may also send promotional and marketing materials to our Members, including marketing research surveys, as well as promotions for B2B Content items. TabTimes, in some cases utilizing a third party provider, may deploy surveys and incentives. We use Member Information in aggregated form to understand our customer base and to market our services to our customers. **But we do not sell,  rent or give away Member information to third parties.**
+
+##  5.2. Event Registration Information 
 
 When you register to attend a vendor-sponsored in person event, your contact information is used to confirm registrations and send product information and promotional material from us and the event sponsors (information may also be used to compile broad demographic information). We may disclose your Event Registration Information to those vendors sponsoring the event. Such vendor’s use of your Event Registration Information is governed by that vendor’s privacy policy. 
 
-##  5.2. Member Information
+##  5.3. Information collected when requesting a B2B content-sponsored item
 
-The B2B Content Sponsors make the Sponsored B2B Content available through TabTimes in return for receiving the Member Information of Users who request their Sponsored Content, as well as, in certain cases, Clickstream Data from Users. Accordingly, if you request Sponsored B2B Content, we may disclose your Member Information to the B2B Content Sponsor, as set forth in more detail below. 
+The B2B Content Sponsors make the Sponsored B2B Content available through TabTimes in return for receiving the Member Information of Users who request their Sponsored Content, as well as, in certain cases, Clickstream Data from Users. Accordingly, if you request Sponsored B2B Content, we may disclose your Personal Informationand/or Other information to the B2B Content Sponsor, as set forth in more detail below. 
 
-We use Member Information to deliver email newsletters on topics of interest to Members who have requested those services. We may also send promotional and marketing materials to our Members, including marketing research surveys, as well as promotions for B2B Content items. TabTimes, in some cases utilizing a third party provider, may deploy surveys and incentives. We use Member Information in aggregated form to understand our customer base and to market our services to our customers.
-
-##  5.3. Cookies and Clickstream Data
+##  5.4. Cookies and Clickstream Data
 
 We may use also use Cookies to link Members and their activity to their Member Information. 
 
@@ -111,7 +115,7 @@ We use Tracking Technologies for a variety of purposes, including, but not limit
 
 
 
-##  5.4. Other disclosure of information
+##  5.5. Other disclosure of information
 
 We reserve the right to disclose information about you to third parties in certain circumstances: to suppliers that work on our behalf, to law enforcement or other entities that present valid legal process, to protect human safety or our networks or property, or as part of a sale or our merger of business assets.
 
