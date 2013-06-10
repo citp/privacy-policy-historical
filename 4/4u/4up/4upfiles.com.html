@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the 4upfiles.com privacy policy that was archived on 2012-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121213021632id_/http%3A//4upfiles.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4upfiles.com privacy policy that was archived on 2013-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130611005435id_/http%3A//4upfiles.com/privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 <title>4upfiles | Cloud Storage Service</title>
 <link rel="stylesheet" type="text/css" href="http://4upfiles.com/main.css">
+<link rel="stylesheet" type="text/css" href="../3ghdes/css/style.css">
+
 <link type="image/x-icon" rel="shortcut icon" href="http://4up.im/images/4up.ico">
 <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://4upfiles.com/jquery-1.4.2.min.js"></script>
 <script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://4upfiles.com/xupload.js?"></script>
@@ -11,13 +13,122 @@
 <meta http-equiv="Content-Type" content="text-html; charset=UTF-8">
 <meta property="fb:admins" content="662765816">
 <meta name="webmoney.attestation.label" content="webmoney attestation label#0760BA5C-6858-4C75-851C-8EC1BDB1805B"> 
-<meta name="description" content="4Up - Free file upload service">
+<meta name="description" content="4upfiles.com - Free file upload service">
 <meta name="keywords" content="file upload,share files,free upload">
+<meta name="google-site-verification" content="NYt6iiRICuz-PviMZVlwoJQwcLVL1Bh5qh412GmAI04">
 
 <meta content="1" name="xfsme">
+		<script type="text/javascript" charset="utf-8">
+/*global optionValues*/
+(function () {
+	var params, url;
+
+	optionValues = {
+		min: false,
+		jquery: "1.4.2",
+		theme: "default"
+	};
+	params = window.location.search;
+
+	function css(src) {
+		document.write('<link rel="stylesheet" href="' + src + '" type="text/css" />');
+	}
+
+	function script(src) {
+		document.write('<script src="' + src + '" type="text/javascript" charset="utf-8"></sc' + 'ript>');
+	}
+
+	if (params) {
+		params = params.substr(1).split('&');
+
+		for (i = 0; i < params.length; i ++) {
+			var equals = params[i].split('=');
+			
+			if (Object.prototype.hasOwnProperty.call(optionValues, equals[0])) {
+				optionValues[equals[0]] = equals[1];
+			}
+		}
+	}
+
+
+	css('../3ghdes/themes/' + optionValues.theme + '/css/uniform.' + optionValues.theme + '.css');
+
+	url = '://ajax.googleapis.com/ajax/libs/jquery/'
+
+	if (window.location.protocol == 'https:') {
+		url = 'https' + url;
+	} else {
+		url = 'http' + url;
+	}
+
+	url += optionValues.jquery;
+
+	if (optionValues.min) {
+		url += '/jquery.min.js';
+	} else {
+		url += '/jquery.js';
+	}
+
+	script(url);
+
+	if (optionValues.min) {
+		script('../3ghdes/js/jquery.uniform.min.js');
+	} else {
+		script('../3ghdes/js/jquery.uniform.js');
+	}
+}());
+		</script><link rel="stylesheet" href="../3ghdes/themes/default/css/uniform.default.css" type="text/css"><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js" type="text/javascript" charset="utf-8"></script><script src="../3ghdes/js/jquery.uniform.js" type="text/javascript" charset="utf-8"></script>
+		<script type="text/javascript">
+// Can't merge with previous script block since this relies on jQuery and that
+// was not loaded until the previous script block ends
+$(function () {
+	var $min, $remove, $apply, $uniformed;
+
+	// Debugging code to check for multiple click events
+	$selects = $("select").click(function () {
+		if (typeof console !== 'undefined' && typeof console.log !== 'undefined') {
+			console.log($(this).attr('id') + " clicked");
+		}
+	});
+
+	$uniformed = $(".styleThese").find("input, textarea, select, a.uniformTest").not(".skipThese");
+	$uniformed.uniform();
+
+	$("#optionsForm input, #optionsForm select").change(function () {
+		this.form.submit();
+	});
+
+	if (optionValues.min) {
+		$min = $("#optionsMin");
+
+		if ($min.prop) {
+			$min.prop("checked", true);
+		} else {
+			$min.attr("checked", "checked");
+		}
+	}
+
+	$("#optionsJquery").val(optionValues.jquery);
+	$("#optionsTheme").val(optionValues.theme);
+	$("#jqueryCurrentVersion").text("Using " + jQuery.fn.jquery);
+	$remove = $("#remove");
+	$apply = $("#apply");
+	$remove.click(function () {
+		$uniformed.uniform.restore();
+		$remove.hide();
+		$apply.show();
+		return false;
+	});
+	$apply.click(function () {
+		$uniformed.uniform();
+		$apply.hide();
+		$remove.show();
+		return false;
+	});
+});
+		</script>
 </head>
 <body>
-
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -27,20 +138,34 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<div style="position:relative;width:640px;margin: 0 auto 10px auto;">
-<a href="http://4upfiles.com"><img src="http://4upfiles.com/images/logo.png" border="0" alt="4Up" title="4Up"></a>
-<div class="fb-like" data-href="http://www.facebook.com/4Up.Me" data-send="false" data-layout="box_count" data-width="50" data-show-faces="false"></div><!-- Place this tag where you want the +1 button to render. -->
-<div class="g-plusone"></div>
+<div align="center">
+	<table border="0" cellpadding="0" cellspacing="0" width="100%" dir="ltr">
+		<tbody><tr>
+			<td class="topbar">
+			<div align="center">
+	<table border="0" cellpadding="0" cellspacing="0" width="976" dir="ltr">
+		<tbody><tr>
+			<td align="left" class="ulag"> <ul>
+				<li><a href="http://4upfiles.com">&nbsp;Upload&nbsp;</a></li>
+				<li style="margin-left:5px;"><a href="http://4upfiles.com/premium.html">
+				Premium</a></li>
+						</ul></td>
+			<td align="right">
+			
+ 
 
-<!-- Place this tag after the last +1 button tag. -->
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-<div id="lang">
+
+<div class="ulag">	<ul>
+<li><a href="http://4upfiles.com/login.html">Login</a></li>
+<li style="margin-right:1px;  margin-left:2px;"><a href="http://4upfiles.com/?op=registration">Sign Up</a></li>
+<li style="margin-right:-3px; margin-left:3px;"><a href="http://4upfiles.com/?op=forgot_pass">Forgot your password?</a></li>
+</ul></div>
+<br>
+
+
+ 
+			</td>
+			<td align="left" width="90"><div id="lang">
 <ul>
 <li class="top"><a href="http://4upfiles.com/?op=change_lang&amp;lang=english"><span class="trf trf-english"></span>English</a></li>
 
@@ -72,38 +197,72 @@
 
 <!--img src="http://4upfiles.com/images/flag-.gif" alt=" language"-->
 </ul>
-</div>
-
-</div>
-
-
-
-<!--Ads here-->
+</div></td>
+		</tr>
+	</tbody></table>
+	</div>
+			
 
 
+</td>
+		</tr>
+			<tr>
+			<td class="topbar1">
+			<div align="center">
+				<table border="0" cellpadding="0" cellspacing="0" width="827" dir="ltr" class="contentag">
+					<tbody><tr>
+						<td>
+<div class="fb-like" data-href="http://www.facebook.com/4upfiles" data-send="false" data-layout="box_count" data-width="50" data-show-faces="false"></div><!-- Place this tag where you want the +1 button to render. -->
+<div class="g-plusone"></div>
 
-<div id="news_last">
+<!-- Place this tag after the last +1 button tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script></td>
+						<td align="left">
+						<a href="http://4upfiles.com" title="4upfiles.com" class="logoag"></a>
+								
+						</td>
+						<td width="215" valign="top"><div class="upcharc"></div></td>
+					</tr>
+					<tr>
+						<td class="header2"></td>
+						<td class="header3">
+						</td>
+						<td width="215">	</td>
+					</tr><tr><td colspan="3"></td></tr>
+					</tbody></table>
+			</div>
+			</td>
+		</tr>
+		<tr>
+		<td>
+		<div align="center">
+	<table border="0" cellpadding="0" cellspacing="0" width="100%" dir="ltr">
+		<tbody><tr>
+			<td align="center">
+<div align="center">
+	<table border="0" cellpadding="0" cellspacing="0" width="1000" dir="ltr">
+		<tbody><tr>
+			<td valign="top">	 <div style="position:relative; z-index:10;">
+<b><div id="news_last">
 Last news: 
 
-<a href="http://4upfiles.com/n11-make-money-with-4up-now.html">Make Money with 4up Now</a> &nbsp; 
+<a href="http://4upfiles.com/n13-4upfiles-ppd-program-make-money-now-.html">4upfiles PPD program Make Money Now </a> &nbsp; 
 
-</div>
-
-
-
-
-
-<a href="http://4upfiles.com/login.html"><b>Login</b></a>&nbsp; &nbsp;
-<a href="http://4upfiles.com/?op=registration"><b>Sign Up</b></a>&nbsp; &nbsp;
-<a href="http://4upfiles.com/?op=forgot_pass">Forgot your password?</a>
-<br>
-
+</div></b>
+<br> 
+ 
 
 
 <br>
 
-<div style="text-align:left;width:720px;">
-<h1>4up.me Website Privacy Policy</h1><br>
+<div style="text-align:left;width:620px; margin-left:50px;">
+<h3>4up.me Website Privacy Policy</h3><br>
                 <p>Thank you for visiting the 4up.me website located at www.4up.me (the "Site").  The Site is an Internet property of 4up.me Ltd. and its affiliated companies ("4up.me," "we" or "us").  This 4up.me Website Privacy Policy ("Privacy Policy") covers our treatment of Personal Information (as defined hereinbelow) and other information that we collect when you: (a) access or use the Site; (b) become a Member (as defined in the 4up.me Website Terms and Conditions ("Terms and Conditions")); and/or (c) use the Services (as defined in the Terms and Conditions).  It is important that visitors are fully informed about the use of their Personal Information.  We believe in 100% permission-based marketing.</p>
 
                 <p><b>If you are a resident of the State of California and would like to opt-out from the disclosure of your Personal Information to any third party for marketing purposes, please e-mail us at: Info@4up.me.  Please be advised that where California State residents opt-out from permitting their Personal Information to be shared, such individuals may still receive selected offers directly from us, in accordance with applicable law.</b></p>
@@ -152,26 +311,73 @@ Last news:
                 <p>By using this Site and/or Services, you agree to the terms of our Privacy Policy.  We reserve the right, at our discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time.  All Privacy Policy changes will take effect immediately upon their posting on the Site.  Please check this page periodically for changes.  Your continued use of the Site, Services and/or acceptance of our e-mail following the posting of changes to these terms will mean that you accept these changes and agree to continue receiving e-mail from us. If you do not agree to the terms of this Privacy Policy, please unsubscribe by Clicking Here.</p>
                 <h4>Contacting Us about Privacy Questions or Concerns</h4>
                 <p>If you have any questions about this Privacy Policy, the practices of the Site or your dealings with the Site, please e-mail us at Info@4up.me</p>
-            </div>
+            </div></div></td>
+		</tr>
+	</tbody></table>
+</div><br></td>
+		</tr>
+		<tr>
+			<td class="footerag">
+			
+			
+<div align="center">
+	<table border="0" cellpadding="10" width="900" dir="ltr">
+		<tbody><tr>
+			<td align="left" class="maintd" width="25%">Main</td>
+			<td align="left" class="maintd" width="25%">Policy</td>
+			<td align="left" class="maintd" width="25%">Links</td>
+			<td align="left" class="maintd" width="25%">Desktop Uploader</td>
+		</tr>
+		<tr>
+			<td align="left" class="foottd" valign="top">
+			<ul>
+				<li><a href="http://4upfiles.com">Home</a></li>
+				<li><a href="http://4upfiles.com/premium.html">Premium</a> 
+</li>
+				<li><a href="http://4upfiles.com/?op=news">News</a></li>
+				<li><a href="http://4upfiles.com/contact.html">Contact Us</a></li>
 
-<div style="margin:15px 0 10px 0;">
-<a href="http://4upfiles.com">Home</a> | 
-<a href="http://4upfiles.com/?op=news">News</a> | 
+		</ul>
+			</td>
+			<td align="left" class="foottd" valign="top"><ul>
+				<li><a href="http://4upfiles.com/faq.html">FAQ</a></li>
+				<li><a href="http://4upfiles.com/tos.html">Terms of service</a></li>
+				<li><a href="/dmca.html">DMCA Policy</a></li>
+				<li><a href="/privacy_policy.html">Privacy Policy</a></li>
 
-<a href="http://4upfiles.com/faq.html">FAQ</a> | 
-<a href="http://4upfiles.com/tos.html">Terms of service</a> | 
-<a href="/dmca.html">DMCA Policy</a> |
-<a href="/privacy_policy.html">Privacy Policy</a> |
-<a href="http://4upfiles.com/premium.html">Premium</a> | 
-<a href="http://4upfiles.com/?op=checkfiles">Link Checker</a> | 
-<a href="http://4upfiles.com/links.html">Links</a> | 
-<a href="http://4upfiles.com/contact.html">Contact Us</a><br><a href="/UploaderInstall.exe">Desktop Uploader for Windows</a> | <a href="/UploaderInstall.pkg">Desktop Uploader for Mac</a>
+		</ul></td>
+			<td align="left" class="foottd" valign="top"><ul>
+				 <li><a href="http://4upfiles.com/?op=catalogue">Catalogue</a></li>
+				<li><a href="http://4upfiles.com/make_money.html"><b>Earn Money</b></a></li>				
+                                                                <li><a href="http://4upfiles.com/?op=checkfiles">Link Checker</a></li>
+				<li><a href="http://4upfiles.com/banners.html">Banners</a></li>
+		</ul></td>
+			
+			<td align="left" class="foottd" valign="top"><ul>
+				<li><a href="/UploaderInstall.exe">Desktop Uploader for Windows</a></li>
+				<li><a href="/UploaderInstall.pkg">Desktop Uploader for Mac</a></li>
+						</ul></td>
+		</tr>
+	</tbody></table>
 </div>
-<div><b>We accept:</b> <img src="/images/buy_okpay.png" border="0" alt="4Up" title="Okpay"></div>
-<div style="color:#444;font-size:12px;">
-©2011 -  2012 4Up, All Rights Reserved
-<br><div>Supported By <a href="http://www.amigoserv.com">AmigoServ</a></div>
+ 
+ 
+</td>
+		</tr>
+		<tr>
+			<td class="crtd" align="center">© 2011 - 2013 4upfiles.com, 
+			All Rights Reserved - Supported By <a href="http://www.amigoserv.com">
+			AmigoServ</a> - Designed by <a href="http://www.3ghdes.com" title="Designed by 3ghdes - Abdo Ghaly design - 3ghdesign - 3ghdes.com - php developping - web design - free templates">
+			3GHDES</a></td>
+		</tr>
+	</tbody></table>
+	</div>
+		</td>
+		</tr>
+	</tbody></table>
 </div>
+
+
 
 
 
