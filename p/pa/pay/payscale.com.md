@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619183618id_/http%3A//www.payscale.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611003328id_/https%3A//www.payscale.com/privacy.asp) for the most accurate reproduction.*
 
 # PayScale - Salary Survey, Salaries, Wages, Compensation Information and Analysis
 
@@ -11,7 +11,7 @@ If you have any questions about this policy, please email us at: [privacy@paysca
 Our primary purpose for collecting Personally Identifiable Information is to provide you with the services and features that best fill your compensation information needs. 
 
   * Personally Identifiable Information means any information that may be used to identify an individual, including, but not limited to, your name, home address, telephone number, e-mail address, and credit card information such as the credit card number, card verification value, and billing address. The types and amount of Personally Identifiable Information collected for these activities will vary depending on the activity.
-  * Non-personally Identifiable Information means information which cannot be used to identify an individual. This information is gathered through aggregated tracking information derived mainly by tallying page views throughout our sites. This Non-personally Identifiable Information collected includes click-throughs, IP addresses, and usage data. This Non-personally Identifiable Information allows us to better tailor our content to site users' needs. 
+  * Non-personally Identifiable Information means information which cannot be used to identify an individual. This information is gathered through aggregated tracking information derived mainly by tallying page views throughout our sites. This Non-personally Identifiable Information collected includes click-throughs, IP addresses, and usage data. This Non-personally Identifiable Information allows us to better tailor our content to site users' needs and prevent abusive or fraudulent usage. 
   * PayScale collects Personally Identifiable Information when you register for a PayScale account, when you use certain PayScale products or services, and when you visit PayScale pages. PayScale may also receive Personally Identifiable Information from employers and our business partners. 
   * When you register with PayScale, the system asks for your email address and password. Subsequently, the system asks for detailed job and compensation information through a job profile survey that is used to generate your personal compensation report. Once you register with PayScale and sign in to our services, you are not anonymous to us. 
   * PayScale automatically receives and records information on our server logs from your browser including your IP address, PayScale cookie information and the page you requested. 
@@ -84,7 +84,7 @@ This web site is hosted in the United States. If you are visiting from the Europ
 
   * In order to enable the attribute-matching features of the PayScale system, users running a PayScale Report(tm) receive limited access to questionnaire data in the form of generic peer profiles. While these profiles include data on job, compensation, geographic location, skills, experience, education and demographic information, the intent of the PayScale service is that this information is not traceable to any particular user. Use of the system signifies an understanding of the source of the data and an agreement on the part of the user to both access and share anonymous user data.
   * In order to enable the attribute-matching features of the PayScale Business Services, users running searches on PayScale Professional and other Business Services Platforms are asked to enter employee and job-specific profile information. While these profiles include data on employee skills, tasks, experiences, organization size, geographic location, minimum requirements for jobs, compensation, skills, experience, education and demographic information, the intent of the PayScale service is that this information is not traceable to any particular employer or employee. Use of the system signifies an understanding of the source of the data and an agreement on the part of the user to both access and share anonymous user data.
-  * 
+
 
 
 **Your Ability to Edit and Delete Your Account Information and Preferences**
@@ -122,9 +122,9 @@ PayScale, Inc. complies with the EU Safe Harbor Framework as set forth by the De
 
 Postal Mail Address:
 
-**Attention: Geary Eppley, Privacy Officer  
+**Attention: Privacy Officer  
 PayScale, Inc.  
 542 1st Avenue S, Suite 400  
 Seattle, Washington 98104 **
 
-**Last Updated: December, 2010**
+**Last Updated: May, 2013**
