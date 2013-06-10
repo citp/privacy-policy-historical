@@ -1,10 +1,14 @@
-<!--The following is the downloaded HTML source of the musthavemenus.com privacy policy that was archived on 2012-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121029002507id_/http%3A//www.musthavemenus.com/menu/privacyPolicy/view.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musthavemenus.com privacy policy that was archived on 2013-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130611014017id_/http%3A//www.musthavemenus.com/menu/privacyPolicy/view.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+<!-- start - automaticaly moved code -->
+<title>MustHaveMenus Privacy Policy</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- end - automaticaly moved code -->
 	    
         <link href="/favicon.ico" rel="Shortcut Icon">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
         <!-- HTML5 shim, for IE6-8 support of HTML elements -->
         <!--[if lt IE 9]>
         <script src="/js/html5shim/html5.js"></script>
@@ -51,6 +55,31 @@
             // CxTBD Find where global constant is being used and use LANDA constant
             siteUrlContext = LANDA.Constant.siteUrlContext;
             //]]>
+
+            jQuery(document).ready(function(){
+                var memberKey = 'null';
+            	if(memberKey != 'null' && memberKey != ''){
+	                var cartContentsUrl = 'http://www.musthavemenus.com/print/catalog/get_cart_contents.php?member_login_key=null';
+	                try{
+	                	cartContentsUrl =  location.protocol + '//' + cartContentsUrl.replace(/.*?:\/\//g, "");
+	                }catch(err){};
+					jQuery.get(cartContentsUrl, function(data) {
+	                    var cartInfo = JSON.parse(data);
+	                    if (cartInfo.is_empty != "true") {
+	                        //$('#shoppingCartLink a').text("Shopping cart (" + cartInfo.total + ")");
+							jQuery('#shoppingCartLink').addClass('active');
+							jQuery('#shoppingCartLink a')
+	                            .text("" + cartInfo.items + "")
+	                            .prepend('<i class="icon-shopping-cart"></i>');
+							jQuery('#shoppingCartLink').show();
+	                    }
+	                });
+            	}
+
+				// disables autocomplete for elements with class .dont-autocomplete
+				jQuery('.dont-autocomplete').attr('autocomplete','off');
+            });
+
         </script>
         
         <!-- adsense integration with analytics -->
@@ -76,40 +105,37 @@ window.google_analytics_uacct = "UA-28728676-1";
   })();
 
 </script>
+
     </head>
     <body>
       
-<div id="wrapper">
+<div id="wrapper" data-original-title="">
     
 <!-- topnav -->
 <header class="topnav">
-    <div class="container-fluid toplinks">
+    <div class="container-fluid toplinks" data-original-title="">
 
-                <div class="container">
-                    <div class="row">
-                        <div class="span12">
-                            <div class="pull-left">
-                                <!--
-<a href="/menu/contact.do">(800) 452-2234</a>
--->
-
-<div style="
+                <div class="container" data-original-title="">
+                    <div class="row" data-original-title="">
+                        <div class="span12" data-original-title="">
+                            <div class="pull-left" data-original-title="">
+                                <div style="
 padding: 8px 0 0 0;
 color:#ccc;
-">
-Need help? Call us at (800) 452-2234
+" data-original-title="">
+Need help? Call us at (800) 452-2234 <!-- / <span style="color:#fff;">Our call lines will be closed Monday in observance of the Memorial Day holiday</span> -->
 </div>
                             </div>
                             
                             <ul class="nav nav-pills pull-right">
                                 <li>
-                                    <a href="/menu/contact.do">contact</a>
+                                    <a href="/menu/contact.do" data-original-title="">contact</a>
                                 </li>
                                 <li>
-                                    <a href="http://www.musthavemenus.com/feature/help-center.html">help</a>
+                                    <a href="http://www.musthavemenus.com/feature/help-center.html" data-original-title="">help</a>
                                 </li>
                                 <li>
-                                    <a href="http://www.musthavemenus.com/menu/login.do" class="visitorOptionLogin" rel="nofollow">login</a>
+                                    <a href="http://www.musthavemenus.com/menu/login.do" class="visitorOptionLogin" rel="nofollow" data-original-title="">login</a>
                                 </li>
                             </ul>
                             
@@ -119,60 +145,66 @@ Need help? Call us at (800) 452-2234
 
         </div>
     </div><!--/container-fluid -->
-    <div class="container spacer">
-        <div class="row">
-            <div class="span2">
+    <div class="container spacer" data-original-title="">
+        <div class="row" data-original-title="">
+            <div class="span2" data-original-title="">
                 <h1 class="mhmlogo">
-                        <a class="logo" href="http://www.musthavemenus.com" alt="MustHaveMenus.com">MustHaveMenus.com</a>
+                        <a class="logo" href="http://www.musthavemenus.com" alt="MustHaveMenus.com" data-original-title="">MustHaveMenus.com</a>
                 </h1>
             </div>
-            <div class="span10 topnavMain">
+            <div class="span10 topnavMain" data-original-title="">
             	<form method="post" action="/menu/validateSearch.do" class="input-append pull-right">
 	                <input class="span2" type="text" name="query" autocomplete="off" value="" placeholder="Find a menu...">
-	                <button class="btn" type="submit"><i class="icon-search"></i></button>
+	                <button class="btn" type="submit" data-original-title=""><i class="icon-search"></i></button>
             	</form>
                 
                 
-                  <div class="pull-right">
-                      <ul class="nav nav-pills">
-                        <li class="dropdown active"><a href="https://www.musthavemenus.com/menu/affiliate.do?id=67&amp;coupon=">Sign Up</a></li>
-                      </ul>
-                  </div>
+                    <div class="pull-right" data-original-title="">
+<ul class="nav nav-pills">
+<li class="dropdown active"><a href="https://www.musthavemenus.com/menu/affiliate.do?id=67" data-original-title="">Sign Up</a></li>
+</ul>
+</div>
                 
                <!-- nav -->
-                <!-- BEGIN MENU WRAPPER TEXTBOX -->
-<ul class="nav nav-pills pull-right">
-
+                <ul class="nav nav-pills pull-right">
     <li class="dropdown">
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Menus</a>
+        <a href="/menu/browse.do" class="dropdown-toggle" data-toggle="dropdown" data-original-title="">Menus</a>
         <ul class="dropdown-menu">
+<li><a href="/menu/browse.do" data-original-title="">Browse All</a></li>
+<li><a href="/feature/menu-design-sets.html" data-original-title="">Menu Design Sets</a></li>
+<li><a href="/category/restaurant-menu.html" data-original-title="">Restaurant Menus</a></li>
+<li><a href="/category/holiday-menus.html" data-original-title="">Holiday Menus</a></li>
+<li><a href="/category/restaurant-flyer.html" data-original-title="">Restaurant Event Flyers</a></li>
+<li><a href="/feature/staff-picks.html" data-original-title="">Staff Picks</a></li>
+<li class="divider"></li>
+<li><a href="http://www.musthavemenus.com/menu/contact.do" data-original-title="">Personal Menu Help</a></li>
+<!--
 <li><a href="/category/restaurant-menu.html">Restaurant Menus</a></li>
-<li><a href="/feature/menu-design-sets.html">Menu Design Sets</a></li>
 <li><a href="/category/cafe-menus.html">Cafe Menus</a></li>
 <li><a href="/category/simple-menus.html">Simple Menus</a></li>
-<li><a href="/category/bar-menus.html">Beverage Menus</a></li>
+<li><a href="/category/bar-menus.html">Bar & Drinks Menus</a></li>
 <li><a href="/category/daily-special-menus.html">Daily Special Menus</a></li>
 <li><a href="/category/kids%27-menus.html">Kid's Menus</a></li>
 <li><a href="/category/catering-menus.html">Catering Menus</a></li>
 <li><a href="/menu/browse.do">- Browse All Menus -</a></li>
+-->
         </ul>
     </li>
-
-
+<li class="dropdown"><a href="/feature/Print-Services.html" data-original-title="">Printing</a></li>
+<li class="dropdown"><a href="http://www.musthavemenus.com/feature/online-restaurant-menus.html" data-original-title="">Online</a></li>
+<!--
 <li class="dropdown">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Flyers</a>
         <ul class="dropdown-menu">
 <li><a href="/category/restaurant-flyer.html">Restaurant Event Flyers</a></li>
 <li><a href="/category/sports-flyer.html">Sports Flyers</a></li>
-<li><a href="/category/oktoberfest-flyers.html">Oktoberfest Flyers</a></li>
-<li><a href="/category/halloween-flyers.html">Halloween Flyers</a></li>
-<li><a href="/category/thanksgiving-flyer.html">Thanksgiving Flyers</a></li>
-<li><a href="/category/christmas-flyer.html">Christmas Flyers</a></li>
-<li><a href="/category/restaurant-hours-flyer.html">Hours of Operation Flyers</a></li>
+<li><a href="/category/summer-flyers.html">Summer Event Flyers</a></li>
+<li><a href="/category/fathers-day-flyers.html">Fathers Day Flyers</a></li>
+<li><a href="/category/memorial-day-menus.html">Memorial Day Flyers</a></li>
 <li><a href="/menu/browse.do#flyers">- Browse All Flyers -</a></li>
         </ul>
 </li>
-<!--
+
     <li class="dropdown">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Beverages</a>
         <ul class="dropdown-menu">
@@ -187,37 +219,44 @@ Need help? Call us at (800) 452-2234
 <li><a href="/category/coffee-house-menus.html">Coffee House Menus</a></li>
        </ul>
     </li>
--->
-
     <li class="dropdown">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Holidays</a>
         <ul class="dropdown-menu">
-<li><a href="/category/halloween-menu.html">Halloween Menus</a></li>
-<li><a href="/category/thanksgiving-menus.html">Thanksgiving Menus</a></li>
-<li><a href="/category/christmas-menus.html">Christmas Menus</a></li>
+<li><a href="/category/memorial-day-menus.html">Memorial Day</a></li>
+<li><a href="/category/father's-day-menus.html">Father's Day</a></li>
+<li><a href="/category/4th-of-july-menus.html">4th of July</a></li>
 <li><a href="/menu/browse.do#holidays">- Browse All Holidays -</a></li>
         </ul>
     </li>
 
-<li class="dropdown"><a href="/feature/menu-design-sets.html">Sets</a></li>
+<li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Sets</a>
+        <ul class="dropdown-menu">
+<li><a href="/feature/menu-design-sets.html">Menu Design Sets</a></li>
+<li><a href="/feature/staff-picks.html">Staff Picks</a></li>
+        </ul>
+    </li>
+
+<li><a href="/feature/Print-Services.html">Printing</a></li>
+
     <li class="dropdown">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown">More</a>
         <ul class="dropdown-menu">
+<li><a href="/category/table-tent.html">Table Tents</a></li>
 <li><a href="/category/restaurant-coupons.html">Coupons</a></li>
+<li><a href="/category/online-coupons.html">Online Coupons</a></li>
 <li><a href="/category/restaurant-gift-certificate.html">Gift Certificates</a></li>
 <li><a href="/category/restaurant-business-cards.html">Business Cards</a></li>
-<li><a href="/category/customer-loyalty-cards.html">Punch Cards</a></li>
 <li><a href="/category/restaurant-comment-cards.html">Comment Cards</a></li>
 <li><a href="/menu/browse.do#flyers">- Browse All Promos -</a></li>
         </ul>
     </li>
-
+-->
 </ul>
-<!-- END MENU WRAPPER TEXTBOX -->
             </div>
         </div>
-        <div class="row">
-            <div class="span12 spacer">
+        <div class="row" data-original-title="">
+            <div class="span12 spacer" data-original-title="">
             </div>
         </div>
     </div>
@@ -225,25 +264,25 @@ Need help? Call us at (800) 452-2234
 
 
 <!-- begin privacyPolicy.jsp -->
-<title>MustHaveMenus Privacy Policy</title>
 
-<div class="container">
-  <div class="row">
-    <div class="span8">
+
+<div class="container" data-original-title="">
+  <div class="row" data-original-title="">
+    <div class="span8" data-original-title="">
           
 <h1>Privacy Policy</h1>
 <br>
 
-MustHaveMenus.com values your privacy. You may contact us any time to learn more about this privacy policy by sending email to <a href="mailto:Contact@MustHaveMenus.com">Contact@MustHaveMenus.com</a>. This Privacy Statement describes how MustHaveMenus.com collects and uses information about you when you use the MustHaveMenus.com web site ("Site").
+MustHaveMenus.com values your privacy. You may contact us any time to learn more about this privacy policy by sending email to <a href="mailto:Contact@MustHaveMenus.com" data-original-title="">Contact@MustHaveMenus.com</a>. This Privacy Statement describes how MustHaveMenus.com collects and uses information about you when you use the MustHaveMenus.com web site ("Site").
 <br><br>
 <b>Collection and Use of Personal Information by MustHaveMenus.com
-</b><br><br>With your consent, we collect information that personally identifies you or allows us to contact you when you register to use the Site. Such information may include your name, e-mail address, user identification password and other information (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site.  MustHaveMenus.com uses your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves. You may correct or update your Personal Information by sending e-mail to <a href="mailto:Contact@MustHaveMenus.com">Contact@MustHaveMenus.com</a>.
+</b><br><br>With your consent, we collect information that personally identifies you or allows us to contact you when you register to use the Site. Such information may include your name, e-mail address, user identification password and other information (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site.  MustHaveMenus.com uses your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves. You may correct or update your Personal Information by sending e-mail to <a href="mailto:Contact@MustHaveMenus.com" data-original-title="">Contact@MustHaveMenus.com</a>.
 
 <b><br><br>Cookies
 </b><br><br> You must have Cookies turned ON to be a member at MustHaveMenus.com. Cookies are very small text files placed on your hard drive by a computer server. It serves as your identification card and is uniquely yours. A cookie can only be read by the server that gave it to you. Cookies tell us that you returned to a specific Web page on our Site, and help us track your preferences. Cookies enables you to login, and helps us personalize your experience at the Site by permitting our computer server to "remember" who you are. Some of the advertisers on the Site use cookies to collect similar information, but we do not control the use of cookies by other web site operators or advertisers.
 
 <b><br><br>Personal Information Used for Promotional Purposes
-</b><br><br>We may send you information from time to time about MustHaveMenus.com promotional offerings. However, we will not share your Personal Information with any third party without your prior consent. Your consent to receipt of promotional offerings may be indicated in the appropriate check boxes within the Site signifying your preferences. You may be entitled to stop the delivery of promotional information from MustHaveMenus.com by using the UNSUBSCRIBE link provided in all marketing emails, or by sending e-mail to <a href="mailto:Contact@MustHaveMenus.com">Contact@MustHaveMenus.com</a> and, for third party promotional offerings, by contacting the source of that promotional offering.
+</b><br><br>We may send you information from time to time about MustHaveMenus.com promotional offerings. However, we will not share your Personal Information with any third party without your prior consent. Your consent to receipt of promotional offerings may be indicated in the appropriate check boxes within the Site signifying your preferences. You may be entitled to stop the delivery of promotional information from MustHaveMenus.com by using the UNSUBSCRIBE link provided in all marketing emails, or by sending e-mail to <a href="mailto:Contact@MustHaveMenus.com" data-original-title="">Contact@MustHaveMenus.com</a> and, for third party promotional offerings, by contacting the source of that promotional offering.
 
 <b><br><br>Children's Privacy</b>
 <br><br>Children under the age of 13 are not allowed to purchase products on the Site. MustHaveMenus.com does not knowingly collect Personal Information about child under the age of 13 or allow them to place orders on the Site. If MustHaveMenus.com learns that a child under the age of 13 is placing orders on the Site, MustHaveMenus.com will close the child's account and delete all information collected about the child.  Notwithstanding the foregoing, MustHaveMenus.com may choose to retain the child's e-mail address as a means to prevent the child from re-registering with MustHaveMenus.com.
@@ -258,25 +297,30 @@ MustHaveMenus.com values your privacy. You may contact us any time to learn more
 </b><br><br>MustHaveMenus.com may make changes to this Privacy Statement from time to time. We will post changes to our privacy statement here, so be sure to check back periodically. We may also notify you of significant changes by e-mail or in other ways.
 
 <b><br><br>Questions, Comments, Concerns
-</b><br><br>If you have any questions or comments about our use of Personal Information, please contact us at <a href="mailto:Contact@MustHaveMenus.com">Contact@MustHaveMenus.com</a>. We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information.
+</b><br><br>If you have any questions or comments about our use of Personal Information, please contact us at <a href="mailto:Contact@MustHaveMenus.com" data-original-title="">Contact@MustHaveMenus.com</a>. We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information.
 <br><br>
 
-<div class="row">
-<div class="span12 spacer">
+<div class="row" data-original-title="">
+<div class="span12 spacer" data-original-title="">
 </div>
 </div>
 
 
 
 
+				<a href="https://www.musthavemenus.com/menu/affiliate.do?id=60" class="btn btn-primary btn-large" data-original-title="">Sign up</a>
 
-				<a href="https://www.musthavemenus.com/menu/affiliate.do?id=60" class="btn btn-primary btn-large">Sign up</a>
+<div class="row" data-original-title="">
+<div class="span12 spacer" data-original-title="">
+</div>
+</div>
+
 
 
 
  </div>
 
-    <div class="span3 offset1">
+    <div class="span3 offset1" data-original-title="">
 
 	
 
@@ -289,7 +333,7 @@ Ashland, Oregon 97520<br>
 
 <address>
 <strong>Suggestions or Questions?</strong><br> 
-<a href="/menu/contact.do">Contact Us Here</a>
+<a href="/menu/contact.do" data-original-title="">Contact Us Here</a>
 </address>
 
 <address>
@@ -312,57 +356,133 @@ Monday-Friday,<br>
 
 <!-- end privacyPolicy.jsp -->
 
-<!-- begin footer.jsp -->
-<div id="push"></div>
+<div id="push" data-original-title=""></div>
 </div><!-- end sticky footer -->
-        <div id="footer">
-            <div class="container">
-                <div class="row">
-                 <div class="span3">
+	<footer>
+		<div class="container-fluid newsletter" data-original-title="">
+		    <div class="container" data-original-title="">
+		      <div class="row" data-original-title="">
+		        <div class="span10 offset1 center" data-original-title="">
+		          <form name="ccoptin" action="http://visitor.r20.constantcontact.com/d.jsp" target="_blank" method="post" class="form-horizontal">
+		            <input type="hidden" name="llr" value="9m74cddab">
+		            <input type="hidden" name="m" value="1102836658586">
+		            <input type="hidden" name="p" value="oi">
+
+		              <h5>Sign up for the MustHaveMenus Email Newsletter</h5>
+		              <div class="input-append" data-original-title="">
+		                <input id="appendedInputButton" type="text" name="ea" class="input-large" placeholder="email">
+		                <button class="btn" name="go" type="submit" data-original-title="">sign up</button>
+		              </div>
+		          </form>
+		        </div>
+		      </div>
+		    </div>
+		  </div>
+
+		   <div id="footer" data-original-title="">
+              <div class="container" data-original-title="">
+                <div class="row" data-original-title="">
+                <div class="span2 offset2 foot-content" data-original-title="">
+                  <h3>About</h3>
                   <ul class="nav nav-pills">
                     <li>
-                      <a href="/menu/about/view.do">About MustHaveMenus</a>
-                      <a href="/menu/privacyPolicy/view.do">Privacy and Security</a>
-                      <a href="/menu/usagePolicy/view.do">Terms of Use</a>
-                      <a href="/menu/sitemap.do">Sitemap</a>
+                      <a href="/menu/about/view.do" data-original-title="">about us</a>
+                      <a href="/feature/musthavemenus-press.html" data-original-title="">press</a>
+                      <a href="/menu/privacyPolicy/view.do" data-original-title="">privacy</a>
+                      <a href="/menu/usagePolicy/view.do" data-original-title="">terms</a>
                     </li>
                   </ul>
                 </div>
-                <div class="span3">
+                <div class="span2 foot-content" data-original-title="">
+                  <h3>Help</h3>
                   <ul class="nav nav-pills">
                     <li>
-                      <a href="/menu/contact.do">Contact Us</a>
-                      <a href="/menu/member.do">My Account</a>
-                      <a href="/feature/help-center.html">FAQ / Help</a>
-                      <a href="/menu/guide.do">Restaurant Industry Articles</a>
+                      <a href="/feature/help-center.html" data-placement="right" data-original-title="FAQs, videos &amp; help">help center</a>
+                      <a href="/menu/contact.do" data-placement="right" data-original-title="800-452-2234">contact</a>
+                      <a href="/menu/guide.do" data-placement="right" data-original-title="Restaurant Marketing Information">guide</a>
                     </li>
                   </ul>
                 </div>
-</div>
+                
+                <div class="span2 foot-content" data-original-title="">
+                <h3>Account</h3>
+                <ul class="nav nav-pills">
+                  <li>
+                    
+                    <a href="/menu/member.do" data-original-title="">member login</a>
+                    
+                    
+                </li>
+                </ul>
+              </div>
+
+              <div class="span2 foot-content" data-original-title="">
+                  <h3>Connect</h3>
+                  <ul class="nav nav-pills">
+                    <li>
+                      <a href="http://www.facebook.com/musthavemenus" target="_blank" data-placement="right" data-original-title="Follow us on Facebook"><img src="/images/facebook.png" data-original-title=""></a>
+                      <a href="http://twitter.com/musthavemenus" target="_blank" data-placement="right" data-original-title="Follow us on Twitter"><img src="/images/twitter.png" data-original-title=""></a>
+                      <a href="http://www.musthavemenusblog.com" target="_blank" data-placement="right" data-original-title="Follow the freshest restaurant marketing news &amp; tips"><img src="/images/icon-blog.png" data-original-title=""></a>
+                    </li>
+                  </ul>
+              </div>
             </div>
+          </div>
         </div>
-        <div id="copyright">
-            <div class="container">
-                <div class="row">
-    <div class="span6">
+
+        <div id="copyright" data-original-title="">
+            <div class="container" data-original-title="">
+                <div class="row" data-original-title="">
+    <div class="span12 center" data-original-title="">
         <h3>© <script type="text/javascript">var d = new Date();document.write(d.getFullYear());</script>2020 MustHaveMenus, Letters &amp; Arts Inc., All Rights Reserved.</h3>
     </div>
-    <div class="span5 right">                
-        <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.musthavemenus.com&amp;send=false&amp;layout=standard&amp;width=255&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:255px; height:35px;" allowtransparency="true"></iframe>
-    </div>
 </div>
+
+<script>
+$('#survey').addClass('hide');
+</script>
+
+<!--start http://www.livehelpnow.net  -->
+<!--This DIV object will show the live chat button, have it placed in the location on your website where you would like the live chat button to show-->
+<div id="lhnContainer" style="position: fixed; top: 30%; right: -4px;" onmouseover="this.style.right='0px';" onmouseout="this.style.right='-4px';" data-original-title="">
+     <div id="lhnChatButton" data-original-title=""></div>
+<script type="text/javascript" src="https://www.livehelpnow.net/lhn/scripts/livehelpnow.aspx?lhnid=15182&amp;iv=1&amp;d=0&amp;ver=5.3&amp;rnd=0.40140551624609944"></script></div>
+
+<!--You may install the following code in an external JavaScript file if you like-->
+<script type="text/javascript">
+	var lhnAccountN = 15182;
+	var lhnButtonN = 3890; 
+	var lhnVersion = 5.3; 
+	var lhnJsHost = (("https:" == document.location.protocol) ? "https://" : "http://"); 
+	var lhnInviteEnabled = 1; 
+	var lhnInviteChime = 0; 
+	var lhnWindowN = 0; 
+	var lhnDepartmentN = 0; 
+	var lhnCustomInvitation = ''; 
+	var lhnCustom1 = ''; 
+	var lhnCustom2 = ''; 
+	var lhnCustom3 = ''; 
+	var lhnTrackingEnabled = 't'; 
+	var lhnScriptSrc = lhnJsHost + 'www.livehelpnow.net/lhn/scripts/livehelpnow.aspx?lhnid=' + lhnAccountN + '&iv=' + lhnInviteEnabled + '&d=' + lhnDepartmentN + '&ver=' + lhnVersion + '&rnd=' + Math.random();
+	var lhnScript = document.createElement("script"); lhnScript.type = "text/javascript";lhnScript.src = lhnScriptSrc;
+	if (window.addEventListener) {
+		window.addEventListener('load', function () { document.getElementById('lhnContainer').appendChild(lhnScript); }, false);
+	}
+	else if (window.attachEvent) {
+		window.attachEvent('onload', function () { document.getElementById('lhnContainer').appendChild(lhnScript); });
+	}
+</script>
+<!--end http://www.livehelpnow.net  -->
             </div>
         </div>
-        <!--begin google tracking code-->
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-462165-5";
-urchinTracker();
-</script>
-<!--end google tracking code-->
+    </footer>
+         
 
-
+		<script>  
+		$(function ()  { 
+		  $("a, button, img, div").tooltip();
+		});  
+		</script>  
     
 
-<!-- end footer.jsp --></body></html>
+</body></html>
