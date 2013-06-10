@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citywire.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230220944id_/http%3A//citywire.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citywire.co.uk privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610180013id_/http%3A//citywire.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Citywire
 
@@ -28,7 +28,7 @@ This user profile, which includes a summary of the factsheets you have downloade
 
 Registering and CONSENTING for Citywire to use the personal data you provide requires that you UNDERSTAND how we use personal data.
 
-Citywire WILL USE the personal data in your user profile to help ensure that any marketing we direct to you via post, telephone and SMS is both relevant and informative. 
+Citywire WILL USE the personal data in your user profile to help ensure that any marketing we direct to you via post, telephone, email and SMS is both relevant and informative. 
 
 ### Third party usage
 
@@ -52,7 +52,7 @@ We may use cookies and similar technologies to store information such as your Us
 
 Cookies also help us to build your ‘user profile’ by, for example, remembering pages you visit on our Sites and articles you may have read. If you allow us the record this information we can provide you with a ‘site experience’ and marketing tailored to _your_ financial interests. 
 
-Should you wish a generic experience you can remove and/or disable cookies using the controls provided by your browser. If you are unfamiliar with these controls, please visit [www.aboutcookies.org/](http://www.aboutcookies.org/) where you will find information to help manage important information storage choices. 
+Should you wish a generic experience you can remove and/or disable cookies using the controls provided by your browser. If you are unfamiliar with these controls, please visit [www.aboutcookies.org/](http://accounts.citywire.info/IFrameRedirector?returnUrl=http%3a%2f%2fwww.aboutcookies.org%2f&via=ClickOut) where you will find information to help manage important information storage choices. 
 
 You are free to choose whether to accept cookies or not, however we cannot guarantee full operability of our Sites should you disable cookies. This information storage occurs passively, without you interaction.
 
@@ -74,7 +74,7 @@ We have responsibilities under legislation to verify the identity of both regist
 
 You agree that we may disclose to..
 
-a. the Financial Services Authority (FSA);
+a. the Financial Conduct Authority (FCA);
 
 b. any other regulatory authority to which we are subject;
 
@@ -98,7 +98,7 @@ Citywire is a global business with offices in London and Singapore.
 
 This may result in your personal data being transferred out of the European Economic Area (EEA) to countries which have not been assessed by the European Commission as having adequate legal protection.
 
-For further information on the adequacy of non-EU countries, please visit the European Commission [website](http://ec.europa.eu/justice/policies/privacy/thridcountries/index_en.htm)
+For further information on the adequacy of non-EU countries, please visit the European Commission [website](http://accounts.citywire.info/IFrameRedirector?returnUrl=http%3a%2f%2fec.europa.eu%2fjustice%2fpolicies%2fprivacy%2fthridcountries%2findex_en.htm&via=ClickOut)
 
 ### Respecting individual choice
 
@@ -112,7 +112,7 @@ c. You will ALWAYS be given a straightforward way to opt out from marketing each
 
 If you believe we have not met any of our obligations, please contact us in the first instance. 
 
-You may find more information from the UK Information Commissioner on their [website](http://www.ico.gov.uk/complaints/data_protection.aspx).
+You may find more information from the UK Information Commissioner on their [website](http://accounts.citywire.info/IFrameRedirector?returnUrl=http%3a%2f%2fwww.ico.gov.uk%2fcomplaints%2fdata_protection.aspx&via=ClickOut).
 
   
 
