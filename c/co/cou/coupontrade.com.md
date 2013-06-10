@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupontrade.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006131637id_/http%3A//www.coupontrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupontrade.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610172344id_/http%3A//www.coupontrade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CouponTrade
 
@@ -14,25 +14,25 @@ CouponTrade makes an effort to ensure that your information is given a reasonabl
 
 During your use of our services we automatically collect information. The types of information we collect is used so that we at CouponTrade can better understand how the Site and our users interact with one another. Data that is collected from our Site is often used to supplement the needs for internal enhancement. We often ploy strategies that will better improve user experiences and that configuration is derived from information collected and published to develop trends and patterns for internal review.
 
-Information automatically collected when you browse or use our site includes but is not limited to your browser type, operating system, IP address, device ID, internet service provider, the search engine (if used) to locate CouponTrade, and the websites you have access before, during and immediately after visiting or using CouponTrade.com. User information is categorized into two separate categories. At our discretion we will compile information that we can use to better engage our users with direct preferred service. The two categories of collection are Personally Identifying Information and Non-Personally Identifying Information, which are described as follows: Personally Identifying Information is information such as your name and email address, whereas Non-Personally Identifying Information, without the aid of additional information, cannot be directly associated with any one person. We use “cookies” that collect non personal information for internal uses as described above. CouponTrade or our service providers will use cookies so as to provide information related and personalized to your preferred viewing. They are used for, but not limited to, the following purposes:
+Information automatically collected when you browse or use our Site includes but is not limited to: your browser type, operating system, IP address, device ID, internet service provider, the search engine (if used) to locate CouponTrade, and the websites you have access before, during and immediately after visiting or using CouponTrade.com. User information is categorized into two separate categories. At our discretion we will compile information that we can use to better engage our users with direct preferred service. The two categories of collection are Personally Identifying Information and Non-Personally Identifying Information, which are described as follows: Personally Identifying Information is information such as your name and email address, whereas Non-Personally Identifying Information, without the aid of additional information, cannot be directly associated with any one person. We use “cookies” that collect non personal information for internal uses as described above. CouponTrade or our service providers will use cookies so as to provide information related and personalized to your preferred viewing. They are used for, but not limited to, the following purposes:
 
-  * Recognize you when you use our site.
+  * Recognize you when you use our Site.
   * Provide you with customized content.
-  * To measure our services.
+  * Measure our services.
   * Monitor CouponTrade service usage.
-  * Recognize our affiliate’s referrals.
+  * Recognize our affiliates’ referrals.
   * Research to improve our content and services.
   * Other internal business purposes.
 
 
 
-You have the option to delete and decline your cookie setting, but please note they will prevent you from using unique features of our service.
+You have the option to delete and decline your cookie setting, but please note that this will prevent you from using unique features of our service.
 
-Please be aware that CouponTrade does not possess any authority over the privacy policies and terms and conditions of any third party sites or links on our Site. The browsing of our Site is governed by this Agreement. Once you visit another website for any reason, you will be bound by the terms and conditions set forth by the owner or operator of that website.
+Please be aware that CouponTrade does not possess any authority over the privacy policies and terms and conditions of any third party sites or links on our Site. The browsing of our Site is governed by this Agreement. Once you visit another website for any reason, you will be bound by the terms and conditions set forth by the owner or operator of that website. 
 
 ## Referring a Friend
 
-When you choose to share CouponTrade services with your friends, we will collect your friends’ given name and email address when provided. Your friend will be given the option to remove their name from our prescribed service.
+When you choose to share CouponTrade services with your friends, we will collect your friend’s given name and email address when provided. Your friend will be given the option to remove their name from our prescribed service.
 
 ## Third Party Disclosure Policy
 
@@ -40,18 +40,26 @@ CouponTrade takes your privacy very seriously. We will not share Personal Inform
 
   * Complying with applicable laws.
   * Investigating any disputed charges.
-  * To fulfill your product or service request.
-  * To provide you with a business or technical support function.
+  * Fulfilling your product or service request.
+  * Providing you with a business or technical support function.
   * Verifying and/or processing credit card orders.
   * Hosting, developing, and maintaining our service, our database and enhancing our network information.
-  * Create and publish reports on trend and patters for business relates practices.
-  * Satisfaction of requirements for promotions and sweepstakes you have participated in.
-  * If we believe that there has been a violation of this Agreement, our rights or the rights of any of our affiliates or third party.
+  * Creating and publishing reports on trend and patterns for business relates practices.
+  * Satisfying requirements for promotions and sweepstakes you have participated in.
+  * If we believe that there has been a violation of this Agreement, our rights or the rights of any of our affiliates or third parties.
   * If necessary, to identify, investigate, prevent or take action regarding illegal activities or suspected fraud or other abuses of our services.
-  * Responding to a judicial request, court order, law enforcement agency request, or requests in connection with an investigation concerning matters to public safety.
-  * The transfer of our assets in the event of sale, merger, acquisition by another company, or the sale of all or portion of our assets. We may disclose or sell such information as an asset of the company in conjunction with the sale to a third party of our company or portion of our assets.
+  * Responding to a judicial request, court order, law enforcement agency request, or requests in connection with an investigation concerning matters of public safety.
+  * The transfer of our assets in the event of sale, merger, acquisition by another company, or the sale of all or a portion of our assets. We may disclose or sell such information as an asset of the company in conjunction with the sale to a third party of our company or portion of our assets.
 
 
+
+## CouponTrade's Use of Remarketing with Google Analytics
+
+CouponTrade uses a feature of Google Analytics called 'Remarketing Lists' to place a cookie (the 'DoubleClick' cookie) on your computer when you land on a specified page on our website. This cookie captures anonymous information about your page visits. Google Analytics data, along with the DoubleClick cookie, allow us to serve ads based on your prior visits to our website.
+
+Ads are served and displayed through the Google Display Network and targeted partner websites relevant to the couponing industry. CouponTrade uses a combination of first-party cookies from Google Analytics along with third-party cookies from DoubleClick to tag computers when you visit specific pages on the website in order to tailor a relevant message while you visit other partnered websites in the Google Display Network within the specified cookie duration.
+
+You may opt out of DoubleClick's use of cookies by visiting the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb/#display_optout) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
 
 ## Policy Changes
 
