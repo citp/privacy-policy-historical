@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the vook.com privacy policy that was archived on 2012-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120819011849id_/https%3A//corp.vook.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vook.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611004941id_/http%3A//vook.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Vook
+# Privacy Policy Vook
+
+  *   * 
+
+
+  * [How We Work](https://web.archive.org/how-we-work/)
+  * [Services](https://web.archive.org/services/)
+  * [Distribution](https://web.archive.org/distribution/)
+  * [Enterprise Publishing](https://web.archive.org/enterprise-publishing/)
+  * [Blog](https://web.archive.org/blog/)
+  * [Store](https://store.vook.com/)
+
+
 
 Vook, Inc. (“Vook”) shares your concern about the protection of your personal information online. This is our Privacy Policy regarding the information we collect on our web sites, on third-party websites that we use, or through applications and eBooks that we create. Please note that this Privacy Policy may change from time to time. If changed, we will post an updated Privacy Policy on this page for your review.
 
@@ -10,33 +22,28 @@ Information Gathered and Tracked by Vook
 
 We gather two types of data about our users: personal information and tracking information.
 
-**PERSONAL INFORMATION**
+Personal Information
+    
 
 Personal information is provided by users when registering to purchase a Vook product, for our free newsletters, from our social media presence or through registration pages on sites we control, and voluntarily at certain other points, such as entering contests or completing surveys. At present, we do not collect personally identifiable information from the users of our apps and ebooks distributed through third-party distributors, such as Apple and Amazon.com
 
-**Interacting with Vook**
+Interacting with Vook
+    
 
-By Interacting with Vook, as defined below, we collect certain information from you.
+  * By Interacting with Vook, as defined below, we collect certain information from you.
+  * Interacting with Vook includes, but is not limited to:
+  * Purchasing products on Vook.com
+  * Downloading free products or submitting your information through data collection forms on Vook.com or on third-party websites that we control 
+    * Participating in contests and sweepstakes managed by Vook
+    * Participating in surveys and polls
+    * Participating in registration pages through our apps and eBooks
+  * By Interacting with Vook, you consent to our using your information to contact you for account maintenance issues, or with offers for our products or services or the products or services of third parties. This contact may occur in any manner, including without limitation, via direct mail, email or telephone.
+  * In order to purchase a product on Vook.com, you will have to supply us with your email address and choose a unique User Name and Password. You will be required to verify your email address by clicking on the activation link in the Welcome Letter that will be sent to you upon your submission of a completed registration form. Further, through the sale process, we may collect credit card or other payment account information which we maintain in encrypted form on secure servers.
+  * Vook complies with the CAN-SPAM Act of 2003. From time to time Vook may acquire lists of email addresses from nationally-recognized third party data providers. Any user receiving such correspondence from us has the option to immediately opt-out from receiving further communications from Vook, such opt-out will always be included in the footer of the email communication.
 
-Interacting with Vook includes, but is not limited to:
 
--          Purchasing products on Vook.com
-
--          Downloading free products or submitting your information through data collection forms  on Vook.com or on third-party websites that we control
-
--          Participating in contests and sweepstakes managed by Vook
-
--          Participating in surveys and polls
-
--          Participating in registration pages through our apps and eBooks
-
-**By Interacting with Vook, you consent to our using your information to contact you for account maintenance issues, or with offers for our products or services or the products or services of third parties. This contact may occur in any manner, including without limitation, via direct mail, email or telephone.**
-
-In order to purchase a product on Vook.com, you will have to supply us with your email address and choose a unique User Name and Password. You will be required to verify your email address by clicking on the activation link in the Welcome Letter that will be sent to you upon your submission of a completed registration form. Further, through the sale process, we may collect credit card or other payment account information which we maintain in encrypted form on secure servers.
-
-Vook complies with the CAN-SPAM Act of 2003. From time to time Vook may acquire lists of email addresses from nationally-recognized third party data providers. Any user receiving such correspondence from us has the option to immediately opt-out from receiving further communications from Vook, such opt-out will always be included in the footer of the email communication.
-
-**TRACKING INFORMATION**
+Tracking Information
+    
 
 Tracking information is automatically collected about all visitors to our sites. This information consists of both individual and aggregated tracking information and is automatically gathered using “cookies.” A cookie is a small data file containing information, such as a user’s login name, that is written to the user’s hard drive by a web server and used to track the pages visited.
 
@@ -46,9 +53,8 @@ In addition to cookies placed by Vook or its agents, as described above, adverti
 
 You can control your browser’s settings regarding cookies by selecting “Internet Options” or “Preferences” in the menu bar of your browser. This will allow you to prevent your browser from accepting new cookies, have your browser notify you when you receive a new cookie, or disable cookies altogether. However, because cookies allow you to easily navigate our web sites without having to constantly log in using your User Name and Password, we recommend that you leave them turned on.
 
-**USE OF THE INFORMATION**
-
-Vook uses the personal information and tracking information obtained from its users as stated in this Privacy Policy, and for the following purposes:
+Use of the Information
+     Vook uses the personal information and tracking information obtained from its users as stated in this Privacy Policy, and for the following purposes: 
 
   * To enhance users’ experiences on our sites and in our apps and ebooks
   * To improve our content;
@@ -61,8 +67,7 @@ Vook uses the personal information and tracking information obtained from its us
 
 
 Information Sharing
-
-Vook does not sell or disclose personal information about you described above to with other people or nonaffiliated companies, except to provide you with products or services, when we have your permission, or under the following circumstances:
+     Vook does not sell or disclose personal information about you described above to with other people or nonaffiliated companies, except to provide you with products or services, when we have your permission, or under the following circumstances: 
 
   * In response to subpoenas, court orders, or legal process, or otherwise to cooperate with law enforcement agencies or state and federal regulators;
   * We provide the information to our subsidiaries and affiliated companies;
@@ -72,14 +77,10 @@ Vook does not sell or disclose personal information about you described above to
   * We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who clicked on a particular link or how many users clicked on a particular advertisement. Such information does not identify you individually.
 
 
-
-**SECURITY**
-
-Vook limits access to personal information about you to those employees whom we determine need access to that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your personal information. However, no security system is impenetrable. We cannot guarantee the security of our servers, nor can we guarantee that information that users supply will not be intercepted while being transmitted to us over the Internet.
-
-**YOUR INDEPENDENT RELATIONSHIPS WITH OTHER COMPANIES**
-
-Please note that this Privacy Policy will not apply to your independent relationships with other companies that from time to time may offer you products and services on Vook’s sites. Those companies’ privacy policies will govern how they collect, use and disclose personal information that you provide to them. Vook is not responsible for the privacy practices or content of those websites. We encourage you to review the privacy policy of any company before submitting your personal information.
+Security
+    Vook limits access to personal information about you to those employees whom we determine need access to that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your personal information. However, no security system is impenetrable. We cannot guarantee the security of our servers, nor can we guarantee that information that users supply will not be intercepted while being transmitted to us over the Internet.
+Your Independent Relationships With Other Companies
+    Please note that this Privacy Policy will not apply to your independent relationships with other companies that from time to time may offer you products and services on Vook’s sites. Those companies’ privacy policies will govern how they collect, use and disclose personal information that you provide to them. Vook is not responsible for the privacy practices or content of those websites. We encourage you to review the privacy policy of any company before submitting your personal information.
 
 Questions or comments regarding this policy should be directed to the attention of the General Counsel, Vook, Inc. at the address set forth in the contact section of this website.
 
