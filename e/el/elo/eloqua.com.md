@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the eloqua.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204084749id_/http%3A//www.eloqua.com/trust/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eloqua.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610180501id_/http%3A//www.eloqua.com/trust/Privacy-Policy-20130313.html) for the most accurate reproduction.*
 
-# Privacy Policy - Marketing Automation | Demand Generation | Eloqua
+# Privacy Policy | Eloqua
 
-Effective Date: Updated on Monday, June 27 2011
+Effective Date: Updated on Wednesday, March 13 2013
+
+**Important Update:**
+
+**Eloqua has been[acquired](http://www.oracle.com/us/corporate/acquisitions/eloqua/index.html) by Oracle and will soon transition to the Oracle Privacy Policy. Click [here](http://www.oracle.com/us/legal/privacy/privacy-policy-078584.html) to view the Oracle Privacy Policy and read your options for opt out and compliance issues under that policy. Please note that the provisions of Eloqua's Privacy Policy below will remain active until the policy transition is complete.**
 
 When using Eloqua Corporation's and Eloqua Limited’s ("Eloqua") website, located at the URL [http://www.eloqua.com](http://www.eloqua.com/), the microsite located at [http://useitandsee.com](http://useitandsee.com/), or the Eloqua Community located at [http://topliners.eloqua.com](http://topliners.eloqua.com/) (together referred to as the "Site"), and/or services and/or products provided on the Site, you may provide us with personally identifiable information. Eloqua asks for and maintains the personally identifiable information of its visitors and customers to provide a better, more personal experience on the Site and to deliver certain services or information to you.
 
@@ -90,7 +94,7 @@ _Newsletters_
 
 If you wish to subscribe to our electronic newsletter(s), we will use your name and email address to send the newsletter to you. 
 
-Receiving our newsletter is required as part of the service that we offer.  If you wish to no longer receive our newsletters you may deactivate your subscription by either clicking on the unsubscription URL within each newsletter or contacting us at [privacy@eloqua.com.](mailto:privacy@eloqua.com.) You can also enter your information into the Sign Up for Updates form on our homepage, which will direct you to our Subscription Management Center. ****
+Receiving our newsletter is required as part of the service that we offer.  If you wish to no longer receive our newsletters you may deactivate your subscription by either clicking on the unsubscription URL within each newsletter or contacting us at [privacy@eloqua.com.](mailto:privacy@eloqua.com.) You can also enter your information into the Sign Up for Updates form on our homepage, which will direct you to our [Subscription Management Center](http://www.eloqua.com/trust/Email-Subscription-Management.html). 
 
 _  
 Service-Related Announcements_
@@ -105,7 +109,7 @@ Based upon the Personally Identifiable Information you provide us, we will send 
 **Choice/Opt-out**  
 We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information.  For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. 
 
-If you no longer wish to receive our newsletter or promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@eloqua.com](mailto:privacy@eloqua.com) **.** You can also enter your information into the Sign Up for Updates form on our homepage, which will direct you to our Subscription Management Center.
+If you no longer wish to receive our newsletter or promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@eloqua.com](mailto:privacy@eloqua.com). You can also enter your information into the Sign Up for Updates form on our homepage, which will direct you to our [Subscription Management Center](http://www.eloqua.com/trust/Email-Subscription-Management.html).
 
 You will be notified when your Personally Identifiable Information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether to share your information with that party.
 
