@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodlion.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031135658id_/http%3A//www.foodlion.com/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodlion.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611004703id_/http%3A//www.foodlion.com/PrivacyStatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
