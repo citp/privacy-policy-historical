@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creonline.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024235054id_/http%3A//www.creonline.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creonline.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610180534id_/http%3A//www.creonline.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Your privacy is of the utmost importance to us. To better protect your privacy, 
 
 ### The Information We Collect
 
-This notice applies to all information collected or submitted on the Creative Real Estate Online web site. On some pages, you can Order Products, Join our Insider's Club, Subscribe to our Newsletter, and make other requests. 
+This notice applies to all information collected or submitted on the Creative Real Estate Online web site. On some pages, you can Order Products, Subscribe to our Newsletter, and make other requests. 
 
 The types of personal information collected at these pages may include name, address, email address, phone number, credit/debit card information, and checking account information.
 
@@ -18,7 +18,7 @@ We use the information you provide about yourself when placing an order ONLY to 
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-We NEVER sell, trade, share, or in any way disclose any information about those who subscribe to our Newsletter or join our Insider's Club. 
+We NEVER sell, trade, share, or in any way disclose any information about those who subscribe to our Newsletter. 
 
 We use non-identifying and aggregate information to better design our web site and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our web site, but we would not disclose anything that could be used to identify those individuals.
 
