@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryobitools.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225071149id_/http%3A//www.ryobitools.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryobitools.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611004725id_/http%3A//www.ryobitools.com/privacy_policy) for the most accurate reproduction.*
 
 # Ryobi Tools :: Privacy Policy
 
