@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giggle.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023225306id_/http%3A//www.giggle.com/Privacy-Security/privacy-and-security%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giggle.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610182246id_/http%3A//www.giggle.com/Privacy-Security/privacy-and-security%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -67,7 +67,7 @@ Our Site incorporates physical, electronic, and administrative procedures to saf
 
 ## Your California Privacy Rights
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties for direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: giggle Customer Relations, 148 Madison Avenue, 4th Floor, New York, New York 10016. Please allow thirty days for a response.
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties for direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: giggle Customer Relations, 158 West 27th Street, 8th Floor, New York, New York 10001. Please allow thirty days for a response.
 
 ## Updating Your Information.
 
