@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jokebuddha.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016130350id_/http%3A//www.jokebuddha.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokebuddha.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611002620id_/http%3A//www.jokebuddha.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -22,4 +22,4 @@ Joke Buddha retains sole rights to alter or revise its Privacy Statement from ti
 
  **Feedback and Questions**
 
-If you have any questions, enquiries or feedback in relation to Joke Buddha's Privacy Statement please sent us email: [buddha@jokebuddha.com](mailto:buddha@jokebuddha.com?subject=Enquiries)
+If you have any questions, enquiries or feedback in relation to Joke Buddha's Privacy Statement please sent us email: [a@jokebuddha.com](mailto:a@jokebuddha.com?subject=Enquiries)
