@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thersa.org privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111000435id_/http%3A//www.thersa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thersa.org privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611010622id_/http%3A//www.thersa.org/privacy) for the most accurate reproduction.*
 
 # RSA - Privacy and Cookie Policy
 
  
 
- **Privacy and Cookie Policy**
+**Privacy and Cookie Policy**
 
 Your privacy is important to us. This page explains our online information practices and the choices you can make about how information about you is collected and used by the RSA here on this website and in other electronic communications networks.
 
@@ -109,7 +109,7 @@ Where we are active on third party sites which feature social networking or shar
 
 If you submit content to the RSA website under a user name or create a user account, your user ID may be visible to the public alongside any submission you make. No other private information will be viewable. You can access all your personal identifiable information that we collect online and maintain by logging in to your account and viewing your profile page. You can correct factual errors in your personally identifiable information within your account via your profile page or by sending the webmaster a request that credibly shows error. Amendments or deletions to personal information will roll out to all activity you have had on the site.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identify before granting access and making corrections.
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access and making corrections.
 
 **Links to non-RSA websites**
 
@@ -120,33 +120,33 @@ The RSA accepts no responsibility or liability for content on third party websit
 To prevent unauthorised access, maintain data accuracy and ensure the correct use of information, we have put in place physical, electronic and managerial procedures to safeguard and secure the information we collect online.  
 How to contact us
 
- **Cookies used on the RSA website:**
+**Cookies used on the RSA website:**
 
-What| Name| Expires| Example Page| Insight  
+What | Name | Expires | Example Page | Insight  
 ---|---|---|---|---  
-Squiz Matrix| SQ_SYSTEM_SESSION| At End Of Session| www.thersa.org| The RSA site is running on a content management system (CMS) called Squiz Matrix.  
-Cookie Banner| hasVisited| At End Of Session| www.thersa.org| The RSA site uses this cookie to remember a user’s acceptance of the cookie policy.  
+Squiz Matrix | SQ_SYSTEM_SESSION | At End Of Session | www.thersa.org | The RSA site is running on a content management system (CMS) called Squiz Matrix.  
+Cookie Banner | hasVisited | At End Of Session | www.thersa.org | The RSA site uses this cookie to remember a user’s acceptance of the cookie policy.  
   
  **Cookies used by 3 rd parties to provide services to RSA visitors:**
 
-What| Name| Expires| Example Page| Insight  
+What | Name | Expires | Example Page | Insight  
 ---|---|---|---|---  
-Twitter Plugin| k   
+Twitter Plugin | k   
 original_referer   
-_twitter_sess| 7   
+_twitter_sess | 7   
 Date not set   
-Date not set| www.thersa.org/sda| Twitter is a plugin, that shows most recent tweets on the RSA website.  
-AddThis| __atuvc, xtc, uid, psc, loc, dt| 730| www.thersa.org/fellowship/journal/archive/summer-2010/features/in-defence-of-the-secular-state| AddThis across the site is used to allow sharing of content between different services.  
-Google| NID, SNID,    khcookie, S, PREF| 730| www.thersa.org/fellowship/where-you-are| Used by Google Calendar and Google Maps, both of which set cookies to store user preferences.  
-TopTable| pgseq, ftc, IsCKE, s_cc, s_nr, s_evar5, s_cmrun, s_sq, s_vi| 5 years| www.thersa.org/fellowship/fellows-facilities/house/vaults| These cookies are set by bookings operator Top Table. They are essential when making a reservation through the online booking system.  
-YouTube| APISID, HSID, SAPISID, SID, SSID, VISITOR_INFO, 1_LIVE, PREF| 10 years| www.thersa.org/events/video/vision-videos/connectome| The RSA site uses embedded YouTube videos.  
-Google Analytics| __utma   
+Date not set | www.thersa.org/sda | Twitter is a plugin, that shows most recent tweets on the RSA website.  
+AddThis | __atuvc, xtc, uid, psc, loc, dt | 730 | www.thersa.org/fellowship/journal/archive/summer-2010/features/in-defence-of-the-secular-state | AddThis across the site is used to allow sharing of content between different services.  
+Google | NID, SNID,    khcookie, S, PREF | 730 | www.thersa.org/fellowship/where-you-are | Used by Google Calendar and Google Maps, both of which set cookies to store user preferences.  
+TopTable | pgseq, ftc, IsCKE, s_cc, s_nr, s_evar5, s_cmrun, s_sq, s_vi | 5 years | www.thersa.org/fellowship/fellows-facilities/house/vaults | These cookies are set by bookings operator Top Table. They are essential when making a reservation through the online booking system.  
+YouTube | APISID, HSID, SAPISID, SID, SSID, VISITOR_INFO, 1_LIVE, PREF | 10 years | www.thersa.org/events/video/vision-videos/connectome | The RSA site uses embedded YouTube videos.  
+Google Analytics | __utma   
 __utmb   
 __utmc   
-__utmz| 729   
+__utmz | 729   
 1   
 Date note set   
-182| www.thersa.org| Google Analytics is used to gain insight into visitor statistics. The RSA use this data to improve and enhance user experience and roll out future changes with new and returning visitors in mind.  
+182 | www.thersa.org | Google Analytics is used to gain insight into visitor statistics. The RSA use this data to improve and enhance user experience and roll out future changes with new and returning visitors in mind.  
   
 If you have any questions or concerns about our privacy policy and cookies policy, please [email us](mailto:webmaster@rsa.org.uk).
 
