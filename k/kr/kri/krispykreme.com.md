@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krispykreme.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015090336id_/http%3A//www.krispykreme.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krispykreme.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611015516id_/http%3A//www.krispykreme.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Krispy Kreme Doughnuts and Coffee
 
