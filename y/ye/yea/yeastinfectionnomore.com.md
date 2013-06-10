@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeastinfectionnomore.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919212808id_/http%3A//www.yeastinfectionnomore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeastinfectionnomore.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610210728id_/http%3A//yeastinfectionnomore.com/privacy.html) for the most accurate reproduction.*
 
 # Yeast Infection No More™ - Privacy
 
@@ -33,7 +33,7 @@ Online ordering via SSL encrypted communication provided by shopping cart servic
 
 **VISITOR EMAIL INQUIRIES**
 
-Website visitors who wish to communicate with the website do so under two conditions: one, they give their permission for contact by the website; two, they are subject to any ‘submission’ provisions of the Terms of Use, Purchase Agreement, or this Privacy Policy. While your email address may or may not be used to solicit you, it is added to the website's general solicitation database. 
+Website visitors who wish to communicate with the website do so under two conditions: one, they give their permission for contact by the website; two, they are subject to any 'submission' provisions of the Terms of Use, Purchase Agreement, or this Privacy Policy. While your email address may or may not be used to solicit you, it is added to the website's general solicitation database. 
 
 **CUSTOMER EMAIL OR TESTIMONIALS**
 
@@ -89,22 +89,7 @@ If any matter concerning this purchase shall be brought before a court of law, p
 
 **APPLICABLE LAW**
 
-Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the seller. 
-
+Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the seller.   
   
-**-Laura Johnson- U.S.A**  
-  
-**-Jeff Severino-**  
-  
-**-Mary Adams- U.K**  
-  
-**-David Flinter - Dublin, Ireland-**  
-  
-**-Lara Obrien-**  
-  
-  
-**-Pauline- U.S.A**  
-  
-**-Evelyn Chislett- Melbourne, Australia**  
-  
+© 2004-2010 Yeast InfectionNoMore.com - All Rights Reserved - Higher Ways Publishing, Inc. Irvine, CA 92612  
 
