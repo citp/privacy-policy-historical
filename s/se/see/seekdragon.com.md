@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekdragon.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183834id_/http%3A//www.seekdragon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekdragon.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610054106id_/http%3A//www.seekdragon.com/privacy.html) for the most accurate reproduction.*
 
 # Seek Dragon Asian Business Directory - Privacy Policy
 
