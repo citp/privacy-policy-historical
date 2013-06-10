@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homefinder.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017131638id_/http%3A//www.homefinder.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homefinder.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611015325id_/http%3A//www.homefinder.com/company/privacy) for the most accurate reproduction.*
 
 # HomeFinder.com :: Company :: Privacy Policy
 
@@ -113,7 +113,7 @@ If you are an international user, by using the Site, you agree that HomeFinder.c
 
 If you have any questions about this Privacy Policy, please [contact us](http://www.homefinder.com/company/contact).
 
-© 2009 HomeFinder.com, 175 West Jackson, Chicago, IL 60604
+© 2013 HomeFinder.com | 20 North Wacker Drive | Chicago, IL 60606
 
 Last updated on November 9, 2009
 
