@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empowerednews.net privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209010654id_/http%3A//empowerednews.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empowerednews.net privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610024828id_/http%3A//empowerednews.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **What information do we collect?**
 
-We collect information from you when you register on our site or fill out a form
+EmpoweredNews (empowerednews.net) collects information from you when you register on our site or fill out a form
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.
 
@@ -43,9 +43,13 @@ We implement a variety of security measures to maintain the safety of your perso
 
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following URL <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+For a video about cookies visit [www.google.com/goodtoknow/data-on-the-web/cookies](http://www.google.com/goodtoknow/data-on-the-web/cookies).
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, EmpoweredNews.net has no access or control over these cookies that may be used by third party advertisers.
+EmpoweredNews uses analytics data and the DoubleClick cookie to serve ads (Display Advertising) based on a user’s prior visits to our website (Remarketing).  Site visitors may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html "Google advertising opt-out page") or they may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout "Google Analytics opt-out page").
+
+Google has additional information available about their [Remarketing Privacy Guidelines](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746 "Google's Remarketing Privacy Guidelines"), [Policies](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=143465 "Google's Remarketing Policies"), and [Restrictions](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=178363 "Google's Remarketing Privacy Restrictions").
+
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, EmpoweredNews has no access or control over these cookies that may be used by third party advertisers.
 
 **Do we disclose any information to outside parties?**
 
@@ -61,13 +65,13 @@ This online privacy policy applies only to information collected through our web
 
 **Your Consent**
 
-By using our site, you consent to your Privacy Policy
+By using our site, you consent to our Privacy Policy
 
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we well post those changes on this page
 
-This policy was last modified on January 25, 2010
+This policy was last modified on December 26, 2012
 
 **Contacting us**
 
