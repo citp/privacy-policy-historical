@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the go4download.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020071559id_/http%3A//go4download.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4download.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610181558id_/http%3A//go4download.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | go4download.com
+# Privacy Policy
 
 **Privacy Policy Statement**  
 This is the web site of go4download.
