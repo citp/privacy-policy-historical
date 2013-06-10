@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hushbabies.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014224418id_/http%3A//www.hushbabies.com/info/4/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hushbabies.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610185322id_/http%3A//www.hushbabies.com/info/4/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ The information collected from the consumer is used to notify consumers about up
 We use cookies to record session information, such as items that consumers add to their shopping cart, ensure that visitors are not repeatedly sent the same banner ads and used by third party ad content networks (like google ads) for customer analytics and to record their campaign effectiveness.
 
 **Opt-Out Policy**  
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at [support@hushbabies.com](mailto:support@hushbabies.com), calling us at the telephone number  **\+ 91 -  98116 61355** , or updating preferences in your account area. If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by call or email.
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at [support@hushbabies.com](mailto:support@hushbabies.com), calling us at the telephone number  **\+ 91 - 92507 92507** , or updating preferences in your account area. If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by call or email.
 
 **Sharing of Information**  
 You may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by calling us at the number provided above, e-mailing us at the above address or by visiting member account area.  
@@ -45,7 +45,7 @@ This disclaimer does not apply to any product warranty offered by the manufactur
 Hushbabies, its associates and technology partners make no representations or warranties about the accuracy, reliability, completeness, currentness and/or timeliness of any content, information, software, text, graphics, links or communications provided on or through the use of the Site or that the operation of the Site will be error free and/or uninterrupted. Consequently, Hushbabies assumes no liability whatsoever for any monetary or other damage suffered by you on account of the delay, failure, interruption, or corruption of any data or other information transmitted in connection with use of the Site; and/or any interruption or errors in the operation of the Site.
 
 **Further Queries**  
-We can be reached via e-mail at [support@hushbabies.com](mailto:support@hushbabies.com). Our postal address is Hushbabies, Lapis Marketing Services Pvt. Ltd. # 76, Okhla Industrial Esstate, Phase 3, New Delhi - 110 020, India. or you can reach us by telephone number  **\+ 91 -  98116 61355** . If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+We can be reached via e-mail at [support@hushbabies.com](mailto:support@hushbabies.com). Our postal address is Hushbabies, Lapis Marketing Services Pvt. Ltd. # 76, Okhla Industrial Esstate, Phase 3, New Delhi - 110 020, India. or you can reach us by telephone number 
 
-  
+**\+ 91 - 92507 92507**  . If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.  
 
