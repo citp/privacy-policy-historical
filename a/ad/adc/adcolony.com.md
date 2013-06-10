@@ -1,0 +1,105 @@
+> *The following text is extracted and transformed from the adcolony.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610072818id_/http%3A//adcolony.com/legal/privacy) for the most accurate reproduction.*
+
+# Privacy Policy - AdColony
+
+[← Back](https://web.archive.org/)
+
+### Privacy Policy
+
+Last Updated — May 25, 2012
+
+We at Jirbo, Inc., including its subsidiaries and affiliated companies, if any ("Jirbo", "we", "us", "our"), know that you care about how your personal information is used and shared, and we take your privacy seriously. This Privacy Policy explains how your personal information is collected and used by Jirbo. **By visiting or using Jirbo's applications, website (the "Site") and services, including, but not limited to AdColony, and any other linked pages, features, content, or any other services we offer from time to time by or in connection therewith (collectively, the "Services"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we may collect, use, and share your information in the manner and ways outlined in this Privacy Policy.**
+
+* * *
+
+### 1\. What does this Privacy Policy cover?
+
+This Privacy Policy covers our treatment of personally identifiable information as more fully described below ("Personal Information") that we gather when you are accessing or using the Services. Personal Information specifically does not include aggregate information, which is data we collect about the characteristics and activities of users of the Site and the Services, from which any personal information has been removed. This privacy policy in no way limits or restricts our collection of aggregate information or of non-personal information. This Privacy Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage. This Privacy Policy also does not apply to information you choose to disclose publicly via the Services (i.e., information which is viewable to other users of the Services), which will not be considered Personal Information.
+
+### 2\. What personal information does Jirbo collect?
+
+We collect the following types of information from our users:
+
+**A. Personal Information You Provide to Us**
+
+We receive and store any information you provide to us. The types of Personal Information collected may include your name, address, user name, email address, IP address, and phone number. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features that are optimized based upon some of your Personal Information. We use the Personal Information you provide to enhance your experience with the Services, to personalize and improve the overall quality of the Services and to better understand what products and services are of interest to our users.
+
+**B. Information Collected Automatically**
+
+  * Whenever you interact with the Services, we automatically receive and record information on our server logs. The type of information recorded is dependent upon the Services with which you are interacting. When interacting with the Site, we record your IP address, "cookie" information and the page you requested. When you interact with the Services we record your unique phone I.D. number and logs of your specific interactions with the Services. We may associate this usage information with your Personal Information in connection with providing the Services.
+  * We utilize "Cookies" to automatically collect information about visitors to the Site. Cookies are alphanumeric identifiers that reside within your browser and that allow us to recognize your browser and tell us how and when pages in our site are visited and by how many people. Cookies do not collect Personal Information. You may be able to change the preferences on your browser to prevent or limit your computer's or mobile device's acceptance of cookies, but this may prevent you from taking advantage of some features of the Services.
+  * We may collect information using Web "beacons". Web beacons are electronic images used on the Site or in our emails. We use web beacons to deliver cookies, count visits, understand usage and activity on the Site and to tell if an email has been opened and acted upon.
+  * When we collect usage information (such as the numbers and frequency of visitors to the Services), we never disclose this information to any partners other than in aggregate form and not in a manner that would identify you personally.
+  * Jirbo provides certain Services to advertisers and publishers. If you are a publisher using the Services, we may access, index, and cache requests made from your mobile sites, applications and device platforms to our system, including by automated means. In the course of providing these Services, we collect aggregate data from publishers' sites and use such data for a number of purposes, including, but not limited to, providing publishers, advertisers and others with aggregate information about traffic and site usage in our advertising network. We also collect certain information about visitors to publishers' sites that connect to such Services. We will automatically collect and receive information about those visitors such as, but not limited to, browser identifiers, session information, cookies, device type, carrier provider, IP addresses, unique device ID, carrier user ID, geo-location information, sites visited and clicks on advertisements we display. We may track that information over time and over multiple publishers' sites and use non-Personal Information collected from such visitors to provide reports to advertisers and others and to help us display advertisements that may be of interest to your visitors. In some cases, the mobile phone service providers for mobile devices may send visitors' phone numbers to Jirbo. We use such information to perform analysis aimed at improving our Services and we may also use this data to display advertising customized to visitors' interests and preferences. We do not use such information for telemarketing, to contact any individuals or to share with any third parties for their own use.
+
+
+
+**C. E-mail Communications**
+
+We may receive a confirmation when you open an email from us. This confirmation helps us make emails more interesting and improve the Services. If you do not want to receive email from us, please indicate your preference by following the "Unsubscribe" link on the bottom of any email from us.
+
+### 3\. Will Jirbo share any of the Personal Information it receives?
+
+We neither rent nor sell your Personal Information to anyone. We share your Personal Information in personally identifiable form only as described below.
+
+**A. Affiliated Businesses We Do Not Control**
+
+In certain situations, businesses we're affiliated with may sell items or provide services to you in conjunction with the Services (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction, and we will share your Personal Information with that affiliated business only to the extent that it is related to such a transaction.
+
+**B. Agents and Service Providers**
+
+We employ other agents and service providers to perform services and other tasks on our behalf and need to share your Personal Information with them to provide the Services to you. While these agents and service providers may have access to your Personal Information in connection with the performance of services and other tasks for Jirbo, they may not use such information for any purpose other than providing such services and tasks to Jirbo.
+
+**C. Your Actions**
+
+Any information or content (including without limitation email addresses, user names, photos, images, captions, and comments) you voluntarily disclose for other users to view via the Services is not Personal Information; it becomes publicly available and can be collected and used by others, and may be redistributed through the internet and other media channels.
+
+**D. Communication About the Services**
+
+As part of the Services, you may receive communications from us, whether by email or other means. We may send you email, contact you, or engage you in other communication that is related to your use of the Services.
+
+**E. Promotional Offers**
+
+We may send offers to certain users on behalf of Jirbo, our partners or other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please unsubscribe to these communications via the link at the bottom of such communications. If you do opt-out or unsubscribe, we may still send you non-promotional emails about your accounts or our other ongoing business relations with you.
+
+**F. Corporate Transfers and Financings**
+
+We may share your Personal Information in connection with any merger, sale of Jirbo assets, or a financing or acquisition of all or a portion of our business to another company.
+
+**G. Protection of Jirbo and Others**
+
+We may release Personal Information when we believe in good faith that release is necessary to comply with the law, enforce or apply our terms and conditions of use or service and other agreements, or protect the rights, property, or safety of Jirbo, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+**H. With Your Consent**
+
+Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+
+4\. Is Personal Information about me secure?
+
+We take reasonable measures to protect your Personal Information in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction. We cannot, however, ensure or warrant the 100% security of any information that we receive.
+
+### 5\. Third Party Sites
+
+The Services regularly interact with third party sites and applications. We are not responsible for the privacy policies and/or practices on other sites and applications. When linking to another site or application, you should read that party's privacy policy.
+
+### 6\. What personal information can I access?
+
+If you have any questions about viewing or updating information we have on file about you, please contact us at [privacy@jirbo.com](mailto:privacy@jirbo.com).
+
+### 7\. What choices do I have?
+
+  * You can always opt not to disclose information to us, but keep in mind some information may be needed to take advantage of some of our special features. 
+  * You may be able to add or update certain information as explained above. When you update information, however, we may maintain a copy of the unrevised information in our records.
+  * You may request deletion of your Personal Information by sending an e-mail to [privacy@jirbo.com](mailto:privacy@jirbo.com). Please note that some information may remain in our private records after deletion of your account.
+  * If you do not wish to receive email or other mail from us, please contact us at [privacy@jirbo.com](mailto:privacy@jirbo.com).
+
+### 8\. Changes to this Privacy Policy
+
+We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to this Privacy Policy or in the way we use Personal Information, we will notify you by posting an announcement on the Site or sending you an email. You are bound by any changes to the Privacy Policy when you use the Services after such changes have been first posted. 
+
+### 9\. Questions or Concerns
+
+If you have any questions or concerns regarding this Privacy Policy, please send us a detailed message to [privacy@jirbo.com](mailto:privacy@Jirbo.com). We will make every effort to resolve your concerns.
+
+
+
