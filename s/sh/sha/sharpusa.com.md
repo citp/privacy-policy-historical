@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the sharpusa.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229142806id_/http%3A//www.sharpusa.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharpusa.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611015118id_/https%3A//www.sharpusa.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SharpUSA | Privacy Policy
-
-[Home](https://web.archive.org/) > **Privacy Policy**
-
-Email this page to a friend to share information from SharpUSA.com. Just fill out the fields below and press Send.
 
 This is the privacy policy ("Privacy Policy") for online web sites of Sharp Electronics Corporation including SharpUSA.com ("SharpUSA")and the Sharp Direct℠ online store ("Sharp Direct") and explains when and how your personal information is collected, used, disclosed and protected. SharpUSA.com and Sharp Direct are owned by Sharp Electronics Corporation and are facilitated through independent vendors. This Privacy Policy is a part of the SharpUSA and Sharp Direct Terms and Conditions of Use and governs your use of and purchase from these sites. We recognize your need to control personal information you share with us. Sharp is committed to respecting your privacy.
 
