@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the writerscentre.com.au privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214073814id_/http%3A//writerscentre.com.au/policy/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writerscentre.com.au privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610190436id_/http%3A//www.writerscentre.com.au/policy/privacypolicy.htm) for the most accurate reproduction.*
 
-# Sydney Writers' Centre: Privacy Policy - Australian Writers' Centre
+# Australian Writers' Centre: Privacy Policy - Australian Writers' Centre
 
 WritersCentre.com.au strives to offer its visitors the many advantages of internet technology and to provide an interactive and personalised experience. We may use personally identifiable information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorised third party. Ever. 
 
-We always give you the option of unsubscribing to our online communication in the emails you receive. If you have any trouble with this, just email us at [courses [at] spindriftmedia [dot] com [dot] au](mailto:courses@spindriftmedia.com.au). 
+We always give you the option of unsubscribing to our online communication in the emails you receive. If you have any trouble with this, just email us at [courses [at] writerscentre [dot] com [dot] au](mailto:courses@writerscentre.com.au).
 
 ## How we gather information from users
 
@@ -30,7 +30,7 @@ WritersCentre.com.au expects its partners, advertisers and affiliates to respect
 
 ## Children 
 
-WritersCentre.com.au does not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe WritersCentre.com.au has any information from or about anyone under 13, please contact us at courses [at] spindriftmedia [dot] com [dot] au.
+WritersCentre.com.au does not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe WritersCentre.com.au has any information from or about anyone under 13, please contact us at courses [at] writerscentre [dot] com [dot] au.
 
 ## Changes to this policy 
 
