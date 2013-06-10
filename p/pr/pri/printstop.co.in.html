@@ -1,0 +1,582 @@
+<!--The following is the downloaded HTML source of the printstop.co.in privacy policy that was archived on 2013-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610181922id_/http%3A//www.printstop.co.in/cms/privacy_policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Privacy Policy</title>
+<meta name="Keywords" content="Business card, postcard, flyer, flier, free design, free business card design, business card designer, online designer, free postcard, free postcard design, club flyers, brochure, cards, door hanger">
+<meta name="description" content="Free Business Card Design, Business card printing, Postcard, Flyer, Door Hanger, Brochure, Realty Printing, Marketing Material, Order Forms, Rip Business card, Magnet, Free online designer">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-language" content="EN">
+<meta name="robots" content="index,follow">
+<meta name="googlebot" content="index,follow">
+<meta name="revisit-after" content="1 days">
+<link rel="shortcut icon" type="image/x-png" href="http://www.printstop.co.in/favicon.ico">
+<link href="http://www.printstop.co.in/themes/printstop/css/structure.css" rel="stylesheet" media="screen" type="text/css">
+<link href="http://www.printstop.co.in/themes/printstop/css/style.css" rel="stylesheet" media="screen" type="text/css">
+<link href="http://www.printstop.co.in/css/common.css" rel="stylesheet" media="screen" type="text/css">
+<link href="http://www.printstop.co.in/themes/printstop/css/base-min-65682.css" rel="stylesheet" media="screen" type="text/css">
+<link href="http://www.printstop.co.in/themes/printstop/css/slider.css" rel="stylesheet" media="screen" type="text/css">
+<link href="http://www.printstop.co.in/themes/printstop/css/product-tabs.css" rel="stylesheet" media="screen" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId="></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="http://www.printstop.co.in/jscript/common.js" language="javascript"></script>
+<script src="http://www.printstop.co.in/jscript/jquery.js" language="javascript"></script>
+<script src="http://www.printstop.co.in/jscript/jquery-ui.min.js" language="javascript"></script>
+<script src="http://www.printstop.co.in/jscript/jquery.cycle.all.js" language="javascript"></script>
+<script src="http://www.printstop.co.in/jscript/ddaccordion.js" language="javascript"></script>
+<script language="javascript" type="text/javascript">
+var userPath = 'printstop';
+var userLanguage = 'english';
+var http_tm_tmpl_path = 'http://www.printstop.co.in/themes/printstop/images/english/';
+
+function getEmail() {
+	var errorflag = false;
+	var email = trim(document.getElementById('subemail_address').value);
+	document.getElementById("sub_emailAddress").className= 'requiredInformation';
+	if(email == '' || email == 'Enter email ID') {
+		document.getElementById("sub_emailAddress").innerHTML = "Email ID is required";
+		document.getElementById('subemail_address').focus();
+		errorflag = true;
+	} else if (emailValidate(email) == 'error') {
+		document.getElementById("sub_emailAddress").innerHTML = "Invalid email ID";
+		document.getElementById('subemail_address').focus();
+		errorflag = true;
+	} else {
+		document.getElementById("sub_emailAddress").innerHTML = "&nbsp;";
+		document.getElementById('subemail_address').focus();
+	}
+	if(errorflag == true)
+		return false;
+	
+	xmlHttp=GetXmlHttpObject(newsletter)
+	xmlHttp.open("GET", "/subscription_action.php?email="+email, true)
+	xmlHttp.send(null)
+	return false;
+}
+function newsletter() {
+	if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete") {
+		if(xmlHttp.responseText == 1) {
+			document.getElementById("sub_emailAddress").innerHTML="Email ID added successfully";
+			document.getElementById("sub_emailAddress").className= 'message_success';
+		} else {
+			document.getElementById("sub_emailAddress").innerHTML=xmlHttp.responseText;
+		}
+    	document.getElementById('subemail_address').value = "";
+		document.getElementById('subemail_address').focus();
+	}
+}
+function validate_login_details(objform, display_type) {
+	var errorflag = false;
+	var iChars = "!@#$%^&*()+=-[]\\\';,./{}|\":<>?0123456789";
+	email = trim(objform.left_email_signup.value);
+	if(email == '') {
+		objform.getElementById("UserNameError").innerHTML = "Email ID is required";
+		errorflag = true;
+	} else if (emailValidate(email) == 'error') {
+		objform.getElementById("UserNameError").innerHTML = "Invalid email ID";
+		errorflag = true;
+	} else {
+		document.getElementById("UserNameError").innerHTML = "&nbsp;";
+	}
+	
+	if(trim(document.login_signin.left_password_signup.value) == "") {
+		document.getElementById("UserPassError").innerHTML = "Password is required";
+		errorflag = true;
+	} else {
+		document.getElementById("UserPassError").innerHTML = "&nbsp;";
+	}
+	if(errorflag == true) {
+		return false;
+	} else{
+		return true;
+	}
+}
+function Validate_login_details()
+{
+	
+	var errorflag = false;
+	var iChars = "!@#$%^&*()+=-[]\\\';,./{}|\":<>?0123456789";
+	email = trim(document.login_signin.left_email_signup.value);
+	if(email == '') {
+		document.getElementById("UserNameError").innerHTML = "Email ID is required";
+		errorflag = true;
+	} else if (emailValidate(email) == 'error') {
+		document.getElementById("UserNameError").innerHTML = "Invalid email ID";
+		errorflag = true;
+	} else {
+		document.getElementById("UserNameError").innerHTML = "&nbsp;";
+	}
+	
+	if(trim(document.login_signin.left_password_signup.value) == "") {
+		document.getElementById("UserPassError").innerHTML = "Password is required";
+		errorflag = true;
+	} else {
+		document.getElementById("UserPassError").innerHTML = "&nbsp;";
+	}
+	if(errorflag == true) {
+		return false;
+	} else{
+		return true;
+	}
+}
+
+function Validate_login_header_details() {
+	var iChars = "!@#$%^&*()+=-[]\\\';,./{}|\":<>?0123456789";
+	var email = document.header_login_signin.email_signup.value;
+   if(email == '') {
+		alert("Email ID is required")
+		document.header_login_signin.email_signup.focus();
+		return false;
+	} else if (emailValidate(email) == 'error') {
+		alert("Invalid email ID")
+		email = '';
+		document.header_login_signin.email_signup.focus();
+		return false;
+	} else {
+		email = "";
+	}
+	
+	if(trim(document.header_login_signin.password_signup.value) == "") {
+		alert("Password is required");
+		document.header_login_signin.password_signup.value = "";
+		document.header_login_signin.password_signup.focus();
+		return false;
+	} 
+}
+/** when button typer is css then ues this function for clear cart **/
+function clearCart() {
+	if(confirm('SHOPPING_CART_REMOVE_CONFIRMATION')) {
+		window.location.href= "http://www.printstop.co.in/shoppingcart.php?action=rem";		
+		return true;		
+	}
+	return false;
+}
+function removeFile(page_name,element_id)
+{
+	if(page_name == "" || element_id == "")
+	{
+		alert("Not enough parameters");
+	}
+	var file_name = $("#"+element_id).val();
+	if(file_name == "")
+	{
+		alert("File name not found");
+	}
+	if(confirm("Are you sure you want to delete?"))
+	{
+		$.ajax({
+			url : "/upload_ajax/common_upload_file.php",
+			data : "file_name="+file_name+"&page="+page_name+"&action=delete",
+			success : function(data){
+				$(".qq-upload-list").html("");
+				$("#"+element_id).val("");
+			}
+		});	
+	}
+}
+
+</script><!--/* menu Related Jquery*/-->
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+	// Do jQuery stuff using $
+	if($("DIV.overlay-pop").length > 0) {
+		$("DIV.overlay-pop").addClass("header_contain_all");
+		$("DIV.overlay-pop").find("*").addClass("header_contain_all");
+	}
+	$("UL#nav-container LI").mouseover(function() {
+		$("UL LI").removeClass("active_li");
+		$(this).addClass("active_li");
+		$("a").removeClass("active_li_a");
+		var $container = $("DIV.contain");
+		var $li = $(this);
+		var $li_left = $li.position().left;
+		var $division = $("DIV#DIV_"+$li.attr("id"));
+		if($division.width() < $container.width()) {
+			//set left to something
+			/*if((($li_left + ($li.width()/2)) - ($division.width()/2)) < 0) {
+				$division.css("left", 0);
+			} else*/ {
+				if((($li_left + ($li.width()/2)) - ($division.width()/2) + $division.width()) > 1000) {
+					$division.css("left", 1000 - $division.width());
+					
+				} else {
+					//$division.css("left", (($li.position().left + ($li.width()/2)) - ($division.width()/2)) + 10)
+					$division.css("left", ($li.position().left + 20));
+				}
+			}
+		}
+		$("DIV.overlay-pop").hide();
+		$("DIV#DIV_" + $(this).attr("ID")).show();
+		$(".active_li > a").addClass("active_li_a");
+	});
+	$("DIV.overlay-pop").mouseout(function(e) {
+		if("DIV_"+$(e.relatedTarget).attr("ID") != $(e.target).attr("ID") && !$(e.relatedTarget).hasClass("header_contain_all")) {
+			$("UL#nav-container LI").removeClass("active_li");
+			$("a").removeClass("active_li_a");
+			$("DIV.overlay-pop").hide();
+		}
+	});
+	$("UL#nav-container LI").mouseout(function(e) {
+		if($(e.relatedTarget).attr("ID") != "DIV_"+$(e.target).attr("ID") && !$(e.relatedTarget).hasClass("header_contain_all")) {
+			$("UL#nav-container LI").removeClass("active_li");
+			$("a").removeClass("active_li_a");
+			$("DIV.overlay-pop").hide();
+		}
+	});
+	$("DIV.overlay-pop").hide();
+});
+
+</script><script src="http://www.printstop.co.in/jscript/mootools.js" language="javascript"></script>
+<script src="http://www.printstop.co.in/jscript/sliding-tabs.js" language="javascript"></script>
+</head>
+<body>
+<div class="top_header"></div>
+<!-- Main Start -->
+<div id="container">
+	<!--header-start-->
+  	<div id="header">
+	    <div id="logocontainer">
+    <div id="top_menu">
+					<style type="text/css">
+				#top_menu ul li:first-child {
+					background:none;
+				}
+			</style>
+		<ul>
+<li class="nav-pop" id="Login" data-url="/util/nav/Login"><a name="Login" style="background:none;" href="http://www.printstop.co.in/user_login.php" target="_self"><span class="down">Login</span></a></li>
+<li style="padding: 10px 0 10px 0;">|</li>
+<li class="nav-pop" id="ShoppingCart" data-url="/util/nav/ShoppingCart"><a name="Shopping Cart" style="background:none;" href="http://www.printstop.co.in/shoppingcart.php" target="_self"><span class="down">Shopping Cart</span></a></li>
+</ul>
+	    <span class="top_menu_userinfo">	
+					</span>
+    </div>
+	<div id="logo">
+    	<a href="/"><img src="/themes/printstop/images/logo.png" alt="print stop logo" border="0"></a>
+	</div>
+</div>
+    	<div class="rel-lvl-9">
+			<div id="header-sec">
+				<div class="contain contain-24 rel clear">
+					<div class="int pull-1 clear">
+			    	<ul id="nav-container" class="nav-pri s-9 left clear no-print">
+<li class="nav-pop" id="StoreHome" data-url="/util/nav/StoreHome"><a name="Store Home" style="background:none;" href="http://www.printstop.co.in/store.php" target="_self"><span class="down">Store Home</span></a></li>
+<li class="nav-pop" id="ProductCategories" data-url="/util/nav/ProductCategories"><a name="Product Categories" style="" href="http://www.printstop.co.in/product_list.html" target="_self"><span class="down">Product Categories</span></a></li>
+<li class="nav-pop" id="Login/Register" data-url="/util/nav/Login/Register"><a name="Login / Register" style="background:none;" href="http://www.printstop.co.in/user_login.php" target="_self"><span class="down">Login / Register</span></a></li>
+<li class="nav-pop" id="ContactUs" data-url="/util/nav/ContactUs"><a name="Contact Us" style="background:none;" href="http://www.printstop.co.in/cms/contact_us.html" target="_self"><span class="down">Contact Us</span></a></li>
+</ul>
+<div id="DIV_ProductCategories" class="overlay-pop overlay-pop-3 contain-overlay-24 pop-hidden" style="position: absolute; left: 0px; top: 40px;display:none;">
+											<div class="overlay-int"><ul class="list-3 list-dbl-bdr-2 clear line-h-8 space-1"><li><a href="http://www.printstop.co.in/product_list.html" target="_self"><span>All Products</span></a></li><li><a href="http://www.printstop.co.in/c1/Business-Cards/product_list.html" target="_self"><span>Business Cards</span></a></li><li><a href="http://www.printstop.co.in/c2/Stationery/product_list.html" target="_self"><span>Stationery</span></a></li><li><a href="http://www.printstop.co.in/c3/Marketing/product_list.html" target="_self"><span>Marketing Products</span></a></li><li><a href="http://www.printstop.co.in/c4/Gifting-Products/product_list.html" target="_self"><span>Gifting Products</span></a></li><li><a href="http://www.printstop.co.in/c5/Stamps/product_list.html" target="_self"><span>Stamps</span></a></li><li><a href="http://www.printstop.co.in/c6/Pens/product_list.html" target="_self"><span>Pens</span></a></li><li><a href="http://www.printstop.co.in/c7/Design/product_list.html" target="_self"><span>Design</span></a></li></ul></div></div>	    			</div>
+	    		</div>
+	    	</div>
+		</div>  	</div>
+	<!--header-end-->
+	        
+    <!--middleconte-start-->
+	<div id="middlecontent">
+    	<div class="middlecontent_top_bg"></div>
+        <div class="middlecontent_inner_bg">
+				<div id="leftpanel">
+		<div id="left_top_bg"></div>
+		<div id="left_inner_bg">
+							<div class="left_block">
+						
+					<div class="left_block_title">
+			           	<h1>Products</h1>					</div>
+				
+			        <div class="left_block_content">
+						<li><a href="http://www.printstop.co.in/p62/Business-Cards-(Single-Sided)/product_info.html">Business Cards (Single Sided)</a></li><li><a href="http://www.printstop.co.in/p63/Business-Cards-(Back-to-Back)/product_info.html">Business Cards (Back to Back)</a></li><li><a href="http://www.printstop.co.in/p64/Business-Cards-(with-Spot-Lamination)/product_info.html">Business Cards (with Spot Lamination)</a></li><li><a href="http://www.printstop.co.in/p3/Letterhead/product_info.html">Letterhead</a></li><li><a href="http://www.printstop.co.in/p5/Envelopes-(%2310)/product_info.html">Envelopes (#10)</a></li><li><a href="http://www.printstop.co.in/p75/Combo-Packages/product_info.html">Combo Packages</a></li><li><a href="http://www.printstop.co.in/p22/Folders-%2B-Dockets/product_info.html">Folders / Dockets</a></li><li><a href="http://www.printstop.co.in/p128/Carbonless-Receipt-Books/product_info.html">Carbonless Receipt Books</a></li><li><a href="http://www.printstop.co.in/p2/Flyers-(Single-Sided)/product_info.html">Flyers (Single Sided)</a></li><li><a href="http://www.printstop.co.in/p24/Posters/product_info.html">Posters</a></li><li><a href="http://www.printstop.co.in/p7/Brochures/product_info.html">Brochures</a></li><li><a href="http://www.printstop.co.in/p73/Banners/product_info.html">Banners</a></li><li><a href="http://www.printstop.co.in/p77/Banners-with-Stands/product_info.html">Banners with Stands</a></li><li><a href="http://www.printstop.co.in/p78/Tent-Cards/product_info.html">Tent Cards</a></li><li><a href="http://www.printstop.co.in/p79/Mugs/product_info.html">Mugs</a></li><li><a href="http://www.printstop.co.in/p119/Stamp-ST04/product_info.html">Stamp ST04</a></li><li><a href="http://www.printstop.co.in/p123/Stamp-STDater01/product_info.html">Stamp STDater01</a></li><li><a href="http://www.printstop.co.in/p134/Pen-PN001/product_info.html">Pen PN001</a></li><li><a href="http://www.printstop.co.in/p124/Pen-PN003/product_info.html">Pen PN003</a></li><li><a href="http://www.printstop.co.in/p76/Design-Products/product_info.html">Design Products</a></li><div class="urbangreymenu browse_more_product"><li><a class="redfont" href="http://www.printstop.co.in/product_list.html">More Products ...</a></li></div>					</div>
+				</div>
+							</div>
+		<div id="left_bottom_bg"></div>
+		</div>
+            <div id="middlepanelwithleft" style=" ">              
+                <div class="middle_top_bg">&nbsp;</div>			
+                <div id="middle_inner_bg">
+                	                    <div class="page_heading"><h1>Privacy Policy</h1></div>
+<div class="middle_inner_section">
+	<div class="content_text">
+		<p>
+	<span class="design_guidetext">PrintStop India Pvt Ltd values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, contests, and promotions. </span></p>
+<p>
+	<span class="design_guidetext">PrintStop India Pvt Ltd recognizes that it must maintain and use customer information responsibly. We do not sell or rent the information you provide to us online to third parties. However, we do share your information with third parties under certain circumstances as detailed below.<br>
+	<br>
+	This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, please contact PrintStop India Pvt Ltd customer service via email at store@printstop.co.in or write to us at:</span><span class="design_guidetext"> </span></p>
+<p>
+	&nbsp;</p>
+<p>
+	<span class="design_guidetext">PrintStop India Pvt Ltd<br>
+	Attn: Customer Service (www.printstop.co.in)<br>
+	15 A/1 Sindhi Colony, Opp SIES College, Sion (W),<br>
+	Mumbai 400 022, Maharashtra, INDIA.</span></p>
+<p>
+	&nbsp;</p>
+<p>
+	<span class="design_guidetext">If our information practices change in the future, we will let you know by posting the policy changes on our Web site or by communicating directly with you. We will notify you of any such change before we use your information in a manner not previously disclosed in our privacy policy. You will have the opportunity at that time to opt out of any new use of your information.<br>
+	<br>
+	</span></p>
+<h2>
+	<span class="design_guidetext">WHAT WE COLLECT</span></h2>
+<p>
+	<span class="design_guidetext"><br>
+	We collect information (such as your name, email address, mailing address, phone and credit card numbers) that you provide when you place an order, save your information with us or participate in a contest, promotion or survey. We also maintain a record of your product interests and your purchases online and in our stores. All the information we collect is given to thrid parties ONLY if they are involved in completing your order.<br>
+	<br>
+	</span></p>
+<h2>
+	<span class="design_guidetext">HOW WE USE YOUR INFORMATION</span></h2>
+<p>
+	<span class="design_guidetext"><br>
+	When you make an online purchase from PrintStop India Pvt Ltd, we use your information to process your order. We will also send you emails to confirm your order, and we may need to contact you via phone, postal mail or email if we have other questions regarding your order. In addition, you will be automatically signed up to receive email updates about our products, services, contests, and promotions.<br>
+	<br>
+	When you save your information with PrintStop India Pvt Ltd, you will also be automatically signed up to receive email updates. If you participate in a contest or promotion (online or over the phone), you may choose to receive email updates about our products, services, contests, and promotions.<br>
+	<br>
+	If at any time you would like us to remove you from our email or postal mailing lists, feel free to contact PrintStop India Pvt Ltd customer service at store@printstop.co.in</span><span class="design_guidetext">. Please be sure to include full name and any other relevant information. If you have previously asked to be removed from our email list, we will not sign you up for email updates if you place an order over the Internet. Please note that it may take up to 8 weeks to remove your from our list.<br>
+	<br>
+	From time to time, we may also send you emails to help us learn more about your shopping preferences. In addition, we may use information about your product interests and purchases to help us improve our site design and your shopping experience. If you make a purchase online or over the phone, we may also send you notices about our products, services, contests and promotions through postal mail.<br>
+	<br>
+	To serve you better, we may combine information you give us online and in our stores as well as information about your product interests and purchases. In addition, we may combine information you provide with demographic information that is publicly available. We use this combined information to enhance and personalize your shopping experience with us, and to communicate with you by email or postal mail about our products, services, contests, and promotions that may be of interest to you. If you do not want us to use your information as described above, please contact PrintStop India Pvt Ltd service by emailing store@printstop.co.in</span><br>
+	&nbsp;</p>
+<h2>
+	THIRD PARTY TRANSACTIONS</h2>
+<p>
+	<span class="design_guidetext"><br>
+	We contract with third parties to assist us in maintaining and managing our customer information to fulfill promotions and to communicate with our customers. We do not authorize any of those third parties to make any other use of your information.<br>
+	<br>
+	In addition, when we team up with another company to offer or provide products, services, contests or promotions, we and the other company may cross-reference our customer databases to identify common customers. We and the other company may use that existing information to identify future promotional opportunities and to fulfill promotional or contractual obligations. When we offer contests and promotions, or join with other companies to do so, customers who choose to participate in those contests and promotions may be asked to provide personal information to participate. That information may then be used by us and any company offering the contest or promotion to notify winners or to fulfill promotional obligations.<br>
+	<br>
+	If prior to participating in a contest or promotion, you opted not to receive information from us, you may still receive information from or about PrintStop India Pvt Ltd in connection with the contest or promotion if you choose to participate in it. You may opt not to participate in these contests or promotions if you do not want to receive information about PrintStop India Pvt Ltd or share your information with us and the other companies sponsoring those contests or promotions.<br>
+	<br>
+	We also may share aggregate, non-personally identifiable information about you (such as age, gender, and types of products purchased) with our business partners to fulfill our contractual obligations. Except as described above, we do not share, rent or sell any information we collect online to any unaffiliated third party.<br>
+	<br>
+	</span></p>
+<h2>
+	<span class="design_guidetext">ACCESSING YOUR INFORMATION</span></h2>
+<p>
+	<span class="design_guidetext"><br>
+	To access your information online, simply click the ACCOUNT link to sign in, and then choose the appropriate section to review, edit, or delete your personal information. Please note that any requests to change the frequency that we send email updates to you may take up eight weeks.<br>
+	<br>
+	If at any time you would like us to remove you from our email or postal mailing lists or if you do not want us to use your information to enhance your shopping experience, feel free to contact PrintStop India Pvt Ltd customer service via email at store@printstop.co.in. </span><span class="design_guidetext">Please be sure to include your email address and full name.<br>
+	<br>
+	</span></p>
+<h2>
+	<span class="design_guidetext">REMOVING YOURSELF FROM MAILOUTS</span></h2>
+<p>
+	<span class="design_guidetext"><br>
+	We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us, either through email, postal mail or by phone, please let us know by sending us an email at store@printstop.co.in</span><br>
+	<br>
+	<span class="design_guidetext">Please note that such requests may take up to six to eight weeks to become effective. In addition, if you ask us to remove your name and address from our email or postal mailing lists, we will maintain your name in a "do not mail" file to ensure that we can honor your request. Please also note that when you make a purchase, we will send you an email to confirm your order and may also need to contact you via phone, postal mail or email if we have other questions regarding your order.<br>
+	<br>
+	</span></p>
+<h2>
+	<span class="design_guidetext">CHILDREN'S PRIVACY</span></h2>
+<p>
+	<span class="design_guidetext"><br>
+	We at PrintStop India Pvt Ltd are concerned about the safety of children when they use the Internet. Consistent with the Children's Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent.<br>
+	<br>
+	If we become aware that a subscriber is under the age of 13 and has signed up without prior verifiable parental consent, we will remove his or her personally identifiable information from our files.<br>
+	<br>
+	</span></p>
+<h2>
+	<span class="design_guidetext">COOKIES</span></h2>
+<p>
+	<span class="design_guidetext"><br>
+	A cookie is a small data file that Web sites often store on your computer's hard drive when you visit their sites. A cookie may contain information (such as a unique user ID), that is used to track the pages of the sites you've visited. We use cookies but do not store personally identifiable information in your cookie.<br>
+	<br>
+	We use cookies in order to improve your shopping experience. When you visit PrintStop India Pvt Ltd, your cookie helps us keep track of your order as you shop at our site. If you have saved your information with us, your cookie allows us to recognize you when you return to our site and provides you with access to your account information. If you saved your information with or order from us, we also use cookies to monitor and maintain information about your use of our site. If you have not saved your information with or ordered from us, we may monitor and maintain information about your use of our Web site in a manner that does not identify you. In either case, this information helps us serve you better by improving our site design, as well as our products, services, contests, and promotions.<br>
+	<br>
+	We also use cookies to track and maintain the identity of the Web site you visited immediately prior to ours to further improve our site design and to fulfill contracts with our business partners. We do not otherwise track any information about your use of other Web sites.<br>
+	<br>
+	You can refuse cookies by turning them off in your browser. If you turn off cookies, though, we will not be able to track your order or enable you to make a purchase from our site. Nor will we be able to recognize you as a signed up user to allow you access to your account information.</span></p>
+	</div>
+</div>
+<div class="middle_inner_section">
+	<div class="content_text">
+		</div>
+</div>
+                </div>
+                <div id="middle_bottom_bg"></div>
+            </div>
+            			   <div id="footer_boxes">
+				 <div class="footer_box_container">
+				 	
+			        <a href="http://www.printstop.co.in/store.php">
+			        <div class="footer_box3">
+			        	<div class="footer_box3_icon">
+			            	<img alt="corporate letterhead printing	" src="http://www.printstop.co.in/themes/printstop/images/oneline_store_icon.png" width="47" height="49">
+			            </div>
+			            <div class="footer_box1_content">
+			            	<h2>Web Store</h2>
+			                <p></p>
+			            </div>
+			        </div>
+			        </a>
+			        <!--footer-box1-end-here-->
+			        <a href="http://www.printstop.co.in/retail.php">
+			        <div class="footer_box2">
+			        	<div class="footer_box2_icon">
+			            	<img alt="corporate digital printing" src="http://www.printstop.co.in/themes/printstop/images/our_location_icon.png" width="45" height="40">
+			            </div>
+			            <div class="footer_box2_content">
+			            	<h2>Retail Stores</h2>
+			                <p></p>
+			            </div>
+			        </div>
+			        </a>
+		            <!--footer-box2-end-here-->
+
+			      	<a href="http://www.printstop.co.in/corporate.php">
+			    	<div class="footer_box1">
+			        	<div class="footer_box1_icon">
+			            	<img alt="digital printing India" src="http://www.printstop.co.in/themes/printstop/images/corporate_solution_icon.png" width="39" height="36">
+			            </div>
+			            <div class="footer_box3_content">
+			            	<h2>Corporate Solutions</h2>
+			                <p></p>
+			            </div>
+			            
+			        </div>
+			        </a>
+			        <!--footer-box3-end-here-->
+			        <a href="http://www.printstop.co.in/design.php">
+			        <div class="footer_box4">
+			        	<div class="footer_box4_icon">
+			            	<img alt="digital printing Mumbai" src="http://www.printstop.co.in/themes/printstop/images/design_division_icon.png" width="49" height="50">
+			            </div>
+			            <div class="footer_box4_content">
+			            	<h2>Design Services</h2>
+			                <p></p>
+			            </div>
+			        </div>
+			        </a>
+			        <!--footer-box1-end-here-->
+			    </div>
+			</div>
+			        </div>
+        <!--<div class="middlecontent_bottom_bg">&nbsp;</div>-->
+    </div>
+    
+</div>
+<!--footer-start-->
+<div id="footer">
+	<div id="footer_link">
+    <div class="footer_block_middel">
+
+        <!--  MAHENDRA: Create Dynamic Footer and Remove Static :Start -->
+        <ul>
+<li><span>Products</span></li>
+<li class="nav-pop" id="FREEBusinessCards" data-url="/util/nav/FREEBusinessCards"><a name="FREE Business Cards" style="background:none;" href="http://www.printstop.co.in/p85/50-FREE-Business-Cards-(Single-Sided)/product_info.html" target="_self"><span class="down">FREE Business Cards</span></a></li>
+<li class="nav-pop" id="BusinessCards" data-url="/util/nav/BusinessCards"><a name="Business Cards" style="background:none;" href="http://www.printstop.co.in/p62/Business-Cards-(Single-Sided)/product_info.html" target="_self"><span class="down">Business Cards</span></a></li>
+<li class="nav-pop" id="Envelopes" data-url="/util/nav/Envelopes"><a name="Envelopes" style="background:none;" href="http://www.printstop.co.in/p5/Envelopes-(%2310)/product_info.html" target="_self"><span class="down">Envelopes</span></a></li>
+<li class="nav-pop" id="Brochures" data-url="/util/nav/Brochures"><a name="Brochures" style="background:none;" href="http://www.printstop.co.in/p7/Brochures/product_info.html" target="_self"><span class="down">Brochures</span></a></li>
+<li class="nav-pop" id="StandeeBanners" data-url="/util/nav/StandeeBanners"><a name="Standee Banners" style="background:none;" href="http://www.printstop.co.in/p77/Banners-with-Stands/product_info.html" target="_self"><span class="down">Standee Banners</span></a></li>
+<li class="nav-pop" id="Andmuchmore..." data-url="/util/nav/Andmuchmore..."><a name="And much more ..." style="background:none;" href="http://www.printstop.co.in/product_list.html" target="_self"><span class="down">And much more ...</span></a></li>
+</ul>
+        <ul>
+<li><span>Verticals</span></li>
+<li class="nav-pop" id="WebStore" data-url="/util/nav/WebStore"><a name="Web Store" style="background:none;" href="http://www.printstop.co.in/store.php" target="_self"><span class="down">Web Store</span></a></li>
+<li class="nav-pop" id="RetailStores" data-url="/util/nav/RetailStores"><a name="Retail Stores" style="background:none;" href="http://www.printstop.co.in/retail.php" target="_self"><span class="down">Retail Stores</span></a></li>
+<li class="nav-pop" id="CorporateSolutions" data-url="/util/nav/CorporateSolutions"><a name="Corporate Solutions" style="background:none;" href="http://www.printstop.co.in/corporate.php" target="_self"><span class="down">Corporate Solutions</span></a></li>
+<li class="nav-pop" id="DesignServices" data-url="/util/nav/DesignServices"><a name="Design Services" style="background:none;" href="http://www.printstop.co.in/design.php" target="_self"><span class="down">Design Services</span></a></li>
+<li class="nav-pop" id="AffiliateProgram" data-url="/util/nav/AffiliateProgram"><a name="Affiliate Program" style="background:none;" href="http://www.printstop.co.in/themes/cms/main_html/affiliateenquiry.html" target="_self"><span class="down">Affiliate Program</span></a></li>
+</ul>
+        <ul>
+<li><span>Support</span></li>
+<li class="nav-pop" id="ContactUs" data-url="/util/nav/ContactUs"><a name="Contact Us" style="background:none;" href="http://www.printstop.co.in/themes/cms/main_html/contact_us.html" target="_self"><span class="down">Contact Us</span></a></li>
+<li class="nav-pop" id="MyAccount" data-url="/util/nav/MyAccount"><a name="My Account" style="background:none;" href="http://www.printstop.co.in/user_account.php" target="_self"><span class="down">My Account</span></a></li>
+<li class="nav-pop" id="MyOrders" data-url="/util/nav/MyOrders"><a name="My Orders" style="background:none;" href="http://www.printstop.co.in/user_order.php" target="_self"><span class="down">My Orders</span></a></li>
+<li class="nav-pop" id="ChangePassword" data-url="/util/nav/ChangePassword"><a name="Change Password" style="background:none;" href="http://www.printstop.co.in/user_changepassword.php" target="_self"><span class="down">Change Password</span></a></li>
+</ul>
+        <ul>
+<li><span>Quick Links</span></li>
+<li class="nav-pop" id="FAQs" data-url="/util/nav/FAQs"><a name="FAQs" style="background:none;" href="http://www.printstop.co.in/cms/faq.html" target="_self"><span class="down">FAQs</span></a></li>
+<li class="nav-pop" id="PrivacyPolicy" data-url="/util/nav/PrivacyPolicy"><a name="Privacy Policy" style="background:none;" href="http://www.printstop.co.in/cms/privacy_policy.html" target="_self" class="act"><span class="down">Privacy Policy</span></a></li>
+<li class="nav-pop" id="Terms&amp;Conditions" data-url="/util/nav/Terms&amp;Conditions"><a name="Terms &amp; Conditions" style="background:none;" href="http://www.printstop.co.in/cms/terms_of_use.html" target="_self"><span class="down">Terms &amp; Conditions</span></a></li>
+<li class="nav-pop" id="KnowledgeCenter" data-url="/util/nav/KnowledgeCenter"><a name="Knowledge Center" style="background:none;" href="http://www.printstop.co.in/themes/cms/main_html/knowledge_center.html" target="_self"><span class="down">Knowledge Center</span></a></li>
+<li class="nav-pop" id="SiteMap" data-url="/util/nav/SiteMap"><a name="Site Map" style="background:none;" href="http://www.printstop.co.in/cms/sitemap.html" target="_self"><span class="down">Site Map</span></a></li>
+</ul>
+        <!--  MAHENDRA: Create Dynamic Footer and Remove Static :End -->
+
+        <div class="footer-payment-col">
+            <ul>
+            	<li><span>We accept</span></li>
+                <li><img alt="" src="/themes/cms/images/payment_option_img.png" width="61" height="20"></li>
+            </ul>
+            <a href=""><img alt="print stop logo" src="/themes/cms/images/logo.png" width="114" height="70" id="footerlogo"></a>
+            
+        </div>
+
+        <!-- Begin MailChimp Signup Form -->
+        <div id="mailchimp">
+            <div id="mc_embed_signup">
+                <form action="http://printstop.us1.list-manage.com/subscribe/post?u=23f839a171f56294b6f7bf4e1&amp;id=9f82728ad7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+                    <label for="mce-EMAIL">Subscribe to our mailing list</label>
+                	<input type="email" value="email address" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required="">
+                	<input type="submit" value="" name="subscribe" id="mc-embedded-subscribe" class="button">
+                </form>
+            </div>
+        </div>
+        <!--End mc_embed_signup-->
+      
+        
+        <div class="footer-social-col">
+            <ul>
+            	<!--<li><a href="http://www.linkedin.com" target="_blank" id="linkedin">Linkedin</a></li>-->
+                <li><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.printstop.co.in" data-text="Now order your prints online @" data-via="prnstp" data-count="none">Tweet</a></li>
+                <li><a href="http://www.google.com" target="_blank"><img alt="" src="/themes/cms/images/google_plus_img.png" width="53" height="19"></a></li>
+				<li style="width:40px;"><a href="http://pinterest.com/pin/create/button?url=http%3A%2F%2Fwww.printstop.co.in&amp;media=http%3A%2F%2Fhttp%3A%2F%2Fstore.printstop.co.in%2Ftemplates%2Fprintstop%2Fimages%2Flogo.png&amp;description=Now%20order%20your%20prints%20online%20%40%20www.printstop.co.in" class="pin-it-button" count-layout="horizontal"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It"></a></li>
+            	<!--<li><a href="http://www.facebook.com" target="_blank" id="facebook">Facebook</a></li>-->
+            	<li style="width:41px;"><div class="fb-like" data-href="http://www.facebook.com/printstop" data-send="false" data-layout="button_count" data-width="41" data-show-faces="false" data-font="tahoma"></div></li>
+                <!--<li><a href="http://www.twitter.com" target="_blank" id="twitter">Twitter</a></li>-->
+            </ul>
+        </div>
+	</div>
+</div>
+<div id="footer_copyright">
+	Copyright ©2012 - 2015 PrintStop. All Rights Reserved.</div>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>	
+</div>
+<!--footer-end-->
+<!-- Main End -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8637826-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- WebEngage: START -->
+<script type="text/javascript" async="" src="//ssl.widgets.webengage.com/js/widget/webengage-min-v-3.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
+  window.webengageWidgetInit = window.webengageWidgetInit || function(){
+    webengage.init({
+      licenseCode:"311c476a"
+    }).onReady(function(){
+      webengage.render();
+    });
+  };
+
+  (function(d){
+    var _we = d.createElement('script');
+    _we.type = 'text/javascript';
+    _we.async = true;
+    _we.src = (d.location.protocol == 'https:' ? "//ssl.widgets.webengage.com" : "//cdn.widgets.webengage.com") +
+              "/js/widget/webengage-min-v-3.0.js";
+    var _sNode = d.getElementById('_webengage_script_tag');
+    _sNode.parentNode.insertBefore(_we, _sNode);
+  })(document);
+</script>
+<!-- WebEngage: END -->
+
+</body></html>
