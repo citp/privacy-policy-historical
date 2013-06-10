@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 4up.im privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024101646id_/http%3A//4up.im/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4up.im privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611005435id_/http%3A//4upfiles.com/privacy_policy.html) for the most accurate reproduction.*
 
-# 4Up - Easy way to share your files
+# 4upfiles | Cloud Storage Service
+
+### 4up.me Website Privacy Policy
 
 Thank you for visiting the 4up.me website located at www.4up.me (the "Site"). The Site is an Internet property of 4up.me Ltd. and its affiliated companies ("4up.me," "we" or "us"). This 4up.me Website Privacy Policy ("Privacy Policy") covers our treatment of Personal Information (as defined hereinbelow) and other information that we collect when you: (a) access or use the Site; (b) become a Member (as defined in the 4up.me Website Terms and Conditions ("Terms and Conditions")); and/or (c) use the Services (as defined in the Terms and Conditions). It is important that visitors are fully informed about the use of their Personal Information. We believe in 100% permission-based marketing.
 
