@@ -1,30 +1,33 @@
-> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922232959id_/http%3A//www.audiosparx.com/sa/privacy/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610084009id_/https%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # AudioSparx Privacy Policy
 
-sound effects on itunes,  
-audio clips sound effects,  
-special effect sounds,  
-free sound fx ringtones,  
-thunder and rain sound effects,  
-free sound effects gulls,  
-dun dun dun sound clip,  
-sound of throwing horse shoes,  
-buy sound effects for making videos,  
-free bruce lee sound effects,  
-thunder sound effects,  
-motorbike sound effects,  
-power point sound effects people,  
-hammer sound effects,  
-gear animation sounds,  
-sound effects flicker on,  
-planet exploding sound effect,  
-fx,  
-royal fam theme music sound fx,  
-audio wav files 
+flashkit com soundfx,  
+infografia multimedia internet,  
+ambience sound effects,  
+alert sounds,  
+parasaurolophus sounds,  
+free telephone ring sound effect,  
+star trek sound wav,  
+fire alarm sound,  
+piercing thunder and winds sound effect,  
+search pacman sounds,  
+castanet sound effects,  
+free sounds clips,  
+human body sound effects,  
+supercar engine sounds,  
+rolling rock sound effect,  
+angelic sound effect free,  
+free wav sound,  
+sounds wav files,  
+free sample sounds downloads,  
+wav video clips 
 
 | 
 
+|   
+---  
+  
 **Privacy Policy of AudioSparx  **
 
 We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. **By visiting us, you are accepting the privacy policy described below.**
@@ -99,30 +102,28 @@ We know that you care how your information is used, and we appreciate your trust
 
 > We reserve the right to modify this policy in the future.
 
-*************************************
-
+*************************************  
   
-[](http://www.audiosparx.com/)
+  
 
-| 
 
-downloading audio sounds,  
-sound effects music,  
-soundclips,  
-counter bell sound effect,  
-howling wind sound effect free,  
-free news sound effects download,  
-media frenzy sound effects,  
-game show sound effects,  
-shot gun bangs sound effect,  
-odometer sound fx,  
-free sound effects of little girl crying,  
-smoke and cough wav sounds,  
-download robot sound effects,  
-ship crashing sound effect,  
-sound effect paint brush,  
-free bees sound effect,  
-free downloads sounds,  
-video sound effects,  
-portal wav files,  
-sound effect browser 
+scary audio sound clips,  
+the movie sounds,  
+barbera sound effects,  
+explosion sound effects,  
+hippo mating call sounds,  
+predator sound sounds,  
+sound effects with no download,  
+free downloadable cymbal sounds,  
+tasmanian waterfalls sound effect,  
+sound effect cine projector,  
+sound fxs free,  
+bicycle bell sound effect,  
+new noise,  
+tango feet sound fx,  
+police siren sounds down loads,  
+birds sounds,  
+battle sound effects free download,  
+open wav files,  
+sound effects boards,  
+sound fx 
