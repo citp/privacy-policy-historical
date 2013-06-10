@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btplc.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221143638id_/http%3A//www.btplc.com/privacypolicy/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btplc.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610172313id_/http%3A//www.btplc.com/privacypolicy/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -296,6 +296,3 @@ BT is committed to proactively developing and sustaining positive measures that 
 The company is not responsible for the verification of data provided and shall not be liable for any errors, factual, transcription or otherwise, contained in the information posted.
 
 Back to top 
-
-  
-
