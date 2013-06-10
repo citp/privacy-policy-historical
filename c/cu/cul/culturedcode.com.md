@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culturedcode.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915034224id_/http%3A//culturedcode.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturedcode.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611013302id_/http%3A//culturedcode.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Cultured Code
 
@@ -11,7 +11,7 @@ Personal information is data that can be used to uniquely identify or contact a 
 Here are some examples of personal information that we collect:
 
   * When you create a Things Cloud Account, we ask you for your email address.
-  * When using Things Cloud to update your to-dos, we keep logs of the time and device you used to access the service.
+  * When using Things Cloud to update your to-dos, we store the content of your to-dos, and we keep logs of the time and device you used to access the service.
   * When you subscribe to any of our newsletters or forums, we also ask for your email address; in some cases we may ask for additional information.
   * You may optionally provide personal information like your name when using certain parts of our website (e.g. when participating in our forums); in this case we permanently store and display this information to other visitors of the website.
   * When you contact Cultured Code, e.g. for a support request, we may keep a record of your communication.
@@ -28,8 +28,8 @@ Non-personal information is data that cannot be used to uniquely identify a spec
 
 Here are some examples of non-personal information that we collect – either by ourselves or through the use of third-party services:
 
-  * When you visit our website, we keep logs of your Internet Protocol (IP) address, browser type and language, referring and exit pages, operating system and date/time stamp. Currently, we also use Google Analytics to collect and process this information; please refer to the section “Google Analytics” below. If you’d like to opt out of this logging, please click here.
-  * When our Software crashes, we collect and store crash reports to help us analyze the crash and determine the source of the problem. We currently use HockeyApp to collect and process crash reports; please read their Privacy Policy here.
+  * When you visit our website, we keep logs of your Internet Protocol (IP) address, browser type and language, referring and exit pages, operating system and date/time stamp. Currently, we also use Google Analytics to collect and process this information; please refer to the section “Google Analytics” below. If you’d like to opt out of this logging, please click [here](https://tools.google.com/dlpage/gaoptout).
+  * When our Software crashes, we collect and store crash reports to help us analyze the crash and determine the source of the problem. We currently use HockeyApp to collect and process crash reports; please read their Privacy Policy [here](http://www.hockeyapp.net/privacy).
   * Our Software periodically checks our servers for important updates or notices; in this case, we also log the IP address, device type, language, operating system and the date and time of the request.
 
 
@@ -54,7 +54,7 @@ Your personal information is retained for as long as it is necessary in order to
 
 We don’t share personal information with anyone outside of Cultured Code, except for the few exceptions below.
 
-We work together with other companies who provide services to us, like hosting our website, providing our help desk software, sending out newsletters, analyzing our website traffic, hosting our cloud services, etc.. We only share personal information with these companies if it is necessary for them to provide their services. All companies we work with are required to protect your information.
+We work together with other companies who provide services to us, like hosting our website, providing our help desk software, sending out newsletters, analyzing our website traffic, hosting our cloud services, etc.. We only share personal information with these companies if it is necessary for them to provide their services. All companies we work with provide at least industry standard systems and processes to ensure the security and confidentiality of your information.
 
 We also share personal information if disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process or enforceable governmental request; to enforce applicable Terms of Service, including investigation of potential violations thereof; to detect, prevent, or otherwise address fraud or security issues; and to protect against harm to the rights, property or safety of Cultured Code, its users or the public as required or permitted by law.
 
@@ -74,7 +74,7 @@ Please note that some of our servers may be located outside of the European Unio
 
 ## Children
 
-We do not knowingly collect personal information from children under 13. If we learn that we have collected personal information from a child under 13, we will promptly delete this information. Parents or guardians can contact us at [privacy@culturedcode.com](mailto:privacy@culturedcode.com).
+We do not knowingly collect personal information from children under 13. If we learn that we have collected personal information from a child under 13, we will promptly delete this information. Parents or guardians can contact us at [privacy@culturedcode.com](mailto:privacy@culturedcode.com?subject=Privacy%20Policy%20Inquiry).
 
 ## 3rd Party Sites and Services
 
@@ -84,6 +84,6 @@ Cultured Code’s website or any of our services may contain links to third-part
 
 Our Privacy Policy may change from time to time. When we change the policy, we will post the changes on this page, and, if the policy changes in a significant way, we will also provide a prominent notice (e.g. on our website).
 
-If you have any questions regarding our Privacy Policy, please contact us at [privacy@culturedcode.com](mailto:privacy@culturedcode.com).
+If you have any questions regarding our Privacy Policy, please contact us at [privacy@culturedcode.com](mailto:privacy@culturedcode.com?subject=Privacy%20Policy%20Inquiry).
 
-Last modified: August 9, 2012
+Last modified: October 23, 2012
