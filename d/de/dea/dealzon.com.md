@@ -1,15 +1,23 @@
-> *The following text is extracted and transformed from the dealzon.com privacy policy that was archived on 2012-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120914224522id_/http%3A//dealzon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealzon.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610172843id_/http%3A//www.dealzon.com/privacy) for the most accurate reproduction.*
 
 # Dealzon Privacy Policy
 
 Don't miss the best deals!
 
-Get our members-only deal newsletter - Free Signup
+Join our newsletter and we'll send you the stuff, including...
 
-We hunt for the best tech deals every day, for you!
+  * free Amazon credits
+  * rare discounted iTunes gift cards
+  * ridiculous laptop and gaming sales
+
+
+
+your email will never be shared or sold
+
+Black Friday, Cyber Monday, and other made up days... we're on top of them!
 
   
-
+Our deals have been featured in...
 
 Loading....
 
