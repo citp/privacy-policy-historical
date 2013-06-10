@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the cruisesonly.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130232144id_/http%3A//www.cruisesonly.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisesonly.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610180327id_/http%3A//www.cruisesonly.com/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](http://www.cruisesonly.com/)
-
-[](http://www.rooms.com/)
 
 |   
 ---  
