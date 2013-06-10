@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the dwidigitalcameras.com.au privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915003342id_/http%3A//www.dwidigitalcameras.com.au/help/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwidigitalcameras.com.au privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610180511id_/http%3A//www.dwidigitalcameras.com.au/astore/Privacy-Policy-W76.aspx) for the most accurate reproduction.*
 
-# Digital World International - Privacy Policy
+# Privacy Policy Digital World International
+
+[Home](http://www.dwidigitalcameras.com.au/astore/Default.aspx "Go back to the home page") > [Frequently Asked Questions](http://www.dwidigitalcameras.com.au/astore/FAQ-Help.aspx "Go back to Frequently Asked Questions") > [Terms and Conditions](http://www.dwidigitalcameras.com.au/astore/Terms-and-Conditions.aspx "Terms and Conditions") > **Privacy Policy**
+
+## Privacy Policy
 
 This is a privacy policy for http://www.dwidigitalcameras.com.au
 
@@ -9,7 +13,7 @@ This is a privacy policy for http://www.dwidigitalcameras.com.au
 Our homepage on the Internet is located at http://www.dwidigitalcameras.com.au
 
 Privacy Policy Supervisor  
-Digital World International Limited, PO BOX No. 42  
+Digital World International, PO BOX No. 42  
 Fo Tan Post Office  
 Hong Kong 
 
