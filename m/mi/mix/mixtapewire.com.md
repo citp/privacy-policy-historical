@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixtapewire.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184534id_/http%3A//mixtapewire.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixtapewire.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611001748id_/http%3A//mixtapewire.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Mixtapewire Privacy Policy | MixtapeWIRE.com
 
@@ -25,9 +25,12 @@ Limited information is supplied to www.Mixtapewire.com in the event of a sale. T
 
 **Report Problem or Broken Link MixtapeWIRE** | [***Submit Your Mixtape***](http://mixtapewire.com/mixtape-submission/)
 
-**MixtapeWIRE Download Link** via mediafire, hulkshare, sharebeast or zippyshare.com: 
+**MixtapeWIRE DL Link** via mediafire, sharebeast or zippyshare.com: 
 
-Stream and preview songs below: 
+Preview songs below: 
 
 >   
 > 
+
+  
+
