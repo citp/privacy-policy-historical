@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the terrydean.org privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228154003id_/http%3A//www.mymarketingcoach.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terrydean.org privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610114320id_/http%3A//www.mymarketingcoach.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Marketing Coach
+# Privacy Policy | Terry Dean
 
 Last Updated: January 31, 2012
 
@@ -36,7 +36,7 @@ Contacting Us.
 
 We can be reached by contacting:
 
-Website: [Please use this contact form ](https://web.archive.org/web/20121228154003id_/http%3A//support)
+Website: [Please use this contact form ](https://web.archive.org/web/20130610114320id_/http://www.mymarketingcoach.com/support)
 
 Mail: MyMarketingCoach, LLC., 20390 SW 57th Street, Dunnellon, FL 34431
 
