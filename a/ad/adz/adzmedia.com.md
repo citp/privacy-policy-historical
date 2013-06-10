@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the adzmedia.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205172624id_/http%3A//www.adzmedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzmedia.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610192130id_/http%3A//adzmedia.com/privacy.html) for the most accurate reproduction.*
 
-# Global Mobile Ad Network - AdzMedia.Com
+# AdzMedia.Com | Global Mobile Ad Network | Mobile AdNetwork | Mobile Advertising | Mobile Advertising and Publishing Platform | Apps Advertising and Publishing Platform | InApp Ads | Apps Ads | Mobile Ads | CPC Ads | CPI Ads | CPM Ads | CPA Ads | CPL Ads | CPS Ads | Geo Location Based Advertising | Operator Based Advertising | Tablet Advertising
+
+### Privacy
 
 ## Collection of Data
 
