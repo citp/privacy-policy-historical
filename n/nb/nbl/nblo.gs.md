@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nblo.gs privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225030515id_/http%3A//www.networkedblogs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nblo.gs privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610234316id_/http%3A//www.networkedblogs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NetworkedBlogs by Ninua
 
-### Last updated on Feb. 2nd, 2010
+### Last updated on Jan. 25th, 2012
 
 NetworkedBlogs provides blogging-enthusiasts a forum to connect with their readers and the wider blogging community. You do not need to be logged-in to NetworkedBlogs in order to take advantage of the many features that NetworkedBlogs and NetworkedBlogs-enabled sites have to offer, however, certain areas of the NetworkedBlogs site will require you be logged-in to NetworkedBlogs.
 
@@ -39,6 +39,13 @@ NetworkedBlogs provides blogging-enthusiasts a forum to connect with their reade
   * If you wish to edit your email preferences, please visit the "email preferences" section of the NetworkedBlogs app.
 
 
+
+## Cookies
+
+We use cookies on this website and on widgets that bloggers can take from this website and install on their own sites or blogs. Cookies are small text files created by a web server, delivered through a web browser, and stored on your computer. They provide a means for websites that you visit to keep track of online patterns and preferences, as well as to identify return visitors. Cookies make the personalization of your web experiences possible, so that you do not need to re-enter your information each time you visit a website.   
+If you login to the members-only section of our site, we set a cookie to allow you to navigate those pages. We also serve cookies to help us anonymously track web traffic, as described above.   
+In addition, this website and NAI member companies might serve cookies via this website and via widgets that bloggers install on their blogs, as part of an opt-out process. To enable a consumer to opt out of OBA by a member company, the member company must set an "opt-out cookie" on the consumer's browser. Please note that if you delete any opt-out cookies obtained using the NAI opt-out page, such as by clearing all cookies in your browser, you will need to return to the opt-out page to renew your choices. However, the NAI offers a tool that helps to preserve your opt-out cookies and prevent them from being deleted. To learn more about how our opt-out process works, [click here](http://www.networkadvertising.org/choices).   
+You have the ability to manage the use of cookies on your computer using controls in your browser. To learn more about how to manage cookies, visit <http://www.allaboutcookies.org/>. 
 
 ## Other
 
