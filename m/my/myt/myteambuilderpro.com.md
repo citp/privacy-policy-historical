@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myteambuilderpro.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123015843id_/http%3A//myteambuilderpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myteambuilderpro.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610020443id_/http%3A//myteambuilderpro.com/privacy.php) for the most accurate reproduction.*
 
 # MyTeamBuilderPro
 
   
 Recommended  
-[](http://myteambuilderpro.com/bannerclick.php?id=21)
+[](http://myteambuilderpro.com/bannerclick.php?id=58)
 
 MyTeamBuilderPro Privacy Policy
 
