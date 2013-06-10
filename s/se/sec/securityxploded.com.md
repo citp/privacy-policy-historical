@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securityxploded.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securityxploded.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611010613id_/http%3A//securityxploded.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.SecurityXploded.com
 
@@ -42,14 +42,26 @@ The data collected from feedback program is not stored anywhere except that feed
   
 |  Final Note   
 ---  
-If you believe that information presented above is incorrect or incomplete, please write to the Author through our [Feedback form](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/sitefeedback.php). Author will be more than happy to address any of your concerns or issues.  
+If you believe that information presented above is incorrect or incomplete, please write to the Author through our [Feedback form](https://web.archive.org/web/20130611010613id_/http%3A//securityxploded.com/sitefeedback.php). Author will be more than happy to address any of your concerns or issues.  
 |    
 ---  
-| New Tool [»  ](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/tools.php)  
+| Fresh Hacking News [»  ](http://securityphresh.com/)  
 ---  
-[](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/product-key-decryptor.php)
+[](http://securityphresh.com/)
 
-Product Key Decryptor v1.0  
+Get Latest Security & Hacking News  
+  
+| New Tool [»  ](https://web.archive.org/web/20130611010613id_/http%3A//securityxploded.com/tools.php)  
+---  
+[](https://web.archive.org/web/20130611010613id_/http%3A//securityxploded.com/dll-magic.php)
+
+DLL Magic v1.0  
+  
+| Grand Spring SALE [»  ](http://netcertscanner.com/)  
+---  
+[](http://netcertscanner.com/)
+
+Get upto 50% OFF on Enterprise NetCertScanner  
   
 | 5 Million Downloads [»  ](http://bit.ly/SJANF5)  
 ---  
@@ -57,29 +69,11 @@ Product Key Decryptor v1.0
 
 Five Million Downloads of Our Tools  
   
-| Latest Tool [»  ](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/tools.php)  
+| Security Training  
 ---  
-[](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/thunderbirdpassdecryptor.php)
+[](https://web.archive.org/web/20130611010613id_/http%3A//securityxploded.com/security-training.php)
 
-Thunderbird Pass Decryptor v2.5  
-  
-| Latest Article [»  ](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/research.php)  
----  
-[](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/wifi-password-secrets.php)
-
-Exposing the WiFi Password Secrets  
-  
-| SecurityPhresh News [»  ](http://securityphresh.com/)  
----  
-[](http://securityphresh.com/)
-
-All Security & Hacking News in One Place  
-  
-| Grand Christmas SALE [»  ](http://netcertscanner.com/)  
----  
-[](http://netcertscanner.com/)
-
-This Christmas, Save up to $150 on Your NetCertScanner  
+Our Free Advanced Malware Analysis Training Series  
   
 | SX Alexa Toolbar [»  ](https://s3.amazonaws.com/com.alexa.toolbar/atbp/eal1Rz/download/index.htm)  
 ---  
@@ -87,15 +81,15 @@ This Christmas, Save up to $150 on Your NetCertScanner
 
 Install New SecurityXploded Alexa toolbar to stay Fresh & Smart...  
   
-| Testimonials [»  ](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/testimonials.php)  
+| Testimonials [»  ](https://web.archive.org/web/20130611010613id_/http%3A//securityxploded.com/testimonials.php)  
 ---  
-[](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/testimonials.php)
+[](https://web.archive.org/web/20130611010613id_/http%3A//securityxploded.com/testimonials.php)
 
 "I have found 'SecurityXploded' tools to be an invaluable asset in many of our Forensic Investigations..."  
 \- James, Police Dept, Delaware, USA  
   
-| Awards [»  ](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/awards.php)  
+| Awards [»  ](https://web.archive.org/web/20130611010613id_/http%3A//securityxploded.com/awards.php)  
 ---  
-[](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/awards.php)
+[](https://web.archive.org/web/20130611010613id_/http%3A//securityxploded.com/awards.php)
 
 Awards for our softwares from leading Download Sites
