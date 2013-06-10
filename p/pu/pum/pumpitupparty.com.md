@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pumpitupparty.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114065328id_/http%3A//pumpitupparty.com/pp-page.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pumpitupparty.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610190628id_/http%3A//pumpitupparty.com/pp-page.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Pum It Up
 
