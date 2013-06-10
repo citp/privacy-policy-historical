@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the candymag.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115094629id_/http%3A//www.candymag.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candymag.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611014011id_/http%3A//www.candymag.com/about/privacy) for the most accurate reproduction.*
 
-# Every Filipina Teen's Best-est Friend Online | CandyMag.com
+# Every Filipina Teen's Best-est Friend Online | Every Filipina Teen's Best-est Friend Online | CandyMag.com
 
-**OUR PRIVACY POLICY**  
 At Candymag.com, we are committed to protecting your privacy. All the personal information you share with us is used strictly to enhance your Candymag.com experience. If you participate in contests or promotional features, only demographic information will be reported to the sponsors unless you stated your interest in receiving more information from the sponsors. 
 
 This document will shed light on all your questions about your activities on Candymag.com. Please read on for more details about our privacy policy. 
@@ -78,7 +77,7 @@ You may update or change information related to your Candymag.com personal membe
 to the top
 
 **IN SUMMARY**  
-We are committed to protecting your privacy. We use the information we collect on the site to enhance your Candymag.com experience. We do not sell, trade, or rent your personal information to others. We share your personal information only to trustworthy sponsors if you indicate that you wish to receive information from them. We release demographics and aggregate statistics only to trustworthy third parties. If you never want to receive any announcements or special offers from us, visit your personal Member Profile page to change your preferences. Remember to change your preferences for each of the email accounts you have given us. 
+We are committed to protecting your privacy. We use the information we collect on the site to enhance your Candymag.com experience. We do not sell, trade, or rent your personal information to others. We share your personal information only to trustworthy sponsors if you indicate that you wish to recieve information from them. We release demographics and aggregate statistics only to trustworthy third parties. If you never want to receive any announcements or special offers from us, visit your personal Member Profile page to change your preferences. Remember to change your preferences for each of the email accounts you have given us. 
 
   
 to the top
