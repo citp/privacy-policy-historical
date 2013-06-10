@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the youclubvideo.com privacy policy that was archived on 2012-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120830064928id_/http%3A//www.youclubvideo.com/static_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youclubvideo.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611002032id_/http%3A//www.alltimeclubbing.com/static_privacy.php) for the most accurate reproduction.*
 
-# Privacy - YouClubVideo
+# Privacy - AllTimeClubbing
 
-Privacy Statement for www.youclubvideo.com incl. Sub-pages
+Privacy Statement for www.alltimeclubbing.com incl. Sub-pages 
 
 An Operator refers to the person, company or corporation represented by a person, company or corporation that is designated on the contact page of this Website. 
 
@@ -15,12 +15,10 @@ This document is the Privacy Statement for using the Operator's Website. The Ope
 **What is considered personal data?**
 
 As personal data the Operator refers to the information related to your identity, such as your name, email or postal address.   
-
-
+  
 **Disclosure to Third Party(s)**
 
-All data transmitted to the operator are expressly treated as confidential! In principle the Operator will not make such data available to any other parties unless you have approved such action or the Operator is obligated to disclose such data to comply with a legal obligation as for instance a court order. 
-
+All data transmitted to the operator are expressly treated as confidential! In principle the Operator will not make such data available to any other parties unless you have approved such action or the Operator is obligated to disclose such data to comply with a legal obligation as for instance a court order.   
   
 **For what purposes does the operator use these data?**
 
