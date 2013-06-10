@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mailtrap.io privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225155438id_/http%3A//mailtrap.io/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailtrap.io privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611004943id_/http%3A//mailtrap.io/pages/privacy) for the most accurate reproduction.*
 
-# Mailtrap - perfect service for debugging your application's e-mail notifications
+# Mailtrap - Privacy
 
 Privacy Policy
 
@@ -21,6 +21,10 @@ Railsware, LLC ensures that all email addresses, files, and data remain private 
 ### Information Security
 
 We restrict access to personal information to Railsware employees, contractors and agents who need to know that information in order to operate, develop or improve our service. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+### Testimonials
+
+We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at [support@mailtrap.io](mailto:support@mailtrap.io)
 
 ### Changes
 
