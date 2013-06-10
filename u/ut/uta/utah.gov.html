@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the utah.gov privacy policy that was archived on 2012-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016064749id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the utah.gov privacy policy that was archived on 2013-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610193350id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	    <title>Privacy Policy - Utah.gov</title>
@@ -14,7 +14,13 @@
 			<link rel="search" type="application/opensearchdescription+xml" href="http://www.utah.gov/xml/search.xml" title="Utah.gov Statewide Search">			
 			<link rel="stylesheet" type="text/css" href="/shared-content/css/accessibility/default.css" id="switchable">	
 			<link rel="stylesheet" href="(none)" type="text/css" media="screen" title="no title">
+			<!--[if IE 7]><link rel="stylesheet" href="/shared-content/css/ie7.css" type="text/css" media="screen"/><![endif]-->
+		    <!--[if IE 8]><link rel="stylesheet" href="/shared-content/css/ie8.css" type="text/css" media="screen"/><![endif]-->
 
+			<!-- Custom Fonts for Glyphs -->
+			<script src="/css/lte-ie7.js" type="text/javascript" charset="utf-8"></script>		
+			<link rel="stylesheet" href="/css/icons.css" type="text/css" media="screen" title="no title" charset="utf-8">
+			
 			
             <noscript><link rel="stylesheet" type="text/css" href="/css/noscript.css" /></noscript>
 			<!--[if lte IE 6]><link rel="stylesheet" href="/shared-content/css/ie6.css" type="text/css" media="screen"/><![endif]-->
@@ -80,21 +86,15 @@ $(document).ready(function()
 	$("#drawerSettings").hide();
 	$("a#toggleSettings").click(function() {
 		$("#drawerSettings").slideToggle("fast","swing");
-		
-		// If visible, change the title
-		if ($('#drawerSettings:not(:visible)')) {
-			$("a#toggleSettings").html('Settings');
-		} else {
-			$("a#toggleSettings").html('Settings');
-		}
 	})
 	
 //	$("nav").hide();
 	$("a#toggleMenu").click(function() {
 		$("nav").toggleClass("visible", 1000);
+		// $("nav").slideToggle();
 		$("a#toggleMenu").toggleClass("active");
 		$('body,html').animate({scrollTop: 0}, 500);
-		
+		// return false;
 		// If visible, change the title
 		/*
 		if ($('#:not(:visible)')) {
@@ -103,31 +103,42 @@ $(document).ready(function()
 		*/
 	})
 	
+	
+	$jquery.SwitchStyle.Init();
+	
 });
 </script>
 
 
+
+<div id="drawerSettings">
+	<div id="drawerContainer">
+	<ul class="settings">		
+	<li><a onclick="$jquery.SwitchStyle.Reset();" class="default">Default</a></li>
+	<li><a class="highContrast" onclick="$jquery.SwitchStyle.SetHighVis();" href="#">High Contrast</a></li>
+	<li><a class="textOnly" onclick="$jquery.SwitchStyle.SetText();" href="#">Text Only</a></li>
+	</ul>
+	
+	<div id="fontSizer">
+	<h4>Adjust Your Font Size</h4>
+	<a onclick="pageTracker._trackEvent('View', 'Change', 'small');" class="fontsize small" href="#">- Aa</a>
+	<a onclick="pageTracker._trackEvent('View', 'Change', 'normal');" class="fontsize normal" href="#">Aa</a>
+	<a onclick="pageTracker._trackEvent('View', 'Change', 'big');" class="fontsize big" href="#">+ Aa</a>
+	</div><!-- /#fontSizer -->
+	</div><!-- /#drawerContainer -->
+</div><!-- /#drawerSettings -->
+
+
+
+<div id="navigation">
+	<div id="navigationContainer">
+		<h1><a href="/" title="utah.gov home">Utah.gov</a></h1>
+
 <div id="navContainer">
-		<div id="drawerSettings">
-			<div id="drawerContainer">
-			<ul class="settings">		
-			<li><a onclick="$jquery.SwitchStyle.Reset();" class="default">Default</a></li>
-			<li><a class="highContrast" onclick="$jquery.SwitchStyle.SetHighVis();" href="#">High Contrast</a></li>
-			<li><a class="textOnly" onclick="$jquery.SwitchStyle.SetText();" href="#">Text Only</a></li>
-			</ul>
-			
-			<div id="fontSizer">
-			<h4>Adjust Your Font Size</h4>
-			<a onclick="pageTracker._trackEvent('View', 'Change', 'small');" class="fontsize small" href="#">- Aa</a>
-			<a onclick="pageTracker._trackEvent('View', 'Change', 'normal');" class="fontsize normal" href="#">Aa</a>
-			<a onclick="pageTracker._trackEvent('View', 'Change', 'big');" class="fontsize big" href="#">+ Aa</a>
-			</div><!-- /#fontSizer -->
-			</div><!-- /#drawerContainer -->
-		</div><!-- /#drawerSettings -->
 		<nav>
 			<ul>
 		               	  <li id="nav-government">
-		                    	<a id="link-government" href="/government/">Government</a>
+		                    	<a id="link-government" href="/government/"><span class="icon icon-capitol"></span><div>Government</div></a>
 								<div class="dropdownContainer">
 		                              <ul class="col">
 		                                <li><a href="/government/agencylist.html">State Agencies</a></li>
@@ -171,10 +182,10 @@ $(document).ready(function()
 							</li>
 
 		                	<li id="nav-employment">
-			                    <a id="link-employment" href="/employment/">Employment</a>
+			                    <a id="link-employment" href="/employment/"><span class="icon icon-jobs"></span><div>Employment</div></a>
 								<div class="dropdownContainer">
 										<ul class="col">
-		                                   	<li><a href="http://jobs.utah.gov/jobseeker/indifammore.html">Find a Job</a></li>
+		                                   	<li><a href="http://jobs.utah.gov/jobseeker/index.html">Find a Job</a></li>
 		                                   	<li><a href="/careers/explore.html">Education &amp; Training</a></li>
 				            				<li><a href="https://statejobs.utah.gov/">State Employment</a></li>
 		                                   	<li><a href="/careers/">Careers</a></li>
@@ -189,7 +200,7 @@ $(document).ready(function()
 		                    </li>
 
 		                	<li id="nav-business">
-		                    	<a id="link-business" href="/business/">Business</a>
+		                    	<a id="link-business" href="/business/"><span class="icon icon-business"></span><div>Business</div></a>
 								<div class="dropdownContainer">
 								  <ul class="col">
 						            <li><a href="/services/business.html?type=Business">Online Business Services</a></li>
@@ -205,7 +216,7 @@ $(document).ready(function()
 						</div><!--/.dropdownContainer--> 
 		                    </li>
 		                	<li id="nav-education">
-		                    	<a id="link-education" href="/education/">Education</a>
+		                    	<a id="link-education" href="/education/"><span class="icon icon-education"></span><div>Education</div></a>
 		                      <div class="dropdownContainer">
 		                                <ul class="col">
 		                                    <li><a href="/education/k12.html">K - 12 Education</a></li>
@@ -224,7 +235,7 @@ $(document).ready(function()
 							</div><!--/.dropdownContainer--> 
 		                    </li>
 		                	<li id="nav-residents">
-			                    <a id="link-residents" href="/residents/">Residents</a>
+			                    <a id="link-residents" href="/residents/"><span class="icon icon-home"></span><div>Residents</div></a>
 								<div class="dropdownContainer">
 		                                 <ul class="col">
 		                                     <li><a href="/residents/citandcom.html">Citizen &amp; Community</a></li>
@@ -249,7 +260,7 @@ $(document).ready(function()
 		                    </li>
 
 		                	<li id="nav-visiting">
-		                    	<a id="link-visiting" href="/visiting/">Visiting</a>
+		                    	<a id="link-visiting" href="/visiting/"><span class="icon icon-compass"></span><div>Visiting</div></a>
 								<div class="dropdownContainer">
 		                                <ul class="col">
 		                                    <li><a href="/visiting/travel.html">Travel &amp; Tourism</a></li>
@@ -265,7 +276,7 @@ $(document).ready(function()
 							</div><!--/.dropdownContainer--> 
 							</li>
 		                	<li id="nav-about">
-			                    <a id="link-about" href="/about/">About Utah</a>
+			                    <a id="link-about" href="/about/"><span class="icon icon-mountain"></span><div>About Utah</div></a>
 								<div class="dropdownContainer">
 		                                <ul class="col">
 		                                    <li><a href="/about/demographics.html">Demographics &amp; Statistics</a></li>
@@ -288,7 +299,7 @@ $(document).ready(function()
 
 
 		                	<li id="nav-connect">
-		                    	<a id="link-connect" href="/connect/index.html">Connect</a>
+		                    	<a id="link-connect" href="/connect/index.html"><span class="icon icon-connect"></span><div>Connect</div></a>
 		                        <div class="dropdownContainer dropdownContainerConnect">
 		                            <div class="feature"><a href="/connect/index.html" class="infographic"><span>Connect to Utah.gov</span></a></div>
 		                                <ul class="col">
@@ -303,7 +314,7 @@ $(document).ready(function()
 		                                    <li><a href="/collaborate/">Collaborate</a></li>
 											<li><a href="/connect/presentations.html">Presentations</a></li>
 											<li><a href="/connect/publications.html">Publications</a></li>
-											<li><a href="/developers/">Developers</a></li>
+											<li><a href="/developer/">Developers</a></li>
 		                                </ul>  
 								</div><!--/.dropdownContainer--> 
 		                    </li>
@@ -311,7 +322,7 @@ $(document).ready(function()
 
 
 		                	<li id="nav-services">
-		                    	<a id="link-services" href="/services/index.html">Online Services</a>
+		                    	<a id="link-services" href="/services/index.html"><span class="icon icon-wrench"></span> <div>Services</div></a>
 		                        <div class="dropdownContainer dropdownContainerSmall">
 		                                <ul class="col">
 		                                    <li><a href="/services/index.html?type=Citizen">Citizen Services</a></li>
@@ -332,22 +343,34 @@ $(document).ready(function()
 						</ul>
 						
 						<ul class="navMore">
-							<li><a href="#" id="toggleSettings">Settings</a></li>
-							<li><a id="supportLink" href="/contact.html">Support</a></li>
+							<li><a href="#" id="toggleSettings"><span class="icon icon-cogs"></span><div>Settings</div></a></li>
+							<li><a id="supportLink" href="/contact.html"><span class="icon icon-chat"></span><div>Support</div></a></li>
 							<!--<li><a id="loginLink" href="https://secure.utah.gov/account/">Login</a></li>-->
 						</ul>
 	</nav><!-- /nav -->
 </div><!-- /#navContainer -->		
 		
-		    
-<header>
-	<h1><a href="/" title="utah.gov home">Utah.gov</a></h1>
-	<a id="toggleMenu">Menu</a>
+		
+		
+</div><!--/#navigationContainer-->
 
-	<form action="/search-results.html" id="searchbox_005946968176299016736:b3muwlbpdj8" class="formScript">
+	<a id="toggleMenu"><span class="hidden"><span class="icon icon-close-circled"></span>Close</span> Menu</a>
+	
+</div><!--/#navigation-->
+		
+		
+
+
+
+
+
+<div id="dateline" class="shadowed">
+	<div class="container centered">
+		<div class="spanthirtythree left" href="#">	<form action="/search-results.html" id="searchbox_005946968176299016736:b3muwlbpdj8" class="formScript">
+	<span class="icon-search"></span>
 	<input type="hidden" value="005946968176299016736:b3muwlbpdj8" name="cx">
 	<input type="hidden" value="FORID:11" name="cof">
-	<input name="q" type="text" class="textField" id="searchField" accesskey="4" title="Search Field" maxlength="40" placeholder="Search The Official Website of the State of Utah" autocomplete="off" tabindex="1">
+	<input name="q" type="text" class="textField" id="searchField" accesskey="4" title="Search Field" maxlength="40" placeholder="" autocomplete="off" tabindex="1">
                 <input type="submit" class="submitButton" id="searchSubmit" value="Search" name="sa">
                 <a id="clearSearch" onclick="emptySearch();"></a>
 </form>
@@ -436,59 +459,68 @@ $(document).ready(function()
 <li><a onClick="populateSearch('business renew');">Business&nbsp;Renewal</a></li>
 </ul>
 </div>
-</form> -->
+</form> --></div>
+		
+		
+		<a class="spanthirtythree left date" href="">
+			<div class="centered">
+				<div class="calendar left">
+					<div class="month"></div>
+					<div class="day"></div>
+				</div>
+				<div class="left today"></div>
+			</div><!--/.centered -->	
+		</a>
+		
+		
+		
+		<a class="spanthirtythree right locationActivator" onclick="openLocation();return false;" href="#"><span class="icon icon-location"></span><span class="currentLocation">Detecting Location</span><span class="icon icon-arrow-left updown"></span></a>
+		
+		
+		
+		<!-- Location Dropdown -->
+		<ul id="secondary-nav">
+			<div id="location">
 
-<ul id="secondary-nav">
-	<li id="location">
-		<a href="#" onclick="openLocation();return false;" class="top activator"><span id="updown"></span></a>
-		<noscript>View Local Services, Agencies, and More</noscript>
-		<div class="locationDrop">
-		<h3>Update Your Location</h3>
-		<form accept-charset="utf-8" method="post" action="javascript://">
-		<p class="searchForm">
-		<label for="visitorLocale">Enter your zip code or city:</label>
-		<input type="text" title="city or zip" class="textField" id="visitorLocale" value="" name="visitorLocale" autocomplete="off" placeholder="Enter your city or zip">
-		<input type="submit" onclick="changeZip(); 	pageTracker._trackEvent('View', 'Change Location', this.value);" class="submitButton" id="visitorSubmit" value="Update" name="visitorSubmit">
-		</p>
+				<noscript>View Local Services, Agencies, and More</noscript>
+				<div class="locationDrop">
+				<h3>Update Your Location</h3>
+				<form accept-charset="utf-8" method="post" action="javascript://">
+				<p class="searchForm">
+				<label for="visitorLocale">Enter your zip code or city:</label>
+				<input type="text" title="city or zip" class="textField" id="visitorLocale" value="" name="visitorLocale" autocomplete="off" placeholder="Enter your city or zip">
+				<input type="submit" onclick="changeZip(); 	pageTracker._trackEvent('View', 'Change Location', this.value);" class="submitButton" id="visitorSubmit" value="Update" name="visitorSubmit">
+				</p>
 
-		<div class="locationDestinations">
-		<h4>Popular Destinations</h4>
-		<ol class="col">
-		<li><a onclick="linkLocation('84111');">Salt&nbsp;Lake&nbsp;City</a></li>
-		<li><a onclick="linkLocation('Park City');">Park&nbsp;City</a></li>
-		<li><a onclick="linkLocation('Provo');">Provo</a></li>
-		</ol>
-		<ol class="col">
-		<li><a onclick="linkLocation('Ogden');">Ogden</a></li>
-		<li><a onclick="linkLocation('Cedar City');">Cedar&nbsp;City</a></li>
-		<li><a onclick="linkLocation('St. George');">St.&nbsp;George</a></li>
-		</ol>
-		<ol class="col">
-		<li><a onclick="linkLocation('84532');">Arches</a></li>
-		<li><a onclick="linkLocation('84767');">Zion</a></li>
-		<li><a onclick="linkLocation('84764');">Bryce&nbsp;Canyon</a></li>
-		</ol>
-		</div>
-		</form>
-		</div>
-	</li><!-- /#location -->
-	<li id="settings">
-		<a href="#" onclick="openSettings();return false;" class="top">Display Settings</a>
-	</li>
-	<li id="support"><a href="/contact.html">Support</a></li>
-	<li id="account"><a href="https://secure.utah.gov/account/">Login</a></li>
-   
-</ul><!-- /#secondary-nav -->
-			
-</header><!-- /header -->  
-
-
-<script>
-$jquery(document).ready(function() {
-$jquery.SwitchStyle.Init();
-})
-</script>
-
+				<div class="locationDestinations">
+				<h4>Popular Destinations</h4>
+				<ol class="col">
+				<li><a onclick="linkLocation('84111');">Salt&nbsp;Lake&nbsp;City</a></li>
+				<li><a onclick="linkLocation('Park City');">Park&nbsp;City</a></li>
+				<li><a onclick="linkLocation('Provo');">Provo</a></li>
+				</ol>
+				<ol class="col">
+				<li><a onclick="linkLocation('Ogden');">Ogden</a></li>
+				<li><a onclick="linkLocation('Cedar City');">Cedar&nbsp;City</a></li>
+				<li><a onclick="linkLocation('St. George');">St.&nbsp;George</a></li>
+				</ol>
+				<ol class="col">
+				<li><a onclick="linkLocation('84532');">Arches</a></li>
+				<li><a onclick="linkLocation('84767');">Zion</a></li>
+				<li><a onclick="linkLocation('84764');">Bryce&nbsp;Canyon</a></li>
+				</ol>
+				</div>
+				</form>
+				</div>
+			</div><!-- /#location -->
+		</ul><!-- /#secondary-nav -->
+		
+		
+		
+		
+		
+	</div><!--/.container-->
+</div><!--/#dateline-->
 				
 			
 <div id="wrapper">
@@ -762,6 +794,9 @@ $jquery.SwitchStyle.Init();
                     <li><a href="http://firstlady.utah.gov/">First Lady</a></li>
                     <li><a href="http://www.utah.gov/ltgovernor/">Lt. Governor</a></li>
                     <li><a href="http://attorneygeneral.utah.gov">Attorney General</a></li>
+                    <li><a href="http://utah.gov/treasurer/">Treasurer</a></li>
+                    <li><a href="http://auditor.utah.gov/">State Auditor</a></li>
+
                 </ul>
             </div>
             
@@ -778,10 +813,8 @@ $jquery.SwitchStyle.Init();
 
             <div class="footercolumn" id="col5">
               <h4 id="footerAwards" class="footerTitle"><a href="/awards">Awards</a></h4>
-              	<img src="/awards/images/bow2011.png" alt="2011 Best of the Web" width="100" height="49">
-                <img src="/awards/images/award-2010-webby-footer.png" width="100" height="54" alt="Webby">
-                <img src="/awards/images/award-web20.png" width="57" height="55" alt="Web 2.0 Enabled Award">
-                <p>Over 85 awards set Utah.gov as one of the best government sites in the nation. <br><br> <a href="/awards">View more of Utah.gov's award-winning projects</a> »</p>
+			  	<img src="/images/footer-awards.png" width="308" height="74" alt="Awards Icon">
+                <p>Over 100 awards set Utah.gov as one of the best government sites in the nation. <br><br> <a href="/awards">View more of Utah.gov's award-winning projects</a> »</p>
             </div>
             
             <br>
@@ -797,7 +830,7 @@ $jquery.SwitchStyle.Init();
                 <a title="Awards" href="/awards">Awards</a> | 
                 <a href="/translate.html">Translate Utah.gov</a>
 				<br>
-                Copyright © 2012 State of Utah - All rights reserved.
+                Copyright © 2013 State of Utah - All rights reserved.
             </p><br>
         </div>
 		<div><!-- footer col container -->
