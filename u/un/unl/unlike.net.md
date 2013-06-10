@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlike.net privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919201615id_/http%3A//unlike.net/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlike.net privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611014126id_/http%3A//unlike.net/pages/privacy) for the most accurate reproduction.*
 
 # Unlike City Guides
 
