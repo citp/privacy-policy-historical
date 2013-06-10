@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditwritedowns.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014181119id_/http%3A//www.creditwritedowns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditwritedowns.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610082951id_/http%3A//www.creditwritedowns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Credit Writedowns
 
