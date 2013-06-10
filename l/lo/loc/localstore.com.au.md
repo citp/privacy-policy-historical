@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the localstore.com.au privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016050852id_/http%3A//www.localstore.com.au/legals/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localstore.com.au privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610192904id_/http%3A//www.localstore.com.au/legals/privacy.php) for the most accurate reproduction.*
 
 # Privacy - LocalStore
 
 Privacy Policy
 
-LocalStore.com.au is owned and operated by Prime Space Marketing Pty Limited. Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
 We gather two types of information about users: Information that you provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because we derive our revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users.
 
