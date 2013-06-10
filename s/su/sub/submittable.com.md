@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the submittable.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221053423id_/http%3A//www.submittable.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submittable.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610210335id_/http%3A//www.submittable.com/about/privacy) for the most accurate reproduction.*
 
-# Submission Manager powered by Submittable
+# Privacy
 
 **Your privacy is critically important to us. At Submittable we have a few fundamental principles:**
 
@@ -26,7 +26,7 @@ Certain visitors to Submittable’s websites choose to interact with Submittable
 
 ### Aggregated Statistics
 
-Submittable may collect statistics about the behavior of visitors to its websites. For instance, Submittable may monitor bandwidth utsage and file-size in order to support and maintain our services. Submittable may display this aggregated information publicly or provide it to others in order to show if we’re having a technical issue that affects all or any other customers. However, Submittable does not disclose personally-identifying information other than as described below.
+Submittable may collect statistics about the behavior of visitors to its websites. For instance, Submittable may monitor bandwidth usage and file-size in order to support and maintain our services. Submittable may display this aggregated information publicly or provide it to others in order to show if we’re having a technical issue that affects all or any other customers. However, Submittable does not disclose personally-identifying information other than as described below.
 
 ### Protection of Certain Personally-Identifying Information
 
