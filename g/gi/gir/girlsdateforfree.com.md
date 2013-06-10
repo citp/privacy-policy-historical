@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsdateforfree.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201021539id_/http%3A//www.girlsdateforfree.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsdateforfree.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611014505id_/http%3A//www.girlsdateforfree.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
 # Online Dating - Free to join Dating Site - %s
 
@@ -101,7 +101,7 @@ We may also provide information about you to other users of the Site as reasonab
 
 We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. For that, the email address or mobile phone number you have provided can be used. 
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [unsubscribe@girlsdateforfree.com](mailto:unsubscribe@girlsdateforfree.com). Do note that notwithstanding your preference, both we and/or any third party that we engage reserve the right to use your data/ information to help us identify users that are potentially acting fraudulently, illegally, or in a manner otherwise than in accordance with our terms and policies. 
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [unsubscribe-br@girlsdateforfree.com](mailto:unsubscribe-br@girlsdateforfree.com). Do note that notwithstanding your preference, both we and/or any third party that we engage reserve the right to use your data/ information to help us identify users that are potentially acting fraudulently, illegally, or in a manner otherwise than in accordance with our terms and policies. 
 
 **Marketing and other uses of your non-personal data by us and by third parties**
 
@@ -109,22 +109,33 @@ We may share non-personal information we collect under any of the above circumst
 
 **Cookies**
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve the Site and to deliver a better and more personalised service. They enable us: 
+We may collect information about your computer or mobile device by using Cookies. If you use our site you are consenting to the use of Cookies as explained here.
 
-  * To estimate our audience size and usage pattern. 
+Cookies are small text files that are placed on your computer by websites that you visit and provide statistical data to us, that does not identify you personally but an tell us a lot about your browsing habits to tailor your user experience to suit your needs. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. We use cookies to enhance our security, help us gather information during subscription and understand our web traffic trends.
 
-  * To store information about your preferences, and so allow us to customise the Site according to your individual interests. 
+They help us to improve the Site and to deliver a better and more personalised service. They enable us:
 
-  * To speed up your searches. 
+  * To estimate our audience size and usage pattern.
+  * To store information about your preferences, and so allow us to customise the Site according to your individual interests.
+  * To speed up your searches.
+  * To recognise you when you return to the Site.
+  * To provide anonymized statistical information: Non-personal data may be gathered on our behalf using cookies, log file data, and code that is embedded on our websites by specific third party partners. We use this non-personal information to help improve the services we provides to you.
 
-  * To recognise you when you return to the Site. 
 
 
+When you visit the publicly available sections of the Site, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known as local storage devices) on members’ computers, so that we remember them to make your login in process faster and easier. You may set your browser to block cookies and local storage devices, but if you do so, you may not be able to access all of the features of the Site.
 
+This table shows fully the cookie functions and why they are used, although our uses may change over time and it is important that you revisit this page to understand these uses:
 
+| **Cookie Functions** | **Cookie Purposes**  
+---|---  
+Analytics and research | We use the information collected by Google Analytics to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
+Authentication | These cookies help us to identify our members so that when you’re logged in, you can enjoy all of the features without having to continually log in – our Site “remembers” you and allows you full access without the need to keep entering your log in details.  
+Security and site integrity | We may use cookies and other devices, such as CAPTCHAs, to help keep the Site and our members safe and secure by protecting the Site from fraud and spam attacks to keep your data safe.  
+Site features and services | These cookies and local storage devices provide the functionality that our members enjoy, such as uploading of photographs, chats, instant messaging, your account settings etc. We also use cookies to help provide experiences, such as links to other social media sites, social plugins and video content, including making it easier for you to share content between the Site with your other favourite social networks. In some cases, the site feature you choose may allow a third party to place cookies or local storage devices on your computer. The third party who places cookies on your device is responsible for how they process their data you should always read their privacy policies. Third parties who place cookies on your device when you use the Site include Twitter and Facebook whose own privacy policies apply.   
+Performance | We need to use certain cookies and local storage devices to ensure our members have the best possible experience, such assisting with your navigation of our site, ensuring pages load up quickly and respond faster to your requests for our Site and Services.  
+  
 For further information about cookies visit: [http://www.aboutcookies.org](http://www.aboutcookies.org/)
-
-You can set your browser not to accept cookies and the above website tells you how to do that. However, in a few cases some of the features on our Site may not function as a result. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Site. 
 
 **Where we store your personal data**
 
