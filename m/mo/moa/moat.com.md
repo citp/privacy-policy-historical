@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moat.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014010337id_/http%3A//www.moat.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moat.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610234959id_/http%3A//www.moat.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Moat
 
