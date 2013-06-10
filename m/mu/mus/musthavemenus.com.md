@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musthavemenus.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029002507id_/http%3A//www.musthavemenus.com/menu/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musthavemenus.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611014017id_/http%3A//www.musthavemenus.com/menu/privacyPolicy/view.do) for the most accurate reproduction.*
 
 # MustHaveMenus Privacy Policy
 
