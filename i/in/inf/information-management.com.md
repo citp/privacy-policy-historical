@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the information-management.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101224913id_/http%3A//www.information-management.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the information-management.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610181401id_/http%3A//www.information-management.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy
 
 This privacy policy covers Information Management’s treatment of personally identifiable information we collect when you are on the Information Management site, located at http://www.informationmgmt.com/. This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies Information Management does not own or control, or to individuals Information Management does not employ or manage, including operators of sites to which you may link from the Information Management Web site. 
 
