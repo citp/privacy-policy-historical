@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the myradiostream.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028231330id_/https%3A//secure.bellonline.co.uk/terms/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myradiostream.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610202928id_/http%3A//myradiostream.com/pages/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# MyRadioStream - Privacy and Cookies
+
+## Contents
 
 1) Privacy Policy
 
-2) Cookies Policy
+2) Cookie Policy
+
+## Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
