@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the app-mobile.net privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228062510id_/http%3A//www.app-mobile.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the app-mobile.net privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610210336id_/http%3A//www.app-mobile.net/privacy) for the most accurate reproduction.*
 
-# Privacy | App-Mobile.Net | Free Android Apps | Games | Themes
+# Privacy | Free Android Apps
 
 This blog does not share personal information with third parties nor do we store any information about your visit to this blog other than to analyze and optimize your content and reading experience through the use of cookies.
 
