@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mugshotsonline.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015111615id_/http%3A//www.mugshotsonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mugshotsonline.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611010757id_/http%3A//www.mugshotsonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,6 +23,9 @@ If you visit our site to inquire about or receive additional information about o
 
 If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message.
 
-Citizens Information Associates LLC will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
+Citizens Information Associates LLC will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us. Such information may be sold or otherwise transferred to unaffiliated third parties.
 
 If you would like to remove your user account, please email us at [support@mugshotsonline.com](mailto:support@mugshotsonline.com), with "Delete User Account" in the subject line.
+
+  
+
