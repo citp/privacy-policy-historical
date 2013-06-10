@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the babysteals.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109000558id_/http%3A//babysteals.stealnetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babysteals.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610172922id_/http%3A//baby.steals.com/privacy.php) for the most accurate reproduction.*
 
 # BabySteals.com® | Daily Deals at 9am & 9pm MT for Mom and Baby
 
-This privacy notice discloses the privacy practices for babysteals.stealnetwork.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
+This privacy notice discloses the privacy practices for baby.steals.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
   1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. 
   2. What choices are available to you regarding the use of your data. 
@@ -31,7 +31,7 @@ You may opt out of any future contacts from us at any time. You can do the follo
 **Security**  
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
 
-_**Never click on a link in an email that requests personal information.**_ Any time you receive an email about your Steal Network account, the safest and easiest course of action is to open a new browser, type in [https://babysteals.stealnetwork.com](https://babysteals.stealnetwork.com/), and log in to your account directly. 
+_**Never click on a link in an email that requests personal information.**_ Any time you receive an email about your Steal Network account, the safest and easiest course of action is to open a new browser, type in [https://baby.steals.com](https://baby.steals.com/), and log in to your account directly. 
 
 Steal Network will never request the following from a customer via email: 
 
