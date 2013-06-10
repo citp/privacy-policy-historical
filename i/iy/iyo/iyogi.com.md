@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iyogi.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117010553id_/http%3A//www.iyogi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iyogi.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610182651id_/http%3A//www.iyogi.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy: iYogi
 
@@ -125,7 +125,7 @@ Annual Unlimited Subscription Plan
 
 Available 24/7, anytime, anywhere
 
-Comprehensive virus removal support for your PC, connected devices, peripherals and over 100 software applications including:
+Comprehensive virus removal support for your PC, connected devices, peripherals and over 500 software applications including:
 
   * Diagnostic & repair for your technologies.
   * Troubleshooting software errors.
