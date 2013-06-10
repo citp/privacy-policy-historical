@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the chewy.com privacy policy that was archived on 2012-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121216032635id_/http%3A//www.chewy.com/app/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chewy.com privacy policy that was archived on 2013-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610173418id_/http%3A//www.chewy.com/app/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
         <title>Privacy Policy | Chewy.com</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-        <link rel="stylesheet" type="text/css" href="/assets/css/main.20121201.css">
-        <link rel="stylesheet" type="text/css" href="/assets/css/customerservice.20121108.css">
+        <link rel="stylesheet" type="text/css" href="/assets/css/main.20130319.css">
+        <link rel="stylesheet" type="text/css" href="/assets/css/customerservice.20130123.css">
 
         
 
@@ -17,8 +17,9 @@
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <script type="text/javascript" src="/assets/js/jquery.simplemodal.1.4.3.js"></script>
-<script type="text/javascript" src="/assets/js/main.20121201.js"></script>
-<script type="text/javascript" src="/assets/js/minicart.20111205.js"></script>
+<script type="text/javascript" src="/assets/js/main.20130506.js"></script>
+<script type="text/javascript" src="/assets/js/minicart.20130125.js"></script>
+
 
 
 
@@ -37,6 +38,7 @@
     <script type="text/javascript">
 
       var _gaq = _gaq || [];
+      _gaq.push(['_require', 'inpage_linkid', '//www.google-analytics.com/plugins/ga/inpage_linkid.js']);
       _gaq.push(['_setAccount', 'UA-23355215-1']);
       _gaq.push(['_setDomainName', 'www.chewy.com']); // to prevent static content from being cookied on other subdomains
       _gaq.push(['_trackPageview']);
@@ -93,6 +95,17 @@
 
 
 
+
+    
+        
+            
+            
+                
+            
+
+            
+        
+    
 
 
 
@@ -162,41 +175,56 @@
             </li>
 
             <li class="top-nav-li">
-                <a id="top-nav-my-account" href="/app/account" class="top-nav-link">My Account<span class="nav-down-arrow"></span></a>
+                <a id="top-nav-my-account" href="/app/account" class="top-nav-link">Your Account<span class="nav-down-arrow"></span></a>
                 <div id="top-nav-my-account-dropdown" class="dropdown">
                     
                         <div class="sign-in">
-                            <a href="/app/account" class="btn-small">Sign in</a><br>
-                            <span class="new-customer">New customer? <a href="/app/register">Start here</a></span>
+                            <a href="/app/account" class="button_action small">Sign in</a>
+                            <p class="new-customer">New customer? <a href="/app/register">Start here</a></p>
                         </div>
                     
 
                     <ul>
-                        <li><a href="/app/account">My Account</a></li>
+                        <li><a href="/app/account">Your Account</a></li>
                         <li><a href="/app/account/profile">Profile &amp; Password</a></li>
                         <li><a href="/app/account/orderhistory">Order Status &amp; History</a></li>
-                        <li><a href="/app/subs">Delivery Schedules</a></li>
+                        <li><a href="/app/account/reorder">Quick Reorder</a></li>
                         <li><a href="/app/account/addressbook">Address Book</a></li>
-                        <li><a href="/app/account/referrals">Referral Manager</a></li>
-                        <li><a href="/app/account/referrals/sendView">Refer Friends by Email</a></li>
+                        
+                        
                         
                     </ul>
                 </div>
             </li>
 
             <li class="top-nav-li top-nav-li-last">
-                <a id="top-nav-my-lists" href="/app/account/lists" class="top-nav-link">My Lists<span class="nav-down-arrow"></span></a>
-                <div id="top-nav-my-lists-dropdown" class="dropdown">
-                    <div class="reorder">
-                        <a href="/app/account/reorder">Quick Reorder</a>
-                    </div>
+                <a id="top-nav-my-autoship" href="/app/subs" class="top-nav-link"><span class="autoship">Autoship</span><span class="nav-down-arrow"></span></a>
+                <div id="top-nav-my-autoship-dropdown" class="dropdown">
+                    
+                        <div class="sign-in">
+                            <a href="/app/account" class="button_action small">Sign in</a>
+                            <p class="new-customer">New customer? <a href="/app/register">Start here</a></p>
+                        </div>
+                    
 
-                    <div class="autoship">
-                        <a href="/app/subs">Delivery Schedules</a>
+                    <div class="ajax-content">
                     </div>
-
                 </div>
             </li>
+
+            
+                
+                
+                    
+                        
+                    
+
+                    
+                        
+                    
+
+                
+            
         </ul>
 
 
@@ -236,51 +264,22 @@
                         
             
         </a>
-    </div>
 
-    <a class="checkout-btn minicart-sprite" href="/app/checkout">Checkout</a>
-
-
-    <div id="minicartpop">
-        <div class="content">
+        <div id="minicartpop">
             <span class="heading">Recently Added</span>
 
-            <table>
-                
-                
-                    
-                        
-                    
-                    
-                        
-                        
-                            
-                                
-                                
-                        
-                    
-                    
-                    
-                
-                
-            </table>
+            <div class="ajax-content">
+            </div>
 
-            <div class="summary">
-                <div class="left">
-                    Total Items: <span class="quantity"></span>
-                </div>
-                <div class="right">
-                    Subtotal: <span class="subtotal"></span>
-                </div>
+            <div class="footer">
+                <a href="/app/cart" class="cart">view all items »</a>
+                <a href="/app/checkout" class="checkout button_action">Checkout</a>
             </div>
         </div>
 
-        <div class="footer">
-            <a href="/app/cart" class="cart">view all items »</a>
-            <a href="/app/checkout" class="checkout">checkout »</a>
-        </div>
     </div>
 
+    <a class="checkout-btn minicart-sprite" href="/app/checkout">Checkout</a>
 
 </div>
 
@@ -301,14 +300,70 @@
     
 
 
+
+<script type="text/html" id="nav-tpl-cart">
+    <table>
+    <# $.each(cart, function (i, item) { #>
+        <tr>
+            <td class="image">
+                <a href="<#= item.url #>"><img src="<#= item.thumbnail #>" width="50" height="50" alt="Item Image"></a>
+            </td>
+            <td class="description">
+                <a href="<#= item.url #>">
+                    <span class="brand"><#= item.brand #></span>
+                    <span class="name"><#= item.brand ? item.description.substring(item.brand.length + 1) : item.description #></span>
+                </a>
+            </td>
+            <td class="qty"><#= item.quantity #></td>
+            <td class="price"><#= item.unitPriceAsString #></td>
+        </tr>
+    <# }); #>
+    </table>
+
+    <div class="summary">
+        <div class="left">
+            Total Items: <span class="quantity"><#= cartCount #></span>
+        </div>
+        <div class="right">
+            Subtotal: <span class="subtotal"><#= cartAmount #></span>
+        </div>
+    </div>
+</script>
+
+<script type="text/html" id="nav-tpl-autoship">
+    <# $.each(autoship, function (i, item) { #>
+        <div class="autoship">
+            <span class="description"><#= item.description #></span>
+            <span class="image"><a href="/app/subs/manager/<#= item.id #>"><img src="<#= item.image #>$65$" width="65" height="65"></a></span>
+
+            <p class="next-ffm">
+                Your next order autoships on<br>
+                <span class="date"><#= item.nextFulfillmentDate #></span>
+            </p>
+
+            <div class="buttons">
+                <a href="/app/subs/manager/view/<#= item.id #>" class="button small">Edit</a>
+                <a href="/app/subs/change-schedule/date/<#= item.id #>" class="button small">Delay</a>
+                <a href="/app/subs/sendnow/<#= item.id #>" class="button small">Ship Now</a>
+            </div>
+        </div>
+    <# }); #>
+
+    <# if (autoshipCount > 2) { #>
+        <div class="more">
+            <a href="/app/subs" class="show-more">view all autoship orders (<#= autoshipCount - 2 #> more)</a>
+        </div>
+    <# } #>
+
+</script>
     </div>
 </div>
 
 
 <div id="hd">
-    <a class="logo" href="/" title="Chewy.com Home"><img src="/assets/img/layout/logo.20121024.png" alt="Chewy.com" width="224" height="63"></a>
+    <a class="logo" href="/" title="Chewy.com Home"><img src="/assets/img/layout/logo.20130121.png" alt="Chewy.com" width="224" height="63"></a>
 
-    <form action="/s" id="searchform" method="get" onsubmit="_gaq.push(['_trackEvent', 'Search Form', 'Submit']);">
+    <form action="/s" id="searchform" method="get" onsubmit="return submitSearchForm(this);">
         <input type="hidden" name="dept" value="all">
 
         <span id="nav-search-in">
@@ -324,11 +379,11 @@
         </div>
 
         <div class="nav-submit-button-container">
-            <input type="submit" value="Search" class="nav-submit-button">
+            <input type="image" name="nav-submit-button" class="nav-submit-button" src="/assets/img/1x1.gif">
         </div>
     </form>
 
-    <script type="text/javascript" src="/assets/js/jquery.ddslick.min.js"></script>
+    <script type="text/javascript" src="/assets/js/jquery.ddslick.js"></script>
     <script type="text/javascript">
         $('#searchDropdownBox').ddslick({
             selectText: "All",
@@ -367,7 +422,6 @@
 
     <ul class="secondary">
         <li><a href="/app/content/brands">shop by brand</a></li>
-        <li><a href="/s/holiday?ci=2012-holiday-shop">holiday shop</a></li>
         <li><a href="/s/on-sale">sale center</a></li>
     </ul>
 </div>
@@ -515,7 +569,7 @@
                 <h6>Shopping Help</h6>
                 <ul>
                     <li><a href="/app/content/contact">Contact Us</a></li>
-                    <li><a href="/app/account" rel="nofollow">My Account</a></li>
+                    <li><a href="/app/account" rel="nofollow">Your Account</a></li>
                     <li><a href="/app/content/returns">Returns</a></li>
                     <li><a href="/app/content/shipping">Shipping Info</a></li>
                     <li><a href="/app/content/payment">Payment Options</a></li>
@@ -524,6 +578,15 @@
                 </ul>
             </li>
             <li class="column">
+                
+                
+                    
+                    
+                    
+                    
+                    
+                
+
                 <h6>Company Info</h6>
                 <ul>
                     <li><a href="/c/about-chewy">About Chewy.com</a></li>
@@ -592,7 +655,7 @@
     </ul>
 
     <div id="copyright">
-    © 2012 Chewy.com. All rights reserved. |
+    © 2013 Chewy.com. All rights reserved. |
     <a href="/app/content/privacy">Privacy Policy</a><br>
 </div>
 
@@ -631,6 +694,9 @@
     <script type="text/javascript">
     adroll_adv_id = "L3VJVZYB3JC67CYJR77CTD";
     adroll_pix_id = "B34HL45O6FAG7MBGOXCL7B";
+
+    
+
     (function () {
     var oldonload = window.onload;
     window.onload = function(){
@@ -653,12 +719,12 @@
     try {
         
 
-        SBS.Recs.setRenderer(rec_render_125x125,"CART-1"); // upsell
-        SBS.Recs.setRenderer(rec_render_cart,"CART-2"); // cart
-        SBS.Recs.setRenderer(rec_render_125x125,"PROD-4"); // product
-        SBS.Recs.setRenderer(rec_render_125x125,"HOME-1"); // no-results
-        SBS.Recs.setRenderer(rec_render_125x125,"HOME-3"); // home page
-//        SBS.Recs.setRenderer(rec_render); // catch-all
+//        SBS.Recs.setRenderer(rec_render_125x125,"CART-1"); // upsell
+//        SBS.Recs.setRenderer(rec_render_125x125,"PROD-4"); // product
+//        SBS.Recs.setRenderer(rec_render_125x125,"HOME-1"); // no-results
+//        SBS.Recs.setRenderer(rec_render_125x125,"HOME-3"); // home page
+        SBS.Recs.setRenderer(function(rec_info) { return rec_render(rec_info, 75, 48); },"CART-2"); // cart
+        SBS.Recs.setRenderer(function(rec_info) { return rec_render(rec_info, 125, 48); }); // catch-all
         SBS.Worker.go("UZtQnrll1C");
     } catch (e){};
 </script>
@@ -683,7 +749,7 @@
 
 
 
-<!-- web2.clickverge.com Sat Dec 15 22:26:35 EST 2012 39.37464 ms -1002 157gto9pdh9o17b3oiwglsq7f -->
+<!-- web2.clickverge.com 2013/06/10 17:34:17 23 ms -1002 19vnce2nj2a3f3by3lrouu7aj -->
 
 
     
