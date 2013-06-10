@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124184403id_/http%3A//www.historynet.com/weider-history-group-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611003328id_/http%3A//www.historynet.com/weider-history-group-privacy-policy) for the most accurate reproduction.*
 
 # Weider History Group Privacy Policy
 
@@ -12,41 +12,41 @@ Weider History Group and its family of consumer publications are strongly commit
 
 
 
-**[What Information Do We Collect About You?](http://www.historynet.com/weider-history-group-privacy-policy#info)  
+**What Information Do We Collect About You?  
 __**
 
 **_
 
-  * [Personal Information](http://www.historynet.com/weider-history-group-privacy-policy#info_personal)
-  * [Subscriptions and Orders](http://www.historynet.com/weider-history-group-privacy-policy#info_sub)
-  * [Information Collected Automatically](http://www.historynet.com/weider-history-group-privacy-policy#info_auto)
-  * [Other Information](http://www.historynet.com/weider-history-group-privacy-policy#info_other)
+  * Personal Information
+  * Subscriptions and Orders
+  * Information Collected Automatically
+  * Other Information
 
 _**
 
-**[What Do We Do with Information We Collect?](http://www.historynet.com/weider-history-group-privacy-policy#collect)**
+**What Do We Do with Information We Collect?**
 
-**[How Do We Share Personal Information?](http://www.historynet.com/weider-history-group-privacy-policy#share)**
+**How Do We Share Personal Information?**
 
-  * _[Weider History Group and Its Agents](http://www.historynet.com/weider-history-group-privacy-policy#share_primedia)_
-  * _[Participating Vendors](http://www.historynet.com/weider-history-group-privacy-policy#share_vendor)_
-  * _[Credit Card Companies](http://www.historynet.com/weider-history-group-privacy-policy#share_credit)_
-  * _[Advertisers, Sponsors and Promotional and Business Partners](http://www.historynet.com/weider-history-group-privacy-policy#share_adv)_
-  * _[Important Note](http://www.historynet.com/weider-history-group-privacy-policy#share_note)_
+  * _Weider History Group and Its Agents_
+  * _Participating Vendors_
+  * _Credit Card Companies_
+  * _Advertisers, Sponsors and Promotional and Business Partners_
+  * _Important Note_
 
 
 
-**[How Do We Use Cookies?](http://www.historynet.com/weider-history-group-privacy-policy#cookies)**  
-**[How Do We Use Web Beacons?](http://www.historynet.com/weider-history-group-privacy-policy#beacons)**  
-**[What About Third Party Advertisers?](http://www.historynet.com/weider-history-group-privacy-policy#thirdparty)**  
-**[How Can You Control Your Personal Information?](http://www.historynet.com/weider-history-group-privacy-policy#personalinfo)**  
-**[Security of Your Personal Information](http://www.historynet.com/weider-history-group-privacy-policy#security)**  
-**[Children's Privacy](http://www.historynet.com/weider-history-group-privacy-policy#children)**  
-**[Links](http://www.historynet.com/weider-history-group-privacy-policy#links)**  
-**[Changes in Corporate Structure](http://www.historynet.com/weider-history-group-privacy-policy#structure)**  
-**[Visitors Outside the United States](http://www.historynet.com/weider-history-group-privacy-policy#visitors)**  
-**[Changes to Our Privacy Policy](http://www.historynet.com/weider-history-group-privacy-policy#changes)**  
-**[Contact Information](http://www.historynet.com/weider-history-group-privacy-policy#contact)**
+**How Do We Use Cookies?**  
+**How Do We Use Web Beacons?**  
+**What About Third Party Advertisers?**  
+**How Can You Control Your Personal Information?**  
+**Security of Your Personal Information**  
+**Children's Privacy**  
+**Links**  
+**Changes in Corporate Structure**  
+**Visitors Outside the United States**  
+**Changes to Our Privacy Policy**  
+**Contact Information**
 
 **WHAT INFORMATION DO WE COLLECT ABOUT YOU?**
 
