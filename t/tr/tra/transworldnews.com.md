@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transworldnews.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102114439id_/http%3A//www.transworldnews.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transworldnews.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610203126id_/http%3A//transworldnews.com/Privacy.aspx) for the most accurate reproduction.*
 
 # TransWorldNews - www.transworldnews.com/privacy.aspx
 
@@ -14,7 +14,7 @@ TransWorldNews collects, distributes, and publishes a wide variety of informatio
 > 
 > 2\. TransWorldNews operates the TransWorldNews profiles section which consist of published information submitted by or on behalf of the originating entity. All information contained in the TransWorldNews profiles section is either public knowledge or explicitly approved for dissemination by our registered users. 
 > 
-> 3\. TransWorldNews may be required to provide information to a law enforcement agency, but only as the result of a request relating to a specific legal proceeding. Users that have questions or concerns regarding this statement should contact TransWorldNews Support by calling 404-352-4949 or emailing support@transworldnews.com. 
+> 3\. TransWorldNews may be required to provide information to a law enforcement agency, but only as the result of a request relating to a specific legal proceeding. Users that have questions or concerns regarding this statement should contact TransWorldNews Support by calling 404-443-3224 or emailing support@transworldnews.com. 
 
 ****
 
