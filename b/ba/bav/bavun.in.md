@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bavun.in privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223064506id_/http%3A//www.bavun.in/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bavun.in privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610235055id_/http%3A//www.bavun.in/help-privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
-
- 
 
 Bavun.in has established its privacy policy to explain how your information within the purview of Bavun.in is protected, collected and used. This policy may be updated by Bavun.in. Bavun.in will post notices of its policy changes on the Bavun.in site at: <http://www.bavun.in/help-privacy.html>  
 
@@ -33,5 +31,3 @@ Bavun.in may disclose information about its users if required to do so by law or
 By providing us with data and by visiting Bavun.in you acknowledge and agree that due to the global use of Bavun.in we may use the data collected in the course of your use of our site and/or services for the purposes identified in this policy or in our other communications to you, including the transmission of information outside your resident jurisdiction. Data provided to Bavun.in may be stored on servers throughout different jurisdictions. User agrees to consent to transfer of such data to different locations.  
 
 **IF YOU DO NOT AGREE WITH Bavun.in PRIVACY POLICY PLEASE LEAVE THIS WEBSITE**
-
- 
