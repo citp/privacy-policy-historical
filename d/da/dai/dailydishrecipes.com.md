@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dailydishrecipes.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512073515id_/http%3A//dailydishrecipes.com/disclosuresprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydishrecipes.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610205634id_/http%3A//dailydishrecipes.com/disclosuresprivacy-policy) for the most accurate reproduction.*
 
-# Disclosures/Privacy Policy » The Daily Dish Recipes
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fdailydishrecipes.com%2Fdisclosuresprivacy-policy%2F&media=&description=Disclosures%2FPrivacy+Policy)
+# Disclosures/Privacy Policy | Daily Dish Recipes
 
 **Affiliate Disclosure**
 
@@ -19,7 +17,7 @@ All information provided on this site is for informational purposes only. DailyD
 
 The privacy of our visitors to DailyDishRecipes.com is extremely important to us.
 
-At FrugalChanges.com, we recognize that privacy of your personal information is important. Here is the information on what types of personal information we receive and collect when you visit DailyDishRecipes.com, and how we safeguard your information.  **We never sell your personal information to third parties.**
+At DailyDishRecipes.com, we recognize that privacy of your personal information is important. Here is the information on what types of personal information we receive and collect when you visit DailyDishRecipes.com, and how we safeguard your information.  **We never sell your personal information to third parties.**
 
 ### Log Files
 
@@ -29,10 +27,8 @@ As with most other websites, we collect and use the data contained in log files.
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This may allow us to keep you logged into special site features such as our Forums, or automatically fill in data for you in various forms. This information is not available to us.
 
-We also use third party advertisements on FrugalChanges.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers  _(such as Google through the Google AdSense program)  _information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes  _(for example showing Missouri real estate ads to someone in Missouri)_  or showing certain ads based on specific sites visited  _(such as showing food ads to someone who frequently visits food sites)_.
+We also use third party advertisements on DailyDishRecipes.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers  _(such as Google through the Google AdSense program)  _information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes  _(for example showing Missouri real estate ads to someone in Missouri)_  or showing certain ads based on specific sites visited  _(such as showing food ads to someone who frequently visits food sites)_.
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings or by managing your preferences in programs such as McAfee or Norton. However, this can affect how you are able to interact with our site as well as other websites.
 
 _Thank you for visiting DailyDishRecipes.com_
-
-[](http://www.printfriendly.com/print/v2?url=http://dailydishrecipes.com/disclosuresprivacy-policy/)
