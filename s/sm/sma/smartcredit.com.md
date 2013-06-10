@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcredit.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105092447id_/https%3A//www.smartcredit.com/help/terms-and-privacy/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcredit.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610110342id_/https%3A//www.smartcredit.com/help/terms-and-privacy/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - SmartCredit
 
@@ -76,7 +76,7 @@ Please note that we may continue to communicate with you regarding your Membersh
 
 #### HOW DO I UPDATE OR CORRECT MY PERSONAL INFORMATION?
 
-If you are a Member, please login to our website at {$website_field}, log in and click Help then Account Information. If you are not a Member, please send a request to us at 265 Briggs Avenue, Costa Mesa, CA 92626. A representative will be happy to assist you. 
+If you are a Member, please login to our website at www.smartcredit.com, log in and click Help then Account Information. If you are not a Member, please send a request to us at 265 Briggs Avenue, Costa Mesa, CA 92626. A representative will be happy to assist you. 
 
 #### HOW DO WE PROTECT YOUR PERSONAL INFORMATION?
 
