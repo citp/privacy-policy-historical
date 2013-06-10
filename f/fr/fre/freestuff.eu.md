@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118074142id_/http%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610192921id_/http%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
 
-# Win Your Prize - Free Stuff
+# Free Prize Draws Online - Enter & Win Prizes at Free Stuff
 
   1. **Privacy Policy - Freestuff.eu**
 
@@ -55,7 +55,7 @@ AllGroove Limited uses the data you provide or which is otherwise obtained for t
   5. **Who does AllGroove Limited provide with your data?**
   
 
-    1. Once you have given permission for the provision of your data to clients and partners of AllGroove Limited, AllGroove Limited sends your personal data to the concerned clients and partners.
+    1. Once you have given permission for the provision of your data to clients and partners of AllGroove Limited, AllGroove Limited sends your personal data to the concerned clients and partners. These clients and partners can be found in our list of Sponsors which can be found [here](https://web.archive.org/sponsors.php).
   
 
     2. AllGroove Limited may hire other companies to manage its website or to provide you with products and services.
