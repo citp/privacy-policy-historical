@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jizzparade.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014053835id_/http%3A//www.jizzparade.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jizzparade.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611004847id_/http%3A//www.jizzparade.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Jizz Parade
 
@@ -51,4 +51,4 @@ We will not sell, distribute or lease your personal information to third parties
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. 
 
-If you believe that any information we are holding on you is incorrect or incomplete, please [contact us](https://web.archive.org/web/20121014053835id_/http%3A//www.jizzparade.com/contact.php) as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+If you believe that any information we are holding on you is incorrect or incomplete, please [contact us](https://web.archive.org/web/20130611004847id_/http%3A//www.jizzparade.com/contact.php) as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
