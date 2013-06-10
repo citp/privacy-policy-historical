@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the softcns.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217031731id_/http%3A//www.softcns.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softcns.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610075121id_/http%3A//softcns.com/info/privacy.asp) for the most accurate reproduction.*
 
 # SoftCns.com Privacy Policy
+
+We provide more than 20,000 discount software. Save our customers over $8,000/day!
 
 [Home](http://www.softcns.com/) > Privacy policy
 
@@ -19,3 +21,5 @@ Softcns.com has a proper security measure of Security. It protects the users fro
 Softcns.com contains links to other sites such as vendor site. Softcns.com makes no guarantees regarding their content or practices, and is not responsible for the privacy practices or the content of such Websites.
 
 [](https://certs.websiteprotection.com/sealws/?sealId=4df08135-2ab0-4a91-be14-56b00a0607d7&pop=true)
+
+Copyright © 2006-2013 SoftCns.com (Software Coupons), All Rights Reserved.
