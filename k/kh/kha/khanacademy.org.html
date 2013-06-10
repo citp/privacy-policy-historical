@@ -1,9 +1,8 @@
-<!--The following is the downloaded HTML source of the khanacademy.org privacy policy that was archived on 2012-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225030209id_/http%3A//www.khanacademy.org/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the khanacademy.org privacy policy that was archived on 2013-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130611003056id_/http%3A//www.khanacademy.org/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http://schema.org/Organization" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head prefix="og: http://ogp.me/ns# khanacademy:
                         http://ogp.me/ns/apps/khanacademy#">
-        <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
         
         <!--[if lte IE 7]><script src="/javascript/ie-warning.js"></script><script>window.onload=function(){e("/images/ie-warning/")}</script><![endif]-->
         
@@ -24,16 +23,27 @@
             
             return KA.userProfileModel_;
         },
+
+        setUserProfile: function(attrs) {
+            if (!KA.userProfileModel_) {
+                KA.userProfileModel_ = new ProfileModel(attrs);
+            }
+            KA.userProfileModel_.set(attrs);
+            return KA.userProfileModel_;
+        },
+
         getUserID: function() {
             
             return null;
             
         },
         currentServerTime: function() {
-            return 1356404529.7844701;
+            return 1370910656.3455;
         },
-        topicTreeVersion: "596",
-        loginUrl: "/login?continue=%2Fabout%2Fprivacy-policy"
+        commitSHA: "a7bfb76381a2cdfc2b34d9b4bbd49235aeec23e1",
+        loginUrl: "/login?continue=%2Fabout%2Fprivacy-policy",
+        language: "en",
+        currentPageName: "Privacy Policy | Khan Academy"
     };
 </script>
 
@@ -44,6 +54,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
         <meta name="description" content="With a library of over 3,000 videos covering everything from arithmetic to physics, finance, and history and hundreds of skills to practice, we're on a mission to help you learn what you want, when you want, at your own pace.">
+        
         <meta name="keywords" content="khan academy, learn, videos, lectures, practice, exercises, skills">
 
         
@@ -86,7 +97,7 @@
             
             
             
-<link rel="stylesheet" type="text/css" href="https://khan-academy.appspot.com/stylesheets/shared-package/_hashed-620b76fba847e68307cedc2f0df08a58.css">
+<link rel="stylesheet" type="text/css" href="https://khan-academy.appspot.com/stylesheets/shared-package/_hashed-0851e1c452d1e4e5805973b3774233c9.css">
 <style>
     /* Keep these styles in sync with privacy-policy-mobile.html */
     #privacy-policy { font-size: 15px; line-height: 1.5em; }
@@ -107,23 +118,14 @@
             
         
 
-        <script>
-window.PackageManager = window.PackageManager || {
-    _q: [],
-    setLoaded: function() {
-        this._q.push.apply(this._q, arguments);
-    }
-};
-PackageManager.setLoaded("shared.css")</script>
-<script src="https://khan-academy.appspot.com/javascript/css-support-package/_hashed-a0aa99e51afb670dcbc15030c379049d.js"></script>
-<script>PackageManager.setLoaded("css-support.js")</script>
+        
 
     <script type="text/javascript">
       
-
-      
       window._qf = [];
       var $ = function(f) { _qf.push(f); };
+
+      
 
       window._gaq = window._gaq || [];_gaq.push(['_setAccount', 'UA-6742635-1']);
       _gaq.push(['_setDomainName', '.khanacademy.org']);
@@ -134,9 +136,6 @@ PackageManager.setLoaded("shared.css")</script>
       
       _gaq.push(['_trackPageview']);
 
-      
-      window.mpq = [];
-      
       window._initialPageTime = (new Date()).getTime(); // For page load time tracking</script>
     </head>
 <!--[if lt IE 7]>  <body class="ie ie6 lte9 lte8 lte7"> <![endif]-->
@@ -145,270 +144,343 @@ PackageManager.setLoaded("shared.css")</script>
 <!--[if IE 9]>     <body class="ie ie9 lte9"> <![endif]-->
 <!--[if gt IE 9]>  <body> <![endif]-->
 <!--[if !IE]><!--> <body> <!--<![endif]-->
-    <div id="outer-wrapper" class="clearfix">
-    
-        <div class="notification-bar" style="display:none;">
+    <div id="outer-wrapper" class="clearfix new-header">
+    <div id="top-header-container">
+        <div id="top-header" class="new">
+            <span id="page_auth">
+    <div id="search-box">
+        <form class="page-search" action="/search">
+            <input id="search-input" type="text" placeholder="Search for a video or topic" name="page_search_query" value="" class="ui-corner-all placeholder simple-input search-input blur-on-esc"><input type="submit" value=" " class="search-submit">
+            <i class="icon-search"></i>
+        </form>
+    </div>
 
-</div>
-<div class="notification-bar-spacer"></div>
     
+    <span id="user-info">
     
-    <div id="page-container">
-    <div id="page-container-inner">
+        <a href="/login?continue=%2Fabout%2Fprivacy-policy" class="sign-in-link">Log in</a>
         
-        <div id="fb-root"></div>
+            <a href="/signup?continue=%2Fabout%2Fprivacy-policy" class="sign-up-link">Sign up</a>
+        
+    
+    
+    </span>
+</span>
+<nav class="sitewide-navigation">
+    <span class="links nav-subheader">
+        <span class="dropdown topic-browser-dropdown">
+            <a class="watch-link dropdown-toggle show-demo-dialog">Learn <i class="icon-chevron-down"></i></a>
+            
+            
+                <a href="/class_profile" class=" no-menu coach-link">Coach</a>
+            
 
-            <div id="goals-nav-container" style="display: none" class="ui-corner-bottom"></div>
-            <header>
+            
+            
+            <a href="/about" class=" about-link no-menu show-demo-dialog">About</a>
+            <a href="/donate" class=" nav-link no-menu show-demo-dialog">Donate</a>
+            
 
-                <div id="top-header">
-                                      <div class="top-header-links">
-                        <span class="page_links" id="page_auth">
-                            <span id="goals-container"></span>
-                                <span id="user-info" class="badge-target">
-                                
-                                    <a class="nav-link" href="/login?continue=%2Fabout%2Fprivacy-policy">Log in</a>
-                                    <span class="separator"></span>
-                                    <a class="nav-link" href="/signup?continue=%2Fabout%2Fprivacy-policy">Sign up</a>
-                                
-                                </span>
-                            <span class="separator"></span>
-                            <a href="/donate" class="nav-link ">
-                            Donate
-                            </a>
-                        </span>
-                        <div class="clear"></div>
-                        <div id="nav-and-search">
-                            <div class="sitewide-navigation">
-                                <nav>
-                                    <span class="links nav-subheader">
-                                        <span class="dropdown topic-browser-dropdown">
-                                            
-                                            <a href="/#browse" data-tag="Header" class="watch-link dropdown-toggle">Watch <span class="caret"></span></a>
-                                            
-                                            <a href="/exercisedashboard" data-tag="Header" class=" practice-link">Practice</a>
-                                            
-                                            <a href="/class_profile" data-tag="Header" class=" coach-link">Coach</a>
-                                            
-                                            <a href="/contribute" data-tag="Header" class=" contribute-link">Volunteer</a>
-                                            <a href="/about" data-tag="Header" class=" about-link">About</a>
-                                            <div style="clear: both"></div>
-                                            
-<ul class="topic-browser-menu dropdown-menu none-active" data-role="listview" data-inset="true">
+            <div style="clear: both"></div>
+            
+
+
+<ul class="topic-browser-menu dropdown-menu new none-active" data-role="listview" data-inset="true">
+
+  
+  <li>
+    <a href="/" class="menulink">Home</a>
+  </li>
+  <li>
+    <a href="/exercisedashboard" class="menulink">Knowledge Map</a>
+  </li>
+  
+  <li class="has-divider"></li>
+
+  
   
     
       <li class="level0 has-submenu">
         <a data-tag="TopicBrowserPulldown" class="menulink">Math
+        <i class="icon-chevron-right"></i>
         </a>
-        <div class="right-arrow"></div>
-        <ul class="dropdown-menu no-submenus">
-        
-          <li class="level1 "><a href="/math/arithmetic" data-tag="TopicBrowserPulldown" class="menulink">Arithmetic and Pre-Algebra</a></li>
-        
-          <li class="level1 "><a href="/math/algebra" data-tag="TopicBrowserPulldown" class="menulink">Algebra</a></li>
-        
-          <li class="level1 "><a href="/math/geometry" data-tag="TopicBrowserPulldown" class="menulink">Geometry</a></li>
-        
-          <li class="level1 "><a href="/math/trigonometry" data-tag="TopicBrowserPulldown" class="menulink">Trigonometry</a></li>
-        
-          <li class="level1 "><a href="/math/probability" data-tag="TopicBrowserPulldown" class="menulink">Probability</a></li>
-        
-          <li class="level1 "><a href="/math/statistics" data-tag="TopicBrowserPulldown" class="menulink">Statistics</a></li>
-        
-          <li class="level1 "><a href="/math/precalculus" data-tag="TopicBrowserPulldown" class="menulink">Precalculus</a></li>
-        
-          <li class="level1 "><a href="/math/calculus" data-tag="TopicBrowserPulldown" class="menulink">Calculus</a></li>
-        
-          <li class="level1 "><a href="/math/differential-equations" data-tag="TopicBrowserPulldown" class="menulink">Differential Equations</a></li>
-        
-          <li class="level1 "><a href="/math/linear-algebra" data-tag="TopicBrowserPulldown" class="menulink">Linear Algebra</a></li>
-        
-          <li class="level1 "><a href="/math/applied-math" data-tag="TopicBrowserPulldown" class="menulink">Applied Math</a></li>
-        
-          <li class="level1 "><a href="/math/brain-teasers" data-tag="TopicBrowserPulldown" class="menulink">Brain Teasers</a></li>
-        
-          <li class="level1 "><a href="/math/vi-hart" data-tag="TopicBrowserPulldown" class="menulink">Vi Hart</a></li>
-        
-        </ul>
+        <div class="dropdown-menu no-submenus sub-menu-custom math domain-color">
+          <div class="submenu-title">Math<a href="/exercisedashboard" class="km-link">Knowledge Map</a></div>
+          <ul class="clearfix">
+          
+            <li class="level1 math ">
+              <a href="/math/arithmetic" data-tag="TopicBrowserPulldown" class="menulink">Arithmetic and pre-algebra</a>
+            </li>
+          
+            <li class="level1 math ">
+              <a href="/math/probability" data-tag="TopicBrowserPulldown" class="menulink">Probability and statistics</a>
+            </li>
+          
+            <li class="level1 math ">
+              <a href="/math/algebra" data-tag="TopicBrowserPulldown" class="menulink">Algebra</a>
+            </li>
+          
+            <li class="level1 math ">
+              <a href="/math/differential-equations" data-tag="TopicBrowserPulldown" class="menulink">Differential equations</a>
+            </li>
+          
+            <li class="level1 math ">
+              <a href="/math/geometry" data-tag="TopicBrowserPulldown" class="menulink">Geometry</a>
+            </li>
+          
+            <li class="level1 math ">
+              <a href="/math/linear-algebra" data-tag="TopicBrowserPulldown" class="menulink">Linear algebra</a>
+            </li>
+          
+            <li class="level1 math ">
+              <a href="/math/trigonometry" data-tag="TopicBrowserPulldown" class="menulink">Trigonometry and precalculus</a>
+            </li>
+          
+            <li class="level1 math ">
+              <a href="/math/applied-math" data-tag="TopicBrowserPulldown" class="menulink">Applied math</a>
+            </li>
+          
+            <li class="level1 math ">
+              <a href="/math/calculus" data-tag="TopicBrowserPulldown" class="menulink">Calculus</a>
+            </li>
+          
+            <li class="level1 math ">
+              <a href="/math/recreational-math" data-tag="TopicBrowserPulldown" class="menulink">Recreational mathematics</a>
+            </li>
+          
+          </ul>
+        </div>
       </li>
     
   
     
       <li class="level0 has-submenu">
-        <a data-tag="TopicBrowserPulldown" class="menulink">Science
+        <a data-tag="TopicBrowserPulldown" class="menulink">Science &amp; Economics
+        <i class="icon-chevron-right"></i>
         </a>
-        <div class="right-arrow"></div>
-        <ul class="dropdown-menu no-submenus">
-        
-          <li class="level1 "><a href="/science/biology" data-tag="TopicBrowserPulldown" class="menulink">Biology</a></li>
-        
-          <li class="level1 "><a href="/science/chemistry" data-tag="TopicBrowserPulldown" class="menulink">Chemistry</a></li>
-        
-          <li class="level1 "><a href="/science/cosmology-and-astronomy" data-tag="TopicBrowserPulldown" class="menulink">Cosmology and Astronomy</a></li>
-        
-          <li class="level1 "><a href="/science/healthcare-and-medicine" data-tag="TopicBrowserPulldown" class="menulink">Healthcare and Medicine</a></li>
-        
-          <li class="level1 "><a href="/science/organic-chemistry" data-tag="TopicBrowserPulldown" class="menulink">Organic Chemistry</a></li>
-        
-          <li class="level1 "><a href="/science/physics" data-tag="TopicBrowserPulldown" class="menulink">Physics</a></li>
-        
-          <li class="level1 "><a href="/science/lebron-asks" data-tag="TopicBrowserPulldown" class="menulink">LeBron Asks</a></li>
-        
-          <li class="level1 "><a href="/science/mit-k12" data-tag="TopicBrowserPulldown" class="menulink">MIT+K12</a></li>
-        
-          <li class="level1 "><a href="/science/projects" data-tag="TopicBrowserPulldown" class="menulink">Projects</a></li>
-        
-        </ul>
+        <div class="dropdown-menu no-submenus sub-menu-custom science domain-color">
+          <div class="submenu-title">Science &amp; Economics</div>
+          <ul class="clearfix">
+          
+            <li class="level1 science ">
+              <a href="/science/biology" data-tag="TopicBrowserPulldown" class="menulink">Biology</a>
+            </li>
+          
+            <li class="level1 science ">
+              <a href="/science/microeconomics" data-tag="TopicBrowserPulldown" class="menulink">Microeconomics</a>
+            </li>
+          
+            <li class="level1 science ">
+              <a href="/science/chemistry" data-tag="TopicBrowserPulldown" class="menulink">Chemistry</a>
+            </li>
+          
+            <li class="level1 science ">
+              <a href="/science/macroeconomics" data-tag="TopicBrowserPulldown" class="menulink">Macroeconomics</a>
+            </li>
+          
+            <li class="level1 science ">
+              <a href="/science/physics" data-tag="TopicBrowserPulldown" class="menulink">Physics</a>
+            </li>
+          
+            <li class="level1 science ">
+              <a href="/science/computer-science" data-tag="TopicBrowserPulldown" class="menulink">Computer science</a>
+            </li>
+          
+            <li class="level1 science ">
+              <a href="/science/cosmology-and-astronomy" data-tag="TopicBrowserPulldown" class="menulink">Cosmology and astronomy</a>
+            </li>
+          
+            <li class="level1 science ">
+              <a href="/science/healthcare-and-medicine" data-tag="TopicBrowserPulldown" class="menulink">Healthcare and medicine</a>
+            </li>
+          
+            <li class="level1 science ">
+              <a href="/science/organic-chemistry" data-tag="TopicBrowserPulldown" class="menulink">Organic chemistry</a>
+            </li>
+          
+            <li class="level1 science ">
+              <a href="/science/lebron-asks" data-tag="TopicBrowserPulldown" class="menulink">LeBron asks</a>
+            </li>
+          
+            <li class="level1 science ">
+              <a href="/science/core-finance" data-tag="TopicBrowserPulldown" class="menulink">Finance and capital markets</a>
+            </li>
+          
+            <li class="level1 science ">
+              <a href="/science/projects" data-tag="TopicBrowserPulldown" class="menulink">Projects</a>
+            </li>
+          
+          </ul>
+        </div>
       </li>
     
   
     
       <li class="level0 has-submenu">
-        <a href="/cs" data-tag="TopicBrowserPulldown" class="menulink">Computer Science
+        <a data-tag="TopicBrowserPulldown" class="menulink">Computer Science
+        <i class="icon-chevron-right"></i>
         </a>
-        <div class="right-arrow"></div>
-        <ul class="dropdown-menu no-submenus">
-        
-          <li class="level1 "><a href="/cs/tutorials/drawing" data-tag="TopicBrowserPulldown" class="menulink">Drawing</a></li>
-        
-          <li class="level1 "><a href="/cs/tutorials/programming-basics" data-tag="TopicBrowserPulldown" class="menulink">Programming Basics</a></li>
-        
-          <li class="level1 "><a href="/cs/tutorials/animation" data-tag="TopicBrowserPulldown" class="menulink">Animation</a></li>
-        
-          <li class="level1 "><a href="/cs/tutorials/user-interaction" data-tag="TopicBrowserPulldown" class="menulink">User Interaction</a></li>
-        
-        </ul>
-      </li>
-    
-  
-    
-      <li class="level0 has-submenu">
-        <a data-tag="TopicBrowserPulldown" class="menulink">Finance &amp; Economics
-        </a>
-        <div class="right-arrow"></div>
-        <ul class="dropdown-menu no-submenus">
-        
-          <li class="level1 "><a href="/finance-economics/core-finance" data-tag="TopicBrowserPulldown" class="menulink">Core Finance</a></li>
-        
-          <li class="level1 "><a href="/finance-economics/valuation-and-investing" data-tag="TopicBrowserPulldown" class="menulink">Valuation and Investing</a></li>
-        
-          <li class="level1 "><a href="/finance-economics/venture-capital-and-capital-markets" data-tag="TopicBrowserPulldown" class="menulink">Venture Capital and Capital Markets</a></li>
-        
-          <li class="level1 "><a href="/finance-economics/credit-crisis" data-tag="TopicBrowserPulldown" class="menulink">Credit Crisis</a></li>
-        
-          <li class="level1 "><a href="/finance-economics/paulson-bailout" data-tag="TopicBrowserPulldown" class="menulink">Paulson Bailout</a></li>
-        
-          <li class="level1 "><a href="/finance-economics/geithner-plan" data-tag="TopicBrowserPulldown" class="menulink">Geithner Plan</a></li>
-        
-          <li class="level1 "><a href="/finance-economics/current-economics" data-tag="TopicBrowserPulldown" class="menulink">Current Economics</a></li>
-        
-          <li class="level1 "><a href="/finance-economics/banking-and-money" data-tag="TopicBrowserPulldown" class="menulink">Banking and Money</a></li>
-        
-          <li class="level1 "><a href="/finance-economics/currency" data-tag="TopicBrowserPulldown" class="menulink">Currency</a></li>
-        
-          <li class="level1 "><a href="/finance-economics/microeconomics" data-tag="TopicBrowserPulldown" class="menulink">Microeconomics</a></li>
-        
-          <li class="level1 "><a href="/finance-economics/macroeconomics" data-tag="TopicBrowserPulldown" class="menulink">Macroeconomics</a></li>
-        
-          <li class="level1 "><a href="/finance-economics/greek-debt-crisis" data-tag="TopicBrowserPulldown" class="menulink">Greek Debt Crisis</a></li>
-        
-        </ul>
+        <div class="dropdown-menu no-submenus sub-menu-custom cs domain-color">
+          <div class="submenu-title"><a href="/cs">Computer Science</a></div>
+          <ul class="clearfix">
+          
+            <li class="level1 cs ">
+              <a href="/cs/tutorials/drawing" data-tag="TopicBrowserPulldown" class="menulink">Drawing</a>
+            </li>
+          
+            <li class="level1 cs ">
+              <a href="/cs/tutorials/animation" data-tag="TopicBrowserPulldown" class="menulink">Animation</a>
+            </li>
+          
+            <li class="level1 cs ">
+              <a href="/cs/tutorials/programming-basics" data-tag="TopicBrowserPulldown" class="menulink">Programming Basics</a>
+            </li>
+          
+            <li class="level1 cs ">
+              <a href="/cs/tutorials/user-interaction" data-tag="TopicBrowserPulldown" class="menulink">User Interaction</a>
+            </li>
+          
+          </ul>
+        </div>
       </li>
     
   
     
       <li class="level0 has-submenu">
         <a data-tag="TopicBrowserPulldown" class="menulink">Humanities
+        <i class="icon-chevron-right"></i>
         </a>
-        <div class="right-arrow"></div>
-        <ul class="dropdown-menu no-submenus">
-        
-          <li class="level1 "><a href="/humanities/history" data-tag="TopicBrowserPulldown" class="menulink">History</a></li>
-        
-          <li class="level1 "><a href="/humanities/american-civics" data-tag="TopicBrowserPulldown" class="menulink">American Civics</a></li>
-        
-          <li class="level1 "><a href="/humanities/art-history" data-tag="TopicBrowserPulldown" class="menulink">Art History</a></li>
-        
-        </ul>
+        <div class="dropdown-menu no-submenus sub-menu-custom humanities domain-color">
+          <div class="submenu-title">Humanities</div>
+          <ul class="clearfix">
+          
+            <li class="level1 humanities ">
+              <a href="/humanities/history" data-tag="TopicBrowserPulldown" class="menulink">World History</a>
+            </li>
+          
+            <li class="level1 humanities ">
+              <a href="/humanities/american-civics" data-tag="TopicBrowserPulldown" class="menulink">American Civics</a>
+            </li>
+          
+            <li class="level1 humanities ">
+              <a href="/humanities/art-history" data-tag="TopicBrowserPulldown" class="menulink">Art History</a>
+            </li>
+          
+          </ul>
+        </div>
       </li>
     
   
     
       <li class="level0 has-submenu">
         <a data-tag="TopicBrowserPulldown" class="menulink">Test Prep
+        <i class="icon-chevron-right"></i>
         </a>
-        <div class="right-arrow"></div>
-        <ul class="dropdown-menu no-submenus">
-        
-          <li class="level1 "><a href="/test-prep/sat-math" data-tag="TopicBrowserPulldown" class="menulink">SAT Math</a></li>
-        
-          <li class="level1 "><a href="/test-prep/gmat" data-tag="TopicBrowserPulldown" class="menulink">GMAT</a></li>
-        
-          <li class="level1 "><a href="/test-prep/cahsee" data-tag="TopicBrowserPulldown" class="menulink">CAHSEE</a></li>
-        
-          <li class="level1 "><a href="/test-prep/california-standards-test" data-tag="TopicBrowserPulldown" class="menulink">California Standards Test</a></li>
-        
-          <li class="level1 "><a href="/test-prep/competition-math" data-tag="TopicBrowserPulldown" class="menulink">Competition Math</a></li>
-        
-          <li class="level1 "><a href="/test-prep/iit-jee" data-tag="TopicBrowserPulldown" class="menulink">IIT JEE</a></li>
-        
-          <li class="level1 "><a href="/test-prep/singapore-math" data-tag="TopicBrowserPulldown" class="menulink">Singapore Math</a></li>
-        
-        </ul>
+        <div class="dropdown-menu no-submenus sub-menu-custom test-prep domain-color">
+          <div class="submenu-title">Test Prep</div>
+          <ul class="clearfix">
+          
+            <li class="level1 test-prep ">
+              <a href="/test-prep/sat-math" data-tag="TopicBrowserPulldown" class="menulink">SAT Math</a>
+            </li>
+          
+            <li class="level1 test-prep ">
+              <a href="/test-prep/california-standards-test" data-tag="TopicBrowserPulldown" class="menulink">California Standards Test</a>
+            </li>
+          
+            <li class="level1 test-prep ">
+              <a href="/test-prep/gmat" data-tag="TopicBrowserPulldown" class="menulink">GMAT</a>
+            </li>
+          
+            <li class="level1 test-prep ">
+              <a href="/test-prep/competition-math" data-tag="TopicBrowserPulldown" class="menulink">Competition Math</a>
+            </li>
+          
+            <li class="level1 test-prep ">
+              <a href="/test-prep/cahsee" data-tag="TopicBrowserPulldown" class="menulink">CAHSEE</a>
+            </li>
+          
+            <li class="level1 test-prep ">
+              <a href="/test-prep/iit-jee" data-tag="TopicBrowserPulldown" class="menulink">IIT JEE</a>
+            </li>
+          
+          </ul>
+        </div>
       </li>
     
   
     
-      <li class="level0"><a href="/talks-and-interviews" data-tag="TopicBrowserPulldown" class="menulink">Talks and Interviews</a></li>
+      <li class="level0 has-submenu">
+        <a data-tag="TopicBrowserPulldown" class="menulink">Partner Content
+        <i class="icon-chevron-right"></i>
+        </a>
+        <div class="dropdown-menu no-submenus sub-menu-custom partner-content domain-color">
+          <div class="submenu-title">Partner Content</div>
+          <ul class="clearfix">
+          
+            <li class="level1 partner-content ">
+              <a href="/partner-content/stanford-medicine" data-tag="TopicBrowserPulldown" class="menulink">Stanford School of Medicine</a>
+            </li>
+          
+            <li class="level1 partner-content ">
+              <a href="/partner-content/mit-k12" data-tag="TopicBrowserPulldown" class="menulink">MIT+K12</a>
+            </li>
+          
+          </ul>
+        </div>
+      </li>
     
   
     
-      <li class="level0"><a href="/coach-res" data-tag="TopicBrowserPulldown" class="menulink">Coach Resources</a></li>
+      <li class="level0">
+        <a href="/talks-and-interviews" data-tag="TopicBrowserPulldown" class="menulink">Talks and Interviews</a>
+      </li>
     
   
-  <li class="has-divider"><a href="/library" data-tag="TopicBrowserPulldownBrowse" class="menulink">Browse all videos</a></li>
+    
+      <li class="level0">
+        <a href="/coach-res" data-tag="TopicBrowserPulldown" class="menulink">Coach Resources</a>
+      </li>
+    
+  
+
+  
+  <li class="has-divider"></li>
+  <li>
+    <a href="/library" data-tag="TopicBrowserPulldownBrowse" class="menulink">Browse all videos</a>
+  </li>
 </ul>
 
 
-                                        </span>
-                                    </span>
-                                </nav>
-                            </div>
-                            <div id="search-box">
-                                <form class="page-search" action="/search">
-                                    <input id="search-input" type="text" placeholder="Search for a video or topic" name="page_search_query" value="" class="ui-corner-all placeholder simple-input search-input blur-on-esc"><input type="submit" value=" " class="search-submit">
-                                </form>
-                            </div>
-                            <div class="clear"></div>
-                        </div>
-                    </div>
-                    <div id="logo">
-                        
-                            
-                        
-                        <a id="logo-image" href="/" title="Take me home!" data-tag="Header"></a>
-                        <div id="stats">
-                            <span id="page_visitors">
-                                    <span id="page_num_visitors">
-                                        <!-- Content will get populated by javacript at end of page -->
-                                    </span>&nbsp;lessons delivered
-                            </span>
-                        </div>
-                    </div>
-                    <div class="clear"></div>
-                </div>
-
-
-                <nav id="page_sub_nav">
+        </span>
+    </span>
+</nav>
+<a id="header-logo" href="/" title="Take me home!" data-tag="Header">
+    <img src="https://khan-academy.appspot.com/images/ka-simplified-logo-white.png">
+</a>
+        </div>
+    </div>
+    
+    
+    <div id="page-container">
+    <div id="page-container-inner">
+        
+        <div id="fb-root"></div>
+            <header>
+                <nav id="page_sub_nav" class="clearfix">
                     
                     <b>Privacy Policy</b>
                     
                 </nav>
                 
                 
-
                 
             </header>
+            <noscript>
+            <div class="noscript-warning">
+            <p><i class="icon-warning-sign"></i> To log in and use all the features of Khan Academy, please enable JavaScript in your browser.</p>
+            </div>
+            </noscript>
             
             
 <article id="privacy-policy">
@@ -418,27 +490,29 @@ PackageManager.setLoaded("shared.css")</script>
 <hr>
 
 <h2 class="main-headline">Khan Academy Privacy Policy</h2>
-<p>Last Updated: May 22, 2012</p>
+<p>Last Updated: March 11, 2013</p>
 
 <p>Welcome to the web site and online services (the "<b>Website</b>") operated by Khan Academy, Inc., a 501(c)(3) organization ("<b>Khan Academy</b>"). Khan Academy values the privacy of our members and others who visit and use the Website (individually, "<b>You</b>" or collectively, "<b>Users</b>"). We take your privacy seriously and make it a priority to protect personally identifiable information that we obtain from and about individuals both online and off-line.</p>
 <p>This Privacy Policy describes what information we gather from you, how we use that information, and what we do to protect it. By using the Website (whether or not you are a registered member), you expressly consent to the information handling practices described in this policy. If you do not want information about you to be used in the manner set forth in this Privacy Policy, please do not use the Website.</p>
-<p>This Privacy Policy is incorporated into and is subject to the Khan Academy <a href="/about/tos">Terms of Service</a>. Your use of the Website and any personal information you provide on the Website are subject to the terms of this Privacy Policy and Khan Academy's <a href="/about/tos">Terms of Service</a>.</p>
+<p>This Privacy Policy is incorporated into and is subject to the Khan Academy <a href="/about/tos">Terms of Service</a>. Your use of the Website and any personal information you provide on the Website are subject to the terms of this Privacy Policy and Khan Academy's <a href="/about/tos">Terms of Service</a>. Any capitalized terms used but not defined herein shall have the meaning set forth in the Terms of Service.</p>
 
 <h3>Our Commitment to Children's Privacy:</h3>
 
-<p>Protecting the privacy of young children is especially important. For that reason, Khan Academy puts in place certain features designed to help protect the personally identifiable information of children less than 13 years of age. Khan Academy does not knowingly permit any person less than 13 years of age to register directly for the Website unless Khan Academy reasonably believes the child's parent has consented to such registration and use of the Website. If Khan Academy learns that personally-identifiable information of persons less than 13 years of age has been collected on the Website without parental consent, then Khan Academy will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has a registered account with the Website without your consent, then you may alert Khan Academy at <a href="mailto:privacy@khanacademy.org">privacy@khanacademy.org</a> and request that Khan Academy delete that child's personal information from its systems.</p>
+<p>Protecting the privacy of young children is especially important. For that reason, Khan Academy puts in place certain features designed to help protect the personally identifiable information of children less than 13 years of age. Khan Academy does not knowingly permit any person less than 13 years of age to register directly for the Website unless Khan Academy reasonably believes, or has received assurances from a Coach, that the child's parent has consented to such registration and use of the Website. If Khan Academy learns that personally-identifiable information of persons less than 13 years of age has been collected on the Website without parental consent, then Khan Academy will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has a registered account with the Website without your consent, then you may alert Khan Academy at <a href="mailto:privacy@khanacademy.org">privacy@khanacademy.org</a> and request that Khan Academy delete that child's personal information from its systems.</p>
 
 <h3>Child Registration:</h3>
 
-<p>When a child under the age of 13 ("<b>Child Member</b>") requests to register for the Website, Khan Academy first seeks consent from the child's identified parent or guardian ("<b>Parent</b>"). During the initial registration process, we may collect from a potential Child Member their email address and birth date, along with an email address for a Parent. During this initial registration stage, we do not store the child's email address or birth date if we do not have parental consent for such Child Member's registration for the Website. Khan Academy attempts to inform the child's Parent, using an email address provided by the child, of the request for a Child Member account and directs the Parent to this Privacy Policy. If you are a Parent and wish to consent to your child's registration on the Website, you must first register for the Website under an adult account. If you are a registered Parent on the Website, you may create a child account for each Child Member for whom you are a legal parent or guardian. A Parent may additionally revoke a child's permission to use the Website at any time by either contacting Khan Academy at <a href="mailto:privacy@khanacademy.org">privacy@khanacademy.org</a> or by changing the password for the child's account using the features provided for a parent account. If you are a Parent and register your child for a Child Member account, you agree and acknowledge that you permit the Child Member to use the Website and all features made available on the Website as fully contemplated by Khan Academy. As a Parent, you understand that any personally identifiable information of your child that you provide in connection with registration or otherwise may be used by Khan Academy as provided in this Privacy Policy. Except where the context indicates otherwise, the remainder of this Privacy Policy (including any discussion of the personally identifiable information that Khan Academy may collect, use or disclose) shall apply equally to a Child Member account and a Parent account. The Website does not condition a Child Member's participation in an online activity on the Child Member providing more personal information than is reasonably necessary for that activity. </p>
+<p>When a child under the age of 13 ("<b>Child Member</b>") requests to register for the Website, Khan Academy first seeks consent from the child's identified parent or guardian ("<b>Parent</b>"). During the initial registration process, we may collect from a potential Child Member their email address and birth date, along with an email address for a Parent. In some cases, a Coach may be able to directly register a Child Member for the Website by the Coach providing to us during such registration process a username and password for the Child Member account, the child’s birth date and an email address of the child’s parent. Khan Academy attempts to inform the child's Parent, using the email address provided by the child or the Coach, of the request for a Child Member account and directs the Parent to this Privacy Policy. Please note that, although Khan Academy will make reasonable efforts to inform the Parent following the creation of a Child Member account by a Coach, the Child Member account will be immediately active and ready for use by the Child Member upon registration by the Coach. If you are a Parent and wish to consent to your child's registration on the Website, you must first register for the Website under an adult account. If you are a registered Parent on the Website, you may create a child account, or request an existing child account to be assigned to your parent account, for each Child Member for whom you are a parent or legal guardian. A Parent may additionally revoke a child's permission to use the Website at any time by either contacting Khan Academy at <a href="mailto:privacy@khanacademy.org">privacy@khanacademy.org</a> or by changing the password for the child's account using the features provided for a parent account. If you are a Parent and register your child for a Child Member account or have the Child Member account assigned to your parent account, you agree and acknowledge that you permit the Child Member to use the Website and all features made available on the Website as fully contemplated by Khan Academy. As a Parent, you understand that any personally identifiable information of your child that you or a Coach provide in connection with registration or otherwise may be used by Khan Academy as provided in this Privacy Policy. Except where the context indicates otherwise, the remainder of this Privacy Policy (including any discussion of the personally identifiable information that Khan Academy may collect, use or disclose) shall apply equally to a Child Member account and a Parent account. The Website does not condition a Child Member's participation in an online activity on the Child Member providing more personal information than is reasonably necessary for that activity. </p>
 
 <h3>The Information Khan Academy Collects</h3>
 
 <ul>
-<li><b>User-provided Information</b>: When you register for, browse and use the Website, you may provide to Khan Academy what is generally called "personally identifiable information" (such as your full name, email address, postal mailing address, and/or home/mobile telephone number). You may also be able to add a picture of yourself. If you decide to register through or otherwise grant access to a third party social networking or authentication service that we may make available ("<b>Authentication Service</b>"), such as Facebook Connect or Google, Khan Academy may also collect any such "personally identifiable information" that you have provided to the Authentication Service from the account you have with the Authentication Service. You may revoke Khan Academy's access to your account on the Authentication Service at any time by updating the appropriate settings in the account preferences of the respective Authentication Service. From time to time, Khan Academy may also ask you optionally to provide other information. If you choose to provide such information, during registration or otherwise, you are giving Khan Academy the permission to use and store it consistent with this policy. Therefore, please understand that when you sign in with Khan Academy, you are not anonymous to us.</li>
+<li><b>User-provided Information</b>: When you register for, browse and use the Website, you may provide to Khan Academy what is generally called "personally identifiable information" (such as your full name, email address, postal mailing address, and/or home/mobile telephone number). You may also be able to add a picture of yourself. If you decide to register through or otherwise grant access to a third party social networking or integrated service that we may make available ("<b>Integrated Service</b>"), such as Facebook Connect or Google, Khan Academy may also collect any such "personally identifiable information" that you have provided to the Integrated Service from the account you have with the Integrated Service. You may revoke Khan Academy's access to your account on the Integrated Service at any time by updating the appropriate settings in the account preferences of the respective Integrated Service. You should check your privacy settings on each Integrated Service to understand and change the information sent to us through each Integrated Service. Please review each Integrated Service’s terms of use and privacy policies carefully before using their services and connecting to our Website. From time to time, Khan Academy may also ask you optionally to provide other information. If you choose to provide such information, during registration or otherwise, you are giving Khan Academy the permission to use and store it consistent with this policy. Therefore, please understand that when you sign in with Khan Academy, you are not anonymous to us.</li>
+<li><b>Information from other Users</b>: We may make available certain features in the Website that allow other Users of the Website to provide us information that may include your personally identifiable information.  For example, we may permit a Coach to register an account for you on your behalf in which the Coach pre-populates certain profile information about you.</li>
 <li><b>"Cookies" Information</b>: When you visit the Website, whether or not you are a registered member, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. Cookies remember information about your activities on a website. Khan Academy may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Website. Persistent cookies can be removed. Please review your web browser "Help" file to learn the proper way to modify your cookie settings. However, without cookies you will not have access to certain services and features on the Website. Third party advertisements displayed in connection with the Website may also contain cookies set by internet advertisers. We do not control these cookies and users of the Website should check the privacy policy of the advertiser to see whether and how it uses cookies.</li>
 <li><b>"Automatically Collected" Information:</b> When you use the Website, we may automatically record certain information from your browser by using different types of technology, including standard log files, "clear gifs" or "web beacons." This "automatically collected" information may include your Internet Protocol (IP) address, browser type, internet service provider (ISP), referring or exit pages, click stream data, operating system and the dates and times that you visit the Website. Additionally, we may record certain information regarding your use of features that Khan Academy may make available on the Website, such as the number of problems you have attempted, the number of videos you have viewed and the amount of time spent to complete a problem.</li>
 <li><b>Third Party Web Beacons: </b>We may also implement third party content, such as advertising, on the Website that uses "clear gifs," "web beacons," or other similar techniques, which allow the third party content provider to read and write cookies to your browser, or implement similar tracking mechanisms, in connection with your viewing of that third party content displayed on the Website. This information is collected directly by the third party, and Khan Academy does not participate in that data transmission. Information collected by third parties in this manner is subject to that third party's own data collection, use, and disclosure policies.</li>
+<li><b>Location Information:</b>We may collect and store information about your location if you enable your computer or mobile device to send us location information.  You may be able to change the settings on your computer or mobile device to prevent it from providing us with such information.</li>
 <li><b>Information from Other Sources:</b>We may also obtain information, including personally identifiable information, from third parties and sources other than the Website. If we combine or associate information from other sources with personally identifiable information that we collect through the Website, we will treat the combined information as personally identifiable information in accordance with this Privacy Policy.</li>
 </ul>
 
@@ -495,7 +569,7 @@ PackageManager.setLoaded("shared.css")</script>
 
 <p>Please contact Khan Academy with any questions or comments about this Privacy Policy, your personal information, our third-party disclosure practices, or your consent choices by email at <a href="mailto:privacy@khanacademy.org">privacy@khanacademy.org</a> or by mail at: Khan Academy, PO Box 1630, Mountain View, CA 94042.</p>
 
-            <div id="end-of-page-spacer" style="height: 38px;">&nbsp;</div>
+            <div id="end-of-page-spacer">&nbsp;</div>
 
     </article></div>
     </div>
@@ -503,44 +577,73 @@ PackageManager.setLoaded("shared.css")</script>
     <div class="push"></div>
     
     
-    
+        
 
-<footer id="footer" class="short">
-    <div id="leaves">
-        <div class="inner">
-        <div id="copyright" class="tiny" title="Version: 1223-174250316294.364079538987598121">
-            <small>
-                ©2012
-                
-                
-                Khan
-                Academy®
-            </small>
-            <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/" id="creative-commons-link"></a>
-        </div>
-        <span class="footer-links">
-            <a href="http://khanacademy.desk.com" data-tag="Footer">Contact</a>
-            
-            <a href="/reportissue?type=Defect&amp;issue_labels=" data-tag="Footer" id="report">Report a Problem</a>
-            
-            <span class="sep">|</span>
-            <a href="/about/blog" data-tag="Footer">Blog</a>
-            <a href="http://khanacademy.desk.com" id="faq-link" data-tag="Footer">FAQ</a>
-            <span class="sep">|</span>
-            <a href="/careers" data-tag="Footer">Careers</a>
-            <span class="sep">|</span>
-            <a href="/about/tos" title="Terms of Service" data-tag="Footer">ToS</a>
-            <a href="/about/privacy-policy" title="Privacy Policy" data-tag="Footer">Privacy Policy</a>
-            <span class="sep">|</span>
-            <a href="http://shop.khanacademy.org/" data-tag="Footer">Store</a>
-            
-            <span class="sep">|</span>
-            
+<footer id="footer">
+    <div class="footer-container">
+        <div class="row-fluid main-links">
+            <div class="span2">
+                <ul>
+                    <li class="heading">About</li>
+                    <li><a href="/about">Our Mission</a></li>
+                    <li><a href="/about/blog">Blog</a></li>
+                    <li><a href="/about/the-team">Our Team</a></li>
+                    <li><a href="/about/our-interns">Our Interns</a></li>
+                    <li><a href="/about/our-supporters">Our Supporters</a></li>
+                    <li><a href="/about/discovery-lab">Discovery Lab</a></li>
+                    <li><a href="/about/med-competition">MCAT Video Competition</a></li>
+                </ul>
+            </div>
+            <div class="span2">
+                <ul>
+                    <li class="heading">Help</li>
+                    
+                    <li><a href="/reportissue?type=Defect&amp;issue_labels=" data-tag="Footer" id="report" class="show-demo-dialog">Report a Problem</a></li>
+                    
+                    <li><a href="http://khanacademy.desk.com/">FAQ</a></li>
+
+                    <li class="heading spaced">Contact Us</li>
+                    <li><a href="http://khanacademy.desk.com/">Contact</a></li>
+                    <li><a href="http://khanacademy.desk.com/customer/portal/articles/441307-press-room">Press</a></li>
+                </ul>
+            </div>
+            <div class="span2">
+                <ul>
+                    <li class="heading">Coaching</li>
+                    
+                    <li><a href="/class_profile">Coach Dashboard</a></li>
+                    <li><a href="/coach-res">Teacher Toolkit</a></li>
+                    <li><a href="/coach-res">Coaching Tips</a></li>
+                    <li><a href="/coach-res/case-studies">Pilot Schools</a></li>
+
+                    
+                </ul>
+            </div>
+            <div class="span2">
+                <ul>
+                    <li class="heading">Careers</li>
+                    <li><a href="/careers">Full Time</a></li>
+                    <li><a href="/careers/interns">Internships</a></li>
+
+                    <li class="heading spaced">More</li>
+                    <li><a href="/donate">Donate</a></li>
+                    <li><a href="/contribute">Contribute</a></li>
+                    <li><a href="http://shop.khanacademy.org/">Shop KA</a></li>
+                </ul>
+            </div>
+            <div class="span2">
+                <ul>
+                    <li class="heading">International</li>
+                    <li>
 <select id="language_picker">
     
         
         
         <option value="id">Bahasa Indonesia</option>
+    
+        
+        
+        <option value="da">Dansk</option>
     
         
         
@@ -568,6 +671,10 @@ PackageManager.setLoaded("shared.css")</script>
     
         
         
+        <option value="nl">Nederlands</option>
+    
+        
+        
         <option value="no">Norsk</option>
     
         
@@ -576,7 +683,11 @@ PackageManager.setLoaded("shared.css")</script>
     
         
         
-        <option value="pt">Português</option>
+        <option value="pt">Português (Brasil)</option>
+    
+        
+        
+        <option value="ptpt">Português (Portugal)</option>
     
         
         
@@ -592,6 +703,10 @@ PackageManager.setLoaded("shared.css")</script>
     
         
         
+        <option value="cs">Česky</option>
+    
+        
+        
         <option value="el">Ελληνικά</option>
     
         
@@ -601,6 +716,10 @@ PackageManager.setLoaded("shared.css")</script>
         
         
         <option value="uk">Українська</option>
+    
+        
+        
+        <option value="hy">Հայերեն</option>
     
         
         
@@ -624,6 +743,10 @@ PackageManager.setLoaded("shared.css")</script>
     
         
         
+        <option value="te">తెలుగు</option>
+    
+        
+        
         <option value="th">ไทย</option>
     
         
@@ -631,71 +754,116 @@ PackageManager.setLoaded("shared.css")</script>
         <option value="cmn">中文</option>
     
 </select>
+</li>
+                    <li><a href="/contribute">Translate our content</a></li>
 
-            <span class="small-social-links">
-                <span class="sep">|</span>
-                <a class="google-analytics-link-track youtube" onclick="_gaq.push(['_trackEvent', 'Click', 'Youtube-Subscribe-Header']);" href="http://www.youtube.com/khanacademy" title="Youtube"></a>
-                <a class="google-analytics-link-track twitter" onclick="_gaq.push(['_trackEvent', 'Click', 'Twitter-Follow-Header']);" href="http://twitter.com/khanacademy" title="Twitter"></a>
-                <a class="google-analytics-link-track facebook" onclick="_gaq.push(['_trackEvent', 'Click', 'Facebook-Join-Header']);" href="http://www.facebook.com/khanacademy" title="Facebook"></a>
-            </span>
-        </span>
+                    <li class="heading spaced">Social</li>
+                    <li><a class="google-analytics-link-track facebook show-demo-dialog" onclick="_gaq.push(['_trackEvent', 'Click', 'Facebook-Join-Header']);" href="http://www.facebook.com/khanacademy" title="Facebook">Facebook</a></li>
+                    <li><a class="google-analytics-link-track twitter show-demo-dialog" onclick="_gaq.push(['_trackEvent', 'Click', 'Twitter-Follow-Header']);" href="http://twitter.com/khanacademy" title="Twitter">Twitter</a></li>
+                    <li><a href="http://life.khanacademy.org/">Life at KA</a></li>
+                </ul>
+            </div>
+
+            <div class="span2">
+                <img class="handtree" src="https://khan-academy.appspot.com/images/khan-logo-vertical-transparent.png">
+            </div>
         </div>
+
+        <div class="row-fluid extra-links">
+            <div class="span1 legal">
+                    <span><a href="/about/tos">Terms of Use</a></span>
+            </div>
+            <div class="span1 legal">
+                    <span><a href="/about/privacy-policy">Privacy Policy</a></span>
+            </div>
+            
+            <div class="span4 offset6 copyright" title="Version: 0607-63b92054cb01.367930701064426329">
+                © 2013
+                
+                
+                Khan Academy <br>
+                Except where noted, all rights reserved.
+            </div>
+
+        </div>
+
     </div>
 </footer>
+
     
 
     
-        
-<script src="https://khan-academy.appspot.com/javascript/shared-package/_hashed-a12761b1d4c9684ffbf4a611bdc55752.js"></script>
+        <script>
+window.PackageManager = window.PackageManager || {
+    _q: [],
+    setLoaded: function() {
+        this._q.push.apply(this._q, arguments);
+    }
+};
+PackageManager.setLoaded("shared.css")</script>
+<script src="https://khan-academy.appspot.com/javascript/shared-package/_hashed-45aa0388bab247947bbee40aa2ba328f.js"></script>
 <script>PackageManager.setLoaded("shared.js")</script>
     
 
+    
     <script type="text/javascript">
-      PackageManager.registerDynamic(
-{"files":["/javascript/maps-package/_hashed-6db7e345701ae9af72e91821ee057813.js"],
-"dependencies":[],
-"name":"maps.js"});
-      PackageManager.registerDynamic(
-{"files":["/javascript/phantom-package/_hashed-d8e833207643779daf086dac39825485.js"],
-"dependencies":[],
-"name":"phantom.js"});
+      PackageManager.registerManifests({"stylesheets": [{"files": ["/stylesheets/homepage-lite-package/_hashed-736f136f55eff8928a3f98f9e7133e9c.css"], "name": "homepage-lite.css"}, {"files": ["/stylesheets/discussion-package/_hashed-c5eafd50321bbd82d68aba7c7f279d0a.css"], "name": "discussion.css"}, {"files": ["/stylesheets/login-package/_hashed-7ff904407ddb813a9e2618edf3198f1b.css"], "name": "login.css"}, {"files": ["/stylesheets/tutorial-package/_hashed-56086bb1cdb3d9e6ac5d93ac88a393cd.css"], "name": "tutorial.css"}, {"files": ["/stylesheets/video-lite-package/_hashed-ad5b09bdb2ffb8280a75d1ac0ab86172.css"], "name": "video-lite.css"}, {"files": ["/stylesheets/about-package/_hashed-4c16b4ea8aef634fc32c35018ba23bb9.css"], "name": "about.css"}, {"files": ["/stylesheets/donate-package/_hashed-025a271b4e647121a184902a5da1dfcc.css"], "name": "donate.css"}, {"files": ["/stylesheets/stories-package/_hashed-ffcc30c582bea35b729f188b810c51e6.css"], "name": "stories.css"}, {"files": ["/stylesheets/notifications-package/_hashed-eb41bbfa3e6e3a418a6c0fa0e834d2c2.css"], "name": "notifications.css"}, {"files": ["/stylesheets/interns-package/_hashed-943174a570446f1a921dfd4667377b9b.css"], "name": "interns.css"}, {"files": ["/stylesheets/contribute-package/_hashed-92294a97adfc8f3f97584ca84ead2f62.css"], "name": "contribute.css"}, {"files": ["/stylesheets/dashboard-package/_hashed-3e2c4ebede44e43509b6b281a81e22d7.css"], "name": "dashboard.css"}, {"files": ["/stylesheets/intro-package/_hashed-7b2776d840b4f721ca82575d20115fee.css"], "name": "intro.css"}, {"files": ["/stylesheets/perseus-admin-package/_hashed-f98dcdd5ed346bd6bb48dbe5d5eae429.css"], "name": "perseus-admin.css"}, {"files": ["/stylesheets/nav-package/_hashed-1cd2a81fec884dccb3060e4b95342d85.css"], "name": "nav.css"}, {"files": ["/stylesheets/scratchpads-package/_hashed-949694082fed3d1fb3688fbd463bf9c4.css"], "name": "scratchpads.css"}, {"files": ["/stylesheets/library-package/_hashed-f57e015b2c54f178f72c0f01839bcae0.css"], "name": "library.css"}, {"files": ["/stylesheets/exercises-package/_hashed-402718e1113c322fffad0c1f47451511.css"], "name": "exercises.css"}, {"files": ["/stylesheets/scratchpads-exec-package/_hashed-eb2be76c77e91f02fa37e6ef52630bcf.css"], "name": "scratchpads-exec.css"}, {"files": ["/stylesheets/settings-package/_hashed-bb7662b03c50cefd28967903483909d1.css"], "name": "settings.css"}, {"files": ["/stylesheets/homepage-package/_hashed-e680f148a5a59bd98727517c57daf42e.css"], "name": "homepage.css"}, {"files": ["/stylesheets/topicsadmin-package/_hashed-a84a2249f670e32e98eb7b2be77f377c.css"], "name": "topicsadmin.css"}, {"files": ["/stylesheets/profile-package/_hashed-2bc6e564494a875fc2a877988f9ebbf6.css"], "name": "profile.css"}, {"files": ["/stylesheets/topic-package/_hashed-c2ed6bab5904f1cf29b1c56b777d0826.css"], "name": "topic.css"}, {"files": ["/stylesheets/shared-package/_hashed-0851e1c452d1e4e5805973b3774233c9.css"], "name": "shared.css"}, {"files": ["/stylesheets/exercise-content-package/_hashed-59eb5d135e732685acd43b3272532cf4.css"], "name": "exercise-content.css"}, {"files": ["/stylesheets/bootstrap-package/_hashed-ce181b67b7a6349b56fd2e6b305b7539.css"], "name": "bootstrap.css"}, {"files": ["/stylesheets/mobile-package/_hashed-63e948bad86b8b0bbaf56fb4fc3c4779.css"], "name": "mobile.css"}, {"files": ["/stylesheets/style-package/_hashed-dd24904fb143f9cbb53fdb8eab4ee6f0.css"], "name": "style.css"}, {"files": ["/stylesheets/editor-package/_hashed-1aa8eff74598730efdb957352100ce52.css"], "name": "editor.css"}, {"files": ["/stylesheets/search-package/_hashed-fa601205fd1e9eee0336bb7255ce4fab.css"], "name": "search.css"}, {"files": ["/stylesheets/labs-package/_hashed-b6ad54b00d543efef4f818f454e9299b.css"], "name": "labs.css"}, {"files": ["/stylesheets/studentlists-package/_hashed-b988cbb692931393f85c5058a3e83803.css"], "name": "studentlists.css"}, {"files": ["/stylesheets/badge-package/_hashed-91b1e857b0e7230a08477174813a6573.css"], "name": "badge.css"}, {"files": ["/stylesheets/knowledgemap-package/_hashed-2f90e1b39e33c013dee6a32166b264e3.css"], "name": "knowledgemap.css"}, {"files": ["/stylesheets/socrates-package/_hashed-fd3ccc71886ea77e123488c882ac9a66.css"], "name": "socrates.css"}, {"files": ["/stylesheets/video-package/_hashed-fbc4c55b418967f6d48e565ca28ded91.css"], "name": "video.css"}, {"files": ["/stylesheets/moderation-package/_hashed-0c6dfc666d8dd42b3861c46f3370cfd1.css"], "name": "moderation.css"}], "javascript": [{"files": ["/javascript/topicsadmin-package/_hashed-92be40811acba69dc98890d43b32192f.js"], "name": "topicsadmin.js"}, {"files": ["/javascript/goals-package/_hashed-762626da6a31756b83c162ce788aa310.js"], "name": "goals.js"}, {"files": ["/socrates/js/_hashed-6faa3219cf8a5f47c06f45f25f7c5802.js"], "name": "socrates.js"}, {"files": ["/javascript/video-package/_hashed-5aa4193d38c6fda6e70475c10c3dca5a.js"], "name": "video.js"}, {"files": ["/javascript/login-package/_hashed-22d265781df5f7026bf78384ac7bfd25.js"], "name": "login.js"}, {"files": ["/javascript/devadmin-package/_hashed-36c83b5aace0475f3b053b4aee433477.js"], "name": "devadmin.js"}, {"files": ["/javascript/discussion-package/_hashed-a9f33d7c78e7fb665251f3f8556c0848.js"], "name": "discussion.js"}, {"files": ["/javascript/shared-package/_hashed-45aa0388bab247947bbee40aa2ba328f.js"], "name": "shared.js"}, {"files": ["/javascript/stories-package/_hashed-5060f097789906929b2d912dfa33b2e9.js"], "name": "stories.js"}, {"files": ["/javascript/raphael-package/_hashed-d298b5bbf723fd50e9da7440464ad6d3.js"], "name": "raphael.js"}, {"files": ["/javascript/highcharts-package/_hashed-9f49e7aa4f98e551ec3f24ee07fbbe0f.js"], "name": "highcharts.js"}, {"files": ["/javascript/scratchpads-package/_hashed-99e63ffdcc11b280e35c0e4214d8dfa3.js"], "dependencies": ["scratchpad-base.js"], "name": "scratchpads.js"}, {"files": ["/javascript/profile-reports-package/_hashed-933a4ee29569b34530fb5422603b1b5e.js"], "dependencies": ["profile.js"], "name": "profile-reports.js"}, {"files": ["/javascript/intro-package/_hashed-53ae12b5da980d445d66683dfbbb0044.js"], "name": "intro.js"}, {"files": ["/javascript/mobile-package/_hashed-012d6368f23022d699aae655bc1532e3.js"], "name": "mobile.js"}, {"files": ["/javascript/summer-package/_hashed-b99c2afaa42c3d3fbd44ba805922a6c3.js"], "name": "summer.js"}, {"files": ["/javascript/notifications-package/_hashed-a63c3b7ac00f3f5ef89a219af91c1761.js"], "name": "notifications.js"}, {"files": ["/javascript/topic-package/_hashed-f7a2c1243ffeb8f92d07a8aa41e12885.js"], "name": "topic.js"}, {"files": ["/javascript/phantom-package/_hashed-ac9afa718ee4ca09553a5799d3091b99.js"], "name": "phantom.js"}, {"files": ["/javascript/studentlists-package/_hashed-192ec45982c605e0e237dcd32d83992b.js"], "name": "studentlists.js"}, {"files": ["/javascript/search-package/_hashed-00aca17e243e1d14a8f1ec8c2bf21dfd.js"], "name": "search.js"}, {"files": ["/javascript/class-reports-package/_hashed-59d32c3172c321276b13c226b0818237.js"], "dependencies": ["studentlists.js"], "name": "class-reports.js"}, {"files": ["/javascript/profile-package/_hashed-5bebea1be9c0d9d5579539d757e22c3f.js"], "name": "profile.js"}, {"files": ["/khan-exercises/_hashed-82452ee42165589304ea4a0eb157c1a1.js"], "dependencies": ["perseus.js", "exercises.js"], "name": "exercise-content.js"}, {"files": ["/javascript/moderation-package/_hashed-0ab04e589f64e8b14d24d921d07fdf16.js"], "name": "moderation.js"}, {"files": ["/javascript/perseus-package/_hashed-c98a7151ea4b5aea6506c04344ee2eb2.js"], "name": "perseus.js"}, {"files": ["/javascript/homepage-package/_hashed-f1be45ef2118c25d1a3e54d55edc40c6.js"], "name": "homepage.js"}, {"files": ["/javascript/scratchpad-base-package/_hashed-f42ed71a096f980f2ed3799e561ebe77.js"], "name": "scratchpad-base.js"}, {"files": ["/javascript/interns-package/_hashed-313f8ea0602c5990dfbef9c8e9d8b097.js"], "name": "interns.js"}, {"files": ["/javascript/dashboard-package/_hashed-e52d78c367377dfb64f84ce756085840.js"], "dependencies": ["profile.js"], "name": "dashboard.js"}, {"files": ["/javascript/nav-package/_hashed-219273b69c747abe75d55ef3705d7ce3.js"], "name": "nav.js"}, {"files": ["/javascript/editor-package/_hashed-e41f3339bc114907f84a2862ccecd3d4.js"], "name": "editor.js"}, {"files": ["/javascript/donate-package/_hashed-7335be18de59d565c54b7e9bc3f365bf.js"], "name": "donate.js"}, {"files": ["/javascript/exercises-package/_hashed-3be256f5ebabfc84e5791a31ff00b9db.js"], "name": "exercises.js"}, {"files": ["/javascript/maps-package/_hashed-83cc5c04913acf7a57738d9d72efb6db.js"], "name": "maps.js"}, {"files": ["/javascript/library-package/_hashed-f05f2c8fb5836080b464fbed9d0c06d8.js"], "name": "library.js"}, {"files": ["/javascript/perseus-admin-package/_hashed-ac4dc503e5261a7ab1cb5d1a2dccdb1a.js"], "name": "perseus-admin.js"}, {"files": ["/javascript/settings-package/_hashed-149966b944b038ec0f376e58e3f5eb76.js"], "name": "settings.js"}, {"files": ["/javascript/tutorial-package/_hashed-ec654fe11bedda8fe6301f210696a6a9.js"], "name": "tutorial.js"}, {"files": ["/javascript/knowledgemap-package/_hashed-555e7c2dac43c71c0532a46ccfaa0a20.js"], "name": "knowledgemap.js"}, {"files": ["/javascript/commoncore-package/_hashed-2f56942f0c00127e9022a11618025fdc.js"], "name": "commoncore.js"}, {"files": ["/javascript/scratchpads-exec-package/_hashed-3382a216241436c602cd581b15a51d9c.js"], "name": "scratchpads-exec.js"}]});
+    </script><script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        window.mixpanel = [];
+    </script>
+    
+<script type="text/javascript">
+    $('#language_picker').change(function () {
+        var new_tag = $('#language_picker option:selected').attr('value');
+        // TODO(csilvers): I18N: redirect to <new_tag>.khanacademy.org?
+        window.location.href = '/intl/' + new_tag;
+    });
+</script>
+
+
+    
+        
+        <style type="text/css">
+            @media screen and (min-width: 480px) and (max-width: 1337px) {
+                .g-m-p, .g-m-p-corner {
+                    left: 250px;
+                }
+            }
+        </style>
+    
+
+    <script type="text/javascript">
+
+        $(function() {
+            
+            NavHeader.init({
+                loginUrl: "/login?continue=%2Fabout%2Fprivacy-policy",
+                logoutUrl: "/logout?continue=%2Fabout%2Fprivacy-policy",
+                signUpUrl: "/signup?continue=%2Fabout%2Fprivacy-policy"
+            });
+
+            NavFooter.init();
+
+            
+
+            
+            HeaderTopicBrowser.init();
+        });
+
     </script>
 
     
     
 <script type="text/javascript">
 $(function(){
-    $('#terms-details > li').append("<div class='back-to-top'><a href='#privacy-policy'>Back to Top</a></div>")
+    $('#terms-details > li').append("<div class='back-to-top'><a href='#privacy-policy'>" + "Back to Top" + "</a></div>")
 });
 </script>
-<script type="text/javascript">
-        
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-        
-        
 
-        
-        
-    </script>
-    
-<script type="text/javascript">
-    $('#language_picker').change(function () {
-        var new_tag = $('#language_picker option:selected').attr('value');
-        window.location.href = '/intl/' + new_tag;
-    });
-</script>
-
-    <script type="text/javascript">
-    $(function() {
-        HeaderTopicBrowser.init();
-    });
-    </script>
-    
-
-    
     
 </body></html>
