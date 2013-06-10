@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycity4kids.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230221858id_/http%3A//www.mycity4kids.com/Delhi-NCR/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycity4kids.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611015150id_/http%3A//www.mycity4kids.com/Delhi-NCR/home/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - MyCity4Kids.com
+# Privacy Policy - MyCity4Kids.com
 
 This Privacy Policy sets forth policies between “www.mycity4kids.com”, herein after referred to as “THE WEBSITE” and it’s User.
 
