@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wornontv.net privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130043615id_/http%3A//wornontv.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wornontv.net privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610024120id_/http%3A//wornontv.net/privacy) for the most accurate reproduction.*
 
-# Privacy - WornOnTV - Fashion from TV Shows
+# Privacy | WornOnTV
 
 ## Privacy Policy
 
@@ -25,7 +25,13 @@ wornontv.net does use cookies to store information about visitors preferences, 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
 Commission Junction  
-Linkshare
+Linkshare  
+Google Affiliate Network  
+Share A Sale  
+Amazon Associate Program  
+Affiliate Window  
+Reward Style  
+Shopsense
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on wornontv.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
