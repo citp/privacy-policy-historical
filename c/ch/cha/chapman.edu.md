@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chapman.edu privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130102831id_/http%3A//www.chapman.edu/campus-services/information-systems/security/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chapman.edu privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610061917id_/http%3A//chapman.edu/campus-services/information-systems/security/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Chapman University
 
@@ -54,24 +54,6 @@ This is the privacy policy for the Chapman University Alumni website hosted by i
 
 This is the privacy policy for the Common App which we use for undergraduate students to apply to Chapman:  
 <https://www.commonapp.org/PrivacyPolicy.aspx>
-
-This is the privacy policy for Apply Yourself which we use for graduate students to apply to Chapman:  
-<https://app.applyyourself.com/Common/AppSecurity.htm>
-
-This is the privacy policy on PCTAS which we use for students to apply to Chapman’s Physical Therapy doctorate program:  
-<http://www.ptcas.org/Privacy.html>
-
-This is the legal notice LSAC which we use for students applying to Chapman’s Law School:  
-<https://os.lsac.org/Release/Support/Legal.aspx>
-
-This is the privacy policy for Star Rez which we use for Residence Life’s Housing Request system:  
-<http://www.starrez.com/privacy.aspx>
-
-This is the privacy policy for OrgSync which we use for Student & Campus Life's clubs and organizations:  
-<http://www.orgsync.com/legal-info/privacy-policy>
-
-This is the privacy policy for Hobson's which we use for new student inquiries, campus visits and VIP pages for prospective students:  
-<http://www.hobsons.com/privacy.php>
 
 ## Is my Student Google Mail account secure and private?
 
