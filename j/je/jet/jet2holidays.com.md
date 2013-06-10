@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jet2holidays.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230053233id_/http%3A//www.jet2holidays.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jet2holidays.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610210519id_/http%3A//www.jet2holidays.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Jet2holidays.com
 
@@ -6,7 +6,7 @@
 
 **1.** At Jet2holidays Limited we are committed to preserving the privacy of our customers and visitors to this website.
 
-**2.** This Privacy Policy explains what personal information we collect from users of this website and how we use that information from time to time. This Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20121230053233id_/http%3A//www.jet2holidays.com/terms-and-conditions.aspx).
+**2.** This Privacy Policy explains what personal information we collect from users of this website and how we use that information from time to time. This Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20130610210519id_/http%3A//www.jet2holidays.com/terms-and-conditions.aspx).
 
 **When we collect personal information**
 
@@ -42,7 +42,7 @@
 
 **Our approach to direct marketing**
 
-**5.** We may contact you from time to time to provide you with information which we think you may find of interest. We may also pass on your details to other members of Dart Group plc so that they can tell you about products or services which may be of interest to you. Contact may be made by post, telephone or email unless you have indicated in the appropriate section of the registration process that you do not wish to receive this information. You can contact us at any time to remove your details from our marketing database, please visit [ www.jet2holidays.com/deactivatenewsletter.aspx](http://www.jet2holidays.com/deactivatenewsletter.aspx) and follow the online instructions, or write to the following address: PO Box 304, Whitehouse Lane, Leeds, West Yorkshire LS19 9DY. Please give your name, postal address details and your email address.
+**5.** We may contact you from time to time to provide you with information which we think you may find of interest. We may also pass on your details to other members of Dart Group plc so that they can tell you about products or services which may be of interest to you. Contact may be made by post, telephone, email or social media unless you have indicated in the appropriate section of the registration process that you do not wish to receive this information. You can contact us at any time to remove your details from our marketing database, please visit [ www.jet2holidays.com/deactivatenewsletter.aspx](https://web.archive.org/deactivatenewsletter.aspx) and follow the online instructions, or write to the following address: PO Box 304, Whitehouse Lane, Leeds, West Yorkshire LS19 9DY. Please give your name, postal address details and your email address.
 
 **When we may disclose information to third parties**
 
@@ -58,7 +58,7 @@
 
 **9.** Similar to other commercial websites, our website utilises a standard technology to collect information about how our website is used by individual computers connected to the internet. Information is gathered through cookies and Web server logs which allow us to monitor website traffic and to personalise the content of the site for you.
 
-**10.** Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses. 
+**10.** Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses. For our full cookies policy, please see [http://www.jet2holidays.com/cookies.aspx](https://web.archive.org/cookies.aspx)
 
 **Accessing your information**
 
@@ -71,5 +71,3 @@
 **Contact us**
 
 **13.** All comments, queries and other requests relating to our use of personal information should be sent by post to the Customer Service team, Jet2holidays Limited, Low Fare Finder House, Leeds Bradford Airport, Leeds, LS19 7TU.
-
-_Last revised July 2009_
