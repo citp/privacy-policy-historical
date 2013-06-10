@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oipolloi.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922174739id_/http%3A//www.oipolloi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oipolloi.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610210308id_/http%3A//www.oipolloi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Oi Polloi
 
@@ -24,7 +24,7 @@ Oi Polloi automatically receives and records information on our server logs from
 
 Oi Polloi uses information for the following general purposes: to fulfill your requests for products and services, improve our services, contact you, conduct research, and provide **anonymous** reporting for our management team.
 
-Oi Polloi does not store your credit card, debit card or PayPal account details on its server or systems. Payments are processed by our payment provider WorldPay and it is they who keep this information in order for us receive your payment and issue any refunds that might be necessary.
+Oi Polloi does not store your credit card, debit card or PayPal account details on its server or systems. Payments are processed by our payment provider WorldPay and it is they who keep this information in order for us to receive your payment and issue any refunds that might be necessary.
 
 ## Information Sharing and Disclosure
 
