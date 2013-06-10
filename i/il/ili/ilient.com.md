@@ -1,79 +1,45 @@
-> *The following text is extracted and transformed from the ilient.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019105718id_/http%3A//www.sysaid.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilient.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611010417id_/http%3A//www.sysaid.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-SysAid (" **SysAid** " shall mean www.sysaid.com and entities controlling, controlled by or under common control with SysAid) is committed to safeguarding your privacy online for you, the user ("You" or "User"). Please read the following policy to understand how your personal information will be treated as You make full use of SysAid's Services as further detailed in the Terms Of Use. This policy may be updated from time to time, therefore, SysAid asks You to check back periodically. Your continued use of the Services and SysAid's site after this Privacy Policy has been amended shall be deemed to be your continued acceptance of the terms of this Privacy Policy, as amended. This Privacy Policy discloses the privacy practices for SysAid's website and describes the information SysAid collects about You and what may happen to such information. All capitalized terms and definitions in this Privacy Policy shall have the same meaning ascribed to them in Terms Of Use.
+SysAid Technologies Ltd. (''SysAid''), as owner of the website acting under the domain name Sysaid.com (the “Website”), under which You can register and receive Our Services and/or get a License to use our Software, respects and protects the privacy of the individuals that use our Services or get a license to our Software. This privacy policy statement ("Privacy Policy") explains which information we collect/may collect, and how we use it.  
+This Privacy Policy is an integral part of the Software as a Service Agreement /EULA, as applicable (the “Agreement”). Some of the terms hereunder may not apply to You if you are not using our Services but rather got a license to use Our Software products only. Capitalized terms used in this Privacy Policy shall have the meaning ascribed to them in the Agreement, unless specifically provided otherwise, hereunder.
 
-As described below, some of your personal information is disclosed to third parties and used by SysAid. By accepting the Terms Of Use, You consent to SysAid's use and disclosure of your personally identifiable information in accordance with the terms set forth herein.
+## Personal Information
 
-1\. **Information that SysAid Collects**
+Personal information is information such as your name or mailing address that can be used to uniquely identify you. In order to get the Services/Software and/or receiving newsletters or commercial offers, You must provide personal information,  
+All your personal information, including, but not limited to, your name, address, telephone number, email address, is held in strict confidence. This information is collected for the primarily purposes of enabling you to receive the Services requested by you, but may also be used, from time to time, to provide you with newsletters or commercial offers. SysAid does not sell or share personal information in a form that can identify you with any other party.
 
-1.1. **Registration Data**. SysAid may require You to fill certain information to provide services that You request, as they may exist in the Website from time to time (the " **Registration Data** ").
+## The Data Base
 
-1.2. **Automatic Tracking**. By using SysAid's website, SysAid is able to and may track certain information about You and your correspondence on the SysAid site in order to perform internal research on its Users' demographics, interests, and behavior, as well as to monitor and enforce the terms of the Terms of Use. This information may include the URL from which You arrived, the next URL You may visit, what browser You are using and your IP address.
+The information you provide when registering to the Services/Software download will be stored in SysAid`s data base. You are not required by law to provide the information but without providing the same you will not be able to use such Services.
 
-1.3. **Collecting Information**. Information collected about You will be kept in a specific file for You. SysAid may collect information about any activity being performed by You while using the Services, including any correspondence between you and other users of the SysAid site, messages left by You on any board or any searches and requests performed by You.
+### Information Collection and Use Practices
 
-**2\. Children's Information**
+Please note that our Service collects information about your activity in both anonymous and personally identifiable forms. We use information about your way of activity on this Service to improve SysAid products and services; and we may share with our partners aggregated and non-personally identifiable information regarding the way our users use the Service. You hereby irrevocably waive any claim with regard to SysAid collecting the information mentioned above.  
+You understand and acknowledge that in the course of its normal and routine operation, the Main System/Software and/or Agent corresponds with Your End Points and regularly sends SysAid Non Personal Information, that enables SysAid to properly provide or advise you with regard to relevant notifications made by SysAid.  
+For the purpose of this section, Non-Personal Information shall mean any information that cannot be directly associated with a specific person or entity. Non-Personal Information includes but is not limited to your SysAid configuration, including the version you are using, your database type and your language preference.  
+Non Personal information does not, however, include any data that you have entered into the Main System.
 
-2.1. SysAid's policy is that it does not knowingly collect personally identifiable information from subscribers under thirteen years of age. The Services or site are not directed or intended for children under thirteen years of age. If you are under thirteen years of age, you should not register or provide personally identifiable information on the site. If you are the parent or guardian of a User under the age of thirteen whom you believe has disclosed personally identifiable information to SysAid, please contact SysAid at helpdesk@sysaid.com so that we may delete and remove such User's information from our system.
+## Advertisement and Offers
 
-3\. **Cookies at SysAid**
+During the use of the Service/Software, you may be presented with: advertising, marketing offers, and other promotional information from SysAid, other users of the Service or by third parties, such offers may also be made available to You by SysAid via email communication.
 
-****3.1. You acknowledge and agree that SysAid may use cookies on its site. A cookie is a piece of text that can be entered into the memory of your hard drive and can store information about your use of SysAid's Services (the " **Cookies** "). The Cookies will help SysAid make its services more convenient, personalized and more secure. In addition, Cookies may allow SysAid to keep track and retrieve information about any User who acts in contradiction to SysAid's Privacy Policy or its Terms of Use. If You would rather not have Cookies on your computer, You can usually set your browser to deny some but not all Cookies. You can also delete Cookies from your computer at your sole discretion.
+## Email communication
 
-4\. **SysAid's Usage of the Registration Data**
+Please note that during the registration with the Services/Software you are requested to provide a valid email address in order to enable the registration process, to enable SysAid team to provide you with email support and in order to allow SysAid to contact you, from time to time, via email communication, with news and updates about services, products and offers (such as: a newsletter, new releases, new features, special offers etc.).
 
-4.1. **Internal Use**. SysAid uses the Registration Data about You for internal purposes, to improve its site and to better tailor the site to meet Your needs. In addition, SysAid uses the Registration Data to analyze site usage and to deliver to You information about certain promotions, services or items that might interest You. In addition, SysAid may use your E-mail address to contact You regarding site notices from time to time. If You do not wish to receive such mailings, simply tell SysAid when You file your Registration Data with SysAid.
+If you wish, at any time, to remove your email address from any of the above mentioned email mailing lists and stop receiving future email communications from Us, other than the emails directly related to the Service functionality/Software, you may unsubscribe by an email to: [unsubscribe@sysaid.com](mailto:unsubscribe@sysaid.com). For your convenience, email communication from Us contains instructions regarding how to unsubscribe from Our e-mail mailing lists.
 
-4.2. **Editing Registration Data**. You may review and edit your Registration Data by using your email address and Password. If You cancel your account, You may also have your Registration Data deleted from SysAid's database by sending your request to helpdesk@sysaid.com. However, You should be aware that once posted, You cannot change or remove any public postings made in SysAid's website. You should also be aware that even if you delete your Registration Data, there may remain residual information that will remain within SysAid's databases, access logs and other records, which may or may not contain personally identifiable information.
+## The Right to Examine Information
 
-4.3. **Resolving Problems**. SysAid may use the Registration Data and other data it obtains from your current and past activities, to resolve disputes and troubleshoot problems and to monitor and enforce the Terms of Use. In the event that You breach any of the terms of the Terms of Use, SysAid shall be entitled to use the Registration Data to locate You and pursue any necessary actions at its sole and absolute discretion in accordance with its Privacy Policy and its Terms of Use.
+Under the Protection of Privacy Law, 5741-1981, any individual is entitled, whether himself or through a proxy so authorized in writing on his behalf or through his legal guardian, to access information pertaining to him that is contained in the data base. Any person, who examines such information and finds it to be inaccurate, incomplete, unclear or non-updated, may contact the owner of the data base with a request to correct, amend or delete the data. Should the owner of the data base refuse to comply with such a request, he must inform the applicant of such refusal in the manner determined in the regulations. Any refusal on the part of the owner of the data base to permit access or comply with a request to amend or delete information may be appealed by the applicant in a magistrate’s court as determined in the regulations.  
+Moreover, should the information contained in SysAid’s data base be used for purposes of personally soliciting you, based on your affiliation to any population group as determined according to one or more attributes of people whose names are included in the data base (“solicitation for commercial purposes”) – then you are entitled under the Protection of Privacy Law, 5741-1981 to submit a written request that such information pertaining to you be deleted from the data base. SysAid shall in such case delete any information that is required only for solicitation for commercial purposes as stated above, though such deletion may also result in your inability to use Our Services. Any information required by SysAid for conducting its business - including documentation of commercial and other activities performed by You as part of the Services - shall continue to be legally stored by SysAid (if it chooses to do so), but no further use shall be made of such information for purposes of personally soliciting you. If within 30 days you do not receive notification that the information that SysAid was requested to delete  
+was in fact deleted according to the provisions of this paragraph, you are entitled to apply to a magistrate’s court in the manner determined in the regulations and as authorized by law, in order that the court may instruct SysAid to take the required action as stated.
 
-5. ** SysAid Disclosure of Users' Registration Data**
+## Applicable Privacy and data protection Laws
 
-5.1. **General Rule**. SysAid will not disclose, sell or transfer any of your Registration Data to any third parties (e.g., advertisers or business partners), except in the following cases: (i) SysAid receives your permission; (ii) if SysAid believes in good faith that the law requires such disclosure or transfer; or (iii) as set forth below.
+The privacy protection and data protection under the Agreement (whether related to the Services or the Software) shall be in accordance with the laws of the State of Israel. Users from other jurisdictions, which jurisdictions might have in place, or legislate in the future, any rules and regulations more restrictive, or differently applied, from those applicable under the laws of the State of Israel, shall be aware of such differences, if any.  
+Please feel free to send us any questions you may have regarding this statement.
 
-5.2. **Third Parties**. SysAid may at any time add business partners or co-branded sites to its site, but the sharing of information with them will be limited to only statistical information regarding Users in general, and SysAid will not disclose any of your Registration Data, correspondence or any related information. SysAid assures You that in the event that SysAid shall wish to transfer any of such information, SysAid shall notify You before transferring such information, so that You will always have a chance to object to such transfer.
-
-5.3. **Special Cases**. SysAid may also disclose Registration Data or other information in special cases when it has reason to believe that disclosing such information is necessary to identify, contact or bring legal action against someone who may be violating SysAid's Terms of Use or this Privacy Policy or may be causing injury to or interference with (either intentionally or unintentionally) SysAid's rights or property, other users, or anyone else that could be harmed by such activities. In addition, SysAid may disclose Your Registration Data, in the event that SysAid believes in good faith that the law requires such disclosure. You thus authorize SysAid to disclose any information about You, it may posses, to law enforcement or other government officials if SysAid, in its sole and absolute discretion, believes that such disclosure is necessary or appropriate. Although, SysAid uses industry standard practices to protect your privacy, SysAid does not ensure, and You should not expect, that your Registration Data or correspondence will always remain private.
-
-5.4. **Links and Displayed Sites**. SysAid's site may contain links to other sites and may provide access to other sites displayed as search results. SysAid is not responsible for the privacy practices or the content of such linked or otherwise displayed sites.
-
-5.5. **Applicable Law**. SysAid's use of any information of a User is subject to the provisions of any applicable law.
-
-6\. **User's Usage of Other Users' Registration Data**
-
-6.1. **Use of Users' Registration Data**. SysAid's Services may allow You limited access to other Users' Registration Data, personal information or other information ("Users' Information"). Such Users' Information, if disclosed to You, is disclosed to You only for the purpose of using the Services in accordance with the terms and conditions of the Terms of Use and this Privacy Policy.
-
-6.2. You hereby agree that You shall use any Users' Information only: (a) in connection with the Services, and (b) for any other purpose that the owner of such information expressly agrees to. In all cases, you must comply with any request by any user to delete any Registration Data of such user from your database. In addition, under no circumstances, except as defined in this Section, may you disclose Registration Data of other users to any third party without SysAid's express written consent and the express written consent of the relevant user.
-
-6.3. **Spam**. SysAid and its Users do not tolerate spam. Therefore, without limiting the foregoing, You are not permitted to add any user, whose direct contact information was disclosed to you in connection with any use of the Services, to your mailing list without such user's express written consent after adequate disclosure.
-
-6.4. **Password**. Your SysAid Registration Data is password protected so that only You and SysAid have access to this personal account. Since You may edit your account by using your email address and Password, SysAid recommends that You not divulge your Password to anyone. SysAid will never ask You for your Password in an unsolicited phone call or in an unsolicited email.
-
-7\. **Disclosure of Information to Third Parties**
-
-SysAid's policy only addresses the use and disclosure of information SysAid collects from You. To the extent that You disclose information to other parties on SysAid's site or to any other third party, different rules may apply to the use or disclosure of the personal information that You disclose to them. Since SysAid does not control the privacy policies of third parties, You are subject to the privacy customs and policies of such third parties.
-
-8\. **Message Boards**
-
-Among the Services SysAid offers, Users may gain access to message boards. Any information which You may post to a message board, including any personal information, will be disclosed and available to all users of that message board, and is thus no longer private. SysAid cannot guarantee the security of such information, that you disclose or communicate in such message boards and you do so at your own risk. Any postings on a message board may be republished by SysAid elsewhere on the Web in any format.
-
-9\. **Disclosure of Personal Information in the Event of a Merger or Sale of SysAid**
-
-SysAid may merge or be acquired by another business entity or may sell all or substantially all of its assets to an acquirer. In the event of such merger, acquisition or sale, SysAid may share some or all or your Registration Data with the acquiring company in order to continue serving You and others and continuing to offer You the Services.
-
-10\. **Security**
-
-10.1. SysAid's site has security measures in place to protect the loss, misuse and alteration of the Registration Data. SysAid uses industry standard efforts to safeguard the confidentiality of your Registration Data. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while SysAid strives to protect you Registration Data, SysAid cannot ensure the security of any information that You transmit to SysAid or any information that You receive from SysAid's Service, and You transmit such information at your own risk. Once SysAid receives your transmission, it uses its commercial effort to ensure security on its systems.
-
-10.2. **Spam**. SysAid and its Users do not tolerate spam. Therefore, without limiting the foregoing, You are not permitted to add any user, whose direct contact information was disclosed to you in connection with any use of the Services, to your mailing list without such user's express written consent after adequate disclosure.
-
-11\. **Contact**
-
-If You have any questions about this Privacy Policy, the practices of SysAid, or any related issues, SysAid will be pleased to assist You. You may contact SysAid at support@sysaid.com.
-
-12\. **Subordination to the Terms of Use**
-
-This Privacy Policy is incorporated into and subject to the terms and conditions of SysAid's Terms of Use as an integral part thereof; in case of a contradiction between any provision of the Terms of Use and the content of this document, the provisions of the Terms of Use shall prevail. 
+Last updated: March 2011.
