@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldmyne.tv privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119033653id_/http%3A//goldmyne.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldmyne.tv privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610173704id_/http%3A//goldmyne.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GoldMyne Entertainment
 
@@ -18,11 +18,11 @@ Be aware that when you click on ad banners, you may be redirected to other sites
 
 When visiting our site, some general information is collected including: IP address (your computer’s unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider etc. The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit our Web site and to continually improve our services. In addition, like many other sites with paid advertising, we disclose some of this non- personally identifiable, aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.
 
-Third Party Service Providers:
+**Third Party Service Providers:**
 
 From time to time we partner with third party service providers to offer additional products and services within the Web site. To participate in these offerings, you may be asked to provide personal information and agree to terms and conditions relating to the third party service provider. Such requests for information will be displayed and requested by the third party in a straightforward manner with explanation as to whose privacy statement governs the collection of such information.
 
-Changes to our Privacy Policy:
+**Changes to our Privacy Policy:**
 
 We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry. For any questions or comments concerning thewillnigeria.com Privacy Policy.
 
