@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the food52.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231110810id_/http%3A//www.food52.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the food52.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610110248id_/http%3A//food52.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Food52 - food community, recipe search and cookbook contests
-
-### Privacy Policy
 
 Revision Date: November 29, 2010.
 
@@ -68,4 +66,4 @@ Any dispute, claim or controversy relating to this or any previous privacy polic
 
 Should you have any questions or suggestions regarding our privacy policy, please feel free to contact us at [admin@food52.com](mailto:admin@food52.com) or by mail: Food52 Inc., 116 Willow Street, Apt. 2, Brooklyn, NY 11201.
 
-This privacy policy is governed by the terms of the Food52 Terms of Service Agreement, available for review [here](https://web.archive.org/home/tos).
+This privacy policy is governed by the terms of the Food52 Terms of Service Agreement, available for review [here](https://web.archive.org/terms-of-service).
