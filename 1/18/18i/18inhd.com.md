@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 18inhd.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122023212id_/http%3A//18inhd.videosz.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D33450%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 18inhd.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610023631id_/http%3A//18inhd.videosz.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D34011%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
 
 # 18 in HD
 
-[](https://web.archive.org/join.php?s=19396|33450|2764|15|wide|0&lg=us)
+[](https://web.archive.org/join.php?s=19396|34011|2764|15|wide|0&lg=us)
 
-[Home](https://web.archive.org/index.php?s=19396|33450|2764|15|wide|0&lg=us) | [Search](https://web.archive.org/search.php?s=19396|33450|2764|15|wide|0&lg=us) | [Join](https://web.archive.org/join.php?s=19396|33450|2764|15|wide|0&lg=us) | [Take The Tour](https://web.archive.org/tour.php?s=19396|33450|2764|15|wide|0&lg=us) | [Members](https://web.archive.org/members.php?s=19396|33450|2764|15|wide|0&lg=us) | [Support](https://web.archive.org/support.php??s=19396|33450|2764|15|wide|0&lg=us)  
+[Home](https://web.archive.org/index.php?s=19396|34011|2764|15|wide|0&lg=us) | [Search](https://web.archive.org/search.php?s=19396|34011|2764|15|wide|0&lg=us) | [Join](https://web.archive.org/join.php?s=19396|34011|2764|15|wide|0&lg=us) | [Take The Tour](https://web.archive.org/tour.php?s=19396|34011|2764|15|wide|0&lg=us) | [Members](https://web.archive.org/members.php?s=19396|34011|2764|15|wide|0&lg=us) | [Support](https://web.archive.org/support.php??s=19396|34011|2764|15|wide|0&lg=us)  
 ---|---|---|---|---|---  
 ---  
 |  | Privacy Policy  
