@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colombiancupid.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122015307id_/http%3A//www.colombiancupid.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colombiancupid.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610193448id_/http%3A//www.colombiancupid.com/privacy.cfm) for the most accurate reproduction.*
 
 # ColombianCupid.com | Privacy Policy
 
