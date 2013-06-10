@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aimoo.com privacy policy that was archived on 2012-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121109045559id_/http%3A//www.aimoo.com/privacy_message_board.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aimoo.com privacy policy that was archived on 2013-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610182240id_/http%3A//www.aimoo.com/privacy_message_board.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,10 +7,10 @@
 <meta name="keywords" content="board,message board,free message boards,forum">
 <meta name="description" content="free message board,free board,message board,free boards,message boards,free message boards">
 <meta name="verify-v1" content="eaNrTI1//cPwdRrTa5KM3TDX5SU0bMfHVnT8+nQoVXo=">
-<link href="/newcss/public/global.css?38278" rel="stylesheet" type="text/css">
-<link href="/newcss/detailpage.css?38278" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/newjs/prototype.js?38278"></script>
-<script type="text/javascript" src="/newjs/public.js?38278"></script>
+<link href="/newcss/public/global.css?72553" rel="stylesheet" type="text/css">
+<link href="/newcss/detailpage.css?72553" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/newjs/prototype.js?72553"></script>
+<script type="text/javascript" src="/newjs/public.js?72553"></script>
 </head>
 <body>
 
@@ -172,9 +172,34 @@
     </div>
     <div class="autoHeight"></div>
   </div>
-  <div id="aimoo_footer">
-<div id="aimoo_footer">
+  
+<script>
+	function addClickCount(pictureID,pictureType,pictureLink){
+		$.ajax({
+			type:"post",
+			url: "/PublicBottomADClick.cfm",
+			data: {picID:pictureID,picType:pictureType},
+			dataType:"json",
+			beforeSend : function(){	
+			},
+			success: function(msg){
+				if(msg)
+				{
+					//window.open(pictureLink);	
+					
+					window.location.href=pictureLink;
+				}	
+			},
+			error: function(XMLHttpRequest,textStatus,errorThrow){
+				alert("Error");
+			    window.history.back(-1);
+			}
+		});		
+	}
+</script>
 
+<div id="aimoo_footer">
+<div id="aimoo_footer">
 <center>
 <table cellpadding="0" cellspacing="0" width="980" border="0">
 	<tbody><tr style="color:#2aaae7;font-weight:bold; font-size:16px;" id="footernav" align="left">
@@ -189,8 +214,9 @@
         	<div><a href="http://www.aimoo.com/support.html">FAQ</a></div>
             <div><a href="http://help.aimoo.com/">Aimoo Help Forum</a></div>
             <div><a href="http://diamond.aimoo.com/">Diamond Support Forum</a></div>
-            <div><a href="http://forum1.aimoo.com/AimooSkinsHelp">Aimoo Skins Help</a></div>
+            <div><a href="http://forum1.aimoo.com/AimooSkins">Aimoo Skins Help</a></div>
             <div><a href="http://showoff.aimoo.com/">Show off Your Forum</a></div>
+            <div><a href="http://forum2.aimoo.com/ThinkBlink">Blinkie Forum</a></div>
             </div>
         </td>
         <td valign="top">
@@ -209,7 +235,7 @@
             </div>
         </td>
         <td valign="top">
-        	<div style="float:left; padding-left:60px; line-height:25px; padding-top:5px;">  
+        	<div style="float:left; padding-left:60px; line-height:25px; padding-top:5px;">
         	<div><a href="http://www.aimoo.com/Cooperation.html">Advertising Space</a></div>
             <div><a href="http://www.aimoo.com/Cooperation.html">Partners</a></div>
             <div><a href="http://www.aimoo.com/Cooperation.html">Advertising Law</a></div>
@@ -220,9 +246,11 @@
     <tr>
     	<td colspan="4" align="center" style="padding-top:35px;">
         	Copyright © 2000-2011 Aimoo <a href="http://www.aimoo.com/" style="color:#f66e00">Free Forum</a> All rights reserved.
-			<div id="links0" style="padding:10px 0px;margin-top:15px;clear:both;"><a href="http://www.dinodirect.com/Wholesale.html" style="color:gray;text-decoration:none;" target="_blank">China Wholesale</a><a style="margin:auto 8px;"></a><a href="http://www.dinodirect.com/" style="color:gray;text-decoration:none;" target="_blank">Online Shopping</a><a style="margin:auto 8px;"></a><a href="http://www.dinodirect.com/ebook-readers/" style="color:gray;text-decoration:none;" target="_blank">eBook Reader</a><a style="margin:auto 8px;"></a><a href="http://www.dhgate.com" style="color:gray;text-decoration:none;" target="_blank">DHgate.com</a><a style="margin:auto 8px;"></a><a href="http://www.wtbwowgold.com/world-of-warcraft-us-items.html" style="color:gray;text-decoration:none;" target="_blank">wow items</a></div><script type="text/javascript" src="/newjs/showdiv.js"></script>
-
-        </td>
+			
+            <div id="links0" style="padding:10px 0px;margin-top:15px;clear:both;">
+            Energy efficient <a href="http://www.lightingever.com/" style="color:#f66e00">LED lights</a>, bulbs, lighting fixtures and flashlights from <a href="http://www.lightingever.com/" style="color:#f66e00">Lighting EVER</a>. Better lighting, Better sense.
+       		</div>
+       </td>
     </tr>
     <tr>
     	<td colspan="4">
@@ -253,9 +281,167 @@
 </script>
         </td>
     </tr>
+    <style type="text/css">
+<!--
+#demo {
+background: #FFF;
+overflow:hidden;
+border: 1px dashed #CCC;
+width: 720px;
+}
+#demo img {
+border: 3px solid #F2F2F2;
+}
+#indemo {
+float: left;
+width: 800%;
+}
+#demo1 {
+float: left;
+}
+#demo2 {
+float: left;
+}
+
+#demox {
+background: #FFF;
+overflow:hidden;
+border: 1px dashed #CCC;
+width: 650px;
+}
+#demox img {
+border: 3px solid #F2F2F2;
+}
+#indemox {
+float: left;
+width: 800%;
+}
+#demo1x {
+float: left;
+}
+#demo2x {
+float: left;
+}
+-->
+</style>
+    <tr align="center">
+    	<td colspan="4">
+        	<div id="demo">
+            <div id="indemo">
+                <div id="demo1">
+                    
+                    	<a style="cursor:pointer;" onclick="addClickCount(41,1,'http://forum3.aimoo.com/TeaTreeTags');"><img height="50" width="151" alt="LUFFY" src="http://www.aimoo.com/AD/UserAdImg/130508_130535_52360960.gif"></a>
+                     
+                    	<a style="cursor:pointer;" onclick="addClickCount(40,1,'http://forum2.aimoo.com/schnauzersnoodles_2013');"><img height="50" width="151" alt="LUFFY" src="http://www.aimoo.com/AD/UserAdImg/130507_160542_20552466.gif"></a>
+                     
+                    	<a style="cursor:pointer;" onclick="addClickCount(33,1,'http://forum2.aimoo.com/Pinkgeraniumcommunityclub');"><img height="50" width="151" alt="LUFFY" src="http://www.aimoo.com/AD/UserAdImg/130329_100350_26293001.gif"></a>
+                     
+                    	<a style="cursor:pointer;" onclick="addClickCount(30,1,'http://forum2.aimoo.com/ThinkBlink');"><img height="50" width="151" alt="LUFFY" src="http://www.aimoo.com/AD/UserAdImg/130118_130136_51478180.gif"></a>
+                     
+                    	<a style="cursor:pointer;" onclick="addClickCount(29,1,'http://forum1.aimoo.com/AimooSkins');"><img height="50" width="151" alt="LUFFY" src="http://www.aimoo.com/AD/UserAdImg/130104_150104_37729289.gif"></a>
+                     
+                </div>
+                <div id="demo2">
+                    
+                    	<a style="cursor:pointer;" onclick="addClickCount(41,1,'http://forum3.aimoo.com/TeaTreeTags');"><img height="50" width="151" alt="LUFFY" src="http://www.aimoo.com/AD/UserAdImg/130508_130535_52360960.gif"></a>
+                     
+                    	<a style="cursor:pointer;" onclick="addClickCount(40,1,'http://forum2.aimoo.com/schnauzersnoodles_2013');"><img height="50" width="151" alt="LUFFY" src="http://www.aimoo.com/AD/UserAdImg/130507_160542_20552466.gif"></a>
+                     
+                    	<a style="cursor:pointer;" onclick="addClickCount(33,1,'http://forum2.aimoo.com/Pinkgeraniumcommunityclub');"><img height="50" width="151" alt="LUFFY" src="http://www.aimoo.com/AD/UserAdImg/130329_100350_26293001.gif"></a>
+                     
+                    	<a style="cursor:pointer;" onclick="addClickCount(30,1,'http://forum2.aimoo.com/ThinkBlink');"><img height="50" width="151" alt="LUFFY" src="http://www.aimoo.com/AD/UserAdImg/130118_130136_51478180.gif"></a>
+                     
+                    	<a style="cursor:pointer;" onclick="addClickCount(29,1,'http://forum1.aimoo.com/AimooSkins');"><img height="50" width="151" alt="LUFFY" src="http://www.aimoo.com/AD/UserAdImg/130104_150104_37729289.gif"></a>
+                     
+                </div>
+            </div>
+            </div>
+        </td>
+    </tr>
+      <tr align="center">
+    	<td colspan="4">
+        	<div id="demox" align="center">
+            <div id="indemox">
+                <div id="demo1x">
+                    
+                    	<a style="cursor:pointer;" onclick="addClickCount(36,2,'http://scrapzdreamsshop.com/store');"><img height="50" width="151" alt="LUFFY" src="http://www.aimoo.com/AD/UserAdImg/130403_100442_23520847.gif"></a>
+                     
+                    	<a style="cursor:pointer;" onclick="addClickCount(35,2,'http://pmtws-designsbysarah.blogspot.com.au');"><img height="50" width="151" alt="LUFFY" src="http://www.aimoo.com/AD/UserAdImg/130403_100449_84463890.gif"></a>
+                     
+                    	<a style="cursor:pointer;" onclick="addClickCount(34,2,'http://www.divaamymarie.blogspot.com.au');"><img height="50" width="151" alt="LUFFY" src="http://www.aimoo.com/AD/UserAdImg/130403_100419_74039308.gif"></a>
+                     
+                </div>
+                <div id="demo2x">
+                    
+                    	<a style="cursor:pointer;" onclick="addClickCount(36,2,'http://scrapzdreamsshop.com/store');"><img height="50" width="151" alt="LUFFY" src="http://www.aimoo.com/AD/UserAdImg/130403_100442_23520847.gif"></a>
+                     
+                    	<a style="cursor:pointer;" onclick="addClickCount(35,2,'http://pmtws-designsbysarah.blogspot.com.au');"><img height="50" width="151" alt="LUFFY" src="http://www.aimoo.com/AD/UserAdImg/130403_100449_84463890.gif"></a>
+                     
+                    	<a style="cursor:pointer;" onclick="addClickCount(34,2,'http://www.divaamymarie.blogspot.com.au');"><img height="50" width="151" alt="LUFFY" src="http://www.aimoo.com/AD/UserAdImg/130403_100419_74039308.gif"></a>
+                     
+                </div>
+            </div>
+            </div>
+        </td>
+    </tr>
 </tbody></table>
 </center>
 </div>
+<script>
+<!--
+//if(navigator.userAgent.indexOf("MSIE")>0){
+//var speed = 1;
+//}
+//else{
+var speed=10;
+//}
+var tab=document.getElementById("demo");
+var tab1=document.getElementById("demo1");
+var tab2=document.getElementById("demo2");
+tab2.innerHTML=tab1.innerHTML;
+function Marquee(){
+if(tab2.offsetWidth-tab.scrollLeft<=0)
+tab.scrollLeft-=tab1.offsetWidth
+else{
+tab.scrollLeft++;
+}
+}
+if(navigator.userAgent.indexOf("MSIE")>0){
+	var MyMar=setInterval(Marquee,1);
+	}
+	else{
+var MyMar=setInterval(Marquee,speed);}
+tab.onmouseover=function() {clearInterval(MyMar)};
+tab.onmouseout=function() {MyMar=setInterval(Marquee,speed)};
+-->
+</script>
+<script>
+<!--
+if(navigator.userAgent.indexOf("MSIE")>0){
+var speedx = 1;
+}
+else{
+var speedx=10;
+}
+
+var tabx=document.getElementById("demox");
+var tab1x=document.getElementById("demo1x");
+var tab2x=document.getElementById("demo2x");
+tab2x.innerHTML=tab1x.innerHTML;
+function Marqueex(){
+if(tab2x.offsetWidth-tabx.scrollLeft<=0)
+tabx.scrollLeft-=tab1x.offsetWidth
+else{
+tabx.scrollLeft++;
+}
+}
+var MyMarx=setInterval(Marqueex,speedx);
+tabx.onmouseover=function() {clearInterval(MyMarx)};
+tabx.onmouseout=function() {MyMarx=setInterval(Marqueex,speedx)};
+-->
+
+</script>
+<script src="http://1.tbcdn.cn/apps/top/x/sdk.js?appkey=21442927"></script>
 
     
 </div>
