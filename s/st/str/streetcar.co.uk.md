@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetcar.co.uk privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021024347id_/http%3A//zipcar.co.uk/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetcar.co.uk privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610030448id_/http%3A//members.zipcar.co.uk/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Zipcar
 
@@ -58,7 +58,7 @@ You can control browser cookies through your browser's settings. You can control
 
 The following third party advertiser/service provider may use cookies, web beacons, or similar technologies in connection with offers, content, and services offered through the Zipcar website, including to help operate ad networks. Click on the link to learn more about their practices and the choices they provide you:
 
-  * [MediaMind](http://www.mediamind.com/)
+  * [DoubleClick](http://www.google.com/doubleclick)
 
 
 
