@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phoenix.gov privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021112853id_/http%3A//www.phoenix.gov/eservices/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenix.gov privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610193055id_/http%3A//phoenix.gov/eservices/privacy.html) for the most accurate reproduction.*
 
-# Official Site of the City of Phoenix - Phoenix.Gov Security and Privacy Statements
+# Phoenix.Gov Security and Privacy Statements - Official Site of the City of Phoenix
 
 ### Phoenix.Gov Security Statement
 
@@ -54,4 +54,4 @@ The City's site has many links to other Websites, such as those operated by othe
 
 ### For More Information
 
-If you have questions about this privacy policy, or if you believe that the City of Phoenix is using your personally identifying information for a purpose other than described here, please contact the City's Information Security & Privacy Office.
+If you have questions about this privacy policy, or if you believe that the City of Phoenix is using your personally identifying information for a purpose other than described here, please [contact the City's Information Security & Privacy Office](https://web.archive.org/help/emprivacy/index.html).
