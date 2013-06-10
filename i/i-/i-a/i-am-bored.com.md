@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the i-am-bored.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102153048id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-am-bored.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611003817id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp) for the most accurate reproduction.*
 
 # I Am Bored - Sites for when you're bored.
 
-privacy policy
+I-Am-Bored.com Online Privacy Policy
 
 * * *
-
-I-Am-Bored.com Online Privacy Policy 
 
 I-Am-Bored.com takes great pride in utilizing state-of-the-art security procedures. Please read the following policy to understand how your personal information will be treated as you make full use of our Web site. This policy may change from time to time, so please check back periodically. 
 
@@ -30,9 +28,9 @@ I-Am-Bored.com does internal research on our users-- demographics, interests, an
 
 2\. Who is collecting your information and with whom may your information be shared? 
 
-Information recorded during your use of I-Am-Bored.com is kept strictly confidential to I-Am-Bored.com. As a general rule, I-Am-Bored.com will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Its sole use is to facilitate your use of I-Am-Bored.com’s Website. For example, some I-Am-Bored.com services may be offered in conjunction with a partner company. In order to provide this co-branded service to you, it may be necessary for us to share your personal information with our partner company. If data is being collected and/or maintained by any company other than I-Am-Bored.com, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service. 
+Information recorded during your use of I-Am-Bored.com is kept strictly confidential to I-Am-Bored.com. As a general rule, I-Am-Bored.com will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Its sole use is to facilitate your use of I-Am-Bored.com's Website. For example, some I-Am-Bored.com services may be offered in conjunction with a partner company. In order to provide this co-branded service to you, it may be necessary for us to share your personal information with our partner company. If data is being collected and/or maintained by any company other than I-Am-Bored.com, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service. 
 
-Promotions that run on I-Am-Bored.com may be sponsored by companies other than I-Am-Bored.com or may be co-sponsored by I-Am-Bored.com and another company. Some or all of the data collected during a promotion may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion, if you don’t want your data to be shared. 
+Promotions that run on I-Am-Bored.com may be sponsored by companies other than I-Am-Bored.com or may be co-sponsored by I-Am-Bored.com and another company. Some or all of the data collected during a promotion may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion, if you don't want your data to be shared. 
 
 If you make a purchase from a store which may be hosted by I-Am-Bored.com or another merchant, the information obtained during your visit to those stores, and the information you give such as your credit card number and contact information, is provided to the merchants. This is to enable transactions to take place. 
 
@@ -58,7 +56,7 @@ You may edit any personal information entered with I-Am-Bored.com at any time by
 
 As part of offering and providing customizable and personalized services, I-Am-Bored.com uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer=s hard drive. All sites on I-Am-Bored.com where you are prompted to log-in or that are customizable require that you accept cookies. 
 
-Cookies are used by I-Am-Bored.com to (a) remind us of who you are and to access your account information in order to deliver to you a better and more personalized service; (b) assist merchants to track visits to and business at their stores, and to process the items purchased by you; and (c) measure certain traffic patterns, which areas of I-Am-Bored.com’s Web site you have visited, and your visiting patterns in the aggregate. This cookie is set when you register or `Sign In` and is modified when you `Sign Out` of our services. This information collected by cookies is sometimes called `clickstream` or `click trail` and may also describe which pages you have seen in each merchant’s store. We use this research to understand how our users= habits are similar or different from one another so that we can make each new experience on I-Am-Bored.com a better one. We may use this information to better personalize the content, banners, and promotions that you and other users will see on our sites. You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those I-Am-Bored.com services that require registration in order to participate. 
+Cookies are used by I-Am-Bored.com to (a) remind us of who you are and to access your account information in order to deliver to you a better and more personalized service; (b) assist merchants to track visits to and business at their stores, and to process the items purchased by you; and (c) measure certain traffic patterns, which areas of I-Am-Bored.com's Web site you have visited, and your visiting patterns in the aggregate. This cookie is set when you register or `Sign In` and is modified when you `Sign Out` of our services. This information collected by cookies is sometimes called `clickstream` or `click trail` and may also describe which pages you have seen in each merchant's store. We use this research to understand how our users= habits are similar or different from one another so that we can make each new experience on I-Am-Bored.com a better one. We may use this information to better personalize the content, banners, and promotions that you and other users will see on our sites. You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those I-Am-Bored.com services that require registration in order to participate. 
 
 7\. What else should I know about my privacy? 
 
@@ -80,7 +78,7 @@ All registrants receive e-mail confirming their registration. In addition, when 
 
 Although guests under 13 years of age may be allowed to participate in contests, if such a guest wins, notification and prizes are sent to the parents or guardians identified in the initial registration process. 
 
-Guests` e-mail addresses are only posted on I-Am-Bored.com’s Web site with the consent of the member. 
+Guests` e-mail addresses are only posted on I-Am-Bored.com's Web site with the consent of the member. 
 
 Policies for Individuals 13 Years of Age or Older 
 
@@ -92,4 +90,4 @@ We use MaxOnline and other third-party advertising companies to serve ads when y
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
-< [**Back to I Am Bored Home**](https://web.archive.org/web/20121102153048id_/http%3A//www.i-am-bored.com/im_bored_latest_1.htm)
+<< [Back to I Am Bored Home](https://web.archive.org/im_bored_latest_1.htm)
