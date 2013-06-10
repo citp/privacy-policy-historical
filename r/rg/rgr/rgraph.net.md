@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the rgraph.net privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017065600id_/http%3A//www.rgraph.net/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rgraph.net privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610224247id_/http%3A//www.rgraph.net/privacy) for the most accurate reproduction.*
 
 # The RGraph privacy policy
 
-_RGraph produces interactive charts using the HTML5 canvas tag_
+[
 
-  
+](http://www.rgraph.net/)
 
-
-## Privacy policy
-
-**  [Please remember to link to the RGraph website. Thanks!](https://web.archive.org/write-a-testimonial.html)  **
+[](https://twitter.com/intent/tweet?source=webclient&text=RGraph+-+Free+HTML5%2FJavascript+charts+and+graphs+http%3A%2F%2Fwww.rgraph.net+%23rgraph+%23javascript+%23charts+%23html5+%40_rgraph) [](https://plus.google.com/b/106209632170546599952/106209632170546599952) [](http://www.facebook.com/sharer/sharer.php?u=http://www.facebook.com/rgraph)
 
 This privacy policy sets out how RGraph Licensing uses and protects any information that you give RGraph Licensing when you use this website. 
 
@@ -44,4 +41,4 @@ We will not sell, distribute or lease your personal information to third parties
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
 
-© Copyright RGraph licensing 2008-2012 All rights reserved. [Privacy policy](https://web.archive.org/docs/privacy.html), [Terms and conditions](https://web.archive.org/docs/terms.html)
+© Copyright RGraph licensing 2008-2013 All rights reserved. [Privacy policy](https://web.archive.org/privacy), [Terms and conditions](https://web.archive.org/terms)
