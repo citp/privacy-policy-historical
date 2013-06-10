@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uberflip.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109053943id_/http%3A//www.uberflip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberflip.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611004907id_/http%3A//www.uberflip.com/privacy) for the most accurate reproduction.*
 
-# Uberflip | Privacy Policy
+# Privacy Policy | Uberflip
 
 ###### Last Updated: March 7, 2012 (superseded Privacy Policy dated December 12, 2009)
 
