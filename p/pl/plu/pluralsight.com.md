@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the pluralsight.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018001704id_/http%3A//pluralsight.com/training/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluralsight.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610175710id_/http%3A//pluralsight.com/training/About/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ## Collection of your Personal Information
+
+Last updated: _27 Feb, 2013_
 
 We value your trust. In order to honor that trust, Pluralsight adheres to ethical standards in gathering, using, and safeguarding any information you provide. 
 
@@ -38,13 +40,11 @@ The security of your personal information is important to us. When you enter sen
 
 We store your personal information only on servers with limited access that are located in controlled facilities, and use a variety of technologies and procedures to protect your personal information from unauthorized access, use, or disclosure.
 
-If you have any questions about security on our website, [contact us](https://web.archive.org/training/About/ContactUs). 
+If you have any questions about security on our website, [contact us](https://web.archive.org/training/About/ContactUs?interestedIn=Privacy%20Policy%20Question&isMessageSent=False&sendFailed=False). 
 
 ## Use of Cookies
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies to make our site easier to use. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
-
-We do not allow third parties (such as advertisers) to use cookies on our site, or other techniques such as clear gifs or web beacons.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as event enrollment, will be limited. Note that modern browsers allow you to pick and choose which websites should be allowed to receive cookies. 
 
@@ -53,7 +53,7 @@ If you reject cookies, you may still use our site, but your ability to use some 
 We are committed to providing users of this website with the choice to receive or not receive e-mails and/or other communications from Pluralsight. We strive to comply with the CAN-SPAM Act. We only send commercial e-mails to registered users, subscribers and affiliates with relationships with Pluralsight and its team. We offer e-mail recipients the opportunity to opt-out of further communications in every commercial e-mail. If you would like to opt-out of receiving further communications, please follow the directions in the e-mail received or contact us using one of the following modes: 
 
 Email: [marketing@pluralsight.com](mailto://marketing@pluralsight.com)  
-Physical mail: 1785 E 1450 S Suite 360 Clearfield, UT 84015 U.S.A. 
+Physical mail: 67 S Main St Ste 300 Clearfield, UT 84041 U.S.A. 
 
 Please note that we may not include the opt-out information in non-commercial e-mails (i.e., e-mails concerning your order, the website’s Terms and Conditions of Use, etc.). If you have questions or concerns regarding a non-commercial e-mail, please contact us. 
 
