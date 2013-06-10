@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sharpusa.com privacy policy that was archived on 2012-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229142806id_/http%3A//www.sharpusa.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sharpusa.com privacy policy that was archived on 2013-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130611015118id_/https%3A//www.sharpusa.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="CODE_LANGUAGE" content="C#"><meta name="vs_defaultClientScript" content="JavaScript"><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5"><title>SharpUSA | Privacy Policy</title>
 <meta name="keywords" content="SharpUSA.com privacy policy">
@@ -36,9 +36,70 @@
 
 
 
+	<script type="text/javascript">
+	    jQuery(document).ready(function ($) {
 
+	        //Submenu alignment
+	        jQuery(function ($) {
+	            $('#header_nav ul > .first-level').hover(
+				function () {
+				    if ($(this).find('ul').length > 0) {
+				        var parentLiWidth = $(this).width();
+				        var childUlWidth = $(this).find('ul').width();
+				        var childDivWidth = $(this).find('div').width();
+				        var liOffset = $(this).offset();
+				        var divOffset = $(this).find('div').offset();
+
+				        //Default state
+				        var result = liOffset.left - divOffset.left - childUlWidth / 2 + parentLiWidth / 2;
+				        $(this).find('ul').css('margin-left', result)
+
+				        //Correction for left position
+				        var ulOffset = $(this).find('ul').offset();
+				        if (ulOffset.left < divOffset.left) {
+				            $(this).find('ul').css('margin-left', '0');
+				        };
+
+				        //Correction for right position
+				        if (liOffset.left - divOffset.left > childUlWidth / 2 && childUlWidth > 170) {
+				            $(this).find('ul').css({
+				                'margin-left': '0',
+				                'float': 'right',
+				                'marginRight': '30px'
+				            });
+				        };
+
+				        //Correction for third level menu position
+				        $(this).find('li').each(function () {
+				            $(this).css('posiiton', 'relative');
+				            var distance = $(this).position();
+
+				            $(this).hover(
+								function () {
+								    $(this).find('.third-level').hide();
+								    $(this).find('.third-level').css({ 'margin-left': '0', 'left': distance.left }).fadeIn(200);
+								},
+								function () {
+								    $(this).find('.third-level').fadeOut(200);
+								}
+							);
+				        });
+				    };
+				},
+				function () {
+				    $(this).find('ul').css('margin-left', '0');
+				}
+			);
+	        });
+
+	    }); //Document.ready() End
+	</script>
+
+
+<!--[if lt IE 9]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+<![endif]-->
 <script src="/javascript/scripts.min.js" type="text/javascript"></script>
-<script src="/foresee/foresee-trigger.js" type="text/javascript"></script>
 <script src="http://sharp.ugc.bazaarvoice.com/static/8303/bvapi.js" type="text/javascript"></script>
 <!-- js for x-domain -->
 <script type="text/javascript" src="//c.data-analytics.jp/gacd/js.php?id=UA-25468854-1"></script>
@@ -47,13 +108,13 @@
 <link rel="shortcut icon" href="/Images/favicon.ico">
 <title>
 
-</title><script type="text/javascript" src="https://web.archive.org/web/20150331233803/http://www.defense.gov/foresee/foresee-surveydef.js?build=4"></script></head>
+</title></head>
 <body class="home">
     <form name="mainform" method="post" action="/PrivacyPolicy.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="mainform">
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5NTUwODQyMzgPZBYEZg9kFgICBg9kFgQCAQ8WAh4HVmlzaWJsZWhkAgkPFgIfAGhkAgEQZGQWAgIDD2QWBGYPZBYCAgIPZBYCZg9kFgICAw9kFgYCAQ8PFgIeC05hdmlnYXRlVXJsBR4vUHJpdmFjeVBvbGljeS5hc3B4P3ByaW50PXRydWVkZAICD2QWAmYPZBYCZg9kFgICAQ9kFgICAQ9kFhwCAQ8PFgIeBFRleHQFDCogWW91ciBOYW1lOmRkAgUPDxYCHwIFF1BsZWFzZSBlbnRlciB5b3VyIG5hbWUuZGQCBw8PFgIfAgUVKiBZb3VyIEVtYWlsIEFkZHJlc3M6ZGQCCw8PFgIfAgU+UGxlYXNlIGVudGVyL2Zvcm1hdCB5b3VyIEVtYWlsIGFkZHJlc3MgKGVnLCBuYW1lQGNvbXBhbnkuY29tKS5kZAINDw8WAh8CBT5QbGVhc2UgZW50ZXIvZm9ybWF0IHlvdXIgRW1haWwgYWRkcmVzcyAoZWcsIG5hbWVAY29tcGFueS5jb20pLmRkAg8PDxYCHwIFFSogUmVjaXBpZW504oCZcyBOYW1lOmRkAhMPDxYCHwIFIFBsZWFzZSBlbnRlciByZWNpcGllbnTigJlzIG5hbWUuZGQCFQ8PFgIfAgUeKiBSZWNpcGllbnTigJlzIEVtYWlsIEFkZHJlc3M6ZGQCGQ8PFgIfAgU+UGxlYXNlIGVudGVyL2Zvcm1hdCB5b3VyIEVtYWlsIGFkZHJlc3MgKGVnLCBuYW1lQGNvbXBhbnkuY29tKS5kZAIbDw8WAh8CBT5QbGVhc2UgZW50ZXIvZm9ybWF0IHlvdXIgRW1haWwgYWRkcmVzcyAoZWcsIG5hbWVAY29tcGFueS5jb20pLmRkAh0PDxYCHwIFCE1lc3NhZ2U6ZGQCIQ8WAh8CBRsoTGltaXRlZCB0byA1MDAgY2hhcmFjdGVycylkAiMPZBYCAgEPFgIfAgUjWW91IG1heSBlbnRlciB1cCB0byA1MDAgY2hhcmFjdGVycy5kAicPDxYCHwIFHVNlbmQgbWUgYSBjb3B5IG9mIHRoaXMgZW1haWwuZGQCAw9kFgJmD2QWAmYPZBYEAgEPZBYCAgIPFgIfAgUZU2hhcnBVU0EgfCBQcml2YWN5IFBvbGljeWQCAw9kFgICAQ8WAh8CBRlTaGFycFVTQSB8IFByaXZhY3kgUG9saWN5ZAIDD2QWAmYPZBYCZg9kFgICAQ8WAh8CBSbCqSAyMDEyIFNoYXJwIEVsZWN0cm9uaWNzIENvcnBvcmF0aW9uLmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFFnRvcF8yJGN0bDAxJHNlbmRNZUNvcHmNDQLoiV6hBmgspru+t9V4Y9p3TQ==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5NTUwODQyMzgPZBYEZg9kFgICBg9kFgQCAQ8WAh4HVmlzaWJsZWhkAgkPFgIfAGhkAgEQZGQWAgIDD2QWBGYPZBYCAgIPZBYCZg9kFgICAw9kFgYCAQ8PFgIeC05hdmlnYXRlVXJsBR4vUHJpdmFjeVBvbGljeS5hc3B4P3ByaW50PXRydWVkZAICD2QWAmYPZBYCZg9kFgICAQ9kFgICAQ9kFhwCAQ8PFgIeBFRleHQFDCogWW91ciBOYW1lOmRkAgUPDxYCHwIFF1BsZWFzZSBlbnRlciB5b3VyIG5hbWUuZGQCBw8PFgIfAgUVKiBZb3VyIEVtYWlsIEFkZHJlc3M6ZGQCCw8PFgIfAgU+UGxlYXNlIGVudGVyL2Zvcm1hdCB5b3VyIEVtYWlsIGFkZHJlc3MgKGVnLCBuYW1lQGNvbXBhbnkuY29tKS5kZAINDw8WAh8CBT5QbGVhc2UgZW50ZXIvZm9ybWF0IHlvdXIgRW1haWwgYWRkcmVzcyAoZWcsIG5hbWVAY29tcGFueS5jb20pLmRkAg8PDxYCHwIFFSogUmVjaXBpZW504oCZcyBOYW1lOmRkAhMPDxYCHwIFIFBsZWFzZSBlbnRlciByZWNpcGllbnTigJlzIG5hbWUuZGQCFQ8PFgIfAgUeKiBSZWNpcGllbnTigJlzIEVtYWlsIEFkZHJlc3M6ZGQCGQ8PFgIfAgU+UGxlYXNlIGVudGVyL2Zvcm1hdCB5b3VyIEVtYWlsIGFkZHJlc3MgKGVnLCBuYW1lQGNvbXBhbnkuY29tKS5kZAIbDw8WAh8CBT5QbGVhc2UgZW50ZXIvZm9ybWF0IHlvdXIgRW1haWwgYWRkcmVzcyAoZWcsIG5hbWVAY29tcGFueS5jb20pLmRkAh0PDxYCHwIFCE1lc3NhZ2U6ZGQCIQ8WAh8CBRsoTGltaXRlZCB0byA1MDAgY2hhcmFjdGVycylkAiMPZBYCAgEPFgIfAgUjWW91IG1heSBlbnRlciB1cCB0byA1MDAgY2hhcmFjdGVycy5kAicPDxYCHwIFHVNlbmQgbWUgYSBjb3B5IG9mIHRoaXMgZW1haWwuZGQCAw9kFgJmD2QWAmYPZBYEAgEPZBYCAgIPFgIfAgUZU2hhcnBVU0EgfCBQcml2YWN5IFBvbGljeWQCAw9kFgICAQ8WAh8CBRlTaGFycFVTQSB8IFByaXZhY3kgUG9saWN5ZAIDD2QWAmYPZBYCZg9kFgICAQ8WAh8CBSbCqSAyMDEzIFNoYXJwIEVsZWN0cm9uaWNzIENvcnBvcmF0aW9uLmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFFnRvcF8yJGN0bDAxJHNlbmRNZUNvcHmTkI9bMzuUPHAsr7TcA6TWMGE04Q==">
 </div>
 
 <script type="text/javascript">
@@ -90,7 +151,7 @@ return true;
 
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDQKHwtnjBgLm1cqHCgLemZCbDQLP+K2LDgL8oOlOAuezk4wKAtKEsPsMAp+SglIC77XY+w4CjqDuggoCz/PQyQ0C7Mr3lAEC4N/4kAFb0Y42Flfj0pvgIyhHHedQaGseBw==">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDQK4ufiyAQLOgK6LDgKP86FNAsPdzIcKAt+hkJsNAuezk4wKAtKEsPsMAp+SglIC77XY+w4CjqDuggoCz/PQyQ0C7Mr3lAEC4N/4kAFXnax6E9f7S+ge+v0vkkRSom3R8g==">
 </div>
     <script type="text/javascript">
 //<![CDATA[
@@ -101,255 +162,106 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls(['ttop_2$ctl01$Ema
 
     
     <div id="container">
-        
+	    <div id="header-wrapper">
+            
 <!--googleoff: all-->
-<div id="header" class="clearfix" style="z-index:9997;">
-	<a href="/" id="logo">SHARP®</a>
-	
-	<div id="membershipInformation">
-
-	</div>
-	<fieldset id="searchbox" defaultbutton="imgbtnFindMatches">
-        <input name="top_0$hiddenClient" type="hidden" id="top_0_hiddenClient" value="production">
-        <input name="top_0$hiddenSite" type="hidden" id="top_0_hiddenSite" value="EntireSite">
-		<input name="top_0$txtSearch" type="text" value="SEARCH" id="top_0_txtSearch" class="text" autocomplete="off" onkeyup="ss_handleKey(event,0)">
-		
-        <table cellpadding="0" cellspacing="0" class="ss-gac-m" style="position: absolute; left:0; top: 27px; width:150px ; visibility: hidden; z-index:9998;" id="site_search_suggest"></table>
-        <input type="submit" name="top_0$imgbtnFindMatches" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;top_0$imgbtnFindMatches&quot;, &quot;&quot;, true, &quot;validateSearch&quot;, &quot;&quot;, false, false))" id="top_0_imgbtnFindMatches" class="button">
-	</fieldset>
-    <script language="javascript" type="text/javascript">
-        SharpUSA.Search.RegisterSearchSet(0, "top_0_txtSearch", "site_search_suggest", "top_0_hiddenClient", "top_0_hiddenSite", function () {
-        document.location.href = "/CustomerSupport/search.aspx?q=" + SharpUSA.Search.GetKeywordField(0).value;
-    });
-    </script>
-</div><!-- end #header -->
 <!--googleon: all-->
 <!--googleoff: all-->
-	<div class="HeaderNav">
-		<div class="Tabs">
-			<div class="NavTab" id="HomeTab">Home</div>
-			<div class="NavTab" id="WorkTab">Work</div>
-			<div class="NavTab" id="LifeTab">Life</div>
-		</div>
-		<div class="Clear"></div>
-		<div class="NavMenu">
-			<div class="NavMenuScroll">
-				<div class="NavSection" id="HomeSection">
-					<ul class="NavModules">
-						<li class="NavModule">
-							<div class="NavModuleImageLeft">
-								<div class="Heading">Home Entertainment</div>
-								<a href="/ForHome/HomeEntertainment/LCDTV.aspx"><div class="Image" style="background: url(/~/media/Images/Home/Navigation/HomeEntertainment.aspx); width:125px; height: 80px;"></div></a>
-								<ul class="Links">
-									<li class="Link"><a href="/ForHome/HomeEntertainment/LCDTV.aspx"><span class="Bullet">»</span>LED TVs</a></li>
-									<li class="Link"><a href="/ForHome/HomeEntertainment/BluRayDisc.aspx"><span class="Bullet">»</span>Blu-ray Disc<sup>TM</sup> Players</a></li>
-									<li class="Link"><a href="/ForHome/HomeEntertainment/Audio.aspx"><span class="Bullet">»</span>Audio</a></li>
-									<li class="Link"><a href="/ForHome/HomeEntertainment/SoundBar.aspx"><span class="Bullet">»</span>Sound Bar</a></li>
-									<li class="Link"><a href="/ForHome/HomeEntertainment/HomeTheaterProjectors.aspx"><span class="Bullet">»</span>Home Theater Projectors</a></li>
-								</ul>
-							</div>
-						</li>
-						<li class="Separator">&nbsp;</li>
-						<li class="NavModule">
-							<div class="NavModuleImageLeft">
-								<div class="Heading">Home Appliances</div>
-								<a href="/ForHome/HomeAppliances/Microwaves.aspx"><div class="Image" style="background: url(/~/media/Images/Home/Navigation/HomeAppliances.aspx); width:114px; height: 80px; "></div></a>
-								<ul class="Links">
-									<li class="Link"><a href="/ForHome/HomeAppliances/Microwaves.aspx"><span class="Bullet">»</span>Microwave Drawer<sup>TM</sup> Ovens</a></li>
-									<li class="Link"><a href="/ForHome/HomeAppliances/Microwaves.aspx"><span class="Bullet">»</span>Microwave Ovens</a></li>
-									<li class="Link"><a href="/ForHome/HomeAppliances/Microwaves.aspx"><span class="Bullet">»</span>SuperSteam<sup>TM</sup> Ovens</a></li>
-									<li class="Link">&nbsp;</li>
-									<li class="Link">&nbsp;</li>
-								</ul>
-							</div>
-						</li>
-						<li class="Separator">&nbsp;</li>
-                        <li class="NavModule">
-							<div class="NavModuleImageLeft">
-								<div class="Heading">Home Office</div>
-								<div class="Image" style="background: url(/~/media/Images/Home/Navigation/HomeOffice.aspx); width:48px; height: 80px; "></div>
-								<ul class="Links">
-									<li class="Link"><a href="/ForHome/HomeOffice/Calculators.aspx"><span class="Bullet">»</span>Calculators</a></li>
-								</ul>
-							</div>
-						</li>
-						<li class="NavModule">
-							<div class="NavModuleImageLeft">
-								<div class="Heading">Home Environment</div>
-								<div class="Image" style="background: url(/~/media/Images/Home/Navigation/HomeEnvironment.aspx); width:59px; height: 80px; "></div>
-								<ul class="Links">
-									<li class="Link"><a href="/ForHome/HomeEnvironment/AirConditioners.aspx"><span class="Bullet">»</span>Air Conditioners</a></li>
-									<li class="Link"><a href="/ForHome/HomeEnvironment/AirPurifier.aspx"><span class="Bullet">»</span>Air Purifiers</a></li>
-								</ul>
-							</div>
-						</li>
-
-					</ul>
-					<div class="LearnAbout">
-						<div class="Heading">Info Center</div>
-						<div class="Divider"></div>
-						<ul class="Links">
-							<li class="Link"><a href="/ForHome/HomeEntertainment/LCDTV/Features/Big.aspx"><span class="Bullet">»</span>Experience Bigger TV</a></li>
-							<li class="Link"><a href="/ForHome/HomeEntertainment/LCDTV/Features/Quattron.aspx"><span class="Bullet">»</span>Quattron<sup>TM</sup> Technology</a></li>
-							<li class="Link"><a href="/ForHome/HomeEntertainment/LCDTV/Features/Smart.aspx"><span class="Bullet">»</span>SmartTV</a></li>
-							<li class="Link"><a href="/ForHome/HomeEntertainment/LCDTV/Features/3D.aspx"><span class="Bullet">»</span>AQUOS<sup>®</sup> 3D</a></li>
-							<li class="Link"><a href="/ForHome/HomeEntertainment/LCDTV/Features/Ownership.aspx"><span class="Bullet">»</span>Ownership Experience</a></li>
-							<li class="Link"><a href="/ForHome/HomeEntertainment/LCDTV/Features/Energy.aspx"><span class="Bullet">»</span>Energy Efficiency</a></li>
-						</ul>
-						<div class="Heading">Customer Support</div>
-						<div class="Divider"></div>
-						<ul class="Links">
-							<li class="Link"><a href="/CustomerSupport/ProductDownloads.aspx"><span class="Bullet">»</span>Product Downloads</a></li>
-							<li class="Link"><a href="/CustomerSupport/WhereToBuy.aspx"><span class="Bullet">»</span>Dealer Locator</a></li>
-							<li class="Link"><a href="/CustomerSupport/ServiceLocator.aspx"><span class="Bullet">»</span>Service Locator</a></li>
-							<li class="Link"><a href="/CustomerSupport/ProductAccessories.aspx"><span class="Bullet">»</span>Accessories</a></li>
-							<li class="Link"><a href="/ForHome/HomeEntertainment/LCDTV/Features/Ownership.aspx"><span class="Bullet">»</span>AQUOS Advantage<sup>SM</sup></a></li>
-							<li class="Link"><a href="/CustomerSupport/ContactUs.aspx"><span class="Bullet">»</span>Contact Us</a></li>
-						</ul>
-					</div>
+			<div id="header" class="clearfix">
+				<div id="logo-container" class="grid">
+					<a href="/">
+						<img src="/img/SharpUSA/global/header/logo.png" alt="Sharp®">
+					</a>
 				</div>
-				<div class="NavSection" id="WorkSection">
-					<ul class="NavModules">
-						<li class="NavModule">
-							<div class="NavModuleImageLeft">
-								<div class="Heading">Document Systems</div>
-								<div class="Image" style="background: url(/~/media/Images/Home/Navigation/DocumentSystems.aspx); width:80px; height: 80px;"></div>
-								<ul class="Links">
-									<li class="Link"><a href="/ForBusiness/DocumentSystems/MFPsPrinters.aspx"><span class="Bullet">»</span>MFPs &amp; Printers</a></li>
-									<li class="Link"><a href="/ForBusiness/DocumentSystems/FaxMachines.aspx"><span class="Bullet">»</span>Fax Machines</a></li>
+				<div id="header_nav" class="grid">
+					<ul>
+						<li class="first-level"><a href="/ForHome/HomeEntertainment/LCDTV.aspx">LED TVs</a>
+							<div>
+								<ul>
+									<li class="title">Choose by size</li>
+									<li><a href="/ForHome/HomeEntertainment/LCDTV/Models.aspx?facet:screensizefilter=90">90°</a></li>
+									<li><a href="/ForHome/HomeEntertainment/LCDTV/Models.aspx?facet:screensizefilter=80">80°</a></li>
+									<li><a href="/ForHome/HomeEntertainment/LCDTV/Models.aspx?facet:screensizefilter=70">70°</a></li>
+									<li><a href="/ForHome/HomeEntertainment/LCDTV/Models.aspx?facet:screensizefilter=60">60°</a></li>
+									<li><a href="/ForHome/HomeEntertainment/LCDTV/Models.aspx">All sizes</a></li>
 								</ul>
 							</div>
 						</li>
-						<li class="Separator">&nbsp;</li>
-						<li class="NavModule">
-							<div class="NavModuleImageLeft">
-								<div class="Heading">Presentation Products</div>
-								<div class="Image" style="background: url(/~/media/Images/Home/Navigation/PresentationProducts.aspx); width:100px; height: 80px;"></div>
-								<ul class="Links">
-									<li class="Link"><a href="/ForBusiness/PresentationProducts/AQUOSBOARD.aspx"><span class="Bullet">»</span>AQUOS BOARD<sup>TM</sup></a></li>
-									<li class="Link"><a href="/ForBusiness/PresentationProducts/ProfessionalLCDMonitors.aspx"><span class="Bullet">»</span>Professional LCD Monitors</a></li>
-									<li class="Link"><a href="/ForBusiness/PresentationProducts/ProfessionalProjectors.aspx"><span class="Bullet">»</span>Professional Projectors</a></li>
+						<li class="first-level"><a>Audio</a>
+							<div>
+								<ul>
+									<li><a href="/ForHome/HomeEntertainment/SoundBar.aspx">Sound Bar</a></li>
+									<li><a href="/ForHome/HomeEntertainment/Audio.aspx">Sound systems</a></li>
 								</ul>
 							</div>
 						</li>
-						<li class="Separator">&nbsp;</li>
-						<li class="NavModule">
-							<div class="NavModuleImageLeft">
-								<div class="Heading">Point of Sale Solutions</div>
-								<div class="Image" style="background: url(/~/media/Images/Home/Navigation/PointofSaleSolutions.aspx); width:80px; height: 80px;"></div>
-								<ul class="Links">
-									<li class="Link"><a href="/ForBusiness/POSSolutions/PointOfSaleSystems.aspx"><span class="Bullet">»</span>Point of Sale Systems</a></li>
-									<li class="Link"><a href="/ForBusiness/POSSolutions/ElectronicCashRegisters.aspx"><span class="Bullet">»</span>Electronic Cash Registers</a></li>
+						<li class="first-level"><a>Appliances</a>
+							<div>
+								<ul>
+									<li><a href="/ForHome/HomeEnvironment/AirPurifier.aspx">Air Purifiers</a></li>
+									<li><a href="/ForHome/HomeAppliances/Microwaves.aspx">Microwaves</a></li>
+									<li><a href="/ForBusiness/CommercialCooking/CommercialMWO.aspx">Commercial Cooking</a></li>
 								</ul>
 							</div>
 						</li>
-						<li class="NavModule">
-							<div class="NavModuleImageLeft">
-								<div class="Heading">Commercial Cooking</div>
-								<div class="Image" style="background: url(/~/media/Images/Home/Navigation/CommercialCooking.aspx); width:100px; height: 80px;"></div>
-								<ul class="Links">
-									<li class="Link"><a href="/ForBusiness/CommercialCooking/CommercialMWO.aspx"><span class="Bullet">»</span>Commercial Microwave Ovens</a></li>
-									<li class="Link"><a href="/ForBusiness/CommercialCooking/RiceCooker.aspx"><span class="Bullet">»</span>Rice Cookers</a></li>
+						<li class="first-level"><a>Business products</a>
+							<div>
+								<ul>
+									<li><a href="/ForBusiness/DocumentSystems/MFPsPrinters.aspx">Document Systems</a></li>
+									<li><a>Presentation Products</a>
+										<ul class="third-level">
+											<li><a href="/ForBusiness/PresentationProducts/AQUOSBOARD.aspx">AQUOS BOARD<sup>TM</sup></a></li>
+											<li><a href="/ForBusiness/PresentationProducts/ProfessionalLCDMonitors.aspx">Professional LCD Monitors</a></li>
+											<li><a href="/ForBusiness/PresentationProducts/ProfessionalProjectors.aspx">Professional Projectors</a></li>
+										</ul>
+                                    </li>
+									<li><a>Point of Sale Solutions</a>
+										<ul class="third-level">
+											<li><a href="/ForBusiness/POSSolutions/PointOfSaleSystems.aspx">Point of Sale Systems</a></li>
+											<li><a href="/ForBusiness/POSSolutions/ElectronicCashRegisters.aspx">Electronic Cash Registers</a></li>
+										</ul>
+                                    </li>
+									<li><a href="/ForBusiness/SmallElectronics/Calculators.aspx">Small Electronics</a></li>
 								</ul>
 							</div>
 						</li>
-						<li class="Separator">&nbsp;</li>
-						<li class="NavModule">
-							<div class="NavModuleImageLeft">
-								<div class="Heading">Small Electronics</div>
-								<div class="Image" style="background: url(/~/media/Images/Home/Navigation/SmallElectronics.aspx); width:48px; height: 80px;"></div>
-								<ul class="Links">
-									<li class="Link"><a href="/ForBusiness/SmallElectronics/Calculators.aspx"><span class="Bullet">»</span>Calculators for Business</a></li>
+						<li class="first-level"><a href="/Life/LEDLighting.aspx">LED Lighting</a></li>
+						<li class="first-level"><a>Support</a>
+							<div>
+								<ul>
+									<li><a href="/CustomerSupport/ProductDownloads.aspx">Downloads</a></li>
+									<li><a href="/CustomerSupport/ServiceLocator.aspx">Service Locator</a></li>
+									<li><a href="/CustomerSupport/ProductAccessories.aspx">Accessories</a></li>
+									<li><a href="/AboutSharp/CompanyProfile.aspx">About</a></li>
+									<li><a href="/SolarElectricity/WhyGoSolar.aspx">Solar</a></li>
 								</ul>
 							</div>
 						</li>
+						<li id="cart"><a href="/ShoppingCart.aspx">Cart</a></li>
 					</ul>
-					<div class="LearnAbout">
-						<div class="Heading">Government and Commercial Markets</div>
-						<div class="Divider"></div>
-						<ul class="Links">
-							<li class="Link"><a href="/ForBusiness/GovernmentAndCommercialMarkets/Overview.aspx"><span class="Bullet">»</span>Overview</a></li>
-							<li class="Link"><a href="/ForBusiness/GovernmentAndCommercialMarkets/CorporateAccounts.aspx"><span class="Bullet">»</span>Corporate Accounts</a></li>
-							<li class="Link"><a href="/ForBusiness/GovernmentAndCommercialMarkets/Education.aspx"><span class="Bullet">»</span>Education</a></li>
-							<li class="Link"><a href="/ForBusiness/GovernmentAndCommercialMarkets/Government.aspx"><span class="Bullet">»</span>Government</a></li>
-							<li class="Link"><a href="/ForBusiness/GovernmentAndCommercialMarkets/Healthcare.aspx"><span class="Bullet">»</span>Health Care</a></li>
-							<li class="Link"><a href="/ForBusiness/GovernmentAndCommercialMarkets/Hospitality.aspx"><span class="Bullet">»</span>Hospitality</a></li>
-							<li class="Link"><a href="/ForBusiness/GovernmentAndCommercialMarkets/HouseOfWorship.aspx"><span class="Bullet">»</span>House of Worship</a></li>
-						</ul>
-						<div class="Heading">Customer Support</div>
-						<div class="Divider"></div>
-						<ul class="Links">
-							<li class="Link"><a href="/CustomerSupport/ProductDownloads.aspx"><span class="Bullet">»</span>Product Downloads</a></li>
-							<li class="Link"><a href="/CustomerSupport/WhereToBuy.aspx"><span class="Bullet">»</span>Dealer Locator</a></li>
-							<li class="Link"><a href="/CustomerSupport/ServiceLocator.aspx"><span class="Bullet">»</span>Service Locator</a></li>
-							<li class="Link"><a href="/CustomerSupport/ProductAccessories.aspx"><span class="Bullet">»</span>Accessories</a></li>
-							<li class="Link"><a href="/CustomerSupport/ContactUs.aspx"><span class="Bullet">»</span>Contact Us</a></li>
-						</ul>
-					</div>
 				</div>
-				<div class="NavSection" id="LifeSection">
-					<ul class="NavModules">
-						<li class="NavModule">
-							<div class="NavModuleImageLeft">
-								<div class="Heading">LED Lighting</div>
-								<div class="Image" style="background: url(/~/media/Images/Home/Navigation/CommercialLEDLighting.aspx); width:89px; height: 80px;"></div>
-								<ul class="Links">
-									<li class="Link"><a href="/Life/LEDLighting.aspx"><span class="Bullet">»</span>LED Lighting</a></li>
-								</ul>
-							</div>
-						</li>
-						<li class="Separator">&nbsp;</li>
-						<li class="NavModule">
-							<div class="NavModuleImageLeft">
-									<div class="Heading">Mobile Phones</div>
-								<div class="Image Hot" style="background: url(/~/media/Images/Home/Navigation/Mobile.aspx); width:80px; height: 80px;"></div>
-								<ul class="Links">
-									<li class="Link"><a href="/ForHome/Mobile/MobilePhones.aspx"><span class="Bullet">»</span>Mobile Phones</a></li>
-								</ul>
-							</div>
-						</li>
-						<li class="Separator">&nbsp;</li>
-						<li class="NavModule">
-							<div class="NavModuleImageLeft">
-									<div class="Heading">Solar</div>
-								<div class="Image Hot" style="background: url(/~/media/Images/Home/Navigation/Solar.aspx); width:80px; height: 80px;"></div>
-								<ul class="Links">
-									<li class="Link"><a href="/SolarElectricity/WhyGoSolar.aspx"><span class="Bullet">»</span>Solar</a></li>
-								</ul>
-							</div>
-						</li>
-					</ul>
-					<div class="LearnAbout">
-						<div class="Heading">About Sharp</div>
-						<div class="Divider"></div>
-						<ul class="Links">
-							<li class="Link"><a href="/AboutSharp/CompanyProfile.aspx"><span class="Bullet">»</span>Company Profile</a></li>
-							<li class="Link"><a href="/AboutSharp/NewsAndEvents.aspx"><span class="Bullet">»</span>News and Events</a></li>
-							<li class="Link"><a href="/AboutSharp/Careers.aspx"><span class="Bullet">»</span>Careers</a></li>
-							<li class="Link"><a href="/AboutSharp/SharpAndTheEnvironment.aspx"><span class="Bullet">»</span>Sharp and the Environment</a></li>
-						</ul>
-						<div class="Heading">Help</div>
-						<div class="Divider"></div>
-						<ul class="Links">
-							<li class="Link"><a href="/CustomerSupport/ContactUs.aspx"><span class="Bullet">»</span>Contact Us</a></li>
-						</ul>
-					</div>
-				</div>
+               	<fieldset id="searchbox" defaultbutton="imgbtnFindMatches">
+    				<div id="global_search" class="grid">
+                        <ul class="clearfix">
+                            <li class="textinput"><input name="top_1$txtSearch" type="text" id="top_1_txtSearch" class="text" placeholder="I'm looking for..." autocomplete="off" onkeyup="javascript:ss_handleKey(event,0);"></li>
+                            <li class="buttoninput">
+						        <input type="submit" name="top_1$imgbtnFindMatches" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;top_1$imgbtnFindMatches&quot;, &quot;&quot;, true, &quot;validateSearch&quot;, &quot;&quot;, false, false))" id="top_1_imgbtnFindMatches" class="ir">
+					        </li>
+                            <input name="top_1$hiddenClient" type="hidden" id="top_1_hiddenClient" value="production">
+                            <input name="top_1$hiddenSite" type="hidden" id="top_1_hiddenSite" value="EntireSite">
+		
+		                    
+                            <table cellpadding="0" cellspacing="0" class="ss-gac-m" style="width:150px ; visibility: hidden; z-index:9998; background: white; border: 1px solid #CCC;" id="site_search_suggest"></table>
+                            <script language="javascript" type="text/javascript">
+                                SharpUSA.Search.RegisterSearchSet(0, "top_1_txtSearch", "site_search_suggest", "top_1_hiddenClient", "top_1_hiddenSite", function () {
+                                    document.location.href = "/CustomerSupport/search.aspx?q=" + SharpUSA.Search.GetKeywordField(0).value;
+                                });
+                            </script>
+                        </ul>
+	        		</div>
+		       	</fieldset>
 			</div>
-		</div>
-	</div>
-	
-	<ul id="commerce-nav">
-		<!--//GV:remove wishlist: li id="wishlist-nav">
-			
-		</li -->
-		<li id="cart-nav">
-		    <a href="/ShoppingCart.aspx"><span>Cart</span></a>
-		</li>	
-	</ul>
 <!-- end #navigation -->
-
-
 <!--googleon: all-->
 <!--googleoff: all-->
 <div id="bbreadcrumb-pageutils" class="clearfix">
@@ -486,8 +398,10 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls(['ttop_2$ctl01$Ema
 </div>
 <!--googleon: all-->
 
-        <div id="content" class="clearfix">
-            
+	    </div>
+		<div id="content-wrapper">
+            <div id="content" class="clearfix">
+                
 		<h1>Sharp Electronics Corporation online privacy policy</h1>
     <p>This is the privacy policy ("Privacy Policy") for online web sites of Sharp Electronics Corporation including SharpUSA.com ("SharpUSA")and the Sharp Direct℠ online store ("Sharp Direct") and explains when and how your personal information is collected, used, disclosed and protected. SharpUSA.com and Sharp Direct are owned by Sharp Electronics Corporation and are facilitated through independent vendors. This Privacy Policy is a part of the SharpUSA and Sharp Direct Terms and Conditions of Use and governs your use of and purchase from these sites. We recognize your need to control personal information you share with us. Sharp is committed to respecting your privacy.</p>
     <h2>Your California / Rhode Island Privacy Rights</h2>
@@ -512,48 +426,22 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls(['ttop_2$ctl01$Ema
     <h2>Questions or Concerns</h2>
     <p>If you have any comments or concerns regarding this Privacy Policy, you may contact us through the&nbsp;<a href="http://m.sharpusa.com/CustomerSupport/ContactUs.aspx">Contact Us</a> page, write to us at SharpUSA Privacy Policy, c/o Sharp Electronics Corporation, Sharp Plaza, Mahwah, New Jersey 07495-1163; , or call us toll free at 1-877-742-7704.</p>
     <p>Effective: 11/09/2006</p>
-        </div><!-- end #content -->
+            </div><!-- end #content -->
+		</div>
         
     </div>
     
-<div id="footer_legal">
-	<div id="footer_container">
-	<div id="global_footer" class="clearfix">
-	      <div class="container_12">
-	        <div class="grid_9">
-	          <div id="global_footer_nav">
-	            <ul class="clearfix">
-	              <!-- li class="active"><a href="/ForHome.aspx">For Home</a></li -->
-	              <li><a href="/CustomerSupport/ContactUs.aspx">Contact Us</a></li>
-	              <li><a href="/CustomerSupport/ProductDownloads.aspx">Product Downloads</a></li>
-	              <li><a href="/CustomerSupport/WhereToBuy.aspx">Locate a Dealer or Retailer</a></li>
-	              <li><a href="/CustomerSupport/ProductRegistration.aspx">Product Registration</a></li>
-	              <li><a href="/AboutSharp/NewsAndEvents.aspx">News</a></li>
-	            </ul>
-	          </div>
-	          <div id="global_footer_mini_nav" class="clearfix">
-	            <ul class="clearfix" id="footer_social">
-	              <li id="facebook"><a href="http://www.facebook.com/SharpUSA" class="ir" target="_blank">Facebook</a></li>
-	              <li id="twitter"><a href="https://twitter.com/#!/Sharp_USA" class="ir" target="_blank">Twitter</a></li>
-	              <li id="youtube"><a href="http://www.youtube.com/user/sharpelectronicsusa" class="ir" target="_blank">YouTube</a></li>
-	              <!-- li id="gplus"><a href="#" class="ir">GooglePlus</a></li -->
-	            </ul>
-	            <ul class="clearfix" id="global_mini_nav">
-	              <li><a href="/SiteMap.aspx">sitemap</a></li>
-	              <li><a href="/TermsAndConditions.aspx" rel="modal">terms &amp; conditions</a></li>
-	              <li><a href="/PrivacyPolicy.aspx" rel="modal">privacy policy</a></li>
-	              <li><a href="/RSS.aspx">rss</a></li>
-	            </ul>
-	          <p id="copyright">© 2012 Sharp Electronics Corporation.</p>
-	          </div>
-	        </div>
-	        <div class="grid_3" id="global_footer_logo">
-	          <a href="#" id="sharp_foot" class="ir">Sharp Aquos TV</a>
-	        </div>
-	      </div>
-	    </div>
+	<div id="footer_legal">
+		<div id="footer_container">
+			<ul>
+				<li><a href="/CustomerSupport/ProductRegistration.aspx">Product registration</a></li>
+				<li><a href="/AboutSharp/NewsAndEvents.aspx">News</a></li>
+				<li><a href="/CustomerSupport/ContactUs.aspx">Contact us</a></li>
+				<li><a href="/TermsAndConditions.aspx">Terms and Conditions</a></li>
+				<li><a href="#">© 2013 Sharp Electronics Corporation.</a></li>
+			</ul>
+		</div>
 	</div>
-</div>
 <!-- end #footer -->
     
 <script type="text/javascript">
@@ -562,25 +450,8 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls(['ttop_2$ctl01$Ema
         data_ga_social: true
     };
 </script>
-<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
-<script type="text/javascript">    __sfga();</script>
 
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=sharpusa"></script>
-
-<!-- Google Code for Copier Page Visitors Remarketing List -->
-<script type="text/javascript">
-/* <![CDATA[ */
-if (document.location.href.indexOf("MFPsPrinters") > -1) {
-    var google_conversion_id = 1037310222;
-    var google_conversion_language = "en";
-    var google_conversion_format = "3";
-    var google_conversion_color = "666666";
-    var google_conversion_label = "akmZCOydmgIQjrLQ7gM";
-    var google_conversion_value = 0;
-    document.write(unescape("%3Cscript src='http://www.googleadservices.com/pagead/conversion.js' type='text/javascript'%3E%3C/script%3E"));
-}
-/* ]]> */
-</script>
 <script type="text/javascript">
     (function () {
         var h = 'com-sharp.netmng.com';
