@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogauonline.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614235301id_/http%3A//yogauonline.com/yogatherapy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogauonline.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611005809id_/http%3A//yogauonline.com/yogatherapy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yoga U Online
 
