@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixwebtemplates.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920025036id_/http%3A//www.mixwebtemplates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixwebtemplates.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611005710id_/http%3A//mixwebtemplates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
