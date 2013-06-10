@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveall.tv privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919234751id_/http%3A//liveall.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveall.tv privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610181932id_/http%3A//liveall.tv/privacy) for the most accurate reproduction.*
 
 # Liveall.tv - Privacy Policy
 
@@ -8,7 +8,7 @@ This document sets out Liveall.tv's commitment to your privacy and to the protec
 
 ### 2\. Data collected
 
-We collect and subsequently process the Data that you voluntarily provide on the registration form on the Website including your user ID, and  valid email address. The only Data automatically collected by the Website is your IP address (the address of your computer). Please note that whether or not you are a registered user, the Website may implement an automatic tracking process (cookie), which you may block by changing your browser settings.
+We collect and subsequently process the Data that you voluntarily provide on the registration form on the Website including your user ID, and Â valid email address. The only Data automatically collected by the Website is your IP address (the address of your computer). Please note that whether or not you are a registered user, the Website may implement an automatic tracking process (cookie), which you may block by changing your browser settings.
 
 ### 3\. Purpose of processing
 
@@ -32,7 +32,7 @@ Children under the age of 13 are not permitted to register with Liveall.tv. It i
 
 In any case, you affirm that you are over the age of 13, as the Website is not intended for children under 13. If you are under 13 years of age, do not use or access the Liveall.tv website at any time or in any manner.
 
-If you are the parent or legal guardian of a child under 13, and that child has somehow registered with Liveall.tv, please send an e-mail livealltvcontact@gmail.comfor instructions on how to cancel your child's registration.  In the e-mail, please provide your full name and address, your child's full name and address, your relationship to the child, your daytime and evening telephone numbers, your email address and a signed statement that you are the child's parent or legal guardian. Liveall.tv will use this information only to verify that you are the child's parent or legal guardian and for no other purposes.
+If you are the parent or legal guardian of a child under 13, and that child has somehow registered with Liveall.tv, please send an e-mail livealltvcontact@gmail.comfor instructions on how to cancel your child's registration. Â In the e-mail, please provide your full name and address, your child's full name and address, your relationship to the child, your daytime and evening telephone numbers, your email address and a signed statement that you are the child's parent or legal guardian. Liveall.tv will use this information only to verify that you are the child's parent or legal guardian and for no other purposes.
 
 ## About Liveall.tv
 
