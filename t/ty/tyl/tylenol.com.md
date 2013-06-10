@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tylenol.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228203103id_/http%3A//www.tylenol.com/vcrc/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylenol.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610071313id_/http%3A//tylenol.com/privacy-policy) for the most accurate reproduction.*
 
 # Tylenol.com
 
@@ -21,11 +21,11 @@ This site may use and combine such passively collected anonymous information to 
 Cookies  
 A "cookie" is a bit of information that a Web site sends to your Web browser that helps the site remember information about you and your preferences. 
 
-“Session” cookies are temporary bits of information that are used to improve navigation, block visitors from providing information where inappropriate (the site “remembers” previous entries of age or country of origin that were outside the specified parameters and blocks subsequent changes), and collect aggregate statistical information on the site. They are erased once you exit your Web browser or otherwise turn off your computer. 
+"Session" cookies are temporary bits of information that are used to improve navigation, block visitors from providing information where inappropriate (the site "remembers" previous entries of age or country of origin that were outside the specified parameters and blocks subsequent changes), and collect aggregate statistical information on the site. They are erased once you exit your Web browser or otherwise turn off your computer. 
 
-"Persistent" cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. Persistent cookies store information on your computer for a number of purposes, such as retrieving certain information you have previously provided (such as passwords), helping to determine what areas of the Web site visitors find most valuable, and customizing the Web site based on your preferences on an ongoing basis. Persistent cookies placed by this site on your computer may hold personally identifiable information, but only if you have registered or have otherwise consented to the retention of personally identifiable information you have provided at the site. Otherwise, our site’s server only knows that an unidentified visitor with your cookie has returned to the site. 
+"Persistent" cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. Persistent cookies store information on your computer for a number of purposes, such as retrieving certain information you have previously provided (such as passwords), helping to determine what areas of the Web site visitors find most valuable, and customizing the Web site based on your preferences on an ongoing basis. Persistent cookies placed by this site on your computer may hold personally identifiable information, but only if you have registered or have otherwise consented to the retention of personally identifiable information you have provided at the site. Otherwise, our site's server only knows that an unidentified visitor with your cookie has returned to the site. 
 
-You can set your browser to accept all cookies, to reject all cookies, or to notify you whenever a cookie is offered so that you can decide each time whether to accept it. To learn more about cookies and how to specify your preferences, please search for "cookie" in the “Help” portion of your browser. 
+You can set your browser to accept all cookies, to reject all cookies, or to notify you whenever a cookie is offered so that you can decide each time whether to accept it. To learn more about cookies and how to specify your preferences, please search for "cookie" in the "Help" portion of your browser. 
 
 A site may use Internet Protocol (IP) addresses. An IP address is a number assigned to your computer by your Internet service provider so you can access the Internet and is generally considered to be non-personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user's computer). The IP address can be used to diagnose problems with a server, report aggregate information, determine the fastest route for your computer to use in connecting to a site, and administer and improve the site. 
 
@@ -58,7 +58,7 @@ This site may contain links or references to other Web sites to which this Priva
 How to Contact Us  
 If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of this site, or if you would like to opt out of future communications, please contact us as follows: 
 
-[Customer Service](https://web.archive.org/page.jhtml?id=tylenol/ask/main.inc)
+[Customer Service](http://www.tylenol.com/ask-us)
 
 Changes to This Privacy Policy  
 If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on August 31, 2006. 
