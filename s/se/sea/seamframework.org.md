@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seamframework.org privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215024223id_/http%3A//www.redhat.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seamframework.org privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611004911id_/http%3A//www.redhat.com/legal/privacy_statement.html) for the most accurate reproduction.*
 
-# redhat.com | Privacy Statement
+# Privacy Statement | Red Hat
 
 ## Privacy Statement Table of Contents
 
