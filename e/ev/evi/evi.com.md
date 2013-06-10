@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evi.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216180605id_/http%3A//evi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evi.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610172906id_/http%3A//evi.com/privacy) for the most accurate reproduction.*
 
 # Evi - Privacy Policy
 
@@ -18,7 +18,7 @@ Evi will optionally request permission to connect to partner services of which y
 
 This is to allow Evi to learn more about you to provide you with a better, more personalised experience. Any data stored is subject to the partner's terms of service and is solely for the use of Evi - it will not be shared with any other third party.
 
-When you use the Evi Software and Service, location data from your mobile device is transmitted to and stored on our servers to provide relevant local information. Text input and transcripts of speech utterances via the Evi Software are also stored to enable the Service to provide the relevant information for your needs and to improve future responses. Certain device information may also be transmitted to and stored on our servers that may uniquely identify your device. This includes: 
+When you use the Evi Software and Service, location data from your mobile device is transmitted to and stored on our servers to provide relevant local information. Text input and speech data, including transcripts of speech utterances via the Evi Software are may also be stored to enable the Service to provide the relevant information for your needs and to improve future responses. Certain device information may also be transmitted to and stored on our servers that may uniquely identify your device. This includes: 
 
   * IP address
   * Make and model of device
@@ -30,7 +30,7 @@ We also use, within the Evi mobile application, Flurry Services in order to coll
 
 If you do not want Flurry to track data from your device you can opt-out by clicking on this link: <http://www.flurry.com/resources/privacy.html>
 
-Speech recognition is provided by Nuance Communications who may use speech data created by you to improve the performance of their service and to train, tune, enhance and improve the speech recognition and other components of its software and services. If you wish to learn more, please visit <http://www.nuance.com/company/company-overview/company-policies/privacy-policies/index.htm>
+Speech recognition is provided by Nuance Communications or may be provided by other parties who may use speech data created by you to improve the performance of their service and to train, tune, enhance and improve the speech recognition and other components of its software and services. If you wish to learn more, please visit <http://www.nuance.com/company/company-overview/company-policies/privacy-policies/index.htm>
 
 ### Information that we collect from you
 
@@ -68,7 +68,7 @@ Evi will optionally ask for your name. This will be stored securely on our serve
 
 Evi will optionally request permission to connect to partner services of which you may have an account with. This is to allow Evi to learn more about you to provide you with a better, more personalised experience. Any data stored is subject to the partner’s terms of service and is solely for the use of Evi – it will not be shared with any other third party.
 
-When you use the Evi Software and Service, location data from your mobile device is transmitted to and stored on our servers to provide relevant local information. Text input and transcripts of speech utterances via the Evi Software are also stored to enable the Service to provide the relevant information for your needs and to improve future responses. Certain device information may also be transmitted to and stored on our servers that may uniquely identify your device.
+When you use the Evi Software and Service, location data from your mobile device may be transmitted to and stored on our servers to provide relevant local information. Text input and speech data, including transcripts of speech utterances via the Evi Software are also stored to enable the Service to provide the relevant information for your needs and to improve future responses. Certain device information may also be transmitted to and stored on our servers that may uniquely identify your device.
 
 ### Disclosure of your information
 
@@ -78,9 +78,9 @@ evi.com is a community powered question answering site where the community can h
 
 To avoid personal identification, we will not without your express consent, associate your user name or other identifiable information with the questions asked, nor will we group your questions together as being associated with a single user.
 
-The information you provide to us will be held on our computers in the UK and may be accessed by or given to our staff working outside the UK and third parties including companies within the Evi Technologies group some of whom are located in the US who act for us for the purposes set out in this policy or for other purposes approved by you. Those parties process information, process credit card payments and provide support services on our behalf. We may also pass aggregate information on the usage of our site to third parties but this will not include information that can be used to identify you.
+The information you provide to us will be held on our computers in the EEA and may be accessed by or transferred to companies within the Evi Technologies group and third parties located outside of the EEA, some of whom are located in the US who provide services for us and for the purposes set out in this policy. Those third parties process information, process credit card payments and provide support services on our behalf. We may also pass aggregate information on the usage of our site to third parties but this will not include information that can be used to identify you. Whenever we transfer information to countries outside of the EEA as described above, we will ensure that the information is transferred in accordance with this Privacy policy and applicable data protection laws.
 
-Finally, if we enter into a joint venture or our business is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners. Countries outside the European Economic Area do not always have strong data protection laws. However, we will always take steps to ensure that your information is used by third parties in accordance with this policy.
+Finally, if we enter into a joint venture or our business is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners. Countries outside the European Economic Area do not always have strong data protection laws. However, we will always take steps to ensure that your information is used by third parties in accordance with this policy and applicable data protection laws.
 
 Unless required to do so by law or as otherwise set out in this privacy policy, we will not share, sell or distribute any of your personal information without your consent.
 
@@ -104,4 +104,4 @@ Any changes to our privacy policy in the future will be posted to the site and, 
 
 ### Contact
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to William Tunstall-Pedoe at Evi Technologies Limited, Poseidon House, Castle Park, Cambridge, CB3 0RD, United Kingdom or at [privacy@evi.com](mailto:privacy@evi.com) .
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to William Tunstall-Pedoe at Evi Technologies Limited, Wellington House, East Road, Cambridge, CB1 1BH, United Kingdom or at [privacy@evi.com](mailto:privacy@evi.com) .
