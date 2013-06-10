@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the picstache.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130232619id_/http%3A//www.picstache.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picstache.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610180930id_/http%3A//www.picstache.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Picstache
+# Privacy Policy - Funniest Pics on the Internet - PicStache
 
 Your privacy is important to Spartz Media. This privacy statement provides information about the personal information Spartz Media collects, and the ways in which Spartz Media uses that personal information. 
 
