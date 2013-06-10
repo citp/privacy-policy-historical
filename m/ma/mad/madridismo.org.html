@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the madridismo.org privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503231512id_/http%3A//www.madridismo.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the madridismo.org privacy policy that was archived on 2013-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610203133id_/http%3A//www.madridismo.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
 	<meta charset="UTF-8">
@@ -12,19 +12,24 @@
   
      <link href="http://www.madridismo.org/assets/images/favicon.ico" rel="shortcut icon" type="image/ico">
     
-    <!-- <link href="http://www.madridismo.org/assets/stylesheets/reset.css?v=1" rel="stylesheet" type="text/css" /> -->
+    
     <link href="http://www.madridismo.org/assets/stylesheets/forms_structure.css?v=1" rel="stylesheet" type="text/css"> 
     <link href="http://www.madridismo.org/assets/stylesheets/forms_main.css?v=1" rel="stylesheet" type="text/css"> 
     <link href="http://www.madridismo.org/assets/stylesheets/forms_custom.css?v=1" rel="stylesheet" type="text/css"> 
     <link href="http://www.madridismo.org/assets/stylesheets/styles_calendar.css?v=1" rel="stylesheet" type="text/css"> 
-    <link href="http://www.madridismo.org/assets/stylesheets/styles.css?v=1" rel="stylesheet" type="text/css">
-     <link href="http://www.madridismo.org/assets/stylesheets/thickbox.css" rel="stylesheet" type="text/css" media="screen"> 
+    <link href="http://www.madridismo.org/assets/stylesheets/styles.css?v=2" rel="stylesheet" type="text/css">
+     
+     <link href="http://www.madridismo.org/assets/stylesheets/thickbox_custom.css?v=1" rel="stylesheet" type="text/css" media="screen">
      <link href="http://www.madridismo.org/assets/stylesheets/prettyPhoto.css" rel="stylesheet" type="text/css" media="screen" charset="utf-8">
+     <link href="http://www.madridismo.org/assets/stylesheets/styles_dragdrop.css" type="text/css" rel="stylesheet">
+     <link rel="stylesheet" type="text/css" href="http://www.madridismo.org/assets/stylesheets/dd.css">
+     
     <!--[if IE]>
-        <link rel="stylesheet" href="http://www.madridismo.org/assets/stylesheets/styles_ie.css" type="text/css"/>
+        <link rel="stylesheet" href="http://www.madridismo.org/assets/stylesheets/styles_ie.css?v=2" type="text/css"/>
     <![endif]-->   
 
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/jquery-1.7.1.min.js?v=1"></script>    
+    <script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/jquery.form.js?v=1"></script>
     <script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/modernizr-2.0.min.js?v=1"></script>
     <script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/respond.min.js?v=1"></script>
     <script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/jquery.validate.js?v=1"></script>
@@ -34,12 +39,54 @@
     <script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/calendar_en.js?v=1"></script>
     <script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/en.js?v=1"></script>
     <script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/scripts.js?v=2"></script>
-    <script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/thickbox.js"></script>    
+    <!--<script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/thickbox.js"></script>  --> 
+    <script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/jquery.thickbox_custom.js"></script> 
     <script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/jquery.lazyload.js?v=3"></script>  
     <!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>-->
     <script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/cufon-yui.js"></script>    
 	<script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/univers_400-univers_700-univers_italic_700.font.js"></script>
+    <script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/jquery_cycle.js"></script>
+    <script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/jquery.watermark.js?v=1"></script> 
+    <script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/jquery.thickbox_wordpress.js?v=1"></script>
+    <script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/msdropdown/js/jquery.dd.js"></script>
+    <script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/msdropdown/js/test.js"></script>
+    <script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/tinymce/jscripts/tiny_mce/tiny_mce.js?v=1"></script>
+    <script type="text/javascript" src="http://www.madridismo.org/assets/javascripts/jquery.waitforimages.js?v=1"></script>
+    <script type="text/javascript">
+	tinyMCE.init({
+			// General options
+			mode : "textareas",
+			theme : "advanced",
+			editor_selector :"tiny",
+			plugins : "autolink,lists,spellchecker,pagebreak,style,layer,table,save,advhr,advimage,advlink,emotions,iespell,inlinepopups,insertdatetime,preview,media,searchreplace,print,contextmenu,paste,directionality,fullscreen,noneditable,visualchars,nonbreaking,xhtmlxtras,template",
+	
+			// Theme options
+			theme_advanced_buttons1 : "bold,|,italic,|,strikethrough,|,bullist,|,numlist,|,blockquote,|,justifyleft,|,justifycenter,|,justifyright,|,link,|,unlink,|,pagebreak,|,spellchecker,|,fullscreen,|,code",
+			theme_advanced_buttons2 : "formatselect,|,underline,|,justifyfull,|,forecolor,|,pastetext,|,pasteword,|,removeformat,|,charmap,|,outdent,|,indent,|,undo,|,redo,|,help",
+			skin : "o2k7",
+			skin_variant : "silver",
+			relative_urls : false,
+			// Drop lists for link/image/media/template dialogs
+			template_external_list_url : "js/template_list.js",
+			external_link_list_url : "js/link_list.js",
+			external_image_list_url : "js/image_list.js",
+			media_external_list_url : "js/media_list.js",
+			height:400,
+			setup : function(ed) {
+			  ed.onKeyUp.add(function(ed, e) {
+				  tinyMCE.triggerSave();
+			  });
+		    }
+
+
+
+
+			
+	});
+	</script>
+    
 		<script type="text/javascript">
+		
 			Cufon.replace('h1'); // Works without a selector engine
 			Cufon.replace('#sub1'); // Requires a selector engine for IE 6-7, see above
 		</script>
@@ -50,7 +97,23 @@
     
     
     <script>
+	
 	$(document).ready(function(){
+				
+		function blink_(time, interval){
+			var timer = window.setInterval(function(){
+				$("img.blink").css("opacity", "0.1");
+				window.setTimeout(function(){
+					$("img.blink").css("opacity", "1");
+				}, 100);
+			}, interval);
+			window.setTimeout(function(){clearInterval(timer);}, time);
+		}
+		
+		if( $("img.blink").length > 0){  
+			blink_(9000000000000, 800);
+		}
+		
 		$("a[rel^='prettyPhoto']").prettyPhoto();
 		$("#social_left .left_social").hover(
 			function () {
@@ -60,6 +123,7 @@
 				$(this).stop().animate({ marginLeft: "0px" }, 100);
 			}
 		);
+		
 		
 		  
 		
@@ -101,14 +165,15 @@
 	
   
 
-	<div id="login_layer" style="width:320px; position:fixed; left:33%; top:33%; display:none; z-index:900000px;">
+	<div id="login_layer">
     <form method="post" enctype="multipart/form-data" action="http://www.madridismo.org/login" id="rmform" name="rmform">
 		<div class="login_layer_background1">
-			<div class="login_layer_login">
-				<i><b>LOGIN</b></i>
-			</div>
+			
 			<div class="close_div">
 				<input type="button" value="X" onclick="tb_remove()" class="input_button">
+			</div>
+            <div class="login_layer_login">
+				<i><b>LOGIN</b></i>
 			</div>
 			<div style="clear:both;"></div>
 		</div>
@@ -151,6 +216,7 @@
 
 <!-- END LOGIN LAYER -->
 
+
 <div id="social_left" style="position:fixed; font-size:10px; top:174px; left:0px;">
 	<div style="margin-bottom:1px;" class="left_social">
     <a href="http://www.facebook.com/pages/Madridismo/205734766154277"><img src="http://www.madridismo.org/assets/images/sm_facebook.gif" alt="madridismo on facebook"></a>
@@ -166,7 +232,7 @@
     <a href="http://www.youtube.com/user/madridismoorg"><img src="http://www.madridismo.org/assets/images/sm_youtube.gif" alt="madridismo on youtube"></a>
     </div>
     <div style="margin-bottom:1px;" class="left_social">
-    	<a href="http://feeds.feedburner.com/madridismo"><img src="http://www.madridismo.org/assets/images/sm_rss.gif" alt="rss feed"></a>
+		    	<a href="http://feeds.feedburner.com/madridismo"><img src="http://www.madridismo.org/assets/images/sm_rss.gif" alt="rss feed"></a>
     </div>
 </div>
 
@@ -181,17 +247,37 @@
     
     </div>
         
-		    <div style="width:560px; height:35px; float:left"></div>
-            
-	<div align="left">
+	<div style="float:right; width:34px; height:35px; background-color:1e428e; background-image:url(http://www.madridismo.org/assets/images/search_icon.gif);"></div>
+
+	<div style="float:right;">
+    	    	<div class="input_button2"><a href="http://www.madridismo.org/#TB_inline?height=253&amp;width=320&amp;inlineId=login_layer&amp;modal=true" type="noPadding" class="thickbox">LOGIN</a></div>
+        	</div>
+
+	<div style="float:right;">
     		    	<div class="input_button2"><a href="http://www.madridismo.org/register">JOIN</a></div>
+            <div class="input_button2" style="display:none"><a id="regis_pop_up" href="http://www.madridismo.org/regis_popup?KeepThis=true&amp;TB_iframe=true&amp;width=612&amp;modal=true" title="Register" type="noPadding" class="thickbox">JOIN</a></div>
         	</div>
-	<div>
-    	    	<div class="input_button2"><a href="#TB_inline?height=300&amp;width=320&amp;inlineId=login_layer&amp;modal=true" class="thickbox">LOGIN</a></div>
-        	</div>
-	<div style="width:34px; height:35px; background-color:1e428e; background-image:url(http://www.madridismo.org/assets/images/search_icon.gif); float:right"></div>
+    
+	
 	<div style="clear:both;"></div>
-    	<a href="http://www.madridismo.org/main"><div style="background:url(http://www.madridismo.org/assets/images/madridismo_real_madrid.png); background-image:url(http://www.madridismo.org/assets/images/madridismo_real_madrid.png); width:1000px; height:138px;"></div></a>
+    	<a href="http://www.madridismo.org/main"><div style="background:url(http://www.madridismo.org/assets/images/madridismo_real_madrid.png); background-image:url(http://www.madridismo.org/assets/images/madridismo_real_madrid.png); width:314px; height:138px; float:left"></div></a>
+    
+    <div style="float:right; width:686px;"> &nbsp;
+   
+  		<div align="right">
+    
+    		<div style="width:600px; padding-top:0px; padding-right:0px;" align="center">
+            
+                        	<script id="mNCC" language="javascript">  medianet_width='600';  medianet_height= '120';  medianet_crid='525715009';  </script>  <script id="mNSC" src="http://contextual.media.net/nmedianet.js?cid=8CUY3613P" language="javascript"></script> 
+                  				<!--<br /><a style="font-size:10px; padding:0px; margin:0px;" href="/sponsors/">Sponsor Us</a>-->
+  			</div>
+        
+        		</div>
+    
+    </div>
+    
+    <div style="clear:both;"></div>
+    
 	<div class="" style="height:35px; background-color:#1e428e;">
     
 		<ul style="list-style:none;" class="dropdown">
@@ -210,114 +296,143 @@
             
             	<div id="articles" class="menubar" style="float:left;">
                     <div class="menubar_inner" style="cursor:pointer;">
-                        articles                    </div>
+                        first team                    </div>
                 </div>
                 
-                <ul style="list-style:none; left:14.3%;">
-                
-                							                                                <li style="clear:both;">
-                            <a href="http://www.madridismo.org/category/news/ ">News</a>
-                        </li>
-                                            
-											                                                <li style="clear:both;">
-                            <a href="http://www.madridismo.org/category/editorial/ ">Editorial</a>
-                        </li>
-                                            
-											                                                <li style="clear:both;">
-                            <a href="http://www.madridismo.org/category/pregame/ ">Pregame</a>
-                        </li>
-                                            
-											                                                <li style="clear:both;">
-                            <a href="http://www.madridismo.org/category/liga/ ">Liga</a>
-                        </li>
-                                            
-											                                                <li style="clear:both;">
-                            <a href="http://www.madridismo.org/category/champions-league/ ">Champions League</a>
-                        </li>
-                                            
-											                                                <li style="clear:both;">
-                            <a href="http://www.madridismo.org/category/transfers/ ">Transfers</a>
-                        </li>
-                                            
-											                                                <li style="clear:both;">
-                            <a href="http://www.madridismo.org/category/postgame/ ">Postgame</a>
-                        </li>
-                                            
-											                                                <li style="clear:both;">
-                            <a href="http://www.madridismo.org/category/copa-del-rey/ ">Copa del Rey</a>
-                        </li>
-                                            
-											                                                <li style="clear:both;">
-                            <a href="http://www.madridismo.org/category/injuries/ ">Injuries</a>
-                        </li>
-                                            
-											                                                <li style="clear:both;">
-                            <a href="http://www.madridismo.org/category/player-spotlight/ ">Player Spotlight</a>
-                        </li>
-                                            
-											                                                <li style="clear:both;">
-                            <a href="http://www.madridismo.org/category/realmadrid-foundation/ ">Realmadrid Foundation</a>
-                        </li>
-                                            
-											                                            
-					                    
-                    
-                </ul>
+                <ul>
+                							                                                    
+                                                	
+                            <li style="clear:both;">
+                                <a href="http://www.madridismo.org/category/news">News</a>
+                            </li>
+                        											                                                    
+                                                	
+                            <li style="clear:both;">
+                                <a href="http://www.madridismo.org/category/editorial">Editorial</a>
+                            </li>
+                        											                                                    
+                                                	
+                            <li style="clear:both;">
+                                <a href="http://www.madridismo.org/category/pregame">Pregame</a>
+                            </li>
+                        											                                                    
+                                                	
+                            <li style="clear:both;">
+                                <a href="http://www.madridismo.org/category/liga">Liga</a>
+                            </li>
+                        											                                                    
+                                                	
+                            <li style="clear:both;">
+                                <a href="http://www.madridismo.org/category/champions-league">Champions League</a>
+                            </li>
+                        											                                                    
+                                                	
+                            <li style="clear:both;">
+                                <a href="http://www.madridismo.org/category/transfers">Transfers</a>
+                            </li>
+                        											                                                    
+                                                	
+                            <li style="clear:both;">
+                                <a href="http://www.madridismo.org/category/postgame">Postgame</a>
+                            </li>
+                        											                                                    
+                                                	
+                            <li style="clear:both;">
+                                <a href="http://www.madridismo.org/category/copa-del-rey">Copa del Rey</a>
+                            </li>
+                        											                                                    
+                                                	
+                            <li style="clear:both;">
+                                <a href="http://www.madridismo.org/category/injuries">Injuries</a>
+                            </li>
+                        											                                                    
+                                                	
+                            <li style="clear:both;">
+                                <a href="http://www.madridismo.org/category/player-spotlight">Player Spotlight</a>
+                            </li>
+                        											                                                    
+                        											                                                    
+                                                	
+                            <li style="clear:both;">
+                                <a href="http://www.madridismo.org/category/players">Players</a>
+                            </li>
+                        											                                                    
+                        					                </ul>
                 
             </li>
-            
             
             <li>
-            
-            	<div id="forums" class="menubar" style="float:left;">
+            	<div id="articles" class="menubar" style="float:left;">
                     <div class="menubar_inner">
-                        <a href="http://www.madridismo.org/forum">forum</a>
+                        <a href="http://www.madridismo.org/category/real-madrid-castilla/ ">Castilla</a>
                     </div>
                 </div>
-                
             </li>
             
+            <li>
+            	<div id="articles" class="menubar" style="float:left;">
+                    <div class="menubar_inner">
+                        <a href="http://www.madridismo.org/category/realmadrid-foundation/ ">Foundation</a>
+                    </div>
+                </div>
+            </li>
+
             <li>
             
             	<div id="fans" class="menubar" style="float:left;">
                     <div class="menubar_inner">
                         fans                    </div>
                 </div>
-                <ul style="list-style:none; left:42.9%;">
+                <ul>
                 	<li style="clear:both;"><a href="http://www.madridismo.org/fans">See Fans </a></li>
                     <li style="clear:both;"><a href="http://www.madridismo.org/member/fanzone">Fanchat </a></li>
+                    <li style="clear:both;"><a href="http://www.madridismo.org/forum">forum </a></li>
                 </ul>
                 
             </li>
             
-                        <li>
-            
-            	<div id="fans" class="menubar" style="float:left;">
-                    <div class="menubar_inner">
-                        <a href="http://www.madridismo.org/category/players/ ">players</a>
-                    </div>
-                </div>
-                
-            </li>
-                        
-                            <li>            
-                    <div id="podcast" class="menubar" style="float:left;">
-                        <div class="menubar_inner">
-                            <a href="http://www.madridismo.org/podcast">podcast</a>
-                        </div>
-                    </div>                
-                </li>
-                        
             <li>
             
             	<div id="fans" class="menubar" style="float:left;">
                     <div class="menubar_inner">
-                        <a href="http://www.madridismo.org/photos">Photos</a>
-                    </div>
+                        media                    </div>
                 </div>
+                <ul>
+                	<li style="clear:both;"><a href="http://www.madridismo.org/photo-album">Photos</a></li>
+                    <li style="clear:both;"><a href="http://www.madridismo.org/video">Videos</a></li>
+                                        	<li style="clear:both;"><a href="http://www.madridismo.org/podcast">podcast</a></li>
+                                    </ul>
+            </li>
+            
+            <li>
+                <div id="fans" class="menubar" style="float:left;">
+                    <div class="menubar_inner">
+                        Games                    </div>
+                </div>
+                <ul>
+                    <li style="clear:both;"><a href="http://www.madridismo.org/porra">porra </a></li>
+                    <li style="clear:both;"><a href="http://www.madridismo.org/wallpaper">wallpaper </a></li>
+                    <li style="clear:both;"><a href="http://www.madridismo.org/quiz">quiz </a></li>
+                </ul>
                 
             </li>
-        
+            
+            <li>
+            	<div id="articles" class="menubar" style="float:left;">
+                    <div class="menubar_inner">
+                        <a href="http://www.madridismo.org/calendar">calendar</a>
+                    </div>
+                </div>
+            </li>
+         	
+              <li>
+            	<div id="articles" class="menubar" style="float:left;">
+                    <div class="menubar_inner">
+                        <a href="http://www.madridismo.org/sponsors">sponsor</a>
+                    </div>
+                </div>
+            </li>
+            
         </ul>
 
 <!--  		<div class="menubar" style="float:right;">
@@ -330,32 +445,41 @@
 
     <div style="clear:both;"></div>
     
+    
+    
     <div style="height:18px; border:solid 1px #ccbd91; margin-top:12px; margin-bottom:12px;">
     
     	        
     	<div class="date_top">
             <div class="date_top_child">
-	            22.04.2012            </div>
+	            02.06.2013            </div>
 		</div>
 		<div class="title_post_top">
 			<div class="title_post_top_child">
-				<a style="color:#333333" href="http://www.madridismo.org/article/winners-and-losers-champions-edition">
-				Winners and Losers: Champions Edition!</a>
+				<a style="color:#333333" href="http://www.madridismo.org/articles/postmatch-report-real-madrid-castilla-4-0-alcorcon-liga-adelante">
+				Postmatch Report: Real Madrid Castilla 4-0 Alcorcón (Liga…</a>
 			</div>
 		</div>
                 
     	<div class="date_top">
             <div class="date_top_child">
-	            02.05.2012            </div>
+	            03.06.2013            </div>
 		</div>
 		<div class="title_post_top">
 			<div class="title_post_top_child">
-				<a style="color:#333333" href="http://www.madridismo.org/article/post-match-athletic-bilbao-vs-real-madrid">
-				Post Match: Athletic Bilbao vs Real Madrid</a>
+				<a style="color:#333333" href="http://www.madridismo.org/articles/interviews-with-juanfran-jese-and-pacheco-this-is-goodbye">
+				Interviews with Juanfran, Jesé and Pacheco | This is Goodbye...</a>
 			</div>
 		</div>
         		
-    </div><!-- right side begins -->
+    </div>
+
+	    
+    
+    
+    <div style="clear:both;"></div><!-- right side begins -->
+
+
 <div id="right">
 
             <div class="blue_hr">
@@ -365,65 +489,89 @@
             
                 <div style="padding-bottom:9px;"></div>
                 
-                                <div style="float:left; margin-right:5px;">
-                	<a href="http://www.madridismo.org/member/Nashia"><img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/Nashia.jpg&amp;w=43&amp;h=43" style="border:solid 1px #f2f2f2;"></a>
+                                <div style="float:left; margin-right:0px;">
+                	<a href="http://www.madridismo.org/member/haykal49" class="image_fade" style="display:block;">
+                    		<img class="user " src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/haykal49.jpg&amp;w=43&amp;h=43">
+                    </a>
                     
-                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/pk.png"></div>
+                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/so.png"></div>
                 </div>
-                                <div style="float:left; margin-right:5px;">
-                	<a href="http://www.madridismo.org/member/esenilker"><img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/esenilker.jpg&amp;w=43&amp;h=43" style="border:solid 1px #f2f2f2;"></a>
-                    
-                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/tr.png"></div>
-                </div>
-                                <div style="float:left; margin-right:5px;">
-                	<a href="http://www.madridismo.org/member/krimkid"><img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/krimkid.jpg&amp;w=43&amp;h=43" style="border:solid 1px #f2f2f2;"></a>
-                    
-                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/ng.png"></div>
-                </div>
-                                <div style="float:left; margin-right:5px;">
-                	<a href="http://www.madridismo.org/member/gabocr7"><img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/gabocr7.jpg&amp;w=43&amp;h=43" style="border:solid 1px #f2f2f2;"></a>
-                    
-                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/ve.png"></div>
-                </div>
-                                <div style="float:left; margin-right:5px;">
-                	<a href="http://www.madridismo.org/member/shambhavisingh"><img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/shambhavisingh.png&amp;w=43&amp;h=43" style="border:solid 1px #f2f2f2;"></a>
-                    
-                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/in.png"></div>
-                </div>
-                                <div style="float:left; margin-right:5px;">
-                	<a href="http://www.madridismo.org/member/mherry35"><img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/mherry35.jpg&amp;w=43&amp;h=43" style="border:solid 1px #f2f2f2;"></a>
-                    
-                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/ph.png"></div>
-                </div>
-                                <div style="float:left; margin-right:5px;">
-                	<a href="http://www.madridismo.org/member/gabriieladiiaz"><img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/gabriieladiiaz.jpg&amp;w=43&amp;h=43" style="border:solid 1px #f2f2f2;"></a>
+                                <div style="float:left; margin-right:0px;">
+                	<a href="http://www.madridismo.org/member/LaMaquina" class="image_fade" style="display:block;">
+                    		<img class="user " src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/LaMaquina.jpg&amp;w=43&amp;h=43">
+                    </a>
                     
                     <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/us.png"></div>
                 </div>
-                                <div style="float:left; margin-right:5px;">
-                	<a href="http://www.madridismo.org/member/NjMadrid"><img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/NjMadrid.jpg&amp;w=43&amp;h=43" style="border:solid 1px #f2f2f2;"></a>
+                                <div style="float:left; margin-right:0px;">
+                	<a href="http://www.madridismo.org/member/nnarang" class="image_fade" style="display:block;">
+                    		<img class="user " src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/nnarang.gif&amp;w=43&amp;h=43">
+                    </a>
                     
-                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/za.png"></div>
+                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/in.png"></div>
                 </div>
-                                <div style="float:left; margin-right:5px;">
-                	<a href="http://www.madridismo.org/member/stephySR4"><img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/stephySR4.jpg&amp;w=43&amp;h=43" style="border:solid 1px #f2f2f2;"></a>
+                                <div style="float:left; margin-right:0px;">
+                	<a href="http://www.madridismo.org/member/juanito7" class="image_fade" style="display:block;">
+                    		<img class="user " src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/juanito7.jpg&amp;w=43&amp;h=43">
+                    </a>
                     
-                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/pr.png"></div>
+                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/es.png"></div>
                 </div>
-                                <div style="float:left; margin-right:5px;">
-                	<a href="http://www.madridismo.org/member/killsilver"><img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/killsilver.jpg&amp;w=43&amp;h=43" style="border:solid 1px #f2f2f2;"></a>
+                                <div style="float:left; margin-right:0px;">
+                	<a href="http://www.madridismo.org/member/nongyok007" class="image_fade" style="display:block;">
+                    		<img class="user " src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/nongyok007.png&amp;w=43&amp;h=43">
+                    </a>
                     
-                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/ve.png"></div>
+                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/th.png"></div>
                 </div>
-                                <div style="float:left; margin-right:5px;">
-                	<a href="http://www.madridismo.org/member/shrst"><img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/shrst.jpg&amp;w=43&amp;h=43" style="border:solid 1px #f2f2f2;"></a>
+                                <div style="float:left; margin-right:0px;">
+                	<a href="http://www.madridismo.org/member/aditvivaldi" class="image_fade" style="display:block;">
+                    		<img class="user " src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/aditvivaldi.jpeg&amp;w=43&amp;h=43">
+                    </a>
                     
                     <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/id.png"></div>
                 </div>
-                                <div style="float:left; margin-right:5px;">
-                	<a href="http://www.madridismo.org/member/Gitana"><img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/Gitana.jpg&amp;w=43&amp;h=43" style="border:solid 1px #f2f2f2;"></a>
+                                <div style="float:left; margin-right:0px;">
+                	<a href="http://www.madridismo.org/member/LucasLastra" class="image_fade" style="display:block;">
+                    		<img class="user " src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/LucasLastra.jpg&amp;w=43&amp;h=43">
+                    </a>
                     
-                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/my.png"></div>
+                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/es.png"></div>
+                </div>
+                                <div style="float:left; margin-right:0px;">
+                	<a href="http://www.madridismo.org/member/Madridista89" class="image_fade" style="display:block;">
+                    		<img class="user " src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/Madridista89.png&amp;w=43&amp;h=43">
+                    </a>
+                    
+                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/pl.png"></div>
+                </div>
+                                <div style="float:left; margin-right:0px;">
+                	<a href="http://www.madridismo.org/member/rea26" class="image_fade" style="display:block;">
+                    		<img class="user " src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/rea26.jpg&amp;w=43&amp;h=43">
+                    </a>
+                    
+                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/gr.png"></div>
+                </div>
+                                <div style="float:left; margin-right:0px;">
+                	<a href="http://www.madridismo.org/member/zuriie" class="image_fade" style="display:block;">
+                    		<img class="user " src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/zuriie.jpg&amp;w=43&amp;h=43">
+                    </a>
+                    
+                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/id.png"></div>
+                </div>
+                                <div style="float:left; margin-right:0px;">
+                	<a href="http://www.madridismo.org/member/gunduzxs" class="image_fade" style="display:block;">
+                    		<img class="user " src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/gunduzxs.jpg&amp;w=43&amp;h=43">
+                    </a>
+                    
+                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/az.png"></div>
+                </div>
+                                <div style="float:left; margin-right:0px;">
+                	<a href="http://www.madridismo.org/member/ajv1971" class="image_fade" style="display:block;">
+                    		<img class="user " src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/man_no_photo.gif&amp;w=43&amp;h=43">
+                    </a>
+                    
+                    <div style="padding-top:0px; padding-bottom:4px;"><img src="http://www.madridismo.org/assets/images/flags/pa.png"></div>
                 </div>
                                                    
                 <div style="clear:both; padding-bottom:9px;"></div>
@@ -441,90 +589,10 @@
                 FANZONE                
             </div>
             
-            <div class="right_box">
+            <div class="right_box" id="latest-wall-comment-place">
             
                 <div style="padding-bottom:9px;"></div>
                 
-                                <div style="border-bottom:solid 1px #E8E8E8; padding-bottom:10px;margin-bottom:10px;">
-                
-                	<a href="http://www.madridismo.org/member/itachi">
-                	
-                    	<img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/Itachi.jpg&amp;w=43&amp;h=43" style="float:left; margin-right:5px;">
-                    
-                    </a>
-                    <h5 style="float:left; font-size:10px;color:#777777;">
-                    
-                    by                    
-                    <a href="http://www.madridismo.org/member/itachi">
-                    
-						Itachi                    </a>
-
-                    May 3, 2012, 4:06 pm                    </h5>
-                    <div style="float:right; width:250px; color:#777777; margin-top:5px; font-size:11px;">
-                    	HALA MADRID!!!!!!!!!!! CAMPEONEEEEEEEEEEEEEEES, CAMPEONESSSSSSSSSSSS, OEEEEEEEE OEEEEEEEE OEEEEEEEEEEEEEEEEE                    </div>
-                    <div style="clear:both;"></div>
-                	
-                </div>
-                                <div style="border-bottom:solid 1px #E8E8E8; padding-bottom:10px;margin-bottom:10px;">
-                
-                	<a href="http://www.madridismo.org/member/javi">
-                	
-                    	<img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/ElChaval.jpg&amp;w=43&amp;h=43" style="float:left; margin-right:5px;">
-                    
-                    </a>
-                    <h5 style="float:left; font-size:10px;color:#777777;">
-                    
-                    by                    
-                    <a href="http://www.madridismo.org/member/javi">
-                    
-						Javier                    </a>
-
-                    May 3, 2012, 2:30 pm                    </h5>
-                    <div style="float:right; width:250px; color:#777777; margin-top:5px; font-size:11px;">
-                    	Lots of celebrating but yesterday was the best.                    </div>
-                    <div style="clear:both;"></div>
-                	
-                </div>
-                                <div style="border-bottom:solid 1px #E8E8E8; padding-bottom:10px;margin-bottom:10px;">
-                
-                	<a href="http://www.madridismo.org/member/javi">
-                	
-                    	<img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/ElChaval.jpg&amp;w=43&amp;h=43" style="float:left; margin-right:5px;">
-                    
-                    </a>
-                    <h5 style="float:left; font-size:10px;color:#777777;">
-                    
-                    by                    
-                    <a href="http://www.madridismo.org/member/javi">
-                    
-						Javier                    </a>
-
-                    May 1, 2012, 4:54 am                    </h5>
-                    <div style="float:right; width:250px; color:#777777; margin-top:5px; font-size:11px;">
-                    	Tenemos rueda de prensa hoy a las 5, para el partido contra Atleti Bilbao. No hay acceso al entrenamiento.                    </div>
-                    <div style="clear:both;"></div>
-                	
-                </div>
-                                <div style="border-bottom:solid 1px #E8E8E8; padding-bottom:10px;margin-bottom:10px;">
-                
-                	<a href="http://www.madridismo.org/member/javi">
-                	
-                    	<img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/ElChaval.jpg&amp;w=43&amp;h=43" style="float:left; margin-right:5px;">
-                    
-                    </a>
-                    <h5 style="float:left; font-size:10px;color:#777777;">
-                    
-                    by                    
-                    <a href="http://www.madridismo.org/member/javi">
-                    
-						Javier                    </a>
-
-                    May 1, 2012, 4:54 am                    </h5>
-                    <div style="float:right; width:250px; color:#777777; margin-top:5px; font-size:11px;">
-                    	We have a press conference today at 5 ahead of tomorrow's match against Bilbao. No training access.                    </div>
-                    <div style="clear:both;"></div>
-                	
-                </div>
                                 <div style="border-bottom:solid 1px #E8E8E8; padding-bottom:10px;margin-bottom:10px;">
                 
                 	<a href="http://www.madridismo.org/member/gaelle">
@@ -532,21 +600,92 @@
                     	<img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/gaelle.jpg&amp;w=43&amp;h=43" style="float:left; margin-right:5px;">
                     
                     </a>
-                    <h5 style="float:left; font-size:10px;color:#777777;">
+                    <h5 style="float:left; font-size:10px;color:#777777; width:250px;">
                     
                     by                    
                     <a href="http://www.madridismo.org/member/gaelle">
                     
 						Gaëlle                    </a>
-
-                    Apr 30, 2012, 12:19 pm                    </h5>
+                    <a href="http://www.madridismo.org/member/kareem" style="color:#B6A163">@kareem</a>
+                    Jun 9, 2013, 11:11 pm                    </h5>
                     <div style="float:right; width:250px; color:#777777; margin-top:5px; font-size:11px;">
-                    	Mañana estaremos en la rueda de prensa en Valdebebas... Y pasado... ¿celebración en Cibeles?                    </div>
+                    	
+						Oh yeah!!!                     </div>
                     <div style="clear:both;"></div>
+                    
+                	
+                </div>
+                                <div style="border-bottom:solid 1px #E8E8E8; padding-bottom:10px;margin-bottom:10px;">
+                
+                	<a href="http://www.madridismo.org/member/kareem">
+                	
+                    	<img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/kareem.jpg&amp;w=43&amp;h=43" style="float:left; margin-right:5px;">
+                    
+                    </a>
+                    <h5 style="float:left; font-size:10px;color:#777777; width:250px;">
+                    
+                    by                    
+                    <a href="http://www.madridismo.org/member/kareem">
+                    
+						kareem                    </a>
+                    
+                    Jun 9, 2013, 5:58 pm                    </h5>
+                    <div style="float:right; width:250px; color:#777777; margin-top:5px; font-size:11px;">
+                    	
+						Final del partido: Real Madrid 76 - FC Barcelona Regal 72                      </div>
+                    <div style="clear:both;"></div>
+                    
+                	
+                </div>
+                                <div style="border-bottom:solid 1px #E8E8E8; padding-bottom:10px;margin-bottom:10px;">
+                
+                	<a href="http://www.madridismo.org/member/kareem">
+                	
+                    	<img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/kareem.jpg&amp;w=43&amp;h=43" style="float:left; margin-right:5px;">
+                    
+                    </a>
+                    <h5 style="float:left; font-size:10px;color:#777777; width:250px;">
+                    
+                    by                    
+                    <a href="http://www.madridismo.org/member/kareem">
+                    
+						kareem                    </a>
+                    
+                    Jun 9, 2013, 5:57 pm                    </h5>
+                    <div style="float:right; width:250px; color:#777777; margin-top:5px; font-size:11px;">
+                    	
+						Vamossssssssssssssss sssssss 2 more to go Hala Madrid                     </div>
+                    <div style="clear:both;"></div>
+                    
+                	
+                </div>
+                                <div style="border-bottom:solid 1px #E8E8E8; padding-bottom:10px;margin-bottom:10px;">
+                
+                	<a href="http://www.madridismo.org/member/kareem">
+                	
+                    	<img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/kareem.jpg&amp;w=43&amp;h=43" style="float:left; margin-right:5px;">
+                    
+                    </a>
+                    <h5 style="float:left; font-size:10px;color:#777777; width:250px;">
+                    
+                    by                    
+                    <a href="http://www.madridismo.org/member/kareem">
+                    
+						kareem                    </a>
+                    
+                    Jun 9, 2013, 5:56 pm                    </h5>
+                    <div style="float:right; width:250px; color:#777777; margin-top:5px; font-size:11px;">
+                    	
+						he's good at taking yellow card lol                     </div>
+                    <div style="clear:both;"></div>
+                    
                 	
                 </div>
                                                    
                 <div style="clear:both; padding-bottom:9px;"></div>
+                
+                <div id="paging_wall_comment">
+					<div class="pager"><span class="nav"><a class="first" title="First"><span>First</span></a><a class="previous" title="Prev"><span>Prev</span></a></span><span class="pages"> <a title="1" class="active"><span>1</span></a> <a href="/2" title="2"><span>2</span></a> <a href="/3" title="3"><span>3</span></a> <a href="/4" title="4"><span>4</span></a></span><span class="nav"><a class="next" title="Next" href="/2"><span>Next</span></a><a class="last" title="Last" href="/854"><span>Last</span></a></span><div style="clear:both"></div></div>                 </div>
                 
             </div>
             
@@ -561,7 +700,178 @@
                 
             </div>	
                 <!-- END WALL  -->
-    <!-- RATE PLAYERS -->
+    
+        <!-- LAST COMMENTS -->
+    		<div class="blue_hr"> 
+            
+                LATEST COMMENTS                
+   			</div>
+            <div class="right_box" id="latest-comment-place" style="border-bottom:1px solid #CCC; margin-bottom:13px;">
+            	 	<div style="padding-bottom:9px;"></div>
+					                                                                
+                     
+                     <div style="border-bottom:solid 1px #E8E8E8; padding-bottom:10px;margin-bottom:10px;">
+                     
+                        <a href="http://www.madridismo.org/member/kareem">
+                        
+                            <img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/kareem.jpg&amp;w=43&amp;h=43" style="float:left; margin-right:5px;">
+                        
+                        </a>
+                        
+                        
+                        <h5 style="float:left; font-size:10px;color:#777777; width:250px;">
+                        
+                            by                            
+                            <a href="http://www.madridismo.org/member/kareem">
+                            
+                                kareem                            </a>
+                            
+                            Jun 08, 2013 at 23:24 pm &nbsp; 
+                            
+                        </h5>
+                        
+                        <div style="float:right; width:250px; color:#777777; margin-top:5px; font-size:11px;">
+                        
+                            ???? ??????? ????? ??? ???? ???? ????? ?? ??? ???? ???? ??? ?10 ???? ??? ??? ? ???? i am... &nbsp;<a href="http://www.madridismo.org/articles/kareems-plan-a-for-the-new-madrid/#3578"><strong style="font-size:15px;">→</strong></a>                            
+                        </div>
+                        
+                        <div style="clear:both;"></div>
+                     
+                     </div>
+                     
+                                                                                    
+                     
+                     <div style="border-bottom:solid 1px #E8E8E8; padding-bottom:10px;margin-bottom:10px;">
+                     
+                        <a href="http://www.madridismo.org/member/afa21">
+                        
+                            <img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/man_no_photo.gif&amp;w=43&amp;h=43" style="float:left; margin-right:5px;">
+                        
+                        </a>
+                        
+                        
+                        <h5 style="float:left; font-size:10px;color:#777777; width:250px;">
+                        
+                            by                            
+                            <a href="http://www.madridismo.org/member/afa21">
+                            
+                                Abz                            </a>
+                            
+                            Jun 08, 2013 at 21:51 pm &nbsp; 
+                            
+                        </h5>
+                        
+                        <div style="float:right; width:250px; color:#777777; margin-top:5px; font-size:11px;">
+                        
+                            I Love this plan new and young players!... &nbsp;<a href="http://www.madridismo.org/articles/kareems-plan-a-for-the-new-madrid/#3577"><strong style="font-size:15px;">→</strong></a>                            
+                        </div>
+                        
+                        <div style="clear:both;"></div>
+                     
+                     </div>
+                     
+                                                                                    
+                     
+                     <div style="border-bottom:solid 1px #E8E8E8; padding-bottom:10px;margin-bottom:10px;">
+                     
+                        <a href="http://www.madridismo.org/member/javi">
+                        
+                            <img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/Javi.jpg&amp;w=43&amp;h=43" style="float:left; margin-right:5px;">
+                        
+                        </a>
+                        
+                        
+                        <h5 style="float:left; font-size:10px;color:#777777; width:250px;">
+                        
+                            by                            
+                            <a href="http://www.madridismo.org/member/javi">
+                            
+                                Javi                            </a>
+                            
+                            Jun 07, 2013 at 02:30 am &nbsp; 
+                            
+                        </h5>
+                        
+                        <div style="float:right; width:250px; color:#777777; margin-top:5px; font-size:11px;">
+                        
+                            Muy buen artículo Beatriz. Ahora tenemos dinero pero nos faltan títulos. A pesar de sus errores del pasado me gusta... &nbsp;<a href="http://www.madridismo.org/es/articulos/florentino-perez-pasado-presente-y-futuro/#643"><strong style="font-size:15px;">→</strong></a>                            
+                        </div>
+                        
+                        <div style="clear:both;"></div>
+                     
+                     </div>
+                     
+                                                                                    
+                     
+                     <div style="border-bottom:solid 1px #E8E8E8; padding-bottom:10px;margin-bottom:10px;">
+                     
+                        <a href="http://www.madridismo.org/member/gaelle">
+                        
+                            <img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/gaelle.jpg&amp;w=43&amp;h=43" style="float:left; margin-right:5px;">
+                        
+                        </a>
+                        
+                        
+                        <h5 style="float:left; font-size:10px;color:#777777; width:250px;">
+                        
+                            by                            
+                            <a href="http://www.madridismo.org/member/gaelle">
+                            
+                                Gaëlle                            </a>
+                            
+                            Jun 06, 2013 at 13:03 pm &nbsp; 
+                            
+                        </h5>
+                        
+                        <div style="float:right; width:250px; color:#777777; margin-top:5px; font-size:11px;">
+                        
+                            Vaya despedida para un jugador tan madridista... Por lo menos con el brazalete de capitán y firmando un gran gol,... &nbsp;<a href="http://www.madridismo.org/es/articulos/dont-cry-for-me-pipita-adios-a-gonzalo-higuain-tras-siete-anos-de-blanco/#642"><strong style="font-size:15px;">→</strong></a>                            
+                        </div>
+                        
+                        <div style="clear:both;"></div>
+                     
+                     </div>
+                     
+                                                                                    
+                     
+                     <div style="border-bottom:solid 1px #E8E8E8; padding-bottom:10px;margin-bottom:10px;">
+                     
+                        <a href="http://www.madridismo.org/member/gaelle">
+                        
+                            <img src="http://www.madridismo.org/includes/image_crop_thumb.php?src=http://www.madridismo.org/assets/images/users/gaelle.jpg&amp;w=43&amp;h=43" style="float:left; margin-right:5px;">
+                        
+                        </a>
+                        
+                        
+                        <h5 style="float:left; font-size:10px;color:#777777; width:250px;">
+                        
+                            by                            
+                            <a href="http://www.madridismo.org/member/gaelle">
+                            
+                                Gaëlle                            </a>
+                            
+                            Jun 06, 2013 at 12:51 pm &nbsp; 
+                            
+                        </h5>
+                        
+                        <div style="float:right; width:250px; color:#777777; margin-top:5px; font-size:11px;">
+                        
+                            Qué bien dicho todo, Bea. Después del follón que tuvimos aquí en la etapa de Mourinho, que es un entrenador... &nbsp;<a href="http://www.madridismo.org/es/articulos/florentino-perez-pasado-presente-y-futuro/#641"><strong style="font-size:15px;">→</strong></a>                            
+                        </div>
+                        
+                        <div style="clear:both;"></div>
+                     
+                     </div>
+                     
+                                      
+                 
+                 
+                 <div id="paging_comment">
+					<div class="pager"><span class="nav"><a class="first" title="First"><span>First</span></a><a class="previous" title="Prev"><span>Prev</span></a></span><span class="pages"> <a title="1" class="active"><span>1</span></a> <a href="/2" title="2"><span>2</span></a> <a href="/3" title="3"><span>3</span></a> <a href="/4" title="4"><span>4</span></a></span><span class="nav"><a class="next" title="Next" href="/2"><span>Next</span></a><a class="last" title="Last" href="/434"><span>Last</span></a></span><div style="clear:both"></div></div>                 </div>
+            
+            </div>
+    <!-- END LAST COMMENTS -->
+        <!-- RATE PLAYERS -->
             <div class="blue_hr"> 
             
                 PLAYER PERFORMANCE                
@@ -576,89 +886,89 @@
                 
                 <div class="performance_team" style="float:left; text-align:right; margin-right:10px">
                 
-                    Bilbao                    
+                    Real Madrid                    
                 </div>
                 
                 <div class="small_number" style="float:left; margin-right:4px;">
                 
-                    0                    
+                    4                    
                 </div>
                 
                 <div class="small_number" style="float:left; margin-right:10px;">
                 
-                    3                    
+                    2                    
                 </div>
                 
                 <div class="performance_team" style="float:right; text-align:left;">
                 
-                    Real Madrid                    
+                    Osasuna                    
                 </div>
                 
                
                 <div style="clear:both; padding-bottom:9px;"></div>
                 
                                                                         
-                    <div style="float:left; margin-left:5px;">
+                    <div style="float:left; margin-left:4px;">
                     
-                        <a href="http://www.madridismo.org/rate_players/58"><img src="http://www.madridismo.org/assets/images/players/thumbs/casillas.jpg"></a>
+                        <a href="http://www.madridismo.org/rate_players/124"><img src="http://www.madridismo.org/assets/images/players/thumbs/jesus.jpg"></a>
                         
                         <div class="performance_score" style="margin-bottom:5px;">
-                        	9.6                            
+                        	8.5                            
                         </div>
                         
                     </div>	
                     	
                                         
-                    <div style="float:left; margin-left:5px;">
+                    <div style="float:left; margin-left:4px;">
                     
-                        <a href="http://www.madridismo.org/rate_players/58"><img src="http://www.madridismo.org/assets/images/players/thumbs/xabi.jpg"></a>
+                        <a href="http://www.madridismo.org/rate_players/124"><img src="http://www.madridismo.org/assets/images/players/thumbs/ozil.jpg"></a>
                         
                         <div class="performance_score" style="margin-bottom:5px;">
-                        	9.3                            
+                        	8.1                            
                         </div>
                         
                     </div>	
                     	
                                         
-                    <div style="float:left; margin-left:5px;">
+                    <div style="float:left; margin-left:4px;">
                     
-                        <a href="http://www.madridismo.org/rate_players/58"><img src="http://www.madridismo.org/assets/images/players/thumbs/ramos.jpg"></a>
+                        <a href="http://www.madridismo.org/rate_players/124"><img src="http://www.madridismo.org/assets/images/players/thumbs/essien.jpg"></a>
                         
                         <div class="performance_score" style="margin-bottom:5px;">
-                        	9.2                            
+                        	7.7                            
                         </div>
                         
                     </div>	
                     	
                                         
-                    <div style="float:left; margin-left:5px;">
+                    <div style="float:left; margin-left:4px;">
                     
-                        <a href="http://www.madridismo.org/rate_players/58"><img src="http://www.madridismo.org/assets/images/players/thumbs/higuain.jpg"></a>
+                        <a href="http://www.madridismo.org/rate_players/124"><img src="http://www.madridismo.org/assets/images/players/thumbs/modric.jpg"></a>
                         
                         <div class="performance_score" style="margin-bottom:5px;">
-                        	9.2                            
+                        	7.5                            
                         </div>
                         
                     </div>	
                     	
                                         
-                    <div style="float:left; margin-left:5px;">
+                    <div style="float:left; margin-left:4px;">
                     
-                        <a href="http://www.madridismo.org/rate_players/58"><img src="http://www.madridismo.org/assets/images/players/thumbs/cristiano.jpg"></a>
+                        <a href="http://www.madridismo.org/rate_players/124"><img src="http://www.madridismo.org/assets/images/players/thumbs/benzema.jpg"></a>
                         
                         <div class="performance_score" style="margin-bottom:5px;">
-                        	9                            
+                        	7.4                            
                         </div>
                         
                     </div>	
                     	
                                         
-                    <div style="float:left; margin-left:5px;">
+                    <div style="float:left; margin-left:4px;">
                     
-                        <a href="http://www.madridismo.org/rate_players/58"><img src="http://www.madridismo.org/assets/images/players/thumbs/ozil.jpg"></a>
+                        <a href="http://www.madridismo.org/rate_players/124"><img src="http://www.madridismo.org/assets/images/players/thumbs/callejon.jpg"></a>
                         
                         <div class="performance_score" style="margin-bottom:5px;">
-                        	9                            
+                        	7.3                            
                         </div>
                         
                     </div>	
@@ -677,7 +987,7 @@
                 
                     <div class="link_decoration_none">
                     
-                        <a href="http://www.madridismo.org/rate_players/58" style="text-decoration:none; color:color:#000;">Rate Player Performance <img src="http://www.madridismo.org/assets/images/blue_arrow.gif" style="vertical-align:middle;"></a>
+                        <a href="http://www.madridismo.org/rate_players/124" style="text-decoration:none; color:color:#000;">Rate Player Performance <img src="http://www.madridismo.org/assets/images/blue_arrow.gif" style="vertical-align:middle;"></a>
                         
                     </div>
                     
@@ -688,6 +998,14 @@
 				
             
             <!-- END RATE PLAYERS -->
+            
+            
+            
+            <!-- CALENDAR -->
+            
+                        
+            <!-- END CALENDAR -->
+            
             <div class="blue_hr">
             
                 GET OUR FEED                
@@ -697,9 +1015,9 @@
             
                 <div style="clear:both; padding-bottom:8px;"></div>
                 
-                <form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=madridismo', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+                                <form action="http://feedburner.google.com/fb/a/mailverify" method="get" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
                 
-                    <input style="width:256px; height:34px; color:#4c6dad; background-color:#dde3ee; border-top:solid 1px #c7d0e3; border-bottom:none; border-left:none; border-right:none; font-size:14px; padding-left:10px;" value="Insert your email here" onfocus="value=''">
+                    <input style="width:256px; height:34px; color:#4c6dad; background-color:#dde3ee; border-top:solid 1px #c7d0e3; border-bottom:none; border-left:none; border-right:none; font-size:14px; padding-left:10px;" name="email" id="email_subscribe">
                     
                     <input type="hidden" value="madridismo" name="uri">
 					<input type="hidden" name="loc" value="en_EN">
@@ -720,15 +1038,15 @@
     	        
         <div style="padding-bottom:9px;"></div>
         
-        <form name="poll_form" id="poll_form" action="http://www.madridismo.org/poll" method="POST">
+        <form name="poll_form" id="poll_form" action="http://www.madridismo.org/poll/46" method="POST">
         
-        	<input type="hidden" name="h_id_poll" value="20">
+        	<input type="hidden" name="h_id_poll" value="46">
             
             <div style="float:left; width:70px;" align="center"> <img src="http://www.madridismo.org/assets/images/q.png"></div>
             
             <div style="float:right; width:230px; text-align:left; font-weight:bold; font-size:16px; margin-top:5px;">
             
-				Will we make the all time record of 100 points in Liga?                
+				Why did we not make the Champions League final?                
             </div>
             
             <div style="clear:both;"></div>
@@ -758,7 +1076,7 @@
                                 
                                 <div style="float:right; width:210px;">
                                 
-									Yes                                
+									4-1 loss in the first match                                
                                 </div>
                                 
                             </div>
@@ -781,7 +1099,7 @@
                                 
                                 <div style="float:right; width:210px;">
                                 
-									No                                
+									Cristiano wasn't 100%                                
                                 </div>
                                 
                             </div>
@@ -804,7 +1122,7 @@
                                 
                                 <div style="float:right; width:210px;">
                                 
-									Who cares!                                
+									Bad luck                                
                                 </div>
                                 
                             </div>
@@ -827,7 +1145,7 @@
                                 
                                 <div style="float:right; width:210px;">
                                 
-									I don't understand the question.                                
+									Lack of finishing                                
                                 </div>
                                 
                             </div>
@@ -837,6 +1155,26 @@
                                         
                                 
 					                    
+                                        
+                    	
+                    
+                            <div style="margin-top:5px;">
+                            
+                                <div style="float:left; width:20px;">
+                                
+                                    <input name="option_poll_sidebar" id="option_poll_sidebar" type="radio" value="5">
+                                    
+                                </div>
+                                
+                                <div style="float:right; width:210px;">
+                                
+									It wasn't in the stars                                
+                                </div>
+                                
+                            </div>
+                            
+                            <div style="clear:both; padding-bottom:10px;"></div>
+                            
                                         
                                 
 					                    
@@ -877,11 +1215,10 @@
     </div>
           
     <div>
-    	
        <div class="fb-like-box" data-href="http://www.facebook.com/pages/MadridismoOrg-Real-Madrid/205734766154277" data-width="320" data-show-faces="true" data-border-color="#d9d9d9" data-stream="false" data-header="false"></div>
-        
     </div>
-    
+
+<!--   
     <div>&nbsp;</div>
     
     <div class="blue_hr">
@@ -891,23 +1228,159 @@
     <div>
     	
         <object width="320" height="247">
-            <param name="movie" value="http://www.youtube.com/v/kjcmWgMspgE?version=3&amp;hl=en_US&amp;rel=0">
-            <param name="allowFullScreen" value="true">
-            <param name="allowscriptaccess" value="always">
-            <embed src="http://www.youtube.com/v/kjcmWgMspgE?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="320" height="247" allowscriptaccess="always" allowfullscreen="true">
+            <param name="movie" value="http://www.youtube.com/v/jFBO8wAsek0?version=3&amp;hl=en_US&amp;rel=0"></param>
+            <param name="allowFullScreen" value="true"></param>
+            <param name="allowscriptaccess" value="always"></param>
+            <embed src="http://www.youtube.com/v/jFBO8wAsek0?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="320" height="247" allowscriptaccess="always" allowfullscreen="true"></embed>
         </object>
         
     </div>
 
     <div class="blue_box">
         <div class="small_blue_text" style="padding-top:5px; padding-bottom:5px;" align="center">
-            Liga Champions celebration !            
+            Real Madrid Training Ahead of M&aacute;laga Liga Match | May, 07 2013            
         </div>
     </div>
-	</div>
+	-->
+    
+</div>
 
 <!-- right side ends -->
-
+<script>
+		imgFade=function(){
+		$('.image_fade').hover(function(){
+			$(this).filter(':not(:animated)').animate({opacity: 0.8}, 500);
+		}, function () {
+			$(this).animate({opacity: 1}, 500);
+		});
+		};
+		imgFade();
+		$(document).ready(function(){
+			$("#email_subscribe").watermark('Insert your email here');
+			$("#paging_comment span.pages a, #paging_wall_comment span.pages a").removeAttr("href");
+			$("#paging_comment span.nav a, #paging_wall_comment span.nav a").removeAttr("href");
+			
+			<!-- WALL COMMENT -->
+				$("#paging_wall_comment span.pages a").live("click",function(){
+				
+					var words 	= $("#words").val();
+					var type 	= $(this).attr("class");
+					var page 	= $(this).attr("title");
+					var current = 	$("#paging_wall_comment span.pages a.active").attr("title");
+					$.ajax({
+						type	: "POST",
+						data 	:
+						  {
+								"page"		: page,
+								"current"	: current,
+								"type"		: type,
+						  },
+						url		: "http://www.madridismo.org/ajax/more_wall_comment",
+						beforeSend: function(){
+							$("#latest-wall-comment-place").html('<div style="text-align:center; padding:200px 0;"><img src="http://www.madridismo.org/assets/images/loader.gif"/></div>');
+						},
+						success	: function( msg ) {
+							$("#latest-wall-comment-place").html(msg);
+						}
+					});	
+				});
+				
+				$("#paging_wall_comment span.nav a").live("click",function(){
+				
+				
+					var words = $("#words").val();
+					var type = ($(this).attr("id")=="image_ck")?"image_ck":"";
+					var page = $(this).attr("class");
+					var curr = $(".image_gallery").attr("this-page");
+					var current = 	$("#paging_wall_comment span.pages a.active").attr("title");
+					
+					
+					$.ajax({
+						type	: "POST",
+						data 	:
+						  {
+								"page"		: page,
+								"current"	: current,
+								"type"		: type,
+						  },
+						url		: "http://www.madridismo.org/ajax/more_wall_comment",
+						beforeSend: function(){
+							$("#latest-wall-comment-place").html('<div style="text-align:center; padding:200px 0;"><img src="http://www.madridismo.org/assets/images/loader.gif"/></div>');
+						},
+						success	: function( msg ) {
+							$("#latest-wall-comment-place").html(msg);
+						}
+					});		
+				});
+			<!-- / WALL COMMENT -->
+			
+			$("#paging_comment span.pages a").live("click",function(){
+				
+				var words 	= $("#words").val();
+				var type 	= $(this).attr("class");
+				var page 	= $(this).attr("title");
+				var current = 	$("#paging_comment span.pages a.active").attr("title");
+				$.ajax({
+					type	: "POST",
+					data 	:
+					  {
+							"page"		: page,
+							"current"	: current,
+							"type"		: type,
+					  },
+					url		: "http://www.madridismo.org/ajax/more_latest_comment",
+					beforeSend: function(){
+						$("#latest-comment-place").html('<div style="text-align:center; padding:200px 0;"><img src="http://www.madridismo.org/assets/images/loader.gif"/></div>');
+					},
+					success	: function( msg ) {
+						$("#latest-comment-place").html(msg);
+					}
+				});	
+			});
+			
+			$("#paging_comment span.nav a").live("click",function(){
+				
+				
+				var words = $("#words").val();
+				var type = ($(this).attr("id")=="image_ck")?"image_ck":"";
+				var page = $(this).attr("class");
+				var curr = $(".image_gallery").attr("this-page");
+				var current = 	$("#paging_comment span.pages a.active").attr("title");
+				
+				
+				$.ajax({
+					type	: "POST",
+					data 	:
+					  {
+							"page"		: page,
+							"current"	: current,
+							"type"		: type,
+					  },
+					url		: "http://www.madridismo.org/ajax/more_latest_comment",
+					beforeSend: function(){
+						$("#latest-comment-place").html('<div style="text-align:center; padding:200px 0;"><img src="http://www.madridismo.org/assets/images/loader.gif"/></div>');
+					},
+					success	: function( msg ) {
+						$("#latest-comment-place").html(msg);
+					}
+				});		
+			});
+			
+		});
+</script>
+<style>
+.pager{
+	padding:0 0 10px 0;
+	margin-left:-10px;
+}
+.pages a.active{
+	background:none !important;
+	background-color:#1E428E !important;
+}
+.pager a {
+	cursor:pointer;
+}
+</style>
 <!-- left side begins -->
 <div id="left"><div class="left_box_top">
 	<div class="featured_author"></div>
@@ -930,7 +1403,7 @@
     </div>
 </div>
 <div class="left_box">
-	<div class="featured_intro" style="padding-top:6px; ">
+	<div class="featured_intro" id="article_content" style="padding-top:6px; ">
 <p>
 We may use outside companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by the outside companies, and we do not have access to this information. 
 </p><p>
@@ -983,16 +1456,7 @@ This site makes message boards available to its users. Please remember that any 
 		        		    	        <a href="http://www.madridismo.org/es/">Spanish</a>
 		                    </div>-->
             
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-6145271677333166";
-/* madridismo_tracker */
-google_ad_slot = "3596217605";
-google_ad_width = 125;
-google_ad_height = 125;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
+
             
             
         </div>
@@ -1039,7 +1503,8 @@ google_ad_height = 125;
 </div><!-- end #bottom -->
 
 <div id="footer">
-    © 2011 Madridismo.Org, This site was created by Real Madrid Fans for Real Madrid Fans. It has no association with Real Madrid Club de Fútbol.</div>
+    © 2011 Madridismo.Org, This site was created by Real Madrid Fans for Real Madrid Fans. It has no association with Real Madrid Club de Fútbol. pair
+</div>
 
 
 <!-- Facebook Connect -->
@@ -1051,6 +1516,34 @@ google_ad_height = 125;
     		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
     fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+    <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+    
+    <script language="javascript">
+    $(function() {
+        if( getCookie( "facebook_popup" ) != "1" ) {
+            $( "#dialog" ).dialog({
+                autoOpen: true,
+                width: 440,
+                height: 440,
+				modal: true	
+            });
+        
+            setCookie( "facebook_popup", 1, 3650 ); // set cookie for 10 years
+        }
+    });
+    </script>
+    
+    <div id="dialog" title="Join us on Facebook!">
+        Click on <img src="http://www.madridismo.org/assets/images/thumb.jpg" style="margin-bottom:-8px;"> to follow us on Facebook and get our exclusive Real Madrid reports straight from the Bernabeu and Real Madrid training ground!    
+        <br><br>
+        <div class="fb-like-box" data-href="http://www.facebook.com/madridismo.org" data-width="410" data-height="260" data-show-faces="true" data-stream="false" data-header="false"></div>
+
+    </div>
+
 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
@@ -1075,6 +1568,10 @@ google_ad_height = 125;
   })();
 
 </script>
+
+
+  
+
 
 
 
