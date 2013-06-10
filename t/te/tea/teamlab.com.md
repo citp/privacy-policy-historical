@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the teamlab.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006093327id_/http%3A//www.teamlab.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamlab.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611014701id_/http%3A//www.teamlab.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy - TeamLab
-
-Since your privacy is important to us, Ascensio System SIA has created this statement in order to let you know our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for the Ascensio System SIA website [http://www.teamlab.com](http://www.teamlab.com/). By using our website you explicitly consent to such use of your information and agree to the terms of this Privacy Policy.
+# Privacy - TeamLab Office
 
 ##  Information Collection 
 
