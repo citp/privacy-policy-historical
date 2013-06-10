@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelaw.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223092113id_/http%3A//www.thelaw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelaw.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610052121id_/http%3A//www.thelaw.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TheLaw.com
+# TheLaw.comPrivacy Policy | TheLaw.com
 
 ## Privacy Policy v. 1.4
 
@@ -33,7 +33,7 @@ We provide you with the ability to manage the information in your user account t
   * [Profile Settings](http://www.thelaw.com/login/profile.php "Profile Settings") – Email, User Name, Password
   * [Forum Notifications Settings](http://www.thelaw.com/forums/profile.php?do=editoptions "Forum Profile Settings") – Message Notifications and Thread Subscriptions, Signature
   * [Forum Profile Settings](http://www.thelaw.com/forums/profile.php?do=editprofile "Forum Profile Settings") – Manage email, messenger, contact settings
-  * [Lawyers Directory Settings](http://www.thelaw.com/lawyers/members/user_account.php "Lawyer Account Settings") – If you have a lawyer ad/profile, manage account settings and notifications
+  * [Lawyers Directory Settings](http://lawyers.thelaw.com/members/user_account.php "Lawyer Account Settings") – If you have a lawyer ad/profile, manage account settings and notifications
   * [Support and Billing Settings](http://www.thelaw.com/support/clientarea.php "Support and Billing Settings") – Manage notifications and information for billing and support
 
 
