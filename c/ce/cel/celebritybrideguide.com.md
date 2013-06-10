@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the celebritybrideguide.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113073357id_/http%3A//www.celebritybrideguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritybrideguide.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610162838id_/http%3A//www.celebritybrideguide.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Celebrity Bride Guide
-
-## Privacy Policy
 
 Last Updated: May 22, 2009
 
