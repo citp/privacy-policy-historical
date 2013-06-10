@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveyourmessage.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006015821id_/http%3A//www.liveyourmessage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveyourmessage.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610231118id_/http%3A//www.liveyourmessage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,6 +12,12 @@
 #### How to Go From Best Kept Secret to #1 In Your Field
 
 Download it for FREE, now!
+
+  * Want us managing your social media each and every day? Check out these amazing [results](http://bit.ly/Q6ES5B)!
+  * Want a proven, complete social media system to double or triple your social media results? [Grab it here](http://bit.ly/QlFFCe).
+  * Need a website that gets results? Let's talk. Check out [what we can do for you](http://bit.ly/Pc1ejN)...
+
+
 
 ## Privacy Policy
 
