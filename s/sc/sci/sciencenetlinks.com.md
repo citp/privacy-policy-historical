@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencenetlinks.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031061638id_/http%3A//www.aaas.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencenetlinks.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610172931id_/http%3A//www.aaas.org/privacy.shtml) for the most accurate reproduction.*
 
 # AAAS - Privacy Policy
 
