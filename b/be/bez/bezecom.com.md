@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bezecom.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023143902id_/http%3A//www.bezecom.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bezecom.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610181445id_/http%3A//www.bezecom.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Privacy Policy
 
 Privacy Policy
 
