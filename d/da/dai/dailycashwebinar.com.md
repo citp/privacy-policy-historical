@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycashwebinar.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003014739id_/http%3A//www.dailycashwebinar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycashwebinar.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610172329id_/http%3A//insidersecretsclub.com/privacy.html) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -11,15 +11,6 @@ Welcome to www.InsiderSecretsClub.com (the "Site").
 We understand that privacy online is important to users of our Site, especially when conducting business.   
 This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without   
 transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.InsiderSecretsClub.com (collectively, "Services") ("Authorized Customers").
-
-This is the web site of Insider Secrets Club LLC.
-
-Our postal address is   
-PO Box 1072  
-Broomfield, CO 80038-1072
-
-We can be reached via e-mail at admin@InsiderSecretsClub.com  
-or you can reach us by telephone at 720-365-0536
 
 **"Personally Identifiable Information"**   
 refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)   
