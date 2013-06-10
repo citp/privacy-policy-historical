@@ -1,20 +1,91 @@
-<!--The following is the downloaded HTML source of the bitwords.com privacy policy that was archived on 2012-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121123032947id_/http%3A//www.bitwords.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bitwords.com privacy policy that was archived on 2013-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610100346id_/http%3A//www.bitwords.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 <title>Bitwords media privacy policy</title>
 <meta name="description" content="Bitwords media privacy policy, Bitwords media specialized in Logo design, and development services in New York City, USA">
 <meta name="keywords" content="Bitwords media privacy-policy, privacy policy">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
 <meta name="Distribution" content="Global">
 
-<meta name="Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="stylesheet" type="text/css" href="http://www.bitwords.com/css/style.css">
 <link rel="stylesheet" type="text/css" href="http://www.bitwords.com/css/listmenu_h.css">
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.bitwords.com/style_light.css" title="day">
-<!--[if lte IE 6]>
+<!--<link rel="stylesheet" type="text/css" href="http://www.bitwords.com/css/style-slider.css" />
+<link rel="stylesheet" type="text/css" href="http://www.bitwords.com/css/settings.css" media="screen" />-->
+<link rel="stylesheet" href="homepageTabs/style.css" type="text/css" media="screen">
+<link rel="stylesheet" href="js/ui/jquery-ui-1.9.2.custom.css" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Anaheim" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Titillium+Web:400,600,700" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=009382159769062690833:duugugi8coq"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="js/ui/jquery-1.8.3.js"></script>
+<script type="text/javascript" src="js/ui/jquery-ui-1.9.2.custom.js"></script>
+<script type="text/javascript" src="js/jquery.cycle.all.min.js"></script>
+<script language="JavaScript">
+<!--
+var browser     = '';
+var version     = '';
+var entrance    = '';
+var cond        = '';
+
+
+//alert(navigator.userAgent);
+// BROWSER?
+if (browser == '') {
+	if (navigator.userAgent.indexOf('Safari') != -1) {
+		browser = 'Safari';
+	}
+	//alert(browser);
+	if (version == '') {
+		version= navigator.appVersion;
+		paren = version.indexOf('(');
+		whole_version = navigator.appVersion.substring(0,paren-1);
+		version         = parseInt(whole_version);
+	}
+	if (browser == 'Safari' && version >= 2.02) {
+		document.write('<'+'link rel="stylesheet" href="css/safari.css" />');
+	}
+}
+// -->
+</script><link rel="stylesheet" href="css/safari.css">
+<script>
+jQuery(function() {
+
+	var baseName = 'privacy-policy';
+
+	jQuery("#outer").html(jQuery("#inner").html());
+	jQuery("#inner").html('');
+
+	if (baseName=='index') {
+		var tabOpts = {
+						fx: {
+							opacity: "toggle",
+							duration: "slow"
+						}
+					};
+		jQuery("#servicesmaintab").tabs(tabOpts);
+		var tabOpts = {
+					fx: {
+						width: 'toggle',
+						opacity: "toggle",
+						duration: "slow"
+					}
+				};
+		jQuery("#servicetabs").tabs(tabOpts);
+		var tabOpts = {
+					fx: {
+						width: 'toggle',
+						opacity: "toggle",
+						duration: "slow"
+					}
+				};
+		jQuery("#abouttabs").tabs(tabOpts);
+	}
+});
+</script>
+
+<!--[if IE 8]>
 	<link rel="stylesheet" type="text/css" href="css/ie6.css" />
 <![endif]-->
 <!--[if IE 7]>
@@ -22,170 +93,17 @@
 		@import url("css/ie.css");
 	</style>
 <![endif]-->
-	<script type="text/javascript" src="js/jquery.min.js"></script>
-    <script type="text/javascript"> 
-		jQuery.noConflict();
-	</script>
-      
-<script src="js/jquery.easing.1.3.js" type="text/javascript"></script>
-			<script src="js/accordian-src.js" type="text/javascript"></script>
-			<script src="js/script.js" type="text/javascript"></script>
-			<script src="js/mail.js" type="text/javascript"></script>
-			<script src="js/validation3.js" type="text/javascript"></script>
-			<script src="js/jquery.coda-slider-2.0.js" type="text/javascript"></script>
-			<script src="js/jquery.cycle.all.min.j" type="text/javascript"></script>
-			<script src="js/superfish.js" type="text/javascript"></script>
-			<script src="js/jquery.backgroundPosition.js" type="text/javascript"></script>
-			
+
+
+
+<script src="js/script.js" type="text/javascript"></script><script src="js/mail.js" type="text/javascript"></script><script src="js/validation3.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-	
 
 // -------------------- code end -----------------
-
-jQuery(document).ready(function(){
-
-	jQuery(".form-tab").click(function(){			
-		jQuery(".form-box").slideToggle("slow");
-		jQuery(this).toggleClass("form-bottom-tab");
-	});
-	
-	jQuery(".form-bottom-tab").click(function(){			
-		jQuery(".form-box").slideToggle("slow");
-		jQuery(this).toggleClass("form-tab");
-	});
-	
-	/*jQuery('#logoCarousel').jcarousel({
-		vertical: true,
-        scroll: 1,		
-		auto: 2
-    });*/
-});
-
-// -------------------- code end -----------------
-
-if('privacy-policy' == 'index')
-	var PlayPause = 0;
-else
-	var PlayPause = 1;
 
 var IEE = /*@cc_on!@*/false; // for banner
 var IE = /*@cc_on!@*/false; // for side show
-
-jQuery().ready(function() {
-			jQuery("#BWM-Slider").codaSlider({
-				 autoSlide: true,
-				 autoSlideInterval: 5000,
- 				 dynamicTabs: false
-			});			
-});
-
-/*		var trigerAnchor,trigerAnchor2;
-		
-		if(!IE)
-		{
-			var evt = document.createEvent("MouseEvents");
-			evt.initMouseEvent("click", true, true, window,0, 0, 0, 0, 0, false, false, false, false, 0, null);
-		}
-
-		jQuery(document).ready( function()
-		{
-			if('privacy-policy' == 'index')
-				new Accordian('basic-accordian',3,'header_highlight');
-			
-			if(PlayPause == 0)
-				setTimeout('runBANNER()',1000); // for banner
-						
-		});
-		
-		function runBANNER()
-		{
-			
-			if(IEE)
-			{
-				if(PlayPause == 0)
-					setTimeout('forIEE()',7000);
-			}
-			else
-			{
-				if(PlayPause == 0)
-					setTimeout('forFireFoxX()',7000);
-			}
-		}
-		
-		function forFireFoxX() // for FireFox and Rest -- BANNER
-		{ 
-//			trigerAnchor2 = document.getElementById('R');
-			trigerAnchor2 =  jQuery('#stripNavR0 a');
-			
-			evt = document.createEvent("MouseEvents");
-			evt.initMouseEvent("click", true, true, window,0, 0, 0, 0, 0, false, false, false, false, 0, null);
-			//alert(trigerAnchor2);
-			trigerAnchor2.dispatchEvent(evt);
-			if(PlayPause == 0)
-			{
-				//setTimeout('forFireFoxX()',7000);
-			}
-			
-		}
-		
-		function forIEE() // for IE -- BANNER
-		{
-		//	trigerAnchor2 = document.getElementById('R');
-			trigerAnchor2 =  jQuery('#stripNavR0 a');
-			trigerAnchor2.fireEvent('onClick');
-			if(PlayPause == 0)
-			{
-				setTimeout('forIEE()',7000);
-			}
-		}*/
-		
-	
-		
-// -------------------- code end -----------------
-	
-function openContainer ( strID , strID2 ){
-	if ( jQuery("#"+strID).css("height") != 'auto' ) {
-		jQuery("#"+strID).slideUp("slow");
-		resetImages ( );
-	}else{
-		closeOthers ( ) ;
-		jQuery("#"+strID).slideDown("slow");
-		overImage ( strID2 );
-	}
-}
-
-function overImage ( strID2 ){
-	if ( jQuery("#"+strID2).attr('class')== 'accordionTop') {
-		
-		jQuery("#"+strID2).css("background","transparent url(images/head-01-over.jpg) no-repeat scroll 0 0");
-		
-	}else if ( jQuery("#"+strID2).attr('class')== 'accordionMid') {
-		
-		jQuery("#"+strID2).css("background","transparent url(images/head-02-over.jpg) no-repeat scroll 0 0");
-		
-	}else if ( jQuery("#"+strID2).attr('class')== 'accordionBottom') {
-		
-		jQuery("#"+strID2).css("background","transparent url(images/head-02-over.jpg) no-repeat scroll 0 0");
-		
-		jQuery("#divSideMenu99").slideDown("slow");
-		
-	}		
-}
-
-function resetImages ( ){
-	jQuery(".accordionTop").css("background","transparent url(images/head-01.jpg) no-repeat scroll 0 0");
-	jQuery(".accordionMid").css("background","transparent url(images/head-02.jpg) no-repeat scroll 0 0");
-	jQuery(".accordionBottom").css("background","transparent url(images/head-03.jpg) no-repeat scroll 0 0");
-	jQuery("#divSideMenu99").slideUp("slow");
-}
-
-function closeOthers ( ){
-	jQuery(".accordionDiv").slideUp("slow");
-	resetImages ( );
-}
-
-// -------------------- code end -----------------
 
 var baseName = '';
 var ID_1 = 0;
@@ -194,239 +112,138 @@ var ID_3 = 0;
 var ID_4 = 0;
 
 var PlayPause = 0;
-var IEE = /*@cc_on!@*/false; // for banner 
+var IEE = /*@cc_on!@*/false; // for banner
 var IE = /*@cc_on!@*/false; // for side show
 
 <!--
 function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+    var d = document;
+    if (d.images) {
+        if (!d.MM_p) d.MM_p = new Array();
+        var i, j = d.MM_p.length,
+            a = MM_preloadImages.arguments;
+        for (i = 0; i < a.length; i++)
+            if (a[i].indexOf("#") != 0) {
+                d.MM_p[j] = new Image;
+                d.MM_p[j++].src = a[i];
+            }
+    }
 }
 
 function MM_swapImgRestore(dummy) { //v3.0
 
-	  var i,x,a=document.MM_sr; 
-	  for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) 
-	  {
-		 switch(x.id)
-		 {
-			case 'Image1':
-				//alert(ID_1);
-				if(ID_1 == 0)
-				{
-					x.src=x.oSrc;
-				}
-				break;
-			case 'Image2':
-			//	alert(ID_2);
-				if(ID_2 == 0)
-				{
-					x.src=x.oSrc;
-				}
-				break;
-			case 'Image3':
-			//	alert(ID_3);
-				if(ID_3 == 0)
-				{
-					x.src=x.oSrc;
-				}
-				break;
-			case 'Image4':
-			//	alert(ID_4);
-				if(ID_4 == 0)
-				{
-					x.src=x.oSrc;
-				}
-				break;
-			default:
-				x.src=x.oSrc;
-				break;		 
-		  }
-	  }
-  
+    var i, x, a = document.MM_sr;
+    for (i = 0; a && i < a.length && (x = a[i]) && x.oSrc; i++) {
+        switch (x.id) {
+        case 'Image1':
+            //alert(ID_1);
+            if (ID_1 == 0) {
+                x.src = x.oSrc;
+            }
+            break;
+        case 'Image2':
+            //	alert(ID_2);
+            if (ID_2 == 0) {
+                x.src = x.oSrc;
+            }
+            break;
+        case 'Image3':
+            //	alert(ID_3);
+            if (ID_3 == 0) {
+                x.src = x.oSrc;
+            }
+            break;
+        case 'Image4':
+            //	alert(ID_4);
+            if (ID_4 == 0) {
+                x.src = x.oSrc;
+            }
+            break;
+        default:
+            x.src = x.oSrc;
+            break;
+        }
+    }
 }
 
 function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
+    var p, i, x;
+    if (!d) d = document;
+    if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
+        d = parent.frames[n.substring(p + 1)].document;
+        n = n.substring(0, p);
+    }
+    if (!(x = d[n]) && d.all) x = d.all[n];
+    for (i = 0; !x && i < d.forms.length; i++) x = d.forms[i][n];
+    for (i = 0; !x && d.layers && i < d.layers.length; i++) x = MM_findObj(n, d.layers[i].document);
+    if (!x && d.getElementById) x = d.getElementById(n);
+    return x;
 }
 
 function MM_swapImage() { //v3.0
 
-  var i,j=0,x,a=MM_swapImage.arguments; 
-  document.MM_sr=new Array; 
-  for(i=0;i<(a.length-2);i+=3)
-  	if ((x=MM_findObj(a[i]))!=null)
-   	{
-	   document.MM_sr[j++]=x; 
-	   
-	   switch(x.id)
-		{
-			case 'Image1':
-				if(ID_1 == 0)
-				{
-					if(!x.oSrc) 
-				   		x.oSrc=x.src; 
-					x.src=a[i+2];
-				}
-				break;
-			case 'Image2':
-				if(ID_2 == 0)
-				{
-					if(!x.oSrc) 
-				   		x.oSrc=x.src; 	
-					x.src=a[i+2];
-				}
-				break;
-			case 'Image3':
-				if(ID_3 == 0)
-				{
-					if(!x.oSrc) 
-				   		x.oSrc=x.src; 	
-					x.src=a[i+2];
-				}
-				break;
-			case 'Image4':
-				if(ID_4 == 0)
-				{
-					if(!x.oSrc) 
-				   		x.oSrc=x.src; 	
-					x.src=a[i+2];
-				}
-				break;
-			default:
-				if(!x.oSrc) 
-				   		x.oSrc=x.src; 	
-				x.src=a[i+2];
-				break;	
-		}
-		
-	}
+    var i, j = 0,
+        x, a = MM_swapImage.arguments;
+    document.MM_sr = new Array;
+    for (i = 0; i < (a.length - 2); i += 3)
+        if ((x = MM_findObj(a[i])) != null) {
+            document.MM_sr[j++] = x;
+
+            switch (x.id) {
+            case 'Image1':
+                if (ID_1 == 0) {
+                    if (!x.oSrc)
+                        x.oSrc = x.src;
+                    x.src = a[i + 2];
+                }
+                break;
+            case 'Image2':
+                if (ID_2 == 0) {
+                    if (!x.oSrc)
+                        x.oSrc = x.src;
+                    x.src = a[i + 2];
+                }
+                break;
+            case 'Image3':
+                if (ID_3 == 0) {
+                    if (!x.oSrc)
+                        x.oSrc = x.src;
+                    x.src = a[i + 2];
+                }
+                break;
+            case 'Image4':
+                if (ID_4 == 0) {
+                    if (!x.oSrc)
+                        x.oSrc = x.src;
+                    x.src = a[i + 2];
+                }
+                break;
+            default:
+                if (!x.oSrc)
+                    x.oSrc = x.src;
+                x.src = a[i + 2];
+                break;
+            }
+
+        }
 }
 //-->
 
 </script>
-<script type="text/javascript">
-	   jQuery(document).ready( function()
-		{
-		   	document.getElementById('outer').innerHTML = document.getElementById('inner').innerHTML;
-			document.getElementById('inner').innerHTML = '';
-			if('privacy-policy' == 'index')
-				new Accordian('basic-accordian',3,'header_highlight');				
-				
-			//jQuery.smoothAnchors(3000, "swing", false);
-						
-			if(IE)
-			{
-				jQuery('#slide11').css('background','url(images/slide1.jpg)0 2px no-repeat');				
-			}
 
-
-			jQuery('ul.superfish').superfish({ 
-			delay:       200,                            // one second delay on mouseout 
-			animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
-			speed:       'fast',                          // faster animation speed 
-			autoArrows:  true,                           // disable generation of arrow mark-up 
-			dropShadows: false                            // disable drop shadows 
-		}).find("> li > ul > li:last, > li > ul > li > ul > li:last, > li > ul > li > ul > li > ul > li:last").addClass("last");
-		
-		var $featured_content = jQuery('#slider .slide'),
-			$tabbed_area = jQuery('#side-tabs ul'),
-			$tab_content = jQuery('.tab-content'),
-			$controllers = jQuery('div#controllers');
-			
-		et_search_bar();
-	
-		if ($featured_content.length) {
-			$featured_content.cycle({
-				fx: 'scrollHorz',
-				timeout: 0,
-				speed: 700,
-				cleartypeNoBg: true,
-				pager:  'div#controllers'
-			});
-			
-			var controllersWidth = $controllers.width(),
-				controllersLeft = Math.round((280 - controllersWidth) / 2);
-				$controllers.css('left',controllersLeft);
-		};
-		
-		if ($tabbed_area.length) {
-			
-			var animating = false,
-				divAnimated = false;
-			$tab_content.hide().filter(':first').show();
-			$tabbed_area.css( {backgroundPosition: "0px 0px"} );
-			
-			$tabbed_area.find('li a').click(function(){
-				this_element = jQuery(this);
-				
-				tab_order = this_element.parent('li').prevAll().length;
-				previouslyActiveTab = jQuery('.tab-content').filter(':visible').prevAll('.tab-content').length;
-				
-				if ( (tab_order != previouslyActiveTab) && !animating ) {
-					$tabbed_area.find('li a.activeTab').removeClass('activeTab');
-					activeTop = this_element.position().top - 43;
-					
-					animating = true;
-					var $visibleDiv = $tab_content.filter(':visible'),
-						$divToAnimate = $tab_content.filter(':eq('+tab_order+')');
-					
-					
-					$visibleDiv.fadeOut(500,function(){
-					   $visibleDiv.css({opacity:0});
-					   $divToAnimate.css({opacity:1}).fadeIn(500,function(){if (jQuery.browser.msie) this.style.removeAttribute('filter');});
-					   divAnimated = true;
-					});
-					
-					$tabbed_area.stop().animate({backgroundPosition:"(0px "+activeTop+"px)"}, 500,function(){
-						this_element.addClass('activeTab');
-						if (divAnimated) { 
-							animating = false;
-							divAnimated = false;
-						} else {
-							var wait = setInterval(function() {
-								if (divAnimated) { 
-									animating = false;
-									divAnimated = false;
-									clearInterval(wait);
-								};
-							}, 100);
-						};
-					});
-				};
-				
-				return false;
-			});
-		};
-		
-		<!---- Search Bar Improvements ---->
-		function et_search_bar(){
-			var $searchform = jQuery('#breadcrumbs div#search-form'),
-				$searchinput = $searchform.find("input#searchinput"),
-				searchvalue = $searchinput.val();
-				
-			$searchinput.focus(function(){
-				if (jQuery(this).val() === searchvalue) jQuery(this).val("");
-			}).blur(function(){
-				if (jQuery(this).val() === "") jQuery(this).val(searchvalue);
-			});
-		};
-		
-
-			
-			
-			
-		});	
-	   </script>
 <script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=66340308"></script></head>
 
 
 <body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<span class="freeQ"><img src="images/btnQuote3.png" alt="get a website design quote" onclick="getaquote();" style="cursor:pointer"></span>
  <!--<div style="right:-20px;
 position:fixed;
 bottom:56px; z-index:1000"><img src="images/cOffers.png"  alt="" /></div>-->
@@ -529,16 +346,16 @@ bottom:56px; z-index:1000"><img src="images/cOffers.png"  alt="" /></div>-->
 
 
 <div class="headerBtm">
-	
+
     <div id="tabRes" style="display:none"></div>
  <div class="formsContainer">
   <div style=" display:none" class="bgForms" id="get_a_quote">
 
 		<form name="quote" id="quote" action="" method="post" onsubmit="javascript: var t = validate_form(quote); if(t==true)mail(quote,1); return false;">
         <div id="topquote" style=" color:white;!important"></div>
-        <div class="form-text"><img src="http://www.bitwords.com/images/pencil.png" alt="" class="fl pencil1"><h1 style="color:#fff; margin-top:12px;" class="fl">Get Free Quote<br>
+        <div class="form-text"><img src="http://www.bitwords.com/images/pencil.png" alt="Get Free Quote" class="fl pencil1"><h1 style="color:#fff; margin-top:12px;" class="fl">Get Free Quote<br>
 <span class="form-text2">Get the most relevant quote</span></h1></div><div><span style="float:right;color:#fff;margin-right:-8px;margin-top:2px;cursor:pointer;" onclick="getaquote();"><img src="images/btn-close1.png"></span></div>
-        
+
         <div class="clr"></div>
         <table width="100%" border="0" cellspacing="0" cellpadding="0" class="form-text">
           <tbody><tr>
@@ -629,7 +446,7 @@ bottom:56px; z-index:1000"><img src="images/cOffers.png"  alt="" /></div>-->
                 <tbody><tr>
                   <td colspan="2" style="padding-left:15px;">Downloads:
                     </td>
-                    
+
                 </tr>
                 <tr>
 
@@ -654,7 +471,7 @@ bottom:56px; z-index:1000"><img src="images/cOffers.png"  alt="" /></div>-->
 
 
                   <td width="51" align="center" valign="top"><a href="#" style="color:#ccc" title="If you need help with a design project, fill this questionnaire in to give us a head start."><img src="images/icoDoc.png" width="29" height="26" title="Do you have a project in mind? Fill this in to give us as much information as possible."></a></td>
-                  <td width="121" valign="top"><a href="#" style="color:#ccc" title="If you need help with a design project, fill this questionnaire in to give us a head start.">Project Sheet</a></td>
+                  <td width="121" valign="top"> <a href="#" style="color:#ccc" title="If you need help with a design project, fill this questionnaire in to give us a head start."> Project Sheet</a> </td>
                 </tr>
             </tbody></table></td>
           </tr>
@@ -663,16 +480,16 @@ bottom:56px; z-index:1000"><img src="images/cOffers.png"  alt="" /></div>-->
 
     </div>
 
-   
+
       <div style=" display:none" class="bgForms" id="callback_area">
-        
+
         <div id="nameee"></div>
-      
+
 		<form name="frmCalBack" id="frmCalBack" method="post" onsubmit="javascript: var t = validate_form(frmCalBack); if(t==true)mail(frmCalBack,4); return false;" action="">
-		  <div class="form-text"><img src="http://www.bitwords.com/images/icoCallback.png" alt="" class="fl pencil1 " style="margin-top:-20px;"><h1 style="color:#fff;  margin-top:12px" class="">Get a Call Back<br>
+		  <div class="form-text"><img src="http://www.bitwords.com/images/icoCallback.png" alt="Get a Call Back" class="fl pencil1 " style="margin-top:-20px;"><h1 style="color:#fff;  margin-top:12px" class="">Get a Call Back<br>
 <span class="form-text2">Get the most relevant quote</span></h1></div><div><span style="float:right;color:#fff;margin-right:-8px;margin-top:-51px;cursor:pointer;" onclick="callback();"><img src="images/btn-close1.png"></span></div>
           <div class="sider-text-feild">
-          
+
 		    <label for="txtRSLastName">Full Name:</label>
 		    <input type="text" name="txtRSFullName" id="txtRSFullName" class="required " title="required last name" style="margin-right:3px;">
 	      </div>
@@ -691,22 +508,22 @@ bottom:56px; z-index:1000"><img src="images/cOffers.png"  alt="" /></div>-->
           <div class="sider-form-button ">
             <input name="frmCalBackSubmit" id="frmCalBackSubmit" type="submit" value="Submit" class="btnGetQuote">
           </div>
-  
+
         <div class="cl"></div>
 		</form>
-        
+
     </div>
-    
-    
+
+
      <div style=" display:none" class="bgForms" id="callback_area2">
-        
+
         <div id="nameee2"></div>
-      
+
 		<form name="frmCalBack2" id="frmCalBack2" method="post" onsubmit="javascript: var t = validate_form(frmCalBack2); if(t==true)mail(frmCalBack2,5); return false;" action="">
-		  <div class="form-text"><img src="http://www.bitwords.com/images/icoCallback.png" alt="" class="fl pencil1 " style="margin-top:-20px;"><h1 style="color:#fff;  margin-top:12px" class="">Get a Call Back<br>
+		  <div class="form-text"><img src="http://www.bitwords.com/images/icoCallback.png" alt="Get a Call Back" class="fl pencil1 " style="margin-top:-20px;"><h1 style="color:#fff;  margin-top:12px" class="">Get a Call Back<br>
 <span class="form-text2">Get the most relevant quote</span></h1></div><div><span style="float:right;color:#fff;margin-right:-8px;margin-top:-51px;cursor:pointer;" onclick="callback2();"><img src="images/btn-close1.png"></span></div>
           <div class="sider-text-feild">
-          
+
 		    <label for="txtRSLastName">Full Name:</label>
 		    <input type="text" name="txtRSFullName" id="txtRSFullName" class="required" title="required last name" style="margin:2px 10px 5px 6px;">
 	      </div>
@@ -722,7 +539,7 @@ bottom:56px; z-index:1000"><img src="images/cOffers.png"  alt="" /></div>-->
             <label for="txtRSPhone">Phone :</label>
             <input type="text" name="txtRSPhone" id="txtRSPhone" class="required validate-number" title="Invalid phone number" style="margin:2px 10px 5px 6px;">
           </div>
-       
+
    <div class="sider-text-feild">
             <label for="txtRSEmail">Interested in:</label>
             <select size="1" class="required" id="interest" style="margin:2px 10px 5px 6px; ">
@@ -745,39 +562,360 @@ bottom:56px; z-index:1000"><img src="images/cOffers.png"  alt="" /></div>-->
                <option value="SEO Starter Package">SEO Standard Package</option>
                 <option value="SEO Professional Package">SEO Professional Package</option>
               <option value="SEO Xpert Package">SEO Xpert Package</option>
-              
+
             </select>
-          </div>   
+          </div>
         <div class="cl"></div><div class="sider-form-button ">
             <input name="frmCalBackSubmit" id="frmCalBackSubmit" type="submit" value="Submit" class="btnGetQuote">
           </div>
 		</form>
-        
+
     </div>
-    
-    
-    
-    
-    
+
+
+
+
+
       <div class="clr"></div>
  </div>
-  <div class="logoBtm"><a href="index.php"><img src="http://www.bitwords.com/images/imgLogoBtm.png" class="fl"></a>
+  <div class="logoBtm"><a href="index.php"><img src="http://www.bitwords.com/images/imgLogoBtm.png" alt="Bitwords Media Logo" class="fl"></a>
   <div class="headerMenu fr">
       <ul>
-        <li><img onclick="getaquote();" id="shutter_slider_getaquote" class="pointer" src="http://www.bitwords.com/images/getaQuote.png" alt=""></li>
-        
-        <li><img src="http://www.bitwords.com/images/tollFree.png" alt=""></li>
-       <li><!-- http://www.LiveZilla.net Chat Button Link Code --><div style="text-align:center;width:120px;"><a href="javascript:void(window.open('http://www.bitwords.com/livezilla/chat.php','','width=590,height=610,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))"><img src="http://www.bitwords.com/livezilla/image.php?id=04" width="120" height="39" border="0" alt="LiveZilla Live Help"></a><noscript><div><a href="http://www.bitwords.com/livezilla/chat.php" target="_blank">Start Live Help Chat</a></div></noscript><div style="margin-top:2px;display:none;"><a href="http://www.livezilla.net" target="_blank" title="LiveZilla Live Chat" style="font-size:10px;color:#bfbfbf;text-decoration:none;font-family:verdana,arial,tahoma;">LiveZilla Live Chat</a></div></div><!-- http://www.LiveZilla.net Chat Button Link Code --><!-- http://www.LiveZilla.net Tracking Code --><div id="livezilla_tracking" style="display:none"><script type="text/javascript" src="http://www.bitwords.com/livezilla/server.php?request=track&amp;output=jcrpt&amp;nse=0.19637163336382235"></script></div><script type="text/javascript">
+        <li><img onclick="getaquote();" id="shutter_slider_getaquote" class="pointer" src="http://www.bitwords.com/images/getaQuote.png" alt="get a Quote"></li>
+
+        <li><img src="http://www.bitwords.com/images/tollFree.png" alt="toll Free number"></li>
+       <li><!-- http://www.LiveZilla.net Chat Button Link Code --><div style="text-align:center;width:120px;"><a href="javascript:void(window.open('http://www.bitwords.com/livezilla/chat.php','','width=590,height=610,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))"><img src="http://www.bitwords.com/livezilla/image.php?id=04" width="120" height="39" border="0" alt="LiveZilla Live Help"></a><noscript><div><a href="http://www.bitwords.com/livezilla/chat.php" target="_blank">Start Live Help Chat</a></div></noscript><div style="margin-top:2px;display:none;"><a href="http://www.livezilla.net" target="_blank" title="LiveZilla Live Chat" style="font-size:10px;color:#bfbfbf;text-decoration:none;font-family:verdana,arial,tahoma;">LiveZilla Live Chat</a></div></div><!-- http://www.LiveZilla.net Chat Button Link Code --><!-- http://www.LiveZilla.net Tracking Code --><div id="livezilla_tracking" style="display:none"><script type="text/javascript" src="http://www.bitwords.com/livezilla/server.php?request=track&amp;output=jcrpt&amp;nse=0.36564259845193914"></script></div><script type="text/javascript">
 <!-- PLACE IN BODY TAG -->
 var script = document.createElement("script");script.type="text/javascript";var src = "http://www.bitwords.com/livezilla/server.php?request=track&output=jcrpt&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);</script><noscript><img src="http://www.bitwords.com/livezilla/server.php?request=track&amp;output=nojcrpt" width="0" height="0" style="visibility:hidden;" alt=""></noscript><!-- http://www.LiveZilla.net Tracking Code -->
 </li>
-        <li><img onclick="callback();" id="shutter_slider_callback" class="pointer" src="http://www.bitwords.com/images/callback.png" alt=""></li>
-        
+        <li><img onclick="callback();" id="shutter_slider_callback" class="pointer" src="http://www.bitwords.com/images/callback.png" alt="call back"></li>
+
       </ul>
     </div></div>
 </div>
 
+<div style="visibility: visible; display: block;" id="mboxImported-default-homePageBottom-0"><!-- Offer Id: 176946  --><style>
 
+div.slider-icons {
+    position: fixed;
+    right: 0;
+    top: 30%;
+    width: 45px;
+    z-index: 999;
+}
+.slider-icons span {
+    cursor: pointer;
+    display: block;
+    margin-bottom: 5px;
+    position: relative;
+    right: 0;
+    text-indent: -9999px;
+    transition-duration: 0.3s;
+}
+.slider-icons span a {
+    display: block;
+    height: 100%;
+    text-decoration: none;
+    width: 100%;
+}
+.slider-icons span#icon-f2f .slide-box {
+    background: none repeat scroll 0 0 #FEB431;
+    border: 1px solid #fff;
+    height: 223px;
+    left: 45px;
+    padding: 0 0 0 21px;
+    position: absolute;
+    top: 0;
+    width: 254px;
+}
+.slider-icons .slide-box span.title {
+    background: url("f2f-title.png") no-repeat scroll 0 0 transparent;
+    display: block;
+    height: 120px;
+    margin: -44px 0 0 -3px;
+    width: 195px;
+}
+.slider-icons .slide-box p {
+    color: #FFFFFF;
+    display: block;
+    font-family: arial;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 7px 0 0;
+    text-indent: 0;
+    width: 176px;
+}
+.slider-icons .slide-box .f2fbtn {
+    background: url("schedule-btn.png") no-repeat scroll 0 0 transparent;
+    display: block;
+    height: 28px;
+    margin: 11px 0 0;
+    width: 170px;
+}
+.slider-icons span#icon-f2f {
+    background: url("bar-f2f.png") no-repeat scroll 0 0 transparent;
+    height: 46px;
+    width: 45px;
+}
+.slider-icons span#icon-f2f:hover, .slider-icons span#icon-f2f.active {
+    right: 271px;
+}
+.slider-icons span .slide-box {
+    font-family: arial;
+    z-index: 1;
+}
+.slider-icons span#icon-f2f .slide-box, .slider-icons span#icon-contest .slide-box {
+    z-index: -1;
+}
+.slider-icons span.active .slide-box {
+    z-index: -2;
+}
+.slider-icons span#icon-f2f span.icon-close {
+    background: url("images/close-icon.png") no-repeat scroll 0 0 transparent;
+    height: 30px;
+    left: 29px;
+    position: absolute;
+    top: -15px;
+    visibility: hidden;
+    width: 30px;
+    z-index: 9999;
+}
+.slider-icons span.active span.icon-close {
+    visibility: visible !important;
+}
+#icon-livechat .slide-box, #icon-email .slide-box, #icon-schedule .slide-box, #icon-call .slide-box {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    height: 44px;
+    left: 45px;
+    line-height: 48px;
+    padding: 0 0 0 13px;
+    position: absolute;
+    text-indent: 0;
+    top: 0;
+    width: 400px;
+}
+.slider-icons #icon-livechat .slide-box {
+    background: none repeat scroll 0 0 #FEB431;
+	 border: 1px solid #fff;
+}
+.slider-icons #icon-livechat #lpButDivID-1350684418 span {
+    color: #FFFFFF;
+    font-family: Arial !important;
+    font-weight: bold !important;
+    text-indent: 0;
+}
+.slider-icons span#icon-livechat {
+    background: url("bar-livechat.png") no-repeat scroll 0 0 transparent;
+    height: 46px;
+    width: 45px;
+}
+.slider-icons span#icon-livechat:hover {
+    right: 105px;
+}
+.slider-icons #icon-email .slide-box {
+    background: none repeat scroll 0 0 #FEB431;
+	 border: 1px solid #fff;
+}
+.slider-icons span#icon-email {
+    background: url("bar-email.png") no-repeat scroll 0 0 transparent;
+    height: 46px;
+    width: 45px;
+}
+.slider-icons span#icon-email:hover {
+    right: 87px;
+}
+.slider-icons #icon-schedule .slide-box {
+    background: none repeat scroll 0 0 #FEB431;
+	 border: 1px solid #fff;
+}
+.slider-icons span#icon-schedule {
+    background: url("bar-schedule.png") no-repeat scroll 0 0 transparent;
+    height: 46px;
+    width: 45px;
+}
+.slider-icons span#icon-schedule:hover {
+    right: 136px;
+}
+.slider-icons #icon-call .slide-box {
+    background: none repeat scroll 0 0 #FEB431;
+	 border: 1px solid #fff;
+}
+.slider-icons span#icon-call {
+    background: url("bar-call.png") no-repeat scroll 0 0 transparent;
+    height: 46px;
+    width: 45px;
+}
+.slider-icons span#icon-call:hover {
+    right: 129px;
+}
+
+</style>
+
+<div class="slider-icons">
+	<span id="icon-f2f">
+		<span class="icon-close" title="Close/Hide"></span>
+        <a href="#">
+    		<div class="slide-box">
+            	<span class="title">Customer Support</span>
+                <p>Live Chat with Our
+Relationship Manager
+for Additional Assistance
+</p>
+                <p>Go beyond the typical
+Customer service call
+</p>
+
+            </div>
+        </a>
+    </span>
+    <span id="icon-livechat">
+		<a onclick="getaquote();">
+        	<div class="slide-box">Free Quote &nbsp;</div>
+        </a>
+    </span>
+    <span id="icon-email">
+    	<a href="contactus.php">
+        	<div class="slide-box">Email Us</div>
+        </a>
+    </span>
+
+    <span id="icon-call">
+        <div class="slide-box">800 223 1891</div>
+    </span><span id="icon-schedule">
+        <a onclick="callback();">
+        	<div class="slide-box">Schedule a Call</div>
+        </a>
+    </span>
+
+</div>
+
+<style>
+/******************
+	contest styles (remove after contest ends)
+******************/
+#icon-contest #theform .contest-button{
+	margin: 0 0 -11px -17px;
+    position: relative;
+}
+#icon-contest #theform input#email, #icon-contest #theform input#emailcontest{
+	width: 152px;
+border-color: #D2D3CF;
+border-radius: 5px 5px 5px 5px;
+border-style: solid none solid solid;
+border-width: 1px 0 1px 1px;
+color: #868686;
+font-family: Georgia,"Times New Roman",Times,serif;
+font-style: italic;
+height: 37px;
+padding-left: 10px;
+}
+#icon-contest #theform{
+	float: left;
+    text-indent: 0;
+}
+.slider-icons span#icon-contest span.icon-close {
+    background: url("close-icon.png") no-repeat scroll 0 0 transparent;
+    height: 30px;
+    left: 29px;
+    position: absolute;
+    top: -217px;
+    visibility: hidden;
+    width: 30px;
+    z-index: 9999;
+}
+.slider-icons span#icon-contest {
+    background: url("bar-contest.png") no-repeat scroll 0 0 transparent;
+    height: 46px;
+    width: 45px;
+}
+.slider-icons span#icon-contest:hover,
+.slider-icons span#icon-contest.active{
+	right: 271px;
+}
+.slider-icons span#icon-contest .slide-box {
+    background: none repeat scroll 0 0 #6AC313;
+    height: 250px;
+    left: 45px;
+    padding: 0 0 0 21px;
+    position: absolute;
+    top: -204px;
+    width: 254px;
+}
+
+.slider-icons span#icon-contest .slide-box span.title {
+    background: url("contest-info.png") no-repeat scroll 0 0 transparent;
+    display: block;
+    height: 120px;
+    margin: 17px 0 0 -3px;
+    width: 195px;
+}
+.slider-icons span#icon-contest .slide-box p {
+    color: #356606;
+    display: block;
+    font-weight: bold;
+    margin: -3px 0 9px;
+    text-indent: 0;
+    width: 176px;
+}
+</style>
+
+
+<script>
+
+jQuery("span.icon-close").click(function() {
+  jQuery('.slider-icons span#icon-f2f').css('right',0).removeClass("active");
+   setTimeout(function(){jQuery('.slider-icons span#icon-f2f').removeAttr('style')},200)
+	contactclose();
+});
+
+
+function contactclose() {
+    //jQuery('.slider-icons span#icon-f2f').toggleClass("active");
+    if (readCookie("f2finvite") == "close") {
+        createCookie("f2finvite", "open", 30);
+    } else {
+        createCookie("f2finvite", "close", 30);
+    }
+}
+
+/*if (readCookie("bccontest") == null) {
+	setTimeout(function(){jQuery('.slider-icons span#icon-contest').toggleClass("active");createCookie("bccontest", "open", 30);},1000)
+}
+else {
+	if (readCookie("bccontest") == "open") {
+		jQuery('.slider-icons span#icon-contest').toggleClass("active");
+	}
+}
+
+function contactclose() {
+	//jQuery('.slider-icons span#icon-f2f').toggleClass("active");
+	if (readCookie("bccontest") == "close") {
+		createCookie("bccontest", "open", 30);
+	} else {
+		createCookie("bccontest", "close", 30);
+	}
+}*/
+
+/*SeeWhy Code - executed in main.js*/
+function cyhook1() {
+	if (document.getElementById("emailcontest")) {
+		cyEmailObject=document.getElementById("emailcontest");
+		cyEmailObject.onchange=function() {
+		cy.FunnelLevel="2";
+		cy.UserId=cyEmailObject.value;
+		cy.Custom7="newsletter contest signup";
+		cy.Custom1="Guest";
+		_cyCreateClientCookie('_cysldr', 'disable');
+		cy_getImageSrc();
+		return true;
+		}
+	}
+}
+</script>
+
+</div>
 
 
 <script type="text/javascript">
@@ -797,7 +935,7 @@ var script = document.createElement("script");script.type="text/javascript";var 
 		jQuery("#callback_area").slideToggle("normal");
 		jQuery("#shutter_slider_callback").fadeIn(100).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100).fadeIn(100).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100);
 	}
-	
+
 	function callback2()
 	{
 		jQuery("#get_a_quote").css('display','none');
@@ -808,7 +946,7 @@ var script = document.createElement("script");script.type="text/javascript";var 
 
 </script><div class="container">
   <script type="text/javascript">
-function toggle_banner( id ) 
+function toggle_banner( id )
 {
 	var el = document.getElementById( id );
 		//el.style.visibility = 'visible';
@@ -821,14 +959,14 @@ function toggle_banner( id )
 		PlayPause = 0;
 		//setTimeout('runBANNER()',5000);
 	}
-	else 
+	else
 	{
 		el.style.display = 'none';
 		document.getElementById( 'show_hide_btn' ).innerHTML = 'Show Promotions';
 		PlayPause = 1;
 	}
 
-		
+
 //	if ( el.style.visibility == 'hidden' )
 //	{
 //		 el.style.visibility='visible';
@@ -836,12 +974,12 @@ function toggle_banner( id )
 //
 //		document.getElementById( 'show_hide_btn' ).innerHTML = 'Hide Promotions';
 //	}
-//	else 
+//	else
 //	{
 //		el.style.visibility='hidden';
 // 		document.getElementById( 'zzzzmeri_id' ).style.position = 'absolute';
 //		document.getElementById( 'show_hide_btn' ).innerHTML = 'Show Promotions';
-//		
+//
 //
 //	}
 }
@@ -851,98 +989,208 @@ function toggle_banner( id )
 <div class="topHeader  fl" style=" margin-bottom:17px;  position:relative">
 <!-- <div style="left:223px;position:absolute;
 top:3px;"><img src="images/cap.png"  alt="" /></div>-->
-     <div class="top-right-main"><a href="http://www.bitwords.com/index.php"><img src="images/bLogo.jpg" style="padding-top:5px; float:left" alt=""></a>
-       <div class="top-navigation pointer" onclick="getaquote();"><br>
-<strong style="color:#333; font-size:18px; line-height:34px;"><span class="freeQ"><a>Click for <big>Free Quote</big></a> or</span> <img src="images/callNow.png"><p style="text-align: center; position: absolute; top: 111px; right: 84px;"><img width="200" src="images/money-back-gaurantee.png" alt=""></p>
-</strong>            
-        	</div></div>
-    
-    
-</div>
- 
-<div class="pageMenu " style="position:absolute; top:67px; right:0px;">
-  <ul class="main-nav" id="menu">
-    <li>
-    <a class="menulink" style="padding:0; cursor:pointer"><img src="http://www.bitwords.com/images/tabServices.png" alt=""></a>
-    <ul>
-      <li>
-      <a href="http://www.bitwords.com/web-design-services.php">Web Design Services</a>
-      <ul>
-        <li><a href="http://www.bitwords.com/custom-web-design.php">Custom Web Design</a>
-          
-        </li>
-        <li> <a href="http://www.bitwords.com/ecommerce-web-design.php">Ecommerce Web Design</a>
-        
-          </li>
-       
-        <li><a href="http://www.bitwords.com/corporate-web-design.php">Corporate Web Design</a> </li>
-        <li><a href="http://www.bitwords.com/cms-web-design.php">CMS Web Design</a></li>
-        <li><a href="http://www.bitwords.com/flash-website-design.php">Flash Website Design</a></li>
-        <li><a href="http://www.bitwords.com/wordpress-blog-design.php">Wordpress Blog Design </a></li>
-        <li><a href="http://www.bitwords.com/website-redesign-services.php">Website Redesign Services</a></li>
-        <li><a href="http://www.bitwords.com/logo-design-service.php">Logo Design Services</a></li>
-        <li><a href="http://www.bitwords.com/print-identity-design.php" class="">+ Branding &amp; Print Media</a>
-          <ul>
-            <li><a href="http://www.bitwords.com/corporate-identity-design.php" class="topline">Corporate Identity Design</a></li>
-            <li><a href="http://www.bitwords.com/brochure-designing.php">Brochure Designing</a></li>
-            <li><a href="http://www.bitwords.com/marketing-material-design.php">Marketing Presentations</a> </li>
-          </ul>
-        </li>
-      </ul>
-      </li>
-      <li><a href="http://www.bitwords.com/web-development-services.php">Web Development Services</a>
-        <ul>
-          <li><a href="http://www.bitwords.com/custom-web-development-services.php" class="topline">Custom Web Development</a></li>
-          <li><a href="http://www.bitwords.com/ecommerce-web-development-services.php" class="topline">ECommerce Web Development</a></li>
-          <li><a href="http://www.bitwords.com/web-application-development.php">Web Application Development</a></li>
-          <li><a href="http://www.bitwords.com/website-maintenance-upgrade.php">Website Maintenance &amp; Upgrade</a></li>
-        </ul>
-      </li>
-      <li><a href="http://www.bitwords.com/internet-marketing-services.php">Internet Marketing Services</a>
-        <ul>
-          <li><a href="http://www.bitwords.com/seo-services.php" class="topline">SEO Services</a>
-            
-          </li>
-          <li><a href="http://www.bitwords.com/ppc-management-services.php">PPC Management</a></li>
-          <li><a href="http://www.bitwords.com/affiliate-marketing-services.php">Affiliate Marketing </a></li>
-          <li><a href="http://www.bitwords.com/email-marketing-services.php">Email Marketing</a></li>
-          <li><a href="http://www.bitwords.com/social-media-marketing.php">Social Media Marketing</a></li>
-        </ul>
-      </li>
-      <li><a href="http://www.bitwords.com/contractors-website-design.php">Contractor's Websites</a>
-        
-      </li>
-        <li><a href="http://www.bitwords.com/creditcard-processing.php">Credit Card Processing Services</a>
-        
-      </li>
-     </ul>
-        </li>
-    
- 
-    <li><a class="menulink" style="padding:0; cursor:pointer"><img src="http://www.bitwords.com/images/tabCompany.png" alt=""></a>
-      <ul>
-        <li><a href="http://www.bitwords.com/about_us.php">About Us</a></li>
-        <li><a href="http://www.bitwords.com/client.php">Clients</a></li>
-        <li><a href="#" onclick="getaquote();">Request a Proposal</a></li>
-        <li><a href="http://www.bitwords.com/privacy-policy.php">Privacy Policy</a> </li>
-        <!--<li><a href="sitemap.php">Sitemap</a></li>-->
-        <li><a href="http://www.bitwords.com/blog">Blog</a> </li>
-        <li><a href="http://www.bitwords.com/news-detail.php">News</a></li>
-      </ul>
-    </li>
-    <li><a class="menulink" style="padding:0; cursor:pointer"><img src="http://www.bitwords.com/images/tabPortfolio.png" alt=""></a>
-      <ul>
-        <li><a href="http://www.bitwords.com/portfolio.php" class="topline">Web Design</a></li>
-        <li><a href="http://www.bitwords.com/portfolio-web-applications.php">Web Application Design</a></li>
-        <li><a href="http://www.bitwords.com/portfolio-shopping-cart-design.php">Shopping Cart Design</a></li>
-        <li><a href="http://www.bitwords.com/portfolio-corporate-identity.php">Corporate Identity</a></li>
-        <li><a href="http://www.bitwords.com/testimonials.php">Testimonials</a></li>
-      </ul>
-    </li>
-    <li style="background:none;"><a href="http://www.bitwords.com/contactus.php" class="menulink" style="padding:0;"><img src="http://www.bitwords.com/images/tabContactus.png" alt=""></a> </li>
-  </ul>
+     <div class="top-right-main"><a href="http://www.bitwords.com/"><img src="images/Blogo.png" style="padding-top:9px; float:left" alt=""></a>
+       <div class="top-navigation pointer"><br><div class="search1"><!--<form action="" id="searchform" method="get">
+			<input type="text" id="s" name="s" value="Search" placeholder="Search " class="sflied23">
+			<span class="ct-submit-bg"><input type="submit"  title="Search" id="go"></span>
+		</form>-->
+        <script>
+		(function() {
+		  var cx = '009382159769062690833:duugugi8coq';
+		  var gcse = document.createElement('script'); gcse.type = 'text/javascript';
+		  gcse.async = true;
+		  gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+			  '//www.google.com/cse/cse.js?cx=' + cx;
+		  var s = document.getElementsByTagName('script')[0];
+		  s.parentNode.insertBefore(gcse, s);
+		})();
+		</script>
+		<gcse:search></gcse:search>
+        <link href="css/google.css" rel="stylesheet" type="text/css"> 
+        </div>
+<strong style="color: #333333;
+    float: left;
+    font-size: 18px;
+    line-height: 34px;
+    margin-top: -9px;
+    position: absolute;
+    right: 207px;"> <img src="images/callNow.png"><p style="  position: absolute;
+    right: -182px;
+    text-align: center;
+    top: -9px;"><img src="images/btRQTop.png" onclick="getaquote();" style="cursor:pointer" alt=""></p>
+</strong>
+
+       </div></div>
 </div>
 
+ <script>
+  jQuery(function() {
+    jQuery( "#menu" ).menu({ animation: { open: "slideIn:down" } });
+  });
+</script>
+<div class="pageMenu " style="position:absolute; top:67px; right:-30px;">
+	<ul class="main-nav ui-menu ui-widget ui-widget-content ui-corner-all" id="menu" role="menu" tabindex="0">
+		<li style="background:none; width: 48px;" class="ui-menu-item" role="presentation"><a href="http://www.bitwords.com/" class="menulink ui-corner-all" style="padding:0;" id="ui-id-1" tabindex="-1" role="menuitem"><img src="http://www.bitwords.com/images/tabHome.png" alt="Bitwords Home Page"></a></li>
+		<li class="ui-menu-item" role="presentation">
+			<a class="menulink ui-corner-all" href="http://www.bitwords.com/services.php" style="padding:0; cursor:pointer" id="ui-id-2" tabindex="-1" role="menuitem"><img src="http://www.bitwords.com/images/tabServices.png" alt="Bitwords Services"></a>
+		<!--<ul class="servUL">
+			<li>
+			<a href="http://www.bitwords.com/web-design-services.php" class="menuT" >Custom Apps Design </a>
+			<div style="width:200px; position:relative; display:block">
+				<div>
+					<div>
+						<a href="http://www.bitwords.com/custom-web-design.php" >Custom Web Design</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/ecommerce-web-design.php" >Ecommerce Web Design</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/corporate-web-design.php">Corporate Web Design</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/cms-web-design.php">CMS Web Design</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/flash-website-design.php">Flash Website Design</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/wordpress-blog-design.php">Wordpress Blog Design </a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/website-redesign-services.php">Website Redesign Services</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/logo-design-service.php">Logo Design Services</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/corporate-identity-design.php" class="topdivne">Corporate Identity Design</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/brochure-designing.php">Brochure Designing</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/marketing-material-design.php">Marketing Presentations</a>
+					</div>
+				</div>
+			</div>
+			</li>
+			<li>
+			<a href="http://www.bitwords.com/web-design-services.php" class="menuT" >Web Design Services</a>
+			<div style="width:200px; position:relative; display:block">
+				<div>
+					<div>
+						<a href="http://www.bitwords.com/custom-web-design.php" >Custom Web Design</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/ecommerce-web-design.php" >Ecommerce Web Design</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/corporate-web-design.php">Corporate Web Design</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/cms-web-design.php">CMS Web Design</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/flash-website-design.php">Flash Website Design</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/wordpress-blog-design.php">Wordpress Blog Design </a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/website-redesign-services.php">Website Redesign Services</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/logo-design-service.php">Logo Design Services</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/corporate-identity-design.php" class="topdivne">Corporate Identity Design</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/brochure-designing.php">Brochure Designing</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/marketing-material-design.php">Marketing Presentations</a>
+					</div>
+				</div>
+			</div>
+			</li>
+			<li><a href="http://www.bitwords.com/web-development-services.php" class="menuT" >Web Development Services</a>
+			<div style="width:200px; position:relative; display:block">
+				<div>
+					<div>
+						<a href="http://www.bitwords.com/custom-web-development-services.php" class="topline">Custom Web Development</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/ecommerce-web-development-services.php" class="topline">ECommerce Web Development</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/web-application-development.php">Web Application Development</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/website-maintenance-upgrade.php">Website Maintenance & Upgrade</a>
+					</div>
+				</div>
+			</div>
+			</li>
+			<li><a href="http://www.bitwords.com/internet-marketing-services.php" class="menuT" >Internet Marketing Services</a>
+			<div style="width:200px; position:relative; display:block">
+				<div>
+					<div>
+						<a href="http://www.bitwords.com/seo-services.php" class="topline">SEO Services</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/ppc-management-services.php">PPC Management</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/affiliate-marketing-services.php">Affiliate Marketing </a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/email-marketing-services.php">Email Marketing</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/social-media-marketing.php">Social Media Marketing</a>
+					</div>
+				</div>
+			</div>
+			</li>
+			<li><a href="http://www.bitwords.com/web-development-services.php" class="menuT" >Other</a>
+			<div style="width:200px; position:relative; display:block">
+				<div>
+					<div>
+						<a href="http://www.bitwords.com/contractors-website-design.php" >Contractor's Websites</a>
+					</div>
+					<div>
+						<a href="http://www.bitwords.com/creditcard-processing.php" >Credit Card Processing Services</a>
+					</div>
+				</div>
+			</div>
+			</li>
+		</ul>-->
+		</li>
+		<li class="ui-menu-item" role="presentation"><a class="menulink ui-corner-all" style="padding:0; cursor:pointer" href="http://www.bitwords.com/about_us.php" aria-haspopup="true" id="ui-id-3" tabindex="-1" role="menuitem"><span class="ui-menu-icon ui-icon ui-icon-carat-1-e"></span><img src="http://www.bitwords.com/images/tabCompany.png" alt="about us"></a>
+		<ul class="companyUl ui-menu ui-widget ui-widget-content ui-corner-all" role="menu" aria-hidden="true" aria-expanded="false" style="display: none;">
+			<!--   <li><a href="http://www.bitwords.com/about_us.php">About Us</a></li>-->
+			<li class="ui-menu-item" role="presentation"><a href="http://www.bitwords.com/client.php" id="ui-id-7" class="ui-corner-all" tabindex="-1" role="menuitem">Clients</a></li>
+			<li class="ui-menu-item" role="presentation"><a href="#" onclick="getaquote();" id="ui-id-8" class="ui-corner-all" tabindex="-1" role="menuitem">Request a Proposal</a></li>
+			<li class="ui-menu-item" role="presentation"><a href="http://www.bitwords.com/privacy-policy.php" id="ui-id-9" class="ui-corner-all" tabindex="-1" role="menuitem">Privacy Policy</a></li>
+			<!--<li><a href="sitemap.php">Sitemap</a></li>-->
+			<!--  <li><a href="http://www.bitwords.com/blog">Blog</a> </li>-->
+			<li class="ui-menu-item" role="presentation"><a href="http://www.bitwords.com/news-detail.php" id="ui-id-10" class="ui-corner-all" tabindex="-1" role="menuitem">News</a></li>
+		</ul>
+		</li>
+		<li class="ui-menu-item" role="presentation"><a class="menulink ui-corner-all" style="padding:0; cursor:pointer" aria-haspopup="true" id="ui-id-4" tabindex="-1" role="menuitem"><span class="ui-menu-icon ui-icon ui-icon-carat-1-e"></span><img src="http://www.bitwords.com/images/tabPortfolio.png" alt="Portfolio"></a>
+		<ul class="PortF ui-menu ui-widget ui-widget-content ui-corner-all" role="menu" aria-hidden="true" aria-expanded="false" style="display: none;">
+			<li class="ui-menu-item" role="presentation"><a href="http://www.bitwords.com/portfolio.php" class="topline ui-corner-all" id="ui-id-11" tabindex="-1" role="menuitem">Web Design</a></li>
+			<li class="ui-menu-item" role="presentation"><a href="http://www.bitwords.com/portfolio-web-applications.php" id="ui-id-12" class="ui-corner-all" tabindex="-1" role="menuitem">Web Application Design</a></li>
+			<li class="ui-menu-item" role="presentation"><a href="http://www.bitwords.com/portfolio-shopping-cart-design.php" id="ui-id-13" class="ui-corner-all" tabindex="-1" role="menuitem">Shopping Cart Design</a></li>
+			<li class="ui-menu-item" role="presentation"><a href="http://www.bitwords.com/portfolio-corporate-identity.php" id="ui-id-14" class="ui-corner-all" tabindex="-1" role="menuitem">Corporate Identity</a></li>
+			<li class="ui-menu-item" role="presentation"><a href="http://www.bitwords.com/testimonials.php" id="ui-id-15" class="ui-corner-all" tabindex="-1" role="menuitem">Testimonials</a></li>
+		</ul>
+		</li>
+		<li style="background:none;" class="ui-menu-item" role="presentation"><a href="http://www.bitwords.com/blog" class="menulink ui-corner-all" style="padding:0;" id="ui-id-5" tabindex="-1" role="menuitem"><img src="http://www.bitwords.com/images/tabBlog.png" alt="blog"></a></li>
+		<li style="background:none;" class="ui-menu-item" role="presentation"><a href="http://www.bitwords.com/contactus.php" class="menulink ui-corner-all" style="padding:0;" id="ui-id-6" tabindex="-1" role="menuitem"><img src="http://www.bitwords.com/images/tabContactus.png" alt="Contact us"></a></li>
+	</ul>
+</div>
  
   <div class="Wrapper">
      <div class="panelContainer">
@@ -960,9 +1208,9 @@ top:3px;"><img src="images/cap.png"  alt="" /></div>-->
 							<li class="date"><!--spanner--></li>
 							<li class="right"><!--spanner--></li>
 						</ul>
-						<div style="border-top: none; border-bottom: none; overflow: hidden; padding-top: 0px; padding-bottom: 0px; height: 246px;" class="web_content">	
+						<div style="border-top: none; border-bottom: none; overflow: hidden; padding-top: 0px; padding-bottom: 0px; height: 247px;" class="web_content">	
 							<p class="web_header">
-								<a href="http://www.bitwords.com/portfolio.php" rel="lightbox">View Portfolio</a><img alt="" src="link_arrow_green.gif">							</p>
+								<a href="http://www.bitwords.com/portfolio.php" rel="lightbox">View Portfolio</a>							</p>
 							<div class="web_imgs" id="optiver">
 
 								<a href="http://www.bitwords.com/portfolio.php" rel="lightbox" style="border: 0pt none ; display: block; width: 284px; height: 163px; position: absolute; z-index: 999;">
@@ -972,7 +1220,7 @@ top:3px;"><img src="images/cap.png"  alt="" /></div>-->
 They've organized a weekend for their employees to compete against
 eachother in various activities, the website I've designed shows an
 overview of the teams and its members, including some background info
-on the weekend itself. <span>© 2008 MediaMonks</span></p>
+on the weekend itself. <span>� 2008 MediaMonks</span></p>
 							<div class="web_footer">
 								<a style="background-image: url(btn_comment.gif);" class="btn_comment"></a>							</div>
 						</div>
@@ -986,7 +1234,7 @@ on the weekend itself. <span>© 2008 MediaMonks</span></p>
 						</ul>
 						<div style="border-top: none; border-bottom: none; overflow: hidden; padding-top: 0px; padding-bottom: 0px; height: 0px;" class="web_content">	
 							<p class="web_header">
-								<a href="http://www.bitwords.com/portfolio-ecommerce-sites.php" rel="lightbox">View Portfolio</a><img alt="" src="link_arrow_green.gif">							</p>
+								<a href="http://www.bitwords.com/portfolio-ecommerce-sites.php" rel="lightbox">View Portfolio</a>							</p>
 							<div class="web_imgs" id="buttonfreaks">
 
 								<a href="http://www.bitwords.com/portfolio-ecommerce-sites.php" rel="lightbox" style="border: 0pt none ; display: block; width: 284px; height: 163px; position: absolute; z-index: 999;">
@@ -1009,7 +1257,7 @@ developed.</p>
 						</ul>
 						<div style="border-top: none; border-bottom: none; overflow: hidden; padding-top: 0px; padding-bottom: 0px; height: 0px;" class="web_content">	
 							<p class="web_header">
-								<a href="http://www.bitwords.com/portfolio-shopping-cart-design.php" rel="lightbox">View Portfolio</a><img alt="" src="link_arrow_green.gif">							</p>
+								<a href="http://www.bitwords.com/portfolio-shopping-cart-design.php" rel="lightbox">View Portfolio</a>							</p>
 							<div class="web_imgs" id="sk123">
 
 								<a href="http://www.bitwords.com/portfolio-shopping-cart-design.php" rel="lightbox" style="border: 0pt none ; display: block; width: 284px; height: 163px; position: absolute; z-index: 999;">
@@ -1019,7 +1267,7 @@ developed.</p>
 With many possible criteria visitors can come to a fitting result when
 looking for advice on what course to choose. Currently it's still under
 development and should be online February 2008. I was responsible for
-the entire redesign. <span>© 2007 MediaMonks</span></p>
+the entire redesign. <span>� 2007 MediaMonks</span></p>
 							<div class="web_footer">
 								<a style="background-image: url(btn_comment.gif);" class="btn_comment"></a>							</div>
 						</div>
@@ -1033,13 +1281,13 @@ the entire redesign. <span>© 2007 MediaMonks</span></p>
 						</ul>
 						<div style="border-top: none; border-bottom: none; overflow: hidden; padding-top: 0px; padding-bottom: 0px; height: 0px;" class="web_content">	
 							<p class="web_header">
-								<a href="http://www.bitwords.com/portfolio-corporate-identity.php" rel="lightbox">View Portfolio</a><img alt="" src="link_arrow_green.gif">							</p>
+								<a href="http://www.bitwords.com/portfolio-corporate-identity.php" rel="lightbox">View Portfolio</a>							</p>
 							<div class="web_imgs" id="tomtomwork">
 
 								<a href="http://www.bitwords.com/portfolio-corporate-identity.php" rel="lightbox" style="border: 0pt none ; display: block; width: 284px; height: 163px; position: absolute; z-index: 999;">
 
 								<img src="http://www.bitwords.com/images/paradise.jpg" alt="" style="position: absolute; top: 0pt; z-index: 2;" width="284" height="163">								</a>							</div>
-							<p style="visibility: visible; opacity: 0.95;" class="web_comment hide"><strong>For TomTom I designed a Flash application to give insight on how much people would save using TomTom Work.</strong> <span>© 2007 MediaMonks</span></p>
+							<p style="visibility: visible; opacity: 0.95;" class="web_comment hide"><strong>For TomTom I designed a Flash application to give insight on how much people would save using TomTom Work.</strong> <span>� 2007 MediaMonks</span></p>
 							<div class="web_footer">
 								<a style="background-image: url(btn_comment.gif);" class="btn_comment"></a>							</div>
 						</div>
@@ -1049,17 +1297,17 @@ the entire redesign. <span>© 2007 MediaMonks</span></p>
         <div class="textContent fl ">
         <h1>Privacy Notice Table Of Contents:</h1>
        <ul style="margin: 12px 0pt; padding: 0pt 0pt 0pt 20px; font-size: 12px; font-weight: bold; line-height: 22px; list-style-type: none; list-style-image: none; list-style-position: outside;">
-        <li>1.	<a href="#commitment-privacy">Our Commitment To Privacy</a></li>
-        <li>2.	<a href="#information-collect">The Information We Collect</a></li>
-        <li>3.	<a href="#how-use-information">How We Use Information</a></li>
-        <li>4.	<a href="#commitment-data-security">Our Commitment To Data Security</a></li>
-        <li>5.	<a href="#commitment-children-privacy ">Our Commitment To Children's Privacy </a></li>
-        <li>6.	<a href="#how-access-correct-information">How To Access Or Correct Your Information</a></li>
-        <li>7.	<a href="#contact-us">How To Contact Us</a></li>
+        <li>1.	Our Commitment To Privacy</li>
+        <li>2.	The Information We Collect</li>
+        <li>3.	How We Use Information</li>
+        <li>4.	Our Commitment To Data Security</li>
+        <li>5.	Our Commitment To Children's Privacy</li>
+        <li>6.	How To Access Or Correct Your Information</li>
+        <li>7.	How To Contact Us</li>
         </ul>
-       <a name="commitment-privacy"> <h2> Our Commitment to Privacy</h2></a>
+        <h2> Our Commitment to Privacy</h2>
         <p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.</p>
-<a name="information-collect"><h2>The Information We Collect: </h2></a>
+<h2>The Information We Collect: </h2>
 <p>This notice applies to all information collected or submitted on the Bitwords Media website (www.bitwords.com). On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:</p> 
 <ul>
             <li>Name </li>
@@ -1072,7 +1320,7 @@ the entire redesign. <span>© 2007 MediaMonks</span></p>
             <li>(etc.) </li>
             </ul>
             
-            <a name="how-use-information"><h2>The Way We Use Information:</h2></a>
+            <h2>The Way We Use Information:</h2>
             <p>We use the information you provide about yourself sending us request for online service quote for web design, web development &amp; internet marketing services or contacting us for any other information through contact us page or call back page to provide us your name, phone number and reason of contact. We do not share this information with outside parties except to the extent necessary to discuss more about your project.</p>
             
             <p>We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.</p>
@@ -1084,21 +1332,21 @@ the entire redesign. <span>© 2007 MediaMonks</span></p>
             <p>Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
             
              
-          <a name="commitment-data-security">  <h2>Our Commitment To Data Security</h2></a>
+          <h2>Our Commitment To Data Security</h2>
             <p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p>
             
-           <a name="commitment-children-privacy ">  <h2>Our Commitment To Children's Privacy: </h2></a>
+           <h2>Our Commitment To Children's Privacy: </h2>
             <p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 </p>
             
-             <a name="how-access-correct-information"><h2>How You Can Access Or Correct Your Information</h2></a>
+             <h2>How You Can Access Or Correct Your Information</h2>
             <p>You can access all your personally identifiable information that we collect online and maintain by email us at info@bitwords.com. We use this procedure to better safeguard your information.</p>
             
              <p>You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. </p>
              
               <p>To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.</p>
             
-            <a name="contact-us"> <h2>How to Contact Us</h2></a>
+            <h2>How to Contact Us</h2>
             <p>Should you have other questions or concerns about these privacy policies, please call us at 800 223 1891 or send us an email at info@bitwords.com. </p>
 </div>
 
@@ -1151,88 +1399,9 @@ function MM_swapImage() { //v3.0
 }
 //-->
 </script>
-
-
-<div class="footer"><div class="bottom-main-01">
-  <div class="bottom-main-01">
-        	<div class=" bottom-main-02">
-            
-            <div class="bottom-nav">
-            <h1><a href="web-design-services.php">Web Design</a></h1>
-			<ul>
-            <li><a href="custom-web-design.php" class="topline">Custom Web Design</a></li>
-			<li><a href="corporate-web-design.php">Corporate Web Design</a> </li>
-			<li><a href="flash-website-design.php">Flash Website Design</a></li>
-			<li><a href="website-redesign-services.php">Website Redesign Services</a></li>
-			<li><a href="cms-web-design.php">CMS Web Design</a></li>
-   			<li><a href="ecommerce-web-design.php">Ecommerce Web Design</a></li>
-			<li><a href="print-identity-design.php">Branding &amp; Print Media</a></li>
-			</ul>
-            </div>
-            
-            <div class="bottom-nav">
-            <h1><a href="web-development-services.php">Web development</a></h1>
-			<ul>
-             <li><a href="custom-web-development-services.php" class="topline">Custom Web Development</a></li>
-			<li><a href="ecommerce-web-development-services.php" class="topline">ECommerce Web Development</a></li>
-			<li><a href="web-application-development.php">Web Application Development</a></li>
-			<li><a href="website-maintenance-upgrade.php">Website Maintenance</a></li>
-			</ul>            
-            </div>
-            
-            <div class="bottom-nav">
-            <h1><a href="ecommerce-web-design.php">Ecommerce</a></h1>
-			  <ul>
-				<li><a href="shopping-cart-design.php" class="topline">Shopping Cart Design</a></li>
-				<li><a href="flash-shopping-cart.php">Flash Shopping Cart</a></li>
-				<li><a href="yahoo-ebay-store-design.php">Yahoo &amp; Ebay Design</a> </li>
-                <li><a href="creditcard-processing.php">Credit Card Processing Services</a> </li>
-				</ul>            
-            </div>
-             <div class="bottom-nav">
-            <h1><a href="internet-marketing-services.php">Internet Marketing</a></h1>
-			   <ul>
-			<li><a href="seo-services.php" class="topline">SEO Services</a></li>
-			<li><a href="ppc-management-services.php">PPC Management</a></li>
-			<li><a href="affiliate-marketing-services.php">Affiliate Marketing	</a></li>
-			<li><a href="email-marketing-services.php">Email Marketing</a></li>
-			<li><a href="social-media-marketing.php">Social Media Marketing</a></li>
-			</ul>            
-            </div>
-				
-             <div class="bb-logo" style="margin-bottom:5px;"><a href="https://www.bbb.org/online/consumer/cks.aspx?id=1091028105024"><img src="images/bbb_logo.png"></a></div>
-
-
-            <div class="bb-logo"><a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('made in usa','','images/made-in-usa.png',1)"><img src="images/made-in-usa-bw.png" alt="made in USA" name="made in usa" width="60" height="62" border="0" id="made in usa"></a><br>
-Made in USA</div>
-             
-             <div class="clr"></div>
-             
-             <div class="bottom-nav-02 ">
-			 
-			
-			 Copyrights © 2011 <a href="http://www.bitwords.com/" style="line-height: 21px; padding:0px;">Bitwords Media</a> Group LLC A <a href="http://www.bitwords.com/" style="line-height: 21px; padding:0px;" <a="">New York Web Design Company</a>. 896 Bay Ridge Avenue, New York 11220. All Rights Reserved.<br>  
-			 <a href="privacy-policy.php" style="font-weight:normal">Privacy Policy</a> |   <a href="http://www.bitwords.com/linkpartners.php" style="font-weight:normal">Link Partners</a> |  <a href="sitemap.php" style="font-weight:normal">Sitemap</a> |  <a href="contactus.php" style="font-weight:normal">Contact Us</a></div>
-
-			<div class="clr"></div>
-<!--<span style="float:right; "><table width="100%" border="0" cellspacing="3" cellpadding="10">
-  <tr>
-    <td align="left"><b>Other Sites:</b></td>
-    <td align="left"></td>
-    <td align="left"><a href="http://www.comparizon.com/" >Price Comparison Shopping</a></td>
-    <td align="left"></td>
-    <td align="left"><a href="http://www.bit-cart.com/" >Bitcart Shopping Cart Software</a></td>
-  </tr>
-</table></span>-->
-
-          </div>
-        </div></div></div>
-
-<div class="clr"></div>
-
-					<script type="text/javascript">
-	var menu=new menu.dd("menu");
-	menu.init("menu","menuhover");
+<script type="text/javascript">
+	//var menu=new menu.dd("menu");
+	//menu.init("menu","menuhover");
 </script>
 
 <script type="text/javascript">
@@ -1252,12 +1421,91 @@ var sc_invisible=1;
 var sc_security="c2d1a339";
 </script>
 
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript><div
 class="statcounter"><a title="customizable counter"
 href="http://www.statcounter.com/free_hit_counter.html"
 target="_blank"><img class="statcounter"
 src="http://c.statcounter.com/4714766/0/c2d1a339/1/"
 alt="customizable counter" ></a></div></noscript>
+<div class="footer"><div class="bottom-main-01">
+  <div class="bottom-main-01">
+        	<div class=" bottom-main-02">
+
+            <div class="bottom-nav">
+            <h2>Latest at Bitwords</h2><br>
+<p>
+1- Bitwords, offering free web design quotes</p>
+
+<p>2- Bitwords celebrates 8 years of success</p>
+
+<p>3- Bitwords Media is hiring professionals for<br>
+ New York office:  E-mail: info@bitwords.com</p>
+ <p class="fr"><a href="news-detail.php" style="margin-right:100px; margin-top:10px; display:block; color:#fff;">Read More...</a></p>
+
+            </div>
+
+            <div class="bottom-nav" style=" margin-right: 79px;width: 330px;">
+            <h2>Our Location
+</h2><br>
+<div style="border:1px solid #333; width:100px; float:right;">  <iframe width="100" height="100" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=898+Bay+Ridge+Avenue,+New+York,+NY+11220,+United+States&amp;aq=0&amp;sll=40.629017,-74.012722&amp;sspn=0.009511,0.022724&amp;ie=UTF8&amp;hq=&amp;hnear=898+Bay+Ridge+Ave,+Brooklyn,+Kings,+New+York+11220&amp;z=14&amp;ll=40.629017,-74.012722&amp;output=embed"></iframe><br><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=898+Bay+Ridge+Avenue,+New+York,+NY+11220,+United+States&amp;aq=0&amp;sll=40.629017,-74.012722&amp;sspn=0.009511,0.022724&amp;ie=UTF8&amp;hq=&amp;hnear=898+Bay+Ridge+Ave,+Brooklyn,+Kings,+New+York+11220&amp;z=14&amp;ll=40.629017,-74.012722" style="color:#fff;text-align:left">View Larger Map</a></small></div><p>
+
+Bitwords Media LLC.<br>
+
+896 Bay Ridge Avenue, New York<br>
+
+NY, 11220, U.S.A<br>
+
+
+Toll Free: 800 223 1891<br>
+
+Fax: 718 238 1722<br>
+
+E-mail: info@bitwords.com</p>
+
+            </div>
+
+
+
+             <div class="bb-logo" style="margin-bottom:5px;"><img src="images/bbb_logo.png"></div>
+
+
+            <div class="bb-logo"><a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('made in usa','','images/made-in-usa.png',1)"><img src="images/made-in-usa-bw.png" alt="made in USA" name="made in usa" width="60" height="62" border="0" id="made in usa"></a><br>
+Made in USA</div>
+
+             <div class="clr"></div>
+
+             <div class="bottom-nav-02 ">
+
+
+			 Copyrights © 2013 <a href="http://www.bitwords.com/" style="line-height: 21px; padding:0px;">Bitwords Media</a> Group LLC  <a href="http://www.bitwords.com/" style="line-height: 21px; padding:0px;"> New York Design, Development &amp; Digital Marketing Company</a>. All Rights Reserved.<br>
+			 <a href="privacy-policy.php" style="font-weight:normal">Privacy Policy</a> |   <a href="http://www.bitwords.com/linkpartners.php" style="font-weight:normal">Link Partners</a> |  <a href="sitemap.php" style="font-weight:normal">Sitemap</a> |  <a href="contactus.php" style="font-weight:normal">Contact Us</a></div>
+
+			<div class="clr"></div>
+            <div class="bottom-nav-02 socialNet ">
+              <div class="facelike">
+                <div class="fb-like" data-href="https://www.facebook.com/BitwordsMediallc" data-send="true" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+              </div>
+	<div class="linkdin">		 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/FollowCompany" data-id="279068" data-counter="right"></script>
+</div>
+	<div class="icoGoogleplus"><a href="https://plus.google.com/117676830471601260151/about" target="_blank"><img src="images/icoGooglePlus.png" alt="Bitwords google Plus Profile" width="36" height="33"></a></div>
+
+			</div>
+<!--<span style="float:right; "><table width="100%" border="0" cellspacing="3" cellpadding="10">
+  <tr>
+    <td align="left"><b>Other Sites:</b></td>
+    <td align="left"></td>
+    <td align="left"><a href="http://www.comparizon.com/" >Price Comparison Shopping</a></td>
+    <td align="left"></td>
+    <td align="left"><a href="http://www.bit-cart.com/" >Bitcart Shopping Cart Software</a></td>
+  </tr>
+</table></span>-->
+
+          </div>
+        </div></div></div>
+
+<div class="clr"></div>
 <!-- End of StatCounter Code -->
 
 <div class="tt_night-tip" style="position: absolute; top: 0px; left: 0px; visibility: hidden;"><div></div></div><div class="tt_day-tip" style="position: absolute; top: 0px; left: 0px; visibility: hidden;"><div></div></div><div class="tt_sunrise-tip" style="position: absolute; top: 0px; left: 0px; visibility: hidden;"><div></div></div><div class="tt_desc-tip" style="position: absolute; top: 0px; left: 0px; visibility: hidden;"><div></div></div></body></html>
