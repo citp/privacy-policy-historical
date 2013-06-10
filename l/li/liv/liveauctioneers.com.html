@@ -1,62 +1,68 @@
-<!--The following is the downloaded HTML source of the liveauctioneers.com privacy policy that was archived on 2012-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121103164823id_/http%3A//www.liveauctioneers.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the liveauctioneers.com privacy policy that was archived on 2013-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610054155id_/http%3A//www.liveauctioneers.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 		<title>LiveAuctioneers Privacy Policy - Live Auctioneers</title>
-	<meta name="description" content="Find online auctions from around the world at Live Auctioneers. Bid on collectibles, antiques, jewelry and art auctions. Is your auction company looking for online bidding to complement your existing business model? Become a Live Auctioneer.">
+	<meta name="description" content="Get in on the auction -- bid LIVE online on art, antiques, jewelry and collectibles. Find online auctions from around the world at Live Auctioneers.">
     
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-
-		<link type="text/css" rel="stylesheet" href="http://d27tmkty7egoi9.cloudfront.net/styles/v25/styles.css">
-    <link rel="stylesheet" type="text/css" href="http://d27tmkty7egoi9.cloudfront.net/scripts/v22/facebox/facebox.css" media="screen">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://d27tmkty7egoi9.cloudfront.net/fullcal/v22/jquery/jquery-1.7.2.js"></script>
-    <script type="text/javascript" src="http://d27tmkty7egoi9.cloudfront.net/scripts/v23/lbox/js/jquery.lightbox.js"></script> 
-    <script type="text/javascript" src="http://d27tmkty7egoi9.cloudfront.net/scripts/v22/facebox/facebox.js"></script> 
-    <script type="text/javascript" src="http://d27tmkty7egoi9.cloudfront.net/scripts/v22/la.js"></script>
-    <script type="text/javascript" src="/_o/bubble/BubbleTooltips.js"></script>  
         
-    <meta property="fb:app_id" content="143214215739939">
+        <link rel="STYLESHEET" type="text/css" href="http://d1zcdlqocabcs9.cloudfront.net/css/v3/popup-contact.css">
+        <link rel="STYLESHEET" type="text/css" href="http://d1zcdlqocabcs9.cloudfront.net/scripts/v24/facebox/facebox.css">
+        <link rel="shortcut icon" href="http://www.liveauctioneers.com/live_design/images/favicon.png">
+                
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://d1zcdlqocabcs9.cloudfront.net/live_scripts/v3/jquery-1.7.2.min.js"></script>
+        <script type="text/javascript" src="http://d1zcdlqocabcs9.cloudfront.net/scripts/v24/la.js"></script>
+        <script type="text/javascript" src="http://d1zcdlqocabcs9.cloudfront.net/scripts/v25/facebox/facebox.js"></script>
+        <script type="text/javascript" src="http://d1zcdlqocabcs9.cloudfront.net/live_scripts/v3/jquery.placeholder.min.js"></script>
+        <script type="text/javascript" src="http://d1zcdlqocabcs9.cloudfront.net/live_scripts/v6/scripts.js"></script>
+        <script type="text/javascript" src="http://d1zcdlqocabcs9.cloudfront.net/scripts/v34/lib/pv2/main.js"></script>
+        <script type="text/javascript" src="http://www.liveauctioneers.com/scripts/lib/pv2/constants.js"></script>
+        <script type="text/javascript" src="http://snapabug.appspot.com/snapabug.js"></script>
+        
+        
+                <link type="text/css" rel="stylesheet" href="http://d1zcdlqocabcs9.cloudfront.net/live_styles/v47/live_styles.css">
+                
+                <meta property="fb:app_id" content="143214215739939">
+        
+            
+    <script type="text/javascript">
+        
+    // <![CDATA[
+
+        jQuery(document).ready(function($) {
+                                $('a[rel*=facebox]').facebox();
+                    
+                   //disgraceful hack of a fix, but this was the only way I could get facebox to stop from actually linking
+                   $('a[rel*=facebox]').each(function(){ 
+                       $(this).attr("ref", this.href)
+                   });
+                   $('a[rel*=facebox]').attr('href',"javascript:void(0);");
+                                if( location.search.indexOf('openlogin=1') > -1 ) {
+                                    $('#loginid').trigger('click');
+                            }
+                    
+            if ($('.placeholder').length > 0) {
+                                    $('.placeholder').css('color', '#009ddb');
+                            }
+            })
+    // ]]>
     
-
-<!--[if lte IE 6]>
-      <link type="text/css" rel="stylesheet" href="http://d27tmkty7egoi9.cloudfront.net/styles/v22/styles_ie6.css"  /> 
-      <link type="text/css" rel="stylesheet" href="http://d27tmkty7egoi9.cloudfront.net/styles/v22/other_ie6.css"  />
-<![endif]-->
-
-
-
-
-<script type="text/javascript">
-// <![CDATA[
-    jQuery(document).ready(function($) {
-    	       	
-		$('a[rel*=facebox]').facebox();
-       	       		if( location.search.indexOf('openlogin=1') > -1 ) {
-				$('#loginid').trigger('click');
-			}
-		        $("li#profile").mouseout(function(){
-            $(this).find(".dropdown").css("display","none");
-            //$("li#profile .dropdown").css("display","none")
-        });
-        $("li#profile").mouseover(function(){
-            $("li#profile .dropdown").css("display","block");
-        });
-        $("li#profile a").click(function(){
-            if($("li#profile .dropdown").css("display") == "block" ){
-                location.href = "/profile";
-            }
-            else {
-                $("li#profile .dropdown").css("display","block");
-            }
-        });
-        })
-// ]]>
-</script>
-
-
-<script type="text/javascript">
+    
+    </script>
+        
+    <style type="text/css">
+        .placeholder {
+            color: #009ddb;
+        }
+    </style>
+    
+                <script type="text/javascript">
 // <![CDATA[
   var _gaq = _gaq || [];
+  var pluginUrl = 
+	 '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+	_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
   _gaq.push(['_setAccount', 'UA-30920-1']);
   _gaq.push(['_setDomainName', '.liveauctioneers.com']);
   _gaq.push(['_trackPageview']);
@@ -70,193 +76,476 @@
 // ]]>
 </script>
 
-</head>
-<body class="pmclear item listing">
+    </head>
 
-<div><a id="getUsernameLink" href="/nlogin/success2.html" style="display:none;" rel="facebox, nofollow"></a></div>
-<div id="wrapper" class="wrapperCC">
-	<div id="header" class="headerCC">
-		<div id="logo">
-		   <a href="/"><img src="http://d27tmkty7egoi9.cloudfront.net/static/images/v22/liveauctioneers.gif" id="logo-img" width="294" height="83" alt="Live Auctioneers online auctions"></a>
-		</div>
-		<ul id="toprightnav">
-		   <li><a href="/browse">Browse</a></li>
-		   <li><a href="/about.html">About</a></li>
-		   <li><a href="http://acn.liveauctioneers.com">News</a></li>
-		   <li><a href="/help/bidders/">Help</a></li>
-	           <li class="last smapspace"><a href="/sitemap.html">Site Map</a></li>
- 
-           <li class="last morelive1">
-           		<img src="http://d27tmkty7egoi9.cloudfront.net/static/images/liveperson/reponline.gif" name="hcIcon" style="border:0px;" alt="" onclick="SnapABug.initAsync('333752fd-6349-4e52-91e0-0d6d55fb71a9');SnapABug.allowScreenshot(false);SnapABug.setUserEmail('');SnapABug.startLink();">
-           </li>
-          
-		</ul>
-		<ul id="loggedinnav">
+<body id="body_header">
+<div id="overDiv" style="position:absolute;visibility:hidden;z-index:1000;"></div>
+<div class="header-shadow"></div>
+<!--WRAPPER-->
+<div class="wrapper">
+<div class="header-nav">
+  <div class="logo_container"><a href="http://www.liveauctioneers.com/"><img src="http://d1zcdlqocabcs9.cloudfront.net/live_design/images/trans.png" alt="Live Auctioneers online auctions" class="sprites logo"></a></div>
+  <div class="header-menu">
+    <ul class="nav">
+      <li><a href="http://www.liveauctioneers.com/">Home</a></li>
+      <li class="about"><a href="#" id="_about">About</a></li>
+      <li class="news"><a href="#">News</a></li>
+      <li class="help last"><a href="#">Help</a></li>
+    </ul>
+    <div id="about-dropd" class="nav-dropdown l245">
+      <ul>
+        <li><a href="http://www.liveauctioneers.com/about.html">About Us</a></li>
+        <li><a href="http://www.liveauctioneers.com/team.html">Team</a></li>
+        <li class="last"><a href="http://www.liveauctioneers.com/careers.html">Careers</a></li>
+      </ul>
+    </div>
+    <div id="news-dropd" class="nav-dropdown l305">
+      <ul>
+        <li><a href="http://auctioncentralnews.com/" rel="nofollow">Auction News</a></li>
+        <li class="last"><a href="http://www.liveauctioneers.com/pr/liveauctioneers_press.html">Company Press</a></li>
+      </ul>
+    </div>
+    <div id="help-dropd" class="nav-dropdown l360">
+      <ul>
+        <li><a href="http://www.liveauctioneers.com/help/bidders/">FAQs</a></li>
+                <li><a href="#" onclick="SnapABug.initAsync('333752fd-6349-4e52-91e0-0d6d55fb71a9');SnapABug.allowScreenshot(false);SnapABug.setUserEmail('');SnapABug.startLink();">Live Help</a></li>
+        <li class="last"><a href="http://www.liveauctioneers.com/contact.html">Contact Us</a></li>
+      </ul>
+    </div>
+  </div>
+  
+  <div class="fr cedemi cblue fs13">
+    
+        <a class="btn_click" rel="facebox" href="http://www.liveauctioneers.com/nlogin/login/?from=hp"><div class="fl sprites header-nav-btn tc pointer opac-1 ">Sign In</div></a>
+                <a class="btn_click" href="http://www.liveauctioneers.com/sign-up"><div class="fl sprites header-nav-btn tc pointer opac-1 ml3 ">Create Account</div></a>
+                <script type="text/javascript">var latb_loggedin=false;</script>
+                  
+  </div>
+</div>
 
-                                    <li class="last"><a id="loginid" href="/nlogin/login/" rel="facebox, nofollow"><strong>Sign In</strong></a>
-                      or <a rel="nofollow" id="createid" href="/signup/initial">Create Account</a></li>
-                                </ul>
-         
-                     <script type="text/javascript">var latb_loggedin=false;</script>
-         
-	<div id="search" class="searchCC">
-		<form action="/search" method="get">
-			<p>
-				<input type="text" name="q" id="searchbox">
-				<input type="hidden" name="org" value="yes">
-				<span id="search-header-action">
-				<input type="submit" value="Search">
-				</span>
-			</p>
-
-		</form>
-	</div>
+<!--ACTION-->
+<div class="clear tc cedemi">
+  <a rel="nofollow" href="https://www.liveauctioneers.com/login/" class="a_decor">
+      <div class="fl sprites action-btn cwhite pointer">
+        <div class="headertab">BIDDERS</div>
+        <div id="bidder_tab" class="sprites action-btn-selected dis_none"></div>
+      </div></a>
+  <a rel="nofollow" href="http://www.liveauctioneers.com/auctioneers/" class="a_decor"><div class="fl sprites action-btn cwhite pointer prelative z9 ml-1 "><div class="headertab">SELLERS</div><div id="auctioneer_tab" class="sprites action-btn-selected dis_none"></div></div></a>
+    <div class="fl sprites search-bg prelative z9 ml-1 tl">
+      <div class="prelative z99">
+    <form class="fl" id="frm_search" method="get" action="/search">
+                <div class="prelative z9 tl">
+    <div class="fl sprites search-bar-left_blue" style="">
+        <div class="fr pointer sprites search-bar-right" onclick="$(this).parents('form').submit();"><div align="center" style="color:white; margin-top: 7px; font-size: 12px; font-weight: bold;">GO</div></div>
+        <input type="text" class="search cdgray ml15 jqtransformdone" id="" name="q" value="" placeholder="Search for items">
+    </div>
+</div>            </form>
+    </div>
+    <div class="sprites action-btn-search-selected dis_none searchbar_tab"></div>
+  </div>
+    </div>
+<!--//ACTION-->
 
 </div>
-<div class="textcenter">   <a href="http://www.liveauctioneers.com/catalog/34108_mid-century-modern-and-antiques/page1?utm_source=Banners&amp;utm_medium=banners&amp;utm_campaign=Banners&amp;utm_content=Mod Avenue 1219"><img alt="Auction Banner" style="border: 5px solid lightgrey;" src="http://d3sbm51utxzt5m.cloudfront.net/banners/d153bf991808590b2d154de1e2745bb8.jpg"></a>
-</div><br><div id="content" class="contentCC"><div id="mainstatic" class="mainstaticCC">
-				<h1>LiveAuctioneers Privacy Policy</h1>				
-		        <h3>Our Commitment To Privacy</h3>
-		        <p> LiveAuctioneers is committed to maintaining user privacy on the Live Auctioneers' website at www.liveauctioneers.com (the “Site”). Our Private Policy governs use of personal information provided to us through the use of the Site. By accessing the Site you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree to its terms and conditions, you should not use or access our Site. </p>
-		        <p> By accepting the Privacy Policy, you expressly consent to our use and disclosure of your personal information in accordance with the policy. The Privacy Policy is incorporated into and subject to the terms of any agreement you sign with LiveAuctioneers and becomes applicable upon our acceptance of you as a registered user. </p>
-		        <p> If you have any additional questions about our Privacy Policy, please feel free to contact us at <a href="mailto:info@liveauctioneers.com">info@liveauctioneers.com</a></p>
-		        <h3>Use of Our Site by Children</h3>
-		        <p> Children (persons under the age of 18) are not eligible to use the Site unsupervised and we ask that children do not submit any personal information. If you are under the age of 18, you may only use this Site in conjunction with and under the supervision of parents or guardians. </p>
-		        <h3>Information We Collect</h3>
-		        <p> If you choose to use our services, we may require that you provide contact and identity information, billing information, shipping information, as well as other personal information as indicated on the forms throughout the Site. Where possible, we indicate fields that are required and those that are optional. You are not required to provide information if you choose not to use a particular service or feature. Please be advised that we may use your financial information, including credit card information, to verify the accuracy of your name, address, and other personal information, as well as to bill you for use of our services. </p>
-		        <p> Certain information is automatically tracked based on your activity on the Site. We use this information for internal research on user demographics, interests, and behavior so as to better understand, protect and serve you and our community. This information may include the URL that you previously visited (whether this URL is on the Site or not), the subsequent URL you visited (whether this URL is on the Site or not), your computer browser information, and your IP address. </p>
-		        <p> We may collect browser and Internet-related information through access to our Site, via cookies, and/or web beacons. If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence regarding your activities or postings on the Site, we may accumulate such information into a file specific to you. </p>
-		        <h3>Our Use of Your Information</h3>
-		        <p> We use your personal information to facilitate the services you personally request. Your contact information and bidding history will be passed onto the Auction Companies during the auction sign-up process for them to make a decision whether you are able to bid in their auction. We also use your personal file information and activity information to: resolve disputes; troubleshoot problems; collect fees owed; measure consumer interest in our products and services; inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce applicable agreements; and as otherwise described to you at the time of collection. </p>
-		        <p> Providing us with your personal information indicates that you agree to our use of any personal information to improve our marketing and promotional efforts, to analyze Site usage, improve our content and product offerings, and customize the Site's content, layout, and services. In turn, we are able to improve the Site and better tailor it to meet your needs, providing you with a smooth, efficient, safe and customized experience. </p>
-		        <p> We also reserve the right to use your information to make contact and deliver information that, in some cases, is targeted to your interests. Examples include targeted banner advertisements, administrative notices, product offerings, and communication relevant to your use of the Site. By accepting this Privacy Policy, you expressly agree to receive this information, however, you may contact us at <a href="mailto:info@liveauctioneers.com">info@liveauctioneers.com</a> should you wish to cease receipt of such information. </p>
-		        <h3>Our Disclosure of Your Information</h3>
-		        <p> While we use your information to provide you with access to our site and services, we also use your information to contact you regarding our services, offerings, or information you may have requested. We use your information to improve and personalize our Site so as to make it easier, safer, and quicker to use. </p>
-		        <p> Due to the existing regulatory environment, we cannot ensure that all of your private communication and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced under certain circumstances to disclose personal information to the government or third parties, unaffiliated parties may unlawfully intercept or access transmissions or private communication, or users may abuse or misuse your personal information collected from the Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communication will always remain completely private. </p>
-		        <h3>Security</h3>
-		        <p> We store your information in the United States. In order to prevent unauthorized access, maintain data accuracy, and ensure appropriate use of information, we use industry-leading technical and administrative practices and procedures that safeguard and secure your information. </p>
-		        <h3>Notice</h3>
-		        <p> We may occasionally choose to amend this Privacy Policy to better reflect our use and protection of your information. In the event of revision, all terms shall become effective within 15 days of initial posting to the Site. </p>
-		        </div>
-<div id="side1">
-<div id="side2"><div id="side3">
-   <h2>Hot live items</h2>
-   <ul class="pmclear">
-               <li>
-            <a href="http://www.liveauctioneers.com/item/13663040_antique-carved-ivory-okimono" class="item-details-pu" title="220: ANTIQUE CARVED IVORY OKIMONO" id="lot-13663040"><img src="http://p1.la-img.com/1392/33646/13663040_1_c.jpg" alt="220: ANTIQUE CARVED IVORY OKIMONO"></a>
-            <a href="http://www.liveauctioneers.com/item/13663040_antique-carved-ivory-okimono" class="title-link">ANTIQUE CARVED IVORY..</a>       
-         </li>
-               <li>
-            <a href="http://www.liveauctioneers.com/item/13867722_reginaphone-music-box-in-oak-case-sn-2500101-las" class="item-details-pu" title="227: REGINAPHONE MUSIC BOX IN OAK CASE, SN 2500101. LAS" id="lot-13867722"><img src="http://p1.la-img.com/835/34030/13867722_1_c.jpg" alt="227: REGINAPHONE MUSIC BOX IN OAK CASE, SN 2500101. LAS"></a>
-            <a href="http://www.liveauctioneers.com/item/13867722_reginaphone-music-box-in-oak-case-sn-2500101-las" class="title-link">REGINAPHONE MUSIC BO..</a>       
-         </li>
-               <li>
-            <a href="http://www.liveauctioneers.com/item/13894960_a-meissen-figural-german-porcelain-group" class="item-details-pu" title="602: A MEISSEN FIGURAL GERMAN PORCELAIN GROUP" id="lot-13894960"><img src="http://p1.la-img.com/241/33782/13894960_1_c.jpg" alt="602: A MEISSEN FIGURAL GERMAN PORCELAIN GROUP"></a>
-            <a href="http://www.liveauctioneers.com/item/13894960_a-meissen-figural-german-porcelain-group" class="title-link">A MEISSEN FIGURAL GE..</a>       
-         </li>
-               <li>
-            <a href="http://www.liveauctioneers.com/item/13880708_china-kiangnan-1897-dollar-silver-pcgs-vf-details" class="item-details-pu" title="148: CHINA-KIANGNAN 1897 Dollar Silver PCGS VF Details" id="lot-13880708"><img src="http://p1.la-img.com/971/33706/13880708_1_c.jpg" alt="148: CHINA-KIANGNAN 1897 Dollar Silver PCGS VF Details"></a>
-            <a href="http://www.liveauctioneers.com/item/13880708_china-kiangnan-1897-dollar-silver-pcgs-vf-details" class="title-link">CHINA-KIANGNAN 1897 ..</a>       
-         </li>
-               <li>
-            <a href="http://www.liveauctioneers.com/item/13768074_a-victorian-lacquered-brass-monocular-microscope" class="item-details-pu" title="281: A Victorian lacquered brass monocular microscope, " id="lot-13768074"><img src="http://p1.la-img.com/1129/33860/13768074_1_c.jpg" alt="281: A Victorian lacquered brass monocular microscope, "></a>
-            <a href="http://www.liveauctioneers.com/item/13768074_a-victorian-lacquered-brass-monocular-microscope" class="title-link">A Victorian lacquere..</a>       
-         </li>
-               <li>
-            <a href="http://www.liveauctioneers.com/item/13832902_aquarius-zodiac-lithograph-by-erte-signed-in-penci" class="item-details-pu" title="25A: Aquarius Zodiac Lithograph by Erte signed in penci" id="lot-13832902"><img src="http://p1.la-img.com/1265/33986/13832902_1_c.jpg" alt="25A: Aquarius Zodiac Lithograph by Erte signed in penci"></a>
-            <a href="http://www.liveauctioneers.com/item/13832902_aquarius-zodiac-lithograph-by-erte-signed-in-penci" class="title-link">Aquarius Zodiac Lith..</a>       
-         </li>
-               <li>
-            <a href="http://www.liveauctioneers.com/item/13894944_lalique-glass-vases-ashtray-and-pitcher" class="item-details-pu" title="594: LALIQUE GLASS, VASES, ASHTRAY AND PITCHER" id="lot-13894944"><img src="http://p1.la-img.com/241/33782/13894944_1_c.jpg" alt="594: LALIQUE GLASS, VASES, ASHTRAY AND PITCHER"></a>
-            <a href="http://www.liveauctioneers.com/item/13894944_lalique-glass-vases-ashtray-and-pitcher" class="title-link">LALIQUE GLASS, VASES..</a>       
-         </li>
-      
-   </ul>
-</div></div></div></div>
-       <div style="text-align:center; margin: 8px 0px 30px;">
-            <a href="http://acn.liveauctioneers.com"><img src="http://d27tmkty7egoi9.cloudfront.net/static/images/banners/auction-news-banner.gif" alt="Latest Auction News" style="width:468px; height:60px; border:0px;"></a>
-       </div>
+<!--//WRAPPER-->    
+<div class="clear"></div>
 
-<div id="footer" class="footerCC">
- <table width="100%" border="0" class="pmclear">
-  <tbody><tr>
-    <td style="width:33%; background-color: #e6e6e6;" valign="top">
-      <div style="text-align:left;" class="footersubhead"><b>For Bidders</b></div>
-      <div style="text-align:left;" class="footersubunder">
-        <p class="pmclear">
-          <a href="/nlogin/login/" rel="facebox">auction login</a><br>          <a href="/search">search</a><br>
-          <a href="/all-live-auctions">all auctions</a><br>
-          <a href="/suggestion">send us your suggestions</a><br>
-          <a href="/terminology.html">auction terms</a><br>
-          <a href="/bidder_features.html">bidder features</a><br>
-          <a href="/consignments/">consign items to auction</a><br>
-         </p> 
-         <br> 
-      </div>
-    </td>
-    <td style="width:4; background-color: #e6e6e6;">&nbsp;</td> 
-    <td style="width:33%; background-color: #e6e6e6;" valign="top">
-     <div style="text-align:left;" class="footersubhead"><b>For Auctioneers</b></div>
-      <div style="text-align:left;" class="footersubunder">
-         <p class="pmclear">
-          <a href="/features.html">services &amp; features</a><br>
-          <a href="/auction_results.html">archived database</a><br>
-          <a href="/prservices.html">liveauctioneers pr services</a> <br>
-          <a href="/auctioneersetup/platform.html">become a live auctioneer</a> <br>
-          <a href="/testimonials.html">auctioneer testimonials</a><br>
-          <a href="/auctioneers/" rel="nofollow">auction house login</a>
-         </p>  
-         <br> 
+<div class="clear"></div>
+<div class="body-content">
+	<!--WRAPPER-->
+    <div class="wrapper">
+  	<div class="clear"></div>
+        <!--LEFT CONTENT-->
+        <div class="left-content article_body">
+            <div class="article_title">LiveAuctioneers Privacy Policy</div>
+            <div class="rest_of_article">
+                 <div class="main_body">
+					                    <h5 class="cdgray cedemi">Our Commitment To Privacy</h5>
+                    <p class="pt10"> LiveAuctioneers is committed to maintaining user privacy on the Live Auctioneers' website at www.liveauctioneers.com (the “Site”). Our Private Policy governs use of personal information provided to us through the use of the Site. By accessing the Site you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree to its terms and conditions, you should not use or access our Site. </p>
+                    <p class="pt10"> By accepting the Privacy Policy, you expressly consent to our use and disclosure of your personal information in accordance with the policy. The Privacy Policy is incorporated into and subject to the terms of any agreement you sign with LiveAuctioneers and becomes applicable upon our acceptance of you as a registered user. </p>
+                    <p class="pt10"> If you have any additional questions about our Privacy Policy, please feel free to contact us at <a class="btn_click" href="mailto:info@liveauctioneers.com"><span class="cblue">info@liveauctioneers.com</span></a></p>
+                    
+                    <h5 class="pt40 cdgray cedemi">Use of Our Site by Children</h5>
+                    <p class="pt10"> Children (persons under the age of 18) are not eligible to use the Site unsupervised and we ask that children do not submit any personal information. If you are under the age of 18, you may only use this Site in conjunction with and under the supervision of parents or guardians. </p>
+                    
+                    <h5 class="pt40 cdgray cedemi">Information We Collect</h5>
+                    <p class="pt10"> If you choose to use our services, we may require that you provide contact and identity information, billing information, shipping information, as well as other personal information as indicated on the forms throughout the Site. Where possible, we indicate fields that are required and those that are optional. You are not required to provide information if you choose not to use a particular service or feature. Please be advised that we may use your financial information, including credit card information, to verify the accuracy of your name, address, and other personal information, as well as to bill you for use of our services. </p>
+                    <p class="pt10"> Certain information is automatically tracked based on your activity on the Site. We use this information for internal research on user demographics, interests, and behavior so as to better understand, protect and serve you and our community. This information may include the URL that you previously visited (whether this URL is on the Site or not), the subsequent URL you visited (whether this URL is on the Site or not), your computer browser information, and your IP address. </p>
+                    <p class="pt10"> We may collect browser and Internet-related information through access to our Site, via cookies, and/or web beacons. If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence regarding your activities or postings on the Site, we may accumulate such information into a file specific to you. </p>
+                    
+                    <h5 class="pt40 cdgray cedemi">Our Use of Your Information</h5>
+                    <p class="pt10"> We use your personal information to facilitate the services you personally request. Your contact information and bidding history will be passed onto the Auction Companies during the auction sign-up process for them to make a decision whether you are able to bid in their auction. We also use your personal file information and activity information to: resolve disputes; troubleshoot problems; collect fees owed; measure consumer interest in our products and services; inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce applicable agreements; and as otherwise described to you at the time of collection. </p>
+                    <p class="pt10"> Providing us with your personal information indicates that you agree to our use of any personal information to improve our marketing and promotional efforts, to analyze Site usage, improve our content and product offerings, and customize the Site's content, layout, and services. In turn, we are able to improve the Site and better tailor it to meet your needs, providing you with a smooth, efficient, safe and customized experience. </p>
+                    <p class="pt10"> We also reserve the right to use your information to make contact and deliver information that, in some cases, is targeted to your interests. Examples include targeted banner advertisements, administrative notices, product offerings, and communication relevant to your use of the Site. By accepting this Privacy Policy, you expressly agree to receive this information, however, you may contact us at <a class="btn_click" href="mailto:info@liveauctioneers.com"><span class="cblue">info@liveauctioneers.com</span></a> should you wish to cease receipt of such information. </p>
+                    
+                    <h5 class="pt40 cdgray cedemi">Our Disclosure of Your Information</h5>
+                    <p class="pt10"> While we use your information to provide you with access to our site and services, we also use your information to contact you regarding our services, offerings, or information you may have requested. We use your information to improve and personalize our Site so as to make it easier, safer, and quicker to use. </p>
+                    <p class="pt10"> Due to the existing regulatory environment, we cannot ensure that all of your private communication and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced under certain circumstances to disclose personal information to the government or third parties, unaffiliated parties may unlawfully intercept or access transmissions or private communication, or users may abuse or misuse your personal information collected from the Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communication will always remain completely private. </p>
+                    
+                    <h5 class="pt40 cdgray cedemi">Security</h5>
+                    <p class="pt10"> We store your information in the United States. In order to prevent unauthorized access, maintain data accuracy, and ensure appropriate use of information, we use industry-leading technical and administrative practices and procedures that safeguard and secure your information. </p>
+                    
+                    <h5 class="pt40 cdgray cedemi">Notice</h5>
+                    <p class="pt10"> We may occasionally choose to amend this Privacy Policy to better reflect our use and protection of your information. In the event of revision, all terms shall become effective within 15 days of initial posting to the Site. </p>
+
+                    <p class="last-up">Last updated: February 6, 2013</p>
+                </div>				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<!--LEFT CONTENT-->
+        
+        <!--RIGHT CONTENT-->
+        <div class="right-content mb40">
+            
+<div>
+  <h5 class="clgray gothicbook"></h5>
+  <div class="widget_title hotlive1" style="margin-bottom: 40px;">Hot Live Items</div>
+</div>
+
+<div class="clear"></div> 
+        
+          
+         <!--BOX1-->
+    
+    
+    
+    
+    
+<script type="text/javascript">
+    var currsym = htmlEncode('$');
+</script>
+                    
+                                
+<div class="hotlive_auction_box online" style="margin-bottom: 25px;">
+    <div class="box_image_holder">
+                <a href="http://www.liveauctioneers.com/item/17850319_ivory-bunny-netsuke">
+            <img src="http://p2.la-img.com/1692/41363/17850319_1_m.jpg" class="box_image" title="IVORY BUNNY NETSUKE" alt="Lot ">
+        </a>
+            </div>
+    <div class="box_title">
+        <div class="box_truncate">
+            <a href="http://www.liveauctioneers.com/item/17850319_ivory-bunny-netsuke" class="dark_text text_link" title="IVORY BUNNY NETSUKE">
+                206S: IVORY BUNNY NETSUKE
+            </a>
         </div>
-    </td>
-    <td style="width:4% background-color: #e6e6e6;">&nbsp;</td> 
-    <td style="width:33%; background-color: #e6e6e6;" valign="top"> 
-     <div style="text-align:left;" class="footersubhead"><b>Contact</b></div>
-      <div style="text-align:left;" class="footersubunder">
-        <p class="pmclear">
-        <label class="footerlabel1">LiveAuctioneers<br>
-    220 12th Avenue <br>
-    2nd floor <br>
-    New York, NY 10001 <br>
-       </label>  
-    <a href="mailto:info@liveauctioneers.com">info@liveauctioneers.com</a> <br>
-       </p> 
-       <br> 
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="5" style="background-color: #e6e6e6;">
-    <div style="text-align:center;">
-      <label class="footerlabel2">Copyright © 2002-2012 LiveAuctioneers. All Rights Reserved.</label><br>
-      <a href="/about.html">about us</a><span style="color:#555555;"> | </span><a rel="nofollow" href="/privacy.html">privacy policy</a><span style="color:#555555;"> | </span><a rel="nofollow" href="/intellectualproperty.html">intellectual property</a><span style="color:#555555;"> | </span><a rel="nofollow" href="/dmca.html"> copyright disputes</a> </div></td>
-    </tr>
-</tbody></table>
-</div> 
-</div> 
-<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js#xfbml=1" async=""></script></div> 
-<script>
-      window.fbAsyncInit = function() {
-        FB.init({
-          appId  : '',
-          channelUrl : document.location.protocol + '//' + document.location.host + '/channel.html', 
-          xfbml  : true
-        });
-      };
-      (function() {
-        var e = document.createElement('script');
-        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js#xfbml=1';
-        e.async = true;
-        document.getElementById('fb-root').appendChild(e);
-      }());
-    </script>
+                                <!--  -->
+        
+        
+                                <div class="item_box_descr" title="Ivory Netsuke of Two Rabbits W/ Amber Eyes">
+            Ivory Netsuke of Two Rabbits W/ Amber Eyes
+        </div>
+    </div>  <!-- //box_title -->
+        <div class="house_name">
+            <a href="http://www.liveauctioneers.com/auctioneer/1692-clifton-auctions" class="dark_text text_link" title="Clifton Auctions">                Clifton Auctions
+            </a>        </div>
+    <div class="box_detail">
+        <div class="box_detail_status">
+                            <div>02:00 PM PT</div>
+                <div>Jun 18</div>
+                                                         <!-- //remaining -->
+                   
+        </div>  <!-- //light_text_box box_detail -->
+                <div class="box_flag us-flag" title="United States">
+                    </div>
+        <div class="box_save_icon">
+                                <a href="http://www.liveauctioneers.com/nlogin/login/17850319?lot_status=online&amp;lot_type=" title="Click to save" rel="facebox, nofollow"><span class=""></span></a>
+                </div> <!-- //box_save_icon -->
+             </div>  <!-- //box_detail -->
+        <div class="itemFooterSold">
+                    <a href="http://www.liveauctioneers.com/item/17850319_ivory-bunny-netsuke" class="btn_a">BID NOW</a>
+                         </div>  <!-- //itemFooterSold -->
+         <div class="bid-box-shadow clear"></div> 
+                                    
+    </div>  <!-- //*auction_box --><!--//BOX1-->
+        
+          
+         <!--BOX1-->
+    
+    
+    
+    
+    
+<script type="text/javascript">
+    var currsym = htmlEncode('$');
+</script>
+                    
+                                
+<div class="hotlive_auction_box online">
+    <div class="box_image_holder">
+                <a href="http://www.liveauctioneers.com/item/17866060_classical-style-bronze-figural-candelabra-h-25">
+            <img src="http://p2.la-img.com/359/41410/17866060_1_m.jpg" class="box_image" title="CLASSICAL STYLE BRONZE FIGURAL CANDELABRA H 25&quot;" alt="Lot ">
+        </a>
+            </div>
+    <div class="box_title">
+        <div class="box_truncate">
+            <a href="http://www.liveauctioneers.com/item/17866060_classical-style-bronze-figural-candelabra-h-25" class="dark_text text_link" title="CLASSICAL STYLE BRONZE FIGURAL CANDELABRA H 25&quot;">
+                62100: CLASSICAL STYLE BRONZE FIGURAL CANDELABRA H 25"
+            </a>
+        </div>
+                                <!--  -->
+        
+        
+                                <div class="item_box_descr" title="CLASSICAL STYLE BRONZE FIGURAL CANDELABRA, 19TH C., …">
+            CLASSICAL STYLE BRONZE FIGURAL CANDELABRA, 19TH C., …
+        </div>
+    </div>  <!-- //box_title -->
+        <div class="house_name">
+            <a href="http://www.liveauctioneers.com/auctioneer/359-dumouchelles" class="dark_text text_link" title="DuMouchelles">                DuMouchelles
+            </a>        </div>
+    <div class="box_detail">
+        <div class="box_detail_status">
+                            <div>09:00 AM PT</div>
+                <div>Jun 16</div>
+                                                         <!-- //remaining -->
+                   
+        </div>  <!-- //light_text_box box_detail -->
+                <div class="box_flag us-flag" title="United States">
+                    </div>
+        <div class="box_save_icon">
+                                <a href="http://www.liveauctioneers.com/nlogin/login/17866060?lot_status=online&amp;lot_type=" title="Click to save" rel="facebox, nofollow"><span class=""></span></a>
+                </div> <!-- //box_save_icon -->
+             </div>  <!-- //box_detail -->
+        <div class="itemFooterSold">
+                    <a href="http://www.liveauctioneers.com/item/17866060_classical-style-bronze-figural-candelabra-h-25" class="btn_a">BID NOW</a>
+                         </div>  <!-- //itemFooterSold -->
+         <div class="bid-box-shadow clear"></div> 
+                                    
+    </div>  <!-- //*auction_box --><!--//BOX1-->
+        
+          
+                 
+          
+                 
+          
+                 
+          
+                 
+          
+               
+            <div class="clear"></div>
+        </div>
+        <!--//RIGHT CONTENT-->
+    
+	<div class="clear"></div>
+    </div>
+        <!--WRAPPER-->
 
-<script type="text/javascript" src="http://snapabug.appspot.com/snapabug.js"></script>
+	
+
+
+<!-- This is the footer for pages other than bidder and auctioneers -->
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>	
+
+<script type="text/javascript">
+
+var current;
+var first;
+var last;
+var timeout;
+
+var topNewsFeed = function() {
+	return {
+
+		
+		load: function() {
+			var feed = new google.feeds.Feed(feedUrl);
+			feed.setNumEntries(10);
+			feed.load(function(result) {
+				if (!result.error) {
+					topNewsFeed.parse(result.feed.entries);
+				} else {
+					$("#list").removeClass("loading").addClass("error").text("An error occurred while attempting to load the feed.");
+				}
+			});
+		},
+		parse: function(entries) {
+			var feedMarkup = '';
+			for (var i = 0; i < entries.length; i=i+2) {
+				feedMarkup += '<li style="height:60px;"><div class="news-link1"><a rel="nofollow" target="_self" href="'+entries[i].link+'">'+entries[i].title+'</a></div><div class="news-link2"><a target="_self" href="'+entries[i+1].link+'">'+entries[i+1].title+'</a></div><div class="clear"></div></li>'	
+			}
+			$("#list").empty().append(feedMarkup)
+			
+		}
+			
+		
+	}
+}();
+
+$(document).ready(function() {
+		
+});
+
+ var feedUrl = "http://auctioncentralnews.com/index.php?option=com_ninjarsssyndicator&feed_id=1&format=raw";
+		google.load("feeds", "1");
+		google.setOnLoadCallback(topNewsFeed.load);
+</script>
+
+
+
+<div class="clear"></div>
+<!--NEWS-->
+<div class="search-news-holder">
+	<!--WRAPPER-->
+  <div class="wrapper">
+  	<!--NEWS-->
+            <!--//NEWS-->
+    
+    <!--ACTION-->
+    <div class="tc cedemi">
+      <a rel="nofollow" href="http://www.liveauctioneers.com/login/" class="a_decor">
+            <div class="fl sprites action-btn cwhite pointer ">
+                <div class="headertab fs16">
+                    BIDDERS
+                </div>
+                            </div></a>
+      <a rel="nofollow" href="http://www.liveauctioneers.com/auctioneers/" class="a_decor">
+          <div class="fl sprites action-btn cwhite pointer prelative z9 ml-1 "><div class="headertab fs16">
+              SELLERS
+              </div>
+              
+                          </div>
+      </a>
+      <div class="fl sprites search-bg prelative z9 ml-1 tl">
+        <div class="prelative z9 ml-1">
+        <form class="fl" id="frm_search" method="get" action="/search">
+                <div class="prelative z9 tl">
+    <div class="fl sprites search-bar-left_blue" style="">
+        <div class="fr pointer sprites search-bar-right" onclick="$(this).parents('form').submit();"><div align="center" style="color:white; margin-top: 7px; font-size: 12px; font-weight: bold;">GO</div></div>
+        <input type="text" class="search cdgray ml15 jqtransformdone" id="" name="q" value="" placeholder="Search for items">
+    </div>
+</div>                </form>
+        </div>
+        <div class="sprites search-footer-btn-selected dis_none searchbar_tab"></div>
+      </div>
+    </div>
+    <!--//ACTION-->
+    
+    <!--Footer links-->
+    <div class="footer_block">
+    	<!--ABOUT/CONTACT-->
+    	<div class="fl clgrayftr w220 lh17">
+      	<h6 class="cedemi fs15">Bid in an Auction!</h6>
+        <p class="gothicbook fs12 pt10">Leave a bid or bid LIVE online in art, antique, jewelry and collectibles auctions across the globe.</p>
+        <div class="clear"></div>
+        <h6 class="cedemi mt20 fs15">Contact</h6>
+        <div class="gothicbook fs12 pt10">
+          <p>LiveAuctioneers</p>
+          <p>220 12th Avenue</p>
+          <p>New York, NY 10001</p>
+          <p><a href="mailto:info@liveauctioneers.com" class="a_decor clgrayftr">info@liveauctioneers.com</a></p>
+        </div>
+        <div class="clear"></div>
+        <div class="fs12 pt10"><a href="http://www.liveauctioneers.com/suggestion">Suggestions</a></div>
+      </div>
+      <!--//ABOUT/CONTACT-->
+      
+      <!--FOR BIDDERS LINKS-->
+      <div class="fl clgrayftr ml20 gothicbook w220 lh17">
+      	<h6 class="cedemi fs15">For Bidders</h6>
+        <ul class="bottom-links fs12">
+            <li><a href="http://www.liveauctioneers.com/search?q=&amp;org=yes">Search Live Items</a></li>
+            <li><a href="http://www.liveauctioneers.com/search_auctioneers.html">Search Auctioneers</a></li>
+            <li><a href="http://www.liveauctioneers.com/all-auctions">All Auctions</a></li>
+            <li><a href="http://www.liveauctioneers.com/how_it_works.html">How It Works</a></li>
+            <li><a href="http://www.liveauctioneers.com/bidder_features.html">Bidder Features</a></li>
+            <li><a href="http://www.liveauctioneers.com/terminology.html">Auction Terminology</a></li>
+            <li><a href="http://www.liveauctioneers.com/auction_results.html">Auction Results Database</a></li>
+            <li><a href="http://www.liveauctioneers.com/browse/archive/page1">Past Auctions</a></li>
+        </ul>
+        <h5 class="clink pt10"><a href="http://www.liveauctioneers.com/sign-up" class="cblue fs14 bigboldlink">Become a Live Bidder</a></h5>
+      </div>
+      <!--//FOR BIDDERS LINKS-->
+      
+      <!--FOR ACUTIONEERS LINKS-->
+      <div class="fl clgrayftr ml20 gothicbook w220 lh17">
+      	<h6 class="cedemi fs15">For Sellers</h6>
+        <ul class="bottom-links fs12">
+            <li><a href="http://www.liveauctioneers.com/features.html">Services &amp; Features</a></li>
+            <li><a href="http://www.liveauctioneers.com/prservices.html">PR Services</a></li>
+            <li><a href="http://www.liveauctioneers.com/testimonials.html">Seller Testimonials</a></li>
+            <li><a href="http://www.liveauctioneers.com/charity/index.html">Charity Auctions</a></li>
+            <!-- li><a href="http://www.liveauctioneers.com/how_it_works_auctioneer.php">How It Works</a></li -->
+            <li><a rel="nofollow" href="http://www.liveauctioneers.com/LIVE2012">2012 In Review</a></li>
+            <li><a rel="nofollow" href="http://www.liveauctioneers.com/auctioneers/">Seller Sign-In</a></li>
+        </ul>
+        <h5 class="clink pt10"><a href="http://www.liveauctioneers.com/becomealiveauctioneer" class="cblue fs14 bigboldlink">Become a Live Seller</a></h5>
+      </div>
+      <!--//FOR ACUTIONEERS LINKS-->
+      
+      <!--FOR CONSIGNER LINKS-->
+      <div class="fl clgrayftr ml20 gothicbook w220 lh17">
+      	<h6 class="cedemi fs15">For Consignors</h6>
+        <ul class="bottom-links fs12">
+          <li><a href="http://www.liveauctioneers.com/top20-visit-live-at-auction">Top 20 Visited Live Items</a></li>
+          <li><a href="http://www.liveauctioneers.com/top20-sold-today-at-auction">Top 20 Highest Price Items Sold</a></li>
+        </ul>
+        <h5 class="clink pt10"><a href="http://www.liveauctioneers.com/consignments/" class="cblue fs14 bigboldlink">Become a Consignor</a></h5>
+      </div>
+      <!--//FOR CONSIGNER LINKS--> 
+    </div>
+    <!--Footer links-->
+    
+  <div class="clear"></div>
+  </div>
+	<!--//WRAPPER-->
+</div>
+<!--//NEWS-->
+
+
+<!--BID ITEMS-->
+
+<script type="text/javascript">
+$(document).ready(function(){
+    $.ajax({
+        url:"/ajax_scripts/footerhotitems.php",
+        success:function(data){
+            $(".bid-items-container .wrapper").html(data);
+        }
+    });
+});
+</script>
+
+<div class="bid-items-container">
+	<!--WRAPPER-->
+	<div class="wrapper pt20">
+	      </div>
+  <!--//WRAPPER-->
+</div>
+<!--//BID ITEMS-->
+
 
 <div id="SnapABug_W"></div>
 <div id="SnapABug_WP"></div>
 <div id="SnapABug_Applet"></div>
-
+<!--SITEMAP-->
+<div class="footer-container">
+	<!--WRAPPER-->
+	<div class="wrapper">
+  	<div class="fl sprites logo-footer"></div>
+    <div class="fl gothicbook fs11 cwhite mt25 ml15">Copyright © 2002–2013 LiveAuctioneers. All Rights Reserved.</div>
+    <div class="fr footer cedemi fs15">
+    	<ul class="mt25">
+      	<li><a href="http://www.liveauctioneers.com/mobile">Mobile</a></li>
+        <li class="ml15"><a href="https://www.facebook.com/LiveAuctioneers" target="_blank">Facebook</a></li>
+        <li class="ml15"><a href="https://twitter.com/auctioncentral" target="_blank">Twitter</a></li>
+        <li class="ml15"><a href="http://www.liveauctioneers.com/newsletter.html">Newsletter</a></li>
+        <li class="ml15"><a href="http://www.liveauctioneers.com/sitemap.html">Sitemap</a></li>
+      </ul>
+    </div>
+    <div class="clear"></div>
+    <div style="margin-left: 100px;">
+        <ul class="nav mt20 ml250">
+          <li class="lowest-footer-item pr15"><a href="http://www.liveauctioneers.com/termsandconditions.html" target="_blank">Terms &amp; Conditions</a></li>
+          <li class="lowest-footer-item pr15"><a href="http://www.liveauctioneers.com/intellectualproperty.html" target="_blank">Intellectual Property</a></li>
+          <li class="lowest-footer-item last"><a href="http://www.liveauctioneers.com/privacy.html" target="_blank">Privacy Policy</a></li>
+        </ul>
+    </div>
+  </div>
+			<img src="http://www.liveauctioneers.com/stv2/gen_img_px.gif?referer=&amp;path=%2Fprivacy.html&amp;qs=" alt="">
+	  <!--//WRAPPER-->
+</div>
+<!--//SITEMAP-->
 
 
 </body></html>
