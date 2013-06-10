@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the apptha.com privacy policy that was archived on 2012-10-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121006055510id_/http%3A//www.apptha.com/privacy-plan) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apptha.com privacy policy that was archived on 2013-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610172722id_/http%3A//www.apptha.com/privacy-plan) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script>
@@ -22,16 +22,21 @@ apps for androids and iphones.">
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.apptha.com/media/css/4a61a87697fd9250fa18cc576b023e69.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.apptha.com/media/css/a06658b087bf617c7c520f67cb50d9a9.css" media="print">
-<script type="text/javascript" src="http://www.apptha.com/media/js/a792c84f1cccbb4f8e3127817c10b34c.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.apptha.com/skin/frontend/default/default/css/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.apptha.com/skin/frontend/default/default/css/facebox.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.apptha.com/skin/frontend/default/default/css/common.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.apptha.com/skin/frontend/base/default/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.apptha.com/skin/frontend/default/default/apptha-reviews/css/amazereviews.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.apptha.com/skin/frontend/default/default/css/sociallogin.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.apptha.com/skin/frontend/default/default/css/print.css" media="print">
+<script type="text/javascript" src="http://www.apptha.com/media/js/f9d48af6d64e516991653f14323eeaca.js"></script>
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.apptha.com/media/css/2800bb1a82b8541a8b14ae383704bad6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.apptha.com/skin/frontend/default/default/css/styles-ie.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
 <script type="text/javascript" src="http://www.apptha.com/media/js/b99c363289a4c63f2457bfc9f18824bf.js"></script>
 <![endif]-->
-<link href="//fonts.googleapis.com/css?family=Droid+Sans:regular,bold|PT+Sans|Oswald|Copse|Maven+Pro:400,700,900|Lato" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Droid+Sans:regular,bold|PT+Sans|Oswald|Copse|Maven+Pro:400,700,900|Lato|Open+Sans:400,700,800,600" rel="stylesheet" type="text/css">
 
 
 
@@ -55,11 +60,12 @@ optionalZipCountries = [];
 <script type="text/javascript">
 //<![CDATA[
     var _gaq = _gaq || [];
+    var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+        _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
     
 _gaq.push(['_setAccount', 'UA-3473681-71']);
 _gaq.push(['_trackPageview']);
-    
-    (function() {
+        (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
@@ -69,10 +75,11 @@ _gaq.push(['_trackPageview']);
 </script>
 <!-- END GOOGLE ANALYTICS CODE -->
 <!-- BEGIN Inchoo Facebook Connect -->
-<div id="fb-root"></div>
-<script type="text/javascript" defer="defer">
+<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+<script type="text/javascript">
 //<![CDATA[
 window.fbAsyncInit = function() {
+	FB._https = true;
 	FB.init({
 		appId		: "175848555818810",
 		channelUrl	: 'http://www.apptha.com/facebook/channel/index/locale/en_US/',
@@ -81,6 +88,15 @@ window.fbAsyncInit = function() {
 		oauth		: true,
 		xfbml		: true
 	});
+        
+        FB.Event.subscribe('edge.create', function(response) {
+                        window.location = "https://www.apptha.com/fbdiscount/index/add/";
+                  });
+
+        FB.Event.subscribe('edge.remove', function(response) {
+                    window.location = "https://www.apptha.com/fbdiscount/index/remove/";
+        });
+
 	document.fire("facebook:fbAsyncInit");
 };
 
@@ -118,23 +134,23 @@ document.observe('click', function(e){
     <div class="page">
         
 
-<div class="header-container">
+<div class="header-container" id="header">
    <div class="header">
         <a href="http://www.apptha.com/" title="apptha" class="common-sprite logo"></a>
-        <a href="http://www.apptha.com/checkout/cart" title="Cart" class="top-links-cart"><span class="common-sprite cart-icon"></span>My Cart</a>
+        <a href="http://www.apptha.com/checkout/cart" title="Cart" class="top-links-cart"><span class="common-sprite cart-icon"></span>My Digital Cart  ( 0 )</a>
         <ul class="top-links">
             <li><a href="http://www.apptha.com/" title="Home">Home</a></li>
-            <li><a href="http://apptha.com/blog/" title="Apptha Blog">Blog</a></li>
-            <li><a href="http://www.apptha.com/forum/" title="Apptha Forum">Forum</a></li>
+            <li><a href="http://www.apptha.com/blog/" title="Apptha Blog">Blog</a></li>
+            <li><a href="http://support.apptha.com" title="Apptha Support">Support</a></li>
+            <li><a href="http://www.apptha.com/forum" title="Apptha Forum">Forum</a></li>
             <li><a href="http://www.apptha.com/get-the-support" title="Apptha Support">Contact</a></li>
             
-                       <li><a href="http://www.apptha.com/customer/account" title="My Account" class="top-links-last">My Account</a></li>
-                        
-        </ul>
+                       <li><a href="javascript:apptha_header_logo_Div.open1();" title="My Account" class="top-links-last">My Account</a></li>
+                    </ul>
+        <a href="#" onclick="return SnapABug.startLink();" class="common-sprite livechat" title="Live Chat"></a>
     </div>
 </div>
-<a href="http://support.apptha.com" title="Apptha Support System" class="common-sprite support-system"></a>
-<a href="#" onclick="return SnapABug.startLink();" class="common-sprite livechat" title="Live Chat"></a>
+
 
 <script type="text/javascript">
     var timeoutId;
@@ -143,8 +159,8 @@ document.observe('click', function(e){
 <div class="nav-container">
     <div class="nav-content">
             <ul id="nav">
-            <li id="category-node-3" class="level0 nav-1 first level-top parent"><a onmouseover="highlightmenu('category-node-40');getCategorydetails('category-node-40','category-node-3');" href="http://www.apptha.com/magento" class="level-top"><span class="mage_menu" id="spancategory-node-3">Magento</span></a><div class="innersub"><ul class="innerlevel level0"><li id="category-node-40" class="level1 nav-1-1 first"><a href="#" onclick="highlightmenu('category-node-40'); getCategorydetails('category-node-40','category-node-3')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-40','category-node-3') },400);"><span class="mage_menu" id="spancategory-node-40">Popular</span></a></li><li id="category-node-41" class="level1 nav-1-2"><a href="#" onclick="highlightmenu('category-node-41'); getCategorydetails('category-node-41','category-node-3')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-41','category-node-3') },400);"><span class="mage_menu" id="spancategory-node-41">New</span></a></li><li id="category-node-42" class="level1 nav-1-3"><a href="#" onclick="highlightmenu('category-node-42'); getCategorydetails('category-node-42','category-node-3')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-42','category-node-3') },400);"><span class="mage_menu" id="spancategory-node-42">Social Media</span></a></li><li id="category-node-43" class="level1 nav-1-4"><a href="#" onclick="highlightmenu('category-node-43'); getCategorydetails('category-node-43','category-node-3')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-43','category-node-3') },400);"><span class="mage_menu" id="spancategory-node-43">User Experience</span></a></li><li id="category-node-44" class="level1 nav-1-5"><a href="#" onclick="highlightmenu('category-node-44'); getCategorydetails('category-node-44','category-node-3')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-44','category-node-3') },400);"><span class="mage_menu" id="spancategory-node-44">Sales Motivation</span></a></li><li id="category-node-46" class="level1 nav-1-6"><a href="#" onclick="highlightmenu('category-node-46'); getCategorydetails('category-node-46','category-node-3')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-46','category-node-3') },400);"><span class="mage_menu" id="spancategory-node-46">Free</span></a></li><li id="category-node-47" class="level1 nav-1-7"><a href="#" onclick="highlightmenu('category-node-47'); getCategorydetails('category-node-47','category-node-3')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-47','category-node-3') },400);"><span class="mage_menu" id="spancategory-node-47">Themes</span></a></li><li id="category-node-48" class="level1 nav-1-8 last"><a href="#" onclick="highlightmenu('category-node-48'); getCategorydetails('category-node-48','category-node-3')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-48','category-node-3') },400);"><span class="mage_menu" id="spancategory-node-48">Scripts</span></a></li><li class="menu-viewall" style="background:none !important; "><a style="color: #c90012 !important; font-size: 13px !important; padding-left:80px !important; font-weight:bold !important; background: url(http://www.apptha.com/skin/frontend/default/default/images/view-all-arrow.png) no-repeat center right !important; width:86px !important;" href="http://www.apptha.com/magento">View All </a></li></ul><div class="appthatopmenu makeScroll" id="submenuSpacecategory-node-3"></div></div></li><li id="category-node-4" class="level0 nav-2 level-top parent"><a onmouseover="highlightmenu('category-node-49');getCategorydetails('category-node-49','category-node-4');" href="http://www.apptha.com/joomla" class="level-top"><span class="mage_menu" id="spancategory-node-4">Joomla</span></a><div class="innersub"><ul class="innerlevel level0"><li id="category-node-49" class="level1 nav-2-1 first"><a href="#" onclick="highlightmenu('category-node-49'); getCategorydetails('category-node-49','category-node-4')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-49','category-node-4') },400);"><span class="mage_menu" id="spancategory-node-49">Popular</span></a></li><li id="category-node-50" class="level1 nav-2-2"><a href="#" onclick="highlightmenu('category-node-50'); getCategorydetails('category-node-50','category-node-4')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-50','category-node-4') },400);"><span class="mage_menu" id="spancategory-node-50">New</span></a></li><li id="category-node-51" class="level1 nav-2-3"><a href="#" onclick="highlightmenu('category-node-51'); getCategorydetails('category-node-51','category-node-4')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-51','category-node-4') },400);"><span class="mage_menu" id="spancategory-node-51">Videos</span></a></li><li id="category-node-52" class="level1 nav-2-4"><a href="#" onclick="highlightmenu('category-node-52'); getCategorydetails('category-node-52','category-node-4')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-52','category-node-4') },400);"><span class="mage_menu" id="spancategory-node-52">User Experience</span></a></li><li id="category-node-53" class="level1 nav-2-5"><a href="#" onclick="highlightmenu('category-node-53'); getCategorydetails('category-node-53','category-node-4')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-53','category-node-4') },400);"><span class="mage_menu" id="spancategory-node-53">Free</span></a></li><li id="category-node-54" class="level1 nav-2-6"><a href="#" onclick="highlightmenu('category-node-54'); getCategorydetails('category-node-54','category-node-4')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-54','category-node-4') },400);"><span class="mage_menu" id="spancategory-node-54">Themes</span></a></li><li id="category-node-55" class="level1 nav-2-7 last"><a href="#" onclick="highlightmenu('category-node-55'); getCategorydetails('category-node-55','category-node-4')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-55','category-node-4') },400);"><span class="mage_menu" id="spancategory-node-55">Scripts</span></a></li><li class="menu-viewall" style="background:none !important;"><a style="color: #c90012 !important; font-size: 13px !important; padding-left:80px !important; font-weight:bold !important; background: url(http://www.apptha.com/skin/frontend/default/default/images/view-all-arrow.png) no-repeat center right !important; width:86px !important;" href="http://www.apptha.com/joomla">View All</a></li></ul><div class="appthatopmenu makeScroll" id="submenuSpacecategory-node-4"></div></div></li><li id="category-node-5" class="level0 nav-3 level-top parent"><a onmouseover="highlightmenu('category-node-56');getCategorydetails('category-node-56','category-node-5');" href="http://www.apptha.com/wordpress" class="level-top"><span class="mage_menu" id="spancategory-node-5">Wordpress</span></a><div class="innersub"><ul class="innerlevel level0"><li id="category-node-56" class="level1 nav-3-1 first"><a href="#" onclick="highlightmenu('category-node-56'); getCategorydetails('category-node-56','category-node-5')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-56','category-node-5') },400);"><span class="mage_menu" id="spancategory-node-56">Popular</span></a></li><li id="category-node-57" class="level1 nav-3-2"><a href="#" onclick="highlightmenu('category-node-57'); getCategorydetails('category-node-57','category-node-5')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-57','category-node-5') },400);"><span class="mage_menu" id="spancategory-node-57">New</span></a></li><li id="category-node-58" class="level1 nav-3-3"><a href="#" onclick="highlightmenu('category-node-58'); getCategorydetails('category-node-58','category-node-5')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-58','category-node-5') },400);"><span class="mage_menu" id="spancategory-node-58">Galleries</span></a></li><li id="category-node-59" class="level1 nav-3-4"><a href="#" onclick="highlightmenu('category-node-59'); getCategorydetails('category-node-59','category-node-5')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-59','category-node-5') },400);"><span class="mage_menu" id="spancategory-node-59">Videos</span></a></li><li id="category-node-60" class="level1 nav-3-5"><a href="#" onclick="highlightmenu('category-node-60'); getCategorydetails('category-node-60','category-node-5')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-60','category-node-5') },400);"><span class="mage_menu" id="spancategory-node-60">User Experience</span></a></li><li id="category-node-61" class="level1 nav-3-6"><a href="#" onclick="highlightmenu('category-node-61'); getCategorydetails('category-node-61','category-node-5')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-61','category-node-5') },400);"><span class="mage_menu" id="spancategory-node-61">Free</span></a></li><li id="category-node-62" class="level1 nav-3-7 last"><a href="#" onclick="highlightmenu('category-node-62'); getCategorydetails('category-node-62','category-node-5')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-62','category-node-5') },400);"><span class="mage_menu" id="spancategory-node-62">Themes</span></a></li><li class="menu-viewall" style="background:none !important; "><a style="color: #c90012 !important; font-size: 13px !important; padding-left:80px !important; font-weight:bold !important; background: url(http://www.apptha.com/skin/frontend/default/default/images/view-all-arrow.png) no-repeat center right !important; width:86px !important;" href="http://www.apptha.com/wordpress">View All</a></li></ul><div class="appthatopmenu makeScroll" id="submenuSpacecategory-node-5"></div></div></li><li id="category-node-7" class="level0 nav-4 level-top parent"><a onmouseover="highlightmenu('category-node-63');getCategorydetails('category-node-63','category-node-7');" href="http://www.apptha.com/mobile" class="level-top"><span class="mage_menu" id="spancategory-node-7">Mobile</span></a><div class="innersub"><ul class="innerlevel level0"><li id="category-node-63" class="level1 nav-4-1 first"><a href="#" onclick="highlightmenu('category-node-63'); getCategorydetails('category-node-63','category-node-7')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-63','category-node-7') },400);"><span class="mage_menu" id="spancategory-node-63">Popular</span></a></li><li id="category-node-64" class="level1 nav-4-2 last"><a href="#" onclick="highlightmenu('category-node-64'); getCategorydetails('category-node-64','category-node-7')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-64','category-node-7') },400);"><span class="mage_menu" id="spancategory-node-64">New</span></a></li></ul><div class="appthatopmenu makeScroll" id="submenuSpacecategory-node-7"></div></div></li><li id="category-node-36" class="level0 nav-5 last level-top parent"><a onmouseover="highlightmenu('category-node-34');getCategorydetails('category-node-34','category-node-36');" href="http://www.apptha.com/others" class="level-top"><span class="mage_menu" id="spancategory-node-36">Others</span></a><div class="innersub"><ul class="innerlevel level0"><li id="category-node-34" class="level1 nav-5-1 first"><a href="#" onclick="highlightmenu('category-node-34'); getCategorydetails('category-node-34','category-node-36')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-34','category-node-36') },400);"><span class="mage_menu" id="spancategory-node-34">Prestashop</span></a></li><li id="category-node-66" class="level1 nav-5-2 last"><a href="#" onclick="highlightmenu('category-node-66'); getCategorydetails('category-node-66','category-node-36')" onmouseout="clearTimeout(timeoutId);" onmouseover="timeoutId = setTimeout(function(){getCategorydetails('category-node-66','category-node-36') },400);"><span class="mage_menu" id="spancategory-node-66">Sharepoint</span></a></li></ul><div class="appthatopmenu makeScroll" id="submenuSpacecategory-node-36"></div></div></li>        </ul>
-
+                <li class="topmenucategory-node-3"><a href="http://www.apptha.com/magento">Magento<span class="menu-arrow"></span></a><div><ul class="menuWrappercategory-node-3"><li><a class="submenu-title" href="javascript:void(0);"><span>Social Media</span></a></li><li><a href="http://www.apptha.com/category/extension/Magento/Magento-Facebook-App">Magento Facebook App<span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/magento/social-login">Social Login<span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/category/extension/Magento/Magento-FB-Referral">Magento FB Referral<span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/category/extension/Magento/Magento-FB-Discount">FB Discount<span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/category/extension/Magento/Facebook-Social">Facebook Social</a></li><li><a class="last-list" href="http://www.apptha.com/magento/social-affiliate">Social Affiliate</a></li><li><a class="submenu-title" href="javascript:void(0);"><span>User Experience</span></a></li><li><a href="http://www.apptha.com/category/extension/Magento/Magento-Facebook-App">Magento Facebook App<span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/magento/social-login">Social Login<span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/category/extension/Magento/HD-FLV-Player-magento">HD FLV Player - Magento <span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/category/extension/Magento/Hotel-Reservation">Hotel Booking<span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/category/extension/Magento/out-of-stock-notification">Out of Stock Notification<span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/category/extension/Magento/Easy-Ajax-Cart">Easy Ajax Cart<span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/magento/feedback-popup">Feedback Popup</a></li><li><a href="http://www.apptha.com/category/extension/Magento/Facebook-Social">Facebook Social</a></li><li><a href="http://www.apptha.com/category/extension/Magento/Banner-Product-Slider">Banner Product Slider</a></li><li><a href="http://www.apptha.com/category/extension/Magento/Product-Ticker">Product Ticker</a></li><li><a href="http://www.apptha.com/category/extension/Magento/Search-AutoComplete">Search Auto Complete</a></li><li><a href="http://www.apptha.com/magento/mob-ecommerce">Mob eCommerce</a></li><li><a href="http://www.apptha.com/magento/deals-extension">Super Deals<span class="menu-new"></span></a></li><li><a class="last-list" href="http://www.apptha.com/magento/reviews-ratings-extension">Amaze Reviews and Ratings<span class="menu-new"></span></a></li><li><a class="submenu-title" href="javascript:void(0);"><span>Sales Motivation</span></a></li><li><a href="http://www.apptha.com/category/extension/Magento/OneStepCheckout">One Step Checkout<span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/category/extension/Magento/Magento-Facebook-App">Magento Facebook App<span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/category/extension/Magento/Magento-FB-Referral">Magento FB Referral<span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/category/extension/Magento/out-of-stock-notification">Out of Stock Notification<span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/category/extension/Magento/Easy-Ajax-Cart">Easy Ajax Cart<span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/category/extension/Magento/Magento-FB-Discount">FB Discount<span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/category/extension/Magento/ReferralRewardPoints">Referral Reward Points</a></li><li><a href="http://www.apptha.com/magento/ajax-cart-pro">Ajax Cart Pro</a></li><li><a href="http://www.apptha.com/category/extension/Magento/Facebook-Social">Facebook Social</a></li><li><a href="http://www.apptha.com/magento-power-pack">Magento Power Pack</a></li><li><a href="http://www.apptha.com/category/extension/Magento/Magento-QR-Code">Magento QR Code</a></li><li><a href="http://www.apptha.com/category/extension/Magento/Lucky-Draw">Lucky Draw</a></li><li><a href="http://www.apptha.com/magento/customer-follow-up">Customer Follow-up</a></li><li><a href="http://www.apptha.com/category/extension/Magento/advanced-subscribe">Advanced subscribe</a></li><li><a class="last-list" href="http://www.apptha.com/magento/request-for-coupon">Request for Coupon</a></li><li><a class="submenu-title" href="javascript:void(0);"><span>Free</span></a></li><li><a href="http://www.apptha.com/category/extension/Magento/Price-Countdown">Price Countdown</a></li><li><a href="http://www.apptha.com/category/extension/Magento/Elastic-Email-Extension">Elastic Email Extension</a></li><li><a href="http://www.apptha.com/category/extension/Magento/Apptha-SmoovPay">SmoovPay Magento Extension</a></li><li><a class="last-list" href="http://www.apptha.com/magento/product-sold-count">Product Sold Count<span class="menu-new"></span></a></li><li><a class="submenu-title" href="javascript:void(0);"><span>Scripts</span></a></li><li><a class="last-list" href="http://www.apptha.com/accommodation-booking-script">Airhotels<span class="menu-popular"></span></a></li></ul></div></li><li class="topmenucategory-node-4"><a href="http://www.apptha.com/joomla">Joomla<span class="menu-arrow"></span></a><div><ul class="menuWrappercategory-node-4"><li><a class="submenu-title" href="javascript:void(0);"><span>Videos</span></a></li><li><a href="http://www.apptha.com/category/extension/Joomla/HD-Video-Share">HD Video Share - Joomla <span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/category/extension/Joomla/HD-FLV-Player">HD FLV player - Joomla<span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/category/extension/Joomla/Video-Comments-for-Jom-comments">Video Comments - Joomla</a></li><li><a class="last-list" href="http://www.apptha.com/category/extension/Joomla/virtuemart-hd-flv-player">Virtuemart HD FLV Player</a></li><li><a class="submenu-title" href="javascript:void(0);"><span>User Experience</span></a></li><li><a href="http://www.apptha.com/category/extension/Joomla/Joomla-Photo-Gallery">Joomla Mac Gallery<span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/category/extension/Joomla/Facebook-Page-Builder">Facebook Page Builder</a></li><li><a href="http://www.apptha.com/category/extension/Joomla/QR-code-for-Virtuemart-Joomla">QR code for Virtuemart Joomla</a></li><li><a href="http://www.apptha.com/joomla/apptha-eventz">Apptha Eventz</a></li><li><a href="http://www.apptha.com/category/extension/Joomla/article-recommendation">Article Recommendation</a></li><li><a href="http://www.apptha.com/joomla/social-login">Apptha Social Login<span class="menu-new"></span></a></li><li><a class="last-list" href="http://www.apptha.com/joomla/face-gallery">Face Gallery<span class="menu-new"></span></a></li><li><a class="submenu-title" href="javascript:void(0);"><span>Free</span></a></li><li><a href="http://www.apptha.com/category/theme/Joomla/video-plus">Video Plus</a></li><li><a href="http://www.apptha.com/category/extension/Joomla/Simple-Photo-Gallery">Simple Photo Gallery</a></li><li><a href="http://www.apptha.com/category/theme/Joomla/Perfectpro">Perfect Pro theme</a></li><li><a href="http://www.apptha.com/joomla/user-article">User Article</a></li><li><a class="last-list" href="http://www.apptha.com/category/theme/Joomla/Apptha-Business">Apptha Business</a></li><li><a class="submenu-title" href="javascript:void(0);"><span>Scripts</span></a></li><li><a class="last-list" href="http://www.apptha.com/joomla/social-pinboard-script">Social Pinboard<span class="menu-popular"></span></a></li></ul></div></li><li class="topmenucategory-node-5"><a href="http://www.apptha.com/wordpress">Wordpress<span class="menu-arrow"></span></a><div><ul class="menuWrappercategory-node-5"><li><a class="submenu-title" href="javascript:void(0);"><span>Galleries</span></a></li><li><a href="http://www.apptha.com/category/extension/Wordpress/Mac-Photo-Gallery">Mac Photo Gallery - WP<span class="menu-popular"></span></a></li><li><a class="last-list" href="http://www.apptha.com/category/extension/Wordpress/PICA-Photo-Gallery">PICA Photo Gallery</a></li><li><a class="submenu-title" href="javascript:void(0);"><span>Videos</span></a></li><li><a href="http://www.apptha.com/category/extension/Wordpress/Video-Gallery">Wordpress Video Gallery <span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/category/extension/Wordpress/Video-Blog">Wordpress Video Blog</a></li><li><a class="last-list" href="http://www.apptha.com/category/extension/Wordpress/Video-Comments">Video Comments - Wordpress</a></li><li><a class="submenu-title" href="javascript:void(0);"><span>User Experience</span></a></li><li><a href="http://www.apptha.com/category/extension/Wordpress/Apptha-Banner">Apptha Wordpress Banner </a></li><li><a href="http://www.apptha.com/category/extension/Wordpress/HD-FLV-Player-Plugin">HD FLV Player - WP<span class="menu-popular"></span></a></li><li><a href="http://www.apptha.com/category/extension/Wordpress/PICA-Photo-Gallery">PICA Photo Gallery</a></li><li><a href="http://www.apptha.com/category/extension/Wordpress/post-recommendation">Post Recommendation</a></li><li><a class="last-list" href="http://www.apptha.com/category/extension/Wordpress/apptha-slider-gallery">Apptha Slider Gallery</a></li><li><a class="submenu-title" href="javascript:void(0);"><span>Free</span></a></li><li><a href="http://www.apptha.com/category/theme/Wordpress/video-stream">Video Stream</a></li><li><a class="last-list" href="http://www.apptha.com/category/theme/Wordpress/Pleasant-wordpress-theme">Pleasant Theme</a></li></ul></div></li><li class="topmenucategory-node-36"><a href="http://www.apptha.com/others">Others<span class="menu-arrow"></span></a><div><ul class="menuWrappercategory-node-36"><li><a class="submenu-title" href="javascript:void(0);"><span>Prestashop</span></a></li><li><a href="http://www.apptha.com/category/extension/Others/presta-out-of-stock-notification">Presta Out of Stock Notification</a></li><li><a class="last-list" href="http://www.apptha.com/prestashop/prestashop-mobecommerce">Prestashop Mob eCommerce</a></li><li><a class="submenu-title" href="javascript:void(0);"><span>Sharepoint</span></a></li><li><a href="http://www.apptha.com/sharepoint/chart-web-part">Chart Web Part</a></li><li><a href="http://www.apptha.com/category/extension/Others/sharepoint-twitter-webpart">Twitter Web Part</a></li><li><a href="http://www.apptha.com/category/extension/Others/hd-flv-video-player-web-part">HD Flv Video Player Web Part</a></li><li><a href="http://www.apptha.com/sharepoint-group-email-web-part">Group Email Web Part</a></li><li><a href="http://www.apptha.com/sharepoint/document-management">Document Management Web part</a></li><li><a href="http://www.apptha.com/category/extension/Others/Digital-Clock">Digital Clock</a></li><li><a href="http://www.apptha.com/category/extension/Others/social-plugins-web-part">Social Plugins Web Part</a></li><li><a class="last-list" href="http://www.apptha.com/category/extension/Others/event-calendar-web-part">Event Calendar Web Part</a></li><li><a class="submenu-title" href="javascript:void(0);"><span>Mobile Apps</span></a></li><li><a href="http://www.apptha.com/iphone-android-app-for-your-video-sharing-website">Video Solutions</a></li><li><a href="http://www.apptha.com/mobile-app-for-socialpinboard">Mobile App Social Pinboard</a></li><li><a class="last-list" href="http://www.apptha.com/mobile-app-for-youtube-channel">YT Channel Plus</a></li></ul></div>                                </li><li class="topmenucategory-node-36 nav-deal "><a href="http://www.apptha.com/deals" class="">Deals<span class="menu-arrow"></span></a></li>
+            </ul>
                 <div class="topmenu-search">
                 <div id="new-searchmain" class="top-search">
                     <form id="search_mini_form" action="http://www.apptha.com/appthacore/index/searchbyname" method="get">
@@ -161,14 +177,54 @@ document.observe('click', function(e){
             </div>
 </div>
 <div class="clear"></div>
-<script type="text/javascript">                               
+<script type="text/javascript">
     var defaultText = 'Search entire store here...';
-    var searchForm = new Varien.searchForm('search_mini_form', 'autoSearch', defaultText);
-    new Autocomplete('autoSearch', { serviceUrl:'http://www.apptha.com/appthacore/index/autosuggestion', width:423,
-        onSelect: function(value, data){
-            document.getElementById("search_mini_form").submit();
+    
+        var searchForm = new Varien.searchForm('search_mini_form', 'autoSearch', defaultText);
+        new Autocomplete('autoSearch', { serviceUrl:'http://www.apptha.com/appthacore/index/autosuggestion', width:423,
+            onSelect: function(value, data){
+                document.getElementById("search_mini_form").submit();
+            }
+        });
+
+        
+</script>
+<script type="text/javascript">
+        var megentoString = "<ul class='menu-themes'><li><a class='submenu-title' href='javascript:void(0);'>Themes</a></li><li><a rel='canonical' href='http://www.apptha.com/magento/pinstore-theme'>Pinstore</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Magento/shoe-store-magento-theme'>Shoe Store</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Magento/Mobile-Store'>Mobile Store</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Magento/Books-Store'>Books Store</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Magento/Toys-Store'>Toys Store</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Magento/Cloud-Cloths'>Cloud Clothes</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Magento/apparel-store'>Apparel Store</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Magento/fashion-store'>Fashion Store</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Magento/game-effect'>Game Effect</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Magento/sportsclothing'>Sports Clothing</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Magento/Easy-gourmet'>Easy gourmet</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Magento/electronic-store'>Electronic Store</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Magento/Furniture-store'>Furniture Store</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Magento/shoe-store-magento-mobile-theme'>Shoe Store Mobile</a></li></ul>";
+        var joomlaString = "<ul class='menu-themes'><li><a class='submenu-title' href='javascript:void(0);'>Themes</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Joomla/video-plus'>Video Plus</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Joomla/youtheme'>Youtheme</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Joomla/Music-World'>Music world</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Joomla/video-stylo'>Video Stylo</a></li><li><a rel='canonical' href='http://www.apptha.com/joomla/restaurant-joomla-theme'>Restaurant</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Joomla/Perfectpro'>Perfect Pro theme</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Joomla/game-store-joomla-theme'>Game Store</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Joomla/Apptha-Business'>Apptha Business</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Joomla/Apptha-Crunch'>Apptha Crunch</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Joomla/Express-Shop'>Express Shop</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Joomla/Skywalk-Shop'>Skywalk shop</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Joomla/business-pro'>Business Pro</a></li></ul>";
+        var wpString = "<ul class='menu-themes'><li><a class='submenu-title' href='javascript:void(0);'>Themes</a></li><li><a rel='canonical' href='http://www.apptha.com/wordpress/grid-theme'>WP Grid Theme</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Wordpress/video-stream'>Video Stream</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Wordpress/Hufington-post-clone-wordpress-theme'>WPHuffington Post</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Wordpress/video-tube'>Video Tube</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Wordpress/Musix'>Musix</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Wordpress/news-crunch'>NewsCrunch</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Wordpress/Restaurant'>Restaurant</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Wordpress/Dark-Theme'>Dark theme</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Wordpress/Pleasant-wordpress-theme'>Pleasant Theme</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Wordpress/blink-musix'>Blink-Musix</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Wordpress/Coffee-wordpress-theme'>Coffee Theme</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Wordpress/personal-blog-wordpress-theme'>Personal Blog</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Wordpress/video-flick'>Video Flick</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Wordpress/blogger-wordpress-theme'>Blogger</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Wordpress/photo-pica-gallery-theme'>Photo Pica</a></li><li><a rel='canonical' href='http://www.apptha.com/category/theme/Wordpress/wordpress-elegant-theme'>Elegant </a></li></ul>";
+        document.observe("dom:loaded", function() {
+            changeLi(".menuWrappercategory-node-3",megentoString);
+            changeLi(".menuWrappercategory-node-4",joomlaString);
+            changeLi(".menuWrappercategory-node-5",wpString);
+            changeLi(".menuWrappercategory-node-7","");
+            changeLi(".menuWrappercategory-node-36","");
+        });
+        function changeLi(classname,themeString){
+            var arrayCollection = new Array();
+            var uniqueCount = 1;
+
+            var  menuString = "<li><ul>";
+            $$(classname+' li').each(function(index,count){
+                if(arrayCollection.indexOf(index.innerHTML) == "-1"){
+                    if(uniqueCount % 15 ==0 && (uniqueCount !=0) ){
+                        menuString += "<li>"+index.innerHTML+"</li></ul><ul>";                       
+                    }
+                    else{
+                        menuString += "<li>"+index.innerHTML+"</li>";
+                    }
+                    arrayCollection[uniqueCount] = index.innerHTML;
+                    uniqueCount++;
+                }
+            });
+            
+            menuString += "</ul>"+themeString+"</li>";
+            menuString = menuString.replace("<ul></ul>","");
+
+            $$(classname).each(function(index){
+                index.innerHTML =menuString;
+            });   
         }
-    });                               
 </script>
 
 <script type="text/javascript">
@@ -243,39 +299,572 @@ document.observe('click', function(e){
         Scroller.updateAll();
     }    
 </script>
-<script defer="defer" type="text/javascript">
+<script type="text/javascript">
 document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https://snapabug.appspot.com":"http://www.snapengage.com") + "/snapabug.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://snapabug.appspot.com/snapabug.js" type="text/javascript"></script><script type="text/javascript">
 SnapABug.init("634c5da5-4bdd-4608-b305-2150069fe0df");
 </script>        <div class="main-container col1-layout">
             <div class="main">
                                 <div class="col-main">
-                                            <div class="page-title">
+                                          
+    <div id="containerDiv" style="display:none;">
+        <a id="closeLink" href="javascript:void(0);" class="social_popup_sprite"></a>
+        <h4>Please Enter your twitter email</h4>
+
+        <div class="socialpopup-input-box"><input type="text" id="tw_email" name="tw_email" value="" class="input_linked required-entry validate-email twitter_popup_input">
+            <button type="button" title="Submit" class="button twitter_popup_btn" onclick="return twitter_check();"><span><span>Submit</span></span></button>
+        </div>
+        <div id="twitter_error"></div>
+
+    </div>
+
+    <!-- popup -->
+    <div id="header_logo_Div" style="display:none;">
+        <a id="closeLink2" href="javascript:void(0);"></a>
+        <div id="social_popup_main">
+            <div id="socialpopup_main_div">
+
+
+                <div id="login_left">
+                    <div id="login_div" style="display:block">
+
+                        <div class="left_login">
+                            <h4 id="login_tittle" style="display: block;">Login</h4>
+                            <form id="form_login" name="form_login" class="socialpopup_form">
+
+
+                                <div class="socialpopup-input-box">
+                                    <input type="text" name="email" value="Email address" onfocus="if (this.value == 'Email address') {this.value = '';this.style.color ='#666';}" onblur="if (this.value == '') {this.style.color ='#ccc';this.value = 'Email address';}" id="email" class="input_bg name-text required validate-email" title="Email address">
+                                    <div id="email_error" class="popup_error_msg"></div>
+                                </div>
+                                <div class="socialpopup-input-box">
+                                    <input type="password" name="password" class="input_bg password-text required" value="Password" onfocus="if (this.value == 'Password') {this.value = '';this.style.color ='#666';}" onblur="if (this.value == '') {this.style.color ='#ccc';this.value = 'Password';}" id="password" title="Password">
+                                    <div id="password_error" class="popup_error_msg"></div>
+                                    <div id="progress_image_login" style="display: none">
+                                        <img src="http://www.apptha.com/skin/frontend/default/default/images/sociallogin/ajax-loader.gif" alt="loading please wait">
+                                    </div>
+                                    <div class="social_login_btn">
+                                        <a href="javascript:void(0);" id="show_password" onclick="return show_password();">Forgot your password?</a>
+                                        <button type="button" class="loginbtn" title="Login" name="send" onclick="return sendLogin();" id="slogin"></button>
+                                    </div>
+                                </div>
+                            </form>
+
+                        </div>
+                    </div>
+                   
+                    <div id="register_div" style="display:none">
+                        <div id="register_error" style="display:none" class="com_error"></div>
+                        <div class="sl_clear"></div>
+                        <div class="left_login">
+                            <h4 id="register_tittle" style="display: none;">Registration</h4>
+                            <form id="form-validate" class="socialpopup_form">
+                                <div class="socialpopup-input-box">
+                                    <input type="text" name="first_name" id="first_name" value="First name" onfocus="if (this.value == 'First name') {this.value = '';this.style.color ='#666';}" onblur="if (this.value == '') {this.style.color ='#ccc';this.value = 'First name';}" class="input_bg name-input" title="First name">
+                                    <div id="first_register_error" class="popup_error_msg"></div>
+                                </div>
+
+                                <div class="socialpopup-input-box">
+                                    <input type="text" name="last_name" id="last_name" value="Last name" onfocus="if (this.value == 'Last name') {this.value = '';this.style.color ='#666';}" onblur="if (this.value == '') {this.style.color ='#ccc';this.value = 'Last name';}" class="input_bg name-input" title="Last name">
+                                    <div id="last_register_error" class="popup_error_msg"></div>
+                                </div>
+
+                                <div class="socialpopup-input-box">
+                                    <input type="text" name="email_register" value="Email address" onfocus="if (this.value == 'Email address') {this.value = '';this.style.color ='#666';}" onblur="if (this.value == '') {this.style.color ='#ccc';this.value = 'Email address';}" class="input_bg name-text" id="email_register" title="Email address">
+                                    <div id="email_register_error" class="popup_error_msg"></div>
+                                </div>
+
+                                <div class="socialpopup-input-box">
+                                    <input type="password" name="password_register" value="Password" onfocus="if (this.value == 'Password') {this.value = '';this.style.color ='#666';}" onblur="if (this.value == '') {this.style.color ='#ccc';this.value = 'Password';}" class="input_bg  password-text" id="password_register" title="Password">
+                                    <div id="password_register_error" class="popup_error_msg"></div>
+                                </div>
+
+                                <div class="socialpopup-input-box">
+                                    <input type="password" name="confirm_password" id="confirm_password" value="Password" onfocus="if (this.value == 'Password') {this.value = '';this.style.color ='#666';}" onblur="if (this.value == '') {this.style.color ='#ccc';this.value = 'Password';}" class="input_bg  password-text" title="Password">
+                                    <div id="confirm_register_error" class="popup_error_msg"></div>
+                                    <div id="progress_image_register" style="display: none">
+                                        <img src="http://www.apptha.com/skin/frontend/default/default/images/sociallogin/ajax-loader.gif" alt="loading please wait">
+                                    </div>
+                                    <div class="social_login_btn">
+                                        <button type="button" title="Sign Up Now!" class="registerbtn" onclick="return sendRegister();" id="sregister"> </button>
+                                    </div>
+                                </div>
+
+                            </form>
+
+                        </div>
+                    </div>
+                    <span class="divider-or"></span>
+                    <div style="float:left">
+                   
+                    <div id="all_social_iconbtn" style="width:100%;float:left;padding-left:5px;">
+
+                        <strong class="info_grid">Login with </strong>
+                        <!-- Social login icons -->
+                                            <ul>
+                            <!--Facebook button -->
+                            <li id="login" class="sl_clearfix"><a id="facebook_login" class="facebook_btn_grid social_btn_grid" title="Facebook Login" onclick="fblogin();">     <img id="progress_image_facebooklogin" style="display:none" src="http://www.apptha.com/skin/frontend/default/default/images/sociallogin/ajax-loader.gif" alt="loading please wait"></a>
+
+                            </li>
+
+                                                                            <!--Google button -->
+                                                    <li class="sl_clearfix">  <a onclick="javascript:location.href='https://www.google.com/accounts/o8/ud?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.mode=checkid_setup&amp;openid.return_to=http%3A%2F%2Fwww.apptha.com%2Fsociallogin%2Findex%2Fgooglepost&amp;openid.realm=http%3A%2F%2Fwww.apptha.com&amp;openid.ns.ax=http%3A%2F%2Fopenid.net%2Fsrv%2Fax%2F1.0&amp;openid.ax.mode=fetch_request&amp;openid.ax.type.namePerson_first=http%3A%2F%2Faxschema.org%2FnamePerson%2Ffirst&amp;openid.ax.type.namePerson_last=http%3A%2F%2Faxschema.org%2FnamePerson%2Flast&amp;openid.ax.type.contact_email=http%3A%2F%2Faxschema.org%2Fcontact%2Femail&amp;openid.ax.required=namePerson_first%2CnamePerson_last%2Ccontact_email&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select'" title="Google Login" class="googleplus_btn_grid social_btn_grid">  </a></li>
+                        
+                    </ul>
+                </div>
+                </div>
+                <div class="sl_clear"></div>
+
+
+                <div class="left_login" id="forget_password_div" style="display: none">
+                    <form id="forget_password_form" class="socialpopup_form">
+                        <h4>Forgot your password?</h4>
+                        <span class="small_txt">Enter your email address here to receive a link to change password.</span>
+                        <label class="required"></label>
+                        <div class="socialpopup-input-box">
+                            <input type="text" title="" name="forget_password" value="Enter your registered email" onfocus="if (this.value == 'Enter your registered email') {this.value = '';this.style.color ='#666';}" onblur="if (this.value == '') {this.style.color ='#ccc';this.value = 'Enter your registered email';}" class="input_bg  name-text" id="forget_password">
+
+                            <div id="forget_password_error" class="popup_error_msg"></div>
+                            <div id="progress_image_forgot" style="display: none">
+                                <img src="http://www.apptha.com/skin/frontend/default/default/images/sociallogin/ajax-loader.gif" alt="loading please wait">
+                            </div>
+                            <div class="social_login_btn">
+                                <button type="button" title="Submit" onclick="return forgot_password();" class="forgot_btn"></button>
+                            </div>
+                        </div>
+                    </form>
+
+                </div>
+                <div class="sl_clear"></div>
+            </div>
+
+        </div>
+        <div class="sl_clear"></div>
+
+
+    </div>
+    <div class="powerdby_sociallogin">Powered by <a target="_blank" href="http://www.apptha.com/magento/social-login" title="Apptha Social Login">Apptha Social Login</a></div>
+    <div class="sl_clear"></div>
+
+    <div id="creat_account" style="display:block" class="bottom_link"> <span>Don't have an account?</span> <a href="javascript:void(0);" id="show_register" class="register_link" onclick="return show_register();"></a></div>
+    <div class="bottom_link" id="return_login" style="display:none"> <span>Already have an account?</span> <a href="javascript:void(0);" id="hide_register" class="login_link" onclick="return hide_register();"></a></div>
+</div>
+<!-- popup -->
+<!--          <div id="fb-root"></div>-->
+<script type="text/javascript">
+    <!--/
+    //facebook login
+    window.fbAsyncInit = function() {
+        FB.init({appId: '175848555818810', status: true, cookie: true, xfbml: true});
+
+        /* All the events registered */
+        FB.Event.subscribe('auth.login', function(response) {
+            // do something with response
+            login();
+        });
+
+    };
+    function fblogin(){
+        FB.login(function(response) {
+           
+        
+            FB.getLoginStatus(function(response) {
+           
+                if (response.status === 'connected') {
+                    document.getElementById('progress_image_facebooklogin').style.display="block";
+                    login();
+                }
+            });
+        }, {scope:'email'});
+        return false;
+    }
+    (function() {
+        var e = document.createElement('script');
+        e.type = 'text/javascript';
+        e.src = document.location.protocol +
+            '//connect.facebook.net/en_US/all.js';
+        e.async = true;
+        document.getElementById('fb-root').appendChild(e);
+    }());
+ 
+    function login(){
+        FB.api('/me', function(response) {
+                   
+            window.location.href='http://www.apptha.com/sociallogin/index/fblogin'
+        });
+    }
+    //Light box popup
+    Event.observe(window, 'load', function () {
+        apptha_lightbox = new Lightbox1('containerDiv');
+    });
+       
+      
+    Event.observe(window, 'load', function () {
+        apptha_header_logo_Div = new Lightbox1('header_logo_Div');
+        Event.observe('bg_fade', 'click', function () {
+            apptha_header_logo_Div.close1();
+        });
+    });
+        
+    Event.observe('closeLink', 'click', function () {
+        apptha_lightbox.close1();
+    });
+        
+       
+    Event.observe('closeLink2', 'click', function () {
+        apptha_header_logo_Div.close1();
+            
+        ClearAll();
+    });
+        
+    //twitter login email box
+    Event.observe('popup_twitter_email', 'click', function () {
+        apptha_header_logo_Div.close1();
+        apptha_lightbox.open1();
+        Event.observe('bg_fade', 'click', function () {
+            apptha_lightbox.close1();
+        });
+    });
+        
+    window.document.onkeydown = function (e)
+    {
+        if (!e) e = event;
+        if (e.keyCode == 27) {
+            apptha_lightbox.close1();
+                
+            apptha_header_logo_Div.close1();
+            ClearAll();
+        }
+    }
+   
+    Event.observe('popup_twitter_email', 'click', function () {
+        apptha_header_logo_Div.close1();
+        apptha_lightbox.open1();
+        Event.observe('bg_fade', 'click', function () {
+            apptha_header_logo_Div.close1();
+        });
+    });
+        
+    //multi login load icons
+    Event.observe('headerboxLink1', 'click', function () {
+        apptha_header_logo_Div.open1();
+            
+        Event.observe('bg_fade', 'click', function () {
+            apptha_lightbox.close1();
+        });
+    });
+        
+    function fbsignup(){
+        FB.login(function(response) {
+            FB.getLoginStatus(function(response) {
+                if (response.status === 'connected') {
+                    document.getElementById('progress_image_facebooksignup').style.display="block";
+                    login();
+                }
+            });
+        }, {scope:'email'});
+        return false;
+    }
+    function trim(string){
+        return string.replace(/^\s+|\s+$/g,"");
+    }
+    function sendLogin()
+    {
+        $('email_error').innerHTML='';
+        $('password_error').innerHTML='';
+        var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+        var email_value = trim($("email").value);
+        var password_value=trim($('password').value);
+
+        var errFlag = false;
+        if(email_value =="" || email_value =="Email address" ){
+            $('email_error').innerHTML='This field is required';
+            errFlag = true;
+        }
+        else if(reg.test(email_value) == false ){
+            $('email_error').innerHTML='Invalid email address';
+            errFlag = true;
+        }
+        if(password_value =="" || password_value =="Password" ){
+            $('password_error').innerHTML='This field is required';
+            errFlag = true;
+        }
+        if(errFlag){
+            return false;
+        }
+        else{
+            var ajaxurl = "http://www.apptha.com/sociallogin/index/customerloginpost/";
+            new Ajax.Request(ajaxurl, {
+                method: 'post',
+                parameters: {email_value: email_value, password_value: password_value},
+                onSuccess: function(transport) {
+                    document.getElementById('progress_image_login').style.display="none";
+                    var pattern_url = /(ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/;
+                    var url_value=pattern_url.test(transport.responseText);
+                    if(url_value ==true)
+                    {
+
+                        window.location.href=transport.responseText;
+                    }
+                    else
+                    {
+                        document.getElementById('password_error').innerHTML=transport.responseText;
+                    }
+                }
+            });
+        }
+    }
+    function sendRegister()
+    {
+        var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+        var first_name = trim($("first_name").value);
+        var last_name = trim($("last_name").value);
+        var email_value = trim($("email_register").value);
+        var password_value=trim($('password_register').value);
+        var confirm_password = trim($("confirm_password").value);
+        var pattern = /(ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/;
+
+        $('first_register_error').innerHTML='';
+        $('last_register_error').innerHTML='';
+        $('email_register_error').innerHTML='';
+        $('password_register_error').innerHTML='';
+        $('confirm_register_error').innerHTML='';
+            
+        var errFlag = false;
+
+        if(first_name =="" || first_name =="First name" ){
+            $('first_register_error').innerHTML='This field is required';
+            errFlag = true;
+        }
+        if(last_name =="" || last_name =="Last name" ){
+            $('last_register_error').innerHTML='This field is required';
+            errFlag = true;
+        }
+        if(email_value =="" || email_value =="Email address" ){
+            $('email_register_error').innerHTML='This field is required';
+            errFlag = true;
+        }
+        else if(reg.test(email_value) == false ){
+            $('email_register_error').innerHTML='Invalid email address';
+            errFlag = true;
+        }
+        if(password_value =="" || password_value =="Password" ){
+            $('password_register_error').innerHTML='This field is required';
+            errFlag = true;
+        }
+        if(confirm_password =="" || confirm_password =="Password" ){
+            $('confirm_register_error').innerHTML='This field is required';
+            errFlag = true;
+        }
+        else if(password_value !="" || password_value !="Password"){
+            if(password_value != confirm_password ){
+                $('confirm_register_error').innerHTML='Password and confirm password do not match';
+                errFlag = true;
+            }
+        }
+        if(errFlag){
+            return false;
+        }
+        else{
+            document.getElementById('progress_image_register').style.display="block";
+            var ajaxurl = "http://www.apptha.com/sociallogin/index/createPost/";
+            new Ajax.Request(ajaxurl, {
+                method: 'post',
+                parameters: {email: email_value, password: password_value,firstname:first_name,lastname:last_name,confirmation:confirm_password},
+                onSuccess: function(register_success) {
+                    document.getElementById('progress_image_register').style.display="none";
+                    var pattern_url = /(ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/;
+                    var url_value=pattern_url.test(register_success.responseText);
+                    if(url_value ==false)
+                    {
+                        document.getElementById('register_error').style.display="block";
+                        document.getElementById('register_error').innerHTML=register_success.responseText;
+                        return false;
+                    }else
+                    {
+                        window.location.href=register_success.responseText;
+                    }
+                }
+            });
+        }
+
+    }
+        
+    function forgot_password()
+    {
+            
+        var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+        var email_value = document.getElementById("forget_password").value;
+        var password_value=document.getElementById('password').value;
+        if(email_value=='')
+        {
+            $('forget_password').addClassName("validation-failed");
+            $('forget_password_error').innerHTML='<div style="" id="advice-required-entry-forgot-password" >This is a required field.</div>';
+        } else if(reg.test(email_value) == false) {
+            $('forget_password').addClassName("validation-failed");
+            $('forget_password_error').innerHTML='<div style="" id="advice-required-entry-forgot-password" >Invalid email address.</div>';
+            return false;
+        }else{
+                
+            document.getElementById('forget_password_error').innerHTML="";
+            document.getElementById('progress_image_forgot').style.display="block";
+            var ajaxurl = "http://www.apptha.com/sociallogin/index/forgotPasswordPost/";
+            new Ajax.Request(ajaxurl, {
+                method: 'post',
+                parameters: {email_value: email_value},
+                onSuccess: function(forgot_password) {
+                    document.getElementById('progress_image_forgot').style.display="none";
+                    if(forgot_password.responseText=='sent')
+                    {
+                        document.getElementById('forget_password_error').innerHTML="If there is an account associated with  "+email_value+" you will receive an email with a link to reset your password";
+                    }else{
+                        document.getElementById('forget_password_error').innerHTML=forgot_password.responseText;
+                        return false;
+                    }
+                }
+            });
+        }
+    }
+    function show_register()
+    {
+        document.getElementById('register_div').style.display="block";
+        document.getElementById('login_div').style.display="none";
+        document.getElementById('login_tittle').style.display="none";
+        document.getElementById('register_tittle').style.display="block";
+        document.getElementById('return_login').style.display="block";
+        document.getElementById('creat_account').style.display="none";
+        document.getElementById('forget_password_div').style.display="none";
+            
+        return false;
+    }
+    function hide_register()
+    {
+        document.getElementById('register_div').style.display="none";
+        document.getElementById('login_div').style.display="block";
+        document.getElementById('login_tittle').style.display="block";
+        document.getElementById('register_tittle').style.display="none";
+        document.getElementById('return_login').style.display="none";
+        document.getElementById('creat_account').style.display="block";
+
+        return false;
+    }
+    function show_password(){
+        document.getElementById('show_password').setAttribute('onclick','hide_password();')
+        // document.getElementById('forget_password_error').innerHTML="";
+        document.getElementById('login_div').style.display="block";
+        document.getElementById('login_tittle').style.display="block";
+        document.getElementById('register_tittle').style.display="none";
+        document.getElementById('return_login').style.display="none";
+        document.getElementById('creat_account').style.display="block";
+        document.getElementById('register_div').style.display="none";
+        document.getElementById('forget_password_div').style.display="block";
+        return false;
+    }
+    function hide_password()
+    { document.getElementById('show_password').setAttribute('onclick','show_password();')
+        // document.getElementById('forget_password_error').innerHTML="";
+        document.getElementById('login_div').style.display="block";
+        document.getElementById('login_tittle').style.display="block";
+        document.getElementById('register_tittle').style.display="none";
+        document.getElementById('return_login').style.display="none";
+        document.getElementById('creat_account').style.display="block";
+        document.getElementById('register_div').style.display="none";
+        document.getElementById('forget_password_div').style.display="none";
+    }
+    function twitter_check()
+    {
+        var email_value = document.getElementById("tw_email").value;
+        var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+        if(email_value=='')
+        {
+            document.getElementById('twitter_error').innerHTML="This field is required";
+        } else if(reg.test(email_value) == false) {
+            document.getElementById('twitter_error').innerHTML="Invalid email address";
+            return false;
+        }else{
+            document.getElementById('twitter_error').innerHTML="";
+            var ajaxurl = "http://www.apptha.com/sociallogin/index/twitterpost/";
+            new Ajax.Request(ajaxurl, {
+                method: 'post',
+                parameters: {email_value: email_value},
+                onSuccess: function(twitter_success_give) {
+                    var pattern_url = /(ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/;
+                    var url_value=pattern_url.test(twitter_success_give.responseText);
+                    if(url_value ==false)
+                    {
+                            
+                        document.getElementById('twitter_error').innerHTML=twitter_success_give.responseText;
+                        return false;
+                    }else
+                    {
+                            
+                        window.location.href=twitter_success_give.responseText;
+                    }
+                        
+                }
+            });
+        }
+    }
+       
+    function ClearAll() {
+        document.getElementById('email_error').innerHTML="";
+        document.getElementById('password_error').innerHTML="";
+        document.getElementById('forget_password_error').innerHTML="";
+        document.getElementById('confirm_register_error').innerHTML="";
+        document.getElementById('password_register_error').innerHTML="";
+        document.getElementById('confirm_register_error').innerHTML="";
+        document.getElementById('last_register_error').innerHTML="";
+        document.getElementById('first_register_error').innerHTML="";
+        document.getElementById('password_register_error').innerHTML="";
+        document.getElementById('email_register_error').innerHTML="";
+        document.getElementById('register_div').style.display="none";
+        document.getElementById('login_div').style.display="block";
+        document.getElementById('login_tittle').style.display="block";
+        document.getElementById('register_tittle').style.display="none";
+        document.getElementById('return_login').style.display="none";
+        document.getElementById('creat_account').style.display="blcok";
+        document.getElementById('forget_password_div').style.display="none";
+        var objInput = document.getElementsByTagName("input");
+
+        for (var iCount = 0; iCount < objInput.length; iCount++) {
+
+            if (objInput[iCount].type == "text" || objInput[iCount].type == "password")
+
+            objInput[iCount].value = "";
+
+    }
+
+}
+-->
+        
+</script>
+
+    <div class="page-title">
         <h1>Privacy Policy</h1>
     </div>
 <div class="std"><h3>Information that we collect and how we use it</h3>
-<p>Contus Support respects your privacy and is committed to protect the information you provide us through this website. We do not sell or distribute user information to third parties unless it is legally required. We gather user information in order to serve your needs and respond to your information requests.</p>
+<p>Contus respects your privacy and is committed to protect the information you provide us through this website. We do not sell or distribute user information to third parties unless it is legally required. We gather user information in order to serve your needs and respond to your information requests.</p>
 <h4>Data Security Compliance</h4>
-<p>The security and privacy of your data is a crucial part of Contus’ business. This statement provides our clients, the assurance and our commitment to information &amp; data security compliance. We are committed to respect your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Contus Support focuses on continual improvement of its privacy policy.</p>
+<p>The security and privacy of your data is a crucial part of Contus’ business. This statement provides our clients, the assurance and our commitment to information &amp; data security compliance. We are committed to respect your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Contus focuses on continual improvement of its privacy policy.</p>
 <h4>Collecting User Information</h4>
 <p>We collect information about our web visitors indirectly through our Internet access logs. When you access Contus, the browser’s domain name and Internet address is automatically collected and placed in our Internet access logs. We use this information to learn about which sections, pages and information web site visitors access.</p>
 <h4>Usage of Personal Information</h4>
-<p>Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Contus Support 's Web pages without telling us who you are or revealing any Personal Information about yourself.</p>
-<p>If you choose to provide us with your Personal Information on the web, we may transfer that Information within Contus Support or to Contus Support's third-party service providers, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.</p>
-<p>Contus Support strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Contus Support intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.</p>
+<p>Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Contus 's Web pages without telling us who you are or revealing any Personal Information about yourself.</p>
+<p>If you choose to provide us with your Personal Information on the web, we may transfer that Information within Contus or to Contus's third-party service providers, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.</p>
+<p>Contus strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Contus intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.</p>
 <h4>Cookies</h4>
-<p>Contus Support website may use cookies to assist in producing overall site visitor statistics. Cookies, by themselves, cannot be used to find out the identity of any user unless they specifically tell us who they are. If you wish to, you can disable cookies on your computer by changing the settings in preferences or options menu in your browser.</p>
+<p>Contus website may use cookies to assist in producing overall site visitor statistics. Cookies, by themselves, cannot be used to find out the identity of any user unless they specifically tell us who they are. If you wish to, you can disable cookies on your computer by changing the settings in preferences or options menu in your browser.</p>
 <h4>Disclosure of User Information</h4>
-<p>Contus Support does not rent, sell, or share personal information about you with non-affiliated party or companies. If you have submitted user information to us through an e-mail, Contus Support maintains your security by ensuring that the information is only distributed within the Contus Support Group who are all responsible for responding to your requests either directly or indirectly.</p>
+<p>Contus does not rent, sell, or share personal information about you with non-affiliated party or companies. If you have submitted user information to us through an e-mail, Contus maintains your security by ensuring that the information is only distributed within the Contus Group who are all responsible for responding to your requests either directly or indirectly.</p>
 <h4>We may disclose information in the following circumstances</h4>
 <ul>
-<li>We provide the information to trusted partners who work on behalf of or with Contus Support under extremely strict confidentiality agreements.</li>
+<li>We provide the information to trusted partners who work on behalf of or with Contus under extremely strict confidentiality agreements.</li>
 <li>We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.</li>
 <li>We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law.</li>
 </ul>
 <h4>Links to Third Party Sites</h4>
-<p>Contus Support’s website may provide links to other third party websites. Contus Support is not responsible for the contents or policies of these websites. These links are provided to you for convenience purposes only and Contus Support is not liable for inaccuracy of any information on such sites. These sites may send their own cookies to users, or otherwise collect data or solicit personal information. If the Contus Support website links you to any third-party website, we make no representation as to the existence, sufficiency, accuracy or completeness of their Privacy Policy.</p>
+<p>Contus’s website may provide links to other third party websites. Contus is not responsible for the contents or policies of these websites. These links are provided to you for convenience purposes only and Contus is not liable for inaccuracy of any information on such sites. These sites may send their own cookies to users, or otherwise collect data or solicit personal information. If the Contus website links you to any third-party website, we make no representation as to the existence, sufficiency, accuracy or completeness of their Privacy Policy.</p>
 <h4>Intellectual Property Rights</h4>
-<p>The products, technology and services described in this site may be the subject of intellectual property rights reserved by Contus Support or other third parties. Nothing contained herein shall be construed as conferring to you in any manner, whether by implication, estoppel or otherwise, any license, title or ownership of or to any intellectual property right of Contus Support or any third party.</p>
+<p>The products, technology and services described in this site may be the subject of intellectual property rights reserved by Contus or other third parties. Nothing contained herein shall be construed as conferring to you in any manner, whether by implication, estoppel or otherwise, any license, title or ownership of or to any intellectual property right of Contus or any third party.</p>
 <p>&nbsp;</p></div>                </div>
             </div>
         </div>
@@ -335,8 +924,8 @@ SnapABug.init("634c5da5-4bdd-4608-b305-2150069fe0df");
 </div>
 <div class="footer-bottom">
     <div class="footer-bottom-content">
-    <span class="copyright">© 2012 apptha.com All rights reserved.</span>
-    <div class="companyinfo">A part of <a href="http://www.contussupport.com/" target="_blank">Contus Support Interactive.</a></div>
+    <span class="copyright">© 2013 apptha.com All rights reserved.</span>
+    <div class="companyinfo">Apptha ecommerce store is built and maintained by <a href="http://www.contus.com/" target="_blank">Contus</a>.</div>
     </div>
 </div>
 
