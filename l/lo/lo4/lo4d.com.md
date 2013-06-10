@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lo4d.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204183832id_/http%3A//www.lo4d.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lo4d.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611003811id_/http%3A//www.lo4d.com/corp/privacy) for the most accurate reproduction.*
 
-# Privacy Policy at Lo4d.com
+# Privacy Policy at LO4D.com
 
-Your personal privacy matters to us:
+Your privacy is very important
 
- **The bottom line: We will not ever use your email address or any personal information you provide to us as a means to do any harm; that means we will never sell your information to spammers or provide it to third parties (such as law enforcement) without a _very_ valid reason**. Now to the the details:
+The following is a description of what information is collected while you're using our web site. **In a word:** We use statistical analytics software and a third-party ad-serving system on some pages. We don't collect email addresses for marketing purposes and we don't sell any of your data to third parties. 
 
 **Our commitment**
 
@@ -30,7 +30,7 @@ We utilise a third party agency to display ads on our site. These ads may contai
 
 **Personal Information**
 
-Some of our services may collect and request personal information. It may include email addresses, your name(s) or surname(s), your age, birthday and other personal information. While we use this information to enhance the services we provide, we do not share any of this information with any third parties. We may, however, compile statistics based on this information from time to time. Email addresses are protected and under no circumstances are they ever shared.
+If you decide to register on our site, it may require us to obtain your email address to confirm your account. While we use this information to enhance the services we provide, we do not share any of this information with any third parties.
 
 **External Links**
 
