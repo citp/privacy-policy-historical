@@ -1,66 +1,129 @@
-> *The following text is extracted and transformed from the covisint.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207054053id_/http%3A//www.covisint.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covisint.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610020236id_/http%3A//www.covisint.com/privacy) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# Privacy - www.covisint.com
 
-This Privacy Policy _**(the "Policy")**_ sets forth Compuware Corporation's _**("Compuware" or "Covisint")**_ policies regarding the collection and use of information relating to the Covisint Web site _**(the "Web Site")**_ and the Covisint Exchange _**(the "Exchange")**_. The Exchange is only accessible by registered Members of the Exchange ("Members") and their authorized users _**("Authorized Users")**_ ; the Web Site is generally accessible by all others who visit the Web Site _**("Visitors")**_. With respect to Members and their Authorized Users, the applicable Product Agreement or Product Addenda may specify certain additional rights and obligations regarding the collection of data. 
+[**Download a printable PDF of the Covisint Privacy Policy**](https://web.archive.org/documents/portal/Documents/PrivacyStatementCovisint2013.pdf)
 
-INFORMATION COLLECTION AND USE ****  
-**General**  
-Visitors, Members and Authorized Users understand and agree that Covisint may collect, maintain, and process information provided by such parties to Covisint, and information collected by Covisint concerning such Visitors, Members and Authorized Users, on and through the Web Site and the Exchange. Visitors, Members and Authorized Users represent and warrant that all information they provide to Covisint is true, accurate, current, non-misleading, and consistent and relevant for the purpose for which such information is provided. Members and Authorized Users also represent and warrant that they have the authority to provide the information submitted to and through the Exchange, and understand and agree that Covisint may from time to time verify such authority. 
+**Covisint's Commitment to Privacy** Covisint Corporation ("Covisint") and its parent company, Compuware Corporation (the "Company") respects your right to privacy and is committed to protecting it. In order to provide you with relevant information, respond to your requests and increase the benefits you receive when visiting our website(s), we may request information about you. We want you to feel secure when providing such information to us and this Privacy Statement is intended to inform you about the type(s) of information we gather and how we use it. The Statement applies to information collected by Company.
 
-  
-**Public Areas of the Web Site**  
-Visitors may visit the public (non-Exchange) areas of the Web Site without disclosing any personally identifiable information about themselves. However, Visitors will have the opportunity to request information from Covisint, in which case an email or other address may be required in order to allow Covisint to comply with the request, and for other purposes as may be disclosed at the time the request is made ( _"Special Purpose Collection"_ ). Visitors may elect to opt-out from receiving communications other than those relating to the Special Purpose Collection by (a) following the instructions in the section titled _**OPT-OUT CHOICES**_ , below, (b) checking appropriate opt-in or opt-out boxes which may be provided on the collection form, or (c) as set forth in the communication sent from Covisint. Covisint will not request more information than is reasonably necessary to provide requested information or services. 
+  * The Collection of Personal Data
+  * How We Use the Information We Collect
+  * Cookies
+  * Opt-out
+  * Links to Non-Company Websites
+  * Commitment to Data Security
+  * European Union Safe Harbor Certification
+  * Public Forums
+  * Online Job Applications
+  * Issue Resolution
 
-  
-**Exchange**  
-_Registration Information_  
-In order to participate in the Exchange, Covisint requires Members and Authorized Users to register with the Exchange by, among other things, providing contact information including Password and User ID, name, title, department, business address, business telephone number, business email address and other contact information ( _ **"Registration Information"**_ ). Such information will typically be provided to Covisint by the Member's Administrator. Certain portions of the Registration Information concerning the Member (and not an individual Authorized User) will be used for evaluating qualifications for participation in the Exchange. Registration Information concerning individual Authorized Users may be made available to other Members, in the form of contact directories maintained on the Exchange, in order to facilitate the operation of the Exchange. Covisint may also use Registration Information to communicate with Members and Authorized Users regarding available transactions, changes in Exchange functionality, features, billing, help desk and other activities relating to the operation of the Exchange. Covisint may also use Registration Information to send Members and Authorized Users information about products or services available on or through the Exchange and offers made available by Covisint's business partners, which may be sent by Covisint or the Covisint business partner making the offer. Instructions on how to request that Covisint not send future communications (except for communications necessary for the operation of the Exchange) or that Covisint not share Registration Information with Other Members or third parties, are set forth in the section titled _**OPT-OUT CHOICES**_ below and, for Covisint-transmitted material which is unrelated to the operation of the Exchange, in each communication. 
 
-  
-**Usage Data**  
-Covisint will record and collect information about how Visitors, Members and Authorized Users use the Web Site, and in the case of Members and Authorized Users, the Exchange. This data may include, a Visitor's, Member's or Authorized User's domain name, language, type of browser and operating system, Internet Service Provider, Internet protocol (IP) address, the Web site from which Visitors, Members or Authorized Users arrived at the Web Site or the Exchange, and the amount of time spent on the Web Site or using the Exchange (collectively, _"Usage Data"_ ). Covisint may monitor and use Usage Data in aggregated form to measure the Web Site's performance and Exchange activity and improve the Web Site's or Exchange's design and functionality. Covisint may also use Usage Data in aggregated form to develop and distribute to third parties statistical and general information about how the Web Site and Exchange are used and for other marketing purposes. Covisint may also use Usage Data in unaggregated form to investigate and prosecute security violations or to identify a particular Authorized User who engaged in a particular transaction on behalf of a Member in the event there is a repudiation of such transaction by such Member. 
 
-  
-**Cookies**  
-Covisint may use "cookies" to make transactions and other activities through the Web Site and the Exchange more convenient and efficient for Visitors, Members and Authorized Users. For these purposes, Covisint may use "session cookies," which consist of information stored in a browser's memory and passed back to the applicable server whenever a request for a new page on the Web Site or the Exchange is made. The session cookie is never saved nor written to disk, and the information contained in the session cookie is only valid for that one particular session. The session cookie is discarded when the browser is closed or, in the case of a Member or Authorized User, upon logging out of the Exchange. Most Web browsers automatically accept session cookies, and most may also be configured to provide notice of when a session cookie is about to be placed on the browser. No information is saved in such session cookies other than an identification number associated with the particular session. 
+##  The Collection of Personal Data
 
-  
-**Forums**  
-Covisint may make available certain public forums such as bulletin boards or chat rooms (collectively, _"Forums"_ ) on the Web Site or the Exchange. Use of any Forum is subject to Covisint's Exchange Rules, [Terms of Use](https://web.archive.org/legal.shtml), and any other notice or policy applicable to a particular Forum or all Forums collectively. Any and all information posted on or through a Forum will be generally accessible for viewing by others. Accordingly, participants are encouraged to exercise discretion when using Forums.
+You may visit a Company website without identifying yourself or sharing any personal information. The Company does collect certain domain information in order to improve and customize your experience on its site(s). Specifically, the Company may collect the following types of information when you use any Company or Company-affiliated website:
 
-  
-**OPT-OUT CHOICES**  
-To "opt-out" of (1) receiving communications from Covisint (except for communications necessary for the operation of the Web Site or the Exchange), (2) having contact information disclosed to third parties (except as necessary for Covisint to operate the Web Site and Exchange, or as otherwise permitted under this Policy), or (3) any other consent previously granted for a specific purpose concerning your personally identifiable information, send an email to Covisint at [businessnow@covisint.com](mailto:businessnow@covisint.com).
+  * Information you provide directly, including personally identifiable information, when you complete an online registration form for offers, events, user groups, training, trials, demos, etc. or submit an inquiry via email, direct mail, phone or fax.
+  * Information you provide directly, including personally identifiable information, by submitting an online job application.
+  * Usage data, collected via Google Analytics, such as IP address, web browser type/version, operating system and website visit information such as date, time and pages viewed.
+  * Click-through information related to Company emails and banner advertisements.
+  * Aggregate, non-personally identifiable information, such as the number of weekly visits or page views to a Company website.
 
-  
-**REVIEW/CHANGE CONTACT INFORMATION**  
-Requests to review or change information previously provided on or through the Web Site or the Exchange may be made to Covisint by sending an email to the Covisint Data Controller. Requests for changes to the Registration Information should be made by Authorized Users directly to their Administrators.
 
-  
-**LINKED SITES/THIRD PARTY SITES**  
-Web sites ( _"Linked Sites"_ ) from the Web Site or the Exchange. Linked Sites are not reviewed, controlled or examined by Covisint in any way and Covisint is not responsible for the privacy policies and practices of any such Linked Sites, or any additional links contained therein. These links do not imply Covisint's endorsement of or association with the Linked Sites. Visitors, Members and Authorized Users should refer to the policies posted by such Linked Sites regarding data collection, privacy and other topics before accesing them. Covisint may refer to or list third parties on the Web Site or the Exchange who maintain separate web sites. Visitors, Members and Authorized Users should refer to the policies posted by such third parties on their web sites regarding data collection, privacy and other topics before accesing them.
 
-  
-**DISCLOSURE PURSUANT TO LAW**  
-Covisint may make information concerning Visitors, Members, Authorized Users, the Web Site and the Exchange, and the uses thereof, available to law enforcement personnel and agencies as required by law. Where permitted by law, Covisint may also disclose such information to law enforcement personnel and agencies, or use such information as part of legal process, in order to protect its property or in furtherance of an investigation regarding a breach of the Web Site or Exchange's rules and policies, or any unauthorized access to or use of the Web Site or the Exchange, or any illegal activities concerning a particular Visitor, Member or Authorized User.
+Top
 
-  
-**CONSENT TO PROCESSING**  
-By using or providing information to the Web Site and the Exchange, Members and Visitors understand and unambiguously consent to the collection, processing and use of such information in the United States and other countries and territories, for the purposes set forth in this Policy and, for Members and Authorized Users, as further set forth in their applicable Product Agreement or Product Addenda. As required to comply with privacy laws applicable to Member and/or its Authorized Users, Member agrees that it has obtained, or prior to disclosure to Covisint will obtain, consent from each of its Authorized Users to: (a) permit Member to transfer personally-identifiable information regarding the Authorized Users to Covisint; (b) the terms of this Policy; and (c) permit Covisint to collect, process and disclose such personally-identifiable information regarding the Authorized Users: (i) in order to provide the Services and perform its obligations as described in the any applicable Product Agreements or Product Addenda entered into by Member, (ii) to operate the Exchange (including but not limited to disclosure to other Members of the Exchange in the normal course of such operation) or (iii) as otherwise permitted under this Policy, including but not limited to the transfer of such personally-identifiable information between Covisint's subsidiaries and affiliates for the foregoing objectives. For further certainty, any consent relating to a right to transfer information referred to in the foregoing shall be deemed to include the consent of Authorized Users to the transfer of the applicable personally identifiable information to a jurisdiction which may have a different level of privacy protection than that applicable in the Authorized User's country.
+##  How We Use the Data We Collect
 
-  
-**SERVICES PROVIDERS**  
-Covisint may utilize third parties to provide or perform certain services and functions on the Web Site and the Exchange. For example, Covisint may use a Web site tracking evaluation firm to analyze Visitors', Members' and Authorized Users' use of the Web Site and the Exchange, as applicable. Covisint may use third party suppliers to directly provide certain functionality provided on the Exchange (through a browser re-direction to systems operated by such third party suppliers). Covisint may also outsource certain fulfillment or communication functions, such as transaction clearing, shipping, and electronic correspondence, to third parties. Covisint will make information concerning Visitors, Members and Authorized Users and their use of the Web Site and Exchange available to these service providers, as necessary, to perform these functions. Any access to such information will be limited to the purpose for which such information was provided to the service provider. The service providers may be located throughout the world. Accordingly, information relating to Visitors, Members and Authorized Users may be sent worldwide to countries which have a different level of privacy protection than the US or a Visitor's, Member's or Authorized User's country of residence.
+_General:_  
+Company may use usage data in aggregated form to:
 
-  
-**TRANSFER OF INFORMATION**  
-In the event of a sale, merger, liquidation, dissolution, or sale or transfer of the substantial assets of Covisint, information collected about Visitors, Members and Authorized Users may be sold, assigned, or transferred to a party acquiring all or substantially all of the equity and/or assets of Covisint in order to permit such party to continue the operation of the Web Site or the Exchange. Covisint may also transfer information collected about Visitors, Members and Authorized Users to its subsidiaries and affiliates, including the Covisint Group (as applicable), that are directly involved in the operation of the Exchange.
+  * Measure the website's performance and activity as well as improve the website's design and functionality.
+  * Work with third-party consultants to develop and distribute statistical and general information to best understand how our customers use the website. Investigate and prosecute security violations.
 
-  
-**SECURITY**  
-Covisint takes seriously the security of the information it collects. Covisint has therefore implemented technology and security policies and procedures intended to reduce the risk of accidental destruction or loss, or the unauthorized disclosure or access to, such information, reasonably appropriate to the level of the data concerned.
 
-  
-**UPDATES TO THE PRIVACY POLICY**  
-Covisint may, in its sole discretion, update this Policy at any time and from time to time, by posting the amended Policy on the Web Site and the Exchange. Such amended Policy shall be effective upon posting. Visitors, Members and Authorized Users are therefore encouraged to refer back to this page regularly. This Policy may not be otherwise amended without the written consent of Covisint. 
+
+_Company Online Communications:_  
+Company will use personally identifiable information, such as name, title, company, and email or other address, to communicate special promotions, events and announcements. This information may also be used to provide the products or services requested, respond to support needs, and/or provide additional information regarding Company products or services. If you do not wish to receive future promotional information and material from Company, you are offered the option to opt-out of upcoming communications.
+
+Please note that we do not knowingly solicit information from children nor do we knowingly market our products and services to children.
+
+_Information Sharing and Disclosure:_  
+Company values your business and strives to protect your privacy. Company will never sell or provide your information to list brokers or similar mass marketing entities. We may, however, provide information about you to our business partners and/or to vendors with whom we have contracted to in order to better serve your interests and/or to support targeted promotions. Company will provide only the information that is necessary for the third party to provide those services we believe will be beneficial to you and we take measures to protect your information. In such instances, Company's master "opt-out" suppression file will be provided to such third parties in order to prevent unwanted Company material from being sent to you.
+
+Company is a global company with customers and partners all over the world. Accordingly, the information we collect may be used, stored and/or processed in the USA or in any other country in which Company does business. By providing information via our website, you are consenting to the transfer of information from your country of origin to any other country in which Company does business (including those with less adequate levels of protection).
+
+Top 
+
+##  Cookies
+
+A "cookie" is a small text file that is transferred to your browser and stores information about your interactions with a particular website. A cookie is then read by the Web server that placed it on your browser. It works as a sort of identification card, recording your preferences and recalling previously entered information. By using cookies, your navigation time is reduced and use of a website is simplified.
+
+Company uses two types of cookies:
+
+  * A " **session** " cookie is temporary and is deleted once you close your browser. Session cookies are used to help a user's browser navigate a website more smoothly and may show up if the user comes from a website with which the subsequent website has some relationship (e.g., the website of an affiliated company). Session cookies can also give helpful information.
+  * A " **persistent** " cookie is more permanent and is stored on the hard drive of your computer. Persistent cookies are used to customize a website for a user. They may store passwords, preferences, registration and account information so that users do not have to re-enter this information each time they visit the website.
+
+
+
+A cookie cannot be executed as code or deliver viruses. Company uses both session and persistent cookies to collect and store information that allows us to offer better customer service and ensure easy navigation through our website(s).
+
+You have the option of setting your browser to reject cookies. In most cases, if you do not accept the cookie you are still able to use the site. Please note, however, that by not accepting cookies, you will limit the functionality we can provide you when you visit this site.
+
+Top
+
+##  Opt-out
+
+Company provides the opportunity to opt-out of receiving its communications whenever we request personal information from you and when you receive material from us. If you have difficulty opting-out, please e-mail [unsubscribe@compuware.com](mailto:unsubscribe@compuware.com) and provide your name, e-mail address and subscription you wish to cancel.
+
+Top
+
+##  Links to Non-Company Websites
+
+Company may provide links to Internet sites maintained by others. Company does not review such third-party websites in their entirety and is not responsible for the contents of or any products or services offered by such third-party sites. Company encourages you to read the privacy statement of every website you visit whether the site is linked to our or not.
+
+Company provides these links to you as a convenience and the inclusion of any link does not imply our endorsement of the linked site or our acceptance of any responsibility that arises as a result of your use of the site.
+
+Top
+
+##  Commitment to Data Security
+
+To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+Top
+
+##  European Union Safe Harbor Certification
+
+Company complies with the U.S. - EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Compuware has certified that it and its subsidiary, Covisint, adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Compuware's certification, please visit <http://www.export.gov/safeharbor>.
+
+Top
+
+##  Public Forums
+
+This site may make chat rooms, forums, message boards, feedback forms, web logs, "blogs", news groups and/or other public messaging forums available to its users. Please remember that any information you disclose in these areas becomes public information. You should always exercise caution when deciding to disclose your personal information in these public forums.
+
+Top
+
+##  Online Job Applications
+
+Company's website provides the opportunity for candidates to submit their resume or curriculum vitae online. All resumes received by Company will be held in confidence and used only for the purpose of considering the candidate for employment or for such other purpose as requested by the candidate. Company will not sell, trade, rent or distribute the personal information contained in any online application to any third party.
+
+All open positions offered by Company or by its domestic and international subsidiaries are subject to specific job skill requirements. The job skill requirements, qualifications and preferred experience are determined by the domestic or international subsidiary offering the position. All positions are subject to local prevailing employment laws and restrictions. This includes immigration laws pertaining to work authorization requirements and any other applicable government permissions or compliance.
+
+_How to Update Your Resume/Personal Information:_  
+If you have already submitted your resume or curriculum vitae to Company and your skills, experience or contact information has changed, please resubmit your resume. Your revised resume will be updated in our resume management system. Visit the [Careers](http://www.compuware.com/careers) site to learn more about open positions, candidate eligibility and the interviewing process.
+
+_How to Contact Company Recruiting Regarding Your Privacy:_  
+Please e-mail us at [compuware.recruiting@compuware.com](mailto:compuware.recruiting@compuware.com) if you have any concerns regarding your privacy during the recruiting process.
+
+Top
+
+##  Issue Resolution
+
+Our goal is to respect your privacy. If you seek resolution to any privacy or data collection issue with Company, or have suggestions on how we can improve our policies, please contact us at [privacy_concerns@compuware.com](mailto:privacy_concerns@compuware.com).
+
+Company may modify or update this Privacy Statement at any time without prior notice. We encourage you to check this Statement often so that you are aware of how we are protecting your personal information. Your continued use of this website constitutes your consent to the contents of this Privacy Statement.
+
+_Last Updated 1/10/2013_
+
+Top
