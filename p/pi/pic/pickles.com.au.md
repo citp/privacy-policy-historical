@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickles.com.au privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016124757id_/http%3A//www.pickles.com.au/about/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickles.com.au privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610180134id_/http%3A//www.pickles.com.au/about/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pickles Auctions Australia
 
