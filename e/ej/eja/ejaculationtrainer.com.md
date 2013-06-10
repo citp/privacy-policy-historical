@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ejaculationtrainer.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629041418id_/http%3A//www.ejaculationtrainer.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ejaculationtrainer.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610180856id_/http%3A//ejaculationtrainer.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,4 +70,6 @@ This privacy policy was last updated on 03-12-2010.
 
 Copyright © 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at www.ejaculationtrainer.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
 
-**[Contact](https://web.archive.org/web/20100629041418id_/http%3A//www.ejaculationtrainer.com/contact.html)      [Terms Of Use](https://web.archive.org/web/20100629041418id_/http%3A//www.ejaculationtrainer.com/termsofuse.html)     [Privacy Policy](https://web.archive.org/web/20100629041418id_/http%3A//www.ejaculationtrainer.com/privacypolicy.html)     [Affiliates](https://web.archive.org/web/20100629041418id_/http%3A//www.ejaculationtrainer.com/affiliates.html)**
+**Copyright © EjaculationTrainer.com All rights Reserved**
+
+**[Contact](https://web.archive.org/web/20130610180856id_/http%3A//ejaculationtrainer.com/contact.html)      [Terms Of Use](https://web.archive.org/web/20130610180856id_/http%3A//ejaculationtrainer.com/termsofuse.html)     [Privacy Policy](https://web.archive.org/web/20130610180856id_/http%3A//ejaculationtrainer.com/privacypolicy.html)     [Testimonials ](https://web.archive.org/web/20130610180856id_/http%3A//ejaculationtrainer.com/testimonials.html)    [Affiliates](https://web.archive.org/web/20130610180856id_/http%3A//ejaculationtrainer.com/affiliates.html)**
