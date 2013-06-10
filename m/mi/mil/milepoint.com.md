@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the milepoint.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919181619id_/http%3A//milepoint.com/forums/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milepoint.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610173603id_/http%3A//milepoint.com/forums/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | milepoint
+# Privacy Policy | Milepoint
 
 [ ](https://web.archive.org/)
 
