@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the unlike.net privacy policy that was archived on 2012-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919201615id_/http%3A//unlike.net/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unlike.net privacy policy that was archived on 2013-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130611014126id_/http%3A//unlike.net/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#" class=""><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,8 +13,8 @@
   <title>Unlike City Guides</title>
 
 
-  <link href="http://unlike.net/assets/unlike-78c6e8dcfccb81261a4a041765bbda44.css" media="screen" rel="stylesheet" type="text/css">
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://unlike.net/assets/unlike-e25c97ff71c4735814e507731d9581c6.js" type="text/javascript"></script>
+  <link href="http://unlike.net/assets/unlike-ca39a88e522ec72b2725fb5ab5de99a5.css" media="screen" rel="stylesheet" type="text/css">
+  <script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://unlike.net/assets/unlike-a3ec3ee2653f4cf80b4ac8c30b4d512c.js" type="text/javascript"></script>
 
   <script type="text/javascript">
 var googletag = googletag || {};
@@ -107,36 +107,44 @@ googletag.cmd.push(function() {
   <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 
   <meta content="authenticity_token" name="csrf-param">
-<meta content="Joaix23qplklHu301VfPtJqbLn7tee9s8sEquCsFiak=" name="csrf-token">
-  <script>$(function() {
+<meta content="Zj1KTV8XMdQhYkbBCial0NAOOoRJoPGjk08hnaepCn4=" name="csrf-token">
+ <script>$(function() {
     UI.api_token = 'zWdWGykwGWwAjpyeqlJrTdTtfedx7ky0hmm9eEBq';
   });</script>
+
+<!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
+b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+mixpanel.init("ee61feaea8c5e48de559ca1abdfca3bf");mixpanel.track("Pageview");</script><!-- end Mixpanel -->
 </head>
 <body id="top">
-	
 	<div id="intercept" style="display:none"></div>
 <script>
 $(document).ready(function() {
-	
-	// THIS FUNCTION TRACKS EXITS FROM AD SITE & NHOW SITE
-	// It needs to go here or else it breaks other JS on the site.
-	
+
 	var pathname = window.location.pathname;
 	var tracking_action = "/exit" + pathname ;
 	
-	$("a").click(function() {
- 	if (($(this).attr('href').match(/avantgardediaries\.com/i)) || ($(this).attr('href').match(/nhow-hotels\.com/i))) {
-    _gaq.push(['_trackPageview', tracking_action]);
-	}
-	});
+	// THIS FUNCTION TRACKS EXITS FROM AD SITE & NHOW SITE
+	// It needs to go here or else it breaks other JS on the site.
+  
+  $("a").click(function() {
+    if ($(this).attr('href').match(/mrandmrssmith\.com/i)) {
+      _gaq.push(['_trackPageview', tracking_action]);
+  }
+  });
 	
-	if (!(pathname.match(/avantgardediaries/i)) && !(pathname.match(/nhow/i))) {		
-	// We are not in the avant/garde diaries, or nhow microsites, so we intercept iOS mobile users.
+	// If are not in the avant/garde diaries, or nhow microsites, so we intercept iOS mobile users.
+	if (!(pathname.match(/avantgardediaries/i))&& !(pathname.match(/wake-up-call/i)) && !(pathname.match(/canal-house/i)) && !(pathname.match(/dalston-superstore-1/i)) && !(pathname.match(/brasserie-le-faubourg/i)) && !(pathname.match(/brasserie-le-faubourg-giveaway/i)) && !(pathname.match(/konak-cafe/i)) && !(pathname.match(/edison/i)) ) {		
+    
+		var isiPhone = navigator.userAgent.toLowerCase().indexOf("iphone");
+		var isiPod = navigator.userAgent.toLowerCase().indexOf("ipod");
+	  if (((isiPhone > -1) || (isiPod > -1)) && ($("#no-intercept").length == 0) && ($.cookie('intercepted') === null)) {
 	
-	var isiPhone = navigator.userAgent.toLowerCase().indexOf("iphone");
-	var isiPod = navigator.userAgent.toLowerCase().indexOf("ipod");
-  if (((isiPhone > -1) || (isiPod > -1)) && ($("#apps-promo").length == 0)) {
-			var intercept_content = '<div id="intercept" style="position: relative; top: -20px; padding: 0; width:980px; margin: 0 auto"><img name="intercept_new_r2_c1" src="/assets/intercept/intercept_new_r2_c1.png" width="90%"  border="0" id="intercept_new_r2_c1" style="float:left"/><img name="intercept_new_r2_c2" src="/assets/intercept/intercept_new_r2_c2.png" width="10%" border="0" style="float:right" id="intercept_new_r2_c2" /><img name="intercept_new_r3_c1" src="/assets/intercept/intercept_new_r3_c1.png" width="90%" border="0" id="intercept_new_r3_c1" /><img name="intercept_new_r3_c2" src="/assets/intercept/intercept_new_r3_c2.png" width="10%" border="0" id="intercept_new_r3_c1" /></div>';
+			// Set cookie to expire after 3 days. 1 = true
+			$.cookie('intercepted', '1', {expires:3, path:'/'});
+		
+			var intercept_content = '<div id="intercept" style="position: relative; top: -20px; padding: 0; width:980px; margin: 0 auto"><img name="intercept_r2_c1" src="/assets/intercept/intercept_r2_c1.png" width="75%"  border="0" id="intercept_r2_c1" style="float:left"/><img name="intercept_r2_c2" src="/assets/intercept/intercept_r2_c2.png" width="25%" border="0" style="float:right" id="intercept_r2_c2" /><img name="intercept_r3_c1" src="/assets/intercept/intercept_r3_c1.png" width="75%" border="0" id="intercept_r3_c1" /><img name="intercept_r3_c2" src="/assets/intercept/intercept_r3_c2.png" width="25%" border="0" id="intercept_r3_c1" /><img name="intercept_r4" src="/assets/intercept/intercept_r4.png" width="100%" border="0" id="intercept_r4" /></div>';
 						
 			$("#center").hide();
 			$("#fdbk_tab").hide();
@@ -145,21 +153,25 @@ $(document).ready(function() {
 			$("#intercept").show();
 			$("#intercept").html(intercept_content);
 			
-			$("#intercept_new_r2_c2").click(function() {
+			$("#intercept_r2_c2").click(function() {
 			$("#intercept").hide();
 			$("#center ").show();
 			$("#nav").show();
 			});
 			
-			$("#intercept_new_r2_c1").click(function() {
+			$("#intercept_r2_c1").click(function() {
 			window.location.href = "http://bit.ly/unlikeapp";
 			});
 			
-			$("#intercept_new_r3_c1").click(function() {
+			$("#intercept_r3_c1").click(function() {
 			window.location.href = "http://bit.ly/unlikeapp";
 			});
 			
-			$("#intercept_new_r3_c2").click(function() {
+			$("#intercept_r3_c2").click(function() {
+			window.location.href = "http://bit.ly/unlikeapp";
+			});
+			
+			$("#intercept_r4").click(function() {
 			window.location.href = "http://bit.ly/unlikeapp";
 			});
 	  }
@@ -186,6 +198,7 @@ $(document).ready(function() {
           <li class="ui-menu-item"><a href="http://unlike.net/cape-town">Cape Town</a></li>
           <li class="ui-menu-item"><a href="http://unlike.net/copenhagen">Copenhagen</a></li>
           <li class="ui-menu-item"><a href="http://unlike.net/ibiza">Ibiza</a></li>
+          <li class="ui-menu-item"><a href="http://unlike.net/istanbul">Istanbul</a></li>
           <li class="ui-menu-item"><a href="http://unlike.net/london">London</a></li>
           <li class="ui-menu-item"><a href="http://unlike.net/los-angeles">Los Angeles</a></li>
           <li class="ui-menu-item"><a href="http://unlike.net/miami">Miami</a></li>
@@ -196,11 +209,14 @@ $(document).ready(function() {
           <li class="ui-menu-item"><a href="http://unlike.net/san-francisco">San Francisco</a></li>
           <li class="ui-menu-item"><a href="http://unlike.net/sao-paulo">Sao Paulo</a></li>
           <li class="ui-menu-item"><a href="http://unlike.net/shanghai">Shanghai</a></li>
+          <li class="ui-menu-item"><a href="http://unlike.net/tel-aviv">Tel Aviv</a></li>
           <li class="ui-menu-item"><a href="http://unlike.net/vienna">Vienna</a></li>
           <li class="ui-menu-item"><a href="http://unlike.net/warsaw">Warsaw</a></li>
         </ul>
       </li>
-
+    </ul>
+    
+    <ul class="menubar">
     </ul>
 
 
@@ -508,7 +524,7 @@ div.promo h3 {
 
   </div>
 </div>
-
+<div id="no-intercept">&nbsp;</div>
     </div>
 
     <div id="footer">
@@ -547,6 +563,7 @@ div.promo h3 {
             <li><a href="http://unlike.net/cape-town">Cape Town</a></li>
             <li><a href="http://unlike.net/copenhagen">Copenhagen</a></li>
             <li><a href="http://unlike.net/ibiza">Ibiza</a></li>
+            <li><a href="http://unlike.net/istanbul">Istanbul</a></li>
             <li><a href="http://unlike.net/london">London</a></li>
             <li><a href="http://unlike.net/los-angeles">Los Angeles</a></li>
             <li><a href="http://unlike.net/miami">Miami</a></li>
@@ -558,6 +575,7 @@ div.promo h3 {
             <li><a href="http://unlike.net/san-francisco">San Francisco</a></li>
             <li><a href="http://unlike.net/sao-paulo">Sao Paulo</a></li>
             <li><a href="http://unlike.net/shanghai">Shanghai</a></li>
+            <li><a href="http://unlike.net/tel-aviv">Tel Aviv</a></li>
             <li><a href="http://unlike.net/vienna">Vienna</a></li>
             <li><a href="http://unlike.net/warsaw">Warsaw</a></li>
           </ul>
@@ -617,7 +635,7 @@ div.promo h3 {
 
   <div class="forms">
     <div class="form form-connect">
-      <form accept-charset="UTF-8" action="/join" class="formtastic user" id="new_user" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Joaix23qplklHu301VfPtJqbLn7tee9s8sEquCsFiak="></div>
+      <form accept-charset="UTF-8" action="/join" class="formtastic user" id="new_user" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Zj1KTV8XMdQhYkbBCial0NAOOoRJoPGjk08hnaepCn4="></div>
         <fieldset class="inputs"><ol>
           <li class="string input optional stringish" id="user_name_input"><input id="user_name" maxlength="255" name="user[name]" placeholder="Your Name" type="text">
 
@@ -632,7 +650,7 @@ div.promo h3 {
 
 </li>
 </ol></fieldset>
-        <fieldset class="buttons"><ol>
+        <fieldset class="actions"><ol>
           <input name="commit" type="submit" value="Sign Me Up">
 
           <a href="" class="toggle" data-toggle="form-login">Login</a>
@@ -647,7 +665,7 @@ div.promo h3 {
 			  <a class="button button-facebook-big" href="/users/auth/facebook"><span>Connect with Facebook</span><span class="right"><div class="icon"></div></span></a>
 			</div>
 			
-      <form accept-charset="UTF-8" action="/join" class="formtastic user" id="new_user" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Joaix23qplklHu301VfPtJqbLn7tee9s8sEquCsFiak="></div>
+      <form accept-charset="UTF-8" action="/join" class="formtastic user" id="new_user" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Zj1KTV8XMdQhYkbBCial0NAOOoRJoPGjk08hnaepCn4="></div>
         <fieldset class="inputs"><ol>
           <li class="string input optional stringish" id="user_name_input"><input id="user_name" maxlength="255" name="user[name]" placeholder="Your Name" type="text">
 
@@ -662,7 +680,7 @@ div.promo h3 {
 
 </li>
 </ol></fieldset>
-        <fieldset class="buttons"><ol>
+        <fieldset class="actions"><ol>
           <input name="commit" type="submit" value="Sign Me Up">
 
           <a href="" class="toggle" data-toggle="form-login">Log In</a>
@@ -684,7 +702,7 @@ div.promo h3 {
 			  <a class="button button-facebook-big" href="/users/auth/facebook"><span>Connect with Facebook</span><span class="right"><div class="icon"></div></span></a>
 			</div>
 			
-      <form accept-charset="UTF-8" action="/login" class="formtastic user" id="new_user" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Joaix23qplklHu301VfPtJqbLn7tee9s8sEquCsFiak="></div>
+      <form accept-charset="UTF-8" action="/login" class="formtastic user" id="new_user" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Zj1KTV8XMdQhYkbBCial0NAOOoRJoPGjk08hnaepCn4="></div>
         <fieldset class="inputs"><ol>
           <li class="email input optional stringish" id="user_email_input"><input id="user_email" maxlength="255" name="user[email]" placeholder="E-Mail Address" type="email">
 
@@ -693,7 +711,7 @@ div.promo h3 {
 
 </li>
 </ol></fieldset>
-        <fieldset class="buttons"><ol>
+        <fieldset class="actions"><ol>
           <input name="commit" type="submit" value="Log In">
 
           <a href="" class="toggle" data-toggle="form-join">Sign Up</a>
@@ -701,13 +719,13 @@ div.promo h3 {
 </ol></fieldset></form>    </div>
 
     <div class="form form-password">
-      <form accept-charset="UTF-8" action="/users/password" class="formtastic user" id="new_user" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Joaix23qplklHu301VfPtJqbLn7tee9s8sEquCsFiak="></div>
+      <form accept-charset="UTF-8" action="/users/password" class="formtastic user" id="new_user" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Zj1KTV8XMdQhYkbBCial0NAOOoRJoPGjk08hnaepCn4="></div>
         <fieldset class="inputs"><ol>
           <li class="email input optional stringish" id="user_email_input"><input id="user_email" maxlength="255" name="user[email]" placeholder="E-Mail Address" type="email">
 
 </li>
 </ol></fieldset>
-        <fieldset class="buttons"><ol>
+        <fieldset class="actions"><ol>
           <input name="commit" type="submit" value="Send Reset Instructions">
 
           <a href="" class="toggle" data-toggle="form-join">Sign Up</a>
