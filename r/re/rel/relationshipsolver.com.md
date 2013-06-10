@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the relationshipsolver.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015210223id_/http%3A//www.relationshipsolver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relationshipsolver.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610081534id_/http%3A//www.relationshipsolver.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Relationshipsolver
+# RelationshipSolver Privacy Policy
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.relationshipsolver.com%2Fprivacy-policy%2F&media=http%3A%2F%2Fwww.easyriver.com%2Firs%2Fexample_traffic_module.php3%3Flevel%3DONDUTY-Your+Site+&description=Privacy+Policy)
+[](http://www.meetyoursweet.com/?aff=relatsolve&pg=relrecovn&id=cbcash)
 
 Welcome to Your relationshipsolver.com (the “Site”).
 
@@ -58,7 +58,7 @@ Visitors and Authorized Customers may contact us to update Personally Identifiab
 
 **Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**
 
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting [support@relationshipsolver.com](mailto:support@relationshipsolver.com)[](mailto:info@Beagle.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting [support@relationshipsolver.com](mailto:support@relationshipsolver.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
 
 **What happens if the Privacy Policy Changes?**
 
@@ -68,7 +68,7 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.relationshipsolver.com%2Fprivacy-policy%2F&media=http%3A%2F%2Fwww.easyriver.com%2Firs%2Fexample_traffic_module.php3%3Flevel%3DONDUTY-Your+Site+&description=Privacy+Policy)
+[](http://www.meetyoursweet.com/?aff=relatsolve&pg=relrecovn&id=cbcash)
 
 #### Incoming search terms:
 
