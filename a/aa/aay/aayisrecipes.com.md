@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aayisrecipes.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014071427id_/http%3A//www.aayisrecipes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aayisrecipes.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610160312id_/http%3A//www.aayisrecipes.com/privacy-policy) for the most accurate reproduction.*
 
-# Aayi's Recipes | Privacy Policy
+# Privacy Policy » Aayi's Recipes
 
 Privacy Policy for [Aayi's Recipes](http://www.aayisrecipes.com/ "Aayi's Recipes").
 
