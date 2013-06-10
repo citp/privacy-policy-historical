@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lightyearwireless.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207111010id_/http%3A//lightyearwireless.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightyearwireless.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610052054id_/http%3A//www.lightyearwireless.com/privacy.html) for the most accurate reproduction.*
 
-# My Lightyear - Privacy Policy
-
-**Privacy Policy**
+# Lightyear Wireless
 
 At My Lightyear we are committed to honoring the privacy of our on-line customers and visitors to our Web sites. We recognize the importance to you of maintaining an appropriate level of privacy and security for the personal information we collect from you over the Internet. The following discloses our Web site information gathering and use practices and is limited to the protection and use of personal information collected by us in the online environment. Your access to and use of our site are subject to this policy and any other terms of use or policies posted by us. Please note that this privacy statement applies only to this site and not to the web sites of our advertisers or of other companies or organizations to which we link. All references to "My Lightyear" or MLY throughout this policy statement include, unless otherwise stated, all affiliate companies, successors and assigns. 
 
