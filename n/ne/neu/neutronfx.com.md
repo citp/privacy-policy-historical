@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neutronfx.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224170703id_/http%3A//www.neutronfx.com/blog/latest/privacy-policy-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neutronfx.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610202947id_/http%3A//www.neutronfx.com/blog/latest/privacy-policy-3.html) for the most accurate reproduction.*
 
 # Enjoy 50% OFF Using 2012 Netfirms Coupon, Netfirms Promo Code - Privacy Policy
 
