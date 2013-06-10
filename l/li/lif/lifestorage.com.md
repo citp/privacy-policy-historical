@@ -1,28 +1,71 @@
-> *The following text is extracted and transformed from the lifestorage.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201203717id_/http%3A//www.lifestorage.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestorage.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610062033id_/http%3A//www.lifestorage.com/privacy-policy) for the most accurate reproduction.*
 
-# Life Storage Privacy Policy - Self Storage - Chicago, IL
+# LifeStorage Privacy Policy - TRUSTe Certified
 
-**What Information Do You Gather About Me?**  
-We collect from you only the personal information you voluntarily provide in order to deliver the best possible service. If you choose to process an online payment or reservation we ask you to provide us with information necessary to process your order which may include, but not be limited to, name, physical address, telephone number, facsimile number, email address, company name, title, credit card number, expiration date, and storage unit number.
+**Effective Date** : 01-01-2013
 
-We collect your email address so that we can send you information about your transaction and its status. We may use your email address to inform you about current offers or events. We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. The credit card information that is collected is used strictly for billing purposes.
+This privacy policy applies to http://www.lifestorage.com, which is owned and operated by LifeStorage. This privacy policy describes how LifeStorage collects and uses the personal information you provide on our web site: http://www.lifestorage.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
- **Sharing Your Personal Information**  
-Life Storage does not sell information to unrelated third parties. Life Storage does send your contact and order information to the facility that you selected for purposes of satisfying your payment or reservation.
+LifeStorage has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, http://www.LifeStorage.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](http://www.lifestorage.com/contact-lifestorage/ "Contact LifeStorage"). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
- **Changes to This Online Privacy Policy?**  
-Life Storage reserves the right, at its sole discretion, to change, modify, add or remove portions of this Online Privacy Policy at any time. Accordingly, Life Storage recommends that you revisit this Online Privacy Policy from time to time to ensure that you are aware of the current privacy practices. Your continued use of the web site following any changes signifies your acceptance of these changes.
+**_Collection and Use of Personal Information_**
 
- **Life Storage and Session Cookies**  
-The Life Storage web site uses session cookies to enable making transactions on our site. A session cookie is a small file placed on your computer which acts as a unique identifier to keep track of the information you have entered. Without the session cookie, our site cannot track the information you are entering, and you will be unable to complete your transaction.  
-A session cookie does not remain on your machine after you close your web browser window. Our session cookie contains none of your personal information, and cannot be used to track you around the web. It can only be used by our web site to identify the information you have entered during the transaction process which is required to complete the transaction.
+**_Cookies_**
 
- **How to Enable Cookies on your Browser**  
-Your web browser is the primary way you can control cookies. The method for changing your cookie settings will vary depending on the browser you use, but options should be similar regardless of your browser choice.  
-Internet Explorer
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
 
-If you are using IE 6, your cookies will be automatically controlled based on your privacy settings. If you would like to over-ride automatic cookie control, choose Tools -> Internet Options -> Privacy -> Advanced. From this panel you can choose to over-ride automatic cookie handling, and specify how you would like to deal with First Party and Third Party cookies. First party cookies come from the owner of the website you are visiting, third party cookies come from a different company (for instance, an advertising company). You can select "Accept", "Block", or "Prompt" - if you choose "Prompt", your browser will notify you each time a web site attempts to set a cookie on your machine, and you can choose to accept or reject the cookie. If you would like to accept session cookies, but not persistent cookies, check the box to "Always Allow Session Cookies." Please note that session cookies are required to enable shopping on many web sites.
+**_Third Party Cookies_**
 
-Other web browsers provide similar options; if you are using Netscape 7, cookie options can be found at Edit -> Preferences -> Privacy and Security -> Cookies. In Mozilla Firefox, cookie options are available at Options -> Privacy -> Cookies, and in Opera 7 cookie preferences are available in File -> Preferences -> Privacy.
+We have 3rd party providers who use cookies to make it easier for you to navigate our site and track your surfing habits on our website. The use of cookies by Google Analytics, Google Adwords, Clicky and any other 3rd party provider is not covered by our privacy policy. We do not have access or control over these cookies.
 
-You can also control cookies with a number of internet security packages. If you use one of these packages, please refer to the software documentation for more information.
+**_Web beacons_**
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+
+**_Security_**
+
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can [contact us](http://www.lifestorage.com/contact-lifestorage/ "Contact LifeStorage").
+
+**_User Access and Choice_**
+
+If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, or deactivate it by making the change on our member information page or by emailing our Customer Support via our [contact us](http://www.lifestorage.com/contact-lifestorage/ "Contact LifeStorage") form. We will respond to your request to access within 30 days.
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can [contact us](http://www.lifestorage.com/contact-lifestorage/ "Contact LifeStorage").
+
+**_Tell-A-Friend_**
+
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. LifeStorage stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+
+Your friend may [contact us](http://www.lifestorage.com/contact-lifestorage/ "Contact LifeStorage") to request that we remove this information from our database.
+
+**_Links to 3rd Party Sites_**
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of LifeStorage. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+
+**_Blog / Forum_**
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, [contact us](http://www.lifestorage.com/contact-lifestorage/ "Contact LifeStorage"). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+**_Social Media Widgets_**
+
+Our Web site includes Social Media Features, such as the Facebook and Twitter buttons. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+**_Notification of Privacy Policy Changes_**
+
+We may update this privacy policy to reflect changes to our information practices. If we make any change in how we use your personal information we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+**_Contact Us_**
+
+If you have any questions about our Privacy Policy, please contact us on the information below.
+
+LifeStorage Corporate Headquarters  
+1380 Lead Hill Blvd  
+Suite 200  
+Roseville, CA 95661  
+[Contact LifeStorage](http://www.lifestorage.com/contact-lifestorage/ "Contact LifeStorage")
