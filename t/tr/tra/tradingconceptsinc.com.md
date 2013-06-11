@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradingconceptsinc.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210230052id_/http%3A//www.tradingconceptsinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingconceptsinc.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611180507id_/http%3A//tradingconceptsinc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Trading Concepts
+# Privacy Policy — Trading Concepts | E-Mini, Futures, Options & Stock Trading
 
 **PRIVACY POLICY**
 
@@ -48,7 +48,7 @@ If you are a Visitor or Member we may use cookies to save your settings and prov
 
 You must be eighteen (18) years of age or over to access this web site. If you are under eighteen (18) years of age, you are not permitted to access this web site for any reason. Due to the age restrictions, we do not monitor this web site for compliance with any applicable children privacy laws.
 
-**Our Company’s Commitment To Data Security** Services and Websites we sponsor have security measures in place to protect the loss, misuse and alteration of data under our control. While we take all reasonably necessary steps to protect the integrity and security of our data and networks, we cannot guarantee our security measures will prevent ”  
+**Our Company’s Commitment To Data Security** Services and Websites we sponsor have security measures in place to protect the loss, misuse and alteration of data under our control. While we take all reasonably necessary steps to protect the integrity and security of our data and networks, we cannot guarantee our security measures will prevent “  
 third party” hackers from illegally accessing our data.
 
 **Revisions** Our Company reserves the right to revise, amend or modify this policy our Terms of Service Agreement and our other policies and agreements at any time and in any manner, by updating this posting.
