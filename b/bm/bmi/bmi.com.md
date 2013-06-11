@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bmi.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210031930id_/http%3A//www.bmi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmi.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611060057id_/http%3A//www.bmi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BMI.com
-
-Broadcast Music, Inc., a global leader in music rights management, collects license fees from businesses that use music, which it distributes as royalties to songwriters, composers & music publishers.
 
 ## Introduction
 
@@ -28,7 +26,7 @@ BMI will occasionally use aggregated traffic information, such as the number of 
 
 BMI will provide visitors with the ability to register to receive electronic newsletters and other materials. These are opt-in services, which means you can choose whether you want to receive the material, and you can always change your mind. BMI will use whatever personally identifiable information you do provide, such as name and e-mail address, solely for purposes of distributing the materials. We may also use aggregated information, such as the number of songwriters who opted-in. We do not presently share personally identifiable information with third parties.
 
-BMI may also provide visitors with the ability to purchase merchandise through the BMI Store, and customers may be asked to provide information sufficient to process the order such as name, mailing address, and credit card number. Orders are processed through Yahoo! Store. Credit card information is encrypted while it is transferred over the Internet. Any such personally identifiable information can be modified at your request by forwarding an e-mail to [store@bmi.com](mailto:store@bmi.com) or calling the Special Projects Department at 615-401-2000. 
+BMI may also provide visitors with the ability to purchase merchandise through the BMI Store, and customers may be asked to provide information sufficient to process the order such as name, mailing address, and credit card number. Orders are processed through Yahoo! Store. Credit card information is encrypted while it is transferred over the Internet. Any such personally identifiable information can be modified at your request by forwarding an e-mail to [[store@bmi.com](mailto:store@bmi.com)](mailto:store@bmi.com) or calling the Special Projects Department at 615-401-2000. 
 
 BMI does not presently share any personally identifiable information provided through the BMI Store with third parties other than as described above without first obtaining your permission.
 
@@ -38,7 +36,7 @@ BMI also has several business-to-business application on the web site, and will 
 
 ## BMI’s Digital Licensing Center
 
-BMI’s Digital Licensing Center provides Internet web sites with the ability to obtain a BMI Web Site Music Performance Agreement through the web site. Customers will need to enter information about themselves, about their business, and about their web site. They may also choose to provide a credit card for payment purposes. All information provided to BMI through the Digital Licensing Center is encrypted while it is transferred over the Internet, and is stored on an internal BMI computer which is not accessible to the public. Access to credit card information is further restricted to those BMI employees who are responsible for processing the license. Any such personally identifiable information can be modified at your request by forwarding an e-mail to [weblicensing@bmi.com](mailto:weblicensing@bmi.com) or calling the Internet License Department at (212) 220-3000.
+BMI’s Digital Licensing Center provides Internet web sites with the ability to obtain a BMI Web Site Music Performance Agreement through the web site. Customers will need to enter information about themselves, about their business, and about their web site. They may also choose to provide a credit card for payment purposes. All information provided to BMI through the Digital Licensing Center is encrypted while it is transferred over the Internet, and is stored on an internal BMI computer which is not accessible to the public. Access to credit card information is further restricted to those BMI employees who are responsible for processing the license. Any such personally identifiable information can be modified at your request by forwarding an e-mail to [[weblicensing@bmi.com](mailto:weblicensing@bmi.com)](mailto:weblicensing@bmi.com) or calling the Internet License Department at (212) 220-3000.
 
 BMI will use this information to generate the appropriate electronic license. In addition, BMI may use the information for internal development purposes in order to improve the system. We may ask you whether you need to obtain additional licenses from third parties, and if so, whether you would like BMI to facilitate the process by forwarding your name and contacting information to the appropriate third party. We will always disclose the identity of the third party prior to sharing any information. Finally, BMI may use aggregated information about the use of the Digital Licensing Center, such as the number of licenses executed, and the type of customers using the service to promote the success of the service.
 
@@ -46,7 +44,7 @@ BMI does not presently share any personally identifiable information provided th
 
 ## Electronic Music Use Reporting
 
-BMI’s Electronic Music Use Reporting System provides BMI’s radio station customers with the ability to file playlist information through the web site. Radio Station customers will need to enter personally identifiable information about themselves, and additional information about their station and about the music they play. All information provided to BMI through the Electronic Music Use Reporting System is stored on an internal BMI computer which is not accessible to the public. Any personally identifiable information can be modified at your request by forwarding an e-mail to [playlists@bmi.com](mailto:playlists@bmi.com) or calling the Logging Department at 615-401-2000.
+BMI’s Electronic Music Use Reporting System provides BMI’s radio station customers with the ability to file playlist information through the web site. Radio Station customers will need to enter personally identifiable information about themselves, and additional information about their station and about the music they play. All information provided to BMI through the Electronic Music Use Reporting System is stored on an internal BMI computer which is not accessible to the public. Any personally identifiable information can be modified at your request by forwarding an e-mail to [[playlists@bmi.com](mailto:playlists@bmi.com)](mailto:playlists@bmi.com) or calling the Logging Department at 615-401-2000.
 
 BMI will use this information to distribute royalties to BMI-affiliated writers and publishers. In addition, BMI may use the information for internal market share analysis, for external negotiations, and for other purposes. BMI may also use aggregated information for marketing and promotional purposes.
 
@@ -80,4 +78,4 @@ In addition to the security measures described above, BMI takes additional steps
 
 ## Questions or Comments
 
-If you have any additional questions or comments with respect to the security of our web site, please send an e-mail to [webmaster@bmi.com](mailto:webmaster@bmi.com), or call (212) 220-3000. 
+If you have any additional questions or comments with respect to the security of our web site, please send an e-mail to [[webmaster@bmi.com](mailto:webmaster@bmi.com)](mailto:webmaster@bmi.com), or call (212) 220-3000. 
