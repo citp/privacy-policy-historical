@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the football-lineups.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019131459id_/http%3A//www.football-lineups.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-lineups.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611022547id_/http%3A//www.football-lineups.com/main/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
 **Your predictions  
-for tomorrow**| Scotland  
-Spain|   
-| | | Juventus  
-Napoli|   
-| | | Düsseldor  
-Bayern M.|   
-| | | Lazio  
-Milan|   
-| | | Man Utd  
-Stoke City|   
-| | | Depor  
-Barcelona|   
-| | | Pachuca  
-Monterrey|   
-| | | R.Madrid  
-Celta Vgo|   
+for tomorrow**| Ecuador  
+Argentina|   
+| | | Norway  
+Italy|   
+| | | Chile  
+Bolivia|   
+| | | Mexico  
+Costa Rica|   
+| | | Spain  
+Ireland|   
+| | | USA  
+Panama|   
+| | | Colombia  
+Peru|   
+| | | Iraq  
+Japan|   
 | | |  **Submit**  
 or Hide  
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
