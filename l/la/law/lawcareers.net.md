@@ -1,55 +1,69 @@
-> *The following text is extracted and transformed from the lawcareers.net privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610065013id_/http%3A//www.lawcareers.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawcareers.net privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611080653id_/https%3A//www.lawcareers.net/PrivacyPolicy) for the most accurate reproduction.*
 
-# PrivacyPolicy - LawCareers.Net
+# Privacy policy - LawCareers.Net
 
-### Introduction
+###  Introduction
 
-LawCareers.Net is concerned with the protection of your privacy and complies with all relevant European legislation (in particular Directive 95/46/EC) and UK legislation (in particular the Data Protection Act 1998) as amended from time to time. 
+LawCareers.Net is a trading name of Globe Business Publishing Limited. For the purposes of the UK Data Protection Act 1998, the data controller is Globe Business Publishing Limited.
 
-By registering on LawCareers.Net you will be deemed to have consented to the collection and use of your information in accordance with the terms of this Privacy Policy. If you do not consent to the processing of your information in accordance with the terms of this Privacy Policy you must leave this site immediately. 
+LawCareers.Net and Globe Business Publishing Limited (We, Our or Us) are concerned with the protection of your privacy and comply with all relevant European legislation (in particular Directive 95/46/EC) and UK legislation (in particular the Data Protection Act 1998), as amended from time to time.
 
-### Your data
+By registering for LC.N Weekly or MyLC.N and/or by using this site, you will be deemed to have consented to the collection and use of your information in accordance with the terms of this Privacy Policy. If you do not consent to the processing of your information in accordance with the terms of this Privacy Policy, you must leave this site immediately.
 
-It will be necessary for you to provide personal data to register for LC.N Weekly and to use My LC.N.
+###  Information that we will collect from you
 
-We use your data for:
+It is necessary for you to provide personal data when registering for MyLC.N and/or LC.N Weekly. By registering, you consent to us processing your personal data for the purpose of delivering the service.
 
-  * storing your preferences;
-  * storing your notes; and
-  * passing personal data to firms when you request a brochure.
+###  Use of your personal information
+
+Your personal information shall be used in the following ways:
+
+  * To tailor the content that we display to you.
+  * To store your MyLC.N data.
+  * To deliver the LC.N Weekly newsletter.
+  * To deliver event and deadline reminder emails.
+  * To correspond with you in relation to LawCareers.Net and affiliated products.
+  * To send you promotional information on behalf of carefully selected third parties such as law firms and law schools. Please note that your personal details will not be released to any third party.
+  * To store and use for our own internal purposes.
+  * To store usage logs which may be used by us to provide existing and potential clients with information about the user base and usage patterns (individuals will not be identified).
 
 
 
-We use your email address for
+We respect your concerns about privacy and follow strict procedures to protect your personal information. We will ensure that your personal information is handled in a responsible way.  
+We will never sell, rent or otherwise make available any of your personal information without your consent, unless required to do so by law. If we are requested by authorised third parties or regulatory or governmental agencies investigating illegal activities to provide information concerning users' activities, we shall do so.
 
-  * sending LC.N Weekly;
-  * sending other emails relating to LawCareers.Net; and
-  * sending event and deadline reminders.
+We reserve the right to notify or provide such information to the relevant authority if, in our sole opinion, we believe that an emergency, illegal activity or some other reasonable basis exists for doing so.
 
+Your data may be processed outside of the European Economic Area (EEA).
 
+###  MyLocker
 
-You can access the personal data that you have submitted at any time via My LC.N. 
+If you use [MyLocker](https://www.lawcareers.net/Solicitors/MyLocker), please read the Apply4Law [privacy policy](https://www.apply4law.com/Info/Privacy.aspx) for information on how your data is processed and stored.
 
-We respect your concerns about privacy and follow strict procedures to protect your personal information. We will ensure that your personal information is handled in a responsible way. We will not make available any of your personal information, including your email address, without your prior permission or unless required to do so by law. We will not process your data outside of the European Economic Area (EEA). 
+###  Keeping your personal information safe and current
 
-### Keeping your personal information safe and current
+We employ security measures to ensure that your personal information is kept secure and is never accessible to unauthorised third parties. However, we will not be liable in any way for any breach of security or for the actions of unauthorised third parties that receive such information.
 
-We employ security measures to ensure that your personal information is kept secure and is never accessible to unauthorised third parties. However, we will not be liable in any way for any breach of security or for the actions of unauthorised third parties that receive such information. 
+Ultimately, it is your responsibility to ensure that your personal information is kept secure. You are also responsible for keeping your password confidential and you should not share this with anyone.
 
-Ultimately, it is your responsibility to ensure that your personal information is kept secure. You are also responsible for keeping your password confidential and you should not share this with anyone. 
+###  Use of cookies
 
-### Use of cookies
+We use cookies to optimise LawCareers.Net content, manage MyLC.N and for analytics. For information on our use of cookies, please read our [Cookie policy](https://www.lawcareers.net/Cookies).
 
-We use session cookies in order to authenticate users. Cookies operate by placing a small text file on your hard drive. Session cookies are deleted once your session has finished. We also use persistent cookies to store your username should you select this option. 
+If you do not wish to receive cookies, you can alter your internet browser's settings so that it does not accept them. Please be aware that if cookies are disabled, you will not be able to use My LC.N.
 
-We may also collect information about your computer (including where available your IP address, operating system and browser type) for system administration and to report aggregated information. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. 
+###  Performance monitoring
 
-If you do not wish to receive cookies, you can alter your internet browser's settings so that it does not accept them. Please be aware that if cookies are disabled, you will not be able to use My LC.N. 
+We may also collect information about your computer - including where available your IP address, operating system and browser type - for system administration and to report aggregated information. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-### Changes to our policy 
+###  Changes to our policy
 
-This privacy policy will be amended from time to time. You can see when the policy was last updated by the date at the bottom right corner of this page.
+This Privacy Policy will be amended from time to time. The date at the bottom-right corner of this page indicates when this Policy was last updated.
 
-If you have any concerns regarding how your data will be processed or any questions about this privacy policy, please email [support@lawcareers.net](mailto:support@lawcareers.net).
+If you have any concerns regarding how your data will be processed by us or any questions about this privacy policy, please email [support@lawcareers.net](mailto:support@lawcareers.net).
 
-Last updated 05/06/09
+###  General
+
+If any provision of this Privacy Policy is held to be illegal, invalid or otherwise unenforceable, this shall not affect the legality, validity or enforceability of the remaining provisions, which shall remain in full force and effect.
+
+Last updated 10/12/2012
