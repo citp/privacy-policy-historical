@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwicollection.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231003943id_/http%3A//www.kiwicollection.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwicollection.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611201329id_/http%3A//www.kiwicollection.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Kiwi Collection
 
@@ -26,7 +26,7 @@ Kiwi Collection Inc. does not warrant that the information included in our websi
 
 The information will, from time to time, be updated and/or changed, and Kiwi reserves the right to make all such changes to the content of this website without any obligation to advise and/or notify visitors to the website that such changes have been, or will be made. 
 
-Currency conversion under license from XE.COM ([End User Terms of Use](http://www.xe.com/legal/dfs.php)). 
+Currency conversion under license from openexchangerates.org ([End User Terms of Use](https://openexchangerates.org/terms)). 
 
 If you have any questions or concerns feel free to email us.
 
