@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the authenteak.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609080728id_/http%3A//www.authenteak.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authenteak.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611022223id_/http%3A//www.authenteak.com/privacypolicy.html) for the most accurate reproduction.*
 
-# AuthenTEAK, LLC Privacy Policy: Outdoor Furniture, Viking Outdoor Kitchen, Tropitone, Weber Grills, Windham Cast Aluminum, Patio Shop, Teak Furniture, Gloster, Contemporary Outdoor Furniture
+# Privacy Policy
+
+_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
 Privacy Statement for AuthenTEAK LLC
 
@@ -73,19 +75,18 @@ E. A printer that is capable of printing from your browser and email software.
 Your Options  
 Should you choose not to accept the terms outlined in this privacy policy, or any modified or revised version hereof, you may withdraw as a current customer from our website. To withdraw, you must contact us at the email addresses listed above, and provide us with your Customer Information. If you withdraw as a current customer of our website, we may retain your Customer Information we have collected up to the date of your withdrawal, however, we will not disclose your Customer Information from that point forward, except as permitted by law.
 
-SPECIAL PROVISIONS FOR INFORMATION   
-RECEIVED BY US FROM OUR CUSTOMERS IN THE EUROPEAN UNION:
+SPECIAL PROVISIONS FOR INFORMATION RECEIVED BY US FROM OUR CUSTOMERS IN THE EUROPEAN UNION:
 
 SAFE HARBOR PRIVACY PROVISIONS  
 We respect individual privacy and value the confidence that our European friends and customers place in us. The following Safe Harbor Privacy Policies set forth the privacy principles that we follow with respect to personal information transferred from the European Economic Area (EEA) (which includes the fifteen member states of the European Union (EU) plus Iceland, Liechtenstein and Norway) to the United States.
 
-SAFE HARBOR  
+**SAFE HARBOR**  
 The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (the "Safe Harbor Principles") to enable U.S. companies to satisfy the requirement under EU law that protection be given to personal information transferred from the EU to the United States. The EEA also has recognized the U.S. Safe Harbor as providing adequate data protection (OJ L 45, 15.2.2001, p.47). Consistent with its commitment to protect personal privacy, AuthenTEAK LLC adheres to the Safe Harbor Principles. 
 
-SCOPE  
+**SCOPE**  
 This Safe Harbor Privacy Policy (“Safe Harbor Policy”) applies to all personal information received by us in the United States from the European Economic Area, regardless of the format by which we receive such information.
 
-DEFINITIONS  
+**DEFINITIONS**  
 For purposes of this Safe Harbor Policy, the following definitions shall apply: 
 
 "Agent" means any third party that collects or uses personal information under the instructions of, and solely for, us or to which we disclose personal information for use on our behalf. 
@@ -96,33 +97,33 @@ For purposes of this Safe Harbor Policy, the following definitions shall apply:
 
 "Sensitive personal information" means personal information that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, or that concerns health or sex life. In addition, we will treat as sensitive personal information any information received from a third party where that third party treats and identifies the information as sensitive. 
 
-PRIVACY PRINCIPLES  
-The following policies are based on the Safe Harbor Principles. 
+**PRIVACY PRINCIPLES  
+** The following policies are based on the Safe Harbor Principles. 
 
-NOTICE: Where we collect personal information directly from individuals in the EEA, we will inform those individuals about the purposes for which we collect and use their personal information, the types of non-agent third parties to which we may disclose that information, and the choices and means, if any, we offer individuals for limiting the use and disclosure of their personal information. Notice will be provided in clear and conspicuous language at the time that such individuals are first asked to provide personal information to us, or as soon as practicable thereafter, and in any event before we use or disclose the information for a purpose other than that for which it was originally collected. 
+**NOTICE** **:** Where we collect personal information directly from individuals in the EEA, we will inform those individuals about the purposes for which we collect and use their personal information, the types of non-agent third parties to which we may disclose that information, and the choices and means, if any, we offer individuals for limiting the use and disclosure of their personal information. Notice will be provided in clear and conspicuous language at the time that such individuals are first asked to provide personal information to us, or as soon as practicable thereafter, and in any event before we use or disclose the information for a purpose other than that for which it was originally collected. 
 
-CHOICE: We will offer individuals the opportunity to choose (opt-out) whether their personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. 
+**CHOICE** **:** We will offer individuals the opportunity to choose (opt-out) whether their personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. 
 
 For sensitive personal information, we will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non-agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. 
 
 We will provide individuals with reasonable options to exercise their choices, including but not limited to those options provided to our Non-EEA customers. 
 
-DATA INTEGRITY: We will use personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. We will take reasonable steps to ensure that personal information is relevant to its intended use, accurate, complete, and current. 
+**DATA INTEGRITY** **:** We will use personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. We will take reasonable steps to ensure that personal information is relevant to its intended use, accurate, complete, and current. 
 
-TRANSFERS TO AGENTS: We will obtain assurances from our agents that they will safeguard personal information consistently with the policies listed in this Safe Harbor Policy. Examples of appropriate assurances that may be provided by agents include: a contract obligating the agent to provide at least the same level of protection as is required by the relevant Safe Harbor Principles, being subject to EU Directive 95/46/EC (the EU Data Protection Directive), Safe Harbor certification by the agent, or being subject to another European Commission adequacy finding (e.g., companies located in Hungary and Switzerland). Where we have knowledge that an agent is using or disclosing personal information in a manner contrary to this Policy, we will take reasonable steps to prevent or stop the use or disclosure. 
+**TRANSFERS TO AGENTS** **:** We will obtain assurances from our agents that they will safeguard personal information consistently with the policies listed in this Safe Harbor Policy. Examples of appropriate assurances that may be provided by agents include: a contract obligating the agent to provide at least the same level of protection as is required by the relevant Safe Harbor Principles, being subject to EU Directive 95/46/EC (the EU Data Protection Directive), Safe Harbor certification by the agent, or being subject to another European Commission adequacy finding (e.g., companies located in Hungary and Switzerland). Where we have knowledge that an agent is using or disclosing personal information in a manner contrary to this Policy, we will take reasonable steps to prevent or stop the use or disclosure. 
 
-ACCESS AND CORRECTION: Upon request, we will grant individuals reasonable access to personal information that we hold about them. In addition, we will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. 
+**ACCESS AND CORRECTION** **:** Upon request, we will grant individuals reasonable access to personal information that we hold about them. In addition, we will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. 
 
-SECURITY: We will take reasonable precautions to protect personal information in our possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. 
+**SECURITY** **:** We will take reasonable precautions to protect personal information in our possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. 
 
-ENFORCEMENT: We will, at our discretion, conduct compliance audits of our relevant privacy practices to verify our adherence to this Policy. Any employee that we determine is in violation of our privacy policies will be subject to disciplinary action up to and including termination of employment. Further, we will comply with private sector developed privacy programs that incorporate the Safe Harbor Principles into their rules, including but not limited to monitoring by BBBOnline.com, as well as monitoring by the Federal Trade Commission of the United States government.
+**ENFORCEMENT** **:** We will, at our discretion, conduct compliance audits of our relevant privacy practices to verify our adherence to this Policy. Any employee that we determine is in violation of our privacy policies will be subject to disciplinary action up to and including termination of employment. Further, we will comply with private sector developed privacy programs that incorporate the Safe Harbor Principles into their rules, including but not limited to monitoring by BBBOnline.com, as well as monitoring by the Federal Trade Commission of the United States government.
 
-DISPUTE RESOLUTION: Any questions or concerns regarding the use or disclosure of personal information should be directed to us at the address given below. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles described herein. 
+**DISPUTE RESOLUTION** **:** Any questions or concerns regarding the use or disclosure of personal information should be directed to us at the address given below. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles described herein. 
 
-LIMITATION ON APPLICATION OF PRINCIPLES  
+**LIMITATION ON APPLICATION OF PRINCIPLES**  
 Adherence by us to these Safe Harbor Principles may be limited (a) to the extent required to respond to a legal or ethical obligation; and (b) to the extent expressly permitted by an applicable law, rule or regulation. Adherence may be further limited to the extent that disclosure of personal information is necessary to (1) protect and defend our rights and property; (2) protect against misuse or unauthorized use of our website; or (3) protect the personal safety or property of our users or the public.
 
-CONTACT INFORMATION FOR SAFE HARBOR CONCERNS  
+**CONTACT INFORMATION FOR SAFE HARBOR CONCERNS**  
 Questions or comments regarding this Safe Harbor Policy should be submitted to us by mail or e-mail as follows: 
 
 AuthenTEAK LLC  
@@ -131,8 +132,8 @@ Atlanta, GA 30318 USA
 
 [info@authenteak.com](mailto:info@authenteak.com)
 
-CHANGES TO THIS SAFE HARBOR PRIVACY POLICY  
+**CHANGES TO THIS SAFE HARBOR PRIVACY POLICY**  
 This Policy may be amended from time to time, consistent with the requirements of the Safe Harbor Principles. A notice will be posted on our website for sixty (60) days whenever this Safe Harbor Privacy Policy is changed in a material way. 
 
   
-EFFECTIVE DATE: January 1, 2004.
+EFFECTIVE DATE: January 1, 2013.
