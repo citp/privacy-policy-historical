@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the amwater.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106231454id_/http%3A//www.amwater.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amwater.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611103845id_/http%3A//www.amwater.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-|  | 
 
 **Overview**
 
@@ -67,6 +65,3 @@ E-mail: [aw.websitefeedback@amwater.com](mailto:aw.websitefeedback@amwater.com)
 BY ACCESSING OR USING THE SITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND CONSENT TO THE PRIVACY PRACTICES, AND TO THE USES AND DISCLOSURES OF INFORMATION THAT WE COLLECT ABOUT YOU, THAT ARE DESCRIBED IN THIS PRIVACY POLICY, AND YOU AGREE TO BE BOUND BY THE [TERMS OF USE](https://web.archive.org/terms-of-use.html) REFERENCED ABOVE.
 
 NGEDOCS: 1209816.5
-
-|  |   
----|---|---|---|---
