@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nestle.in privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204161828id_/http%3A//www.nestle.in/info/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestle.in privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611190339id_/http%3A//www.nestle.in/info/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Nestlé India
 
 Welcome to the Nestlé India website. We at Nestlé India are committed to maintaining the privacy and security of the Personal Information of all the visitors to this web site. By accessing and using this site, you consent to the terms of this Privacy Policy. 
 
