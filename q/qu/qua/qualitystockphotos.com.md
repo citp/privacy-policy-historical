@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qualitystockphotos.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101084931id_/http%3A//www.qualitystockphotos.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitystockphotos.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611190058id_/http%3A//www.qualitystockphotos.com/policy) for the most accurate reproduction.*
 
-# Kozzi | TERMS OF USE
+# Qualitystockphotos.com - Privacy Policy
 
 Effective Date: 08/15/2011  
 This privacy statement describes how Kozzi Inc. (“Kozzi”) collects and uses the personal information you provide on our Web site: [www.qualitystockphotos.com](http://www.qualitystockphotos.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  
