@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smithmicro.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006133616id_/http%3A//www.smithmicro.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithmicro.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611070210id_/http%3A//www.smithmicro.com/privacy.aspx) for the most accurate reproduction.*
 
-# Smith Micro - Privacy Policy
+# Privacy Policy | Smith Micro
 
   * Smith Micro Software, Inc. (" **Smith Micro** ," " **we** ," " **us** ") is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your Personally Identifiable Information (as defined below). This Privacy Policy (the " **Policy** ") describes our practices in connection with Personally Identifiable Information that we collect through our websites located at [www.smithmicro.com](http://www.smithmicro.com/), 
   * [ ](http://www.etrust.org/cert/567989.html)
