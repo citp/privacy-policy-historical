@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the letgetmorefollowers.info privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919075205id_/http%3A//letgetmorefollowers.info/index.php%3Fpages%3Dprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letgetmorefollowers.info privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611093717id_/http%3A//letgetmorefollowers.info/index.php%3Fpages%3Dprivacy.php) for the most accurate reproduction.*
 
-# Let Get More Twitter Followers | Get More Followers on Twitter | How to Get More Twitter Followers
+# Let Get More Free Twitter Followers | Get More Followers on Twitter | How to Get More Twitter Followers
 
-**[Home](https://web.archive.org/web/20120919075205id_/http%3A//letgetmorefollowers.info/index.php?pages=Home) | [Privacy Policy](https://web.archive.org/web/20120919075205id_/http%3A//letgetmorefollowers.info/index.php?pages=privacy.php) | [Terms Of Use](https://web.archive.org/web/20120919075205id_/http%3A//letgetmorefollowers.info/index.php?pages=terms.php) | [FAQ](https://web.archive.org/web/20120919075205id_/http%3A//letgetmorefollowers.info/index.php?pages=faq.php) | [Remove Your Account](https://web.archive.org/web/20120919075205id_/http%3A//letgetmorefollowers.info/removeout.php)**
+**[Home](https://web.archive.org/web/20130611093717id_/http%3A//letgetmorefollowers.info/index.php?pages=Home) | [Privacy Policy](https://web.archive.org/web/20130611093717id_/http%3A//letgetmorefollowers.info/index.php?pages=privacy.php) | [Terms Of Use](https://web.archive.org/web/20130611093717id_/http%3A//letgetmorefollowers.info/index.php?pages=terms.php) | [FAQ](https://web.archive.org/web/20130611093717id_/http%3A//letgetmorefollowers.info/index.php?pages=faq.php) | [Remove Your Account](https://web.archive.org/web/20130611093717id_/http%3A//letgetmorefollowers.info/removeout.php)**
 
 * * *
 
@@ -10,63 +10,63 @@
   
 ---  
   
-[ ](http://twitter.com/adisabdrazakov)
+[ ](http://twitter.com/atbukhari)
 
 | 
 
-[ ](http://twitter.com/kazamulilota)
+[ ](http://twitter.com/jasonmcs)
 
 | 
 
-[ ](http://twitter.com/elizgilliesfans)
+[ ](http://twitter.com/vineccen)
 
 | 
 
-[ ](http://twitter.com/noreason_why)
+[ ](http://twitter.com/kelshqueen)
 
 | 
 
-[ ](http://twitter.com/lilianggraeni)
+[ ](http://twitter.com/bananejaunetm11)
 
 | 
 
-[ ](http://twitter.com/reichaan)
+[ ](http://twitter.com/haziqnaza_)
 
 | 
 
-[ ](http://twitter.com/madi_only)
+[ ](http://twitter.com/amylliasabrina)
 
 | 
 
-[ ](http://twitter.com/onrozltn)
+[ ](http://twitter.com/sqm_magz)
 
 | 
 
-[ ](http://twitter.com/keponyotun)
+[ ](http://twitter.com/uhm_no_m8)
 
 | 
 
-[ ](http://twitter.com/bayubudichakti)
+[ ](http://twitter.com/caramelkaaaaa)
 
 | 
 
-[ ](http://twitter.com/indrahelm)
+[ ](http://twitter.com/juz10dope)
 
 | 
 
-[ ](http://twitter.com/a_uzuner)
+[ ](http://twitter.com/itsmsanchez)
 
 | 
 
-[ ](http://twitter.com/sarahstages)
+[ ](http://twitter.com/chrisvonlucas)
 
 | 
 
-[ ](http://twitter.com/heyitsjennyj)
+[ ](http://twitter.com/jveluz29)
 
 | 
 
-[ ](http://twitter.com/arif_d_nug)  
+[ ](http://twitter.com/paulinedglk)  
   
 **Privacy Policy**
 
