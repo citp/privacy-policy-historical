@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hoparoundindia.com privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921173344id_/http%3A//www.hoparoundindia.com/footer/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoparoundindia.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611055721id_/http%3A//www.hoparoundindia.com/footer/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy Hoparoundindia.com
 
 The Policy deals with the analysis of personally identifiable information collected by **HopAroundIndia.com** , when you access our website. This policy does not apply to any entity not owned or controlled by the Company. This Policy may not be applicable to any information provided by you or on your behalf to **HopAroundIndia.com** in any other context. By accessing the website or any website of the Company, you are consenting to the information collection and use practices described in this Policy. 
 
