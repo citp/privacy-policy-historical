@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aufreeads.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022184718id_/http%3A//www.aufreeads.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aufreeads.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611023112id_/http%3A//www.aufreeads.com/info/privacy.php) for the most accurate reproduction.*
 
 # AUFreeAds.com - Privacy Policy
 
