@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missuniverse.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919102620id_/http%3A//www.missuniverse.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missuniverse.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611055631id_/http%3A//missuniverse.com/info/privacy) for the most accurate reproduction.*
 
 # Miss Universe : Information
 
