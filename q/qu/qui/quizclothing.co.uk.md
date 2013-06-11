@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizclothing.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230051139id_/http%3A//www.quizclothing.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizclothing.co.uk privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611193857id_/http%3A//www.quizclothing.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,6 +20,8 @@ Quiz is committed to protecting the privacy of our customers and will not disclo
 
 
 1.2 We collect personal information to allow us to process and fulfil your orders.  Email addresses or telephone numbers collected allow us to contact you urgently if there is a problem with an order. Your information may also be provided to our third party service providers to complete the fulfilment of your order.
+
+1.3 Please note that we have the ability to retain any data that you provide on this website, even if you do not complete your order by clicking place order. Such contact details and data may be used to contact you to enquire why you did not complete your order. Please note you will only be contacted by Quiz and it will always relate to your incomplete order.
 
 * * *
 
