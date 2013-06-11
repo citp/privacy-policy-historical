@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsontheweb.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211062351id_/http%3A//www.carsontheweb.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsontheweb.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611225834id_/http%3A//www.carsontheweb.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CarsOnTheWeb
 
@@ -13,3 +13,5 @@ Under certain circumstances we may ask for some additional financial data, such 
 All registered users of our services implicitly agree to the receipt of newsletters and updates from CarsOnTheWeb. Every user may at any time opt no longer to form part of our mailing list by adjusting his or her own mail settings online or sending a message to: [info@carsontheweb.com](mailto:info@carsontheweb.com).
 
 We automatically trace certain information on the basis of your behaviour on the website(s). We use this information for internal research into the demographic data of our users and their interests and behaviour, in order to gain a better understanding of our users and to be able to provide them with a better service. When a user chooses to bid and buy on the website, we collect data on his/her bidding and buying behaviour. 
+
+Sources of images on the website include: © Sam - Fotolia.com, © Erhan Ergin - Fotolia.com
