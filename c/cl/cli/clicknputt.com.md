@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicknputt.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225091957id_/http%3A//www.clicknputt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicknputt.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611023100id_/http%3A//www.clicknputt.com/privacy.php) for the most accurate reproduction.*
 
 # Clickn'Putt.com - Free Manual Traffic Exchange
 
