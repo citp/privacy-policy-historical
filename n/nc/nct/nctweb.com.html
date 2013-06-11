@@ -1,175 +1,354 @@
-<!--The following is the downloaded HTML source of the nctweb.com privacy policy that was archived on 2000-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001110014700id_/http%3A//www.internet.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nctweb.com privacy policy that was archived on 2013-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130611222323id_/http%3A//nctweb.com/privacy_policy.html) for the most accurate reproduction.-->
 
-<html><head>
-
-<title>
-internet.com's Privacy Policy
-</title>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Nctweb.com Web Directory &nbsp;- Privacy Policy  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/templates/SeaShell/style/main.css">
+<link rel="stylesheet" type="text/css" href="/templates/SeaShell/style/fileuploader.css">
+<meta name="keywords" content="privacy policy">
+<meta name="description" content="privacy policy nctweb.com">
+<meta name="author" content="Nctweb.com">
+<meta name="copyright" content="Copyright (c) 2013 by NctWeb. All rights reserved!">
+<meta name="robots" content="all, follow, index">
+<meta name="generator" content="PHP Link Directory 4.2.2">
+<script type="text/javascript">
+        var valid_obj = new Object();
+    </script>
 </head>
+<body>
+<script type="text/javascript">
 
 
-<body bgcolor="#ffffff" text="#000000" link="#cc0000" vlink="#999999" alink="#ffffff">
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
 
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
 
-<!----------------------- BEGIN OVERALL TABLE -------------------------->
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
 
-<table border="0" width="100%">
-  <tbody><tr>
-  <td width="20%" valign="TOP">
+function ajaxFunction()
+{
 
-<!------------------Logos---------------------->
-<a href="http://www.internet.com"><img src="http://www.internet.com/img/icom-logo-micro.gif" border="0" width="130" height="28" alt="internet.com logo"></a>
-<br><br><br>
+var xmlHttp;
 
-<!-- --------INTERNET.COM TOOLBAR-------- -->
-<table width="125" border="0" cellspacing="0" bgcolor="#000000">
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.nctweb.com/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = jQuery.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = jQuery.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = jQuery.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = jQuery.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = jQuery.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = jQuery.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.login_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if (jQuery("#login_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
+		};
+
+		jQuery("#login_form").validate(valid_obj.login_form);
+
+                var selects = jQuery("#login_form").find("select");
+                var crt;
+                jQuery.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
+                        jQuery("#"+crt).change(function() {
+                          jQuery(this).valid();
+                        });
+                    }
+                });
+	});
+</script>
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = jQuery.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = jQuery.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = jQuery.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = jQuery.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = jQuery.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = jQuery.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.search_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if (jQuery("#search_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {search: {"required":true}}, "messages": {}
+		};
+
+		jQuery("#search_form").validate(valid_obj.search_form);
+
+                var selects = jQuery("#search_form").find("select");
+                var crt;
+                jQuery.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
+                        jQuery("#"+crt).change(function() {
+                          jQuery(this).valid();
+                        });
+                    }
+                });
+	});
+</script>
+<div class="header">
+<div class="center">
+<div class="headerLogo">
+<a href="/"><img src="/templates/SeaShell/images/logo.png" border="0" alt="Logo"></a>
+</div>
+<div class="headerSilde">
+<a href="/login.php">Login</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=register" title="Register new user">Register</a>
+</div>
+<div class="clear"></div>
+<div class="headerSearch">
+<form action="/index.php" method="get" id="search_form">
+<table border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td width="125" valign="TOP">
-
-<table width="123" cellspacing="0" cellpadding="6" border="0">
-<tbody><tr>
-<td bgcolor="#000000" width="123" align="CENTER">
-<font color="#FFFFFF" face="ARIAL, HELVETICA"><b>internet.com</b></font>
-</td>
-</tr>
-
-<tr>
-<td bgcolor="#FFFFFF">
-<font size="-1">
-						
-<a href="http://www.internet.com/sections/news.html" class="icomtb">Internet News</a><br>
-<a href="http://www.internet.com/sections/stocks.html" class="icomtb">Internet Investing</a><br>
-<a href="http://www.internet.com/sections/it.html" class="icomtb">Internet Technology</a><br>
-<a href="http://www.internet.com/sections/win.html" class="icomtb">Windows Internet Tech.</a><br>
-<a href="http://www.internet.com/sections/linux.html" class="icomtb">Linux/Open Source</a><br>
-<a href="http://www.internet.com/sections/webdev.html" class="icomtb">Web Developer</a><br>
-<a href="http://www.internet.com/sections/marketing.html" class="icomtb">ECommerce/Marketing</a><br>
-<a href="http://www.internet.com/sections/isp.html" class="icomtb">ISP Resources</a><br>
-<a href="http://www.internet.com/sections/asp.html" class="icomtb">ASP Resources</a><br>
-<a href="http://www.internet.com/sections/wireless.html" class="icomtb">Wireless Internet</a><br>
-<a href="http://www.internet.com/sections/downloads.html" class="icomtb">Downloads</a><br>
-<a href="http://www.internet.com/sections/resources.html" class="icomtb">Internet Resources</a><br>
-<a href="http://www.internet.com/sections/lists.html" class="icomtb">Internet Lists</a><br>
-<a href="http://www.internet.com/sections/international.html" class="icomtb">International</a><br>
-<br>
-<a href="http://search.internet.com" class="icomtb">Search internet.com</a><br>
-<a href="http://www.internet.com/mediakit/" class="icomtb">Advertising Info</a><br>
-<a href="http://www.internet.com/corporate/" class="icomtb">Corporate Info</a><br>
-
-					
-
-</font>
+<td><input class="searchInput" type="text" name="search" maxlength="250" value=""></td>
+<td>
+<div class="searchBtn">
+<button class="searchBtnCenter" type="submit">GO</button>
+</div>
 </td>
 </tr>
 </tbody></table>
-
-</td>
-</tr>
-</tbody></table>
-<!-- =====INTERNET.COM TOOLBAR===== -->
-
-<p>
-<!-- =====INTERNET.COMMERCE===== -->
-<!--- DO *NOT* INSERT INTERNET COMMERCE NAV BAR HERE -- Gus V. ---->
-
-<!-- =====INTERNET.COMMERCE===== -->
-
-
-</p></td>
-
-<td width="80%" valign="TOP">
-
+</form>
+</div>
+</div>
+</div>
+<div class="hMenuContainer"><div class="center"><div class="hMenuLeft"></div><div class="hMenu"><a href="/submit.php" title="Submit your website to the directory">Submit Website</a><img width="2" height="47" src="/templates/SeaShell/images/hMenuSeparator.png" alt=""><a href="/submit_article.php" title="Submit your article to the directory">Submit Article</a><img width="2" height="47" src="/templates/SeaShell/images/hMenuSeparator.png" alt=""><a href="/index.php?list=latest" title="Browse latest submitted websites">Latest Websites</a><img width="2" height="47" src="/templates/SeaShell/images/hMenuSeparator.png" alt=""><a href="/index.php?list=latestarticles" title="Browse latest articles">Latest Articles</a><img width="2" height="47" src="/templates/SeaShell/images/hMenuSeparator.png" alt=""><a href="/index.php?list=top" title="Browse most popular websites">Top Hits</a><img width="2" height="47" src="/templates/SeaShell/images/hMenuSeparator.png" alt=""><a href="/contact.php" title="Contact directory owner">Contact</a><img width="2" height="47" src="/templates/SeaShell/images/hMenuSeparator.png" alt=""><a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced Search</a></div><div class="hMenuRight"></div></div></div><div class="path"><a href="/">Nctweb Web Directory</a> <img src="/templates/SeaShell/images/pathArrow.png" alt=" - "> Privacy Policy</div><div class="center1"><div class="leftContainer">
+<ul id="sortable_left" style="list-style-type: none; float: left; padding: 0px; margin: 0;">
+<li id="10">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Top Categories</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		<ul class="boxPopCats">
+<li>
+<a href="/Arts/" title="Arts">Arts</a>
+</li>
+<li>
+<a href="/Business/" title="Business">Business</a>
+</li>
+<li>
+<a href="/Computers_and_Internet/" title="Computers and Internet">Computers and Internet</a>
+</li>
+<li>
+<a href="/Games/" title="Games">Games</a>
+</li>
+<li>
+<a href="/Health/" title="Health">Health</a>
+</li>
+<li>
+<a href="/Home/" title="Home">Home</a>
+</li>
+<li>
+<a href="/Kids_and_Teens/" title="Kids and Teens">Kids and Teens</a>
+</li>
+<li>
+<a href="/News/" title="News">News</a>
+</li>
+<li>
+<a href="/Recreation/" title="Recreation">Recreation</a>
+</li>
+<li>
+<a href="/Reference/" title="Reference">Reference</a>
+</li>
+<li>
+<a href="/Regional/" title="Regional">Regional</a>
+</li>
+<li>
+<a href="/Science/" title="Science">Science</a>
+</li>
+<li>
+<a href="/Shopping/" title="Shopping">Shopping</a>
+</li>
+<li>
+<a href="/Society/" title="Society">Society</a>
+</li>
+<li>
+<a href="/Sports/" title="Sports">Sports</a>
+</li>
+<li>
+<a href="/World/" title="World">World</a>
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+</ul>
 <br>
-<font size="+2">internet.com Corporation Privacy Policy</font>
+</div><div class="centerContainer"><ul id="main_container" style="list-style-type: none; padding: 0; margin: 0;"><li></li></ul>
+<table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc">Privacy Policy for www.ntcweb.com<br><br>At www.ntcweb.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.ntcweb.com and how it is used.<br><br>Log Files<br>Like many other Web sites, www.ntcweb.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.<br><br>Cookies and Web Beacons<br>ntcweb.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.<br><br>DoubleClick DART Cookie<br>.:: Google, as a third party vendor, uses cookies to serve ads on ntcweb.com.<br>.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to ntcweb.com and other sites on the Internet.<br>.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html<br><br>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....<br>Google Adsense<br><br>These third-party ad servers or ad networks use technology to the advertisements and links that appear on ntcweb.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalizethe advertising content that you see.<br><br>ntcweb.com has no access to or control over these cookies that are used by third-party advertisers.<br><br>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. ntcweb.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.<br><br>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.</td></tr><tr><td></td></tr></tbody></table>
+<div class="clear"></div><li id=""></li></div><div class="rightContainer">
+<ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
+<li id="13">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Pages</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		<ul class="boxPopCats">
+<li>
+<a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a> 
+</li>
+<li>
+<a href="/submission_guidelines.html" title="Submission Guidelines">Submission Guidelines</a> 
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="17">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Tag Cloud</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		<div style="width: 170px; margin: 0px auto; padding: 10px 0px; overflow: hidden;">
+<a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Hobbies" title="Hobbies">Hobbies</a> <a class="boxSponsoredA" style="font-size: 19px" href="/index.php?search=Society" title="Society">Society</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=Fitness" title="Fitness">Fitness</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Your" title="Your">Your</a> <a class="boxSponsoredA" style="font-size: 12px" href="/index.php?search=Arts" title="Arts">Arts</a> <a class="boxSponsoredA" style="font-size: 20px" href="/index.php?search=Business" title="Business">Business</a> <a class="boxSponsoredA" style="font-size: 33px" href="/index.php?search=and" title="and">and</a> <a class="boxSponsoredA" style="font-size: 11px" href="/index.php?search=Teens" title="Teens">Teens</a> <a class="boxSponsoredA" style="font-size: 12px" href="/index.php?search=Games" title="Games">Games</a> <a class="boxSponsoredA" style="font-size: 18px" href="/index.php?search=Computers" title="Computers">Computers</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=Biology" title="Biology">Biology</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=Physics" title="Physics">Physics</a> <a class="boxSponsoredA" style="font-size: 15px" href="/index.php?search=Recreation" title="Recreation">Recreation</a> <a class="boxSponsoredA" style="font-size: 12px" href="/index.php?search=Regional" title="Regional">Regional</a> <a class="boxSponsoredA" style="font-size: 11px" href="/index.php?search=Biomimicry" title="Biomimicry">Biomimicry</a> <a class="boxSponsoredA" style="font-size: 11px" href="/index.php?search=World" title="World">World</a> <a class="boxSponsoredA" style="font-size: 12px" href="/index.php?search=News" title="News">News</a> <a class="boxSponsoredA" style="font-size: 16px" href="/index.php?search=Sports" title="Sports">Sports</a> <a class="boxSponsoredA" style="font-size: 18px" href="/index.php?search=Science" title="Science">Science</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Family" title="Family">Family</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=People" title="People">People</a> <a class="boxSponsoredA" style="font-size: 13px" href="/index.php?search=Home" title="Home">Home</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=in" title="in">in</a> <a class="boxSponsoredA" style="font-size: 18px" href="/index.php?search=Internet" title="Internet">Internet</a> <a class="boxSponsoredA" style="font-size: 11px" href="/index.php?search=Reference" title="Reference">Reference</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=of" title="of">of</a> <a class="boxSponsoredA" style="font-size: 15px" href="/index.php?search=Shopping" title="Shopping">Shopping</a> <a class="boxSponsoredA" style="font-size: 15px" href="/index.php?search=Health" title="Health">Health</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=History" title="History">History</a> <a class="boxSponsoredA" style="font-size: 11px" href="/index.php?search=Kids" title="Kids">Kids</a> 
+</div>
 
-<p>
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by internet.com Corporation. (The internet.com Network includes all Web sites and other Internet media properties listed on the internet.com navigation bar at the left.) The following discloses our Privacy Policy.
-</p><p>
-<b>What information are you collecting and how are you collecting it?</b>
-</p><p>
-Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's "Internet Protocol" <a href="http://webopedia.internet.com/TERM/I/IP_address.html">IP address</a>.  When a visitor requests a page from any Web site within the internet.com Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our Web servers do not record e-mail addresses of the visitors.
-</p><p>
-<b>What are cookies?  </b>
-</p><p>
-From time to time, internet.com or its advertisers may send a <a href="http://webopedia.internet.com/TERM/c/cookie.html">"cookie</a>" to your computer.  A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive.  A cookie can't read data off your hard disk or read cookie files created by other sites.  Cookies do not damage your system
-We use cookies to identify which areas of internet.com's Network of Web sites you have visited or customized, so the next time you visit, those pages may be readily accessible.  Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. We and our advertisers may use this information to better personalize the content, banners, and promotions that you see on our Sites.
-</p><p>
-You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended.
-</p><p>
-<b>What other information do you request?</b>
-</p><p>
-We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters, announcement lists or information about seminars)  Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested.  We maintain a strict "No-Spam" policy, that means that we do not intend to sell, rent, or otherwise give your e-mail address to a third-party, without your consent.
-</p><p>
-In addition, internet.com will not send you email that you have not agreed to receive. We  may from time to time send e-mail announcing new internet.com products and services.  If you choose to supply your postal address in an online form, you may receive mailings from other reputable, third-party companies.
-</p><p>
-When you sign up for an internet.com forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums.  This information is not used to monitor your activity within a forum, nor is it used to identify you outside the internet.com Network in any way.
-</p><p>
-If you choose to purchase something online, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related product and services, but will not be shared or sold to third parties for any purpose.
-</p><p>
-When you enter a contest or other promotion, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners.
-</p><p>
-Wherever internet.com collects personal information we make an effort to include a link to this Privacy Policy on that page.
-</p><p>
-<b>Will you disclose the information you collect to outside third parties?</b></p><p>
-
-internet.com will disclose personal information when required by law or in the good-faith belief that such action is necessary to:
-</p><p>
-&nbsp;&nbsp;&nbsp;&nbsp;1)&nbsp;	&nbsp;Conform to the edicts of the law or comply with a legal process served on internet.com,
-</p><p>&nbsp;&nbsp;&nbsp;&nbsp;2)&nbsp;&nbsp;	Protect and defend the rights or property of the internet.com network of sites, or visitors to internet.com,
-</p><p>&nbsp;&nbsp;&nbsp;&nbsp;3)&nbsp;&nbsp;	Identify persons who may be violating the law, the legal notice, or the rights of third parties,
-</p><p>&nbsp;&nbsp;&nbsp;&nbsp;4)&nbsp;&nbsp;	Cooperate with the investigations of purported unlawful activities.
-</p><p>
-internet.com uses reasonable precautions to keep the information disclosed to us
-secure. internet.com reserves the right to transfer information in connection with the sale of all or part of internet.com's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties which receive the information. internet.com also links to a wide variety of other sites and contains advertisements of third parties. We are not responsible for their privacy policies or how they treat information about their users See below, <b>What else should I know about my privacy when online?</b>
-
-</p><p>
-<b>Opt-in announcement List Privacy Policy</b></p><p>
-As an added benefit to the visitors of internet.com, we have a relationship with PostMasterDirect, an independent, third-party company that sends e-mail announcements to individuals who request to receive them.  When you sign up for an internet.com e-mail newsletter, you are given the opportunity to also receive announcement lists from PostmasterDirect.  Whether you want to receive these announcement lists is your choice; you should only receive those lists you affirmatively choose to.  If you choose to receive a specific announcement list, you will receive commercial messages that are related to the topic of the list from independent third-parties that have contracted with internet.com and PostMaster Direct to send messages to the list. Personally identifiable information will not be used by internet.com or PostMasterDirect for any purposes other than to deliver the newsletters.  You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to <a href="mailto:&quot;deleteall@postmasterdirect.com&quot;">deleteall@postmasterdirect.com</a>, or by following the instructions on the e-mails you receive.  <a href="http://w3.netcreations.com/main?page=privacy">Click here to see the Postmaster Direct privacy policy</a>.
-
-</p><p>
-<b>What else should I know about my privacy when online?</b>
-</p><p>
-The internet.com network of Web sites contains many links to other Web sites.  internet.com is not responsible for the privacy practices or the content of such Web sites.  internet.com does not share any of the individual personal information you provide internet.com with the sites to which internet.com links, although internet.com may share aggregate data with such Web sites (such as how many people use our Site).
-</p><p>
-Please check with those sites to determine their privacy policy.
-</p><p>
-Please keep in mind that whenever you voluntarily disclose personal information
-online - for example through e-mail, discussion lists, or elsewhere - that
-information can be collected and used by others. In short, if you post personal
-information online that is accessible to the public, you may receive unsolicited
-messages from other parties in return.
-</p><p>
-Ultimately, you are solely responsible for maintaining the secrecy of your
-personal information.  Please be careful and responsible whenever you're online.
-</p><p>
-<b></b></p><center><b>Your Consent To This Agreement</b></center><p>
-
-By using our Web site, you consent to the collection and use of information by internet.com as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-
-
-
-
-
-</p><center>
-<p>
-</p><center>
-Copyright 2000 internet.com Corp.<br>
-All Rights Reserved. <a href="http://www.internet.com/corporate/legal.html">Legal Notices</a>, &nbsp;<a href="http://www.internet.com/corporate/reprints.html">Reprints</a>, &nbsp;<a href="http://www.internet.com/corporate/privacy/privacypolicy.html">Privacy Policy</a>.
-<br>
-<a href="http://www.internet.com"><img src="/img/URL.gif" alt="http://www.internet.com/" width="161" height="18" border="0"></a>
-</center>
-
-
-</center>
-</td>
-</tr>
-
-</tbody></table>
-
-
-
-
-</body></html>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+</ul>
+</div><div class="clear" style="height: 30px;"></div><!-- AddThis Button BEGIN --><div class="addthis_toolbox addthis_default_style "><a class="addthis_button_google_plusone" g:plusone:annotation="bubble"></a><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_facebook_send"></a><a class="addthis_button_tweet"></a><a class="addthis_button_pinterest_pinit"></a><a class="addthis_button_linkedin"></a><a class="addthis_counter addthis_pill_style"></a></div><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-51a3188c48e6fc49"></script><!-- AddThis Button END --></div><div class="footer"><p align="left"> <a href="http://www.nctweb.com/" title="NCTWEB.com" <="" a=""></a></p></div></body></html>
