@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orhp.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207210902id_/http%3A//www.orhp.com/index.cfm%3Fgo%3Daboutus.privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orhp.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611041134id_/http%3A//www.orhp.com/index.cfm%3Fgo%3Daboutus.privacyPolicy) for the most accurate reproduction.*
 
 # Old Republic Home Protection - Home Warranty Service
 
@@ -30,4 +30,4 @@ We may share your information outside the company only as authorized by you, or 
 
 These companies and contractors are subject to confidentiality provisions and restrictions that prohibit using the information beyond the performance of the specified services on your behalf, and are specifically prohibited from independent use of the information. 
 
-In the event you have any questions or concerns regarding this policy, please do not hesitate to contact us directly at [CustomerCare@orhp.com](https://web.archive.org/index.cfm?go=contactUs.customerCare) or call us at 1-800-445-6999.
+In the event you have any questions or concerns regarding this policy, please [contact us](https://web.archive.org/index.cfm?go=contactus.main).
