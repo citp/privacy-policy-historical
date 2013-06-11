@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservativeintel.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208173147id_/http%3A//conservativeintel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservativeintel.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611034344id_/http%3A//conservativeintel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Conservative Intelligence Briefing
 
@@ -74,3 +74,5 @@ Website Privacy Policy Changes
 Although most changes are likely to be minor, Conservative Intelligence Briefing reserves the right to modify, amend, or alter its Privacy Policy from time to time. Conservative Intelligence Briefing encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 DATED: 12 May 2011
+
+comments
