@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novelguide.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014033044id_/http%3A//www.novelguide.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novelguide.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611065128id_/http%3A//www.novelguide.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Study guide | Privacy Statement | Novelguide
 
