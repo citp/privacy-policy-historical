@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the groceryrun.com.au privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107182247id_/http%3A//www.groceryrun.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groceryrun.com.au privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611105953id_/http%3A//www.groceryrun.com.au/privacy.php) for the most accurate reproduction.*
 
-# Groceries online | Online Grocery Store | GroceryRun.com.au | Privacy Policy
+# Groceries online | Online Grocery Store | GroceryRun.com.au
 
-**1.1** CatchOfTheDay.com.au Pty Ltd t/a GroceryRun.com.au ( **GroceryRun.com.au** ) respects your privacy and is committed to protecting your personal information. Our privacy policy outlines our approach to privacy and how we collect, use and protect your personal information. It also sets out your rights in relation to accessing the personal information we collect and hold about you. We are bound by the National Privacy Principles in the _Privacy Act 1988_ (Cth).
+### 1\. General Statement
+
+**1.1** GroceryRun.com.au Pty Ltd ( **GroceryRun.com.au** ) respects your privacy and is committed to protecting your personal information. Our privacy policy outlines our approach to privacy and how we collect, use and protect your personal information. It also sets out your rights in relation to accessing the personal information we collect and hold about you. We are bound by the National Privacy Principles in the _Privacy Act 1988_ (Cth). 
 
 **1.2** Personal information is defined in the _Privacy Act 1988_ (Cth) and means information or an opinion about an individual whose identity is apparent or can be reasonably ascertained from that information or opinion. 
 
-**1.3** Our Website may contain links to third party websites. We are not responsible for the privacy policies of any third party websites. We recommend that you review the privacy policy of each website you visit.
+**1.3** Our Website may contain links to third party websites. We are not responsible for the privacy policies of any third party websites. We recommend that you review the privacy policy of each website you visit. 
+
+### 2\. Collection of Personal Information
 
 **2.1** GroceryRun.com.au only collects personal information for the purposes of conducting our business as an online retailer of goods and services. The personal information we collect from you will include information you give us when you: 
 
@@ -46,7 +50,9 @@
 
 **(e)** web page usage statistics, including the time spent on each web page. 
 
-**2.8** We will not identify users or their browsing activities, except where required by law or in accordance with our ****[Terms and Conditions of Use and Sale](https://www.groceryrun.com.au/terms.php). 
+**2.8** We will not identify users or their browsing activities, except where required by law or in accordance with our [Terms and Conditions of Use and Sale](https://web.archive.org/terms). 
+
+### 3\. Using and Disclosing Your Personal Information
 
 **3.1** We will generally use or disclose your personal information only for the primary purpose for which it was collected; or for a related secondary purpose where you would reasonably expect us to use or disclose the personal information for that secondary purpose. We may otherwise use and disclose your personal information if you have given us consent for the use or disclosure or it is required or authorised by law. 
 
@@ -56,22 +62,26 @@
 
 **3.4** We will generally only use personal information for marketing if you have given express or implied consent or it is impracticable to seek consent before this use and you are given the opportunity to opt out of receiving any further direct marketing communications. Our electronic marketing activities will comply with the requirements of the _Spam Act 2003_ (Cth). 
 
-**3.5** We may share your information with other members of the CatchOfTheDay.com.au Group, including members that are located outside of Australia. Our Group is comprised of CatchOfTheDay.com.au Pty Ltd, Scoopon Pty Ltd, Wine Cru Pty Ltd and their Related Bodies Corporate, as defined in the _Corporations Act 2001_ (Cth). 
+**3.5** We may share your information with other members of the GroceryRun.com.au Group, including members that are located outside of Australia. Our Group is comprised of GroceryRun.com.au Pty Ltd, Scoopon Pty Ltd, Wine Cru Pty Ltd, Ladybub Pty Ltd and their Related Bodies Corporate, as defined in the _Corporations Act 2001_ (Cth). 
 
 **3.6** We may also provide your information to third parties that provide services to us, including third parties that provide our payment gateway, marketing, logistics and technology support services. This may include providing your information to third parties that are located outside of Australia. Where your personal information is transferred outside Australia, we will do so in accordance with National Privacy Principle 9. 
 
-We take steps to protect the personal information we hold against loss, unauthorised access, use, modification or disclosure and against other misuse. When no longer required, personal information is destroyed in a secure manner or deleted.
+### 4\. Security of Your Personal Information
+
+We take steps to protect the personal information we hold against loss, unauthorised access, use, modification or disclosure and against other misuse. When no longer required, personal information is destroyed in a secure manner or deleted. 
+
+### 5\. Access to Your Personal Information
 
 **5.1** Under the _Privacy Act 1988_ (Cth), you have certain rights to access the personal information we collect and hold about you. 
 
 **5.2** Generally, we will allow an individual access to the personal information we hold about them within a reasonable time after it is requested. When requesting such access please identify the precise type/s of information requested.   
 You may make a request by sending us an email using our [Help Centre](https://helpcentre.groceryrun.com.au/) or by writing to us at:   
 Office of the Chief Information Officer  
-CatchOfTheDay.com.au Pty Ltd t/a GroceryRun.com.au  
-64-70 Cochranes Road  
-Moorabbin, Victoria 3189  
+GroceryRun.com.au Pty Ltd  
+767 Springvale Road  
+Mulgrave, Victoria 3170  
 Australia 
 
-**5.3** Additional information regarding privacy may be obtained from the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/).
+**5.3** Additional information regarding privacy may be obtained from the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/). 
 
-Privacy Policy last updated on 1 June 2012.
+Privacy Policy last updated on 1 June 2012. 
