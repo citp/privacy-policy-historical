@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the petpremium.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211020256id_/http%3A//www.petpremium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petpremium.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611202802id_/http%3A//www.petpremium.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pet Premium
+# Privacy Policy - Petpremium.com
 
 This privacy policy was created to let you know what information we collect from you, what we do with it and to ensure you that your information will be respected on our Web site: [**www.petpremium.com**](http://www.petpremium.com/ "PetPremium.com") (referred to herein as “Provider”, the “Site”, “we” or “us”). The Provider attempts to protect your privacy to the maximum extent possible. 
 
@@ -110,9 +110,13 @@ Reference in this Web site to any specific commercial products, processes, or se
 
 We may update this privacy policy to reflect changes to our information practices. If we make any change in how we use your personal information we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-ReviMedia, Inc  
-231 Front St., Suite 124  
-Brooklyn, NY 11201,  
-USA
+**PetPremium, Inc**  
+2530 Meridan Parkway,  
+2nd Floor, Suite 2046  
+Durham, NC 27713, USA
 
-_Last updated: November 1, 2012._
+**ReviMedia, Inc**  
+231 Front St., Suite 124  
+Brooklyn, NY 11201, USA
+
+_Last updated: April 1, 2013._
