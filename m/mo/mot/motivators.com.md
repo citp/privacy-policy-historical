@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915042923id_/http%3A//www.motivators.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611042406id_/http%3A//motivators.com/privacy.asp) for the most accurate reproduction.*
 
 # Motivators Privacy Policy, Commitment to Data Security, Motivators Information
 
@@ -13,20 +13,24 @@ Motivators, Inc. has been awarded TRUSTe's Privacy Seal signifying that this pri
 This notice applies to all information collected or submitted on the Motivators website. These Pages are Secure. On some pages, you can order products, make requests, and register to receive material. The types of personal information collected at these pages are:  
 
 
-* Name 
-* Address 
-* Email Address 
-* Phone Number 
-* Credit/Debit Card Information 
-* Shipper # information 
-* (etc)
+  * Name
+  * Address
+  * Email Address
+  * Phone Number
+  * Credit/Debit Card Information
+  * Shipper # information
+  * (etc)
+
+
 
 On some pages, you can submit information about other people. For example, if you order a product online and want it sent directly to another recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: 
 
-* Name 
-* Address 
-* Email Address 
-* Phone Number 
+  * Name
+  * Address
+  * Email Address
+  * Phone Number
+
+
 
 **Cookies**
 
@@ -60,10 +64,12 @@ We may provide your personal information to companies that provide services to h
 
 Ways we will disclose your personal information: 
 
-* As required by law such as to comply with a subpoena, or similar legal process 
-* When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request 
-* If Motivators, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information 
-* To any other third party with your prior consent to do so. 
+  * As required by law such as to comply with a subpoena, or similar legal process
+  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
+  * If Motivators, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
+  * To any other third party with your prior consent to do so.
+
+
 
 We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
@@ -71,7 +77,7 @@ We use non-identifying and aggregate information to better design our website an
 
 **Our Commitment To Data Security**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We are also protected by Hackersafe, a service to assure that your information is kept secure. For information click here: <https://www.scanalert.com/RatingVerify?ref=www.motivators.com>
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We are also protected by VeriSign, a service to assure that your information is kept secure. For information click here: [https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=secure.motivators.com&lang=en](https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=secure.motivators.com&lang=en)
 
 **Our Commitment To Children's Privacy**
 
@@ -119,9 +125,11 @@ We may update this privacy statement to reflect changes to our information pract
 
 Should you have other questions or concerns about these privacy policies, please 
 
-* call us at 1-800-525-9600 
-* send us an email at [privacy@motivators.com](mailto:privacy@motivators.com)
-* send a letter to 123 Frost St. Suite 201 Westbury, NY 11590 
+  * call us at 1-800-525-9600
+  * send us an email at [privacy@motivators.com](mailto:privacy@motivators.com)
+  * send a letter to 123 Frost St. Suite 201 Westbury, NY 11590
+
+
 
 By Visiting Motivators.com, you are accepting the practices described in this privacy notice.
 
