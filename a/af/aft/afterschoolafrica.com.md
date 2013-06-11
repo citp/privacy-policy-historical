@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the afterschoolafrica.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223030808id_/http%3A//www.afterschoolafrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterschoolafrica.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611194228id_/http%3A//www.afterschoolafrica.com/privacy-policy) for the most accurate reproduction.*
 
-# After School AfricaPrivacy Policy | After School Africa
+# Privacy Policy | African Scholarships
 
 **Privacy Policy for www.afterschoolafrica.com**
 
