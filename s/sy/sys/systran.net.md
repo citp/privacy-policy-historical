@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the systran.net privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517035056id_/http%3A//www.systransoft.com/systran/corporate-profile/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the systran.net privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611141757id_/http%3A//www.systransoft.com/systran/corporate-profile/policies/privacy-policy) for the most accurate reproduction.*
 
 # SYSTRAN - Privacy Policy
 
