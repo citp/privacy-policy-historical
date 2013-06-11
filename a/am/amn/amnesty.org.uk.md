@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnesty.org.uk privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202131551id_/http%3A//amnesty.org.uk/content.asp%3FCategoryID%3D345) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnesty.org.uk privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612014802id_/http%3A//amnesty.org.uk/content.asp%3FCategoryID%3D345) for the most accurate reproduction.*
 
 # AIUK : Privacy Policy
 
@@ -31,7 +31,7 @@ Your online privacy and security is very important to Amnesty International.
 **2\. INTRODUCTION**  
 2.1 The Sites provide various services which include, but are not limited to, providing information on and encouraging participation in Amnesty International UK's various campaigns to stand up for humanity and human rights and protecting individuals wherever justice, fairness, freedom and truth are denied; and providing an online community for like-minded people to take action together.   
 2.2 The Sites are UK-based websites and we take reasonable care to comply with the requirements of the UK Data Protection Act 1998 ('the Act') relating to the personal information you supply on the Sites.     
-2.3 For the purpose of the Act, we are the data controller. If you have any queries concerning this Privacy Policy or the way in which your personal data is used by us, please email our Supporter Care Team  at sct@amnesty.org.uk 
+2.3 For the purpose of the Act, we are the data controller. If you have any queries concerning this Privacy Policy or the way in which your personal data is used by us, please contact our Supporter Care Team via sct@amnesty.org.uk or by phone on +44 (0) 20 7033 1777.
 
 **3\. CHILDREN**  
 3.1 The Sites are aimed at people who are aged 14 years old and over.  If you  are aged 14 to 18, we advise you to inform your parent or legal guardian that you are registering on and/or using the Sites.  If you are under the age of 14, you may not register on and/or use the Sites or submit any personal information to any of the Sites.   
@@ -53,7 +53,7 @@ If you have registered as a member on any of the Sites, you may be asked to prov
 7.3 We may also use your Information to help us to know what incentives, appeals and actions are working well and which are not so strong and to inform future activity across the organisation, helping Amnesty International UK to be more effective in combating human rights abuses.   
 7.4 We care about your details and unless you have agreed we will never share your phone number or email address. Amnesty will not share the contact details of under 18s.  
 7.5 We may permit selected third parties to use your Information, to contact you about products, services or issues which may be of interest to you, if you have given us permission to do so. If you do not wish to receive any such communications from us or third parties, you may opt out by notifying our Supporter Care Team at sct@amnesty.org.uk.   
-7.6 We may offer you the opportunity to sign up to a mailing list and/or newsletter, to participate in a survey or a competition, or to receive information by email about third parties' products and services, or any other products and services which we provide.  If you sign up for any of these and subsequently change your mind, you may opt out by notifying us at our Customer Services email address above. 
+7.6 We may offer you the opportunity to sign up to a mailing list and/or newsletter, to participate in a survey or a competition, or to receive information by email about third parties' products and services, or any other products and services which we provide.  If you sign up for any of these and subsequently change your mind, you may opt out by notifying Our Supporter Care Team via sct@amnesty.org.uk or  +44 (0) 20 7033 1777, or by clicking on the 'unsubscribe' link at the end of every ecommunication you receive from us. 
 
 **8\. DISCLOSURE OF YOUR INFORMATION TO THIRD PARTIES**  
 8.1 Except as set out below, we will not sell, distribute or disclose your Information without your consent, unless we believe in good faith that the law requires it.     
