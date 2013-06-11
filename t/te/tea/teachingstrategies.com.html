@@ -1,24 +1,24 @@
-<!--The following is the downloaded HTML source of the teachingstrategies.com privacy policy that was archived on 2011-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111120023111id_/http%3A//teachingstrategies.com/page/privacyPolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teachingstrategies.com privacy policy that was archived on 2013-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130611021636id_/http%3A//www.teachingstrategies.com/page/privacyPolicy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script> 
+
 	<meta name="description" content="Comprehensive curriculum, assessment, and training resources for early childhood educators. The online home of The Creative Curriculum, brought to you by Teaching Strategies, a dynamic company serving infant, toddler, preschool, kindergarten, Head Start, school-age, and family child care programs.">
 
 	<meta name="keywords" content="teaching strategies, teachingstrategies, creative curriculum, creativecurriculum, curriculum, early childhood education, education, early education, child development, toolkit, developmental continuum, developmental, child, children, child outcomes, outcomes, outcomes reporting, assessment, progress, reports, progress reports, ccport, cc-port, educator, education, early learning, teacher, child care, infant, toddler, preschool, pre-school, nursery school, pre-k, kindergarten, school-age, family child care, head start, primary grades, elementary school, training, staff development network, staff development, conferences, books, cda, parents, parenting, diane dodge, diane trister dodge, trister dodge">
 
 
 
-<link rel="stylesheet" type="text/css" href="/P3_Styles_v2.css" media="screen" title="no title" charset="utf-8">
+<link rel="stylesheet" type="text/css" href="/P6_styles.css" media="screen, projection, print" title="no title" charset="utf-8">
+<!--[if lt IE 8]><link rel="stylesheet" href="/css/ie.css" type="text/css" media="screen, projection"><![endif]-->
 
-	<script type="text/javascript" src="/scripts/cforms.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/cforms.js"></script>
 
 <script type="text/javascript" src="/scripts/main.js"></script>
-<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/P3_lt7.css" media="screen"/><![endif]-->
 
-<title>Teaching Strategies, Inc. - Security and Privacy Policies</title>
+
+<title>Teaching Strategies, LLC - Security and Privacy Policies</title>
 
 
 
@@ -28,28 +28,18 @@
 		var _new = window.open('','emailpage','width=260,height=375,resizable=0,scrollbars=0');
 		_new.focus();
 	}
-
-//BookMark Code
-function bookmarksite(title,url){
-if (window.sidebar) // firefox
-	window.sidebar.addPanel(title, url, "");
-else if(window.opera && window.print){
-	var elem = document.createElement('a');
-	elem.setAttribute('href',url);
-	elem.setAttribute('title',title);
-	elem.setAttribute('rel','sidebar');
-	elem.click();
-}
-else if(document.all)
-	window.external.AddFavorite(url, title);
-}
-
 </script>
 
 
 <script type="text/javascript" src="/js/swfobject.js"></script>
 
-
+<script src="js/jquery.placeheld.min.js" type="text/javascript" charset="utf-8"></script>
+<script>
+$(function() {
+	$("input[placeholder]").placeHeld();
+});
+</script>
+<script src="js/jquery.autoheight.js" type="text/javascript" charset="utf-8"></script>
 
 
 
@@ -97,201 +87,525 @@ else if(document.all)
 
 
 	<script type="text/javascript" language="javascript" src="/jquery.js"></script>
-	<script src="/js/jquery.placeheld.min.js" type="text/javascript" charset="utf-8"></script>
-	<script>
-	$(document).ready(function() {
-		$("input[placeholder]").placeHeld();
-	});
-	</script>
+	
+	
+		<link rel="stylesheet" href="/css/jquery.fancybox-1.3.4.css" type="text/css" media="screen" title="no title" charset="utf-8">
+		<script src="/js/jquery-1.6.2.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="/js/jquery-ui-1.8.15.custom.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="/js/jquery.fancybox-1.3.4.pack.js" type="text/javascript" charset="utf-8"></script>
+		<script src="/js/jquery.autoheight.js" type="text/javascript" charset="utf-8"></script>
+		
+
+		<script>
+		$(function() {
+
+			$(".showCart").fancybox({
+				'overlayOpacity'	: 0.8,
+				'overlayColor'		: '#fff',
+				'padding'			: 0,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'onStart'		: function() {
+					$('#fancybox-wrap').removeClass('small-shadow');
+				}
+			});
+			
+		});
+		function printTabs(){
+			$("a.printLink").prop("href", $("a.printLink").prop("href")+window.location.hash);
+		}
+
+		
+		function updateCart(){
+			$("#showCartLink").prop("href", '/bookshop/CartItems.cfm?uc=' + Math.floor(Math.random()*10000001));
+			_gaq.push(['_trackPageview', '/AddToCartModalView']);
+		}
+		</script>
 	
 	<script language="javascript" type="text/javascript">
 		function validateSearchForm()
 		{
 			formObj = document.topNavSearchForm;
-			if (formObj.keywords.value == "Enter Keywords or Title")
+			if (formObj.keywords.value == "")
 			{
 				alert("Please enter keywords or title for search.");
 				return false;
 			}
-			formObj.submit();
 		}
 	</script>
-	
-	<style type="text/css">
-		.generic .content-inner a:link {color: #ff6600; text-decoration:none; }
-		.generic .content-inner a:hover {color: #ff6600; text-decoration:underline; }
-	</style>
-	
 	</head>
-<body>
-
-<div id="main" class="generic">
-<!--header section-->
+<body class="generic">
 	
-		<div id="header">
-			<a class="logo" id="logo" href="/">
-				
-					<img src="/images/new_logo3.jpg" width="275" height="116" alt="Teaching Strategies for Early Childhood">
-				
+	<div class="container">
+		<div class="header">
+			<a class="header-logo" href="/">
+				<img src="/images6/tsi-header-logo.png" width="238" height="58" alt="Teaching Strategies for Early Childhood">
 			</a>
-			<div class="header-content">
-				<div class="top-area">
-					<ul class="social-btns">
-					<li><a class="facebook-btn" href="https://www.facebook.com/TeachingStrategiesForEarlyChildhood">Facebook Page</a></li>
-					<li><a class="twitter-btn" href="https://twitter.com/TeachStrategies">Twitter Feed</a></li>
-					</ul>
-					<div class="search-area">
-						<form action="/search.cfm" name="topNavSearchForm" method="get">
-							<div class="form">
-									<span onclick="validateSearchForm()">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-								<input type="text" class="search-text" name="keywords" placeholder="Enter Keywords or Title">
-								<input type="hidden" value="Y" name="log">
-							</div>
-						</form>
-					</div>
-				</div>
-				<div class="loginNav">
-					<ul class="utilnav">
-						
-							<li><span class="nav-gold">GOLD</span> <a href="https://www.teachingstrategies.com/login.cfm">Sign In</a></li>
-							<li>Member <a href="https://www.teachingstrategies.com/login.cfm">Sign In</a></li>
-							<li>Become a <a href="https://www.teachingstrategies.com/myAccount/profile.cfm?MORedirect=N">Member</a></li>
-						
-						<li class="last">View Your <a href="/bookshop/cart.cfm">Cart</a></li>
-					</ul>
-				</div>
 
-				
+			<ul class="social-search">
+				<li class="head-social-btns">
+					<ul>
+						<li>
+							<a href="http://www.facebook.com/TeachingStrategiesForEarlyChildhood" class="head-fb-btn" target="_blank">Find us on Facebook</a>
+						</li>
+						<li>
+							<a href="http://www.Twitter.com/TeachStrategies" class="head-tw-btn" target="_blank">Follow us on Twitter</a>
+						</li>
+						<li>
+							<a href="http://www.youtube.com/user/tsiwebmaster" class="head-youtube-btn" target="_blank">YouTube</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<form action="/search.cfm" name="topNavSearchForm" method="get" onsubmit="return validateSearchForm();" id="topNavSearchForm">
+						<button class="head-search-btn">Search</button><input type="text" name="keywords" class="search" placeholder="SEARCH"><input type="hidden" value="Y" name="log">
+					</form>
+				</li>
+			</ul>
+			<nav style="display:block;">
+				<ul class="utilnav">
+					
+						<li><a href="https://www.teachingstrategies.com/login.cfm?rurl=https%3A%2F%2Fwww%2Eteachingstrategies%2Ecom%2FGold%2FLoggingIn%2Ecfm&amp;system=gold" style="color:#df9e23; font-weight:bold">GOLD Quick Access</a></li>
+						<li><a href="https://www.teachingstrategies.com/myAccount/profile.cfm?MORedirect=N">Become a Member</a></li>
+						<li><a href="https://www.teachingstrategies.com/login.cfm">Member Sign In</a></li>
+					
+					<li>
+						<a href="/blog/">Blog</a>
+					</li>
+					<li class="last">
+						<a href="/myaccount/bb_community.cfm?lcid=1">Community</a>
+					</li>
+				</ul>
+			</nav>
+
+			
+
+
+			
 
 <!--navigation-->
-<ul id="nav">
-	
-				<li id="curriculum">
-					<a href="/page/ccs_overview.cfm">Curriculum</a>
-			
-	        <ul>
-				
-					<li><a href="/page/teaching-strategies-system-for-preschool.cfm">The Creative Curriculum System for Preschool</a></li>
-					
-					<li><a href="/page/creative-curriculum-infants-toddlers-twos.cfm">Infants, Toddlers, and Twos</a></li>
-					
-					<li><a href="/page/FC_CCforChildCare.cfm">Family Child Care</a></li>
-					
-					<li><a href="/page/funding.cfm">Funding</a></li>
-					
-			</ul>
-			
-	    </li>
-
-	
-				<li id="assessment">
-					<a href="/page/assess_overview.cfm">Assessment</a>
-			
-	        <ul>
-				
-					<li><a href="/page/GOLD.cfm">Teaching Strategies GOLD</a></li>
-					
-					<li><a href="/page/teaching-strategies-GOLD-alignments.cfm">GOLD Alignments</a></li>
-					
-					<li><a href="/page/teaching-strategies-GOLD-professional-development.cfm">GOLD PD</a></li>
-					
-					<li><a href="/page/gold-dashboard.cfm">GOLD Dashboard</a></li>
-					
-			</ul>
-			
-	    </li>
-
-	
-				<li id="pro-dev">
-					<a href="/page/pd_overview.cfm">Professional Development</a>
-			
-	        <ul>
-				
-					<li><a href="/page/calendar.cfm">Calendar</a></li>
-					
-					<li><a href="/page/PD_TaylorCenter.cfm">Professional Development at Teaching Strategies</a></li>
-					
-					<li><a href="/page/PD_YourSite.cfm">On-Site Professional Development</a></li>
-					
-					<li><a href="/page/PD_Video.cfm">Video Training</a></li>
-					
-					<li><a href="/page/coachsguide.cfm">The Coach's Guide</a></li>
-					
-					<li><a href="/page/PD_CDATrain.cfm">CDA Training</a></li>
-					
-					<li><a href="/page/PD_Instructors.cfm">About Our Instructors</a></li>
-					
-			</ul>
-			
-	    </li>
-
-	
-				<li id="connection">
-					<a href="/page/FamilyConnection.cfm">Family Connection</a>
-			
-	        <ul>
-				
-					<li><a href="/page/LearningGames.cfm">LearningGames</a></li>
-					
-					<li><a href="/page/FC_Abecedarian-Studies.cfm">Abecedarian Studies</a></li>
-					
-			</ul>
-			
-				</li>
-				<li id="bookshop">
-						<a href="/bookshop">Bookshop</a>
-				<ul>
-					<li><a href="/bookshop/">Browse Our Products</a></li>
-					<li><a href="/bookshop/express.cfm">Express Ordering</a></li>
-					<li><a href="/page/service.cfm">Bookshop Policies</a></li>
-					<li><a href="/page/service.cfm">Shipping Information</a></li>
-					<li><a href="/bookshop/search.cfm">Search</a></li>
-				</ul>
-			
-	    </li>
-
-	
-</ul> 
-			</div>
-		</div>
-	
-
-	<div id="container">
-
+<div class="nav-box clearfix">
+	<ul class="nav">
 		
-			<div class="content-holder">
-		
-	<div id="sidebar">
-<h3 style="color:#ff6600;">Customer Solutions</h3>
-		<div class="side-nav">
-			<ul>
+					<li id="curriculum">
+						<a href="/page/ccs_overview.cfm">Curriculum</a>
+				
+				<div class="sub-menu">
+					<div class="sub-menu-border clearfix">
+						<ul>
+							
+								<li><a href="/page/ccs_overview.cfm"><span>Overview</span></a>
+								
+									</li>
+								
+								<li><a href="/page/73756-creative-curriculum-system-preschool.cfm"><span>The Creative Curriculum for Preschool</span></a>
+								
+									<ul>
+								
+								<li><a href="/page/74883-creative-curriculum-preschool-daily-resources.cfm">Daily Resources</a>
+								
+									</li>
+								
+								<li><a href="/page/73749-creative-curriculum-preschool.cfm">The Foundation</a>
+								
+									</li>
+								
+								<li><a href="/page/70977-mighty-minutes-preschool.cfm">Mighty Minutes</a>
+								
+									</li>
+								
+								<li><a href="/page/74746-teaching-guide-posters.cfm">Teaching Guide Posters</a>
+								
+									</li></ul></li>
+								
+								<li><a href="/page/cc-coaching-fidelity-resources.cfm"><span>Coaching and Fidelity Resources</span></a>
+								
+									</li>
+								
+								<li><a href="/page/74258-creative-curriculum-infants-toddlers.cfm"><span>The Creative Curriculum for Infants, Toddlers &amp; Twos</span></a>
+								
+									</li>
+								
+								<li><a href="/page/71035-creative-curriculum-family-child-care.cfm"><span>The Creative Curriculum for Family Child Care</span></a>
+								
+									</li>
+								
+									</ul><ul>
+									
+								<li><a href="/page/Curriculum-Subhead-Classroom-Materials.cfm"><span>Classroom Materials</span></a>
+								
+									<ul>
+								
+								<li><a href="/page/study-kits-balls-buildings-clothes-trees-recycle.cfm">Preschool Study Kits</a>
+								
+									</li>
+								
+								<li><a href="/page/bilingual-math-music-observation-kits.cfm">Preschool Kits for Math, Music, Observation, and Bilingual Literacy</a>
+								
+									</li>
+								
+								<li><a href="/page/twos-materials-sets.cfm">Twos Classroom Materials Sets</a>
+								
+									</li>
+								
+								<li><a href="/page/mobile-infants-toddlers-sets.cfm">Mobile Infants and Toddlers Classroom Materials Sets</a>
+								
+									</li>
+								
+								<li><a href="/page/young-infants-materials.cfm">Young Infants Classroom Materials Sets</a>
+								
+									</li></ul></li>
+								
+								<li><a href="/page/75125-get-fit-kit.cfm"><span>Get Fit! Kit</span></a>
+								
+									</li>
+								
+								<li><a href="/page/108X-creative-curriculum-study-starters.cfm"><span>Study Starters</span></a>
+								
+									</li>
+								
+								<li><a href="/page/guide-early-childhood-education-funding.cfm"><span>Guide To Early Childhood Funding</span></a>
+								
+							</li>
+						</ul>
+					</div>
+				</div>
 			
-						<li><a href="/page/Terms-of-Use.cfm">Terms of Use</a></li>
-					
-
-
-						<li level="1" class=""><a style="color:#ff6600;text-decoration:underline;" href="/page/privacyPolicy.cfm">Security and Privacy</a>
-						
-						</li>
-					
-						<li><a href="/page/service.cfm">Information About Your Order</a></li>
-					
-						<li><a href="/page/purchaseorder.cfm">How To Pay With a Purchase Order</a></li>
-					
-						<li><a href="/page/catalog-request.cfm">Catalog</a></li>
-					
-						<li><a href="/page/permissionToReprint.cfm">Permission to Reprint</a></li>
-					
-						<li><a href="/page/collegeInstructors.cfm">Information for Colleges and Universities</a></li>
-					
-						<li><a href="/page/CR_ENewsDiscGroup.cfm">E-mail Discussion Group and E-mail Updates</a></li>
-					
-			</ul>
-		</div>
+			</li>
+		
+					<li id="assessment">
+						<a href="/page/assessment-early-childhood-overview.cfm">Assessment</a>
+				
+				<div class="sub-menu">
+					<div class="sub-menu-border clearfix">
+						<ul>
+							
+								<li><a href="/page/assessment-early-childhood-overview.cfm"><span>Overview</span></a>
+								
+									</li>
+								
+								<li><a href="/page/GOLD-assessment-online.cfm"><span>Teaching Strategies GOLD Online</span></a>
+								
+									</li>
+								
+								<li><a href="/page/GOLD-research-overview.cfm"><span>Research</span></a>
+								
+									</li>
+								
+									</ul><ul>
+									
+								<li><a href="/page/GOLD-coaching-fidelity-resources.cfm"><span>Coaching and Fidelity Resources</span></a>
+								
+									</li>
+								
+								<li><a href="/page/73190-gold-assessment-toolkit.cfm"><span>Teaching Strategies GOLD Toolkit</span></a>
+								
+							</li>
+						</ul>
+					</div>
+				</div>
+			
+			</li>
+		
+					<li id="professional-dev">
+						<a href="/page/pd_overview.cfm">Professional<br>Development</a>
+				
+				<div class="sub-menu">
+					<div class="sub-menu-border clearfix">
+						<ul>
+							
+								<li><a href="/page/pd_overview.cfm"><span>Overview</span></a>
+								
+									</li>
+								
+								<li><a href="/page/professional-development-sessions.cfm"><span>Sessions</span></a>
+								
+									<ul>
+								
+								<li><a href="/page/calendar.cfm">Calendar</a>
+								
+									</li>
+								
+								<li><a href="/page/pd-about-professional-development-center.cfm">About the Professional Development Center</a>
+								
+									</li>
+								
+								<li><a href="/page/pd-about-our-instructors.cfm">About Our Instructors</a>
+								
+									</li></ul></li>
+								
+								<li><a href="/page/pd-coaching-fidelity-resources.cfm"><span>Coaching and Fidelity Resources</span></a>
+								
+									<ul>
+								
+								<li><a href="/page/75422-coaching-to-fidelity.cfm">Coaching to Fidelity and The Fidelity Tool</a>
+								
+									</li></ul></li>
+								
+								<li><a href="/page/PD-Subhead-Books.cfm"><span>Books</span></a>
+								
+									<ul>
+								
+								<li><a href="/page/21782-coachs-guide.cfm">The Coach's Guide and The Coach's Recording Tool</a>
+								
+									</li>
+								
+								<li><a href="/page/9414-CLASS-assesment-manual.cfm">Classroom Assessment Scoring System</a>
+								
+									</li>
+								
+								<li><a href="/page/73932-power-of-assessment.cfm">The Power of Assessment</a>
+								
+									</li>
+								
+								<li><a href="/page/1522-power-of-observation.cfm">The Power of Observation</a>
+								
+									</li>
+								
+								<li><a href="/page/21911-observation-dvd-workbook.cfm">Observation: The Key to Responsive Teaching</a>
+								
+									</li>
+								
+								<li><a href="/page/7753_PSCaringFor.cfm">Caring for Preschool Children</a>
+								
+									</li>
+								
+								<li><a href="/page/7494_ITCaringFor.cfm">Caring for Infants &amp; Toddlers</a>
+								
+									</li>
+								
+								<li><a href="/page/0078A_FCCaringForVol1.cfm">Caring for Children in Family Child Care</a>
+								
+									</li>
+								
+								<li><a href="/page/0088_BuildPrimaryClassroom.cfm">Building the Primary Classroom</a>
+								
+									</li>
+								
+								<li><a href="/page/9216-one-child-two-languages.cfm">One Child, Two Languages</a>
+								
+									</li>
+								
+								<li><a href="/page/70170-getting-it-right-for-young-children.cfm">Getting It Right for Young Children from Diverse Backgrounds</a>
+								
+									</li>
+								
+								<li><a href="/page/90874-many-languages-one-classroom.cfm">Many Languages, One Classroom</a>
+								
+									</li></ul></li>
+								
+									</ul><ul>
+									
+								<li><a href="/page/PD-Subhead-Video.cfm"><span>Video</span></a>
+								
+									<ul>
+								
+								<li><a href="/page/70236-bigger-than-books-video.cfm">Bigger Than Books</a>
+								
+									</li>
+								
+								<li><a href="/page/1362_CelebratingLiteracyforInfantsDVD.cfm">Celebrating Language and Literacy</a>
+								
+									</li>
+								
+								<li><a href="/page/1508_creative-curriclum-video.cfm">The Creative Curriculum for Preschool in Action</a>
+								
+									</li>
+								
+								<li><a href="/page/70144-first-steps-literacy-video.cfm">First Steps</a>
+								
+									</li>
+								
+								<li><a href="/page/70182-hand-in-hand-video.cfm">Hand in Hand</a>
+								
+									</li>
+								
+								<li><a href="/page/70250-play-power-video.cfm">Play Power</a>
+								
+									</li>
+								
+								<li><a href="/page/70281-power-positive-communication.cfm">The Power of Positive Communication</a>
+								
+									</li>
+								
+								<li><a href="/page/70090-preventing-discipline-problems-video.cfm">Preventing Discipline Problems</a>
+								
+									</li>
+								
+								<li><a href="/page/70052-reframing-discipline-video.cfm">Reframing Discipline</a>
+								
+									</li>
+								
+								<li><a href="/page/780X_RoomArrangementDVD.cfm">Room Arrangement as a Teaching Strategy</a>
+								
+									</li>
+								
+								<li><a href="/page/7106-starting-points-video.cfm">Starting Points</a>
+								
+									</li>
+								
+								<li><a href="/page/70243-super-groups-video.cfm">Super Groups</a>
+								
+									</li>
+								
+								<li><a href="/page/70229-trainervision-video.cfm">TrainerVision Video Clip Library</a>
+								
+									</li></ul></li>
+								
+								<li><a href="/page/eCDA-online-credential-prep-program.cfm"><span>eCDA: CDA Preparation</span></a>
+								
+							</li>
+						</ul>
+					</div>
+				</div>
+			
+			</li>
+		
+					<li id="family-connection">
+						<a href="/page/FamilyConnection.cfm">Family Connection</a>
+				
+				<div class="sub-menu">
+					<div class="sub-menu-border clearfix">
+						<ul>
+							
+								<li><a href="/page/FamilyConnection.cfm"><span>Overview</span></a>
+								
+									</li>
+								
+								<li><a href="/page/FC-Subhead-Parent-Guides.cfm"><span>Parent Guides</span></a>
+								
+									<ul>
+								
+								<li><a href="/page/0003_BuildBabysBrain.cfm">Building Your Baby's Brain</a>
+								
+									</li>
+								
+								<li><a href="/page/75033-helping-child-learn-2-languages.cfm">Helping Your Child Learn Two Languages</a>
+								
+									</li>
+								
+								<li><a href="/page/7989-math-right-from-the-start.cfm">Math Right From the Start</a>
+								
+									</li>
+								
+								<li><a href="/page/1386-program-infants-toddlers.cfm">Our Program for Infants, Toddlers &amp; Twos</a>
+								
+									</li>
+								
+								<li><a href="/page/0170-parents-guide-preschool.cfm">A Parent's Guide to Preschool</a>
+								
+									</li>
+								
+								<li><a href="/page/73930-physical-activity-english.cfm">Physical Activity Right From the Start</a>
+								
+									</li>
+								
+								<li><a href="/page/0045-reading-from-start.cfm">Reading Right From the Start</a>
+								
+									</li>
+								
+								<li><a href="/page/1389_ParentNeedsToKnowGrades1to3.cfm">What Every Parent Needs to Know About 1st, 2nd &amp; 3rd Grades</a>
+								
+									</li></ul></li>
+								
+									</ul><ul>
+									
+								<li><a href="/page/1690-LearningGames-0-60-set.cfm"><span>LearningGames</span></a>
+								
+									</li>
+								
+								<li><a href="/page/creative-curriculum-learninggames-guides.cfm"><span>LearningGames Guides</span></a>
+								
+									</li>
+								
+								<li><a href="/page/73183-objectives-miniposter.cfm"><span>Objectives for Development &amp; Learning Miniposter</span></a>
+								
+									</li>
+								
+								<li><a href="/page/70113-kindergarten-video.cfm"><span>Kindergarten, Here I Come! DVD</span></a>
+								
+									</li>
+								
+								<li><a href="/page/ACQUIREc-Therapy.cfm"><span>ACQUIREc Therapy</span></a>
+								
+							</li>
+						</ul>
+					</div>
+				</div>
+			
+			</li>
+		
+	</ul>
 	
+	<ul class="cart">
+		<li id="contact-rep">
+			<a href="https://www.teachingstrategies.com/form-rep-contact.cfm" class="rep-btn">Contact Your Rep</a>
+		</li>
+		<li id="bookshop-search">
+			<a href="/bookshop/index.cfm">Bookshop Search</a>
+		</li>
+		<li id="nav-cart">
+			<a href="/bookshop/cart.cfm" class="cart-btn" id="cartButton" name="cartButton">Cart <span id="CartCount">(0 items)</span></a>
+		</li>
+	</ul>
+
+	
+	
+</div>
+
+		</div>
+		
+		<div class="breadcrumbs">
+			<p>
+			<a href="http://www.teachingstrategies.com/page/Terms-of-Use.cfm">Customer Solutions</a> &gt; <a class="active" href="http://www.teachingstrategies.com/page/privacyPolicy.cfm">Security and Privacy</a> 
+			</p>
+		</div>
+		<ul class="page-nav">
+			<li class="email-updates">
+				<a href="http://teachingstrategies.us1.list-manage1.com/subscribe?u=d25e5e4fa9380308b498189ba&amp;id=320dea868f" target="_new" onclick="recordOutboundLink(this, 'Outbound Links', 'teachingstrategies.us1.list-manage1.com');return false;">E-mail Updates</a>
+			</li>
+		</ul>
+	
+		<div class="content-box clearfix">
+
+		<h2 class="section-head"></h2>
+		<h1 class="page-head">Security and Privacy Policies</h1>
+	<div class="sidebar "> 
+
+		<ul class="sidenav">
+		
+					<li level="1"><a href="/page/Terms-of-Use.cfm">Terms of Use</a></li>
+				
+
+					<li level="1" class="active "><a href="/page/privacyPolicy.cfm">Security and Privacy</a>
+					
+					</li>
+				
+					<li level="1"><a href="/page/service.cfm">Information About Your Order</a></li>
+				
+					<li level="1"><a href="/page/purchaseorder.cfm">How To Pay With a Purchase Order</a></li>
+				
+					<li level="1"><a href="/page/catalog-request.cfm">Catalog</a></li>
+				
+					<li level="1"><a href="/page/permissionToReprint.cfm">Permission to Reprint</a></li>
+				
+					<li level="1"><a href="/page/collegeInstructors.cfm">Information for Colleges and Universities</a></li>
+				
+					<li level="1" class="last"><a href="/page/CR_ENewsDiscGroup.cfm">Online Community and E-mail Updates</a></li>
+				
+		</ul>
+		
+		<script>
+		$(document).ready(function() {
+			$('.sidenav li:last').addClass("last");
+		});
+		</script>
+		
+	
+<p>&nbsp;</p><p>
 
 
-	<p>&nbsp;</p><p>
+
 
 	</p></div>
 
@@ -307,36 +621,11 @@ else if(document.all)
 </script>
 
 
-		<div id="content">
 		
-	<div class="holder">
-	
-		<ul class="page-nav">
-		<li class="emailUpdates"><a href="http://teachingstrategies.us1.list-manage1.com/subscribe?u=d25e5e4fa9380308b498189ba&amp;id=320dea868f" target="_new">Free E-mail Updates</a></li>
+		<div class="content page-content">
 		
-			<li class="bookmark"><a href="javascript:bookmarksite('Teaching Strategies, Inc.- Security and Privacy Policies', 'http://www.teachingstrategies.com/page/privacyPolicy.cfm')">Bookmark</a></li>
-		
-			<li class="print"><a name="Print" href="http://www.teachingstrategies.com/page/privacyPolicy.cfm?PF=1">Print</a></li>
-		
-			<li class="email"><a onclick="popIt()" target="emailpage" href="http://www.teachingstrategies.com/emailPage.cfm?link=http%3A%2F%2Fwww%2Eteachingstrategies%2Ecom%2Fpage%2FprivacyPolicy%2Ecfm">E-mail to a friend</a></li>
-		
-		</ul>
-		
-		
-		<ul class="breadcrumbs">
-	
-		<li><a href="http://www.teachingstrategies.com/page/Terms-of-Use.cfm">Customer Solutions</a></li>
-		
-		</ul>
-	</div>
-
-			<div class="heading-holder">
-			
-			   <h1 style="color:#ff6600; line-height: 30px; padding-bottom: 10px;">Security and Privacy Policies</h1>
-			
-			</div>
-			<div class="content-inner" style="border-width: 0; border-bottom: 1px solid #7F7F7F; margin: 10px 17px 0 0; padding: 0 98px 9px 0;">
-			<p align="left"><span style="font-size:10px"><font size="1"><span style="color:#666666;"><font color="#666666">Inside this page:</font></span>&nbsp;</font></span><a href="#Our_Security_Policy"><span style="font-size:10px"><font size="1">Security</font></span></a><a href="#Our_Security_Policy"><span style="font-size:10px"><font size="1">&nbsp;Policy</font></span></a><span style="font-size:10px"><font size="1"> | </font></span><a href="#Our_Privacy_Policy" target=""><span style="font-size:10px"><font size="1">Privacy Policy</font></span></a> 
+				<div id="cms">
+				<p align="left"><span style="font-size:10px"><font size="1"><span style="color:#666666;"><font color="#666666">Inside this page:</font></span>&nbsp;</font></span><a href="#Our_Security_Policy"><span style="font-size:10px"><font size="1">Security</font></span></a><a href="#Our_Security_Policy"><span style="font-size:10px"><font size="1">&nbsp;Policy</font></span></a><span style="font-size:10px"><font size="1"> | </font></span><a href="#Our_Privacy_Policy" target=""><span style="font-size:10px"><font size="1">Privacy Policy</font></span></a> 
 </p><p align="left">
 </p><table border="0" cellspacing="0" cellpadding="5" align="center">
 <tbody></tbody></table>
@@ -345,7 +634,7 @@ else if(document.all)
 
 <p>The Teaching Strategies online bookshop runs on a secure server, which means that orders placed with most Web browsers will be encrypted.&nbsp; We use Secure Sockets Layer (SSL), which is an industry-standard security protocol encryption technology and an encryption feature included in most modern Internet browsers. SSL encrypts your credit card number as it travels over the Internet.&nbsp; </p>
 
-<p>We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect yourself against unauthorized access to your password or to your computer. Be sure to LOG OFF when you are finished using the Teaching Strategies Web site, especially if you are using a shared computer. Store your password in a secure location and never share it with others. This is particularly important if your company uses the "bill later" credit account feature, which authorizes us to invoice your company when an order is placed.</p>
+<p>We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect yourself against unauthorized access to your password or to your computer. Be sure to&nbsp;SIGN&nbsp;OUT when you are finished using the Teaching Strategies Web site, especially if you are using a shared computer. Store your password in a secure location and never share it with others. This is particularly important if your company uses the "bill later" credit account feature, which authorizes us to invoice your company when an order is placed.</p>
 
 <p>Whenever your credit card information is requested or displayed, you'll notice that our Internet URL address begins with "https" (instead of "http") and an unbroken <img src="http://www.genelevine.com/images/lock.jpg"> icon appears in your status bar. This "s" in the address means that the site is being accessed over a secure connection and that encryption is being performed using SSL. Since Teaching Strategies has a valid SSL certificate, you can have confidence that you are sending information to the right place and know you are doing business at a secure site. After you have submitted an online bookshop order, you will receive an e-mail confirmation and order summary. The order summary will contain the last four digits of your credit card number, your name and "Bill To" mailing address (including your phone number), and your e-mail address. The order summary will also contain the "Primary Contact" name, e-mail address, and phone number.</p>
 
@@ -357,18 +646,21 @@ Teaching Strategies knows that you care how information about you is used and sh
 
 <p><strong>What Personal Information About Customers Does Teaching Strategies Gather?</strong></p>
 
-<ul>
-<li><strong>Account Information:</strong> We receive and store the contact information you give us if you set up an account (sometimes referred to as "become a member" or "join our community."). For your protection, if you make a purchase on our Web site using a credit card, we store only the last four digits of your credit card number and the credit card's expiration month and year. We use the information that you provide (excluding your credit card information) for such purposes as responding to your requests, customizing training for you, improving our services, and communicating with you about our products and services. 
-</li><li><strong>Order or Registration Information:</strong> In the process of making a purchase through our bookshop or registering for a conference online, you will be asked to provide contact and billing information. If you opt not to create an account with Teaching Strategies, this information will only be used to process your order or registration. 
-</li><li><strong>Automatic Information:</strong> We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses the Teaching Strategies Web site. We do not use it to send "pop-up" advertising, and we do not sell the information to other companies.</li></ul>
+<p><strong>Account Information:</strong> We receive and store the contact information you give us if you set up an account (sometimes referred to as "become a member" or "join our community."). For your protection, if you make a purchase on our Web site using a credit card, we store only the last four digits of your credit card number and the credit card's expiration month and year. We use the information that you provide (excluding your credit card information) for such purposes as responding to your requests, customizing training for you, improving our services, and communicating with you about our products and services. </p>
 
-<blockquote style="MARGIN-RIGHT: 0px" dir="ltr">
-<p>Examples of the information we collect include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; purchase history; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time; and cookie number.</p>
-</blockquote>
-<ul>
-<li><strong>E-Mail Communications:</strong> If you place an order with us, we will use your e-mail address to communicate with you regarding your order and to send you, from time to time, e-mails about Teaching Strategies' products, services, and events. We will not send you our e-mail newsletter or postings from our e-mail discussion list unless you subscribe to these services. When you subscribe to these lists, you are giving us permission to communicate with you. If you sign up for the e-mail discussion list, you are also providing permission for others in the discussion group to send you e-mails.&nbsp; </li></ul>
+<p><strong>Order or Registration Information:</strong> In the process of making a purchase through our bookshop or registering for a conference online, you will be asked to provide contact and billing information. If you opt not to create an account with Teaching Strategies, this information will only be used to process your order or registration. </p>
 
-<p>It's easy to unsubscribe from our newsletter and e-mail list, and each e-mail you get from either our newsletter or e-mail list will contain information about how to unsubscribe. If you ever have trouble unsubscribing, please complete our online <a href="http://www.teachingstrategies.com/bookshop/CustomerInquiry.cfm" target="_blank">Customer Solutions Inquiry Form</a> and a Customer Solutions Specialist will remove your name from the list.</p>
+<p><strong>Automatic Information:</strong> We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses the Teaching Strategies Web site. We do not use it to send "pop-up" advertising, and we do not sell the information to other companies.</p>
+
+<p style="MARGIN-RIGHT: 0px" dir="ltr">Examples of the information we collect include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; purchase history; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time; and cookie number.</p>
+
+<p><strong>E-Mail Communications:</strong> If you place an order with us, we will use your e-mail address to communicate with you regarding your order. If you are a <em>Teaching Strategies GOLD</em><span style="font-size:10px"><font size="1"><sup>®</sup></font></span> online user, we may also send you monthly e-mails with information about GOLD and related resources. We will not send you our other marketing e-mails, about Teaching Strategies products and services, unless you subscribe to them. When you subscribe to our marketing e-mails, you are giving us permission to communicate with you.</p>
+
+<p style="MARGIN-RIGHT: 0px" dir="ltr">It's easy to unsubscribe from our marketing e-mails and the e-mails sent to <em>Teaching Strategies GOLD</em> online users. Each e-mail you receive will contain a link through which you can quickly and easily unsubscribe. </p>
+
+<p style="MARGIN-RIGHT: 0px" dir="ltr">If you are a member of the Teaching Strategies Community, you may choose to subscribe to e-mail alerts, on a per-discussion basis. In this case, we will send you an e-mail when a new comment is posted to a discussion you’ve subscribed to. You can unsubscribe to these e-mail alerts on the “Manage E-mail Subscriptions” page that’s accessed via the “My E-mail Alerts” link when you are signed into the Community. </p>
+
+<p style="MARGIN-RIGHT: 0px" dir="ltr">If you have any questions regarding e-mail communications, please contact us at&nbsp; <script language="JavaScript">document.write(String.fromCharCode(60,65,32,104,114,101,102,61,34,109,97,105,108,116,111,58,119,101,98,109,97,115,116,101,114,64,116,101,97,99,104,105,110,103,115,116,114,97,116,101,103,105,101,115,46,99,111,109,34,62,119,101,98,109,97,115,116,101,114,64,116,101,97,99,104,105,110,103,115,116,114,97,116,101,103,105,101,115,46,99,111,109,60,47,65,62))</script><a href="mailto:webmaster@teachingstrategies.com">webmaster@teachingstrategies.com</a>. &nbsp; </p>
 
 <p><strong>What About Cookies?</strong></p>
 
@@ -411,37 +703,60 @@ Teaching Strategies knows that you care how information about you is used and sh
 
 <p><a href="#top"><span style="font-size:10px"><font size="1">back to top</font></span></a></p>
 
-			</div>
-		
+				</div>
+			
+		</div>
+	
+
+<script type="text/javascript">
+  function recordOutboundLink(link, category, action) {
+    _gat._getTrackerByName()._trackEvent(category, action);
+    setTimeout("window.open('" + link.href + "')", 100);
+   }
+</script>
+
+
 	</div>
+		<div class="footer clearfix">
+			<ul>
+<li><a onclick="recordOutboundLink(this, 'Outbound Links', 'teachingstrategies.us1.list-manage1.com');return false;" href="http://teachingstrategies.us1.list-manage1.com/subscribe?u=d25e5e4fa9380308b498189ba&amp;id=320dea868f" target="_blank">E-mail Updates</a> 
+</li><li><a href="/page/about.cfm">About Us</a> 
+</li><li><a href="/page/AU_Careers.cfm">Careers</a>&nbsp;</li></ul>
 
-</div>
+<ul>
+<li><a href="/page/calendar.cfm">Calendar</a> 
+</li><li><a href="/page/73756-creative-curriculum-system-preschool.cfm">The Creative Curriculum for Preschool</a></li></ul>
 
+<ul>
+<li><a href="/page/service.cfm">Customer Solutions</a> 
+</li><li><a href="/page/AU_PressRoom.cfm">Press Room</a> 
+</li><li><a href="/page/collegeInstructors.cfm">Colleges and Universities</a></li></ul>
 
-	<div id="footer">
-		<div class="btm-area">
-			
-				<ul>
-					<li><a href="/page/about.cfm">About Us</a></li>
-					<li><a href="/page/AU_Careers.cfm">Careers</a></li>
-					<li><a href="/page/calendar.cfm">Calendar</a></li>
-					<li><a href="/page/service.cfm">Customer Solutions</a></li>
-					<li><a href="/training/login.cfm">TSI Training Net</a></li>
-					<li><a href="/page/EV_WebinarArchives.cfm ">Webinar Archives</a></li>
-					<li><a href="/page/privacyPolicy.cfm">Privacy Policy</a></li>
-					<li><a href="/page/contactUs.cfm">Contact Us</a></li>
-					<li><a href="/page/Terms-of-Use.cfm">Terms of Use</a></li>
-					<li>1.800.637.3652</li>
-				</ul>
-			
-			<p>Copyright © 2002-2011, Teaching Strategies, Inc. Teaching Strategies and <em>The Creative Curriculum</em> are registered trademarks of Teaching Strategies, Inc.</p>
-			<p>Copyright © 2002-2011, <i>LearningGames</i> is a registered trademark of MindNurture, Inc.</p>
+<ul>
+<li><a href="/training/login.cfm">TSI Training.Net</a> 
+</li><li><a href="/page/contactUs.cfm">Contact Us</a> 
+</li><li><a href="/page/permissionToReprint.cfm">Permissions</a></li></ul>
+
+<ul>
+<li><a href="/page/solutions-for-head-start.cfm">Head Start Solutions</a> 
+</li><li><a href="/page/EV_WebinarArchives.cfm">Webinar Archives</a> 
+</li><li><a href="/page/70236-bigger-than-books-video.cfm">Video Training</a></li></ul>
+
+<ul>
+<li>800.637.3652 
+</li><li><a href="/page/privacyPolicy.cfm">Privacy Policy</a> 
+</li><li><a href="/page/Terms-of-Use.cfm">Terms of Use</a></li></ul>
+
+		</div>
+		<div class="ffooter clearfix">
+			<p>Copyright © 2002-2013, Teaching Strategies, LLC Teaching Strategies and <em>The Creative Curriculum</em> are registered trademarks of Teaching Strategies, LLC</p>
+					<p>Copyright © 2002-2013, <i>LearningGames</i> is a registered trademark of MindNurture, LLC</p>
 		</div>
 	</div>
 	
-</div>
-
-
+	<div style="display: none;">
+		<a href="/bookshop/CartItems.cfm" class="showCart" id="showCartLink" onclick="updateCart();"></a>
+	</div>
 
 	<script type="text/javascript">
 	  var _gaq = _gaq || [];
@@ -453,8 +768,8 @@ Teaching Strategies knows that you care how information about you is used and sh
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
 	</script>
-	<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/24/eum/rum-staging.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","50088871b2",314507,"MVABNUMCWEoEUUQMCwgaMARDFVpcER1zAwk1UBEXXQZC",0,28,new Date().getTime()])</script> 
+	
 
 
 
-</div><script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/24/eum/rum-staging.js"></script></body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
