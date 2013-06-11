@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbhelp.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216034353id_/http%3A//pbhelp.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbhelp.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612011143id_/http%3A//pbhelp.com/privacy_policy.html) for the most accurate reproduction.*
 
 # PBHelp Link Directory - Privacy Policy
 
