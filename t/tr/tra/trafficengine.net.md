@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the trafficengine.net privacy policy that was archived on 2012-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120712003046id_/http%3A//www.trafficengine.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficengine.net privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612004437id_/http%3A//www.trafficengine.net/privacy_policy.php) for the most accurate reproduction.*
 
-# Provacy Policy | Traffic Engine - Powering SMarT Advertising - Search Engine Marketing Technology
-
-### Privacy information
+# Privacy Policy | Traffic Engine - Search Engine Marketing Technology
 
 Traffic Engine, Inc.(TE) is committed to protecting your privacy. This Privacy Policy explains the type of information TE collects through its website and what TE does with it. Please read the following privacy policy carefully before using the TE website. If you use the TE website, you will be bound by the terms of this Privacy Policy. This policy may change from time to time so you should check it frequently. TE does not attempt to determine the identity of any TE user by analyzing Web usage paths. 
 
@@ -67,3 +65,5 @@ You acknowledge and agree that TE is not responsible for any content, advertisin
 TE does not collect any personally identifiable information or try to aggregate the different data we might have to identify an individual, you don't have to worry about changing the information that we gathered on your usage of our website. If you have more questions regarding the information that we collect or the way that we use it, do not hesitate to contact us.
 
 Traffic Engine Management Team
+
+| 
