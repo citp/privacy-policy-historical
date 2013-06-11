@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globaltrade.net privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210175411id_/http%3A//www.globaltrade.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaltrade.net privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611085556id_/http%3A//www.globaltrade.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GlobalTrade.net
 
@@ -6,7 +6,7 @@
 
 **This web site is owned by GlobalTrade.net SAS  
 Our postal address is:  
-1 Rue de Stockholm, Paris 75008, France **
+240 rue de Rivoli 75001 Paris, France **
 
 We can be reached via e-mail [info@globaltrade.net](mailto:info@globaltrade.net)
 
