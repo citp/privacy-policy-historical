@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbproads.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221200616id_/http%3A//cbproads.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbproads.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/privacy.asp) for the most accurate reproduction.*
 
 # Privac Policy of Clickbank Pro Ads.com (CbProAds.com)
 
@@ -8,69 +8,70 @@
 
 Clickbank Ad Rotator
 
-](https://web.archive.org/web/20121221200616id_/http%3A//cbproads.com/clickbank_product_ads.asp)** | **[ ****
+](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbank_product_ads.asp "Clickbank Product Ads")** | **[ ****
 
 **Clickbank Storefronts  
 (Affiliate)**
 
-](https://web.archive.org/web/20121221200616id_/http%3A//cbproads.com/clickbankstorefront_demo.asp)** | **[ ](https://web.archive.org/web/20121221200616id_/http%3A//cbproads.com/clickbank_niche_storefronts.asp)**[
+](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbankstorefront_demo.asp "Clickbank Storefront Mall")** | **[ ](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbank_niche_storefronts.asp "Clickbank Niche Storefronts")**[
 
 **Clickbank Niche Storefronts  
 (Affiliate)**
 
-](https://web.archive.org/web/20121221200616id_/http%3A//cbproads.com/clickbank_niche_storefronts.asp) | **[ ](https://web.archive.org/web/20121221200616id_/http%3A//cbproads.com/clickbank_storefront_wordpress_plugin.asp)**[
+](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbank_niche_storefronts.asp "Clickbank Niche Storefronts") | **[ ](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbank_storefront_wordpress_plugin.asp "Clickbank Wordpress plugin for storefront")**[
 
 **Clickbank Storefronts  
-(WP Plugin)**
+(WordPress based)**
 
-](https://web.archive.org/web/20121221200616id_/http%3A//cbproads.com/clickbank_storefront_wordpress_plugin.asp) | **[ ](https://web.archive.org/web/20121221200616id_/http%3A//cbproads.com/clickbank_niche_storefront_wordpress_plugin.asp)**[
-
-**Clickbank Niche Storefronts  
-(WP Plugin)**
-
-](https://web.archive.org/web/20121221200616id_/http%3A//cbproads.com/clickbank_niche_storefront_wordpress_plugin.asp) | **[ ](https://web.archive.org/web/20121221200616id_/http%3A//cbproads.com/clickbank_storefront_php_script.asp)**[
-
-**Clickbank Storefronts  
-(PHP Script)**
-
-](https://web.archive.org/web/20121221200616id_/http%3A//cbproads.com/clickbank_storefront_php_script.asp) | **[ ](https://web.archive.org/web/20121221200616id_/http%3A//cbproads.com/clickbank_niche_storefront_php_script.asp)**[
+](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbank_storefront_wordpress_plugin.asp "Clickbank Wordpress plugin for storefront") | **[ ](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbank_niche_storefront_wordpress_plugin.asp "Clickbank Wordpress plugin for niche storefront")**[
 
 **Clickbank Niche Storefronts  
-(PHP Script)**
+(WordPress based)**
 
-](https://web.archive.org/web/20121221200616id_/http%3A//cbproads.com/clickbank_niche_storefront_php_script.asp)  
----|---|---|---|---|---|---  
+](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbank_niche_storefront_wordpress_plugin.asp "Clickbank Wordpress plugin for niche storefront")  
+---|---|---|---|---  
   
 |   
 ---  
   
-24th Sep 2012   
-The much awaited **Wordpress plugin for clickbank niche storefronts** will be released on 26th Sep 2012. Now you can install the script on to your website and have full control rather than **Clickbank affiliate niche storefronts**. ********
+7th Apr 2013   
+An another attention grabbibg tool has been added (Sliding Boxes) which you can place on to your website/blog. [**Click here for a demo**](http://www.cbproads.com/banner_demo.asp) ********
 
 **
 
-25th Apr 2012   
-We have officially released the latest one to our collection of niche storefronts i.e [**top-keywordspytool-reviews.com**](http://top-keywordspytool-reviews.com/) ********
+4th Feb 2013   
+More improved dynamics have been to existing banner ads. And so it displays up to 7 ads in one block itself instead of previous one. Please check the demo at i.e [**CBProads.com/banner_demo.asp**](http://www.cbproads.com/banner_demo.asp) ********
+
+**
+
+25th Jan 2013   
+We have officially released the latest one to our collection of niche storefronts i.e [**Water For Fuel Conversion Guides**](http://waterforfuel-guides.com/?id=15750) ********
+
+**  
+**
+
+** 24th Sep 2012   
+The much awaited **Wordpress plugin for clickbank niche storefronts** will be released on 26th Sep 2012. Now you can install the script on to your website and have full control rather than **Clickbank affiliate niche storefronts**.** ****
 
 **  
 
 
 6th Sep 2011   
-Clickbank Niche Storefronts have been released. **[Click here](https://web.archive.org/web/20121221200616id_/http%3A//cbproads.com/clickbank_niche_storefronts.asp?id=)** for an online demo.
+Clickbank Niche Storefronts have been released. **[Click here](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbank_niche_storefronts.asp?id=)** for an online demo.
 
   
 
 
 16th Jan 2011   
-The Storefront Version 4.0 has been released. **[Click here](https://web.archive.org/web/20121221200616id_/http%3A//cbproads.com/clickbankstorefront/v4/sf.asp?id=)** for a online demo.
+The Storefront Version 4.0 has been released. **[Click here](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/clickbankstorefront/v4/sf.asp?id=)** for a online demo.
 
   
 
 
 18th Nov 2010   
-iPhone Widget Ads has been introduced to the ads section. **[Click here](https://web.archive.org/web/20121221200616id_/http%3A//cbproads.com/widgetads_demo.asp)** to see it live.
+iPhone Widget Ads has been introduced to the ads section. **[Click here](https://web.archive.org/web/20130611080927id_/http%3A//cbproads.com/widgets_demo.asp)** to see it live.
 
-****  
+******  
   
 |   
 ---  
@@ -100,4 +101,6 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 Policy Modifications   
 We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.   
    
- 
+   
+|  |  |   
+---|---|---
