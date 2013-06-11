@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yumgoggle.com privacy policy that was archived on 2012-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121119023648id_/http%3A//www.yumgoggle.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yumgoggle.com privacy policy that was archived on 2013-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130611182117id_/http%3A//www.yumgoggle.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US" class="no-js"><!--<![endif]--><head>
 
@@ -218,7 +218,7 @@ _gaq.push(['_trackSocial', 'LinkedIn', 'Share']);
 <link rel="stylesheet" id="um_plugin-framework-css" href="http://www.yumgoggle.com/wp-content/plugins/user-meta/assets/css/plugin-framework.css?ver=3.4.1" type="text/css" media="all">
 <link rel="stylesheet" id="um_user-meta-css" href="http://www.yumgoggle.com/wp-content/plugins/user-meta/assets/css/user-meta.css?ver=3.4.1" type="text/css" media="all">
 <link rel="stylesheet" id="pretty-photo-css-css" href="http://www.yumgoggle.com/wp-content/themes/echo/styles/pretty-photo.css?ver=3.4.1" type="text/css" media="all">
-<script type="text/javascript">ajaxurl='http://www.yumgoggle.com/wp-admin/admin-ajax.php';pf_nonce='745217f33f';</script><script type="text/javascript" src="http://www.yumgoggle.com/wp-includes/js/comment-reply.js?ver=3.4.1"></script>
+<script type="text/javascript">ajaxurl='http://www.yumgoggle.com/wp-admin/admin-ajax.php';pf_nonce='4ee922d1b8';</script><script type="text/javascript" src="http://www.yumgoggle.com/wp-includes/js/comment-reply.js?ver=3.4.1"></script>
 <script type="text/javascript" src="http://www.yumgoggle.com/wp-content/themes/echo/js/modernizr-1.7.min.js?ver=3.4.1"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js?ver=3.4.1"></script>
 <script type="text/javascript">
@@ -462,7 +462,7 @@ var user_meta = {"get_pro_link":"Get pro version from http:\/\/user-meta.com to 
 
 <div class="header">
 
-<div class="flourish"><a href="http://www.yumgoggle.com/gallery/"><img src="http://www.yumgoggle.com/wp-content/themes/echo/images/flourish.png" alt="" border="0" style="border:none;"></a></div>
+<div class="flourish"><a href="http://www.yumgoggle.com/"><img src="http://www.yumgoggle.com/wp-content/themes/echo/images/flourish.png" alt="" border="0" style="border:none;"></a></div>
 
 <div class="left">
 
@@ -616,7 +616,7 @@ var user_meta = {"get_pro_link":"Get pro version from http:\/\/user-meta.com to 
 
 			searchtext = jq('.input_box').val();				
 
-			window.location.href ='http://www.yumgoggle.com/gallery/?search-text='+searchtext;
+			window.location.href ='http://www.yumgoggle.com/?search-text='+searchtext;
 
 		}
 
@@ -2518,7 +2518,6 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
                  </li>
 		<li id="archives-2" class="widget widget_archive"><h3 class="widgettitle">Blog Archives </h3>		<ul>
 			<li><a href="http://www.yumgoggle.com/2012/10/" title="October 2012">October 2012</a></li>
-	<li><a href="http://www.yumgoggle.com/2012/08/" title="August 2012">August 2012</a></li>
 		</ul>
 </li>	</ul>
 </aside><!-- end of #sidebar -->
@@ -2536,28 +2535,56 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 				<!-- START .footer-widgets -->
 		<div class="footer-widgets container_12 group">
 								<ul class="grid_3">
-					<li id="categories-2" class="widget widget_categories"><h4 class="widgettitle">Categories</h4>		<ul>
-	<li class="cat-item cat-item-19"><a href="http://www.yumgoggle.com/category/news/" title="View all posts filed under news">news</a>
-</li>
-	<li class="cat-item cat-item-1"><a href="http://www.yumgoggle.com/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a>
-</li>
-		</ul>
+					<li id="categories-2" class="widget widget_categories"><h4 class="widgettitle">Categories</h4><select name="cat" id="cat" class="postform">
+	<option value="-1">Select Category</option>
+	<option class="level-0" value="1">Uncategorized</option>
+</select>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://www.yumgoggle.com/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/* ]]> */
+</script>
+
 </li>				</ul>
 								<ul class="grid_3">
-					<li id="flickr_photostream-widget-2" class="widget simple-flickr-photostream"><h4 class="widgettitle">Flickr Photostream</h4><ul><li class="picture-item item-1 first"><a href="http://www.flickr.com/photos/mariecinqmars/8188489235/" title="Santa Hat On a French Bulldog by mariecinqmars"><img src="http://farm9.staticflickr.com/8209/8188489235_f5c8a0fcbf_s.jpg" alt="Santa Hat On a French Bulldog by mariecinqmars"></a></li><li class="picture-item item-2"><a href="http://www.flickr.com/photos/mariecinqmars/8187780974/" title="New Condo by mariecinqmars"><img src="http://farm9.staticflickr.com/8067/8187780974_1b044a5bd6_s.jpg" alt="New Condo by mariecinqmars"></a></li><li class="picture-item item-3"><a href="http://www.flickr.com/photos/mariecinqmars/8186692787/" title="New Condo by mariecinqmars"><img src="http://farm9.staticflickr.com/8489/8186692787_690118f8b9_s.jpg" alt="New Condo by mariecinqmars"></a></li><li class="picture-item item-4"><a href="http://www.flickr.com/photos/mariecinqmars/8186692897/" title="New Condo by mariecinqmars"><img src="http://farm9.staticflickr.com/8200/8186692897_38eeac5758_s.jpg" alt="New Condo by mariecinqmars"></a></li><li class="picture-item item-5"><a href="http://www.flickr.com/photos/mariecinqmars/8187765232/" title="Playing around in the Yard. by mariecinqmars"><img src="http://farm9.staticflickr.com/8204/8187765232_2f347e4e0f_s.jpg" alt="Playing around in the Yard. by mariecinqmars"></a></li><li class="picture-item item-6"><a href="http://www.flickr.com/photos/mariecinqmars/8186683301/" title="Playing around in the Yard. by mariecinqmars"><img src="http://farm9.staticflickr.com/8489/8186683301_8a6c57f0b5_s.jpg" alt="Playing around in the Yard. by mariecinqmars"></a></li><li class="picture-item item-7"><a href="http://www.flickr.com/photos/mariecinqmars/8186683371/" title="Playing around in the Yard. by mariecinqmars"><img src="http://farm9.staticflickr.com/8206/8186683371_bbe66c5a13_s.jpg" alt="Playing around in the Yard. by mariecinqmars"></a></li><li class="picture-item item-8"><a href="http://www.flickr.com/photos/mariecinqmars/8186683451/" title="Playing around in the Yard. by mariecinqmars"><img src="http://farm9.staticflickr.com/8342/8186683451_2af81d18cb_s.jpg" alt="Playing around in the Yard. by mariecinqmars"></a></li><li class="picture-item item-9"><a href="http://www.flickr.com/photos/mariecinqmars/8186594645/" title="Toki Gifu by mariecinqmars"><img src="http://farm9.staticflickr.com/8483/8186594645_a27eda5faa_s.jpg" alt="Toki Gifu by mariecinqmars"></a></li><li class="picture-item item-10"><a href="http://www.flickr.com/photos/mariecinqmars/8177099158/" title="Modern White Christmas Tree with Gold and Champagne and Silver Colour Glass Ornaments by mariecinqmars"><img src="http://farm9.staticflickr.com/8337/8177099158_3769eb828e_s.jpg" alt="Modern White Christmas Tree with Gold and Champagne and Silver Colour Glass Ornaments by mariecinqmars"></a></li></ul></li>				</ul>
+					<li id="thumbloop_widget-3" class="widget thumbloop_widget"><h4 class="widgettitle">Latest Posts</h4>		
+				
+		<ul class="widget-loop" style="margin:0px; padding:0px;">
+		
+						
+			<li class="widget-post">
+		
+			<div class="widget-post-thumb">
+            <a href="http://www.yumgoggle.com/the-new-yumgoggle/">
+                        </a>
+            
+							</div>
+		
+						
+			</li>
+		
+						
+		</ul><!-- end widget-loop -->
+		
+		</li>				</ul>
 								<ul class="grid_3">
 					<li id="pages-4" class="widget widget_pages"><h4 class="widgettitle">Inside YGG</h4>		<ul>
 			<li class="page_item page-item-2525"><a href="http://www.yumgoggle.com/about/">about</a></li>
 <li class="page_item page-item-1425"><a href="http://www.yumgoggle.com/advertising/">advertising</a></li>
 <li class="page_item page-item-5307"><a href="http://www.yumgoggle.com/badges/">badges</a></li>
-<li class="page_item page-item-3848"><a href="http://www.yumgoggle.com/blogroll-3/">blogroll</a></li>
 <li class="page_item page-item-295"><a href="http://www.yumgoggle.com/contact-us/">contact us</a></li>
 <li class="page_item page-item-4381"><a href="http://www.yumgoggle.com/faqs/">faq’s</a></li>
 <li class="page_item page-item-4691"><a href="http://www.yumgoggle.com/favorite/">favorite</a></li>
 <li class="page_item page-item-4580"><a href="http://www.yumgoggle.com/favorites/">Favorites</a></li>
 <li class="page_item page-item-3978"><a href="http://www.yumgoggle.com/login/">Log In</a></li>
 <li class="page_item page-item-3961"><a href="http://www.yumgoggle.com/profile/">my profile</a></li>
-<li class="page_item page-item-3849"><a href="http://www.yumgoggle.com/team-members-3/">our team</a></li>
 <li class="page_item page-item-1879"><a href="http://www.yumgoggle.com/press/">press</a></li>
 <li class="page_item page-item-2309 current_page_item"><a href="http://www.yumgoggle.com/privacy-policy/">privacy policy</a></li>
 <li class="page_item page-item-3970"><a href="http://www.yumgoggle.com/registration/">registration</a></li>
@@ -2575,18 +2602,6 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 			<div class="widget-post-thumb">
             <a href="http://www.yumgoggle.com/the-new-yumgoggle/">
                         </a>
-            
-							</div>
-		
-						
-			</li>
-		
-						
-			<li class="widget-post">
-		
-			<div class="widget-post-thumb">
-            <a href="http://www.yumgoggle.com/yumgoggle-com-for-sale/">
-            <img width="150" height="150" src="http://www.yumgoggle.com/wp-content/uploads/2012/08/weddingcupcakes-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="weddingcupcakes" title="weddingcupcakes">            </a>
             
 							</div>
 		
