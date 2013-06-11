@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the danpatrick.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208101337id_/http%3A//www.danpatrick.com/terms-conditions-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danpatrick.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611202344id_/http%3A//www.danpatrick.com/terms-conditions-and-privacy-policy) for the most accurate reproduction.*
 
-# The Dan Patrick Show | Official Home | Terms, Conditions and Privacy Policy
+# Terms, Conditions and Privacy Policy » The Dan Patrick Show | Official Home
 
 ## Terms & Conditions and Privacy Policy
 
 Effective as of April 24, 2009, until replaced
 
-DIRECTV is dedicated to protecting consumer privacy. This Policy explains how DIRECTV collects, uses, and discloses information about you when you subscribe to our services and you visit our Web sites. Your use or receipt of DIRECTVÂ® products or services (including our Web sites) constitutes acceptance of this Policy.
+DIRECTV is dedicated to protecting consumer privacy. This Policy explains how DIRECTV collects, uses, and discloses information about you when you subscribe to our services and you visit our Web sites. Your use or receipt of DIRECTV?(R) products or services (including our Web sites) constitutes acceptance of this Policy.
 
 This Policy explains our practices in the following areas:
 
@@ -18,7 +18,7 @@ This Policy explains our practices in the following areas:
 
 4\. How you may obtain access to and correct any Personally Identifiable Information about yourself.
 
-5\. Your rights under the Communications Act, 47 U.S.C. Â§ 338(i). You may also purchase or use products or services provided by other companies that may be delivered through your DIRECTV Receiving Equipment. Please contact or visit the Web sites of the providers of those products or services to obtain copies of their privacy policies.
+5\. Your rights under the Communications Act, 47 U.S.C. ?? 338(i). You may also purchase or use products or services provided by other companies that may be delivered through your DIRECTV Receiving Equipment. Please contact or visit the Web sites of the providers of those products or services to obtain copies of their privacy policies.
 
 If you have questions about this Policy or other matters, you may contact us 24 hours a day, any day of the year, by phone (1-800-531-5000), email **([directv.com/email](http://directv.com/email))** or mail
 
@@ -33,7 +33,7 @@ In discussing the types of information we collect from subscribers and visitors 
 
 **A.** The following are specific types of Customer Information that we collect from customers and visitors to our Web sites:
 
-**“Account Information”** means information about your DIRECTV service account, including, but not limited to, your name, address, social security number, email address, telephone number, what programming packages you subscribe to, consumer credit reports, the model and serial number of your DIRECTVÂ® Receiver, and privacy preferences. Account Information does not include any Personally Identifiable Viewing Information or Anonymous Viewing Information, as defined below. We collect Account Information directly from you when you activate or change your service, as well as from third parties, such as consumer reporting agencies. We may combine information we obtain from third parties with Account Information we collect.
+**“Account Information”** means information about your DIRECTV service account, including, but not limited to, your name, address, social security number, email address, telephone number, what programming packages you subscribe to, consumer credit reports, the model and serial number of your DIRECTV?(R) Receiver, and privacy preferences. Account Information does not include any Personally Identifiable Viewing Information or Anonymous Viewing Information, as defined below. We collect Account Information directly from you when you activate or change your service, as well as from third parties, such as consumer reporting agencies. We may combine information we obtain from third parties with Account Information we collect.
 
 **“Service Information”** means information necessary for us to provide service to your DIRECTV Receiver. Examples of Service Information include your receivers software version number and the success status of the last attempted service call by your receiver.
 
@@ -57,7 +57,7 @@ In discussing the types of information we collect from subscribers and visitors 
 
 **II. Use of Customer Information**
 
-We use Customer Information to deliver our service to our customers and to understand what our customers want so we can continue to provide a compelling entertainment service at a good value. Specifically, we use Customer Information for editorial, feedback, marketing and promotion purposes, for statistical analysis, for product development and content improvement, to verify customer qualifications to receive our service, to bill for our service and for other related business purposes. Expressly allowing us to collect your Personally Identifiable Viewing Information may help us provide you with a compelling entertainment service. It may help us recommend viewing choices, personalize your viewing experience and select advertisements or other promotions for you that you may be interested in. Also, we may use this information for surveys, audience measurement, and other legitimate business purposes. If you have DIRECTV DVR service, your DIRECTVÂ® DVR may use your viewing information to recommend programs for you.
+We use Customer Information to deliver our service to our customers and to understand what our customers want so we can continue to provide a compelling entertainment service at a good value. Specifically, we use Customer Information for editorial, feedback, marketing and promotion purposes, for statistical analysis, for product development and content improvement, to verify customer qualifications to receive our service, to bill for our service and for other related business purposes. Expressly allowing us to collect your Personally Identifiable Viewing Information may help us provide you with a compelling entertainment service. It may help us recommend viewing choices, personalize your viewing experience and select advertisements or other promotions for you that you may be interested in. Also, we may use this information for surveys, audience measurement, and other legitimate business purposes. If you have DIRECTV DVR service, your DIRECTV?(R) DVR may use your viewing information to recommend programs for you.
 
 As noted above, we do not collect your Personally Identifiable Viewing Information without your consent. Absent your consent, no “tag” is added to the anonymous viewing file transmitted from a DIRECTV Receiver to us that would enable us to identify the DIRECTV Receiver from which it came.
 
@@ -103,13 +103,13 @@ We protect the security of credit card transactions on the Internet by using a s
 
 **IX. Your access to information and rights under the Communications Act**
 
-You may obtain access to information we collect about you and correct any errors in such information by contacting us anytime by phone (1-800-531-5000), email **([directv.com/email)](http://directv.com/email)** or mail (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550). The Communications Act, 47 U.S.C. Â§ 338(i), governs our practices concerning the collection and disclosure of personally identifiable information about you. If you believe we have violated the provisions of the Communications Act, you may bring an action for damages, reasonable attorneysfees, and costs. The DIRECTV Customer Agreement contains our agreement that claims such as these will be resolved by binding arbitration. You received a copy of the Customer Agreement in your first bill. It is also available at [directv.com](http://directv.com/).
+You may obtain access to information we collect about you and correct any errors in such information by contacting us anytime by phone (1-800-531-5000), email **([directv.com/email)](http://directv.com/email)** or mail (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550). The Communications Act, 47 U.S.C. ?? 338(i), governs our practices concerning the collection and disclosure of personally identifiable information about you. If you believe we have violated the provisions of the Communications Act, you may bring an action for damages, reasonable attorneysfees, and costs. The DIRECTV Customer Agreement contains our agreement that claims such as these will be resolved by binding arbitration. You received a copy of the Customer Agreement in your first bill. It is also available at [directv.com](http://directv.com/).
 
 **X. Changes to this Privacy Policy**
 
 We reserve the right to change this Privacy Policy at any time. If we make a significant change with regard to our collection or use of information about our customers, we will note on the main page of our Web sites that this Policy has been updated and may take additional reasonable steps to notify you about the new or revised Policy. In most cases, we will attempt to notify you in some form 30 days before the effective date of the change. To comment on or ask about this Policy, call (1-800-531-5000), email **([directv.com/email](http://directv.com/email))** or mail us (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550).
 
-Â©2009 DIRECTV, Inc. DIRECTV and the Cyclone Design logo are registered trademarks of DIRECTV, Inc. 02/09 27302-5 **0409IPRPOLE916**
+?(C)2009 DIRECTV, Inc. DIRECTV and the Cyclone Design logo are registered trademarks of DIRECTV, Inc. 02/09 27302-5 **0409IPRPOLE916**
 
 DIRECTV, Inc. (“DIRECTV”) maintains this site (“the Site”) for your personal entertainment, information, education, and communication. Please feel free to browse the Site. You may download material displayed on the Site for non-commercial, personal use only, provided that you also retain all copyright and other proprietary notices contained on the materials. You may not, however, distribute, modify, transmit, reuse, re-post, or use the content of the Site for public or commercial purposes, including the text, images, audio and video without the permission of DIRECTV.
 
@@ -145,7 +145,7 @@ Programming, pricing, terms and conditions subject to change. Taxes not included
 
 If you believe that any material contained in this Site infringes your copyright, you should notify DIRECTV of your copyright infringement claim in accordance with the following procedure.
 
-DIRECTV will process notices of alleged infringement which it received and will take appropriate action as required by the Digital Millennium Copyright Act (DMCA) and other applicable intellectual property laws. The DMCA requires that notifications of claimed copyright infringement should be sent to this Siteâ€™s Designated Agent, who is:
+DIRECTV will process notices of alleged infringement which it received and will take appropriate action as required by the Digital Millennium Copyright Act (DMCA) and other applicable intellectual property laws. The DMCA requires that notifications of claimed copyright infringement should be sent to this Site?EUR(TM)s Designated Agent, who is:
 
 **Christopher A. Murphy  
 DIRECTV, Inc.  
@@ -155,21 +155,10 @@ Telephone: (310) 964-DMCA (3622)
 Fax: (310) 964-3180  
 Email: **[dmca@directv.com](mailto:dmca@directv.com)
 
-To be effective, the notification must be in writing and contain the following information (DMCA, 17 U.S.C. Â§ 512(c)(3)):  
+To be effective, the notification must be in writing and contain the following information (DMCA, 17 U.S.C. ?? 512(c)(3)):  
 1\. Physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;  
 2\. Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;  
 3\. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material;  
 4\. Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted;  
 5\. A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law;  
 6\. A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
-
-  * [](http://twitter.com/intent/tweet?text=Terms%2C%20Conditions%20and%20Privacy%20Policy%20-%20http%3A%2F%2Fwww.danpatrick.com%2Fterms-conditions-and-privacy-policy%2F%20\(via%20@sociablesite\) "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.danpatrick.com%2Fterms-conditions-and-privacy-policy%2F&t=Terms%2C%20Conditions%20and%20Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Terms%2C%20Conditions%20and%20Privacy%20Policy&body=http%3A%2F%2Fwww.danpatrick.com%2Fterms-conditions-and-privacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.danpatrick.com%2Fterms-conditions-and-privacy-policy%2F&title=Terms%2C%20Conditions%20and%20Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.danpatrick.com%2Fterms-conditions-and-privacy-policy%2F&title=Terms%2C%20Conditions%20and%20Privacy%20Policy&notes=Terms%20%26amp%3B%20Conditions%20and%20Privacy%20Policy%0D%0A%0D%0AEffective%20as%20of%20April%2024%2C%202009%2C%20until%20replaced%0D%0A%0D%0ADIRECTV%20is%20dedicated%20to%20protecting%20consumer%20privacy.%20This%20Policy%20explains%20how%20DIRECTV%20collects%2C%20uses%2C%20and%20discloses%20information%20about%20you%20when%20you%20subscrib "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.danpatrick.com%2Fterms-conditions-and-privacy-policy%2F&title=Terms%2C%20Conditions%20and%20Privacy%20Policy&srcURL=http%3A%2F%2Fwww.danpatrick.com%2Fterms-conditions-and-privacy-policy%2F&srcTitle=The+Dan+Patrick+Show+%7C+Official+Home+The+official+home+of+the+Dan+Patrick+Show.+Interact+with+Dan+Patrick+and+the+Danettes+as+they+debate+sports+on+a+daily+television+and+radio+show.+Listen+to+Dan+interview+the+biggest+athletes+and+celebrities+in+the+world+and+cover+the+days+biggest+sports+stories. "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.danpatrick.com%2Fterms-conditions-and-privacy-policy%2F&title=Terms%2C%20Conditions%20and%20Privacy%20Policy&source=The+Dan+Patrick+Show+%7C+Official+Home+The+official+home+of+the+Dan+Patrick+Show.+Interact+with+Dan+Patrick+and+the+Danettes+as+they+debate+sports+on+a+daily+television+and+radio+show.+Listen+to+Dan+interview+the+biggest+athletes+and+celebrities+in+the+world+and+cover+the+days+biggest+sports+stories.&summary=Terms%20%26amp%3B%20Conditions%20and%20Privacy%20Policy%0D%0A%0D%0AEffective%20as%20of%20April%2024%2C%202009%2C%20until%20replaced%0D%0A%0D%0ADIRECTV%20is%20dedicated%20to%20protecting%20consumer%20privacy.%20This%20Policy%20explains%20how%20DIRECTV%20collects%2C%20uses%2C%20and%20discloses%20information%20about%20you%20when%20you%20subscrib "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.danpatrick.com%2Fterms-conditions-and-privacy-policy%2F&Title=Terms%2C%20Conditions%20and%20Privacy%20Policy "BlinkList")
-  * 
-
