@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dciads.ca privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224141322id_/http%3A//www.dciads.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dciads.ca privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611102759id_/http%3A//www.dciads.ca/privacy.php) for the most accurate reproduction.*
 
 # 
 
