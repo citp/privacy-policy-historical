@@ -1,79 +1,61 @@
-> *The following text is extracted and transformed from the bloginity.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229060609id_/http%3A//www.bloginity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloginity.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611041248id_/http%3A//www.bloginity.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms & Conditions
+# Privacy Policy
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+This Privacy Policy governs the manner in which Bloginity Networks, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.bloginity.net](http://www.bloginity.net/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Bloginity Networks, LLC.
 
-All of the content featured or displayed on Bloginity.com including without limitation text, graphics, photographs, images, moving images, sound, and illustrations (“Content”), is owned by Bloginity, its licensees, vendors, agents and/or its content providers. All elements of Bloginity, including without limitation the general design and the Content, are protected by trade dress, copyright, moral rights, trademark and other laws relating to intellectual property rights.
+Bloginity claims no credit for any images posted on this site unless otherwise noted. Images on this blog are copyright to its respectful owners. If there is an image appearing on this blog that belongs to you and you do not wish for it to appear on this site, please email [info@bloginity.com](mailto:info@bloginity.com) with a link to image and it will be promptly removed or credited.
 
-The Services and Bloginity.com may only be used for the intended purpose for which such web site and services are being made available. Except as may be otherwise indicated in specific documents within the web site, you are authorized to view, play, print and download documents, audio and video found on our web site for personal, informational, and noncommercial purposes only.
+**Personal identification information**
 
-You may not modify any of the materials and you may not copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer or sell any information or work contained on the Web Site. Except as authorized under the copyright laws, you are responsible for obtaining permission before reusing any copyrighted material that is available on the Web Site.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-For purposes of these Terms of Service, the use of any such material on any other web site or networked computer environment is prohibited. You shall comply with all applicable domestic and international laws, statutes, ordinances and regulations regarding your use of the Web Site and Services. The Web Site, its Content and all related rights shall remain the exclusive property of Bloginity or its licensees unless otherwise expressly agreed. You will not remove any copyright, trademark or other proprietary notices from material found on Bloginity.com.
+**Non-personal identification information**
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**What information do we collect?**
+**Web browser cookies**
 
-We collect information from you when you register on our site, subscribe to our newsletter or respond to a survey.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number. You may, however, visit our site anonymously.
+**How we use collected information**
 
-**What do we use your information for?**
+Bloginity Networks, LLC may collect and use Users personal information for the following purposes:
 
-Any of the information we collect from you may be used in one of the following ways:
+  * _To improve our Site_  
+We may use feedback you provide to improve our products and services.
 
-* To personalize your experience
 
-(your information helps us to better respond to your individual needs)
 
-* To improve our website
+**How we protect your information**
 
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-* To improve customer service
+**Sharing your personal information**
 
-(your information helps us to more effectively respond to your customer service requests and support needs)
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-* To send periodic emails
+**Third party websites**
 
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-**How do we protect your information?**
+**Advertising**
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+**Changes to this privacy policy**
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+Bloginity Networks, LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-**Do we use cookies?**
+**Your acceptance of these terms**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-We use cookies to understand and save your preferences for future visits and keep track of advertisements and .
+**Contacting us**
 
-**Do we disclose any information to outside parties?**
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+[Bloginity Networks, LLC](http://www.bloginity.net/)  
+[http://www.bloginity.net](http://www.bloginity.net/)  
+info@bloginity.com
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.bloginity.com
-
-**Your Consent**
-
-By using our site, you consent to our online privacy policy.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-http://www.bloginity.com  
-[Info@bloginity.com](mailto:info@bloginity.com)  
-+1 (415) 315-9946
+This document was last updated on December 12, 2012
