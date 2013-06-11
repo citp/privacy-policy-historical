@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spicylingerie.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010192133id_/http%3A//www.spicylingerie.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicylingerie.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611055908id_/http%3A//www.spicylingerie.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy,
 
@@ -28,8 +28,7 @@ HOW DO WE PROVE YOUR IDENTITY? Your identity is available through your Internet 
 
 HOW DO WE COLLECT? We may file liens on your property, bank account, and/or garnish your wages. This may also result in a report being filed with 3 major credit reporting agencies once our case is won.
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
-
+_This site is hosted by Yahoo! Store. Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!,[click here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html).   
 SpicyLingerie.com Privacy Policy :
 
 This privacy statement is created to show our commitment to your privacy.
@@ -55,3 +54,5 @@ WHAT HAPPENS WHEN YOU COMMIT CREDIT CARD FRAUD? You will be reported to the FBI 
 HOW DO WE PROVE YOUR IDENTITY? Your identity is available through your Internet Service Provider (including AOL and dynamic IP's).
 
 HOW DO WE COLLECT? We may file liens on your property, bank account, and/or garnish your wages. This may also result in a report being filed with 3 major credit reporting agencies once our case is won.
+
+_
