@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the knowledgeweighsnothing.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126020722id_/http%3A//www.knowledgeweighsnothing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgeweighsnothing.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611072422id_/http%3A//knowledgeweighsnothing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy/Disclosure | Knowledge Weighs Nothing
+# Privacy Policy/Disclosure |
 
 ## What is this Privacy Policy/Disclosure for?
 
@@ -57,7 +57,3 @@ This website and it’s owners through their social media platform accounts may 
 Users are advised to take caution and good judgement before clicking any shortened url’s published on social media platforms by this website and it’s owners. Despite the best efforts to ensure only genuine url’s are published many social media platforms are prone to spam and hacking and therefore this website and it’s owners cannot be held liable for any damages or implications caused by visiting any shortened links.
 
 _Policy created by James King at  [Jamie King Media](http://www.jamieking.co.uk/ "Privacy Policy by Jamie King Media")_
-
-**_Make sure you[‘Like‘ Knowledge Weighs Nothing on Facebook](http://www.facebook.com/Knowledgeweighsnothing) to be updated every time we post new articles, reviews and tutorials etc._**
-
- ** _***WE DONATE ALL PROFIT FROM ADVERTISING TO HELP SUPPORT MILITARY FAMILIES & THE VICTIMS OF US/GLOBAL DISASTERS*** [***SEE HOW YOU CAN HELP US, AT NO COST TO YOURSELF!***](http://www.knowledgeweighsnothing.com/about/)_**
