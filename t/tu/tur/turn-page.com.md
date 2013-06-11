@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the turn-page.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211061922id_/http%3A//www.turn-page.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turn-page.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611091649id_/http%3A//www.turn-page.com/privacy) for the most accurate reproduction.*
 
-# Privacy « Turn-Page Digital Publishing Software Solution
+# Privacy | Turn-Page Digital Publishing Software Solution
 
 ## Introduction
 
