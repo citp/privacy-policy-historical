@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealam.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111225435id_/http%3A//www.dealam.com/articles/privacy_policy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealam.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611025113id_/http%3A//www.dealam.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -63,7 +63,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
 
 **Childrens Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. You must be at least 18 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 13 years of age. If you are the parent or guardian of a child under 13 years of age and believe that they have disclosed personally identifiable information to us, please [contact us](http://www.dealam.com/contact.html) so that we may delete the child's information.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. You must be at least 18 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 13 years of age. If you are the parent or guardian of a child under 13 years of age and believe that they have disclosed personally identifiable information to us, please [contact us](http://www.dealam.com/index.php?m=pages&a=contactus) so that we may delete the child's information.
 
 **Disclaimer   **
 
@@ -75,17 +75,17 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](http://www.dealam.com/terms.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](http://www.dealam.com/terms-conditions.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your Consent**
 
-By using our site, you consent to our [privacy policy](http://www.dealam.com/privacy.html).
+By using our site, you consent to our [privacy policy](http://www.dealam.com/privacy-policy.html).
 
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-If you have any questions, please [contact us](http://www.dealam.com/contact.html).Welcome to DealAM.com, an online deals information provider **.**  PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS AND CONDITIONS. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE  
+If you have any questions, please [contact us](http://www.dealam.com/index.php?m=pages&a=contactus).Welcome to DealAM.com, an online deals information provider **.**  PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS AND CONDITIONS. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE  
 **What information do we collect?**
 
 We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form. 
@@ -141,7 +141,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
 
 **Childrens Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. You must be at least 18 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 13 years of age. If you are the parent or guardian of a child under 13 years of age and believe that they have disclosed personally identifiable information to us, please [contact us](http://www.dealam.com/contact.html) so that we may delete the child's information.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. You must be at least 18 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 13 years of age. If you are the parent or guardian of a child under 13 years of age and believe that they have disclosed personally identifiable information to us, please [contact us](http://www.dealam.com/index.php?m=pages&a=contactus) so that we may delete the child's information.
 
 **Disclaimer   **
 
@@ -153,14 +153,14 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](http://www.dealam.com/terms.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](http://www.dealam.com/terms-conditions.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your Consent**
 
-By using our site, you consent to our [privacy policy](http://www.dealam.com/privacy.html).
+By using our site, you consent to our [privacy policy](http://www.dealam.com/privacy-policy.html).
 
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-If you have any questions, please [contact us](http://www.dealam.com/contact.html).
+If you have any questions, please [contact us](http://www.dealam.com/index.php?m=pages&a=contactus).
