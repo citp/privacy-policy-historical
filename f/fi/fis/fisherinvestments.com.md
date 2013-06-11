@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fisherinvestments.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183612id_/http%3A//www.fisherinvestments.com/about/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fisherinvestments.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611042131id_/http%3A//www.fisherinvestments.com/about/privacy-security) for the most accurate reproduction.*
 
 # Fisher Investments | Privacy and Security
 
@@ -37,7 +37,7 @@ Information we receive about you on applications or other forms;
 Information you give us orally; and  
 Information about your transactions with us or others.
 
-We are committed to protecting your privacy and your non-public personal information. [Please click here for Fisher Investments Privacy Notice Facts](http://www.fisherinvestments.com/pdf/Privacy_Notice_Facts.pdf).
+We are committed to protecting your privacy and your non-public personal information. [Please click here for Fisher Investments Privacy Notice Facts](http://www.fisherinvestments.com/pdf/Privacy_Notice.pdf).
 
 ##  PRIVACY POLICY UPDATES
 
