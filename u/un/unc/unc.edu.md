@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unc.edu privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224114314id_/http%3A//www.unc.edu/about/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unc.edu privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611221145id_/http%3A//www.unc.edu/about/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy University of North Carolina at Chapel Hill
+# Privacy Policy | University of North Carolina at Chapel Hill | The University of North Carolina at Chapel Hill
 
 The University of North Carolina at Chapel Hill (“the University”) is committed to protecting your privacy, and we will not disclose your personal information to third parties unless required to do so by law. By using this website, you agree to abide by this Privacy Policy as well as any other applicable [Information Technology Services policies](http://its.unc.edu/policies).
 
@@ -14,4 +14,4 @@ We reserve the right to update and amend our Privacy Policy as needed. A current
 
 **Contacting us and reporting misconduct:**
 
-For more information or to report any misconduct or abuse of this Web site, please [e-mail one of the listed contacts](http://its.unc.edu/ITS/about_its/its_policies/index.htm).
+For more information or to report any misconduct or abuse of this Web site, please [e-mail one of the listed contacts](http://its.unc.edu/ITS/about_its/its_policies/index.htm)
