@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eccouncil.org privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029102235id_/http%3A//www.eccouncil.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eccouncil.org privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612042351id_/https%3A//www.eccouncil.org/privacy.aspx) for the most accurate reproduction.*
 
 # Certified Ethical Hacker, EC Council, CEH, Information Security, Computer Security, Network Security, Internet Security, Security Courses, Hacking
 
@@ -44,4 +44,4 @@ EC-Council will occasionally update this Statement of Privacy to reflect company
 
 Contact Information
 
-EC-Council welcomes your comments regarding this Statement of Privacy. If you believe that EC-Council has not adhered to this Statement, please contact EC-Council at haja@eccouncil.org. We will use commercially reasonable efforts to promptly determine and remedy the problem.
+EC-Council welcomes your comments regarding this Statement of Privacy. If you believe that EC-Council has not adhered to this Statement, please contact EC-Council at [legal@eccouncil.org](mailto:legal@eccouncil.org). We will use commercially reasonable efforts to promptly determine and remedy the problem.
