@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphone4jailbreak.org privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120060056id_/http%3A//www.iphone4jailbreak.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphone4jailbreak.org privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612201150id_/http%3A//www.iphone4jailbreak.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iPhone 4 Jailbreak.org
 
