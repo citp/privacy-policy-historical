@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the uptodate.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920054241id_/http%3A//www.uptodate.com/home/about/policies/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptodate.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612165657id_/http%3A//www.uptodate.com/home/privacy-policy) for the most accurate reproduction.*
 
-# Terms of Use and Privacy Agreement
+# Privacy policy | UpToDate
+
+Terms of Use and Privacy Agreement
 
 UpToDate, Inc. is very sensitive to the privacy needs of its website visitors and subscribers and is wholly committed to maintaining privacy at the highest level. UpToDate does not sell or otherwise share subscribers' or website visitors' personal information with anyone. 
 
