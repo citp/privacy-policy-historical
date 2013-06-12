@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the plink.com privacy policy that was archived on 2012-10-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121024013116id_/https%3A//www.plink.com/index.cfm%3Ffuseaction%3Dmain.privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plink.com privacy policy that was archived on 2013-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130612042306id_/https%3A//www.plink.com/index.cfm%3Ffuseaction%3Dmain.privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 		<meta charset="UTF-8">
@@ -14,14 +14,20 @@
 		<link rel="shortcut icon" href="/assets/images/favicon.ico">
 
         <link href="https://fonts.googleapis.com/css?family=Rokkitt:400,700" rel="stylesheet" type="text/css">
+		
         
-        <link href="/assets/bootstrap/css/bootstrap.css" rel="stylesheet">
-        <link href="/assets/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+		
+			<link href="/assets/bootstrap/css/bootstrap.css" rel="stylesheet">
+			<link href="/assets/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+		
 
-		<link rel="stylesheet" href="/assets/css/core.css?v=10">
+		<link rel="stylesheet" href="/assets/css/core.css?v=14">
+		
+		
+		<link rel="stylesheet" href="">
 
 
-        <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/assets/js/jquery.js?v=10"></script>
+        <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/assets/js/jquery.js?v=14"></script>
         <script src="/assets/js/jqueryPlugins/placeholder.js"></script>
 
         <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -65,6 +71,11 @@
 })( jQuery );
                </script>
         
+		
+		
+		
+
+
 	</head>
 	
  
@@ -94,6 +105,13 @@
 			});
 
 			
+				FB.getLoginStatus(function(response) {
+					$.get('/xhr/trackUserIsLoggedIntoFacebook.cfm?v=' + Math.random(),
+					{
+						loginStatus:response.status
+					}, function(response){})
+				})
+			
 
 		};
 
@@ -117,12 +135,12 @@
 				var top = (screen.height/2)-(300/2);
 				fbURL1 = 'https://www.facebook.com/dialog/oauth?'
 						+ 'client_id=108539345896102'
-						+ '&redirect_uri=https://www.plink.com/index.cfm?fuseaction=fbAuthentication.authenticate'
+						+ '&redirect_uri=https%3A%2F%2Fwww%2Eplink%2Ecom%2Findex%2Ecfm%3Ffuseaction%3DfbAuthentication%2Eauthenticate'
 						+ '&scope=email,user_birthday,user_location,user_checkins,publish_actions'
 						+ '&response_type=code'
-						+ '&state=051515519358864CF6BD718EEA543114'
+						+ '&state=99013ECB9CA8968AB7CD4066433DF997'
 						+ '&display=popup';
-				fbURL = ' https://www.facebook.com/dialog/oauth?client_id=108539345896102&redirect_uri=https%3A%2F%2Fwww%2Eplink%2Ecom%2Findex%2Ecfm%3Ffuseaction%3DfbAuthentication%2Eauthenticate&scope=email,user_birthday,user_location,user_checkins,publish_actions&response_type=code&state=051515519358864CF6BD718EEA543114&display=popup';
+				fbURL = ' https://www.facebook.com/dialog/oauth?client_id=108539345896102&redirect_uri=https%3A%2F%2Fwww%2Eplink%2Ecom%2Findex%2Ecfm%3Ffuseaction%3DfbAuthentication%2Eauthenticate&scope=email,user_birthday,user_location,user_checkins,publish_actions&response_type=code&state=99013ECB9CA8968AB7CD4066433DF997&display=popup';
 				fbConnectWindow = window.open(fbURL, 'fbConnectWindow', 'height=300, width=630,top='+top+',left='+left+'');
 				
 			}
@@ -146,7 +164,7 @@
 	</script>
 
 
-        <div class="blueHeader ">
+        <div class="blueHeader">
 
             <div class="container">
                 <div class="row ">
@@ -200,13 +218,14 @@
 
         <div class="whiteBackground" style="min-height:400px;">
 
+
 <div class="container pvxl">
 	<div class="font13pt">
 		<h1>Plink Privacy and Security Policy</h1>
-		<h4 class="mvm font12pt bold fontDarkGrey ">Date Last Revised: <span class="fontBlue">August 13, 2012</span></h4>
+		<h4 class="mvm font12pt bold fontDarkGrey ">Date Last Revised: <span class="fontBlue">June 05, 2013</span></h4>
 		<p class="row-fluid">
  </p><div class="span9">
-        Plink has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="truste">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:support@plink.com">support@plink.com</a>.  If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe here</a>. The TRUSTe program covers only information that is collected through this Web site.<br>
+        Plink has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="truste_consumer_policy">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:support@plink.com">support@plink.com</a>.  If you are not satisfied with our response you can contact <a href="https://feedback-form.truste.com/watchdog/request" target="truste_contact">TRUSTe here</a>. The TRUSTe program covers only information that is collected through this Web site, https://www.plink.com.<br>
       </div>
       <div class="span2">
 
@@ -259,9 +278,9 @@
 		</p>
 		<h6 class="mvm font12pt bold fontGrey">Cookies.</h6>
 		<p>
-			Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Service. A cookie is a small data file that is transferred to your computer's hard disk. Plink may use both session cookies and persistent cookies to better understand how you interact with our Service, to monitor aggregate usage by our users and web traffic routing on our Service, and to improve our Service. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you choose to eliminate cookies, the full functionality of the Service may be impaired for you. We may link the information we store in cookies to any personally identifiable information you submit while on our site.
+			Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Service. A cookie is a small data file that is transferred to your computer's hard disk. Plink may use both session cookies and persistent cookies to better understand how you interact with our Service, to monitor aggregate usage by our users and web traffic routing on our Service, and to improve our Service. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you choose to eliminate cookies, the full functionality of the Service may be impaired for you. We may link the information we store in cookies to any personal information you submit while on our site.
 			<br><br>
-			The use of cookies by our third party analytics service is not covered by our privacy statement.  We do not have access or control over these cookies. Our third party analytics service uses session ID cookies to provide data on how the Plink site is used.
+			The use of cookies by our third party analytics service is not covered by our privacy statement.  We do not have access or control over these cookies. Our third party analytics service uses session ID cookies to provide data on how the Plink site is used. Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers' or Users' personal information.
 		</p>
 
 		<h6 class="mvm font12pt bold fontGrey">Third Party Analytics Services.</h6>
@@ -282,7 +301,7 @@
 		</p>
 		<h6 class="mvm font12pt bold fontGrey">Testimonials.</h6>
 		<p>
-		We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information.  We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at <a href="mailto:support@plink.com">support@plink.com</a>.
+		We post customer testimonials/comments/reviews on our web site which may contain personal information.  We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at <a href="mailto:support@plink.com">support@plink.com</a>.
 		</p>
 		<h6 class="mvm font12pt bold fontGrey">Social Media Features.</h6>
 		<p>
@@ -358,7 +377,7 @@
 		</p>
 		<h6 class="mvm font12pt bold fontGrey">Changes in this Privacy Statement.</h6>
 		<p>
-			If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.<br>
+			If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate, prior to the change becoming effective, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.<br>
 			<br>
 			We reserve the right to modify this privacy statement at any time, so please review it frequently.
 		</p>
@@ -401,7 +420,9 @@
                             <li class="mbm"><a href="/index.cfm?fuseaction=main.whatsNew" class="fontWhite underline">What's New</a></li>
                             <li class="mbm"><a href="/index.cfm?fuseaction=main.aboutUs" class="fontWhite underline">About Us</a></li>
                             <li class="mbm"><a href="/index.cfm?fuseaction=advertisers.homepage" class="fontWhite underline">Advertisers</a></li>
-                            <li class="mbm"><a href="/index.cfm?fuseaction=main.contactUs" class="fontWhite underline">Contact Us</a></li>
+							
+								<li class="mbm"><a href="/index.cfm?fuseaction=main.contactUs" class="fontWhite underline">Contact Us</a></li>
+							
                         </ul>
                     </div>
 
@@ -424,7 +445,7 @@
                         <p class="font20pt">Proud member of</p>
                         <div>
                             <img src="/assets/images/nra.png" class="prl">
-                            
+							<a target="_bbb" title="Click for the Business Review of Plink LLC, a Marketing Programs &amp; Services in Denver CO" href="http://www.bbb.org/denver/business-reviews/marketing-programs-and-services/plink-in-denver-co-90134326#sealclick"><img alt="Click for the BBB Business Review of this Marketing Programs &amp; Services in Denver CO" style="border: 0;" src="/assets/images/bbb.png"></a>
                         </div>
                     </div>
 
@@ -435,7 +456,7 @@
 
 
             <div class="textcenter fontWhite mvl underline">
-                Copyright © 2012 Plink, Inc. All Rights Reserved
+                Copyright © 2013 Plink, Inc. All Rights Reserved. Patent Pending.
             </div>
         </div>
         
@@ -444,16 +465,37 @@
      <!-- Le javascript
         ================================================== -->
         <!-- Placed at the end of the document so the pages load faster -->
-		<script src="/assets/js/allPages.js?v=10"></script>
+		<script src="/assets/js/allPages.js?v=14"></script>
         
-        <script src="/assets/bootstrap/js/bootstrap-modal.js?v=10"></script>
+        <script src="/assets/bootstrap/js/bootstrap-modal.js?v=14"></script>
 
 		
-                <script src="/assets/js/facebookLogin.js?v=10"></script>
+                <script src="/assets/js/facebookLogin.js?v=14"></script>
             
 
         <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
 
+
+		
+
+
+<!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 994300826;
+var google_conversion_label = "KDJOCP6SmAQQmqeP2gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/994300826/?value=0&amp;label=KDJOCP6SmAQQmqeP2gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 		
 
