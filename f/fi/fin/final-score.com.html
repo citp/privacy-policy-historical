@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the final-score.com privacy policy that was archived on 2012-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121209202541id_/http%3A//www.final-score.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the final-score.com privacy policy that was archived on 2013-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130612220850id_/http%3A//www.final-score.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.-->
 
 <html xmlns:fb="http://www.facebook.com/2008/fbml"><head><script language="JavaScript">
 function openBMLWindow(url,height) {
@@ -23,13 +23,13 @@ function openInvestWin(url) {
 <!-- -->
 
 
-	<!-- web-45 --> 
+	<!-- web-43 --> 
 
-	<meta http-equiv="published" content="Sunday, December 9, 2012 2:25:41">
+	<meta http-equiv="published" content="Wednesday, June 12, 2013 5:08:50">
 
 	
 
-	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+	<script type="text/javascript" src="/images/common/jquery/jquery.latest.js "></script>
 
 	<script type="text/javascript" src="/combine?type=js&amp;files=shared/scripts/jquery.bgiframe.pack.js,shared/scripts/ajax.js,shared/scripts/common.js,shared/search/scripts/sizesearch.js"></script>
 
@@ -47,7 +47,7 @@ function openInvestWin(url) {
 	<script>
 	var wishlistpostCardURL = 'https://www.final-score.com/wishlist/wl_postcard.cfm';
 	var wishlistmailSender  = 'https://www.final-score.com/wishlist/wl_mailSender.cfm';
-	var dsnname = 'pro-fs-lb';
+	var dsnname = 'PRO-FS-LB-ALT';
 	
 		var microsite = '';
 	
@@ -55,7 +55,7 @@ function openInvestWin(url) {
 	
 	</script>
 	<style type="text/css">
-			@import "http://www.final-score.com/shared/wishlist/wl_sharedWishList.css";
+		
 			.loading {
 				background: transparent url(http://www.final-score.com/images/fs/quickview/quickview_loader.gif) center no-repeat;
 			}
@@ -69,7 +69,7 @@ function openInvestWin(url) {
 		var register_url = "https://www.final-score.com/account/default.cfm?action=accountCreate";
     </script> 
 	<script type="text/javascript" src="http://www.final-score.com/shared/myAccount/login.js"></script>
-    <link href="http://www.final-score.com/shared/myAccount/login.css" rel="stylesheet" type="text/css">
+	
 </ignoreurlreformat>
 
 	<script type="text/javascript">
@@ -77,20 +77,14 @@ function openInvestWin(url) {
             $(".loginRequired").each(initializeLoginRequired);
         });
     </script> 
-<style type="text/css">
-	.hideUntilLoaded {
-		display: none;
-	}
-	.showUntilLoaded {
-		display: block;
-	}
-</style>
+
 <script type="text/javascript">
 	$(document).ready(function() {
 		$(".showUntilLoaded").hide();
 		$(".hideUntilLoaded").show();
 	});
-</script> 
+</script>
+
 <script language="javascript">
 <!--
 		function updateWelcome (coremetricsEventId, CoremetricsCategoryId) {
@@ -120,15 +114,18 @@ function openInvestWin(url) {
 		
 			var ret_val= $.ajax({ type: "GET", url: logoutPath, data: {Next: escape(thisurl)}, async: false, cache : false }).responseText;
 			eraseCookie('BAZAARVOICEUSER');
+
+			//revmove any URL params after logout only if in shopping cart
+			if(thisurl.indexOf("shoppingcart/default.cfm") !== -1){
+				thisurl = thisurl.substring(0, thisurl.indexOf('?'));
+			}
+
 			window.location=thisurl;
 		}
 		
 //-->
 </script>
 
-	<style type="text/css">
-	@import "http://www.final-score.com/shared/catalogQuickOrder/catalogQuickOrder.css";
-	</style>
 	<script type="text/javascript" src="http://www.final-score.com/shared/catalogQuickOrder/catalogQuickOrder.js"></script>
 	<script type="text/javascript">
 	var quickordersearchtemplate = 'http://www.final-score.com/catalogQuickOrder/catalogQuickOrderSearchResult.cfm';
@@ -140,11 +137,7 @@ function openInvestWin(url) {
 	</script>
 
 	<script type="text/javascript" src="/combine?type=js&amp;files=shared/endeca/js/bsn.AutoSuggest_2.1.3.js" charset="utf-8"></script>
-    <style type="text/css">
-		@import url("http://www.final-score.com/shared/endeca/css/autosuggest_inquisitor.css");
-		@import url("http://www.final-score.com/endeca/autosuggest.css");
-	</style>
-        
+	    
 	<ignoreurlreformat>
     <script type="text/javascript">
 		var advancedSearchShouldSubmit = false;
@@ -178,9 +171,28 @@ function openInvestWin(url) {
     </script>
 	</ignoreurlreformat>
 
+<script language="javascript">
+function clickSearch(fieldObj) {
+	fieldObj.value="";
+	fieldObj.style.color="black";
+}
+</script>
 
 
-<style type="text/css">
+
+                	<style type="text/css">
+				@import '/combine?type=css&files=/css/typography.css,/css/style.css,/css/default_template.css,shared/wishlist/wl_sharedWishList.css,shared/myAccount/login.css,shared/catalogQuickOrder/catalogQuickOrder.css,shared/endeca/css/autosuggest_inquisitor.css,/endeca/autosuggest.css';
+                	</style>
+		
+                	<style type="text/css">
+				
+	.hideUntilLoaded {
+		display: none;
+	}
+	.showUntilLoaded {
+		display: block;
+	}
+
 	div.autosuggest ul em {
 		color: #FF4500;
 	}
@@ -205,23 +217,35 @@ function openInvestWin(url) {
 		font-size: 14px;
 		font-weight: normal;
 	}	
-</style> 
-<script language="javascript">
-function clickSearch(fieldObj) {
-	fieldObj.value="";
-	fieldObj.style.color="black";
+
+                	</style>
+		
+                	<style type="text/css">
+				</style>
+<link rel="stylesheet" href="/images/common/css/global-styles.css">
+<script src="//cdn.optimizely.com/js/82719230.js"></script>
+
+<script type="text/javascript">
+function backToMobile() {
+	var date=new Date();date.setTime(date.getTime()+(30*24*60*60*1000));
+	document.cookie = 'MOBILE_DEVICE=true; expires='+date+';domain=.final-score.com;path=/';
+	document.location.href = 'http://m.final-score.com';
+	return false;
 }
+$(document).ready(function(e) {
+    if(readCookie('MDR_DEVICE') == "true") {
+		$('<a/>', {
+			id: 'back_to_mobile',
+			href: '#',
+			title: 'Back To Mobile',
+			text: 'Back To Mobile',
+			onclick : 'return false;'
+		}).appendTo('body');
+		$('#back_to_mobile').click(backToMobile);
+	}
+});
 </script>
 
-
-
-                <style type="text/css">
-					@import 'http://www.final-score.com/css/typography.css'; @import 'http://www.final-score.com/css/style.css'; @import 'http://www.final-score.com/css/default_template.css'; 
-                </style>
-            
-                <style type="text/css">
-					</style>
-<script src="//cdn.optimizely.com/js/82719230.js"></script>
 <style>
 a {
 	color:#000;
@@ -1000,6 +1024,9 @@ overflow:hidden;
 	text-align:right;
 	color: red;
 }
+.form_title_red {
+	color: #000 !important;
+}
 #custgreet {
 float:right;
 position:relative;
@@ -1055,7 +1082,22 @@ color: 737373;
 	}
 	#not_member_welcome a:visited {
 	color:737373;
-	} @import 'http://t.p.mybuys.com/css/mbstyles.css'; 
+	}
+
+#back_to_mobile {
+	position: fixed;
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 100%;
+	bottom: 0;
+	left: 0;
+	line-height: 35px;
+	height: 35px;
+	background: #000;
+	color: #FFF;
+	text-align: center;
+	text-decoration: none;
+} @import 'http://t.p.mybuys.com/css/mbstyles.css'; 
 	.checkout_step {
 		height: 35px;
 		background-color: transparent;
@@ -1067,8 +1109,8 @@ color: 737373;
 	#checkout_step_review { background-image: url(http://www.final-score.com/images/fs/checkout/header-review.gif); }
 	#checkout_step_receipt { background-image: url(http://www.final-score.com/images/fs/checkout/header-receipt.gif); }
 
-                </style>
-            
+                	</style>
+		
 <script language="javascript1.1" src="//libs.coremetrics.com/eluminate.js" type="text/javascript"></script>
 
 <script language="javascript1.1" src="http://www.final-score.com/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
@@ -1181,11 +1223,11 @@ cursor:pointer;
 	  <!-- start menu-tabs div --> 
 	  <div id="menu-tabs">
   <ul>
-     <li><a href="http://www.final-score.com/shoes/category.cfm" title="Shoes" class="first"><span>Shoes</span></a></li>
-          <li><a href="http://www.final-score.com/clothing/category.cfm" title="Clothing" class="others"><span>Clothing</span></a></li>
-          <li><a href="http://www.final-score.com/fangear/category.cfm" title="Fan Gear" class="others"><span>Fan Gear</span></a></li>
-          <li><a href="http://www.final-score.com/equipment/category.cfm" title="Equipment" class="others"><span>Equipment</span></a></li>
-          <li><a href="http://www.final-score.com/accessories/category.cfm" title="Accessories" class="others"><span>Accessories</span></a></li>
+     <li><a href="http://www.final-score.com/Shoes/_-_/N-ne" title="Shoes" class="first"><span>Shoes</span></a></li>
+          <li><a href="http://www.final-score.com/Clothing/_-_/N-nf" title="Clothing" class="others"><span>Clothing</span></a></li>
+          <li><a href="http://www.final-score.com/Fan-Gear/_-_/N-ni" title="Fan Gear" class="others"><span>Fan Gear</span></a></li>
+          <li><a href="http://www.final-score.com/Equipment/_-_/N-ng" title="Equipment" class="others"><span>Equipment</span></a></li>
+          <li><a href="http://www.final-score.com/Accessories/_-_/N-nh" title="Accessories" class="others"><span>Accessories</span></a></li>
 		  <li><a href="http://www.final-score.com/brands/category.cfm" title="Brands" class="others"><span>Brands</span></a></li>
 <li><a href="http://www.facebook.com/FinalScoreDeals" title="Follow Final-Score on Facebook" style="padding:0px;" target="_blank"><img src="http://www.final-score.com/images/fs/topnav/Wide/facebook-logo.gif" height="29" width="80" style="margin-left:0px;margin-top:-2px;"></a></li>
   </ul>
@@ -1229,7 +1271,7 @@ cursor:pointer;
 		<div id="advancedsearch-wrap">
         <!-- start advancedsearch div -->
         <div id="advancedsearch-box">
-          <form name="keywordSearch" action="/catalog/advancedSearch/" method="GET" id="searchform">
+          <form name="keywordSearch" action="javascript:void(0);" method="" id="searchform">
             <input type="hidden" name="search" value="k">
             <input type="text" id="reduce_input_text_height" name="keyword" maxlength="40" value="Enter Keyword/Product#" onfocus="clickSearch(this);"><a href="javascript:submitKeywordSearch();"><img src="http://www.final-score.com/images/fs/topnav/Wide/art-button-go.jpg" width="26" height="23" alt="GO" title="GO" vspace="1" border="0" align="absmiddle" class="submitbutton"></a>
             <script type="text/javascript" src="/ns/common/js/keyword-search.js"></script>
@@ -1593,7 +1635,7 @@ cursor:pointer;
 		<!-- start footer-tagline div -->
 		
 <div id="footer-tagline">
-Prices subject to change without notice. © 2002-2012 Eastbay.com, Inc. All Rights Reserved<br>
+Prices subject to change without notice. © 2002-2013 Eastbay.com, Inc. All Rights Reserved<br>
 <!-- start footer-icons div -->
 <div id="footer-icons">
 	<div class="footer-slot-spacer">&nbsp;</div>
