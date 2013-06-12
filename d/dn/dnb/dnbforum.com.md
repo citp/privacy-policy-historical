@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnbforum.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212004457id_/http%3A//dnbforum.com/announcement.php%3Ff%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnbforum.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612165630id_/http%3A//dnbforum.com/announcement.php%3Ff%3D4) for the most accurate reproduction.*
 
 # Announcements - Drum & Bass
 
