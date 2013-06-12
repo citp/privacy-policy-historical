@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalandgeneral.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012065606id_/http%3A//www.legalandgeneral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalandgeneral.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612160659id_/http%3A//www.legalandgeneral.com/privacy-policy) for the most accurate reproduction.*
 
 # Legal & General - Privacy policy
 
@@ -46,9 +46,3 @@ We collect personal information from the online application process. This is so 
 
 
 We do not sell, rent or trade your personal information to others. We may give general statistics about our customers, sales, and related site information to other companies however these statistics will not include any information that personally identifies you, unless we have said otherwise in this policy.
-
-### How useful did you find this page?
-
-User rating: 
-
-[Click a star to save your rating]
