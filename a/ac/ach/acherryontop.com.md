@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acherryontop.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209233105id_/http%3A//www.acherryontop.com/articles/help/1521) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acherryontop.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613005333id_/http%3A//www.acherryontop.com/articles/help/1521) for the most accurate reproduction.*
 
 # Privacy statement: A Cherry On Top
 
