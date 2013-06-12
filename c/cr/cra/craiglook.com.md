@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the craiglook.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507000747id_/http%3A//www7.claz.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craiglook.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612204153id_/http%3A//claz.org/privacy.html) for the most accurate reproduction.*
 
 # claz.org: Privacy Policy
 
 ## 1\. User Information
 
-claz.org maintains a database of user information. This information is used only by claz.org to send automated email alerts and announcements. None of the information in users database is ever provided to any third-party, other than reasons specified in the [Terms of Use](https://web.archive.org/terms.html) document 
+claz.org maintains a database of user information. This information is used only by claz.org to send automated email alerts and announcements. None of the information in users database is ever provided to any third-party, other than reasons specified in the [Terms of Use](http://claz.org/terms.html) document 
 
 ## 2\. Usage Data
 
