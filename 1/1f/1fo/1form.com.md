@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the 1form.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207134014id_/https%3A//www.1form.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1form.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612023446id_/http%3A//1form.com/au/site/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 1Form
+# Privacy Policy | 1Form.com - Once and For All
+
+## Privacy Policy
 
 1Form Online Pty Ltd  
 ABN: 16 130 816 894  
 Studio 6, 249-251 Chapel St  
 Prahran, Victoria AUS 3181  
-Contact: [Click here to contact us](https://web.archive.org/contact-form/contact-us-direct)
 
-Last updated on 26 September 2012
+
+Last updated on 20 December 2012
 
 #### The information we collect
 
@@ -36,7 +38,7 @@ We use and disclose your personal information:
   * To answer your inquiry.
   * Where you have consented to the use or disclosure of your personal information.
   * For direct marketing by email, specials on products or services you have shown interest in.
-  * To provide you with information about offers, promotions, goods or services, which we believe may be of interest to you.
+  * We may provide you with information about offers, promotions, goods or services which we believe may be of interest to you, either directly or via third party direct marketing.
 
 
 
