@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directhomediscount.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209021429id_/http%3A//clubs.directbuy.com/content/privacy.htm%3Fiframe%3Dtrue%26width%3D100%25%26height%3D100%25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directhomediscount.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613011511id_/http%3A//clubs.directbuy.com/content/privacy.htm%3Fiframe%3Dtrue%26width%3D100%25%26height%3D100%25) for the most accurate reproduction.*
 
 # Privacy Policy
 
