@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the monstersandcritics.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108011759id_/http%3A//www.monstersandcritics.com/corp/article_1221209.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstersandcritics.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613010616id_/http%3A//www.monstersandcritics.com/corp/article_1221209.php) for the most accurate reproduction.*
 
 # Monsters and Critics' Privacy Policy - Monsters and Critics
+
+#### Corporate News
 
 By M&C  Nov 13, 2006, 7:09 GMT 
 
@@ -50,6 +52,8 @@ Google, as a third party vendor, uses cookies to serve ads on your site.
 Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. 
 
 Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **_Control of your Personal Information_**
 
@@ -123,12 +127,4 @@ Monsters and Critics.com will occasionally update this privacy statement. When w
 
 **_Contact Information_**
 
-We welcome your comments regarding this privacy statement, please contact us by [e-mail](http://support.monstersandcritics.com/index.php?group=default), or postal mail.   
-Monsters and Critics (Privacy Policy)  
-WOTR Ltd  
-4 Mossgiel Road  
-Newlands  
-Glasgow  
-Scotland  
-UK  
-G43 2DF
+We welcome your comments regarding this privacy statement, please contact us at news desk at gmail dot com.
