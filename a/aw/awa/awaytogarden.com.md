@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the awaytogarden.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003011611id_/http%3A//awaytogarden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awaytogarden.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612103409id_/http%3A//awaytogarden.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy — A Way to Garden
+# privacy policy - A Way to Garden
 
-### PRIVACY POLICY
-
-Your privacy is important, and we want you to understand what information is collected when you visit [http://awaytogarden.com](https://web.archive.org/web/20121003011611id_/http%3A//) or http://awaytogarden.com/book (the websites) and how we use it.
+YOUR PRIVACY is important, and we want you to understand what information is collected when you visit [http://awaytogarden.com](https://web.archive.org/web/20130612103409id_/http%3A//) or http://awaytogarden.com/book (the websites) and how we use it.
 
 **Information You Provide**
 
@@ -25,6 +23,17 @@ We employ commonly used third-party analytic services that automatically collect
 Our site uses “cookies” to provide easier and faster access to website features such as log-ins or repeat visits.  Cookies are very small text files that are stored on personal computers for reference purposes. We do not link the information we store in cookies to any personally identifiable information you have submitted while on our site.
 
 We may use both session cookies and persistent cookies. A session cookie makes it easier for you to explore our sites, but expires when your browser is closed.  A persistent cookie may stay on your hard drive for an extended period of time, and can perform such activities as storing your log-in information for forums or message boards so you do not have to sign in every time you visit those areas.  Persistent cookies may be used to enable us to track and target the interests of our users so as to enhance the visitor’s overall experience.
+
+We use a third party to serve some of the ads on our websites.  We must alert you that it may use cookies, web beacons, or both to collect data in the ad-serving process:
+
+  * Third-party vendors, including Google, use cookies to serve ads based on a user’s prior visits to this website.
+  * Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). (Users may, alternatively, opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).)
+  * Cookies of other [third-party vendors or ad networks](https://www.google.com/adsense/support/bin/answer.py?answer=94149) may also be used to serve ads on this site: A list of these potential vendors, with links to their sites, [is located here](https://www.google.com/adsense/support/bin/answer.py?answer=94149). Users may visit those websites to opt out of cookies (if the vendor or ad network offers this capability). Users can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+
+
+
+[Click here for details from the Google Privacy Center.](http://www.google.com/privacy.html) We have no access to or control over any cookies or other devices that are used by any third-party advertisers or ad servers on our site.
 
 **Links to Other Websites**
 
@@ -48,4 +57,4 @@ If you have any questions or concerns, our contact information is as follows:
 
 awaytogarden [at] gmail [dot] com
 
-This privacy policy was last updated on March 11, 2012.
+This privacy policy was last updated on March 15, 2013.
