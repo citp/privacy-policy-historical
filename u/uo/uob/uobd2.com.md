@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uobd2.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212181227id_/http%3A//www.uobd2.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uobd2.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612102724id_/http%3A//uobd2.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - UOBD2.com - China Auto Diagnostic Tool Center -Top Quality, Good Service, Competitive Price
+# Privacy Policy - UOBD2.com - UOBD2 - China Auto Diagnostic Tool Center, OBD2 OBDII scanner, locksmith, programmer, auto electronics
 
 UOBD2.com respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service, and timely updates, we record a variety of information from your visit to our site. To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used.  
 **
