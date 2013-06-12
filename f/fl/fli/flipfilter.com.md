@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the flipfilter.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203161352id_/http%3A//www.flipfilter.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipfilter.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612070753id_/http%3A//www.flipfilter.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Untitled Document
+# Privacy Policy | FlipFilter
 
 This privacy policy sets out how FlipFilter uses and protects any information that you give FlipFilter when you use this website.
 
 FlipFilter is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
 
 
-FlipFilter may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/06/2010.  
+FlipFilter may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.  
 
 
 **What we collect**   
@@ -48,8 +48,8 @@ Our website may contain links to other websites of interest. However, once you h
 **Controlling your personal information**  
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us, or [contacting us here](http://www.flipfilter.com/blog/contact-us)
+  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us, or [contacting us here](http://www.flipfilter.com/contact-us)
 
 
 
