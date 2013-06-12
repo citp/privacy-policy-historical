@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the plink.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024013116id_/https%3A//www.plink.com/index.cfm%3Ffuseaction%3Dmain.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plink.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612042306id_/https%3A//www.plink.com/index.cfm%3Ffuseaction%3Dmain.privacy) for the most accurate reproduction.*
 
 # Plink.com | Earn Plink Points for Dining and Shopping Offline
 
-#### Date Last Revised: August 13, 2012
+#### Date Last Revised: June 05, 2013
 
-Plink has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@plink.com](mailto:support@plink.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site.  
+Plink has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@plink.com](mailto:support@plink.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site, https://www.plink.com.  
 
 
 [](https://privacy.truste.com/privacy-seal/Plink/validation?rid=374bcf9a-9073-4c87-8761-40abf21c2f9e "TRUSTe online privacy certification")
@@ -54,9 +54,9 @@ Our servers automatically record information ("Log Data") created by your use of
 
 ###### Cookies.
 
-Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Service. A cookie is a small data file that is transferred to your computer's hard disk. Plink may use both session cookies and persistent cookies to better understand how you interact with our Service, to monitor aggregate usage by our users and web traffic routing on our Service, and to improve our Service. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you choose to eliminate cookies, the full functionality of the Service may be impaired for you. We may link the information we store in cookies to any personally identifiable information you submit while on our site. 
+Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Service. A cookie is a small data file that is transferred to your computer's hard disk. Plink may use both session cookies and persistent cookies to better understand how you interact with our Service, to monitor aggregate usage by our users and web traffic routing on our Service, and to improve our Service. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you choose to eliminate cookies, the full functionality of the Service may be impaired for you. We may link the information we store in cookies to any personal information you submit while on our site. 
 
-The use of cookies by our third party analytics service is not covered by our privacy statement. We do not have access or control over these cookies. Our third party analytics service uses session ID cookies to provide data on how the Plink site is used. 
+The use of cookies by our third party analytics service is not covered by our privacy statement. We do not have access or control over these cookies. Our third party analytics service uses session ID cookies to provide data on how the Plink site is used. Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers' or Users' personal information. 
 
 ###### Third Party Analytics Services.
 
@@ -76,7 +76,7 @@ You can log in to our site using sign-in services such as Facebook Connect. Thes
 
 ###### Testimonials.
 
-We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at [support@plink.com](mailto:support@plink.com). 
+We post customer testimonials/comments/reviews on our web site which may contain personal information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at [support@plink.com](mailto:support@plink.com). 
 
 ###### Social Media Features.
 
@@ -157,7 +157,7 @@ If you have a security related concern, please contact us at [support@plink.com]
 
 ###### Changes in this Privacy Statement.
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate, prior to the change becoming effective, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. 
 
