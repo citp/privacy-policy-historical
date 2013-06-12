@@ -1,29 +1,6 @@
-> *The following text is extracted and transformed from the fhb.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215094029id_/http%3A//www.fhb.com/hm_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fhb.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612132541id_/https%3A//www.fhb.com/en/privacy) for the most accurate reproduction.*
 
-# First Hawaiian Bank: Privacy Policy
-
-  
-|  | 
-
-Privacy Policy
-
-**How First Hawaiian Protects your Privacy**
-
-We at First Hawaiian take seriously our responsibility to protect the privacy and security of individual customers' financial information.
-
-We want you to understand:
-
-  * Our Internet Privacy Policy at First Hawaiian.
-  * What information we collect about you.
-  * What information we disclose about you and who we disclose this information to.
-  * How to tell us not to share certain information about you within our corporate family.
-  * How we safeguard information about you.
-
-
-
-* * *
-
-**Internet Privacy at First Hawaiian**
+# Privacy - First Hawaiian Bank
 
 To protect your personal information online, First Hawaiian goes to great lengths to see that your transactions are confidential and secure.
 
@@ -31,7 +8,7 @@ When you visit First Hawaiian's Website (www.fhb.com) and apply for First Hawaii
 
 Also, when you visit our Website, our Web server automatically recognizes only:
 
-  * Your Internet Service Provider (for example, America Online), but not your specific e-mail address. For instance, if your e-mail address is _johndoe@hawaii.net,_ only the _hawaii.net_ part of the address is recognized.
+  * Your Internet Service Provider (for example, America Online), but not your specific e-mail address. For instance, if your e-mail address is johndoe@hawaii.net, only the hawaii.net part of the address is recognized.
   * Aggregate information on which pages consumers visit, but no information on pages visited by any individual consumer. The aggregate information we collect (for instance, how many "hits" on a particular Web page) is used for internal review to improve the content of our Web site, and is then discarded.
 
 
@@ -40,7 +17,7 @@ Here's what we do with information volunteered by the consumer, such as survey i
 
 **E-Mail Address.** If you supply us with your e-mail address online when requesting information about a specific product or service, you will only receive the information that you requested when you provided us your e-mail address.
 
-**FHB Online SM Personal Information:** If you enroll in our FHB OnlineSM service and supply us with personal data (such as e-mail address, birth date, income range or home ownership information) we may use this data to provide you with personalized information on products, services or special promotions we feel will be of interest to you. However, if you wish to be excluded from receiving such information by e-mail, we'll give you an opportunity to tell us this online. We will respect your wishes not to receive such e-mail.
+**FHB Online® Personal Information.**  If you enroll in our FHB Online service and supply us with personal data (such as e-mail address, birth date, income range or home ownership information) we may use this data to provide you with personalized information on products, services or special promotions we feel will be of interest to you. However, if you wish to be excluded from receiving such information by e-mail, we'll give you an opportunity to tell us this online. We will respect your wishes not to receive such e-mail.
 
 **Postal Mail Address.** If you supply us with your postal address online, you will only receive the information for which you provided us your address.
 
@@ -48,131 +25,16 @@ Here's what we do with information volunteered by the consumer, such as survey i
 
 **Financial planning tools.** We have built into fhb.com many planning tools to help you make financial decisions in the privacy of your home. When you use these tools to construct "what-if?" scenarios about mortgages, car loans, etc., we do not capture the personal information you provide on these planning tools.
 
-**FHB Online.** When you bank online with First Hawaiian, we, along with the outside companies we work with to bring this service to you, have access to your information. Information is retained on our system or the system of the appropriate outside company to serve you.
+**FHB Online ®.** When you bank online with First Hawaiian, we, along with the outside companies we work with to bring this service to you, have access to your information. Information is retained on our system or the system of the appropriate outside company to serve you.
 
 To protect your personal information, we use state-of-the-art Internet technology. We also require that you furnish a User Name and password to access your accounts. You can help maintain the security of your banking information by not sharing your User Name or password with anyone, by changing your password regularly, and by remembering to sign off.
 
 **Internal security.** Security procedures within FHB Online include stringent systems to protect internal account information from outside access and make the structure of the bank's internal networks invisible to outside observers.
 
-**Remember to log-off**. Leaving your computer with your FHB Online account information open, even for a few moments, can be dangerous. Before you leave your computer, please remember to log out of FHB Online by clicking the "log out" button. This ends your session and ensures that the next time you or anyone else tries to enter your account, they have to know your User Name and Password.
+**Remember to log-off.** Leaving your computer with your FHB Online account information open, even for a few moments, can be dangerous. Before you leave your computer, please remember to log out of FHB Online by clicking the "log out" button. This ends your session and ensures that the next time you or anyone else tries to enter your account, they have to know your User Name and Password.
 
 **About "cookies."** A cookie is a file sent from a website to a computer that is logged on to the site. This file lets the site recognize if the computer has been there before and what security requirements and browser preferences the computer requires.
 
 To provide better service and a more effective website, we use "cookies" as part of our interaction with your browser. These cookies do not collect personally identifiable information, and we do not combine information collected through cookies with other personal information to determine who you are or your e-mail address. Cookies are commonly used on websites and do not harm your system.
 
-**Protecting your children.** We do not knowingly solicit data from children under 13, and we do not knowingly market to children. We recognize that protecting children's identities and privacy online is important and that the responsibility to do so rests with both the online industry and with parents.
-
-* * *
-
-**First Hawaiian Privacy Policy**
-
-**If you apply for, open, or maintain a consumer account with First Hawaiian, the following will also apply:**
-
-**WHAT INFORMATION WE COLLECT ABOUT YOU.**
-
-In the course of doing business with you, we collect nonpublic personal information about you. "Nonpublic personal information" is financial information specifically about you. For example, it includes information about your account balance, payment history, and overdraft history.
-
-We collect this information from the following sources:
-
-  * Applications or other forms we receive from you.
-  * Your transactions with us, our affiliates, or others.
-  * Consumer reporting agencies, including credit bureaus.
-  * Information from other parties relating to their relationship with you -- for example, your employment history or insurance information.
-
-
-
-**WHAT INFORMATION WE DISCLOSE AND WHO WE DISCLOSE INFORMATION TO.**
-
-We may disclose all the nonpublic personal information we collect about you as permitted by law. The following are some examples of situations in which we may disclose nonpublic personal information about you to affiliated members of our corporate family and to nonaffiliated third parties:
-
-  * To government entities, in response to subpoenas, or to comply with laws or regulations.
-  * When you direct us to do so or consent to the disclosure.
-  * When companies perform services for us that are necessary to process your transactions or maintain your account -- for example, data processing companies or ATM networks.
-  * When you have initiated a transaction and we are asked to verify funds or account information.
-  * When needed to protect against fraud, or to collect unpaid debts.
-  * To update credit bureaus that prepare reports on your creditworthiness.
-
-
-
-**INFORMATION ABOUT FORMER CUSTOMERS.**
-
-If you close your account(s) or become an inactive customer, we will continue to follow the policies and practices described here.
-
-**OUR SERVICE PROVIDERS AND JOINT MARKETING ARRANGEMENTS.**
-
-We may disclose all your nonpublic personal information to:
-
-  * Companies that perform marketing services on our behalf, such as preparing mailings of our marketing materials.
-  * Other financial institutions with whom we have joint marketing agreements. As one example, when you purchase credit-related insurance in connection with a loan, your information may be provided to an insurance company to process your request.
-
-
-
-**INFORMATION WE CAN SHARE WITHIn OUR CORPORATE FAMILY ABOUT YOU  \-- UNLESS YOU TELL US NOT TO.**
-
-Companies in First Hawaiian's corporate family include First Hawaiian Bank and other affiliated financial institutions who work with us to provide products and services that may benefit you. We are permitted by law to share information about our experience or transactions with you or your account with members of our corporate family.
-
-**Unless you tell us not to,** we may also share with these companies in our corporate family other information about you including:
-
-  1. Information we obtained from an application you completed, such as your income or marital status;
-  2. Information we obtained from a consumer report, such as your credit score or credit history;
-  3. Information we obtained to verify representations made by you, such as your open lines of credit with other financial institutions;
-  4. Information we obtained from a third party regarding its employment, credit, or other relationship with you, such as your employment history.
-
-
-
-**HOW TO TELL US _NOT_ TO SHARE THIS INFORMATION WITHIN OUR CORPORATE FAMILY.**
-
-If you prefer that we **_not_** share the types of information described above in #1 - 4 with companies in our corporate family, you may direct us not to share this information by filling out an "Opt-Out Request" form, available at any First Hawaiian branch, and mailing it back to the address on the form. (The opt-out will apply to all your First Hawaiian accounts.)
-
-Note: Your direction to us as described in this paragraph covers only certain information about you described in #1 - 4 above that we might otherwise share within our corporate family. As explained above, we may continue to share experience or transaction information about you within our corporate family as permitted by law, even if you submit the opt-out request.
-
-**For joint accountholders:** If you have a joint account, you may direct that your "Opt-Out Request" apply (1) only to yourself or (2) to all persons listed on your joint accounts.  
-
-
-**HOW WE SAFEGUARD INFORMATION.**
-
-Within First Hawaiian, access to nonpublic personal information about you is limited to our employees and in some cases to third parties (for example, the service providers described above) as permitted by law. We maintain physical, electronic and procedural safeguards that comply with federal standards to protect your nonpublic personal information.
-
-**YOUR MEDICAL INFORMATION.**
-
-You may sometimes provide medical information to us for a specific financial purpose (for example, to request insurance coverage.) We recognize that, when you do provide such information, it should only be used for the intended purpose. We do not share medical or health information among our family of companies or with third parties except to process transactions or to provide services you have requested or initiated, such as an insurance application. We do not use personal medical information about our customers for marketing purposes or in making credit decisions.
-
-**HOW TO PROTECT YOUR CREDIT  INFORMATION**. **  
-We may report information about your account to credit bureaus. Late payments, missed payments, or other defaults on your account may be reflected in your credit report.**
-
-Your credit report includes personal and financial information such as your account balances and account payment history for credit cards, mortgages or other consumer loans. By law, an individual's credit report can be obtained by insurance companies, banks and others when needed to transact business with you.
-
-It's a good idea to check your report periodically with one or more of the major credit bureaus listed below to see that the information is accurate and up to date.
-
-Equifax, Inc. (800) 685-1111 www.equifax.com  
-Trans Union Corporation (800) 888-4213 www.tuc.com  
-Experian (888) 397-3742 www.experian.com
-
-If you believe that we have incorrect information or have reported inaccurate information to a credit bureau, please write or call us at the address or telephone number listed on your account statement. Or you may call 844-4444 (from Oahu) or call toll-free 888-844-4444 (from the Mainland U.S. or Neighbor Islands). From Guam, call (671) 475-7900. From CNMI, call (670) 235-3090.
-
-**TELEMARKETING. _(Telephone Marketing)  
-_**_At no time do we use outside telemarketing companies to sell First Hawaiian products and services, nor do we sell or give customer information to outside telemarketing companies to use to solicit business from you._
-
-**PROTECT YOUR GOOD NAME.**
-
-You can take steps to secure your personal information and guard against identity theft, one of the fastest-growing kinds of fraud. (Identity theft occurs when criminals steal your financial information and assume your identity -- applying for credit in your name, running up huge bills and generally wrecking your credit history.)
-
-  * **Never** give your Social Security number, credit card or bank account information to anyone on the phone unless you initiate the call.
-  * **Don't** print your Social Security number on your checks.
-  * Protect banking personal identification numbers (PINs) and passwords. Don't carry PINs in your wallet or write them on your debit or credit cards! **Never** use as a password your Social Security number or another number (or portion of a number) that can be found in your wallet. Change your PIN regularly.
-  * Tear up receipts, bank statements and unused credit card offers before throwing them away.
-  * Review account statements regularly for unauthorized charges.
-  * If you suspect your identity has been stolen:  
-1\. Contact First Hawaiian Bank immediately so we can start closing accounts and clearing your name. Call 844-4444 (from Oahu) or call toll-free (888) 844-4444 (from the Mainland U.S. or Neighbor Islands). From Guam, call (671) 475-7900. From CNMI, call (670) 235-3090.  
-2\. File a police report and call the fraud units of the major credit bureaus: Trans Union (800) 680-7289, Experian (888) 397-3742 and Equifax (800) 525-6285.  
-3\. Report the incident to the toll-free Identity Theft Hotline of the Federal Trade Commission at 1-877-ID THEFT (438-4338). Counselors there can help you resolve problems.  
-4\. Learn more about identity theft at www.consumer.gov/idtheft
-
-
-
-**Changes To Our Privacy Policy**
-
-If you request and continue to receive advice or special offers from First Hawaiian, you will be notified by email if there are major changes to the Internet Privacy Policy. If you have a consumer account with First Hawaiian, you will be notified by mail if there are major changes to the First Hawaiian Privacy Policy.
-
-**Effective Date**  
-The privacy policy is current as of 12/1/04.
+**Protecting your children.** We do not knowingly solicit data from children under 13, and we do not market online products or services to children. We recognize that protecting children's identities and privacy online is important and that the responsibility to do so rests with both the online industry and with parents.
