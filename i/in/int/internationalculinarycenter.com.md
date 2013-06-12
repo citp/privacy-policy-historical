@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the internationalculinarycenter.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209102200id_/http%3A//www.internationalculinarycenter.com/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalculinarycenter.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612032853id_/http%3A//www.internationalculinarycenter.com/site/privacy_policy) for the most accurate reproduction.*
 
 # International Culinary Center | Privacy
 
-Because The International Culinary Center, LLC (The International Culinary Center) wants to demonstrate its commitment to our users' privacy, we have disclosed our information practices on our website below. If users have any questions or concerns regarding this statement, they should contact Tara Hill by [email](mailto:thill@frenchculinary.com) or at 888.324.2433. 
+Because The International Culinary Center, LLC (The International Culinary Center) wants to demonstrate its commitment to our users' privacy, we have disclosed our information practices on our website below. If users have any questions or concerns regarding this statement, they should contact the Website Administrator by [email](mailto:administrator@internationalculinarycenter.com) or at 888.324.2433. 
 
 The International Culinary Center, LLC is the sole owner of the information collected on [www.internationalculinarycenter.com](http://www.internationalculinarycenter.com/), [www.lecolenyc.com](http://www.lecolenyc.com/), and [www.pastryscoop.com](http://www.pastryscoop.com/). 
 
@@ -53,6 +53,6 @@ To remove or change your contact info in our database, or to not receive future 
 You may also contact us at any time using the contact information below: 
 
 The International Culinary Center, LLC   
-Attn: Tara Hill   
+Attn: Website Administrator  
 462 Broadway New York, NY 10013   
-[thill@internationalculinarycenter.com ](mailto:thill@frenchculinary.com)
+[administrator@internationalculinarycenter.com ](mailto:administrator@internationalculinarycenter.com)
