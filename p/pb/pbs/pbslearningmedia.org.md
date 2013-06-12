@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the pbslearningmedia.org privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124133903id_/http%3A//www.pbslearningmedia.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbslearningmedia.org privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612070704id_/http%3A//www.pbslearningmedia.org/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : PBS LearningMedia
+# Help Page : PBS LearningMedia
+
+### Privacy Policy
 
 This service is provided by WGBH Educational Foundation (“WGBH”) and the Public Broadcasting Service (“PBS”) and provides educational resources for teachers and their students, for use in educational settings such as schools or libraries, or for educational use by teachers and students from their homes.
 
-The privacy policy set forth here refers solely to the website located at <http://www.pbslearningmedia.org/> (the "Site"). The policy pertains to how WGBH, PBS and our affiliates (defined as distribution partners that provide access to the Site such as your local public broadcasting station or a regional or national educational content portal (collectively, "PBS LearningMedia", "we", "our", or "us")) gather and use information you provide to us while using this Site. This policy does not pertain to information you provide to us off-line. Please read it carefully, and if you have any questions or concerns, you may contact us at [LearningMediaContact@pbs.org](mailto:LearningMediaContact@pbs.org "Contact PBS LearningMedia").
+The privacy policy set forth here refers solely to the website located at [http://www.pbslearningmedia.org/](https://web.archive.org/ "PBS LearningMedia") (the "Site"). The policy pertains to how WGBH, PBS and our affiliates (defined as distribution partners that provide access to the Site such as your local public broadcasting station or a regional or national educational content portal (collectively, "PBS LearningMedia", "we", "our", or "us")) gather and use information you provide to us while using this Site. This policy does not pertain to information you provide to us off-line. Please read it carefully, and if you have any questions or concerns, you may contact us at [LearningMediaContact@pbs.org](mailto:LearningMediaContact@pbs.org "Contact PBS LearningMedia").
 
 As the Site develops, we may revise this Privacy Policy to reflect changes in the law, our practices, and the features of the Site. Such changes will be effective immediately upon posting. As a result, you should periodically review the Privacy Policy so that you are up to date on our most current policies and practices. By continuing to use the Site, you signify your agreement to the changes to the Privacy Policy. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of the Site or sending you an e-mail.
 
-## Gathering and Use of Information 
+## Gathering and Use of Information
 
 We collect two types of information from visitors to the Site: (A) Personally Identifiable Information, which is information that can be used to identify or contact an individual and includes, but is not limited to, name, organizational affiliation, and e-mail address and (B) Non-personally Identifiable Information which tracks your use of and allows for better use of the Site (such as IP Addresses and cookies).
 
@@ -34,10 +36,10 @@ In the future, forums and other opportunities to share information may become av
 
 **Cookies.** We use a small software file called a cookie to keep track of your activity on the site, profile preferences and to provide you with a customized user experience. These cookies are required to use the Site. The user's cookie file lives on the user's machine, and can be deleted at any time by the user.
 
-## External Links 
+## External Links
 
 You will find links from the Site to selected sites with content of interest to our users. These external links may be operated by third parties who independently produce, maintain, and monitor these sites. We do not control the content of these sites. When you link to such third party sites, you become subject to their terms of use and privacy policies rather than ours. You should review the privacy policies of these third party sites for their policies and practices regarding the collection and use of personally identifiable information as their policies may differ from ours. We do not accept any responsibility or liability for the privacy practices of third party sites.
 
-## Acceptance of this Privacy Policy Terms and Conditions 
+## Acceptance of this Privacy Policy Terms and Conditions
 
 By using this Site, you signify your agreement to the terms and conditions of this Privacy Policy. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of the Site following the posting of any changes to these terms shall mean that you have accepted those changes.
