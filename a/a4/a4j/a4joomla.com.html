@@ -1,0 +1,410 @@
+<!--The following is the downloaded HTML source of the a4joomla.com privacy policy that was archived on 2013-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130612145145id_/http%3A//a4joomla.com/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+  <base href="http://a4joomla.com/privacy-policy.html">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="keywords" content="free joomla templates, free joomla 3 templates, free joomla 2.5 templates, joomla 1.5 templates">
+  <meta name="author" content="Administrator">
+  <meta name="description" content="Free joomla templates, cross-browser compatible free joomla 2.5 templates, joomla 3 templates and joomla 1.5 templates can be downloaded here. Also you can purchase our pro joomla templates.">
+  <meta name="generator" content="Joomla! - Open Source Content Management">
+  <title>Privacy policy</title>
+  <link href="http://a4joomla.com/component/search/?Itemid=161&amp;format=opensearch" rel="search" title="Search a4joomla" type="application/opensearchdescription+xml">
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
+  <link rel="stylesheet" href="/components/com_k2/css/k2.css" type="text/css">
+  <link rel="stylesheet" href="/media/com_hikashop/css/frontend_default.css?v=211" type="text/css">
+  <link rel="stylesheet" href="/media/com_hikashop/css/style_mine.css?v=211" type="text/css">
+  <style type="text/css">
+
+#hikashop_category_information_module_130 div.hikashop_subcontainer {
+	background:#FFFFFF;
+}
+#hikashop_category_information_module_130 .hikashop_rtop *,#hikashop_category_information_module_130 .hikashop_rbottom *{
+	background:#FFFFFF;
+}
+			
+#hikashop_category_information_module_130 div.hikashop_subcontainer,#hikashop_category_information_module_130 div.hikashop_subcontainer span {
+	text-align:center;
+}
+#hikashop_category_information_module_130 div.hikashop_container {
+	text-align:center;
+}
+			
+#hikashop_category_information_module_130 div.hikashop_container {
+	margin:10px 10px;
+}
+#hikashop_category_information_module_130 div.hikashop_category,#hikashop_category_information_module_130 div.hikashop_product{
+	float:left;
+	width:100%;
+}
+			
+#hikashop_category_information_module_130 .hikashop_subcontainer {
+		 -moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		-khtml-border-radius: 5px;
+		border-radius: 5px;
+}
+
+			
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/k2/assets/js/k2.noconflict.js" type="text/javascript"></script>
+  <script src="/components/com_k2/js/k2.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/com_hikashop/js/hikashop.js?v=211" type="text/javascript"></script>
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});
+var K2SitePath = '/';
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"}).send();} window.addEvent("domready", function(){ keepAlive.periodical(3540000); });
+<!--
+
+	function hikashopModifyQuantity(id,obj,add,form,type,moduleid){
+		var d = document, cart_type="cart", addStr="", qty=1, e = null;
+		if(type) cart_type = type;
+		if(add) addStr = "&add=1";
+
+		if(moduleid === undefined) moduleid = 0;
+
+		if(obj){
+			qty = parseInt(obj.value);
+		}else if(document.getElementById("hikashop_product_quantity_field_"+id).value){
+			qty = document.getElementById("hikashop_product_quantity_field_"+id).value;
+		}
+		if(form && document[form]){
+			var varform = document[form];
+			e = d.getElementById("hikashop_cart_type_"+id+"_"+moduleid);
+
+			if(!e)
+				e = d.getElementById("hikashop_cart_type_"+id);
+			if(cart_type == "wishlist"){
+				if(e) e.value = "wishlist";
+				f = d.getElementById("type");
+				if(f) f.value = "wishlist";
+			}else{
+				if(e) e.value = "cart";
+			}
+			if(varform.task) {
+				varform.task.value = "updatecart";
+			}
+			varform.submit();
+		}else{
+			var url = "/component/hikashop/product/updatecart/tmpl-component.html?from=module&product_id="+id+"&cart_type="+cart_type+"&quantity="+qty+addStr+"&return_url=aHR0cDovL2E0am9vbWxhLmNvbS9wcml2YWN5LXBvbGljeS5odG1s";
+			var completeFct = function(result) {
+				var hikaModule = false;
+				if(cart_type != "wishlist") {
+					hikaModule = window.document.getElementById("hikashop_cart_module");
+					if(hikaModule) hikaModule.innerHTML = result;
+				}
+				if(!hikaModule) {
+					
+				}
+			};
+			try{
+				new Ajax(url, {method: "get", onComplete: completeFct}).request();
+			}catch(err){
+				new Request({url: url, method: "get", onComplete: completeFct}).send();
+			}
+		}
+		return false;
+	}
+
+//-->
+
+  </script>
+
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css">
+<link rel="stylesheet" href="/templates/a4joomla-mylandscape/css/template.css" type="text/css">
+<link rel="stylesheet" href="/templates/a4joomla-mylandscape/css/grey.css" type="text/css">
+<!--[if IE 6]>
+<link rel="stylesheet" href="/templates/a4joomla-mylandscape/css/ie6.css" type="text/css" />
+<script src="/templates/a4joomla-mylandscape/js/suckerfish.js" type="text/javascript"></script>
+<style type="text/css">
+img, div, a, input { behavior: url(/templates/a4joomla-mylandscape/iepngfix.htc) }
+.moduletable_dark, .moduletable_light, #search input.inputbox { behavior:none;}
+</style>
+<script src="/templates/a4joomla-mylandscape/js/iepngfix_tilebg.js" type="text/javascript"></script>
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" href="/templates/a4joomla-mylandscape/css/ie67.css" type="text/css" />
+<![endif]-->
+<!--[if lte IE 8]>
+<style type="text/css">
+.moduletable_dark, .moduletable_light, #search input.inputbox { behavior: url(/templates/a4joomla-mylandscape/js/PIE.php) }
+</style>
+<![endif]-->
+<style type="text/css">
+ #header {
+    height: 100px;
+ }
+ #logo {
+    width:260px;
+    height:100px;
+ }
+ #logo h2 {
+    font-size:36px;
+	margin-top:25px;
+ }
+ #logo h3 {
+	margin-top:-2px;
+ }
+ #headerright {
+    width:620px;
+    height:100px;
+ } 
+ #hsocial {
+	margin-top:17px;
+ } 
+ #slideshow-container {
+	width:900px;
+	height:375px;
+ }
+ #slideshow-container img { 
+	width:940px; 
+	height:375px;
+ }
+ #slcontrol {
+	width:940px; 
+	top:43.333333333333%;
+ }
+ a#slprev {
+    background: url("/templates/a4joomla-mylandscape/images/previous-white.png") no-repeat scroll left center transparent;
+ }
+ a#slnext {
+    background: url("/templates/a4joomla-mylandscape/images/next-white.png") no-repeat scroll right center transparent;
+ }
+ 
+</style>
+<script src="/templates/a4joomla-mylandscape/js/verysimpleslideshow.js" type="text/javascript"></script>
+</head>
+<body>
+
+<div id="allwrap" class="gainlayout" style="width:980px;">
+
+<div id="header" class="gainlayout">   
+      <div id="logo" class="gainlayout">
+         		    <a href="http://a4joomla.com/"><img src="/images/stories/logo-new222.jpg" border="0" alt=""></a>
+          
+      </div>
+	  <div id="headerright" class="gainlayout">
+			<div id="topmenu2" class="gainlayout">
+							
+							<div class="moduletable">
+					
+<ul class="menu">
+<li class="item-279"><a href="/login-logout.html">Login / Logout</a></li><li class="item-280"><a href="/register.html">Register</a></li><li class="item-281"><a href="/your-orders.html">Your orders</a></li><li class="item-282"><a href="/your-profile.html">Your profile</a></li></ul>
+		</div>
+	
+					<div class="clr"></div>
+							</div>
+			<div id="hsocial" class="gainlayout">
+									<div id="search" class="gainlayout">
+								<div class="moduletable">
+					<form action="/privacy-policy.html" method="post">
+	<div class="search">
+		<label for="mod-search-searchword">Search...</label><input name="searchword" id="mod-search-searchword" maxlength="20" class="inputbox" type="text" size="20" value="Search..." onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';">	<input type="hidden" name="task" value="search">
+	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="Itemid" value="161">
+	</div>
+</form>
+		</div>
+	 
+					<div class="clr"></div>  
+					</div>
+																					<a class="mytwitter" href="https://twitter.com/a4joomla"><img src="/templates/a4joomla-mylandscape/images//twitter.png" border="0" alt="Twitter" title="Twitter"></a>
+																<div class="clr"></div>
+			</div>
+			<div class="clr"></div>
+      </div>
+      <div class="clr"></div>
+</div>
+
+<div id="topmenuwrap" class="gainlayout">
+               <div id="topmenu" class="gainlayout">
+           		<div class="moduletable">
+					
+<ul class="menu">
+<li class="item-205"><a href="/">Home</a></li><li class="item-289"><a href="/free-joomla-templates.html">Free joomla templates</a></li><li class="item-291"><a href="/pro-joomla-templates.html">Pro joomla templates</a></li><li class="item-55"><a href="/blog.html">Blog</a></li><li class="item-97"><a href="/faq.html">FAQ</a></li><li class="item-69"><a href="/contact.html">Contact</a></li></ul>
+		</div>
+	
+           <div class="clr"></div>
+         </div> 
+            <div class="clr"></div>
+</div> 
+
+<div id="wrap" class="gainlayout">
+
+	 
+
+  	  <div id="pathway" class="gainlayout">
+        
+<div class="breadcrumbs">
+<span class="showHere">You are here: </span><a href="/" class="pathway">Home</a> <img src="/templates/a4joomla-mylandscape/images/system/arrow.png" alt=""> <span>Privacy policy</span></div>
+
+      <div class="clr"></div>
+	  </div>
+   
+    <div id="cbody" class="gainlayout">
+    <div id="sidebar" style="width:210px;">     
+      		<div class="moduletable">
+					<h3>Login Form</h3>
+					<form action="/privacy-policy.html" method="post" id="login-form">
+		<fieldset class="userdata">
+	<p id="form-login-username">
+		<label for="modlgn-username">User Name</label>
+		<input id="modlgn-username" type="text" name="username" class="inputbox" size="18">
+	</p>
+	<p id="form-login-password">
+		<label for="modlgn-passwd">Password</label>
+		<input id="modlgn-passwd" type="password" name="password" class="inputbox" size="18">
+	</p>
+		<p id="form-login-remember">
+		<label for="modlgn-remember">Remember Me</label>
+		<input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes">
+	</p>
+		<input type="submit" name="Submit" class="button" value="Log in">
+	<input type="hidden" name="option" value="com_users">
+	<input type="hidden" name="task" value="user.login">
+	<input type="hidden" name="return" value="aW5kZXgucGhwP2Zvcm1hdD1odG1sJm9wdGlvbj1jb21fY29udGVudCZ2aWV3PWFydGljbGUmaWQ9MTQzJkl0ZW1pZD0xNjE=">
+	<input type="hidden" name="a50544f47be33ef713b3d5999959ffa5" value="1">	</fieldset>
+	<ul>
+		<li>
+			<a href="/your-profile.html?view=reset">
+			Forgot your password?</a>
+		</li>
+		<li>
+			<a href="/your-profile.html?view=remind">
+			Forgot your username?</a>
+		</li>
+				<li>
+			<a href="/your-profile.html?view=registration">
+				Create an account</a>
+		</li>
+			</ul>
+	</form>
+		</div>
+			<div class="moduletable">
+					<h3>Shopping Cart</h3>
+					<div class="hikashop_cart_module" id="hikashop_cart_module">
+<div id="hikashop_cart" class="hikashop_cart">
+			The cart is empty		</div>
+		<div class="clear_both"></div></div>
+		</div>
+			<div class="moduletable_menu">
+					<h3>Categories</h3>
+					
+<ul class="menu">
+<li class="item-265"><a href="/free-joomla-2-5-templates.html">Free joomla 2.5 templates</a></li><li class="item-304"><a href="/free-joomla-3-templates.html">Free joomla 3 templates</a></li><li class="item-283"><a href="/free-joomla-1-5-templates.html">Free joomla 1.5 templates</a></li><li class="item-284"><a href="/pro-joomla-2-5-templates.html">Pro joomla 2.5 templates</a></li><li class="item-306"><a href="/pro-joomla-3-templates.html">Pro joomla 3 templates</a></li><li class="item-285"><a href="/pro-joomla-1-5-templates.html">Pro joomla 1.5 templates</a></li><li class="item-288"><a href="/free-joomla-templates.html">All free joomla templates</a></li><li class="item-290"><a href="/pro-joomla-templates.html">All pro joomla templates</a></li><li class="item-293"><a href="/free-minimalist-joomla-templates.html">Free minimalist joomla templates</a></li><li class="item-294"><a href="/pro-minimalist-joomla-templates.html">Pro minimalist joomla templates</a></li></ul>
+		</div>
+	    
+  </div>
+    <div id="content60" style="width:690px;">    
+	    
+      <div id="content" class="gainlayout">
+		
+<div id="system-message-container">
+</div>
+		<div class="item-page">
+
+	<h2>
+			<a href="/privacy-policy.html">
+		Privacy policy</a>
+		</h2>
+
+
+
+
+
+
+
+
+<p style="text-align: justify;">This privacy policy sets out how a4joomla.com uses and protects any information that you give a4joomla.com when you use this website.<br>a4joomla.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.<br>a4joomla.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2011.09.27.</p>
+<h3>What we collect</h3>
+<p style="text-align: justify;">We may collect the following information:</p>
+<div style="text-align: left;">
+<ul>
+<li> name</li>
+<li> contact information including email address</li>
+<li> other information relevant to customer surveys and/or offers</li>
+</ul>
+</div>
+<h3>What we do with the information we gather</h3>
+<p style="text-align: justify;">We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
+<div style="text-align: left;">
+<ul>
+<li> Internal record keeping.</li>
+<li> We may use the information to improve our products and services.</li>
+<li> We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li>
+<li> From time to time, we may also use your information to contact you for market research purposes. We may contact you by email. We may use the information to customise the website according to your interests.</li>
+</ul>
+</div>
+<h3>Security</h3>
+<p style="text-align: justify;">We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
+<h3>How we use cookies</h3>
+<p style="text-align: justify;">A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.<br><br>We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.<br><br>Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.<br><br>You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p>
+<h3>Links to other websites</h3>
+<p style="text-align: justify;">Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
+<h3>Controlling your personal information</h3>
+<p style="text-align: justify;">We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.</p> 
+	
+</div>
+ 
+      </div> 
+          
+  </div>
+      <div class="clr"></div>
+  </div>
+   
+  
+<!--end of wrap-->
+</div>
+    
+<!--end of allwrap-->
+</div>
+<div id="footerwrap" class="gainlayout" style="width:980px;"> 
+   
+  <div id="footer" class="gainlayout">  
+       	
+         		<div class="moduletable">
+					
+
+<div class="custom">
+	<p>a4joomla.com is not affiliated with or endorsed by the Joomla! Project or Open Source Matters. The Joomla! name and logo is used under a limited license granted by Open Source Matters the trademark holder in the United States and other countries.</p>
+<p>&nbsp;</p>
+<p>Copyright 2012 a4joomla.com&nbsp;&nbsp; |&nbsp;&nbsp; <a href="/terms-and-conditions.html">Terms and conditions</a>&nbsp;&nbsp; |&nbsp;&nbsp;<a href="/privacy-policy.html">Privacy policy</a>
+</p>
+<p>&nbsp;</p></div>
+		</div>
+	    
+         </div>
+   
+</div><span style="overflow: auto; position: absolute; height: 0pt; width: 0pt"><a title="elektronik sigara" href="http://www.elektroniksigara.sc">elektronik sigara</a> <a title="elektronik sigara" href="http://www.esigara.mobi">elektronik sigara</a><a title="Ahsap ve Kumas Kapli Akustik Paneller" href="http://www.akustikkaplama.net">Ahsap ve Kumas Kapli Akustik Paneller</a>
+<a title="Akustik Kaplama Ve Sahne Sistemleri" href="http://www.gokceakustik.com">Akustik Kaplama Ve Sahne Sistemleri</a><a href="http://www.pornelits.me/kategori/liseli" title="Liseli Porno, Liseli Pornoları">Liseli Porno</a><a href="http://www.xtravestii.com" rel="muse" title="travesti">travesti</a><a href="http://www.pk5.net/pussy16-com-32850.html/" title="pussy16.com">pussy16.com</a><span>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-16043650-1");
+pageTracker._setDomainName(".a4joomla.com");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+</span></span></body></html>
