@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the southafrica.to privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224182158id_/http%3A//southafrica.to/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southafrica.to privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612195430id_/http%3A//southafrica.to/privacy.php) for the most accurate reproduction.*
 
-# SouthAfrica.TO privacy policy
+# Cheap flights, car rentals, hotels, cruises & ballooning
 
-1 Aug 2009. At SouthAfrica.TO (South Africa Travel Online) we recognize that privacy is important to you. This document outlines the types of personal information we receive and collect when you use SouthAfrica.TO's services.
+1 Aug 2009. At SouthAfrica.TO (South Africa Travel Online) we recognize that it is important to disclose a privacy policy. This page outlines the types of personal information we receive and collect when you use SouthAfrica.TO's services.
 
 #### **Personal Information we collect**
 
@@ -25,8 +25,6 @@
 
   * SouthAfrica.TO may use third parties to assist in the processing your personal information.
 
-  * SouthAfrica.TO may share aggregated non-personal information with third parties outside of SouthAfrica.TO. 
-
   * SouthAfrica.TO may share information with third parties in limited circumstances.
 
 
@@ -34,12 +32,12 @@
 
 #### **Your privacy choices**
 
-You may decline to visit www.southafrica.to, you may decline to to provide personal information to SouthAfrica.TO and you may refuse cookies in your browser; it is possible that some of SouthAfrica.TO's features wont work as a result.
+You must decline to visit www.southafrica.to if you do not agree with the above. 
 
 #### Changes to this Privacy Policy 
 
-SouthAfrica.TO may update this policy.
+SouthAfrica.TO may update this policy without any notification. 
 
 #### **More privacy policy information**
 
-If you have further queries relating to SouthAfrica.TO's privacy policy, please contact us [](http://www.google.com/support/bin/request.py?contact_type=privacy)at cheapflights@southafrica.to
+If you have further queries relating to SouthAfrica.TO's privacy policy, please contact us [](http://www.google.com/support/bin/request.py?contact_type=privacy)at [cheapflights@southafrica.to](mailto:cheapflights@southafrica.to)
