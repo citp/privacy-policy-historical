@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geebo.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206234952id_/http%3A//geebo.com/pages/view/id/2-privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geebo.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612213013id_/http%3A//geebo.com/pages/view/id/2-privacy_policy) for the most accurate reproduction.*
 
 # Online Classifieds Housing, Employment, Vehicles, Rentals, Roommates, Resumes, Construction Equipment, Farm Equipment
 
@@ -23,6 +23,9 @@ NOTICE: [Click here](http://www.ftc.gov/) for important information about safe s
   * When you Place an Ad we ask for information such as your name, email address, phone number, etc. 
   * Geebo automatically receives and records information on our server logs from your browser, including your IP address, Geebo cookie information, and the page you request. 
   * Geebo uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal purposes.
+  * By providing Geebo your email address, you consent to our using the email address to send you Service related notices, including any notices required by law, in lieu of communication by postal mail. You may not opt out of Service-related e-mails.
+  * We may use your email address to send you other messages, such as newsletters, job alerts for employment and resume postings or special offers. If you do not want to receive such email messages, you may opt out by following the opt-out instructions in the message. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.   
+
 
 
 
@@ -52,7 +55,7 @@ NOTICE: [Click here](http://www.ftc.gov/) for important information about safe s
 
 
 
-**Questions and Suggestions**
+ **Questions and Suggestions**
 
   * If you have questions or suggestions, please feel free to write us at [feedback@geebo.com](mailto:feedback@geebo.com) or you can contact us at:
 
