@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sneakerfreaker.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212054715id_/http%3A//www.sneakerfreaker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sneakerfreaker.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613010753id_/http%3A//www.sneakerfreaker.com/privacy) for the most accurate reproduction.*
 
 # Sneaker Freaker Magazine - Privacy Policy
 
