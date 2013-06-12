@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techably.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212052812id_/http%3A//techably.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techably.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612233951id_/http%3A//techably.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,25 +8,25 @@ Any personal information you provide to us including and similar to your name, a
 
 We have a strict no spam policy and do not send you any emails, unless you subscribe to receive email updates.
 
-## About Credit Cards
+### About Credit Cards
 
 TechAbly will never ask for Credit Card details and request that you DO NOT enter it on any of the forms on TechAbly.
 
-## Log Files
+### Log Files
 
 Like many other Web sites, TechAbly also makes use of log files. The information inside the log files includes Internet Protocol (IP) Addresses, Type of Browser, Internet Service Provider (ISP), Date / Time stamp, Referring / Exit Pages, and Number of clicks to analyze Trends, Administer the Site, Track user’s movement around the site, and gather Demographic Information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-## Cookies and Web Beacons
+### Cookies and Web Beacons
 
 A “ _cookie_ ” is a small data text file that is placed in your browser and allows TechAbly to recognize you each time you visit this site(customization etc.). Cookies themselves do not contain any personal information, and TechAbly does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as news feeds.
 
 TechAbly does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-### DoubleClick DART Cookie
+#### DoubleClick DART Cookie
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html%20)
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [www.google.com/policies/privacy/ads/](http://www.google.com/policies/privacy/ads/)
 
 
 
@@ -38,7 +38,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ### Visitor Tracking / Statistical Analysis
 
-TechAbly makes use of analytical software such as Google Analytics for statistical purposes. For the stat analysis purpose, your IP (Internet Protocol) address, browser, screen resolution, operating system are captured. We, at TechAbly, use this information only for statistical purpose and do not share it with any third party.
+TechAbly makes use of analytical software such as _Google Analytics_ for statistical purposes. For the stat analysis purpose, your IP (Internet Protocol) address, browser, screen resolution, operating system are captured. We, at TechAbly, use this information only for statistical purpose and do not share it with any third party.
 
 ### User Comments
 
