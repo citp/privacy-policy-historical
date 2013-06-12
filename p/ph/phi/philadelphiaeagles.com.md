@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philadelphiaeagles.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531063915id_/http%3A//www.philadelphiaeagles.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philadelphiaeagles.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612082922id_/http%3A//www.philadelphiaeagles.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Philadelphia Eagles | Privacy Policy
 
