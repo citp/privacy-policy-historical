@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemade-gifts-made-easy.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014170158id_/http%3A//www.homemade-gifts-made-easy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemade-gifts-made-easy.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612214141id_/http%3A//www.homemade-gifts-made-easy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -77,15 +77,6 @@ Homemade-gifts-made-easy.com reserves the right to make changes in this policy. 
 
 If you do not agree to the Homemade-gifts-made-easy.com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. 
 
-Your use of this site indicates acceptance of this privacy policy. 
+Your use of this site indicates acceptance of this privacy policy. Please also see our [disclaimer and terms of use](http://www.homemade-gifts-made-easy.com/disclaimer.html). 
 
-**Share this page:  **  
-
-
-What's This?
-
-| | | |   
----|---|---|---|---  
-| | |   
-  
-Enjoy this page? Please pay it forward. Here's how...
+If you have any queries, please do not hesitate to [contact me](http://www.homemade-gifts-made-easy.com/contact-us.html).
