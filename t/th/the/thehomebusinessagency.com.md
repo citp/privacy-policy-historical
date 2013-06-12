@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehomebusinessagency.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212050644id_/http%3A//thehomebusinessagency.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehomebusinessagency.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612151152id_/http%3A//thehomebusinessagency.com/privacy-policy) for the most accurate reproduction.*
 
 # The Home Business Agency - Unlock Your Unfair Advantage To Profitable Online Advertising For 100% Free
 
