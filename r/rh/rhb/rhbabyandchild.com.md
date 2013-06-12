@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhbabyandchild.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212011115id_/http%3A//www.rhbabyandchild.com/customer-service/privacy-policy.jsp%3Fcm_sp%3Dglobal_footer_store-_-privacy_policy-_-NA%26link%3Dbotnav_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhbabyandchild.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613002124id_/http%3A//www.rhbabyandchild.com/customer-service/privacy-policy.jsp%3Fcm_sp%3Dglobal_footer_store-_-privacy_policy-_-NA%26link%3Dbotnav_privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Restoration Hardware Baby & Child
 
@@ -82,22 +82,22 @@ Your Personal Information may be disclosed:
 We and our third-party service providers may collect Non-Personal Information in a variety of ways, including:
 
   * **Through your browser:** Certain information is collected by most browsers, such as your Media Access Control ("MAC") address, computer type (Windows or Macintosh), screen resolution, and the type and version of your operating system and browser.
-  
+  *   
 
   * **Through server log files:** An Internet Protocol ("IP") address is a number that is automatically assigned to a computer by an Internet Service Provider ("ISP"), and is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. We and our service providers use IP addresses for purposes such as calculating Site usage levels, helping diagnose server problems and administering the Site.
-  
+  *   
 
   * **Using cookies:** Cookies allow a web server to transfer data to a computer for recordkeeping and other purposes. We and our service providers use cookies and other technologies to, among other things, enhance and personalize your online browsing and shopping experience and facilitate your ongoing access to and use of the Site, as well as for online tracking purposes. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To learn more about cookies, please visit http://www.allaboutcookies.org/. If you choose to decline cookies, some or all of the features, functionality and promotions available through the Site − such as the shopping cart, ability to view certain pages of the Site, and even placing orders or reviewing your order history − may not be available to you.
-  
+  *   
 
   * **Flash Local Stored Objects:** We and our service providers may use a third-party technology, called Flash, in connection with the Site or our online content. Flash provides a facility, referred to as Local Stored Objects ("LSO"), that allows a website operator or online content provider (or their service providers) to store certain information locally on an individual's computer; for example, Flash LSOs can be used to store information regarding an individual's computer. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the Website Storage Settings Panel. You can also control Flash LSOs by going to the Global Storage Settings Panel and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to as "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without you being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including, potentially, Flash applications used in connection with the Site or our online content. We expect our service providers and technology suppliers to honor any decision by you to restrict or limit Flash LSOs, but we cannot guarantee that they will do so.
-  
+  *   
 
   * **Using pixel tags and other similar technologies:** Pixel tags (also known as web beacons and clear GIFs) are small images that may be used by us and our service providers in connection with some Site pages and HTML-formatted email messages to, among other things, render the Site pages to you on various hardware devices and operating system versions, track the actions of Site users and email recipients, measure the success of marketing campaigns and compile statistics about Site usage and response rates. Pixel tags may collect information such as the pages, features and links accessed by a Site visitor, and the IP address, browser type and operating system of such visitor's computer.
-  
+  *   
 
   * **From you:** We and our service providers may collect demographic information such as your location, as well as other information, such as your preferred means of communication, your gender and your date of birth, when you voluntarily provide this information to us or our service providers. You may also have the opportunity to provide us with information regarding major events such as weddings, child births and the purchase of a new home. We also maintain a record of your orders, purchases, exchanges, returns, wish lists and gift registries in connection with the Site or our businesses. Unless combined with Personal Information, this information does not personally identify you or any other customer or potential customer of our businesses.
-  
+  *   
 
   * **By aggregating information:** We and our service providers may aggregate Personal Information collected from our customers and potential customers, for example by using Personal Information to calculate the percentage of such individuals who have a particular telephone area code. Aggregated Personal Information does not personally identify you or any other customer or potential customer.
 
@@ -125,8 +125,8 @@ We seek to use reasonable organizational, technical and administrative measures 
 
 We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
 
-  * **Receiving promotional emails or catalogs from us:** If you no longer want to receive promotional emails (such as information about new products, special offers and sales events) or catalogs from us on a going-forward basis, you may opt-out of receiving such communications by: clicking the "opt-out" link in any promotional email; clicking the "opt-out" link on the Site, available at: <http://www.rhbabyandchild.com/customer-service/email-unsubscribe.jsp> for promotional emails, and at <http://www.rhbabyandchild.com/customer-service/catalog-cancellation.jsp> for catalogs; or by contacting us in accordance with the "Contacting Us" section below. In each case, please remember that, if you wish to opt-out of receiving all promotional emails from Restoration Hardware, you may need to opt-out separately for each Restoration Hardware brand. When so contacting us, please be sure to include your full name and the email and/or postal address that you used when registering or making a purchase. We will seek to process your requests regarding promotional emails within 10 business days, and to process your requests regarding catalogs within 90 days.
-  
+  * **Receiving promotional emails or catalogs from us:** If you no longer want to receive promotional emails (such as information about new products, special offers and sales events) or catalogs from us on a going-forward basis, you may opt-out of receiving such communications by: clicking the "opt-out" link in any promotional email; clicking the "opt-out" link on the Site, available at: [ http://www.restorationhardware.com/customer-service/email-unsubscribe.jsp](http://www.restorationhardware.com/customer-service/email-unsubscribe.jsp) for promotional emails, and at [ http://www.restorationhardware.com/customer-service/catalog-cancellation.jsp](http://www.restorationhardware.com/customer-service/catalog-cancellation.jsp) for catalogs; or by contacting us in accordance with the "Contacting Us" section below. In each case, please remember that, if you wish to opt-out of receiving all promotional emails from Restoration Hardware, you may need to opt-out separately for each Restoration Hardware brand. When so contacting us, please be sure to include your full name and the email and/or postal address that you used when registering or making a purchase. We will seek to process your requests regarding promotional emails within 10 business days, and to process your requests regarding catalogs within 90 days.
+  *   
 
   * **Our sharing of your Personal Information with Affiliates, Promotional Partners and other third parties for their marketing purposes:** If you no longer want us to share your Personal Information on a going-forward basis with our Affiliates, Promotional Partners and other third parties for their marketing purposes, you may opt-out of such sharing by contacting us in accordance with the "Contacting Us" section below. In so contacting us, please be sure to include your full name and the contact information that you no longer wish to be shared, and state specifically whether you wish to opt-out of such sharing with (a) Affiliates, (b) Promotional Partners and other third parties, or (c) both. We will seek to process your request within 90 days.
 
@@ -152,38 +152,38 @@ The Site is controlled and operated by us from the United States, and is not int
 
 California Civil Code Section 1798.83 permits customers of Restoration Hardware who are California residents to request certain information regarding its disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please write to us at:
 
-Restoration Hardware CA Privacy Rights  
-Attn: Customer Service  
-2900 North MacArthur Drive - Suite 100  
+Restoration Hardware CA Privacy Rights   
+Attn: Customer Service   
+2900 North MacArthur Drive - Suite 100   
 Tracy, California 95376
 
 ## **CONTACTING US**
 
 If you have any questions about this Privacy Policy, or to make choices about receiving promotional communications, to update your Personal Information, or to place an order, please contact the appropriate Restoration Hardware brand as follows:
 
-  * **Restoration Hardware** (including Outlet and Clearance Center) Restoration Hardware  
-Attn: Customer Service  
-2900 North MacArthur Drive - Suite 100  
-Tracy, CA 95376  
-1.800.910.9836  
+  * **Restoration Hardware** (including Outlet and Clearance Center) Restoration Hardware   
+Attn: Customer Service   
+2900 North MacArthur Drive - Suite 100   
+Tracy, CA 95376   
+1.800.910.9836   
 [webcs@restorationhardware.com](mailto:webcs@restorationhardware.com)
-  * **Restoration Hardware Baby and Child** Restoration Hardware Baby & Child  
-Attn: Customer Service  
-2900 North MacArthur Drive - Suite 100  
-Tracy, CA 95376  
-1.800.762.1751  
+  * **Restoration Hardware Baby and Child** Restoration Hardware Baby & Child   
+Attn: Customer Service   
+2900 North MacArthur Drive - Suite 100   
+Tracy, CA 95376   
+1.800.762.1751   
 [webcs@restorationhardware.com](mailto:webcs@restorationhardware.com)
-  * **Restoration Hardware Trade Division** Restoration Hardware Trade  
-Attn: Customer Service  
-2900 North MacArthur Drive - Suite 100  
-Tracy, CA 95376  
-1.877.733.6200  
+  * **Restoration Hardware Trade Division** Restoration Hardware Trade   
+Attn: Customer Service   
+2900 North MacArthur Drive - Suite 100   
+Tracy, CA 95376   
+1.877.733.6200   
 [webcs@restorationhardware.com](mailto:webcs@restorationhardware.com)
-  * **Restoration Hardware Contract Division** Restoration Hardware Contract  
-Attn: Customer Service  
-2900 North MacArthur Drive - Suite 100  
-Tracy, CA 95376  
-1.877.733.6200  
+  * **Restoration Hardware Contract Division** Restoration Hardware Contract   
+Attn: Customer Service   
+2900 North MacArthur Drive - Suite 100   
+Tracy, CA 95376   
+1.877.733.6200   
 [webcs@restorationhardware.com](mailto:webcs@restorationhardware.com)
 
 
