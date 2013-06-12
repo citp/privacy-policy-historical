@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the summertomato.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128182139id_/http%3A//summertomato.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summertomato.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613005611id_/http%3A//summertomato.com/contact/privacy) for the most accurate reproduction.*
 
-# Privacy | Healthy Eating Tips - Upgrade Your Healthstyle | Summer Tomato
+# Privacy | Upgrade Your Healthstyle | Summer Tomato
 
-At Summer Tomato, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by SummerTomato.com and how it is used.
+**Privacy**  
+At Summer Tomato, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by SummerTomato.com and how it is used.
 
 **Subscriptions**  
 Email addresses collected for free subscriptions to Summer Tomato are used to send you new blog updates, and will never be sold or released to third parties for any reason whatsoever.
