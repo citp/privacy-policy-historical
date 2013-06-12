@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nbaa.org privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219103035id_/http%3A//www.nbaa.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbaa.org privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612155735id_/http%3A//www.nbaa.org/about/privacy) for the most accurate reproduction.*
 
 # NBAA Website Privacy Policy | NBAA - National Business Aviation Association
 
-Updated July 25, 2012
+Updated May 1, 2013
 
 The National Business Aviation Association, Inc. (NBAA) respects the privacy of its Members and other visitors to its website, NBAA.org. NBAA is committed to maintaining your privacy and providing you with options regarding the use of your Personal Information. This Privacy Policy describes NBAA's current association policy on how we use Personal Information that is provided to NBAA through NBAA.org. 
 
@@ -14,9 +14,7 @@ On occasion NBAA may revise this Privacy Policy to reflect changes in the law, N
 
 ## Collection of Personal Information
 
-This Privacy Policy covers Personal Information, which includes your name, mailing address, email address and telephone number, and may also include additional information provided to NBAA, such as your communication preferences or credit card details. Some Personal Information may be provided to NBAA by those individuals who manage your company’s Membership or register you for NBAA events.
-
-In addition to Personal Information, NBAA automatically collects network information such as IP addresses and hostnames, as well as web browser information such as browser type, computer operating systems and screen resolutions. This aggregate visitor data does not provide us with personally identifying information, and is used by NBAA to improve NBAA.org, track usage, improve services, and for security purposes.
+This Privacy Policy covers Personal Information, which includes your name, mailing address, email address and telephone number, and may also include additional information provided to NBAA, such as your credit card details. Some Personal Information may be provided to NBAA by those individuals who manage your company’s Membership or register you for NBAA events.
 
 ### From General NBAA.org Visitors
 
@@ -67,7 +65,7 @@ NBAA may provide attendee rosters for NBAA Events to other attendees, NBAA Commi
 
 ### NBAA Air Mail
 
-Individuals at NBAA Member companies may choose to participate in Air Mail, NBAA's series of email discussion lists. By posting Air Mail messages, either by email or through NBAA.org, Air Mail participants will share their name and email address with other participants, and with non-participating NBAA Members through the online archive of Air Mail messages. If you do not want to share this information, you should not participate in Air Mail. Air Mail participants must follow the [Air Mail rules](http://www.nbaa.org/airmail/rules/). To benefit all NBAA Members, Members violating these rules may be unsubscribed from Air Mail by NBAA at any time.
+Individuals at NBAA Member companies may choose to participate in Air Mail, NBAA's series of web-based forums and email discussion lists. By posting to Air Mail, either by email or through NBAA.org, Air Mail participants will share their name and email address with other participants via Air Mail Listserv, and with non-participating NBAA Members through the web-based Air Mail Forums. If you do not want to share this information, you should not participate in Air Mail. Air Mail participants must follow the [Air Mail rules](http://www.nbaa.org/airmail/rules/). To benefit all NBAA Members, Members violating these rules may be unsubscribed from Air Mail by NBAA at any time.
 
 ### Member Mailing List Rental
 
@@ -94,6 +92,12 @@ NBAA uses reasonable measures to safeguard Personal Information in its possessio
 ## Links to Other Websites
 
 NBAA.org includes links to and advertisements for other third-party websites. NBAA takes no responsibility for the content or information contained on those sites. These websites may have their own distinct privacy policies or no posted policies at all, and may use your Personal Information in ways not permitted by the NBAA Website Privacy Policy. NBAA encourages you **** to review the privacy policies of any site before providing your Personal Information to them.
+
+## Collection and Use of Non-Personal Information
+
+NBAA may also collect information that does not identify a specific person (“Non-Personal Information”) from website visitors. This information may be collected by or shared with third-party vendors and partners, such as Google. The other provisions of this policy do not apply to such information, unless it is combined with Personal Information. NBAA and its partners may use cookies and other technologies to automatically collect Non-Personal Information, such as location, time zone, IP address, browser type, pages viewed, referral sources and frequency of visits. This information is used by NBAA to improve NBAA.org, track usage, market products and services, and for security purposes.
+
+NBAA may use tools, such as Google Analytics for Display Advertising and Remarketing with Google Analytics. These tools allow NBAA to promote our products and services to website visitors after they have visited the NBAA website. You may opt out of Google Analytics for Display Advertising by visiting the [Google Ads Preferences Manager](http://www.google.com/privacy_ads.html). You may also install the [Google Analytics opt-out browser add-on](http://tools.google.com/dlpage/gaoptout).
 
 ## Access to Your Personal Information and Choices Regarding Use
 
