@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beyonddiet.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103011809id_/http%3A//www.beyonddiet.com/Members/Pages/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyonddiet.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612051928id_/http%3A//www.beyonddiet.com/Members/Pages/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Beyond Diet
 
-LIVE SMART SOLUTIONS LLC, a Nevada limited liability company (“LIVE SMART SOLUTIONS”) is engaged in the business of selling the The Beyons Diet Program Products and distributing information in the form of newsletters, current research, and articles and selling e-books, audios and videos (“Products”) associated with nutrition, diet, health and overall well-being through its web site [ http://www.beyonddiet.com](http://www.beyonddiet.com/) (the “Web Site”). Therefore, routinely, in the course of business, LIVE SMART SOLUTIONS may receive personally identifiable information such as your email address in addition to other information secured by our service providers such as your credit card, telephone number and address (“Personal Information”). In an effort to secure our customer’s trust and confidence, we have taken various measures to protect your privacy relating to you and your transactions conducted on our Web Site, or through any of our active service providers, such as Clickbank.com (“Affiliate”). Clickbank.com is a third party online retailer specializing in digitally delivered products that accepts all online product orders for LIVE SMART SOLUTIONS as more specifically described below (see Third Party Financial Institutions & Affiliates).
+LIVE SMART SOLUTIONS LLC, a Nevada limited liability company (“LIVE SMART SOLUTIONS”) is engaged in the business of selling the The Beyond Diet Program Products and distributing information in the form of newsletters, current research, and articles and selling e-books, audios and videos (“Products”) associated with nutrition, diet, health and overall well-being through its web site [ http://www.beyonddiet.com ](http://www.beyonddiet.com/) (the “Web Site”). Therefore, routinely, in the course of business, LIVE SMART SOLUTIONS may receive personally identifiable information such as your email address in addition to other information secured by our service providers such as your credit card, telephone number and address (“Personal Information”). In an effort to secure our customer’s trust and confidence, we have taken various measures to protect your privacy relating to you and your transactions conducted on our Web Site, or through any of our active service providers, such as Clickbank.com (“Affiliate”). Clickbank.com is a third party online retailer specializing in digitally delivered products that accepts all online product orders for LIVE SMART SOLUTIONS as more specifically described below (see Third Party Financial Institutions & Affiliates). 
 
 This Privacy Policy describes the Personal Information we obtain from you, what we do with your Personal Information, the safeguard measures we, or our Affiliate has in place to protect it, and to what extent you can control our use of such Personal Information. By using the Web Site, the user agrees, without limitation or qualification, to be bound by this Privacy Statement.
 
@@ -15,6 +15,12 @@ When you purchase e-books, audios and videos on our Web Site, you must submit pa
 **Passive Collection of Personal Information**
 
 LIVE SMART SOLUTIONS reserves the right to passively collect information related to usage of its Web Site such as time spent on the Web Site, areas visited, and sites linked to and from the Web Site. Please be advised that the Web Site may collect additional information and may install cookies on members’ hard drives. The use of cookies will allow us to improve our Web Site based on the user’s preferences and is a widely used industry practice of online businesses. However, the cookies are stored on the user’s computer, not on our Web Site. If you do not wish to receive cookies, or would like notification of when they are placed on your computer, you may set your browser accordingly, if permitted.
+
+LIVE SMART SOLUTIONS also uses Google Analytics for Display Advertisers. You can opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting the [Ads Preferences Manager](http://www.google.com/settings/ads/onweb/). Alternatively, if you wish to opt out of customized Google Display Network ads, you can use the [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout/).
+
+LIVE SMART SOLUTIONS also uses remarketing to advertise online. This means that third-party vendors, including Google, show ads from LIVE SMART SOLUTIONS on sites across the Internet.
+
+LIVE SMART SOLUTIONS and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to the website of LIVE SMART SOUTIONS.
 
 **Security of Personal Information** :
 
@@ -30,7 +36,7 @@ LIVE SMART SOLUTIONS will not disclose Personal Information collected from users
 
 **Other Uses of Personal Information**
 
-LIVE SMART SOLUTIONS also uses Personal Information, including information provided to us from our service providers, to continually assess and improve the products and services we offer. To serve you better, we may combine the Personal Information that you give us with publicly available information and information we receive from or cross-reference with our marketing partners and others. We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes.
+LIVE SMART SOLUTIONS also uses Personal Information, including information provided to us from our service providers, to continually assess and improve the products and services we offer. To serve you better, we may combine the Personal Information that you give us with publicly available information and information we receive from or cross- reference with our marketing partners and others. We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes.
 
 **Promotional Information and Marketing Materials**
 
@@ -42,7 +48,7 @@ If you would like to stop receiving such promotional information from our Web Si
 
 **Changes to this Privacy Policy**
 
-If this Privacy Policy is modified, the revised policy will be posted on this site within a reasonable time. Please check this Web Site periodically, specifically before you provide any Personal Information. This Privacy Policy was last updated on November 7, 2011.
+If this Privacy Policy is modified, the revised policy will be posted on this site within a reasonable time. Please check this Web Site periodically, specifically before you provide any Personal Information. This Privacy Policy was last updated on December 6, 2012.
 
 **Application of United States Law**
 
@@ -54,14 +60,14 @@ Some of our operations, such as our electronic commerce, may be managed by servi
 
 **Privacy Preferences / Opt-Out** : The Web Site offers users the ability to opt out of receiving further email updates on fitness, nutrition, and exercise by clicking on a link where you can change your preferences to receive or not receive marketing, newsletter, and informational materials. You may update these preferences at any time. You may also change your marketing preferences or remove yourself from our mailing list by clicking on an "unsubscribe" hyperlink contained at the bottom of the promotional emails we send to you.
 
-**Our Privacy Statement and Outside Links** : This Privacy Policy only applies to this Web Site. Our Web Site may include links to the web sites of our business partners, vendors and advertisers. These other sites are outside of our control. Please be aware that these websites may collect information about you, and operate according to their own privacy practices which may differ from those contained in our Privacy Statement. Please read carefully that web site's own privacy policy, as once you are leave our Web Site, any information you submit is no longer in our control.
+**Our Privacy Statement and Outside Links** : This Privacy Policy only applies to this Web Site. Our Web Site may include links to the web sites of our business partners, vendors and advertisers. These other sites are outside of our control. Please be aware that these websites may collect information about you, and operate according to their own privacy practices which may differ from those contained in our Privacy Statement. Please read carefully that web site's own privacy policy, as once you leave our Web Site, any information you submit is no longer in our control.
 
-**Contacting Us** : If you have any questions concerning our Privacy Policy, a member (or any other user of this Web Site) you may contact us at: LIVE SMART SOLUTIONS, Inc. with its principal address located at 3405 Salterbeck Street Suite 200D Mt. Pleasant, SC 29466, or via email at info [at] beyonddiet.com.
+**Contacting Us** : If you have any questions concerning our Privacy Policy, a member (or any other user of this Web Site) you may contact us at: LIVE SMART SOLUTIONS, Inc. with its principal address located at 2345 7th Street, Denver, CO 80211, or via email at info [at] beyonddiet.com.
 
 LIVE SMART SOLUTIONS LLC  
-3405 Salterbeck Street Suite 200D  
-Mt. Pleasant, SC 29466 
+2345 7th Street  
+Devner, CO 80211 
 
-Last Updated: January 22, 2009
+Last Updated: December 6, 2012
 
-Copyright © 2008 All rights reserved.
+Copyright © 2013 All rights reserved.
