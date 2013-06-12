@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpgmag.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920030906id_/http%3A//jpgmag.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpgmag.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612054607id_/http%3A//jpgmag.com/about/privacy) for the most accurate reproduction.*
 
 # JPG: About: Privacy policy
 
