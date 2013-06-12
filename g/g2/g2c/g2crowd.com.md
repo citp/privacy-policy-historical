@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the g2crowd.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210230808id_/http%3A//www.g2crowd.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g2crowd.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613000337id_/http%3A//www.g2crowd.com/static/privacy) for the most accurate reproduction.*
 
-# G2 Crowd - Business Technology Ratings and Reviews
+# G2 Crowd - Privacy
 
 G2Crowd.com is an online service that provides recommendations, reviews, and best practice information for technology product and services. This Website is owned and operated by G2 Labs, Inc. (“G2”). More details about G2Labs, Inc. can be found below under www.g2labs.net. 
 
