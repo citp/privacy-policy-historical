@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolchaser.us privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230203754id_/http%3A//www.coolchaser.us/l/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolchaser.us privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612140200id_/http%3A//www.coolchaser.us/l/privacy_policy) for the most accurate reproduction.*
 
 # My Coolchaser: Facebook and MySpace 1.0 Layouts, Cool Layouts for Facebook and MySpace 1.0, Facebook and MySpace 1.0 Backgrounds Layouts
 
@@ -81,7 +81,8 @@ CoolChaser may update this policy at any time for any reason.
 If you have questions or suggestions you can contact us at:
 
 Next Small Things  
-193 Waverley St Suite 6502  
+193 Waverley Street  
+Suite 6502  
 Palo Alto, California 94301  
-USA  
-email: copyright@nextsmallthings.com 
+United States of America  
+Email: contact@nextsmallthings.com 
