@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridatrend.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211190704id_/http%3A//www.floridatrend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridatrend.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612165650id_/http%3A//www.floridatrend.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Our postal address is **490 1st Ave. S., 8th floor, St. Petersburg, FL 33701**.
 
 We can be reached by email at [webmaster@floridatrend.com](mailto:webmaster@floridatrend.com) or **(727) 821-5800**.
 
-Your use of our websites indicates to us that you have read and accepted this **Privacy Policy** and our [Terms and Conditions](https://web.archive.org/web/20121211190704id_/http%3A//privacy-policy).
+Your use of our websites indicates to us that you have read and accepted this **Privacy Policy** and our [Terms and Conditions](https://web.archive.org/web/20130612165650id_/http%3A//privacy-policy).
 
 Our web sites use "cookies," an element of data sent and stored on your computer. We use cookies the following ways: In site administration, to complete a user's requested activity, to target specific information, to perform analysis and for research and development.
 
@@ -29,12 +29,10 @@ If you wish to discontinue receiving communications from us at any time, please 
 
 Florida Trend Video Pick
 
-A San Antonio architecture firm set up inflatable buildings and a cube built of 16,000 Jarritos soda bottles in the Design District for Art Basel week.
+[](https://web.archive.org/video-picks)
+
+[](https://web.archive.org/video-picks)
+
+In spring 2014 Busch Gardens Tampa is taking guests' experiences to new heights with Falcon's Fury, the first drop tower of its kind in the world. With no connecting structures, it will be the tallest freestanding drop tower in North America.
 
 **[Earlier Videos](https://web.archive.org/video-picks/)**
-
-Ballot Box
-
-As the year winds down, how was 2012 for your business?
-
-[See Results](https://web.archive.org/ballot-box?show=results)
