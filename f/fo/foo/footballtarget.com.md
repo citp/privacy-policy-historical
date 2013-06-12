@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the footballtarget.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210120739id_/http%3A//www.footballtarget.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballtarget.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612232439id_/http%3A//www.footballtarget.com/privacy) for the most accurate reproduction.*
 
-# Football Target | Privacy Football Target
+# Privacy Football Target - Football Target
 
 What information do we collect? 
 
