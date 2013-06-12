@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saylor.org privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213020156id_/http%3A//www.saylor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saylor.org privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613000817id_/http%3A//www.saylor.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Saylor.org – Free Online Courses Built by Professors
 
