@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ukbettingcentral.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015234649id_/http%3A//www.ukbettingcentral.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukbettingcentral.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612184127id_/http%3A//www.ukbettingcentral.com/privacy-policy.html) for the most accurate reproduction.*
 
-# UK BettingCentral - Privacy Policy
+# UKBettingcentral - Privacy Policy
 
 **Website privacy notice**
 
