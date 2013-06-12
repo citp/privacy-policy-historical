@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabreakingnews.co.za privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210130613id_/http%3A//www.sabreakingnews.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabreakingnews.co.za privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613014443id_/http%3A//www.sabreakingnews.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SA Breaking News
 
@@ -100,4 +100,6 @@ The contents of this privacy policy shall be governed by South African Law.
 
 **11\. CONTACT**
 
-Questions, comments and requests regarding this privacy policy are welcomed. Contact details are available on our website.
+Questions, comments and requests regarding this privacy policy are welcomed. Contact details are available on our website. 
+
+103 total views, 3 views today
