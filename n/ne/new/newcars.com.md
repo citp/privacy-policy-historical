@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the newcars.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117182805id_/http%3A//www.newcars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcars.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613011636id_/http%3A//www.newcars.com/privacy) for the most accurate reproduction.*
 
 # NewCars.com Privacy Policy
 
 ### Introduction
 
 Welcome to NewCars.com (the “Site”), a member of the Better Business Bureau of the Southland, Inc.
-
-[](https://web.archive.org/index.php/Redirect?http://www.la.bbb.org/BusinessReport.aspx?CompanyID=13183835&source=ctc)
 
 We provide this statement explaining our online information practices, To make this notice easy to find, we make it available through a link on all of our pages.
 
