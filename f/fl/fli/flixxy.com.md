@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the flixxy.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101131751id_/http%3A//www.flixxy.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixxy.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613004001id_/http%3A//www.flixxy.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Flixxy.com Privacy Policy
-
-Privacy Policy - www.flixxy.com ****
 
 **The privacy of our visitors to Flixxy.com is important to us.**
 
@@ -31,11 +29,6 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 Flixxy.com maintains a strict "no-spam" policy. If you contact us by e-mail, your e-mail address will not be sold to a third party.
 
-****
-
 Please [contact us](mailto:contactus@flixxy.com?subject=Comment%20about%20Flixxy.com%20Privacy%20Policy) if you have any questions and suggestions.
-
-   
- 
 
 .
