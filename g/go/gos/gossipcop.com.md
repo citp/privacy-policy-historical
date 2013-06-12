@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gossipcop.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230234527id_/http%3A//www.gossipcop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossipcop.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612062438id_/http%3A//www.gossipcop.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Gossip Cop
 
