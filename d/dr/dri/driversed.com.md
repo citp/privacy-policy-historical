@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driversed.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113141056id_/http%3A//driversed.com/about-us/privacy-statement.aspx%3Fnavtr%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversed.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612031415id_/http%3A//www.driversed.com/about-us/privacy-statement.aspx%3Fnavtr%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Statement - DriversEd.com
 
@@ -14,12 +14,11 @@ Your privacy is important to us. We'll never share your information with anyone 
   * Cookies
   * Correcting/Updating/Deleting Personal Information
   * Customer Service
-  * Facebook Connect
   * Information Collection
   * Information Use
-
-
   * Links
+
+
   * Notification of Changes
   * Publicly Posted Information
   * Registration
@@ -28,6 +27,7 @@ Your privacy is important to us. We'll never share your information with anyone 
   * Sharing Legal Disclaimer
   * Social Media Widgets
   * Surveys
+  * Testimonials
   * Third Party Service Providers
   * Unsubscribe
 
@@ -35,13 +35,13 @@ Your privacy is important to us. We'll never share your information with anyone 
 
 * * *
 
-[](http://www.truste.org/ivalidate.php?url=www.driversed.com&sealid=101)
+[](https://privacy.truste.com/privacy-seal/Interactive-Solutions,-Inc-/validation?rid=44f82528-f2f5-4ed1-836d-cdd02f47149d "TRUSTe online privacy certification")
 
-Date Revised: September 4, 2012
+Date Revised: May 9, 2013
 
-This privacy statement describes how Interactive Solutions, Inc. collects and uses the personal information you provide on our Web sites: www.webtrafficschool.com, www.24x7drivingschool.com and www.DriversEd.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy describes how Interactive Solutions, Inc. ("Interactive Solutions") collects and uses the personally identifiable information you provide on our website, [http://DriversEd.com](https://web.archive.org/web/20130612031415id_/http%3A//www.driversed.com/). It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
 
-[Interactive Solutions, Inc.](https://web.archive.org/web/20121113141056id_/http%3A//driversed.com/) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through these Web sites: www.webtrafficschool.com, www.24x7drivingschool.com and www.DriversEd.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@DriversEd.com](mailto:info@driversed.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+[Interactive Solutions](https://web.archive.org/web/20130612031415id_/http%3A//www.driversed.com/)[,](https://web.archive.org/web/20130612031415id_/http%3A//www.driversed.com/)[ Inc.](https://web.archive.org/web/20130612031415id_/http%3A//www.driversed.com/) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program covers only information that is collected through our website, [http://DriversEd.com](https://web.archive.org/web/20130612031415id_/http%3A//www.driversed.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@DriversEd.com](mailto:info@driversed.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 * * *
 
@@ -53,13 +53,13 @@ We do not share aggregated demographic information with anyone. We use this info
 
 **Associate Center**
 
-If a user elects to become an associate and use our referral service for informing a friend about our site, once the referred friend decides to take a course, we request they provide their email address or drivers license number as a discount code. Interactive Solutions stores this information for the sole purpose of tracking the success of our referral program. If a user wishes to delete, edit, or access their information, they may do so by logging into their account or by sending an email to [info@driversed.com](mailto:info@driversed.com), [info@webtrafficschool.com](mailto:info@webtrafficschool.com), or [info@24x7drivingschool.com](mailto:info@24x7drivingschool.com). The emails sent to friends of the users are one-time emails. The friends of the users will not receive any more emails unless they choose to receive more emails or if they become a registered member of our site. Depending on the particular associate program, the referral may receive a discount for our course. Once payment has been received from a referral, the associate will receive a commission payment.
+If a user elects to become an associate and use our referral service for informing a friend about our site, once the referred friend decides to take a course, we request they provide their email address or drivers license number as a discount code. Interactive Solutions stores this information for the sole purpose of tracking the success of our referral program. If a user wishes to delete, edit, or access their information, they may do so by logging into their account or by sending an email to [info@driversed.com](mailto:info@driversed.com). The emails sent to friends of the users are one-time emails. The friends of the users will not receive any more emails unless they choose to receive more emails or if they become a registered member of our site. Depending on the particular associate program, the referral may receive a discount for our course. Once payment has been received from a referral, the associate will receive a commission payment.
 
 * * *
 
 **Business Transitions**
 
-In the event Interactive Solutions goes through a business transition, such as a merger, acquisition by another company, or sells a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email and a prominent notice will be placed on our websites for 30 days prior to change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection, they will be given a choice consistent with our notification changes.
+In the event Interactive Solutions goes through a business transition, such as a merger, acquisition by another company, or sells a portion of its assets, users' personally identifiable information will, in most instances, be part of the assets transferred. Users will be notified via email and a prominent notice will be placed on our websites for 30 days prior to change of ownership or control of their personally identifiable information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection, they will be given a choice consistent with our notification changes.
 
 * * *
 
@@ -71,13 +71,23 @@ We provide a way to opt-out of our news, promotion, and associate emails. Users 
 
 * * *
 
+**Contact Information**
+
+If users have any questions or suggestions regarding our privacy policy, please contact us at:
+
+Interactive Solutions, Inc.  
+283 4th St., Suite 301  
+Oakland, CA 94607  
+1-888-651-AUTO (2886)  
+[info@driversed.com](mailto:info@driversed.com)
+
 * * *
 
 **Cookies**
 
 A cookie is a piece of data stored on the user's computer tied to information about the user in our servers. Cookies are only data used to “remember” where you are when visiting a website—they cannot erase or read any data on your computer. Cookies are linked to personally identifiable information while on our site. The cookies help to keep track of the user's progress while on our sites. They keep a record of the times and dates you log in and out of each section of the course. They also help our websites to remember where users log off in their individual courses. It is necessary for the users to enable cookies, as some certain features will not work without them.
 
-The use of cookies by our partners and affiliates is not covered by our privacy statement. We do not have access or control over these cookies. Our partners and affiliates may use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart and other payment methods.
+The use of cookies by our partners and affiliates is not covered by our privacy policy. We do not have access or control over these cookies. Our partners and affiliates may use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart and other payment methods.
 
 Like most standard website servers we use log files. This includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses are tied to personally identifiable information to enable our web-based service (for details see below).
 
@@ -87,13 +97,13 @@ We may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bu
 
 We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
-We also use Click Chat software to operate our online customer service chat room. No new personal information is collected during these chat sessions.
+We also use Click Chat software to operate our online customer service chat room. No new personally identifiable information is collected during these chat sessions.
 
 * * *
 
-**Correcting/Updating/Deleting Personal Information**
+**Correcting/Updating/Deleting Personally Indentifiable Information**
 
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), we provide a way to correct, update or delete users' personally identifiable information. This can usually be done at the course "Summary" section or by emailing our Customer Support at either [info@driversed.com](mailto:info@driversed.com), [info@webtrafficschool.com](mailto:info@webtrafficschool.com), or [info@24x7drivingschool.com](mailto:info@24x7drivingschool.com). [Or use our telephone and postal information listed in the Contact Information section.]
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), we provide a way to correct, update or delete users' personally identifiable information. This can usually be done at the course "Summary" section or by emailing our Customer Support at [info@driversed.com](mailto:info@driversed.com). [Or use our telephone and postal information listed in the Contact Information section.]
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -102,12 +112,6 @@ We will retain your information for as long as your account is active or as need
 **Customer Service**
 
 We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email, online live support, or phone, in accordance with the user’s preferences.
-
-* * *
-
-**Facebook Connect**
-
-If such are available, you can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
 * * *
 
@@ -127,27 +131,27 @@ The personally identifiable information we collect online is used for verificati
 
 **Links**
 
-Our websites contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our sites and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by Interactive Solutions.
+Our websites contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our sites and to read the privacy policies of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by Interactive Solutions.
 
 * * *
 
 **Notification of Changes**
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
+If we decide to change our privacy policy, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
 
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with our sites, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our websites notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email prior to the change becoming effective. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with our sites, or deleted/deactivated their account, then they will not be contacted, nor will their personally identifiable information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our websites notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
 * * *
 
 **Publicly Posted Information**
 
-One section of our DriversEd.com website titled, “I Am Not A Statistic” allows our members to write into the website and share stories to help discourage dangerous driving. When submitting stories to our site in order to have them posted, no personally identifiable information is requested from the user. However if the user includes his or her personally identifiable information in the story, it may be posted publicly on the website. Interactive Solutions is not responsible for any personally identifiable information you choose to post in this form. To request removal of your personal information from our public forum, contact us at [info@driversed.com](mailto:info@driversed.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+One section of our DriversEd.com website titled, “I Am Not A Statistic” allows our members to write into the website and share stories to help discourage dangerous driving. When submitting stories to our site in order to have them posted, no personally identifiable information is requested from the user. However if the user includes his or her personally identifiable information in the story, it may be posted publicly on the website. Interactive Solutions is not responsible for any personally identifiable information you choose to post in this form. To request removal of your personally identifiable information from our public forum, contact us at [info@driversed.com](mailto:info@driversed.com). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
 
 * * *
 
 **Registration**
 
-In order to use the DriversEd.com, WebTrafficSchool.com, and 24x7DrivingSchool.com websites you must first enroll in a course. During enrollment you are required to give us your contact information (such as name, address and email address). For traffic school, we require your drivers license number, which is a unique identifier that will enable you to log into our course after the initial enrollment process. We also require personal information such as the last four digits of your social security number (in Florida and Georgia your full social security number is required), date of birth, height, weight, and eye color. Bank account and routing numbers are collected if you decide to pay by personal check. If you wish to update your account information, please email the appropriate website at [info@driversed.com](mailto:info@driversed.com), [info@webtrafficschool.com](mailto:info@webtrafficschool.com), or [info@24x7drivingschool.com](mailto:info@24x7drivingschool.com).
+In order to use any of our websites you must first enroll in a course. During enrollment you are required to give us your contact information (such as name, address and email address). For traffic school, we require your drivers license number, which is a unique identifier that will enable you to log into our course after the initial enrollment process. We also require personally identifiable information such as the last four digits of your social security number (in Florida and Georgia your full social security number is required), date of birth, height, weight, and eye color. Bank account and routing numbers are collected if you decide to pay by personal check. If you wish to update your account information, please email the appropriate website.
 
 * * *
 
@@ -157,7 +161,7 @@ Our websites take every precaution to protect our users' information. When users
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Employees have their own user name and password to access student's information in the database. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every year as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment.
 
-If users have any questions about the security of our websites, users can send an email either to [info@driversed.com](mailto:info@driversed.com), [info@webtrafficschool.com](mailto:info@webtrafficschool.com), or [info@24x7drivingschool.com](mailto:info@24x7drivingschool.com).
+If users have any questions about the security of our websites, users can send an email either to the appropriate website.
 
 * * *
 
@@ -169,7 +173,7 @@ Sometimes it might be necessary to send out a strictly service related announcem
 
 **Sharing Legal Disclaimer**
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our websites.
+Though we make every effort to preserve user privacy, we may need to disclose personally identifiable information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our websites.
 
 * * *
 
@@ -185,11 +189,17 @@ After the course completion, our site requests information from users via survey
 
 * * *
 
+**Testimonials**
+
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at info@driversed.com. 
+
+* * *
+
 **Third Party Service Providers**
 
 We use an outside shipping company to ship orders, a live chat is provided to assist you if you have questions while user our service and a credit card processing company to bill users for goods and services. We use two court assigned agents, Coordinated Court Services (CCS) and the National Traffic Safety Administration (NTSA), to print certificates of completion for certain counties in California. Our system only sends information that is required by the court to CCS and the NTSA to enable them to print certificates of completion, such as the student’s name, drivers license number, and court docket number. For the States of Virginia and Florida, we have contracted with outside agents in each state to offer customer support and to print traffic school certificates of completion. These agents do not collect any personally identifiable information. They merely access our database to offer customer support to students in the respective states, and to print certificates of completion. They do not retain, share, store or use personally identifiable information for any secondary purposes.
 
-We do not share website usage information about users with any third party companies except for occasional Google Site Stats ads delivered by Google. These are used by Interactive Solutions and Google to measure the performance of the advertising Google delivers to Interactive Solutions through the use of cookies, small strings of text that are placed on your computer when you click on ads. These cookies typically remain active on your computer for about 30 days. If you visit certain pages on DriversEd.com, WebTrafficSchool.com, or 24x7DrivingSchool.com, Google and our sites will confirm that you saw the ad delivered by Google.
+We do not share website usage information about users with any third party companies except for occasional Google Site Stats ads delivered by Google. These are used by Interactive Solutions and Google to measure the performance of the advertising Google delivers to Interactive Solutions through the use of cookies, small strings of text that are placed on your computer when you click on ads. These cookies typically remain active on your computer for about 30 days. If you visit certain pages on our websites, Google and our sites will confirm that you saw the ad delivered by Google.
 
 For more information about Google Site Stats please visit: http://services.google.com/sitestats/en_US.html.
 
@@ -197,4 +207,4 @@ For more information about Google Site Stats please visit: http://services.googl
 
 **Unsubscribe**
 
-Users who no longer wish to receive email correspondence from Interactive Solutions may opt-out of receiving communications by clicking on the unsubscribe link in the email, or emailing the appropriate website at [info@driversed.com](mailto:info@driversed.com), [info@webtrafficschool.com](mailto:info@webtrafficschool.com), or [info@24x7drivingschool.com](mailto:info@24x7drivingschool.com). The user may contact us at 888-651-2886, the above listed email addresses, or Interactive Solutions, Inc., P.O. Box 209, Oakland, CA 94604 to opt-out.
+Users who no longer wish to receive email correspondence from Interactive Solutions may opt-out of receiving communications by clicking on the unsubscribe link in the email, or emailing the appropriate website. The user may contact us at 888-651-2886, the email addresses listed on the websites, or Interactive Solutions, Inc., P.O. Box 209, Oakland, CA 94604 to opt-out.
