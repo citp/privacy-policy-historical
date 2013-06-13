@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthyplace.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213151845id_/http%3A//www.healthyplace.com/about-healthyplace/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyplace.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613050706id_/http%3A//www.healthyplace.com/about-healthyplace/about-us/privacy-policy) for the most accurate reproduction.*
 
 # HealthyPlace.com Privacy Statement - HealthyPlace
 
-[](http://www.addthis.com/bookmark.php?v=250&pubid=healthyplace)
+[](http://www.addthis.com/bookmark.php?v=300&pubid=healthyplace)
 
 [](http://www.healthyplace.com/component/option,com_mailto/link,4f547af16364465c4d2a755a65477c87d891bf8b/tmpl,component/ "E-mail")
 
@@ -28,8 +28,7 @@ Most browsers are initially set up to accept cookies. You can reset your browser
 
 Users should be aware that when you are on HealthyPlace.com, you could be directed to other sites that are beyond our control. There are links to other sites from HealthyPlace.com pages that take you outside our service. For example, if you "click" on a banner advertisement or a "referral link to another site", the "click" takes you off the HealthyPlace.com website. This includes links from some advertisers, site sponsors and partners that may use HealthyPlace.com's logo as part of a co-branding agreement. These other sites may send their own cookies to users, collect data or solicit personal information. Always be aware of where you end up!
 
-#### KEEPING YOUR PERSONAL INFORMATION PRIVATE  
-
+#### KEEPING YOUR PERSONAL INFORMATION PRIVATE
 
 Please keep in mind that whenever you give out personal information online --- for example, via the HealthyPlace Support Network bulletin boards, blogs or chat --- that information can be collected and used by people you don't know. While HealthyPlace.com strives to protect its user's personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk. You should also know that if you post anything in the HealthyPlace Support Network, you can modify that content anytime by logging in and clicking the "edit" link for your post.
 
@@ -57,4 +56,4 @@ reviewed by:
 Harry Croft, MD (Psychiatrist)  
 Medical Director, HealthyPlace.com 
 
-Created on 03 January 2009  Last Updated on 12 March 2009 
+Created on 03 January 2009  Last Updated on 30 January 2013 
