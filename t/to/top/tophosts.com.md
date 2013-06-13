@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the tophosts.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615041817id_/http%3A//www.tophosts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tophosts.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613040835id_/http%3A//www.tophosts.com/privacy.html) for the most accurate reproduction.*
 
-# Web Hosting Resource and Directory since 1997 - Tophosts.com
+# Privacy Statement - TopHosts
 
 | 
 
-**VerticalScope Inc. - Privacy Statement**
+**VerticalScope Inc. – Privacy Statement**
 
 VerticalScope Inc. (hereafter referred to as VerticalScope) has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
 **What this Privacy Statement Covers**
 
-  * This privacy statement covers VerticalScope's treatment of personally identifiable information collected by VerticalScope through a website owned and operated by VerticalScope. 
-  * This privacy statement does not apply to the practices of companies that VerticalScope does not own or control, or of persons that VerticalScope does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which VerticalScope's websites link. 
+  * This privacy statement covers VerticalScope’s treatment of personally identifiable information collected by VerticalScope through a website owned and operated by VerticalScope. 
+  * This privacy statement does not apply to the practices of companies that VerticalScope does not own or control, or of persons that VerticalScope does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which VerticalScope’s websites link. 
 
 
 
@@ -74,4 +74,5 @@ VerticalScope Inc. (hereafter referred to as VerticalScope) has created this pri
 
   * If you have questions or suggestions about this privacy statement, or your own personal information, please e-mail us at [privacypolicy@verticalscope.com.](mailto:privacypolicy@verticalscope.com)
 
-
+  
+---|---
