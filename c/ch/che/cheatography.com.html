@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cheatography.com privacy policy that was archived on 2012-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121213042449id_/http%3A//www.cheatography.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cheatography.com privacy policy that was archived on 2013-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130613121714id_/http%3A//www.cheatography.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
 
@@ -47,10 +47,16 @@
         <![endif]-->
 
         <script type="text/javascript"><!--
+
             $(document).ready(function () {
 
                 jQuery.expr[':'].icontains = function(a, i, m) {
-                    return jQuery(a).text().toUpperCase().indexOf(m[3].toUpperCase()) >= 0;
+                    var elText = jQuery(a).text();
+                    elText = elText.replace(/\&#173;/g, ''); // Remove soft hyphens
+                    elText = elText.replace(/­/g, ''); // Looks like it's replacing nothing, but it's not! Within those slashes is a rendered version of a soft hyphen.
+                    elText = elText.replace(/<(?:.|\n)*?>/gm, ''); // Strip HTML
+                    elText = elText.toUpperCase();
+                    return elText.indexOf(m[3].toUpperCase()) >= 0;
                 };
 
 
@@ -107,11 +113,15 @@
                 $('#cs_filter').keyup(function(e) {
                     var filter = $(this).val();
                     if (filter.length > 0) {
+                        // Start by hiding everything
                         $('.cheat_sheet_output_block tr').hide();
+                        $('.cheat_sheet_output_block .cheat_sheet_note').hide();
+
+                        // Now show matching rows and blocks
                         $('.cheat_sheet_output_block tr').find("td:icontains(" + filter + ")").parent().show();
                         $(".cheat_sheet_output_wrapper h3:icontains(" + filter + ")").parent().find("tr").show();
-                        $('.cheat_sheet_output_block .cheat_sheet_note').hide();
                         $(".cheat_sheet_output_block .cheat_sheet_note:icontains(" + filter + ")").show();
+
                     } else {
                         $('.cheat_sheet_output_block tr').show();
                         $('.cheat_sheet_output_block .cheat_sheet_note').show();
@@ -140,7 +150,7 @@
                 if ($('#cs_filter')) {
                     $('#cs_filter').focus();
                 }
-                
+
                 /*$( ".cheat_sheet_output_column_1, .cheat_sheet_output_column_2, .cheat_sheet_output_column_3" ).sortable({
                     connectWith: ".cheat_sheet_output_sortable",
                     stop: function(event, ui) { setCsOrder(); }
@@ -174,7 +184,7 @@
                 });
                 // Awesome. Got the list of block IDs, by column, for this cheat sheet. Send it to PHP.
                 $.post('/ajax.php?action=reorder_cheat_sheet', csOrder, function(data) {
-                    
+
                 });
 
             }
@@ -234,8 +244,10 @@
             <li><a href="/explore/">Cheat Sheets</a>
                 <ul>
                     <li><a href="/explore/top/">Top Cheat Sheets</a></li>
-                    <li><a href="/explore/new/">By Date</a></li>
-                    <li><a href="/explore/popular/">By Popularity</a></li>
+                    <li><a href="/explore/new/">This Month</a></li>
+                    <li><a href="/explore/popular/">Most Viewed</a></li>
+                    <li><a href="/explore/downloaded/">Most Downloaded</a></li>
+                    <li><a href="/explore/commented/">Most Commented On</a></li>
                     <li><a href="/explore/tags/">By Tag</a></li>
                     <li><a href="/explore/downloads/">Recently Downloaded</a></li>
                     <li><a href="/external/">Elsewhere (Links)</a></li>
@@ -359,15 +371,15 @@
             
                     <div id="sidebar" class="sidebar"><div id="sidebar_inner"><!-- help --><div class="sidebar_box">
     <div class="sidebar_box_first_row"><h4>Cheatography?</h4></div>
-    <div class="sidebar_box_row">Cheatography is a collection of 138 cheat sheets and quick references for everything from programming to science, like the <a href="/kgoedert/cheat-sheets/vim/">Vim Cheat Sheet</a>. <a href="/about/">Find out more</a>.</div>
+    <div class="sidebar_box_row">Cheatography is a collection of 185 cheat sheets and quick references for everything from art to maths, like the <a href="/karionis/cheat-sheets/html5-deutsch/">HTML5 deutsch Cheat Sheet</a>. <a href="/about/">Find out more</a>.</div>
     <div class="sidebar_box_row">Cheatography is in beta while we iron out the last few bugs. Please <a href="http://getsatisfaction.com/cheatography">get in touch</a> with any ideas, suggestions or problems!</div>
 </div><div class="sidebar_box">
     <div class="sidebar_box_first_row"><h4>Recent Activity</h4></div>
-            <div class="sidebar_box_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="zipcodeman/"><img class="gravatar" src="http://www.gravatar.com/avatar/fb9d27d853c9ffa641b325f910d82f63?d=wavatar&amp;s=32" width="32" height="32" alt="zipcodeman"></a> <a href="zipcodeman/" class="user_hover">zipcodeman</a> updated <a href="/zipcodeman/cheat-sheets/ee122/">EE122</a>. <span class="sidebar_event_date">23 mins 13 secs ago</span></div>
-            <div class="sidebar_box_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="krabat1/"><img class="gravatar" src="http://www.gravatar.com/avatar/1298e9e7b9cd373fc4f0d3944d75514d?d=wavatar&amp;s=32" width="32" height="32" alt="krabat1"></a> <a href="krabat1/" class="user_hover">krabat1</a> updated <a href="/krabat1/content/php-array-functions/">PHP Array Functions</a>. <span class="sidebar_event_date">16 hours 35 mins ago</span></div>
-            <div class="sidebar_box_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="cwarrior/"><img class="gravatar" src="http://www.gravatar.com/avatar/9d91bcfbea580c2d09ff261f2297a944?d=wavatar&amp;s=32" width="32" height="32" alt="cwarrior"></a> <a href="cwarrior/" class="user_hover">cwarrior</a> updated <a href="/cwarrior/content/keyboard-shortcuts/">Keyboard Shortcuts</a>. <span class="sidebar_event_date">21 hours 34 mins ago</span></div>
-            <div class="sidebar_box_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="dimitrios/"><img class="gravatar" src="http://www.gravatar.com/avatar/c1307d71efe21a289a00e429c18ab5d1?d=wavatar&amp;s=32" width="32" height="32" alt="dimitrios"></a> <a href="dimitrios/" class="user_hover">dimitrios</a> updated <a href="/dimitrios/content/customization/">Customization</a>. <span class="sidebar_event_date">1 day 5 hours ago</span></div>
-            <div class="sidebar_box_row sidebar_box_last_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="rhae66/"><img class="gravatar" src="http://www.gravatar.com/avatar/3b30d3a350e97cb6cd1ff13cf7092aae?d=wavatar&amp;s=32" width="32" height="32" alt="rhae66"></a> <a href="rhae66/" class="user_hover">rhae66</a> updated <a href="/rhae66/content/equity/">Equity</a>. <span class="sidebar_event_date">2 days 9 hours ago</span></div>
+            <div class="sidebar_box_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="proloser/"><img class="gravatar" src="http://www.gravatar.com/avatar/ae341f7eb365518d32b1b6bec287fa8b?d=http%3A%2F%2Fgraph.facebook.com%2F15105302%2Fpicture%3Fsize%3Dsquare&amp;s=32" width="32" height="32" alt="ProLoser"></a> <a href="proloser/" class="user_hover">ProLoser</a> updated <a href="/proloser/cheat-sheets/bacon-js/">Bacon.js</a>. <span class="sidebar_event_date">1 day 16 hours ago</span></div>
+            <div class="sidebar_box_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="blueskydigi/"><img class="gravatar" src="http://www.gravatar.com/avatar/69e1a554fda3e67c47365ba264f40c44?d=wavatar&amp;s=32" width="32" height="32" alt="BlueSkyDigi"></a> <a href="blueskydigi/" class="user_hover">BlueSkyDigi</a> updated <a href="/blueskydigi/content/determining-quality-of-site/">Determining Quality of Site</a>. <span class="sidebar_event_date">3 days ago</span></div>
+            <div class="sidebar_box_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="wiganlanebooks/"><img class="gravatar" src="http://www.gravatar.com/avatar/01ae1ed583e021040eab2a93ac9f8ad5?d=wavatar&amp;s=32" width="32" height="32" alt="wiganlanebooks"></a> <a href="wiganlanebooks/" class="user_hover">wiganlanebooks</a> updated <a href="/wiganlanebooks/content/credits/">Credits</a>. <span class="sidebar_event_date">3 days 12 hours ago</span></div>
+            <div class="sidebar_box_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="colinbancmedia/"><img class="gravatar" src="http://www.gravatar.com/avatar/cd3018995afd6f87f76813803127519b?d=wavatar&amp;s=32" width="32" height="32" alt="colinbancmedia"></a> <a href="colinbancmedia/" class="user_hover">colinbancmedia</a> updated <a href="/colinbancmedia/cheat-sheets/onsite-seo-cheatsheet/">Onsite SEO Cheatsheet</a>. <span class="sidebar_event_date">3 days 13 hours ago</span></div>
+            <div class="sidebar_box_row sidebar_box_last_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="tmac/"><img class="gravatar" src="http://www.gravatar.com/avatar/555dea04c35efa823ac16a2ce9d8da09?d=wavatar&amp;s=32" width="32" height="32" alt="tmac"></a> <a href="tmac/" class="user_hover">tmac</a> updated <a href="/tmac/content/test/">Test</a>. <span class="sidebar_event_date">6 days 2 hours ago</span></div>
         <div class="clear"></div>
 </div>
 
@@ -375,48 +387,53 @@
 <!-- /web/www.cheatography.com/cache/a98ac7058754245fdf9056fa700ef6d5.cache --><div class="sidebar_box" id="latest_comments">
     <div class="sidebar_box_first_row"><h4>Latest Comments</h4></div>
             <div class="sidebar_box_row">
-                            <a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="sugandha/"><img class="gravatar" src="http://www.gravatar.com/avatar/dfc8c266e69d3669b163578d78748d18?d=wavatar&amp;s=32" width="32" height="32" alt="Sugandha"></a>
-                <a href="sugandha/" class="user_hover">Sugandha</a>
+                            <a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="colinbancmedia/"><img class="gravatar" src="http://www.gravatar.com/avatar/cd3018995afd6f87f76813803127519b?d=wavatar&amp;s=32" width="32" height="32" alt="colinbancmedia"></a>
+                <a href="colinbancmedia/" class="user_hover">colinbancmedia</a>
                         commented on
-                            <a href="/sugandha/cheat-sheets/trial/">Trial</a>
+                            <a href="/colinbancmedia/cheat-sheets/onsite-seo-cheatsheet/">Onsite SEO Cheatsheet</a>
             
-            <span class="sidebar_event_date">2 weeks 2 days ago</span>
+            <span class="sidebar_event_date">3 days 13 hours ago</span>
         </div>
             <div class="sidebar_box_row">
-                            <img class="gravatar" style="float: left; margin: 5px 8px 5px 0;" src="http://www.gravatar.com/avatar/ecf9ac6c9cbce93b745e3f88a6c53845?d=wavatar&amp;s=32" width="32" height="32" alt="nels">
-                nels                        commented on
-                            <a href="/davechild/cheat-sheets/mysql/">MySQL</a>
+                            <a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="ina2001/"><img class="gravatar" src="http://www.gravatar.com/avatar/4ad828e69a8a678a7ec243832bcefc26?d=wavatar&amp;s=32" width="32" height="32" alt="ina2001"></a>
+                <a href="ina2001/" class="user_hover">ina2001</a>
+                        commented on
+                            <a href="/ina2001/cheat-sheets/automationworx/">AutomationWorx</a>
             
-            <span class="sidebar_event_date">2 weeks 6 days ago</span>
+            <span class="sidebar_event_date">1 week ago</span>
         </div>
             <div class="sidebar_box_row">
-                            <a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="nash/"><img class="gravatar" src="http://www.gravatar.com/avatar/7cbf6733aa281603ea83b22ada147691?d=wavatar&amp;s=32" width="32" height="32" alt="nash"></a>
-                <a href="nash/" class="user_hover">nash</a>
-                        commented on
-                            <a href="/nash/cheat-sheets/ghc-and-rts-options/">GHC and RTS Options</a>
+                            <img class="gravatar" style="float: left; margin: 5px 8px 5px 0;" src="http://www.gravatar.com/avatar/0c4795fce63a242a802cdad0e1f58210?d=wavatar&amp;s=32" width="32" height="32" alt="Marvin Giron">
+                Marvin Giron                        commented on
+                            <a href="/davechild/cheat-sheets/mod-rewrite/">mod_rewrite</a>
             
-            <span class="sidebar_event_date">3 weeks ago</span>
+            <span class="sidebar_event_date">2 weeks, 1 day ago</span>
         </div>
             <div class="sidebar_box_row">
-                            <a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="achjaderleon/"><img class="gravatar" src="http://www.gravatar.com/avatar/c0fa7a641a885e68445a67148f541d06?d=wavatar&amp;s=32" width="32" height="32" alt="achjaderleon"></a>
-                <a href="achjaderleon/" class="user_hover">achjaderleon</a>
+                            <a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="proloser/"><img class="gravatar" src="http://www.gravatar.com/avatar/ae341f7eb365518d32b1b6bec287fa8b?d=http%3A%2F%2Fgraph.facebook.com%2F15105302%2Fpicture%3Fsize%3Dsquare&amp;s=32" width="32" height="32" alt="ProLoser"></a>
+                <a href="proloser/" class="user_hover">ProLoser</a>
                         commented on
-                            <a href="/achjaderleon/cheat-sheets/typo3-new-website/">TYPO3: New Website</a>
+                            <a href="/proloser/cheat-sheets/angularjs/">AngularJS</a>
             
-            <span class="sidebar_event_date">3 weeks, 1 day ago</span>
+            <span class="sidebar_event_date">2 weeks, 1 day ago</span>
         </div>
             <div class="sidebar_box_row sidebar_box_last_row">
-                            <a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="thaoh/"><img class="gravatar" src="http://www.gravatar.com/avatar/71b82866c3867d3fcbb45d081f325339?d=wavatar&amp;s=32" width="32" height="32" alt="Thaoh"></a>
-                <a href="thaoh/" class="user_hover">Thaoh</a>
+                            <a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="davechild/"><img class="gravatar" src="http://www.gravatar.com/avatar/fd7e3b77a3f3007ff30d932b65084851?d=http%3A%2F%2Ftwitter.com%2Fapi%2Fusers%2Fprofile_image%2FDave_Child%3Fsize%3Dbigger&amp;s=32" width="32" height="32" alt="DaveChild"></a>
+                <a href="davechild/" class="user_hover">DaveChild</a>
                         commented on
-                            <a href="/davechild/" class="user_hover">DaveChild</a>
+                            <a href="/proloser/cheat-sheets/angularjs/">AngularJS</a>
             
-            <span class="sidebar_event_date">2 weeks 6 days ago</span>
+            <span class="sidebar_event_date">2 weeks, 1 day ago</span>
         </div>
     </div>
 
 
-<!-- /web/www.cheatography.com/cache/a190e06dfc99bf2f7c93d69771350910.cache --><div class="clear"></div></div></div>
+<!-- /web/www.cheatography.com/cache/a190e06dfc99bf2f7c93d69771350910.cache --><div class="sidebar_box" id="latest_comments">
+    <div class="sidebar_box_first_row"><h4>Join Us on Facebook!</h4></div>
+    <div class="sidebar_box_row  sidebar_box_last_row">
+        <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FCheatography%2F255012094556007&amp;width=280&amp;height=558&amp;show_faces=true&amp;colorscheme=light&amp;stream=true&amp;border_color=%23ffffff&amp;header=false&amp;appId=152741628156662" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:280px; height:558px;" allowtransparency="true"></iframe>
+    </div>
+</div><div class="clear"></div></div></div>
 
 <div id="body"><div id="body_inner"><div id="body_shadow">
 <h1>Your Privacy</h1>
@@ -488,22 +505,28 @@
             </ul>
         </div>
     </div>
-                </div>
+
+
+<!-- /web/www.cheatography.com/cache/c9516da3d4c91c134fa4d1ea4ad734ac.cache -->                </div>
                 <div style="float: left; width: 300px;">
                     <div class="sidebar_box">
     <div class="sidebar_box_first_row"><h4>On The Blog</h4></div>
             <div class="sidebar_box_row sidebar_box_last_row"><a href="/blog/now-accepting-requests/">Now Accepting Requests!</a><br>Cheatography is now open for requests! Add your own, or support other people's requests, for cheat sheets you'd like somebody to make.<br><em>Posted on 26 February</em>.</div>
     </div>
-                </div>
+
+
+<!-- /web/www.cheatography.com/cache/5782f0da8e94446b5194b32ea3203ced.cache -->                </div>
                 <div style="float: right; width: 300px; margin-right: 20px;">
                     <div class="sidebar_box">
     <div class="sidebar_box_first_row"><h4>License and Permissions</h4></div>
     <div class="sidebar_box_row">All cheat sheets and the textual content on them is released under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/">Creative Commons License</a>.</div>
 </div>
-                </div>
+
+
+<!-- /web/www.cheatography.com/cache/f8907c0fd88808056c552e1060117bb3.cache -->                </div>
                 <div class="clear"></div>
                 <div style="text-align: center;">
-                    © 2011  - 2012 Cheatography.com &nbsp; | &nbsp; <a href="/terms-and-conditions/">Terms</a> and <a href="/privacy/">Privacy</a> &nbsp; | &nbsp; Site by <a href="http://www.addedbytes.com/">Dave Child</a>.
+                    © 2011  - 2013 Cheatography.com &nbsp; | &nbsp; <a href="/terms-and-conditions/">Terms</a> and <a href="/privacy/">Privacy</a> &nbsp; | &nbsp; Site by <a href="http://www.addedbytes.com/">Dave Child</a>.
                 </div>
                 <div class="clear"></div>
             </div></div>
