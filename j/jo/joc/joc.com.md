@@ -1,117 +1,74 @@
-> *The following text is extracted and transformed from the joc.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622174020id_/http%3A//www.joc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joc.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613033808id_/http%3A//www.joc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Journal of Commerce
+# Privacy Policy | JOC
 
-**UBM Global Trade, Inc.**  
- **JOURNAL OF COMMERCE PRIVACY NOTICE**  
- _Effective: February 15, 2010  _
+_Effective: February 15, 2010_
 
-UBM Global Trade, Inc. has been the leading provider of proprietary data, news, business intelligence and analytical content supporting commercial maritime, rail, trucking, warehousing and logistics industries worldwide since 1827. Since 1827, _The Journal of Commerce_ has been the most trusted source of intelligence for international logistics executives to help them plan global supply chains and better manage day-to-day transportation of goods and commodities in the United States and internationally. 
+Scope
 
-JOC members have access to our weekly print and digital magazine as well as our web site 
+This Privacy Notice covers information which you give the Journal of Commerce (us) about yourself and your professional background as you register for this website, [www.joc.com](http://www.joc.com/) and as you participate in or subscribe to any of our Journal of Commerce-branded offerings including our face-to-face events around the world, web sites or online venues hosted on servers in the United States, any of our print publications distributed in the United States, subscribe to services, or volunteer information in any social media context.
 
-_[www.joc.com](http://www.joc.com/)_
+We will post or display a link to this JOC Group, Inc. Privacy Notice on all forms and all online pages to which it is applicable.
 
-. Authoritative editorial content in the form of daily news, weekly analysis and regular features ensure our members have the information and data necessary to understand the issues facing trucking, rail and maritime transportation.  Members enjoy access to “By the Numbers,” an exclusive weekly compilation of key industry statistics that provide detailed views of current market trends across all modes.  Regular market intelligence reports, utilizing PIERS trade data, include Top 100 Imports and Exporters, quarterly Top 40 Container lines, Transpacific and Transatlantic Maritime Forecasts and Top Container Ports and Terminals. Market-sector supplements including Breakbulk, Cool Cargoes, 3PL, JOC Guide to Trucking and others ensure all modes are comprehensively covered. 
+Information That Identifies You
 
-**Scope**
-
-This Privacy Notice covers information which you give the Journal of Commerce (us) about yourself and your professional background as you register for this website, 
-
-_[www.joc.com](http://www.joc.com/)_
-
-and as you participate in or subscribe to any of our Journal of Commerce-branded offerings including our face-to-face events around the world, web sites or online venues hosted on servers in the United States, any of our print publications distributed in the United States, subscribe to services, or volunteer information in any social media context. 
-
-We will post or display a link to this UBM Privacy Notice on all forms and all online pages to which it is applicable.
-
-**Information That Identifies You**
-
-We rely primarily on the information you provide to us – as you register, contact us, participate in surveys, post to public areas of and interact with our web sites, respond to our email campaigns, and participate in webinars or online events. We may also add data from external sources to the information which you have given us, for example, additional details about the company which you list as an employer or client. We will add information about how you interact with other UBM Global Trade Inc. offerings – your subscriptions, the events you attend, and the like.
+We rely primarily on the information you provide to us – as you register, contact us, participate in surveys, post to public areas of and interact with our web sites, respond to our email campaigns, and participate in webcasts or online events. We may also add data from external sources to the information which you have given us, for example, additional details about the company which you list as an employer or client. We will add information about how you interact with other JOC Group, Inc. offerings – your subscriptions, the events you attend, and the like.
 
 On occasion, we may work to expand our communities by acquiring names and contact details from other sources that have compiled contact information. We may also invite you to join our communities via third party social and professional networking sites.
 
-**Automatic Data Collection Technologies**
+Automatic Data Collection Technologies
 
-We also use cookies and common data collection technologies, including associated web beacons and clear GIFs associated with cookies, on our web pages, in our own ads that we serve to our websites, in newsletters, and in our email campaigns to collect information both on an aggregate and individual basis. Some of our websites and online content use Adobe Flash cookies to provide video content. We do not associate the cookies with any information that identifies you as an individual. Please see the 
-
-[_Adobe Flash Player Help_](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html)
-
-page for additional information about controlling the settings of the Adobe Flash Player on your computer.
+We also use cookies and common data collection technologies, including associated web beacons and clear GIFs associated with cookies, on our web pages, in our own ads that we serve to our websites, in newsletters, and in our email campaigns to collect information both on an aggregate and individual basis. Some of our websites and online content use Adobe Flash cookies to provide video content. We do not associate the cookies with any information that identifies you as an individual. Please see the [Adobe Flash Player Help page](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) for additional information about controlling the settings of the Adobe Flash Player on your computer.
 
 We gather date, time, certain information about a user's browser and system or device configuration and capabilites, navigation history and IP address for all visitors to our web sites. We use this information for our internal security audit log, for trend analysis and system administration and to gather broad information about our audiences and their geographic locations.
 
-As described more fully in 
+As described more fully in [More Information About Cookies](http://www.ubmtechnology.com/united-business-media-llc-privacy-notice/#More_info), we allow third party advertisers and advertising networks to serve third party advertising displayed on our sites. Their cookies may allow those advertisers to display ads to you once you have left our web pages. The ad servers we use as well as those used by third party advertisers may also read routine information about your browsers and system configuration to manage ad frequency and serve ads in a format most compatible with your system.
 
-_[More Information About Cookies](http://www.ubmtechnology.com/united-business-media-llc-privacy-notice/#More_info)_
+How We Use Information About You
 
-, we allow third party advertisers and advertising networks to serve third party advertising displayed on our sites. Their cookies may allow those advertisers to display ads to you once you have left our web pages. The ad servers we use as well as those used by third party advertisers may also read routine information about your browsers and system configuration to manage ad frequency and serve ads in a format most compatible with your system.
-
-**How We Use Information About You**
-
-**We use information about you:**
+We use information about you:
 
   * to provide the services, publications, and information you request and to manage your account with us.
-  * to deliver or display content that matches your professional goals and responsibilities. 
-  * to contact you with information about and invitations for products and services – ours and other companies’ - directed to your professional goals and responsibilities.
+  * to deliver or display content that matches your professional goals and responsibilities.
+  * to contact you with information about and invitations for products and services – ours and other companies' - directed to your professional goals and responsibilities.
   * to offer you opportunities to connect directly with your peers and with sellers of technology that may be of interest to you.
-  * for any other purpose that we tell you about when you give us the information.  
+  * for any other purpose that we tell you about when you give us the information.
 
 
 
-
-**Your Choices**
+Your Choices
 
 You have a choice about and control over:
 
-**Connecting directly with other companies** for marketing purposes. In addition to providing you with our own editorial content, we offer you the opportunity to access others’ branded content and expertise. When you choose to take advantage of that content or expertise, you choose to have your name and contact details transferred directly to that other company. We will put you in direct contact with another company or companies when you choose to:
+ **Connecting directly with other companies** for marketing purposes. In addition to providing you with our own editorial content, we offer you the opportunity to access others' branded content and expertise. When you choose to take advantage of that content or expertise, you choose to have your name and contact details transferred directly to that other company. We will put you in direct contact with another company or companies when you choose to:
 
-  
+Register for certain registration-only, or "gated" communities or gated Journal of Commerce web pages. Access to technical resources provided or sponsored by another company is contingent on your agreement that your contact details may be shared with the other company. We may track your interest in that company's content or our own content over time and disclose your interest to that company.
 
-  * Register for certain registration-only, or “gated” communities or gated Journal of Commerce web pages. Access to technical resources provided or sponsored by another company is contingent on your agreement that your contact details may be shared with the other company. We may track your interest in that company’s content or our own content over time and disclose your interest to that company.  
+Register for a specific webcast, online event, web site, newsletter, or other offering which is sponsored or co-sponsored by another company.
 
-  * Register for a specific webcast, online event, web site, newsletter, or other offering which is sponsored or co-sponsored by another company.  
+Register for a virtual event with a number of exhibitors. We may give your name and contact details to all exhibitors and give the exhibitor whose booths and resources you access a record of your visits and interaction with content from that exhibitor.
 
-  * Register for a virtual event with a number of exhibitors. We may give your name and contact details to all exhibitors and give the exhibitor whose booths and resources you access a record of your visits and interaction with content from that exhibitor.  
+Attend one of our face-to-face events. Exhibitors may be given an attendance list for the event. It is up to you, however, to decide whether to leave your business card or allow your RFID-enabled badge to be read by a particular exhibitor – the badges cannot be read remotely. A sponsor of a special, sponsored conference session will also be given information about you if you choose to attend that company's session.
 
-  * Attend one of our face-to-face events. Exhibitors may be given an attendance list for the event. It is up to you, however, to decide whether to leave your business card or allow your RFID-enabled badge to be read by a particular exhibitor – the badges cannot be read remotely. A sponsor of a special, sponsored conference session will also be given information about you if you choose to attend that company’s session.  
+ **Receiving email marketing messages from us.**
 
+You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails. Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all email marketing from all JOC Group, Inc. marketing lists, [joc@halldata.com](mailto:joc@halldata.com) .
 
+Please note that you may receive email marketing messages from us about other companies' offerings as part of a list rental or partner marketing programs - but only if you have given us permission to do so. We do not disclose your contact details to the partners, and we do not sell your data. You have the option of contacting the other company directly if you click on the links within the email. To opt out of our partner marketing programs, you may follow the instructions at the bottom of any email we send you as part of the program.
 
+ **Whether your account information is up to date.** Please help us keep your account information up to date. To contact us about a print subscription, or to cancel the subscription, please visit the [Member Center.](http://www.joc.com/become-joc-member)
 
-**Receiving email marketing messages from us.**
-
-  
-
-  * You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails.  Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all email marketing from all UBM Global Trade marketing lists, _[customerservice@ubmglobaltrade.com](mailto:customerservice@ubmglobaltrade.com)_ .  
-
-  * Please note that you may receive email marketing messages from us about other companies’ offerings as part of a list rental or partner marketing programs - but only if you have given us permission to do so. We do not disclose your contact details to the partners, and we do not sell your data. You have the option of contacting the other company directly if you click on the links within the email. To opt out of our partner marketing programs, you may follow the instructions at the bottom of any email we send you as part of the program. 
-
-
-
-**Whether your account information is up to date.** Please help us keep your account information up to date. To contact us about a print subscription, or to cancel the subscription, please visit the 
-
-_[Member Center](http://joc.com/member-services)_
-
-.
-
-**More Information About Cookies**
+ **More Information About Cookies**
 
 You also have choices about cookies:
 
-**Our cookies.** We place cookies that identify you, or allow third parties to do so on our behalf, for the following purposes:
+ **Our cookies.** We place cookies that identify you, or allow third parties to do so on our behalf, for the following purposes:
 
-  
-
-  * to recognize you automatically when you return to a gated community, if you choose.  
-
-  * to understand your interests in content, both our own and that of other companies, on our web sites.  
-
-  * to control access to gated online events including webinars and virtual events.  
-
-  * to make an automated record of your interests within a virtual event.  
-
-  * to manage and follow up on email campaigns.  
-
+  * to recognize you automatically when you return to a gated community, if you choose.
+  * to understand your interests in content, both our own and that of other companies, on our web sites.
+  * to control access to gated online events including webinars and virtual events.
+  * to make an automated record of your interests within a virtual event.
+  * to manage and follow up on email campaigns.
 
 
 
@@ -119,47 +76,34 @@ You may use the tools in your browser to decline, disable, or delete any cookies
 
 You will still be able to log on to a gated community if you decline or delete our persistent cookie that enables automatic recognition. If you disable the session cookie for one of our gated sites you may remain on the site but you will not be able to access (download) any gated content. You must accept the session cookie used to manage access to registration-only online events for the duration of your participation in the event.
 
-**Third party advertising cookies.** We allow other companies to serve ads on our web pages. We do not control their use of cookies or other data collection technologies or practices.
+ **Third party advertising cookies.** We allow other companies to serve ads on our web pages. We do not control their use of cookies or other data collection technologies or practices.
 
-  
-
-  * The Journal of Commerce currently allows the following third party ad servers to serve ads on our web pages: [_DoubleClick_](http://www.doubleclick.com/privacy/index.aspx), the [_BBN Business to Business Network, Inc._](http://bbnnetworks.com/), powered by [_24/7 RealMedia Inc._](http://www.247realmedia.com/EN-US/); Please visit each of their websites for more information about the technologies they use and their privacy practices.  
-
-  * Many of the third party ad serving companies that may serve ads to our websites are members of the [_Network Advertising Initiative_](http://www.networkadvertising.org/). For more useful information about cookies and [_a single place to turn off targeted ad serving_](http://www.networkadvertising.org/managing/opt_out.asp) from any of its [_members_](http://www.networkadvertising.org/participating/), please visit the Network Advertising Initiative. We may add or change the list of Third Party Advertisers from time to time without changing the effective date of the Statement itself. We urge you to check this section for changes regularly.
+  * The Journal of Commerce currently allows the following third party ad servers to serve ads on our web pages: [DoubleClick](http://www.doubleclick.com/privacy/index.aspx), the [BBN Business to Business Network, Inc.](http://bbnnetworks.com/), powered by [24/7 RealMedia Inc.](http://www.247realmedia.com/EN-US/); Please visit each of their websites for more information about the technologies they use and their privacy practices.
+  * Many of the third party ad serving companies that may serve ads to our websites are members of the [Network Advertising Initiative](http://www.networkadvertising.org/). For more useful information about cookies and [a single place to turn off targeted ad serving](http://www.networkadvertising.org/managing/opt_out.asp) from any of its [members](http://www.networkadvertising.org/participating/), please visit the Network Advertising Initiative. We may add or change the list of Third Party Advertisers from time to time without changing the effective date of the Statement itself. We urge you to check this section for changes regularly.
 
 
 
-**Disclosure of Information About You**
+Disclosure of Information About You
 
 We reserve the right to disclose information about you to third parties in certain circumstances: to vendors that work on our behalf, to law enforcement or other entities that present valid legal process, to protect human safety or our networks or property, or as part of a sale or our merger of business assets.
 
-**Important Information**
-
-UBM Global Trade, Inc. is a subsidiary of United Business Media Limited.
+Important Information
 
 We collect and process information on servers around the world.
 
 We use reasonable administrative, technical, and physical safeguards to protect personal information against theft, loss, or misuse. Unfortunately, no data transmission over the Internet or storage can be guaranteed to be 100 percent secure. As a result, while we strive to protect information about you and your professional interests, we cannot ensure or warrant the security of any information you submit to us. You remain responsible for protecting your user name and passwords and for the security of information in transit to us over the Internet.
 
-This privacy Notice covers how we use information you provide. We cannot control how others may use information you may make public on our sites, for example, on professional networking sites or sites inviting user-generated content, in forums, at virtual events, or user-generated blogs.
-
+This privacy Notice covers how we use information you provide. We cannot control how others may use information you may make public on our sites, for example, on professional networking sites or sites inviting user-generated content, in forums, at virtual events, or user-generated blogs.  
 Please note that virtual events may mimic face-to-face events by automatically displaying information about you to other participants in the event. We cannot control how other participants use that displayed information, so please take a moment to make sure you understand how a particular virtual event works and what choices you have within the environment.
 
 Our products, services, events and offerings are directed to professionals. If we create a special offering for children under the age of thirteen, we will also create privacy practices and policies appropriate for that age group
 
-## Changes
-
 We will post and date any changes to this privacy Notice. Please check here periodically. Your continued use of our products and services covered by this Notice constitutes your acceptance of the terms in place at the time of your use.
 
-## How to Contact Us
+How to Contact Us
 
-For questions about this privacy Notice, please contact: 
-
-_[privacyrequests@ubm.com](mailto:privacyrequests@ubm.com?subject=From%20UBMTechnology.com--)_
-
-, or
-
-UBM Global Trade   
-Attn: UBM Legal  
-350 Hudson Street  
-New York, New York, 10014
+For questions about this privacy Notice, please contact: [privacyrequests@joc.com](mailto:%20privacyrequests@joc.com), or  
+JOC Group, Inc.   
+Attn: JOC Legal  
+2 Penn Plaza East, 12th Floor  
+Newark, NJ 07105
