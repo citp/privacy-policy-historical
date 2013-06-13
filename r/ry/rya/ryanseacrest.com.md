@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ryanseacrest.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220024108id_/http%3A//ryanseacrest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanseacrest.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613213626id_/http%3A//ryanseacrest.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ryan Seacrest - The official music and entertainment news site of American Idol host and American Top 40 on air radio personality!
+# Ryan Seacrest - Privacy Policy -
 
 This Privacy Policy was last updated on October 13, 2008
 
