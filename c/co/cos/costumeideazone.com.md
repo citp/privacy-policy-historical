@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumeideazone.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023015102id_/http%3A//costumeideazone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumeideazone.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613102715id_/http%3A//costumeideazone.com/privacy.htm) for the most accurate reproduction.*
 
 # Costume Idea Zone Privacy Policy
 
