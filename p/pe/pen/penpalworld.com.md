@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penpalworld.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230101818id_/http%3A//www.penpalworld.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penpalworld.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613043059id_/http%3A//www.penpalworld.com/privacy.asp) for the most accurate reproduction.*
 
 # Our Privacy Policy - PenPal World
 
@@ -30,9 +30,9 @@ Your personal info, like e-mail address or birthday, will never be shown on any 
 
  **What do you use my personal details for?** top
 
-PenPal World will use your name so that PenPal World can personalise your experience using this service. PenPal World will use your e-mail address for security reasons to confirm that you are who you say you are.
+PenPal World will use your name so that PenPal World can personalize your experience using this service. PenPal World will use your e-mail address for security reasons to confirm that you are who you say you are.
 
-PenPal World also collects other data, which may include your IP address and what browser you are using. PenPal World uses this information to statistically analyze site usage and to customize our site's content, layout and services. The resulting information will allows PenPal World to improve PenPal World site and better understand and serve PenPal World's users. It is compiled and analyzed on an aggregated basis only.
+PenPal World also collects other data, which may include your IP address and what browser you are using. PenPal World uses this information to statistically analyze site usage and to customize our site's content, layout and services. The resulting information will allows PenPal World to improve the PenPal World site and better understand and serve PenPal World's users. It is compiled and analyzed on an aggregated basis only.
 
  **Does PenPal World sell my information to third parties?** top
 
@@ -42,17 +42,17 @@ As a matter of policy, PenPal World does not sell, rent or lend any of your pers
 
 You agree that PenPal World may use personal information about you to improve PenPal World's marketing and promotional efforts, to analyze site usage, improve PenPal World's content and product offerings, and customize the site's content, layout, and services. These uses improve the site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the site.
 
-You agree that PenPal World may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the site. By accepting the Terms of Use and Privacy Policy, you expressly agree to receive this information. You may make changes to your e-mail notification preferences at any time.
+You agree that PenPal World may use your personal information to contact you and deliver information to you that, in some cases, is targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the site. By accepting the Terms of Use and Privacy Policy, you expressly agree to receive this information. You may make changes to your e-mail notification preferences at any time.
 
- _Advertisers_. PenPal World might disclose non-personally identifiable aggregated (gather up data across all member accounts) information to advertisers and other third parties. An example of non-personally identifiable information would be 'the number of members aged 20-30'.
+ _Advertisers_. PenPal World might disclose non-personally identifiable aggregated (data gathered up across all member accounts) information to advertisers and other third parties. An example of non-personally identifiable information would be 'the number of members aged 20-30'.
 
- _Law Enforcement_. PenPal World cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and PenPal World's service. Therefore, in response to a genuine request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, PenPal World can disclose personal information about you.Third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the site. Therefore, although PenPal World uses industry standard practices to protect your privacy, PenPal World does not promise, and you should not expect, that your personal information or private communications will always remain private.
+ _Law Enforcement_. PenPal World cooperates with law enforcement inquiries, as well as other third parties, to enforce laws such as intellectual property rights, fraud and other rights, In order to help protect you and PenPal World's service. Therefore, in response to a genuine request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, PenPal World can disclose personal information about you.Third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the site. Therefore, although PenPal World uses industry standard practices to protect your privacy, PenPal World does not promise, and you should not expect, that your personal information or private communications will always remain private.
 
  _Acquisition_. It is possible that as PenPal World continues to develop its website and its business, PenPal World's service and/or related assets might be acquired. Notwithstanding any provision in this policy to the contrary, in event of a merger or acquisition, your personal information may be transferred to the acquiring entity, and become subject to the acquirer's data practices.
 
  **How secure is your web server?** top
 
-PenPal World's top-of-the-line web servers enjoy following on scene security:
+PenPal World's top-of-the-line web servers enjoy following on the scene security:
 
   * Very Early Smoke Detection Apparatus (VESDA)
   * Separated Smoke Alarm System
@@ -91,10 +91,10 @@ You always have the option not to become a member or to cancel your membership a
 
 If you are a member and no longer wish to participate in PenPal World you can sign in to the site and click on the 'My Profile' at the top of the page; then select 'cancel membership' and follow the simple instructions.
 
-This action will cancel your membership and delete your details from the system, expect your e-mail address, password and the date you've joined the first time. You will be assured that, PenPal World will not contact you directly at the e-mail address we have on record for you, other than to respond to requests you may make to PenPal World in the future.
+This action will cancel your membership and delete your details from the system, except your e-mail address, password and the date you joined the first time. You will be assured that PenPal World will not contact you directly at the e-mail address we have on record for you, other than to respond to requests you may make to PenPal World in the future.
 
  **How do I contact you?** top
 
-If you have any questions about PenPal World's privacy statement, the practices of this website or your dealings with this website, you can contact PenPal World via the [support page](https://web.archive.org/web/20121230101818id_/http%3A//www.penpalworld.com/support.asp).
+If you have any questions about PenPal World's privacy statement, the practices of this website or your dealings with this website, you can contact PenPal World via the [support page](https://web.archive.org/web/20130613043059id_/http%3A//www.penpalworld.com/support.asp).
 
 This document was last modified on February 2, 2012
