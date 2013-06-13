@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidshadow.tv privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126045355id_/http%3A//www.vidshadow.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidshadow.tv privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613090626id_/http%3A//www.vidshadow.tv/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
