@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the nashuatelegraph.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209074015id_/http%3A//www.nashuatelegraph.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashuatelegraph.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613103800id_/http%3A//www.nashuatelegraph.com/privacypolicy) for the most accurate reproduction.*
 
 # Nashuatelegraph.com: Privacy Policy
 
-## About Us
-
-**Published: Saturday, November 29, 2003**
+**Published: April 22, 2013**
 
 **Our Commitment**  
-Telegraph Online, related sites including Get Classifieds! and its owner, Telegraph Publishing Company (collectively, "Telegraph Online"), recognize the importance of protecting the privacy of personally identifiable information collected about you, our customers and prospects. This customer privacy policy is intended to balance our legitimate business interests in collecting and using information against our users' reasonable expectations of privacy. 
+Telegraph Online, related sites including Get Classifieds! and its owner, Ogden Newspapers of New Hampshire LLC (collectively, "Telegraph Online"), recognize the importance of protecting the privacy of personally identifiable information collected about you, our customers and prospects. This customer privacy policy is intended to balance our legitimate business interests in collecting and using information against our users' reasonable expectations of privacy. 
 
 **General User Information**
 
@@ -31,7 +29,7 @@ We use an advertising server developed by a third party to display ads on the si
 
 **Use of Personal Information**
 
-We believe in protecting your privacy, and will not share personal information with third parties outside of the Telegraph Publishing Company except as described in this Privacy Policy. We believe we can enhance your experience on our site with the information you share with us. We use personal information about you to improve our advertising and marketing efforts, to statistically analyze site usage, to improve our content and product offerings and to personalize the site's content, layout, and services. We may also use your personal information, such as your e-mail address or mailing address, to contact you regarding products and/or services that may be of interest to you, to respond to an inquiry from you regarding the information that we have collected, or respond to your comments and suggestions. 
+We believe in protecting your privacy, and will not share personal information with third parties outside of The Telegraph except as described in this Privacy Policy. We believe we can enhance your experience on our site with the information you share with us. We use personal information about you to improve our advertising and marketing efforts, to statistically analyze site usage, to improve our content and product offerings and to personalize the site's content, layout, and services. We may also use your personal information, such as your e-mail address or mailing address, to contact you regarding products and/or services that may be of interest to you, to respond to an inquiry from you regarding the information that we have collected, or respond to your comments and suggestions. 
 
 The Telegraph Online may match specific and/or aggregated personal information with third party data to provide you with product and content offerings that interest you and improve our advertising and marketing efforts. The Telegraph Online also may disclose aggregated user statistics in order to describe our services to potential advertisers, partners, other third parties, our affiliate companies, and for other lawful purposes. 
 
