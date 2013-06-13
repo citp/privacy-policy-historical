@@ -1,92 +1,62 @@
-> *The following text is extracted and transformed from the prommanow.com privacy policy that was archived on 2012-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120917002621id_/http%3A//prommanow.com/awards/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prommanow.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613043223id_/http%3A//prommanow.com/advertise/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Pro MMA Now
 
-**What information do we collect?**
+Privacy Policy
 
-We collect information from you when you register on our site, subscribe to our newsletter or leave a comment.
+Pro MMA Now knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+This Privacy Policy covers Pro MMA Now’s treatment of personal information that Pro MMA Now gathers when you are on the Pro MMA Now website and when you use Pro MMA Now services. This policy does not apply to the practices of third parties that Pro MMA Now does not own or control, or to individuals that Pro MMA Now does not employ or manage.
 
-**What do we use your information for?**
+Information Collected by Pro MMA Now
 
-Any of the information we collect from you may be used in one of the following ways:
+We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Pro MMA Now users:
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
+1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+2\. Automatic Information:
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+We receive and store certain types of information whenever you interact with us. Pro MMA Now and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, Pro MMA Now cookie information, and the page you requested. Pro MMA Now uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website. Pro MMA Now may collect and, on any page, display the total counts that page has been viewed.
 
-• To process transactions
+Many companies offer programs that help you to visit websites anonymously. While Pro MMA Now will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+E-mail Communications  
+Pro MMA Now is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. Pro MMA Now may send out e-mails with Pro MMA Now-related news, products, offers, surveys or promotions.
 
-• To administer a contest, promotion, survey or other site feature
+Cookies
 
-• To send periodic emails
+Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Pro MMA Now cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Pro MMA Now’s coolest features.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Pro MMA Now’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.
 
-**How do we protect your information?**
+Sharing Your Information
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to?keep the information confidential.
+Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+Pro MMA Now Personnel: Pro MMA Now personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Pro MMA Now business.
 
-**Do we use cookies?**
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Pro MMA Now, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Protection of Pro MMA Now and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of Pro MMA Now, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Syndication: Pro MMA Now allows for the RSS syndication of all of its public content within the Pro MMA Now website.
 
-**Do we disclose any information to outside parties?**
+With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Children Under 18 Years of Age
 
-**Third party links**
+You must be 13 years and older to register to use the Pro MMA Now website. As a result, Pro MMA Now does not specifically collect information about children. If we learn that Pro MMA Now has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using Pro MMA Now or sending information about themselves or anyone else over the Internet.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Changes to this Privacy Policy
 
-**California Online Privacy Protection Act Compliance**
+Pro MMA Now may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to thePrivacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Pro MMA Now website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Conditions of Use
 
-**Childrens Online Privacy Protection Act Compliance**
+If you decide to visit Pro MMA Now website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+Effective Date of this Privacy Policy
 
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://prommanow.com/index.php/about/>
-
-**Your Consent**
-
-By using our site, you consent to our [online privacy policy](http://prommanow.com/index.php/about/privacy-policy/).
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
-
-This policy was last modified on 8-3-10
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-http://prommanow.com/index.php/about/
-
-490 Allied Drive  
-Nashville, Tennessee 37211  
-United States of America  
-info@promma.info  
-Privacy Policy Created by [Free Privacy Policy](http://www.freeprivacypolicy.com/)
+This Privacy Policy is effective as of 6-7-13 and last updated 6-7-13.
