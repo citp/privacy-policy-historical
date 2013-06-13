@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the placenorthwest.co.uk privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213110210id_/http%3A//www.placenorthwest.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placenorthwest.co.uk privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613033832id_/http%3A//www.placenorthwest.co.uk/privacy.html) for the most accurate reproduction.*
 
 # > Privacy Policy - Place North West
 
