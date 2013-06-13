@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the animeavenue.net privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221112343id_/http%3A//www.animeavenue.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeavenue.net privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613033603id_/http%3A//www.animeavenue.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Watch Anime Online | Anime Avenue
+# Privacy Policy | AnimeAVENUE
 
 This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
 
