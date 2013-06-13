@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 123franchising.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610043543id_/http%3A//123franchising.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123franchising.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613061325id_/http%3A//123franchising.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | 123 Franchising UK
+
+## Privacy Policy
 
   
 We are committed to protecting your privacy.  This privacy policy relates to the use of any personal information you provide to us through 123franchising.com.  
@@ -12,7 +14,13 @@ The information you submit via our enquiry forms are only shared with the compan
 123franchising.com does not share, sell or trade your personal information with third parties for their promotional purposes, unless authorised by you, however our sales representatives may contact you from time to time with any relevant offers or opportunities.  
 **  
 Submit Your Enquiry Form**  
-When you submit an enquiry form for more information from one of our advertisers, your contact information (name, address, phone number, e-mail, etc.) on the enquiry form, will be passed only to the businesses that you specify. No other business receives your contact information. Your information, however, is often stored in the receiving company’s database, as well as ours. Collected data may be stored in a database outside your home country.  
+When you submit an enquiry form for more information from one of our advertisers, your contact information (name, address, phone number, e-mail, etc.) on the enquiry form, will be passed only to the businesses that you specify. No other business receives your contact information. Your information, however, is often stored in the receiving company’s database, as well as ours. Collected data may be stored in a database outside your home country.
+
+**Franchise Matching Service**  
+123 Franchising offers a Free Franchise Matching Service. We do our utmost to ensure the results from this service is as accurate as possible based upon the information you provide. 123 Franchising cannot guarantee the accuracy of claims made by franchisors in this matching process or the information franchisors provide you with. By using this Franchise Matching Service, you agree to be contacted by the franchisors suggested for you. 123 Franchising strongly recommends that you seek professional advice before making a decision on purchasing a franchise. Your information provided to us via the Franchise Matching Service will never be passed onto any third party. 
+
+**Franchise Special Offers**  
+'Special Offers' are sometimes provided by Franchises on the website. 123 Franchising shall not be liable for the information provided by these Franchises and the accuracy of these 'Special Offers.'   
 **  
 Cookies**  
 We may collect non-personal information from your computer using cookies.  We use the collected information for site, analytical and marketing purposes.  It is not linked to any personal information  
