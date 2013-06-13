@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the krossover.com privacy policy that was archived on 2012-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121031161331id_/http%3A//www.krossover.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the krossover.com privacy policy that was archived on 2013-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130613121436id_/http%3A//www.krossover.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js no-touch no-ie8compat" lang="en"><!--<![endif]--><head>
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 	<meta charset="utf-8">
 	<!-- Set the viewport width to device width for mobile -->
 	<meta name="viewport" content="width=device-width">
 	<meta name="description" content="Krossover breaks down football basketball lacrosse game film, gives back video breakdown, stats, data, visualizations, charts, box score, and allows for tape exchange, sharing.">
 	<meta name="keywords" content="break down, football, basketball, lacrosse, game film, high school, college, professional, sports, video breakdown, box score, statistics, shot charts, visualizations, tape exchange, telestration ">  
-	<meta property="og:image" content="/images/logo-color-icon.jpg"> 
+	<meta property="og:image" content="http://krossover.com/images/logo-color-icon.jpg"> 
 	<meta http-equiv="”Content-Type”" content="”text/html;" charset="ISO-8859-1″">  
     <meta name="google-site-verification" content="LW5FuffyOFToJUshByC0YHEQ5cz_g-kEEBtwutxCApE">
+    <meta http-equiv="refresh" content="300">
 	
-	<link rel="stylesheet" href="style/app.min.css">    
+	<link rel="stylesheet" href="http://krossover.com/style/app.min.css">    
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" href="style/ie.css">
 	<![endif]-->
@@ -20,10 +21,80 @@
 	<!--[if lt IE 9]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
-    <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/vendor/googleAnalytics.js"></script>
+    <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://krossover.com/js/vendor/googleAnalytics.js"></script>
     <script type="text/javascript" src="http://use.typekit.com/gzb7otp.js" onload="try{Typekit.load();}catch(e){}"></script>
 
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="main.min" src="js/main.min.js"></script></head>
+    <!-- Ethnio Activation Code -->
+	<script type="text/javascript" language="javascript" src="//ethn.io/remotes/86811" async="" charset="utf-8"> </script>
+    <script src="http://code.jquery.com/jquery-1.8.3.js"></script>
+    <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+    
+   
+    <!-- WuFoo Form -->
+	<script src="scripts/wufoo.js"></script>
+
+
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+	$(".tab_content").hide();
+	$(".tab_content:first").show(); 
+
+	$("ul.tabs li").click(function() {
+		$("ul.tabs li").removeClass("active");
+		$(this).addClass("active");
+		$(".tab_content").hide();
+		var activeTab = $(this).attr("rel"); 
+		$("#"+activeTab).fadeIn(); 
+	});
+});
+
+</script> 
+
+<script type="text/javascript">
+//vimeo videos
+var vimeo = {
+    videos: [],
+    currentVideo: null,
+    init: function (element, i) {
+        
+      var videoData = {
+            'title': $(element).html(),
+            'id': 'video-' + i,
+            'url': $(element).attr('href')
+        };
+
+        $.getJSON('http://www.vimeo.com/api/oembed.json?url=' + encodeURIComponent(videoData.url) + '&api=1&player_id='+ videoData.id +'&width=300&callback=?', function(data){
+        
+        $(element).html(data.html);
+        $(element).find('iframe').load(function(){
+                player = this;
+                $(player).attr('id', videoData.id);
+                $f(player)
+                .addEvent('ready', function(player_id){
+                    vimeo.videos.push($f(player_id));
+                })
+                .addEvent('play', function(player_id){
+                    if (vimeo.currentVideo != null) vimeo.currentVideo.api('pause');
+                    vimeo.currentVideo = $f(player_id);
+                });
+            });
+        });
+    }
+}
+      
+
+$(document).ready(function () {
+    $('a.vimeo').each(function(i) {
+        vimeo.init(this, i);
+    });
+});        
+</script>
+
+
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
 <!-- fb like button -->
 <div id="fb-root"></div>
@@ -38,48 +109,70 @@
                                                                 
 	<div class="container">
 
+
 		<div class="row">
-			<div class="four columns topmargin15">
-				<a href="index.php"><div class="logo"></div></a>
+			<div class="three columns topmargin15">
+				<a href="http://krossover.com/index.php"><div class="logo"></div></a>
             <ul class="nav topmargin">
                     <li class="navbpad show-on-phones"><a href="#footnav" class="goto">+ GO TO</a></li>
             </ul>
 			</div>
 
-			<div class="eight columns topmargin35">
+			<div class="eight columns topmargin">
 
             <ul class="nav">
-					<li class="navbpad dropshadowdark show-on-phones"><a href="http://www.krossover.com/intelligence/user/login" class="hsubsdarkblue nice small radius darkblue button">LOGIN</a></li>
-                    <li class="navbpad dropshadowdark show-on-phones"><a href="sign-up.php" class="hsubsorange nice small radius orange button">SIGN UP</a></li>
+					<li class="navbpad dropshadowdark show-on-phones"><a href="http://krossover.com/intelligence/user/login" class="hsubsdarkblue nice small radius darkblue button">LOGIN</a></li>
+                    <li class="navbpad dropshadowdark show-on-phones"><a href="http://krossover.com/sign-up.php" class="hsubsorange nice small radius orange button">SIGN UP</a></li>
             </ul>
             
             <div>
                 <ul class="nav">
-                    <li id="dropdown-1"><a class="hsubs dropshadow hide-on-phones" href="#">WHAT WE OFFER</a>
-                        <ul class="dropdown subs" style="width: 230px; display: none; left: 0px; top: 46px;">
-                            <li><a href="coaches.php">FOR COACHES</a></li>
-                            <li><a href="athletes.php">FOR ATHLETES</a></li>
-                            <li><a href="basketball.php">FOR BASKETBALL</a></li>
-                            <li><a href="football.php">FOR FOOTBALL</a></li>
-                            <li><a href="lacrosse.php">FOR LACROSSE</a></li>
-                            <li><a href="film-room.php">FILM ROOM</a></li>
+                    <li id="dropdown-1"><a class="hsubs dropshadow hide-on-phones" href="#">OUR SPORTS</a>
+                        <ul class="dropdown subs">
+                            <li><a href="http://krossover.com/basketball.php">BASKETBALL</a></li>
+                            <li><a href="http://krossover.com/football.php">FOOTBALL</a></li>
+                            <li><a href="http://krossover.com/lacrosse.php">LACROSSE</a></li>
                         </ul>
                     </li>
-                    <li id="dropdown-2"><a class="hsubs dropshadow hide-on-phones" href="#">PRICING</a>
-                        <ul class="subs dropdown" style="width: 205px; display: none; left: 0px; top: 46px;">
-                            <li><a href="pricing-basketball.php">BASKETBALL</a></li>
-                            <li><a href="pricing-football.php">FOOTBALL</a></li>
-                            <li><a href="pricing-lacrosse.php">LACROSSE</a></li>
-                            <li><a href="pricing-full-school.php">FULL SCHOOL</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="contact.php" class="hsubs2 dropshadow hide-on-phones">CONTACT US</a></li>
 
-                        <li class="navbpad dropshadowdark hide-on-phones"><a href="http://www.krossover.com/intelligence/user/login" class="hsubsdarkblue nice small radius darkblue button">LOGIN</a></li>
-                        <li class="navbpad dropshadowdark hide-on-phones"><a href="sign-up.php" class="hsubsorange nice small radius orange button">SIGN UP</a></li>
+                    <li id="dropdown-2"><a class="hsubs dropshadow hide-on-phones" href="#">WHO USES US</a>
+                        <ul class="subs dropdown">
+                            <li><a href="http://krossover.com/coaches.php">COACHES</a></li>
+                            <li><a href="http://krossover.com/athletes.php">ATHLETES</a></li>
+                            <li><a href="http://krossover.com/camps-tournements.php">CAMPS &amp; TOURNAMENTS</a></li>
+                        </ul>
+                    </li>
+
+                    <li id="dropdown-3"><a class="hsubs dropshadow hide-on-phones" href="#">PRICING</a>
+                        <ul class="subs dropdown">
+                            <li><a href="http://krossover.com/pricing-basketball.php">BASKETBALL</a></li>
+                            <li><a href="http://krossover.com/pricing-football.php">FOOTBALL</a></li>
+                            <li><a href="http://krossover.com/pricing-lacrosse.php">LACROSSE</a></li>
+                            <li><a href="http://krossover.com/pricing-individuals.php">INDIVIDUALS</a></li>
+                        </ul>
+                    </li>
+
+                    <li id="dropdown-4" class="show-on-desktop visible-desktop"><a class="hsubs dropshadow hide-on-phones" href="#">ABOUT US</a>
+                        <ul class="subs dropdown">
+                            <li><a href="http://krossover.com/contact.php">CONTACT US</a></li>
+                            <li><a href="http://krossover.com/blog">OUR BLOG</a></li>
+                            <li><a href="http://krossover.com/jobs.php">JOBS</a></li>
+                            <li><a href="http://krossover.com/press.php">PRESS</a></li>
+                            <li><a href="http://krossover.com/about.php">ABOUT US</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="visible-desktop2"><a href="http://krossover.com/support.php" class="hsubs2 dropshadow hide-on-phones">SUPPORT</a></li>
+                    <li class="visible-desktop2"><a href="http://krossover.com/siq" class="hsubs2 dropshadow hide-on-phones">sIQ</a></li>
+
+                    <li class="navbpad dropshadowdark hide-on-phones" style="text-align:right;"><a href="http://krossover.com/intelligence/user/login" class="hsubsdarkblue nice small radius darkblue button">LOGIN</a></li>
+                    <li class="navbpad dropshadowdark hide-on-phones" style="text-align:right;"><a href="http://krossover.com/sign-up.php" class="hsubsorange nice small radius orange button">SIGN UP</a></li>
                 </ul>
             </div>
+
 		</div>
+
+
 		</div>
 <title>Krossover | Privacy Policy</title>
             <div class="row topmargin35">
@@ -197,65 +290,56 @@ USA</p>
 		<div class="row footer doublemargin" id="footnav">
         <div class="row">
 			<div class="four columns topmargin twhite">
-				© Krossover Intelligence Inc. 2012<br><br>
+				© Krossover Intelligence Inc. 2013<br><br>
                 <a href="https://twitter.com/krossovr" class="twitter-follow-button" data-show-count="false">Follow @krossovr</a>
                 <div><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
 
                 <div class="fb-like fb-margin" data-href="http://www.facebook.com/KrossoverIntelligence" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" data-font="arial"></div>
 			</div>
-			<div class="two columns topmargin hide-on-phones">
+			<div class="two columns topmargin">
 				<ul>
-	<li><a class="flink" href="index.php">Home</a></li>
-					<li><a class="flink" href="http://www.krossover.com/blog">Our Blog</a></li>
-					<li><a class="flink" href="about.php">About Us</a></li>
-					<li><a class="flink" href="contact.php">Contact Us</a></li>
-					<li><a class="flink" href="jobs.php">Jobs</a></li>
-					<li><a class="flink" href="press.php">Press</a></li>
-					<li><a class="flink" href="https://krossover.zendesk.com/home" target="_blank">Support</a></li>
+					<li class="twhiteit">Our Sports</li>
+					<li><a class="flink" href="http://krossover.com/basketball.php">Basketball</a></li>
+					<li><a class="flink" href="http://krossover.com/football.php">Football</a></li>
+					<li><a class="flink" href="http://krossover.com/lacrosse.php">Lacrosse</a></li>
 				</ul>
 			</div>
 			<div class="two columns topmargin">
 				<ul>
-	<li class="twhiteit">What We Offer</li>
-					<li><a class="flink" href="coaches.php">For Coaches</a></li>
-					<li><a class="flink" href="athletes.php">For Athletes</a></li>
-					<li><a class="flink" href="basketball.php">For Basketball</a></li>
-					<li><a class="flink" href="football.php">For Football</a></li>
-					<li><a class="flink" href="lacrosse.php">For Lacrosse</a></li>
-					<li><a class="flink" href="film-room.php">Film Room</a></li>
+					<li class="twhiteit">Who Uses Us</li>
+					<li><a class="flink" href="http://krossover.com/coaches.php">Coaches</a></li>
+					<li><a class="flink" href="http://krossover.com/athletes.php">Athletes</a></li>
+					<li><a class="flink" href="http://krossover.com/camps-tournements.php">Camps &amp; Tournaments</a></li>
 				</ul>
 			</div>
 			<div class="two columns topmargin">
 				<ul>
 					<li class="twhiteit">Pricing</li>
-					<li><a class="flink" href="pricing-basketball.php">Basketball</a></li>
-					<li><a class="flink" href="pricing-football.php">Football</a></li>
-					<li><a class="flink" href="pricing-lacrosse.php">Lacrosse</a></li>
-					<li><a class="flink" href="pricing-full-school.php">Full School</a></li>
-					<li><a class="flink" href="sign-up.php">Sign Up</a></li>
-				</ul>
-			</div>
-			<div class="two columns topmargin show-on-phones">
-				<ul>
-	<li><a class="flink" href="index.php">Home</a></li>
-					<li><a class="flink" href="http://www.krossover.com/blog">Our Blog</a></li>
-					<li><a class="flink" href="about.php">About Us</a></li>
-					<li><a class="flink" href="contact.php">Contact Us</a></li>
-					<li><a class="flink" href="jobs.php">Jobs</a></li>
-					<li><a class="flink" href="press.php">Press</a></li>
-					<li><a class="flink" href="https://krossover.zendesk.com/home" target="_blank">Support</a></li>
+					<li><a class="flink" href="http://krossover.com/pricing-basketball.php">Basketball</a></li>
+					<li><a class="flink" href="http://krossover.com/pricing-football.php">Football</a></li>
+					<li><a class="flink" href="http://krossover.com/pricing-lacrosse.php">Lacrosse</a></li>
+                    <li><a class="flink" href="http://krossover.com/pricing-individuals.php">Individuals</a></li>
+					<li><a class="flink" href="http://krossover.com/sign-up.php">Sign Up</a></li>
 				</ul>
 			</div>
 			<div class="two columns topmargin">
 				<ul>
-					<li><a class="flink" href="terms-conditions.php">Terms &amp; Conditions</a></li>
-					<li><a class="flink" href="privacy.php">Privacy Policy</a></li>
+					<li><a class="flink" href="index.php">Home</a></li>
+					<li><a class="flink" href="http://krossover.com/contact.php">Contact Us</a></li>
+                    <li><a class="flink" href="http://krossover.com/siq">sIQ</a></li>
+					<li><a class="flink" href="http://krossover.com/blog">Our Blog</a></li>
+					<li><a class="flink" href="http://krossover.com/jobs.php">Jobs</a></li>
+					<li><a class="flink" href="http://krossover.com/press.php">Press</a></li>
+					<li><a class="flink" href="http://krossover.com/about.php">About Us</a></li>
+					<li><a class="flink" href="http://krossover.com/support.php">Support</a></li>
+					<li><a class="flink" href="http://krossover.com/terms-conditions.php">Terms &amp; Conditions</a></li>
+					<li><a class="flink" href="http://krossover.com/privacy.php">Privacy Policy</a></li>
 				</ul>
 			</div>
 
 		</div>
 		</div>
-		<script data-main="js/main.min.js" src="js/vendor/require.js"></script>        
+		<script data-main="http://krossover.com/js/main.min.js" src="http://krossover.com/js/vendor/require.js"></script>        
         
 <div id="login-modal" class="reveal-modal" style="width: 300px; background: white; color: black;">
             <div class="row doublemargin">
@@ -289,6 +373,24 @@ USA</p>
                 
      <a class="close-reveal-modal">×</a>
 </div>
-        
 
-</div></div>­<style>@media (touch-enabled),(-webkit-touch-enabled),(-moz-touch-enabled),(-o-touch-enabled),(-ms-touch-enabled),(modernizr){#touch{top:9px;position:absolute}}</style></body></html>
+<script type="text/javascript">
+  adroll_adv_id = "I2LZBQ7GKBFSVLSYK3LNHO";
+  adroll_pix_id = "NGYPWUJI5BBHFMIPQTOBHF";
+  (function () {
+  var oldonload = window.onload;
+  window.onload = function(){
+  __adroll_loaded=true;
+  var scr = document.createElement("script");
+  var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+  scr.setAttribute('async', 'true');
+  scr.type = "text/javascript";
+  scr.src = host + "/j/roundtrip.js";
+  ((document.getElementsByTagName('head') || [null])[0] ||
+  document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+  if(oldonload){oldonload()}};
+  }());
+</script>
+
+
+</div></div></body></html>
