@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonomalibrary.org privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224181859id_/http%3A//www.sonomalibrary.org/libinfo/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonomalibrary.org privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613233020id_/http%3A//www.sonomalibrary.org/libinfo/policies/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for the Sonoma County Library Web Pages
 
@@ -18,7 +18,9 @@ If you include your email address or other personal information when contacting 
 
 The Sonoma County Library does not track individual users of its regular public website at [www.sonomalibrary.org](http://www.sonomalibrary.org/). We use Google Analytics for statistics on overall use of the site. Google Analytics may set its own cookies on your computer. For information on Google's cookie policies and privacy policies, please see [Google Analytics Privacy](http://www.google.com/analytics/learn/privacy.html). You may prevent Google Analytics cookies and tracking on all sites by using the [Google Analytics Opt-Out](https://tools.google.com/dlpage/gaoptout/) tool.
 
-The library catalog website, at [catalog.sonomalibrary.org](https://web.archive.org/catalog/catdirect.scl), and several of [our databases](https://web.archive.org/research/) use cookies to keep track of your current session and keep you logged on to the service or database you are using. These cookies are temporary and are not stored on your computer after your web browser is closed.
+The library catalog website, at [catalog.sonomalibrary.org](https://web.archive.org/catalog/catdirect.scl), and several of [our databases](https://web.archive.org/research/) may use cookies to keep track of your current session and keep you logged on to the service or database you are using. These cookies are temporary and are not stored on your computer after your web browser is closed.
+
+Some parts of our website include the option to share a web page or post via Facebook, Twitter, or other services. This option is provided through AddThis. AddThis may store cookies on your computer when you visit these parts of our site. AddThis may use these cookies during your visits to other websites "in order to provide advertisements about goods and services likely to be of greater interest to you." You can [opt out of being tracked by AddThis](http://www.addthis.com/privacy/opt-out) to prevent AddThis tracking of your computer on our site and all other websites. [AddThis privacy policy](http://www.addthis.com/privacy/privacy-policy)
 
 ## Your Library card number and account
 
@@ -34,7 +36,7 @@ If you create an account in one of [our databases](https://web.archive.org/resea
 
 ## Online payments
 
-If you choose to use our Pay Online service to pay fines or fees with a credit or debit card, we will need both your library account information and your credit card information. Your library account information is used only by us, to credit your payment to the correct library patron account. We provide your credit/debit card information to a payment processing service. The service uses this information only to process your payment. We do not provide your library account information to the service.
+If you choose to use our [Pay Online](https://web.archive.org/pay) service to pay fines or fees with a credit or debit card, we will need both your library account information and your credit card information. Your library account information is used only by us, to credit your payment to the correct library patron account. We provide your credit/debit card information to a payment processing service. The service uses this information only to process your payment. We do not provide your library account information to the service.
 
 ##  Children's Information
 
@@ -44,11 +46,15 @@ We do not collect any information about children other than the information need
 
 This site contains links to other sites. The Library is not responsible for the privacy practices or content of other sites. 
 
-##  Removing your email address
+##  Your email address
 
-Currently you may give us your email address for the purpose of notifying you about your library account. This information is not used in any other way, and you can ask to remove your email address from our records at any time. 
+You may give us your email address for the purpose of notifying you about your library account. This information is not used in any other way, and you can ask to remove your email address from our records at any time. 
 
 If you would like your email address removed from your patron record, you may send email to: [tech@sonoma.lib.ca.us](mailto:tech@sonoma.lib.ca.us). 
+
+If you subscribe to one of our blogs, your subscription is handled through either Feedburner or MailChimp. Feedburner services are subject to the [Google privacy policy](http://www.google.com/policies/privacy/).
+
+If you subscribe to one of our [lists of new library items](https://web.archive.org/rss/subscribe.html) or our [lists of upcoming events](https://web.archive.org/calendar/feeds/) by email, your subscription is handled through MailChimp. MailChimp promises never to sell or share our subscribers' email addresses. [MailChimp privacy policy](http://mailchimp.com/legal/privacy/)
 
 ## Web site contact
 
@@ -56,5 +62,5 @@ If you have any questions about this privacy statement or the web site you can [
 
 * * *
 
-[Other policies and procedures](https://web.archive.org/web/20121224181859id_/http%3A//www.sonomalibrary.org/libinfo/policies/index.html)  
+[Other policies and procedures](https://web.archive.org/web/20130613233020id_/http%3A//www.sonomalibrary.org/libinfo/policies/index.html)  
 [More library information](https://web.archive.org/about.html)
