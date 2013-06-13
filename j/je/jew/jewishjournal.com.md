@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewishjournal.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027024735id_/http%3A//www.jewishjournal.com/newspaper/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewishjournal.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613132344id_/http%3A//www.jewishjournal.com/newspaper/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jewish Journal
 
@@ -50,9 +50,31 @@ When you use our Site, we may collect personal information about you described b
 
 We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct. Disclosure may be required by law or if we receive legal process.
 
+## ADVERTISING
+
+Our site offers advertising and other services which helps us fund our site’s operation.  We strive to offer high quality advertisements and promotions that we think will be of interest to you and to our visitors.  These ads may be in the form of banner ads and or other promotional services offered on our website or on our opt-in email list
+
+We may use user information that is either provided by you or gathered with the use of cookies and similar technologies as well as information provided by reputable 3rd party data providers to better understand your needs and provide you with a better online experience and to customize the ads we show you. For example:
+
+\- We may periodically send promotional emails about products, special offers or other information that we think you may find interesting using the email address which you have provided.
+
+-  We may use information you provide us or that is collected by us or collected by 3rd parties to show you advertising and ads that we think might appeal to you.  These ads might be targeted and shown to you on the basis of such things as your gender, age, geographic location, web sites you visit and other information.
+
 ## WHAT ARE COOKIES? WHY DO WE USE THEM?
 
-Cookies are small files stored by your browser in your computer when you visit our Site. We use cookies to improve our Site and make it easier to use. Cookies permit us to recognize users and avoid repetitive requests for the same information. We also use cookies to help build a pseudonymous profile of your online habits, interests and activities as you navigate our site, which we use to individualize your visits. This profile is not linked to your personal identity. We also use cookies to help build a pseudonymous profile of your online habits, interests and activities as you navigate our site, which we use for general research, analysis and reporting. We mostly use “session cookies” that are automatically deleted after each visit. Cookies from our Site can’t be read by other sites. Most browsers will accept cookies until you change browser settings to refuse them.
+In order to improve our ability to predict which ads We, our third party service providers, advertisers or our partners may use “cookies” or similar technologies, to monitor our visitors surfing ptaerens and preferences and collect other data about the visitors using our site.
+
+We may use cookies or similar technologies to monitor and measure traffic and to customize the content. We also may use cookies to collect information about you and your preferences which helps us offer you products, promotions, or services that may be of interest to you and to deliver relevant advertising tailored to you.
+
+We may also use the services of third parties to provide us with data collection to assist with delivery of relevant banners and advertisements. This data may include information likedemographic data, such as age range, gender, and interests
+
+## HOW YOU MAY LIMIT OR BLOCK COOKIES
+
+You can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or even to block all cookies (although blocking all cookies may diminish some of the services we can offer you including providing you with tailored advertising)
+
+If you wish to disable cookies you may do so through your web browser options. Instructions for doing so and for other cookie-related management can be found on the specific web browsers. websites. Alternatively, you may use the resources located at <http://www.networkadvertising.org/choices> to opt out.
+
+Many third-party advertising networks are members of the Network Advertising Initiative (“NAI”). To opt out of having information collected by NAI member companies used for behavioral advertising, please visit <http://www.networkadvertising.org/choices/>.
 
 ## HOW DO WE PROTECT INFORMATION WE COLLECT?
 
@@ -76,8 +98,6 @@ This Site operates AS-IS and AS-AVAILABLE, without liability of any kind. We are
 
 If you have a privacy question about our Site, please email: Jay Firestone at [webmaster@jewishjournal.com](mailto:webmaster@jewishjournal.com). Or write: Tribe Media Corp., Attn: Jay Firestone, 3580 Wilshire Boulevard, Suite 1510, Los Angeles, California, 90010. Or call us at (213) 368-1661.
 
-(end of policy)
-
 Advertisement
 
-[](http://www.jewishjournal.com/ads/www/delivery/ck.php?oaparams=2__bannerid=1117__zoneid=7__source=newspaper__cb=a42b73d865__oadest=http%3A%2F%2Fwww.jewishjournal.com%2Fmobile)
+[](http://www.jewishjournal.com/ads/www/delivery/ck.php?oaparams=2__bannerid=1117__zoneid=7__source=newspaper__cb=8a737dac39__oadest=http%3A%2F%2Fwww.jewishjournal.com%2Fmobile)
