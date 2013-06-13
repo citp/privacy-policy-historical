@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabulous.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119041207id_/http%3A//www.fabulous.com/informationcenter/index.htm%3Fformdata%5Bqid%5D%3D190) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulous.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613171326id_/http%3A//fabulous.com/informationcenter/index.htm%3Fformdata%5Bqid%5D%3D190) for the most accurate reproduction.*
 
 # Fabulous - Information Center
 
@@ -10,17 +10,17 @@ The Dark Blue Sea group of companies is part of the Photon Group and offers an e
 
 The Dark Blue Sea group comprises a number of companies that includes:
 
-• Dark Blue Sea Pty Ltd ABN 47 091 509 796  
-• Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)  
-• Fabulous Parking Pty Ltd ABN 16 094 225 091  
-• Fabulous.com.au Pty Ltd ABN 34 139 626 994  
-• Roar.com Pty Ltd ABN 99 094 225 064  
-• Pageseeker.com Pty Ltd ABN 45 090 513 849  
-• Darkblue.com Pty Ltd ABN 14 094 225 082  
-• Yexa.com Pty Ltd ABN 12 094 225 073  
-• Drop.com.au Pty Ltd ABN 79 135 424 878  
-• Yexa.com.au Pty Ltd ABN 84 137 606 172  
-• Whois Privacy Services Pty Ltd ABN 65 133 058 741
+� Dark Blue Sea Pty Ltd ABN 47 091 509 796  
+� Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)  
+� Fabulous Parking Pty Ltd ABN 16 094 225 091  
+� Fabulous.com.au Pty Ltd ABN 34 139 626 994  
+� Roar.com Pty Ltd ABN 99 094 225 064  
+� Pageseeker.com Pty Ltd ABN 45 090 513 849  
+� Darkblue.com Pty Ltd ABN 14 094 225 082  
+� Yexa.com Pty Ltd ABN 12 094 225 073  
+� Drop.com.au Pty Ltd ABN 79 135 424 878  
+� Yexa.com.au Pty Ltd ABN 84 137 606 172  
+� Whois Privacy Services Pty Ltd ABN 65 133 058 741
 
 #### ABOUT THIS PRIVACY POLICY
 
@@ -55,13 +55,13 @@ We collect this personal information and make use of these details to provide yo
 **Website activity, cookies and related technology**
 
 We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.  
-We also allow third parties with whom we have entered contractual arrangements (“Advertising Providers”) to serve advertising on our websites.  
-We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users’ browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
+We also allow third parties with whom we have entered contractual arrangements (�Advertising Providers�) to serve advertising on our websites.  
+We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users� browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
 
 Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators.
 
 Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser.  
-The National Advertising Initiative (“NAI”) offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to “opt-out” of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
+The National Advertising Initiative (�NAI�) offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to �opt-out� of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
 We may have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
 
 **IP Addresses**
@@ -110,7 +110,7 @@ Before your child can access most of the interactive products and services we pr
 
 However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent. 
 
-Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners’ names, ages, or images for individuals under 13 require parental or guardian consent. 
+Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners� names, ages, or images for individuals under 13 require parental or guardian consent. 
 
 Subject to the below exemptions, the personal information that we collect from your child will be subject to and dealt with in accordance with the terms of this Privacy Policy. 
 
@@ -144,17 +144,17 @@ If you register a domain name with us, you will be provided with a unique regist
 
 If you believe that we have not protected your personal information in accordance with this Privacy Policy, you can lodge a complaint by:
 
-• Emailing privacy@darkbluesea.com  
-• Telephoning +61 7 3007 0070  
-• Faxing +61 7 3007 0001  
-• Writing to us at:  
+� Emailing privacy@darkbluesea.com  
+� Telephoning +61 7 3007 0070  
+� Faxing +61 7 3007 0001  
+� Writing to us at:  
 PO Box 757  
 Fortitude Valley QLD 4006 
 
 If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
 
-• Telephoning +61 1300 363 992  
-• Writing to:  
+� Telephoning +61 1300 363 992  
+� Writing to:  
 Privacy Commissioner  
 GPO Box 5218  
 Sydney NSW 2001 
