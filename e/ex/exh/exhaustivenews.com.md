@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the exhaustivenews.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102181738id_/http%3A//exhaustivenews.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exhaustivenews.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613043255id_/http%3A//exhaustivenews.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Exhaustive News
 
 Privacy Policy for exhaustivenews.com 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at ismail@exhaustivenews.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at jamespatterson700@gmail.com 
 
 At exhaustivenews.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by exhaustivenews.com and how it is used. 
 
