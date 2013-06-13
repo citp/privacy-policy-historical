@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the product-reviews.net privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213121257id_/http%3A//www.product-reviews.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the product-reviews.net privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613050349id_/http%3A//www.product-reviews.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Product Reviews Net
+# Privacy Policy | Product Reviews Net
 
 **External Site Links**  
 Product Reviews links to other web sites on the internet. The content and Privacy Policies on this sites are the responsibility of their respective owners.
