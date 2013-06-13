@@ -1,54 +1,99 @@
-> *The following text is extracted and transformed from the artmolds.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111104029id_/http%3A//www.artmolds.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artmolds.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614005059id_/http%3A//www.artmolds.com/privacy) for the most accurate reproduction.*
 
-# Lifecasting, Mold Making, Molding Materials, and Casting Materials from EnvironMolds
+# Privacy
 
-This is the web site of **EnvironMolds LLC** operating as **Life-casting.com.**
+##### Security Statement  
+  
+  
+| 
 
-Our postal address is  
- **18 Bank Street**  
- **Summit NJ 07901**  
-We can be reached via e-mail at 
+ArtMolds' checkout process is protected with Secure Sockets Layer (SSL), the standard for encrypted commercial transactions throughout the Internet. Shop safely on-line for art supplies with ArtMolds! SSL encrypts all personal information, including your name and credit card number, so that this information cannot be read as it travels through the Internet.  
+  
+---  
+  
+We guarantee that every online transaction you make will be 100% safe. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at our online store. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, we will cover the entire liability for you, up to the full $50.00. We will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.  
+  
+| 
 
-[info@environmolds.com](https://web.archive.org/mail:%20info@environmolds.com) you can reach us by telephone at 908 273-5401
+[](https://smarticon.geotrust.com/smarticonprofile?Referer=https://www.artmolds.com)
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
+| 
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page. We do collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, and aggregate information on what pages consumers access or visit. 
+ArtMolds uses GeoTrust, an industry leader, as it's security verification service. Transaction information is encrypted prior to transmission using the most powerful and secure encryption technology. In addition, our site ownership, operation, and identity is verified as authentic and valid. Click on the GeoTrust Secured icon at the bottom of every page to verify and view ArtMolds' security certificate.  
+  
+---|---  
+  
+Only those web pages where you actually enter your credit card and billing information pass encrypted information. When you request one of these checkout screens, the page's URL begins with `https` instead of `http`, and the "security" icon on your browser has the appearance of a closed padlock.  
+  
+##### Privacy Statement  
+  
+  
+| 
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes The information is not shared with other organizations for commercial purposes. 
+ArtMolds does not collect or maintain any information about how you as an individual use our website. We analyze our web log statistics as a whole, but we do not track your browsing as an individual, and we do not share or offer this information to other companies.  
+  
+---  
+  
+ArtMolds, like all companies that sell through a catalog or through an online store, maintains a list of current and potential customers. If you order from us, or if you request a catalog, then we will send you a new catalog from time to time, depending on the amount of business you do with us. We like to have email as well as postal addresses if possible. It's our best way of staying in touch.  
+  
+We recognize that you may or may not want to receive future catalogs and offers. If you don't want either catalogs or email from us, let us know and we will follow your wishes. If you're an on-line customer, you can tell us your wishes on this website, by clicking on "My Account" (located on every page of our site, in the upper right corner) and clicking on the link to "Update your Account Preferences".  
+  
+Like other companies in our industry, we sometimes rent or exchange names and mailing addresses with companies that offer catalogs in related fields. If you do not wish to receive other catalogs, please call 1-866-278-6653or email us at [info@artmolds.com](mailto:info@artmolds.com).  
+  
+We do not rent or exchange email addresses or telephone numbers, and we have no plans to do so in the future. We maintain that information in our own records only so that we can contact you.  
+  
+We do no "direct telemarketing" by telephone or fax, and we will never offer your name and phone number to any company that does. We occasionally call our customers to ask them how our service is. For example, we sometimes monitor the shippers we use to make sure that orders are delivered in a timely manner, and without damages. However, we do no telephone marketing and we do not sell information to companies that do.  
+  
+If you are on online customer and you have created an account on this website, you can notify us automatically through the Internet, by clicking on "My Account" (located on every page of our site, in the upper right corner) and clicking on the link to "Update your Account Preferences". If you have never been our customer, but you request a catalog, we offer you the same options on our Catalog Request page.  
+  
+In the event artmolds.com or substantially all of its assets are acquired or merged with another company, all of the customer information that we have collected may be transferred to the new company.  
+  
+##### What if I don't want e-mail or catalogs?  
+  
+  
+| 
 
-With respect to cookies: We do not set any cookies. 
+At ArtMolds, we give you the option to change your privacy settings once you have logged into our website. While logged in, click on "My Account" (located on every page of our site, in the upper right corner), then click on the link to "Update your Account Preferences".  
+  
+---  
+  
+On the "Your Account Preferences" page, you will find a series of checkboxes. Use these checkboxes to tell us whether you are interested in receiving email promotions from us, mailings from us, or mailings from other companies that may be interested in contacting you.  
+  
+If you've never ordered online, but you are already a customer of ours, please feel free to write us and let us know your wishes. Write to us at [info@artmolds.com](mailto:info@artmolds.com), or send us an ordinary letter. It helps to include your customer number (available on any recent invoice, or on the address label of a recent catalog) so that we can match your request with information in our records. Although we try hard to avoid it, we sometimes end up with duplicate records for a customer.  
+  
+If you have asked us not to send catalogs, but you still receive one, you may be on other mailing lists. We periodically rent and exchange names with a few other companies that offer similar products and services. We try hard not to send anybody a catalog unnecessarily, and we seek your help in avoiding duplicate accounts and unnecessary mailings.  
+  
+If you are interested in avoiding catalog mailings in general, the Direct Marketing Association and the United States Postal Service maintain a list of consumers who do not want to receive unsolicited catalogs. If you put your name on the DMA list and keep your mailing information on that list up to date, we will not rent your name or mail you a catalog unless you request it.  
+  
+We try hard not to mail unnecessarily to current and prospective customers who do not want to receive catalogs. Unsolicited and unwanted catalogs are very costly to us. We really appreciate your help in avoiding unwanted mailings.  
+  
+##### What are cookies, and do you use them?  
+  
+  
+| 
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address. 
+Cookies are bits of information your web browser stores on your computer to help a server (such as our website) communicate with you. These cookies are not accessible by any company or internet domain other than our own website located at artmolds.com.  
+  
+---  
+  
+We do use cookies to improve your shopping experience. When you visit artmolds.com, a cookie helps us keep track of your order as you shop on our site. If you are a "Registered Customer", a cookie allows us to recognize you when you return to our site and provides you with access to your account information as well as helps assist in reducing data input during checkout. We may monitor and maintain information about your use of our Web site in a manner that does not identify you. In either case, this information helps us serve you better by improving our site design, as well as our products, services, contests, and promotions.  
+  
+We also use cookies to track and maintain the identity of the Web site you visited immediately prior to ours to further improve our site design and fulfill contracts with our business partners. We do not otherwise track any information about your use of other Web sites.  
+  
+ArtMolds does use various 3rd party cookies to sponsor other websites you may visit, provide promotions on other websites, and capture visitor website usage in aggregate (not individually) for analytic and diagnostic purposes.  
+  
+You can refuse all cookies, 1st party cookies, and/or 3rd party cookies by turning them off in your browser, however, if you turn off 1st party cookies, we will not be able to track your order or enable you to make a purchase from our site nor will we be able to recognize you as a "Registered Customer" to allow you access to your account information or assist data input during checkout processing.  
+  
+If you are concerned about cookies and want to avoid keeping them on your machine, we urge you to use or purchase one of the many excellent "Cookie Eliminator" programs readily available. Alternatively, many modern web browsers allow you to configure your preferred "Privacy" settings as they relate to cookies. For example, you may choose to not accept "3rd party cookies" or you may wish to "delete" all cookies upon closing/exiting the browser application. Other than forcing you to log in again, using any or all of these methods will not affect your use of artmolds.com.  
+  
+##### What other information do you collect?  
+  
+  
+As you browse and order on our site, our servers log your activity and your path through artmolds.com, recording each request for a page as well as other information. ArtMolds collects and analyzes data about how visitors use this website, but we do not use this information to identify or contact individual users nor do we supply any data that could identify individual users to a third party. We use this data only to improve our site and our services. We do nothing with this information other than analyze it in aggregate, use it to diagnose occasional problems, or for audit purposes in the event of fraudulent or unscrupulous activity.  
+  
+##### Policy Changes  
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address. 
 
-From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address. 
-
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address. 
-
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
-
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. 
-
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
-
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, e-mailing us at the above address, writing us at the above address. 
-
-Upon request we provide site visitors with access to a description of information that we maintain about them. 
-
-Consumers can access this information by e-mail us at the above address. 
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site. 
-
-Consumers can have this information corrected by sending us e-mail at the above address. 
-
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at 
-
-[mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at [http://www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm)
-
-Thank you. 
+ArtMolds provides its services to you subject to the preceding policies which may be updated and/or revised from time to time by ArtMolds without notice to you, and which become effective when posted. Please refer to this page to review our most current policies and terms of use.  
+  
+The table below lists the cookies we collect and what information they store.
