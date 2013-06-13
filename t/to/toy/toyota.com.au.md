@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota.com.au privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007203752id_/http%3A//www.toyota.com.au/privacy%3FWT.ac%3DToyota_GlobalFooter_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.com.au privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613110926id_/http%3A//www.toyota.com.au/privacy) for the most accurate reproduction.*
 
 # Toyota Privacy Policy
 
@@ -116,7 +116,7 @@ Access to personal information may be refused in a number of circumstances, such
 
 Back to the top
 
-### Privacy and our website at http://www.toyota.com.au
+### Privacy and our website at [www.toyota.com.au/privacy](http://www.toyota.com.au/privacy)
 
 The type of personal information we collect on our website depends on how you make use of the site.
 
@@ -160,9 +160,9 @@ You can contact Toyota by telephoning us on 1-800-252-097 (Toll Free).
 
 Back to the top
 
-## Toyota Financial Services - Privacy Policy
+## Toyota Finance - Privacy Policy
 
-Toyota Financial Services aims to provide its customers with the best possible products and service. To achieve this, we aim to make efficient use of the personal information we collect from our customers.
+Toyota Finance aims to provide its customers with the best possible products and service. To achieve this, we aim to make efficient use of the personal information we collect from our customers.
 
 We also want our customers to have confidence that in handling personal information, we afford that information an appropriate level of privacy, consistent with the National Privacy Principles.
 
@@ -170,7 +170,7 @@ Back to the top
 
 ### Who are we?
 
-Toyota Financial Services is a division of Toyota Finance Australia Limited ABN 48 002 435 181 ("TFS") which is a related company of Toyota Motor Corporation Australia Limited ABN 64 009 686 097 ("TMCA").
+Toyota Finance is a division of Toyota Finance Australia Limited ABN 48 002 435 181, Australian Credit Licence 392536 which is a related company of Toyota Motor Corporation Australia Limited ABN 64 009 686 097 ("TMCA").
 
 Back to the top
 
@@ -180,21 +180,21 @@ Personal Information is any information about an individual that identifies them
 
 Back to the top
 
-### Why personal information is collected by TFS?
+### Why personal information is collected by Toyota Finance?
 
-TFS collects the personal information it needs to provide the products and services it offers. Those products and services include various types of motor vehicle finance, warranties, insurance products and other financial services within Australia.
+Toyota Finance collects the personal information it needs to provide the products and services it offers. Those products and services include various types of motor vehicle finance, warranties, insurance products and other financial services within Australia.
 
-TFS also collects personal information about its customers and suppliers (including dealers), or employees or officers of its customers and suppliers, so that it can complete business transactions, purchase products and services, administer accounts, provide customer support, respond to customer inquiries and requests for product information and meet regulatory requirements.
+Toyota Finance also collects personal information about its customers and suppliers (including dealers), or employees or officers of its customers and suppliers, so that it can complete business transactions, purchase products and services, administer accounts, provide customer support, respond to customer inquiries and requests for product information and meet regulatory requirements.
 
-If TFS is unable to collect personal information from or about an individual, it may not be able to do business with that individual or the organisation with which the individual is connected.
+If Toyota Finance is unable to collect personal information from or about an individual, it may not be able to do business with that individual or the organisation with which the individual is connected.
 
 Where relevant, we will handle personal information about our current and former employees relying on the exemption in the Privacy Act relating to employee records.
 
 Back to the top
 
-### How does TFS collect personal information?
+### How does Toyota Finance collect personal information?
 
-Where possible, TFS will collect personal information directly from the individual it relates to. This may take place in a number of ways, such as when an application for a product or service is completed or a product or service is requested over the telephone or internet.
+Where possible, Toyota Finance will collect personal information directly from the individual it relates to. This may take place in a number of ways, such as when an application for a product or service is completed or a product or service is requested over the telephone or internet.
 
 We will also collect personal information during the course of our relationship with customers, for example where a loan is refinanced or the terms of an arrangement with us are varied.
 
@@ -203,26 +203,26 @@ Sometimes, personal information may be collected from a source other than the in
   * where we obtain a credit report about an individual from a credit reporting agency in the course of assessing a loan application;
   * from an accountant where we approach the accountant in assessing a loan application;
   * where an individual is an officer of a company that has applied for finance with us, we may obtain information about the officer from public records or from other officers of the company who arrange the company's finance application; and 
-  * from the motor vehicle dealership where a vehicle is purchased or finance with TFS is arranged.
+  * from the motor vehicle dealership where a vehicle is purchased or finance with Toyota Finance is arranged.
 
 
 
-Regardless of who provides personal information to us, it will always be handled by TFS in accordance with this privacy policy.
+Regardless of who provides personal information to us, it will always be handled by Toyota Finance in accordance with this privacy policy.
 
 Back to the top
 
 ### Do we disclose personal information to anyone else?
 
-In providing our customers with their chosen product or service, TFS may sometimes need to disclose personal information to others. Examples of the types of organisations we may need to disclose information to in the course of providing a product or service are:
+In providing our customers with their chosen product or service, Toyota Finance may sometimes need to disclose personal information to others. Examples of the types of organisations we may need to disclose information to in the course of providing a product or service are:
 
   * the vehicle manufacturer (including TMCA) or supplier of the vehicle or any extended warranty taken out in connection with the vehicle that is the subject of the finance;
   * insurers under insurance policies applied for or taken out in connection with the vehicle that is the subject of the finance, or in connection with the finance itself (for example consumer credit insurance);
   * a guarantor if a finance arrangement is guaranteed; and
-  * parties outside TFS where that party is contracted to us to provide a particular service on our behalf and is bound by the same privacy rules we follow.
+  * parties outside Toyota Finance where that party is contracted to us to provide a particular service on our behalf and is bound by the same privacy rules we follow.
 
 
 
-Some examples of the kinds of organisations contracted by TFS are:
+Some examples of the kinds of organisations contracted by Toyota Finance are:
 
   * mailing houses for bulk mailing of letters and notices;
   * printers for direct marketing material;
@@ -231,7 +231,7 @@ Some examples of the kinds of organisations contracted by TFS are:
 
 
 
-Those contracted parties are not authorised by TFS to use personal information for anything other than the purpose for which TFS supplies that information to them.
+Those contracted parties are not authorised by Toyota Finance to use personal information for anything other than the purpose for which Toyota Finance supplies that information to them.
 
 Sometimes, the law requires us to disclose personal information. For example, information may be disclosed to a court in response to a subpoena or to a Government agency such as the Australian Taxation Office on receipt of a direction issued under taxation laws.
 
@@ -243,9 +243,9 @@ Back to the top
 
 ### Direct marketing
 
-From time to time, we may use personal information to inform our customers about our products and services including special offers. We may also send our customers material relating to joint promotions with motor vehicle dealers and other business associates of TFS of our respective products and services.
+From time to time, we may use personal information to inform our customers about our products and services including special offers. We may also send our customers material relating to joint promotions with motor vehicle dealers and other business associates of Toyota Finance of our respective products and services.
 
-If an individual does not wish to receive this information, they just need to let us know by contacting the TFS Customer Service Centre on 137 200.
+If an individual does not wish to receive this information, they just need to let us know by contacting the Toyota Finance Customer Solutions Centre on **137 200**.
 
 Once an individual lets us know that they no longer wish to receive this information, we will stop sending it. The individual can change their mind about receiving information about our products and services at any time. They just need to let us know by phoning the above number.
 
@@ -259,7 +259,7 @@ We would like to be able to make certain personal information about our customer
 
 The information shared with accredited dealers will not include any credit or financial information. It will be limited to identity details (such as name, address, driver's licence number and date of birth) and contact details (home and work/business).
 
-If an individual does not wish us to share their information with our accredited dealer network in this way, they just need to let us know by contacting the TFS Customer Service Centre on 137 200.
+If an individual does not wish us to share their information with our accredited dealer network in this way, they just need to let us know by contacting the Toyota Finance Customer Solutions Centre on **137 200**.
 
 Back to the top
 
@@ -273,7 +273,7 @@ Back to the top
 
 ### Security of personal information
 
-The security of information is important to TFS and we take all reasonable precautions to protect personal information from misuse, loss, unauthorised access, modification or disclosure.
+The security of information is important to Toyota Finance and we take all reasonable precautions to protect personal information from misuse, loss, unauthorised access, modification or disclosure.
 
 Some of the ways we protect personal information include:
 
@@ -288,35 +288,37 @@ Back to the top
 
 ### Access to personal information by individuals
 
-An individual can access most of the personal information TFS holds about them by contacting the TFS Customer Service Centre on 137 200.
+An individual can access most of the personal information Toyota Finance holds about them by contacting the Toyota Finance Customer Solutions Centre on **137 200**.
 
-Depending on the amount of information requested, TFS may charge an access fee to cover the cost of retrieving the information and supplying it to the person who has requested access.
+Depending on the amount of information requested, Toyota Finance may charge an access fee to cover the cost of retrieving the information and supplying it to the person who has requested access.
 
 Access to personal information may be refused in a number of circumstances, such as where the information relates to anticipated legal proceedings or the request for access is frivolous or vexatious. If we deny or restrict an individual's access, we will explain why.
 
 Back to the top
 
-### Privacy and our website at http://www.toyota.com.au/finance
+### Privacy and our website at [www.toyota.com.au/finance](http://www.toyota.com.au/finance)
 
 The type of personal information we collect on our website depends on how an individual makes use of the site.
 
-When an individual visits the site, TFS records the individual's server address, domain name, the date and time of the visit and the pages viewed. This information may be collected by using cookies (data sent to the user's browser, which generally allows our site to interact more efficiently with the user's computer). If an individual disables the use of cookies, the use of our site by that individual may be affected. Information collected about an individual's visit to the TFS site is retained for statistical and website development reasons and is not in a form, which would enable us to identify the individual to which the information relates.
+When an individual visits the site, Toyota Finance records the individual's server address, domain name, the date and time of the visit and the pages viewed. This information may be collected by using cookies (data sent to the user's browser, which generally allows our site to interact more efficiently with the user's computer). If an individual disables the use of cookies, the use of our site by that individual may be affected. Information collected about an individual's visit to the Toyota Finance site is retained for statistical and website development reasons and is not in a form, which would enable us to identify the individual to which the information relates.
 
-An individual who visits the site will not be required to provide TFS with any personal information unless that individual requests information about a TFS product or service. In that case, we will ask the individual to provide contact details along with other information required to respond to the individual's request. The information provided may also be retained for product planning purposes, and unless the relevant individual asks us not to do so, for marketing purposes.
+An individual who visits the site will not be required to provide Toyota Finance with any personal information unless that individual requests information about a Toyota Finance product or service. In that case, we will ask the individual to provide contact details along with other information required to respond to the individual's request. The information provided may also be retained for product planning purposes, and unless the relevant individual asks us not to do so, for marketing purposes.
 
-Although TFS takes steps to protect information sent by e-mail, e-mail is not a secure method of communication and individuals who are concerned about sending their personal information to us in this manner may prefer to call the TFS Customer Service Centre on 137 200.
+Although Toyota Finance takes steps to protect information sent by e-mail, e-mail is not a secure method of communication and individuals who are concerned about sending their personal information to us in this manner may prefer to call the Toyota Finance Customer Solutions Centre on **137 200**.
 
 Back to the top
 
 ### Resolving concerns
 
-If an individual believes that the privacy of their personal information has been compromised, they are entitled to complain. Complaints can be made by the individual contacting the person or department they were dealing with or by calling the TFS Customer Service Centre on 137 200 and asking for the privacy officer. We will respond to complaints as soon as possible.
+If an individual believes that the privacy of their personal information has been compromised, they are entitled to complain. Complaints can be made by the individual contacting the person or department they were dealing with or by calling the Toyota Finance Customer Solutions Centre on **137 200** and asking for the privacy officer. We will respond to complaints as soon as possible.
+
+If you disagree with our decision, you may refer your complaint to the Office of the Australian Information Commissioner by visiting [www.oaic.gov.au](http://www.oaic.gov.au/), calling **1300 363 992** or by emailing [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au). 
 
 Back to the top
 
 ### Additional information
 
-Individuals who would like more information about TFS's approach to privacy are encouraged to contact the TFS Customer Service Centre on 137 200.
+Individuals who would like more information about Toyota Finance's approach to privacy are encouraged to contact the Toyota Finance Customer Solutions Centre on **137 200**.
 
 Back to the top
 
@@ -324,13 +326,32 @@ Back to the top
 
 ### About Toyota Insurance
 
-Toyota Insurance is a division of Aioi, a member of the Toyota Group of companies and the brand behind a suite of insurance products and services. Toyota is Australia's leading motor vehicle company and a market leader in both sales and exports. Toyota Insurance complements the renowned quality, reliability and durability of Toyota vehicles and the lifestyle needs of Toyota customers, providing them with a range of insurance products and services to help reduce the financial risk of owning and operating a vehicle.
+Toyota Insurance is a division of Andia and the brand behind a suite of insurance products and services. Toyota is a leading motor vehicle company in Australia. Toyota Insurance complements the renowned quality, reliability and durability of Toyota vehicles and the lifestyle needs of Toyota customers, providing them with a range of insurance products and services to help reduce the financial risk of owning and operating a vehicle. 
 
 Back to the top
 
-### About Aioi
+### About Andia
 
-Aioi is one of Japan's largest non life insurance companies with a market capitalisation of approximately USD$28 billion and approximately USD$8 billion in net written premium revenue per annum. As a significant member of the Toyota Group of companies, Aioi is uniquely placed to provide a niche suite of financial products, combining our core expertise with the strength and resonance of Toyota Insurance. Aioi is an APRA regulated, AFS licence holder.
+Andia is a member of MS&AD Insurance Group Holdings Inc., which also includes Mitsui Sumitomo Insuranc Co., Ltd. MS&AD Insurance Group Holding Inc. is one of Japan's largest non-life insurance companies, with a worldwide network providing diversified insurance services through subsidiaries and branches in key cities in Asia, Australia, North America and Europe. 
+
+By combining our core expertise with the stength and resonance of the Toyota Group of Companies, we are uniquely placed to provide a niche suite of financial products and services. Andia is an APRA regulated general insurer and an Australian Financial Services Licence (AFSL) holder. 
+
+**Please note**
+
+In this Privacy Policy "we, us, our or Toyota Insurance refers to: 
+
+  * **Aioi Nissay Dowa Insurance Co., Ltd.**
+
+ABN 39 096 302 466 
+
+AFSL Number 254489; and 
+
+  * **Aioi Management Australia Pty Ltd**
+
+ACN 132 524 282.
+
+
+
 
 Back to the top
 
@@ -364,11 +385,11 @@ We collect this information for purposes which include communicating with custom
 
 We will only provide your personal information to government authorities if required by law.
 
-If necessary, we may also disclose your personal information to a third party (for example, Toyota Financial Services) when processing a claim, validating and confirming information, administering policies and where customer research is conducted by us or on our behalf.
+If necessary, we may also disclose your personal information to a third party (for example, Toyota Finance) when processing a claim, validating and confirming information, administering policies and where customer research is conducted by us or on our behalf.
 
 Examples of third parties include other insurance companies, (to confirm your insurance profile), claims assessors, (when a claim requires assessment or investigation), the insurance reference bureau, consumer research organisations, a guarantor noted on a finance contract and finance companies (only if noted on your policy documents).
 
-In order to keep you informed of special offers, including new products and services, we may share your personal information on a confidential basis with the Toyota Group of companies. If you do not wish to receive such information, you may contact us by calling the number listed on the last page of this document. You can elect to receive or cease receiving information at any time by simply calling that number.
+In order to keep you informed of special offers, including new products and services, we may share your personal information on a confidential basis with the Toyota Group of companies. If you do not wish to receive such information, you may contact us by calling **137 200**. You can elect to receive or cease receiving information at any time by simply calling that number.
 
 Back to the top
 
@@ -388,7 +409,7 @@ In most cases, a summary of basic policy information such as your name, address,
 
 To obtain other documents such as a relevant assessor's or investigator's report, you may need to complete a written application.
 
-Contact us on 137 200 if you would like information on how to request access to such information.
+Please contact us on **137 200** if you would like information on how to request access to such information.
 
 There is no charge for making a request.
 
@@ -396,13 +417,15 @@ Back to the top
 
 ### When may a request for access to documents be denied?
 
-We may deny access to some or all of the documents requested by our customers. A request will be denied, for example, if a document contains:
+We may deny access to some or all of the documents requested by you, but will not do so unreasonably. A request will be denied, for example, if a document contains:
 
-  1. Confidential information provided by people or organisations other than our customers;
+  1. Confidential information provided by people or organisations other than you;
   2. Information that may lead to the identification of the person/s or organisation/s who provided the confidential information; or
-  3. Commercially sensitive information, for example, which discloses our claims investigation procedures.
+  3. Commercially-sensitive information, which discloses our claims investigation procedures.
 
 
+
+Where we deny access to some or all of the documents requested, we will provide reasons and you will have the right to request a review of our decision through our complaints handling procedures. We will provide our reasons in writing upon request. 
 
 Back to the top
 
@@ -414,12 +437,10 @@ Back to the top
 
 ### If you have a complaint relating to Privacy
 
-Our Consumer Advocate is empowered to act quickly and independently in dealing with your Privacy concern.
+If you believe we may have compromised your Privacy or breached the National Privacy Principles, for example, by refusing access to a document you have requested or we have refused to amend your personal records, you can ring, write to or email us. 
 
-If you believe we may have compromised your Privacy or breached the National Privacy Principles, for example, by refusing access to a document you have requested or we have refused to amend your personal records, you can ring, write to or email our Consumer Advocate. Please refer to the contact details on the last page of this document.
+You will receive a response no later than 5 business days after receipt of your contact. You will be sent a final decision in writing no later than 15 business days after you contact us, if we have all the necessary information to make that decision.
 
-You will receive a response no later than 5 business days after receipt of your contact. You will be sent a final decision in writing no later than 15 business days after your contact if the Consumer Advocate has all the necessary information to make that decision. More information on this service is contained in our brochure "Resolving a complaint".
-
-To obtain a copy, call us on 137 200. If you disagree with the decision of our Consumer Advocate, you may refer your complaint to the Federal Privacy Commissioner by phone 1300 363 992 or by email [privacy@privacy.gov.au.](mailto:privacy@privacy.gov.au)
+If you disagree with our decision, you may refer your complaint to the Office of the Australian Information Commissioner by visiting [www.oaic.gov.au](http://www.oaic.gov.au/), calling **1300 363 992** or by emailing [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au).
 
 Back to the top
