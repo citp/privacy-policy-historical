@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readingeggs.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222044309id_/http%3A//readingeggs.com/beta/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingeggs.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613090434id_/http%3A//readingeggs.com/info/privacy) for the most accurate reproduction.*
 
-# Reading Eggs | Where Children Learn to Read Online
+# Privacy - Reading Eggs | Where Children Learn to Read Online
 
 ## Privacy Policy
 
