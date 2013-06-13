@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sigmaphoto.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231043531id_/http%3A//www.sigmaphoto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigmaphoto.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613234745id_/http%3A//www.sigmaphoto.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Sigma
 
 PRIVACY POLICY  
 Last Updated: April 26, 2010
@@ -27,8 +27,7 @@ If you do submit personally identifiable information to us, we may share such in
 
 We may also use your information in other ways, such as to contact you about changes to Site policy, to provide you with information about products and offers we believe will be of interest to you, or as otherwise disclosed to you at the point of collection. We may share your information with our parent company, affiliates, partners, and any other organizations or entities for similar purposes. Additionally, to the extent required by applicable federal or state law, we will provide this information to others.
 
-By submitting information to us, you give us permission to receive it, review it, edit it, store it, post it on the Site, and use it in appropriate settings designed to illustrate the viewpoint of SIGMA.  
-
+By submitting information to us, you give us permission to receive it, review it, edit it, store it, post it on the Site, and use it in appropriate settings designed to illustrate the viewpoint of SIGMA.
 
 **C. Sharing Information for Operation Of Sigma Business**
 
@@ -73,12 +72,11 @@ While we follow generally accepted industry standards to protect the personal in
 This site is operated, in whole or in part, from the United States. By using this Site, regardless of where you live in the world, you consent to have your personal data transferred to and processed in the United States, and allow Sigma to use and collect your personal information in accordance with this Privacy Policy.
 
 **11\. UNSUBSCRIBE / CONTACT US  
-**We want to communicate with you only if you want to hear from us. If you prefer not to receive information from Sigma or would like to update or change your personal information or preferences, follow the instructions below. However, Sigma may send you service-related announcements, and transactional e-mail such as confirmations and receipts, from time to time through the general operation of the Site or by e-mail. If you do not want to receive any e-mail from us in the future, click the “unsubscribe” reference in any e-mail we send you, or follow the directions here: http://www.sigmaphoto.com/newsletter-retrieve-updatelink.   
+** We want to communicate with you only if you want to hear from us. If you prefer not to receive information from Sigma or would like to update or change your personal information or preferences, follow the instructions below. However, Sigma may send you service-related announcements, and transactional e-mail such as confirmations and receipts, from time to time through the general operation of the Site or by e-mail. If you do not want to receive any e-mail from us in the future, click the “unsubscribe” reference in any e-mail we send you, or follow the directions here: <http://www.sigmaphoto.com/newsletter-retrieve-updatelink>.   
 If you wish to review the contact information we have on file for you, correct your contact information, provide a change of address, or inform us how you wish your contact information to be used, please contact our staff. You may contact us by mail, telephone, or e-mail, as follows:
 
 Sigma Corporation of America  
 15 Fleetwood Court  
 Ronkonkoma, NY 11779  
 Phone: (631) 585-1144  
-E-mail: info@sigmaphoto.com  
- 
+E-mail: [info@sigmaphoto.com](mailto:info@sigmaphoto.com)
