@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50connect.co.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603023022id_/http%3A//50connect.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50connect.co.uk privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613143402id_/http%3A//50connect.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # 50 Connect | Privacy policy
 
@@ -128,7 +128,7 @@ If you have any questions or comments about this Privacy Policy please contact;
 ##  50connect.co.uk
 
 Olderiswiser Limited  
-Suite 9,  
-46 Manchester Street,  
-London W1U 7LS  
+Suite 2,  
+75 Gloucester Place,  
+London W1U 8JP  
 Tel: (020) 7034 1900
