@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ruthschris.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116044423id_/http%3A//www.ruthschris.com/about-us/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruthschris.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613034807id_/http%3A//www.ruthschris.com/about-us/PrivacyPolicy) for the most accurate reproduction.*
 
-# Ruth's Chris Steak House
+# 
 
 At Ruth's Chris Steak House, we value the trust that our guests place in us. We are committed to protecting the personal privacy of everyone who visits our Web site and our restaurants.
 
