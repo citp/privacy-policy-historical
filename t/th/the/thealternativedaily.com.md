@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thealternativedaily.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017053907id_/http%3A//www.thealternativedaily.com/%3Fpage_id%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thealternativedaily.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613062943id_/http%3A//www.thealternativedaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Alternative Daily
 
@@ -62,7 +62,7 @@ By using our site, you consent to our online privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 01/05/2012
+This policy was last modified on 03/19/2012
 
 **Contacting Us**
 
@@ -73,7 +73,7 @@ Splash Campaign, LLC
 
 http://www.thealternativedaily.com
 
-4905 Dixie Highway  
-Suite 208  
-Stuart, FL 34997, USA  
+860 US Highway 1  
+Suite 210  
+North Palm Beach, FL 33408, USA  
 info@thealternativedaily.com
