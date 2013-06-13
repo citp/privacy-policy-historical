@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enchantedsavings.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213030351id_/http%3A//enchantedsavings.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enchantedsavings.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613212246id_/http%3A//enchantedsavings.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy - Enchanted Savings
 
 This privacy policy sets out how Enchanted Savings uses and protects any information that you give Enchanted Savings when you use this website.
 
