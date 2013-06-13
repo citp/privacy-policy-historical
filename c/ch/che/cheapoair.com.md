@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapoair.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122061353id_/http%3A//www.cheapoair.com/travel/travel_resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapoair.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614001423id_/http%3A//www.cheapoair.com/travel/travel_resources/privacy.asp) for the most accurate reproduction.*
 
 # CheapOair.com Privacy Policy
 
@@ -108,9 +108,9 @@ You will be notified when your personal information is collected by any third pa
   
 **Customer Service,  
 CheapOair.com,  
-213 West 35th Street  
-Suite 1301  
-New York, NY 10001  
+135 W 50th Street  
+Suite 500  
+New York, NY 10020  
 [cservice@CheapOair.com](mailto:cservice@cheapoair.com)**  
   
   
