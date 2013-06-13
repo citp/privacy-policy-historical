@@ -1,97 +1,141 @@
-> *The following text is extracted and transformed from the healthology.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602105116id_/http%3A//www.healthvideo.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthology.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613041426id_/http%3A//www.ivillage.com/privacy-policy/8-a-257153) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - iVillage
 
-This Privacy Policy was last updated on HealthVideo.com on 08/22/08. 
+This Privacy Policy was last updated on April 29, 2009
 
-Introduction: This web site which are located at the domain healthvideo.com (the "Site") are operated by HealthVideo.com. ("HealthVideo.com " or "we" or "our" or "us"). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at HealthVideo.com or at the address at the end of this policy. 
+ **Introduction:** At iVillage, Inc. we realize the importance of feeling safe online and are fully committed to ensuring that your privacy is respected and protected. Our Privacy Policy below outlines the type of information we collect and receive from you while you are within the iVillage Network, as well as ways in which we process and, sometimes, share such information and how you can correct or change such information. The iVillage Network is defined as the network of websites and services that are owned and operated by iVillage, Inc. and its subsidiaries. Each site included within the iVillage Network is governed by this Privacy Policy unless otherwise noted on such site.
 
-**PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.**
+ **PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE IVILLAGE NETWORK CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.SUCH PRIVACY POLICY AND TERMS OF SERVICE.**
 
-1\. Types of Information Collected • Personal Data • Aggregate and Anonymous Data   
-2\. Use of Cookies and Other Technologies   
-3\. Our Use of Your Information   
-4\. Disclosure of Personal Data to Third Parties • Disclosure to Affiliates • Disclosure to Third Parties • Disclosure to Others   
-5\. Third Party Advertising and Links to Other Sites   
-6\. Your Choice   
-7\. Access and Correction   
-8\. Children and Privacy   
-9\. Message Boards, Chat Rooms, Blogs and Other User Forums   
-10\. Data Security   
-11\. Exclusions   
-12\. Other Terms and Conditions   
-13\. Site Location   
-14\. Changes to this Privacy Policy   
-15\. Contacting HealthVideo.com 
+  1. How iVillage Collects Information
 
-**Regarding Your Privacy**  
-1.Types of Information Collected: Personal Data: Personally Identifiable Information ("Personal Data") is any information that can be used to identify a specific individual, such as your name, email address, home address, phone number and credit card information. This Site collects Personal Data when you interact with the Site for example when you subscribe for newsletters; register for membership services such as chat rooms or message boards; participate in chat rooms, blogs or other user forums; respond to polls or surveys; purchase merchandise via the Site; register for sweepstakes, contests and other promotional opportunities; or seek help from our customer service departments. 
 
-We also may collect information when you purchase products or services offline, or register for wireless services via your cellphone or other wireless devices ("Other Services"). Because providing detailed information regarding our privacy policy when you register or provide information in connection with these Other Services often proves impractical, you may instead be provided with a short notice that reminds you to refer to this Privacy Policy and other relevant information from us. 
+  * Personal Data you provide
+  * Information iVillage collects
 
-We may also obtain Personal Data from reputable third parties, such as credit agencies. Aggregate and Anonymous Data: Aggregate and anonymous data is information that does not identify you specifically including data collected automatically through the operation of the Site ("AA Data"). We may collect site usage data (such as which Site pages you visit and in what sequence) through the use of various technologies. For example, we collect IP addresses from individuals who visit the Site. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from a website, its servers log your IP address. We do not link IP addresses to any Personal Data, so although your session will be logged, you will remain anonymous to us and the Site. 
 
-We may also collect password information from you when you log in, as well as computer and connection information such as browser type or version. During some visits, we may use software tools, such as Javascript, to measure and collect session information, including page response times, download errors, time spent on certain pages, page interaction information, and methods used to browse away from the page. 
+  2. Our Use of Your Information
+  3. Disclosure of Personally Identifiable Information to Third Parties
+  4. iVillage Opt-in/Opt-out Policy
+  5. Third Party Advertising and Links to other Sites.
+  6. Access and Correction
+  7. Guidelines regarding children
+  8. Public forums/chat rooms/message boards/bulletin boards/social
+networking 
+  9. How we protect and secure your information
+  10. Applicable Law
+  11. Changes to this Privacy Policy
+  12. Contact Information
+  
 
-**2\. Use of Cookies and Similar Technologies**   
-Like many sites, we use "cookies" or other similar technologies to collect AA Data. A cookie is a small data file that writes to your hard drive for record keeping purposes when you visit the Site. Cookies allow the Site to measure traffic activity on the Site and to improve your user experience, for example by remembering your passwords and viewing preferences, allowing you to visit "member only" portions of the Site without re-registering, and tracking the progress and number of entries in activities that require registration or entry, such as sweepstakes. 
 
-Similarly, if you have asked us to send you information about upcoming products and promotions, using cookies we collect information about which Site pages you have visited and in what order ("Clickstream Data") that may allow us to narrow or limit the materials provided to you based on your prior online activities or preferences. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent, but it is possible that some parts of the Site will not function properly if you do so. In addition, we may use a service that collects data remotely by using so-called "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, "Pixel Tags") embedded in the Site's content. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors' hard drives. This information is AA data. 
 
-**3\. Our Use of Your Data  
-** Personal Data: We will use your Personal Data for the purposes for which it was provided. For example, if you provide Personal Data to register for a newsletter or a text messaging service, to enter a contest or a sweepstake, or to purchase goods or services, we will use it to register you for or provide you with those goods or services. 
+**1\. How iVillage Collects Information**  
+A. Personal Data you provide to iVillage  
+Personally Identifiable Information is any information that can be used to identify a specific individual such as your name, email address, home address, and phone number. iVillage asks you to provide Personally Identifiable Information in various places throughout the iVillage Network. Some of these areas where the collection of such information takes place are listed below:
 
-We may also use your Personal Data to provide you with information about features, services and other offerings that may be of interest to you. We also may send information or offers to selected groups of Site users on behalf of other businesses. When we do this, we do not give those businesses your name or address. Under certain circumstances (for example if you win a contest) we may post your Personal Data on the Site. We will notify you of this possibility when you provide the Personal Data and, if possible, when the Personal Data is posted. 
+ _Member Registration_  
+In order to use many of iVillage's features, tools and services, we ask you to register to become a member. During this member registration process, we will ask you for Personally Identifiable Information. In addition, you may choose to provide iVillage with additional information including marital status, household income, education and employment status.
 
-Cookies and similar tools may be used to relate your use of the Site and AA Data to Personal Data obtained from you. If any AA Data is linked with Personal Data, the linked AA Data will then be treated as Personal Data. AA Data: We may also use Personal Data in aggregate form for purposes of research or analysis. In order to better understand and serve the users of the Site and Other Services, HealthVideo.com often conducts research on its customer demographics, interests and behavior based on Personal Data we gather. 
+ _Email Newsletters_  
+iVillage offers electronic newsletters on a variety of topics. If you subscribe to any of these newsletters, you will be required to provide a valid email address as well as any other information that is relevant to the delivery of the newsletter (e.g., certain Astrology.com newsletters require you to provide your birthday).
 
-Although this aggregated data may be based in part on Personal Data, it does not identify you personally. HealthVideo.com may share this type of AA Data with a variety of third parties, including its affiliates, agents, and current and prospective business partners. We may use AA Data collected from the Site for site administration, advertising and promotional purposes, and we may share such information with various affiliated and unaffiliated entities for such purposes. For example, IP addresses are used for the purposes of system administration and to provide AA Data to advertisers about the volume of use on the Site, and Clickstream Data and demographic AA Data may be shared with our advertisers and business partners. We may also enter into agreements with outside companies that possess technology that allows the Site to customize the advertising and marketing messages you receive on the Site. This data (including Clickstream Data about your activities on our Site) may be shared with these companies for this purpose. 
+ _Surveys and Polls_  
+iVillage offers online surveys and questionnaires that ask users for opinions on various issues and/or other information. Occasionally, we may request demographic information (like zip code, age or gender) when you answer a survey. Such surveys are completely voluntary.
 
-**4\. Disclosure of Personal Data**  
-Disclosure to Affiliates: We reserve the right to share Personal Data with our affiliates. If you do not want us to share your Personal Data with our affiliated companies for their marketing purposes, you may opt-out of such sharing by contacting us at HealthVideo.com (see "Your Choices" below). Disclosure to Third Parties: HealthVideo.com, like many businesses, sometimes hires other companies to perform certain business-related functions on our behalf such as hosting specific portions of the Site, maintaining databases, administering contests, providing wireless services, mailing information and processing payments. 
+ _Sweepstakes and Contests_  
+We regularly operate sweepstakes, contests and giveaways throughout the iVillage Network. We typically ask you for your email address and/or phone number (to notify you if you've won, or not). We also ask for first and last names, and sometimes post office addresses in order to verify the entrant's identity. In some situations, we need additional information as part of the entry process, such as a prize selection choice.
 
-When we employ a third party to perform these functions, that third party will only be provided with the particular Personal Data it needs to perform its function, and is required to protect the Personal Data. With your consent, we may also share Personal Data with pre-screened third parties for their marketing or promotional purposes. We will provide you with an opportunity to elect or decline these services or opportunities (see "Your Choices" below). In the event you have elected to "unsubscribe" from any of our services, we will share your Personal Data with third parties with whom we jointly offer such services solely to the extent necessary to ensure that your request not to receive such communications is honored. In addition, for third-party sponsored sweepstakes, contests or promotions, we may request Personal Data from you that may be shared with the sponsor upon request. 
+ _ECommerce Transactions_  
+When you engage in an ecommerce transaction on the iVillage Network you may be asked to provide credit card information and other Personally Identifiable Information in order to complete the transaction.
 
-Disclosure to Others: In addition, we may disclose Personal Data without providing you with a choice under the following limited circumstances to: (1) protect the legal rights, privacy or safety of HealthVideo.com, or its subsidiaries, affiliates or its or their employees, agents and contractors; (2) protect the safety and security of visitors to our web sites or other properties; (3) protect against fraud or other illegal activity or for risk management purposes; (4) respond to inquiries or requests from public authorities; (5) permit us to pursue available remedies or limit the damages that we may sustain; (6) enforce our Terms of Service; or (7) comply with the law or legal process. If HealthVideo.com sells all or part of this Site or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign your Personal Data to a third party as part of or in connection with that transaction. Upon such transfer, the Privacy Policy of the acquiring entity may govern the further use of your Personal Data. 
+ _Health Information_  
+In order to use some of the tools and services on the iVillage Total Health pages you may be asked to provide information about your health. When you provide this information, in certain circumstances iVillage will associate it with Personally Identifiable Information.
 
-**5\. Third-Party Advertising and Links to Other Sites**  
-This Site may include third-party advertising. These third parties' websites and advertisers, or the Internet advertising companies that work on their behalf, may use technology to send (or "serve") the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, Javascript, Pixel Tags and other technologies to deliver advertisements, collect information about the effectiveness of their advertisements, and to collect anonymous information about your visits to the Site, such as the number of times you have viewed an ad (but not your name, address, or other Personal Data). 
+B. Information gathered by iVillage and its third party service providers
 
-For more information about these specialized cookies and other technologies, and how to "opt out" of information collection by these companies, we suggest you visit http://doubleclick.net/privacy_policy or http://networkadvertising.org/optout_nonppii.asp. Please note that this Site contains links to other sites that will not follow the same Privacy Policy as our Site. For instance, clicking on an advertisement or on links or other elements on the Site may take you to an entirely different site. Links to other sites may use our Site logo or style as a result of a co-branding agreement. These sites may send their own cookies to you and may collect data and make use of that data in ways that this Site would not. Once you've left this Site, this Privacy Policy will no longer apply to Personal Data or any other data collected from or provided by you. You should check the applicable privacy policy to determine how that site will handle such data. 
+When you visit the iVillage Network and interact with the services and tools that reside there, iVillage and third parties with whom iVillage has contracted to provide services to iVillage may collect information on your actions. This type of information is generally collected from two sources. One is from the server log files and the other is from cookies.
 
-**6\. Your Choices**  
-You can use the Site and certain Other Services without providing any Personal Data, but if you decline to provide Personal Data, you may not be able to use certain services or features. If you have previously provided Personal Data to the Site and have subscribed to one or more email newsletters or are receiving emails or other communications from the Site and you do not want to receive such emails, please discontinue your subscriptions by selecting the "unsubscribe" link at the bottom of any message, visiting the HealthVideo.com section of the Site or contacting us at: HealthVideo.com. 
+          
 
-You may opt-out of receiving offers from us and related products and services offered by third parties by adjusting your Site preferences at our HealthVideo.com link on the home page. If you ask that we stop using your Personal Data, we will honor that request. However we will retain records of your Personal Data as needed in order to comply with applicable federal, state, or local law. 
+ _IP Address_
 
-**7\. Access and Correction**  
-If you would like to review, correct or change the Personal Data that you have previously provided us, please go to HealthVideo.com section of the Site and follow the appropriate instructions or contact us at HealthVideo.com. We will take reasonable steps to update or correct Personal Data in our possession. 
+Your IP address is a number that is assigned by your ISP (Internet Service Provider) to your computer to identify its location. We use your IP address to help diagnose problems with our server and to administer our website. We also sometimes use IP addresses to communicate with members and subscribers and possibly even ban those members who are not complying with our [Terms of Service](https://web.archive.org/terms-of-service/8-a-257158).
 
-**8\. Children and Privacy**  
-We encourage parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. At various places on the Site or Other Services, we may ask users for their age. By using the Site or Other Services you agree to respond truthfully and accurately about your age. Children under the age of 13 years of age are expressly prohibited from submitting or posting any Personal Data on the Site or Other Services. 
+          
 
-**9\. Message Boards, Chat Rooms, Blogs and Other User Forums**  
-Please remember that information posted to message boards, chat rooms, blogs and other user forums becomes public information. Use caution when posting. Individuals under the age of 18 should be especially careful not to provide any personally identifiable information when participating in any area of the Site where postings might become public. Please see our Terms of Service for the standards of behavior that must be followed when using these portions of the Site or Other Services. 
+_Cookies_
 
-**10\. Data Security Disclaimer**  
-HealthVideo.com takes reasonable security precautions to secure the Personal Data that you choose to provide against the loss, misuse, alteration or unauthorized access of such information. Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of HealthVideo.com to intercept or access transmissions or private communications unlawfully. While we strive to protect your Personal Data, we cannot ensure or warrant the security of any Personal Data you transmit to us. Any such transmission is done at your own risk. If you believe that your interaction with us is no longer secure, please notify us of the problem by contacting us at HealthVideo.com. 
+Our site uses a feature of your browser to set a "cookie" on your computer. Cookies are small packets of information that a site's computer stores on your computer. The iVillage Network can then read the cookies whenever you visit the iVillage websites. We use cookies to save your password so you don't have to re-enter it each time you visit our site, to deliver content specific to your interests, to track the pages you've visited and to make sure you don't see the same ads repeatedly. These cookies allow us to use the information we collect to customize your iVillage experience so that your visit to iVillage is as relevant and as valuable to you as possible.
 
-**11\. Exclusions**  
-This Privacy Policy shall not apply to any unsolicited information you provide to HealthVideo.com on or through this Site or Other Services. Please see our Terms of Service for our policies regarding such Unsolicited Information. All such Unsolicited Information shall be deemed to be non-confidential, and HealthVideo.com shall be free to reproduce, use, disclose and distribute such Unsolicited Information to others without limitation or attribution. 
+You may modify your browser preference to provide you with choices relating to cookies. You have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies you may be unable to use those iVillage services that require registration in order to participate or will have to sign in each time you visit the iVillage Network.
 
-**12\. Other Terms and Conditions**  
-Your access to and use of this Site or Other Services is subject to the Terms of Service. 
+Our advertising is currently served by third party advertising companies which deliver a cookie to you so the ads you see can be tracked and ensure that you are not shown the same ad too many times. Since the third party advertising company only tags your computer with a number, they know nothing about who you are. iVillage does not provide these third party advertising companies with any personally identifiable information. However, these companies may use non-personally identifiable information about your visits to the iVillage Network and other sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
-**13\. Applicable Law**  
-We control and operate this Site from the United States. The Site is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Site is appropriate for use in any particular jurisdiction. Those who choose to access the Site do so at their own initiative and are responsible for complying with all local laws, rules and regulations. 
+ **2\. How iVillage uses Information it collects**
 
-**14\. Changes to this Privacy Policy**  
-From time to time, we may revise this Privacy Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. If we make revisions to the way we collect or use Personal Data, we may provide notice of those changes by either: (1) announcing the change on the home page of the Site or (2) taking such other action as we deem appropriate under the circumstances, including without limitation, posting the revised draft of this Privacy Policy on the Site. You can determine when this Privacy Policy was last revised by referring to the "Last Updated" legend at the top of this page. Any changes to this policy will become effective upon posting of the revised Privacy Policy on the Internet, accessible through the Site. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue using this Site. 
+iVillage uses the information you provide for several purposes, such as to communicate with you and to give you a better experience when visiting the iVillage Network by personalizing tools, content, services and email messages. iVillage also uses this information to build new services and develop offers that iVillage believes are more relevant and valuable to you.
 
-**15\. Contacting HealthVideo.com Regarding Your Privacy**  
-If you have any questions about this Privacy Policy, Personal Data gathered by this Site or Other Services, or about the operation of this Site or Other Services, or if you wish to unsubscribe from the Site or Other Services, please contact us at HealthVideo.com, or at the address listed below. 
+The information collected by iVillage is also used to create aggregated portraits of the iVillage audience, portraits which present anonymous statistical demographic information but no personally identifiable information. This aggregated information is used, among other things, to determine trends and needs, and also to supply market research to potential advertisers and partners to help them understand who the iVillage audience is. For example, we may create a report that tells advertisers that 60 percent of our members are females in a certain age range, so that they can determine which of their products or services are most appropriate for our members.
 
-HealthVideo.com   
-904 Sylvan Avenue   
-Englewood Cliffs, NJ   
-07632 
+iVillage offers the ability to forward an article to another person via email. If you use this service, we will use the recipient's email address in order to send the article or postcard and we will also ask for your email address. We do not use the recipient's email address for any other purpose unless such recipient gives us permission to do so.
+
+ **3\. Disclosure of Personally Identifiable Information to Third Parties**
+
+iVillage does not sell or otherwise share Personally Identifiable Information with unaffiliated third parties without your consent (please see the Opt-In/Opt-Out Policy below), except in the following instances: (i) disclosure is required by applicable law or pursuant to a court or similar order; (ii) as deemed necessary, in iVillage's discretion, to protect the legal rights or the property of iVillage, a member or third party, or to prevent personal injury; and/or (iii) in the event of a sale, merger, assignment, joint venture or other transfer or disposition of a portion or all of the assets or stock of iVillage or its affiliated entities (including, without limitation, in connection with any bankruptcy or similar proceedings). In addition, iVillage may provide Personally Identifiable Information to third parties who are providing technical or fulfillment services on behalf of iVillage when such disclosure is required in order to provide those services, provided that such third parties agree to be bound by iVillage's Privacy Policy. iVillage also reserves the right to share any Personally Identifiable Information or other information about you which you provide to (or which is gathered from) the iVillage Network with any or all of its subsidiaries and affiliates (collectively, our "Affiliates") (subject to the opt-out right described below, with respect to disclosures of Personally Identifiable Information to Affiliates for their direct marketing uses). iVillage will also have access to any information you provide to (or which is gathered from) the web sites of any of our Affiliates.
+
+Oftentimes, sweepstakes and contests offered on the iVillage Network are sponsored by unaffiliated third parties. Information that you provide as part of an entry into a sponsored sweepstakes or contest will be shared with the sponsor if we advise you of such in the sweepstakes rules. Most sweepstakes and contests will also ask you to consent to the release of information contained within the entry form for tax purposes if you become a winner. You should carefully review the rules of each sweepstakes, contest and giveaway which you enter as they may contain additional important information about iVillage's or a sponsor's use of your personally identifiable information. To the extent that you wish to avail yourself of the health, wellness and medical related services and tools available through the iVillage Total Health site, iVillage will be required to share certain personally identifiable information with the health, wellness and medical partners you have chosen to interact with. iVillage is a founding member of the Health Internet Ethics Organization. [Click here](http://health.ivillage.com/0,,p8b5,00.html) to review the Hi-Ethics principles. iVillage will use commercially reasonable efforts to contractually require all such third party advertisers and partners to agree to abide by either the terms of this Privacy Policy or the Health Internet Ethics principles, as applicable.
+
+The information you provide on pages of the iVillage Network that are co-branded with a third party (including tools that are hosted by a third party) may be shared with advertisers and partners on an aggregated basis and in these instances your permission will not be requested since no Personally Identifiable Information will be shared or provided to these third party sponsors or advertisers. iVillage will, however, use commercially reasonable efforts to contractually require all such third party advertisers and partners to agree not to use any non-personally identifiable information about you, in conjunction with other sources of information, or otherwise, to identify you.
+
+ **4\. The iVillage Opt-in/Opt-out Policy**
+
+Upon registration or from time-to-time, you may be asked to indicate whether you are interested in receiving information from us about special offers or news about our sites and advertisers. If you do choose to receive these communications by means of an opt-in, we will occasionally send you an email message that matches your request(s). We currently provide the following opt-out opportunities:
+
+  1. At any time, you can follow a link provided in every newsletter or email message (except for e-commerce confirmation or service notice emails) to unsubscribe from that mailing list or email service.
+  2. At any time, you can contact us through feedback@mail.ivillage.com to have your contact preference changed to "Do Not Contact Me."
+  3. Notwithstanding anything else in this Privacy Policy, please note that iVillage reserves the right to contact you in the event of a change in the iVillage Terms of Service and/or this Privacy Policy.
+  4. At any time, you can [opt out](https://subscriber.ivillage.com/funnels/11) of having your Personally Identifiable Information shared with our Affiliates for their direct marketing purposes.
+
+
+
+You will also be provided with the opportunity to opt-in to receive offers, goods and services directly from select companies other than iVillage. In such instances where you have opted-in to receive such offers, goods and services from third parties, iVillage will share your information with such third parties and will often provide you access to the Privacy Policy of the third party for your review via a link. In some instances, when you have the opportunity on the iVillage Network to subscribe to a newsletter offered by a third-party email service or advertiser or partner, the email address information will be located on the third party's server and any information you provide is subject to that entity's Privacy Policy, not this one.
+
+If you have additional questions about how one of our advertisers, partners or sponsors use information about you, we urge you to contact them directly. For purposes of this Privacy Policy, "opt-in" is generally defined as any affirmative action by an iVillage member or visitor to submit or receive information, as the case may be.
+
+ **5\. Third Party Advertising and Links to other Sites.**
+
+The iVillage Network contains links to advertiser and partner websites that are not co-branded or affiliated with iVillage in any way. We cannot be responsible for the privacy practices or the content of such non-iVillage websites, and we do not control the practices of any of our advertisers or partners to whose sites we link.
+
+ **6\. Access and Correction**
+
+iVillage provides you with the ability to access, correct or change the Personally Identifiable Information in your member portrait at any time, including contact information or other information you've provided to us. However, you cannot currently change your member name although you may re-register and choose a new name. To review, modify or delete your member information, please [click here](https://subscriber.ivillage.com/login/login?dt=actm&cmd=a). Please be advised that iVillage currently archives information it collects on its members and visitors.
+
+ **7\. Guidelines regarding children**
+
+Personal information about children is a concern for all of us. At iVillage, we take the protection of children's privacy very seriously. iVillage does not encourage participation or visitation by children. Visitors who are known to be under the age of 13 are prohibited from becoming a member. Anyone under the age of eighteen is discouraged from participating in any sex related chats or message boards and we ask that no one less than eighteen years of age become a community volunteer.
+
+ **8\. Public forums/chat rooms/message boards/bulletin boards/social networking**
+
+Throughout the iVillage Network various public forums such as chat rooms, message boards, "ask the expert" areas and various question and answer areas are available to you as a registered iVillage member.
+
+Please remember that any information you disclose in these public forum areas becomes public information and is immediately accessible on the iVillage Network, so it is important for you to exercise discretion and appropriate caution when deciding to reveal personal information in these areas. iVillage may decide to utilize the content of Q&A's, interactions with experts, and/or chat room and message board content throughout the iVillage Network and in promotions in order to enhance iVillage's editorial, advertising, promotional and similar activities. In those cases, we often provide authorship credit by listing the author's member name. We therefore encourage you to use care in protecting your identity when you choose a member name and to keep your member name confidential.
+
+Within the social networking platform, iVillage Connect, you have the ability to determine who can view your profile or any part of your profile. When you create your profile, or at any time after you've created your profile, you can set your privacy settings by clicking on to the "Privacy Settings" link under the "My Page" tab. By clicking on the "All Users" button (which is the default setting), all of your information will be available to all users. If you click "Friends Only", you have the ability to limit those who can view your profile to those users of whom you provide approval. While a "Friends Only" setting will limit access to your profile, in all instances, please use the same caution you would use in posting information about yourself on any other part of the iVillage Network.
+
+ **9\. How we protect and secure your information**
+
+iVillage has numerous security measures in place to protect you from the loss, misuse and alteration of the information under our control, including your credit card information if you choose to conduct an e-commerce transaction on the iVillage Network. All of your member information require use of your password. We recommend that you do not share your password with anyone. iVillage uses industry-standard tools, such as firewalls, to ensure that your information is secure and confidential.
+
+ **10\. Applicable Law**
+
+We control and operate the iVillage Network from the United States. The iVillage Network is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the iVillage Network is appropriate for use in any particular jurisdiction. Those who choose to access the iVillage Network do so at their own initiative and are responsible for complying with all local laws, rules and regulations.
+
+ **11\. Changes to this Privacy Policy**
+
+We will notify our members when we make any significant changes to our Privacy Policy that affect the use of any personally identifiable information we collect. We will not make new use of any Personally Identifiable Information which iVillage gathered from individual members or visitors prior to any such significant change in our Privacy Policy without first obtaining the member's or visitor's consent for any new uses. In instances where we ask for your Personally Identifiable Information and we tell you the data we are collecting on that page will be shared with unaffiliated third parties, and in cases where a member, visitor or subscriber to the iVillage Network opts-in to share his/her information with third parties, those disclosures and opt-ins will override anything to the contrary in this Privacy Policy. In addition, iVillage reserves the right to make non-significant changes to our Privacy Policy that will not affect iVillage's use of a user's Personally Identifiable Information at any time without any notice to you other than posting any such changes in a revised Privacy Policy on the iVillage Network. We encourage you to periodically review our Privacy Policy to be sure you are familiar with the most current version. The Privacy Policy will include the most recent date in which any revision has been made. Please note that this Privacy Policy is also incorporated into iVillage's Terms of Service.
+
+ **12\. Contact information**
+
+If you have questions about this Privacy Policy or anything else about iVillage, you can contact us at the following email address: feedback@mail.ivillage.com
