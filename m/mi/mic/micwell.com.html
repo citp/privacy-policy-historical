@@ -1,17 +1,14 @@
-<!--The following is the downloaded HTML source of the micwell.com privacy policy that was archived on 2012-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121007075133id_/http%3A//www.micwell.com/static/help.do%3Fpage%3Dprivacy%26index%3D2) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the micwell.com privacy policy that was archived on 2013-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130613060450id_/http%3A//www.micwell.com/static/help.do%3Fpage%3Dprivacy%26index%3D2) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>MicWell.com</title>
+<title>Buy Quality Prom Dresses Online! - MicWell.com</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="Content-Language" content="fr,en">
+<meta http-equiv="Content-Language" content="en">
 <meta name="keywords" content="">
 <meta name="description" content="">
 <meta name="robots" content="noindex, nofollow"><link rel="icon" href="/favicon.ico" type="image/x-icon">
-<link href="http://static.micwell.com/min/f=style/reset.css,style/global.css,style/page.css,style/space.css,style/form.css&amp;1026" rel="stylesheet" type="text/css" media="screen">
-<!--[if IE 6]>
-<link href="http://static.micwell.com/style/ie6.css?1026" rel="stylesheet" type="text/css" media="screen" />
-<![endif]-->
+<link href="http://static.micwell.com/min/f=style/reset.css,style/global.css,style/page.css,style/space.css,style/form.css&amp;1681" rel="stylesheet" type="text/css" media="screen">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 var SiteUrl = 'http://www.micwell.com/';
@@ -23,123 +20,145 @@ var Domain = '.micwell.com';
 var AjaxProxy = null;
 var AjaxProxyUrl = 'http://trade.micwell.com/ajaxproxy.do?r='+(document.referrer ? encodeURIComponent(document.referrer) : '');
 </script>
-<script type="text/javascript" src="http://static.micwell.com/min/f=script/jquery-1.3.2.js,script/common.js,script/jcarousellite_1.0.1.js&amp;1026"></script>
-<script type="text/javascript" src="http://static.micwell.com/min/f=script/page/global.js&amp;1026"></script>
-<script type="text/javascript" src="http://static.micwell.com/script/ajax-proxy.js"></script>
+<script type="text/javascript" src="http://static.micwell.com/min/f=script/jquery-1.8.3.min.js,script/common.js,script/page/global.js&amp;1680"></script>
 <script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', '96ef8e53caa658dde5d2d2effb0b9829')</script></head>
 <body>
 
-<div id="header">
-	<div id="header-nav">
+<div id="header-wrapper">
+	<div id="header">
 		<a href="http://www.micwell.com/" class="logo" title="Micwell Dresses" alt="Micwell Dresses"></a>
-		<div class="slogan"></div>
-		<div class="search">
-			<form method="post" action="http://www.micwell.com//product/search.do">
-			<div class="search-bg">
-				<div class="search-input">
-					<input type="text" value="" name="word">
+		<div id="header-nav">
+			<div class="cart">
+				<a href="http://trade.micwell.com/cart.do">
+					<span>0</span>
+					<strong>Cart</strong>
+				</a>
+				<div class="cart-list">
+					<div class="top"></div>
+					<div class="wall">
+						<div id="global_account_cart_list"></div>
+						<div class="clearfix">
+							<button class="btn-rb" onclick="location='http://trade.micwell.com/cart.do'"><span style="width:194px;display:block;">View Cart (0 items)</span><i></i></button>
+						</div>
+					</div>
+					<div class="bottom"></div>
 				</div>
 			</div>
-			<div class="search-btn">
-				<input type="submit" value="">
-				<input type="hidden" name="cid" value="0" id="search-cid">
-			</div>
-			</form>
-		</div>
-		<div class="menu" id="global_account_menu">
-			<script type="text/javascript">
-			$(document).ready(function(){
-				$.getScript('http://trade.micwell.com/user/ajax/menu.do?rand=' + Math.random(),function(){
-					$('#global_account_menu').html(menuJson['html']);
+			<div class="menu" id="global_account_menu">
+				<script type="text/javascript">
+				$(document).ready(function(){
+					$.ajax({
+						url: 'http://trade.micwell.com/user/ajax/menu.do?rand=' + Math.random() + '&r=' + (document.referrer ? encodeURIComponent(document.referrer) : ''),
+						type:'GET',
+						dataType:'jsonp',
+						success: function(info){
+							$('#global_account_menu').html(info['html']);
+
+							$('#header-nav .cart a span').text(info['cart_num']);
+
+							if (parseInt(info['cart_num']) > 0){
+								$('#global_account_menu a.cart').text("Shopping Bag ("+ info['cart_num'] +")");
+							}else{
+								$('#global_account_menu a.cart').text("Shopping Bag");
+							}
+
+							if (info['list']){
+								if (info['list'].length>0){
+									var html = '';
+									for (var i = 0; i < info['list'].length; i++){
+										var val = info['list'][i];
+										html += '<dl class="clearfix"><dt><img src="{0}" /></dt><dd><a href="{1}">{2}</a><p>{3}</p></dd></dl>'.format(val['img'], val['url'], val['name'], val['price']);
+									}
+
+									$('#global_account_cart_list').html(html);
+									$('#header-nav .cart button span').html("View Cart ("+info['cart_num']+" items)");
+
+									$('#header-nav .cart').mouseover(function(){
+										$(this).find('.cart-list').show();
+									});
+								}
+							}
+
+							if (typeof(StartTimeDeath)=='function'){
+								StartTimeDeath(info['sb']['time'], info['sb']['begin_date'], info['sb']['end_date'], info['sb']['type']);
+							}
+						},
+						error:function(info){}
+					});
+
+					$('#header-nav .cart').mouseout(function(){
+						$(this).find('.cart-list').hide();
+					});
 				});
-			});
-			</script>
+				</script>
+			</div>
+		</div>
+		<div class="fix"></div>
+		<div id="header-menu">
+			<ul>
+																				<li rel="menu">
+					<b></b><h4><a href="http://www.micwell.com/wedding-apparel_l108">Wedding Apparel</a></h4><i></i>
+					<div class="sub-category">
+						<div class="top-barder"><div class="b1"></div><div class="b2"></div></div>
+						<div class="sub-category-wrapper">
+							<div class="shadow"><div class="s1"></div><div class="s2"></div></div>
+							<div class="ground">
+								<div class="cols1 clearfix">
+									<h5>SHOP BY CATEGORY</h5>
+																		<div><a href="http://www.micwell.com/2013-wedding-dresses_l265">2013 Wedding Dresses</a></div>
+																		<div><a href="http://www.micwell.com/bridesmaid-dresses_l107" style="color:#B73939;">Bridesmaid Dresses</a></div>
+																	</div>
+							</div>
+						</div>
+					</div>
+				</li>
+																								<li><h4><a href="http://www.micwell.com/2013-prom-dresses_l264">2013 Prom Dresses</a></h4></li>
+																								<li><h4><a href="http://www.micwell.com/homecoming-dresses_l94">Homecoming Dresses</a></h4></li>
+																								<li><h4><a href="http://www.micwell.com/ball-gowns_l366">Ball Gowns</a></h4></li>
+																																								<li rel="menu">
+					<b></b><h4><a href="http://www.micwell.com/accessories_l103">Accessories</a></h4><i></i>
+					<div class="sub-category">
+						<div class="top-barder"><div class="b1"></div><div class="b2"></div></div>
+						<div class="sub-category-wrapper">
+							<div class="shadow"><div class="s1"></div><div class="s2"></div></div>
+							<div class="ground">
+								<div class="cols1 clearfix">
+									<h5>SHOP BY CATEGORY</h5>
+																		<div><a href="http://www.micwell.com/headpieces_l120">Headpieces</a></div>
+																		<div><a href="http://www.micwell.com/jewelry_l118">Jewelry</a></div>
+																		<div><a href="http://www.micwell.com/jackets_l117">Jackets</a></div>
+																		<div><a href="http://www.micwell.com/petticoats_l115">Petticoats</a></div>
+																		<div><a href="http://www.micwell.com/wedding-gloves_l116">Wedding Gloves</a></div>
+																		<div><a href="http://www.micwell.com/wedding-veils_l121">Wedding Veils</a></div>
+																	</div>
+							</div>
+						</div>
+					</div>
+				</li>
+																								<li rel="menu">
+					<b></b><h4><a href="http://www.micwell.com/sale_l270" class="red">Sale</a></h4><i></i>
+					<div class="sub-category">
+						<div class="top-barder"><div class="b1"></div><div class="b2"></div></div>
+						<div class="sub-category-wrapper">
+							<div class="shadow"><div class="s1"></div><div class="s2"></div></div>
+							<div class="ground">
+								<div class="cols1 clearfix">
+									<h5>SHOP BY CATEGORY</h5>
+																		<div><a href="http://www.micwell.com/sale-2013_l294">Sale 2013</a></div>
+																	</div>
+							</div>
+						</div>
+					</div>
+				</li>
+																															</ul>
+			<div class="search">
+				<form method="post" action="http://www.micwell.com//product/search.do">
+					<input type="text" value="" name="word"><button type="submit"></button>
+				</form>
+			</div>
+			<p class="search-split"></p>
 		</div>
 	</div>
-</div>
-<div id="header-menu">
-	<div class="fix"></div>
-	<ul>
-		<li class="home"><h4><a href="http://www.micwell.com/"></a></h4></li>
-		<li class="split"></li>
-		<li rel="menu">
-			<b></b><h4><a href="http://www.micwell.com/shop-dresses_l92">Shop Dresses</a></h4><i></i>
-			<div class="sub-category">
-				<div class="shadow"><div class="s1"></div><div class="s2"></div></div>
-				<div class="ground">
-					<dl class="cols2 clearfix">
-						<div class="cols2-1">
-							<h5>SHOP BY CATEGORY</h5>
-							
-														<div><a href="http://www.micwell.com/evening-dresses_l96">Evening Dresses</a></div>
-														<div><a href="http://www.micwell.com/prom-dresses-2012_l264" style="color:#B73939">Prom Dresses 2012</a></div>
-														<div><a href="http://www.micwell.com/sexy-mini-dresses_l252">Sexy Mini Dresses</a></div>
-														<div><a href="http://www.micwell.com/cocktail-dresses_l95">Cocktail Dresses</a></div>
-														<div><a href="http://www.micwell.com/mother-of-the-bride-dresses_l106">Mother of the Bride Dresses</a></div>
-														<div><a href="http://www.micwell.com/prom-dresses-2013_l97">Prom Dresses 2013</a></div>
-														<div><a href="http://www.micwell.com/bridesmaid-dresses_l107" style="color:#B73939">Bridesmaid Dresses</a></div>
-														<div><a href="http://www.micwell.com/high-low-dresses_l287">High Low Dresses</a></div>
-													</div>
-						<div class="cols2-2">
-							<h5>SHOP BY STYLE</h5>
-							<div><a href="http://www.micwell.com/a_line_i18v231/occasion-dresses_l92">A-line</a></div>
-							<div><a href="http://www.micwell.com/sheath_column_i18v235/occasion-dresses_l92">Sheath / Column</a></div>
-							<div><a href="http://www.micwell.com/trumpet_mermaid_i18v236/occasion-dresses_l92">Trumpet / Mermaid</a></div>
-							<div><a href="http://www.micwell.com/empire_i18v233/occasion-dresses_l92">Empire</a></div>
-							<div><a href="http://www.micwell.com/ball_gown_i18v232/occasion-dresses_l92">Ball Gown</a></div>
-							<div><a href="http://www.micwell.com/floor_length_i22v265/special-occasion-dresses_l92">Floor-length</a></div>
-							<div><a href="http://www.micwell.com/knee_length_i22v271/special-occasion-dresses_l92">Knee-length</a></div>
-							<div><a href="http://www.micwell.com/tea_length_i22v272/special-occasion-dresses_l92">Tea-length</a></div>
-							<div><a href="http://www.micwell.com/short_mini_i22v270/special-occasion-dresses_l92">Short / Mini</a></div>
-						</div>
-					</dl>
-				</div>
-			</div>
-		</li>
-		<li class="split"></li>
-								<li><h4><a href="http://www.micwell.com/prom-dresses-2012_l264">Prom Dresses</a></h4></li>
-				<li class="split"></li>						<li><h4><a href="http://www.micwell.com/homecoming-dresses_l94">Homecoming Dresses</a></h4></li>
-				<li class="split"></li>						<li><h4><a href="http://www.micwell.com/evening-dresses_l96">Evening Dresses</a></h4></li>
-				<li class="split"></li>						<li rel="menu">
-			<b></b><h4><a href="http://www.micwell.com/accessories_l103">Accessories</a></h4><i></i>
-			<div class="sub-category">
-				<div class="shadow"><div class="s1"></div><div class="s2"></div></div>
-				<div class="ground">
-					<div class="cols1 clearfix">
-						<h5>SHOP BY CATEGORY</h5>
-												<div><a href="http://www.micwell.com/shoes_l119">Shoes</a></div>
-												<div><a href="http://www.micwell.com/handbags_l272">Handbags</a></div>
-												<div><a href="http://www.micwell.com/headpieces_l120">Headpieces</a></div>
-												<div><a href="http://www.micwell.com/jewelry_l118">Jewelry</a></div>
-												<div><a href="http://www.micwell.com/jackets_l117">Jackets</a></div>
-												<div><a href="http://www.micwell.com/petticoats_l115">Petticoats</a></div>
-												<div><a href="http://www.micwell.com/wedding-gloves_l116">Wedding Gloves</a></div>
-												<div><a href="http://www.micwell.com/wedding-veils_l121">Wedding Veils</a></div>
-											</div>
-				</div>
-			</div>
-		</li>
-				<li class="split"></li>						<li rel="menu">
-			<b></b><h4><a href="http://www.micwell.com/summer-sale_l270" class="red">Summer Sale</a></h4><i></i>
-			<div class="sub-category">
-				<div class="shadow"><div class="s1"></div><div class="s2"></div></div>
-				<div class="ground">
-					<div class="cols1 clearfix">
-						<h5>SHOP BY CATEGORY</h5>
-												<div><a href="http://www.micwell.com/summer-sale-2012_l294">Summer Sale 2012</a></div>
-												<div><a href="http://www.micwell.com/free-shipping-deals_l286">Free Shipping Deals</a></div>
-											</div>
-				</div>
-			</div>
-		</li>
-						
-		<li class="currency">
-			<div class="item">
-				<span></span><p><img src="http://static.micwell.com/images/currency/USD.gif" align="absmiddle"><strong>US $</strong></p>
-			</div>
-			<div class="list"></div>
-		</li>
-	</ul>
 </div>
 
 
@@ -250,9 +269,15 @@ If we change or update this Privacy Notice, we will post changes and updates on 
 			<dl>
 								<dt>What's in store</dt>
 								<dd><a href="http://www.micwell.com/wedding-apparel_l108">Wedding Apparel</a></dd>
-								<dd><a href="http://www.micwell.com/shop-dresses_l92">Shop Dresses</a></dd>
+								<dd><a href="http://www.micwell.com/2013-prom-dresses_l264">2013 Prom Dresses</a></dd>
+								<dd><a href="http://www.micwell.com/homecoming-dresses_l94">Homecoming Dresses</a></dd>
+								<dd><a href="http://www.micwell.com/ball-gowns_l366">Ball Gowns</a></dd>
+								<dd><a href="http://www.micwell.com/high-low-dresses_l287">High Low Dresses</a></dd>
+								<dd><a href="http://www.micwell.com/cocktail-dresses_l95">Cocktail Dresses</a></dd>
 								<dd><a href="http://www.micwell.com/accessories_l103">Accessories</a></dd>
-								<dd><a href="http://www.micwell.com/summer-sale_l270">Summer Sale</a></dd>
+								<dd><a href="http://www.micwell.com/sale_l270">Sale</a></dd>
+								<dd><a href="http://www.micwell.com/evening-dresses_l96">Evening Dresses</a></dd>
+								<dd><a href="http://www.micwell.com/shop-dresses_l92">Shop Dresses</a></dd>
 							</dl>
 			<dl>
 				<dt>Features</dt>
@@ -268,28 +293,33 @@ If we change or update this Privacy Notice, we will post changes and updates on 
 				<dd><a href="http://trade.micwell.com/my/order/list.do" rel="nofollow">Track Your Order</a></dd>
 				<dd><a href="http://www.micwell.com/static/help.do?page=shipping" rel="nofollow">Shipping &amp; Returns</a></dd>
 				<dd><a href="http://www.micwell.com/static/help.do?page=pay" rel="nofollow">How To Pay</a></dd>
+				<dd><a href="http://www.micwell.com/static/help.do?page=faq" rel="nofollow">FAQs</a></dd>
 				<dd><a href="http://trade.micwell.com/static/info.do?page=contact-us" rel="nofollow">Contact Us</a></dd>
 				<dd><a href="mailto:customer@micwell.com" rel="nofollow">E-mail Us</a></dd>
 			</dl>
 			<dl>
 				<dt>More about micwell</dt>
-				<dd><a href="http://www.micwell.com/static/info.do?page=about" rel="nofollow">About MicWell</a></dd>
+				<dd><a href="http://www.micwell.com/static/info.do?page=about" rel="nofollow">About Micwell</a></dd>
 				<dd><a href="http://blog.micwell.com">Our Blog</a></dd>
 				<dd><a href="http://www.micwell.com/product/all.html" rel="nofollow">Site Map</a></dd>
 				<dd><a href="http://www.micwell.com/static/help.do?page=privacy&amp;index=1" rel="nofollow">Term of use</a></dd>
 				<dd><a href="http://www.micwell.com/static/help.do?page=privacy&amp;index=2" rel="nofollow">Privacy Policy</a></dd>
 				<dd><a href="http://www.micwell.com/customer-testimonials" rel="nofollow">Customer Testimonials</a></dd>
+				<dd><a href="http://www.gadgetsnest.com/">GadgetsNest</a></dd>
 			</dl>
 		</div>
 				<div class="footer-contact clearfix">
 						<div class="clearfix">
-				<div style="float:left;margin:0 24px 0 0;">
+				<div style="float:left;margin:0 12px 0 0;padding-top:24px;">
+					<img src="http://static.micwell.com/images/all-service2.jpg">
+				</div>
+				<div style="float:left;margin:0 12px 0 0;">
 					<img src="http://static.micwell.com/images/service/paypal3.jpg" usemap="#linkmap">
 					<map name="linkmap">
 						<area shape="rect" coords="0,0,70,70" href="###" onclick="javascript:window.open('https://www.paypal.com/verified/pal=order@micwell.com','what_is_paypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');">
 					</map>
 				</div>
-				<div style="float:left;">
+				<div style="float:left;padding-top:16px;">
 					<a class="tf_upfront_badge" href="http://www.thefind.com/store/about-micwell" title="TheFind Upfront"><img border="0" src="//upfront.thefind.com/images/badges/r/96/ef/96ef8e53caa658dde5d2d2effb0b9829.png" alt="micwelldresses is an Upfront Merchant on TheFind. Click for info."></a>
 					<script type="text/javascript">
 						(function() {
@@ -300,13 +330,13 @@ If we change or update this Privacy Notice, we will post changes and updates on 
 						})();
 					</script>
 				</div>
-				<div style="float:left;">
+				<div style="float:left;margin:0 0 0 12px;padding-top:6px;">
 					<a href="###" onclick="javascript:window.open('https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.micwell.com&amp;lang=en','what_is_paypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="http://static.micwell.com/images/service/ver3.gif"></a>
 				</div>
 			</div>
-						<div style="margin:12px 0 0 0;">
+						<div style="margin:12px 0 0 0;text-align:center;">
 				<p>
-					<b>2008-2012 MicWell Inc. All Rights Reserved</b>
+					<b>2008-2013 MicWell Inc. All Rights Reserved</b>
 
 										&nbsp;&nbsp;Product Tags:
 					<a href="http://www.micwell.com/popular/product_list_a">A</a>&nbsp;&nbsp;
