@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emblemhealth.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212175238id_/http%3A//www.emblemhealth.com/Default.aspx%3FPage%3D75) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emblemhealth.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613054233id_/http%3A//www.emblemhealth.com/Default.aspx%3FPage%3D75) for the most accurate reproduction.*
 
 # EmblemHealth - Privacy Policies
 
@@ -8,20 +8,20 @@ The protection and security of our subscribers' personal information is one of o
 
 This notice describes how medical information about you may be used and disclosed and how you can get access to this information.
 
-  * [Click here](https://web.archive.org/web/20121212175238id_/http%3A//www.emblemhealth.com/pdf/Privacy_Notice_EH.pdf) to read our Notice of Privacy Practices. 
-  * [Haga clic aquí](https://web.archive.org/web/20121212175238id_/http%3A//www.emblemhealth.com/pdf/Privacy_Notice_EH_Sp.pdf) para leer nuestro Aviso de Prácticas de Privacidad.  
+  * [Click here](https://web.archive.org/web/20130613054233id_/http%3A//www.emblemhealth.com/pdf/Privacy_Notice_EH.pdf) to read our Notice of Privacy Practices. 
+  * [Haga clic aquí](https://web.archive.org/web/20130613054233id_/http%3A//www.emblemhealth.com/pdf/Privacy_Notice_EH_Sp.pdf) para leer nuestro Aviso de Prácticas de Privacidad.  
 
 
 
 ## EmblemHealth Web Site Privacy Policy
 
-We maintain high standards for the protection of your privacy on our Web site. Please [click here](https://web.archive.org/web/20121212175238id_/http%3A//www.emblemhealth.com/Default.aspx?Page=337) for more information on how we do this.
+We maintain high standards for the protection of your privacy on our Web site. Please [click here](https://web.archive.org/web/20130613054233id_/http%3A//www.emblemhealth.com/Default.aspx?Page=337) for more information on how we do this.
 
 ## EmblemHealth Data Security Policy
 
 We strive to afford our customers with easy online means of viewing claims data. When you use our Member Online Services or Provider Online Services to view your health care transactions, the data that you view is encrypted for your protection.
 
-Read our [Data Security Policy](https://web.archive.org/web/20121212175238id_/http%3A//www.emblemhealth.com/Default.aspx?Page=3381).
+Read our [Data Security Policy](https://web.archive.org/web/20130613054233id_/http%3A//www.emblemhealth.com/Default.aspx?Page=3381).
 
 ## Managed Care Disclosure for GHI HMO and HIP HMO Members
 
@@ -98,4 +98,4 @@ A description of all benefits including benefit maximums, coverage exclusions an
 If you have questions about the Managed Care Act Disclosure Provision, would like copies of information about GHI HMO or HIP HMO, or for any other questions:
 
 For GHI HMO: Call Customer Service toll free at **1-877-2GHIHMO** (1-877-244-4466).  
-For HIP HMO: Call Customer Service toll free at **1- 800-HIPTALK** (1-800-447-8255).
+For HIP HMO: Call Customer Service toll free at **1- 800-HIPTALK** (1-877-344-7364).
