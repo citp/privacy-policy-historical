@@ -1,19 +1,9 @@
-> *The following text is extracted and transformed from the easy-birthday-cakes.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525100600id_/http%3A//www.easy-birthday-cakes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy-birthday-cakes.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613105541id_/http%3A//www.easy-birthday-cakes.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Easy-Birthday-Cakes.com Privacy Policy
 
-We recognize that your privacy is important. This document  
-outlines the types of personal information we receive and  
-collect when you use Easy-Birthday-Cakes.com, as well as some  
-of the steps we take to safeguard information. We hope this  
-will help you make an informed decision about sharing  
-personal information with us.
-
-Easy-Birthday-Cakes.com strives to maintain the highest  
-standards of decency, fairness and integrity in all our  
-operations. Likewise, we are dedicated to protecting our  
-customers', consumers' and online visitors' privacy on our  
-website.
+We recognize that your privacy is important. This privacy policy outlines the types of personal information we receive and  
+collect when you use Easy-Birthday-Cakes.com. 
 
 Personal Information
 
@@ -153,6 +143,27 @@ or you may send an e-mail to info [at] easy-birthday-cakes.com.
 To contact Easy-Birthday-Cakes.com by mail, send correspondence to:
 
 Attn:  Easy-Birthday-Cakes.com  
-143 Boardman-Canfield Rd.  
-# 114  
-Boardman, OH  44512
+PO Box 5524 Poland, OH 44514 1-800-673-5013 
+
+[ Home](http://www.easy-birthday-cakes.com/) > Privacy Policy 
+
+**Share this page:  **  
+
+
+What's This?
+
+| | | |   
+---|---|---|---|---  
+| | |   
+  
+Enjoy this page? Please pay it forward. Here's how...  
+  
+  
+
+
+### Free Newsletter
+
+#### Sign up for our free newsletter "The Icing on the Cake"
+
+  
+
