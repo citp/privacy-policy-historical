@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the auctionsniper.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231020403id_/http%3A//www.auctionsniper.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionsniper.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613122246id_/http%3A//auctionsniper.com/privacy.aspx) for the most accurate reproduction.*
 
-# AuctionSniper - Privacy
+# Privacy Policy
 
 AuctionSniper.com has created this statement in order to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **www.auctionsniper.com**
 
