@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the bnsf.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123233334id_/http%3A//www.bnsf.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnsf.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613174609id_/http%3A//bnsf.com/privacy-policy.html) for the most accurate reproduction.*
 
 # BNSF - Privacy Policy
 
 BNSF Railway is firmly committed to protecting your privacy while visiting our Internet site. BNSF Railway is sensitive to privacy issues on the Internet and we believe it is important you know how we treat the information we receive about you. 
 
-### Personal Information 
+### Personal Information
 
 In general, you can visit BNSF on the World Wide Web without telling us who you are or revealing any information about yourself. Our Web servers collect the domain names, not the e-mail addresses, of visitors. This information is compiled to measure the number of visits, average time spent on the site, pages viewed, etc. BNSF Railway uses this information to measure the use of our site and to improve its ease of use. 
 
 There are times, however, when we may need information from you, such as your name, address, and company information (information that is essential for BNSF Railway to provide the services and/or products that are requested by you). The personal information we collect is used only by us to respond to your inquiry, process an order, or let you access specific account information. The amount of personal information you disclose to BNSF Railway is completely at your discretion. It is never mandatory for you to answer any question, although the extent of your answers may limit the services and products that BNSF Railway can offer you. 
+
+BNSF may also collect your location information, including your current latitude and longitude, when you access the Site. We collect this information to personalize the content and functionality of the Site and to help us understand how and where visitors are using our content and applications. When you visit the Site for the first time during a browsing session, you will be given the option of opting into providing this location information.
 
 ### Cookies
 
