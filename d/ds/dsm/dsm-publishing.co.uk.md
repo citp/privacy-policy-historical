@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsm-publishing.co.uk privacy policy that was archived on 2012-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120812101747id_/http%3A//www.dsm-publishing.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsm-publishing.co.uk privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613042110id_/http%3A//dsm-publishing.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DSM Publishing
 
@@ -69,7 +69,7 @@ Other Third Party ad servers or ad networks may also use cookies to track usersâ
 
 If you have any questions regarding the privacy policy of **DSM Publishing** , then please do not hesitate to contact me at **[info@dsm-publishing.com](mailto:info@dsm-publishing.com "mailto:info@dsm-publishing.com").**
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fdsm-publishing.com%2Fabout%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fdsm-publishing.com%2Fabout%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 Be Sociable, Share!
 
