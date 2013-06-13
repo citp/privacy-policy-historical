@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serenaandlily.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230052810id_/http%3A//www.serenaandlily.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serenaandlily.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613162905id_/http%3A//www.serenaandlily.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Serena & Lily values our customers and respects your privacy. This privacy polic
 
 If our information practices change, we will post an updated version of the Policy on the Serena & Lily Website (“Website”). You can tell if the Policy has changed by checking the “Last Updated” date that appears below and that will be the date on which the new Policy becomes effective. You may exercise your choices about how we collect and use your information consistent with this Policy at any time. If you have any questions about our Policy, please contact us as described in the section below entitled, "How do I contact you?" 
 
-This Policy Was Last Updated November 2, 2012.
+This Policy Was Last Updated April 30th, 2012.
 
 PERSONAL INFORMATION
 
@@ -40,7 +40,7 @@ We may share your personal information in the following ways:
 
   * We may share your information with our service providers who manage our customer information and perform services on our behalf, such as fulfilling promotions, sending communications to our customers, conducting surveys, etc. We do not authorize any of these service providers to make any other use or disclosure of your information.
   * We may share your information when we team up with another company to jointly offer or provide products, services, contests, or promotions to our customers.
-  * From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you can notify us at any time by contacting us by telephone, 1-866-579-2742 (toll free); e-mail privacyrights@serenaandlily.com; or by writing us at Serena & Lily, Attn: Customer Service, 10 Liberty Ship Way, Suite 350, Sausalito, CA 94965.
+  * From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you can notify us at any time by contacting us by telephone, 1-866-579-2742 (toll free); e-mail unsubscribe@serenaandlily.com; or by writing us at Serena & Lily, Attn: Customer Service, 10 Liberty Ship Way, Suite 350, Sausalito, CA 94965.
   * We may share your information to comply with laws or regulations or in response to a valid subpoena, order, or government request, or to protect the rights of Serena & Lily and others.
 
 
@@ -57,7 +57,7 @@ Please note that when you make an online purchase from us, we will continue to c
 
 How does Serena & Lily protect kids' privacy?
 
-Serena & Lily is concerned about the privacy and safety of children when they use the Internet. We will never knowingly request or collect personal information online from anyone under the age of 13 without prior verifiable parental consent. Our Website is a general audience site and is not targeted to or intended for use by children. If you are a parent and believe we may have inadvertently collected such information from your child, please notify us immediately by sending an e-mail to privacyrights@serenaandlily.com or phoning us toll free at 1-866-597-2742. 
+Serena & Lily is concerned about the privacy and safety of children when they use the Internet. We will never knowingly request or collect personal information online from anyone under the age of 13 without prior verifiable parental consent. Our Website is a general audience site and is not targeted to or intended for use by children. If you are a parent and believe we may have inadvertently collected such information from your child, please notify us immediately by sending an e-mail to unsubscribe@serenaandlily.com or phoning us toll free at 1-866-597-2742. 
 
 What about links to other websites?
 
@@ -98,6 +98,6 @@ For questions about our Privacy Policy, to make choices about receiving promotio
 Serena & Lily  
 10 Liberty Ship Way, Suite 350  
 Sausalito, California 94965  
-customerservice@serenaandlily.com  
-privacyrights@serenaandlily.com  
+customercare@serenaandlily.com  
+unsubscribe@serenaandlily.com  
 1-866-597-2742 (toll free). 
