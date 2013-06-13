@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karl.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215140003id_/http%3A//www.karl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karl.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613191606id_/http%3A//www.karl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Karl Lagerfeld
 
@@ -12,13 +12,13 @@ This website belongs to Karl Lagerfeld Retail B.V. Karl Lagerfeld Retail B.V. is
 
 1.3 To register your data we may use an administration or client number.
 
-1.4 When you use our website, cookies can be placed that may register personal data. For more information on these cookies, please consult our Cookie Statement.
+1.4 When you use our website, cookies can be placed that may register personal data. For more information on these cookies, please consult our [Cookie Statement](http://www.karl.com/cookie-statement/ "Cookie statement").
 
 **2 How we use your personal data**
 
 2.1 Our primary goals in collecting personal data are to provide and improve our services and website. We may use your personal data to maintain contact with you, also by answering your information requests, and for marketing purposes, especially to keep you informed of our special events, promotions and products. Furthermore, we may compile user statistics, perform market research and combine personal data from different sources to help us better understand our customers’ needs and interests so we can better suit your needs and enhance your experience. We also process personal data for the purpose of control and website security, dispute resolution and audits, as well as complying with our legal obligations.
 
-2.2 Your personal data will not be used for any purposes other than the purposes described above. We may share your personal data with our affiliated companies within the Karl Lagerfeld group, our partners, distributors and agents, within the European Economic Area. We may also instruct third parties to perform services on our behalf, which may involve the processing of your personal data. We will not disclose your personal information to any other third parties, unless we believe that disclosure is necessary: (a) in order to comply with legal requirements; or (b) to enforce this Privacy Statement and our [Terms and Conditions](http://www.karl.com/en_uk/legal/terms-conditions/).
+2.2 Your personal data will not be used for any purposes other than the purposes described above. We may share your personal data with our affiliated companies within the Karl Lagerfeld group, our partners, distributors and agents, within the European Economic Area. We may also instruct third parties to perform services on our behalf, which may involve the processing of your personal data. We will not disclose your personal information to any other third parties, unless we believe that disclosure is necessary: (a) in order to comply with legal requirements; or (b) to enforce this Privacy Statement and our [Terms and Conditions](http://www.karl.com/terms-and-conditions/).
 
 **3 How we protect your information**
 
