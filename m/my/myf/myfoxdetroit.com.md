@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxdetroit.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121130513id_/http%3A//www.myfoxdetroit.com/story/19534280/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxdetroit.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613021156id_/http%3A//www.myfoxdetroit.com/story/19534280/privacy-policy) for the most accurate reproduction.*
 
 # Fox Television Stations Privacy Policy - Fox 2 News Headlines
 
