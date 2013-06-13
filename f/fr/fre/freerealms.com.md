@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freerealms.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615174108id_/http%3A//www.station.sony.com/en_US/sonyonline/privacy.vm%3Ftheme%3Dfreerealms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freerealms.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613201016id_/http%3A//www.station.sony.com/en_US/sonyonline/privacy.vm%3Ftheme%3Dfreerealms) for the most accurate reproduction.*
 
 # Sony Online Entertainment
 
