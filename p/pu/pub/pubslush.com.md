@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pubslush.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210053212id_/http%3A//www.pubslush.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubslush.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613195531id_/http%3A//pubslush.com/privacy) for the most accurate reproduction.*
 
 # 
+
+Pubslush is a crowdfunding publishing platform. Learn more. x
 
   1. ## Introduction
 
