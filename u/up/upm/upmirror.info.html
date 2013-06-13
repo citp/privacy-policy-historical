@@ -1,57 +1,92 @@
-<!--The following is the downloaded HTML source of the upmirror.info privacy policy that was archived on 2012-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121123071602id_/http%3A//upmirror.info/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the upmirror.info privacy policy that was archived on 2013-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130613050153id_/http%3A//upmirror.info/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
-
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Up Mirror| Upload Everywhere!</title>
-<meta name="verify-v1" content="JapBgs7KmzLqrUtAjyfvVgDJQkK0rWUgtSAMZWz2ihk=">
-<title>UP Mirror - FAQ</title>  <link href="/style2.css" rel="stylesheet" type="text/css">
+
+<title>UP Mirror - FAQ</title> <link href="/style2.css" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="/screensmall2.css" type="text/css" media="screen">
   <meta http-equiv="content-type" content="text/html; charset=utf-8;">
   <meta http-equiv="pragma" content="no-cache">
   <meta http-equiv="cache-control" content="no-cache">
   <meta name="keywords" content="file upload, file mirror, mass mirror, rapidshare, megaupload, rapidshare, easy share, depositfiles, filefactory, easy upload">
-  <meta name="description" content=" Up Mirror is a free mirroring service, with only one upload you will get link at up to 12 file hosts. We support Rapidshare, Megaupload, Easy Share, ZShare, DepositFiles , Badongo, etc."> 
- 
-
-<meta http-equiv="expires" content="-1">
-  <meta name="robots" content="index,nofollow">
+  <meta name="description" content=" Up Mirror is a free mirroring service, with only one upload you will get link at up to 12 file hosts. We support Rapidshare, Megaupload, Easy Share, ZShare, DepositFiles , Badongo, etc.">
+   <meta http-equiv="expires" content="-1">
+   <meta name="robots" content="index,nofollow">
 
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+
+
+
+<style>
+#download_waiter_remain
+ { display:block; width:70px; height:70px; line-height:67px; margin:0 5px; background: transparent url('/images/timer.gif') no-repeat; text-align:center; font-size:36px; }
+</style>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+var show_url_start_time = false;
+var show_url_first = true;
+function show_url(delay)
+{
+     var remain = 0;
+
+     if (show_url_first)
+     {
+          /*cache_img_code();*/
+          show_url_first = false;
+     }
+
+     if (delay>0)
+     {
+          var d = new Date();
+          if (!show_url_start_time)
+          {
+               document.getElementById('download_waiter').style.display = '';
+               show_url_start_time = d.getTime();
+          }
+          remain =  show_url_start_time + delay*1000 - d.getTime();
+     }
+     if (remain<=100)
+     {
+          document.getElementById('download_url').style.display = '';
+
+          if(document.getElementById('download_waiter'))
+               document.getElementById('download_waiter').style.display = 'none';
+
+          if(document.getElementById('img_code_block'))
+          {
+               /*refresh_img_code();*/
+               document.getElementById('img_code_block').style.display="";
+          }
+     }
+     else
+     {
+          remain = remain/1000;
+          if(document.getElementById('download_waiter_remain'))
+          {
+               document.getElementById('download_waiter_remain').innerHTML = Math.round(remain);
+          }
+          setTimeout('show_url('+(delay)+')', 1000);
+     }
 }
+</script>
 
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
+<script type="text/javascript">
 
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18477337-1']);
+  _gaq.push(['_trackPageview']);
 
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-function MM_goToURL() { //v3.0
-  var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
-  for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
-}
-//-->
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
 </script>
+
+
+
 <link href="/flame.css" rel="stylesheet" type="text/css">
 <link rel="SHORTCUT ICON" href="/images/favicon.png">
 </head>
@@ -59,7 +94,10 @@ function MM_goToURL() { //v3.0
 	<div class="container">
     	<div class="header">
         	<div class="logo"><a href="/"><img src="/images/logo.png"></a></div>
-  
+
+
+
+
 
 
 
