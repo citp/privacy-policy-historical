@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jiwire.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130145846id_/http%3A//www.jiwire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiwire.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613162645id_/http%3A//www.jiwire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JiWire
 
@@ -68,7 +68,7 @@ We may change or update our privacy policy at our discretion. If we make changes
  **Effective Date: 03/30/12**
 
 **Introduction**  
-This privacy statement applies to [www.jiwire.com](http://www.jiwire.com/) owned and operated by JiWire, Inc. (JiWire, we, us, our). This privacy statement describes how JiWire collects and uses the personal information you provide on our web site:  [www.jiwire.com. ](http://www.jiwire.com.%20/) It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement applies to [www.jiwire.com](http://www.jiwire.com/) owned and operated by JiWire, Inc. (JiWire, we, us, our). This privacy statement describes how JiWire collects and uses the personal information you provide on our web site: [www.jiwire.com](http://www.jiwire.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 JiWire is a location-based media company that provides an advertising platform and revenue model for public Wi-Fi networks and mobile applications. JiWire partners with these services to bring advertising revenue into their services, so they have additional income to provide great public Wi-Fi access and useful mobile applications for the on-the-go lifestyle.
 
