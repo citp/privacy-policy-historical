@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the micwell.com privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007075133id_/http%3A//www.micwell.com/static/help.do%3Fpage%3Dprivacy%26index%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micwell.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613060450id_/http%3A//www.micwell.com/static/help.do%3Fpage%3Dprivacy%26index%3D2) for the most accurate reproduction.*
 
-# MicWell.com
+# Buy Quality Prom Dresses Online! - MicWell.com
 
 MicWell respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service, and timely updates, we record a variety of information from your visit to our site. To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used.
 
