@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freerealms.com privacy policy that was archived on 2012-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615174108id_/http%3A//www.station.sony.com/en_US/sonyonline/privacy.vm%3Ftheme%3Dfreerealms) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freerealms.com privacy policy that was archived on 2013-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130613201016id_/http%3A//www.station.sony.com/en_US/sonyonline/privacy.vm%3Ftheme%3Dfreerealms) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 
@@ -7,7 +7,9 @@
     <title>Sony Online Entertainment</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+	<script src="//tealium.hs.llnwd.net/o43/utag/soe/soe/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script type="text/javascript" src="/js/jquerytoolsmin.js"></script>
+	<script type="text/javascript" src="/js/cookie.js"></script>
 	<script type="text/javascript" src="/js/jqueryeasing.js"></script>
 	<script type="text/javascript" src="/js/scrollto.js"></script>
     <script type="text/javascript" src="/js/anylinkcssmenu.js"></script>
@@ -55,7 +57,7 @@
 
     </style>
     <![endif]-->
-</head>
+<script type="text/javascript" src="http://www.everquest2.com/scripts/registration.js"></script></head>
 
 <body link="#000000" vlink="#000000">
 	
@@ -89,7 +91,7 @@
 
 
 
-<!-- $theme -->
+<!-- theme -->
 
 	
                        
@@ -101,7 +103,7 @@
 	    
 
 	    
-	     
+	    
 	    
 	    	    	    	    
 	    
@@ -116,21 +118,19 @@
 	    	    
 
 
-    
-    	    		
-		<a href="/" class="soe_logo">
+		    		
+		<a href="/?locale=en_US" class="soe_logo">
 			<img src="/images/soe_images/SOE-logo.png">
 		</a>
 		<div class="menuitems">
-			<a href="#" class="anchorclass" rel="products">Games</a>
-			<a href="#" class="anchorclass" rel="shop">Shop</a>
-			<a href="/community.vm" class="anchorclass" rel="community">Community</a>
-			<a href="#" class="anchorclass" rel="company">Company</a>
-			<a href="/en/support/"> Support</a>
-			            	<!-- false false -->
-									<a href="https://account.station.sony.com/?theme=soe" style="color: #45a7f1" class="anchorclass" rel="account">My Account</a>
+			<a href="#/?locale=en_US" class="anchorclass" rel="products">Games</a>
+			<a href="#/?locale=en_US" class="anchorclass" rel="shop">Shop</a>
+			<a href="/community.vm?locale=en_US" class="anchorclass" rel="community">Community</a>
+			<a href="#/?locale=en_US" class="anchorclass" rel="company">Company</a>
+			<a href="http://help.station.sony.com/"> Support</a>
+												<a href="https://account.station.sony.com/?theme=soe" style="color: #45a7f1" class="anchorclass" rel="account">My Account</a>
 					<a href="https://account.station.sony.com/?theme=soe" style="color: #45a7f1">Login</a>
-					<a href="https://account.station.sony.com/reg/registration.action?service=http://www.soe.com&amp;theme=soe" target="_joinNow" style="color: #ff2d4f">Sign Up</a>
+					<a href="javascript:;" onclick="showWebRegModal(); return false;" style="color: #ff2d4f">Sign Up</a>
 									</div>
 	</div>		
         <div class="main_content">	
@@ -170,7 +170,7 @@
 							<li><a href="/termsofservice.vm?locale=en_US">Terms of Service</a></li>
 							<li><a href="/services/help/photosens.vm?locale=en_US">Photosensitive Warning</a></li>
 						</ul>
-						<a href="https://www.esrb.org/confirm/soe-confirmation.jsp" class="esrb_emblem"><img src="https://www.esrb.org/seals/soe/ectcsoe.gif" width="70" height="97"></a>
+						<a href="https://www.esrb.org/confirm/soe-confirmation.jsp" class="esrb_emblem en_US"><img src="https://www.esrb.org/seals/soe/ectcsoe.gif" width="70" height="97"></a>
 						<h3>Sony Online Entertainment LLC<br>PRIVACY POLICY</h3>
 						<div class="content_intro">
 							<p>(Revised July 22, 2011)</p> <p>Sony Online Entertainment LLC ("<strong>SOE</strong>" or "<strong>we</strong>" or "<strong>our</strong>") respects your privacy and is committed to protecting the Personal Information (defined below) that you may provide us while using The Station (as defined below). Your use of The Station is subject to your agreement to the terms of this privacy policy ("Privacy Policy") and our Station <a href="/termsofservice.vm">Terms of Service</a>.</p> <p>This Privacy Policy sets out the basis on which any Personal Information we collect from you, or that you provide to us, will be processed by us and is intended to provide you with notice of the following:</p>
@@ -241,50 +241,506 @@
     	</div><!-- END MAIN CONTENT -->
 	</div><!-- END ALIGN CONTENT -->
     	
-	<div class="flushit"></div>
+	<div id="webRegModalBg"></div>
+<div id="webRegModal">
+	<div class="registration_modal">
+		<div id="webRegModalClose"></div>
+		<div class="registration_modal_content registration">
+			
+	<link type="text/css" href="/styles/registration.css" rel="stylesheet">
+<script type="text/javascript">
+	var locale = 'en_US';
+	var uramRootUrl = 'https://account.station.sony.com';
+	var wrTheme = 'soe';
+	var wrGameCode;
+	function downloadInstaller() {
+		//No installer, since this is just SOE registration. 
+		return false;
+	}
+</script>
+<link type="text/css" href="/styles/registration.css" rel="stylesheet">
+<script type="text/javascript" src="http://www.soe.com/scripts/registration.js"></script>
+<script type="text/javascript">
+	(function() {
+		if(typeof showWebRegModal === 'undefined') {
+			var regScript = document.createElement('script');
+			regScript.type = 'text/javascript';
+			regScript.src = 'http://www.everquest2.com/scripts/registration.js';
+			document.getElementsByTagName('head')[0].appendChild(regScript);
+		}
+	})();
+</script>
+<div id="wrModalCreateContainer">
+	<div id="wrModalCreate" class="overlay">
+		<div name="create" id="createForm" method="GET" action="javascript:" url="https://lp.soe.com/eq2/live/create">
+			<div id="wr-create-form">
+				<div id="labels_ErrorAccCreate" class="labels">
+					<div class="introText">
+						<div id="wrSubscriptionUnderage">We're sorry, but you are unable to sign up for a Station Account at this time.</div>
+					</div>
+					<div class="buttonGroup">
+						<a class="btn default closeButton" href="/">
+							<div class="left"><span>Continue<em class="arrow"></em></span></div>
+							<div class="right"></div>
+							<div class="clr"></div>
+						</a>
+						<div class="clr"></div>
+					</div>
+				</div>
+				<div id="labels_successfulCreation" style="display:none;">
+					<div id="wrSucessfulCreation">
+						<div class="account-created-title en"></div>
+						<div class="download-instructions" id="wrDownloadInstructions">
+							<div class="station-name-text">
+								<p>Your Station Account has been created and the username is:</p>
+								<p class="usernameDisplayText"></p>
+								<p>You will need this, along with the password you chose, to log into our games.<br> You will now be taken to a page where you can choose a game to download and play!</p><p>
+							</p></div>
+							<div class="save-download" style="display: none">
+							</div>
+							<div class="run-download" style="display: none">
+							</div>
+							<div class="login-download" style="display: none">
+							</div>
+							<div class="wr-create-new-account-link" style="display: none">
+							</div>
+							<div class="help-link" style="display: none">
+							</div>
+						</div>
+						<div class="download-instructions" id="wrSteamInstructions" style="display: none;">
+							<div class="station-name-text">
+								<p>Your Station Account has been created and the username is:</p>
+								<p class="usernameDisplayText"></p>
+							</div>
+							<div class="login-download">
+								<p>Please return to Everquest and log in with your new username and password.</p>
+							</div>
+							<div class="wr-create-new-account-link" style="display: none">
+								<a href="javascript:;" onclick="resetWebRegModal();">Click here to create a new account.</a>
+							</div>
+							<div class="help-link">
+								<p>Need Help? Contact our <a href="http://www.soe.com/en/support/supportTopics.vm?category=PC&amp;id=002">support team</a>.</p>
+							</div>
+							<div id="steamOkBtn" onclick="regModal.closeModal();">OK</div>
+						</div>
+						<a href="/getthegame/" id="chooseGame"></a>
+						<p id="accMan"><a href="https://account.station.sony.com/authenticated/cam/amHome.vm">Manage My Account</a></p>
+					</div>
+				</div>
+				<div id="wr-create-form-fields" class="regScreen">
+					<div class="web-registration-title en"></div>
+					<div class="has-station-account-msg">
+						<p>Already have a Station Account? <a href="javascript:;" onclick="downloadInstaller()">Download the Game</a></p>
+					</div>
+					<img src="/images/modal/modal-hr.png" class="modal-hr" alt="--------------------------------">
+					<div class="fields">
+						<div class="createFieldContainer">
+							<label for="wrCreateUsername">Station Name</label>
+							<input type="text" id="wrCreateUsername" class="wr-create-field tooltipMenuOpener" name="stationName" maxlength="15" test="https://account-qa.station.sony.com/validation/fieldValidation!stationName.action?value=asdfasfasfas">
+							<div id="wrCreateUsernameHelp" class="regHelp tooltipMenu">
+								<div>
+									<p>Station Name Requirements:</p>
+									<ul>
+										<li class="validations validations_isUsernameSize">4-15 characters in length</li>
+										<li class="validations validations_isAlphaNumeric">Alphanumeric (A-Z, a-z, 0-9)</li>
+										<li class="validations validations_nameTaken">The Station Name must be available</li>
+									</ul>
+								</div>
+								<div id="wrCreateUsernameBusy" class="" style="display: none;">
+									<p>We are temporarily unable to register your username. Please try again later.</p>
+								</div>
+							</div>
+						</div>
+						<div class="createFieldContainer">
+							<label for="wrCreatePassword">Password</label>
+							<input type="password" id="wrCreatePassword" class="wr-create-field wr-login-password tooltipMenuOpener" name="password1" maxlength="15">
+							<div id="wrCreatePasswordHelp" class="regHelp tooltipMenu">
+								<p>Password Requirements:</p>
+								<ul>
+									<li class="validations validations_isPasswordSize">8-15 characters in length</li>
+									<li class="validations validations_isAlphaNumericSymbols">Alphanumeric (A-Z, a-z, 0-9, !"#$%)</li>
+									<li class="validations validations_containsNumber">At least one number (0-9) required</li>
+									<li class="validations validations_doesNotMatchStationname">Cannot match the Station Name</li>
+								</ul>
+							</div>
+						</div>
+						<div class="createFieldContainer">
+							<label for="wrCreatePassword2">Confirm Password</label>
+							<input type="password" id="wrCreatePassword2" class="wr-create-field wr-login-password2 tooltipMenuOpener" name="password2" maxlength="15">
+							<div id="wrCreatePassword2Help" class="regHelp tooltipMenu">
+								<p class="validations">Confirm password must match password entered</p>
+							</div>
+						</div>
+						<div class="createFieldContainer">
+							<label for="wrCreateEmail">Email Address</label>
+							<input type="text" id="wrCreateEmail" class="wr-create-field wr-login-email tooltipMenuOpener" name="emailAddress">
+							<div id="wrCreateEmailHelp" class="regHelp tooltipMenu">
+								<p class="validations">Please provide a valid email address. It is used to verify your identity should you forget your password.</p>
+							</div>
+						</div>
+						<div class="createFieldContainer">
+							<label for="wrCreateCountry">Country <span id="countryError" class="inlineErrorField" style="display:none; color:red;">*Please choose a valid country</span></label>
+							<select id="wrCreateCountry" class="wr-create-field wr-login-country tooltipMenuOpener" name="country" size="1">
+								<option value="US" selected="">United States</option>
+								<!--<option value="">- Country -</option>-->
+								<option value="GB">United Kingdom</option>
+								<option value="CA">Canada</option>
+								<option value="BR">Brazil</option>
+								<option value="AU">Australia</option>
+								<option value="DE">Germany</option>
+								<option value="IN">India</option>
+								<option value="FR">France</option>
+								<option value="PH">Philippines</option>
+								<option value="AL">Albania</option>
+								<option value="AF">Afghanistan</option>
+								<option value="AX">Åland Islands</option>
+								<option value="DZ">Algeria</option>
+								<option value="AS">American Samoa</option>
+								<option value="AD">Andorra</option>
+								<option value="AO">Angola</option>
+								<option value="AI">Anguilla</option>
+								<option value="AQ">Antarctica</option>
+								<option value="AG">Antigua and Barbuda</option>
+								<option value="AR">Argentina</option>
+								<option value="AM">Armenia</option>
+								<option value="AW">Aruba</option>
+								<option value="AU">Australia</option>
+								<option value="AT">Austria</option>
+								<option value="AZ">Azerbaijan</option>
+								<option value="BS">Bahamas</option>
+								<option value="BH">Bahrain</option>
+								<option value="BD">Bangladesh</option>
+								<option value="BB">Barbados</option>
+								<option value="BY">Belarus</option>
+								<option value="BE">Belgium</option>
+								<option value="BZ">Belize</option>
+								<option value="BJ">Benin</option>
+								<option value="BM">Bermuda</option>
+								<option value="BT">Bhutan</option>
+								<option value="BO">Bolivia</option>
+								<option value="BQ">Bonaire, Sint Eustatius and Saba</option>
+								<option value="BA">Bosnia and Herzegovina</option>
+								<option value="BW">Botswana</option>
+								<option value="BV">Bouvet Island</option>
+								<option value="BR">Brazil</option>
+								<option value="IO">British Indian Ocean Territory</option>
+								<option value="BN">Brunei Darussalam</option>
+								<option value="BG">Bulgaria</option>
+								<option value="BF">Burkina Faso</option>
+								<option value="BI">Burundi</option>
+								<option value="KH">Cambodia</option>
+								<option value="CM">Cameroon</option>
+								<option value="CA">Canada</option>
+								<option value="CV">Cape Verde</option>
+								<option value="KY">Cayman Islands</option>
+								<option value="CF">Central African Republic</option>
+								<option value="TD">Chad</option>
+								<option value="CL">Chile</option>
+								<option value="CN">China</option>
+								<option value="CX">Christmas Island</option>
+								<option value="CC">Cocos (Keeling) Islands</option>
+								<option value="CO">Colombia</option>
+								<option value="KM">Comoros</option>
+								<option value="CG">Congo</option>
+								<option value="CD">Congo, The Democratic Republic of the</option>
+								<option value="CK">Cook Islands</option>
+								<option value="CR">Costa Rica</option>
+								<option value="CI">Cote d'Ivoire</option>
+								<option value="HR">Croatia</option>
+								<option value="CW">Curaçao</option>
+								<option value="CY">Cyprus</option>
+								<option value="CZ">Czech Republic</option>
+								<option value="DK">Denmark</option>
+								<option value="DJ">Djibouti</option>
+								<option value="DM">Dominica</option>
+								<option value="DO">Dominican Republic</option>
+								<option value="TP">East Timor</option>
+								<option value="EC">Ecuador</option>
+								<option value="EG">Egypt</option>
+								<option value="SV">El Salvador</option>
+								<option value="GQ">Equatorial Guinea</option>
+								<option value="ER">Eritrea</option>
+								<option value="EE">Estonia</option>
+								<option value="ET">Ethiopia</option>
+								<option value="FK">Falkland Islands (Malvinas)</option>
+								<option value="FO">Faroe Islands</option>
+								<option value="FJ">Fiji</option>
+								<option value="FI">Finland</option>
+								<option value="FR">France</option>
+								<option value="GF">French Guiana</option>
+								<option value="PF">French Polynesia</option>
+								<option value="TF">French Southern Territories</option>
+								<option value="GA">Gabon</option>
+								<option value="GM">Gambia</option>
+								<option value="GE">Georgia</option>
+								<option value="DE">Germany</option>
+								<option value="GH">Ghana</option>
+								<option value="GI">Gibraltar</option>
+								<option value="GR">Greece</option>
+								<option value="GL">Greenland</option>
+								<option value="GD">Grenada</option>
+								<option value="GP">Guadeloupe</option>
+								<option value="GU">Guam</option>
+								<option value="GT">Guatemala</option>
+								<option value="GG">Guernsey</option>
+								<option value="GN">Guinea</option>
+								<option value="GW">Guinea-Bissau</option>
+								<option value="GY">Guyana</option>
+								<option value="HT">Haiti</option>
+								<option value="HM">Heard Island and McDonald Islands</option>
+								<option value="VA">Holy See (Vatican City State)</option>
+								<option value="HN">Honduras</option>
+								<option value="HK">Hong Kong</option>
+								<option value="HU">Hungary</option>
+								<option value="IS">Iceland</option>
+								<option value="IN">India</option>
+								<option value="ID">Indonesia</option>
+								<option value="IQ">Iraq</option>
+								<option value="IE">Ireland</option>
+								<option value="IM">Isle of Man</option>
+								<option value="IL">Israel</option>
+								<option value="IT">Italy</option>
+								<option value="JM">Jamaica</option>
+								<option value="JP">Japan</option>
+								<option value="JE">Jersey</option>
+								<option value="JO">Jordan</option>
+								<option value="KZ">Kazakstan</option>
+								<option value="KE">Kenya</option>
+								<option value="KI">Kiribati</option>
+								<option value="KR">Korea, Republic of</option>
+								<option value="KW">Kuwait</option>
+								<option value="KG">Kyrgyzstan</option>
+								<option value="LA">Lao People's Democratic Republic</option>
+								<option value="LV">Latvia</option>
+								<option value="LB">Lebanon</option>
+								<option value="LS">Lesotho</option>
+								<option value="LR">Liberia</option>
+								<option value="LY">Libyan Arab Jamahiriya</option>
+								<option value="LI">Liechtenstein</option>
+								<option value="LT">Lithuania</option>
+								<option value="LU">Luxembourg</option>
+								<option value="MO">Macau</option>
+								<option value="MK">Macedonia, the Former Yugoslav Republic of</option>
+								<option value="MG">Madagascar</option>
+								<option value="MW">Malawi</option>
+								<option value="MY">Malaysia</option>
+								<option value="MV">Maldives</option>
+								<option value="ML">Mali</option>
+								<option value="MT">Malta</option>
+								<option value="MH">Marshall Islands</option>
+								<option value="MQ">Martinique</option>
+								<option value="MR">Mauritania</option>
+								<option value="MU">Mauritius</option>
+								<option value="YT">Mayotte</option>
+								<option value="MX">Mexico</option>
+								<option value="FM">Micronesia, Federated States of</option>
+								<option value="MD">Moldova, Republic of</option>
+								<option value="MC">Monaco</option>
+								<option value="MN">Mongolia</option>
+								<option value="ME">Montenegro</option>
+								<option value="MS">Montserrat</option>
+								<option value="MA">Morocco</option>
+								<option value="MZ">Mozambique</option>
+								<option value="MM">Myanmar</option>
+								<option value="NA">Namibia</option>
+								<option value="NR">Nauru</option>
+								<option value="NP">Nepal</option>
+								<option value="NL">Netherlands</option>
+								<option value="AN">Netherlands Antilles</option>
+								<option value="NC">New Caledonia</option>
+								<option value="NZ">New Zealand</option>
+								<option value="NI">Nicaragua</option>
+								<option value="NE">Niger</option>
+								<option value="NG">Nigeria</option>
+								<option value="NU">Niue</option>
+								<option value="NF">Norfolk Island</option>
+								<option value="MP">Northern Mariana Islands</option>
+								<option value="NO">Norway</option>
+								<option value="OM">Oman</option>
+								<option value="PK">Pakistan</option>
+								<option value="PW">Palau</option>
+								<option value="PS">Palestinian Territory, Occupied</option>
+								<option value="PA">Panama</option>
+								<option value="PG">Papua New Guinea</option>
+								<option value="PY">Paraguay</option>
+								<option value="PE">Peru</option>
+								<option value="PH">Philippines</option>
+								<option value="PN">Pitcairn</option>
+								<option value="PL">Poland</option>
+								<option value="PT">Portugal</option>
+								<option value="PR">Puerto Rico</option>
+								<option value="QA">Qatar</option>
+								<option value="RE">Reunion</option>
+								<option value="RO">Romania</option>
+								<option value="RU">Russian Federation</option>
+								<option value="RW">Rwanda</option>
+								<option value="BL">Saint Barthélemy</option>
+								<option value="SH">Saint Helena</option>
+								<option value="KN">Saint Kitts and Nevis</option>
+								<option value="LC">Saint Lucia</option>
+								<option value="MF">Saint Martin (French part)</option>
+								<option value="PM">Saint Pierre and Miquelon</option>
+								<option value="VC">Saint Vincent and the The Grenadines</option>
+								<option value="WS">Samoa</option>
+								<option value="SM">San Marino</option>
+								<option value="ST">Sao Tome and Principe</option>
+								<option value="SA">Saudi Arabia</option>
+								<option value="SN">Senegal</option>
+								<option value="RS">Serbia</option>
+								<option value="SC">Seychelles</option>
+								<option value="SL">Sierra Leone</option>
+								<option value="SG">Singapore</option>
+								<option value="SX">Sint Maarten (Dutch part)</option>
+								<option value="SK">Slovakia</option>
+								<option value="SI">Slovenia</option>
+								<option value="SB">Solomon Islands</option>
+								<option value="SO">Somalia</option>
+								<option value="ZA">South Africa</option>
+								<option value="GS">South Georgia and the South Sandwich Islands</option>
+								<option value="SS">South Sudan</option>
+								<option value="ES">Spain</option>
+								<option value="LK">Sri Lanka</option>
+								<option value="SR">Suriname</option>
+								<option value="SJ">Svalbard and Jan Mayen</option>
+								<option value="SZ">Swaziland</option>
+								<option value="SE">Sweden</option>
+								<option value="CH">Switzerland</option>
+								<option value="TW">Taiwan, Province of China</option>
+								<option value="TJ">Tajikistan</option>
+								<option value="TZ">Tanzania, United Republic of</option>
+								<option value="TH">Thailand</option>
+								<option value="TL">Timor-Leste</option>
+								<option value="TG">Togo</option>
+								<option value="TK">Tokelau</option>
+								<option value="TO">Tonga</option>
+								<option value="TT">Trinidad and Tobago</option>
+								<option value="TN">Tunisia</option>
+								<option value="TR">Turkey</option>
+								<option value="TM">Turkmenistan</option>
+								<option value="TC">Turks and Caicos Islands</option>
+								<option value="TV">Tuvalu</option>
+								<option value="UG">Uganda</option>
+								<option value="UA">Ukraine</option>
+								<option value="AE">United Arab Emirates</option>
+								<option value="GB">United Kingdom</option>
+								<option value="US">United States</option>
+								<option value="UM">United States minor outlying islands</option>
+								<option value="UY">Uruguay</option>
+								<option value="UZ">Uzbekistan</option>
+								<option value="VU">Vanuatu</option>
+								<option value="VE">Venezuela</option>
+								<option value="VN">Vietnam</option>
+								<option value="VG">Virgin Islands, British</option>
+								<option value="VI">Virgin Islands, U.S.</option>
+								<option value="WF">Wallis and Futuna</option>
+								<option value="EH">Western Sahara</option>
+								<option value="YE">Yemen</option>
+								<option value="YU">Yugoslavia</option>
+								<option value="ZM">Zambia</option>
+								<option value="ZW">Zimbabwe</option>
+							</select>
+						</div>
+						<div class="createFieldContainer">
+							<span id="dobError" class="inlineErrorField" style="display:none; color:red;">*Please choose a valid date of birth</span>
+							<div id="wrCreateBirthdate">
+								<fieldset class="birthday-picker">
+									<label for="wrCreateBirthdate">Date of Birth </label>
+									<select class="birth-year" name="dobYear">
+										<option value="0">yyyy</option>
+									</select>
+									<select class="birth-month" name="dobMonth">
+										<option value="0">mm</option>
+									</select>
+									<select class="birth-day" name="dobDay">
+										<option value="0">dd</option>
+									</select>
+									<!--<input type='hidden' name='age' />-->
+								</fieldset>
+							</div>
+						</div>
+					</div>
+					<div id="wrAcceptMktgFields" class="createFieldContainer">
+						<input type="checkbox" id="wrAcceptMktg" name="acceptMktg" checked="checked">
+						<label for="wrAcceptMktg">Yes, please email me the latest news and special offer updates from SOE.</label>
+						<div class="clr"></div>
+					</div>
+					<div id="wrAcceptTOSFields" class="createFieldContainer">
+						<input type="checkbox" id="wrAcceptTOS" name="tosAccepted" value="true">
+						<label for="wrAcceptTOS" id="wrAcceptTOSText">
+							I have read and accept the <a href="http://www.soe.com/termsofservice.vm" target="_blank">Terms of Service</a> and <a href="http://www.soe.com/sonyonline/privacy.vm" target="_blank">Privacy Policy</a>
+						</label>
+						<div class="clr"></div>
+					</div>
+					<div id="wrAcceptPPFields" class="createFieldContainer">
+						<input type="checkbox" id="wrAcceptPP" name="privacyPolicyAccepted" value="true">
+						<label for="wrAcceptPP" id="wrAcceptPPText">
+						</label>
+					</div>
+					<div id="tosErrorPane" style="display: none">Please indicate that you have read and accept the <a href="http://www.station.sony.com/termsofservice.vm" target="_blank">Terms of Service</a>.</div>
+					<div id="ppErrorPane" style="display: none">Please indicate that you have read and accept the <a href="http://www.station.sony.com/sonyonline/privacy.vm" target="_blank">Privacy Policy</a>.</div>
+					<div id="errorPane"></div>
+					<div class="fields">
+						<div class="buttonGroup playFree">
+							<a id="regBtn4" href="javascript:;" class="web-reg-play-free-btn btn primary en"></a>
+							<p>For Windows Only</p>							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="itLegalText"></div>
+</div>
+
+
+		</div>
+	</div>
+	<div style="clear: both;"></div>
+</div><div class="flushit"></div>
 <div class="footer">
     <div class="ulitems">
     	<ul>
     		<li class="footer_header">SOE.com</li>
-    		<li><a href="https://account.station.sony.com/reg/registration.action?service=http://www.soe.com&amp;theme=soe">Register</a></li>
+    		<li><a href="javascript:;" onclick="showWebRegModal(); return false;">Register</a></li>
     		<li><a href="https://account.station.sony.com/?theme=soe">Manage Account</a></li>
     	  	</ul>
     	<ul>
 	<li class="footer_header">Shop</li>
-	<li><a href="/gamecards/">SOE Game Cards</a></li>
-	<li><a href="/en/stationcash/">Station Cash</a></li>
-	<li><a href="/getthegame/">Software Options</a></li>
-	<li><a href="/gamepass/">Game Pass Plans</a></li>
-	<li><a href="/allaccess">SOE All Access</a></li>
+	<li><a href="/gamecards/?locale=en_US">SOE Game Cards</a></li>
+	<li><a href="/stationcash/?locale=en_US">Station Cash</a></li>
+	<li><a href="/getthegame/?locale=en_US">Software Options</a></li>
+	<li><a href="/gamepass/?locale=en_US">Game Pass Plans</a></li>
+	<li><a href="/allaccess/?locale=en_US">SOE All Access</a></li>
 	</ul>
     	<ul>
 	<li class="footer_header">Company</li>
-	<li><a href="/missionstatement">Who We Are</a></li>
-	<li><a href="/history-of-soe/">History of SOE</a></li>
-	<li><a href="/careers/">Careers</a></li>
-	<li><a href="/sonyonline/retailassets/">Retail Assets</a></li>
-	<li><a href="/executivestaff/">Executive Staff</a></li>
-        <li><a href="/artists/">SOE Artists</a></li>
+		<li><a href="/missionstatement/?locale=en_US">Who We Are</a></li>
+	<li><a href="/history-of-soe/?locale=en_US">History of SOE</a></li>
+	<li><a href="/careers/?locale=en_US">Careers</a></li>
+	<li><a href="/sonyonline/retailassets/?locale=en_US">Retail Assets</a></li>
+		<li><a href="/executivestaff/?locale=en_US">Executive Staff</a></li>
+		<li><a href="http://www.soepress.com">SOE Press</a></li>
+        <li><a href="/artists/?locale=en_US">SOE Artists</a></li>
 	</ul>
     	<ul>
     		<li class="footer_header">Help</li>
-    		<li><a href="/en/support/">Customer Support</a></li>
-    		<li><a href="/en/support/">Account Help</a></li>
-    		<li><a href="/en/support/">Billing Help</a></li>
-    		<li><a href="/en/support/">Support Forums</a></li>
+    		<li><a href="http://help.station.sony.com/">Customer Support</a></li>
+    		<li><a href="http://help.station.sony.com/">Account Help</a></li>
+    		<li><a href="http://help.station.sony.com/">Billing Help</a></li>
+    		<li><a href="http://help.station.sony.com/">Support Forums</a></li>
     	</ul>
     	<ul>
     		<li class="footer_header">Legal</li>
-	    	<li><a href="http://soe.com/sonyonline/legal.vm">Legal &amp; Copyright Notices</a></li>
-    		<li><a href="http://soe.com/sonyonline/privacy.vm">Privacy Policy</a></li>
-    		<li><a href="http://soe.com/termsofservice.vm">Terms Of Service</a></li>
-    		<li><a href="http://soe.com/services/help/photosens.vm">Photosensitive Warning</a></li>
+	    	<li><a href="/sonyonline/legal.vm?locale=en_US">Legal &amp; Copyright Notices</a></li>
+    		<li><a href="/sonyonline/privacy.vm?locale=en_US">Privacy Policy</a></li>
+    		<li><a href="/termsofservice.vm?locale=en_US">Terms Of Service</a></li>
+    		<li><a href="/services/help/photosens.vm?locale=en_US">Photosensitive Warning</a></li>
     	</ul>
     	<div class="footer_images">
 			<a href="/index.vm">
 				<img src="/images/soe_images/soelogofooter.png">
 			</a>
-			<a href="/sonyonline/privacy.vm">
+			<a href="/sonyonline/privacy.vm" id="privacyCert" class="en_US">
 				<img src="https://www.esrb.org/privacy/members/privacy_certified-2008.gif">
 			</a>
     		<div style="clear:both;"></div>
@@ -303,73 +759,61 @@
 
 
 
-				<!-- SiteCatalyst code version: H.24.
-Copyright 1997-2007 Omniture, Inc. More info available at
-http://www.omniture.com -->
+				<script type="text/javascript" src="/scripts/data_tracker.js"></script>
+<script type="text/javascript" src="/scripts/eventTrackers.js"></script>
 <script type="text/javascript">
-	var s_account = "ussoeglobalprod";
+    (function(a,b,c,d){
+    a='//tealium.hs.llnwd.net/o43/utag/soe/soe/prod/utag.js';
+    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
 </script>
-<script type="text/javascript" src="/js/s_code.js"></script>
 <script type="text/javascript">
-$(function(){ // SiteCatalyst code version: H.24.
-	OMN.url = 'soe';
-    s.pageName=OMN.getPageName("soe : mktg");
-	s.channel='soe';
-	s.eVar1='soe';
-	s.prop1='D=v1';
-	s.eVar2='full site';
-	s.prop2='D=v2';
-	s.eVar3=('en_US').toLowerCase();
-	s.prop3='D=v3';
-	s.prop7= s.pageName;
-	s.campaign="";
-	s.t()
-});
+	DATA_TRACKER.data.page.pageName = DATA_TRACKER.getPageName("soe : mktg");
+	DATA_TRACKER.data.page.domain = document.domain;
+	DATA_TRACKER.data.page.title = document.title;
+	DATA_TRACKER.data.page.url = document.location.href;
+	DATA_TRACKER.data.page.type = "${pageType}";
+	DATA_TRACKER.data.page.id = "${pageId}";
+	DATA_TRACKER.data.page.theme = "soe";
+	DATA_TRACKER.data.page.env = "";
+	DATA_TRACKER.data.page.protocol = "http";
+	DATA_TRACKER.data.page.game = "soe";
+	DATA_TRACKER.data.page.locale = "en_US";
+	DATA_TRACKER.data.page.language = "en";
+	DATA_TRACKER.data.page.siteName = "soe";
+	DATA_TRACKER.data.page.platform = "full site";
 </script>
-<script type="text/javascript" src="/js/omniture.js"></script>
-
-<script type="text/javascript">
- 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-22358011-1']);
-  _gaq.push(['_trackPageview']);
- 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
- 
-</script>
-
 
 <div id="products" class="anylinkcss">
 	<ul>
-		<li><a href="/getthegame/?locale=en_EN">Free Trials</a></li>
+		<li><a href="/getthegame/?locale=en_US">Free Trials</a></li>
 		<li><a href="/#0">PC Games</a></li>
 		<li><a href="/#3">PlayStation®</a></li>	
 	</ul>
 
 </div><div class="anylinkshadow" style="width: 195px; height: 97px; opacity: 0.3;"></div><div id="shop" class="anylinkcss">
 	<ul>
-		<li><a href="/gamecards/">SOE Game Cards</a></li>
-		<li><a href="/stationcash/?locale=en_EN">Station Cash</a></li>
-	    <li><a href="/getthegame/?locale=en_EN">Software Options</a></li>
-	    <li><a href="/gamepass/">Game Pass Plans</a></li>
-		<li><a href="/allaccess">SOE All Access</a></li>
+		<li><a href="/gamecards/?locale=en_US">SOE Game Cards</a></li>
+		<li><a href="/stationcash/?locale=en_US">Station Cash</a></li>
+	    <li><a href="/getthegame/?locale=en_US">Software Options</a></li>
+	    <li><a href="/gamepass/?locale=en_US">Game Pass Plans</a></li>
+		<li><a href="/allaccess/?locale=en_US">SOE All Access</a></li>
 	
 	</ul>
 </div><div class="anylinkshadow" style="width: 195px; height: 145px; opacity: 0.3;"></div><div id="community" class="anylinkcss">
 	<ul>
 		<li><a href="http://stationblog.wordpress.com/">Blogs</a></li>
-		<li><a href="/podcasts.vm?locale=en_EN">Podcast Central</a></li>
-		<li><a href="http://www.station.sony.com/fanResourceCenter.vm">Fan Resource Center</a></li>
+		<li><a href="/podcasts.vm?locale=en_US">Podcast Central</a></li>
+		<li><a href="https://player-studio.soe.com">Player Studio</a></li>
 	</ul>
 </div><div class="anylinkshadow" style="width: 195px; height: 97px; opacity: 0.3;"></div><div id="company" class="anylinkcss">
 	<ul>
-		<li><a href="/missionstatement" target="_blank">Who We Are</a></li><li><a href="/history-of-soe/" target="_blank">History of SOE</a></li><li><a href="/careers/">Careers</a></li><li><a href="/sonyonline/retailassets/">Retail Assets</a></li><li><a href="/executivestaff/">Executive Staff</a></li><li><a href="/artists/" target="_blank">SOE Artists</a></li>
+		<li><a href="/missionstatement/?locale=en_US" target="_blank">Who We Are</a></li><li><a href="/history-of-soe/?locale=en_US" target="_blank">History of SOE</a></li><li><a href="/careers/?locale=en_US">Careers</a></li><li><a href="/sonyonline/retailassets/?locale=en_US">Retail Assets</a></li><li><a href="/executivestaff/?locale=en_US">Executive Staff</a></li>
+			<li><a href="http://www.soepress.com">SOE Press</a></li>
+			<li><a href="/artists/?locale=en_US" target="_blank">SOE Artists</a></li>
 	</ul>
-</div><div class="anylinkshadow" style="width: 195px; height: 169px; opacity: 0.3;"></div><div id="account" class="anylinkcss">
+</div><div class="anylinkshadow" style="width: 195px; height: 193px; opacity: 0.3;"></div><div id="account" class="anylinkcss">
 	<ul>
 		<li><a href="https://account.station.sony.com/authenticated/cam/enterActivationCode!input.action?theme=soe">Enter Activation Code</a></li>
 		<li><a href="https://account.station.sony.com/authenticated/cam/updateAccountInfo!input.action">Update Account Info</a></li>
