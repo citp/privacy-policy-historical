@@ -1,110 +1,99 @@
-> *The following text is extracted and transformed from the healthunlocked.com privacy policy that was archived on 2012-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120201051938id_/http%3A//privacy-policy.truste.com/verified-policy/www.healthunlocked.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthunlocked.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613040137id_/http%3A//healthunlocked.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for www.healthunlocked.com
+# Privacy statement - HealthUnlocked
 
-Effective on March 17, 2010 
+November 2012
 
-This privacy statement describes how Everything Unlocked Ltd collects and uses the personal information you provide on our Web site: [www.healthunlocked.com ](https://www.healthunlocked.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+At HealthUnlocked we believe in the potential of shared experiences to transform lives and uncover understanding in health. Because this may involve you sharing sensitive information about your health and treatment we also believe in the importance of clear and transparent privacy guidelines. As a user it’s important you know how we use and share your data and how you can control what happens to information you share in HealthUnlocked.
 
-**TRUSTe**
+Here’s a simple guide:
 
-Everything Unlocked Ltd is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
+## Sharing and Controlling Information
 
-If you have questions or concerns regarding this policy, you should first contact us at [office@healthunlocked.com ](mailto:office@healthunlocked.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+#### Who are you?
 
-## Collection and Use of Personal Information
+HealthUnlocked is owned and operated by Everything Unlocked Limited registered in England and Wales under company number 6596274. Its registered office is: 133 Great Suffolk Street, First floor, London SE1 1PP.
 
-We collect the following personal information from you
+#### Who can see my personal identifiable information?
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Unique Identifiers such as user name, account number, password
-  * Preferences Information such as product wish lists, order history, marketing preferences
-  * Health or Medical Information such as prescription information
+None of your personally identifiable information (email address, postcode/zipcode, date of birth) is ever visible to other users or third parties without your explicit consent. We encourage you to choose a non-identifiable username as this is visible to other users.
 
+Who can see the blogs and questions I write?
 
+You always choose which groups of users can see the blogs and questions you publish. You can either restrict your blog/question to members of the community or share it for others on the web. If there is anything which you are not comfortable sharing with these groups, you should not include it in blogs and questions.
 
-We also collect the following information from you
+Restricting questions and blogs to members of the community only also means they will not be analysed for research.
 
-  * Demographic information such as age, education, gender, interests and zip code
+#### Who can see my non-personally identifiable information?
 
+HealthUnlocked may anonymize and aggregate information collected through the service (e.g. polls, symptom surveys etc). This information may then be published as a study or shared with our [research partners](https://web.archive.org/about/partners). You can always control whether your information is used in this way by following the instructions below.
 
+#### How can I control who sees my information?
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+You always control who can see your information and how it is shared. At any time you can change your [data sharing settings](https://web.archive.org/pages/display/help%2Findex#how-do-i-change-my-data-sharing-settings) to stop sharing information you submit with our research partners. You will still able to use our service.
 
-We use this information to
+#### Will I be contacted for research purposes?
 
-  * Send you requested product or service information
-  * Send product updates or warranty information
-  * Respond to customer service requests
-  * Send you a newsletter
-  * Send you marketing communications
-  * Respond to your questions and concerns
-  * Improve our Web site and marketing efforts
-  * Conduct research and analysis
-  * Display content based upon your interests
-  * List you in our member directory made available only to other members
+We may contact you for research purposes, such as taking part in surveys or clinical trial recruitment. In this case it will always be HealthUnlocked that contacts you, not a research partner directly as we never share your email address with third parties. You can [opt out of being contacted for research purposes](https://web.archive.org/pages/display/help%2Findex#how-do-i-change-my-data-sharing-settings) at any time.
 
+## The HealthUnlocked business model
 
+#### How does HealthUnlocked make money?
 
-**Choice/Opt-Out**
+HU Communities are free for patients and charities. In addition to our licensed softwares such as In Clinic and [GP Communities](http://www.healthunlocked.com/gpcommunities/) we work with research partners allowing them to access anonymised and aggregated data from HealthUnlocked services.
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [office@healthunlocked.com ](mailto:office@healthunlocked.com).
+This only happens where users give their consent to share information and users can opt out at any time as set out above.
 
-We enable you to create a profile, and share information such as messages, photos, and videos with others. Please note that we cannot control the actions of others with whom you may choose to share your pages and information.
+##### 1) Patient Organizations
 
-## Information Sharing
+Patient Organizations using HealthUnlocked can access and export anonymised and aggregate data reports from members within their HealthUnlocked community who have chosen to share their data.
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+##### 2) Doctors and other Healthcare Professionals
 
-We may also disclose your personal information
+Doctors and Healthcare Professionals use HealthUnlocked to manage their patients online. Information will not be made available to doctors unless a patients chooses to share this information with. If patients consent, this information can also be used and aggregated for research and audit by the doctors in their academic studies.
 
-  * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if Everything Unlocked Ltd is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so.
+##### 3) Institutions and Industry
 
+Health Institutions (e.g. NHS or Department of Health) and Companies (Pharmaceuticals or Medical Devices) use HealthUnlocked to research the experience of patients. This may be analysis of data submitted by users of the HealthUnlocked service, or through more structured studies alongside doctors and patients. This only happens where users give their consent to share information and users can opt out at any time as set out above.
 
+## Privacy and Security
 
-## Cookies and Other Tracking Technologies
+#### How is my information protected?
 
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+We provide industry standard security across all of our platforms and comply with health IT standards. In addition, we have secure connections (HTTPS) with 128 bit encryption certificates across all the areas where personal details are used and stored. All passwords assigned during the signup processes are protected using salted cryptographic hashing, and cannot be decrypted.
 
-_Web beacons_
+Our servers are hosted in a protected environments with secure backups performed regularly and compliant with [ISO27001](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=42103), [HIPAA](http://www.hhs.gov/ocr/privacy/index.html) and [NHS IG ToolKit level 2](https://www.igt.connectingforhealth.nhs.uk/).
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+We update our security system regularly and perform ongoing research on new practices and technologies that can improve our services.
 
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+Our service is hosted on third party servers with may be outside the EEA. We have contracts in place with our third party service providers which require them to implement security measures to protect the data they hold and the current security provisions in place are described above.
 
-_Links to Other Web Sites_
+#### Does healthUnlocked use cookies or other tracker technologies?
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Everything Unlocked Ltd. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+HealthUnlocked uses cookies to provide basic functionality and to improve the performance and user experience throughout the site. We may also store encrypted information about you using cookies which we can access when you visit our site in future.
 
-## Security
+Learn more about HealthUnlocked, cookies and how you can control which cookies are used here. [Cookies](https://web.archive.org/policies/cookies)
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+## Communications With You
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+By becoming an account holder, you agree that we may provide you with information about Our Site (whether by email or any other medium) that we consider appropriate. You may opt-out of receiving these materials and notifications in the "settings" area of your account or by writing to or emailing us to inform us that you wish to be removed from our contact list.
 
-If you have any questions about security on our Web site, you can contact us at [office@healthunlocked.com ](mailto:office@healthunlocked.com)
+## In Clinic
 
-## Additional Policy Information
+#### Do you store clinical information?
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+We offer a system that has an ultra-secure database for clinical data storage (compliant with regulations) and a separate database to allow patients to control their own data. This satisfies the ethical and legal requirements of safety of clinical data whilst providing the flexibility needed to offer secondary data services.
 
-**Correcting and Updating Your Personal Information**
+#### Is HealthUnlocked integrated with hospital systems?
 
-To review and update your personal information to ensure it is accurate, contact us at [office@healthunlocked.com ](mailto:office@healthunlocked.com).
+Only for HealthUnlocked In Clinic premium services. However, we do offer to all our UK based doctors users a system that is connected with the [N3](http://n3.nhs.uk/). Where we store clinical data this is usually under a contract with a NHS body under which the NHS body retains responsibility for how the data is used. You should read their privacy policy for more information about how they use your personal data.
 
-**Notification of Privacy Statement Changes**
+## If you need more information
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+#### How do I make a subject access request?
 
-You can contact us about this privacy statement by writing or email us at the address below:
+Please put your request in writing and send it to HealthUnlocked, First Floor, 133 Great Suffolk Street. London, UK, SE1 1PP. We reserve the right to charge a fee of £10.
 
-Everything Unlocked Ltd 
+#### I have more questions
 
-1 Coach House Mews 217 Long Lane 
-
-London, London, United Kingdom SE1 4PP
-
-Phone: +44 7563 366525
+Please contact us on [contact@healthunlocked.com](mailto:contact@healthunlocked.com)
