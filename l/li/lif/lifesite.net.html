@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the lifesite.net privacy policy that was archived on 2012-08-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120819083745id_/http%3A//lifesite.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lifesite.net privacy policy that was archived on 2013-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130613100808id_/http%3A//www.lifesitenews.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <meta name="google-site-verification" content="fD9gLRmZSxVMp-C9eiyHBl7bTmHAhva4nrC4wA1MPF4">
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
@@ -34,8 +34,12 @@ if (typeof jQuery == 'undefined')
 }
 </script><script src="/scripts/jquery-1.5.2.min.js" type="text/javascript"></script><script src="/scripts/jquery-ui.1.6.0.min.js" type="text/javascript"></script>
 
-<link media="all" type="text/css" rel="stylesheet" href="http://www.lifesite.net/?css=style/thickbox_css.v.1343052551">
-<link media="all" type="text/css" rel="stylesheet" href="http://www.lifesite.net/?css=style/all_css.v.1345146763">
+<link media="all" type="text/css" rel="stylesheet" href="http://www.lifesitenews.com/?css=style/thickbox_css.v.1364913983">
+<!--link media="all" type="text/css" rel="stylesheet" href="http://www.lifesitenews.com/?css=style/all_css.v.1364913983"/-->
+<link media="all" type="text/css" rel="stylesheet" href="/css/primary_lsn.css">
+<link media="all" type="text/css" rel="stylesheet" href="http://www.lifesitenews.com/?css=style/update_css.v.1364913983">
+
+
 
 
 <script type="text/javascript" src="/scripts/audio-player.js"></script>  
@@ -66,11 +70,11 @@ if (typeof jQuery == 'undefined')
 
 function ChangeRegion(region)
 {
-    if(document.getElementById('set_region_code_id').value != region)
-    {
+    //if(document.getElementById('set_region_code_id').value != region)
+    //{
         document.getElementById('set_region_code_id').value = region;
         document.changeRegionForm.submit();
-    }
+    //}
 }
 
 function changeViewAllStoriesDate()
@@ -83,17 +87,17 @@ function changeViewAllStoriesDate()
     location = newViewAllLocation;
 }
 
-var modal_popup_align = 'center';		//Valid values; left, right, center
-var modal_popup_top = 90; 			//Use an integer (in pixels)
-var modal_popup_padding = 0;			//Use an integer (in pixels)
+var modal_popup_align = 'center';   //Valid values; left, right, center
+var modal_popup_top = 90;       //Use an integer (in pixels)
+var modal_popup_padding = 0;      //Use an integer (in pixels)
 var modal_popup_backgroundColor = '#FFFFFF'; 
 var modal_popup_borderColor = '#336699'; 
-var modal_popup_borderWeight = 8; 		//Use an integer (in pixels)
-var modal_popup_borderRadius = 2; 		//Use an integer (in pixels)
-var modal_popup_fadeOutTime = 500; 		//Use any integer, 0 = no fade
-var modal_popup_disableColor = '#666666'; 	
-var modal_popup_disableOpacity = 40; 		//Valid range 0-100
-var modal_popup_loadingImage = '/images/main/loading.gif';	
+var modal_popup_borderWeight = 8;     //Use an integer (in pixels)
+var modal_popup_borderRadius = 2;     //Use an integer (in pixels)
+var modal_popup_fadeOutTime = 500;    //Use any integer, 0 = no fade
+var modal_popup_disableColor = '#666666';   
+var modal_popup_disableOpacity = 40;    //Valid range 0-100
+var modal_popup_loadingImage = '/images/main/loading.gif';  
 
 $(document).ready(function() {  
 
@@ -106,7 +110,7 @@ $(document).ready(function() {
          pager: '',
          delay: 2000,
          pause: 1
-      }); 	
+      });   
 
     $('#sidebar_tabs > ul').tabs();
 
@@ -173,6 +177,11 @@ $(document).ready(function() {
        tb_show('', '#TB_inline?height=405&width=492&inlineId=hiddenSubscriptionPopupBox&modal=false', null);
     }
 
+    if($('#modal-wrapper').length)
+    {
+       tb_show('', '#TB_inline?height=574&width=760&inlineId=modal-wrapper&modal=false', null);
+    }
+
 }); 
 
 </script>
@@ -180,21 +189,38 @@ $(document).ready(function() {
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">stLight.options({publisher:'6fcb6794-af9b-4245-becf-2c164b8346ca'});</script>
 
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 <script type="text/javascript">
-   GS_googleAddAdSenseService("ca-pub-6900635172202721");
-   GS_googleEnableAllServices();
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node =document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+   })();
 </script>
+
 <script type="text/javascript">
-   GA_googleAddSlot("ca-pub-6900635172202721", "Right_Mid_Banner_300x250");
-   GA_googleAddSlot("ca-pub-6900635172202721", "Right_Top_Banner_300x250");
-   GA_googleAddSlot("ca-pub-6900635172202721", "Top_Banner_728x90");
-   GA_googleAddSlot("ca-pub-6900635172202721", "Bottom_Banner_600x90");
-   GA_googleAddSlot("ca-pub-6900635172202721", "Right_Bottom_Banner_300x250");
+
+googletag.cmd.push(function() {
+
+googletag.defineSlot('/2596116/Right_Mid_Banner_300x250', [300, 250], 'div-Right_Mid_Banner_300x250').addService(googletag.pubads());
+googletag.defineSlot('/2596116/Right_Top_Banner_300x250', [300, 250], 'div-Right_Top_Banner_300x250').addService(googletag.pubads());
+googletag.defineSlot('/2596116/Top_Banner_728x90', [728, 90], 'div-Top_Banner_728x90').addService(googletag.pubads());
+googletag.defineSlot('/2596116/Bottom_Banner_600x90', [600, 90], 'div-Bottom_Banner_600x90').addService(googletag.pubads());
+googletag.defineSlot('/2596116/Right_Bottom_Banner_300x250', [300, 250], 'div-Right_Bottom_Banner_300x250').addService(googletag.pubads());
+
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+
+});
+
 </script>
-<script type="text/javascript">
-   GA_googleFetchAds();
-</script>
+
 
 <script type="text/javascript">
 
@@ -244,7 +270,7 @@ $(document).ready(function() {
 
                <em>Edition:</em>
                <ul>
-                  <li><a href="javascript:void();" onclick="ChangeRegion('US');"><span>US</span></a></li>
+                  <li class="active"><a href="javascript:void();" onclick="ChangeRegion('US');"><span>US</span></a></li>
                   <li><a href="javascript:void();" onclick="ChangeRegion('CA');"><span>CANADA</span></a></li>
                   <li class="international"><a href="javascript:void();" onclick="ChangeRegion('International');"><span>INTERNATIONAL</span></a></li>
                </ul>
@@ -252,6 +278,8 @@ $(document).ready(function() {
                <span class="spanish-link"><a href="/mobile/override">Mobile Site</a><!--a href="http://notifam.net/">Espa&#241;ol</a--></span>
 
             </div> <!-- end of region -->
+
+            <span class="amazon-link"><a href="/amazon-guide/ "><img src="/images/sized/images/main/amazon-button2-84x30.png" width="84" height="30" alt=""></a></span>
 
             <form action="/search/" method="post" class="search-form">
                <fieldset>
@@ -275,10 +303,10 @@ $(document).ready(function() {
 
             <div class="main-holder">
 
-                  
 
                
-                     <div id="skip"><a href="#twocolumn" tabindex="2">Skip to Main Content</a></div>
+                
+      <div id="skip"><a href="#twocolumn" tabindex="2">Skip to Main Content</a></div>
 	
 
       <div class="ad-area">
@@ -292,17 +320,24 @@ $(document).ready(function() {
    
 
          <div class="ad-holder">
-            <!--img src="/images/img02.jpg" width="728" height="90" alt="Advertisement"/-->
+            
+            <div id="div-Top_Banner_728x90">
+
 <script type="text/javascript">
-GA_googleFillSlot("Top_Banner_728x90");
+
+googletag.cmd.push(function() { googletag.display('div-Top_Banner_728x90'); });
+
 </script>
 
+</div>
+
+            
         </div>  <!-- end of ad-holder -->
 
          <span class="advertisement-inline">&nbsp;</span>
 
       </div>  <!-- end of ad-area -->
-	
+ 
       <div class="user-area">
 
          <h1 class="logo"><a href="/">LifeSiteNews.com Life, Family and Culture News</a></h1>
@@ -377,11 +412,11 @@ GA_googleFillSlot("Top_Banner_728x90");
 
          </div> <!-- end of subnav-topics-resources-id -->
 
-      </div> <!-- end of category_nav_bar --> 
+      </div> <!-- end of category_nav_bar -->
 
 
-	
 
+                  
 <div style="margin: 0pt; padding: 0pt; display:none;">
     <form style="margin: 0pt; padding: 0pt; display:none" name="overrideMobileForm" id="overrideMobileForm" action="http://www.lifesitenews.com/mobile" method="post">
     <input name="md_override_mobile_detect" value="2" type="hidden">
@@ -396,6 +431,7 @@ function DoShowMobile()
 </script>
 
                <div class="content-area">
+
 
 
 
@@ -524,11 +560,20 @@ LifeSiteNews.Com allows you to change or modify your personal information by sen
                         <div id="sidebar">
      
     
-         <div class="ad-holder"><!--img src="/images/img05.jpg" width="300" height="250" alt="Advertisement" class="ad"/-->
+         <div class="ad-holder">
+            
+            <div id="div-Right_Top_Banner_300x250">
+
 <script type="text/javascript">
-   GA_googleFillSlot("Right_Top_Banner_300x250");
+
+googletag.cmd.push(function() { googletag.display('div-Right_Top_Banner_300x250'); });
+
 </script>
+
 </div>
+
+            
+         </div>
 
 
          
@@ -543,23 +588,23 @@ LifeSiteNews.Com allows you to change or modify your personal information by sen
                <ul class="tabnav tabset">
                   <li><a href="#popular_tab">Popular</a></li>
                   <li><a href="#commented_tab">Commented</a></li>
-                  <li class="last"><a href="#topics_tab">Topics</a></li>
+                  <!-- <li class="last"><a href="#topics_tab">Topics</a></li> -->
                </ul>
 
                <div id="popular_tab" class="tabdiv tab-content">
                   <ul class="list">
 
-                     <li><a href="/news/twenty-weeks-pregnant-with-twins-but-last-week-she-had-an-abortion">Twenty weeks pregnant with twins, but last week she had an abortion&nbsp;<!--(74805)--></a></li>
+                     <li><a href="/news/congressman-moves-20-week-abortion-ban-forward-opens-new-rape-controversy-f">Congressman moves 20-week abortion ban forward, opens new ‘rape’ controversy for GOP&nbsp;<!--(0)--></a></li>
 
-                     <li><a href="/news/canadian-medical-association-babies-not-human-till-after-birth">Canadian Medical Association: babies not human until after birth&nbsp;<!--(9063)--></a></li>
+                     <li><a href="/news/woman-who-self-aborted-baby-two-days-before-due-date-has-sentence-reduced">Woman who self-aborted baby two days before due date has sentence reduced&nbsp;<!--(0)--></a></li>
 
-                     <li><a href="/news/a-picture-is-worth-a-million-pageviews-the-photo-that-went-viral-beyond-my">A picture is worth a million pageviews: the photo that went viral beyond my wildest imagination&nbsp;<!--(7902)--></a></li>
+                     <li><a href="/news/mother-of-sewer-baby-hid-pregnancy-over-fear-of-chinese-one-child-policy">Mother of ‘sewer baby’ hid pregnancy over fear of Chinese one child policy&nbsp;<!--(0)--></a></li>
 
-                     <li><a href="/news/just-being-human-doesnt-give-you-a-right-to-live-peter-singer-sums-up-pro-a">‘Just being human doesn’t give you a right to live’: Peter Singer sums up pro-abortion philosophy&nbsp;<!--(5316)--></a></li>
+                     <li><a href="/news/vatican-cardinal-contraception-is-fundamentally-an-anti-life-act">Vatican Cardinal: Contraception ‘is fundamentally an anti-life act’&nbsp;<!--(0)--></a></li>
 
-                     <li><a href="/news/catholic-relief-services-scandal-hits-the-blogosphere">Catholic Relief Services scandal hits the blogosphere&nbsp;<!--(4910)--></a></li>
+                     <li><a href="/news/obama-slated-to-name-five-openly-homosexual-foreign-ambassadors">Obama slated to name five openly homosexual foreign ambassadors&nbsp;<!--(0)--></a></li>
 
-                     <li><a href="/news/interview-i-do-forgive-him-says-teen-with-knee-blown-apart-by-aurora-theate">INTERVIEW: ‘I do forgive him,’ says teen with knee blown apart by Aurora theater shooter&nbsp;<!--(4033)--></a></li>
+                     <li><a href="/news/transgender-bill-sails-through-canadian-human-rights-senate-committee-uname">Transgender bill sails through Canadian Human Rights Senate Committee unamended&nbsp;<!--(0)--></a></li>
 
                   </ul>
                </div> <!-- end of tab-content -->
@@ -567,102 +612,24 @@ LifeSiteNews.Com allows you to change or modify your personal information by sen
                <div id="commented_tab" class="tabdiv tab-content">
                   <ul class="list">
 
-                     <li><a href="/news/twenty-weeks-pregnant-with-twins-but-last-week-she-had-an-abortion">Twenty weeks pregnant with twins, but last week she had an abortion&nbsp;(547)</a></li>
+                     <li><a href="/news/not-all-children-raised-by-gay-parents-support-gay-marriage-i-should-know-i">Not all children raised by gay parents support gay marriage: I should know, I’m one of them&nbsp;(255)</a></li>
 
-                     <li><a href="/news/romney-the-boy-scouts-should-admit-homosexuals">Romney: The Boy Scouts should admit homosexuals&nbsp;(183)</a></li>
+                     <li><a href="/news/bishop-tells-hostile-crowd-at-gay-marriage-debate-my-secretary-was-killed-b">Bishop tells hostile crowd at gay marriage debate: my secretary was murdered by a gay activist&nbsp;(217)</a></li>
 
-                     <li><a href="/news/caught-on-video-abortionist-talks-of-the-ugly-black-babies-he-aborts">Caught on video: Abortionist talks of the “ugly black babies” he aborts&nbsp;(145)</a></li>
+                     <li><a href="/news/super-bowl-champ-matt-birk-skips-meeting-with-obama-over-god-bless-planned">Super Bowl champ Matt Birk skips meeting with Obama over ‘God bless Planned Parenthood’ remark&nbsp;(197)</a></li>
 
-                     <li><a href="/news/canadian-medical-association-babies-not-human-till-after-birth">Canadian Medical Association: babies not human until after birth&nbsp;(144)</a></li>
+                     <li><a href="/news/college-republicans-to-gop-back-off-planned-parenthood-contraception-same-s">College Republicans to GOP: Back off Planned Parenthood, contraception, same-sex ‘marriage’&nbsp;(98)</a></li>
 
-                     <li><a href="/news/cardinal-burke-on-lcwr-if-it-cant-be-reformed-then-it-doesnt-have-a-right-t">Cardinal Burke on nuns’ group: ‘If it can’t be reformed, then it doesn’t have a right to continue’&nbsp;(130)</a></li>
+                     <li><a href="/news/peter-singer-womens-right-to-have-children-might-have-to-be-sacrificed-for">Peter Singer: women’s right to have children might have to be sacrificed for the environment&nbsp;(93)</a></li>
 
-                     <li><a href="/news/fr.-pavone-opposes-obama-appearance-at-ny-catholic-charities-dinner">Fr. Pavone opposes Obama appearance at NY Catholic charity dinner fundraiser&nbsp;(113)</a></li>
+                     <li><a href="/blog/christian-university-retaliates-against-pro-life-student-for-showing-graphi">Christian university retaliates against pro-life student for showing graphic reality of abortion&nbsp;(91)</a></li>
 
                   </ul>
                </div> <!-- end of tab-content -->
 
                <div id="topics_tab" class="tabdiv tab-content">
 
-                  <a href="/tag/homosexuality" title="homosexuality" style="font-size:16px;">homosexuality</a> 
-
-                  <a href="/tag/abortion" title="abortion" style="font-size:30px;">abortion</a> 
-
-                  <a href="/tag/pope" title="pope" style="font-size:12px;">pope</a> 
-
-                  <a href="/tag/catholic" title="catholic" style="font-size:14px;">catholic</a> 
-
-                  <a href="/tag/canada" title="canada" style="font-size:12px;">canada</a> 
-
-                  <a href="/tag/obama" title="obama" style="font-size:14px;">obama</a> 
-
-                  <a href="/tag/christmas" title="christmas" style="font-size:12px;">christmas</a> 
-
-                  <a href="/tag/transgender" title="transgender" style="font-size:12px;">transgender</a> 
-
-                  <a href="/tag/obamacare" title="obamacare" style="font-size:12px;">obamacare</a> 
-
-                  <a href="/tag/condoms" title="condoms" style="font-size:12px;">condoms</a> 
-
-                  <a href="/tag/eu" title="eu" style="font-size:12px;">eu</a> 
-
-                  <a href="/tag/euthanasia" title="euthanasia" style="font-size:12px;">euthanasia</a> 
-
-                  <a href="/tag/sex" title="sex" style="font-size:12px;">sex</a> 
-
-                  <a href="/tag/joseph+maraachli" title="joseph maraachli" style="font-size:12px;">joseph maraachli</a> 
-
-                  <a href="/tag/dadt" title="dadt" style="font-size:12px;">dadt</a> 
-
-                  <a href="/tag/gay" title="gay" style="font-size:12px;">gay</a> 
-
-                  <a href="/tag/freedom" title="freedom" style="font-size:12px;">freedom</a> 
-
-                  <a href="/tag/france" title="france" style="font-size:12px;">france</a> 
-
-                  <a href="/tag/vatican" title="vatican" style="font-size:12px;">vatican</a> 
-
-                  <a href="/tag/un" title="un" style="font-size:12px;">un</a> 
-
-                  <a href="/tag/soto" title="soto" style="font-size:12px;">soto</a> 
-
-                  <a href="/tag/cchd" title="cchd" style="font-size:12px;">cchd</a> 
-
-                  <a href="/tag/philippines" title="philippines" style="font-size:12px;">philippines</a> 
-
-                  <a href="/tag/aids" title="aids" style="font-size:12px;">aids</a> 
-
-                  <a href="/tag/spain" title="spain" style="font-size:12px;">spain</a> 
-
-                  <a href="/tag/australia" title="australia" style="font-size:12px;">australia</a> 
-
-                  <a href="/tag/feminism" title="feminism" style="font-size:12px;">feminism</a> 
-
-                  <a href="/tag/church" title="church" style="font-size:12px;">church</a> 
-
-                  <a href="/tag/stem+cells" title="stem cells" style="font-size:12px;">stem cells</a> 
-
-                  <a href="/tag/polygamy" title="polygamy" style="font-size:12px;">polygamy</a> 
-
-                  <a href="/tag/anglican" title="anglican" style="font-size:12px;">anglican</a> 
-
-                  <a href="/tag/unborn" title="unborn" style="font-size:12px;">unborn</a> 
-
-                  <a href="/tag/africa" title="africa" style="font-size:12px;">africa</a> 
-
-                  <a href="/tag/scalia" title="scalia" style="font-size:12px;">scalia</a> 
-
-                  <a href="/tag/alaska" title="alaska" style="font-size:12px;">alaska</a> 
-
-                  <a href="/tag/population" title="population" style="font-size:12px;">population</a> 
-
-                  <a href="/tag/lombardi" title="lombardi" style="font-size:12px;">lombardi</a> 
-
-                  <a href="/tag/liberal" title="liberal" style="font-size:12px;">liberal</a> 
-
-                  <a href="/tag/disney" title="disney" style="font-size:12px;">disney</a> 
-
-                  <a href="/tag/suicide" title="suicide" style="font-size:12px;">suicide</a> 
+                  <!--a href="/tag/{websafe_tag}" title="{tag}" style="font-size:{step}px;">{tag}</a--> 
 
                </div> <!-- end of tab-content -->
 
@@ -673,11 +640,19 @@ LifeSiteNews.Com allows you to change or modify your personal information by sen
 <div style="text-align:right; color:#999; margin:-10px 10px 15px; 0; font-size:11px; line-height:1.0em;">Advertisement</div>
 
 
-                <div class="ad-holder" style="margin-bottom: 16px;"><!--img src="/images/img05.jpg" width="300" height="250" alt="Advertisement" class="ad"/-->
+                <div class="ad-holder" style="margin-bottom: 16px;">
+                   
+                   <div id="div-Right_Mid_Banner_300x250">
+
 <script type="text/javascript">
-   GA_googleFillSlot("Right_Mid_Banner_300x250");
+
+googletag.cmd.push(function() { googletag.display('div-Right_Mid_Banner_300x250'); });
+
 </script>
+
 </div>
+                   
+                </div>
 
                 <div id="nmWidgetContainer"></div>
 <script src="http://cdn.nmcdn.us/js/connect.js"></script>
@@ -704,13 +679,19 @@ LifeSiteNews.Com allows you to change or modify your personal information by sen
 		</div> <!-- end of block-in -->
 
 		<div class="ad-holder" style="margin-bottom: 16px; margin-top:12px;">
+                   
+                   <div id="div-Right_Bottom_Banner_300x250">
 
-   <!-- Right_Bottom_Banner_300x250 -->
-   <script type="text/javascript">
-      GA_googleFillSlot("Right_Bottom_Banner_300x250");
-   </script>
+<script type="text/javascript">
+
+googletag.cmd.push(function() { googletag.display('div-Right_Bottom_Banner_300x250'); });
+
+</script>
 
 </div>
+
+                   
+                </div>
 
                 <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FLifeSiteNewscom%2F112623813202&amp;width=292&amp;colorscheme=light&amp;connections=10&amp;stream=true&amp;header=true&amp;height=587" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:587px;" allowtransparency="true"></iframe>
 
@@ -754,17 +735,17 @@ LifeSiteNews.Com allows you to change or modify your personal information by sen
 
                </div> <!-- end of content-area -->
  
-		
+        
             </div> <!-- end of main-holder -->
 
          </div> <!-- end of main-area -->
 
       </div> <!-- end of main -->
-	
-	
+    
+  
+      
           
    <div id="footer">
-
       <div class="video-holder">
 
 
@@ -778,13 +759,13 @@ LifeSiteNews.Com allows you to change or modify your personal information by sen
 $(document).ready(function() {  
 
         $("#enlarge_video_id_ft").click(function() {
-	
-			var source = '/video-player/youtube/tbOSg5u8n0g';
-			var width = 725; 	// pixels
+    
+            var source = '/video-player/youtube/ypqODx6L5MQ';
+            var width = 725;    // pixels
                         var popup_top = 15;
                         var block_page_obj = 'image_wrapper_ft';
 
-			modalPopup(modal_popup_align, 
+            modalPopup(modal_popup_align, 
                                    popup_top, 
                                    width, 
                                    modal_popup_padding, 
@@ -798,8 +779,8 @@ $(document).ready(function() {
                                    source, 
                                    modal_popup_loadingImage,
                                    block_page_obj);
-			
-        });	
+            
+        }); 
 
         //This method hides the popup when the escape key is pressed
         $(document).keyup(function(e) {
@@ -812,7 +793,7 @@ $(document).ready(function() {
         <div id="image_wrapper_ft" class="photo-full-width" style="width:210px;">
 
 <a href="javascript:void(0);" id="enlarge_video_id_ft">
-   <div id="article-video_wrap" style="width:210px; height:175px; text-align:center; background-color:#000; background-position: center center; background-image: url('http://i.ytimg.com/vi/tbOSg5u8n0g/0.jpg'); background-repeat: no-repeat;">
+   <div id="article-video_wrap" style="width:210px; height:175px; text-align:center; background-color:#000; background-position: center center; background-image: url('http://i2.ytimg.com/vi/ypqODx6L5MQ/0.jpg'); background-repeat: no-repeat;">
    <img src="/images/main/youtube_small.png" style="position:relative; top:70px; left:90px;">
    </div>
 </a>
@@ -825,8 +806,9 @@ $(document).ready(function() {
          <div class="text">
 
             <h2>FEATURED VIDEO</h2>
-            <h3>LifeSiteNews: Past, Present and Future</h3>
+            <h3>The Gift of Life</h3>
             <p style="margin-top:8px;"></p>
+            <!--div class="more"><a href="#">More Videos</a></div-->
 
          </div> <!-- end of text -->
 
@@ -900,10 +882,10 @@ $(document).ready(function() {
 
       </div>  <!-- end of column -->
 
+
 <div id="footer-links"><a href="/subscribe/">Get News by E-mail</a> | <a href="/about">About LifeSiteNews</a> | <a href="/contact-lifesitenews">Contact Us</a> | <a href="/home/write-us/news-tips">Send News Tips</a> | <a href="http://feeds.feedburner.com/LifesitenewscomLatestHeadlines">RSS News Feed</a> | <a href="/home/sitemap/">Site Map</a></div>
 
 <div id="footer-identification">All content copyright 1997-2012 LifeSiteNews.com, all rights reserved. | <a href="/legal-info">Legal Information</a> | <a href="/privacy">Privacy Policy</a></div>
-
    </div> <!-- end of footer -->
 
    <div id="skip-back"><a href="#nav" tabindex="3">back to top</a></div>
@@ -927,8 +909,6 @@ var _sf_async_config={uid:25978,domain:"lifesitenews.com"};
   window.onload = (typeof window.onload != 'function') ?
      loadChartbeat : function() { oldonload(); loadChartbeat(); }; })(); 
 </script>
-
-      
 
 
    </div> <!-- end of wrapper -->
