@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hsi.org privacy policy that was archived on 2012-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121213121406id_/http%3A//www.hsi.org/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hsi.org privacy policy that was archived on 2013-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130614012008id_/http%3A//www.hsi.org/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '3314:0';
-CONVIO.pageSessionID = 'w5yqkpgze5.app304b';
+CONVIO.pageSessionID = 'hvjag5hur8.app341b';
 CONVIO.pageSessionName = 'JServSessionIdr004';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1355400845499"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1371172807642"></script>
 <script type="text/javascript">
 
 // The original referrer may have been lost from the session-status.jsp javascript redirect.
@@ -89,6 +89,26 @@ $(document).ready( function(){
 } ); 
 </script>
 
+<script type="text/javascript">
+//CMK11052012: Script that adds "wmode=transparent" to all YouTube sources, 
+//so that windowshades don't get hidden underneath YT players.
+//Source: http://www.daddydesign.com/wordpress/fixing-youtube-iframe-z-index-using-jquery/
+$(document).ready(function(){
+     var frames = document.getElementsByTagName("iframe");
+     for (var i = 0; i < frames.length; i++) {
+           src = frames[i].src;
+           if(src.indexOf('youtube.com/embed/') != -1) {
+                if(src.indexOf('?') != -1) {
+                     frames[i].src += "&wmode=transparent";
+                } else {
+                     frames[i].src += "?wmode=transparent";
+                }
+           }
+     }   
+});
+</script>
+
+
 <script language="JavaScript"> 
 function openDir( form ) { 
 	var newIndex = form.fieldname.selectedIndex; 
@@ -127,6 +147,10 @@ function openDir( form ) {
 
 </script>
 
+
+<style>
+#page-head #country-name {border-top:none}
+</style>
 </head>
 
 
@@ -323,16 +347,26 @@ function openDir( form ) {
 #top_donate{right:504px}
 .hsi #top_donate{right:530px}
 </style>
+<div style="background: url('http://www.hsi.org/assets/images/page-head/page-head-logo-background.png') top left no-repeat;height:186px; width:237px;z-index:10!important;left:11px ;position: absolute;">
+<div style="height:162px; width:150px;z-index:11!important; left:49px !important; position: relative;top:25px;"> <a href="http://www.hsi.org/" title="hsi"><img src="http://www.hsi.org/assets/images/logos/hsi_global.png"></a></div>
+</div>
+<div id="top_band" style="postion:relative;">
 
-<div id="top_band">
   <div id="top_search">
-    <form name="site-search" action="http://www.hsi.org/search/search.jsp" method="get">
+<!-- <form name="site-search" action="http://www.hsi.org/search/search.jsp" method="get">
       <p>
         <label for="top_search_input">Search</label>
-        <input id="top_search_input" class="text" type="text" name="query" value="">
+        <input id="top_search_input" class="text" type="text" name="query" value="" />
         <button type="submit">Go</button> 
       </p>
-    </form>
+    </form> --> 
+
+<form id="site-search" action="http://www.hsi.org/search-results.html" method="GET">
+                                        <label class="visuallyhidden" for="top_search_input">Search</label>
+                                        <input name="q" id="top_search_input" type="text" value="Search" autocomplete="off" onfocus="if(this.value=='Search') {this.value=''}" onblur="if(this.value==''){this.value='Search'}" placeholder="Search">
+                                        <button type="submit">Go</button>
+ </form>
+
   </div>
   <div id="top_resources">
 <form name="resource-menu">
@@ -373,12 +407,12 @@ function openDir( form ) {
 
       
     </form>
-  </div>
 
+</div>
 
 <!-- 
 
-http://www.hsi.org/includes/header.html
+http://www.hsi.org/includes/header-global.html
 
 /
 
@@ -456,7 +490,7 @@ http://www.hsi.org/includes/header.html
 	//Set overall defaults 
 	var pinMediaDefault = 'http://www.hsi.org/assets/images/global/hsi-logo.png'; //Set logo as default
 	var pinUrlDefault = 'http://www.hsi.org';
-	var twitterHandle = '@HSIGlobal';
+	var twitterHandle = 'HSIGlobal';
 </script>	
 	
 <script type="text/javascript">
@@ -473,31 +507,31 @@ http://www.hsi.org/includes/header.html
 	if (isCanadian != -1) {
 		pinMediaDefault = 'http://www.hsi.org/assets/images/global/hsi_canada_logo.png';
 		pinUrlDefault = 'http://www.hsi.org/world/canada/';
-		twitterHandle = '@HSI_Canada';
+		twitterHandle = 'HSI_Canada';
 	} else if (isFrench != -1) {
 		pinMediaDefault = 'http://www.hsi.org/assets/images/global/hsi_canada_logo.png';
 		pinUrlDefault = 'http://www.hsi.org/french/francais.html';
-		twitterHandle = '@HSI_Canada';		
+		twitterHandle = 'HSI_Canada';		
 	} else if (isEuropean != -1) {
 		pinMediaDefault = 'http://www.hsi.org/assets/images/global/hsi_eu_logo.png';
 		pinUrlDefault = 'http://www.hsi.org/world/europe/';
-		twitterHandle = '@HSIGlobal';		
+		twitterHandle = 'HSIGlobal';		
 	} else if (isIndian != -1) {
 		pinMediaDefault = 'http://www.hsi.org/assets/images/global/hsi_india_logo.png';
 		pinUrlDefault = 'http://www.hsi.org/world/india/';
-		twitterHandle = '@HSIGlobal';		
+		twitterHandle = 'HSIGlobal';		
 	} else if (isLatinAmerican != -1) {
 		pinMediaDefault = 'http://www.hsi.org/assets/images/global/hsi_latin_america_logo.png';
 		pinUrlDefault = 'http://www.hsi.org/world/latin_america/';
-		twitterHandle = '@HSIGlobal';		
+		twitterHandle = 'HSIGlobal';		
 	} else if (isLatinoAmerican != -1) {
 		pinMediaDefault = 'http://www.hsi.org/assets/images/global/hsi_latin_america_logo.png';
 		pinUrlDefault = 'http://www.hsi.org/world/latinoamerica/';
-		twitterHandle = '@HSIGlobal';		
+		twitterHandle = 'HSIGlobal';		
 	} else if (isUK != -1) {
 		pinMediaDefault = 'http://www.hsi.org/assets/images/global/hsi_uk_logo.png';
 		pinUrlDefault = 'http://www.hsi.org/world/united_kingdom/';
-		twitterHandle = '@HSIGlobal';		
+		twitterHandle = 'HSIGlobal';		
 	} 	
 </script>    
 
@@ -508,12 +542,13 @@ http://www.hsi.org/includes/header.html
 </script>
 <script type="text/javascript">
 	function shortenTitle(titleLimit) {
-		var finalTitle = document.title;
-		if (document.title.length > titleLimit) {
-			finalTitle = finalTitle.substring(0,titleLimit);
-		} 
-		return finalTitle;
-	}
+        var titleForTwitter = document.title;
+        titleForTwitter = titleForTwitter.replace(': Humane Society International', '');
+            if (titleForTwitter.length > titleLimit) {
+            titleForTwitter = titleForTwitter.substring(0,titleLimit);
+        } 
+        return titleForTwitter;
+    }
 	function setPinValues() {
 		var pinMediaUrl = '';
 		var pinUrl = document.URL;
@@ -534,11 +569,26 @@ http://www.hsi.org/includes/header.html
 </script>
 <script type="text/javascript">
 	var twitterTitleMax = 95; //Set the max length of the page title sent to Twitter
-	var addthis_share = {
+    var addthis_config =
+    {
+       data_track_clickback: false
+    }
+    var addthis_share = {
 	   title: shortenTitle(twitterTitleMax),
-	   templates: {
-		  twitter: '{{title}}: {{url}} (via ' + twitterHandle + ')'
-	   }
+	   passthrough : {
+           twitter: {
+               via: twitterHandle,
+               text: shortenTitle(twitterTitleMax)
+           }
+       },
+       url_transforms : {
+          shorten: {
+               twitter: 'bitly'
+          }
+       }, 
+       shorteners : {
+          bitly : {} 
+       }
 	}
 </script>
 <style>
@@ -552,7 +602,7 @@ http://www.hsi.org/includes/header.html
 	#share_bar .addthis_button_twitter { position:relative; }
 	#share_bar .addthis_button_email { position:relative;  }
 	#share_bar .addthis_button_google_plusone { position:relative; top:5px; margin-left: 4px;}
-	#share_bar .addthis_button_pinterest { position:relative; top: 3px; margin-left: 8px; width:80px;}	
+	#share_bar .addthis_button_pinterest { position:relative; top: 5px; margin-left: 8px; width:80px;}	
 	#share_bar .addthis_button_facebook_like { position:relative; top: 5px; margin-left: 7px; width:70px;}
 	#share_bar .addthis_button_print { position:relative; padding-left:10px; }
 </style>
@@ -774,7 +824,7 @@ CONVIO.user.isAnonymous = true;
 
          <div style="height: 60px;">&nbsp;</div>
 	<div id="foot">	
-<div id="item-382113876" style="display: inline;">
+<div id="item-430289554" style="display: inline;">
 
 
 
@@ -784,15 +834,19 @@ CONVIO.user.isAnonymous = true;
 
 <p id="foot_convio">&nbsp;</p>
 <ul>
-<li><a class="raquo" href="http://www.hsi.org/">© 2012 Humane Society International</a> 
-</li><li><a href="http://www.hsi.org/privacy_policy.html" class="raquo">Privacy Policy</a> 
+<li><a href="http://www.hsi.org/" class="raquo">© 2013 Humane Society International</a></li>
+<li><a href="http://www.hsi.org/privacy_policy.html" class="raquo">Privacy Policy</a> 
 </li><li><a href="http://www.hsi.org/sitemap.html" class="raquo">Site Map</a> 
 </li><li><a href="http://www.hsi.org/forms/contact.html" class="raquo">Contact Us</a>
+</li><li><a href="http://www.hsi.org/news/media_contacts/" class="raquo">Media Contacts</a>
+
 </li><li><a class="raquo" id="foot_rss" href="http://www.hsi.org/system/rss/channel.jsp?feedID=249759104">Subscribe</a></li> 
 <li><a class="raquo" id="foot_twitter" href="http://www.twitter.com/hsiglobal">Twitter</a> 
 </li><li><a class="raquo" id="foot_facebook" href="http://www.facebook.com/hsiglobal">Facebook</a> </li></ul>
 <br>
 <ul><li>Contributions to Humane Society International are tax-deductible to the extent permitted by law in your country. HSI's tax identification number is 52-1769464.</li></ul>
+
+
 </div>
 </div>
 
@@ -801,100 +855,9 @@ CONVIO.user.isAnonymous = true;
 </div>  
 
 
- 
-<!-- begin HSI donation splashbox -->
-
-<!-- Combo-handled YUI CSS files: --> 
-<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?&#10;&#10;2.6.0/build/container/assets/skins/sam/container.css"> 
-<!-- Combo-handled YUI JS files: --> 
-<script type="text/javascript" src="http://yui.yahooapis.com/combo?2.6.0/build/yahoo-dom-event/yahoo-dom-event.js&amp;2.6.0/build/container/container-min.js&amp;2.6.0/build/cookie/cookie-min.js"></script> 
- 
-<style type="text/css"> 
 
 
-/* Background image goes here */ 
-.splash {position:relative; background-image:url("http://www.hsi.org/assets/images/windowshade/hg_2012_ws.png");background-repeat:no-repeat; width: 769px;height:529px;}
-.splash-close-text {position:absolute; top:0px; left:740px; }
-.splash-form-submit {position:absolute; top:290px; left:461px; }
-
-#splashbox {color: white !Important;border: 2px #999;border: 3px black;*}
-#splashbox_c {z-index:1000;}
-
-.mask {-moz-opacity: 0.8; opacity:.80;filter: alpha(opacity=80);background-color:#2f2f2f;}
-
-</style> 
- 
-<div id="splashbox" class="splash"> 
-  <div class="splash-close-text"> 
-    <a href="#" onclick="NoThankYou();return false;"><img src="http://www.hsi.org/assets/images/windowshade/close.png" border="0" alt="close"></a> 
-  </div> 
-  
-<!-- Link image goes here-->
-<div class="splash-form-submit"><a href="https://secure.humanesociety.org/site/SPageServer?pagename=HSI_Humane_Gifts_2011_Gift_Select&amp;s_src=billboard"><img src="http://www.hsi.org/assets/images/windowshade/hg_2012_button.png " alt="shop now"></a>
-</div>
-
-
-</div> 
- 
-<script type="text/javascript"> 
-
-//Added by CMK11102012, for use in disabling windowshade via URL param
-function getParameterByName(name) {
-  name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
-  var regexS = "[\\?&]" + name + "=([^&#]*)";
-  var regex = new RegExp(regexS);
-  var results = regex.exec(window.location.search);
-  if(results == null)
-    return "";
-  else
-    return decodeURIComponent(results[1].replace(/\+/g, " "));
-}  
-function setCookie(c_name,value,expiredays)
-{
-var exdate=new Date();
-exdate.setDate(exdate.getDate()+expiredays);
-document.cookie=c_name+ "=" +escape(value)+((expiredays==null) ? "" : ";expires="+exdate.toGMTString());
-}
- 
-function NoThankYou(){
-  HideDialog();
-}
- 
- 
-function HideDialog(){
-  setCookie("humane_gift_2012_splash_hsi","true",2);
- 
-  dialog.hide();
-}
- 
-//CMK11102012: Added second test to conditional, checking query string for "ws=hide".
-//If that param and value are found, don't show the windowshade
-if (document.cookie.indexOf("humane_gift_2012_splash_hsi") == -1 && getParameterByName('ws') != 'hide') {
-
-  var dialog;
-  YAHOO.util.Event.addListener(window, "load", function() {
-    dialog = new YAHOO.widget.Dialog("splashbox", {
-      fixedcenter: true,
-      visible: false,
-      modal: true,
-      close: false,
-      constraintoviewport: true
-    });
-    dialog.render(document.body);
-    dialog.show();
-  });
-} else {
-  document.getElementById("splashbox").style.display = "none";
-
-}
-</script> 
-
-<!-- **END SPLASHBOX** -->
-
-
-
-
-
-<!-- 10.12.0.38:8901 -->
+<!-- Powered by Convio -->
+<!-- 10.12.0.42:8901 -->
 
 </div></body></html>
