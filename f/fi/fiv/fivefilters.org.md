@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fivefilters.org privacy policy that was archived on 2012-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120814221133id_/http%3A//fivefilters.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivefilters.org privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613162431id_/http%3A//fivefilters.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | fivefilters.org
-
-### Privacy Policy
 
 This privacy policy sets out how FiveFilters.org uses and protects any information that you give FiveFilters.org when you use this website or the applications hosted here.
 
