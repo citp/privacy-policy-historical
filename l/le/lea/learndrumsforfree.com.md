@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learndrumsforfree.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130041314id_/http%3A//learndrumsforfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learndrumsforfree.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613075223id_/http%3A//learndrumsforfree.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Cookies Policy | Learn Drums For Free - Free & Premium Drum Sheet Music Downloads for Students and Drum Teachers
+# Privacy and Cookies Policy | Learn Drums For Free
 
 This website uses 3rd Party cookies as a result of using Facebook Like Button, Google Analytics / Statcounter, and Google Adsense. **This website follows the 'implied consent' method of using cookies. If you do not wish to use 3rd party cookies you can turn off these cookies using your browser**.
 
@@ -36,7 +36,7 @@ A cookie is a small piece of information sent from this website to your browser 
 
 ## Facebook Like Button
 
-When visiting pages that display a Facebook Like button, information relating to the date and time of your visit, the web page you are on (commonly known as the URL) and other technical information about the IP address, browser and operating system you use will be collected by Facebook. If you are logged into Facebook, your user ID number will also be associated with the information mentioned above. For more information, Facebook's Privacy Policy can be accessed at [www.facebook.com/about/privacy/](http://www.facebook.com/about/privacy/ "www.facebook.com/about/privacy/").
+When visiting pages that display a Facebook Like button, information relating to the date and time of your visit, the web page you are on (commonly known as the URL) and other technical information about the IP address, browser and operating system you use will be collected by Facebook. If you are logged into Facebook, your user ID number will also be associated with the information mentioned above. For more information, Facebook's Privacy Policy can be accessed at [www.facebook.com/about/privacy/](http://www.facebook.com/about/privacy/).
 
 ## Adsense
 
