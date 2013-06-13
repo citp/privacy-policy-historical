@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214013619id_/http%3A//www.realbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614011832id_/http%3A//www.realbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UK, US & AU | realbuzz
 
-**This policy was last updated 2 nd November 2011**
+**This policy was last updated 16th April  2013**
 
-Thank you for visiting the realbuzz.com Shop and/or realbuzz.com (either or both being the Website). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used by the Website.
+Thank you for visiting realbuzz.com (either or both being the Website). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used by the Website.
 
 **Terms of use**
 
 Your use of the Website is subject to the terms of this Privacy policy and the Website’s Terms of use, so please read this Privacy policy and each Website’s Terms of use before using the Website.
 
-[realbuzz.com Terms of use](https://web.archive.org/web/20121214013619id_/terms-of-use/)
+[realbuzz.com Terms of use](https://web.archive.org/web/20130614011832id_/terms-of-use/)  
 
-[ realbuzz.com Shop Terms of use](https://web.archive.org/web/20121214013619id_/shop-terms-of-use/)
 
 **Personal information**
 
@@ -20,7 +19,7 @@ As the protection of your privacy is of the greatest importance to us, we have c
 
 **How we collate and use personal information**
 
-The Website gathers personal information by means of the following methods: signing up to the Website; through events and exhibitions; and through the provision of information to the realbuzz.com shop. Newsletters are sent out to all site members, other than those who have opted out using their account settings options or those who have chosen to unsubscribe. In order to provide you with improved, relevant content, we compile information about email response and website usage. This information helps us to better understand our Members' and email subscribers’ site usage patterns and also what types of content and information may help improve your user experience on the Website.
+The Website gathers personal information by means of the following methods: signing up to the Website; and through events and exhibitions. Newsletters are sent out to all site members, other than those who have opted out using their account settings options or those who have chosen to unsubscribe. In order to provide you with improved, relevant content, we compile information about email response and website usage. This information helps us to better understand our Members' and email subscribers’ site usage patterns and also what types of content and information may help improve your user experience on the Website.
 
 To improve our online services the Website periodically performs statistical analyses of aggregate user behaviour and characteristics in order to measure interest in and use of various areas of the website and to use such information to improve on the ability to serve you better.
 
@@ -34,7 +33,7 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 **Security of the Website**
 
-We use the latest security technology to protect your personal information. When you enter your personal details in the checkout pages of realbuzz.com Shop you are in a secure website. Most browsers display a small padlock symbol on your browser to reassure you this is secure. It is your responsibility and not that of the Website to ensure your browser is up-to-date and has the relevant security patches. Most web browsers will display a message too stating that you are entering into a secure website. If at any time you leave the secure area of the Website, your web browser may remind you that you are leaving a secure part of the Website. You will be asked if you want to cancel this reminder for future occasions.
+We use the latest security technology to protect your personal information. When you enter your personal details in the checkout pages of realbuzz.com you are in a secure website. Most browsers display a small padlock symbol on your browser to reassure you this is secure. It is your responsibility and not that of the Website to ensure your browser is up-to-date and has the relevant security patches. Most web browsers will display a message too stating that you are entering into a secure website. If at any time you leave the secure area of the Website, your web browser may remind you that you are leaving a secure part of the Website. You will be asked if you want to cancel this reminder for future occasions.
 
 **Payment methods and security**
 
@@ -49,6 +48,16 @@ Where we provide links to third party websites (whether or not they are affiliat
 To enhance your experience of the Website, all of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your email address or other personally identifiable information. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
 We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalise your experience of the Website (e.g. to recognise you by name when you return to the Website), save your password in password-protected areas, and enable you to use shopping carts. We also may use cookies to offer you products of potential interest in emails. If you do not wish to receive cookies, or want to be notified of when they are placed, your browser may permit you to do so. However, this will inhibit the functionality of the Website on your browser.
+
+We use the following cookies:  
+
+**Strictly necessary cookies,** These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
+
+**Analytical/performance cookies.** They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+
+**Functionality cookies.** These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+
+**Targeting cookies.** These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
 
 **Email and email newsletter communications**
 
@@ -104,6 +113,8 @@ You can also choose to add personal information that will be visible to other us
 
 If you choose to add certain features to your profile page, these features and your activity associated with these features will be displayed to other users and may be aggregated and shared with your confirmed friends or other users. Such shared activity may include the Website’s content you add as favourites.
 
+When you add content to Public Areas of the Website, this content can be viewed by other members. You shall grant to us the right to upload this content to Public Areas of the Website and use it elsewhere on the Website, the Website’s social media channels, the Website’s email newsletter communications and associated Realbuzz Group Ltd. products and services.
+
 **Your choices**
 
 You can control the information that is available to other users of the Website and your confirmed friends and group members at any time, by editing your account and the features included on your profile page. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page.
@@ -122,4 +133,4 @@ We may update this policy at any time at our sole discretion. The Website will a
 
 **How to contact us**
 
-If you have any questions or concerns about this Privacy policy please [contact us](https://web.archive.org/web/20121214013619id_/contact-us/).
+If you have any questions or concerns about this Privacy policy please [contact us](https://web.archive.org/web/20130614011832id_/contact-us/).
