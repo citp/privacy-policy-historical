@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okcfox.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213030440id_/http%3A//www.okcfox.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okcfox.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613171515id_/http%3A//okcfox.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # KOKH FOX 25 :: Privacy Policy
 
