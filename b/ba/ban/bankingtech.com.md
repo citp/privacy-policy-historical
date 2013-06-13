@@ -1,39 +1,55 @@
-> *The following text is extracted and transformed from the bankingtech.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231033145id_/http%3A//www.bankingtech.com/bankingtech/resource.do%3Fid%3Dbat%3Aps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankingtech.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613081637id_/http%3A//www.bankingtech.com/privacy-policy) for the most accurate reproduction.*
 
-# Banking Technology magazine - privacy statement
+# Privacy policy » Banking Technology
 
-**Online privacy practices**  
-We are keen to strike a fair balance between your personal privacy and ensuring you obtain full value from the internet and other products and services we may be able to market to you.
+1\. Introduction
 
-We are fully registered under the Data Protection Act 1998 and ensure we comply with all the protection the Act affords you. Further information on the Act is available on the internet at [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/).
+We take the privacy of our users seriously and this Privacy Policy Statement explains the privacy and data-protection practices of the Banking Technology website.
 
- **Subscription and registration**  
-For each visitor to our Web site, our web server automatically recognises the consumer’s domain name and e-mailaddress (where possible).
+It is important for us to safeguard our users’ privacy while also providing a personalized and valuable service. The collection of personal information of users is necessary if we are to satisfy the expectations and requirements of these users, for instance by communicating with them and providing an interactive service.
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web site, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations.
+1.1     We are committed to protecting the privacy of visitors to the web site in accordance with the Data Protection Act 1998 (the “Act”).  
+1.2     This privacy policy explains how we may collect personal data and how we use the information we may collect about you.
 
- **What we do with your information**  
-The information we collect is used to improve the content of our Web site, to customise the content and/or layout of our page for each individual consumer, to notify consumers about updates to our Web site, shared with otherreputable organisations to help them contact consumers for marketing purposes and used by us to contact consumers for marketing purposes.
+2\. Information collected and retained by the Administrators
 
-If you do not want to receive e-mail from us in the future, please let us know by contacting us using the details below and telling us that you do not want to receive e-mail from our company.
+2.1     We collect personal information about you from personal details provided by yourself in relation to the Services we offer to Users. We do not collect any sensitive personal information such as information on your racial or ethnic origins, political opinions, religious beliefs, trade union affiliations, sexual life, health or criminal history.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by contacting us using the details below. Please provide us with your exact name and address including your postcode/zipcode. We will be sure your name is removed from the list we share with other organisations. Please also use the address below if you have any queries regarding the personal information we hold about you.
+3\. Use of information by the Administrators
 
-The information you provide will be kept confidential and will be used only to support your customer relationship with us. We do not disclose or sell your information outside our corporate group except if we sell the whole or part of our business or as set out above.
+3.1     We collect information which is necessary to:  
+3.1.1 provide the Services to you;  
+3.1.2 notify you of your Service order status; and  
+3.1.3 carry out internal administration and analysis.  
+3.2     We can also use that information to enhance your visit to our web site by:  
+3.2.1 telling you about new products, new services and special offers;  
+3.2.2 tailoring your experience to your preferred choice of activities; and  
+3.2.3 informing you of changes in our web site.  
+3.3     By providing us with your personal information, you consent to us (and where relevant, our subsidiaries, affiliates and trusted partners) using (including collecting, storing and processing) your personal information. We will of course inform you of any changes to Privacy policy and you will have the opportunity to opt out of those changes which affect you.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services. If you do not wish to receive such telephone calls, please let us know by contacting us using the details below. Please provide us with your correct phone number. We will be sure your nameis removed from the list we share with other organisations.
+4\. Accessing and amending your personal information
 
-Postal address:  
-Banking Technology  
-Informa Professional  
-Informa House  
-30-32 Mortimer Street  
-London  
-W1W 7RE  
-UK
+We will process your personal data for the purposes set out in clause 3 above. If however, you have any queries or requests in relation to Data Protection please notify our Head of Marketing at: Banking Technology, Mortimer House, 37-41 Mortimer Street, London, W1T 3JH.
 
-Customer Services:  
-Tel: +44 (0)20 7017 5532  
-Fax: +44 (0)20 7017 4781
+5\. Disclosure to Third Parties
 
-Email: [professional.enquiries@informa.com](mailto:professional.enquiries@informa.com)
+5.1     We may disclose your information to necessary third parties to enable us to provide you with the Services. By requesting us to provide you with the Services you consent to this disclosure.  
+5.2     We also reserve the right to access and disclose to third parties your information to comply with applicable laws including but not limited to disclosure in accordance with the Act, the Regulation of Investigatory Powers Act 2000 and lawful authority requests, to safeguard the proper operation of our systems and to protect ourselves and our clients.
+
+6\. Protection of personal information
+
+We use our reasonable endeavours, to ensure proper storage and careful disclosure of your personal information in order that nothing improper happens to your private information. These security measures mean that we may occasionally have to ask you for proof of identity before we are able to disclose personal information to you.
+
+7\. External Web Sites
+
+This privacy policy only applies to this web site. The web site may contain links to external web sites. Please note that we are not responsible for the privacy practices of other web sites. We recommend that you check the privacy policy of any other web sites you may visit through the web site. The inclusion of links to such web sites does not imply any endorsement of the material on such sites nor any association with their owners or operators. If you have any complaints relating to such sites, please contact them directly.
+
+8\. Opt-In
+
+If you tick the opt-in box the Administrators will provide your information to selected third parties. We or they may contact you by mail, telephone or e-mail to let you know about services and products which may be of interest to you. You have the right to ask for a copy of the information held by us about you in our records in return for the payment of a small fee. You also have the right to correct any inaccuracies in the information.
+
+9\. Use of Cookies
+
+This website uses cookies. Cookies are small pieces of text that are written to your hard drive to store information about your use of the Telecoms.com Website Service. Cookies are used to automatically log you into the Banking Technology Website Service if you have registered for this service. You have the right to refuse cookies (please see your web browser’s help file for information on doing this), but by doing so you may disrupt the performance of the Telecoms.com Website Service or make it inoperable to you
+
+Please email any queries to [bankingtech@informa.com](mailto:bankingtech@informa.com)
