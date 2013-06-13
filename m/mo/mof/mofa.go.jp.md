@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mofa.go.jp privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116030036id_/http%3A//www.mofa.go.jp/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofa.go.jp privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613035257id_/http%3A//www.mofa.go.jp/about/privacy.html) for the most accurate reproduction.*
 
 # MOFA: Privacy Policy
 
@@ -14,13 +14,13 @@ At the Ministry of Foreign Affairs (hereinafter referred to as "the Ministry"), 
 
 (1) We automatically collect and store Internet domain names, IP addresses, information about access to the Site (i.e., the date and time you access the Site and the pages you visit) and so on. Cookies (information transmitted from the server to the user's browser and stored on the user's computer in order for the server to identify users) may be used to the purposes to figure out the accurate number of accesses and to improve convenience of the browser display function. 
 
-(2) At the "What's New" Mail Service corner, we ask users to register their e-mail address, and optionally gender, age range, occupation, and country they live in.
+(2) At the "What's New" Mail Service corner, we ask users to register their e-mail address.
 
 ### 3\. Purposes of use
 
 (1) The information acquired in 2. (1) will be used as a reference for the smooth operation of the service provided by the Site.
 
-(2) The information collected in 2. (2) will be used as reference information.
+(2) The information collected in 2. (2) will be used for the delivery of information about the Site.
 
 ### 4\. Limitations on use and provision
 
