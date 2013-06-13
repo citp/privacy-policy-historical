@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the hotels.nl privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212201440id_/http%3A//www.hotels.nl/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.nl privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613042845id_/http%3A//www.hotels.nl/service/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ## Hotels.nl privacy statement
 
 This privacy statement is part of, and covers the Hotels.nl website. Hotels.nl respects the privacy of all visitors of its website www.hotels.nl and makes sure that all your personal data is treated confidentially. If you do not fully agree with this privacy statement, you should not use this website.
+
+## Which data is processed?
 
 The data Hotels.nl processes can be placed into two categories:  
 
