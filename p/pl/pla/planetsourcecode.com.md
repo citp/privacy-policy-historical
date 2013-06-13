@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetsourcecode.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223072636id_/http%3A//www.planetsourcecode.com/vb/scripts/privacy.asp%3FlngWId%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetsourcecode.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614000904id_/http%3A//planetsourcecode.com/vb/scripts/privacy.asp%3FlngWId%3D-1) for the most accurate reproduction.*
 
 # visual basic, vb, active server pages (ASP),java, c, c++, c__ , vbscript,active server pages, ASP, vbscript,SQL, database, informix, oracle, SQL Server,Perl, CGI,Delphi, PHP, LISP, Javascript,Free source code for the taking. Over five million lines of programs.
 
@@ -28,6 +28,8 @@ To find out more about how Double-click manages the privacy of information in co
 This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.
 
 This site uses the services of Adtegrity for the serving and/or targeting of ads, promotions and other marketing messages. Adtegrity.com's Privacy Policy can be found at <http://www.adtegrity.com/privacy.asp>. 
+
+Some of the site advertisers use the services of the Network Advertising Initiative (NAI) for opting out of behavioral advertising. Click here for [more information](http://www.networkadvertising.org/managing/opt_out.asp). 
 
  If you have questions regarding other third party measurement services and their respective methods of information collection, please contact [privacy@Planet-Source-Code.com](mailto:privacy@Planet-Source-Code.com). 
 
