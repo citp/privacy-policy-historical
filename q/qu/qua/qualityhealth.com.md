@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the qualityhealth.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227232532id_/http%3A//www.qualityhealth.com/privacyPolicy/footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualityhealth.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613063128id_/http%3A//www.qualityhealth.com/privacyPolicy/footer) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Updated: April 12th, 2012 
+Updated: April 12th, 2013 
 
 [ ](http://www.truste.org/ivalidate.php?url=www.QualityHealth.com&sealid=101)
 
@@ -14,7 +14,7 @@ QualityHealth is very aware of the need to respect, and protect the privacy of i
 
 Because this Policy pertains to information collected only directly through or from the QualityHealth network of sites, this Policy does not apply to personal information collected from offline resources and communications (for instance, if you send us a postal letter or give us a phone call). This Policy also does not apply to third party online resources to which the QualityHealth network of websites may link, where QualityHealth does not control the content, nor the privacy practices. 
 
-Quality Health has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the website www.qualityhealth.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
+Quality Health has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [CustomerService@QualityHealth.com](mailto:customerservice@qualityhealth.com "Compose a new mail to CustomerService@QualityHealth.com"). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 Please read this Policy carefully. Should any questions arise about this Policy or our data collection, use or disclosure practices, please contact us in any of the ways listed at the end of this Policy. Please also be sure to read our complete Terms of Use, of which this Privacy Policy is a part. 
 
