@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the animeonhand.com privacy policy that was archived on 2012-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121115063316id_/http%3A//www.animeonhand.com/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the animeonhand.com privacy policy that was archived on 2013-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130613113312id_/http%3A//www.animeonhand.com/info/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -8,7 +8,7 @@
 <meta charset="utf-8">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 <title>Watch Mobile Anime on iPhone, iPad, iPod, &amp; Android Devices | AnimeOnHand</title>
-<meta id="viewport" name="viewport" content="width=320, target-densityDpi=160"><link href="http://static.animeonhand.com/jquery-mobile/jquery.mobile-1.0a3.min.css" rel="stylesheet" type="text/css"><script src="http://static.animeonhand.com/jquery-mobile/jquery-1.5.min.js" type="text/javascript"></script><meta name="description" content="Watch Anime on iPhone, iPad, iPod, Android, Mobile, Tablet Online for Free or Stream Anime to your iPhone, iPad, Android, Mobile and Tablet">
+ <link href="http://aoh.fastcache.me/jquery-mobile/jquery.mobile-1.0a3.min.css" rel="stylesheet" type="text/css"><script src="http://aoh.fastcache.me/jquery-mobile/jquery-1.5.min.js" type="text/javascript"></script><meta name="description" content="Watch Anime on iPhone, iPad, iPod, Android, Mobile, Tablet Online for Free or Stream Anime to your iPhone, iPad, Android, Mobile and Tablet">
 
 <meta name="author" content="AnimeOnHand">
 <meta property="og:title" content="Watch Anime on iPhone, iPad, iPod, Android, Mobile, Tablet Online for Free">
@@ -21,20 +21,15 @@
 
 <meta name="inmobi-site-verification" content="df0d86ae4fec3eaebc16487fe2672be6">
 
-<link href="http://static.animeonhand.com/css/cssmobile.css?v=121010" rel="stylesheet" type="text/css">
-<link href="http://static.animeonhand.com/assets/css/desktop-aoh.css" rel="stylesheet" type="text/css"><script src="/javascript/custom_mobile.js" type="text/javascript"></script> 
+<link href="http://aoh.fastcache.me/css/cssmobile.css?v=121010" rel="stylesheet" type="text/css">
+<link href="http://aoh.fastcache.me/assets/css/desktop-aoh.css" rel="stylesheet" type="text/css"><script src="/javascript/custom_mobile.js" type="text/javascript"></script> 
  
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
- 
-
  
 
 <!--[if lt IE 9]>
 <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-
-
-
 <script src="http://ads.animeonhand.com/adserver/ad.js"></script> 
 
 <script type="text/javascript">
@@ -71,8 +66,13 @@ location.href=tpage;
 
 
 
- 
-</head>
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="apple-touch-icon" href="http://aoh.fastcache.me/assets/images/apple-icons/apple-touch-icon-iphone.png"> 
+<link rel="apple-touch-icon" sizes="72x72" href="http://aoh.fastcache.me/assets/images/apple-icons/apple-touch-icon-ipad.png"> 
+<link rel="apple-touch-icon" sizes="114x114" href="http://aoh.fastcache.me/assets/images/apple-icons/apple-touch-icon-iphone4.png">
+
+<script type="text/javascript" async="" src="http://s3.buysellads.com/ac/bsa.js"></script></head>
 <body>
  
 <style>
@@ -81,13 +81,97 @@ div.banners-middlePage {
 }
 a.wlater{display:block; width:23px; height:23px; background:url(/assets/images/desktop/watch_later.png) no-repeat; position:absolute; z-index:1111; bottom:0px; left:111px;}
 </style>
+<!-- FACEBOOK -->
+
+<input type="hidden" name="fbacctoken" id="fbacctoken" value="">
+<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+<!-- --> 
+<script>
+
+function fblogout_pls()
+{
+
+// FB.logout(function(response) {
+ location.href='/user/logout';	
+// });
+
+}
+
+function fblogin_pls()
+{
+///////////////
+
+     FB.login(function(response) {
+
+	  if (response.authResponse) {
+		  
+location.href='/user/fbuser';		  
+
+/*
+FB.api('/' + response.authResponse.userID, function(response2) {
+ setMyEmail(response2.email);
+});
+
+       login(response.authResponse.userID);  
+*/
+          } else {
+
+            //user cancelled login or did not grant authorization
+
+          }
+
+        }, {scope:'user_about_me,email'});  	
+
+
+    }
+
+/////////////////
+ 
+
+ function updateButton(response) {
+  
+		
+    if (response.authResponse) {
+
+ if(response && response.status == 'connected') {
+location.href='/user/fbuser';	  
+                                                }
+//	 login();  
+	  
+	  
+    } else {
+      //user is not connected to the app or logged out
+//alert(2);
+  
+    }
+ }
+
+ window.fbAsyncInit = function() {
+ FB.init({appId: '222351351219031', status: true, cookie: true,
+ xfbml: true});
+ 
+   FB.Event.subscribe('auth.statusChange', updateButton);	
+};
+ 
+
+ (function() {
+ var e = document.createElement('script');
+ e.type = 'text/javascript';
+ e.src = document.location.protocol +
+ '//connect.facebook.net/en_US/all.js';
+ e.async = true;
+ document.getElementById('fb-root').appendChild(e);
+}());
+
+</script>
+<!-- ./FACEBOOK -->
 <script>
 var iswlater=0;
 </script>
 
 <div id="aoh-header">
-<a href="/" data-ajax="false"><img class="mlogo" src="http://static.animeonhand.com/assets/images/header/logo_f.png" border="0"></a>
-<img class="mship" src="http://static.animeonhand.com/assets/images/header/ship_2x.png" border="0">
+<a href="/" data-ajax="false"><img class="mlogo" src="http://aoh.fastcache.me/assets/images/header/logo_f.png" border="0"></a>
+<img class="mship" src="http://aoh.fastcache.me/assets/images/header/ship_2x.png" border="0">
 </div>
  
  
@@ -150,7 +234,6 @@ var iswlater=0;
 <option value="comedy">Comedy</option>
 <option value="demons">Demons</option>
 <option value="drama">Drama</option>
-<option value="ecchi">Ecchi</option>
 <option value="fantasy">Fantasy</option>
 <option value="game">Game</option>
 <option value="harem">Harem</option>
@@ -285,7 +368,7 @@ By using our site, you consent to our privacy policy.
  
 <div class="rightColumn">
 
-<a href="https://twitter.com/AnimeOnHand" target="_blank"><img src="http://static.animeonhand.com/assets/images/desktop/twitter.png" border="0"></a>
+<a href="https://twitter.com/AnimeOnHand" target="_blank"><img src="http://aoh.fastcache.me/assets/images/desktop/twitter.png" border="0"></a>
 
 
 
@@ -293,14 +376,7 @@ By using our site, you consent to our privacy policy.
 <ul data-role="none" data-inset="true" data-theme="d" data-dividertheme="a" class="catlisting ui-listview ui-listview-inset ui-corner-all ui-shadow" role="listbox">
 <li data-role="list-divider" role="heading" tabindex="0" class="ui-li ui-li-divider ui-btn ui-bar-a ui-corner-top ui-btn-up-undefined">My Watch Later list</li>
 
- 
-	
-<li id="wlater-togpcteehh" role="none" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d wlaterv-9848"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/one-piece-126" title="Click to watch One Piece 126" data-ajax="false" class="ui-link-inherit">One Piece 126 </a></div><span class="ui-icon ui-icon-delete" title="Click to remove from your list" onclick="wlaterdel(9848)"></span></div></li>	
-
- 
-	
-<li id="wlater-znxenaizya" role="none" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d wlaterv-9988"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/one-piece-268-269" title="Click to watch One Piece 268-269" data-ajax="false" class="ui-link-inherit">One Piece 268-269 </a></div><span class="ui-icon ui-icon-delete" title="Click to remove from your list" onclick="wlaterdel(9988)"></span></div></li>	
-
+<li class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div style="padding:3px;">You don't have any episodes in your watch later list, if you add one it will be easier to find it next time and continue watching it. <u>No login needed!</u></div></li>	
 </ul>
 </div><!-- ./pinned-episode -->
 <br>
@@ -311,43 +387,43 @@ By using our site, you consent to our privacy policy.
 
  
 	
-<li onclick="location.href='/view/bleach-112'" title="Bleach 112" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/bleach-112" data-ajax="false" class="ui-link-inherit">Bleach 112 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
+<li onclick="location.href='/view/bleach-055'" title="Bleach 055" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/bleach-055" data-ajax="false" class="ui-link-inherit">Bleach 055 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
 
  
 	
-<li onclick="location.href='/view/one-piece-053'" title="One Piece 053" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/one-piece-053" data-ajax="false" class="ui-link-inherit">One Piece 053 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
+<li onclick="location.href='/view/fairy-tail-059'" title="Fairy Tail 059" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/fairy-tail-059" data-ajax="false" class="ui-link-inherit">Fairy Tail 059 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
 
  
 	
-<li onclick="location.href='/view/one-piece-082'" title="One Piece 082" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/one-piece-082" data-ajax="false" class="ui-link-inherit">One Piece 082 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
+<li onclick="location.href='/view/naruto-shippuden-207'" title="Naruto Shippuden 207" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/naruto-shippuden-207" data-ajax="false" class="ui-link-inherit">Naruto Shippuden 207 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
 
  
 	
-<li onclick="location.href='/view/one-piece-292'" title="One Piece 292" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/one-piece-292" data-ajax="false" class="ui-link-inherit">One Piece 292 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
+<li onclick="location.href='/view/kateikyoushi-hitman-reborn-128'" title="Kateikyoushi Hitman Reborn 128" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/kateikyoushi-hitman-reborn-128" data-ajax="false" class="ui-link-inherit">Kateikyoushi Hitman Reborn 128 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
 
  
 	
-<li onclick="location.href='/view/one-piece-293'" title="One Piece 293" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/one-piece-293" data-ajax="false" class="ui-link-inherit">One Piece 293 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
+<li onclick="location.href='/view/naruto-shippuden-movie-03'" title="Naruto Shippuden Movie 3" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/naruto-shippuden-movie-03" data-ajax="false" class="ui-link-inherit">Naruto Shippuden Movie 3 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
 
  
 	
-<li onclick="location.href='/view/one-piece-531'" title="One Piece 531" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/one-piece-531" data-ajax="false" class="ui-link-inherit">One Piece 531 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
+<li onclick="location.href='/view/d-gray-man-100'" title="D Gray Man 100" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/d-gray-man-100" data-ajax="false" class="ui-link-inherit">D Gray Man 100 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
 
  
 	
-<li onclick="location.href='/view/high-school-dxd-episode-03'" title="High School DxD Episode 03" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/high-school-dxd-episode-03" data-ajax="false" class="ui-link-inherit">High School DxD Episode 03 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
+<li onclick="location.href='/view/hunter-x-hunter-2011-52-2'" title="Hunter X Hunter (2011) 52-2" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/hunter-x-hunter-2011-52-2" data-ajax="false" class="ui-link-inherit">Hunter X Hunter (2011) 52-2 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
 
  
 	
-<li onclick="location.href='/view/soul-eater-30-1345885701'" title="Soul Eater 30" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/soul-eater-30-1345885701" data-ajax="false" class="ui-link-inherit">Soul Eater 30 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
+<li onclick="location.href='/view/mirai-nikki-23-2'" title="Mirai Nikki 23-2" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/mirai-nikki-23-2" data-ajax="false" class="ui-link-inherit">Mirai Nikki 23-2 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
 
  
 	
-<li onclick="location.href='/view/shakugan-no-shana-final-02-1346146911'" title="Shakugan no Shana Final 02" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/shakugan-no-shana-final-02-1346146911" data-ajax="false" class="ui-link-inherit">Shakugan no Shana Final 02 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
+<li onclick="location.href='/view/suisei-no-gargantia-5'" title="Suisei no Gargantia 5" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/suisei-no-gargantia-5" data-ajax="false" class="ui-link-inherit">Suisei no Gargantia 5 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
 
  
 	
-<li onclick="location.href='/view/anyamal-tantei-kiruminzoo-31'" title="Anyamal Tantei Kiruminzoo 31" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/anyamal-tantei-kiruminzoo-31" data-ajax="false" class="ui-link-inherit">Anyamal Tantei Kiruminzoo 31 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
+<li onclick="location.href='/view/mushibugyo-mushibugyou-10'" title="Mushibugyo - Mushibugyou 10" role="option" tabindex="0" data-theme="d" class="ui-btn ui-btn-icon-right ui-li ui-btn-up-d"><div class="ui-btn-inner"><div class="ui-btn-text"><a href="/view/mushibugyo-mushibugyou-10" data-ajax="false" class="ui-link-inherit">Mushibugyo - Mushibugyou 10 </a></div><span class="ui-icon ui-icon-arrow-r"></span></div></li>	
 
 
 
@@ -425,85 +501,7 @@ var _sf_async_config={uid:37788,domain:"animeonhand.com"};
 </script>
 
 <!-- ./more opts -->
-<input type="hidden" name="fbacctoken" id="fbacctoken" value="">
-<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
-<!-- --> 
 <script>
-
-function fblogout_pls()
-{
-
-// FB.logout(function(response) {
- location.href='/user/logout';	
-// });
-
-}
-
-function fblogin_pls()
-{
-///////////////
-
-     FB.login(function(response) {
-
-	  if (response.authResponse) {
-		  
-location.href='/user/fbuser';		  
-
-/*
-FB.api('/' + response.authResponse.userID, function(response2) {
- setMyEmail(response2.email);
-});
-
-       login(response.authResponse.userID);  
-*/
-          } else {
-
-            //user cancelled login or did not grant authorization
-
-          }
-
-        }, {scope:'user_about_me,email'});  	
-
-
-    }
-
-/////////////////
- 
-
- function updateButton(response) {
-  
- 
-//$('#AccessToken').val(response.authResponse.accessToken);		
-		
-    if (response.authResponse) {
-//location.href='/user/fbuser';	  
-//	 login();  
-	  
-	  
-    } else {
-      //user is not connected to the app or logged out
-//alert(2);
-  
-    }
- }
-
- window.fbAsyncInit = function() {
- FB.init({appId: '222351351219031', status: true, cookie: true,
- xfbml: true});
- 
-   FB.Event.subscribe('auth.statusChange', updateButton);	
-};
- 
-
- (function() {
- var e = document.createElement('script');
- e.type = 'text/javascript';
- e.src = document.location.protocol +
- '//connect.facebook.net/en_US/all.js';
- e.async = true;
- document.getElementById('fb-root').appendChild(e);
-}());
-
 
 function restoreClickability()
 {
@@ -546,9 +544,20 @@ $.get(
 							);
 
 }
+
+<!-- BuySellAds Ad Code -->
+(function(){
+  var bsa = document.createElement('script');
+     bsa.type = 'text/javascript';
+     bsa.async = true;
+     bsa.src = 'http://s3.buysellads.com/ac/bsa.js';
+  (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+})();
+<!-- End BuySellAds Ad Code -->
+
 </script> 
 <!-- -->
-             <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-3.newrelic.com","ac6349f2a6",1503512,"MwdTNRNYCEQFAUFcDQpNcAIVUAlZSwZQUwMRDkVOCFcAWEsSR1wUBQFI",0,61,new Date().getTime()]);</script>
+             <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-3.newrelic.com","cabd46bb57","1914184","YFZQNhYCXxcHAUUPWlkccwEQCl4KSQZUAFRCX0ZNDQ1XC0kSQw9DVlBL",0,59,new Date().getTime(),"","","","",""]);</script>
 
  
-</div><script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+</div><script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
