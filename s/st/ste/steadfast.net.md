@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the steadfast.net privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919090856id_/http%3A//steadfast.net/corporate/legal.privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steadfast.net privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613051621id_/http%3A//steadfast.net/corporate/legal.privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | US-EU Safe Harbor Policy | Steadfast
+# Privacy Policy | US-EU Safe Harbor Policy | Steadfast, Chicago Cloud and Data Center Services
 
 ## This document states the privacy protections you have as a client.
 
