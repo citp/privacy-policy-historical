@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raventools.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213121114id_/http%3A//raventools.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raventools.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613050529id_/http%3A//raventools.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Raven Internet Marketing Tools
 
@@ -8,7 +8,7 @@ At Raven we recognize that privacy is important. This Policy applies to all of t
 
 Raven adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce’s safe harbor program.
 
-If you have any questions about this Policy, please feel free to contact us through our website or write to us at Privacy Matters, c/o Raven Internet Marketing Tools, 1414 17th Ave S, Nashville, TN 37212, USA.
+If you have any questions about this Policy, please feel free to contact us through our website or write to us at Privacy Matters, c/o Raven Internet Marketing Tools, 1101 McGavock St, Suite 201, Nashville, TN 37203, USA.
 
 **Information we collect and how we use it:**
 
@@ -77,7 +77,7 @@ When you use Raven services, we make good faith efforts to provide you with acce
 
 **Enforcement**
 
-Raven regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Raven’s treatment of personal information by contacting us through this web site or by writing to us at Privacy Matters, c/o Raven Internet Marketing Tools, 1414 17th Ave S, Nashville, TN 37212, USA. When we receive formal written complaints at this address, it is Raven’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Raven and an individual.
+Raven regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Raven’s treatment of personal information by contacting us through this web site or by writing to us at Privacy Matters, c/o Raven Internet Marketing Tools, 1101 McGavock St, Suite 201, Nashville, TN 37203, USA. When we receive formal written complaints at this address, it is Raven’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Raven and an individual.
 
 **Changes to this policy**
 
