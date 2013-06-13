@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the zoom.us privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230235017id_/http%3A//zoom.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoom.us privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613044642id_/http%3A//zoom.us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - zoom.us
+# Privacy Policy - Zoom
 
 Zoom Video Communications, Inc. ("Zoom") is committed to protecting your privacy and ensuring you have a positive experience on our website and in using our products and services (collectively "Products"). This policy covers the Zoom website and is applicable worldwide. This policy outlines our personal information handling practices for both online and offline data. If you give us personal information, we will treat it according to this policy. This policy may be updated from time to time and our website will indicate when the policy has been updated. You may access the current version at any time by clicking on the "Privacy" link at the footer on our website.
 
 Collection of your personal information
 
-Described below are situations in which personal information is collected and the purposes for which it is collected. "Personal Information" is any information that can be used to identify an individual, and may include, but is not limited to, name, email address, postal or other physical address, credit or debit card number, title, information generated from use of our Products, and other information required to provide a Product, deliver a product, or carry out a transaction you have requested. Some of the reasons we collect your Personal Information may include: 
+Described below are situations in which personal information is collected and the purposes for which it is collected. "Personal Information" is any information that can be used to identify an individual, and may include, but is not limited to, name, email address, postal or other physical address, credit or debit card number, title, information generated from use of our Products, and other information required to provide a Product, deliver a product, or carry out a transaction you have requested. Some of the reasons we collect your Personal Information may include:
 
   * account registration
   * use of certain Product features
@@ -15,7 +15,7 @@ Described below are situations in which personal information is collected and th
   * placing transactions or orders
   * registering to attend a seminar or webinar
   * participating in an online survey
-  * submitting an entry for a sweepstakes or other promotion
+  * submitting an entry for an opt-in sweepstakes or other promotion
   * billing and collecting payments for our Products
   * participating in discussion groups or forums
   * registering for membership programs or newsletter subscriptions
@@ -25,7 +25,7 @@ Described below are situations in which personal information is collected and th
 
 Uses of your Personal Information
 
-We will use your Personal Information only in accordance with our Privacy Policy. If you do not wish us to continue using your Personal Information in this manner, you may request that your account be deactivated as specified below. Some of the ways we may use your Personal Information include: 
+We will use your Personal Information only in accordance with our Privacy Policy. If you do not wish us to continue using your Personal Information in this manner, you may request that your account be deactivated as specified below. Some of the ways we may use your Personal Information include:
 
   * To process your orders and deliver the products and Products that you have ordered.
   * To provide reports based on information collected from use of our Products.
@@ -34,7 +34,7 @@ We will use your Personal Information only in accordance with our Privacy Policy
   * To provide the ability to create personal profile areas and view protected content.
   * To provide the ability to contact you, and provide you with shipping and billing information.
   * To provide customer feedback and support.
-  * To provide contests, sweepstakes or other marketing or promotional activities on the Zoom.us or affiliate websites. Personal Information may be collected to administer those programs.
+  * To provide opt-in contests, sweepstakes or other marketing or promotional activities on the Zoom.us or affiliate websites. Personal Information may be collected to administer those programs.
   * To conduct questionnaires and surveys in order to provide better products and services to our customers and end users. Your completion of any questionnaires is voluntary.
   * To support recruitment inquiries.
   * To understand more about you, so we can personalize newsletters and websites to your preferences. For example, allow you the opportunity to request specific information on products and services that may be of interest.
@@ -79,19 +79,17 @@ While navigating Zoom's web site or Products you may be directed to content or f
 
 We will ask for your consent before we use or share your information for any purpose other than the reason you provided it or as otherwise provided by this policy. In order to let us know your preferences, we will require an action on your part, such as checking the appropriate option, to indicate your consent. 
 
-Security of your Personal Information 
+Security of your Personal Information
 
-Zoom is committed to protecting the Personal Information you share with us. We utilize a combination of industry-standard security technologies, procedures, and organizational measures to help protect your Personal Information from unauthorized access, use or disclosure. 
+Zoom is committed to protecting the Personal Information you share with us. We utilize a combination of industry-standard security technologies, procedures, and organizational measures to help protect your Personal Information from unauthorized access, use or disclosure.
 
-When we transfer credit card information over the Internet, we protect it using Secure Sockets Layer (SSL) encryption technology. 
+When we transfer credit card information over the Internet, we protect it using Secure Sockets Layer (SSL) encryption technology.
 
-While we strive to protect your Personal Information, we cannot ensure the security of the information you transmit. 
+We recommend you to take every precaution in protecting your Personal Information when you are on the Internet. For example, change your passwords often, use a combination of letters and numbers when creating passwords, and make sure you use a secure browser.
 
-We recommend you to take every precaution in protecting your Personal Information when you are on the Internet. For example, change your passwords often, use a combination of letters and numbers when creating passwords, and make sure you use a secure browser. 
+Cookies
 
-Cookies 
-
-Like many websites, Zoom uses technologies, such as cookies and web beacons, which allow us to make your visit to our website easier, more efficient and more valuable by providing you with a customized experience and recognizing you when you return. 
+Like many websites, Zoom uses technologies, such as cookies and web beacons, which allow us to make your visit to our website easier, more efficient and more valuable by providing you with a customized experience and recognizing you when you return.
 
 A cookie cannot read personal data off your hard disk or read cookie files created by other sites; indeed, the only Personal Information a cookie can contain is information you supply yourself. Accepting the cookies used on our website may give us access to information about your browsing behavior, which we may use to personalize your experience and track user traffic patterns, and to merge this info when you register. We do this in order to determine the usefulness of our website information to our users and to see how effective our navigational structure is in helping users reach that information. You may browse most of Zoom's website without accepting cookies from Zoom; however, some website functionality may be lost by disabling cookies on your computer. Other Zoom web pages, particularly those which require a login and password, require cookies and cannot be used when you have disabled cookies in your browser.
 
@@ -109,7 +107,7 @@ If you participate in a Zoom discussion forum or chat room, you should be aware 
 
 Children's privacy
 
-Zoom does not knowingly collect Personal Information from children under the age of 13. If we learn that we have collected Personal Information on a child under the age of 13, we will delete that data from our systems. Zoom encourages parents and guardians to go online with their children. Here are a few tips to help make a child's online experience safer: 
+Zoom does not knowingly collect Personal Information from children under the age of 13. If we learn that we have collected Personal Information on a child under the age of 13, we will delete that data from our systems. Zoom encourages parents and guardians to go online with their children. Here are a few tips to help make a child's online experience safer:
 
   * Teach children never to give Personal Information (such as name, address, phone number, school, etc.) unless supervised by a parent or responsible adult.
   * Know the sites your children are visiting and which sites are appropriate.
