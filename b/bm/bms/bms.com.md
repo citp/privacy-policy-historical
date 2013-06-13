@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bms.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225221330id_/http%3A//www.bms.com/legal/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bms.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613133601id_/http%3A//www.bms.com/legal/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Bristol-Myers Squibb: Privacy Statement
 
 Privacy Policy
 
-Effective Date: October 13, 2011
+Effective Date: June 4, 2013
 
 **Purpose of the Privacy Statement**. Bristol-Myers Squibb respects the privacy of visitors to this Web site and understands that information about you, your health, and your health care is sensitive. Except as provided in the Transfer of Control section of this Web site's Internet Privacy Statement, Bristol-Myers Squibb will not sell or rent your personally identifiable information. Bristol-Myers Squibb developed this Internet Privacy Statement to provide information about our practices regarding the collection, use, and disclosure of information that you may provide when you visit this Web site. This privacy statement applies to this web site and other Bristol-Myers Squibb web sites providing resources such as consumer and health care professional product related information and services. 
 
@@ -56,4 +56,10 @@ From time to time we may obtain from 3rd party sources personally identifiable i
 
 **Policy on Use of Social Security Numbers**. Bristol-Myers Squibb has a policy which provides for the proper use and protection of Social Security numbers obtained in the course of doing business by Bristol-Myers Squibb. Such policy protects the confidentiality of Social Security numbers, prohibits unlawful disclosure of Social Security numbers, and limits access to Social Security numbers. This policy applies to all methods of collection of Social Security numbers, including Social Security numbers obtained by oral, written and electronic means. 
 
-**Questions**. If you have any questions about the Web site's Internet Privacy Statement or other aspects of privacy on our Web site, please contact us at (800)-332-2056.
+**Questions**. If you have any questions about the Web site's Internet Privacy Statement or other aspects of privacy on our Web site, please contact us at:
+
+Bristol-Myers Squibb  
+P.O. Box 640  
+Palatine, IL 60078-0640  
+800-332-2056  
+[e-mail ](mailto:bms@cambridge-partners.com)
