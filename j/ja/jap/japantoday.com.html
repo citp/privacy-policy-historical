@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the japantoday.com privacy policy that was archived on 2012-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121105204519id_/http%3A//www.japantoday.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the japantoday.com privacy policy that was archived on 2013-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130614010346id_/http%3A//www.japantoday.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="content-type" content="text/html;charset=UTF-8">
@@ -16,7 +16,7 @@
 <!--[if IE]> <link href="/css/ie.css" media="all" rel="stylesheet" type="text/css" ><![endif]-->
 <!--[if lt IE 8]> <link href="/css/ie7.css" media="all" rel="stylesheet" type="text/css" ><![endif]-->
 <!--[if lt IE 7]> <link href="/css/ie6.css" media="all" rel="stylesheet" type="text/css" ><![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <!--[if IE]> <script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 <script type="text/javascript" src="/js/main.js"></script>
 <script type="text/javascript" src="/js/jquery.colorbox.js"></script>
@@ -27,7 +27,6 @@
 _gaq.push(['_setAccount', 'UA-2119552-7']);
 _gaq.push(['_setDomainName', 'japantoday.com']);
 _gaq.push(['_trackPageview']);
-_gaq.push(['_trackPageLoadTime']);
 
 (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -35,19 +34,18 @@ _gaq.push(['_trackPageLoadTime']);
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
     //-->
-</script>
-<script type="text/javascript" src="/js/jquery.tweet.js"></script>
-<script type="text/javascript" src="/js/jt_twitter.js"></script></head>
+</script></head>
 <body id="top">
-<div id="fb-root"><script async="" type="text/javascript" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<div id="fb-root"></div>
 <script type="text/javascript">
 window.fbAsyncInit = function() {
     FB.init({
-            appId  : '205769802778296',
-            status : true,
-            cookie : true,
-            xfbml  : true,
-            oauth  : true
+            appId      : '205769802778296',
+            channelUrl : '//www.japantoday.com/channel.html',
+            status     : true,
+            cookie     : true,
+            xfbml      : true,
+            oauth      : true
     });
 
     FB.Event.subscribe('auth.login', function() {
@@ -55,14 +53,17 @@ window.fbAsyncInit = function() {
     });
 };
 
-// Load the SDK Asynchronously
-(function() {
-        var e = document.createElement('script');
-        e.async = true;
-        e.type = 'text/javascript';
-        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-        document.getElementById('fb-root').appendChild(e);
-}());
+// Load the SDK's source Asynchronously
+// Note that the debug version is being actively developed and might
+// contain some type checks that are overly strict.
+// Please report such bugs using the bugs tool.
+(function(d, debug){
+    var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement('script'); js.id = id; js.async = true;
+    js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+    ref.parentNode.insertBefore(js, ref);
+}(document, /*debug*/ false));
 </script>
 <div class="header_notification">
 <script type="text/javascript">
@@ -79,43 +80,47 @@ window.fbAsyncInit = function() {
   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
   document.write ("'><\/scr"+"ipt>");
 //]]>-->
-</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=373&amp;block=1&amp;cb=36492470526&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121105204519id_/http%253A//www.japantoday.com/privacy"></script>
+</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=373&amp;block=1&amp;cb=54184881979&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130614010346id_/http%253A//www.japantoday.com/privacy"></script>
 </div>
-
 <div class="jcontent">
+<div class="leaderboard_banner banner-top"><script type="text/javascript">
+<!--//<![CDATA[
+  var m3_u = (location.protocol=='https:'?'https://ads.gplusmedia.com/delivery/ajs.php':'http://ads.gplusmedia.com/delivery/ajs.php');
+  var m3_r = Math.floor(Math.random()*99999999999);
+  if (!document.MAX_used) document.MAX_used = ',';  document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+  document.write ("?zoneid=728&amp;block=1");
+  document.write ('&amp;cb=' + m3_r);
+  document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+  document.write ("&amp;loc=" + escape(window.location));
+  if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+  if (document.context) document.write ("&amp;context=" + escape(document.context));
+  if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+  document.write ("'><\/scr"+"ipt>");
+//]]>-->
+</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=728&amp;block=1&amp;cb=76895974878&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130614010346id_/http%253A//www.japantoday.com/privacy"></script>
+</div>
+<div id="header" class="position-relative">
+<div id="related-menu">
 <div id="top_info">
-<span class="todate">Tuesday November 6, 2012</span>
-<ul id="top_global_link"><li><a href="https://jobs.gaijinpot.com">Jobs</a></li>
-<li><a href="http://www.realestate.co.jp">Real Estate</a></li>
-<li><a href="http://classifieds.gaijinpot.com">Classifieds</a></li>
-<li><a href="http://friends.japantoday.com/">Friends</a></li>
-<li><a href="http://forum.japantoday.com/">Forum</a></li></ul>
+<ul id="top_global_link">
+<li><a class="index" href="/">News</a></li>
+<li><a href="https://japan.careerengine.org/japantoday/?utm_source=japantoday_home&amp;utm_medium=sectionlink&amp;utm_campaign=jt_section">Jobs</a></li>
+<li><a href="http://www.realestate.co.jp/?utm_source=japantoday_home&amp;utm_medium=sectionlink&amp;utm_campaign=jt_section">Real Estate</a></li>
+<li><a href="http://friends.japantoday.com/?utm_source=japantoday_home&amp;utm_medium=sectionlink&amp;utm_campaign=jt_section">Friends</a></li>
+<li><a href="http://insight.japantoday.com/?utm_source=japantoday_home&amp;utm_medium=sectionlink&amp;utm_campaign=jt_section">INSiGHT</a></li>
+</ul>
 <div id="top_tools">
-<div id="top_newsletter"><a href="/newsletter">Sign up for News Alerts</a></div>
-<div id="top_login"><a class="link_button" href="/login">Register/Login<span class="icon"></span></a></div>
+<div id="top_newsletter"><a href="/newsletter"><span class="icon"></span>Newsletter Signup</a></div>
+<div id="top_login"><a class="link_button" href="/login"><span class="icon"></span>Register/Login</a></div>
 </div>
 </div><!-- END top_info -->
-<div id="top_form_outer">
 <div id="top_form" style="display:none;">
-<div id="newsletter_register" style="display:none;">
-<div class="newsletter_message">
-<h3>JapanToday NEWS ALERT</h3>
-<p>Stay in touch with the latest and widest range of Japan News with JapanToday's News Alert newsletter. </p>
-<p>Up to the moment news in your inbox everyday. Subscribe now!</p>
-</div>
-<div class="divider"></div>
-<div class="column2">
-<p class="register"><a id="register_to_subscribe" href="/register">NEW USER REGISTRATION</a></p>
-<p class="member_register">Already a JapanToday registered user?<br>
-Login to <a href="/login">update your settings</a> to subscribe to News Alert.</p>
-</div>
-</div><!-- END newslwtter_register -->
 <div class="top_form_inner" style="display:none;">
 <p id="switch"><a class="active" id="login" href="/login">LOGIN</a><span class="divider">/</span><a id="register" href="/register">REGISTER</a></p>
 <div id="facebook_login">
 <h3>Facebook users</h3>
 <p>Use your Facebook account to login or register with JapanToday.</p>
-<div class="facebook_connect"><a class="facebook_connect_login_button" href="https://www.facebook.com/dialog/oauth?client_id=205769802778296&amp;redirect_uri=http%3A%2F%2Fwww.japantoday.com%2Fprivacy&amp;state=d74aacafba882690c3a86a5adb9cf672&amp;scope=user_birthday%2Cemail"><span class="facebook_connect_login_button_text">Facebook connect</span></a></div>
+<div class="facebook_connect"><a class="facebook_connect_login_button" href="https://www.facebook.com/dialog/oauth?client_id=205769802778296&amp;redirect_uri=http%3A%2F%2Fwww.japantoday.com%2Fprivacy&amp;state=9a17568ec1ee1e5527e83f70d3d52c34&amp;scope=user_birthday%2Cemail"><span class="facebook_connect_login_button_text">Facebook connect</span></a></div>
 </div><!-- END facebook_login -->
 <div class="divider"><span>OR</span></div>
 <div id="jt_action">
@@ -125,8 +130,8 @@ Login to <a href="/login">update your settings</a> to subscribe to News Alert.</
 <form method="post" action="https://www.japantoday.com/login/submit">
 <p class="input"><input type="text" name="email" placeholder="Email" value="" required="required"></p>
 <p class="input"><input type="password" name="password" placeholder="Password" value="" required="required"></p>
-<p class="rememberme"><span><input type="hidden" name="remember_me" value="0"><input type="checkbox" name="remember_me" id="main_remember_me" value="1"><label for="main_remember_me">Remember Me</label></span>
-<a id="forgotpass" href="/login/reset_password">Forgot Password?</a></p>
+<p class="rememberme"><span><input type="hidden" name="remember_me" value="0"><input type="checkbox" name="remember_me" id="slide_main_remember_me" value="1"><label for="slide_main_remember_me">Remember Me</label></span>
+<a id="slide_forgotpass" href="/login/reset_password">Forgot Password?</a></p>
 <p class="submit"><input type="submit" value="LOGIN"></p>
 </form>
 </div><!-- END column1 -->
@@ -155,46 +160,23 @@ Login to <a href="/login">update your settings</a> to subscribe to News Alert.</
 <div class="cell"><p class="input"><input type="password" name="password1" maxlength="64" placeholder="Password" required="required"></p></div>
 <div class="cell"><p class="input"><input type="password" name="password2" maxlength="64" placeholder="Confirm Password" required="required"></p></div>
 </div>
-<p class="checkbox"><input id="newsalert" type="checkbox" name="newsletter" value="1"><label for="newsalert">Yes, I would like to receive news alerts from JapanToday</label></p>
-<p class="checkbox"><input id="agreement_yes" type="checkbox" name="agreement" value="1"><label for="agreement_yes">I agree to the <a href="/terms">Terms of Service</a> and <a href="/privacy">Privacy Policy</a></label></p>
+<p class="checkbox"><input id="slide_newsalert" type="checkbox" name="newsletter" value="1"><label for="slide_newsalert">Yes, I would like to receive news alerts from JapanToday</label></p>
+<p class="checkbox"><input id="slide_agreement_yes" type="checkbox" name="agreement" value="1"><label for="slide_agreement_yes">I agree to the <a href="/terms">Terms of Service</a> and <a href="/privacy">Privacy Policy</a></label></p>
 <p class="submit"><input type="submit" value="REGISTER"></p>
 </form>
 </div><!-- END jt_register -->
 </div><!-- END jt_action -->
 </div><!-- END top_form_inner -->
 </div><!-- END top_form -->
-</div><!-- END top_form_outer -->
-<div id="logo_area_outer">
-<div id="logo_area">
-<div id="logo">
-<p><a href="/" title="JapanToday - Home">JapanToday</a></p>
-<h1>JAPAN NEWS AND DISCUSSION</h1></div>
-<div class="leaderboard_banner"><script type="text/javascript">
-<!--//<![CDATA[
-  var m3_u = (location.protocol=='https:'?'https://ads.gplusmedia.com/delivery/ajs.php':'http://ads.gplusmedia.com/delivery/ajs.php');
-  var m3_r = Math.floor(Math.random()*99999999999);
-  if (!document.MAX_used) document.MAX_used = ',';  document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-  document.write ("?zoneid=730&amp;block=1");
-  document.write ('&amp;cb=' + m3_r);
-  document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-  document.write ("&amp;loc=" + escape(window.location));
-  if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-  if (document.context) document.write ("&amp;context=" + escape(document.context));
-  if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-  document.write ("'><\/scr"+"ipt>");
-//]]>-->
-</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=730&amp;block=1&amp;cb=89728417791&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121105204519id_/http%253A//www.japantoday.com/privacy"></script>
 </div>
-</div>
-</div><!-- END logo_area_outer -->
 <header>
 <div id="header_inner">
 <div id="header_menu">
 <nav>
     <div id="main_nav">
+    <h1 id="logo"><a href="/" title="JapanToday - Home">JapanToday</a></h1>
     <ul class="main_nav_list">
-    <li><a href="/" title="JapanToday - Home">Home</a></li>
-        <li><a href="/category/national" title="Japanese National News">National</a></li>
+            <li><a href="/category/national" title="Japanese National News">National</a></li>
     <li><a href="/category/crime" title="Japanese Crime News">Crime</a></li>
     <li><a href="/category/entertainment" title="Japanese Entertainment News">Entertainment</a></li>
     <li><a href="/category/politics" title="Japanese Politics News">Politics</a></li>
@@ -202,12 +184,15 @@ Login to <a href="/login">update your settings</a> to subscribe to News Alert.</
     <li><a href="/category/technology" title="Japanese Technology News">Tech</a></li>
     <li><a href="/category/sports" title="Japanese Sports News">Sports</a></li>
             <li><a href="/category/world" title="World News">World</a></li>
-        <li id="features"><a href="/category/features" title="JapanToday Features"><span>Features</span></a></li>
-        <li class="insight"><a href="http://insight.japantoday.com/?utm_source=japantoday_home&amp;utm_medium=menulink&amp;utm_campaign=insight" title="Insight">Insight</a></li>
-</ul>
+        <li id="features"><a href="/category/features" title="Japan Today Features"><span>Features<em class="icon"></em></span></a></li>
+    <li><a href="/category/careers" title="Japan Today Careers"><span>Careers</span></a></li>
+    </ul>
+<a href="/search" id="search-icon">search</a>
+</div>
+<div id="search_form_container">
 <div id="search_form">
     <form method="get" action="/search">
-    <input type="text" name="q" value="" placeholder="Search" required="required">
+    <input type="text" name="q" value="" placeholder="Search">
     <input type="submit" value="Search" id="search">
     </form>
 </div>
@@ -223,15 +208,17 @@ Login to <a href="/login">update your settings</a> to subscribe to News Alert.</
 <li><a href="/category/food" title="Food">FOOD</a></li>
 <li><a href="/category/travel" title="Travel">TRAVEL</a></li>
 <li><a href="/category/executive-impact" title="Executive impact">EXECUTIVE IMPACT</a></li>
-<li><a href="/category/commentary" title="Commentary">COMMENTARY</a></li>
 <li><a href="/category/opinions" title="Opinions">OPINIONS</a></li>
-<li><a href="/category/jpod" title="JPod">JPOD</a></li>
+<li><div class="arrow-up"></div><a href="/category/jpod" title="JPod">JPOD</a></li>
+<li><a href="/category/events" title="Events">EVENTS</a></li>
 </ul>
 </div>
 </nav>
 </div><!-- END header_menu -->
 </div><!-- END header_inner -->
 </header>
+</div>
+<div id="temp-header"></div>
 <div id="whole_container">
 	<div id="contents_container" class="static">
 <section id="main_content_container">
@@ -316,15 +303,8 @@ Please do not hesitate to contact us at support@japantoday.com if you have any q
   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
   document.write ("'><\/scr"+"ipt>");
 //]]>-->
-</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=726&amp;block=1&amp;cb=8256829643&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121105204519id_/http%253A//www.japantoday.com/privacy"></script>
+</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=726&amp;block=1&amp;cb=87342521704&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130614010346id_/http%253A//www.japantoday.com/privacy"></script>
 </div>
-
-<div id="followus">
-<h3>Follow us</h3>
-<div class="followus_fb"><a href="http://www.facebook.com/JapanToday" alt="JapanToday Facebook">Facebook</a></div>
-<div class="followus_tw"><a href="http://twitter.com/JapanToday" title="JapanToday twitter">Twitter</a></div>
-</div>
-
 
 <!-- popular post / recent comment -->
 <div class="tabbed_widget" id="ua_widget">
@@ -336,182 +316,215 @@ Please do not hesitate to contact us at support@japantoday.com if you have any q
 <ul id="list_widget_popular">
 <li>
 <span class="num">1</span>
-<h3 class="article_title_widget"><a href="/category/crime/view/police-probe-u-s-serviceman-assault-claims-in-okinawa" class="post_title" title="Police probe claim U.S. serviceman punched 13-yr-old boy in Okinawan home">Police probe claim U.S. serviceman punched 13-yr-old boy in Okinawan home</a></h3>
-<p class="article_comment"><a href="/category/crime/view/police-probe-u-s-serviceman-assault-claims-in-okinawa#comments" class="comment">168</a></p></li><li>
+<h3 class="article_title_widget"><a href="/category/food/view/ever-wondered-what-japanese-prison-food-tastes-like" class="post_title" title="Ever wondered what Japanese prison food tastes like?  ">Ever wondered what Japanese prison food tastes like?  </a></h3>
+<p class="article_comment"><a href="/category/food/view/ever-wondered-what-japanese-prison-food-tastes-like#comments" class="comment">28</a></p></li><li>
 <span class="num">2</span>
-<h3 class="article_title_widget"><a href="/category/world/view/obama-romney-look-for-edge-as-campaign-nears-end" class="post_title" title="Obama, Romney look for edge as campaign nears end    ">Obama, Romney look for edge as campaign nears end    </a></h3>
-<p class="article_comment"><a href="/category/world/view/obama-romney-look-for-edge-as-campaign-nears-end#comments" class="comment">129</a></p></li><li>
+<h3 class="article_title_widget"><a href="/category/politics/view/fukushima-aid-official-under-fire-for-twitter-tirade" class="post_title" title="Fukushima aid official under fire for Twitter tirade  ">Fukushima aid official under fire for Twitter tirade  </a></h3>
+<p class="article_comment"><a href="/category/politics/view/fukushima-aid-official-under-fire-for-twitter-tirade#comments" class="comment">20</a></p></li><li>
 <span class="num">3</span>
-<h3 class="article_title_widget"><a href="/category/world/view/hurricane-sandy-crashes-into-u-s-east-coast" class="post_title" title="Sandy engulfs U.S. East Coast, flooding New York; 13 dead">Sandy engulfs U.S. East Coast, flooding New York; 13 dead</a></h3>
-<p class="article_comment"><a href="/category/world/view/hurricane-sandy-crashes-into-u-s-east-coast#comments" class="comment">105</a></p></li><li>
+<h3 class="article_title_widget"><a href="/category/entertainment/view/wada-says-mari-yaguchi-should-apologize-over-illicit-affair" class="post_title" title="Wada says Mari Yaguchi should apologize over illicit affair">Wada says Mari Yaguchi should apologize over illicit affair</a></h3>
+<p class="article_comment"><a href="/category/entertainment/view/wada-says-mari-yaguchi-should-apologize-over-illicit-affair#comments" class="comment">14</a></p></li><li>
 <span class="num">4</span>
-<h3 class="article_title_widget"><a href="/category/crime/view/u-s-envoy-goes-into-damage-control-mode-over-latest-okinawa-incident" class="post_title" title="U.S. envoy goes into damage control mode over latest Okinawa incident">U.S. envoy goes into damage control mode over latest Okinawa incident</a></h3>
-<p class="article_comment"><a href="/category/crime/view/u-s-envoy-goes-into-damage-control-mode-over-latest-okinawa-incident#comments" class="comment">104</a></p></li><li>
+<h3 class="article_title_widget"><a href="/category/kuchikomi/view/nhk-may-charges-viewer-fees-for-internet-smartphone-users" class="post_title" title="NHK may charge viewer fees for Internet, smartphone usage">NHK may charge viewer fees for Internet, smartphone usage</a></h3>
+<p class="article_comment"><a href="/category/kuchikomi/view/nhk-may-charges-viewer-fees-for-internet-smartphone-users#comments" class="comment">9</a></p></li><li>
 <span class="num">5</span>
-<h3 class="article_title_widget"><a href="/category/world/view/obama-evades-jobs-data-time-bomb" class="post_title" title="Obama evades jobs data time bomb ">Obama evades jobs data time bomb </a></h3>
-<p class="article_comment"><a href="/category/world/view/obama-evades-jobs-data-time-bomb#comments" class="comment">98</a></p></li></ul>
+<h3 class="article_title_widget"><a href="/category/kuchikomi/view/middle-aged-males-suffering-from-epidemic-of-wife-induced-disease" class="post_title" title="Middle-aged males suffering from epidemic of wife-induced disease">Middle-aged males suffering from epidemic of wife-induced disease</a></h3>
+<p class="article_comment"><a href="/category/kuchikomi/view/middle-aged-males-suffering-from-epidemic-of-wife-induced-disease#comments" class="comment">133</a></p></li></ul>
 <p id="link_widget_popular" class="ua_widget_more article_tools more_button"><a href="/popular">View all</a></p>
 <ul style="display:none" id="list_widget_comments">
 <li>
-<p class="avatar"><img src="http://www.gravatar.com/avatar.php?gravatar_id=0e355207959823aec636ae53c9aec559&amp;rating=PG&amp;size=50&amp;default=identicon" width="20" height="20"></p>
-<p class="comment_username"><a href="/member/view/NeverSubmit">NeverSubmit</a></p>
-<p class="comment_time"><time datetime="2012-11-06T05:43:05+09:00">Nov. 06, 2012 - 05:43AM JST</time></p>
-<p class="comment_text">
-  Claiming the Americans are allied with 'Qaida is up there with the nonsense
-
-
-Like it or…</p>
-<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/world/view/divisions-emerge-at-syria-opposition-conference#comment_1441219" title="Divisions emerge at Syria opposition conference    ">Divisions emerge at Syria opposition conference    </a></p>
+<p class="avatar"><img src="http://www.gravatar.com/avatar/7d3aa833330a6fa45bc4b8716291b4d0?rating=PG&amp;size=50&amp;default=identicon" width="20" height="20"></p>
+<p class="comment_username"><a href="/member/view/taj">taj</a></p>
+<p class="comment_time"><time datetime="2013-06-14T10:02:28+09:00">Jun. 14, 2013 - 10:02AM JST</time></p>
+<p class="comment_text">Has it been confirmed that it was him? (Not someone who guessed his password and wanted…</p>
+<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/politics/view/fukushima-aid-official-under-fire-for-twitter-tirade#comment_1585338" title="Fukushima aid official under fire for Twitter tirade  ">Fukushima aid official under fire for Twitter tirade  </a></p>
 </li>
 
 <li>
-<p class="avatar"><img src="http://www.gravatar.com/avatar.php?gravatar_id=055b0ed6149207afe452d1c8fd6e4fe8&amp;rating=PG&amp;size=50&amp;default=identicon" width="20" height="20"></p>
-<p class="comment_username"><a href="/member/view/motytrah">motytrah</a></p>
-<p class="comment_time"><time datetime="2012-11-06T05:36:59+09:00">Nov. 06, 2012 - 05:36AM JST</time></p>
-<p class="comment_text">Japan's problem is the value of the YEN.  South Korea is cleaning their clock because of…</p>
-<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/commentary/view/japans-electronics-sector-in-race-against-time#comment_1441218" title="Japan's electronics sector in race against time">Japan's electronics sector in race against time</a></p>
+<p class="avatar"><img src="http://www.gravatar.com/avatar/a2a5156d092240d2fc826ad5ec935137?rating=PG&amp;size=50&amp;default=identicon" width="20" height="20"></p>
+<p class="comment_username"><a href="/member/view/GG2141">GG2141</a></p>
+<p class="comment_time"><time datetime="2013-06-14T10:01:57+09:00">Jun. 14, 2013 - 10:01AM JST</time></p>
+<p class="comment_text">'gaff' = accidentally speaking the truth.
+
+Some groups are making some crazy demands regarding clean up.…</p>
+<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/politics/view/fukushima-aid-official-under-fire-for-twitter-tirade#comment_1585337" title="Fukushima aid official under fire for Twitter tirade  ">Fukushima aid official under fire for Twitter tirade  </a></p>
 </li>
 
 <li>
-<p class="avatar"><img src="http://www.gravatar.com/avatar.php?gravatar_id=010150e5f7cdc124ce8a8aaeefbf4bad&amp;rating=PG&amp;size=50&amp;default=identicon" width="20" height="20"></p>
-<p class="comment_username"><a href="/member/view/zichi">zichi</a></p>
-<p class="comment_time"><time datetime="2012-11-06T05:32:47+09:00">Nov. 06, 2012 - 05:32AM JST</time></p>
-<p class="comment_text">Ships have used renewable energy for hundreds of years.</p>
-<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/business/view/japan-mulls-gas-pipeline-from-russian-far-east-to-hub-near-tokyo#comment_1441217" title="Japan mulls gas pipeline from Russian far east to hub near Tokyo">Japan mulls gas pipeline from Russian far east to hub near Tokyo</a></p>
+<p class="avatar"><img src="http://www.gravatar.com/avatar/43479bb6317d3153d0084f93eef37e50?rating=PG&amp;size=50&amp;default=identicon" width="20" height="20"></p>
+<p class="comment_username"><a href="/member/view/jonobugs">jonobugs</a></p>
+<p class="comment_time"><time datetime="2013-06-14T10:00:20+09:00">Jun. 14, 2013 - 10:00AM JST</time></p>
+<p class="comment_text">You have to wonder why this is in the news here. EVERY other country is showing…</p>
+<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/arts-culture/view/britains-henry-cavill-dons-supermans-cape-in-man-of-steel#comment_1585336" title="Britain's Henry Cavill dons Superman's cape in 'Man of Steel'">Britain's Henry Cavill dons Superman's cape in 'Man of Steel'</a></p>
 </li>
 
 <li>
-<p class="avatar"><img src="http://www.gravatar.com/avatar.php?gravatar_id=2946583cc6521824ad4b6e6b34d0ca11&amp;rating=PG&amp;size=50&amp;default=identicon" width="20" height="20"></p>
-<p class="comment_username"><a href="/member/view/yabits">yabits</a></p>
-<p class="comment_time"><time datetime="2012-11-06T05:31:27+09:00">Nov. 06, 2012 - 05:31AM JST</time></p>
-<p class="comment_text">
-  These election boards are all local and run by democrats.
-
-
-Really? Miami-Dade County -- one of…</p>
-<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/world/view/early-u-s-voting-leads-to-lines-lawsuit-in-florida#comment_1441216" title="Early U.S. voting leads to lines, lawsuit in Florida ">Early U.S. voting leads to lines, lawsuit in Florida </a></p>
+<p class="avatar"><img src="http://www.gravatar.com/avatar/dd4fbd3c58b974307ce905434eb5a3e4?rating=PG&amp;size=50&amp;default=identicon" width="20" height="20"></p>
+<p class="comment_username"><a href="/member/view/bilderberg_2015">bilderberg_2015</a></p>
+<p class="comment_time"><time datetime="2013-06-14T10:00:14+09:00">Jun. 14, 2013 - 10:00AM JST</time></p>
+<p class="comment_text">Hundreds of hostess girls/snack girls/prostitutes will be pretty happy about this, I'm sure.</p>
+<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/national/view/24-hour-bus-service-to-begin-in-tokyo-in-december#comment_1585335" title="24-hour bus service to begin in Tokyo in December">24-hour bus service to begin in Tokyo in December</a></p>
 </li>
 
 <li>
-<p class="avatar"><img src="http://www.gravatar.com/avatar.php?gravatar_id=238197dc1fa5f35b82a64c5a241f7e8d&amp;rating=PG&amp;size=50&amp;default=identicon" width="20" height="20"></p>
-<p class="comment_username"><a href="/member/view/issa1">issa1</a></p>
-<p class="comment_time"><time datetime="2012-11-06T05:30:40+09:00">Nov. 06, 2012 - 05:30AM JST</time></p>
-<p class="comment_text">The recipe is very simple;
-
-1- Wait your competitor to develop a new technology or solution.…</p>
-<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/technology/view/samsung-sells-30-mil-galaxy-s-iii-smartphones-worldwide-2#comment_1441215" title="Samsung sells 30 mil Galaxy S III smartphones worldwide">Samsung sells 30 mil Galaxy S III smartphones worldwide</a></p>
+<p class="avatar"><img src="http://www.gravatar.com/avatar/d0ec2dc41b0193d93b12abd2c1fc506a?rating=PG&amp;size=50&amp;default=identicon" width="20" height="20"></p>
+<p class="comment_username"><a href="/member/view/japal4649">japal4649</a></p>
+<p class="comment_time"><time datetime="2013-06-14T09:59:56+09:00">Jun. 14, 2013 - 09:59AM JST</time></p>
+<p class="comment_text">Strange. It's more fun to stumble drunk down to Shibuya from Roppongi in the early hours…</p>
+<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/national/view/24-hour-bus-service-to-begin-in-tokyo-in-december#comment_1585334" title="24-hour bus service to begin in Tokyo in December">24-hour bus service to begin in Tokyo in December</a></p>
 </li>
 
 </ul>
 <p style="display:none" id="link_widget_comments" class="ua_widget_more article_tools more_button"><a href="/recent_comments">View all</a></p>
 </div>
 </div>
-<!-- END popular post / recent comment --><!-- global link -->
-<div class="tabbed_widget" id="global_widget">
+<!-- END popular post / recent comment -->
+    <div id="insight-widget">
+        <ul class="menu">
+        <li class="site-link"><a href="http://insight.japantoday.com/">Insight</a></li>
+        <li class="active tab latest"><a href="#"><span class="icon blog"></span>Latest</a></li> 
+        <li class="tab last special-offer"><a href="#"><span class="icon offer"></span>Special Offers</a></li>
+        </ul>
+        <div class="global_widget_list">
+        <ul id="blogs-list" class="active widget-list">
+        <li class="blog-item widget-item ">
+<a class="item-link" href="http://insight.japantoday.com/about-holistic-sanctuary/?utm_source=japantoday&amp;utm_medium=widget&amp;utm_campaign=blog" title="About Holistic Sanctuary">
+<img src="http://insight.japantoday.com/wp-content/uploads/2013/06/hs2-150x150.jpg" title="About Holistic Sanctuary" alt="About Holistic Sanctuary" class="border-img">
+<span class="second-text">Health &amp; Beauty</span>
+<h2 class="main-text">About Holistic Sanctuary</h2>
+<span class="company">Holistic Sanctuary</span>
+</a>
+</li>
+            <li class="blog-item widget-item ">
+<a class="item-link" href="http://insight.japantoday.com/tokyo-bees-and-o-g-a-for-aid-fundraiser/?utm_source=japantoday&amp;utm_medium=widget&amp;utm_campaign=blog" title="Tokyo Bees and O.G.A. for AID Fundraiser">
+<img src="http://insight.japantoday.com/wp-content/uploads/2013/06/296122_517635968286263_820743396_n-150x150.jpg" title="Tokyo Bees and O.G.A. for AID Fundraiser" alt="Tokyo Bees and O.G.A. for AID Fundraiser" class="border-img">
+<span class="second-text">NPO / Charity</span>
+<h2 class="main-text">Tokyo Bees and O.G.A. for AID Fundraiser</h2>
+<span class="company">O.G.A. FOR AID</span>
+</a>
+</li>
+            <li class="blog-item widget-item ">
+<a class="item-link" href="http://insight.japantoday.com/whats-happening-in-june/?utm_source=japantoday&amp;utm_medium=widget&amp;utm_campaign=blog" title="Whats happening in June">
+<img src="http://insight.japantoday.com/wp-content/uploads/2013/06/roti.terrace1-150x150.jpg" title="Whats happening in June" alt="Whats happening in June" class="border-img">
+<span class="second-text">Dining</span>
+<h2 class="main-text">Whats happening in June</h2>
+<span class="company">Roti Roppongi</span>
+</a>
+</li>
+            <li class="blog-item widget-item ">
+<a class="item-link" href="http://insight.japantoday.com/the-6-month-to-get-fit-challenge/?utm_source=japantoday&amp;utm_medium=widget&amp;utm_campaign=blog" title="The 6 month to get fit challenge">
+<img src="http://insight.japantoday.com/wp-content/uploads/2013/06/adam1-150x150.jpg" title="The 6 month to get fit challenge" alt="The 6 month to get fit challenge" class="border-img">
+<span class="second-text">Sports</span>
+<h2 class="main-text">The 6 month to get fit challenge</h2>
+<span class="company">CrossFit Daikanyama</span>
+</a>
+</li>
+            <li class="blog-item widget-item last">
+<a class="item-link" href="http://insight.japantoday.com/hills-spa-sengokuyama-part-2/?utm_source=japantoday&amp;utm_medium=widget&amp;utm_campaign=blog" title="HILLS SPA SENGOKUYAMA PART 2">
+<img src="http://insight.japantoday.com/wp-content/uploads/2013/05/mori12-150x150.jpg" title="HILLS SPA SENGOKUYAMA PART 2" alt="HILLS SPA SENGOKUYAMA PART 2" class="border-img">
+<span class="second-text">Luxury living</span>
+<h2 class="main-text">HILLS SPA SENGOKUYAMA PART 2</h2>
+<span class="company">MORI LIVING</span>
+</a>
+</li>
+                    </ul>
+        <ul id="offers-list" class="widget-list">
+        <li class="offer-item widget-item ">
+<a class="item-link offer-click" name="Roti Roppongi" href="http://insight.japantoday.com/sunday-steak-night/?utm_source=japantoday&amp;utm_medium=widget&amp;utm_campaign=offer_Roti+Roppongi+-+Sunday+Steak+Night+-25%25+off" title="Sunday Steak Night -25% off">
+<img src="http://insight.japantoday.com/wp-content/uploads/2013/05/steaknight-12-150x150.jpg" title="Sunday Steak Night -25% off" alt="Sunday Steak Night -25% off" class="border-img">
+<h2 class="main-text">Sunday Steak Night -25% off</h2>
+<span class="company">Roti Roppongi</span>
+<span class="second-text">Offer ends: n/a</span>
+</a>
+</li>
+            <li class="offer-item widget-item ">
+<a class="item-link offer-click" name="Roti Roppongi" href="http://insight.japantoday.com/happy-mondays-at-roti-special-offer-for-insight-readers/?utm_source=japantoday&amp;utm_medium=widget&amp;utm_campaign=offer_Roti+Roppongi+-+Happy+Mondays+at+Roti%21+Special+offer+for+Insight+readers" title="Happy Mondays at Roti! Special offer for Insight readers">
+<img src="http://insight.japantoday.com/wp-content/uploads/2013/05/ROTI.SPECIAL-150x150.jpg" title="Happy Mondays at Roti! Special offer for Insight readers" alt="Happy Mondays at Roti! Special offer for Insight readers" class="border-img">
+<h2 class="main-text">Happy Mondays at Roti! Special offer for Insight readers</h2>
+<span class="company">Roti Roppongi</span>
+<span class="second-text">Offer ends: n/a</span>
+</a>
+</li>
+            <li class="offer-item widget-item ">
+<a class="item-link offer-click" name="CrossFit Daikanyama" href="http://insight.japantoday.com/crossfit-50-off-first-month-hurry/?utm_source=japantoday&amp;utm_medium=widget&amp;utm_campaign=offer_CrossFit+Daikanyama+-+CrossFit+50%25+OFF+First+Month%21+Hurry%21" title="CrossFit 50% OFF First Month! Hurry!">
+<img src="http://insight.japantoday.com/wp-content/uploads/2013/05/insight427x335-150x150.jpg" title="CrossFit 50% OFF First Month! Hurry!" alt="CrossFit 50% OFF First Month! Hurry!" class="border-img">
+<h2 class="main-text">CrossFit 50% OFF First Month! Hurry!</h2>
+<span class="company">CrossFit Daikanyama</span>
+<span class="second-text">Offer ends: n/a</span>
+</a>
+</li>
+            <li class="offer-item widget-item ">
+<a class="item-link offer-click" name="Suji's" href="http://insight.japantoday.com/insight-reader-discount/?utm_source=japantoday&amp;utm_medium=widget&amp;utm_campaign=offer_Suji%27s+-+Get+10%25+off+your+bill+by+mentioning+Japan+Today+at+Suji%27s%21" title="Get 10% off your bill by mentioning Japan Today at Suji's!">
+<img src="http://insight.japantoday.com/wp-content/uploads/2013/03/sujis.2-150x150.jpg" title="Get 10% off your bill by mentioning Japan Today at Suji's!" alt="Get 10% off your bill by mentioning Japan Today at Suji's!" class="border-img">
+<h2 class="main-text">Get 10% off your bill by mentioning Japan Today at Suji's!</h2>
+<span class="company">Suji's</span>
+<span class="second-text">Offer ends: n/a</span>
+</a>
+</li>
+            <li class="offer-item widget-item last">
+<a class="item-link offer-click" name="ANA InterContinental Tokyo" href="http://insight.japantoday.com/mixx-bar-lounge-free-flow-36-all-you-can-drink-with-mediterranean-tapas-set/?utm_source=japantoday&amp;utm_medium=widget&amp;utm_campaign=offer_ANA+InterContinental+Tokyo+-+MIXX+Bar+%26+Lounge+Free+Flow+36+-+all+you+can+drink+with+Mediterranean+tapas+set" title="MIXX Bar &amp; Lounge Free Flow 36 - all you can drink with Mediterranean tapas set">
+<img src="http://insight.japantoday.com/wp-content/uploads/2013/04/mixx.post1_-150x150.jpg" title="MIXX Bar &amp; Lounge Free Flow 36 - all you can drink with Mediterranean tapas set" alt="MIXX Bar &amp; Lounge Free Flow 36 - all you can drink with Mediterranean tapas set" class="border-img">
+<h2 class="main-text">MIXX Bar &amp; Lounge Free Flow 36 - all you can drink with Mediterranean tapas set</h2>
+<span class="company">ANA InterContinental Tokyo</span>
+<span class="second-text">Offer ends: n/a</span>
+</a>
+</li>
+                    </ul>
+        </div>
+    </div>
+
+<div class="careerjt_widget" id="global_widget">
 <ul class="menu">
-<li class="active"><a href="#jobs" id="widget_jobs">Jobs</a></li>
-<li><a href="#apartments" id="widget_apartments">Apartments</a></li>
-<li><a href="#classifieds" id="widget_classifieds">Classifieds</a></li>
-<li><a href="#friends" id="widget_friends">Friends</a></li>
+<li class="active"><a href="https://japan.careerengine.org/japantoday?utm_source=japantoday_widget&amp;utm_medium=link&amp;utm_campaign=signups" id="jt_careers_home">Careers</a></li>
+<li><a href="https://japan.careerengine.org/japantoday/resume/index/pane/register?utm_source=japantoday_widget&amp;utm_medium=link&amp;utm_campaign=find_a_job" id="jt_careers_register"><span class="icon"></span>Register</a></li>
+<li><a href="https://japan.careerengine.org/japantoday/job/index?utm_source=japantoday_widget&amp;utm_medium=link&amp;utm_campaign=browse_jobs" id="jt_careers_more_jobs"><span class="icon"></span>More Jobs</a></li>
 </ul>
 <div class="global_widget_list">
-<!-- Jobs -->
 <ul id="list_widget_jobs">
-<li class="first">
-<div class="widget_jobs_banner">
-<div class="widget_jobs_banner_cnt">
-<p><strong>Find your job in Japan.</strong>
-</p><p>
-Create resumes, apply to jobs, get head hunted by employers.</p>
-</div>
-<a class="widget_jobs_banner_go" href="https://jobs.gaijinpot.com/resume/index/pane/register?utm_source=japantoday_widget&amp;utm_medium=banner&amp;utm_campaign=find_a_job">GO!</a>
-</div></li>
 <li>
-<p class="image"><a href="https://jobs.gaijinpot.com/index/view/job_id/55594?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Full time Child Care Staff (After-School &amp; Pre-School teacher) - Kobe"><img src="http://jobs.gaijinpot.com/image/index/id/4002/size/58x58" alt="Full time Child Care Staff (After-School &amp; Pre-School teacher) - Kobe"></a></p>
+<p class="image"><a href="https://japan.careerengine.org/japantoday/index/view/job_id/85976?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Safety Manager / Officer"><img src="/image-cache/index/url/http%3A%2F%2Fjapan.careerengine.org%2Fjapantoday%2Fimage%2Findex%2Fid%2F8052%2Fsize%2F58x58" alt="Safety Manager / Officer"></a></p>
 <dl>
-<dt><a href="https://jobs.gaijinpot.com/index/view/job_id/55594?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Full time Child Care Staff (After-School &amp; Pre-School teacher) - Kobe</a></dt>
-<dd class="detail">Kids Duo (キッズデュオ), Hyogo</dd>
-<dd>Salary: ¥250,000 / Month</dd>
+<dt><a href="https://japan.careerengine.org/japantoday/index/view/job_id/85976?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Safety Manager / Officer</a></dt>
+<dd class="detail">CAPE, 東京都</dd>
+<dd>Salary: 給与要相談</dd>
 </dl>
 </li>
 <li class="alt">
-<p class="image"><a href="https://jobs.gaijinpot.com/index/view/job_id/55595?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Full time Child Care Staff (After-School &amp; Pre-School teacher) - Hiroshima"><img src="http://jobs.gaijinpot.com/image/index/id/4002/size/58x58" alt="Full time Child Care Staff (After-School &amp; Pre-School teacher) - Hiroshima"></a></p>
+<p class="image"><a href="https://japan.careerengine.org/japantoday/index/view/job_id/85972?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Site Manager"><img src="/image-cache/index/url/http%3A%2F%2Fjapan.careerengine.org%2Fjapantoday%2Fimage%2Findex%2Fid%2F8052%2Fsize%2F58x58" alt="Site Manager"></a></p>
 <dl>
-<dt><a href="https://jobs.gaijinpot.com/index/view/job_id/55595?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Full time Child Care Staff (After-School &amp; Pre-School teacher) - Hiroshima</a></dt>
-<dd class="detail">Kids Duo (キッズデュオ), Hiroshima</dd>
-<dd>Salary: ¥250,000 / Month</dd>
+<dt><a href="https://japan.careerengine.org/japantoday/index/view/job_id/85972?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Site Manager</a></dt>
+<dd class="detail">CAPE, 東京都</dd>
+<dd>Salary: 給与要相談</dd>
 </dl>
 </li>
 <li>
-<p class="image"><a href="https://jobs.gaijinpot.com/index/view/job_id/54250?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Project Manager"><img src="http://jobs.gaijinpot.com/image/index/id/5291/size/58x58" alt="Project Manager"></a></p>
+<p class="image"><a href="https://japan.careerengine.org/japantoday/index/view/job_id/86157?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Operations Manager"><img src="/image-cache/index/url/http%3A%2F%2Fjapan.careerengine.org%2Fjapantoday%2Fimage%2Findex%2Fid%2F7797%2Fsize%2F58x58" alt="Operations Manager"></a></p>
 <dl>
-<dt><a href="https://jobs.gaijinpot.com/index/view/job_id/54250?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Project Manager</a></dt>
-<dd class="detail">O.G.A. FOR AID, Tokyo</dd>
-<dd>Salary: Salary negotiable</dd>
-</dl>
-</li>
-</ul>
-<div id="link_widget_jobs" class="global_widget_more"><p class="more_button"><a href="https://jobs.gaijinpot.com/">View more over at GaijinPot</a></p></div>
-<!-- Apartments -->
-<div style="display:none" id="link_widget_apartments" class="global_widget_more"><p class="more_button"><a href="http://www.realestate.co.jp/">View more over at Real Estate Japan</a></p></div>
-<!-- Classifieds -->
-<ul style="display:none" id="list_widget_classifieds">
-<li>
-<p class="image"><a href="http://classifieds.gaijinpot.com/index/view/article_id/133875?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="2012 new model Rice cooker, barely used, excellent condition with warranty"><img src="http://classifieds.gaijinpot.com/image/0-58x58-c.png" alt="2012 new model Rice cooker, barely used, excellent condition with warranty"></a></p>
-<dl>
-<dt><a href="http://classifieds.gaijinpot.com/index/view/article_id/133875?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">2012 new model Rice cooker, barely used, excellent condition with warranty</a></dt>
-<dd>Location: <a href="/index/index/region/jp_tokyo">Tokyo</a></dd>
-<dd>Seller: <a href="http://classifieds.gaijinpot.com/index/index/user_id/46260">TokyoSale1115</a></dd>
-<dd>Tags: <a href="/index/index/category/household">Household Goods</a>, <a href="/index/index/search/tag%3Asayonara">sayonara</a>
-</dd>
+<dt><a href="https://japan.careerengine.org/japantoday/index/view/job_id/86157?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Operations Manager</a></dt>
+<dd class="detail">Destination Asia Japan, 東京都</dd>
+<dd>Salary: 年収 350万円 ~ 450万円</dd>
 </dl>
 </li>
 <li class="alt">
-<p class="image"><a href="http://classifieds.gaijinpot.com/index/view/article_id/133874?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="IKEA folding chair, barely used"><img src="http://classifieds.gaijinpot.com/image/0-58x58-c.png" alt="IKEA folding chair, barely used"></a></p>
+<p class="image"><a href="https://japan.careerengine.org/japantoday/index/view/job_id/86158?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Operations Executive"><img src="/image-cache/index/url/http%3A%2F%2Fjapan.careerengine.org%2Fjapantoday%2Fimage%2Findex%2Fid%2F7797%2Fsize%2F58x58" alt="Operations Executive"></a></p>
 <dl>
-<dt><a href="http://classifieds.gaijinpot.com/index/view/article_id/133874?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">IKEA folding chair, barely used</a></dt>
-<dd>Location: <a href="/index/index/region/jp_tokyo">Tokyo</a></dd>
-<dd>Seller: <a href="http://classifieds.gaijinpot.com/index/index/user_id/46260">TokyoSale1115</a></dd>
-<dd>Tags: <a href="/index/index/category/furniture">Furniture</a>, <a href="/index/index/search/tag%3Asayonara">sayonara</a>
-</dd>
+<dt><a href="https://japan.careerengine.org/japantoday/index/view/job_id/86158?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Operations Executive</a></dt>
+<dd class="detail">Destination Asia Japan, 東京都</dd>
+<dd>Salary: 年収 270万円 ~ 330万円</dd>
 </dl>
 </li>
 <li>
-<p class="image"><a href="http://classifieds.gaijinpot.com/index/view/article_id/133873?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Bicycle bought in July 2012, barely used"><img src="http://classifieds.gaijinpot.com/image/0-58x58-c.png" alt="Bicycle bought in July 2012, barely used"></a></p>
+<p class="image"><a href="https://japan.careerengine.org/japantoday/index/view/job_id/86160?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Product Manger"><img src="/image-cache/index/url/http%3A%2F%2Fjapan.careerengine.org%2Fjapantoday%2Fimage%2Findex%2Fid%2F7797%2Fsize%2F58x58" alt="Product Manger"></a></p>
 <dl>
-<dt><a href="http://classifieds.gaijinpot.com/index/view/article_id/133873?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Bicycle bought in July 2012, barely used</a></dt>
-<dd>Location: <a href="/index/index/region/jp_tokyo">Tokyo</a></dd>
-<dd>Seller: <a href="http://classifieds.gaijinpot.com/index/index/user_id/46260">TokyoSale1115</a></dd>
-<dd>Tags: <a href="/index/index/category/vehicle">Bikes/bicycles</a>, <a href="/index/index/search/tag%3Asayonara">sayonara</a>
-</dd>
+<dt><a href="https://japan.careerengine.org/japantoday/index/view/job_id/86160?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Product Manger</a></dt>
+<dd class="detail">Destination Asia Japan, 東京都</dd>
+<dd>Salary: 年収 330万円 ~ 360万円</dd>
 </dl>
 </li>
 </ul>
-<div style="display:none" id="link_widget_classifieds" class="global_widget_more"><p class="more_button"><a href="http://classifieds.gaijinpot.com/">View more over at GaijinPot</a></p></div>
-<div style="display:none" id="link_widget_friends" class="global_widget_more"><p class="more_button"><a href="http://friends.japantoday.com/">View more over at JapanToday Friends</a></p></div>
 </div>
 </div>
-<!-- END global link -->
-<div class="fbrecommendations"><div class="fb-recommendations" data-site="www.japantoday.com" data-app-id="205769802778296" data-width="308" data-height="308" data-header="true" border_color="#3B5998"></div></div><div class="twitter_content">
-<div class="twitter_header"><a href="http://twitter.com/#!/JapanToday">WHAT PEOPLE ARE TWEETING</a></div>
-<div class="twitter_popular"></div></div>
-<div class="ad_container_300">
-<script type="text/javascript">
-<!--//<![CDATA[
-  var m3_u = (location.protocol=='https:'?'https://ads.gplusmedia.com/delivery/ajs.php':'http://ads.gplusmedia.com/delivery/ajs.php');
-  var m3_r = Math.floor(Math.random()*99999999999);
-  if (!document.MAX_used) document.MAX_used = ',';  document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-  document.write ("?zoneid=736&amp;block=1");
-  document.write ('&amp;cb=' + m3_r);
-  document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-  document.write ("&amp;loc=" + escape(window.location));
-  if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-  if (document.context) document.write ("&amp;context=" + escape(document.context));
-  if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-  document.write ("'><\/scr"+"ipt>");
-//]]>-->
-</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=736&amp;block=1&amp;cb=75329023006&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121105204519id_/http%253A//www.japantoday.com/privacy"></script>
-</div>
+
 </section><!-- END side_ads // column3 -->
 <div class="cf"></div>
 </div>
@@ -523,7 +536,7 @@ Create resumes, apply to jobs, get head hunted by employers.</p>
   var m3_u = (location.protocol=='https:'?'https://ads.gplusmedia.com/delivery/ajs.php':'http://ads.gplusmedia.com/delivery/ajs.php');
   var m3_r = Math.floor(Math.random()*99999999999);
   if (!document.MAX_used) document.MAX_used = ',';  document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-  document.write ("?zoneid=744&amp;block=1");
+  document.write ("?zoneid=745&amp;block=1");
   document.write ('&amp;cb=' + m3_r);
   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
   document.write ("&amp;loc=" + escape(window.location));
@@ -532,7 +545,7 @@ Create resumes, apply to jobs, get head hunted by employers.</p>
   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
   document.write ("'><\/scr"+"ipt>");
 //]]>-->
-</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=744&amp;block=1&amp;cb=9477431593&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121105204519id_/http%253A//www.japantoday.com/privacy"></script>
+</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=745&amp;block=1&amp;cb=4126466014&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130614010346id_/http%253A//www.japantoday.com/privacy"></script>
 </div>
 <div class="newsletter_banner">
 <script type="text/javascript">
@@ -549,7 +562,7 @@ Create resumes, apply to jobs, get head hunted by employers.</p>
   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
   document.write ("'><\/scr"+"ipt>");
 //]]>-->
-</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=724&amp;block=1&amp;cb=13035107307&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121105204519id_/http%253A//www.japantoday.com/privacy"></script>
+</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=724&amp;block=1&amp;cb=93070843747&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130614010346id_/http%253A//www.japantoday.com/privacy"></script>
 </div>
 </div>
 <nav>
@@ -564,6 +577,7 @@ Create resumes, apply to jobs, get head hunted by employers.</p>
     <li><a href="/category/sports" title="Japanese Sports News">Sports</a></li>
     <li><a href="/category/world" title="World News">World</a></li>
     <li><a href="/category/features" title="JapanToday Features">Features</a></li>
+    <li><a href="/category/careers" title="JapanToday Features">Careers</a></li>
     <li><a href="/category/events" title="JapanToday Features">Events</a></li>
 </ul>
 <ul id="features_main_nav">
@@ -580,7 +594,7 @@ Create resumes, apply to jobs, get head hunted by employers.</p>
 </ul>
 </nav>
 <ul id="static_links">
-<li class="copyright">© 2012 <a href="http://www.gplusmedia.com" rel="external">GPlusMedia Co., Ltd.</a></li>
+<li class="copyright">© 2013 <a href="http://www.gplusmedia.com" rel="external">GPlusMedia Co., Ltd.</a></li>
 <li><a href="/privacy">Privacy</a></li>
 <li><a href="/terms">Terms of Service</a></li>
 <li><a href="/moderation_policy">Moderation Policy</a></li>
