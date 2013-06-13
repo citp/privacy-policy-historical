@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolestone.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205014143id_/http%3A//www.coolestone.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolestone.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613101612id_/http%3A//www.coolestone.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
 
 # : Video Clips From The Coolest One
 
