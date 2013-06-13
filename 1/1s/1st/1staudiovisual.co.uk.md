@@ -1,48 +1,48 @@
-> *The following text is extracted and transformed from the 1staudiovisual.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625195713id_/http%3A//www.1staudiovisual.co.uk/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1staudiovisual.co.uk privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613025427id_/http%3A//www.1staudiovisual.co.uk/catalog/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policies : 1staudiovisual UK
 
 | 
 
-**_M.A.  ,Says :_**
+**_Mrs Johnson  ,Says :_**
 
-Last Monday I searched local shops and the net to find a retailer who could supply a certain make of washing machine. However, no one could deliver within a week and all quoted delivery charges. Then I saw the machine on your web site and ordered it. We received a phone call from you that same day and the goods arrived the next day. You also took my old machine away without quibble or charge. Excellent service!!! I shall certainly recommend you to my friends.
+Finally a website company that does what it promises, thank you so much for the excellent service, will recommend you to friends and family.
 
-**_Craig Sellar  ,Says :_**
+**_Terry C  ,Says :_**
 
-Hi Paul, the Samsung arrived yesterday afternoon. Unboxed, up on it's stand, and looks great after a few picture setting tweaks. Over the moon with it. Great service, cheers again for the help. Craig.
+Love the new TV, thanks for the fast delivery and discount on the warranty :)
 
-**_Cecil Wyn Davies  ,Says :_**
+**_Delighted Customer  ,Says :_**
 
-I have recived my TV.Tthanks for the quick delivery. The goods was in good order. Thanks again. C W Davies.
+1st class service from 1st audio visual
 
-**_John Jones  ,Says :_**
+**_John Richardson  ,Says :_**
 
-Ordered 42" Led TV 8am Thur, delivered to North Wales by 09.30 Fri. Will certainly use again.
+The consignment has arrived safely. Thank you Paul for your help and assistance in resolving the problem.
 
-**_Roger Bainbridge  ,Says :_**
+**_Ringo  ,Says :_**
 
-Order number 154538 safely delivered this morning - connected and working well. Many thanks for prompt service at reasonable price. Regards, Roger Bainbridge.
+I absolutely recommend these guys for price and a quality service. I ordered on a Saturday, raised a question on Sunday which was answered early on Monday and was delivered, as promised, on Thursday.
 
-**_Mark Simpson  ,Says :_**
+**_Dan Bridger  ,Says :_**
 
-Fantastic! ...lol I'm soooooo in love with the TV, the deal and the customer service, should I need any more tech, I'll be checking in here first! (Guys! ...it seems to have arrived before you shipped it! MIRACULOUS! ...LOL)
+Thank you Paul, great telly and comms. I have left a very positive review. Kind regards, Dan.
 
-**_Barry  ,Says :_**
+**_Dan Bridger  ,Says :_**
 
-Service as it should be.
+Excellent product and price.\r\n\r\nVery good communications throughout.\r\n\r\n\r\nThank you,\r\n\r\nDan.
 
-**_Charles Aghabi  ,Says :_**
+**_Dave S  ,Says :_**
 
-TV received on Friday 27th April. Thank you for an excellent deal and very quick free delivery (2 days!). We're very pleased with our purchase!
+Cheapest price online and delivered in perfect condition 2 days after ordering for free, will use again in the future
 
-**_Rosemarie  ,Says :_**
+**_James Baker  ,Says :_**
 
-I needed a copy of the original invoice for a query with the manufacturer. 1staudiovisual were able to provide this for me promptly. Thank-you! Excellent service and I recommend you.
+My Samsung 55F8000 arrived yesterday in perfect condition, set it up last night and it looks fantastic, thanks for the great price and service.
 
-**_Edward Lettis  ,Says :_**
+**_Neil Couston  ,Says :_**
 
-Hi Paul, Order no 153942 The TV has arrived safely and in good order. It is now up and running and and we have been very impressed by the excellent service provided by you and the courier. We were very well informed throughout the process and I will not hesitate to use you again, and to recommend the company to others. Regards and thank you again, Edward Lettis.
+TC received today in perfect order, looks great, thanks for the great service
 
 |  |  |  |   |   
 ---|---|---  
@@ -54,7 +54,7 @@ When you shop on this website, we will ask you to input and will collect Persona
 
 You should be aware that this site is being monitored and may capture information about your visit that will help us improve the quality of our service. 
 
-We confirm that any Personal Information which you provide to us (or which is available on public registers) and any User Information from which we can identify you, is held in accordance with the registration we have with the Data Commissioner's Office. We use your information only for the following purposes:
+We confirm that any Personal Information which you provide to us (or which is available on public registers) and any User Information from which we can identify you, is held in accordance with the registration we have with the Data Commissioners Office. We use your information only for the following purposes:
 
   * Processing your orders; 
 
