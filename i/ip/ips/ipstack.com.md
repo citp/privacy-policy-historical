@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipstack.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628152320id_/http%3A//insecure.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipstack.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614044752id_/http%3A//insecure.org/privacy.html) for the most accurate reproduction.*
 
 # Insecure.org Privacy Policy
 
@@ -52,4 +52,4 @@ By using our web sites, you consent to the collection and use of your informatio
 
 **Contacting Insecure.Org**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact our privacy coordinator at [fyodor@insecure.org](mailto:fyodor@insecure.org). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact our privacy coordinator at [fyodor@nmap.org](mailto:fyodor@nmap.org). 
