@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amightygirl.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213165038id_/http%3A//www.amightygirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amightygirl.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615001915id_/http%3A//www.amightygirl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | A Mighty Girl
 
@@ -44,6 +44,10 @@ As part of the California Online Privacy Protection Act, all users of our site m
 ### Terms and Conditions 
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.amightygirl.com/terms-of-use/>
+
+### A Mighty Girl Newsletters
+
+Please also visit our Newsletter Policies section to learn more about the policies governing A Mighty Girl newsletters at <http://lists.amightygirl.com/subscription/policies.php>
 
 ### Your Consent 
 
