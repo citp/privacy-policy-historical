@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myapptemplates.com privacy policy that was archived on 2012-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120911014836id_/http%3A//www.myapptemplates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myapptemplates.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614061340id_/http%3A//www.myapptemplates.com/privacy) for the most accurate reproduction.*
 
-# Privacy - iPhone App Templates | Custom iPhone App Designs For Your App
+# Privacy - iPhone App Templates - Use An App Template And Save In Design Costs
 
 **by SEQ Legal**
 
