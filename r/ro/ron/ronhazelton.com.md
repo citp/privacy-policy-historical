@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ronhazelton.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125205654id_/http%3A//www.ronhazelton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronhazelton.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614061420id_/http%3A//www.ronhazelton.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy • Ron Hazelton Online
+# Privacy Policy • Ron Hazelton Online • DIY Ideas & Projects
 
 This privacy notice discloses the privacy practices for [http://www.ronhazelton.com](http://www.ronhazelton.com/) Your .privacy is very important to us. This privacy notice applies solely to information collected by this web site.
 
