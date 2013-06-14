@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the undergear.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016140325id_/http%3A//www.undergear.com/Privacy-and-Security/ug-privacy-and-security%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undergear.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614032517id_/http%3A//www.undergear.com/on/demandware.store/Sites-undergear-Site/default/Page-Show%3Fcid%3Dug-privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | Undergear
+
+We are here to answer your questions on our privacy policy:  
+Undergear  
+455 Park Plaza Drive  
+La Crosse, WI 54601  
+1-800-853-8555  
+[service@undergear.com](mailto:service@undergear.com "Opens An Email to Undergear Customer Service")
 
 Where you go and what you do—What we know without you telling us!
 
