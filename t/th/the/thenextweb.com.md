@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenextweb.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225114244id_/http%3A//thenextweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenextweb.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614232704id_/http%3A//thenextweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Next Web
 
@@ -15,6 +15,10 @@ Additionally, cookies may be used to provide easier and faster access to website
 We use both session ID cookies and persistent cookies. A session cookie expires when your browser is closed, and a persistent cookie may stay on your hard drive for an extended period. Session cookies make it easier for you to navigate our site; persistent cookies can perform such activities as storing your password for forums or blogs so you do not have to sign in every time you visit those areas, and/or may be used to enable us to track and target the interests of our users so as to enhance the overall experience of using our site.
 
 We have no access to or administration abilities over any cookies that are used by any advertisers on our site.
+
+**Third-Party Advertising – AdChoices**
+
+We use third-party advertising companies to serve ads and collect information when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information about this practice and to understand your opt-out choices, please [click here](http://www.networkadvertising.org/choices/). 
 
 **Links to Other Websites**
 
