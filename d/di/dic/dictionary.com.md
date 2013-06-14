@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dictionary.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029012126id_/http%3A//dictionary.reference.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dictionary.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614044738id_/http%3A//dictionary.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal Policy from Dictionary.com
 
@@ -21,7 +21,7 @@
 
 We use your information to provide and improve our services, customize services for you (such as by remembering your preferences), make special offers (like sweepstakes), better understand our users, diagnose and fix problems, and sell and display ads that may be relevant to you. Email addresses, mobile phone numbers, and credit card information are used only for providing you the services you requested upon creating your account.
 
-**Email Address** : We use your email address only to allow you to log in to your account, send you confirmations (of your registration, purchase, etc.), and to send you messages as part of our services. You may choose to stop receiving these emails by adjusting your email settings at [http://app.dictionary.com/users/settings](http://app.dictionary.com/users/settings) or by clicking on the "unsubscribe" link at the bottom of the email. For specific services, you can unsubscribe here: [Word of the Day unsubscribe](http://dictionary.reference.com/thisday/list/) or [Reference of the Day unsubscribe](http://www.reference.com/thisday/list/). We will also use your email address to respond to your customer service inquiries. If you are under the age of 13, certain messaging and site functionality may be non-existent or limited.
+**Email Address** : We use your email address only to allow you to log in to your account, send you confirmations (of your registration, purchase, etc.), and to send you messages as part of our services. You may choose to stop receiving these emails by adjusting your email settings at [http://app.dictionary.com/users/settings](http://app.dictionary.com/users/settings) or by clicking on the "unsubscribe" link at the bottom of the email. For specific services, you can unsubscribe here: [Word of the Day unsubscribe](http://dictionary.reference.com/wordoftheday/list/) or [Reference of the Day unsubscribe](http://www.reference.com/thisday/list/). We will also use your email address to respond to your customer service inquiries. If you are under the age of 13, certain messaging and site functionality may be non-existent or limited.
 
 **Phone Number** : We use your mobile phone number only to send you SMS messages that you've requested. To stop receiving SMS messages, please text STOP to 44636.
 
