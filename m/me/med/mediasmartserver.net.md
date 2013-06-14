@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediasmartserver.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230064015id_/http%3A//www.mediasmartserver.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediasmartserver.net privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615013334id_/http%3A//www.mediasmartserver.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — MediaSmartServer.net
 
