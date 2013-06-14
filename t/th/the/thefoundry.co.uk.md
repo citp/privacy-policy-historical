@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefoundry.co.uk privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116001459id_/http%3A//www.thefoundry.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefoundry.co.uk privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614034944id_/http%3A//www.thefoundry.co.uk/privacy) for the most accurate reproduction.*
 
 # Cookie and Privacy Policy | The Foundry
 
@@ -25,6 +25,8 @@ Cookies are very small text files that are stored on your computer when you visi
 **Google Analytics** – We use this to understand how the website is being used in order to improve the user experience. User data is anonymous. 
 
 **Eloqua** – We use this tool to understand more about the areas of our website you're most interested in. We then use this information to tailor marketing messages to you. 
+
+**Google Remarketing** — Google uses these cookies to show relevant adverts to users who have previously visited our website, as they browse other websites. To opt-out from Google's remarketing program, please [edit your Google Ad Settings](https://www.google.com/settings/ads). 
 
 ## Data collection and use
 
@@ -89,8 +91,6 @@ If you have any other queries relating to your privacy and the use of your perso
 
 **Data and Privacy Policy Enquiries**   
 The Foundry Visionmongers Ltd   
-6th Floor   
-48 Leicester Square   
-London WC2H 7LT   
-United Kingdom  
-[info@thefoundry.co.uk](mailto:info@thefoundry.co.uk)
+5 Golden Square   
+London W1F 9HT   
+United Kingdom [info@thefoundry.co.uk](mailto:info@thefoundry.co.uk)
