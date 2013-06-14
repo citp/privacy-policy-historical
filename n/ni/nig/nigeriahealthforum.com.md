@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nigeriahealthforum.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225200130id_/http%3A//www.nigeriahealthforum.com/health/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigeriahealthforum.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615014216id_/http%3A//www.nigeriahealthforum.com/health/privacy_policy.php) for the most accurate reproduction.*
 
 # Nigeria Health Forum - Privacy Policy
 
