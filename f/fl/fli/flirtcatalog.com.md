@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flirtcatalog.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208115349id_/http%3A//www.flirtcatalog.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirtcatalog.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615004818id_/http%3A//www.flirtcatalog.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Sexy Clothes Womens Sexy Dresses Sexy Clubwear Sexy Swimwear | Flirt Catalog
+# Privacy Policy - Sexy Dresses, Clubwear, Swimwear, Costumes & Lingerie | Flirt Catalog
 
 Onestop Internet, Inc. ("Onestop") operates this Web Site, pursuant to contractual agreements with Flirt Catalog ("Flirt Catalog"), the designer and manufacturer of products sold on this Web Site. Onestop and Company are not affiliates of one another and have no relationship with one another other than through these agreements. Both Onestop and Company ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site. Please also review our [Terms & Conditions](https://web.archive.org/terms) which also govern your use of this Web Site. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms & Conditions](https://web.archive.org/terms).
 
@@ -60,7 +60,7 @@ You can access, correct and update certain personal information that you have pr
 
 You will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Additionally, you may contact our Customer Service Department or write to us at:
 
-Onestop Internet, Inc. 2332 E. Pacifica Place, Rancho Dominguez, CA 90220.
+Onestop Internet, Inc. 3040 E Ana St., Rancho Dominguez, CA 90221.
 
 Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective. Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order.
 
