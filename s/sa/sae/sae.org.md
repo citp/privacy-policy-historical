@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sae.org privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214082122id_/http%3A//www.sae.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sae.org privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615004221id_/http%3A//www.sae.org/about/privacy) for the most accurate reproduction.*
 
 # SAE Website Privacy Policy
 
@@ -81,16 +81,22 @@ If you have comments or questions about this Policy, please contact us at:
 
 | 
 
+A World In Motion® brings STEM education to life in the classroom
+
+| 
+
+SAE Training and Education
+
+| 
+
 Join, Renew or Upgrade Your Membership Today!
 
 | 
 
-SAE Career Development Resources
+Upcoming SAE Events
 
 | 
 
-| 
-
-SAE Collegiate Design Competitions  
+Shop at the SAE Marketplace  
   
----|---|---|---
+---|---|---|---|---
