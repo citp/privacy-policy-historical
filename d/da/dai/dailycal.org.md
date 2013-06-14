@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycal.org privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108211904id_/http%3A//www.dailycal.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycal.org privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614054352id_/http%3A//www.dailycal.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Copyright Information - The Daily Californian
 
@@ -67,8 +67,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-600 Eshleman Hall, UC Berkeley  
-Berkeley, California 94720  USA  
+2483 Hearst Ave.  
+Berkeley, California 94709  USA  
 [dailycal@dailycal.org](mailto:dailycal@dailycal.org)  510-548-8300
 
 **SITE USAGE AND COPYRIGHT**
