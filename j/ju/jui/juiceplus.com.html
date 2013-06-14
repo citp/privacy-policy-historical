@@ -1,0 +1,871 @@
+<!--The following is the downloaded HTML source of the juiceplus.com privacy policy that was archived on 2013-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130614085922id_/http%3A//www.juiceplus.com/content/JuicePlus/en/privacy-statement.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://localhost:4502/libs/wcm/stats/tracker.js?path=/content/JuicePlus/en/privacy-statement"></script>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="keywords" content="">
+    <meta http-equiv="description" content="">
+    
+
+
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet" type="text/css">
+
+ <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e8e2b2668c07f93"></script>
+<script type="text/javascript">
+CQURLInfo = {
+    "contextPath": null,
+    "requestPath": '\/content\/JuicePlus\/en\/privacy-statement',
+    "selectorString": null,
+    "selectors": [],
+    "extension": 'html',
+    "suffix": null,
+    "systemId": '6b45f42e-6432-4856-a839-5c80937855f1',
+    "runModes": 'publish'
+};</script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/main.js"></script>
+<link rel="stylesheet" href="/etc/clientlibs/foundation/main.css" type="text/css">
+
+
+
+<link rel="stylesheet" href="/etc/designs/orangeness/clientlibs.css" type="text/css">
+<link rel="stylesheet" href="/etc/clientlibs/foundation/jquery-ui/themes/default.css" type="text/css">
+
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery-ui.js"></script>
+<script type="text/javascript" src="/etc/designs/orangeness/clientlibs.js"></script>
+
+ 
+ 
+ 
+<link href="/etc/designs/orangeness/static.css" rel="stylesheet" type="text/css">
+<link href="/etc/designs/orangeness.css" rel="stylesheet" type="text/css">
+
+
+ <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, minimum-scale=0, user-scalable=yes">
+
+    
+    <script type="text/javascript">
+    {
+        window.setTimeout(function() {
+            $CQ.getScript("http://localhost:4502/libs/wcm/stats/tracker.js?path=/content/JuicePlus/en/privacy-statement");
+        }, 1);
+    }
+    </script>
+<script type="text/javascript">function trackMVTImpression() {
+    
+    }</script>
+    
+    <link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/orangeness/favicon.ico">
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/orangeness/favicon.ico">
+    
+    <title>Privacy Statement</title>
+</head>
+
+<body class="page ">
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/content/JuicePlus/en/saneid.html"></script>
+<script type="text/javascript"><!--
+var searchSuggestions = [
+
+                          "Live Life to the Plus",  "Protecting DNA",  "JuicePlus+ Clinical research",  "Diabetes Diet control",  "Clinical Research",  "Vineyard Blend",  "Whole Based Food Nutrition",  "Orchard and Garden Blend",  "Vision",  "Ultra marathon",  "Our Story",  "Stroke",  "Dental Health",  "Juice Plus+ Complete Variety",  "Juice Plus+ Orchard and Garden Blend Chewables",  "Staying young",  "Prenatal   Pregnancy",  "About Us",  "Cancer",  "Juice Plus+ Vineyard Blend Chewables",  "Memory retention",  "How to choose better foods",  "Childhood obesity",  "Giving Back",  "Complete Variety",  "Juice Plus+ Orchard and Garden Blend",  "Beauty   Skin Health",  "Arthritis inflammation",  "Hole in your Diet",  "Blog",  "What is Juice Plus+",  "Vineyard Blend Chewables",  "Expert Reviews",  "Juice Plus+ Benefits",  "Juice Plus+ Products",  "Health Experts",  "Orchard and Garden Blend Chewables",  "Juice Plus+ Vineyard Blend",  "Children's Health Study",  "Heart disease   problems",  "Weight Management",  "Reducing stress",  "Health Professionals",  "SCIENTIFIC   MEDICAL CLAIMS", 
+
+                     ];
+
+
+
+/*-------JuicePlus Rep code-----*/
+
+var baseURL = "/content/JuicePlus/en/privacy-statement/jcr:content";
+
+var totalPrice = 0;
+var cartIconHovered = false;
+var cartModalHovered = false;
+var cartOpenTemporary = false;
+var requestingProductData = false;
+var displayHoverOnce = false;
+var jpStoreUrl = 'https://store.juiceplus.com';
+var JPstoreInfo = {
+    ready: false
+};
+
+jQuery(document).ready(function () {
+
+    jQuery('.top-tools').find('.cart').hover(function () {
+        loadCartModal();
+        cartIconHovered = true;
+        displayCartModal();
+    }, function () {
+        cartIconHovered = false;
+        cartOpenTemporary = false;
+        if (!cartModalHovered)
+            displayCartModal();
+    });
+    jQuery('.cart-content').hover(function () {
+        cartModalHovered = true;
+        displayCartModal();
+    }, function () {
+        cartModalHovered = false;
+        cartOpenTemporary = false;
+        if (!cartIconHovered)
+            displayCartModal();
+    });
+    jQuery(".search-input").autocomplete({
+        minLength: 1,
+        // source: searchSuggestions
+        source: function (request, response) {
+            var results = searchSuggestions;
+
+            response(results.slice(0, 10));
+        }
+    });
+    jQuery("#add-to-cart").click(function (event) {
+        /* Get qty from qty text input */
+        if (jQuery('#product-quantity').length) {
+            var qty = jQuery('#product-quantity').val();
+            var sku = jQuery('#product-sku').val();
+            if (!qty.match(/^[0-9]+$/) || qty == 0) {
+                qty = 1;
+            }
+            addItemQtyToCart(sku, qty);
+            jQuery('#product-quantity').val('');
+            jQuery('#product-quantity').blur();
+        }
+    });
+    jQuery("#locationApply").click(function () {
+        document.location.href = 'http://' + jQuery("select#local-select option:selected").val();
+    });
+    jQuery("select#local-select").change(function () {
+        document.location.href = 'http://' + jQuery("select#local-select option:selected").val();
+    });
+    getJPstoreInfo();
+});
+
+jQuery(window).bind('JPstoreInfoError', function () {
+    jQuery('.rep-name').html('The store is unavailable: ' + JPstoreInfo.errorText);
+    jQuery('.rep-container').show();
+});
+
+
+jQuery(window).bind('cartUpdated', function () {
+    updateCartLogo();
+    if(displayHoverOnce){
+        loadCartModal();
+        cartOpenTemporary = true;
+        setTimeout(function(){ cartOpenTemporary = false; displayCartModal(); }, 6000);
+        displayCartModal();
+        jQuery("html, body").animate({ scrollTop: 0 }, "slow");
+        displayHoverOnce = false;
+    }
+});
+
+
+jQuery(window).bind('JPstoreInfoReady', function () {
+
+    if (JPstoreInfo.decodePartyId != "noSuchUserExists") {
+        /*
+         * Rewrite the tab urls to pass the distributor info
+         */
+        var queryString = '?phone=' + JPstoreInfo.raw.distributorphone + '&partyId=' + JPstoreInfo.raw.PartyId + '&lastName=' + JPstoreInfo.raw.distributorlastname + '&firstName=' + JPstoreInfo.raw.distributorfirstname + '&website=' + JPstoreInfo.raw.jpHost + '&extUserId=' + JPstoreInfo.raw.extUserId;
+        var tgPersonalLink = 'http://HOST.towergarden.com';
+        jQuery("#jpvfLink").attr('href', jQuery("#jpvfLink").attr('href') + queryString);
+        jQuery("#chsLink").attr('href', jQuery("#chsLink").attr('href') + queryString);
+        jQuery("#tgLink").attr('href', tgPersonalLink.replace("HOST", JPstoreInfo.jpHost));
+        jQuery('.rep-name').html(JPstoreInfo.firstName + ' ' + JPstoreInfo.lastName);
+        jQuery('.rep-alt-name').html(JPstoreInfo.firstName + ' ' + JPstoreInfo.lastName);
+        jQuery('.rep-alt-phone').html(JPstoreInfo.phone);
+        jQuery('.hideIfDistributor').hide();
+        jQuery('.showIfDistributor').show();
+        jQuery('.showIfDistributor').removeClass('hide');
+
+        if (JPstoreInfo.photoImgSrcUrl != "") {
+            jQuery(".rep-photo").attr('src', JPstoreInfo.photoImgSrcUrl);
+        }
+        else {
+            jQuery(".rep-photo").remove();
+        }
+        jQuery('.rep-container').show();
+    }
+    if (JPstoreInfo.featuredProduct == "3-blend") {
+        showAlternateContent();
+        jQuery("a[href='/content/JuicePlus/en/buy.html']").attr('href', '/content/JuicePlus/en/buy/alternate.html');
+    }
+    else {
+        showMainContent();
+    }
+
+    jQuery(".cart a").attr("href", JPstoreInfo.cartCheckoutUrl);
+    jQuery(".cart-content  a.checkout-btn").attr("href", JPstoreInfo.cartCheckoutUrl);
+
+
+    // update the location dropdown to handle personal pages.
+    if (typeof JPstoreInfo.distributorBaseUrl != "undefined" && JPstoreInfo.distributorBaseUrl.length) {
+        // Class memPersonal identifies domains that host the Memphis legacy
+        // personal page urls
+        jQuery("select#local-select option.memPersonal").val(function (index, value) {
+            return value + '/nsa/content/Home.soa?site=' + JPstoreInfo.distributorBaseUrl;
+        });
+    }
+    if (typeof JPstoreInfo.distributorExternalInfo != "undefined" && JPstoreInfo.distributorExternalInfo.length) {
+        // Class basPersonal identifies domains that host the Basel personal
+        // pages
+        jQuery("select#local-select option.basPersonal").val(function (index, value) {
+            return value + JPstoreInfo.distributorExternalInfo;
+        });
+    }
+
+});
+
+function getQuerystring(key, default_) {
+    if (default_ == null) default_ = "";
+    key = key.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+    var regex = new RegExp("[\?&]" + key + "=([^&#]*)");
+    var qs = regex.exec(window.location.href);
+    if (qs == null) {
+        return default_;
+    }
+    else {
+        return qs[1];
+    }
+}
+
+function decode_base64(s) {
+    if (s == null) s = "";
+    s = s.replace(/=+$/, "");
+
+    var e = {}, i, k, v = [],
+        r = '',
+        w = String.fromCharCode;
+    var n = [
+        [65, 91],
+        [97, 123],
+        [48, 58],
+        [47, 48],
+        [43, 44]
+    ];
+
+    for (z in n) {
+        for (i = n[z][0]; i < n[z][1]; i++) {
+            v.push(w(i));
+        }
+    }
+    for (i = 0; i < 64; i++) {
+        e[v[i]] = i;
+    }
+
+    for (i = 0; i < s.length; i += 72) {
+        var b = 0,
+            c, x, l = 0,
+            o = s.substring(i, i + 72);
+        for (x = 0; x < o.length; x++) {
+            c = e[o.charAt(x)];
+            b = (b << 6) + c;
+            l += 6;
+            while (l >= 8) {
+                r += w((b >>> (l -= 8)) % 256);
+            }
+        }
+    }
+
+    return r;
+}
+
+
+
+
+function getJPstoreInfo() {
+    // This assumes that the JPStore URL (usually
+    // https://store.juiceplus.com/)
+    // has been stored in a var named jpStoreUrl
+    var pageQuerySite = getQuerystring("site");
+    var pageQueryDomain = getQuerystring("homePage");
+    var pageQueryIpid = getQuerystring("distId");
+    var pageHost = location.hostname.split(/\./)[0];
+
+    // var jpSite = getQuerystring("site");
+    // if (typeof console != "undefined") console.log(pageHost);
+    // if (typeof console != "undefined") console.log(pageQuery);
+    // if (typeof console != "undefined") console.log(jpSite);
+    /*
+     * pageHost will always be set. If it is not the personal hostname then
+     * it will be the corporate hostname (dev, www, juiceplus,etc.)
+     */
+    if (pageQuerySite != "") {
+        hostName = pageQuerySite;
+    }
+    else if (pageHost != "") {
+        hostName = pageHost;
+    }
+
+    // check for noredirect on the src tag
+    var key = "noredirect";
+    var regex = new RegExp("[\?&]" + key + "=([^&#]*)");
+    var qs = regex.exec(jpStoreUrl);
+    var noredirect;
+    if (qs == null)
+        noredirect = "";
+    else
+        noredirect = qs[1];
+
+    if (location.port != "80" && location.port != "443" && location.port != "") {
+        // assume that we are not on a publish instance.
+        noredirect = 1;
+    }
+    // if (typeof console != "undefined") console.log(noredirect);
+
+    var storeHostArr = jpStoreUrl.split(/[/?#]+/);
+    // if (typeof console != "undefined") console.log('script source: '+
+    // jpStoreUrl);
+    var storeHost = storeHostArr[0] + '//' + storeHostArr[1];
+    var serviceUrl = storeHost + '/jp/content/service/GetDistributorDetails.soa';
+    // if (typeof console != "undefined") console.log(serviceUrl);
+    jQuery.extend(JPstoreInfo, {
+        storeHost: storeHost,
+        serviceUrl: serviceUrl,
+        cartServiceUrl: storeHost + '/jp/store/AddItemsToCartFromContent.soa',
+        contactUsServiceUrl: storeHost + '/jp/user/ContactUsAction.soa',
+        cartCheckoutUrl: storeHost + '/jp/store/ShowCartContents.soa?e=mc2',
+        emailSignUpUrl: storeHost + '/jp/user/EmailSignUp.soa'
+    });
+
+    var getDistDetails = {
+        fullHost: location.hostname,
+        hostName: hostName,
+        domainName: pageQueryDomain,
+        ipid: pageQueryIpid,
+        saneId: SaneID
+    };
+
+    jQuery.ajax({
+        type: "GET",
+        url: serviceUrl,
+        dataType: 'jsonp',
+        data: getDistDetails,
+        timeout: 4000,
+        success: function (data, status) {
+
+            jQuery.extend(JPstoreInfo, {
+                firstName: decode_base64(data.distributorfirstname),
+                lastName: decode_base64(data.distributorlastname),
+                phone: decode_base64(data.distributorphone),
+                quantity: decode_base64(data.quantity),
+                /*
+                 * number of
+                 * items
+                 * (sku*quantity)
+                 */
+                skus: data.Sku != undefined ? data.Sku.length : 0,
+                /*
+                 * number
+                 * of
+                 * unique
+                 * item
+                 * numbers
+                 */
+                skuList: data.Sku,
+                lineQty: data.LineQty,
+                error: false,
+                ready: true,
+                decodePartyId: decode_base64(data.PartyId),
+                jpHost: decode_base64(data.jpHost),
+                distributorBaseUrl: decode_base64(data.distributorBaseUrl),
+                distributorExternalInfo: decode_base64(data.distributorExternalInfo),
+                featuredProduct: decode_base64(data.featuredProduct),
+                distributorMarquee: decode_base64(data.distributorMarquee),
+                redirectUrl: decode_base64(data.redirectUrl),
+                raw: data
+            });
+
+            if (
+                typeof JPstoreInfo.redirectUrl != "undefined" &&
+                JPstoreInfo.redirectUrl != "") {
+                if (JPstoreInfo.redirectUrl != location.hostname) {
+                    if (!noredirect) {
+                        document.location.href = 'http://' + JPstoreInfo.redirectUrl;
+                    }
+                    else {
+                        if (typeof console != "undefined") console.log('would redirect to ' + JPstoreInfo.redirectUrl);
+                    }
+                }
+                else {
+                    if (typeof console != "undefined") console.log('no need to redirect to ' + JPstoreInfo.redirectUrl);
+                }
+            }
+
+            if (JPstoreInfo.decodePartyId == undefined || JPstoreInfo.decodePartyId == "" || JPstoreInfo.decodePartyId == "noSuchUserExists" || JPstoreInfo.decodePartyId == "noSuchUserExists") {
+                jQuery.extend(JPstoreInfo, {
+                    photoImgSrcUrl: ""
+                });
+            }
+            else {
+                jQuery.extend(JPstoreInfo, {
+                    photoImgSrcUrl: JPstoreInfo.storeHost + '/jp/user/GetUserPhoto.soa?p=' + JPstoreInfo.decodePartyId
+                });
+            }
+            jQuery(window).trigger("cartUpdated");
+            jQuery(window).trigger("JPstoreInfoReady");
+        },
+        error: function (data, textStatus, errorThrown) {
+            jQuery.extend(JPstoreInfo, {
+                error: true,
+                errorText: textStatus,
+                ready: true
+            });
+            jQuery(window).trigger("JPstoreInfoError");
+        },
+        complete: function (data, textStatus) {
+            if (textStatus != "success") {
+
+            }
+        }
+    });
+}
+
+function addItemQtyToCart(sku, qty) {
+    jQuery.ajax({
+        type: "GET",
+        url: JPstoreInfo.cartServiceUrl,
+        dataType: 'jsonp',
+        data: {
+            sku: sku,
+            quantity: qty
+        },
+        success: function (data) {
+           getJPstoreInfo();
+           displayHoverOnce=true;
+        },
+        error: function (data, textStatus, errorThrown) {},
+        complete: function () {}
+    });
+    return false;
+}
+
+
+
+function displayCartModal() {
+    if (cartIconHovered || cartModalHovered || cartOpenTemporary) {
+        jQuery('.cart-content').show();
+        jQuery('.top-tools').find('.cart').find('a').addClass('selected');
+    }
+    else {
+        jQuery('.cart-content').hide();
+        jQuery('.top-tools').find('.cart').find('a').removeClass('selected');
+    }
+}
+
+// Update number in cart logo
+
+function updateCartLogo() {
+
+    var numberOfItems = JPstoreInfo.quantity;
+
+    if (numberOfItems > 0) {
+        jQuery('.cart-notify').html(numberOfItems).show();
+        $CQ('.cart-content .no-items').remove();
+    }
+    else {
+        jQuery('.cart-notify').html("").hide();
+        $CQ(".cart-content .checkout-container ").hide();
+        $CQ(".cart-content .cart-total").hide();
+        $CQ('.cart-content .no-items').show();
+    }
+}
+
+function loadCartModal() {
+    jQuery('.cart-content').find('.cart-items').empty();
+    for (var i = 0; i < JPstoreInfo.skuList.length; i++) {
+        getCartItem(JPstoreInfo.skuList[i], JPstoreInfo.lineQty[i]);
+    }
+}
+
+
+function updateModalTotal() {
+    jQuery('.cart-total').find('.toatl-amount').find('.total-value').html(sprintf("%.02f", totalPrice));
+}
+
+function getCartItem(sku, quantity) {
+    requestingProductData = true;
+    // clear space and add in loading gif
+    jQuery('.cart-content').children().hide();
+    jQuery('.cart-content').find('.ajax-loader').show();
+    totalPrice = 0;
+    jQuery.ajax({
+        type: "POST",
+        url: baseURL + ".json",
+        data: "sku=" + sku + "&quantity=" + quantity,
+        success: function (data) {
+            var productData = jQuery.parseJSON(data);
+            var newItem = "<a href='" + productData.link + "'><div class='cart-item'>" +
+                " <div class='cart-product-image'>" +
+                " <img src='" + productData.image + "' />" +
+                " </div>" +
+                " <div class='cart-product-desc'>" +
+                " <h5>" + productData.product + "</h5>" +
+                " <div class='qty'>QTY <strong>" + productData.quantity + "</strong></div>" +
+                " </div>" +
+                " </div></a>";
+            totalPrice += parseInt(productData.quantity) * parseFloat(productData.price);
+            if (quantity > 0) {
+                jQuery('.cart-content').find('.cart-items').append(newItem);
+            }
+
+            jQuery('.cart-content').children().show();
+
+            jQuery('.cart-content').find('.ajax-loader').hide();
+
+            updateModalTotal();
+
+            requestingProductData = false;
+
+        }
+    });
+}
+--></script>
+
+<div class="wrapper">
+<div class="header">
+<div class="lang-content hide" style="width: 1336px;">
+<div class="content-container">
+<h3>Would you like to change your location?</h3>
+<fieldset>
+<div><label for="local-select"> Select Location: </label> <select id="local-select" class="hasCustomSelect">
+	<option value="www.juiceplus.com.au" class="memPersonal">AUSTRALIA</option>
+	<option value="www.juiceplus.ch" class="basPersonal">AUSTRIA</option>
+	<option value="www.juiceplus.be" class="memPersonal">BELGIUM</option>
+	<option value="canada.juiceplus.com" class="memPersonal">CANADA</option>
+	<option value="www.juiceplus.dk" class="memPersonal">DENMARK</option>
+	<option value="www.juiceplus.fi" class="memPersonal">FINLAND</option>
+	<option value="www.juiceplus.ch" class="basPersonal">FRANCE</option>
+	<option value="www.juiceplus.ch" class="basPersonal">GERMANY</option>
+	<option value="www.juiceplus.ie" class="memPersonal">IRELAND</option>
+	<option value="www.juiceplus.it" class="basPersonal">ITALY</option>
+	<option value="www.myjuiceplus.jp" class="memPersonal">JAPAN</option>
+	<option value="www.juiceplus.lu" class="memPersonal">LUXEMBOURG</option>
+	<option value="malaysia.juiceplus.com" class="memPersonal">MALAYSIA</option>
+	<option value="www.juiceplus.nl" class="memPersonal">NETHERLANDS</option>
+	<option value="www.juiceplus.no" class="memPersonal">NORWAY</option>
+	<option value="www.juiceplus.ch" class="basPersonal">POLAND</option>
+	<option value="singapore.juiceplus.com" class="memPersonal">SINGAPORE</option>
+	<option value="www.juiceplus.es" class="memPersonal">SPAIN</option>
+	<option value="www.juiceplus.se" class="memPersonal">SWEDEN</option>
+	<option value="www.juiceplus.ch" class="basPersonal">SWITZERLAND</option>
+	<option value="www.juiceplus.co.uk" class="memPersonal">UNITED
+	KINGDOM</option>
+	<option value="www.juiceplus.com" class="memPersonal" selected="selected">UNITED STATES</option>
+</select><span class="customSelect"><span class="customSelectInner"></span></span></div>
+
+ <input type="button" class="button" id="locationApply" value="Apply"></fieldset>
+<a href="#" class="close-btn">Close</a></div>
+</div>
+
+<div class="search-content hide" style="width: 1336px;">
+<div class="content-container">
+<form action="/content/JuicePlus/en/Search.html">
+<div class="input-box">
+<h3>What would you like to search for?</h3>
+<input class="search-input" size="41" maxlength="2048" name="q" value="" data-name="">
+ <input class="search-button" value="Search" type="submit"></div>
+<a href="#" class="close-btn">Close</a></form>
+</div>
+</div>
+<div class="content-container">
+<div class="external-links">
+<ul>
+	<li class="selected"><a href="/content/JuicePlus/en.html">Juice
+	Plus +</a></li>
+	<li><a id="chsLink" href="http://childrenshealthstudy.com">Children's Health
+	Study</a></li>
+	<li><a id="tgLink" href="http://towergarden.com">Tower Garden</a></li>
+	<li><a id="jpvfLink" href="http://juiceplusvirtualfranchise.com">Virtual Franchise</a></li>
+</ul>
+</div>
+
+<div class="logo-holder"><div class="logo parbase"><a href="/content/JuicePlus/en.html"><img title="logo" alt="Home Page Placeholder" src="/etc/designs/orangeness/_jcr_content/page/logo.img.png/1367813749627.png"></a></div>
+</div>
+
+
+<div class="cart-content hide"><img src="/etc/designs/orangeness/images/static/ajax-loader.gif" class="ajax-loader hide">
+<p class="no-items">no items to display</p>
+<div class="cart-items"></div>
+<div class="cart-total">
+<div class="toatl-amount">$<span class="total-value">0.00</span></div>
+Plus tax</div>
+<div class="checkout-container"><a href="#" class="checkout-btn">Check Out</a></div>
+</div>
+
+<div class="top-tools">
+<ul>
+	<li class="lang"><a href="#">Country/Language</a></li>
+	<li class="cart"><a href="#">Shopping Cart</a></li>
+	<li class="search"><a href="#">Search</a></li>
+	<li class="share"><a href="http://www.addthis.com/bookmark.php" style="text-decoration: none;" class="addthis_button">Share</a></li>
+</ul>
+</div>
+
+
+<div class="cart-notify hide"></div>
+
+<div class="rep-container hide">
+<div class="info">
+<p class="rep-name">-</p>
+ <a class="rep-contact" href="/content/JuicePlus/en/about-us/contact-us.html">Contact Me</a></div>
+<img class="rep-photo" src="/etc/designs/orangeness/images/temp/Clear.gif"></div>
+
+<div class="nav"><div class="topnav">
+
+<ul id="topnav">  
+    <li class="noleaf"><a href="/content/JuicePlus/en/what-is-juice-plus.html">What is Juice Plus+?</a><ul><li><a href="/content/JuicePlus/en/what-is-juice-plus/what-is-juice-plus.html">What is Juice Plus+?</a></li><li><a href="/content/JuicePlus/en/what-is-juice-plus/importance-of-a-healthy-diet.html">Importance of a Healthy Diet</a></li><li><a href="/content/JuicePlus/en/what-is-juice-plus/whole-food-based-nutrition.html">Whole Food Based Nutrition</a></li><li><a href="/content/JuicePlus/en/what-is-juice-plus/benefits0.html">Benefits</a></li><li><a href="/content/JuicePlus/en/what-is-juice-plus/childrens-health-study.html">Children's Health Study</a></li><li><a href="/content/JuicePlus/en/what-is-juice-plus/farm-fresh-nutrition.html">Farm Fresh Nutrition</a></li></ul></li><li class="noleaf"><a href="/content/JuicePlus/en/clinical-research.html">Clinical Research</a><ul><li><a href="/content/JuicePlus/en/clinical-research/clinical-research.html">Clinical Research</a></li><li><a href="/content/JuicePlus/en/clinical-research/juice-plus-clinical-research.html">Clinical Research Results</a></li><li><a href="/content/JuicePlus/en/clinical-research/published-medical-and-scientific-journals.html">Published Medical &amp; Scientific Journals</a></li><li><a href="/content/JuicePlus/en/clinical-research/clinical-research-underway.html">Clinical Research Underway</a></li><li><a href="/content/JuicePlus/en/clinical-research/expert-testimonials.html">Experts Review Juice Plus+</a></li></ul></li><li class=""><a href="/content/JuicePlus/en/community.html">Community</a><ul style="display: none;"><li><a href="/content/JuicePlus/en/community/Live_Live_to_the_Plus.html">Live Live to the Plus+</a></li></ul></li><li class=""><a href="/content/JuicePlus/en/buy.html">Buy</a><ul style="display: none;"><li><a href="/content/JuicePlus/en/buy/orchard-and-garden-blends.html">Juice Plus+ ® Orchard and Garden Blend</a></li><li><a href="/content/JuicePlus/en/buy/vineyard-blends.html">Juice Plus+ Vineyard Blend</a></li><li><a href="/content/JuicePlus/en/buy/juice-plus--vineyard-blend-chewables.html">Juice Plus+ Vineyard Blend Chewables</a></li><li><a href="/content/JuicePlus/en/buy/juice-plus--orchard-and-garden-blend-chewables--child-serving.html">Juice Plus+ Orchard and Garden Blend Chewables (Child)</a></li><li><a href="/content/JuicePlus/en/buy/juice-plus--complete-variety.html">Juice Plus+ Complete Variety Drink Mix</a></li><li><a href="/content/JuicePlus/en/buy/juice-plus--complete-chocolate.html">Juice Plus+ Complete Dutch Chocolate</a></li><li><a href="/content/JuicePlus/en/buy/juice-plus--complete-vanilla.html">Juice Plus+ Complete French Vanilla</a></li><li><a href="/content/JuicePlus/en/buy/alternate.html">Struggling to eat healthier?</a></li></ul></li><li class="noleaf"><a href="/content/JuicePlus/en/about-us.html">About Us</a><ul><li><a href="/content/JuicePlus/en/about-us/nsa-story.html">Our Story</a></li><li><a href="/content/JuicePlus/en/about-us/Juice_Plus_Giving_Back.html">Giving Back</a></li><li><a href="/content/JuicePlus/en/about-us/library.html">Library</a></li><li class="noleaf"><a href="/content/JuicePlus/en/about-us/events.html">Events</a><ul><li class="first"><a href="/content/JuicePlus/en/about-us/events/eventlist.html">Upcoming Events</a></li><li class="last"><a href="/content/JuicePlus/en/about-us/events/featured-speakers.html">Featured Speakers</a></li></ul></li><li><a href="/content/JuicePlus/en/about-us/join-email-list.html">Join Email List</a></li><li><a href="/content/JuicePlus/en/about-us/contact-us.html">Contact Us</a></li></ul></li>
+</ul>
+
+            </div>
+</div>
+</div>
+
+</div>
+
+
+<div class="main-contents single-column">
+    
+    
+
+    
+   
+    
+
+ <div class="sub-nav">
+        <div class="content-container">
+ <ul style="display: none;">
+    
+</ul>
+</div>
+</div>
+
+
+
+
+
+  
+   
+    
+    <div class="content-container">
+		<div class="par parsys"><div class="title section">
+<h1>Privacy Statement</h1></div>
+<div class="text parbase section"><p>&nbsp;<br>
+We appreciate your business … and value your privacy and security.<br>
+&nbsp;<br>
+NSA, the maker of Juice Plus+, is committed to safeguarding your privacy both online and off, and takes every step possible to ensure that your personal information is secure.<br>
+<br>
+Privacy:<br>
+<br>
+We collect personal information from you only when you choose to provide information to us, such as by purchasing our products.<br>
+<br>
+Any personal information that you share with NSA will only be used by us to assist you in conducting business with us.<br>
+<br>
+We will not share any of your personal information with any third party other than service partners under contract to us who help us serve you better in areas such as fraud prevention, special customer service matters, and technology services. Our contracts dictate that our service partners only use your information in connection with the services they perform for us.<br>
+<br>
+In order to assure the high level of personal service for which our company is known, if you choose to become a customer and are not affiliated with a Juice Plus+&nbsp;representative, we may assign you a representative and share basic contact information you provide –name, phone number, and email address – with that representative. This never includes your credit card information or other financial information.<br>
+<br>
+All Juice Plus+&nbsp;representatives are also contractually obligated to abide by our privacy and security policies, which include the obligation not to share your personal information with anyone else, under any circumstances.<br>
+<br>
+To be completely clear about all this, we will never under any circumstances sell or rent any of your personal information to any third parties for their own marketing purposes.<br>
+<br>
+We may, from time to time, send you an e-mail regarding our products and services. If you do not wish to receive such mailings, simply click on the “unsubscribe” link at the bottom of the email or&nbsp;contact us&nbsp;directly.<br>
+<br>
+Additional Online Security:<br>
+<br>
+Keeping your personal financial information private is vitally important to us.<br>
+<br>
+If you purchase our products online, your name, address, and credit card or bank account information are needed in order to fulfill your order. Any time we ask for a credit card or bank account number, we always transmit that credit card number in an encrypted format which keeps it from being understood by unauthorized people. We use state-of-the-art, industry-standard, SSL (secure socket layer) encryption to ensure that is the case.<br>
+<br>
+In fact, we take all possible organizational, technical and administrative measures to protect your personal information. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure, even by a company such as ours that goes to the lengths we do to ensure your privacy and security. In short, we cannot absolutely ensure or warrant the security of any information you transmit to us – no one can – and therefore ultimately you do so at your own risk.<br>
+<br>
+Copyright<sup style="font-size: 10px; vertical-align: top;">©</sup>&nbsp;2013, NSA. All rights reserved.</p>
+<p><br type="_moz">
+</p>
+</div>
+</div>
+
+	</div>
+</div>
+
+
+                 
+
+
+<div class="footer">
+        <div class="newsletter">
+            <div class="content-container">
+                <div class="newsletter-blurb">
+                    <h3>Stay Connected</h3>
+                    <p>Join our Email Newsletter to stay connected with Juice Plus+.</p>
+                </div>
+                <div class="form-section">
+                    <form action="/content/JuicePlus/en/about-us/join-email-list.html" id="footer-signup">
+                        <fieldset>
+                            <div class="input-text">
+                                <input class="cq-auto-clear" type="text" value="Your Email Address" name="email" id="newsletter-subscription" data-name="Your Email Address">
+                            </div>
+                            <input type="button" value="Sign up" name="" class="sign_up">
+                        </fieldset>
+                    </form>
+                </div>
+                <img class="leaves" src="/etc/designs/orangeness/images/static/footer-leaves.png">
+                <img class="blueberries" src="/etc/designs/orangeness/images/static/footer-blueberries.png">
+            </div>
+        </div>
+        <div class="footer-links">
+            <div class="content-container">
+                <div class="col-left">
+                    <h3>Main Sections</h3>
+                    <div class="sitemap parbase"><div class="sitemap"><div class="group"><div class="level1">
+    	   <a href="/content/JuicePlus/en/what-is-juice-plus.html">What is Juice Plus+?</a>
+    	</div><div class="level2">
+    	   <a href="/content/JuicePlus/en/what-is-juice-plus/what-is-juice-plus.html">What is Juice Plus+?</a>
+    	</div><div class="level2">
+    	   <a href="/content/JuicePlus/en/what-is-juice-plus/importance-of-a-healthy-diet.html">Importance of a Healthy Diet</a>
+    	</div><div class="level2">
+    	   <a href="/content/JuicePlus/en/what-is-juice-plus/whole-food-based-nutrition.html">Whole Food Based Nutrition</a>
+    	</div><div class="level2">
+    	   <a href="/content/JuicePlus/en/what-is-juice-plus/benefits0.html">Benefits</a>
+    	</div><div class="level2">
+    	   <a href="/content/JuicePlus/en/what-is-juice-plus/childrens-health-study.html">Children's Health Study</a>
+    	</div><div class="level2">
+    	   <a href="/content/JuicePlus/en/what-is-juice-plus/farm-fresh-nutrition.html">Farm Fresh Nutrition</a>
+    	</div></div><div class="group"><div class="level1">
+    	   <a href="/content/JuicePlus/en/clinical-research.html">Clinical Research</a>
+    	</div><div class="level2">
+    	   <a href="/content/JuicePlus/en/clinical-research/clinical-research.html">Clinical Research</a>
+    	</div><div class="level2">
+    	   <a href="/content/JuicePlus/en/clinical-research/juice-plus-clinical-research.html">Clinical Research Results</a>
+    	</div><div class="level2">
+    	   <a href="/content/JuicePlus/en/clinical-research/published-medical-and-scientific-journals.html">Published Medical &amp; Scientific Journals</a>
+    	</div><div class="level2">
+    	   <a href="/content/JuicePlus/en/clinical-research/clinical-research-underway.html">Clinical Research Underway</a>
+    	</div><div class="level2">
+    	   <a href="/content/JuicePlus/en/clinical-research/expert-testimonials.html">Experts Review Juice Plus+</a>
+    	</div></div><div class="group"><div class="level1">
+    	   <a href="/content/JuicePlus/en/about-us.html">About Us</a>
+    	</div><div class="level2">
+    	   <a href="/content/JuicePlus/en/about-us/nsa-story.html">Our Story</a>
+    	</div><div class="level2">
+    	   <a href="/content/JuicePlus/en/about-us/Juice_Plus_Giving_Back.html">Giving Back</a>
+    	</div><div class="level2">
+    	   <a href="/content/JuicePlus/en/about-us/library.html">Library</a>
+    	</div><div class="level2">
+    	   <a href="/content/JuicePlus/en/about-us/events.html">Events</a>
+    	</div><div class="level2">
+    	   <a href="/content/JuicePlus/en/about-us/join-email-list.html">Join Email List</a>
+    	</div><div class="level2">
+    	   <a href="/content/JuicePlus/en/about-us/contact-us.html">Contact Us</a>
+    	</div></div><div class="group" style="height: auto;"><div class="level1">
+    	   <a href="/content/JuicePlus/en/community.html">Community</a>
+    	</div><div class="level2" style="display: none;">
+    	   <a href="/content/JuicePlus/en/community/Live_Live_to_the_Plus.html">Live Live to the Plus+</a>
+    	</div></div><div class="group" style="height: auto;"><div class="level1">
+    	   <a href="/content/JuicePlus/en/buy.html">Buy</a>
+    	</div><div class="level2" style="display: none;">
+    	   <a href="/content/JuicePlus/en/buy/orchard-and-garden-blends.html">Juice Plus+ ® Orchard and Garden Blend</a>
+    	</div><div class="level2" style="display: none;">
+    	   <a href="/content/JuicePlus/en/buy/vineyard-blends.html">Juice Plus+ Vineyard Blend</a>
+    	</div><div class="level2" style="display: none;">
+    	   <a href="/content/JuicePlus/en/buy/juice-plus--vineyard-blend-chewables.html">Juice Plus+ Vineyard Blend Chewables</a>
+    	</div><div class="level2" style="display: none;">
+    	   <a href="/content/JuicePlus/en/buy/juice-plus--orchard-and-garden-blend-chewables--child-serving.html">Juice Plus+ Orchard and Garden Blend Chewables (Child)</a>
+    	</div><div class="level2" style="display: none;">
+    	   <a href="/content/JuicePlus/en/buy/juice-plus--complete-variety.html">Juice Plus+ Complete Variety Drink Mix</a>
+    	</div><div class="level2" style="display: none;">
+    	   <a href="/content/JuicePlus/en/buy/juice-plus--complete-chocolate.html">Juice Plus+ Complete Dutch Chocolate</a>
+    	</div><div class="level2" style="display: none;">
+    	   <a href="/content/JuicePlus/en/buy/juice-plus--complete-vanilla.html">Juice Plus+ Complete French Vanilla</a>
+    	</div><div class="level2" style="display: none;">
+    	   <a href="/content/JuicePlus/en/buy/alternate.html">Struggling to eat healthier?</a>
+    	</div></div>
+
+</div></div>
+
+                    <ul class="additional-links">
+                       <li><a href="https://www.bbb.org/online/consumer/cks.aspx?id=109042715639" target="_blank" class="bbb" title="BBB Accreditted Business">BBB</a></li>
+                       <li><a href="http://www.nsf.org/Certified/Dietary/Listings.asp?Company=C0035286&amp;Standard=173" target="_blank" class="nsf" title="NSF">NSF</a></li>
+                       <li class="comodo">
+                            <script language="javascript" type="text/javascript">
+                            //<![CDATA[
+                            var cvc_loc0=(window.location.protocol == "https:")? "https://secure.comodo.net/trustlogo/javascript/trustlogo.js" :
+                            "http://www.trustlogo.com/trustlogo/javascript/trustlogo.js";
+                            document.writeln('<scr' + 'ipt language="JavaScript" src="'+cvc_loc0+'" type="text\/javascript">' + '<\/scr' + 'ipt>');
+                            //]]>
+                            </script><script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/trustlogo.js" type="text/javascript"></script>
+ 
+                                             
+                            <!--
+                            TrustLogo Html Builder Code:
+                            Shows the logo at URL /etc/designs/orangeness/images/static/secure_site4.gif
+                            Logo type is  ("SC5")
+                            undefined
+                            //-->
+
+                            <script type="text/javascript">TrustLogo("/etc/designs/orangeness/images/static/secure_site4.gif", "SC5", "none");</script>
+                        </li>
+                        <li><a href="/content/JuicePlus/en/about-us/Satisfaction-Guaranteed.html" target="_blank" class="satisfaction" title="Satisfaction Guaranteed">Satisfaction Guaranteed</a></li>
+                    </ul>
+                </div>
+                
+                <div class="col-right">
+                    <h3>Follow Us</h3>
+                    <ul class="social-links">
+                        <li><a href="https://www.facebook.com/juiceplus" class="fb" title="Juice Plus+ on Facebook" target="_blank">Juice Plus+ on Facebook</a></li>
+                        <li><a href="https://twitter.com/juiceplus" class="twt" title="Juice Plus+ on Twitter" target="_blank">Juice Plus+ on Twitter</a></li>
+                        <li><a href="http://www.youtube.com/user/OfficialJuicePlus" class="yt" title="Juice Plus+ on YouTube" target="_blank">Juice Plus+ on YouTube</a></li>
+                        <li style="margin-right: 0"><a href="https://plus.google.com/102858951278600572136" class="gplus" title="Juice Plus+ on Google+" target="_blank">Juice Plus+ on Google+</a></li>
+                    </ul>
+
+                    <h3>Also Visit</h3>
+                    <ul class="also-visit-links">
+                    
+                        <li><a href="http://www.childrenshealthstudy.com/" class="chs" target="_blank">Juice Plus + Children's Health Study</a></li>
+                        <li><a href="http://www.juiceplusvirtualfranchise.com/" class="vf" target="_blank">Juice Plus + Virtual Franchise</a></li>
+                        <li style="margin-right: 0"><a href="https://www.towergarden.com/" class="tg" target="_blank">Tower Garden</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="bottom-info">
+            <div class="content-container">
+                <p>
+                   © 2013, NSA Juice Plus+®. All rights reserved. Juice Plus+® and JuicePlus.com® are registered trademarks of NSA.
+                </p>
+                <p>
+                    <a href="/content/JuicePlus/en/trademark.html">Trademark</a>&nbsp;|&nbsp;
+                    <a href="/content/JuicePlus/en/disclaimer.html">Disclaimer</a>&nbsp;|&nbsp;
+                    <a href="/content/JuicePlus/en/privacy-statement.html">Privacy Statement</a>
+                </p>
+            </div>      
+        </div>
+    </div>
+</div><!-- wrapper -->
+
+<!-- GA starts -->
+<script type="text/javascript">
+if(window.location.href.indexOf("juiceplus.com")>=0)
+{
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17384372-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+}
+</script>
+<!-- GA ends -->
+
+
+
+</body></html>
