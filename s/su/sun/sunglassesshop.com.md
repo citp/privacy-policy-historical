@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunglassesshop.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215110342id_/http%3A//us.sunglassesshop.com/help-and-about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunglassesshop.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615013750id_/http%3A//www.sunglassesshop.com/help-and-about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : Sunglasses Shop Privacy Information : Shop For Sunglasses
 
@@ -41,44 +41,18 @@ You can contact us at any time and request details of any of the information you
 
 You can contact Sunglasses Shop Customer Services by email:
 
-customerservices@sunglassesshop.com
+us@sunglassesshop.com
 
-or by calling 01702 435046
+or by calling: (347) 269-0551 or Toll Free: 1855 2611582
 
 or in writing at:
 
 Sunglasses Shop  
-17 High Street  
-Southend on Sea  
-Essex  
-United Kingdom  
-SS1 1JE
+Unit 3  
+Gemini House  
+Hargreaves Road  
+Groundwell  
+Swindon  
+SN25 5AJ
 
 ## What's New From Ray-Ban
-
-  * [](http://us.sunglassesshop.com/ray-ban/4125/matte-transparent-mirrored-brown-64669/37908.aspx "Ray-Ban 4125 Matte Transparent Mirrored Brown 646/69")
-
-$185.91
-
-  * [](http://us.sunglassesshop.com/ray-ban/4173/opal-grey-60069a-polarised/37907.aspx "Ray-Ban 4173 Opal Grey 60069a Polarised")
-
-$254.24
-
-  * [](http://us.sunglassesshop.com/ray-ban/4125/matte-transparent-mirrored-green-64619/37905.aspx "Ray-Ban 4125 Matte Transparent Mirrored Green 646/19")
-
-$185.91
-
-  * [](http://us.sunglassesshop.com/ray-ban/4189/shiny-blue-600513/37837.aspx "Ray-Ban 4189 Shiny Blue 600513")
-
-$147.78
-
-  * [](http://us.sunglassesshop.com/ray-ban/4184/black-crystal-6019a-polarised/37836.aspx "Ray-Ban 4184 Black Crystal 601/9a Polarised")
-
-$235.17
-
-  * [](http://us.sunglassesshop.com/ray-ban/4188/blue-600513/37752.aspx "Ray-Ban 4188 Blue 600513")
-
-$147.78
-
-
-
