@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savethestudent.org privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116004233id_/http%3A//www.savethestudent.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethestudent.org privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615004514id_/http%3A//www.savethestudent.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Save the Student!
+# Privacy Policy - Save the Student
 
 This privacy policy sets out how this website (www.savethestudent.org) uses and protects any information that you may provide when you use the site. The website is owned and operated by Grip Media Limited. This policy is effective from 12th April 2012.
 
