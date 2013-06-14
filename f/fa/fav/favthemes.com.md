@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the favthemes.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123151806id_/http%3A//www.favthemes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favthemes.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614052549id_/http%3A//www.favthemes.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - FavThemes - Joomla! Responsive Templates and Extensions
-
-##  [ Privacy Policy](http://www.favthemes.com/privacy-policy.html)
 
 This Privacy Policy governs the manner in which FavThemes collects, uses, maintains and discloses information collected from users (each, a "User") of the www.favthemes.com website ("Site"). This privacy policy applies to the Site and all products and services offered by FavThemes.
 
@@ -14,32 +12,23 @@ We may collect personal identification information from Users in a variety of wa
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**Web browser cookies**
-
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
-
 **How we use collected information**
 
 FavThemes may collect and use Users personal information for the following purposes:
 
-\- To improve customer service
-
+\- To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-\- To personalize user experience
-
+\- To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-\- To improve our Site
-
+\- To improve our Site  
 We may use feedback you provide to improve our products and services.
 
-\- To process payments
-
+\- To process payments  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
 
-\- To send periodic emails
-
+\- To send periodic emails  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 **How we protect your information**
@@ -60,9 +49,5 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
-
-www.favthemes.com
-
-[ ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy14953%20=%20'hello'%20+%20'@';%20addy14953%20=%20addy14953%20+%20'favthemes'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy14953%20+%20'\\'%3E'\);%20document.write\(addy14953\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)[hello@favthemes.com](mailto:hello@favthemes.com)  
-[support@favthemes.com](mailto:support@favthemes.com)[](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy40002%20=%20'hello'%20+%20'@';%20addy40002%20=%20addy40002%20+%20'favthemes'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy40002%20+%20'\\'%3E'\);%20document.write\(addy40002\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+[hello@favthemes.com](mailto:hello@favthemes.com)
