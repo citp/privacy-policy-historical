@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alldb.in privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214091541id_/http%3A//www.alldb.in/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldb.in privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614222615id_/http%3A//in.wowsome.com/site/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - AllDb
+# Privacy Policy - Wowsome
 
-Privacy Policies for "AllDb.in", hereinafter referred to as "we", "our" or "us" in this Privacy Statement "You" hereinafter is referred to as ("Your Parents" in the case of minors who are required to take their consent) or "The Registered User" or "Any other User" who uses this site. 
+Privacy Policies for "wowsome.com", hereinafter referred to as "we", "our" or "us" in this Privacy Statement "You" hereinafter is referred to as ("Your Parents" in the case of minors who are required to take their consent) or "The Registered User" or "Any other User" who uses this site. 
 
 We display Ads using Google Adsense. You should read Google's privacy policy at: <http://www.google.com/privacy.html>.
 
@@ -41,6 +41,3 @@ From time to time we may set up websites in support of specific promotions. When
 ### Changes to this Statement
 
 We reserve the right to change this Privacy Statement at any time and we will take reasonable steps to advise you of any material changes. However, you should review this Privacy Statement from time to time to ensure that you are aware of and accept any changes made. For example, your continued consent to our collection, use and disclosure practices following notification of any material change and/or your continued access of our Website following the posting on the Website of any material changes to the privacy statement will signify your acceptance of, and agreement to be bound by, the terms of the modified Privacy Statement. At any time, if you do not consent to our privacy policy, you are requested to discontinue usage.
-
-  
-
