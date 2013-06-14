@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canada.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212010017id_/http%3A//o.canada.com/2012/08/10/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canada.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615014313id_/http%3A//o.canada.com/2012/08/10/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | canada.com
 
@@ -42,7 +42,7 @@ Our Privacy Officers are accountable for our compliance with this Privacy Statem
 
 BY EMAIL:
 
-Western Canada (Times Colonist, The Vancouver Sun, The Province, Calgary Herald, Edmonton Journal):[WesternPrivacyOfficer@postmedia.com](mailto:WesternPrivacyOfficer@postmedia.com)
+Western Canada (The Vancouver Sun, The Province, Calgary Herald, Edmonton Journal):[WesternPrivacyOfficer@postmedia.com](mailto:WesternPrivacyOfficer@postmedia.com)
 
 Eastern Canada (Leader-Post, StarPhoenix, National Post, Ottawa Citizen, The Windsor Star, The Gazette):[EasternPrivacyOfficer@postmedia.com](mailto:EasternPrivacyOfficer@postmedia.com)
 
@@ -56,4 +56,4 @@ Chief Privacy Officer
 1450 Don Mills Road  
 Toronto, Ontario M3B 2X7
 
-Updated: January 10, 2012
+Updated: April 30, 2013
