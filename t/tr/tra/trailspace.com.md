@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101231210id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614030136id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Trailspace.com
 
@@ -12,13 +12,13 @@ The information we collect is used to improve the content of our web services an
 
 ## Personally Identifiable Information
 
-"Personally identifiable information" is information about a person that is readily identifiable to that specific individual. It includes, for example, an individual's name, street address, e-mail address, or phone number.
+"Personally identifiable information" is information about a person that is readily identifiable to that specific individual. It includes, for example, an individual's name, street address, email address, or phone number.
 
-Personally identifiable information will not be collected unless you voluntarily send an e-mail message or fill out and send an online form (such as a gear review or forum message). Your choice not to participate in these activities will not impair your ability to access the information on this website.
+Personally identifiable information will not be collected unless you voluntarily provide it. For example, by sending an email message, including such information in an online form (such as a gear review, forum message, or member profile), or signing in using a social media account. Your choice not to participate in these activities will not impair your ability to access the information on this website.
 
 ## Message Boards, Public Forums, and Gear Reviews
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
+Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, or by signing in with a social media account - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
 
 ## Cookies
 
@@ -28,7 +28,7 @@ Some of our business partners (for example, advertisers) may also use cookies on
 
 ## Third Party Advertising
 
-The graphical and text-based ads appearing on this Web site are delivered to users by several Web advertising partners. Information about users' visits to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. For more information about our advertising partners and their privacy policies, please follow the links below:
+The graphical and text-based ads appearing on this website are delivered to users by several Web advertising partners. Information about users' visits to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. For more information about our advertising partners and their privacy policies, please follow the links below:
 
   * [AvantLink Privacy Policy](http://www.avantlink.com/privacy_policy.php)
   * [Commission Junction Privacy Policy](http://www.cj.com/privacy.html)
