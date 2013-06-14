@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valsparpaint.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109144909id_/http%3A//www.valsparpaint.com/en/privacy-policy/index.html%3Fref%3Dprivacypolicy_homepage_menu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valsparpaint.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615001106id_/http%3A//www.valsparpaint.com/en/privacy-policy/index.html%3Fref%3Dprivacypolicy_homepage_menu) for the most accurate reproduction.*
 
 # Privacy Policy
 
