@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubplanet.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115130138id_/http%3A//www.clubplanet.com/aboutus/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubplanet.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614232257id_/http%3A//www.clubplanet.com/aboutus/privacy.aspx) for the most accurate reproduction.*
 
 # Clubplanet - Privacy
 
