@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loco2.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212051001id_/http%3A//loco2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loco2.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614062425id_/http%3A//loco2.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Loco2
+# Privacy Policy - Loco2
 
 ### **Privacy Policy**
 
