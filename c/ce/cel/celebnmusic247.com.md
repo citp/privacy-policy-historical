@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebnmusic247.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213154650id_/http%3A//celebnmusic247.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebnmusic247.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614050429id_/http%3A//celebnmusic247.com/privacy-policy) for the most accurate reproduction.*
 
 # CelebNMusic247.com | Privacy Policy | The Truth Be Told | Celebnmusic247
 
