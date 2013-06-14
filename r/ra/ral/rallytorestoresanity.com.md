@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rallytorestoresanity.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019205415id_/http%3A//www.thedailyshow.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rallytorestoresanity.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614024304id_/http%3A//www.thedailyshow.com/help/privacy) for the most accurate reproduction.*
 
 # The Daily Show | Privacy Policy
 
