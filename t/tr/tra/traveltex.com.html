@@ -1,552 +1,1112 @@
-<!--The following is the downloaded HTML source of the traveltex.com privacy policy that was archived on 2012-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121023170000id_/http%3A//www.traveltex.com/privacy-terms-of-use) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the traveltex.com privacy policy that was archived on 2013-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615004840id_/http%3A//www.traveltex.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Privacy &amp; Terms of Use - TravelTex.com</title>
-	<link rel="shortcut icon" href="/images/favicon.ico">
-	<link rel="apple-touch-icon" href="/images/iphone-icon.png">
-	<link rel="stylesheet" type="text/css" href="/css/reset.css" media="screen">
-	<link rel="stylesheet" type="text/css" href="/css/master.css" media="all">
-	<!--[if IE]><link rel="stylesheet" type="text/css" href="/css/IE.css" media="all" /><![endif]-->
-	<!--[if gte IE 8]><link rel="stylesheet" type="text/css" href="/css/IE8.css" media="all" /><![endif]-->
-    <link rel="canonical" href="http://www.traveltex.com/privacy-terms-of-use">
-	
-	<script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAt0dlc4oINq1BQ5_VMMC6AxQ6uVi95azZxgPq8q4GvbuNKNjxwhSCHSU0zBY2IVyeTOL-YXcU7B6QSQ"></script>
-	<script type="text/javascript" language="javascript" src="/js/jquery.all.js"></script>
-	<script type="text/javascript" language="javascript" src="/js/scripts.js"></script>
-    
-    <!-- Autocomplete -->
-	<script type="text/javascript" language="javascript" src="/js/jquery.autocomplete.pack.js"></script>
-	<script type="text/javascript" language="javascript" src="/js/jquery.ajaxQueue.js"></script>
-	<link rel="stylesheet" type="text/css" href="/css/jquery.autocomplete.css" media="all">
-	<!-- Search Scripts & CSS -->
-	<script type="text/javascript" language="javascript" src="/js/regionsReplacement.js"></script>
-	<link rel="stylesheet" type="text/css" href="/css/redmond.datepick.css" media="all">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><title>
+	Travel Tex | It's like a WHOLE OTHER COUNTRY
+</title>
+    <base href="/">
 
-    <!-- Trip Planner Scripts -->
-	<script type="text/javascript" language="javascript" src="/js/tripPlanner.js"></script>
-	<!--[if lte IE 6]><script type="text/javascript" language="javascript" src="/js/scripts_lte_IE6.js"></script><![endif]-->
-	
-	
-    
-	<script type="text/javascript" language="javascript">/* <![CDATA[ */
-	    function setIsSignIn(anAction)
-        {
-            var lRetVal = true;
-            document.getElementById("hfLogAction").value = anAction;
-            document.getElementById("aspnetForm").submit();
-            return lRetVal;
-        }
-        // Initialization scripts
-        var map = false;
-        function initialize_scripts() {
-            if (map) {
-                initialize_gmap();
+    <link href="/css/stylesheet.css" type="text/css" rel="stylesheet"><link href="/css/aresCalendarStyles.css" type="text/css" rel="stylesheet"><link rel="SHORTCUT ICON" href="../media/1087333/favicon.ico">
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-9FMZ"></script><script type="text/javascript" src="/js/jquery-latest.js"></script>
+    <script type="text/javascript" src="/js/jqueryui.js"></script>
+    <script type="text/javascript" src="/js/plugins.js"></script>
+    <script type="text/javascript" src="/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/js/traveltex.js"></script>
+    <script type="text/javascript">
+
+        // hotfix for ie 10 img / link buttons http://stackoverflow.com/questions/13299685/ie10-sending-image-button-click-coordinates-with-decimals-floating-point-values
+        $(function () {
+            // Patch fractional .x, .y form parameters for IE10.
+            if (typeof (Sys) !== 'undefined' && Sys.Browser.agent === Sys.Browser.InternetExplorer && Sys.Browser.version === 10) {
+                Sys.WebForms.PageRequestManager.getInstance()._onFormElementActive = function Sys$WebForms$PageRequestManager$_onFormElementActive(element, offsetX, offsetY) {
+                    if (element.disabled) {
+                        return;
+                    }
+                    this._activeElement = element;
+                    this._postBackSettings = this._getPostBackSettings(element, element.name);
+                    if (element.name) {
+                        var tagName = element.tagName.toUpperCase();
+                        if (tagName === 'INPUT') {
+                            var type = element.type;
+                            if (type === 'submit') {
+                                this._additionalInput = encodeURIComponent(element.name) + '=' + encodeURIComponent(element.value);
+                            }
+                            else if (type === 'image') {
+                                this._additionalInput = encodeURIComponent(element.name) + '.x=' + Math.floor(offsetX) + '&' + encodeURIComponent(element.name) + '.y=' + Math.floor(offsetY);
+                            }
+                        }
+                        else if ((tagName === 'BUTTON') && (element.name.length !== 0) && (element.type === 'submit')) {
+                            this._additionalInput = encodeURIComponent(element.name) + '=' + encodeURIComponent(element.value);
+                        }
+                    }
+                };
+            }
+        });
+
+    $(function () {
+        $('input[type="checkbox"]').ezMark();
+    });
+		function getCookie(name) {
+        var cookieName = name + '=';
+        var docCookie = document.cookie;
+        var cookieStart;
+        var end;
+        if (docCookie.length > 0) {
+            cookieStart = docCookie.indexOf(cookieName);
+            if (cookieStart != -1) {
+                cookieStart = cookieStart + cookieName.length;
+                end = docCookie.indexOf(";", cookieStart);
+                if (end == -1) {
+                    end = docCookie.length;
+                }
+                return unescape(docCookie.substring(cookieStart, end));
             }
         }
-		/* ]]> */
+        return false;
+    }
+
+    $(document).ready(function () {
+
+
+        var fontVal = getCookie('setFontSize');
+        if (fontVal == '1') {
+            $('body').removeClass('small');
+            $('body').addClass('large');
+        } else {
+            $('body').addClass('small');
+            $('body').removeClass('large');
+        }
+        $('.sparkbox-custom').sbCustomSelect();
+        $('.top-links select').sbCustomSelect();
+
+        $(".close-logo-popup").click(function () {
+            $(this).parent('.logo-popup').hide();
+        });
+
+        $(".logos li a").attr('target', '_blank');
+        $("a.offsite").attr('target', '_blank');
+        $(".social li a").attr('target', '_blank');
+
+        //alt text for images
+        $("img").each(function () {
+            var img = $(this);
+            if ($(this).attr('src') != undefined) {
+                var name = $(this).attr('src').split('/');
+                name = name[name.length - 1].split('.')[0];
+                if (!img.attr("alt") || img.attr("alt") == "") {
+                    img.attr("alt", name);
+                }
+            }
+        });
+
+        $(".resizer .small a").click(function () {
+            $('body').addClass('small');
+            $('body').removeClass('large');
+            set_cookie_geo('setFontSize', '0');
+
+        });
+
+        $(".resizer .large a").click(function () {
+            $('body').removeClass('small');
+            $('body').addClass('large');
+            set_cookie_geo('setFontSize', '1');
+        });
+    });
+    </script>
+
+	
+	
+	<style>
+		.logo-popup label{top: -2px!important;}
+		@media all and (min-width: 1231px) and (max-width: 1280px) {
+			.favorites .content-pane{width: 707px!important;}
+		}
+		.results-stamp {width: 60px;}
+	</style>
+ 
+	<script type="text/javascript">
+		if (typeof ItemEditing == 'undefined') {
+	$('div[class=map]').each(function() {
+
+		$(this).addClass('mapdimensions');
+		var mapId = $(this).attr('id');
+		
+		var value = $(this).html();
+		value = $.trim(value);
+		
+		var point = value.split(',');
+
+		var lat = parseFloat(point[0]);
+		var lon = parseFloat(point[1]);
+		var zoom = parseFloat(point[2]);
+		
+		fm.maps[fm.maps.length] = new GMap2(document.getElementById(mapId));
+		var m = fm.maps[fm.maps.length-1];
+		
+		var p = new GLatLng(lat, lon);
+		m.setCenter(p, zoom); 
+			
+
+		var marker = new GMarker(p);
+		m.addOverlay(marker);	
+	});
+
 	</script>
-	
-	<!-- Interior.master.cs Page_Init
-userRequestBrowserType = Mozilla/5.0 (compatible; archive.org_bot; Archive-It; +http://archive-it.org/files/site-owners.html)
-userDeviceIsMobileBrowser = false 
-Request.QueryString[noMobile] = is null or empty string
-Interior.master.cs Page_Load
-userDeviceIsMobileBrowser = false
-http://www.traveltex.com/privacy-terms-of-use
- -->
-	<script type="text/javascript" src="http://ds.serving-sys.com/BurstingRes/CustomScripts/mmConversionTag.js"></script>
-	
-	<script type="text/javascript" src="/js/popup_survey.js"></script>
-    <script type="text/javascript">
-  var tpVars = [];
-  tpVars['wsdl'] = 'http://www.traveltex.com';
-  tpVars['gkey'] = 'ABQIAAAATa1W-r6G8FBEsOac5Y4uKBTCb_WrYfpkuvTyPx9HDQyyRWz2DhS6b8At8q1dd4xkzgEN7uRZ2SpSog';
-</script>
-    
-    
-    
 
-    
-</head>
-<body id="ctl00_masterBody" onload="initialize_scripts();">
-    <form name="aspnetForm" method="post" action="/privacy-terms-of-use" id="aspnetForm" onsubmit="return(!searchHasFocus)">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzNTg4NjA4MjcPZBYCZg9kFghmDxYCHgRUZXh0BRZQcml2YWN5ICYgVGVybXMgb2YgVXNlZAICDxYCHwAF4wJJbnRlcmlvci5tYXN0ZXIuY3MgUGFnZV9Jbml0CnVzZXJSZXF1ZXN0QnJvd3NlclR5cGUgPSBNb3ppbGxhLzUuMCAoY29tcGF0aWJsZTsgYXJjaGl2ZS5vcmdfYm90OyBBcmNoaXZlLUl0OyAraHR0cDovL2FyY2hpdmUtaXQub3JnL2ZpbGVzL3NpdGUtb3duZXJzLmh0bWwpCnVzZXJEZXZpY2VJc01vYmlsZUJyb3dzZXIgPSBmYWxzZSAKUmVxdWVzdC5RdWVyeVN0cmluZ1tub01vYmlsZV0gPSBpcyBudWxsIG9yIGVtcHR5IHN0cmluZwpJbnRlcmlvci5tYXN0ZXIuY3MgUGFnZV9Mb2FkCnVzZXJEZXZpY2VJc01vYmlsZUJyb3dzZXIgPSBmYWxzZQpodHRwOi8vd3d3LnRyYXZlbHRleC5jb20vcHJpdmFjeS10ZXJtcy1vZi11c2UKZAIDDxYCHwAF2AE8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCc+CiAgdmFyIHRwVmFycyA9IFtdOwogIHRwVmFyc1snd3NkbCddID0gJ2h0dHA6Ly93d3cudHJhdmVsdGV4LmNvbSc7CiAgdHBWYXJzWydna2V5J10gPSAnQUJRSUFBQUFUYTFXLXI2RzhGQkVzT2FjNVk0dUtCVENiX1dyWWZwa3V2VHlQeDlIRFF5eVJXejJEaFM2YjhBdDhxMWRkNHhremdFTjd1UloyU3BTb2cnOwo8L3NjcmlwdD5kAgcPFgIeBm9ubG9hZAUVaW5pdGlhbGl6ZV9zY3JpcHRzKCk7FgICAQ9kFgYCDw8WAh8ABbMBPHAgaWQ9J3NpZ25pbic+PGEgaHJlZj0nL215LWFjY291bnQnPjxpbWcgc3JjPSdpbWFnZXMvaGVhZGVyX3NpZ25pbi5naWYnIGFsdD0nU2lnbiBpbiB0byB5b3VyIGFjY291bnQnIHRpdGxlPSdTaWduIGluIHRvIHlvdXIgYWNjb3VudCcgd2lkdGg9Jzk3JyBoZWlnaHQ9JzMxJyBib3JkZXI9JzAnIC8+PC9hPjwvcD5kAhEPFgIfAGVkAh8PZBYEAgEPZBYEZg9kFgJmDxYEHwAFMSAgICAgICAgICAgIDx1bCBpZD0ic3VibmF2Ij4NCiAgICAgICAgICAgIDwvdWw+DQoeB1Zpc2libGVoZAIED2QWBAICDxYCHwJoZAIEDxYCHwJoZAIFD2QWAgIBDxYCHglpbm5lcmh0bWwFRzxsaT48YSBocmVmPSIvIj5Ib21lPC9hPiAmZ3Q7Jm5ic3A7PC9saT48bGk+UHJpdmFjeSAmIFRlcm1zIG9mIFVzZTwvbGk+ZGRj8T3Y6zGK6hQljgX23/AXpb23/w==">
-
-
-    <input type="hidden" name="hfLogAction" id="hfLogAction">
-    <input type="hidden" name="openTripPlanner" id="openTripPlanner" value="false">
-	<input type="hidden" name="openTripPlannerAction" id="openTripPlannerAction" value="false">
-    <input type="hidden" name="addToTripID" id="addToTripID" value="">
+	<!--[if lt IE 9]>
+	<script src="/js/css3-mediaqueries.js"></script>
 	
-	<noscript>
-		<p id="headerNoScript">You currently have JavaScript blocked. In order to fully experience the features on TravelTex.com, please enable JavaScript. <a href="/help#javascriptHelp">Learn how</a>.</p>
-	</noscript>
-	
-    <div id="container">
-	    <a name="top"></a>
-		<!-- HEADER STARTS -->
-	    <div id="header" class="clearfix">
-    		
-		    <p id="logo"><a href="/"><img src="images/logo.png" width="333" height="55" alt="Texas — It’s like a whole other country.®" title="Texas - It’s like a whole other country.®"></a></p>
-    		
-		    <p class="hidden"><a href="#nav">Skip to Navigation</a><br><a href="#content">Skip to Content</a></p>
-    		
-		    <div id="rtHeader">
-			    <ul id="langLinks">
-				    <li><a href="http://www.traveltex.mx" onclick="mmConversionTag(167278, this, '_self', 'http://www.traveltex.mx'); return false;" title="Spanish">Español</a></li>
-				    <li><a href="portuguese" title="Portuguese">Português</a></li>
-				    <li><a href="french" title="French">Français</a></li>
-				    <li><a href="german" title="German">Deutsch</a></li>
-				    <li class="cn"><a href="http://traveltexas.net.cn" onclick="mmConversionTag(167282, this, '_self', 'http://traveltexas.net.cn'); return false;" title="Chinese"><span>中文</span></a></li>
-				    <li class="jp"><a href="http://traveltex.co.jp" onclick="mmConversionTag(167281, this, '_self', 'http://traveltex.co.jp'); return false;" title="Japanese"><span>日本語</span></a></li>
-				    <li class="kr"><a href="http://traveltex.co.kr" onclick="mmConversionTag(167283, this, '_self', 'http://traveltex.co.kr'); return false;" title="Korean"><span>한국어</span></a></li>
-			    </ul>
-			    <br class="clear">
-    			
-			    <!-- ACCOUNT SIGNIN/OUT STARTS -->
-			    <div id="acct">
-      				<p id="signin"><a href="/my-account"><img src="images/header_signin.gif" alt="Sign in to your account" title="Sign in to your account" width="97" height="31" border="0"></a></p>
-	    			
-			    </div>
-			    <!-- /ACCOUNT SIGNIN/OUT ENDS -->
-		    </div>
-    		
-		    <br class="clear">
-    		
-		    <!-- NAV STARTS -->
-		    <div id="nav" class="clearfix">
-			    <span id="nav_tab_lft"></span>
-			    <p class="hidden"><a name="nav"></a></p>
-			    <ul>
-			        <li id="ctl00_car" class="nav_cr"><a href="places-to-go" title="Places To Go"><span>Places To Go</span></a>
-					    <ul>
-						    <li><a href="places-to-go/regions">Regions</a></li>
-						    <li><a href="places-to-go/cities">Cities</a></li>
-						    <li><a href="places-to-go/parents-and-teachers">Parents &amp; Teachers</a></li>
-						   
-					    </ul>
-				    </li>
-				    <li id="ctl00_ttd" class="nav_ttd"><a href="things-to-do" title="Things To Do"><span>Things To Do</span></a>
-						<ul>
-							<li><a href="things-to-do/attractions">Attractions</a></li>
-							<li><a href="things-to-do/events">Events</a></li>
-						</ul>
-					</li>
-				    <li id="ctl00_pyt" class="nav_pyt"><a href="plan-your-trip" title="Plan Your Trip"><span>Plan Your Trip</span></a>
-				        <ul>
-				                <li><a href="plan-your-trip/trip-planner">Trip Planner</a></li>
-				                <li><a href="plan-your-trip/travel-guide">Travel Guide</a></li>
-						        <li><a href="plan-your-trip/lodging">Lodging</a></li>							
-						        <li><a href="plan-your-trip/packages-discounts">Travel Packages &amp; Deals</a></li>
-						        <li><a href="plan-your-trip/driving-tours">Driving Tours</a></li>
-						        <li><a href="plan-your-trip/day-trips">Day Trips</a></li>
-						        <li><a href="plan-your-trip/download-texas-maps">Texas Travel Maps</a></li>
-						        <li><a href="plan-your-trip/laws-highway-info">Laws &amp; Highway Info</a></li>
-						        <!--<li><a href="plan-your-trip/goexploring">Go Exploring</a></li>-->
-						        <!--<li><a href="plan-your-trip/anniversary">175th Anniversary</a></li>-->
-								<!--<li><a href="plan-your-trip/howdy-neighbor">Howdy, Neighbor!</a></li>-->
-				        </ul>
-				    </li>
-				    <li id="ctl00_mlt" class="nav_mlt"><a href="multimedia" title="Multimedia"><span>Multimedia</span></a>
-					    <ul>
-					        <li><a href="multimedia/texas-videos">Texas Videos</a></li>
-						    <li><a href="multimedia/podcast-walking-tours">Podcast Walking Tours</a></li>
-						    <li><a href="things-to-do/attractions/music/texas-radio">Texas Radio</a></li>
-						    
-						    
-					    </ul>
-				    </li>
-				    <li id="ctl00_hlp" class="nav_hlp"><a href="help" title="Help"><span>Help</span></a></li>
-			    </ul>
-			    <span id="nav_tab_rt"></span>
-		    </div><!-- /NAV ENDS -->
-    		
-		    <!-- GLOBAL SEARCH STARTS -->
-		    <div id="gs_container" class="subpage">
-				<!-- SOCIAL NETWORKING LINKS -->
-				<div id="social_networking">
-					<ul>
-						<li id="twit" title="Twitter"><a href="http://twitter.com/texastourism" target="_blank">Twitter</a>
-						</li><li id="face" title="Facebook"><a href="http://www.facebook.com/TexasTourism" target="_blank">Facebook</a></li>
-                        <li id="pinit" title="Pinterest"><a href="http://pinterest.com/texastourism/" target="_blank">Pinterest</a></li>
-						<li id="lodging" title="Find a hotel in Texas"><a href="/plan-your-trip/lodging">Find a hotel in Texas</a>
-					</li></ul>
-				</div>
-			    <div id="global_search">
-				    <fieldset>
-					    <label for="global_search_keywords">Search TravelTex.com</label>
-					    <input type="text" id="global_search_keywords" value="" class="trapEnter_btnSearch">
-					    <input type="button" id="btnSearch" value="Search" class="submitButton CTA" onclick="if($('#global_search_keywords').val()!='Enter Keyword(s)'){document.location.href='/search?q='+$('#global_search_keywords').val();}">
-					    <p><a href="search">Advanced Search</a></p>
-				    </fieldset>
-			    </div>
-		    </div><!-- /GLOBAL SEARCH ENDS -->
-    		
-    		
-    		
-	    </div>
-	    <!-- /HEADER ENDS -->
-    	
-    	<!-- CONTENT AREA STARTS -->
-	    <p class="hidden"><a name="content"></a></p>
-	    <div id="content" class="clearfix">
-            
-		    <!-- LEFT SIDE STARTS -->
-    		
-        <div class="left">
-        			
-			<!-- SUBNAV STARTS -->
-			
+	<![endif]-->
+<link href="/WebResource.axd?d=kANCuIpbsTsHcCdgJ9YojsI9wjb4_DFtwgxdmTFOgNUU6BUGpY8bxYkhGsnUO950jmdNMFcjIQP8oQ05SEx4IO53p5RUzP_FCN2sZk22glrdfoDvZaDHa8mgczHovwczRszKXSBepE2x3NIxVzyjXg2&amp;t=635068010588350316" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="/WebResource.axd?d=GhdEptvvZ0QA_urgaZf-sVfET5KOxz-hdAsKjk9vVSr3AMIBbWjETPA7uodWo6rzaS1EG6Zjp3SPUdEoV6uJQkgU9ylz4MANaZLujallllAu6nhUxHY8ZkZP_zPasMy52vQOGkjh3BpiNzXx66fv70RwZYtKOxLmsJpBKLNkq1k1&amp;t=635068010588350316" type="text/css" rel="stylesheet" class="Telerik_stylesheet"></head>
 
-			<!-- /SUBNAV ENDS -->
-			
-			
-			<!-- CALLOUTS START -->
-			<div id="callouts">
-		    
-			    
-			    <!-- PARTNERS CALLOUT STARTS -->
-   				
-				<!-- /PARTNERS CALLOUT ENDS -->
-			
-				<!-- TRAVEL GUIDE CALLOUT STARTS -->
-				<div id="ctl00_ContentPlaceHolder1_LeftColumn_TravelGuideCallout">
-				    <p><a href="plan-your-trip/travel-guide/order-travel-guide"><img src="images/callout_travelguide.jpg" width="201" height="138" alt="Free Travel Guide" title="Free Travel Guide"></a></p>
-				</div>
-				<!-- /TRAVEL GUIDE CALLOUT ENDS -->
-                
-                
-				<!-- PARTNERS CALLOUT STARTS -->
-   				
-				<!-- /PARTNERS CALLOUT ENDS -->
-                	
-				<!-- TRIP PLANNER PREVIEW STARTS -->
-  				<div id="ctl00_ContentPlaceHolder1_LeftColumn_tpSidebar_tpLoggedOutContainer">
-    <!-- TRIP PLANNER SIGNED OUT STARTS -->
-    <div id="tpSidebar-signedout">
-	    <div class="top"></div>
-	    <div class="mid">
-		    <h3>Sign In To Plan Your Trips</h3>
-		    <p>Discover the true Texas, right at your fingertips.</p>
-		    <p class="button"><a href="my-account"><img src="images/btn_sign_in.png" width="160" height="50" border="0" alt="Sign In" title="Sign In"></a></p>
-		    <p>If you don’t have an account, create one to get started.</p>
-		    <p class="button"><a href="my-account/sign-up"><img src="images/btn_create_account.png" width="160" height="50" border="0" alt="Create Your Account" title="Create Your Account"></a></p>
-	    </div>
-	    <div class="bottom"></div>
-    </div>
-    <!-- /TRIP PLANNER SIGNED OUT ENDS -->
+<body class="small">
+		<!-- Google Tag Manager -->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-9FMZ"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-9FMZ');</script>
+		<!-- End Google Tag Manager -->
+
+	<form method="post" action="/privacy/" id="ctl01">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAmYPZBYCZg9kFgJmD2QWAgIFEGRkFgQCAw9kFgJmD2QWBgIEDxYCHgdWaXNpYmxlaGQCBQ8UKwACDxYMHg1EYXRhVGV4dEZpZWxkBRJmb290ZXJMYW5ndWFnZVRleHQeDkRhdGFWYWx1ZUZpZWxkBQ1mb290ZXJMYW5nVXJsHgtfIURhdGFCb3VuZGceE2NhY2hlZFNlbGVjdGVkVmFsdWVkHhdFbmFibGVBamF4U2tpblJlbmRlcmluZ2geBFRleHQFB0VuZ2xpc2hkDxQrAAgUKwACDxYGHwYFB0VuZ2xpc2geBVZhbHVlBQYvaG9tZS8eCFNlbGVjdGVkZ2RkFCsAAg8WBh8GBQhFc3Bhw7FvbB8HBRdodHRwOi8vd3d3LnRyYXZlbHRleC5teB8IaGRkFCsAAg8WBh8GBQpQb3J0dWd1w6pzHwcFDS9wdC9ob21lLmFzcHgfCGhkZBQrAAIPFgYfBgUJRnJhbsOnYWlzHwcFDS9mci9ob21lLmFzcHgfCGhkZBQrAAIPFgYfBgUHRGV1dHNjaB8HBQ0vZGUvaG9tZS5hc3B4HwhoZGQUKwACDxYGHwYFCe2VnOq1reyWtB8HBRdodHRwOi8vdHJhdmVsdGV4LmNvLmtyLx8IaGRkFCsAAg8WBh8GBQnml6XmnKzoqp4fBwUXaHR0cDovL3RyYXZlbHRleC5jby5qcC8fCGhkZBQrAAIPFgYfBgUG5Lit5paHHwcFGmh0dHA6Ly90cmF2ZWx0ZXhhcy5uZXQuY24vHwhoZGQPFCsBCGZmZmZmZmZmFgEFd1RlbGVyaWsuV2ViLlVJLlJhZENvbWJvQm94SXRlbSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAxMi4yLjYwNy40MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FhRmDw8WBB4IQ3NzQ2xhc3MFCXJjYkhlYWRlch4EXyFTQgICZGQCAQ8PFgQfCQUJcmNiRm9vdGVyHwoCAmRkAgIPDxYGHwYFB0VuZ2xpc2gfBwUGL2hvbWUvHwhnZBYCZg8VAgYvaG9tZS8HRW5nbGlzaGQCAw8PFgYfBgUIRXNwYcOxb2wfBwUXaHR0cDovL3d3dy50cmF2ZWx0ZXgubXgfCGhkFgJmDxUCF2h0dHA6Ly93d3cudHJhdmVsdGV4Lm14CEVzcGHDsW9sZAIEDw8WBh8GBQpQb3J0dWd1w6pzHwcFDS9wdC9ob21lLmFzcHgfCGhkFgJmDxUCDS9wdC9ob21lLmFzcHgKUG9ydHVndcOqc2QCBQ8PFgYfBgUJRnJhbsOnYWlzHwcFDS9mci9ob21lLmFzcHgfCGhkFgJmDxUCDS9mci9ob21lLmFzcHgJRnJhbsOnYWlzZAIGDw8WBh8GBQdEZXV0c2NoHwcFDS9kZS9ob21lLmFzcHgfCGhkFgJmDxUCDS9kZS9ob21lLmFzcHgHRGV1dHNjaGQCBw8PFgYfBgUJ7ZWc6rWt7Ja0HwcFF2h0dHA6Ly90cmF2ZWx0ZXguY28ua3IvHwhoZBYCZg8VAhdodHRwOi8vdHJhdmVsdGV4LmNvLmtyLwntlZzqta3slrRkAggPDxYGHwYFCeaXpeacrOiqnh8HBRdodHRwOi8vdHJhdmVsdGV4LmNvLmpwLx8IaGQWAmYPFQIXaHR0cDovL3RyYXZlbHRleC5jby5qcC8J5pel5pys6KqeZAIJDw8WBh8GBQbkuK3mlocfBwUaaHR0cDovL3RyYXZlbHRleGFzLm5ldC5jbi8fCGhkFgJmDxUCGmh0dHA6Ly90cmF2ZWx0ZXhhcy5uZXQuY24vBuS4reaWh2QCBg8WAh8AZxYCZg8PFgIfBgUBMGRkAgkPZBYCZg9kFgJmDw9kFgIeBm9uYmx1cgUeIGphdmFzY3JpcHQ6dGV4dGJveExlYXZlKHRoaXMpZBgCBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQVDY3RsMDAkY3RsMDAkY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyRGVmYXVsdCRVY0hlYWRlcl8yJGNtYkxhbmd1YWdlcwVDY3RsMDAkY3RsMDAkY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyRGVmYXVsdCRVY0hlYWRlcl8yJGNtYkxhbmd1YWdlcw8UKwACBQdFbmdsaXNoBQYvaG9tZS9knyGHtQXEDRPEWnyLw9KaiU1IpIAt7xhZWUrsSa8LzR4=">
 </div>
 
-
-
-
-
-
-				<!-- /TRIP PLANNER PREVIEW ENDS -->
-
-				<!-- PARTNERS CALLOUT STARTS -->
-   				
-				<!-- /PARTNERS CALLOUT ENDS -->
-
-                
-				<!-- MOBILE PROMO STARTS -->
-				<p><a href="/mobile"><img height="138" width="201" alt="TravelTex Mobile" src="images/callout_mobile.jpg"></a></p>
-				<!-- /MOBILE PROMO ENDS -->
-                
-
-                <!-- NEWSLETTER SIGNUP STARTS -->
-  				
-<p><a href="newsletter-signup"><img src="images/callout_newsletter.jpg" width="201" height="138" alt="Email Newsletter" title="Email Newsletter"></a></p>
-				<!-- /NEWSLETTER SIGNUP ENDS -->
-
-                <!--RSS CALLOUTS START-->
-                
-                <!--To Appear in Things to Do-->
-                
-                
-                <!--To Appear in Weather-->
-                
-                
-                <!--To Appear in Podcast Walking Tours-->
-                
-                
-                
-                <!--To Appear on Downloads Pages-->
-                
-                                
-                <!--RSS CALLOUTS END-->
-
-			</div><!-- /CALLOUTS END -->
-			
-			
-			
-		</div>
-		    <!-- /LEFT SIDE ENDS -->
-		<!-- RIGHT SIDE STARTS -->
-		<div class="right">
-			
-			<span class="pageTitle">
-				<h1>Privacy &amp; Terms of Use</h1>
-				<!-- AddThis Button BEGIN -->
-				
-    
-    
-        <style type="text/css">
-            .addthisLink img:hover { -moz-opacity:.6; opacity:.6; filter: alpha(opacity=70); -ms-filter: "alpha(opacity=70)"; }
-        </style>
-    
-
-    <div id="AddThis">
-        <div class="addthis_toolbox addthis_default_style">
-            <a class="addthis_button_facebook"></a>
-            <a class="addthis_button_twitter"></a>
-            <a class="addthisLink" style="float:left; padding-left: 2px; padding-right:2px;" href="http://pinterest.com/texastourism/">
-                <img src="../images/pinterest_addthis.png" alt="Pin To Pinit" title="Pin To Pinit">
-            </a>
-            <a class="addthis_button_email"></a>
-            <a class="addthisLink" style="float:left; padding-right:2px; padding-left: 2px;" href="https://plus.google.com/103039810549084045847/about">
-                <img src="../images/googlePlus_addthis.png" alt="Google Plus" title="Google +">
-            </a> 
-            <a class="addthis_button_compact"></a>
-        </div>
-        <script type="text/javascript">
-            var addthis_config = {
-                data_track_addressbar: true,
-                data_ga_property: "UA-3986939-1",
-                data_ga_social: true 
-            };
-        </script>
-        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=traveltex"></script>
-    </div>
-
-				<!-- AddThis Button END -->
-			</span>
-			<!-- BREADCRUMBS STARTS -->
-    		
-			<div class="breadCrumbHolder module clearfix">
-				<p>You are here:</p>
-				<div id="breadCrumb" class="breadCrumb module">
-					<ul id="ctl00_ContentPlaceHolder1_BreadCrumbs_bcList"><li><a href="/">Home</a> &gt;&nbsp;</li><li>Privacy &amp; Terms of Use</li></ul>
-				</div>
-				<div class="chevronOverlay main"></div>
-			</div>
-
-			<!-- /BREADCRUMBS ENDS -->
-			<h2>Privacy &amp; Terms of Use</h2>		
-			<p><strong>May 2008<br>
-			State of Texas TravelTex Web Site</strong></p>
-			<p>The following is the privacy policy for this site (all pages starting with www.TravelTex.com):</p>
-			<ol>
-				<li>Cookies are used to allow the site to welcome you back to the site should you visit the site again and to set your chosen site parameters as they were on your last visit. Cookies are also used to track the number of visitors to the site. We do not use cookies to collect any information other than just described. Note: A cookie file contains unique information a web site can use to track such things as passwords, lists of pages you’ve visited, and the date when you last looked at a specific page or to identify your session at a particular web site. We do not use cookies for any of these purposes.</li>
-				<li>If you send us an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that e-mails us this information, we will only use the personally-identifiable information to respond to your request and analyze trends. We may redirect your message to another government agency or person who is in a better position to answer your question.</li>
-				<li>If you enter contact information in the course of ordering items from the site this information will only be sent to those parties requiring it for delivery unless you choose to receive additional Texas travel information. If you choose to receive additional information, your address may occasionally be made available to other Texas travel industry organizations.</li>
-				<li>If you have supplied your e-mail address and chosen to receive additional Texas travel information, it may occasionally be used to send you a message about something you have expressed an interest such as an attraction or event.</li>
-				<li>For site management functions, information is collected for analysis and statistical purposes. This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings.</li>
-			</ol>
-			<p>We use log analysis tools to create summary statistics, which are used for purposes such as assessing what information is of most interest, determining technical design specifications, and identifying system performance or problem areas. The following information is collected for this analysis:</p>
-			<p><strong>User Client hostname</strong> - The hostname (or IP address if DNS is disabled) of the user/client requesting access.</p>
-			<p><strong>HTTP header, “user-agent”</strong> - The user-agent information includes the type of browser, its version, and the operating system it’s running on.</p>
-			<p><strong>HTTP header, “referrer”</strong> - The referrer specifies the page from which the client accessed the current page.</p>
-			<p><strong>System date</strong> - The date and time of the user/client request.</p>
-			<p><strong>Full request</strong> - The exact request the user/client made.</p>
-			<p><strong>Status</strong> - The status code the server returned to the user/client.</p>
-			<p><strong>Content length</strong> - The content length, in bytes, of the document sent to the user/client.</p>
-			<p><strong>Method</strong> - The request method used.</p>
-			<p><strong>Universal Resource Identifier (URI)</strong> - The location of a resource on the server.</p>
-			<p><strong>Query string of the URI</strong> - Anything after the question mark in a URI.</p>
-			<p><strong>Protocol</strong> - The transport protocol and version used.</p>
-			<p>The site also determines the browser type and video resolution that you are using so as to best deliver the sites content for viewing and operation.</p>
-		</div><!-- /RIGHT SIDE ENDS -->
-
-	    </div>
-	    <!-- /CONTENT AREA ENDS -->
-	    
-	    <!-- FOOTER STARTS -->
-    		    
-	    <div id="footer">
-            <div id="flag"><span></span></div>
-            <div id="utilLinksLeft">
-                <ul>
-                    <li class="textsize"><a href="#" target="_parent" title="Resize Text"><span>Resize Text</span></a></li>
-                </ul>
-            </div>		    
-		    <div id="utilLinks">
-			    <ul>
-                    <!-- li class="findUs">Find us on:</li>
-                    <li class="twitter"><a href="http://twitter.com/texastourism" target="_new" title="Twitter"><span>Twitter</span></a></li>
-                    <li class="facebook"><a href="http://www.facebook.com/TexasTourism" target="_new" title="Facebook"><span>Facebook</span></a></li -->
-					<li class="rss"><a href="rss-feeds" target="_parent" title="Subscribe to RSS Feed"><span>Subscribe to RSS Feed</span></a></li>
-			    </ul>
-		    </div>
-           
-		    <hr>
-		    <div id="contact">
-			    <ul>
-				    <li><a href="contact" target="_parent">Contact Us</a>
-					    <ul>
-						    <li>
-							    Texas State Travel Guide<br>
-							    PO Box 141009, Austin, TX 78714-1009
-						    </li>
-						    <li>
-						        To order a Texas State Travel Guide,<br>
-						        please use the <a href="plan-your-trip/travel-guide/order-travel-guide" target="_parent">online order form.</a>
-						    </li>
-						    <li>
-						        Texas Events Calendar - <a href="things-to-do/events/for-event-planners" target="_parent">Submit Your Event</a><br>
-							    Contact <a href="mailto:texasevents@txdot.gov" target="_parent">texasevents@txdot.gov</a> or <br>
-							    Write to PO Box 141009 Austin,TX 78714-1009<br>
-							</li>
-							<li>
-							    Texas Department of Transportation<br>
-							    <a href="http://www.txdot.gov/travel" rel="stateLink" target="_blank">www.txdot.gov/travel</a><br>
-							    For travel assistance, call 800-452-9292.
-						    </li>
-						    <li>
-							    Office of the Governor, Economic<br>
-							    Development &amp; Tourism<br>
-							    <a href="http://www.governor.state.tx.us/ecodev" rel="stateLink" target="_blank">http://www.governor.state.tx.us/ecodev</a>
-						    </li>
-					    </ul>
-				    </li>
-			    </ul>
-		    </div>
-		<div id="sitemap" class="clearfix">
-            <h3 class="hidden"><a href="site-map" target="_parent">Sitemap</a></h3>
-			<ul>
-				<li><a href="places-to-go" target="_parent">Places To Go</a>
-                    <ul>
-						<li><a href="places-to-go/regions" target="_parent">Regions</a></li>
-						<li><a href="places-to-go/cities" target="_parent">Cities</a></li>
-						<li><a href="places-to-go/parents-and-teachers" target="_parent">Parents &amp; Teachers</a></li>
-						
-					</ul>
-				</li>
-			</ul>
-			<ul>
-				<li><a href="things-to-do" target="_parent">Things To Do</a>
-
-					<ul>
-						<li><a href="things-to-do/attractions" target="_parent">Attractions</a></li>
-						<!-- <li><a href="things-to-do/attractions/music/musician-archive">Musician Bios</a></li> -->
-						<li><a href="things-to-do/events" target="_parent">Events</a></li>
-						<!-- <li><a href="search?t=Event">Upcoming Events</a></li>
-						<li><a href="search?t=Event&u=1">Major Events</a></li>
-						<li><a href="things-to-do/events/music">Music Events</a></li>
-						<li><a href="search?t=Attraction&ct=Texas%20Music&sc=Special%20Events%20Venues">Music Venues</a></li> -->
-						
-					</ul>
-				</li>
-			</ul>
-			
-			<ul>
-			    <li><a href="plan-your-trip" target="_parent">Plan Your Trip</a>
-					<ul>
-					    <li><a href="plan-your-trip/trip-planner" target="_parent">Trip Planner</a></li>
-						<li><a href="plan-your-trip/travel-guide" target="_parent">Travel Guide</a></li>
-						<li><a href="plan-your-trip/lodging" target="_parent">Lodging</a></li>							
-						<li><a href="plan-your-trip/packages-discounts" target="_parent">Travel Packages &amp; Deals</a></li>
-						<li><a href="plan-your-trip/driving-tours" target="_parent">Driving Tours</a></li>
-						<li><a href="plan-your-trip/day-trips" target="_parent">Day Trips</a></li>
-						<li><a href="plan-your-trip/download-texas-maps" target="_parent">Texas Travel Maps</a></li>
-						<li><a href="plan-your-trip/laws-highway-info" target="_parent">Laws &amp; Highway Info</a></li>
-						<!--<li><a href="plan-your-trip/goexploring">Go Exploring</a></li> -->
-						<!--<li><a href="plan-your-trip/anniversary">175th Anniversary</a></li> -->
-						<!--<li><a href="plan-your-trip/howdy-neighbor">Howdy, Neighbor!</a></li> -->
-					</ul>
-                </li>
-			</ul>
-			
-			<ul>
-				<li><a href="multimedia" target="_parent">Multimedia</a>
-                    <ul>
-						<li><a href="multimedia/texas-videos" target="_parent">Texas Videos</a></li>
-						<li><a href="multimedia/podcast-walking-tours" target="_parent">Podcast Walking Tours</a></li>
-						<li><a href="things-to-do/attractions/music/texas-radio" target="_parent">Texas Radio</a></li>
-						<!--<li><a href="multimedia/tv-commercials-multimedia">TV Commercials</a></li>-->
-						
-					</ul>
-				</li>
-			</ul>
-		</div>
-		<hr>
-		<h4 class="hidden"><a href="#" target="_parent">TravelTex Partners</a></h4>
-            <ul id="partners" class="clearfix">
-                <li class="tt first"><a href="http://www.traveltex.com" target="_parent" title="TravelTex.com"><span>TravelTex.com</span></a></li>
-                <li class="tpw"><a href="http://www.tpwd.state.tx.us/" target="_blank" title="Texas Parks &amp; Wildlife" rel="stateLink"><span>Texas Parks &amp; Wildlife</span></a></li>
-                <li class="tdot"><a href="http://www.dot.state.tx.us/" target="_blank" title="Texas Department of Transportation" rel="stateLink"><span>Texas Department of Transportation</span></a></li>
-                <li class="tca"><a href="http://www.artonart.com/" target="_blank" title="Texas Commission on the Arts" rel="stateLink"><span>Texas Commission on the Arts</span></a></li>
-                <li class="thc"><a href="http://www.thc.state.tx.us/" target="_blank" title="Texas Historical Commission" rel="stateLink"><span>Texas Historical Commission</span></a></li>
-                <li class="to"><a href="http://www.texas.gov/" target="_blank" title="Texas.gov" rel="stateLink"><span>Texas.gov</span></a></li>
-                <li class="da"><a href="http://www.discoveramerica.com/usa/states/texas.aspx" target="_blank" title="Discover America" rel="stateLink"><span>Discover America</span></a></li>
-                <li class="esta"><a href="https://esta.cbp.dhs.gov/" target="_blank" title="ESTA"><span>ESTA</span></a></li>
-                <li class="gt last"><a href="http://www.gotexan.org/gt/jumppage/0,1486,1670_0_0_0,00.html" target="_blank" title="GO TEXAN." rel="stateLink"><span>Go Texan</span></a></li>
-            </ul>
-		<div id="footer_foot">
-			<h4><a href="http://www.traveltex.com" target="_parent">www.TravelTex.com</a></h4>
-						
-			<p class="links">
-				<a href="accessibility" target="_parent" class="first">Accessibility</a><br>
-				<a href="privacy-terms-of-use" target="_parent">Privacy &amp; Terms of Use</a><br>
-				<a href="contact" target="_parent">Contact Us</a><br>
-				<a href="site-map" target="_parent">Sitemap</a><br>
-				<a href="statewide-links" target="_parent">Links</a><br>
-				<a href="rss-feeds" target="_parent">RSS</a><br>
-				 
-				</p>
-			
-			<br class="clear">
-			<p>All Material © 2012 Office of the Governor, Economic Development and Tourism. All Rights Reserved. Reproduction in whole or in part is prohibited without the written permission of the publisher.</p>
-		</div>
-	</div>
- 	    <!-- /FOOTER ENDS -->
-    </div><!-- /CONTAINER ENDS -->
-    <!-- SIGN IN BOX STARTS -->
-	<div id="signinBox" class="overlayA">
-		<div class="ol_top"></div>
-		<div class="ol_mid">
-		<fieldset>
-			<legend>Sign In</legend>
-			
-			<h3>Sign In</h3>
-		
-			<p>Please sign in to review or change your Account Settings.<br><br>
-			<strong>Note:</strong> Please use your e-mail address instead of any username<br>you might have used in the past.</p>
-			
-			<div class="txtFields clearfix">
-				<label for="signinEmail">E-mail:</label>
-				<input type="text" id="signinEmail" name="signinEmail" class="trapEnter_btnSignLogin">
-				<label for="signinPass">Password:</label>
-				<input type="password" id="signinPass" name="signinPass" class="trapEnter_btnSignLogin">
-			</div>
-			
-			<input type="button" class="submitButton" value="Sign In" id="btnSignLogin" onclick="return setIsSignIn('signin');">
-			<input type="button" class="cancelButton" value="Cancel">
-			
-			<p class="clear">
-				<a href="my-account/forgot-password">Forgot Password?</a>&nbsp;&nbsp;
-				<a href="my-account/sign-up">Don’t have an account? Sign up now.</a>
-				<!--<a href="my-account">Don&rsquo;t have an account? Sign up now.</a>-->
-			</p>
-		</fieldset>
-		</div>
-		<div class="ol_bot"></div>
-	</div><!-- /SIGN IN BOX ENDS -->
-    </form>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-3986939-1");
-pageTracker._trackPageview();
-} catch(err) {}
+//<![CDATA[
+var theForm = document.forms['ctl01'];
+if (!theForm) {
+    theForm = document.ctl01;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
 </script>
-<script type="text/javascript">/* <![CDATA[ */var addthis_config = {data_ga_tracker: "pageTracker"};/* ]]> */</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=traveltex"></script>
 
 
-</body></html>
+<script src="/WebResource.axd?d=6oBi5gad6ZN61lE3EArLpPgrK9L0VXYqgob_qoGvT9TFq2Fd_jDytQHkoOpeWdDGsQAKYuJJS-sTeO-duoJJ_qd5JmjaniI9OQymGs3ADF81&amp;t=635015747972526640" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=zOvDis30JL-growDZZnToEgd27CaoBAlTa5v4GX7n3hgLkc8o4KOMHsI2LTswP4-3kh3wJbJY1wAF9mnIuUOLDUbwJAVkprlcw1qpgs8Ogn25od4MW0PHlOCBAHojw46WcS-ftdAQZRJg9bQSIejqGvusw5uDC0gxTaYjxa-wtM1&amp;t=ffffffff940d030f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=VLniURTwjOEQi_HEsthZ7AnY9M2lXJzRygS1jJayTEPn4V6gUWKCshF7fX4NX9QglruRR19TWmnZFioevqxfD9l-jkhXjpSqNkLx3pHqbkizlaDXqcbDIIXWYAjsQiVBYSIbjPIvO9bLx1pgkfSyb4pfYVWDQsMLrzxX85c9PLWVCxiG_nvjGYK6QFskuuRf0&amp;t=ffffffff940d030f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=VgxT1BLbyB2Qp3L-GpyNDbfOUeW-FLva-mg3V3dHXgCcdWKrzCnJej6Ok5QCUd3qk_coNVKIp_HBk2R3khO1TxfttI1HUQKJrN_LbLdG2mzkf7sHVzs-ulgat2wgpMh-ovYDF9ZCD59kVhw19WPryQ2&amp;t=605d1028" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=CJpP3x4qdGuLkTMZnV4biSje_ry-64_LCtaaDUCS1M46eu_VJiT5wXQfZFpNEsJvesLAuKQDor1hjVvfXB19inSJ3LfC9zJhetH-vgKtGR9TVeLm7QzSe-bYvltje5hYfRvaRhPoYztfm7NfYLOxYg2&amp;t=605d1028" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=WIYMSA-Nj8s-c1As2PZ4F81eERLqSutdjMSNMFzDMDsToGT2lA_kR-fuoyOtvAlZmfW_E32ff-a3OfInHaA6KocX9qnDwo0USlHuJ3eUtBMG4MjXAKUl2M5hx-1M4vr851VEEP74_8Yij2-w1k7dbQ2&amp;t=605d1028" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Jk6N7dsYpNhSA13YqTteraEurSJMwaS0qiKRjvKP6iOa_4NFTU5Mn-wyNvENHhjHCSkohbJgu3c4b8shyeIn2-EQ6IombBbI1iP6b548fmkf5xYFHhlFLFjnYUl5eps35C-pP8MSqw3STnOM0tQhdABaIFofGgQCS6iGPgWwkR41&amp;t=605d1028" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=3cUbbCdNgprbQGUIuovqCJidbP3wcI4Ng9cpa3qxMIYU2Ytw-mPe93JuWRR5Jzn3mKjYCpIPGBkwnV9OysAk2lpRdq0kqAcBX1Hq6b3opvuSDIwCbnBm1H6GdiRmLqmczoDXYs7Fb2bJI-8hQ0GJIfSVbT3FFyLXg0t9fBRlmos1&amp;t=605d1028" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=gnXvqlW_P4WfavvLSAm_QKm2gykfZtyLen9MI510AggdE4s_PyiOiGo9vHapGoC25f4j02zTcA7ud9O31Hi1LvXPgkz35hZ5IU4YFUX0dF6KCr6i-j1SJ-Byd5E64cg0DfCrBIITQyX3B922utJuVDJIH3ysOY8zWvmbg3ib1yQ1&amp;t=605d1028" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=h_CGqEuio228_s2iNZ50YFiKsBzK_XvkNgGcufINFznzam6AZCBUQSoBXzKY_4FCzST9o0-5yDTQk3YuLJ49v98OkBS0VB4cQ2Giz52PfkK-DCIhamkCDadTUujMXXJ7e_3zFBJ4ur6yJ2C0QbUtVh6bG9hZ6R4m3iKlSGu4KFo1&amp;t=605d1028" type="text/javascript"></script>
+<!-- Wrapper Starts here -->
+<div id="wrapper">
+<!-- Header Starts here -->
+	<!--
+
+
+<select style="width:120px;" onchange="window.open(this.options[this.selectedIndex].value,'_top')" id="country">
+<option title="http://localhost:17164/images/flags/us.gif" value="" selected=&quot;selected&quot;>
+                English</option>
+<option title="http://localhost:17164/images/flags/fr.gif" value="/fr/home.aspx" >
+                fran&#231;ais</option>
+<option title="http://localhost:17164/images/flags/es.gif" value="http://www.traveltex.mx" >
+                espa&#241;ol</option>
+<option title="http://localhost:17164/images/flags/pt.gif" value="/pt/home.aspx" >
+                Portugu&#234;s</option>
+<option title="http://localhost:17164/images/flags/de.gif" value="/de/home.aspx" >
+                Deutsch</option>
+<option title="http://localhost:17164/images/flags/kr.gif" value="http://traveltex.co.kr/" >
+                한국어</option>
+<option title="http://localhost:17164/images/flags/jp.gif" value="http://traveltex.co.jp/" >
+                日本語</option>
+<option title="http://localhost:17164/images/flags/cn.gif" value="http://traveltexas.net.cn/" >
+                中文</option>
+</select>
+
+
+-->
+ 
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        SetFavoritesCount();
+
+        /* SEARCH BAR */
+        function showSearchError(errMessage) {
+            if (!errMessage) { errMessage = 'An unknown error has occured'; }
+
+            $("body").append('<div class="alertpopup error"><span class="close-btn-popup"></span>' + errMessage + '<div class="confirmbox"><input type="submit" value="OK"/> <input type="reset" value="CANCEL"/></div></div>');
+            $(".close-btn-popup").click(function () {
+                $(this).parent().hide();
+            });
+        }
+
+        function GetSearchResults() {
+            var searchText = $('#enterkeyword').val(),
+            filterValue = $(".selection select option:selected").val();
+
+            // If we're sitting on the placeholder text
+            if (searchText.trim() === 'Enter Keywords') {
+                $('#enterkeyword').focus();
+                return false;
+            }
+
+            if (searchText.trim().length < 4) {
+                showSearchError('Search text should be a minimum of 4 characters.');
+                return -1;
+            }
+
+            if (searchText.trim().length > 80) {
+                showSearchError('Search text is limited to a maximum of 80 characters only.');
+                return false;
+            }
+
+            if (searchText.trim().length > 0) {
+                if (window.location.port == "") {
+                    window.location = window.location.protocol + "//" + window.location.hostname + "/" + "search-results.aspx?SearchText=" + searchText + "&FilterValue=" + filterValue;
+                }
+                else {
+                    window.location = window.location.protocol + "//" + window.location.hostname + ":" + window.location.port + "/" + "search-results.aspx?SearchText=" + searchText + "&FilterValue=" + filterValue;
+                }
+            }
+        }
+
+        $("#enterkeyword")
+            .blur(function () {
+                if (this.value === '') { this.value = 'Enter Keywords'; }
+                jQuery('.search-wrap').removeClass('search-wrap-focus');
+            })
+            .keypress(validNumeric)
+            .focus(function () {
+                if (this.value == 'Enter Keywords') { this.value = ''; }
+                jQuery('.search-wrap').addClass('search-wrap-focus');
+            });
+
+        $("#search-submit").click(GetSearchResults);
+
+        function validNumeric(evt) {
+            var charCode = (evt.which) ? evt.which : event.keyCode;
+            var keyCode = charCode;
+            if (keyCode == 16)
+                isShift = true;
+            if (keyCode == 32) {
+                return true;
+            }
+            if (keyCode == 8) {
+                return true;
+            }
+            if (keyCode == 39) {
+                return true;
+            }
+            if (keyCode == 13) {
+                GetSearchResults();
+            }
+            if (keyCode == 46 || keyCode <= 37) {
+                return false;
+            }
+            else if ((keyCode >= 97 && keyCode <= 122)) {
+                return true;
+            }
+            else if ((keyCode == 45)) {
+                return true;
+            }
+            else {
+                return (((keyCode >= 48 && keyCode <= 57) && isShift == false) || (keyCode >= 65 && keyCode <= 90) || keyCode == 46 || keyCode == 39 || keyCode == 35 || keyCode == 36 || keyCode == 37 || keyCode == 39 || keyCode == 46 || (keyCode >= 96 && keyCode <= 105));
+            }
+            // 8  - Backspace Key
+            // 35 - Home Key
+            // 36 - End Key
+            // 37 - Left Arrow Key
+            // 39 - Right Arrow Key
+            // 46 - Del Key
+        }
+
+        /* /SEARCH BAR */
+    });
+    
+    function SetFavoritesCount(fCount) {
+        if (!fCount) {
+            fCount = '0';
+        }
+
+        document.getElementById('ContentPlaceHolderDefault_UcHeader_2_lblCntFav').innerHTML = fCount;
+    }
+</script>
+<script type="text/javascript">
+    $(function () {
+//        if ($.cookie('TEXT_SIZE')) {
+//       
+//            $('body').addClass($.cookie('TEXT_SIZE'));
+//        }
+       
+        $('.resizer a').click(function () {
+
+
+                      //  var textSize = $(this).parent().attr('class');
+                      //  $('body').removeClass('small large').addClass(textSize);
+            //            $.cookie('TEXT_SIZE', textSize, { path: '/', expires: 10000 });
+                      //  return false;
+        });
+    });
+	</script>
+   <script type="text/javascript">
+
+       function changeSearchSelectWidth() {
+           var ind = $(".selection  select option:selected").text().length;
+           $(".selection  .sb-custom").animate({ width: ind * 6 + 25 }, 300);
+           $(".selection  .sb-select").animate({ width: ind * 6 + 25 }, 300);
+       }
+
+       $("document").ready(function () {
+           changeSearchSelectWidth()
+           $(".selection select").change(changeSearchSelectWidth);
+           $(".resizer .small a").click(function () {
+               $('body').addClass('small');
+               $('body').removeClass('large');
+           });
+
+           $(".resizer .large a").click(function () {
+               $('body').removeClass('small');
+               $('body').addClass('large');
+           });
+       });
+        </script>
+
+<style type="text/css">
+.search-wrap .sb-custom{
+	height:30px!important;
+	float:left!important;
+	padding-left: 0px!important;
+	padding-right: 0px!important;
+	border-right:1px solid #c6c6c6!important;
+	background:#eaeaea url(../images/down-arrwo.png) no-repeat 42px center!important;
+	line-height: 30px!important;
+	font-size: 14px!important;
+	cursor: pointer!important;
+	line-height :28px!important;
+}
+
+.search-wrap .sb-custom input{
+	height:30px!important;
+    background: none;
+    padding:0!important;
+}
+.search-wrap .sb-dropdown li{
+    display: block;
+    width: 100%;
+}
+.search-wrap .sb-dropdown{
+    z-index: 1000;
+    margin-left: 0px!important;
+}
+.search-wrap .sb-dropdown a{
+    width: 96%!important;
+}
+.search-wrap .sb-select{
+	height:30px!important;
+    background: none;
+}
+</style>
+<style>
+	.alertpopup{
+		position: fixed;
+		z-index: 1001;
+		border: 1px solid#cccccc;
+		padding: 10px;
+		min-width: 200px;
+		text-align: center;
+		background: #ffffff;
+		top:50%;
+		left: 50%;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		-webkit-box-shadow: 0px 0px 10px rgba(50, 50, 50, 0.75);
+		-moz-box-shadow:    0px 0px 10px rgba(50, 50, 50, 0.75);
+		box-shadow:         0px 0px 10px rgba(50, 50, 50, 0.75);
+		margin-left: -90px;
+        margin-top: -100px;
+		}
+	.alertpopup.error
+	{
+	    color:#ff0000;
+	}
+.confirmbox{
+		margin-top: 10px;
+		display:none;
+		}
+.confirmbox input[type="submit"], .confirmbox input[type="reset"]{
+  		background: none repeat scroll 0 0 #FFFFFF;
+    	border: 1px solid #D2CFC4;
+    	-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+    	color: #C33514;
+    	cursor: pointer;
+    	font-family: 'ProximaNovaLtBold';
+    	font-size: 12px;
+    	height: 24px;
+    	width: 80px;
+		}
+</style>
+<!-- Header Starts here -->
+<div id="header">
+<div class="header-wrap">
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ctl00$ContentPlaceHolderDefault$UcHeader_2$ScriptManager1', 'ctl01', [], [], [], 90, 'ctl00$ctl00$ctl00');
+//]]>
+</script>
+
+       
+        
+    <a href="/home/" class="logo">
+        <img src="/images/logo.png" width="193" height="100" border="0" alt="Texas"></a>
+    <p class="caption">
+        <img src="/images/caption.png" width="310" height="22" border="0" alt=" It's like a WHOLE OTHER COUNTRY"></p>
+    <a href="/travel-guide/" class="sticker">
+        <img src="/images/sticker.png" width="153" height="115" border="0" alt=" Get your travel guide"></a>
+    <div class="top-right">
+        <div class="top-links">
+            <div id="divLogin" style="float: left">
+                <span id="ContentPlaceHolderDefault_UcHeader_2_lblLogin"></span>
+            </div>
+            <div id="ContentPlaceHolderDefault_UcHeader_2_divLogin" style="float: left">
+                <a href="/Login/">
+                    <span id="ContentPlaceHolderDefault_UcHeader_2_lblCurrentStatus">Log In</span></a>
+            </div>
+            <div id="ContentPlaceHolderDefault_UcHeader_2_divSignUp" style="float: left">
+                <a id="ContentPlaceHolderDefault_UcHeader_2_ahrefSignUp" href="javascript:__doPostBack('ctl00$ctl00$ctl00$ContentPlaceHolderDefault$UcHeader_2$ahrefSignUp','')">Sign Up</a>
+            </div>
+            
+            
+            
+            
+            <div id="ctl00_ctl00_ctl00_ContentPlaceHolderDefault_UcHeader_2_cmbLanguages" class="RadComboBox RadComboBox_Default" style="width:160px;">
+	<table summary="combobox" style="border-width:0;border-collapse:collapse;width:100%">
+		<tbody><tr class="rcbReadOnly">
+			<td style="width:100%;" class="rcbInputCell rcbInputCellLeft"><input name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$UcHeader_2$cmbLanguages" type="text" class="rcbInput" id="ctl00_ctl00_ctl00_ContentPlaceHolderDefault_UcHeader_2_cmbLanguages_Input" value="English" readonly="readonly"></td>
+			<td class="rcbArrowCell rcbArrowCellRight"><a id="ctl00_ctl00_ctl00_ContentPlaceHolderDefault_UcHeader_2_cmbLanguages_Arrow" style="overflow: hidden;display: block;position: relative;outline: none;">select</a></td>
+		</tr>
+	</tbody></table>
+	<!-- 2012.2.607.40 --><div class="rcbSlide" style="z-index:6000;"><div id="ctl00_ctl00_ctl00_ContentPlaceHolderDefault_UcHeader_2_cmbLanguages_DropDown" class="RadComboBoxDropDown RadComboBoxDropDown_Default " style="display:none;"><div class="rcbScroll rcbWidth" style="width:100%;"><ul class="rcbList" style="list-style:none;margin:0;padding:0;zoom:1;"><li class="rcbItem  rcbTemplate">
+                <label>
+                <a href="/home/">
+                
+                English</a> 
+                </label>
+                </li><li class="rcbItem  rcbTemplate">
+                <label>
+                <a href="http://www.traveltex.mx">
+                
+                Español</a> 
+                </label>
+                </li><li class="rcbItem  rcbTemplate">
+                <label>
+                <a href="/pt/home.aspx">
+                
+                Português</a> 
+                </label>
+                </li><li class="rcbItem  rcbTemplate">
+                <label>
+                <a href="/fr/home.aspx">
+                
+                Français</a> 
+                </label>
+                </li><li class="rcbItem  rcbTemplate">
+                <label>
+                <a href="/de/home.aspx">
+                
+                Deutsch</a> 
+                </label>
+                </li><li class="rcbItem  rcbTemplate">
+                <label>
+                <a href="http://traveltex.co.kr/">
+                
+                한국어</a> 
+                </label>
+                </li><li class="rcbItem  rcbTemplate">
+                <label>
+                <a href="http://traveltex.co.jp/">
+                
+                日本語</a> 
+                </label>
+                </li><li class="rcbItem  rcbTemplate">
+                <label>
+                <a href="http://traveltexas.net.cn/">
+                
+                中文</a> 
+                </label>
+                </li></ul></div></div></div><input id="ctl00_ctl00_ctl00_ContentPlaceHolderDefault_UcHeader_2_cmbLanguages_ClientState" name="ctl00_ctl00_ctl00_ContentPlaceHolderDefault_UcHeader_2_cmbLanguages_ClientState" type="hidden">
+</div>  
+           
+              <span class="resizer"><span class="small"><a href="javascript:void(0)">A</a></span><span class="large"><a href="javascript:void(0)">A</a></span>
+              
+              </span></div>
+        <div class="my-passport"> 
+            <a href="/mypassport/">
+                <img src="/images/header-passport-img.png" width="293" height="82" alt="header-passport-img" border="0"></a></div>
+    </div>
+    <div class="navigation">
+        <ul>
+            <li><a href="/cities-regions/">Cities &amp; Regions</a></li>
+            <li><a href="/things-to-do/">Things to Do</a></li>
+            <li><a href="/places-to-stay/">Places to Stay</a></li>
+            <li><a href="/travel-tools/">Travel Tools</a></li>
+        </ul>
+    </div>
+  
+    <div class="search-wrap" id="SearchFilter">
+        <span class="selection"><div data-id="0" class="sb-custom" style="width: 43px;"><select class="sparkbox-custom" tabindex="-1">
+            <option value="0">ALL</option>
+            <option value="3">Activities</option>
+            <option value="4">Events</option>
+            <option value="1">Cities &amp; Regions</option>
+            
+            <option value="5">Places to Stay</option>
+        </select><ul data-id="0" class="sb-dropdown"><li data-value="0" class="selected"><a href=".">ALL</a></li><li data-value="3"><a href=".">Activities</a></li><li data-value="4"><a href=".">Events</a></li><li data-value="1"><a href=".">Cities &amp; Regions</a></li><li data-value="5"><a href=".">Places to Stay</a></li></ul><input data-id="0" type="text" class="sb-select" readonly="readonly" style="width: 43px;"></div>
+
+        </span>
+        <span class="search-input">
+            <input name="enterkeyword" id="enterkeyword" type="text" value="Enter Keywords">
+            <input type="button" id="search-submit">
+        </span>
+    </div>
+    <div class="bot-links">
+        <a href="/trip-ideas.aspx" class="left">TRIP IDEAS</a> <a href="/favorites/" class="right">FAVORITES<div id="ContentPlaceHolderDefault_UcHeader_2_dvFavCnt" class="number-favorites"><span id="ContentPlaceHolderDefault_UcHeader_2_lblCntFav">0</span> </div></a></div>
+    
+ 
+</div>
+<div class="clear"></div>
+</div>
+<!-- Header ends here -->
+
+	
+	
+<!-- Header ends here -->
+	
+	
+<!-- Container starts Here -->
+<!--<div class="container"> -->
+
+
+ 	
+	<!-- Breadcrumbs starts Here -->
+<div class="breadcrumbs">
+	
+	<a href="/">Home</a> &gt;
+     Privacy Policy &amp; Terms of Use
+</div>
+<!-- Breadcrumbs ends Here -->
+<!-- Container starts Here -->
+<div class="container innerpage">
+<!-- Content pane starts Here -->
+<div class="content-pane city houston video">
+	<h2>Privacy Policy &amp; Terms of Use</h2>
+    <!-- Submenu Content Starts Here -->
+    <div class="submenu-content">
+    
+    <!-- Overview Content Starts Here -->
+	<div class="overview">
+<div class="txt-list">
+<div class="list-order"><strong>January 2013 State of Texas TravelTex Desktop and Mobile Web Sites</strong></div>
+<div>The following is the privacy policy for this site (all pages starting with www.TravelTex.com):<ol>
+<li>Cookies are used to allow the site to welcome you back to the site should you visit the site again and to set your chosen site parameters as they were on your last visit. Cookies are also used to track the number of visitors to the site. We do not use cookies to collect any information other than just described. Note: A cookie file contains unique information a web site can use to track such things as passwords, lists of pages you’ve visited, and the date when you last looked at a specific page or to identify your session at a particular web site. We do not use cookies for any of these purposes.</li>
+<li>If you send us an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that e-mails us this information, or make a comment while on the website, we will only use the personally-identifiable information to respond to your request and analyze trends. We may redirect your message to another government agency or person who is in a better position to answer your question. We will collect the browser, type, version, platform and user agent information.</li>
+<li>If you enter contact information in the course of ordering items from the site, this information will only be sent to those parties requiring it for delivery, unless you choose to receive additional Texas travel information. If you choose to receive additional information, your address may occasionally be made available to other Texas travel industry organizations.</li>
+<li>If you have supplied your e-mail address and chosen to receive additional Texas travel information, it may occasionally be used to send you a message about something you have expressed an interest in such as an attraction or event. E-mail addresses are not shared with 3rd parties.</li>
+<li>For site management functions, information is collected for analysis and statistical purposes. This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings.</li>
+<li>If you create a user account, information is collected for your personal profile, analysis and statistical purposes. This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings. Your profile information and trip information will only be visible within your account, unless you choose to share the trip on your personal social media channels. All personal address information will be redacted from any shared user generated content.</li>
+<li>This site provides integrations with third-party websites, such as those of Facebook, Pinterest and Twitter. While on these sites, we may collect information about you. Because these platforms are outside of our control, you should review their privacy policies to learn more about how they collect and use personally identifiable information.</li>
+<li>This site provides links to third-party websites that are outside of our control. You should review their privacy policies to learn more about how they collect and use personally identifiable information.</li>
+<li>This site may contain links to third party sites not controlled by TravelTex.com, which therefore are not covered by this privacy statement, such as those belonging to Texas Partners and Sponsors. We accept no responsibility or liability for any of the material contained on those servers or the accuracy or legality of information contained on other websites. We recommend that you check the privacy statement of other sites you visit before providing any personal information.</li>
+</ol></div>
+<p>We use log analysis tools to create summary statistics, which are used for purposes such as assessing what information is of most interest, determining technical design specifications, and identifying system performance or problem areas. The following information is collected for this analysis:</p>
+<div class="list-order"><strong>User Client hostname</strong> - The hostname (or IP address if DNS is disabled) of the user/client requesting access.</div>
+<div class="list-order"><strong>HTTP header, "user-agent"</strong> - The user-agent information includes the type of browser, its version, and the operating system it's running on.</div>
+<div class="list-order"><strong>HTTP header, "referrer"</strong> - The referrer specifies the page from which the client accessed the current page.</div>
+<div class="list-order"><strong>System date</strong> - The date and time of the user/client request.</div>
+<div class="list-order"><strong>Full request</strong> - The exact request the user/client made.</div>
+<div class="list-order"><strong>Status</strong> - The status code the server returned to the user/client.</div>
+<div class="list-order"><strong>Content length</strong> - The content length, in bytes, of the document sent to the user/client.</div>
+<div class="list-order"><strong>Method</strong> - The request method used.</div>
+<div class="list-order"><strong>Universal Resource Identifier (URI)</strong> - The location of a resource on the server.</div>
+<div class="list-order"><strong>Query string of the URI</strong> - Anything after the question mark in a URI.</div>
+<div class="list-order"><strong>Protocol</strong> - The transport protocol and version used.</div>
+<div class="list-order">The site also determines the browser type and video resolution that you are using so as to best deliver the sites content for viewing and operation.</div>
+<div class="list-order"><strong>Accessibility Policy</strong></div>
+<div class="list-order">The TravelTex.com web site exists in a form that is accessible to a broad range of access devices.</div>
+<div class="list-order">The TravelTex.com web site has been engineered using the recommendations of the World Wide Web Consortium (W3C) including XHTML Transitional 1.0, CSS 2.0, and the Web Content Accessibility Guidelines 1.0 as they pertain to the Priority 1 guidelines. This web site meets the definition of generally accessible Internet site as defined in Texas Administrative Code Section 206 - State Web Sites.</div>
+<div class="list-order">The Office of the Governor, Economic Development &amp; Tourism is open to suggestions on how the accessibility of this web site can be improved. Please contact the <a href="/contact-us-page/" title="Contact Us Page">Web Administrator</a> to offer suggestions or comments.</div>
+<div class="list-order"></div>
+</div>
+</div>
+		
+	<!-- Overview Content Ends Here -->		
+	</div>
+    <!-- Submenu Content ends Here -->
+	
+</div>
+<!-- Content pane ends Here -->
+
+<!-- Right sidebar starts Here -->
+<div class="right-sidebar">
+	<ul class="cnt-info">
+<li><span class="heading"><strong>Texas State Travel Guide</strong></span>
+<p>PO Box 141009, Austin, TX 78714-1009</p>
+<a href="/travel-guide/" title="TravelGuide">Get your Texas Travel Guide</a></li>
+<li><span class="heading"><strong>Texas Department of Transportation</strong></span> <br><a style="font-size: 14px;" href="http://www.txdot.gov/travel" target="_blank" class="offsite">www.txdot.gov/travel</a><br>
+<p>For travel assistance, call 800-452-9292.</p>
+</li>
+<li><span class="heading"><strong>Office of the Governor, Economic<br>Development &amp; Tourism</strong></span> <br><a style="font-size: 14px;" href="http://www.governor.state.tx.us/ecodev" target="_blank" class="offsite">governor.state.tx.us/ecodev</a></li>
+</ul>
+</div>
+<!-- Right sidebar ends Here -->
+
+
+</div>
+
+<!-- Container ends Here -->
+	<div class="clear"></div>
+
+
+
+<!-- Footer starts Here -->
+	
+<div class="footer">
+	
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        $("#chkSelect").change(function () {
+            if (this.checked) {
+
+                set_cookie_geo("ExtLinkdisclaimer", "1");
+            }
+        });
+    });
+
+
+    function getCookie(name) {
+        var cookieName = name + '=';
+        var docCookie = document.cookie;
+        var cookieStart;
+        var end;
+        if (docCookie.length > 0) {
+            cookieStart = docCookie.indexOf(cookieName);
+            if (cookieStart != -1) {
+                cookieStart = cookieStart + cookieName.length;
+                end = docCookie.indexOf(";", cookieStart);
+                if (end == -1) {
+                    end = docCookie.length;
+                }
+                return unescape(docCookie.substring(cookieStart, end));
+            }
+        }
+        return false;
+    }
+
+    function set_cookie_geo(name, value) {
+
+        var cookie_data = escape(value);
+
+        var expiryDate = new Date();
+
+        expiryDate.setTime(expiryDate.getTime() + (1000 * 60 * 60 * 24 * 7));
+
+        setCookie(name, cookie_data, expiryDate);
+
+    }
+
+    function setCookie(name, value, expires) {
+        document.cookie = name + "=" + value + ";path=/" + ((expires == null) ? "" : ";expires=" + expires.toGMTString())
+    }
+
+
+
+    function textboxLeave(textbox) {
+        var Search = textbox.value;
+        if (Search == "") {
+            textbox.value = "Enter Email";
+        }
+    }
+    function validate() {
+        var Email = document.getElementById('ContentPlaceHolderDefault_RepeaterControl_4_TxtEmail').value;
+
+        if (Email != "" && Email != "Enter Email") {
+            var emailPat = /^[a-zA-Z0-9]+[a-zA-Z0-9_.-]+[a-zA-Z0-9_-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{2,4}$/;
+            var EmailmatchArray = Email.match(emailPat);
+            if (EmailmatchArray == null) {
+                $("body").append('<div class="alertpopup error"><span class="close-btn-popup"></span>Your email address seems incorrect. Please try again.<div class="confirmbox"><input type="submit" value="OK"/> <input type="reset" value="CANCEL"/></div></div>');
+                $(".close-btn-popup").click(function () {
+                    $(this).parent().hide();
+                });
+
+                return false;
+            }
+        }
+    }
+</script>
+
+ 
+<!-- Footer starts Here -->   
+
+<div class="footer-upper">
+    
+    <div class="travel-guide">
+        <a href="/travel-guide/" class="get-travel-guide">Get Your Guide Now ›</a>
+        <h2>
+            Get your Texas Travel Guide</h2>
+        <p>
+
+            The printed authority on Texas travel.</p>
+             <a href="/travel-guide/">Get Your Guide Now ›</a>
+    </div>
+  
+    <div class="email-newsletter">
+
+        <h2>
+            Sign up for our Email Newsletter</h2>
+        <p>
+            Stay in touch with Texas.</p>
+        <fieldset class="newsletter">
+        <input name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$RepeaterControl_4$TxtEmail" type="text" value="Enter Email" id="ContentPlaceHolderDefault_RepeaterControl_4_TxtEmail" onclick="this.value=''" onblur=" javascript:textboxLeave(this)" style="color:graytext;">
+           
+           
+             <input type="submit" name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$RepeaterControl_4$btnSignUp" value="SIGN UP" id="ContentPlaceHolderDefault_RepeaterControl_4_btnSignUp">
+             <span id="ContentPlaceHolderDefault_RepeaterControl_4_lblErrorMessage" style="color:Blue;clear: both;color: red;float: left;margin-left: 0;"></span>
+
+        </fieldset>
+    </div>
+    <div class="clear"></div>
+     </div> 
+
+ 
+<!-- Footer ends Here -->
+	
+	
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        $("#chkSelect").change(function () {
+            if (this.checked) {
+               
+                set_cookie_geo("ExtLinkdisclaimer", "1");
+            }
+        });
+    });
+
+
+    function getCookie(name) {
+        var cookieName = name + '=';
+        var docCookie = document.cookie;
+        var cookieStart;
+        var end;
+        if (docCookie.length > 0) {
+            cookieStart = docCookie.indexOf(cookieName);
+            if (cookieStart != -1) {
+                cookieStart = cookieStart + cookieName.length;
+                end = docCookie.indexOf(";", cookieStart);
+                if (end == -1) {
+                    end = docCookie.length;
+                }
+                return unescape(docCookie.substring(cookieStart, end));
+            }
+        }
+        return false;
+    }
+
+    function set_cookie_geo(name, value) {
+
+        var cookie_data = escape(value);
+
+        var expiryDate = new Date();
+
+        expiryDate.setTime(expiryDate.getTime() + (1000 * 60 * 60 * 24 * 7));
+
+        setCookie(name, cookie_data, expiryDate);
+
+    }
+
+    function setCookie(name, value, expires) {
+        document.cookie = name + "=" + value + ";path=/" + ((expires == null) ? "" : ";expires=" + expires.toGMTString())
+    }
+    
+
+
+    
+    
+</script>
+	
+
+    
+<div class="footer-wrapper">
+    <div class="nav">
+        <div class="footer-links">
+				 <ul>
+             
+						  <li>
+							 <a href="/about/">
+							  
+							 About 
+                                </a>
+								</li>
+						  <li>
+							 <a href="/contact-us-page/">
+							  
+							 Contact Us
+                                </a>
+								</li>
+						  <li>
+							 <a href="/sitemap/">
+							  
+							 Sitemap
+                                </a>
+								</li>
+						  <li>
+							 <a href="/accessibility/">
+							  
+							 Accessibility
+                                </a>
+								</li>
+						  <li>
+							 <a href="/privacy-policy-terms-of-use/">
+							  
+							 Privacy Policy &amp; Terms of Use
+                                </a>
+								</li>
+						  <li>
+							 <a href="/help-and-faqs/">
+							  
+							 Help and FAQs
+                                </a>
+								</li>
+              
+                   
+            </ul>
+        </div>
+        <div class="languages">
+            <ul>
+							 <li>
+                    
+                            <a href="http://www.traveltex.mx">
+                                
+								Español
+								</a>
+                      
+							</li>
+							 <li>
+                    
+                            <a href="/pt/home.aspx">
+                                
+								Português
+								</a>
+                      
+							</li>
+							 <li>
+                    
+                            <a href="/fr/home.aspx">
+                                
+								Français
+								</a>
+                      
+							</li>
+							 <li>
+                    
+                            <a href="/de/home.aspx">
+                                
+								Deutsch
+								</a>
+                      
+							</li>
+							 <li>
+                    
+                            <a href="http://traveltex.co.kr/">
+                                
+								한국어
+								</a>
+                      
+							</li>
+							 <li>
+                    
+                            <a href="http://traveltex.co.jp/">
+                                
+								日本語
+								</a>
+                      
+							</li>
+							 <li>
+                    
+                            <a href="http://traveltexas.net.cn/">
+                                
+								中文
+								</a>
+                      
+							</li>
+              
+                 
+
+            </ul>
+        </div>
+        <div class="social">
+			
+            <ul>				
+							<li>
+							  
+                            <a href="https://www.facebook.com/TexasTourism" target="_blank">
+							
+					<img id="img" runat="server" src="/media/4503/facebook-icon.png" width="17" height="17" border="0" alt="facebook-icon">
+                                
+								<label>Facebook</label>	
+								</a>
+                       
+                </li>
+							<li>
+							  
+                            <a href="https://twitter.com/texastourism" target="_blank">
+							
+					<img id="img" runat="server" src="/media/4508/twitter-icon.png" width="17" height="17" border="0" alt="twitter-icon">
+                                
+								<label>Twitter</label>	
+								</a>
+                       
+                </li>
+							<li>
+							  
+                            <a href="https://pinterest.com/texastourism/" target="_blank">
+							
+					<img id="img" runat="server" src="/media/4513/pinterest-icon.png" width="17" height="17" border="0" alt="pinterest-icon">
+                                
+								<label>Pinterest</label>	
+								</a>
+                       
+                </li>
+							<li>
+							  
+                            <a href="http://www.youtube.com/user/traveltexvideos" target="_blank">
+							
+					<img id="img" runat="server" src="/media/4518/youtube-icon.png" width="17" height="17" border="0" alt="youtube-icon">
+                                
+								<label>YouTube</label>	
+								</a>
+                       
+                </li>
+							<li>
+							  
+                            <a href="https://plus.google.com/+texastourism" target="_blank">
+							
+					<img id="img" runat="server" src="/media/4523/gplus-icon.png" width="17" height="17" border="0" alt="gplus-icon">
+                                
+								<label>Google+</label>	
+								</a>
+                       
+                </li>
+
+                
+            </ul>
+        </div>
+<div class="logos">
+    <div class="logo-popup">
+                	<span class="close-logo-popup"></span>
+                    <span class="popup-header">External Link</span>
+                    <p>You are now leaving TravelTex.com. You are on your way to an external website.</p>
+                    <p id="other" style="text-align:left;padding-top:8px;">Economic Development &amp; Tourism (EDT) provides these links solely for the convenience of our visitors and does not endorse, operate or control the external websites. EDT cannot be liable for direct or indirect damage to the user resulting from Internet connections, including but not limited to viruses, pop ups, spyware, or offensive materials.</p> 
+                    <a href="#" id="ExtenalLink" target="_blank">Continue to external website.</a> <br>                  
+                    <a href="javascript:void(0)" id="CurrentLink">Don't go to external website. Stay on TravelTex.com.</a><br>
+                    <p><div class="ez-checkbox"><input type="checkbox" id="chkSelect" class="ez-hide"></div> <label>Don't show this message again.</label></p>
+                    
+             </div> 
+    <ul>
+				<li><a href="http://www.txdot.gov/" target="_blank">
+					<img id="img" runat="server" src="/media/4528/logo1.png" title="" border="0" alt="logo1"></a>
+				 </li>
+				<li><a href="http://www.discoveramerica.com/usa/states/texas.aspx" target="_blank">
+					<img id="img" runat="server" src="/media/4533/logo2.png" title="" border="0" alt="logo2"></a>
+				 </li>
+				<li><a href="http://www.texas.gov" target="_blank">
+					<img id="img" runat="server" src="/media/4538/logo3.png" title="" border="0" alt="logo3"></a>
+				 </li>
+				<li><a href="http://www.tpwd.state.tx.us/ " target="_blank">
+					<img id="img" runat="server" src="/media/4543/logo4.png" title="" border="0" alt="logo4"></a>
+				 </li>
+				<li><a href="http://www.gotexan.org/" target="_blank">
+					<img id="img" runat="server" src="/media/4548/logo5.png" title="" border="0" alt="logo5"></a>
+				 </li>
+				<li><a href="http://www.artonart.com" target="_blank">
+					<img id="img" runat="server" src="/media/4553/logo6.png" title="" border="0" alt="logo6"></a>
+				 </li>
+				<li><a href="http://www.thc.state.tx.us/" target="_blank">
+					<img id="img" runat="server" src="/media/4558/logo7.png" title="" border="0" alt="logo7"></a>
+				 </li>
+				<li><a href="https://esta.cbp.dhs.gov/" target="_blank">
+					<img id="img" runat="server" src="/media/4566/logo8.png" title="" border="0" alt="logo8"></a>
+				 </li>
+    </ul>
+</div>
+
+    </div>
+		<div class="copyrights">
+	<label>All Material ©2013 Office of the Governor, Economic Development and Tourism. All         Rights Reserved. Reproduction in whole or in part is prohibited without the written  permission of the publisher.</label>
+       
+    </div>
+</div>
+	
+	
+<!-- Footer ends Here -->
+<!--</div>-->
+<!-- Container ends Here -->
+
+</div>
+<!-- Wrapper ends here -->
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+WebForm_InitCallback();Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadComboBox, {"_dropDownWidth":0,"_height":0,"_isTemplated":true,"_postBackReference":"__doPostBack(\u0027ctl00$ctl00$ctl00$ContentPlaceHolderDefault$UcHeader_2$cmbLanguages\u0027,\u0027arguments\u0027)","_skin":"Default","_text":"English","_uniqueId":"ctl00$ctl00$ctl00$ContentPlaceHolderDefault$UcHeader_2$cmbLanguages","_value":"/home/","clientStateFieldID":"ctl00_ctl00_ctl00_ContentPlaceHolderDefault_UcHeader_2_cmbLanguages_ClientState","collapseAnimation":"{\"duration\":450}","expandAnimation":"{\"duration\":450}","itemData":[{"text":"English","value":"/home/","selected":true},{"text":"Español","value":"http://www.traveltex.mx"},{"text":"Português","value":"/pt/home.aspx"},{"text":"Français","value":"/fr/home.aspx"},{"text":"Deutsch","value":"/de/home.aspx"},{"text":"한국어","value":"http://traveltex.co.kr/"},{"text":"日本語","value":"http://traveltex.co.jp/"},{"text":"中文","value":"http://traveltexas.net.cn/"}],"localization":"{\"AllItemsCheckedString\":\"All items checked\",\"ItemsCheckedString\":\"items checked\",\"CheckAllString\":\"Check All\"}","selectedIndex":0}, null, null, $get("ctl00_ctl00_ctl00_ContentPlaceHolderDefault_UcHeader_2_cmbLanguages"));
+});
+//]]>
+</script>
+
+<!-- BEGIN SURVEY POPUP CODE -->
+<script type="text/javascript">
+    if ($.cookie('SMARI') != 'true') {
+        var config = new Object();
+        config.surveyID = 3107483;
+        config.animationMode = 0;
+        config.takeSurveyURL = 'http://www.surveyanalytics.com/a/TakeSurvey';
+        config.windowPositionLeft = 200;
+        config.windowPositionTop = 300;
+        config.popupInvitationHeader = 'Take A Survey!';
+        config.home = 'http://www.surveyanalytics.com/';
+        config.isRightToLeft = false;
+        config.surveyStartMessage = 'Start Survey';
+        config.popupInvitationLaterMessage = 'Later';
+        config.showFooter = true
+        config.invitationDelay = 0;
+        config.skipCount = 20;
+        config.popupMessage ='Welcome!<br/><br/>' +
+            'Your opinion is important to us.<br/>' +
+            'After your visit, would you take a moment to answer 4 to 6 simple questions about your experience? This will help us improve our website.<br/><br/>' +
+            'It is easy to participate:<br/>' +
+            'Click the “Yes” button below to continue your visit as intended. When done, retrieve the window remaining on your desktop and complete the brief questionnaire.<br/><br/>' +
+            'Thank you for your help!';
+        config.popupMode = 2;
+        document.write("<script type='text/javascript' src='http://www.surveyanalytics.com/javascript/popupInvitation.js'><\/script>");
+    }
+</script><script type="text/javascript" src="http://www.surveyanalytics.com/javascript/popupInvitation.js"></script>
+<!-- END SURVEY POPUP CODE -->
+
+
+</div></form></body></html>
