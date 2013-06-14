@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiandatingforfree.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231054309id_/http%3A//www.christiandatingforfree.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiandatingforfree.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615005326id_/http%3A//www.christiandatingforfree.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Christian Dating For Free | Online Community of Single Christians
 
@@ -79,4 +79,4 @@ From time to time, CDFF may conduct contests, giveaways and other promotions (co
 
 Although most changes are likely to be minor, CDFF reserves the right, at any time and without notice, to add to, update, change or modify this Privacy Policy, simply by posting such update, change or modification on this page. Any such addition, update, change or modification will be effective immediately upon posting on the Website.  Each time You use the Website, the then-current version of this Privacy Policy will apply.  Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website.  Unless CDFF obtains Your express consent, any revised Privacy Policy will apply only to information collected after the effective date of such revised Privacy Policy, and not to information collected under any earlier Privacy Policy.
 
-Effective Date: June 29, 2009
+Effective Date: June 29, 2006
