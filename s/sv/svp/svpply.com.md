@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the svpply.com privacy policy that was archived on 2012-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120724155838id_/https%3A//svpply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svpply.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614054040id_/https%3A//svpply.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Svpply
 
 ## Purpose of this Privacy Policy
 
-This privacy policy describes how Svpply and its parent company, General Projects Inc., treat the personal information that we have collected about you when you visit and use our service. Svpply and General Projects Inc. are herein collectively referred to as Svpply.
+This privacy policy describes how Svpply treat the personal information that we have collected about you when you visit and use our service.
 
 ## What data do we collect?
 
