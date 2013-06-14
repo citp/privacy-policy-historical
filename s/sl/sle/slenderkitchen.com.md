@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slenderkitchen.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125065030id_/http%3A//www.slenderkitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slenderkitchen.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614205252id_/http%3A//www.slenderkitchen.com/privacy-policy) for the most accurate reproduction.*
 
-# Slender Kitchen - Privacy Policy | The Slender Kitchen
+# Slender Kitchen - Privacy Policy | Slender Kitchen
 
 ## What do we use your information for?
 
@@ -43,6 +43,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-SlenderKitchen  
+SlenderKitchen.com  
 Santa Monica, CA  
-info@SlenderKitchen.org
+info@slenderkitchen.com
