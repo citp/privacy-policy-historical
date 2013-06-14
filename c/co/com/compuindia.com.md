@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compuindia.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212210520id_/http%3A//www.compuindia.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuindia.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614131436id_/http%3A//www.compuindia.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,12 +45,11 @@ We use your personal information to:
   * We may use the information to improve our products and services.
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * When you click on “Click to pay”, you acknowledge that you have read and agree to be bound by Compuindia.com's Terms and Conditions and consent to sharing your personal information with its Affiliates and Partners in order to fulfill your order.
 
 
 
-##  
-
-## **We use contact information internally to:**
+##   **We use contact information internally to:**
 
   * Direct our efforts for product improvement
   * Contact you as a survey respondent
@@ -118,7 +117,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at customercare@compuindia.com
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@compuindia.com
 
 
 
