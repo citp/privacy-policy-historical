@@ -1,49 +1,46 @@
-> *The following text is extracted and transformed from the securetrading.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014195454id_/http%3A//www.securetrading.com/privacy%23cookiepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securetrading.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614094142id_/http%3A//www.securetrading.com/cookie) for the most accurate reproduction.*
 
-# Privacy Policy | SecureTrading
+# Cookie Policy | SecureTrading
 
-**1.0 Introduction**
+This page describes SecureTrading Limited’s (SecureTrading) cookie policy, which applies to this website. If you do not accept this Cookie Policy please do not use this site.
 
-SecureTrading Limited "SecureTrading" takes the privacy of our website visitors, merchants and partners very seriously. This policy explains how and for what purposes SecureTrading uses the information collected about its website visitors and those who apply for its services via www.securetrading.com ("Website"). In addition the terms and conditions which you accept as part of the application process set out how we treat the data which we collect on the application form and subsequently.
+## What are cookies?
 
-**2.0 About SecureTrading**
+For almost any modern website to work properly, it needs to collect certain basic information on its users. To do this, a site will create files known as cookies – which are small text files – on its users’ computers. These cookies are designed to allow the website to recognise its users on subsequent visits, or to authorise other designated websites to recognise these users for a particular purpose.
 
-SecureTrading Limited is a Payment Service Provider based in the United Kingdom and is part of the UC Group of companies. Our registered number is 4591066 and our registered office is at Sundridge Park Manor, Willoughby Lane, Bromley, Kent BR1 3FZ.
+Cookies do a lot of different jobs which make your experience of the Internet much smoother and more interactive. For instance, they are used to remember your preferences on sites you visit often, to remember your user ID and the contents of your shopping baskets, and to help you navigate between pages more efficiently. They also help ensure that the advertisements that you see online are more relevant to you and your interests. Much, though not all, of the data that they collect is anonymous, though some of it is designed to detect browsing patterns and approximate geographical location to improve user experience.
 
-SecureTrading may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st December 2011.
+Information collected by cookies is not personally identifiable.
 
-**3.0 Personal Data We Collect**
+## What types of cookie are there?
 
-We will collect personal information from you when you complete one of our online application forms including :
+Broadly speaking, there are four types of cookie: strictly necessary cookies, performance cookies, functionality cookies and targeting or advertising cookies.
 
-  * Name and Job Title
-  * Contact details (including postal address, telephone number and email address)
-  * Company details including banking details
-
-
-
-We may also collect (even if you do not provide any Personal Data to us) information about where you are on the internet (e.g. the URL you came from, IP address, etc.), your browser type and the pages of the Website that were viewed during your visit. We collect this information to help us administer the Website and to provide you with a more effective service.
-
-**4.0 What do we do with the information we gather**
-
-We will use your information that we gather to fulfil your order and to provide you with the service you have requested. To enable us to do this we may share your information with affiliate companies, our business partners and financial institutions such as acquirers as necessary to fulfil your request. If you agree when you apply for our services, we will also use your information for marketing purposes and to understand your needs and provide you with a better service, and in particularly for the following reasons:
-
-  * Internal record keeping
-  * To improve our products and services
-  * To be able to send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the Website according to your interests.
+  * Strictly necessary cookies are essential to navigate around a website and use its features. Without them, you wouldn’t be able to use basic services.
+  * Performance cookies collect anonymous data on how visitors use a website; they can’t track users, and are only used to improve how a website works.
+  * Functionality cookies allow users to customise how a website looks for them: they can remember usernames, language preferences and regions, and can be used to provide more personal services like local weather reports and traffic news.
+  * Advertising and targeting cookies are used to deliver advertisements more relevant to you, but can also limit the number of times you see an advertisement, and be used to chart the effectiveness of an ad campaign by tracking users’ clicks.
 
 
 
-**5.0 Securing your data**
+Additionally, these cookies break down into two further sub-types.
 
-The data that you provide us is sent via a secure link (HTTPS) and sensitive data stored is encrypted using standard encryption technology in computer servers with limited access and in controlled facilities. We store your personal information for at least for the duration of any customer relationship we have with you, or as otherwise required by law (normally up to a maximum of 7 years for legal and tax reasons).
+  * Persistent cookies remain on a user’s device for a set period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie.
+  * Session cookies are temporary. They allow website operators to link the actions of a user during a browser session. A browser session starts when a user opens the browser window and finishes when they close the browser window. Once you close the browser, all session cookies are deleted.
 
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of your personal data.
 
-**6.0 SecureTrading's Use of Cookies**
 
-Cookies are information sent by a web server to a web browser and stored by a web browser. SecureTrading only sets cookies that are essential to the functionality of the website or analytical cookies for the purposes of understanding how visitors use the Website to enable us to continually improve the user experience of visitors. These persistent cookies will not store any identifying data.
+## What’s the law?
+
+Recently, the law on cookies has changed. Now sites that try to place performance, functionality, and targeting and advertising cookies need your permission before they can place them onto your computer. 
+
+## How does SecureTrading use cookies?
+
+SecureTrading collects a number of cookies from its users for various reasons, not least to track our own performance – but also it will assist in improving your overall experience of the site. Amongst other things, the cookies we use allow us to calculate how many visitors we have - anonymously, of course - and how long they stay on our site.
+
+We do our utmost to respect users’ privacy. We use these cookies to monitor and improve our services. We believe that your experience of the site would be adversely affected if you opted out of the cookies we use.
+
+### Google Analytics
 
 SecureTrading uses Google Analytics to monitor visits to our website. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. 
 
@@ -124,26 +121,24 @@ When visitors reach our site via a search engine result, a direct link, or an ad
 
 Performance  
   
-You can block, remove or restrict cookies through your browser, but should you do this you may find that you are not able to use all the functionality of this site. To learn how to do this click [here](http://www.aboutcookies.org/).
+### ClickTale
 
-**7.0 Links to other websites**
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to improve your experience when using SecureTrading to ensure we present you with the information you require as quickly and effectively as possible.
 
-Our website may contain links to other websites of interest. However, once you follow a link, we are not responsible for the privacy policies of the other sites even if you access the links from the Website. You should exercise caution and look at the privacy statement applicable to the website in question.
+You can choose to disable the Service at <http://www.clicktale.net/disable.html>. 
 
-**8.0 Governing Law**
+## How do I turn cookies off?
 
-Your use of the Website is governed by the laws of England and Wales and all disputes arising out of or relating to this Privacy Policy will be determined exclusively by the English Courts.
+Most browsers accept cookies automatically, but you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. Generally you have the option to accept all cookies, to be notified when a cookie is issued or reject all cookies. Visit the ‘options’ or ‘preferences’ menu on your browser to change settings. You can find out more about how to switch off cookies [here](http://www.allaboutcookies.org/manage-cookies/).
 
-**9.0 Contact Us**
+## User agreement
 
-If you have an enquiry or concern about our privacy policy, or you want to enquire about or request a copy of any of your personal data held by us, please contact our Data Protection Officer using one of the following methods:
+By continuing to use our site, you agree to the placement of cookies on your device. If you choose not to receive our cookies, we cannot guarantee that your experience will be as fulfilling as it would otherwise be. For instance, the site won’t be able to recognise your commenter ID, meaning that you won’t be able to leave comments.
 
-  * **Email:** [dpofficer@securetrading.com](mailto:dpofficer@securetrading.com)
-  * **Phone:** +44 (0)1248 672 000
-  * **Post:** Data Protection Officer, European Operations Centre, Parc Menai, Bangor, Gwynedd, UNITED KINGDOM, LL57 4BL
+## Opt out
 
+If you’d like to opt out of cookies, please go to the Network Advertising Initiative website at www.networkadvertising.org where you will be able to opt out of a number of networks.
 
-
-If you are not satisfied with our response to your concern you may wish to contact the Information Commissioner. Contact details can be found on the ICO website at [http://www.ico.gov.uk](http://www.ico.gov.uk/)
+**Please note that SecureTrading is not responsible for the content of external websites.**
   *[ICC UK Definition]: The International Chamber of Commerce UK (ICC UK) is a dynamic business organisation, providing insight and influence on a range of international trade and investment issues.
   *[Performance]: These cookies collect information about how visitors use a website. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
