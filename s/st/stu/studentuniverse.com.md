@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506005525id_/http%3A//www.studentuniverse.com/students/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614040030id_/http%3A//www.studentuniverse.com/students/privacy-policy) for the most accurate reproduction.*
 
 # StudentUniverse | Students - Privacy Policy
 
@@ -10,7 +10,7 @@ If you visit our site to make a purchase, our check-out process requires you to 
 
 We use your contact information from the account registration form to send you information about your purchases and promotional material (if you chose to allow us to). Your contact information is also used to contact you when necessary. You have the option of not receiving future mailings (see the choice/opt-out section below).
 
-Unique identifiers (such as email addresses) are collected to verify your identity as a student or faculty member by us and/or our partners. We do not share this data with anyone except agencies that verify identity or student enrollment, like StudentsOnly. Specifically, we and/or our partners validate your eligibility for certain offers based on your age or status as a student or faculty member. StudentUniverse.com, Inc and/or its partners reserves the right to use automated calling systems for delivering urgent information regarding your purchase and/or enrollment verification process. Financial information (such as credit card numbers) that we collect is used to bill customers for products and services.
+Unique identifiers (such as email addresses) are collected to verify your identity as a student or faculty member by us and/or our partners. We do not share this data with anyone except agencies that verify identity or student enrollment. Specifically, we and/or our partners validate your eligibility for certain offers based on your age or status as a student or faculty member. StudentUniverse.com, Inc and/or its partners reserves the right to use automated calling systems for delivering urgent information regarding your purchase and/or enrollment verification process. Financial information (such as credit card numbers) that we collect is used to bill customers for products and services.
 
 We realize the sensitive nature of this information, and guard this information very carefully.
 
@@ -50,9 +50,11 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 If you want to remove your information from our database, to not receive future communications, or to no longer receive our service, you can opt-out online on our homepage by clicking on "Get our DealAlerts" and completing the opt-out form, or [send us an email](https://web.archive.org/students/feedback).
 
+Mouseflow requires that we make our users aware that some visitor sessions are recorded, and Mouseflow prohibits using this service for recording personal or financial information. Users who don’t want to be recorded can opt out [here](http://mouseflow.com/opt-out). Read Mouseflow's [privacy policy](http://mouseflow.com/privacy/) for more information.
+
 **Correct/Update**
 
-You can correct or update your account profile information at any time by going to [My Stuff](https://web.archive.org/app/user/login) and signing in to your existing account.
+You can correct or update your account profile information at any time by going to [My Account](https://web.archive.org/app/user/login) and signing in to your existing account.
 
 **Partner Websites**
 
