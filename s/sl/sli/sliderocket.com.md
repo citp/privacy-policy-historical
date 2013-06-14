@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sliderocket.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016073053id_/http%3A//www.sliderocket.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sliderocket.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614222806id_/http%3A//www.sliderocket.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # SlideRocket Privacy Policy
 
-Welcome to SlideRocket’s website, application, products, services and software (collectively referred to as the “Services”), operated by SlideRocket, Inc., a subsidiary of VMware, Inc. SlideRocket allows you to create, collaborate and share stunning, media-rich presentations. Any registered user can create a presentation that can include content like photos, videos, audio recordings and links to other websites.
+Welcome to SlideRocket’s website, application, products, services and software (collectively referred to as the “Services”), operated by SlideRocket, Inc., a subsidiary of ClearSlide, Inc. SlideRocket allows you to create, collaborate and share stunning, media-rich presentations. Any registered user can create a presentation that can include content like photos, videos, audio recordings and links to other websites.
 
 Tip: SlideRocket presentations can be made publicly available around the world.
 
@@ -126,13 +126,13 @@ We may use and disclose your non-private, aggregated or other non-personal infor
 
 SlideRocket recognizes the privacy interests of children, and we encourage parents and guardians to take an active role in their children’s online activities and interests. While SlideRocket is an excellent tool for older students, SlideRocket’s Services are not intended for children under 13. SlideRocket does not target its Services to children under the age of 13, nor do we knowingly collect information from children under the age of 13. 
 
-We have established certain safeguards that prevent children under the age of 13 from registering or otherwise using our Services. Children under age 13, including children who are a part of a SlideRocket educational or organizational account or an account registered through Google’s products, are not permitted to download and/or register for SlideRocket’s Services. Parents, guardians, and organizational and educational administrators are not permitted to falsify information in order to register children under the age of 13 for SlideRocket’s Services. If we become aware that a child under 13 has registered for our Services or has otherwise provided us with personal information, we take steps to remove the child’s account and personal information. If you are aware that a child under the age of 13 is using our Services, please contact us at [Privacy@SlideRocket.com](mailto:Privacy@SlideRocket.com) in order to have the child removed.
+We have established certain safeguards that prevent children under the age of 13 from registering or otherwise using our Services. Children under age 13, including children who are a part of a SlideRocket educational or organizational account or an account registered through Google’s products, are not permitted to download and/or register for SlideRocket’s Services. Parents, guardians, and organizational and educational administrators are not permitted to falsify information in order to register children under the age of 13 for SlideRocket’s Services. If we become aware that a child under 13 has registered for our Services or has otherwise provided us with personal information, we take steps to remove the child’s account and personal information. If you are aware that a child under the age of 13 is using our Services, please contact us at [legal@clearslide.com](mailto:legal@clearslide.com) in order to have the child removed.
 
 ## Accessing & Modifying Your Personal Information:
 
 If you are a registered user, we provide you with tools and account setting to access or modify the personal information you provided to us and associated with your account. 
 
-If you would like to request access to personal information that we may have collected from you, please contact [Privacy@SlideRocket.com](mailto:Privacy@SlideRocket.com) (possibly subject to handling fees). To protect your privacy and security, we may take steps to verify your identity, such as a password and User ID, before granting access to the data. 
+If you would like to request access to personal information that we may have collected from you, please contact [legal@clearslide.com](mailto:legal@clearslide.com) (possibly subject to handling fees). To protect your privacy and security, we may take steps to verify your identity, such as a password and User ID, before granting access to the data. 
 
 If you would like to permanently delete your account, please follow the instructions provided at:[ http://support.sliderocket.com/entries/21221148-how-can-i-delete-my-account](http://support.sliderocket.com/entries/21221148-how-can-i-delete-my-account "How can I delete my account? : SlideRocket Customer Care") . After you have taken steps to successfully delete your account, you will no longer be able to access your account, nor will your presentations will be available to others. However, after deletion, SlideRocket may retain your account information and presentations in our systems (outside of public view) for up to 30 days. 
 
@@ -146,7 +146,7 @@ We will retain your personal information for the period necessary to fulfill the
 
 ## Contact Information:
 
-If you have any questions regarding this Privacy Policy or believe that the privacy of your personal information has not been respected, you may write to the attention of VMware’s Office of the General Counsel, 3401 Hillview Ave, Palo Alto, California, 94304 or email: [Privacy@SlideRocket.com](mailto:Privacy@SlideRocket.com).
+If you have any questions regarding this Privacy Policy or believe that the privacy of your personal information has not been respected, you may write to the attention of ClearSlide's legal department, 525 Market Street, Suite 3750, San Francisco CA 94105 or email: [legal@clearslide.com](mailto:legal@clearslide.com).
 
 ## Changes to this Policy:
 
@@ -156,5 +156,5 @@ SlideRocket will review and update this Privacy Policy periodically and will not
 
 By using our Services or voluntarily providing us with personal data, including sensitive, confidential or personally identifiable data, you are consenting to our use and disclosure of it in accordance with this Privacy Policy. This Privacy Policy is intended to cover collection of information through our Services from residents of the United States. If you provide Personal Data through our Services, you acknowledge and agree that such personal data may be transferred from your current location to the offices and servers of SlideRocket and any authorized third parties referred to herein located in the United States, which may have different data protection rules than in your country. 
 
-This Privacy Policy was last updated: June 22, 2012  
-This Privacy Policy is effective as of: June 22, 2012
+This Privacy Policy was last updated: March 27, 2013  
+This Privacy Policy is effective as of: March 27, 2013
