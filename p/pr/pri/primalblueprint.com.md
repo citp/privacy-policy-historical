@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the primalblueprint.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530204737id_/http%3A//primalblueprint.com/privacy.html%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D600%26width%3D700) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primalblueprint.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614105832id_/http%3A//primalblueprint.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
-# PrimalBlueprint
-
-## Privacy Policy
+# Privacy Policy
 
 Primal Nutrition believes that your privacy is very important. Read the following to learn all about our privacy policy.
 
@@ -11,6 +9,8 @@ Our policy applies to all personal information given and received, including all
 Primal Nutrition does gather personal information about you when you register, use any of our products and services, or visit any of our pages or pages of our partners. We may combine information about you with information from other associates and partners.
 
 When you become a customer or register as a member, we collect information about you such as your name, contact information, birth date, gender, location, occupation, and preferences. For purchases and some services we may ask for your relevant personal and financial information. Once you join, we know you – you are not anonymous. We collect information about your interactions with us and our partners. We do this automatically. Your browser also gives us your IP address and cookie information.
+
+As you browse PrimalBlueprint.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, [AdRoll](http://www.adroll.com/ "AdRoll"), then enables us to present you with [retargeting advertising](https://www.adroll.com/retargeting "AdRoll - Retargeting Advertising") on other sites based on your previous interaction with PrimalBlueprint.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number.  You can visit [this page](https://www.adroll.com/about/privacy "AdRoll Privacy Page") to opt out of AdRoll and their partners' targeted advertising.
 
 What we do with this information: We do this to personalize your experience and to provide you with the service and/or product you request – nothing more, nothing less. This information allows us to fulfill your requests for our products and services, talk to you, improve our service to you, and provide strictly anonymous reporting to other clients.
 
@@ -27,7 +27,3 @@ We reserve the right to talk to you about matters related to your use of product
 You are always free to terminate your relationship with Primal Nutrition.
 
 We provide complete physical, electronic and procedural security steps that comply with all federal government regulations in order to protect your information. We do not share your information with employees without their demonstrated, reasonable need to access your information in order to perform their jobs related to providing you with products and services that you request.
-
-From time to time, we may modify our policy. We will always inform you of any changes by contacting you via the email address you have given us.
-
-If you have any questions, please feel free to ask us by [clicking here](https://web.archive.org/web/20100530204737id_/http%3A//primalblueprint.com/contact.html).
