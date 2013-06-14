@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the michebag.com privacy policy that was archived on 2012-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121214073836id_/http%3A//www.michebag.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the michebag.com privacy policy that was archived on 2013-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130614204801id_/http%3A//www.michebag.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -36,12 +36,12 @@
               var quantityInput = $('#quantity');
               if (quantityInput.length > 0) { quantity = parseInt(quantityInput.val()); }
 
-/*              document.location.replace('http://store.michebag.com/checkout/add/' + sku + '?quantity=' + quantity); */
-              $.getJSON("http://store.michebag.com/api/v1/cart/add?cart=fc16863ccde0f34e3eedefe432744b3d&quantity=" + quantity + "&product=" + sku + "&callback=?", function(data) { 
+              document.location.replace('http://store.michebag.com/checkout/add/' + sku + '?quantity=' + quantity);
+/*              $.getJSON("http://store.michebag.com/api/v1/cart/add?cart=a5e8bb597c201159ccaf3ee4e858adfe&quantity=" + quantity + "&product=" + sku + "&callback=?", function(data) { 
                 $('#dropdown').load("/dropdown");
                 $('.snav-minicart').load("/snav");
               });
-              return false;
+              return false;*/
             });
             $( '.snav-content' ).scrollFollow( {
                         container: 'snav-container'
@@ -79,7 +79,8 @@ $(function(){
 <div id="mini-cart">
  <form action="/search" method="get" class="search">
     <input type="text" name="query" value="">
-    <span class="ic-bag"><span id="carttotal">$0.00</span> | <a href="#" id="viewcart">view cart</a>  <a href="/international" class="international-link"><img src="/assets/200/world.png" alt="globe"></a></span>
+    <!--<span class="ic-bag"><span id="carttotal">$0.00</span> | <a href="#" id="viewcart">view cart</a>  <a href="/international" class="international-link" ><img src="/assets/200/world.png"  alt='globe' /></a></span>-->
+<span class="ic-bag"> <a href="http://store.michebag.com/checkout" id="viewcartt">view cart</a>  <a href="/international" class="international-link"><img src="/assets/200/world.png" alt="globe"></a></span>
     <div id="dropdown">
       
 
@@ -127,12 +128,12 @@ $(function(){
 		</li>
 
 		<li>
-		<a href="/shop-your-way" class="border-none sf-with-ul">shopping<span class="sf-sub-indicator"> »</span></a>
+		<a href="/shop-now" class="border-none sf-with-ul">shopping<span class="sf-sub-indicator"> »</span></a>
 		<ul class="sf-js-enabled sf-shadow" style="display: none; visibility: hidden;">
-     		  <li><a href="/shop-your-way" class="ic-story">shop your way</a></li>				        
+     		  <li><a href="/shop-now" class="ic-story">shop now</a></li>				        
     		  <li><a href="/how-it-works" class="ic-works">how it works</a></li>
 		  <li><a href="/categories/bags" class="ic-base">base bags</a></li>
-		  <li><a href="/categories/miche-luxe" class="ic-luxe">miche luxe</a></li>
+		  <li><a href="/categories/miche-luxe" class="ic-base">miche luxe</a></li>
 		  <li><a href="/categories/prima-shells" class="ic-bigbag">prima shells</a></li>
 		  <li><a href="/categories/demi-shells" class="ic-demi">demi shells</a></li>
 		  <li><a href="/categories/shells" class="ic-classic">classic shells</a></li>
@@ -229,12 +230,12 @@ $(function(){
     <div><a href="http://www.facebook.com/pages/Miche/125294727555182" target="_blank"><img src="/assets/375/1.png" alt="Facebook"></a><a href="http://twitter.com/michedotcom" target="_blank"><img src="/assets/376/2.png" alt="Twitter"></a><a href="http://pinterest.com/officialmiche/" target="_blank"><img src="/assets/447/5.png" alt="Pinterest"></a><a href="http://www.youtube.com/user/OfficialMicheBag" target="_blank"><img src="/assets/377/3.png" alt="YouTube"></a><a href="http://blog.michebag.com" target="_blank"><img src="/assets/378/4.png" alt="Blog"></a></div>
   </div>
  <div class="bottom-ugc bottom-locator" style="width:258px;">
-    <h2 class="honey">Incentives &amp; Promotions</h2>
-    <div style="text-align:left;padding-left:80px;line-height:28px;">
+    <h2 class="honey" style="padding:15px 0 0 0px;font-size:42px;">Incentives &amp; Promotions</h2>
+    <div style="text-align:left;padding-left:60px;line-height:19px;">
  
-   <li> <a href="/miche-promotions#two">Hostess Rewards</a></li>
-   <!-- <li> <a href="/hostess-exclusive-program">Hostess Exclusive Shells</a></li>-->
-    <li> <a href="/miche-promotions#four">Booking Incentive</a></li>
+   <li> <a href="/miche-promotions">Current Promotions</a></li>
+     <li> <a href="/miche-promotions#two">Hostess Rewards</a></li>
+       <li> <a href="/miche-promotions#four">Booking Incentive</a></li>
     </div>
   </div>
   <!--<div class="bottom-ugc bottom-locator">
@@ -300,7 +301,7 @@ WIN Free Miche Bag Product!</a></p>
 
 <ul>
 	<li class="l-name">shopping: </li>   
-        <li><a href="/shop-your-way">shop your way</a></li>         
+        <li><a href="/shop-now">shop now</a></li>         
 	<li><a href="/categories/bags">base bags</a></li>
 	<li><a href="/categories/prima-shells">prima shells</a></li>
         <li><a href="/categories/demi-shells">demi shells</a></li>
@@ -320,7 +321,7 @@ WIN Free Miche Bag Product!</a></p>
   <li><a href="/termsandconditions">terms &amp; conditions</a></li>
 </ul>
 
-<p><span style="font-size:10px;line-height:12px;">© 2012 Miche Bag, LLC, all rights reserved. Miche® is a registered trademark of Miche Bag, LLC. The handbags shown herein are the subject of one or more of the following patents or patent applications: US D610,801, US D611,705, US D613,062, US D637,810, US D636,988, US D637,399, US D639,551, US D659,389, US D658,366, US D640,871, US D638,627, US D665,176, US 6,186,201, CA 128738, CA 132720, CA 132728, CN ZL 200830142455.2, BR DI 6900369-6, EU 001011043-0001-0004, AU 2009100633, US 6,186,201, EU 001727306-(0001-0007), EU 001727306-(0008-0028), AU 331296, AU 331477, AU 331478, CN XL 201030114904.X, JP 1406686, JP 1400702, or one or more U.S. or international patents pending.</span></p>
+<p><span style="font-size:10px;line-height:12px;">© 2013 Miche Bag, LLC, all rights reserved. Miche® and Endless Possibilities® are registered trademarks of Miche Bag, LLC. The handbags shown herein are the subject of one or more of the following patents or patent applications: US D610,801, US D611,705, US D613,062, US D637,810, US D636,988, US D637,399, US D639,551, US D659,389, US D658,366, US D640,871, US D638,627, US D665,176, US D661,089, US D665,176, US 6,186,201, CA 128738, CA 132720, CA 132728, CA 2679264, CN ZL 200830142455.2, BR DI 6900369-6, European Patent No. 2,163,169, EU 001011043-0001-0004, AU 2009100633, US 6,186,201, EU 001727306-(0001-0007), EU 001727306-(0008-0028), AU 331296, AU 331477, AU 331478, CN XL 201030114904.X, JP 1406686, JP 1400702, or one or more U.S. or international patents pending</span></p>
 				</div>
 			</div>				
 		</div>
