@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jbhunt.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525173757id_/http%3A//www.jbhunt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbhunt.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615005839id_/http%3A//www.jbhunt.com/privacy) for the most accurate reproduction.*
 
-# J.B. Hunt - Privacy Policy
+# Privacy Policy
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise to take the steps necessary to use your personal information only in ways that are compatible with this Privacy Policy.
 
