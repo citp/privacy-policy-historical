@@ -1,35 +1,37 @@
-> *The following text is extracted and transformed from the submissionmonster.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001050921id_/http%3A//www.submissionmonster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submissionmonster.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614234302id_/http%3A//www.submissionmonster.com/privacy.php) for the most accurate reproduction.*
 
-# Submission Monster: Professional Search Engine Submission Service
+# Submission Monster: Search Engine Submission and Marketing Services
 
-This Privacy Policy covers the Submission Monster treatment of personal information that is recorded when you sign-up for our search engine submission service. 
+## Privacy Policy Overview
 
-Our privacy policy does not apply to the practices of other companies advertised, or otherwise listed, on the Submission Monster website, nor does it extend to people that Submission Monster does not employ or manage. 
+This Privacy Policy covers the Submission Monster treatment of personal information that is recorded when you sign-up for our search engine submission service.
 
-**Information Collection and Use**
+Our privacy policy does not apply to the practices of other companies advertised, or otherwise listed, on the Submission Monster website, nor does it extend to people that Submission Monster does not employ or manage.
 
-The only information collected during sign-up is Name, Email Address and IP address. 
+#### Information Collection and Use
 
-Your use of Submission Monster's search engine submission service constitutes a business relationship wherein we provide a promotion service for your website(s). In exchange, Submission Monster reserves the right to use the contact information collected during sign-up to deliver notices regarding changes or updates to our service or to inform you of additions to the GreenWave Online Network of websites. 
+The only information collected during sign-up is Email Address and IP address.
 
-You may remove yourself from all notices or announcements using the unsubscribe methods provided in those mailings. Any mailing received from our company is clearly identified and includes at least 2 methods to remove yourself from future mailings. Should you encounter problems in this regard, contact: inquiry[at]submissionmonster.com. Our turnaround time for responding to unsubscribe requests is generally 24 hours. 
+Your use of Submission Monster's search engine submission service constitutes a business relationship wherein we provide a promotion service for your website(s). In exchange, Submission Monster reserves the right to use the contact information collected during sign-up to deliver notices regarding changes or updates to our service or to inform you of additions to the GreenWave Online Network of websites.
 
-**Information Sharing and Disclosure**
+With the exception of autoresponse messages which are sent at the time of autosubmission and contain important site submission results, you may remove yourself from all notices or announcements using the unsubscribe methods provided in those mailings. Any mailing received from our company is clearly identified and includes at least 2 methods to remove yourself from future mailings. Should you encounter problems in this regard, contact: inquiry[at]submissionmonster.com. Our turnaround time for responding to unsubscribe requests is generally 24 hours.
 
-Submission Monster maintains your email address and other pertinent personal information, provided at the time of your sign-up, on the premises. Submission Monster does not rent or sell email addresses nor any other personal data. 
+#### Information Sharing and Disclosure
 
-**Cookies**
+Submission Monster maintains your email address and other pertinent personal information, provided at the time of your sign-up, on the premises. Submission Monster does not rent or sell email addresses nor any other personal data.
 
-At this time, cookies are not used on the Submission Monster site. 
+#### Cookies
 
-**Security**
+Cookies are only used on the Submission Monster site for login management.
 
-Your personal information is stored in a protected directory. Access is restricted to Submission Monster staff. 
+#### Security
 
-**Changes to this Privacy Policy**
+Your personal information is stored in a protected directory. Access is restricted to Submission Monster staff.
 
-Submission Monster may amend this policy from time to time. If significant changes are made in the way your personal information is used, we will post a prominent announcement on our site notifying you of the change. 
+#### Changes to this Privacy Policy
 
-**Questions or Suggestions**
+Submission Monster may amend this policy from time to time. If significant changes are made in the way your personal information is used, we will post a prominent announcement on our site notifying you of the change.
 
-Questions or suggestions may be sent to: inquiry[at]submissionmonster.com 
+#### Questions or Suggestions
+
+Questions or suggestions may be sent to: inquiry[at]submissionmonster.com
