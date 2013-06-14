@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyingflowers.co.uk privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509101243id_/http%3A//www.flyingflowers.co.uk/Privacy-Policy-at-Flying-Flowers/Flowers/FF_PrivacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyingflowers.co.uk privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614155505id_/https%3A//www.flyingflowers.co.uk/Privacy-Policy-at-Flying-Flowers/Flowers/FF_PrivacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy at Flying Flowers
 
@@ -47,3 +47,22 @@ Recipient Details including name/title, address, phone number, personal message.
 All personal details supplied by you will be stored in a secure location and used to provide the services you have requested from us. In addition, your details may be used by us to tell you about other products and services we offer. We may occasionally pass your details to companies offering quality products or services carefully selected by us, which we feel may be of interest to you.
 
 Should you prefer some of these contacts not to be made in the future regarding new promotions and services, then contact us on the details above.
+
+  
+
+
+## About ‘Cookies’
+
+We may use technology to track the patterns of behaviour of registered and non-registered visitors to our site. This can include using a "cookie" which is a small file stored on your browser. The information collected in this way can be used to identify you unless you modify your browser to prevent this happening - guidance for which is set out below. We also aggregate this data to perform statistical analyses of the characteristics and behaviour of our Website visitors. Cookies are also used as a further means of ensuring private and secure purchase sessions are operated within the Website. 
+
+We may use third-party advertising companies to serve advertisements on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. Your browser can be modified to not accept cookies - guidance for which is provided in the paragraph below. 
+
+You have the ability to accept or decline cookies by modifying the settings in your browser (for example, using Internet Explorer select 'internet options' from the 'tools' menu, then click 'security', followed by 'custom level' and select 'disable cookies'). However, you may not be able to use all the interactive features of our site if cookies are disabled. For more information about cookies, including how to set your internet browser to reject cookies, please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+
+We are currently developing the ability for you to select which cookies you are happy for us to use during your time on our site and hope to have this available soon. The cookies we use on our site are as follows: 
+
+  | Quantity  
+---|---  
+Cookies essential for placing your order | 4  
+Cookies for analytics | 12  
+Cookies for marketing | 0
