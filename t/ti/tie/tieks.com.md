@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tieks.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107144444id_/http%3A//tieks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tieks.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614090124id_/http%3A//tieks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,6 +78,6 @@ www.tieks.com
 Beverly Hills, CA 90212  
 USA  
 info@tieks.com  
-310-571-8654
+310-601-7322
 
 This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority.
