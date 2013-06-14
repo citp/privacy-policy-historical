@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animelime.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122060117id_/http%3A//www.animelime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animelime.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614064005id_/http%3A//www.animelime.com/privacy-policy) for the most accurate reproduction.*
 
 # AnimeLime » Privacy Policy
 
