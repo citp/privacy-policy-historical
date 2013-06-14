@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the byo.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127201114id_/http%3A//byo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byo.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615015220id_/http%3A//byo.com/privacy-policy) for the most accurate reproduction.*
 
-# Brew Your Own: The How-To Homebrew Beer Magazine - Privacy Policy
+# Privacy Policy
 
 Battenkill Communications is committed to maintaining your privacy and that of the members of your family, when it comes to use of any "personally identifiable information" you may voluntarily provide us via the internet or otherwise.
 
@@ -38,12 +38,4 @@ Battenkill Communications 5053 Main St., Suite A Manchester Center, VT 05255
 
 [byo@byo.com](mailto:byo@byo.com)
 
-802-362-3981 802-362-2377 (fax)  
-  
-### Subscribe
-
-This Free Trial Print Issue offer is only valid in the US and Canada. For print subscriptions to _Brew Your Own_ outside the US and Canada, please [click here](https://subscribe.pcspublink.com/sub/subscribe.aspx?guid=e28ceed2-efed-4165-898b-284b99e2530d). 
-
-To order a print gift subscription to Brew Your Own, please [click here](https://subscribe.pcspublink.com/sub/subscribe.aspx?guid=497a5867-0ca2-4969-a0e0-c91ea4fa1cb2).
-
-To order a digital subscription to Brew Your Own, please [click here](http://byo.com/digitaledition). 
+802-362-3981 802-362-2377 (fax)
