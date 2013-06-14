@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyundai.com.au privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120200318id_/http%3A//www.hyundai.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundai.com.au privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614234357id_/http%3A//www.hyundai.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Hyundai Motor Company Australia
 
@@ -17,7 +17,7 @@ Hyundai and our authorised Hyundai dealers collect personal information from you
   * take a test drive at an authorised Hyundai dealer;
   * take your Hyundai vehicle to be serviced or repaired at an authorised Hyundai dealer;
   * enter a Hyundai trade promotion; or
-  * Wparticipate in a Hyundai marketing, product development, profiling, survey or research campaign.
+  * participate in a Hyundai marketing, product development, profiling, survey or research campaign.
 
 
 
