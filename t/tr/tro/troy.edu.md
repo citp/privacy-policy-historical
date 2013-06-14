@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troy.edu privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920143302id_/http%3A//www.troy.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troy.edu privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614224352id_/http%3A//trojan.troy.edu/privacy-statement.html) for the most accurate reproduction.*
 
 # Troy University - Privacy Statement
 
@@ -6,7 +6,6 @@ Troy University is committed to protecting your privacy. The University has esta
 
 Our website makes use of various technologies to collect information about types and versions of Internet browsers used when accessing our website. This information and information about Internet IP addresses, as well as date and time web pages are visited, are stored in various security and traffic logs. Our service provider reviews these logs, using statistical analysis, in an effort to track and predict traffic patterns and estimate resource needs. Unless we are tracking down a technical problem or we suspect either fraudulent behavior or illegal conduct, we do not trace specific user sessions. Because Troy University is a public institution, some information collected from its website may be subject to the Alabama Open Records Act, or in some instances, the University may be compelled by law to release information gathered from its web servers. Some web servers at Troy University may adopt different privacy statements as their specific needs require that may differ from this statement.
 
-  
 Troy University also complies with the Family Educational Rights and Privacy Act (FERPA), which prohibits the release of educational records without student permission. For more details on FERPA, currently enrolled students should consult the Troy University Student Handbook (The Oracle) or the University’s Office of Academic Records and University Registrar.
 
-Questions about this privacy statement or practices of any Troy University website should be directed to our [Website Feedback Form](https://it.troy.edu/cgi-bin/it/feedback/web.pl?Site=WWW).
+Questions about this privacy statement or practices of any Troy University website should be directed to our [Website Feedback Form](https://forms.troy.edu/cgi-bin/it/feedback/web.pl?Site=WWW).
