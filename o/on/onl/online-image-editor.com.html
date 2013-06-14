@@ -1,74 +1,83 @@
-<!--The following is the downloaded HTML source of the online-image-editor.com privacy policy that was archived on 2012-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121124081013id_/http%3A//www.online-image-editor.com/index.cfm%3Ffa%3Dhelp%26help_id%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the online-image-editor.com privacy policy that was archived on 2013-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130614055852id_/http%3A//www.online-image-editor.com/help/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<!DOCTYPE html><html><head>
 <title>Privacy Policy of the site | Free Online Image Editor</title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="Keywords" content="free,online,image,editor,gif,gifs,jpeg,jpg,bmp,convert,converter,create,creator,animated,animate,png,tiff,picture,resize,crop,split,frames,add,text,to">
 <meta name="Description" content="free,online,image,editor,animated,gifs,gif,resize,crop,split,into,frames">
-<meta http-equiv="pragma" content="no-cache">
-<meta http-equiv="cache-control" content="no-cache">
-<link rel="stylesheet" type="text/css" href="./styles/2010/styles.css">
+<link rel="stylesheet" type="text/css" href="../styles/2013/app_index.min.css">
 <!--[if lt IE 7]>
 <script defer type="text/javascript" src="./js_files/pngfix.js"></script>
 <![endif]-->
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34316150-1']);
+  _gaq.push(['_setDomainName', 'online-image-editor.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 </head>
 <body id="BackGround">
 <div id="thepage">
-	<div id="plus_1" style="top:5px;left:760px;"><g:plusone href="http://www.online-image-editor.com/"></g:plusone></div>
-	<div id="languages">
+	<div id="plus_1fp" style="top:5px;left:760px;"><g:plusone href="http://www.online-image-editor.com/"></g:plusone></div>
+	<div id="languages_fp">
 		
 <script>
 function changeLanguage(){
-	var lElement = document.getElementById("languageId");
-	var lLanguage = lElement.options[lElement.selectedIndex].value;
-	var lCurUrl = location.href.toLowerCase();
-	temp = lCurUrl.split('?');
+	var el = document.getElementById("languageId");
+	var lang = el.options[el.selectedIndex].value;
+	var url = location.href.toLowerCase();
+	var temp = url.split('?');
 	if (temp.length <2){
-		lNewLoc = lCurUrl+'?language='+lLanguage;
+		newurl = url+'?language='+lang;
 	}
 	else
 	{
-		var lCurShortUrl = temp[0];
-		var lParams = temp[1].split('&');
-		var lFound = false;
-		for ( var i=0, len=lParams.length; i<len; ++i ){
-		  lIndex= lParams[i].indexOf('language=');
-		  if (lIndex == 0){
-		  	lParams[i] = 'language='+lLanguage;
-		  	lSubString = lParams[i].split('=')[1];
-		  	lFound = true;
+		var url = temp[0];
+		var param = temp[1].split('&');
+		var found = false;
+		for ( var i=0, len=param.length; i<len; ++i ){
+		  var index= param[i].indexOf('language=');
+		  if (index == 0){
+			param[i] = 'language='+lang;
+		  	found = true;
 		  }
 		}
-		if (lFound)
-			lNewLoc = lCurShortUrl+'?'+lParams.join("&");
+		if (found)
+			newurl = url+'?'+param.join("&");
 		else
-			lNewLoc = lCurShortUrl+'?'+lParams.join("&")+'&language='+lLanguage;
+			newurl = url+'?'+param.join("&")+'&language='+lang;
 	}
-	location.href = lNewLoc;
+	location.href = newurl;
 }
 </script>
 
 <select class="language_abs" name="languageId" id="languageId" size="1" onchange="changeLanguage()">
-	<option value="English" selected="">English</option> <option value="Nederlands">Nederlands</option> <option value="Spanish">Spanish</option> <option value="French">French</option> <option value="Polish">Polish</option> <option value="Portuguese">Portuguese</option> <option value="Bulgarian">Bulgarian</option> <option value="Latvian">Latvian</option> 
+	<option value="english" selected="">English</option> <option value="nederlands">Nederlands</option> <option value="spanish">Spanish</option> <option value="japanese">Japanese</option> <option value="deutsch">Deutsch</option> <option value="french">French</option> <option value="polish">Polish</option> <option value="portuguese">Portuguese</option> <option value="bulgarian">Bulgarian</option> <option value="latvian">Latvian</option> 
 </select>
 	</div>
-	<div id="fb_like1"><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=177738572280613&amp;xfbml=1"></script><fb:like href="http://www.facebook.com/pages/Online-Image-Editor/101466849946722" send="false" width="90" layout="button_count" show_faces="false" font=""></fb:like></div>
-	<div id="logo"><a href="http://www.online-image-editor.com/"><img src="./styles/2010/images/logo.png" alt="go to image editor"></a></div>
+	<div id="fb_fp"><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=177738572280613&amp;xfbml=1"></script><fb:like href="http://www.facebook.com/pages/Online-Image-Editor/101466849946722" send="false" width="90" layout="button_count" show_faces="false" font=""></fb:like></div>
+	<div id="logo"><a href="http://www.online-image-editor.com"><img src="../styles/2013/images/logo.png" alt="go to image editor"></a></div>
     <div id="help_page">
 		<div style="width:700px">
 <center><h1>Privacy Policy for this site</h1></center>
-<p><br>
-</p><p> If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@online-image-editor.com. </p>
+<p></p><br>
+<p> If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@online-image-editor.com. </p>
 <p> At this site, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by this site and how it is used. </p>
 <p> <b>Log Files</b><br> Like many other Web sites, this site makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user�s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. </p>
 <p> <b>Cookies and Web Beacons</b><br> this site does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. </p>
 <b>DoubleClick DART Cookie</b><br>
-<p>
+<p></p>
 .:: Google, as a third party vendor, uses cookies to serve ads on this site.<br>
 .:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to this site and other sites on the Internet. <br>
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html </p>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html <p></p>
 <p> Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.</p>
 <p> These third-party ad servers or ad networks use technology to the advertisements and links that appear on this site send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. </p>
 <p> This site has no access to or control over these cookies that are used by third-party advertisers. </p>
@@ -76,7 +85,7 @@ function changeLanguage(){
 <p> If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. </p>
 </div>
 	</div>
-	<div id="addHelpPages">
+<div id="addHelpPages">
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-7822828566690289";
 /* HelpPageAddTall */
@@ -88,15 +97,16 @@ google_ad_height = 600;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </div>
-	<div id="footer"><br>copyright Marcel Wouterse | 
-		<a href="mailto:info@online-image-editor.com" class="footer">Contact Me</a> |
-		<a href="javascript:addBookmark('Free Online Image Editor', 'http://www.online-image-editor.com');" class="footer">Bookmark Me</a> | 
-		<a href="http://www.online-image-editor.com/index.cfm?fa=help&amp;help_id=privacy_policy" class="footer">Privacy Policy</a>
-		
-	</div>
+<div id="footer" class="footer"><br>copyright Marcel Wouterse | 
+	<a href="mailto:info@online-image-editor.com" class="footer">Contact Me</a> |
+	<a href="#" class="bkmrk">Bookmark Me</a> | 
+	<a href="http://www.online-image-editor.com/help/privacy_policy" class="footer">Privacy Policy</a> |
 	
-	<div id="back_to_oie"><a href="http://www.online-image-editor.com/">Back to image editor</a></div>
-	<div id="back_to_help"><a href="http://www.online-image-editor.com/?fa=help">Back to Help Index</a></div>
+</div>
+
+	<div id="back_to_oie"><a href="http://www.online-image-editor.com">Back to image editor</a></div>
+	
+	<div id="back_to_help"><a href="http://www.online-image-editor.com/help/">Back to Help Index</a></div>
 
 </div>
 
