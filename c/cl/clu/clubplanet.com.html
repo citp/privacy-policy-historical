@@ -1,20 +1,19 @@
-<!--The following is the downloaded HTML source of the clubplanet.com privacy policy that was archived on 2012-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121115130138id_/http%3A//www.clubplanet.com/aboutus/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clubplanet.com privacy policy that was archived on 2013-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130614232257id_/http%3A//www.clubplanet.com/aboutus/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><title>
+<!DOCTYPE html><html><head id="ctl00_ctl00_Head1"><title>
 	Clubplanet - Privacy
 </title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta id="ctl00_ctl00_MetaDescription" name="description" content="Worlds largest online guide to nightlife, nightclub listings, dance club promotions, club search, new years, ticket sales."><meta id="ctl00_ctl00_keywordMeta" name="keywords" content="nightlife, nightlife style, night club, new years, new years eve, nite club, nightclub, nightclubs, clubbing, night club promotions, club dance, club search, dance clubs,  bar, party,  techno, rave, free games,  special event, tickets"><meta name="classification" content="Nightlife, nightclub, new years, new years eve, bars, special events, clubs, nightlife"><meta name="copyright" content="Copyright 2007, Track Entertainment"><link rel="alternate" type="application/rss+xml" title="Clubplanet - Nightlife" href="http://feeds.feedburner.com/clubplanet/nightlife-features"><link rel="alternate" type="application/rss+xml" title="Clubplanet - Style" href="http://feeds.feedburner.com/Clubplanet-Style-Features"><link rel="alternate" type="application/rss+xml" title="Clubplanet - Music" href="http://feeds.feedburner.com/clubplanet-music-features"><link rel="alternate" type="application/rss+xml" title="Clubplanet - Top Photos" href="http://feeds.feedburner.com/Clubplanet/TopPhotos"><link rel="alternate" type="application/rss+xml" title="Clubplanet - JEWced" href="http://feeds.feedburner.com/jrl"><link rel="alternate" type="application/rss+xml" title="Clubplanet - Cocktail Hour" href="http://feeds.feedburner.com/CocktailHourWithAlanPhilips-Clubplanet"><link rel="alternate" type="application/rss+xml" title="Clubplanet - Inside Sin City" href="http://feeds.feedburner.com/inside-sin-city-with-marc-jay">
 
 
 
-<link rel="stylesheet" type="text/css" href="/Assets/css/Classes.css">
+<link rel="stylesheet" type="text/css" href="/Assets/css/Classes-min.css">
 
 
 
 		
 
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Assets/JavaScript/ClubPlanet.js"></script>
-        <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
 
         
 
@@ -31,134 +30,12 @@
 
     </style>
 
-
-
-        <!-- GOOGLE Analytics -->
-        <script type="text/javascript">
-            var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-74481-8']); _gaq.push(['_trackPageview']);
-
-            $(document).ready(function () {
-                var AdPageZone = document.getElementById("ctl00_ctl00_hidAdPageZone").value;
-                var GoogleAdPageZone = document.getElementById("ctl00_ctl00_hidGoogleAdPageZone").value;
-                var ShowAds = document.getElementById("ctl00_ctl00_hidShowAds").value;
-
-                if ($("#topLeaderBoard").length > 0) {
-                    TopLeaderBoard();
-                }
-                if ($("#bottomLeaderBoard").length > 0) {
-                    BottomLeaderBoard();
-                }
-                if ($("#topMedReq").length > 0) {
-                    TopMedReq();
-                }
-                if ($("#bottomMedReq").length > 0) {
-                    BottomMedReq();
-                }
-                if ($("#skyScrapper").length > 0) {
-                    SkyScrapper();
-                }
-
-                function TopLeaderBoard() {
-                    $.ajax({
-                        type: "POST",
-                        url: "/ads/topLeaderBoard.aspx?AdPageZone=" + AdPageZone + "&ShowAds=" + ShowAds, //Top banner File
-                        data: "",
-                        beforeSend: function () {
-                            $("div#topLeaderBoard").html('<span class="loading">Loading...</span>');
-                        },
-                        cache: false,
-                        success: function (data) {
-                            $("#topLeaderBoard").html(data);
-                        }
-                    });
-                }
-
-                function BottomLeaderBoard() {
-                    $.ajax({
-                        type: "POST",
-                        url: "/ads/BottomLeaderBoard.aspx?GoogleAdPageZone=" + GoogleAdPageZone + "&ShowAds=" + ShowAds,
-                        data: "",
-                        beforeSend: function () {
-                            $("div#bottomLeaderBoard").html('<span class="loading">Loading...</span>');
-                        },
-                        cache: false,
-                        success: function (data) {
-                            $("#bottomLeaderBoard").html(data);
-                        }
-                    });
-                }
-
-                function TopMedReq() {
-                    $.ajax({
-                        type: "POST",
-                        url: "/ads/TopMedReq.aspx?AdPageZone=" + AdPageZone + "&ShowAds=" + ShowAds,
-                        data: "",
-                        beforeSend: function () {
-                            $("div#topMedReq").html('<span class="loading">Loading...</span>');
-                        },
-                        cache: false,
-                        success: function (data) {
-                            $("#topMedReq").html(data);
-                        }
-                    });
-                }
-
-                function BottomMedReq() {
-                    $.ajax({
-                        type: "POST",
-                        url: "/ads/BottomMedReq.aspx?GoogleAdPageZone=" + GoogleAdPageZone + "&ShowAds=" + ShowAds,
-                        data: "",
-                        beforeSend: function () {
-                            $("div#bottomMedReq").html('<span class="loading">Loading...</span>');
-                        },
-                        cache: false,
-                        success: function (data) {
-                            $("#bottomMedReq").html(data);
-                        }
-                    });
-                }
-
-                function BottomMedReqHome() {
-                    $.ajax({
-                        type: "POST",
-                        url: "/ads/BottomMedReqHome.aspx", //Top banner File
-                        data: "",
-                        beforeSend: function () {
-                            $("div#bottomMedReqHome").html('<span class="loading">Loading...</span>');
-                        },
-                        cache: false,
-                        success: function (data) {
-                            $("#bottomMedReqHome").html(data);
-                        }
-                    });
-                }
-
-                function SkyScrapper() {
-                    $.ajax({
-                        type: "POST",
-                        url: "/ads/SkyScrapper.aspx", //Top banner File
-                        data: "",
-                        beforeSend: function () {
-                            $("div#skyScrapper").html('<span class="loading">Loading...</span>');
-                        },
-                        cache: false,
-                        success: function (data) {
-                            $("#skyScrapper").html(data);
-                        }
-                    });
-                }
-
-            });
-        </script>
-        <!-- End Of GOOGLE Analytics -->
-		
-
-	</head>
+</head>
 
 
   <body onclick="bodyClick(event)">
-        <form name="aspnetForm" method="post" action="/aboutus/privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTgyNjA4NDE3MQ9kFgJmD2QWAmYPZBYEZg9kFgQCAg8WAh4HY29udGVudAV6V29ybGRzIGxhcmdlc3Qgb25saW5lIGd1aWRlIHRvIG5pZ2h0bGlmZSwgbmlnaHRjbHViIGxpc3RpbmdzLCBkYW5jZSBjbHViIHByb21vdGlvbnMsIGNsdWIgc2VhcmNoLCBuZXcgeWVhcnMsIHRpY2tldCBzYWxlcy5kAgMPFgIfAAXqAW5pZ2h0bGlmZSwgbmlnaHRsaWZlIHN0eWxlLCBuaWdodCBjbHViLCBuZXcgeWVhcnMsIG5ldyB5ZWFycyBldmUsIG5pdGUgY2x1YiwgbmlnaHRjbHViLCBuaWdodGNsdWJzLCBjbHViYmluZywgbmlnaHQgY2x1YiBwcm9tb3Rpb25zLCBjbHViIGRhbmNlLCBjbHViIHNlYXJjaCwgZGFuY2UgY2x1YnMsICBiYXIsIHBhcnR5LCAgdGVjaG5vLCByYXZlLCBmcmVlIGdhbWVzLCAgc3BlY2lhbCBldmVudCwgdGlja2V0c2QCAQ8WAh4GYWN0aW9uBRUvYWJvdXR1cy9wcml2YWN5LmFzcHgWBAICD2QWBgIBD2QWAgIBD2QWAmYPZBYCAgMPD2QWBB4Hb25mb2N1cwUqaWYodGhpcy52YWx1ZSA9PSAnU2VhcmNoJyl0aGlzLnZhbHVlID0gJyc7HgZvbmJsdXIFK2lmKHRoaXMudmFsdWUgPT0gJycpIHRoaXMudmFsdWUgPSAnU2VhcmNoJztkAgIPDxYEHhZDdXJyZW50QnJlYWRjcnVtYlRpdGxlBQdQcml2YWN5HhBDdXJyZW50UGFnZVRpdGxlBRRDbHVicGxhbmV0IC0gUHJpdmFjeWQWAmYPFgIeBFRleHQFbzxhIGhyZWY9Ii9VUyI+VVM8L2E+ICZndDsgPGEgaHJlZj0iL1VTL05ldy1Zb3JrIj5OZXcgWW9yazwvYT4gJmd0OyA8YSBocmVmPSIvYWJvdXR1cyI+QWJvdXQgVXM8L2E+ICZndDsgUHJpdmFjeWQCAw8PFgIeB1Zpc2libGVoZGQCAw9kFgICBw9kFgICAQ9kFgJmD2QWAmYPFgIeC18hSXRlbUNvdW50AgQWCAIBD2QWBgIBDw8WAh4LTmF2aWdhdGVVcmwFGi9BcnRpY2xlcy8xMDExNS9UaWRhbC1XYXZlZBYCZg8PFggeBkhlaWdodBsAAAAAAABEQAEAAAAeBVdpZHRoGwAAAAAAAFJAAQAAAB4ISW1hZ2VVcmwFkgFodHRwOi8vZmlsZXMuY2x1YnBsYW5ldC5jb20vU2l0ZUZpbGVzL0dldEltYWdlLmFzaHg/aW1hZ2VGaWxlUGF0aD0lMmZTaXRlRmlsZXMlNWNBcnRpY2xlSW1hZ2VzJTVjMTAxMTUlNWMxNTAuanBnJm1heFdpZHRoPTcyJm1heEhlaWdodD00MCZtYXhLYj01MB4EXyFTQgKAA2RkAgMPDxYCHwkFGi9BcnRpY2xlcy8xMDExNS9UaWRhbC1XYXZlZBYCZg8VAQpUaWRhbCBXYXZlZAIEDxUBAGQCAg9kFgYCAQ8PFgIfCQUuL0FydGljbGVzLzEwMTE0L0FybWluLVZhbi1CdXVyZW4tTmV3LVllYXJzLUV2ZWQWAmYPDxYIHwobAAAAAAAAREABAAAAHwsbAAAAAAAAUkABAAAAHwwFkgFodHRwOi8vZmlsZXMuY2x1YnBsYW5ldC5jb20vU2l0ZUZpbGVzL0dldEltYWdlLmFzaHg/aW1hZ2VGaWxlUGF0aD0lMmZTaXRlRmlsZXMlNWNBcnRpY2xlSW1hZ2VzJTVjMTAxMTQlNWMxNTAuanBnJm1heFdpZHRoPTcyJm1heEhlaWdodD00MCZtYXhLYj01MB8NAoADZGQCAw8PFgIfCQUuL0FydGljbGVzLzEwMTE0L0FybWluLVZhbi1CdXVyZW4tTmV3LVllYXJzLUV2ZWQWAmYPFQEfQXJtaW4gVmFuIEJ1dXJlbiBOZXcgWWVhcidzIEV2ZWQCBA8VAQBkAgMPZBYGAgEPDxYCHwkFJi9BcnRpY2xlcy8xMDEwMy81LUZlc3RpdmFscy1XaXRoLUZlcnJ5ZBYCZg8PFggfChsAAAAAAABEQAEAAAAfCxsAAAAAAABSQAEAAAAfDAWUAWh0dHA6Ly9maWxlcy5jbHVicGxhbmV0LmNvbS9TaXRlRmlsZXMvR2V0SW1hZ2UuYXNoeD9pbWFnZUZpbGVQYXRoPSUyZlNpdGVGaWxlcyU1Y0FydGljbGVJbWFnZXMlNWMxMDEwMyU1YzE5MTUwLmpwZyZtYXhXaWR0aD03MiZtYXhIZWlnaHQ9NDAmbWF4S2I9NTAfDQKAA2RkAgMPDxYCHwkFJi9BcnRpY2xlcy8xMDEwMy81LUZlc3RpdmFscy1XaXRoLUZlcnJ5ZBYCZg8VARcjNSBGZXN0aXZhbHMgV2l0aCBGZXJyeWQCBA8VAU5J4oCZbSBkb25lISBXaGV3LiBbbGF1Z2hzXSBUaGF0IHdhc27igJl0IGVhc3ksIHdhcyBpdCBndXlzPyBGZXJyeSBDb3JzdGVuIGhlcmVkAgQPZBYGAgEPDxYCHwkFOS9BcnRpY2xlcy8xMDEwMS9QYWNoYS1JYml6YS1Ib3N0cy1FbmQtb2YtU2Vhc29uLURKLUF3YXJkc2QWAmYPDxYIHwobAAAAAAAAREABAAAAHwsbAAAAAAAAUkABAAAAHwwFkgFodHRwOi8vZmlsZXMuY2x1YnBsYW5ldC5jb20vU2l0ZUZpbGVzL0dldEltYWdlLmFzaHg/aW1hZ2VGaWxlUGF0aD0lMmZTaXRlRmlsZXMlNWNBcnRpY2xlSW1hZ2VzJTVjMTAxMDElNWMxNTAuanBnJm1heFdpZHRoPTcyJm1heEhlaWdodD00MCZtYXhLYj01MB8NAoADZGQCAw8PFgIfCQU5L0FydGljbGVzLzEwMTAxL1BhY2hhLUliaXphLUhvc3RzLUVuZC1vZi1TZWFzb24tREotQXdhcmRzZBYCZg8VASlQYWNoYSBJYml6YSBIb3N0cyBFbmQgb2YgU2Vhc29uIERKIEF3YXJkc2QCBA8VAUhUaGlzIHBhc3QgVHVlc2RheSBuaWdodCwgdGhlIERKIEF3YXJkcyB3ZXJlIGhvc3RlZCBhdCBQYWNoYSwgSWJpemEuIFdoYXRkZMwvgOZ0/MWaVxIpx4iIZyZnnNIZZsGruwwrK5tNGJIZ">
+        <form name="aspnetForm" method="post" action="/AboutUs/Privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTgyNjA4NDE3MQ9kFgJmD2QWAmYPZBYEZg9kFgQCAg8WAh4HY29udGVudAV6V29ybGRzIGxhcmdlc3Qgb25saW5lIGd1aWRlIHRvIG5pZ2h0bGlmZSwgbmlnaHRjbHViIGxpc3RpbmdzLCBkYW5jZSBjbHViIHByb21vdGlvbnMsIGNsdWIgc2VhcmNoLCBuZXcgeWVhcnMsIHRpY2tldCBzYWxlcy5kAgMPFgIfAAXqAW5pZ2h0bGlmZSwgbmlnaHRsaWZlIHN0eWxlLCBuaWdodCBjbHViLCBuZXcgeWVhcnMsIG5ldyB5ZWFycyBldmUsIG5pdGUgY2x1YiwgbmlnaHRjbHViLCBuaWdodGNsdWJzLCBjbHViYmluZywgbmlnaHQgY2x1YiBwcm9tb3Rpb25zLCBjbHViIGRhbmNlLCBjbHViIHNlYXJjaCwgZGFuY2UgY2x1YnMsICBiYXIsIHBhcnR5LCAgdGVjaG5vLCByYXZlLCBmcmVlIGdhbWVzLCAgc3BlY2lhbCBldmVudCwgdGlja2V0c2QCAQ8WAh4GYWN0aW9uBRUvQWJvdXRVcy9Qcml2YWN5LmFzcHgWBAICD2QWBgIBD2QWAgIBD2QWAmYPZBYCAgMPD2QWBB4Hb25mb2N1cwUqaWYodGhpcy52YWx1ZSA9PSAnU2VhcmNoJyl0aGlzLnZhbHVlID0gJyc7HgZvbmJsdXIFK2lmKHRoaXMudmFsdWUgPT0gJycpIHRoaXMudmFsdWUgPSAnU2VhcmNoJztkAgIPDxYEHhZDdXJyZW50QnJlYWRjcnVtYlRpdGxlBQdQcml2YWN5HhBDdXJyZW50UGFnZVRpdGxlBRRDbHVicGxhbmV0IC0gUHJpdmFjeWQWAmYPFgIeBFRleHQFbzxhIGhyZWY9Ii9VUyI+VVM8L2E+ICZndDsgPGEgaHJlZj0iL1VTL05ldy1Zb3JrIj5OZXcgWW9yazwvYT4gJmd0OyA8YSBocmVmPSIvYWJvdXR1cyI+QWJvdXQgVXM8L2E+ICZndDsgUHJpdmFjeWQCAw8PFgIeB1Zpc2libGVoZGQCAw9kFgICBw9kFgICAQ9kFgJmD2QWAmYPFgIeC18hSXRlbUNvdW50AgQWCAIBD2QWBgIBDw8WAh4LTmF2aWdhdGVVcmwFJi9BcnRpY2xlcy8xMDI0MS9UaGUtRGF5LXRoZS1NdXNpYy1EaWVkZBYCZg8PFggeBkhlaWdodBsAAAAAAABEQAEAAAAeBVdpZHRoGwAAAAAAAFJAAQAAAB4ISW1hZ2VVcmwFnwFodHRwOi8vZmlsZXMuY2x1YnBsYW5ldC5jb20vU2l0ZUZpbGVzL0dldEltYWdlLmFzaHg/aW1hZ2VGaWxlUGF0aD0lMmZTaXRlRmlsZXMlNWNBcnRpY2xlSW1hZ2VzJTVjMTAyNDElNWNuby1tdXNpYy0xNTB4MTUwLnBuZyZtYXhXaWR0aD03MiZtYXhIZWlnaHQ9NDAmbWF4S2I9NTAeBF8hU0ICgANkZAIDDw8WAh8JBSYvQXJ0aWNsZXMvMTAyNDEvVGhlLURheS10aGUtTXVzaWMtRGllZGQWAmYPFQEWVGhlIERheSB0aGUgTXVzaWMgRGllZGQCBA8VAUdXZWxsLCBpdOKAmXMgZmluYWxseSBoYXBwZW5lZC4gQWZ0ZXIgeWVhcnMgb2YgdGhlIEVETSBpbmR1c3RyeSB0aHJvd2luZ2QCAg9kFgYCAQ8PFgIfCQUzL0FydGljbGVzLzEwMjQwL0Nob29zZS15b3VyLXBhdGgtd2l0aC1TdGV2ZS1BbmdlbGxvZBYCZg8PFggfChsAAAAAAABEQAEAAAAfCxsAAAAAAABSQAEAAAAfDAW8AWh0dHA6Ly9maWxlcy5jbHVicGxhbmV0LmNvbS9TaXRlRmlsZXMvR2V0SW1hZ2UuYXNoeD9pbWFnZUZpbGVQYXRoPSUyZlNpdGVGaWxlcyU1Y0FydGljbGVJbWFnZXMlNWMxMDI0MCU1Y1N0ZXZlLUFuZ2VsbG8tNF9XRVQtUmVwdWJsaWNfLTEwLTItMTEtMTUweDE1MC5qcGcmbWF4V2lkdGg9NzImbWF4SGVpZ2h0PTQwJm1heEtiPTUwHw0CgANkZAIDDw8WAh8JBTMvQXJ0aWNsZXMvMTAyNDAvQ2hvb3NlLXlvdXItcGF0aC13aXRoLVN0ZXZlLUFuZ2VsbG9kFgJmDxUBI0Nob29zZSB5b3VyIHBhdGggd2l0aCBTdGV2ZSBBbmdlbGxvZAIEDxUBSFlvdSByZW1lbWJlciBncm93aW5nIHVwIGFuZCByZWFkaW5nIHRoZSBjaG9vc2UgeW91ciBvd24gYWR2ZW50dXJlIG5vdmVsc2QCAw9kFgYCAQ8PFgIfCQUtL0FydGljbGVzLzEwMjM3L0pvaG4tQXNrZXctbGV2ZWxzLXdpdGgtQXZpY2lpZBYCZg8PFggfChsAAAAAAABEQAEAAAAfCxsAAAAAAABSQAEAAAAfDAWdAWh0dHA6Ly9maWxlcy5jbHVicGxhbmV0LmNvbS9TaXRlRmlsZXMvR2V0SW1hZ2UuYXNoeD9pbWFnZUZpbGVQYXRoPSUyZlNpdGVGaWxlcyU1Y0FydGljbGVJbWFnZXMlNWMxMDIzNyU1Y0F2aWNpaS0xNTB4MTUwLmpwZyZtYXhXaWR0aD03MiZtYXhIZWlnaHQ9NDAmbWF4S2I9NTAfDQKAA2RkAgMPDxYCHwkFLS9BcnRpY2xlcy8xMDIzNy9Kb2huLUFza2V3LWxldmVscy13aXRoLUF2aWNpaWQWAmYPFQEdSm9obiBBc2tldyBsZXZlbHMgd2l0aCBBdmljaWlkAgQPFQFHQW5vdGhlciBtb250aCBhbm90aGVyIERKIGZldWQgYW5kIHRoaXMgdGltZSBpdCdzIG91ciBmYXZvcml0ZSBvdXRzcG9rZW5kAgQPZBYGAgEPDxYCHwkFMy9BcnRpY2xlcy8xMDIyOS9JbnNvbW5pYWMtYW5ub3VuY2UtRURDLVdlZWstbGluZS11cGQWAmYPDxYIHwobAAAAAAAAREABAAAAHwsbAAAAAAAAUkABAAAAHwwFlQFodHRwOi8vZmlsZXMuY2x1YnBsYW5ldC5jb20vU2l0ZUZpbGVzL0dldEltYWdlLmFzaHg/aW1hZ2VGaWxlUGF0aD0lMmZTaXRlRmlsZXMlNWNBcnRpY2xlSW1hZ2VzJTVjMTAyMjklNWNFREMxNTAuanBnJm1heFdpZHRoPTcyJm1heEhlaWdodD00MCZtYXhLYj01MB8NAoADZGQCAw8PFgIfCQUzL0FydGljbGVzLzEwMjI5L0luc29tbmlhYy1hbm5vdW5jZS1FREMtV2Vlay1saW5lLXVwZBYCZg8VASNJbnNvbW5pYWMgYW5ub3VuY2UgRURDIFdlZWsgbGluZSB1cGQCBA8VAUpJbnNvbW5pYWMgaGF2ZSBqdXN0IGFubm91bmNlZCB0aGUgd2VlayBsb25nIGZlc3Rpdml0aWVzIHRoYXQgd2lsbCBzdXJyb3VuZGRkBK4MGqpgM8P6lmwtcMIWAHw+kg51Bfs3/VA/9Q7w3Yo=">
 
 
 <script type="text/javascript">
@@ -174,22 +51,7 @@ function SearchClubPlanet() {
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=RAfM3TLInMUYIgk1qAqpVdxZ4WmYHNlA5raqdnBSKsCOI0L8RkzY-76awkmFnfgahhrL-dB7o4KHqf29k7pTPmcI5fbpiCLjxuRXAnvNaetUg4pP_hGRvzeimEdtlwCTewWr0UA8T52hsnJessrSqssJOW1yfWCbgPyWx7un3aZKMzUSuSDg4AvrEYfGeHpq0&amp;t=ffffffff940d030f" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
-//]]>
-</script>
-
-<script src="/ScriptResource.axd?d=nrda45We8Dk8AYoYUrzINRuGmD6HwyexA_ZBP7vzTjrq0tCyLsyMTXSJqngh9SHr1V7xldOPCEur1tbGyKXMvk0M8-GwhzmSOBuoYBsoZH6Qr3IUkBZKRyNTMjZsjbro6peeH6P8Ri7IHyJQ5530O8t_xBeNwkuOGhoOzLUbquc1&amp;t=ffffffffd2a9b7c7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=9LAw3O2CojlU4H00ul1Vz9yOdOBtAY5mSqhR3xSg7ZQrRt8bau-OZmz9EoMWqMQD1ytnB3rMaFWblLWjg5oIoBfLmL0Syby06JmlrbyQNj_t2bJtdzlHa8tgyP5LgNWRdAZhUAbsWyYnOOk8nsDyXuWXCvRtWUzNW6Ov3YkFXpo1&amp;t=ffffffffd2a9b7c7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=-w6Yfg3tUnr-LHvX7dMbHh2y3TlkWbpeVZO6uNE7ERTo-V1aSwCktxRIlIUrIcc_jwAvo-vIdwiclbIJQLGjAADSU1Cj7M51_llLHVC53iZST3apVdJqUc6d0qKMgL6Cb_nazXB534dFVOzEItxch7csG1VFt6_7bSWTTsWAT8JGWhD1EJTJyg96idMlncDn0&amp;t=ffffffffd2a9b7c7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=18Qoz9VimxtfP9_IPxQSho5CfWzJKpuccLXOwBWI1Wm0oVpVG7VoTg84EEpfDwMhVHdy-Q6v4Q3fDs5Vk0M9cysSyZHWPsb_5QjXLrRkLUL8d79B-rzMS73ZEEWswZA0k0D0ff2uS0NpDZO0we5H4S3WZXc5j99zX7LZpe1zTC81&amp;t=ffffffffd2a9b7c7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=vFJMAXmQJP6JTFGTnVftIBG9Y96MJKMqUsYHUuqHcvZbRcAr089p1xFyEzumZSO8zd7dKAmxK53zgc5GLhVyCm6Y9VNeIEx4hD7JfznoodUrUyxUAVN2YcuspqRpck_kadIBQigwSEXwkTNcikTb0LTKjhozSrYtCHUZ2fkorgtPNknfREZqTWMn-O9RMb7c0&amp;t=ffffffffd2a9b7c7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=976Ebwvh4T4fg9Z8V-4Kvz2wcO-e418R2t1VEy8E9G9hhCF1AmZYQIem1k0Cw0zjdkdVdN6maD9p1_ub1vlrywSL6LOUCV6JPoeNlHEoN7_iWnoOkWFtS8X_amCaEXrcoMEFmAenYSM_ojLZxPuXkJ7oVy_q1FV3ySNpCkxbbwyW7QCP5kPhogmlZJwfxXgXgjUAzfTUmhsfzkkb9UM5Tg2&amp;t=ffffffffd2a9b7c7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=L21SEnH1nD2oW8mRq-N4MGmfdRA5y1VzE6-LTmbiE6YJVFRpkC1gbjzLhLAP-VZBi_yF14eAtb8S1pmlbYh0AE_X2GES-fGg1jthOIBaPREBVmtY4dn7NKlzSJ0r69kJZGvXti4Jl0hx4fk9D0plNTTY-VNtWwRtDypXMR4nc6w9-G3n_Rx5544SjGsB5vTa0&amp;t=ffffffffd2a9b7c7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=UJOdxFwhAd3I0jdw5YKuRb_44zJywr7SCfb2sMCsAJ6l48oewz6hcKfFXJFfnVQBHz2FFQrGLGP3obyLue_vV-9MUz867bLO5XC8Rn3Z3CYUy1MDe48LNLXMzVQOmc5pWSqYR4lsxwIBXcZetsUIczuvwfzfWdKJINfl3ZnzBWK3RIl4UQa2yfaDuwHuVsjK0&amp;t=ffffffffd2a9b7c7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=DCqgjrU3hDW5fkmpCZ7mtJrznSdh6hV7L2quIE7RrPbmIBQ8OWV6KALbDKZcP6qS-FWPMIRu9epeD4eja4eekB3IP8tEjWsR0XpjtuPEg62rooKraxCyYF6ZrU4yXKTAo6PSPMn3yhOJID-17upJj7U3HbYHcsLcL3RPiuuujYRCVxzs5hpqLa6ZAlKcdhWo0&amp;t=ffffffffd2a9b7c7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=xZttlfk99TcimjXk7frydCwRZ_2kOZWKWT9OGPzf6LrikhTJJ9PfPce44gRq3YMM84CZKaZ_Mz05joujxJBY0w4ghRE6g2O5Gjet-atrCo2xXzMe3CuoX8hNnvW6XbjDmfKpz_FKt5WQS5-eqjiLd5SzvHo_-kJ329kqye-D55KWj0kLvxL_qbf1R3bonH3G3eaj-TUBJ-sWCF2Jl7429-Rpc3Z3QmbfJEySu85MqBbZ7QJB00igKvXvzOWL8oEtUZJNi1CcefSiRgU1k7kqJjh_EY3TXYO91z8-_bohYdf3r68YOLpjd68FiAvneFS4bwf2SBd_1_nMbr5IMewgP0yl3_TmLltJYASqqG1yXOg5b5l1-CUkMHis7-5DLU5cV4oQPEG4LJbElWl0MAVcZqWKSNfF_GamHwN8mT_tPfkGk-nxXl5zoR7UxHq6A76U0NYWyxSgc0xUxM8eggTujxIqXq2rqNGejQ6cMjgXUhcSSIyXyp37yExBH4CJJYYBrpihY2YgsCbkhTkKirdt6WSODWQ9DghWyEjMktMhSPQ2t-MCfmW6ew8kuQ3ddwk-_fv1Yp-iQ5R2OyG8lz1HnU6pqdpQWczT38OvFN9hxkAzOL1EMYmSBi7n9ndnavTAHd6hk_52qwdgi72xXoiEBgZTnxItaH0OKibDWEc28aji7NiVGW68BDGUjMvIJ5n5sCzt4IXLRaGx3qw7drIWN_eUuaMwxOZStLcA3ILg8fABJ5lF7CM18Rfu3dF8qtAv5uVPNBEHO_5w94RHzjxcTxqFiwaqWQ3s6IiasQTqTbpGgPq4cqh1QX0c5eZQjHQfaR1R74p1repd3Aci3c9hQcCEKught68Twg276EEnTa41" type="text/javascript"></script>
 			
 			
 			
@@ -226,10 +88,6 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <div id="innerMain">
 
                      
-                     <style type="text/css">
-                        body, #innerMain { background-image: url('http://www.clubplanet.com/Assets/Images/Wallpaper/ArmanBckgrnd.jpg'); background-repeat:no-repeat; background-color:#FFF; background-position:center top; background-attachment:fixed;}
-                     </style>
-                     
 <script language="javascript" type="text/javascript">
         // This function makes the wallpaper clickable when called from onclick event of the body
        function bodyClick(evt) {
@@ -239,7 +97,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             var elementRef = (evt.srcElement) ? evt.srcElement : evt.target;
 
             if (elementRef && (elementRef.tagName.toLowerCase() == "body" || elementRef.id == "innerMain")) {
-                window.open("http://armin.clubplanet.com");
+                //window.open("http://armin.clubplanet.com");
             }
         }
 
@@ -265,18 +123,22 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             <map name="socialnetwork">
                 <area shape="rect" coords="0, 0 ,25, 25" href="http://twitter.com/clubplanet" alt="twitter" target="_blank">
                 <area shape="rect" coords="25, 0 ,50, 25" href="http://www.facebook.com/pages/wwwclubplanetcom/40249033921" alt="facebook" target="_blank">
-            </map>
+            </map>            
         </div>
+            
 
 	    <div id="loginBox">
 	    
+            <div style="color:#FFF; position:absolute; top:8px;">We want to work with you, <a href="http://www.clubplanet.com/aboutus/Advertising.aspx">click here</a></div>
             <div id="ctl00_ctl00_Header1_pnlLeader">
 	
                 
 
                 <div id="leaderBoard">
-                    <!-- DO NOT REMOVE THIS DIV. TOP AD IS LOADED DYNAMICALLY BASED ON THIS ID -->
-                    <div id="topLeaderBoard"></div>
+                    <!-- DO NOT REMOVE THIS DIV. TOP AD IS LOADED DYNAMICALLY BASED ON THIS ID -->                   
+                    <div id="topLeaderBoard">
+
+                    </div>
                 </div>
 
                 
@@ -480,34 +342,34 @@ div.submenu .imageWrapper {width:165px;}
         
                 <div class="imageWrapper">
                 
-                <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl0_RewrittenUrlLink3" href="/Galleries/266201/Palladium/Astoria/11-14-2012/470888"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl0_CPImage3" title="photo.JPG" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c266201%5cphoto.JPG&amp;maxWidth=160&amp;maxHeight=110&amp;maxKb=50&amp;cropImage=true" alt="photo.JPG"></a>
+                <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl0_RewrittenUrlLink3" href="/Galleries/266435/Bliss-Lounge/Clifton/06-11-2013/472230"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl0_CPImage3" title="2web_only_BACK_starkillers_by_perfektany.com.jpg" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c266435%5c2web_only_BACK_starkillers_by_perfektany.com.jpg&amp;maxWidth=160&amp;maxHeight=110&amp;maxKb=50&amp;cropImage=true" alt="2web_only_BACK_starkillers_by_perfektany.com.jpg"></a>
                                       
             
                 
                 
                     <div class="smallThumb">			                    
-                        <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl1_RewrittenUrlLink2" href="/Galleries/266201/Palladium/Astoria/11-14-2012/470889"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl1_CPImage2" title="SIDE B - GENTLEMANS NIGHT - PALLADIUM - ROMEO ROMERO - 11-11-12.jpg" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c266201%5cSIDE+B+-+GENTLEMANS+NIGHT+-+PALLADIUM+-+ROMEO+ROMERO+-+11-11-12.jpg&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true" alt="SIDE B - GENTLEMANS NIGHT - PALLADIUM - ROMEO ROMERO - 11-11-12.jpg"></a>
+                        <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl1_RewrittenUrlLink2" href="/Galleries/266431/Congo-Bar/Lake-Geneva/06-09-2013/472221"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl1_CPImage2" title="P1010021.JPG" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c266431%5cP1010021.JPG&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true" alt="P1010021.JPG"></a>
                     </div>
                                       
             
                 
                 
                     <div class="smallThumb">			                    
-                        <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl2_RewrittenUrlLink2" href="/Galleries/266201/Palladium/Astoria/11-14-2012/470890"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl2_CPImage2" title="SIDE A - LADIES NIGHT - PALLADIUM - ROMEO ROMERO - 11-11-12.jpg" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c266201%5cSIDE+A+-+LADIES+NIGHT+-+PALLADIUM+-+ROMEO+ROMERO+-+11-11-12.jpg&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true" alt="SIDE A - LADIES NIGHT - PALLADIUM - ROMEO ROMERO - 11-11-12.jpg"></a>
+                        <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl2_RewrittenUrlLink2" href="/Galleries/266431/Congo-Bar/Lake-Geneva/06-09-2013/472222"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl2_CPImage2" title="P1010016.JPG" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c266431%5cP1010016.JPG&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true" alt="P1010016.JPG"></a>
                     </div>
                                       
             
                 
                 
                     <div class="smallThumb">			                    
-                        <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl3_RewrittenUrlLink2" href="/Galleries/266201/Palladium/Astoria/11-14-2012/470891"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl3_CPImage2" title="615405_132580600224842_1532795853_o.jpg" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c266201%5c615405_132580600224842_1532795853_o.jpg&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true" alt="615405_132580600224842_1532795853_o.jpg"></a>
+                        <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl3_RewrittenUrlLink2" href="/Galleries/266431/Congo-Bar/Lake-Geneva/06-09-2013/472223"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl3_CPImage2" title="P1010014.JPG" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c266431%5cP1010014.JPG&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true" alt="P1010014.JPG"></a>
                     </div>
                                       
             
                 
                 
                     <div class="smallThumb">			                    
-                        <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl4_RewrittenUrlLink2" href="/Galleries/266201/Palladium/Astoria/11-14-2012/470892"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl4_CPImage2" title="534692_132580580224844_146868083_n.jpg" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c266201%5c534692_132580580224844_146868083_n.jpg&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true" alt="534692_132580580224844_146868083_n.jpg"></a>
+                        <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl4_RewrittenUrlLink2" href="/Galleries/266431/Congo-Bar/Lake-Geneva/06-09-2013/472224"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl4_CPImage2" title="Maridien.JPG" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c266431%5cMaridien.JPG&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true" alt="Maridien.JPG"></a>
                     </div>
                                       
             
@@ -588,6 +450,7 @@ div.submenu .imageWrapper {width:165px;}
 
 <li>
 	<a target="_top" class="last" href="/events/partyplanning.aspx">Plan Your Party</a>
+    
 </li>
 
 <li>
@@ -658,11 +521,8 @@ div.submenu .imageWrapper {width:165px;}
 		
 
     <div id="twoColumnWrapper">
-      
-        <a href="http://ev6.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3AGLOBAL-BORGATA%3ABOR12%3AEC1228%3A&amp;linkID=global-borgata&amp;shopperContext=&amp;call&amp;disid=wmm_clp_bon_guet_1025-94040" target="_blank">
-            <img src="http://www.clubplanet.com/assets/images/banners/Guetta_940x40.jpg">
-        </a>
-        <div id="twoColTop">
+        
+<div id="twoColTop">
 
         
         
@@ -789,13 +649,13 @@ div.submenu .imageWrapper {width:165px;}
 		<div class="Todaysfix-Result">
 		
 			<div class="Image">
-				<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl01_RewrittenUrlLink2" href="/Articles/10115/Tidal-Wave"><img id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl01_CPImage2" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cArticleImages%5c10115%5c150.jpg&amp;maxWidth=72&amp;maxHeight=40&amp;maxKb=50" height="40" width="72"></a>
+				<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl01_RewrittenUrlLink2" href="/Articles/10241/The-Day-the-Music-Died"><img id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl01_CPImage2" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cArticleImages%5c10241%5cno-music-150x150.png&amp;maxWidth=72&amp;maxHeight=40&amp;maxKb=50" height="40" width="72"></a>
 			</div>
 
 			<div class="Summary">
 				<div>
-					<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl01_RewrittenUrlLink1" class="link" href="/Articles/10115/Tidal-Wave">Tidal Wave</a> - 
-					<span class="descr">... </span>
+					<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl01_RewrittenUrlLink1" class="link" href="/Articles/10241/The-Day-the-Music-Died">The Day the Music Died</a> - 
+					<span class="descr">Well, it’s finally happened. After years of the EDM industry throwing... </span>
 				</div>
 			</div>
 			<div class="Clear"><!-- --></div>
@@ -806,13 +666,13 @@ div.submenu .imageWrapper {width:165px;}
 		<div class="Todaysfix-Result">
 		
 			<div class="Image">
-				<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl02_RewrittenUrlLink2" href="/Articles/10114/Armin-Van-Buuren-New-Years-Eve"><img id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl02_CPImage2" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cArticleImages%5c10114%5c150.jpg&amp;maxWidth=72&amp;maxHeight=40&amp;maxKb=50" height="40" width="72"></a>
+				<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl02_RewrittenUrlLink2" href="/Articles/10240/Choose-your-path-with-Steve-Angello"><img id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl02_CPImage2" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cArticleImages%5c10240%5cSteve-Angello-4_WET-Republic_-10-2-11-150x150.jpg&amp;maxWidth=72&amp;maxHeight=40&amp;maxKb=50" height="40" width="72"></a>
 			</div>
 
 			<div class="Summary">
 				<div>
-					<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl02_RewrittenUrlLink1" class="link" href="/Articles/10114/Armin-Van-Buuren-New-Years-Eve">Armin Van Buuren New Year's Eve</a> - 
-					<span class="descr">... </span>
+					<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl02_RewrittenUrlLink1" class="link" href="/Articles/10240/Choose-your-path-with-Steve-Angello">Choose your path with Steve Angello</a> - 
+					<span class="descr">You remember growing up and reading the choose your own adventure novels... </span>
 				</div>
 			</div>
 			<div class="Clear"><!-- --></div>
@@ -823,13 +683,13 @@ div.submenu .imageWrapper {width:165px;}
 		<div class="Todaysfix-Result">
 		
 			<div class="Image">
-				<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl03_RewrittenUrlLink2" href="/Articles/10103/5-Festivals-With-Ferry"><img id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl03_CPImage2" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cArticleImages%5c10103%5c19150.jpg&amp;maxWidth=72&amp;maxHeight=40&amp;maxKb=50" height="40" width="72"></a>
+				<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl03_RewrittenUrlLink2" href="/Articles/10237/John-Askew-levels-with-Avicii"><img id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl03_CPImage2" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cArticleImages%5c10237%5cAvicii-150x150.jpg&amp;maxWidth=72&amp;maxHeight=40&amp;maxKb=50" height="40" width="72"></a>
 			</div>
 
 			<div class="Summary">
 				<div>
-					<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl03_RewrittenUrlLink1" class="link" href="/Articles/10103/5-Festivals-With-Ferry">#5 Festivals With Ferry</a> - 
-					<span class="descr">I’m done! Whew. [laughs] That wasn’t easy, was it guys? Ferry Corsten here... </span>
+					<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl03_RewrittenUrlLink1" class="link" href="/Articles/10237/John-Askew-levels-with-Avicii">John Askew levels with Avicii</a> - 
+					<span class="descr">Another month another DJ feud and this time it's our favorite outspoken... </span>
 				</div>
 			</div>
 			<div class="Clear"><!-- --></div>
@@ -840,13 +700,13 @@ div.submenu .imageWrapper {width:165px;}
 		<div class="Todaysfix-Result">
 		
 			<div class="Image">
-				<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl04_RewrittenUrlLink2" href="/Articles/10101/Pacha-Ibiza-Hosts-End-of-Season-DJ-Awards"><img id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl04_CPImage2" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cArticleImages%5c10101%5c150.jpg&amp;maxWidth=72&amp;maxHeight=40&amp;maxKb=50" height="40" width="72"></a>
+				<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl04_RewrittenUrlLink2" href="/Articles/10229/Insomniac-announce-EDC-Week-line-up"><img id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl04_CPImage2" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cArticleImages%5c10229%5cEDC150.jpg&amp;maxWidth=72&amp;maxHeight=40&amp;maxKb=50" height="40" width="72"></a>
 			</div>
 
 			<div class="Summary">
 				<div>
-					<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl04_RewrittenUrlLink1" class="link" href="/Articles/10101/Pacha-Ibiza-Hosts-End-of-Season-DJ-Awards">Pacha Ibiza Hosts End of Season DJ Awards</a> - 
-					<span class="descr">This past Tuesday night, the DJ Awards were hosted at Pacha, Ibiza. What... </span>
+					<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl04_RewrittenUrlLink1" class="link" href="/Articles/10229/Insomniac-announce-EDC-Week-line-up">Insomniac announce EDC Week line up</a> - 
+					<span class="descr">Insomniac have just announced the week long festivities that will surround... </span>
 				</div>
 			</div>
 			<div class="Clear"><!-- --></div>
@@ -944,7 +804,7 @@ div.submenu .imageWrapper {width:165px;}
     Tel: (212)843-2400
 </div>
 <div>
-	<div id="copyRight">Copyright © 2012 Clubplanet, Inc. All Rights Reserved.</div>
+	<div id="copyRight">Copyright © 2013 Clubplanet, Inc. All Rights Reserved.</div>
 
 </div>
 
@@ -983,7 +843,7 @@ div.submenu .imageWrapper {width:165px;}
 <script type="text/javascript">
 //<![CDATA[
 Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"popupUiCover","CancelControlID":"ctl00_ctl00_lnkPopupClose","PopupControlID":"ctl00_ctl00_pnlPopup","PopupDragHandleControlID":"ctl00_ctl00_pnlDragger","dynamicServicePath":"/aboutus/privacy.aspx","id":"ctl00_ctl00_mpePopup"}, null, null, $get("ctl00_ctl00_lnkModalPopupTrigger"));
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"popupUiCover","CancelControlID":"ctl00_ctl00_lnkPopupClose","PopupControlID":"ctl00_ctl00_pnlPopup","PopupDragHandleControlID":"ctl00_ctl00_pnlDragger","dynamicServicePath":"/AboutUs/Privacy.aspx","id":"ctl00_ctl00_mpePopup"}, null, null, $get("ctl00_ctl00_lnkModalPopupTrigger"));
 });
 //]]>
 </script>
@@ -991,6 +851,127 @@ Sys.Application.add_init(function() {
     
      
             
+
+                <!-- GOOGLE Analytics -->
+        <script type="text/javascript">
+            var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-74481-8']); _gaq.push(['_trackPageview']);
+
+            $(document).ready(function () {
+                var AdPageZone = document.getElementById("ctl00_ctl00_hidAdPageZone").value;
+                var GoogleAdPageZone = document.getElementById("ctl00_ctl00_hidGoogleAdPageZone").value;
+                var ShowAds = document.getElementById("ctl00_ctl00_hidShowAds").value;
+
+                if ($("#topLeaderBoard").length > 0) {
+                    TopLeaderBoard();
+                }
+                if ($("#bottomLeaderBoard").length > 0) {
+                    BottomLeaderBoard();
+                }
+                if ($("#topMedReq").length > 0) {
+                    TopMedReq();
+                }
+                if ($("#bottomMedReq").length > 0) {
+                    BottomMedReq();
+                }
+                if ($("#skyScrapper").length > 0) {
+                    SkyScrapper();
+                }
+
+                function TopLeaderBoard() {
+                    $.ajax({
+                        type: "GET",
+                        url: "/ads/topLeaderBoard.aspx?AdPageZone=" + AdPageZone + "&ShowAds=" + ShowAds, //Top banner File
+                        data: "",
+                        beforeSend: function () {
+                            $("div#topLeaderBoard").html('<span class="loading">Loading...</span>');
+                        },
+                        cache: false,
+                        success: function (data) {
+                            $("#topLeaderBoard").html(data);
+                        }
+                    });
+                }
+
+                function BottomLeaderBoard() {
+                    $.ajax({
+                        type: "GET",
+                        url: "/ads/BottomLeaderBoard.aspx?GoogleAdPageZone=" + GoogleAdPageZone + "&ShowAds=" + ShowAds,
+                        data: "",
+                        beforeSend: function () {
+                            $("div#bottomLeaderBoard").html('<span class="loading">Loading...</span>');
+                        },
+                        cache: false,
+                        success: function (data) {
+                            $("#bottomLeaderBoard").html(data);
+                        }
+                    });
+                }
+
+                function TopMedReq() {
+                    $.ajax({
+                        type: "GET",
+                        url: "/ads/TopMedReq.aspx?AdPageZone=" + AdPageZone + "&ShowAds=" + ShowAds,
+                        data: "",
+                        beforeSend: function () {
+                            $("div#topMedReq").html('<span class="loading">Loading...</span>');
+                        },
+                        cache: false,
+                        success: function (data) {
+                            $("#topMedReq").html(data);
+                        }
+                    });
+                }
+
+                function BottomMedReq() {
+                    $.ajax({
+                        type: "GET",
+                        url: "/ads/BottomMedReq.aspx?GoogleAdPageZone=" + GoogleAdPageZone + "&ShowAds=" + ShowAds,
+                        data: "",
+                        beforeSend: function () {
+                            $("div#bottomMedReq").html('<span class="loading">Loading...</span>');
+                        },
+                        cache: false,
+                        success: function (data) {
+                            $("#bottomMedReq").html(data);
+                        }
+                    });
+                }
+
+                function BottomMedReqHome() {
+                    $.ajax({
+                        type: "GET",
+                        url: "/ads/BottomMedReqHome.aspx", //Top banner File
+                        data: "",
+                        beforeSend: function () {
+                            $("div#bottomMedReqHome").html('<span class="loading">Loading...</span>');
+                        },
+                        cache: false,
+                        success: function (data) {
+                            $("#bottomMedReqHome").html(data);
+                        }
+                    });
+                }
+
+                function SkyScrapper() {
+                    $.ajax({
+                        type: "GET",
+                        url: "/ads/SkyScrapper.aspx", //Top banner File
+                        data: "",
+                        beforeSend: function () {
+                            $("div#skyScrapper").html('<span class="loading">Loading...</span>');
+                        },
+                        cache: false,
+                        success: function (data) {
+                            $("#skyScrapper").html(data);
+                        }
+                    });
+                }
+            });
+        </script>
+        <!-- End Of GOOGLE Analytics -->
+		
+
+        		<script type="text/javascript" src="/Assets/JavaScript/ClubPlanet.min.js"></script>
 
    	    <script type="text/javascript">
             (function () {
@@ -1000,25 +981,24 @@ Sys.Application.add_init(function() {
    	        })();
        </script>
 
-   	    <!-- Start Quantcast tag -->
-        <script type="text/javascript">
-            _qoptions = {
-                qacct: "p-cbSf6xZ1htigQ"
-            };
-        </script>
-        <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-        <noscript>
-            <img src="http://pixel.quantserve.com/pixel/p-cbSf6xZ1htigQ.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-            </noscript>
-        <!-- End Quantcast tag -->
+   	  
+ <script type="text/javascript">
 
-        <!-- Advertiser 'Global Interactive',  Include user in segment 'nightlife' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
-        <img src="http://ad.globalinteractive.com/pixel?id=586930&amp;t=2" width="1" height="1">
-        <!-- End of segment tag -->
+     var _gaq = _gaq || [];
+     _gaq.push(['_setAccount', 'UA-1583693-46']);
+     _gaq.push(['_trackPageview']);
 
+     (function () {
+         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
+
+</script>
         
          
 		
 
 	
+
 </body></html>
