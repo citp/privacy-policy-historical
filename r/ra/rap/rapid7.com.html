@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rapid7.com privacy policy that was archived on 2012-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121224022117id_/http%3A//www.rapid7.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rapid7.com privacy policy that was archived on 2013-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130614064633id_/http%3A//www.rapid7.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	
@@ -19,6 +19,7 @@
 
 	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen">
 	<link rel="stylesheet" type="text/css" media="print" href="/css/print.css">
+	<link rel="stylesheet" type="text/css" href="/css/jquery.fancybox.css">
 	<!--[if lt IE 9]>
 		<script type="text/javascript" src="/js/html5shiv.js"></script>
 	<![endif]-->
@@ -55,6 +56,17 @@
 
 <div class="printLogo"><img src="/images/logo.jpg" width="220" height="37" alt="logo"></div>
 
+<div class="searchBlockWrap" style="display:none">
+	<a href="javascript:void(0)" class="searchCloseBtn icon">&nbsp;</a>
+	<form action="/search.jsp" id="cse-search-box" class="clearfix">
+		<input type="hidden" name="cx" value="009245545489775321519:4c3yb5yxbko">
+		<input type="hidden" name="cof" value="FORID:10;NB:1">
+		<input type="hidden" name="ie" value="UTF-8">
+		<input type="text" name="q" value="Search by keyword" class="searchInput">
+		<input type="submit" name="sa" value="" class="searchBtn icon">
+	</form>
+</div>
+								
 <header id="headerWrap">
 	<div id="header">
 		<div id="header_content" class="clearfix">
@@ -67,16 +79,18 @@
 							<li class="utiLinks"><a href="https://community.rapid7.com/content?filterID=all~objecttype~objecttype%5Bblogpost%5D" target="_blank">Blog</a></li>
 							<li class="last utiLinks"><a href="https://community.rapid7.com/welcome" target="_blank">Community</a></li>
 							<li class="last searchBlock clearfix">
+								<!--
 								<div class="searchBlockWrap" style="display:none">
 									<a href="javascript:void(0)" class="searchCloseBtn icon">&nbsp;</a>
 									<form action="/search.jsp" id="cse-search-box" class="clearfix">
-										<input type="hidden" name="cx" value="009245545489775321519:4c3yb5yxbko">
-										<input type="hidden" name="cof" value="FORID:10;NB:1">
-										<input type="hidden" name="ie" value="UTF-8">
-										<input type="text" name="q" value="Search by keyword" class="searchInput">
-										<input type="submit" name="sa" value="" class="searchBtn icon">
+										<input type="hidden" name="cx" value="009245545489775321519:4c3yb5yxbko" />
+										<input type="hidden" name="cof" value="FORID:10;NB:1" />
+										<input type="hidden" name="ie" value="UTF-8" />
+										<input type="text" name="q" value="Search by keyword" class="searchInput" />
+										<input type="submit" name="sa" value="" class="searchBtn icon" />
 									</form>
 								</div>
+								-->
 								<a href="javascript:void(0)" class="searchBtn icon" id="showSeachForm">&nbsp;</a>
 							</li>
 							<li class="last utility_button"><a href="/resources/free-tools.jsp">Free Tools</a></li>
@@ -92,7 +106,7 @@
 								<div class="loginBox">
 									<span></span>
 									<a href="https://na13.salesforce.com/sserv/login.jsp?orgId=00D30000000mfKb" target="_blank">Customer Login</a>
-									<a href="https://system.netsuite.com/core/media/media.nl?id=25858&amp;c=663271&amp;h=d480df3a42ea647ef4a0&amp;_xt=.htm" target="_blank">Partner Login</a>
+									<a href="https://community.rapid7.com/login.jspa" target="_blank">Partner Login</a>
 								</div>
 							</li>
 							<li class="last"><a href="/store/">Store</a></li>
@@ -189,7 +203,8 @@
 						Manage Your Mobile Risk.</h3>
 					<ul>
 						<li><a href="/products/mobilisafe/">Overview</a></li>
-						<li><a href="/products/mobilisafe/features-and-benefits.jsp">Features &amp; Benefits</a></li>
+						<li><a href="/products/mobilisafe/features-and-benefits.jsp?p=torso_content">Editions</a></li>
+						<li><a href="/products/mobilisafe/features-and-benefits.jsp?p=features_list_head">Features &amp; Benefits</a></li>
 						<li><a href="/products/mobilisafe/how-mobilisafe-works.jsp">Architecture</a></li>
 						<li><a href="/products/mobilisafe/tech-specs.jsp">Tech Specs</a></li>
 					</ul>
@@ -203,14 +218,44 @@
 			<a href="/solutions/">Solutions</a>
 			<div class="hide_shadow"></div>
 			<span class="firstNavArr">&nbsp;</span>
-			<section class="dropdown lTr">
-				<ul>
-					<li><a href="/solutions/">Overview</a></li>
-					<li><a href="/solutions/need/">Need</a></li>
-					<li><a href="/solutions/role/">Role</a></li>
-					<li><a href="/solutions/industry/">Industry</a></li>
-					<li class="last"><a href="/solutions/compliance/">Compliance</a></li>
-				</ul>
+			<section class="dropdown lTr twoSubColNav">
+				<div class="resLinkBlock clearfix">
+						<div class="linkCol">
+							<h4>Need</h4>
+							<ul>
+								<li><a href="/solutions/need/vulnerability-management.jsp">Vulnerability Management</a></li>
+								<li><a href="/solutions/need/risk-validation.jsp">Risk Validation</a></li>
+								<li><a href="/solutions/need/configuration-assessment.jsp">Configuration Assessment</a></li>
+								<li><a class="linkAll" href="/solutions/need/">All Needs</a></li>
+							</ul>
+							
+							<h4>Industry</h4>
+							<ul>
+								<li><a href="/solutions/industry/energy.jsp">Energy</a></li>
+								<li><a href="/solutions/industry/financial-services.jsp">Financial Services</a></li>
+								<li><a href="/solutions/industry/federal-government.jsp">Federal Government</a></li>
+								<li><a class="linkAll" href="/solutions/industry/">All Industries</a></li>
+							</ul>
+						</div>
+						
+						<div class="linkCol">
+							<h4>Role</h4>
+							<ul>
+								<li><a href="/solutions/role/auditor.jsp">Auditor</a></li>
+								<li><a href="/solutions/role/it-operations.jsp">IT Operations</a></li>
+								<li><a href="/solutions/role/penetration-tester.jsp">Penetration Tester</a></li>
+								<li><a class="linkAll" href="/solutions/role/">All Roles</a></li>
+							</ul>
+							
+							<h4>Compliance</h4>
+							<ul>
+								<li><a href="/solutions/compliance/pci.jsp">PCI</a></li>
+								<li><a href="/solutions/compliance/hipaa.jsp">HIPAA</a></li>
+								<li><a href="/solutions/compliance/nerc.jsp">NERC</a></li>
+								<li><a class="linkAll" href="/solutions/compliance/">All Compliance Solutions</a></li>
+							</ul>
+						</div>
+					</div><!-- clearfix -->
 			</section><!-- dropdown -->
 		</li><!-- supplemental_nav_item -->
 		
@@ -228,35 +273,7 @@
 			</section><!-- dropdown -->
 		</li><!-- supplemental_nav_item -->
 		
-		<li class="supplemental_nav_item resources_nav_item ">
-			<a href="/resources/">Resources</a>
-			<div class="hide_shadow"></div>
-			<span class="firstNavArr">&nbsp;</span>
-			<section class="dropdown twoColNav">
-				<ul class="fLt">
-					<li><a href="/resources/">Overview</a></li>
-					<li><a href="/resources/advisories/">Advisories</a></li>
-					<li><a href="/resources/analyst-reports.jsp">Analyst Reports</a></li>
-					<li><a href="/resources/compliance.jsp">Compliance Guides</a></li>
-					<li><a href="/resources/customer-stories.jsp">Customer Stories</a></li> 
-					<li><a href="/resources/infographics.jsp">Infographics</a></li>  
-					<li class="last"><a href="/resources/product-briefs.jsp">Product Briefs</a></li> 
-					 
-				</ul>
-				<ul class="fRt">
-					<li><a href="/resources/free-tools.jsp">Free Tools</a></li>
-					<li><a href="/resources/product-reviews.jsp">Products Reviews</a></li>
-					<li><a href="/resources/research-reports.jsp">Research Reports</a></li> 
-					<li><a href="/resources/videos/">Videos</a></li>    
-					<li><a href="/vulndb/">Vulnerability Database</a></li>
-					<li><a href="/resources/webcasts.jsp">Webcasts</a></li>       
-					<li class="last"><a href="/resources/white-papers.jsp">White Papers</a></li>					
-                    
-				</ul>
-			</section><!-- dropdown -->
-		</li><!-- supplemental_nav_item -->
-		
-		<li class="supplemental_nav_item company_nav_item last ">
+		<li class="supplemental_nav_item company_nav_item ">
 			<a href="/company/">Company</a>
 			<div class="hide_shadow"></div>
 			<span class="firstNavArr">&nbsp;</span>
@@ -272,6 +289,60 @@
 					<li><a href="/company/events.jsp">Events</a></li>
 					<li class="last"><a href="/company/investors.jsp">Investors</a></li>
 				</ul>
+			</section><!-- dropdown -->
+		</li><!-- supplemental_nav_item -->
+		
+		<li class="supplemental_nav_item resources_nav_item ">
+			<a href="/resources/">Resources</a>
+			<div class="hide_shadow"></div>
+			<span class="firstNavArr">&nbsp;</span>
+			<section class="dropdown threeColNav">
+				<div class="clearfix">
+					<div class="newVideoBlock">
+						
+							<h4 class="marB20">New Video</h4>
+							<span class="dateTime">Jun 12, 2013</span>
+							<a href="/resources/videos/pci-compliance-basics.jsp" class="videoTitle">PCI Compliance 101 - What is PCI Compliance, and How Do I Become PCI Compliant?</a>
+							<a href="/resources/videos/pci-compliance-basics.jsp" class="imgBlock"><img src="/images/resources/videos/small-pci-compliance.jpg" alt="PCI Compliance 101 - What is PCI Compliance, and How Do I Become PCI Compliant?" width="130" height="80"></a>
+					
+					</div>
+					<div class="resLinkBlock clearfix">
+						<div class="linkCol">
+							<h4>Tools</h4>
+							<ul>
+								<li><a href="/resources/free-tools.jsp">Free Security Software</a></li>
+								<li><a href="/vulndb/">Vulnerability Database</a></li>
+								<li><a href="http://www.metasploit.com/modules/" target="_blank">Exploits Database</a></li>
+							</ul>
+							
+							<h4>Videos / Media</h4>
+							<ul>
+								<li><a href="/resources/videos/">Whiteboard Wednesday</a></li>
+								<li><a href="/resources/webcasts.jsp">Webcasts</a></li>
+								<li><a href="/resources/infographics.jsp">Infographics</a></li>
+								<li><a class="linkAll" href="/resources/videos/">All Videos / Media</a></li>
+							</ul>
+						</div>
+						
+						<div class="linkCol">
+							<h4>Reviews</h4>
+							<ul>
+								<li><a href="/resources/customer-stories.jsp">Customer Stories</a></li>
+								<li><a href="/resources/product-reviews.jsp">Product Reviews</a></li>
+								<li><a href="/resources/analyst-reports.jsp">Analyst Reports</a></li>
+							</ul>
+							
+							<h4>Papers / Guides</h4>
+							<ul>
+								<li><a href="/resources/white-papers.jsp">White Papers</a></li>
+								<li><a href="/resources/compliance.jsp">Compliance Guides</a></li>
+								<li><a href="/resources/research-reports.jsp">Research Reports</a></li>
+								<li><a class="linkAll" href="/resources/white-papers.jsp">All Papers / Guides</a></li>
+							</ul>
+						</div>
+					</div><!-- clearfix -->
+				</div><!-- clearfix -->
+				<p class="serchResBlock">Looking for a specific topic? <a href="#popUpSearchContainer" class="popUpSearch">Search Resources</a></p>
 			</section><!-- dropdown -->
 		</li><!-- supplemental_nav_item -->
 	</ul><!-- supplemental_nav -->
@@ -296,6 +367,32 @@
 	
 	</div><!-- header -->
 </header>
+
+<div class="unitedBannerContainer rPos">
+	<div class="unitedBanner" style="display:none">
+		<div class="unitedBanInner">
+			<div class="bannerCollapsed" style="display:none">
+				<a href="#" title="United Security Summit 2013">United Security Summit 2013</a>
+			</div>
+			
+			<div class="unitedBanMain" style="display:none">
+				<a class="closeBtn icon" href="javascript:void(0);" title="Close">Close</a>
+				<img src="/images/products/nexpose/uss-logo.png" alt="United Security Summit - 2013" height="150" width="96">
+				<div class="block">
+					<ul class="grybulList">
+						<li>Earn up to 32 CPE credits</li>
+						<li>Learn from visionary speakers</li>
+						<li>Hear end-user experiences and best practices</li>
+					</ul> <!-- bullted list -->
+                </div>
+                                
+				<span class="block">Training Available</span>
+				<a href="http://www.unitedsummit.org/" title="Reserve Seat" target="_blank" class="greyBtn">Reserve Seat</a>
+				<em class="block">Aug 19 - 21, 2013 Boston, MA</em>
+			</div>  <!-- united banner main container -->
+		</div>		<!-- united banner inner -->
+	</div>
+</div>
 		
 		<div id="torso">
 			<div id="torso_content">
@@ -453,17 +550,18 @@
 				<h4><a href="/resources/">Resources</a></h4>
 				<ul>
 					<li><a href="/resources/free-tools.jsp">Free Tools</a></li>
-					<li><a href="/resources/advisories/">Advisories</a></li>
 					<li><a href="/resources/analyst-reports.jsp">Analyst Reports</a></li>
 					<li><a href="/resources/compliance.jsp">Compliance Guides</a></li>
-					<li><a href="/resources/customer-stories.jsp">Customer Stories</a></li> 
-					<li><a href="/resources/infographics.jsp">Infographics</a></li>  
-					<li><a href="/resources/product-briefs.jsp">Product Briefs</a></li> 
-					<li><a href="/resources/product-reviews.jsp">Products Reviews</a></li> 
-					<li><a href="/resources/research-reports.jsp">Research Reports</a></li> 
-					<li><a href="/resources/videos/">Videos</a></li>    
+					<li><a href="/resources/customer-stories.jsp">Customer Stories</a></li>
+					<li><a href="/resources/videos/customer-testimonials.jsp">Customer Testimonials</a></li>
+					<li><a href="/resources/infographics.jsp">Infographics</a></li>
+					<li><a href="/resources/product-briefs.jsp">Product Briefs</a></li>
+					<li><a href="/resources/product-reviews.jsp">Product Reviews</a></li>
+					<li><a href="/resources/videos/product-tutorials.jsp">Product Tutorials</a></li>
+					<li><a href="/resources/research-reports.jsp">Research Reports</a></li>
 					<li><a href="/vulndb/">Vulnerability Database</a></li>
-					<li><a href="/resources/webcasts.jsp">Webcasts</a></li>       
+					<li><a href="/resources/webcasts.jsp">Webcasts</a></li>
+					<li><a href="/resources/videos/">Whiteboard Wednesday</a></li>
 					<li><a href="/resources/white-papers.jsp">White Papers</a></li>
 				</ul>
 			</article><!-- secNav -->
@@ -491,7 +589,7 @@
 		
 		<section class="footLinks clearfix">
 			<ul class="clearfix">
-				<li>© 2012 Rapid7</li>
+				<li>© 2013 Rapid7</li>
 				<li><a href="/legal.jsp">Legal</a></li>
 				<li><a href="/privacy.jsp">Privacy Policy</a></li>
 				<li><a href="/disclosure.jsp">Disclosure Policy</a></li>
@@ -506,16 +604,32 @@
 	</div><!-- footer_content -->
 </footer><!-- footer -->
 
+<div id="popUpSearchContainer" style="display:none;">
+	<h4>Search Resources</h4>
+	<p>Looking for specific topic or resource? Enter the keyword and <br>we'll try to find it for you.</p>
+	<form class="resSearchForm" action="/resources/search.jsp" name="cse-resources-search-box">
+		<input type="hidden" name="cx" value="009245545489775321519:dsjtvoo23sa">
+		<input type="hidden" name="cof" value="FORID:10;NB:1">
+		<input type="hidden" name="ie" value="UTF-8">
+		<input type="text" name="q" value="Search by keyword" class="resSerch searchInput itl">
+		<input type="submit" name="sa" value="search" class="mainBtn">
+	</form>	
+</div><!--popUpSearchContainer-->
+
+<div class="backToTop" style="display:none">
+	<div class="backInner clearfix"><a href="javascript:void(0);" title="Back To Top" class="icon">Top</a></div>
+</div>
+
 <script type="text/javascript" src="//cdn.optimizely.com/js/13222550.js"></script>
 <script type="text/javascript">var switchTo5x=false;</script>
-<script language="JavaScript" src="http://j.maxmind.com/app/country.js"></script>
+<script language="JavaScript" src="//j.maxmind.com/app/country.js"></script>
 <script type="text/javascript" src="/js/site.js"></script>
 
 	<!--[if (gte IE 6)&(lte IE 8)]>
 	  <script type="text/javascript" src="/js/selectivizr.js"></script>
 	<![endif]-->
 
-
+      
 <script type="text/javascript">
 document.write(unescape("%3Cscript src='" + document.location.protocol +
   "//munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));
