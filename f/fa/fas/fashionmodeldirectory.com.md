@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionmodeldirectory.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227071124id_/http%3A//www.fashionmodeldirectory.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionmodeldirectory.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615012710id_/http%3A//www.fashionmodeldirectory.com/info/privacy) for the most accurate reproduction.*
 
-# The Fashion Model Directory (FMD) - FashionModelDirectory.com
+# 
 
 This Policy describes the information that the Fashion Model Directory and its operated Websites (collectively, the "websites" or "we") collect about you, how this information is used and the choices you can make about the uses of your personal information.   
 This Privacy Policy applies to Fashionmodeldirectory.com and all subordinated domains and projects.
