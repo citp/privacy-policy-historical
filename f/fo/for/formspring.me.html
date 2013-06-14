@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the formspring.me privacy policy that was archived on 2012-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121203195456id_/http%3A//www.formspring.me/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the formspring.me privacy policy that was archived on 2013-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130614062907id_/http%3A//www.formspring.me/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>Formspring</title>
@@ -11,7 +11,7 @@
 <meta name="description" content="Formspring is the place to share your perspective on anything.">
 <meta name="keywords" content="">
 
-<link rel="stylesheet" type="text/css" href="http://cdn.formspring.me/css/site.pkg.min-fsv062614ac61268bfd0ac34f4f40bd6277bd4638a5.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.formspring.me/css/site.pkg.min-fsvcc7bbd5256a186c678dffd1d2e6a0ceef964222a.css">
 <link rel="stylesheet" type="text/css" href="http://cdn.formspring.me/css/about-fsv8c9c9e7e29197d8cf5dcec325ac6426c0b165ab4.css" media="all">
 
 <link rel="icon" type="image/x-icon" href="http://www.formspring.me/favicon.png">
@@ -27,7 +27,7 @@
 </style>
 <![endif]-->
 <link rel="apple-touch-icon-precomposed" href="apple-touch-icon.png">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cdn.formspring.me/js/lab-fsv00000000.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" src="http://cdn.formspring.me/js/lab-fsv00000000.js"></script>
 
 <script type="text/javascript">
     var _onAppLoaded = [];
@@ -166,6 +166,7 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
 <p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:privacy@formspring.me">privacy@formspring.me</a> or at Privacy Matters c/o Formspring.me, Inc., 182 Howard Street PMB #531, San Francisco, California 94105.</p>
     <div class="clear"></div>
     </div>
+
   <div id="footer_links">
   	<ul class="flat">
   		<li><a href="http://www.formspring.me/about/">About Formspring</a></li>
@@ -288,6 +289,7 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
 </select>
 <select name="birthday_Year">
 <option label="Year" value="" selected="selected">Year</option>
+<option label="2013" value="2013">2013</option>
 <option label="2012" value="2012">2012</option>
 <option label="2011" value="2011">2011</option>
 <option label="2010" value="2010">2010</option>
@@ -388,7 +390,6 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
 <option label="1915" value="1915">1915</option>
 <option label="1914" value="1914">1914</option>
 <option label="1913" value="1913">1913</option>
-<option label="1912" value="1912">1912</option>
 </select>
 								<p class="note error" style="display:none;">We love birthdays, when's yours?</p>
 				<p class="note" id="why-bday-text">Will not be displayed on your profile. <a href="javascript://" onclick="document.getElementById('why-bday-text').style.display='none'; document.getElementById('bday-text').style.display='block';">(Why do you need my birthday?)</a></p>
@@ -507,7 +508,7 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
 	<div class="fleft avatar">
 		<a href="[%=username%]"><img src="[%=photo%]" alt="[%=username%]" /></a>
 	</div>
-	<div class="hovertext [%=verified%]">
+	<div class="hovertext">
 		<p class="username"><a href="[%=username%]">[%=username%]</a></p>
 		<p class="realname">[%=name%]</p>
         <div class="statistics">[%=smiles%]</div>
@@ -520,7 +521,6 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
 	<form method="post" action="profile/ask/[%=username%]" id="popover_askform" onsubmit="HoverCards.ask(this); return false;">
 		<input type="hidden" name="token" value="[%=token%]">
 				<label class="customask"><img src="[%=photo%]" height="24" width="24" /> Ask [%=username%] anything</label>
-        <div class="is_taking">[%=username%] turned Springtime on <strong>[%=taking_questions_start%]</strong> <a class="tip" title="Springtime is a beta feature that allows users to control when they take questions." href="javascript://" onclick="return false;">(What's this?)</a></div>
 		<textarea name="question" maxlength="255" rows="" cols="" id="popover_ask_textarea"></textarea>
 		<div class="clear"></div>
 				<div id="recaptcha_widget_p" style="display:none">
@@ -595,11 +595,10 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
 						'page_inbox_smiled': 'modules/page_inbox_smiled-fsv341355b44032a4dac9adb58e770811a520a18b64',
 						'page_favorites': 'modules/page_favorites-fsv0b7091268df98e28a7c61c5fa20993369db72d09',
 						'photo': 'modules/photo-fsv11a3064aab470e30076e45be5020965e7209b8ae',
-						'smile_button': 'modules/smile_button-fsv85e33255da07151539d38c0821654e7d3af94b26',
+						'smile_button': 'modules/smile_button-fsva6fb04514e969cb282ace3c0f8ec9af40f35e96b',
 						'page_inbox_popular': 'modules/page_inbox_popular-fsv0c0046ddedb85c17008106c8081602b79fae10a3',
 						'partner_xgemius': 'modules/partner_xgemius-fsv469ad687f8f71eab8968bf4d1f7197130de99c2d',
 						'inbox_question': 'modules/inbox_question-fsv849c8533e4565b1e3219d8f211706c5a13b3fd5c',
-						'grabwidget': 'modules/grabwidget-fsv576062700b9547bbbfc429c2956612d8cba215a3',
 						'followrequests': 'modules/followrequests-fsv778a7b86586e9f8b6a7daa5f9741dfb6349b90fe',
 						'refresher': 'modules/refresher-fsv17c367d0acb92d513fcae03240ad544fefbc3a30',
 						'storage': 'modules/storage-fsv0fa1054b8501cab4d21ee5a829a16dd2fc04976e',
@@ -612,8 +611,8 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
 						'connect': 'modules/connect-fsv448d271bfdfd2b6fb6dfc4e4e05924f4bddd1826',
 						'question_list': 'modules/question_list-fsva55633ab248e89051144fe1956e8dd2476142e5b',
 						'page_admin': 'modules/page_admin-fsveadaad2b028cf991d59212f4b71246c970d2fccc',
-						'page_stream': 'modules/page_stream-fsvfa043623b4bf1055336ee6e91ce72ae96bd0df7f',
-						'signup': 'modules/signup-fsvb7a48b5ce168fc2cc6120cd24130b971fd19f7fe',
+						'page_stream': 'modules/page_stream-fsv63befa8a4c196da6d5b0232bcebc468f08f198f8',
+						'signup': 'modules/signup-fsv3a67fdd72a161fb003056f1e2173c4e0a4631a85',
 						'promoted': 'modules/promoted-fsvfad8e7c465a08132777c2be60467f37973507153',
 						'share': 'modules/share-fsva3f149cfc39bc5cbe29911e87e233051921a556c',
 						'appload': 'modules/appload-fsvb5cbf8d47950ed13b47a62bdc903d62e23eb3eb0',
@@ -630,19 +629,18 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
 						'page_following': 'modules/page_following-fsve683a509269433cb481e0af532b9dce435218d46',
 						'notifications': 'modules/notifications-fsva7bafe20cfa03ace7c9059d94975f2a81c239020',
 						'littlebird_search': 'modules/littlebird_search-fsv567bce55485641702dfb35beb280a4080caa857c',
-						'page_inbox_compiled': 'modules/page_inbox_compiled-fsv0a141fda6cb57a1f9040fa8e5be8838fd1ff465d',
+						'page_inbox_compiled': 'modules/page_inbox_compiled-fsv9689d06acd2760b5605c59dd6f28aae0e2d214a8',
 						'page_responses': 'modules/page_responses-fsv7054373af469f4cdf6c784eb5bad3ca076c91ec0',
 						'login_signup_prompt': 'modules/login_signup_prompt-fsv7a04cf7dce58e144b2e54b0fca5817b80bc5b421',
 						'promotedquestionadmin': 'modules/promotedquestionadmin-fsv35d09c05cd51ed526115c9c1978bd1ba3b47e90f',
-						'spring_common': 'modules/spring_common_compiled-fsv8be91ebace0da754a03e6c4627497bb9e28e1f0c',
+						'spring_common': 'modules/spring_common_compiled-fsvaf0748ebc318bd19c65a1a174a9f77f2b2e5e05b',
 						'announce': 'modules/announce-fsv956e57b9592127d160f8a81f7417c7a1a7c3afc0',
 						'everyday_questions': 'modules/everyday_questions-fsv6c085732cd96daea1414c3ab5fed9d376399f31a',
 						'signup_tracking': 'modules/signup_tracking-fsvd7135400bee349238f5f47e6566b23bcc08c1c38',
 						'stream_topic': 'modules/stream_topic-fsv7189c6cda94cc1b98c061d264fac2f0eb4e35520',
-						'spring_common_compiled': 'modules/spring_common_compiled-fsv8be91ebace0da754a03e6c4627497bb9e28e1f0c',
-						'page_inbox': 'modules/page_inbox_compiled-fsv0a141fda6cb57a1f9040fa8e5be8838fd1ff465d',
+						'spring_common_compiled': 'modules/spring_common_compiled-fsvaf0748ebc318bd19c65a1a174a9f77f2b2e5e05b',
+						'page_inbox': 'modules/page_inbox_compiled-fsv9689d06acd2760b5605c59dd6f28aae0e2d214a8',
 						'attach': 'modules/attach-fsv9dedd1580c998cf286f9947f2811fbb008ef7dab',
-						'qotd': 'modules/qotd-fsvd6c90dcc35fad2168c24fbade2063e40d23577c5',
 						'validate': 'modules/validate-fsv1ead918e24997cb2374efac1f2386e9b7a8c7007',
 						'pagination': 'modules/pagination-fsv882e320e4b3229498d6ae0338959523ea981ef5d',
 						'chat': 'modules/chat-fsva2cfc8672ca3ba78ccf9f809200e9b3cb05190af',
@@ -650,13 +648,13 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
 						'page_sentbox': 'modules/page_sentbox-fsve6bd651797edfbdadd27232eda7623124659fbb9',
 						'response': 'modules/response-fsvb04a64a11d856695ebbf5aa1c28039e2ac91da3f',
 						'page_subscriptions': 'modules/page_subscriptions-fsv3e5d0d50ff8a0d3f4fba66dec35a43d86d5fe55b',
-						'fs_ask_respond': 'modules/fs_ask_respond_compiled-fsv8ba8eec0b9262fba1e4faa49748b12dba3ed5b9a',
+						'fs_ask_respond': 'modules/fs_ask_respond_compiled-fsv80beec9b3d929a5eeb6285aab02857a5dd6236b2',
 						'page_permaresponse': 'modules/page_permaresponse-fsvcb858aa9c3724949033468b32a70c5b4469bf216',
-						'fs_ask_respond_compiled': 'modules/fs_ask_respond_compiled-fsv8ba8eec0b9262fba1e4faa49748b12dba3ed5b9a',
+						'fs_ask_respond_compiled': 'modules/fs_ask_respond_compiled-fsv80beec9b3d929a5eeb6285aab02857a5dd6236b2',
 						'page_inbox_direct': 'modules/page_inbox_direct-fsv25532387275afacee74537c4fde888e579f43af6',
 						'page_loggedout': 'modules/page_loggedout-fsv3e7b6afb19acd54e97befa7357b3cd0d1d4c7d48',
 						'hovercard': 'modules/hovercard-fsv9455ff2df0be51cea94bcfecfdc57caaa85a440c',
-						'tags': 'modules/tags-fsvb293207a7986cd53f9b9dfe4d099355bbff023ef',
+						'tags': 'modules/tags-fsv2b908f9f5e31c88197cedc4b135979024e7fafe1',
 						'jquery': 'modules/jquery-fsv3fc43fa7f1a1e87903ba18a3fa551d50e9761941',
 						'spring': 'modules/spring-fsv41e844b00be21cc94bbe285e5d4bb3f0c6792ce4',
 						'page_services': 'modules/page_services-fsv75821953342779f5169eecd05be986849ae0d930',
@@ -666,7 +664,6 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
 						'page_public_questions': 'modules/page_public_questions-fsv4c13f10c876d00dd24a0638a561eaeff70686683',
 						'text': 'modules/text-fsvb47bdf20f0445ef2cb5806db763fd67c119b4694',
 						'fsapi': 'modules/fsapi-fsva36e28253512b155ae596838051378fa0dabdc90',
-						'suggest_users': 'modules/suggest_users-fsvd0d1b67ab1744770cf573ef9b944914df886ba08',
 						'util': 'modules/util-fsve3e2cb4015bf4d13a42854bdb0b27f4931b0cc1e',
 						'block_and_report': 'modules/block_and_report-fsv8e0d9fcde5c6a2426f082abefb64bb3ff955be7b',
 						'page_explore_interests': 'modules/page_explore_interests-fsvceb21d3d78da456570f72b753b669212562495af',
@@ -703,7 +700,7 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
 
 <script type="text/javascript">
         $LAB.setGlobalDefaults({BasePath: 'http://cdn.formspring.me/', AllowDuplicates: false})
-    var my_lab_js = $LAB.script(['js/site.pkg.min-fsv3205bb886b1b190dad08ddde10214a5d78889bb6.js']).wait(function(){
+    var my_lab_js = $LAB.script(['js/site.pkg.min-fsv64591e430d3de6690d02f4f1ad5a03dc2690bd39.js']).wait(function(){
     fspring.init('http://cdn.formspring.me/');
     })
                 .script('js/no-fsvda39a3ee5e6b4b0d3255bfef95601890afd80709.js')
@@ -716,8 +713,8 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
         }
         fspring.pageInit();
             })
-                ;
-        _features = ['littlebird_search_ui','smile_shuffle_ui','favorites_directory','inbox_count_since_ui','public_follow_ui','tag_page_ui'];
+            ;
+        _features = ['littlebird_search_ui','inbox_count_since_ui','tag_page_ui'];
 </script>
 
 <script type="text/html" charset="utf-8" id="littlebird_search_template">
@@ -774,6 +771,17 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
 <div id="noCookies" style="display: none;" class="error errorBox"><strong>ERROR:</strong> Cookies are not enabled.  You must enable Cookies to use the application.</div>
 
 
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"0CMDh1aAod00G4", domain:"formspring.me",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=0CMDh1aAod00G4" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+
+
+
     <!-- begin analytics -->
     <script type="text/javascript">
     
@@ -803,7 +811,6 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
     <!-- end analytics -->
 
 
-
     
         <!-- begin quantcast -->
         <script type="text/javascript">
@@ -816,29 +823,6 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
         <img src="http://pixel.quantserve.com/pixel/p-97Kkb9H4WYDcU.gif" style="display: none;" border="0" height="1" width="1" alt="q"/>
         </noscript>
         <!-- end quantcast -->
-    
-
-    
-        <!-- begin comscore -->
-        <script type="text/javascript">
-            document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
-        </script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
-
-        <script type="text/javascript">
-        COMSCORE.beacon({
-            c1:2,
-            c2:7190799,
-            c3:"",
-            c4:"",
-            c5:"",
-            c6:"",
-            c15:""
-        });
-        </script>
-        <noscript>
-            <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=7190799&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" alt="c" />
-        </noscript>
-        <!-- end comscore -->
     
 
 <script type="text/javascript">
