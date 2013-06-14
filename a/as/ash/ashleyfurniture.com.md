@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashleyfurniture.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002234446id_/http%3A//www.ashleyfurniture.com/SiteMap/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleyfurniture.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615013420id_/http%3A//ashleyfurniture.com/SiteMap/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -96,20 +96,20 @@ As we continue to improve the services, products, and features we provide, this 
   
 California Privacy Rights  
   
-Pursuant to Section 1798.83 of California Civil Code, a California resident with whom we have established a business relationship has the right to request from us certain information with respect to the types of personally identifiable information we have shared with third parties for direct marketing purposes by such third parties, and the identities of the third parties with whom we have shared information during the immediately preceding calendar year. All requests for such information must be in writing and sent to: Ashley Furniture Industries, Director of Web Strategy, One Ashley Way, Arcadia, WI 54612.  
+Pursuant to Section 1798.83 of California Civil Code, a California resident with whom we have established a business relationship has the right to request from us certain information with respect to the types of personally identifiable information we have shared with third parties for direct marketing purposes by such third parties, and the identities of the third parties with whom we have shared information during the immediately preceding calendar year. All requests for such information must be in writing and sent to: Ashley Furniture Industries, Director of E-Retail, One Ashley Way, Arcadia, WI 54612.  
   
 Concerns About Privacy  
   
 If you have any questions or comments about this privacy policy, please contact us in any of the following ways: 
 
-  * By E-mail: communications@ashleyfurniture.com
+  * By E-mail: websiteservices@ashleyfurniture.com
   * By Mail: 
 
   
   | 
 
 Ashley Furniture Industries  
-Attention: Director of Web Strategy  
+Attention: Director of E-Retail  
 One Ashley Way  
 Arcadia, WI 54612  
   
