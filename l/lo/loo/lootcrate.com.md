@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the lootcrate.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205002331id_/http%3A//lootcrate.com/privacy_policy/index) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lootcrate.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614155921id_/http%3A//lootcrate.com/privacy_policy) for the most accurate reproduction.*
 
 # Loot Crate - Monthly Geek and Gamer Subscription Box
 
-**  
-What information do we collect?**
+## Privacy Policy
+
+**What information do we collect?**
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
   * To personalize your experience. Your information helps us to better respond to your individual needs.
   * To improve our website. We continually strive to improve our website offerings based on the information and feedback we receive from you.
@@ -64,8 +65,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
+If there are any questions regarding this privacy policy you may contact us using the information below.  
 http://www.lootcrate.com  
 2010 3rd St #203   
 Santa Monica, CA 90405  
