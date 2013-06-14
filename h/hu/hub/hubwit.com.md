@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hubwit.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115084904id_/http%3A//www.hubwit.com/eng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubwit.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614131446id_/http%3A//hubwit.com/eng/privacy) for the most accurate reproduction.*
 
-# Hubwit - Your daily surprise
+# Hubwit - The digital services ecommerce
 
 This document aims to describe the modalities of treatment and management of personal data from the website Hubwit.com and its associated. In particular with reference to the collection and processing of personal data of all Users, they could be both “Registered Users” (“Sellers” / “Buyers”) or simple “Unregistered Users”, that are visiting the site. 
 
