@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the soft32.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014082904id_/http%3A//www.soft32.com/legal/privacy%3Frel%3Dlegal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft32.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614044755id_/http%3A//www.soft32.com/legal/privacy%3Frel%3Dlegal) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Privacy Policy
 
 This website collects some Personal Data of its Users.
 
@@ -18,10 +16,12 @@ The Personal Data and Browser Data (hereinafter collectively referred to as “D
 
 Parties processing the data
 
-Owner of the Data Processing System  
+Owner of the Data Processing System
+
 I.T.N.T. S.R.L.  
 Costache Negri, 9B  
 550402, Sibiu, Romania  
+Phone: +1-(800)-985-3415  
 Email: legal @ soft32.com
 
 Kinds of Data
@@ -200,11 +200,12 @@ Those persons to whom the Data refer, have the right, at any time, to obtain con
 Right to Access, Correct and Cancel Data  
 The User is entitled to access this information, correct it if there are mistakes and cancel their ITNT account.
 
-Users can exercise these rights via the configuration menu in their personal profile, which they can access using their email address and password. If users experience problems while exercising their online rights or if they have doubts or questions related to our Personal Data Protection Policy they can contact us directly at:   
+Users can exercise these rights via the configuration menu in their personal profile, which they can access using their email address and password. If users experience problems while exercising their online rights or if they have doubts or questions related to our Personal Data Protection Policy they can contact us directly at: 
+
 I.T.N.T. S.R.L.  
 Costache Negri, 9B  
 550402, Sibiu, Romania  
-Phone: +1 (650) 433 9012  
+Phone: +1-(800)-985-3415  
 Email: legal @ soft32.com
 
 Modification of the Data Protection Policy  
