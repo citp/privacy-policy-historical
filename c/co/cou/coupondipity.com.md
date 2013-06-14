@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupondipity.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214014701id_/http%3A//coupondipity.com/contact/privacy-policy-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupondipity.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615015717id_/http%3A//coupondipity.com/contact/privacy-policy-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosure
 
@@ -127,3 +127,5 @@ www.coupondipity.blogspot.com
 Jacksonville, FL 32277
 
 coupondipity@live.com
+
+[](http://www.mylivesignature.com/)
