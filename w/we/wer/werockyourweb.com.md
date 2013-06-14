@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the werockyourweb.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016220013id_/http%3A//www.werockyourweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the werockyourweb.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614111018id_/http%3A//www.werockyourweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
