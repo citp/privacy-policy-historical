@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extremeseotools.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504082445id_/http%3A//extremeseotools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremeseotools.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614045855id_/http%3A//extremeseotools.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Extreme SEO Tools
+# Privacy Policy
 
 **What information do we collect?**
 
@@ -83,4 +83,4 @@ This policy was last modified on July, 2010
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 Extreme SEO Tools  
-chedicorn (at) hotmail.com 
+chedicorn (at) hotmail.com
